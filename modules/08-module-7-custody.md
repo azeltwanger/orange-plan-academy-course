@@ -551,7 +551,7 @@ The Lesson 3 single-point-of-failure callback:
 
 Panel copy: *"Export your entire plan as an AES-encrypted restore backup file protected by a passphrase."*
 
-⚠ Clicking **Export Plan** opens a browser passphrase prompt in plaintext. The prompt reads *"Enter a passphrase to encrypt your Orange Plan export."* This is a native browser prompt, visible on screen. It's a backup-file passphrase, not a wallet passphrase. Two different objects with two different jobs. Type it somewhere private, or use an obvious throwaway you can discard.
+⚠ Clicking **Export Plan** opens a browser passphrase prompt in plaintext. The prompt reads *"Enter a passphrase to encrypt your Orange Plan export."* This is a native browser prompt, visible on screen. It's a backup-file passphrase, not a wallet passphrase. Two different objects with two different jobs, both built to the 7-random-word standard from Lesson 1. Type it somewhere private, or use an obvious throwaway you can discard.
 
 Success toast: **Plan exported**.
 

@@ -31,7 +31,7 @@ Notice how the two failures map: handing one person everything fails both tests.
 
 The way you carry the split on a single hardware wallet is the passphrase. Anthony Park calls this poor man's multisig, and it works because of how a passphrase behaves.
 
-Quick review: a seed phrase is the 12 or 24 words that rebuild your wallet. A passphrase is an extra word or phrase added on top. And here's the key property: seed plus passphrase produces a completely different wallet than the seed alone. Same words, different passphrase, different set of coins.
+Quick review: a seed phrase is the 12 or 24 words that rebuild your wallet. A passphrase is an extra word or phrase added on top, and it's built to the standard we covered in the custody module: 7 random words off a wordlist, picked by dice or an offline generator, never words you thought of yourself. And here's the key property: seed plus passphrase produces a completely different wallet than the seed alone. Same words, different passphrase, different set of coins.
 
 So the seed alone opens a real wallet that's empty. And the passphrase alone is just a word that opens nothing. Two objects, each worthless on its own. That's exactly what lets you hand each one to a different person.
 

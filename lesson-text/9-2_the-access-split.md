@@ -11,7 +11,7 @@ The split does two jobs: **no unilateral access** (nobody can help themselves, o
 
 ## Poor man's multisig (passphrase)
 
-Seed + passphrase opens a *different wallet* than the seed alone. So: the seed alone opens a real-but-empty wallet; the passphrase alone opens nothing. Wife holds the seed; the executor holds the passphrase. Together, full access; apart, nothing. A bad actor gets nothing; a lost card still leaves half the plan intact.
+Seed + passphrase opens a *different wallet* than the seed alone. (The passphrase itself follows the custody module's 7-random-word standard.) So: the seed alone opens a real-but-empty wallet; the passphrase alone opens nothing. Wife holds the seed; the executor holds the passphrase. Together, full access; apart, nothing. A bad actor gets nothing; a lost card still leaves half the plan intact.
 
 ## Multisig version
 
