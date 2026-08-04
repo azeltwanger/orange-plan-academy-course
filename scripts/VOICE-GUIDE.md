@@ -78,6 +78,15 @@ abstractions. When guide and dictation disagree, the dictation wins.
 - Abstract nouns doing the work ("the drag costs the plan"). Austin says who
   does what: "that money just sits there losing to inflation."
 
+## Order independence (Austin, 2026-08-04)
+
+Lessons get removed, updated, and reordered. Scripts must survive that:
+- NEVER "in the next lesson" / "in the last lesson" / "as we just covered" —
+  no positional references, no teasers. A lesson ends on its homework and the
+  walkthrough hand-off, then stops.
+- Referring to another lesson BY TOPIC ("the surplus lesson," "the tax
+  module") is allowed when genuinely needed, and kept rare.
+
 ## Teach-lesson closings + walkthrough hand-off (Austin, 2026-08-04)
 
 Teach scripts may MENTION the app while teaching, but never walk clicks — the

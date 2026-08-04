@@ -1,81 +1,57 @@
 TELEPROMPTER SCRIPT — segment 2.2
 2.2 What your plan rests on: assumptions
-612 words · ~3.9 min at 155 wpm
+~4.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-An assumption is an input about the future that your plan treats as truth. Every projection is built on top of these numbers, so getting them right (or at least honest) matters more than any other single decision.
+In today's lesson, we're going to cover assumptions — the inputs about the future that your plan treats as truth.
 
-The six assumptions your plan uses:
-
-- Investment returns, including Bitcoin
-- Inflation
-- Spending, now and in retirement
-- Life expectancy
-- Savings rate before retirement
-- Future life events that change income or spending
+Every projection in your plan is built on top of these numbers, so getting them right, or at least honest, matters more than any other single decision you're going to make. There are six of them: your investment returns, including Bitcoin, inflation, your spending now and in retirement, your life expectancy, your savings rate, and any future life events that change your income or spending.
 
 == LEAN CONSERVATIVE ==
 
-Optimistic assumptions make the plan feel good today, but if they're wrong you find out years later, with the working years already spent.
+The first principle here is to lean conservative.
 
-Being conservative means you might be pleasantly surprised. Being optimistic means you might have to work longer than you thought, or spend less in retirement than you planned.
+Optimistic assumptions make the plan feel good today. The problem is that if they're wrong, you find out years later, with the working years already spent. Being conservative means you might be pleasantly surprised. Being optimistic means you might have to work longer than you thought, or spend less in retirement than you planned.
 
-If you use high Bitcoin returns, the plan pulls your retirement date closer and tells you to save less. That's not a plan; it's a wish.
+If you use high Bitcoin returns, the plan is going to pull your retirement date closer and tell you to save less. And that's not a plan — that's a wish.
 
 == HOW MUCH ONE ASSUMPTION CAN MOVE THINGS ==
 
-Take someone who's 45 with 1.75 Bitcoin and $80,000 a year of spending:
+Let me show you how much one input matters. Take someone who's 45, holding 1.75 Bitcoin, spending $80,000 a year.
 
-- Bitcoin at 40% forever (its historical rate). Earliest retirement lands around age 50.
-- Bitcoin at 20% now, declining as adoption grows. Earliest retirement moves to around age 58.
+If you run Bitcoin at 40% forever — and to be clear, that's a deliberately conservative number, well under what Bitcoin has actually done historically — their earliest retirement lands around age 50.
 
-Eight years, from one input. Nothing else about their situation changed.
+Now run Bitcoin at 20%, declining as adoption grows. The retirement date moves to around age 58.
+
+That's eight years, from one input. Nothing else about their situation changed.
 
 == THE FOUR BITCOIN PRESETS ==
 
-The app has four built-in growth curves:
+The app has four built-in growth curves, and you'll see them on screen when we get to the walkthrough. There's Conservative, which starts around 20% and declines toward 6%. Moderate, starting around 30%. Aggressive, which starts higher and declines more slowly. And Power law, which is a curve fitted to Bitcoin's entire price history going back to 2009.
 
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Preset | Starting return | Ending return |
-|---|---|---|
-| Conservative | ~20% | ~6% |
-| Moderate | ~30% | ~8% |
-| Aggressive | Higher | Declines more slowly |
-| Power law | ~38% | 10 to 15% |
-┄┄ end table ┄┄
+Power law is what I use in my own plan until proven otherwise. Because it's fitted to the actual history, it kind of takes the argument out of picking a number.
 
-Power law is what I use in my own plan until proven otherwise. It's a curve fitted to Bitcoin's entire price history since 2009, so it takes the argument out of picking a number.
-
-Every preset declines. As Bitcoin gets larger, it's harder to move.
-
-- At $10 billion Bitcoin, one big institution could move the entire market.
-- At $1 trillion, doubling takes trillions of new dollars.
-- At $10 trillion, doubling takes tens of trillions.
-
-A declining preset is more honest than a flat annual return.
+Now, notice that every single preset declines over time. And the reason is that as Bitcoin gets larger, it gets harder to move. When Bitcoin was a $10 billion asset, one big institution could move the entire market. At a trillion dollars, doubling takes trillions of new dollars coming in. At $10 trillion, it takes tens of trillions. So a declining growth curve is just more honest than assuming a flat return for 30 or 40 years.
 
 == INFLATION ==
 
 Inflation sounds like nothing, but it does a lot of damage over time.
 
-If you're spending $80,000 a year today, over 15 years:
+If you're spending $80,000 a year today, at 3% inflation, that same lifestyle costs about $125,000 a year 15 years from now. At 4%, it's about $144,000. That's roughly $20,000 more, every single year, from one percentage point.
 
-- At 3% inflation, that same lifestyle costs about $125,000/yr at age 60.
-- At 4% inflation, it costs about $144,000/yr. About $20,000 more, every year.
+The default in the app is 3%. If you think inflation is going to run hotter than that going forward, push it to 4 or 5. I personally run mine in that range.
 
-The default in the app is 3%. If you think inflation runs hotter than that going forward, push it to 4-5%. I personally run it in that range.
+== THE OTHER ASSETS ==
 
-== THE OTHER ASSET CLASSES ==
-
-Bitcoin gets the most attention because it moves the plan the most, but the app also has return assumptions for stocks, bonds, and cash. Those default to reasonable numbers. You can revisit them later if you want to run something more conservative.
+Bitcoin gets the most attention because it moves the plan the most, but the app also has return assumptions for stocks, bonds, and cash. Those default to reasonable numbers, and you can revisit them later if you want to run something more conservative.
 
 == HOW TO CHOOSE YOURS ==
 
-Four things to keep in mind:
+So how do you choose? Four things to keep in mind:
 
 1. Start conservative. If the plan works on a conservative assumption, the upside becomes a bonus.
 2. Use a declining Bitcoin return. Flat returns aren't realistic across a 30 or 40 year plan.
-3. Take inflation seriously. Push 3% higher if the last few years told you to.
-4. Pick something you can live with if you're wrong. The right assumption still holds up if the future doesn't cooperate.
+3. Take inflation seriously. Push it above 3% if the last few years told you to.
+4. And pick something you can live with if you're wrong. The right assumption still holds up if the future doesn't cooperate.
 
-You'll get to change these later and see what the plan looks like under different assumptions. For now, we're setting the ones your baseline plan actually runs on.
+You're going to get to change these later and see what your plan looks like under different assumptions. For now, we're setting the ones your baseline actually runs on — and we'll do that in the walkthrough at the end of this module.

@@ -62,5 +62,3 @@ Your homework for this lesson is to:
 1. Pick what your target amount of months that you want saved is.
 2. Multiply that by your bare-bones spending.
 3. Enter both into the reserve settings in the app, which I'll show you in the walkthrough below this video.
-
-In the next lesson, we're going to talk about the future costs you already know are coming, and how to keep them from eating into this reserve.

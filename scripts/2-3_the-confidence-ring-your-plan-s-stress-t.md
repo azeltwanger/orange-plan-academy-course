@@ -1,89 +1,62 @@
 TELEPROMPTER SCRIPT — segment 2.3
 2.3 The confidence ring: your plan's stress test
-892 words · ~5.8 min at 155 wpm
+~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
+
+In today's lesson, we're going to cover the two numbers at the top of your plan — your earliest retirement date, and your confidence number — and how to read them together.
 
 == YOUR EARLIEST RETIREMENT DATE ==
 
-Your earliest retirement date is the year your assumptions say you could stop working. It's your freedom date.
+Your earliest retirement date is the year your assumptions say you could stop working. I think of it as your freedom date.
 
-Freedom means different things depending on where you're at. It might mean full retirement, work becoming optional, or stepping back to only what matters to you. Whatever version you're planning for, the earliest retirement date is when the plan says you could safely make that move.
+And freedom means different things depending on where you're at. It might mean full retirement, it might mean work becoming optional, or it might mean stepping back to only the things that matter to you. Whatever version you're planning for, this date is when the plan says you could safely make that move.
 
-The date is deterministic: it runs your numbers forward using the average returns from your assumptions. One line into the future, no stress test. Real markets don't work that way, which is where the confidence number comes in.
+One thing to understand about the date: it's deterministic. It runs your numbers forward using the average returns from your assumptions. One line into the future, no stress test. And real markets don't work that way — which is where the confidence number comes in.
 
 == THE CONFIDENCE NUMBER ==
 
-The confidence number runs your entire plan through a thousand different simulated futures, each with different market results, then counts how many succeeded.
+The confidence number takes your entire plan and runs it through a thousand different simulated futures, each one with different market results, and then it counts how many of them succeeded.
 
-If your confidence number is 82%, that means 820 of those thousand runs succeeded on your numbers.
+So if your confidence number is 82%, that means 820 of those thousand runs succeeded on your numbers.
 
-The failing 18% is not the probability you go broke. It's the probability you'd need to make adjustments: spending a little less for a stretch, working a year longer, or delaying a purchase. Failure in the simulation means the plan needed to bend, not that you ended up with nothing.
+Now here's the important part. The failing 18% is not the probability that you go broke. It's the probability that you'd need to make adjustments — spending a little less for a stretch, working a year longer, delaying a purchase. Failure in the simulation means the plan needed to bend. It doesn't mean you ended up with nothing.
 
 == READING THE TWO TOGETHER ==
 
-- The date tells you when.
-- The confidence number tells you how sturdy that date is.
+The date tells you when. The confidence number tells you how sturdy that date is.
 
-Age 60 at 82% confidence is a real answer. Age 60 at 55% confidence would be the same date on the screen with a much weaker plan behind it.
-
-You want to look at both. A high confidence number with a date you can live with is what we're building toward.
+Age 60 at 82% confidence is a real answer. Age 60 at 55% confidence is the same date on the screen with a much weaker plan behind it. So you want to look at both. A high confidence number, with a date you can live with — that's what we're building toward.
 
 == WHAT THE SIMULATION IS ACTUALLY RUNNING ==
 
-The simulation doesn't just shuffle a portfolio return. It runs your entire plan inside every one of those thousand futures.
+I want to show you what's actually happening under the hood, because this isn't just shuffling a portfolio return.
 
-For each run:
+Every one of those thousand futures runs your entire plan. It starts from your real balances today — your Bitcoin, your brokerage, your retirement accounts, your cash. In year one, every asset gets its own return based on your assumptions and its historical volatility. Then your actual life runs: income comes in, taxes go out, spending happens, withdrawals happen in your order, contributions and debt payments happen. You land on new balances. Then year two starts fresh with new market returns, and it does it again. Forty-five years of that is one complete future.
 
-- Start from your real balances today (Bitcoin, brokerage, retirement accounts, cash).
-- In year one, every asset gets its own return based on your assumptions and its historical volatility.
-- Your actual life runs: income in, taxes out, spending, withdrawals in your order, contributions, debt payments. You land on new balances.
-- Year two starts fresh with new market returns. Same steps. Then year three. Forty-five years of that is one complete future.
-
-Then it runs another 999 futures with different market returns and counts how many succeeded.
-
-Running your real life inside every path makes the answer sensitive to your plan, not just to your portfolio.
+Then it runs another 999 futures with different markets and counts how many succeeded. Running your real life inside every path is what makes the answer sensitive to your plan, and not just to your portfolio.
 
 == WHY BITCOIN NEEDS A FAT-TAILED MODEL ==
 
-Most models assume returns follow a normal bell curve. Point one at Bitcoin and it'll tell you a year down 70% basically never happens. Anyone in Bitcoin for more than a cycle knows that's wrong.
+Most models out there assume returns follow a normal bell curve. And if you point one of those at Bitcoin, it's going to tell you that a year down 70% basically never happens. Anyone who's been in Bitcoin for more than a cycle knows that's wrong.
 
-Bitcoin has had years down more than 70%, and years where it tripled. Those extreme years show up in Bitcoin's history far more often than a bell curve would predict. "Fat tails" means the extremes on both ends stay likely, instead of vanishing the way they do in a normal distribution.
+Bitcoin has had years down more than 70%, and it's had years where it tripled. Those extreme years show up in Bitcoin's history far more often than a bell curve would predict. That's what "fat tails" means — the extremes on both ends stay likely, instead of vanishing the way they do in a normal distribution.
 
-The engine uses a fat-tailed distribution for Bitcoin, calibrated to its actual return history (shape sourced from Swan Bitcoin research). If you built a plan on a bell-curve model of Bitcoin, the plan would look sturdier than it is.
+So the engine uses a fat-tailed distribution for Bitcoin, calibrated to its actual return history. If you built a plan on a bell-curve model of Bitcoin, the plan would look sturdier than it actually is.
 
-== THE VOLATILITY TABLE ==
+== VOLATILITY AND CORRELATIONS ==
 
-Every asset in the simulation has its own volatility and range:
+Every asset in the simulation gets its own volatility. Bitcoin runs at roughly 50%, easing toward 20% as it matures — which is about three times as far as stocks move in a typical year. And that, by the way, is exactly why a Bitcoin holder needs a bigger cash reserve than a stock holder does.
 
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Asset | Volatility (annual) | Single-year range |
-|---|---|---|
-| Bitcoin | ~50%, easing toward 20% as it matures | -75% to +250% |
-| Stocks | 16% | -40% to +50% |
-| Real estate | 12% | (n/a) |
-| Bonds | 5% | (n/a) |
-| Cash | 1% | (n/a) |
-┄┄ end table ┄┄
+The extremes are grounded in reality too. Bitcoin's single-year floor in the model is set just past its worst actual year, and there's a cap on the upside so the fat tail doesn't produce years that never happened.
 
-Bitcoin's -75% floor is set just past its worst actual year (-73% in 2018). The +250% cap prevents the fat tail from producing years that never happened.
-
-A 50% volatility means Bitcoin moves about three times as far as stocks in a typical year. That's why a Bitcoin holder needs a bigger cash reserve than a stock holder does (Module 2).
-
-== CORRELATIONS ==
-
-The assets aren't run independently. Markets move together in the real world.
-
-- Bitcoin and stocks are tied at a correlation of about 0.35. They don't move in lockstep, but they tend to fall in the same years more often than not.
-- Inflation is negatively correlated with stocks: in the paths where costs rise, balances tend to fall.
-
-Correlations come from J.P. Morgan's long-term capital market assumptions and research from ARK Invest and Fidelity Digital Assets.
+The assets also don't run independently, because markets move together in the real world. Bitcoin and stocks are tied at a correlation of about 0.35 — they don't move in lockstep, but they tend to fall in the same years more often than not. And inflation runs negatively correlated with stocks, so in the paths where your costs rise, your balances tend to fall. Those relationships come from long-term capital market research.
 
 == HOW TO READ YOUR NUMBER ==
 
-A few things to keep in mind:
+Three things to keep in mind when you read yours:
 
-- A high number means fewer adjustments. 82% doesn't mean 18% chance of going broke. It means the plan needed to adjust in 180 of the thousand runs.
-- Watch for big moves, not small ones. Small run-to-run changes aren't meaningful. If a change to your plan moves the number 5-10 points, that's the change telling you something.
-- The number is directional. It's a stress test on research and history. When the research updates, the app's numbers update with it.
+1. A high number means fewer adjustments. 82% doesn't mean an 18% chance of going broke — it means the plan needed to adjust in 180 of the thousand runs.
+2. Watch for big moves, not small ones. Small run-to-run changes aren't meaningful. If a change to your plan moves the number 5 or 10 points, that's the change telling you something.
+3. And the number is directional. It's a stress test built on research and history, not a guarantee.
 
-The next module builds the cash flow that lets you keep buying Bitcoin without being forced to sell at the wrong time.
+You're going to run your own confidence ring for the first time in the walkthrough at the end of this module.
