@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 7.2
 7.2 The bridge years
-~4 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the bridge years, which is the stretch between your last paycheck and your full income floor.
@@ -18,6 +18,18 @@ The first milestone is retirement day. The paycheck stops, and from that day the
 The second is age 59 and a half. That's when your retirement accounts unlock, meaning you can pull from a traditional IRA or 401(k) without the 10% early-withdrawal penalty. Verify that under current law.
 
 And the third is the day Social Security begins. That's when the floor rises, and it splits your retirement into two eras: the years you're on your own, and the years you're not.
+
+Now I need to clear something up, because the phrase "bridge years" gets used two different ways and it confuses people.
+
+There are actually two bridges, and they're different lengths.
+
+The first is the bridge to your income floor, which runs from the day you retire until Social Security starts. That's the one this lesson is about, and it's the one that decides how much your portfolio has to carry alone.
+
+The second is the bridge to your retirement accounts, which runs from the day you retire until you turn 59 and a half. That one decides which accounts you're allowed to touch cheaply.
+
+For a lot of people those overlap, so it doesn't matter much. But if you retire at 64, you have zero bridge to your retirement accounts, because you're already past 59 and a half, and you might still have a 3-year bridge to Social Security. And if you retire at 50, both bridges are long and the account one bites first.
+
+So when you hear me say bridge years, I mean the bridge to your income floor. When I mean the other one, I'll say the 59 and a half bridge. Count both for yourself, because they're two separate constraints.
 
 == COUNT THEM, THEN PRICE THEM ==
 
@@ -56,6 +68,18 @@ But here's what the standard advice leaves out: waiting isn't free. Every year y
 So don't default to waiting just because the check is bigger. Compare 62, full retirement age, and 70 against your own gap. In the app, there are two one-click scenarios for this, claim at 62 and claim at 70, and each one re-runs your entire plan with the floor turning on at that age. Read your own bridge both ways, side by side.
 
 I'm not going to tell you which one to pick. This decision is personal, and it's worth confirming with your advisor. But make it a comparison, not a default.
+
+== BUILD THE RESERVE BEFORE YOU NEED IT ==
+
+One more thing that's specific to holding Bitcoin, and it's about timing.
+
+If Bitcoin's 4-year cycle keeps roughly holding, then there's a decent chance the year you retire lands somewhere near a cycle high. That's not a prediction, it's just what happens when you pick a retirement date years in advance and the asset moves in cycles.
+
+And that cuts both ways. It means the balance you retire on might be flattered by where the price happens to be. But it also means you have an opportunity, which is to build your retirement cash reserve during the strong years leading into your retirement date, rather than trying to build it after you've already stopped working.
+
+Because think about the alternative. If you retire at a high, and then the first year of your retirement is a 70% drawdown, and you have no reserve built, you are now selling Bitcoin at the bottom to fund your groceries. That's the exact failure the reserve exists to prevent.
+
+So if you're inside about 5 years of retiring, I'd treat filling that retirement-sized reserve as a real goal with a deadline on it, and I'd fund it out of strength while the strength is there.
 
 == HOMEWORK ==
 

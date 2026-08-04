@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 10.3
 10.3 The annual review: all six areas
-~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the annual review: one thorough pass across six areas, once a year.
@@ -58,6 +58,10 @@ What good looks like: this year's window was either used or deliberately passed,
 The custody area has one non-negotiable: prove one recovery this year. "I'm pretty sure the backup works" isn't enough. You run an actual restore test on a spare device, same as the wipe-and-restore from the custody module.
 
 Then rescan for single points of failure, because new accounts, new devices, and backups that moved all create fresh only-ones. And refresh your account security.
+
+There's one more question here that's specific to Bitcoin, and it's easy to skip. Re-ask the custody level question at today's balance, not the balance you had when you set the whole thing up. If the price ran up this year, your setup is now guarding a lot more money than it was designed for, and you never actually made that decision. The market made it for you. So if the level and the stakes have drifted apart, closing that gap is a real candidate for one of your three actions.
+
+And while you're here, if you've been buying small amounts all year, this is a good moment to check whether it's worth consolidating those small chunks on a low-fee day.
 
 What good looks like: one recovery proven, last year's worst only-one fixed, and no new ones created.
 

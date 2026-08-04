@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 8.2
 8.2 The hardware wallet and the recovery test
-~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the hardware wallet setup, and the recovery test that proves your backup actually works before serious money depends on it.
@@ -56,6 +56,36 @@ Here's why that matters: network fees depend on how many bills you're spending, 
 The fix is to sweep on a threshold, not on a schedule. My rule of thumb is about 0.01 to 0.02 Bitcoin as a minimum per transfer. Your smaller monthly buys accumulate on the exchange until they hit the threshold, and then they move in one transaction.
 
 And if you already have a pocketful of small bills, the fix is consolidation: you combine many small pieces into one, in a single transaction, best done when network fees are low. That's an annual custody review item. It's maintenance, not an emergency.
+
+== IF YOU'RE AFRAID TO TOUCH IT ==
+
+I want to talk to a specific person for a minute, because I run into them a lot.
+
+You bought the hardware wallet. You moved your Bitcoin onto it. And now you don't touch it. You don't plug it in, you don't update it, you don't check it, because you're scared that plugging it in is the thing that gets you robbed.
+
+I had a client tell me almost exactly that. She said she doesn't plug it into anything, and that outside of receiving and sending she doesn't really use it, because she doesn't know how to keep it safe.
+
+If that's you, here's what I want you to understand.
+
+A hardware wallet is built for this. The whole design is that your keys never leave the device. It doesn't hand them to your computer or your phone when you plug it in. That's the entire reason the thing exists. So plugging it into your normal computer is not the risk you think it is.
+
+There is one real threat to know about, and it's worth knowing precisely. There's malware that watches your clipboard and swaps the Bitcoin address you're sending to. You paste in your address, and what actually gets sent is somebody else's.
+
+The defense takes 10 seconds and it never fails: **read the address on the hardware wallet's own screen and confirm it matches what's on your computer.** The whole address, not just the first few characters. The device screen is the thing malware can't touch. That's why it has a screen.
+
+On firmware updates, I'll tell you what I do. I don't rush them. When an update comes out, I usually wait a few months and let other people find the problems first. But I do eventually install them, because they often contain real security fixes. Being a little paranoid here isn't a bad instinct at all. Just don't let it turn into never.
+
+== PIN VERSUS SEED PHRASE ==
+
+And here's a distinction that resolves a fear I hear constantly, which is: what if I die and nobody knows my PIN?
+
+Your PIN protects the device. That's all it does. If someone gets the physical device, the PIN is what stops them.
+
+Your seed phrase IS your Bitcoin. It works in any hardware wallet from any manufacturer.
+
+So if something happens to you and your family doesn't know your PIN, that's fine. They don't need it. They buy a new hardware wallet, restore from the seed phrase, and the Bitcoin is there. The PIN dies with the device and it doesn't matter.
+
+That also means the reverse is true, and it's the part to take seriously: **protecting the PIN is not protecting your Bitcoin.** The seed phrase is the thing that needs the real protection.
 
 == HOMEWORK ==
 

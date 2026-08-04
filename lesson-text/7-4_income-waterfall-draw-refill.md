@@ -35,7 +35,7 @@ Target: 18 months × $80k = $120k. Spending held → refill fully. Spending cut 
 1. **Know what the default order costs.** Draining one bucket first wastes years of cheap tax room, then hands you a much bigger bill later.
 2. **Spread income instead of stacking it**, so you use the cheap years while you have them.
 3. **Spend from the reserve, not the volatile assets**, so a bad market never sets your paycheck.
-4. **Set the refill rule by year type**: full in a good year, partial in a bad one, and never lower the target.
+4. **Tie the refill to your confidence number**, not a feeling about the year: at or above 80% with no guardrail hit, refill fully; lower guardrail hit, hold a minimum and wait until confidence climbs back toward 80%; upper guardrail, refill regardless. The target never moves, only the pace.
 
 ## Homework
 

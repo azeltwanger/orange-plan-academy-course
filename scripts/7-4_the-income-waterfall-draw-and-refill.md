@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 7.4
 7.4 The income waterfall + draw and refill
-~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover two things that work together: the income waterfall, which is the order your retirement paycheck gets assembled in, and draw and refill, which is how you put cash back after you spend it.
@@ -60,6 +60,12 @@ Now the second half: draw and refill.
 The draw side is simple. You spend from the Reserve. This year's paycheck comes from cash, never directly from volatile assets. And each bucket refills the one before it. The Bridge refills the Reserve, and Legacy, which is your Bitcoin growth, refills the Bridge.
 
 The refill side has one rule: refill only on strength. You refill when the source is up, never when it's down.
+
+And here's how I'd actually decide that in practice, because "up" is vague and your confidence number isn't. Tie the refill to the guardrails.
+
+If you're at or above 80% confidence and you haven't hit a guardrail, refill the reserve fully that year. If you've hit the lower guardrail, meaning your confidence has slid toward 60, hold a minimum in the reserve and wait to refill until you climb back toward 80. And if you've hit the upper guardrail, you refill regardless, because you're in a strong year by definition.
+
+The target itself never moves. What moves is the pace you rebuild it at.
 
 So if markets are up, you top up the buffers. If markets are down, you stop the refill, live on the Reserve, and let the engine recover. That way you are never rebuilding cash by selling into weakness. And you do this once a year, at your annual review, not every time the price moves.
 

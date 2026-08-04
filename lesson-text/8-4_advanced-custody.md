@@ -5,6 +5,12 @@ You found your single points of failure in the last lesson. Advanced custody spl
 ## The three paths
 
 - **Passphrase single-sig**: one seed + a hidden extra word. Simplest family-followable advanced plan. ⚠ A forgotten passphrase is permanent; back it up separately, practice small.
+**Why a passphrase at all:** someone cleans your house and finds your seed phrase in a drawer. Without a passphrase they have your Bitcoin. With one, they have words that open an empty wallet.
+
+⚠ **The temptation is to pick something short and memorable** so you can't forget it. Memorable means guessable, and this guards money for decades. The answer isn't a passphrase you can remember. It's 7 random words backed up properly in two places, so you never have to.
+
+**Password manager?** Fine as *one* copy, never the only one, and only if someone else can get into it if you're gone. A passphrase that dies with you is a secure way to lose your Bitcoin. Keep a physical copy.
+
 **Making the passphrase strong: the 7-word standard.** A passphrase you invent is the weak point; quotes, lyrics, names, and dates get cracked first. Use **7 random words** from a wordlist, picked by dice or an offline generator (diceware), never by you. Each random word multiplies the guesses needed by ~7,776; seven words is ~90 bits of entropy, which is millions of years of guessing at a trillion tries per second. Never personal facts or reused passwords. Record it exactly (case-sensitive), on paper or steel, never typed online. Same standard for three things: wallet passphrase, password manager master password, plan-backup passphrase. Built-in trade-off: unguessable also means unrecoverable, so it gets its own backup, stored away from the seed.
 
 - **Collaborative multisig (2-of-3)**: you hold two keys, a provider holds one (never your seed). Heirs get a guided recovery. Costs a fee + some vendor dependence.

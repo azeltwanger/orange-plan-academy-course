@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 6.3
 6.3 The RMD risk + Roth conversions
-~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the RMD risk, and the main tool for defusing it, which is the Roth conversion.
@@ -12,6 +12,20 @@ Here's the whole idea in one sentence, and if you take nothing else from this le
 That's it. That's the entire play. Everything else I'm going to show you is just proving two things: that the later rate really is going to be higher, and how much room you actually have to work with right now.
 
 The bracket lesson opened up that low-bracket window. This lesson is about why filling it matters so much, especially if you're holding Bitcoin.
+
+== THE BITCOIN TIMING ANGLE ==
+
+And there's a second dial here that almost nobody talks about, because it only exists if you're holding Bitcoin.
+
+A conversion is taxed on the dollar value of what you move, on the day you move it. So the price of Bitcoin on that day decides your tax bill.
+
+Think about what that means. If your retirement account holds Bitcoin and the price is down 50% from the top, then moving that Bitcoin costs you half as much in tax as moving the exact same coins would have cost at the top. Same coins landing in the Roth. Half the bill.
+
+I had a client put it better than I did. He said, it's the same amount of cash, but a different amount of Bitcoin. That's exactly right. For the same tax dollars, a bear market moves more of your Bitcoin into a place where it never gets taxed again.
+
+So on top of picking the right years, which is what the bracket lesson covered, you're also picking the right prices. And a deep bear market is when this move is on sale.
+
+Now, I want to be careful here, because I'm not telling you to try to time the bottom. Nobody knows where the bottom is. What I am saying is that if Bitcoin is well off its highs and you were already planning conversions, that's a much better moment to do one than a moment when the price just made a new high.
 
 == WHAT AN RMD IS ==
 

@@ -24,6 +24,18 @@ Plan → Income → Retirement Borrowing prices all three against a sell-as-you-
 
 1. Taxes this year on each path? 2. Does the loan survive −50%? 3. Is the capacity even enough to matter? 4. Does your spouse understand the loan? Mix freely: a sell year, a borrow year, a hold-forever core.
 
+## The combined move: sell to the bracket, borrow above it
+
+In retirement with little other income, you can realize a meaningful amount of long-term gains at **0%** (the app shows your number). Say that's around $100,000. Selling up to that line costs nothing in federal tax. The next dollar is taxed at **15%**.
+
+**15% is usually more expensive than a Bitcoin-backed loan's interest rate.** So instead of selling past the line, you sell up to it and borrow the rest. What you save is the spread between that 15% and the loan rate, without giving up the Bitcoin.
+
+In one sentence: **sell up to the top of your 0% bracket, borrow anything above it.**
+
+⚠ Everything from the LTV lesson still applies. This puts a loan on your balance sheet with the same margin-call risk. Attractive tax math doesn't relax the cushion rules.
+
+The app models this directly as **Bracket-aware** mode in the Retirement Borrowing tab.
+
 ## Homework
 
 Run all three on one year of your spending, then across five years (borrow-only: interest + LTV drift; sell-only: taxes). Bring the outputs to the household and CPA conversations.

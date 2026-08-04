@@ -62,6 +62,26 @@
 - read one surfaced item, agree/disagree · run AFTER lots are clean, BEFORE committing a conversion/harvest
 - ⚠ "reviews and explains. Does not decide."
 
+## □ 7b · WHERE THE TAX MONEY COMES FROM — ⚠ the #1 confusion
+**Say this slowly. Every client gets stuck here.**
+- **The conversion tax is NOT paid out of the account you converted.** You do not "withdraw to pay it," and there is no penalty involved.
+- It's an ordinary tax bill, due at tax time, paid like any other tax bill: **from cash, or by selling from your taxable account.**
+- 👀 point at the two pots on screen: the retirement account (moving) · the taxable account / checking (paying)
+- ⚠ **Pay it from OUTSIDE.** Convert $30,000, owe $3,600 — pay from taxable/checking and the full $30,000 compounds tax-free. Pay it from the conversion and only $26,400 lands.
+- **Say the client line:** "so we'd be selling from the taxable Bitcoin, not from the account we just converted" — that's the sentence that makes it click
+
+**Then the cash-flow question they'll actually ask: "how do I come up with that money?"**
+- Save cash between now and the filing deadline
+- Sell some taxable Bitcoin
+- Split the conversion across 2 years so each bill is smaller
+- ⚠ **Size the conversion to a bill you can actually pay.** Deciding to convert and then discovering the bill is how good moves turn into stress.
+- ⚠ Filing deadlines and extension rules are law-set. Point at them, don't quote them, and say: **"confirm the dates and any interest with your CPA before you rely on them."**
+
+**And the Bitcoiner's version of the question: save that money in dollars or in Bitcoin?**
+- Dollars = the bill is certain, the money is certain
+- Bitcoin = you might have more, you might have less, and the bill doesn't move
+- Say it plainly: **a tax bill is a fixed obligation with a date on it. Module 2 said fixed obligations don't get funded by volatile assets.** Same rule here.
+
 ## □ 8 · Capture decisions (paper is fine)
 1. this year's moves (harvests doing, conversion applying)
 2. next low-income-year moves (the bridge window)

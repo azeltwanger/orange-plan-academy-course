@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 7.5
 7.5 Sell, borrow, or hold
-~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the three ways to fund your life from a Bitcoin-heavy plan: sell, borrow, or hold.
@@ -52,6 +52,26 @@ The decision frame is 4 questions.
 One: taxes. What's the actual tax bill on each path this year? Two: liquidation risk. Does the loan survive a 50% Bitcoin drop? Three: cash flow. Is the annual borrowing capacity even enough to matter? And four: family comfort. Does your spouse actually understand the loan structure? Because if you're not around, they're the one managing it.
 
 And remember you can mix these. A sell year, a borrow year, and a hold-forever core can all live in the same plan.
+
+== THE COMBINED MOVE: SELL TO THE BRACKET, BORROW ABOVE IT ==
+
+There's one more move, and it's the one that combines the first two. I want to go slow here, because when I explain this to clients, this is the exact spot where they ask me to back up.
+
+Here it is. In retirement, if you don't have much other income, you can sell a meaningful amount of Bitcoin and pay 0% on the gain, because long-term capital gains have a 0% bracket at the bottom. The app will show you your own number.
+
+So say that number is around $100,000 of gains for your situation. Selling up to that line costs you nothing in federal tax.
+
+Now, what about the dollar right after that line? That one gets taxed at 15%.
+
+And here's the move: 15% is usually more expensive than the interest rate on a Bitcoin-backed loan. So instead of selling past the line and paying 15%, you sell up to the line and you borrow the rest.
+
+What you're saving is the difference between that 15% capital gains rate and the loan's interest rate. And you're doing it without giving up the Bitcoin.
+
+Let me say the whole thing in one sentence, because it's worth memorizing. Sell up to the top of your 0% bracket, and borrow anything above it.
+
+That said, everything from the LTV lesson still applies here. This move puts a loan on your balance sheet, and that loan has all the same margin call risk we covered. So the cushion rules don't get relaxed just because the tax math is attractive.
+
+The app models this directly. In the Retirement Borrowing tab there's a Bracket-aware mode, and that's exactly what it's doing: selling into your cheap bracket, borrowing above it.
 
 == HOMEWORK ==
 

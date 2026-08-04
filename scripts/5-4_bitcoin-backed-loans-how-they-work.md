@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 5.4
 5.4 Bitcoin-backed loans: how they actually work
-~11 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~14 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover Bitcoin-backed loans: how they actually work, how the numbers move, and what happens when they go wrong.

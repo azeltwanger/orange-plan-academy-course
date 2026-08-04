@@ -30,6 +30,8 @@ Beneficiaries current (the form beats the will)? Letter still accurate? Executor
 
 A tick-as-you-go checklist plus a note for next year. One card from every module, once a year, each asking whether a decision still fits.
 
+**Custody, one Bitcoin-specific addition:** re-ask the custody level question at *today's* balance. If the price ran up, your setup is guarding more money than it was designed for and you never made that decision. Closing that gap is a real candidate for one of your three actions. Also a good moment to consolidate small UTXOs on a low-fee day.
+
 ## Your decision
 
 **Which month you run it, and what "done" looks like.**

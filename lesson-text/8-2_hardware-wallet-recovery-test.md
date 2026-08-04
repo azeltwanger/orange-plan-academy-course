@@ -24,6 +24,23 @@ Each transfer in creates a **UTXO**: a separate bill in your wallet. You spend w
 - **Sweep on a threshold, not a schedule:** ~0.01–0.02 BTC minimum per transfer; accumulate on the exchange until then.
 - Already dusty? **Consolidate** small pieces into one when fees are low. Annual maintenance, not an emergency.
 
+## If you're afraid to touch it
+
+Common and understandable: you moved Bitcoin onto the device and now you never plug it in, in case plugging it in is what gets you robbed.
+
+A hardware wallet is built for exactly this. **Your keys never leave the device.** It doesn't hand them to your computer when you plug it in. That's the whole reason it exists.
+
+**The one real threat:** malware that swaps the Bitcoin address you're sending to. The defense takes 10 seconds and never fails: **read the address on the device's own screen and confirm it matches your computer.** The whole address. That screen is the thing malware can't touch.
+
+**Firmware:** don't rush updates, but do install them eventually. Waiting a few months lets other people find problems first. Paranoid is a fine instinct; never-update isn't.
+
+## PIN versus seed phrase
+
+- **Your PIN protects the device.** That's all it does.
+- **Your seed phrase *is* your Bitcoin.** It works in any hardware wallet from any manufacturer.
+
+So if your family doesn't know your PIN, that's fine, because they buy a new device and restore from the seed. The PIN dies with the device. Which also means **protecting the PIN is not protecting your Bitcoin.** The seed is what needs real protection.
+
 ## Homework
 
 1. Never done the wipe-and-restore? Watch the demo lesson and do it with a small amount before serious money is on the line.

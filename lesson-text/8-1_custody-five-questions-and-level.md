@@ -39,6 +39,18 @@ A second question applies to whatever isn't self-custodied: **how many instituti
 
 **The rule:** self-custody is the real answer to counterparty risk; splitting institutions is the hedge for whatever isn't self-custodied yet. Add the second institution when the amount justifies the maintenance, not before.
 
+## What self-custody asks of you
+
+A client put it better than I have: **with self-custody, you are the point of failure, and the attack vector.** Most of life doesn't work this way. We outsource violence to the police and security to the banks; that's largely what civilization is. Bitcoin asks you to take one of those jobs back.
+
+Two things follow. **It's reasonable not to want the whole job.** That's what collaborative custody is for, and why a hardened exchange position is legitimate for part of a stack. And **if you do take it, feeling the weight is appropriate**, not a flaw.
+
+## Your stack can outgrow your setup
+
+You pick a setup that matches what you hold. Then the price runs up, and the same untouched setup is guarding three or four times as much. You never made that decision; the market made it for you.
+
+**Put this on the annual review:** re-ask the level question at *today's* balance, not the balance you had when you set it up. If the answer changed, the setup changes with it.
+
 ## Homework
 
 1. Score the five questions; write the number.

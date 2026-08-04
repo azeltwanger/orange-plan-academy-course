@@ -21,6 +21,8 @@ Industry practice backs these lines: the widely used advisor "confidence zone" r
 
 100% confidence was never the goal. It usually means over-saving and under-living.
 
+**Does it model a crash on top of a crash?** Yes. Some of those runs are gentle, some stack a terrible year onto another terrible year, and a few are genuinely brutal. You're looking at a spread of futures, including the ugly ones.
+
 ## Your decision
 
 **What confidence level you're aiming for, and which lever you'd pull if you come in under it.**

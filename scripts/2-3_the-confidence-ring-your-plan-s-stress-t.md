@@ -23,6 +23,10 @@ The confidence number takes your entire plan and runs it through a thousand diff
 
 You'll see this called a Monte Carlo simulation, and that's the label on the button in the app. Don't let the name throw you. All it means is running your plan a thousand times instead of once, so you're looking at a range of outcomes instead of a single guess.
 
+A client asked me a sharp question about this once. He wanted to know whether it models a bad thing happening on top of another bad thing. Like, the price already dropped 50%, does any of those runs have it dropping another 30% from there?
+
+Yes. That's exactly what those thousand runs are for. Some of them are gentle, some of them stack a terrible year onto another terrible year, and a few of them are genuinely brutal. The whole point is that you're not looking at one guess about the future. You're looking at a spread of them, including the ugly ones.
+
 So if your confidence number is 82%, that means 820 of those thousand runs succeeded on your numbers.
 
 Now here's the important part. The failing 18% is not the probability that you go broke. It's the probability that you'd need to make adjustments — spending a little less for a stretch, working a year longer, delaying a purchase. Failure in the simulation means the plan needed to bend. It doesn't mean you ended up with nothing.

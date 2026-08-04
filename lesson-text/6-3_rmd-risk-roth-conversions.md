@@ -24,6 +24,24 @@ Conversion income is ordinary income and stacks *under* your capital gains, so i
 
 Plain withdrawals shrink the bucket too (fill a bracket, spend it as income). 72(t) exists for early access but is strictly professional-review territory.
 
+## The Bitcoin timing angle
+
+A conversion is taxed on the **dollar value on the day you move it**, so the Bitcoin price that day sets your tax bill. Move the same coins when the price is down 50% and the tax is half. As a client put it: *it's the same amount of cash, but a different amount of Bitcoin.* For the same tax dollars, a bear market moves more of your Bitcoin into a place it's never taxed again.
+
+So you're picking the right *years* (from the bracket lesson) and the right *prices*. Not a call to time the bottom: if Bitcoin is well off its highs and you were already planning conversions, that's a better moment than one right after a new high.
+
+## Where the tax money comes from
+
+⚠ The conversion tax is **not** paid out of the account you converted, and no penalty is involved. It's an ordinary tax bill paid from **cash or your taxable account**.
+
+Pay it from outside and the full conversion compounds tax-free. Convert $30,000, owe $3,600: pay from taxable and all $30,000 lands; pay from the conversion and only $26,400 does.
+
+**How to fund the bill:** save cash before the deadline, sell some taxable Bitcoin, or split the conversion across two years so each bill is smaller. **Size the conversion to a bill you can actually pay.**
+
+**Save that money in dollars or Bitcoin?** A tax bill is a fixed obligation with a date on it, and fixed obligations don't get funded by volatile assets. Same rule as Module 2.
+
+⚠ Filing deadlines and extension rules are law-set and change. Confirm dates and any interest with your CPA.
+
 ## Homework
 
 1. Estimate your tax-deferred balance at 73; divide by ~26; add Social Security.

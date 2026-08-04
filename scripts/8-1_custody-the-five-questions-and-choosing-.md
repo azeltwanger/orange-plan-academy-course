@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 8.1
 8.1 Custody: the 5 questions and choosing your level
-~12 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~15 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover custody: the 5 questions that expose your gaps, and how to choose the right custody level for your family.
@@ -78,6 +78,34 @@ Here's when splitting across institutions is worth doing. First, when the custod
 Now here's what it costs you, and I don't want to gloss over this. Every extra account is another login, another email address to secure, another two-factor setup to protect. Three sloppy accounts are worse than one hardened one. Every extra account is also another set of tax lots that you have to track and reconcile, and we're going to get into that in the tax module. And every extra account is one more row that your executor has to find. If it doesn't make it onto your Family Custody Map, you've effectively hidden money from your own family.
 
 So the honest rule I'd give you is this. Self-custody is the real answer to counterparty risk. Splitting across institutions is the hedge you use for whatever isn't self-custodied yet. I think you add the second institution when the amount justifies the maintenance, and not before. A small stack sitting on one hardened exchange is a legitimate setup, and adding a bunch of accounts to it just gives you more surface area to protect.
+
+== WHAT SELF-CUSTODY ACTUALLY ASKS OF YOU ==
+
+Before we size this, I want to name something that a client put better than I ever have.
+
+He said: with self-custody, you are the point of failure. And not just the failure, you're the attack vector. And then he made the point that most of life doesn't work this way. We outsource violence to the police. We outsource security to the banks. That's basically what civilization is, handing off the hard, dangerous jobs to somebody whose job it is.
+
+And Bitcoin asks you to take one of those jobs back.
+
+I think that's worth sitting with, because it explains why custody feels heavier than the rest of this course. It isn't just another checkbox. It's you accepting a responsibility that, for every other asset you own, somebody else carries for you.
+
+Two things follow from that.
+
+The first is that it's completely reasonable to not want the whole job. That's what collaborative custody exists for, and it's why a hardened exchange position is a legitimate setup for part of your stack. Taking the job back is a choice, not an obligation.
+
+The second is that if you do take it, being a little paranoid is appropriate, not a character flaw. You should feel the weight. The people who get hurt are usually the ones who didn't.
+
+== YOUR STACK CAN OUTGROW YOUR SETUP ==
+
+And here's the trigger nobody sets a reminder for.
+
+You pick a custody setup that matches what you're holding. Fine. But then the price runs up, and now that same setup, which you never touched, is guarding three or four times as much money.
+
+You didn't make a decision. The market made it for you. And your custody level quietly fell behind what's at stake.
+
+A client asked me about this directly. He wanted to know whether at some point his self-custody gets too large, and whether you'd want to dial it back. And the honest answer is yes, that point exists for most people, and almost nobody notices when they cross it.
+
+So this belongs on your annual review. Once a year, re-ask the level question at today's balance, not the balance you had when you set it up. If the answer changed, your setup needs to change with it.
 
 == SIZING IT ON A REAL HOUSEHOLD ==
 
