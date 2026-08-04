@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 8.1
 8.1 Custody: the five questions and choosing your level
-~13 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~22 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover custody: the five questions that expose your gaps, and how to choose the right custody level for your family.
@@ -65,6 +65,20 @@ Level 1, the exchange, buys you convenience and easy inheritance, and what it co
 
 The pattern underneath all four is the same. More sovereignty always means more responsibility. More convenience always means more counterparty risk. You never actually eliminate risk in custody. What you're really doing is choosing which risks you're going to hold yourself, and which ones you're going to hand to somebody else. And that's why I want you matching your level to your stakes and your skill, not picking it based on ideology.
 
+== DON'T HOLD IT ALL AT ONE INSTITUTION ==
+
+Everything I've covered so far is about what type of custody you're using. There's a second question that applies to whatever you have not self-custodied yet, and that's how many institutions is it sitting in.
+
+Think about Celsius, BlockFi, and FTX for a second. Those weren't self-custody failures. Those were concentration failures. The customers who lost everything are the ones who had everything in one place.
+
+So for the custodial part of your stack, and that's your exchange balance, any ETF shares, your retirement account exposure, the question I want you asking is whether one company's bad week can take all of it.
+
+Here's when splitting across institutions is worth doing. First, when the custodial amount is big enough that losing access to it for a few months would actually change your life. Second, when you're using an exchange balance as the pile you'd reach for in an emergency, because that job needs a backup for the week the account is frozen. And third, when the institutions actually fail in different ways. Two exchanges are more correlated with each other than an exchange and a brokerage ETF are, and both of those are way more correlated than either one is with a hardware wallet in your house.
+
+Now here's what it costs you, and I don't want to gloss over this. Every extra account is another login, another email address to secure, another two-factor setup to protect. Three sloppy accounts are worse than one hardened one. Every extra account is also another set of tax lots that you have to track and reconcile, and we're going to get into that in the tax module. And every extra account is one more row that your executor has to find. If it doesn't make it onto your Family Custody Map, you've effectively hidden money from your own family.
+
+So the honest rule I'd give you is this. Self-custody is the real answer to counterparty risk. Splitting across institutions is the hedge you use for whatever isn't self-custodied yet. I think you add the second institution when the amount justifies the maintenance, and not before. A small stack sitting on one hardened exchange is a legitimate setup, and adding a bunch of accounts to it just gives you more surface area to protect.
+
 == SIZING IT ON A REAL HOUSEHOLD ==
 
 Let's size the couple. At an illustrative $100,000 a coin, the hardware wallet is $150,000 and the exchange is $25,000.
@@ -114,6 +128,18 @@ And two practical things. First, a wallet passphrase is case-sensitive and compl
 The trade-off here is built right in, and I want you to see it. A passphrase that's strong enough to be unguessable is also unrecoverable if you lose it. That's exactly why it gets its own backup, stored separately from the seed, and why you practice with a small amount first.
 
 Path two is collaborative multisig. You hold two keys, a provider holds one, plus the configuration. This is best for a meaningful balance, or for heirs who aren't technical, because what you're buying is a professional on call to guide them. The costs are an annual fee and some vendor dependence. One important note: the provider's single key can't spend on its own, so they never actually custody your Bitcoin.
+
+Let me go a level deeper on collaborative, because I think it's the right answer for more households than pick it, and the key count is the part people miss.
+
+It's a two-of-three. Three keys exist, and any two of them can move Bitcoin. You hold two. The provider holds one.
+
+That split gives you two properties I want you to really understand. The first one is that they can never take your Bitcoin, because one key out of a required two spends nothing. They're a co-signer, not a custodian, and that is the entire difference between this and leaving it on an exchange. The second is that they can never lock you out, because you're already holding two keys, which is a spending quorum all by itself. You don't need their permission or their participation to move your own money.
+
+So what are you actually paying for? Three things. A key you didn't have to store yourself. A copy of the configuration file, held by somebody whose actual job is not losing it. And a human being who is going to pick up the phone and walk your family through a recovery on the worst week of their lives. That third one, honestly, is the whole reason this path exists.
+
+Before you pick a provider, I want you to verify four things. Number one, can you recover if the provider is gone? They should hand you the configuration file, and it should work in open-source wallet software that they don't control. If the answer is that you'd have to call them, then that's a custodian wearing a multisig costume. Number two, is there a documented inheritance process? Ask exactly what happens when your executor calls, and what proof they're going to require. Number three, what's the annual fee, and what happens to your wallet if you stop paying it? And number four, what do they require from you, in identity verification and in privacy terms, to open the account in the first place.
+
+The honest downside here is that you're depending on a company to keep existing across a timeline measured in decades. That's a real risk and I'm not going to talk you out of it. But notice that it's bounded by the key count. Your worst case is that the provider vanishes and you spend an afternoon recovering with your two keys and the config file. Compare that to the DIY worst case, where the person who understood the whole setup is the person who died.
 
 Path three is DIY multisig. You hold every key and the configuration yourself. Best for technically proficient people. It buys you maximum privacy and full independence. But here's the trade nobody talks about: your heirs inherit the complexity with no professional to guide them. This path trades your family's recovery odds for your independence.
 
