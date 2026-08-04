@@ -80,3 +80,5 @@ Your homework for this lesson is to:
 1. Decide who holds each half of your split. Heirs on one side, executor on the other.
 2. Schedule the Saturday-afternoon test with a small amount, and actually run it.
 3. Confirm the pieces stay in separate places afterward, and that nothing anywhere has both halves written together.
+
+One note before you build this: how an access split interacts with your will and with your executor's legal authority is a question for an estate attorney in your state. I'm showing you the mechanics. The legal side gets designed with somebody licensed where you live.

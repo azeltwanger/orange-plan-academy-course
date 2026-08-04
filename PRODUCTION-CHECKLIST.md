@@ -128,6 +128,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ Toolkit PDFs uploaded to Materials (Family Custody Map, Heir Letter, Executor Packet, Coverage Audit, Estate Plan Maps)
 ☐ Watch-through pass: no current-year numbers on screen, no law-set figures spoken, no seed/PIN frames in 8.5
 ☐ Course-wide click-through as a student: every video plays, every download works
+☐ ⚖ LEGAL GATE — attorney review complete (see LEGAL-REVIEW-PACKET.md): course Terms + course Disclaimer published; refund/renewal terms live; marketing claims reviewed
 ☐ Publish from the Honen dashboard
 ☐ Save final master copies to Google Drive ("Orange Plan Course" folder)
 

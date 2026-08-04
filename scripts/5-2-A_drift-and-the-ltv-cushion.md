@@ -51,4 +51,6 @@ So here's where I land on this. If you're going to borrow against Bitcoin, size 
 
 In practice, that usually means starting at 20 to 25% LTV, not 40 or 50%. Anything higher than that, and a completely normal Bitcoin bear market turns into a forced-sale event for you, at the worst possible price.
 
+And I'll say the obvious thing here, because borrowing against your Bitcoin is the highest-stakes move in this whole course: I'm not telling you to take one of these loans. Lending terms, margin-call rules, and who's actually holding your collateral vary a lot by lender, so read the actual agreement and run it past somebody who represents you before you sign anything.
+
 So that's the math on the cushion. Now let's look at the app, because it draws this as a picture, and the picture is a lot easier to read than the arithmetic.

@@ -20,4 +20,12 @@ Each module has short teach lessons plus a walkthrough video where you implement
 1. Go in order. Each module builds on the last.
 2. Use your real numbers. A plan on placeholder numbers is a demo, not a plan.
 3. Do the homework the same day you watch. It's designed to be finished in one sitting.
-4. Nothing here is financial, tax, or legal advice. It's education plus a modeling tool. Verify decisions with your own professionals.
+4. Nothing here is financial, tax, or legal advice. Verify decisions with your own professionals.
+
+## What this course is, and isn't
+
+This is education. It is not financial, tax, or legal advice, and taking it does not create an advisor relationship. Everything here is general: it's the same course for every student, and it can't account for your situation, your full balance sheet, or your goals.
+
+Orange Plan is a modeling tool. It runs projections on the numbers you enter. **A projection is a hypothetical, not a promise**, and nothing here guarantees any result. Bitcoin is volatile and past performance says nothing about future returns.
+
+Taxes, insurance, and estate planning are the areas where your specific facts change the answer and where rules change over time. The course points you to a CPA, a licensed insurance professional, and an estate attorney in those modules for that reason. Use this to get educated and organized, then verify anything you're about to act on.

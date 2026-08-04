@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 1.1
 1.1 Start here: what this course is and how to use it
-~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 Welcome to the course. In this first lesson, I'm going to cover what this course is, what you're going to walk out with, and how to get the most out of it.
@@ -44,6 +44,18 @@ Rough and honest beats precise and late.
 A plan built on real numbers that are approximately right, this week, beats a perfect plan a year from now. The most common failure mode I see is people spending 3 months reconstructing their exact cost basis before they ever run their first confidence check. Don't do that. Get the plan standing first, and refine after.
 
 I think a module a week is a good pace when you're starting. I wouldn't binge them back to back — each one ends with a decision or an action, and the plan builds on itself one piece at a time.
+
+== ONE THING BEFORE WE START ==
+
+Before we go any further, I want to be clear about what this course is and what it isn't.
+
+This is education. It is not financial, tax, or legal advice, and me teaching it does not make me your advisor. Everything in here is general. It's the same course for everybody watching it, and I don't know your situation, your full balance sheet, or what else is going on in your life.
+
+That matters most in a few specific places. When we get to taxes, to insurance, and to estate planning, I'm going to keep pointing you toward a CPA, a licensed insurance professional, and an estate attorney. Those are the areas where the details of your situation genuinely change the right answer, and where the rules change over time too.
+
+The app works the same way. It's a modeling tool. It runs projections on the numbers that you give it, and a projection is a hypothetical, not a promise. Nothing in here is a guarantee of any result, and past performance of Bitcoin or anything else doesn't tell you what it's going to do next.
+
+So use this to get educated, get organized, and show up to those professional conversations prepared. Then verify anything you're about to act on.
 
 == BEFORE THE FIRST MODULE ==
 

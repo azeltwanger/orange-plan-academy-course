@@ -73,6 +73,8 @@ Last piece: the reserve refill runs off this same annual review. For the couple,
 
 If spending held or rose, refill fully. If spending got cut, refill partway, to about 12 of the 18 months. And the target itself stays 18 months no matter what. A cut year slows the refill. It never shrinks the target.
 
+One thing to keep in mind: the guardrail bands and the 10% cap are defaults that come out of published research, sized here for Bitcoin's volatility. They're a starting point for a conversation, not a rule you have to adopt. If you're working with a planner, this is a good page to bring them.
+
 == HOMEWORK ==
 
 Your homework for this lesson is to:
