@@ -45,7 +45,7 @@ Watch this. They sell Bitcoin to fund $80,000 of spending, and only the gain cou
 
 They just funded their entire year of spending and paid zero dollars of tax on those gains. That's stage one.
 
-Stage two is the stretch before Social Security. Still flexible. Benefits haven't started, nothing is forced yet. This is where you keep filling those low brackets on purpose, and the next lesson covers exactly what to fill them with.
+Stage two is the stretch before Social Security. Still flexible. Benefits haven't started, nothing is forced yet. This is where you keep filling those low brackets on purpose, and the Roth conversion lesson covers exactly what to fill them with.
 
 Stage three is when Social Security and the forced withdrawals arrive. Benefits turn on at 67, which for the couple is about $51,600 a year. RMDs stack on top at 73. Income jumps, and it stays up.
 
