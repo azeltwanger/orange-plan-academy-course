@@ -77,12 +77,13 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ## ☐ MODULE 7 — Custody
 
-☐ 8.1 Five questions + your level — 🎙 film `8-1` (longest teach, ~13 min)
+☐ 8.1 Five questions + your level — 🎙 film `8-1` (~13 min; incl. per-level trade-offs + multi-institution)
 ☐ 8.2 Hardware wallet + recovery test — 🎙 film `8-2`
 ☐ 8.3 Close the doors — 🎙 film `8-3`
-☐ 8.4 External demo: wallet setup + hardening — 🖥 capture `8.4` (NOT Orange Plan; sealed device + burner exchange; ⚠ no seed/PIN ever in frame; review footage)
-☐ 8.5 Walkthrough: custody map — 🖥 capture `8.5` (6 steps; passphrase prompt typed off-camera)
-☐ Module 7: edit → upload → paste lesson text (8-1 … 8-5)
+☐ 8.4 Advanced custody: passphrase, multisig, collaborative — 🎙 film `8-4` (~11 min; 7-word passphrase standard + entropy graphic)
+☐ 8.5 External demo: wallet setup + hardening — 🖥 capture `8.5` (NOT Orange Plan; sealed device + burner exchange; ⚠ no seed/PIN ever in frame; review footage)
+☐ 8.6 Walkthrough: custody map — 🖥 capture `8.6` (6 steps; passphrase prompt typed off-camera)
+☐ Module 7: edit → upload → paste lesson text (8-1 … 8-6)
 
 ## ☐ MODULE 8 — Estate
 
@@ -115,7 +116,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ☐ Every lesson page: teach video + walkthrough video below it + lesson text pasted
 ☐ Toolkit PDFs uploaded to Materials (Family Custody Map, Heir Letter, Executor Packet, Coverage Audit, Estate Plan Maps)
-☐ Watch-through pass: no current-year numbers on screen, no law-set figures spoken, no seed/PIN frames in 8.4
+☐ Watch-through pass: no current-year numbers on screen, no law-set figures spoken, no seed/PIN frames in 8.5
 ☐ Course-wide click-through as a student: every video plays, every download works
 ☐ Publish from the Honen dashboard
 ☐ Save final master copies to Google Drive ("Orange Plan Course" folder)

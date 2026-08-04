@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 8.1
 8.1 Custody: the five questions and choosing your level
-~22 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~13 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover custody: the five questions that expose your gaps, and how to choose the right custody level for your family.
@@ -101,70 +101,10 @@ Before the advanced material, one thing I want to say directly: custody is not a
 
 The right setup is one you can maintain, explain, and recover from. A simple setup your family can actually use beats an advanced one nobody understands. You'll hear people say real Bitcoiners self-custody everything, immediately. I think that claim is wrong, and it gets people hurt. You move up a level by earning it, with skill and with need. Not with ideology.
 
-== ADVANCED SETUPS: PASSPHRASE, MULTISIG, COLLABORATIVE ==
-
-Now the advanced setups, for when you're at Level 3 or 4.
-
-What "advanced" actually means here is removing the single points of failure that a single-device, single-seed setup has. Every advanced setup takes one of those only-ones and splits it into two. And you pay for that in complexity, and in what your family has to be able to do.
-
-Two definitions first. A passphrase is an extra word you choose, layered on top of your seed. The wallet doesn't open without both. And multisig, short for multi-signature, means the wallet is secured by several separate keys, and more than one has to sign before Bitcoin moves. The common setup is two-of-three: three keys, any two can spend, and losing any single one costs you nothing.
-
-There are three paths.
-
-Path one is passphrase single-sig. One seed plus a hidden extra word. It's best for a modest stack, and what it buys you is the simplest advanced plan a family can follow. The watch-out is serious, though: a forgotten passphrase locks the funds permanently. There is no reset mechanism, no support line. So the passphrase gets its own backup, stored separately from the seed, and you practice with a small amount first.
-
-Now, since the passphrase is doing so much work in this path, let me talk about how to actually make one that's strong, because this is where people get it wrong.
-
-A passphrase that you make up yourself is the weak point of the whole setup. Humans pick quotes, song lyrics, kids' names, dates. And the people trying to crack wallets run exactly those lists first. So the fix is randomness that you didn't choose.
-
-What I want you to use is 7 random words, picked from a wordlist by rolling dice or by a generator running offline. This is called the diceware method, and a good password manager can do it for you too, with the device offline. The key word is random. The tool picks the words, not you.
-
-Here's why 7 is the number. Every word that gets drawn at random from the standard wordlist multiplies the number of guesses an attacker needs by about 7,776, because that's how many words are on the list. By the time you're at 7 words, you're at roughly 90 bits of entropy, which works out to more combinations than a machine guessing a trillion times per second could get through in millions of years. 4 or 5 words is where "pretty good" lives. I think 7 is the floor for money that has to stay safe forever.
-
-A few nevers while we're here. Never personal facts, never quotes or lyrics, never an address or a pet's name, and never a password that you already use somewhere else. The test is simple: if it means something to you, it's guessable.
-
-And two practical things. First, a wallet passphrase is case-sensitive and completely unforgiving, so you record it exactly, letter for letter, on paper or on steel, and it never gets typed into anything that's online. Second, this same 7-word standard covers three different things in this course: your wallet passphrase, your password manager's master password, and the passphrase on the encrypted plan backup that we make in the walkthroughs. One method, three uses.
-
-The trade-off here is built right in, and I want you to see it. A passphrase that's strong enough to be unguessable is also unrecoverable if you lose it. That's exactly why it gets its own backup, stored separately from the seed, and why you practice with a small amount first.
-
-Path two is collaborative multisig. You hold two keys, a provider holds one, plus the configuration. This is best for a meaningful balance, or for heirs who aren't technical, because what you're buying is a professional on call to guide them. The costs are an annual fee and some vendor dependence. One important note: the provider's single key can't spend on its own, so they never actually custody your Bitcoin.
-
-Let me go a level deeper on collaborative, because I think it's the right answer for more households than pick it, and the key count is the part people miss.
-
-It's a two-of-three. Three keys exist, and any two of them can move Bitcoin. You hold two. The provider holds one.
-
-That split gives you two properties I want you to really understand. The first one is that they can never take your Bitcoin, because one key out of a required two spends nothing. They're a co-signer, not a custodian, and that is the entire difference between this and leaving it on an exchange. The second is that they can never lock you out, because you're already holding two keys, which is a spending quorum all by itself. You don't need their permission or their participation to move your own money.
-
-So what are you actually paying for? Three things. A key you didn't have to store yourself. A copy of the configuration file, held by somebody whose actual job is not losing it. And a human being who is going to pick up the phone and walk your family through a recovery on the worst week of their lives. That third one, honestly, is the whole reason this path exists.
-
-Before you pick a provider, I want you to verify four things. Number one, can you recover if the provider is gone? They should hand you the configuration file, and it should work in open-source wallet software that they don't control. If the answer is that you'd have to call them, then that's a custodian wearing a multisig costume. Number two, is there a documented inheritance process? Ask exactly what happens when your executor calls, and what proof they're going to require. Number three, what's the annual fee, and what happens to your wallet if you stop paying it? And number four, what do they require from you, in identity verification and in privacy terms, to open the account in the first place.
-
-The honest downside here is that you're depending on a company to keep existing across a timeline measured in decades. That's a real risk and I'm not going to talk you out of it. But notice that it's bounded by the key count. Your worst case is that the provider vanishes and you spend an afternoon recovering with your two keys and the config file. Compare that to the DIY worst case, where the person who understood the whole setup is the person who died.
-
-Path three is DIY multisig. You hold every key and the configuration yourself. Best for technically proficient people. It buys you maximum privacy and full independence. But here's the trade nobody talks about: your heirs inherit the complexity with no professional to guide them. This path trades your family's recovery odds for your independence.
-
-The table on the screen compares them across four rows: single point of failure, maintenance load, heir-friendliness, and cost. Look at all four rows before picking. Technical people tend to stop at row one and end up with something their family can't use.
-
-Run it on the same household. $175,000 of Bitcoin, he's 45 and healthy, his wife has never restored a wallet, and the kids are 10 and 12.
-
-DIY multisig wins the single-point-of-failure row, but it hands a widow and two middle-schoolers a recovery job nobody in the house can do. Collaborative is a real option, and if the stack triples, I think it becomes the right one. But right now they'd be paying an annual fee for a problem they don't have yet. The passphrase path fits. One seed, one extra word, split between two people. It's the only path his wife could realistically be walked through in an afternoon.
-
-Match the setup to your family and your stack, and only add complexity when it buys real risk reduction.
-
-== THE CONFIG FILE ==
-
-One last thing, and for multisig households this is the part that actually gets families locked out.
-
-The keys hold the money. The config is the file that records how those keys connect into one wallet: which keys, the two-of-three rule, the technical addresses. That file is the map. With the config, your heirs have three seeds in separate locations plus the map, and the wallet reassembles. Without it, they can hold all three seeds in their hands and still be locked out.
-
-And this is not hypothetical. A man dies with a two-of-three multisig holding about $300,000. He did everything right on the keys. Three seeds, three separate locations, the executor holds one, and the family finds all three. They recover nothing. $300,000, lost to a missing file.
-
-Here's the config file's superpower, though: it's public. It has no spending power. Losing it to a thief costs you privacy, not coins. Which means you can back it up aggressively, in ways you would never back up a seed. And if you're with a collaborative provider, they hold the config for you. On top of the support, that annual fee is buying the one file your heirs can't reconstruct on their own.
-
 == HOMEWORK ==
 
 Your homework for this lesson is to:
 
-1. Score yourself on the five questions and write down the number. For most people it's one or two, and that's fine. Now you know the jobs.
+1. Score yourself on the five questions and write down your number. For most people it's one or two.
 2. Write down which level you're at today, and which level your amount and your family say you should be at.
-3. And if you're running multisig, go find your config file, back it up, and tell one other person it exists.
+3. For anything you haven't self-custodied, write down how many institutions it's sitting in, and be honest about whether that number matches what's at stake.
