@@ -3,7 +3,7 @@ TELEPROMPTER SCRIPT — segment 3.2
 ~800 words · ~5 min at 155 wpm · SPOKEN-PROSE VERSION (voice-calibrated v2)
 ============================================================
 
-In this lesson we're going to size your cash reserve. By the end you'll have your target number, and you'll know exactly why it's that size and not bigger or smaller.
+So in this lesson we're going to size your cash reserve.
 
 Your reserve is the cash you set aside so you're never forced to sell your Bitcoin at the wrong time. Our couple is holding 1.75 Bitcoin. Back in 2022, Bitcoin dropped 77% from its peak. Now imagine a job loss hits somewhere in the middle of that window. If they're not holding enough cash, the mortgage still has to get paid, and now they're selling Bitcoin at a 77% discount just to cover the house payment.
 

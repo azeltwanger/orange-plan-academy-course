@@ -45,10 +45,9 @@ Every script conversion is checked against this, not against "good writing."
 
 This is a PAID course, not YouTube. No hooks, no stakes-selling, no "imagine
 if" openers — students already bought in, and re-selling them wastes their
-time. Every lesson opens with 1–2 sentences of plain orientation:
+time. Every lesson opens with ONE line — the promise, short and sweet:
 
-  "In this lesson we're going to [do the thing]. By the end you'll have
-  [the concrete output]. Let's get into it."
+  "So in this lesson we're going to [do the thing]."
 
 Then teach. The why-it-matters material (stories, failure scenarios) stays in
 the lesson BODY as teaching content, never dressed as an opener. Don't recite
