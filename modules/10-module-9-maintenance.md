@@ -265,6 +265,8 @@ The next lesson is the walkthrough that runs the annual review in the app.
 ## 10.4 Walkthrough: run the annual review in Orange Plan
 *`DEMO` · 1,753 words · ~8 min*
 
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **10.4**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+
 **By the end of this lesson, you can:**
 
 - Complete an annual review in the app in one sitting

@@ -115,6 +115,8 @@ A financial plan is what that finished document represents.
 ## 11.2 Walkthrough: walk your report in Orange Plan
 *`DEMO` · 1,572 words · ~7 min*
 
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **11.2**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+
 **By the end of this lesson, you can:**
 
 - Walk your own report end-to-end

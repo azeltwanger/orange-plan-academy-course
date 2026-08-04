@@ -457,6 +457,8 @@ The next lesson is the walkthrough that routes your surplus and sets your alloca
 ## 4.6 Walkthrough: route it in Orange Plan
 *`DEMO` · 1,895 words*
 
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **4.6**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+
 > ✅ Reflects the 2026-07-29 **Legacy** rename — the "Legacy is what the app
 > calls the Forever bucket" reconciliation note is now deleted from the course.
 > Proposed v2 name: **"Walkthrough: set your target mix and where new money goes"**.

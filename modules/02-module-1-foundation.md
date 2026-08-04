@@ -258,6 +258,8 @@ The next module builds the cash flow that lets you keep buying Bitcoin without b
 ## 2.4 Walkthrough: set up your plan and build your baseline in Orange Plan
 *`DEMO` · 3,297 words · ~20 min read*
 
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **2.4**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+
 **By the end of this lesson, you can:**
 
 - Complete Orange Plan onboarding with your baseline inputs

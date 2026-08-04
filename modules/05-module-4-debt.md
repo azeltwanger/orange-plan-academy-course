@@ -84,6 +84,8 @@ Two different reads. Their monthly is fine. Their balance sheet is at the ceilin
 
 So those are your two ratios on paper. Now let's get them out of your head and into the app, because the app runs the stress test on top of them, and that's the number you actually manage against.
 
+> 🎥 **SCREEN SHARE STARTS HERE — capture segment 5.1-B.** Everything above is teleprompter A-roll (segment 5.1-A); everything below is screen capture. This heading is the edit cut point.
+
 ### Now put it in the app
 
 Set aside about five minutes. Have every debt's balance, rate, minimum payment, and term ready.
@@ -226,6 +228,8 @@ Usually means starting at **20 to 25% LTV**, not 40 to 50%. Anything higher, and
 
 
 So that's the math on the cushion. The app draws it, which is easier to read than the arithmetic.
+
+> 🎥 **SCREEN SHARE STARTS HERE — capture segment 5.2-B.** Everything above is teleprompter A-roll (segment 5.2-A); everything below is screen capture. This heading is the edit cut point.
 
 ### Now put it in the app
 
@@ -388,6 +392,8 @@ Each of the four plays is a comparison, not a rule. Each only works inside the b
 
 So let's run one. Pick the play you're most tempted by and put it against your own baseline.
 
+> 🎥 **SCREEN SHARE STARTS HERE — capture segment 5.3-B.** Everything above is teleprompter A-roll (segment 5.3-A); everything below is screen capture. This heading is the edit cut point.
+
 ### Now put it in the app
 
 **Scenarios → Custom scenario** to compare pay-off-versus-invest.
@@ -478,6 +484,8 @@ Every debt should have a decision, not a feeling.
 
 So let's put a job on every row.
 
+> 🎥 **SCREEN SHARE STARTS HERE — capture segment 5.4-B.** Everything above is teleprompter A-roll (segment 5.4-A); everything below is screen capture. This heading is the edit cut point.
+
 ### Now put it in the app
 
 #### Step 5: Give every debt a job
@@ -544,6 +552,8 @@ Every row has a job. Last thing is to check the work.
 
 ## 5.5 Check your work
 *`CHECK` · 355 words · ~2 min*
+
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **5.5**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
 
 **By the end of this lesson, you can:**
 

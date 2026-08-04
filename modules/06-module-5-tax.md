@@ -567,6 +567,8 @@ The next lesson is the walkthrough that runs every one of these levers in Orange
 ## 6.5 Walkthrough: model it in Orange Plan
 *`DEMO` · 1,321 words*
 
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **6.5**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+
 > App page is **Tax Center** — never named. **Tax funding** control label needs
 > eyeballing.
 

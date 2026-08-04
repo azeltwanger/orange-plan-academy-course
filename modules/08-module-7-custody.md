@@ -356,6 +356,8 @@ The next lesson is the external demo: hardware wallet setup and exchange hardeni
 ## 8.4 External demo: hardware wallet setup + exchange hardening
 *`DEMO` · 877 words*
 
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **8.4**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+
 > ❓ **Decision needed (item 24):** this read text is a *shooting script* —
 > "review your footage before publishing," "if it fails, retake," staging/blur
 > instructions. Producer-facing, not learner-facing. Once the video exists,
@@ -438,6 +440,8 @@ The next lesson is where this demo becomes a checked box. Three of the checklist
 
 ## 8.5 Walkthrough: document your custody map in Orange Plan
 *`DEMO` · 1,718 words · ~8 min*
+
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **8.5**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
 
 **By the end of this lesson, you can:**
 

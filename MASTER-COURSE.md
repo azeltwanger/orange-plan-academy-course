@@ -3341,8 +3341,10 @@ The next module covers retirement income: how to turn your assets into a paychec
 
 *Turn the plan into a paycheck: spending and gap, the bridge years, healthcare, sequence-of-returns risk, the income waterfall, sell-vs-borrow-vs-hold, and the guardrails that turn the confidence number into a real spending rule.*
 
-> 🚧 **HOLD — Retirement Income page change in flight.** Don't film this module
-> until it lands. The ⚠ note about the missing "income floor" panel may go stale.
+> ✅ **HOLD LIFTED (2026-07-31).** The Retirement Income page change landed
+> (commit 073fdf0, 2026-07-29). This module was re-verified against the new UI:
+> 7.7 Step 5 rewritten for the live Withdrawal order section, 7.4's app pointer
+> updated, all other steps confirmed unchanged. Clear to film.
 
 ## 7.1 Spending, floor, and the gap
 *`TEACH` · 584 words · ~4 min*

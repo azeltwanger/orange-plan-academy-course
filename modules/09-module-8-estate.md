@@ -163,6 +163,8 @@ The **Prudent Investor Rule** has analogues elsewhere:
 
 So that is the executor, the documents, and the attorney. Two of those become app work right now: the beneficiary forms you just learned override the will, and the packet your executor has to actually read.
 
+> 🎥 **SCREEN SHARE STARTS HERE — capture segment 9.1-B.** Everything above is teleprompter A-roll (segment 9.1-A); everything below is screen capture. This heading is the edit cut point.
+
 ### Now put it in the app
 
 #### Step 5: Confirm beneficiaries
@@ -387,6 +389,8 @@ Write the first two lines of your letter tonight: the first phone call, and the 
 
 So let us write it. The app holds the record and enforces the no-secrets rule on screen while you type.
 
+> 🎥 **SCREEN SHARE STARTS HERE — capture segment 9.3-B.** Everything above is teleprompter A-roll (segment 9.3-A); everything below is screen capture. This heading is the edit cut point.
+
 ### Now put it in the app
 
 ### Pre-flight. Two hard requirements
@@ -528,6 +532,8 @@ Orange Plan ships with the switch, default check-in is 90 days. It needs the app
 
 
 So let us arm it.
+
+> 🎥 **SCREEN SHARE STARTS HERE — capture segment 9.4-B.** Everything above is teleprompter A-roll (segment 9.4-A); everything below is screen capture. This heading is the edit cut point.
 
 ### Now put it in the app
 
@@ -792,6 +798,8 @@ Local equivalents:
 
 So the gate told you whether structure is worth buying. The app tells you whether the tax it protects against is even coming.
 
+> 🎥 **SCREEN SHARE STARTS HERE — capture segment 9.6-B.** Everything above is teleprompter A-roll (segment 9.6-A); everything below is screen capture. This heading is the edit cut point.
+
 ### Now put it in the app
 
 One thing not to do on camera: do not say a federal exemption figure out loud. The app prints one on screen. The number changes with law, and a video should not age out.
@@ -901,6 +909,8 @@ Do not buy structure until the gate lights up, and design the legal and key plan
 
 ## 9.7 Check your work
 *`CHECK` · 634 words · ~3 min*
+
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **9.7**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
 
 **By the end of this lesson, you can:**
 

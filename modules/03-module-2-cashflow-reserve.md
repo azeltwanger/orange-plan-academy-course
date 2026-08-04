@@ -302,6 +302,8 @@ The next lesson is the walkthrough that builds cash flow and reserve inside the 
 ## 3.4 Walkthrough: build cash flow and reserve in Orange Plan
 *`DEMO` · 1,739 words · ~11 min read*
 
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **3.4**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+
 > ➕ **ADD (Austin, 2026-07-29):** note that **retirement spending excludes debt
 > payments** too. Step 3 makes this explicit for the Living row but the rule is
 > never stated for retirement spending, here or anywhere in the course.
