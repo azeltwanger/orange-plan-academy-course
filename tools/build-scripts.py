@@ -17,8 +17,12 @@ root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 t = open(os.path.join(root, 'MASTER-COURSE.md'), encoding='utf-8').read()
 outdir = os.path.join(root, 'scripts')
 os.makedirs(outdir, exist_ok=True)
+SPOKEN = set()  # scripts hand-converted to spoken prose — generator must not overwrite
 for f in os.listdir(outdir):
-    if f.endswith('.md'): os.remove(os.path.join(outdir, f))
+    if f.endswith('.md'):
+        if 'SPOKEN-PROSE VERSION' in open(os.path.join(outdir, f), encoding='utf-8').read(1000):
+            SPOKEN.add(f); continue
+        os.remove(os.path.join(outdir, f))
 
 parts = re.split(r'\n(?=## \d+\.\d+ )', t)
 made = 0
@@ -80,6 +84,8 @@ for p in parts[1:]:
                  f'{num}-B)' if hybrid else '') + '\n'
               + '=' * 60 + '\n\n')
     fn = f'{num.replace(".", "-")}{"-A" if hybrid else ""}_{slug}.md'
+    if fn in SPOKEN:
+        continue  # keep the hand-written spoken version
     open(os.path.join(outdir, fn), 'w', encoding='utf-8').write(header + text)
     made += 1
 print(f'wrote {made} scripts to scripts/')
