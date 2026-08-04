@@ -13,5 +13,11 @@ Austin's own dictated 3-2). Openers are one line ("In today's lesson,
 we're going to..."), no tables, no law-set numbers, teach scripts end by
 handing off to "the walkthrough below this video."
 
+Walkthrough-script format (see `2-4_WALKTHROUGH_...` — the template): a
+BEFORE RECORDING checklist, then one block per step with □ checkbox, CLICK
+(the exact path), SAY (the spoken lines, Austin's voice), WATCH FOR (what the
+app shows), and ⚠ NOTE (production warnings). Built to sit open on the laptop
+during screen capture so nothing gets missed.
+
 Review order before filming = file order. The per-module two-sitting plan
 (all teach scripts, then all walkthroughs) is in FILM-ORDER.md.
