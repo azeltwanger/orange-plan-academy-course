@@ -2592,7 +2592,7 @@ The next module covers tax strategy: cost basis, the three bucket types by tax t
 > arithmetic: hardware lot basis $7,500 → gain $17,500; exchange lot basis
 > $15,000 → gain $10,000.
 
-*This lesson is US-specific. Brackets, Roth accounts, RMDs, wash-sale rules, and state taxes assume the US Internal Revenue Code. If you're outside the US, the principles still hold. Use the "For non-US holders" note at the end and check specifics with a local tax professional.*
+*This lesson is US-specific. Brackets, Roth accounts, RMDs, wash-sale rules, and state taxes assume the US Internal Revenue Code. Outside the US, the principles hold — check specifics with a local tax professional.*
 
 **By the end of this lesson, you can:**
 
@@ -2664,15 +2664,9 @@ On the 0.25 BTC sale above: $10,000 of real gain becomes $25,000 of gain, becaus
 
 Pull your full history from every exchange and wallet. Then, for every lot, write down what you paid and when. Tedious. Done once. Makes every future tax move precise instead of approximate.
 
-### For non-US holders
+### If you're outside the US
 
-Cost basis is universal: whatever you paid plus acquisition costs and fees, tracked per lot. What varies:
-
-- **Taxable events.** In the US and many jurisdictions, spending Bitcoin or swapping to another asset is a disposal. In some (Germany after a 1-year hold; Portugal for non-professionals) long-term Bitcoin gains are exempt. Check yours.
-- **Lot accounting.** US allows FIFO, LIFO, HIFO, specific-ID with records. UK uses share-pooling (Section 104 rules) and 30-day matching. Canada uses adjusted cost base averaging. Australia uses FIFO by default but allows specific-ID.
-- **The "gather it now" rule holds everywhere.** Old exchange records disappear.
-
-If your jurisdiction taxes crypto disposals at all, the basis job is real.
+This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 The next lesson covers the three tax buckets and how to plan across them.
 
@@ -2828,26 +2822,9 @@ Three steps:
 
 Then look up your state's treatment of capital gains (regular income, special rate, or no tax) and estimate your realized-gain profile in the years you plan to sell. If the answer says "big lever," take it to a CPA who's done a real relocation before.
 
-### For non-US holders
+### If you're outside the US
 
-The three-bucket idea is universal. Every developed tax system separates already-taxed money, tax-later money, and tax-favored growth.
-
-| US bucket | UK | Canada | Australia | Ireland |
-|---|---|---|---|---|
-| Taxable brokerage | GIA | Non-registered | Non-super brokerage | Standard investment account |
-| Traditional (pre-tax) | SIPP, workplace pension | RRSP | Concessional super | PRSA / occupational pension |
-| Roth (post-tax, tax-free growth) | ISA (Stocks & Shares) | TFSA | Non-concessional super | No direct equivalent |
-
-The bracket-roadmap logic (filling low bands each year rather than deferring everything) works anywhere with progressive tax brackets and a lower-tax retirement window.
-
-Subnational (or country-level) tax differences exist in most federal systems, and the same "state lever" logic scales:
-
-- **Canada.** Provincial income and capital-gains rates vary meaningfully (Alberta vs Quebec).
-- **Australia.** Federal tax is uniform, but state stamp duty and land tax vary.
-- **Switzerland.** Cantonal differences are dramatic.
-- **Germany, Italy, Spain, France, EU generally.** National-level differences dominate. Some (Portugal, Malta, UAE, Singapore) have historically offered low or zero crypto capital-gains regimes.
-
-The residency test that matters is your country's, not the US's. Days present, ties (family, home, business), and domicile all matter differently. The lesson's point still holds: relocation is a big lever, and it's usually a bad reason to relocate on its own. Do it for life first, tax second.
+This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 ## 6.3 The RMD risk + Roth conversions
 *`TEACH` · 954 words · ~7 min*
@@ -2964,22 +2941,9 @@ For completeness: 72(t) allows penalty-free early access on a rigid schedule. Re
 - If the total pushes you into a higher bracket than your bridge years, a Roth conversion schedule is worth modeling.
 - Build the model. Bring it to your CPA.
 
-### For non-US holders
+### If you're outside the US
 
-Almost every retirement system has some version of a forced withdrawal or maximum-hold rule.
-
-- **UK.** No US-style RMDs on SIPPs/ISAs, but the Lifetime Allowance regime has shifted. Check current thresholds.
-- **Canada.** RRSPs must convert to a RRIF by age 71, with minimum annual withdrawals scaled by age. Same shape as US RMDs.
-- **Australia.** Super has a minimum drawdown percentage once in pension phase (4% at 65, scaling up).
-- **Ireland / EU.** Most jurisdictions have imputed distribution or annuity conversion rules by a specific age.
-
-The Roth conversion concept has partial analogues:
-
-- **UK:** contribute to an ISA from a GIA in a low-income year, or crystallise pension gains at lower rates.
-- **Canada:** RRSP-to-TFSA transfers via strategic withdrawals in low-income years.
-- **Australia:** non-concessional super contributions during career breaks.
-
-Use the calendar, don't fight it.
+This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 ## 6.4 Harvesting losses and gains
 *`TEACH` · 1,156 words · ~8 min*
@@ -3137,16 +3101,9 @@ Two checks against your lots:
 
 Those two answers are what you take to your CPA.
 
-### For non-US holders
+### If you're outside the US
 
-Loss harvesting exists in most tax systems with different anti-abuse rules:
-
-- **US.** Wash-sale rule blocks re-buying "substantially identical" security within 30 days. Crypto is currently exempt.
-- **UK.** 30-day/same-day/Section 104 matching rules effectively perform the same job.
-- **Canada.** Superficial loss rule (30 days before and after).
-- **Australia.** No explicit rule, but ATO applies anti-avoidance provisions if the sole purpose is a tax loss.
-
-Gain harvesting requires a lower or zero-rate band. The US 0% long-term capital gains bracket is the clearest. Some jurisdictions have annual tax-free allowances (UK's CGT annual exempt amount) that do the same in miniature.
+This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 The next lesson is the walkthrough that runs every one of these levers in Orange Plan.
 
@@ -3166,7 +3123,7 @@ The next lesson is the walkthrough that runs every one of these levers in Orange
 > options ("Plan cash flow (withdrawal order)" / "Withheld from each
 > conversion") — matches the engine behavior found in runProjection.jsx.
 
-*This walkthrough uses US tax mechanics (Roth conversions, cost basis lots, bracket thresholds). If you're outside the US, the walkthrough is still useful for seeing the shape of the modeling. Swap in the analogous containers from your jurisdiction (see the "For non-US holders" notes at the end of each Module 5 teach lesson).*
+*This walkthrough uses US tax mechanics (Roth conversions, cost basis lots, bracket thresholds). If you're outside the US, the walkthrough is still useful for seeing the shape of the modeling. Swap in the analogous containers from your jurisdiction with help from a local tax professional.*
 
 **By the end of this lesson, you can:**
 
@@ -4831,7 +4788,7 @@ The next module (Estate & Inheritance) turns "Access after death" from four chec
 - Recognize the Prudent Investor waiver that lets a trust hold concentrated Bitcoin
 
 ---
-> **Parts of this lesson are US-specific.** The executor role, the capable/available/trustworthy test, and the "beneficiary form overrides the will" rule apply in most common-law jurisdictions (US, UK, Canada, Australia, Ireland). The four legal documents are US-flavored. Civil-law jurisdictions (most of Europe, Latin America) have **forced-heirship rules** where the will itself is constrained. The Prudent Investor Rule is US-specific with analogues elsewhere (see the end of the lesson). Confirm your local mechanics with a solicitor, notary, abogado, or notaire.
+> **US-specific.** The executor role, the four documents, and the probate process here are US law. Outside the US, the same jobs exist under different names and rules — work with a local estate professional.
 
 
 Custody was operational access: how you turn the device back into spendable Bitcoin. **Estate** is the legal transfer: how your family can inherit it without you in the room.
@@ -4953,34 +4910,9 @@ Take the five questions with you, ask them in order, and listen to both the answ
 - Have an attorney review it and supervise the signing. Execution formalities (witnesses, notarization) are state-specific.
 - If your household lit up the trust gate: line up two or three estate-attorney candidates and run the five questions in order.
 
-### For non-US holders
+### If you're outside the US
 
-The three-part test (capable, available, trustworthy) is universal. So is the rule that your executor should not also be your primary heir when a custody split exists.
-
-| US | UK | Canada | Australia | EU (civil-law) |
-|---|---|---|---|---|
-| Will | Will | Will | Will | Testament (constrained by forced heirship) |
-| Power of attorney (financial) | LPA (Property & Financial) | Continuing or Enduring POA | Enduring POA | Mandat de protection future |
-| Healthcare directive | LPA (Health & Welfare) plus Advance Decision | Personal Directive / Representation Agreement | Advance Care Directive | Directive anticipée |
-| Beneficiary designations | Pension nominations, ISA nominees | RRSP, TFSA, pension beneficiary designations | Super binding death nominations | Rarely available; life insurance nominations |
-
-"The form beats the will" holds in the US, UK, Canada, and Australia for retirement accounts and life insurance. In much of continental Europe, forced heirship overrides both. Surviving spouse and children have a legally protected share regardless of any form.
-
-The **Prudent Investor Rule** has analogues elsewhere:
-
-- **UK.** Trustee Act 2000 general duty of care and standard investment criteria (including "the need for diversification of investments"). Waiver goes in the trust deed.
-- **Canada.** Provincial trustee acts include a prudent-investor standard. Waiver drafted into the trust document.
-- **Australia.** State trustee acts contain the equivalent duty and permit waiver by the trust instrument.
-- **Continental Europe.** Trustees in the common-law sense are rare. The analogous problem is a court-appointed guardian or executor being pressured to liquidate concentrated positions. Fix: explicit language in the will/testament about which assets are to be preserved and why.
-
-**Rewritten question 3 for a UK/Canadian/Australian attorney:**
-
-> *"For a trust, will you include language that disapplies the trustee's statutory duty to diversify with respect to this specific asset. So the trustee can hold concentrated Bitcoin without breaching their duty of care?"*
-
-
-So that is the executor, the documents, and the attorney. Two of those become app work right now: the beneficiary forms you just learned override the will, and the packet your executor has to actually read.
-
-> 🎥 **SCREEN SHARE STARTS HERE — capture segment 9.1-B.** Everything above is teleprompter A-roll (segment 9.1-A); everything below is screen capture. This heading is the edit cut point.
+This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 ### Now put it in the app
 
@@ -5471,22 +5403,9 @@ Run the subtraction on your own household. Annual hole × years to cover minus s
 
 None of this is a product recommendation. Actual coverage runs through a licensed insurance professional.
 
-### For non-US holders
+### If you're outside the US
 
-Core method transfers perfectly: annual gap × years to cover minus stack.
-
-Local watch-outs:
-
-- **UK.** Term-life payouts are generally free of income tax and (if written into trust) free of inheritance tax. Write policies into trust, otherwise the payout enters the estate. Disability is called Income Protection insurance, with own-occupation as the gold-standard definition.
-- **Canada.** Term life is tax-free to the beneficiary. Permanent-life pitches are just as aggressive. Disability is called Long-Term Disability, own-occupation matters equally.
-- **Australia.** Life, TPD, and income protection are often bundled inside super. Cheap, but with real limits. Consider a policy outside super for own-occupation.
-- **EU.** Most jurisdictions have strong state disability schemes that reduce (not eliminate) the private-coverage gap. Life insurance products vary enormously.
-
-**Umbrella coverage** is a US concept. The analogous product is **personal excess liability** or **umbrella liability** in the UK, Canada, and Australia. Less standard in continental Europe.
-
-**Long-term care.** Most European systems have state provision that partially fills this. Still worth naming and parking at 45.
-
-The "infinite banking" pitch shows up in every jurisdiction, with roughly the same math and the same honest answer.
+This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 The next lesson covers whether you need a trust.
 
@@ -5501,7 +5420,7 @@ The next lesson covers whether you need a trust.
 ---
 > **Advanced. Most plan-builders don't need a trust. Run the eight-trigger gate first. If it doesn't light up, the baseline is your plan.** Skim unless the trigger applies.
 
-> **This lesson is US-specific.** Revocable living trusts, irrevocable trusts, the federal estate exemption, the Prudent Investor Rule are US common-law constructs. Continental Europe uses foundations, usufruct arrangements, or forced-heirship-compatible bequests.
+> **US-specific.** Trusts, the federal estate exemption, and the Prudent Investor Rule are US law. Outside the US, work with a local estate professional.
 
 
 **Most of you don't need what's in this lesson.** Stopping at the baseline is a valid outcome.
@@ -5599,23 +5518,9 @@ Legal structure and key plan get designed together, with an attorney who underst
 
 Run all eight triggers on your household. Count your yeses. If zero or one, the baseline is your plan. Re-run the gate once a year. If more than that, take the five attorney questions from Lesson 1 to two or three candidates. The next lesson is the walkthrough that sets the backstop in Orange Plan.
 
-### For non-US holders
+### If you're outside the US
 
-**The eight-trigger gate still works.** It's a counting exercise about your family situation, not a US-specific test.
-
-Local equivalents:
-
-- **UK.** Trusts exist, but modern estate planning leans on the nil-rate band, residence nil-rate band, spousal transfers, and lifetime gifts under the 7-year rule.
-- **Canada.** Inter vivos trusts, alter-ego trusts (age 65+), and joint partner trusts map roughly onto revocable/irrevocable.
-- **Australia.** Testamentary trusts (created by will) are the common vehicle for asset protection and control-over-timing goals.
-- **Continental Europe.** Foundations, usufruct, and lifetime gifting are the workhorse tools. Trusts drafted under a common-law jurisdiction may or may not be recognised.
-
-**The Bitcoin-in-a-trust key problem is universal** wherever trusts are used. Multisig with the trustee holding one key is the cleanest solution everywhere.
-
-
-So the gate told you whether structure is worth buying. The app tells you whether the tax it protects against is even coming.
-
-> 🎥 **SCREEN SHARE STARTS HERE — capture segment 9.6-B.** Everything above is teleprompter A-roll (segment 9.6-A); everything below is screen capture. This heading is the edit cut point.
+This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 ### Now put it in the app
 

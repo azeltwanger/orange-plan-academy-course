@@ -1,9 +1,9 @@
 TELEPROMPTER SCRIPT — segment 6.1
 6.1 Cost basis: the unlock for everything else
-687 words · ~4.4 min at 155 wpm
+600 words · ~3.9 min at 155 wpm
 ============================================================
 
-This lesson is US-specific. Brackets, Roth accounts, RMDs, wash-sale rules, and state taxes assume the US Internal Revenue Code. If you're outside the US, the principles still hold. Use the "For non-US holders" note at the end and check specifics with a local tax professional.
+This lesson is US-specific. Brackets, Roth accounts, RMDs, wash-sale rules, and state taxes assume the US Internal Revenue Code. Outside the US, the principles hold — check specifics with a local tax professional.
 
 Real tax strategy works forward: act in the years your rate is low, and act before the government forces the timing. Every forward-looking move starts with one number being right.
 
@@ -68,14 +68,8 @@ On the 0.25 BTC sale above: $10,000 of real gain becomes $25,000 of gain, becaus
 
 Pull your full history from every exchange and wallet. Then, for every lot, write down what you paid and when. Tedious. Done once. Makes every future tax move precise instead of approximate.
 
-== FOR NON-US HOLDERS ==
+== IF YOU'RE OUTSIDE THE US ==
 
-Cost basis is universal: whatever you paid plus acquisition costs and fees, tracked per lot. What varies:
-
-- Taxable events. In the US and many jurisdictions, spending Bitcoin or swapping to another asset is a disposal. In some (Germany after a 1-year hold; Portugal for non-professionals) long-term Bitcoin gains are exempt. Check yours.
-- Lot accounting. US allows FIFO, LIFO, HIFO, specific-ID with records. UK uses share-pooling (Section 104 rules) and 30-day matching. Canada uses adjusted cost base averaging. Australia uses FIFO by default but allows specific-ID.
-- The "gather it now" rule holds everywhere. Old exchange records disappear.
-
-If your jurisdiction taxes crypto disposals at all, the basis job is real.
+This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 The next lesson covers the three tax buckets and how to plan across them.

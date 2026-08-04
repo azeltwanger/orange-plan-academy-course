@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 6.2
 6.2 The three buckets, your bracket roadmap, and the state lever
-1456 words · ~9.4 min at 155 wpm
+1251 words · ~8.1 min at 155 wpm
 ============================================================
 
 This lesson is US-specific. Brackets, Roth accounts, RMDs, wash-sale rules, and state taxes assume the US Internal Revenue Code. Non-US notes at the end.
@@ -135,25 +135,6 @@ Three steps:
 
 Then look up your state's treatment of capital gains (regular income, special rate, or no tax) and estimate your realized-gain profile in the years you plan to sell. If the answer says "big lever," take it to a CPA who's done a real relocation before.
 
-== FOR NON-US HOLDERS ==
+== IF YOU'RE OUTSIDE THE US ==
 
-The three-bucket idea is universal. Every developed tax system separates already-taxed money, tax-later money, and tax-favored growth.
-
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| US bucket | UK | Canada | Australia | Ireland |
-|---|---|---|---|---|
-| Taxable brokerage | GIA | Non-registered | Non-super brokerage | Standard investment account |
-| Traditional (pre-tax) | SIPP, workplace pension | RRSP | Concessional super | PRSA / occupational pension |
-| Roth (post-tax, tax-free growth) | ISA (Stocks & Shares) | TFSA | Non-concessional super | No direct equivalent |
-┄┄ end table ┄┄
-
-The bracket-roadmap logic (filling low bands each year rather than deferring everything) works anywhere with progressive tax brackets and a lower-tax retirement window.
-
-Subnational (or country-level) tax differences exist in most federal systems, and the same "state lever" logic scales:
-
-- Canada. Provincial income and capital-gains rates vary meaningfully (Alberta vs Quebec).
-- Australia. Federal tax is uniform, but state stamp duty and land tax vary.
-- Switzerland. Cantonal differences are dramatic.
-- Germany, Italy, Spain, France, EU generally. National-level differences dominate. Some (Portugal, Malta, UAE, Singapore) have historically offered low or zero crypto capital-gains regimes.
-
-The residency test that matters is your country's, not the US's. Days present, ties (family, home, business), and domicile all matter differently. The lesson's point still holds: relocation is a big lever, and it's usually a bad reason to relocate on its own. Do it for life first, tax second.
+This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.

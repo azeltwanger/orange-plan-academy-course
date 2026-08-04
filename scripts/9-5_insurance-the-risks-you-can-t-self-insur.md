@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 9.5
 9.5 Insurance: the risks you can't self-insure yet
-1063 words · ~6.9 min at 155 wpm
+912 words · ~5.9 min at 155 wpm
 ============================================================
 
 Your stack already self-insures the small stuff. The reserve from earlier in the course. Insurance covers the part the stack can't cover yet: the difference between what your family needs and what the stack already provides.
@@ -80,21 +80,8 @@ Run the subtraction on your own household. Annual hole × years to cover minus s
 
 None of this is a product recommendation. Actual coverage runs through a licensed insurance professional.
 
-== FOR NON-US HOLDERS ==
+== IF YOU'RE OUTSIDE THE US ==
 
-Core method transfers perfectly: annual gap × years to cover minus stack.
-
-Local watch-outs:
-
-- UK. Term-life payouts are generally free of income tax and (if written into trust) free of inheritance tax. Write policies into trust, otherwise the payout enters the estate. Disability is called Income Protection insurance, with own-occupation as the gold-standard definition.
-- Canada. Term life is tax-free to the beneficiary. Permanent-life pitches are just as aggressive. Disability is called Long-Term Disability, own-occupation matters equally.
-- Australia. Life, TPD, and income protection are often bundled inside super. Cheap, but with real limits. Consider a policy outside super for own-occupation.
-- EU. Most jurisdictions have strong state disability schemes that reduce (not eliminate) the private-coverage gap. Life insurance products vary enormously.
-
-Umbrella coverage is a US concept. The analogous product is personal excess liability or umbrella liability in the UK, Canada, and Australia. Less standard in continental Europe.
-
-Long-term care. Most European systems have state provision that partially fills this. Still worth naming and parking at 45.
-
-The "infinite banking" pitch shows up in every jurisdiction, with roughly the same math and the same honest answer.
+This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 The next lesson covers whether you need a trust.

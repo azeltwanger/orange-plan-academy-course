@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 6.3
 6.3 The RMD risk + Roth conversions
-941 words · ~6.1 min at 155 wpm
+839 words · ~5.4 min at 155 wpm
 ============================================================
 
 This lesson is US-specific. Non-US notes at the end.
@@ -104,19 +104,6 @@ For completeness: 72(t) allows penalty-free early access on a rigid schedule. Re
 - If the total pushes you into a higher bracket than your bridge years, a Roth conversion schedule is worth modeling.
 - Build the model. Bring it to your CPA.
 
-== FOR NON-US HOLDERS ==
+== IF YOU'RE OUTSIDE THE US ==
 
-Almost every retirement system has some version of a forced withdrawal or maximum-hold rule.
-
-- UK. No US-style RMDs on SIPPs/ISAs, but the Lifetime Allowance regime has shifted. Check current thresholds.
-- Canada. RRSPs must convert to a RRIF by age 71, with minimum annual withdrawals scaled by age. Same shape as US RMDs.
-- Australia. Super has a minimum drawdown percentage once in pension phase (4% at 65, scaling up).
-- Ireland / EU. Most jurisdictions have imputed distribution or annuity conversion rules by a specific age.
-
-The Roth conversion concept has partial analogues:
-
-- UK: contribute to an ISA from a GIA in a low-income year, or crystallise pension gains at lower rates.
-- Canada: RRSP-to-TFSA transfers via strategic withdrawals in low-income years.
-- Australia: non-concessional super contributions during career breaks.
-
-Use the calendar, don't fight it.
+This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.

@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 6.4
 6.4 Harvesting losses and gains
-1133 words · ~7.3 min at 155 wpm
+1069 words · ~6.9 min at 155 wpm
 ============================================================
 
 This lesson is US-specific. Non-US notes at the end.
@@ -145,15 +145,8 @@ Two checks against your lots:
 
 Those two answers are what you take to your CPA.
 
-== FOR NON-US HOLDERS ==
+== IF YOU'RE OUTSIDE THE US ==
 
-Loss harvesting exists in most tax systems with different anti-abuse rules:
-
-- US. Wash-sale rule blocks re-buying "substantially identical" security within 30 days. Crypto is currently exempt.
-- UK. 30-day/same-day/Section 104 matching rules effectively perform the same job.
-- Canada. Superficial loss rule (30 days before and after).
-- Australia. No explicit rule, but ATO applies anti-avoidance provisions if the sole purpose is a tax loss.
-
-Gain harvesting requires a lower or zero-rate band. The US 0% long-term capital gains bracket is the clearest. Some jurisdictions have annual tax-free allowances (UK's CGT annual exempt amount) that do the same in miniature.
+This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 The next lesson is the walkthrough that runs every one of these levers in Orange Plan.

@@ -1812,3 +1812,39 @@ segments); sitting 2 = the module's screen captures in shoot-list order
 (walkthrough/check lessons + hybrid -B segments). Hybrids were designed for
 exactly this split-and-edit-together flow. App state carries forward module to
 module, which matches chronological order by construction.
+
+
+---
+
+## 36. International/foreign-law content removed (Austin, 2026-08-04)
+
+Austin: "I don't know international law so we should not be talking about that
+stuff." Correct call — the course was making specific claims about UK Trustee
+Act 2000, forced heirship, nil-rate bands, alter-ego trusts, superannuation
+nominations, and EU civil-law instruments, none of which Austin can vouch for
+on camera, and which sit badly with the educational-not-advisory posture.
+
+**Removed (master + Honen + scripts, ~900 words):** all seven "For non-US
+holders" sections (6.1, 6.2, 6.3, 6.4, 9.1, 9.5, 9.6) including the
+US/UK/Canada/Australia/EU document-equivalence tables and the rewritten
+UK-attorney question; foreign-law claims trimmed from the 9.1 and 9.6 banners.
+
+**Replaced with** one standard short section: "If you're outside the US — this
+course teaches US rules. The frameworks travel well, but the account types,
+tax rules, and legal containers don't. Map the concepts with a qualified local
+professional." Banners simplified to the same posture.
+
+Hand-off lines inside the removed sections were preserved. Honen edits hit the
+usual sandbox mojibake (octal em-dashes stored as 3-char sequences) — caught
+by the standard scan and fixed; course verified clean.
+
+## 37. Architecture confirmation: students read structure, videos speak prose
+
+Austin: "we don't want scripts to be the text users read... step by step
+instructions for implementation, and lessons with clear explanations."
+Confirmed — that IS the current architecture, no change needed:
+- Honen lessons / modules-md = student-facing: structured explanations,
+  tables, step-by-step walkthrough instructions. Bullets are a feature here.
+- scripts/ = video-only narration layer, converted to spoken prose (3.2 done,
+  38 pending Austin's verdict on the sample). Spoken conversions NEVER flow
+  back into student text.
