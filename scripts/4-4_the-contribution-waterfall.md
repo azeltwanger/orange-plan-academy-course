@@ -1,78 +1,54 @@
 TELEPROMPTER SCRIPT — segment 4.4
 4.4 The contribution waterfall
-622 words · ~4.0 min at 155 wpm
+~5.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-You have a surplus. You have buckets. This lesson covers the order the next dollar should flow, and why.
+In today's lesson, we're going to cover the contribution waterfall, which is the order that your next dollar should flow through your accounts, and why that order is what it is.
 
-Every rung above the next has to be full (or maxed) before you move on. Money flows down the ladder, not sideways.
+You have a surplus from the cash flow module, and you have buckets from the last few lessons. The waterfall is how the two connect. The rule is simple: every rung above has to be full, or maxed, before you move down to the next one. Money flows down the ladder, not sideways.
 
 == THE STANDARD WATERFALL ==
 
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| # | Rung | Why it's here |
-|---|---|---|
-| 1 | Employer match (401k or similar) | 50 to 100% instant return. Nothing else you do with the money gets close. |
-| 2 | High-interest debt | Above ~7%. A guaranteed 20% return on paying down a 20% credit card is unbeatable. |
-| 3 | HSA (if eligible) | Triple-tax-advantaged. Only tax shelter that gets all three. |
-| 4 | Roth IRA or Roth 401(k) | Tax-free growth, tax-free withdrawal, no RMDs — no required minimum distributions, the withdrawals the government forces out of traditional accounts once you reach a certain age. Best if you expect a higher retirement bracket. |
-| 5 | Traditional 401(k) or IRA (up to the limit) | Tax deduction now, taxed on withdrawal. Best if you expect a lower retirement bracket. |
-| 6 | Taxable brokerage or Bitcoin | Once tax-advantaged buckets are maxed, the rest goes here. |
-┄┄ end table ┄┄
+There are six rungs, and the table on the screen has all of them. Let me walk you down the ladder.
 
-Free money first. Guaranteed high returns second. Tax shelters in order of quality after that.
+Rung 1 is your employer match, in your 401(k) or something similar. This is first because it's a 50 to 100% instant return on the money. Nothing else you can do with a dollar gets close to that. If your match is 50% up to 6% of pay, you contribute 6%. Not 5%, not 3%. Six. Anything less is leaving free money on the table.
 
-== RUNG NOTES ==
+Rung 2 is high-interest debt, and by high-interest I mean roughly above 7%. Paying down a 20% credit card is a guaranteed 20% return, and you cannot beat a guaranteed 20% anywhere. Any card in the 20s is priority one, before anything else in your plan.
 
-Rung 1 (match). If the match is 50% up to 6% of pay, contribute 6%. Not 5%. Not 3%. Six.
+Rung 3 is the HSA, if you're eligible for one. It's the only account in the entire tax code that's triple-tax-advantaged: the money goes in untaxed, grows untaxed, and comes out untaxed for medical costs. I switched my own family to CrowdHealth, so I'm not HSA-eligible anymore, but if you're on a high-deductible health plan, this rung is a gift. The best way to treat it is as a Legacy account: invest it and let it grow as a Roth-like medical fund.
 
-Rung 2 (high-interest debt). ~7% is a rough threshold. Any 20%+ APR is priority 1, before anything else.
+Rung 4 is the Roth, either the Roth IRA or Roth 401(k). Tax-free growth, tax-free withdrawal, and no RMDs. An RMD is a required minimum distribution, which is the withdrawal the government forces out of your traditional accounts once you hit a certain age. The Roth is especially strong for Bitcoin-heavy plans, because if the thesis plays out, Bitcoin appreciation puts you in a higher bracket in retirement than you're in right now, and the Roth is the account that doesn't care.
 
-Rung 3 (HSA). Only available with a High Deductible Health Plan (HDHP). Best treated as a Legacy account: invest it, save it as a Roth-like medical vehicle.
+Rung 5 is the traditional 401(k) or IRA, past the match, up to the annual limit. You get the deduction now and pay ordinary income tax on the way out. This rung is best if you expect a lower bracket in retirement than today.
 
-Rung 4 (Roth). Especially strong for Bitcoin-heavy plans, because Bitcoin appreciation often puts you in a higher retirement bracket than you're in now.
+And rung 6 is taxable brokerage or Bitcoin. Once the tax-advantaged rungs are maxed, everything else goes here, and the split between them reflects the allocation tier you picked earlier in this module.
 
-Rung 5 (traditional). Continuing past the match is fine. Match rung caps at the match; traditional rung caps at the annual limit.
-
-Rung 6 (Bitcoin or taxable). Split reflects your allocation tier from earlier.
+So the logic of the whole ladder is: free money first, guaranteed high returns second, and then the tax shelters in order of quality.
 
 == SPECIAL CASES ==
 
-- No employer match. Skip rung 1.
-- Not HSA-eligible. Skip rung 3.
-- Income too high for Roth IRA direct contribution. Look up the Backdoor Roth: contribute non-deductible to a Traditional IRA, then convert. Requires you to not have other pre-tax IRA balances (pro-rata rule).
-- No high-interest debt. Skip rung 2.
+A few special cases. If you don't have an employer match, skip rung 1. If you're not HSA-eligible, like me, skip rung 3. If you don't have any high-interest debt, skip rung 2.
+
+And if your income is too high to contribute to a Roth IRA directly, look up the Backdoor Roth. You contribute non-deductible dollars to a traditional IRA and then convert it. One warning on that: it requires you to not have other pre-tax IRA balances sitting around, because of something called the pro-rata rule. Verify that one for your situation before you do it.
 
 == RUNNING THE COUPLE ==
 
-$4,000/mo surplus routes:
+Let's run the couple's $4,000 a month of surplus down the ladder.
 
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Rung | Amount | Notes |
-|---|---|---|
-| 401(k) | $1,000/mo | Captures full 50%-up-to-6% match ($12,000/yr) |
-| High-interest debt | — | None |
-| HSA | $300/mo | Building the medical Legacy fund |
-| Roth IRA | $583/mo | Maxing the year's IRA limit ($7,000 when they ran it) |
-| Traditional | — | Skip for now |
-| Bitcoin + taxable | ~$2,117/mo | Split between Bridge and Legacy |
-┄┄ end table ┄┄
+Rung 1: they put $1,000 a month into the 401(k), which captures the full 50%-up-to-6% match. That's $12,000 a year going in. Rung 2: they don't have any high-interest debt, so it's skipped. Rung 3: $300 a month into the HSA, building the medical Legacy fund. Rung 4: $583 a month into the Roth IRA, which maxed the IRA limit in the year they ran this. Rung 5: they skip additional traditional contributions for now. And rung 6: the remaining $2,117 a month goes to Bitcoin and taxable, split between Bridge and Legacy.
 
-↑ This table is the double-count. See the flag at the top of this lesson.
-
-Every dollar has a route. Nothing is left "to figure out."
+Add it up: $1,000 plus $300 plus $583 plus $2,117 is the full $4,000, spent exactly once. Every dollar has a route. Nothing is left over to figure out later.
 
 == THE ROUTING CARD ==
 
-Post the waterfall where you make money decisions. When a bonus or windfall arrives, walk down the ladder:
+The last piece is what I call the routing card. Post the waterfall somewhere you make money decisions. When a bonus lands, or a windfall, or a raise, you walk down the ladder with it. Am I capturing the full match? Is the high-interest debt gone? Is the HSA maxed? Is the Roth maxed? Then the traditional rung, depending on your bracket strategy, and then taxable or Bitcoin.
 
-- Am I capturing the full match?
-- Is high-interest debt gone?
-- HSA maxed?
-- Roth maxed?
-- Traditional 401(k) or IRA rung, depending on your bracket strategy.
-- Taxable or Bitcoin.
+That's one decision, made once, that routes every future dollar correctly. You never have to re-decide it in the moment.
 
-One decision, made once, routes every future dollar correctly.
+== HOMEWORK ==
 
-The next lesson covers asset location: which type of account each holding should sit in.
+Your homework for this lesson is to:
+
+1. Write out your own waterfall, with the rungs that actually apply to you, and cross off the ones that don't.
+2. Route your current monthly surplus down it, dollar by dollar, until the whole number is spent once.
+3. Then watch the module walkthrough below this video, where I'll show you how to set this routing up in Orange Plan.

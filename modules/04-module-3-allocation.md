@@ -350,8 +350,6 @@ $4,000/mo surplus routes:
 | Traditional | — | Skip for now |
 | Bitcoin + taxable | ~$2,117/mo | Split between Bridge and Legacy |
 
-*↑ This table is the double-count. See the flag at the top of this lesson.*
-
 Every dollar has a route. Nothing is left "to figure out."
 
 ### The routing card

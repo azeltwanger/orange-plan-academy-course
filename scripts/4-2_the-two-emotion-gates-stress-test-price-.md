@@ -1,68 +1,62 @@
 TELEPROMPTER SCRIPT — segment 4.2
 4.2 The two emotion gates: stress-test + price context
-523 words · ~3.4 min at 155 wpm
+~4.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-In the last lesson you placed yourself on a tier. This lesson covers the two checks that go around it.
-
-- Stress test. Run once, when you set your allocation.
-- Price context. Run every time before a Bitcoin-heavy move.
+In today's lesson, we're going to cover the two checks that keep your allocation honest. The first one is the stress test, which you run once, when you set your allocation. The second is the price context check, which you run every time before you make a Bitcoin-heavy move.
 
 == CHECK 1: THE STRESS TEST ==
 
-The stress test finds out whether the allocation you picked is one you could actually live through.
+The stress test answers one question: is the allocation you picked one that you could actually live through?
 
-Running it now moves the decision to a day when you're calm.
+The reason you run it now is that it moves the decision to a day when you're calm. You do not want to be figuring out your risk tolerance for the first time in the middle of a crash.
 
 == A 70 TO 80% DRAWDOWN IS THE NORMAL CASE ==
 
-A drawdown is the fall from a price peak down to the bottom that follows it, measured as a percentage of that peak.
+First, let me define the word. A drawdown is the fall from a price peak down to the bottom that follows it, measured as a percentage of that peak.
 
-For Bitcoin, 70 to 80% is normal, not a worst case:
+For Bitcoin, a 70 to 80% drawdown is the normal case, not the worst case. In 2018, Bitcoin dropped 84%, from around $20,000 down to $3,000. In 2022, it dropped 77%, from $69,000 down to just under $16,000. I held through that second one personally, and I watched my own net worth drop about 75% while it happened.
 
-- 2018: dropped 84%, from ~$20k to $3k.
-- 2022: dropped 77%, from $69k to just under $16k.
-
-You're not stress-testing a worst case. You're stress-testing the normal case.
+So when you run this test, you're not stress-testing some doomsday scenario. You're stress-testing a thing that has already happened twice.
 
 == THE MATH ==
 
-Your net-worth hit = the drawdown × your Bitcoin allocation.
+The math is simple. Your net-worth hit equals the drawdown times your Bitcoin allocation.
 
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Allocation | 75% drawdown means |
-|---|---|
-| 10% | 7.5% net-worth hit |
-| 25% | 19% hit |
-| 50% | 37.5% hit |
-| 75% | 56% hit |
-┄┄ end table ┄┄
+So if you're 10% allocated and Bitcoin drops 75%, that's a 7.5% hit to your net worth. At 25% allocated, it's about a 19% hit. At 50%, it's a 37.5% hit. And at 75% allocated, more than half of your net worth, 56%, comes off the screen.
 
-You don't control the drawdown. You do control the allocation.
+Here's the part I want you to internalize: you don't control the drawdown. You do control the allocation. The allocation is the only lever in that equation that's yours.
 
 == THE COUPLE'S STRESS TEST ==
 
-$175,000 in Bitcoin at 75% down leaves $43,750. Their $295,000 investable becomes about $164,000. $131,250 came off the screen and not one bill got smaller. The mortgage is still $2,300/mo. The car is still $360. Groceries still $1,200.
+Let's run it on the couple. They have $175,000 in Bitcoin. At 75% down, that becomes $43,750. Their $295,000 of investable assets becomes about $164,000. So $131,250 just came off the screen, and not one of their bills got smaller. The mortgage is still $2,300 a month. The car is still $360. Groceries are still $1,200.
 
-That's the pressure that makes people sell at the bottom, which is the single thing that ruins long-term growth. The stress test asks: could you sit there and not sell?
+That's the pressure that makes people sell at the bottom, and selling at the bottom is the single thing that ruins long-term growth. So the stress test asks: could you sit there, watch that number, and not sell?
 
-If the answer is no, you don't stop investing in Bitcoin. You adjust the allocation until you could sleep through the drawdown. You can also run this live in the app against the Bear Market preset (Bitcoin -60%, stocks -40%, 3-year recovery).
+If the answer is no, that doesn't mean you stop investing in Bitcoin. It means you adjust the allocation down until you get to a number you could sleep through. And you can run this live in the app against the bear market preset, which models Bitcoin down 60%, stocks down 40%, with a 3-year recovery.
 
 == CHECK 2: THE PRICE CONTEXT CHECK ==
 
-This one runs before any Bitcoin-heavy move. Its job is to name the emotion in the room.
+The second check runs before any Bitcoin-heavy move. Its job is to name the emotion in the room before you act on it.
 
-== TWO LOOKBACKS ==
+You're going to look at two lookback windows.
 
-- Recent (3, 6, 9, 12 months): what you're feeling. Bitcoin up 40% in three months, you're feeling FOMO. Down 40%, you're feeling fear.
-- Long (2 to 5 years): what's actually true. The direction of the trend, not the mood of last week.
+The first is the recent window, which is 3, 6, 9, and 12 months. This tells you what you're feeling. If Bitcoin is up 40% in three months, you're feeling FOMO whether you admit it or not. If it's down 40%, you're feeling fear.
 
-Run both. Recent tells you which emotion you're carrying into the decision. Long tells you whether it's aligned with reality or reacting against it.
+The second is the long window, which is 2 to 5 years. This tells you what's actually true. The direction of the trend, not the mood of last week.
+
+Run both. The recent window tells you which emotion you're carrying into the decision. The long window tells you whether that emotion is aligned with reality or just reacting against it.
 
 == WHAT THE CHECK DOES AND DOESN'T DO ==
 
-It doesn't decide the move. It names the emotion so you can act on the plan instead of the mood.
+Now, this check doesn't decide the move for you. It just names the emotion so you can act on the plan instead of the mood.
 
-Before a big move (buying a large position, selling to lock in gains, taking out a Bitcoin-backed loan), if the recent 3-6 month price move is dramatic, you're probably reacting to it. Wait a beat. Is this the plan making the decision, or the price?
+Before any big move, and by that I mean buying a large position, selling to lock in gains, or taking out a Bitcoin-backed loan, ask yourself: if the recent 3-to-6-month price move is dramatic, am I reacting to it? If it is, wait a beat, and ask the question straight: is this the plan making the decision, or is it the price?
 
-The next lesson covers the three buckets that give every dollar in your plan a job.
+== HOMEWORK ==
+
+Your homework for this lesson is to:
+
+1. Run the stress test on your own allocation. Take your Bitcoin dollar amount, cut it 75%, and look at the number. Decide honestly whether you could hold there.
+2. If the answer is no, write down the allocation where the answer becomes yes.
+3. Then, before your next Bitcoin-heavy move, run the price context check first. Both windows.
