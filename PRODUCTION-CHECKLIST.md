@@ -4,6 +4,14 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ---
 
+> **Status: FINAL — cleared for filming (2026-08-04).** 53 lessons; every lesson
+> has a calibrated script and student-facing text. Slop scan run across all
+> scripts and lesson text (spoken quantities in digits, no aphorism closers, no
+> fragment triads, no em-dashes in lesson text). Open items are outside the
+> content: attorney review of Terms + Disclaimer, the confidence-band app change
+> (bands read the verdict WORD on camera, never the thresholds), and publishing
+> from the Honen dashboard.
+
 ## ☐ ONE-TIME SETUP (before any filming)
 
 ☐ Fresh demo account seeded with the couple's numbers (card: income $190k · spending $80k · 1.75 BTC · $280k mortgage @3.25% · $18k car @7% · 401k $12k/yr · Roth $7k/yr)
