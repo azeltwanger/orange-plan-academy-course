@@ -1,140 +1,86 @@
 TELEPROMPTER SCRIPT — segment 6.2
 6.2 The three buckets, your bracket roadmap, and the state lever
-1251 words · ~8.1 min at 155 wpm
+~10 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-This lesson is US-specific. Brackets, Roth accounts, RMDs, wash-sale rules, and state taxes assume the US Internal Revenue Code. Non-US notes at the end.
+In today's lesson, we're going to cover the three things that decide your tax bill: where your money sits, when you act, and where you live when you act.
 
-Two things decide your federal tax bill: where your money sits, and when you act. A third dial sits on top of both: where you live when you act.
+This lesson is US-specific, and I'll have a note for non-US viewers at the end.
 
 == WHERE YOUR MONEY SITS: THE THREE BUCKETS ==
 
-Every dollar you own for retirement sits in one of three:
+Every dollar you own for retirement sits in one of three buckets, and the table on the screen compares them.
 
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Bucket | Tax going in | Tax on growth | Tax on withdrawal | Forced withdrawals |
-|---|---|---|---|---|
-| Taxable | Already taxed | On gains, at cap-gains rates | On gains only | No |
-| Tax-deferred (Traditional IRA/401k) | Pre-tax | None for now | Ordinary income | Yes (RMDs at 73) |
-| Roth (IRA or 401k) | After-tax | None, ever | None, ever | No (Roth IRA) |
-┄┄ end table ┄┄
+The first bucket is taxable. The money going in was already taxed, and you pay tax on gains when you sell, at capital gains rates. No forced withdrawals, ever.
 
-Every year, you get to choose which bucket the money comes from. That choice sets the rate you pay.
+The second bucket is tax-deferred, so the traditional IRA and 401(k). Money goes in pre-tax, grows untouched, and then everything coming out is taxed as ordinary income. And this is the bucket with forced withdrawals: the RMDs that start in your seventies, whether you need the money or not.
 
-Go all-in on any one bucket and you remove your choices later. Even all-Roth (which sounds safe) leaves cheap tax-deferred dollars on the table.
+The third bucket is the Roth. Money goes in after tax, and then it's never taxed again. Not the growth, not the withdrawals. And the Roth IRA has no forced withdrawals at all.
+
+Here's why holding all three matters: every year, you get to choose which bucket your money comes from, and that choice sets the rate you pay that year. If you go all-in on any one bucket, you've removed your own choices later. Even all-Roth, which sounds like the safe answer, actually leaves cheap tax-deferred dollars on the table, and you'll see why in a minute.
 
 == WHEN YOU ACT: READING A TAX BRACKET ==
 
-Your tax rate isn't fixed. It changes by life stage.
+The second dial is when you act, and to use it you have to know how a bracket actually works.
 
-Your income gets sliced up, and each slice gets taxed at its own rate. Being in the 22% bracket doesn't mean you pay 22% on everything. It means the next dollar you earn gets taxed at 22%.
+Your income gets sliced up, and each slice gets taxed at its own rate. So being "in the 22% bracket" does not mean you pay 22% on everything. It means the next dollar you earn gets taxed at 22%.
 
-The space between where your income lands and where the next rate starts is your room. A measurable amount you can fill without moving into the next bracket.
+And that means the space between where your income lands and where the next rate starts is your room. It's a measurable number of dollars you can fill without moving into the next bracket.
 
-== RUNNING THE COUPLE'S BRACKET TODAY ==
+Let's run the couple's bracket today. One caveat first: bracket lines and standard deductions move every year, so run this with the current figures when you actually plan.
 
-Gross income: $190,000. Bracket lines and standard deductions move every year. Run this with the current figures when you plan.
+They gross $190,000. Take off the $12,000 of pre-tax 401(k) contributions and their AGI is $178,000. Take off the standard deduction, which was around $31,400 for a married couple when they ran this, and their taxable income is about $146,600.
 
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Step | Amount |
-|---|---|
-| Gross income | $190,000 |
-| Minus 401(k) pre-tax | -$12,000 |
-| Equals AGI | $178,000 |
-| Minus standard deduction (~$31,400 married) | -$31,400 |
-| Equals taxable income | ~$146,600 |
-┄┄ end table ┄┄
-
-That's the 22% bracket, with ~$60,000 of room before the next one. They could add $60,000 of income and still pay 22¢ on the dollar.
+That puts them in the 22% bracket, with roughly $60,000 of room before the next rate starts. They could add $60,000 of income this year and still pay 22 cents on the dollar.
 
 == THE BRACKET ROADMAP: THREE STAGES ==
 
-Picture your income as a road through retirement.
+Now picture your income as a road through retirement, because it goes through three stages, and the middle one is where the money is.
 
-Stage 1: Early retirement (paychecks stop). Say they retire at 60. Paycheck stops. They're living off the taxable bucket, so reported income drops (often to the lowest it's ever been).
+Stage one is early retirement, when the paychecks stop. Say the couple retires at 60. The paycheck stops, they're living off the taxable bucket, and their reported income drops, often to the lowest it's ever been in their adult life.
 
-Second thing in their favor: when they sell an asset, only the gain counts as income, not the whole sale. A big sale can produce a small amount of income.
+And there's a second thing working in their favor here: when you sell an asset, only the gain counts as income, not the whole sale. So a big sale can produce a surprisingly small amount of income.
 
-They sell Bitcoin to fund $80,000 of spending. Only the gain counts: about $60,000 of realized gain that year.
+Watch this. They sell Bitcoin to fund $80,000 of spending, and only the gain counts, which comes out to about $60,000 of realized gain that year. Now, the standard deduction and the 0% long-term capital gains bracket stack on top of each other, and for a married couple that's around $128,000 of 0% room under current law. Verify that number in the year you use it. So take the $128,000 ceiling, subtract their $60,000 of realized gain, and they've still got $68,000 of unused 0% room.
 
-The standard deduction and the 0% long-term capital gains bracket stack. A married couple has around $128,000 of 0% room under current law (verify in the year you use it).
+They just funded their entire year of spending and paid zero dollars of tax on those gains. That's stage one.
 
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Step | Amount |
-|---|---|
-| Zero-percent ceiling | ~$128,000 |
-| Minus realized gain | -$60,000 |
-| Equals unused 0% room | ~$68,000 |
-┄┄ end table ┄┄
+Stage two is the stretch before Social Security. Still flexible. Benefits haven't started, nothing is forced yet. This is where you keep filling those low brackets on purpose, and the next lesson covers exactly what to fill them with.
 
-They funded the whole year and paid $0 on those gains.
+Stage three is when Social Security and the forced withdrawals arrive. Benefits turn on at 67, which for the couple is about $51,600 a year. RMDs stack on top at 73. Income jumps, and it stays up.
 
-Stage 2: Pre-Social Security. Still flexible. Benefits haven't started, nothing is forced. Keep filling those low brackets on purpose.
-
-Stage 3: Social Security + forced withdrawals. Benefits turn on at 67 (~$51,600/yr for the couple). RMDs stack at 73. Income jumps.
-
-Hard deadline on the cheap years. Most people waste them because nobody told them the window existed.
-
-The couple's window has ~$68,000/yr sitting empty. The next lesson covers what to put in there.
+So there's a hard deadline on the cheap years. And most people waste them, because nobody ever told them the window existed. The couple's window has about $68,000 a year sitting empty.
 
 == WHERE YOU LIVE: THE STATE LEVER ==
 
-The federal bill is one dial. The state you're a resident of in the year you sell is another. It can add up to double digits of the gain, or nothing at all.
+The third dial is the state you live in, specifically the state you're a resident of in the year you sell. It can add double digits to the tax on a gain, or nothing at all.
 
-How state tax on a sale works:
+Here's how it works. You sell, you realize a gain, and you owe federal tax. Then your state can tax that same gain at its own rate. Most states tax a capital gain as regular income, with no special long-term rate. And a handful of states don't tax income at all. The state that charges you is the one you're a resident of in the year you sell, not the one you lived in when you bought.
 
-- You sell and realize a gain. You owe federal tax on it.
-- Your state can tax that same gain at its own rate.
-- Most states tax a capital gain as regular income (no special long-term rate).
-- A handful of states don't tax income at all.
-- The state that charges you is the one you're a resident of in the year you sell, not the one you were in when you bought.
+Let me put numbers on it. Today, the couple sits on $115,000 of unrealized gain in their Bitcoin. If they realize that in a state with a roughly 9% rate, the state's cut is about $10,700. Take the same sale in Texas, and it's zero.
 
-Exact rates vary by state and change. Every dollar below is under current law.
+Now scale it to retirement. Same two states, on a $500,000 realized gain, which is a normal retirement-year sale for a Bitcoin-heavy household. The high-tax state takes about $46,500. The no-tax state takes nothing. Same Bitcoin, same sale, same federal bill. A $46,500 swing on one transaction.
 
-Two examples. Today, the couple sits on $115,000 of unrealized gain in Bitcoin:
+And those saved dollars don't disappear. They go back into the plan and compound. I ran California against Florida for someone once, and the difference was about $5,800 a year. Over five years, that was $57,000 routed into Bitcoin instead of a state treasury.
 
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Scenario | State's cut |
-|---|---|
-| Take the $115k gain in a ~9% state | ~$10,700 |
-| Take the same sale in Texas | $0 |
-┄┄ end table ┄┄
+One more thing that makes this lever different: it pays every year. Most tax moves in this module are one-shot, you make them in a particular year. A lower state rate applies to every sale you make for as long as you live there.
 
-At retirement scale, same two states on a $500,000 realized gain (a normal retirement-year sale):
+Now, three honest warnings.
 
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Scenario | State's cut |
-|---|---|
-| High-tax state | ~$46,500 |
-| No-tax state | $0 |
-┄┄ end table ┄┄
+First, moving is more than tax. It's family, work, community, roots. Those aren't things a tax number should decide, and no tax saving is worth a life you don't want.
 
-Same Bitcoin, same sale, same federal bill. $46,500 swing on one transaction.
+Second, residency is a legal standard, not an address change. States look at your domicile: where your days are spent, where your home is, where your work and family are, where your life actually happens. You cannot buy this lever with a mailbox.
 
-Those saved dollars go back into the plan, get invested, and grow. Austin ran California vs Florida for a client once: ~$5,800/yr difference, $57,000 over five years routed into Bitcoin.
+And third, sequence matters. High-tax states audit large exits, especially a big sale that lands right after a move. They know the pattern. If the sale is large enough, get state-tax advice first, then make the move, then make the sale. In that order.
 
-The lever pays every year. Most tax moves in this module you make once, in a particular year. A lower state rate applies to every sale you make while you live there. It's the one lever that pays every year you stay.
-
-Moving is more than tax. Moving is family, work, community, and roots. Those aren't things a tax number should decide. No tax saving is worth a life you don't want.
-
-Even on the pure tax side, residency is a legal standard, not an address change. States look at your domicile: days spent in the state, where your home is, where your work is, where your family is, where your life actually happens. You can't buy this lever with a mailbox.
-
-The audit risk: sequence matters. High-tax states may audit large exits, especially a big sale that lands soon after a move. They know the pattern.
-
-If the sale is large enough, the sequence matters: get state-tax advice first, then the move, then the sale. In that order.
-
-A lower-tax state can be a real lever. Treat it as lifestyle + residency + legal planning that happens to save you tax, not the other way around.
+So treat this one as lifestyle plus residency plus legal planning that happens to save you tax, not the other way around.
 
 == HOMEWORK ==
 
-Three steps:
+Your homework for this lesson is to:
 
-- Sketch your income by age for the next 20 years. Rough is fine.
-- Mark the year the paychecks stop and the year forced income starts.
-- Find your lowest-income stretch in between. That's your bracket window.
+1. Sketch your income by age for the next 20 years. Rough is fine.
+2. Mark the year the paychecks stop and the year the forced income starts. The stretch in between, at your lowest income, is your bracket window.
+3. Look up how your state treats capital gains: regular income, special rate, or no tax. If the answer looks like a big lever, take it to a CPA who's done a real relocation before.
 
-Then look up your state's treatment of capital gains (regular income, special rate, or no tax) and estimate your realized-gain profile in the years you plan to sell. If the answer says "big lever," take it to a CPA who's done a real relocation before.
-
-== IF YOU'RE OUTSIDE THE US ==
-
-This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
+And if you're outside the US: the frameworks here travel, the specific rules don't. Map the concepts with a qualified local professional.

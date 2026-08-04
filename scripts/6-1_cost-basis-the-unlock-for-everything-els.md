@@ -1,75 +1,65 @@
 TELEPROMPTER SCRIPT — segment 6.1
 6.1 Cost basis: the unlock for everything else
-600 words · ~3.9 min at 155 wpm
+~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-This lesson is US-specific. Brackets, Roth accounts, RMDs, wash-sale rules, and state taxes assume the US Internal Revenue Code. Outside the US, the principles hold — check specifics with a local tax professional.
+In today's lesson, we're going to cover cost basis, which is the one number that unlocks every other tax move in this module.
 
-Real tax strategy works forward: act in the years your rate is low, and act before the government forces the timing. Every forward-looking move starts with one number being right.
+Quick note before we start: this module is US-specific. The brackets, the Roth accounts, the RMDs, all of it assumes the US tax code. If you're outside the US, the principles travel well, but check the specifics with a local tax professional.
+
+Here's the frame for the whole module. Real tax strategy works forward. You act in the years when your rate is low, and you act before the government forces the timing on you. And every single forward-looking move starts with one number being right.
 
 == WHAT COST BASIS IS ==
 
-Cost basis is what you paid for each lot of Bitcoin: the price, the date, and the amount.
+Cost basis is what you paid for each lot of Bitcoin. The price, the date, and the amount.
 
-Your gain is the sale price minus that basis, and your tax is built on the gain. Without basis, you can't prove the gain was small.
+Your gain is the sale price minus that basis, and your tax is built on the gain. So without basis, you can't prove that the gain was small.
 
-Basis is tracked per lot, not for the whole stack. A lot is one purchase (the coins you bought on one day at one price). When you sell, you're selling out of a specific lot, and the tax follows that lot's price.
+And here's the part people miss: basis is tracked per lot, not for your whole stack. A lot is one purchase, the coins you bought on one day at one price. When you sell, you're selling out of a specific lot, and the tax follows that lot's price.
 
 == SAME SALE, TWO DIFFERENT TAX BILLS ==
 
-The couple's 1.75 BTC, at an illustrative $100,000/coin, is worth $175,000. They paid $60,000, split across two lots:
+Let me show you why that matters. The couple holds 1.75 Bitcoin, worth $175,000 at an illustrative $100,000 a coin. They paid $60,000 for it, split across two lots. Lot one is 1.5 Bitcoin on the hardware wallet, with a $45,000 basis, so $30,000 a coin. Lot two is a quarter Bitcoin on the exchange, with a $15,000 basis, so $60,000 a coin.
 
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Lot | Location | Quantity | Basis | Per coin |
-|---|---|---|---|---|
-| 1 | Hardware wallet | 1.5 BTC | $45,000 | $30,000 |
-| 2 | Exchange | 0.25 BTC | $15,000 | $60,000 |
-┄┄ end table ┄┄
+Now say they sell a quarter Bitcoin. That's $25,000 of proceeds either way. But watch what happens to the gain.
 
-Same stack, two lots. Say they sell 0.25 BTC. That's $25,000 either way:
+If it comes from the hardware wallet lot, the basis on that quarter coin is $7,500, so the gain is $17,500. If it comes from the exchange lot, the basis is $15,000, and the gain is only $10,000.
 
-- From the hardware wallet ($30k/coin): basis $7,500, gain $17,500.
-- From the exchange ($60k/coin): basis $15,000, gain $10,000.
-
-At the 15% long-term capital gains rate, that's a ~$1,125 difference on a sale they were making anyway.
+At the 15% long-term capital gains rate, that's about a $1,125 difference in tax, on a sale they were making anyway. Same stack, same sale price, different lot, different bill. That's why the records matter.
 
 == WHAT CLEAN BASIS UNLOCKS ==
 
-Four moves become available:
+When your basis is clean, four moves become available to you.
 
-- Time your sales. Choose low- or high-basis lots on purpose.
-- Harvest losses. Prove the loss and offset gains and income.
-- Harvest gains. Reset your basis higher in a low-tax year.
-- Model the tax. Know the real bill before you act.
+You can time your sales, choosing low-basis or high-basis lots on purpose. You can harvest losses, because you can prove the loss and use it to offset gains and income. You can harvest gains, resetting your basis higher in a low-tax year. And you can model the tax, so you know the real bill before you act instead of after.
 
-Without clean basis, all four are guesswork.
+Without clean basis, all four of those are guesswork.
 
 == REBUILDING WHAT'S MISSING ==
 
-Almost nobody has clean records. Exchanges shut down, coins move through wallets, and old buys are older than any statement you can download.
+Now, the reality: almost nobody has clean records. Exchanges shut down, coins move between wallets, and your oldest buys are older than any statement you can still download. I've been through this myself, and the path is the same every time.
 
-The path is the same every time:
+First, pull every record that still exists, from every exchange and every wallet.
 
-- Pull every record that exists from every exchange and wallet.
-- For the rest, build a reasonable estimate. Narrow the purchase window as tightly as you honestly can, use the price range from that window, and write down how you got there.
-- Convert a blank into a number you can defend.
+Then, for whatever's left, you build a reasonable estimate. You narrow the purchase window down as tightly as you honestly can, you use the price range from that window, and you write down how you got there. You're converting a blank into a number you can defend.
 
-The IRS standard is "reasonable and documented," not "perfect." Your best estimate, as long as it's reasonable, is good.
+The standard the IRS actually holds you to is "reasonable and documented," not "perfect." Your best estimate, as long as it's reasonable and you wrote down your method, is good.
 
 == NEVER LEAVE BASIS BLANK ==
 
-⛔ Never leave basis blank.
+Here's the one hard rule of this lesson: never leave basis blank.
 
-If there's no basis at all, the gain gets treated as the entire sale price.
+Because if there's no basis at all, the gain gets treated as the entire sale price.
 
-On the 0.25 BTC sale above: $10,000 of real gain becomes $25,000 of gain, because the whole sale price counts. At 15%, a $1,500 bill turns into $3,750. Purely for missing a record.
+Go back to that quarter-Bitcoin sale. With records, the real gain was $10,000. With a blank, the gain becomes the full $25,000, because the whole sale price counts as profit. At 15%, a $1,500 bill just turned into $3,750. That's paying $2,250 extra purely for a missing record.
 
 == HOMEWORK ==
 
-Pull your full history from every exchange and wallet. Then, for every lot, write down what you paid and when. Tedious. Done once. Makes every future tax move precise instead of approximate.
+Your homework for this lesson is to:
 
-== IF YOU'RE OUTSIDE THE US ==
+1. Pull your full transaction history from every exchange and every wallet you've ever used.
+2. For every lot, write down what you paid and when. For the gaps, build the documented estimate we just walked through.
 
-This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
+I'll be honest, this one is tedious. But you do it once, and it makes every future tax move in this module precise instead of approximate.
 
-The next lesson covers the three tax buckets and how to plan across them.
+One last note if you're outside the US: the frameworks in this course travel well, but the account types and tax rules don't. Map the concepts with a qualified local professional.

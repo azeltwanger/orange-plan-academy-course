@@ -1,152 +1,82 @@
 TELEPROMPTER SCRIPT — segment 6.4
 6.4 Harvesting losses and gains
-1069 words · ~6.9 min at 155 wpm
+~8.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-This lesson is US-specific. Non-US notes at the end.
+In today's lesson, we're going to cover harvesting, both losses and gains, which is how you use Bitcoin's volatility to lock in tax outcomes that stock investors rarely get.
 
-Everything so far has been about acting in low-tax years. This lesson adds a second trigger: acting when the price moves.
+This lesson is US-specific, and I'll have a note for non-US viewers at the end.
 
-Because Bitcoin moves so much, you get chances to lock in tax outcomes that stocks rarely give you.
+Everything so far in this module has been about acting in low-tax years. This lesson adds a second trigger: acting when the price moves. And because Bitcoin moves so much, you get these chances far more often than a stock portfolio ever gives you.
 
-Two tools go in opposite directions:
-
-- Harvest losses at the dips.
-- Harvest gains when your bracket is low.
+There are two tools, and they point in opposite directions. You harvest losses at the dips, and you harvest gains when your bracket is low.
 
 == WHAT HARVESTING MEANS ==
 
-Both tools work the same way:
+Both tools work the same way mechanically. You sell a lot to make the gain or loss real for tax purposes, and then you buy back, so what you actually own barely changes.
 
-- Sell a lot to make the gain or loss real for tax purposes.
-- Buy back so what you own barely changes.
+What that buys you is control over timing. You get to choose the year the tax result lands in, without changing your position.
 
-That lets you choose the year the tax result lands in, without changing your position.
+== TOOL 1: HARVEST LOSSES ==
 
-== TOOL 1: HARVEST LOSSES (BITCOIN IS DOWN) ==
+The first tool is harvesting losses when Bitcoin is down. You sell a lot that's sitting below your basis and capture the loss.
 
-Sell a lot sitting below your basis and capture the loss.
+Let's run the couple through a 60% fall. And remember, Bitcoin fell 77% in 2022, so 60% is a normal cycle, not a disaster scenario. Their $175,000 stack is now worth $70,000.
 
-The couple's lots after a 60% fall. Bitcoin fell 77% in 2022, so a 60% fall is a normal cycle. Their $175,000 stack is now worth $70,000.
+Look at their two lots. The hardware wallet lot has a $30,000-per-coin basis, so even after the fall, it's still profitable. There's nothing to harvest there. But the exchange lot, the quarter Bitcoin they bought at $60,000 a coin, is now worth about $10,000 against a $15,000 basis. That's a $5,000 loss sitting there.
 
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Lot | Basis | Basis/coin | Value after 60% fall | Harvest room |
-|---|---|---|---|---|
-| Hardware (1.5 BTC) | $45,000 | $30,000 | Still profitable | None |
-| Exchange (0.25 BTC) | $15,000 | $60,000 | ~$10,000 | $5,000 loss |
-┄┄ end table ┄┄
+So they sell that quarter Bitcoin for $10,000, and they buy it right back for $10,000. Position unchanged. But the $5,000 loss is now real for tax purposes.
 
-Sell the 0.25 BTC for ~$10,000, buy it right back for $10,000. The $5,000 loss is real for tax purposes.
+Here's how losses get used, and it's a specific order. They offset capital gains first, dollar for dollar. Then they offset ordinary income, currently up to $3,000 a year, and verify that number. And whatever's left carries forward to future years.
 
-How losses get used. Losses offset in this order:
+The couple has no gains this year, so the first bucket takes nothing. $3,000 goes against ordinary income at their 22% rate, which is worth about $660 in cash. And the remaining $2,000 carries forward.
 
-- Capital gains first, dollar for dollar.
-- Ordinary income next, currently up to $3,000/yr (verify).
-- The rest carries forward.
-
-Running the couple's $5,000 loss:
-
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Step | Applied | Value |
-|---|---|---|
-| Offset gains | $0 (none this year) | $0 |
-| Offset ordinary income | $3,000 at 22% | ~$660 |
-| Carries forward | $2,000 | Future years |
-┄┄ end table ┄┄
-
-The trade-off: when they buy that lot back, basis drops from $15,000 to $10,000. That takes the deduction now and grows the gain reported later. Usually worth it.
+One honest trade-off to name: when they buy the lot back, the basis drops from $15,000 to $10,000. So they took the deduction now, and they grew the gain they'll report later. That trade is usually worth it, because a dollar of tax saved today is worth more than a dollar paid years from now, but you should know it's a trade.
 
 == CHOOSING WHICH LOT TO SELL: FIFO VS HIFO ==
 
-Say you have 8 lots of 0.5 BTC each from 2023-2025, with Bitcoin now at $70,000. You want to sell 1 BTC.
+Now the lot-selection move, because this is where the basis records from the first lesson pay off in cash.
 
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| # | Price paid | BTC | Basis | Gain/loss at $70k |
-|---|---|---|---|---|
-| 1 | $20,000 | 0.5 | $10,000 | +$25,000 |
-| 2 | $30,000 | 0.5 | $15,000 | +$20,000 |
-| 3 | $40,000 | 0.5 | $20,000 | +$15,000 |
-| 4 | $60,000 | 0.5 | $30,000 | +$5,000 |
-| 5 | $65,000 | 0.5 | $32,500 | +$2,500 |
-| 6 | $90,000 | 0.5 | $45,000 | -$10,000 |
-| 7 | $100,000 | 0.5 | $50,000 | -$15,000 |
-| 8 | $105,000 | 0.5 | $52,500 | -$17,500 |
-┄┄ end table ┄┄
+Say you have 8 lots of half a Bitcoin each, bought between 2023 and 2025 at prices from $20,000 up to $105,000, and Bitcoin is now at $70,000. The full table is on the screen. You want to sell 1 Bitcoin.
 
-FIFO (first-in, first-out). The exchange default. Sells lots 1 and 2.
+Option one is FIFO, first-in, first-out, which is the exchange default. It sells your two oldest lots, the ones you bought at $20,000 and $30,000. The basis on those is $25,000, the sale is $70,000, so the gain is $45,000. At 15% long-term rates, that's a $6,750 tax bill.
 
-- Basis $25,000, sale $70,000, gain $45,000.
-- Tax at 15% long-term: $6,750.
+Option two is HIFO, highest-in, first-out, which you select at the time of sale. It sells the two most expensive lots instead, the ones you bought at $105,000 and $100,000. The basis on those is $102,500 against a $70,000 sale. That's not a gain at all. It's a $32,500 loss. The tax on the sale is zero, and you walk away with a $32,500 loss you can now use against other gains and income.
 
-HIFO (highest-in, first-out). Selected at time of sale. Sells lots 8 and 7.
+Same sale, same coins, same day. $6,750 versus zero. The exchange picks FIFO for you by default. HIFO is a choice you make at the time of sale, and it needs the lot-by-lot basis you built in the first lesson to defend it.
 
-- Basis $102,500, sale $70,000, loss $32,500.
-- Tax on the sale: $0.
-- Plus a $32,500 loss you can now use.
+== THE FEE CHECK ==
 
-Same sale, same coins, $6,750 vs $0. The exchange picks FIFO by default. HIFO is a choice you make at the time of sale, and it needs the wallet-by-wallet cost basis you built in Lesson 1 to defend.
+Before any sell-and-rebuy, run the fee check, because the harvest has to clear the trading costs.
 
-== THE FEE CHECK: IS THE HARVEST WORTH IT? ==
+The comparison is: the loss times your tax rate, against the trade amount times the fee rate times two, because you're paying fees on both sides of the round trip.
 
-Before you sell-and-rebuy, sanity check:
+Say you've got a $10,000 harvestable loss at a 22% rate, and you'd be selling and rebuying $35,000 of Bitcoin at 1.5% fees each way. The tax benefit is $10,000 times 22%, which is $2,200. The fees are $35,000 times 1.5% times two, which is $1,050. You net $1,150, so it's worth doing.
 
-Loss × your tax rate vs trade amount × fee rate × 2 (both sides of the trade)
+Run the same trade at 3% fees each way, and the fees jump to $2,100. Now the harvest barely clears. So small lots at high-fee venues aren't always worth it. Run the check first.
 
-If the left side is bigger, worth doing. If not, skip.
+== TOOL 2: HARVEST GAINS ==
 
-On a $10,000 harvestable loss at 22%, selling and rebuying $35,000 of Bitcoin at 1.5% fees each way:
+The second tool is harvesting gains, and this is the one almost nobody uses. You sell to realize gains on purpose, in a year when your capital-gains rate is low or zero. Then you buy back at the same price. What you just did is reset your basis higher, for free.
 
-- Tax benefit: $10,000 × 22% = $2,200
-- Fees: $35,000 × 1.5% × 2 = $1,050
-- Net: +$1,150, worth it.
+Let's run it on the couple at 60, retired, sitting in that 0% window from the bracket lesson. Take the same quarter Bitcoin from the first lesson. They sell it for $25,000 against a $7,500 basis. That's a $17,500 long-term gain. It lands entirely inside their 0% capital-gains room, so the tax is zero. Then they buy it right back for $25,000, and their new basis is $25,000.
 
-Same trade at 3% fees each way? Fees jump to $2,100, harvest barely clears. Small lots at high-fee venues aren't always worth it.
+Nothing about their stack changed. But the basis on that quarter coin went from $7,500 to $25,000, which means $17,500 of future gain just stopped existing. At a future 15% rate, that's $2,625 of tax they now never pay.
 
-== TOOL 2: HARVEST GAINS (YOUR BRACKET IS LOW) ==
+So a 0% year is doing two jobs. It saves tax on any sale you actually needed to make that year, which is the obvious one. And it resets your basis higher for free, one year at a time, which is the one almost everyone misses. A 0% year is worth using even in a year you don't need the money.
 
-Sell to realize gains on purpose in a year your capital-gains rate is low or zero. Buy back at the same price. Reset your basis higher for free.
-
-Running it on the couple at 60. Same 0.25 BTC from Lesson 1:
-
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Step | Amount |
-|---|---|
-| Sale proceeds | $25,000 |
-| Minus basis | -$7,500 |
-| Gain (all long-term) | $17,500 |
-| Tax at 0% (inside 0% LTCG bracket) | $0 |
-| Buy back at | $25,000 |
-| New basis | $25,000 |
-┄┄ end table ┄┄
-
-Nothing about their stack changed. The basis on that quarter coin went from $7,500 to $25,000. That's $17,500 of future gain that no longer exists. At a future 15%, $2,625 of tax they now never pay.
-
-Two jobs the 0% bracket does:
-
-- Saves tax on the sale you made that year (obvious).
-- Resets your basis higher for free, one year at a time (missed by almost everyone).
-
-A 0% year is worth using even in a year you don't need the money.
-
-== THE WINDOW CONFLICT ==
-
-Roth conversion income competes for the same room. Ordinary conversion income stacks under gains and can push them out of 0%. Model them together.
+One reminder from the conversion lesson: Roth conversion income competes for this same room, because ordinary income stacks underneath your gains and can push them out of 0%. Model the two together.
 
 == THE BITCOIN WASH-SALE NOTE ==
 
-Under current treatment, Bitcoin does not have the wash-sale rule that stocks have. You can sell at a loss and buy right back the same day. For stocks, that would disallow the loss for 30 days.
+Last thing. Under current treatment, Bitcoin does not have the wash-sale rule that stocks have. You can sell at a loss and buy right back the same day, and the loss still counts. With stocks, that same move would disallow the loss for 30 days. That's a real edge, and it's also the kind of rule that can change, so verify it's still true in the year you use it.
 
 == HOMEWORK ==
 
-Two checks against your lots:
+Your homework for this lesson is to:
 
-- Losses sitting unharvested from the last drawdown?
-- Gains you could realize this year at 0%?
+1. Run two checks against your own lots. First: are there losses sitting unharvested from the last drawdown? Second: are there gains you could realize this year at 0%?
+2. Take those two answers to your CPA. They're the whole conversation.
+3. Then watch the walkthrough below this video, where we run every one of these levers in Orange Plan.
 
-Those two answers are what you take to your CPA.
-
-== IF YOU'RE OUTSIDE THE US ==
-
-This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
-
-The next lesson is the walkthrough that runs every one of these levers in Orange Plan.
+And if you're outside the US: the frameworks travel, the specific rules don't. Map the concepts with a qualified local professional.
