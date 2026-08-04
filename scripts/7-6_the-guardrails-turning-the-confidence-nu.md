@@ -1,84 +1,82 @@
 TELEPROMPTER SCRIPT — segment 7.6
 7.6 The guardrails: turning the confidence number into a paycheck
-794 words · ~5.1 min at 155 wpm
+~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-Your confidence number said the plan survives most futures. The guardrails turn that number into a paycheck every year.
+In today's lesson, we're going to cover the guardrails, which turn your confidence number into an actual paycheck you can adjust every year.
+
+Your confidence number told you the plan survives most futures. The guardrails are what turn that number into a spending decision, once a year, with rules you set in advance.
 
 == WHY FIXED WITHDRAWALS FAIL ON BITCOIN ==
 
-While you're saving, order of returns barely matters. Only the average. Once you retire and start withdrawing, that changes.
+First, why the standard approach breaks.
 
-A bad year early costs you far more than the same bad year late, even at an identical average. This is called sequence-of-returns risk, and a fixed withdrawal rule is completely blind to it.
+While you're saving, the order of your returns barely matters. Only the average does. But the day you retire and start withdrawing, that flips. A bad year early costs you far more than the same bad year late, even at an identical average. This is called sequence-of-returns risk, and a fixed withdrawal rule is completely blind to it.
 
-Two retirees, same starting portfolio, same spending, same 30-year average. One thrives. The other runs out of money. The only difference: one got bad years late, the other got them first. Selling more shares at low prices to fund the same spending permanently removes those shares.
+Picture two retirees. Same starting portfolio, same spending, same 30-year average return. One thrives, and one runs out of money. The only difference is that one got the bad years late and the other got them first. Because selling more shares at low prices to fund the same spending permanently removes those shares, and they're not there for the recovery.
 
-The classic 4% rule takes the same inflation-adjusted dollars out every year. Fine on a portfolio that moves 10-15% in a bad year. Point it at an asset that can drop 60% and the rule itself becomes the risk.
+The classic 4% rule takes the same inflation-adjusted dollars out every year no matter what. That's fine on a portfolio that moves 10 or 15% in a bad year. Point it at an asset that can drop 60%, and the rule itself becomes the risk.
 
-Run it on the couple. 60, retired, portfolio $1,000,000, spending $80,000:
+Run it on the couple. They're 60, retired, with a $1,000,000 portfolio and $80,000 of spending. Bitcoin drops 60%, and the portfolio falls to $400,000. The fixed rule says sell $80,000 anyway. That's 20% of everything they have left, sold at the bottom. Recovery takes a couple of years, and the rule makes them do it again the next year.
 
-1. Bitcoin drops 60%. Portfolio: $400,000.
-2. Fixed rule says sell $80,000. That's 20% of everything they have left, at the bottom.
-3. Recovery takes two years. They do it again.
-
-The whole problem lasts 1-3 years. You need a spending rule that flexes.
+Here's the thing though: the whole problem lasts one to three years. That's the window. So what you need is a spending rule that flexes during exactly those years.
 
 == THE 60/80/95 BANDS ==
 
-Once a year, run the simulation and read your confidence number. Every adjustment steers back toward 80%:
+Here's the rule. Once a year, you run the simulation and read your confidence number. And every adjustment steers back toward 80%.
 
-- Around 60. Lower guardrail. Cut. Reduce spending until confidence comes back up toward 80.
-- Around 80. Hold. Inflation adjustment only.
-- Around 95. Upper guardrail. Raise. Increase spending until it settles back down toward 80.
+If confidence is down around 60, that's the lower guardrail. You cut. You reduce spending until confidence comes back up toward 80.
 
-Every change is capped at ±10% in either direction. Inflation adjustment happens every year regardless.
+If it's around 80, you hold. Inflation adjustment only, and you move on with your year.
 
-These bands come out of Guyton and Klinger's withdrawal research, sized for Bitcoin's volatility. The 60, 80, 95 stops and the ±10% cap are the shipped defaults of Orange Plan's spending policy. You're reading it, not building it.
+If it's up around 95, that's the upper guardrail. You raise. You increase spending until it settles back toward 80.
+
+Every change is capped at 10% in either direction, and the inflation adjustment happens every year regardless.
+
+Where do these numbers come from? The bands come out of Guyton and Klinger's withdrawal research, sized for Bitcoin's volatility. And the 60, 80, 95 stops with the 10% cap are the shipped defaults of Orange Plan's spending policy. You're reading a policy the app runs, not building one from scratch.
 
 == CUT OR SKIP THE RAISE, NOT BOTH ==
 
-In a lower-guardrail year, you pick one:
+In a lower-guardrail year, you have to pick one of two moves.
 
-- Take the 10% cut. Bigger hit this year. From that new baseline you go right back to adding inflation adjustments every year.
-- Skip this year's inflation adjustment. Dollar spending stays flat. Feels lighter now. But that missed raise never gets made up, and every future year's paycheck is permanently lower.
+Option one is to take the 10% cut. It's a bigger hit this year, but from that new baseline you go right back to adding inflation adjustments every year.
 
-Prefer the cut. Take a bigger hit once, then let inflation compound back on schedule. Skipping the raise is a small, quiet leak that pulls down your spending for the rest of retirement.
+Option two is to skip this year's inflation adjustment. Your dollar spending stays flat, which feels lighter in the moment. But that missed raise never gets made up, and every future year's paycheck is permanently lower because of it.
 
-== THE CONFIDENCE NUMBER IS REALLY ABOUT TIMING ==
+I'd take the cut. Take a bigger hit once, then let inflation compound back on schedule. Skipping the raise is a small, quiet leak that pulls your spending down for the rest of retirement.
 
-The futures that fail at 80% aren't random bad luck sprinkled evenly. Almost always the same shape: a deep drawdown showing up in year 2 instead of year 15. By year 15, the portfolio has grown into the withdrawals, so a bad year is a dent. In year 2, every dollar of spending comes out of a pile that's already shrinking, and the pile never gets back.
+== WHAT THE CONFIDENCE NUMBER IS REALLY TELLING YOU ==
 
-80% means 8 in 10 futures needed no changes. In the other 2, the plan survives only if you cut for a while. The confidence number is an early-warning signal, not a grade.
+One reframe that makes this whole system click: the futures that fail at 80% confidence aren't random bad luck sprinkled evenly across time. They're almost always the same shape, which is a deep drawdown showing up in year 2 instead of year 15.
+
+By year 15, the portfolio has grown into the withdrawals, so a bad year is a dent. In year 2, every dollar of spending is coming out of a pile that's already shrinking, and the pile never gets back.
+
+So 80% means 8 in 10 futures needed no changes at all. And in the other 2, the plan survives if you cut for a while. That's why the guardrails exist. The confidence number is an early-warning signal, not a grade.
 
 == RUNNING THE ANNUAL REVIEW ON THE COUPLE ==
 
-1. Crash happens. Confidence at 61. Lower guardrail. Cut 10% of $80,000 = $8,000. Paycheck to $72,000 for 12 months.
-2. Twelve months later, Bitcoin recovered. Confidence at 83. Hold. Add inflation on top of $72,000.
-3. If instead confidence came back at 96: raise 10%. $72,000 + $7,000 ≈ $79,000. Walking spending back up.
+Let's run the couple through it.
 
-A 20-point fall gets a 10-point correction this year, and you look again next year. Keeps the paycheck stable instead of swinging with the market.
+A crash happens. At the annual review, confidence reads 61. That's the lower guardrail, so they cut 10% of $80,000, which is $8,000. The paycheck goes to $72,000 for the next 12 months. That's the whole response. No panic, no selling spree, one adjustment.
 
-== PERMISSION TO SPEND ==
+Twelve months later, Bitcoin has recovered. Confidence reads 83. That's hold. They add inflation on top of the $72,000 and move on.
 
-Most retirees under-spend out of fear. The upper guardrail is the plan telling you, with math, that you can raise the paycheck.
+And if instead it had come back at 96, that's the upper guardrail: raise 10%, so $72,000 plus about $7,000 puts them back around $79,000, walking the spending back up.
+
+Notice the shape: a 20-point fall got a 10-point correction this year, and you look again next year. That's what keeps the paycheck stable instead of swinging with the market.
+
+One more thing the upper guardrail does, and I think it's underrated: most retirees under-spend out of fear. The upper guardrail is the plan telling you, with math behind it, that you're allowed to raise the paycheck. That permission is worth a lot.
 
 == CLOSING THE LOOP WITH THE RESERVE ==
 
-Reserve refill runs off the same annual review. For the couple, 18 months × $80,000 = $120,000 cash target.
+Last piece: the reserve refill runs off this same annual review. For the couple, the target is 18 months times $80,000, which is $120,000 of cash.
 
-- Spending held or rose. Refill fully.
-- Spending got cut. Refill only partway (~$80,000, or 12 of 18 months).
-- The target itself stays 18 months. A cut year slows refill, doesn't shrink the target.
+If spending held or rose, refill fully. If spending got cut, refill partway, to about 12 of the 18 months. And the target itself stays 18 months no matter what. A cut year slows the refill. It never shrinks the target.
 
 == HOMEWORK ==
 
-Run the 50% drawdown after retirement scenario on your own plan this week (Scenarios → What if...).
+Your homework for this lesson is to:
 
-Two questions:
-
-1. Does the plan survive with the current reserve size?
-2. If not, how much bigger does the reserve need to be?
-
-Those two answers price your reserve, in dollars, against the drawdown you're actually defending against.
-
-The next lesson is the walkthrough that builds your retirement paycheck in the app.
+1. Run the 50% drawdown after retirement scenario on your own plan this week. It's one click in the app's scenarios.
+2. Answer two questions from it. Does the plan survive with your current reserve size? And if not, how much bigger does the reserve need to be?
+3. Then watch the walkthrough below this video, where we build the whole retirement paycheck in Orange Plan.

@@ -1,111 +1,84 @@
 TELEPROMPTER SCRIPT — segment 7.4
 7.4 The income waterfall + draw and refill
-893 words · ~5.8 min at 155 wpm
+~7.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-Two ideas in one lesson:
-
-- The income waterfall. The order your retirement paycheck gets assembled in.
-- Draw and refill. How to put cash back after you spend it.
+In today's lesson, we're going to cover two things that work together: the income waterfall, which is the order your retirement paycheck gets assembled in, and draw and refill, which is how you put cash back after you spend it.
 
 == THE FOUR TIERS OF THE WATERFALL ==
 
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Tier | Source | Notes |
-|---|---|---|
-| 1 | Social Security and pensions | Guaranteed money spends first. |
-| 2 | Dividends and withdrawals from taxable | Low ordinary income. |
-| 3 | Roth and tax-deferred withdrawals | Retirement accounts. |
-| 4 | RMDs and loan proceeds | Last resort. |
-┄┄ end table ┄┄
+The waterfall has four tiers, and the table on the screen lays them out.
 
-Every year's paycheck is assembled top-down. The further down you reach, the more deliberate that choice should be.
+Tier one is Social Security and pensions. Guaranteed money spends first.
 
-This is the default order most financial advisors give you. It gets you 80% of the way there before any tax planning happens.
+Tier two is dividends and withdrawals from your taxable accounts, because that's low ordinary income.
+
+Tier three is your retirement accounts, the Roth and the tax-deferred money.
+
+And tier four is RMDs and loan proceeds, which is the last resort.
+
+Every year's paycheck gets assembled top-down, and the further down you reach, the more deliberate that choice should be. This is the default order most financial advisors will give you, and honestly, it gets you 80% of the way there before any real tax planning happens.
 
 == WHERE THE STRICT ORDER BREAKS ==
 
-Following the default strictly creates a tax problem: tax brackets reset every year, and low ones are use-it-or-lose-it.
+But here's where following it strictly creates a problem: tax brackets reset every year, and the low ones are use-it-or-lose-it.
 
-If you have a year with almost no ordinary income, the room in your lowest brackets doesn't roll forward. It's gone. Spending from taxable first hands you a run of exactly those years, quietly throwing away cheap tax room.
+If you have a year with almost no ordinary income, the room in your lowest brackets doesn't roll forward. It's just gone. And spending from taxable first hands you a whole run of exactly those years, quietly throwing away cheap tax room the entire time.
 
-When taxable finally runs dry, all your spending has to come out of the traditional account at once, as ordinary income, on a balance that's bigger than it was.
+Then, when the taxable account finally runs dry, all of your spending has to come out of the traditional account at once, as ordinary income, on a balance that's bigger than it was when you started.
 
-== THE COUPLE, STRICT ORDER ==
+Let me run the couple through it. They're 60, retired, spending $80,000 a year, with $400,000 of taxable Bitcoin and $600,000 in traditional.
 
-Age 60, retired, $80,000 in spending. $400,000 taxable Bitcoin plus $600,000 traditional.
+Years one through five, following the strict order, they spend from taxable. $400,000 divided by $80,000 is about 5 years. Their income is low, the tax bill is near zero, and it feels great. Meanwhile the $600,000 traditional account is compounding untouched.
 
-Years 1-5 (strict): Spend from taxable. $400,000 ÷ $80,000 ≈ 5 years. Income is low, tax bill is near zero. The $600,000 traditional compounds untouched.
+Then year six arrives. Taxable is empty. Now every dollar of spending comes from the traditional account as ordinary income. Their near-zero tax bill jumps to filling a much higher bracket in one year, on a balance that's bigger than when they retired, right before RMDs start stacking on top.
 
-Year 6: Taxable is empty. Every dollar comes from traditional as ordinary income. Near-zero tax bill jumps to filling a much higher bracket in one year. On a balance bigger than when they retired. Right before RMDs start.
-
-They spent five years sitting in their cheapest brackets without using them.
-
-Following the strict order doesn't save tax overall. It just moves the bill to your worst year.
+They spent five years sitting in their cheapest brackets without using them. That's the failure. Following the strict order doesn't save tax overall. It just moves the whole bill to your worst year.
 
 == THE FIX: BRACKET-FILL ==
 
-Fill your low brackets on purpose. Instead of draining one account then the next, pull from both at the same time, deliberately.
+The fix is to fill your low brackets on purpose. Instead of draining one account and then the next, you pull from both at the same time, deliberately.
 
-- Take traditional money up to the top of your cheap brackets. That income will get taxed eventually. This is the cheapest year to pay it.
-- Fill the rest of your spending from taxable.
+You take traditional money up to the top of your cheap brackets, because that income is going to get taxed eventually, and this is the cheapest year you'll ever pay it. And then you fill the rest of your spending from taxable.
 
-== THE COUPLE, USING BRACKET-FILL ==
+Run the couple again with bracket-fill, same $80,000 target. Say they have $60,000 of traditional they can pull cheaply, using the standard deduction plus the low ordinary brackets. They take that $60,000 from traditional, and the remaining $20,000 comes from taxable, where their long-term gains may land in the 0% capital-gains bracket stacked on top.
 
-Same $80,000 spending target:
-
-- Find the cheap room. Say they have $60,000 of traditional they can pull cheaply (standard deduction + low ordinary brackets).
-- Fill the rest. $80,000 - $60,000 = $20,000 from taxable. Their long-term gains there may land in the 0% capital-gains bracket stacked on top.
-
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Approach | Where the $80k comes from | Traditional | Tax outcome |
-|---|---|---|---|
-| Strict order | $80k from taxable | Grows untouched | Near-zero now, cliff at year 6 |
-| Bracket-fill | $60k traditional + $20k taxable | Falls $60k/yr | Similar tax bill now, no cliff |
-┄┄ end table ┄┄
-
-$60,000 × 5 years = $300,000 moved out of traditional at almost no tax cost. That's $300,000 not sitting there waiting to become a forced RMD.
+Compare the two after five years. The strict order left the traditional account untouched and built a cliff. Bracket-fill moved $60,000 a year, times 5 years, which is $300,000, out of the traditional account at almost no tax cost. That's $300,000 that is not sitting there waiting to become a forced RMD.
 
 == IN THE APP ==
 
-The engine's default withdrawal behavior is exactly this bracket fill, year by year.
+Here's the good news: the engine's default withdrawal behavior in Orange Plan is exactly this bracket fill, year by year. And if you want to steer it deliberately, the Income page has a withdrawal order control with custom phases, where you set a phase's rule to bracket-aware and pick the bracket ceiling. We'll run that in the walkthrough.
 
-To steer it deliberately, use the Income page's Withdrawal order → Custom phases: set a phase's rule to Bracket-aware and pick the bracket ceiling. Watch Lifetime taxes in the outcome strip while you do (the Module 6 walkthrough runs this).
-
-== YOUR RATIO IS AN OUTPUT, NOT A RULE ==
-
-Whatever split bracket-fill produces for you is your split. It depends on your spending, basis, bracket room, and balances. Don't copy someone else's number.
-
-The strategy is yours to set. Execution is a conversation with your CPA using your actual numbers, because thresholds move every year. Question to bring: "Am I leaving low brackets empty?"
+One thing I want to be clear on: whatever split bracket-fill produces for you is your split. It depends on your spending, your basis, your bracket room, and your balances. Don't copy someone else's ratio. And execution is a conversation with your CPA on your actual numbers, because the thresholds move every year. The question to bring them is: am I leaving low brackets empty?
 
 == DRAW AND REFILL ==
 
-Draw:
+Now the second half: draw and refill.
 
-- Spend from the Reserve. This year's paycheck comes from cash, never directly from volatile assets.
-- Each bucket refills the one before it. Bridge refills Reserve. Legacy (Bitcoin growth) refills Bridge.
+The draw side is simple. You spend from the Reserve. This year's paycheck comes from cash, never directly from volatile assets. And each bucket refills the one before it. The Bridge refills the Reserve, and Legacy, which is your Bitcoin growth, refills the Bridge.
 
-Refill: only on strength. Refill only when the source is up. Never when it's down.
+The refill side has one rule: refill only on strength. You refill when the source is up, never when it's down.
 
-- Markets up? Top up the buffers.
-- Markets down? Stop the refill. Live on the Reserve. Let the engine recover.
-
-You're never rebuilding cash by selling into weakness.
-
-Do it once a year, at your annual review.
+So if markets are up, you top up the buffers. If markets are down, you stop the refill, live on the Reserve, and let the engine recover. That way you are never rebuilding cash by selling into weakness. And you do this once a year, at your annual review, not every time the price moves.
 
 == THE COUPLE'S REFILL RULE ==
 
-$80,000 × 18 months = $120,000 reserve target.
+Let's put the couple's numbers on it. Their spending is $80,000, and their retirement reserve target is 18 months of it, which is $120,000.
 
-At annual review:
+At the annual review, there are three cases.
 
-- Spending held or rose. Refill Reserve back to $120,000 (a full 18 months).
-- Spending got cut. Refill only partway. About 12 months (~$80,000). Don't sell weakness to top up cash.
-- The target itself never moves. A cut year stops the refill short. It never shrinks the target.
+If spending held or rose this year, they refill the Reserve back to the full $120,000.
 
-That last rule is critical. Target stays 18 months. Refill pace adjusts to conditions. The plan doesn't quietly get less safe because of a bad year.
+If spending got cut this year, and we'll cover why that happens in the guardrails lesson, they refill only partway, to about 12 of the 18 months, roughly $80,000. Because you don't sell weakness to top up cash.
 
-Cash Flow → Reserve settings → Monthly build cap is where you tune the refill pace.
+And here's the rule that matters most: the target itself never moves. A cut year stops the refill short. It never shrinks the target. The plan doesn't get to quietly become less safe because one year was bad. The target stays 18 months, and the refill pace is what adjusts.
 
-The next lesson covers the sell, borrow, or hold decision.
+In the app, the refill pace lives in the reserve settings as the monthly build cap, and I'll show you that in the walkthrough.
+
+== HOMEWORK ==
+
+Your homework for this lesson is to:
+
+1. Write down your own waterfall, all four tiers, with your actual sources in each.
+2. Ask the bracket question: in your first five retirement years, would the strict order leave your low brackets empty? If yes, bracket-fill is worth modeling.
+3. Set your refill rule now, while you're calm: your reserve target in months, and what a partial refill looks like in a cut year.

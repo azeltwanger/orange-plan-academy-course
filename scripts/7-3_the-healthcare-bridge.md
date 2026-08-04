@@ -1,98 +1,61 @@
 TELEPROMPTER SCRIPT — segment 7.3
 7.3 The healthcare bridge
-741 words · ~4.8 min at 155 wpm
+~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-Under current law, Medicare starts at 65. Retire at 55, and that's 10 years of coverage you have to buy yourself, because employer coverage ends when the job does.
+In today's lesson, we're going to cover the healthcare bridge, which is how you cover health coverage between your last day of work and Medicare.
 
-A 10-year bill in front of anyone retiring early. Usually the largest single line inside the bridge years.
+Under current law, Medicare starts at 65. So if you retire at 55, that's 10 years of coverage you have to buy yourself, because employer coverage ends when the job does. For most people retiring early, this is the largest single line inside the bridge years.
 
-== THREE PATHS (PLUS ONE SHORT-TERM OPTION) ==
+== THE SHORT-TERM OPTION: COBRA ==
 
-Short-term: COBRA. Keeps your exact employer plan for up to 18 months (verify).
+Before the three real paths, there's one short-term option: COBRA. It keeps your exact employer plan for up to 18 months, and verify that window. You keep your plan, your doctors, and your network. The catch is that now you're paying the entire premium yourself, plus a small admin fee, where before your employer was paying most of it.
 
-- You keep your plan, doctors, and network.
-- Now you pay all of the premium, plus a small admin fee.
+I'd call COBRA the bridge to the bridge. It's a first-year option while you sort out the real answer, not a decade solution. Expensive, but zero disruption.
 
-Bridge to the bridge. A first-year option, not a decade solution. Expensive but zero disruption.
+== PATH 1: THE MARKETPLACE ==
 
-Path 1: The marketplace (ACA). The default for most early retirees. Metal tiers are cost-sharing levels, not quality levels:
+The first real path is the ACA marketplace, and it's the default for most early retirees.
 
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Tier | Premium | Deductible | Notes |
-|---|---|---|---|
-| Bronze | Lowest | Highest | May pair with an HSA |
-| Silver | Middle | Middle | Benchmark tier for subsidies. Extra cost-sharing help at lower incomes. |
-| Gold | Higher | Lower out-of-pocket | Wins if you use a lot of care |
-┄┄ end table ┄┄
+The plans come in metal tiers, and here's the thing to understand: the tiers are cost-sharing levels, not quality levels. Bronze has the lowest premium and the highest deductible, and it may pair with an HSA. Silver is the middle, and it's the benchmark tier that subsidies get calculated against, with extra cost-sharing help at lower incomes. Gold has a higher premium and lower out-of-pocket, and it wins if you actually use a lot of care.
 
-Almost nobody who plans well pays sticker price.
+Now the part that matters for this course: almost nobody who plans well pays sticker price. There's a subsidy, and it scales with your income. Lower income means a bigger credit and a lower net premium. Higher income means a smaller credit, until you're paying sticker at the top.
 
-The subsidy scales with your income. The subsidy lowers your monthly premium, and its size scales with income:
+The income it looks at is your MAGI, your modified adjusted gross income. And here's the key insight for an early retiree: in the bridge years, your MAGI is partly a choice.
 
-- Lower income → bigger credit → lower net premium.
-- Higher income → smaller credit → sticker price at the top.
+If you fund your spending from cash, or from taxable dollars that are mostly basis, your income on paper is low, and the subsidy goes up. If you realize big gains, take traditional-account dollars, or do Roth conversions, your MAGI goes up, and the subsidy goes down.
 
-The income it looks at is your MAGI (Modified Adjusted Gross Income): the income the subsidy math sees.
+Engineer a modest MAGI, and the exact same Silver plan's net premium can fall by hundreds or even thousands a month. The thresholds move every year, so verify them. But the principle holds: in the bridge years, your health premium is partly a tax-planning output.
 
-In early retirement, your MAGI is partly a choice, which puts your premium partly under your control:
+Which brings us to the tension. This is the same window conflict from the tax module: one low-income window, multiple planning moves competing for it. A big Roth conversion raises your MAGI, which shrinks or kills your subsidy that same year. You can max the window for subsidies, or you can max it for conversions, but you can't do both. So a conversion decision is also a healthcare decision. Model both paths, pick deliberately, and revisit it every year. This is a flagship question to bring your CPA.
 
-- Spend from cash or taxable dollars that are mostly basis → income on paper is low → subsidy goes up.
-- Realize gains, take traditional-account dollars, or do Roth conversions → MAGI goes up → subsidy goes down.
+== PATH 2: HEALTH-SHARING ==
 
-Engineer a modest MAGI and the same Silver plan's net premium can fall by hundreds or thousands a month. Thresholds move every year. Verify.
+The second path is health-sharing, and this one I can speak to from experience, because my family uses CrowdHealth. Switching saved us about $1,000 a month compared to what we were looking at on the marketplace.
 
-In the bridge years, your health premium is partly a tax-planning output.
+Here's how it works. You pay a monthly membership amount. When you have a health event, you cover a fixed member responsibility, which is a few hundred dollars. And the bills above that get crowdfunded by the membership, with cash-pay pricing negotiated up front.
 
-The tension: subsidy vs Roth conversion. Same shape as the tax module's window conflict. One low-income window, multiple planning moves competing for it.
+Now, the trade-offs, and I want to be straight about these because I'm in this system. It's not insurance, which means there's no legal guarantee that any bill gets funded. Pre-existing conditions get limited, phased participation. It's cash-pay medicine, so there's no network and you're the payer. And it's typically not HSA-qualified, so joining usually means giving up new HSA contributions. Verify current law on that one.
 
-A big Roth conversion raises your MAGI, which shrinks or kills the subsidy that same year. You can max the window for subsidies or for conversions, but not both.
-
-A conversion decision is also a healthcare decision. Model both paths, pick deliberately, revisit every year. Flagship question for your CPA.
-
-Path 2: Health-sharing. Austin's family uses CrowdHealth, so he can speak from experience.
-
-How it works:
-
-- Pay a monthly membership amount.
-- Cover a fixed member responsibility on a health event (a few hundred dollars).
-- Bills above that get crowdfunded, with cash-pay pricing negotiated up front.
-
-Trade-offs:
-
-- Not insurance. No legal guarantee any bill gets funded.
-- Pre-existing conditions. Limited, phased participation.
-- Cash-pay medicine. No network. You're the payer.
-- Typically not HSA-qualified. Joining usually means giving up new HSA contributions. Verify current law.
-
-Best fit: relatively healthy households comfortable managing bills directly, with a solid reserve.
-
-Verify terms and pricing before deciding.
+The best fit, in my view, is a relatively healthy household that's comfortable managing bills directly and has a solid reserve behind them. If that's not you, the marketplace is the safer default. Either way, verify the current terms and pricing before you decide, because these programs change.
 
 == THE DECISION FRAME ==
 
-Bridge years × annual cost of each path, side by side. Then add soft factors: health status, comfort with a non-guaranteed model, HSA plans, provider preferences.
+The decision frame is simple: bridge years times the annual cost of each path, side by side. Then layer in the soft factors: your health status, your comfort with a non-guaranteed model, your HSA plans, and your provider preferences.
 
 == IN THE PLAN ==
 
-Healthcare is a line inside your retirement spending number (from Lesson 1). The bridge premium is an expense with an end date at 65.
+Where does this live in your plan? Healthcare is a line inside your retirement spending number from the first lesson. And the bridge premium specifically is an expense with an end date at 65.
 
-In the app: enter as an Expense Change life event with a duration (5 years if you retire at 60). No "end age" field; you set a duration.
+In the app, you enter it as an Expense Change life event with a duration. So if you retire at 60, the duration is 5 years. Heads up: there's no "end age" field, you set a duration.
 
-One thing the app doesn't do: model a Roth conversion, and it shows the tax side in full but doesn't price what the higher MAGI does to your subsidy. That's the worksheet.
+One thing the app doesn't do: when you model a Roth conversion, it shows you the tax side in full, but it doesn't price what the higher MAGI does to your subsidy. That part is your worksheet.
 
-== AT 65: ONE INCOME RULE SWAPS FOR ANOTHER ==
-
-Income still drives your healthcare cost, just under a different rule. Subsidies stop; Medicare IRMAA surcharge thresholds take over (covered in the tax module).
+And one last marker for age 65: your income doesn't stop driving your healthcare cost at Medicare, it just switches rules. The subsidies stop, and the IRMAA surcharge thresholds take over. We touched IRMAA in the tax module.
 
 == HOMEWORK ==
 
-Price your bridge three ways:
+Your homework for this lesson is to:
 
-- COBRA (first year only).
-- A Silver plan at the MAGI you'd actually run.
-- Current health-sharing membership pricing.
-
-Most people have never seen those three numbers side by side. The comparison is the decision.
-
-The next lesson covers the income waterfall and the draw-and-refill rules.
+1. Price your bridge three ways. COBRA, for the first year only. A Silver marketplace plan at the MAGI you'd actually run. And current health-sharing membership pricing.
+2. Put the three numbers side by side. Most people have never actually seen that comparison, and the comparison is the decision.

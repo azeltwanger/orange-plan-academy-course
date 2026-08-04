@@ -1,103 +1,62 @@
 TELEPROMPTER SCRIPT — segment 7.5
 7.5 Sell, borrow, or hold
-691 words · ~4.5 min at 155 wpm
+~6.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-Advanced. Borrow-vs-sell is a decision that only fires if you're considering asset-backed lending against Bitcoin. Skim unless the trigger applies to you.
+In today's lesson, we're going to cover the three ways to fund your life from a Bitcoin-heavy plan: sell, borrow, or hold.
 
-Three ways to fund your life from a Bitcoin-heavy plan. Each costs something different. Here's each priced on one year of the couple's retirement:
+One note up front: this is an advanced lesson, and the borrow half of it only really fires if you're considering asset-backed lending against your Bitcoin. If that's not you, you can skim this one and come back if it ever becomes relevant.
 
-- Age 60
-- Spending $80,000/yr
-- $400,000 taxable Bitcoin
-- $120,000 Reserve
+Each of the three tools costs something different, so I'm going to price each one on the same single year of the couple's retirement. They're 60. Spending is $80,000 a year. They've got $400,000 of taxable Bitcoin and a $120,000 reserve.
 
-== TOOL 1: SELL (BUYING SIMPLICITY) ==
+== TOOL 1: SELL ==
 
-Sell $80,000 of Bitcoin to cover the year.
+The first tool is selling, and what you're buying with it is simplicity.
 
-Split into basis and gain:
+They sell $80,000 of Bitcoin to cover the year. That sale splits into basis and gain: about $20,000 of basis, and about $60,000 of long-term gain. And here's the thing from the tax module: in a low-income year, that $60,000 of gain can land entirely in the 0% capital-gains bracket and cost almost nothing.
 
-- Basis: about $20,000 (a quarter of it, illustrative).
-- Long-term gain: about $60,000.
+The upside is that one year of spending is handled, with no counterparty and no loan to manage. The downside is that the Bitcoin is gone. I think selling is best when spending is modest and simplicity is worth something to you in itself. And it often is.
 
-In a low-income year, that $60,000 of gain can land in the 0% capital-gains bracket and cost almost nothing.
+== TOOL 2: BORROW ==
 
-- Upside. One year of spending, no counterparty, no loan to manage.
-- Downside. Bitcoin is gone.
+The second tool is borrowing, and what you're buying is upside. You borrow $80,000 against the Bitcoin. There's no taxable event, and the Bitcoin keeps compounding.
 
-Best when spending is modest and simplicity is worth something in itself.
+The entire decision here is the LTV, the loan-to-value ratio, which is the loan balance divided by the collateral value. A 20% LTV means you've borrowed 20 cents against every dollar of Bitcoin.
 
-== TOOL 2: BORROW (BUYING UPSIDE) ==
+And that ratio moves on its own, for two reasons. Interest pushes the loan balance up, and a price drop pulls the collateral down. So the ratio can climb fast without you doing anything at all. That's why the starting ratio is the whole decision.
 
-Borrow $80,000 against the Bitcoin. No taxable event. Bitcoin keeps compounding.
+Let me price the couple's actual borrowing capacity. My own default is 10 to 20% LTV. On their $400,000 of collateral, that's $40,000 to $80,000 of capacity. Notice what that means: one year of spending uses their entire capacity at the top of the conservative range.
 
-LTV is the whole decision. LTV = loan balance ÷ collateral value. A 20% LTV means you've borrowed 20 cents against every dollar of Bitcoin.
+Now watch what a year does to it. At a 10 to 11% rate, the $80,000 loan grows to about $88,000 a year later with nothing paid. Then drop Bitcoin 50%, which is normal, not extreme. The collateral is now $200,000, so $88,000 against $200,000 is 44% LTV. The cushion is gone. They can't borrow again next year, and they're one more leg down from liquidation.
 
-The ratio moves for two reasons:
+So two conclusions on borrowing. First: borrow from strength, not from a trap. A loan taken calmly at low LTV with a written plan is a completely different product from a loan taken in the middle of a drawdown because you're cornered. And second: borrowing works when the LTV is low, there's liquidity behind it, and you're comfortable holding it. What it does not work as is the foundation of a retirement paycheck, because one year of spending uses the whole capacity and the second year has nowhere to come from. Borrowing is a tool for a year, not a plan for a decade.
 
-1. Interest pushes the balance up.
-2. A price drop pulls the collateral down.
+== TOOL 3: HOLD ==
 
-The ratio can climb fast without you doing anything. The starting ratio is the whole decision.
+The third tool is holding, and what you're buying is compounding, and maybe something more.
 
-The couple's borrowing capacity, priced. Austin's default is 10 to 20% LTV.
+They don't touch the Bitcoin at all. They spend from the $120,000 reserve. The $400,000 keeps compounding.
 
-- 10-20% of $400,000 collateral = $40,000 to $80,000 of capacity.
-- One year of spending is the entire capacity at the conservative limit.
+And here's the something more. Under current law, and verify this, Bitcoin passes to heirs with a step-up in basis. If the couple's basis is $100,000, that's $400,000 minus $100,000, or $300,000 of embedded gain that passes to their kids untaxed. The gain just disappears at death.
 
-Add a year of interest. At 10-11%, $80,000 grows to about $88,000 a year later with nothing paid.
-
-Drop Bitcoin 50%. Collateral is now $200,000. $88,000 against $200,000 = 44% LTV.
-
-The cushion is gone. They can't borrow again next year, and they're one leg down from liquidation.
-
-Borrow from strength, not from a trap. A loan taken calmly at low LTV with a plan is a different product from one taken in a drawdown because you're cornered.
-
-Where borrowing works and doesn't:
-
-- Works. LTV is low, liquidity is behind it, you're comfortable holding it.
-- Doesn't. As the foundation of a retirement paycheck. One year of spending uses the whole capacity. The second year has nowhere to come from.
-
-Borrowing is a tool for a year, not a plan for a decade.
-
-== TOOL 3: HOLD (BUYING COMPOUNDING, AND MAYBE MORE) ==
-
-Don't touch the Bitcoin. Spend from the Reserve ($120,000).
-
-The $400,000 keeps compounding.
-
-Under current law (verify), it passes to heirs with a step-up in basis. If their basis is $100,000:
-
-- $400,000 - $100,000 = $300,000 of embedded gain that passes untaxed.
-
-That turns "not selling" from a preference into a tax strategy.
-
-Never selling the core can be a legitimate estate move, as long as it's funded by the Reserve and Bridge instead of by sales.
+That turns "never sell" from a preference into an actual tax strategy. Holding the core forever can be a legitimate estate move, as long as it's funded by the Reserve and the Bridge instead of by sales.
 
 == IN THE APP ==
 
-Plan → Income → Retirement Borrowing prices all three side by side against a plain sell-as-you-go baseline. What you read off it:
-
-- After-tax net worth at {age}. The family-facing number.
-- Any loan balance the estate has to repay at death.
-- A step-up assumption you can flip on and off.
-
-It's a sandbox. Nothing touches your plan until you apply it.
+The app prices all three of these side by side. The Retirement Borrowing tab on the Income page compares the strategies against a plain sell-as-you-go baseline, and what you read off it is the after-tax net worth at the end, any loan balance the estate has to repay at death, and a step-up assumption you can flip on and off. It's a sandbox. Nothing touches your plan until you click apply.
 
 == THE DECISION FRAME: FOUR QUESTIONS ==
 
-1. Taxes. What's the tax bill on each path this year?
-2. Liquidation risk. Does the loan survive a 50% Bitcoin drop?
-3. Cash flow. Is the annual capacity enough to matter?
-4. Family comfort. Does your spouse understand the loan structure?
+The decision frame is four questions.
 
-Match the tool to the answers. You can mix them: a sell year, a borrow year, a hold-forever core.
+One: taxes. What's the actual tax bill on each path this year? Two: liquidation risk. Does the loan survive a 50% Bitcoin drop? Three: cash flow. Is the annual borrowing capacity even enough to matter? And four: family comfort. Does your spouse actually understand the loan structure? Because if you're not around, they're the one managing it.
+
+And remember you can mix these. A sell year, a borrow year, and a hold-forever core can all live in the same plan.
 
 == HOMEWORK ==
 
-Run all three on one year of your own spending. Not to pick a winner, but to know the numbers behind each. Then price them across a five-year window. What does five years of borrow-only cost in interest and LTV drift? What does five years of sell-only cost in taxes?
+Your homework for this lesson is to:
 
-Bring the outputs to the household and CPA conversation.
-
-The next lesson covers the guardrails that turn your confidence number into an actual paycheck.
+1. Run all three tools on one year of your own spending. Not to pick a winner, but to know the real numbers behind each one.
+2. Then price them across a five-year window. What does five years of borrow-only cost in interest and LTV drift? What does five years of sell-only cost in taxes?
+3. Bring those outputs to the household conversation and to your CPA.

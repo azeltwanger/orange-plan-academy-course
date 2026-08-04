@@ -1,80 +1,64 @@
 TELEPROMPTER SCRIPT — segment 7.2
 7.2 The bridge years
-537 words · ~3.5 min at 155 wpm
+~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-The last lesson showed the gap is biggest in the early years. This lesson covers those years: the stretch between your last paycheck and your full income floor.
+In today's lesson, we're going to cover the bridge years, which is the stretch between your last paycheck and your full income floor.
 
-Most early-retirement plans fail here.
+The gap lesson showed you that the gap is biggest in the early years. These are those years. And I want to be direct about the stakes: most early-retirement plans that fail, fail here.
 
 == THE TIMELINE ==
 
-Your income floor doesn't arrive all at once. Three milestones matter:
+Your income floor doesn't arrive all at once. There are three milestones, and the table on the screen lays them out.
 
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Milestone | What changes |
-|---|---|
-| Retirement day | Paycheck stops. Portfolio covers the entire gap. |
-| Age 59½ | Retirement accounts unlock. You can pull from a traditional IRA or 401(k) without the 10% early-withdrawal penalty. Verify under current law. |
-| Social Security begins | Floor rises. Splits your retirement into "on your own" and "not on your own." |
-┄┄ end table ┄┄
+The first milestone is retirement day. The paycheck stops, and from that day the portfolio covers the entire gap.
+
+The second is age 59 and a half. That's when your retirement accounts unlock, meaning you can pull from a traditional IRA or 401(k) without the 10% early-withdrawal penalty. Verify that under current law.
+
+And the third is the day Social Security begins. That's when the floor rises, and it splits your retirement into two eras: the years you're on your own, and the years you're not.
 
 == COUNT THEM, THEN PRICE THEM ==
 
-Two things to do with your bridge:
+There are two things to do with your bridge, and they're both simple.
 
-- Count your bridge years. Retirement date to Social Security start.
-- Price them. Bridge years × early-year gap = the bridge's price tag.
+First, count your bridge years. That's your retirement date to your Social Security start date.
 
-That turns a vague worry about early retirement into one number the portfolio has to produce without help. That number is what your Bridge bucket gets sized against.
+Second, price them. Bridge years times your early-year gap equals the bridge's price tag. That one multiplication turns a vague worry about early retirement into a single number the portfolio has to produce without any help. And that number is what your Bridge bucket gets sized against.
 
 == THE COUPLE, PRICED TWO WAYS ==
 
-They retire at 60 with an ~$84,000 early-year gap.
+Let's price the couple's bridge two ways, because the claiming decision changes it enormously.
 
-Claim at 67 (full retirement age):
+They retire at 60 with an $84,000 early-year gap.
 
-- 60 to 67 = 7 bridge years
-- 7 × $84,000 = $588,000 the portfolio carries alone.
+If they claim Social Security at 67, their full retirement age, that's 7 bridge years. 7 times $84,000 is $588,000 that the portfolio has to carry completely alone.
 
-Claim at 62 (earliest):
+If they claim at 62, the earliest allowed, that's 2 bridge years. 2 times $84,000 is $168,000.
 
-- 60 to 62 = 2 bridge years
-- 2 × $84,000 = $168,000.
-
-Difference: $420,000 on or off the portfolio, from one claiming decision.
+That's a $420,000 difference in what lands on the portfolio, from one claiming decision. Hold that thought, because we're coming back to it.
 
 == WHY THE BRIDGE IS HARD ==
 
-Three problems stack into the same few years:
+Here's why the bridge is genuinely hard: three problems stack into the same few years.
 
-- The biggest gap of your whole retirement.
-- No floor underneath you yet. Social Security hasn't turned on.
-- Retirement accounts are still expensive to touch (if you retired before 59½). 10% penalty on top of income tax.
+You've got the biggest gap of your whole retirement. You've got no floor underneath you yet, because Social Security hasn't turned on. And your retirement accounts are still expensive to touch if you retired before 59 and a half, because there's a 10% penalty sitting on top of the income tax.
 
-That's why the Bridge bucket from Module 3 exists. Money for the early-retirement years, held somewhere you can reach it, in something that isn't going to be down in the years you need it.
+That's exactly why the Bridge bucket from the allocation module exists. Money for the early-retirement years, held somewhere you can actually reach it, in something that isn't going to be down 60% in the years you need it.
 
 == WHEN TO CLAIM SOCIAL SECURITY ==
 
-Standard advice says wait for the bigger check. The check grows roughly 8%/yr for every year you delay past your full retirement age. That part is true.
+Now, the claiming decision. The standard advice says wait for the bigger check, and the math behind that is true: the check grows roughly 8% a year for every year you delay past your full retirement age.
 
-But waiting isn't free. Every year you wait, the portfolio carries the full gap by itself. For a Bitcoin-heavy plan, claiming earlier can be rational when it reduces how much Bitcoin you're forced to sell during the bridge, especially in a drawdown year.
+But here's what the standard advice leaves out: waiting isn't free. Every year you wait, the portfolio carries the full gap by itself. And for a Bitcoin-heavy plan, claiming earlier can be completely rational, because what you're really buying with the earlier check is fewer forced Bitcoin sales during the bridge. Especially if one of those bridge years turns out to be a drawdown year.
 
-Don't default to waiting. Compare 62, full retirement age, and 70 against your own gap.
+So don't default to waiting just because the check is bigger. Compare 62, full retirement age, and 70 against your own gap. In the app, there are two one-click scenarios for this, claim at 62 and claim at 70, and each one re-runs your entire plan with the floor turning on at that age. Read your own bridge both ways, side by side.
 
-== IN THE APP ==
-
-Scenarios → What if... → Claim Social Security at 62 and Claim Social Security at 70. Two one-click what-ifs that re-run your whole plan with the floor turning on at that age. Read your own bridge twice, side by side.
-
-The decision is personal. Confirm with your advisor.
+I'm not going to tell you which one to pick. This decision is personal, and it's worth confirming with your advisor. But make it a comparison, not a default.
 
 == HOMEWORK ==
 
-Two steps:
+Your homework for this lesson is to:
 
-- Count your bridge years.
-- Multiply by your early-year gap.
-
-That total tells you whether your Bridge bucket is actually sized for the job.
-
-The next lesson covers the healthcare bridge, which lives inside these same years.
+1. Count your bridge years.
+2. Multiply by your early-year gap, and write the total down.
+3. Then look at your Bridge bucket and ask honestly: is it actually sized for that number?

@@ -1,92 +1,59 @@
 TELEPROMPTER SCRIPT — segment 7.1
 7.1 Spending, floor, and the gap
-584 words · ~3.8 min at 155 wpm
+~5.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-This module builds your retirement paycheck: an income floor, a gap the portfolio covers, buckets that refill on rules, and guardrails that tell you when you can spend more.
+In today's lesson, we're going to cover the three numbers that your entire retirement paycheck is built on: your spending, your income floor, and the gap between them.
 
-The whole thing runs on three numbers. This lesson finds yours.
+This module builds your retirement paycheck. An income floor, a gap that the portfolio covers, buckets that refill on rules, and guardrails that tell you when you can spend more. But the whole thing runs on three numbers, and this lesson finds yours.
 
 == NUMBER 1: A REALISTIC SPENDING NUMBER ==
 
-Build it from four pieces:
+The first number is a realistic spending number, and you're going to build it from four pieces.
 
-- Baseline spending. Housing, food, insurance, utilities, transportation.
-- Flexible spending. Travel, gifts, hobbies, entertainment. The stuff you'd pause in a bad year.
-- Healthcare. Premiums, out-of-pocket, prescriptions, dental, vision.
-- Lumpy costs. Roof, car, wedding, dental work, HVAC replacement.
+The first piece is baseline spending. Housing, food, insurance, utilities, transportation. The second is flexible spending. Travel, gifts, hobbies, entertainment. This is the stuff you'd pause in a bad year. The third is healthcare. Premiums, out-of-pocket, prescriptions, dental, vision. And the fourth is lumpy costs. The roof, a car, a wedding, dental work, the HVAC going out. The stuff that doesn't happen every year but always happens eventually.
 
-Two honesty checks before you write it down:
+Before you write your number down, run two honesty checks.
 
-- Is it realistic for the early years? Most people spend more in the "go-go" phase of retirement. Travel, projects, gifting.
-- Is healthcare in it? If you retire before 65, healthcare alone can run into four figures a month.
+First: is it realistic for the early years? Most people actually spend more in the first stretch of retirement, the go-go phase, because that's when the travel and the projects and the gifting happen.
+
+Second: is healthcare actually in it? Because if you're retiring before 65, healthcare alone can run into four figures a month, and I've got a whole lesson on that coming.
 
 Land on one annual number, lumpy costs included.
 
 == NUMBER 2: YOUR INCOME FLOOR ==
 
-Durable income before you sell anything:
+The second number is your income floor, which is the durable income that shows up before you sell anything.
 
-- Social Security
-- Pension, if you have one
-- Other recurring retirement income
-- Portfolio income, only if it's real (verified dividends or rent, not hoped-for yield)
-- Part-time income, if you'll have any
+That's Social Security. A pension, if you have one. Other recurring retirement income. Portfolio income, but only if it's real, meaning verified dividends or rent, not hoped-for yield. And part-time income, if you're actually going to have any.
 
-The guaranteed core (Social Security + pension + other durable income) is your floor. It tells you how much of your life is already paid for, whether the markets cooperate or not.
+The guaranteed core of that, the Social Security plus the pension plus whatever else is durable, is your floor. And what the floor tells you is how much of your life is already paid for, whether the markets cooperate or not.
 
 == NUMBER 3: THE GAP ==
 
-Spending minus floor = the portfolio's job.
+The third number is the gap, and it's just your spending minus your floor. The gap is the portfolio's job.
 
-Three questions follow:
+Once you have the gap, three questions follow. How large is it? How hard does it make the portfolio work? And how much of it is covered by cash?
 
-- How large is the gap?
-- How hard does it make the portfolio work?
-- How much of it is covered by cash?
+The second question has real math behind it: you take the gap and divide by the portfolio. An $80,000 gap on a $2,000,000 portfolio is 4%. The same $80,000 gap on a $1,000,000 portfolio is 8%. Same lifestyle, but the portfolio is doing twice the work at half the size. That ratio is the thing the whole safe-withdrawal-rate literature argues about.
 
-Questions 2 and 3 have real math behind them.
+The third question is your reserve divided by the gap. A $160,000 reserve against an $80,000 gap is 2 years of funding without selling anything. That's your buffer measured in time, which is how I think you should measure it.
 
-How hard the portfolio works. Gap ÷ portfolio:
-
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Gap | Portfolio | Ratio |
-|---|---|---|
-| $80,000 | $2,000,000 | 4% |
-| $80,000 | $1,000,000 | 8% |
-┄┄ end table ┄┄
-
-Same lifestyle. The portfolio does twice the work at half the size. This ratio is what the safe-withdrawal-rate literature argues about.
-
-How much is covered by cash. Reserve ÷ gap:
-
-$160,000 reserve ÷ $80,000 gap = 2 years of funding without selling anything.
-
-Write both ratios down now.
+Write both of those ratios down.
 
 == THE THREE NUMBERS MOVE OVER TIME ==
 
-Your income floor doesn't turn on all at once. The couple, 59 now and retiring next year:
+Now, here's the part that surprises people: these three numbers don't sit still, because your income floor doesn't turn on all at once.
 
-┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄
-| Year | Position | Income | Spending | Gap |
-|---|---|---|---|---|
-| 1 | Working | $190,000 | $80,000 | +$110,000 surplus |
-| 2 | Retired, pre-SS | $0 | $84,000 (inflation) | -$84,000 |
-| 3 | Some SS on | ~$38,000 | $84,000 | -$46,000 |
-| 4 | More SS on | ~$50,000 | $84,000 | -$34,000 |
-┄┄ end table ┄┄
+Take the couple. They're 59 now, retiring next year. In year one, they're still working: $190,000 coming in, $80,000 going out, a $110,000 surplus. In year two, they're retired and Social Security hasn't started: income is zero, spending has inflated to about $84,000, so the gap is the whole $84,000. In year three, some Social Security turns on, call it $38,000, and the gap shrinks to $46,000. Year four, more of the floor arrives, and the gap is down to $34,000.
 
-The gap is largest right after your last paycheck and shrinks as the floor turns on. The biggest demand on your portfolio lands in the first few years after you stop working.
+Look at the shape of that. The gap is largest right after your last paycheck, and it shrinks as the floor turns on. Which means the biggest demand on your portfolio lands in the first few years after you stop working. That's why the next lesson exists.
 
-== IN THE APP ==
-
-Plan → Income → Income Blueprint runs this table on your numbers. The walkthrough at the end of the module builds it out.
+The app runs this exact table on your numbers, on the Income Blueprint page, and the walkthrough at the end of the module builds it out.
 
 == HOMEWORK ==
 
-Write your three numbers down: spending, floor, gap.
+Your homework for this lesson is to:
 
-If you don't know your floor yet, pull your Social Security estimate this week. SSA.gov gives it in monthly and annual. The app takes it as monthly.
-
-The next lesson prices the bridge years between your last paycheck and your full income floor.
+1. Write your three numbers down: spending, floor, and gap.
+2. If you don't know your floor yet, pull your Social Security estimate this week. SSA.gov gives it to you in monthly and annual form. Heads up: the app takes it as a monthly number.
