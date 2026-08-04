@@ -1,55 +1,65 @@
 TELEPROMPTER SCRIPT — segment 8.2
 8.2 The hardware wallet and the recovery test
-624 words · ~4.0 min at 155 wpm
+~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-A seed backup is only as good as your ability to actually restore from it. This lesson walks through the setup, then the recovery test that proves the backup works before serious money depends on it.
+In today's lesson, we're going to cover the hardware wallet setup, and the recovery test that proves your backup actually works before serious money depends on it.
+
+Because here's the truth of this whole lesson: a seed backup is only as good as your ability to actually restore from it. And most people have never tested that.
 
 == WHERE YOUR BITCOIN ACTUALLY LIVES ==
 
-Your Bitcoin isn't on the device. When you set up a hardware wallet, it generates a seed phrase (12 or 24 words), and every key to your Bitcoin is derived from those words. The device is a safe place to use them.
+First, a mental model that changes everything: your Bitcoin isn't on the device.
 
-- The device is replaceable.
-- The seed is not.
+When you set up a hardware wallet, it generates a seed phrase, 12 or 24 words, and every key to your Bitcoin is derived from those words. The device is just a safe place to use them. The device is replaceable. The seed is not.
 
-If the device breaks, you rebuild the wallet on a new device from the seed. If the seed is wrong, a broken device is the end of the stack.
+So if the device breaks, you rebuild the wallet on a new device from the seed, and nothing is lost. But if the seed is wrong, a broken device is the end of the stack.
 
-Most hardware wallets wipe themselves after a set number of wrong PIN entries. Right feature (stops a thief guessing their way in). Also means your entire stack lives on the paper backup. The device can erase itself on a Tuesday afternoon, and that paper becomes the only copy.
+And there's a detail that makes this sharper: most hardware wallets wipe themselves after a set number of wrong PIN entries. That's the right feature, because it stops a thief from guessing their way in. But it also means your entire stack effectively lives on the paper backup. The device can erase itself on a Tuesday afternoon, and that piece of paper becomes the only copy in existence.
 
 == THE SIX-STEP SETUP ==
 
-1. Buy the device directly from the manufacturer. Never used, never third-party. A device someone else touched can arrive with a seed they already know.
-2. Generate a brand-new wallet on the device itself. The seed is created by the device and has never existed anywhere else.
-3. Write the seed down offline. Set a PIN.
-4. Send a small test transaction to the wallet. About 0.01 BTC (~$1,000). Small enough that losing it is survivable, big enough that you take it seriously.
-5. Wipe the device. Factory reset, on purpose, with that $1,000 sitting on it. This is where most people stop short.
-6. Restore from your written seed and confirm the test transaction reappears.
+Here's the setup, six steps, and the order matters.
 
-The wipe proves three things at once: the seed was written correctly, you know the procedure under calm conditions, and the backup works.
+Step one: buy the device directly from the manufacturer. Never used, never from a third-party seller. A device someone else touched can arrive with a seed they already know, and then every coin you send it is already theirs.
 
-- If the restore works, the $150,000 stays where it is and you've proven the backup.
-- If it fails, you find out with $1,000 at risk instead of $150,000.
+Step two: generate a brand-new wallet on the device itself. The seed gets created by the device, and it has never existed anywhere else in the world.
+
+Step three: write the seed down offline, and set a PIN.
+
+Step four: send a small test transaction to the wallet. Something like 0.01 Bitcoin, around $1,000. Small enough that losing it is survivable, big enough that you take it seriously.
+
+Step five, and this is where most people stop short: wipe the device. Factory reset it, on purpose, with that $1,000 sitting on it. I know that feels wrong. That's exactly why you do it.
+
+Step six: restore from your written seed, and confirm the test transaction reappears.
+
+That wipe-and-restore proves three things at once. The seed was written down correctly. You know the procedure, and you learned it under calm conditions. And the backup actually works.
+
+If the restore works, your real stack moves over and you've proven the backup. If it fails, you found out with $1,000 at risk instead of $150,000. That's the whole trade, and it's the best deal in this course.
 
 == THE NEVER LIST ==
 
-The seed exists on paper or steel, offline, and nowhere else. Anything with a screen and a network connection can be read.
+The rules for the seed itself are short. The seed exists on paper or steel, offline, and nowhere else. Not in a photo, not in a password manager, not in a note app, because anything with a screen and a network connection can be read.
 
-Paper degrades and burns. For a meaningful stack, seed goes on steel, and backups live in separate locations.
+And paper degrades and burns. For a meaningful stack, the seed goes on steel, and the backups live in separate locations. We'll cover the locations in the single-points-of-failure lesson.
 
 == MOVING COIN WELL: UTXOS AND SWEEP THRESHOLDS ==
 
-Every transfer into your wallet creates a UTXO (unspent transaction output). Think of it as a separate bill in your wallet. Your balance is the sum of the bills, and you spend whole bills, not slices.
+The last piece of this lesson is about moving coins well, and it starts with a word: UTXO.
 
-Send 10 small buys in, and you're holding 10 small bills. Really small ones are called dust because the fee to move them can approach or exceed what they're worth. Either way, holding many small UTXOs raises what it costs to move your Bitcoin later.
+Every transfer into your wallet creates a UTXO, an unspent transaction output. The way I think about it is that each one is a separate bill in your wallet. Your balance is the sum of the bills, and you spend whole bills, not slices of them.
 
-Network fees depend on how many bills you're spending, not how much they're worth. A fee that's trivial against a large bill can eat a meaningful slice of a small one.
+So if you send 10 small buys into your wallet, you're now holding 10 small bills. And the really small ones are called dust, because the fee to move them can approach or even exceed what they're worth.
 
-Sweep on a threshold, not a schedule. Rule of thumb: ~0.01 to 0.02 BTC as a minimum per transfer. Smaller monthly buys accumulate on the exchange to the threshold, then move in one transaction.
+Here's why that matters: network fees depend on how many bills you're spending, not how much they're worth. A fee that's trivial against one large bill can eat a meaningful slice of a small one. So holding a pile of small UTXOs quietly raises what it costs to move your own Bitcoin later.
 
-If you already have a pocketful of small bills, consolidation is the fix. Combine many small pieces into one in a single transaction, best done when network fees are low. Annual custody review item. Maintenance, not an emergency.
+The fix is to sweep on a threshold, not on a schedule. My rule of thumb is about 0.01 to 0.02 Bitcoin as a minimum per transfer. Your smaller monthly buys accumulate on the exchange until they hit the threshold, and then they move in one transaction.
+
+And if you already have a pocketful of small bills, the fix is consolidation: you combine many small pieces into one, in a single transaction, best done when network fees are low. That's an annual custody review item. It's maintenance, not an emergency.
 
 == HOMEWORK ==
 
-If you've never done the wipe-and-restore, watch the demo lesson and do it, with a small test amount, before serious money is on the line.
+Your homework for this lesson is to:
 
-The next lesson covers closing single points of failure and common scams.
+1. If you've never done the wipe-and-restore, watch the demo lesson in this module and then actually do it, with a small test amount, before serious money is on the line.
+2. Check your own wallet for dust. If your buys have been trickling in small, set your sweep threshold now.
