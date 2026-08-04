@@ -25,11 +25,15 @@ A normal Bitcoin household scores 2 of 5. The score turns worry into specific jo
 | 3 · Passphrase + split access | Process a spouse/executor can follow, annual review | The stack matters to more than you |
 | 4 · Collaborative or DIY multisig | Professional support or full DIY, tested family process | One mistake would be unacceptable |
 
+**Every level is a trade.** Level 1 buys convenience and costs counterparty risk (frozen exactly when you need it). Level 2 buys true ownership and costs maintenance (one seed, one point of failure). Level 3 buys survivability and costs complexity (a lost passphrase is permanent). Level 4 buys "no single mistake ends it" and costs the most complexity of all. More sovereignty always means more responsibility; more convenience always means more counterparty risk. You choose which risks you hold, you never eliminate them.
+
 Match the level to stakes and skill. A mismatch in either direction is the failure. Custody is not a purity test: a simple setup your family can use beats an advanced one nobody understands. (The app separately tiers its checklist by estate size: Foundation / Substantial / High Net Worth.)
 
 ## Advanced setups
 
 - **Passphrase single-sig**: one seed + a hidden extra word. Simplest family-followable advanced plan. ⚠ A forgotten passphrase is permanent; back it up separately, practice small.
+**Making the passphrase strong: the 7-word standard.** A passphrase you invent is the weak point; quotes, lyrics, names, and dates get cracked first. Use **7 random words** from a wordlist, picked by dice or an offline generator (diceware), never by you. Each random word multiplies the guesses needed by ~7,776; seven words is ~90 bits of entropy, which is millions of years of guessing at a trillion tries per second. Never personal facts or reused passwords. Record it exactly (case-sensitive), on paper or steel, never typed online. Same standard for three things: wallet passphrase, password manager master password, plan-backup passphrase. Built-in trade-off: unguessable also means unrecoverable, so it gets its own backup, stored away from the seed.
+
 - **Collaborative multisig (2-of-3)**: you hold two keys, a provider holds one (never your seed). Heirs get a guided recovery. Costs a fee + some vendor dependence.
 - **DIY multisig**: maximum privacy and independence; your heirs inherit the complexity with no help coming.
 

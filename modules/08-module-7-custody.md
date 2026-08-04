@@ -87,6 +87,19 @@ The mistake is a mismatch, in either direction. Celsius customers had too little
 - Setup: professional support (collaborative) or full-DIY, coordination with trust and estate plan, family process actually tested.
 - Buys you a setup where one mistake no longer ends it.
 
+### Every level is a trade
+
+There is no custody setup without a trade-off. Each level buys one protection by handing you a different risk to manage:
+
+| Level | What it buys | What it costs |
+|---|---|---|
+| 1 · Hardened exchange/ETF | Convenience, easy inheritance, no self-responsibility | Counterparty risk. The account can be frozen exactly when you need it |
+| 2 · Hardware wallet | Removes freeze risk. True ownership | Maintenance and self-responsibility. One seed is one point of failure |
+| 3 · Passphrase + split | Theft protection, survivable without you | More complexity. A lost passphrase is a permanent loss |
+| 4 · Multisig | No single mistake can end it | Highest complexity. Config-file dependence, a fee (collaborative) or heirs' complexity (DIY) |
+
+The pattern: more sovereignty always means more responsibility, and more convenience always means more counterparty risk. You never eliminate risk, you choose which risks you hold and which you hand to someone else. That's why the level is matched to stakes and skill instead of picked on ideology.
+
 ### Sizing it on a real household
 
 The couple holds 1.5 BTC on a hardware wallet and 0.25 BTC on an exchange. At an illustrative $100,000/coin, the hardware wallet is $150,000 and the exchange is $25,000.
@@ -135,6 +148,18 @@ Once you're at Level 3 or 4, "advanced" means removing the single points of fail
 - **Best for.** A modest stack.
 - **Buys you.** The simplest advanced plan a family can follow.
 - **Watch out for.** A forgotten passphrase locks the funds permanently. No reset mechanism. The passphrase gets its own backup, stored separately from the seed. Practice with a small amount first.
+
+**Making the passphrase strong (the 7-word standard).**
+
+A passphrase you make up yourself is the weak point of the whole setup. Humans pick quotes, song lyrics, names, and dates, and attackers run exactly those lists first. The fix is randomness you didn't choose:
+
+- **Use 7 random words** picked from a wordlist by dice or by an offline generator (the diceware method, or a password manager's passphrase generator with the device offline). Not words you thought of. Random means the tool picked them, not you.
+- **Why 7:** each word drawn at random from a standard 7,776-word list multiplies the guesses needed by 7,776. Seven words is roughly 90 bits of entropy, about 1,700,000,000,000,000,000,000,000,000 combinations. A machine guessing a trillion combinations per second would need millions of years. Four or five words is where "pretty good" lives; seven is the floor for money that has to stay safe forever.
+- **Never:** personal facts, quotes, lyrics, addresses, pet names, keyboard patterns, or a password you use anywhere else. If it means something to you, it's guessable.
+- **Exactness matters.** A wallet passphrase is case-sensitive and unforgiving. Record it exactly, letter for letter, on paper or steel. It never gets typed into anything online.
+- **The same standard covers three things:** the wallet passphrase, the password manager's master password, and the encrypted plan-backup passphrase from the walkthroughs. One method, three uses.
+
+The trade-off is built in: a passphrase strong enough to be unguessable is also unrecoverable if lost. That's why it gets its own backup, stored separately from the seed, and why you practice with a small amount first.
 
 **Path 2: Collaborative multisig.** You hold two keys, a provider holds one, plus the configuration.
 

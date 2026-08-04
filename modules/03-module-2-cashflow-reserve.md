@@ -128,7 +128,7 @@ The couple holds 1.75 Bitcoin. In 2022, Bitcoin dropped 77% peak to bottom. If a
 
 Hold too much cash, though, and the drag costs the plan for years. This lesson sizes the middle.
 
-Bitcoin's major drawdowns have historically recovered in about 18 months, which is what the reserve is sized against.
+Bitcoin's major drawdowns have historically taken about 18 months to recover. That's the window the reserve is sized against.
 
 ### The formula
 
@@ -188,7 +188,7 @@ Run the couple at 67:
 
 Working reserve: $30k. Retirement reserve: $43k. About 40% bigger on the same spending, because the reserve is doing a different job.
 
-After several years of retirement, the sequence risk fades and the reserve can shrink. Early retirement is where a bad market can break the plan.
+After several years of retirement, the risk fades: research shows sequence-of-returns risk — the risk of your portfolio dropping right after you retire — starts falling once you're about five years in. Past that point, the reserve can shrink toward a 12-month floor, or stay as high as three years if holding more cash is what lets you sleep. Early retirement is where a bad market can break the plan.
 
 ### The four-options question
 

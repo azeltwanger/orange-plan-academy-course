@@ -57,6 +57,14 @@ Level 3 is a passphrase plus split access. This is for when the stack matters to
 
 And Level 4 is collaborative or DIY multisig, for stacks where a single mistake is unacceptable. That means professional support if it's collaborative, or full DIY if you're technical, coordinated with the trust and estate plan, with a family process that's actually been tested. What Level 4 buys you is a setup where one mistake no longer ends it.
 
+== EVERY LEVEL IS A TRADE ==
+
+Before we size this on a real household, I want to be really clear about something: there is no custody setup that doesn't have a trade-off. Every level buys you one kind of protection by handing you a different risk to manage.
+
+Level 1, the exchange, buys you convenience and easy inheritance, and what it costs you is counterparty risk. Somebody else is holding your Bitcoin, and that account can get frozen in exactly the week that you need it. Level 2, the hardware wallet, removes the freeze risk and gives you true ownership, and what it hands you back is maintenance and self-responsibility, because now one seed is one point of failure. Level 3, the passphrase and the split, buys you theft protection and a setup that survives without you, and it costs you complexity, because a lost passphrase is a permanent loss. And Level 4, multisig, buys you a setup where no single mistake can end it, and it costs you the most complexity of all.
+
+The pattern underneath all four is the same. More sovereignty always means more responsibility. More convenience always means more counterparty risk. You never actually eliminate risk in custody. What you're really doing is choosing which risks you're going to hold yourself, and which ones you're going to hand to somebody else. And that's why I want you matching your level to your stakes and your skill, not picking it based on ideology.
+
 == SIZING IT ON A REAL HOUSEHOLD ==
 
 Let's size the couple. At an illustrative $100,000 a coin, the hardware wallet is $150,000 and the exchange is $25,000.
@@ -90,6 +98,20 @@ Two definitions first. A passphrase is an extra word you choose, layered on top 
 There are three paths.
 
 Path one is passphrase single-sig. One seed plus a hidden extra word. It's best for a modest stack, and what it buys you is the simplest advanced plan a family can follow. The watch-out is serious, though: a forgotten passphrase locks the funds permanently. There is no reset mechanism, no support line. So the passphrase gets its own backup, stored separately from the seed, and you practice with a small amount first.
+
+Now, since the passphrase is doing so much work in this path, let me talk about how to actually make one that's strong, because this is where people get it wrong.
+
+A passphrase that you make up yourself is the weak point of the whole setup. Humans pick quotes, song lyrics, kids' names, dates. And the people trying to crack wallets run exactly those lists first. So the fix is randomness that you didn't choose.
+
+What I want you to use is 7 random words, picked from a wordlist by rolling dice or by a generator running offline. This is called the diceware method, and a good password manager can do it for you too, with the device offline. The key word is random. The tool picks the words, not you.
+
+Here's why 7 is the number. Every word that gets drawn at random from the standard wordlist multiplies the number of guesses an attacker needs by about 7,776, because that's how many words are on the list. By the time you're at 7 words, you're at roughly 90 bits of entropy, which works out to more combinations than a machine guessing a trillion times per second could get through in millions of years. 4 or 5 words is where "pretty good" lives. I think 7 is the floor for money that has to stay safe forever.
+
+A few nevers while we're here. Never personal facts, never quotes or lyrics, never an address or a pet's name, and never a password that you already use somewhere else. The test is simple: if it means something to you, it's guessable.
+
+And two practical things. First, a wallet passphrase is case-sensitive and completely unforgiving, so you record it exactly, letter for letter, on paper or on steel, and it never gets typed into anything that's online. Second, this same 7-word standard covers three different things in this course: your wallet passphrase, your password manager's master password, and the passphrase on the encrypted plan backup that we make in the walkthroughs. One method, three uses.
+
+The trade-off here is built right in, and I want you to see it. A passphrase that's strong enough to be unguessable is also unrecoverable if you lose it. That's exactly why it gets its own backup, stored separately from the seed, and why you practice with a small amount first.
 
 Path two is collaborative multisig. You hold two keys, a provider holds one, plus the configuration. This is best for a meaningful balance, or for heirs who aren't technical, because what you're buying is a professional on call to guide them. The costs are an annual fee and some vendor dependence. One important note: the provider's single key can't spend on its own, so they never actually custody your Bitcoin.
 

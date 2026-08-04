@@ -221,7 +221,7 @@ Handing one person everything fails both tests. Telling nobody passes the first 
 
 Anthony Park calls this "poor man's multisig." It works because of how a passphrase behaves.
 
-A **seed phrase** is the 12 or 24 words that rebuild your wallet. A **passphrase** is an extra word or phrase added on top. Seed plus passphrase produces a completely different wallet than the seed alone. Same words, different passphrase, different set of coins.
+A **seed phrase** is the 12 or 24 words that rebuild your wallet. A **passphrase** is an extra word or phrase added on top (built to the 7-random-word standard from the custody module). Seed plus passphrase produces a completely different wallet than the seed alone. Same words, different passphrase, different set of coins.
 
 - **Seed alone.** Opens a real wallet that's empty.
 - **Passphrase alone.** A word that opens nothing.
