@@ -9,13 +9,13 @@ Watch the demo, then do it with your own device and a small test amount.
 3. Write the seed offline + set a PIN
 4. Send a small test transaction
 5. Wipe the device on purpose
-6. Restore from seed — only after the balance reappears has the device earned real money
+6. Restore from seed. Only after the balance reappears has the device earned real money
 
 ## Exchange hardening (in order)
 
-1. Strong unique password (a password manager is fine here — it's not a wallet)
+1. Strong unique password (a password manager is fine here; it's not a wallet)
 2. 2FA off SMS → authenticator app or physical key
-3. Secure the email account first — every reset flow routes through it
+3. Secure the email account first, because every reset flow routes through it
 4. Withdrawal delays + allow-listing on
 
 Most losses are account takeovers, not broken cryptography.
@@ -24,7 +24,7 @@ Most losses are account takeovers, not broken cryptography.
 
 - Never type seed words into a computer, phone, website, screenshot, or AI chat.
 - Never buy a used or third-party device.
-- Urgency is the red flag — close the app and slow down.
+- Urgency is the red flag. Close the app and slow down.
 - No real company ever asks for your seed.
 
 ## Homework

@@ -1,6 +1,6 @@
 # Defense: tolerance first, then the two ratios
 
-The better question isn't "how fast can I get to zero debt?" — it's "what level of debt lets this plan grow without making it fragile?"
+The better question isn't "how fast can I get to zero debt?" It's "what level of debt lets this plan grow without making it fragile?"
 
 ## Tolerance first
 
@@ -14,14 +14,14 @@ Held on purpose, debt does three jobs: **liquidity** (cash stays reachable in a 
 
 | Ratio | Formula | Measures | Bands |
 |---|---|---|---|
-| DTI | Monthly debt payments ÷ monthly gross income | Monthly survival — barely moves in a drawdown | <36% healthy · 36–43% acceptable · >43% high-risk |
-| DTA | Total debt ÷ total assets | Capacity — moves with the Bitcoin price | <30% healthy · 30–60% caution · >60% high-risk |
+| DTI | Monthly debt payments ÷ monthly gross income | Monthly survival; barely moves in a drawdown | <36% healthy · 36–43% acceptable · >43% high-risk |
+| DTA | Total debt ÷ total assets | Capacity; moves with the Bitcoin price | <30% healthy · 30–60% caution · >60% high-risk |
 
 DTI asks whether you survive this month. DTA asks how much room you have to make a move at all.
 
 ## The couple
 
-$298k debt ÷ $745k assets = **40% DTA** (top of workable). ~$1,850/mo payments ÷ $15,800 income = **12% DTI** (well inside healthy). Monthly is fine; balance sheet is at the ceiling. Both true at once — and DTA is the one that moves when Bitcoin does.
+$298k debt ÷ $745k assets = **40% DTA** (top of workable). ~$1,850/mo payments ÷ $15,800 income = **12% DTI** (well inside healthy). Their monthly picture is fine while their balance sheet is at the ceiling. Both are true at once, and DTA is the one that moves when Bitcoin does.
 
 ## Homework
 

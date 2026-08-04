@@ -14,20 +14,20 @@ Is there only one… device? seed backup? location? person who knows everything?
 
 ## The fix method
 
-List your top three **by cost of loss** (not ease of fix) → fix the top one only → re-check → repeat. Every only-one becomes a backup, a second location, or a second person who knows the *process* — never the secrets.
+List your top three **by cost of loss** (not ease of fix) → fix the top one only → re-check → repeat. Every only-one becomes a backup, a second location, or a second person who knows the *process*, never the secrets.
 
 ## Account hardening (in this order)
 
-1. **Secure the email first** — it's the master key; every reset routes through it.
+1. **Secure the email first**: it's the master key; every reset routes through it.
 2. Strong unique password everywhere.
 3. **App-based 2FA, not SMS** (SIM swap takes exchange + email in an afternoon); authenticator cloud backup off.
 4. Withdrawal delays + allowlists on; never click login links.
 
-One better: a **hardware security key** — bound to the real site's address, so phishing sites get no response. Cheapest upgrade in the lesson.
+One better: a **hardware security key**: bound to the real site's address, so phishing sites get no response. Cheapest upgrade in the lesson.
 
 ## The scam rules
 
-"Your account is hacked" call → hang up, contact the provider yourself. Guaranteed returns are a scam. **Urgency is the common thread** — every scam needs you to act before you think. When something feels urgent, close the app and slow down.
+"Your account is hacked" call → hang up, contact the provider yourself. Guaranteed returns are a scam. **Urgency is the common thread**: every scam needs you to act before you think. When something feels urgent, close the app and slow down.
 
 ## Homework
 

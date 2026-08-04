@@ -1,20 +1,20 @@
 # Sell, borrow, or hold
 
-*Advanced — the borrow half only fires if you're considering Bitcoin-backed lending.*
+*Advanced: the borrow half only fires if you're considering Bitcoin-backed lending.*
 
 Three ways to fund a year of life, priced on the same year: age 60, $80k spending, $400k taxable BTC, $120k reserve.
 
-## Sell — buying simplicity
+## Sell: buying simplicity
 
-$80k sale ≈ $20k basis + $60k long-term gain — which can land in the 0% bracket in a low-income year and cost almost nothing. Upside: done, no counterparty. Downside: the Bitcoin is gone. Best when spending is modest and simplicity is worth something.
+$80k sale ≈ $20k basis + $60k long-term gain, which can land in the 0% bracket in a low-income year and cost almost nothing. Upside: done, no counterparty. Downside: the Bitcoin is gone. Best when spending is modest and simplicity is worth something.
 
-## Borrow — buying upside
+## Borrow: buying upside
 
-No taxable event; Bitcoin keeps compounding. **The decision is the starting LTV**, and the ratio moves on its own: interest pushes the loan up, price drops pull collateral down. At a 10–20% LTV default, $400k of collateral = $40–80k capacity — **one year of spending is the whole capacity.** After a year at ~10–11% interest and a 50% drawdown: $88k on $200k = 44% LTV, cushion gone. Borrow from strength, never from a corner. A tool for a year, not a plan for a decade.
+No taxable event; Bitcoin keeps compounding. **The decision is the starting LTV**, and the ratio moves on its own: interest pushes the loan up, price drops pull collateral down. At a 10–20% LTV default, $400k of collateral = $40–80k capacity. **One year of spending is the whole capacity.** After a year at ~10–11% interest and a 50% drawdown: $88k on $200k = 44% LTV, cushion gone. Borrow from strength, never from a corner. A tool for a year, not a plan for a decade.
 
-## Hold — buying compounding, and maybe more
+## Hold: buying compounding, and maybe more
 
-Spend from the reserve; touch nothing. Under current law (verify), Bitcoin passes to heirs with a **step-up in basis** — $300k of embedded gain can pass untaxed. That turns "never sell" from a preference into an estate strategy, as long as Reserve and Bridge fund it.
+Spend from the reserve; touch nothing. Under current law (verify), Bitcoin passes to heirs with a **step-up in basis**: $300k of embedded gain can pass untaxed. That turns "never sell" from a preference into an estate strategy, as long as Reserve and Bridge fund it.
 
 ## In the app
 

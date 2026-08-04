@@ -8,7 +8,7 @@ Bitcoin's major drawdowns have historically taken about 18 months to recover. Th
 
 **Bare-bones essentials × target months = reserve target**
 
-Use your bare-bones floor, not normal spending — in a real emergency you'd cut to the floor anyway. Sizing off normal spending oversizes the fund; the same dollars sized off the floor buy you more time.
+Use your bare-bones floor, not normal spending, because in a real emergency you'd cut to the floor anyway. Sizing off normal spending oversizes the fund; the same dollars sized off the floor buy you more time.
 
 ## Target months
 
@@ -39,20 +39,20 @@ Together they estimate one thing: **how long you could go without a paycheck.** 
 | $280,000 mortgage | +1 → 6 |
 | Employer health insurance | neutral |
 
-6 months × $5,000 floor = **$30,000 target.** They hold $30,000 in cash — fully funded. The job now is fencing it off in a separate account so nothing else spends it.
+6 months × $5,000 floor = **$30,000 target.** They hold $30,000 in cash, so they're fully funded. The job now is fencing it off in a separate account so nothing else spends it.
 
 ## The reserve changes jobs in retirement
 
 - **Working:** the reserve replaces a lost paycheck.
 - **Retired:** it covers the gap between spending and reliable income (Social Security, pension), so a bear market never forces a Bitcoin sale.
 
-Example at 67: $80,000 spending − $51,600 Social Security ≈ $2,400/month gap. Retirement baseline is 18 months of the gap ≈ **$43,000** — about 40% bigger than the working reserve, on the same spending.
+Example at 67: $80,000 spending − $51,600 Social Security ≈ $2,400/month gap. Retirement baseline is 18 months of the gap ≈ **$43,000**: about 40% bigger than the working reserve, on the same spending.
 
-Sequence-of-returns risk (a crash right after you retire) fades roughly 5 years in. After that, the reserve can shrink toward a 12-month floor — or stay as high as 3 years if holding more cash is what lets you sleep.
+Sequence-of-returns risk (a crash right after you retire) fades roughly 5 years in. After that, the reserve can shrink toward a 12-month floor, or stay as high as 3 years if holding more cash is what lets you sleep.
 
 ## Before you pick
 
-If Bitcoin dropped 50% tomorrow and your income stopped for six months — would you rather hold more cash now, or sell some Bitcoin down 50% and cut spending hard? No wrong answer. Your reserve size should reflect it.
+If Bitcoin dropped 50% tomorrow and your income stopped for six months, would you rather hold more cash now, or sell some Bitcoin down 50% and cut spending hard? No wrong answer. Your reserve size should reflect it.
 
 ## Homework
 

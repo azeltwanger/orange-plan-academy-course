@@ -12,15 +12,15 @@ The couple's 401(k) at a 7% stock assumption: ~$1M at 73 → first RMD ~$38,000,
 
 A **Roth conversion** moves money from traditional to Roth in a year *you* choose. You pay ordinary income tax on the amount now; it never faces an RMD again and grows tax-free after. You're trading a low rate you chose for a high rate you'd be forced into.
 
-**Fill the bracket, don't spill:** convert to the top of your current low bracket, then stop — every dollar past the line gets the next rate.
+**Fill the bracket, don't spill:** convert to the top of your current low bracket, then stop, because every dollar past the line gets the next rate.
 
 The couple at 60: convert ~$100k − ~$31.4k deduction → ~$68k taxable → ~$7,700 at 12%. Four years running retires the whole $400k for ~$30,000 total, before it becomes a million.
 
-**Pay the tax from outside the Roth** — from taxable cash, so the full converted amount lands in tax-free space.
+**Pay the tax from outside the Roth**: from taxable cash, so the full converted amount lands in tax-free space.
 
 ## The window conflict
 
-Conversion income is ordinary income and stacks *under* your capital gains — it pushes gains out of the 0% bracket. Conversions and 0%-gain harvesting compete for the same low-income years. Model them together.
+Conversion income is ordinary income and stacks *under* your capital gains, so it pushes gains out of the 0% bracket. Conversions and 0%-gain harvesting compete for the same low-income years. Model them together.
 
 Plain withdrawals shrink the bucket too (fill a bracket, spend it as income). 72(t) exists for early access but is strictly professional-review territory.
 

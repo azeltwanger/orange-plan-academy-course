@@ -1,10 +1,10 @@
 # The heir letter
 
-The first thing your family reads on the day they need the plan: who to call, in what order, what exists, where the paperwork is, and what *not* to do in the first week. Written for people who won't be thinking clearly — instructions to follow, not decisions to make.
+The first thing your family reads on the day they need the plan: who to call, in what order, what exists, where the paperwork is, and what *not* to do in the first week. Written for people who won't be thinking clearly: instructions to follow, not decisions to make.
 
 ## The rule
 
-**The letter carries no secrets. Not one, ever.** A letter can be found, copied, photographed. No seeds, keys, passwords, PINs, recovery steps, or config locations. Someone who steals it learns your attorney's name and gets nothing they can spend. That's what lets it sit in a drawer or an email safely.
+**The letter carries no secrets. Not one, ever.** A letter can be found, copied, photographed. No seeds, keys, passwords, PINs, recovery steps, or config locations. Someone who steals it learns your attorney's name and gets nothing they can spend, which is exactly why it can sit in a drawer or an email safely.
 
 ## The first two lines are the whole thing
 
@@ -12,7 +12,7 @@ The first thing your family reads on the day they need the plan: who to call, in
 >
 > "Don't move any Bitcoin, and don't talk to anyone who contacts you about it. Nobody legitimate will reach out to you first."
 
-A call order and a stop sign — the two things a grieving person can't invent on the spot. The people who target new widows and widowers show up fast and look helpful; slowing down a week costs nothing.
+A call order and a stop sign: the two things a grieving person can't invent on the spot. The people who target new widows and widowers show up fast and look helpful; slowing down a week costs nothing.
 
 ## The call order
 
@@ -20,7 +20,7 @@ A call order and a stop sign — the two things a grieving person can't invent o
 2. The attorney (opens the legal side)
 3. The provider / technical helper (once the executor is in the room)
 
-Nobody acts alone — including your spouse.
+Nobody acts alone, including your spouse.
 
 ## The rest
 

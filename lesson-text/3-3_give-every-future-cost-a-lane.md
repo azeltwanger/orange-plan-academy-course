@@ -17,7 +17,7 @@ For 7+ year costs, plan the sales into low-bracket years (tax module).
 
 ## Pre-fund vs pay from flow
 
-- Small dated costs ($2,000 trip next summer): pay from flow — $200/mo starting six months out.
+- Small dated costs ($2,000 trip next summer): pay from flow: $200/mo starting six months out.
 - Big dated costs ($100,000 college in 8 years): pre-fund a lane with small contributions instead of one giant sale.
 
 **The test:** if paying it all at once from monthly flow would break your surplus, pre-fund it.
@@ -28,7 +28,7 @@ For 7+ year costs, plan the sales into low-bracket years (tax module).
 - **Pre-fund:** ~$1,000/mo into an intermediate lane → ~$110k with growth; tuition years become a routing move.
 - **Sell Bitcoin:** works if tuition lands in low-bracket years; expensive in high-bracket working years.
 
-No single right answer — but the plan must know the cost is coming and have a lane for it.
+There's no single right answer, but the plan must know the cost is coming and have a lane for it.
 
 ## Homework
 

@@ -18,13 +18,13 @@ Stocks up, Bitcoin down → refill by trimming stocks. Everything down at once �
 
 ## Targets
 
-Each bucket gets a target % of net worth. Working Sovereign-tier: ~5/15/80. Approaching retirement: ~10/30/60 (bigger buffer for sequence risk). The target is what the projection uses — route new dollars toward it.
+Each bucket gets a target % of net worth. Working Sovereign-tier: ~5/15/80. Approaching retirement: ~10/30/60 (bigger buffer for sequence risk). The target is what the projection uses, so route new dollars toward it.
 
 ## Three common mistakes
 
-- **Bitcoin in Bridge** — if you plan to spend it inside 10 years, the bucket or the plan is wrong.
-- **Cash in Legacy** — a 401(k) parked in a stable-value fund is Bridge risk in a Legacy slot.
-- **Reserve too small in retirement** — once you're drawing income, the Reserve's job is sequence-risk protection.
+- **Bitcoin in Bridge**: if you plan to spend it inside 10 years, the bucket or the plan is wrong.
+- **Cash in Legacy**: a 401(k) parked in a stable-value fund is Bridge risk in a Legacy slot.
+- **Reserve too small in retirement**: once you're drawing income, the Reserve's job is sequence-risk protection.
 
 ## Homework
 

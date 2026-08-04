@@ -1,4 +1,4 @@
-# lesson-text/ — the student-facing text layer
+# lesson-text/ (the student-facing text layer)
 
 One file per lesson: the concise, readable version a student gets if they'd
 rather read than watch. No fluff, tables allowed, ~250-450 words each.

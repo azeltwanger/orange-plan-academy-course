@@ -6,7 +6,7 @@ Both tools work the same way: **sell a lot to make the gain or loss real, buy ba
 
 ## Tool 1: harvest losses (Bitcoin is down)
 
-Sell a lot below basis, capture the loss, rebuy. Losses offset: capital gains first → ordinary income (up to $3,000/yr) → carry forward. Trade-off: the rebuy lowers your basis, growing the future gain — usually worth it.
+Sell a lot below basis, capture the loss, rebuy. Losses offset: capital gains first → ordinary income (up to $3,000/yr) → carry forward. Trade-off: the rebuy lowers your basis, growing the future gain. Usually worth it.
 
 ## Lot selection: FIFO vs HIFO
 
@@ -27,11 +27,11 @@ Harvest only if: **loss × tax rate > trade amount × fee rate × 2.** ($10k los
 
 In a 0% year, sell at a gain on purpose, pay $0, rebuy at the same price → **basis resets higher for free.** The couple at 60: $17,500 gain inside 0% room → $0 tax → $2,625 of future tax deleted. A 0% year is worth using even when you don't need the money.
 
-Reminder: Roth conversion income competes for the same room — model together.
+Reminder: Roth conversion income competes for the same room. Model together.
 
 ## The wash-sale note
 
-Under current treatment, Bitcoin has no wash-sale rule: sell at a loss and rebuy same day, the loss counts. Stocks can't do that. Rules change — verify.
+Under current treatment, Bitcoin has no wash-sale rule: sell at a loss and rebuy same day, the loss counts. Stocks can't do that. Rules change; verify.
 
 ## Homework
 

@@ -1,6 +1,6 @@
 # Start here: what this course is and how to use it
 
-Most Bitcoiners have the asset figured out and no plan around it. This course builds the plan: a system that answers "I can stop working at age X, and the plan holds up in Y% of futures" — and keeps answering it as your life changes.
+Most Bitcoiners have the asset figured out and no plan around it. This course builds the plan: a system that answers "I can stop working at age X, and the plan holds up in Y% of futures," and keeps answering it as your life changes.
 
 ## What you'll build
 
@@ -20,4 +20,4 @@ Each module has short teach lessons plus a walkthrough video where you implement
 1. Go in order. Each module builds on the last.
 2. Use your real numbers. A plan on placeholder numbers is a demo, not a plan.
 3. Do the homework the same day you watch. It's designed to be finished in one sitting.
-4. Nothing here is financial, tax, or legal advice — it's education plus a modeling tool. Verify decisions with your own professionals.
+4. Nothing here is financial, tax, or legal advice. It's education plus a modeling tool. Verify decisions with your own professionals.

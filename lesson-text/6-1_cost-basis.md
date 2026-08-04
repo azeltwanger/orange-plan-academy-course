@@ -1,8 +1,8 @@
 # Cost basis: the unlock for everything else
 
-*US-specific module. The frameworks travel; the rules don't — verify locally.*
+*US-specific module. The frameworks travel; the rules don't. Verify locally.*
 
-Cost basis is what you paid for each **lot** of Bitcoin: price, date, amount. Your gain is sale price minus basis; your tax is built on the gain. Basis is tracked per lot, not per stack — when you sell, the tax follows the lot you sold from.
+Cost basis is what you paid for each **lot** of Bitcoin: price, date, amount. Your gain is sale price minus basis; your tax is built on the gain. Basis is tracked per lot, not per stack: when you sell, the tax follows the lot you sold from.
 
 ## Same sale, two bills
 
@@ -25,9 +25,9 @@ Pull every record from every exchange and wallet. For the gaps: narrow the purch
 
 ## Never leave basis blank
 
-⚠ No basis = the **entire sale price** is treated as gain. The $25,000 sale above: a $1,500 bill becomes $3,750 — purely for a missing record.
+⚠ No basis = the **entire sale price** is treated as gain. The $25,000 sale above: a $1,500 bill becomes $3,750, purely for a missing record.
 
 ## Homework
 
 1. Pull full history from every exchange and wallet.
-2. Record what you paid and when, per lot; build documented estimates for gaps. Tedious, once, and it makes every future move precise.
+2. Record what you paid and when, per lot; build documented estimates for gaps. It's tedious, but you only do it once, and it makes every future move precise.

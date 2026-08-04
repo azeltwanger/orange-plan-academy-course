@@ -1,11 +1,11 @@
 # How to read a financial plan
 
-Read a report in the order that answers four questions — each depends on the one before it.
+Read a report in the order that answers four questions. Each depends on the one before it.
 
-1. **Position** — is the snapshot true today? This is where stale data gets caught; one wrong account corrupts everything downstream.
-2. **Trajectory** — the date and the confidence, *always as a pair*. Age 60 at 82% is a real answer; age 57 at 55% is a prettier date and a worse plan. A date alone can always be improved by assuming better returns — confidence surfaces the cost.
-3. **Risk** — the Bitcoin paths, the spending band (floor = what you fall back to; ceiling = permission), the protection lines. Ask one question of each: *would I still be okay?*
-4. **Actions** — one to three finishable items. This is where the review changes anything.
+1. **Position**: is the snapshot true today? This is where stale data gets caught; one wrong account corrupts everything downstream.
+2. **Trajectory**: the date and the confidence, *always as a pair*. Age 60 at 82% is a real answer; age 57 at 55% is a prettier date and a worse plan. A date alone can always be improved by assuming better returns; confidence surfaces the cost.
+3. **Risk**: the Bitcoin paths, the spending band (floor = what you fall back to; ceiling = permission), the protection lines. Ask one question of each: *would I still be okay?*
+4. **Actions**: one to three finishable items. This is where the review changes anything.
 
 ## The six red flags (two-minute scan)
 
@@ -22,13 +22,13 @@ Any of these → the review isn't finished. **The standard:** answer all four qu
 
 Saved right after the annual review, year in the filename. It does its real work the *second* year, side by side:
 
-1. **Net worth + Bitcoin share** — did the share rise from price (drift) or from buying (decision)?
-2. **Date + confidence as a pair** — same date at higher confidence is real improvement; an earlier date at lower confidence means an assumption moved.
-3. **The band, especially the floor** — a rising floor means the plan got stronger; a rising ceiling alone doesn't.
-4. **Last year's actions** — did each happen? Unfinished rolls forward.
+1. **Net worth + Bitcoin share**: did the share rise from price (drift) or from buying (decision)?
+2. **Date + confidence as a pair**: same date at higher confidence is real improvement; an earlier date at lower confidence means an assumption moved.
+3. **The band, especially the floor**: a rising floor means the plan got stronger; a rising ceiling alone doesn't.
+4. **Last year's actions**: did each happen? Unfinished rolls forward.
 
 ## Three handoffs
 
-Spouse (the report is the 20-minute agenda) · CPA (tax pages + transaction export) · estate attorney (access/estate pages + your decisions). You hand each a document, not an app login — three professionals, one set of facts.
+Spouse (the report is the 20-minute agenda) · CPA (tax pages + transaction export) · estate attorney (access/estate pages + your decisions). You hand each a document, not an app login: three professionals, one set of facts.
 
-You started with scattered accounts and a rough guess. You're finishing with a document your family can read, your CPA can act on, and next-year-you can be measured against. That's what a financial plan is.
+You started with scattered accounts and a rough guess. You finish with a document your family can read, your CPA can act on, and that next year's review can be measured against.

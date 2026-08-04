@@ -7,7 +7,7 @@ Divide the ability to reach your Bitcoin into two pieces held by two people. Eit
 - **One person gets everything:** a non-heir now has unilateral control of the inheritance, protected only by good faith.
 - **Nobody gets enough:** you tell no one "to be safe," and the stack dies on a device nobody can open.
 
-The split does two jobs: **no unilateral access** (nobody can help themselves — or be pressured into moving it alone) and **no single point of failure** (one lost piece doesn't lose the Bitcoin).
+The split does two jobs: **no unilateral access** (nobody can help themselves, or be pressured into moving it alone) and **no single point of failure** (one lost piece doesn't lose the Bitcoin).
 
 ## Poor man's multisig (passphrase)
 
@@ -15,11 +15,11 @@ Seed + passphrase opens a *different wallet* than the seed alone. So: the seed a
 
 ## Multisig version
 
-2-of-3: you hold two keys (you spend normally), the executor holds a sealed third (can't spend alone), a provider holds the last (never your seed). After you're gone, executor + provider = threshold, with guided recovery. The job shifts to **keeping the config file away from whoever holds a key** — config beside a key quietly turns 2-of-3 into single-key.
+2-of-3: you hold two keys (you spend normally), the executor holds a sealed third (can't spend alone), a provider holds the last (never your seed). After you're gone, executor + provider = threshold, with guided recovery. The job shifts to **keeping the config file away from whoever holds a key**: config beside a key quietly turns 2-of-3 into single-key.
 
 ## Test the split while you're alive
 
-One Saturday: move ~$1,000 into the passphrase wallet → spouse restores the seed on a spare device → executor reads the passphrase over the phone → the $1,000 appears. A hoped-for split becomes a proven one. The pieces stay distributed afterward — writing them together anywhere undoes the split.
+One Saturday: move ~$1,000 into the passphrase wallet → spouse restores the seed on a spare device → executor reads the passphrase over the phone → the $1,000 appears. A hoped-for split becomes a proven one. The pieces stay distributed afterward, because writing them together anywhere undoes the split.
 
 ## The misconception
 

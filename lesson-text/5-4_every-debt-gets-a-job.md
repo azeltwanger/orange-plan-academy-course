@@ -2,22 +2,22 @@
 
 "Should I pay off debt first?" is actually three decisions with three different standards:
 
-1. **Keep stacking** — risks money you own
-2. **Pay down faster** — trades a guaranteed return for flexibility
-3. **Add new leverage** — risks money you don't have, against an asset that can fall 80%
+1. **Keep stacking**: risks money you own
+2. **Pay down faster**: trades a guaranteed return for flexibility
+3. **Add new leverage**: risks money you don't have, against an asset that can fall 80%
 
 Answer them separately.
 
 ## The six jobs
 
-Minimum only · Extra principal · Refinance · Consolidate · Pay off in full · Monitor (asset-backed — watched by LTV, not rate).
+Minimum only · Extra principal · Refinance · Consolidate · Pay off in full · Monitor (asset-backed, watched by LTV, not rate).
 
 ## The four tiers (by rate)
 
 | Tier | Rate | Default job |
 |---|---|---|
-| Eliminate | >10% | Kill it — a guaranteed loss you can't outrun |
-| Evaluate | 7–10% | Situational — your balance sheet and tolerance break the tie |
+| Eliminate | >10% | Kill it. A guaranteed loss you can't outrun |
+| Evaluate | 7–10% | Situational. Your balance sheet and tolerance break the tie |
 | Strategic | <7% | Cheap money doing a job; prepaying just locks in the rate |
 | Monitor | Asset-backed | Watch the cushion, not the rate |
 
@@ -28,7 +28,7 @@ Minimum only · Extra principal · Refinance · Consolidate · Pay off in full �
 - $280k mortgage @ 3.25% → Strategic, minimum only (prepay savings dwarfed by Bitcoin foregone)
 - $18k car @ 7% → Evaluate, minimum only (DTI 12%, and paying it off would drop the reserve below target)
 
-Same job, two different reasons — that's the point.
+Both debts got the same job for two different reasons, which is what "a job with a reason" looks like in practice.
 
 ## Homework
 

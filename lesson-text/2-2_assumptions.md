@@ -4,13 +4,13 @@ Every projection is math on top of assumptions. This lesson makes yours delibera
 
 ## The big three
 
-- **Bitcoin growth.** The app's presets all decline over time — bigger Bitcoin, slower growth. Pick a curve you'd defend, not the biggest number.
-- **Inflation.** Default 3%. Run it hotter if you believe it runs hotter — your spending target inflates with it.
+- **Bitcoin growth.** The app's presets all decline over time (bigger Bitcoin, slower growth). Pick a curve you'd defend, not the biggest number.
+- **Inflation.** Default 3%. Run it hotter if you believe it runs hotter. Your spending target inflates with it.
 - **Life expectancy.** Plan to 90+. Running out at 90 because you planned to 80 is the failure the plan is designed against.
 
 ## The rule
 
-**An assumption you can't defend out loud isn't yours — it's a default you inherited.** Conservative assumptions cost you a later date on screen. Optimistic ones cost you the plan.
+**An assumption you can't defend out loud isn't yours. It's a default you inherited.** Conservative assumptions show you a later date on screen. Optimistic assumptions can make the whole plan unreliable, which costs a lot more.
 
 ## Homework
 

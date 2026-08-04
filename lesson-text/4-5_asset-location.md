@@ -1,6 +1,6 @@
 # Asset location: the right account for each holding
 
-Three tax wrappers; the same dollar behaves differently in each. **Principle: highest-growth assets in your best tax shelter** — because growth compounds, and tax drag compounds too.
+Three tax wrappers; the same dollar behaves differently in each. **Principle: highest-growth assets in your best tax shelter**: because growth compounds, and tax drag compounds too.
 
 | Wrapper | Tax in | Growth | Tax out |
 |---|---|---|---|
@@ -10,12 +10,12 @@ Three tax wrappers; the same dollar behaves differently in each. **Principle: hi
 
 ## Where each holding belongs
 
-- **Bitcoin** — the real decision. Inside a Roth (ETF form), gains are never taxed; but no easy access before 59½ and it's not your keys. Common pattern: a slice in retirement wrappers for shielding, the majority in self-custody for sovereignty.
-- **Index funds / stocks** — Roth or Traditional (high growth benefits most from shielding).
-- **Bonds** — Traditional (shelter the ordinary-income yield) or munis in taxable. Not Roth — low growth wastes tax-free-forever space.
-- **Cash** — taxable. Shelter is wasted on it.
-- **Rental real estate** — taxable; depreciation and 1031s are the tools.
-- **Dividend stocks** — Traditional or Roth (dividends taxed yearly in taxable).
+- **Bitcoin**: the real decision. Inside a Roth (ETF form), gains are never taxed; but no easy access before 59½ and it's not your keys. Common pattern: a slice in retirement wrappers for shielding, the majority in self-custody for sovereignty.
+- **Index funds / stocks**: Roth or Traditional (high growth benefits most from shielding).
+- **Bonds**: Traditional (shelter the ordinary-income yield) or munis in taxable. Not Roth, because low growth wastes tax-free-forever space.
+- **Cash**: taxable. Shelter is wasted on it.
+- **Rental real estate**: taxable; depreciation and 1031s are the tools.
+- **Dividend stocks**: Traditional or Roth (dividends taxed yearly in taxable).
 
 ## Why it matters later
 

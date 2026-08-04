@@ -17,16 +17,16 @@ A 70–80% drawdown is Bitcoin's *normal* case, not the worst case (2018: −84%
 
 You don't control the drawdown. You do control the allocation.
 
-The question: with that much off the screen and every bill unchanged — could you sit there and not sell? If no, adjust the allocation until you could. Run it live against the app's Bear Market preset (BTC −60%, stocks −40%, 3-year recovery).
+The question: with that much off the screen and every bill unchanged, could you sit there and not sell? If no, adjust the allocation until you could. Run it live against the app's Bear Market preset (BTC −60%, stocks −40%, 3-year recovery).
 
 ## Check 2: the price context check
 
 Before any big move (large buy, locking in gains, a Bitcoin-backed loan), run two lookbacks:
 
-- **Recent (3–12 months):** what you're *feeling* — up 40% is FOMO, down 40% is fear
-- **Long (2–5 years):** what's *true* — the trend, not last week's mood
+- **Recent (3–12 months):** what you're *feeling* (up 40% is FOMO, down 40% is fear)
+- **Long (2–5 years):** what's *true* (the trend, not last week's mood)
 
-The check doesn't decide the move. It names the emotion so the plan decides instead of the price.
+The check doesn't decide the move for you. It names the emotion in the room, so the plan makes the decision instead of the price.
 
 ## Homework
 
