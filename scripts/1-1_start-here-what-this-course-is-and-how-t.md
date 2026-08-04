@@ -1,11 +1,11 @@
 TELEPROMPTER SCRIPT — segment 1.1
 1.1 Start here: what this course is and how to use it
-~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 Welcome to the course. In this first lesson, I'm going to cover what this course is, what you're going to walk out with, and how to get the most out of it.
 
-It took me four years of holding Bitcoin before I realized I was missing something. I had the asset figured out. What I didn't have was a plan.
+It took me 4 years of holding Bitcoin before I realized I was missing something. I had the asset figured out. What I didn't have was a plan.
 
 == WHAT FREEDOM ACTUALLY IS ==
 
@@ -41,7 +41,7 @@ Go in order the first time. After that, you can come back to any lesson as your 
 
 Rough and honest beats precise and late.
 
-A plan built on real numbers that are approximately right, this week, beats a perfect plan a year from now. The most common failure mode I see is people spending three months reconstructing their exact cost basis before they ever run their first confidence check. Don't do that. Get the plan standing first, and refine after.
+A plan built on real numbers that are approximately right, this week, beats a perfect plan a year from now. The most common failure mode I see is people spending 3 months reconstructing their exact cost basis before they ever run their first confidence check. Don't do that. Get the plan standing first, and refine after.
 
 I think a module a week is a good pace when you're starting. I wouldn't binge them back to back — each one ends with a decision or an action, and the plan builds on itself one piece at a time.
 

@@ -3,11 +3,11 @@ TELEPROMPTER SCRIPT — segment 4.3
 ~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-In today's lesson, we're going to cover the three buckets that give every dollar you own a job.
+In today's lesson, we're going to cover the 3 buckets that give every dollar you own a job.
 
-Every dollar sits in one of three buckets, and the bucket tells you three things: what that money is for, how it should behave, and where it should sit.
+Every dollar sits in one of 3 buckets, and the bucket tells you three things: what that money is for, how it should behave, and where it should sit.
 
-== THE THREE BUCKETS ==
+== THE 3 BUCKETS ==
 
 The table on the screen lays this out, but let me talk you through each one.
 
@@ -57,6 +57,6 @@ And the third is a Reserve that's too small in retirement. Once you're drawing i
 
 Your homework for this lesson is to:
 
-1. Put every account you own into one of the three buckets.
+1. Put every account you own into one of the 3 buckets.
 2. Check for the three mistakes: Bitcoin in Bridge, cash in Legacy, and a retirement Reserve that's too thin.
-3. Write down a target percentage for each bucket, and then watch the module walkthrough below this video, where I'll show you how the app tracks all three buckets against those targets.
+3. Write down a target percentage for each bucket, and then watch the module walkthrough below this video, where I'll show you how the app tracks all 3 buckets against those targets.

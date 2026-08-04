@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 9.6
 9.6 Advanced: do you need a trust, and which one?
-~11 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · screen-share half = shoot list segment 9.6-B
+~10 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · screen-share half = shoot list segment 9.6-B
 ============================================================
 
 In today's lesson, we're going to cover trusts: whether you actually need one, and if you do, which kind.

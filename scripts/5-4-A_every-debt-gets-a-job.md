@@ -1,11 +1,11 @@
 TELEPROMPTER SCRIPT — segment 5.4-A
 5.4 Every debt gets a job
-~5.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 5.4-B)
+~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 5.4-B)
 ============================================================
 
 In today's lesson, we're going to finish the debt module by giving every debt on your balance sheet a job, with a reason attached to it.
 
-== THREE QUESTIONS, NOT ONE ==
+== 3 QUESTIONS, NOT ONE ==
 
 When there's surplus money at the end of the month, most people ask one question: should I pay off debt first?
 
@@ -27,9 +27,9 @@ So here's the exercise. Every debt on your list gets one of six jobs, plus a rea
 
 The first job is minimum only. You pay the required payment and nothing extra. The second is extra principal, paying above the minimum. The third is refinance, getting a better rate on the same debt. The fourth is consolidate, combining debts at a better rate. The fifth is pay off in full. Kill it. And the sixth is monitor, which is for asset-backed loans, and those get watched by LTV and cushion, not by rate.
 
-== THE FOUR TIERS ==
+== THE 4 TIERS ==
 
-To figure out which job a debt gets, sort it into one of four tiers by rate. The table on the screen has the bands, and here's how I'd talk through them.
+To figure out which job a debt gets, sort it into one of 4 tiers by rate. The table on the screen has the bands, and here's how I'd talk through them.
 
 Over 10% is the eliminate tier. Kill it. That debt is a guaranteed loss that you cannot outrun with investing.
 

@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 9.1
 9.1 The executor, the four legal documents, and choosing an estate attorney
-~13 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · screen-share half = shoot list segment 9.1-B
+~11 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · screen-share half = shoot list segment 9.1-B
 ============================================================
 
 In today's lesson, we're going to cover the executor, the four legal documents, and how to choose an estate attorney who actually understands Bitcoin.
@@ -51,7 +51,7 @@ That fourth one carries the rule that surprises everybody: when the beneficiary 
 
 Here's why. Your will only directs assets that go through probate. An account with a named beneficiary never enters probate at all. It's a contract between you and the institution that says pay this person. And the custodian pays them, usually before anybody has even read the will.
 
-Let me make it real. A guy leaves a job in 2019 with $80,000 in an old 401(k). He filled out the form at 26, before he was married, and named his mother. Six years and a wedding later, his will says everything goes to his wife. The $80,000 goes to his mother. The will has no say in it whatsoever.
+Let me make it real. A guy leaves a job in 2019 with $80,000 in an old 401(k). He filled out the form at 26, before he was married, and named his mother. 6 years and a wedding later, his will says everything goes to his wife. The $80,000 goes to his mother. The will has no say in it whatsoever.
 
 The fix is the cheapest one in this whole module: fill out the form. It takes about 10 minutes per account. And the app puts every beneficiary you've named on one screen with each one's percentage of the estate, so checking it takes ten seconds a year.
 
@@ -69,9 +69,9 @@ Here's what happens when nobody asks. Say our couple lights up the trust gate a 
 
 The attorney wasn't careless. The conversation just never happened. The problem was a question nobody asked, not a skill nobody had.
 
-== THE FIVE QUESTIONS ==
+== THE 5 QUESTIONS ==
 
-So interview a few attorneys, and lead with these five questions, in this order.
+So interview a few attorneys, and lead with these 5 questions, in this order.
 
 One: have you drafted an estate plan for a Bitcoin holder before?
 
@@ -93,7 +93,7 @@ Your homework for this lesson is to:
 
 1. Get a simple will into existence now. An online path like FreeWill gets a real document out of your head and onto paper.
 2. Have an attorney review it and supervise the signing, because execution formalities like witnesses and notarization are state-specific.
-3. If your household lights up the trust gate, line up two or three estate-attorney candidates and run the five questions in order.
+3. If your household lights up the trust gate, line up two or three estate-attorney candidates and run the 5 questions in order.
 4. Then watch the walkthrough below this video, where we confirm your beneficiaries in Orange Plan and walk the Executor Packet with the person who's actually going to run it.
 
 And if you're outside the US: the tests and the frameworks travel well, but the legal containers don't. Map the concepts with a qualified local professional.

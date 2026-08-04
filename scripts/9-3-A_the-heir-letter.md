@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 9.3-A
 9.3 The heir letter
-~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 9.3-B)
+~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 9.3-B)
 ============================================================
 
 In today's lesson, we're going to cover the heir letter, which is the first thing your family reads on the day they need the plan.

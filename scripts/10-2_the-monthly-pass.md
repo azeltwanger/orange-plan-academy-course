@@ -1,9 +1,9 @@
 TELEPROMPTER SCRIPT — segment 10.2
 10.2 The monthly pass
-~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-In today's lesson, we're going to cover the monthly pass. Four inputs, six steps, about five minutes.
+In today's lesson, we're going to cover the monthly pass. Four inputs, 6 steps, about five minutes.
 
 The job here is narrow on purpose. The monthly pass catches data drift, meaning facts that have gone out of date. It doesn't cover strategy decisions. And it's four inputs, not forty, because these four are the only categories that actually move a projection. Everything else on the screen is a result of them.
 
@@ -17,9 +17,9 @@ Input three is life events. Anything from your foundation list. A move, a marria
 
 And input four is assumptions and targets. Your growth assumption, inflation, the reserve target, your retirement age. These only change if something real shifted. Most months, you glance at them and move on.
 
-== THE SIX STEPS ==
+== THE 6 STEPS ==
 
-The six steps: open the plan. Check the four inputs. Enter the transactions, by hand if there are a few, imported from a file if there are many. Review last month's spending against the plan. Flag anything that needs a real decision. And pick one to three actions.
+The 6 steps: open the plan. Check the four inputs. Enter the transactions, by hand if there are a few, imported from a file if there are many. Review last month's spending against the plan. Flag anything that needs a real decision. And pick one to three actions.
 
 == RUNNING IT ON THE COUPLE ==
 
@@ -27,7 +27,7 @@ Let's run a real month for the couple.
 
 They open the plan. They check the inputs: the $1,000 buy went through, there's no income change, no life event, and the targets didn't move. They enter the buy, which takes thirty seconds.
 
-Then the spending check. The plan runs about $6,700 a month, and this month came in at $6,800. That's $100 over, which is noise. Here's the rule for telling the difference: one month over the plan is nothing. Six months over in the same direction is a new spending level. The monthly cadence is exactly what lets you tell those two apart.
+Then the spending check. The plan runs about $6,700 a month, and this month came in at $6,800. That's $100 over, which is noise. Here's the rule for telling the difference: 1 month over the plan is nothing. 6 months over in the same direction is a new spending level. The monthly cadence is exactly what lets you tell those two apart.
 
 Step five, they've got nothing to flag. And a note on flagging: flagging is not deciding. You write down the question. It either becomes an action this month, or it waits for the annual review. You don't solve it standing up.
 
@@ -37,7 +37,7 @@ And I want to be clear that this is the normal outcome. Most months, the honest 
 
 == WHY MONTHLY ==
 
-Why monthly and not something else? Weekly is short enough that you'd mostly be looking at price movements, which aren't a plan input. Quarterly is long enough that you'd be reconstructing three months from memory. Monthly is the cadence where the update is real and the memory is fresh.
+Why monthly and not something else? Weekly is short enough that you'd mostly be looking at price movements, which aren't a plan input. Quarterly is long enough that you'd be reconstructing 3 months from memory. Monthly is the cadence where the update is real and the memory is fresh.
 
 == WHAT NEVER TOUCHES THE PLAN ==
 

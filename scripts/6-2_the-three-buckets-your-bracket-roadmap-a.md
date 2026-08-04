@@ -1,15 +1,15 @@
 TELEPROMPTER SCRIPT — segment 6.2
-6.2 The three buckets, your bracket roadmap, and the state lever
-~10 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+6.2 The 3 buckets, your bracket roadmap, and the state lever
+~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the three things that decide your tax bill: where your money sits, when you act, and where you live when you act.
 
 This lesson is US-specific, and I'll have a note for non-US viewers at the end.
 
-== WHERE YOUR MONEY SITS: THE THREE BUCKETS ==
+== WHERE YOUR MONEY SITS: THE 3 BUCKETS ==
 
-Every dollar you own for retirement sits in one of three buckets, and the table on the screen compares them.
+Every dollar you own for retirement sits in one of 3 buckets, and the table on the screen compares them.
 
 The first bucket is taxable. The money going in was already taxed, and you pay tax on gains when you sell, at capital gains rates. No forced withdrawals, ever.
 
@@ -61,7 +61,7 @@ Let me put numbers on it. Today, the couple sits on $115,000 of unrealized gain 
 
 Now scale it to retirement. Same two states, on a $500,000 realized gain, which is a normal retirement-year sale for a Bitcoin-heavy household. The high-tax state takes about $46,500. The no-tax state takes nothing. Same Bitcoin, same sale, same federal bill. A $46,500 swing on one transaction.
 
-And those saved dollars don't disappear. They go back into the plan and compound. I ran California against Florida for someone once, and the difference was about $5,800 a year. Over five years, that was $57,000 routed into Bitcoin instead of a state treasury.
+And those saved dollars don't disappear. They go back into the plan and compound. I ran California against Florida for someone once, and the difference was about $5,800 a year. Over 5 years, that was $57,000 routed into Bitcoin instead of a state treasury.
 
 One more thing that makes this lever different: it pays every year. Most tax moves in this module are one-shot, you make them in a particular year. A lower state rate applies to every sale you make for as long as you live there.
 

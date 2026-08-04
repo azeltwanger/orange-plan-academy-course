@@ -45,9 +45,9 @@ And this is why the rule from the executor lesson matters: keep the executor and
 
 If you're running multisig instead, the split works a little differently.
 
-In a two-of-three vault, there are three keys, and any two can spend. You hold two of them, so nothing about your day changes. You spend on your own, just like today. Your executor holds the third as a sealed seed card, and since one key alone can't spend, they can't touch anything while you're alive. The provider holds the remaining key, and never your seed phrase.
+In a two-of-three vault, there are 3 keys, and any two can spend. You hold two of them, so nothing about your day changes. You spend on your own, just like today. Your executor holds the third as a sealed seed card, and since one key alone can't spend, they can't touch anything while you're alive. The provider holds the remaining key, and never your seed phrase.
 
-After you're gone, your executor and the provider hold two keys between them, which meets the threshold. The provider verifies who the executor is and walks them through the recovery. So your heirs get a guided recovery instead of a technical exam.
+After you're gone, your executor and the provider hold 2 keys between them, which meets the threshold. The provider verifies who the executor is and walks them through the recovery. So your heirs get a guided recovery instead of a technical exam.
 
 One thing carries over from the custody module: the config file. The keys hold the money, and the config is the map that tells the network how to rebuild the wallet from those keys. Without the map, holding every key still locks you out.
 
@@ -71,7 +71,7 @@ Last thing, and it's the misconception I hear the most: "I'll just split the see
 
 Think about what that setup actually does. If the two people trust each other, then together they have the whole thing, so there's no protection. And if either one gets the other half through a leak or a guess, they have unilateral access. And 12 words is a much shorter guess than 24.
 
-So splitting a seed makes the wallet weaker. Splitting the seed from a passphrase makes it stronger. The difference between those two sentences is this entire lesson.
+So splitting a seed makes the wallet weaker, and splitting the seed from a passphrase makes it stronger. I want you to hear the difference there, because those two things sound similar and they do opposite things.
 
 == HOMEWORK ==
 

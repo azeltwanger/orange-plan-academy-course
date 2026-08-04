@@ -1,9 +1,9 @@
 TELEPROMPTER SCRIPT — segment 8.1
-8.1 Custody: the five questions and choosing your level
-~13 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+8.1 Custody: the 5 questions and choosing your level
+~12 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-In today's lesson, we're going to cover custody: the five questions that expose your gaps, and how to choose the right custody level for your family.
+In today's lesson, we're going to cover custody: the 5 questions that expose your gaps, and how to choose the right custody level for your family.
 
 Custody is more than where your Bitcoin sits. It covers whether you can reach it, whether anyone else can, and whether there's a process that still works when you're not around.
 
@@ -11,9 +11,9 @@ And I want to separate it from inheritance up front, because people mix these. I
 
 Here's why this matters. In 2022, Celsius customers watched their balance sit on a screen while withdrawals were frozen. Same thing at BlockFi, same at FTX. The number on the screen was theirs. The Bitcoin was not. A Bitcoin balance in someone else's system is a claim on their Bitcoin, not ownership of yours.
 
-== THE FIVE QUESTIONS ==
+== THE 5 QUESTIONS ==
 
-Custody comes down to five questions.
+Custody comes down to 5 questions.
 
 Where is the Bitcoin held? What type of custody are you using? Who knows what to do? What happens if you're unavailable? And where are the single points of failure?
 
@@ -45,9 +45,9 @@ Next: choosing your custody level. A custody level is how much protection a setu
 
 The mistake is a mismatch, and it goes in both directions. The Celsius customers had too little custody for what was at stake. But I've also watched people move a life-changing stack onto a hardware wallet they've never tested, which is more custody than their skill supports. Both cases are the same failure: the setup doesn't match the stakes.
 
-== THE FOUR LEVELS ==
+== THE 4 LEVELS ==
 
-There are four levels.
+There are 4 levels.
 
 Level 1 is a hardened exchange or broker. This is for a small stack, or while you're still learning. The setup is a strong password, app-based two-factor, a secured email account, and withdrawal delays turned on. And I want to stress the word hardened, not neglected. A small stack on a locked-down exchange is a legitimate setup.
 
@@ -91,7 +91,7 @@ So their homework writes itself: finish Level 2 honestly, then add the split tha
 
 == THE APP'S TIER ==
 
-One thing to know about the app: Orange Plan runs three tiers keyed to estate size. Foundation under $500,000, Substantial from $500,000 to $2 million, and High Net Worth above that. The tier filters the security checklist, so a Foundation household isn't held to the hardware items a high-net-worth household is.
+One thing to know about the app: Orange Plan runs 3 tiers keyed to estate size. Foundation under $500,000, Substantial from $500,000 to $2 million, and High Net Worth above that. The tier filters the security checklist, so a Foundation household isn't held to the hardware items a high-net-worth household is.
 
 So there are two dials working together. Your custody level, which is your call based on your skills and your family. And the app's tier, which sets the checklist items you're held to, based on what's at stake.
 
@@ -105,6 +105,6 @@ The right setup is one you can maintain, explain, and recover from. A simple set
 
 Your homework for this lesson is to:
 
-1. Score yourself on the five questions and write down your number. For most people it's one or two.
+1. Score yourself on the 5 questions and write down your number. For most people it's one or two.
 2. Write down which level you're at today, and which level your amount and your family say you should be at.
 3. For anything you haven't self-custodied, write down how many institutions it's sitting in, and be honest about whether that number matches what's at stake.

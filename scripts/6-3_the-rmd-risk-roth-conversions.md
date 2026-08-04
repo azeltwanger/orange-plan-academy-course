@@ -57,7 +57,7 @@ Let's run it. The couple is 60, retired, with basically no earned income.
 
 They convert about $100,000. Subtract the standard deduction, around $31,400 when they ran this, and the taxable amount is about $68,000. That lands in the 12% bracket, and the tax comes out to roughly $7,700. Verify the deduction and the brackets in the year you convert, because they move.
 
-Now repeat that four years running, from 60 to 64, and the whole $400,000 balance is gone before it ever becomes a million. The total cost was about $30,000 in tax, paid on their schedule, to retire a bill that was heading for a much higher rate.
+Now repeat that 4 years running, from 60 to 64, and the whole $400,000 balance is gone before it ever becomes a million. The total cost was about $30,000 in tax, paid on their schedule, to retire a bill that was heading for a much higher rate.
 
 == PAY THE TAX FROM OUTSIDE THE ROTH ==
 

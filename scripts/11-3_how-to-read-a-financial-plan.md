@@ -1,11 +1,11 @@
 TELEPROMPTER SCRIPT — segment 11.3
 11.3 How to read a financial plan
-~8.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover how to actually read a financial plan, which is the skill this whole course has been building toward.
 
-A plan report gets read in the order that answers four questions. Where do you stand today? That's position. Where are you headed? That's trajectory. What could break it? That's risk. And what do we do about it? Those are the actions. Every number in your report belongs to one of those four.
+A plan report gets read in the order that answers 4 questions. Where do you stand today? That's position. Where are you headed? That's trajectory. What could break it? That's risk. And what do we do about it? Those are the actions. Every number in your report belongs to one of those four.
 
 And the order matters, because each question depends on the one before it. Trajectory is computed off position. Risk is your trajectory tested against assumptions you didn't pick. Actions come out of what the risk read found. Starting in the middle means trusting numbers you never checked.
 
@@ -57,11 +57,11 @@ And six: an assumptions section you couldn't defend out loud. Every number in th
 
 If you find any of these, the review isn't finished yet.
 
-The standard for this module is simple: you can answer all four questions out loud, in four sentences, about your own report.
+The standard for this module is simple: you can answer all 4 questions out loud, in four sentences, about your own report.
 
 == SAVE ONE PDF PER YEAR ==
 
-Next habit: save one PDF per year, right after your annual review, while the data is fresh. Year in the filename, saved somewhere it will still exist in ten years.
+Next habit: save one PDF per year, right after your annual review, while the data is fresh. Year in the filename, saved somewhere it will still exist in 10 years.
 
 Here's the thing about that document: it does its real work the second time you save one, when there are two of them side by side.
 

@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 10.3
 10.3 The annual review: all six areas
-~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the annual review: one thorough pass across six areas, once a year.
@@ -23,7 +23,7 @@ The once-a-year pass is: re-center your target toward the 80% confidence level, 
 
 Then you refill the reserve. Their target is 18 months of spending, which is $120,000 of cash. If spending held or rose this year, you refill all the way. If spending got cut, you refill only partway, to about 12 months. And the 18-month target itself never moves. Bitcoin has historically recovered from major drawdowns in about 18 months, and the reserve is sized to cover exactly that stretch.
 
-What good looks like: spending inside the guardrails, and the reserve at target or rebuilding on the rule. What bad looks like: a reserve at half its target for two years running. That's a plan quietly getting less safe.
+What good looks like: spending inside the guardrails, and the reserve at target or rebuilding on the rule. What bad looks like: a reserve at half its target for 2 years running. That's a plan quietly getting less safe.
 
 == AREA 2: ALLOCATION ==
 
@@ -63,7 +63,7 @@ What good looks like: one recovery proven, last year's worst only-one fixed, and
 
 == AREA 6: ESTATE ==
 
-The estate area is four questions.
+The estate area is 4 questions.
 
 Are your beneficiaries still current? A new baby, a marriage, a divorce. And remember, the form overrides the will. Is the heir letter still accurate? The kids' ages, wallets that moved this year. Does the executor still fit, and are they still willing? And is the dead man's switch armed, with the right recipients?
 
@@ -73,7 +73,7 @@ What good looks like: a letter your family could act on today.
 
 The review sheet closes with a tick-as-you-go checklist and a note to your future self for next year's review. That defined finish line matters, because it's what keeps the annual review from turning open-ended.
 
-That's the whole thing. One card from every module, once a year, each one asking whether a decision you already made still fits.
+So that's the annual review. You're pulling one card from every module, once a year, and each card is just asking whether a decision you already made still fits.
 
 == HOMEWORK ==
 

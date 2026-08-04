@@ -64,4 +64,4 @@
 - position matches reality (the read IS the audit) · date + ring read as a pair · a band, not a point, all three labels explained
 - Bitcoin-path section actually read with "would I still be okay?" answered · protection lines green or the owning module named
 - next steps ≤ 3, every assumption defensible · **PDF on disk with the year in the filename**
-- "five years of before pictures show you what actually moved and what only felt like it did" → END
+- "5 years of before pictures show you what actually moved and what only felt like it did" → END

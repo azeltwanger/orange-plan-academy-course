@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 7.2
 7.2 The bridge years
-~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~4 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the bridge years, which is the stretch between your last paycheck and your full income floor.

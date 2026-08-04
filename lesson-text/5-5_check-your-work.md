@@ -10,4 +10,4 @@ The read-back on Strategy → Debt. No new inputs.
 - **The cheap mortgage** sits under Low-cost on minimums, with its reason stated.
 - **LTV cushion:** no severity chip is healthy. Any chip is this week's action.
 
-Then open the Dashboard and write your confidence number next to the one from Module 2. That's what four debt decisions were worth.
+Then open the Dashboard and write your confidence number next to the one from Module 2. The difference between them is what your 4 debt decisions moved.

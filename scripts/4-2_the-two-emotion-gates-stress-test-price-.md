@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 4.2
 4.2 The two emotion gates: stress-test + price context
-~4.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the two checks that keep your allocation honest. The first one is the stress test, which you run once, when you set your allocation. The second is the price context check, which you run every time before you make a Bitcoin-heavy move.
@@ -41,7 +41,7 @@ The second check runs before any Bitcoin-heavy move. Its job is to name the emot
 
 You're going to look at two lookback windows.
 
-The first is the recent window, which is 3, 6, 9, and 12 months. This tells you what you're feeling. If Bitcoin is up 40% in three months, you're feeling FOMO whether you admit it or not. If it's down 40%, you're feeling fear.
+The first is the recent window, which is 3, 6, 9, and 12 months. This tells you what you're feeling. If Bitcoin is up 40% in 3 months, you're feeling FOMO whether you admit it or not. If it's down 40%, you're feeling fear.
 
 The second is the long window, which is 2 to 5 years. This tells you what's actually true. The direction of the trend, not the mood of last week.
 

@@ -3,7 +3,7 @@
 **One session, 10 steps (~15 min capture)**
 
 **Before recording:**
-□ Two-three months of categorized transactions linked or imported (else Verify Spending is empty)
+□ Two-3 months of categorized transactions linked or imported (else Verify Spending is empty)
 □ Bare-bones number on a card: couple = $5,000/mo floor · $30,000 target (6 mo)
 
 ---
@@ -23,7 +23,7 @@
 - ⚠ add menu only shows types NOT already listed — "if you can't find it, it's already there"
 
 ## □ 3 · Sort your spending — ⚠ SLOW DOWN
-**Three rows: Taxes · Living · Debt payments**
+**3 rows: Taxes · Living · Debt payments**
 - **Living = your spending number. Not your paycheck. Not debt payments. The biggest data-entry mistake dies here.**
 - enter the Keep/Cut/Reduce result as the new Living number
 - ⚠ don't click into Debt payments — that's the per-debt editor, Module 4's job
@@ -33,7 +33,7 @@
 - card reads: "You spend ~$X. Your plan says $Y" + % difference
 - walk 2-3 real months · one-timers: three-dot → **Exclude · one-time** (recover under status filter → Ignored / one-time)
 - ⚠ never-synced card shows "Connect" instead of Review — link an account first
-- line: "two or three months of real transactions beats any estimate"
+- line: "two or 3 months of real transactions beats any estimate"
 
 ## □ 5 · Set the reserve fields
 **Reserve settings (below Routing)** — four fields in render order:

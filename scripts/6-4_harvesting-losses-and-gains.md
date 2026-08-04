@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 6.4
 6.4 Harvesting losses and gains
-~8.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover harvesting, both losses and gains, which is how you use Bitcoin's volatility to lock in tax outcomes that stock investors rarely get.
@@ -63,7 +63,7 @@ Let's run it on the couple at 60, retired, sitting in that 0% window from the br
 
 Nothing about their stack changed. But the basis on that quarter coin went from $7,500 to $25,000, which means $17,500 of future gain just stopped existing. At a future 15% rate, that's $2,625 of tax they now never pay.
 
-So a 0% year is doing two jobs. It saves tax on any sale you actually needed to make that year, which is the obvious one. And it resets your basis higher for free, one year at a time, which is the one almost everyone misses. A 0% year is worth using even in a year you don't need the money.
+So a 0% year is doing two jobs. It saves tax on any sale you actually needed to make that year, which is the obvious one. And it resets your basis higher for free, 1 year at a time, which is the one almost everyone misses. A 0% year is worth using even in a year you don't need the money.
 
 One reminder from the conversion lesson: Roth conversion income competes for this same room, because ordinary income stacks underneath your gains and can push them out of 0%. Model the two together.
 

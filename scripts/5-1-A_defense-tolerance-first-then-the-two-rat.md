@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 5.1-A
 5.1 Defense: tolerance first, then the two ratios
-~5.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 5.1-B)
+~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 5.1-B)
 ============================================================
 
 In today's lesson, we're going to cover the defensive side of debt: your tolerance, and the two ratios that tell you where you stand.

@@ -19,7 +19,7 @@ The classic 4% rule takes the same inflation-adjusted dollars out every year no 
 
 Run it on the couple. They're 60, retired, with a $1,000,000 portfolio and $80,000 of spending. Bitcoin drops 60%, and the portfolio falls to $400,000. The fixed rule says sell $80,000 anyway. That's 20% of everything they have left, sold at the bottom. Recovery takes a couple of years, and the rule makes them do it again the next year.
 
-Here's the thing though: the whole problem lasts one to three years. That's the window. So what you need is a spending rule that flexes during exactly those years.
+Here's the thing though: the whole problem lasts one to 3 years. That's the window. So what you need is a spending rule that flexes during exactly those years.
 
 == THE 60/80/95 BANDS ==
 
@@ -57,9 +57,9 @@ So 80% means 8 in 10 futures needed no changes at all. And in the other 2, the p
 
 Let's run the couple through it.
 
-A crash happens. At the annual review, confidence reads 61. That's the lower guardrail, so they cut 10% of $80,000, which is $8,000. The paycheck goes to $72,000 for the next 12 months. That's the whole response. No panic, no selling spree, one adjustment.
+A crash happens. At the annual review, confidence reads 61. That's the lower guardrail, so they cut 10% of $80,000, which is $8,000. The paycheck goes to $72,000 for the next 12 months. And that's the entire response. They didn't panic, they didn't go on a selling spree, they just made one adjustment and moved on.
 
-Twelve months later, Bitcoin has recovered. Confidence reads 83. That's hold. They add inflation on top of the $72,000 and move on.
+12 months later, Bitcoin has recovered. Confidence reads 83. That's hold. They add inflation on top of the $72,000 and move on.
 
 And if instead it had come back at 96, that's the upper guardrail: raise 10%, so $72,000 plus about $7,000 puts them back around $79,000, walking the spending back up.
 
@@ -78,5 +78,5 @@ If spending held or rose, refill fully. If spending got cut, refill partway, to 
 Your homework for this lesson is to:
 
 1. Run the 50% drawdown after retirement scenario on your own plan this week. It's one click in the app's scenarios.
-2. Answer two questions from it. Does the plan survive with your current reserve size? And if not, how much bigger does the reserve need to be?
+2. Answer 2 questions from it. Does the plan survive with your current reserve size? And if not, how much bigger does the reserve need to be?
 3. Then watch the walkthrough below this video, where we build the whole retirement paycheck in Orange Plan.

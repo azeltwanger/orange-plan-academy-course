@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 2.1
 2.1 Gather your numbers
-~3.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~3 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the documents you need to gather before you start building your baseline. Every decision downstream runs on this data, so a little accuracy up front is going to save you time on every future update.
@@ -9,7 +9,7 @@ In today's lesson, we're going to cover the documents you need to gather before 
 
 First is income. You want recent pay stubs so you can verify what's coming in per period and per year. And include every stream — salary for each earner, self-employment, rental income, dividends.
 
-Next is spending. Use the last three months as a reference for what you spend in a normal month. A rough number is fine to start. Once you link your accounts in the app, the exact figure is going to get calculated for you.
+Next is spending. Use the last 3 months as a reference for what you spend in a normal month. A rough number is fine to start. Once you link your accounts in the app, the exact figure is going to get calculated for you.
 
 Then your assets. This is every account you own. What I'd recommend is opening each one in a separate browser tab as you go through onboarding, so you don't miss any. This step is just inventory — every account and its current balance.
 

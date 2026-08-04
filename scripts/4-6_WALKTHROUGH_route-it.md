@@ -48,7 +48,7 @@
 - **mode → Fill to match** → prints "targets $X/yr" · beside it: annual limit $X / "· at annual limit"
 - **match fields:** Match rate _% · up to _% of pay → 👀 "captures $X/mo"
 - greyed "Fill to match is off" tells you the missing prerequisite (salary source, or match fields)
-- **tax treatment:** Traditional / Split / Roth — two questions in order: can it hold what I want to own → which wrapper treats it best
+- **tax treatment:** Traditional / Split / Roth — 2 questions in order: can it hold what I want to own → which wrapper treats it best
 - **how it invests:** Current mix / Set mix / Choose holdings (+ Add holding tags "· new holding")
 - missing account type → **+ Add account type** at bottom
 

@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 9.5
 9.5 Insurance: the risks you can't self-insure yet
-~7.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover insurance, specifically the risks your stack can't cover yet.
@@ -11,7 +11,7 @@ Early on, that gap is huge, and insurance covers it cheaply. As the stack compou
 
 == SIZING THE GAP ==
 
-Let's size the gap by running the Denver scenario forward one year. He's gone, and his $150,000 income went with him. She earns $40,000. They spend $80,000. Two kids and a mortgage.
+Let's size the gap by running the Denver scenario forward 1 year. He's gone, and his $150,000 income went with him. She earns $40,000. They spend $80,000. Two kids and a mortgage.
 
 $80,000 of spending minus $40,000 of income is a $40,000-a-year hole, in a plan that was working fine a week ago. That hole is what insurance is for.
 

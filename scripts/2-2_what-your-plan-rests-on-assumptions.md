@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 2.2
 2.2 What your plan rests on: assumptions
-~4.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover assumptions — the inputs about the future that your plan treats as truth.
@@ -23,7 +23,7 @@ If you run Bitcoin at 40% forever — and to be clear, that's a deliberately con
 
 Now run Bitcoin at 20%, declining as adoption grows. The retirement date moves to around age 58.
 
-That's eight years, from one input. Nothing else about their situation changed.
+That's 8 years, from one input. Nothing else about their situation changed.
 
 == THE FOUR BITCOIN PRESETS ==
 

@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 8.2
 8.2 The hardware wallet and the recovery test
-~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the hardware wallet setup, and the recovery test that proves your backup actually works before serious money depends on it.
@@ -19,7 +19,7 @@ And there's a detail that makes this sharper: most hardware wallets wipe themsel
 
 == THE SIX-STEP SETUP ==
 
-Here's the setup, six steps, and the order matters.
+Here's the setup, 6 steps, and the order matters.
 
 Step one: buy the device directly from the manufacturer. Never used, never from a third-party seller. A device someone else touched can arrive with a seed they already know, and then every coin you send it is already theirs.
 
@@ -35,7 +35,7 @@ Step six: restore from your written seed, and confirm the test transaction reapp
 
 That wipe-and-restore proves three things at once. The seed was written down correctly. You know the procedure, and you learned it under calm conditions. And the backup actually works.
 
-If the restore works, your real stack moves over and you've proven the backup. If it fails, you found out with $1,000 at risk instead of $150,000. That's the whole trade, and it's the best deal in this course.
+If the restore works, your real stack moves over and you've proven the backup. And if it fails, you found out with $1,000 at risk instead of $150,000. I think that's a pretty good trade for an afternoon of work.
 
 == THE NEVER LIST ==
 

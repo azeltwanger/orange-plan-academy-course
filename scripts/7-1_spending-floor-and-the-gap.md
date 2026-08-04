@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 7.1
 7.1 Spending, floor, and the gap
-~5.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the three numbers that your entire retirement paycheck is built on: your spending, your income floor, and the gap between them.
@@ -33,7 +33,7 @@ The guaranteed core of that, the Social Security plus the pension plus whatever 
 
 The third number is the gap, and it's just your spending minus your floor. The gap is the portfolio's job.
 
-Once you have the gap, three questions follow. How large is it? How hard does it make the portfolio work? And how much of it is covered by cash?
+Once you have the gap, 3 questions follow. How large is it? How hard does it make the portfolio work? And how much of it is covered by cash?
 
 The second question has real math behind it: you take the gap and divide by the portfolio. An $80,000 gap on a $2,000,000 portfolio is 4%. The same $80,000 gap on a $1,000,000 portfolio is 8%. Same lifestyle, but the portfolio is doing twice the work at half the size. That ratio is the thing the whole safe-withdrawal-rate literature argues about.
 
@@ -55,5 +55,5 @@ The app runs this exact table on your numbers, on the Income Blueprint page, and
 
 Your homework for this lesson is to:
 
-1. Write your three numbers down: spending, floor, and gap.
+1. Write your 3 numbers down: your spending, your floor, and your gap.
 2. If you don't know your floor yet, pull your Social Security estimate this week. SSA.gov gives it to you in monthly and annual form. Heads up: the app takes it as a monthly number.

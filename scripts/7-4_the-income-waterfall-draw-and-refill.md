@@ -1,13 +1,13 @@
 TELEPROMPTER SCRIPT — segment 7.4
 7.4 The income waterfall + draw and refill
-~7.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover two things that work together: the income waterfall, which is the order your retirement paycheck gets assembled in, and draw and refill, which is how you put cash back after you spend it.
 
-== THE FOUR TIERS OF THE WATERFALL ==
+== THE 4 TIERS OF THE WATERFALL ==
 
-The waterfall has four tiers, and the table on the screen lays them out.
+The waterfall has 4 tiers, and the table on the screen lays them out.
 
 Tier one is Social Security and pensions. Guaranteed money spends first.
 
@@ -31,9 +31,9 @@ Let me run the couple through it. They're 60, retired, spending $80,000 a year, 
 
 Years one through five, following the strict order, they spend from taxable. $400,000 divided by $80,000 is about 5 years. Their income is low, the tax bill is near zero, and it feels great. Meanwhile the $600,000 traditional account is compounding untouched.
 
-Then year six arrives. Taxable is empty. Now every dollar of spending comes from the traditional account as ordinary income. Their near-zero tax bill jumps to filling a much higher bracket in one year, on a balance that's bigger than when they retired, right before RMDs start stacking on top.
+Then year six arrives. Taxable is empty. Now every dollar of spending comes from the traditional account as ordinary income. Their near-zero tax bill jumps to filling a much higher bracket in 1 year, on a balance that's bigger than when they retired, right before RMDs start stacking on top.
 
-They spent five years sitting in their cheapest brackets without using them. That's the failure. Following the strict order doesn't save tax overall. It just moves the whole bill to your worst year.
+So they spent 5 years sitting in their cheapest brackets without ever using them. Following the strict order doesn't actually save you tax overall. What it does is move the whole bill to your worst year.
 
 == THE FIX: BRACKET-FILL ==
 
@@ -43,7 +43,7 @@ You take traditional money up to the top of your cheap brackets, because that in
 
 Run the couple again with bracket-fill, same $80,000 target. Say they have $60,000 of traditional they can pull cheaply, using the standard deduction plus the low ordinary brackets. They take that $60,000 from traditional, and the remaining $20,000 comes from taxable, where their long-term gains may land in the 0% capital-gains bracket stacked on top.
 
-Compare the two after five years. The strict order left the traditional account untouched and built a cliff. Bracket-fill moved $60,000 a year, times 5 years, which is $300,000, out of the traditional account at almost no tax cost. That's $300,000 that is not sitting there waiting to become a forced RMD.
+Compare the two after 5 years. The strict order left the traditional account untouched and built a cliff. Bracket-fill moved $60,000 a year, times 5 years, which is $300,000, out of the traditional account at almost no tax cost. That's $300,000 that is not sitting there waiting to become a forced RMD.
 
 == IN THE APP ==
 
@@ -71,7 +71,7 @@ If spending held or rose this year, they refill the Reserve back to the full $12
 
 If spending got cut this year, and we'll cover why that happens in the guardrails lesson, they refill only partway, to about 12 of the 18 months, roughly $80,000. Because you don't sell weakness to top up cash.
 
-And here's the rule that matters most: the target itself never moves. A cut year stops the refill short. It never shrinks the target. The plan doesn't get to quietly become less safe because one year was bad. The target stays 18 months, and the refill pace is what adjusts.
+And here's the rule that matters most: the target itself never moves. A cut year stops the refill short. It never shrinks the target. The plan doesn't get to quietly become less safe because 1 year was bad. The target stays 18 months, and the refill pace is what adjusts.
 
 In the app, the refill pace lives in the reserve settings as the monthly build cap, and I'll show you that in the walkthrough.
 
@@ -79,6 +79,6 @@ In the app, the refill pace lives in the reserve settings as the monthly build c
 
 Your homework for this lesson is to:
 
-1. Write down your own waterfall, all four tiers, with your actual sources in each.
+1. Write down your own waterfall, all 4 tiers, with your actual sources in each.
 2. Ask the bracket question: in your first five retirement years, would the strict order leave your low brackets empty? If yes, bracket-fill is worth modeling.
 3. Set your refill rule now, while you're calm: your reserve target in months, and what a partial refill looks like in a cut year.

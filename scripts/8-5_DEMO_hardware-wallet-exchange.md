@@ -10,7 +10,7 @@
 
 ---
 
-## □ 1 · Hardware wallet: the six steps (~5:30)
+## □ 1 · Hardware wallet: the 6 steps (~5:30)
 1. **Buy direct from manufacturer** — never used, never third-party
 2. **Generate a new wallet on the device** — seed from the device's own randomness; never type a seed from anywhere else
 3. **Write the seed offline + set PIN** — show the ACT (hand on paper/steel), never the words · no PIN pattern on screen

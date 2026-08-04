@@ -17,7 +17,7 @@
 
 ## □ The lap — Protect
 - **readiness higher than at the start** — "{n} of 5 essentials" · letter, switch, beneficiaries green after this lap
-- **letter completeness: zero flags** — Added / Named / Written / Yes on all four rows
+- **letter completeness: zero flags** — Added / Named / Written / Yes on all 4 rows
 - **switch armed**, right recipients, next check-in date visible — "a signal to your executor, not the legal work"
 - **beneficiary allocations don't contradict** the will or the policies — the form wins
 - **nothing secret got typed** — the red banner read out loud · "Where to begin" holds a location for DOCUMENTS, never keys

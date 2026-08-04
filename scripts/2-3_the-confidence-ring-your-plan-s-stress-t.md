@@ -31,7 +31,7 @@ Age 60 at 82% confidence is a real answer. Age 60 at 55% confidence is the same 
 
 I want to show you what's actually happening under the hood, because this isn't just shuffling a portfolio return.
 
-Every one of those thousand futures runs your entire plan. It starts from your real balances today — your Bitcoin, your brokerage, your retirement accounts, your cash. In year one, every asset gets its own return based on your assumptions and its historical volatility. Then your actual life runs: income comes in, taxes go out, spending happens, withdrawals happen in your order, contributions and debt payments happen. You land on new balances. Then year two starts fresh with new market returns, and it does it again. Forty-five years of that is one complete future.
+Every one of those thousand futures runs your entire plan. It starts from your real balances today — your Bitcoin, your brokerage, your retirement accounts, your cash. In year one, every asset gets its own return based on your assumptions and its historical volatility. Then your actual life runs: income comes in, taxes go out, spending happens, withdrawals happen in your order, contributions and debt payments happen. You land on new balances. Then year two starts fresh with new market returns, and it does it again. Forty-5 years of that is one complete future.
 
 Then it runs another 999 futures with different markets and counts how many succeeded. Running your real life inside every path is what makes the answer sensitive to your plan, and not just to your portfolio.
 

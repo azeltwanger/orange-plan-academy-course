@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 9.4-A
 9.4 The 90-day dead man's switch
-~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 9.4-B)
+~4 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 9.4-B)
 ============================================================
 
 In today's lesson, we're going to cover the dead man's switch, which is the piece that makes sure your plan actually gets delivered.
@@ -21,11 +21,11 @@ Then he has a heart attack on a Tuesday, in a hotel in Denver.
 
 His wife knows there's Bitcoin. But she doesn't know her brother is holding half the access. Her brother doesn't know he's supposed to do anything. And the letter is in a file in the office that nobody thinks to open.
 
-Nothing was lost, and nothing was stolen. Eleven weeks go by, and nothing happens, because nobody knows to start. That's the failure. Not a broken plan, a plan that never begins.
+Nothing was lost, and nothing was stolen. 11 weeks go by and nothing happens, because nobody knows to start. So the plan didn't break. It just never got going in the first place, and that's the thing a switch is there to prevent.
 
-== THE FOUR STEPS ==
+== THE 4 STEPS ==
 
-Here's how the switch works, in four steps.
+Here's how the switch works, in 4 steps.
 
 Step one: he checks in, every 90 days by default. It takes seconds.
 
@@ -35,7 +35,7 @@ Step three: the heir letter goes out to the people he named. His wife and her br
 
 Step four: both of them are holding the same set of instructions on the same day. She knows to call him. He knows she's calling.
 
-So instead of eleven weeks of nothing, the family gets one afternoon of phone calls.
+So instead of 11 weeks of nothing, the family gets one afternoon of phone calls.
 
 == WHAT IT IS AND ISN'T ==
 

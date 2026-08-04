@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 8.3
 8.3 Close the doors: single points of failure, hardening, and scams
-~6.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover single points of failure, account hardening, and the scam rules. This is the lesson about closing the doors you didn't know were open.
@@ -25,7 +25,7 @@ Now, three completely ordinary events.
 
 First: the house floods. The device and the only seed backup are in the same building, so about $150,000 of Bitcoin goes out with the drywall. Two copies in one location were never really two copies.
 
-Second: he's hospitalized for six weeks. Nothing was stolen, nothing was lost, but nothing can move either. She can't sell a dollar of it, and she can't even tell anyone what exists.
+Second: he's hospitalized for 6 weeks. Nothing was stolen, nothing was lost, but nothing can move either. She can't sell a dollar of it, and she can't even tell anyone what exists.
 
 Third: the exchange freezes his account during a routine review. The $25,000 is unreachable for however long the review takes, and nobody will give him a date.
 
@@ -33,7 +33,7 @@ Three ordinary Tuesdays, no hackers involved anywhere. The failure that actually
 
 == THE NINE-QUESTION HUNT ==
 
-So here's the hunt. Nine questions, and for each one you ask: is there only one?
+So here's the hunt. 9 questions, and for each one you ask: is there only one?
 
 Only one device? Only one seed backup? Only one location? Only one person who knows everything? One weak exchange login? One heir with no idea what exists? A document that contradicts your beneficiary forms? A passphrase nobody else can recover? And multisig keys all sitting in one place?
 
@@ -83,6 +83,6 @@ The common thread in every scam is urgency. Every scam needs you to act before y
 
 Your homework for this lesson is to:
 
-1. Write your own only-one list, all nine questions.
+1. Write your own only-one list, all 9 questions.
 2. Pick the one at the top, ranked by cost of loss, and fix it this week. Not all nine. Just that one.
 3. Then watch the demo below this video, where I do the hardware wallet setup and the exchange hardening on screen.

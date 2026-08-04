@@ -75,7 +75,7 @@
 
 ## □ WRAP — spot check
 - timer under 5 min ("most months are quieter than this one") · nothing touched that shouldn't be — name what you never opened
-- reserve at target or rebuilding on the rule (bad: half target two years running) · allocation passes the stress question at today's number
+- reserve at target or rebuilding on the rule (bad: half target 2 years running) · allocation passes the stress question at today's number
 - ratios in band, no loan a 50% drawdown liquidates · tax window used or deliberately passed before year-end
 - one recovery proven · letter the family could act on today, switch armed
 - **output = 1-3 actions, finishable before next month's pass** — "longer lists are how reviews stop happening" → END

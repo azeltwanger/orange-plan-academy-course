@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 7.3
 7.3 The healthcare bridge
-~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the healthcare bridge, which is how you cover health coverage between your last day of work and Medicare.

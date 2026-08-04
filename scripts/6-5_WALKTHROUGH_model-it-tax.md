@@ -13,7 +13,7 @@
 
 ## □ 1 · Import transaction history
 **Dashboard → Update Transactions → A downloaded file** (⚠ importer is on Dashboard, NOT the Tax page)
-- two questions: which account? · all available history? (Yes / No, or I'm not sure)
+- 2 questions: which account? · all available history? (Yes / No, or I'm not sure)
 - dedupe note: file is checked against earlier imports — overlaps don't duplicate
 - "the app never invents basis — a flagged lot is your reconstruction homework"
 
@@ -29,7 +29,7 @@
   - sold lot is LOCKED ("Purchase lot locked by a sale") — unwind in order: delete sale → fix lot → re-enter
   - "Remaining lot quantity exceeds this holding by X" = almost always a double import — delete the duplicate
 
-## □ 3 · Ground the three buckets
+## □ 3 · Ground the 3 buckets
 **Plan → Retirement → click a year on the chart → drawer → Account mix**
 - collapsed: "N% tax-free" + 3-segment bar → expand: Taxable / Tax-deferred / Tax-free
 - "if it's 100% one bucket, this walkthrough is going to be short — a mix is what makes the levers work"

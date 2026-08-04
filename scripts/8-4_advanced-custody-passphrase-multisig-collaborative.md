@@ -12,9 +12,9 @@ Now the advanced setups, for when you're at Level 3 or 4.
 
 What "advanced" actually means here is removing the single points of failure that a single-device, single-seed setup has. Every advanced setup takes one of those only-ones and splits it into two. And you pay for that in complexity, and in what your family has to be able to do.
 
-Two definitions first. A passphrase is an extra word you choose, layered on top of your seed. The wallet doesn't open without both. And multisig, short for multi-signature, means the wallet is secured by several separate keys, and more than one has to sign before Bitcoin moves. The common setup is two-of-three: three keys, any two can spend, and losing any single one costs you nothing.
+Two definitions first. A passphrase is an extra word you choose, layered on top of your seed. The wallet doesn't open without both. And multisig, short for multi-signature, means the wallet is secured by several separate keys, and more than one has to sign before Bitcoin moves. The common setup is two-of-three: 3 keys, any two can spend, and losing any single one costs you nothing.
 
-There are three paths.
+There are 3 paths.
 
 Path one is passphrase single-sig. One seed plus a hidden extra word. It's best for a modest stack, and what it buys you is the simplest advanced plan a family can follow. The watch-out is serious, though: a forgotten passphrase locks the funds permanently. There is no reset mechanism, no support line. So the passphrase gets its own backup, stored separately from the seed, and you practice with a small amount first.
 
@@ -32,23 +32,23 @@ And two practical things. First, a wallet passphrase is case-sensitive and compl
 
 The trade-off here is built right in, and I want you to see it. A passphrase that's strong enough to be unguessable is also unrecoverable if you lose it. That's exactly why it gets its own backup, stored separately from the seed, and why you practice with a small amount first.
 
-Path two is collaborative multisig. You hold two keys, a provider holds one, plus the configuration. This is best for a meaningful balance, or for heirs who aren't technical, because what you're buying is a professional on call to guide them. The costs are an annual fee and some vendor dependence. One important note: the provider's single key can't spend on its own, so they never actually custody your Bitcoin.
+Path two is collaborative multisig. You hold 2 keys, a provider holds one, plus the configuration. This is best for a meaningful balance, or for heirs who aren't technical, because what you're buying is a professional on call to guide them. The costs are an annual fee and some vendor dependence. One important note: the provider's single key can't spend on its own, so they never actually custody your Bitcoin.
 
 Let me go a level deeper on collaborative, because I think it's the right answer for more households than pick it, and the key count is the part people miss.
 
-It's a two-of-three. Three keys exist, and any two of them can move Bitcoin. You hold two. The provider holds one.
+It's a two-of-three. 3 keys exist, and any two of them can move Bitcoin. You hold two. The provider holds one.
 
-That split gives you two properties I want you to really understand. The first one is that they can never take your Bitcoin, because one key out of a required two spends nothing. They're a co-signer, not a custodian, and that is the entire difference between this and leaving it on an exchange. The second is that they can never lock you out, because you're already holding two keys, which is a spending quorum all by itself. You don't need their permission or their participation to move your own money.
+That split gives you two properties I want you to really understand. The first one is that they can never take your Bitcoin, because one key out of a required two spends nothing. They're a co-signer, not a custodian, and that is the entire difference between this and leaving it on an exchange. The second is that they can never lock you out, because you're already holding 2 keys, which is a spending quorum all by itself. You don't need their permission or their participation to move your own money.
 
 So what are you actually paying for? Three things. A key you didn't have to store yourself. A copy of the configuration file, held by somebody whose actual job is not losing it. And a human being who is going to pick up the phone and walk your family through a recovery on the worst week of their lives. That third one, honestly, is the whole reason this path exists.
 
 Before you pick a provider, I want you to verify four things. Number one, can you recover if the provider is gone? They should hand you the configuration file, and it should work in open-source wallet software that they don't control. If the answer is that you'd have to call them, then that's a custodian wearing a multisig costume. Number two, is there a documented inheritance process? Ask exactly what happens when your executor calls, and what proof they're going to require. Number three, what's the annual fee, and what happens to your wallet if you stop paying it? And number four, what do they require from you, in identity verification and in privacy terms, to open the account in the first place.
 
-The honest downside here is that you're depending on a company to keep existing across a timeline measured in decades. That's a real risk and I'm not going to talk you out of it. But notice that it's bounded by the key count. Your worst case is that the provider vanishes and you spend an afternoon recovering with your two keys and the config file. Compare that to the DIY worst case, where the person who understood the whole setup is the person who died.
+The honest downside here is that you're depending on a company to keep existing across a timeline measured in decades. That's a real risk and I'm not going to talk you out of it. But notice that it's bounded by the key count. Your worst case is that the provider vanishes and you spend an afternoon recovering with your 2 keys and the config file. Compare that to the DIY worst case, where the person who understood the whole setup is the person who died.
 
 Path three is DIY multisig. You hold every key and the configuration yourself. Best for technically proficient people. It buys you maximum privacy and full independence. But here's the trade nobody talks about: your heirs inherit the complexity with no professional to guide them. This path trades your family's recovery odds for your independence.
 
-The table on the screen compares them across four rows: single point of failure, maintenance load, heir-friendliness, and cost. Look at all four rows before picking. Technical people tend to stop at row one and end up with something their family can't use.
+The table on the screen compares them across 4 rows: single point of failure, maintenance load, heir-friendliness, and cost. Look at all 4 rows before picking. Technical people tend to stop at row one and end up with something their family can't use.
 
 Run it on the same household. $175,000 of Bitcoin, he's 45 and healthy, his wife has never restored a wallet, and the kids are 10 and 12.
 
@@ -60,9 +60,9 @@ Match the setup to your family and your stack, and only add complexity when it b
 
 One last thing, and for multisig households this is the part that actually gets families locked out.
 
-The keys hold the money. The config is the file that records how those keys connect into one wallet: which keys, the two-of-three rule, the technical addresses. That file is the map. With the config, your heirs have three seeds in separate locations plus the map, and the wallet reassembles. Without it, they can hold all three seeds in their hands and still be locked out.
+The keys hold the money. The config is the file that records how those keys connect into one wallet: which keys, the two-of-three rule, the technical addresses. That file is the map. With the config, your heirs have 3 seeds in separate locations plus the map, and the wallet reassembles. Without it, they can hold all 3 seeds in their hands and still be locked out.
 
-And this is not hypothetical. A man dies with a two-of-three multisig holding about $300,000. He did everything right on the keys. Three seeds, three separate locations, the executor holds one, and the family finds all three. They recover nothing. $300,000, lost to a missing file.
+And this is not hypothetical. A man dies with a two-of-three multisig holding about $300,000. He did everything right on the keys. 3 seeds, three separate locations, the executor holds one, and the family finds all three. They recover nothing. $300,000, lost to a missing file.
 
 Here's the config file's superpower, though: it's public. It has no spending power. Losing it to a thief costs you privacy, not coins. Which means you can back it up aggressively, in ways you would never back up a seed. And if you're with a collaborative provider, they hold the config for you. On top of the support, that annual fee is buying the one file your heirs can't reconstruct on their own.
 
@@ -72,5 +72,5 @@ Your homework for this lesson is to:
 
 1. Decide whether an advanced setup is warranted for you at all. Staying at a well-run Level 2 is a legitimate answer, and I don't want anybody adding complexity they don't need.
 2. If you're adding a passphrase, generate it with 7 random words off a wordlist, using dice or an offline generator. Back it up separately from the seed, and practice with a small amount first.
-3. If you're considering collaborative custody, ask a provider those four questions and write down their answers before you pay anybody anything.
+3. If you're considering collaborative custody, ask a provider those 4 questions and write down their answers before you pay anybody anything.
 4. If you're already running multisig, go find your config file, back it up, and tell one other person that it exists.

@@ -13,13 +13,13 @@ That's really the whole job here. You keep one baseline plan that represents you
 
 The first thing I want to get straight is the difference between a life event and a scenario, because this is the distinction that decides where something goes, and the app actually enforces it.
 
-A life event is something you genuinely expect to happen. College tuition starting in eight years. A roof. A car. Retirement itself. Those go in the plan, because if you leave them out, your projection is just wrong.
+A life event is something you genuinely expect to happen. College tuition starting in 8 years. A roof. A car. Retirement itself. Those go in the plan, because if you leave them out, your projection is just wrong.
 
-A scenario is something you're considering, or something you're worried about. Retiring three years earlier. Moving to a no-tax state. Bitcoin dropping 50% the year after you retire. Those go in Scenarios, because if you put them in the plan, you've corrupted the baseline that you measure everything else against.
+A scenario is something you're considering, or something you're worried about. Retiring 3 years earlier. Moving to a no-tax state. Bitcoin dropping 50% the year after you retire. Those go in Scenarios, because if you put them in the plan, you've corrupted the baseline that you measure everything else against.
 
 The test is one question, and I want you to actually ask it: am I telling the plan what's true, or am I asking the plan a question? True things go in the plan. Questions go in Scenarios.
 
-And I'll tell you the most common way people wreck their own baseline. They get curious about retiring at 55. So they go change the retirement age in the plan itself, just to see. And then they get distracted, life happens, and three months later they're reading a projection built on a decision they never actually made.
+And I'll tell you the most common way people wreck their own baseline. They get curious about retiring at 55. So they go change the retirement age in the plan itself, just to see. And then they get distracted, life happens, and 3 months later they're reading a projection built on a decision they never actually made.
 
 == THE TWO KINDS OF WHAT-IF ==
 
@@ -43,7 +43,7 @@ Start with the specific type that matches your question. Advanced is there for g
 
 This next one is the discipline that makes scenarios actually useful instead of confusing, so I want to spend a second on it.
 
-Let's say you build a scenario that retires you three years earlier, and cuts your spending, and assumes weaker Bitcoin returns, all at once. And the result comes back worse. You've learned nothing. You can't tell which of those three did it. You can't even tell whether two of them cancelled each other out.
+Let's say you build a scenario that retires you 3 years earlier, and cuts your spending, and assumes weaker Bitcoin returns, all at once. And the result comes back worse. You've learned nothing. You can't tell which of those three did it. You can't even tell whether two of them cancelled each other out.
 
 So it's one variable per scenario. If you want to know what three changes do together, that's a fourth scenario, and you build it deliberately, and you read it after you already understand each piece on its own.
 
@@ -53,7 +53,7 @@ When you select a saved scenario, the app puts it right next to your plan and sh
 
 I've got three rules for reading it.
 
-The first is read the pair, not the number. A scenario that retires you two years earlier at a much lower success rate is not a better plan. It's a different trade. Every scenario is a trade, and the trade is the thing you're actually reading.
+The first is read the pair, not the number. A scenario that retires you 2 years earlier at a much lower success rate is not a better plan. It's a different trade. Every scenario is a trade, and the trade is the thing you're actually reading.
 
 The second is run the Monte Carlo before you believe the success rate. The comparison chart updates immediately, but that success rate is a simulation and it has to actually run. The button is right there in the comparison section.
 

@@ -27,11 +27,11 @@ And the third is your comfort with volatility. And I mean what you would actuall
 
 Together, those three set the size of the position that you can survive. And that's a different thing than the position you might want.
 
-I'll give you my own experience here. Bitcoin has returned somewhere around 37% a year on average over the last five years, and I've also watched my net worth drop 75% in a single drawdown and held through the whole thing. The reason I could hold is that I understood what I owned. If I hadn't done the homework first, I don't think I make it through that.
+I'll give you my own experience here. Bitcoin has returned somewhere around 37% a year on average over the last 5 years, and I've also watched my net worth drop 75% in a single drawdown and held through the whole thing. The reason I could hold is that I understood what I owned. If I hadn't done the homework first, I don't think I make it through that.
 
-== THE FOUR TIERS ==
+== THE 4 TIERS ==
 
-Let me walk you through the four tiers.
+Let me walk you through the 4 tiers.
 
 The first tier is Foundation, which is 1 to 5%. This is where you start if you're new and curious. Bitcoin is a small hedge at this level. Your custody can be an exchange or an ETF, and your job at this tier is learning why Bitcoin exists. Read the whitepaper. Understand what makes it different from everything else.
 

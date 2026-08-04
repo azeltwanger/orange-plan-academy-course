@@ -19,7 +19,7 @@ The first form is data drift, which is facts going out of date. Your spending, y
 
 Let me show you what that costs. Say the couple's spending creeps from $80,000 to $88,000 over a year or two, and nobody enters it. The plan still says $80,000, but life says $88,000, so every projection is running $8,000 a year light. Run that through the withdrawal math from the income module, and that's about $100,000 more portfolio they actually need than the plan thinks. The plan is off by a hundred thousand dollars, and nobody made a single bad decision. That's data drift.
 
-The second form is plan drift, which is decisions going stale. The facts are fine, but the strategy sitting on top of them no longer fits the life underneath. The allocation you picked at 45 might not be the one you want at 60. A debt that had a job three years ago might have finished it.
+The second form is plan drift, which is decisions going stale. The facts are fine, but the strategy sitting on top of them no longer fits the life underneath. The allocation you picked at 45 might not be the one you want at 60. A debt that had a job 3 years ago might have finished it.
 
 Data drift happens constantly, in small amounts. Plan drift happens slowly, and it's a bigger conversation when it comes up.
 

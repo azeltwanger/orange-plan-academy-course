@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 4.5
 4.5 Asset location: the right account for each holding
-~5.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover asset location, which is choosing which type of account each of your holdings should live in, so you're not paying more lifetime tax than you have to.

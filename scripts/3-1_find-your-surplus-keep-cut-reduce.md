@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 3.1
 3.1 Find your surplus: Keep, Cut, Reduce
-~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover how to find your surplus, which is the money you have left over every month after everything else has been paid.
@@ -25,7 +25,7 @@ The number that people get wrong here, more than any other, is their spending nu
 
 Here's why this matters so much. If this couple entered their paycheck, $190,000, instead of what they actually spend, which is $80,000, the plan is now going to size their retirement to fund $110,000 a year of spending that doesn't exist. The stack it's going to tell them to build is more than double what their life actually needs. And every single projection downstream of that is wrong. Their retirement date is wrong, their confidence number is wrong, their withdrawal plan is wrong.
 
-The app keeps these separate for you on purpose. There are four rows: income, taxes, living, and debt payments. Living is where your spending goes.
+The app keeps these separate for you on purpose. There are 4 rows: income, taxes, living, and debt payments. Living is where your spending goes.
 
 == KEEP, CUT, REDUCE ==
 

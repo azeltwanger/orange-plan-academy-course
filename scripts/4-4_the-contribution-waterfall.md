@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 4.4
 4.4 The contribution waterfall
-~5.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the contribution waterfall, which is the order that your next dollar should flow through your accounts, and why that order is what it is.
