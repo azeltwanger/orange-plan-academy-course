@@ -4,6 +4,36 @@ Calibration sources: "401K vs Bitcoin", "Bitcoin Is My Path To Early Retirement"
 "Bitcoin Beginner's Guide", "How I Went From Nothing To Early Retirement".
 Every script conversion is checked against this, not against "good writing."
 
+## THE calibration master
+
+`scripts/3-2_size-the-reserve-to-your-life.md` is Austin's own dictation of a
+full lesson (2026-08-04). Every conversion matches THAT, not this guide's
+abstractions. When guide and dictation disagree, the dictation wins.
+
+## Dictation-derived rules (diffed against the same content written by AI)
+
+- **Opener:** "In today's lesson, we're going to cover [thing]." Then optionally
+  "Let me start by showing you why this matters."
+- **"Going to" everywhere.** Austin scaffolds in future tense: "you're going to
+  take," "this is going to push it up," "they're going to be starting at."
+  AI-me wrote present tense; Austin doesn't.
+- **"I think" hedges on every judgment.** "I think this is a good starting
+  place." "I don't think there's a wrong answer here." Opinions are marked as
+  opinions, never delivered as facts.
+- **Unpack, don't compress.** Austin's version of any idea is LONGER than the
+  written one: "they're now stuck in a situation where they're selling Bitcoin
+  at a 77% loss just to cover all of their bills and their mortgage." Never
+  tighten his kind of sentence for elegance — the restating and elaboration IS
+  the teaching style.
+- **Explicit causality.** Nearly every claim carries its "because": "...is also
+  going to push it up, because you're just at a higher risk if you were to lose
+  that source of income."
+- **Transitions:** "On the flip side of this," "Let's walk through an example,"
+  "Let's say that we have a couple," "Now, ..."
+- **Homework is a numbered list, read out.** Enumerations are fine to speak.
+- **The teach lesson refers to the app work as "the walkthrough below this
+  video"** — teach and walkthrough are separate videos on the same lesson page.
+
 ## How Austin actually talks
 
 - **Sentences chain with connectives.** "So..." starts the move, "And..." extends

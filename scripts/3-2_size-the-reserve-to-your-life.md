@@ -1,62 +1,66 @@
 TELEPROMPTER SCRIPT — segment 3.2
 3.2 Size the reserve to your life
-~800 words · ~5 min at 155 wpm · SPOKEN-PROSE VERSION (voice-calibrated v2)
+~5.5 min at 155 wpm · AUSTIN DICTATION — SPOKEN-PROSE VERSION (calibration master)
 ============================================================
 
-So in this lesson we're going to size your cash reserve.
+In today's lesson, we're going to cover how to size your cash reserve to your life. Let me start by showing you why this matters.
 
-Your reserve is the cash you set aside so you're never forced to sell your Bitcoin at the wrong time. Our couple is holding 1.75 Bitcoin. Back in 2022, Bitcoin dropped 77% from its peak. Now imagine a job loss hits somewhere in the middle of that window. If they're not holding enough cash, the mortgage still has to get paid, and now they're selling Bitcoin at a 77% discount just to cover the house payment.
+In our example, we have a couple that's holding 1.75 Bitcoin. Back in 2022, during the bear market, Bitcoin dropped 77% from its peak. If they were to have something like a job loss during this window and they're not holding enough cash, but they still have bills like their mortgage that they have to pay, they're now stuck in a situation where they're selling Bitcoin at a 77% loss just to cover all of their bills and their mortgage.
 
-But if you hold too much cash, you have the opposite problem. That money just sits there losing to inflation and dragging on your returns for years. So what we're going to do in this lesson is find the right number in the middle.
+On the flip side of this, if you hold too much cash, you have the opposite problem. That money just sits there losing to inflation, and it's going to drag your returns over longer periods of time. What we're going to do in this lesson is find the right number for you in your life that's somewhere in the middle.
 
-And the good news is that historically, Bitcoin's major drawdowns have recovered within about 1 to 3 years. So that's the window your reserve needs to cover.
+The good news, and where I like to start, is that Bitcoin's major drawdowns have taken about 1 to 5 years to recover. I think this is a good starting place for the window that your reserve needs to cover.
 
 == THE FORMULA ==
 
-The formula is really simple. It's your bare-bones essentials times your target months. That's your reserve target.
+The formula that I'm using for sizing your emergency fund is: you're going to take your bare-bones essential spending, and then you're going to multiply that by whatever your target amount of months is for your reserve. By bare bones, this is not going to be what you normally spend in any given month. This is going to be the absolute minimum amount that you can spend and still get by.
 
-And notice I said bare-bones essentials, not your normal spending. This is the floor number you found in the surplus lesson. The reason we use the floor is that in a real emergency, you'd cut back to the floor anyway. If you size your reserve off normal spending, you're paying to protect spending you would have already cut. And if you size it off the floor, the same amount of cash buys you about a third more time.
+The reason why we use this is that, for the floor, or your bare-bones spending, in a real emergency, this is the amount that you could cut back and still get by. If we were to size your emergency fund based off normal spending, you're oversizing your emergency fund and losing money to inflation. A smaller amount of cash is going to buy you more time in a worst-case scenario.
 
-The app gives you four fields for this, under Cash Flow in the Reserve settings. You have your bare-bones essentials, your target months, the reserve basis, which defaults to floor and that's what we want, and a monthly build cap that controls how fast your surplus fills it up. We'll set all of these together in the walkthrough.
+Once I get to the app in the walkthrough section, we'll have an opportunity to set what your bare-bones spending is, what your reserve size is going to be, and how you're going to start building a plan and allocating money towards this reserve.
 
 == TARGET MONTHS ==
 
-So how many months should you hold? It depends on your situation, and the table on the screen gives you the range. If you have two stable incomes and no dependents, you can run pretty lean at around 3 months. For most households, 6 months is the baseline. And if you have a single income, you're self-employed, or your pay is variable, you want 12 months or more.
+The amount of months that you should hold depends on your specific situation. The table here that's on the screen is going to give you the range that you're going to fall in. If you have, for example, two stable incomes and you don't have any kids or people relying on you, you can start at about three months, and that's going to be the minimum. For most households, I would say six months is the baseline. If you have a single-income household, or if you're self-employed or if your pay is more variable, like in a sales job, you're going to want to shoot for 12 months or more.
 
-Then there's six factors that move your number up or down inside that range. And they all come back to two questions. How reliable is your income, and how hard are your bills to shrink?
+After this, there are six factors that are going to move this number up or down inside this range. They all come down to two questions. How reliable is your income? And how difficult is it for you to shrink the amount of expenses that you have every month?
 
-So things like variable pay, commissions, or contract work push the number up. One earner instead of two pushes it up. Dependents push it up. If you're paying for your own health insurance before Medicare, that pushes it up. A big mortgage or heavy fixed bills, up. And if you work in a niche role where finding the next job could take a year, that pushes it up too.
+Things like variable pay, commissions, or contract work are going to push this number higher. One earner in the household instead of two is also going to push it up, because you're just at a higher risk if you were to lose that source of income. Dependents are also going to push it up, because they mean higher risk and generally higher fixed costs. If you're paying for your own health insurance before Medicare, so before age 65, this is also going to push it up, because this is a high expense that you don't have a whole lot of control over. The next one is a large mortgage relative to what your income is. A high amount of fixed bills is going to mean a higher fixed floor for your bare-bones spending. And if you work in a niche role or industry where finding a next job could take you a long period of time, like a year, this is also going to contribute to pushing it up towards the higher end of the range.
 
-When you stack all your factors together, what you're really estimating is how long you could go without a paycheck. And your reserve has to be able to outlast that number.
+Now, when you combine all these factors together for your life, what you're really estimating is how long you could go without a paycheck. Your reserve needs to be able to protect your family from selling Bitcoin or other assets at the wrong time, and give you the ability to survive during this period without a significant amount of stress on your household.
 
 == THE COUPLE'S RESERVE ==
 
-So let's run the couple through this. They start at the 6 month baseline.
+Let's walk through an example. Let's say that we have a couple. They're going to be starting at the six-month baseline. They have two stable W-2 incomes, and because of this, we can take two months off. Now they're down to around four. They have two kids, so we'll add a month back, and they're at five.
 
-They have two stable W-2 incomes, and that's the strongest thing they have going, so take off 2 months and now they're down to 4. They have two kids, so add a month back and they're at 5. They have a $280,000 mortgage that has to get paid whether anyone has a job or not, so add another month and now they're at 6. And their health insurance comes through an employer, so that's neutral for now, but keep in mind it's one of the things that breaks if a job goes away.
+They have a $280,000 mortgage that has to get paid whether they have income or not. This is a fixed expense, so we'd add another month on top of that. Now they're back to six months. And their health insurance is going to come through their employer. This is going to be neutral for now, but just keep in mind it's one of the things that is going to be a risk if they were to lose their job.
 
-So they land right back at 6 months. And 6 months times their $5,000 floor is a $30,000 reserve target. They already have $30,000 in cash, so they're fully funded. Now their job is just to protect that money so nothing else spends it.
+So six months, times their $5,000 floor spending, their bare-bones spending — this is about a $30,000 reserve target that they're going to set. They already have $30,000 in cash, so they're fully funded. Now their job is just to protect that money so that nothing else, like a vacation or something else, tempts them to dip into that money. It's going to be set aside in a separate account, just emergency fund cash that you're not going to touch.
 
 == THE RESERVE CHANGES JOBS IN RETIREMENT ==
 
-Now here's something that surprises a lot of people. When you retire, the reserve's job changes.
+Now, your reserve is going to change as you move into retirement. While you're working, the purpose of the reserve is to replace a lost paycheck and protect you against losing your income and having large unexpected expenses come up. When we shift into retirement, there's not a paycheck to replace.
 
-While you're working, the reserve is there to replace a lost paycheck. But in retirement, there's no paycheck to replace. Instead, it covers the gap between what you spend and what's coming in from Social Security or a pension. It's there so a bear market never forces you to sell Bitcoin to cover your expenses.
+Instead, this is going to cover the gap between what you spend and what's coming in from other income sources, like Social Security or, if you have one, a pension. The purpose of your reserve in retirement is there so that a bear market doesn't force you to sell Bitcoin to cover your expenses at the wrong time.
 
-So let's run the couple at 67. They're spending $80,000 a year and getting about $51,600 from Social Security. That leaves a gap of around $2,400 a month. The baseline in retirement is 18 months of that gap, so their target comes out to about $43,000.
+Let's say that we have a couple that's 67 years old. They're spending $80,000 a year, and they're getting about $51,600 from Social Security, so this is going to leave a gap of around $2,400 a month. The baseline in retirement is 18 months of that gap, so their target is going to come out to around $43,000 that they're going to want in a reserve. They went from $30,000 while working to $43,000 as they transition into retirement. They're spending the same amount of money, but the target is about 40% larger, because the reserve is now doing a different job, and they're going to be spending the money that they need to live off of from their reserve.
 
-So they went from $30,000 while working to $43,000 in retirement. Same spending, but the target is about 40% bigger, because the reserve is doing a different job. The good news is that after several years into retirement, that risk fades and the reserve can shrink back down. It's the early retirement years where a bad market can really break a plan.
+Now, after several years into retirement, the risk of needing to sell assets at an inopportune time, and the impact that's going to have on your financial plan, is going to start to fade away. This is because research has shown that sequence-of-returns risk — which is the risk that your portfolio drops right after you retire — starts to go down after you hit five years retired.
 
-== THE FOUR OPTIONS QUESTION ==
+After this period, if you're not comfortable holding a large amount of cash, I think it can make sense to move your cash reserve down to something like 12 months if you're up at 18. A lot of this is just going to come down to what your risk tolerance is. If you don't like holding a lot of cash, then I think a floor for a cash reserve in retirement is going to be 12 months. These can go up to around three years if you're risk-averse and just feel better having a large cash position. We're going to get into, in later lessons, how you're going to go about refilling this cash reserve and when to do this.
 
-Before you pick your number, there's one question I want you to answer honestly.
+== THE SCENARIO QUESTION ==
 
-If Bitcoin dropped 50% tomorrow and your income stopped for six months, what would you rather do? Would you hold more cash now? Sell some Bitcoin then? Borrow against it? Or cut your spending hard?
+Before you pick and decide what your cash reserve is going to be, I think it's important to go through a scenario or situation. If Bitcoin were to drop 50% tomorrow, we go into a bear market, and your income got cut off for six months and it took you a while to find a new job: would you rather hold more cash now and be able to safely spend it through that period? Or would you be okay with taking the risk to sell some Bitcoin during that time, knowing that the price is down 50%, and just cut your spending more aggressively to your bare-bones spending?
 
-There's no wrong answer here. All four of these get you through the same six months, they just cost you in different ways. But cash is the only one you can set up ahead of time. So whatever your answer is, that's what your reserve size should reflect.
+I don't think there's a wrong answer here. A lot of this, like I said, comes down to your risk tolerance. I think having at least three months of a reserve while you're working, and then 12 months once you go into retirement, can protect you against selling assets at the wrong time and prevent sequence-of-return risks in retirement.
 
 == HOMEWORK ==
 
-So here's your homework. Pick your target months, multiply it by your floor number, and enter both into the reserve settings in the app.
+Your homework for this lesson is to:
 
-And in the next lesson, we're going to talk about the future costs you already know are coming, and how to keep them from eating this reserve.
+1. Pick what your target amount of months that you want saved is.
+2. Multiply that by your bare-bones spending.
+3. Enter both into the reserve settings in the app, which I'll show you in the walkthrough below this video.
+
+In the next lesson, we're going to talk about the future costs you already know are coming, and how to keep them from eating into this reserve.

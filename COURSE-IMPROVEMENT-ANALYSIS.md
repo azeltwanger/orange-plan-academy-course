@@ -1848,3 +1848,35 @@ Confirmed — that IS the current architecture, no change needed:
 - scripts/ = video-only narration layer, converted to spoken prose (3.2 done,
   38 pending Austin's verdict on the sample). Spoken conversions NEVER flow
   back into student text.
+
+
+---
+
+## 38. Voice calibration COMPLETE — Austin dictated 3.2 (2026-08-04)
+
+Austin dictated lesson 3.2 himself. His dictation now IS the 3.2 script
+(cleaned only for stutters and the cut-off final sentence), replacing both AI
+versions, and is marked as the calibration master every other conversion must
+match. Guide updated with dictation-derived rules: "In today's lesson" opener,
+future-tense "going to" scaffolding, "I think" hedges on every judgment,
+unpack-don't-compress, explicit "because" on claims, homework as a spoken
+numbered list, and the teach lesson referring to app work as "the walkthrough
+below this video."
+
+**Content decisions Austin made while dictating — propagated to lesson text
+(master + Honen 3.2):**
+1. Drawdown recovery window: "1 to 3 years" → "about 1 to 5 years" (more
+   conservative; his call).
+2. NEW retirement-reserve guidance: sequence-of-returns risk fades ~5 years
+   into retirement; after that the reserve can shrink toward a 12-month floor,
+   or run up to ~3 years for the risk-averse.
+
+**Flagged, not changed:** his dictation collapsed the four-options question
+(hold cash / sell / borrow / cut) to two-ish options — the borrow option
+didn't appear. The lesson text still teaches four. Needs Austin's call:
+deliberate simplification (update lesson + app cross-refs) or dictation
+omission (script keeps four when he re-records)?
+
+**Structural signal:** "the walkthrough below this video" — teach video and
+walkthrough video are separate assets on the same lesson page. Matches the
+hybrid A/B filming model already in place.
