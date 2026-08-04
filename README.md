@@ -15,6 +15,7 @@ Source of truth for **"Financial Planning for Bitcoin Holders"**: scripts, filmi
 - `FILMING-CHECKLIST.md` — production plan: phases, shooting order, per-lesson table.
 - `COURSE-IMPROVEMENT-ANALYSIS.md` — decision log; 33 tracked items with full audit history.
 - `scripts/` — **the teleprompter scripts.** 39 files: the 31 talking-head lessons in full plus the teach half of each of the 8 hybrid lessons (`{n}-A`). Production notes, outcomes blocks, and markers already stripped; tables fenced as "on screen — don't read". Generated — edit the master, then run `python3 tools/build-scripts.py`.
+- `lesson-text/` — **the student-facing text version**: concise, scannable, no fluff — what a read-instead-of-watch student gets, and what eventually replaces the Honen lesson prose. One file per lesson (being produced lesson by lesson alongside the scripts).
 - `modules/` — the master split per module (what Drive holds). Generated — edit the master, then run `python3 tools/split-modules.py`.
 - `lessons/` — byte-verified verbatim exports of restructured Honen lessons (Modules 4, 8 + major walkthroughs), in Honen's own format. Used for pushing edits back to the Honen draft.
 - `tools/fp.py` — Honen-sandbox hash mirror (its md5 hashes UTF-16 code units mod 256); proves local ↔ Honen parity.
