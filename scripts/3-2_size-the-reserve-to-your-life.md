@@ -1,62 +1,62 @@
 TELEPROMPTER SCRIPT — segment 3.2
 3.2 Size the reserve to your life
-~780 words · ~5.0 min at 155 wpm · SPOKEN-PROSE VERSION
+~800 words · ~5 min at 155 wpm · SPOKEN-PROSE VERSION (voice-calibrated v2)
 ============================================================
 
-Your reserve is cash you hold on purpose, and it has exactly one job: keeping you from selling Bitcoin at the wrong time.
+Your reserve is the cash you set aside so you're never forced to sell your Bitcoin at the wrong time.
 
-Our couple holds one point seven five Bitcoin. Back in 2022, Bitcoin dropped seventy-seven percent, peak to bottom. Now imagine a job loss lands in the middle of that window, and they're holding too little cash. The mortgage doesn't pause. They'd be selling Bitcoin at a seventy-seven percent discount just to make the house payment.
+So let me show you why this matters. Our couple is holding 1.75 Bitcoin. Back in 2022, Bitcoin dropped 77% from its peak. Now imagine a job loss hits somewhere in the middle of that window. If they're not holding enough cash, the mortgage still has to get paid, and now they're selling Bitcoin at a 77% discount just to cover the house payment.
 
-But hold too much cash, and you have the opposite problem — that money sits there dragging on the plan for years. So this lesson is about sizing the middle.
+But if you hold too much cash, you have the opposite problem. That money just sits there losing to inflation and dragging on your returns for years. So what we're going to do in this lesson is find the right number in the middle.
 
-And here's the anchor for all of it: Bitcoin's major drawdowns have historically recovered in one to three years. That's the storm the reserve is built to outlast.
+And the good news is that historically, Bitcoin's major drawdowns have recovered within about 1 to 3 years. So that's the window your reserve needs to cover.
 
 == THE FORMULA ==
 
-The formula is simple. Bare-bones essentials, times target months. That's your reserve target.
+The formula is really simple. It's your bare-bones essentials times your target months. That's your reserve target.
 
-Notice I said bare-bones — not your normal spending. That's the floor number you found in the surplus lesson. Why the floor? Because in a real emergency, you'd cut back to the floor anyway. If you size the reserve off normal spending, you're buying insurance for a lifestyle you'd have already cut. Size it off the floor, and the same dollars buy you about a third more time.
+And notice I said bare-bones essentials, not your normal spending. This is the floor number you found in the surplus lesson. The reason we use the floor is that in a real emergency, you'd cut back to the floor anyway. If you size your reserve off normal spending, you're paying to protect spending you would have already cut. And if you size it off the floor, the same amount of cash buys you about a third more time.
 
-The app gives you four fields for this, under Cash Flow, in Reserve settings. Your bare-bones number. Your target months. The basis — floor or normal spending, and it defaults to floor, which is what we want. And a monthly build cap, which controls how fast your surplus fills it. We'll set all four in the walkthrough.
+The app gives you four fields for this, under Cash Flow in the Reserve settings. You have your bare-bones essentials, your target months, the reserve basis, which defaults to floor and that's what we want, and a monthly build cap that controls how fast your surplus fills it up. We'll set all of these together in the walkthrough.
 
-== TARGET MONTHS BY SITUATION ==
+== TARGET MONTHS ==
 
-So how many months? It depends on your life, and the table on screen gives you the range. Two stable incomes and no dependents — you can run lean, around three months. Most households — six months is the baseline. Single income, self-employed, variable pay — twelve months or more.
+So how many months should you hold? It depends on your situation, and the table on the screen gives you the range. If you have two stable incomes and no dependents, you can run pretty lean at around 3 months. For most households, 6 months is the baseline. And if you have a single income, you're self-employed, or your pay is variable, you want 12 months or more.
 
-What moves your number inside that range? Six factors, and they all come down to the same two questions: how reliable is your income, and how hard are your bills to shrink.
+Then there's six factors that move your number up or down inside that range. And they all come back to two questions. How reliable is your income, and how hard are your bills to shrink?
 
-Unstable income — commissions, contracts, variable pay — pushes it up. One earner instead of two, up. Dependents, up. Paying your own health insurance before Medicare, up. A big mortgage or heavy fixed bills, up. And if you're in a niche role where the next job takes a year to find, up again.
+So things like variable pay, commissions, or contract work push the number up. One earner instead of two pushes it up. Dependents push it up. If you're paying for your own health insurance before Medicare, that pushes it up. A big mortgage or heavy fixed bills, up. And if you work in a niche role where finding the next job could take a year, that pushes it up too.
 
-Stack your factors together, and what you're really estimating is: how long could I go without a paycheck? Your reserve has to outlast that answer.
+When you stack all your factors together, what you're really estimating is how long you could go without a paycheck. And your reserve has to be able to outlast that number.
 
-== WORKING THE COUPLE'S RESERVE ==
+== THE COUPLE'S RESERVE ==
 
-Let's run the couple through it. Start at the six-month baseline.
+So let's run the couple through this. They start at the 6 month baseline.
 
-They've got two W-2 incomes, both stable — that's the strongest thing on their sheet. Take off two months, down to four. Two kids — add one back, up to five. A two-hundred-eighty-thousand-dollar mortgage that doesn't care whether anyone's employed — add another, up to six. Health insurance comes through an employer, which is neutral today — but notice it's on the list of things that breaks if a job goes away.
+They have two stable W-2 incomes, and that's the strongest thing they have going, so take off 2 months and now they're down to 4. They have two kids, so add a month back and they're at 5. They have a $280,000 mortgage that has to get paid whether anyone has a job or not, so add another month and now they're at 6. And their health insurance comes through an employer, so that's neutral for now, but keep in mind it's one of the things that breaks if a job goes away.
 
-So they land right back on six months. Six times their five-thousand-dollar floor is a thirty-thousand-dollar reserve target. And they already hold thirty thousand in cash — they're funded. Their job now isn't saving. It's fencing that money off so nothing else spends it.
+So they land right back at 6 months. And 6 months times their $5,000 floor is a $30,000 reserve target. They already have $30,000 in cash, so they're fully funded. Now their job is just to protect that money so nothing else spends it.
 
-== WHEN THE RESERVE CHANGES JOBS ==
+== THE RESERVE CHANGES JOBS IN RETIREMENT ==
 
-One more thing, because it surprises people: at retirement, the reserve changes jobs.
+Now here's something that surprises a lot of people. When you retire, the reserve's job changes.
 
-While you're working, it replaces a lost paycheck. In retirement, there's no paycheck to replace — instead, it covers the gap between what you spend and what comes in reliably from Social Security or a pension. It's there so a bear market never forces you to sell Bitcoin to buy groceries.
+While you're working, the reserve is there to replace a lost paycheck. But in retirement, there's no paycheck to replace. Instead, it covers the gap between what you spend and what's coming in from Social Security or a pension. It's there so a bear market never forces you to sell Bitcoin to cover your expenses.
 
-Run the couple at sixty-seven. Eighty thousand of spending, minus about fifty-one and a half of Social Security — that's a gap of around twenty-four hundred dollars a month. The retirement baseline is eighteen months of that gap, which puts the target around forty-three thousand.
+So let's run the couple at 67. They're spending $80,000 a year and getting about $51,600 from Social Security. That leaves a gap of around $2,400 a month. The baseline in retirement is 18 months of that gap, so their target comes out to about $43,000.
 
-So: thirty thousand while working, forty-three in retirement. Same household, same spending — about forty percent bigger, because the reserve is doing a different job. The good news: after several years of retirement, the danger fades and it can shrink again. It's early retirement where a bad market can break a plan.
+So they went from $30,000 while working to $43,000 in retirement. Same spending, but the target is about 40% bigger, because the reserve is doing a different job. The good news is that after several years into retirement, that risk fades and the reserve can shrink back down. It's the early retirement years where a bad market can really break a plan.
 
-== THE FOUR-OPTIONS QUESTION ==
+== THE FOUR OPTIONS QUESTION ==
 
-Before you pick your number, answer one question honestly.
+Before you pick your number, there's one question I want you to answer honestly.
 
-If Bitcoin dropped fifty percent tomorrow, and your income stopped for six months — what would you rather do? Hold more cash now. Sell some Bitcoin then. Borrow against it. Or cut your spending hard.
+If Bitcoin dropped 50% tomorrow and your income stopped for six months, what would you rather do? Would you hold more cash now? Sell some Bitcoin then? Borrow against it? Or cut your spending hard?
 
-There's no wrong answer. All four pay for the same six months — they just charge different prices. But only one of them can be bought in advance, and that's the cash. Your answer to that question is what your reserve size should reflect.
+There's no wrong answer here. All four of these get you through the same six months, they just cost you in different ways. But cash is the only one you can set up ahead of time. So whatever your answer is, that's what your reserve size should reflect.
 
 == HOMEWORK ==
 
-Your homework: pick your target months. Multiply by your floor. Then enter both into the reserve settings in the app.
+So here's your homework. Pick your target months, multiply it by your floor number, and enter both into the reserve settings in the app.
 
-Next lesson: the future costs you already know are coming — and how to keep them from eating this reserve.
+And in the next lesson, we're going to talk about the future costs you already know are coming, and how to keep them from eating this reserve.

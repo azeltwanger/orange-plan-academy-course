@@ -1,0 +1,48 @@
+# Austin voice guide — extracted from 4 real video scripts
+
+Calibration sources: "401K vs Bitcoin", "Bitcoin Is My Path To Early Retirement",
+"Bitcoin Beginner's Guide", "How I Went From Nothing To Early Retirement".
+Every script conversion is checked against this, not against "good writing."
+
+## How Austin actually talks
+
+- **Sentences chain with connectives.** "So..." starts the move, "And..." extends
+  it, "Then..." sequences it, "But..." turns it, "Now..." shifts topic. Long
+  conversational run-ons joined by "and"/"so" are normal and correct.
+- **First person, experience first.** Claims are backed by "I did this myself,"
+  "I watched my net worth drop 75% in 2022," "I say this from experience because
+  I bought MicroStrategy options in 2021 and got wiped out." Personal story
+  before principle.
+- **Walks the viewer by the hand.** "So let me show you what I did." "Here's how
+  to calculate yours." "You'll click receive, copy the address, then go back to
+  River." Second person, imperative, concrete.
+- **Problem → solution rhythm.** "The problem was that... So what I did was..."
+  "The risk was... The solution is..." "This is important because..."
+- **Numbers in digits, walked step by step.** "$206,000 times 12.5 equals roughly
+  $2.58 million." "Take 1.2 and multiply it by itself." Never spelled out, never
+  dropped as a punchline — always walked.
+- **Hedged, non-advisory close on decisions.** "I'm not saying you should do
+  this." "Run the numbers and see for yourself." "I'll let you be the judge."
+  "Verify this for your situation."
+- **Enumerations announced then delivered.** "So to find more dollars you have 3
+  options." Then the three, plainly.
+- **Occasional rhetorical question, immediately answered.** "The problem? Social
+  Security's trust fund is projected to run out."
+
+## What Austin does NOT do (the AI-slop tells — reject on sight)
+
+- Aphorisms and punchlines ("peace of mind is a real return," "that's the storm
+  the reserve is built to outlast"). At most ONE simple payoff line per video,
+  not per paragraph.
+- Em-dash parallelism and triads ("the tests, the splits, the math").
+- Clever reversals and chiasmus ("buys insurance for a lifestyle you'd have cut").
+- Fragments for drama. ("Months of paperwork. Done while grieving.")
+- Spelled-out numbers ("seventy-seven percent").
+- Abstract nouns doing the work ("the drag costs the plan"). Austin says who
+  does what: "that money just sits there losing to inflation."
+
+## Conversion rule of thumb
+
+Take the lesson's idea, then ask: how would a financial planner explain this to
+a friend across the table, on the first take, with digits on a napkin? Write
+that down. If a sentence sounds quotable, rewrite it until it sounds said.
