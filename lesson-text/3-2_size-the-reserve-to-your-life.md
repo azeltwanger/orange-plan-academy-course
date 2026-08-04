@@ -2,7 +2,7 @@
 
 Your reserve is cash held so a Bitcoin drawdown never forces you to sell at the wrong time. Too little cash and a job loss in a bear market means selling Bitcoin at a steep discount to pay the mortgage. Too much and inflation eats it. This lesson finds your number.
 
-Bitcoin's major drawdowns have taken about 1–5 years to recover. That's the window your reserve covers.
+Bitcoin's major drawdowns have historically taken about 18 months to recover. That's the window your reserve covers.
 
 ## The formula
 

@@ -128,7 +128,7 @@ The couple holds 1.75 Bitcoin. In 2022, Bitcoin dropped 77% peak to bottom. If a
 
 Hold too much cash, though, and the drag costs the plan for years. This lesson sizes the middle.
 
-Bitcoin's major drawdowns have historically recovered in 1 to 3 years, which is what the reserve is sized against.
+Bitcoin's major drawdowns have historically recovered in about 18 months, which is what the reserve is sized against.
 
 ### The formula
 

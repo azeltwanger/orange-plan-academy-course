@@ -187,7 +187,7 @@ Then refill the reserve. Target: 18 months of spending = $120,000 cash.
 - Spending held or rose: refill all the way to $120,000.
 - Spending got cut: refill only partway. About 12 months, so ~$80,000.
 
-The 18-month target itself never moves. Bitcoin has historically recovered from major drawdowns in 1 to 3 years. The reserve is sized to cover that stretch.
+The 18-month target itself never moves. Bitcoin has historically recovered from major drawdowns in about 18 months. The reserve is sized to cover that stretch.
 
 - **Good:** spending inside guardrails, reserve at $120K or rebuilding on the rule.
 - **Bad:** reserve at half its target for two years running.

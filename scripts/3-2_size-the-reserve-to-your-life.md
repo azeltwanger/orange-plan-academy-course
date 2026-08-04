@@ -9,7 +9,7 @@ In our example, we have a couple that's holding 1.75 Bitcoin. Back in 2022, duri
 
 On the flip side of this, if you hold too much cash, you have the opposite problem. That money just sits there losing to inflation, and it's going to drag your returns over longer periods of time. What we're going to do in this lesson is find the right number for you in your life that's somewhere in the middle.
 
-The good news, and where I like to start, is that Bitcoin's major drawdowns have taken about 1 to 5 years to recover. I think this is a good starting place for the window that your reserve needs to cover.
+The good news, and where I like to start, is that Bitcoin's major drawdowns have historically taken about 18 months to recover. I think this is a good starting place for the window that your reserve needs to cover.
 
 == THE FORMULA ==
 
