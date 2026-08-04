@@ -131,7 +131,7 @@
 ## □ B7 · Confidence ring
 **Run Monte Carlo → wait 10-20 sec**
 - "a thousand market paths through your plan…"
-- 👀 ring + verdict (on track 80+ / review 60-79 / attention <60) + sampling range date
+- 👀 ring + verdict + sampling range date — 🚩 bands changing to 80/70 (item 39): read the verdict WORD off the screen, don't speak the thresholds
 - "the date says when — the ring says how sturdy"
 
 ## □ B8 · Life events

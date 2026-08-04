@@ -1880,3 +1880,13 @@ omission (script keeps four when he re-records)?
 **Structural signal:** "the walkthrough below this video" — teach video and
 walkthrough video are separate assets on the same lesson page. Matches the
 hybrid A/B filming model already in place.
+
+## Item 39 — Confidence verdict bands (decided 2026-08-04)
+
+> 🚩 **DECIDED, PENDING APP CHANGE (Austin, 2026-08-04):** confidence verdict
+> bands move to **80+ on track · 70-79 review · <70 needs attention** (red line
+> raised from 60 to 70; research: MoneyGuidePro 70-90 zone, Kitces 70-90 with
+> adjustment plan, aim 80-95). App still renders 80/60 today
+> (`VitalsStrip.jsx` ~L307; `confidenceDisplay.jsx` also uses a 50 line —
+> unify when implementing). DO NOT film any bands on-screen readout in 2.3/2.4
+> until the app ships this, then update course copy to match.

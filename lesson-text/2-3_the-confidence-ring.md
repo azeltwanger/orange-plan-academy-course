@@ -7,8 +7,10 @@ The app runs your plan through ~1,000 simulated market futures. The confidence n
 | Confidence | Verdict |
 |---|---|
 | 80+ | On track (the healthy zone) |
-| 60–79 | Review (something needs attention) |
-| Under 60 | Needs work now |
+| 70–79 | Review (something needs attention) |
+| Under 70 | Needs work now |
+
+Industry practice backs these lines: the widely used advisor "confidence zone" runs 70–90%, and a plan below 70% has a real risk of shortfall. Above 95% usually means over-saving.
 
 **The date says when. The ring says how sturdy.** Read them together, always. Age 60 at 82% is a real answer; age 57 at 55% is a prettier date and a worse plan.
 
