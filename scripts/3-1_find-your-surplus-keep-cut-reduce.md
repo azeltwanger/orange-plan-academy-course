@@ -13,6 +13,8 @@ Back in 2022, Bitcoin dropped 77% from its peak. I watched my own net worth drop
 
 Let's walk through an example. Let's say that we have a couple in Texas. He's 45, she's 43, and they have two kids. Their year is going to walk like this.
 
+🎬 GRAPHIC: the surplus walk as a descending bar. $190,000 gross → minus $40,000 taxes → minus $80,000 living → minus $22,000 debt → $48,000/yr surplus ($4,000/mo) highlighted at the bottom. Build one step at a time as I say each number.
+
 They're bringing in $190,000 of gross income. Taxes are going to take about $40,000 of that, and that's federal and payroll only, because Texas doesn't have a state income tax. Their living expenses are $80,000 a year. And then their debt payments, which is their mortgage plus their car, are $22,000. When you subtract all of that from what came in, you're left with $48,000 a year, which is about $4,000 a month.
 
 That $4,000 a month is their surplus, and it's the budget that every other decision in this course has to work with. Until you've run this on your own numbers, your plan is running on a guess.

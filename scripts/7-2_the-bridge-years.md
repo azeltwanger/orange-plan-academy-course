@@ -9,6 +9,8 @@ The gap lesson showed you that the gap is biggest in the early years. These are 
 
 == THE TIMELINE ==
 
+🎬 GRAPHIC: a horizontal timeline with 3 markers. Retirement day (paycheck stops) → 59½ (retirement accounts unlock) → Social Security start (floor rises). Shade the stretch between retirement and Social Security and label it THE BRIDGE.
+
 Your income floor doesn't arrive all at once. There are three milestones, and the table on the screen lays them out.
 
 The first milestone is retirement day. The paycheck stops, and from that day the portfolio covers the entire gap.

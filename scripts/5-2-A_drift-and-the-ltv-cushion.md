@@ -7,6 +7,8 @@ In today's lesson, we're going to cover the two dynamics that make a Bitcoin bal
 
 == YOUR DTA MOVES WITH BITCOIN ==
 
+🎬 GRAPHIC (the most important visual in this module): Bitcoin price line falling 75% across the screen while the LTV bar climbs from 25% toward 100%. Draw the margin-call line and the liquidation line as fixed horizontal marks, so the viewer watches the LTV cross them. This single animation IS the lesson.
+
 The first dynamic is that your debt-to-assets ratio doesn't sit still. It moves with the Bitcoin price, and it moves against you emotionally in both directions.
 
 When Bitcoin is up, your DTA drops. Room opens up on the balance sheet, you feel safe, and you start wanting to borrow more. And that feeling usually shows up right near the top.

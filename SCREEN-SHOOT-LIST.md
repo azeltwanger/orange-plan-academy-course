@@ -108,7 +108,7 @@ Before the first segment: seed the demo account with the couple's canonical numb
 
 ---
 
-## ☐ Segment 5.4-B — Every debt gets a job
+## ☐ Segment 5.5-B — Every debt gets a job
 *app section only (A-roll filmed separately) · ~4 min capture (plus retakes)*
 
 **Beats (tick as you capture):**
@@ -118,7 +118,7 @@ Before the first segment: seed the demo account with the couple's canonical numb
 
 ---
 
-## ☐ Segment 5.5 — Check your work
+## ☐ Segment 5.6 — Check your work
 *entire lesson · ~4 min capture (plus retakes)*
 
 **Beats (tick as you capture):**

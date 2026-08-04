@@ -13,6 +13,8 @@ First, why the standard approach breaks.
 
 While you're saving, the order of your returns barely matters. Only the average does. But the day you retire and start withdrawing, that flips. A bad year early costs you far more than the same bad year late, even at an identical average. This is called sequence-of-returns risk, and a fixed withdrawal rule is completely blind to it.
 
+🎬 GRAPHIC: two portfolio lines from the same starting value. One takes its bad years early and never recovers; the other takes them late and survives. Same average return, different order.
+
 Picture two retirees. Same starting portfolio, same spending, same 30-year average return. One thrives, and one runs out of money. The only difference is that one got the bad years late and the other got them first. Because selling more shares at low prices to fund the same spending permanently removes those shares, and they're not there for the recovery.
 
 The classic 4% rule takes the same inflation-adjusted dollars out every year no matter what. That's fine on a portfolio that moves 10 or 15% in a bad year. Point it at an asset that can drop 60%, and the rule itself becomes the risk.

@@ -7,6 +7,8 @@ In today's lesson, we're going to cover the access split, which divides the abil
 
 Here's what this buys you, and it's two things at once. Nobody can take your Bitcoin on their own, including somebody you trust who gets pressured or makes a bad decision. And nothing is lost if one person disappears, because the other piece still exists. Most setups give you one of those. The split gives you both.
 
+🎬 GRAPHIC: two boxes side by side. LEFT: seed phrase, held by heirs, with a padlock still closed. RIGHT: passphrase, held by executor, also closed. Then slide them together and the padlock opens. Neither alone does anything.
+
 Either piece on its own is useless. Only the two together can move the Bitcoin. The heirs hold one piece, and your executor holds the other.
 
 == WHY BOTH SIMPLE OPTIONS FAIL ==

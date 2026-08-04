@@ -1,4 +1,4 @@
-# WALKTHROUGH 5.5 — check your work (screen share)
+# WALKTHROUGH 5.6 — check your work (screen share)
 
 **One session, one lap (~4 min capture)** — Module 4's read-back. No new inputs.
 

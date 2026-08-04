@@ -38,8 +38,9 @@ Work top to bottom. Every lesson is one row; each row tells you exactly what to 
 - [ ] **5.1 Defense: tolerance first, then the two ratios** — 🎙 PROMPTER `scripts/5-1-A_defense-tolerance-first-then-the-two-rat.md` **then** 🖥 CAPTURE segment `5.1-B` (shoot list) → edit together
 - [ ] **5.2 Drift and the LTV cushion** — 🎙 PROMPTER `scripts/5-2-A_drift-and-the-ltv-cushion.md` **then** 🖥 CAPTURE segment `5.2-B` (shoot list) → edit together
 - [ ] **5.3 Offense: the four debt plays** — 🎙 PROMPTER `scripts/5-3-A_offense-the-four-debt-plays.md` **then** 🖥 CAPTURE segment `5.3-B` (shoot list) → edit together
-- [ ] **5.4 Every debt gets a job** — 🎙 PROMPTER `scripts/5-4-A_every-debt-gets-a-job.md` **then** 🖥 CAPTURE segment `5.4-B` (shoot list) → edit together
-- [ ] **5.5 Check your work** — 🎙 PROMPTER `scripts/5-5_WALKTHROUGH_check-your-work.md` · 🖥 CAPTURE segment `5.5` (shoot list)
+- [ ] **5.4 Bitcoin-backed loans: how they actually work** — 🎙 PROMPTER `scripts/5-4_bitcoin-backed-loans-how-they-work.md`
+- [ ] **5.5 Every debt gets a job** — 🎙 PROMPTER `scripts/5-5-A_every-debt-gets-a-job.md` **then** 🖥 CAPTURE segment `5.5-B` (shoot list) → edit together
+- [ ] **5.6 Check your work** — 🎙 PROMPTER `scripts/5-6_WALKTHROUGH_check-your-work.md` · 🖥 CAPTURE segment `5.6` (shoot list)
 
 ## Module 5 — Tax
 

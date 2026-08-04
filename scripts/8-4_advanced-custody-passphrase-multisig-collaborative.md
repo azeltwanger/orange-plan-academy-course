@@ -24,6 +24,8 @@ A passphrase that you make up yourself is the weak point of the whole setup. Hum
 
 What I want you to use is 7 random words, picked from a wordlist by rolling dice or by a generator running offline. This is called the diceware method, and a good password manager can do it for you too, with the device offline. The key word is random. The tool picks the words, not you.
 
+🎬 GRAPHIC: 7 dice-drawn words appearing one at a time, with the combination count multiplying beside them (7,776 → 60M → 470B → …). End on "~90 bits of entropy" and "millions of years at a trillion guesses per second."
+
 Here's why 7 is the number. Every word that gets drawn at random from the standard wordlist multiplies the number of guesses an attacker needs by about 7,776, because that's how many words are on the list. By the time you're at 7 words, you're at roughly 90 bits of entropy, which works out to more combinations than a machine guessing a trillion times per second could get through in millions of years. 4 or 5 words is where "pretty good" lives. I think 7 is the floor for money that has to stay safe forever.
 
 A few nevers while we're here. Never personal facts, never quotes or lyrics, never an address or a pet's name, and never a password that you already use somewhere else. The test is simple: if it means something to you, it's guessable.

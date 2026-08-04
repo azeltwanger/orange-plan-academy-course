@@ -21,6 +21,8 @@ The amount is your account balance divided by an IRS life-expectancy divisor. An
 
 == THE COUPLE'S FUTURE RMD ==
 
+🎬 GRAPHIC: traditional-account balance growing left to right, hitting a wall labeled AGE 73, and a forced-withdrawal arrow pulling out of it that gets BIGGER every year after. The escalation is the point.
+
 Let's build the couple's future RMD so you can see it coming.
 
 They're putting $12,000 a year into the 401(k), plus the employer match, which is 50% up to 6% of a $150,000 salary, so $4,500. That's $16,500 a year going in.

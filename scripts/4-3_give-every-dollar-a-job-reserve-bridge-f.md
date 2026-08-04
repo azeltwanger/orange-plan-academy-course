@@ -7,6 +7,8 @@ In today's lesson, we're going to cover the 3 buckets that give every dollar you
 
 Here's the problem this solves. Most people have one big pile of money and one vague feeling about it. So when the market drops, every dollar feels at risk, including the dollars they won't touch for 30 years. Giving each dollar a job is what lets you stop worrying about the long-term money during a bad month, because you already know you're not spending it.
 
+🎬 GRAPHIC: three labeled containers side by side. Reserve (0-2 yrs, cash) · Bridge (2-10 yrs, mixed) · Legacy (10+ yrs, Bitcoin). Show a time axis underneath so the timeframe is obvious.
+
 Every dollar sits in one of 3 buckets, and the bucket tells you three things: what that money is for, how it should behave, and where it should sit.
 
 == THE 3 BUCKETS ==

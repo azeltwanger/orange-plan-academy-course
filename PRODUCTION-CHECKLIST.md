@@ -59,9 +59,10 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 5.1 Defense: the two ratios — 🎙 film `5-1-A` → 🖥 capture `5.1-B`
 ☐ 5.2 Drift + LTV cushion — 🎙 film `5-2-A` → 🖥 capture `5.2-B`
 ☐ 5.3 Offense: the four plays — 🎙 film `5-3-A` → 🖥 capture `5.3-B`
-☐ 5.4 Every debt gets a job — 🎙 film `5-4-A` → 🖥 capture `5.4-B`
-☐ 5.5 Check your work — 🖥 capture `5.5`
-☐ Module 4: edit A+B pairs → upload → paste lesson text (5-1 … 5-5)
+☐ 5.4 Bitcoin-backed loans: how they work — 🎙 film `5-4` (~11 min; LTV animation is the key graphic)
+☐ 5.5 Every debt gets a job — 🎙 film `5-5-A` → 🖥 capture `5.5-B`
+☐ 5.6 Check your work — 🖥 capture `5.6`
+☐ Module 4: edit A+B pairs → upload → paste lesson text (5-1 … 5-6)
 
 ## ☐ MODULE 5 — Tax
 

@@ -9,6 +9,8 @@ In today's lesson, we're going to cover the two checks that keep your allocation
 
 The stress test answers one question: is the allocation you picked one that you could actually live through?
 
+🎬 GRAPHIC: a portfolio value bar dropping 75%, with the DOLLAR figure counting down beside it (not the percentage). The point is that the dollar number is what people feel. Hold on the final number for 3 seconds.
+
 The reason you run it now is that it moves the decision to a day when you're calm. You do not want to be figuring out your risk tolerance for the first time in the middle of a crash.
 
 == A 70 TO 80% DRAWDOWN IS THE NORMAL CASE ==

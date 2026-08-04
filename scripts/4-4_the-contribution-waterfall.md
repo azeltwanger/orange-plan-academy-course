@@ -9,6 +9,8 @@ You have a surplus from the cash flow module, and you have buckets from the last
 
 == THE STANDARD WATERFALL ==
 
+🎬 GRAPHIC: a literal waterfall of 6 rungs. Water fills the top rung and only spills to the next once it's full. Label each rung as I name it.
+
 There are six rungs, and the table on the screen has all of them. Let me walk you down the ladder.
 
 Rung 1 is your employer match, in your 401(k) or something similar. This is first because it's a 50 to 100% instant return on the money. Nothing else you can do with a dollar gets close to that. If your match is 50% up to 6% of pay, you contribute 6%. Not 5%, not 3%. Six. Anything less is leaving free money on the table.

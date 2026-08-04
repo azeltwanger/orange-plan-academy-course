@@ -1,4 +1,4 @@
-TELEPROMPTER SCRIPT — segment 5.4-A
+TELEPROMPTER SCRIPT — segment 5.5-A
 5.4 Every debt gets a job
 ~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 5.4-B)
 ============================================================
