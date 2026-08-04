@@ -105,8 +105,10 @@ The next lesson covers the three tax buckets and how to plan across them.
 > ✅ The `u0027` text Austin saw on screen was the interim state of the checklist
 > repair — already fixed; refresh.
 >
-> ⚠ 2026 figures to verify before filming (item 11): ~$31,400 standard
-> deduction, ~$128,000 0% LTCG ceiling, bracket thresholds.
+> ✅ **Evergreen policy (Austin, 2026-08-04) replaces item 11.** Do NOT update
+> these figures each year. The text already frames them as tilde-marked
+> snapshots ("move every year… run with current figures"). On camera, say the
+> frame line and never read a threshold as a fact — the app shows current law.
 >
 > 📌 **Item 14 evidence:** the planned lesson "State taxes and relocation: a big
 > lever" was folded in here as "the state lever" section.
@@ -269,8 +271,9 @@ The residency test that matters is your country's, not the US's. Days present, t
 
 > ⚠ RMD ages need checking against 2026 rules before filming.
 
-> ⚠ 2026 figures to verify (item 11): RMD age 73, divisor ~26.5, deduction
-> ~$31,400, 12% bracket math.
+> ✅ **Evergreen policy (Austin, 2026-08-04) replaces item 11.** Figures here
+> are already snapshot-framed ("Currently 73 — verify in the year it applies").
+> Don't re-verify per year; don't state them as durable facts on camera.
 
 *This lesson is US-specific. Non-US notes at the end.*
 

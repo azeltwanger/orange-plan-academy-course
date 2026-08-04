@@ -540,7 +540,7 @@ Enter your current reality only. The optimized routing is Module 3's job. The ap
 
 Heading: **Expected Social Security**.
 
-- **Your monthly amount at Full Retirement Age.** The field pre-fills a placeholder. Helper: *"Check ssa.gov/myaccount for your estimate. The average is ~$1,900/mo."*
+- **Your monthly amount at Full Retirement Age.** The field pre-fills a placeholder, and the helper text points you to **ssa.gov/myaccount** for your estimate.
 - **Opt-out.** The **I don't expect to receive Social Security** option exists if you're planning without it.
 - **When will you start Social Security?** Three cards: **62 Early (~30% less)**, **67 Full (100% benefit)**, **70 Max (~24% more)**.
 - **Spouse's amount and start age.** Same three-card choice.
@@ -1657,7 +1657,7 @@ $4,000/mo surplus routes:
 | 401(k) | $1,000/mo | Captures full 50%-up-to-6% match ($12,000/yr) |
 | High-interest debt | — | None |
 | HSA | $300/mo | Building the medical Legacy fund |
-| Roth IRA | $583/mo | Maxing $7,000/yr |
+| Roth IRA | $583/mo | Maxing the year's IRA limit ($7,000 when they ran it) |
 | Traditional | — | Skip for now |
 | Bitcoin + taxable | ~$2,117/mo | Split between Bridge and Legacy |
 
@@ -2688,8 +2688,10 @@ The next lesson covers the three tax buckets and how to plan across them.
 > ✅ The `u0027` text Austin saw on screen was the interim state of the checklist
 > repair — already fixed; refresh.
 >
-> ⚠ 2026 figures to verify before filming (item 11): ~$31,400 standard
-> deduction, ~$128,000 0% LTCG ceiling, bracket thresholds.
+> ✅ **Evergreen policy (Austin, 2026-08-04) replaces item 11.** Do NOT update
+> these figures each year. The text already frames them as tilde-marked
+> snapshots ("move every year… run with current figures"). On camera, say the
+> frame line and never read a threshold as a fact — the app shows current law.
 >
 > 📌 **Item 14 evidence:** the planned lesson "State taxes and relocation: a big
 > lever" was folded in here as "the state lever" section.
@@ -2852,8 +2854,9 @@ The residency test that matters is your country's, not the US's. Days present, t
 
 > ⚠ RMD ages need checking against 2026 rules before filming.
 
-> ⚠ 2026 figures to verify (item 11): RMD age 73, divisor ~26.5, deduction
-> ~$31,400, 12% bracket math.
+> ✅ **Evergreen policy (Austin, 2026-08-04) replaces item 11.** Figures here
+> are already snapshot-framed ("Currently 73 — verify in the year it applies").
+> Don't re-verify per year; don't state them as durable facts on camera.
 
 *This lesson is US-specific. Non-US notes at the end.*
 
@@ -5666,7 +5669,7 @@ Rows in order:
 | 4 | **Federal estate tax** | With the exemption comparison as sub-caption |
 | 5 | **After-tax estate** | The number that reaches heirs |
 
-⚠ **The exemption line is the Federal row's sub-caption.** It reads either *"under exemption at current law"* or *"over the $15M exemption at current law."* Point at it; don't repeat the number.
+⚠ **The exemption line is the Federal row's sub-caption.** It reads either *"under exemption at current law"* or *"over the {amount} exemption at current law."* Point at it; don't repeat the number.
 
 Controls below the ledger: **"State of residence"** and **"Heir marginal rate."** Set both before you read the number aloud.
 

@@ -21,7 +21,7 @@ Lesson types — this drives the whole shooting plan:
   - Debt: $280,000 mortgage @3.25% + $18,000 car @7% → DTA 40%, DTI ~12%
   - Assets: $175k BTC (1.75 BTC) + $90k funds + $30k cash + $450k house = $745,000
   - Retirement-era demo (Modules 6+): $80,000 spending · $120,000 reserve (18 mo) · $400K taxable BTC · $600K traditional · $200K Roth · SS $51,600/yr ($4,300/mo)
-- [ ] **Verify 2026 figures before filming Modules 5 and 8** (item 11): federal brackets, RMD ages, estate exemption. The scripts deliberately never speak the estate exemption aloud — the screen carries it — but the app must show current numbers.
+- [x] **Evergreen numbers policy (replaces the old item 11).** The course must outlive the tax year, so: (1) never speak a law-set number (bracket, limit, exemption, RMD age) as a fact — the scripts are already written this way; (2) worked-example figures are tilde-marked snapshots with a "these move every year" frame — leave them, say the frame; (3) when a law number is on screen during capture, don't zoom or dwell, and refer to it as "the current number the app shows." The app updates with the law; the video doesn't have to.
 - [ ] **Decide the lesson renames** (item 20 — plain-language v2 titles are drafted and awaiting your go). Film with FINAL titles; renaming after filming means re-recording intros.
 - [ ] **Decide the 3.3 rebuild** (item 18 — Life-Events checklist redesign is spec'd, 3 questions open). If you're rebuilding it, do it before filming Module 2.
 - [x] **Retirement Income page push** — LANDED (commit 073fdf0, 2026-07-29). Walkthrough 7.7 Step 5 and lesson 7.4's app pointer rewritten against the new UI and re-verified.

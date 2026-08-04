@@ -423,7 +423,7 @@ Enter your current reality only. The optimized routing is Module 3's job. The ap
 
 Heading: **Expected Social Security**.
 
-- **Your monthly amount at Full Retirement Age.** The field pre-fills a placeholder. Helper: *"Check ssa.gov/myaccount for your estimate. The average is ~$1,900/mo."*
+- **Your monthly amount at Full Retirement Age.** The field pre-fills a placeholder, and the helper text points you to **ssa.gov/myaccount** for your estimate.
 - **Opt-out.** The **I don't expect to receive Social Security** option exists if you're planning without it.
 - **When will you start Social Security?** Three cards: **62 Early (~30% less)**, **67 Full (100% benefit)**, **70 Max (~24% more)**.
 - **Spouse's amount and start age.** Same three-card choice.

@@ -1768,3 +1768,47 @@ didn't — only by convention. Two changes:
 
 Segment IDs: lesson number for full-lesson captures (e.g. 6.5), {n}-B for
 hybrid app tails (e.g. 5.1-B; the matching A-roll is {n}-A).
+
+
+---
+
+## 34. Evergreen-numbers policy (Austin, 2026-08-04) — CLOSES item 11
+
+Austin's rule: the course must not show current-year numbers so it lasts into
+next year. Full sweep of the master for year-pegged figures:
+
+**Already compliant (by design):** scripts never speak a law-set number; 6.2
+and 6.3 frame all bracket/deduction/RMD figures as tilde-marked snapshots with
+"these move every year" language; 7.2/7.3 use "verify current law" phrasing;
+9.6 bans speaking the exemption aloud.
+
+**Four leaks found and fixed (master + Honen + scripts):**
+1. 2.4 quoted the app's SS helper including "~$1,900/mo" average → course text
+   now says the helper points to ssa.gov/myaccount, no figure.
+2. 4.4 "Maxing $7,000/yr" (the IRA limit, law-set) → "Maxing the year's IRA
+   limit ($7,000 when they ran it)" — arithmetic chain ($583/mo → $2,117
+   remainder) intact, figure framed as a snapshot.
+3. 9.6 quoted the app sub-caption with "$15M" baked in → "{amount}".
+4. The two item-11 "verify 2026 figures before filming" flags → replaced with
+   the policy: DON'T re-verify yearly; figures stay as framed snapshots.
+
+**Policy now in FILMING-CHECKLIST (Phase 0) and SCREEN-SHOOT-LIST (header):**
+never speak a law-set number as fact; keep snapshot framing on worked
+examples; on screen captures never zoom/dwell on a law number — call it "the
+current number the app shows." The app updates with the law; the video doesn't
+have to.
+
+**🐞 APP BUG flagged (not fixed here — orange-plan repo, product decision):**
+`src/components/onboarding/steps/SocialSecurityStep.jsx:268` hard-codes
+"The average is ~$1,900/mo." in onboarding helper copy. That static string
+ages in the APP exactly the way Austin doesn't want the videos to. Suggest
+removing the average or sourcing it from a maintained constant.
+
+## 35. Filming rhythm confirmed (Austin, 2026-08-04)
+
+One module at a time, chronologically. Per module: sitting 1 = all
+teleprompter A-roll for the module back-to-back (talk lessons + hybrid -A
+segments); sitting 2 = the module's screen captures in shoot-list order
+(walkthrough/check lessons + hybrid -B segments). Hybrids were designed for
+exactly this split-and-edit-together flow. App state carries forward module to
+module, which matches chronological order by construction.

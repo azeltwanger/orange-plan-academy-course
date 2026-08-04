@@ -346,7 +346,7 @@ $4,000/mo surplus routes:
 | 401(k) | $1,000/mo | Captures full 50%-up-to-6% match ($12,000/yr) |
 | High-interest debt | — | None |
 | HSA | $300/mo | Building the medical Legacy fund |
-| Roth IRA | $583/mo | Maxing $7,000/yr |
+| Roth IRA | $583/mo | Maxing the year's IRA limit ($7,000 when they ran it) |
 | Traditional | — | Skip for now |
 | Bitcoin + taxable | ~$2,117/mo | Split between Bridge and Legacy |
 

@@ -852,7 +852,7 @@ Rows in order:
 | 4 | **Federal estate tax** | With the exemption comparison as sub-caption |
 | 5 | **After-tax estate** | The number that reaches heirs |
 
-⚠ **The exemption line is the Federal row's sub-caption.** It reads either *"under exemption at current law"* or *"over the $15M exemption at current law."* Point at it; don't repeat the number.
+⚠ **The exemption line is the Federal row's sub-caption.** It reads either *"under exemption at current law"* or *"over the {amount} exemption at current law."* Point at it; don't repeat the number.
 
 Controls below the ledger: **"State of residence"** and **"Heir marginal rate."** Set both before you read the number aloud.
 
