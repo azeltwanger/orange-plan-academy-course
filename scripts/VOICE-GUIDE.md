@@ -41,6 +41,19 @@ Every script conversion is checked against this, not against "good writing."
 - Abstract nouns doing the work ("the drag costs the plan"). Austin says who
   does what: "that money just sits there losing to inflation."
 
+## Lesson openers (Austin, 2026-08-04)
+
+This is a PAID course, not YouTube. No hooks, no stakes-selling, no "imagine
+if" openers — students already bought in, and re-selling them wastes their
+time. Every lesson opens with 1–2 sentences of plain orientation:
+
+  "In this lesson we're going to [do the thing]. By the end you'll have
+  [the concrete output]. Let's get into it."
+
+Then teach. The why-it-matters material (stories, failure scenarios) stays in
+the lesson BODY as teaching content, never dressed as an opener. Don't recite
+the outcomes checklist on camera — it renders on the lesson page already.
+
 ## Tables (hard rule — Austin, 2026-08-04)
 
 A teleprompter cannot render a table. Scripts contain ZERO tables. Whatever a
