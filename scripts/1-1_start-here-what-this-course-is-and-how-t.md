@@ -15,7 +15,7 @@ You get one life. And most people are going to work their entire life for maybe 
 
 == WHY I BUILT THIS ==
 
-I spent years working in finance, and honestly, I got jaded with how the industry worked. Overpriced advice to manage index funds and bonds, and commissions on insurance products that clients didn't need.
+I spent years working in finance, and I got jaded with how the industry worked. Overpriced advice to manage index funds and bonds, and commissions on insurance products that clients didn't need.
 
 When I found Bitcoin, it solved the investment side for me. But it created a new problem. I was checking the price 20 times a day. I was stressed on the down days and euphoric on the up days. Holding a significant portion of my net worth in Bitcoin was way harder than it needed to be.
 
@@ -47,7 +47,7 @@ I think a module a week is a good pace when you're starting. I wouldn't binge th
 
 == ONE THING BEFORE WE START ==
 
-Before we go any further, I want to be clear about what this course is and what it isn't.
+One thing before we start, about what this course is and what it isn't.
 
 This is education. It is not financial, tax, or legal advice, and me teaching it does not make me your advisor. Everything in here is general. It's the same course for everybody watching it, and I don't know your situation, your full balance sheet, or what else is going on in your life.
 

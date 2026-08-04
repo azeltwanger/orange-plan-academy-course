@@ -25,7 +25,7 @@ I had a client put it better than I did. He said, it's the same amount of cash, 
 
 So on top of picking the right years, which is what the bracket lesson covered, you're also picking the right prices. And a deep bear market is when this move is on sale.
 
-Now, I want to be careful here, because I'm not telling you to try to time the bottom. Nobody knows where the bottom is. What I am saying is that if Bitcoin is well off its highs and you were already planning conversions, that's a much better moment to do one than a moment when the price just made a new high.
+But I'm not telling you to try to time the bottom. Nobody knows where the bottom is. What I am saying is that if Bitcoin is well off its highs and you were already planning conversions, that's a much better moment to do one than a moment when the price just made a new high.
 
 == WHAT AN RMD IS ==
 

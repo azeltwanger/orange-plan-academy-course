@@ -32,7 +32,7 @@ One Saturday: move ~$1,000 into the passphrase wallet → spouse restores the se
 1. **Split two different objects, never one object in two pieces.** Half a seed weakens the wallet; a seed separated from a passphrase strengthens it.
 2. **Pick people who don't share a household, a safe, or a bad week.** Two halves in one house is one location.
 3. **Choose reliability over technical skill.** The process is written down; they mainly need to follow it and be findable.
-4. **Plan as if one might go wrong.** Neither half is worth anything alone, which is the point.
+4. **Plan as if one might go wrong.** Neither half is worth anything alone, which is what protects you.
 
 ## Homework
 

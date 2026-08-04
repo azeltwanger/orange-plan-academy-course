@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 8.1
 8.1 Custody: the 5 questions and choosing your level
-~15 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~14 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover custody: the 5 questions that expose your gaps, and how to choose the right custody level for your family.
@@ -21,7 +21,7 @@ Let's run a typical Bitcoin household through them. He's 45, she's 43, two kids,
 
 Where is it held? They can answer that cold. Check. What type of custody? One hardware wallet, one exchange account, no passphrase. They know that too. Check. Who knows what to do? He does. She has never touched the device. That's a miss. What happens if he's unavailable? Nothing. Nobody can do anything. That's a miss. And where are the single points of failure? They've never even asked the question. Miss.
 
-So that's two out of five. And I want to be clear: that's a normal Bitcoin household, not a careless one. The value of the score is that it turns a vague worry into three specific jobs.
+So that's 2 out of 5. And that's a normal Bitcoin household, not a careless one. The value of the score is that it turns a vague worry into three specific jobs.
 
 == NAME THE JOB BEFORE YOU PICK THE SETUP ==
 
@@ -51,7 +51,7 @@ There are 4 levels.
 
 Level 1 is a hardened exchange or broker. This is for a small stack, or while you're still learning. The setup is a strong password, app-based two-factor, a secured email account, and withdrawal delays turned on. And I want to stress the word hardened, not neglected. A small stack on a locked-down exchange is a legitimate setup.
 
-Level 2 is the hardware wallet, and it's the default destination once a stack becomes meaningful. The seed stays offline, you send a test transaction first, you prove the wipe-and-restore, and the backup goes on steel. What Level 2 buys you is the removal of freeze risk. What it hands you in exchange is maintenance. That's the trade.
+Level 2 is the hardware wallet, and it's the default destination once a stack becomes meaningful. The seed stays offline, you send a test transaction first, you prove the wipe-and-restore, and the backup goes on steel. Level 2 removes the freeze risk, and in exchange it hands you the maintenance.
 
 Level 3 is a passphrase plus split access. This is for when the stack matters to more than just you. It's a hardened single-sig with a passphrase, a process your spouse or executor can actually follow, and an annual review. The split is what makes the setup survivable without you.
 
@@ -87,7 +87,7 @@ He said: with self-custody, you are the point of failure. And not just the failu
 
 And Bitcoin asks you to take one of those jobs back.
 
-I think that's worth sitting with, because it explains why custody feels heavier than the rest of this course. It isn't just another checkbox. It's you accepting a responsibility that, for every other asset you own, somebody else carries for you.
+I think that's right, and it explains why custody feels heavier than the rest of this course. It isn't just another checkbox. It's you accepting a responsibility that, for every other asset you own, somebody else carries for you.
 
 Two things follow from that.
 

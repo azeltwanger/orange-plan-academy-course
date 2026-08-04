@@ -19,7 +19,7 @@ Tier three is your retirement accounts, the Roth and the tax-deferred money.
 
 And tier four is RMDs and loan proceeds, which is the last resort.
 
-Every year's paycheck gets assembled top-down, and the further down you reach, the more deliberate that choice should be. This is the default order most financial advisors will give you, and honestly, it gets you 80% of the way there before any real tax planning happens.
+Every year's paycheck gets assembled top-down, and the further down you reach, the more deliberate that choice should be. This is the default order most financial advisors will give you, and it gets you 80% of the way there before any real tax planning happens.
 
 == WHERE THE STRICT ORDER BREAKS ==
 
@@ -51,7 +51,7 @@ Compare the two after 5 years. The strict order left the traditional account unt
 
 Here's the good news: the engine's default withdrawal behavior in Orange Plan is exactly this bracket fill, year by year. And if you want to steer it deliberately, the Income page has a withdrawal order control with custom phases, where you set a phase's rule to bracket-aware and pick the bracket ceiling. We'll run that in the walkthrough.
 
-One thing I want to be clear on: whatever split bracket-fill produces for you is your split. It depends on your spending, your basis, your bracket room, and your balances. Don't copy someone else's ratio. And execution is a conversation with your CPA on your actual numbers, because the thresholds move every year. The question to bring them is: am I leaving low brackets empty?
+And whatever split bracket-fill produces for you is your split. It depends on your spending, your basis, your bracket room, and your balances. Don't copy someone else's ratio. And execution is a conversation with your CPA on your actual numbers, because the thresholds move every year. The question to bring them is: am I leaving low brackets empty?
 
 == DRAW AND REFILL ==
 

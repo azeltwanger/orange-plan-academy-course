@@ -9,7 +9,7 @@ Here's why this matters more than it sounds. Your family isn't going to be at th
 
 The heir letter is a plain-language document written to the people who survive you. It tells them who to call, in what order, what exists, where the paperwork is, and what not to do in the first week.
 
-Here's the thing to hold in mind while you write it: your family will read this letter on one of the worst days of their lives, and people in that state aren't going to be thinking clearly. So the letter's job is to make the first hour a set of instructions to follow instead of decisions to make.
+The thing to hold in mind while you write it is that your family will read this letter on one of the worst days of their lives, and people in that state aren't going to be thinking clearly. So the letter's job is to make the first hour a set of instructions to follow instead of decisions to make.
 
 == THE RULE THAT GOVERNS EVERYTHING IN IT ==
 

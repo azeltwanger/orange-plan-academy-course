@@ -80,6 +80,12 @@ abstractions. When guide and dictation disagree, the dictation wins.
   land rather than to inform, cut it and put the missing FACT there instead.
   (Caught 2026-08-04: "The bill doesn't go away, it just changes whose name is on
   it" replaced with the 10-year rule and why heirs often pay a higher rate.)
+- **Filler openers Austin never says.** Verified against 3 client-call
+  transcripts (2026-08-04): he uses **so / but / and then / because / I think /
+  let me / I mean**. He has ZERO instances of "here's the thing," "I want to be
+  clear," "and honestly," "to be honest," "the truth is," "at the end of the
+  day," "make no mistake." If a sentence opens with one of those, it was
+  written by an AI, not spoken by Austin. Cut it and start with the fact.
 - **Reassurance couplets** ("that isn't a character flaw, it's information").
 - Abstract nouns doing the work ("the drag costs the plan"). Austin says who
   does what: "that money just sits there losing to inflation."

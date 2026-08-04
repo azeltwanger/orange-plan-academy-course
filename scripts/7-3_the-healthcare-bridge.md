@@ -17,7 +17,7 @@ I'd call COBRA the bridge to the bridge. It's a first-year option while you sort
 
 The first real path is the ACA marketplace, and it's the default for most early retirees.
 
-The plans come in metal tiers, and here's the thing to understand: the tiers are cost-sharing levels, not quality levels. Bronze has the lowest premium and the highest deductible, and it may pair with an HSA. Silver is the middle, and it's the benchmark tier that subsidies get calculated against, with extra cost-sharing help at lower incomes. Gold has a higher premium and lower out-of-pocket, and it wins if you actually use a lot of care.
+The plans come in metal tiers, and those tiers are cost-sharing levels, not quality levels. Bronze has the lowest premium and the highest deductible, and it may pair with an HSA. Silver is the middle, and it's the benchmark tier that subsidies get calculated against, with extra cost-sharing help at lower incomes. Gold has a higher premium and lower out-of-pocket, and it wins if you actually use a lot of care.
 
 Now the part that matters for this course: almost nobody who plans well pays sticker price. There's a subsidy, and it scales with your income. Lower income means a bigger credit and a lower net premium. Higher income means a smaller credit, until you're paying sticker at the top.
 

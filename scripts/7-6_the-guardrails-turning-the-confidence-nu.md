@@ -21,7 +21,7 @@ The classic 4% rule takes the same inflation-adjusted dollars out every year no 
 
 Run it on the couple. They're 60, retired, with a $1,000,000 portfolio and $80,000 of spending. Bitcoin drops 60%, and the portfolio falls to $400,000. The fixed rule says sell $80,000 anyway. That's 20% of everything they have left, sold at the bottom. Recovery takes a couple of years, and the rule makes them do it again the next year.
 
-Here's the thing though: the whole problem lasts one to 3 years. That's the window. So what you need is a spending rule that flexes during exactly those years.
+But the whole problem only lasts 1 to 3 years. That's the window. So what you need is a spending rule that flexes during exactly those years.
 
 == THE 60/80/95 BANDS ==
 

@@ -5,7 +5,7 @@ TELEPROMPTER SCRIPT — segment 4.1
 
 In today's lesson, we're going to cover the four Bitcoin allocation tiers, and how to figure out which one you're actually in.
 
-Your allocation is just the share of your money that's in Bitcoin. But here's the thing that trips people up: that percentage changes depending on what you divide by. The same household can look aggressive or conservative without owning a single different coin.
+Your allocation is just the share of your money that's in Bitcoin. But the part that trips people up is that the percentage changes depending on what you divide by. The same household can look aggressive or conservative without owning a single different coin.
 
 == WHAT YOU DIVIDE BY ==
 

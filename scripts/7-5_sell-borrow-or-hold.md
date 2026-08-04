@@ -13,7 +13,7 @@ Each of the three tools costs something different, so I'm going to price each on
 
 The first tool is selling, and what you're buying with it is simplicity.
 
-They sell $80,000 of Bitcoin to cover the year. That sale splits into basis and gain: about $20,000 of basis, and about $60,000 of long-term gain. And here's the thing from the tax module: in a low-income year, that $60,000 of gain can land entirely in the 0% capital-gains bracket and cost almost nothing.
+They sell $80,000 of Bitcoin to cover the year. That sale splits into basis and gain: about $20,000 of basis, and about $60,000 of long-term gain. And from the tax module: in a low-income year, that $60,000 of gain can land entirely in the 0% capital-gains bracket and cost almost nothing.
 
 The upside is that 1 year of spending is handled, with no counterparty and no loan to manage. The downside is that the Bitcoin is gone. I think selling is best when spending is modest and simplicity is worth something to you in itself. And it often is.
 
@@ -55,7 +55,7 @@ And remember you can mix these. A sell year, a borrow year, and a hold-forever c
 
 == THE COMBINED MOVE: SELL TO THE BRACKET, BORROW ABOVE IT ==
 
-There's one more move, and it's the one that combines the first two. I want to go slow here, because when I explain this to clients, this is the exact spot where they ask me to back up.
+There's one more move, and it combines the first two. When I explain this to clients, this is the exact spot where they ask me to back up, so I'm going to build it one piece at a time.
 
 Here it is. In retirement, if you don't have much other income, you can sell a meaningful amount of Bitcoin and pay 0% on the gain, because long-term capital gains have a 0% bracket at the bottom. The app will show you your own number.
 

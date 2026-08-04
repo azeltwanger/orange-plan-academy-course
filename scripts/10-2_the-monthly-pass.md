@@ -33,7 +33,7 @@ Step five, they've got nothing to flag. And a note on flagging: flagging is not 
 
 Step six, the honest action count this month is zero. They close the plan. Done.
 
-And I want to be clear that this is the normal outcome. Most months, the honest answer is that nothing changed, and the pass exists to prove it.
+And that's the normal outcome. Most months, the answer is that nothing changed, and the pass exists to prove it.
 
 == WHY MONTHLY ==
 

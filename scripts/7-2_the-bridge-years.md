@@ -5,7 +5,7 @@ TELEPROMPTER SCRIPT — segment 7.2
 
 In today's lesson, we're going to cover the bridge years, which is the stretch between your last paycheck and your full income floor.
 
-The gap lesson showed you that the gap is biggest in the early years. These are those years. And I want to be direct about the stakes: most early-retirement plans that fail, fail here.
+The gap lesson showed you that the gap is biggest in the early years. These are those years. And most early-retirement plans that fail, fail here.
 
 == THE TIMELINE ==
 

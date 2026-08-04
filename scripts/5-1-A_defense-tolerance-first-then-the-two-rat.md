@@ -13,7 +13,7 @@ This module covers both sides. Defense, which is the debt structure that keeps y
 
 Before any math, I want to start with tolerance, because the math only sets a range. Your psychology decides where you sit inside that range.
 
-Here's the thing. Peace of mind is a real return, and it never shows up in a ratio. If you're carrying a debt level that keeps you up at night, you're probably going to abandon the plan in the middle of a drawdown, and abandoning the plan is a bigger risk than any interest rate.
+Peace of mind never shows up in a ratio, but it's real. If you're carrying a debt level that keeps you up at night, you're probably going to abandon the plan in the middle of a drawdown, and abandoning the plan is a bigger risk than any interest rate.
 
 So if carrying no debt at all is what lets you sleep, then I think that's the right answer for you, and the rest of this module still helps you decide what to clean up first. Just be honest with yourself about which one you actually have, because debt that annoys you and debt that keeps you up at night are two different problems with two different answers.
 

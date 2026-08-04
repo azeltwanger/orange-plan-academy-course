@@ -5,7 +5,7 @@ TELEPROMPTER SCRIPT — segment 5.4
 
 In today's lesson, we're going to cover Bitcoin-backed loans: how they actually work, how the numbers move, and what happens when they go wrong.
 
-This is the highest-stakes lesson in the whole course, so I'm going to take it slow and cover the entire mechanism before we get anywhere near whether you'd want one.
+This is the highest-stakes lesson in the course, so I'm going to cover the whole mechanism before we get anywhere near whether you'd want one.
 
 == WHAT A BITCOIN-BACKED LOAN ACTUALLY IS ==
 
@@ -45,7 +45,7 @@ The first is the margin call line. It's usually somewhere around 65 to 70% LTV, 
 
 The second is the liquidation line, usually around 80 to 85%. If you cross that, or if you don't fix a margin call in time, the lender sells your Bitcoin to bring the loan back in range. You don't get a vote.
 
-And the third is the release line, which is the good news, and honestly a lot of borrowers don't know it exists. If the price rises enough that your LTV drops well below where you started, a lot of lenders will release some of that collateral back to you, or let you request it.
+And the third is the release line, which is the good news, and a lot of borrowers don't know it exists. If the price rises enough that your LTV drops well below where you started, a lot of lenders will release some of that collateral back to you, or let you request it.
 
 == WHAT YOU CAN DO AT A MARGIN CALL ==
 

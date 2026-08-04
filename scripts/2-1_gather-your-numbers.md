@@ -29,7 +29,7 @@ The last one is cost basis, and this is the hardest one, so it's the one to star
 
 Cost basis is the price you paid for each asset. The app uses it to model your tax liability, and knowing what you actually paid for your Bitcoin can save you real money and give you an accurate picture of what you'll owe.
 
-Here's the thing. Balances and rates you can pull today. Basis lives in old exchange records and accounts you may have closed, and it gets harder to recover every year.
+Balances and rates you can pull today. Basis lives in old exchange records and accounts you may have closed, and it gets harder to recover every year.
 
 So for Bitcoin, go into every exchange you've ever used and download the transaction history. It's usually a CSV or an Excel file. And for your brokerage and retirement accounts, every brokerage has a transaction history export.
 

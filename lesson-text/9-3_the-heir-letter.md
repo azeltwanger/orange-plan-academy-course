@@ -12,7 +12,7 @@ The first thing your family reads on the day they need the plan: who to call, in
 >
 > "Don't move any Bitcoin, and don't talk to anyone who contacts you about it. Nobody legitimate will reach out to you first."
 
-A call order and a stop sign: the two things a grieving person can't invent on the spot. The people who target new widows and widowers show up fast and look helpful; slowing down a week costs nothing.
+A call order and a stop sign are the two things a grieving person can't invent on the spot. The people who target new widows and widowers show up fast and look helpful; slowing down a week costs nothing.
 
 ## The call order
 

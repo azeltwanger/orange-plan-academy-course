@@ -5,7 +5,7 @@ TELEPROMPTER SCRIPT — segment 8.2
 
 In today's lesson, we're going to cover the hardware wallet setup, and the recovery test that proves your backup actually works before serious money depends on it.
 
-Because here's the truth of this whole lesson: a seed backup is only as good as your ability to actually restore from it. And most people have never tested that.
+Because a seed backup is only as good as your ability to actually restore from it. And most people have never tested that.
 
 == WHERE YOUR BITCOIN ACTUALLY LIVES ==
 

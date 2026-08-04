@@ -63,7 +63,7 @@ The standard for this module is simple: you can answer all 4 questions out loud,
 
 Next habit: save one PDF per year, right after your annual review, while the data is fresh. Year in the filename, saved somewhere it will still exist in 10 years.
 
-Here's the thing about that document: it does its real work the second time you save one, when there are two of them side by side.
+That document does its real work the second time you save one, when there are two of them side by side.
 
 == THE YEAR-OVER-YEAR RE-READ ==
 
