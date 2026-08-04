@@ -78,6 +78,18 @@ abstractions. When guide and dictation disagree, the dictation wins.
 - Abstract nouns doing the work ("the drag costs the plan"). Austin says who
   does what: "that money just sits there losing to inflation."
 
+## Teach-lesson closings + walkthrough hand-off (Austin, 2026-08-04)
+
+Teach scripts may MENTION the app while teaching, but never walk clicks — the
+clicking lives in the walkthrough video. Every teach lesson that has an app
+component ends with an explicit hand-off, as the last homework item:
+
+  "...and then watch the walkthrough below this video, where I'll show you
+  exactly how to set this up in Orange Plan."
+
+Austin assembles the course with the walkthrough video embedded below the
+lesson video, so "below this video" is literal.
+
 ## Lesson openers (Austin, 2026-08-04)
 
 This is a PAID course, not YouTube. No hooks, no stakes-selling, no "imagine
