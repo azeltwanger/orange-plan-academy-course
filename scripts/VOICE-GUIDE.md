@@ -41,6 +41,16 @@ Every script conversion is checked against this, not against "good writing."
 - Abstract nouns doing the work ("the drag costs the plan"). Austin says who
   does what: "that money just sits there losing to inflation."
 
+## Tables (hard rule — Austin, 2026-08-04)
+
+A teleprompter cannot render a table. Scripts contain ZERO tables. Whatever a
+table says, the script SPEAKS it as sentences in the flow ("for most
+households, 6 months is the baseline; single income or variable pay, 12 or
+more") and may reference the on-screen graphic ("the table on the screen gives
+you the range"). If the table's cells matter to the edit, a compact copy may
+sit BELOW the spoken paragraph fenced as "REFERENCE — do not read". Never
+above, never instead of the spoken read.
+
 ## Conversion rule of thumb
 
 Take the lesson's idea, then ask: how would a financial planner explain this to

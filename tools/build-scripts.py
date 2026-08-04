@@ -63,7 +63,7 @@ for p in parts[1:]:
             tbl = []
             while i < len(out) and out[i].lstrip().startswith('|'):
                 tbl.append(out[i]); i += 1
-            fenced.append('┄┄ TABLE — on screen, speak the pattern, don’t read the cells ┄┄')
+            fenced.append('┄┄ TABLE (REFERENCE — not prompter-readable; the spoken read must be written above this during voice conversion) ┄┄')
             fenced += tbl
             fenced.append('┄┄ end table ┄┄')
         else:
