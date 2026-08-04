@@ -87,5 +87,7 @@ Work top to bottom. Every lesson is one row; each row tells you exactly what to 
 
 ## Module 10 — Plan Review
 
-- [ ] **11.1 How to read a financial plan** — 🎙 PROMPTER `scripts/11-1_how-to-read-a-financial-plan.md`
-- [ ] **11.2 Walkthrough: walk your report in Orange Plan** — 🎙 PROMPTER `scripts/11-2_WALKTHROUGH_walk-the-report.md` · 🖥 CAPTURE segment `11.2` (shoot list)
+- [ ] **11.1 Scenarios: testing what-ifs against your plan** — 🎙 PROMPTER `scripts/11-1_scenarios-testing-what-ifs.md`
+- [ ] **11.2 Walkthrough: build and compare a scenario in Orange Plan** — 🎙 PROMPTER `scripts/11-2_WALKTHROUGH_build-compare-scenario.md` · 🖥 CAPTURE segment `11.2` (shoot list)
+- [ ] **11.3 How to read a financial plan** — 🎙 PROMPTER `scripts/11-3_how-to-read-a-financial-plan.md`
+- [ ] **11.4 Walkthrough: walk your report in Orange Plan** — 🎙 PROMPTER `scripts/11-4_WALKTHROUGH_walk-the-report.md` · 🖥 CAPTURE segment `11.4` (shoot list)

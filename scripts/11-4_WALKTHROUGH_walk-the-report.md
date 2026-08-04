@@ -1,4 +1,4 @@
-# WALKTHROUGH 11.2 — walk your report in Orange Plan (screen share)
+# WALKTHROUGH 11.4 — walk your report in Orange Plan (screen share)
 
 **One session, 10 steps (~8 min final)** — the capstone read, in planner order: **position → trajectory → risk → actions**
 

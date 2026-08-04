@@ -275,7 +275,23 @@ Before the first segment: seed the demo account with the couple's canonical numb
 
 ---
 
-## ☐ Segment 11.2 — Walkthrough: walk your report in Orange Plan
+## ☐ Segment 11.2 — Walkthrough: build and compare a scenario in Orange Plan
+
+**Required app state:** plan complete and accurate · retirement age, state, and retirement spending correct in settings (the presets read them) · ideally no saved scenarios yet, so the empty state shows
+
+**7 beats:**
+
+1. **Orient** — Scenarios nav → h1 **Scenarios**. Three zones: **What if...** presets · **Your scenarios** (*"Saved what-ifs you can reopen and compare"* / *"No custom scenarios yet."*) · comparison section (*"Choose a saved scenario to see the chart, key metrics, and Monte Carlo comparison."*). Top right: **Custom scenario**, **Review scenario** (appears only when selected).
+2. **Stress test, one click** — **What if... → 50% drawdown after retirement**. Description fills in your retirement age. Creates + selects under Your scenarios. ⚠ 4 of 9 shown; **See more scenarios** / **Show fewer scenarios**. Name the other eight while expanded.
+3. **Read the comparison** — chip + **vs your plan**. Headline: **Retire at · Spending · Success rate**. Expand **Full comparison metrics** (net worth at retirement, net worth at age 90, lifetime taxes paid, effective tax rate, withdrawal rate at retirement, depletion age, earliest retirement age, BTC at retirement / life expectancy). Matching rows read **no change**. Say: "one question — would I still be okay?"
+4. **Run Monte Carlo** — 🎬 let it breathe. Spinner + phase label. ⚠ Until it runs, the success rate isn't a real comparison.
+5. **Custom scenario** — **Create scenario** dialog → **Step 1: Choose scenario type** (Life events · Retirement · Savings · Debt · Tax · Markets · Advanced). ⚠ specific type, NOT Advanced. Name + Description (placeholder changes with type). Name after the QUESTION. Change ONE variable. Save.
+6. **Compare + manage** — select it, same read, run Monte Carlo. **⋯** menu (aria *"Scenario comparison actions"*) → **Duplicate · Edit · Delete**. Point at Duplicate. ⚠ Nothing here touches the plan.
+7. **AI · Review scenario** — reads saved scenarios, projection years, life events, assumptions. Asks *"Which saved scenario would you like to compare with your current plan?"* 🎬 stop talking until it lands. ⚠ It explains and compares, it doesn't decide.
+
+**Wrap:** two scenarios saved · both Monte Carlo'd · stress test answered out loud · one variable each · baseline untouched · close on "these unlock the report's Bitcoin-path section."
+
+## ☐ Segment 11.4 — Walkthrough: walk your report in Orange Plan
 *entire lesson · ~13 min capture (plus retakes)*
 
 **Before you hit record:**

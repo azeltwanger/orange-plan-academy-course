@@ -462,4 +462,4 @@ Close on the discipline: the confidence status only flips to "Recheck needed" wh
 
 ### Handing it off
 
-Next lesson (the capstone) is the read of the report you just saved. The nine modules assembled into one document, walked in planner order: position, trajectory, risk, actions.
+Module 10 closes the course. It starts with scenarios, which is how you test what-ifs against the plan without disturbing it, and finishes with the capstone: the read of the report you just saved, with the nine modules assembled into one document and walked in planner order (position, trajectory, risk, actions).

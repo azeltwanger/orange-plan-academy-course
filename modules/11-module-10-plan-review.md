@@ -2,7 +2,239 @@
 
 *Read the plan report end-to-end, walk it in the app, and set up your yearly re-read.*
 
-## 11.1 How to read a financial plan
+## 11.1 Scenarios: testing what-ifs against your plan
+*`TEACH` · 1,150 words · ~7 min*
+
+**By the end of this lesson, you can:**
+
+- Tell a life event apart from a scenario, and put each one where it belongs
+- Pick the right scenario type for the question you're actually asking
+- Read a comparison without fooling yourself
+- Know when a scenario should graduate into your actual plan
+
+---
+
+Your plan answers one question: if things go roughly the way you've assumed, here's where you land. A scenario answers a different one: **what happens if they don't?**
+
+That's the whole job. You keep one baseline plan that represents your real life and your real intentions, and you keep a set of saved what-ifs beside it that you can compare against, one at a time, without disturbing the plan itself.
+
+### Life event or scenario?
+
+This is the distinction that decides where something goes, and the app enforces it.
+
+- A **life event** is something you actually expect to happen. College tuition starting in eight years. A roof. A car. Retirement itself. Life events belong **in the plan**, because leaving them out makes your projection wrong.
+- A **scenario** is something you're *considering*, or something you're *worried about*. Retiring three years earlier. Moving to a no-tax state. Bitcoin dropping 50% the year after you retire. Those belong **in Scenarios**, because putting them in the plan would corrupt the baseline you measure everything else against.
+
+The test is one question: **am I telling the plan what's true, or am I asking it a question?** True things go in the plan. Questions go in Scenarios.
+
+> ⚠ This is the single most common way people wreck their own baseline. They get curious about retiring at 55, change the retirement age in the plan itself, get distracted, and three months later they're reading a projection built on a decision they never actually made.
+
+### The two kinds of what-if
+
+Scenarios split cleanly into two groups, and they answer different questions.
+
+**Stress tests** ask *would I survive this?* You're not planning for these. You're checking whether the plan holds if they happen anyway. Bear markets, a 50% drawdown right after you retire, weaker Bitcoin returns than you assumed. The only question you ask of a stress test is: **would I still be okay?**
+
+**Choices** ask *should I do this?* These are decisions you might actually make. Retire earlier. Spend less. Move states. Claim Social Security at 62 instead of 70. Here you're comparing two futures and picking one.
+
+Both are worth running. But notice the difference in what you do with the answer: a stress test you either survive or you go fix something. A choice you weigh, decide, and then either act on or drop.
+
+### Choosing the scenario type
+
+When you build a custom scenario, the app asks you what kind it is before it asks anything else. Seven types, and picking the right one just means you get shown the controls that matter and not the forty that don't:
+
+| Type | What it covers |
+|---|---|
+| **Life events** | Income, spending, housing, family, and one-time events |
+| **Retirement** | Timing, spending, income, and Social Security |
+| **Savings** | Contribution amounts, routing, and future savings mix |
+| **Debt** | Existing debts, new loans, and BTC borrowing |
+| **Tax** | State, Social Security, dividends, and Roth conversions |
+| **Markets** | Return assumptions and asset reallocations |
+| **Advanced** | Every scenario control at once |
+
+Start with the specific type that matches your question. **Advanced** exists for multi-part scenarios where you're changing several unrelated things at once, and it's the one to reach for last, not first.
+
+### Change one thing at a time
+
+This is the discipline that makes scenarios useful instead of confusing.
+
+If you build a scenario that retires you three years earlier **and** cuts your spending **and** assumes weaker Bitcoin returns, and the result comes back worse, you've learned nothing. You can't tell which of the three did it, or whether two of them cancelled out.
+
+One variable per scenario. If you want to know what three changes do together, that's a fourth scenario, built deliberately, and you read it *after* you understand each piece on its own.
+
+### Reading the comparison honestly
+
+When you select a saved scenario, the app puts it next to your plan and shows you a headline row first: **Retire at**, **Spending**, and **Success rate**. Below that, a full comparison table runs the rest, including net worth at retirement, lifetime taxes paid, effective tax rate, withdrawal rate at retirement, depletion age, and BTC at life expectancy.
+
+Three rules for reading it.
+
+**Read the pair, not the number.** A scenario that retires you two years earlier at a much lower success rate isn't a better plan, it's a different trade. Every scenario is a trade, and the trade is what you're reading.
+
+**Run the Monte Carlo before you believe the success rate.** The comparison chart updates immediately, but the success rate is a simulation and it has to actually run. The button is right there in the comparison section.
+
+**Small differences aren't differences.** These are projections built on assumptions. A scenario that lands 2% apart from your baseline is telling you the change didn't matter much. Don't reorganize your life around noise.
+
+### When a scenario graduates
+
+Sometimes a scenario stops being a question and becomes a decision. You've compared moving states three times, you're convinced, and you're doing it.
+
+At that point it stops being a scenario. Go change the actual plan, and either delete the scenario or keep it as the record of the comparison that convinced you. What you don't do is leave a decision living in Scenarios, because your baseline is now wrong in a way you'll forget about.
+
+The reverse also happens. You run a stress test, the plan survives, and there's nothing to do. That's a completed piece of work, not a failure. Save it and move on.
+
+### Two scenarios worth keeping permanently
+
+Most scenarios are disposable. Two aren't:
+
+- **A deep drawdown right after retirement.** This is the sequence-of-returns test, and it's the single scenario most likely to break a Bitcoin-heavy plan. Keep it, and re-run it every year.
+- **Weaker Bitcoin returns than you assumed.** If your plan only works at your optimistic growth curve, that's worth knowing every year, not once.
+
+Both of those are also what populate the "if Bitcoin follows a different path" section of your yearly report, which is the next lesson but one.
+
+### Homework
+
+- Save one stress test: a deep drawdown right after your retirement year. Run the Monte Carlo on it.
+- Save one choice you're genuinely weighing, built as a single-variable scenario.
+- Answer the stress test out loud: would you still be okay? If no, write down which lever you'd pull.
+
+The next lesson is the walkthrough that builds both of these in Orange Plan.
+
+## 11.2 Walkthrough: build and compare a scenario in Orange Plan
+*`DEMO` · 1,250 words · ~9 min*
+
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **11.2**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+
+**By the end of this lesson, you can:**
+
+- Create a scenario from a built-in what-if in one click
+- Build a custom single-variable scenario end to end
+- Read the comparison and run the Monte Carlo against your baseline
+- Manage saved scenarios: duplicate, edit, delete
+
+---
+
+This walkthrough builds the two scenarios from the last lesson: one stress test and one choice. By the end you'll have both saved, compared, and Monte Carlo'd.
+
+Set aside about 15 minutes. Have your plan complete, because a scenario is only as meaningful as the baseline it's compared against.
+
+### Pre-flight
+
+⚠ **Your baseline needs to be real first.** Everything on this page is a comparison against your plan. If the plan still has stale balances or a spending number you don't believe, fix that before you run scenarios. You'd be comparing against fiction.
+
+⚠ **The built-in what-ifs read your own settings.** The preset descriptions fill in your retirement age, your state, and your retirement spending. If those are wrong in the plan, the presets will offer you the wrong questions.
+
+### Step 1: Orient on the page
+
+**Scenarios** (primary nav). Page heading: **Scenarios**.
+
+Three things live here, top to bottom:
+
+- **What if...** — the built-in one-click presets.
+- **Your scenarios** — everything you've saved. Sub-line: *"Saved what-ifs you can reopen and compare."* Empty state reads *"No custom scenarios yet."*
+- The **comparison section** below, which stays empty until you select something: *"Choose a saved scenario to see the chart, key metrics, and Monte Carlo comparison."*
+
+Top right: a **Custom scenario** button, and a **Review scenario** AI button that only appears once a scenario is selected.
+
+### Step 2: Create the stress test in one click
+
+**Scenarios → What if... → 50% drawdown after retirement.**
+
+The card's description writes itself from your plan: *"BTC and stocks drop 50% the year after you retire at {your age}. The classic sequence-of-returns stress test."*
+
+One click creates it and selects it under **Your scenarios**. The plan re-runs.
+
+⚠ The grid shows the first four presets only. **See more scenarios** expands to all nine; **Show fewer scenarios** collapses it again. Bear Market and the 50% drawdown are always in the visible four.
+
+The other eight, for reference: Bear Market, Retire earlier, Spend less in retirement, Move to no-tax state, Conservative BTC returns, Moderate BTC returns, Claim Social Security at 62, and Claim Social Security at 70.
+
+### Step 3: Read the comparison
+
+The comparison section now shows a chip with the scenario name, then **vs your plan**.
+
+The headline row, three metrics:
+
+| Metric | What it says |
+|---|---|
+| **Retire at** | The age this scenario produces |
+| **Spending** | The spending it supports |
+| **Success rate** | The confidence, once the simulation has run |
+
+Expand **Full comparison metrics** for the rest: net worth at retirement, net worth at age 90, lifetime taxes paid, effective tax rate, withdrawal rate at retirement, depletion age, earliest retirement age, and BTC at retirement and at life expectancy. Each row shows baseline, scenario, and the difference, with **no change** rendered where they match.
+
+⚠ Ask the stress test exactly one question: **would I still be okay?** Not "which line is prettier." You're checking survival, not optimizing.
+
+### Step 4: Run the Monte Carlo
+
+Button **Run Monte Carlo** in the comparison section. It shows a spinner with a phase label while it runs.
+
+⚠ **Until this runs, the success rate isn't a real comparison.** The chart updates instantly off the projection, but confidence is a simulation and it has to execute. Run it before you draw any conclusion about risk.
+
+### Step 5: Build a custom scenario
+
+**Custom scenario** (top right) opens the **Create scenario** dialog.
+
+**Step 1: Choose scenario type.** Seven cards. Pick the one matching your question:
+
+Life events · Retirement · Savings · Debt · Tax · Markets · Advanced
+
+⚠ Pick the specific type, not **Advanced**. Advanced shows every control at once, and it's for genuine multi-part scenarios. Starting there is how a simple question turns into a confusing scenario.
+
+Then **Name** and **Description**. The name placeholder changes with the type you picked (choose Retirement and it suggests *"e.g., Retire at 55"*; choose Tax and it suggests *"e.g., Roth conversion window"*).
+
+Name it after the question, not the answer. "Retire at 55" is a good name. "Better plan" is not.
+
+Change **one variable**. Save.
+
+### Step 6: Compare, then manage
+
+Select the new scenario under **Your scenarios**. Read the same headline row, expand the full metrics, run the Monte Carlo.
+
+The **⋯** menu on the comparison (aria label *"Scenario comparison actions"*) gives you three: **Duplicate**, **Edit**, **Delete**.
+
+**Duplicate** is the one worth knowing. It's how you build a second scenario that differs from the first by exactly one thing, without rebuilding it from scratch.
+
+⚠ Scenarios never touch your plan. Nothing here changes your baseline, which is exactly why you can experiment freely.
+
+### Step 7: Run the AI review
+
+**Review scenario** (top right, only renders when a scenario is selected and the editor is closed).
+
+**It reads:** your saved scenarios, the projection years, your life events, and your assumptions.
+
+**It asks:** *"Which saved scenario would you like to compare with your current plan?"*
+
+Answer, let it run, then read one thing it surfaced and say whether you agree.
+
+**When to run it:** when a comparison needs explaining in plain English before you hand it to someone else, or when you can't tell why two scenarios differ.
+
+⚠ It explains and compares. It doesn't decide.
+
+### What good looks like
+
+- **Two scenarios saved**, one stress test and one choice.
+- **Both Monte Carlo'd**, so the success rates are real numbers rather than placeholders.
+- **The stress test answered out loud.** Would you still be okay, and if not, which lever?
+- **Single-variable discipline.** You can say what one thing each scenario changed.
+- **Your baseline is untouched.** The plan still reflects your real life.
+- **Names that are questions**, so they still make sense a year from now.
+
+### What got built
+
+| # | Item | Where it lives |
+|---|---|---|
+| 1 | A saved sequence-risk stress test | Scenarios → What if... → 50% drawdown after retirement |
+| 2 | A saved single-variable choice scenario | Scenarios → Custom scenario |
+| 3 | Monte Carlo results on both | Scenarios → Run Monte Carlo |
+| 4 | A read of the full comparison metrics | Scenarios → Full comparison metrics |
+| 5 | (Optional) an AI explanation of the comparison | Scenarios → Review scenario |
+
+### Handing it off
+
+You now have saved scenarios, which is also a prerequisite for the report: the *"If Bitcoin follows a different path"* section only renders when at least one scenario exists. The next lesson covers how to read a financial plan end to end, and then you'll walk your own report.
+
+
+## 11.3 How to read a financial plan
 *`TEACH` · 1,085 words · ~8 min*
 
 > 🐞 Currency mangling in the band example (item 17): "$80K spending sits in a
@@ -112,10 +344,10 @@ You started this course with accounts scattered everywhere and a rough guess. Yo
 
 A financial plan is what that finished document represents.
 
-## 11.2 Walkthrough: walk your report in Orange Plan
+## 11.4 Walkthrough: walk your report in Orange Plan
 *`DEMO` · 1,572 words · ~7 min*
 
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **11.2**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **11.4**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
 
 **By the end of this lesson, you can:**
 

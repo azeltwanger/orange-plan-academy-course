@@ -1,5 +1,5 @@
-TELEPROMPTER SCRIPT — segment 11.1
-11.1 How to read a financial plan
+TELEPROMPTER SCRIPT — segment 11.3
+11.3 How to read a financial plan
 ~8.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 

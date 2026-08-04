@@ -106,9 +106,11 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ## ☐ MODULE 10 — Plan Review (capstone)
 
-☐ 11.1 How to read a financial plan — 🎙 film `11-1`
-☐ 11.2 Walkthrough: walk the report — 🖥 capture `11.2` (saved scenario + fresh confidence check required, or sections are missing)
-☐ Module 10: edit → upload → paste lesson text (11-1 … 11-2)
+☐ 11.1 Scenarios: testing what-ifs — 🎙 film `11-1` (~8 min)
+☐ 11.2 Walkthrough: build + compare a scenario — 🖥 capture `11.2` (7 steps; baseline must be accurate; Monte Carlo must actually run)
+☐ 11.3 How to read a financial plan — 🎙 film `11-3`
+☐ 11.4 Walkthrough: walk the report — 🖥 capture `11.4` (saved scenario from 11.2 + fresh confidence check required, or sections are missing)
+☐ Module 10: edit → upload → paste lesson text (11-1 … 11-4)
 
 ---
 
