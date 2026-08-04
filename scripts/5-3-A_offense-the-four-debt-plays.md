@@ -1,110 +1,64 @@
 TELEPROMPTER SCRIPT — segment 5.3-A
 5.3 Offense: the four debt plays
-829 words · ~5.3 min at 155 wpm · A-ROLL ONLY (screen half = shoot list segment 5.3-B)
+~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 5.3-B)
 ============================================================
 
-Defense set the boundaries. This lesson covers the other half: how debt actually builds wealth.
+In today's lesson, we're going to cover the offensive side of debt, which is the four plays where debt actually builds wealth.
 
-Four plays. Each with a failure mode. Leverage is a power tool: it can help you build faster, but it can take your hand off.
+Defense set the boundaries. This is the other half. And I want to say up front: leverage is a power tool. It can help you build faster, and it can also take your hand off. So each play comes with its failure mode, and I want you to hold both at the same time.
 
 == PLAY 1: THE SPREAD ==
 
-Borrow at a low rate. Keep your capital invested in something you expect to outperform that rate. Compound the difference.
+The first play is the spread. You borrow at a low rate, you keep your capital invested in something you expect to outperform that rate, and you compound the difference.
 
-The spread = what your money earns minus what your debt costs.
+The spread is just what your money earns minus what your debt costs. Every dollar of 3% debt that you hold while your capital earns more than 3% is earning you that difference. And here's the reframe: paying that cheap debt off early doesn't earn you a return. It just stops the interest, at exactly the debt's rate, guaranteed, and it gives up whatever the capital could have done instead.
 
-Every dollar of 3% debt held while capital earns more than 3% is earning you the difference. Paying that debt off early doesn't earn a return. It just stops the interest at exactly the debt's rate, guaranteed, and gives up whatever the capital could have done instead.
+I've done this one myself. When I bought my house, I put 5% down instead of 20%, and the difference went into Bitcoin. I still carry that mortgage on purpose today, because the spread between a 3-point-something mortgage and what I expect Bitcoin to do is the whole reason to hold it.
 
-Austin has done this himself: put 5% down on his house instead of 20%. The difference went into Bitcoin. He still carries that mortgage on purpose.
-
-== FAILURE MODE ==
-
-The spread is expected; the payment is a certainty.
-
-- Payment strains your cash flow → bad.
-- Asset underperforms for years → bad.
-- Variable rate resets upward → spread narrows or flips.
-
-Only counts when the payment is comfortable and the reserve is solid.
+The failure mode: the spread is an expectation, but the payment is a certainty. If the payment strains your cash flow, that's bad. If the asset underperforms for years, that's bad. And if it's a variable rate that resets upward, the spread narrows or flips entirely. So this play only counts when the payment is comfortable and the reserve is solid.
 
 == PLAY 2: BORROW, DON'T SELL ==
 
-Instead of selling Bitcoin, access liquidity by borrowing against it. Loan proceeds generally aren't taxable. You're getting cash without triggering capital gains, and your Bitcoin position stays intact.
+The second play is borrow, don't sell. Instead of selling Bitcoin when you need liquidity, you borrow against it. Loan proceeds generally aren't taxable, so you're getting cash without triggering capital gains, and your Bitcoin position stays intact.
 
-Why isn't a loan taxed? You haven't made anything on it. You borrowed money you have to pay back. Selling turns paper gains into real ones, which is when tax shows up.
+Why isn't a loan taxed? Because you haven't made anything on it. You borrowed money that you have to pay back. Selling is what turns paper gains into real ones, and that's when the tax shows up.
 
-Strong when you have:
+This play is strong when four things are true. You have a large, low-basis position where selling means a big tax bill. You have an expense that actually fits your plan. You have a solid reserve. And you're starting at a conservative LTV.
 
-- A large, low-basis position where selling means a big tax bill
-- An expense that fits your plan
-- A solid reserve
-- A conservative LTV
+The failure mode is the weak version of this play, which is "borrow instead of ever selling." A Bitcoin-backed loan brings four risks in the door at once. Liquidation risk, because if Bitcoin drops far enough, they force-sell your collateral. Interest cost, because the loan isn't free. Counterparty risk, because your lender can fail. And repayment risk, because in a long bear market, you're holding a loan you can't pay off without selling anyway.
 
-== FAILURE MODE ==
-
-The weak version is "borrow instead of ever selling."
-
-A Bitcoin-backed loan brings four risks at once:
-
-1. Liquidation risk. Bitcoin drops enough, they force-sell.
-2. Interest cost. The loan isn't free.
-3. Counterparty risk. Your lender can fail.
-4. Repayment risk. In a long bear, you have a loan you can't pay off without selling anyway.
-
-A loan that's fine at 30% LTV becomes a crisis if Bitcoin gets cut in half.
-
-The play gives you the choice of when to sell, rather than avoiding selling altogether. Only holds if the cushion holds.
+A loan that's totally fine at 30% LTV becomes a crisis if Bitcoin gets cut in half. So the honest version of this play is that it gives you the choice of when to sell, rather than the fantasy of never selling. And it only holds if the cushion holds.
 
 == PLAY 3: STRATEGIC BITCOIN-BACKED BORROWING ==
 
-Used deliberately, a drawdown is the moment to borrow into strength. Access liquidity or buy more when the rest of the plan is solid.
+The third play is strategic Bitcoin-backed borrowing. Used deliberately, a drawdown is actually the moment to borrow into strength, either to access liquidity or to buy more, when the rest of the plan is solid.
 
-== AUSTIN'S TWO GUARDRAILS ==
+I run this one with two guardrails, and I'd hand you both.
 
-1. Cap concentration. Austin is careful about putting more than 10 to 20% of Bitcoin with any single lender. Some portion will always stay in cold storage, never seeing a lender.
+The first guardrail is concentration. I'm careful about putting more than 10 to 20% of my Bitcoin with any single lender. And some portion of the stack always stays in cold storage and never sees a lender at all.
 
-2. Operating rules written before any money moves:
+The second guardrail is a set of operating rules, written down before any money moves. What specifically is this money for? What's my maximum LTV, the ceiling? At what LTV do I top up collateral? At what LTV do I pay down principal? What are the no-go conditions where I close the loan immediately? Who's watching it and how often? And what exactly do I do if Bitcoin drops 50 to 80%?
 
-- Purpose. What specifically will this money be used for?
-- Maximum LTV. The ceiling.
-- Top-up trigger. The LTV level where you add collateral.
-- Repay trigger. The LTV level where you pay down principal.
-- No-go conditions. Situations where you close the loan immediately.
-- Monitoring. Who watches it, how often.
-- 50-80% drawdown plan. The exact steps when Bitcoin falls hard.
+The point of writing all of that down is that every hard call gets made in advance, on a calm day, instead of on the day you'd make it badly.
 
-Every hard call made in advance of the day you'd make it badly.
-
-== FAILURE MODE ==
-
-Starting at a high LTV turns a normal bear into a crisis. New leverage to buy Bitcoin demands a much higher standard than keeping existing low-rate debt.
+The failure mode here: starting at a high LTV turns a normal bear market into a crisis. And I'll say this plainly — taking new leverage to buy Bitcoin demands a much higher standard than keeping existing low-rate debt. Those are not the same risk.
 
 == PLAY 4: KEEP LOW-RATE DEBT ON PURPOSE ==
 
-The "why would I pay off a 3% mortgage" move. If the capital works harder inside the plan and the payment is comfortable, retiring cheap debt early is the worse choice. Guaranteed low return, given-up flexibility.
+The fourth play is keeping low-rate debt on purpose. This is the "why would I pay off a 3% mortgage" move. If the capital works harder inside your plan and the payment is comfortable, then retiring cheap debt early is actually the worse choice. You're taking a guaranteed low return and giving up flexibility to get it.
 
-A cheap mortgage is an asset you're holding on purpose. Keep it as long as the payment is comfortable.
+The way I think about it: a cheap mortgage is an asset you're holding on purpose. Keep it as long as the payment is comfortable.
 
-== SET UP CREDIT ACCESS BEFORE YOU NEED IT ==
+There's a related move here, which is setting up credit access before you need it. Establish a HELOC or a credit line while your income is strong, and then leave it alone. That puts the option in place while lenders are happy to give it to you, because their enthusiasm evaporates at exactly the moment you'd want the line the most.
 
-Establish a HELOC or credit line while your income is strong, then leave it alone. Puts the option in place while lenders are happy to give it. Their enthusiasm evaporates at exactly the moment you'd want the line most.
-
-== FAILURE MODE ==
-
-An unused line can still tempt you into bad decisions. Variable rates can reset against you. Operating rules first.
+The failure mode: an unused line can still tempt you into bad decisions, and variable rates can reset against you. Operating rules first, same as play 3.
 
 == THE RETIREMENT VARIATION ==
 
-Play 2 has a retirement version: borrowing against Bitcoin instead of selling to create retirement income. The app compares three borrowing strategies against a sell-only baseline:
-
-- Bracket-aware. Borrows only up to a tax bracket you set, then switches to selling.
-- Borrow-first. Leans on the loan before it sells anything.
-- Custom phases. Switch strategies by age.
-
-Module 6 covers this in depth.
+One preview before we close. Play 2 has a retirement version, which is borrowing against Bitcoin instead of selling it to create retirement income. The app compares three borrowing strategies against a sell-only baseline: bracket-aware, which borrows only up to a tax bracket you set and then switches to selling; borrow-first, which leans on the loan before it sells anything; and custom phases, which switches strategies by age. We go deep on that in the retirement income module.
 
 == EVERY PLAY IS A COMPARISON ==
 
-Each of the four plays is a comparison, not a rule. Each only works inside the boundaries defense set.
+Here's the frame to leave with. Each of these four plays is a comparison, not a rule. And every one of them only works inside the boundaries that defense set.
 
-So let's run one. Pick the play you're most tempted by and put it against your own baseline.
+So let's run one right now. Pick the play you're most tempted by, and let's put it up against your own baseline in the app.

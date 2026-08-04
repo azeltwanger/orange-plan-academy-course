@@ -1,61 +1,54 @@
 TELEPROMPTER SCRIPT — segment 5.2-A
 5.2 Drift and the LTV cushion
-519 words · ~3.3 min at 155 wpm · A-ROLL ONLY (screen half = shoot list segment 5.2-B)
+~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 5.2-B)
 ============================================================
 
-Two dynamics that make a Bitcoin balance sheet different from everybody else's.
+In today's lesson, we're going to cover the two dynamics that make a Bitcoin balance sheet different from everybody else's: drift, and the LTV cushion.
 
 == YOUR DTA MOVES WITH BITCOIN ==
 
-Your debt-to-assets ratio doesn't sit still. It moves with the Bitcoin price:
+The first dynamic is that your debt-to-assets ratio doesn't sit still. It moves with the Bitcoin price, and it moves against you emotionally in both directions.
 
-- Bitcoin up. DTA drops. Room opens up. You feel safe. You want to borrow more. Usually right near the top.
-- Bitcoin down. DTA spikes at the exact moment your stress is peaking. If there's no room left, that's where forced selling happens.
+When Bitcoin is up, your DTA drops. Room opens up on the balance sheet, you feel safe, and you start wanting to borrow more. And that feeling usually shows up right near the top.
 
-The couple landed at 40% DTA with $298,000 debt against $745,000 assets:
+When Bitcoin is down, your DTA spikes at the exact moment your stress is peaking. And if there's no room left on the balance sheet at that point, that's where forced selling happens.
 
-- Bitcoin doubles: $175k becomes $350k, total assets $920k, DTA drops to 32%. 8 points of room without doing anything.
-- Bitcoin halves: $175k becomes $87.5k, total assets $658k, DTA climbs to 45%. Same debts, same payments. Over the workable range.
+Let me put numbers on it. The couple landed at 40% DTA, with $298,000 of debt against $745,000 of assets.
 
-The ratio tells you about today's price, but the decision you're making lives for years. Room looks real at the moment it's least real.
+If Bitcoin doubles, their $175,000 becomes $350,000, total assets go to $920,000, and their DTA drops to 32%. That's 8 points of room that opened up without them doing anything at all.
 
-Stay conservative when Bitcoin is high. Use your room when Bitcoin is low. Anchor to where Bitcoin has been, not to what it's printing today. Use DTI as your floor, since it doesn't move with price.
+If Bitcoin halves, their $175,000 becomes $87,500, total assets drop to $658,000, and their DTA climbs to 45%. Same debts, same payments, and now they're over the workable range.
 
-Austin's own experience: his net worth dropped 75% in 2022. He could hold because nothing on his balance sheet could force him to sell.
+Here's the trap in that: the ratio tells you about today's price, but the decision you're making lives for years. So the room looks the most real at the exact moment it's the least real.
+
+The way to handle it is to stay conservative when Bitcoin is high, use your room when Bitcoin is low, and anchor your decisions to where Bitcoin has been over a full cycle, not what it's printing today. And use DTI as your floor, because DTI doesn't move with price at all.
+
+I'll give you my own version of this. In 2022, my net worth dropped 75%. The reason I could hold through that is that nothing on my balance sheet could force me to sell. No margin, no loan that a drawdown could call. That's what this lesson is trying to build for you.
 
 == THE LTV CUSHION ==
 
-For any borrowing backed by your Bitcoin, there's a gap between where your loan starts and the line where the lender takes over. That gap is the entire drawdown you can live through.
+The second dynamic is the LTV cushion, and this applies to any borrowing that's backed by your Bitcoin.
 
-LTV = loan-to-value = your loan divided by your collateral's current value.
+LTV means loan-to-value, and it's your loan divided by your collateral's current value. Two things to know about that fraction. Your loan balance is fixed. It does not move when Bitcoin moves. But your collateral value moves with the price every single day.
 
-- Your loan balance is fixed. It doesn't move when Bitcoin moves.
-- Your collateral value moves with the price.
-
-If Bitcoin falls, your collateral shrinks, LTV climbs, and it climbs toward the lender's liquidation line. Your starting LTV sets the entire survivable drop.
-
-If you hit the line, the lender force-sells your Bitcoin. At the worst possible moment.
+So if Bitcoin falls, your collateral shrinks, your LTV climbs, and it climbs toward the lender's liquidation line. The gap between where your loan starts and that line is the entire drawdown you can live through. If you hit the line, the lender force-sells your Bitcoin, and by definition it happens at the worst possible moment, because the price just crashed.
 
 == THE MATH ==
 
+Let's walk through the math, because the numbers make it click.
+
 Say you post $50,000 of Bitcoin as collateral, and the lender's liquidation LTV is 80%.
 
-Scenario A: borrow $12,500 (25% starting LTV).
+In scenario A, you borrow $12,500, which is a 25% starting LTV. The liquidation point is $12,500 divided by 0.80, which is $15,625. So Bitcoin has to fall from $50,000 down to $15,625 before you get the margin call. That's a 69% drop. And here's the problem: Bitcoin fell 84% in 2018 and 77% in 2022. So a 69% cushion is right at the edge of drawdowns that have actually happened. That's not enough.
 
-- Liquidation collateral value = $12,500 ÷ 0.80 = $15,625.
-- Bitcoin has to fall from $50,000 to $15,625 for a margin call. A 69% drop. Right at the edge of Bitcoin's historical drawdowns (2018: -84%, 2022: -77%). Not enough cushion.
+In scenario B, you borrow $6,250 instead, which is a 12.5% starting LTV. Now the liquidation point is $6,250 divided by 0.80, which is $7,812. Bitcoin has to fall 84% before you're in trouble. Now you can survive a 2018-style bear.
 
-Scenario B: borrow $6,250 (12.5% starting LTV).
-
-- Liquidation collateral value = $6,250 ÷ 0.80 = $7,812.
-- Bitcoin has to fall from $50,000 to $7,812. An 84% drop. Now you can survive a 2018-style bear.
-
-Cut the starting LTV in half, and the danger line moves much further away.
+Notice what happened there: you cut the starting LTV in half, and the danger line moved dramatically further away. That's the lever.
 
 == SIZE THE CUSHION FOR A NORMAL DRAWDOWN ==
 
-If you're borrowing against Bitcoin, size the cushion to survive a 70 to 80% drawdown minimum. That's the normal Bitcoin cycle, not a worst case.
+So here's where I land on this. If you're going to borrow against Bitcoin, size the cushion to survive a 70 to 80% drawdown at minimum, because that's the normal Bitcoin cycle, not a worst case.
 
-Usually means starting at 20 to 25% LTV, not 40 to 50%. Anything higher, and a normal Bitcoin bear becomes a forced-sale event at the worst possible moment.
+In practice, that usually means starting at 20 to 25% LTV, not 40 or 50%. Anything higher than that, and a completely normal Bitcoin bear market turns into a forced-sale event for you, at the worst possible price.
 
-So that's the math on the cushion. The app draws it, which is easier to read than the arithmetic.
+So that's the math on the cushion. Now let's look at the app, because it draws this as a picture, and the picture is a lot easier to read than the arithmetic.
