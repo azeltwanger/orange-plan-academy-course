@@ -1,121 +1,83 @@
 TELEPROMPTER SCRIPT — segment 10.3
 10.3 The annual review: all six areas
-882 words · ~5.7 min at 155 wpm
+~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-Once a year, one thorough pass across six areas.
+In today's lesson, we're going to cover the annual review: one thorough pass across six areas, once a year.
 
-Where the monthly pass catches data drift, the annual review catches plan drift. Facts are current but a decision from a while ago doesn't fit your life anymore.
+Where the monthly pass catches data drift, the annual review catches plan drift. That's when the facts are current, but a decision you made a while ago doesn't fit your life anymore.
 
-Every area asks one question: does this decision still fit, and what would tell me if it didn't? Asking one question area by area keeps a six-area review from turning into six rebuilds.
+Every area asks the same one question: does this decision still fit, and what would tell me if it didn't? Asking one question, area by area, is what keeps a six-area review from turning into six rebuilds.
 
-== THE SIX AREAS ==
+The six areas are: spending and cash reserve, allocation, debt, tax, custody, and estate. And notice, every one of those is a card you already built earlier in this course. The annual review is one pass back through a system you already own. It's not new work you invent once a year.
 
-1. Spending and cash reserve
-2. Allocation
-3. Debt
-4. Tax
-5. Custody
-6. Estate
+Two logistics first. Put this review in the fall, October or November, because the tax area has a year-end deadline and you want time to act. And bring three things: your plan updated through your last monthly pass, because the facts go in before you think about strategy. Your notes from last year's review. And the checklist, so the review has a defined finish line.
 
-Every area is a card you already built earlier in this course. The annual review is one pass back through a system you already own, not new work you invent once a year.
+== AREA 1: SPENDING AND CASH RESERVE ==
 
-== WHEN AND WHAT TO BRING ==
+Take our couple in retirement, 60 years old, spending $80,000 a year.
 
-Put this in the fall (October or November). The tax area has a year-end deadline, so there's still time to act. Bring:
+You run the annual review on retirement income and read the guardrail outcome. The plan's verdict is one of three: hold, raise, or cut. The app puts last year's target, the inflation-adjusted version, and the new 80% number side by side, so the whole decision is on one screen.
 
-- Your plan, updated through your last monthly pass. Facts go in before you think about strategy.
-- Your notes from last year's review.
-- The checklist. A defined finish line.
+The once-a-year pass is: re-center your target toward the 80% confidence level, cap any move at 10% in a year, and adjust for inflation.
 
-== AREA 1. SPENDING AND CASH RESERVE ==
+Then you refill the reserve. Their target is 18 months of spending, which is $120,000 of cash. If spending held or rose this year, you refill all the way. If spending got cut, you refill only partway, to about 12 months. And the 18-month target itself never moves. Bitcoin has historically recovered from major drawdowns in about 18 months, and the reserve is sized to cover exactly that stretch.
 
-Take our couple in retirement: 60, spending $80,000/yr.
+What good looks like: spending inside the guardrails, and the reserve at target or rebuilding on the rule. What bad looks like: a reserve at half its target for two years running. That's a plan quietly getting less safe.
 
-Run the annual review on retirement income and read the guardrail outcome. The plan's verdict: holds, raises, or cuts. The app puts last year's target, the inflation-adjusted version, and the new 80% number side by side.
+== AREA 2: ALLOCATION ==
 
-Once-a-year pass:
+Allocation drift happens without you doing anything wrong. Bitcoin runs faster than your index fund, so your Bitcoin share rises on its own, and your risk level rises with it.
 
-1. Re-center your target toward the 80% confidence level.
-2. Cap any move at ±10% in a year.
-3. Adjust for inflation.
+The gentle fix is to rebalance by directing new dollars. You point new contributions at whatever the plan is light on, and the drift corrects without selling anything you didn't plan to sell.
 
-Then refill the reserve. Target: 18 months of spending = $120,000 cash.
+And then re-ask the stress question at your new balance, because the answer moves even when the percentage doesn't. Say the portfolio grew from $500,000 to $800,000 this year. The same 75% drawdown was a $375,000 paper loss last year. This year it's $600,000. The percentage didn't move, but the number you'd have to sit through nearly doubled. Ask the question at the new number.
 
-- Spending held or rose: refill all the way to $120,000.
-- Spending got cut: refill only partway. About 12 months, so ~$80,000.
+== AREA 3: DEBT ==
 
-The 18-month target itself never moves. Bitcoin has historically recovered from major drawdowns in about 18 months. The reserve is sized to cover that stretch.
+The debt question is: are the ratios in range, and is every debt still doing its assigned job?
 
-- Good: spending inside guardrails, reserve at $120K or rebuilding on the rule.
-- Bad: reserve at half its target for two years running.
+The couple's mortgage, $280,000 at 3.25%, had the job of staying cheap while the difference got invested. Still cheap, still doing it. The car loan at 7% had a payoff schedule. Is it on schedule? Their debt-to-income is about $1,850 a month against $15,800 of income, roughly 12%, well in range. And their payments survive a drawdown, because income doesn't fall with the price.
 
-== AREA 2. ALLOCATION ==
+If you're borrowing against Bitcoin, add one more: is the cushion honest at the price on your review date? Would a 50% drawdown force a sale? What good looks like here is ratios in range and no loan that a 50% drop would liquidate.
 
-Drift happens without you doing anything wrong. Bitcoin runs faster than your index fund, your Bitcoin share rises on its own, and your risk level rises with it.
+== AREA 4: TAX ==
 
-Rebalance by directing new dollars. Point new contributions where the plan is light, so you correct the drift without selling anything you didn't plan to sell.
+The tax area is the one with the year-end deadline, so it happens before December 31, while the calendar can still act.
 
-Re-ask the stress question at your new balance. The answer moves even when the percentage doesn't.
+Four checks. Check your harvest room. Check your conversion room. Confirm your cost basis is still clean. And glance at the horizon for required withdrawals.
 
-Portfolio grew $500K → $800K this year. Same 75% drawdown:
+For the couple in a $190,000 working year, the honest answer is that the 0% gains room is out of reach and there's no conversion room worth taking. The thresholds move, so check them. But that's fine. A deliberate pass is a real outcome.
 
-- Last year: 75% of $500K = $375K paper loss.
-- This year: 75% of $800K = $600K paper loss.
+The basis check is a real annual task, though. Their quarter Bitcoin on the exchange has a $15,000 basis, and the records have to prove it, because no records means a basis of zero, which means paying tax on the entire sale price.
 
-Percentage didn't move, but the number you'd sit through nearly doubled.
+What good looks like: this year's window was either used or deliberately passed, with the questions asked while there was still time to act.
 
-== AREA 3. DEBT ==
+== AREA 5: CUSTODY ==
 
-Are your ratios in range, and is every debt still doing its assigned job?
+The custody area has one non-negotiable: prove one recovery this year. "I'm pretty sure the backup works" isn't enough. You run an actual restore test on a spare device, same as the wipe-and-restore from the custody module.
 
-The couple's debts (working year):
+Then rescan for single points of failure, because new accounts, new devices, and backups that moved all create fresh only-ones. And refresh your account security.
 
-- $280,000 mortgage at 3.25%. Job: stay cheap while the difference gets invested. Still cheap.
-- $18,000 auto loan at 7%. Job: a payoff schedule. On schedule?
+What good looks like: one recovery proven, last year's worst only-one fixed, and no new ones created.
 
-Debt-to-income: ~$1,850/mo payments against $15,800 income = ~12%. In range. Payments survive a drawdown because income didn't fall with the price.
+== AREA 6: ESTATE ==
 
-If you're borrowing against Bitcoin: is the cushion honest at the price on your review date? Would a 50% drawdown force a sale?
+The estate area is four questions.
 
-- Good: ratios in range, no loan a 50% drop would liquidate.
+Are your beneficiaries still current? A new baby, a marriage, a divorce. And remember, the form overrides the will. Is the heir letter still accurate? The kids' ages, wallets that moved this year. Does the executor still fit, and are they still willing? And is the dead man's switch armed, with the right recipients?
 
-== AREA 4. TAX ==
-
-Has a year-end deadline. Do it before December 31.
-
-1. Check your harvest room.
-2. Check your conversion room.
-3. Confirm cost basis is still clean.
-4. Glance at the horizon for required withdrawals.
-
-At $190K working income, 0% gains room is out of reach and there's no conversion room worth taking (thresholds move; check them).
-
-The basis check is a real annual task. The quarter BTC on the exchange has a $15,000 basis, and the records have to prove it. No records means a basis of zero, which means paying tax on the entire sale price.
-
-- Good: this year's tax window was either used or deliberately passed, with the questions asked while there was still time to act.
-
-== AREA 5. CUSTODY ==
-
-Prove one recovery this year. "I'm pretty sure the backup works" isn't enough. Run an actual restore test on a spare device.
-
-Then: rescan for single points of failure (new accounts, new devices, backups that moved) and refresh account security.
-
-- Good: one recovery proven, last year's worst "only one" fixed, no new unprotected ones.
-
-== AREA 6. ESTATE ==
-
-1. Are your beneficiaries still current? New baby, marriage, divorce. The form overrides the will.
-2. Is the heir letter still accurate? Kids' ages, wallets that moved this year.
-3. Does the executor still fit? Are they still willing?
-4. Is the dead man's switch armed with the right recipients?
-
-- Good: a letter your family could act on today.
+What good looks like: a letter your family could act on today.
 
 == THE FINISH LINE ==
 
-The sheet closes with a tick-as-you-go checklist and a note for next year's review. Having a defined finish line is what keeps the annual review from turning open-ended.
+The review sheet closes with a tick-as-you-go checklist and a note to your future self for next year's review. That defined finish line matters, because it's what keeps the annual review from turning open-ended.
 
-One card from every module, once a year, each asking whether a decision you already made still fits.
+That's the whole thing. One card from every module, once a year, each one asking whether a decision you already made still fits.
 
-The next lesson is the walkthrough that runs the annual review in the app.
+== HOMEWORK ==
+
+Your homework for this lesson is to:
+
+1. Put the annual review on the calendar, in the fall, recurring.
+2. Then watch the walkthrough below this video, where we run the whole annual review inside Orange Plan.
