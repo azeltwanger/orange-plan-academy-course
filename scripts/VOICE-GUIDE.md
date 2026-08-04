@@ -9,10 +9,17 @@ Every script conversion is checked against this, not against "good writing."
 - **Sentences chain with connectives.** "So..." starts the move, "And..." extends
   it, "Then..." sequences it, "But..." turns it, "Now..." shifts topic. Long
   conversational run-ons joined by "and"/"so" are normal and correct.
-- **First person, experience first.** Claims are backed by "I did this myself,"
-  "I watched my net worth drop 75% in 2022," "I say this from experience because
-  I bought MicroStrategy options in 2021 and got wiped out." Personal story
-  before principle.
+- **Judgment calls get grounded in real experience — mechanics don't.** When a
+  claim could sound like advice or opinion (debt tolerance, holding through
+  drawdowns, borrow-vs-sell), Austin backs it with something that actually
+  happened: "I watched my net worth drop 75% in 2022." Plain mechanics
+  (formulas, tax rules, app steps) are taught directly, no anecdote — forcing
+  one in is its own kind of slop. HARD RULE: never invent experience. The only
+  permitted "I" stories are Austin's documented ones: the 2022 -75% drawdown,
+  cashing out the 401(k) in ~2020, 5% down on the house with the difference
+  into Bitcoin, switching to CrowdHealth (~$1,000/mo saved), the thrift-store
+  resale business, the MicroStrategy options loss, the $1,200 stimulus-check
+  mountain bike. A lesson with no applicable true story gets no story.
 - **Walks the viewer by the hand.** "So let me show you what I did." "Here's how
   to calculate yours." "You'll click receive, copy the address, then go back to
   River." Second person, imperative, concrete.
