@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 4.4
 4.4 The contribution waterfall
-~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the contribution waterfall, which is the order that your next dollar should flow through your accounts, and why that order is what it is.
@@ -19,7 +19,7 @@ Rung 3 is the HSA, if you're eligible for one. It's the only account in the enti
 
 Rung 4 is the Roth, either the Roth IRA or Roth 401(k). Tax-free growth, tax-free withdrawal, and no RMDs. An RMD is a required minimum distribution, which is the withdrawal the government forces out of your traditional accounts once you hit a certain age. The Roth is especially strong for Bitcoin-heavy plans, because if the thesis plays out, Bitcoin appreciation puts you in a higher bracket in retirement than you're in right now, and the Roth is the account that doesn't care.
 
-Rung 5 is the traditional 401(k) or IRA, past the match, up to the annual limit. You get the deduction now and pay ordinary income tax on the way out. This rung is best if you expect a lower bracket in retirement than today.
+Rung 5 is the traditional 401(k) or IRA, past the match, up to the annual limit. You get the deduction now and pay ordinary income tax on the way out. Ordinary income just means it's taxed like a paycheck, at your regular rate, instead of at the lower rate that investments get. This rung is best if you expect a lower bracket in retirement than today.
 
 And rung 6 is taxable brokerage or Bitcoin. Once the tax-advantaged rungs are maxed, everything else goes here, and the split between them reflects the allocation tier you picked earlier in this module.
 
@@ -45,10 +45,31 @@ The last piece is what I call the routing card. Post the waterfall somewhere you
 
 That's one decision, made once, that routes every future dollar correctly. You never have to re-decide it in the moment.
 
+== TWO QUESTIONS ABOUT THE SAME DOLLAR ==
+
+Before the homework, I want to connect this to the buckets from the last lesson, because people mix these two up.
+
+The waterfall and your buckets answer two different questions about the same dollar, and you answer both of them every time you save. The waterfall answers which account it goes into: the 401(k), the HSA, the Roth, taxable. That's the wrapper, and it decides how the dollar gets taxed. Your buckets answer which timeframe it's funding: Reserve, Bridge, or Legacy. That's the job, and it decides what you buy once the dollar is inside.
+
+So a dollar going into your Roth is a rung 4 decision and a Legacy dollar at the same time. Same dollar, two labels, no conflict.
+
+Here's where that gets practical. The waterfall tells you the order, but it doesn't always tell you what to buy once you're inside an account. That's what the buckets are for. When you have a choice inside a rung, go look at which bucket is behind, and fund that one. Strategy and then Allocation is the screen that shows you this, and it renders each timeframe as either funded or behind, so you can see which one is short without doing any math.
+
+One trap to name: an account is not a bucket. A 401(k) sitting in a stable-value fund is a Legacy account holding Bridge-shaped risk. The wrapper tells you nothing about the job, so check both.
+
+== YOUR DECISION ==
+
+Your decision here is the order your next dollar flows, the amount at each rung, and which bucket your flexible dollars fill.
+
+Take free money first, because an employer match is the only guaranteed return you'll ever be offered. Then kill guaranteed losses, meaning high-interest debt. Then fill your tax shelters in order of quality. Everything after that is taxable or Bitcoin. And then let the buckets break the tie: once you know the account, check Allocation and put the flexible money toward whichever timeframe reads behind.
+
+You make this decision once and it routes every future dollar without you re-deciding every month. The bucket check is the only part that repeats, and it takes about 10 seconds during your monthly pass.
+
 == HOMEWORK ==
 
 Your homework for this lesson is to:
 
-1. Write out your own waterfall, with the rungs that actually apply to you, and cross off the ones that don't.
-2. Route your current monthly surplus down it, dollar by dollar, until the whole number is spent once.
-3. Then watch the module walkthrough below this video, where I'll show you how to set this routing up in Orange Plan.
+1. Write your rung order and the dollar amount at each rung.
+2. Open Strategy and then Allocation, and write down which bucket currently reads behind.
+3. Enter your contributions in the app so the projection reflects your real routing.
+4. Automate whatever you can at the source, so the decision runs itself.

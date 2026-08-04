@@ -191,6 +191,23 @@ It doesn't decide the move. It names the emotion so you can act on the plan inst
 
 Before a big move (buying a large position, selling to lock in gains, taking out a Bitcoin-backed loan), if the recent 3-6 month price move is dramatic, you're probably reacting to it. Wait a beat. Is this the plan making the decision, or the price?
 
+### Your decision
+
+**The largest Bitcoin position you could actually hold through a 70 to 80% drawdown without selling.**
+
+How to think about it:
+
+1. **Run the stress test on today's balance, not last year's.** The percentage doesn't move, but the dollar figure does, and the dollar figure is what you'd actually feel.
+2. **Answer honestly, not aspirationally.** The right answer is the one that's true at 3am with the price down 75%, not the one that sounds brave.
+3. **If the honest answer is "I'd sell," the position is too big.** Most people land here the first time they run it honestly. Better to find that out now than in the middle of the drawdown. Size down to the number you can actually hold.
+4. **Check the price context before you act**, so you can tell whether you're reacting to the plan or to the last few months.
+
+### Homework
+
+1. Run the stress test at today's balance and answer out loud.
+2. Write down the position size you could hold through it.
+3. If that's smaller than what you hold now, write what you'll do about the difference.
+
 The next lesson covers the three buckets that give every dollar in your plan a job.
 
 ## 4.3 Give every dollar a job: Reserve / Bridge / Forever
@@ -274,6 +291,23 @@ The target is what the projection uses. Change it and the plan re-solves. Route 
 - **Bitcoin in Bridge.** Bitcoin belongs in Legacy. If you're planning to spend it inside 10 years, either the bucket or the plan is wrong.
 - **Cash in Legacy.** Cash has no place in a 10+ year bucket. A 401(k) in a stable-value fund is misclassified: Bridge risk in a Legacy slot.
 - **Reserve too small in retirement.** Once you're drawing income, the Reserve does more work. Its job in retirement is sequence-risk protection, not just emergencies.
+
+### Your decision
+
+**A target size for each of your three buckets.**
+
+How to think about it:
+
+1. **Reserve first, because it's the only one with a deadline.** It's already sized from the reserve lesson.
+2. **Bridge is driven by your timeline**, meaning the years between when the paycheck stops and when your other income turns on. If you're decades away, it's small. If you're close to retiring, it's the biggest decision on this page.
+3. **Legacy is what's left**, and it's where Bitcoin belongs, because it's the only bucket with enough time to survive a drawdown.
+4. **Compare targets to what you actually hold.** The gap between the two is your routing instruction for the next year.
+
+### Homework
+
+1. Write a target for each bucket: Reserve, Bridge, Legacy.
+2. Open **Strategy → Allocation** and compare each target to what you actually hold.
+3. Write down which bucket is furthest behind. That's where new dollars go first.
 
 The next lesson covers the contribution waterfall that routes every new dollar into the right bucket in the right order.
 
@@ -364,6 +398,42 @@ Post the waterfall where you make money decisions. When a bonus or windfall arri
 - Taxable or Bitcoin.
 
 One decision, made once, routes every future dollar correctly.
+
+### Two questions about the same dollar
+
+The waterfall and your buckets are not competing systems. They answer two different questions about the same dollar, and both get answered every time you save.
+
+- **The waterfall answers: which account does it go into?** The 401(k), the HSA, the Roth, the taxable brokerage. This is the **wrapper**, and it decides how the dollar gets taxed.
+- **Your buckets answer: which timeframe is it funding?** Reserve, Bridge, or Legacy. This is the **job**, and it decides what you buy once the dollar is inside.
+
+A dollar going into your Roth is a rung-4 decision *and* a Legacy dollar at the same time. Same dollar, two labels, no conflict.
+
+Here's where it gets practical. The waterfall tells you the order, but it doesn't always tell you what to buy once you're inside an account. That's what the buckets are for. **When you have a choice inside a rung, go look at which bucket is behind, and fund that one.**
+
+**Strategy → Allocation** is the screen that shows you this. The three timeframes render with **Funded** or **Behind** badges, so you can see which one is short without doing any arithmetic. Whichever reads Behind is where this month's flexible dollars go.
+
+⚠ One trap worth naming: an account is not a bucket. A 401(k) sitting in a stable-value fund is a Legacy *account* holding Bridge-shaped risk. The wrapper says nothing about the job. Check both.
+
+### Your decision
+
+**The order your next dollar flows, the amount at each rung, and which bucket the flexible dollars fill.**
+
+How to think about it:
+
+1. **Take free money first.** An employer match is the only guaranteed return you'll ever be offered.
+2. **Then kill guaranteed losses**, meaning high-interest debt, because paying off a 20% card beats any investment you could pick with confidence.
+3. **Then fill tax shelters in order of quality**, since every dollar inside one keeps compounding without a yearly tax drag.
+4. **Everything after that is taxable or Bitcoin.**
+5. **Then let the buckets break the tie.** Once you know the account, check Strategy → Allocation and put the flexible money toward whichever timeframe reads Behind.
+
+You make this decision once and it routes every future dollar without you re-deciding each month. The bucket check is the only part you repeat, and it takes about 10 seconds during your monthly pass.
+
+### Homework
+
+1. Write your rung order and the dollar amount at each rung.
+2. Open **Strategy → Allocation** and write down which bucket currently reads **Behind**.
+3. Enter your contributions in the app so the projection reflects the real routing.
+4. Automate whatever you can at the source, so the decision runs itself.
 
 The next lesson covers asset location: which type of account each holding should sit in.
 

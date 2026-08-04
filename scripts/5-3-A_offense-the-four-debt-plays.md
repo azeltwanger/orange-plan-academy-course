@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 5.3-A
 5.3 Offense: the four debt plays
-~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 5.3-B)
+~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 5.3-B)
 ============================================================
 
 In today's lesson, we're going to cover the offensive side of debt, which is the four plays where debt actually builds wealth.
@@ -64,3 +64,17 @@ Here's the frame to leave with. Each of these four plays is a comparison, not a 
 And to be clear, none of these 4 is a recommendation from me. They're plays I want you to understand well enough to evaluate, and every one of them can lose money. The tax treatment I've described is general and it can change, so verify your own situation with a CPA before you act on any of it.
 
 So let's run one right now. Pick the play you're most tempted by, and let's put it up against your own baseline in the app.
+
+== YOUR DECISION ==
+
+Your decision here is which play you're running, if any, and the rules it runs under.
+
+Here's how to think about it. Check it against defense first, because if a play would push you past the ceiling you set last lesson, the answer is no and you're done thinking about it. Then name the failure mode out loud before you name the upside, because if you can't say how the play loses, you don't understand it well enough to run it. And "none of them" is a real answer, and it's the right one for a lot of households. If you are running one, write the operating rules before any money moves: what it's for, your maximum size, what makes you unwind it, and who else knows about it.
+
+== HOMEWORK ==
+
+Your homework for this lesson is to:
+
+1. Pick your play, or write down that you're running none.
+2. Model it against your baseline as a scenario, and read the confidence number both ways.
+3. If you're running one, write the operating rules down before you act.

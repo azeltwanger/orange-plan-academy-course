@@ -49,7 +49,7 @@ That's exactly why the Bridge bucket from the allocation module exists. Money fo
 
 Now, the claiming decision. The standard advice says wait for the bigger check, and the math behind that is true: the check grows roughly 8% a year for every year you delay past your full retirement age.
 
-But here's what the standard advice leaves out: waiting isn't free. Every year you wait, the portfolio carries the full gap by itself. And for a Bitcoin-heavy plan, claiming earlier can be completely rational, because what you're really buying with the earlier check is fewer forced Bitcoin sales during the bridge. Especially if one of those bridge years turns out to be a drawdown year.
+But here's what the standard advice leaves out: waiting isn't free. Every year you wait, the portfolio carries the full gap by itself. And for a Bitcoin-heavy plan, claiming earlier can be completely rational, because the earlier check means fewer forced Bitcoin sales during the bridge. Especially if one of those bridge years turns out to be a drawdown year.
 
 So don't default to waiting just because the check is bigger. Compare 62, full retirement age, and 70 against your own gap. In the app, there are two one-click scenarios for this, claim at 62 and claim at 70, and each one re-runs your entire plan with the floor turning on at that age. Read your own bridge both ways, side by side.
 

@@ -5,7 +5,7 @@ TELEPROMPTER SCRIPT — segment 3.1
 
 In today's lesson, we're going to cover how to find your surplus, which is the money you have left over every month after everything else has been paid.
 
-Bitcoin is the thing that builds the wealth in this plan, but your cash flow is the engine sitting underneath all of it. Your surplus is what decides whether you're able to keep buying, whether you're able to keep holding through a drawdown, or whether you end up in a position where you're forced to sell at the bottom.
+Bitcoin is the thing that builds the wealth in this plan, but your cash flow is the engine sitting underneath all of it. Your surplus is what decides whether you're able to keep buying, whether you're able to keep holding through a drawdown, which just means a stretch where the price is way down off its high, or whether you end up in a position where you're forced to sell at the bottom.
 
 Back in 2022, Bitcoin dropped 77% from its peak. I watched my own net worth drop about 75% during that window. And what I noticed is that the people who got hurt the worst weren't the people who had the wrong allocation. They were the people whose monthly cash flow forced them to sell into that drop. That's the thing this lesson is designed to protect you from.
 

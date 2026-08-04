@@ -26,8 +26,17 @@ Each bucket gets a target % of net worth. Working Sovereign-tier: ~5/15/80. Appr
 - **Cash in Legacy**: a 401(k) parked in a stable-value fund is Bridge risk in a Legacy slot.
 - **Reserve too small in retirement**: once you're drawing income, the Reserve's job is sequence-risk protection.
 
+## Your decision
+
+**A target size for each of your three buckets.**
+
+1. **Reserve first**, since it's the only one with a deadline and you sized it in the reserve lesson.
+2. **Bridge is your timeline**: the years between the paycheck stopping and other income starting. Decades away means small; close to retirement means it's the biggest number here.
+3. **Legacy is what's left**, and it's where Bitcoin belongs, because it's the only bucket with time to survive a drawdown.
+4. **Compare targets to what you hold.** The gap is your routing instruction for the year.
+
 ## Homework
 
-1. Put every account into a bucket.
-2. Check for the three mistakes.
-3. Write a target % for each bucket; the walkthrough tracks them in the app.
+1. Write a target for Reserve, Bridge, and Legacy.
+2. Open **Strategy → Allocation** and compare each to what you hold.
+3. Write down which bucket is furthest behind. New dollars go there first.

@@ -1,9 +1,11 @@
 TELEPROMPTER SCRIPT — segment 4.3
 4.3 Give every dollar a job: Reserve / Bridge / Legacy
-~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the 3 buckets that give every dollar you own a job.
+
+Here's the problem this solves. Most people have one big pile of money and one vague feeling about it. So when the market drops, every dollar feels at risk, including the dollars they won't touch for 30 years. Giving each dollar a job is what lets you stop worrying about the long-term money during a bad month, because you already know you're not spending it.
 
 Every dollar sits in one of 3 buckets, and the bucket tells you three things: what that money is for, how it should behave, and where it should sit.
 
@@ -53,10 +55,16 @@ The second is cash in Legacy. Cash has no place in a ten-plus-year bucket, becau
 
 And the third is a Reserve that's too small in retirement. Once you're drawing income instead of earning it, the Reserve is doing more work. Its job in retirement is sequence-risk protection, not just emergencies.
 
+== YOUR DECISION ==
+
+Your decision here is a target size for each of your three buckets.
+
+Here's how to think about it. Reserve comes first, because it's the only one with a deadline, and you already sized it back in the reserve lesson. Bridge is driven by your timeline, meaning the years between when the paycheck stops and when your other income turns on. If you're decades away that's small, and if you're close to retiring it's the biggest number on this page. Legacy is whatever's left, and that's where Bitcoin belongs, because it's the only bucket with enough time to survive a drawdown. Then compare your targets to what you actually hold, because the gap between those two is your routing instruction for the next year.
+
 == HOMEWORK ==
 
 Your homework for this lesson is to:
 
-1. Put every account you own into one of the 3 buckets.
-2. Check for the three mistakes: Bitcoin in Bridge, cash in Legacy, and a retirement Reserve that's too thin.
-3. Write down a target percentage for each bucket, and then watch the module walkthrough below this video, where I'll show you how the app tracks all 3 buckets against those targets.
+1. Write a target for each bucket: Reserve, Bridge, and Legacy.
+2. Open Strategy and then Allocation, and compare each target to what you actually hold.
+3. Write down which bucket is furthest behind, because that's where your new dollars go first.

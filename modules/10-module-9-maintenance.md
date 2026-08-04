@@ -53,6 +53,23 @@ Orange Plan is built the same way. Your confidence ring only goes stale and asks
 
 If nothing changed, the review takes five minutes and confirms that nothing changed.
 
+### Your decision
+
+**Your two review dates.**
+
+How to think about it:
+
+1. **Separate the two jobs.** The monthly pass catches facts going stale. The annual pass asks whether decisions still fit. Mixing them turns every month into a rebuild.
+2. **Pick a specific recurring day, not a vague intention.** "First Saturday" survives. "Beginning of the month" doesn't.
+3. **Put the annual one before year-end**, because the tax moves in it expire on December 31.
+4. **Protect the boundary.** If something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
+
+### Homework
+
+1. Pick your monthly day and your annual month.
+2. Put both on your calendar as recurring events, right now.
+3. Write one line on what you will not touch during a monthly pass.
+
 The next lesson covers the monthly pass in detail.
 
 ## 10.2 The monthly pass
@@ -259,6 +276,23 @@ Then: rescan for single points of failure (new accounts, new devices, backups th
 The sheet closes with a tick-as-you-go checklist and a note for next year's review. Having a defined finish line is what keeps the annual review from turning open-ended.
 
 One card from every module, once a year, each asking whether a decision you already made still fits.
+
+### Your decision
+
+**Which month you run the annual review, and what "done" looks like.**
+
+How to think about it:
+
+1. **Run it before year-end**, because the tax card is the only area with a hard deadline and it closes December 31.
+2. **Give each area about the same short attention.** You're reading six screens and asking one question of each: does the decision I made still fit?
+3. **Cap the output at three actions.** A longer list is the reason people quit doing reviews.
+4. **Define the finish line up front**, so the review ends instead of drifting into a rebuild.
+
+### Homework
+
+1. Pick your annual review month and put it on the calendar as recurring.
+2. Write your three-action cap down as a rule you'll actually follow.
+3. Write what "done" means for you: the report saved and the backup exported.
 
 The next lesson is the walkthrough that runs the annual review in the app.
 

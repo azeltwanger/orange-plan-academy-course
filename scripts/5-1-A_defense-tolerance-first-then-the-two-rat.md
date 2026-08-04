@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 5.1-A
 5.1 Defense: tolerance first, then the two ratios
-~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 5.1-B)
+~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 5.1-B)
 ============================================================
 
 In today's lesson, we're going to cover the defensive side of debt: your tolerance, and the two ratios that tell you where you stand.
@@ -58,3 +58,17 @@ Their DTI is about $1,850 a month of payments against $15,800 of income, which i
 Notice that those are two totally different reads on the same household. Their monthly is fine. Their balance sheet is at the ceiling. Both of those are true at the same time. And the DTA is the one that's going to move when Bitcoin does.
 
 So those are your two ratios on paper. Now let's get them out of your head and into the app, because the app runs the stress test on top of them, and that's the number you actually manage against.
+
+== YOUR DECISION ==
+
+Your decision out of this lesson is your personal debt ceiling, meaning the level you won't go past, whatever the ratios say is technically allowed.
+
+Here's how to think about it. Start with tolerance, not the ratios, because if carrying debt keeps you up at night, that's a real constraint and it outranks any formula I can give you. Then read the two ratios as two different questions. One is asking whether you survive this month, and the other is asking how much room you have to make a move at all. Notice which one actually moves: your monthly ratio barely budges in a drawdown, but the balance-sheet one moves a lot, because the asset side is Bitcoin. So set your ceiling against the one that moves, and set it while the price is high, because that's exactly when debt looks safest and you're most tempted.
+
+== HOMEWORK ==
+
+Your homework for this lesson is to:
+
+1. Write both of your ratios down off the Strategy and then Debt page.
+2. Write your ceiling, meaning the number you won't cross.
+3. Say out loud whether you're inside it today. If you're not, that's your first debt job.

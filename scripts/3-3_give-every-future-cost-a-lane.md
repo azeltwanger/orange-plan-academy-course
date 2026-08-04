@@ -1,13 +1,13 @@
 TELEPROMPTER SCRIPT — segment 3.3
 3.3 Give every future cost a lane
-~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover how to give every future cost that you already know about its own lane.
 
 == KNOWN COSTS AREN'T EMERGENCIES ==
 
-A known cost is anything that's already on the calendar with a date attached to it. So that's your kids' college tuition, 4 years of it starting in 8 years. It's a roof replacement that you know is coming in a ballpark year. It's a car that you're going to buy in 5 years, a wedding, a big trip, a home renovation, or the estimated taxes on a Roth conversion that you're planning.
+A known cost is anything that's already on the calendar with a date attached to it. So that's your kids' college tuition, 4 years of it starting in 8 years. It's a roof replacement that you know is coming in a ballpark year. It's a car that you're going to buy in 5 years, a wedding, a big trip, a home renovation, or the estimated taxes on a Roth conversion that you're planning. A Roth conversion just means moving money out of a pre-tax retirement account into a Roth, and paying the tax on it now so it never gets taxed again. There's a whole lesson on it later.
 
 Your reserve is not for any of these. Your reserve is for the things you didn't see coming. Known costs are things you did see coming. And if you confuse the two, one of two things is going to happen. Either you're going to drain your reserve to pay for something that was on the calendar the whole time, or you're going to end up selling Bitcoin at the worst possible moment because you never pre-funded it.
 
@@ -23,7 +23,7 @@ If it's one to 3 years out, you're still in short-term Treasuries or a high-yiel
 
 Three to 7 years out is where you can start taking some risk. A balanced mix of stocks and bonds, or something like an I-Bond ladder. I'd still keep Bitcoin out of that lane.
 
-And then 7 years or more is where a planned Bitcoin sell schedule can actually start to make sense. At that point, cash is the wrong answer, because the drag of holding cash that long is going to cost you more than the volatility would. If you are going to fund something out of Bitcoin, plan those sales into your low-bracket years, and I'll cover how to find those years in the tax module.
+And then 7 years or more is where a planned Bitcoin sell schedule can actually start to make sense. At that point, cash is the wrong answer, because the drag of holding cash that long is going to cost you more than the volatility would. If you are going to fund something out of Bitcoin, plan those sales into your low-bracket years, meaning the years when your income is small enough that the tax rate on those sales is low, and I'll cover how to find those years in the tax module.
 
 == PRE-FUNDING VERSUS PAYING FROM FLOW ==
 
@@ -45,7 +45,7 @@ The first is to just pay it from flow. That's $25,000 a year of tuition eating i
 
 The second option is to pre-fund it from flow. They'd route about $1,000 a month into an intermediate lane for 8 years. That's about $96,000 contributed, or somewhere around $110,000 once you account for growth. And now the tuition years are just a routing move out of that lane. Their surplus never takes the hit.
 
-The third option is to sell Bitcoin to cover it. That can work, and it can work well if the tuition years happen to line up with their bridge years, when their income is low and they can realize gains cheaply. But if the tuition years land while they're still working and earning, they're forcing realized gains in high-bracket years, and that gets expensive.
+The third option is to sell Bitcoin to cover it. That can work, and it can work well if the tuition years happen to line up with their bridge years, when their income is low and they can realize gains cheaply. Realizing a gain just means selling something for more than you paid, and the profit is the part that gets taxed. But if the tuition years land while they're still working and earning, they're forcing realized gains in high-bracket years, and that gets expensive.
 
 I don't think there's one right answer here. Which option makes sense is going to come down to your numbers. But what your plan absolutely has to do is know that the cost is coming and have a lane assigned to it, because a plan that doesn't know about a $100,000 bill is going to give you a retirement date that isn't real.
 

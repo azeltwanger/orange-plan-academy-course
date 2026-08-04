@@ -1,9 +1,13 @@
 TELEPROMPTER SCRIPT — segment 2.3
 2.3 The confidence ring: your plan's stress test
-~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the two numbers at the top of your plan — your earliest retirement date, and your confidence number — and how to read them together.
+
+== YOUR EARLIEST RETIREMENT DATE ==
+
+Here's why you need both numbers and not just one. The date tells you when. The confidence number tells you how sturdy that date is. A date you love at a confidence you don't trust isn't a plan, it's a wish. And most tools only show you the date.
 
 == YOUR EARLIEST RETIREMENT DATE ==
 
@@ -16,6 +20,8 @@ One thing to understand about the date: it's deterministic. It runs your numbers
 == THE CONFIDENCE NUMBER ==
 
 The confidence number takes your entire plan and runs it through a thousand different simulated futures, each one with different market results, and then it counts how many of them succeeded.
+
+You'll see this called a Monte Carlo simulation, and that's the label on the button in the app. Don't let the name throw you. All it means is running your plan a thousand times instead of once, so you're looking at a range of outcomes instead of a single guess.
 
 So if your confidence number is 82%, that means 820 of those thousand runs succeeded on your numbers.
 
@@ -60,3 +66,17 @@ Three things to keep in mind when you read yours:
 3. And the number is directional. It's a stress test built on research and history, not a guarantee.
 
 You're going to run your own confidence ring for the first time in the walkthrough at the end of this module.
+
+== YOUR DECISION ==
+
+Your decision here is what confidence level you're aiming for, and which lever you'd pull if you come in under it.
+
+Here's how to think about it. Pick your target before you look at your number, so the number doesn't just talk you into whatever it already says. Then decide your lever in advance, because there are really only four: work a little longer, spend a little less, save more, or change your allocation. If you pick that now, a low number turns into a to-do item instead of a bad night. And remember 100 was never the goal. A very high number usually just means you're over-saving and under-living.
+
+== HOMEWORK ==
+
+Your homework for this lesson is to:
+
+1. Run the confidence check in the app and write your number down.
+2. Write your target number next to it.
+3. Name the one lever you'd pull first if you're under it. One, not all four.

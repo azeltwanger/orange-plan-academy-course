@@ -21,7 +21,16 @@ Industry practice backs these lines: the widely used advisor "confidence zone" r
 
 100% confidence was never the goal. It usually means over-saving and under-living.
 
+## Your decision
+
+**What confidence level you're aiming for, and which lever you'd pull if you come in under it.**
+
+1. **Pick your target before you see your number**, so the number doesn't talk you into whatever it already says.
+2. **Decide the lever in advance.** There are four: work longer, spend less, save more, change the allocation. Picking now turns a low number into a to-do instead of a bad night.
+3. **Remember 100 was never the goal.** A very high number usually means over-saving and under-living.
+
 ## Homework
 
-1. Run the Monte Carlo on your plan and write down your number.
-2. If it's under 60, don't panic. The whole course is the fix, one module at a time.
+1. Run the confidence check and write your number down.
+2. Write your target next to it.
+3. Name the one lever you'd pull first. One, not four.

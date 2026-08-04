@@ -22,7 +22,7 @@ Bridge years × annual cost of each path, side by side, then health status, risk
 
 ## In the plan
 
-The bridge premium is an **Expense Change life event with a duration** (retire at 60 → 5 years). The app shows conversion taxes in full but does *not* price the subsidy hit of higher MAGI. That's your worksheet. At 65 the income rules swap: subsidies out, IRMAA in.
+The bridge premium is an **Expense Change life event with a duration** (retire at 60 → 5 years). The app shows conversion taxes in full but does *not* price the subsidy hit of higher MAGI. That's your worksheet. At 65 the income rules swap: subsidies end, and high income raises your Medicare premiums instead.
 
 ## Homework
 

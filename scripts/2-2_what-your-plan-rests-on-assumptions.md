@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 2.2
 2.2 What your plan rests on: assumptions
-~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover assumptions — the inputs about the future that your plan treats as truth.
@@ -55,3 +55,18 @@ So how do you choose? Four things to keep in mind:
 4. And pick something you can live with if you're wrong. The right assumption still holds up if the future doesn't cooperate.
 
 You're going to get to change these later and see what your plan looks like under different assumptions. For now, we're setting the ones your baseline actually runs on — and we'll do that in the walkthrough at the end of this module.
+
+== YOUR DECISION ==
+
+So your decision out of this lesson is which growth model and which inflation number your plan is going to run on.
+
+Here's how I'd think about it. Start with what you'd actually defend out loud, because if you can't explain why you picked a curve, then you didn't really pick it, you just left whatever the app had loaded. Then ask yourself which way you'd rather be wrong. If you're conservative and you're wrong, you just retire earlier than the screen said. If you're optimistic and you're wrong, the whole plan was built on something that didn't happen. And set inflation to what you actually believe, not whatever the default is, because your future spending rises with that number.
+
+== HOMEWORK ==
+
+Your homework for this lesson is to:
+
+1. Pick your Bitcoin growth model, and say out loud why you picked it.
+2. Set your inflation number.
+3. Enter both in the app, under Plan and then Edit assumptions.
+4. Write one sentence for each explaining why that's the assumption you'd defend.

@@ -51,7 +51,7 @@ In the app, you enter it as an Expense Change life event with a duration. So if 
 
 One thing the app doesn't do: when you model a Roth conversion, it shows you the tax side in full, but it doesn't price what the higher MAGI does to your subsidy. That part is your worksheet.
 
-And one last marker for age 65: your income doesn't stop driving your healthcare cost at Medicare, it just switches rules. The subsidies stop, and the IRMAA surcharge thresholds take over. We touched IRMAA in the tax module.
+And one last marker for age 65: your income doesn't stop driving your healthcare cost once you're on Medicare, it just switches rules. The subsidies go away, and above certain income levels your Medicare premiums go up instead. Same idea, different mechanism, and it's another reason your income in these years is worth planning.
 
 == HOMEWORK ==
 

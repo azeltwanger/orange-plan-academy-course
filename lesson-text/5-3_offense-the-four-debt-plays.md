@@ -22,6 +22,17 @@ A cheap mortgage is an asset you hold on purpose. Related move: open a HELOC/cre
 
 Play 2 has a retirement version: the app compares Bracket-aware, Borrow-first, and Custom phases against sell-only (retirement income module).
 
+## Your decision
+
+**Which play you're running, if any, and the rules it runs under.**
+
+1. **Check it against defense first.** If it pushes past the ceiling you set, the answer is no.
+2. **Name the failure mode before the upside.** If you can't say how it loses, you don't understand it well enough to run it.
+3. **"None of them" is a real answer**, and it's right for a lot of households.
+4. **If you are running one, write the operating rules before money moves**: purpose, maximum size, what unwinds it, who else knows.
+
 ## Homework
 
-Pick the play you're most tempted by and model it against your baseline in the app. Every play is a comparison, not a rule.
+1. Pick your play, or write down that you're running none.
+2. Model it as a scenario and read the confidence number both ways.
+3. If you're running one, write the operating rules before you act.

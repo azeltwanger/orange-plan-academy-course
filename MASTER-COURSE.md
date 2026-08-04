@@ -269,6 +269,23 @@ Four things to keep in mind:
 3. **Take inflation seriously.** Push 3% higher if the last few years told you to.
 4. **Pick something you can live with if you're wrong.** The right assumption still holds up if the future doesn't cooperate.
 
+### Your decision
+
+**Which growth model and inflation rate your plan runs on.**
+
+How to think about it:
+
+1. **Start with what you'd defend out loud.** If you can't explain why you picked a curve, it isn't yours, it's a default you inherited.
+2. **Ask which way you'd rather be wrong.** A conservative assumption shows you a later date on screen. An optimistic one can make the whole plan unreliable, which costs a lot more.
+3. **Set inflation to what you actually believe**, not the default, because your future spending target rises with it.
+
+### Homework
+
+1. Pick your Bitcoin growth model and say out loud why you picked it.
+2. Set your inflation number.
+3. Enter both in the app under **Plan → Edit assumptions**.
+4. Write one sentence for each: why this is the assumption you'd defend.
+
 You'll get to change these later and see what the plan looks like under different assumptions. For now, we're setting the ones your baseline plan actually runs on.
 
 ## 2.3 The confidence ring: your plan's stress test
@@ -369,6 +386,22 @@ A few things to keep in mind:
 - **A high number means fewer adjustments.** 82% doesn't mean 18% chance of going broke. It means the plan needed to adjust in 180 of the thousand runs.
 - **Watch for big moves, not small ones.** Small run-to-run changes aren't meaningful. If a change to your plan moves the number 5-10 points, that's the change telling you something.
 - **The number is directional.** It's a stress test on research and history. When the research updates, the app's numbers update with it.
+
+### Your decision
+
+**What confidence level you're aiming for, and which lever you'd pull if you come in under it.**
+
+How to think about it:
+
+1. **Pick your target before you see your number**, so the number doesn't talk you into whatever it already says.
+2. **Decide the lever in advance.** There are only four: work a little longer, spend a little less, save more, or change the allocation. Picking now means a low number becomes a to-do instead of a bad night.
+3. **Remember that 100 was never the goal.** A very high number usually means you're over-saving and under-living.
+
+### Homework
+
+1. Run the confidence check in the app and write your number down.
+2. Write your target number next to it.
+3. Name the one lever you'd pull first if you're under it. One, not four.
 
 The next module builds the cash flow that lets you keep buying Bitcoin without being forced to sell at the wrong time.
 
@@ -1502,6 +1535,23 @@ It doesn't decide the move. It names the emotion so you can act on the plan inst
 
 Before a big move (buying a large position, selling to lock in gains, taking out a Bitcoin-backed loan), if the recent 3-6 month price move is dramatic, you're probably reacting to it. Wait a beat. Is this the plan making the decision, or the price?
 
+### Your decision
+
+**The largest Bitcoin position you could actually hold through a 70 to 80% drawdown without selling.**
+
+How to think about it:
+
+1. **Run the stress test on today's balance, not last year's.** The percentage doesn't move, but the dollar figure does, and the dollar figure is what you'd actually feel.
+2. **Answer honestly, not aspirationally.** The right answer is the one that's true at 3am with the price down 75%, not the one that sounds brave.
+3. **If the honest answer is "I'd sell," the position is too big.** Most people land here the first time they run it honestly. Better to find that out now than in the middle of the drawdown. Size down to the number you can actually hold.
+4. **Check the price context before you act**, so you can tell whether you're reacting to the plan or to the last few months.
+
+### Homework
+
+1. Run the stress test at today's balance and answer out loud.
+2. Write down the position size you could hold through it.
+3. If that's smaller than what you hold now, write what you'll do about the difference.
+
 The next lesson covers the three buckets that give every dollar in your plan a job.
 
 ## 4.3 Give every dollar a job: Reserve / Bridge / Forever
@@ -1585,6 +1635,23 @@ The target is what the projection uses. Change it and the plan re-solves. Route 
 - **Bitcoin in Bridge.** Bitcoin belongs in Legacy. If you're planning to spend it inside 10 years, either the bucket or the plan is wrong.
 - **Cash in Legacy.** Cash has no place in a 10+ year bucket. A 401(k) in a stable-value fund is misclassified: Bridge risk in a Legacy slot.
 - **Reserve too small in retirement.** Once you're drawing income, the Reserve does more work. Its job in retirement is sequence-risk protection, not just emergencies.
+
+### Your decision
+
+**A target size for each of your three buckets.**
+
+How to think about it:
+
+1. **Reserve first, because it's the only one with a deadline.** It's already sized from the reserve lesson.
+2. **Bridge is driven by your timeline**, meaning the years between when the paycheck stops and when your other income turns on. If you're decades away, it's small. If you're close to retiring, it's the biggest decision on this page.
+3. **Legacy is what's left**, and it's where Bitcoin belongs, because it's the only bucket with enough time to survive a drawdown.
+4. **Compare targets to what you actually hold.** The gap between the two is your routing instruction for the next year.
+
+### Homework
+
+1. Write a target for each bucket: Reserve, Bridge, Legacy.
+2. Open **Strategy → Allocation** and compare each target to what you actually hold.
+3. Write down which bucket is furthest behind. That's where new dollars go first.
 
 The next lesson covers the contribution waterfall that routes every new dollar into the right bucket in the right order.
 
@@ -1675,6 +1742,42 @@ Post the waterfall where you make money decisions. When a bonus or windfall arri
 - Taxable or Bitcoin.
 
 One decision, made once, routes every future dollar correctly.
+
+### Two questions about the same dollar
+
+The waterfall and your buckets are not competing systems. They answer two different questions about the same dollar, and both get answered every time you save.
+
+- **The waterfall answers: which account does it go into?** The 401(k), the HSA, the Roth, the taxable brokerage. This is the **wrapper**, and it decides how the dollar gets taxed.
+- **Your buckets answer: which timeframe is it funding?** Reserve, Bridge, or Legacy. This is the **job**, and it decides what you buy once the dollar is inside.
+
+A dollar going into your Roth is a rung-4 decision *and* a Legacy dollar at the same time. Same dollar, two labels, no conflict.
+
+Here's where it gets practical. The waterfall tells you the order, but it doesn't always tell you what to buy once you're inside an account. That's what the buckets are for. **When you have a choice inside a rung, go look at which bucket is behind, and fund that one.**
+
+**Strategy → Allocation** is the screen that shows you this. The three timeframes render with **Funded** or **Behind** badges, so you can see which one is short without doing any arithmetic. Whichever reads Behind is where this month's flexible dollars go.
+
+⚠ One trap worth naming: an account is not a bucket. A 401(k) sitting in a stable-value fund is a Legacy *account* holding Bridge-shaped risk. The wrapper says nothing about the job. Check both.
+
+### Your decision
+
+**The order your next dollar flows, the amount at each rung, and which bucket the flexible dollars fill.**
+
+How to think about it:
+
+1. **Take free money first.** An employer match is the only guaranteed return you'll ever be offered.
+2. **Then kill guaranteed losses**, meaning high-interest debt, because paying off a 20% card beats any investment you could pick with confidence.
+3. **Then fill tax shelters in order of quality**, since every dollar inside one keeps compounding without a yearly tax drag.
+4. **Everything after that is taxable or Bitcoin.**
+5. **Then let the buckets break the tie.** Once you know the account, check Strategy → Allocation and put the flexible money toward whichever timeframe reads Behind.
+
+You make this decision once and it routes every future dollar without you re-deciding each month. The bucket check is the only part you repeat, and it takes about 10 seconds during your monthly pass.
+
+### Homework
+
+1. Write your rung order and the dollar amount at each rung.
+2. Open **Strategy → Allocation** and write down which bucket currently reads **Behind**.
+3. Enter your contributions in the app so the projection reflects the real routing.
+4. Automate whatever you can at the source, so the decision runs itself.
 
 The next lesson covers asset location: which type of account each holding should sit in.
 
@@ -2146,6 +2249,23 @@ Common clauses you'll see mixed in:
 - *"debt-to-assets in the caution band"*
 - *"both ratios above your bands"*
 
+### Your decision
+
+**Your personal debt ceiling: the level you won't go past, whatever the ratios say is technically allowed.**
+
+How to think about it:
+
+1. **Start with tolerance, not the ratios.** If carrying debt keeps you up at night, that's a real constraint and it outranks any formula.
+2. **Then read the two ratios as different questions.** One asks whether you survive this month. The other asks how much room you have to make a move at all.
+3. **Notice which one moves.** Your monthly ratio barely budges in a drawdown. The balance-sheet one moves a lot, because the asset side is Bitcoin.
+4. **Set your ceiling against the ratio that moves**, and set it while the price is high, because that's when it looks safest and you're most tempted.
+
+### Homework
+
+1. Write both of your ratios down from **Strategy → Debt**.
+2. Write your ceiling: the number you won't cross.
+3. Say out loud whether you're inside it today. If not, that's your first debt job.
+
 You've got a verdict word and a stress number. Both of them move when Bitcoin moves, and the next lesson is about what to do when they do.
 
 ## 5.2 Drift and the LTV cushion
@@ -2258,6 +2378,23 @@ The three severity chips:
 
 ⚠ **Watch** is not a severity word on screen. It's an internal state that renders no chip.
 
+
+### Your decision
+
+**Your maximum starting LTV, and exactly what you'll do at each severity level.**
+
+How to think about it:
+
+1. **Size the cushion to a normal bear market, not a mild one.** A 70 to 80% drawdown is the normal case for Bitcoin, and that's what the cushion has to survive.
+2. **Work backwards from that.** Surviving a normal bear usually means starting far lower than lenders will let you borrow.
+3. **Decide your actions before the chip appears**, because the moment it does, the price is falling and you'll be making the decision at your worst.
+4. **Write down all three responses now**: what you do when the loan gets close to a margin call, what you do at a margin call, and what you do in the liquidation zone.
+
+### Homework
+
+1. Write your maximum starting LTV.
+2. Write your specific action for each of the three severity levels.
+3. If you already have a loan, open its detail view and check today's cushion against what you just wrote.
 
 Everything so far has been defense: know your ratios, protect the cushion, don't get liquidated. The next lesson is the other half, which is what debt is actually for.
 
@@ -2386,6 +2523,23 @@ So let's run one. Pick the play you're most tempted by and put it against your o
 **Scenarios → Custom scenario** to compare pay-off-versus-invest.
 
 Model one play against your baseline. Read the confidence number both ways. Your target debt range is a spoken decision — there's no field for it in the app.
+
+### Your decision
+
+**Which play you're running, if any, and the rules it runs under.**
+
+How to think about it:
+
+1. **Check it against defense first.** If a play would push you past the ceiling you set, the answer is no and you're done thinking about it.
+2. **Name the failure mode out loud** before you name the upside. If you can't say how the play loses, you don't understand it well enough to run it.
+3. **"None of them" is a real answer**, and it's the right one for a lot of households.
+4. **If you are running one, write the operating rules before any money moves**: what it's for, your maximum size, what makes you unwind it, and who else knows about it.
+
+### Homework
+
+1. Pick your play, or write down that you're running none.
+2. Model it against your baseline as a scenario, and read the confidence number both ways.
+3. If you're running one, write the operating rules down before you act.
 
 You've seen what one play does to your plan. Now every debt on the ledger needs a decision, including the ones you're keeping.
 
@@ -3708,6 +3862,23 @@ At annual review:
 That last rule is critical. Target stays 18 months. Refill pace adjusts to conditions. The plan doesn't quietly get less safe because of a bad year.
 
 **Cash Flow → Reserve settings → Monthly build cap** is where you tune the refill pace.
+
+### Your decision
+
+**The order you'll pull from, and the rule for refilling the reserve.**
+
+How to think about it:
+
+1. **Understand what the default order costs you.** Spending one bucket dry first hands you years of very low income you never used, and then a much larger bill later.
+2. **Aim to spread income evenly instead of stacking it**, so you use your cheap years while you have them.
+3. **Spend from the reserve, not from the volatile assets**, so a bad market never sets your paycheck.
+4. **Set the refill rule by year type**: refill fully in a good year, refill partially in a bad one, and never lower the target itself.
+
+### Homework
+
+1. Set your withdrawal order in the app under **Plan → Income → Withdrawal order**, and apply it.
+2. Set your **Monthly build cap** under Cash Flow → Reserve settings to control refill pace.
+3. Write your refill rule in one sentence, so future you doesn't renegotiate it in a bad year.
 
 The next lesson covers the sell, borrow, or hold decision.
 
@@ -5233,6 +5404,23 @@ The pieces stay distributed after the test. Writing them together in one place u
 
 Splitting a seed makes the wallet weaker. Splitting the seed from a passphrase makes it stronger.
 
+### Your decision
+
+**Who holds each half of your access.**
+
+How to think about it:
+
+1. **Split two different objects, never one object in two pieces.** Half a seed makes the wallet weaker; a seed separated from a passphrase makes it stronger.
+2. **Pick people who don't share a household, a safe, or a bad week.** Two halves in one house is one location, not two.
+3. **Choose for reliability over technical skill.** The process is written down; the person just has to follow it and be findable.
+4. **Assume neither one goes rogue, and plan as if one might.** Neither half should be worth anything alone.
+
+### Homework
+
+1. Name the person holding each half, and write down where each piece lives.
+2. Run the test with a small amount, start to finish, so you know it works.
+3. Confirm afterwards that the two halves are still in separate places and were never written down together.
+
 The next lesson covers the heir letter, which sits alongside the split.
 
 ## 9.3 The heir letter
@@ -5489,6 +5677,23 @@ Once armed, the row moves to **"In place"** and reads **"warns at 90 days · {n}
 
 The switch makes sure someone starts. It's a trigger that tells your executor to open the letter, not a replacement for the documents or a tested access split.
 
+
+### Your decision
+
+**Whether to arm the switch, and who gets contacted.**
+
+How to think about it:
+
+1. **Understand what it's for.** Everything else in this module sits still until a person decides to start. The switch is what makes someone start.
+2. **Pick contacts who will act, not just care.** The right list is the executor plus whoever needs to know the letter exists.
+3. **Tell them in advance.** A message that arrives with no context reads like a scam, and the first instinct will be to ignore it.
+4. **Treat the check-in as the point, not the chore.** Confirming you're alive every 90 days is what keeps the whole thing armed.
+
+### Homework
+
+1. Decide whether you're arming it. If your access split is documented, the answer is usually yes.
+2. Add your contacts and arm it in the app.
+3. Tell every contact it exists and what to do if it ever fires.
 
 Documents, split, and switch are all in place. The next lesson covers the risks the stack cannot absorb yet.
 
@@ -5929,6 +6134,23 @@ Orange Plan is built the same way. Your confidence ring only goes stale and asks
 
 If nothing changed, the review takes five minutes and confirms that nothing changed.
 
+### Your decision
+
+**Your two review dates.**
+
+How to think about it:
+
+1. **Separate the two jobs.** The monthly pass catches facts going stale. The annual pass asks whether decisions still fit. Mixing them turns every month into a rebuild.
+2. **Pick a specific recurring day, not a vague intention.** "First Saturday" survives. "Beginning of the month" doesn't.
+3. **Put the annual one before year-end**, because the tax moves in it expire on December 31.
+4. **Protect the boundary.** If something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
+
+### Homework
+
+1. Pick your monthly day and your annual month.
+2. Put both on your calendar as recurring events, right now.
+3. Write one line on what you will not touch during a monthly pass.
+
 The next lesson covers the monthly pass in detail.
 
 ## 10.2 The monthly pass
@@ -6135,6 +6357,23 @@ Then: rescan for single points of failure (new accounts, new devices, backups th
 The sheet closes with a tick-as-you-go checklist and a note for next year's review. Having a defined finish line is what keeps the annual review from turning open-ended.
 
 One card from every module, once a year, each asking whether a decision you already made still fits.
+
+### Your decision
+
+**Which month you run the annual review, and what "done" looks like.**
+
+How to think about it:
+
+1. **Run it before year-end**, because the tax card is the only area with a hard deadline and it closes December 31.
+2. **Give each area about the same short attention.** You're reading six screens and asking one question of each: does the decision I made still fit?
+3. **Cap the output at three actions.** A longer list is the reason people quit doing reviews.
+4. **Define the finish line up front**, so the review ends instead of drifting into a rebuild.
+
+### Homework
+
+1. Pick your annual review month and put it on the calendar as recurring.
+2. Write your three-action cap down as a rule you'll actually follow.
+3. Write what "done" means for you: the report saved and the backup exported.
 
 The next lesson is the walkthrough that runs the annual review in the app.
 

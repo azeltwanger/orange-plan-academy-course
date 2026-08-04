@@ -21,8 +21,32 @@ $1,000 401(k) (full match) + $300 HSA + $583 Roth IRA (maxed) + $2,117 Bitcoin/t
 
 Post the waterfall where you make money decisions. Every bonus, raise, or windfall walks down the ladder. One decision, made once, routes every future dollar.
 
+## Two questions about the same dollar
+
+The waterfall and your buckets answer two different questions, and both get answered every time you save.
+
+- **Waterfall: which account?** 401(k), HSA, Roth, taxable. The **wrapper**, which decides how it's taxed.
+- **Buckets: which timeframe?** Reserve, Bridge, Legacy. The **job**, which decides what you buy inside.
+
+A dollar into your Roth is a rung-4 decision *and* a Legacy dollar. Same dollar, two labels.
+
+When you have a choice inside a rung, **check which bucket is behind and fund that one**. **Strategy → Allocation** shows each timeframe as Funded or Behind, so it's a glance, not a calculation.
+
+⚠ An account is not a bucket. A 401(k) in a stable-value fund is a Legacy *account* holding Bridge-shaped risk.
+
+## Your decision
+
+**The order your next dollar flows, the amount at each rung, and which bucket the flexible dollars fill.**
+
+1. Free money first (the match is the only guaranteed return you'll be offered).
+2. Then guaranteed losses: high-interest debt.
+3. Then tax shelters in order of quality.
+4. Then taxable or Bitcoin.
+5. **Then let the buckets break the tie**, funding whichever timeframe reads Behind.
+
 ## Homework
 
-1. Write your own waterfall with only the rungs that apply.
-2. Route your monthly surplus down it until the whole number is spent once.
-3. Watch the walkthrough to set the routing in Orange Plan.
+1. Write your rung order and the amount at each rung.
+2. Open **Strategy → Allocation** and note which bucket reads **Behind**.
+3. Enter your contributions in the app.
+4. Automate what you can at the source.

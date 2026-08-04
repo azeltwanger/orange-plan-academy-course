@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 9.4-A
 9.4 The 90-day dead man's switch
-~4 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 9.4-B)
+~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 9.4-B)
 ============================================================
 
 In today's lesson, we're going to cover the dead man's switch, which is the piece that makes sure your plan actually gets delivered.
@@ -60,3 +60,17 @@ Orange Plan ships with the switch built in, and the default check-in is 90 days.
 So here's the whole estate module in three sentences. The documents give the process legal weight. The split makes it possible for two people to act. And the switch makes sure the process actually begins.
 
 Now let's go arm it in the app.
+
+== YOUR DECISION ==
+
+Your decision here is whether to arm the switch, and who gets contacted.
+
+Here's how to think about it. Understand what it's actually for: everything else in this module sits still until a person decides to start, and the switch is the thing that makes somebody start. Pick contacts who will act, not just people who care, and that's usually your executor plus whoever needs to know the letter exists. Tell them in advance, because a message that arrives out of nowhere reads like a scam and the first instinct is to ignore it. And treat the check-in as the point, not a chore, because confirming you're alive every 90 days is the whole thing that keeps this armed.
+
+== HOMEWORK ==
+
+Your homework for this lesson is to:
+
+1. Decide whether you're arming it. If your access split is documented, the answer is usually yes.
+2. Add your contacts and arm it in the app.
+3. Tell every contact that it exists, and what to do if it ever fires.

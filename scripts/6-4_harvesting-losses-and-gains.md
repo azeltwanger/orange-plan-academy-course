@@ -7,6 +7,8 @@ In today's lesson, we're going to cover harvesting, both losses and gains, which
 
 This lesson is US-specific, and I'll have a note for non-US viewers at the end.
 
+Here's what harvesting is really for. Bitcoin is volatile, and most people experience that as pure stress. Harvesting turns some of that volatility into an actual tax benefit. A drawdown becomes a chance to bank a loss you can use, and a low-income year becomes a chance to reset your basis higher for free. Same volatility, working for you instead of at you.
+
 Everything so far in this module has been about acting in low-tax years. This lesson adds a second trigger: acting when the price moves. And because Bitcoin moves so much, you get these chances far more often than a stock portfolio ever gives you.
 
 There are two tools, and they point in opposite directions. You harvest losses at the dips, and you harvest gains when your bracket is low.

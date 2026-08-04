@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 10.3
 10.3 The annual review: all six areas
-~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the annual review: one thorough pass across six areas, once a year.
@@ -75,9 +75,16 @@ The review sheet closes with a tick-as-you-go checklist and a note to your futur
 
 So that's the annual review. You're pulling one card from every module, once a year, and each card is just asking whether a decision you already made still fits.
 
+== YOUR DECISION ==
+
+Your decision here is which month you run the annual review, and what done looks like.
+
+Here's how to think about it. Run it before year-end, because the tax card is the only area with a hard deadline and it closes December 31st. Give each area about the same short attention, since you're reading six screens and asking one question of each: does the decision I already made still fit? Cap the output at three actions, because a longer list is the single biggest reason people quit doing reviews. And define the finish line up front, so the review actually ends instead of drifting into a rebuild.
+
 == HOMEWORK ==
 
 Your homework for this lesson is to:
 
-1. Put the annual review on the calendar, in the fall, recurring.
-2. Then watch the walkthrough below this video, where we run the whole annual review inside Orange Plan.
+1. Pick your annual review month and put it on the calendar as recurring.
+2. Write your three-action cap down as a rule you'll actually follow.
+3. Write down what done means for you: the report saved and the backup exported.

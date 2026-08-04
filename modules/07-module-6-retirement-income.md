@@ -412,6 +412,23 @@ That last rule is critical. Target stays 18 months. Refill pace adjusts to condi
 
 **Cash Flow → Reserve settings → Monthly build cap** is where you tune the refill pace.
 
+### Your decision
+
+**The order you'll pull from, and the rule for refilling the reserve.**
+
+How to think about it:
+
+1. **Understand what the default order costs you.** Spending one bucket dry first hands you years of very low income you never used, and then a much larger bill later.
+2. **Aim to spread income evenly instead of stacking it**, so you use your cheap years while you have them.
+3. **Spend from the reserve, not from the volatile assets**, so a bad market never sets your paycheck.
+4. **Set the refill rule by year type**: refill fully in a good year, refill partially in a bad one, and never lower the target itself.
+
+### Homework
+
+1. Set your withdrawal order in the app under **Plan → Income → Withdrawal order**, and apply it.
+2. Set your **Monthly build cap** under Cash Flow → Reserve settings to control refill pace.
+3. Write your refill rule in one sentence, so future you doesn't renegotiate it in a bad year.
+
 The next lesson covers the sell, borrow, or hold decision.
 
 ## 7.5 Sell, borrow, or hold

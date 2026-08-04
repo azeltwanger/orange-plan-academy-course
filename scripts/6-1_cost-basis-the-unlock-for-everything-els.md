@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 6.1
 6.1 Cost basis: the unlock for everything else
-~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover cost basis, which is the one number that unlocks every other tax move in this module.
@@ -8,6 +8,8 @@ In today's lesson, we're going to cover cost basis, which is the one number that
 Quick note before we start: this module is US-specific. The brackets, the Roth accounts, the RMDs, all of it assumes the US tax code. If you're outside the US, the principles travel well, but check the specifics with a local tax professional.
 
 Here's the frame for the whole module. Real tax strategy works forward. You act in the years when your rate is low, and you act before the government forces the timing on you. And every single forward-looking move starts with one number being right.
+
+Here's why this lesson comes first in the module. Cost basis is the record of what you paid. Without it, you can't prove a loss, you can't time a sale, and you can't tell whether a Roth conversion is cheap or expensive this year. Every other move in this module depends on having it. Get this one right and the rest of the module actually works on your numbers.
 
 == WHAT COST BASIS IS ==
 
@@ -31,7 +33,7 @@ At the 15% long-term capital gains rate, that's about a $1,125 difference in tax
 
 When your basis is clean, four moves become available to you.
 
-You can time your sales, choosing low-basis or high-basis lots on purpose. You can harvest losses, because you can prove the loss and use it to offset gains and income. You can harvest gains, resetting your basis higher in a low-tax year. And you can model the tax, so you know the real bill before you act instead of after.
+You can time your sales, choosing low-basis or high-basis lots on purpose. You can harvest losses, and harvesting just means selling something that's down on purpose, so the loss counts against your taxes. You can only do it if you can prove the loss, and proving it takes records. You can harvest gains, resetting your basis higher in a low-tax year. And you can model the tax, so you know the real bill before you act instead of after.
 
 Without clean basis, all four of those are guesswork.
 

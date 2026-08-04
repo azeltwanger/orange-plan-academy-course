@@ -28,8 +28,16 @@ Before any big move (large buy, locking in gains, a Bitcoin-backed loan), run tw
 
 The check doesn't decide the move for you. It names the emotion in the room, so the plan makes the decision instead of the price.
 
+## Your decision
+
+**The largest Bitcoin position you could hold through a 70–80% drawdown without selling.**
+
+1. **Run it on today's balance.** The percentage doesn't move, but the dollar figure does, and that's what you'd actually feel.
+2. **Answer honestly, not aspirationally.** The right answer is what's true at 3am with the price down 75%.
+3. **If the honest answer is "I'd sell," the position is too big.** Most people land here the first time. Better to know now than mid-drawdown.
+
 ## Homework
 
-1. Run the stress test on your own allocation at −75%. Decide honestly if you could hold.
-2. If no, write down the allocation where the answer becomes yes.
-3. Run the price context check before your next Bitcoin-heavy move.
+1. Run the stress test at today's balance and answer out loud.
+2. Write the position size you could hold through it.
+3. If that's smaller than what you hold, write what you'll do about the difference.

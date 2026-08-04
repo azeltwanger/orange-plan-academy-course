@@ -6,7 +6,7 @@ An **RMD** (required minimum distribution) is a forced withdrawal from tradition
 
 ## Why Bitcoin holders should care more
 
-The couple's 401(k) at a 7% stock assumption: ~$1M at 73 → first RMD ~$38,000, stacking on $51,600 of Social Security = $90,000 of income they didn't ask for (and possible IRMAA Medicare surcharges). Swap in Bitcoin at 20% growth inside the traditional account: ~$12.5M at 73 → **~$470,000/yr of forced ordinary income.** Success is what builds the trap.
+The couple's 401(k) at a 7% stock assumption: ~$1M at 73 → first RMD ~$38,000, stacking on $51,600 of Social Security = $90,000 of income they didn't ask for. Swap in Bitcoin at 20% growth inside the traditional account: ~$12.5M at 73 → **~$470,000/yr of forced ordinary income.** Success is what builds the trap.
 
 ## The fix: shrink the bucket early
 

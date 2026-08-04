@@ -280,6 +280,23 @@ The pieces stay distributed after the test. Writing them together in one place u
 
 Splitting a seed makes the wallet weaker. Splitting the seed from a passphrase makes it stronger.
 
+### Your decision
+
+**Who holds each half of your access.**
+
+How to think about it:
+
+1. **Split two different objects, never one object in two pieces.** Half a seed makes the wallet weaker; a seed separated from a passphrase makes it stronger.
+2. **Pick people who don't share a household, a safe, or a bad week.** Two halves in one house is one location, not two.
+3. **Choose for reliability over technical skill.** The process is written down; the person just has to follow it and be findable.
+4. **Assume neither one goes rogue, and plan as if one might.** Neither half should be worth anything alone.
+
+### Homework
+
+1. Name the person holding each half, and write down where each piece lives.
+2. Run the test with a small amount, start to finish, so you know it works.
+3. Confirm afterwards that the two halves are still in separate places and were never written down together.
+
 The next lesson covers the heir letter, which sits alongside the split.
 
 ## 9.3 The heir letter
@@ -536,6 +553,23 @@ Once armed, the row moves to **"In place"** and reads **"warns at 90 days · {n}
 
 The switch makes sure someone starts. It's a trigger that tells your executor to open the letter, not a replacement for the documents or a tested access split.
 
+
+### Your decision
+
+**Whether to arm the switch, and who gets contacted.**
+
+How to think about it:
+
+1. **Understand what it's for.** Everything else in this module sits still until a person decides to start. The switch is what makes someone start.
+2. **Pick contacts who will act, not just care.** The right list is the executor plus whoever needs to know the letter exists.
+3. **Tell them in advance.** A message that arrives with no context reads like a scam, and the first instinct will be to ignore it.
+4. **Treat the check-in as the point, not the chore.** Confirming you're alive every 90 days is what keeps the whole thing armed.
+
+### Homework
+
+1. Decide whether you're arming it. If your access split is documented, the answer is usually yes.
+2. Add your contacts and arm it in the app.
+3. Tell every contact it exists and what to do if it ever fires.
 
 Documents, split, and switch are all in place. The next lesson covers the risks the stack cannot absorb yet.
 

@@ -29,3 +29,18 @@ Beneficiaries current (the form beats the will)? Letter still accurate? Executor
 ## The finish line
 
 A tick-as-you-go checklist plus a note for next year. One card from every module, once a year, each asking whether a decision still fits.
+
+## Your decision
+
+**Which month you run it, and what "done" looks like.**
+
+1. **Run it before year-end.** The tax card is the only area with a hard deadline.
+2. **Give each area the same short attention.** Six screens, one question each: does the decision still fit?
+3. **Cap the output at three actions.** Longer lists are why people quit doing reviews.
+4. **Define the finish line up front**, so it ends instead of drifting into a rebuild.
+
+## Homework
+
+1. Pick your annual review month, recurring on the calendar.
+2. Write your three-action cap down as a rule.
+3. Write what "done" means: report saved, backup exported.

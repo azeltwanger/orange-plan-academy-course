@@ -1,9 +1,11 @@
 TELEPROMPTER SCRIPT — segment 9.2
 9.2 The access split
-~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the access split, which divides the ability to reach your Bitcoin into two pieces, held by two different people.
+
+Here's what this buys you, and it's two things at once. Nobody can take your Bitcoin on their own, including somebody you trust who gets pressured or makes a bad decision. And nothing is lost if one person disappears, because the other piece still exists. Most setups give you one of those. The split gives you both.
 
 Either piece on its own is useless. Only the two together can move the Bitcoin. The heirs hold one piece, and your executor holds the other.
 
@@ -73,12 +75,16 @@ Think about what that setup actually does. If the two people trust each other, t
 
 So splitting a seed makes the wallet weaker, and splitting the seed from a passphrase makes it stronger. I want you to hear the difference there, because those two things sound similar and they do opposite things.
 
+== YOUR DECISION ==
+
+Your decision out of this lesson is who holds each half of your access.
+
+Here's how to think about it. You're splitting two different objects, never one object into two pieces, because half a seed makes the wallet weaker while a seed separated from a passphrase makes it stronger. Pick people who don't share a household, a safe, or a bad week, because two halves in one house is one location, not two. Choose for reliability over technical skill, since the process is written down and the person mainly has to follow it and be findable. And assume neither one goes rogue, but plan as if one might, which is exactly why neither half is worth anything on its own.
+
 == HOMEWORK ==
 
 Your homework for this lesson is to:
 
-1. Decide who holds each half of your split. Heirs on one side, executor on the other.
-2. Schedule the Saturday-afternoon test with a small amount, and actually run it.
-3. Confirm the pieces stay in separate places afterward, and that nothing anywhere has both halves written together.
-
-One note before you build this: how an access split interacts with your will and with your executor's legal authority is a question for an estate attorney in your state. I'm showing you the mechanics. The legal side gets designed with somebody licensed where you live.
+1. Name the person holding each half, and write down where each piece lives.
+2. Run the test with a small amount, start to finish, so you know it actually works.
+3. Confirm afterwards that the two halves are still in separate places, and that they were never written down together.

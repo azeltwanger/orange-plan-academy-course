@@ -75,6 +75,12 @@ abstractions. When guide and dictation disagree, the dictation wins.
 - Clever reversals and chiasmus ("buys insurance for a lifestyle you'd have cut").
 - Fragments for drama. ("Months of paperwork. Done while grieving.")
 - Spelled-out numbers ("seventy-seven percent").
+- **"X doesn't go away, it just ___" / "it isn't A, it's B" / "that's not A, that's B."**
+  The clever reversal. Reads as insight, contains none. If a sentence's job is to
+  land rather than to inform, cut it and put the missing FACT there instead.
+  (Caught 2026-08-04: "The bill doesn't go away, it just changes whose name is on
+  it" replaced with the 10-year rule and why heirs often pay a higher rate.)
+- **Reassurance couplets** ("that isn't a character flaw, it's information").
 - Abstract nouns doing the work ("the drag costs the plan"). Austin says who
   does what: "that money just sits there losing to inflation."
 

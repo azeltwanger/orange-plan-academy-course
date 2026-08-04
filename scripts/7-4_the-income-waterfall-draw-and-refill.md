@@ -1,11 +1,13 @@
 TELEPROMPTER SCRIPT — segment 7.4
 7.4 The income waterfall + draw and refill
-~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover two things that work together: the income waterfall, which is the order your retirement paycheck gets assembled in, and draw and refill, which is how you put cash back after you spend it.
 
 == THE 4 TIERS OF THE WATERFALL ==
+
+Here's the payoff of getting this right. The order you pull money from decides how much tax you pay over your whole retirement, and the difference isn't small. Pull in the wrong order and you can waste years of cheap tax room, then get hit with one enormous bill later. Pull in the right order and you spread that same income out so it never stacks up.
 
 The waterfall has 4 tiers, and the table on the screen lays them out.
 
@@ -75,10 +77,16 @@ And here's the rule that matters most: the target itself never moves. A cut year
 
 In the app, the refill pace lives in the reserve settings as the monthly build cap, and I'll show you that in the walkthrough.
 
+== YOUR DECISION ==
+
+Your decision here is the order you'll pull from, and your rule for refilling the reserve.
+
+Here's how to think about it. Understand what the default order actually costs you, because spending one bucket dry first hands you years of very low income that you never used, and then a much bigger bill later. So you're aiming to spread income evenly instead of stacking it, which means using your cheap years while you have them. Spend from the reserve, not directly from the volatile assets, so that a bad market never sets your paycheck. And set your refill rule by the type of year: refill fully in a good year, refill partially in a bad one, and never lower the target itself.
+
 == HOMEWORK ==
 
 Your homework for this lesson is to:
 
-1. Write down your own waterfall, all 4 tiers, with your actual sources in each.
-2. Ask the bracket question: in your first five retirement years, would the strict order leave your low brackets empty? If yes, bracket-fill is worth modeling.
-3. Set your refill rule now, while you're calm: your reserve target in months, and what a partial refill looks like in a cut year.
+1. Set your withdrawal order in the app under Plan, Income, and then Withdrawal order, and apply it.
+2. Set your monthly build cap under Cash Flow and then Reserve settings, which controls your refill pace.
+3. Write your refill rule down in one sentence, so future you doesn't renegotiate it in a bad year.

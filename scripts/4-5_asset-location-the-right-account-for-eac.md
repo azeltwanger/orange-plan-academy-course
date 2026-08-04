@@ -5,15 +5,17 @@ TELEPROMPTER SCRIPT — segment 4.5
 
 In today's lesson, we're going to cover asset location, which is choosing which type of account each of your holdings should live in, so you're not paying more lifetime tax than you have to.
 
+Here's why this is worth 10 minutes of your life. Putting the same holdings in different accounts, with no change to what you own or what you buy, can save you a meaningful amount of tax over a few decades. You're not taking more risk to get it. You're just putting each thing where it's taxed the least.
+
 You have three types of tax wrappers, and the same dollar of Bitcoin sits very differently in each one.
 
 == THE THREE WRAPPERS ==
 
 The table on the screen has the full comparison, but here's the shape of it.
 
-The first wrapper is the taxable brokerage. Money goes in already taxed, the growth gets taxed every year on dividends and realized gains, and when you sell, you pay tax on the gains, at long-term rates if you held for more than a year. What you're buying with a taxable account is flexibility. No age limits, no penalties, you can touch it whenever you want.
+The first wrapper is the taxable brokerage. Money goes in already taxed, the growth gets taxed every year on dividends and realized gains, and when you sell, you pay tax on the gains, which is just the profit, meaning what you sold it for minus what you paid for it. You get lower rates on that gain if you held it for more than a year. What you're buying with a taxable account is flexibility. No age limits, no penalties, you can touch it whenever you want.
 
-The second wrapper is traditional, so the 401(k) and the traditional IRA. Money goes in pre-tax, so you get a deduction today. It grows tax-deferred. And then everything that comes out is taxed as ordinary income. There are also RMDs, the required withdrawals, that start in your seventies, and a 10% penalty if you pull money before 59 and a half.
+The second wrapper is traditional, so the 401(k) and the traditional IRA. Money goes in pre-tax, so you get a deduction today. It grows tax-deferred, which just means you don't pay any tax on the growth along the way. And then everything that comes out is taxed as ordinary income. There are also RMDs, the required withdrawals, that start in your seventies, and a 10% penalty if you pull money before 59 and a half.
 
 The third wrapper is the Roth. Money goes in after tax, and then it grows tax-free forever and comes out tax-free forever. The Roth IRA also has no RMDs at all, which matters more than people realize, and we'll get into why in the tax module.
 

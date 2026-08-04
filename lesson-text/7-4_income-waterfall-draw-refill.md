@@ -28,8 +28,17 @@ The couple: $60k/yr traditional (deduction + low brackets, near-zero cost) + $20
 
 Target: 18 months × $80k = $120k. Spending held → refill fully. Spending cut → refill to ~12 of 18 months. **The target itself never moves**: a cut year slows the refill; it never shrinks the target.
 
+## Your decision
+
+**The order you'll pull from, and your rule for refilling the reserve.**
+
+1. **Know what the default order costs.** Draining one bucket first wastes years of cheap tax room, then hands you a much bigger bill later.
+2. **Spread income instead of stacking it**, so you use the cheap years while you have them.
+3. **Spend from the reserve, not the volatile assets**, so a bad market never sets your paycheck.
+4. **Set the refill rule by year type**: full in a good year, partial in a bad one, and never lower the target.
+
 ## Homework
 
-1. Write your four-tier waterfall with your actual sources.
-2. Would strict order leave your first five retirement years' low brackets empty? If yes, model bracket-fill.
-3. Set your refill rule now, while calm.
+1. Set your withdrawal order under **Plan → Income → Withdrawal order** and apply it.
+2. Set your **Monthly build cap** under Cash Flow → Reserve settings.
+3. Write your refill rule in one sentence, so future you doesn't renegotiate it in a bad year.

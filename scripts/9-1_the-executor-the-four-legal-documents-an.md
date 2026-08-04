@@ -11,7 +11,7 @@ Custody was operational access, how you turn the device back into spendable Bitc
 
 Let's start with the executor, because the title sounds like an honor, and it's actually a workload.
 
-Your executor runs the process after you're gone. They file the will with the court, which opens probate. The court confirms the will, grants the executor legal authority, and supervises the wind-down. And under that supervision, the executor does four things: they inventory what you owned, they notify the people who are owed money, they pay the final bills and taxes, and they distribute what's left to the people you named.
+Your executor runs the process after you're gone. They file the will with the court, which opens probate. Probate is just the legal process where a court confirms the will is real and gives somebody the authority to act on it. The court confirms the will, grants the executor legal authority, and supervises the wind-down. And under that supervision, the executor does four things: they inventory what you owned, they notify the people who are owed money, they pay the final bills and taxes, and they distribute what's left to the people you named.
 
 That's months of paperwork, and they're doing it while grieving.
 

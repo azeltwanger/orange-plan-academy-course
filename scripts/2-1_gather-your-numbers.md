@@ -1,11 +1,15 @@
 TELEPROMPTER SCRIPT — segment 2.1
 2.1 Gather your numbers
-~3 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~4 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the documents you need to gather before you start building your baseline. Every decision downstream runs on this data, so a little accuracy up front is going to save you time on every future update.
 
 == WHAT TO GATHER ==
+
+Here's why this one is worth doing properly. Every number that comes out of your plan is only as good as what you put in. If your spending number is a guess, your retirement date is a guess. If your basis is missing, every tax decision later is an estimate. An hour of gathering now saves you from a plan you can't trust.
+
+And I'll say this: rough and honest beats precise and late. You're not trying to get this perfect today. You're trying to get it real.
 
 First is income. You want recent pay stubs so you can verify what's coming in per period and per year. And include every stream — salary for each earner, self-employment, rental income, dividends.
 

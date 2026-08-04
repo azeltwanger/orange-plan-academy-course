@@ -1,13 +1,17 @@
 TELEPROMPTER SCRIPT — segment 6.3
 6.3 The RMD risk + Roth conversions
-~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the RMD risk, and the main tool for defusing it, which is the Roth conversion.
 
 This lesson is US-specific, and I'll have a note for non-US viewers at the end.
 
-The bracket lesson opened up the low-bracket window. This lesson is about why filling that window matters so much, especially for a Bitcoin holder.
+Here's the whole idea in one sentence, and if you take nothing else from this lesson, take this: you're moving money out of your traditional accounts now, at a low tax rate, so that you're not forced to pull it out later at a high one.
+
+That's it. That's the entire play. Everything else I'm going to show you is just proving two things: that the later rate really is going to be higher, and how much room you actually have to work with right now.
+
+The bracket lesson opened up that low-bracket window. This lesson is about why filling it matters so much, especially if you're holding Bitcoin.
 
 == WHAT AN RMD IS ==
 
@@ -27,7 +31,7 @@ Their first RMD is $1,000,000 divided by 26.5, which is about $38,000 of forced 
 
 Now stack it. At 73, that $38,000 RMD lands on top of their $51,600 of Social Security. That's $90,000 of ordinary income the couple didn't ask for, and it climbs every year because the divisor keeps shrinking.
 
-And it gets worse from there, because that income can push you over the IRMAA thresholds, which is the income test that raises your Medicare premiums. So a tax problem quietly becomes a health-premium problem too. And if they never spend the money, their heirs inherit the account with the tax problem still inside it.
+And if they never spend that money, their kids inherit the account with the tax still owed on it. Under current rules the kids have 10 years to empty it, and most people inherit in their 40s and 50s, which is usually when they're earning the most they'll ever earn. So that money often comes out at a higher rate than the parents would have paid on it.
 
 == WHY BITCOIN HOLDERS SHOULD CARE MORE ==
 

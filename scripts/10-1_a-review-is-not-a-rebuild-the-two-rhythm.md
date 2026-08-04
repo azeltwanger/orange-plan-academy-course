@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 10.1
 10.1 A review is not a rebuild: the two rhythms
-~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the difference between a review and a rebuild, and the two rhythms that keep your plan current without taking over your life.
@@ -47,9 +47,16 @@ Orange Plan is built the same way on purpose. Your confidence ring only goes sta
 
 If nothing changed, the review takes five minutes and confirms that nothing changed. And that's not a wasted five minutes. That's the system working.
 
+== YOUR DECISION ==
+
+Your decision out of this lesson is your two review dates.
+
+Here's how to think about it. Keep the two jobs separate, because the monthly pass catches facts going stale and the annual pass asks whether your decisions still fit, and mixing them is what turns every month into a rebuild. Pick a specific recurring day, not a vague intention, because "first Saturday" survives and "beginning of the month" doesn't. Put the annual one before year-end, since the tax moves inside it expire on December 31st. And protect the boundary: if something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
+
 == HOMEWORK ==
 
 Your homework for this lesson is to:
 
-1. Write down which of the two kinds of drift your plan is more exposed to right now. If you haven't entered data in months, it's data drift. If your life has changed since you built the plan, it's plan drift.
-2. Then keep going, because the monthly pass lesson shows you exactly what the five minutes look like.
+1. Pick your monthly day and your annual month.
+2. Put both on your calendar as recurring events, right now.
+3. Write one line on what you will not touch during a monthly pass.

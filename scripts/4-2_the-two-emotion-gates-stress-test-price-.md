@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 4.2
 4.2 The two emotion gates: stress-test + price context
-~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the two checks that keep your allocation honest. The first one is the stress test, which you run once, when you set your allocation. The second is the price context check, which you run every time before you make a Bitcoin-heavy move.
@@ -53,10 +53,16 @@ Now, this check doesn't decide the move for you. It just names the emotion so yo
 
 Before any big move, and by that I mean buying a large position, selling to lock in gains, or taking out a Bitcoin-backed loan, ask yourself: if the recent 3-to-6-month price move is dramatic, am I reacting to it? If it is, wait a beat, and ask the question straight: is this the plan making the decision, or is it the price?
 
+== YOUR DECISION ==
+
+Your decision here is the largest Bitcoin position you could actually hold through a 70 to 80% drawdown without selling.
+
+Here's how to think about it. Run the stress test on today's balance, not last year's, because the percentage doesn't move but the dollar amount does, and the dollar amount is what you'd actually feel. Answer it honestly, not aspirationally. The right answer is the one that's true at 3am with the price down 75%, not the one that sounds brave on camera. And if the honest answer is that you'd sell, then the position is too big. Most people land there the first time they run it honestly, and it's a lot better to find that out now than in the middle of the drawdown.
+
 == HOMEWORK ==
 
 Your homework for this lesson is to:
 
-1. Run the stress test on your own allocation. Take your Bitcoin dollar amount, cut it 75%, and look at the number. Decide honestly whether you could hold there.
-2. If the answer is no, write down the allocation where the answer becomes yes.
-3. Then, before your next Bitcoin-heavy move, run the price context check first. Both windows.
+1. Run the stress test at today's balance and answer out loud.
+2. Write down the position size you could hold through it.
+3. If that's smaller than what you're holding now, write down what you're going to do about the difference.

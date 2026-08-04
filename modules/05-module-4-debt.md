@@ -159,6 +159,23 @@ Common clauses you'll see mixed in:
 - *"debt-to-assets in the caution band"*
 - *"both ratios above your bands"*
 
+### Your decision
+
+**Your personal debt ceiling: the level you won't go past, whatever the ratios say is technically allowed.**
+
+How to think about it:
+
+1. **Start with tolerance, not the ratios.** If carrying debt keeps you up at night, that's a real constraint and it outranks any formula.
+2. **Then read the two ratios as different questions.** One asks whether you survive this month. The other asks how much room you have to make a move at all.
+3. **Notice which one moves.** Your monthly ratio barely budges in a drawdown. The balance-sheet one moves a lot, because the asset side is Bitcoin.
+4. **Set your ceiling against the ratio that moves**, and set it while the price is high, because that's when it looks safest and you're most tempted.
+
+### Homework
+
+1. Write both of your ratios down from **Strategy → Debt**.
+2. Write your ceiling: the number you won't cross.
+3. Say out loud whether you're inside it today. If not, that's your first debt job.
+
 You've got a verdict word and a stress number. Both of them move when Bitcoin moves, and the next lesson is about what to do when they do.
 
 ## 5.2 Drift and the LTV cushion
@@ -271,6 +288,23 @@ The three severity chips:
 
 ⚠ **Watch** is not a severity word on screen. It's an internal state that renders no chip.
 
+
+### Your decision
+
+**Your maximum starting LTV, and exactly what you'll do at each severity level.**
+
+How to think about it:
+
+1. **Size the cushion to a normal bear market, not a mild one.** A 70 to 80% drawdown is the normal case for Bitcoin, and that's what the cushion has to survive.
+2. **Work backwards from that.** Surviving a normal bear usually means starting far lower than lenders will let you borrow.
+3. **Decide your actions before the chip appears**, because the moment it does, the price is falling and you'll be making the decision at your worst.
+4. **Write down all three responses now**: what you do when the loan gets close to a margin call, what you do at a margin call, and what you do in the liquidation zone.
+
+### Homework
+
+1. Write your maximum starting LTV.
+2. Write your specific action for each of the three severity levels.
+3. If you already have a loan, open its detail view and check today's cushion against what you just wrote.
 
 Everything so far has been defense: know your ratios, protect the cushion, don't get liquidated. The next lesson is the other half, which is what debt is actually for.
 
@@ -399,6 +433,23 @@ So let's run one. Pick the play you're most tempted by and put it against your o
 **Scenarios → Custom scenario** to compare pay-off-versus-invest.
 
 Model one play against your baseline. Read the confidence number both ways. Your target debt range is a spoken decision — there's no field for it in the app.
+
+### Your decision
+
+**Which play you're running, if any, and the rules it runs under.**
+
+How to think about it:
+
+1. **Check it against defense first.** If a play would push you past the ceiling you set, the answer is no and you're done thinking about it.
+2. **Name the failure mode out loud** before you name the upside. If you can't say how the play loses, you don't understand it well enough to run it.
+3. **"None of them" is a real answer**, and it's the right one for a lot of households.
+4. **If you are running one, write the operating rules before any money moves**: what it's for, your maximum size, what makes you unwind it, and who else knows about it.
+
+### Homework
+
+1. Pick your play, or write down that you're running none.
+2. Model it against your baseline as a scenario, and read the confidence number both ways.
+3. If you're running one, write the operating rules down before you act.
 
 You've seen what one play does to your plan. Now every debt on the ledger needs a decision, including the ones you're keeping.
 

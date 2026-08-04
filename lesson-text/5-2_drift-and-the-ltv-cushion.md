@@ -25,6 +25,17 @@ Halving the starting LTV moves the danger line dramatically further away.
 
 **Size the cushion for a 70–80% drawdown minimum**: that's a normal cycle. In practice: start at 20–25% LTV, not 40–50%.
 
+## Your decision
+
+**Your maximum starting LTV, and what you'll do at each severity level.**
+
+1. **Size the cushion to a normal bear market.** A 70–80% drawdown is the normal case for Bitcoin.
+2. **Work backwards from that.** Surviving one usually means starting far lower than a lender will let you borrow.
+3. **Decide your actions before the chip appears**, because by then the price is falling and you're deciding at your worst.
+4. **Write all three responses now**: near margin call, at margin call, liquidation zone.
+
 ## Homework
 
-If any borrowing is backed by your Bitcoin, compute the drop that triggers your margin call. If it's inside 80%, the cushion isn't sized for a normal bear.
+1. Write your maximum starting LTV.
+2. Write your action for each of the three severity levels.
+3. If you have a loan, open its detail view and check today's cushion against what you wrote.

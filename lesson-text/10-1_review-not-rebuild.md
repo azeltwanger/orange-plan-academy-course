@@ -24,3 +24,18 @@ Splitting them protects your willingness to show up: you're not reopening strate
 - **The plan doesn't care about today's price.** The confidence ring only goes stale when a real input changes (balances, spending, income, dates). Price is deliberately excluded, so a red candle can't tell you your plan needs attention.
 
 If nothing changed, the review takes five minutes and confirms that nothing changed. That is the system working as designed.
+
+## Your decision
+
+**Your two review dates.**
+
+1. **Keep the jobs separate.** Monthly catches stale facts. Annual asks whether decisions still fit. Mixing them turns every month into a rebuild.
+2. **Pick a specific recurring day.** "First Saturday" survives; "beginning of the month" doesn't.
+3. **Put the annual one before year-end**, since the tax moves inside it expire December 31.
+4. **Protect the boundary.** Something big during a monthly pass gets written down for the annual review, not solved on the spot.
+
+## Homework
+
+1. Pick your monthly day and annual month.
+2. Put both on the calendar as recurring, now.
+3. Write one line on what you will not touch during a monthly pass.

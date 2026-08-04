@@ -35,7 +35,7 @@ Three ordinary Tuesdays, no hackers involved anywhere. The failure that actually
 
 So here's the hunt. 9 questions, and for each one you ask: is there only one?
 
-Only one device? Only one seed backup? Only one location? Only one person who knows everything? One weak exchange login? One heir with no idea what exists? A document that contradicts your beneficiary forms? A passphrase nobody else can recover? And multisig keys all sitting in one place?
+Only one device? Only one seed backup? Only one location? Only one person who knows everything? One weak exchange login? One heir with no idea what exists? A document that contradicts your beneficiary forms, which are the forms your bank and retirement accounts keep on file naming who gets the money? A passphrase nobody else can recover? And multisig keys all sitting in one place?
 
 The couple checks six of nine. And again, they're not careless. A normal setup collects only-ones on its own over the years, because nothing ever asked the question.
 

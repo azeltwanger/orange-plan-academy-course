@@ -38,7 +38,7 @@
 **Strategy → Tax → Moves this year → Roth conversion** (right side: "None modeled" / "~$X lifetime")
 - **Compare strategies** table computes on open: Strategy · After-tax NW @{age} · Saved · Cost
 - **Selected strategy** tiles: Lifetime saved · NW impact · Window · Total tax cost
-- **Customize schedule → Conversion schedule:** timeline (Amount converted / Tax cost) · per-year rows · hover for "Projected year-end traditional" + IRMAA when it applies
+- **Customize schedule → Conversion schedule:** timeline (Amount converted / Tax cost) · per-year rows · hover for "Projected year-end traditional"
 - **Tax funding picker:** pick **Plan cash flow (withdrawal order)** — "that's paying the tax from outside the Roth" (not Withheld from each conversion)
 - **Apply schedule** → 👀 watch "Projected year-end traditional" shrink across the years — "the future RMD getting smaller before it can spike a bracket"
 

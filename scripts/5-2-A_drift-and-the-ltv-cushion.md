@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 5.2-A
 5.2 Drift and the LTV cushion
-~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 5.2-B)
+~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 5.2-B)
 ============================================================
 
 In today's lesson, we're going to cover the two dynamics that make a Bitcoin balance sheet different from everybody else's: drift, and the LTV cushion.
@@ -54,3 +54,17 @@ In practice, that usually means starting at 20 to 25% LTV, not 40 or 50%. Anythi
 And I'll say the obvious thing here, because borrowing against your Bitcoin is the highest-stakes move in this whole course: I'm not telling you to take one of these loans. Lending terms, margin-call rules, and who's actually holding your collateral vary a lot by lender, so read the actual agreement and run it past somebody who represents you before you sign anything.
 
 So that's the math on the cushion. Now let's look at the app, because it draws this as a picture, and the picture is a lot easier to read than the arithmetic.
+
+== YOUR DECISION ==
+
+Your decision here is your maximum starting LTV, and exactly what you'll do at each severity level.
+
+Here's how to think about it. Size the cushion to a normal bear market, not a mild one, because a 70 to 80% drawdown is the normal case for Bitcoin and that's what it has to survive. Work backwards from that, and you'll usually find it means starting a lot lower than a lender will happily let you borrow. Then decide your actions before the chip ever appears, because the moment it does, the price is falling and you'll be making that call at your absolute worst. Write down all three responses now: what you do when it's getting close to a margin call, what you do at one, and what you do in the liquidation zone.
+
+== HOMEWORK ==
+
+Your homework for this lesson is to:
+
+1. Write down your maximum starting LTV.
+2. Write your specific action for each of the three severity levels.
+3. If you already have a loan, open its detail view and check today's cushion against what you just wrote.

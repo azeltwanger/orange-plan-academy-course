@@ -152,6 +152,23 @@ Four things to keep in mind:
 3. **Take inflation seriously.** Push 3% higher if the last few years told you to.
 4. **Pick something you can live with if you're wrong.** The right assumption still holds up if the future doesn't cooperate.
 
+### Your decision
+
+**Which growth model and inflation rate your plan runs on.**
+
+How to think about it:
+
+1. **Start with what you'd defend out loud.** If you can't explain why you picked a curve, it isn't yours, it's a default you inherited.
+2. **Ask which way you'd rather be wrong.** A conservative assumption shows you a later date on screen. An optimistic one can make the whole plan unreliable, which costs a lot more.
+3. **Set inflation to what you actually believe**, not the default, because your future spending target rises with it.
+
+### Homework
+
+1. Pick your Bitcoin growth model and say out loud why you picked it.
+2. Set your inflation number.
+3. Enter both in the app under **Plan → Edit assumptions**.
+4. Write one sentence for each: why this is the assumption you'd defend.
+
 You'll get to change these later and see what the plan looks like under different assumptions. For now, we're setting the ones your baseline plan actually runs on.
 
 ## 2.3 The confidence ring: your plan's stress test
@@ -252,6 +269,22 @@ A few things to keep in mind:
 - **A high number means fewer adjustments.** 82% doesn't mean 18% chance of going broke. It means the plan needed to adjust in 180 of the thousand runs.
 - **Watch for big moves, not small ones.** Small run-to-run changes aren't meaningful. If a change to your plan moves the number 5-10 points, that's the change telling you something.
 - **The number is directional.** It's a stress test on research and history. When the research updates, the app's numbers update with it.
+
+### Your decision
+
+**What confidence level you're aiming for, and which lever you'd pull if you come in under it.**
+
+How to think about it:
+
+1. **Pick your target before you see your number**, so the number doesn't talk you into whatever it already says.
+2. **Decide the lever in advance.** There are only four: work a little longer, spend a little less, save more, or change the allocation. Picking now means a low number becomes a to-do instead of a bad night.
+3. **Remember that 100 was never the goal.** A very high number usually means you're over-saving and under-living.
+
+### Homework
+
+1. Run the confidence check in the app and write your number down.
+2. Write your target number next to it.
+3. Name the one lever you'd pull first if you're under it. One, not four.
 
 The next module builds the cash flow that lets you keep buying Bitcoin without being forced to sell at the wrong time.
 

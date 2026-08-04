@@ -1,11 +1,13 @@
 TELEPROMPTER SCRIPT — segment 6.2
 6.2 The 3 buckets, your bracket roadmap, and the state lever
-~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the three things that decide your tax bill: where your money sits, when you act, and where you live when you act.
 
 This lesson is US-specific, and I'll have a note for non-US viewers at the end.
+
+Here's the idea underneath the whole thing. You have some control over what tax rate you pay, and most of that control comes from two choices: which account you pull money out of, and which year you do it in. This lesson shows you where those two dials are so you can actually use them.
 
 == WHERE YOUR MONEY SITS: THE 3 BUCKETS ==
 
