@@ -29,7 +29,7 @@ Your surplus is the money left over each month after taxes, living expenses, and
 
 ### The surplus walk
 
-Take a couple in Texas. He's 45, she's 43, two kids. Their year walks like this:
+Let's say we have a couple in Texas. He's 45, she's 43, two kids. Their year walks like this:
 
 | Step | Amount |
 |---|---|

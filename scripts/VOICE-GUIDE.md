@@ -95,9 +95,24 @@ abstractions. When guide and dictation disagree, the dictation wins.
   "Land it:" / "Land the line:" / "Worth saying:" / "Say it out loud."
   If the point is good it lands on its own; if it needs an usher, it's weak.
   Cut the frame, keep the fact. (Swept 2026-08-05: 55 instances removed.)
-  NOT banned: "Let me show you…", "Notice that…" used sparingly, and
-  first-person disclosure that carries real information ("I want to be straight
-  about these because I'm in this system").
+  **"Let me show you…" splits on its object** (Austin, 2026-08-05). With a
+  CONCRETE object it's a real signpost and it's his: "Let me show you what that
+  costs," "…what I mean with our couple," "…why the two simple options both
+  fail." With an ABSTRACT-IMPORTANCE object it's the same announce frame in
+  disguise and it goes: "Let me show you how much one input matters," "…why that
+  matters." Cut the frame and open the example instead.
+  NOT banned: "Notice that…" used sparingly, and first-person disclosure that
+  carries real information ("I want to be straight about these because I'm in
+  this system").
+
+- **Textbook example openers.** Austin opens an example with **"Let's walk
+  through an example," "Let's say that we have a couple…," "Let's run the
+  couple," "Say the couple retires at 60"** — verified in his own 3.2 dictation.
+  He does NOT write **"Take someone who's 45…," "Take a couple in Texas,"
+  "Consider a household…," "Imagine…," "Picture two retirees."** Those are
+  written-essay constructions. Convert to the "Let's say we have…" form.
+  Metaphor framings ("Picture your income as a road") get replaced with the
+  actual structure, not a different picture verb.
 - **"X beats Y" verdict aphorisms** (Austin, 2026-08-05: *"Rough and honest beats
   precise and late. I don't talk like this."*). The compressed maxim — two
   balanced phrases joined by beats / wins over / trumps / is better than. It

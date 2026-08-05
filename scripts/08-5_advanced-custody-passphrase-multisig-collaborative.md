@@ -20,7 +20,7 @@ Path one is passphrase single-sig. One seed plus a hidden extra word. It's best 
 
 Now, since the passphrase is doing so much work in this path, let me talk about how to actually make one that's strong, because this is where people get it wrong.
 
-Before the how, here's the clearest example I've got for why a passphrase is worth it at all. Imagine someone comes to clean your house, and they find your seed phrase in a drawer. Without a passphrase, they now have your Bitcoin. With a passphrase, they have 12 or 24 words that open an empty wallet, and they can't do anything with them. That's what you're buying.
+Before the how, here's the clearest example I've got for why a passphrase is worth it at all. Say someone comes to clean your house, and they find your seed phrase in a drawer. Without a passphrase, they now have your Bitcoin. With a passphrase, they have 12 or 24 words that open an empty wallet, and they can't do anything with them. That's what you're buying.
 
 Now, how to actually make one.
 

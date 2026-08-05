@@ -158,7 +158,7 @@ That's the 22% bracket, with ~$60,000 of room before the next one. They could ad
 
 ### The bracket roadmap: three stages
 
-Picture your income as a road through retirement.
+Your income through retirement runs in three stages, and each one has a different amount of room in it.
 
 **Stage 1: Early retirement (paychecks stop).** Say they retire at 60. Paycheck stops. They're living off the taxable bucket, so reported income drops (often to the lowest it's ever been).
 

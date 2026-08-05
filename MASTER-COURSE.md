@@ -214,7 +214,7 @@ If you use high Bitcoin returns, the plan pulls your retirement date closer and 
 
 ### How much one assumption can move things
 
-Take someone who's 45 with 1.75 Bitcoin and $80,000 a year of spending:
+Let's say we have someone who's 45 with 1.75 Bitcoin and $80,000 a year of spending:
 
 - **Bitcoin at 40% forever** (a deliberately conservative number, well under what Bitcoin has actually done). Earliest retirement lands around **age 50**.
 - **Bitcoin at 20% now, declining as adoption grows.** Earliest retirement moves to around **age 58**.
@@ -863,7 +863,7 @@ Your surplus is the money left over each month after taxes, living expenses, and
 
 ### The surplus walk
 
-Take a couple in Texas. He's 45, she's 43, two kids. Their year walks like this:
+Let's say we have a couple in Texas. He's 45, she's 43, two kids. Their year walks like this:
 
 | Step | Amount |
 |---|---|
@@ -3069,7 +3069,7 @@ That's the 22% bracket, with ~$60,000 of room before the next one. They could ad
 
 ### The bracket roadmap: three stages
 
-Picture your income as a road through retirement.
+Your income through retirement runs in three stages, and each one has a different amount of room in it.
 
 **Stage 1: Early retirement (paychecks stop).** Say they retire at 60. Paycheck stops. They're living off the taxable bucket, so reported income drops (often to the lowest it's ever been).
 

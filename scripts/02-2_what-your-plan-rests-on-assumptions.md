@@ -17,7 +17,7 @@ If you use high Bitcoin returns, the plan is going to pull your retirement date 
 
 == HOW MUCH ONE ASSUMPTION CAN MOVE THINGS ==
 
-Let me show you how much one input matters. Take someone who's 45, holding 1.75 Bitcoin, spending $80,000 a year.
+Let's walk through an example. Let's say that we have someone who's 45, holding 1.75 Bitcoin, and spending $80,000 a year.
 
 If you run Bitcoin at 40% forever — a deliberately conservative number, well under what Bitcoin has actually done historically — their earliest retirement lands around age 50.
 

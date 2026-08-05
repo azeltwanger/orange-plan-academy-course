@@ -21,7 +21,7 @@ And here's the part people miss: basis is tracked per lot, not for your whole st
 
 == SAME SALE, TWO DIFFERENT TAX BILLS ==
 
-Let me show you why that matters. The couple holds 1.75 Bitcoin, worth $175,000 at an illustrative $100,000 a coin. They paid $60,000 for it, split across two lots. Lot one is 1.5 Bitcoin on the hardware wallet, with a $45,000 basis, so $30,000 a coin. Lot two is a quarter Bitcoin on the exchange, with a $15,000 basis, so $60,000 a coin.
+Let's run it on the couple. They hold 1.75 Bitcoin, worth $175,000 at an illustrative $100,000 a coin. They paid $60,000 for it, split across two lots. Lot one is 1.5 Bitcoin on the hardware wallet, with a $45,000 basis, so $30,000 a coin. Lot two is a quarter Bitcoin on the exchange, with a $15,000 basis, so $60,000 a coin.
 
 Now say they sell a quarter Bitcoin. That's $25,000 of proceeds either way. But watch what happens to the gain.
 
