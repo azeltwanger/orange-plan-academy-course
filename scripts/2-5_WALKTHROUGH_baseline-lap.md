@@ -1,63 +1,118 @@
-# WALKTHROUGH 2.5 — the baseline lap (screen share)
+# 2.5 · WALKTHROUGH — Build your baseline
 
-**One session, 9 steps (~15 min) · capture segment `2.5`**
+**Screen capture · 9 steps · ~15 min**
 
-**Before recording:**
-□ Same demo account, straight after the onboarding capture (2.4) — the plan must already exist
-□ Clean browser · notifications off · Monte Carlo not yet run, so the ring lands live on camera
-
----
-
-**Open:** "Onboarding gave you a plan. Now we make it accurate and ready to use. This is the difference between a demo and a baseline."
+> **DO** = click path · **SEE** = point at this · **⚠** = don't get this wrong
+> Narrate in your own words. Nothing here is scripted.
 
 ---
 
+## Before you record
 
-**Open:** "Onboarding gave you a plan. Now we make it accurate and ready to use."
+- [ ] Same demo account, straight after 2.4 — the plan must already exist
+- [ ] Monte Carlo NOT yet run, so the ring lands live on camera
+- [ ] Clean browser, notifications off
 
-## □ B1 · Verify on Dashboard
-**Expand every account group**
-- every row: Edit link + three-dot menu
-- wrong number → fix at the SOURCE, never nudge a total
-- "not perfect — accurate"
+---
 
-## □ B2 · Add anything missing
-**Add Account / Add Holding**
-- every real account is in, or it isn't a baseline
+## □ 1 · Verify on Dashboard
 
-## □ B3 · Update Transactions — show, don't run
-**Dashboard → Update Transactions → open dialog → close it**
-- four ways: linked account · CSV/Excel file · describe one to AI · manual
-- "you don't have to do this now — the button is always here"
+**DO** Expand every account group
 
-## □ B4 · Shield the reserve
-**Click shield icon on non-cash reserve holdings**
-- treasuries / money market counted as reserve · cash counts automatically
+**SEE** Every row has an Edit link + three-dot menu
 
-## □ B5 · Assumptions on Plan page
-**Plan → gear icon → preset + inflation → save**
-- same presets + custom overrides + life expectancy
-- inflation default 3% → "4 or 5 if you think it runs hotter — I run it there"
+**⚠** Wrong number → fix at the **source**, never nudge a total.
 
-## □ B6 · Earliest retirement date
-**Point at the hero**
-- the baseline freedom date · chips: N years away · $X/yr target
-- ⚠ chart toggle stays on **Today's $** — "a million in 2050 isn't a million today"
+**⚠** The bar is accurate, not perfect.
 
-## □ B7 · Confidence ring
-**Run Monte Carlo → wait 10-20 sec**
-- "a thousand market paths through your plan…"
-- 👀 ring + verdict + sampling range date — 🚩 bands changing to 80/70 (item 39): read the verdict WORD off the screen, don't speak the thresholds
-- "the date says when — the ring says how sturdy"
+---
 
-## □ B8 · Life events
-**Add event for anything likely**
-- 👀 Recheck chip appears by the ring → click, re-run
+## □ 2 · Add anything missing
 
-## □ B9 · Baseline PDF
-**Account menu → Report → Download PDF**
-- year in the filename · "your starting-point snapshot — next year's before picture"
+**DO** Add Account / Add Holding
+
+**⚠** Every real account is in, or it isn't a baseline.
+
+---
+
+## □ 3 · Update Transactions — show, don't run
+
+**DO** Dashboard → Update Transactions → open dialog → close it
+
+**SEE** Four ways in: linked account · CSV/Excel · describe one to AI · manual
+
+**⚠** Nothing to do now. Point out the button lives here permanently.
+
+---
+
+## □ 4 · Shield the reserve
+
+**DO** Three-dot menu on the holding row → **Add shield**
+
+**SEE** Toast *"Designated as emergency fund"* · **Shield** pill appears on the row
+
+**⚠** Shield the specific holding, not the whole account. Cash counts automatically; treasuries and money market need the shield.
+
+**⚠** Desktop: the three-dot menu only appears on row hover.
+
+---
+
+## □ 5 · Assumptions on the Plan page
+
+**DO** Plan → gear icon → preset + inflation → Save
+
+**SEE** Same presets as onboarding + custom overrides + life expectancy
+
+**⚠** Inflation defaults to 3%. Worth saying you run yours higher.
+
+---
+
+## □ 6 · Earliest retirement date
+
+**DO** Point at the hero
+
+**SEE** The date · chips: N years away · $X/yr target
+
+**⚠** Chart toggle stays on **Today's $**. A million in 2050 isn't a million today.
+
+---
+
+## □ 7 · Confidence ring — LET IT RUN
+
+**DO** Run Monte Carlo → wait 10–20 sec
+
+**SEE** Ring + verdict word + sampling range date
+
+**⚠ 🚩 BANDS CHANGING (item 39).** Read the verdict **word** off the screen. Do not speak the threshold numbers — they're moving to 80/70 and the footage would go stale.
+
+**⚠** Worth landing: the date says *when*, the ring says *how sturdy*.
+
+---
+
+## □ 8 · Life events
+
+**DO** Add an event for anything likely
+
+**SEE** Recheck chip appears next to the ring → click it → re-run
+
+---
+
+## □ 9 · Baseline PDF
+
+**DO** Account menu → Report → Download PDF
+
+**⚠** Year in the filename. This is next year's before-picture.
+
+---
 
 ## □ WRAP — spot check off the screen
-- savings rate green/amber · monthly room positive · portfolio matches your math · debt matches reality · shield on · date + ring readable · PDF saved
-- "that's your baseline. Everything else in this course builds on it" → END
+
+- [ ] Savings rate green or amber
+- [ ] Monthly room positive
+- [ ] Portfolio matches your own math
+- [ ] Debt matches reality
+- [ ] Shield on the right holding
+- [ ] Date + ring both readable
+- [ ] PDF saved
+
+**END**
