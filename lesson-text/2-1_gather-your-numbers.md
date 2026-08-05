@@ -12,7 +12,7 @@ Your plan is only as good as its inputs. This lesson collects them once, so onbo
 | Bitcoin | Quantity (not dollars), where it's held, cost basis if known |
 | Debts | Balance, rate, and term for each |
 | Contributions | What's going into each account annually + employer match terms |
-| Social Security | Your estimated monthly benefit from ssa.gov/myaccount |
+| Social Security | Your estimated monthly benefit from [ssa.gov/myaccount](https://www.ssa.gov/OACT/quickcalc/) |
 
 ## Two rules
 
