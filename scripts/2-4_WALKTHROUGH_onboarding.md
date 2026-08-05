@@ -1,105 +1,234 @@
-# WALKTHROUGH 2.4 — onboarding (screen share)
+# 2.4 · WALKTHROUGH — Set up your plan (onboarding)
 
-**One session, 13 steps · capture segment `2.4`**
+**Screen capture · 13 steps · ~15 min final**
 
-**Before recording:**
-□ Fresh demo account · couple's numbers on a card · clean browser · notifications off
-□ Card: income $190k · spending $80k · 1.75 BTC · $280k mortgage @3.25% · $18k car @7% · 401k $12k/yr · Roth $7k/yr
-
----
-
-**Open:** "We're going to set up your plan from scratch. About 15 minutes, and you'll walk out with a working plan that has a retirement date on it."
-
-**Layout, 10 sec:** counter 1/13 top-left · green Auto-saved pill · Back / Skip / Save & finish later at bottom
+> **DO** = what you click · **SAY** = what you say out loud
+> **SEE** = what to point at on screen · **⚠** = don't get this wrong
 
 ---
 
+## Before you hit record
 
-**Open:** "We're going to set up your plan from scratch. About 15 minutes, and you'll have a working plan with a retirement date on it."
+- [ ] Fresh demo account, nothing entered yet
+- [ ] Numbers card in front of you (below)
+- [ ] Clean browser, notifications off
 
-**Layout, 10 sec:** counter 1/13 top-left · green Auto-saved pill · Back / Skip / Save & finish later at bottom
+**The couple's numbers**
 
----
-
-## □ A1 · Privacy
-**Pick Cloud → Continue**
-- Cloud = sync + backup + bank linking · Local Only = this browser, more private, your risk
-- changeable later in Settings · dead man's switch needs Cloud
-
-## □ A2 · About You — 7 slides
-**Enter the couple's answers, keep moving**
-- age → retire age (👀 subtitle: "N years to build wealth") → filing status (blocks Continue) → spouse → dependents (child tax credits) → state (👀 **No state tax** badge) → income type
-
-## □ A3 · Income & Spending — ⚠ SLOW DOWN
-**Income → spouse → living spending → retirement spending**
-- income: chips or type · leave the 2 self-employment fields blank
-- **LIVING SPENDING = the one number to get right. Living only — not your paycheck, not debt payments. Salary here → every projection wrong.** Say it hard.
-- 👀 two panels: Savings rate (green 30%+) · Monthly room before debt (red = negative)
-- retirement spending: same as today usually · also excludes debt payments
-
-## □ A4 · Accounts
-**Add Account → type → name → owner → repeat**
-- skip the Plaid link card, stay manual
-- add EVERY real account · no generic "Bitcoin account" — the app makes you say WHERE it's held (custody module feeds off this)
-- 👀 green "✓ N accounts ready to track"
-
-## □ A5 · Assets
-**Per account: + Add Holding → type → details → Save**
-- Bitcoin: QUANTITY, never dollars · basis if known, else BLANK — app never invents basis
-- stocks: ticker + shares (👀 "Fetching live price...")
-- cash: dollar value
-- ⚠ never type a price — point at the dollar line updating as you type
-
-## □ A6 · Transactions → SKIP
-**Skip for now**
-- "building the plan, not reconciling the books" · button lives on Dashboard forever
-
-## □ A7 · Debts
-**Add Debt → type → balance, rate, term**
-- defaults everywhere (mortgage 7%, card 22%) — overtype with real numbers
-- ⚠ Auto Loan prefills 8.5% — call it out
-- payment: leave blank → app estimates, editable
-- 👀 Total Debt + Monthly Payments tiles · mention BTC-Backed Loan is a first-class type
-- line: "a 22% card and a 3.25% mortgage are not the same problem — every debt gets a job later"
-
-## □ A8 · Contributions
-**Annual amounts on the generated rows · toggle Employer match on 401(k)**
-- current reality only — optimized routing comes later
-- match: rate + pay % → 👀 estimated employer contribution
-- Roth = tax now, tax-free later · 👀 IRA total meter (Traditional + Roth share one limit)
-
-## □ A9 · Social Security
-**Monthly amount → start-age card → spouse → horizon chip**
-- monthly at Full Retirement Age · helper points to ssa.gov/myaccount · opt-out exists
-- cards: 62 (~30% less) · 67 (full) · 70 (~24% more)
-- take the **90** chip: "running out at 90 because you planned to 80 is the failure this is designed against"
-
-## □ A10 · Assumptions — NOT skippable
-**Actively click a card**
-- ⚠ Moderate is pre-selected — choose on purpose
-- all four presets DECLINE over time — bigger Bitcoin, slower growth
-- "my default is Power law · Conservative if you want headroom"
-- never read the % numbers as facts — cards are on screen
-
-## □ A11 · Strategy Profile — 10 required
-**Answer all ten**
-- "honestly, not aspirationally" · the 50-80% drop question = the allocation stress test in advance
-
-## □ A12 · Life Events
-**Quick-add → age, cost, description → Add Event**
-- LIKELY events only · what-ifs go to Scenarios later · college auto-spreads across years
-- 👀 button relabels "Continue with N event(s)"
-
-## □ A13 · Review — 🎬 let it breathe
-**Don't click. Watch.**
-- 👀 spinner: "Projecting balances… Running 300 market paths… Checking spending target…"
-- 👀 EARLIEST RETIREMENT · AGE X → the ring
-- "300 paths here to stay fast — the full 1,000-path ring runs in Part B"
-- scroll the snapshot + modeled details · read: "nothing is locked in here"
-- **Go to your dashboard** → END PART A
+| | |
+|---|---|
+| Income | $190,000 |
+| Spending | $80,000 |
+| Bitcoin | 1.75 BTC |
+| Mortgage | $280,000 @ 3.25% |
+| Car | $18,000 @ 7% |
+| 401(k) | $12,000/yr |
+| Roth | $7,000/yr |
 
 ---
 
-## □ WRAP — hand off to the baseline lap
-- "Onboarding gave you a plan. It's built on what you typed in 15 minutes, so the next walkthrough makes it accurate and ready to actually use."
-- ⚠ don't let them stop here — an unverified plan is a demo, not a baseline → END
+## Open
+
+**SAY**
+"We're going to set up your plan from scratch. About 15 minutes, and you'll walk out with a working plan that has a retirement date on it."
+
+**SEE**
+Counter 1/13 top-left · green Auto-saved pill · Back / Skip / Save & finish later along the bottom
+
+---
+
+## □ 1 · Privacy
+
+**DO**
+Pick **Cloud** → Continue
+
+**SAY**
+"Cloud gives you sync, backup, and bank linking. Local Only keeps everything in this browser, which is more private, but the risk is yours."
+
+**⚠**
+Changeable later in Settings. The dead man's switch needs Cloud.
+
+---
+
+## □ 2 · About you (7 slides)
+
+**DO**
+Age → retire age → filing status → spouse → dependents → state → income type
+
+**SEE**
+- Retire age subtitle: *"N years to build wealth"*
+- State: **No state tax** badge
+
+**⚠**
+Filing status blocks Continue until it's answered.
+
+---
+
+## □ 3 · Income & spending — SLOW DOWN HERE
+
+**DO**
+Income → spouse income → living spending → retirement spending
+
+**SAY**
+"Living spending is the one number you have to get right. This is living only. Not your paycheck, not your debt payments. If you put your salary in here, every projection after this is wrong."
+
+**SEE**
+- Savings rate panel (green at 30%+)
+- Monthly room before debt (red means negative)
+
+**⚠**
+Leave both self-employment fields blank. Retirement spending also excludes debt payments.
+
+---
+
+## □ 4 · Accounts
+
+**DO**
+Add Account → type → name → owner → repeat for every real account
+
+**SAY**
+"No generic 'Bitcoin account.' The app makes you say where it's actually held, and the custody module later runs off this."
+
+**SEE**
+Green ✓ "N accounts ready to track"
+
+**⚠**
+Skip the Plaid link card. Stay manual for this demo.
+
+---
+
+## □ 5 · Assets
+
+**DO**
+Per account: + Add Holding → type → details → Save
+
+**SAY**
+"Bitcoin goes in as a quantity, never as dollars. And if you don't know your basis, leave it blank. The app will never invent one for you."
+
+**SEE**
+- Stocks: *"Fetching live price..."*
+- The dollar line updating as you type the quantity
+
+**⚠**
+Never type a price. Point at the dollar line instead.
+
+---
+
+## □ 6 · Transactions → SKIP
+
+**DO**
+Skip for now
+
+**SAY**
+"We're building the plan, not reconciling the books. This button lives on your Dashboard forever."
+
+---
+
+## □ 7 · Debts
+
+**DO**
+Add Debt → type → balance, rate, term
+
+**SAY**
+"A 22% credit card and a 3.25% mortgage are not the same problem. Every debt gets its own job later in the course."
+
+**SEE**
+Total Debt tile · Monthly Payments tile · BTC-Backed Loan is a first-class type
+
+**⚠**
+Defaults are prefilled (mortgage 7%, card 22%, auto 8.5%). Overtype every one with the real number.
+
+---
+
+## □ 8 · Contributions
+
+**DO**
+Enter annual amounts on the generated rows → toggle Employer match on the 401(k)
+
+**SAY**
+"This is your current reality, not the optimized version. We fix the routing later."
+
+**SEE**
+Estimated employer contribution · IRA total meter (Traditional and Roth share one limit)
+
+---
+
+## □ 9 · Social Security
+
+**DO**
+Monthly amount → start-age card → spouse → horizon chip **90**
+
+**SAY**
+"Running out at 90 because you planned to 80 is exactly the failure this is designed against."
+
+**SEE**
+Age cards: 62 (~30% less) · 67 (full) · 70 (~24% more)
+
+**⚠**
+The field is **monthly**, at Full Retirement Age. Helper points to ssa.gov/myaccount.
+
+---
+
+## □ 10 · Assumptions — NOT skippable
+
+**DO**
+Actively click a card. Don't accept the default.
+
+**SAY**
+"All four of these decline over time, because a bigger Bitcoin grows slower. My default is Power law, and Conservative if you want more headroom."
+
+**⚠**
+Moderate is pre-selected, so choose on purpose. Never read the % numbers as facts. They're on screen.
+
+---
+
+## □ 11 · Strategy profile
+
+**DO**
+Answer all 10
+
+**SAY**
+"Answer these honestly, not aspirationally. The 50 to 80% drop question is the allocation stress test, and you're taking it before you need it."
+
+---
+
+## □ 12 · Life events
+
+**DO**
+Quick-add → age, cost, description → Add Event
+
+**SAY**
+"Likely events only. The what-ifs go into Scenarios later."
+
+**SEE**
+Button relabels to "Continue with N event(s)" · college auto-spreads across years
+
+---
+
+## □ 13 · Review — LET IT BREATHE
+
+**DO**
+Don't click anything. Watch.
+
+**SEE**
+- Spinner: *"Projecting balances… Running 300 market paths… Checking spending target…"*
+- **EARLIEST RETIREMENT · AGE X** → then the ring
+
+**SAY**
+"300 paths here to keep it fast. The full thousand-path version runs in the next walkthrough."
+Then scroll the snapshot: "Nothing is locked in here."
+
+**DO**
+Go to your dashboard
+
+---
+
+## □ WRAP
+
+**SAY**
+"Onboarding gave you a plan. But it's built on what you typed in 15 minutes, so the next walkthrough makes it accurate and ready to actually use."
+
+**⚠**
+Don't let them stop here. An unverified plan is a demo, not a baseline.
+
+**END**
