@@ -103,7 +103,7 @@
 - Sell some taxable Bitcoin
 - Split the conversion across two years so each bill is smaller
 
-**⚠** Size the conversion to a bill you can actually pay. Deciding to convert and then discovering the bill is how a good move turns into stress.
+**⚠** Size the conversion to a bill you can actually pay. Decide to convert, then discover the bill, and a good move turns into stress.
 
 **⚠** Filing deadlines and extension rules are law-set. Point at them, don't quote them, and say: confirm the dates and any interest with your CPA before you rely on them.
 

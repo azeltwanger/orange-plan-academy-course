@@ -176,6 +176,29 @@ you the range"). If the table's cells matter to the edit, a compact copy may
 sit BELOW the spoken paragraph fenced as "REFERENCE — do not read". Never
 above, never instead of the spoken read.
 
+## Register control — measured 2026-08-05 (do NOT "fix" this)
+
+Austin's CONVERSATION and his DICTATED LESSON are different registers, and the
+lesson is the right target for a teach script. Measured on sentence openers:
+
+| corpus | chaining opener (so/and/but/now/then) | article/demonstrative opener |
+|---|---|---|
+| Austin, 3 client calls (1,648 sentences) | 39% | 6% |
+| **Austin, his own 3.2 dictation (the master)** | **15%** | **27%** |
+| The AI-written teach scripts (3,267 sentences) | 18% | 26% |
+
+The scripts already sit on his dictated-lesson register. Someone comparing them
+against the CONVERSATION numbers will conclude the scripts need "So" and "And"
+injected at the front of hundreds of sentences — that change would move them
+AWAY from how he actually delivers a lesson. It was proposed and rejected on
+this evidence. Median sentence length also already matches (12 vs 13 words).
+
+What a high article-opener rate in one script usually means is not stiffness but
+**abstract nouns doing the work** ("Splitting the two is what protects your
+willingness to keep showing up"). Fix those individually — Austin says who does
+what ("You split the two so you'll actually keep showing up") — and the profile
+follows on its own.
+
 ## Conversion rule of thumb
 
 Take the lesson's idea, then ask: how would a financial planner explain this to

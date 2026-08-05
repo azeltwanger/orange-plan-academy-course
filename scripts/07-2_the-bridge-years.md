@@ -23,7 +23,7 @@ Now I need to clear something up, because the phrase "bridge years" gets used tw
 
 There are actually two bridges, and they're different lengths.
 
-The first one is the bridge to your income floor, which runs from the day you retire until Social Security starts. That's the one this lesson is about, and it's the one that decides how much your portfolio has to carry alone.
+The first one is the bridge to your income floor, which runs from the day you retire until Social Security starts. That's the one this lesson is about, because it decides how much your portfolio has to carry alone.
 
 The second one is the bridge to your retirement accounts, which runs from the day you retire until you turn 59 and a half. That one decides which accounts you're allowed to touch cheaply.
 

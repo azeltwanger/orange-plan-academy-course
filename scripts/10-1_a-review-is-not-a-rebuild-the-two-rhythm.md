@@ -5,7 +5,7 @@ TELEPROMPTER SCRIPT — segment 10.1
 
 In today's lesson, we're going to cover the difference between a review and a rebuild, and the two rhythms that keep your plan current without taking over your life.
 
-Here's the distinction that this whole module runs on. A rebuild goes back and re-litigates decisions you already settled. It reacts to every price move, it feels heavy, and because it feels heavy, it gets skipped. A review updates what actually changed in your life, and nothing else. Keeping the scope that small is what makes maintenance cheap enough that you'll actually do it every year.
+Here's the distinction that this whole module runs on. A rebuild goes back and re-litigates decisions you already settled. It reacts to every price move, it feels heavy, and because it feels heavy, it gets skipped. A review updates what actually changed in your life, and nothing else. You keep the scope that small so maintenance stays cheap enough that you'll actually do it every year.
 
 The big decisions were settled earlier in this course. Your allocation, the job you gave every debt, your tax windows, your income guardrails, your custody setup, your estate wishes. Maintenance doesn't reopen any of them. Its job is to keep the facts current underneath them.
 
@@ -31,7 +31,7 @@ The monthly pass is about five minutes. It's a short check of a few inputs to ke
 
 The annual review is a single thorough pass, once a year. It walks every area and deliberately reconsiders strategy, and it catches plan drift.
 
-Splitting the two is what protects your willingness to keep showing up. You are not reopening your entire strategy twelve times a year just to catch a spending change that could have been entered in thirty seconds.
+You split the two so you'll actually keep showing up. You are not reopening your entire strategy twelve times a year just to catch a spending change that could have been entered in thirty seconds.
 
 == THE RULE THAT TIES THEM TOGETHER ==
 
@@ -39,7 +39,7 @@ One rule ties both rhythms together: you update the plan first. The plan is your
 
 == THE PLAN DOESN'T CARE WHAT THE PRICE IS TODAY ==
 
-Last idea, and it's the one that makes this whole system livable: the plan doesn't care what the price is today.
+Last idea, and it's what makes the whole system livable. The plan doesn't care what the price is today.
 
 In 2022, Bitcoin dropped 75-plus percent, and I watched my own net worth go with it. But a plan built on facts didn't move. My income, my spending, and my life were the same, so the plan was the same. The price was the only thing screaming, and the price isn't a plan input.
 
@@ -51,7 +51,7 @@ If nothing changed, the review takes five minutes and confirms that nothing chan
 
 Your decision out of this lesson is your two review dates.
 
-Here's how I'd think about it. Keep the two jobs separate, because the monthly pass catches facts going stale and the annual pass asks whether your decisions still fit, and mixing them is what turns every month into a rebuild. Pick a specific recurring day, not a vague intention, because "first Saturday" survives and "beginning of the month" doesn't. Put the annual one before year-end, since the tax moves inside it expire on December 31st. And protect the boundary: if something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
+Here's how I'd think about it. Keep the two jobs separate, because the monthly pass catches facts going stale and the annual pass asks whether your decisions still fit, and if you mix them, every month turns into a rebuild. Pick a specific recurring day, not a vague intention, because "first Saturday" survives and "beginning of the month" doesn't. Put the annual one before year-end, since the tax moves inside it expire on December 31st. And protect the boundary: if something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
 
 == HOMEWORK ==
 

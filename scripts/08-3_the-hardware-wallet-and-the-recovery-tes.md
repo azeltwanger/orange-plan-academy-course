@@ -61,7 +61,7 @@ And if you already have a pocketful of small bills, the fix is consolidation: yo
 
 I want to talk to a specific person for a minute, because I run into them a lot.
 
-You bought the hardware wallet. You moved your Bitcoin onto it. And now you don't touch it. You don't plug it in, you don't update it, you don't check it, because you're scared that plugging it in is the thing that gets you robbed.
+You bought the hardware wallet. You moved your Bitcoin onto it. And now you don't touch it. You don't plug it in, you don't update it, you don't check it, because you're scared that plugging it in is how you get robbed.
 
 I had a client tell me almost exactly that. She said she doesn't plug it into anything, and that outside of receiving and sending she doesn't really use it, because she doesn't know how to keep it safe.
 
