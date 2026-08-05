@@ -405,7 +405,7 @@ How to think about it:
 
 The next module builds the cash flow that lets you keep buying Bitcoin without being forced to sell at the wrong time.
 
-## 2.4 Walkthrough: set up your plan and build your baseline in Orange Plan
+## 2.4 Walkthrough: set up your plan in Orange Plan
 *`DEMO` · 3,297 words · ~20 min read*
 
 > 🎥 **SCREEN SHARE — entire lesson.** Capture segment **2.4**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
@@ -666,7 +666,23 @@ Reassurance line: *"…Nothing is locked in here. You can continue editing detai
 
 Click **Go to your dashboard**.
 
-### Part B — Baseline lap
+## 2.5 Walkthrough: build your baseline in Orange Plan
+*`DEMO` · ~1,100 words · ~9 min read*
+
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **2.5**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+
+**By the end of this lesson, you can:**
+
+- Verify every account and holding against reality
+- Shield the holdings that are your reserve
+- Read your earliest retirement date and confidence ring together
+- Save a baseline PDF as your starting-point snapshot
+
+---
+
+Onboarding gave you a plan. This walkthrough makes it accurate and ready to use, which is the difference between a demo and a baseline.
+
+### The baseline lap
 
 Onboarding gave you a plan. Part B makes it accurate and gets it ready to actually use. About 15 minutes.
 

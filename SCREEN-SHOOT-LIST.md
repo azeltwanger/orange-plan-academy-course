@@ -5,11 +5,16 @@ Capture **in this order** — app state builds forward from one segment to the n
 **19 segments · ~184 minutes of raw capture.**
 Before the first segment: seed the demo account with the couple's canonical numbers (Phase 0 of FILMING-CHECKLIST.md). Clean browser profile, notifications off, 5 seconds of stillness before the first click and after the last. **Evergreen rule: never zoom on or read out a law-set number (brackets, limits, exemptions) — call it "the current number the app shows" and move on.**
 
-## ☐ Segment 2.4 — Walkthrough: set up your plan and build your baseline in Orange Plan
+## ☐ Segment 2.4 — Walkthrough: set up your plan (onboarding)
 *entire lesson · ~29 min capture (plus retakes)*
 
 **Before you hit record:**
 - [ ] FRESH demo account — Part A is the onboarding wizard from zero. Have the couple's numbers on a card beside you.
+
+## ☐ Segment 2.5 — Walkthrough: build your baseline
+
+**Required app state:** run straight after 2.4 on the SAME demo account, plan already created, Monte Carlo not yet run so the ring lands live on camera.
+
 - [ ] Film as TWO sessions: Part A (beats 1–14), break, Part B (beats 15–25).
 
 **Beats (tick as you capture):**

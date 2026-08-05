@@ -33,8 +33,9 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 2.1 Gather your numbers — 🎙 film `2-1`
 ☐ 2.2 Assumptions — 🎙 film `2-2`
 ☐ 2.3 The confidence ring — 🎙 film `2-3`
-☐ 2.4 Walkthrough: onboarding + baseline — 🖥 capture `2.4` (two parts: onboarding 13 steps, baseline lap 9 steps)
-☐ Module 1: edit → upload → paste lesson text (2-1 … 2-4)
+☐ 2.4 Walkthrough: set up your plan — 🖥 capture `2.4` (onboarding, 13 steps)
+☐ 2.5 Walkthrough: build your baseline — 🖥 capture `2.5` (baseline lap, 9 steps; run straight after 2.4 on the same account, Monte Carlo not yet run)
+☐ Module 1: edit → upload → paste lesson text (2-1 … 2-5)
 
 ## ☐ MODULE 2 — Cash Flow + Reserve
 

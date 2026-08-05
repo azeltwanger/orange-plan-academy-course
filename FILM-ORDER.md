@@ -15,7 +15,8 @@ Work top to bottom. Every lesson is one row; each row tells you exactly what to 
 - [ ] **2.1 Gather your numbers** — 🎙 PROMPTER `scripts/2-1_gather-your-numbers.md`
 - [ ] **2.2 What your plan rests on: assumptions** — 🎙 PROMPTER `scripts/2-2_what-your-plan-rests-on-assumptions.md`
 - [ ] **2.3 The confidence ring: your plan's stress test** — 🎙 PROMPTER `scripts/2-3_the-confidence-ring-your-plan-s-stress-t.md`
-- [ ] **2.4 Walkthrough: set up your plan and build your baseline in Orange Plan** — 🎙 PROMPTER `scripts/2-4_WALKTHROUGH_onboarding-and-baseline.md` · 🖥 CAPTURE segment `2.4` (shoot list)
+- [ ] **2.4 Walkthrough: set up your plan in Orange Plan** — 🎙 PROMPTER `scripts/2-4_WALKTHROUGH_onboarding.md` · 🖥 CAPTURE segment `2.4` (shoot list)
+- [ ] **2.5 Walkthrough: build your baseline in Orange Plan** — 🎙 PROMPTER `scripts/2-5_WALKTHROUGH_baseline-lap.md` · 🖥 CAPTURE segment `2.5` (shoot list)
 
 ## Module 2 — Cash Flow + Reserve
 
