@@ -169,7 +169,7 @@ Before the first segment: seed the demo account with the couple's canonical numb
 
 ---
 
-## ☐ Segment 8.5 — External demo: hardware wallet setup + exchange hardening
+## ☐ Segment 8.6 — External demo: hardware wallet setup + exchange hardening
 *entire lesson · ~7 min capture (plus retakes)*
 
 **Beats (tick as you capture):**
@@ -180,7 +180,7 @@ Before the first segment: seed the demo account with the couple's canonical numb
 
 ---
 
-## ☐ Segment 8.6 — Walkthrough: document your custody map in Orange Plan
+## ☐ Segment 8.7 — Walkthrough: document your custody map in Orange Plan
 *entire lesson · ~15 min capture (plus retakes)*
 
 **Before you hit record:**

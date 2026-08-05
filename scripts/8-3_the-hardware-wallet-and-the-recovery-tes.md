@@ -1,5 +1,5 @@
-TELEPROMPTER SCRIPT — segment 8.2
-8.2 The hardware wallet and the recovery test
+TELEPROMPTER SCRIPT — segment 8.3
+8.3 The hardware wallet and the recovery test
 ~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 

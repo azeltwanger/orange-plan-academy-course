@@ -2,7 +2,7 @@
 
 *Custody as operational protection: choose your level on the four-tier ladder, set up hardware with a proven recovery test, close single points of failure, and — when it fits — go advanced with passphrase, multisig, or collaborative custody.*
 
-## 8.1 Custody: the five questions and choosing your level
+## 8.1 Custody: the 5 questions
 *`TEACH` · 2,050 words · ~13 min*
 
 **By the end of this lesson, you can:**
@@ -58,6 +58,20 @@ By "secrets" I mean the things that actually move Bitcoin: seed phrase (the word
 > ⚠ No seed phrases, no private keys, no passphrases, no PINs. In any app, document, photo, cloud note, or AI tool. Ever.
 
 What you write down: who holds what, what type of setup it is, and what someone should do. Never the words that unlock it. You can share the document with your executor and store it safely, because nothing in it is worth stealing.
+
+## 8.2 Choosing your custody level
+*`TEACH` · ~1,250 words · ~8 min*
+
+**By the end of this lesson, you can:**
+
+- Match a custody level to your stack and your family
+- Name what each level buys you and what it costs
+- Decide whether custodial Bitcoin should sit at more than one institution
+- Spot the moment a price run-up outgrows your setup
+
+---
+
+You know where your gaps are from the 5 questions. Now: what setup should you be running at all?
 
 ### Choosing your level
 
@@ -257,7 +271,7 @@ A collaborative provider holds the config for you. On top of the support, the an
 
 The next lesson covers the hardware wallet setup and the recovery test.
 
-## 8.2 The hardware wallet and the recovery test
+## 8.3 The hardware wallet and the recovery test
 *`TEACH` · 678 words · ~5 min*
 
 **By the end of this lesson, you can:**
@@ -322,7 +336,7 @@ If you've never done the wipe-and-restore, watch the demo lesson and do it, with
 
 The next lesson covers closing single points of failure and common scams.
 
-## 8.3 Close the doors: single points of failure, hardening, and scams
+## 8.4 Close the doors: single points of failure, hardening, and scams
 *`TEACH` · 777 words · ~6 min*
 
 > ✅ **Fixed in course:** stale hand-off promised "advanced custody" next — that
@@ -418,7 +432,7 @@ Write your own "only one" list, pick the one at the top, fix it this week. Not a
 
 The next lesson is the external demo: hardware wallet setup and exchange hardening, done on screen.
 
-## 8.4 Advanced custody: passphrase, multisig, and collaborative
+## 8.5 Advanced custody: passphrase, multisig, and collaborative
 *`TEACH` · 1,354 words · ~9 min*
 
 **By the end of this lesson, you can:**
@@ -534,10 +548,10 @@ A collaborative provider holds the config for you. On top of the support, the an
 
 The next lesson is the external demo: hardware wallet setup and exchange hardening.
 
-## 8.5 External demo: hardware wallet setup + exchange hardening
+## 8.6 External demo: hardware wallet setup + exchange hardening
 *`DEMO` · 877 words*
 
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **8.6**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **8.7**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
 
 > ❓ **Decision needed (item 24):** this read text is a *shooting script* —
 > "review your footage before publishing," "if it fails, retake," staging/blur
@@ -619,10 +633,10 @@ Everything else in this space is a variation on those four.
 
 The next lesson is where this demo becomes a checked box. Three of the checklist items exist specifically to prove you did what this demo taught: recovery tested, backup verified, signing device tested recently. Check them only if you actually ran the demo. An unchecked item is honest. A checked item that never happened is dangerous, because the plan now believes something untrue.
 
-## 8.6 Walkthrough: document your custody map in Orange Plan
+## 8.7 Walkthrough: document your custody map in Orange Plan
 *`DEMO` · 1,718 words · ~8 min*
 
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **8.6**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **8.7**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
 
 **By the end of this lesson, you can:**
 

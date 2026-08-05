@@ -1,43 +1,11 @@
-TELEPROMPTER SCRIPT — segment 8.1
-8.1 Custody: the 5 questions and choosing your level
-~14 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+TELEPROMPTER SCRIPT — segment 8.2
+8.2 Choosing your custody level
+~11 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-In today's lesson, we're going to cover custody: the 5 questions that expose your gaps, and how to choose the right custody level for your family.
+In today's lesson, we're going to cover how to pick the custody level that actually matches your stack and your family.
 
-Custody is more than where your Bitcoin sits. It covers whether you can reach it, whether anyone else can, and whether there's a process that still works when you're not around.
-
-And I want to separate it from inheritance up front, because people mix these. Inheritance is the legal transfer, the wills, the executor, who gets what, and the estate module covers that. This module is about securing access while you're alive and making it recoverable if you're not.
-
-Here's why this matters. In 2022, Celsius customers watched their balance sit on a screen while withdrawals were frozen. Same thing at BlockFi, same at FTX. The number on the screen was theirs. The Bitcoin was not. A Bitcoin balance in someone else's system is a claim on their Bitcoin, not ownership of yours.
-
-== THE 5 QUESTIONS ==
-
-Custody comes down to 5 questions.
-
-Where is the Bitcoin held? What type of custody are you using? Who knows what to do? What happens if you're unavailable? And where are the single points of failure?
-
-Let's run a typical Bitcoin household through them. He's 45, she's 43, two kids, ages 10 and 12. They hold 1.5 Bitcoin on a hardware wallet in a desk drawer, and a quarter Bitcoin on an exchange.
-
-Where is it held? They can answer that cold. Check. What type of custody? One hardware wallet, one exchange account, no passphrase. They know that too. Check. Who knows what to do? He does. She has never touched the device. That's a miss. What happens if he's unavailable? Nothing. Nobody can do anything. That's a miss. And where are the single points of failure? They've never even asked the question. Miss.
-
-So that's 2 out of 5. And that's a normal Bitcoin household, not a careless one. The value of the score is that it turns a vague worry into three specific jobs.
-
-== NAME THE JOB BEFORE YOU PICK THE SETUP ==
-
-Before you pick any setup, name the job the Bitcoin is doing, because different jobs can call for different custody.
-
-For this couple, the 1.5 Bitcoin is long-term cold storage. It's the retirement stack, and it shouldn't move in a hurry. The quarter Bitcoin on the exchange is the buying account. But notice, it's also quietly doing a second job that nobody assigned to it: it's what they'd reach for in an emergency. And that's a problem, because an exchange can freeze an account in exactly the week they need it.
-
-So name the job for each pile, so that one setup isn't covering two jobs that need different things.
-
-== THE ONE RULE THIS MODULE RUNS ON ==
-
-Now, the one rule this entire module runs on: you document the process, never the secrets.
-
-By secrets, I mean the things that actually move Bitcoin. The seed phrase, which is the set of words your whole wallet rebuilds from. Private keys. The passphrase. The PIN. Anyone holding one of those has your Bitcoin, full stop.
-
-What you do write down is who holds what, what type of setup it is, and what someone should do. Never the words that unlock it. And because nothing in that document is worth stealing, you can share it with your executor and store it safely.
+You scored yourself on the 5 questions, so you know where your gaps are. Now the question is what setup you should be running at all.
 
 == CHOOSING YOUR LEVEL ==
 
@@ -79,34 +47,6 @@ Now here's what it costs you, and I don't want to gloss over this. Every extra a
 
 So the honest rule I'd give you is this. Self-custody is the real answer to counterparty risk. Splitting across institutions is the hedge you use for whatever isn't self-custodied yet. I think you add the second institution when the amount justifies the maintenance, and not before. A small stack sitting on one hardened exchange is a legitimate setup, and adding a bunch of accounts to it just gives you more surface area to protect.
 
-== WHAT SELF-CUSTODY ACTUALLY ASKS OF YOU ==
-
-Before we size this, I want to name something that a client put better than I ever have.
-
-He said: with self-custody, you are the point of failure. And not just the failure, you're the attack vector. And then he made the point that most of life doesn't work this way. We outsource violence to the police. We outsource security to the banks. That's basically what civilization is, handing off the hard, dangerous jobs to somebody whose job it is.
-
-And Bitcoin asks you to take one of those jobs back.
-
-I think that's right, and it explains why custody feels heavier than the rest of this course. It isn't just another checkbox. It's you accepting a responsibility that, for every other asset you own, somebody else carries for you.
-
-Two things follow from that.
-
-The first is that it's completely reasonable to not want the whole job. That's what collaborative custody exists for, and it's why a hardened exchange position is a legitimate setup for part of your stack. Taking the job back is a choice, not an obligation.
-
-The second is that if you do take it, being a little paranoid is appropriate, not a character flaw. You should feel the weight. The people who get hurt are usually the ones who didn't.
-
-== YOUR STACK CAN OUTGROW YOUR SETUP ==
-
-And here's the trigger nobody sets a reminder for.
-
-You pick a custody setup that matches what you're holding. Fine. But then the price runs up, and now that same setup, which you never touched, is guarding three or four times as much money.
-
-You didn't make a decision. The market made it for you. And your custody level quietly fell behind what's at stake.
-
-A client asked me about this directly. He wanted to know whether at some point his self-custody gets too large, and whether you'd want to dial it back. And the honest answer is yes, that point exists for most people, and almost nobody notices when they cross it.
-
-So this belongs on your annual review. Once a year, re-ask the level question at today's balance, not the balance you had when you set it up. If the answer changed, your setup needs to change with it.
-
 == SIZING IT ON A REAL HOUSEHOLD ==
 
 Let's size the couple. At an illustrative $100,000 a coin, the hardware wallet is $150,000 and the exchange is $25,000.
@@ -123,16 +63,36 @@ One thing to know about the app: Orange Plan runs 3 tiers keyed to estate size. 
 
 So there are two dials working together. Your custody level, which is your call based on your skills and your family. And the app's tier, which sets the checklist items you're held to, based on what's at stake.
 
+== YOUR STACK CAN OUTGROW YOUR SETUP ==
+
+And here's the trigger nobody sets a reminder for.
+
+You pick a custody setup that matches what you're holding. Fine. But then the price runs up, and now that same setup, which you never touched, is guarding three or four times as much money.
+
+You didn't make a decision. The market made it for you. And your custody level quietly fell behind what's at stake.
+
+A client asked me about this directly. He wanted to know whether at some point his self-custody gets too large, and whether you'd want to dial it back. And the honest answer is yes, that point exists for most people, and almost nobody notices when they cross it.
+
+So this belongs on your annual review. Once a year, re-ask the level question at today's balance, not the balance you had when you set it up. If the answer changed, your setup needs to change with it.
+
 == CUSTODY IS NOT A PURITY TEST ==
 
 Before the advanced material, one thing I want to say directly: custody is not a purity test.
 
 The right setup is one you can maintain, explain, and recover from. A simple setup your family can actually use beats an advanced one nobody understands. You'll hear people say real Bitcoiners self-custody everything, immediately. I think that claim is wrong, and it gets people hurt. You move up a level by earning it, with skill and with need. Not with ideology.
 
+== YOUR DECISION ==
+
+Your decision here is which custody level you're going to run, and whether your custodial Bitcoin should sit at more than one institution.
+
+Here's how to think about it. Match the level to what's actually at stake and to what you can genuinely maintain, and remember that a mismatch in either direction is the failure. Too little custody for the amount is the Celsius problem. Too much custody for your skill is the lost-seed problem. Then for whatever you haven't self-custodied, ask whether one company's bad week could take all of it.
+
+And put a note on your annual review to re-ask this at that year's balance, because the price moves and your setup doesn't.
+
 == HOMEWORK ==
 
 Your homework for this lesson is to:
 
-1. Score yourself on the 5 questions and write down your number. For most people it's one or two.
-2. Write down which level you're at today, and which level your amount and your family say you should be at.
+1. Write down which level you're at today, and which level your amount and your family say you should be at.
+2. If those two are different, write down the one thing that closes the gap.
 3. For anything you haven't self-custodied, write down how many institutions it's sitting in, and be honest about whether that number matches what's at stake.

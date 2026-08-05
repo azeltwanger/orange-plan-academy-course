@@ -62,12 +62,13 @@ Work top to bottom. Every lesson is one row; each row tells you exactly what to 
 
 ## Module 7 — Custody
 
-- [ ] **8.1 Custody: the five questions and choosing your level** — 🎙 PROMPTER `scripts/8-1_custody-the-five-questions-and-choosing-.md`
-- [ ] **8.2 The hardware wallet and the recovery test** — 🎙 PROMPTER `scripts/8-2_the-hardware-wallet-and-the-recovery-tes.md`
-- [ ] **8.3 Close the doors: single points of failure, hardening, and scams** — 🎙 PROMPTER `scripts/8-3_close-the-doors-single-points-of-failure.md`
-- [ ] **8.4 Advanced custody: passphrase, multisig, and collaborative** — 🎙 PROMPTER `scripts/8-4_advanced-custody-passphrase-multisig-collaborative.md`
-- [ ] **8.5 External demo: hardware wallet setup + exchange hardening** — 🎙 PROMPTER `scripts/8-5_DEMO_hardware-wallet-exchange.md` · 🖥 CAPTURE segment `8.5` (shoot list)
-- [ ] **8.6 Walkthrough: document your custody map in Orange Plan** — 🎙 PROMPTER `scripts/8-6_WALKTHROUGH_custody-map.md` · 🖥 CAPTURE segment `8.6` (shoot list)
+- [ ] **8.1 Custody: the 5 questions** — 🎙 PROMPTER `scripts/8-1_custody-the-five-questions.md`
+- [ ] **8.2 Choosing your custody level** — 🎙 PROMPTER `scripts/8-2_choosing-your-custody-level.md`
+- [ ] **8.3 The hardware wallet and the recovery test** — 🎙 PROMPTER `scripts/8-3_the-hardware-wallet-and-the-recovery-tes.md`
+- [ ] **8.4 Close the doors: single points of failure, hardening, and scams** — 🎙 PROMPTER `scripts/8-4_close-the-doors-single-points-of-failure.md`
+- [ ] **8.5 Advanced custody: passphrase, multisig, and collaborative** — 🎙 PROMPTER `scripts/8-5_advanced-custody-passphrase-multisig-collaborative.md`
+- [ ] **8.6 External demo: hardware wallet setup + exchange hardening** — 🎙 PROMPTER `scripts/8-6_DEMO_hardware-wallet-exchange.md` · 🖥 CAPTURE segment `8.6` (shoot list)
+- [ ] **8.7 Walkthrough: document your custody map in Orange Plan** — 🎙 PROMPTER `scripts/8-7_WALKTHROUGH_custody-map.md` · 🖥 CAPTURE segment `8.7` (shoot list)
 
 ## Module 8 — Estate
 

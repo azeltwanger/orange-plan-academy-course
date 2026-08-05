@@ -1,4 +1,4 @@
-# WALKTHROUGH 8.6 — document your custody map in Orange Plan (screen share)
+# WALKTHROUGH 8.7 — document your custody map in Orange Plan (screen share)
 
 **One session, 6 steps (~15 min capture)**
 

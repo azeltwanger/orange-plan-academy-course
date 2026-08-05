@@ -1,5 +1,5 @@
-TELEPROMPTER SCRIPT — segment 8.3
-8.3 Close the doors: single points of failure, hardening, and scams
+TELEPROMPTER SCRIPT — segment 8.4
+8.4 Close the doors: single points of failure, hardening, and scams
 ~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 

@@ -1,4 +1,4 @@
-# DEMO 8.5 — hardware wallet setup + exchange hardening (external screen record)
+# DEMO 8.6 — hardware wallet setup + exchange hardening (external screen record)
 
 **One session, 3 beats (~9 min final) — NOT Orange Plan. Vendor tools only. Evergreen: record once, keep forever.**
 

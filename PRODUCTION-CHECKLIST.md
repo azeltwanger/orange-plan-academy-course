@@ -86,13 +86,14 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ## ☐ MODULE 7 — Custody
 
-☐ 8.1 Five questions + your level — 🎙 film `8-1` (~13 min; incl. per-level trade-offs + multi-institution)
-☐ 8.2 Hardware wallet + recovery test — 🎙 film `8-2`
-☐ 8.3 Close the doors — 🎙 film `8-3`
-☐ 8.4 Advanced custody: passphrase, multisig, collaborative — 🎙 film `8-4` (~11 min; 7-word passphrase standard + entropy graphic)
-☐ 8.5 External demo: wallet setup + hardening — 🖥 capture `8.5` (NOT Orange Plan; sealed device + burner exchange; ⚠ no seed/PIN ever in frame; review footage)
-☐ 8.6 Walkthrough: custody map — 🖥 capture `8.6` (6 steps; passphrase prompt typed off-camera)
-☐ Module 7: edit → upload → paste lesson text (8-1 … 8-6)
+☐ 8.1 Custody: the 5 questions — 🎙 film `8-1` (~7 min)
+☐ 8.2 Choosing your custody level — 🎙 film `8-2` (~8 min; trade-offs + multi-institution)
+☐ 8.3 Hardware wallet + recovery test — 🎙 film `8-3`
+☐ 8.4 Close the doors — 🎙 film `8-4`
+☐ 8.5 Advanced custody: passphrase, multisig, collaborative — 🎙 film `8-5` (~11 min; 7-word passphrase standard + entropy graphic)
+☐ 8.6 External demo: wallet setup + hardening — 🖥 capture `8.6` (NOT Orange Plan; sealed device + burner exchange; ⚠ no seed/PIN ever in frame; review footage)
+☐ 8.7 Walkthrough: custody map — 🖥 capture `8.7` (6 steps; passphrase prompt typed off-camera)
+☐ Module 7: edit → upload → paste lesson text (8-1 … 8-7)
 
 ## ☐ MODULE 8 — Estate
 
@@ -127,7 +128,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ☐ Every lesson page: teach video + walkthrough video below it + lesson text pasted
 ☐ Toolkit PDFs uploaded to Materials (Family Custody Map, Heir Letter, Executor Packet, Coverage Audit, Estate Plan Maps)
-☐ Watch-through pass: no current-year numbers on screen, no law-set figures spoken, no seed/PIN frames in 8.5
+☐ Watch-through pass: no current-year numbers on screen, no law-set figures spoken, no seed/PIN frames in 8.6
 ☐ Course-wide click-through as a student: every video plays, every download works
 ☐ ⚖ LEGAL GATE — attorney review complete (see LEGAL-REVIEW-PACKET.md): course Terms + course Disclaimer published; refund/renewal terms live; marketing claims reviewed
 ☐ Publish from the Honen dashboard

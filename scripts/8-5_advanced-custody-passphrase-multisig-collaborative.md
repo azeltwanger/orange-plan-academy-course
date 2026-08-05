@@ -1,5 +1,5 @@
-TELEPROMPTER SCRIPT — segment 8.4
-8.4 Advanced custody: passphrase, multisig, and collaborative
+TELEPROMPTER SCRIPT — segment 8.5
+8.5 Advanced custody: passphrase, multisig, and collaborative
 ~12 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
