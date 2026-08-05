@@ -51,15 +51,15 @@ I think that's right, and it explains why custody feels heavier than the rest of
 
 Two things follow from that.
 
-The first is that it's completely reasonable to not want the whole job. That's what collaborative custody exists for, and it's why a hardened exchange position is a legitimate setup for part of your stack. Taking the job back is a choice, not an obligation.
+The first one is that it's completely reasonable to not want the whole job. That's what collaborative custody exists for, and it's why a hardened exchange position is a legitimate setup for part of your stack. Taking the job back is a choice, not an obligation.
 
-The second is that if you do take it, being a little paranoid is appropriate, not a character flaw. You should feel the weight. The people who get hurt are usually the ones who didn't.
+The second one is that if you do take it, being a little paranoid is appropriate, not a character flaw. You should feel the weight. The people who get hurt are usually the ones who didn't.
 
 == YOUR DECISION ==
 
 Your decision out of this lesson is your honest score, and what job each pile of Bitcoin is actually doing.
 
-Here's how to think about it. Answer all 5 questions out loud, and answer them the way things really are today, not the way you intend them to be. A miss is just an item on a list. Then look at each pile separately, because a stack you won't touch for 20 years and a stack you'd reach for in an emergency are doing different jobs, and they don't need the same setup.
+The way I think about this is pretty simple. Answer all 5 questions out loud, and answer them the way things really are today, not the way you intend them to be. A miss is just an item on a list. Then look at each pile separately, because a stack you won't touch for 20 years and a stack you'd reach for in an emergency are doing different jobs, and they don't need the same setup.
 
 Most people score 1 or 2 out of 5 the first time. That's normal, and what it does is turn a vague worry into 3 specific jobs you can work through.
 

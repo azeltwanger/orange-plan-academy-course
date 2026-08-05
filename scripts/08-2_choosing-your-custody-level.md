@@ -65,7 +65,7 @@ So there are two dials working together. Your custody level, which is your call 
 
 == YOUR STACK CAN OUTGROW YOUR SETUP ==
 
-And here's the trigger nobody sets a reminder for.
+Nobody sets a reminder for this one.
 
 You pick a custody setup that matches what you're holding. Fine. But then the price runs up, and now that same setup, which you never touched, is guarding three or four times as much money.
 
@@ -85,7 +85,7 @@ The right setup is one you can maintain, explain, and recover from. If your fami
 
 Your decision here is which custody level you're going to run, and whether your custodial Bitcoin should sit at more than one institution.
 
-Here's how to think about it. Match the level to what's actually at stake and to what you can genuinely maintain, and remember that a mismatch in either direction is the failure. Too little custody for the amount is the Celsius problem. Too much custody for your skill is the lost-seed problem. Then for whatever you haven't self-custodied, ask whether one company's bad week could take all of it.
+Here's how I'd think about it. Match the level to what's actually at stake and to what you can genuinely maintain, and remember that a mismatch in either direction is the failure. Too little custody for the amount is the Celsius problem. Too much custody for your skill is the lost-seed problem. Then for whatever you haven't self-custodied, ask whether one company's bad week could take all of it.
 
 And put a note on your annual review to re-ask this at that year's balance, because the price moves and your setup doesn't.
 

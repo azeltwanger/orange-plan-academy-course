@@ -11,7 +11,7 @@ Here's the idea underneath the whole thing. You have some control over what tax 
 
 == WHERE YOUR MONEY SITS: THE 3 BUCKETS ==
 
-Every dollar you own for retirement sits in one of 3 buckets, and the table on the screen compares them.
+Every dollar you own for retirement sits in one of 3 buckets, and you can see them compared right here.
 
 The first bucket is taxable. The money going in was already taxed, and you pay tax on gains when you sell, at capital gains rates. No forced withdrawals, ever.
 

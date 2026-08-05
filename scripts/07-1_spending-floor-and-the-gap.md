@@ -13,7 +13,7 @@ This module builds your retirement paycheck. An income floor, a gap that the por
 
 The first number is a realistic spending number, and you're going to build it from four pieces.
 
-The first piece is baseline spending. Housing, food, insurance, utilities, transportation. The second is flexible spending. Travel, gifts, hobbies, entertainment. This is the stuff you'd pause in a bad year. The third is healthcare. Premiums, out-of-pocket, prescriptions, dental, vision. And the fourth is lumpy costs. The roof, a car, a wedding, dental work, the HVAC going out. The stuff that doesn't happen every year but always happens eventually.
+The first piece is baseline spending. Housing, food, insurance, utilities, transportation. The second one is flexible spending. Travel, gifts, hobbies, entertainment. This is the stuff you'd pause in a bad year. The third one is healthcare. Premiums, out-of-pocket, prescriptions, dental, vision. And the fourth is lumpy costs. The roof, a car, a wedding, dental work, the HVAC going out. The stuff that doesn't happen every year but always happens eventually.
 
 Before you write your number down, run two honesty checks.
 

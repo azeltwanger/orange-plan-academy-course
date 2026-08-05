@@ -11,11 +11,11 @@ The gap lesson showed you that the gap is biggest in the early years. These are 
 
 🎬 GRAPHIC: a horizontal timeline with 3 markers. Retirement day (paycheck stops) → 59½ (retirement accounts unlock) → Social Security start (floor rises). Shade the stretch between retirement and Social Security and label it THE BRIDGE.
 
-Your income floor doesn't arrive all at once. There are three milestones, and the table on the screen lays them out.
+Your income floor doesn't arrive all at once. There are three milestones, and they're laid out on the screen.
 
 The first milestone is retirement day. The paycheck stops, and from that day the portfolio covers the entire gap.
 
-The second is age 59 and a half. That's when your retirement accounts unlock, meaning you can pull from a traditional IRA or 401(k) without the 10% early-withdrawal penalty. Verify that under current law.
+The second one is age 59 and a half. That's when your retirement accounts unlock, meaning you can pull from a traditional IRA or 401(k) without the 10% early-withdrawal penalty. Verify that under current law.
 
 And the third is the day Social Security begins. That's when the floor rises, and it splits your retirement into two eras: the years you're on your own, and the years you're not.
 
@@ -23,9 +23,9 @@ Now I need to clear something up, because the phrase "bridge years" gets used tw
 
 There are actually two bridges, and they're different lengths.
 
-The first is the bridge to your income floor, which runs from the day you retire until Social Security starts. That's the one this lesson is about, and it's the one that decides how much your portfolio has to carry alone.
+The first one is the bridge to your income floor, which runs from the day you retire until Social Security starts. That's the one this lesson is about, and it's the one that decides how much your portfolio has to carry alone.
 
-The second is the bridge to your retirement accounts, which runs from the day you retire until you turn 59 and a half. That one decides which accounts you're allowed to touch cheaply.
+The second one is the bridge to your retirement accounts, which runs from the day you retire until you turn 59 and a half. That one decides which accounts you're allowed to touch cheaply.
 
 For a lot of people those overlap, so it doesn't matter much. But if you retire at 64, you have zero bridge to your retirement accounts, because you're already past 59 and a half, and you might still have a 3-year bridge to Social Security. And if you retire at 50, both bridges are long and the account one bites first.
 

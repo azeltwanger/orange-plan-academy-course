@@ -13,7 +13,7 @@ Every dollar sits in one of 3 buckets, and the bucket tells you three things: wh
 
 == THE 3 BUCKETS ==
 
-The table on the screen lays this out, but let me talk you through each one.
+It's all laid out on the screen, but let me talk you through each one.
 
 The first bucket is the Reserve. This is your zero-to-three-year money, and it needs to be low volatility. High-yield savings, T-bills, short-term Treasuries, money market. Nothing that moves. The Reserve's job is to protect your ability to hold Bitcoin without being forced to sell it in a bad month. We sized this in the reserve lesson.
 
@@ -51,9 +51,9 @@ The target is what the projection actually uses. When you change it, the plan re
 
 There are three mistakes I see over and over here.
 
-The first is Bitcoin in the Bridge. Bitcoin belongs in Legacy. If you're planning to spend your Bitcoin inside of 10 years, then either the bucket is wrong or the plan is wrong, and you need to figure out which.
+The first one is Bitcoin in the Bridge. Bitcoin belongs in Legacy. If you're planning to spend your Bitcoin inside of 10 years, then either the bucket is wrong or the plan is wrong, and you need to figure out which.
 
-The second is cash in Legacy. Cash has no place in a ten-plus-year bucket, because inflation is eating it the entire time. A 401(k) sitting in a stable-value fund is exactly this mistake: it's Bridge risk sitting in a Legacy slot.
+The second one is cash in Legacy. Cash has no place in a ten-plus-year bucket, because inflation is eating it the entire time. A 401(k) sitting in a stable-value fund is exactly this mistake: it's Bridge risk sitting in a Legacy slot.
 
 And the third is a Reserve that's too small in retirement. Once you're drawing income instead of earning it, the Reserve is doing more work. Its job in retirement is sequence-risk protection, not just emergencies.
 
@@ -61,7 +61,7 @@ And the third is a Reserve that's too small in retirement. Once you're drawing i
 
 Your decision here is a target size for each of your three buckets.
 
-Here's how to think about it. Reserve comes first, because it's the only one with a deadline, and you already sized it back in the reserve lesson. Bridge is driven by your timeline, meaning the years between when the paycheck stops and when your other income turns on. If you're decades away that's small, and if you're close to retiring it's the biggest number on this page. Legacy is whatever's left, and that's where Bitcoin belongs, because it's the only bucket with enough time to survive a drawdown. Then compare your targets to what you actually hold, because the gap between those two is your routing instruction for the next year.
+Reserve comes first, because it's the only one with a deadline, and you already sized it back in the reserve lesson. Bridge is driven by your timeline, meaning the years between when the paycheck stops and when your other income turns on. If you're decades away that's small, and if you're close to retiring it's the biggest number on this page. Legacy is whatever's left, and that's where Bitcoin belongs, because it's the only bucket with enough time to survive a drawdown. Then compare your targets to what you actually hold, because the gap between those two is your routing instruction for the next year.
 
 == HOMEWORK ==
 

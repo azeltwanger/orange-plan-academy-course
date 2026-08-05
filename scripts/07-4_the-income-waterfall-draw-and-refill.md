@@ -9,7 +9,7 @@ In today's lesson, we're going to cover two things that work together: the incom
 
 The payoff of getting this right is big. The order you pull money from decides how much tax you pay over your whole retirement, and the difference isn't small. Pull in the wrong order and you can waste years of cheap tax room, then get hit with one enormous bill later. Pull in the right order and you spread that same income out so it never stacks up.
 
-The waterfall has 4 tiers, and the table on the screen lays them out.
+The waterfall has 4 tiers, and you can see them on the screen.
 
 Tier one is Social Security and pensions. Guaranteed money spends first.
 
@@ -87,7 +87,7 @@ In the app, the refill pace lives in the reserve settings as the monthly build c
 
 Your decision here is the order you'll pull from, and your rule for refilling the reserve.
 
-Here's how to think about it. Understand what the default order actually costs you, because spending one bucket dry first hands you years of very low income that you never used, and then a much bigger bill later. So you're aiming to spread income evenly instead of stacking it, which means using your cheap years while you have them. Spend from the reserve, not directly from the volatile assets, so that a bad market never sets your paycheck. And set your refill rule by the type of year: refill fully in a good year, refill partially in a bad one, and never lower the target itself.
+Understand what the default order actually costs you, because spending one bucket dry first hands you years of very low income that you never used, and then a much bigger bill later. So you're aiming to spread income evenly instead of stacking it, which means using your cheap years while you have them. Spend from the reserve, not directly from the volatile assets, so that a bad market never sets your paycheck. And set your refill rule by the type of year: refill fully in a good year, refill partially in a bad one, and never lower the target itself.
 
 == HOMEWORK ==
 

@@ -11,7 +11,7 @@ You have three types of tax wrappers, and the same dollar of Bitcoin sits very d
 
 == THE THREE WRAPPERS ==
 
-The table on the screen has the full comparison, but here's the shape of it.
+You can see the full comparison right here, but here's the shape of it.
 
 The first wrapper is the taxable brokerage. Money goes in already taxed, the growth gets taxed every year on dividends and realized gains, and when you sell, you pay tax on the gains, which is just the profit, meaning what you sold it for minus what you paid for it. You get lower rates on that gain if you held it for more than a year. What you're buying with a taxable account is flexibility. No age limits, no penalties, you can touch it whenever you want.
 
@@ -43,7 +43,7 @@ And high-yield dividend stocks: traditional or Roth, because those dividends get
 
 == THE COUPLE'S LOCATION ==
 
-Look at the couple's table on the screen. Cash in taxable as Reserve, the HSA and brokerage and 529 as Bridge, the Bitcoin in self-custody as Legacy, and the 401(k) and Roth IRA holding index funds as Legacy.
+Look at the couple's setup on the screen. Cash in taxable as Reserve, the HSA and brokerage and 529 as Bridge, the Bitcoin in self-custody as Legacy, and the 401(k) and Roth IRA holding index funds as Legacy.
 
 That's decent placement. If they wanted to optimize one step further, the move would be a small Bitcoin ETF position inside the Roth for tax-free growth, while keeping the majority of their Bitcoin in self-custody. Same thesis, better wrapper on a slice of it.
 

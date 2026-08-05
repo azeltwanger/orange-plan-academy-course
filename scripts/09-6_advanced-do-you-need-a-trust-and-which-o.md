@@ -57,9 +57,9 @@ With multisig, there's a clean answer: the trustee holds one key, never the seed
 
 Two misconceptions to clear before the homework.
 
-The first is "trusts are for the ultra-rich." That's wrong. A special-needs heir or a blended family can make a trust the right call at modest wealth. The family triggers are real triggers.
+The first one is "trusts are for the ultra-rich." That's wrong. A special-needs heir or a blended family can make a trust the right call at modest wealth. The family triggers are real triggers.
 
-The second is "everyone needs a trust." Also wrong. A large, simple estate may not need one yet. Size alone isn't a trigger. The gate is.
+The second one is "everyone needs a trust." Also wrong. A large, simple estate may not need one yet. Size alone isn't a trigger. The gate is.
 
 == HOMEWORK ==
 

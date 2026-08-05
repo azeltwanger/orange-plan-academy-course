@@ -53,9 +53,9 @@ When you select a saved scenario, the app puts it right next to your plan and sh
 
 I've got three rules for reading it.
 
-The first is read the pair, not the number. A scenario that retires you 2 years earlier at a much lower success rate is not a better plan. It's a different trade. Every scenario is a trade, and the trade is the thing you're actually reading.
+The first one is read the pair, not the number. A scenario that retires you 2 years earlier at a much lower success rate is not a better plan. It's a different trade. Every scenario is a trade, and the trade is the thing you're actually reading.
 
-The second is run the Monte Carlo before you believe the success rate. The comparison chart updates immediately, but that success rate is a simulation and it has to actually run. The button is right there in the comparison section.
+The second one is run the Monte Carlo before you believe the success rate. The comparison chart updates immediately, but that success rate is a simulation and it has to actually run. The button is right there in the comparison section.
 
 And the third is that small differences aren't differences. These are projections built on assumptions. If a scenario lands 2% away from your baseline, what it's telling you is that the change didn't really matter. Don't go reorganize your life around noise.
 
@@ -71,9 +71,9 @@ And the reverse happens too. You run a stress test, the plan survives it, and th
 
 Most of your scenarios are going to be disposable. Two of them aren't, and I'd keep these permanently.
 
-The first is a deep drawdown right after retirement. This is the sequence-of-returns test, and I think it's the single scenario most likely to break a Bitcoin-heavy plan. Keep it and re-run it every year.
+The first one is a deep drawdown right after retirement. This is the sequence-of-returns test, and I think it's the single scenario most likely to break a Bitcoin-heavy plan. Keep it and re-run it every year.
 
-The second is weaker Bitcoin returns than what you assumed. If your plan only works at your optimistic growth curve, that's something worth knowing every year, not one time.
+The second one is weaker Bitcoin returns than what you assumed. If your plan only works at your optimistic growth curve, that's something worth knowing every year, not one time.
 
 And both of those also feed the "if Bitcoin follows a different path" section of your yearly report, which we'll get to in the report lesson.
 

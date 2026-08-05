@@ -43,7 +43,7 @@ The third one is reduce, which means you're going to keep the thing, but you're 
 
 After you've done the easy cuts, the real surplus is going to be hiding in your largest fixed costs. There are three of them.
 
-The first is housing. That could mean downsizing, switching rentals, or taking on a roommate. The second is your car. Buying used instead of new, or selling a car entirely to kill a big payment. And the third is location, because your cost of living plus your state taxes are adding up every single year that you stay.
+The first one is housing. That could mean downsizing, switching rentals, or taking on a roommate. The second one is your car. Buying used instead of new, or selling a car entirely to kill a big payment. And the third is location, because your cost of living plus your state taxes are adding up every single year that you stay.
 
 A $500 a month change in housing is $6,000 a year, every year, and you don't have to make another decision to keep getting it.
 
@@ -67,9 +67,9 @@ That bare-bones number is what your cash reserve gets sized off of.
 
 One more place to look: your withholding, because it can be off in two different directions.
 
-The first is over-withholding. If you're getting a $4,800 refund every spring, that's $400 a month of your own surplus that you spent all year pretending you didn't have. That money could have been working for you the whole time.
+The first one is over-withholding. If you're getting a $4,800 refund every spring, that's $400 a month of your own surplus that you spent all year pretending you didn't have. That money could have been working for you the whole time.
 
-The second is under-withholding, and this is a real risk for two-earner households. If one spouse makes $150,000 and the other makes $40,000, those get taxed together, but neither employer is withholding as if it knew about the other paycheck. So you can get all the way to April and find out that you owe.
+The second one is under-withholding, and this is a real risk for two-earner households. If one spouse makes $150,000 and the other makes $40,000, those get taxed together, but neither employer is withholding as if it knew about the other paycheck. So you can get all the way to April and find out that you owe.
 
 Go check what you're withholding against what you're actually going to owe this year.
 

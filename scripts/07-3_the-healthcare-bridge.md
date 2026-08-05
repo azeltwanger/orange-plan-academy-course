@@ -21,7 +21,7 @@ The plans come in metal tiers, and those tiers are cost-sharing levels, not qual
 
 Now the part that matters for this course: almost nobody who plans well pays sticker price. There's a subsidy, and it scales with your income. Lower income means a bigger credit and a lower net premium. Higher income means a smaller credit, until you're paying sticker at the top.
 
-The income it looks at is your MAGI, your modified adjusted gross income. And here's the key insight for an early retiree: in the bridge years, your MAGI is partly a choice.
+The income it looks at is your MAGI, your modified adjusted gross income. In the bridge years, your MAGI is partly a choice.
 
 If you fund your spending from cash, or from taxable dollars that are mostly basis, your income on paper is low, and the subsidy goes up. If you realize big gains, take traditional-account dollars, or do Roth conversions, your MAGI goes up, and the subsidy goes down.
 

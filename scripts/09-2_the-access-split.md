@@ -81,7 +81,7 @@ So splitting a seed makes the wallet weaker, and splitting the seed from a passp
 
 Your decision out of this lesson is who holds each half of your access.
 
-Here's how to think about it. You're splitting two different objects, never one object into two pieces, because half a seed makes the wallet weaker while a seed separated from a passphrase makes it stronger. Pick people who don't share a household, a safe, or a bad week, because two halves in one house is one location, not two. Choose for reliability over technical skill, since the process is written down and the person mainly has to follow it and be findable. And assume neither one goes rogue, but plan as if one might, which is exactly why neither half is worth anything on its own.
+You're splitting two different objects, never one object into two pieces, because half a seed makes the wallet weaker while a seed separated from a passphrase makes it stronger. Pick people who don't share a household, a safe, or a bad week, because two halves in one house is one location, not two. Choose for reliability over technical skill, since the process is written down and the person mainly has to follow it and be findable. And assume neither one goes rogue, but plan as if one might, which is exactly why neither half is worth anything on its own.
 
 == HOMEWORK ==
 

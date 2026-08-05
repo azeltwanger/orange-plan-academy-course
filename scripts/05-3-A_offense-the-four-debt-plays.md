@@ -11,7 +11,7 @@ Defense set the boundaries. This is the other half. Leverage is a power tool. It
 
 The first play is the spread. You borrow at a low rate, you keep your capital invested in something you expect to outperform that rate, and you compound the difference.
 
-The spread is just what your money earns minus what your debt costs. Every dollar of 3% debt that you hold while your capital earns more than 3% is earning you that difference. And here's the reframe: paying that cheap debt off early doesn't earn you a return. It just stops the interest, at exactly the debt's rate, guaranteed, and it gives up whatever the capital could have done instead.
+The spread is just what your money earns minus what your debt costs. Every dollar of 3% debt that you hold while your capital earns more than 3% is earning you that difference. Paying that cheap debt off early doesn't earn you a return. It just stops the interest, at exactly the debt's rate, guaranteed, and it gives up whatever the capital could have done instead.
 
 I've done this one myself. When I bought my house, I put 5% down instead of 20%, and the difference went into Bitcoin. I still carry that mortgage on purpose today, because the spread between a 3-point-something mortgage and what I expect Bitcoin to do is the whole reason to hold it.
 
@@ -69,7 +69,7 @@ So let's run one right now. Pick the play you're most tempted by, and let's put 
 
 Your decision here is which play you're running, if any, and the rules it runs under.
 
-Here's how to think about it. Check it against defense first, because if a play would push you past the ceiling you set on the defense side, the answer is no and you're done thinking about it. Then name the failure mode out loud before you name the upside, because if you can't say how the play loses, you don't understand it well enough to run it. And "none of them" is a real answer, and it's the right one for a lot of households. If you are running one, write the operating rules before any money moves: what it's for, your maximum size, what makes you unwind it, and who else knows about it.
+So how do you actually decide? Check it against defense first, because if a play would push you past the ceiling you set on the defense side, the answer is no and you're done thinking about it. Then name the failure mode out loud before you name the upside, because if you can't say how the play loses, you don't understand it well enough to run it. And "none of them" is a real answer, and it's the right one for a lot of households. If you are running one, write the operating rules before any money moves: what it's for, your maximum size, what makes you unwind it, and who else knows about it.
 
 == HOMEWORK ==
 

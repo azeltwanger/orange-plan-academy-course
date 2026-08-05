@@ -51,7 +51,7 @@ If nothing changed, the review takes five minutes and confirms that nothing chan
 
 Your decision out of this lesson is your two review dates.
 
-Here's how to think about it. Keep the two jobs separate, because the monthly pass catches facts going stale and the annual pass asks whether your decisions still fit, and mixing them is what turns every month into a rebuild. Pick a specific recurring day, not a vague intention, because "first Saturday" survives and "beginning of the month" doesn't. Put the annual one before year-end, since the tax moves inside it expire on December 31st. And protect the boundary: if something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
+Here's how I'd think about it. Keep the two jobs separate, because the monthly pass catches facts going stale and the annual pass asks whether your decisions still fit, and mixing them is what turns every month into a rebuild. Pick a specific recurring day, not a vague intention, because "first Saturday" survives and "beginning of the month" doesn't. Put the annual one before year-end, since the tax moves inside it expire on December 31st. And protect the boundary: if something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
 
 == HOMEWORK ==
 

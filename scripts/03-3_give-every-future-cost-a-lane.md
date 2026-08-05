@@ -17,7 +17,7 @@ So every known cost is going to get its own lane, and the lane is just the answe
 
 The lane depends on how far away the cost is. The further out it is, the more volatility that lane can tolerate, because you have time to recover from a bad stretch.
 
-The table on the screen gives you the full range, but let me walk you through the pattern. If the cost is inside of a year, that money needs to sit somewhere boring. High-yield savings, T-bills, CDs. Nothing volatile at all. I'd basically treat it like part of your reserve.
+You can see the full range on the screen, but let me walk you through the pattern. If the cost is inside of a year, that money needs to sit somewhere boring. High-yield savings, T-bills, CDs. Nothing volatile at all. I'd basically treat it like part of your reserve.
 
 If it's one to 3 years out, you're still in short-term Treasuries or a high-yield savings account. No stocks and no Bitcoin, because that's not enough time to recover if you get a bad draw right before the bill comes due.
 
@@ -41,7 +41,7 @@ Let's walk through the couple's college bill, because it's the one that trips pe
 
 They've got 3 options.
 
-The first is to just pay it from flow. That's $25,000 a year of tuition eating into their $48,000 of annual surplus. It's doable, but it's taking more than half of every dollar that they were routing, for four straight years in a row. Everything else in their plan pauses during that stretch.
+The first one is to just pay it from flow. That's $25,000 a year of tuition eating into their $48,000 of annual surplus. It's doable, but it's taking more than half of every dollar that they were routing, for four straight years in a row. Everything else in their plan pauses during that stretch.
 
 The second option is to pre-fund it from flow. They'd route about $1,000 a month into an intermediate lane for 8 years. That's about $96,000 contributed, or somewhere around $110,000 once you account for growth. And now the tuition years are just a routing move out of that lane. Their surplus never takes the hit.
 

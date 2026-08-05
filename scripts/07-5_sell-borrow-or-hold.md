@@ -37,7 +37,7 @@ The third tool is holding, and what you're buying is compounding, and maybe some
 
 They don't touch the Bitcoin at all. They spend from the $120,000 reserve. The $400,000 keeps compounding.
 
-And here's the something more. Under current law, and verify this, Bitcoin passes to heirs with a step-up in basis. If the couple's basis is $100,000, that's $400,000 minus $100,000, or $300,000 of embedded gain that passes to their kids untaxed. The gain just disappears at death.
+And there's something else here, too. Under current law, and verify this, Bitcoin passes to heirs with a step-up in basis. If the couple's basis is $100,000, that's $400,000 minus $100,000, or $300,000 of embedded gain that passes to their kids untaxed. The gain just disappears at death.
 
 That turns "never sell" from a preference into an actual tax strategy. Holding the core forever can be a legitimate estate move, as long as it's funded by the Reserve and the Bridge instead of by sales.
 

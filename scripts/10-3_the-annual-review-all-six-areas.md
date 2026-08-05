@@ -83,7 +83,7 @@ So that's the annual review. You're pulling one card from every module, once a y
 
 Your decision here is which month you run the annual review, and what done looks like.
 
-Here's how to think about it. Run it before year-end, because the tax card is the only area with a hard deadline and it closes December 31st. Give each area about the same short attention, since you're reading six screens and asking one question of each: does the decision I already made still fit? Cap the output at three actions, because a longer list is the single biggest reason people quit doing reviews. And define the finish line up front, so the review actually ends instead of drifting into a rebuild.
+Run it before year-end, because the tax card is the only area with a hard deadline and it closes December 31st. Give each area about the same short attention, since you're reading six screens and asking one question of each: does the decision I already made still fit? Cap the output at three actions, because a longer list is the single biggest reason people quit doing reviews. And define the finish line up front, so the review actually ends instead of drifting into a rebuild.
 
 == HOMEWORK ==
 

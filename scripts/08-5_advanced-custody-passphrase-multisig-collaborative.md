@@ -48,7 +48,7 @@ Let me go a level deeper on collaborative, because I think it's the right answer
 
 It's a two-of-three. 3 keys exist, and any two of them can move Bitcoin. You hold two. The provider holds one.
 
-That split gives you two properties. The first is that they can never take your Bitcoin, because one key out of a required two spends nothing. They're a co-signer, not a custodian, and that is the entire difference between this and leaving it on an exchange. The second is that they can never lock you out, because you're already holding 2 keys, which is a spending quorum all by itself. You don't need their permission or their participation to move your own money.
+That split gives you two properties. The first one is that they can never take your Bitcoin, because one key out of a required two spends nothing. They're a co-signer, not a custodian, and that is the entire difference between this and leaving it on an exchange. The second one is that they can never lock you out, because you're already holding 2 keys, which is a spending quorum all by itself. You don't need their permission or their participation to move your own money.
 
 So what are you actually paying for? Three things. A key you didn't have to store yourself. A copy of the configuration file, held by somebody whose actual job is not losing it. And a human being who is going to pick up the phone and walk your family through a recovery on the worst week of their lives. That third one, honestly, is the whole reason this path exists.
 
@@ -58,7 +58,7 @@ The honest downside here is that you're depending on a company to keep existing 
 
 Path three is DIY multisig. You hold every key and the configuration yourself. Best for technically proficient people. It buys you maximum privacy and full independence. But here's the trade nobody talks about: your heirs inherit the complexity with no professional to guide them. This path trades your family's recovery odds for your independence.
 
-The table on the screen compares them across 4 rows: single point of failure, maintenance load, heir-friendliness, and cost. Look at all 4 rows before picking. Technical people tend to stop at row one and end up with something their family can't use.
+You can see them compared right here across 4 rows: single point of failure, maintenance load, heir-friendliness, and cost. Look at all 4 rows before picking. Technical people tend to stop at row one and end up with something their family can't use.
 
 Run it on the same household. $175,000 of Bitcoin, he's 45 and healthy, his wife has never restored a wallet, and the kids are 10 and 12.
 

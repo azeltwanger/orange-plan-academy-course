@@ -19,9 +19,9 @@ Both of those numbers are legitimate. The investable number shows you how the gr
 
 So what actually sets a responsible allocation for you? I think it comes down to three things.
 
-The first is education. How much do you actually know about what Bitcoin is and why it works?
+The first one is education. How much do you actually know about what Bitcoin is and why it works?
 
-The second is conviction, which is what that knowledge turns into once you've studied enough to defend the position in an argument.
+The second one is conviction, which is what that knowledge turns into once you've studied enough to defend the position in an argument.
 
 And the third is your comfort with volatility. And I mean what you would actually do in a 70% drawdown, not what you'd like to think you'd do. Those are two very different things.
 

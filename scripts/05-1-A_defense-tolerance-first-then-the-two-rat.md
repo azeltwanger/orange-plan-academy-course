@@ -33,11 +33,11 @@ Businesses hold debt on purpose because it lets them grow. So the right question
 
 There are two ratios that answer that, and they measure completely different things.
 
-The first is debt-to-income, or DTI. You take your total monthly debt payments and divide by your monthly income before tax. This measures monthly survival, because debt gets paid out of cash flow. It's the share of every paycheck that's already committed before you've bought a single grocery.
+The first one is debt-to-income, or DTI. You take your total monthly debt payments and divide by your monthly income before tax. This measures monthly survival, because debt gets paid out of cash flow. It's the share of every paycheck that's already committed before you've bought a single grocery.
 
 DTI is your stability anchor, and here's why that matters in this course: it barely moves in a Bitcoin drawdown, because it's driven by your income, not by asset prices.
 
-The table on the screen has the bands. Under 36% is healthy, 36 to 43% is acceptable, and over 43% is high-risk.
+The bands are on the screen right here. Under 36% is healthy, 36 to 43% is acceptable, and over 43% is high-risk.
 
 The second ratio is debt-to-assets, or DTA. Total debt divided by total assets. This one measures capacity: how much of what you own is already spoken for. And unlike DTI, this one moves with the Bitcoin price, which is a dynamic we'll cover in the drift lesson.
 
@@ -63,7 +63,7 @@ So those are your two ratios on paper. Now let's get them out of your head and i
 
 Your decision out of this lesson is your personal debt ceiling, meaning the level you won't go past, whatever the ratios say is technically allowed.
 
-Here's how to think about it. Start with tolerance, not the ratios, because if carrying debt keeps you up at night, that's a real constraint and it outranks any formula I can give you. Then read the two ratios as two different questions. One is asking whether you survive this month, and the other is asking how much room you have to make a move at all. Notice which one actually moves: your monthly ratio barely budges in a drawdown, but the balance-sheet one moves a lot, because the asset side is Bitcoin. So set your ceiling against the one that moves, and set it while the price is high, because that's exactly when debt looks safest and you're most tempted.
+Here's how I'd think about it. Start with tolerance, not the ratios, because if carrying debt keeps you up at night, that's a real constraint and it outranks any formula I can give you. Then read the two ratios as two different questions. One is asking whether you survive this month, and the other is asking how much room you have to make a move at all. Notice which one actually moves: your monthly ratio barely budges in a drawdown, but the balance-sheet one moves a lot, because the asset side is Bitcoin. So set your ceiling against the one that moves, and set it while the price is high, because that's exactly when debt looks safest and you're most tempted.
 
 == HOMEWORK ==
 

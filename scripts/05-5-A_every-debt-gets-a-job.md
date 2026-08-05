@@ -11,9 +11,9 @@ When there's surplus money at the end of the month, most people ask one question
 
 But that's actually three separate decisions wearing one coat.
 
-The first is: do I keep stacking? Do I continue Bitcoin accumulation out of my monthly surplus?
+The first one is: do I keep stacking? Do I continue Bitcoin accumulation out of my monthly surplus?
 
-The second is: do I pay down faster? Do I accelerate payoff on debt I already have?
+The second one is: do I pay down faster? Do I accelerate payoff on debt I already have?
 
 And the third is: do I add new leverage? Do I take on new debt to buy Bitcoin?
 
@@ -25,11 +25,11 @@ In my own household, in a single year, the answers were: yes on the first one, n
 
 So here's the exercise. Every debt on your list gets one of six jobs, plus a reason why.
 
-The first job is minimum only. You pay the required payment and nothing extra. The second is extra principal, paying above the minimum. The third is refinance, getting a better rate on the same debt. The fourth is consolidate, combining debts at a better rate. The fifth is pay off in full. Kill it. And the sixth is monitor, which is for asset-backed loans, and those get watched by LTV and cushion, not by rate.
+The first job is minimum only. You pay the required payment and nothing extra. The second one is extra principal, paying above the minimum. The third one is refinance, getting a better rate on the same debt. The fourth one is consolidate, combining debts at a better rate. The fifth is pay off in full. Kill it. And the sixth is monitor, which is for asset-backed loans, and those get watched by LTV and cushion, not by rate.
 
 == THE 4 TIERS ==
 
-To figure out which job a debt gets, sort it into one of 4 tiers by rate. The table on the screen has the bands, and here's how I'd talk through them.
+To figure out which job a debt gets, sort it into one of 4 tiers by rate. You can see the bands on the screen, and here's how I'd talk through them.
 
 Over 10% is the eliminate tier. Kill it. That debt is a guaranteed loss that you cannot outrun with investing.
 

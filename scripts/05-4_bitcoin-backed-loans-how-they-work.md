@@ -25,9 +25,9 @@ So if you borrow $50,000 against $200,000 of Bitcoin, your LTV is 25%.
 
 There are two things that move that number, and only one of them is in your control.
 
-The first is your loan balance, which goes up as interest accrues if you're not paying it down. That part is slow and predictable.
+The first one is your loan balance, which goes up as interest accrues if you're not paying it down. That part is slow and predictable.
 
-The second is your collateral value, which moves with the Bitcoin price. That part is fast, and it is not predictable at all.
+The second one is your collateral value, which moves with the Bitcoin price. That part is fast, and it is not predictable at all.
 
 🎬 GRAPHIC (the most important visual in this lesson): Bitcoin price line falling while the LTV bar climbs. Mark the margin call line and the liquidation line as fixed horizontal lines so the viewer watches LTV cross them.
 
@@ -41,9 +41,9 @@ That's why your starting LTV matters more than anything else in this lesson. It'
 
 Your lender is going to set three thresholds. Learn them in order, because that's the order you'd hit them in.
 
-The first is the margin call line. It's usually somewhere around 65 to 70% LTV, though every lender is different. When you cross it, the lender contacts you and gives you a window to fix it, and that window can be as short as 24 to 72 hours.
+The first one is the margin call line. It's usually somewhere around 65 to 70% LTV, though every lender is different. When you cross it, the lender contacts you and gives you a window to fix it, and that window can be as short as 24 to 72 hours.
 
-The second is the liquidation line, usually around 80 to 85%. If you cross that, or if you don't fix a margin call in time, the lender sells your Bitcoin to bring the loan back in range. You don't get a vote.
+The second one is the liquidation line, usually around 80 to 85%. If you cross that, or if you don't fix a margin call in time, the lender sells your Bitcoin to bring the loan back in range. You don't get a vote.
 
 And the third is the release line, which is the good news, and a lot of borrowers don't know it exists. If the price rises enough that your LTV drops well below where you started, a lot of lenders will release some of that collateral back to you, or let you request it.
 
@@ -73,9 +73,9 @@ Ask your lender which one they do before you sign anything, because it completel
 
 I'm not going to name specific companies, because that landscape changes and any list I give you today is going to be stale. What doesn't change is the structure, so you can sort any provider into one of these buckets.
 
-The first is custodial lenders. You send your Bitcoin to the company and they hold it. It's the simplest to use. The risk is exactly the one from the custody module: in a legal sense it's their Bitcoin now, and if they fail, you're a creditor standing in line. Several large ones failed in 2022 and their customers lost everything.
+The first one is custodial lenders. You send your Bitcoin to the company and they hold it. It's the simplest to use. The risk is exactly the one from the custody module: in a legal sense it's their Bitcoin now, and if they fail, you're a creditor standing in line. Several large ones failed in 2022 and their customers lost everything.
 
-The second is collaborative-custody lenders. Your collateral sits in a multisig arrangement, often two-of-three, where you hold a key, the lender holds a key, and a third party holds a key. The lender can't move your Bitcoin on their own. That structure is the reason a lot of Bitcoiners will use one of these and never touch a custodial one.
+The second one is collaborative-custody lenders. Your collateral sits in a multisig arrangement, often two-of-three, where you hold a key, the lender holds a key, and a third party holds a key. The lender can't move your Bitcoin on their own. That structure is the reason a lot of Bitcoiners will use one of these and never touch a custodial one.
 
 And then there's the question that really separates them, which is rehypothecation. Rehypothecation means the lender takes your collateral and lends it out to somebody else while they're holding it. It's the practice most directly responsible for the 2022 blowups. So ask directly: do you rehypothecate my collateral? And get the answer in writing. If the answer is anything other than a clear no, you're taking on a risk that has nothing at all to do with the Bitcoin price.
 
@@ -139,7 +139,7 @@ Here's how I'd think about it. Start with whether you need the money at all, bec
 
 Pick your starting LTV based on the drawdown you want to survive, not based on what you're allowed to borrow. Pick your provider on structure rather than rate, because a slightly better rate at a lender who rehypothecates your collateral is not a better deal.
 
-And here's the honest test: if you couldn't fund a margin call, you can't afford the loan.
+If you couldn't fund a margin call, you can't afford the loan.
 
 == HOMEWORK ==
 

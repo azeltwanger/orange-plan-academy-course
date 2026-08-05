@@ -61,7 +61,7 @@ So that's the math on the cushion. Now let's look at the app, because it draws t
 
 Your decision here is your maximum starting LTV, and exactly what you'll do at each severity level.
 
-Here's how to think about it. Size the cushion to a normal bear market, not a mild one, because a 70 to 80% drawdown is the normal case for Bitcoin and that's what it has to survive. Work backwards from that, and you'll usually find it means starting a lot lower than a lender will happily let you borrow. Then decide your actions before the chip ever appears, because the moment it does, the price is falling and you'll be making that call at your absolute worst. Write down all three responses now: what you do when it's getting close to a margin call, what you do at one, and what you do in the liquidation zone.
+Size the cushion to a normal bear market, not a mild one, because a 70 to 80% drawdown is the normal case for Bitcoin and that's what it has to survive. Work backwards from that, and you'll usually find it means starting a lot lower than a lender will happily let you borrow. Then decide your actions before the chip ever appears, because the moment it does, the price is falling and you'll be making that call at your absolute worst. Write down all three responses now: what you do when it's getting close to a margin call, what you do at one, and what you do in the liquidation zone.
 
 == HOMEWORK ==
 

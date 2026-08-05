@@ -17,7 +17,7 @@ Cost basis is what you paid for each lot of Bitcoin. The price, the date, and th
 
 Your gain is the sale price minus that basis, and your tax is built on the gain. So without basis, you can't prove that the gain was small.
 
-And here's the part people miss: basis is tracked per lot, not for your whole stack. A lot is one purchase, the coins you bought on 1 day at one price. When you sell, you're selling out of a specific lot, and the tax follows that lot's price.
+And basis is tracked per lot, not for your whole stack. A lot is one purchase, the coins you bought on 1 day at one price. When you sell, you're selling out of a specific lot, and the tax follows that lot's price.
 
 == SAME SALE, TWO DIFFERENT TAX BILLS ==
 

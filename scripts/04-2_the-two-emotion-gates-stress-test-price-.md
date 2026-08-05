@@ -3,7 +3,7 @@ TELEPROMPTER SCRIPT — segment 4.2
 ~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-In today's lesson, we're going to cover the two checks that keep your allocation honest. The first one is the stress test, which you run once, when you set your allocation. The second is the price context check, which you run every time before you make a Bitcoin-heavy move.
+In today's lesson, we're going to cover the two checks that keep your allocation honest. The first one is the stress test, which you run once, when you set your allocation. The second one is the price context check, which you run every time before you make a Bitcoin-heavy move.
 
 == CHECK 1: THE STRESS TEST ==
 
@@ -43,9 +43,9 @@ The second check runs before any Bitcoin-heavy move. Its job is to name the emot
 
 You're going to look at two lookback windows.
 
-The first is the recent window, which is 3, 6, 9, and 12 months. This tells you what you're feeling. If Bitcoin is up 40% in 3 months, you're feeling FOMO whether you admit it or not. If it's down 40%, you're feeling fear.
+The first one is the recent window, which is 3, 6, 9, and 12 months. This tells you what you're feeling. If Bitcoin is up 40% in 3 months, you're feeling FOMO whether you admit it or not. If it's down 40%, you're feeling fear.
 
-The second is the long window, which is 2 to 5 years. This tells you what's actually true. The direction of the trend, not the mood of last week.
+The second one is the long window, which is 2 to 5 years. This tells you what's actually true. The direction of the trend, not the mood of last week.
 
 Run both. The recent window tells you which emotion you're carrying into the decision. The long window tells you whether that emotion is aligned with reality or just reacting against it.
 
@@ -59,7 +59,7 @@ Before any big move, and by that I mean buying a large position, selling to lock
 
 Your decision here is the largest Bitcoin position you could actually hold through a 70 to 80% drawdown without selling.
 
-Here's how to think about it. Run the stress test on today's balance, not last year's, because the percentage doesn't move but the dollar amount does, and the dollar amount is what you'd actually feel. Answer it honestly, not aspirationally. The right answer is the one that's true at 3am with the price down 75%, not the one that sounds brave on camera. And if the honest answer is that you'd sell, then the position is too big. Most people land there the first time they run it honestly, and it's a lot better to find that out now than in the middle of the drawdown.
+The way I think about this is pretty simple. Run the stress test on today's balance, not last year's, because the percentage doesn't move but the dollar amount does, and the dollar amount is what you'd actually feel. Answer it honestly, not aspirationally. The right answer is the one that's true at 3am with the price down 75%, not the one that sounds brave on camera. And if the honest answer is that you'd sell, then the position is too big. Most people land there the first time they run it honestly, and it's a lot better to find that out now than in the middle of the drawdown.
 
 == HOMEWORK ==
 
