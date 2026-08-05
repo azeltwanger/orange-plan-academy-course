@@ -49,7 +49,7 @@ That's one decision, made once, that routes every future dollar correctly. You n
 
 == TWO QUESTIONS ABOUT THE SAME DOLLAR ==
 
-Before the homework, I want to connect this to the buckets from the last lesson, because people mix these two up.
+Before the homework, connect this back to the buckets, because people mix these two up.
 
 The waterfall and your buckets answer two different questions about the same dollar, and you answer both of them every time you save. The waterfall answers which account it goes into: the 401(k), the HSA, the Roth, taxable. That's the wrapper, and it decides how the dollar gets taxed. Your buckets answer which timeframe it's funding: Reserve, Bridge, or Legacy. That's the job, and it decides what you buy once the dollar is inside.
 

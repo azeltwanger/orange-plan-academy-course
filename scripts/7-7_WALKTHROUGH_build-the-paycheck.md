@@ -50,7 +50,7 @@
 
 **DO** SS Start Age 62–70
 
-**⚠** Land it: everything below this line arrives whether markets cooperate or not.
+**⚠** Everything below this line arrives whether markets cooperate or not.
 
 **⚠** There's no "income floor" panel. The floor renders as **Income Floor** in the chart hover and the stacked bands. Point at the chart.
 

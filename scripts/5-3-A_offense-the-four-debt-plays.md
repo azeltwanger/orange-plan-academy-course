@@ -5,7 +5,7 @@ TELEPROMPTER SCRIPT — segment 5.3-A
 
 In today's lesson, we're going to cover the offensive side of debt, which is the four plays where debt actually builds wealth.
 
-Defense set the boundaries. This is the other half. And I want to say up front: leverage is a power tool. It can help you build faster, and it can also take your hand off. So each play comes with its failure mode, and I want you to hold both at the same time.
+Defense set the boundaries. This is the other half. Leverage is a power tool. It can help you build faster, and it can also take your hand off. So each play comes with its failure mode, and you hold both at the same time.
 
 == PLAY 1: THE SPREAD ==
 
@@ -61,7 +61,7 @@ One preview before we close. Play 2 has a retirement version, which is borrowing
 
 Here's the frame to leave with. Each of these four plays is a comparison, not a rule. And every one of them only works inside the boundaries that defense set.
 
-And to be clear, none of these 4 is a recommendation from me. They're plays I want you to understand well enough to evaluate, and every one of them can lose money. The tax treatment I've described is general and it can change, so verify your own situation with a CPA before you act on any of it.
+None of these 4 is a recommendation from me. They're plays to understand well enough to evaluate, and every one of them can lose money. The tax treatment I've described is general and it can change, so verify your own situation with a CPA before you act on any of it.
 
 So let's run one right now. Pick the play you're most tempted by, and let's put it up against your own baseline in the app.
 

@@ -5,7 +5,7 @@ TELEPROMPTER SCRIPT — segment 9.6
 
 In today's lesson, we're going to cover trusts: whether you actually need one, and if you do, which kind.
 
-I want to say this up front: most of you don't need what's in this lesson. Stopping at the baseline, a good will coordinated with the access split, is a valid outcome. This lesson exists so that the people who do need more can find out on their own numbers, and everyone else can stop paying attention to trust marketing.
+Most of you don't need what's in this lesson. Stopping at the baseline, a good will coordinated with the access split, is a valid outcome. This lesson exists so that the people who do need more can find out on their own numbers, and everyone else can stop paying attention to trust marketing.
 
 A trust is a legal container that owns things, and it has three roles. The grantor is the person who puts assets in. That's you. The trustee is whoever manages what's inside, under the rules you wrote. And the beneficiary is whoever it's all for. You can hold more than one of those roles at the same time, and that turns out to matter a lot.
 

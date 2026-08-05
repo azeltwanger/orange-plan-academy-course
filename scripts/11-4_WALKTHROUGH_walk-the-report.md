@@ -76,7 +76,7 @@
 
 **SEE** Tax timeline · allocation drift bars · BTC loan card with the gauge **"Liquidation risk" / "Cushion"**
 
-**⚠** Say it: bring this page to your CPA. It turns the tax conversation into a document read.
+**⚠** Bring this page to your CPA. It turns the tax conversation into a document read.
 
 **⚠** "Cushion" exists HERE, on the report gauge only — not on Strategy → Debt. Match your language to the label on screen.
 
@@ -134,6 +134,6 @@
 - [ ] Next steps ≤ 3, every assumption defensible
 - [ ] PDF on disk with the year in the filename
 
-**⚠** Land it: five years of before-pictures show you what actually moved and what only felt like it did.
+**⚠** Five years of before-pictures show you what actually moved and what only felt like it did.
 
 **END**

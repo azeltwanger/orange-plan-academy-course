@@ -67,7 +67,7 @@ And here's the move: 15% is usually more expensive than the interest rate on a B
 
 What you're saving is the difference between that 15% capital gains rate and the loan's interest rate. And you're doing it without giving up the Bitcoin.
 
-Let me say the whole thing in one sentence, because it's worth memorizing. Sell up to the top of your 0% bracket, and borrow anything above it.
+The whole thing in one sentence. Sell up to the top of your 0% bracket, and borrow anything above it.
 
 That said, everything from the LTV lesson still applies here. This move puts a loan on your balance sheet, and that loan has all the same margin call risk we covered. So the cushion rules don't get relaxed just because the tax math is attractive.
 

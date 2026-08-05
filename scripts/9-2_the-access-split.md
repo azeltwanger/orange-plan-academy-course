@@ -5,7 +5,7 @@ TELEPROMPTER SCRIPT — segment 9.2
 
 In today's lesson, we're going to cover the access split, which divides the ability to reach your Bitcoin into two pieces, held by two different people.
 
-Here's what this buys you, and it's two things at once. Nobody can take your Bitcoin on their own, including somebody you trust who gets pressured or makes a bad decision. And nothing is lost if one person disappears, because the other piece still exists. Most setups give you one of those. The split gives you both.
+This buys you two things at once. Nobody can take your Bitcoin on their own, including somebody you trust who gets pressured or makes a bad decision. And nothing is lost if one person disappears, because the other piece still exists. Most setups give you one of those. The split gives you both.
 
 🎬 GRAPHIC: two boxes side by side. LEFT: seed phrase, held by heirs, with a padlock still closed. RIGHT: passphrase, held by executor, also closed. Then slide them together and the padlock opens. Neither alone does anything.
 
@@ -35,7 +35,7 @@ Notice how the two failures map: handing one person everything fails both tests.
 
 The way you carry the split on a single hardware wallet is the passphrase. Anthony Park calls this poor man's multisig, and it works because of how a passphrase behaves.
 
-Quick review: a seed phrase is the 12 or 24 words that rebuild your wallet. A passphrase is an extra word or phrase added on top, and it's built to the standard we covered in the custody module: 7 random words off a wordlist, picked by dice or an offline generator, never words you thought of yourself. And here's the key property: seed plus passphrase produces a completely different wallet than the seed alone. Same words, different passphrase, different set of coins.
+Quick review: a seed phrase is the 12 or 24 words that rebuild your wallet. A passphrase is an extra word or phrase added on top, and it's built to the standard we covered in the custody module: 7 random words off a wordlist, picked by dice or an offline generator, never words you thought of yourself. And the key property is this: seed plus passphrase produces a completely different wallet than the seed alone. Same words, different passphrase, different set of coins.
 
 So the seed alone opens a real wallet that's empty. And the passphrase alone is just a word that opens nothing. Two objects, each worthless on its own. That's exactly what lets you hand each one to a different person.
 
@@ -63,7 +63,7 @@ So with a passphrase, you're splitting two different objects between two people.
 
 Just like the hardware backup, the split gets proven, not hoped for. Because a passphrase mistake can make funds permanently unrecoverable.
 
-Here's the couple's Saturday afternoon. He moves about $1,000 into the passphrase wallet. She restores the seed on a spare device. Her brother reads him the passphrase over the phone. And they watch the $1,000 appear on her screen.
+So, the couple's Saturday afternoon. He moves about $1,000 into the passphrase wallet. She restores the seed on a spare device. Her brother reads him the passphrase over the phone. And they watch the $1,000 appear on her screen.
 
 That one afternoon converts a hoped-for split into a proven one, for $1,000 they never actually spent, on a day when nobody was grieving.
 
@@ -75,7 +75,7 @@ Last thing, and it's the misconception I hear the most: "I'll just split the see
 
 Think about what that setup actually does. If the two people trust each other, then together they have the whole thing, so there's no protection. And if either one gets the other half through a leak or a guess, they have unilateral access. And 12 words is a much shorter guess than 24.
 
-So splitting a seed makes the wallet weaker, and splitting the seed from a passphrase makes it stronger. I want you to hear the difference there, because those two things sound similar and they do opposite things.
+So splitting a seed makes the wallet weaker, and splitting the seed from a passphrase makes it stronger. Those two things sound similar and they do opposite things.
 
 == YOUR DECISION ==
 

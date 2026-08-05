@@ -7,7 +7,7 @@ In today's lesson, we're going to cover two things that work together: the incom
 
 == THE 4 TIERS OF THE WATERFALL ==
 
-Here's the payoff of getting this right. The order you pull money from decides how much tax you pay over your whole retirement, and the difference isn't small. Pull in the wrong order and you can waste years of cheap tax room, then get hit with one enormous bill later. Pull in the right order and you spread that same income out so it never stacks up.
+The payoff of getting this right is big. The order you pull money from decides how much tax you pay over your whole retirement, and the difference isn't small. Pull in the wrong order and you can waste years of cheap tax room, then get hit with one enormous bill later. Pull in the right order and you spread that same income out so it never stacks up.
 
 The waterfall has 4 tiers, and the table on the screen lays them out.
 
@@ -49,7 +49,7 @@ Compare the two after 5 years. The strict order left the traditional account unt
 
 == IN THE APP ==
 
-Here's the good news: the engine's default withdrawal behavior in Orange Plan is exactly this bracket fill, year by year. And if you want to steer it deliberately, the Income page has a withdrawal order control with custom phases, where you set a phase's rule to bracket-aware and pick the bracket ceiling. We'll run that in the walkthrough.
+The good news is that the engine's default withdrawal behavior in Orange Plan is exactly this bracket fill, year by year. And if you want to steer it deliberately, the Income page has a withdrawal order control with custom phases, where you set a phase's rule to bracket-aware and pick the bracket ceiling. We'll run that in the walkthrough.
 
 And whatever split bracket-fill produces for you is your split. It depends on your spending, your basis, your bracket room, and your balances. Don't copy someone else's ratio. And execution is a conversation with your CPA on your actual numbers, because the thresholds move every year. The question to bring them is: am I leaving low brackets empty?
 
@@ -79,7 +79,7 @@ If spending held or rose this year, they refill the Reserve back to the full $12
 
 If spending got cut this year, and we'll cover why that happens in the guardrails lesson, they refill only partway, to about 12 of the 18 months, roughly $80,000. Because you don't sell weakness to top up cash.
 
-And here's the rule that matters most: the target itself never moves. A cut year stops the refill short. It never shrinks the target. The plan doesn't get to quietly become less safe because 1 year was bad. The target stays 18 months, and the refill pace is what adjusts.
+And the rule that matters most is that the target itself never moves. A cut year stops the refill short. It never shrinks the target. The plan doesn't get to quietly become less safe because 1 year was bad. The target stays 18 months, and the refill pace is what adjusts.
 
 In the app, the refill pace lives in the reserve settings as the monthly build cap, and I'll show you that in the walkthrough.
 

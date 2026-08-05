@@ -7,7 +7,7 @@ In today's lesson, we're going to cover the 5 questions that expose exactly wher
 
 Custody is more than where your Bitcoin sits. It covers whether you can reach it, whether anyone else can, and whether there's a process that still works when you're not around.
 
-And I want to separate it from inheritance up front, because people mix these. Inheritance is the legal transfer, the wills, the executor, who gets what, and the estate module covers that. This module is about securing access while you're alive and making it recoverable if you're not.
+Let's separate it from inheritance up front, because people mix these. Inheritance is the legal transfer, the wills, the executor, who gets what, and the estate module covers that. This module is about securing access while you're alive and making it recoverable if you're not.
 
 Here's why this matters. In 2022, Celsius customers watched their balance sit on a screen while withdrawals were frozen. Same thing at BlockFi, same at FTX. The number on the screen was theirs. The Bitcoin was not. A Bitcoin balance in someone else's system is a claim on their Bitcoin, not ownership of yours.
 
@@ -41,7 +41,7 @@ What you do write down is who holds what, what type of setup it is, and what som
 
 == WHAT SELF-CUSTODY ACTUALLY ASKS OF YOU ==
 
-Before we size this, I want to name something that a client put better than I ever have.
+Before we size this, a client put this better than I ever have.
 
 He said: with self-custody, you are the point of failure. And not just the failure, you're the attack vector. And then he made the point that most of life doesn't work this way. We outsource violence to the police. We outsource security to the banks. That's basically what civilization is, handing off the hard, dangerous jobs to somebody whose job it is.
 
@@ -59,7 +59,7 @@ The second is that if you do take it, being a little paranoid is appropriate, no
 
 Your decision out of this lesson is your honest score, and what job each pile of Bitcoin is actually doing.
 
-Here's how to think about it. Answer all 5 questions out loud, and answer them the way things really are today, not the way you intend them to be. A miss isn't a failure, it's an item on a list. Then look at each pile separately, because a stack you won't touch for 20 years and a stack you'd reach for in an emergency are doing different jobs, and they don't need the same setup.
+Here's how to think about it. Answer all 5 questions out loud, and answer them the way things really are today, not the way you intend them to be. A miss is just an item on a list. Then look at each pile separately, because a stack you won't touch for 20 years and a stack you'd reach for in an emergency are doing different jobs, and they don't need the same setup.
 
 Most people score 1 or 2 out of 5 the first time. That's normal, and what it does is turn a vague worry into 3 specific jobs you can work through.
 

@@ -54,7 +54,7 @@
 
 **SEE** Each row shows baseline · scenario · difference — matching rows read **no change**
 
-**⚠ Say it:** one question only. Would I still be okay? Not which line is prettier.
+**⚠** One question only. Would I still be okay? Not which line is prettier.
 
 ---
 
@@ -86,7 +86,7 @@
 
 **DO** Change ONE variable → Save
 
-**⚠** Land the line: if I change three things and it comes back worse, I've learned nothing.
+**⚠** If I change three things and it comes back worse, I've learned nothing.
 
 ---
 
@@ -98,7 +98,7 @@
 
 **SEE** **Duplicate** is the one to point at — it's how you build a second scenario that differs by exactly one thing
 
-**⚠** Nothing here touches your plan. Say it out loud, because it's why you can experiment freely.
+**⚠** Nothing here touches your plan. That's why you can experiment freely.
 
 ---
 

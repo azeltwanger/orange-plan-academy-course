@@ -11,7 +11,7 @@ This module covers both sides. Defense, which is the debt structure that keeps y
 
 == TOLERANCE FIRST ==
 
-Before any math, I want to start with tolerance, because the math only sets a range. Your psychology decides where you sit inside that range.
+Before any math, start with tolerance, because the math only sets a range. Your psychology decides where you sit inside that range.
 
 Peace of mind never shows up in a ratio, but it's real. If you're carrying a debt level that keeps you up at night, you're probably going to abandon the plan in the middle of a drawdown, and abandoning the plan is a bigger risk than any interest rate.
 
@@ -19,7 +19,7 @@ So if carrying no debt at all is what lets you sleep, then I think that's the ri
 
 == DEBT AS A TOOL ==
 
-Now, I want to reframe something. Debt isn't just a problem to eliminate. Held on purpose, debt does three jobs for you.
+Debt isn't just a problem to eliminate. Held on purpose, debt does three jobs for you.
 
 The first job is liquidity. Your cash stays accessible. If you hit a bad month, you cover the bills without force-selling into a drawdown.
 

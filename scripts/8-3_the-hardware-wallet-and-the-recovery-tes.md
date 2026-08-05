@@ -65,7 +65,7 @@ You bought the hardware wallet. You moved your Bitcoin onto it. And now you don'
 
 I had a client tell me almost exactly that. She said she doesn't plug it into anything, and that outside of receiving and sending she doesn't really use it, because she doesn't know how to keep it safe.
 
-If that's you, here's what I want you to understand.
+If that's you, here's the part that matters.
 
 A hardware wallet is built for this. The whole design is that your keys never leave the device. It doesn't hand them to your computer or your phone when you plug it in. That's the entire reason the thing exists. So plugging it into your normal computer is not the risk you think it is.
 

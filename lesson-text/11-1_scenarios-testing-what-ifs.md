@@ -44,7 +44,7 @@ A scenario that retires you earlier *and* cuts spending *and* assumes weaker ret
 
 Headline row: **Retire at**, **Spending**, **Success rate**. Below it, full comparison metrics: net worth at retirement, lifetime taxes paid, effective tax rate, withdrawal rate at retirement, depletion age, BTC at life expectancy.
 
-1. **Read the pair, not the number.** Retiring two years earlier at a much lower success rate isn't a better plan, it's a different trade. Every scenario is a trade.
+1. **Read the pair, not the number.** Retiring two years earlier at a much lower success rate is a trade, and every scenario is a trade.
 2. **Run the Monte Carlo before believing the success rate.** The chart updates instantly; confidence is a simulation that has to actually run.
 3. **Small differences aren't differences.** A scenario landing 2% from baseline is telling you the change didn't matter. Don't reorganize your life around noise.
 

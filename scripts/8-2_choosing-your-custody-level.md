@@ -17,7 +17,7 @@ The mistake is a mismatch, and it goes in both directions. The Celsius customers
 
 There are 4 levels.
 
-Level 1 is a hardened exchange or broker. This is for a small stack, or while you're still learning. The setup is a strong password, app-based two-factor, a secured email account, and withdrawal delays turned on. And I want to stress the word hardened, not neglected. A small stack on a locked-down exchange is a legitimate setup.
+Level 1 is a hardened exchange or broker. This is for a small stack, or while you're still learning. The setup is a strong password, app-based two-factor, a secured email account, and withdrawal delays turned on. Hardened, not neglected. A small stack on a locked-down exchange is a legitimate setup.
 
 Level 2 is the hardware wallet, and it's the default destination once a stack becomes meaningful. The seed stays offline, you send a test transaction first, you prove the wipe-and-restore, and the backup goes on steel. Level 2 removes the freeze risk, and in exchange it hands you the maintenance.
 
@@ -27,11 +27,11 @@ And Level 4 is collaborative or DIY multisig, for stacks where a single mistake 
 
 == EVERY LEVEL IS A TRADE ==
 
-Before we size this on a real household, I want to be really clear about something: there is no custody setup that doesn't have a trade-off. Every level buys you one kind of protection by handing you a different risk to manage.
+Before we size this on a real household: there is no custody setup that doesn't have a trade-off. Every level buys you one kind of protection by handing you a different risk to manage.
 
 Level 1, the exchange, buys you convenience and easy inheritance, and what it costs you is counterparty risk. Somebody else is holding your Bitcoin, and that account can get frozen in exactly the week that you need it. Level 2, the hardware wallet, removes the freeze risk and gives you true ownership, and what it hands you back is maintenance and self-responsibility, because now one seed is one point of failure. Level 3, the passphrase and the split, buys you theft protection and a setup that survives without you, and it costs you complexity, because a lost passphrase is a permanent loss. And Level 4, multisig, buys you a setup where no single mistake can end it, and it costs you the most complexity of all.
 
-The pattern underneath all four is the same. More sovereignty always means more responsibility. More convenience always means more counterparty risk. You never actually eliminate risk in custody. What you're really doing is choosing which risks you're going to hold yourself, and which ones you're going to hand to somebody else. And that's why I want you matching your level to your stakes and your skill, not picking it based on ideology.
+The pattern underneath all four is the same. More sovereignty always means more responsibility. More convenience always means more counterparty risk. You never actually eliminate risk in custody. What you're really doing is choosing which risks you're going to hold yourself, and which ones you're going to hand to somebody else. So match your level to your stakes and your skill, not to ideology.
 
 == DON'T HOLD IT ALL AT ONE INSTITUTION ==
 
@@ -39,7 +39,7 @@ Everything I've covered so far is about what type of custody you're using. There
 
 Think about Celsius, BlockFi, and FTX for a second. Those weren't self-custody failures. Those were concentration failures. The customers who lost everything are the ones who had everything in one place.
 
-So for the custodial part of your stack, and that's your exchange balance, any ETF shares, your retirement account exposure, the question I want you asking is whether one company's bad week can take all of it.
+So for the custodial part of your stack, and that's your exchange balance, any ETF shares, your retirement account exposure, the question is whether one company's bad week can take all of it.
 
 Here's when splitting across institutions is worth doing. First, when the custodial amount is big enough that losing access to it for a few months would actually change your life. Second, when you're using an exchange balance as the pile you'd reach for in an emergency, because that job needs a backup for the week the account is frozen. And third, when the institutions actually fail in different ways. Two exchanges are more correlated with each other than an exchange and a brokerage ETF are, and both of those are way more correlated than either one is with a hardware wallet in your house.
 
@@ -77,7 +77,7 @@ So this belongs on your annual review. Once a year, re-ask the level question at
 
 == CUSTODY IS NOT A PURITY TEST ==
 
-Before the advanced material, one thing I want to say directly: custody is not a purity test.
+Before the advanced material: custody is not a purity test.
 
 The right setup is one you can maintain, explain, and recover from. A simple setup your family can actually use beats an advanced one nobody understands. You'll hear people say real Bitcoiners self-custody everything, immediately. I think that claim is wrong, and it gets people hurt. You move up a level by earning it, with skill and with need. Not with ideology.
 

@@ -31,7 +31,7 @@ The second is your collateral value, which moves with the Bitcoin price. That pa
 
 🎬 GRAPHIC (the most important visual in this lesson): Bitcoin price line falling while the LTV bar climbs. Mark the margin call line and the liquidation line as fixed horizontal lines so the viewer watches LTV cross them.
 
-Now here's the part I really want you to sit with, because people underestimate it. LTV rises a lot faster than the price falls, and that's because the price is in the denominator.
+LTV rises a lot faster than the price falls, and that's because the price is in the denominator. People underestimate this every time.
 
 Say you start at 25% LTV. If Bitcoin falls 50%, your collateral just got cut in half, so that same loan is now covering half as much, and your LTV goes to 50%. If Bitcoin falls 70%, your 25% LTV becomes about 83%. And if it falls 80%, you're at 125%, which means your loan is now worth more than the Bitcoin backing it.
 
@@ -39,7 +39,7 @@ That's why your starting LTV matters more than anything else in this lesson. It'
 
 == THE THREE LINES EVERY LOAN HAS ==
 
-Your lender is going to set three thresholds, and I want you to learn them as a sequence, because that's the order you'd experience them in.
+Your lender is going to set three thresholds. Learn them in order, because that's the order you'd hit them in.
 
 The first is the margin call line. It's usually somewhere around 65 to 70% LTV, though every lender is different. When you cross it, the lender contacts you and gives you a window to fix it, and that window can be as short as 24 to 72 hours.
 
@@ -71,7 +71,7 @@ Ask your lender which one they do before you sign anything, because it completel
 
 == THE TYPES OF PROVIDER ==
 
-I'm not going to name specific companies, because that landscape changes and any list I give you today is going to be stale. What doesn't change is the structure, so I want you to be able to sort any provider into one of these buckets.
+I'm not going to name specific companies, because that landscape changes and any list I give you today is going to be stale. What doesn't change is the structure, so you can sort any provider into one of these buckets.
 
 The first is custodial lenders. You send your Bitcoin to the company and they hold it. It's the simplest to use. The risk is exactly the one from the custody module: in a legal sense it's their Bitcoin now, and if they fail, you're a creditor standing in line. Several large ones failed in 2022 and their customers lost everything.
 
@@ -99,7 +99,7 @@ At $100,000 a coin they're at 20%, and that's comfortable. Drop to $70,000 and t
 
 So a 75% drawdown, which is a completely normal Bitcoin bear market, takes them from 20% right to the edge. That's what starting at 20% buys you. It survives a normal bear, and it just barely survives it.
 
-Now run that same loan at a 50% starting LTV, and a 40% price drop hits the margin call. A 40% drop isn't a bear market. That's an ordinary Tuesday in Bitcoin.
+Now run that same loan at a 50% starting LTV, and a 40% price drop hits the margin call. A 40% drop is an ordinary Tuesday in Bitcoin, not a bear market.
 
 == THE RULES TO WRITE DOWN BEFORE YOU BORROW ==
 
@@ -121,7 +121,7 @@ Orange Plan models all of this, and it models it as a real position inside your 
 
 You add it under Strategy, then Debt, then Add debt, and you pick the Bitcoin-backed type. The form asks for the things that actually matter: your lender, the start date and term, the collateral in Bitcoin quantity rather than dollars, your margin call LTV, your liquidation LTV, whether auto top-up is on, and whether your lender does full or partial liquidation.
 
-And I want to stress this: enter your lender's real thresholds. The app ships with common defaults, and if you leave those in place, the plan is going to tell you a comforting story that isn't actually yours.
+Enter your lender's real thresholds. The app ships with common defaults, and if you leave those in place, the plan is going to tell you a comforting story that isn't actually yours.
 
 Then there's a section called Collateral rules, and this is where the behavior gets modeled across your whole projection. There's auto top-up as a global default, a margin call percent that triggers the top-up, a top-up target percent that it tops back down to, a liquidation percent, and a release trigger percent.
 

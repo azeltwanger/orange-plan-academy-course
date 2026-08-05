@@ -63,7 +63,7 @@
 
 **SEE** Same presets as onboarding + custom overrides + life expectancy
 
-**⚠** Inflation defaults to 3%. Worth saying you run yours higher.
+**⚠** Inflation defaults to 3%. Say that you run yours higher.
 
 ---
 
@@ -85,7 +85,7 @@
 
 **⚠ 🚩 BANDS CHANGING (item 39).** Read the verdict **word** off the screen. Do not speak the threshold numbers — they're moving to 80/70 and the footage would go stale.
 
-**⚠** Worth landing: the date says *when*, the ring says *how sturdy*.
+**⚠** The date says *when*. The ring says *how sturdy*.
 
 ---
 

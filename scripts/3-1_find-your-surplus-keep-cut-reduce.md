@@ -19,7 +19,7 @@ They're bringing in $190,000 of gross income. Taxes are going to take about $40,
 
 That $4,000 a month is their surplus, and it's the budget that every other decision in this course has to work with. Until you've run this on your own numbers, your plan is running on a guess.
 
-Now, one thing I want you to notice here is what we did not subtract. We didn't subtract retirement contributions. The 401(k) and the Roth IRA are not expenses. They're decisions, and we're going to make those decisions later. Your surplus is money that isn't already committed to taxes, to living, or to debt. Where it goes is the next question, not this one.
+Notice what we did not subtract. We didn't subtract retirement contributions. The 401(k) and the Roth IRA are not expenses. They're decisions, and we're going to make those decisions later. Your surplus is money that isn't already committed to taxes, to living, or to debt. Where it goes is the next question, not this one.
 
 == THE ONE INPUT PEOPLE GET WRONG ==
 
@@ -61,11 +61,11 @@ Let me walk through the couple's floor. Their housing is $2,300 a month. Their c
 
 Their normal spending is $6,700 a month. Their floor is $5,000. So that $1,700 a month gap is the travel, the eating out, and the extras that would pause in a bad year.
 
-That bare-bones number is important, because it's what your cash reserve is going to get sized off of, and I'm going to cover that in the reserve lesson.
+That bare-bones number is what your cash reserve gets sized off of.
 
 == THE WITHHOLDING LEVER ==
 
-There's one more place I want you to look, and that's your withholding, because it can be off in two different directions.
+One more place to look: your withholding, because it can be off in two different directions.
 
 The first is over-withholding. If you're getting a $4,800 refund every spring, that's $400 a month of your own surplus that you spent all year pretending you didn't have. That money could have been working for you the whole time.
 
@@ -75,7 +75,7 @@ Go check what you're withholding against what you're actually going to owe this 
 
 == ROUTE NEW INCOME THE DAY IT LANDS ==
 
-The last thing I want to cover is what you do with new money. Every raise should get a decision on the same day that it lands. A $5,000 raise is about $400 a month after taxes. If you route it before it becomes lifestyle, that's real money going to work. If you tell yourself you'll figure it out later, then eighteen months goes by and the raise is just gone, and you can't even point at what you bought with it.
+Last, what you do with new money. Every raise should get a decision on the same day that it lands. A $5,000 raise is about $400 a month after taxes. If you route it before it becomes lifestyle, that's real money going to work. If you tell yourself you'll figure it out later, then eighteen months goes by and the raise is just gone, and you can't even point at what you bought with it.
 
 == HOMEWORK ==
 

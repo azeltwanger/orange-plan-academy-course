@@ -39,7 +39,7 @@ So instead of 11 weeks of nothing, the family gets one afternoon of phone calls.
 
 == WHAT IT IS AND ISN'T ==
 
-Three things to be clear about.
+Three things.
 
 It's a backup communication layer. What it buys your family is time and direction.
 

@@ -26,7 +26,7 @@ Now, how to actually make one.
 
 A passphrase that you make up yourself is the weak point of the whole setup. Humans pick quotes, song lyrics, kids' names, dates. And the people trying to crack wallets run exactly those lists first. So the fix is randomness that you didn't choose.
 
-What I want you to use is 7 random words, picked from a wordlist by rolling dice or by a generator running offline. This is called the diceware method, and a good password manager can do it for you too, with the device offline. The key word is random. The tool picks the words, not you.
+Use 7 random words, picked from a wordlist by rolling dice or by a generator running offline. This is called the diceware method, and a good password manager can do it for you too, with the device offline. The key word is random. The tool picks the words, not you.
 
 🎬 GRAPHIC: 7 dice-drawn words appearing one at a time, with the combination count multiplying beside them (7,776 → 60M → 470B → …). End on "~90 bits of entropy" and "millions of years at a trillion guesses per second."
 
@@ -40,7 +40,7 @@ Now, I know the temptation here, because I've felt it and clients ask me about i
 
 People also ask whether they can just keep it in a password manager. My answer is that a password manager is fine as one copy, but not as your only copy, and only if somebody else can actually get into that password manager if you're gone. If your passphrase lives in a manager that dies with you, you've built a very secure way to lose your Bitcoin. Keep a physical copy.
 
-The trade-off here is built right in, and I want you to see it. A passphrase that's strong enough to be unguessable is also unrecoverable if you lose it. That's exactly why it gets its own backup, stored separately from the seed, and why you practice with a small amount first.
+The trade-off is built right in. A passphrase that's strong enough to be unguessable is also unrecoverable if you lose it. That's exactly why it gets its own backup, stored separately from the seed, and why you practice with a small amount first.
 
 Path two is collaborative multisig. You hold 2 keys, a provider holds one, plus the configuration. This is best for a meaningful balance, or for heirs who aren't technical, because what you're buying is a professional on call to guide them. The costs are an annual fee and some vendor dependence. One important note: the provider's single key can't spend on its own, so they never actually custody your Bitcoin.
 
@@ -48,11 +48,11 @@ Let me go a level deeper on collaborative, because I think it's the right answer
 
 It's a two-of-three. 3 keys exist, and any two of them can move Bitcoin. You hold two. The provider holds one.
 
-That split gives you two properties I want you to really understand. The first one is that they can never take your Bitcoin, because one key out of a required two spends nothing. They're a co-signer, not a custodian, and that is the entire difference between this and leaving it on an exchange. The second is that they can never lock you out, because you're already holding 2 keys, which is a spending quorum all by itself. You don't need their permission or their participation to move your own money.
+That split gives you two properties. The first is that they can never take your Bitcoin, because one key out of a required two spends nothing. They're a co-signer, not a custodian, and that is the entire difference between this and leaving it on an exchange. The second is that they can never lock you out, because you're already holding 2 keys, which is a spending quorum all by itself. You don't need their permission or their participation to move your own money.
 
 So what are you actually paying for? Three things. A key you didn't have to store yourself. A copy of the configuration file, held by somebody whose actual job is not losing it. And a human being who is going to pick up the phone and walk your family through a recovery on the worst week of their lives. That third one, honestly, is the whole reason this path exists.
 
-Before you pick a provider, I want you to verify four things. Number one, can you recover if the provider is gone? They should hand you the configuration file, and it should work in open-source wallet software that they don't control. If the answer is that you'd have to call them, then that's a custodian wearing a multisig costume. Number two, is there a documented inheritance process? Ask exactly what happens when your executor calls, and what proof they're going to require. Number three, what's the annual fee, and what happens to your wallet if you stop paying it? And number four, what do they require from you, in identity verification and in privacy terms, to open the account in the first place.
+Before you pick a provider, verify four things. Number one, can you recover if the provider is gone? They should hand you the configuration file, and it should work in open-source wallet software that they don't control. If the answer is that you'd have to call them, then that's a custodian wearing a multisig costume. Number two, is there a documented inheritance process? Ask exactly what happens when your executor calls, and what proof they're going to require. Number three, what's the annual fee, and what happens to your wallet if you stop paying it? And number four, what do they require from you, in identity verification and in privacy terms, to open the account in the first place.
 
 The honest downside here is that you're depending on a company to keep existing across a timeline measured in decades. That's a real risk and I'm not going to talk you out of it. But notice that it's bounded by the key count. Your worst case is that the provider vanishes and you spend an afternoon recovering with your 2 keys and the config file. Compare that to the DIY worst case, where the person who understood the whole setup is the person who died.
 

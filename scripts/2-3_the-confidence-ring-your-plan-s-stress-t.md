@@ -7,7 +7,7 @@ In today's lesson, we're going to cover the two numbers at the top of your plan 
 
 == YOUR EARLIEST RETIREMENT DATE ==
 
-Here's why you need both numbers and not just one. The date tells you when. The confidence number tells you how sturdy that date is. A date you love at a confidence you don't trust isn't a plan, it's a wish. And most tools only show you the date.
+Here's why you need both numbers and not just one. The date tells you when. The confidence number tells you how sturdy that date is. And most tools only show you the date.
 
 == YOUR EARLIEST RETIREMENT DATE ==
 
@@ -39,7 +39,7 @@ Age 60 at 82% confidence is a real answer. Age 60 at 55% confidence is the same 
 
 == WHAT THE SIMULATION IS ACTUALLY RUNNING ==
 
-I want to show you what's actually happening under the hood, because this isn't just shuffling a portfolio return.
+Let me show you what's actually happening under the hood, because this isn't just shuffling a portfolio return.
 
 Every one of those thousand futures runs your entire plan. It starts from your real balances today — your Bitcoin, your brokerage, your retirement accounts, your cash. In year one, every asset gets its own return based on your assumptions and its historical volatility. Then your actual life runs: income comes in, taxes go out, spending happens, withdrawals happen in your order, contributions and debt payments happen. You land on new balances. Then year two starts fresh with new market returns, and it does it again. Forty-5 years of that is one complete future.
 

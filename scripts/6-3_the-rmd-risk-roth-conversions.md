@@ -9,7 +9,7 @@ This lesson is US-specific, and I'll have a note for non-US viewers at the end.
 
 Here's the whole idea in one sentence, and if you take nothing else from this lesson, take this: you're moving money out of your traditional accounts now, at a low tax rate, so that you're not forced to pull it out later at a high one.
 
-That's it. That's the entire play. Everything else I'm going to show you is just proving two things: that the later rate really is going to be higher, and how much room you actually have to work with right now.
+That's it. That's the entire play. Everything else here is just proving two things: that the later rate really is going to be higher, and how much room you actually have to work with right now.
 
 The bracket lesson opened up that low-bracket window. This lesson is about why filling it matters so much, especially if you're holding Bitcoin.
 

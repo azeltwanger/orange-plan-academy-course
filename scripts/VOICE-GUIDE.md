@@ -86,6 +86,18 @@ abstractions. When guide and dictation disagree, the dictation wins.
   clear," "and honestly," "to be honest," "the truth is," "at the end of the
   day," "make no mistake." If a sentence opens with one of those, it was
   written by an AI, not spoken by Austin. Cut it and start with the fact.
+- **Announcing importance instead of being important** (Austin, 2026-08-05:
+  "stating thoughts or over-narrating instead of just saying it"). Any sentence
+  whose job is to tell the viewer that the NEXT sentence matters:
+  "I want you to sit with this," "I want to stress," "What I want you to notice
+  is," "here's the part I want you to internalize," "I want to be clear,"
+  "pay attention to," "this is important because," and in walkthroughs
+  "Land it:" / "Land the line:" / "Worth saying:" / "Say it out loud."
+  If the point is good it lands on its own; if it needs an usher, it's weak.
+  Cut the frame, keep the fact. (Swept 2026-08-05: 55 instances removed.)
+  NOT banned: "Let me show you…", "Notice that…" used sparingly, and
+  first-person disclosure that carries real information ("I want to be straight
+  about these because I'm in this system").
 - **Reassurance couplets** ("that isn't a character flaw, it's information").
 - Abstract nouns doing the work ("the drag costs the plan"). Austin says who
   does what: "that money just sits there losing to inflation."

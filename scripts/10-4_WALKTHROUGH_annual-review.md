@@ -157,6 +157,6 @@
 - [ ] Letter the family could act on today, switch armed
 - [ ] **Output = 1–3 actions, finishable before next month's pass**
 
-**⚠** Land it: longer lists are how reviews stop happening.
+**⚠** Longer lists are how reviews stop happening.
 
 **END**

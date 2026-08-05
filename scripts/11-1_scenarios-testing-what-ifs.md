@@ -11,13 +11,13 @@ That's really the whole job here. You keep one baseline plan that represents you
 
 == LIFE EVENT OR SCENARIO? ==
 
-The first thing I want to get straight is the difference between a life event and a scenario, because this is the distinction that decides where something goes, and the app actually enforces it.
+First, the difference between a life event and a scenario, because this is the distinction that decides where something goes, and the app actually enforces it.
 
 A life event is something you genuinely expect to happen. College tuition starting in 8 years. A roof. A car. Retirement itself. Those go in the plan, because if you leave them out, your projection is just wrong.
 
 A scenario is something you're considering, or something you're worried about. Retiring 3 years earlier. Moving to a no-tax state. Bitcoin dropping 50% the year after you retire. Those go in Scenarios, because if you put them in the plan, you've corrupted the baseline that you measure everything else against.
 
-The test is one question, and I want you to actually ask it: am I telling the plan what's true, or am I asking the plan a question? True things go in the plan. Questions go in Scenarios.
+The test is one question: am I telling the plan what's true, or am I asking the plan a question? True things go in the plan. Questions go in Scenarios.
 
 And I'll tell you the most common way people wreck their own baseline. They get curious about retiring at 55. So they go change the retirement age in the plan itself, just to see. And then they get distracted, life happens, and 3 months later they're reading a projection built on a decision they never actually made.
 
@@ -41,7 +41,7 @@ Start with the specific type that matches your question. Advanced is there for g
 
 == CHANGE ONE THING AT A TIME ==
 
-This next one is the discipline that makes scenarios actually useful instead of confusing, so I want to spend a second on it.
+This next one is the discipline that makes scenarios useful instead of confusing.
 
 Let's say you build a scenario that retires you 3 years earlier, and cuts your spending, and assumes weaker Bitcoin returns, all at once. And the result comes back worse. You've learned nothing. You can't tell which of those three did it. You can't even tell whether two of them cancelled each other out.
 

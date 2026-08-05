@@ -921,7 +921,7 @@ The couple's floor walk: $2,300 housing + $360 car + $1,200 groceries + $500 uti
 
 Their normal is $6,700/mo. Floor is $5,000/mo. The $1,700/mo gap is travel, eating out, and extras that pause in a bad year.
 
-The bare-bones number is what your cash reserve gets sized off in the next lesson.
+The bare-bones number is what your cash reserve gets sized off of.
 
 ### The withholding lever
 
@@ -1491,7 +1491,7 @@ The next lesson covers the two checks that keep your allocation honest through a
 
 ---
 
-In the last lesson you placed yourself on a tier. This lesson covers the two checks that go around it.
+You've placed yourself on a tier. This lesson covers the two checks that go around it.
 
 - **Stress test.** Run once, when you set your allocation.
 - **Price context.** Run every time before a Bitcoin-heavy move.
@@ -2668,7 +2668,7 @@ Now walk the price down and watch what happens to that ratio:
 
 A 75% drawdown, which is a normal Bitcoin bear market, takes them from 20% to the edge. **That's what starting at 20% buys you: it survives a normal bear, and it barely survives.**
 
-Run the same loan at 50% starting LTV and a 40% price drop hits the margin call. That's not a bear market, that's an ordinary Tuesday in Bitcoin.
+Run the same loan at 50% starting LTV and a 40% price drop hits the margin call. A 40% drop is an ordinary Tuesday in Bitcoin, not a bear market.
 
 ### The rules to write down before you borrow
 
@@ -5094,7 +5094,7 @@ The next lesson is the external demo: hardware wallet setup and exchange hardeni
 
 About a 9-minute screen-record demo. Not Orange Plan. Vendor tools only.
 
-This is the one lesson where the app never opens. The procedure: hardware wallet from box to first restore, plus the exchange settings that stop most losses. The custody map in the next lesson is where all of this becomes a checked box.
+This is the one lesson where the app never opens. The procedure: hardware wallet from box to first restore, plus the exchange settings that stop most losses. The custody map walkthrough is where all of this becomes a checked box.
 
 Set aside about 20 minutes to run through it. Have:
 
@@ -5120,7 +5120,7 @@ Vendor device plus vendor app. Six ordered beats:
 | 5 | Wipe the device. | The scary step. Factory reset the device you just set up. This is where most people back out, and it's the whole reason to do it on a throwaway. |
 | 6 | Restore from seed and confirm the test transaction reappears. | Type the words back in from the offline copy. If the balance and history return, the seed is real. If they don't, the seed backup was theatre. The wipe surfaces the problem while only a trivial amount is at stake. |
 
-Say it out loud when the balance reappears: only now has this device earned real money. Every step before the restore was preparation for this moment.
+When the balance reappears: only now has this device earned real money.
 
 > ⚠ The seed word display, the PIN entry, and the restore input screens are the three moments the camera should never see directly. Stage them, blur them, or turn away. A single frame catching the seed is a lifetime of exposure.
 
@@ -6854,7 +6854,7 @@ When you select a saved scenario, the app puts it next to your plan and shows yo
 
 Three rules for reading it.
 
-**Read the pair, not the number.** A scenario that retires you two years earlier at a much lower success rate isn't a better plan, it's a different trade. Every scenario is a trade, and the trade is what you're reading.
+**Read the pair, not the number.** A scenario that retires you two years earlier at a much lower success rate is a trade, and the trade is what you're reading.
 
 **Run the Monte Carlo before you believe the success rate.** The comparison chart updates immediately, but the success rate is a simulation and it has to actually run. The button is right there in the comparison section.
 

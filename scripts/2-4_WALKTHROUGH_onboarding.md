@@ -121,7 +121,7 @@ Salary entered here makes every downstream projection wrong. Hit this hard.
 
 **⚠** Field is **monthly**, at Full Retirement Age. Helper points to ssa.gov/myaccount.
 
-**⚠** Take the 90 chip. Worth saying why: planning to 80 and living to 90 is the failure.
+**⚠** Take the 90 chip. Planning to 80 and living to 90 is the failure.
 
 ---
 

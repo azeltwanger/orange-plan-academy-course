@@ -64,7 +64,7 @@
 
 **SEE** Toast **Plan exported** · the sibling Data Privacy panel shows Cloud / Local Only
 
-**⚠** Land the line: the rest of the module protected the coins. This button protects the map.
+**⚠** The rest of the module protected the coins. This button protects the map.
 
 ---
 

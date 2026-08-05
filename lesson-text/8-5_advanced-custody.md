@@ -1,6 +1,6 @@
 # Advanced custody: passphrase, multisig, and collaborative
 
-You found your single points of failure in the last lesson. Advanced custody splits them. Every setup here turns one "only one" into two, and you pay for it in complexity and in what your family has to be able to do. Staying at a well-run Level 2 is a legitimate answer.
+Once you've found your single points of failure, advanced custody splits them. Every setup here turns one "only one" into two, and you pay for it in complexity and in what your family has to be able to do. Staying at a well-run Level 2 is a legitimate answer.
 
 ## The three paths
 

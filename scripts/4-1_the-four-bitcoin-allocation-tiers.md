@@ -55,7 +55,7 @@ So I'd call them Sovereign, working on it. And their homework is clear: move tha
 
 == NO POSITION SHOULD SURPRISE YOU ==
 
-The last thing I want to say on this: if a 70% drop in your largest position would meaningfully break your plan, then the position is too big for your comfort, regardless of what the percentage says. Match the size to what you can actually hold through, because the person who sells at the bottom loses to the person who sized it right and held.
+Last thing on this. If a 70% drop in your largest position would meaningfully break your plan, then the position is too big for your comfort, regardless of what the percentage says. Match the size to what you can actually hold through, because the person who sells at the bottom loses to the person who sized it right and held.
 
 == HOMEWORK ==
 

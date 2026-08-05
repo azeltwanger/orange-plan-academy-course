@@ -27,7 +27,7 @@ The math is simple. Your net-worth hit equals the drawdown times your Bitcoin al
 
 So if you're 10% allocated and Bitcoin drops 75%, that's a 7.5% hit to your net worth. At 25% allocated, it's about a 19% hit. At 50%, it's a 37.5% hit. And at 75% allocated, more than half of your net worth, 56%, comes off the screen.
 
-Here's the part I want you to internalize: you don't control the drawdown. You do control the allocation. The allocation is the only lever in that equation that's yours.
+You don't control the drawdown. You do control the allocation. The allocation is the only lever in that equation that's yours.
 
 == THE COUPLE'S STRESS TEST ==
 
