@@ -85,7 +85,6 @@ Pull your full history from every exchange and wallet. Then, for every lot, writ
 
 This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
-The next lesson covers the three tax buckets and how to plan across them.
 
 ## 6.2 The three buckets, your bracket roadmap, and the state lever
 *`TEACH` · 1,436 words · ~10 min*
@@ -183,7 +182,7 @@ They funded the whole year and paid $0 on those gains.
 
 Hard deadline on the cheap years. Most people waste them because nobody told them the window existed.
 
-The couple's window has ~$68,000/yr sitting empty. The next lesson covers what to put in there.
+The couple's window has ~$68,000/yr sitting empty.
 
 ### Where you live: the state lever
 
@@ -263,7 +262,7 @@ This course teaches US rules. The frameworks — the tests, the splits, the math
 
 ---
 
-The last lesson opened the low-bracket window. This lesson covers why filling it matters and the main tool for filling it.
+The buckets-and-brackets lesson opened the low-bracket window. This lesson covers why filling it matters and the main tool for filling it.
 
 ### What an RMD is
 
@@ -310,7 +309,7 @@ You're trading a low rate you chose (now) for a high rate you'd have been forced
 
 ### Fill the bracket, don't spill
 
-- Look at your room from the last lesson.
+- Look at your room from the buckets-and-brackets lesson.
 - Convert just enough to reach the top of your current low bracket.
 - Stop before you spill. Every dollar past the line gets the next bracket's rate.
 
@@ -339,7 +338,7 @@ Pay it from the Roth and only ~$26,400 lands in tax-free space. Pay it from outs
 
 ### The conflict to flag
 
-The last lesson showed ~$68,000 of empty 0% capital-gains room in that same window. Conversion income is ordinary income. It stacks underneath your capital gains. Filling the bracket with a conversion pushes some of those gains out of 0% into 15%.
+The buckets-and-brackets lesson showed ~$68,000 of empty 0% capital-gains room in that same window. Conversion income is ordinary income. It stacks underneath your capital gains. Filling the bracket with a conversion pushes some of those gains out of 0% into 15%.
 
 The two moves compete for the same window, in the same years. **Model them together.**
 
@@ -455,7 +454,7 @@ Say you have 8 lots of 0.5 BTC each from 2023-2025, with Bitcoin now at $70,000.
 - Tax on the sale: **$0**.
 - Plus a $32,500 loss you can now use.
 
-Same sale, same coins, $6,750 vs $0. The exchange picks FIFO by default. HIFO is a choice you make at the time of sale, and it needs the wallet-by-wallet cost basis you built in Lesson 1 to defend.
+Same sale, same coins, $6,750 vs $0. The exchange picks FIFO by default. HIFO is a choice you make at the time of sale, and it needs the wallet-by-wallet cost basis you built in the cost-basis lesson to defend.
 
 > ⚠ **HIFO guardrails.** Skip any lot held less than 12 months (short-term rates are much higher). Under 2025 wallet-reporting rules, the coins you sell must come from the wallet those specific lots live in.
 
@@ -479,7 +478,7 @@ Same trade at 3% fees each way? Fees jump to $2,100, harvest barely clears. Smal
 
 Sell to realize gains on purpose in a year your capital-gains rate is low or zero. Buy back at the same price. Reset your basis higher for free.
 
-**Running it on the couple at 60.** Same 0.25 BTC from Lesson 1:
+**Running it on the couple at 60.** Same 0.25 BTC from the cost-basis lesson:
 
 | Step | Amount |
 |---|---|
@@ -522,7 +521,6 @@ Those two answers are what you take to your CPA.
 
 This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
-The next lesson is the walkthrough that runs every one of these levers in Orange Plan.
 
 ## 6.5 Walkthrough: model it in Orange Plan
 *`DEMO` · 1,321 words*
@@ -578,7 +576,7 @@ Remember: the app never invents basis. A flagged lot is your reconstruction home
 
 Read the **coverage banner** at the top:
 
-- **"Tax-lot records reconcile"** means you're done with the reconstruction homework from Lesson 1.
+- **"Tax-lot records reconcile"** means you're done with the reconstruction homework from the cost-basis lesson.
 - **"Cost-basis history is incomplete"** means look at the count: *"N of N taxable positions fully match by known-basis lot quantity; N partial; N missing basis."*
 
 If any count is unresolved, click **Import or reconcile history** and go back to Step 1. The missing-basis count is your homework list.
@@ -589,7 +587,7 @@ Then read the lot table columns: **Asset · Purchased · Qty · Cost basis · Av
 
 Importing gets transactions in. It doesn't make them right. A bad date, a duplicated buy, a lot that landed with no basis — you fix all of those in one place.
 
-**Dashboard → find the holding → click `Lots`** on the row (it's also in the row's three-dot menu). The dialog is **"Purchase Lots — {asset}"**, and the sub-line tells you the job: *"Track purchase lots to keep cost basis accurate."* Add a lot, edit one, delete one. That's the reconstruction homework from Lesson 1, done.
+**Dashboard → find the holding → click `Lots`** on the row (it's also in the row's three-dot menu). The dialog is **"Purchase Lots — {asset}"**, and the sub-line tells you the job: *"Track purchase lots to keep cost basis accurate."* Add a lot, edit one, delete one. That's the reconstruction homework from the cost-basis lesson, done.
 
 Same row, same menu, two neighbors worth knowing: **Add transaction** records a single buy, sell, or transfer against that holding, and **Transfer** moves a holding to a different account carrying its dates and cost basis with it — it is not a sale and creates no taxable event.
 

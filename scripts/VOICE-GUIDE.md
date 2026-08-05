@@ -98,6 +98,18 @@ abstractions. When guide and dictation disagree, the dictation wins.
   NOT banned: "Let me show you…", "Notice that…" used sparingly, and
   first-person disclosure that carries real information ("I want to be straight
   about these because I'm in this system").
+- **"X beats Y" verdict aphorisms** (Austin, 2026-08-05: *"Rough and honest beats
+  precise and late. I don't talk like this."*). The compressed maxim — two
+  balanced phrases joined by beats / wins over / trumps / is better than. It
+  reads as a slogan someone would put on a slide. Say the instruction instead:
+  "Build the plan this week with numbers that are approximately right, then
+  refine them as you go." Watch for the follow-on sentence too — when this
+  pattern appears it usually restates itself once more in the same shape, and
+  both copies have to go. (Swept 2026-08-05: 7 instances, incl. one that had
+  been sitting under the heading "The rule the whole course runs on.")
+  NOT banned: "beats" doing literal comparative work in a financial claim
+  ("paying off a 20% card beats any investment you could pick with confidence"),
+  or "beats" as production jargon for moments in a script.
 - **Reassurance couplets** ("that isn't a character flaw, it's information").
 - Abstract nouns doing the work ("the drag costs the plan"). Austin says who
   does what: "that money just sits there losing to inflation."

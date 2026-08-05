@@ -39,9 +39,7 @@ Go in order the first time. After that, you can come back to any lesson as your 
 
 == THE RULE THE WHOLE COURSE RUNS ON ==
 
-Rough and honest beats precise and late.
-
-A plan built on real numbers that are approximately right, this week, beats a perfect plan a year from now. The most common failure mode I see is people spending 3 months reconstructing their exact cost basis, which is just what they originally paid for each piece of Bitcoin, before they ever run their first confidence check. Don't do that. Get the plan standing first, and refine after.
+Build the plan this week with numbers that are approximately right, and then refine them as you go. The most common failure mode I see is people spending 3 months reconstructing their exact cost basis, which is just what they originally paid for each piece of Bitcoin, before they ever run their first confidence check. Don't do that. Get the plan standing first, and refine after.
 
 I think a module a week is a good pace when you're starting. I wouldn't binge them back to back — each one ends with a decision or an action, and the plan builds on itself one piece at a time.
 

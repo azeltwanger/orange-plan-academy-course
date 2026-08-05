@@ -9,7 +9,7 @@ In today's lesson, we're going to cover the documents you need to gather before 
 
 Every number that comes out of your plan is only as good as what you put in. If your spending number is a guess, your retirement date is a guess. If your basis is missing, every tax decision later is an estimate. An hour of gathering now saves you from a plan you can't trust.
 
-And I'll say this: rough and honest beats precise and late. You're not trying to get this perfect today. You're trying to get it real.
+So don't try to get this perfect today. Get it real, and refine it later.
 
 First is income. You want recent pay stubs so you can verify what's coming in per period and per year. And include every stream — salary for each earner, self-employment, rental income, dividends.
 

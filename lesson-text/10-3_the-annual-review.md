@@ -24,7 +24,7 @@ Harvest room · conversion room · basis still clean (no records = basis zero = 
 
 ## 6 · Estate
 
-Beneficiaries current (the form beats the will)? Letter still accurate? Executor still fits and willing? Switch armed with the right recipients?
+Beneficiaries current (the form overrides the will)? Letter still accurate? Executor still fits and willing? Switch armed with the right recipients?
 
 ## The finish line
 

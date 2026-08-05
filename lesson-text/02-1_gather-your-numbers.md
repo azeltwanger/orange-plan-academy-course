@@ -17,7 +17,7 @@ Your plan is only as good as its inputs. This lesson collects them once, so onbo
 ## Two rules
 
 - **Bitcoin is entered as quantity, never dollars.** The app prices it live.
-- **Basis blank beats basis invented.** If you don't know what you paid, leave it. Never guess a number you can't defend.
+- **Leave basis blank rather than inventing it.** If you don't know what you paid, leave it. Never guess a number you can't defend.
 
 ## Homework
 

@@ -60,7 +60,6 @@ Save all of it into a folder. You'll come back to these files every time you upd
 
 Set up one folder on your computer. Download every export you can get today, and label each file with the account name and date range. Basis is the priority; the rest can be gathered in parallel.
 
-The next lesson turns these into the assumptions your plan runs on.
 
 ## 2.2 What your plan rests on: assumptions
 *`TEACH` · 635 words · ~5 min*

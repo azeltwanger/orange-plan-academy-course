@@ -13,7 +13,7 @@ You know where your gaps are. Now: what setup should you be running at all?
 
 **Every level is a trade.** Level 1 buys convenience and costs counterparty risk (frozen exactly when you need it). Level 2 buys true ownership and costs maintenance (one seed, one point of failure). Level 3 buys survivability and costs complexity (a lost passphrase is permanent). Level 4 buys "no single mistake ends it" and costs the most complexity of all. More sovereignty always means more responsibility; more convenience always means more counterparty risk. You choose which risks you hold, you never eliminate them.
 
-Match the level to stakes and skill. A mismatch in either direction is the failure. Custody is not a purity test: a simple setup your family can use beats an advanced one nobody understands. (The app separately tiers its checklist by estate size: Foundation / Substantial / High Net Worth.)
+Match the level to stakes and skill. A mismatch in either direction is the failure. Custody is not a purity test: if your family can't use the setup, the advanced version isn't protecting anything. (The app separately tiers its checklist by estate size: Foundation / Substantial / High Net Worth.)
 
 ## Don't hold it all at one institution
 
@@ -36,7 +36,7 @@ You pick a setup that matches what you hold. Then the price runs up, and the sam
 **Which level you run, and whether custodial Bitcoin sits at more than one institution.**
 
 1. **Match the level to stakes and to what you can maintain.** A mismatch either way is the failure: too little custody for the amount is the Celsius problem, too much for your skill is the lost-seed problem.
-2. **Custody is not a purity test.** A simple setup your family can use beats an advanced one nobody understands. You move up a level by earning it, not by ideology.
+2. **Custody is not a purity test.** If your family can't use the setup, the advanced version isn't protecting anything. You move up a level by earning it, not by ideology.
 3. **For anything not self-custodied**, ask whether one company's bad week could take all of it.
 4. **Re-ask at the annual review**, at that year's balance.
 

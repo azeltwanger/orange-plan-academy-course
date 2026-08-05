@@ -16,11 +16,9 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 > - ⚖ Attorney review of course Terms + Disclaimer (LEGAL-REVIEW-PACKET.md)
 > - Confidence-band app change (on camera, read the verdict WORD, never the thresholds)
 > - Publishing from the Honen dashboard
-> - **Austin's call:** MASTER-COURSE.md carries 45 "the next lesson covers…"
->   transitions. Scripts and lesson text are clean of these, so nothing spoken or
->   student-facing is affected. They only bite if lessons get reordered, at which
->   point the master would be wrong. Say the word and they get rewritten as topic
->   references.
+>
+> Positional lesson references are now at zero everywhere, master included, so
+> lessons can be reordered without any file going stale.
 
 ## ☐ ONE-TIME SETUP (before any filming)
 

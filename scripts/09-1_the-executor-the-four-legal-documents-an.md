@@ -45,7 +45,7 @@ And then, actually ask them. Someone who finds out they're the executor on the d
 
 Next, the four legal documents. The will, which directs who gets what. The power of attorney, which lets someone act on money matters if you're incapacitated. The healthcare directive, which puts your medical wishes in writing. And beneficiary designations, which are the forms on your accounts naming who receives them when you die. Retirement accounts, life insurance, and some bank and brokerage accounts all carry them.
 
-== THE FORM BEATS THE WILL ==
+== THE FORM OVERRIDES THE WILL ==
 
 That fourth one carries the rule that surprises everybody: when the beneficiary form and the will disagree, the form wins.
 

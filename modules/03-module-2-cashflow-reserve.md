@@ -84,7 +84,7 @@ The couple's floor walk: $2,300 housing + $360 car + $1,200 groceries + $500 uti
 
 Their normal is $6,700/mo. Floor is $5,000/mo. The $1,700/mo gap is travel, eating out, and extras that pause in a bad year.
 
-The bare-bones number is what your cash reserve gets sized off in the next lesson.
+The bare-bones number is what your cash reserve gets sized off of.
 
 ### The withholding lever
 
@@ -106,7 +106,6 @@ Every raise gets a decision the same day. A $5,000 raise is ~$400/mo. Route it b
 - Write down both spending numbers: normal and bare-bones.
 - Enter the bare-bones number into the reserve settings in the app.
 
-The next lesson sizes the reserve that keeps your surplus from getting eaten by a bad month.
 
 ## 3.2 Size the reserve to your life
 *`TEACH` · 704 words · ~5 min*
@@ -207,7 +206,6 @@ Your answer is what your reserve size should reflect. All four options pay for t
 
 Pick your target months. Multiply by your floor. Enter both into the reserve settings in the app.
 
-The next lesson covers how to plan for future known costs that would otherwise eat this reserve.
 
 ## 3.3 Give every future cost a lane
 *`TEACH` · 625 words · ~4 min*
@@ -297,7 +295,6 @@ Every known cost gets its own row: description, date, dollar amount, lane. The p
 - Assign each one a lane based on how far away it is.
 - Any cost that would break your monthly surplus in a single hit gets a pre-funding route today.
 
-The next lesson is the walkthrough that builds cash flow and reserve inside the app.
 
 ## 3.4 Walkthrough: build cash flow and reserve in Orange Plan
 *`DEMO` · 1,739 words · ~11 min read*
@@ -322,7 +319,7 @@ The next lesson is the walkthrough that builds cash flow and reserve inside the 
 
 This walkthrough puts what you learned in the last three lessons into the app. Cash flow and reserve are the engine of every downstream projection, so this is where you make them accurate.
 
-Set aside about 15 minutes. Have two or three months of categorized transactions linked or imported (otherwise the Verify Spending card won't have anything to show), and your bare-bones essentials number from the last lesson written down.
+Set aside about 15 minutes. Have two or three months of categorized transactions linked or imported (otherwise the Verify Spending card won't have anything to show), and your bare-bones essentials number from the surplus lesson written down.
 
 ### Step 1: Read the verdict
 
@@ -397,7 +394,7 @@ The neighbor item **Ignore from Verify Spending** is a permanent ignore, a diffe
 
 If the Verify Spending card has never synced, it shows *"Verify your spending against your bank activity"* with a **Connect** link instead of the Review button. Connect a linked account first, or import transactions.
 
-> ⚠ Two or three months of real transactions beats any estimate. This is where the Living number gets calibrated to reality.
+> ⚠ Use two or three months of real transactions rather than an estimate. This is where the Living number gets calibrated to reality.
 
 If the Verify Spending card has never synced, it shows *"Verify your spending against your bank activity"* with a **Connect** link instead of the Review button. Connect a linked account first, or import transactions.
 

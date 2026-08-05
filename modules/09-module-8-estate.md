@@ -46,7 +46,7 @@ A capable executor is three things at once:
 
 Run three candidates on the couple:
 
-- **His wife.** Trustworthy and available. The problem is structural. Under the next lesson's split, heirs hold one piece and the executor holds the other. If she's the heir and also the executor, she holds both halves. The protection collapses on day one.
+- **His wife.** Trustworthy and available. The problem is structural. Under the access split, heirs hold one piece and the executor holds the other. If she's the heir and also the executor, she holds both halves. The protection collapses on day one.
 - **Her brother.** Organized, capable, lives two states away, never owned Bitcoin. This works.
 - **His best friend.** Flattered to be asked. Flattery is only willingness (half of one of three tests). Says nothing about running a probate.
 
@@ -69,7 +69,7 @@ Then actually ask them. Someone who finds out they're the executor on the day th
 3. **Healthcare directive.** Medical wishes in writing.
 4. **Beneficiary designations.** The form on an account naming who receives it when you die. Retirement accounts, life insurance, some bank and brokerage.
 
-### The form beats the will
+### The form overrides the will
 
 When the beneficiary form and the will disagree, the form wins.
 
@@ -154,7 +154,7 @@ Panel rows show name · relationship · **allocation %** · **~$ of the estate.*
 
 Button **"Add beneficiary."**
 
-⚠ **Say Lesson 1's rule at this exact moment:** the beneficiary form overrides the will. Your **insurance policies** follow the same rule. The beneficiary form on the policy wins over anything the will says about death benefit.
+⚠ **Say the executor lesson's rule at this exact moment:** the beneficiary form overrides the will. Your **insurance policies** follow the same rule. The beneficiary form on the policy overrides anything the will says about death benefit.
 
 The panel's own copy tells you to update them at the source: *"then mirror it in each account's own beneficiary designation."* Orange Plan holds the intent, but the institution holds the binding record.
 
@@ -182,7 +182,7 @@ Sit down with your executor (or a video call) and walk the packet section by sec
 Set the review date on the footer: *"Review at each annual review (Module 9)."*
 
 
-Your executor is named and briefed, and the forms match the will. The next lesson covers how they reach the Bitcoin at all.
+Your executor is named and briefed, and the forms match the will.
 
 ## 9.2 The access split
 *`TEACH` · 834 words · ~4 min*
@@ -297,7 +297,6 @@ How to think about it:
 2. Run the test with a small amount, start to finish, so you know it works.
 3. Confirm afterwards that the two halves are still in separate places and were never written down together.
 
-The next lesson covers the heir letter, which sits alongside the split.
 
 ## 9.3 The heir letter
 *`TEACH + APP` · 1,442 words · ~7 min*
@@ -391,7 +390,7 @@ So let us write it. The app holds the record and enforces the no-secrets rule on
 
 ⚠ **At least one emergency contact with an email must exist**, or the switch's action reads **"Add contact to activate"** instead of **"Turn on,"** and attempting to check in throws *"Add an emergency contact first."*
 
-Insurance doesn't live in the app. Protect shows an **"Insurance coverage · Coming soon"** row. The Coverage Audit worksheet from Lesson 5 stays your system of record for policies.
+Insurance doesn't live in the app. Protect shows an **"Insurance coverage · Coming soon"** row. The Coverage Audit worksheet from the insurance lesson stays your system of record for policies.
 
 #### Step 1: Start the heir letter. Contacts first
 
@@ -432,7 +431,7 @@ The dialog has three sections:
 
 **"Where to begin"**. One field, with its own guardrail: *"Never list where keys or recovery material are stored."* Describe where the **documents** live, not where the keys are.
 
-**"Your letter"**. The main textarea. This is where the first two lines you drafted in Lesson 3 go.
+**"Your letter"**. The main textarea. This is where the first two lines you drafted earlier in this lesson go.
 
 Footer note: *"store it with your important documents. Separate from your seed phrases and hardware wallets."*
 
@@ -571,7 +570,7 @@ How to think about it:
 2. Add your contacts and arm it in the app.
 3. Tell every contact it exists and what to do if it ever fires.
 
-Documents, split, and switch are all in place. The next lesson covers the risks the stack cannot absorb yet.
+Documents, split, and switch are all in place.
 
 ## 9.5 Insurance: the risks you can't self-insure yet
 *`TEACH` · 1,090 words · ~5 min*
@@ -667,7 +666,6 @@ None of this is a product recommendation. Actual coverage runs through a license
 
 This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
-The next lesson covers whether you need a trust.
 
 ## 9.6 Advanced: do you need a trust, and which one?
 *`TEACH + APP` · 1,923 words · ~9 min*
@@ -776,7 +774,7 @@ Legal structure and key plan get designed together, with an attorney who underst
 
 ### Homework
 
-Run all eight triggers on your household. Count your yeses. If zero or one, the baseline is your plan. Re-run the gate once a year. If more than that, take the five attorney questions from Lesson 1 to two or three candidates. The next lesson is the walkthrough that sets the backstop in Orange Plan.
+Run all eight triggers on your household. Count your yeses. If zero or one, the baseline is your plan. Re-run the gate once a year. If more than that, take the five attorney questions from the executor lesson to two or three candidates.
 
 ### If you're outside the US
 
@@ -909,7 +907,7 @@ Off-app. These go in your notes or a shared document.
 - **Executor + backup**. Asked and accepted.
 - **Estate level 1–3**. From the Lesson 2 self-triage.
 - **Access-split status**. Set / tested / not yet.
-- **Insurance gaps**. Flagged on the Coverage Audit worksheet from Lesson 5.
+- **Insurance gaps**. Flagged on the Coverage Audit worksheet from the insurance lesson.
 - **If the trust gate said yes** (Lesson 7): the five attorney questions go to the interview.
 
 Optional artifact: **Protect header → "Download estate summary."**
@@ -924,7 +922,7 @@ Optional artifact: **Protect header → "Download estate summary."**
 - **Readiness reads higher than it did at the start**. "{n} of 5 essentials in place." Letter, switch, and beneficiaries should all be green after this lap.
 - **Letter completeness: zero flags.** All four rows read Added / Named / Written / Yes.
 - **Switch armed, right recipients, next check-in date visible.** This is a communication layer, a signal to your executor, not the legal work itself.
-- **Beneficiary allocations don't contradict the will or the policies.** The form wins over the will.
+- **Beneficiary allocations don't contradict the will or the policies.** The form overrides the will.
 - **Nothing secret got typed.** The red banner was read out loud. "Where to begin" got a location for *documents,* never for keys.
 - **The viewer reads "After-tax estate," not "Gross assets."** After-tax is the number that actually reaches heirs.
 - **Both growth cases got read out loud**, and the viewer can name which side of the line each lands on.
@@ -943,7 +941,7 @@ Optional artifact: **Protect header → "Download estate summary."**
 | 4 | Beneficiaries current | Protect → Beneficiaries → "Add beneficiary" |
 | 5 | AI-assisted draft (optional) | Protect → Heir letter assistant → "Draft with AI" |
 | 6 | Executor Packet, walked and signed | Course toolkit → **08 Executor Packet** (PDF). Section 6 signed by executor + preparer |
-| 7 | Estate + insurance decisions | Recorded decision + Coverage Audit worksheet from Lesson 5 |
+| 7 | Estate + insurance decisions | Recorded decision + Coverage Audit worksheet from the insurance lesson |
 | 8 | Projected estate read | Protect → "Projected legacy" → "Projected estate after debt" |
 | 9 | After-tax number + exemption comparison | Protect → "See details →" → "After-tax estate" / "Federal estate tax" |
 | 10 | Two growth cases read | Plan → Retirement → Edit assumptions → Bitcoin |

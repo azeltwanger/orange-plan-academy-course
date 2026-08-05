@@ -57,7 +57,7 @@ DTI is your stability anchor. It barely moves in a Bitcoin drawdown, because it'
 
 **Total debt ÷ total assets.**
 
-Measures capacity: how much of what you own is already spoken for. This one moves with the Bitcoin price (next lesson).
+Measures capacity: how much of what you own is already spoken for. This one moves with the Bitcoin price.
 
 | DTA | Status |
 |---|---|
@@ -146,8 +146,8 @@ One-word status, then dot-separated clauses:
 | Word | Read |
 |---|---|
 | Strong | Healthy. Inside your bands, including the stress read. |
-| Elevated | Not a failure. It's the agenda for the next 12 months. |
-| Stretched | The plan needs a change, not the market. |
+| Elevated | Needs work. This is the agenda for the next 12 months. |
+| Stretched | The plan needs a change. You can't wait for the market to fix it. |
 
 The stress clause reads: *"stress test reaches N% of assets."*
 
@@ -176,7 +176,7 @@ How to think about it:
 2. Write your ceiling: the number you won't cross.
 3. Say out loud whether you're inside it today. If not, that's your first debt job.
 
-You've got a verdict word and a stress number. Both of them move when Bitcoin moves, and the next lesson is about what to do when they do.
+You've got a verdict word and a stress number. Both of them move when Bitcoin moves.
 
 ## 5.2 Drift and the LTV cushion
 *`TEACH + APP` · 824 words · ~4 min*
@@ -306,7 +306,7 @@ How to think about it:
 2. Write your specific action for each of the three severity levels.
 3. If you already have a loan, open its detail view and check today's cushion against what you just wrote.
 
-Everything so far has been defense: know your ratios, protect the cushion, don't get liquidated. The next lesson is the other half, which is what debt is actually for.
+Everything so far has been defense: know your ratios, protect the cushion, don't get liquidated. The other half is what debt is actually for.
 
 ## 5.3 Offense: the four debt plays
 *`TEACH + APP` · 883 words · ~4 min*
@@ -562,7 +562,7 @@ Now walk the price down and watch what happens to that ratio:
 
 A 75% drawdown, which is a normal Bitcoin bear market, takes them from 20% to the edge. **That's what starting at 20% buys you: it survives a normal bear, and it barely survives.**
 
-Run the same loan at 50% starting LTV and a 40% price drop hits the margin call. That's not a bear market, that's an ordinary Tuesday in Bitcoin.
+Run the same loan at 50% starting LTV and a 40% price drop hits the margin call. A 40% drop is an ordinary Tuesday in Bitcoin, not a bear market.
 
 ### The rules to write down before you borrow
 
@@ -622,8 +622,6 @@ How to think about it:
 2. If you're considering one, take the 7 provider questions to two or three lenders and write down their answers side by side.
 3. Write your maximum starting LTV, and your specific action at each of the three lines.
 4. Model it in the app with your lender's real thresholds, then run the 50% drawdown scenario against it and see what happens.
-
-The next lesson gives every debt on your ledger a job, including this one.
 
 
 ## 5.5 Every debt gets a job

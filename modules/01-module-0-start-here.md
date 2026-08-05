@@ -73,9 +73,7 @@ Go in order the first time. After that, come back to any lesson as your life cha
 
 ##### The rule the whole course runs on
 
-Rough and honest beats precise and late.
-
-A plan built on real numbers that are approximately right, this week, beats a perfect plan a year from now. Every lesson is finishable in one sitting so the plan actually gets built.
+Build the plan this week with numbers that are approximately right, then refine them as you go. Every lesson is finishable in one sitting so the plan actually gets built.
 
 Don't try to be optimal before you're accurate. The most common failure mode is spending three months reconstructing exact cost basis before running the first confidence check. Get the plan standing first. Refine after.
 

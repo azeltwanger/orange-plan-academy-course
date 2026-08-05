@@ -164,7 +164,7 @@ Two dials work together: your custody level (your call, based on skills and fami
 
 ### Custody is not a purity test
 
-The right setup is one you can maintain, explain, and recover from. A simple setup your family can actually use beats an advanced one nobody understands.
+The right setup is one you can maintain, explain, and recover from. If your family can't actually use it, the advanced version isn't protecting anything.
 
 You'll hear people say real Bitcoiners self-custody everything, immediately. That claim is wrong. You move up a level by earning it, with skill and with need, not with ideology.
 
@@ -269,7 +269,6 @@ A collaborative provider holds the config for you. On top of the support, the an
 - Write down which level you're at today and which level your amount and family say you should be at.
 - For anything not self-custodied, write down how many institutions it sits in, and whether that number matches what's at stake.
 
-The next lesson covers the hardware wallet setup and the recovery test.
 
 ## 8.3 The hardware wallet and the recovery test
 *`TEACH` · 678 words · ~5 min*
@@ -334,7 +333,6 @@ If you already have a pocketful of small bills, **consolidation** is the fix. Co
 
 If you've never done the wipe-and-restore, watch the demo lesson and do it, with a small test amount, before serious money is on the line.
 
-The next lesson covers closing single points of failure and common scams.
 
 ## 8.4 Close the doors: single points of failure, hardening, and scams
 *`TEACH` · 777 words · ~6 min*
@@ -430,7 +428,6 @@ Urgency is the common thread. Every scam needs you to act before you think. When
 
 Write your own "only one" list, pick the one at the top, fix it this week. Not all nine. Just that one.
 
-The next lesson is the external demo: hardware wallet setup and exchange hardening, done on screen.
 
 ## 8.5 Advanced custody: passphrase, multisig, and collaborative
 *`TEACH` · 1,354 words · ~9 min*
@@ -546,7 +543,6 @@ A collaborative provider holds the config for you. On top of the support, the an
 - If you're considering collaborative custody, ask a provider the four questions and write down their answers before you pay anything.
 - If you're running multisig, go find your config file, back it up, and tell one other person it exists.
 
-The next lesson is the external demo: hardware wallet setup and exchange hardening.
 
 ## 8.6 External demo: hardware wallet setup + exchange hardening
 *`DEMO` · 877 words*
@@ -568,7 +564,7 @@ The next lesson is the external demo: hardware wallet setup and exchange hardeni
 
 About a 9-minute screen-record demo. Not Orange Plan. Vendor tools only.
 
-This is the one lesson where the app never opens. The procedure: hardware wallet from box to first restore, plus the exchange settings that stop most losses. The custody map in the next lesson is where all of this becomes a checked box.
+This is the one lesson where the app never opens. The procedure: hardware wallet from box to first restore, plus the exchange settings that stop most losses. The custody map walkthrough is where all of this becomes a checked box.
 
 Set aside about 20 minutes to run through it. Have:
 
@@ -594,7 +590,7 @@ Vendor device plus vendor app. Six ordered beats:
 | 5 | Wipe the device. | The scary step. Factory reset the device you just set up. This is where most people back out, and it's the whole reason to do it on a throwaway. |
 | 6 | Restore from seed and confirm the test transaction reappears. | Type the words back in from the offline copy. If the balance and history return, the seed is real. If they don't, the seed backup was theatre. The wipe surfaces the problem while only a trivial amount is at stake. |
 
-Say it out loud when the balance reappears: only now has this device earned real money. Every step before the restore was preparation for this moment.
+When the balance reappears: only now has this device earned real money.
 
 > ⚠ The seed word display, the PIN entry, and the restore input screens are the three moments the camera should never see directly. Stage them, blur them, or turn away. A single frame catching the seed is a lifetime of exposure.
 
@@ -631,7 +627,7 @@ Everything else in this space is a variation on those four.
 
 ### Handing it off
 
-The next lesson is where this demo becomes a checked box. Three of the checklist items exist specifically to prove you did what this demo taught: recovery tested, backup verified, signing device tested recently. Check them only if you actually ran the demo. An unchecked item is honest. A checked item that never happened is dangerous, because the plan now believes something untrue.
+The custody-map walkthrough is where this demo becomes a checked box. Three of the checklist items exist specifically to prove you did what this demo taught: recovery tested, backup verified, signing device tested recently. Check them only if you actually ran the demo. An unchecked item is honest. A checked item that never happened is dangerous, because the plan now believes something untrue.
 
 ## 8.7 Walkthrough: document your custody map in Orange Plan
 *`DEMO` · 1,718 words · ~8 min*
@@ -648,7 +644,7 @@ The next lesson is where this demo becomes a checked box. Three of the checklist
 ---
 This walkthrough turns your custody decisions into an on-screen map. Checklist honest, tier confirmed, top single point of failure named, and an encrypted backup of the plan itself.
 
-Set aside about 15 minutes to run it slowly the first time. Have your custody level from Lesson 1 in mind, and know whether your dead-man switch will need cloud sync.
+Set aside about 15 minutes to run it slowly the first time. Have your custody level from the custody-level lesson in mind, and know whether your dead-man switch will need cloud sync.
 
 Zero secrets on screen. The checklist doesn't ask for any. Every item is a checkbox. The only free-text moment in this whole walkthrough is a backup passphrase prompt in Step 3, and you'll know exactly what it is before you type.
 
@@ -721,7 +717,7 @@ The Lesson 3 single-point-of-failure callback:
 
 Panel copy: *"Export your entire plan as an AES-encrypted restore backup file protected by a passphrase."*
 
-⚠ Clicking **Export Plan** opens a browser passphrase prompt in plaintext. The prompt reads *"Enter a passphrase to encrypt your Orange Plan export."* This is a native browser prompt, visible on screen. It's a backup-file passphrase, not a wallet passphrase. Two different objects with two different jobs, both built to the 7-random-word standard from Lesson 1. Type it somewhere private, or use an obvious throwaway you can discard.
+⚠ Clicking **Export Plan** opens a browser passphrase prompt in plaintext. The prompt reads *"Enter a passphrase to encrypt your Orange Plan export."* This is a native browser prompt, visible on screen. It's a backup-file passphrase, not a wallet passphrase. Two different objects with two different jobs, both built to the 7-random-word standard from the advanced-custody lesson. Type it somewhere private, or use an obvious throwaway you can discard.
 
 Success toast: **Plan exported**.
 
@@ -776,7 +772,7 @@ If you want a line as you pass it: *"there's an assistant for the heir letter. T
 ### What good looks like
 
 - **The Needs attention list is shorter at the end than the start.** And the top remaining item gets named out loud as this week's fix.
-- **Hardware items are honest.** *Full recovery process tested end-to-end* is checked only if you actually did the wipe-and-restore. Unchecked-but-planned beats checked-but-fabricated every time.
+- **Hardware items are honest.** *Full recovery process tested end-to-end* is checked only if you actually did the wipe-and-restore. Leave unchecked anything you haven't done; a checked item that never happened makes the plan believe something untrue.
 - **Distribution items are the only-one hunt, itemized.** *Key material stored in 2+ physical locations* and *No single person can access funds alone*, both true, is the bar. Both unchecked and the map has a real gap.
 - **Access after death** is the handoff to Module 8. Those four items are next module's homework list.
 - **Nothing secret got typed.** Say the absence as the win. The one moment you'll touch a passphrase is the backup export in Step 3, and you'll have explained exactly what it is and is not.

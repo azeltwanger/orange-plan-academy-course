@@ -69,7 +69,7 @@ When you select a saved scenario, the app puts it next to your plan and shows yo
 
 Three rules for reading it.
 
-**Read the pair, not the number.** A scenario that retires you two years earlier at a much lower success rate isn't a better plan, it's a different trade. Every scenario is a trade, and the trade is what you're reading.
+**Read the pair, not the number.** A scenario that retires you two years earlier at a much lower success rate is a trade, and the trade is what you're reading.
 
 **Run the Monte Carlo before you believe the success rate.** The comparison chart updates immediately, but the success rate is a simulation and it has to actually run. The button is right there in the comparison section.
 
@@ -90,7 +90,7 @@ Most scenarios are disposable. Two aren't:
 - **A deep drawdown right after retirement.** This is the sequence-of-returns test, and it's the single scenario most likely to break a Bitcoin-heavy plan. Keep it, and re-run it every year.
 - **Weaker Bitcoin returns than you assumed.** If your plan only works at your optimistic growth curve, that's worth knowing every year, not once.
 
-Both of those are also what populate the "if Bitcoin follows a different path" section of your yearly report, which is the next lesson but one.
+Both of those are also what populate the "if Bitcoin follows a different path" section of your yearly report.
 
 ### Homework
 
@@ -98,7 +98,6 @@ Both of those are also what populate the "if Bitcoin follows a different path" s
 - Save one choice you're genuinely weighing, built as a single-variable scenario.
 - Answer the stress test out loud: would you still be okay? If no, write down which lever you'd pull.
 
-The next lesson is the walkthrough that builds both of these in Orange Plan.
 
 ## 11.2 Walkthrough: build and compare a scenario in Orange Plan
 *`DEMO` · 1,250 words · ~9 min*
@@ -114,7 +113,7 @@ The next lesson is the walkthrough that builds both of these in Orange Plan.
 
 ---
 
-This walkthrough builds the two scenarios from the last lesson: one stress test and one choice. By the end you'll have both saved, compared, and Monte Carlo'd.
+This walkthrough builds two scenarios: one stress test and one choice. By the end you'll have both saved, compared, and Monte Carlo'd.
 
 Set aside about 15 minutes. Have your plan complete, because a scenario is only as meaningful as the baseline it's compared against.
 
@@ -231,7 +230,7 @@ Answer, let it run, then read one thing it surfaced and say whether you agree.
 
 ### Handing it off
 
-You now have saved scenarios, which is also a prerequisite for the report: the *"If Bitcoin follows a different path"* section only renders when at least one scenario exists. The next lesson covers how to read a financial plan end to end, and then you'll walk your own report.
+You now have saved scenarios, which is also a prerequisite for the report: the *"If Bitcoin follows a different path"* section only renders when at least one scenario exists.
 
 
 ## 11.3 How to read a financial plan

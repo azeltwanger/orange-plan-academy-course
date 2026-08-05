@@ -4,7 +4,7 @@ The order your next dollar flows. Each rung fills (or maxes) before the next. Fr
 
 | # | Rung | Why |
 |---|---|---|
-| 1 | Employer match | 50–100% instant return; nothing beats it. Contribute the full match %. |
+| 1 | Employer match | 50–100% instant return. Contribute the full match %. |
 | 2 | High-interest debt (>~7%) | Paying a 20% card = guaranteed 20% return |
 | 3 | HSA (if eligible) | The only triple-tax-advantaged account; invest it as a Roth-like medical fund |
 | 4 | Roth IRA / Roth 401(k) | Tax-free forever, no RMDs; strong for Bitcoin-heavy plans expecting a higher future bracket |

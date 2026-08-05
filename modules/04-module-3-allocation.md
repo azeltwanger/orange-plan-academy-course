@@ -107,7 +107,6 @@ Place yourself honestly across the three drivers:
 
 The percentage is what falls out of those three. Not what you pick first.
 
-The next lesson covers the two checks that keep your allocation honest through a drawdown.
 
 ## 4.2 The two emotion gates: stress-test + price context
 *`TEACH` · 549 words · ~4 min*
@@ -131,7 +130,7 @@ The next lesson covers the two checks that keep your allocation honest through a
 
 ---
 
-In the last lesson you placed yourself on a tier. This lesson covers the two checks that go around it.
+You've placed yourself on a tier. This lesson covers the two checks that go around it.
 
 - **Stress test.** Run once, when you set your allocation.
 - **Price context.** Run every time before a Bitcoin-heavy move.
@@ -208,7 +207,6 @@ How to think about it:
 2. Write down the position size you could hold through it.
 3. If that's smaller than what you hold now, write what you'll do about the difference.
 
-The next lesson covers the three buckets that give every dollar in your plan a job.
 
 ## 4.3 Give every dollar a job: Reserve / Bridge / Forever
 *`TEACH` · 605 words · ~4 min*
@@ -309,7 +307,6 @@ How to think about it:
 2. Open **Strategy → Allocation** and compare each target to what you actually hold.
 3. Write down which bucket is furthest behind. That's where new dollars go first.
 
-The next lesson covers the contribution waterfall that routes every new dollar into the right bucket in the right order.
 
 ## 4.4 The contribution waterfall
 *`TEACH` · 575 words · ~4 min*
@@ -435,7 +432,6 @@ You make this decision once and it routes every future dollar without you re-dec
 3. Enter your contributions in the app so the projection reflects the real routing.
 4. Automate whatever you can at the source, so the decision runs itself.
 
-The next lesson covers asset location: which type of account each holding should sit in.
 
 ## 4.5 Asset location: the right account for each holding
 *`TEACH` · 686 words · ~5 min*
@@ -520,7 +516,6 @@ For every account, ask: is the asset in it appropriate for the wrapper?
 
 Location isn't a one-time decision. Every year, and any time you rebalance, ask again.
 
-The next lesson is the walkthrough that routes your surplus and sets your allocation in the app.
 
 ## 4.6 Walkthrough: route it in Orange Plan
 *`DEMO` · 1,895 words*
@@ -625,7 +620,7 @@ If nothing is saved yet, four presets appear:
 - **Conservative**
 - **Build your own**
 
-Pick the range that matches the tier you defended in Lesson 1. The line at the bottom should read **✓ 100% allocated**. If it reads *"N% allocated · adjust to 100%"*, the editor won't let you save.
+Pick the range that matches the tier you defended in the allocation-tiers lesson. The line at the bottom should read **✓ 100% allocated**. If it reads *"N% allocated · adjust to 100%"*, the editor won't let you save.
 
 Set your **drift band**: *"Flag drift beyond ± __%"*. This is how far your live mix can wander from your target before the app flags a rebalance decision. A reasonable default is ±5 percentage points, but pick a number you'd actually act on.
 

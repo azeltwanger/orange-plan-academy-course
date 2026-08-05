@@ -70,7 +70,6 @@ How to think about it:
 2. Put both on your calendar as recurring events, right now.
 3. Write one line on what you will not touch during a monthly pass.
 
-The next lesson covers the monthly pass in detail.
 
 ## 10.2 The monthly pass
 *`TEACH` · 729 words · ~5 min*
@@ -143,7 +142,6 @@ The plan survives on this habit. Pick a specific day for the review, not "soon" 
 
 Five minutes a month, one afternoon a year, for the rest of your life. Every raise, every buy, and every quiet month you enter makes your freedom date more real.
 
-The next lesson covers the annual review across all six areas.
 
 ## 10.3 The annual review: all six areas
 *`TEACH` · 1,051 words · ~8 min*
@@ -294,7 +292,6 @@ How to think about it:
 2. Write your three-action cap down as a rule you'll actually follow.
 3. Write what "done" means for you: the report saved and the backup exported.
 
-The next lesson is the walkthrough that runs the annual review in the app.
 
 ## 10.4 Walkthrough: run the annual review in Orange Plan
 *`DEMO` · 1,753 words · ~8 min*
@@ -356,7 +353,7 @@ Source step **"Start here"**, heading *"How would you like to update transaction
 
 Footnote: *"Downloaded files are checked against earlier imports before saving."*
 
-⚠ **Nothing imported enters the plan silently.** Everything waits in a review step until you approve it, which enforces the honest-transactions discipline from Lesson 2.
+⚠ **Nothing imported enters the plan silently.** Everything waits in a review step until you approve it, which enforces the honest-transactions discipline from the monthly-pass lesson.
 
 ### Step 3: AI · "Explain review items"
 

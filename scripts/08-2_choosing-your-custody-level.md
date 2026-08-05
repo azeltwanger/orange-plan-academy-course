@@ -79,7 +79,7 @@ So this belongs on your annual review. Once a year, re-ask the level question at
 
 Before the advanced material: custody is not a purity test.
 
-The right setup is one you can maintain, explain, and recover from. A simple setup your family can actually use beats an advanced one nobody understands. You'll hear people say real Bitcoiners self-custody everything, immediately. I think that claim is wrong, and it gets people hurt. You move up a level by earning it, with skill and with need. Not with ideology.
+The right setup is one you can maintain, explain, and recover from. If your family can't actually use it, the advanced version isn't protecting anything. You'll hear people say real Bitcoiners self-custody everything, immediately. I think that claim is wrong, and it gets people hurt. You move up a level by earning it, with skill and with need. Not with ideology.
 
 == YOUR DECISION ==
 

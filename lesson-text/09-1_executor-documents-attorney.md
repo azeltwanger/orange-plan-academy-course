@@ -12,7 +12,7 @@ They file the will (opening probate), then under court supervision: inventory as
 
 Will · power of attorney · healthcare directive · **beneficiary designations**.
 
-**The form beats the will.** Accounts with named beneficiaries never enter probate; the custodian pays the form's name before anyone reads the will. (An old 401(k) naming your mother from before your marriage goes to your mother.) The fix is 10 minutes per account; the app shows every named beneficiary on one screen.
+**The form overrides the will.** Accounts with named beneficiaries never enter probate; the custodian pays the form's name before anyone reads the will. (An old 401(k) naming your mother from before your marriage goes to your mother.) The fix is 10 minutes per account; the app shows every named beneficiary on one screen.
 
 ## Choosing the attorney
 

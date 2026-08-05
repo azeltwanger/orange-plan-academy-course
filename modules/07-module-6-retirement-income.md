@@ -100,7 +100,6 @@ Write your three numbers down: spending, floor, gap.
 
 If you don't know your floor yet, pull your Social Security estimate this week. SSA.gov gives it in monthly and annual. The app takes it as monthly.
 
-The next lesson prices the bridge years between your last paycheck and your full income floor.
 
 ## 7.2 The bridge years
 *`TEACH` · 567 words · ~4 min*
@@ -113,7 +112,7 @@ The next lesson prices the bridge years between your last paycheck and your full
 
 ---
 
-The last lesson showed the gap is biggest in the early years. This lesson covers those years: the stretch between your last paycheck and your full income floor.
+The gap is biggest in the early years. This lesson covers those years: the stretch between your last paycheck and your full income floor.
 
 Most early-retirement plans fail here.
 
@@ -187,7 +186,6 @@ Two steps:
 
 That total tells you whether your Bridge bucket is actually sized for the job.
 
-The next lesson covers the healthcare bridge, which lives inside these same years.
 
 ## 7.3 The healthcare bridge
 *`TEACH` · 800 words · ~6 min*
@@ -275,7 +273,7 @@ Bridge years × annual cost of each path, side by side. Then add soft factors: h
 
 ### In the plan
 
-Healthcare is a line inside your retirement spending number (from Lesson 1). The bridge premium is an expense with an end date at 65.
+Healthcare is a line inside your retirement spending number (from the spending-floor lesson). The bridge premium is an expense with an end date at 65.
 
 In the app: enter as an **Expense Change** life event with a duration (5 years if you retire at 60). No "end age" field; you set a duration.
 
@@ -295,7 +293,6 @@ Price your bridge three ways:
 
 Most people have never seen those three numbers side by side. The comparison is the decision.
 
-The next lesson covers the income waterfall and the draw-and-refill rules.
 
 ## 7.4 The income waterfall + draw and refill
 *`TEACH` · 903 words · ~6 min*
@@ -429,7 +426,6 @@ How to think about it:
 2. Set your **Monthly build cap** under Cash Flow → Reserve settings to control refill pace.
 3. Write your refill rule in one sentence, so future you doesn't renegotiate it in a bad year.
 
-The next lesson covers the sell, borrow, or hold decision.
 
 ## 7.5 Sell, borrow, or hold
 *`TEACH` · 730 words · ~5 min*
@@ -540,7 +536,6 @@ Run all three on one year of your own spending. Not to pick a winner, but to kno
 
 Bring the outputs to the household and CPA conversation.
 
-The next lesson covers the guardrails that turn your confidence number into an actual paycheck.
 
 ## 7.6 The guardrails: turning the confidence number into a paycheck
 *`TEACH` · 835 words · ~6 min*
@@ -637,7 +632,6 @@ Two questions:
 
 Those two answers price your reserve, in dollars, against the drawdown you're actually defending against.
 
-The next lesson is the walkthrough that builds your retirement paycheck in the app.
 
 ## 7.7 Walkthrough: build the paycheck in Orange Plan
 *`DEMO` · 1,811 words · ~9 min*
@@ -856,7 +850,7 @@ One click creates the scenario and selects it under **Your scenarios**.
 
 ⚠ It's in the first four cards. No **See more scenarios** click needed.
 
-That makes Lesson 4's sequence-of-returns risk visible on your own plan.
+That makes sequence-of-returns risk visible on your own plan.
 
 ### What good looks like
 

@@ -109,7 +109,7 @@
 
 - [ ] Needs attention is shorter than when you started
 - [ ] Top remaining item named out loud as this week's fix
-- [ ] Hardware items honest — unchecked-but-planned beats checked-but-fabricated
+- [ ] Hardware items honest — leave unchecked anything you haven't actually done
 - [ ] Distribution items done as the only-one hunt, itemized
 - [ ] Access after death = next module's homework list
 - [ ] Nothing secret typed — say the absence out loud as the win
