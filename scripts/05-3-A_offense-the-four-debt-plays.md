@@ -69,7 +69,7 @@ So let's run one right now. Pick the play you're most tempted by, and let's put 
 
 Your decision here is which play you're running, if any, and the rules it runs under.
 
-Here's how to think about it. Check it against defense first, because if a play would push you past the ceiling you set last lesson, the answer is no and you're done thinking about it. Then name the failure mode out loud before you name the upside, because if you can't say how the play loses, you don't understand it well enough to run it. And "none of them" is a real answer, and it's the right one for a lot of households. If you are running one, write the operating rules before any money moves: what it's for, your maximum size, what makes you unwind it, and who else knows about it.
+Here's how to think about it. Check it against defense first, because if a play would push you past the ceiling you set on the defense side, the answer is no and you're done thinking about it. Then name the failure mode out loud before you name the upside, because if you can't say how the play loses, you don't understand it well enough to run it. And "none of them" is a real answer, and it's the right one for a lot of households. If you are running one, write the operating rules before any money moves: what it's for, your maximum size, what makes you unwind it, and who else knows about it.
 
 == HOMEWORK ==
 

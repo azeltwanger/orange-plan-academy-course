@@ -63,7 +63,7 @@ Here's how to think about it. Answer all 5 questions out loud, and answer them t
 
 Most people score 1 or 2 out of 5 the first time. That's normal, and what it does is turn a vague worry into 3 specific jobs you can work through.
 
-And knowing what the job actually asks of you is part of the decision too. If the honest answer is that you don't want to carry all of it yourself, that's useful information, not a failure, and the next lesson gives you setups built around exactly that.
+And knowing what the job actually asks of you is part of the decision too. If the honest answer is that you don't want to carry all of it yourself, that's useful information, and there are custody setups built around exactly that.
 
 == HOMEWORK ==
 
@@ -71,4 +71,4 @@ Your homework for this lesson is to:
 
 1. Score yourself on the 5 questions and write down your number.
 2. For each pile of Bitcoin you hold, write down what job it's doing.
-3. Write down which of the 5 questions you'd fix first. That's where the next lesson starts.
+3. Write down which of the 5 questions you'd fix first.

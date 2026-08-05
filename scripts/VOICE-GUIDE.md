@@ -6,7 +6,7 @@ Every script conversion is checked against this, not against "good writing."
 
 ## THE calibration master
 
-`scripts/3-2_size-the-reserve-to-your-life.md` is Austin's own dictation of a
+`scripts/03-2_size-the-reserve-to-your-life.md` is Austin's own dictation of a
 full lesson (2026-08-04). Every conversion matches THAT, not this guide's
 abstractions. When guide and dictation disagree, the dictation wins.
 
@@ -108,6 +108,10 @@ Lessons get removed, updated, and reordered. Scripts must survive that:
 - NEVER "in the next lesson" / "in the last lesson" / "as we just covered" —
   no positional references, no teasers. A lesson ends on its homework and the
   walkthrough hand-off, then stops.
+- **Grep for the bare form too**, not just "in the next lesson": "The next
+  lesson covers…", "That's where the next lesson starts", "(next lesson)",
+  "the ceiling you set last lesson". A 2026-08-05 sweep found 6 of these in
+  scripts and lesson text that an "in the next lesson" search had missed.
 - Referring to another lesson BY TOPIC ("the surplus lesson," "the tax
   module") is allowed when genuinely needed, and kept rare.
 

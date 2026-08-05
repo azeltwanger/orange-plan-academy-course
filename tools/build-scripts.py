@@ -83,7 +83,8 @@ for p in parts[1:]:
               + (' · A-ROLL ONLY (screen half = shoot list segment '
                  f'{num}-B)' if hybrid else '') + '\n'
               + '=' * 60 + '\n\n')
-    fn = f'{num.replace(".", "-")}{"-A" if hybrid else ""}_{slug}.md'
+    mod, sub = num.split('.', 1)
+    fn = f'{int(mod):02d}-{sub}{"-A" if hybrid else ""}_{slug}.md'
     if fn in SPOKEN:
         continue  # keep the hand-written spoken version
     open(os.path.join(outdir, fn), 'w', encoding='utf-8').write(header + text)

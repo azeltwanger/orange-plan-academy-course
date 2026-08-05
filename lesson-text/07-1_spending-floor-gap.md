@@ -19,7 +19,7 @@ Durable income before selling anything: Social Security, pension, other recurrin
 
 ## The numbers move
 
-The floor doesn't turn on at once. The gap is **largest right after your last paycheck** and shrinks as Social Security arrives, so the biggest demand on the portfolio lands in the first few years. That's the bridge (next lesson).
+The floor doesn't turn on at once. The gap is **largest right after your last paycheck** and shrinks as Social Security arrives, so the biggest demand on the portfolio lands in the first few years. Those are the bridge years.
 
 ## Homework
 

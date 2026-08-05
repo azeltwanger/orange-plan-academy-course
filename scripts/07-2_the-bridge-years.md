@@ -73,7 +73,7 @@ I'm not going to tell you which one to pick. This decision is personal, and it's
 
 One more thing that's specific to holding Bitcoin, and it's about timing.
 
-If Bitcoin's 4-year cycle keeps roughly holding, then there's a decent chance the year you retire lands somewhere near a cycle high. That's not a prediction, it's just what happens when you pick a retirement date years in advance and the asset moves in cycles.
+If Bitcoin's 4-year cycle keeps roughly holding, then there's a decent chance the year you retire lands somewhere near a cycle high. That's just what happens when you pick a retirement date years in advance and the asset moves in cycles.
 
 And that cuts both ways. It means the balance you retire on might be flattered by where the price happens to be. But it also means you have an opportunity, which is to build your retirement cash reserve during the strong years leading into your retirement date, rather than trying to build it after you've already stopped working.
 

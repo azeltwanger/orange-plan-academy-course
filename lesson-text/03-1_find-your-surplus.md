@@ -33,7 +33,7 @@ After the easy cuts, the real surplus hides in the three big levers: **housing, 
 - **Normal spending**: your regular month
 - **Bare-bones floor**: what you could survive on if things got ugly
 
-The floor is what your cash reserve gets sized from (next lesson).
+The floor is what your cash reserve gets sized from.
 
 ## Also check
 

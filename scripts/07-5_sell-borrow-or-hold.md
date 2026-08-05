@@ -69,7 +69,7 @@ What you're saving is the difference between that 15% capital gains rate and the
 
 The whole thing in one sentence. Sell up to the top of your 0% bracket, and borrow anything above it.
 
-That said, everything from the LTV lesson still applies here. This move puts a loan on your balance sheet, and that loan has all the same margin call risk we covered. So the cushion rules don't get relaxed just because the tax math is attractive.
+But everything from the LTV lesson still applies here. This move puts a loan on your balance sheet, and that loan has all the same margin call risk we covered. So the cushion rules don't get relaxed just because the tax math is attractive.
 
 The app models this directly. In the Retirement Borrowing tab there's a Bracket-aware mode, and that's exactly what it's doing: selling into your cheap bracket, borrowing above it.
 
