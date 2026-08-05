@@ -17,7 +17,8 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ Fresh demo account seeded with the couple's numbers (card: income $190k · spending $80k · 1.75 BTC · $280k mortgage @3.25% · $18k car @7% · 401k $12k/yr · Roth $7k/yr)
 ☐ Retirement-era demo state ready for Modules 6/9/10 ($80k spend · $120k reserve · $400k taxable BTC · $600k trad · $200k Roth · $51,600/yr SS)
 ☐ Clean browser profile: notifications off, bookmarks bar hidden, no personal tabs
-☐ Teleprompter loaded from `scripts/` in file order · walkthrough script open on laptop during captures
+☐ Teleprompter loaded from `scripts/` in file order (teach lessons only — walkthroughs are NOT scripted)
+☐ Walkthrough sheets open on a second screen during captures: **DO** = click path · **SEE** = point at this · **⚠** = don't get this wrong. Narrate in your own words
 ☐ Evergreen check: no current-year numbers spoken; law-set figures (brackets, limits, exemptions, RMD ages) pointed at on screen, never quoted
 ☐ Camera/audio test clip reviewed
 
@@ -71,7 +72,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 6.2 Buckets, brackets, state — 🎙 film `6-2`
 ☐ 6.3 RMD risk + Roth conversions — 🎙 film `6-3`
 ☐ 6.4 Harvesting — 🎙 film `6-4`
-☐ 6.5 Walkthrough: model it — 🖥 capture `6.5` (8 steps; import BEFORE harvest step)
+☐ 6.5 Walkthrough: model it — 🖥 capture `6.5` (9 steps; import BEFORE harvest step; step 5 = where the conversion tax money comes from, the #1 confusion)
 ☐ Module 5: edit → upload → paste lesson text (6-1 … 6-5)
 
 ## ☐ MODULE 6 — Retirement Income
