@@ -44,7 +44,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 2.3 The confidence ring — 🎙 film `02-3`
 ☐ 2.4 Walkthrough: set up your plan — 🖥 capture `02.4` (onboarding, 13 steps)
 ☐ 2.5 Walkthrough: build your baseline — 🖥 capture `02.5` (baseline lap, 9 steps; run straight after 2.4 on the same account, Monte Carlo not yet run)
-☐ Module 1: edit → upload → paste lesson text 
+☐ Module 1: edit → upload → paste lesson text (02-1 … 02-5)
 
 ## ☐ MODULE 2 — Cash Flow + Reserve
 
@@ -52,7 +52,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 3.2 Size the reserve — 🎙 film `03-2` (your dictation — 18-month drawdown figure)
 ☐ 3.3 Every future cost a lane — 🎙 film `03-3`
 ☐ 3.4 Walkthrough: cash flow + reserve — 🖥 capture `03.4` (10 steps)
-☐ Module 2: edit → upload → paste lesson text 
+☐ Module 2: edit → upload → paste lesson text (03-1 … 03-4)
 
 ## ☐ MODULE 3 — Allocation
 
@@ -62,7 +62,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 4.4 The contribution waterfall — 🎙 film `04-4`
 ☐ 4.5 Asset location — 🎙 film `04-5`
 ☐ 4.6 Walkthrough: route it — 🖥 capture `04.6` (10 steps; prereqs: salary source entered + surplus in step 3)
-☐ Module 3: edit → upload → paste lesson text 
+☐ Module 3: edit → upload → paste lesson text (04-1 … 04-6)
 
 ## ☐ MODULE 4 — Debt (hybrid lessons: A-roll + screen half, edited together)
 
@@ -72,7 +72,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 5.4 Bitcoin-backed loans: how they work — 🎙 film `05-4` (~11 min; LTV animation is the key graphic)
 ☐ 5.5 Every debt gets a job — 🎙 film `05-5-A` → 🖥 capture `05.5-B`
 ☐ 5.6 Check your work — 🖥 capture `05.6`
-☐ Module 4: edit A+B pairs → upload → paste lesson text 
+☐ Module 4: edit A+B pairs → upload → paste lesson text (05-1 … 05-6)
 
 ## ☐ MODULE 5 — Tax
 
@@ -81,7 +81,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 6.3 RMD risk + Roth conversions — 🎙 film `06-3`
 ☐ 6.4 Harvesting — 🎙 film `06-4`
 ☐ 6.5 Walkthrough: model it — 🖥 capture `06.5` (9 steps; import BEFORE harvest step; step 5 = where the conversion tax money comes from, the #1 confusion)
-☐ Module 5: edit → upload → paste lesson text 
+☐ Module 5: edit → upload → paste lesson text (06-1 … 06-5)
 
 ## ☐ MODULE 6 — Retirement Income
 
@@ -92,7 +92,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 7.5 Sell, borrow, or hold — 🎙 film `07-5`
 ☐ 7.6 The guardrails — 🎙 film `07-6`
 ☐ 7.7 Walkthrough: build the paycheck — 🖥 capture `07.7` (11 steps; plan must be in retirement phase; run Monte Carlo first; SS entered MONTHLY)
-☐ Module 6: edit → upload → paste lesson text 
+☐ Module 6: edit → upload → paste lesson text (07-1 … 07-7)
 
 ## ☐ MODULE 7 — Custody
 
@@ -103,7 +103,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 8.5 Advanced custody: passphrase, multisig, collaborative — 🎙 film `08-5` (~11 min; 7-word passphrase standard + entropy graphic)
 ☐ 8.6 External demo: wallet setup + hardening — 🖥 capture `08.6` (NOT Orange Plan; sealed device + burner exchange; ⚠ no seed/PIN ever in frame; review footage)
 ☐ 8.7 Walkthrough: custody map — 🖥 capture `08.7` (6 steps; passphrase prompt typed off-camera)
-☐ Module 7: edit → upload → paste lesson text 
+☐ Module 7: edit → upload → paste lesson text (08-1 … 08-7)
 
 ## ☐ MODULE 8 — Estate
 
@@ -114,7 +114,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 9.5 Insurance — 🎙 film `09-5`
 ☐ 9.6 Advanced: trusts — 🎙 film `09-6` → 🖥 capture `09.6-B` (⚠ never say the exemption figure — point at screen)
 ☐ 9.7 Check your work — 🖥 capture `09.7`
-☐ Module 8: edit A+B pairs → upload → paste lesson text 
+☐ Module 8: edit A+B pairs → upload → paste lesson text (09-1 … 09-7)
 
 ## ☐ MODULE 9 — Maintenance
 
