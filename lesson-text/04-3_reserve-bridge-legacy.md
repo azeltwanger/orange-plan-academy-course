@@ -18,7 +18,7 @@ Stocks up, Bitcoin down â†’ refill by trimming stocks. Everything down at once â
 
 ## Targets
 
-Each bucket gets a target % of net worth. Working Sovereign-tier: ~5/15/80. Approaching retirement: ~10/30/60 (bigger buffer for sequence risk). The target is what the projection uses, so route new dollars toward it.
+Each bucket gets a target % of investable assets. Working Sovereign-tier: ~5/15/80. Approaching retirement: ~10/30/60 (bigger buffer for sequence risk). The target is what the projection uses, so route new dollars toward it.
 
 ## Three common mistakes
 

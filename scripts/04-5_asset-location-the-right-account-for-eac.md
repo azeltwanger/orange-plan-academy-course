@@ -29,9 +29,9 @@ Here's the reason. Growth compounds, and tax drag compounds too. A high-growth a
 
 So let's go holding by holding.
 
-Bitcoin. This one's a real decision. Long-term capital gains on Bitcoin run 15 to 20% federal, plus your state on top. Inside a Roth, through a Bitcoin ETF, those gains are shielded and never taxed at all. So why not put it all there? Because Bitcoin inside a Roth means you can't easily spend it before 59 and a half without the penalty, and it's an ETF, not coins you hold. Most self-custody Bitcoin sits outside any wrapper, which makes it taxable by default. The pattern I think makes sense for a lot of people is a split: some Bitcoin exposure inside retirement wrappers in ETF form for the tax shielding, and the majority in self-custody for the sovereignty. You're trading a little of one thing for a little of the other, and where the line sits is your call.
+Bitcoin. This one's a real decision. Long-term capital gains on Bitcoin run 0, 15, or 20% federal depending on your income that year, plus your state on top. Inside a Roth, those gains are shielded and never taxed at all. In a standard brokerage Roth the exposure is generally through a Bitcoin ETF, and a self-directed Roth may hold Bitcoin itself through specialized custody, with more fees, more complexity, and prohibited-transaction risk. So why not put it all there? Because access before 59 and a half depends on whether the dollars are contributions, conversions, or earnings, so don't treat the whole account as equally locked up. Most self-custody Bitcoin sits outside any wrapper, which makes it taxable by default. The pattern I think makes sense for a lot of people is a split: some Bitcoin exposure inside retirement wrappers for the tax shielding, and the majority in self-custody for the sovereignty. You're trading a little of one thing for a little of the other, and where the line sits is your call.
 
-Broad index funds and individual stocks: Roth or traditional. High long-term growth is exactly what benefits most from shielding. The one exception is if you're actively trading, where taxable is fine because you're realizing gains constantly anyway.
+Broad index funds and individual stocks: Roth or traditional. High long-term growth is exactly what benefits most from shielding. Active trading makes taxable placement less attractive, because every sale can create recurring tax drag.
 
 Bonds: usually traditional. Bonds throw off ordinary-income yield every year, so sheltering that helps. Or, if you're a higher earner, munis in taxable, because the interest is tax-free. What you generally don't do is put bonds in a Roth, because their low growth doesn't justify burning your best tax-free-forever space on them.
 
@@ -57,7 +57,7 @@ So if all of your Bitcoin is in taxable, that dictates when it gets sold and at 
 
 Your homework for this lesson is to:
 
-1. Go account by account and ask: is the asset inside appropriate for the wrapper? Cash in a Roth moves to taxable. Bonds in a Roth move to traditional. High-growth stocks in taxable swap with low-growth bonds in the Roth.
+1. Go account by account and ask: is the asset inside appropriate for the wrapper? Cash sitting in a Roth should generally be reinvested inside the Roth, not withdrawn just to improve asset location. Bonds in a Roth move to traditional. High-growth stocks in taxable swap with low-growth bonds in the Roth.
 2. If your Bitcoin is all in taxable and you have Roth room, decide whether a small ETF position makes sense for you.
 3. Re-ask these questions once a year and any time you rebalance. Location isn't a one-time decision.
 4. Then watch the module walkthrough below this video, where we'll route all of this in Orange Plan.

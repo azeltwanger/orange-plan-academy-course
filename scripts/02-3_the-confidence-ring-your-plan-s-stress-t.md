@@ -9,7 +9,6 @@ In today's lesson, we're going to cover the two numbers at the top of your plan 
 
 Here's why you need both numbers and not just one. The date tells you when. The confidence number tells you how sturdy that date is. And most tools only show you the date.
 
-== YOUR EARLIEST RETIREMENT DATE ==
 
 Your earliest retirement date is the year your assumptions say you could stop working. I think of it as your freedom date.
 
@@ -29,7 +28,7 @@ Yes. That's exactly what those thousand runs are for. Some of them are gentle, s
 
 So if your confidence number is 82%, that means 820 of those thousand runs succeeded on your numbers.
 
-Now here's the important part. The failing 18% is not the probability that you go broke. It's the probability that you'd need to make adjustments — spending a little less for a stretch, working a year longer, delaying a purchase. Failure in the simulation means the plan needed to bend. It doesn't mean you ended up with nothing.
+Now here's the important part. An 82% result means 820 of the 1,000 paths funded the plan as written. The other 180 fell short. Those paths tell you to test adjustments — spending a little less for a stretch, working a year longer, delaying a purchase. The score alone doesn't prove that one small change rescues all of them. And it isn't a forecast that you end up with nothing.
 
 == READING THE TWO TOGETHER ==
 
@@ -41,7 +40,7 @@ Age 60 at 82% confidence is a real answer. Age 60 at 55% confidence is the same 
 
 Let me show you what's actually happening under the hood, because this isn't just shuffling a portfolio return.
 
-Every one of those thousand futures runs your entire plan. It starts from your real balances today — your Bitcoin, your brokerage, your retirement accounts, your cash. In year one, every asset gets its own return based on your assumptions and its historical volatility. Then your actual life runs: income comes in, taxes go out, spending happens, withdrawals happen in your order, contributions and debt payments happen. You land on new balances. Then year two starts fresh with new market returns, and it does it again. Forty-5 years of that is one complete future.
+Every one of those thousand futures runs your entire plan. It starts from your real balances today — your Bitcoin, your brokerage, your retirement accounts, your cash. In year one, every asset gets its own return based on your assumptions and its historical volatility. Then your actual life runs: income comes in, taxes go out, spending happens, withdrawals happen in your order, contributions and debt payments happen. You land on new balances. Then year two starts fresh with new market returns, and it does it again. 45 years of that is one complete future.
 
 Then it runs another 999 futures with different markets and counts how many succeeded. Running your real life inside every path is what makes the answer sensitive to your plan, and not just to your portfolio.
 
@@ -65,7 +64,7 @@ The assets also don't run independently, because markets move together in the re
 
 Three things to keep in mind when you read yours:
 
-1. A high number means fewer adjustments. 82% doesn't mean an 18% chance of going broke — it means the plan needed to adjust in 180 of the thousand runs.
+1. A high number means fewer adjustments. 82% doesn't mean an 18% chance of going broke. It means 180 of the 1,000 paths came up short under the plan exactly as written.
 2. Watch for big moves, not small ones. Small run-to-run changes aren't meaningful. If a change to your plan moves the number 5 or 10 points, that's the change telling you something.
 3. And the number is directional. It's a stress test built on research and history, not a guarantee.
 

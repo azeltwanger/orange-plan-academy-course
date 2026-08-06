@@ -23,7 +23,7 @@ If it's one to 3 years out, you're still in short-term Treasuries or a high-yiel
 
 Three to 7 years out is where you can start taking some risk. A balanced mix of stocks and bonds, or something like an I-Bond ladder. I'd still keep Bitcoin out of that lane.
 
-And then 7 years or more is where a planned Bitcoin sell schedule can actually start to make sense. At that point, cash is the wrong answer, because the drag of holding cash that long is going to cost you more than the volatility would. If you are going to fund something out of Bitcoin, plan those sales into your low-bracket years, meaning the years when your income is small enough that the tax rate on those sales is low, and I'll cover how to find those years in the tax module.
+And then 10 years or more is where a planned Bitcoin sell schedule can actually start to make sense. At that point, cash is the wrong answer, because the drag of holding cash that long is going to cost you more than the volatility would. If you are going to fund something out of Bitcoin, plan those sales into your low-bracket years, meaning the years when your income is small enough that the tax rate on those sales is low, and I'll cover how to find those years in the tax module.
 
 == PRE-FUNDING VERSUS PAYING FROM FLOW ==
 

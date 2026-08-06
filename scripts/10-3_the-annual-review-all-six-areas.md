@@ -13,6 +13,8 @@ The six areas are: spending and cash reserve, allocation, debt, tax, custody, an
 
 Two logistics first. Put this review in the fall, October or November, because the tax area has a year-end deadline and you want time to act. And bring three things: your plan updated through your last monthly pass, because the facts go in before you think about strategy. Your notes from last year's review. And the checklist, so the review has a defined finish line.
 
+I'm using two snapshots of the couple here. Their retirement snapshot for spending and reserve, and their current working-year snapshot for debt and tax.
+
 == AREA 1: SPENDING AND CASH RESERVE ==
 
 Take our couple in retirement, 60 years old, spending $80,000 a year.
@@ -21,7 +23,7 @@ You run the annual review on retirement income and read the guardrail outcome. T
 
 The once-a-year pass is: re-center your target toward the 80% confidence level, cap any move at 10% in a year, and adjust for inflation.
 
-Then you refill the reserve. Their target is 18 months of spending, which is $120,000 of cash. If spending held or rose this year, you refill all the way. If spending got cut, you refill only partway, to about 12 months. And the 18-month target itself never moves. Bitcoin has historically recovered from major drawdowns in about 18 months, and the reserve is sized to cover exactly that stretch.
+Then you refill the reserve. Their target is 18 months of spending, which is $120,000 of cash. If spending held or rose this year, you refill all the way. If spending got cut, you refill only partway, to about 12 months. And a bad market doesn't change the target. 18 months is my planning default because sequence risk is most dangerous in the first few years, not a prediction of how long the next Bitcoin recovery takes.
 
 What good looks like: spending inside the guardrails, and the reserve at target or rebuilding on the rule. What bad looks like: a reserve at half its target for 2 years running. That's a plan quietly getting less safe.
 
@@ -31,7 +33,7 @@ Allocation drift happens without you doing anything wrong. Bitcoin runs faster t
 
 The gentle fix is to rebalance by directing new dollars. You point new contributions at whatever the plan is light on, and the drift corrects without selling anything you didn't plan to sell.
 
-And then re-ask the stress question at your new balance, because the answer moves even when the percentage doesn't. Say the portfolio grew from $500,000 to $800,000 this year. The same 75% drawdown was a $375,000 paper loss last year. This year it's $600,000. The percentage didn't move, but the number you'd have to sit through nearly doubled. Ask the question at the new number.
+And then re-ask the stress question at your new balance, because the answer moves even when the percentage doesn't. Say their Bitcoin position grew from $500,000 to $800,000 this year. The same 75% drawdown was a $375,000 paper loss last year. This year it's $600,000. The percentage didn't move, but the number you'd have to sit through nearly doubled. Ask the question at the new number.
 
 == AREA 3: DEBT ==
 
@@ -39,7 +41,7 @@ The debt question is: are the ratios in range, and is every debt still doing its
 
 The couple's mortgage, $280,000 at 3.25%, had the job of staying cheap while the difference got invested. Still cheap, still doing it. The car loan at 7% had a payoff schedule. Is it on schedule? Their debt-to-income is about $1,850 a month against $15,800 of income, roughly 12%, well in range. And their payments survive a drawdown, because income doesn't fall with the price.
 
-If you're borrowing against Bitcoin, add one more: is the cushion honest at the price on your review date? Would a 50% drawdown force a sale? What good looks like here is ratios in range and no loan that a 50% drop would liquidate.
+If you're borrowing against Bitcoin, add one more: is the cushion honest at the price on your review date? Would the drawdown in your written loan policy, 75% in this example, force a sale? What good looks like here is ratios in range and no loan that a 75% drop would liquidate.
 
 == AREA 4: TAX ==
 

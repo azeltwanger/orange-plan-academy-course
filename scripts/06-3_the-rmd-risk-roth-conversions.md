@@ -29,23 +29,23 @@ But I'm not telling you to try to time the bottom. Nobody knows where the bottom
 
 == WHAT AN RMD IS ==
 
-RMD stands for required minimum distribution. It's money the government forces you to take out of your traditional retirement accounts once you reach a certain age. Right now that age is 73, and you'll want to verify it in the year it applies to you, because Congress has moved it before.
+RMD stands for required minimum distribution. It's money the government forces you to take out of your traditional retirement accounts once you reach a certain age. Right now that age is 75 for anyone born in 1960 or later, and you'll want to verify it in the year it applies to you, because Congress has moved it before.
 
 The amount is your account balance divided by an IRS life-expectancy divisor. And that divisor shrinks every year you age, which means the forced withdrawal climbs every year. Every dollar of it is taxed as ordinary income, whether you needed the money or not.
 
 == THE COUPLE'S FUTURE RMD ==
 
-🎬 GRAPHIC: traditional-account balance growing left to right, hitting a wall labeled AGE 73, and a forced-withdrawal arrow pulling out of it that gets BIGGER every year after. The escalation is the point.
+🎬 GRAPHIC: traditional-account balance growing left to right, hitting a wall labeled AGE 75, and a forced-withdrawal arrow pulling out of it that gets BIGGER every year after. The escalation is the point.
 
 Let's build the couple's future RMD so you can see it coming.
 
-They're putting $12,000 a year into the 401(k), plus the employer match, which is 50% up to 6% of a $150,000 salary, so $4,500. That's $16,500 a year going in.
+To isolate what the future contributions do, I'm setting their existing $90,000 aside in this example and modeling only the next 15 years of traditional contributions. They're putting $12,000 a year into the 401(k), plus the employer match, which is 50% up to 6% of a $150,000 salary, so $4,500. That's $16,500 a year going in.
 
-Run that forward 15 more years at a 7% stock assumption, and at age 60 the balance is around $400,000. Then let it compound another 13 years with no new contributions, and by 73 it's around $1,000,000.
+Run that forward 15 more years at a 7% stock assumption, and at age 60 the balance is around $400,000. Then let it compound another 15 years with no new contributions, and by 75 it's around $1,100,000.
 
-Their first RMD is $1,000,000 divided by 26.5, which is about $38,000 of forced ordinary income.
+Their first RMD is $1,100,000 divided by 24.6, which is about $45,000 of forced ordinary income.
 
-Now stack it. At 73, that $38,000 RMD lands on top of their $51,600 of Social Security. That's $90,000 of ordinary income the couple didn't ask for, and it climbs every year because the divisor keeps shrinking.
+Now stack it. At 75, that $45,000 RMD lands on top of their $51,600 of Social Security. That's about $97,000 of ordinary income the couple didn't ask for, and it climbs every year because the divisor keeps shrinking.
 
 And if they never spend that money, their kids inherit the account with the tax still owed on it. Under current rules the kids have 10 years to empty it, and most people inherit in their 40s and 50s, which is usually when they're earning the most they'll ever earn. So that money often comes out at a higher rate than the parents would have paid on it.
 
@@ -53,7 +53,7 @@ And if they never spend that money, their kids inherit the account with the tax 
 
 Here's why I think Bitcoin holders need to care about this more than anyone else.
 
-Take the exact same contributions, but now with Bitcoin exposure inside the traditional account growing at 20% instead of 7%. At age 60, the balance isn't $400,000, it's around $1.2 million. By 73, it's around $12.5 million. And the first RMD is roughly $470,000 a year of forced ordinary income, at whatever rate the government has set in that decade.
+Take the exact same contributions, but now with Bitcoin exposure inside the traditional account growing at 20% instead of 7%. At age 60, the balance isn't $400,000, it's around $1.2 million. By 75, it's around $18.5 million. And the first RMD is roughly $750,000 a year of forced ordinary income, at whatever rate the government has set in that decade.
 
 The better Bitcoin performs inside a traditional account, the bigger the forced-income problem you're building. Success is what creates the trap.
 
@@ -77,7 +77,7 @@ Let's run it. The couple is 60, retired, with basically no earned income.
 
 They convert about $100,000. Subtract the standard deduction, around $31,400 when they ran this, and the taxable amount is about $68,000. That lands in the 12% bracket, and the tax comes out to roughly $7,700. Verify the deduction and the brackets in the year you convert, because they move.
 
-Now repeat that 4 years running, from 60 to 64, and the whole $400,000 balance is gone before it ever becomes a million. The total cost was about $30,000 in tax, paid on their schedule, to retire a bill that was heading for a much higher rate.
+Now repeat that 4 years running, from 60 to 63, and they move roughly $400,000 out of traditional, plus or minus whatever the account earns during that window. Read the remaining balance off the app before the last conversion. The total cost was about $30,000 in tax, paid on their schedule, to retire a bill that was heading for a much higher rate.
 
 == PAY THE TAX FROM OUTSIDE THE ROTH ==
 
@@ -103,7 +103,7 @@ And for completeness, there's also something called 72(t), which allows penalty-
 
 Your homework for this lesson is to:
 
-1. Estimate your tax-deferred balance at age 73, using your real contribution rate and an honest growth assumption.
+1. Estimate your tax-deferred balance at your RMD age, using your real contribution rate and an honest growth assumption.
 2. Divide it by about 26 for a first-year RMD estimate, and add your expected Social Security on top.
 3. If that total pushes you into a higher bracket than your bridge years, a Roth conversion schedule is worth modeling. Build the model, and bring it to your CPA.
 

@@ -77,7 +77,7 @@
 
 **SEE** Reserve read: **Reserve buffer** strip *"{N} yrs · without selling investments"*
 
-**⚠** Refill by hand on the L3 rule: good year → $120k (18 months) · cut year → stop around 12 of 18 (~$80k). The target itself never moves.
+**⚠** Refill by hand on the L3 rule: good year → $120k (18 months) · cut year → stop around 12 of 18 (~$80k). A bad market doesn't change the target.
 
 **⚠** Don't invent status words. There is no "Refilling/Paused/Critical" in the app. Read the tiles and the strip as they are.
 

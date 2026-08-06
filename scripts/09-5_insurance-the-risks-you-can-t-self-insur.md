@@ -13,7 +13,7 @@ Early on, that gap is huge, and insurance covers it cheaply. As the stack compou
 
 Let's size the gap by running the Denver scenario forward 1 year. He's gone, and his $150,000 income went with him. She earns $40,000. They spend $80,000. Two kids and a mortgage.
 
-$80,000 of spending minus $40,000 of income is a $40,000-a-year hole, in a plan that was working fine a week ago. That hole is what insurance is for.
+$80,000 of living spending plus $22,000 of debt payments is $102,000 they still have to cover. Minus her $40,000 of income, that's a $62,000-a-year hole, in a plan that was working fine a week ago. That hole is what insurance is for.
 
 == TERM LIFE: THE ANCHOR ==
 
@@ -21,11 +21,11 @@ The anchor product is term life. It covers you for a set number of years, 20 or 
 
 The standard rule of thumb is 10 times income, which for him would be $1.5 million. But that number was built for a household with no Bitcoin. So let's do the math against their actual plan instead.
 
-Step one: the annual hole is $40,000. Step two: the years to cover. She's 43, and they're covering to 65, so that's 22 years. $40,000 times 22 is $880,000. Step three: subtract what the stack already covers, which is $175,000. $880,000 minus $175,000 is about $700,000.
+Step one: the annual hole is $62,000. Step two: the years to cover. She's 43, and they're covering to 65, so that's 22 years. $62,000 times 22 is $1,364,000. Step three: subtract what the stack already covers, which is $175,000. That leaves about $1.19 million.
 
-So the rule of thumb was off by more than double, and that's a real difference in premium, every month, for 22 years.
+So the $1.5 million rule of thumb is about $300,000 higher than the gap they actually have, and that's a real difference in premium, every month, for 22 years.
 
-And here's the part that makes this Bitcoin-specific: if the stack does what they're planning for, that $700,000 need shrinks every year without them buying or cancelling anything. That's the case for laddering, which is stacking terms, a longer base policy and a shorter top-up, so your coverage steps down as the stack steps up.
+And here's the part that makes this Bitcoin-specific: if the stack does what they're planning for, that $1.19 million need shrinks every year without them buying or cancelling anything. That's the case for laddering, which is stacking terms, a longer base policy and a shorter top-up, so your coverage steps down as the stack steps up.
 
 One thing about timing. Term life is underwritten on your current health and priced by your age, so every year of waiting makes it more expensive. If a family depends on you and you're holding no coverage, I'd treat this as a this-month item, not a someday item.
 
@@ -35,9 +35,9 @@ And one warning, because Bitcoiners get targeted hard with this: the permanent-l
 
 The second piece is disability, and it's under-owned by almost everyone. During your working years, you're statistically more likely to become disabled than to die. And it hits the plan in two places at once: your income stops, and the surplus flywheel stops with it.
 
-Employer coverage is often around 60%, which sounds like $90,000 for him. But take the cap and the tax off first. Group policies usually cap the monthly benefit, and if the employer paid the premium, the benefit is taxable. So what actually lands might be closer to $50,000. Add her $40,000, and they've got $90,000 against $80,000 of spending.
+Employer coverage is often around 60%, which sounds like $90,000 for him. But take the cap and the tax off first. Group policies usually cap the monthly benefit, and if the employer paid the premium, the benefit is taxable. So what actually lands might be closer to $50,000. Add her $40,000, and they've got $90,000 against $102,000 of all-in household outflow. So they're still about $12,000 short on this rough pass, and the real comparison needs both numbers stated after tax.
 
-They survive on that. But notice what happened: they stopped buying Bitcoin. The plan didn't die, but it stopped growing.
+They cover most of it, but they're still about $12,000 short on this rough pass. They'd have to cut spending, add supplemental coverage, or pull the difference from the reserve. And notice what else happened: they stopped buying Bitcoin. The plan didn't die, but it stopped growing.
 
 Two things to go find out about your own policy. First, what it actually pays, after the cap and the tax. And second, how it defines disability. Own-occupation pays if you can't do your job. Any-occupation only pays if you can't do any job at all, which is a much higher bar. If the gap is real, price a supplement.
 

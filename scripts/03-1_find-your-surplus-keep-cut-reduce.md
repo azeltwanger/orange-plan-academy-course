@@ -59,7 +59,7 @@ The second one is what you could survive on if things got ugly. That's your bare
 
 Let me walk through the couple's floor. Their housing is $2,300 a month. Their car payment is $360. Groceries are $1,200. Utilities and phone are $500. Insurance is $400. And then gas and the kids' costs are $240. Add all of that up and you get $5,000 a month.
 
-Their normal spending is $6,700 a month. Their floor is $5,000. So that $1,700 a month gap is the travel, the eating out, and the extras that would pause in a bad year.
+Their normal spending is $6,700 a month, and their debt payments are another $1,850 on top, so about $8,550 all in. Their floor is $5,000 all in. So that $3,550 a month gap is the travel, the eating out, and the extras that would pause in a bad year.
 
 That bare-bones number is what your cash reserve gets sized off of.
 

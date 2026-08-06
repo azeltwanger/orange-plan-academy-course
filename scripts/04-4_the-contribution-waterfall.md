@@ -31,15 +31,15 @@ So the logic of the whole ladder is: free money first, guaranteed high returns s
 
 A few special cases. If you don't have an employer match, skip rung 1. If you're not HSA-eligible, like me, skip rung 3. If you don't have any high-interest debt, skip rung 2.
 
-And if your income is too high to contribute to a Roth IRA directly, look up the Backdoor Roth. You contribute non-deductible dollars to a traditional IRA and then convert it. One warning on that: it requires you to not have other pre-tax IRA balances sitting around, because of something called the pro-rata rule. Verify that one for your situation before you do it.
+And if your income is too high to contribute to a Roth IRA directly, look up the Backdoor Roth. You contribute non-deductible dollars to a traditional IRA and then convert it. One warning on that: existing pre-tax IRA balances don't prevent it, but they do make part of the conversion taxable under the pro-rata rule. So check what you're already holding in traditional IRAs first, and verify that one for your situation before you do it.
 
 == RUNNING THE COUPLE ==
 
 Let's run the couple's $4,000 a month of surplus down the ladder.
 
-Rung 1: they put $1,000 a month into the 401(k), which captures the full 50%-up-to-6% match. That's $12,000 a year going in. Rung 2: they don't have any high-interest debt, so it's skipped. Rung 3: $300 a month into the HSA, building the medical Legacy fund. Rung 4: $583 a month into the Roth IRA, which maxed the IRA limit in the year they ran this. Rung 5: they skip additional traditional contributions for now. And rung 6: the remaining $2,117 a month goes to Bitcoin and taxable, split between Bridge and Legacy.
+Rung 1: they put $750 a month into the 401(k). That's 6% of his $150,000 salary, which captures the full match. Rung 2: they don't have any high-interest debt, so it's skipped. Rung 3: $300 a month into the HSA, building the medical Legacy fund. Rung 4: $583 a month into the Roth IRA, which maxed the IRA limit in the year they ran this. Rung 5: another $250 a month into the 401(k) past the match, which gets them to $12,000 a year. And rung 6: the remaining $2,117 a month goes to Bitcoin and taxable, split between Bridge and Legacy.
 
-Add it up: $1,000 plus $300 plus $583 plus $2,117 is the full $4,000, spent exactly once. Every dollar has a route. Nothing is left over to figure out later.
+Add it up: $750 plus $300 plus $583 plus $250 plus $2,117 is the full $4,000, spent exactly once. Every dollar has a route. Nothing is left over to figure out later.
 
 == THE ROUTING CARD ==
 

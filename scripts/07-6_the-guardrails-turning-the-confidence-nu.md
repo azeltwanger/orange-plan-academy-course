@@ -21,7 +21,7 @@ The classic 4% rule takes the same inflation-adjusted dollars out every year no 
 
 Run it on the couple. They're 60, retired, with a $1,000,000 portfolio and $80,000 of spending. Bitcoin drops 60%, and the portfolio falls to $400,000. The fixed rule says sell $80,000 anyway. That's 20% of everything they have left, sold at the bottom. Recovery takes a couple of years, and the rule makes them do it again the next year.
 
-But the whole problem only lasts 1 to 3 years. That's the window. So what you need is a spending rule that flexes during exactly those years.
+But the risk is usually most acute in the first few years. That's the window. And for this one, assume the whole $1,000,000 is riding on Bitcoin. So what you need is a spending rule that flexes during exactly those years.
 
 == THE 60/80/95 BANDS ==
 
@@ -53,7 +53,7 @@ One reframe that makes this whole system click: the futures that fail at 80% con
 
 By year 15, the portfolio has grown into the withdrawals, so a bad year is a dent. In year 2, every dollar of spending is coming out of a pile that's already shrinking, and the pile never gets back.
 
-So 80% means 8 in 10 futures needed no changes at all. And in the other 2, the plan survives if you cut for a while. That's why the guardrails exist. The confidence number is an early-warning signal, not a grade.
+So 80% means 8 in 10 futures funded the plan as written. In the other 2, the plan fell short as written. A temporary cut is one of the first responses you test, but the score alone doesn't prove it rescues every path. That's why the guardrails exist. The confidence number is an early-warning signal, not a grade.
 
 == RUNNING THE ANNUAL REVIEW ON THE COUPLE ==
 
@@ -65,7 +65,7 @@ A crash happens. At the annual review, confidence reads 61. That's the lower gua
 
 And if instead it had come back at 96, that's the upper guardrail: raise 10%, so $72,000 plus about $7,000 puts them back around $79,000, walking the spending back up.
 
-Notice the shape: a 20-point fall got a 10-point correction this year, and you look again next year. That's what keeps the paycheck stable instead of swinging with the market.
+Notice the shape: a 20-point fall in confidence got a 10% spending cut this year, and you look again next year. That's what keeps the paycheck stable instead of swinging with the market.
 
 One more thing the upper guardrail does, and I think it's underrated: most retirees under-spend out of fear. The upper guardrail is the plan telling you, with math behind it, that you're allowed to raise the paycheck. That permission is worth a lot.
 
@@ -73,9 +73,9 @@ One more thing the upper guardrail does, and I think it's underrated: most retir
 
 Last piece: the reserve refill runs off this same annual review. For the couple, the target is 18 months times $80,000, which is $120,000 of cash.
 
-If spending held or rose, refill fully. If spending got cut, refill partway, to about 12 of the 18 months. And the target itself stays 18 months no matter what. A cut year slows the refill. It never shrinks the target.
+If spending held or rose, refill fully. If spending got cut, refill partway, to about 12 of the 18 months. And a bad market doesn't change the target. The target changes when your spending changes, when your income floor changes, or when you deliberately change the policy. A bad year changes only the refill pace.
 
-One thing to keep in mind: the guardrail bands and the 10% cap are defaults that come out of published research, sized here for Bitcoin's volatility. They're a starting point for a conversation, not a rule you have to adopt. If you're working with a planner, this is a good page to bring them.
+One thing to keep in mind: the guardrail concept and the 10% adjustment are adapted from published research. The 60, 80, and 95 confidence thresholds are Orange Plan defaults. They're a starting point for a conversation, not a rule you have to adopt. If you're working with a planner, this is a good page to bring them.
 
 == HOMEWORK ==
 

@@ -23,7 +23,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ## ☐ ONE-TIME SETUP (before any filming)
 
 ☐ Fresh demo account seeded with the couple's numbers (card: income $190k · spending $80k · 1.75 BTC · $280k mortgage @3.25% · $18k car @7% · 401k $12k/yr · Roth $7k/yr)
-☐ Retirement-era demo state ready for Modules 6/9/10 ($80k spend · $120k reserve · $400k taxable BTC · $600k trad · $200k Roth · $51,600/yr SS)
+☐ Retirement-era demo state ready for Modules 6/9/10 ($80k spend · $120k reserve · $600k taxable BTC · $400k trad · $200k Roth · $51,600/yr SS combined)
 ☐ Clean browser profile: notifications off, bookmarks bar hidden, no personal tabs
 ☐ Teleprompter loaded from `scripts/` in file order (teach lessons only — walkthroughs are NOT scripted)
 ☐ Walkthrough sheets open on a second screen during captures: **DO** = click path · **SEE** = point at this · **⚠** = don't get this wrong. Narrate in your own words
@@ -49,7 +49,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ## ☐ MODULE 2 — Cash Flow + Reserve
 
 ☐ 3.1 Find your surplus — 🎙 film `03-1`
-☐ 3.2 Size the reserve — 🎙 film `03-2` (your dictation — 18-month drawdown figure)
+☐ 3.2 Size the reserve — 🎙 film `03-2` (your dictation — 18 months as the sequence-risk planning default, not a BTC-recovery prediction)
 ☐ 3.3 Every future cost a lane — 🎙 film `03-3`
 ☐ 3.4 Walkthrough: cash flow + reserve — 🖥 capture `03.4` (10 steps)
 ☐ Module 2: edit → upload → paste lesson text (03-1 … 03-4)

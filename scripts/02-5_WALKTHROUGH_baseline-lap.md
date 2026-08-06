@@ -83,7 +83,7 @@
 
 **SEE** Ring + verdict word + sampling range date
 
-**⚠ 🚩 BANDS CHANGING (item 39).** Read the verdict **word** off the screen. Do not speak the threshold numbers — they're moving to 80/70 and the footage would go stale.
+**⚠** Read the verdict **word** and the thresholds off the screen as the app shows them.
 
 **⚠** The date says *when*. The ring says *how sturdy*.
 

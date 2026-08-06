@@ -49,7 +49,7 @@ If they claim Social Security at 67, their full retirement age, that's 7 bridge 
 
 If they claim at 62, the earliest allowed, that's 2 bridge years. 2 times $84,000 is $168,000.
 
-That's a $420,000 difference in what lands on the portfolio, from one claiming decision. Hold that thought, because we're coming back to it.
+That's a $420,000 difference in the years the portfolio carries alone. It isn't the whole difference, because claiming at 62 means a permanently smaller check, so the portfolio keeps covering part of the gap after 62 either way. Hold that thought, because we're coming back to it.
 
 == WHY THE BRIDGE IS HARD ==
 

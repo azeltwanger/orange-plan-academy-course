@@ -9,7 +9,7 @@ In our example, we have a couple that's holding 1.75 Bitcoin. Back in 2022, duri
 
 On the flip side of this, if you hold too much cash, you have the opposite problem. That money just sits there losing to inflation, and it's going to drag your returns over longer periods of time. What we're going to do in this lesson is find the right number for you in your life that's somewhere in the middle.
 
-The good news, and where I like to start, is that Bitcoin's major drawdowns have historically taken about 18 months to recover. I think this is a good starting place for the window that your reserve needs to cover.
+For retirement, I use 18 months as a planning default, because the first few years after you stop working are when sequence risk is most dangerous. It's not a prediction of how long the next Bitcoin recovery takes.
 
 == THE FORMULA ==
 
@@ -43,7 +43,7 @@ Now, your reserve is going to change as you move into retirement. While you're w
 
 Instead, this is going to cover the gap between what you spend and what's coming in from other income sources, like Social Security or, if you have one, a pension. The purpose of your reserve in retirement is there so that a bear market doesn't force you to sell Bitcoin to cover your expenses at the wrong time.
 
-Let's say that we have a couple that's 67 years old. They're spending $80,000 a year, and they're getting about $51,600 from Social Security, so this is going to leave a gap of around $2,400 a month. The baseline in retirement is 18 months of that gap, so their target is going to come out to around $43,000 that they're going to want in a reserve. They went from $30,000 while working to $43,000 as they transition into retirement. They're spending the same amount of money, but the target is about 40% larger, because the reserve is now doing a different job, and they're going to be spending the money that they need to live off of from their reserve.
+Let's say that we have a couple that's 67 years old. They're spending $80,000 a year, and they're getting about $51,600 from Social Security, so this is going to leave a gap of around $2,400 a month. The baseline in retirement is 18 months of that gap, so their target is going to come out to around $43,000 that they're going to want in a reserve. They went from $30,000 while working, up to $120,000 in the early retirement years when the portfolio funds all of it, and then to $43,000 once Social Security is covering part of the spending. They're spending the same amount of money, but the target is about 40% larger, because the reserve is now doing a different job, and they're going to be spending the money that they need to live off of from their reserve.
 
 Now, after several years into retirement, the risk of needing to sell assets at an inopportune time, and the impact that's going to have on your financial plan, is going to start to fade away. This is because research has shown that sequence-of-returns risk — which is the risk that your portfolio drops right after you retire — starts to go down after you hit 5 years retired.
 

@@ -234,7 +234,7 @@ Here's the couple's 1.5 BTC on a hardware wallet with a passphrase:
 - **Her brother, the executor, holds the passphrase.** The extra word. Doesn't unlock anything without the seed.
 - **Together, they have full access. Apart, they have nothing.**
 
-If her brother turns out wrong, he gets nothing. If she loses her card, the passphrase holder still has half of the plan. No single bad day or bad person costs them $175,000.
+If her brother turns out wrong, he gets nothing. If she loses her card, the passphrase holder still has half of the plan. No single bad day or bad person costs them the $150,000 behind that split.
 
 Keep the executor and the heirs as different people wherever you can.
 
@@ -610,8 +610,8 @@ Rule of thumb: 10 times income. For him, $1.5M. But that number was built for a 
 Do the math against their actual plan:
 
 1. **Annual hole:** $40,000.
-2. **Years to cover:** she's 43, covering to 65 = 22 years. $40,000 × 22 = **$880,000**.
-3. **Subtract what the stack already covers:** $175,000. $880,000 - $175,000 = **~$700,000**.
+2. **Years to cover:** she's 43, covering to 65 = 22 years. $62,000 × 22 = **$1,364,000**.
+3. **Subtract what the stack already covers:** $175,000. $1,364,000 - $175,000 = **~$1.19M**.
 
 The rule of thumb was off by more than double. A real difference in premium every month, for 22 years.
 

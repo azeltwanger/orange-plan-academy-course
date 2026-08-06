@@ -105,7 +105,7 @@ Now run that same loan at a 50% starting LTV, and a 40% price drop hits the marg
 
 Five rules, and I'd write these down before you borrow a single dollar.
 
-One: start low enough to survive a 70 to 80% drawdown. For most people that's going to mean 20 to 25%, not the 40 or 50% that a lender will happily hand you.
+One: start low enough to survive a 70 to 80% drawdown. For most people that's going to mean 10 to 15%, not the 40 or 50% that a lender will happily hand you.
 
 Two: keep unpledged Bitcoin or cash that you can reach fast, so a margin call actually has a good answer.
 

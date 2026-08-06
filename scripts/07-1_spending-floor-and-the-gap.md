@@ -47,7 +47,7 @@ Write both of those ratios down.
 
 Now, here's the part that surprises people: these three numbers don't sit still, because your income floor doesn't turn on all at once.
 
-Take the couple. They're 59 now, retiring next year. In year one, they're still working: $190,000 coming in, $80,000 going out, a $110,000 surplus. In year two, they're retired and Social Security hasn't started: income is zero, spending has inflated to about $84,000, so the gap is the whole $84,000. In year three, some Social Security turns on, call it $38,000, and the gap shrinks to $46,000. Year four, more of the floor arrives, and the gap is down to $34,000.
+Take the couple. They're 59 now, retiring next year. In year one, they're still working: $190,000 coming in, $80,000 going out, a $48,000 surplus. In year two, they're retired and Social Security hasn't started: income is zero, spending has inflated to about $84,000, so the gap is the whole $84,000. At 62, if he claims then, about $38,000 of Social Security turns on and the gap shrinks to $46,000. When her benefit arrives, the gap comes down again.
 
 Look at the shape of that. The gap is largest right after your last paycheck, and it shrinks as the floor turns on. Which means the biggest demand on your portfolio lands in the first few years after you stop working. Those are your bridge years.
 

@@ -41,9 +41,9 @@ Let's walk through the math, because the numbers make it click.
 
 Say you post $50,000 of Bitcoin as collateral, and the lender's liquidation LTV is 80%.
 
-In scenario A, you borrow $12,500, which is a 25% starting LTV. The liquidation point is $12,500 divided by 0.80, which is $15,625. So Bitcoin has to fall from $50,000 down to $15,625 before you get the margin call. That's a 69% drop. And here's the problem: Bitcoin fell 84% in 2018 and 77% in 2022. So a 69% cushion is right at the edge of drawdowns that have actually happened. That's not enough.
+In scenario A, you borrow $12,500, which is a 25% starting LTV. The liquidation point is $12,500 divided by 0.80, which is $15,625. So Bitcoin has to fall from $50,000 down to $15,625 before liquidation, and the margin call would normally come earlier than that. That's a 69% drop. And here's the problem: Bitcoin fell 84% in 2018 and 77% in 2022. So a 69% cushion is right at the edge of drawdowns that have actually happened. That's not enough.
 
-In scenario B, you borrow $6,250 instead, which is a 12.5% starting LTV. Now the liquidation point is $6,250 divided by 0.80, which is $7,812. Bitcoin has to fall 84% before you're in trouble. Now you can survive a 2018-style bear.
+In scenario B, you borrow $6,250 instead, which is a 12.5% starting LTV. Now the liquidation point is $6,250 divided by 0.80, which is $7,812. Bitcoin has to fall 84% to get there. That's dramatically safer than 25%, but an 84% decline still puts you right at the edge of the liquidation line before any interest, so it's the edge and not a comfortable cushion.
 
 Notice what happened there: you cut the starting LTV in half, and the danger line moved dramatically further away. That's the lever.
 
@@ -51,7 +51,7 @@ Notice what happened there: you cut the starting LTV in half, and the danger lin
 
 So here's where I land on this. If you're going to borrow against Bitcoin, size the cushion to survive a 70 to 80% drawdown at minimum, because that's the normal Bitcoin cycle, not a worst case.
 
-In practice, that usually means starting at 20 to 25% LTV, not 40 or 50%. Anything higher than that, and a completely normal Bitcoin bear market turns into a forced-sale event for you, at the worst possible price.
+In practice, that usually means starting at 10 to 15% LTV, not 40 or 50%. Anything higher than that, and a completely normal Bitcoin bear market turns into a forced-sale event for you, at the worst possible price.
 
 And I'll say the obvious thing here, because borrowing against your Bitcoin is the highest-stakes move in this whole course: I'm not telling you to take one of these loans. Lending terms, margin-call rules, and who's actually holding your collateral vary a lot by lender, so read the actual agreement and run it past somebody who represents you before you sign anything.
 

@@ -101,7 +101,7 @@ If you use high Bitcoin returns, the plan pulls your retirement date closer and 
 
 Let's say we have someone who's 45 with 1.75 Bitcoin and $80,000 a year of spending:
 
-- **Bitcoin at 40% forever** (a deliberately conservative number, well under what Bitcoin has actually done). Earliest retirement lands around **age 50**.
+- **Bitcoin at 40% forever** (a deliberately optimistic number). Earliest retirement lands around **age 50**.
 - **Bitcoin at 20% now, declining as adoption grows.** Earliest retirement moves to around **age 58**.
 
 Eight years, from one input. Nothing else about their situation changed.

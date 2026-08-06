@@ -25,7 +25,7 @@ The entire decision here is the LTV, the loan-to-value ratio, which is the loan 
 
 And that ratio moves on its own, for two reasons. Interest pushes the loan balance up, and a price drop pulls the collateral down. So the ratio can climb fast without you doing anything at all. That's why the starting ratio is the whole decision.
 
-Let me price the couple's actual borrowing capacity. My own default is 10 to 20% LTV. On their $400,000 of collateral, that's $40,000 to $80,000 of capacity. Notice what that means: 1 year of spending uses their entire capacity at the top of the conservative range.
+Let me price the couple's actual borrowing capacity. My own default is 10 to 15% LTV. On their $400,000 of collateral, that's $40,000 to $60,000 of capacity. Notice what that means: 1 year of spending uses their entire capacity at the top of the conservative range.
 
 Now watch what a year does to it. At a 10 to 11% rate, the $80,000 loan grows to about $88,000 a year later with nothing paid. Then drop Bitcoin 50%, which is normal, not extreme. The collateral is now $200,000, so $88,000 against $200,000 is 44% LTV. The cushion is gone. They can't borrow again next year, and they're one more leg down from liquidation.
 
@@ -63,7 +63,7 @@ So say that number is around $100,000 of gains for your situation. Selling up to
 
 Now, what about the dollar right after that line? That one gets taxed at 15%.
 
-And here's the move: 15% is usually more expensive than the interest rate on a Bitcoin-backed loan. So instead of selling past the line and paying 15%, you sell up to the line and you borrow the rest.
+And here's the move: the 15% is a one-time cost and the loan rate is annual, so compare that one-time tax against the total interest over however long you'd carry the loan. So instead of selling past the line and paying 15%, you sell up to the line and you borrow the rest.
 
 What you're saving is the difference between that 15% capital gains rate and the loan's interest rate. And you're doing it without giving up the Bitcoin.
 

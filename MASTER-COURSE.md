@@ -216,7 +216,7 @@ If you use high Bitcoin returns, the plan pulls your retirement date closer and 
 
 Let's say we have someone who's 45 with 1.75 Bitcoin and $80,000 a year of spending:
 
-- **Bitcoin at 40% forever** (a deliberately conservative number, well under what Bitcoin has actually done). Earliest retirement lands around **age 50**.
+- **Bitcoin at 40% forever** (a deliberately optimistic number). Earliest retirement lands around **age 50**.
 - **Bitcoin at 20% now, declining as adoption grows.** Earliest retirement moves to around **age 58**.
 
 Eight years, from one input. Nothing else about their situation changed.
@@ -916,7 +916,7 @@ You need two:
 
 The couple's floor walk: $2,300 housing + $360 car + $1,200 groceries + $500 utilities and phone + $400 insurance + $240 gas and kids = **$5,000/mo**.
 
-Their normal is $6,700/mo. Floor is $5,000/mo. The $1,700/mo gap is travel, eating out, and extras that pause in a bad year.
+Their normal is $6,700/mo, plus $1,850/mo of debt payments, so about $8,550/mo all in. Floor is $5,000/mo all in. The $3,550/mo gap is travel, eating out, and extras that pause in a bad year.
 
 The bare-bones number is what your cash reserve gets sized off of.
 
@@ -961,7 +961,7 @@ The couple holds 1.75 Bitcoin. In 2022, Bitcoin dropped 77% peak to bottom. If a
 
 Hold too much cash, though, and the drag costs the plan for years. This lesson sizes the middle.
 
-Bitcoin's major drawdowns have historically taken about 18 months to recover. That's the window the reserve is sized against.
+For retirement, 18 months is the planning default, because the first few years after you stop working are when sequence risk is most dangerous. It is not a prediction of how long the next Bitcoin recovery takes.
 
 ### The formula
 
@@ -1087,12 +1087,12 @@ The lane depends on how far away the cost is. The further out, the more volatili
 |---|---|---|
 | 0 to 1 year | High-yield savings, T-bills, CDs | Anything volatile. Treat like part of the reserve. |
 | 1 to 3 years | T-bills, short-term Treasuries, HYSA | Stocks, Bitcoin |
-| 3 to 7 years | Balanced mix of stocks and bonds, I-Bond ladders | Bitcoin |
-| 7+ years | A planned Bitcoin sell schedule can start here | Cash (drag is too high) |
+| 3 to 10 years | Balanced mix of stocks and bonds, I-Bond ladders | Bitcoin |
+| 10+ years | A planned Bitcoin sell schedule can start here | Cash (drag is too high) |
 
 > ⚠ (3.3 redesign, item 18): the timeframe-lane table above is the one slated for replacement.
 
-For 7+ year costs, plan the sales into low-bracket years (Module 5).
+For 10+ year costs, plan the sales into low-bracket years (Module 5).
 
 ### Pre-funding vs paying from flow
 
@@ -1631,7 +1631,7 @@ If everything is down in a coordinated drawdown, draw from the Reserve. That's w
 
 ### Set a target percentage for each bucket
 
-Each bucket has both a current balance and a target: the percentage of your net worth it should be at.
+Each bucket has both a current balance and a target: the percentage of your investable assets it should be at.
 
 - **Working, Sovereign-tier household:** 5% Reserve / 15% Bridge / 80% Legacy.
 - **Approaching retirement:** 10% Reserve (bigger buffer for sequence risk) / 30% Bridge / 60% Legacy.
@@ -5536,7 +5536,7 @@ Here's the couple's 1.5 BTC on a hardware wallet with a passphrase:
 - **Her brother, the executor, holds the passphrase.** The extra word. Doesn't unlock anything without the seed.
 - **Together, they have full access. Apart, they have nothing.**
 
-If her brother turns out wrong, he gets nothing. If she loses her card, the passphrase holder still has half of the plan. No single bad day or bad person costs them $175,000.
+If her brother turns out wrong, he gets nothing. If she loses her card, the passphrase holder still has half of the plan. No single bad day or bad person costs them the $150,000 behind that split.
 
 Keep the executor and the heirs as different people wherever you can.
 
@@ -5912,8 +5912,8 @@ Rule of thumb: 10 times income. For him, $1.5M. But that number was built for a 
 Do the math against their actual plan:
 
 1. **Annual hole:** $40,000.
-2. **Years to cover:** she's 43, covering to 65 = 22 years. $40,000 × 22 = **$880,000**.
-3. **Subtract what the stack already covers:** $175,000. $880,000 - $175,000 = **~$700,000**.
+2. **Years to cover:** she's 43, covering to 65 = 22 years. $62,000 × 22 = **$1,364,000**.
+3. **Subtract what the stack already covers:** $175,000. $1,364,000 - $175,000 = **~$1.19M**.
 
 The rule of thumb was off by more than double. A real difference in premium every month, for 22 years.
 
@@ -6459,7 +6459,7 @@ Then refill the reserve. Target: 18 months of spending = $120,000 cash.
 - Spending held or rose: refill all the way to $120,000.
 - Spending got cut: refill only partway. About 12 months, so ~$80,000.
 
-The 18-month target itself never moves. Bitcoin has historically recovered from major drawdowns in about 18 months. The reserve is sized to cover that stretch.
+A bad market doesn't change the target. 18 months is the planning default because sequence risk is most dangerous in the first few years, not a prediction of how long the next Bitcoin recovery takes.
 
 - **Good:** spending inside guardrails, reserve at $120K or rebuilding on the rule.
 - **Bad:** reserve at half its target for two years running.

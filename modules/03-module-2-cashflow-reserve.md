@@ -82,7 +82,7 @@ You need two:
 
 The couple's floor walk: $2,300 housing + $360 car + $1,200 groceries + $500 utilities and phone + $400 insurance + $240 gas and kids = **$5,000/mo**.
 
-Their normal is $6,700/mo. Floor is $5,000/mo. The $1,700/mo gap is travel, eating out, and extras that pause in a bad year.
+Their normal is $6,700/mo, plus $1,850/mo of debt payments, so about $8,550/mo all in. Floor is $5,000/mo all in. The $3,550/mo gap is travel, eating out, and extras that pause in a bad year.
 
 The bare-bones number is what your cash reserve gets sized off of.
 
@@ -127,7 +127,7 @@ The couple holds 1.75 Bitcoin. In 2022, Bitcoin dropped 77% peak to bottom. If a
 
 Hold too much cash, though, and the drag costs the plan for years. This lesson sizes the middle.
 
-Bitcoin's major drawdowns have historically taken about 18 months to recover. That's the window the reserve is sized against.
+For retirement, 18 months is the planning default, because the first few years after you stop working are when sequence risk is most dangerous. It is not a prediction of how long the next Bitcoin recovery takes.
 
 ### The formula
 
@@ -253,12 +253,12 @@ The lane depends on how far away the cost is. The further out, the more volatili
 |---|---|---|
 | 0 to 1 year | High-yield savings, T-bills, CDs | Anything volatile. Treat like part of the reserve. |
 | 1 to 3 years | T-bills, short-term Treasuries, HYSA | Stocks, Bitcoin |
-| 3 to 7 years | Balanced mix of stocks and bonds, I-Bond ladders | Bitcoin |
-| 7+ years | A planned Bitcoin sell schedule can start here | Cash (drag is too high) |
+| 3 to 10 years | Balanced mix of stocks and bonds, I-Bond ladders | Bitcoin |
+| 10+ years | A planned Bitcoin sell schedule can start here | Cash (drag is too high) |
 
 > ⚠ (3.3 redesign, item 18): the timeframe-lane table above is the one slated for replacement.
 
-For 7+ year costs, plan the sales into low-bracket years (Module 5).
+For 10+ year costs, plan the sales into low-bracket years (Module 5).
 
 ### Pre-funding vs paying from flow
 

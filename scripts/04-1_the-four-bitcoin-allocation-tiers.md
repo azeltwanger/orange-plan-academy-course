@@ -9,11 +9,11 @@ Your allocation is just the share of your money that's in Bitcoin. But the part 
 
 == WHAT YOU DIVIDE BY ==
 
-Let me show you what I mean with our couple. They're holding 1.75 Bitcoin, and at $100,000 a coin, that's $175,000. Outside of Bitcoin, they have $90,000 in index funds, $30,000 in cash, and $450,000 of home equity.
+Let me show you what I mean with our couple. They're holding 1.75 Bitcoin, and at $100,000 a coin, that's $175,000. Outside of Bitcoin, they have $90,000 in index funds, $30,000 in cash, and a $450,000 house.
 
-If you divide by their investable assets only, that's $175,000 divided by $295,000, which is about 60%. But if you divide by their total net worth, including the house, that's $175,000 divided by $745,000, which is about 24%.
+If you divide by their investable assets only, that's $175,000 divided by $295,000, which is about 60%. But if you divide by everything they own, including the house, that's $175,000 divided by $745,000, which is about 24%.
 
-Both of those numbers are legitimate. The investable number shows you how the growth engine is running. The net worth number shows you how exposed your whole balance sheet is. I'd know both of yours.
+Both of those numbers are legitimate. Net of their debts their actual net worth is $447,000, so Bitcoin is about 39% of that. The investable number shows you how the growth engine is running. The gross number shows you how exposed your whole balance sheet is. Use the investable number for the tier, and treat the other two as context.
 
 == WHAT SETS A RESPONSIBLE ALLOCATION ==
 
@@ -49,7 +49,7 @@ When both of those are at the same tier, the position is supported. When your al
 
 == PLACING THE COUPLE ==
 
-Let's place our couple. Their allocation is 60% of investable, 24% of net worth, so they're in Optimization-to-Sovereign territory. Their custody is $150,000 on a hardware wallet and $25,000 still on an exchange, which is hardware-wallet level, appropriate for Optimization. And their conviction is high. Bitcoin is a main growth driver for them.
+Let's place our couple. Their allocation is 60% of investable, 24% of everything they own, so they're in Optimization-to-Sovereign territory. Their custody is $150,000 on a hardware wallet and $25,000 still on an exchange, which is hardware-wallet level, appropriate for Optimization. And their conviction is high. Bitcoin is a main growth driver for them.
 
 So I'd call them Sovereign, working on it. And their homework is clear: move that $25,000 off the exchange and close the gap.
 

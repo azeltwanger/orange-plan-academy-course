@@ -29,13 +29,13 @@ If you have a year with almost no ordinary income, the room in your lowest brack
 
 Then, when the taxable account finally runs dry, all of your spending has to come out of the traditional account at once, as ordinary income, on a balance that's bigger than it was when you started.
 
-Let me run the couple through it. They're 60, retired, spending $80,000 a year, with $400,000 of taxable Bitcoin and $600,000 in traditional.
+Let me run the couple through it. They're 60, retired, spending $80,000 a year, with $600,000 of taxable Bitcoin and $400,000 in traditional.
 
-Years one through five, following the strict order, they spend from taxable. $400,000 divided by $80,000 is about 5 years. Their income is low, the tax bill is near zero, and it feels great. Meanwhile the $600,000 traditional account is compounding untouched.
+Years one through seven, following the strict order, they spend from taxable. $600,000 divided by $80,000 is about 7 and a half years. Their income is low, the tax bill is near zero, and it feels great. Meanwhile the $400,000 traditional account is compounding untouched.
 
-Then year six arrives. Taxable is empty. Now every dollar of spending comes from the traditional account as ordinary income. Their near-zero tax bill jumps to filling a much higher bracket in 1 year, on a balance that's bigger than when they retired, right before RMDs start stacking on top.
+Then the taxable account runs dry. Now every dollar of spending comes from the traditional account as ordinary income. Their near-zero tax bill jumps to filling a much higher bracket in 1 year, on a balance that's bigger than when they retired, right before RMDs start stacking on top.
 
-So they spent 5 years sitting in their cheapest brackets without ever using them. Following the strict order doesn't actually save you tax overall. What it does is move the whole bill to your worst year.
+So they spent 7 years sitting in their cheapest brackets without ever using them. Following the strict order doesn't actually save you tax overall. What it does is move the whole bill to your worst year.
 
 == THE FIX: BRACKET-FILL ==
 
@@ -65,7 +65,7 @@ And here's how I'd actually decide that in practice, because "up" is vague and y
 
 If you're at or above 80% confidence and you haven't hit a guardrail, refill the reserve fully that year. If you've hit the lower guardrail, meaning your confidence has slid toward 60, hold a minimum in the reserve and wait to refill until you climb back toward 80. And if you've hit the upper guardrail, you refill regardless, because you're in a strong year by definition.
 
-The target itself never moves. What moves is the pace you rebuild it at.
+A bad market doesn't change the target. The target changes when your spending changes, when your income floor changes, or when you deliberately change the policy. A bad year changes only the pace of the refill.
 
 So if markets are up, you top up the buffers. If markets are down, you stop the refill, live on the Reserve, and let the engine recover. That way you are never rebuilding cash by selling into weakness. And you do this once a year, at your annual review, not every time the price moves.
 
@@ -79,7 +79,7 @@ If spending held or rose this year, they refill the Reserve back to the full $12
 
 If spending got cut this year, and we'll cover why that happens in the guardrails lesson, they refill only partway, to about 12 of the 18 months, roughly $80,000. Because you don't sell weakness to top up cash.
 
-And the rule that matters most is that the target itself never moves. A cut year stops the refill short. It never shrinks the target. The plan doesn't get to quietly become less safe because 1 year was bad. The target stays 18 months, and the refill pace is what adjusts.
+And the rule that matters most: A bad market doesn't change the target. The target changes when your spending changes, when your income floor changes, or when you deliberately change the policy. A bad year changes only the pace of the refill. The plan doesn't get to quietly become less safe because 1 year was bad.
 
 In the app, the refill pace lives in the reserve settings as the monthly build cap, and I'll show you that in the walkthrough.
 

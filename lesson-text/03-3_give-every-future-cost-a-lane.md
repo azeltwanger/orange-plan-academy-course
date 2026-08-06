@@ -10,10 +10,10 @@ Every known cost gets a lane: where those dollars sit between now and the due da
 |---|---|---|
 | 0–1 year | HYSA, T-bills, CDs | Anything volatile |
 | 1–3 years | T-bills, short Treasuries, HYSA | Stocks, Bitcoin |
-| 3–7 years | Balanced stocks/bonds, I-Bonds | Bitcoin |
-| 7+ years | A planned Bitcoin sell schedule can start here | Cash (drag too high) |
+| 3–10 years | Balanced stocks/bonds, I-Bonds | Bitcoin |
+| 10+ years | A planned Bitcoin sell schedule can start here | Cash (drag too high) |
 
-For 7+ year costs, plan the sales into low-bracket years (tax module).
+For 10+ year costs, plan the sales into low-bracket years (tax module).
 
 ## Pre-fund vs pay from flow
 

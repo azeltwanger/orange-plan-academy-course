@@ -41,7 +41,7 @@ So the seed alone opens a real wallet that's empty. And the passphrase alone is 
 
 Here's the couple's 1.5 Bitcoin on a hardware wallet with a passphrase. His wife holds the seed phrase. That's the wallet itself, but it's empty on its own, because the funds sit behind the passphrase. Her brother, the executor, holds the passphrase, which doesn't unlock anything without the seed. Together, they have full access. Apart, they have nothing.
 
-Play out the bad days. If her brother turns out to be the wrong guy, he gets nothing. If she loses her card, the passphrase holder still has half of the plan intact. No single bad day, and no single bad person, costs them $175,000.
+Play out the bad days. If her brother turns out to be the wrong guy, he gets nothing. If she loses her card, the passphrase holder still has half of the plan intact. No single bad day, and no single bad person, costs them the $150,000 behind that split.
 
 And this is why the rule from the executor lesson matters: keep the executor and the heirs as different people wherever you can, because they're the two halves of this split.
 

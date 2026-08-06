@@ -277,7 +277,7 @@ If everything is down in a coordinated drawdown, draw from the Reserve. That's w
 
 ### Set a target percentage for each bucket
 
-Each bucket has both a current balance and a target: the percentage of your net worth it should be at.
+Each bucket has both a current balance and a target: the percentage of your investable assets it should be at.
 
 - **Working, Sovereign-tier household:** 5% Reserve / 15% Bridge / 80% Legacy.
 - **Approaching retirement:** 10% Reserve (bigger buffer for sequence risk) / 30% Bridge / 60% Legacy.
