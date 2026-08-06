@@ -30,3 +30,9 @@ Once a year: has the stack grown enough to shrink a coverage? Cancel deliberatel
 
 1. Run the subtraction for death and for disability. Those two numbers size your coverage.
 2. Take them to a licensed insurance professional. None of this is a product recommendation.
+
+## Look it up
+
+- **What long-term care actually costs, by state** — [ACL: Costs of Care](https://acl.gov/ltc/costs-and-who-pays/costs-of-care), the federal Administration for Community Living.
+- **Who pays for long-term care** — [ACL: Who Pays](https://acl.gov/ltc/costs-and-who-pays/who-pays-long-term-care). Worth reading before you price any policy, because most people are wrong about what Medicare covers.
+- **Compare specific facilities near you** — [Medicare Care Compare](https://www.medicare.gov/care-compare/).

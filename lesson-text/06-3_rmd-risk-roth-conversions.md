@@ -46,3 +46,11 @@ Pay it from outside and the full conversion compounds tax-free. Convert $30,000,
 
 1. Estimate your tax-deferred balance at 73; divide by ~26; add Social Security.
 2. If the total lands in a higher bracket than your bridge years, model a conversion schedule and take it to your CPA.
+
+## Look it up
+
+Law-set figures change. Pull the current ones rather than trusting a number from a video.
+
+- **Current RMD age and the rules** — [IRS: Retirement topics, RMDs](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds)
+- **RMD questions in plain form** — [IRS: RMD FAQs](https://www.irs.gov/retirement-plans/retirement-plan-and-ira-required-minimum-distributions-faqs)
+- **The full distribution rules** — [IRS Publication 590-B](https://www.irs.gov/publications/p590b)

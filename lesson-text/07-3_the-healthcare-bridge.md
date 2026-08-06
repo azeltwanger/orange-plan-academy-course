@@ -27,3 +27,8 @@ The bridge premium is an **Expense Change life event with a duration** (retire a
 ## Homework
 
 Price your bridge three ways: COBRA (year one), a Silver plan at your realistic MAGI, and current health-sharing pricing. The comparison is the decision.
+
+## Look it up
+
+- **Real plans and prices for your ZIP** — [HealthCare.gov: see plans](https://www.healthcare.gov/see-plans/). Enter your ZIP and an estimated income to get actual premiums instead of a guess.
+- **How income affects what you pay** — [HealthCare.gov: lower costs](https://www.healthcare.gov/lower-costs/). This is the page that shows why a Roth conversion in a bridge year can cost you subsidy.

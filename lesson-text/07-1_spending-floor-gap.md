@@ -25,3 +25,7 @@ The floor doesn't turn on at once. The gap is **largest right after your last pa
 
 1. Write down spending, floor, gap.
 2. No floor number yet? Pull your Social Security estimate this week (the app takes it monthly).
+
+## Look it up
+
+- **Your Social Security estimate** — [ssa.gov/myaccount](https://www.ssa.gov/myaccount/). Create an account and pull your own benefit estimate; the figure is monthly, at Full Retirement Age. This is the same place the app's helper text points you.
