@@ -25,6 +25,12 @@ A second question applies to whatever isn't self-custodied: **how many instituti
 
 **The rule:** self-custody is the real answer to counterparty risk; splitting institutions is the hedge for whatever isn't self-custodied yet. Add the second institution when the amount justifies the maintenance, not before.
 
+## No custody setup is trust-free
+
+Self-custody removes counterparty risk. It doesn't remove trust, it moves it — to the manufacturer, the firmware, the randomness that generated your seed, and your wallet software. If every satoshi sits behind one device model running one company's firmware, that's a single trust holding up the whole stack: the same shape as keeping everything at one exchange, just harder to see.
+
+Spreading it out is what prevents a total loss — a second device from a different manufacturer, a multisig whose keys don't all come from one vendor, or part of the stack in a different custody model. Size it to your comfort, your technical ability, and how much responsibility you're willing to carry. Three setups you half understand is how people lose money; one setup run well is a real answer.
+
 ## Your stack can outgrow your setup
 
 You pick a setup that matches what you hold. Then the price runs up, and the same untouched setup is guarding three or four times as much. You never made that decision; the market made it for you.
