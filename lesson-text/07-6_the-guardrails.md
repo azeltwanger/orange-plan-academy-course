@@ -14,11 +14,11 @@ Once a year, read your confidence number. Every adjustment steers toward 80:
 | ~80 | Hold (inflation adjustment only) |
 | ~95 (upper guardrail) | Raise spending toward 80 |
 
-Every change capped at ±10%; inflation adjusts every year regardless. (Guyton-Klinger research, sized for Bitcoin volatility; these are Orange Plan's shipped defaults. You read the policy; you don't build it.)
+Every change capped at ±10%, measured after inflation: the app applies the inflation adjustment every year, then caps the correction off that inflated number. (These are Orange Plan's shipped defaults. You read the policy; you don't build it.)
 
 ## Cut, don't skip the raise
 
-In a lower-guardrail year: take the 10% cut (then inflation resumes compounding from the new baseline) rather than skipping the inflation raise (a permanent leak in every future year).
+In a lower-guardrail year the app takes the cut for you: it applies inflation, then caps the correction at 10% of that inflated number. Taking the cut (inflation then resumes compounding from the new baseline) beats skipping the inflation raise (a permanent leak in every future year).
 
 ## What the number really means
 

@@ -646,7 +646,7 @@ Click it. The simulation runs a thousand market paths through your plan and take
 When it lands, three things appear:
 
 - The ring with your confidence number.
-- A verdict: **Plan on track** (80+), **Plan needs review** (60 to 79), or **Plan needs attention** (under 60).
+- A verdict word: **Very well funded** (above 95), **On track** (80 to 95), **Room for improvement** (50 to 79), or **Needs significant changes** (under 50). Read the word off the screen.
 - A **sampling range** with an "as of" date and a re-run icon.
 
 Read the date and the ring together, the way we covered in the confidence-ring lesson. The date tells you when. The ring tells you how sturdy that date is.

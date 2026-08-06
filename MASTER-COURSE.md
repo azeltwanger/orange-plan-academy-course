@@ -761,7 +761,7 @@ Click it. The simulation runs a thousand market paths through your plan and take
 When it lands, three things appear:
 
 - The ring with your confidence number.
-- A verdict: **Plan on track** (80+), **Plan needs review** (60 to 79), or **Plan needs attention** (under 60).
+- A verdict word: **Very well funded** (above 95), **On track** (80 to 95), **Room for improvement** (50 to 79), or **Needs significant changes** (under 50). Read the word off the screen.
 - A **sampling range** with an "as of" date and a re-run icon.
 
 Read the date and the ring together, the way we covered in the confidence-ring lesson. The date tells you when. The ring tells you how sturdy that date is.
@@ -4165,11 +4165,6 @@ Bring the outputs to the household and CPA conversation.
 ## 7.6 The guardrails: turning the confidence number into a paycheck
 *`TEACH` · 835 words · ~6 min*
 
-> ✅ **Corrects my earlier analysis:** the course *does* cite Guyton-Klinger —
-> "These bands come out of Guyton and Klinger's withdrawal research, sized for
-> Bitcoin's volatility." The attribution suggestion in the claims section is
-> already satisfied here.
-
 **By the end of this lesson, you can:**
 
 - Understand why fixed withdrawal rules fail on a Bitcoin-heavy plan
@@ -4207,9 +4202,9 @@ Once a year, run the simulation and read your confidence number. Every adjustmen
 - **Around 80. Hold.** Inflation adjustment only.
 - **Around 95. Upper guardrail.** Raise. Increase spending until it settles back down toward 80.
 
-Every change is capped at ±10% in either direction. Inflation adjustment happens every year regardless.
+Every change is capped at ±10% in either direction, and the cap is measured after inflation. The app applies the inflation adjustment every year, then caps the correction off that inflated number.
 
-These bands come out of Guyton and Klinger's withdrawal research, sized for Bitcoin's volatility. The 60, 80, 95 stops and the ±10% cap are the shipped defaults of Orange Plan's spending policy. You're reading it, not building it.
+The 60, 80, 95 stops and the ±10% cap are the shipped defaults of Orange Plan's spending policy. You're reading it, not building it.
 
 ### Cut or skip the raise, not both
 

@@ -12,9 +12,13 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 > banned openers, reversal closers, reassurance couplets, spelled-out numbers,
 > positional lesson references, em-dashes in lesson text.
 >
+> Every factual claim about the app was audited against the code on 2026-08-05:
+> all 97 quoted UI strings verified, guardrail defaults (60/80/95, 10% cap),
+> Monte Carlo path counts (300 onboarding / 1,000 ring), and the confidence
+> bands, which the course now states as the app ships them.
+>
 > Open items, all outside the content:
 > - ⚖ Attorney review of course Terms + Disclaimer (LEGAL-REVIEW-PACKET.md)
-> - Confidence-band app change (on camera, read the verdict WORD, never the thresholds)
 > - Publishing from the Honen dashboard
 >
 > Positional lesson references are now at zero everywhere, master included, so

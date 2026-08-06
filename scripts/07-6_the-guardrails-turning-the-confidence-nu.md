@@ -33,7 +33,7 @@ If it's around 80, you hold. Inflation adjustment only, and you move on with you
 
 If it's up around 95, that's the upper guardrail. You raise. You increase spending until it settles back toward 80.
 
-Every change is capped at 10% in either direction. And in a lower-guardrail year you pick one move, either the 10% cut or skipping that year's inflation increase, not both.
+Every change is capped at 10% in either direction, and that cap is measured after inflation. So in a cut year the app inflates your number first, and then takes at most 10% off that.
 
 Where do these numbers come from? You're reading a policy the app runs, not building one from scratch.
 
@@ -46,6 +46,8 @@ Option one is to take the 10% cut. It's a bigger hit this year, but from that ne
 Option two is to skip this year's inflation adjustment. Your dollar spending stays flat, which feels lighter in the moment. But that missed raise never gets made up, and every future year's paycheck is permanently lower because of it.
 
 I'd take the cut. Take a bigger hit once, then let inflation compound back on schedule. Skipping the raise is a small, quiet leak that pulls your spending down for the rest of retirement.
+
+And that's what the app's policy already does on its own. It applies inflation, then caps the cut at 10% of that inflated number. Skipping the raise is the manual alternative, and you'd be choosing it by hand.
 
 == WHAT THE CONFIDENCE NUMBER IS REALLY TELLING YOU ==
 
