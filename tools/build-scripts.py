@@ -17,12 +17,21 @@ root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 t = open(os.path.join(root, 'MASTER-COURSE.md'), encoding='utf-8').read()
 outdir = os.path.join(root, 'scripts')
 os.makedirs(outdir, exist_ok=True)
-SPOKEN = set()  # scripts hand-converted to spoken prose — generator must not overwrite
-for f in os.listdir(outdir):
-    if f.endswith('.md'):
-        if 'SPOKEN-PROSE VERSION' in open(os.path.join(outdir, f), encoding='utf-8').read(1000):
-            SPOKEN.add(f); continue
-        os.remove(os.path.join(outdir, f))
+# PROTECTED: never regenerate, never delete.
+#   - AUSTIN DICTATION  -> his own recorded words. Highest authority in the repo.
+#   - SPOKEN-PROSE VERSION -> hand-calibrated spoken conversion.
+#   - walkthroughs / demos / docs -> not generated from the master at all.
+# This script only ever WRITES files it generates. It does not delete.
+SPOKEN = set()
+for f in sorted(os.listdir(outdir)):
+    if not f.endswith('.md'):
+        continue
+    if any(k in f for k in ('WALKTHROUGH', 'DEMO', 'README', 'VOICE-GUIDE')):
+        SPOKEN.add(f); continue
+    head = open(os.path.join(outdir, f), encoding='utf-8').read(1000)
+    if 'AUSTIN DICTATION' in head or 'SPOKEN-PROSE VERSION' in head:
+        SPOKEN.add(f)
+print(f'protected (will not be touched): {len(SPOKEN)} files')
 
 parts = re.split(r'\n(?=## \d+\.\d+ )', t)
 made = 0
