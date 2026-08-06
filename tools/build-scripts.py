@@ -31,7 +31,11 @@ for f in sorted(os.listdir(outdir)):
     head = open(os.path.join(outdir, f), encoding='utf-8').read(1000)
     if 'AUSTIN DICTATION' in head or 'SPOKEN-PROSE VERSION' in head:
         SPOKEN.add(f)
-print(f'protected (will not be touched): {len(SPOKEN)} files')
+# Protect by LESSON NUMBER, not filename. A hand-calibrated script whose title
+# drifted from the master's would otherwise be shadowed by a fresh generated
+# copy under a new slug, leaving two files for one lesson.
+SPOKEN_NUMS = {f.split('_')[0] for f in SPOKEN if f[:2].isdigit()}
+print(f'protected: {len(SPOKEN)} files / {len(SPOKEN_NUMS)} lesson numbers')
 
 parts = re.split(r'\n(?=## \d+\.\d+ )', t)
 made = 0
@@ -94,8 +98,8 @@ for p in parts[1:]:
               + '=' * 60 + '\n\n')
     mod, sub = num.split('.', 1)
     fn = f'{int(mod):02d}-{sub}{"-A" if hybrid else ""}_{slug}.md'
-    if fn in SPOKEN:
-        continue  # keep the hand-written spoken version
+    if fn in SPOKEN or fn.split('_')[0] in SPOKEN_NUMS:
+        continue  # keep the hand-written / dictated version for this lesson
     open(os.path.join(outdir, fn), 'w', encoding='utf-8').write(header + text)
     made += 1
 print(f'wrote {made} scripts to scripts/')
