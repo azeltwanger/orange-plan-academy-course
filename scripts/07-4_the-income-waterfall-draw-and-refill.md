@@ -79,7 +79,7 @@ If spending held or rose this year, they refill the Reserve back to the full $12
 
 If spending got cut this year, and we'll cover why that happens in the guardrails lesson, they refill only partway, to about 12 of the 18 months, roughly $80,000. Because you don't sell weakness to top up cash.
 
-And the rule that matters most: A bad market doesn't change the target. The target changes when your spending changes, when your income floor changes, or when you deliberately change the policy. A bad year changes only the pace of the refill. The plan doesn't get to quietly become less safe because 1 year was bad.
+And the rule that matters most: a cut year slows the refill, it never lowers the target. The plan doesn't get to quietly become less safe because 1 year was bad.
 
 In the app, the refill pace lives in the reserve settings as the monthly build cap, and I'll show you that in the walkthrough.
 

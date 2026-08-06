@@ -33,9 +33,9 @@ If it's around 80, you hold. Inflation adjustment only, and you move on with you
 
 If it's up around 95, that's the upper guardrail. You raise. You increase spending until it settles back toward 80.
 
-Every change is capped at 10% in either direction, and the inflation adjustment happens every year regardless.
+Every change is capped at 10% in either direction. And in a lower-guardrail year you pick one move, either the 10% cut or skipping that year's inflation increase, not both.
 
-Where do these numbers come from? The bands come out of Guyton and Klinger's withdrawal research, sized for Bitcoin's volatility. And the 60, 80, 95 stops with the 10% cap are the shipped defaults of Orange Plan's spending policy. You're reading a policy the app runs, not building one from scratch.
+Where do these numbers come from? You're reading a policy the app runs, not building one from scratch.
 
 == CUT OR SKIP THE RAISE, NOT BOTH ==
 
