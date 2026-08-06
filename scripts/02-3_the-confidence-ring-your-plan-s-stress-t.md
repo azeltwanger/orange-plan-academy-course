@@ -83,3 +83,4 @@ Your homework for this lesson is to:
 1. Run the confidence check in the app and write your number down.
 2. Write your target number next to it.
 3. Name the one lever you'd pull first if you're under it. One, not all four.
+4. Then watch the two walkthroughs below this video, where we set the plan up in Orange Plan and build your baseline.

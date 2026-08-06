@@ -94,3 +94,4 @@ Your homework for this lesson is to:
 1. Pick your annual review month and put it on the calendar as recurring.
 2. Write your three-action cap down as a rule you'll actually follow.
 3. Write down what done means for you: the report saved and the backup exported.
+4. Then watch the module walkthrough below this video, where we run the monthly pass on a timer and then the full annual lap.

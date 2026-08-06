@@ -102,7 +102,7 @@ Every raise gets a decision the same day. A $5,000 raise is ~$400/mo. Route it b
 ### Homework
 
 - Walk through the surplus calculation on your own numbers.
-- Label every line as Keep, Cut, or Reduce. Kill one subscription, renegotiate one bill.
+- Label every line as Keep, Cut, or Reduce on paper or in a spreadsheet. The app has no Keep/Cut/Reduce labels; what goes into Orange Plan is the resulting Living number. Kill one subscription, renegotiate one bill.
 - Write down both spending numbers: normal and bare-bones.
 - Enter the bare-bones number into the reserve settings in the app.
 

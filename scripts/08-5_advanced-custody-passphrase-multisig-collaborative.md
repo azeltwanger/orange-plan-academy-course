@@ -84,3 +84,4 @@ Your homework for this lesson is to:
 2. If you're adding a passphrase, generate it with 7 random words off a wordlist, using dice or an offline generator. Back it up separately from the seed, and practice with a small amount first.
 3. If you're considering collaborative custody, ask a provider those 4 questions and write down their answers before you pay anybody anything.
 4. If you're already running multisig, go find your config file, back it up, and tell one other person that it exists.
+5. Then watch the demo and the walkthrough below this video, where I set up a hardware wallet on screen and then we document your custody map in Orange Plan.

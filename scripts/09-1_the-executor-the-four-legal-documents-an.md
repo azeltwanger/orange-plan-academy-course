@@ -94,7 +94,7 @@ Your homework for this lesson is to:
 1. Get a simple will into existence now. An online path like FreeWill gets a real document out of your head and onto paper.
 2. Have an attorney review it and supervise the signing, because execution formalities like witnesses and notarization are state-specific.
 3. If your household lights up the trust gate, line up two or three estate-attorney candidates and run the 5 questions in order.
-4. Then watch the walkthrough below this video, where we confirm your beneficiaries in Orange Plan and walk the Executor Packet with the person who's actually going to run it.
+4.
 
 And if you're outside the US: the tests and the frameworks travel well, but the legal containers don't. Map the concepts with a qualified local professional.
 

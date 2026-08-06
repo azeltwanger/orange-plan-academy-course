@@ -105,4 +105,4 @@ Your homework for this lesson is to:
 
 1. Write your own only-one list, all 9 questions.
 2. Pick the one at the top, ranked by cost of loss, and fix it this week. Not all nine. Just that one.
-3. Then watch the demo below this video, where I do the hardware wallet setup and the exchange hardening on screen.
+3.

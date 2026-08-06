@@ -62,4 +62,4 @@ That filled-in map becomes your agenda for sitting your family down. Walk them t
 Your homework for this lesson is to:
 
 1. Write the first two lines of your letter tonight. The first phone call, and the first mistake to avoid. The rest of the letter follows naturally from those two.
-2. Then watch the walkthrough below this video, where we write the full letter in Orange Plan, and the app enforces the no-secrets rule on screen while you type.
+2.

@@ -82,6 +82,6 @@ Last, what you do with new money. Every raise should get a decision on the same 
 Your homework for this lesson is to:
 
 1. Walk through the surplus calculation on your own numbers, the same way we just did it.
-2. Label every line as keep, cut, or reduce. Kill one subscription and renegotiate one bill this week.
+2. Label every line as keep, cut, or reduce. Do this on paper or in a spreadsheet, because the app doesn't have keep, cut, and reduce labels. What goes into Orange Plan is the number you land on. Kill one subscription and renegotiate one bill this week.
 3. Write down both of your spending numbers, your normal spending and your bare-bones floor.
-4. Then watch the walkthrough below this video, where I'll show you exactly how to enter all of this in Orange Plan.
+4.

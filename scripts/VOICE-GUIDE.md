@@ -154,6 +154,17 @@ component ends with an explicit hand-off, as the last homework item:
 Austin assembles the course with the walkthrough video embedded below the
 lesson video, so "below this video" is literal.
 
+**Only the LAST teach lesson in a module gets the hand-off** (Austin,
+2026-08-06). Most modules run 3-6 teach lessons against ONE walkthrough, so
+a hand-off on lesson 1 of 5 promises a walkthrough that isn't below it.
+Module-final teach lessons, as of this writing:
+
+  M1 2.3 · M2 3.3 · M3 4.5 · M4 5.5 · M5 6.4 · M6 7.6 · M7 8.5 · M8 9.6 ·
+  M9 10.3 · M10 11.1 and 11.3 (that module interleaves teach/walkthrough,
+  so both get one). Module 0 (1.1) has no walkthrough and gets none.
+
+Every other teach lesson ends on its homework and stops.
+
 ## Lesson openers (Austin, 2026-08-04)
 
 This is a PAID course, not YouTube. No hooks, no stakes-selling, no "imagine
