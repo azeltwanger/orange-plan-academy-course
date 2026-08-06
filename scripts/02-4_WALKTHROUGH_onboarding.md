@@ -159,7 +159,7 @@ Salary entered here makes every downstream projection wrong. Hit this hard.
 
 **DO** Don't click. Watch.
 
-**SEE** Spinner: *"Projecting balances… Running 300 market paths… Checking spending target…"*
+**SEE** Spinner: *"Projecting your balances year by year…"* · *"Running 300 market paths…"* · *"Checking your spending target…"*
 
 **SEE** **EARLIEST RETIREMENT · AGE X** → then the ring
 
