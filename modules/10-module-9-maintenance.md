@@ -309,7 +309,7 @@ Set aside about 20 minutes to run it slowly the first time. Have a couple of tra
 
 ### Pre-flight
 
-⚠ **The 18-month / $120,000 reserve target from Module 6 is not settable from the UI.** "Target months" offers None / 1 / 3 / 6 / 12 only; an 18 renders only if it's already saved in the data. Seed it in your plan file; don't click for it on camera.
+⚠ **Set the 18-month / $120,000 reserve target on Cash Flow → Reserve settings → Target months → 18 mo.** The picker offers None / 1 / 3 / 6 / 9 / 12 / 18 / 24 / 36 months, and one control now writes both the working and the retirement reserve, so nothing needs seeding in the plan data.
 
 ⚠ **The AI beat in Step 3 only renders when the Accounts page has flagged review items.** Have at least one linked account with something in review before you start, or the button simply won't be there.
 

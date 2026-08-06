@@ -12,7 +12,7 @@
 - [ ] Plan in **RETIREMENT phase** (several controls gate on currentAge ≥ retirementAge)
 - [ ] Baseline spending set · SS entered as a **MONTHLY** figure · reserve size decided
 - [ ] **Run the Monte Carlo once** — else the three confidence stops are placeholders with no $/yr
-- [ ] Target months offers None/1/3/6/12 only. An 18-month reserve must already be in the plan data — don't click for it
+- [ ] Set Target months to **18 mo** on Cash Flow → Reserve settings. The picker now goes to 36 months, so nothing needs seeding in the plan data
 - [ ] Demo household: $80k spend · $120k reserve · $600k taxable BTC · $400k trad · $200k Roth · $51,600/yr SS (combined)
 - [ ] Clean browser, notifications off
 

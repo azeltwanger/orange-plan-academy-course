@@ -12,7 +12,7 @@
 - [ ] A couple of transactions ready to enter
 - [ ] At least one linked account with something **FLAGGED** — else the AI beat's button won't render
 - [ ] Last year's report open in another tab if you have one
-- [ ] 18-month / $120k reserve target is NOT settable from the UI (Target months = None/1/3/6/12). Seed it in the plan data, don't click for it
+- [ ] Set the 18-month / $120k reserve target on Cash Flow → Reserve settings → Target months → **18 mo**. The picker goes to 36 months now
 - [ ] Visible timer ready
 
 ---
