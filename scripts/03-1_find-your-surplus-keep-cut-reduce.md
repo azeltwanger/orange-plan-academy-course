@@ -33,6 +33,8 @@ The app keeps these separate for you on purpose. There are 4 rows: income, taxes
 
 Once you know your number, the job is to find dollars that aren't buying you much in the way of happiness, safety, or future freedom. The way I like to do this is to go line by line and label every expense with one of three labels.
 
+And you don't have to build that list from scratch. If you link a bank account or import your transactions, Orange Plan sorts your spending into categories for you, things like Housing, Transportation, Food and Dining, Utilities, Insurance, Entertainment, Shopping and Household. That categorized list is what you're running this pass against. The app gives you the lines. The labels are your judgment call.
+
 The first one is keep. These are your essentials and the things that are clearly worth the money to you. Housing, groceries, your minimum debt payments. You're not going to touch these.
 
 The second one is cut, which means eliminate it entirely. Unused subscriptions, impulse buys, lifestyle creep that showed up after your last raise. When this couple did their first pass, they found $85 a month in subscriptions that nobody in the house had opened in 90 days.
@@ -82,6 +84,6 @@ Last, what you do with new money. Every raise should get a decision on the same 
 Your homework for this lesson is to:
 
 1. Walk through the surplus calculation on your own numbers, the same way we just did it.
-2. Label every line as keep, cut, or reduce. Do this on paper or in a spreadsheet, because the app doesn't have keep, cut, and reduce labels. What goes into Orange Plan is the number you land on. Kill one subscription and renegotiate one bill this week.
+2. Link an account or import your transactions so the app can categorize your spending, then label every line as keep, cut, or reduce. Orange Plan doesn't have keep, cut, and reduce labels, so mark those on paper or in a spreadsheet. What goes back into the app is the number you land on. Kill one subscription and renegotiate one bill this week.
 3. Write down both of your spending numbers, your normal spending and your bare-bones floor.
 4.
