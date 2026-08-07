@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Combine every script into one readable .md for a full read-through.
+"""[CORE COURSE ONLY] Combine every script into one readable .md for a full read-through.
 
     python3 tools/build-onefile.py   ->  ALL-SCRIPTS.md
 """

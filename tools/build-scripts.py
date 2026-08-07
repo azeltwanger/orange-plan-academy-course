@@ -14,8 +14,12 @@ Run after editing the master:  python3 tools/build-scripts.py
 import re, os, sys
 
 root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-t = open(os.path.join(root, 'MASTER-COURSE.md'), encoding='utf-8').read()
-outdir = os.path.join(root, 'scripts')
+# The Academy is two courses. Default is the required core; --advanced builds
+# the optional library from its own master into scripts/advanced/.
+ADVANCED = '--advanced' in sys.argv
+SRC = 'MASTER-ADVANCED.md' if ADVANCED else 'MASTER-COURSE.md'
+t = open(os.path.join(root, SRC), encoding='utf-8').read()
+outdir = os.path.join(root, 'scripts', 'advanced') if ADVANCED else os.path.join(root, 'scripts')
 os.makedirs(outdir, exist_ok=True)
 # PROTECTED: never regenerate, never delete.
 #   - AUSTIN DICTATION  -> his own recorded words. Highest authority in the repo.

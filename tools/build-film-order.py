@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate FILM-ORDER.md from scripts/. Run after any merge or renumber."""
+"""[CORE COURSE ONLY] Generate FILM-ORDER.md from scripts/. Run after any merge or renumber."""
 import os, re, glob
 root=os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 M={'01':'Module 0 — Start Here','02':'Module 1 — Foundation','03':'Module 2 — Cash Flow + Reserve',
