@@ -1,4 +1,4 @@
-# 8.7 · WALKTHROUGH — Document your custody map
+# 8.5 · WALKTHROUGH — Document your custody map
 
 **Screen capture · 6 steps · ~15 min**
 
@@ -13,6 +13,16 @@
 - [ ] **Tier is keyed to ESTATE NET WORTH, not custody choice:** Foundation <$500k · Substantial $500k–$2M · HNW $2M+. The 3 Hardware items only exist at Substantial+
 - [ ] **Local Only mode** replaces the switch panel with *"Automatic check-in emails require cloud sync."* Flip to Cloud at Settings → Data & Privacy now if you're arming next module
 - [ ] Zero secrets on screen. The checklist never asks for any — the ONLY free-text moment in the whole walkthrough is the backup passphrase in step 3
+
+---
+
+## □ 0 · The tier that filters your checklist
+
+**DO** Protect → note the tier badge before anything else
+
+**SEE** Orange Plan runs 3 tiers keyed to estate size: **Foundation** under $500,000 · **Substantial** $500,000 to $2M · **High Net Worth** above that
+
+**⚠** The tier filters the security checklist, so a Foundation household isn't held to the hardware items a high-net-worth household is. Two dials: YOUR custody level is your call, the app's tier sets the checklist you're held to.
 
 ---
 

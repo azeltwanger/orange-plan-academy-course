@@ -93,16 +93,14 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 7.6 Walkthrough: build the paycheck — 🖥 capture `07.6` (11 steps; plan must be in retirement phase; run Monte Carlo first; SS entered MONTHLY)
 ☐ Module 6: edit → upload → paste lesson text (07-1 … 07-6)
 
-## ☐ MODULE 7 — Custody
+## ☐ MODULE 7 — Custody and Recovery
 
-☐ 8.1 The five questions that set your custody level — 🎙 film `08-1` (~7 min)
-☐ 8.2 Choose your custody level and spread the risk — 🎙 film `08-2` (~8 min; trade-offs + multi-institution)
-☐ 8.3 Set up a hardware wallet and test recovery — 🎙 film `08-3`
-☐ 8.4 Single points of failure, account hardening, and scams — 🎙 film `08-4`
-☐ 8.5 Advanced custody: passphrase, multisig, collaborative — 🎙 film `08-5` (~11 min; 7-word passphrase standard + entropy graphic)
-☐ 8.6 External demo: wallet setup + hardening — 🖥 capture `08.6` (NOT Orange Plan; sealed device + burner exchange; ⚠ no seed/PIN ever in frame; review footage)
-☐ 8.7 Walkthrough: custody map — 🖥 capture `08.7` (6 steps; passphrase prompt typed off-camera)
-☐ Module 7: edit → upload → paste lesson text (08-1 … 08-7)
+☐ 8.1 Choose the custody setup that matches your stack and family — 🎙 film `08-1` (~13 min; merged 8.1+8.2; carries the trust-diversification section, vendor-neutral)
+☐ 8.2 Set up a hardware wallet and test recovery — 🎙 film `08-2`
+☐ 8.3 Single points of failure, account hardening, and scams — 🎙 film `08-3` (module-final: hand-off + advanced signpost)
+☐ 8.4 External demo: wallet setup + hardening — 🖥 capture `08.4` (NOT Orange Plan; sealed device + burner exchange; ⚠ no seed/PIN ever in frame; review footage)
+☐ 8.5 Walkthrough: custody map — 🖥 capture `08.5` (7 steps; passphrase prompt typed off-camera)
+☐ Module 7: edit → upload → paste lesson text (08-1 … 08-5)
 
 ## ☐ MODULE 8 — Estate
 

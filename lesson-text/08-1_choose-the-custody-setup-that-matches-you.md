@@ -1,6 +1,26 @@
-# Choose your custody level and spread the risk
+# Choose the custody setup that matches your stack and family
 
-You know where your gaps are. Now: what setup should you be running at all?
+Custody is whether you can reach your Bitcoin, whether anyone else can, and whether the process survives without you. (Inheritance, the legal transfer, is the estate module.) A balance in someone else's system is a claim on *their* Bitcoin, not ownership of yours (Celsius, BlockFi, FTX).
+
+## The five questions
+
+1. Where is the Bitcoin held?
+2. What type of custody?
+3. Who knows what to do?
+4. What happens if you're unavailable?
+5. Where are the single points of failure?
+
+A normal Bitcoin household scores 2 of 5. The score turns worry into specific jobs. Also: **name the job each pile does**: long-term cold storage and an emergency-reachable account need different custody, and an exchange can freeze exactly the week you need it.
+
+## The one rule
+
+**Document the process, never the secrets.** Secrets = seed phrase, private keys, passphrase, PIN. Write down who holds what and what to do, never the words that unlock it.
+
+## What self-custody asks of you
+
+A client put it better than I have: **with self-custody, you are the point of failure, and the attack vector.** Most of life doesn't work this way. We outsource violence to the police and security to the banks; that's largely what civilization is. Bitcoin asks you to take one of those jobs back.
+
+Two things follow. **It's reasonable not to want the whole job.** That's what collaborative custody is for, and why a hardened exchange position is legitimate for part of a stack. And **if you do take it, feeling the weight is appropriate**, not a flaw.
 
 ## The four levels
 
@@ -46,8 +66,20 @@ You pick a setup that matches what you hold. Then the price runs up, and the sam
 3. **For anything not self-custodied**, ask whether one company's bad week could take all of it.
 4. **Re-ask at the annual review**, at that year's balance.
 
+## Your decision
+
+**Two things: your honest score with the job each pile is doing, and which level you will run.**
+
+Match the level to what is at stake and what you can genuinely maintain. A mismatch in either direction is the failure: too little custody for the amount is the Celsius problem, too much custody for your skill is the lost-seed problem.
+
 ## Homework
 
-1. Name the level you're at today and the level your amount and family require.
-2. If they differ, name the one thing that closes the gap.
-3. For anything not self-custodied, count how many institutions it sits in and ask whether that matches what's at stake.
+1. Score yourself on the 5 questions and name the job each pile is doing. Most people come out at one or two.
+2. Name the level you are at today and the level your amount and family say you should be at. If they differ, name the one thing that closes the gap.
+3. For anything not self-custodied, count the institutions and ask whether that number matches what is at stake.
+4. Go through what your whole stack is trusting: device, manufacturer, firmware, wallet software. If one answer covers everything you own, decide whether spreading it out is worth the maintenance.
+5. Put this on your annual review, to be re-asked at that year's balance.
+
+## Optional, only if it applies to you
+
+If one lost seed or one unavailable person could end your access, the Advanced Library compares passphrase, collaborative multisig, and DIY multisig. If the weight of self-custody is what has been stopping you, there is a short lesson on what the job actually asks of you. Your custody plan is complete without either.

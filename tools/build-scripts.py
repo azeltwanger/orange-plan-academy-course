@@ -41,7 +41,8 @@ for f in sorted(os.listdir(outdir)):
 SPOKEN_NUMS = {f.split('_')[0] for f in SPOKEN if f[:2].isdigit()}
 print(f'protected: {len(SPOKEN)} files / {len(SPOKEN_NUMS)} lesson numbers')
 
-parts = re.split(r'\n(?=## \d+\.\d+ )', t)
+# Core lessons are '## 4.1'; Advanced Library lessons are '## A7.2'.
+parts = re.split(r'\n(?=## A?\d+\.\d+ )', t)
 made = 0
 for p in parts[1:]:
     head = p.split('\n', 1)[0][3:]
@@ -106,7 +107,10 @@ for p in parts[1:]:
                  f'{num}-B)' if hybrid else '') + '\n'
               + '=' * 60 + '\n\n')
     mod, sub = num.split('.', 1)
-    fn = f'{int(mod):02d}-{sub}{"-A" if hybrid else ""}_{slug}.md'
+    if mod.startswith('A'):          # Advanced Library: A7.2 -> A7-2_slug.md
+        fn = f'{mod}-{sub}_{slug}.md'
+    else:
+        fn = f'{int(mod):02d}-{sub}{"-A" if hybrid else ""}_{slug}.md'
     if fn in SPOKEN or fn.split('_')[0] in SPOKEN_NUMS:
         continue  # keep the hand-written / dictated version for this lesson
     open(os.path.join(outdir, fn), 'w', encoding='utf-8').write(header + text)

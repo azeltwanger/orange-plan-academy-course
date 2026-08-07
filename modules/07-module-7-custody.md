@@ -2,16 +2,16 @@
 
 *Custody as operational protection: choose your level on the four-tier ladder, set up hardware with a proven recovery test, close single points of failure, and — when it fits — go advanced with passphrase, multisig, or collaborative custody.*
 
-## 8.1 The five questions that set your custody level
-*`TEACH` · 2,050 words · ~13 min*
+## 8.1 Choose the custody setup that matches your stack and family
+*`TEACH` · 2,041 words · ~13 min*
 
 **By the end of this lesson, you can:**
 
 - Score your household against the five custody questions
-- Match your custody level (1-4) to your stack and family
-- Name what each level buys you and what it costs you
-- Decide whether your custodial Bitcoin should sit at more than one institution
-- Apply the never-document-the-secrets rule
+- Name the job each pile of Bitcoin is doing
+- Match a custody level to your stack, your skill, and your family
+- Decide whether custodial Bitcoin should sit at more than one institution
+- Name what your whole stack is trusting, and whether to spread that out
 
 ---
 
@@ -58,20 +58,6 @@ By "secrets" I mean the things that actually move Bitcoin: seed phrase (the word
 > ⚠ No seed phrases, no private keys, no passphrases, no PINs. In any app, document, photo, cloud note, or AI tool. Ever.
 
 What you write down: who holds what, what type of setup it is, and what someone should do. Never the words that unlock it. You can share the document with your executor and store it safely, because nothing in it is worth stealing.
-
-## 8.2 Choose your custody level and spread the risk
-*`TEACH` · ~1,250 words · ~8 min*
-
-**By the end of this lesson, you can:**
-
-- Match a custody level to your stack and your family
-- Name what each level buys you and what it costs
-- Decide whether custodial Bitcoin should sit at more than one institution
-- Spot the moment a price run-up outgrows your setup
-
----
-
-You know where your gaps are from the 5 questions. Now: what setup should you be running at all?
 
 ### Choosing your level
 
@@ -174,8 +160,7 @@ You'll hear people say real Bitcoiners self-custody everything, immediately. Tha
 - Name the level you're at today and the level your amount and your family say you should be at. If those differ, that gap is the module's whole job.
 - For anything not self-custodied, count the institutions it sits in and ask whether that number matches what's at stake.
 
-
-## 8.3 Set up a hardware wallet and test recovery
+## 8.2 Set up a hardware wallet and test recovery
 *`TEACH` · 678 words · ~5 min*
 
 **By the end of this lesson, you can:**
@@ -239,7 +224,7 @@ If you already have a pocketful of small bills, **consolidation** is the fix. Co
 If you've never done the wipe-and-restore, watch the demo lesson and do it, with a small test amount, before serious money is on the line.
 
 
-## 8.4 Single points of failure, account hardening, and scams
+## 8.3 Single points of failure, account hardening, and scams
 *`TEACH` · 777 words · ~6 min*
 
 > ✅ **Fixed in course:** stale hand-off promised "advanced custody" next — that
@@ -334,7 +319,7 @@ Urgency is the common thread. Every scam needs you to act before you think. When
 Make your own "only one" list, pick the one at the top, and fix it this week. Not all nine. Just that one.
 
 
-## 8.6 External demo: hardware wallet setup + exchange hardening
+## 8.4 External demo: hardware wallet setup + exchange hardening
 *`DEMO` · 877 words*
 
 > 🎥 **SCREEN SHARE — entire lesson.** Capture segment **8.7**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
@@ -419,7 +404,7 @@ Everything else in this space is a variation on those four.
 
 The custody-map walkthrough is where this demo becomes a checked box. Three of the checklist items exist specifically to prove you did what this demo taught: recovery tested, backup verified, signing device tested recently. Check them only if you actually ran the demo. An unchecked item is honest. A checked item that never happened is dangerous, because the plan now believes something untrue.
 
-## 8.7 Walkthrough: document your custody map in Orange Plan
+## 8.5 Walkthrough: document your custody map in Orange Plan
 *`DEMO` · 1,718 words · ~8 min*
 
 > 🎥 **SCREEN SHARE — entire lesson.** Capture segment **8.7**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
