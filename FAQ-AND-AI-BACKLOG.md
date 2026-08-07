@@ -152,17 +152,16 @@ plainly that the app does not do it for you, and routes the two halves to the
 surfaces that are real: the cost as a **life event** so the projection knows,
 the container as the **Bridge bucket target** so it lives somewhere safe.
 
-**Proposed app build — Austin's call, not started.** Small, because the
-schema and the context wiring already exist:
+**DECIDED (Austin, 2026-08-08): the goal feature is NOT coming back.** The
+`financial_goals` table is old and stays dormant. Do not re-propose it, and do
+not write course copy that implies a goals screen is on the way.
 
-1. A goal editor: name, target amount, target date, saved so far.
-2. Display the division: *"$1,042/month to reach $100,000 by March 2034."*
-3. On save, offer to create the matching life event, so the projection knows
-   about the bill rather than only the saving.
-4. Show it in Cash Flow → Routing as a destination.
-
-⚠ Step 3 touches the projection, so it needs the golden-snapshot treatment and
-an explicit go-ahead. Steps 1, 2 and 4 do not.
+**So the course answer above is permanent, not interim.** 3.3 teaches the
+division as something the student does — one calculation, in their head — and
+the two entries that follow are the ones that actually change the plan. The
+lesson says "you do the division, not the app", with no "yet" and no "today",
+because a course that promises a feature ages badly the moment the promise
+isn't kept.
 
 **Why not just link an external calculator.** It produces a number with no
 provenance that never enters the plan — the exact failure the client calls

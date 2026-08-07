@@ -47,7 +47,7 @@ because it is the VOICE-GUIDE calibration master and his words are the record.
 **By the end of this lesson, you can:**
 
 - Understand what a Bitcoin-first financial plan actually solves
-- Know the ten-module order and what each one produces
+- Know the order — Start Here plus nine planning modules — and what each one produces
 - Have your household income, spending, and asset/debt list ready for Module 1
 
 ---
@@ -96,14 +96,15 @@ Then it keeps answering it. When you get a raise, the date moves. When Bitcoin r
 
 ##### How the course is structured
 
-Ten modules, in the order I'd take a real client through.
+Start Here, then nine planning modules, in the order I'd take a real client through.
 
 1. **Module 1: Baseline.** Your numbers, your assumptions, and your first confidence read.
 2. **Module 2: Cash flow.** Your surplus and how to protect it.
-3. **Modules 3 and 4: where the money goes.** Allocation and debt.
-4. **Modules 5 and 6: how you use it.** Tax strategy and retirement income.
-5. **Modules 7 and 8: how you protect it.** Custody and estate.
-6. **Modules 9 and 10: how you keep it alive**, about five minutes a month.
+3. **Module 3: Debt.** Every debt gets a job, and you set the level you won't go past.
+4. **Module 4: Where the money goes.** Allocation, asset location, and the next dollar.
+5. **Modules 5 and 6: how you use it.** Tax strategy and retirement income.
+6. **Modules 7 and 8: how you protect it.** Custody and estate.
+7. **Module 9: how you keep it alive**, about five minutes a month, plus scenarios and reading your finished plan.
 
 Each module has two kinds of lessons. Teach lessons explain the concept with a real worked example. Walkthroughs put it into the app step by step. Some modules include worksheets. For the sensitive ones like the custody map and heir letter, print them and fill them out with pen and paper.
 
@@ -864,7 +865,7 @@ Open the **Account menu** in the top right (or the hamburger drawer on mobile), 
 
 The button triggers your browser's print dialog. Choose **Save as PDF** and put the year in the filename, like `baseline-2026.pdf`.
 
-Module 10 covers how to read this document like a planner. For now, just save it. It's your starting-point snapshot.
+Module 9 covers how to read this document like a planner. For now, just save it. It's your starting-point snapshot.
 
 ### Using the AI assistant as you go
 
@@ -1245,7 +1246,7 @@ Which known costs get pre-funded, and in which lane.
 | **The container** | Strategy → Allocation → raise the **Bridge** target by what you are accumulating | So the money lives somewhere that will not be down 40% the year the bill lands |
 | **The monthly amount** | Cash Flow → **Routing** | Your own division, below |
 
-⚠ **Orange Plan does not do the division for you today.** There is no field where you enter $100,000 and 8 years and get a monthly number back. You do it, then enter the two halves in the two places above.
+⚠ **You do the division, not the app.** The number is one calculation you can do in your head. What matters is the two entries above: the cost, so the projection knows the bill is coming, and the lane, so the money sits somewhere safe.
 
 ### You are done when
 
@@ -4962,7 +4963,7 @@ Ratios: **"Debt-to-assets"** (*"caution above {N}%"*) and **"Debt-to-income"** (
 
 BTC loan (if any): severity chips **"near margin call" / "margin call" / "liquidation zone"** and the sentence *"A {N}% drop triggers a margin call at {price} BTC · liquidation at {price}."*
 
-⚠ **There is no "loan cushion" label on this page.** Use the severity chips and the drop-to-margin-call sentence. The word "cushion" appears in one place: the report's BTC-loan gauge in Module 10.
+⚠ **There is no "loan cushion" label on this page.** Use the severity chips and the drop-to-margin-call sentence. The word "cushion" appears in one place: the report's BTC-loan gauge in Module 9.
 
 #### Tax · Strategy → Tax
 
@@ -5042,7 +5043,7 @@ Close on the discipline: the confidence status only flips to "Recheck needed" wh
 
 ### Handing it off
 
-Module 10 closes the course. It starts with scenarios, which is how you test what-ifs against the plan without disturbing it, and finishes with the capstone: the read of the report you just saved, with the nine modules assembled into one document and walked in planner order (position, trajectory, risk, actions).
+Module 9 closes the course. It ends with scenarios, which is how you test what-ifs against the plan without disturbing it, and finishes with the capstone: the read of the report you just saved, with the nine modules assembled into one document and walked in planner order (position, trajectory, risk, actions).
 
 
 
@@ -5192,7 +5193,7 @@ baseline untouched.
 ---
 ### PART C — walk the report and save the PDF
 
-Companion walkthrough for Module 10. This is the ~8-minute lap that reads the yearly report in **planner order. position, trajectory, risk, actions ** and saves the PDF. The report has eleven sections. You'll read them in a different order than the page renders them, and you'll say so on camera.
+Companion walkthrough for Module 9. This is the ~8-minute lap that reads the yearly report in **planner order. position, trajectory, risk, actions ** and saves the PDF. The report has eleven sections. You'll read them in a different order than the page renders them, and you'll say so on camera.
 
 Set aside about 20 minutes to run it slowly the first time. Have the plan warm right after a monthly pass, at least one saved scenario, and a fresh confidence check already run. The report has three conditional sections that don't render without them.
 

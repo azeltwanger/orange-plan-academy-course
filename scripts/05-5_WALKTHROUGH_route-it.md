@@ -11,7 +11,7 @@
 
 - [ ] 401(k) owner has a **salary income source** entered (else Fill to match is disabled)
 - [ ] Surplus routed into **Step 3** of the waterfall (contribution rows only appear with a surplus)
-- [ ] Conviction tier + target range from 4.1 written on a card
+- [ ] Conviction tier + target range from 5.1 written on a card
 - [ ] Clean browser, notifications off
 
 ---

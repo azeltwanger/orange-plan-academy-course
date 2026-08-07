@@ -38,7 +38,7 @@ Lesson types — this drives the whole shooting plan:
 - [x] **Evergreen numbers policy (replaces the old item 11).** The course must outlive the tax year, so: (1) never speak a law-set number (bracket, limit, exemption, RMD age) as a fact — the scripts are already written this way; (2) worked-example figures are tilde-marked snapshots with a "these move every year" frame — leave them, say the frame; (3) when a law number is on screen during capture, don't zoom or dwell, and refer to it as "the current number the app shows." The app updates with the law; the video doesn't have to.
 - [ ] **Decide the lesson renames** (item 20 — plain-language v2 titles are drafted and awaiting your go). Film with FINAL titles; renaming after filming means re-recording intros.
 - [ ] **Decide the 3.3 rebuild** (item 18 — Life-Events checklist redesign is spec'd, 3 questions open). If you're rebuilding it, do it before filming Module 2.
-- [x] **Retirement Income page push** — LANDED (commit 073fdf0, 2026-07-29). Walkthrough 7.7 Step 5 and lesson 7.4's app pointer rewritten against the new UI and re-verified.
+- [x] **Retirement Income page push** — LANDED (commit 073fdf0, 2026-07-29). The retirement walkthrough's Step 5 and the sell-vs-borrow lesson's app pointer rewritten against the new UI and re-verified.
 - [ ] Set the app to a clean browser profile: no extensions, no bookmarks bar, notifications off, 1080p+ window.
 - [ ] Print the three toolkit PDFs (06 Heir Letter, 07 Family Custody Map, 08 Executor Packet) — they appear on camera in 8.5, 9.1, 9.3.
 

@@ -57,7 +57,7 @@ For the couple, that's $100,000 divided by 96 months, which is a bit over $1,000
 
 Now, you might be thinking: what about growth? If the money is invested for eight years it should get there on less. That's true, and I still want you to use the plain division, for two reasons. For anything inside about five years you shouldn't be taking much risk with it anyway, so there isn't much growth to count on. And over a longer horizon, arriving early is a much better failure than arriving short. Growth shows up as you being ahead of schedule, and you'll see that at your annual review, which is a nice problem.
 
-One thing to be honest about: Orange Plan doesn't do this division for you today. There's no field where you type $100,000 and 8 years and get a monthly number back. You do the division, and then you put the two halves of it into the app in two different places, which I'll show you next.
+And this is a calculation you do, not one the app does for you. That's on purpose. The number is one division you can do in your head, and what actually matters is the two things you enter afterwards: the cost, so your projection knows the bill is coming, and the lane, so the money has somewhere safe to sit. I'll show you both next.
 
 I don't think there's one right answer here. Which option makes sense is going to come down to your numbers. But what your plan absolutely has to do is know that the cost is coming and have a lane assigned to it, because a plan that doesn't know about a $100,000 bill is going to give you a retirement date that isn't real.
 

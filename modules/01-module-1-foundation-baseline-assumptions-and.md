@@ -644,7 +644,7 @@ Open the **Account menu** in the top right (or the hamburger drawer on mobile), 
 
 The button triggers your browser's print dialog. Choose **Save as PDF** and put the year in the filename, like `baseline-2026.pdf`.
 
-Module 10 covers how to read this document like a planner. For now, just save it. It's your starting-point snapshot.
+Module 9 covers how to read this document like a planner. For now, just save it. It's your starting-point snapshot.
 
 ### Using the AI assistant as you go
 

@@ -316,7 +316,7 @@ Which known costs get pre-funded, and in which lane.
 | **The container** | Strategy → Allocation → raise the **Bridge** target by what you are accumulating | So the money lives somewhere that will not be down 40% the year the bill lands |
 | **The monthly amount** | Cash Flow → **Routing** | Your own division, below |
 
-⚠ **Orange Plan does not do the division for you today.** There is no field where you enter $100,000 and 8 years and get a monthly number back. You do it, then enter the two halves in the two places above.
+⚠ **You do the division, not the app.** The number is one calculation you can do in your head. What matters is the two entries above: the cost, so the projection knows the bill is coming, and the lane, so the money sits somewhere safe.
 
 ### You are done when
 

@@ -9,7 +9,7 @@
 **By the end of this lesson, you can:**
 
 - Understand what a Bitcoin-first financial plan actually solves
-- Know the ten-module order and what each one produces
+- Know the order — Start Here plus nine planning modules — and what each one produces
 - Have your household income, spending, and asset/debt list ready for Module 1
 
 ---
@@ -58,14 +58,15 @@ Then it keeps answering it. When you get a raise, the date moves. When Bitcoin r
 
 ##### How the course is structured
 
-Ten modules, in the order I'd take a real client through.
+Start Here, then nine planning modules, in the order I'd take a real client through.
 
 1. **Module 1: Baseline.** Your numbers, your assumptions, and your first confidence read.
 2. **Module 2: Cash flow.** Your surplus and how to protect it.
-3. **Modules 3 and 4: where the money goes.** Allocation and debt.
-4. **Modules 5 and 6: how you use it.** Tax strategy and retirement income.
-5. **Modules 7 and 8: how you protect it.** Custody and estate.
-6. **Modules 9 and 10: how you keep it alive**, about five minutes a month.
+3. **Module 3: Debt.** Every debt gets a job, and you set the level you won't go past.
+4. **Module 4: Where the money goes.** Allocation, asset location, and the next dollar.
+5. **Modules 5 and 6: how you use it.** Tax strategy and retirement income.
+6. **Modules 7 and 8: how you protect it.** Custody and estate.
+7. **Module 9: how you keep it alive**, about five minutes a month, plus scenarios and reading your finished plan.
 
 Each module has two kinds of lessons. Teach lessons explain the concept with a real worked example. Walkthroughs put it into the app step by step. Some modules include worksheets. For the sensitive ones like the custody map and heir letter, print them and fill them out with pen and paper.
 

@@ -57,7 +57,7 @@ changed once, in both places, before you record.
 
 | # | Lesson | min |
 |---|---|---|
-| 1.1 | How to use this course | 10.6 |
+| 1.1 | How to use this course | 10.8 |
 | 1.2 | How the AI works: what it reads, what it never sees | 6.1 |
 
 ### Module 1 — Foundation: baseline, assumptions, and the confidence number · 21 min
@@ -76,7 +76,7 @@ changed once, in both places, before you record.
 |---|---|---|
 | 3.1 | Find your surplus and your two spending numbers | 11.1 |
 | 3.2 | Size your cash reserve in months of spending | 10.8 |
-| 3.3 | Fund known future costs: college, cars, a house, repairs | 8.9 |
+| 3.3 | Fund known future costs: college, cars, a house, repairs | 9.0 |
 | 3.4 | *Walkthrough: build cash flow and reserve in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
 ### Module 3 — Debt Strategy · 9 min

@@ -5,10 +5,12 @@ TELEPROMPTER SCRIPT — segment 1.1
 
 >>> I CHANGED TWO THINGS IN YOUR DICTATION (your own flags). Say it your way. <<<
 
-1. The module list is now 9, not 10. Modules 9 and 10 merged, so scenarios
-   and reading your finished plan live inside the final module. Items 9 and 10
-   are folded into one, in your register. RE-RECORD NEEDED on the "9 modules"
-   line and the merged item — this lesson is already on the re-record list.
+1. The module list is now Start Here plus nine planning modules. Item 5 is
+   DEBT (it now comes before allocation, because the next-dollar waterfall
+   routes money to debt and you can't route to a decision you haven't made).
+   Item 6 is allocation. Scenarios and reading your finished plan folded into
+   item 9. RE-RECORD NEEDED on items 5, 6, 9 and the opening line — this
+   lesson is already on the re-record list.
 2. "10 to 15 minutes every month" -> "around five minutes every month."
    Module 9 teaches the monthly pass as about five minutes, in the lesson, the
    lesson text, and the module blurb. Five is the number the course defends.
@@ -46,14 +48,14 @@ Your date is also going to move with that confidence level. This is a living fin
 
 == HOW THE COURSE IS STRUCTURED ==
 
-The course is going to walk you through 9 modules, and they're all in the order that I would take a real client through if I was working with you one-on-one.
+The course is going to walk you through a Start Here module and then nine planning modules, and they're all in the order that I would take a real client through if I was working with you one-on-one.
 
 1. You're going to start with your baseline numbers and your assumptions about getting the baseline of your plan with all of your numbers in the app.
 2. You'll set your return assumptions and assumptions about the future.
 3. You'll get your first confidence read on where you're at today, when you can retire, and the level of confidence we can have in that plan.
 4. I'll cover cash flow, which is your surplus, and how to protect it, and also future cash flow planning.
-5. Where the money is going to go.
-6. Your investment plan that includes allocation and any debts that you have, and a plan around how to pay off debt or utilize it to compound assets even further.
+5. Then debt, where every debt you have gets a job and you set the level of debt you won't go past.
+6. Then your investment plan, which is your allocation and where every next dollar goes.
 7. How to build a retirement paycheck. This is going to cover tax strategy and your retirement income planning, and ways to optimize this to reduce your tax liability.
 8. How you protect your plan with custody and estate planning and inheritance.
 9. How you keep the whole thing alive and active, which is going to take you around five minutes every month with one annual review every year, plus how to run scenarios to test a decision before you make it, and how to read your finished plan.

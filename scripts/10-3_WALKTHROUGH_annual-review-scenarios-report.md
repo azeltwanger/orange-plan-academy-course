@@ -118,7 +118,7 @@ report saved and the backup exported.*
 
 **SEE** BTC loan severity chips: near margin call / margin call / liquidation zone · plus the *"A {N}% drop triggers…"* sentence
 
-**⚠** There's no "loan cushion" label on this page. "Cushion" exists in exactly one place — the report's BTC-loan gauge, in Module 10.
+**⚠** There's no "loan cushion" label on this page. "Cushion" exists in exactly one place — the report's BTC-loan gauge, later in this module.
 
 ### Tax — Strategy → Tax
 
