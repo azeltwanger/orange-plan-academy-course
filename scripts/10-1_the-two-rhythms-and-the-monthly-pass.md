@@ -5,7 +5,7 @@ TELEPROMPTER SCRIPT — segment 10.1
 
 In today's lesson, we're going to cover the difference between a review and a rebuild, and the two rhythms that keep your plan current without taking over your life.
 
-Here's the distinction that this whole module runs on. A rebuild goes back and re-litigates decisions you already settled. It reacts to every price move, it feels heavy, and because it feels heavy, it gets skipped. A review updates what actually changed in your life, and nothing else. You keep the scope that small so maintenance stays cheap enough that you'll actually do it every year.
+A rebuild goes back and re-litigates decisions you already settled. It reacts to every price move, it feels heavy, and because it feels heavy, it gets skipped. A review updates what actually changed in your life, and nothing else. You keep the scope that small so maintenance stays cheap enough that you'll actually do it every year.
 
 The big decisions were settled earlier in this course. Your allocation, the job you gave every debt, your tax windows, your income guardrails, your custody setup, your estate wishes. Maintenance doesn't reopen any of them. Its job is to keep the facts current underneath them.
 
@@ -51,7 +51,7 @@ If nothing changed, the review takes five minutes and confirms that nothing chan
 
 Your decision out of this lesson is your two review dates.
 
-Here's how I'd think about it. Keep the two jobs separate, because the monthly pass catches facts going stale and the annual pass asks whether your decisions still fit, and if you mix them, every month turns into a rebuild. Pick a specific recurring day, not a vague intention, because "first Saturday" survives and "beginning of the month" doesn't. Put the annual one before year-end, since the tax moves inside it expire on December 31st. And protect the boundary: if something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
+Keep the two jobs separate, because the monthly pass catches facts going stale and the annual pass asks whether your decisions still fit, and if you mix them, every month turns into a rebuild. Pick a specific recurring day, not a vague intention, because "first Saturday" survives and "beginning of the month" doesn't. Put the annual one before year-end, since the tax moves inside it expire on December 31st. And protect the boundary: if something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
 
 The job here is narrow on purpose. The monthly pass catches data drift, meaning facts that have gone out of date. It doesn't cover strategy decisions. And it's four inputs, not forty, because these four are the only categories that actually move a projection. Everything else on the screen is a result of them.
 
@@ -75,7 +75,7 @@ Let's run a real month for the couple.
 
 They open the plan. They check the inputs: the $1,000 buy went through, there's no income change, no life event, and the targets didn't move. They enter the buy, which takes thirty seconds.
 
-Then the spending check. The plan runs about $6,700 a month, and this month came in at $6,800. That's $100 over, which is noise. Here's the rule for telling the difference: 1 month over the plan is nothing. 6 months over in the same direction is a new spending level. The monthly cadence is exactly what lets you tell those two apart.
+Then the spending check. The plan runs about $6,700 a month, and this month came in at $6,800. That's $100 over, which is noise. The rule for telling the difference: 1 month over the plan is nothing. 6 months over in the same direction is a new spending level. The monthly cadence is exactly what lets you tell those two apart.
 
 Step five, they've got nothing to flag. And a note on flagging: flagging is not deciding. You write down the question. It either becomes an action this month, or it waits for the annual review. You don't solve it standing up.
 
@@ -89,9 +89,9 @@ Why monthly and not something else? Weekly is short enough that you'd mostly be 
 
 == WHAT NEVER TOUCHES THE PLAN ==
 
-Here's what earns an update: a real transaction, a real income or expense change, a life event, or a target that genuinely changed.
+What earns an update is a real transaction, a real income or expense change, a life event, or a target that genuinely changed.
 
-And here's what never touches the plan: the price on the day, a loud news week, a market swing, a gut feeling, or a number that looks nicer.
+And what never touches the plan is the price on the day, a loud news week, a market swing, a gut feeling, or a number that looks nicer.
 
 That last one is the sneaky one. Tweaking your assumptions because a slightly different number makes the plan look better. Move your growth assumption up two points, and your freedom date jumps forward a year, with nothing about your life having changed. The plan can't tell after the fact whether that jump came from real information or from your mood.
 
@@ -101,7 +101,7 @@ I'll own my version of this: I used to check the Bitcoin price twenty times a da
 
 The output of every monthly pass is at most three actions, all finishable before the next pass. A realistic list looks like: move the exchange coin to cold storage, enter the new salary, ask the CPA one question before year-end.
 
-Here's why the cap matters. A long to-do list is the single biggest reason these reviews stop happening. You open the plan, you see the backlog, you feel behind, and you close the plan. The one-to-three rule is what lets you finish the review every month, for years. And the compounding comes from finishing it.
+A long to-do list is the single biggest reason these reviews stop happening. You open the plan, you see the backlog, you feel behind, and you close the plan. The one-to-three rule is what lets you finish the review every month, for years. And the compounding comes from finishing it.
 
 == HOMEWORK ==
 

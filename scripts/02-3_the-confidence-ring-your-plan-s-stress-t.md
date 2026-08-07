@@ -7,7 +7,7 @@ In today's lesson, we're going to cover the two numbers at the top of your plan 
 
 == YOUR EARLIEST RETIREMENT DATE ==
 
-Here's why you need both numbers and not just one. The date tells you when. The confidence number tells you how sturdy that date is. And most tools only show you the date.
+The date tells you when. The confidence number tells you how sturdy that date is. And most tools only show you the date.
 
 
 Your earliest retirement date is the year your assumptions say you could stop working. I think of it as your freedom date.
@@ -24,11 +24,11 @@ You'll see this called a Monte Carlo simulation, and that's the label on the but
 
 A client asked me a sharp question about this once. He wanted to know whether it models a bad thing happening on top of another bad thing. Like, the price already dropped 50%, does any of those runs have it dropping another 30% from there?
 
-Yes. That's exactly what those thousand runs are for. Some of them are gentle, some of them stack a terrible year onto another terrible year, and a few of them are genuinely brutal. The whole point is that you're not looking at one guess about the future. You're looking at a spread of them, including the ugly ones.
+Yes. That's exactly what those thousand runs are for. Some of them are gentle, some of them stack a terrible year onto another terrible year, and a few of them are genuinely brutal. You're not looking at one guess about the future. You're looking at a spread of them, including the ugly ones.
 
 So if your confidence number is 82%, that means 820 of those thousand runs succeeded on your numbers.
 
-Now here's the important part. An 82% result means 820 of the 1,000 paths funded the plan as written. The other 180 fell short. Those paths tell you to test adjustments — spending a little less for a stretch, working a year longer, delaying a purchase. The score alone doesn't prove that one small change rescues all of them. And it isn't a forecast that you end up with nothing.
+An 82% result means 820 of the 1,000 paths funded the plan as written. The other 180 fell short. Those paths tell you to test adjustments — spending a little less for a stretch, working a year longer, delaying a purchase. The score alone doesn't prove that one small change rescues all of them. And it isn't a forecast that you end up with nothing.
 
 == READING THE TWO TOGETHER ==
 
@@ -38,7 +38,7 @@ Age 60 at 82% confidence is a real answer. Age 60 at 55% confidence is the same 
 
 == WHAT THE SIMULATION IS ACTUALLY RUNNING ==
 
-Let me show you what's actually happening under the hood, because this isn't just shuffling a portfolio return.
+Let me show you what the simulation is actually doing, because it's more than shuffling one portfolio return.
 
 Every one of those thousand futures runs your entire plan. It starts from your real balances today — your Bitcoin, your brokerage, your retirement accounts, your cash. In year one, every asset gets its own return based on your assumptions and its historical volatility. Then your actual life runs: income comes in, taxes go out, spending happens, withdrawals happen in your order, contributions and debt payments happen. You land on new balances. Then year two starts fresh with new market returns, and it does it again. 45 years of that is one complete future.
 

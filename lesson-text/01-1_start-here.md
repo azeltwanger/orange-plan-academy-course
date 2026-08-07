@@ -33,7 +33,7 @@ This course is built on US rules, and it's worth knowing exactly where that matt
 - **Parts of Module 6, Retirement Income.** Social Security, Medicare, and the healthcare bridge before 65.
 - **The asset location lesson in Module 3.** It covers US account wrappers.
 
-**Travels anywhere:** your reserve, allocation and the emotion gates, debt ratios and loan to value, all of custody, the shape of the retirement math, scenarios, and the monthly and annual rhythms.
+**Travels anywhere:** your reserve, allocation and the emotion gates, debt ratios and loan to value, all of custody, how the retirement math works, scenarios, and the monthly and annual rhythms.
 
 **How the app handles it:** everything is modeled in US dollars, and the tax engine is US federal plus state. There is no country setting. Outside the US, your balances, cash flow, allocation, and projections are still accurate. The lines that assume US rules are the tax lines and the Social Security lines.
 

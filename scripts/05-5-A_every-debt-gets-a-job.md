@@ -23,13 +23,13 @@ In my own household, in a single year, the answers were: yes on the first one, n
 
 == THE SIX POSSIBLE JOBS ==
 
-So here's the exercise. Every debt on your list gets one of six jobs, plus a reason why.
+Every debt on your list gets one of six jobs, plus a reason why.
 
 The first job is minimum only. You pay the required payment and nothing extra. The second one is extra principal, paying above the minimum. The third one is refinance, getting a better rate on the same debt. The fourth one is consolidate, combining debts at a better rate. The fifth is pay off in full. Kill it. And the sixth is monitor, which is for asset-backed loans, and those get watched by LTV and cushion, not by rate.
 
 == THE 4 TIERS ==
 
-To figure out which job a debt gets, sort it into one of 4 tiers by rate. You can see the bands on the screen, and here's how I'd talk through them.
+To figure out which job a debt gets, sort it into one of 4 tiers by rate. You can see the bands on the screen. Let me talk through them.
 
 Over 10% is the eliminate tier. Kill it. That debt is a guaranteed loss that you cannot outrun with investing.
 

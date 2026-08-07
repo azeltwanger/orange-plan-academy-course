@@ -57,7 +57,7 @@ Option two is to pay down, which means sending cash to reduce the loan balance. 
 
 And option three is to do nothing and get liquidated. The lender sells enough of your Bitcoin to fix the ratio, at whatever the price happens to be that day, which by definition is going to be a bad price.
 
-Notice that two of those three options require you to have something held in reserve. If you take a loan with every spare satoshi already pledged and no cash cushion, you have exactly one option at a margin call, and it's the bad one.
+Two of those three options require you to have something held in reserve. If you take a loan with every spare satoshi already pledged and no cash cushion, you have exactly one option at a margin call, and it's the bad one.
 
 == PARTIAL VERSUS FULL LIQUIDATION ==
 
@@ -77,7 +77,7 @@ The first one is custodial lenders. You send your Bitcoin to the company and the
 
 The second one is collaborative-custody lenders. Your collateral sits in a multisig arrangement, often two-of-three, where you hold a key, the lender holds a key, and a third party holds a key. The lender can't move your Bitcoin on their own. That structure is the reason a lot of Bitcoiners will use one of these and never touch a custodial one.
 
-And then there's the question that really separates them, which is rehypothecation. Rehypothecation means the lender takes your collateral and lends it out to somebody else while they're holding it. It's the practice most directly responsible for the 2022 blowups. So ask directly: do you rehypothecate my collateral? And get the answer in writing. If the answer is anything other than a clear no, you're taking on a risk that has nothing at all to do with the Bitcoin price.
+And then there's the question that separates them, which is rehypothecation. Rehypothecation means the lender takes your collateral and lends it out to somebody else while they're holding it. It's the practice most directly responsible for the 2022 blowups. So ask directly: do you rehypothecate my collateral? And get the answer in writing. If the answer is anything other than a clear no, you're taking on a risk that has nothing at all to do with the Bitcoin price.
 
 Here are the 7 questions I'd take to any provider. They're on screen, and they're in the lesson text below the video.
 
@@ -127,7 +127,7 @@ Then there's a section called Collateral rules, and this is where the behavior g
 
 That last one is easy to miss and it matters. The app models collateral release. So if Bitcoin rises and your LTV falls below that release trigger, the projection frees that collateral back into your plan instead of leaving it pledged forever.
 
-Here's how the modeling actually runs. The engine walks your loan forward year by year, right alongside the Bitcoin price path. Interest accrues, the price moves, your LTV gets recalculated, and if it crosses your top-up trigger the model tops up from your available Bitcoin. If it crosses liquidation, the model sells according to the liquidation strategy you picked and records that event. And pledged Bitcoin is protected from ordinary withdrawals, so your plan won't go spend collateral that you've already committed.
+The engine walks your loan forward year by year, right alongside the Bitcoin price path. Interest accrues, the price moves, your LTV gets recalculated, and if it crosses your top-up trigger the model tops up from your available Bitcoin. If it crosses liquidation, the model sells according to the liquidation strategy you picked and records that event. And pledged Bitcoin is protected from ordinary withdrawals, so your plan won't go spend collateral that you've already committed.
 
 What that means practically is that when you run a 50% drawdown scenario with a loan in place, you're watching the loan's real behavior in that drawdown. Not an assumption about it.
 
@@ -135,7 +135,7 @@ What that means practically is that when you run a 50% drawdown scenario with a 
 
 Your decision out of this lesson is whether to borrow at all, and if you do, at what starting LTV and with which provider.
 
-Here's how I'd think about it. Start with whether you need the money at all, because the cheapest loan is always the one you don't take. Then compare it honestly against just selling, because selling costs you tax and upside, while borrowing costs you interest and adds a liquidation risk that selling doesn't have. One of those is expensive and the other is risky, and those are not the same kind of problem.
+Start with whether you need the money at all, because the cheapest loan is always the one you don't take. Then compare it honestly against just selling, because selling costs you tax and upside, while borrowing costs you interest and adds a liquidation risk that selling doesn't have. One of those is expensive and the other is risky, and those are not the same kind of problem.
 
 Pick your starting LTV based on the drawdown you want to survive, not based on what you're allowed to borrow. Pick your provider on structure rather than rate, because a slightly better rate at a lender who rehypothecates your collateral is not a better deal.
 

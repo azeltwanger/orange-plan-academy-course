@@ -33,7 +33,7 @@ Three ordinary Tuesdays, no hackers involved anywhere. The failure that actually
 
 == THE NINE-QUESTION HUNT ==
 
-So here's the hunt. 9 questions, and for each one you ask: is there only one?
+So the hunt is 9 questions, and for each one you ask: is there only one?
 
 Only one device? Only one seed backup? Only one location? Only one person who knows everything? One weak exchange login? One heir with no idea what exists? A document that contradicts your beneficiary forms, which are the forms your bank and retirement accounts keep on file naming who gets the money? A passphrase nobody else can recover? And multisig keys all sitting in one place?
 
@@ -55,7 +55,7 @@ And notice the pattern: every only-one turns into one of three things. A backup,
 
 Now, account hardening, and I'll start with why I take this personally. A couple of years ago, someone called my bank pretending to be me and tried to move about $10,000. They didn't get it. But that's the day I moved my exchange and email logins onto physical security keys.
 
-Here's the reality of most real-world losses: nobody breaks the encryption on your Bitcoin. They log in as you.
+In most real-world losses, nobody breaks the encryption on your Bitcoin. They log in as you.
 
 The hardening order matters, so do it in this order.
 
@@ -87,7 +87,7 @@ The first one is UTXOs. A client asked me what happens to all the small buys he'
 
 Your wallet isn't a bucket with a balance in it. It's more like a wallet full of bills. Every time Bitcoin lands in your wallet, that deposit is its own separate chunk, and the technical name for one of those chunks is a UTXO. When you spend, your wallet grabs one or more of those chunks to cover the amount.
 
-Here's why that matters. Every chunk costs a fee to spend, and that fee doesn't care how big the chunk is. So a very small deposit can become uneconomical to move, because the fee to spend it approaches or exceeds what it's worth. That's what people mean by dust.
+Every chunk costs a fee to spend, and that fee doesn't care how big the chunk is. So a very small deposit can become uneconomical to move, because the fee to spend it approaches or exceeds what it's worth. That's what people mean by dust.
 
 If you've been buying small amounts regularly, you can end up with a wallet made of a hundred tiny chunks. Nothing is lost. But the day you go to move it all, you're paying fees on every one of those chunks at once, and if fees are high that day, it gets expensive.
 

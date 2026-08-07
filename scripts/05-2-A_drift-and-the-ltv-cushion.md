@@ -21,7 +21,7 @@ If Bitcoin doubles, their $175,000 becomes $350,000, total assets go to $920,000
 
 If Bitcoin halves, their $175,000 becomes $87,500, total assets drop to $658,000, and their DTA climbs to 45%. Same debts, same payments, and now they're over the workable range.
 
-Here's the trap in that: the ratio tells you about today's price, but the decision you're making lives for years. So the room looks the most real at the exact moment it's the least real.
+The trap is that the ratio tells you about today's price, but the decision you're making lives for years. So the room looks the most real at the exact moment it's the least real.
 
 The way to handle it is to stay conservative when Bitcoin is high, use your room when Bitcoin is low, and anchor your decisions to where Bitcoin has been over a full cycle, not what it's printing today. And use DTI as your floor, because DTI doesn't move with price at all.
 
@@ -37,11 +37,11 @@ So if Bitcoin falls, your collateral shrinks, your LTV climbs, and it climbs tow
 
 == THE MATH ==
 
-Let's walk through the math, because the numbers make it click.
+Let's walk through the math.
 
 Say you post $50,000 of Bitcoin as collateral, and the lender's liquidation LTV is 80%.
 
-In scenario A, you borrow $12,500, which is a 25% starting LTV. The liquidation point is $12,500 divided by 0.80, which is $15,625. So Bitcoin has to fall from $50,000 down to $15,625 before liquidation, and the margin call would normally come earlier than that. That's a 69% drop. And here's the problem: Bitcoin fell 84% in 2018 and 77% in 2022. So a 69% cushion is right at the edge of drawdowns that have actually happened. That's not enough.
+In scenario A, you borrow $12,500, which is a 25% starting LTV. The liquidation point is $12,500 divided by 0.80, which is $15,625. So Bitcoin has to fall from $50,000 down to $15,625 before liquidation, and the margin call would normally come earlier than that. That's a 69% drop. And Bitcoin fell 84% in 2018 and 77% in 2022. So a 69% cushion is right at the edge of drawdowns that have actually happened. That's not enough.
 
 In scenario B, you borrow $6,250 instead, which is a 12.5% starting LTV. Now the liquidation point is $6,250 divided by 0.80, which is $7,812. Bitcoin has to fall 84% to get there. That's dramatically safer than 25%, but an 84% decline still puts you right at the edge of the liquidation line before any interest, so it's the edge and not a comfortable cushion.
 
@@ -49,7 +49,7 @@ Notice what happened there: you cut the starting LTV in half, and the danger lin
 
 == SIZE THE CUSHION FOR A NORMAL DRAWDOWN ==
 
-So here's where I land on this. If you're going to borrow against Bitcoin, size the cushion to survive a 70 to 80% drawdown at minimum, because that's the normal Bitcoin cycle, not a worst case.
+So if you're going to borrow against Bitcoin, I think you size the cushion to survive a 70 to 80% drawdown at minimum, because that's the normal Bitcoin cycle, not a worst case.
 
 In practice, that usually means starting at 10 to 15% LTV, not 40 or 50%. Anything higher than that, and a completely normal Bitcoin bear market turns into a forced-sale event for you, at the worst possible price.
 

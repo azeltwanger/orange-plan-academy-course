@@ -5,7 +5,7 @@ TELEPROMPTER SCRIPT — segment 9.1
 
 In today's lesson, we're going to cover the executor, the four legal documents, and how to choose an estate attorney who actually understands Bitcoin.
 
-Custody was operational access, how you turn the device back into spendable Bitcoin. Estate is the legal transfer, how your family can inherit it without you in the room. And here's why both are needed: your hardware wallet grants no legal authority and carries no instructions. It works for whoever can operate it. So a perfect custody setup can still leave your family locked out, for reasons that have nothing to do with keys.
+Custody was operational access, how you turn the device back into spendable Bitcoin. Estate is the legal transfer, how your family can inherit it without you in the room. And you need both, because your hardware wallet grants no legal authority and carries no instructions. It works for whoever can operate it. So a perfect custody setup can still leave your family locked out, for reasons that have nothing to do with keys.
 
 == THE EXECUTOR'S REAL JOB ==
 
@@ -49,7 +49,7 @@ Next, the four legal documents. The will, which directs who gets what. The power
 
 That fourth one carries the rule that surprises everybody: when the beneficiary form and the will disagree, the form wins.
 
-Here's why. Your will only directs assets that go through probate. An account with a named beneficiary never enters probate at all. It's a contract between you and the institution that says pay this person. And the custodian pays them, usually before anybody has even read the will.
+Your will only directs assets that go through probate. An account with a named beneficiary never enters probate at all. It's a contract between you and the institution that says pay this person. And the custodian pays them, usually before anybody has even read the will.
 
 Let me make it real. A guy leaves a job in 2019 with $80,000 in an old 401(k). He filled out the form at 26, before he was married, and named his mother. 6 years and a wedding later, his will says everything goes to his wife. The $80,000 goes to his mother. The will has no say in it whatsoever.
 
@@ -59,13 +59,13 @@ The fix is the cheapest one in this whole module: fill out the form. It takes ab
 
 Now the attorney, and there's one piece of law that makes this hire specific for a Bitcoin holder.
 
-A trustee is whoever manages a trust for the beneficiaries. And trustees are generally held to something called the prudent-investor standard: manage the assets the way a careful, reasonable investor would. Here's the catch. One of the things that standard treats as careful is diversification.
+A trustee is whoever manages a trust for the beneficiaries. And trustees are generally held to something called the prudent-investor standard: manage the assets the way a careful, reasonable investor would. The catch is that one of the things that standard treats as careful is diversification.
 
 So a trustee holding a large, concentrated Bitcoin position is standing on the wrong side of that duty by default. They can be legally pressured to sell it. And if they don't sell, they can be personally liable to the beneficiaries. That duty puts your trustee's own money on the opposite side of your Bitcoin thesis, whether or not concentration was what you intended.
 
 The fix is a waiver, written into the trust document, that releases the trustee from the duty to diversify this particular asset. It reframes holding the Bitcoin as the prudent thing instead of the exposed thing. But it's not automatic and it's not boilerplate. An attorney has to decide to draft it in.
 
-Here's what happens when nobody asks. Say our couple lights up the trust gate a decade from now. The stack has done what they hoped, and they pay a good local attorney to build a trust around it. The documents are clean, the signing is perfect. Then he dies, and the trustee sells the Bitcoin. All of it. The trustee sold the exact asset the trust was built to hold, and they did it doing exactly what the standard asked of them.
+Say our couple lights up the trust gate a decade from now. The stack has done what they hoped, and they pay a good local attorney to build a trust around it. The documents are clean, the signing is perfect. Then he dies, and the trustee sells the Bitcoin. All of it. The trustee sold the exact asset the trust was built to hold, and they did it doing exactly what the standard asked of them.
 
 The attorney wasn't careless. The conversation just never happened. The problem was a question nobody asked, not a skill nobody had.
 

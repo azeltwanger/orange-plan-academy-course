@@ -39,7 +39,7 @@ Quick review: a seed phrase is the 12 or 24 words that rebuild your wallet. A pa
 
 So the seed alone opens a real wallet that's empty. And the passphrase alone is just a word that opens nothing. Two objects, each worthless on its own. That's exactly what lets you hand each one to a different person.
 
-Here's the couple's 1.5 Bitcoin on a hardware wallet with a passphrase. His wife holds the seed phrase. That's the wallet itself, but it's empty on its own, because the funds sit behind the passphrase. Her brother, the executor, holds the passphrase, which doesn't unlock anything without the seed. Together, they have full access. Apart, they have nothing.
+His wife holds the seed phrase. That's the wallet itself, but it's empty on its own, because the funds sit behind the passphrase. Her brother, the executor, holds the passphrase, which doesn't unlock anything without the seed. Together, they have full access. Apart, they have nothing.
 
 Play out the bad days. If her brother turns out to be the wrong guy, he gets nothing. If she loses her card, the passphrase holder still has half of the plan intact. No single bad day, and no single bad person, costs them the $150,000 behind that split.
 
@@ -55,7 +55,7 @@ After you're gone, your executor and the provider hold 2 keys between them, whic
 
 One thing carries over from the custody module: the config file. The keys hold the money, and the config is the map that tells the network how to rebuild the wallet from those keys. Without the map, holding every key still locks you out.
 
-Now, the config has no spending power on its own, so it lives in a password manager, never printed, and never stored with any physical key. Here's why that last part matters: an executor's key sitting next to the config file is one step from control, and that would quietly turn your two-of-three into a single-key setup.
+Now, the config has no spending power on its own, so it lives in a password manager, never printed, and never stored with any physical key. That last part matters because an executor's key sitting next to the config file is one step from control, and that would quietly turn your two-of-three into a single-key setup.
 
 So with a passphrase, you're splitting two different objects between two people. With multisig, the keys are already separate, and the job becomes keeping the config file away from whoever holds a key. Same principle, different setup.
 

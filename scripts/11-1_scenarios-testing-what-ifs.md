@@ -29,7 +29,7 @@ The first group is stress tests. These ask, would I survive this? You're not pla
 
 The second group is choices. These ask, should I do this? These are decisions you might actually make. Retire earlier. Spend less. Move states. Claim Social Security at 62 instead of 70. Here you're comparing two futures and picking one of them.
 
-Both are worth running. But notice that what you do with the answer is different. With a stress test, you either survive it, or you go fix something. With a choice, you weigh it, you decide, and then you either act on it or you drop it.
+Both are worth running. But what you do with the answer is different. With a stress test, you either survive it, or you go fix something. With a choice, you weigh it, you decide, and then you either act on it or you drop it.
 
 == CHOOSING THE SCENARIO TYPE ==
 

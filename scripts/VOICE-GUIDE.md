@@ -262,3 +262,69 @@ cost basis lots, retirement spending, Social Security. Things with no field
 loud, not written. The exceptions that stay on paper are the inheritance
 pieces, where writing is the deliverable and the app must never hold it: the
 access split (9.2) and the heir letter (9.3).
+
+## Scan for SHAPES, not strings (Austin, 2026-08-08)
+
+Three sweeps reported "clean" and Austin still opened a script and found this:
+
+> "One reframe that makes this whole system click: the futures that fail at 80%
+> confidence aren't random bad luck sprinkled evenly across time. They're almost
+> always the same shape, which is a deep drawdown showing up in year 2 instead
+> of year 15."
+
+Three stacked slop moves and **zero literal matches** against the banned-phrase
+list: an announce frame ("one reframe that makes this click"), a
+negation-reversal ("aren't random bad luck… they're almost always"), and an
+abstract noun doing the work ("the same shape"). The sweeps were grepping for
+strings. The slop was a shape.
+
+`tools/slop-scan.py` now scans for the shapes. Run it before declaring
+anything clean. Every hit is a CANDIDATE, not a verdict; read each one.
+
+## The "Here's" finding — measure, then cut to his rate
+
+The single biggest tell in the corpus, and no string list would have caught it,
+because every individual instance looked defensible.
+
+| corpus | words | "Here's" | rate |
+|---|---|---|---|
+| Austin's 3 own dictations | 4,318 | **1** | 1 per 4,318 |
+| The 38 AI-written scripts (before) | 51,530 | **81** | 1 per 636 |
+| The same scripts (after) | 51,184 | **1** | 1 per 51,184 |
+
+**6.8x his rate.** The fix split two ways:
+
+- **39 were standalone signposts** that open a paragraph and add nothing: "Here's
+  why this matters so much." followed by the paragraph that actually says why.
+  Deleted outright; the content sentence is stronger as the opener.
+- **42 carried their object**, and each got rewritten to state the thing instead
+  of announcing it. "Here's why holding all three matters: X" becomes "Holding
+  all three matters because X."
+
+Same method applies to any formula: count it in his dictations, count it in the
+scripts, and cut to his rate. Don't argue instance by instance — every single
+one of the 81 was individually defensible, and collectively they were the tic.
+
+**Check for the replacement tic afterward.** This has gone wrong here before
+(a 39x "The first is" -> "The first one is" swap just installed a new uniform
+formula). After the "Here's" pass, the candidate replacements measured: "X
+matters because" 4, "The <noun> is that" 8, "There's a" 4, "Let me" 20 across
+51k words. None at tic level. Verify this every time.
+
+## Also swept 2026-08-08
+
+- "Notice that/how": Austin uses it **0 times in 4,318 words**. The guide allows
+  it sparingly, so it was thinned 7 -> 3 (1 per 17,000 words), cutting the ones
+  where the sentence stood fine without the usher.
+- Decorative metaphors and abstract nouns: "under the hood," "sprinkled evenly,"
+  "the same shape," "a dent," "makes it click," "a mental model that changes
+  everything," "where the money is." All replaced with the actual fact. Note
+  that four of those were written during an earlier *anti-slop* pass.
+- Announce frames in section headings count too: "WHAT THE CONFIDENCE NUMBER IS
+  REALLY TELLING YOU" -> "WHAT THE CONFIDENCE NUMBER IS TELLING YOU."
+
+## Open, needs Austin's call
+
+`06-1` is titled **"Cost basis: the unlock for everything else."** "The unlock"
+reads like marketing. Renaming it touches the filename plus 5 docs, so it was
+flagged rather than changed.

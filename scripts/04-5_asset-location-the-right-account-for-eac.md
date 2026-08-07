@@ -5,13 +5,13 @@ TELEPROMPTER SCRIPT — segment 4.5
 
 In today's lesson, we're going to cover asset location, which is choosing which type of account each of your holdings should live in, so you're not paying more lifetime tax than you have to.
 
-Here's why this is worth 10 minutes of your life. Putting the same holdings in different accounts, with no change to what you own or what you buy, can save you a meaningful amount of tax over a few decades. You're not taking more risk to get it. You're just putting each thing where it's taxed the least.
+Putting the same holdings in different accounts, with no change to what you own or what you buy, can save you a meaningful amount of tax over a few decades. You're not taking more risk to get it. You're just putting each thing where it's taxed the least.
 
 You have three types of tax wrappers, and the same dollar of Bitcoin sits very differently in each one.
 
 == THE THREE WRAPPERS ==
 
-You can see the full comparison right here, but here's the shape of it.
+You can see the full comparison right here. Let me walk the three of them.
 
 The first wrapper is the taxable brokerage. Money goes in already taxed, the growth gets taxed every year on dividends and realized gains, and when you sell, you pay tax on the gains, which is just the profit, meaning what you sold it for minus what you paid for it. You get lower rates on that gain if you held it for more than a year. What you're buying with a taxable account is flexibility. No age limits, no penalties, you can touch it whenever you want.
 
@@ -23,7 +23,7 @@ The third wrapper is the Roth. Money goes in after tax, and then it grows tax-fr
 
 The whole lesson comes down to one principle: put your highest-growth assets in your best tax shelter.
 
-Here's the reason. Growth compounds, and tax drag compounds too. A high-growth asset in a taxable account is paying tax on every dividend, every rebalance, every realized gain, year after year, and that drag stacks up over decades. The exact same asset inside a Roth grows completely tax-free for those same decades. Same asset, very different ending balance.
+Growth compounds, and tax drag compounds too. A high-growth asset in a taxable account is paying tax on every dividend, every rebalance, every realized gain, year after year, and that drag stacks up over decades. The exact same asset inside a Roth grows completely tax-free for those same decades. Same asset, very different ending balance.
 
 == WHERE EACH HOLDING BELONGS ==
 

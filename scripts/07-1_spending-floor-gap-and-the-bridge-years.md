@@ -48,7 +48,7 @@ Both of those ratios come out of the app once your spending target and your rese
 
 == THE THREE NUMBERS MOVE OVER TIME ==
 
-Now, here's the part that surprises people: these three numbers don't sit still, because your income floor doesn't turn on all at once.
+Now, these three numbers don't sit still, because your income floor doesn't turn on all at once.
 
 Take the couple. They're 59 now, retiring next year. In year one, they're still working: $190,000 coming in, $80,000 going out, a $48,000 surplus. In year two, they're retired and Social Security hasn't started: income is zero, spending has inflated to about $84,000, so the gap is the whole $84,000. At 62, if he claims then, about $38,000 of Social Security turns on and the gap shrinks to $46,000. When her benefit arrives, the gap comes down again.
 
@@ -102,7 +102,7 @@ That's a $420,000 difference in the years the portfolio carries alone. It isn't 
 
 == WHY THE BRIDGE IS HARD ==
 
-Here's why the bridge is genuinely hard: three problems stack into the same few years.
+The bridge is genuinely hard because three problems stack into the same few years.
 
 You've got the biggest gap of your whole retirement. You've got no floor underneath you yet, because Social Security hasn't turned on. And your retirement accounts are still expensive to touch if you retired before 59 and a half, because there's a 10% penalty sitting on top of the income tax.
 
@@ -112,7 +112,7 @@ That's exactly why the Bridge bucket from the allocation module exists. Money fo
 
 Now, the claiming decision. The standard advice says wait for the bigger check, and the math behind that is true: the check grows roughly 8% a year for every year you delay past your full retirement age.
 
-But here's what the standard advice leaves out: waiting isn't free. Every year you wait, the portfolio carries the full gap by itself. And for a Bitcoin-heavy plan, claiming earlier can be completely rational, because the earlier check means fewer forced Bitcoin sales during the bridge. Especially if one of those bridge years turns out to be a drawdown year.
+But waiting isn't free, and the standard advice leaves that out. Every year you wait, the portfolio carries the full gap by itself. And for a Bitcoin-heavy plan, claiming earlier can be completely rational, because the earlier check means fewer forced Bitcoin sales during the bridge. Especially if one of those bridge years turns out to be a drawdown year.
 
 So don't default to waiting just because the check is bigger. Compare 62, full retirement age, and 70 against your own gap. In the app, there are two one-click scenarios for this, claim at 62 and claim at 70, and each one re-runs your entire plan with the floor turning on at that age. Read your own bridge both ways, side by side.
 

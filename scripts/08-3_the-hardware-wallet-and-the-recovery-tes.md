@@ -9,7 +9,7 @@ Because a seed backup is only as good as your ability to actually restore from i
 
 == WHERE YOUR BITCOIN ACTUALLY LIVES ==
 
-First, a mental model that changes everything: your Bitcoin isn't on the device.
+First: your Bitcoin isn't on the device.
 
 When you set up a hardware wallet, it generates a seed phrase, 12 or 24 words, and every key to your Bitcoin is derived from those words. The device is just a safe place to use them. The device is replaceable. The seed is not.
 
@@ -19,7 +19,7 @@ And there's a detail that makes this sharper: most hardware wallets wipe themsel
 
 == THE SIX-STEP SETUP ==
 
-Here's the setup, 6 steps, and the order matters.
+The setup is 6 steps, and the order matters.
 
 Step one: buy the device directly from the manufacturer. Never used, never from a third-party seller. A device someone else touched can arrive with a seed they already know, and then every coin you send it is already theirs.
 
@@ -51,7 +51,7 @@ Every transfer into your wallet creates a UTXO, an unspent transaction output. T
 
 So if you send 10 small buys into your wallet, you're now holding 10 small bills. And the really small ones are called dust, because the fee to move them can approach or even exceed what they're worth.
 
-Here's why that matters: network fees depend on how many bills you're spending, not how much they're worth. A fee that's trivial against one large bill can eat a meaningful slice of a small one. So holding a pile of small UTXOs quietly raises what it costs to move your own Bitcoin later.
+That matters because network fees depend on how many bills you're spending, not how much they're worth. A fee that's trivial against one large bill can eat a meaningful slice of a small one. So holding a pile of small UTXOs quietly raises what it costs to move your own Bitcoin later.
 
 The fix is to sweep on a threshold, not on a schedule. My rule of thumb is about 0.01 to 0.02 Bitcoin as a minimum per transfer. Your smaller monthly buys accumulate on the exchange until they hit the threshold, and then they move in one transaction.
 
@@ -65,9 +65,7 @@ You bought the hardware wallet. You moved your Bitcoin onto it. And now you don'
 
 I had a client tell me almost exactly that. She said she doesn't plug it into anything, and that outside of receiving and sending she doesn't really use it, because she doesn't know how to keep it safe.
 
-If that's you, here's the part that matters.
-
-A hardware wallet is built for this. The whole design is that your keys never leave the device. It doesn't hand them to your computer or your phone when you plug it in. That's the entire reason the thing exists. So plugging it into your normal computer is not the risk you think it is.
+If that's you, a hardware wallet is built for exactly this. The whole design is that your keys never leave the device. It doesn't hand them to your computer or your phone when you plug it in. That's the entire reason the thing exists. So plugging it into your normal computer is not the risk you think it is.
 
 There is one real threat to know about, and it's worth knowing precisely. There's malware that watches your clipboard and swaps the Bitcoin address you're sending to. You paste in your address, and what actually gets sent is somebody else's.
 
@@ -77,7 +75,7 @@ On firmware updates, I'll tell you what I do. I don't rush them. When an update 
 
 == PIN VERSUS SEED PHRASE ==
 
-And here's a distinction that resolves a fear I hear constantly, which is: what if I die and nobody knows my PIN?
+And there's a distinction that resolves a fear I hear constantly: what if I die and nobody knows my PIN?
 
 Your PIN protects the device. That's all it does. If someone gets the physical device, the PIN is what stops them.
 

@@ -59,7 +59,7 @@ One preview before we close. Play 2 has a retirement version, which is borrowing
 
 == EVERY PLAY IS A COMPARISON ==
 
-Here's the frame to leave with. Each of these four plays is a comparison, not a rule. And every one of them only works inside the boundaries that defense set.
+Each of these four plays is a comparison, not a rule. And every one of them only works inside the boundaries that defense set.
 
 None of these 4 is a recommendation from me. They're plays to understand well enough to evaluate, and every one of them can lose money. The tax treatment I've described is general and it can change, so verify your own situation with a CPA before you act on any of it.
 

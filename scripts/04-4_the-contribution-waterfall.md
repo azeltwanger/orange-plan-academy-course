@@ -55,7 +55,7 @@ The waterfall and your buckets answer two different questions about the same dol
 
 So a dollar going into your Roth is a rung 4 decision and a Legacy dollar at the same time. Same dollar, two labels, no conflict.
 
-Here's where that gets practical. The waterfall tells you the order, but it doesn't always tell you what to buy once you're inside an account. That's what the buckets are for. When you have a choice inside a rung, go look at which bucket is behind, and fund that one. Strategy and then Allocation is the screen that shows you this, and it renders each timeframe as either funded or behind, so you can see which one is short without doing any math.
+The waterfall tells you the order, but it doesn't always tell you what to buy once you're inside an account. That's what the buckets are for. When you have a choice inside a rung, go look at which bucket is behind, and fund that one. Strategy and then Allocation is the screen that shows you this, and it renders each timeframe as either funded or behind, so you can see which one is short without doing any math.
 
 One trap to name: an account is not a bucket. A 401(k) sitting in a stable-value fund is a Legacy account holding Bridge-shaped risk. The wrapper tells you nothing about the job, so check both.
 

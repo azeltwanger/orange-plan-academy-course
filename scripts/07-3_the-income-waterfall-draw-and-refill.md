@@ -23,7 +23,7 @@ Every year's paycheck gets assembled top-down, and the further down you reach, t
 
 == WHERE THE STRICT ORDER BREAKS ==
 
-But here's where following it strictly creates a problem: tax brackets reset every year, and the low ones are use-it-or-lose-it.
+But following it strictly creates a problem, because tax brackets reset every year, and the low ones are use-it-or-lose-it.
 
 If you have a year with almost no ordinary income, the room in your lowest brackets doesn't roll forward. It's just gone. And spending from taxable first hands you a whole run of exactly those years, quietly throwing away cheap tax room the entire time.
 
@@ -61,7 +61,7 @@ The draw side is simple. You spend from the Reserve. This year's paycheck comes 
 
 The refill side has one rule: refill only on strength. You refill when the source is up, never when it's down.
 
-And here's how I'd actually decide that in practice, because "up" is vague and your confidence number isn't. Tie the refill to the guardrails.
+So in practice, tie the refill to the guardrails, because "up" is vague and your confidence number isn't.
 
 If you're at or above 80% confidence and you haven't hit a guardrail, refill the reserve fully that year. If you've hit the lower guardrail, meaning your confidence has slid toward 60, hold a minimum in the reserve and wait to refill until you climb back toward 80. And if you've hit the upper guardrail, you refill regardless, because you're in a strong year by definition.
 

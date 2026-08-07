@@ -25,7 +25,7 @@ But the risk is usually most acute in the first few years. That's the window. An
 
 == THE 60/80/95 BANDS ==
 
-Here's the rule. Once a year, you run the simulation and read your confidence number. And every adjustment steers back toward 80%.
+Once a year, you run the simulation and read your confidence number. And every adjustment steers back toward 80%.
 
 If confidence is down around 60, that's the lower guardrail. You cut. You reduce spending until confidence comes back up toward 80.
 
@@ -49,11 +49,11 @@ I'd take the cut. Take a bigger hit once, then let inflation compound back on sc
 
 And that's what the app's policy already does on its own. It applies inflation, then caps the cut at 10% of that inflated number. Skipping the raise is the manual alternative, and you'd be choosing it by hand.
 
-== WHAT THE CONFIDENCE NUMBER IS REALLY TELLING YOU ==
+== WHAT THE CONFIDENCE NUMBER IS TELLING YOU ==
 
-One reframe that makes this whole system click: the futures that fail at 80% confidence aren't random bad luck sprinkled evenly across time. They're almost always the same shape, which is a deep drawdown showing up in year 2 instead of year 15.
+When a plan fails at 80% confidence, the cause is almost always the timing of one drawdown. A deep drop in year 2 does something a deep drop in year 15 doesn't.
 
-By year 15, the portfolio has grown into the withdrawals, so a bad year is a dent. In year 2, every dollar of spending is coming out of a pile that's already shrinking, and the pile never gets back.
+By year 15, the portfolio has grown past the withdrawals, so a bad year sets you back and you recover. In year 2, every dollar you spend is coming out of a pile that's already shrinking, and it never gets back.
 
 So 80% means 8 in 10 futures funded the plan as written. In the other 2, the plan fell short as written. A temporary cut is one of the first responses you test, but the score alone doesn't prove it rescues every path. That's why the guardrails exist. The confidence number is an early-warning signal, not a grade.
 

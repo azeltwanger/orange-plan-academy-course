@@ -7,7 +7,7 @@ In today's lesson, we're going to cover the three things that decide your tax bi
 
 This lesson is US-specific, and I'll have a note for non-US viewers at the end.
 
-Here's the idea underneath the whole thing. You have some control over what tax rate you pay, and most of that control comes from two choices: which account you pull money out of, and which year you do it in. This lesson shows you where those two dials are so you can actually use them.
+You have some control over what tax rate you pay, and most of that control comes from two choices: which account you pull money out of, and which year you do it in. This lesson shows you where those two dials are so you can actually use them.
 
 == WHERE YOUR MONEY SITS: THE 3 BUCKETS ==
 
@@ -19,7 +19,7 @@ The second bucket is tax-deferred, so the traditional IRA and 401(k). Money goes
 
 The third bucket is the Roth. Money goes in after tax, and then it's never taxed again. Not the growth, not the withdrawals. And the Roth IRA has no forced withdrawals at all.
 
-Here's why holding all three matters: every year, you get to choose which bucket your money comes from, and that choice sets the rate you pay that year. If you go all-in on any one bucket, you've removed your own choices later. Even all-Roth, which sounds like the safe answer, actually leaves cheap tax-deferred dollars on the table, and you'll see why in a minute.
+Holding all three matters because every year, you get to choose which bucket your money comes from, and that choice sets the rate you pay that year. If you go all-in on any one bucket, you've removed your own choices later. Even all-Roth, which sounds like the safe answer, actually leaves cheap tax-deferred dollars on the table, and you'll see why in a minute.
 
 == WHEN YOU ACT: READING A TAX BRACKET ==
 
@@ -37,7 +37,7 @@ That puts them in the 22% bracket, with roughly $60,000 of room before the next 
 
 == THE BRACKET ROADMAP: THREE STAGES ==
 
-Now your income goes through three stages in retirement, and the middle one is where the money is.
+Now your income goes through three stages in retirement, and the middle one is the low-income window where the tax moves happen.
 
 Stage one is early retirement, when the paychecks stop. Say the couple retires at 60. The paycheck stops, they're living off the taxable bucket, and their reported income drops, often to the lowest it's ever been in their adult life.
 
@@ -57,7 +57,7 @@ So there's a hard deadline on the cheap years. And most people waste them, becau
 
 The third dial is the state you live in, specifically the state you're a resident of in the year you sell. It can add double digits to the tax on a gain, or nothing at all.
 
-Here's how it works. You sell, you realize a gain, and you owe federal tax. Then your state can tax that same gain at its own rate. Most states tax a capital gain as regular income, with no special long-term rate. And a handful of states don't tax income at all. The state that charges you is the one you're a resident of in the year you sell, not the one you lived in when you bought.
+You sell, you realize a gain, and you owe federal tax. Then your state can tax that same gain at its own rate. Most states tax a capital gain as regular income, with no special long-term rate. And a handful of states don't tax income at all. The state that charges you is the one you're a resident of in the year you sell, not the one you lived in when you bought.
 
 Let me put numbers on it. Today, the couple sits on $115,000 of unrealized gain in their Bitcoin. If they realize that in a state with a roughly 9% rate, the state's cut is about $10,700. Take the same sale in Texas, and it's zero.
 

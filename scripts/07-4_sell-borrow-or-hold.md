@@ -63,11 +63,11 @@ So say that number is around $100,000 of gains for your situation. Selling up to
 
 Now, what about the dollar right after that line? That one gets taxed at 15%.
 
-And here's the move: the 15% is a one-time cost and the loan rate is annual, so compare that one-time tax against the total interest over however long you'd carry the loan. So instead of selling past the line and paying 15%, you sell up to the line and you borrow the rest.
+And the 15% is a one-time cost and the loan rate is annual, so compare that one-time tax against the total interest over however long you'd carry the loan. So instead of selling past the line and paying 15%, you sell up to the line and you borrow the rest.
 
 What you're saving is the difference between that 15% capital gains rate and the loan's interest rate. And you're doing it without giving up the Bitcoin.
 
-The whole thing in one sentence. Sell up to the top of your 0% bracket, and borrow anything above it.
+So: sell up to the top of your 0% bracket, and borrow anything above it.
 
 But everything from the LTV lesson still applies here. This move puts a loan on your balance sheet, and that loan has all the same margin call risk we covered. So the cushion rules don't get relaxed just because the tax math is attractive.
 

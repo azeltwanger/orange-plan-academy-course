@@ -5,7 +5,7 @@ TELEPROMPTER SCRIPT — segment 9.4
 
 In today's lesson, we're going to cover insurance, specifically the risks your stack can't cover yet.
 
-Here's the frame. Your stack already self-insures the small stuff. That's what the reserve from earlier in the course is doing. Insurance covers the part the stack can't cover yet, which is the difference between what your family needs and what the stack already provides.
+Your stack already self-insures the small stuff. That's what the reserve from earlier in the course is doing. Insurance covers the part the stack can't cover yet, which is the difference between what your family needs and what the stack already provides.
 
 Early on, that gap is huge, and insurance covers it cheaply. As the stack compounds, the gap shrinks, and your coverage can shrink with it. So the way I think about insurance is: it's protection you rent until the stack can carry the weight itself. It's not something you carry forever.
 
@@ -25,11 +25,11 @@ Step one: the annual hole is $62,000. Step two: the years to cover. She's 43, an
 
 So the $1.5 million rule of thumb is about $300,000 higher than the gap they actually have, and that's a real difference in premium, every month, for 22 years.
 
-And here's the part that makes this Bitcoin-specific: if the stack does what they're planning for, that $1.19 million need shrinks every year without them buying or cancelling anything. That's the case for laddering, which is stacking terms, a longer base policy and a shorter top-up, so your coverage steps down as the stack steps up.
+And what makes this Bitcoin-specific is that if the stack does what they're planning for, that $1.19 million need shrinks every year without them buying or cancelling anything. That's the case for laddering, which is stacking terms, a longer base policy and a shorter top-up, so your coverage steps down as the stack steps up.
 
 One thing about timing. Term life is underwritten on your current health and priced by your age, so every year of waiting makes it more expensive. If a family depends on you and you're holding no coverage, I'd treat this as a this-month item, not a someday item.
 
-And one warning, because Bitcoiners get targeted hard with this: the permanent-life pitch. "Infinite banking," "be your own bank." Here's my honest read. Permanent products bundle insurance together with a low-yield savings component, at a much higher cost. And for a Bitcoiner, that bundle is charging you a premium to hold a savings vehicle you already replaced with a better one. If a pitch leans on the word "bank," slow down and compare the actual numbers.
+And one warning, because Bitcoiners get targeted hard with this: the permanent-life pitch. "Infinite banking," "be your own bank." My honest read is that permanent products bundle insurance together with a low-yield savings component, at a much higher cost. And for a Bitcoiner, that bundle is charging you a premium to hold a savings vehicle you already replaced with a better one. If a pitch leans on the word "bank," slow down and compare the actual numbers.
 
 == DISABILITY ==
 
@@ -45,7 +45,7 @@ Two things to go find out about your own policy. First, what it actually pays, a
 
 The third piece is umbrella coverage. Your home and auto policies each carry a liability limit, and umbrella sits on top and picks up where they stop.
 
-Here's why it matters for this audience: a liability lawsuit doesn't care that your wealth is sitting in Bitcoin. A judgment above your auto limit comes out of everything else you own. Umbrella runs a few hundred dollars a year per million of coverage, and the case for it gets stronger if you're publicly known as a Bitcoiner.
+It matters for this audience because a liability lawsuit doesn't care that your wealth is sitting in Bitcoin. A judgment above your auto limit comes out of everything else you own. Umbrella runs a few hundred dollars a year per million of coverage, and the case for it gets stronger if you're publicly known as a Bitcoiner.
 
 == LONG-TERM CARE ==
 

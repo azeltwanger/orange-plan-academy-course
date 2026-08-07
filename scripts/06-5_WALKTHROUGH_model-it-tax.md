@@ -96,7 +96,7 @@
 
 **⚠ Pay it from OUTSIDE.** Convert $30,000, owe $3,600. Pay from taxable or checking and the full $30,000 compounds tax-free. Pay it out of the conversion and only $26,400 lands.
 
-**⚠ The line that makes it click:** "so we'd be selling from the taxable Bitcoin, not from the account we just converted."
+**⚠ Say this out loud:** "so we'd be selling from the taxable Bitcoin, not from the account we just converted."
 
 **Then the question they actually ask — how do I come up with that money?**
 - Save cash between now and the filing deadline

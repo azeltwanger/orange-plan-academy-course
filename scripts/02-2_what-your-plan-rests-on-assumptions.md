@@ -31,7 +31,7 @@ The app has four built-in growth curves, and you'll see them on screen when we g
 
 Power law is what I use in my own plan until proven otherwise. Because it's fitted to the actual history, it kind of takes the argument out of picking a number.
 
-Now, notice that every single preset declines over time. And the reason is that as Bitcoin gets larger, it gets harder to move. When Bitcoin was a $10 billion asset, one big institution could move the entire market. At a trillion dollars, doubling takes trillions of new dollars coming in. At $10 trillion, it takes tens of trillions. So a declining growth curve is just more honest than assuming a flat return for 30 or 40 years.
+Now, every single preset declines over time. And the reason is that as Bitcoin gets larger, it gets harder to move. When Bitcoin was a $10 billion asset, one big institution could move the entire market. At a trillion dollars, doubling takes trillions of new dollars coming in. At $10 trillion, it takes tens of trillions. So a declining growth curve is just more honest than assuming a flat return for 30 or 40 years.
 
 == INFLATION ==
 
@@ -60,7 +60,7 @@ You're going to get to change these later and see what your plan looks like unde
 
 So your decision out of this lesson is which growth model and which inflation number your plan is going to run on.
 
-Here's how I'd think about it. Start with what you'd actually defend out loud, because if you can't explain why you picked a curve, then you didn't really pick it, you just left whatever the app had loaded. Then ask yourself which way you'd rather be wrong. If you're conservative and you're wrong, you just retire earlier than the screen said. If you're optimistic and you're wrong, the whole plan was built on something that didn't happen. And set inflation to what you actually believe, not whatever the default is, because your future spending rises with that number.
+Start with what you'd actually defend out loud, because if you can't explain why you picked a curve, then you didn't really pick it, you just left whatever the app had loaded. Then ask yourself which way you'd rather be wrong. If you're conservative and you're wrong, you just retire earlier than the screen said. If you're optimistic and you're wrong, the whole plan was built on something that didn't happen. And set inflation to what you actually believe, not whatever the default is, because your future spending rises with that number.
 
 == HOMEWORK ==
 

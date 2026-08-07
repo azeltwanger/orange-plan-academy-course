@@ -7,7 +7,7 @@ In today's lesson, we're going to cover the RMD risk, and the main tool for defu
 
 This lesson is US-specific, and I'll have a note for non-US viewers at the end.
 
-Here's the whole idea in one sentence, and if you take nothing else from this lesson, take this: you're moving money out of your traditional accounts now, at a low tax rate, so that you're not forced to pull it out later at a high one.
+The whole idea is that you're moving money out of your traditional accounts now, at a low tax rate, so that you're not forced to pull it out later at a high one.
 
 That's it. That's the entire play. Everything else here is just proving two things: that the later rate really is going to be higher, and how much room you actually have to work with right now.
 
@@ -51,7 +51,7 @@ And if they never spend that money, their kids inherit the account with the tax 
 
 == WHY BITCOIN HOLDERS SHOULD CARE MORE ==
 
-Here's why I think Bitcoin holders need to care about this more than anyone else.
+I think Bitcoin holders need to care about this more than anyone else.
 
 Take the exact same contributions, but now with Bitcoin exposure inside the traditional account growing at 20% instead of 7%. At age 60, the balance isn't $400,000, it's around $1.2 million. By 75, it's around $18.5 million. And the first RMD is roughly $750,000 a year of forced ordinary income, at whatever rate the government has set in that decade.
 
@@ -87,7 +87,7 @@ If you convert $30,000 and the bill is $3,600, pull that $3,600 from taxable Bit
 
 == THE CONFLICT TO FLAG ==
 
-Now, here's the conflict I have to flag, because these two lessons collide.
+Now, I have to flag a conflict, because these two lessons collide.
 
 The bracket lesson showed about $68,000 of empty 0% capital-gains room in that same window. But conversion income is ordinary income, and ordinary income stacks underneath your capital gains. So filling the bracket with a conversion pushes some of those gains out of the 0% rate and into 15%.
 

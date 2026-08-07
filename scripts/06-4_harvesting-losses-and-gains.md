@@ -7,7 +7,7 @@ In today's lesson, we're going to cover harvesting, both losses and gains, which
 
 This lesson is US-specific, and I'll have a note for non-US viewers at the end.
 
-Here's what harvesting is really for. Bitcoin is volatile, and most people experience that as pure stress. Harvesting turns some of that volatility into an actual tax benefit. A drawdown becomes a chance to bank a loss you can use, and a low-income year becomes a chance to reset your basis higher for free. Same volatility, working for you instead of at you.
+Bitcoin is volatile, and most people experience that as pure stress. Harvesting turns some of that volatility into an actual tax benefit. A drawdown becomes a chance to bank a loss you can use, and a low-income year becomes a chance to reset your basis higher for free. Same volatility, working for you instead of at you.
 
 Everything so far in this module has been about acting in low-tax years. This lesson adds a second trigger: acting when the price moves. And because Bitcoin moves so much, you get these chances far more often than a stock portfolio ever gives you.
 
@@ -29,7 +29,7 @@ Look at their two lots. The hardware wallet lot has a $30,000-per-coin basis, so
 
 So they sell that quarter Bitcoin for $10,000, and they buy it right back for $10,000. Position unchanged. But the $5,000 loss is now real for tax purposes.
 
-Here's how losses get used, and it's a specific order. They offset capital gains first, dollar for dollar. Then they offset ordinary income, currently up to $3,000 a year, and verify that number. And whatever's left carries forward to future years.
+They offset capital gains first, dollar for dollar. Then they offset ordinary income, currently up to $3,000 a year, and verify that number. And whatever's left carries forward to future years.
 
 The couple has no gains this year, so the first bucket takes nothing. $3,000 goes against ordinary income at their 22% rate, which is worth about $660 in cash. And the remaining $2,000 carries forward.
 

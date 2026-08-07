@@ -33,7 +33,7 @@ And that creates a conflict, the same one from the tax module: one low-income wi
 
 The second path is health-sharing, and this one I can speak to from experience, because my family uses CrowdHealth. Switching saved us about $1,000 a month compared to what we were looking at on the marketplace.
 
-Here's how it works. You pay a monthly membership amount. When you have a health event, you cover a fixed member responsibility, which is a few hundred dollars. And the bills above that get crowdfunded by the membership, with cash-pay pricing negotiated up front.
+You pay a monthly membership amount. When you have a health event, you cover a fixed member responsibility, which is a few hundred dollars. And the bills above that get crowdfunded by the membership, with cash-pay pricing negotiated up front.
 
 Now, the trade-offs, and I want to be straight about these because I'm in this system. It's not insurance, which means there's no legal guarantee that any bill gets funded. Pre-existing conditions get limited, phased participation. It's cash-pay medicine, so there's no network and you're the payer. And it's typically not HSA-qualified, so joining usually means giving up new HSA contributions. Verify current law on that one.
 

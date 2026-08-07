@@ -17,13 +17,13 @@ The first kind is the revocable living trust. You can change it or cancel it any
 
 It buys you three things. First, it avoids probate, because assets titled in the trust's name aren't yours at death, they're the trust's, so there's nothing for the court to settle. Second, it keeps things private, because probate is public record and a trust isn't. And third, it gives you a smooth handoff if you're incapacitated, because the successor trustee just steps in.
 
-Now here's what it does not buy you, and this is the most expensive misunderstanding in estate planning: it does not lower your estate tax bill. The estate tax follows control, not paperwork. If you can cancel the trust and take everything back tomorrow, then for tax purposes, the assets are still yours.
+Now, what it does not buy you is the most expensive misunderstanding in estate planning. It does not lower your estate tax bill. The estate tax follows control, not paperwork. If you can cancel the trust and take everything back tomorrow, then for tax purposes, the assets are still yours.
 
-Here's what happens when someone doesn't know that. They sit down with a salesperson, they pay $3,000 or $4,000 for a revocable living trust, and they walk out believing they just protected their estate from taxes. They didn't. They bought probate avoidance and privacy at a tax-shelter price, and nobody corrected them.
+They sit down with a salesperson, they pay $3,000 or $4,000 for a revocable living trust, and they walk out believing they just protected their estate from taxes. They didn't. They bought probate avoidance and privacy at a tax-shelter price, and nobody corrected them.
 
 The second kind is the irrevocable trust, and it's the opposite trade. You give up control, and generally you can't undo it. In exchange, it removes the assets from your taxable estate, and it can shield them from creditors and lawsuits. It works for exactly the reason the revocable one doesn't: you actually gave the assets away. The trust owns them, not you.
 
-And here's the Bitcoin-specific part: the future growth escapes your estate too. You move an asset out at its value on the day you transfer it, and everything it becomes after that day grows outside the line. Which means this tool is worth the most when you expect the most growth. The cost is flexibility, permanently.
+And the Bitcoin-specific part is that the future growth escapes your estate too. You move an asset out at its value on the day you transfer it, and everything it becomes after that day grows outside the line. Which means this tool is worth the most when you expect the most growth. The cost is flexibility, permanently.
 
 == THE EIGHT-TRIGGER GATE ==
 

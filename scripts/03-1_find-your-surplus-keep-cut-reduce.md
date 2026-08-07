@@ -25,7 +25,7 @@ Notice what we did not subtract. We didn't subtract retirement contributions. Th
 
 The number that people get wrong here, more than any other, is their spending number. Your spending number is your after-tax living expenses. It is not your gross income, and it is not your debt payments.
 
-Here's why this matters so much. If this couple entered their paycheck, $190,000, instead of what they actually spend, which is $80,000, the plan is now going to size their retirement to fund $110,000 a year of spending that doesn't exist. The stack it's going to tell them to build is more than double what their life actually needs. And every single projection downstream of that is wrong. Their retirement date is wrong, their confidence number is wrong, their withdrawal plan is wrong.
+If this couple entered their paycheck, $190,000, instead of what they actually spend, which is $80,000, the plan is now going to size their retirement to fund $110,000 a year of spending that doesn't exist. The stack it's going to tell them to build is more than double what their life actually needs. And every single projection downstream of that is wrong. Their retirement date is wrong, their confidence number is wrong, their withdrawal plan is wrong.
 
 The app keeps these separate for you on purpose. There are 4 rows: income, taxes, living, and debt payments. Living is where your spending goes.
 
@@ -53,7 +53,7 @@ Back in 2017 there was a guy named Didi Taihuttu who sold his family home in the
 
 == TWO SPENDING NUMBERS, NOT ONE ==
 
-Here's something that most planning tools don't ask you for. You actually need two spending numbers, not one.
+You actually need two spending numbers, not one.
 
 The first one is what you normally spend. That's your regular month, with the travel and the eating out and everything else in it.
 

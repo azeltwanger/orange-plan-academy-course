@@ -23,7 +23,7 @@ Trajectory is two numbers that get read together, always as a pair.
 
 The earliest-retirement date tells you when. And the confidence number tells you how sturdy that date is. It's the share of simulated futures where the plan funds your spending all the way through.
 
-Here's why the pairing matters. Age 60 at 82% confidence is a real answer. Age 57 at 55% confidence would be a prettier date and a worse plan. Because a date on its own can always be moved earlier by assuming better returns. The confidence number is what surfaces the cost of that assumption.
+Age 60 at 82% confidence is a real answer. Age 57 at 55% confidence would be a prettier date and a worse plan. Because a date on its own can always be moved earlier by assuming better returns. The confidence number is what surfaces the cost of that assumption.
 
 == 3. RISK ==
 

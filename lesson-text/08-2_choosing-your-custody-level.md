@@ -27,7 +27,7 @@ A second question applies to whatever isn't self-custodied: **how many instituti
 
 ## No custody setup is trust-free
 
-Self-custody removes counterparty risk. It doesn't remove trust, it moves it, to the manufacturer, the firmware, the randomness that generated your seed, and your wallet software. If every satoshi sits behind one device model running one company's firmware, that's a single trust holding up the whole stack: the same shape as keeping everything at one exchange, just harder to see.
+Self-custody removes counterparty risk. You are still trusting the manufacturer, the firmware, the randomness that generated your seed, and your wallet software. If every satoshi sits behind one device model running one company's firmware, one trust is holding up your entire stack. That is the same concentration as keeping everything at one exchange, and it is harder to see because it feels like independence.
 
 Spreading it out is what prevents a total loss: a second device from a different manufacturer, a multisig whose keys don't all come from one vendor, or part of the stack in a different custody model. Size it to your comfort, your technical ability, and how much responsibility you're willing to carry. Three setups you half understand is how people lose money; one setup run well is a real answer.
 

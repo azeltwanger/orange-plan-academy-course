@@ -5,7 +5,7 @@ TELEPROMPTER SCRIPT — segment 9.3
 
 In today's lesson, we're going to cover the heir letter, which is the first thing your family reads on the day they need the plan.
 
-Here's why this matters more than it sounds. Your family isn't going to be at their sharpest on the day they need this. They're grieving, people are calling them, and somebody is probably already trying to sell them something. The letter is what lets them follow instructions instead of making decisions.
+Your family isn't going to be at their sharpest on the day they need this. They're grieving, people are calling them, and somebody is probably already trying to sell them something. The letter is what lets them follow instructions instead of making decisions.
 
 The heir letter is a plain-language document written to the people who survive you. It tells them who to call, in what order, what exists, where the paperwork is, and what not to do in the first week.
 
@@ -15,7 +15,7 @@ The thing to hold in mind while you write it is that your family will read this 
 
 One rule governs everything in the letter: it carries no secrets. Not one, not ever.
 
-Here's why. A letter is a document. It sits in a drawer, or a safe, or an email, and it can be found, copied, or photographed by somebody you never planned for. So anything written in it is only as protected as the place it happens to be sitting.
+A letter is a document. It sits in a drawer, or a safe, or an email, and it can be found, copied, or photographed by somebody you never planned for. So anything written in it is only as protected as the place it happens to be sitting.
 
 And that rule is exactly what lets the letter travel safely. It can sit in a drawer, go in an email, or get handed to an attorney, and none of that costs you anything.
 
@@ -57,7 +57,7 @@ The last piece is the estate plan map, which is yours to fill in: who holds what
 
 That filled-in map becomes your agenda for sitting your family down. Walk them through it once, at the process level, while you're still around to answer questions. Because the goal is that the letter isn't the first time they've heard any of it.
 
-Here's the gap it fills. Everything else in this module is passive. The documents sit in a file. The letter sits wherever you put it. The split works, but only once somebody starts using it. And starting depends on a person remembering, on the worst day of their life, that a plan exists.
+Everything else in this module is passive. The documents sit in a file. The letter sits wherever you put it. The split works, but only once somebody starts using it. And starting depends on a person remembering, on the worst day of their life, that a plan exists.
 
 A dead man's switch is a scheduled check-in. You confirm you're alive on a set interval. If you stop confirming, the system sends your heir letter to the people you named, automatically. Delivery no longer depends on your family remembering anything.
 
@@ -77,7 +77,7 @@ Nothing was lost, and nothing was stolen. 11 weeks go by and nothing happens, be
 
 == THE 4 STEPS ==
 
-Here's how the switch works, in 4 steps.
+The switch works in 4 steps.
 
 Step one: he checks in, every 90 days by default. It takes seconds.
 
@@ -109,7 +109,7 @@ Orange Plan ships with the switch built in, and the default check-in is 90 days.
 
 == THREE PIECES WORK TOGETHER ==
 
-So here's the whole estate module in three sentences. The documents give the process legal weight. The split makes it possible for two people to act. And the switch makes sure the process actually begins.
+So, the estate module in three sentences. The documents give the process legal weight. The split makes it possible for two people to act. And the switch makes sure the process actually begins.
 
 Now let's go arm it in the app.
 

@@ -9,7 +9,7 @@ Custody is more than where your Bitcoin sits. It covers whether you can reach it
 
 Let's separate it from inheritance up front, because people mix these. Inheritance is the legal transfer, the wills, the executor, who gets what, and the estate module covers that. This module is about securing access while you're alive and making it recoverable if you're not.
 
-Here's why this matters. In 2022, Celsius customers watched their balance sit on a screen while withdrawals were frozen. Same thing at BlockFi, same at FTX. The number on the screen was theirs. The Bitcoin was not. A Bitcoin balance in someone else's system is a claim on their Bitcoin, not ownership of yours.
+In 2022, Celsius customers watched their balance sit on a screen while withdrawals were frozen. Same thing at BlockFi, same at FTX. The number on the screen was theirs. The Bitcoin was not. A Bitcoin balance in someone else's system is a claim on their Bitcoin, not ownership of yours.
 
 == THE 5 QUESTIONS ==
 

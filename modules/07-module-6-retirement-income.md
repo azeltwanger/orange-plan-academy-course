@@ -589,7 +589,7 @@ Prefer the cut. Take a bigger hit once, then let inflation compound back on sche
 
 ### The confidence number is really about timing
 
-The futures that fail at 80% aren't random bad luck sprinkled evenly. Almost always the same shape: a deep drawdown showing up in year 2 instead of year 15. By year 15, the portfolio has grown into the withdrawals, so a bad year is a dent. In year 2, every dollar of spending comes out of a pile that's already shrinking, and the pile never gets back.
+When a plan fails at 80%, the cause is almost always the timing of one drawdown. A deep drop in year 2 does something a deep drop in year 15 doesn't. By year 15, the portfolio has grown past the withdrawals, so a bad year sets you back and you recover. In year 2, every dollar you spend comes out of a pile that's already shrinking, and it never gets back.
 
 80% means 8 in 10 futures needed no changes. In the other 2, the plan survives only if you cut for a while. The confidence number is an early-warning signal, not a grade.
 

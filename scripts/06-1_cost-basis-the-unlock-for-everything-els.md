@@ -7,9 +7,9 @@ In today's lesson, we're going to cover cost basis, which is the one number that
 
 Quick note before we start: this module is US-specific. The brackets, the Roth accounts, the RMDs, all of it assumes the US tax code. If you're outside the US, the principles travel well, but check the specifics with a local tax professional.
 
-Here's the frame for the whole module. Real tax strategy works forward. You act in the years when your rate is low, and you act before the government forces the timing on you. And every single forward-looking move starts with one number being right.
+Real tax strategy works forward. You act in the years when your rate is low, and you act before the government forces the timing on you. And every single forward-looking move starts with one number being right.
 
-Here's why this lesson comes first in the module. Cost basis is the record of what you paid. Without it, you can't prove a loss, you can't time a sale, and you can't tell whether a Roth conversion is cheap or expensive this year. Every other move in this module depends on having it. Get this one right and the rest of the module actually works on your numbers.
+Cost basis is the record of what you paid. Without it, you can't prove a loss, you can't time a sale, and you can't tell whether a Roth conversion is cheap or expensive this year. Every other move in this module depends on having it. Get this one right and the rest of the module actually works on your numbers.
 
 == WHAT COST BASIS IS ==
 
@@ -49,7 +49,7 @@ The standard the IRS actually holds you to is "reasonable and documented," not "
 
 == NEVER LEAVE BASIS BLANK ==
 
-Here's the one hard rule of this lesson: never leave basis blank.
+So the one hard rule of this lesson: never leave basis blank.
 
 Because if there's no basis at all, the gain gets treated as the entire sale price.
 
