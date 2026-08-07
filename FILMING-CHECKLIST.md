@@ -5,7 +5,7 @@
 <!-- METRICS:START -->
 | | Lessons | Runtime |
 |---|---|---|
-| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **223 min (3.7 h)** |
+| **Core** — Build Your Bitcoin Financial Plan (required) | 27 teach | **218 min (3.6 h)** |
 | **Advanced Library** — optional, gated per lesson | 17 teach | 118 min |
 
 Plus 11 core screen captures, narrated off the DO / SEE / ⚠ sheets rather than read.

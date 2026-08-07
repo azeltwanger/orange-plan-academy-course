@@ -38,7 +38,13 @@ for f in sorted(os.listdir(outdir)):
 # Protect by LESSON NUMBER, not filename. A hand-calibrated script whose title
 # drifted from the master's would otherwise be shadowed by a fresh generated
 # copy under a new slug, leaving two files for one lesson.
-SPOKEN_NUMS = {f.split('_')[0] for f in SPOKEN if f[:2].isdigit()}
+# Normalise the hybrid '-A' suffix. A protected hybrid script is named
+# '09-3-A_slug.md', but if the master's 🎥 marker is later removed the
+# generator emits '09-3_slug.md' — a different filename AND a different key,
+# so protection missed it and two files existed for one lesson. Key on the
+# lesson number alone.
+SPOKEN_NUMS = {f.split('_')[0].removesuffix('-A')
+               for f in SPOKEN if f[:2].isdigit()}
 print(f'protected: {len(SPOKEN)} files / {len(SPOKEN_NUMS)} lesson numbers')
 
 # Core lessons are '## 4.1'; Advanced Library lessons are '## A7.2'.
@@ -111,7 +117,7 @@ for p in parts[1:]:
         fn = f'{mod}-{sub}_{slug}.md'
     else:
         fn = f'{int(mod):02d}-{sub}{"-A" if hybrid else ""}_{slug}.md'
-    if fn in SPOKEN or fn.split('_')[0] in SPOKEN_NUMS:
+    if fn in SPOKEN or fn.split('_')[0].removesuffix('-A') in SPOKEN_NUMS:
         continue  # keep the hand-written / dictated version for this lesson
     open(os.path.join(outdir, fn), 'w', encoding='utf-8').write(header + text)
     made += 1

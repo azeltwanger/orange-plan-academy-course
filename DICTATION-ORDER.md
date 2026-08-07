@@ -3,7 +3,7 @@
 Read top to bottom. Nothing below depends on a decision you haven't made yet,
 as long as you settle the five things in the next section first.
 
-**27 teach lessons · 216 min (3.6 h) of finished audio at 155 wpm.**
+**27 teach lessons · 218 min (3.6 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not on this list. They're screen captures you narrate in your
 own words off the DO / SEE / ⚠ sheets, and they happen after the teach lessons
@@ -123,13 +123,13 @@ changed once, in both places, before you record.
 | 8.4 | *External demo: hardware wallet setup + exchange hardening* | — DEMO, narrated off the sheet |
 | 8.5 | *Walkthrough: document your custody map in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 8 — Estate & Inheritance · 32 min
+### Module 8 — Estate & Inheritance · 34 min
 
 | # | Lesson | min |
 |---|---|---|
 | 9.1 | The executor, the four legal documents, and choosing an estate attorney | 9.3 |
 | 9.2 | Split access: dual control and redundancy | 10.1 |
-| 9.3 | The heir letter and the dead man's switch | 4.5 |
+| 9.3 | The heir letter and the dead man's switch | 7.4 |
 | 9.4 | Insurance: term life, disability, umbrella, and when to stop | 7.7 |
 | 9.5 | *Walkthrough: Protect, the heir letter, and the switch* | — WALKTHROUGH, narrated off the sheet |
 
@@ -143,7 +143,7 @@ changed once, in both places, before you record.
 
 ---
 
-**27 teach lessons · 216 min (3.6 h) of finished audio at 155 wpm.**
+**27 teach lessons · 218 min (3.6 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not dictated. They are screen captures you narrate in
 your own words off the DO / SEE / ⚠ sheets, and they happen after the
