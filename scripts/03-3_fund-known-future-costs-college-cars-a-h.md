@@ -47,6 +47,18 @@ The second option is to pre-fund it from flow. They'd route about $1,000 a month
 
 The third option is to sell Bitcoin to cover it. That can work, and it can work well if the tuition years happen to land in a low-income year, when they can realize gains cheaply. The retirement module has a name for those years and a way to count yours; for now, just notice that a year with low income is a cheap year to sell in. Realizing a gain just means selling something for more than you paid, and the profit is the part that gets taxed. But if the tuition years land while they're still working and earning, they're forcing realized gains in high-bracket years, and that gets expensive.
 
+== HOW MUCH A MONTH ==
+
+So how do you get your own number? It's one division, and I want you to do it out loud rather than hunt for a calculator.
+
+Your target, divided by the months between now and when the bill lands.
+
+For the couple, that's $100,000 divided by 96 months, which is a bit over $1,000 a month. That's it. That's the whole calculation.
+
+Now, you might be thinking: what about growth? If the money is invested for eight years it should get there on less. That's true, and I still want you to use the plain division, for two reasons. For anything inside about five years you shouldn't be taking much risk with it anyway, so there isn't much growth to count on. And over a longer horizon, arriving early is a much better failure than arriving short. Growth shows up as you being ahead of schedule, and you'll see that at your annual review, which is a nice problem.
+
+One thing to be honest about: Orange Plan doesn't do this division for you today. There's no field where you type $100,000 and 8 years and get a monthly number back. You do the division, and then you put the two halves of it into the app in two different places, which I'll show you next.
+
 I don't think there's one right answer here. Which option makes sense is going to come down to your numbers. But what your plan absolutely has to do is know that the cost is coming and have a lane assigned to it, because a plan that doesn't know about a $100,000 bill is going to give you a retirement date that isn't real.
 
 == YOUR DECISION ==
@@ -55,7 +67,13 @@ Which known costs get pre-funded, and in which lane.
 
 == PUT IT IN ORANGE PLAN ==
 
-Plan → Goals for each dated cost, then Cash Flow → Routing to point dollars at it.
+Two places, because the app holds the cost and the container separately.
+
+The cost goes in at Plan → Retirement → Life events → Add event. Name it, set the year, set the amount, and if it repeats — four years of tuition — mark it recurring. This is the half that makes your projection know the bill is coming, and it's the half that moves your retirement date.
+
+The container is your Bridge bucket, at Strategy → Allocation. Raise the Bridge target by what you're accumulating, so the money has somewhere to live that isn't going to be down 40% the year the bill lands.
+
+Then route the monthly number you just calculated at Cash Flow → Routing.
 
 == YOU ARE DONE WHEN ==
 

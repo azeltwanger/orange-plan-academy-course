@@ -125,3 +125,48 @@ intelligent people who are not financial planners. Track where they pause,
 replay, mis-enter data, or fail to complete the module.
 
 That evidence outranks any runtime target.
+
+---
+
+## 8 · Confirmed app gap: funding a dated cost
+
+**The question, verbatim from the calls and from Austin:** *"My kid goes to
+college in X years. How much do I need to save?"*
+
+**What the app has today** (verified in `orange-plan`, 2026-08-08):
+
+| Piece | Status |
+|---|---|
+| `financial_goals` table — `target_amount`, `saved_so_far`, `target_date`, `funding_sources`, `priority` | **Exists in the schema**, read into projection/AI context by `SavingsStrategy.jsx` |
+| Any UI to create or edit a goal | **None.** No page, no route, no form. Referenced only in tests and storage/export |
+| `life_events` — name, year, amount, recurring | Exists, with a real editor at Plan → Retirement → Life events |
+| "How much per month to hit a target by year N" | **Does not exist anywhere** |
+
+So Austin's memory is right: there was a row for this. It is a **dead table
+with live plumbing** — the hard part (schema, context wiring) is already done,
+and the missing part is UI plus one division.
+
+**Course side, fixed now.** 3.3 pointed at "Plan → Goals", a page that does not
+exist. It now teaches the division out loud (target ÷ months to go), says
+plainly that the app does not do it for you, and routes the two halves to the
+surfaces that are real: the cost as a **life event** so the projection knows,
+the container as the **Bridge bucket target** so it lives somewhere safe.
+
+**Proposed app build — Austin's call, not started.** Small, because the
+schema and the context wiring already exist:
+
+1. A goal editor: name, target amount, target date, saved so far.
+2. Display the division: *"$1,042/month to reach $100,000 by March 2034."*
+3. On save, offer to create the matching life event, so the projection knows
+   about the bill rather than only the saving.
+4. Show it in Cash Flow → Routing as a destination.
+
+⚠ Step 3 touches the projection, so it needs the golden-snapshot treatment and
+an explicit go-ahead. Steps 1, 2 and 4 do not.
+
+**Why not just link an external calculator.** It produces a number with no
+provenance that never enters the plan — the exact failure the client calls
+named most often. A number the student types into a bucket target should be
+traceable to where it came from. The interim course fix keeps it traceable by
+making the arithmetic something they did out loud, in one step, rather than
+something a third-party page produced.

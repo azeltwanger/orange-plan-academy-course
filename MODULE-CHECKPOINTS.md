@@ -53,7 +53,8 @@ sum of them:
 - [ ] Your true surplus is a number in the app, not an estimate
 - [ ] You have two spending numbers: normal, and bare-bones
 - [ ] Your reserve target is set **in months of spending**, and the app shows how many months you actually hold
-- [ ] Every known future cost inside ten years has a funding lane, or you have deliberately decided monthly cash flow absorbs it
+- [ ] Every known future cost inside ten years is entered as a **life event** (so the projection knows it is coming) and has a funding lane, or you have deliberately decided monthly cash flow absorbs it
+- [ ] For each pre-funded cost you can say the monthly number and where it came from: **target ÷ months to go**. The app does not do this division for you
 - [ ] You can say what your reserve is *for* in one sentence: so a bad month never forces a Bitcoin sale
 
 ---

@@ -6,7 +6,7 @@ then M1–M9) in course order. The optional library lives in `MASTER-ADVANCED.md
 <!-- METRICS:START -->
 | | Lessons | Runtime |
 |---|---|---|
-| **Core** — Build Your Bitcoin Financial Plan (required) | 27 teach | **227 min (3.8 h)** |
+| **Core** — Build Your Bitcoin Financial Plan (required) | 27 teach | **229 min (3.8 h)** |
 | **Advanced Library** — optional, gated per lesson | 14 teach | 106 min |
 
 Plus 11 core screen captures, narrated off the DO / SEE / ⚠ sheets rather than read.
@@ -1223,13 +1223,29 @@ Every known cost gets its own row: description, date, dollar amount, lane. The p
 
 *↑ Never names **Life Events**, which is the actual feature.*
 
+### How much a month
+
+**Your target, divided by the months until the bill lands.** That is the whole calculation.
+
+$100,000 ÷ 96 months = a bit over **$1,000/month**.
+
+**What about growth?** Use the plain division anyway. Inside about five years you should not be taking much risk with this money, so there is little growth to count on. Over a longer horizon, arriving early is a far better failure than arriving short: growth shows up as being ahead of schedule, which you notice at your annual review.
+
 ### Your decision
 
 Which known costs get pre-funded, and in which lane.
 
 ### Put it in Orange Plan
 
-Plan → Goals for each dated cost, then Cash Flow → Routing to point dollars at it.
+**Two places**, because the app holds the cost and the container separately.
+
+| What | Where | Why |
+|---|---|---|
+| **The cost** | Plan → Retirement → **Life events** → Add event. Name, year, amount; mark it recurring if it repeats (four years of tuition) | This is what makes your projection know the bill is coming, and it is what moves your retirement date |
+| **The container** | Strategy → Allocation → raise the **Bridge** target by what you are accumulating | So the money lives somewhere that will not be down 40% the year the bill lands |
+| **The monthly amount** | Cash Flow → **Routing** | Your own division, below |
+
+⚠ **Orange Plan does not do the division for you today.** There is no field where you enter $100,000 and 8 years and get a monthly number back. You do it, then enter the two halves in the two places above.
 
 ### You are done when
 
