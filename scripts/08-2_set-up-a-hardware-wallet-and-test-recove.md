@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 8.2
 8.2 Set up a hardware wallet and test recovery
-~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the hardware wallet setup, and the recovery test that proves your backup actually works before serious money depends on it.
@@ -43,27 +43,17 @@ The rules for the seed itself are short. The seed exists on paper or steel, offl
 
 And paper degrades and burns. For a meaningful stack, the seed goes on steel, and the backups live in separate locations. We'll cover the locations in the single-points-of-failure lesson.
 
-== MOVING COIN WELL: UTXOS AND SWEEP THRESHOLDS ==
+== ONE POINTER BEFORE YOU START MOVING COIN ==
 
-The last piece of this lesson is about moving coins well, and it starts with a word: UTXO.
+One thing to know before you start sending Bitcoin to this wallet, and then I'll point you at where it's taught properly.
 
-Every transfer into your wallet creates a UTXO, an unspent transaction output. The way I think about it is that each one is a separate bill in your wallet. Your balance is the sum of the bills, and you spend whole bills, not slices of them.
+Every deposit into your wallet is its own separate chunk, and every chunk costs a fee to spend later. So a lot of very small transfers quietly raises what it costs to move your own Bitcoin down the road. If you're buying small amounts regularly, let them accumulate and transfer in fewer, larger chunks rather than moving every buy the day it happens.
 
-So if you send 10 small buys into your wallet, you're now holding 10 small bills. And the really small ones are called dust, because the fee to move them can approach or even exceed what they're worth.
-
-That matters because network fees depend on how many bills you're spending, not how much they're worth. A fee that's trivial against one large bill can eat a meaningful slice of a small one. So holding a pile of small UTXOs quietly raises what it costs to move your own Bitcoin later.
-
-The fix is to sweep on a threshold, not on a schedule. My rule of thumb is about 0.01 to 0.02 Bitcoin as a minimum per transfer. Your smaller monthly buys accumulate on the exchange until they hit the threshold, and then they move in one transaction.
-
-And if you already have a pocketful of small bills, the fix is consolidation: you combine many small pieces into one, in a single transaction, best done when network fees are low. That's an annual custody review item. It's maintenance, not an emergency.
+That's the whole rule you need today. The advanced library has the full lesson on it, along with why you use a fresh receiving address every time. Worth watching once, before you've made a hundred small transfers rather than after.
 
 == IF YOU'RE AFRAID TO TOUCH IT ==
 
-I want to talk to a specific person for a minute, because I run into them a lot.
-
-You bought the hardware wallet. You moved your Bitcoin onto it. And now you don't touch it. You don't plug it in, you don't update it, you don't check it, because you're scared that plugging it in is how you get robbed.
-
-I had a client tell me almost exactly that. She said she doesn't plug it into anything, and that outside of receiving and sending she doesn't really use it, because she doesn't know how to keep it safe.
+I want to talk to a specific person for a minute, because I run into them a lot. You bought the hardware wallet, you moved your Bitcoin onto it, and now you don't touch it. You don't plug it in, you don't update it, you don't check it, because you're scared that plugging it in is how you get robbed. A client told me almost exactly that: she doesn't plug it into anything, because she doesn't know how to keep it safe.
 
 If that's you, a hardware wallet is built for exactly this. The whole design is that your keys never leave the device. It doesn't hand them to your computer or your phone when you plug it in. That's the entire reason the thing exists. So plugging it into your normal computer is not the risk you think it is.
 
@@ -71,7 +61,7 @@ There is one real threat to know about, and it's worth knowing precisely. There'
 
 The defense takes 10 seconds and it never fails: **read the address on the hardware wallet's own screen and confirm it matches what's on your computer.** The whole address, not just the first few characters. The device screen is the thing malware can't touch. That's why it has a screen.
 
-On firmware updates, I'll tell you what I do. I don't rush them. When an update comes out, I usually wait a few months and let other people find the problems first. But I do eventually install them, because they often contain real security fixes. Being a little paranoid here isn't a bad instinct at all. Just don't let it turn into never.
+On firmware updates, I don't rush them, and I do eventually install them, because they often carry real security fixes. Being a little paranoid here isn't a bad instinct. Just don't let it turn into never.
 
 == PIN VERSUS SEED PHRASE ==
 

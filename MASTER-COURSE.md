@@ -3562,71 +3562,99 @@ You'll hear people say real Bitcoiners self-custody everything, immediately. Tha
 - For anything not self-custodied, count the institutions it sits in and ask whether that number matches what's at stake.
 
 ## 8.2 Set up a hardware wallet and test recovery
-*`TEACH` · 678 words · ~5 min*
+*`TEACH` · ~1,139 words · ~7 min*
 
 **By the end of this lesson, you can:**
 
 - Set up a hardware wallet safely from scratch
 - Never leak the seed phrase, ever
 - Perform a wipe-and-restore recovery test
-- Consolidate small transactions when fees are low
+- Know the one transfer rule that matters before you start sending coin
 
 ---
 
-A seed backup is only as good as your ability to actually restore from it. This lesson walks through the setup, then the recovery test that proves the backup works before serious money depends on it.
+In today's lesson, we're going to cover the hardware wallet setup, and the recovery test that proves your backup actually works before serious money depends on it.
 
-### Where your Bitcoin actually lives
+Because a seed backup is only as good as your ability to actually restore from it. And most people have never tested that.
 
-Your Bitcoin isn't on the device. When you set up a hardware wallet, it generates a **seed phrase** (12 or 24 words), and every key to your Bitcoin is derived from those words. The device is a safe place to use them.
+### Where your bitcoin actually lives
 
-- The device is replaceable.
-- The seed is not.
+First: your Bitcoin isn't on the device.
 
-If the device breaks, you rebuild the wallet on a new device from the seed. If the seed is wrong, a broken device is the end of the stack.
+When you set up a hardware wallet, it generates a seed phrase, 12 or 24 words, and every key to your Bitcoin is derived from those words. The device is just a safe place to use them. The device is replaceable. The seed is not.
 
-Most hardware wallets wipe themselves after a set number of wrong PIN entries. Right feature (stops a thief guessing their way in). Also means your entire stack lives on the paper backup. The device can erase itself on a Tuesday afternoon, and that paper becomes the only copy.
+So if the device breaks, you rebuild the wallet on a new device from the seed, and nothing is lost. But if the seed is wrong, a broken device is the end of the stack.
+
+And there's a detail that makes this sharper: most hardware wallets wipe themselves after a set number of wrong PIN entries. That's the right feature, because it stops a thief from guessing their way in. But it also means your entire stack effectively lives on the paper backup. The device can erase itself on a Tuesday afternoon, and that piece of paper becomes the only copy in existence.
 
 ### The six-step setup
 
-1. **Buy the device directly from the manufacturer.** Never used, never third-party. A device someone else touched can arrive with a seed they already know.
-2. **Generate a brand-new wallet on the device itself.** The seed is created by the device and has never existed anywhere else.
-3. **Write the seed down offline. Set a PIN.**
-4. **Send a small test transaction to the wallet.** About 0.01 BTC (~$1,000). Small enough that losing it is survivable, big enough that you take it seriously.
-5. **Wipe the device.** Factory reset, on purpose, with that $1,000 sitting on it. This is where most people stop short.
-6. **Restore from your written seed** and confirm the test transaction reappears.
+The setup is 6 steps, and the order matters.
 
-The wipe proves three things at once: the seed was written correctly, you know the procedure under calm conditions, and the backup works.
+Step one: buy the device directly from the manufacturer. Never used, never from a third-party seller. A device someone else touched can arrive with a seed they already know, and then every coin you send it is already theirs.
 
-- If the restore works, the $150,000 stays where it is and you've proven the backup.
-- If it fails, you find out with $1,000 at risk instead of $150,000.
+Step two: generate a brand-new wallet on the device itself. The seed gets created by the device, and it has never existed anywhere else in the world.
+
+Step three: write the seed down offline, and set a PIN.
+
+Step four: send a small test transaction to the wallet. Something like 0.01 Bitcoin, around $1,000. Small enough that losing it is survivable, big enough that you take it seriously.
+
+Step five, and this is where most people stop short: wipe the device. Factory reset it, on purpose, with that $1,000 sitting on it. I know that feels wrong. That's exactly why you do it.
+
+Step six: restore from your written seed, and confirm the test transaction reappears.
+
+That wipe-and-restore proves three things at once. The seed was written down correctly. You know the procedure, and you learned it under calm conditions. And the backup actually works.
+
+If the restore works, your real stack moves over and you've proven the backup. And if it fails, you found out with $1,000 at risk instead of $150,000. I think that's a pretty good trade for an afternoon of work.
 
 ### The never list
 
-> ⚠ Never type your seed words into a computer, phone, website, screenshot, photo, or AI chat. Ever. Never buy a used or third-party device.
+The rules for the seed itself are short. The seed exists on paper or steel, offline, and nowhere else. Not in a photo, not in a password manager, not in a note app, because anything with a screen and a network connection can be read.
 
-The seed exists on paper or steel, offline, and nowhere else. Anything with a screen and a network connection can be read.
+And paper degrades and burns. For a meaningful stack, the seed goes on steel, and the backups live in separate locations. We'll cover the locations in the single-points-of-failure lesson.
 
-Paper degrades and burns. For a meaningful stack, seed goes on steel, and backups live in separate locations.
+### One pointer before you start moving coin
 
-### Moving coin well: UTXOs and sweep thresholds
+One thing to know before you start sending Bitcoin to this wallet, and then I'll point you at where it's taught properly.
 
-Every transfer into your wallet creates a **UTXO** (unspent transaction output). Think of it as a separate bill in your wallet. Your balance is the sum of the bills, and you spend whole bills, not slices.
+Every deposit into your wallet is its own separate chunk, and every chunk costs a fee to spend later. So a lot of very small transfers quietly raises what it costs to move your own Bitcoin down the road. If you're buying small amounts regularly, let them accumulate and transfer in fewer, larger chunks rather than moving every buy the day it happens.
 
-Send 10 small buys in, and you're holding 10 small bills. Really small ones are called dust because the fee to move them can approach or exceed what they're worth. Either way, holding many small UTXOs raises what it costs to move your Bitcoin later.
+That's the whole rule you need today. The advanced library has the full lesson on it, along with why you use a fresh receiving address every time. Worth watching once, before you've made a hundred small transfers rather than after.
 
-Network fees depend on how many bills you're spending, not how much they're worth. A fee that's trivial against a large bill can eat a meaningful slice of a small one.
+### If you're afraid to touch it
 
-**Sweep on a threshold, not a schedule.** Rule of thumb: ~0.01 to 0.02 BTC as a minimum per transfer. Smaller monthly buys accumulate on the exchange to the threshold, then move in one transaction.
+I want to talk to a specific person for a minute, because I run into them a lot. You bought the hardware wallet, you moved your Bitcoin onto it, and now you don't touch it. You don't plug it in, you don't update it, you don't check it, because you're scared that plugging it in is how you get robbed. A client told me almost exactly that: she doesn't plug it into anything, because she doesn't know how to keep it safe.
 
-If you already have a pocketful of small bills, **consolidation** is the fix. Combine many small pieces into one in a single transaction, best done when network fees are low. Annual custody review item. Maintenance, not an emergency.
+If that's you, a hardware wallet is built for exactly this. The whole design is that your keys never leave the device. It doesn't hand them to your computer or your phone when you plug it in. That's the entire reason the thing exists. So plugging it into your normal computer is not the risk you think it is.
+
+There is one real threat to know about, and it's worth knowing precisely. There's malware that watches your clipboard and swaps the Bitcoin address you're sending to. You paste in your address, and what actually gets sent is somebody else's.
+
+The defense takes 10 seconds and it never fails: **read the address on the hardware wallet's own screen and confirm it matches what's on your computer.** The whole address, not just the first few characters. The device screen is the thing malware can't touch. That's why it has a screen.
+
+On firmware updates, I don't rush them, and I do eventually install them, because they often carry real security fixes. Being a little paranoid here isn't a bad instinct. Just don't let it turn into never.
+
+### PIN versus seed phrase
+
+And there's a distinction that resolves a fear I hear constantly: what if I die and nobody knows my PIN?
+
+Your PIN protects the device. That's all it does. If someone gets the physical device, the PIN is what stops them.
+
+Your seed phrase IS your Bitcoin. It works in any hardware wallet from any manufacturer.
+
+So if something happens to you and your family doesn't know your PIN, that's fine. They don't need it. They buy a new hardware wallet, restore from the seed phrase, and the Bitcoin is there. The PIN dies with the device and it doesn't matter.
+
+That also means the reverse is true, and it's the part to take seriously: **protecting the PIN is not protecting your Bitcoin.** The seed phrase is the thing that needs the real protection.
 
 ### Homework
 
-If you've never done the wipe-and-restore, watch the demo lesson and do it, with a small test amount, before serious money is on the line.
+Your homework for this lesson is to:
+
+1. If you've never done the wipe-and-restore, watch the demo lesson in this module and then actually do it, with a small test amount, before serious money is on the line.
+2. Check your own wallet for dust. If your buys have been trickling in small, set your sweep threshold now.
 
 
 ## 8.3 Single points of failure, account hardening, and scams
-*`TEACH` · 777 words · ~6 min*
+*`TEACH` · ~1,048 words · ~7 min*
 
 > ✅ **Fixed in course:** stale hand-off promised "advanced custody" next — that
 > material lives in 8.1; now points at the external demo.
@@ -3640,84 +3668,89 @@ If you've never done the wipe-and-restore, watch the demo lesson and do it, with
 
 ---
 
+In today's lesson, we're going to cover single points of failure, account hardening, and the scam rules. This is the lesson about closing the doors you didn't know were open.
+
 ### Three shapes of a single point of failure
 
-Anything that exists only once, where losing it means the Bitcoin is unreachable. Three shapes:
+A single point of failure is anything that exists only once, where losing it means the Bitcoin is unreachable. And it comes in three shapes.
 
-1. **The thing gets destroyed.** Device, backup.
-2. **The thing is fine, and the person is unavailable.** Only one person knows the process.
-3. **You and your Bitcoin are both fine, and the custodian won't let you move it.** An exchange freezes an account.
+The first shape: the thing gets destroyed. A device, a backup.
 
-Most people count devices and forget custodians.
+The second shape: the thing is fine, but the person is unavailable, because only one person knows the process.
 
-### Three ordinary Tuesdays
+And the third shape: you're fine, your Bitcoin is fine, and the custodian won't let you move it. An exchange freezes an account.
 
-The couple: one hardware wallet in a desk drawer, one paper seed backup in the same house, 0.25 BTC on an exchange with SMS 2FA, wife who has never restored a wallet.
+Most people count the devices and completely forget the custodians.
 
-- **The house floods.** Device and only seed backup are in the same building. About $150,000 of Bitcoin goes with the drywall. Two copies in one location aren't really two copies.
-- **He's hospitalized for six weeks.** Nothing stolen, nothing lost, but nothing can move either. She can't sell a dollar of it or tell anyone what exists.
-- **The exchange freezes his account during a review.** $25,000 unreachable for however long the review takes.
+### Two ordinary tuesdays
 
-Three ordinary events, no hackers involved. The failure that loses Bitcoin is almost always one thing without a backup.
+Let me make this concrete with the couple. Their setup: one hardware wallet in a desk drawer, one paper seed backup in the same house, a quarter Bitcoin on an exchange protected by SMS two-factor, and a wife who has never restored a wallet.
+
+Now, two completely ordinary events.
+
+The house floods. The device and the only seed backup are in the same building, so about $150,000 of Bitcoin goes out with the drywall. Two copies in one location were never really two copies.
+
+Or he's hospitalized for 6 weeks. Nothing was stolen, nothing was lost, but nothing can move either. She can't sell a dollar of it, and she can't even tell anyone what exists.
+
+No hackers involved in either one. The failure that actually loses Bitcoin is almost always just one thing without a backup.
 
 ### The nine-question hunt
 
-For each row, ask: is there only one?
+So the hunt is 9 questions, and for each one you ask: is there only one?
 
-1. Only one device.
-2. Only one seed backup.
-3. Only one location.
-4. Only one person who knows everything.
-5. One weak exchange login.
-6. One heir with no idea what exists.
-7. A document that contradicts your beneficiaries.
-8. A passphrase nobody else can recover.
-9. Multisig keys all sitting in one place.
+Only one device? Only one seed backup? Only one location? Only one person who knows everything? One weak exchange login? One heir with no idea what exists? A document that contradicts your beneficiary forms, which are the forms your bank and retirement accounts keep on file naming who gets the money? A passphrase nobody else can recover? And multisig keys all sitting in one place?
 
-The couple checks six of nine. Not careless. A normal setup collects "only ones" on its own, because nothing ever asked.
+The couple checks six of nine. And again, they're not careless. A normal setup collects only-ones on its own over the years, because nothing ever asked the question.
 
 ### The fix method
 
-1. List your top three, ranked by what the loss would cost, not by how easy each one is to fix.
-2. Pick the one at the top.
-3. Fix that one, and only that one.
-4. Re-check and repeat.
+The fix method matters as much as the list, because trying to fix all nine at once is how nothing gets fixed.
 
-For the couple, top item is the seed backup and device sharing an address. Fix: a steel backup stored somewhere else (in-laws, safe deposit box, second property). One afternoon.
+Step one: list your top three, ranked by what the loss would cost. Not by how easy each one is to fix. Step two: pick the one at the top. Step three: fix that one, and only that one. Step four: re-check and repeat.
 
-Next: the hospital scenario, which is a person problem. She needs to have restored a wallet once with a small amount, so the procedure lives in two heads.
+For the couple, the top item is the seed backup and the device sharing an address. The fix is a steel backup stored somewhere else. The in-laws' place, a safe deposit box, a second property. That's one afternoon of work.
 
-Every "only one" turns into one of three things: a backup, a second location, or a second person who knows the process. Never the secrets.
+The next one is the hospital scenario, which is a person problem. She needs to have restored a wallet once, with a small amount, so the procedure lives in two heads instead of one.
+
+And notice the pattern: every only-one turns into one of three things. A backup, a second location, or a second person who knows the process. Never the secrets. The process.
 
 ### Account hardening
 
-A couple years ago, someone called Austin's bank pretending to be him and tried to move ~$10,000. They didn't get it. But that's the day he moved his exchange and email logins onto physical keys.
+Now, account hardening, and I'll start with why I take this personally. A couple of years ago, someone called my bank pretending to be me and tried to move about $10,000. They didn't get it. But that's the day I moved my exchange and email logins onto physical security keys.
 
-Most real-world losses look like this. Nobody breaks the encryption on your Bitcoin. They log in as you.
+In most real-world losses, nobody breaks the encryption on your Bitcoin. They log in as you.
 
-**The order matters:**
+The hardening order matters, so do it in this order.
 
-1. **Secure the email account first.** Your email is the master key. Every other account resets its password to that inbox on request.
-2. Strong, unique password on every account.
-3. App-based 2FA (not SMS), with the authenticator's cloud backup off.
-4. Withdrawal delays and allowlists on. Never click login links from an email or DM.
+First, secure your email account, before anything else. Your email is the master key, because every other account will reset its password to that inbox on request. If they get the email, they get everything downstream.
 
-**The SIM swap trap.** SMS 2FA has a specific weakness: someone talks your carrier into moving your number onto their SIM. From that moment, your texts arrive on their phone. A SIM swap takes the exchange and the email in one afternoon.
+Second, a strong, unique password on every account.
 
-**Hardware keys beat authenticator apps.** A physical security key is bound to the real site's address and checks it before signing. A lookalike site doesn't get a response, which takes phishing off the table. Cheapest upgrade in this lesson.
+Third, app-based two-factor, not SMS, and turn the authenticator's cloud backup off.
+
+Fourth, withdrawal delays and allowlists on at the exchange. And never click login links out of an email or a DM. Type the address yourself.
+
+Why not SMS? Because of the SIM swap. Someone talks your carrier into moving your number onto their SIM, and from that moment, your texts arrive on their phone. A SIM swap takes the exchange and the email in one afternoon.
+
+And one step better than the authenticator app: a hardware security key. A physical key is bound to the real site's address and checks it before signing. A lookalike phishing site simply doesn't get a response. That takes phishing off the table entirely, and it's the cheapest upgrade in this whole lesson.
 
 ### The scam rules
 
-> ⚠ Urgency is the red flag. No real company ever asks for your seed. "Send 1, get 2 back" is always a scam.
+The scam rules are short.
 
-- Call says your account is hacked? Hang up and contact the provider yourself.
-- Guaranteed returns are a scam.
+If a call says your account is hacked, hang up and contact the provider yourself, through the app or the number on your card. And guaranteed returns are a scam. All of them. There's no exception waiting for you.
 
-Urgency is the common thread. Every scam needs you to act before you think. When something feels urgent, close the app and slow down. That habit alone catches scams you've never seen before.
+The common thread in every scam is urgency. Every scam needs you to act before you think. So when something feels urgent, close the app and slow down. That one habit catches scams you've never even seen before, because it doesn't need to recognize the scam. It just needs to notice the pressure.
 
 ### Homework
 
-Make your own "only one" list, pick the one at the top, and fix it this week. Not all nine. Just that one.
+Your homework for this lesson is to:
+
+1. Make your own only-one list, all 9 questions.
+2. Pick the one at the top, ranked by cost of loss, and fix it this week. Not all nine. Just that one.
+3. Then watch the demo and the walkthrough below this video, where I set up a hardware wallet on screen and then we document your custody map in Orange Plan.
+
+And one pointer before you go. If one lost seed, or one person you can't reach, could end your access, the advanced library compares the three ways to fix that: a passphrase, collaborative multisig, and running multisig yourself. Your custody plan is complete without them. That lesson is there for when the amount or the family situation says you need more.
 
 
 ## 8.4 External demo: hardware wallet setup + exchange hardening

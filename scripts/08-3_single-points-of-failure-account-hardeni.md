@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 8.3
 8.3 Single points of failure, account hardening, and scams
-~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover single points of failure, account hardening, and the scam rules. This is the lesson about closing the doors you didn't know were open.
@@ -17,19 +17,17 @@ And the third shape: you're fine, your Bitcoin is fine, and the custodian won't 
 
 Most people count the devices and completely forget the custodians.
 
-== THREE ORDINARY TUESDAYS ==
+== TWO ORDINARY TUESDAYS ==
 
 Let me make this concrete with the couple. Their setup: one hardware wallet in a desk drawer, one paper seed backup in the same house, a quarter Bitcoin on an exchange protected by SMS two-factor, and a wife who has never restored a wallet.
 
-Now, three completely ordinary events.
+Now, two completely ordinary events.
 
-First: the house floods. The device and the only seed backup are in the same building, so about $150,000 of Bitcoin goes out with the drywall. Two copies in one location were never really two copies.
+The house floods. The device and the only seed backup are in the same building, so about $150,000 of Bitcoin goes out with the drywall. Two copies in one location were never really two copies.
 
-Second: he's hospitalized for 6 weeks. Nothing was stolen, nothing was lost, but nothing can move either. She can't sell a dollar of it, and she can't even tell anyone what exists.
+Or he's hospitalized for 6 weeks. Nothing was stolen, nothing was lost, but nothing can move either. She can't sell a dollar of it, and she can't even tell anyone what exists.
 
-Third: the exchange freezes his account during a routine review. The $25,000 is unreachable for however long the review takes, and nobody will give him a date.
-
-Three ordinary Tuesdays, no hackers involved anywhere. The failure that actually loses Bitcoin is almost always just one thing without a backup.
+No hackers involved in either one. The failure that actually loses Bitcoin is almost always just one thing without a backup.
 
 == THE NINE-QUESTION HUNT ==
 
@@ -78,26 +76,6 @@ The scam rules are short.
 If a call says your account is hacked, hang up and contact the provider yourself, through the app or the number on your card. And guaranteed returns are a scam. All of them. There's no exception waiting for you.
 
 The common thread in every scam is urgency. Every scam needs you to act before you think. So when something feels urgent, close the app and slow down. That one habit catches scams you've never even seen before, because it doesn't need to recognize the scam. It just needs to notice the pressure.
-
-== TWO THINGS NOBODY TELLS YOU: UTXOS AND ADDRESSES ==
-
-There are two operational things that almost nobody explains, and both of them came from clients asking me directly.
-
-The first one is UTXOs. A client asked me what happens to all the small buys he'd made over the years. His worry was that a bunch of tiny purchases might end up stranded, and that's actually a real thing, so let me explain it.
-
-Your wallet isn't a bucket with a balance in it. It's more like a wallet full of bills. Every time Bitcoin lands in your wallet, that deposit is its own separate chunk, and the technical name for one of those chunks is a UTXO. When you spend, your wallet grabs one or more of those chunks to cover the amount.
-
-Every chunk costs a fee to spend, and that fee doesn't care how big the chunk is. So a very small deposit can become uneconomical to move, because the fee to spend it approaches or exceeds what it's worth. That's what people mean by dust.
-
-If you've been buying small amounts regularly, you can end up with a wallet made of a hundred tiny chunks. Nothing is lost. But the day you go to move it all, you're paying fees on every one of those chunks at once, and if fees are high that day, it gets expensive.
-
-The fix is called consolidation. You send those small chunks to yourself in one transaction, which combines them into one bigger chunk. And you do it deliberately on a day when fees are low, not on the day you urgently need to move money. That's a chore for a quiet Sunday, not an emergency.
-
-The second thing is addresses. Another client was surprised to learn that if somebody knows one of your receiving addresses, they can look up the entire history of that address on the blockchain. Bitcoin's ledger is public. That's the whole design.
-
-So if you use the same receiving address over and over, you've handed anyone who has it a running total of everything you've received there.
-
-The fix is easy: use a fresh receiving address every time you receive. Modern wallets generate a new one automatically, and it's usually the default. Just don't override it, and don't post an address publicly and then keep using it. And this is another reason to check the address on the device screen every single time, because it should be a new one.
 
 == HOMEWORK ==
 

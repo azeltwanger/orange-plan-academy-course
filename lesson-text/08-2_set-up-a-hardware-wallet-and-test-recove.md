@@ -17,12 +17,11 @@ The wipe proves three things at once: the seed was written right, you know the p
 
 The seed exists on paper or steel, offline, nowhere else. Nothing with a screen and a connection. For a meaningful stack: steel, in separate locations.
 
-## Moving coin well: UTXOs
+## One pointer before you start moving coin
 
-Each transfer in creates a **UTXO**: a separate bill in your wallet. You spend whole bills, and fees scale with *how many* bills, not their value, so many small UTXOs (dust) raise your future cost of moving your own coin.
+Every deposit into your wallet is its own separate chunk, and every chunk costs a fee to spend later. So a lot of very small transfers quietly raises what it costs to move your own Bitcoin down the road. **If you buy small amounts regularly, let them accumulate and transfer in fewer, larger chunks** rather than moving every buy the day it happens.
 
-- **Sweep on a threshold, not a schedule:** ~0.01–0.02 BTC minimum per transfer; accumulate on the exchange until then.
-- Already dusty? **Consolidate** small pieces into one when fees are low. Annual maintenance, not an emergency.
+That is the whole rule you need today. **Advanced Custody → "Wallet operations: UTXOs, dust, consolidation, and addresses"** has the full lesson, including why you use a fresh receiving address every time. Worth watching before you have made a hundred small transfers, rather than after.
 
 ## If you're afraid to touch it
 
