@@ -288,6 +288,13 @@ in the core course, so a change here is expensive after filming and cheap now.
 
 ### F13 · Should a Level 2 custody design deliberately let one heir act alone?
 
+**Partially addressed 2026-08-08.** The *universal* dual-control rule is gone:
+the course now teaches redundancy and dual control as separate tests, and says a
+single-signature household where the owner can spend alone is sound. That
+removes the contradiction. It does not answer the narrower question below, which
+is about what design to actively recommend at Level 2. Still open.
+
+
 Bears directly on F6, which is still open.
 
 ### F14 · Should the executor and the heir usually be different people?
@@ -298,7 +305,13 @@ The course currently implies separation without stating it as a rule.
 
 Source material leans yes for complex estates. The course does not say.
 
-### F16 · What conditions trigger a trust conversation?
+### F16 ✅ RESOLVED · What conditions trigger a trust conversation?
+
+**Austin approved the trigger-driven gate, 2026-08-08.** Nine triggers and four
+levels are now live in the estate walkthrough, replacing the net-worth reading.
+"Trust not currently indicated," written down with a date, is a completed
+decision. Original entry below.
+
 
 The uploaded four-level estate gate uses triggers (blended family, minor
 children, multiple heirs, business ownership, Bitcoin concentration, probate or
