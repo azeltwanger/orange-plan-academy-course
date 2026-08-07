@@ -1,11 +1,11 @@
-TELEPROMPTER SCRIPT — segment 5.4
-5.4 How Bitcoin-backed loans work: LTV, margin calls, liquidation
-~14 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+TELEPROMPTER SCRIPT — segment A4.1
+A4.1 Borrow against Bitcoin without getting liquidated
+~16 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover Bitcoin-backed loans: how they actually work, how the numbers move, and what happens when they go wrong.
 
-This is the highest-stakes lesson in the course, so I'm going to cover the whole mechanism before we get anywhere near whether you'd want one.
+This is the highest-stakes lesson in the Academy, so I'm going to cover the whole mechanism before we get anywhere near whether you'd want one.
 
 == WHAT A BITCOIN-BACKED LOAN ACTUALLY IS ==
 
@@ -19,9 +19,7 @@ What makes it dangerous is that your collateral is the most volatile asset that 
 
 == LTV, THE ONE NUMBER THAT RUNS EVERYTHING ==
 
-LTV stands for loan-to-value. It's just your loan balance divided by what your collateral is worth.
-
-So if you borrow $50,000 against $200,000 of Bitcoin, your LTV is 25%.
+LTV stands for loan-to-value. It's just your loan balance divided by what your collateral is worth. So if you borrow $50,000 against $200,000 of Bitcoin, your LTV is 25%.
 
 There are two things that move that number, and only one of them is in your control.
 
@@ -29,7 +27,7 @@ The first one is your loan balance, which goes up as interest accrues if you're 
 
 The second one is your collateral value, which moves with the Bitcoin price. That part is fast, and it is not predictable at all.
 
-🎬 GRAPHIC (the most important visual in this lesson): Bitcoin price line falling while the LTV bar climbs. Mark the margin call line and the liquidation line as fixed horizontal lines so the viewer watches LTV cross them.
+🎬 GRAPHIC (the most important visual in this lesson): Bitcoin price line falling 75% across the screen while the LTV bar climbs from 25% toward 100%. Draw the margin-call line and the liquidation line as fixed horizontal marks, so the viewer watches the LTV cross them. This single animation IS the lesson.
 
 LTV rises a lot faster than the price falls, and that's because the price is in the denominator. People underestimate this every time.
 
@@ -47,6 +45,32 @@ The second one is the liquidation line, usually around 80 to 85%. If you cross t
 
 And the third is the release line, which is the good news, and a lot of borrowers don't know it exists. If the price rises enough that your LTV drops well below where you started, a lot of lenders will release some of that collateral back to you, or let you request it.
 
+== SIZING THE CUSHION ==
+
+The gap between where your loan starts and that liquidation line is the entire drawdown you can live through. So let's size it.
+
+Say you post $50,000 of Bitcoin as collateral, and the lender's liquidation LTV is 80%. Borrow $12,500, which is a 25% starting LTV, and the liquidation point is $12,500 divided by 0.80, which is $15,625. Bitcoin has to fall from $50,000 down to $15,625 before liquidation. That's a 69% drop. Bitcoin fell 84% in 2018 and 77% in 2022, so a 69% cushion is inside drawdowns that have actually happened. That's not enough.
+
+Now borrow $6,250 instead, which is a 12.5% starting LTV. The liquidation point is $6,250 divided by 0.80, which is $7,812, so Bitcoin has to fall 84% to get there.
+
+Notice what happened. You cut the starting LTV in half, and the danger line moved dramatically further away. That's the lever, and it's the only one you get.
+
+So if you're going to borrow against Bitcoin, size the cushion to survive a 70 to 80% drawdown at minimum, because that's the normal Bitcoin cycle and not a worst case. In practice that usually means starting at 10 to 15% LTV, not the 40 or 50% a lender will happily hand you.
+
+== A WORKED EXAMPLE ==
+
+Let's put real numbers on it.
+
+Our couple holds 1.75 Bitcoin. At an illustrative $100,000 a coin, that's $175,000. They want $35,000 for a kitchen renovation, and they don't want to sell, because selling means a taxable gain and giving up the upside.
+
+So they pledge all 1.75 Bitcoin and borrow $35,000, which puts them at a 20% starting LTV.
+
+Now walk the price down and watch that ratio move. The table is on the screen. At $100,000 a coin they're at 20%, and that's comfortable. Drop to $70,000 and they're at 29%, which is a normal correction and totally fine. Drop to $50,000, so half the value is gone, and they're at 40%, still fine. Drop to $30,000 and they're at 67%, which is margin call territory. And at $25,000 they're at 80%, which is liquidation.
+
+So a 75% drawdown, which is a completely normal Bitcoin bear market, takes them from 20% right to the edge. That's what starting at 20% buys you. It survives a normal bear, and it just barely survives it.
+
+Now run that same loan at a 50% starting LTV, and a 40% price drop hits the margin call. A 40% drop is an ordinary Tuesday in Bitcoin, not a bear market.
+
 == WHAT YOU CAN DO AT A MARGIN CALL ==
 
 When the call comes, you have three options, and you want to know which one is yours long before the phone rings.
@@ -58,6 +82,8 @@ Option two is to pay down, which means sending cash to reduce the loan balance. 
 And option three is to do nothing and get liquidated. The lender sells enough of your Bitcoin to fix the ratio, at whatever the price happens to be that day, which by definition is going to be a bad price.
 
 Two of those three options require you to have something held in reserve. If you take a loan with every spare satoshi already pledged and no cash cushion, you have exactly one option at a margin call, and it's the bad one.
+
+And decide your action at each line right now, in writing, while nothing is falling. The moment the chip appears, the price is dropping and you'll be making that call at your absolute worst.
 
 == PARTIAL VERSUS FULL LIQUIDATION ==
 
@@ -79,39 +105,23 @@ The second one is collaborative-custody lenders. Your collateral sits in a multi
 
 And then there's the question that separates them, which is rehypothecation. Rehypothecation means the lender takes your collateral and lends it out to somebody else while they're holding it. It's the practice most directly responsible for the 2022 blowups. So ask directly: do you rehypothecate my collateral? And get the answer in writing. If the answer is anything other than a clear no, you're taking on a risk that has nothing at all to do with the Bitcoin price.
 
-Here are the 7 questions I'd take to any provider. They're on screen, and they're in the lesson text below the video.
+There are 7 questions I'd take to any provider. They're on screen, and they're in the lesson text below the video.
 
 Do you rehypothecate collateral? Are you custodial or collaborative multisig, and who holds which key? What are your exact margin call and liquidation LTVs? How much notice do I get at a margin call, and how do you contact me? Do you do partial or full liquidation? Do you release collateral when LTV falls, and is that automatic or on request? And what's the interest rate, is it fixed or variable, and are there origination or early repayment fees?
 
-== A WORKED EXAMPLE ==
-
-Let's put real numbers on it.
-
-Our couple holds 1.75 Bitcoin. At an illustrative $100,000 a coin, that's $175,000.
-
-They want $35,000 for a kitchen renovation, and they don't want to sell, because selling means a taxable gain and giving up the upside.
-
-So they pledge all 1.75 Bitcoin and borrow $35,000, which puts them at a 20% starting LTV.
-
-Now let's walk the price down and watch that ratio move. The table is on the screen.
-
-At $100,000 a coin they're at 20%, and that's comfortable. Drop to $70,000 and they're at 29%, which is a normal correction and totally fine. Drop to $50,000, so half the value is gone, and they're at 40%, still fine. Drop to $30,000 and they're at 67%, which is margin call territory. And at $25,000 they're at 80%, which is liquidation.
-
-So a 75% drawdown, which is a completely normal Bitcoin bear market, takes them from 20% right to the edge. That's what starting at 20% buys you. It survives a normal bear, and it just barely survives it.
-
-Now run that same loan at a 50% starting LTV, and a 40% price drop hits the margin call. A 40% drop is an ordinary Tuesday in Bitcoin, not a bear market.
+I'll say the obvious thing here, because borrowing against your Bitcoin is the highest-stakes move in this whole Academy. I'm not telling you to take one of these loans. Lending terms, margin-call rules, and who's actually holding your collateral vary a lot by lender, so read the actual agreement and run it past somebody who represents you before you sign anything.
 
 == THE RULES TO WRITE DOWN BEFORE YOU BORROW ==
 
 Five rules, and I'd write these down before you borrow a single dollar.
 
-One: start low enough to survive a 70 to 80% drawdown. For most people that's going to mean 10 to 15%, not the 40 or 50% that a lender will happily hand you.
+One: start low enough to survive a 70 to 80% drawdown. For most people that's going to mean 10 to 15%.
 
 Two: keep unpledged Bitcoin or cash that you can reach fast, so a margin call actually has a good answer.
 
 Three: know your lender's three lines, and write them down somewhere you'll actually find them.
 
-Four: decide your action at each line right now, in writing, while nothing is falling.
+Four: decide your action at each line in writing, while nothing is falling.
 
 And five: never borrow for something you can't stop paying for. A loan against a volatile asset that's funding a fixed obligation is how people get forced out at the bottom.
 
@@ -147,4 +157,5 @@ Your homework for this lesson is to:
 
 1. Decide whether a Bitcoin-backed loan belongs in your plan at all. No is a completely legitimate answer, and it's the common one.
 2. If you're considering one, take those 7 provider questions to two or three lenders and put their answers side by side. The differences between lenders are the whole decision.
-3. Model it in the app using your lender's real thresholds, then run the 50% drawdown scenario against it and watch what happens.
+3. Model it in the app using your lender's real thresholds, not the defaults, and write down your specific action at each of the three severity levels.
+4. Then run the 50% drawdown scenario against it and watch what happens.

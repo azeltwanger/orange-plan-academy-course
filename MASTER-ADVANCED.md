@@ -61,75 +61,168 @@ before you act.
 
 # Advanced Module 4 — Debt and Bitcoin-Backed Loans
 
-## 5.2 Size the LTV cushion on a Bitcoin-backed loan
-*`TEACH + APP` · 824 words · ~4 min*
+## A4.1 Borrow against Bitcoin without getting liquidated
+*`TEACH + APP` · ~2,460 words · ~16 min*
+
+> **Gate.** Only if you are actually considering a Bitcoin-backed loan, or
+> already hold one. If the answer is no, skip it. No is the common answer.
 
 **By the end of this lesson, you can:**
 
-- Understand how DTA moves with the Bitcoin price
-- Calculate LTV and how far Bitcoin can drop before liquidation
-- Size a loan-to-value cushion that survives a normal Bitcoin drawdown
+- Explain how a Bitcoin-backed loan works, end to end
+- Read LTV and know what moves it
+- Size a cushion that survives a normal Bitcoin drawdown
+- Know exactly what happens at a margin call, a top-up, and a liquidation
+- Tell the difference between the main types of provider
+- Model a loan in Orange Plan with rules that match your lender
 
 ---
-Two dynamics that make a Bitcoin balance sheet different from everybody else's.
 
-### Your DTA moves with Bitcoin
+Bitcoin-backed loans: how they actually work, how the numbers move, and what happens when they go wrong. This is the highest-stakes lesson in the Academy, so the whole mechanism comes first, before anything about whether you'd want one.
 
-Your debt-to-assets ratio doesn't sit still. It moves with the Bitcoin price:
+### What a Bitcoin-backed loan actually is
 
-- **Bitcoin up.** DTA drops. Room opens up. You feel safe. You want to borrow more. Usually right near the top.
-- **Bitcoin down.** DTA spikes at the exact moment your stress is peaking. If there's no room left, that's where forced selling happens.
+You pledge Bitcoin as collateral. A lender holds it and gives you cash. You pay interest on that cash. When you pay the loan back, your Bitcoin comes back.
 
-The couple landed at 40% DTA with $298,000 debt against $745,000 assets:
+**What makes it interesting:** you didn't sell, so in most cases there's no taxable event and you still own the upside.
 
-- **Bitcoin doubles:** $175k becomes $350k, total assets $920k, DTA drops to **32%.** 8 points of room without doing anything.
-- **Bitcoin halves:** $175k becomes $87.5k, total assets $658k, DTA climbs to **45%.** Same debts, same payments. Over the workable range.
+**What makes it dangerous:** your collateral is the most volatile asset most people will ever own, and the lender's protection against that volatility is the right to sell your Bitcoin without asking you first.
 
-The ratio tells you about today's price, but the decision you're making lives for years. Room looks real at the moment it's least real.
+### LTV, the one number that runs everything
 
-**Stay conservative when Bitcoin is high. Use your room when Bitcoin is low.** Anchor to where Bitcoin has been, not to what it's printing today. Use DTI as your floor, since it doesn't move with price.
+Loan-to-value is your loan balance divided by what your collateral is worth. Borrow $50,000 against $200,000 of Bitcoin and your LTV is 25%.
 
-Austin's own experience: his net worth dropped 75% in 2022. He could hold because nothing on his balance sheet could force him to sell.
+Two things move that number, and only one is in your control:
 
-### The LTV cushion
+- **Your loan balance** rises as interest accrues. Slow and predictable.
+- **Your collateral value** moves with the Bitcoin price. Fast, and not predictable at all.
 
-For any borrowing backed by your Bitcoin, there's a gap between where your loan starts and the line where the lender takes over. That gap is the entire drawdown you can live through.
+> 🎬 **GRAPHIC (the most important visual in this lesson).** Bitcoin price line
+> falling 75% across the screen while the LTV bar climbs from 25% toward 100%.
+> Draw the margin-call and liquidation lines as fixed horizontal marks, so the
+> viewer watches LTV cross them. This single animation IS the lesson.
 
-**LTV** = loan-to-value = your loan divided by your collateral's current value.
+LTV rises much faster than the price falls, because the price is in the denominator. People underestimate this every time.
 
-- Your **loan balance** is fixed. It doesn't move when Bitcoin moves.
-- Your **collateral value** moves with the price.
+| Bitcoin falls | 25% LTV becomes |
+|---|---|
+| 50% | 50% |
+| 70% | ~83% |
+| 80% | 125% — the loan is worth more than the collateral |
 
-If Bitcoin falls, your collateral shrinks, LTV climbs, and it climbs toward the lender's liquidation line. Your starting LTV sets the entire survivable drop.
+**Your starting LTV matters more than anything else here.** It's the only variable you control before the market takes over.
 
-If you hit the line, the lender force-sells your Bitcoin. At the worst possible moment.
+### The three lines every loan has
 
-### The math
+Learn them in the order you'd hit them.
 
-Say you post $50,000 of Bitcoin as collateral, and the lender's liquidation LTV is 80%.
+| Line | Typical | What happens |
+|---|---|---|
+| **Margin call** | ~65–70% LTV | The lender contacts you with a window to fix it, sometimes as short as 24–72 hours |
+| **Liquidation** | ~80–85% LTV | The lender sells your Bitcoin to bring the loan back in range. You don't get a vote |
+| **Release** | well below your start | Many lenders release collateral back to you, automatically or on request |
 
-**Scenario A: borrow $12,500 (25% starting LTV).**
+Every lender is different. These are shapes, not your numbers.
 
-- Liquidation collateral value = $12,500 ÷ 0.80 = **$15,625**.
-- Bitcoin has to fall from $50,000 to $15,625 for a margin call. A **69% drop**. Right at the edge of Bitcoin's historical drawdowns (2018: -84%, 2022: -77%). Not enough cushion.
+### Sizing the cushion
 
-**Scenario B: borrow $6,250 (12.5% starting LTV).**
+The gap between where your loan starts and the liquidation line is the entire drawdown you can live through.
 
-- Liquidation collateral value = $6,250 ÷ 0.80 = **$7,812**.
-- Bitcoin has to fall from $50,000 to $7,812. An **84% drop**. Now you can survive a 2018-style bear.
+Post $50,000 of Bitcoin as collateral with a lender whose liquidation LTV is 80%:
 
-Cut the starting LTV in half, and the danger line moves much further away.
+| Borrow | Starting LTV | Liquidation point | Drop it survives |
+|---|---|---|---|
+| $12,500 | 25% | $15,625 | 69% |
+| $6,250 | 12.5% | $7,812 | 84% |
 
-### Size the cushion for a normal drawdown
+Bitcoin fell 84% in 2018 and 77% in 2022, so a 69% cushion sits inside drawdowns that have actually happened. Cut the starting LTV in half and the danger line moves dramatically further away. **That's the lever, and it's the only one you get.**
 
-If you're borrowing against Bitcoin, size the cushion to survive a **70 to 80% drawdown minimum**. That's the normal Bitcoin cycle, not a worst case.
+Size the cushion to survive a 70–80% drawdown at minimum, because that's the normal Bitcoin cycle and not a worst case. In practice that usually means starting at **10–15% LTV**, not the 40 or 50% a lender will happily hand you.
 
-Usually means starting at **20 to 25% LTV**, not 40 to 50%. Anything higher, and a normal Bitcoin bear becomes a forced-sale event at the worst possible moment.
+### A worked example
 
+The couple holds 1.75 Bitcoin. At an illustrative $100,000/coin that's $175,000. They want $35,000 for a kitchen renovation and don't want to sell, because selling means a taxable gain and giving up the upside. They pledge all 1.75 BTC and borrow $35,000: a **20% starting LTV**.
 
-So that's the math on the cushion. The app draws it, which is easier to read than the arithmetic.
+| BTC price | Collateral | LTV | Read |
+|---|---|---|---|
+| $100,000 | $175,000 | 20% | Comfortable |
+| $70,000 | $122,500 | 29% | Normal correction |
+| $50,000 | $87,500 | 40% | Half the value gone, still fine |
+| $30,000 | $52,500 | 67% | Margin call territory |
+| $25,000 | $43,750 | 80% | Liquidation |
 
-> 🎥 **SCREEN SHARE STARTS HERE — capture segment 5.2-B.** Everything above is teleprompter A-roll (segment 5.2-A); everything below is screen capture. This heading is the edit cut point.
+A 75% drawdown, a completely normal Bitcoin bear market, takes them from 20% right to the edge. That's what starting at 20% buys: it survives a normal bear, and it just barely survives it.
+
+Run the same loan at a **50% starting LTV** and a 40% price drop hits the margin call. A 40% drop is an ordinary Tuesday in Bitcoin, not a bear market.
+
+### What you can do at a margin call
+
+Three options, and you want to know which one is yours long before the phone rings.
+
+1. **Top up.** Send more Bitcoin as collateral. Lowers LTV without selling, and it's what most people do. Requires unpledged Bitcoin you can move quickly.
+2. **Pay down.** Send cash to reduce the balance. Same effect from the other side. Requires cash available in exactly the week your net worth is falling.
+3. **Do nothing and get liquidated.** The lender sells at whatever the price is that day, which by definition is a bad price.
+
+**Two of the three require something held in reserve.** Take a loan with every spare satoshi pledged and no cash cushion, and you have exactly one option at a margin call — the bad one.
+
+Decide your action at each line in writing, while nothing is falling. The moment the chip appears, the price is dropping and you'll be deciding at your absolute worst.
+
+### Partial versus full liquidation
+
+**Partial** means they sell only enough collateral to get you back under the threshold; you keep the rest and the loan continues. **Full** means they close the whole position, settle the loan, and return whatever collateral is left.
+
+Ask which one your lender does before you sign, because it completely changes what a bad month costs you.
+
+### The types of provider
+
+No company names here; that landscape changes and any list goes stale. The structure doesn't.
+
+- **Custodial lenders.** You send your Bitcoin and they hold it. Simplest to use. The risk is exactly the one from the custody module: in a legal sense it's their Bitcoin now, and if they fail you're a creditor standing in line. Several large ones failed in 2022 and their customers lost everything.
+- **Collaborative-custody lenders.** Collateral sits in a multisig arrangement, often 2-of-3: you hold a key, the lender holds a key, a third party holds a key. The lender can't move your Bitcoin alone.
+
+**Rehypothecation** is the question that separates them: does the lender lend your collateral out to someone else while holding it? It's the practice most directly responsible for the 2022 blowups. Ask directly, get the answer in writing, and treat anything other than a clear no as a risk that has nothing to do with the Bitcoin price.
+
+**The 7 questions for any provider:**
+
+1. Do you rehypothecate collateral?
+2. Are you custodial or collaborative multisig, and who holds which key?
+3. What are your exact margin call and liquidation LTVs?
+4. How much notice do I get at a margin call, and how do you contact me?
+5. Do you do partial or full liquidation?
+6. Do you release collateral when LTV falls, and is that automatic or on request?
+7. What's the interest rate, fixed or variable, and are there origination or early repayment fees?
+
+> ⚠ Borrowing against your Bitcoin is the highest-stakes move in the Academy.
+> Nothing here is telling you to take one of these loans. Lending terms,
+> margin-call rules, and who actually holds your collateral vary a lot by
+> lender. Read the actual agreement and run it past somebody who represents you
+> before signing.
+
+### The rules to write down before you borrow
+
+1. **Start low enough to survive a 70–80% drawdown.** For most people, 10–15%.
+2. **Keep unpledged Bitcoin or cash you can reach fast**, so a margin call has a good answer.
+3. **Know your lender's three lines**, written down where you'll find them.
+4. **Decide your action at each line in writing**, while nothing is falling.
+5. **Never borrow for something you can't stop paying for.** A loan against a volatile asset funding a fixed obligation is how people get forced out at the bottom.
+
+### Modeling the loan itself
+
+Orange Plan models this as a real position inside your plan, not a calculator off to the side.
+
+**Strategy → Debt → Add debt → Bitcoin-backed.** The form asks for what matters: lender, start date and term, collateral in **Bitcoin quantity** rather than dollars, margin call LTV, liquidation LTV, whether auto top-up is on, and whether the lender does full or partial liquidation.
+
+⚠ **Enter your lender's real thresholds.** The app ships with common defaults; leave those and the plan tells you a comforting story that isn't yours.
+
+**Collateral rules** is where the behavior gets modeled across the whole projection: auto top-up as a global default, the margin call percent that triggers a top-up, the top-up target it tops back down to, the liquidation percent, and the release trigger.
+
+That last one is easy to miss and it matters: the app models **collateral release**, so a rising price that drops your LTV below the trigger frees collateral back into your plan instead of leaving it pledged forever.
+
+The engine walks the loan forward year by year alongside the Bitcoin price path. Interest accrues, the price moves, LTV recalculates. Cross the top-up trigger and the model tops up from available Bitcoin. Cross liquidation and it sells per your chosen strategy and records the event. Pledged Bitcoin is protected from ordinary withdrawals, so the plan won't spend collateral you've committed.
+
+Practically: run a 50% drawdown scenario with a loan in place and you're watching the loan's real behavior in that drawdown, not an assumption about it.
+
+> 🎥 **SCREEN SHARE STARTS HERE — capture segment A4.1-B.** Everything above is teleprompter A-roll (segment A4.1-A); everything below is screen capture. This heading is the edit cut point.
 
 ### Now put it in the app
 
@@ -171,194 +264,27 @@ The three severity chips:
 
 ⚠ **Watch** is not a severity word on screen. It's an internal state that renders no chip.
 
-
-### Your decision
-
-**Your maximum starting LTV, and exactly what you'll do at each severity level.**
-
-How to think about it:
-
-1. **Size the cushion to a normal bear market, not a mild one.** A 70 to 80% drawdown is the normal case for Bitcoin, and that's what the cushion has to survive.
-2. **Work backwards from that.** Surviving a normal bear usually means starting far lower than lenders will let you borrow.
-3. **Decide your actions before the chip appears**, because the moment it does, the price is falling and you'll be making the decision at your worst.
-4. **Write down all three responses now**: what you do when the loan gets close to a margin call, what you do at a margin call, and what you do in the liquidation zone.
-
-### Homework
-
-1. Enter your lender's real thresholds on the loan in the app: starting LTV, top-up line, liquidation line. The cushion is only honest if those are your lender's numbers.
-2. Decide your action at each of the three severity levels before you're at one of them.
-3. If you already have a loan, open its detail view and read today's cushion against those lines.
-
-Everything so far has been defense: know your ratios, protect the cushion, don't get liquidated. The other half is what debt is actually for.
-
-## 5.4 How Bitcoin-backed loans work: LTV, margin calls, liquidation
-*`TEACH` · 1,750 words · ~11 min*
-
-**By the end of this lesson, you can:**
-
-- Explain how a Bitcoin-backed loan works, end to end
-- Read LTV and know what moves it
-- Know exactly what happens at a margin call, a top-up, and a liquidation
-- Tell the difference between the main types of provider
-- Model a loan in Orange Plan with rules that match your lender
-
----
-
-This is the highest-stakes lesson in the course, so I'm going to go slowly and cover the whole mechanism before we talk about whether you'd want one.
-
-### What a Bitcoin-backed loan actually is
-
-You pledge Bitcoin as collateral. A lender holds it and gives you cash. You pay interest. When you repay the loan, you get your Bitcoin back.
-
-That's the whole product. What makes it interesting is that **you didn't sell**, so in most cases there's no taxable event, and you still own the upside if the price rises.
-
-What makes it dangerous is that **your collateral is the most volatile asset most people will ever own**, and the lender's protection against that volatility is the right to sell your Bitcoin without asking you.
-
-### LTV: the one number that runs everything
-
-LTV means loan-to-value. It's your loan balance divided by the value of your collateral.
-
-Borrow $50,000 against $200,000 of Bitcoin, and your LTV is 25%.
-
-Two things move that number, and only one of them is in your control:
-
-- **Your loan balance goes up** as interest accrues, if you're not paying it down. That's slow and predictable.
-- **Your collateral value moves with the Bitcoin price.** That's fast and it is not predictable.
-
-Here's the part people underestimate. **LTV rises much faster than the price falls**, because the price is in the denominator.
-
-Start at 25% LTV. If Bitcoin falls 50%, your LTV doesn't go to 50%, it goes to **50%** — your collateral halved, so the same loan is now half-covered. Fall 70%, and 25% LTV becomes **83%**. Fall 80%, and it becomes **125%**, meaning your loan is worth more than your collateral.
-
-That's why starting LTV matters more than any other decision in this lesson. It's the only variable you control before the market takes over.
-
-### The three lines every loan has
-
-Your lender sets three thresholds. Learn them as a sequence, because that's how you'll experience them:
-
-**1. The margin call line.** Typically somewhere around 65 to 70% LTV, but every lender is different. When you cross it, the lender contacts you and gives you a window, sometimes 24 to 72 hours, to fix it.
-
-**2. The liquidation line.** Typically around 80 to 85%. If you cross this, or if you don't fix a margin call in time, the lender sells your Bitcoin to bring the loan back into range. You don't get a vote.
-
-**3. The release line.** This one's the good news, and a lot of borrowers don't know it exists. If the price rises enough that your LTV drops well below where you started, many lenders will release some collateral back to you, or let you request it.
-
-### What you can actually do at a margin call
-
-You have three options, and you should know which one is yours before you ever get the call:
-
-- **Top up.** Send more Bitcoin as collateral. This lowers your LTV without selling anything, and it's the option most people take. But it means you have to be holding unpledged Bitcoin you can send quickly.
-- **Pay down.** Send cash to reduce the loan balance. Same effect on LTV, from the other direction. This requires cash on hand in exactly the week your net worth is falling.
-- **Do nothing and get liquidated.** The lender sells enough of your Bitcoin to fix the ratio, at whatever the price is that day, which by definition is a bad price.
-
-⚠ Notice that two of your three options require you to *have something in reserve*. A loan taken with every spare satoshi already pledged and no cash cushion has exactly one option at a margin call, and it's the bad one.
-
-### Partial versus full liquidation
-
-If it comes to liquidation, lenders handle it differently, and the app models both:
-
-- **Partial liquidation** sells only enough collateral to bring you back under the threshold. You keep the rest and the loan continues.
-- **Full liquidation** closes the entire position. The loan is settled and your remaining collateral, if any, comes back to you.
-
-Ask your lender which one they do before you sign. It changes what a bad month costs you.
-
-### The types of provider
-
-You don't need me to name specific companies, because the landscape changes and any list I give you goes stale. What doesn't change is the **structure**, so learn to sort providers into these buckets:
-
-**Custodial lenders.** You send your Bitcoin to the company and they hold it. Simplest to use. The risk is the one you already learned in the custody module: it's their Bitcoin now, in a legal sense, and if they fail you're a creditor. Several large ones failed in 2022 and customers lost everything.
-
-**Collaborative-custody lenders.** Your collateral sits in a multisig arrangement, often 2-of-3, where you hold a key, the lender holds a key, and a third party holds a key. The lender cannot move your Bitcoin unilaterally. This structure is the reason a lot of Bitcoiners will use one of these and never a custodial one.
-
-**Rehypothecation is the question that separates them.** Rehypothecation means the lender lends out your collateral to somebody else while they're holding it. It's the practice most directly responsible for the 2022 failures. **Ask directly: do you rehypothecate my collateral? Get the answer in writing.** If the answer is anything other than a clear no, you're taking a risk that has nothing to do with the Bitcoin price.
-
-**The questions to ask any provider:**
-
-1. Do you rehypothecate collateral?
-2. Custodial or collaborative multisig, and who holds which key?
-3. What are your exact margin call and liquidation LTVs?
-4. How much notice do I get at a margin call, and how do you contact me?
-5. Partial or full liquidation?
-6. Do you release collateral when LTV falls, and is it automatic or on request?
-7. What's the interest rate, is it fixed or variable, and are there origination or early-repayment fees?
-
-### A worked example
-
-The couple holds 1.75 Bitcoin. At an illustrative $100,000 a coin, that's $175,000.
-
-They want $35,000 for a kitchen renovation, and they don't want to sell, because selling would trigger a taxable gain and they'd be giving up the upside.
-
-**At a 20% starting LTV**, they pledge all 1.75 BTC and borrow $35,000.
-
-Now walk the price down and watch what happens to that ratio:
-
-| Bitcoin price | Collateral value | LTV | Where they stand |
-|---|---|---|---|
-| $100,000 | $175,000 | 20% | Comfortable |
-| $70,000 | $122,500 | 29% | Normal correction, fine |
-| $50,000 | $87,500 | 40% | Half the value gone, still fine |
-| $30,000 | $52,500 | 67% | Margin call territory |
-| $25,000 | $43,750 | 80% | Liquidation |
-
-A 75% drawdown, which is a normal Bitcoin bear market, takes them from 20% to the edge. **That's what starting at 20% buys you: it survives a normal bear, and it barely survives.**
-
-Run the same loan at 50% starting LTV and a 40% price drop hits the margin call. A 40% drop is an ordinary Tuesday in Bitcoin, not a bear market.
-
-### The rules to write down before you borrow
-
-1. **Start low enough to survive a 70 to 80% drawdown.** For most people that means 20 to 25%, not the 40 or 50% a lender will happily give you.
-2. **Keep unpledged Bitcoin or cash you can reach fast**, so a margin call has a good answer.
-3. **Know your lender's three lines** and write them down where you'll find them.
-4. **Decide your action at each line now**, in writing, while nothing is falling.
-5. **Never borrow for something you can't stop paying for.** A loan against a volatile asset funding a fixed obligation is how people get forced out at the bottom.
-
-### Now put it in the app
-
-Orange Plan models all of this, and it models it as a real position in your plan rather than a calculator off to the side.
-
-**Adding the loan: Strategy → Debt → Add debt**, and choose the Bitcoin-backed type. The form asks for the things that actually matter:
-
-| Field | What to enter |
-|---|---|
-| **Lender** | Whoever you're using (the placeholder shows examples) |
-| **Start date** · **Term (months)** · **Maturity / renewal** | Your actual terms |
-| **Collateral (BTC)** | The quantity pledged, not the dollar value |
-| **Margin call LTV (%)** | Your lender's number, not a default |
-| **Liquidation LTV (%)** | Your lender's number |
-| **Auto top-up collateral** | On or off, matching what you'd actually do |
-| **Liquidation strategy** | Full or Partial, matching your lender |
-
-⚠ Enter your lender's real thresholds. The app ships with common defaults, and a plan modeled on the wrong lines will tell you a comforting story that isn't yours.
-
-**The collateral rules: Strategy → Debt → Collateral rules.** This is where the behavior gets modeled across the whole projection:
-
-- **Auto top-up (global default)** turns automatic topping-up on or off
-- **Margin call %** is the LTV that triggers a top-up
-- **Top-up target %** is the LTV it tops back down to
-- **Liquidation %** is where forced selling happens
-- **Release trigger %** is the LTV below which collateral comes back to you
-
-That last one matters and it's easy to miss. **The app models collateral release**, so if Bitcoin rises and your LTV falls below the release trigger, the projection frees that collateral back into your plan rather than leaving it pledged forever.
-
-**How it's modeled:** the engine walks your loan year by year alongside the Bitcoin price path. Interest accrues, the price moves, LTV is recalculated, and if it crosses your top-up trigger the model tops up from available Bitcoin. If it crosses liquidation, the model sells according to your liquidation strategy and records it. Pledged Bitcoin stays protected from ordinary withdrawals, so the plan won't spend collateral you've already committed.
-
-That means when you run a 50% drawdown scenario with a loan in place, you're seeing the loan's actual behavior in that drawdown, not an assumption.
-
 ### Your decision
 
 **Whether to borrow at all, and if so, at what starting LTV and with which provider.**
 
 How to think about it:
 
-1. **Start with whether you need the money at all**, because the cheapest loan is the one you don't take.
-2. **Compare it honestly against just selling.** Selling costs you tax and upside. Borrowing costs you interest and adds a liquidation risk that selling doesn't have. One is expensive, the other is risky, and they're not the same kind of problem.
+1. **Start with whether you need the money at all.** The cheapest loan is the one you don't take.
+2. **Compare it honestly against selling.** Selling costs tax and upside; borrowing costs interest and adds a liquidation risk selling doesn't have. One is expensive, the other is risky, and those aren't the same kind of problem.
 3. **Pick your starting LTV from the drawdown you want to survive**, not from what you're allowed to borrow.
-4. **Pick the provider on structure, not on rate.** A slightly better rate at a lender who rehypothecates your collateral is not a better deal.
-5. **If you can't fund a margin call, you can't afford the loan.** That's the honest test.
+4. **Pick your provider on structure, not rate.** A better rate at a lender who rehypothecates is not a better deal.
+
+**If you couldn't fund a margin call, you can't afford the loan.**
 
 ### Homework
 
-1. Decide whether a Bitcoin-backed loan belongs in your plan at all. "No" is a completely legitimate and common answer.
+1. Decide whether a Bitcoin-backed loan belongs in your plan at all. No is completely legitimate, and it's the common answer.
 2. If you're considering one, take the 7 provider questions to two or three lenders and put their answers side by side. The differences between lenders are the whole decision.
-3. Model it in the app with your lender's real thresholds, then run the 50% drawdown scenario against it and see what happens.
+3. Model it in the app using your lender's real thresholds, not the defaults, and write down your specific action at each of the three severity levels.
+4. Run the 50% drawdown scenario against it and watch what happens.
+
+
 
 ## 5.3 The four ways debt can build wealth
 *`TEACH + APP` · 883 words · ~4 min*
