@@ -36,6 +36,10 @@ In one sentence: **sell up to the top of your 0% bracket, borrow anything above 
 
 The app models this directly as **Bracket-aware** mode in the Retirement Borrowing tab.
 
+## Ask the AI
+
+Open **Plan Guide** and ask for *"should I sell bitcoin or borrow."* That runs the **Compare selling vs. borrowing** workflow, which is this lesson run on your own numbers.
+
 ## Homework
 
 Run all three on one year of your spending, then across five years (borrow-only: interest + LTV drift; sell-only: taxes). Bring the outputs to the household and CPA conversations.

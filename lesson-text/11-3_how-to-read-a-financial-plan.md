@@ -32,3 +32,7 @@ Saved right after the annual review, year in the filename. It does its real work
 Spouse (the report is the 20-minute agenda) · CPA (tax pages + transaction export) · estate attorney (access/estate pages + your decisions). You hand each a document, not an app login: three professionals, one set of facts.
 
 You started with scattered accounts and a rough guess. You finish with a document your family can read, your CPA can act on, and that next year's review can be measured against.
+
+## Ask the AI
+
+Open **Plan Guide** and ask for *"what should I fix first."* That runs the **Review my full plan** workflow on your own numbers. It ranks the whole plan and hands you one place to start.

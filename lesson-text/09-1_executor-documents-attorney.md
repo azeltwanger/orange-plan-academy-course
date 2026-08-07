@@ -28,6 +28,10 @@ Trustees are held to a **prudent-investor standard**, and diversification counts
 
 Then normal vetting, including: do they explain things in language your heirs will understand in the worst week of their lives?
 
+## Ask the AI
+
+Open **Plan Guide** and ask for *"what should I ask an estate attorney."* That runs the **Prepare for estate planning** workflow on your own numbers. It builds the question list you take into the interview.
+
 ## Homework
 
 1. Get a simple will into existence now (an online path like FreeWill works); have an attorney review and supervise signing.

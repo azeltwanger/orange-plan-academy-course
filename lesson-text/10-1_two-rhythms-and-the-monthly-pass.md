@@ -57,6 +57,10 @@ The price on the day · a loud news week · a market swing · a gut feeling · *
 
 At most three actions, all finishable before the next pass. A long to-do list is the biggest reason reviews stop happening. The value compounds only when you finish the review every month.
 
+## Ask the AI
+
+Open **Plan Guide** and ask for *"what should I work on next."* That runs the **Continue my plan** workflow on your own numbers. It picks up wherever your plan actually is, which is useful when a month goes by and you have lost the thread.
+
 ## Homework
 
 1. Pick your monthly day and annual month.

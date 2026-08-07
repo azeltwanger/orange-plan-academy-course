@@ -95,6 +95,10 @@ Run a 50% drawdown scenario with the loan in place and you're seeing its real be
 4. **Pick the provider on structure, not rate.** A better rate at a lender who rehypothecates isn't a better deal.
 5. **If you couldn't fund a margin call, you can't afford the loan.**
 
+## Ask the AI
+
+Open **Plan Guide** and ask for *"evaluate bitcoin borrowing capacity."* That runs the **Evaluate borrowing capacity** workflow on your own numbers. It runs a real loan against your eligible taxable Bitcoin and your saved thresholds, and gives you the price-drop cushion in dollars.
+
 ## Homework
 
 1. Decide whether a Bitcoin-backed loan belongs in your plan at all. "No" is legitimate and common.

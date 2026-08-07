@@ -33,6 +33,10 @@ Reminder: Roth conversion income competes for the same room. Model together.
 
 Under current treatment, Bitcoin has no wash-sale rule: sell at a loss and rebuy same day, the loss counts. Stocks can't do that. Rules change; verify.
 
+## Ask the AI
+
+Open **Plan Guide** and ask for *"should I harvest gains or losses."* That runs the **Review harvesting opportunities** workflow on your own numbers. It gates the answer on your cost-basis quality, so it tells you when your lots are not clean enough to trust it yet.
+
 ## Homework
 
 1. Check your lots for unharvested losses from the last drawdown.

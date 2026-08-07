@@ -42,6 +42,10 @@ Pay it from outside and the full conversion compounds tax-free. Convert $30,000,
 
 ⚠ Filing deadlines and extension rules are law-set and change. Confirm dates and any interest with your CPA.
 
+## Ask the AI
+
+Open **Plan Guide** and ask for *"find my Roth conversion window."* That runs the **Evaluate Roth conversions** workflow on your own numbers. It will not propose a conversion unless your plan actually holds a pre-tax balance to convert.
+
 ## Homework
 
 1. Estimate your tax-deferred balance at 73; divide by ~26; add Social Security.

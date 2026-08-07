@@ -36,6 +36,10 @@ The check doesn't decide the move for you. It names the emotion in the room, so 
 2. **Answer honestly, not aspirationally.** The right answer is what's true at 3am with the price down 75%.
 3. **If the honest answer is "I'd sell," the position is too big.** Most people land here the first time. Better to know now than mid-drawdown.
 
+## Ask the AI
+
+Open **Plan Guide** and ask for *"help me choose my target allocation."* That runs the **Build my portfolio strategy** workflow on your own numbers. It walks risk tolerance, what job each holding does, and a target you could actually hold.
+
 ## Homework
 
 1. Run the stress test at today's balance and answer out loud.

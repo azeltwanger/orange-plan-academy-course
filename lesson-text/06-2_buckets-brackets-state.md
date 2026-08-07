@@ -26,6 +26,10 @@ The state you're a *resident of in the year you sell* can tax the gain as regula
 
 Three warnings: moving is more than tax; residency is a legal domicile standard, not a mailbox; and sequence matters: advice, then move, then sale, in that order (big exits get audited).
 
+## Ask the AI
+
+Open **Plan Guide** and ask for *"identify tax planning opportunities."* That runs the **Identify tax planning opportunities** workflow on your own numbers. It screens your current year and your future tax windows for the one that most changes the plan.
+
 ## Homework
 
 1. Sketch income by age for 20 years; mark paychecks-stop and forced-income-starts. The low stretch between is your bracket window.

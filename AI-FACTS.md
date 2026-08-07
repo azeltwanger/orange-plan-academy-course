@@ -145,11 +145,22 @@ The canonical rule the AI itself is given, verbatim from
   per-user overrides. The Sonnet 4.6 / Haiku 4.5 strings in
   `api/ai/_lib/modelResolver.js` are only the zero-config FALLBACKS; the DB row
   wins, so do NOT read the model out of that file.
-- Because the global row is the only row, **every task type runs on Sonnet 5**,
-  including the three the code intended for Haiku (memory extraction, intent
-  classification, transaction extraction). Message log confirms it: Haiku
-  traffic stops 2026-06-30 and Sonnet 5 starts 2026-07-02. That's a cost
-  question for Austin, not a correctness one.
+- **Fixed 2026-08-07.** Between 2026-07-01 and 2026-08-07 the global row was
+  the ONLY row, so every task type ran on Sonnet 5, including the three the
+  code intended for Haiku (message log: Haiku traffic stops 2026-06-30, Sonnet
+  5 starts 2026-07-02). Three `task_type` rows now pin
+  `memory_extraction`, `intent_classification`, and `transaction_extraction`
+  to `openrouter/anthropic/claude-haiku-4.5`. Everything user-facing still
+  inherits the global Sonnet 5 row. Current resolution:
+
+  | task type | resolves to | source |
+  |---|---|---|
+  | plan_review, plan_followup, daily_report, daily_followup, admin_test | Sonnet 5 | inherits global |
+  | memory_extraction, intent_classification, transaction_extraction | Haiku 4.5 | task_type row |
+
+  All 8 task types are editable in the app at **Admin → AI → Models**; the tab
+  renders every type whether or not a row exists (empty = inherit). Changes
+  apply on the next request, no deploy.
 - **On camera, say "Claude Sonnet" with no version number.** The version is a
   config row that can change without a deploy, and a lesson shouldn't age out
   the next time it does. Lesson 1.2 is already written that way.
@@ -309,3 +320,37 @@ Ranked by what actually changes their behavior:
    you're on and you get the workflow built for that decision.
 5. **It reviews and explains. You decide.** Say this ONCE, in this lesson,
    and never again.
+
+---
+
+## 14 · Which workflow each lesson points at
+
+Added to `lesson-text/` on 2026-08-07 (Austin: *"we could just mention you can
+use the AI to assist you with X workflow"*). **Lesson text only, never spoken**
+— the walkthroughs stay lean and this costs zero video minutes.
+
+Every block quotes the workflow's real `intentExamples` phrase, so typing it
+into Plan Guide actually routes to that workflow. All 45 title + phrase strings
+were verified against `guidedWorkflowRegistry.js`. If a title or trigger phrase
+changes in the app, fix it here and in the lesson text.
+
+| lesson | workflow | phrase the student types |
+|---|---|---|
+| 3.1 Find your surplus | Review spending tradeoffs | "review my expenses for ways to save" |
+| 3.2 Size the reserve | Set my reserve target | "set my reserve target" |
+| 4.2 The two emotion gates | Build my portfolio strategy | "help me choose my target allocation" |
+| 5.1 The two ratios | Evaluate leverage capacity | "evaluate my leverage capacity" |
+| 5.4 Bitcoin-backed loans | Evaluate borrowing capacity | "evaluate bitcoin borrowing capacity" |
+| 6.2 Buckets, brackets, state | Identify tax planning opportunities | "identify tax planning opportunities" |
+| 6.3 RMD risk + Roth | Evaluate Roth conversions | "find my Roth conversion window" |
+| 6.4 Harvesting | Review harvesting opportunities | "should I harvest gains or losses" |
+| 7.3 Income waterfall | Compare withdrawal strategies | "which retirement drawdown strategy fits me" |
+| 7.4 Sell, borrow, or hold | Compare selling vs. borrowing | "should I sell bitcoin or borrow" |
+| 8.7 Custody map | Review Protection Plan | "can my family access what they need" |
+| 9.1 Executor + documents | Prepare for estate planning | "what should I ask an estate attorney" |
+| 10.1 The monthly pass | Continue my plan | "what should I work on next" |
+| 11.1 Scenarios | Test a planning decision | "build a scenario for this choice" |
+| 11.3 How to read a plan | Review my full plan | "what should I fix first" |
+
+The other 11 workflows already have page buttons and are covered in the
+walkthroughs, so they get no text pointer.

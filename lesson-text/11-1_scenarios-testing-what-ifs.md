@@ -61,6 +61,10 @@ The reverse: a stress test the plan survives is completed work, not a failure. S
 
 Both also populate the report's "If Bitcoin follows a different path" section.
 
+## Ask the AI
+
+Open **Plan Guide** and ask for *"build a scenario for this choice."* That runs the **Test a planning decision** workflow on your own numbers. It turns a decision you are weighing into a single-variable scenario you can run.
+
 ## Homework
 
 1. Save one stress test: a deep drawdown right after your retirement year. Run the Monte Carlo.

@@ -10,3 +10,7 @@ Follow along (~15 minutes). The app's checklist tier keys to estate net worth (F
 6. **Walk past "Draft with AI"**: that's the heir letter assistant, next module's job.
 
 **Done when:** Needs attention is shorter than at the start, the hardware items are honest, no secret was typed anywhere, and the encrypted plan file is on disk.
+
+## Ask the AI
+
+Open **Plan Guide** and ask for *"can my family access what they need."* That runs the **Review Protection Plan** workflow on your own numbers. It reads completion status only, never names, locations, or anything secret.

@@ -54,6 +54,10 @@ Sequence-of-returns risk (a crash right after you retire) fades roughly 5 years 
 
 If Bitcoin dropped 50% tomorrow and your income stopped for six months, would you rather hold more cash now, or sell some Bitcoin down 50% and cut spending hard? No wrong answer. Your reserve size should reflect it.
 
+## Ask the AI
+
+Open **Plan Guide** and ask for *"set my reserve target."* That runs the **Set my reserve target** workflow on your own numbers. It asks about your income stability and lands on a month count for your situation.
+
 ## Homework
 
 1. Pick your target months.

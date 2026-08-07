@@ -40,6 +40,10 @@ The floor is what your cash reserve gets sized from.
 - **Withholding**: a big spring refund is your own surplus loaned out; two-earner households risk under-withholding.
 - **New income**: route every raise the day it lands, before it becomes lifestyle.
 
+## Ask the AI
+
+Open **Plan Guide** and ask for *"review my expenses for ways to save."* That runs the **Review spending tradeoffs** workflow on your own numbers. It reads your linked spending and works the tradeoffs with you, one expense at a time.
+
 ## Homework
 
 1. Run the surplus calculation on your numbers.

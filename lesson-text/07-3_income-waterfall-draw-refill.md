@@ -37,6 +37,10 @@ Target: 18 months × $80k = $120k. Spending held → refill fully. Spending cut 
 3. **Spend from the reserve, not the volatile assets**, so a bad market never sets your paycheck.
 4. **Tie the refill to your confidence number**, not a feeling about the year: at or above 80% with no guardrail hit, refill fully; lower guardrail hit, hold a minimum and wait until confidence climbs back toward 80%; upper guardrail, refill regardless. The target never moves, only the pace.
 
+## Ask the AI
+
+Open **Plan Guide** and ask for *"which retirement drawdown strategy fits me."* That runs the **Compare withdrawal strategies** workflow on your own numbers. It compares drawdown orders against your own income floor and reserve.
+
 ## Homework
 
 1. Set your withdrawal order under **Plan → Income → Withdrawal order** and apply it.

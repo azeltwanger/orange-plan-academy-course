@@ -32,6 +32,10 @@ $298k debt ÷ $745k assets = **40% DTA** (top of workable). ~$1,850/mo payments 
 3. **Notice which one moves.** The monthly one barely budges in a drawdown. The balance-sheet one moves a lot, because the asset side is Bitcoin.
 4. **Set your ceiling against the one that moves**, and set it while the price is high, because that's when debt looks safest.
 
+## Ask the AI
+
+Open **Plan Guide** and ask for *"evaluate my leverage capacity."* That runs the **Evaluate leverage capacity** workflow on your own numbers. It reads both ratios, your payment burden, and your collateral exposure together.
+
 ## Homework
 
 1. Read both ratios off **Strategy → Debt**. The app keeps them current.
