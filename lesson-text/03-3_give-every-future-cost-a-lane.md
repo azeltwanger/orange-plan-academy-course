@@ -39,5 +39,5 @@ There's no single right answer, but the plan must know the cost is coming and ha
 
 ## Look it up
 
-- **What a specific college actually costs** — [College Navigator](https://nces.ed.gov/collegenavigator/) (US Dept. of Education). Search the school and read its published cost and average net price.
-- **What *you* would pay at that school** — [Net Price Calculator Center](https://collegecost.ed.gov/net-price). Every Title IV school is required to publish one. Sticker price and net price are very different numbers, and the lane you fund is the net one.
+- **What a specific college actually costs**: [College Navigator](https://nces.ed.gov/collegenavigator/) (US Dept. of Education). Search the school and read its published cost and average net price.
+- **What *you* would pay at that school**: [Net Price Calculator Center](https://collegecost.ed.gov/net-price). Every Title IV school is required to publish one. Sticker price and net price are very different numbers, and the lane you fund is the net one.

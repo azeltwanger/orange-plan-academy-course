@@ -1,6 +1,6 @@
 # Spending, floor, the gap, and the bridge years
 
-Your retirement paycheck runs on three numbers — and on the stretch of years where those numbers press hardest on the portfolio.
+Your retirement paycheck runs on three numbers, and on the stretch of years where those numbers press hardest on the portfolio.
 
 Your retirement paycheck runs on three numbers.
 
@@ -79,4 +79,4 @@ The alternative is retiring at a high, hitting a 70% drawdown in year one with n
 
 ## Look it up
 
-- **Your Social Security estimate** — [ssa.gov/myaccount](https://www.ssa.gov/myaccount/). Create an account and pull your own benefit estimate; the figure is monthly, at Full Retirement Age. This is the same place the app's helper text points you.
+- **Your Social Security estimate**: [ssa.gov/myaccount](https://www.ssa.gov/myaccount/). Create an account and pull your own benefit estimate; the figure is monthly, at Full Retirement Age. This is the same place the app's helper text points you.

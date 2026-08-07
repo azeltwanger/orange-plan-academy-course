@@ -3,9 +3,11 @@ TELEPROMPTER SCRIPT — segment 7.1
 ~11 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-In today's lesson, we're going to cover the three numbers your whole retirement plan runs on, and then the stretch of years where those numbers put the most pressure on your portfolio.
+In today's lesson, we're going to cover the three numbers that your entire retirement paycheck is built on: your spending, your income floor, and the gap between them.
 
-Most early-retirement plans that fail, fail in that stretch.
+This module builds your retirement paycheck. An income floor, a gap that the portfolio covers, buckets that refill on rules, and guardrails that tell you when you can spend more. But the whole thing runs on three numbers, and this lesson finds yours.
+
+And most early-retirement plans that fail, fail in the bridge years.
 
 This module builds your retirement paycheck. An income floor, a gap that the portfolio covers, buckets that refill on rules, and guardrails that tell you when you can spend more. But the whole thing runs on three numbers, and this lesson finds yours.
 

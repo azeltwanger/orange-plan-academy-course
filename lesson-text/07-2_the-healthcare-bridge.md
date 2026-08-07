@@ -30,5 +30,5 @@ Price your bridge three ways: COBRA (year one), a Silver plan at your realistic 
 
 ## Look it up
 
-- **Real plans and prices for your ZIP** — [HealthCare.gov: see plans](https://www.healthcare.gov/see-plans/). Enter your ZIP and an estimated income to get actual premiums instead of a guess.
-- **How income affects what you pay** — [HealthCare.gov: lower costs](https://www.healthcare.gov/lower-costs/). This is the page that shows why a Roth conversion in a bridge year can cost you subsidy.
+- **Real plans and prices for your ZIP**: [HealthCare.gov: see plans](https://www.healthcare.gov/see-plans/). Enter your ZIP and an estimated income to get actual premiums instead of a guess.
+- **How income affects what you pay**: [HealthCare.gov: lower costs](https://www.healthcare.gov/lower-costs/). This is the page that shows why a Roth conversion in a bridge year can cost you subsidy.
