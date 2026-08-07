@@ -1,4 +1,4 @@
-# 9.7 · WALKTHROUGH — Check your work (estate)
+# 9.6 · WALKTHROUGH — Check your work (estate)
 
 **Screen capture · 1 lap · ~4 min** — Module 8's close. No new inputs.
 

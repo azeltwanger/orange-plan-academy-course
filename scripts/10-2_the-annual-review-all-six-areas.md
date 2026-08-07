@@ -1,5 +1,5 @@
-TELEPROMPTER SCRIPT — segment 10.3
-10.3 The annual review: all six areas
+TELEPROMPTER SCRIPT — segment 10.2
+10.2 The annual review: all six areas
 ~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 

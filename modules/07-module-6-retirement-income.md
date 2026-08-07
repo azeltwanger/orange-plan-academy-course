@@ -4,10 +4,10 @@
 
 > ✅ **HOLD LIFTED (2026-07-31).** The Retirement Income page change landed
 > (commit 073fdf0, 2026-07-29). This module was re-verified against the new UI:
-> 7.7 Step 5 rewritten for the live Withdrawal order section, 7.4's app pointer
+> 7.6 Step 5 rewritten for the live Withdrawal order section, 7.3's app pointer
 > updated, all other steps confirmed unchanged. Clear to film.
 
-## 7.1 Spending, floor, and the gap
+## 7.1 Spending, floor, the gap, and the bridge years
 *`TEACH` · 584 words · ~4 min*
 
 **By the end of this lesson, you can:**
@@ -100,8 +100,6 @@ Write your three numbers down: spending, floor, gap.
 
 If you don't know your floor yet, pull your Social Security estimate this week. SSA.gov gives it in monthly and annual. The app takes it as monthly.
 
-
-## 7.2 The bridge years
 *`TEACH` · 567 words · ~4 min*
 
 **By the end of this lesson, you can:**
@@ -186,8 +184,7 @@ Two steps:
 
 That total tells you whether your Bridge bucket is actually sized for the job.
 
-
-## 7.3 The healthcare bridge
+## 7.2 The healthcare bridge
 *`TEACH` · 800 words · ~6 min*
 
 **By the end of this lesson, you can:**
@@ -294,7 +291,7 @@ Price your bridge three ways:
 Most people have never seen those three numbers side by side. The comparison is the decision.
 
 
-## 7.4 The income waterfall + draw and refill
+## 7.3 The income waterfall + draw and refill
 *`TEACH` · 903 words · ~6 min*
 
 **By the end of this lesson, you can:**
@@ -427,7 +424,7 @@ How to think about it:
 3. Write your refill rule in one sentence, so future you doesn't renegotiate it in a bad year.
 
 
-## 7.5 Sell, borrow, or hold
+## 7.4 Sell, borrow, or hold
 *`TEACH` · 730 words · ~5 min*
 
 *Advanced. Borrow-vs-sell is a decision that only fires if you're considering asset-backed lending against Bitcoin. Skim unless the trigger applies to you.*
@@ -537,7 +534,7 @@ Run all three on one year of your own spending. Not to pick a winner, but to kno
 Bring the outputs to the household and CPA conversation.
 
 
-## 7.6 The guardrails: turning the confidence number into a paycheck
+## 7.5 The guardrails: turning the confidence number into a paycheck
 *`TEACH` · 835 words · ~6 min*
 
 **By the end of this lesson, you can:**
@@ -628,10 +625,10 @@ Two questions:
 Those two answers price your reserve, in dollars, against the drawdown you're actually defending against.
 
 
-## 7.7 Walkthrough: build the paycheck in Orange Plan
+## 7.6 Walkthrough: build the paycheck in Orange Plan
 *`DEMO` · 1,811 words · ~9 min*
 
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **7.7**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **7.6**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
 
 **By the end of this lesson, you can:**
 

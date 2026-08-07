@@ -2,7 +2,7 @@
 
 *The two rhythms that keep the plan alive: five minutes a month, one afternoon a year.*
 
-## 10.1 A review is not a rebuild: the two rhythms
+## 10.1 The two rhythms and the monthly pass
 *`TEACH` · 567 words · ~4 min*
 
 > 🐞 Currency mangling in the drift example (item 17): "$8,000/yr light …
@@ -70,8 +70,6 @@ How to think about it:
 2. Put both on your calendar as recurring events, right now.
 3. Write one line on what you will not touch during a monthly pass.
 
-
-## 10.2 The monthly pass
 *`TEACH` · 729 words · ~5 min*
 
 **By the end of this lesson, you can:**
@@ -142,8 +140,7 @@ The plan survives on this habit. Pick a specific day for the review, not "soon" 
 
 Five minutes a month, one afternoon a year, for the rest of your life. Every raise, every buy, and every quiet month you enter makes your freedom date more real.
 
-
-## 10.3 The annual review: all six areas
+## 10.2 The annual review: all six areas
 *`TEACH` · 1,051 words · ~8 min*
 
 > ✅ **Inconsistency FIXED (item 25) — 2026-07-30.** This lesson now reads
@@ -293,10 +290,10 @@ How to think about it:
 3. Write what "done" means for you: the report saved and the backup exported.
 
 
-## 10.4 Walkthrough: run the annual review in Orange Plan
+## 10.3 Walkthrough: run the annual review in Orange Plan
 *`DEMO` · 1,753 words · ~8 min*
 
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **10.4**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **10.3**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
 
 **By the end of this lesson, you can:**
 

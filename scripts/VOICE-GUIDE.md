@@ -159,8 +159,8 @@ lesson video, so "below this video" is literal.
 a hand-off on lesson 1 of 5 promises a walkthrough that isn't below it.
 Module-final teach lessons, as of this writing:
 
-  M1 2.3 · M2 3.3 · M3 4.5 · M4 5.5 · M5 6.4 · M6 7.6 · M7 8.5 · M8 9.6 ·
-  M9 10.3 · M10 11.1 and 11.3 (that module interleaves teach/walkthrough,
+  M1 2.3 · M2 3.3 · M3 4.5 · M4 5.5 · M5 6.4 · M6 7.5 · M7 8.5 · M8 9.5 ·
+  M9 10.2 · M10 11.1 and 11.3 (that module interleaves teach/walkthrough,
   so both get one). Module 0 (1.1) has no walkthrough and gets none.
 
 Every other teach lesson ends on its homework and stops.

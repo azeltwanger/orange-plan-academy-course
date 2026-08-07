@@ -298,7 +298,7 @@ How to think about it:
 3. Confirm afterwards that the two halves are still in separate places and were never written down together.
 
 
-## 9.3 The heir letter
+## 9.3 The heir letter and the dead man's switch
 *`TEACH + APP` · 1,442 words · ~7 min*
 
 **By the end of this lesson, you can:**
@@ -458,7 +458,6 @@ Click, then **stop typing** while it drafts. Read one line back to yourself and 
 
 The letter exists and the PDF is saved. Now the piece that makes sure anyone ever opens it.
 
-## 9.4 The 90-day dead man's switch
 *`TEACH + APP` · 714 words · ~3 min*
 
 **By the end of this lesson, you can:**
@@ -572,7 +571,7 @@ How to think about it:
 
 Documents, split, and switch are all in place.
 
-## 9.5 Insurance: the risks you can't self-insure yet
+## 9.4 Insurance: the risks you can't self-insure yet
 *`TEACH` · 1,090 words · ~5 min*
 
 **By the end of this lesson, you can:**
@@ -667,7 +666,7 @@ None of this is a product recommendation. Actual coverage runs through a license
 This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 
-## 9.6 Advanced: do you need a trust, and which one?
+## 9.5 Advanced: do you need a trust, and which one?
 *`TEACH + APP` · 1,923 words · ~9 min*
 
 **By the end of this lesson, you can:**
@@ -887,10 +886,10 @@ Say the close on camera: for most households, running this number earns you the 
 
 Do not buy structure until the gate lights up, and design the legal and key plans together.
 
-## 9.7 Check your work
+## 9.6 Check your work
 *`CHECK` · 634 words · ~3 min*
 
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **9.7**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **9.6**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
 
 **By the end of this lesson, you can:**
 

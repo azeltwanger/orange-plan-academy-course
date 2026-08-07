@@ -1,4 +1,4 @@
-# 7.7 · WALKTHROUGH — Build the paycheck
+# 7.6 · WALKTHROUGH — Build the paycheck
 
 **Screen capture · 11 steps · ~17 min**
 

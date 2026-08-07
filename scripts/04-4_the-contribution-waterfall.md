@@ -5,7 +5,7 @@ TELEPROMPTER SCRIPT — segment 4.4
 
 In today's lesson, we're going to cover the contribution waterfall, which is the order that your next dollar should flow through your accounts, and why that order is what it is.
 
-You have a surplus from the cash flow module, and you have buckets from the last few lessons. The waterfall is how the two connect. The rule is simple: every rung above has to be full, or maxed, before you move down to the next one. Money flows down the ladder, not sideways.
+You have a surplus from the cash flow module, and you have your three buckets. The waterfall is how the two connect. The rule is simple: every rung above has to be full, or maxed, before you move down to the next one. Money flows down the ladder, not sideways.
 
 == THE STANDARD WATERFALL ==
 

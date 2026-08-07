@@ -1,5 +1,5 @@
-TELEPROMPTER SCRIPT — segment 7.3
-7.3 The healthcare bridge
+TELEPROMPTER SCRIPT — segment 7.2
+7.2 The healthcare bridge
 ~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 

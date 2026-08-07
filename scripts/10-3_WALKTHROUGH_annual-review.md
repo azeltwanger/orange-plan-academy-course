@@ -1,4 +1,4 @@
-# 10.4 · WALKTHROUGH — Run the annual review
+# 10.3 · WALKTHROUGH — Run the annual review
 
 **Screen capture · 6 steps · ~8 min final** — one timed monthly pass, then the six-area annual lap.
 

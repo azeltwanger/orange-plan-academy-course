@@ -1,5 +1,5 @@
-TELEPROMPTER SCRIPT — segment 7.4
-7.4 The income waterfall + draw and refill
+TELEPROMPTER SCRIPT — segment 7.3
+7.3 The income waterfall + draw and refill
 ~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 

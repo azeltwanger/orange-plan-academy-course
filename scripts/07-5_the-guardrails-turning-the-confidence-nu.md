@@ -1,5 +1,5 @@
-TELEPROMPTER SCRIPT — segment 7.6
-7.6 The guardrails: turning the confidence number into a paycheck
+TELEPROMPTER SCRIPT — segment 7.5
+7.5 The guardrails: turning the confidence number into a paycheck
 ~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 

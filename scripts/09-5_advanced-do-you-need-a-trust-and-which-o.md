@@ -1,6 +1,6 @@
-TELEPROMPTER SCRIPT — segment 9.6
-9.6 Advanced: do you need a trust, and which one?
-~10 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · screen-share half = shoot list segment 9.6-B
+TELEPROMPTER SCRIPT — segment 9.5
+9.5 Advanced: do you need a trust, and which one?
+~10 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · screen-share half = shoot list segment 9.5-B
 ============================================================
 
 In today's lesson, we're going to cover trusts: whether you actually need one, and if you do, which kind.
@@ -72,7 +72,7 @@ Your homework for this lesson is to:
 And if you're outside the US: the gate still works, because it's a counting exercise about your family, not a US-specific test. But the containers differ. The UK leans on nil-rate bands and lifetime gifts, Canada has alter-ego and joint partner trusts, Australia uses testamentary trusts, and continental Europe runs on foundations and usufruct. The Bitcoin key problem is universal wherever trusts exist, and multisig with the trustee holding one key is the cleanest answer everywhere. Map it with a qualified local professional.
 
 ------------------------------------------------------------
-🎥 SCREEN SHARE (segment 9.6-B) — beats in SCREEN-SHOOT-LIST.
+🎥 SCREEN SHARE (segment 9.5-B) — beats in SCREEN-SHOOT-LIST.
 Hard rule on camera: do NOT say a federal exemption figure out loud. The app prints one on screen; point at it. The number changes with law, and the video should not age out.
 
 Narration guide: open Protect, the Projected legacy section, and read the two columns — Bitcoin remaining, split into liquid and pledged, and the projected estate after debt. Flip the Today's-dollars toggle once, deliberately, and name which one you're reading. Open See details and walk the after-tax ledger top to bottom: estate after debt, the income tax on inherited tax-deferred money with the 10-year rule, state estate tax, federal estate tax with the exemption comparison as its sub-caption, and then the number that matters, the after-tax estate — the number that actually reaches heirs. Set state of residence and heir marginal rate before reading anything aloud. If the federal row shows a dash, say that's the good outcome: the estate clears the line under current law. Then the growth dial: switch the Bitcoin assumption to Conservative, re-read the after-tax estate, switch to Moderate, read it again, and set it back when you're done — this is a read, not a decision. Under the line in every case you'd defend: close the tab, most households live here. Over the line under assumptions you actually believe: that's worth an attorney hour this year. Name the state caveat once — a handful of states run their own estate tax at far lower thresholds. And one honest limitation to name at the federal row: the app's exemption comparison isn't filing-status aware.

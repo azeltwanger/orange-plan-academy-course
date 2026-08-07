@@ -1,5 +1,5 @@
-TELEPROMPTER SCRIPT — segment 7.5
-7.5 Sell, borrow, or hold
+TELEPROMPTER SCRIPT — segment 7.4
+7.4 Sell, borrow, or hold
 ~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 

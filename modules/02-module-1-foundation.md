@@ -367,7 +367,7 @@ Enter your annual spending. Two panels appear:
 
 > ✅ **Added in course 2026-07-29** (item 19): the sentence below now states
 > that retirement spending excludes debt payments. A matching line went into
-> walkthrough 7.7's Step 1.
+> walkthrough 7.6's Step 1.
 
 #### Step 4: Accounts
 

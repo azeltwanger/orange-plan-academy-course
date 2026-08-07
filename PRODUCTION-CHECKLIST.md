@@ -4,7 +4,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ---
 
-> **Status: FINAL — cleared for filming (2026-08-05).** 56 lessons; every lesson
+> **Status: FINAL — cleared for filming (2026-08-07).** 53 lessons; every lesson
 > has a calibrated script and student-facing text. Files in `scripts/` and
 > `lesson-text/` are zero-padded, so GitHub's alphabetical sort equals film order.
 >
@@ -89,14 +89,13 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ## ☐ MODULE 6 — Retirement Income
 
-☐ 7.1 Spending, floor, gap — 🎙 film `07-1`
-☐ 7.2 The bridge years — 🎙 film `07-2`
-☐ 7.3 The healthcare bridge — 🎙 film `07-3`
-☐ 7.4 Income waterfall + draw/refill — 🎙 film `07-4`
-☐ 7.5 Sell, borrow, or hold — 🎙 film `07-5`
-☐ 7.6 The guardrails — 🎙 film `07-6`
-☐ 7.7 Walkthrough: build the paycheck — 🖥 capture `07.7` (11 steps; plan must be in retirement phase; run Monte Carlo first; SS entered MONTHLY)
-☐ Module 6: edit → upload → paste lesson text (07-1 … 07-7)
+☐ 7.1 Spending, floor, gap + the bridge years — 🎙 film `07-1` (~11 min; merged lesson)
+☐ 7.2 The healthcare bridge — 🎙 film `07-2`
+☐ 7.3 Income waterfall + draw/refill — 🎙 film `07-3`
+☐ 7.4 Sell, borrow, or hold — 🎙 film `07-4`
+☐ 7.5 The guardrails — 🎙 film `07-5`
+☐ 7.6 Walkthrough: build the paycheck — 🖥 capture `07.6` (11 steps; plan must be in retirement phase; run Monte Carlo first; SS entered MONTHLY)
+☐ Module 6: edit → upload → paste lesson text (07-1 … 07-6)
 
 ## ☐ MODULE 7 — Custody
 
@@ -113,20 +112,18 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ☐ 9.1 Executor, documents, attorney — 🎙 film `09-1` → 🖥 capture `09.1-B` (beneficiaries + executor packet)
 ☐ 9.2 The access split — 🎙 film `09-2`
-☐ 9.3 The heir letter — 🎙 film `09-3-A` → 🖥 capture `09.3-B`
-☐ 9.4 The dead man's switch — 🎙 film `09-4-A` → 🖥 capture `09.4-B` (requires Cloud mode)
-☐ 9.5 Insurance — 🎙 film `09-5`
-☐ 9.6 Advanced: trusts — 🎙 film `09-6` → 🖥 capture `09.6-B` (⚠ never say the exemption figure — point at screen)
-☐ 9.7 Check your work — 🖥 capture `09.7`
-☐ Module 8: edit A+B pairs → upload → paste lesson text (09-1 … 09-7)
+☐ 9.3 Heir letter + dead man's switch — 🎙 film `09-3-A` → 🖥 capture `09.3-B` (~9 min; merged lesson; switch requires Cloud mode)
+☐ 9.4 Insurance — 🎙 film `09-4`
+☐ 9.5 Advanced: trusts — 🎙 film `09-5` → 🖥 capture `09.5-B` (⚠ never say the exemption figure — point at screen)
+☐ 9.6 Check your work — 🖥 capture `09.6`
+☐ Module 8: edit A+B pairs → upload → paste lesson text (09-1 … 09-6)
 
 ## ☐ MODULE 9 — Maintenance
 
-☐ 10.1 Review ≠ rebuild — 🎙 film `10-1`
-☐ 10.2 The monthly pass — 🎙 film `10-2`
-☐ 10.3 The annual review — 🎙 film `10-3`
-☐ 10.4 Walkthrough: annual review — 🖥 capture `10.4` (timed monthly pass + six-area lap; flagged account needed for the AI beat)
-☐ Module 9: edit → upload → paste lesson text (10-1 … 10-4)
+☐ 10.1 Two rhythms + the monthly pass — 🎙 film `10-1` (~10 min; merged lesson)
+☐ 10.2 The annual review — 🎙 film `10-2`
+☐ 10.3 Walkthrough: annual review — 🖥 capture `10.3` (timed monthly pass + six-area lap; flagged account needed for the AI beat)
+☐ Module 9: edit → upload → paste lesson text (10-1 … 10-3)
 
 ## ☐ MODULE 10 — Plan Review (capstone)
 

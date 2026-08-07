@@ -1,5 +1,5 @@
-TELEPROMPTER SCRIPT — segment 9.5
-9.5 Insurance: the risks you can't self-insure yet
+TELEPROMPTER SCRIPT — segment 9.4
+9.4 Insurance: the risks you can't self-insure yet
 ~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
