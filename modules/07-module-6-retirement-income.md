@@ -7,7 +7,7 @@
 > 7.6 Step 5 rewritten for the live Withdrawal order section, 7.3's app pointer
 > updated, all other steps confirmed unchanged. Clear to film.
 
-## 7.1 Spending, floor, the gap, and the bridge years
+## 7.1 Your spending, income floor, gap, and bridge years
 *`TEACH` · 584 words · ~4 min*
 
 **By the end of this lesson, you can:**
@@ -184,7 +184,7 @@ Two steps:
 
 That total tells you whether your Bridge bucket is actually sized for the job.
 
-## 7.2 The healthcare bridge
+## 7.2 Health insurance between retiring and Medicare
 *`TEACH` · 800 words · ~6 min*
 
 **By the end of this lesson, you can:**
@@ -291,7 +291,7 @@ Price your bridge three ways:
 Most people have never seen those three numbers side by side. The comparison is the decision.
 
 
-## 7.3 The income waterfall + draw and refill
+## 7.3 Set your withdrawal order and refill rule
 *`TEACH` · 903 words · ~6 min*
 
 **By the end of this lesson, you can:**
@@ -424,7 +424,7 @@ How to think about it:
 3. Say your refill rule out loud once, so future you doesn't renegotiate the build cap in a bad year.
 
 
-## 7.4 Sell, borrow, or hold
+## 7.4 Sell, borrow, or hold: funding a year of spending
 *`TEACH` · 730 words · ~5 min*
 
 *Advanced. Borrow-vs-sell is a decision that only fires if you're considering asset-backed lending against Bitcoin. Skim unless the trigger applies to you.*
@@ -534,7 +534,7 @@ Run all three on one year of your own spending. Not to pick a winner, but to kno
 Bring the outputs to the household and CPA conversation.
 
 
-## 7.5 The guardrails: turning the confidence number into a paycheck
+## 7.5 Guardrails: how much you can spend each year
 *`TEACH` · 835 words · ~6 min*
 
 **By the end of this lesson, you can:**

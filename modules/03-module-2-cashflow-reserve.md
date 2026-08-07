@@ -2,7 +2,7 @@
 
 *Find your real surplus, protect the flywheel, size a cash reserve you won't have to sell Bitcoin for, and give every known future cost a lane.*
 
-## 3.1 Find your surplus: Keep, Cut, Reduce
+## 3.1 Find your surplus and your two spending numbers
 *`TEACH` · 775 words · ~5 min*
 
 > 🐞 **Two live bugs in this lesson.**
@@ -106,7 +106,7 @@ Every raise gets a decision the same day. A $5,000 raise is ~$400/mo. Route it b
 - Enter your normal spending as Living spending, and your bare-bones number in the reserve settings. Both drive the projection from here.
 
 
-## 3.2 Size the reserve to your life
+## 3.2 Size your cash reserve in months of spending
 *`TEACH` · 704 words · ~5 min*
 
 > 🐞 Outcomes checklist renders **0 / 0** (apostrophe in "reserve's" — item 16).
@@ -206,7 +206,7 @@ Your answer is what your reserve size should reflect. All four options pay for t
 Pick your target months. Multiply by your floor. Enter both into the reserve settings in the app.
 
 
-## 3.3 Give every future cost a lane
+## 3.3 Fund known future costs: college, cars, a house, repairs
 *`TEACH` · 625 words · ~4 min*
 
 > 🔴 **FLAGGED FOR REBUILD — do not film.** Austin, 2026-07-29. The timeframe

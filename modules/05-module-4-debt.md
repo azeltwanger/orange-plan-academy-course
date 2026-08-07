@@ -2,7 +2,7 @@
 
 *See debt as a tool, set your tolerance, read the two ratios with their guideline bands, watch LTV drift on Bitcoin-backed loans, know the four offense plays, and assign every debt a job.*
 
-## 5.1 Defense: tolerance first, then the two ratios
+## 5.1 Set your debt ceiling: debt-to-income and debt-to-assets
 *`TEACH + APP` · 1,077 words · ~5 min*
 
 **By the end of this lesson, you can:**
@@ -178,7 +178,7 @@ How to think about it:
 
 You've got a verdict word and a stress number. Both of them move when Bitcoin moves.
 
-## 5.2 Drift and the LTV cushion
+## 5.2 Size the LTV cushion on a Bitcoin-backed loan
 *`TEACH + APP` · 824 words · ~4 min*
 
 **By the end of this lesson, you can:**
@@ -308,7 +308,7 @@ How to think about it:
 
 Everything so far has been defense: know your ratios, protect the cushion, don't get liquidated. The other half is what debt is actually for.
 
-## 5.3 Offense: the four debt plays
+## 5.3 The four ways debt can build wealth
 *`TEACH + APP` · 883 words · ~4 min*
 
 **By the end of this lesson, you can:**
@@ -453,7 +453,7 @@ How to think about it:
 
 You've seen what one play does to your plan. Now every debt on the ledger needs a decision, including the ones you're keeping.
 
-## 5.4 Bitcoin-backed loans: how they actually work
+## 5.4 How Bitcoin-backed loans work: LTV, margin calls, liquidation
 *`TEACH` · 1,750 words · ~11 min*
 
 **By the end of this lesson, you can:**
@@ -623,7 +623,7 @@ How to think about it:
 3. Model it in the app with your lender's real thresholds, then run the 50% drawdown scenario against it and see what happens.
 
 
-## 5.5 Every debt gets a job
+## 5.5 Give every debt a payoff decision
 *`TEACH + APP` · 1,085 words · ~5 min*
 
 **By the end of this lesson, you can:**

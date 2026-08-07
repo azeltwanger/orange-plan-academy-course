@@ -12,64 +12,64 @@ Teleprompter headers are stripped. Walkthroughs are DO/SEE/⚠ sheets, not scrip
 
 **Module 0 — Start Here**
 
-- [1.1 · Start here: what this course is and how to use it](#1-1-teach) — TEACH · ~10 min · **AUSTIN DICTATION**
-- [1.2 · How the AI works](#1-2-teach) — TEACH · ~9 min
+- [1.1 · How to use this course](#1-1-teach) — TEACH · ~10 min · **AUSTIN DICTATION**
+- [1.2 · How the AI works: what it reads, what it never sees](#1-2-teach) — TEACH · ~9 min
 
 **Module 1 — Foundation**
 
-- [2.1 · Gather your numbers](#2-1-teach) — TEACH · ~6 min · **AUSTIN DICTATION**
-- [2.2 · What your plan rests on: assumptions](#2-2-teach) — TEACH · ~6 min
-- [2.3 · The confidence ring: your plan's stress test](#2-3-teach) — TEACH · ~8 min
+- [2.1 · What to gather before you build the plan](#2-1-teach) — TEACH · ~6 min · **AUSTIN DICTATION**
+- [2.2 · Set your growth and inflation assumptions](#2-2-teach) — TEACH · ~6 min
+- [2.3 · Read your retirement date and confidence number](#2-3-teach) — TEACH · ~8 min
 - [2.4 · WALKTHROUGH — Set up your plan (onboarding)](#2-4-walkthrough) — WALKTHROUGH
 - [2.5 · WALKTHROUGH — Build your baseline](#2-5-walkthrough) — WALKTHROUGH
 
 **Module 2 — Cash Flow + Reserve**
 
-- [3.1 · Find your surplus: Keep, Cut, Reduce](#3-1-teach) — TEACH · ~10 min
-- [3.2 · Size the reserve to your life](#3-2-teach) — TEACH · ~11 min · **AUSTIN DICTATION**
-- [3.3 · Give every future cost a lane](#3-3-teach) — TEACH · ~7 min
+- [3.1 · Find your surplus and your two spending numbers](#3-1-teach) — TEACH · ~10 min
+- [3.2 · Size your cash reserve in months of spending](#3-2-teach) — TEACH · ~11 min · **AUSTIN DICTATION**
+- [3.3 · Fund known future costs: college, cars, a house, repairs](#3-3-teach) — TEACH · ~7 min
 - [3.4 · WALKTHROUGH — Cash flow + reserve](#3-4-walkthrough) — WALKTHROUGH
 
 **Module 3 — Allocation**
 
-- [4.1 · The four Bitcoin allocation tiers](#4-1-teach) — TEACH · ~7 min
-- [4.2 · The two emotion gates: stress-test + price context](#4-2-teach) — TEACH · ~6 min
-- [4.3 · Give every dollar a job: Reserve / Bridge / Legacy](#4-3-teach) — TEACH · ~7 min
-- [4.4 · The contribution waterfall](#4-4-teach) — TEACH · ~8 min
-- [4.5 · Asset location: the right account for each holding](#4-5-teach) — TEACH · ~7 min
+- [4.1 · Pick your Bitcoin allocation tier](#4-1-teach) — TEACH · ~7 min
+- [4.2 · Stress-test the allocation you can actually hold](#4-2-teach) — TEACH · ~6 min
+- [4.3 · Split your money into Reserve, Bridge, and Legacy](#4-3-teach) — TEACH · ~7 min
+- [4.4 · Order your contributions: which account gets funded first](#4-4-teach) — TEACH · ~8 min
+- [4.5 · Asset location: which account each holding belongs in](#4-5-teach) — TEACH · ~7 min
 - [4.6 · WALKTHROUGH — Route it](#4-6-walkthrough) — WALKTHROUGH
 
 **Module 4 — Debt**
 
-- [5.1 · Defense: tolerance first, then the two ratios](#5-1-teach) — TEACH · ~7 min
-- [5.2 · Drift and the LTV cushion](#5-2-teach) — TEACH · ~7 min
-- [5.3 · Offense: the four debt plays](#5-3-teach) — TEACH · ~9 min
-- [5.4 · Bitcoin-backed loans: how they actually work](#5-4-teach) — TEACH · ~14 min
-- [5.5 · Every debt gets a job](#5-5-teach) — TEACH · ~5 min
+- [5.1 · Set your debt ceiling: debt-to-income and debt-to-assets](#5-1-teach) — TEACH · ~7 min
+- [5.2 · Size the LTV cushion on a Bitcoin-backed loan](#5-2-teach) — TEACH · ~7 min
+- [5.3 · The four ways debt can build wealth](#5-3-teach) — TEACH · ~9 min
+- [5.4 · How Bitcoin-backed loans work: LTV, margin calls, liquidation](#5-4-teach) — TEACH · ~14 min
+- [5.5 · Give every debt a payoff decision](#5-5-teach) — TEACH · ~5 min
 
 **Module 5 — Tax**
 
-- [6.1 · Cost basis: the unlock for everything else](#6-1-teach) — TEACH · ~5 min
-- [6.2 · The 3 buckets, your bracket roadmap, and the state lever](#6-2-teach) — TEACH · ~9 min
-- [6.3 · The RMD risk + Roth conversions](#6-3-teach) — TEACH · ~10 min
+- [6.1 · Cost basis: what you paid, and how to reconstruct it](#6-1-teach) — TEACH · ~5 min
+- [6.2 · Taxable, tax-deferred, and Roth: bracket windows and state taxes](#6-2-teach) — TEACH · ~9 min
+- [6.3 · RMD risk and Roth conversions](#6-3-teach) — TEACH · ~10 min
 - [6.4 · Harvesting losses and gains](#6-4-teach) — TEACH · ~8 min
 - [6.5 · WALKTHROUGH — Model it (tax)](#6-5-walkthrough) — WALKTHROUGH
 
 **Module 6 — Retirement Income**
 
-- [7.1 · Spending, floor, the gap, and the bridge years](#7-1-teach) — TEACH · ~12 min
-- [7.2 · The healthcare bridge](#7-2-teach) — TEACH · ~6 min
-- [7.3 · The income waterfall + draw and refill](#7-3-teach) — TEACH · ~9 min
-- [7.4 · Sell, borrow, or hold](#7-4-teach) — TEACH · ~8 min
-- [7.5 · The guardrails: turning the confidence number into a paycheck](#7-5-teach) — TEACH · ~8 min
+- [7.1 · Your spending, income floor, gap, and bridge years](#7-1-teach) — TEACH · ~12 min
+- [7.2 · Health insurance between retiring and Medicare](#7-2-teach) — TEACH · ~6 min
+- [7.3 · Set your withdrawal order and refill rule](#7-3-teach) — TEACH · ~9 min
+- [7.4 · Sell, borrow, or hold: funding a year of spending](#7-4-teach) — TEACH · ~8 min
+- [7.5 · Guardrails: how much you can spend each year](#7-5-teach) — TEACH · ~8 min
 - [7.6 · WALKTHROUGH — Build the paycheck](#7-6-walkthrough) — WALKTHROUGH
 
 **Module 7 — Custody**
 
-- [8.1 · Custody: the 5 questions](#8-1-teach) — TEACH · ~6 min
-- [8.2 · Choosing your custody level](#8-2-teach) — TEACH · ~13 min
-- [8.3 · The hardware wallet and the recovery test](#8-3-teach) — TEACH · ~8 min
-- [8.4 · Close the doors: single points of failure, hardening, and scams](#8-4-teach) — TEACH · ~9 min
+- [8.1 · The five questions that set your custody level](#8-1-teach) — TEACH · ~6 min
+- [8.2 · Choose your custody level and spread the risk](#8-2-teach) — TEACH · ~13 min
+- [8.3 · Set up a hardware wallet and test recovery](#8-3-teach) — TEACH · ~8 min
+- [8.4 · Single points of failure, account hardening, and scams](#8-4-teach) — TEACH · ~9 min
 - [8.5 · Advanced custody: passphrase, multisig, and collaborative](#8-5-teach) — TEACH · ~13 min
 - [8.6 · DEMO — Hardware wallet setup + exchange hardening](#8-6-demo) — DEMO
 - [8.7 · WALKTHROUGH — Document your custody map](#8-7-walkthrough) — WALKTHROUGH
@@ -77,20 +77,20 @@ Teleprompter headers are stripped. Walkthroughs are DO/SEE/⚠ sheets, not scrip
 **Module 8 — Estate**
 
 - [9.1 · The executor, the four legal documents, and choosing an estate attorney](#9-1-teach) — TEACH · ~11 min
-- [9.2 · The access split](#9-2-teach) — TEACH · ~8 min
+- [9.2 · Split access so no one person holds everything](#9-2-teach) — TEACH · ~8 min
 - [9.3 · The heir letter and the dead man's switch](#9-3-teach) — TEACH · ~10 min
-- [9.4 · Insurance: the risks you can't self-insure yet](#9-4-teach) — TEACH · ~8 min
+- [9.4 · Insurance: term life, disability, umbrella, and when to stop](#9-4-teach) — TEACH · ~8 min
 - [9.5 · Advanced: do you need a trust, and which one?](#9-5-teach) — TEACH · ~10 min
 
 **Module 9 — Maintenance**
 
-- [10.1 · The two rhythms and the monthly pass](#10-1-teach) — TEACH · ~11 min
-- [10.2 · The annual review: all six areas](#10-2-teach) — TEACH · ~9 min
+- [10.1 · The five-minute monthly pass](#10-1-teach) — TEACH · ~11 min
+- [10.2 · The annual review: six areas to check](#10-2-teach) — TEACH · ~9 min
 - [10.3 · WALKTHROUGH — Run the annual review](#10-3-walkthrough) — WALKTHROUGH
 
 **Module 10 — Plan Review**
 
-- [11.1 · Scenarios: testing what-ifs against your plan](#11-1-teach) — TEACH · ~8 min
+- [11.1 · Test a decision with a scenario](#11-1-teach) — TEACH · ~8 min
 - [11.2 · WALKTHROUGH — Build and compare a scenario](#11-2-walkthrough) — WALKTHROUGH
 - [11.3 · How to read a financial plan](#11-3-teach) — TEACH · ~8 min
 - [11.4 · WALKTHROUGH — Walk your report](#11-4-walkthrough) — WALKTHROUGH
@@ -102,9 +102,9 @@ Teleprompter headers are stripped. Walkthroughs are DO/SEE/⚠ sheets, not scrip
 
 <a id="1-1-teach"></a>
 
-## 1.1 · Start here: what this course is and how to use it
+## 1.1 · How to use this course
 
-`01-1_start-here-what-this-course-is-and-how-t.md` · TEACH · ~10 min · 1,627 words · **AUSTIN DICTATION**
+`01-1_how-to-use-this-course.md` · TEACH · ~10 min · 1,627 words · **AUSTIN DICTATION**
 
 >>> I CHANGED TWO THINGS IN YOUR DICTATION (your own flags). Say it your way. <<<
 
@@ -212,9 +212,9 @@ So if you're outside the US, my advice is: build the whole plan, use every frame
 
 <a id="1-2-teach"></a>
 
-## 1.2 · How the AI works
+## 1.2 · How the AI works: what it reads, what it never sees
 
-`01-2_how-the-ai-works.md` · TEACH · ~9 min · 1,360 words
+`01-2_how-the-ai-works-what-it-reads-what-it-n.md` · TEACH · ~9 min · 1,360 words
 
 In today's lesson, we're going to cover the AI that's built into Orange Plan: what it reads, what it never sees, and where it runs.
 
@@ -319,9 +319,9 @@ And the last thing, which I'm saying once here so I don't have to keep repeating
 
 <a id="2-1-teach"></a>
 
-## 2.1 · Gather your numbers
+## 2.1 · What to gather before you build the plan
 
-`02-1_gather-your-numbers.md` · TEACH · ~6 min · 937 words · **AUSTIN DICTATION**
+`02-1_what-to-gather-before-you-build-the-plan.md` · TEACH · ~6 min · 937 words · **AUSTIN DICTATION**
 
 In today's lesson, we're going to cover the documents that you're going to need to gather before you start building your financial plan.
 
@@ -372,9 +372,9 @@ Your homework for this lesson:
 
 <a id="2-2-teach"></a>
 
-## 2.2 · What your plan rests on: assumptions
+## 2.2 · Set your growth and inflation assumptions
 
-`02-2_what-your-plan-rests-on-assumptions.md` · TEACH · ~6 min · 856 words
+`02-2_set-your-growth-and-inflation-assumption.md` · TEACH · ~6 min · 856 words
 
 In today's lesson, we're going to cover assumptions — the inputs about the future that your plan treats as truth.
 
@@ -445,9 +445,9 @@ Your homework for this lesson is to:
 
 <a id="2-3-teach"></a>
 
-## 2.3 · The confidence ring: your plan's stress test
+## 2.3 · Read your retirement date and confidence number
 
-`02-3_the-confidence-ring-your-plan-s-stress-t.md` · TEACH · ~8 min · 1,307 words
+`02-3_read-your-retirement-date-and-confidence.md` · TEACH · ~8 min · 1,307 words
 
 In today's lesson, we're going to cover the two numbers at the top of your plan — your earliest retirement date, and your confidence number — and how to read them together.
 
@@ -842,9 +842,9 @@ Salary entered here makes every downstream projection wrong. Hit this hard.
 
 <a id="3-1-teach"></a>
 
-## 3.1 · Find your surplus: Keep, Cut, Reduce
+## 3.1 · Find your surplus and your two spending numbers
 
-`03-1_find-your-surplus-keep-cut-reduce.md` · TEACH · ~10 min · 1,532 words
+`03-1_find-your-surplus-and-your-two-spending-.md` · TEACH · ~10 min · 1,532 words
 
 In today's lesson, we're going to cover how to find your surplus, which is the money you have left over every month after everything else has been paid.
 
@@ -932,9 +932,9 @@ Your homework for this lesson is to:
 
 <a id="3-2-teach"></a>
 
-## 3.2 · Size the reserve to your life
+## 3.2 · Size your cash reserve in months of spending
 
-`03-2_size-the-reserve-to-your-life.md` · TEACH · ~11 min · 1,673 words · **AUSTIN DICTATION**
+`03-2_size-your-cash-reserve-in-months-of-spen.md` · TEACH · ~11 min · 1,673 words · **AUSTIN DICTATION**
 
 In today's lesson, we're going to cover how to size your cash reserve to your life. Let me start by showing you why this matters.
 
@@ -998,9 +998,9 @@ Your homework for this lesson is to:
 
 <a id="3-3-teach"></a>
 
-## 3.3 · Give every future cost a lane
+## 3.3 · Fund known future costs: college, cars, a house, repairs
 
-`03-3_give-every-future-cost-a-lane.md` · TEACH · ~7 min · 1,054 words
+`03-3_fund-known-future-costs-college-cars-a-h.md` · TEACH · ~7 min · 1,054 words
 
 In today's lesson, we're going to cover how to give every future cost that you already know about its own lane.
 
@@ -1226,9 +1226,9 @@ Your homework for this lesson is to:
 
 <a id="4-1-teach"></a>
 
-## 4.1 · The four Bitcoin allocation tiers
+## 4.1 · Pick your Bitcoin allocation tier
 
-`04-1_the-four-bitcoin-allocation-tiers.md` · TEACH · ~7 min · 1,038 words
+`04-1_pick-your-bitcoin-allocation-tier.md` · TEACH · ~7 min · 1,038 words
 
 In today's lesson, we're going to cover the four Bitcoin allocation tiers, and how to figure out which one you're actually in.
 
@@ -1293,9 +1293,9 @@ Your homework for this lesson is to:
 
 <a id="4-2-teach"></a>
 
-## 4.2 · The two emotion gates: stress-test + price context
+## 4.2 · Stress-test the allocation you can actually hold
 
-`04-2_the-two-emotion-gates-stress-test-price-.md` · TEACH · ~6 min · 966 words
+`04-2_stress-test-the-allocation-you-can-actua.md` · TEACH · ~6 min · 966 words
 
 In today's lesson, we're going to cover the two checks that keep your allocation honest. The first one is the stress test, which you run once, when you set your allocation. The second one is the price context check, which you run every time before you make a Bitcoin-heavy move.
 
@@ -1365,9 +1365,9 @@ Your homework for this lesson is to:
 
 <a id="4-3-teach"></a>
 
-## 4.3 · Give every dollar a job: Reserve / Bridge / Legacy
+## 4.3 · Split your money into Reserve, Bridge, and Legacy
 
-`04-3_give-every-dollar-a-job-reserve-bridge-f.md` · TEACH · ~7 min · 1,009 words
+`04-3_split-your-money-into-reserve-bridge-and.md` · TEACH · ~7 min · 1,009 words
 
 In today's lesson, we're going to cover the 3 buckets that give every dollar you own a job.
 
@@ -1439,9 +1439,9 @@ Your homework for this lesson is to:
 
 <a id="4-4-teach"></a>
 
-## 4.4 · The contribution waterfall
+## 4.4 · Order your contributions: which account gets funded first
 
-`04-4_the-contribution-waterfall.md` · TEACH · ~8 min · 1,311 words
+`04-4_order-your-contributions-which-account-g.md` · TEACH · ~8 min · 1,311 words
 
 In today's lesson, we're going to cover the contribution waterfall, which is the order that your next dollar should flow through your accounts, and why that order is what it is.
 
@@ -1517,9 +1517,9 @@ Your homework for this lesson is to:
 
 <a id="4-5-teach"></a>
 
-## 4.5 · Asset location: the right account for each holding
+## 4.5 · Asset location: which account each holding belongs in
 
-`04-5_asset-location-the-right-account-for-eac.md` · TEACH · ~7 min · 1,039 words
+`04-5_asset-location-which-account-each-holdin.md` · TEACH · ~7 min · 1,039 words
 
 In today's lesson, we're going to cover asset location, which is choosing which type of account each of your holdings should live in, so you're not paying more lifetime tax than you have to.
 
@@ -1761,9 +1761,9 @@ Your homework for this lesson is to:
 
 <a id="5-1-teach"></a>
 
-## 5.1 · Defense: tolerance first, then the two ratios
+## 5.1 · Set your debt ceiling: debt-to-income and debt-to-assets
 
-`05-1-A_defense-tolerance-first-then-the-two-rat.md` · TEACH · ~7 min · 1,052 words
+`05-1-A_set-your-debt-ceiling-debt-to-income-and.md` · TEACH · ~7 min · 1,052 words
 
 In today's lesson, we're going to cover the defensive side of debt: your tolerance, and the two ratios that tell you where you stand.
 
@@ -1837,9 +1837,9 @@ Your homework for this lesson is to:
 
 <a id="5-2-teach"></a>
 
-## 5.2 · Drift and the LTV cushion
+## 5.2 · Size the LTV cushion on a Bitcoin-backed loan
 
-`05-2-A_drift-and-the-ltv-cushion.md` · TEACH · ~7 min · 1,099 words
+`05-2-A_size-the-ltv-cushion-on-a-bitcoin-backed.md` · TEACH · ~7 min · 1,099 words
 
 In today's lesson, we're going to cover the two dynamics that make a Bitcoin balance sheet different from everybody else's: drift, and the LTV cushion.
 
@@ -1911,9 +1911,9 @@ Your homework for this lesson is to:
 
 <a id="5-3-teach"></a>
 
-## 5.3 · Offense: the four debt plays
+## 5.3 · The four ways debt can build wealth
 
-`05-3-A_offense-the-four-debt-plays.md` · TEACH · ~9 min · 1,342 words
+`05-3-A_the-four-ways-debt-can-build-wealth.md` · TEACH · ~9 min · 1,342 words
 
 In today's lesson, we're going to cover the offensive side of debt, which is the four plays where debt actually builds wealth.
 
@@ -1993,9 +1993,9 @@ Your homework for this lesson is to:
 
 <a id="5-4-teach"></a>
 
-## 5.4 · Bitcoin-backed loans: how they actually work
+## 5.4 · How Bitcoin-backed loans work: LTV, margin calls, liquidation
 
-`05-4_bitcoin-backed-loans-how-they-work.md` · TEACH · ~14 min · 2,140 words
+`05-4_how-bitcoin-backed-loans-work-ltv-margin.md` · TEACH · ~14 min · 2,140 words
 
 In today's lesson, we're going to cover Bitcoin-backed loans: how they actually work, how the numbers move, and what happens when they go wrong.
 
@@ -2145,9 +2145,9 @@ Your homework for this lesson is to:
 
 <a id="5-5-teach"></a>
 
-## 5.5 · Every debt gets a job
+## 5.5 · Give every debt a payoff decision
 
-`05-5-A_every-debt-gets-a-job.md` · TEACH · ~5 min · 828 words
+`05-5-A_give-every-debt-a-payoff-decision.md` · TEACH · ~5 min · 828 words
 
 In today's lesson, we're going to finish the debt module by giving every debt on your balance sheet a job, with a reason attached to it.
 
@@ -2218,9 +2218,9 @@ So now let's go put a job on every row in the app.
 
 <a id="6-1-teach"></a>
 
-## 6.1 · Cost basis: the unlock for everything else
+## 6.1 · Cost basis: what you paid, and how to reconstruct it
 
-`06-1_cost-basis-the-unlock-for-everything-els.md` · TEACH · ~5 min · 816 words
+`06-1_cost-basis-what-you-paid-and-how-to-reco.md` · TEACH · ~5 min · 816 words
 
 In today's lesson, we're going to cover cost basis, which is the one number that unlocks every other tax move in this module.
 
@@ -2285,9 +2285,9 @@ This one is tedious. But you do it once, and it makes every future tax move in t
 
 <a id="6-2-teach"></a>
 
-## 6.2 · The 3 buckets, your bracket roadmap, and the state lever
+## 6.2 · Taxable, tax-deferred, and Roth: bracket windows and state taxes
 
-`06-2_the-three-buckets-your-bracket-roadmap-a.md` · TEACH · ~9 min · 1,367 words
+`06-2_taxable-tax-deferred-and-roth-bracket-wi.md` · TEACH · ~9 min · 1,367 words
 
 In today's lesson, we're going to cover the three things that decide your tax bill: where your money sits, when you act, and where you live when you act.
 
@@ -2375,9 +2375,9 @@ And if you're outside the US: the frameworks here travel, the specific rules don
 
 <a id="6-3-teach"></a>
 
-## 6.3 · The RMD risk + Roth conversions
+## 6.3 · RMD risk and Roth conversions
 
-`06-3_the-rmd-risk-roth-conversions.md` · TEACH · ~10 min · 1,540 words
+`06-3_rmd-risk-and-roth-conversions.md` · TEACH · ~10 min · 1,540 words
 
 In today's lesson, we're going to cover the RMD risk, and the main tool for defusing it, which is the Roth conversion.
 
@@ -2764,9 +2764,9 @@ And if you're outside the US: the frameworks travel, the specific rules don't. M
 
 <a id="7-1-teach"></a>
 
-## 7.1 · Spending, floor, the gap, and the bridge years
+## 7.1 · Your spending, income floor, gap, and bridge years
 
-`07-1_spending-floor-gap-and-the-bridge-years.md` · TEACH · ~12 min · 1,929 words
+`07-1_your-spending-income-floor-gap-and-bridg.md` · TEACH · ~12 min · 1,929 words
 
 In today's lesson, we're going to cover the three numbers that your entire retirement paycheck is built on: your spending, your income floor, and the gap between them.
 
@@ -2906,9 +2906,9 @@ Your homework for this lesson:
 
 <a id="7-2-teach"></a>
 
-## 7.2 · The healthcare bridge
+## 7.2 · Health insurance between retiring and Medicare
 
-`07-2_the-healthcare-bridge.md` · TEACH · ~6 min · 970 words
+`07-2_health-insurance-between-retiring-and-me.md` · TEACH · ~6 min · 970 words
 
 In today's lesson, we're going to cover the healthcare bridge, which is how you cover health coverage between your last day of work and Medicare.
 
@@ -2969,9 +2969,9 @@ Your homework for this lesson is to:
 
 <a id="7-3-teach"></a>
 
-## 7.3 · The income waterfall + draw and refill
+## 7.3 · Set your withdrawal order and refill rule
 
-`07-3_the-income-waterfall-draw-and-refill.md` · TEACH · ~9 min · 1,374 words
+`07-3_set-your-withdrawal-order-and-refill-rul.md` · TEACH · ~9 min · 1,374 words
 
 In today's lesson, we're going to cover two things that work together: the income waterfall, which is the order your retirement paycheck gets assembled in, and draw and refill, which is how you put cash back after you spend it.
 
@@ -3069,9 +3069,9 @@ Your homework for this lesson is to:
 
 <a id="7-4-teach"></a>
 
-## 7.4 · Sell, borrow, or hold
+## 7.4 · Sell, borrow, or hold: funding a year of spending
 
-`07-4_sell-borrow-or-hold.md` · TEACH · ~8 min · 1,219 words
+`07-4_sell-borrow-or-hold-funding-a-year-of-sp.md` · TEACH · ~8 min · 1,219 words
 
 In today's lesson, we're going to cover the three ways to fund your life from a Bitcoin-heavy plan: sell, borrow, or hold.
 
@@ -3153,9 +3153,9 @@ Your homework for this lesson is to:
 
 <a id="7-5-teach"></a>
 
-## 7.5 · The guardrails: turning the confidence number into a paycheck
+## 7.5 · Guardrails: how much you can spend each year
 
-`07-5_the-guardrails-turning-the-confidence-nu.md` · TEACH · ~8 min · 1,222 words
+`07-5_guardrails-how-much-you-can-spend-each-y.md` · TEACH · ~8 min · 1,222 words
 
 In today's lesson, we're going to cover the guardrails, which turn your confidence number into an actual paycheck you can adjust every year.
 
@@ -3443,9 +3443,9 @@ Your homework for this lesson is to:
 
 <a id="8-1-teach"></a>
 
-## 8.1 · Custody: the 5 questions
+## 8.1 · The five questions that set your custody level
 
-`08-1_custody-the-five-questions.md` · TEACH · ~6 min · 1,002 words
+`08-1_the-five-questions-that-set-your-custody.md` · TEACH · ~6 min · 1,002 words
 
 In today's lesson, we're going to cover the 5 questions that expose exactly where your custody has gaps.
 
@@ -3519,9 +3519,9 @@ Your homework for this lesson is to:
 
 <a id="8-2-teach"></a>
 
-## 8.2 · Choosing your custody level
+## 8.2 · Choose your custody level and spread the risk
 
-`08-2_choosing-your-custody-level.md` · TEACH · ~13 min · 2,065 words
+`08-2_choose-your-custody-level-and-spread-the.md` · TEACH · ~13 min · 2,065 words
 
 In today's lesson, we're going to cover how to pick the custody level that actually matches your stack and your family.
 
@@ -3636,9 +3636,9 @@ Your homework for this lesson is to:
 
 <a id="8-3-teach"></a>
 
-## 8.3 · The hardware wallet and the recovery test
+## 8.3 · Set up a hardware wallet and test recovery
 
-`08-3_the-hardware-wallet-and-the-recovery-tes.md` · TEACH · ~8 min · 1,301 words
+`08-3_set-up-a-hardware-wallet-and-test-recove.md` · TEACH · ~8 min · 1,301 words
 
 In today's lesson, we're going to cover the hardware wallet setup, and the recovery test that proves your backup actually works before serious money depends on it.
 
@@ -3731,9 +3731,9 @@ Your homework for this lesson is to:
 
 <a id="8-4-teach"></a>
 
-## 8.4 · Close the doors: single points of failure, hardening, and scams
+## 8.4 · Single points of failure, account hardening, and scams
 
-`08-4_close-the-doors-single-points-of-failure.md` · TEACH · ~9 min · 1,401 words
+`08-4_single-points-of-failure-account-hardeni.md` · TEACH · ~9 min · 1,401 words
 
 In today's lesson, we're going to cover single points of failure, account hardening, and the scam rules. This is the lesson about closing the doors you didn't know were open.
 
@@ -4266,9 +4266,9 @@ Step 6, the Executor Packet, happens off-app, in a room with the actual person. 
 
 <a id="9-2-teach"></a>
 
-## 9.2 · The access split
+## 9.2 · Split access so no one person holds everything
 
-`09-2_the-access-split.md` · TEACH · ~8 min · 1,317 words
+`09-2_split-access-so-no-one-person-holds-ever.md` · TEACH · ~8 min · 1,317 words
 
 In today's lesson, we're going to cover the access split, which divides the ability to reach your Bitcoin into two pieces, held by two different people.
 
@@ -4492,9 +4492,9 @@ Your homework for this lesson:
 
 <a id="9-4-teach"></a>
 
-## 9.4 · Insurance: the risks you can't self-insure yet
+## 9.4 · Insurance: term life, disability, umbrella, and when to stop
 
-`09-4_insurance-the-risks-you-can-t-self-insur.md` · TEACH · ~8 min · 1,187 words
+`09-4_insurance-term-life-disability-umbrella-.md` · TEACH · ~8 min · 1,187 words
 
 In today's lesson, we're going to cover insurance, specifically the risks your stack can't cover yet.
 
@@ -4647,9 +4647,9 @@ Narration guide: open Protect, the Projected legacy section, and read the two co
 
 <a id="10-1-teach"></a>
 
-## 10.1 · The two rhythms and the monthly pass
+## 10.1 · The five-minute monthly pass
 
-`10-1_the-two-rhythms-and-the-monthly-pass.md` · TEACH · ~11 min · 1,646 words
+`10-1_the-five-minute-monthly-pass.md` · TEACH · ~11 min · 1,646 words
 
 In today's lesson, we're going to cover the difference between a review and a rebuild, and the two rhythms that keep your plan current without taking over your life.
 
@@ -4761,9 +4761,9 @@ Your homework for this lesson:
 
 <a id="10-2-teach"></a>
 
-## 10.2 · The annual review: all six areas
+## 10.2 · The annual review: six areas to check
 
-`10-2_the-annual-review-all-six-areas.md` · TEACH · ~9 min · 1,408 words
+`10-2_the-annual-review-six-areas-to-check.md` · TEACH · ~9 min · 1,408 words
 
 In today's lesson, we're going to cover the annual review: one thorough pass across six areas, once a year.
 
@@ -5028,9 +5028,9 @@ Your homework for this lesson is to:
 
 <a id="11-1-teach"></a>
 
-## 11.1 · Scenarios: testing what-ifs against your plan
+## 11.1 · Test a decision with a scenario
 
-`11-1_scenarios-testing-what-ifs.md` · TEACH · ~8 min · 1,299 words
+`11-1_test-a-decision-with-a-scenario.md` · TEACH · ~8 min · 1,299 words
 
 In today's lesson, we're going to cover scenarios, which is how you test what-ifs against your plan without messing up the plan itself.
 

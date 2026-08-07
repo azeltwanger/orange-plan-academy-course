@@ -59,54 +59,54 @@ Runtime = words ÷ 155 wpm (spoken), low end. Screen lessons run longer than the
 
 | ☐ | # | Lesson | Type | Words | Est. runtime | Notes |
 |---|---|---|---|---|---|---|
-| ☐ | 1.1 | Start here: what this course is and how to use it | 🎙 Talk | 1,012 | 7–10 min |  |
+| ☐ | 1.1 | How to use this course | 🎙 Talk | 1,012 | 7–10 min |  |
 
 ### Module 1 — Foundation
 
 | ☐ | # | Lesson | Type | Words | Est. runtime | Notes |
 |---|---|---|---|---|---|---|
-| ☐ | 2.1 | Gather your numbers | 🎙 Talk | 484 | 3–5 min |  |
-| ☐ | 2.2 | What your plan rests on: assumptions | 🎙 Talk | 638 | 4–7 min |  |
-| ☐ | 2.3 | The confidence ring: your plan's stress test | 🎙 Talk | 937 | 6–10 min |  |
+| ☐ | 2.1 | What to gather before you build the plan | 🎙 Talk | 484 | 3–5 min |  |
+| ☐ | 2.2 | Set your growth and inflation assumptions | 🎙 Talk | 638 | 4–7 min |  |
+| ☐ | 2.3 | Read your retirement date and confidence number | 🎙 Talk | 937 | 6–10 min |  |
 | ☐ | 2.4 | Walkthrough: set up your plan and build your baseline in Orange Plan | 🖥 Screen | 3,432 | 22–35 min | Longest in course. Two sessions: Part A (onboarding) + Part B (baseline lap). Fresh demo account required. |
 
 ### Module 2 — Cash Flow + Reserve
 
 | ☐ | # | Lesson | Type | Words | Est. runtime | Notes |
 |---|---|---|---|---|---|---|
-| ☐ | 3.1 | Find your surplus: Keep, Cut, Reduce | 🎙 Talk | 824 | 5–9 min |  |
-| ☐ | 3.2 | Size the reserve to your life | 🎙 Talk | 711 | 5–7 min |  |
-| ☐ | 3.3 | Give every future cost a lane | 🎙 Talk | 648 | 4–7 min | ⚠ Hold until item 18 decision (rebuild spec drafted). |
+| ☐ | 3.1 | Find your surplus and your two spending numbers | 🎙 Talk | 824 | 5–9 min |  |
+| ☐ | 3.2 | Size your cash reserve in months of spending | 🎙 Talk | 711 | 5–7 min |  |
+| ☐ | 3.3 | Fund known future costs: college, cars, a house, repairs | 🎙 Talk | 648 | 4–7 min | ⚠ Hold until item 18 decision (rebuild spec drafted). |
 | ☐ | 3.4 | Walkthrough: build cash flow and reserve in Orange Plan | 🖥 Screen | 1,752 | 11–18 min |  |
 
 ### Module 3 — Allocation & Next-Dollar
 
 | ☐ | # | Lesson | Type | Words | Est. runtime | Notes |
 |---|---|---|---|---|---|---|
-| ☐ | 4.1 | The four Bitcoin allocation tiers | 🎙 Talk | 720 | 5–7 min |  |
-| ☐ | 4.2 | The two emotion gates: stress-test + price context | 🎙 Talk | 550 | 4–6 min |  |
-| ☐ | 4.3 | Give every dollar a job: Reserve / Bridge / Forever | 🎙 Talk | 612 | 4–6 min | Sidebar in app may still read Reserve/Bridge/Forever — verify "Legacy" rename landed before capture. |
-| ☐ | 4.4 | The contribution waterfall | 🎙 Talk | 615 | 4–6 min |  |
-| ☐ | 4.5 | Asset location: the right account for each holding | 🎙 Talk | 687 | 4–7 min |  |
+| ☐ | 4.1 | Pick your Bitcoin allocation tier | 🎙 Talk | 720 | 5–7 min |  |
+| ☐ | 4.2 | Stress-test the allocation you can actually hold | 🎙 Talk | 550 | 4–6 min |  |
+| ☐ | 4.3 | Split your money into Reserve, Bridge, and Legacy | 🎙 Talk | 612 | 4–6 min | Sidebar in app may still read Reserve/Bridge/Forever — verify "Legacy" rename landed before capture. |
+| ☐ | 4.4 | Order your contributions: which account gets funded first | 🎙 Talk | 615 | 4–6 min |  |
+| ☐ | 4.5 | Asset location: which account each holding belongs in | 🎙 Talk | 687 | 4–7 min |  |
 | ☐ | 4.6 | Walkthrough: route it in Orange Plan | 🖥 Screen | 1,881 | 12–19 min |  |
 
 ### Module 4 — Debt Strategy
 
 | ☐ | # | Lesson | Type | Words | Est. runtime | Notes |
 |---|---|---|---|---|---|---|
-| ☐ | 5.1 | Defense: tolerance first, then the two ratios | 🎙+🖥 Hybrid | 1,121 | 7–12 min | Cut at "Now put it in the app". Demo account needs both debts entered for Step 2–3 reads. |
-| ☐ | 5.2 | Drift and the LTV cushion | 🎙+🖥 Hybrid | 864 | 6–9 min |  |
-| ☐ | 5.3 | Offense: the four debt plays | 🎙+🖥 Hybrid | 931 | 6–10 min |  |
-| ☐ | 5.4 | Every debt gets a job | 🎙+🖥 Hybrid | 1,133 | 7–12 min |  |
+| ☐ | 5.1 | Set your debt ceiling: debt-to-income and debt-to-assets | 🎙+🖥 Hybrid | 1,121 | 7–12 min | Cut at "Now put it in the app". Demo account needs both debts entered for Step 2–3 reads. |
+| ☐ | 5.2 | Size the LTV cushion on a Bitcoin-backed loan | 🎙+🖥 Hybrid | 864 | 6–9 min |  |
+| ☐ | 5.3 | The four ways debt can build wealth | 🎙+🖥 Hybrid | 931 | 6–10 min |  |
+| ☐ | 5.4 | Give every debt a payoff decision | 🎙+🖥 Hybrid | 1,133 | 7–12 min |  |
 | ☐ | 5.5 | Check your work | 🖥 Screen | 418 | 3–4 min | Nav title in Honen still reads "Walkthrough:" — cosmetic, rename in UI. |
 
 ### Module 5 — Tax Strategy
 
 | ☐ | # | Lesson | Type | Words | Est. runtime | Notes |
 |---|---|---|---|---|---|---|
-| ☐ | 6.1 | Cost basis: the unlock for everything else | 🎙 Talk | 718 | 5–7 min |  |
-| ☐ | 6.2 | The three buckets, your bracket roadmap, and the state lever | 🎙 Talk | 1,425 | 9–15 min |  |
-| ☐ | 6.3 | The RMD risk + Roth conversions | 🎙 Talk | 957 | 6–10 min |  |
+| ☐ | 6.1 | Cost basis: what you paid, and how to reconstruct it | 🎙 Talk | 718 | 5–7 min |  |
+| ☐ | 6.2 | Taxable, tax-deferred, and Roth: bracket windows and state taxes | 🎙 Talk | 1,425 | 9–15 min |  |
+| ☐ | 6.3 | RMD risk and Roth conversions | 🎙 Talk | 957 | 6–10 min |  |
 | ☐ | 6.4 | Harvesting losses and gains | 🎙 Talk | 1,115 | 7–12 min |  |
 | ☐ | 6.5 | Walkthrough: model it in Orange Plan | 🖥 Screen | 1,622 | 10–17 min | Run transaction import FIRST or harvest rows render empty (its own pre-flight says so). Includes new "Fixing a lot that came in wrong" section. |
 
@@ -116,10 +116,10 @@ Runtime = words ÷ 155 wpm (spoken), low end. Screen lessons run longer than the
 |---|---|---|---|---|---|---|
 | ☐ | 7.1 | Spending, floor, and the gap | 🎙 Talk | 586 | 4–6 min |  |
 | ☐ | 7.2 | The bridge years | 🎙 Talk | 550 | 4–6 min |  |
-| ☐ | 7.3 | The healthcare bridge | 🎙 Talk | 767 | 5–8 min |  |
-| ☐ | 7.4 | The income waterfall + draw and refill | 🎙 Talk | 891 | 6–9 min |  |
-| ☐ | 7.5 | Sell, borrow, or hold | 🎙 Talk | 733 | 5–8 min |  |
-| ☐ | 7.6 | The guardrails: turning the confidence number into a paycheck | 🎙 Talk | 837 | 5–9 min |  |
+| ☐ | 7.3 | Health insurance between retiring and Medicare | 🎙 Talk | 767 | 5–8 min |  |
+| ☐ | 7.4 | Set your withdrawal order and refill rule | 🎙 Talk | 891 | 6–9 min |  |
+| ☐ | 7.5 | Sell, borrow, or hold: funding a year of spending | 🎙 Talk | 733 | 5–8 min |  |
+| ☐ | 7.6 | Guardrails: how much you can spend each year | 🎙 Talk | 837 | 5–9 min |  |
 | ☐ | 7.7 | Walkthrough: build the paycheck in Orange Plan | 🖥 Screen | 1,901 | 12–20 min | Gated on retirement phase: demo account age ≥ retirement age. Run Monte Carlo before capture. ✅ Retirement Income push landed (073fdf0) — Step 5 rewritten for the new Withdrawal order section 2026-07-31. |
 
 ### Module 7 — Custody
@@ -127,8 +127,8 @@ Runtime = words ÷ 155 wpm (spoken), low end. Screen lessons run longer than the
 | ☐ | # | Lesson | Type | Words | Est. runtime | Notes |
 |---|---|---|---|---|---|---|
 | ☐ | 8.1 | Custody: the five questions and choosing your level | 🎙 Talk | 1,796 | 12–19 min |  |
-| ☐ | 8.2 | The hardware wallet and the recovery test | 🎙 Talk | 658 | 4–7 min |  |
-| ☐ | 8.3 | Close the doors: single points of failure, hardening, and scams | 🎙 Talk | 757 | 5–8 min |  |
+| ☐ | 8.2 | Set up a hardware wallet and test recovery | 🎙 Talk | 658 | 4–7 min |  |
+| ☐ | 8.3 | Single points of failure, account hardening, and scams | 🎙 Talk | 757 | 5–8 min |  |
 | ☐ | 8.4 | External demo: hardware wallet setup + exchange hardening | 🖥 Screen | 837 | 5–9 min | Physical hardware wallet on camera. No app. |
 | ☐ | 8.5 | Walkthrough: document your custody map in Orange Plan | 🖥 Screen | 1,816 | 12–19 min |  |
 
@@ -137,10 +137,10 @@ Runtime = words ÷ 155 wpm (spoken), low end. Screen lessons run longer than the
 | ☐ | # | Lesson | Type | Words | Est. runtime | Notes |
 |---|---|---|---|---|---|---|
 | ☐ | 9.1 | The executor, the four legal documents, and choosing an estate attorney | 🎙+🖥 Hybrid | 2,139 | 14–22 min | Longest talk section (2,139 w). Strongest split candidate if it drags on the prompter. |
-| ☐ | 9.2 | The access split | 🎙 Talk | 888 | 6–9 min |  |
+| ☐ | 9.2 | Split access so no one person holds everything | 🎙 Talk | 888 | 6–9 min |  |
 | ☐ | 9.3 | The heir letter | 🎙+🖥 Hybrid | 1,397 | 9–14 min | Cloud mode + 1 email contact required BEFORE capture (pre-flight). |
 | ☐ | 9.4 | The 90-day dead man's switch | 🎙+🖥 Hybrid | 728 | 5–8 min |  |
-| ☐ | 9.5 | Insurance: the risks you can't self-insure yet | 🎙 Talk | 1,106 | 7–11 min |  |
+| ☐ | 9.5 | Insurance: term life, disability, umbrella, and when to stop | 🎙 Talk | 1,106 | 7–11 min |  |
 | ☐ | 9.6 | Advanced: do you need a trust, and which one? | 🎙+🖥 Hybrid | 1,887 | 12–19 min | Advanced/skimmable lesson — consider a visual "optional" badge on the thumbnail. |
 | ☐ | 9.7 | Check your work | 🖥 Screen | 685 | 4–7 min | Nav title still reads "Walkthrough:" in Honen UI. |
 
@@ -150,7 +150,7 @@ Runtime = words ÷ 155 wpm (spoken), low end. Screen lessons run longer than the
 |---|---|---|---|---|---|---|
 | ☐ | 10.1 | A review is not a rebuild: the two rhythms | 🎙 Talk | 546 | 4–6 min |  |
 | ☐ | 10.2 | The monthly pass | 🎙 Talk | 725 | 5–7 min |  |
-| ☐ | 10.3 | The annual review: all six areas | 🎙 Talk | 918 | 6–9 min |  |
+| ☐ | 10.3 | The annual review: six areas to check | 🎙 Talk | 918 | 6–9 min |  |
 | ☐ | 10.4 | Walkthrough: run the annual review in Orange Plan | 🖥 Screen | 1,800 | 12–19 min | Needs: a flagged review item on a linked account, transactions ready to enter, visible timer. |
 
 ### Module 10 — Your Financial Plan Review

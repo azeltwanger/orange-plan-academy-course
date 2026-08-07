@@ -2,7 +2,7 @@
 
 *Gather the six pieces of your baseline, choose your assumptions (especially the Bitcoin growth number), understand the confidence ring that stress-tests your plan, run three scenarios, and know when a plan actually needs updating.*
 
-## 2.1 Gather your numbers
+## 2.1 What to gather before you build the plan
 *`TEACH` · 478 words · ~3 min*
 
 **By the end of this lesson, you can:**
@@ -61,7 +61,7 @@ Save all of it into a folder. You'll come back to these files every time you upd
 Set up one folder on your computer. Download every export you can get today, and label each file with the account name and date range. Basis is the priority; the rest can be gathered in parallel.
 
 
-## 2.2 What your plan rests on: assumptions
+## 2.2 Set your growth and inflation assumptions
 *`TEACH` · 635 words · ~5 min*
 
 > ⚠ **FIX BEFORE FILMING — the parenthetical below is wrong.** "Bitcoin at 40%
@@ -169,7 +169,7 @@ How to think about it:
 
 You'll get to change these later and see what the plan looks like under different assumptions. For now, we're setting the ones your baseline plan actually runs on.
 
-## 2.3 The confidence ring: your plan's stress test
+## 2.3 Read your retirement date and confidence number
 *`TEACH` · 925 words · ~7 min*
 
 > 🐞 **LIVE BUG — this lesson's outcomes checklist renders empty (0 / 0).** The

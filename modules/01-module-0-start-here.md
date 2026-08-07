@@ -2,7 +2,7 @@
 
 *What the course is, how it's put together, and what to gather before Module 1.*
 
-## 1.1 Start here: what this course is and how to use it
+## 1.1 How to use this course
 
 *`TEACH` · 957 words · ~7 min*
 
@@ -95,7 +95,7 @@ Austin
 
 ---
 
-## 1.2 How the AI works
+## 1.2 How the AI works: what it reads, what it never sees
 
 *`TEACH` · 1,180 words · ~8 min*
 

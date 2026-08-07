@@ -38,71 +38,71 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ## ☐ MODULE 0 — Start Here
 
-☐ 1.1 Start here — 🎙 film `01-1`
-☐ 1.2 How the AI works — 🎙 film `01-2` (fact sheet: AI-FACTS.md; the ONE place the AI is taught — later walkthroughs only name the button)
+☐ 1.1 How to use this course — 🎙 film `01-1`
+☐ 1.2 How the AI works: what it reads, what it never sees — 🎙 film `01-2` (fact sheet: AI-FACTS.md; the ONE place the AI is taught — later walkthroughs only name the button)
 ☐ Module 0: edit → upload → paste lesson text (01-1 … 01-2)
 
 ## ☐ MODULE 1 — Foundation
 
-☐ 2.1 Gather your numbers — 🎙 film `02-1`
-☐ 2.2 Assumptions — 🎙 film `02-2`
-☐ 2.3 The confidence ring — 🎙 film `02-3`
+☐ 2.1 What to gather before you build the plan — 🎙 film `02-1`
+☐ 2.2 Set your growth and inflation assumptions — 🎙 film `02-2`
+☐ 2.3 Read your retirement date and confidence number — 🎙 film `02-3`
 ☐ 2.4 Walkthrough: set up your plan — 🖥 capture `02.4` (onboarding, 13 steps)
 ☐ 2.5 Walkthrough: build your baseline — 🖥 capture `02.5` (baseline lap, 9 steps; run straight after 2.4 on the same account, Monte Carlo not yet run)
 ☐ Module 1: edit → upload → paste lesson text (02-1 … 02-5)
 
 ## ☐ MODULE 2 — Cash Flow + Reserve
 
-☐ 3.1 Find your surplus — 🎙 film `03-1`
-☐ 3.2 Size the reserve — 🎙 film `03-2` (your dictation — 18 months as the sequence-risk planning default, not a BTC-recovery prediction)
-☐ 3.3 Every future cost a lane — 🎙 film `03-3`
+☐ 3.1 Find your surplus and your two spending numbers — 🎙 film `03-1`
+☐ 3.2 Size your cash reserve in months of spending — 🎙 film `03-2` (your dictation — 18 months as the sequence-risk planning default, not a BTC-recovery prediction)
+☐ 3.3 Fund known future costs: college, cars, a house, repairs — 🎙 film `03-3`
 ☐ 3.4 Walkthrough: cash flow + reserve — 🖥 capture `03.4` (10 steps)
 ☐ Module 2: edit → upload → paste lesson text (03-1 … 03-4)
 
 ## ☐ MODULE 3 — Allocation
 
-☐ 4.1 The four allocation tiers — 🎙 film `04-1`
-☐ 4.2 The two emotion gates — 🎙 film `04-2`
-☐ 4.3 Reserve / Bridge / Legacy — 🎙 film `04-3`
-☐ 4.4 The contribution waterfall — 🎙 film `04-4`
-☐ 4.5 Asset location — 🎙 film `04-5`
+☐ 4.1 Pick your Bitcoin allocation tier — 🎙 film `04-1`
+☐ 4.2 Stress-test the allocation you can actually hold — 🎙 film `04-2`
+☐ 4.3 Split your money into Reserve, Bridge, and Legacy — 🎙 film `04-3`
+☐ 4.4 Order your contributions: which account gets funded first — 🎙 film `04-4`
+☐ 4.5 Asset location: which account each holding belongs in — 🎙 film `04-5`
 ☐ 4.6 Walkthrough: route it — 🖥 capture `04.6` (10 steps; prereqs: salary source entered + surplus in step 3)
 ☐ Module 3: edit → upload → paste lesson text (04-1 … 04-6)
 
 ## ☐ MODULE 4 — Debt (hybrid lessons: A-roll + screen half, edited together)
 
-☐ 5.1 Defense: the two ratios — 🎙 film `05-1-A` → 🖥 capture `05.1-B`
-☐ 5.2 Drift + LTV cushion — 🎙 film `05-2-A` → 🖥 capture `05.2-B`
-☐ 5.3 Offense: the four plays — 🎙 film `05-3-A` → 🖥 capture `05.3-B`
-☐ 5.4 Bitcoin-backed loans: how they work — 🎙 film `05-4` (~11 min; LTV animation is the key graphic)
-☐ 5.5 Every debt gets a job — 🎙 film `05-5-A` → 🖥 capture `05.5-B` (the module's read-back closes this screen half; there is no separate check-your-work video)
+☐ 5.1 Set your debt ceiling: debt-to-income and debt-to-assets — 🎙 film `05-1-A` → 🖥 capture `05.1-B`
+☐ 5.2 Size the LTV cushion on a Bitcoin-backed loan — 🎙 film `05-2-A` → 🖥 capture `05.2-B`
+☐ 5.3 The four ways debt can build wealth — 🎙 film `05-3-A` → 🖥 capture `05.3-B`
+☐ 5.4 How Bitcoin-backed loans work: LTV, margin calls, liquidation — 🎙 film `05-4` (~11 min; LTV animation is the key graphic)
+☐ 5.5 Give every debt a payoff decision — 🎙 film `05-5-A` → 🖥 capture `05.5-B` (the module's read-back closes this screen half; there is no separate check-your-work video)
 ☐ Module 4: edit A+B pairs → upload → paste lesson text (05-1 … 05-5)
 
 ## ☐ MODULE 5 — Tax
 
-☐ 6.1 Cost basis — 🎙 film `06-1`
-☐ 6.2 Buckets, brackets, state — 🎙 film `06-2`
-☐ 6.3 RMD risk + Roth conversions — 🎙 film `06-3`
+☐ 6.1 Cost basis: what you paid, and how to reconstruct it — 🎙 film `06-1`
+☐ 6.2 Taxable, tax-deferred, and Roth: bracket windows and state taxes — 🎙 film `06-2`
+☐ 6.3 RMD risk and Roth conversions — 🎙 film `06-3`
 ☐ 6.4 Harvesting — 🎙 film `06-4`
 ☐ 6.5 Walkthrough: model it — 🖥 capture `06.5` (9 steps; import BEFORE harvest step; step 5 = where the conversion tax money comes from, the #1 confusion)
 ☐ Module 5: edit → upload → paste lesson text (06-1 … 06-5)
 
 ## ☐ MODULE 6 — Retirement Income
 
-☐ 7.1 Spending, floor, gap + the bridge years — 🎙 film `07-1` (~11 min; merged lesson)
-☐ 7.2 The healthcare bridge — 🎙 film `07-2`
-☐ 7.3 Income waterfall + draw/refill — 🎙 film `07-3`
-☐ 7.4 Sell, borrow, or hold — 🎙 film `07-4`
-☐ 7.5 The guardrails — 🎙 film `07-5`
+☐ 7.1 Your spending, income floor, gap, and bridge years — 🎙 film `07-1` (~11 min; merged lesson)
+☐ 7.2 Health insurance between retiring and Medicare — 🎙 film `07-2`
+☐ 7.3 Set your withdrawal order and refill rule — 🎙 film `07-3`
+☐ 7.4 Sell, borrow, or hold: funding a year of spending — 🎙 film `07-4`
+☐ 7.5 Guardrails: how much you can spend each year — 🎙 film `07-5`
 ☐ 7.6 Walkthrough: build the paycheck — 🖥 capture `07.6` (11 steps; plan must be in retirement phase; run Monte Carlo first; SS entered MONTHLY)
 ☐ Module 6: edit → upload → paste lesson text (07-1 … 07-6)
 
 ## ☐ MODULE 7 — Custody
 
-☐ 8.1 Custody: the 5 questions — 🎙 film `08-1` (~7 min)
-☐ 8.2 Choosing your custody level — 🎙 film `08-2` (~8 min; trade-offs + multi-institution)
-☐ 8.3 Hardware wallet + recovery test — 🎙 film `08-3`
-☐ 8.4 Close the doors — 🎙 film `08-4`
+☐ 8.1 The five questions that set your custody level — 🎙 film `08-1` (~7 min)
+☐ 8.2 Choose your custody level and spread the risk — 🎙 film `08-2` (~8 min; trade-offs + multi-institution)
+☐ 8.3 Set up a hardware wallet and test recovery — 🎙 film `08-3`
+☐ 8.4 Single points of failure, account hardening, and scams — 🎙 film `08-4`
 ☐ 8.5 Advanced custody: passphrase, multisig, collaborative — 🎙 film `08-5` (~11 min; 7-word passphrase standard + entropy graphic)
 ☐ 8.6 External demo: wallet setup + hardening — 🖥 capture `08.6` (NOT Orange Plan; sealed device + burner exchange; ⚠ no seed/PIN ever in frame; review footage)
 ☐ 8.7 Walkthrough: custody map — 🖥 capture `08.7` (6 steps; passphrase prompt typed off-camera)
@@ -111,22 +111,22 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ## ☐ MODULE 8 — Estate
 
 ☐ 9.1 Executor, documents, attorney — 🎙 film `09-1` → 🖥 capture `09.1-B` (beneficiaries + executor packet)
-☐ 9.2 The access split — 🎙 film `09-2`
+☐ 9.2 Split access so no one person holds everything — 🎙 film `09-2`
 ☐ 9.3 Heir letter + dead man's switch — 🎙 film `09-3-A` → 🖥 capture `09.3-B` (~9 min; merged lesson; switch requires Cloud mode)
-☐ 9.4 Insurance — 🎙 film `09-4`
+☐ 9.4 Insurance: term life, disability, umbrella, and when to stop — 🎙 film `09-4`
 ☐ 9.5 Advanced: trusts — 🎙 film `09-5` → 🖥 capture `09.5-B` (⚠ never say the exemption figure — point at screen; step B5 records the whole module's decisions)
 ☐ Module 8: edit A+B pairs → upload → paste lesson text (09-1 … 09-5)
 
 ## ☐ MODULE 9 — Maintenance
 
-☐ 10.1 Two rhythms + the monthly pass — 🎙 film `10-1` (~10 min; merged lesson)
-☐ 10.2 The annual review — 🎙 film `10-2`
+☐ 10.1 The five-minute monthly pass — 🎙 film `10-1` (~10 min; merged lesson)
+☐ 10.2 The annual review: six areas to check — 🎙 film `10-2`
 ☐ 10.3 Walkthrough: annual review — 🖥 capture `10.3` (timed monthly pass + six-area lap; flagged account needed for the AI beat)
 ☐ Module 9: edit → upload → paste lesson text (10-1 … 10-3)
 
 ## ☐ MODULE 10 — Plan Review (capstone)
 
-☐ 11.1 Scenarios: testing what-ifs — 🎙 film `11-1` (~8 min)
+☐ 11.1 Test a decision with a scenario — 🎙 film `11-1` (~8 min)
 ☐ 11.2 Walkthrough: build + compare a scenario — 🖥 capture `11.2` (7 steps; baseline must be accurate; Monte Carlo must actually run)
 ☐ 11.3 How to read a financial plan — 🎙 film `11-3`
 ☐ 11.4 Walkthrough: walk the report — 🖥 capture `11.4` (saved scenario from 11.2 + fresh confidence check required, or sections are missing)

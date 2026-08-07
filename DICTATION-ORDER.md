@@ -61,8 +61,8 @@ changed once, in both places, before you record.
 
 | # | Lesson | min | note |
 |---|---|---|---|
-| 1.1 | Start here | 10.7 | **Start here. Two things to do.** |
-| 1.2 | How the AI works | 8.9 | New, never recorded. Fact sheet: AI-FACTS.md |
+| 1.1 | How to use this course | 10.7 | **Start here. Two things to do.** |
+| 1.2 | How the AI works: what it reads, what it never sees | 8.9 | New, never recorded. Fact sheet: AI-FACTS.md |
 
 **1.1 needs two things from you.**
 1. Review the two lines I changed (flagged at the top of the script): the added
@@ -77,27 +77,27 @@ assumes it's been said. Don't skip past it.
 
 | # | Lesson | min | note |
 |---|---|---|---|
-| 2.1 | Gather your numbers | 6.2 | **PARTIAL.** Intro + items 1-3 are yours. Items 4-7 and the homework are placeholder. |
-| 2.2 | Assumptions | 5.7 | |
-| 2.3 | The confidence ring | 8.7 | Module-final: carries the hand-off |
+| 2.1 | What to gather before you build the plan | 6.2 | **PARTIAL.** Intro + items 1-3 are yours. Items 4-7 and the homework are placeholder. |
+| 2.2 | Set your growth and inflation assumptions | 5.7 | |
+| 2.3 | Read your retirement date and confidence number | 8.7 | Module-final: carries the hand-off |
 
 ### Module 2 — Cash Flow + Reserve · 28.0 min
 
 | # | Lesson | min | note |
 |---|---|---|---|
-| 3.1 | Find your surplus | 10.1 | Keep/Cut/Reduce is on paper, not in the app. The script says so. |
-| 3.2 | Size the reserve | 11.0 | **Already dictated.** Skip unless you want a retake. |
-| 3.3 | Every future cost a lane | 6.9 | Module-final: hand-off |
+| 3.1 | Find your surplus and your two spending numbers | 10.1 | Keep/Cut/Reduce is on paper, not in the app. The script says so. |
+| 3.2 | Size your cash reserve in months of spending | 11.0 | **Already dictated.** Skip unless you want a retake. |
+| 3.3 | Fund known future costs: college, cars, a house, repairs | 6.9 | Module-final: hand-off |
 
 ### Module 3 — Allocation · 35.4 min
 
 | # | Lesson | min |
 |---|---|---|
-| 4.1 | The four allocation tiers | 6.8 |
-| 4.2 | The two emotion gates | 6.4 |
-| 4.3 | Reserve / Bridge / Legacy | 6.7 |
-| 4.4 | The contribution waterfall | 8.6 |
-| 4.5 | Asset location | 6.9 · module-final: hand-off |
+| 4.1 | Pick your Bitcoin allocation tier | 6.8 |
+| 4.2 | Stress-test the allocation you can actually hold | 6.4 |
+| 4.3 | Split your money into Reserve, Bridge, and Legacy | 6.7 |
+| 4.4 | Order your contributions: which account gets funded first | 8.6 |
+| 4.5 | Asset location: which account each holding belongs in | 6.9 · module-final: hand-off |
 
 ### Module 4 — Debt · 43.0 min
 
@@ -106,19 +106,19 @@ together into one video. No separate walkthrough, no hand-off line.
 
 | # | Lesson | min | note |
 |---|---|---|---|
-| 5.1 | Defense: the two ratios | 7.1 | A-roll |
-| 5.2 | Drift + LTV cushion | 7.4 | A-roll |
-| 5.3 | Offense: the four plays | 8.9 | A-roll. Your 5%-down story lives here. |
+| 5.1 | Set your debt ceiling: debt-to-income and debt-to-assets | 7.1 | A-roll |
+| 5.2 | Size the LTV cushion on a Bitcoin-backed loan | 7.4 | A-roll |
+| 5.3 | The four ways debt can build wealth | 8.9 | A-roll. Your 5%-down story lives here. |
 | 5.4 | Bitcoin-backed loans | 14.0 | **Longest lesson in the course.** Consider two sittings. |
-| 5.5 | Every debt gets a job | 5.6 | A-roll |
+| 5.5 | Give every debt a payoff decision | 5.6 | A-roll |
 
 ### Module 5 — Tax · 33.3 min
 
 | # | Lesson | min | note |
 |---|---|---|---|
-| 6.1 | Cost basis | 5.5 | **Say the US-only line once, at the top.** |
-| 6.2 | Buckets, brackets, state | 9.0 | ⚠ One spoken law-set figure: ~$128,000 of 0% room. Verify it the day you record, or drop it and point at the screen. |
-| 6.3 | RMD risk + Roth conversions | 10.2 | Clean. Says "your RMD age," never a number. |
+| 6.1 | Cost basis: what you paid, and how to reconstruct it | 5.5 | **Say the US-only line once, at the top.** |
+| 6.2 | Taxable, tax-deferred, and Roth: bracket windows and state taxes | 9.0 | ⚠ One spoken law-set figure: ~$128,000 of 0% room. Verify it the day you record, or drop it and point at the screen. |
+| 6.3 | RMD risk and Roth conversions | 10.2 | Clean. Says "your RMD age," never a number. |
 | 6.4 | Harvesting | 8.6 | Module-final: hand-off |
 
 ### Module 6 — Retirement Income · 44.2 min
@@ -126,19 +126,19 @@ together into one video. No separate walkthrough, no hand-off line.
 | # | Lesson | min |
 |---|---|---|
 | 7.1 | Spending, floor, gap + bridge years | 12.6 |
-| 7.2 | The healthcare bridge | 6.4 |
-| 7.3 | Income waterfall + draw/refill | 9.1 |
-| 7.4 | Sell, borrow, or hold | 8.0 |
-| 7.5 | The guardrails | 8.1 · module-final: hand-off |
+| 7.2 | Health insurance between retiring and Medicare | 6.4 |
+| 7.3 | Set your withdrawal order and refill rule | 9.1 |
+| 7.4 | Sell, borrow, or hold: funding a year of spending | 8.0 |
+| 7.5 | Guardrails: how much you can spend each year | 8.1 · module-final: hand-off |
 
 ### Module 7 — Custody · 50.8 min
 
 | # | Lesson | min | note |
 |---|---|---|---|
-| 8.1 | Custody: the 5 questions | 6.6 | |
-| 8.2 | Choosing your custody level | 13.5 | Carries the trust-diversification section. Vendor-neutral. |
-| 8.3 | Hardware wallet + recovery test | 8.6 | |
-| 8.4 | Close the doors | 9.3 | |
+| 8.1 | The five questions that set your custody level | 6.6 | |
+| 8.2 | Choose your custody level and spread the risk | 13.5 | Carries the trust-diversification section. Vendor-neutral. |
+| 8.3 | Set up a hardware wallet and test recovery | 8.6 | |
+| 8.4 | Single points of failure, account hardening, and scams | 9.3 | |
 | 8.5 | Advanced custody | 12.8 | Module-final: hand-off |
 
 ### Module 8 — Estate · 48.0 min
@@ -146,23 +146,23 @@ together into one video. No separate walkthrough, no hand-off line.
 | # | Lesson | min | note |
 |---|---|---|---|
 | 9.1 | Executor, documents, attorney | 11.0 | **Say the US-only line once, at the top.** |
-| 9.2 | The access split | 8.7 | |
+| 9.2 | Split access so no one person holds everything | 8.7 | |
 | 9.3 | Heir letter + dead man's switch | 10.6 | A-roll |
-| 9.4 | Insurance | 7.8 | |
+| 9.4 | Insurance: term life, disability, umbrella, and when to stop | 7.8 | |
 | 9.5 | Advanced: trusts | 9.9 | ⚠ Never say the exemption figure. Point at the screen. |
 
 ### Module 9 — Maintenance · 20.1 min
 
 | # | Lesson | min |
 |---|---|---|
-| 10.1 | Two rhythms + the monthly pass | 10.9 |
-| 10.2 | The annual review | 9.2 · module-final: hand-off |
+| 10.1 | The five-minute monthly pass | 10.9 |
+| 10.2 | The annual review: six areas to check | 9.2 · module-final: hand-off |
 
 ### Module 10 — Plan Review · 16.9 min
 
 | # | Lesson | min | note |
 |---|---|---|---|
-| 11.1 | Scenarios: testing what-ifs | 8.5 | Hand-off (this module interleaves) |
+| 11.1 | Test a decision with a scenario | 8.5 | Hand-off (this module interleaves) |
 | 11.3 | How to read a financial plan | 8.4 | Hand-off |
 
 ---

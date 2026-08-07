@@ -2,7 +2,7 @@
 
 *Read the plan report end-to-end, walk it in the app, and set up your yearly re-read.*
 
-## 11.1 Scenarios: testing what-ifs against your plan
+## 11.1 Test a decision with a scenario
 *`TEACH` · 1,150 words · ~7 min*
 
 **By the end of this lesson, you can:**

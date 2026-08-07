@@ -4,7 +4,7 @@
 
 > **US-specific module.** Everything here runs on the US Internal Revenue Code: brackets, Roth accounts, RMDs, wash-sale rules, state taxes. Said ONCE, at the top of 6.1, and never repeated per lesson.
 
-## 6.1 Cost basis: the unlock for everything else
+## 6.1 Cost basis: what you paid, and how to reconstruct it
 *`TEACH` · 715 words · ~5 min*
 
 > 🐞 Currency mangling in the lot-sale figures (item 17). Reconstructed from
@@ -84,7 +84,7 @@ Pull your full transaction history from every exchange and wallet, then import i
 
 
 
-## 6.2 The three buckets, your bracket roadmap, and the state lever
+## 6.2 Taxable, tax-deferred, and Roth: bracket windows and state taxes
 *`TEACH` · 1,436 words · ~10 min*
 
 > ⚠ **One spoken law-set figure in this lesson:** the ~$128,000 of 0% capital-gains
@@ -241,7 +241,7 @@ Three steps:
 Then look up your state's treatment of capital gains (regular income, special rate, or no tax) and estimate your realized-gain profile in the years you plan to sell. If the answer says "big lever," take it to a CPA who's done a real relocation before.
 
 
-## 6.3 The RMD risk + Roth conversions
+## 6.3 RMD risk and Roth conversions
 *`TEACH` · 954 words · ~7 min*
 
 > ✅ **Evergreen policy (Austin, 2026-08-04) replaces item 11.** Figures here

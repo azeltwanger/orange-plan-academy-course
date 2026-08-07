@@ -183,7 +183,7 @@ Set the review date on the footer: *"Review at each annual review (Module 9)."*
 
 Your executor is named and briefed, and the forms match the will.
 
-## 9.2 The access split
+## 9.2 Split access so no one person holds everything
 *`TEACH` · 834 words · ~4 min*
 
 **By the end of this lesson, you can:**
@@ -570,7 +570,7 @@ How to think about it:
 
 Documents, split, and switch are all in place.
 
-## 9.4 Insurance: the risks you can't self-insure yet
+## 9.4 Insurance: term life, disability, umbrella, and when to stop
 *`TEACH` · 1,090 words · ~5 min*
 
 **By the end of this lesson, you can:**

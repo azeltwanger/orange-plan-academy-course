@@ -1,8 +1,8 @@
 # Unit 4 · Module 3 — Allocation & Next-Dollar
 
-*Find your Bitcoin path with the four tiers, pass the two emotion gates, give every dollar a job by time horizon, route contributions with the waterfall, and use asset location to shrink the tax drag.*
+*Pick an allocation tier, stress-test what you can actually hold, split your money into Reserve / Bridge / Legacy, order your contributions, and put each holding in the right account type.*
 
-## 4.1 The four Bitcoin allocation tiers
+## 4.1 Pick your Bitcoin allocation tier
 *`TEACH` · 702 words · ~5 min*
 
 > ⚠ **Title mismatch.** Nav says *"The four Bitcoin allocation tiers"*; the page
@@ -108,7 +108,7 @@ Place yourself honestly across the three drivers:
 The percentage is what falls out of those three. Not what you pick first.
 
 
-## 4.2 The two emotion gates: stress-test + price context
+## 4.2 Stress-test the allocation you can actually hold
 *`TEACH` · 549 words · ~4 min*
 
 > ⚠ **Title mismatch (substantive).** Nav: *"The two emotion gates: stress-test
@@ -208,7 +208,7 @@ How to think about it:
 3. If the target is below what you hold now, decide how you close the gap: new dollars only, or a sale with a tax cost you've checked.
 
 
-## 4.3 Give every dollar a job: Reserve / Bridge / Forever
+## 4.3 Split your money into Reserve, Bridge, and Legacy
 *`TEACH` · 605 words · ~4 min*
 
 > ✅ **Renamed in course 2026-07-29:** Forever → **Legacy** to match the app
@@ -308,7 +308,7 @@ How to think about it:
 3. The bucket furthest behind is where new dollars go first.
 
 
-## 4.4 The contribution waterfall
+## 4.4 Order your contributions: which account gets funded first
 *`TEACH` · 575 words · ~4 min*
 
 > ✅ **MATH ERROR FIXED (item 22) — Option A applied 2026-07-30.** 3.1 no longer
@@ -432,7 +432,7 @@ You make this decision once and it routes every future dollar without you re-dec
 3. Automate whatever you can at the source, so the decision runs itself.
 
 
-## 4.5 Asset location: the right account for each holding
+## 4.5 Asset location: which account each holding belongs in
 *`TEACH` · 686 words · ~5 min*
 
 **By the end of this lesson, you can:**

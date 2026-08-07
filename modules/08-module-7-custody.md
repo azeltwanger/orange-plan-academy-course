@@ -2,7 +2,7 @@
 
 *Custody as operational protection: choose your level on the four-tier ladder, set up hardware with a proven recovery test, close single points of failure, and — when it fits — go advanced with passphrase, multisig, or collaborative custody.*
 
-## 8.1 Custody: the 5 questions
+## 8.1 The five questions that set your custody level
 *`TEACH` · 2,050 words · ~13 min*
 
 **By the end of this lesson, you can:**
@@ -59,7 +59,7 @@ By "secrets" I mean the things that actually move Bitcoin: seed phrase (the word
 
 What you write down: who holds what, what type of setup it is, and what someone should do. Never the words that unlock it. You can share the document with your executor and store it safely, because nothing in it is worth stealing.
 
-## 8.2 Choosing your custody level
+## 8.2 Choose your custody level and spread the risk
 *`TEACH` · ~1,250 words · ~8 min*
 
 **By the end of this lesson, you can:**
@@ -270,7 +270,7 @@ A collaborative provider holds the config for you. On top of the support, the an
 - For anything not self-custodied, count the institutions it sits in and ask whether that number matches what's at stake.
 
 
-## 8.3 The hardware wallet and the recovery test
+## 8.3 Set up a hardware wallet and test recovery
 *`TEACH` · 678 words · ~5 min*
 
 **By the end of this lesson, you can:**
@@ -334,7 +334,7 @@ If you already have a pocketful of small bills, **consolidation** is the fix. Co
 If you've never done the wipe-and-restore, watch the demo lesson and do it, with a small test amount, before serious money is on the line.
 
 
-## 8.4 Close the doors: single points of failure, hardening, and scams
+## 8.4 Single points of failure, account hardening, and scams
 *`TEACH` · 777 words · ~6 min*
 
 > ✅ **Fixed in course:** stale hand-off promised "advanced custody" next — that

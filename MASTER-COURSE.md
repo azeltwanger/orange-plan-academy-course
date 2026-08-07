@@ -20,7 +20,7 @@ item numbers.
 
 *What the course is, how it's put together, and what to gather before Module 1.*
 
-## 1.1 Start here: what this course is and how to use it
+## 1.1 How to use this course
 
 *`TEACH` · 957 words · ~7 min*
 
@@ -113,7 +113,7 @@ Austin
 
 ---
 
-## 1.2 How the AI works
+## 1.2 How the AI works: what it reads, what it never sees
 
 *`TEACH` · 1,180 words · ~8 min*
 
@@ -227,7 +227,7 @@ And the last thing, which I'm saying once here so I don't have to keep repeating
 
 *Gather the six pieces of your baseline, choose your assumptions (especially the Bitcoin growth number), understand the confidence ring that stress-tests your plan, run three scenarios, and know when a plan actually needs updating.*
 
-## 2.1 Gather your numbers
+## 2.1 What to gather before you build the plan
 *`TEACH` · 478 words · ~3 min*
 
 **By the end of this lesson, you can:**
@@ -286,7 +286,7 @@ Save all of it into a folder. You'll come back to these files every time you upd
 Set up one folder on your computer. Download every export you can get today, and label each file with the account name and date range. Basis is the priority; the rest can be gathered in parallel.
 
 
-## 2.2 What your plan rests on: assumptions
+## 2.2 Set your growth and inflation assumptions
 *`TEACH` · 635 words · ~5 min*
 
 > ⚠ **FIX BEFORE FILMING — the parenthetical below is wrong.** "Bitcoin at 40%
@@ -394,7 +394,7 @@ How to think about it:
 
 You'll get to change these later and see what the plan looks like under different assumptions. For now, we're setting the ones your baseline plan actually runs on.
 
-## 2.3 The confidence ring: your plan's stress test
+## 2.3 Read your retirement date and confidence number
 *`TEACH` · 925 words · ~7 min*
 
 > 🐞 **LIVE BUG — this lesson's outcomes checklist renders empty (0 / 0).** The
@@ -945,7 +945,7 @@ The next module covers the cash flow that makes this plan possible. Where your s
 
 *Find your real surplus, protect the flywheel, size a cash reserve you won't have to sell Bitcoin for, and give every known future cost a lane.*
 
-## 3.1 Find your surplus: Keep, Cut, Reduce
+## 3.1 Find your surplus and your two spending numbers
 *`TEACH` · 775 words · ~5 min*
 
 > 🐞 **Two live bugs in this lesson.**
@@ -1049,7 +1049,7 @@ Every raise gets a decision the same day. A $5,000 raise is ~$400/mo. Route it b
 - Enter your normal spending as Living spending, and your bare-bones number in the reserve settings. Both drive the projection from here.
 
 
-## 3.2 Size the reserve to your life
+## 3.2 Size your cash reserve in months of spending
 *`TEACH` · 704 words · ~5 min*
 
 > 🐞 Outcomes checklist renders **0 / 0** (apostrophe in "reserve's" — item 16).
@@ -1149,7 +1149,7 @@ Your answer is what your reserve size should reflect. All four options pay for t
 Pick your target months. Multiply by your floor. Enter both into the reserve settings in the app.
 
 
-## 3.3 Give every future cost a lane
+## 3.3 Fund known future costs: college, cars, a house, repairs
 *`TEACH` · 625 words · ~4 min*
 
 > 🔴 **FLAGGED FOR REBUILD — do not film.** Austin, 2026-07-29. The timeframe
@@ -1462,9 +1462,9 @@ The next module covers allocation. What to do with that surplus, the target mix 
 
 # Unit 4 · Module 3 — Allocation & Next-Dollar
 
-*Find your Bitcoin path with the four tiers, pass the two emotion gates, give every dollar a job by time horizon, route contributions with the waterfall, and use asset location to shrink the tax drag.*
+*Pick an allocation tier, stress-test what you can actually hold, split your money into Reserve / Bridge / Legacy, order your contributions, and put each holding in the right account type.*
 
-## 4.1 The four Bitcoin allocation tiers
+## 4.1 Pick your Bitcoin allocation tier
 *`TEACH` · 702 words · ~5 min*
 
 > ⚠ **Title mismatch.** Nav says *"The four Bitcoin allocation tiers"*; the page
@@ -1570,7 +1570,7 @@ Place yourself honestly across the three drivers:
 The percentage is what falls out of those three. Not what you pick first.
 
 
-## 4.2 The two emotion gates: stress-test + price context
+## 4.2 Stress-test the allocation you can actually hold
 *`TEACH` · 549 words · ~4 min*
 
 > ⚠ **Title mismatch (substantive).** Nav: *"The two emotion gates: stress-test
@@ -1670,7 +1670,7 @@ How to think about it:
 3. If the target is below what you hold now, decide how you close the gap: new dollars only, or a sale with a tax cost you've checked.
 
 
-## 4.3 Give every dollar a job: Reserve / Bridge / Forever
+## 4.3 Split your money into Reserve, Bridge, and Legacy
 *`TEACH` · 605 words · ~4 min*
 
 > ✅ **Renamed in course 2026-07-29:** Forever → **Legacy** to match the app
@@ -1770,7 +1770,7 @@ How to think about it:
 3. The bucket furthest behind is where new dollars go first.
 
 
-## 4.4 The contribution waterfall
+## 4.4 Order your contributions: which account gets funded first
 *`TEACH` · 575 words · ~4 min*
 
 > ✅ **MATH ERROR FIXED (item 22) — Option A applied 2026-07-30.** 3.1 no longer
@@ -1894,7 +1894,7 @@ You make this decision once and it routes every future dollar without you re-dec
 3. Automate whatever you can at the source, so the decision runs itself.
 
 
-## 4.5 Asset location: the right account for each holding
+## 4.5 Asset location: which account each holding belongs in
 *`TEACH` · 686 words · ~5 min*
 
 **By the end of this lesson, you can:**
@@ -2204,7 +2204,7 @@ The next module covers debt strategy: which debts to attack, which to hold, and 
 
 *See debt as a tool, set your tolerance, read the two ratios with their guideline bands, watch LTV drift on Bitcoin-backed loans, know the four offense plays, and assign every debt a job.*
 
-## 5.1 Defense: tolerance first, then the two ratios
+## 5.1 Set your debt ceiling: debt-to-income and debt-to-assets
 *`TEACH + APP` · 1,077 words · ~5 min*
 
 **By the end of this lesson, you can:**
@@ -2380,7 +2380,7 @@ How to think about it:
 
 You've got a verdict word and a stress number. Both of them move when Bitcoin moves.
 
-## 5.2 Drift and the LTV cushion
+## 5.2 Size the LTV cushion on a Bitcoin-backed loan
 *`TEACH + APP` · 824 words · ~4 min*
 
 **By the end of this lesson, you can:**
@@ -2510,7 +2510,7 @@ How to think about it:
 
 Everything so far has been defense: know your ratios, protect the cushion, don't get liquidated. The other half is what debt is actually for.
 
-## 5.3 Offense: the four debt plays
+## 5.3 The four ways debt can build wealth
 *`TEACH + APP` · 883 words · ~4 min*
 
 **By the end of this lesson, you can:**
@@ -2655,7 +2655,7 @@ How to think about it:
 
 You've seen what one play does to your plan. Now every debt on the ledger needs a decision, including the ones you're keeping.
 
-## 5.4 Bitcoin-backed loans: how they actually work
+## 5.4 How Bitcoin-backed loans work: LTV, margin calls, liquidation
 *`TEACH` · 1,750 words · ~11 min*
 
 **By the end of this lesson, you can:**
@@ -2825,7 +2825,7 @@ How to think about it:
 3. Model it in the app with your lender's real thresholds, then run the 50% drawdown scenario against it and see what happens.
 
 
-## 5.5 Every debt gets a job
+## 5.5 Give every debt a payoff decision
 *`TEACH + APP` · 1,085 words · ~5 min*
 
 **By the end of this lesson, you can:**
@@ -2990,7 +2990,7 @@ Close on the Dashboard and read your confidence number against the one from the 
 
 > **US-specific module.** Everything here runs on the US Internal Revenue Code: brackets, Roth accounts, RMDs, wash-sale rules, state taxes. Said ONCE, at the top of 6.1, and never repeated per lesson.
 
-## 6.1 Cost basis: the unlock for everything else
+## 6.1 Cost basis: what you paid, and how to reconstruct it
 *`TEACH` · 715 words · ~5 min*
 
 > 🐞 Currency mangling in the lot-sale figures (item 17). Reconstructed from
@@ -3070,7 +3070,7 @@ Pull your full transaction history from every exchange and wallet, then import i
 
 
 
-## 6.2 The three buckets, your bracket roadmap, and the state lever
+## 6.2 Taxable, tax-deferred, and Roth: bracket windows and state taxes
 *`TEACH` · 1,436 words · ~10 min*
 
 > ⚠ **One spoken law-set figure in this lesson:** the ~$128,000 of 0% capital-gains
@@ -3227,7 +3227,7 @@ Three steps:
 Then look up your state's treatment of capital gains (regular income, special rate, or no tax) and estimate your realized-gain profile in the years you plan to sell. If the answer says "big lever," take it to a CPA who's done a real relocation before.
 
 
-## 6.3 The RMD risk + Roth conversions
+## 6.3 RMD risk and Roth conversions
 *`TEACH` · 954 words · ~7 min*
 
 > ✅ **Evergreen policy (Austin, 2026-08-04) replaces item 11.** Figures here
@@ -3692,7 +3692,7 @@ The next module covers retirement income: how to turn your assets into a paychec
 > 7.6 Step 5 rewritten for the live Withdrawal order section, 7.3's app pointer
 > updated, all other steps confirmed unchanged. Clear to film.
 
-## 7.1 Spending, floor, the gap, and the bridge years
+## 7.1 Your spending, income floor, gap, and bridge years
 *`TEACH` · 584 words · ~4 min*
 
 **By the end of this lesson, you can:**
@@ -3869,7 +3869,7 @@ Two steps:
 
 That total tells you whether your Bridge bucket is actually sized for the job.
 
-## 7.2 The healthcare bridge
+## 7.2 Health insurance between retiring and Medicare
 *`TEACH` · 800 words · ~6 min*
 
 **By the end of this lesson, you can:**
@@ -3976,7 +3976,7 @@ Price your bridge three ways:
 Most people have never seen those three numbers side by side. The comparison is the decision.
 
 
-## 7.3 The income waterfall + draw and refill
+## 7.3 Set your withdrawal order and refill rule
 *`TEACH` · 903 words · ~6 min*
 
 **By the end of this lesson, you can:**
@@ -4109,7 +4109,7 @@ How to think about it:
 3. Say your refill rule out loud once, so future you doesn't renegotiate the build cap in a bad year.
 
 
-## 7.4 Sell, borrow, or hold
+## 7.4 Sell, borrow, or hold: funding a year of spending
 *`TEACH` · 730 words · ~5 min*
 
 *Advanced. Borrow-vs-sell is a decision that only fires if you're considering asset-backed lending against Bitcoin. Skim unless the trigger applies to you.*
@@ -4219,7 +4219,7 @@ Run all three on one year of your own spending. Not to pick a winner, but to kno
 Bring the outputs to the household and CPA conversation.
 
 
-## 7.5 The guardrails: turning the confidence number into a paycheck
+## 7.5 Guardrails: how much you can spend each year
 *`TEACH` · 835 words · ~6 min*
 
 **By the end of this lesson, you can:**
@@ -4559,7 +4559,7 @@ The next module covers custody: how to operationally protect the Bitcoin your pa
 
 *Custody as operational protection: choose your level on the four-tier ladder, set up hardware with a proven recovery test, close single points of failure, and — when it fits — go advanced with passphrase, multisig, or collaborative custody.*
 
-## 8.1 Custody: the 5 questions
+## 8.1 The five questions that set your custody level
 *`TEACH` · 2,050 words · ~13 min*
 
 **By the end of this lesson, you can:**
@@ -4616,7 +4616,7 @@ By "secrets" I mean the things that actually move Bitcoin: seed phrase (the word
 
 What you write down: who holds what, what type of setup it is, and what someone should do. Never the words that unlock it. You can share the document with your executor and store it safely, because nothing in it is worth stealing.
 
-## 8.2 Choosing your custody level
+## 8.2 Choose your custody level and spread the risk
 *`TEACH` · ~1,250 words · ~8 min*
 
 **By the end of this lesson, you can:**
@@ -4827,7 +4827,7 @@ A collaborative provider holds the config for you. On top of the support, the an
 - For anything not self-custodied, count the institutions it sits in and ask whether that number matches what's at stake.
 
 
-## 8.3 The hardware wallet and the recovery test
+## 8.3 Set up a hardware wallet and test recovery
 *`TEACH` · 678 words · ~5 min*
 
 **By the end of this lesson, you can:**
@@ -4891,7 +4891,7 @@ If you already have a pocketful of small bills, **consolidation** is the fix. Co
 If you've never done the wipe-and-restore, watch the demo lesson and do it, with a small test amount, before serious money is on the line.
 
 
-## 8.4 Close the doors: single points of failure, hardening, and scams
+## 8.4 Single points of failure, account hardening, and scams
 *`TEACH` · 777 words · ~6 min*
 
 > ✅ **Fixed in course:** stale hand-off promised "advanced custody" next — that
@@ -5537,7 +5537,7 @@ Set the review date on the footer: *"Review at each annual review (Module 9)."*
 
 Your executor is named and briefed, and the forms match the will.
 
-## 9.2 The access split
+## 9.2 Split access so no one person holds everything
 *`TEACH` · 834 words · ~4 min*
 
 **By the end of this lesson, you can:**
@@ -5924,7 +5924,7 @@ How to think about it:
 
 Documents, split, and switch are all in place.
 
-## 9.4 Insurance: the risks you can't self-insure yet
+## 9.4 Insurance: term life, disability, umbrella, and when to stop
 *`TEACH` · 1,090 words · ~5 min*
 
 **By the end of this lesson, you can:**
@@ -6255,9 +6255,9 @@ Do not buy structure until the gate lights up, and design the legal and key plan
 
 # Unit 10 · Module 9 — Maintenance (Capstone)
 
-*The two rhythms that keep the plan alive: five minutes a month, one afternoon a year.*
+*What keeps the plan alive: a five-minute monthly pass and one annual review.*
 
-## 10.1 The two rhythms and the monthly pass
+## 10.1 The five-minute monthly pass
 *`TEACH` · 567 words · ~4 min*
 
 > 🐞 Currency mangling in the drift example (item 17): "$8,000/yr light …
@@ -6395,7 +6395,7 @@ The plan survives on this habit. Pick a specific day for the review, not "soon" 
 
 Five minutes a month, one afternoon a year, for the rest of your life. Every raise, every buy, and every quiet month you enter makes your freedom date more real.
 
-## 10.2 The annual review: all six areas
+## 10.2 The annual review: six areas to check
 *`TEACH` · 1,051 words · ~8 min*
 
 > ✅ **Inconsistency FIXED (item 25) — 2026-07-30.** This lesson now reads
@@ -6752,7 +6752,7 @@ Module 10 closes the course. It starts with scenarios, which is how you test wha
 
 *Read the plan report end-to-end, walk it in the app, and set up your yearly re-read.*
 
-## 11.1 Scenarios: testing what-ifs against your plan
+## 11.1 Test a decision with a scenario
 *`TEACH` · 1,150 words · ~7 min*
 
 **By the end of this lesson, you can:**

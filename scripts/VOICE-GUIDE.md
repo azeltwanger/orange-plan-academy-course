@@ -323,8 +323,29 @@ matters because" 4, "The <noun> is that" 8, "There's a" 4, "Let me" 20 across
 - Announce frames in section headings count too: "WHAT THE CONFIDENCE NUMBER IS
   REALLY TELLING YOU" -> "WHAT THE CONFIDENCE NUMBER IS TELLING YOU."
 
-## Open, needs Austin's call
+## Lesson titles: outcome and topic, never marketing (Austin, 2026-08-08)
 
-`06-1` is titled **"Cost basis: the unlock for everything else."** "The unlock"
-reads like marketing. Renaming it touches the filename plus 5 docs, so it was
-flagged rather than changed.
+Every title says what the student will be able to DO and what the lesson
+covers. No slogans, no coined jargon, no teasers. 35 of 52 were renamed:
+
+- "Cost basis: the unlock for everything else" -> "Cost basis: what you paid,
+  and how to reconstruct it"
+- "Defense: tolerance first, then the two ratios" -> "Set your debt ceiling:
+  debt-to-income and debt-to-assets"
+- "Close the doors: single points of failure, hardening, and scams" ->
+  "Single points of failure, account hardening, and scams"
+- "The two emotion gates: stress-test + price context" -> "Stress-test the
+  allocation you can actually hold"
+- "The two rhythms and the monthly pass" -> "The five-minute monthly pass"
+
+Framing devices that only make sense once you're inside the lesson (Defense /
+Offense, emotion gates, rhythms, lanes, the unlock) belong in the BODY, where
+they're taught. They don't belong in a title a student is scanning to decide
+what to watch.
+
+Coined course jargon in a title is the tell. If a student who has not taken
+the course cannot tell what the lesson is about from the title, retitle it.
+
+Filenames derive from titles (`tools/build-scripts.py` slugs them), so a
+retitle renames files. Use `git mv` and re-run the generators; the protected
+dictation files are keyed on lesson NUMBER, not filename, so they survive.

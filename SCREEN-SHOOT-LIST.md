@@ -28,7 +28,7 @@ Before the first segment: seed the demo account with the couple's canonical numb
 8. ☐ **Step 7: Debts**
 9. ☐ **Step 8: Contributions**
 10. ☐ **Step 9: Retirement Benefits**
-11. ☐ **Step 10: Assumptions**
+11. ☐ **Step 10: Set your growth and inflation assumptions**
 12. ☐ **Step 11: Strategy Profile**
 13. ☐ **Step 12: Life Events**
 14. ☐ **Step 13: Review**
@@ -86,7 +86,7 @@ Before the first segment: seed the demo account with the couple's canonical numb
 
 ---
 
-## ☐ Segment 5.1-B — Defense: tolerance first, then the two ratios
+## ☐ Segment 5.1-B — Set your debt ceiling: debt-to-income and debt-to-assets
 *app section only (A-roll filmed separately) · ~4 min capture (plus retakes)*
 
 **Beats (tick as you capture):**
@@ -96,7 +96,7 @@ Before the first segment: seed the demo account with the couple's canonical numb
 
 ---
 
-## ☐ Segment 5.2-B — Drift and the LTV cushion
+## ☐ Segment 5.2-B — Size the LTV cushion on a Bitcoin-backed loan
 *app section only (A-roll filmed separately) · ~3 min capture (plus retakes)*
 
 **Beats (tick as you capture):**
@@ -105,7 +105,7 @@ Before the first segment: seed the demo account with the couple's canonical numb
 
 ---
 
-## ☐ Segment 5.3-B — Offense: the four debt plays
+## ☐ Segment 5.3-B — The four ways debt can build wealth
 *app section only (A-roll filmed separately) · ~2 min capture (plus retakes)*
 
 **Beats (tick as you capture):**
@@ -113,7 +113,7 @@ Before the first segment: seed the demo account with the couple's canonical numb
 
 ---
 
-## ☐ Segment 5.5-B — Every debt gets a job
+## ☐ Segment 5.5-B — Give every debt a payoff decision
 *app section only (A-roll filmed separately) · ~4 min capture (plus retakes)*
 
 **Beats (tick as you capture):**
@@ -159,7 +159,7 @@ Before the first segment: seed the demo account with the couple's canonical numb
 6. ☐ **Step 6: Calibrate the operating plan (95 / 80 / 60)** — `Plan → Income → Retirement operating plan → What you can spend`
 7. ☐ **Step 7: The annual update, pre-met**
 8. ☐ **Step 8: Run the AI review on the income plan** — `Plan → Income → Income Blueprint tab → Review income plan (top right, beside the tab bar)`
-9. ☐ **Step 9: Sell, borrow, or hold (Retirement Borrowing tab)** — `Plan → Income → Retirement Borrowing tab`
+9. ☐ **Step 9: Sell, borrow, or hold: funding a year of spending (Retirement Borrowing tab)** — `Plan → Income → Retirement Borrowing tab`
 10. ☐ **Step 10: Run the AI review on Borrowing Strategy (only if borrowing is in the plan)** — `Plan → Income → Retirement Borrowing tab → Borrow vs sell · age {life expectancy} → Review Borrowing Strategy`
 11. ☐ **Step 11: Pressure-test with the 50% drawdown scenario** — `Scenarios → What if... → 50% drawdown after retirement`
 12. ☐ **What good looks like**
@@ -288,7 +288,7 @@ Before the first segment: seed the demo account with the couple's canonical numb
 5. ☐ **Step 5: "How your plan plays out" + "If Bitcoin follows a different path". RISK** — `Section 2, then the conditional scenarios section (usually section 9)`
 6. ☐ **Step 6: "Tax roadmap" + "Allocation"** — `Sections 8 and 6`
 7. ☐ **Step 7: "Protecting what you've built"** — `Section 7`
-8. ☐ **Step 8: "Your next steps" + "Assumptions & methodology". ACTIONS** — `Sections 10 and 11`
+8. ☐ **Step 8: "Your next steps" + "Set your growth and inflation assumptions & methodology". ACTIONS** — `Sections 10 and 11`
 9. ☐ **Step 9: AI · "Review scenario"** — `Scenarios → select a saved scenario → button "Review scenario."`
 10. ☐ **Step 10: Save the artifact** — `Back on Report → "Download PDF."`
 11. ☐ **What good looks like**

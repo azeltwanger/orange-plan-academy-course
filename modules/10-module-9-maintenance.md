@@ -1,8 +1,8 @@
 # Unit 10 · Module 9 — Maintenance (Capstone)
 
-*The two rhythms that keep the plan alive: five minutes a month, one afternoon a year.*
+*What keeps the plan alive: a five-minute monthly pass and one annual review.*
 
-## 10.1 The two rhythms and the monthly pass
+## 10.1 The five-minute monthly pass
 *`TEACH` · 567 words · ~4 min*
 
 > 🐞 Currency mangling in the drift example (item 17): "$8,000/yr light …
@@ -140,7 +140,7 @@ The plan survives on this habit. Pick a specific day for the review, not "soon" 
 
 Five minutes a month, one afternoon a year, for the rest of your life. Every raise, every buy, and every quiet month you enter makes your freedom date more real.
 
-## 10.2 The annual review: all six areas
+## 10.2 The annual review: six areas to check
 *`TEACH` · 1,051 words · ~8 min*
 
 > ✅ **Inconsistency FIXED (item 25) — 2026-07-30.** This lesson now reads
