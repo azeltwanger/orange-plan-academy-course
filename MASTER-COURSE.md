@@ -13,7 +13,7 @@ then M1–M9) in course order. The optional library lives in `MASTER-ADVANCED.md
 <!-- METRICS:START -->
 | | Lessons | Runtime |
 |---|---|---|
-| **Core** — Build Your Bitcoin Financial Plan (required) | 27 teach | **234 min (3.9 h)** |
+| **Core** — Build Your Bitcoin Financial Plan (required) | 27 teach | **236 min (3.9 h)** |
 | **Advanced Library** — optional, gated per lesson | 14 teach | 107 min |
 
 Plus 11 core screen captures, narrated off the DO / SEE / ⚠ sheets rather than read.
@@ -1169,7 +1169,7 @@ Pick your target months. Multiply by your floor. Enter both into the reserve set
 
 - Understand why known costs shouldn't be paid from your reserve
 - Match each known cost to a funding lane based on how far away it is
-- Pre-fund large planned costs so they don't force a Bitcoin sale
+- Give each large planned cost a deliberate funding plan, so it neither forces a Bitcoin sale nor stops your accumulation by default
 
 ---
 
@@ -1205,9 +1205,30 @@ For 10+ year costs, plan the sales into low-bracket years (Module 5).
 ### Pre-funding vs paying from flow
 
 - **Small, dated costs** (a $2,000 vacation next summer) can be paid from flow. Set aside $200/mo starting six months before. No separate lane needed.
-- **Big dated costs** (a $100,000 college bill in eight years) need their own pre-funded lane. Build $100k across eight years of small contributions instead of taking it as a Bitcoin sale in one year.
+- **Big dated costs** get their own lane so they don't land as one giant Bitcoin sale in a single year. Where the number *and* the date are genuinely fixed — a roof, a car, a down payment — dividing the target by the months available is a clean way to do it.
 
-The threshold isn't a dollar number. If paying the cost all at once out of your monthly flow would break your surplus, pre-fund. If not, pay from flow.
+The threshold isn't a dollar number. If paying the cost all at once out of your monthly flow would break your surplus, give it a lane. If not, pay from flow.
+
+### ⚠ The general rule — say it before the arithmetic makes it sound automatic
+
+> **A future expense needs an intentional funding plan. It does not automatically need to be fully funded before the household keeps buying Bitcoin or pursuing other goals.**
+
+Conventional planning says: there's a goal, so fully fund the goal, and whatever's left can go to investing. That is not this course's position, and it is especially wrong when the thing being paused is Bitcoin accumulation. Cash ranks highly when it is solving real fragility, not by default.
+
+**Six questions for any dated cost**, in place of the single question "how much do I save each month?":
+
+| # | Question |
+|---|---|
+| 1 | What amount is the household **actually committing to provide**? Not what it might cost |
+| 2 | What is **already saved** toward it? |
+| 3 | What can be paid from **cash flow at the time**, rather than saved up front? |
+| 4 | What portion could reasonably be **financed**? |
+| 5 | What might come from **Bitcoin or other investments**? |
+| 6 | What portion must **stop depending on Bitcoin's price** as the date approaches? |
+
+Question 6 is the actual risk control, and it is far narrower than "fully fund it now." Money needed in one or two years should not ride on Bitcoin cooperating. Money further out can carry volatility the household can support.
+
+**This generalises** (resolves F8). It applies to cars, weddings, a house purchase, home repairs, business investment, and family support — not only college. College is simply the case where every one of the six has a real answer and the cost of skipping to question one is highest, which is why it gets the full walkthrough below.
 
 ### The college example
 
@@ -2119,7 +2140,7 @@ A dollar going into your Roth is a rung-4 decision *and* a Legacy dollar at the 
 
 Here's where it gets practical. The waterfall tells you the order, but it doesn't always tell you what to buy once you're inside an account. That's what the buckets are for. **When you have a choice inside a rung, go look at which bucket is behind, and fund that one.**
 
-**Strategy → Allocation** is the screen that shows you this. The three timeframes render with **Funded** or **Behind** badges, so you can see which one is short without doing any arithmetic. Whichever reads Behind is where this month's flexible dollars go.
+**Strategy → Allocation** is the screen that shows you this. The three timeframes render with **Funded** or **Behind** badges, so you can see which one is short without doing any arithmetic. A Behind badge is the first place to *look* for this month's flexible dollars — it is not an instruction to send all of them there.
 
 ⚠ One trap worth naming: an account is not a bucket. A 401(k) sitting in a stable-value fund is a Legacy *account* holding Bridge-shaped risk. The wrapper says nothing about the job. Check both.
 
@@ -2299,12 +2320,14 @@ Above the rows, a strip reads either **Assigned accounts · projected** or **Pro
 
 #### How to read the badges
 
+⚠ **A badge is information, not an order.** Behind means the app compared what you've assigned against what you told it you'd need. Only the Reserve row comes close to an instruction, because a thin reserve is what forces a sale at the worst possible moment. For the other two, Behind is a prompt to **make a decision**, not a command to drain the surplus into one row. Where a dated expense is involved, Behind should send you to the six questions in 3.3.
+
 | Pattern | What it means | What to do |
 |---|---|---|
 | All three **Funded** | Your buckets carry enough for their timeframe. | Nothing urgent. Recheck at the annual review. |
-| **Reserve = Behind** | Your safety net is under-funded first. | Reserve is rung 1 of the waterfall. Fix it before anything else. Route surplus to cash. |
-| **Bridge = Behind**, Reserve = Funded | Your early-retirement years (before 59½) don't add up. | Route surplus into taxable brokerage, HSA, or 529 accounts. |
-| **Legacy = Behind**, Reserve and Bridge = Funded | Long-term compounding is short. | Route contributions to retirement wrappers (401(k), IRA), and any Bitcoin tier that fits your conviction. |
+| **Reserve = Behind** | Your safety net is under-funded first. | Reserve is rung 1 of the waterfall. This is the one to fix first. Route surplus to cash. |
+| **Bridge = Behind**, Reserve = Funded | Your early-retirement years (before 59½) don't add up. | Decide the funding plan first; where accounts naturally sit is taxable brokerage, HSA, or 529. |
+| **Legacy = Behind**, Reserve and Bridge = Funded | Long-term compounding is short. | Retirement wrappers (401(k), IRA), and any Bitcoin tier that fits your conviction. |
 | **Reserve = Behind and Legacy = Funded** | Common misfit. A volatile long-term asset is doing bucket-1 work. Common with Bitcoin-heavy stacks. | Reassign accounts in Step 3, or draw cash out of Legacy to backfill Reserve. |
 
 ### Step 4: Sort your accounts into buckets
@@ -2444,7 +2467,7 @@ Two facts should be true and visible:
 
 - Your holdings match reality. The donut doesn't lie.
 - All accounts sorted. Dialog footer reads "All accounts sorted."
-- Bucket badges tell the true story. Reserve, Bridge, and Legacy all **Funded** is the finish line. Any **Behind** is your next action.
+- Bucket badges tell the true story — but **three Funded badges is not the finish line.** The finish line is that every badge has been read and decided on. A **Behind** badge you have looked at, run through the six questions in 3.3, and made a deliberate call about is a finished item, not an outstanding one.
 - Bucket-job match: nothing with Legacy-level volatility parked in Bridge money. The classic misfit is Reserve Behind while Legacy is Funded.
 - Target mix at 100%, in a range you can defend, saved with a drift band you'd actually act on.
 - **captures $X/mo** shows the full match captured. Anything less is free money on the table, and it's visible on the screen.

@@ -232,7 +232,7 @@ Pick your target months. Multiply by your floor. Enter both into the reserve set
 
 - Understand why known costs shouldn't be paid from your reserve
 - Match each known cost to a funding lane based on how far away it is
-- Pre-fund large planned costs so they don't force a Bitcoin sale
+- Give each large planned cost a deliberate funding plan, so it neither forces a Bitcoin sale nor stops your accumulation by default
 
 ---
 
@@ -268,9 +268,30 @@ For 10+ year costs, plan the sales into low-bracket years (Module 5).
 ### Pre-funding vs paying from flow
 
 - **Small, dated costs** (a $2,000 vacation next summer) can be paid from flow. Set aside $200/mo starting six months before. No separate lane needed.
-- **Big dated costs** (a $100,000 college bill in eight years) need their own pre-funded lane. Build $100k across eight years of small contributions instead of taking it as a Bitcoin sale in one year.
+- **Big dated costs** get their own lane so they don't land as one giant Bitcoin sale in a single year. Where the number *and* the date are genuinely fixed — a roof, a car, a down payment — dividing the target by the months available is a clean way to do it.
 
-The threshold isn't a dollar number. If paying the cost all at once out of your monthly flow would break your surplus, pre-fund. If not, pay from flow.
+The threshold isn't a dollar number. If paying the cost all at once out of your monthly flow would break your surplus, give it a lane. If not, pay from flow.
+
+### ⚠ The general rule — say it before the arithmetic makes it sound automatic
+
+> **A future expense needs an intentional funding plan. It does not automatically need to be fully funded before the household keeps buying Bitcoin or pursuing other goals.**
+
+Conventional planning says: there's a goal, so fully fund the goal, and whatever's left can go to investing. That is not this course's position, and it is especially wrong when the thing being paused is Bitcoin accumulation. Cash ranks highly when it is solving real fragility, not by default.
+
+**Six questions for any dated cost**, in place of the single question "how much do I save each month?":
+
+| # | Question |
+|---|---|
+| 1 | What amount is the household **actually committing to provide**? Not what it might cost |
+| 2 | What is **already saved** toward it? |
+| 3 | What can be paid from **cash flow at the time**, rather than saved up front? |
+| 4 | What portion could reasonably be **financed**? |
+| 5 | What might come from **Bitcoin or other investments**? |
+| 6 | What portion must **stop depending on Bitcoin's price** as the date approaches? |
+
+Question 6 is the actual risk control, and it is far narrower than "fully fund it now." Money needed in one or two years should not ride on Bitcoin cooperating. Money further out can carry volatility the household can support.
+
+**This generalises** (resolves F8). It applies to cars, weddings, a house purchase, home repairs, business investment, and family support — not only college. College is simply the case where every one of the six has a real answer and the cost of skipping to question one is highest, which is why it gets the full walkthrough below.
 
 ### The college example
 

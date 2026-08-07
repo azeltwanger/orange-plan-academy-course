@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 3.3
 3.3 Fund known future costs: college, cars, a house, repairs
-~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~14.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover how to give every future cost that you already know about its own lane.
@@ -27,19 +27,47 @@ And then 10 years or more is where a planned Bitcoin sell schedule can actually 
 
 == PRE-FUNDING VERSUS PAYING FROM FLOW ==
 
+Now here's where I want to be careful, because this is the spot where a lot of financial planning goes sideways for a Bitcoiner.
+
 There are two ways to handle any known cost, and the right one depends on the size of it.
 
 Small dated costs can just get paid out of your monthly flow. If you have a $2,000 vacation coming up next summer, you don't need a separate lane for that. You set aside $200 a month starting 6 months before, and you're done.
 
-A bigger dated cost gets its own lane, so it isn't one giant Bitcoin sale in a single year. A roof, a car, a house down payment. Those have a real number and a real date, so you divide the target by the months you've got and route that much.
+A bigger dated cost gets its own lane, so it isn't one giant Bitcoin sale in a single year. A roof, a car, a house down payment. When the number and the date are both genuinely fixed, dividing the target by the months you've got and routing that much is a clean way to do it.
 
-College is the one that doesn't work like that, and it's worth its own section, because it's where I see people make the biggest planning mistake.
+But I want to say the general rule out loud, because the arithmetic above makes it sound more automatic than it is.
+
+A future expense needs an intentional funding plan. It does not automatically need to be fully funded before you keep buying Bitcoin or keep working on anything else.
+
+That's a real distinction. Conventional planning tends to say: there's a goal, so fully fund the goal, and whatever's left over can go to investing. I don't think that's right, and it's especially not right when the thing you'd be pausing is your Bitcoin accumulation.
+
+== THE SIX QUESTIONS FOR ANY DATED COST ==
+
+So for any known future cost, work through six things instead of one.
+
+One: what amount are you actually committing to provide? Not what it might cost. What you're on the hook for.
+
+Two: what's already saved toward it?
+
+Three: what can come out of cash flow at the time, rather than being saved up front?
+
+Four: what portion could reasonably be financed?
+
+Five: what might come from Bitcoin or other investments?
+
+And six: what part of it has to stop depending on Bitcoin's price as the date gets close?
+
+That last one is the actual risk control, and it's much narrower than "fully fund it now." Money you need in one or two years shouldn't ride on Bitcoin cooperating. Money that's further out can carry more volatility, if your household can handle it.
+
+This applies to all of them. A car. A wedding. A house. Home repairs. Money going into a business. Helping family. And college, which is the one where the mistake costs the most, so that's the one I'm going to walk all the way through.
 
 == COLLEGE IS A FUNDING STACK, NOT A BILL YOU PREPAY ==
 
 College is one of the easiest goals to overfund, because people start with the sticker price and assume the parents are responsible for all of it.
 
 I don't think that's the right way to build the plan.
+
+It's the same six questions I just gave you, it's just that with college every single one of them has a real answer, and skipping straight to question one is what causes the damage.
 
 Before you calculate how much to save, decide what you're actually promising to provide.
 

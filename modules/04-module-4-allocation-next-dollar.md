@@ -367,7 +367,7 @@ A dollar going into your Roth is a rung-4 decision *and* a Legacy dollar at the 
 
 Here's where it gets practical. The waterfall tells you the order, but it doesn't always tell you what to buy once you're inside an account. That's what the buckets are for. **When you have a choice inside a rung, go look at which bucket is behind, and fund that one.**
 
-**Strategy → Allocation** is the screen that shows you this. The three timeframes render with **Funded** or **Behind** badges, so you can see which one is short without doing any arithmetic. Whichever reads Behind is where this month's flexible dollars go.
+**Strategy → Allocation** is the screen that shows you this. The three timeframes render with **Funded** or **Behind** badges, so you can see which one is short without doing any arithmetic. A Behind badge is the first place to *look* for this month's flexible dollars — it is not an instruction to send all of them there.
 
 ⚠ One trap worth naming: an account is not a bucket. A 401(k) sitting in a stable-value fund is a Legacy *account* holding Bridge-shaped risk. The wrapper says nothing about the job. Check both.
 
@@ -547,12 +547,14 @@ Above the rows, a strip reads either **Assigned accounts · projected** or **Pro
 
 #### How to read the badges
 
+⚠ **A badge is information, not an order.** Behind means the app compared what you've assigned against what you told it you'd need. Only the Reserve row comes close to an instruction, because a thin reserve is what forces a sale at the worst possible moment. For the other two, Behind is a prompt to **make a decision**, not a command to drain the surplus into one row. Where a dated expense is involved, Behind should send you to the six questions in 3.3.
+
 | Pattern | What it means | What to do |
 |---|---|---|
 | All three **Funded** | Your buckets carry enough for their timeframe. | Nothing urgent. Recheck at the annual review. |
-| **Reserve = Behind** | Your safety net is under-funded first. | Reserve is rung 1 of the waterfall. Fix it before anything else. Route surplus to cash. |
-| **Bridge = Behind**, Reserve = Funded | Your early-retirement years (before 59½) don't add up. | Route surplus into taxable brokerage, HSA, or 529 accounts. |
-| **Legacy = Behind**, Reserve and Bridge = Funded | Long-term compounding is short. | Route contributions to retirement wrappers (401(k), IRA), and any Bitcoin tier that fits your conviction. |
+| **Reserve = Behind** | Your safety net is under-funded first. | Reserve is rung 1 of the waterfall. This is the one to fix first. Route surplus to cash. |
+| **Bridge = Behind**, Reserve = Funded | Your early-retirement years (before 59½) don't add up. | Decide the funding plan first; where accounts naturally sit is taxable brokerage, HSA, or 529. |
+| **Legacy = Behind**, Reserve and Bridge = Funded | Long-term compounding is short. | Retirement wrappers (401(k), IRA), and any Bitcoin tier that fits your conviction. |
 | **Reserve = Behind and Legacy = Funded** | Common misfit. A volatile long-term asset is doing bucket-1 work. Common with Bitcoin-heavy stacks. | Reassign accounts in Step 3, or draw cash out of Legacy to backfill Reserve. |
 
 ### Step 4: Sort your accounts into buckets
@@ -692,7 +694,7 @@ Two facts should be true and visible:
 
 - Your holdings match reality. The donut doesn't lie.
 - All accounts sorted. Dialog footer reads "All accounts sorted."
-- Bucket badges tell the true story. Reserve, Bridge, and Legacy all **Funded** is the finish line. Any **Behind** is your next action.
+- Bucket badges tell the true story — but **three Funded badges is not the finish line.** The finish line is that every badge has been read and decided on. A **Behind** badge you have looked at, run through the six questions in 3.3, and made a deliberate call about is a finished item, not an outstanding one.
 - Bucket-job match: nothing with Legacy-level volatility parked in Bridge money. The classic misfit is Reserve Behind while Legacy is Funded.
 - Target mix at 100%, in a range you can defend, saved with a drift band you'd actually act on.
 - **captures $X/mo** shows the full match captured. Anything less is free money on the table, and it's visible on the screen.

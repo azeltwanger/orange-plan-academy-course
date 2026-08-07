@@ -18,9 +18,32 @@ For 10+ year costs, plan the sales into low-bracket years (tax module).
 ## Pre-fund vs pay from flow
 
 - Small dated costs ($2,000 trip next summer): pay from flow: $200/mo starting six months out.
-- Big dated costs ($100,000 college in 8 years): pre-fund a lane with small contributions instead of one giant sale.
+- Big dated costs: give them a lane so they don't land as one giant Bitcoin sale. Where the number **and** the date are genuinely fixed (a roof, a car, a down payment), dividing the target by the months available is a clean way to do it.
 
-**The test:** if paying it all at once from monthly flow would break your surplus, pre-fund it.
+**The test:** if paying it all at once from monthly flow would break your surplus, give it a lane.
+
+> ### The general rule
+>
+> **A future expense needs an intentional funding plan. It does not automatically need to be fully funded before you keep buying Bitcoin or pursuing other goals.**
+>
+> Conventional planning says: there's a goal, fully fund the goal, invest what's left. That is not the position here, and it is especially wrong when the thing being paused is Bitcoin accumulation. Cash ranks highly when it is solving real fragility, not by default.
+
+### Six questions for any dated cost
+
+Instead of the single question "how much do I save each month?":
+
+| # | Question |
+|---|---|
+| 1 | What are you **actually committing to provide**? Not what it might cost |
+| 2 | What is **already saved**? |
+| 3 | What can be paid from **cash flow at the time**, rather than saved up front? |
+| 4 | What could reasonably be **financed**? |
+| 5 | What might come from **Bitcoin or other investments**? |
+| 6 | What portion must **stop depending on Bitcoin's price** as the date approaches? |
+
+Question 6 is the real risk control, and it is much narrower than "fully fund it now." Money needed in one or two years should not ride on Bitcoin cooperating; money further out can carry volatility you can support.
+
+**These six apply to all of them:** cars, weddings, a house purchase, home repairs, business investment, family support. College below is the case where every question has a real answer and skipping to question one costs the most.
 
 ## The college example ($100k, 8 years out)
 

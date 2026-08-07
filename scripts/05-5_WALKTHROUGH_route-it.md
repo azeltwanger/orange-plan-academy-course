@@ -54,7 +54,11 @@
 
 **SEE** Strip above: *"Assigned accounts · projected"* vs *"Projected values"* (= not sorted yet, the numbers are a preview)
 
-**⚠** How to act on a badge: Reserve Behind → fix FIRST, it's rung 1. Bridge Behind → route to taxable/HSA/529. Legacy Behind → retirement wrappers.
+**⚠ A badge is information, not an order.** Say this plainly, because Behind *looks* like a command and it isn't one. It means the app compared what you've assigned against what you told it you'd need. It does not mean stop everything and fill that bucket before another dollar goes anywhere else.
+
+**⚠** Reserve Behind is the one closest to an instruction, because a thin reserve is what forces a sale at the worst possible moment. That's rung 1 for a reason. Bridge Behind and Legacy Behind are prompts to make a decision, not to drain the surplus into one row. Where the accounts naturally sit: Bridge → taxable, HSA, 529 · Legacy → retirement wrappers.
+
+**⚠** What Behind should actually trigger for a dated expense: decide **what you're really committing to provide**, what's already saved, what future cash flow covers, what could reasonably be financed, what might come from Bitcoin or other investments, and what portion has to stop depending on Bitcoin's price as the date gets close. That's the work. "Fill the bucket first" is not the work.
 
 **⚠ The classic misfit:** Reserve Behind + Legacy Funded = a volatile long-term asset doing bucket-1 work.
 
@@ -189,7 +193,7 @@ teaching, so they belong here.*
 
 - [ ] Donut matches reality
 - [ ] "All accounts sorted"
-- [ ] Three Funded badges (any Behind = the next action)
+- [ ] Every badge read and understood — **three Funded badges is not the finish line.** A Behind badge you have looked at and made a deliberate decision about is a finished item
 - [ ] Nothing Legacy-volatile parked in Bridge money
 - [ ] Mix at 100% with a band you'd act on
 - [ ] "captures $X/mo" shows the FULL match — anything less is free money left on the table
