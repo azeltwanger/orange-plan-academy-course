@@ -1,5 +1,12 @@
 # Austin voice guide — extracted from 4 real video scripts
 
+> ## ⛔ Read `AUSTIN-AUTHORITY.md` before editing any lesson.
+>
+> Austin's dictated planning recommendation is the authority. You may fix math
+> and facts (A), flag contradictions (B), and you may **not** rewrite a planning
+> judgment (C) without his explicit direction. Open items live in
+> `AUTHORITY-FLAGS.md`.
+
 Calibration sources: "401K vs Bitcoin", "Bitcoin Is My Path To Early Retirement",
 "Bitcoin Beginner's Guide", "How I Went From Nothing To Early Retirement".
 Every script conversion is checked against this, not against "good writing."

@@ -51,7 +51,7 @@ So there's a hard deadline on the cheap years. And most people waste them, becau
 
 The third dial is the state you live in, and I'm going to name it here rather than teach it, because it only becomes a real decision for some people.
 
-Here's the part everybody needs. When you sell, you owe federal tax, and then your state can tax that same gain again at its own rate. Most states tax a capital gain as ordinary income with no special long-term rate, and a handful don't tax income at all. The state that charges you is the one you're a resident of in the year you sell, not the one you lived in when you bought.
+The part everybody needs is short. When you sell, you owe federal tax, and then your state can tax that same gain again at its own rate. Most states tax a capital gain as ordinary income with no special long-term rate, and a handful don't tax income at all. The state that charges you is the one you're a resident of in the year you sell, not the one you lived in when you bought.
 
 On a large retirement-year sale, that difference runs into tens of thousands of dollars on a single transaction, and unlike most moves in this module, it pays every year rather than once. So it's worth knowing the lever exists.
 

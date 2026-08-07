@@ -1,5 +1,12 @@
 # Orange Plan Course — production repo
 
+> ## ⛔ Read `AUSTIN-AUTHORITY.md` before editing any lesson.
+>
+> Austin's dictated planning recommendation is the authority. You may fix math
+> and facts (A), flag contradictions (B), and you may **not** rewrite a planning
+> judgment (C) without his explicit direction. Open items live in
+> `AUTHORITY-FLAGS.md`.
+
 Source of truth for **Orange Plan Academy**: scripts, filming plan, and the decision log.
 
 The Academy is **two courses** in one space group:

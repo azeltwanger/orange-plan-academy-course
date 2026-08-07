@@ -45,7 +45,7 @@ The first one is to just pay it from flow. That's $25,000 a year of tuition eati
 
 The second option is to pre-fund it from flow. They'd route about $1,000 a month into an intermediate lane for 8 years. That's about $96,000 contributed, or somewhere around $110,000 once you account for growth. And now the tuition years are just a routing move out of that lane. Their surplus never takes the hit.
 
-The third option is to sell Bitcoin to cover it. That can work, and it can work well if the tuition years happen to land in a low-income year, when they can realize gains cheaply. The retirement module has a name for those years and a way to count yours; for now, just notice that a year with low income is a cheap year to sell in. Realizing a gain just means selling something for more than you paid, and the profit is the part that gets taxed. But if the tuition years land while they're still working and earning, they're forcing realized gains in high-bracket years, and that gets expensive.
+The third option is to sell Bitcoin to cover it. That can work, and it can work well if the tuition years happen to land in a low-income year, when they can realize gains cheaply. The retirement module names those years and shows you how to count your own. For now, just notice that a low-income year is a cheap year to sell in. Realizing a gain just means selling something for more than you paid, and the profit is the part that gets taxed. But if the tuition years land while they're still working and earning, they're forcing realized gains in high-bracket years, and that gets expensive.
 
 == HOW MUCH A MONTH ==
 

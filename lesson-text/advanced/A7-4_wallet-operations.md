@@ -14,7 +14,9 @@ Buy small amounts regularly and you end up with a wallet made of a hundred tiny 
 
 **Going forward: transfer on a threshold, not a schedule.** Let small buys accumulate and move them in one transaction rather than moving each buy the day it happens.
 
-⚠ **No fixed Bitcoin amount here on purpose.** The right threshold moves with the price and with fees. The test that does not go stale: look at what it would cost in fees to spend that chunk later, and ask whether that is a rounding error against the chunk or a real bite out of it. If a transfer's fee is a meaningful percentage of what you are transferring, it is too small. Check fees on the day; they swing enormously.
+**Austin's rule of thumb: about 0.01 to 0.02 Bitcoin as a minimum per transfer.** Smaller monthly buys accumulate on the exchange until they hit that threshold, then move in one transaction.
+
+The reasoning behind the number, which is what to hold onto if fees or the price move a long way: you want the fee to spend that chunk later to be a rounding error against the chunk, not a real bite out of it.
 
 **The trade-off, said out loud:** everything waiting for the threshold sits on an exchange, which is exactly the counterparty risk the custody module is about. The threshold is a fee decision bounded by a custody decision. If the accumulating balance gets big enough to worry you, move it and pay the fee.
 

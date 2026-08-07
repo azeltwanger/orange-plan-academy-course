@@ -1,5 +1,12 @@
 # Orange Plan Academy — Advanced Bitcoin Planning Library
 
+> ## ⛔ Read `AUSTIN-AUTHORITY.md` before editing any lesson.
+>
+> Austin's dictated planning recommendation is the authority. You may fix math
+> and facts (A), flag contradictions (B), and you may **not** rewrite a planning
+> judgment (C) without his explicit direction. Open items live in
+> `AUTHORITY-FLAGS.md`.
+
 **Course 2 of 2.** Optional. Sections mirror the core modules so every advanced
 lesson has an obvious home.
 

@@ -1,5 +1,12 @@
 # Build Your Bitcoin Financial Plan — the required core
 
+> ## ⛔ Read `AUSTIN-AUTHORITY.md` before editing any lesson.
+>
+> Austin's dictated planning recommendation is the authority. You may fix math
+> and facts (A), flag contradictions (B), and you may **not** rewrite a planning
+> judgment (C) without his explicit direction. Open items live in
+> `AUTHORITY-FLAGS.md`.
+
 **Master course file — the REQUIRED core course.** 10 modules (M0 Start Here,
 then M1–M9) in course order. The optional library lives in `MASTER-ADVANCED.md`.
 
