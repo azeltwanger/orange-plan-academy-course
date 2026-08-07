@@ -209,7 +209,13 @@ error with a single correct answer:
 
 ## NEW — raised by the college-funding position
 
-### F8 · Does the funding-stack logic generalise beyond college?
+### F8 ✅ RESOLVED · Does the funding-stack logic generalise beyond college?
+
+**Austin approved the generalisation, 2026-08-08.** The six questions now lead
+3.3 as the general rule for any dated cost, explicitly covering cars, weddings,
+a house, home repairs, business investment and family support. Original entry
+below.
+
 
 Austin's position is explicitly about **college**: uncertain school, aid
 package, student contribution, and whether the child attends at all.
@@ -223,7 +229,7 @@ college.
 whose *amount* is uncertain, like a wedding you have promised to contribute to,
 or eldercare? Those look more like college than like a roof.
 
-### F9 · 3.3 is now 12.5 minutes, the longest lesson in Module 2
+### F9 · 3.3 is now 14.5 minutes, the longest lesson in Module 2 (was 12.5)
 
 The college position roughly doubled the lesson. It replaced a framing that was
 wrong, so the content is not padding — but 3.3 now does two distinct jobs:
@@ -321,7 +327,13 @@ planning judgment. Would improve the existing trust gate in 8.x without adding
 a lesson. A valid outcome stays *"basic estate plan is sufficient; trust not
 currently indicated"* — a completed decision.
 
-### F17 · When is a future cost funded by cash, Bitcoin sales, borrowing, or a blend?
+### F17 ✅ LARGELY RESOLVED · When is a future cost funded by cash, Bitcoin sales, borrowing, or a blend?
+
+**Answered by the same approval.** Questions 3, 4 and 5 of the six make the mix
+an explicit decision per cost rather than a default. What remains genuinely open
+is only whether Austin wants a *recommended* default blend for any category, and
+he has not asked for one. Original entry below.
+
 
 The college position answers this for college. It does not answer it for cars,
 weddings, a house purchase, home repairs, business investment, or family
