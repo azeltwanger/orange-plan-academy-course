@@ -3513,27 +3513,15 @@ There is no custody setup without a trade-off. Each level buys one protection by
 
 The pattern: more sovereignty always means more responsibility, and more convenience always means more counterparty risk. You never eliminate risk, you choose which risks you hold and which you hand to someone else. That's why the level is matched to stakes and skill instead of picked on ideology.
 
-### Don't hold it all at one institution
+### One more question, if it applies to you
 
-Everything above is about *what type* of custody. There's a second question that applies to whatever you have not self-custodied: **how many institutions is it sitting in?**
+Everything above is about *what type* of custody you use. A separate question asks how **concentrated** it is, and it only matters for some people, so name it rather than teach it.
 
-Celsius, BlockFi, and FTX weren't a self-custody failure. They were a concentration failure. Customers who lost everything had everything in one place.
-
-So for the custodial portion of your stack, the exchange balance, the ETF shares, the retirement-account exposure, the question is whether one company's bad week can take all of it.
-
-**When splitting across institutions earns its keep:**
-
-- The custodial amount is large enough that losing access for months would change your life.
-- You're using an exchange balance as an emergency-reachable pile. That job needs an alternative when the account is frozen.
-- The institutions genuinely fail in different ways. Two exchanges are more correlated than an exchange and a brokerage ETF, which are more correlated than either and a hardware wallet.
-
-**What it costs you, and this is not small:**
-
-- Every extra account is another login, another email to secure, another 2FA to protect. Three sloppy accounts are worse than one hardened one.
-- Every extra account is another set of tax lots to track and reconcile in the tax module.
-- Every extra account is another row your executor has to find. It has to land on the Family Custody Map, or you've hidden money from your own family.
-
-**The honest rule:** self-custody is the real answer to counterparty risk, and splitting across institutions is the hedge you use for whatever isn't self-custodied yet. Add the second institution when the amount justifies the maintenance, not before. A small stack on one hardened exchange is a legitimate setup, and adding accounts to it just adds surface area.
+> **Advanced Library → A7.3 "Concentration: one institution, one vendor, one
+> firmware"** if either is true: the custodial balance is big enough that
+> losing access for a few months would change your life, or every satoshi you
+> own sits behind one model of one device running one manufacturer's firmware.
+> If neither is true, the custody plan is complete without it.
 
 ### Sizing it on a real household
 

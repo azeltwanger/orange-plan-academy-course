@@ -117,11 +117,11 @@ changed once, in both places, before you record.
 | 7.5 | Guardrails: how much you can spend each year | 8.1 |
 | 7.6 | *Walkthrough: build the paycheck in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 7 — Custody · 31 min
+### Module 7 — Custody · 27 min
 
 | # | Lesson | min |
 |---|---|---|
-| 8.1 | Choose the custody setup that matches your stack and family | 13.0 |
+| 8.1 | Choose the custody setup that matches your stack and family | 9.4 |
 | 8.2 | Set up a hardware wallet and test recovery | 8.4 |
 | 8.3 | Single points of failure, account hardening, and scams | 9.6 |
 | 8.4 | *External demo: hardware wallet setup + exchange hardening* | — DEMO, narrated off the sheet |
@@ -146,7 +146,7 @@ changed once, in both places, before you record.
 
 ---
 
-**27 teach lessons · 242 min (4.0 h) of finished audio at 155 wpm.**
+**27 teach lessons · 239 min (4.0 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not dictated. They are screen captures you narrate in
 your own words off the DO / SEE / ⚠ sheets, and they happen after the

@@ -35,21 +35,11 @@ Two things follow. **It's reasonable not to want the whole job.** That's what co
 
 Match the level to stakes and skill. A mismatch in either direction is the failure. Custody is not a purity test: if your family can't use the setup, the advanced version isn't protecting anything. (The app separately tiers its checklist by estate size: Foundation / Substantial / High Net Worth.)
 
-## Don't hold it all at one institution
+## One more question, if it applies to you
 
-A second question applies to whatever isn't self-custodied: **how many institutions is it in?** Celsius, BlockFi, and FTX were concentration failures, not self-custody failures. The people who lost everything had everything in one place.
+Everything above is about *what type* of custody you use. A separate question asks how *concentrated* it is, and it only matters for some people.
 
-**Split across institutions when:** the custodial amount is large enough that losing access for months would change your life; an exchange balance is doubling as your emergency-reachable pile; or the institutions fail in genuinely different ways (two exchanges are more correlated than an exchange and a brokerage ETF, and both more than either and a hardware wallet).
-
-**What it costs:** every extra account is another login, email, and 2FA to secure (three sloppy accounts beat by one hardened one), another set of tax lots to reconcile, and another row your executor must find. If it isn't on the Family Custody Map, you've hidden money from your own family.
-
-**The rule:** self-custody is the real answer to counterparty risk; splitting institutions is the hedge for whatever isn't self-custodied yet. Add the second institution when the amount justifies the maintenance, not before.
-
-## No custody setup is trust-free
-
-Self-custody removes counterparty risk. You are still trusting the manufacturer, the firmware, the randomness that generated your seed, and your wallet software. If every satoshi sits behind one device model running one company's firmware, one trust is holding up your entire stack. That is the same concentration as keeping everything at one exchange, and it is harder to see because it feels like independence.
-
-Spreading it out is what prevents a total loss: a second device from a different manufacturer, a multisig whose keys don't all come from one vendor, or part of the stack in a different custody model. Size it to your comfort, your technical ability, and how much responsibility you're willing to carry. Three setups you half understand is how people lose money; one setup run well is a real answer.
+**Go to Advanced Custody → "Concentration: one institution, one vendor, one firmware" if either is true:** your non-self-custodied Bitcoin sits at one institution and losing access for a few months would change your life, or every satoshi you own is behind one model of one device from one manufacturer. If neither is true, your custody plan is complete without it.
 
 ## Your stack can outgrow your setup
 
@@ -59,7 +49,7 @@ You pick a setup that matches what you hold. Then the price runs up, and the sam
 
 ## Your decision
 
-**Which level you run, and whether custodial Bitcoin sits at more than one institution.**
+**Which level you run.**
 
 1. **Match the level to stakes and to what you can maintain.** A mismatch either way is the failure: too little custody for the amount is the Celsius problem, too much for your skill is the lost-seed problem.
 2. **Custody is not a purity test.** If your family can't use the setup, the advanced version isn't protecting anything. You move up a level by earning it, not by ideology.
@@ -76,8 +66,6 @@ Match the level to what is at stake and what you can genuinely maintain. A misma
 
 1. Score yourself on the 5 questions and name the job each pile is doing. Most people come out at one or two.
 2. Name the level you are at today and the level your amount and family say you should be at. If they differ, name the one thing that closes the gap.
-3. For anything not self-custodied, count the institutions and ask whether that number matches what is at stake.
-4. Go through what your whole stack is trusting: device, manufacturer, firmware, wallet software. If one answer covers everything you own, decide whether spreading it out is worth the maintenance.
 5. Put this on your annual review, to be re-asked at that year's balance.
 
 ## Optional, only if it applies to you

@@ -184,7 +184,7 @@ Set the review date on the footer: *"Review at each annual review (Module 9)."*
 Your executor is named and briefed, and the forms match the will.
 
 ## 9.2 Split access: dual control and redundancy
-*`TEACH` · ~1,390 words · ~9 min*
+*`TEACH` · ~1,392 words · ~9 min*
 
 > ✅ **SAFETY REWRITE (2026-08-08).** The old lesson claimed a seed + passphrase
 > split gave "no single point of failure" and that half of it left the plan
