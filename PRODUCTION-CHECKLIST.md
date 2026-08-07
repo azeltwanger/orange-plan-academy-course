@@ -63,7 +63,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ☐ 4.1 Pick your Bitcoin allocation tier — 🎙 film `04-1`
 ☐ 4.2 Stress-test the allocation you can actually hold — 🎙 film `04-2`
-☐ 4.3 Split your money into Reserve, Bridge, and Legacy — 🎙 film `04-3`
+☐ 4.3 Break your accounts down by holding type, then by timeframe (two axes: asset type per account, then the 3 timeframe buckets) — 🎙 film `04-3`
 ☐ 4.4 Order your contributions: which account gets funded first — 🎙 film `04-4`
 ☐ 4.5 Asset location: which account each holding belongs in — 🎙 film `04-5`
 ☐ 4.6 Walkthrough: route it — 🖥 capture `04.6` (10 steps; prereqs: salary source entered + surplus in step 3)

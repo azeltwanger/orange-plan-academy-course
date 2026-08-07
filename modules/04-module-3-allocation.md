@@ -208,62 +208,85 @@ How to think about it:
 3. If the target is below what you hold now, decide how you close the gap: new dollars only, or a sale with a tax cost you've checked.
 
 
-## 4.3 Split your money into Reserve, Bridge, and Legacy
+## 4.3 Break your accounts down by holding type, then by timeframe
 *`TEACH` · 605 words · ~4 min*
 
-> ✅ **Renamed in course 2026-07-29:** Forever → **Legacy** to match the app
-> (Austin's call). Sidebar nav title still says "Reserve / Bridge / Forever" —
-> update in the Honen UI; not reachable from the sandbox.
->
-> ⚠ **This is one half of the "three buckets" collision** (item 21). Module 5
-> uses the same phrase for taxable / tax-deferred / Roth. Recommended fix: drop
-> "three buckets" as the collective term *here* and let Reserve / Bridge /
-> Legacy carry it — those names are already specific.
->
-> ⚠ Title mismatch (cosmetic): nav uses slashes, H1 uses commas. Item 20.
-> Proposed v2 name: **"Splitting your money by when you'll need it"**.
->
-> 🐞 Outcomes checklist renders **0 / 0** (apostrophe in "bucket's" — item 16).
+**By the end of this lesson, you can:**
 
-**By the end of this lesson, you can:** *(not rendering in the app)*
-
-- Assign every account to Reserve, Bridge, or Legacy
-- Understand each bucket's job, timeframe, and appropriate assets
+- Read what each of your accounts actually holds, by asset type
+- Set a target mix across the six asset classes and a drift band
+- Assign every account to Reserve, Bridge, or Legacy by when you'll need it
 - Use the refill rule to avoid selling Bitcoin at a bad time
-- Set a target percentage for each bucket
 
 ---
 
-Every dollar you own sits in one of three buckets. The bucket tells you what the money is for, how it should behave, and where it should sit.
+Allocation is two questions, asked in order. First: what do you actually hold, account by account, by type of asset? Second: when will you need each of those dollars? The first question gives you your mix. The second gives you your buckets. Orange Plan tracks both, and you need both, because a portfolio can have the right mix and still be sitting in the wrong timeframes.
 
-### The three buckets
+### Step 1: what each account holds
+
+Open **Strategy → Allocation** and scroll to **What each account holds**. Every account you own, with the holdings inside it broken out by type.
+
+Orange Plan sorts every holding into one of six asset classes: **Bitcoin, stocks, bonds, real estate, cash, and other.**
+
+Here's the couple, account by account. Their investable total is $295,000.
+
+| Account | Bitcoin | Stocks | Bonds | Cash | Total |
+|---|---|---|---|---|---|
+| Checking + savings | | | | $30,000 | $30,000 |
+| HSA (invested) | | $10,000 | | | $10,000 |
+| Taxable brokerage | | $30,000 | | | $30,000 |
+| 529 | | $12,000 | $3,000 | | $15,000 |
+| 401(k) + IRA | | $23,000 | $12,000 | | $35,000 |
+| Bitcoin (hardware + exchange) | $175,000 | | | | $175,000 |
+| **Total** | **$175,000** | **$75,000** | **$15,000** | **$30,000** | **$295,000** |
+
+Read down the columns and you have your mix: **59% Bitcoin, 25% stocks, 5% bonds, 10% cash.**
+
+Two things fall out of this view that you cannot see any other way. An account is not one asset. Their 401(k) is stocks *and* bonds, and the wrapper tells you nothing about what's inside it. And a single asset can be spread across accounts: their stocks live in four different places.
+
+### Step 2: set your target mix
+
+Same page, the **Your target mix** section. Set a target percentage for each of the six classes. They have to total 100% to save.
+
+Underneath it is **Flag drift beyond ±**, which defaults to 5 percentage points. That's your tolerance band. Set a 60% Bitcoin target with a 5-point band and the app flags you when Bitcoin runs past 65% or falls under 55%.
+
+The band is the useful part. Without one, every price move looks like a reason to act. With one, you only hear from the app when the mix has moved enough to matter.
+
+The target sets the priority for **new** dollars and it's the reference for drift. It is not an instruction to sell something today.
+
+### Step 3: sort the same accounts by when you'll need them
+
+Now the second question. Same money, different cut.
+
+Every dollar sits in one of three buckets. The bucket tells you what the money is for, how it should behave, and how much volatility it can carry.
 
 | Bucket | Timeframe | Volatility | What sits here |
 |---|---|---|---|
 | **Reserve** | 0-3 years | Low | High-yield savings, T-bills, short Treasuries, money market. Nothing that moves. |
 | **Bridge** | 4-10 years | Moderate | Taxable brokerage, HSA, 529, I-Bond ladders. Balanced mix of stocks and bonds. |
-| **Legacy** | 10+ years | High | Bitcoin (in appropriate custody), retirement accounts (401k, IRA, Roth), business equity you hold long-term. |
+| **Legacy** | 10+ years | High | Bitcoin (in appropriate custody), retirement accounts, business equity you hold long-term. |
 
 **Reserve** protects your ability to hold Bitcoin without being forced to sell in a bad month.
 
-**Bridge** is accessible, flexible capital for pre-retirement needs. Also the funding lane for known dated costs 4 to 10 years out.
+**Bridge** is accessible, flexible capital for pre-retirement needs, and the funding lane for known dated costs 4 to 10 years out.
 
-**Legacy** is your highest-growth assets, held long enough to ride out swings. Volatility is a feature at this timeframe, not a bug.
+**Legacy** is your highest-growth assets, held long enough to ride out swings. Volatility is a feature at this timeframe.
 
-### Matching each dollar to a bucket
+In the app it's **Funding your timeframes → Sort accounts into buckets**, and you drag each account into the bucket that matches when you'll use it. You're moving whole accounts, not individual holdings.
 
-Every account you own goes into one of the three. Here's how the couple lands:
+The couple's six accounts land like this:
 
-| Account | Balance | Bucket | Why |
+| Bucket | Accounts | Amount | Share |
 |---|---|---|---|
-| Cash | $30,000 | Reserve | Liquid safety net |
-| HSA (invested) | $15,000 | Bridge | Accessible before 65, spendable in retirement |
-| Taxable brokerage | $50,000 | Bridge | Planned spending 5-8 years out |
-| 529 | $25,000 | Bridge | Dated tuition, 8 years out |
-| Bitcoin (hardware) | $175,000 | Legacy | Long-term core |
-| 401(k) + IRA | $90,000 | Legacy | 15+ years to retirement |
+| **Reserve** | Checking + savings | $30,000 | 10% |
+| **Bridge** | HSA, taxable brokerage, 529 | $55,000 | 19% |
+| **Legacy** | Bitcoin, 401(k) + IRA | $210,000 | 71% |
 
-Every dollar has a job.
+Now look at what the two cuts tell you together. Their mix is 59% Bitcoin, which their tier supports. Their timeframes say 71% of everything they own is untouchable for a decade. Those are both fine for a couple in their forties. For a couple three years from retiring, the same mix with the same timeframes would be a problem, and only the second cut would show it.
+
+⚠ **Anything you don't sort gets classified for you.** The app infers a bucket from the account type when you haven't set one, and it tells you which mode you're in. Inferred is a reasonable starting guess, not your decision. Sort them yourself.
+
+⚠ **On the page, the timeframes section sits ABOVE the target mix and the account holdings.** That's a summary-first layout: the result at the top, the detail below. When you're doing the work for the first time, scroll down and start with what each account holds.
 
 ### The refill rule
 
@@ -286,27 +309,29 @@ The target is what the projection uses. Change it and the plan re-solves. Route 
 
 ### Common mistakes
 
+- **Reading the wrapper instead of the contents.** A 401(k) is not "stocks." Open it and see what's inside; that's the whole point of the account-holdings view.
 - **Bitcoin in Bridge.** Bitcoin belongs in Legacy. If you're planning to spend it inside 10 years, either the bucket or the plan is wrong.
 - **Cash in Legacy.** Cash has no place in a 10+ year bucket. A 401(k) in a stable-value fund is misclassified: Bridge risk in a Legacy slot.
 - **Reserve too small in retirement.** Once you're drawing income, the Reserve does more work. Its job in retirement is sequence-risk protection, not just emergencies.
 
 ### Your decision
 
-**A target size for each of your three buckets.**
+**Two things: a target mix across the six asset classes, and a target size for each of your three buckets.**
 
 How to think about it:
 
-1. **Reserve first, because it's the only one with a deadline.** It's already sized from the reserve lesson.
-2. **Bridge is driven by your timeline**, meaning the years between when the paycheck stops and when your other income turns on. If you're decades away, it's small. If you're close to retiring, it's the biggest decision on this page.
-3. **Legacy is what's left**, and it's where Bitcoin belongs, because it's the only bucket with enough time to survive a drawdown.
-4. **Compare targets to what you actually hold.** The gap between the two is your routing instruction for the next year.
+1. **Set the mix first**, because it decides what you buy. Give it a drift band you can live with; 5 points is the default and it's a reasonable starting place.
+2. **Reserve first among the buckets, because it's the only one with a deadline.** It's already sized from the reserve lesson.
+3. **Bridge is driven by your timeline**, meaning the years between when the paycheck stops and when your other income turns on. If you're decades away, it's small. If you're close to retiring, it's the biggest decision on this page.
+4. **Legacy is what's left**, and it's where Bitcoin belongs, because it's the only bucket with enough time to survive a drawdown.
+5. **Compare targets to what you actually hold.** The gap between the two is your routing instruction for the next year.
 
 ### Homework
 
-1. Open **Strategy → Allocation** and put every holding in a bucket: Reserve, Bridge, or Legacy.
-2. Set a target for each one so the app can tell you which is behind.
-3. The bucket furthest behind is where new dollars go first.
-
+1. Open **Strategy → Allocation → What each account holds** and read down the columns. Write the four numbers that come out: Bitcoin, stocks, bonds, cash, as percentages.
+2. Set your target mix so the six classes total 100%, and pick your drift band.
+3. Open **Sort accounts into buckets** and put every account in Reserve, Bridge, or Legacy yourself. Do not leave any on the inferred default.
+4. Compare the two cuts. If your mix is fine but your Legacy share is bigger than your years-to-retirement can carry, that is the gap to fix first.
 
 ## 4.4 Order your contributions: which account gets funded first
 *`TEACH` · 575 words · ~4 min*
@@ -559,7 +584,17 @@ Then flip the header **$ / ₿ toggle** in the top right. Your entire plan re-de
 
 The toggle is app-wide, not just on the Dashboard.
 
-### Step 2: Read the three timeframes and their sufficiency badges
+### Step 2: Read what each account holds
+
+**Strategy → Allocation → "What each account holds."** Every account as a row, with the holdings inside broken out by asset class: Bitcoin, stocks, bonds, real estate, cash, other.
+
+Read down the columns, not across the rows. Those totals are your mix.
+
+⚠ Two things only this view shows: an account is not one asset (a 401(k) is stocks *and* bonds), and one asset spreads across accounts.
+
+⚠ The timeframes section renders ABOVE this one. Summary at the top, detail below. Doing the work the first time, start down here.
+
+### Step 3: Read the three timeframes and their sufficiency badges
 
 Go to **Strategy → Allocation → Funding your timeframes**.
 
@@ -587,7 +622,7 @@ Above the rows, a strip reads either **Assigned accounts · projected** or **Pro
 | **Legacy = Behind**, Reserve and Bridge = Funded | Long-term compounding is short. | Route contributions to retirement wrappers (401(k), IRA), and any Bitcoin tier that fits your conviction. |
 | **Reserve = Behind and Legacy = Funded** | Common misfit. A volatile long-term asset is doing bucket-1 work. Common with Bitcoin-heavy stacks. | Reassign accounts in Step 3, or draw cash out of Legacy to backfill Reserve. |
 
-### Step 3: Sort your accounts into buckets
+### Step 4: Sort your accounts into buckets
 
 **Funding your timeframes → Assign accounts** opens a dialog titled **Sort accounts into buckets**.
 
@@ -606,7 +641,7 @@ The footer counter reads *"N accounts still unsorted"* until it flips to **"All 
 
 Close with **Done**. Watch the Funded / Behind badges update.
 
-### Step 4: Save your target mix
+### Step 5: Save your target mix
 
 **Allocation → Your target mix → Edit targets** (or **Set target mix** if none saved yet).
 
@@ -630,13 +665,13 @@ Two things to know:
 - The app records your target. It doesn't prescribe one. The number is yours to defend.
 - You don't assign holdings here. The editor's own note reads: *"You don't assign accounts here. Orange Plan rolls up what they hold automatically."*
 
-### Step 5: How the target actually gets used
+### Step 6: How the target actually gets used
 
 Stay on **Your target mix**.
 
 When new savings don't name a specific holding, the engine routes them by this target. Change the target, and the plan re-solves. The number you just saved is what runs the waterfall from tomorrow forward.
 
-### Step 6: Configure the 401(k) contribution row
+### Step 7: Configure the 401(k) contribution row
 
 **Cash Flow → Routing · waterfall order → Step 3 Contributions** → click the **401(k)** row.
 
@@ -671,7 +706,7 @@ If Fill to match shows greyed out with *"Fill to match is off"*, the row is tell
 
 To add an account type that isn't listed, click **+ Add account type** at the bottom.
 
-### Step 7: Route with AI
+### Step 8: Route with AI
 
 **Cash Flow → Routing · waterfall order → Route with AI** (top right of the section header).
 
@@ -687,7 +722,7 @@ Answer honestly, then wait until the review lands. Read at least one thing it su
 
 > ⚠ It reviews and explains. It does not decide.
 
-### Step 8: Compare the change in Scenarios
+### Step 9: Compare the change in Scenarios
 
 **Scenarios → Custom scenario** (header button) opens a **Create scenario** dialog.
 
@@ -697,7 +732,7 @@ Then run the built-in stress test: **What if... → Bear Market**. That preset d
 
 Ask yourself the stress-test question: could you sit through that scenario and do nothing? If not, the allocation is too high. Adjust the target in Step 4 and re-run.
 
-### Step 9: Review portfolio (AI)
+### Step 10: Review portfolio (AI)
 
 **Strategy → Allocation → Review portfolio** (page header).
 
@@ -711,7 +746,7 @@ Answer it out loud. If your honest answer is "a lifestyle expense I forgot to fu
 
 > ⚠ This review explores and explains. It won't tell you what your Bitcoin percentage should be.
 
-### Step 10: Confirm the record
+### Step 11: Confirm the record
 
 Back to **Allocation → Your target mix**.
 

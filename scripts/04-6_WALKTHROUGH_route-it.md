@@ -1,6 +1,6 @@
 # 4.6 · WALKTHROUGH — Route it
 
-**Screen capture · 10 steps · ~16 min**
+**Screen capture · 11 steps · ~16 min**
 
 > **DO** = click path · **SEE** = point at this · **⚠** = don't get this wrong
 > Narrate in your own words. Nothing here is scripted.
@@ -32,7 +32,21 @@
 
 ---
 
-## □ 2 · Three timeframes + badges
+## □ 2 · What each account holds — the inventory read
+
+**DO** Strategy → Allocation → scroll to **What each account holds**
+
+**SEE** Every account as a row, with the holdings inside it broken out by asset class: Bitcoin, stocks, bonds, real estate, cash, other
+
+**DO** Read DOWN the columns, not across the rows. Those totals are the mix.
+
+**⚠** Say the two things only this view shows: an account is not one asset (a 401(k) is stocks AND bonds), and one asset spreads across accounts.
+
+**⚠ Layout note, say it out loud:** the timeframes section renders ABOVE this one. Summary at the top, detail below. Doing the work the first time, you start down here.
+
+---
+
+## □ 3 · Three timeframes + badges
 
 **DO** Strategy → Allocation → **Funding your timeframes**
 
@@ -46,7 +60,7 @@
 
 ---
 
-## □ 3 · Sort accounts into buckets
+## □ 4 · Sort accounts into buckets
 
 **DO** Funding your timeframes → **Assign accounts** → dialog *"Sort accounts into buckets"*
 
@@ -58,7 +72,7 @@
 
 ---
 
-## □ 4 · Save your target mix
+## □ 5 · Save your target mix
 
 **DO** Allocation → Your target mix → **Edit targets / Set target mix**
 
@@ -76,7 +90,7 @@
 
 ---
 
-## □ 5 · How the target gets used
+## □ 6 · How the target gets used
 
 **DO** Stay on Your target mix
 
@@ -84,7 +98,7 @@
 
 ---
 
-## □ 6 · Configure the 401(k) row — SLOW DOWN
+## □ 7 · Configure the 401(k) row — SLOW DOWN
 
 **DO** Cash Flow → Routing → Step 3 Contributions → 401(k) row
 
@@ -110,7 +124,7 @@
 
 ---
 
-## □ 7 · Route with AI
+## □ 8 · Route with AI
 
 **DO** Routing section header → **Route with AI**
 
@@ -120,7 +134,7 @@
 
 ---
 
-## □ 8 · Compare in Scenarios
+## □ 9 · Compare in Scenarios
 
 **DO** Scenarios → **Custom scenario** → save the current setup (lands under Your scenarios)
 
@@ -130,7 +144,7 @@
 
 ---
 
-## □ 9 · Review portfolio (AI)
+## □ 10 · Review portfolio (AI)
 
 **DO** Strategy → Allocation → **Review portfolio** (page header)
 
@@ -144,7 +158,7 @@
 
 ---
 
-## □ 10 · Confirm the record
+## □ 11 · Confirm the record
 
 **DO** Back to Your target mix
 

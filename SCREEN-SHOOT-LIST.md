@@ -72,17 +72,18 @@ Before the first segment: seed the demo account with the couple's canonical numb
 - [ ] Your surplus is routed into **Step 3** of the waterfall.
 
 **Beats (tick as you capture):**
-1. ☐ **Step 1: Reality check on the Dashboard**
-2. ☐ **Step 2: Read the three timeframes and their sufficiency badges**
-3. ☐ **Step 3: Sort your accounts into buckets** — `Funding your timeframes → Assign accounts opens a dialog titled Sort accounts into buckets`
-4. ☐ **Step 4: Save your target mix** — `Allocation → Your target mix → Edit targets (or Set target mix if none saved yet)`
-5. ☐ **Step 5: How the target actually gets used**
-6. ☐ **Step 6: Configure the 401(k) contribution row** — `Cash Flow → Routing · waterfall order → Step 3 Contributions → click the 401(k) row`
-7. ☐ **Step 7: Route with AI** — `Cash Flow → Routing · waterfall order → Route with AI (top right of the section header)`
-8. ☐ **Step 8: Compare the change in Scenarios** — `Scenarios → Custom scenario (header button) opens a Create scenario dialog`
-9. ☐ **Step 9: Review portfolio (AI)** — `Strategy → Allocation → Review portfolio (page header)`
-10. ☐ **Step 10: Confirm the record**
-11. ☐ **What good looks like**
+1. ☐ **Step 2: Read what each account holds** — `Strategy → Allocation → "What each account holds" — read DOWN the columns`
+2. ☐ **Step 1: Reality check on the Dashboard**
+3. ☐ **Step 2: Read the three timeframes and their sufficiency badges**
+4. ☐ **Step 3: Sort your accounts into buckets** — `Funding your timeframes → Assign accounts opens a dialog titled Sort accounts into buckets`
+5. ☐ **Step 4: Save your target mix** — `Allocation → Your target mix → Edit targets (or Set target mix if none saved yet)`
+6. ☐ **Step 5: How the target actually gets used**
+7. ☐ **Step 6: Configure the 401(k) contribution row** — `Cash Flow → Routing · waterfall order → Step 3 Contributions → click the 401(k) row`
+8. ☐ **Step 7: Route with AI** — `Cash Flow → Routing · waterfall order → Route with AI (top right of the section header)`
+9. ☐ **Step 8: Compare the change in Scenarios** — `Scenarios → Custom scenario (header button) opens a Create scenario dialog`
+10. ☐ **Step 9: Review portfolio (AI)** — `Strategy → Allocation → Review portfolio (page header)`
+11. ☐ **Step 10: Confirm the record**
+12. ☐ **What good looks like**
 
 ---
 

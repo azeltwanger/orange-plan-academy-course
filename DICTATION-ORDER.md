@@ -3,7 +3,7 @@
 Read top to bottom. Nothing below depends on a decision you haven't made yet,
 as long as you settle the five things in the next section first.
 
-**41 teach lessons · 55,848 words · 6.0 hours of finished audio at 155 wpm.**
+**41 teach lessons · 56,336 words · 6.1 hours of finished audio at 155 wpm.**
 
 Walkthroughs are not on this list. They're screen captures you narrate in your
 own words off the DO / SEE / ⚠ sheets, and they happen after the teach lessons
@@ -89,13 +89,13 @@ assumes it's been said. Don't skip past it.
 | 3.2 | Size your cash reserve in months of spending | 11.0 | **Already dictated.** Skip unless you want a retake. |
 | 3.3 | Fund known future costs: college, cars, a house, repairs | 6.9 | Module-final: hand-off |
 
-### Module 3 — Allocation · 35.4 min
+### Module 3 — Allocation · 40.5 min
 
 | # | Lesson | min |
 |---|---|---|
 | 4.1 | Pick your Bitcoin allocation tier | 6.8 |
 | 4.2 | Stress-test the allocation you can actually hold | 6.4 |
-| 4.3 | Split your money into Reserve, Bridge, and Legacy | 6.7 |
+| 4.3 | Break your accounts down by holding type, then by timeframe | 11.8 |
 | 4.4 | Order your contributions: which account gets funded first | 8.6 |
 | 4.5 | Asset location: which account each holding belongs in | 6.9 · module-final: hand-off |
 
