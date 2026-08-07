@@ -4632,9 +4632,36 @@ Then watch the module walkthrough below this video, where we complete the Protec
 
 ---
 
-Companion walkthrough for Module 8, and the module's hand-off target. Seven chapters, filmed as one session: **Protect overview → beneficiaries and executor → confirm the access design → heir letter → dead man's switch → projected legacy and estate summary → the optional trust gate.**
+Companion walkthrough for Module 8, and the module's hand-off target. Eight chapters, filmed as one session: **Protect overview → beneficiaries and executor → confirm the access design → heir letter → dead man's switch → projected legacy and estate summary → the estate-complexity gate → the family handoff review.**
 
 The full DO / SEE / ⚠ sheet lives in `scripts/09-5_WALKTHROUGH_estate.md`.
+
+### The estate-complexity gate replaces the net-worth trust gate
+
+⚠ **Net worth is an input, not the gate.** A family with $400,000, two young kids, a business and a blended household can need more planning than a single person with $3 million and a simple life.
+
+**Triggers:** blended family · minor children · multiple heirs · business ownership · heavy Bitcoin concentration · probate or privacy concerns · incapacity planning · assets or property in more than one state · an advanced custody setup somebody has to operate after you.
+
+| Level | What it is | Typically |
+|---|---|---|
+| 1 · Basic cleanup | Beneficiary forms, executor asked out loud, a letter | No attorney strictly required |
+| 2 · Local estate plan | Will, POA, healthcare directive | Attorney licensed in your state |
+| 3 · Trust or coordinated plan | A trust, coordinated with the custody design | Attorney + CPA |
+| 4 · Advanced estate, tax and custody planning | Multiple specialists working together | A coordinated team |
+
+The question each level answers is **which one deserves a professional conversation.** Most households land at 1 or 2 and are finished.
+
+✅ **"No" is a finished answer.** *"A basic estate plan is sufficient right now. A trust is not currently indicated."* Recorded with a date, that is a completed decision — next year checks whether a trigger changed rather than starting over.
+
+### The family handoff review
+
+Not in the app. The documents don't work if the family has never heard about them.
+
+⚠ **This meeting is not where secrets get revealed.** No seed words, PINs, passphrases, or device handling. It's where the family learns what exists and how to start.
+
+**Bitcoin Family Handoff Review:** 1. Why this plan exists · 2. Who to contact first · 3. Where the legal documents live · 4. Where the no-secrets access map lives · 5. What not to do · 6. What is still confusing · 7. Who owns each follow-up.
+
+Item 6 earns the meeting — if nobody says anything is confusing, the question was asked wrong. Item 7 stops it being a conversation everyone forgets.
 
 <!-- ADVANCED-GATE:START -->
 

@@ -27,7 +27,7 @@ And then 10 years or more is where a planned Bitcoin sell schedule can actually 
 
 == PRE-FUNDING VERSUS PAYING FROM FLOW ==
 
-Now here's where I want to be careful, because this is the spot where a lot of financial planning goes sideways for a Bitcoiner.
+I want to be careful in this section, because it's the spot where a lot of financial planning goes sideways for a Bitcoiner.
 
 There are two ways to handle any known cost, and the right one depends on the size of it.
 

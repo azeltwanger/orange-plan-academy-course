@@ -61,11 +61,46 @@ Finish with **Download PDF**, and store it separately from your seeds and hardwa
 
 Finish with **Download estate summary** and **Protection tier → Mark as reviewed**.
 
-## G. The trust gate (optional)
+## G. The estate-complexity gate
 
-Most households stop above this. A will, current beneficiary forms, a briefed executor, a letter, and an armed switch is a complete estate plan for the large majority.
+⚠ **Net worth is an input, not the gate.** A family with $400,000, two young kids, a business and a blended household can need more planning than a single person with $3 million and a simple life. Count the triggers, not the balance.
+
+**Triggers: how many are true for you?**
+
+blended family · minor children · multiple heirs · business ownership · heavy Bitcoin concentration · probate or privacy concerns · incapacity planning · assets or property in more than one state · an advanced custody setup somebody has to operate after you
+
+**Then place yourself. The question each level answers is: which one deserves a professional conversation?**
+
+| Level | What it is | Typically |
+|---|---|---|
+| 1 · Basic cleanup | Beneficiary forms, executor asked out loud, a letter | No attorney strictly required |
+| 2 · Local estate plan | Will, POA, healthcare directive | Attorney licensed in your state |
+| 3 · Trust or coordinated plan | A trust, coordinated with the custody design | Attorney + CPA |
+| 4 · Advanced estate, tax and custody planning | Multiple specialists working together | A coordinated team |
+
+**Most households land at 1 or 2 and are finished.** A will, current beneficiary forms, a briefed executor, a letter, and an armed switch is a complete estate plan for the large majority.
+
+✅ **"No" is a finished answer.** *"A basic estate plan is sufficient right now. A trust is not currently indicated."* Write it down with the date. Next year you are checking whether a trigger changed, not starting over.
 
 If the gate does light up, go to **Advanced Estate Planning → "Do you need a trust, and which one?"** for the prudent-investor duty and the waiver that stops a trustee being obliged to sell the exact asset the trust was built to hold.
+
+## H. The family handoff review
+
+The documents do not work if the family has never heard about them. Sit down with whoever would actually have to act.
+
+⚠ **This meeting is not where secrets get revealed.** No seed words, no PINs, no passphrases, no device handling. It is where the family learns what exists and how to start.
+
+**Bitcoin Family Handoff Review, the agenda**
+
+1. Why this plan exists
+2. Who to contact first
+3. Where the legal documents live
+4. Where the no-secrets access map lives
+5. What not to do
+6. What is still confusing
+7. Who owns each follow-up
+
+Item 6 is what earns the meeting: if nobody says anything is confusing, you asked wrong. Item 7 is what stops it being a conversation everyone forgets.
 
 ## You are done when
 
@@ -76,4 +111,5 @@ If the gate does light up, go to **Advanced Estate Planning → "Do you need a t
 - The heir letter is written in your own words, the PDF is saved, stored away from seeds and devices
 - The switch is armed and its recipients have been told
 - The estate summary is downloaded and the tier marked reviewed
-- The trust gate has been run once and given an actual answer
+- The estate-complexity triggers are counted, your level is named, and the answer is written down with a date (including "trust not currently indicated," which counts as done)
+- The family handoff review is booked, with the seven-item agenda and the no-secrets rule understood

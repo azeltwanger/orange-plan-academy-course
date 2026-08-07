@@ -261,11 +261,44 @@
 
 ## □ G1 · Run the gate, then stop or continue
 
-**DO** Read the projected estate number against the trust gate from the advanced lesson
+**⚠ Say the correction out loud, because people expect a net-worth number here.** Net worth is *an* input, not the gate. A family with $400,000, two young kids, a business and a blended household can need more planning than a single person with $3 million and a simple life. Run the triggers, not the balance.
 
-**⚠ Say plainly that most households stop here.** A will, current beneficiary forms, a briefed executor, a letter, and an armed switch is a complete estate plan for the large majority.
+**DO** Read the trigger list and count how many are true
+
+**⚠ The triggers:** a blended family · minor children · multiple heirs · business ownership · heavy Bitcoin concentration · probate or privacy concerns · incapacity planning · assets or property in more than one state · an advanced custody setup somebody has to operate after you.
+
+**⚠ Then place yourself on the four levels, and say the question the level actually answers: which level deserves a professional conversation?**
+
+1. **Basic cleanup** — beneficiary forms, an executor asked out loud, a letter. No attorney strictly required.
+2. **Local estate plan** — will, POA, healthcare directive, drafted by an attorney licensed in your state.
+3. **Trust or coordinated plan** — a trust, coordinated with the custody design and the CPA.
+4. **Advanced estate, tax, and custody planning** — specialists, plural, working together.
+
+**⚠ Say plainly that most households land at 1 or 2 and are finished.** A will, current beneficiary forms, a briefed executor, a letter, and an armed switch is a complete estate plan for the large majority.
+
+**⚠ And say that "no" is a finished answer.** *"A basic estate plan is sufficient right now. A trust is not currently indicated."* That's a completed decision, not an open item. Write it down with the date, because next year you're checking whether a trigger changed, not starting over.
 
 **⚠** If the gate does light up, point at **Advanced Estate Planning → 9.5**, and say the one thing that lesson exists for: the **prudent-investor duty can force a trustee to sell the exact asset the trust was built to hold**, and the waiver that prevents it has to be drafted in deliberately.
+
+---
+
+## □ G2 · The family handoff review
+
+**⚠** Last thing, and it isn't in the app. The documents don't work if the family has never heard about them. Book a sitting with whoever would actually have to act.
+
+**⚠ Say what this meeting is not: it is not where secrets get revealed.** No seed words, no PINs, no passphrases, no device handling. It's where the family learns what exists and how to start.
+
+**⚠ The agenda, seven items:**
+
+1. Why this plan exists
+2. Who to contact first
+3. Where the legal documents live
+4. Where the no-secrets access map lives
+5. What not to do
+6. What is still confusing
+7. Who owns each follow-up
+
+**⚠** Item 6 is the one that earns the meeting. If nobody says anything is confusing, you asked wrong. Item 7 is what keeps it from being a conversation everybody forgets.
 
 ---
 
@@ -278,7 +311,8 @@
 - [ ] Heir letter written (not template text), PDF on disk, stored away from seeds and devices
 - [ ] Switch armed, recipients told in advance, one check-in done on camera
 - [ ] Estate summary downloaded, tier marked reviewed
-- [ ] Trust gate run, with "most households stop here" said out loud
+- [ ] Estate-complexity triggers counted, level named (1-4), and the answer written down with a date — including "trust not currently indicated," which counts as done
+- [ ] Family handoff review booked, with the seven-item agenda and the no-secrets rule stated
 
 **⚠** Close on the readiness bar. The difference between the start of this capture and the end is what an afternoon of estate work is worth.
 
