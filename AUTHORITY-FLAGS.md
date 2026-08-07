@@ -101,7 +101,7 @@ from two months to one was a judgment (C). Small, but it is the same move.
 **Austin decides:** November, or restore "October or November" and fix only the
 walkthrough.
 
-### F5 · Bitcoin-backed loan LTV: 10–20% → 10–15%
+### F5 ✅ RESOLVED · Bitcoin-backed loan LTV — 10 to 20% depending on risk tolerance
 
 **What Austin said.** Two different things. The master: *"Austin's default is 10
 to 20% LTV."* The script: *"My own default is 10 to 15% LTV."*
@@ -113,7 +113,35 @@ This is the highest-stakes number in the Academy — it sets how much someone
 borrows against their Bitcoin. **It should not have been resolved by an editor
 picking the tighter figure.**
 
-**Austin decides.** Which is your default?
+**Austin's ruling (2026-08-08):** *"10-20% depending on risk tolerance."*
+
+**Restored 2026-08-08.** The range is the answer, and *"depending on risk
+tolerance"* is the part the narrowing destroyed: a single figure cannot carry a
+tolerance decision. Every layer now states 10–20% and shows what each end buys,
+derived from the lesson's own liquidation formula against an 80% line:
+
+| Starting LTV | Liquidated at | Survives |
+|---|---|---|
+| 10% | a fall of about 87% | every drawdown in Bitcoin's history |
+| 15% | a fall of about 81% | 2022 (−77%), not 2018 (−84%) |
+| 20% | a fall of 75% | neither 2022 nor 2018 |
+
+Changed: `scripts/advanced/A3-1` (×2), `scripts/advanced/07-4`,
+`lesson-text/advanced/A4-1` (×2), `lesson-text/advanced/07-4`,
+`MASTER-ADVANCED.md` (×3), plus regenerated modules.
+
+**Corroborating evidence I should have caught before choosing.** A4.1's own
+flagship worked example borrows at a **20% starting LTV** for the kitchen
+renovation. Narrowing the default to 10–15% put the lesson's central example
+outside the range the same lesson told students to stay inside. A rule that
+contradicts its own worked example is a signal the rule was invented, not
+recorded.
+
+**Capacity arithmetic, re-derived at the restored range.** $600,000 collateral
+at 10–20% = $60,000 to $120,000. The teaching point survives and sharpens: at
+the cautious end, capacity does not cover even one $80,000 year; at the
+aggressive end, one year consumes two thirds of everything. There is no second
+year at either end.
 
 ### F6 · The Level 2 access design
 
@@ -156,6 +184,17 @@ error with a single correct answer:
 - **$600k vs $400k taxable Bitcoin** — 7.3 divides $600,000 by $80,000 to get
   ~7.5 years, and the demo seed is $600k. Advanced 7.4 used $400k. One of them
   is wrong and the arithmetic says which.
+  **Second sweep, 2026-08-08:** the first pass fixed the *scripts* and left two
+  layers behind. `MASTER-COURSE.md` still had the couple's balances **swapped**
+  ($400k taxable / $600k traditional, the mirror of the script) and drew the
+  wrong conclusion from them: *"$400,000 ÷ $80,000 ≈ 5 years"* and *"they spent
+  five years sitting in their cheapest brackets"*, against the script's 7.5
+  years and seven. `lesson-text/advanced/07-4` carried $400k in its setup line
+  and a $300k step-up gain instead of $500k. Both corrected; `modules/` and
+  `modules/advanced/` regenerated. This is the standing hazard firing in the
+  direction nobody watches — **a script edit never reaches the master**, and the
+  student read layer is generated from the master, so the wrong number was the
+  one students would have read.
 - **The 4.4 balance sheet** summing to $385,000 against the canonical $295,000.
 - **The 99% confidence line** — "a plan that only survives at 99% confidence is
   built on optimism" is backwards. A high modelled success rate means the

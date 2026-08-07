@@ -3,6 +3,8 @@
 ## 7.2 Health insurance between retiring and Medicare
 *`TEACH` · 800 words · ~6 min*
 
+> **Gate.** Watch this if your plan has you stopping work before 65. If your retirement date is 65 or later, Medicare starts when the paycheck stops and this does not apply to you.
+
 **By the end of this lesson, you can:**
 
 - Compare COBRA, ACA marketplace, and health-sharing for early retirement
@@ -109,6 +111,8 @@ Most people have never seen those three numbers side by side. The comparison is 
 ## 7.4 Sell, borrow, or hold: funding a year of spending
 *`TEACH` · 730 words · ~5 min*
 
+> **Gate.** Watch this once you are inside about five years of retiring, or already drawing income. It prices the three ways to fund a year against each other; before that, the withdrawal order in core is the decision that matters.
+
 *Advanced. Borrow-vs-sell is a decision that only fires if you're considering asset-backed lending against Bitcoin. Skim unless the trigger applies to you.*
 
 **By the end of this lesson, you can:**
@@ -124,7 +128,7 @@ Three ways to fund your life from a Bitcoin-heavy plan. Each costs something dif
 
 - Age 60
 - Spending $80,000/yr
-- $400,000 taxable Bitcoin
+- $600,000 taxable Bitcoin
 - $120,000 Reserve
 
 ### Tool 1: Sell (buying simplicity)
@@ -156,14 +160,15 @@ The ratio moves for two reasons:
 
 The ratio can climb fast without you doing anything. The starting ratio is the whole decision.
 
-**The couple's borrowing capacity, priced.** Austin's default is 10 to 20% LTV.
+**The couple's borrowing capacity, priced.** Austin's default is 10 to 20% LTV depending on risk tolerance, the same range A4.1 sizes the cushion against.
 
-- 10-20% of $400,000 collateral = $40,000 to $80,000 of capacity.
-- One year of spending is the entire capacity at the conservative limit.
+- 10-20% of $600,000 collateral = $60,000 to $120,000 of capacity.
+- At the cautious end, $60,000 does not cover even one year of their $80,000 spending. At the aggressive end, one year is two thirds of the whole capacity.
+- Either way there is no second year. Trying for one puts them at a ratio a normal bear market liquidates.
 
 Add a year of interest. At 10-11%, $80,000 grows to about $88,000 a year later with nothing paid.
 
-Drop Bitcoin 50%. Collateral is now $200,000. $88,000 against $200,000 = **44% LTV**.
+Drop Bitcoin 50%. Collateral is now $300,000. $88,000 against $300,000 = **29% LTV**, and a 75% drop — the normal Bitcoin bear — puts it at **59%**, inside margin-call territory.
 
 The cushion is gone. They can't borrow again next year, and they're one leg down from liquidation.
 
@@ -180,11 +185,11 @@ Borrowing is a tool for a year, not a plan for a decade.
 
 Don't touch the Bitcoin. Spend from the Reserve ($120,000).
 
-The $400,000 keeps compounding.
+The $600,000 keeps compounding.
 
 Under current law (verify), it passes to heirs with a **step-up in basis**. If their basis is $100,000:
 
-- $400,000 - $100,000 = **$300,000** of embedded gain that passes untaxed.
+- $600,000 - $100,000 = **$500,000** of embedded gain that passes untaxed.
 
 That turns "not selling" from a preference into a tax strategy.
 

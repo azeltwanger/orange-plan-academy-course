@@ -55,7 +55,11 @@ Now borrow $6,250 instead, which is a 12.5% starting LTV. The liquidation point 
 
 Notice what happened. You cut the starting LTV in half, and the danger line moved dramatically further away. That's the lever, and it's the only one you get.
 
-So if you're going to borrow against Bitcoin, size the cushion to survive a 70 to 80% drawdown at minimum, because that's the normal Bitcoin cycle and not a worst case. In practice that usually means starting at 10 to 15% LTV, not the 40 or 50% a lender will happily hand you.
+So if you're going to borrow against Bitcoin, size the cushion to survive a 70 to 80% drawdown at minimum, because that's the normal Bitcoin cycle and not a worst case. In practice that means starting somewhere between 10 and 20% LTV, not the 40 or 50% a lender will happily hand you.
+
+Where you land inside that range is a risk tolerance call, and the two ends buy you genuinely different things. Run the same arithmetic we just did. At a 10% starting LTV against an 80% liquidation line, Bitcoin has to fall about 87% before you're liquidated, and it has never fallen that far. At 20%, the liquidation point is a 75% fall. 2022 was 77%. 2018 was 84%. So the bottom of that range survives everything that's ever happened, and the top of it wouldn't have survived either of the last two bear markets.
+
+That's the tradeoff, and it's yours to make. What matters is that you make it on purpose, and that you know which number you picked and what it costs you.
 
 == A WORKED EXAMPLE ==
 
@@ -115,7 +119,7 @@ I'll say the obvious thing here, because borrowing against your Bitcoin is the h
 
 Five rules, and I'd write these down before you borrow a single dollar.
 
-One: start low enough to survive a 70 to 80% drawdown. For most people that's going to mean 10 to 15%.
+One: start low enough to survive a 70 to 80% drawdown. That means somewhere between 10 and 20%, and the more of that drawdown you want to live through, the closer to 10 you start.
 
 Two: keep unpledged Bitcoin or cash that you can reach fast, so a margin call actually has a good answer.
 

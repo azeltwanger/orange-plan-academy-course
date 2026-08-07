@@ -2,7 +2,7 @@
 
 *Advanced: the borrow half only fires if you're considering Bitcoin-backed lending.*
 
-Three ways to fund a year of life, priced on the same year: age 60, $80k spending, $400k taxable BTC, $120k reserve.
+Three ways to fund a year of life, priced on the same year: age 60, $80k spending, $600k taxable BTC, $120k reserve.
 
 ## Sell: buying simplicity
 
@@ -10,11 +10,11 @@ $80k sale ≈ $20k basis + $60k long-term gain, which can land in the 0% bracket
 
 ## Borrow: buying upside
 
-No taxable event; Bitcoin keeps compounding. **The decision is the starting LTV**, and the ratio moves on its own: interest pushes the loan up, price drops pull collateral down. At a 10–20% LTV default, $400k of collateral = $40–80k capacity. **One year of spending is the whole capacity.** After a year at ~10–11% interest and a 50% drawdown: $88k on $200k = 44% LTV, cushion gone. Borrow from strength, never from a corner. A tool for a year, not a plan for a decade.
+No taxable event; Bitcoin keeps compounding. **The decision is the starting LTV**, and the ratio moves on its own: interest pushes the loan up, price drops pull collateral down. At a 10–20% default (where you land is a risk tolerance call), $600k of collateral = $60–120k capacity. **At the cautious end that does not cover even one year; at the aggressive end one $80k year is two thirds of everything.** Either way there is no second year. After a year at ~10–11% interest: $88k on $300k after a 50% drawdown = 29% LTV; on $150k after a 75% drawdown = 59%, margin-call territory with one leg down to liquidation. Borrow from strength, never from a corner. A tool for a year, not a plan for a decade.
 
 ## Hold: buying compounding, and maybe more
 
-Spend from the reserve; touch nothing. Under current law (verify), Bitcoin passes to heirs with a **step-up in basis**: $300k of embedded gain can pass untaxed. That turns "never sell" from a preference into an estate strategy, as long as Reserve and Bridge fund it.
+Spend from the reserve; touch nothing. Under current law (verify), Bitcoin passes to heirs with a **step-up in basis**: on a $100k basis, $500k of embedded gain can pass untaxed. That turns "never sell" from a preference into an estate strategy, as long as Reserve and Bridge fund it.
 
 ## In the app
 

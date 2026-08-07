@@ -25,7 +25,9 @@ The entire decision here is the LTV, the loan-to-value ratio, which is the loan 
 
 And that ratio moves on its own, for two reasons. Interest pushes the loan balance up, and a price drop pulls the collateral down. So the ratio can climb fast without you doing anything at all. That's why the starting ratio is the whole decision.
 
-Let me price the couple's actual borrowing capacity. My own default is 10 to 15% LTV. On their $600,000 of collateral, that's $60,000 to $90,000 of capacity. Notice what that means: a single year of spending, $80,000, eats most of the capacity they have at a conservative LTV. Do it two years running and they're borrowing at a ratio that a normal bear market liquidates.
+Let me price the couple's actual borrowing capacity. My own default is 10 to 20% LTV, depending on how much risk you're willing to carry. On their $600,000 of collateral, that's $60,000 to $120,000 of capacity.
+
+Notice what that means. At the cautious end of my range, $60,000 doesn't even cover one year of their spending. At the aggressive end, one year at $80,000 is two thirds of everything they've got. So there is no version of this where borrowing funds two years running. Try it and they're at a ratio a normal bear market liquidates.
 
 Now watch what a year does to it. At a 10 to 11% rate, the $80,000 loan grows to about $88,000 a year later with nothing paid. Then drop Bitcoin 50%, which is normal, not extreme. The collateral is now $300,000, so $88,000 against $300,000 is 29% LTV. Take it to a 75% drop, which is the normal Bitcoin bear, and they're at 59%, which is margin-call territory. They can't borrow again next year, and they're one more leg down from liquidation.
 

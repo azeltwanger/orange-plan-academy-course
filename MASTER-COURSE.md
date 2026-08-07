@@ -14,7 +14,7 @@ then M1–M9) in course order. The optional library lives in `MASTER-ADVANCED.md
 | | Lessons | Runtime |
 |---|---|---|
 | **Core** — Build Your Bitcoin Financial Plan (required) | 27 teach | **233 min (3.9 h)** |
-| **Advanced Library** — optional, gated per lesson | 14 teach | 106 min |
+| **Advanced Library** — optional, gated per lesson | 14 teach | 107 min |
 
 Plus 11 core screen captures, narrated off the DO / SEE / ⚠ sheets rather than read.
 
@@ -3058,13 +3058,13 @@ When taxable finally runs dry, all your spending has to come out of the traditio
 
 ### The couple, strict order
 
-Age 60, retired, $80,000 in spending. $400,000 taxable Bitcoin plus $600,000 traditional.
+Age 60, retired, $80,000 in spending. $600,000 taxable Bitcoin plus $400,000 traditional.
 
-**Years 1-5 (strict):** Spend from taxable. $400,000 ÷ $80,000 ≈ 5 years. Income is low, tax bill is near zero. The $600,000 traditional compounds untouched.
+**Years 1-7 (strict):** Spend from taxable. $600,000 ÷ $80,000 ≈ 7.5 years. Income is low, tax bill is near zero. The $400,000 traditional compounds untouched.
 
-**Year 6:** Taxable is empty. Every dollar comes from traditional as ordinary income. Near-zero tax bill jumps to filling a much higher bracket in one year. On a balance bigger than when they retired. Right before RMDs start.
+**Year 8:** Taxable is empty. Every dollar comes from traditional as ordinary income. Near-zero tax bill jumps to filling a much higher bracket in one year. On a balance bigger than when they retired. Right before RMDs start.
 
-They spent five years sitting in their cheapest brackets without using them.
+They spent seven years sitting in their cheapest brackets without using them.
 
 Following the strict order doesn't save tax overall. It just moves the bill to your worst year.
 

@@ -44,7 +44,17 @@ The gap between your starting LTV and the liquidation line is the entire drawdow
 
 Halving the starting LTV moves the danger line dramatically further away. **That is the lever, and it is the only one you get.**
 
-**Size the cushion for a 70 to 80% drawdown minimum**, because that is a normal Bitcoin cycle and not a worst case. In practice that means starting at **10 to 15% LTV**, not the 40 or 50% a lender will happily hand you.
+**Size the cushion for a 70 to 80% drawdown minimum**, because that is a normal Bitcoin cycle and not a worst case. In practice that means starting somewhere between **10 and 20% LTV**, not the 40 or 50% a lender will happily hand you.
+
+Where you land inside that range is a risk tolerance call, and the ends buy different things:
+
+| Starting LTV | Liquidation at an 80% line | Survives |
+|---|---|---|
+| 10% | a fall of about 87% | every drawdown in Bitcoin's history |
+| 15% | a fall of about 81% | 2022 (−77%), not 2018 (−84%) |
+| 20% | a fall of 75% | neither 2022 nor 2018 |
+
+Both ends are defensible. Pick on purpose, and know what the choice costs you.
 
 ## A worked example
 
@@ -93,7 +103,7 @@ A 75% drawdown, a completely normal Bitcoin bear market, takes them from 20% rig
 
 ## The rules to write down before you borrow
 
-1. Start low enough to survive a 70 to 80% drawdown. For most people, 10 to 15%.
+1. Start low enough to survive a 70 to 80% drawdown: somewhere between 10 and 20%, closer to 10 the more of that drawdown you want to live through.
 2. Keep unpledged Bitcoin or cash you can reach fast.
 3. Know your lender's three lines, written where you will find them.
 4. Decide your action at each line in writing, while nothing is falling.

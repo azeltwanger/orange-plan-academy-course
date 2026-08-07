@@ -152,7 +152,17 @@ Post $50,000 of Bitcoin as collateral with a lender whose liquidation LTV is 80%
 
 Bitcoin fell 84% in 2018 and 77% in 2022, so a 69% cushion sits inside drawdowns that have actually happened. Cut the starting LTV in half and the danger line moves dramatically further away. **That's the lever, and it's the only one you get.**
 
-Size the cushion to survive a 70–80% drawdown at minimum, because that's the normal Bitcoin cycle and not a worst case. In practice that usually means starting at **10–15% LTV**, not the 40 or 50% a lender will happily hand you.
+Size the cushion to survive a 70–80% drawdown at minimum, because that's the normal Bitcoin cycle and not a worst case. In practice that means starting somewhere between **10 and 20% LTV**, not the 40 or 50% a lender will happily hand you.
+
+Where you land inside that range is a risk tolerance call (Austin, 2026-08-08), and the ends buy different things:
+
+| Starting LTV | Liquidation at an 80% line | Survives |
+|---|---|---|
+| 10% | a fall of about 87% | every drawdown in Bitcoin's history |
+| 15% | a fall of about 81% | 2022 (−77%), not 2018 (−84%) |
+| 20% | a fall of 75% | neither 2022 nor 2018 |
+
+Both ends are defensible. The worked example below sits at 20%, the top of the range.
 
 ### A worked example
 
@@ -215,7 +225,7 @@ No company names here; that landscape changes and any list goes stale. The struc
 
 ### The rules to write down before you borrow
 
-1. **Start low enough to survive a 70–80% drawdown.** For most people, 10–15%.
+1. **Start low enough to survive a 70–80% drawdown.** Somewhere between 10 and 20%, closer to 10 the more of that drawdown you want to live through.
 2. **Keep unpledged Bitcoin or cash you can reach fast**, so a margin call has a good answer.
 3. **Know your lender's three lines**, written down where you'll find them.
 4. **Decide your action at each line in writing**, while nothing is falling.
@@ -975,10 +985,11 @@ The ratio moves for two reasons:
 
 The ratio can climb fast without you doing anything. The starting ratio is the whole decision.
 
-**The couple's borrowing capacity, priced.** Austin's default is 10 to 15% LTV — the same number A4.1 sizes the cushion against.
+**The couple's borrowing capacity, priced.** Austin's default is 10 to 20% LTV depending on risk tolerance, the same range A4.1 sizes the cushion against.
 
-- 10-15% of $600,000 collateral = $60,000 to $90,000 of capacity.
-- One year of spending, $80,000, eats most of it. Two years running puts them at a ratio a normal bear market liquidates.
+- 10-20% of $600,000 collateral = $60,000 to $120,000 of capacity.
+- At the cautious end, $60,000 does not cover even one year of their $80,000 spending. At the aggressive end, one year is two thirds of the whole capacity.
+- Either way there is no second year. Trying for one puts them at a ratio a normal bear market liquidates.
 
 Add a year of interest. At 10-11%, $80,000 grows to about $88,000 a year later with nothing paid.
 
