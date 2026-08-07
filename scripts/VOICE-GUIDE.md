@@ -349,3 +349,39 @@ the course cannot tell what the lesson is about from the title, retitle it.
 Filenames derive from titles (`tools/build-scripts.py` slugs them), so a
 retitle renames files. Use `git mv` and re-run the generators; the protected
 dictation files are keyed on lesson NUMBER, not filename, so they survive.
+
+## Voice comparison against 3.2 — `tools/voice-compare.py` (2026-08-08)
+
+Austin asked for every rewritten script to be measured against his own
+dictation before it goes on the dictation list. `03-2` is the master. Running
+it across all 40 AI-written teach scripts found two corpus-wide gaps, and
+neither should be fixed by rewriting.
+
+| metric | Austin (03-2) | AI scripts | verdict |
+|---|---|---|---|
+| **"going to" per 1k words** | **24.9** | **0.6 – 4.0** | 6–40x gap. THE tell. |
+| **median sentence length** | **18 words** | 9 – 14 | he unpacks; drafts compress |
+| chaining opener | 13% | 4 – 23% | in range |
+| article opener | 22% | 13 – 33% | in range |
+| "I think" per 1k | 2.4 | 0 – 2.1 | slightly low, tolerable |
+| "because" per 1k | 4.3 | 0.6 – 9.8 | in range |
+
+**Do NOT mass-inject "going to" or lengthen sentences mechanically.** That is
+the substitution trap this project has already hit twice: a 39x "The first is"
+-> "The first one is" swap installed a new uniform formula, and the "Here's"
+sweep had to be checked afterward for exactly the same failure. A script with
+"going to" stamped into it every forty words reads worse than one without.
+
+The correct read is the opposite. These are teleprompter scripts, and all three
+of Austin's dictations show he adds the future-tense scaffolding and the longer
+unpacked sentences **himself, on the take**, without being prompted. The gap
+closes at the microphone, not in the file. What the measurement is good for:
+
+- Telling Austin what to lean into while recording, when a script feels clipped.
+- Catching a script that drifts the OTHER way (over-chained, spelled-out
+  numbers, an abstract-noun pile showing up as a high article-opener rate).
+- Confirming after a rewrite that nothing new was installed at tic level.
+
+Run it on anything rewritten:
+
+    python3 tools/voice-compare.py scripts/09-2*
