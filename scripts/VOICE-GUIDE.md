@@ -159,9 +159,13 @@ lesson video, so "below this video" is literal.
 a hand-off on lesson 1 of 5 promises a walkthrough that isn't below it.
 Module-final teach lessons, as of this writing:
 
-  M1 2.3 · M2 3.3 · M3 4.5 · M4 5.5 · M5 6.4 · M6 7.5 · M7 8.5 · M8 9.5 ·
-  M9 10.2 · M10 11.1 and 11.3 (that module interleaves teach/walkthrough,
-  so both get one). Module 0 (1.1) has no walkthrough and gets none.
+  M1 2.3 · M2 3.3 · M3 4.5 · M5 6.4 · M6 7.5 · M7 8.5 · M9 10.2 ·
+  M10 11.1 and 11.3 (that module interleaves teach/walkthrough, so both get
+  one). Module 0 has no walkthrough and gets none. **Modules 4 and 8 get NO
+  hand-off** (2026-08-07): their lessons are hybrids whose screen half is the
+  second half of the SAME video, so there is nothing "below this video" to
+  point at. The standalone check-your-work walkthroughs that used to sit
+  there (5.6, 9.6) were cut.
 
 Every other teach lesson ends on its homework and stops.
 
@@ -215,3 +219,46 @@ follows on its own.
 Take the lesson's idea, then ask: how would a financial planner explain this to
 a friend across the table, on the first take, with digits on a napkin? Write
 that down. If a sentence sounds quotable, rewrite it until it sounds said.
+
+## Repetition budget (Austin, 2026-08-07)
+
+An idea taught once lands. The same idea taught seven times reads as padding
+and costs real course minutes. Two rules came out of the 2026-08-07 filler
+sweep:
+
+- **Teach a cross-cutting tool ONCE, in its own lesson.** The AI was being
+  re-explained in 8 walkthroughs (853 words, ~6 minutes) with the same caveat
+  worded four different ways. It now lives in 1.2, and every later beat is
+  reduced to three things: which button, what it reads on THAT page, and when
+  it's worth running. Facts for that lesson live in AI-FACTS.md, verified
+  against the app code. If the app's AI changes, AI-FACTS.md changes first.
+- **A jurisdiction disclaimer is a module-level statement, not a per-lesson
+  tail.** "If you're outside the US" appeared 12 times, 7 of them a verbatim
+  block. It's now said ONCE at the top of Module 5 and ONCE at the top of
+  Module 8, plus a breakdown in 1.1 of which modules are US-shaped and how the
+  app handles it (US dollars, US federal + state tax engine, no country
+  setting).
+
+## No scan lessons (Austin, 2026-08-07)
+
+> "Anything that's 'make sure it's correct,' or scan, is useless and treating
+> the user as too dumb and not respecting their time."
+
+Cut 5.6 and 9.6, which were read-back laps with 2 and 3 click steps. What
+survived moved into the module's real screen half: the "where this module's
+work lives" reference table, and 9.5's decision ledger. Do not reintroduce a
+"check your work" lesson. Every walkthrough already closes on a WRAP.
+
+## Homework is an app action (Austin, 2026-08-07)
+
+> "We don't want write it down. Implementation is in app except for
+> inheritance pieces."
+
+"Write it down" appeared in 17 homework blocks and had become a tic. Every
+number with a field goes IN the app: spending, reserve target, target
+allocation, bucket assignments, contributions, LTV thresholds, debt jobs,
+cost basis lots, retirement spending, Social Security. Things with no field
+(a debt ceiling, a refill rule, an "only one" list) are DECIDED and said out
+loud, not written. The exceptions that stay on paper are the inheritance
+pieces, where writing is the deliverable and the app must never hold it: the
+access split (9.2) and the heir letter (9.3).

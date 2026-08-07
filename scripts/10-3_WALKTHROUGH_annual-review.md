@@ -61,10 +61,6 @@
 
 **SEE** Asks: *"Which synced item looks missing or wrong if these review counts do not match the page?"*
 
-**DO** Click → stop talking until it lands → read one flagged item back, agree or disagree
-
-**⚠** It explains the queue. It does not approve anything.
-
 ---
 
 ## □ 4 · The annual lap — six screens, ~40 sec each

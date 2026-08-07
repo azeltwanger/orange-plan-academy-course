@@ -265,9 +265,9 @@ A collaborative provider holds the config for you. On top of the support, the an
 
 ### Homework
 
-- Score yourself on the five questions. Write down the number. For most people it's one or two.
-- Write down which level you're at today and which level your amount and family say you should be at.
-- For anything not self-custodied, write down how many institutions it sits in, and whether that number matches what's at stake.
+- Score yourself on the five questions. For most people the answer is one or two.
+- Name the level you're at today and the level your amount and your family say you should be at. If those differ, that gap is the module's whole job.
+- For anything not self-custodied, count the institutions it sits in and ask whether that number matches what's at stake.
 
 
 ## 8.3 The hardware wallet and the recovery test
@@ -426,7 +426,7 @@ Urgency is the common thread. Every scam needs you to act before you think. When
 
 ### Homework
 
-Write your own "only one" list, pick the one at the top, fix it this week. Not all nine. Just that one.
+Make your own "only one" list, pick the one at the top, and fix it this week. Not all nine. Just that one.
 
 
 ## 8.5 Advanced custody: passphrase, multisig, and collaborative
@@ -540,7 +540,7 @@ A collaborative provider holds the config for you. On top of the support, the an
 
 - Decide whether an advanced setup is warranted at all. Staying at a well-run Level 2 is a legitimate answer.
 - If you're adding a passphrase, generate it with 7 random words from a wordlist, using dice or an offline generator. Back it up separately from the seed, and practice with a small amount first.
-- If you're considering collaborative custody, ask a provider the four questions and write down their answers before you pay anything.
+- If you're considering collaborative custody, ask a provider the four questions and get the answers in writing before you pay anything.
 - If you're running multisig, go find your config file, back it up, and tell one other person it exists.
 
 
@@ -697,14 +697,14 @@ Four groups, each headed *"{group} · {n} of {n}"*:
 
 ⚠ The top unchecked item is this week's fix, not the whole list. This checklist is a map you audit and repair one item at a time, not a to-do you run in an afternoon.
 
-The Lesson 2 callback, verbatim from the app:
+The recovery-test callback, verbatim from the app:
 
 - *Full recovery process tested end-to-end*
 - *Backup seed verified readable*
 
 Those only get checked if you actually did the wipe-and-restore. A checked item that never happened is dangerous, because the plan now believes something untrue.
 
-The Lesson 3 single-point-of-failure callback:
+The single-point-of-failure callback:
 
 - *Storage locations documented. Hints only, no exact details*
 - *No single point of failure can destroy access (one device, one location, one person)*
@@ -743,9 +743,9 @@ Fill it as you talk. It has five blocks:
 | INSURANCE & OTHER | Policies, property, anything else the family should find. |
 | DOCUMENTS | Will, POA, healthcare directive, Executor packet, Heir letter. Where the original is, and who has a copy. |
 
-⚠ This map never contains a secret. It says *where* things are, never *how* to open them. The template's own footer says it: *"never the words, PIN, or passphrase."* If your instinct is to write the seed on this map, revisit Lesson 3 before continuing.
+⚠ This map never contains a secret. It says *where* things are, never *how* to open them. The template's own footer says it: *"never the words, PIN, or passphrase."* If your instinct is to write the seed on this map, stop and go back to the no-secrets rule before continuing.
 
-⚠ The map is the companion to the Heir Letter (Module 8). The letter says who to call and in what order. The map says what exists and where. Both need to be findable by the executor, and neither can contain a secret.
+⚠ The map is the companion to the Heir Letter in the estate module. The letter says who to call and in what order. The map says what exists and where. Both need to be findable by the executor, and neither can contain a secret.
 
 Set the review date on the footer: *"Review yearly. Module 9."* That becomes an input to next module's annual walkthrough.
 

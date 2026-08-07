@@ -113,6 +113,118 @@ Austin
 
 ---
 
+## 1.2 How the AI works
+
+*`TEACH` · 1,180 words · ~8 min*
+
+**By the end of this lesson, you can:**
+
+- Explain what the AI reads, what it never sees, and where it runs
+- Know why the AI button is different on every page
+- Decide whether to turn memory on, and know the one rule you never break
+
+---
+
+There's an AI built into Orange Plan, and it shows up in almost every module after this one. So before we use it once, let's cover what it is, what it can see, what it can't, and where it fits.
+
+##### The button and the panel
+
+In the top bar there's a button called **AI Review**. It's the one orange pill up there. Clicking it slides open a panel called **Plan Guide**.
+
+That panel lives in the app itself, not on any one page, so it opens from anywhere. It also stays alive when you close it. You can be in the middle of a conversation, close the panel, go look at a number on the Tax page, slide it back open, and pick up where you left off.
+
+It's included for every signed-in user. There's no separate AI plan and no add-on to buy.
+
+##### The rule that makes the numbers trustworthy
+
+The first thing to understand is that the AI does not do your math.
+
+Your surplus, your reserve status, your payoff dates, your loan cushion, your spending target, your success rate, your income floor. All of those come out of the same projection engine that draws your charts. The AI reads those numbers and explains them. It's specifically instructed never to redo arithmetic the app already did, and if it ever does calculate something on its own, it has to label that as an estimate.
+
+So when it tells you your surplus is $2,400 a month, that's your app's number, not the model's guess.
+
+It's also told to use only the plan data it was given, and if something important is missing, to say what's missing instead of filling in the blank.
+
+##### What it reads
+
+It doesn't get a copy of your whole plan. What it gets is targeted context for whatever you're asking about, plus where you are in the app: which page, which tab, what you have selected.
+
+The useful part is that every number it receives is labeled with its status. Applied means saved and actually being used in your projections. Draft means you typed it but haven't saved it. Preview means you're modeling it in a sandbox and it isn't applied. Stale means it's saved, but you've changed something since it was calculated.
+
+That's why it can tell you your confidence number is stale instead of reading you an old number like it's current.
+
+And if it needs detail it doesn't have, it asks for it. There are about 18 things it can request: your full holdings list, your accounts, your debts, specific projection years, your life events, your tax picture. Those requests get answered by your own browser out of the plan it already has loaded, and only the rows it actually asked for get sent.
+
+##### What it never sees
+
+Your raw transactions never leave your browser. They get stripped out of every request, every time. It sees your spending summarized and counted, not line by line.
+
+On the Protect page, it never gets names, contact details, the contents of your heir letter, who holds what for recovery, or where anything is stored. It gets completion status. Enough to tell you the beneficiary row is empty, never enough to tell anyone who or where.
+
+On linked accounts, it never gets your institution names, account names, account numbers, masks, or exact balances.
+
+And secrets are actively blocked, not just discouraged. When you use the heir letter drafting tool, it scans what you typed for anything that looks like a seed phrase, recovery words, a private key, a passphrase, a PIN, a safe combination. If it finds one, it refuses to draft until you take it out. It'll even catch you mapping out who holds which key and strip that down to the category before it sends anything.
+
+Which brings us to the one rule that has no exceptions.
+
+Never put a seed phrase, a private key, a wallet backup, a passphrase, a PIN, a password, a full account number, or a Social Security number into any AI. Not this one, not any other one. And if you've already done it somewhere, treat that material as compromised and move the funds to a newly generated wallet.
+
+##### Where it runs
+
+It runs on Claude Sonnet, routed to Anthropic's own servers. Every request Orange Plan sends carries a setting that excludes any provider that would keep your prompts or train on them.
+
+Your conversations are stored in your own account in Orange Plan's database, locked to your user, so you can come back to them and nobody else can read them.
+
+##### Memory is off unless you turn it on
+
+Inside Plan Guide there's a Preferences section with a memory toggle. It starts off.
+
+If you turn it on, what it remembers is how you think, not what you own. Things like: prefers borrowing over selling Bitcoin. Self-employed with variable income. Wants to be work-optional by 55. It's specifically blocked from storing dollar balances, account numbers, secrets of any kind, and one-off details from a single question.
+
+It holds 24 items at most. Every one of them is visible in that panel, you can delete them one at a time, and there's a clear-everything button.
+
+I'd turn it on if you plan to use the AI regularly, because it stops you re-explaining your situation every time. If that makes you uncomfortable, leave it off and nothing about the reviews changes.
+
+##### Why the button is different on every page
+
+You'll notice nine pages have their own AI button. Cash Flow says Route with AI. The debt page says Review Debt Strategy. Allocation says Review portfolio. Tax says Review Tax Strategy. Scenarios says Review scenario.
+
+Those aren't shortcuts to the same thing. Each one loads a different set of instructions and a different piece of the knowledge base. A tax review loads the tax knowledge and gets held to tax-specific rules, like not suggesting a Roth conversion when there's no pre-tax balance in your plan to convert. A cash flow review loads the cash flow knowledge instead.
+
+There are 26 of these built in. Nine have buttons, and the rest you get to by asking, like setting a reserve target or comparing selling versus borrowing.
+
+So the practical version is: ask from the page you're standing on, and you get the version built for that decision.
+
+##### What comes back
+
+Every review comes back in the same four sections. A read on your plan. The top 3 things it sees. The next 3 moves. And one question, which is whichever question it thinks would most improve the review if you answered it.
+
+The moves are always framed as options with trade-offs. It won't tell you that you should do something.
+
+##### What it won't do
+
+It won't tell you to sell, convert, borrow, or buy. It won't predict Bitcoin's price. It won't quote you a current tax bracket or contribution limit off memory. It won't touch altcoins, pick tickers for you, prepare a tax return, or draft legal documents.
+
+One thing people assume it won't do that it will: tax math. Roth conversion comparisons, harvesting math, cost basis, after-tax comparisons. That's all in bounds. The line is filing and executing, not calculating.
+
+##### The limits
+
+You get 10 plan reviews and 100 messages a day, and it resets at midnight UTC. Your saved reviews stay saved when you hit it.
+
+##### One thing it doesn't know yet
+
+It knows the app and it knows the planning frameworks this course is built on. It does not know these lessons yet. Teaching it this course is on the list, so when that ships you'll be able to ask it about anything we cover here. Right now, the lessons are mine and the plan review is its.
+
+And the last thing, which I'm saying once here so I don't have to keep repeating it in every walkthrough: it reviews and it explains. You decide.
+
+##### Homework
+
+1. Click the AI Review button in the top bar so you know where it lives.
+2. Open Preferences inside Plan Guide and decide whether memory is on or off for you.
+3. Fix the one hard rule: no seed phrase, private key, passphrase, PIN, or full account number ever goes into any AI, including this one.
+
+---
+
 # Unit 2 · Module 1 — Foundation: baseline, assumptions, and the confidence number
 
 *Gather the six pieces of your baseline, choose your assumptions (especially the Bitcoin growth number), understand the confidence ring that stress-tests your plan, run three scenarios, and know when a plan actually needs updating.*
@@ -281,7 +393,6 @@ How to think about it:
 1. Pick your Bitcoin growth model and say out loud why you picked it.
 2. Set your inflation number.
 3. Enter both in the app under **Plan → Edit assumptions**.
-4. Write one sentence for each: why this is the assumption you'd defend.
 
 You'll get to change these later and see what the plan looks like under different assumptions. For now, we're setting the ones your baseline plan actually runs on.
 
@@ -396,8 +507,8 @@ How to think about it:
 
 ### Homework
 
-1. Run the confidence check in the app and write your number down.
-2. Write your target number next to it.
+1. Run the confidence check in the app. The number saves with your plan.
+2. Set your target under the guardrails policy, so the app knows what "on track" means for you.
 3. Name the one lever you'd pull first if you're under it. One, not four.
 
 The next module builds the cash flow that lets you keep buying Bitcoin without being forced to sell at the wrong time.
@@ -937,8 +1048,7 @@ Every raise gets a decision the same day. A $5,000 raise is ~$400/mo. Route it b
 
 - Walk through the surplus calculation on your own numbers.
 - Link an account or import transactions so Orange Plan categorizes the spending, then label every line as Keep, Cut, or Reduce. The app has no Keep/Cut/Reduce labels, so mark those on paper or in a spreadsheet; what goes back in is the resulting Living number. Kill one subscription, renegotiate one bill.
-- Write down both spending numbers: normal and bare-bones.
-- Enter the bare-bones number into the reserve settings in the app.
+- Enter your normal spending as Living spending, and your bare-bones number in the reserve settings. Both drive the projection from here.
 
 
 ## 3.2 Size the reserve to your life
@@ -1558,8 +1668,8 @@ How to think about it:
 ### Homework
 
 1. Run the stress test at today's balance and answer out loud.
-2. Write down the position size you could hold through it.
-3. If that's smaller than what you hold now, write what you'll do about the difference.
+2. Set that position size as your target allocation in the app. The number you could hold through the drawdown is the target, not the number you hold today.
+3. If the target is below what you hold now, decide how you close the gap: new dollars only, or a sale with a tax cost you've checked.
 
 
 ## 4.3 Give every dollar a job: Reserve / Bridge / Forever
@@ -1657,9 +1767,9 @@ How to think about it:
 
 ### Homework
 
-1. Write a target for each bucket: Reserve, Bridge, Legacy.
-2. Open **Strategy → Allocation** and compare each target to what you actually hold.
-3. Write down which bucket is furthest behind. That's where new dollars go first.
+1. Open **Strategy → Allocation** and put every holding in a bucket: Reserve, Bridge, or Legacy.
+2. Set a target for each one so the app can tell you which is behind.
+3. The bucket furthest behind is where new dollars go first.
 
 
 ## 4.4 The contribution waterfall
@@ -1781,10 +1891,9 @@ You make this decision once and it routes every future dollar without you re-dec
 
 ### Homework
 
-1. Write your rung order and the dollar amount at each rung.
-2. Open **Strategy → Allocation** and write down which bucket currently reads **Behind**.
-3. Enter your contributions in the app so the projection reflects the real routing.
-4. Automate whatever you can at the source, so the decision runs itself.
+1. Enter your contributions in the app, rung by rung, so the projection reflects your real routing.
+2. Open **Strategy → Allocation** and read which bucket comes back **Behind**. That's the rung to fund next.
+3. Automate whatever you can at the source, so the decision runs itself.
 
 
 ## 4.5 Asset location: the right account for each holding
@@ -2127,8 +2236,8 @@ Be honest about which one you have. Debt that annoys you and debt that keeps you
 Debt isn't just a problem to eliminate. Held on purpose, debt does three jobs:
 
 1. **Liquidity.** Cash stays accessible. Bad month, you cover bills without forced-selling into a drawdown.
-2. **The spread.** Cheap debt vs higher expected returns. Invest the difference. Every dollar of 3% debt held while capital earns more than 3% is earning you the spread (Lesson 3).
-3. **Tax advantage.** Borrow instead of selling, avoid capital gains. Keep the Bitcoin, get the cash (Lesson 3 and Module 5).
+2. **The spread.** Cheap debt vs higher expected returns. Invest the difference. Every dollar of 3% debt held while capital earns more than 3% is earning you the spread.
+3. **Tax advantage.** Borrow instead of selling, avoid capital gains. Keep the Bitcoin, get the cash. The tax module works this one through.
 
 Businesses hold debt on purpose because it lets them grow. The right question isn't "how do I get to zero?" It's "what level helps me grow?"
 
@@ -2267,9 +2376,9 @@ How to think about it:
 
 ### Homework
 
-1. Write both of your ratios down from **Strategy → Debt**.
-2. Write your ceiling: the number you won't cross.
-3. Say out loud whether you're inside it today. If not, that's your first debt job.
+1. Read both ratios off **Strategy → Debt**. The app keeps them current, so there's nothing to copy down.
+2. Decide your ceiling: the number you won't cross. There's no field for it, so say it out loud and mean it.
+3. Say whether you're inside it today. If not, that's your first debt job.
 
 You've got a verdict word and a stress number. Both of them move when Bitcoin moves.
 
@@ -2397,9 +2506,9 @@ How to think about it:
 
 ### Homework
 
-1. Write your maximum starting LTV.
-2. Write your specific action for each of the three severity levels.
-3. If you already have a loan, open its detail view and check today's cushion against what you just wrote.
+1. Enter your lender's real thresholds on the loan in the app: starting LTV, top-up line, liquidation line. The cushion is only honest if those are your lender's numbers.
+2. Decide your action at each of the three severity levels before you're at one of them.
+3. If you already have a loan, open its detail view and read today's cushion against those lines.
 
 Everything so far has been defense: know your ratios, protect the cushion, don't get liquidated. The other half is what debt is actually for.
 
@@ -2542,9 +2651,9 @@ How to think about it:
 
 ### Homework
 
-1. Pick your play, or write down that you're running none.
+1. Pick your play, or decide you're running none. None is a real answer and the common one.
 2. Model it against your baseline as a scenario, and read the confidence number both ways.
-3. If you're running one, write the operating rules down before you act.
+3. If you're running one, set its rules before you act: what you borrow against, at what LTV, and what makes you stop.
 
 You've seen what one play does to your plan. Now every debt on the ledger needs a decision, including the ones you're keeping.
 
@@ -2714,9 +2823,8 @@ How to think about it:
 ### Homework
 
 1. Decide whether a Bitcoin-backed loan belongs in your plan at all. "No" is a completely legitimate and common answer.
-2. If you're considering one, take the 7 provider questions to two or three lenders and write down their answers side by side.
-3. Write your maximum starting LTV, and your specific action at each of the three lines.
-4. Model it in the app with your lender's real thresholds, then run the 50% drawdown scenario against it and see what happens.
+2. If you're considering one, take the 7 provider questions to two or three lenders and put their answers side by side. The differences between lenders are the whole decision.
+3. Model it in the app with your lender's real thresholds, then run the 50% drawdown scenario against it and see what happens.
 
 
 ## 5.5 Every debt gets a job
@@ -2788,7 +2896,7 @@ They have no Bitcoin-backed loan, so no debt in the Monitor tier.
 
 ### Homework
 
-Line up every debt with its rate. Assign each one to a tier and write down the job and the reason:
+Line up every debt with its rate. Set each one's job in the app, and say the reason out loud as you do it:
 
 - 24% credit card → Eliminate. Guaranteed 24% loss.
 - 8% car loan → Evaluate. Depends on your DTI and reserve.
@@ -2796,7 +2904,7 @@ Line up every debt with its rate. Assign each one to a tier and write down the j
 - 3% mortgage → Strategic. Keep on purpose.
 - 25% LTV Bitcoin-backed loan → Monitor. Watch the cushion.
 
-Every debt should have a decision, not a feeling.
+Every debt should end with a decision, not a feeling. The app is done when no row reads **no payoff path** unless you chose that on purpose.
 
 
 So let's put a job on every row.
@@ -2864,33 +2972,7 @@ Read at least one thing it surfaced out loud and say whether you agree. Your tol
 
 With a Bitcoin-backed loan in your plan, the panel adds a **BTC-loan safety check** to the menu.
 
-
-Every row has a job. Last thing is to check the work.
-
-## 5.6 Check your work
-*`CHECK` · 355 words · ~2 min*
-
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **5.6**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
-
-**By the end of this lesson, you can:**
-
-- Confirm every debt has a job and no row reads no payoff path
-- Read your stress number and your confidence number together
-
----
-Four decisions about debt are now in the plan. This is the read that tells you whether they landed.
-
-### What good looks like
-
-- **Debt-to-income** inside the band your income stability earns. This is the floor to watch. It doesn't move with Bitcoin. The caption tells you the line.
-- **Debt-to-assets** situational, roughly in the 10 to 35% household range. Remember the drift rule.
-- **The verdict word.** Strong is the healthy read. Elevated or Stretched means the plan needs work this year, not that it failed.
-- **The stress clause.** *"stress test reaches N% of assets"* is the number that matters. If a normal bear pushes it past your comfort, the leverage is too big.
-- **Every ledger row has a job selected**, and the status isn't **no payoff path** unless you deliberately chose open-ended.
-- **A low-rate mortgage** sits calmly under **Low-cost** on **Minimum payments**, with a stated reason for keeping it.
-- **LTV cushion (if any).** No severity chip is the healthy state. Any chip is this week's action, not this year's.
-
-### What got built
+#### Where this module's work lives
 
 | # | Item | Where it lives |
 |---|---|---|
@@ -2902,16 +2984,13 @@ Four decisions about debt are now in the plan. This is the read that tells you w
 | 6 | Payoff-versus-invest comparison | Scenarios → Custom scenario |
 | 7 | AI debt review | Strategy → Debt → Review Debt Strategy |
 
-Open the Dashboard and read your confidence number. Write it down next to the one you wrote at the end of Module 2. That is what four decisions about debt were worth.
-
-### Handing it off
-
-The next module covers tax strategy: cost basis, the three bucket types by tax treatment, Roth conversions, and how to think about your tax bracket across a Bitcoin-heavy plan.
-
+Close on the Dashboard and read your confidence number against the one from the baseline module. That difference is what four decisions about debt were worth.
 
 # Unit 6 · Module 5 — Tax Strategy
 
 *Cost basis first. Then the three account buckets, the tax window planner, RMD risk and Roth conversions, harvesting, and state taxes.*
+
+> **US-specific module.** Everything here runs on the US Internal Revenue Code: brackets, Roth accounts, RMDs, wash-sale rules, state taxes. Said ONCE, at the top of 6.1, and never repeated per lesson.
 
 ## 6.1 Cost basis: the unlock for everything else
 *`TEACH` · 715 words · ~5 min*
@@ -2919,8 +2998,6 @@ The next module covers tax strategy: cost basis, the three bucket types by tax t
 > 🐞 Currency mangling in the lot-sale figures (item 17). Reconstructed from
 > arithmetic: hardware lot basis $7,500 → gain $17,500; exchange lot basis
 > $15,000 → gain $10,000.
-
-*This lesson is US-specific. Brackets, Roth accounts, RMDs, wash-sale rules, and state taxes assume the US Internal Revenue Code. Outside the US, the principles hold — check specifics with a local tax professional.*
 
 **By the end of this lesson, you can:**
 
@@ -2930,6 +3007,7 @@ The next module covers tax strategy: cost basis, the three bucket types by tax t
 - Never leave basis blank
 
 ---
+One thing before we start this module, and I'll say it once. Everything in this module is built on US tax law. Brackets, Roth accounts, RMDs, wash-sale rules, state taxes. If you're outside the US, the way of thinking travels and the specific rules do not, so take these frameworks to a tax professional in your own country and let them map the containers.
 
 Real tax strategy works forward: act in the years your rate is low, and act before the government forces the timing. Every forward-looking move starts with one number being right.
 
@@ -2990,11 +3068,8 @@ On the 0.25 BTC sale above: $10,000 of real gain becomes $25,000 of gain, becaus
 
 ### Homework
 
-Pull your full history from every exchange and wallet. Then, for every lot, write down what you paid and when. Tedious. Done once. Makes every future tax move precise instead of approximate.
+Pull your full transaction history from every exchange and wallet, then import it so every lot carries what you paid and when. Tedious. Done once. Makes every future tax move precise instead of approximate.
 
-### If you're outside the US
-
-This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 
 ## 6.2 The three buckets, your bracket roadmap, and the state lever
@@ -3016,8 +3091,6 @@ This course teaches US rules. The frameworks — the tests, the splits, the math
 >
 > 📌 **Item 14 evidence:** the planned lesson "State taxes and relocation: a big
 > lever" was folded in here as "the state lever" section.
-
-*This lesson is US-specific. Brackets, Roth accounts, RMDs, wash-sale rules, and state taxes assume the US Internal Revenue Code. Non-US notes at the end.*
 
 **By the end of this lesson, you can:**
 
@@ -3149,9 +3222,6 @@ Three steps:
 
 Then look up your state's treatment of capital gains (regular income, special rate, or no tax) and estimate your realized-gain profile in the years you plan to sell. If the answer says "big lever," take it to a CPA who's done a real relocation before.
 
-### If you're outside the US
-
-This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 ## 6.3 The RMD risk + Roth conversions
 *`TEACH` · 954 words · ~7 min*
@@ -3161,8 +3231,6 @@ This course teaches US rules. The frameworks — the tests, the splits, the math
 > ✅ **Evergreen policy (Austin, 2026-08-04) replaces item 11.** Figures here
 > are already snapshot-framed ("Currently 73 — verify in the year it applies").
 > Don't re-verify per year; don't state them as durable facts on camera.
-
-*This lesson is US-specific. Non-US notes at the end.*
 
 **By the end of this lesson, you can:**
 
@@ -3268,9 +3336,6 @@ For completeness: 72(t) allows penalty-free early access on a rigid schedule. Re
 - If the total pushes you into a higher bracket than your bridge years, a Roth conversion schedule is worth modeling.
 - Build the model. Bring it to your CPA.
 
-### If you're outside the US
-
-This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 ## 6.4 Harvesting losses and gains
 *`TEACH` · 1,156 words · ~8 min*
@@ -3280,8 +3345,6 @@ This course teaches US rules. The frameworks — the tests, the splits, the math
 > Item 23 closed. Still item-14 evidence that the relocation lesson was merged.
 >
 > ⚠ Wash-sale exemption for Bitcoin: lesson says verify — include in item 11.
-
-*This lesson is US-specific. Non-US notes at the end.*
 
 **By the end of this lesson, you can:**
 
@@ -3428,9 +3491,6 @@ Two checks against your lots:
 
 Those two answers are what you take to your CPA.
 
-### If you're outside the US
-
-This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 
 ## 6.5 Walkthrough: model it in Orange Plan
@@ -3448,8 +3508,6 @@ This course teaches US rules. The frameworks — the tests, the splits, the math
 > ✅ **Resolves item 7:** the "Tax funding" picker is named here with both
 > options ("Plan cash flow (withdrawal order)" / "Withheld from each
 > conversion") — matches the engine behavior found in runProjection.jsx.
-
-*This walkthrough uses US tax mechanics (Roth conversions, cost basis lots, bracket thresholds). If you're outside the US, the walkthrough is still useful for seeing the shape of the modeling. Swap in the analogous containers from your jurisdiction with help from a local tax professional.*
 
 **By the end of this lesson, you can:**
 
@@ -3541,7 +3599,7 @@ Open **Customize schedule → Conversion schedule** panel:
 - Hover a timeline bar for detail: *"Conversion tax cost," "Projected year-end traditional,"* and IRMAA when it applies.
 - **Tax funding** picker: **Plan cash flow (withdrawal order)** or **Withheld from each conversion**.
 
-Prefer **Plan cash flow**. That's paying the conversion tax from taxable cash, which is what Lesson 3 called for.
+Prefer **Plan cash flow**. That's paying the conversion tax from taxable cash, never from the conversion itself.
 
 Commit with **Apply schedule**.
 
@@ -3721,7 +3779,7 @@ The gap is largest right after your last paycheck and shrinks as the floor turns
 
 ### Homework
 
-Write your three numbers down: spending, floor, gap.
+Enter your retirement spending target and your Social Security estimate in the app. It solves the gap for you, which is the number the rest of the module works on.
 
 If you don't know your floor yet, pull your Social Security estimate this week. SSA.gov gives it in monthly and annual. The app takes it as monthly.
 
@@ -4046,7 +4104,7 @@ How to think about it:
 
 1. Set your withdrawal order in the app under **Plan → Income → Withdrawal order**, and apply it.
 2. Set your **Monthly build cap** under Cash Flow → Reserve settings to control refill pace.
-3. Write your refill rule in one sentence, so future you doesn't renegotiate it in a bad year.
+3. Say your refill rule out loud once, so future you doesn't renegotiate the build cap in a bad year.
 
 
 ## 7.4 Sell, borrow, or hold
@@ -4762,9 +4820,9 @@ A collaborative provider holds the config for you. On top of the support, the an
 
 ### Homework
 
-- Score yourself on the five questions. Write down the number. For most people it's one or two.
-- Write down which level you're at today and which level your amount and family say you should be at.
-- For anything not self-custodied, write down how many institutions it sits in, and whether that number matches what's at stake.
+- Score yourself on the five questions. For most people the answer is one or two.
+- Name the level you're at today and the level your amount and your family say you should be at. If those differ, that gap is the module's whole job.
+- For anything not self-custodied, count the institutions it sits in and ask whether that number matches what's at stake.
 
 
 ## 8.3 The hardware wallet and the recovery test
@@ -4923,7 +4981,7 @@ Urgency is the common thread. Every scam needs you to act before you think. When
 
 ### Homework
 
-Write your own "only one" list, pick the one at the top, fix it this week. Not all nine. Just that one.
+Make your own "only one" list, pick the one at the top, and fix it this week. Not all nine. Just that one.
 
 
 ## 8.5 Advanced custody: passphrase, multisig, and collaborative
@@ -5037,7 +5095,7 @@ A collaborative provider holds the config for you. On top of the support, the an
 
 - Decide whether an advanced setup is warranted at all. Staying at a well-run Level 2 is a legitimate answer.
 - If you're adding a passphrase, generate it with 7 random words from a wordlist, using dice or an offline generator. Back it up separately from the seed, and practice with a small amount first.
-- If you're considering collaborative custody, ask a provider the four questions and write down their answers before you pay anything.
+- If you're considering collaborative custody, ask a provider the four questions and get the answers in writing before you pay anything.
 - If you're running multisig, go find your config file, back it up, and tell one other person it exists.
 
 
@@ -5194,14 +5252,14 @@ Four groups, each headed *"{group} · {n} of {n}"*:
 
 ⚠ The top unchecked item is this week's fix, not the whole list. This checklist is a map you audit and repair one item at a time, not a to-do you run in an afternoon.
 
-The Lesson 2 callback, verbatim from the app:
+The recovery-test callback, verbatim from the app:
 
 - *Full recovery process tested end-to-end*
 - *Backup seed verified readable*
 
 Those only get checked if you actually did the wipe-and-restore. A checked item that never happened is dangerous, because the plan now believes something untrue.
 
-The Lesson 3 single-point-of-failure callback:
+The single-point-of-failure callback:
 
 - *Storage locations documented. Hints only, no exact details*
 - *No single point of failure can destroy access (one device, one location, one person)*
@@ -5240,9 +5298,9 @@ Fill it as you talk. It has five blocks:
 | INSURANCE & OTHER | Policies, property, anything else the family should find. |
 | DOCUMENTS | Will, POA, healthcare directive, Executor packet, Heir letter. Where the original is, and who has a copy. |
 
-⚠ This map never contains a secret. It says *where* things are, never *how* to open them. The template's own footer says it: *"never the words, PIN, or passphrase."* If your instinct is to write the seed on this map, revisit Lesson 3 before continuing.
+⚠ This map never contains a secret. It says *where* things are, never *how* to open them. The template's own footer says it: *"never the words, PIN, or passphrase."* If your instinct is to write the seed on this map, stop and go back to the no-secrets rule before continuing.
 
-⚠ The map is the companion to the Heir Letter (Module 8). The letter says who to call and in what order. The map says what exists and where. Both need to be findable by the executor, and neither can contain a secret.
+⚠ The map is the companion to the Heir Letter in the estate module. The letter says who to call and in what order. The map says what exists and where. Both need to be findable by the executor, and neither can contain a secret.
 
 Set the review date on the footer: *"Review yearly. Module 9."* That becomes an input to next module's annual walkthrough.
 
@@ -5296,6 +5354,8 @@ The next module (Estate & Inheritance) turns "Access after death" from four chec
 
 *Turn 'you can access it' into 'they can inherit it': executor and legal documents, the access split, the heir letter, the backstop switch, insurance, trusts if needed, and the Bitcoin-specific questions for the attorney.*
 
+> **US-specific module.** The executor role, the four documents, probate, trusts, and the federal exemption are all US law. Said ONCE, at the top of 9.1, and never repeated per lesson.
+
 ## 9.1 The executor, the four legal documents, and choosing an estate attorney
 *`TEACH + APP` · 2,265 words · ~11 min*
 
@@ -5308,8 +5368,8 @@ The next module (Estate & Inheritance) turns "Access after death" from four chec
 - Recognize the Prudent Investor waiver that lets a trust hold concentrated Bitcoin
 
 ---
-> **US-specific.** The executor role, the four documents, and the probate process here are US law. Outside the US, the same jobs exist under different names and rules — work with a local estate professional.
 
+One thing before we start this module, and I'll say it once. The executor role, the legal documents, probate, trusts, and the federal estate exemption are all US law. If you're outside the US, the same jobs exist under different names, so take these frameworks to an estate professional in your own country.
 
 Custody was operational access: how you turn the device back into spendable Bitcoin. **Estate** is the legal transfer: how your family can inherit it without you in the room.
 
@@ -5430,9 +5490,6 @@ Take the five questions with you, ask them in order, and listen to both the answ
 - Have an attorney review it and supervise the signing. Execution formalities (witnesses, notarization) are state-specific.
 - If your household lit up the trust gate: line up two or three estate-attorney candidates and run the five questions in order.
 
-### If you're outside the US
-
-This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 ### Now put it in the app
 
@@ -5876,8 +5933,6 @@ Documents, split, and switch are all in place.
 - Run the graduation review each year
 
 ---
-> **Parts of this lesson are US-specific.** The framework (renting protection until the stack can carry the weight) is universal. Specific tax treatment of term-life payouts, disability benefits, and product structures ("infinite banking," whole life) is US-shaped.
-
 Your stack already self-insures the small stuff. The reserve from earlier in the course. Insurance covers the part the stack can't cover yet: the difference between what your family needs and what the stack already provides.
 
 Early on, that gap is huge, and insurance covers it cheaply. As the stack compounds, the gap shrinks, and your coverage can shrink with it.
@@ -5955,9 +6010,6 @@ Run the subtraction on your own household. Annual hole × years to cover minus s
 
 None of this is a product recommendation. Actual coverage runs through a licensed insurance professional.
 
-### If you're outside the US
-
-This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 
 ## 9.5 Advanced: do you need a trust, and which one?
@@ -5970,8 +6022,6 @@ This course teaches US rules. The frameworks — the tests, the splits, the math
 
 ---
 > **Advanced. Most plan-builders don't need a trust. Run the eight-trigger gate first. If it doesn't light up, the baseline is your plan.** Skim unless the trigger applies.
-
-> **US-specific.** Trusts, the federal estate exemption, and the Prudent Investor Rule are US law. Outside the US, work with a local estate professional.
 
 
 **Most of you don't need what's in this lesson.** Stopping at the baseline is a valid outcome.
@@ -6069,9 +6119,6 @@ Legal structure and key plan get designed together, with an attorney who underst
 
 Run all eight triggers on your household. Count your yeses. If zero or one, the baseline is your plan. Re-run the gate once a year. If more than that, take the five attorney questions from the executor lesson to two or three candidates.
 
-### If you're outside the US
-
-This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 ### Now put it in the app
 
@@ -6159,92 +6206,50 @@ Back on Protect → the **"Federal estate tax"** and **"State estate tax"** rows
 
 **Under the line** in every growth case you'd defend → *"that's a good outcome"*. Close the tab. Most households live here.
 
-**Over the line** under assumptions you actually believe → the Lesson 6 trust conversation is warranted. That's not "definitely owe tax". It's "worth an attorney hour this year."
+**Over the line** under assumptions you actually believe → the trust conversation is warranted. That's not "definitely owe tax". It's "worth an attorney hour this year."
 
 The state row's sub-caption names your state and its note when a state estate tax applies.
 
 ⚠ **A handful of states run their own estate tax at far lower thresholds** than the federal exemption. It's a local-attorney question rather than a plan-modeling one. Name it once.
 
-#### Step B5: Record the estate-tax decision
+#### Step B5: Record this module's decisions
 
-Off-app.
+Off-app, in your notes or a shared document.
 
-- **Under the line, or over it?**. Under which growth case.
-- **State flag**. Yes / no, and which state.
-- **Attorney conversation**. This year, or deferred to the annual review.
+- **Estate tax: under the line, or over it?** Under which growth case.
+- **State flag.** Yes / no, and which state.
+- **Attorney conversation.** This year, or deferred to the annual review.
+- **Executor and backup.** Asked and accepted.
+- **Your estate level, 1 to 3.** From the self-triage.
+- **Access-split status.** Set / tested / not yet.
+- **Insurance gaps.** Flagged on the Coverage Audit worksheet.
+- **If the trust gate said yes:** the five attorney questions go into the interview.
+
+Optional artifact: **Protect header → Download estate summary.**
+
+⚠ **That is not the encrypted plan backup.** The backup lives at Settings → Data & backups → Export Plan, and it belongs to the annual review, not here.
 
 Say the close on camera: for most households, running this number earns you the right to stop thinking about it until next year.
+
+#### Where this module's work lives
+
+| # | Item | Where it lives |
+|---|---|---|
+| 1 | Heir letter, app record (contacts, content, PDF export) | Protect → Heir letter → Edit heir letter → Download PDF |
+| 2 | Heir letter, family-ready page | Course toolkit → **06 The Heir Letter** (PDF) |
+| 3 | Dead man's switch, armed | Protect → Dead man's switch → Turn on with a first check-in |
+| 4 | Beneficiaries current | Protect → Beneficiaries → Add beneficiary |
+| 5 | AI-assisted draft (optional) | Protect → Heir letter assistant → Draft with AI |
+| 6 | Executor Packet, walked and signed | Course toolkit → **08 Executor Packet** (PDF), section 6 signed |
+| 7 | Estate + insurance decisions | Recorded decision + Coverage Audit worksheet |
+| 8 | Projected estate read | Protect → Projected legacy → Projected estate after debt |
+| 9 | After-tax number + exemption comparison | Protect → See details → After-tax estate / Federal estate tax |
+| 10 | State of residence + heir marginal rate | Protect → legacy drawer selects |
 
 ---
 
 
 Do not buy structure until the gate lights up, and design the legal and key plans together.
-
-## 9.6 Check your work
-*`CHECK` · 634 words · ~3 min*
-
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **9.6**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
-
-**By the end of this lesson, you can:**
-
-- Confirm the readiness bar reads 5 of 5 essentials
-- Record the backstop and estate-tax decisions
-
----
-The backstop is built and the estate-tax number is read. This is the pass that says whether it would actually hold.
-
-### Record your decisions
-
-Off-app. These go in your notes or a shared document.
-
-- **Executor + backup**. Asked and accepted.
-- **Estate level 1–3**. From the Lesson 2 self-triage.
-- **Access-split status**. Set / tested / not yet.
-- **Insurance gaps**. Flagged on the Coverage Audit worksheet from the insurance lesson.
-- **If the trust gate said yes** (Lesson 7): the five attorney questions go to the interview.
-
-Optional artifact: **Protect header → "Download estate summary."**
-
-⚠ **This lesson is not the encrypted plan backup.** That path. Settings → Data & backups → "Export Plan". Opens a plaintext passphrase prompt (see Module 7's walkthrough, Step 3). Nothing in this lesson needs it; save the plan backup for the annual review.
-
----
-
-
-### What good looks like
-
-- **Readiness reads higher than it did at the start**. "{n} of 5 essentials in place." Letter, switch, and beneficiaries should all be green after this lap.
-- **Letter completeness: zero flags.** All four rows read Added / Named / Written / Yes.
-- **Switch armed, right recipients, next check-in date visible.** This is a communication layer, a signal to your executor, not the legal work itself.
-- **Beneficiary allocations don't contradict the will or the policies.** The form overrides the will.
-- **Nothing secret got typed.** The red banner was read out loud. "Where to begin" got a location for *documents,* never for keys.
-- **The viewer reads "After-tax estate," not "Gross assets."** After-tax is the number that actually reaches heirs.
-- **Both growth cases got read out loud**, and the viewer can name which side of the line each lands on.
-- **The default outcome is "do nothing."** Most households are under it.
-- **State caveat named** with a real state selected, not hand-waved.
-- **No exemption figure quoted out loud.** The screen carries the number.
-- **Both decisions written down.** Backstop status + estate-tax outcome under both models.
-
-### What got built
-
-| # | Item | Where it lives |
-|---|---|---|
-| 1 | Heir letter. app record (contacts, content, PDF export) | Protect → Heir letter → "Edit heir letter" → "Download PDF" |
-| 2 | Heir letter. family-ready page | Course toolkit → **06 The Heir Letter** (PDF) |
-| 3 | Dead man's switch, armed | Protect → Dead man's switch → "Turn on with a first check-in" (90-day default) |
-| 4 | Beneficiaries current | Protect → Beneficiaries → "Add beneficiary" |
-| 5 | AI-assisted draft (optional) | Protect → Heir letter assistant → "Draft with AI" |
-| 6 | Executor Packet, walked and signed | Course toolkit → **08 Executor Packet** (PDF). Section 6 signed by executor + preparer |
-| 7 | Estate + insurance decisions | Recorded decision + Coverage Audit worksheet from the insurance lesson |
-| 8 | Projected estate read | Protect → "Projected legacy" → "Projected estate after debt" |
-| 9 | After-tax number + exemption comparison | Protect → "See details →" → "After-tax estate" / "Federal estate tax" |
-| 10 | Two growth cases read | Plan → Retirement → Edit assumptions → Bitcoin |
-| 11 | State of residence + heir marginal rate | Protect → legacy drawer selects |
-| 12 | Estate-tax decision, recorded | Off-app (attorney this year, or annual review) |
-
-### Handing it off
-
-That's the estate-and-inheritance module. The next module (Maintenance & Annual Review) is where all nine modules' outputs meet the calendar: one timed monthly pass, one six-area annual lap, and a report you save each year. Everything you built here — letter, switch, beneficiaries, custody map, tax number — lands on that annual lap.
-
 
 # Unit 10 · Module 9 — Maintenance (Capstone)
 
@@ -6316,7 +6321,7 @@ How to think about it:
 
 1. Pick your monthly day and your annual month.
 2. Put both on your calendar as recurring events, right now.
-3. Write one line on what you will not touch during a monthly pass.
+3. Decide what you will not touch during a monthly pass, and hold that line when the price is moving.
 
 *`TEACH` · 729 words · ~5 min*
 
@@ -6534,8 +6539,8 @@ How to think about it:
 ### Homework
 
 1. Pick your annual review month and put it on the calendar as recurring.
-2. Write your three-action cap down as a rule you'll actually follow.
-3. Write what "done" means for you: the report saved and the backup exported.
+2. Hold the three-action cap. More than three and none of them get finished.
+3. "Done" is the report saved and the backup exported. Both live in the app.
 
 
 ## 10.3 Walkthrough: run the annual review in Orange Plan
@@ -6635,7 +6640,7 @@ Six screens, ~40 seconds each. You're reading these screens, not editing them. I
 
 The reserve read is the **"Reserve buffer"** strip: **"{N} yrs · without selling investments."**
 
-Refill the reserve by hand on the Lesson 3 rule:
+Refill the reserve by hand on the draw-and-refill rule:
 - **Good year** → refill to $120,000 (the 18-month target).
 - **Cut year** → stop at roughly 12 of 18 months (~$80,000).
 - **Target months never moves.**
@@ -6839,7 +6844,7 @@ Both of those are also what populate the "if Bitcoin follows a different path" s
 
 - Save one stress test: a deep drawdown right after your retirement year. Run the Monte Carlo on it.
 - Save one choice you're genuinely weighing, built as a single-variable scenario.
-- Answer the stress test out loud: would you still be okay? If no, write down which lever you'd pull.
+- Answer the stress test out loud: would you still be okay? If no, build the lever you'd pull as its own scenario and see whether it actually fixes it.
 
 
 ## 11.2 Walkthrough: build and compare a scenario in Orange Plan

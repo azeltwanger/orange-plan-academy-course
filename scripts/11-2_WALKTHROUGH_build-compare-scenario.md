@@ -106,15 +106,9 @@
 
 **DO** **Review scenario** (top right — renders only with a scenario selected AND the editor closed)
 
-**SEE** It reads saved scenarios, projection years, life events, assumptions
-
 **SEE** Asks: *"Which saved scenario would you like to compare with your current plan?"*
 
-**DO** Answer → stop talking until it lands → read one line back, say whether you agree
-
 **⚠** When to actually run it: when you're explaining a comparison to someone else, or when you can't tell why two scenarios differ.
-
-**⚠** It explains and compares. It doesn't decide.
 
 ---
 

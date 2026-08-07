@@ -34,6 +34,6 @@ $298k debt ÷ $745k assets = **40% DTA** (top of workable). ~$1,850/mo payments 
 
 ## Homework
 
-1. Write both ratios from **Strategy → Debt**.
-2. Write your ceiling.
+1. Read both ratios off **Strategy → Debt**. The app keeps them current.
+2. Decide your ceiling. There's no field for it, so say it out loud and mean it.
 3. Say whether you're inside it today. If not, that's your first debt job.

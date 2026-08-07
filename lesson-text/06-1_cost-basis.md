@@ -21,7 +21,7 @@ Timing sales by lot · harvesting losses · harvesting gains · modeling the rea
 
 ## Rebuilding what's missing
 
-Pull every record from every exchange and wallet. For the gaps: narrow the purchase window honestly, use that window's price range, and write down the method. The IRS standard is **"reasonable and documented," not perfect.**
+Pull every record from every exchange and wallet. For the gaps: narrow the purchase window honestly, use that window's price range, and record the method alongside the lot. The IRS standard is **"reasonable and documented," not perfect.**
 
 ## Never leave basis blank
 

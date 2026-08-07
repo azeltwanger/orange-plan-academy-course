@@ -147,17 +147,11 @@
 
 **DO** Strategy → Tax → **Review Tax Strategy** (header, near Download Tax Summary)
 
-**SEE** It reads tax context + future projection + the conversion comparison
-
 **SEE** Asks: *"Is there a tax event this year that Orange Plan does not yet include?"*
 
 **DO** Answer honestly — a big sale, an inheritance, a business exit
 
-**DO** Read one thing it surfaced, agree or disagree
-
 **⚠** Run it AFTER the lots are clean and BEFORE committing a conversion or harvest.
-
-**⚠** It reviews and explains. It does not decide.
 
 ---
 

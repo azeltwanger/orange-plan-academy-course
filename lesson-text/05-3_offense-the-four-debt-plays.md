@@ -33,6 +33,6 @@ Play 2 has a retirement version: the app compares Bracket-aware, Borrow-first, a
 
 ## Homework
 
-1. Pick your play, or write down that you're running none.
+1. Pick your play, or decide you're running none. None is a real answer and the common one.
 2. Model it as a scenario and read the confidence number both ways.
 3. If you're running one, write the operating rules before you act.

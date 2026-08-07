@@ -95,4 +95,4 @@ Your homework for this lesson is to:
 
 1. Set your withdrawal order in the app under Plan, Income, and then Withdrawal order, and apply it.
 2. Set your monthly build cap under Cash Flow and then Reserve settings, which controls your refill pace.
-3. Write your refill rule down in one sentence, so future you doesn't renegotiate it in a bad year.
+3. Say your refill rule out loud once, so future you doesn't renegotiate that build cap in a bad year.

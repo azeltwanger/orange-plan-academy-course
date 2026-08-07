@@ -28,5 +28,5 @@ The real downside is depending on a company across decades. But it's bounded: wo
 
 1. Decide whether an advanced setup is warranted at all. A well-run Level 2 is a valid stopping point.
 2. Adding a passphrase? Generate it from 7 random words (dice or an offline generator), back it up separately from the seed, practice with a small amount.
-3. Considering collaborative custody? Ask a provider the four questions and write down the answers before paying anything.
+3. Considering collaborative custody? Ask a provider the four questions and get the answers in writing before paying anything.
 4. Running multisig? Find the config, back it up, tell one person it exists.

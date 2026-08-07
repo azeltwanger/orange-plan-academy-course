@@ -60,8 +60,6 @@ Go back to that quarter-Bitcoin sale. With records, the real gain was $10,000. W
 Your homework for this lesson is to:
 
 1. Pull your full transaction history from every exchange and every wallet you've ever used.
-2. For every lot, write down what you paid and when. For the gaps, build the documented estimate we just walked through.
+2. Import it, so every lot carries what you paid and when. For the gaps, build the documented estimate we just walked through and enter that.
 
 This one is tedious. But you do it once, and it makes every future tax move in this module precise instead of approximate.
-
-One last note if you're outside the US: the frameworks in this course travel well, but the account types and tax rules don't. Map the concepts with a qualified local professional.

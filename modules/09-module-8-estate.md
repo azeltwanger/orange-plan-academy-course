@@ -2,6 +2,8 @@
 
 *Turn 'you can access it' into 'they can inherit it': executor and legal documents, the access split, the heir letter, the backstop switch, insurance, trusts if needed, and the Bitcoin-specific questions for the attorney.*
 
+> **US-specific module.** The executor role, the four documents, probate, trusts, and the federal exemption are all US law. Said ONCE, at the top of 9.1, and never repeated per lesson.
+
 ## 9.1 The executor, the four legal documents, and choosing an estate attorney
 *`TEACH + APP` · 2,265 words · ~11 min*
 
@@ -14,8 +16,8 @@
 - Recognize the Prudent Investor waiver that lets a trust hold concentrated Bitcoin
 
 ---
-> **US-specific.** The executor role, the four documents, and the probate process here are US law. Outside the US, the same jobs exist under different names and rules — work with a local estate professional.
 
+One thing before we start this module, and I'll say it once. The executor role, the legal documents, probate, trusts, and the federal estate exemption are all US law. If you're outside the US, the same jobs exist under different names, so take these frameworks to an estate professional in your own country.
 
 Custody was operational access: how you turn the device back into spendable Bitcoin. **Estate** is the legal transfer: how your family can inherit it without you in the room.
 
@@ -136,9 +138,6 @@ Take the five questions with you, ask them in order, and listen to both the answ
 - Have an attorney review it and supervise the signing. Execution formalities (witnesses, notarization) are state-specific.
 - If your household lit up the trust gate: line up two or three estate-attorney candidates and run the five questions in order.
 
-### If you're outside the US
-
-This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 ### Now put it in the app
 
@@ -582,8 +581,6 @@ Documents, split, and switch are all in place.
 - Run the graduation review each year
 
 ---
-> **Parts of this lesson are US-specific.** The framework (renting protection until the stack can carry the weight) is universal. Specific tax treatment of term-life payouts, disability benefits, and product structures ("infinite banking," whole life) is US-shaped.
-
 Your stack already self-insures the small stuff. The reserve from earlier in the course. Insurance covers the part the stack can't cover yet: the difference between what your family needs and what the stack already provides.
 
 Early on, that gap is huge, and insurance covers it cheaply. As the stack compounds, the gap shrinks, and your coverage can shrink with it.
@@ -661,9 +658,6 @@ Run the subtraction on your own household. Annual hole × years to cover minus s
 
 None of this is a product recommendation. Actual coverage runs through a licensed insurance professional.
 
-### If you're outside the US
-
-This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 
 ## 9.5 Advanced: do you need a trust, and which one?
@@ -676,8 +670,6 @@ This course teaches US rules. The frameworks — the tests, the splits, the math
 
 ---
 > **Advanced. Most plan-builders don't need a trust. Run the eight-trigger gate first. If it doesn't light up, the baseline is your plan.** Skim unless the trigger applies.
-
-> **US-specific.** Trusts, the federal estate exemption, and the Prudent Investor Rule are US law. Outside the US, work with a local estate professional.
 
 
 **Most of you don't need what's in this lesson.** Stopping at the baseline is a valid outcome.
@@ -775,9 +767,6 @@ Legal structure and key plan get designed together, with an attorney who underst
 
 Run all eight triggers on your household. Count your yeses. If zero or one, the baseline is your plan. Re-run the gate once a year. If more than that, take the five attorney questions from the executor lesson to two or three candidates.
 
-### If you're outside the US
-
-This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 ### Now put it in the app
 
@@ -865,88 +854,47 @@ Back on Protect → the **"Federal estate tax"** and **"State estate tax"** rows
 
 **Under the line** in every growth case you'd defend → *"that's a good outcome"*. Close the tab. Most households live here.
 
-**Over the line** under assumptions you actually believe → the Lesson 6 trust conversation is warranted. That's not "definitely owe tax". It's "worth an attorney hour this year."
+**Over the line** under assumptions you actually believe → the trust conversation is warranted. That's not "definitely owe tax". It's "worth an attorney hour this year."
 
 The state row's sub-caption names your state and its note when a state estate tax applies.
 
 ⚠ **A handful of states run their own estate tax at far lower thresholds** than the federal exemption. It's a local-attorney question rather than a plan-modeling one. Name it once.
 
-#### Step B5: Record the estate-tax decision
+#### Step B5: Record this module's decisions
 
-Off-app.
+Off-app, in your notes or a shared document.
 
-- **Under the line, or over it?**. Under which growth case.
-- **State flag**. Yes / no, and which state.
-- **Attorney conversation**. This year, or deferred to the annual review.
+- **Estate tax: under the line, or over it?** Under which growth case.
+- **State flag.** Yes / no, and which state.
+- **Attorney conversation.** This year, or deferred to the annual review.
+- **Executor and backup.** Asked and accepted.
+- **Your estate level, 1 to 3.** From the self-triage.
+- **Access-split status.** Set / tested / not yet.
+- **Insurance gaps.** Flagged on the Coverage Audit worksheet.
+- **If the trust gate said yes:** the five attorney questions go into the interview.
+
+Optional artifact: **Protect header → Download estate summary.**
+
+⚠ **That is not the encrypted plan backup.** The backup lives at Settings → Data & backups → Export Plan, and it belongs to the annual review, not here.
 
 Say the close on camera: for most households, running this number earns you the right to stop thinking about it until next year.
+
+#### Where this module's work lives
+
+| # | Item | Where it lives |
+|---|---|---|
+| 1 | Heir letter, app record (contacts, content, PDF export) | Protect → Heir letter → Edit heir letter → Download PDF |
+| 2 | Heir letter, family-ready page | Course toolkit → **06 The Heir Letter** (PDF) |
+| 3 | Dead man's switch, armed | Protect → Dead man's switch → Turn on with a first check-in |
+| 4 | Beneficiaries current | Protect → Beneficiaries → Add beneficiary |
+| 5 | AI-assisted draft (optional) | Protect → Heir letter assistant → Draft with AI |
+| 6 | Executor Packet, walked and signed | Course toolkit → **08 Executor Packet** (PDF), section 6 signed |
+| 7 | Estate + insurance decisions | Recorded decision + Coverage Audit worksheet |
+| 8 | Projected estate read | Protect → Projected legacy → Projected estate after debt |
+| 9 | After-tax number + exemption comparison | Protect → See details → After-tax estate / Federal estate tax |
+| 10 | State of residence + heir marginal rate | Protect → legacy drawer selects |
 
 ---
 
 
 Do not buy structure until the gate lights up, and design the legal and key plans together.
-
-## 9.6 Check your work
-*`CHECK` · 634 words · ~3 min*
-
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **9.6**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
-
-**By the end of this lesson, you can:**
-
-- Confirm the readiness bar reads 5 of 5 essentials
-- Record the backstop and estate-tax decisions
-
----
-The backstop is built and the estate-tax number is read. This is the pass that says whether it would actually hold.
-
-### Record your decisions
-
-Off-app. These go in your notes or a shared document.
-
-- **Executor + backup**. Asked and accepted.
-- **Estate level 1–3**. From the Lesson 2 self-triage.
-- **Access-split status**. Set / tested / not yet.
-- **Insurance gaps**. Flagged on the Coverage Audit worksheet from the insurance lesson.
-- **If the trust gate said yes** (Lesson 7): the five attorney questions go to the interview.
-
-Optional artifact: **Protect header → "Download estate summary."**
-
-⚠ **This lesson is not the encrypted plan backup.** That path. Settings → Data & backups → "Export Plan". Opens a plaintext passphrase prompt (see Module 7's walkthrough, Step 3). Nothing in this lesson needs it; save the plan backup for the annual review.
-
----
-
-
-### What good looks like
-
-- **Readiness reads higher than it did at the start**. "{n} of 5 essentials in place." Letter, switch, and beneficiaries should all be green after this lap.
-- **Letter completeness: zero flags.** All four rows read Added / Named / Written / Yes.
-- **Switch armed, right recipients, next check-in date visible.** This is a communication layer, a signal to your executor, not the legal work itself.
-- **Beneficiary allocations don't contradict the will or the policies.** The form overrides the will.
-- **Nothing secret got typed.** The red banner was read out loud. "Where to begin" got a location for *documents,* never for keys.
-- **The viewer reads "After-tax estate," not "Gross assets."** After-tax is the number that actually reaches heirs.
-- **Both growth cases got read out loud**, and the viewer can name which side of the line each lands on.
-- **The default outcome is "do nothing."** Most households are under it.
-- **State caveat named** with a real state selected, not hand-waved.
-- **No exemption figure quoted out loud.** The screen carries the number.
-- **Both decisions written down.** Backstop status + estate-tax outcome under both models.
-
-### What got built
-
-| # | Item | Where it lives |
-|---|---|---|
-| 1 | Heir letter. app record (contacts, content, PDF export) | Protect → Heir letter → "Edit heir letter" → "Download PDF" |
-| 2 | Heir letter. family-ready page | Course toolkit → **06 The Heir Letter** (PDF) |
-| 3 | Dead man's switch, armed | Protect → Dead man's switch → "Turn on with a first check-in" (90-day default) |
-| 4 | Beneficiaries current | Protect → Beneficiaries → "Add beneficiary" |
-| 5 | AI-assisted draft (optional) | Protect → Heir letter assistant → "Draft with AI" |
-| 6 | Executor Packet, walked and signed | Course toolkit → **08 Executor Packet** (PDF). Section 6 signed by executor + preparer |
-| 7 | Estate + insurance decisions | Recorded decision + Coverage Audit worksheet from the insurance lesson |
-| 8 | Projected estate read | Protect → "Projected legacy" → "Projected estate after debt" |
-| 9 | After-tax number + exemption comparison | Protect → "See details →" → "After-tax estate" / "Federal estate tax" |
-| 10 | Two growth cases read | Plan → Retirement → Edit assumptions → Bitcoin |
-| 11 | State of residence + heir marginal rate | Protect → legacy drawer selects |
-| 12 | Estate-tax decision, recorded | Off-app (attorney this year, or annual review) |
-
-### Handing it off
-
-That's the estate-and-inheritance module. The next module (Maintenance & Annual Review) is where all nine modules' outputs meet the calendar: one timed monthly pass, one six-area annual lap, and a report you save each year. Everything you built here — letter, switch, beneficiaries, custody map, tax number — lands on that annual lap.

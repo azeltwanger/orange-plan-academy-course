@@ -109,7 +109,7 @@ And put a note on your annual review to re-ask this at that year's balance, beca
 
 Your homework for this lesson is to:
 
-1. Write down which level you're at today, and which level your amount and your family say you should be at.
-2. If those two are different, write down the one thing that closes the gap.
-3. For anything you haven't self-custodied, write down how many institutions it's sitting in, and be honest about whether that number matches what's at stake.
-4. Write down what your whole stack is trusting: the device, the manufacturer, the firmware, the wallet software. If one answer covers everything you own, decide whether spreading it out is worth the extra setup you'd have to maintain.
+1. Name the level you're at today, and the level your amount and your family say you should be at.
+2. If those two are different, name the one thing that closes the gap.
+3. For anything you haven't self-custodied, count how many institutions it's sitting in, and be honest about whether that number matches what's at stake.
+4. Go through what your whole stack is trusting: the device, the manufacturer, the firmware, the wallet software. If one answer covers everything you own, decide whether spreading it out is worth the extra setup you'd have to maintain.

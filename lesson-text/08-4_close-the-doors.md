@@ -43,6 +43,6 @@ Every chunk costs a fee to spend, and the fee doesn't care how big the chunk is.
 
 ## Homework
 
-1. Write your only-one list (all nine).
+1. Make your only-one list (all nine).
 2. Fix just the top one this week.
 3. Watch the demo below for the on-screen setup + hardening.

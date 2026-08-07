@@ -41,4 +41,4 @@ Target: 18 months × $80k = $120k. Spending held → refill fully. Spending cut 
 
 1. Set your withdrawal order under **Plan → Income → Withdrawal order** and apply it.
 2. Set your **Monthly build cap** under Cash Flow → Reserve settings.
-3. Write your refill rule in one sentence, so future you doesn't renegotiate it in a bad year.
+3. Say your refill rule out loud once, so future you doesn't renegotiate the build cap in a bad year.

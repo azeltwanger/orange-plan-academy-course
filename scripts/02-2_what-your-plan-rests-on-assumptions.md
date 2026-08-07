@@ -69,4 +69,3 @@ Your homework for this lesson is to:
 1. Pick your Bitcoin growth model, and say out loud why you picked it.
 2. Set your inflation number.
 3. Enter both in the app, under Plan and then Edit assumptions.
-4. Write one sentence for each explaining why that's the assumption you'd defend.

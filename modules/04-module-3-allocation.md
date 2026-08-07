@@ -204,8 +204,8 @@ How to think about it:
 ### Homework
 
 1. Run the stress test at today's balance and answer out loud.
-2. Write down the position size you could hold through it.
-3. If that's smaller than what you hold now, write what you'll do about the difference.
+2. Set that position size as your target allocation in the app. The number you could hold through the drawdown is the target, not the number you hold today.
+3. If the target is below what you hold now, decide how you close the gap: new dollars only, or a sale with a tax cost you've checked.
 
 
 ## 4.3 Give every dollar a job: Reserve / Bridge / Forever
@@ -303,9 +303,9 @@ How to think about it:
 
 ### Homework
 
-1. Write a target for each bucket: Reserve, Bridge, Legacy.
-2. Open **Strategy → Allocation** and compare each target to what you actually hold.
-3. Write down which bucket is furthest behind. That's where new dollars go first.
+1. Open **Strategy → Allocation** and put every holding in a bucket: Reserve, Bridge, or Legacy.
+2. Set a target for each one so the app can tell you which is behind.
+3. The bucket furthest behind is where new dollars go first.
 
 
 ## 4.4 The contribution waterfall
@@ -427,10 +427,9 @@ You make this decision once and it routes every future dollar without you re-dec
 
 ### Homework
 
-1. Write your rung order and the dollar amount at each rung.
-2. Open **Strategy → Allocation** and write down which bucket currently reads **Behind**.
-3. Enter your contributions in the app so the projection reflects the real routing.
-4. Automate whatever you can at the source, so the decision runs itself.
+1. Enter your contributions in the app, rung by rung, so the projection reflects your real routing.
+2. Open **Strategy → Allocation** and read which bucket comes back **Behind**. That's the rung to fund next.
+3. Automate whatever you can at the source, so the decision runs itself.
 
 
 ## 4.5 Asset location: the right account for each holding

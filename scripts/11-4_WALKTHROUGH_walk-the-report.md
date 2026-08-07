@@ -106,13 +106,7 @@
 
 **⚠** It renders only with a scenario selected and the editor closed.
 
-**SEE** Asks: *"Which saved scenario would you like to compare with your current plan?"*
-
-**DO** Read one line it surfaced, agree or disagree
-
 **⚠** Use it when a scenario needs plain English before you hand the document to a spouse, a CPA, or an adult child.
-
-**⚠** It explains and compares. It doesn't decide.
 
 ---
 

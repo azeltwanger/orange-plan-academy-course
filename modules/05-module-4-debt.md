@@ -32,8 +32,8 @@ Be honest about which one you have. Debt that annoys you and debt that keeps you
 Debt isn't just a problem to eliminate. Held on purpose, debt does three jobs:
 
 1. **Liquidity.** Cash stays accessible. Bad month, you cover bills without forced-selling into a drawdown.
-2. **The spread.** Cheap debt vs higher expected returns. Invest the difference. Every dollar of 3% debt held while capital earns more than 3% is earning you the spread (Lesson 3).
-3. **Tax advantage.** Borrow instead of selling, avoid capital gains. Keep the Bitcoin, get the cash (Lesson 3 and Module 5).
+2. **The spread.** Cheap debt vs higher expected returns. Invest the difference. Every dollar of 3% debt held while capital earns more than 3% is earning you the spread.
+3. **Tax advantage.** Borrow instead of selling, avoid capital gains. Keep the Bitcoin, get the cash. The tax module works this one through.
 
 Businesses hold debt on purpose because it lets them grow. The right question isn't "how do I get to zero?" It's "what level helps me grow?"
 
@@ -172,9 +172,9 @@ How to think about it:
 
 ### Homework
 
-1. Write both of your ratios down from **Strategy → Debt**.
-2. Write your ceiling: the number you won't cross.
-3. Say out loud whether you're inside it today. If not, that's your first debt job.
+1. Read both ratios off **Strategy → Debt**. The app keeps them current, so there's nothing to copy down.
+2. Decide your ceiling: the number you won't cross. There's no field for it, so say it out loud and mean it.
+3. Say whether you're inside it today. If not, that's your first debt job.
 
 You've got a verdict word and a stress number. Both of them move when Bitcoin moves.
 
@@ -302,9 +302,9 @@ How to think about it:
 
 ### Homework
 
-1. Write your maximum starting LTV.
-2. Write your specific action for each of the three severity levels.
-3. If you already have a loan, open its detail view and check today's cushion against what you just wrote.
+1. Enter your lender's real thresholds on the loan in the app: starting LTV, top-up line, liquidation line. The cushion is only honest if those are your lender's numbers.
+2. Decide your action at each of the three severity levels before you're at one of them.
+3. If you already have a loan, open its detail view and read today's cushion against those lines.
 
 Everything so far has been defense: know your ratios, protect the cushion, don't get liquidated. The other half is what debt is actually for.
 
@@ -447,9 +447,9 @@ How to think about it:
 
 ### Homework
 
-1. Pick your play, or write down that you're running none.
+1. Pick your play, or decide you're running none. None is a real answer and the common one.
 2. Model it against your baseline as a scenario, and read the confidence number both ways.
-3. If you're running one, write the operating rules down before you act.
+3. If you're running one, set its rules before you act: what you borrow against, at what LTV, and what makes you stop.
 
 You've seen what one play does to your plan. Now every debt on the ledger needs a decision, including the ones you're keeping.
 
@@ -619,9 +619,8 @@ How to think about it:
 ### Homework
 
 1. Decide whether a Bitcoin-backed loan belongs in your plan at all. "No" is a completely legitimate and common answer.
-2. If you're considering one, take the 7 provider questions to two or three lenders and write down their answers side by side.
-3. Write your maximum starting LTV, and your specific action at each of the three lines.
-4. Model it in the app with your lender's real thresholds, then run the 50% drawdown scenario against it and see what happens.
+2. If you're considering one, take the 7 provider questions to two or three lenders and put their answers side by side. The differences between lenders are the whole decision.
+3. Model it in the app with your lender's real thresholds, then run the 50% drawdown scenario against it and see what happens.
 
 
 ## 5.5 Every debt gets a job
@@ -693,7 +692,7 @@ They have no Bitcoin-backed loan, so no debt in the Monitor tier.
 
 ### Homework
 
-Line up every debt with its rate. Assign each one to a tier and write down the job and the reason:
+Line up every debt with its rate. Set each one's job in the app, and say the reason out loud as you do it:
 
 - 24% credit card → Eliminate. Guaranteed 24% loss.
 - 8% car loan → Evaluate. Depends on your DTI and reserve.
@@ -701,7 +700,7 @@ Line up every debt with its rate. Assign each one to a tier and write down the j
 - 3% mortgage → Strategic. Keep on purpose.
 - 25% LTV Bitcoin-backed loan → Monitor. Watch the cushion.
 
-Every debt should have a decision, not a feeling.
+Every debt should end with a decision, not a feeling. The app is done when no row reads **no payoff path** unless you chose that on purpose.
 
 
 So let's put a job on every row.
@@ -769,33 +768,7 @@ Read at least one thing it surfaced out loud and say whether you agree. Your tol
 
 With a Bitcoin-backed loan in your plan, the panel adds a **BTC-loan safety check** to the menu.
 
-
-Every row has a job. Last thing is to check the work.
-
-## 5.6 Check your work
-*`CHECK` · 355 words · ~2 min*
-
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **5.6**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
-
-**By the end of this lesson, you can:**
-
-- Confirm every debt has a job and no row reads no payoff path
-- Read your stress number and your confidence number together
-
----
-Four decisions about debt are now in the plan. This is the read that tells you whether they landed.
-
-### What good looks like
-
-- **Debt-to-income** inside the band your income stability earns. This is the floor to watch. It doesn't move with Bitcoin. The caption tells you the line.
-- **Debt-to-assets** situational, roughly in the 10 to 35% household range. Remember the drift rule.
-- **The verdict word.** Strong is the healthy read. Elevated or Stretched means the plan needs work this year, not that it failed.
-- **The stress clause.** *"stress test reaches N% of assets"* is the number that matters. If a normal bear pushes it past your comfort, the leverage is too big.
-- **Every ledger row has a job selected**, and the status isn't **no payoff path** unless you deliberately chose open-ended.
-- **A low-rate mortgage** sits calmly under **Low-cost** on **Minimum payments**, with a stated reason for keeping it.
-- **LTV cushion (if any).** No severity chip is the healthy state. Any chip is this week's action, not this year's.
-
-### What got built
+#### Where this module's work lives
 
 | # | Item | Where it lives |
 |---|---|---|
@@ -807,8 +780,4 @@ Four decisions about debt are now in the plan. This is the read that tells you w
 | 6 | Payoff-versus-invest comparison | Scenarios → Custom scenario |
 | 7 | AI debt review | Strategy → Debt → Review Debt Strategy |
 
-Open the Dashboard and read your confidence number. Write it down next to the one you wrote at the end of Module 2. That is what four decisions about debt were worth.
-
-### Handing it off
-
-The next module covers tax strategy: cost basis, the three bucket types by tax treatment, Roth conversions, and how to think about your tax bracket across a Bitcoin-heavy plan.
+Close on the Dashboard and read your confidence number against the one from the baseline module. That difference is what four decisions about debt were worth.

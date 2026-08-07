@@ -34,6 +34,6 @@ Those are the app's labels. As a planning judgment, aim for somewhere in the 80 
 
 ## Homework
 
-1. Run the confidence check and write your number down.
-2. Write your target next to it.
+1. Run the confidence check. Your number saves with the plan.
+2. Set your target under the guardrails policy, so the app knows what on track means for you.
 3. Name the one lever you'd pull first. One, not four.

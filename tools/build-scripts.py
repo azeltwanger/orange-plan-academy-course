@@ -44,6 +44,11 @@ for p in parts[1:]:
     num = head.split()[0]
     title = head[len(num)+1:]
     body = p.split('\n', 1)[1]
+    # A lesson section runs until the next lesson OR the next unit header.
+    # Without this, the last lesson in a module swallows the following
+    # "# Unit N · Module M" heading and its blurb (hit when Module 0 gained
+    # a second lesson, 2026-08-07).
+    body = re.split(r'\n#{1,2} Unit \d+ ', body)[0]
     is_screen = (title.lower().startswith('walkthrough')
                  or 'check your work' in title.lower()
                  or title.startswith('External demo'))

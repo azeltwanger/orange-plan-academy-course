@@ -92,6 +92,6 @@ Run it before year-end, because the tax card is the only area with a hard deadli
 Your homework for this lesson is to:
 
 1. Pick your annual review month and put it on the calendar as recurring.
-2. Write your three-action cap down as a rule you'll actually follow.
-3. Write down what done means for you: the report saved and the backup exported.
+2. Hold the three-action cap. More than three and none of them get finished.
+3. Done means the report saved and the backup exported. Both of those live in the app.
 4. Then watch the module walkthrough below this video, where we run the monthly pass on a timer and then the full annual lap.

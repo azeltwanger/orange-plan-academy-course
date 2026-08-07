@@ -103,6 +103,5 @@ The fix is easy: use a fresh receiving address every time you receive. Modern wa
 
 Your homework for this lesson is to:
 
-1. Write your own only-one list, all 9 questions.
+1. Make your own only-one list, all 9 questions.
 2. Pick the one at the top, ranked by cost of loss, and fix it this week. Not all nine. Just that one.
-3.

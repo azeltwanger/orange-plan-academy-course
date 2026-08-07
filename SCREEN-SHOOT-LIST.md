@@ -2,7 +2,7 @@
 
 Capture **in this order** — app state builds forward from one segment to the next, same as a student's plan would. The master file is the full script; this sheet is what sits next to the keyboard while you record.
 
-**19 segments · ~184 minutes of raw capture.**
+**18 segments · ~165 minutes of raw capture.**
 Before the first segment: seed the demo account with the couple's canonical numbers (Phase 0 of FILMING-CHECKLIST.md). Clean browser profile, notifications off, 5 seconds of stillness before the first click and after the last. **Evergreen rule: never zoom on or read out a law-set number (brackets, limits, exemptions) — call it "the current number the app shows" and move on.**
 
 ## ☐ Segment 2.4 — Walkthrough: set up your plan (onboarding)
@@ -123,14 +123,6 @@ Before the first segment: seed the demo account with the couple's canonical numb
 
 ---
 
-## ☐ Segment 5.6 — Check your work
-*entire lesson · ~4 min capture (plus retakes)*
-
-**Beats (tick as you capture):**
-1. ☐ **What good looks like**
-
----
-
 ## ☐ Segment 6.5 — Walkthrough: model it in Orange Plan
 *entire lesson · ~14 min capture (plus retakes)*
 
@@ -148,7 +140,7 @@ Before the first segment: seed the demo account with the couple's canonical numb
 
 ---
 
-## ☐ Segment 7.7 — Walkthrough: build the paycheck in Orange Plan
+## ☐ Segment 7.6 — Walkthrough: build the paycheck in Orange Plan
 *entire lesson · ~17 min capture (plus retakes)*
 
 **Before you hit record:**
@@ -215,7 +207,7 @@ Before the first segment: seed the demo account with the couple's canonical numb
 
 ---
 
-## ☐ Segment 9.3-B — The heir letter
+## ☐ Segment 9.3-B — The heir letter and the dead man's switch
 *app section only (A-roll filmed separately) · ~6 min capture (plus retakes)*
 
 **Before you hit record:**
@@ -226,18 +218,11 @@ Before the first segment: seed the demo account with the couple's canonical numb
 1. ☐ **Step 1: Start the heir letter. Contacts first** — `Protect → "Needs attention" → "Heir letter" row → "Finish."`
 2. ☐ **Step 2: Write the letter. With the rule on screen** — `Same panel → any "Edit" link → dialog "Edit heir letter."`
 3. ☐ **Step 3: AI · "Draft with AI"** — `Protect → "Heir letter" panel → sub-heading "Heir letter assistant" → button "Draft with AI."`
+4. ☐ **Step 4: Arm the 90-day switch** — `Protect → "Needs attention" → "Dead man's switch" row → "Turn on."`
 
 ---
 
-## ☐ Segment 9.4-B — The 90-day dead man's switch
-*app section only (A-roll filmed separately) · ~2 min capture (plus retakes)*
-
-**Beats (tick as you capture):**
-1. ☐ **Step 4: Arm the 90-day switch** — `Protect → "Needs attention" → "Dead man's switch" row → "Turn on."`
-
----
-
-## ☐ Segment 9.6-B — Advanced: do you need a trust, and which one?
+## ☐ Segment 9.5-B — Advanced: do you need a trust, and which one?
 *app section only (A-roll filmed separately) · ~7 min capture (plus retakes)*
 
 **Before you hit record:**
@@ -254,15 +239,7 @@ Before the first segment: seed the demo account with the couple's canonical numb
 
 ---
 
-## ☐ Segment 9.7 — Check your work
-*entire lesson · ~6 min capture (plus retakes)*
-
-**Beats (tick as you capture):**
-1. ☐ **What good looks like**
-
----
-
-## ☐ Segment 10.4 — Walkthrough: run the annual review in Orange Plan
+## ☐ Segment 10.3 — Walkthrough: run the annual review in Orange Plan
 *entire lesson · ~15 min capture (plus retakes)*
 
 **Before you hit record:**

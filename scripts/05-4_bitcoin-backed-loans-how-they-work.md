@@ -146,6 +146,5 @@ If you couldn't fund a margin call, you can't afford the loan.
 Your homework for this lesson is to:
 
 1. Decide whether a Bitcoin-backed loan belongs in your plan at all. No is a completely legitimate answer, and it's the common one.
-2. If you're considering one, take those 7 provider questions to two or three lenders and write their answers down side by side.
-3. Write down your maximum starting LTV, and your specific action at each of the three lines.
-4. Model it in the app using your lender's real thresholds, then run the 50% drawdown scenario against it and watch what happens.
+2. If you're considering one, take those 7 provider questions to two or three lenders and put their answers side by side. The differences between lenders are the whole decision.
+3. Model it in the app using your lender's real thresholds, then run the 50% drawdown scenario against it and watch what happens.

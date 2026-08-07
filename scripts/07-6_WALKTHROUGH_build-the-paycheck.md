@@ -134,11 +134,7 @@
 
 **SEE** Asks: *"What current retirement spending target would you like Orange Plan to use?"*
 
-**DO** Answer → wait → read one item, agree or disagree
-
 **⚠** Run it once the order and guardrails are set, not before.
-
-**⚠** It explains and reviews. It isn't advice.
 
 ---
 

@@ -48,6 +48,6 @@ You pick a setup that matches what you hold. Then the price runs up, and the sam
 
 ## Homework
 
-1. Write your level today vs the level your amount and family require.
-2. If they differ, write the one thing that closes the gap.
-3. For anything not self-custodied, write how many institutions it sits in and whether that matches what's at stake.
+1. Name the level you're at today and the level your amount and family require.
+2. If they differ, name the one thing that closes the gap.
+3. For anything not self-custodied, count how many institutions it sits in and ask whether that matches what's at stake.

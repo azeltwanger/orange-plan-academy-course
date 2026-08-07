@@ -2,14 +2,14 @@
 
 *Cost basis first. Then the three account buckets, the tax window planner, RMD risk and Roth conversions, harvesting, and state taxes.*
 
+> **US-specific module.** Everything here runs on the US Internal Revenue Code: brackets, Roth accounts, RMDs, wash-sale rules, state taxes. Said ONCE, at the top of 6.1, and never repeated per lesson.
+
 ## 6.1 Cost basis: the unlock for everything else
 *`TEACH` · 715 words · ~5 min*
 
 > 🐞 Currency mangling in the lot-sale figures (item 17). Reconstructed from
 > arithmetic: hardware lot basis $7,500 → gain $17,500; exchange lot basis
 > $15,000 → gain $10,000.
-
-*This lesson is US-specific. Brackets, Roth accounts, RMDs, wash-sale rules, and state taxes assume the US Internal Revenue Code. Outside the US, the principles hold — check specifics with a local tax professional.*
 
 **By the end of this lesson, you can:**
 
@@ -19,6 +19,7 @@
 - Never leave basis blank
 
 ---
+One thing before we start this module, and I'll say it once. Everything in this module is built on US tax law. Brackets, Roth accounts, RMDs, wash-sale rules, state taxes. If you're outside the US, the way of thinking travels and the specific rules do not, so take these frameworks to a tax professional in your own country and let them map the containers.
 
 Real tax strategy works forward: act in the years your rate is low, and act before the government forces the timing. Every forward-looking move starts with one number being right.
 
@@ -79,11 +80,8 @@ On the 0.25 BTC sale above: $10,000 of real gain becomes $25,000 of gain, becaus
 
 ### Homework
 
-Pull your full history from every exchange and wallet. Then, for every lot, write down what you paid and when. Tedious. Done once. Makes every future tax move precise instead of approximate.
+Pull your full transaction history from every exchange and wallet, then import it so every lot carries what you paid and when. Tedious. Done once. Makes every future tax move precise instead of approximate.
 
-### If you're outside the US
-
-This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 
 ## 6.2 The three buckets, your bracket roadmap, and the state lever
@@ -105,8 +103,6 @@ This course teaches US rules. The frameworks — the tests, the splits, the math
 >
 > 📌 **Item 14 evidence:** the planned lesson "State taxes and relocation: a big
 > lever" was folded in here as "the state lever" section.
-
-*This lesson is US-specific. Brackets, Roth accounts, RMDs, wash-sale rules, and state taxes assume the US Internal Revenue Code. Non-US notes at the end.*
 
 **By the end of this lesson, you can:**
 
@@ -238,9 +234,6 @@ Three steps:
 
 Then look up your state's treatment of capital gains (regular income, special rate, or no tax) and estimate your realized-gain profile in the years you plan to sell. If the answer says "big lever," take it to a CPA who's done a real relocation before.
 
-### If you're outside the US
-
-This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 ## 6.3 The RMD risk + Roth conversions
 *`TEACH` · 954 words · ~7 min*
@@ -250,8 +243,6 @@ This course teaches US rules. The frameworks — the tests, the splits, the math
 > ✅ **Evergreen policy (Austin, 2026-08-04) replaces item 11.** Figures here
 > are already snapshot-framed ("Currently 73 — verify in the year it applies").
 > Don't re-verify per year; don't state them as durable facts on camera.
-
-*This lesson is US-specific. Non-US notes at the end.*
 
 **By the end of this lesson, you can:**
 
@@ -357,9 +348,6 @@ For completeness: 72(t) allows penalty-free early access on a rigid schedule. Re
 - If the total pushes you into a higher bracket than your bridge years, a Roth conversion schedule is worth modeling.
 - Build the model. Bring it to your CPA.
 
-### If you're outside the US
-
-This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 ## 6.4 Harvesting losses and gains
 *`TEACH` · 1,156 words · ~8 min*
@@ -369,8 +357,6 @@ This course teaches US rules. The frameworks — the tests, the splits, the math
 > Item 23 closed. Still item-14 evidence that the relocation lesson was merged.
 >
 > ⚠ Wash-sale exemption for Bitcoin: lesson says verify — include in item 11.
-
-*This lesson is US-specific. Non-US notes at the end.*
 
 **By the end of this lesson, you can:**
 
@@ -517,9 +503,6 @@ Two checks against your lots:
 
 Those two answers are what you take to your CPA.
 
-### If you're outside the US
-
-This course teaches US rules. The frameworks — the tests, the splits, the math — travel well, but the account types, tax rules, and legal containers don't. Map the concepts with a qualified local professional.
 
 
 ## 6.5 Walkthrough: model it in Orange Plan
@@ -537,8 +520,6 @@ This course teaches US rules. The frameworks — the tests, the splits, the math
 > ✅ **Resolves item 7:** the "Tax funding" picker is named here with both
 > options ("Plan cash flow (withdrawal order)" / "Withheld from each
 > conversion") — matches the engine behavior found in runProjection.jsx.
-
-*This walkthrough uses US tax mechanics (Roth conversions, cost basis lots, bracket thresholds). If you're outside the US, the walkthrough is still useful for seeing the shape of the modeling. Swap in the analogous containers from your jurisdiction with help from a local tax professional.*
 
 **By the end of this lesson, you can:**
 
@@ -630,7 +611,7 @@ Open **Customize schedule → Conversion schedule** panel:
 - Hover a timeline bar for detail: *"Conversion tax cost," "Projected year-end traditional,"* and IRMAA when it applies.
 - **Tax funding** picker: **Plan cash flow (withdrawal order)** or **Withheld from each conversion**.
 
-Prefer **Plan cash flow**. That's paying the conversion tax from taxable cash, which is what Lesson 3 called for.
+Prefer **Plan cash flow**. That's paying the conversion tax from taxable cash, never from the conversion itself.
 
 Commit with **Apply schedule**.
 

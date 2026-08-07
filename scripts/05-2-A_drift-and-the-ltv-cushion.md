@@ -67,6 +67,6 @@ Size the cushion to a normal bear market, not a mild one, because a 70 to 80% dr
 
 Your homework for this lesson is to:
 
-1. Write down your maximum starting LTV.
-2. Write your specific action for each of the three severity levels.
-3. If you already have a loan, open its detail view and check today's cushion against what you just wrote.
+1. Enter your lender's real thresholds on the loan in the app. Your starting LTV, your top-up line, and your liquidation line. The cushion is only honest if those are your lender's actual numbers.
+2. Decide your specific action at each of the three severity levels, before you're standing at one of them.
+3. If you already have a loan, open its detail view and read today's cushion against those lines.

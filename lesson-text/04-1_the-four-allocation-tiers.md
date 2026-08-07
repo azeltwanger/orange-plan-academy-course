@@ -28,4 +28,4 @@ Two numbers describe your situation: your allocation tier and your custody level
 ## Homework
 
 1. Place yourself honestly on education, conviction, and custody.
-2. Write down your tier. The percentage falls out of the three answers. It isn't picked first.
+2. Name your tier. The percentage falls out of the three answers. It isn't picked first.

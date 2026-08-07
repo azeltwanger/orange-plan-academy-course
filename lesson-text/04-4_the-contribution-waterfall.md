@@ -46,7 +46,6 @@ When you have a choice inside a rung, **check which bucket is behind and fund th
 
 ## Homework
 
-1. Write your rung order and the amount at each rung.
-2. Open **Strategy → Allocation** and note which bucket reads **Behind**.
-3. Enter your contributions in the app.
-4. Automate what you can at the source.
+1. Enter your contributions in the app, rung by rung, so the projection reflects your real routing.
+2. Open **Strategy → Allocation** and read which bucket comes back **Behind**. That's the rung to fund next.
+3. Automate what you can at the source.

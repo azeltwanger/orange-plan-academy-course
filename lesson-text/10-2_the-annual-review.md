@@ -44,5 +44,5 @@ A tick-as-you-go checklist plus a note for next year. One card from every module
 ## Homework
 
 1. Pick your annual review month, recurring on the calendar.
-2. Write your three-action cap down as a rule.
+2. Hold the three-action cap. More than three and none of them get finished.
 3. Write what "done" means: report saved, backup exported.

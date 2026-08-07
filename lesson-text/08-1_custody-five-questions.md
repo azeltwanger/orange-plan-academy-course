@@ -32,6 +32,6 @@ Two things follow. **It's reasonable not to want the whole job.** That's what co
 
 ## Homework
 
-1. Score the 5 questions and write the number.
-2. For each pile of Bitcoin, write down its job.
-3. Write down which question you'd fix first.
+1. Score the 5 questions. For most people the answer is one or two.
+2. For each pile of Bitcoin, name the job it's doing.
+3. Name which question you'd fix first. One, not five.

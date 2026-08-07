@@ -36,6 +36,6 @@ Halving the starting LTV moves the danger line dramatically further away.
 
 ## Homework
 
-1. Write your maximum starting LTV.
-2. Write your action for each of the three severity levels.
-3. If you have a loan, open its detail view and check today's cushion against what you wrote.
+1. Enter your lender's real thresholds on the loan in the app: starting LTV, top-up line, liquidation line.
+2. Decide your action at each of the three severity levels before you're at one of them.
+3. If you have a loan, open its detail view and read today's cushion against those lines.

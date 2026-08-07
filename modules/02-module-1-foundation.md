@@ -166,7 +166,6 @@ How to think about it:
 1. Pick your Bitcoin growth model and say out loud why you picked it.
 2. Set your inflation number.
 3. Enter both in the app under **Plan → Edit assumptions**.
-4. Write one sentence for each: why this is the assumption you'd defend.
 
 You'll get to change these later and see what the plan looks like under different assumptions. For now, we're setting the ones your baseline plan actually runs on.
 
@@ -281,8 +280,8 @@ How to think about it:
 
 ### Homework
 
-1. Run the confidence check in the app and write your number down.
-2. Write your target number next to it.
+1. Run the confidence check in the app. The number saves with your plan.
+2. Set your target under the guardrails policy, so the app knows what "on track" means for you.
 3. Name the one lever you'd pull first if you're under it. One, not four.
 
 The next module builds the cash flow that lets you keep buying Bitcoin without being forced to sell at the wrong time.

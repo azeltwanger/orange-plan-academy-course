@@ -96,7 +96,7 @@ The gap is largest right after your last paycheck and shrinks as the floor turns
 
 ### Homework
 
-Write your three numbers down: spending, floor, gap.
+Enter your retirement spending target and your Social Security estimate in the app. It solves the gap for you, which is the number the rest of the module works on.
 
 If you don't know your floor yet, pull your Social Security estimate this week. SSA.gov gives it in monthly and annual. The app takes it as monthly.
 
@@ -421,7 +421,7 @@ How to think about it:
 
 1. Set your withdrawal order in the app under **Plan → Income → Withdrawal order**, and apply it.
 2. Set your **Monthly build cap** under Cash Flow → Reserve settings to control refill pace.
-3. Write your refill rule in one sentence, so future you doesn't renegotiate it in a bad year.
+3. Say your refill rule out loud once, so future you doesn't renegotiate the build cap in a bad year.
 
 
 ## 7.4 Sell, borrow, or hold

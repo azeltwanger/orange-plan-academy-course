@@ -44,5 +44,5 @@ The floor is what your cash reserve gets sized from.
 
 1. Run the surplus calculation on your numbers.
 2. Link an account or import transactions so Orange Plan categorizes your spending, then label every line Keep / Cut / Reduce. The app has no Keep/Cut/Reduce labels, so mark those on paper or in a spreadsheet; what goes back in is the number you land on. Kill one subscription, renegotiate one bill.
-3. Write down both spending numbers: normal and bare-bones.
+3. Enter both spending numbers in the app: normal as Living spending, bare-bones in the reserve settings.
 4. Watch the walkthrough to enter it all in Orange Plan.

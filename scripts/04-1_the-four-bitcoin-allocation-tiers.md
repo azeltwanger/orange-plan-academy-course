@@ -62,4 +62,4 @@ Last thing on this. If a 70% drop in your largest position would meaningfully br
 Your homework for this lesson is to:
 
 1. Place yourself honestly across the three drivers. Education: what have you actually studied? Conviction: could you defend the position against a well-informed skeptic? And custody: what's your setup today, not what you're planning?
-2. Then write down your tier. The percentage is what falls out of those three answers. It's not what you pick first.
+2. Then name your tier. The percentage is what falls out of those three answers. It's not what you pick first.

@@ -71,7 +71,6 @@ You make this decision once and it routes every future dollar without you re-dec
 
 Your homework for this lesson is to:
 
-1. Write your rung order and the dollar amount at each rung.
-2. Open Strategy and then Allocation, and write down which bucket currently reads behind.
-3. Enter your contributions in the app so the projection reflects your real routing.
-4. Automate whatever you can at the source, so the decision runs itself.
+1. Enter your contributions in the app, rung by rung, so the projection reflects your real routing.
+2. Open Strategy and then Allocation, and read which bucket comes back behind. That's the rung to fund next.
+3. Automate whatever you can at the source, so the decision runs itself.

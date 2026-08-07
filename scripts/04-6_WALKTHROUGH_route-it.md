@@ -114,13 +114,9 @@
 
 **DO** Routing section header → **Route with AI**
 
-**SEE** It reads cash flow + contribution plan + debts
-
 **SEE** Message *"Route my next dollar"* · asks: current available amount, or test a different amount?
 
-**DO** Answer → wait → read one thing it surfaced, agree or disagree out loud
-
-**⚠** It reviews and explains. It does not decide.
+**⚠** Worth running when the surplus is real and you're stuck between two rungs.
 
 ---
 
@@ -137,8 +133,6 @@
 ## □ 9 · Review portfolio (AI)
 
 **DO** Strategy → Allocation → **Review portfolio** (page header)
-
-**SEE** It reads portfolio + saved target + funding timeframes
 
 **SEE** Its question IS the module: *"What would force you to sell investments during a deep Bitcoin drawdown?"*
 

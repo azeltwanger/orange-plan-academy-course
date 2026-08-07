@@ -67,6 +67,6 @@ Reserve comes first, because it's the only one with a deadline, and you already 
 
 Your homework for this lesson is to:
 
-1. Write a target for each bucket: Reserve, Bridge, and Legacy.
-2. Open Strategy and then Allocation, and compare each target to what you actually hold.
-3. Write down which bucket is furthest behind, because that's where your new dollars go first.
+1. Open Strategy and then Allocation, and put every holding you have into a bucket. Reserve, Bridge, or Legacy.
+2. Set a target for each one, so the app can tell you which bucket is behind.
+3. Whichever bucket comes back furthest behind is where your new dollars go first.

@@ -19,7 +19,7 @@ The first number is a realistic spending number, and you're going to build it fr
 
 The first piece is baseline spending. Housing, food, insurance, utilities, transportation. The second one is flexible spending. Travel, gifts, hobbies, entertainment. This is the stuff you'd pause in a bad year. The third one is healthcare. Premiums, out-of-pocket, prescriptions, dental, vision. And the fourth is lumpy costs. The roof, a car, a wedding, dental work, the HVAC going out. The stuff that doesn't happen every year but always happens eventually.
 
-Before you write your number down, run two honesty checks.
+Before you enter your number, run two honesty checks.
 
 First: is it realistic for the early years? Most people actually spend more in the first stretch of retirement, the go-go phase, because that's when the travel and the projects and the gifting happen.
 
@@ -45,7 +45,7 @@ The second question has real math behind it: you take the gap and divide by the 
 
 The third question is your reserve divided by the gap. A $160,000 reserve against an $80,000 gap is 2 years of funding without selling anything. That's your buffer measured in time, which is how I think you should measure it.
 
-Write both of those ratios down.
+Both of those ratios come out of the app once your spending target and your reserve are in it.
 
 == THE THREE NUMBERS MOVE OVER TIME ==
 
@@ -135,8 +135,7 @@ So if you're inside about 5 years of retiring, I'd treat filling that retirement
 
 Your homework for this lesson:
 
-1. Write your 3 numbers down: your spending, your floor, and your gap.
+1. Enter your retirement spending target and your Social Security estimate in the app. It solves the gap for you, and the gap is what the rest of this module works on.
 2. If you don't know your floor yet, pull your Social Security estimate this week. SSA.gov gives it to you in monthly and annual form. Heads up: the app takes it as a monthly number.
-3. Count your bridge years.
-4. Multiply by your early-year gap, and write the total down.
-5. Then look at your Bridge bucket and ask honestly: is it actually sized for that number?
+3. Count your bridge years and multiply by your early-year gap. That total is what your Bridge bucket has to carry.
+4. Then look at your Bridge bucket and ask honestly: is it actually sized for that number?

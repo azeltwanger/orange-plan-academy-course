@@ -4,7 +4,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ---
 
-> **Status: FINAL — cleared for filming (2026-08-07).** 53 lessons; every lesson
+> **Status: FINAL — cleared for filming (2026-08-07).** 52 lessons; every lesson
 > has a calibrated script and student-facing text. Files in `scripts/` and
 > `lesson-text/` are zero-padded, so GitHub's alphabetical sort equals film order.
 >
@@ -39,7 +39,8 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ## ☐ MODULE 0 — Start Here
 
 ☐ 1.1 Start here — 🎙 film `01-1`
-☐ Module 0: edit → upload → paste lesson text (`lesson-text/01-1`)
+☐ 1.2 How the AI works — 🎙 film `01-2` (fact sheet: AI-FACTS.md; the ONE place the AI is taught — later walkthroughs only name the button)
+☐ Module 0: edit → upload → paste lesson text (01-1 … 01-2)
 
 ## ☐ MODULE 1 — Foundation
 
@@ -74,9 +75,8 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 5.2 Drift + LTV cushion — 🎙 film `05-2-A` → 🖥 capture `05.2-B`
 ☐ 5.3 Offense: the four plays — 🎙 film `05-3-A` → 🖥 capture `05.3-B`
 ☐ 5.4 Bitcoin-backed loans: how they work — 🎙 film `05-4` (~11 min; LTV animation is the key graphic)
-☐ 5.5 Every debt gets a job — 🎙 film `05-5-A` → 🖥 capture `05.5-B`
-☐ 5.6 Check your work — 🖥 capture `05.6`
-☐ Module 4: edit A+B pairs → upload → paste lesson text (05-1 … 05-6)
+☐ 5.5 Every debt gets a job — 🎙 film `05-5-A` → 🖥 capture `05.5-B` (the module's read-back closes this screen half; there is no separate check-your-work video)
+☐ Module 4: edit A+B pairs → upload → paste lesson text (05-1 … 05-5)
 
 ## ☐ MODULE 5 — Tax
 
@@ -114,9 +114,8 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 9.2 The access split — 🎙 film `09-2`
 ☐ 9.3 Heir letter + dead man's switch — 🎙 film `09-3-A` → 🖥 capture `09.3-B` (~9 min; merged lesson; switch requires Cloud mode)
 ☐ 9.4 Insurance — 🎙 film `09-4`
-☐ 9.5 Advanced: trusts — 🎙 film `09-5` → 🖥 capture `09.5-B` (⚠ never say the exemption figure — point at screen)
-☐ 9.6 Check your work — 🖥 capture `09.6`
-☐ Module 8: edit A+B pairs → upload → paste lesson text (09-1 … 09-6)
+☐ 9.5 Advanced: trusts — 🎙 film `09-5` → 🖥 capture `09.5-B` (⚠ never say the exemption figure — point at screen; step B5 records the whole module's decisions)
+☐ Module 8: edit A+B pairs → upload → paste lesson text (09-1 … 09-5)
 
 ## ☐ MODULE 9 — Maintenance
 

@@ -74,3 +74,22 @@ Use this program as a way to:
 4. Verify anything before you're about to act on anything, like tax moves or specific estate planning documents.
 
 Alright, and with that, thanks for being here, and I'll see you in the first lesson.
+
+============================================================
+NOT YET DICTATED — add this to the disclaimer section.
+Austin asked for a US vs non-US breakdown here (2026-08-07) so the course
+says it ONCE, up front, instead of re-disclaiming in every tax and estate
+lesson. Facts verified against the app; rewrite in your own words.
+============================================================
+
+== WHO THIS COURSE IS BUILT FOR ==
+
+One thing to get out of the way up front, so I only have to say it once.
+
+This course is built on US rules. Two whole modules run on US law and nothing else. The tax module is entirely US: brackets, Roth accounts, traditional accounts, RMDs, wash-sale rules, and state taxes. The estate module is the same: the executor role, the legal documents, probate, trusts, and the federal estate exemption. Parts of the retirement income module are US too, because Social Security, Medicare, and the healthcare bridge before 65 are all US programs. And the asset location lesson is about US account wrappers.
+
+Everything else in the course travels anywhere. Your reserve. Your allocation and the emotion gates. Debt ratios and loan-to-value. All of custody. The shape of the retirement math. Scenarios. The monthly and annual rhythms.
+
+Here's how the app itself handles this. Everything is modeled in US dollars, and the tax engine is US federal plus state. There's no country setting to switch. So if you're outside the US, your balances, your cash flow, your allocation, and your projections are all still accurate. The lines that assume US rules are the tax lines and the Social Security lines.
+
+So if you're outside the US, my advice is: build the whole plan, use every framework, and then take the tax and estate modules to a professional in your own country to map the containers. The way of thinking is the same everywhere. The rules aren't.

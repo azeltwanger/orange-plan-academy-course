@@ -123,13 +123,7 @@
 
 **DO** Account menu → AI Review → **Review Cash Flow & Reserve**
 
-**SEE** It reads your cash flow + life events
-
-**SEE** Clarifying question: *"Fastest next move, or full check of income, spending, reserve, and routing?"*
-
-**DO** Answer → wait → read one thing it surfaced, agree or disagree out loud
-
-**⚠** It reviews and explains. It does not decide.
+**SEE** Its opening question: *"Fastest next move, or full check of income, spending, reserve, and routing?"*
 
 **⚠** Skip **Route my next dollar** — that's Module 3's centerpiece.
 

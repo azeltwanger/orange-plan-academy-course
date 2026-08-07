@@ -37,6 +37,6 @@ Each bucket gets a target % of investable assets. Working Sovereign-tier: ~5/15/
 
 ## Homework
 
-1. Write a target for Reserve, Bridge, and Legacy.
-2. Open **Strategy → Allocation** and compare each to what you hold.
-3. Write down which bucket is furthest behind. New dollars go there first.
+1. Open **Strategy → Allocation** and put every holding into a bucket: Reserve, Bridge, or Legacy.
+2. Set a target for each one so the app can tell you which is behind.
+3. The bucket furthest behind is where new dollars go first.

@@ -71,11 +71,10 @@ The alternative is retiring at a high, hitting a 70% drawdown in year one with n
 
 ## Homework
 
-1. Write down spending, floor, gap.
+1. Enter your retirement spending target and Social Security estimate in the app. It solves the gap for you.
 2. No floor number yet? Pull your Social Security estimate this week (the app takes it monthly).
-3. Count your bridge years.
-4. Multiply by your early-year gap.
-5. Ask honestly: is your Bridge bucket sized for that number?
+3. Count your bridge years and multiply by your early-year gap. That total is what your Bridge bucket has to carry.
+4. Ask honestly: is your Bridge bucket sized for that number?
 
 ## Look it up
 

@@ -83,5 +83,5 @@ Your homework for this lesson is to:
 
 1. Save one stress test, which is a deep drawdown right after your retirement year, and run the Monte Carlo on it.
 2. Save one choice that you're genuinely weighing, and build it as a single-variable scenario.
-3. Answer the stress test out loud. Would you still be okay? And if the answer is no, write down which lever you'd pull.
+3. Answer the stress test out loud. Would you still be okay? And if the answer is no, build the lever you'd pull as its own scenario and see whether it actually fixes it.
 4. Then watch the walkthrough below this video, where I'll build both of these with you in Orange Plan.

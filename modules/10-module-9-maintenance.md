@@ -68,7 +68,7 @@ How to think about it:
 
 1. Pick your monthly day and your annual month.
 2. Put both on your calendar as recurring events, right now.
-3. Write one line on what you will not touch during a monthly pass.
+3. Decide what you will not touch during a monthly pass, and hold that line when the price is moving.
 
 *`TEACH` · 729 words · ~5 min*
 
@@ -286,8 +286,8 @@ How to think about it:
 ### Homework
 
 1. Pick your annual review month and put it on the calendar as recurring.
-2. Write your three-action cap down as a rule you'll actually follow.
-3. Write what "done" means for you: the report saved and the backup exported.
+2. Hold the three-action cap. More than three and none of them get finished.
+3. "Done" is the report saved and the backup exported. Both live in the app.
 
 
 ## 10.3 Walkthrough: run the annual review in Orange Plan
@@ -387,7 +387,7 @@ Six screens, ~40 seconds each. You're reading these screens, not editing them. I
 
 The reserve read is the **"Reserve buffer"** strip: **"{N} yrs · without selling investments."**
 
-Refill the reserve by hand on the Lesson 3 rule:
+Refill the reserve by hand on the draw-and-refill rule:
 - **Good year** → refill to $120,000 (the 18-month target).
 - **Cut year** → stop at roughly 12 of 18 months (~$80,000).
 - **Target months never moves.**

@@ -69,6 +69,6 @@ And knowing what the job actually asks of you is part of the decision too. If th
 
 Your homework for this lesson is to:
 
-1. Score yourself on the 5 questions and write down your number.
-2. For each pile of Bitcoin you hold, write down what job it's doing.
-3. Write down which of the 5 questions you'd fix first.
+1. Score yourself on the 5 questions. For most people it comes out at one or two.
+2. For each pile of Bitcoin you hold, name the job it's doing.
+3. Name which of the 5 questions you'd fix first. One, not five.

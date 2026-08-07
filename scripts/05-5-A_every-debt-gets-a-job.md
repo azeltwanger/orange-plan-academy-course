@@ -60,8 +60,7 @@ Notice that both of their debts got the same job, minimum only, but for two diff
 Your homework for this lesson is to:
 
 1. Line up every debt you have with its rate next to it.
-2. Assign each one a tier and a job, and write down the reason. A 24% credit card is eliminate, because it's a guaranteed 24% loss. An 8% car loan is evaluate, and the answer depends on your DTI and your reserve. A 5.5% student loan is strategic. A 3% mortgage is strategic, kept on purpose. And a Bitcoin-backed loan at 25% LTV is monitor, watched by the cushion.
-3. Make sure every debt ends up with a decision, not a feeling.
-4. Then watch the module walkthrough below this video, where we read the whole debt picture back in Orange Plan.
+2. Set each one's tier and job in the app, and say the reason out loud as you do it. A 24% credit card is eliminate, because it's a guaranteed 24% loss. An 8% car loan is evaluate, and the answer depends on your DTI and your reserve. A 5.5% student loan is strategic. A 3% mortgage is strategic, kept on purpose. And a Bitcoin-backed loan at 25% LTV is monitor, watched by the cushion.
+3. Make sure every debt ends up with a decision, not a feeling. The app is done when no row reads no payoff path, unless you chose that on purpose.
 
 So now let's go put a job on every row in the app.

@@ -75,6 +75,6 @@ So how do you actually decide? Check it against defense first, because if a play
 
 Your homework for this lesson is to:
 
-1. Pick your play, or write down that you're running none.
+1. Pick your play, or decide you're running none. None is a real answer and it's the common one.
 2. Model it against your baseline as a scenario, and read the confidence number both ways.
-3. If you're running one, write the operating rules down before you act.
+3. If you're running one, set its rules before you act. What you borrow against, at what LTV, and what makes you stop.

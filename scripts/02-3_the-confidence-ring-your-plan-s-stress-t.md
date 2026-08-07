@@ -80,7 +80,7 @@ Pick your target before you look at your number, so the number doesn't just talk
 
 Your homework for this lesson is to:
 
-1. Run the confidence check in the app and write your number down.
-2. Write your target number next to it.
+1. Run the confidence check in the app. Your number saves with the plan, so there's nothing to copy down.
+2. Set your target under the guardrails policy, so the app knows what on track means for you.
 3. Name the one lever you'd pull first if you're under it. One, not all four.
 4. Then watch the two walkthroughs below this video, where we set the plan up in Orange Plan and build your baseline.

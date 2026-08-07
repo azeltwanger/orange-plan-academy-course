@@ -61,4 +61,4 @@ At most three actions, all finishable before the next pass. A long to-do list is
 
 1. Pick your monthly day and annual month.
 2. Put both on the calendar as recurring, now.
-3. Write one line on what you will not touch during a monthly pass.
+3. Decide what you will not touch during a monthly pass, and hold that line when the price is moving.

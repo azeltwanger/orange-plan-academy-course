@@ -66,5 +66,5 @@ The way I think about this is pretty simple. Run the stress test on today's bala
 Your homework for this lesson is to:
 
 1. Run the stress test at today's balance and answer out loud.
-2. Write down the position size you could hold through it.
-3. If that's smaller than what you're holding now, write down what you're going to do about the difference.
+2. Set that position size as your target allocation in the app. The size you could hold through the drawdown is your target. Not the size you're holding today.
+3. If the target comes out smaller than what you're holding now, decide how you close that gap. New dollars only, or a sale with a tax cost you've actually checked.

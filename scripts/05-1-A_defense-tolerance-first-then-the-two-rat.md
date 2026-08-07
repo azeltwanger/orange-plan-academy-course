@@ -69,6 +69,6 @@ Here's how I'd think about it. Start with tolerance, not the ratios, because if 
 
 Your homework for this lesson is to:
 
-1. Write both of your ratios down off the Strategy and then Debt page.
-2. Write your ceiling, meaning the number you won't cross.
+1. Read both of your ratios off the Strategy and then Debt page. The app keeps them current, so there's nothing to copy down.
+2. Decide your ceiling, meaning the number you won't cross. There's no field for that one, so say it out loud and mean it.
 3. Say out loud whether you're inside it today. If you're not, that's your first debt job.

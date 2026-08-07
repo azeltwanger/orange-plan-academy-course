@@ -107,8 +107,6 @@ Here's why the cap matters. A long to-do list is the single biggest reason these
 
 Your homework for this lesson:
 
-1. Pick your monthly day and your annual month.
-2. Put both on your calendar as recurring events, right now.
-3. Write one line on what you will not touch during a monthly pass.
-4. Pick a specific day for your monthly pass. Not "soon," and not "the beginning of the month." A day.
-5. Set the calendar event to repeat, and confirm it's actually on there.
+1. Pick a specific day for your monthly pass and a month for your annual review. Not soon, and not the beginning of the month. A day.
+2. Put both on your calendar as recurring events, right now, and confirm they're actually on there.
+3. Decide what you will not touch during a monthly pass, and hold that line when the price is moving.

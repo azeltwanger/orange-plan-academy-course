@@ -85,5 +85,4 @@ Your homework for this lesson is to:
 
 1. Walk through the surplus calculation on your own numbers, the same way we just did it.
 2. Link an account or import your transactions so the app can categorize your spending, then label every line as keep, cut, or reduce. Orange Plan doesn't have keep, cut, and reduce labels, so mark those on paper or in a spreadsheet. What goes back into the app is the number you land on. Kill one subscription and renegotiate one bill this week.
-3. Write down both of your spending numbers, your normal spending and your bare-bones floor.
-4.
+3. Enter both of your spending numbers in the app. Your normal spending goes in as living spending, and your bare-bones floor goes into the reserve settings. Those two drive everything from here.

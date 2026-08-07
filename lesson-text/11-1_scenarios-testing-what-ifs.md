@@ -65,4 +65,4 @@ Both also populate the report's "If Bitcoin follows a different path" section.
 
 1. Save one stress test: a deep drawdown right after your retirement year. Run the Monte Carlo.
 2. Save one choice you're genuinely weighing, as a single-variable scenario.
-3. Answer the stress test out loud. Would you still be okay? If no, write down which lever you'd pull.
+3. Answer the stress test out loud. Would you still be okay? If no, build the lever you'd pull as its own scenario and see whether it fixes it.

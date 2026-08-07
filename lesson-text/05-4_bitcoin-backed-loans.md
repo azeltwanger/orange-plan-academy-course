@@ -99,5 +99,4 @@ Run a 50% drawdown scenario with the loan in place and you're seeing its real be
 
 1. Decide whether a Bitcoin-backed loan belongs in your plan at all. "No" is legitimate and common.
 2. If considering one, take the 7 questions to two or three lenders and compare answers side by side.
-3. Write your maximum starting LTV and your action at each of the three lines.
-4. Model it in the app with real thresholds, then run the 50% drawdown scenario against it.
+3. Model it in the app with your lender's real thresholds, then run the 50% drawdown scenario against it.
