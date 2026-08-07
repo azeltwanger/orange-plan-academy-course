@@ -1,5 +1,5 @@
-TELEPROMPTER SCRIPT — segment 4.4
-4.4 Order your contributions: which account gets funded first
+TELEPROMPTER SCRIPT — segment 4.3
+4.3 Order your contributions: which account gets funded first
 ~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 

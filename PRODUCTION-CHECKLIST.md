@@ -59,15 +59,14 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 3.4 Walkthrough: cash flow + reserve — 🖥 capture `03.4` (10 steps)
 ☐ Module 2: edit → upload → paste lesson text (03-1 … 03-4)
 
-## ☐ MODULE 3 — Allocation
+## ☐ MODULE 3 — Allocation & Next-Dollar
 
-☐ 4.1 Pick your Bitcoin allocation tier — 🎙 film `04-1`
-☐ 4.2 Stress-test the allocation you can actually hold — 🎙 film `04-2`
-☐ 4.3 Break your accounts down by holding type, then by timeframe (two axes: asset type per account, then the 3 timeframe buckets) — 🎙 film `04-3`
-☐ 4.4 Order your contributions: which account gets funded first — 🎙 film `04-4`
-☐ 4.5 Asset location: which account each holding belongs in — 🎙 film `04-5`
-☐ 4.6 Walkthrough: route it — 🖥 capture `04.6` (10 steps; prereqs: salary source entered + surplus in step 3)
-☐ Module 3: edit → upload → paste lesson text (04-1 … 04-6)
+☐ 4.1 Set the Bitcoin allocation you can hold through a full drawdown — 🎙 film `04-1` (~9 min; merged 4.1+4.2)
+☐ 4.2 Break your accounts down by holding type, then by timeframe — 🎙 film `04-2`
+☐ 4.3 Order your contributions: which account gets funded first — 🎙 film `04-3`
+☐ 4.4 Asset location: which account each holding belongs in — 🎙 film `04-4` (module-final: carries the hand-off + the advanced signpost)
+☐ 4.5 Walkthrough: route it — 🖥 capture `04.5` (11 steps; prereqs: salary source entered + surplus in step 3)
+☐ Module 3: edit → upload → paste lesson text (04-1 … 04-5)
 
 ## ☐ MODULE 4 — Debt (hybrid lessons: A-roll + screen half, edited together)
 

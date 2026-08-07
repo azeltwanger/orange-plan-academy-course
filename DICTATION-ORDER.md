@@ -89,15 +89,14 @@ assumes it's been said. Don't skip past it.
 | 3.2 | Size your cash reserve in months of spending | 11.0 | **Already dictated.** Skip unless you want a retake. |
 | 3.3 | Fund known future costs: college, cars, a house, repairs | 6.9 | Module-final: hand-off |
 
-### Module 3 — Allocation · 40.5 min
+### Module 3 — Allocation · 33.4 min
 
-| # | Lesson | min |
-|---|---|---|
-| 4.1 | Pick your Bitcoin allocation tier | 6.8 |
-| 4.2 | Stress-test the allocation you can actually hold | 6.4 |
-| 4.3 | Break your accounts down by holding type, then by timeframe | 11.8 |
-| 4.4 | Order your contributions: which account gets funded first | 8.6 |
-| 4.5 | Asset location: which account each holding belongs in | 6.9 · module-final: hand-off |
+| # | Lesson | min | note |
+|---|---|---|---|
+| 4.1 | Set the Bitcoin allocation you can hold through a full drawdown | 9.4 | **Merged 4.1+4.2.** Never recorded in this form. |
+| 4.2 | Break your accounts down by holding type, then by timeframe | 11.8 | |
+| 4.3 | Order your contributions: which account gets funded first | 8.6 | |
+| 4.4 | Asset location: which account each holding belongs in | 6.9 | module-final: hand-off + advanced signpost |
 
 ### Module 4 — Debt · 43.0 min
 

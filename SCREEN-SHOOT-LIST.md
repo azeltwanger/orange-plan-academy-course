@@ -64,7 +64,7 @@ Before the first segment: seed the demo account with the couple's canonical numb
 
 ---
 
-## ☐ Segment 4.6 — Walkthrough: route it in Orange Plan
+## ☐ Segment 4.5 — Walkthrough: route it in Orange Plan
 *entire lesson · ~16 min capture (plus retakes)*
 
 **Before you hit record:**

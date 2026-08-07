@@ -2,22 +2,16 @@
 
 *Pick an allocation tier, stress-test what you can actually hold, split your money into Reserve / Bridge / Legacy, order your contributions, and put each holding in the right account type.*
 
-## 4.1 Pick your Bitcoin allocation tier
-*`TEACH` · 702 words · ~5 min*
-
-> ⚠ **Title mismatch.** Nav says *"The four Bitcoin allocation tiers"*; the page
-> H1 says *"Find your Bitcoin path: the four allocation tiers"*. One of 10 such
-> mismatches, and one of only 2 that are substantive rather than punctuation.
-> Action item 20.
->
-> 🐞 Currency mangling in the "what you divide by" figures (item 17).
+## 4.1 Set the Bitcoin allocation you can hold through a full drawdown
+*`TEACH` · 1,464 words · ~9 min*
 
 **By the end of this lesson, you can:**
 
-- Understand investable vs net-worth allocation
-- Name the four allocation tiers and their Bitcoin percentages
-- Match your current tier to your education, conviction, and custody
-- Pair your allocation with your custody so both are at the same level
+- Measure your Bitcoin allocation against the right denominator
+- Place yourself in a tier using education, conviction, and comfort with volatility
+- Price a 70 to 80% drawdown in dollars, not percentages
+- Set the largest position you could hold through one without selling
+- Check that your custody level supports the position
 
 ---
 
@@ -97,44 +91,6 @@ Tier: Sovereign, working on it. Homework: move the $25k off the exchange to clos
 
 If a 70% drop in your largest position would meaningfully break your plan, the position is too big for your comfort, regardless of what the percentage says. Match the size to what you can actually hold through.
 
-### Homework
-
-Place yourself honestly across the three drivers:
-
-- **Education.** What have you actually studied?
-- **Conviction.** Could you defend the position in an argument with a well-informed skeptic?
-- **Custody.** What's your setup today, not what you're planning?
-
-The percentage is what falls out of those three. Not what you pick first.
-
-
-## 4.2 Stress-test the allocation you can actually hold
-*`TEACH` · 549 words · ~4 min*
-
-> ⚠ **Title mismatch (substantive).** Nav: *"The two emotion gates: stress-test
-> + price context"*. Page H1: *"Two checks that keep your allocation honest"*.
-> Proposed v2 name: **"What you'd actually do if Bitcoin dropped 70%"**.
-> Item 20.
->
-> ⚠ **Terminology collision.** The hand-off line calls 4.3 "the three buckets" —
-> but Module 5 also has "the three buckets" (taxable / tax-deferred / Roth).
-> Two different sets, same name. Item 21.
->
-> 🐞 Currency mangling in the 2018 drawdown figures (item 17).
-
-**By the end of this lesson, you can:**
-
-- Run a stress test on your allocation against a realistic Bitcoin drawdown
-- Adjust your allocation if the stress test hits harder than you can hold through
-- Run a price context check before any Bitcoin-heavy move
-
----
-
-You've placed yourself on a tier. This lesson covers the two checks that go around it.
-
-- **Stress test.** Run once, when you set your allocation.
-- **Price context.** Run every time before a Bitcoin-heavy move.
-
 ### Check 1: the stress test
 
 The stress test finds out whether the allocation you picked is one you could actually live through.
@@ -173,23 +129,6 @@ That's the pressure that makes people sell at the bottom, which is the single th
 
 If the answer is no, you don't stop investing in Bitcoin. You adjust the allocation until you could sleep through the drawdown. You can also run this live in the app against the **Bear Market** preset (Bitcoin -60%, stocks -40%, 3-year recovery).
 
-### Check 2: the price context check
-
-This one runs before any Bitcoin-heavy move. Its job is to name the emotion in the room.
-
-#### Two lookbacks
-
-- **Recent (3, 6, 9, 12 months):** what you're feeling. Bitcoin up 40% in three months, you're feeling FOMO. Down 40%, you're feeling fear.
-- **Long (2 to 5 years):** what's actually true. The direction of the trend, not the mood of last week.
-
-Run both. Recent tells you which emotion you're carrying into the decision. Long tells you whether it's aligned with reality or reacting against it.
-
-#### What the check does and doesn't do
-
-It doesn't decide the move. It names the emotion so you can act on the plan instead of the mood.
-
-Before a big move (buying a large position, selling to lock in gains, taking out a Bitcoin-backed loan), if the recent 3-6 month price move is dramatic, you're probably reacting to it. Wait a beat. Is this the plan making the decision, or the price?
-
 ### Your decision
 
 **The largest Bitcoin position you could actually hold through a 70 to 80% drawdown without selling.**
@@ -207,8 +146,7 @@ How to think about it:
 2. Set that position size as your target allocation in the app. The number you could hold through the drawdown is the target, not the number you hold today.
 3. If the target is below what you hold now, decide how you close the gap: new dollars only, or a sale with a tax cost you've checked.
 
-
-## 4.3 Break your accounts down by holding type, then by timeframe
+## 4.2 Break your accounts down by holding type, then by timeframe
 *`TEACH` · 605 words · ~4 min*
 
 **By the end of this lesson, you can:**
@@ -333,7 +271,7 @@ How to think about it:
 3. Open **Sort accounts into buckets** and put every account in Reserve, Bridge, or Legacy yourself. Do not leave any on the inferred default.
 4. Compare the two cuts. If your mix is fine but your Legacy share is bigger than your years-to-retirement can carry, that is the gap to fix first.
 
-## 4.4 Order your contributions: which account gets funded first
+## 4.3 Order your contributions: which account gets funded first
 *`TEACH` · 575 words · ~4 min*
 
 > ✅ **MATH ERROR FIXED (item 22) — Option A applied 2026-07-30.** 3.1 no longer
@@ -457,7 +395,7 @@ You make this decision once and it routes every future dollar without you re-dec
 3. Automate whatever you can at the source, so the decision runs itself.
 
 
-## 4.5 Asset location: which account each holding belongs in
+## 4.4 Asset location: which account each holding belongs in
 *`TEACH` · 686 words · ~5 min*
 
 **By the end of this lesson, you can:**
@@ -541,7 +479,7 @@ For every account, ask: is the asset in it appropriate for the wrapper?
 Location isn't a one-time decision. Every year, and any time you rebalance, ask again.
 
 
-## 4.6 Walkthrough: route it in Orange Plan
+## 4.5 Walkthrough: route it in Orange Plan
 *`DEMO` · 1,895 words*
 
 > 🎥 **SCREEN SHARE — entire lesson.** Capture segment **4.6**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
