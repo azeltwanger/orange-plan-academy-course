@@ -53,12 +53,12 @@ changed once, in both places, before you record.
 
 ## The order
 
-### Module 0 — Start Here · 16 min
+### Module 0 — Start Here · 17 min
 
 | # | Lesson | min |
 |---|---|---|
 | 1.1 | How to use this course | 10.6 |
-| 1.2 | How the AI works: what it reads, what it never sees | 5.8 |
+| 1.2 | How the AI works: what it reads, what it never sees | 6.1 |
 
 ### Module 1 — Foundation: baseline, assumptions, and the confidence number · 21 min
 
@@ -66,7 +66,7 @@ changed once, in both places, before you record.
 |---|---|---|
 | 2.1 | What to gather before you build the plan | 6.1 |
 | 2.2 | Set your growth and inflation assumptions | 7.9 |
-| 2.3 | Read your retirement date and confidence number | 7.2 |
+| 2.3 | Read your retirement date and confidence number | 7.3 |
 | 2.4 | *Walkthrough: set up your plan in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 | 2.5 | *Walkthrough: build your baseline in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
@@ -76,7 +76,7 @@ changed once, in both places, before you record.
 |---|---|---|
 | 3.1 | Find your surplus and your two spending numbers | 11.1 |
 | 3.2 | Size your cash reserve in months of spending | 10.8 |
-| 3.3 | Fund known future costs: college, cars, a house, repairs | 6.7 |
+| 3.3 | Fund known future costs: college, cars, a house, repairs | 6.8 |
 | 3.4 | *Walkthrough: build cash flow and reserve in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
 ### Module 3 — Debt Strategy · 9 min

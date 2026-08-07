@@ -282,7 +282,7 @@ Three options:
 |---|---|
 | **Pay from flow.** | $25k/yr tuition eats $25k of their $48k annual surplus. Doable, but it takes more than half of every dollar the waterfall was routing, for four straight years. |
 | **Pre-fund from flow.** | Route ~$1,000/mo into an intermediate lane for 8 years. That's ~$96k contributed, or ~$110k with growth. Tuition years become a routing move from the lane, not a hit to surplus. |
-| **Sell from Bitcoin.** | Plan sales into low-bracket years. Efficient if the tuition years line up with the bridge years, otherwise it forces realized gains in high-bracket working years. |
+| **Sell from Bitcoin.** | Plan sales into low-bracket years. Efficient if the tuition years land in a low-income year, otherwise it forces realized gains in high-bracket working years. (The retirement module names those years and shows you how to count yours; here it is enough that a low-income year is a cheap year to sell in.) |
 
 > ⚠ (3.3 redesign, item 18): the options table above is missing a fourth row — borrow against Bitcoin.
 

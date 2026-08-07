@@ -135,7 +135,7 @@ Austin
 
 ## 1.2 How the AI works: what it reads, what it never sees
 
-*`TEACH` · ~896 words · ~6 min*
+*`TEACH` · ~938 words · ~6 min*
 
 **By the end of this lesson, you can:**
 
@@ -177,7 +177,7 @@ On the Protect page, it never gets names, contact details, the contents of your 
 
 On linked accounts, it never gets institution names, account names, account numbers, or exact balances.
 
-And it actively blocks secrets. If you use the heir letter drafting tool, it scans what you typed for anything that looks like a seed phrase, recovery words, a private key, a passphrase, a PIN, or a safe combination, and it refuses to draft until you take it out.
+And it actively blocks secrets. One of the estate tools lets the AI help you draft a document, and before it does, it scans what you typed for anything that looks like a secret: recovery words, a private key, a PIN, a safe combination. Find one and it refuses to draft until you take it out. Those terms will all mean something specific to you by the custody module; today the only thing to take away is that the app is actively watching for them.
 
 ### The one rule
 
@@ -197,7 +197,7 @@ So the practical version is: ask from the page relevant to your decision, and yo
 
 Every review comes back framed as options with trade-offs. It won't tell you that you should do something, it won't tell you to sell, convert, borrow, or buy, and it won't predict Bitcoin's price. It also won't quote you a current tax bracket or contribution limit from memory, which is deliberate, because those change and the app has the current ones.
 
-One thing people assume it won't do that it will: tax math. Roth conversion comparisons, harvesting math, cost basis, after-tax comparisons. That's all in bounds. The line is filing and executing, not calculating.
+One thing people assume it won't do that it will: tax math. Every kind of tax comparison this course teaches later is in bounds, and it'll run the arithmetic for you. The line is filing and executing, not calculating.
 
 There's also a memory toggle in Preferences, and it starts off. What it remembers is how you think, not what you own: prefers borrowing over selling Bitcoin, wants to be work-optional by 55. It's blocked from storing balances, account numbers, and secrets. Turn it on if you'll use the AI regularly and you'd rather not re-explain your situation every time. Leave it off if that makes you uncomfortable, and nothing about the reviews changes.
 
@@ -207,7 +207,7 @@ And the last thing, which I'm saying once here so I don't have to repeat it in e
 
 Two decisions. Whether memory is on or off for you, and the one rule you never break.
 
-### Put it in Orange Plan
+### Put it in orange plan
 
 Click AI Review in the top bar so you know where it lives, then open Preferences inside Plan Guide and set memory deliberately.
 
@@ -391,7 +391,7 @@ You could say out loud why each assumption is the number it is. That's the same 
 
 
 ## 2.3 Read your retirement date and confidence number
-*`TEACH` · ~990 words · ~6 min*
+*`TEACH` · ~1,131 words · ~7 min*
 
 > 🐞 **LIVE BUG — this lesson's outcomes checklist renders empty (0 / 0).** The
 > apostrophe in "how it's calculated" was escaped shell-style (`'"'"'`) inside a
@@ -408,7 +408,13 @@ You could say out loud why each assumption is the number it is. That's the same 
 
 ---
 
-In today's lesson, we're going to cover the two numbers at the top of your plan — your earliest retirement date, and your confidence number — and how to read them together.
+In today's lesson, we're going to cover the two numbers at the top of your plan, your earliest retirement date and your confidence number, and how to read them together.
+
+Before either one, though, I want to name what you're looking at, because this matters more than it sounds.
+
+What you're about to see is your first retirement read. It's a draft, built on the baseline you just entered and nothing else. Your cash flow decisions aren't in it. Your debt policy isn't in it. Your allocation and your tax decisions aren't in it, and neither is the order you'll eventually draw accounts down in, because you haven't made any of those decisions yet.
+
+So hold it loosely in both directions. Don't treat an exciting date as finished, and don't dismiss the whole thing because the first number looks rough. This is a starting-point snapshot, and it becomes your actual plan as you make the decisions in the modules ahead. You'll watch it move, and watching it move is most of the point.
 
 ### Your earliest retirement date
 
@@ -465,7 +471,7 @@ Your decision here is what confidence level you're aiming for, and which lever y
 
 Pick your target before you look at your number, so the number doesn't just talk you into whatever it already says. Then decide your lever in advance, because there are really only four: work a little longer, spend a little less, save more, or change your allocation. If you pick that now, a low number turns into a to-do item instead of a bad night. And remember 100 was never the goal. A very high number usually just means you're over-saving and under-living.
 
-### Put it in Orange Plan
+### Put it in orange plan
 
 Plan → Retirement → guardrails policy, so the app knows what on track means for you.
 
@@ -1205,7 +1211,7 @@ Three options:
 |---|---|
 | **Pay from flow.** | $25k/yr tuition eats $25k of their $48k annual surplus. Doable, but it takes more than half of every dollar the waterfall was routing, for four straight years. |
 | **Pre-fund from flow.** | Route ~$1,000/mo into an intermediate lane for 8 years. That's ~$96k contributed, or ~$110k with growth. Tuition years become a routing move from the lane, not a hit to surplus. |
-| **Sell from Bitcoin.** | Plan sales into low-bracket years. Efficient if the tuition years line up with the bridge years, otherwise it forces realized gains in high-bracket working years. |
+| **Sell from Bitcoin.** | Plan sales into low-bracket years. Efficient if the tuition years land in a low-income year, otherwise it forces realized gains in high-bracket working years. (The retirement module names those years and shows you how to count yours; here it is enough that a low-income year is a cheap year to sell in.) |
 
 > ⚠ (3.3 redesign, item 18): the options table above is missing a fourth row — borrow against Bitcoin.
 

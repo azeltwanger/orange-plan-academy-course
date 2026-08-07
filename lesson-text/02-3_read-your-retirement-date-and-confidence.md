@@ -5,7 +5,7 @@ The app runs your plan through ~1,000 simulated market futures. The confidence n
 
 > ⚠ **This is your first retirement read, and it is a draft.** It is built on
 > the baseline you just entered and nothing else: no cash flow decisions, no
-> debt policy, no allocation, no tax windows, no withdrawal order. Hold it
+> debt policy, no allocation, no tax decisions, and none of the account-drawdown order you will set later. Hold it
 > loosely in both directions. Do not treat an exciting date as finished, and do
 > not dismiss the whole thing because the first number looks rough. It becomes
 > your plan as you make the decisions in the modules ahead, and watching it

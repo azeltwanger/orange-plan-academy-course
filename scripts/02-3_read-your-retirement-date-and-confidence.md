@@ -7,7 +7,7 @@ In today's lesson, we're going to cover the two numbers at the top of your plan,
 
 Before either one, though, I want to name what you're looking at, because this matters more than it sounds.
 
-What you're about to see is your first retirement read. It's a draft, built on the baseline you just entered and nothing else. Your cash flow decisions aren't in it. Your debt policy isn't in it. Your allocation, your tax windows, and your withdrawal order aren't in it, because you haven't made those decisions yet.
+What you're about to see is your first retirement read. It's a draft, built on the baseline you just entered and nothing else. Your cash flow decisions aren't in it. Your debt policy isn't in it. Your allocation and your tax decisions aren't in it, and neither is the order you'll eventually draw accounts down in, because you haven't made any of those decisions yet.
 
 So hold it loosely in both directions. Don't treat an exciting date as finished, and don't dismiss the whole thing because the first number looks rough. This is a starting-point snapshot, and it becomes your actual plan as you make the decisions in the modules ahead. You'll watch it move, and watching it move is most of the point.
 

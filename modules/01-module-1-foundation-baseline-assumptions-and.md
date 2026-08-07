@@ -171,7 +171,7 @@ You could say out loud why each assumption is the number it is. That's the same 
 
 
 ## 2.3 Read your retirement date and confidence number
-*`TEACH` · ~990 words · ~6 min*
+*`TEACH` · ~1,131 words · ~7 min*
 
 > 🐞 **LIVE BUG — this lesson's outcomes checklist renders empty (0 / 0).** The
 > apostrophe in "how it's calculated" was escaped shell-style (`'"'"'`) inside a
@@ -188,7 +188,13 @@ You could say out loud why each assumption is the number it is. That's the same 
 
 ---
 
-In today's lesson, we're going to cover the two numbers at the top of your plan — your earliest retirement date, and your confidence number — and how to read them together.
+In today's lesson, we're going to cover the two numbers at the top of your plan, your earliest retirement date and your confidence number, and how to read them together.
+
+Before either one, though, I want to name what you're looking at, because this matters more than it sounds.
+
+What you're about to see is your first retirement read. It's a draft, built on the baseline you just entered and nothing else. Your cash flow decisions aren't in it. Your debt policy isn't in it. Your allocation and your tax decisions aren't in it, and neither is the order you'll eventually draw accounts down in, because you haven't made any of those decisions yet.
+
+So hold it loosely in both directions. Don't treat an exciting date as finished, and don't dismiss the whole thing because the first number looks rough. This is a starting-point snapshot, and it becomes your actual plan as you make the decisions in the modules ahead. You'll watch it move, and watching it move is most of the point.
 
 ### Your earliest retirement date
 
@@ -245,7 +251,7 @@ Your decision here is what confidence level you're aiming for, and which lever y
 
 Pick your target before you look at your number, so the number doesn't just talk you into whatever it already says. Then decide your lever in advance, because there are really only four: work a little longer, spend a little less, save more, or change your allocation. If you pick that now, a low number turns into a to-do item instead of a bad night. And remember 100 was never the goal. A very high number usually just means you're over-saving and under-living.
 
-### Put it in Orange Plan
+### Put it in orange plan
 
 Plan → Retirement → guardrails policy, so the app knows what on track means for you.
 

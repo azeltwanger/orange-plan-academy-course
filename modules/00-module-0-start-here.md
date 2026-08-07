@@ -97,7 +97,7 @@ Austin
 
 ## 1.2 How the AI works: what it reads, what it never sees
 
-*`TEACH` · ~896 words · ~6 min*
+*`TEACH` · ~938 words · ~6 min*
 
 **By the end of this lesson, you can:**
 
@@ -139,7 +139,7 @@ On the Protect page, it never gets names, contact details, the contents of your 
 
 On linked accounts, it never gets institution names, account names, account numbers, or exact balances.
 
-And it actively blocks secrets. If you use the heir letter drafting tool, it scans what you typed for anything that looks like a seed phrase, recovery words, a private key, a passphrase, a PIN, or a safe combination, and it refuses to draft until you take it out.
+And it actively blocks secrets. One of the estate tools lets the AI help you draft a document, and before it does, it scans what you typed for anything that looks like a secret: recovery words, a private key, a PIN, a safe combination. Find one and it refuses to draft until you take it out. Those terms will all mean something specific to you by the custody module; today the only thing to take away is that the app is actively watching for them.
 
 ### The one rule
 
@@ -159,7 +159,7 @@ So the practical version is: ask from the page relevant to your decision, and yo
 
 Every review comes back framed as options with trade-offs. It won't tell you that you should do something, it won't tell you to sell, convert, borrow, or buy, and it won't predict Bitcoin's price. It also won't quote you a current tax bracket or contribution limit from memory, which is deliberate, because those change and the app has the current ones.
 
-One thing people assume it won't do that it will: tax math. Roth conversion comparisons, harvesting math, cost basis, after-tax comparisons. That's all in bounds. The line is filing and executing, not calculating.
+One thing people assume it won't do that it will: tax math. Every kind of tax comparison this course teaches later is in bounds, and it'll run the arithmetic for you. The line is filing and executing, not calculating.
 
 There's also a memory toggle in Preferences, and it starts off. What it remembers is how you think, not what you own: prefers borrowing over selling Bitcoin, wants to be work-optional by 55. It's blocked from storing balances, account numbers, and secrets. Turn it on if you'll use the AI regularly and you'd rather not re-explain your situation every time. Leave it off if that makes you uncomfortable, and nothing about the reviews changes.
 
@@ -169,7 +169,7 @@ And the last thing, which I'm saying once here so I don't have to repeat it in e
 
 Two decisions. Whether memory is on or off for you, and the one rule you never break.
 
-### Put it in Orange Plan
+### Put it in orange plan
 
 Click AI Review in the top bar so you know where it lives, then open Preferences inside Plan Guide and set memory deliberately.
 
