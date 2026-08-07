@@ -266,3 +266,88 @@ Output should read **"Your $80,000 parental commitment is 73% funded"**, never
 "College is 38% funded".
 
 **Not started.** This is app work and it touches the projection.
+
+---
+
+# Source-material review, 2026-08-08
+
+Raised by the four-bucket sort (`SOURCE-MATERIAL-POLICY.md`). Every item below
+is **bucket 2: a planning judgment.** None is applied. None becomes a course
+edit without Austin's word.
+
+### F12 · Is the next-dollar process a strict waterfall or a flexible comparison?
+
+Lesson 3.2 currently reads as a waterfall. The broader philosophy is more
+contextual: tax benefit, investment menu, Bitcoin exposure, liquidity, employer
+match, and early-retirement access all bear on the same dollar.
+
+**Live now: the waterfall reading.** This is the single highest-traffic decision
+in the core course, so a change here is expensive after filming and cheap now.
+
+**Austin decides:** strict order, or a comparison with a default ordering?
+
+### F13 · Should a Level 2 custody design deliberately let one heir act alone?
+
+Bears directly on F6, which is still open.
+
+### F14 · Should the executor and the heir usually be different people?
+
+The course currently implies separation without stating it as a rule.
+
+### F15 · Is a professional executor ever the default answer?
+
+Source material leans yes for complex estates. The course does not say.
+
+### F16 · What conditions trigger a trust conversation?
+
+The uploaded four-level estate gate uses triggers (blended family, minor
+children, multiple heirs, business ownership, Bitcoin concentration, probate or
+privacy concerns, incapacity, multi-state, advanced custody) rather than net
+worth alone. Better than a net-worth rule, but the specific trigger list is a
+planning judgment. Would improve the existing trust gate in 8.x without adding
+a lesson. A valid outcome stays *"basic estate plan is sufficient; trust not
+currently indicated"* — a completed decision.
+
+### F17 · When is a future cost funded by cash, Bitcoin sales, borrowing, or a blend?
+
+The college position answers this for college. It does not answer it for cars,
+weddings, a house purchase, home repairs, business investment, or family
+support. See F8 — same question, still open.
+
+### F18 · Does disability insurance belong in every working-age household's core checklist?
+
+The stated principle is to identify the risk and route the relevant person, not
+to build an insurance curriculum. Whether disability is the exception is
+Austin's call.
+
+### F19 · Secure one year or two years of college support before enrollment?
+
+The dictated position says *"year one, perhaps year two."* The word "perhaps"
+is doing real work and the course has to pick something a student can act on.
+
+---
+
+## Not bucket 2 — a contradiction worth flagging (category B)
+
+### The coded-location proposal fails the same test 9.2 was fixed to pass
+
+The proposal to replace exact locations on the family-facing custody map with
+coded references (*"Seed backup: Location A"*, with retrieval instructions held
+by the executor) is a real theft-risk improvement: a stolen family document
+stops being a treasure map.
+
+**But it introduces a second single point of failure at the document layer.**
+Run it through the two tests the corrected 9.2 teaches:
+
+1. *Can one person act alone?* No — good, that is the point.
+2. *Can one lost copy or unavailable person permanently prevent recovery?*
+   **Yes.** If the executor packet holding the decode is lost, destroyed, or
+   held by someone unreachable, the family has a map with no legend. The
+   Bitcoin is recoverable in principle and unreachable in practice.
+
+This is precisely the dual-control-mistaken-for-redundancy defect that made the
+old 9.2 dangerous, reappearing one layer up in the paperwork. Any coded-location
+scheme must therefore specify **where the second copy of the legend lives** and
+who can reach it, or it is 2-of-2 wearing a filing-cabinet costume.
+
+Not a reason to reject the proposal. A condition on accepting it.
