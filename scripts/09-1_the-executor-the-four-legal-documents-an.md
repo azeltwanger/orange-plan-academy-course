@@ -45,15 +45,19 @@ And then, actually ask them. Someone who finds out they're the executor on the d
 
 Next, the four legal documents. The will, which directs who gets what. The power of attorney, which lets someone act on money matters if you're incapacitated. The healthcare directive, which puts your medical wishes in writing. And beneficiary designations, which are the forms on your accounts naming who receives them when you die. Retirement accounts, life insurance, and some bank and brokerage accounts all carry them.
 
-== THE FORM OVERRIDES THE WILL ==
+== THE FORM GENERALLY CONTROLS, NOT THE WILL ==
 
-That fourth one carries the rule that surprises everybody: when the beneficiary form and the will disagree, the form wins.
+That fourth one carries the rule that surprises everybody. For an account with a valid beneficiary, payable-on-death, or transfer-on-death designation, the provider's form generally controls instead of the will.
 
-Your will only directs assets that go through probate. An account with a named beneficiary never enters probate at all. It's a contract between you and the institution that says pay this person. And the custodian pays them, usually before anybody has even read the will.
+I'm saying "generally" on purpose. You'll hear people state it flatly, that the form always beats the will, and it's true often enough to be dangerous, because it makes you assume it holds for every account you own. It doesn't always. State law, community property rules, the plan's own documents, spousal consent requirements, and whether the designation is even valid all come into it. So the instruction is verify, not assume.
 
-Let me make it real. A guy leaves a job in 2019 with $80,000 in an old 401(k). He filled out the form at 26, before he was married, and named his mother. 6 years and a wedding later, his will says everything goes to his wife. The $80,000 goes to his mother. The will has no say in it whatsoever.
+Your will only directs assets that go through probate. An account with a valid named beneficiary generally doesn't enter probate at all. It's a contract between you and the institution that says pay this person. And the custodian pays them, usually before anybody has even read the will.
 
-The fix is the cheapest one in this whole module: fill out the form. It takes about 10 minutes per account. And the app puts every beneficiary you've named on one screen with each one's percentage of the estate, so checking it takes ten seconds a year.
+Let me make it real. A guy leaves a job in 2019 with $80,000 in an old 401(k). He filled out the form at 26, before he was married, and named his mother. 6 years and a wedding later, his will says everything goes to his wife. That $80,000 is very likely going to his mother, and the will has no say in it. Whether it definitely does depends on the plan type and his state, since some plans require a spouse to consent. Which is the whole point. He should have checked, and he never did.
+
+The fix is the cheapest one in this whole module: fill out the form, then confirm it with the provider directly. It takes about 10 minutes per account. The app puts every beneficiary you've named on one screen with each one's percentage of the estate, so checking your own record takes ten seconds a year. But the app is your checklist, not the legal record. The institution holds that one.
+
+Below the lesson there's a sheet with a column that matters more than the others: checked directly with the provider, and the date. A name you remember filling in years ago isn't verification.
 
 == CHOOSING YOUR ESTATE ATTORNEY ==
 
@@ -75,7 +79,7 @@ Protect → Needs attention → Beneficiaries. Then mirror every one on the cust
 
 == YOU ARE DONE WHEN ==
 
-A will exists and an attorney has supervised the signing, your executor has been asked out loud, and your beneficiary forms match your intent on the custodian's system. The form overrides the will, so an out-of-date form quietly overrides everything else you just did.
+A will exists and an attorney has supervised the signing, your executor has been asked out loud, and your beneficiary forms match your intent on the custodian's system. For accounts with a valid beneficiary, POD, or TOD designation, the provider's form generally controls instead of the will, so an out-of-date form quietly undoes everything else you just did. Confirm each one with the provider.
 
 If you're outside the US, the tests and the frameworks travel well but the legal containers don't. Map the concepts with a qualified local professional.
 
@@ -83,6 +87,6 @@ If you're outside the US, the tests and the frameworks travel well but the legal
 🎥 SCREEN SHARE (segment 9.1-B) — beats in SCREEN-SHOOT-LIST.
 Narration guide:
 
-Step 5, confirm beneficiaries: open Protect, the Needs attention queue, and the Beneficiaries row, then Assign. The panel shows each name, relationship, allocation percentage, and the approximate dollars of the estate. Say the rule at this exact moment: the beneficiary form overrides the will, and insurance policies follow the same rule. Then read the panel's own copy out loud — Orange Plan holds the intent, but you mirror it in each account's own beneficiary designation, because the institution holds the binding record.
+Step 5, confirm beneficiaries: open Protect, the Needs attention queue, and the Beneficiaries row, then Assign. The panel shows each name, relationship, allocation percentage, and the approximate dollars of the estate. Say the rule at this exact moment: for an account with a valid beneficiary, payable-on-death, or transfer-on-death designation, the provider's form generally controls instead of the will, and insurance policies work the same way. Then read the panel's own copy out loud — Orange Plan holds the intent, but you mirror it in each account's own beneficiary designation, because the institution holds the binding record. And this is the one place I'll tell you to go confirm it with the provider directly rather than trusting what you remember.
 
 Step 6, the Executor Packet, happens off-app, in a room with the actual person. Walk it section by section, about 30 minutes: their role, their first week, the team, the Bitcoin process (never type or share recovery words, never accept unsolicited help, never move coins before the tax order is settled, never improvise), asset handling, and then the acceptance page, where both of you sign. An executor who signed it has been briefed and knows where the documents live. An executor who didn't sign hasn't been briefed at all. The three toolkit documents live together in one folder, and the executor knows where it is: the Executor Packet, the Heir Letter, and the Family Custody Map.

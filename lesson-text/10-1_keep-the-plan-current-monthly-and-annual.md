@@ -46,7 +46,7 @@ Every area asks: **does this decision still fit, and what would tell me if it di
 | Debt | Are the ratios in range, and is every debt still doing its job? | If you borrow against Bitcoin: at today's price, would your written loan policy's drawdown force a sale? |
 | Tax | Was this year's window used, or deliberately passed? | The only area with a hard deadline. Harvest room, conversion room, and cost basis records that still prove what you paid. No records means a basis of zero, which means tax on the whole sale price. |
 | Custody | Has one recovery been proven this year? | An actual restore test on a spare device, then a rescan for new single points of failure. |
-| Estate | Could your family act on the letter today? | Beneficiaries current (the form overrides the will), heir letter accurate, executor still fits and is still willing, switch armed with the right recipients. |
+| Estate | Could your family act on the letter today? | Beneficiaries current and verified with each provider (a valid form generally controls instead of the will), heir letter accurate, executor still fits and is still willing, switch armed with the right recipients. |
 
 **Allocation and custody share one move, and it is the one people skip.** Both get re-asked at *today's* balance, not the balance you had when you decided. A position that grew from $500k to $800k turns the same 75% drawdown from $375k of paper loss into $600k. The percentage did not move; the number you would have to sit through nearly doubled. Custody is the same arithmetic: the setup is guarding more money than it was designed for, and you never made that decision.
 

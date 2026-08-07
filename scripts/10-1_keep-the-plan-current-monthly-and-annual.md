@@ -53,7 +53,7 @@ The six areas are spending and cash reserve, allocation, debt, tax, custody, and
 
 The walkthrough runs all six on screen. What I want to give you here is the question in each one, and the few answers that actually change what you do.
 
-Spending and reserve: read the guardrail verdict, hold, raise or cut, and refill the reserve toward its target, because a bad market doesn't change the target. Debt: are the ratios still in range, and is every debt still doing its assigned job? Estate: are your beneficiaries still current, remembering the form overrides the will, and is the letter still accurate?
+Spending and reserve: read the guardrail verdict, hold, raise or cut, and refill the reserve toward its target, because a bad market doesn't change the target. Debt: are the ratios still in range, and is every debt still doing its assigned job? Estate: are your beneficiaries still current, remembering that a valid form generally controls instead of the will, and is the letter still accurate?
 
 Two of the six carry something you'd otherwise skip. In tax, the deadline is real, because the calendar closes December 31st, and the honest annual task is confirming your cost basis records still prove what you paid. No records means a basis of zero, which means tax on the entire sale price. And in custody, prove one recovery. Not "I'm pretty sure the backup works." An actual restore test on a spare device.
 

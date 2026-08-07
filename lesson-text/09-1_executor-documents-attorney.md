@@ -12,7 +12,17 @@ They file the will (opening probate), then under court supervision: inventory as
 
 Will · power of attorney · healthcare directive · **beneficiary designations**.
 
-**The form overrides the will.** Accounts with named beneficiaries never enter probate; the custodian pays the form's name before anyone reads the will. (An old 401(k) naming your mother from before your marriage goes to your mother.) The fix is 10 minutes per account; the app shows every named beneficiary on one screen.
+**A valid form generally controls, not the will.** For accounts governed by a valid beneficiary, POD, or TOD designation, the provider's form will generally control rather than the will, and those accounts generally do not enter probate: the custodian pays the form's name before anyone reads the will. (An old 401(k) naming your mother from before your marriage very likely goes to your mother.)
+
+⚠ The flat version, "the form always overrides the will," is right often enough to be dangerous. State law, community-property rules, plan documents, spousal-consent requirements, and the validity of the designation all bear on it. **Verify each account directly with the provider and your attorney.** The fix is 10 minutes per account; the app shows every named beneficiary on one screen, but the app is your checklist, not the legal record.
+
+### Beneficiary verification sheet
+
+| Account | Primary | Contingent | Checked directly with provider? | Date | Matches the plan? |
+|---|---|---|---|---|---|
+| | | | | | |
+
+Every account carrying a beneficiary, POD, or TOD setting gets a row: retirement, brokerage, bank, insurance, annuities. **An account is done only when "Checked directly" is true.** A name you remember filling in years ago is not verification. Re-run this at the annual review.
 
 ## Choosing your estate attorney
 
@@ -41,6 +51,6 @@ Protect → Needs attention → Beneficiaries. Then mirror every one on the cust
 
 ## You are done when
 
-A will exists and an attorney has supervised the signing, your executor has been asked out loud, and your beneficiary forms match your intent on the custodian's system. The form overrides the will, so an out-of-date form quietly overrides everything else you just did.
+A will exists and an attorney has supervised the signing, your executor has been asked out loud, and your beneficiary forms match your intent on the custodian's system. For accounts with a valid beneficiary, POD, or TOD designation, the provider's form generally controls instead of the will, so an out-of-date form quietly undoes everything else you just did. Confirm each one with the provider.
 
 If you're outside the US, the tests and the frameworks travel well but the legal containers don't. Map the concepts with a qualified local professional.

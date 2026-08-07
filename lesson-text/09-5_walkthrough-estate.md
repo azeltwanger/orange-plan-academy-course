@@ -16,7 +16,7 @@ Below it, **Needs attention** gives one row per incomplete essential, each with 
 
 **Protect → Needs attention → Beneficiaries → Assign.** Each name, relationship, allocation percentage, and approximate dollars of the estate.
 
-⚠ **The beneficiary form overrides the will**, and insurance follows the same rule. Orange Plan holds the *intent*; you mirror it on each account's own designation, because **the institution holds the binding record**. The app is your checklist, not the legal fact.
+⚠ **For accounts with a valid beneficiary, POD, or TOD designation, the provider's form generally controls instead of the will**, and insurance works the same way. Orange Plan holds the *intent*; you mirror it on each account's own designation, because **the institution holds the binding record**. The app is your checklist, not the legal fact — verify each account with the provider and your attorney.
 
 The executor step happens off-app, with the actual person, using the printed **Executor Packet**: their role, their first week, the team, the Bitcoin process, asset handling, and the acceptance page you both sign. An executor who signed it has been briefed. One who did not, has not.
 

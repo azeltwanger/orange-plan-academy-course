@@ -82,7 +82,7 @@
 
 **SEE** Each name, relationship, allocation percentage, and the approximate dollars of the estate
 
-**⚠ Say the rule at this exact moment: the beneficiary form overrides the will.** Insurance policies follow the same rule. This is the cheapest fix in the module and the one most often skipped.
+**⚠ Say the rule at this exact moment: for an account with a valid beneficiary, POD, or TOD designation, the provider's form generally controls instead of the will.** Insurance policies work the same way. This is the cheapest fix in the module and the one most often skipped — and it isn't finished until it's confirmed with the provider, not just entered here.
 
 **SEE** Read the panel's own copy out loud: Orange Plan holds the *intent*, and you mirror it in each account's own beneficiary designation, because **the institution holds the binding record**.
 
