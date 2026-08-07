@@ -18,13 +18,13 @@ Each year you choose which bucket money comes from, and that choice sets your ra
 
 Income is taxed in slices; "the 22% bracket" means the *next dollar* is taxed at 22%. The space to the next line is your **room**: a measurable amount you can fill.
 
-Your income road has three stages: **early retirement** (paychecks stop; income drops to its lowest ever, and only the *gain* on a sale counts as income, so a couple can fund $80k of spending inside ~$128k of 0% long-term-gains room and pay $0), **pre-Social Security** (still flexible; keep filling low brackets on purpose), and **Social Security + RMDs** (income jumps and stays up). The cheap years have a hard deadline, and most people waste them because nobody said the window existed.
+Your income road has three stages: **early retirement** (paychecks stop; income drops to its lowest ever, and only the *gain* on a sale counts as income, so a couple can often fund a full year of spending inside the 0% long-term-gains room and pay $0 (read the current ceiling off the Tax page; it moves every year)), **pre-Social Security** (still flexible; keep filling low brackets on purpose), and **Social Security + RMDs** (income jumps and stays up). The cheap years have a hard deadline, and most people waste them because nobody said the window existed.
 
 ## Where you live: the state lever
 
-The state you're a *resident of in the year you sell* can tax the gain as regular income, or not at all. A $500k retirement-year gain: ~$46,500 in a ~9% state, $0 in a no-tax state. Same coin, same sale, same federal bill. And unlike one-shot moves, a lower state rate pays on *every* sale, every year you live there.
+When you sell, you owe federal tax, and then your state can tax the same gain again at its own rate. Most states tax a capital gain as ordinary income with no special long-term rate; a handful do not tax income at all. **The state that charges you is the one you are a resident of in the year you sell.** On a large retirement-year sale that is tens of thousands of dollars on one transaction, and unlike most moves here, it pays every year rather than once.
 
-Three warnings: moving is more than tax; residency is a legal domicile standard, not a mailbox; and sequence matters: advice, then move, then sale, in that order (big exits get audited).
+⚠ **Advanced Tax Strategies → "State taxes and relocation"** has the worked numbers, how residency is actually determined, and the sequencing (advice, then move, then sale). Watch it if you are considering a move or your unrealized gain is large enough that the state rate changes what you do. If moving is not on the table, your tax plan is complete without it.
 
 ## Ask the AI
 

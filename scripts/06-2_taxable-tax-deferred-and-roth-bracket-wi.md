@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 6.2
 6.2 Taxable, tax-deferred, and Roth: bracket windows and state taxes
-~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the three things that decide your tax bill: where your money sits, when you act, and where you live when you act.
@@ -9,15 +9,11 @@ You have some control over what tax rate you pay, and most of that control comes
 
 == WHERE YOUR MONEY SITS: THE 3 BUCKETS ==
 
-Every dollar you own for retirement sits in one of 3 buckets, and you can see them compared right here.
+Quick recap, because you sorted these in the allocation module. Every retirement dollar sits in one of three buckets, compared on the screen.
 
-The first bucket is taxable. The money going in was already taxed, and you pay tax on gains when you sell, at capital gains rates. No forced withdrawals, ever.
+Taxable was already taxed going in, you pay on gains when you sell at capital gains rates, and there are no forced withdrawals ever. Tax-deferred, the traditional IRA and 401(k), goes in pre-tax and comes out taxed as ordinary income, and it's the one with forced withdrawals starting in your seventies whether you need the money or not. And the Roth goes in after tax and is never taxed again, growth or withdrawals, with no forced withdrawals on the Roth IRA.
 
-The second bucket is tax-deferred, so the traditional IRA and 401(k). Money goes in pre-tax, grows untouched, and then everything coming out is taxed as ordinary income. And this is the bucket with forced withdrawals: the RMDs that start in your seventies, whether you need the money or not.
-
-The third bucket is the Roth. Money goes in after tax, and then it's never taxed again. Not the growth, not the withdrawals. And the Roth IRA has no forced withdrawals at all.
-
-Holding all three matters because every year, you get to choose which bucket your money comes from, and that choice sets the rate you pay that year. If you go all-in on any one bucket, you've removed your own choices later. Even all-Roth, which sounds like the safe answer, actually leaves cheap tax-deferred dollars on the table, and you'll see why in a minute.
+Holding all three is what gives you a choice every year about which bucket your money comes from, and that choice sets the rate you pay that year. Go all-in on any one and you've removed your own options later. Even all-Roth, which sounds like the safe answer, leaves cheap tax-deferred dollars on the table.
 
 == WHEN YOU ACT: READING A TAX BRACKET ==
 
@@ -41,7 +37,7 @@ Stage one is early retirement, when the paychecks stop. Say the couple retires a
 
 And there's a second thing working in their favor here: when you sell an asset, only the gain counts as income, not the whole sale. So a big sale can produce a surprisingly small amount of income.
 
-Watch this. They sell Bitcoin to fund $80,000 of spending, and only the gain counts, which comes out to about $60,000 of realized gain that year. Now, the standard deduction and the 0% long-term capital gains bracket stack on top of each other, and for a married couple that's around $128,000 of 0% room under current law. Verify that number in the year you use it. So take the $128,000 ceiling, subtract their $60,000 of realized gain, and they've still got $68,000 of unused 0% room.
+Watch this. They sell Bitcoin to fund $80,000 of spending, and only the gain counts, which comes out to about $60,000 of realized gain that year. Now, the standard deduction and the 0% long-term capital gains bracket stack on top of each other, and for a married couple that adds up to a real ceiling. The app shows you the current one, so read it off the screen rather than from me, because it moves every year. Subtract their $60,000 of realized gain from that ceiling and there's a meaningful amount of unused 0% room left over.
 
 They just funded their entire year of spending and paid zero dollars of tax on those gains. That's stage one.
 
@@ -53,27 +49,13 @@ So there's a hard deadline on the cheap years. And most people waste them, becau
 
 == WHERE YOU LIVE: THE STATE LEVER ==
 
-The third dial is the state you live in, specifically the state you're a resident of in the year you sell. It can add double digits to the tax on a gain, or nothing at all.
+The third dial is the state you live in, and I'm going to name it here rather than teach it, because it only becomes a real decision for some people.
 
-You sell, you realize a gain, and you owe federal tax. Then your state can tax that same gain at its own rate. Most states tax a capital gain as regular income, with no special long-term rate. And a handful of states don't tax income at all. The state that charges you is the one you're a resident of in the year you sell, not the one you lived in when you bought.
+Here's the part everybody needs. When you sell, you owe federal tax, and then your state can tax that same gain again at its own rate. Most states tax a capital gain as ordinary income with no special long-term rate, and a handful don't tax income at all. The state that charges you is the one you're a resident of in the year you sell, not the one you lived in when you bought.
 
-Let me put numbers on it. Today, the couple sits on $115,000 of unrealized gain in their Bitcoin. If they realize that in a state with a roughly 9% rate, the state's cut is about $10,700. Take the same sale in Texas, and it's zero.
+On a large retirement-year sale, that difference runs into tens of thousands of dollars on a single transaction, and unlike most moves in this module, it pays every year rather than once. So it's worth knowing the lever exists.
 
-Now scale it to retirement. Same two states, on a $500,000 realized gain, which is a normal retirement-year sale for a Bitcoin-heavy household. The high-tax state takes about $46,500. The no-tax state takes nothing. Same Bitcoin, same sale, same federal bill. A $46,500 swing on one transaction.
-
-And those saved dollars don't disappear. They go back into the plan and compound. I ran California against Florida for someone once, and the difference was about $5,800 a year. Over 5 years, that was $57,000 routed into Bitcoin instead of a state treasury.
-
-One more thing that makes this lever different: it pays every year. Most tax moves in this module are one-shot, you make them in a particular year. A lower state rate applies to every sale you make for as long as you live there.
-
-Now, three honest warnings.
-
-First, moving is more than tax. It's family, work, community, roots. Those aren't things a tax number should decide, and no tax saving is worth a life you don't want.
-
-Second, residency is a legal standard, not an address change. States look at your domicile: where your days are spent, where your home is, where your work and family are, where your life actually happens. You cannot buy this lever with a mailbox.
-
-And third, sequence matters. High-tax states audit large exits, especially a big sale that lands right after a move. They know the pattern. If the sale is large enough, get state-tax advice first, then make the move, then make the sale. In that order.
-
-So treat this one as lifestyle plus residency plus legal planning that happens to save you tax, not the other way around.
+But it's a lifestyle decision that happens to save tax, not a tax decision. If you're actually considering a move, or you're sitting on a large enough unrealized gain that the state rate would change what you do, the advanced library has the full lesson: what the swing is worth on real numbers, how residency is actually determined, and the sequencing that keeps a big sale right after a move from becoming an audit. If moving isn't on the table, your tax plan is complete without it.
 
 == HOMEWORK ==
 

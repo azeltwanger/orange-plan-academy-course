@@ -100,12 +100,12 @@ changed once, in both places, before you record.
 | 5.1 | Give every debt a job and set your ceiling | 9.4 |
 | 5.2 | *Walkthrough: give every debt a job in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 5 — Tax Strategy · 14 min
+### Module 5 — Tax Strategy · 13 min
 
 | # | Lesson | min |
 |---|---|---|
 | 6.1 | Cost basis: what you paid, and how to reconstruct it | 5.3 |
-| 6.2 | Taxable, tax-deferred, and Roth: bracket windows and state taxes | 9.0 |
+| 6.2 | Taxable, tax-deferred, and Roth: bracket windows and state taxes | 7.6 |
 | 6.5 | *Walkthrough: model it in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
 ### Module 6 — Retirement Income · 25 min
@@ -146,7 +146,7 @@ changed once, in both places, before you record.
 
 ---
 
-**27 teach lessons · 229 min (3.8 h) of finished audio at 155 wpm.**
+**27 teach lessons · 227 min (3.8 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not dictated. They are screen captures you narrate in
 your own words off the DO / SEE / ⚠ sheets, and they happen after the

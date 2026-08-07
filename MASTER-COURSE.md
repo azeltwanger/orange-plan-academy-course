@@ -2565,11 +2565,11 @@ Second thing in their favor: when they sell an asset, only the gain counts as in
 
 They sell Bitcoin to fund $80,000 of spending. Only the gain counts: about $60,000 of realized gain that year.
 
-The standard deduction and the 0% long-term capital gains bracket stack. A married couple has around $128,000 of 0% room under current law (verify in the year you use it).
+The standard deduction and the 0% long-term capital gains bracket stack, giving a married couple a real 0% ceiling. **Read the current one off the app's Tax page rather than speaking it** — it moves every year, and this lesson outlives the tax year.
 
 | Step | Amount |
 |---|---|
-| Zero-percent ceiling | ~$128,000 |
+| Zero-percent ceiling | the current one, off the Tax page |
 | Minus realized gain | -$60,000 |
 | Equals unused 0% room | ~$68,000 |
 
@@ -2585,47 +2585,17 @@ The couple's window has ~$68,000/yr sitting empty.
 
 ### Where you live: the state lever
 
-The federal bill is one dial. The state you're a resident of in the year you sell is another. It can add up to double digits of the gain, or nothing at all.
+Named here, taught in the library, because it only becomes a real decision for some people.
 
-**How state tax on a sale works:**
+**What everybody needs:** when you sell, you owe federal tax, and then your state can tax that same gain again at its own rate. Most states tax a capital gain as ordinary income with no special long-term rate; a handful do not tax income at all. **The state that charges you is the one you are a resident of in the year you sell**, not the one you lived in when you bought. On a large retirement-year sale that runs into tens of thousands of dollars on one transaction, and unlike most moves in this module, it pays every year rather than once.
 
-- You sell and realize a gain. You owe federal tax on it.
-- Your state can tax that same gain at its own rate.
-- Most states tax a capital gain as regular income (no special long-term rate).
-- A handful of states don't tax income at all.
-- The state that charges you is the one you're a **resident of in the year you sell**, not the one you were in when you bought.
+> **Advanced Library → A5.3 "State taxes and relocation: what the lever is
+> actually worth"** if you are actually considering a move, or your Tax page
+> shows an unrealized gain large enough that the state rate would change what
+> you do. It carries the worked swing, how residency is actually determined,
+> and the sequencing that keeps a big sale right after a move from becoming an
+> audit. If moving is not on the table, the tax plan is complete without it.
 
-Exact rates vary by state and change. Every dollar below is under current law.
-
-**Two examples.** Today, the couple sits on $115,000 of unrealized gain in Bitcoin:
-
-| Scenario | State's cut |
-|---|---|
-| Take the $115k gain in a ~9% state | ~$10,700 |
-| Take the same sale in Texas | $0 |
-
-At retirement scale, same two states on a $500,000 realized gain (a normal retirement-year sale):
-
-| Scenario | State's cut |
-|---|---|
-| High-tax state | ~$46,500 |
-| No-tax state | $0 |
-
-Same Bitcoin, same sale, same federal bill. $46,500 swing on one transaction.
-
-Those saved dollars go back into the plan, get invested, and grow. Austin ran California vs Florida for a client once: ~$5,800/yr difference, $57,000 over five years routed into Bitcoin.
-
-**The lever pays every year.** Most tax moves in this module you make once, in a particular year. A lower state rate applies to every sale you make while you live there. It's the one lever that pays every year you stay.
-
-**Moving is more than tax.** Moving is family, work, community, and roots. Those aren't things a tax number should decide. No tax saving is worth a life you don't want.
-
-Even on the pure tax side, residency is a legal standard, not an address change. States look at your **domicile**: days spent in the state, where your home is, where your work is, where your family is, where your life actually happens. You can't buy this lever with a mailbox.
-
-**The audit risk: sequence matters.** High-tax states may audit large exits, especially a big sale that lands soon after a move. They know the pattern.
-
-If the sale is large enough, the sequence matters: get state-tax advice first, then the move, then the sale. In that order.
-
-A lower-tax state can be a real lever. Treat it as lifestyle + residency + legal planning that happens to save you tax, not the other way around.
 
 ### Homework
 
