@@ -3,20 +3,16 @@ TELEPROMPTER SCRIPT — segment 1.1
 ~8 min at 155 wpm · AUSTIN DICTATION — SPOKEN-PROSE VERSION
 ============================================================
 
->>> TWO LINES TO FIX BEFORE YOU RECORD (your own flags, both confirmed) <<<
->>> Your words everywhere else. Do not let me rewrite these; pick your own. <<<
+>>> I CHANGED TWO THINGS IN YOUR DICTATION (your own flags). Say it your way. <<<
 
-1. "10 modules" then a list of 9. The list is a narrative sequence, not the
-   module list, and Module 10 (Your Financial Plan Review: scenarios, reading
-   the report, the capstone) is missing from it entirely. Either add a 10th
-   item for it, or drop "10 modules" and just walk the sequence.
+1. Added a 10th item to the module list. You said "10 modules" and then listed
+   9, and the one missing was Module 10, scenarios and reading your finished
+   plan. Added in your register, change it however you like.
+2. "10 to 15 minutes every month" -> "around five minutes every month."
+   Module 9 teaches the monthly pass as about five minutes, in the lesson, the
+   lesson text, and the module blurb. Five is the number the course defends.
 
-2. "around 10 to 15 minutes every month" contradicts Module 9, which teaches
-   the monthly pass as ABOUT FIVE MINUTES, in the lesson, the lesson text, and
-   the module blurb. Five minutes is the number the course defends. The master
-   file has been corrected to five; this script is the last place saying 10-15.
-
-Everything else in this file is clean and ready.
+Nothing else in your dictation was touched.
 
 
 Welcome to the course. In this first lesson, I'm going to cover what this course is, what you're going to walk out with, and how to get the most out of it as you go through all these lessons.
@@ -59,7 +55,8 @@ The course is going to walk you through 10 modules, and they're all in the order
 6. Your investment plan that includes allocation and any debts that you have, and a plan around how to pay off debt or utilize it to compound assets even further.
 7. How to build a retirement paycheck. This is going to cover tax strategy and your retirement income planning, and ways to optimize this to reduce your tax liability.
 8. How you protect your plan with custody and estate planning and inheritance.
-9. How you keep the whole thing alive and active, which is going to take you around 10 to 15 minutes every month, with one annual review every year.
+9. How you keep the whole thing alive and active, which is going to take you around five minutes every month, with one annual review every year.
+10. How to run scenarios to test a decision before you make it, and how to read your finished plan.
 
 Each module is going to cover two different types of lessons:
 

@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 1.2
 1.2 How the AI works
-1398 words · ~9.0 min at 155 wpm
+1360 words · ~8.8 min at 155 wpm
 ============================================================
 
 In today's lesson, we're going to cover the AI that's built into Orange Plan: what it reads, what it never sees, and where it runs.

@@ -3073,7 +3073,13 @@ Pull your full transaction history from every exchange and wallet, then import i
 ## 6.2 The three buckets, your bracket roadmap, and the state lever
 *`TEACH` · 1,436 words · ~10 min*
 
-> ⚠ Bracket thresholds need checking against 2026 tables before filming.
+> ⚠ **One spoken law-set figure in this lesson:** the ~$128,000 of 0% capital-gains
+> room for a married couple (standard deduction + 0% bracket stacked). Everything
+> else here is mechanism ("the 22% bracket means the next dollar") or the couple's
+> own illustrative numbers, which are fine to speak. Either verify that $128,000
+> against the current tables on the day you record, or drop the figure and point at
+> the screen. The script already carries the hedge: "under current law. Verify that
+> number in the year you use it."
 
 > ⚠ **The buckets/wrappers inconsistency lives inside this lesson's own
 > outcomes**: the checklist says "three tax **wrappers**" while the body teaches
@@ -3223,8 +3229,6 @@ Then look up your state's treatment of capital gains (regular income, special ra
 
 ## 6.3 The RMD risk + Roth conversions
 *`TEACH` · 954 words · ~7 min*
-
-> ⚠ RMD ages need checking against 2026 rules before filming.
 
 > ✅ **Evergreen policy (Austin, 2026-08-04) replaces item 11.** Figures here
 > are already snapshot-framed ("Currently 73 — verify in the year it applies").
