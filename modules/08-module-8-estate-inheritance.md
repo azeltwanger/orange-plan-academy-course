@@ -184,139 +184,111 @@ Set the review date on the footer: *"Review at each annual review (Module 9)."*
 Your executor is named and briefed, and the forms match the will.
 
 ## 9.2 Split access: dual control and redundancy
-*`TEACH` · 834 words · ~4 min*
+*`TEACH` · ~1,390 words · ~9 min*
+
+> ✅ **SAFETY REWRITE (2026-08-08).** The old lesson claimed a seed + passphrase
+> split gave "no single point of failure" and that half of it left the plan
+> "intact." Seed + passphrase is 2-of-2; half of a 2-of-2 is zero access.
+>
+> ✅ **OPTIONALITY FIXED (2026-08-08).** 8.3 tells students the advanced setups
+> are optional and their custody plan is complete without them. This lesson
+> then required a passphrase or multisig to build the family access plan. Now
+> it teaches the two tests and an honest design **at whatever custody level the
+> student already has** — including Level 1 and Level 2, which previously had
+> no answer here at all. The passphrase and multisig implementations moved to
+> Advanced Custody, where the custody decision lives.
 
 **By the end of this lesson, you can:**
 
-- Run the two tests every access setup has to pass: can one person spend alone, and can one loss stop recovery
-- Design an access split appropriate to your custody setup
-- Back up each half so the split survives a lost copy without creating unilateral access
-- Test your split with a small amount before it matters
+- Apply the two tests: dual control, and redundancy
+- Design an access split that fits the custody level you actually have
+- Say out loud which test your design does not pass
+- Back up each piece on its own side without collapsing the split
+- Prove the design with a small amount before it matters
 
 ---
-The **access split** divides the ability to reach your Bitcoin into two pieces, held by two different people. Either piece on its own is useless. Only the two together can move the Bitcoin. Heirs hold one piece; your executor holds the other.
 
+In today's lesson, we're going to design who can reach your Bitcoin after you're gone, and prove it works while you're still here.
+
+Before we design anything, I need to give you two tests, because most people design for one of them and just assume they got the other one for free. They didn't, and that assumption is how people lose Bitcoin.
 
 ### Why both simple options fail
 
-The couple's stack is $175,000.
+Let me show you why the two obvious answers both fail. The couple's stack is $175,000.
 
-**Option 1: One person gets everything.** He writes the seed on a card and hands it to her brother. Now a man who isn't an heir has unilateral control of $175,000 of his sister's inheritance, and the only thing protecting it is his own good faith.
+Option one is that one person gets everything. He writes the seed on a card and hands it to her brother, the executor. Now a man who isn't an heir has unilateral control of $175,000 of his sister's inheritance, and the only thing protecting it is his own good faith. Even if he's a great guy, the plan is now built on one person never having a bad year.
 
-**Option 2: Nobody gets enough.** He tells nobody, to be safe. He dies. $175,000 sits on a device his wife can't open.
+Option two is that nobody gets enough. He tells nobody, to be safe. Then he dies. And $175,000 sits on a device his wife can't open, forever.
 
-The split sits between those two extremes: an access setup that requires two people to move any Bitcoin.
+Everything in this lesson lives between those two extremes.
 
 ### The two tests
 
-Every access setup has to pass two separate tests, and they are not the same test. Most people design for one and assume they got the other for free.
+> 🎬 **GRAPHIC: two checkboxes, held on screen for the whole lesson. TEST 1 — can one person spend alone? TEST 2 — can one lost copy, or one person you can't reach, permanently stop recovery?**
 
-1. **Dual control: can one person spend alone?** If yes, that person is a single point of theft, and a single point of pressure.
-2. **Redundancy: can one lost copy, or one unavailable person, permanently stop recovery?** If yes, you have built a way to lose the Bitcoin that has nothing to do with anyone being dishonest.
+Test one is dual control. Can one person spend alone? If the answer is yes, then that person is a single point of theft, and they're also a single point of pressure, because somebody can lean on them.
 
-Handing one person everything fails test 1. Telling nobody fails test 2 completely.
+Test two is redundancy. Can one lost copy, or one person you can't reach, permanently stop recovery? If the answer is yes, then you've built a way to lose the Bitcoin that has nothing to do with anybody being dishonest.
 
-The part that gets missed, and it is the reason this lesson exists: **the split you are about to build passes test 1 by design and fails test 2 by default.** Test 2 is a separate job. You have to do it on purpose.
+Two completely different tests. Handing one person everything fails test one. Telling nobody fails test two.
 
-### Poor man's multisig: how a passphrase carries the split
+The part that gets missed, and it's really the reason this lesson exists, is that passing one of these does not give you the other. Most setups that pass test one fail test two by default, and test two is a separate job you have to go do on purpose.
 
-Anthony Park calls this "poor man's multisig." It works because of how a passphrase behaves.
+### Your design follows your custody level
 
-A **seed phrase** is the 12 or 24 words that rebuild your wallet. A **passphrase** is an extra word or phrase added on top (built to the 7-random-word standard from the custody module). Seed plus passphrase produces a completely different wallet than the seed alone. Same words, different passphrase, different set of coins.
+Now, what you can actually build depends on the custody level you picked back in the custody module. You don't need a more advanced setup to do this lesson. You need an honest design for the setup you already have.
 
-- **Seed alone.** Opens a real wallet that's empty.
-- **Passphrase alone.** A word that opens nothing.
+At Level 1, on a hardened exchange or broker, the institution is your dual control, so what you're designing isn't a secret at all. Your heirs get the beneficiary designation on the account, and your executor gets the process: which institution, what they'll ask for, who to call. The company handles test one, and the account existing regardless of who remembers a password handles test two.
 
-Two objects that are worthless on their own. That's what lets you hand each to a different person.
+At Level 2, one hardware wallet and one seed, be honest about what you can and can't do. You cannot split a single seed between two people, and I'll come back to why that idea is actively dangerous. So the honest design is: the seed goes to your heir, backed up in more than one place, and your executor holds the process rather than the secret. Where the device is, where the backups are, what to do, who to call.
 
-Here's the couple's 1.5 BTC on a hardware wallet with a passphrase:
+That design passes test two, because a lost copy doesn't end you, and it fails test one, because your heir can spend alone. For a lot of households that's an acceptable trade, and it's far better than either failure we opened with. Choose it knowing what it is, and don't describe it to your family as a no-single-point-of-failure plan.
 
-- **His wife holds the seed phrase.** The wallet itself. Empty on its own. The funds sit behind the passphrase.
-- **Her brother, the executor, holds the passphrase.** The extra word. Doesn't unlock anything without the seed.
-- **Together, they have full access. Apart, they have nothing.**
+At Level 3 or 4, the passphrase or the multisig, you can pass both tests at once. A passphrase lets you hand two different objects to two different people, where neither does anything alone. A two-of-three multisig gets both tests from the arithmetic, because any two keys can spend and no single key can. Building either one is in the advanced custody lesson, and that's the right place for it, because it's a custody decision, not an estate decision.
 
-That passes test 1. If her brother turns out to be the wrong guy, he gets nothing.
+The estate job is the same at every level: name who holds what, answer both tests out loud, and be honest about the one you didn't pass.
 
-**It fails test 2 as built, and this is the trap.** Seed plus passphrase is a **two-of-two** setup: both are required, every time. If her card is lost in a fire, her brother's passphrase opens nothing. If her brother dies without passing the passphrase on, her seed opens an empty wallet. Either loss is total and permanent, and neither one involves anybody behaving badly.
+### Every backup is also a path in
 
-"Half the plan" is worth nothing here. Half of a two-of-two is zero.
+Whatever level you're at, there's one tension you have to resolve deliberately, because it's the actual design problem underneath all of this.
 
-Keep the executor and the heirs as different people wherever you can.
+Every backup you add to protect against loss is also another potential path to somebody getting unilateral access.
 
-### Making the split survive a loss
+It resolves the same way every time: each piece gets its own backup, and that backup stays on its own side. Never in the same house, never in the same safe, never with the person holding the other piece. Do it that way and each side can lose a copy and still recover, while neither side gains anything it shouldn't have. Do it carelessly and a backup in a shared safe quietly collapses your whole design into one person holding everything.
 
-Every backup you add to protect against loss is a potential path to unilateral access. That tension is the whole design problem, and it resolves one way: **each component gets its own backup, and that backup stays on its own side of the split.**
+This is also why the executor and the heirs should be different people wherever you can manage it. They're the two sides of whatever you build.
 
-- **The seed's backup belongs to the seed side.** A second steel copy his wife controls, or that her own successor can reach. Never somewhere the passphrase holder can also get to.
-- **The passphrase's backup belongs to the passphrase side.** Written once, sealed, held by the executor or his named successor. Never stored with the seed, never in the same house, never in the same safe.
+### Test it while you're alive
 
-Done that way, each side can lose one copy and still recover, and neither side can ever act alone. Done carelessly, a "backup" in a shared safe quietly collapses your two-of-two into one person with everything.
+Just like the hardware backup, this gets proven, not hoped for.
 
-⚠ **If you only ever make one copy of each half, say so out loud and accept it.** That is a legitimate choice for a small stack. It is not a no-single-point-of-failure setup, and it should not be described as one.
+So, the couple's Saturday afternoon. He moves about $1,000 into the setup. Whoever is supposed to be able to recover it does the recovery, on a spare device, following only what's written down. And they watch the $1,000 appear on the screen. If two people are supposed to be needed, run it twice: once with both, and once with only one, to confirm the one alone can't.
 
-### Multisig: one place the passphrase model doesn't carry over
+That afternoon converts a hoped-for plan into a proven one, for $1,000 they never actually spent, on a day when nobody was grieving. One rule after the test: the pieces stay distributed. Writing everything down together in one place undoes the entire design.
 
-This is where multisig earns its complexity: a 2-of-3 vault passes **both** tests at once, structurally, without you having to engineer the backups.
+### The misconception that gets people hurt
 
-A **2-of-3 vault** has three keys, any two can spend. Because any two of three suffice, losing one key entirely is survivable, and no single key holder can spend. Test 1 and test 2, both handled by the arithmetic.
+Last thing, and I hear it most from people at Level 2 who want to pass test one without changing their setup. "I'll just split the seed words between two people." Someone actually did this. 24 words, 12 to each of two people.
 
-- **You hold two.** Nothing about your day changes. You spend on your own like today.
-- **Your executor holds the third** as a sealed seed card. One key alone can't spend, so they can't touch it while you're alive.
-- **The provider holds the remaining key**, never your seed phrase.
+If the two people trust each other, together they have the whole thing, so there's no protection at all. And if either one gets the other half through a leak or a guess, they have unilateral access, and 12 words is a far shorter guess than 24.
 
-After you're gone, your executor and the provider hold two keys between them (the threshold). The provider verifies who the executor is and walks them through recovery. Your heirs get a guided recovery, not a technical exam.
-
-#### The config file, revisited
-
-The keys hold the money. The config is the map that tells the network how to rebuild the wallet from those keys. Without the map, holding every key still locks you out.
-
-The config has no spending power on its own, so it lives in a password manager, never printed, and never stored with any physical key. An executor's key sitting next to the config file is one step from control, and that would turn your 2-of-3 into a single-key setup.
-
-With a passphrase, you're splitting two different objects. With multisig, the keys are already separate, and the job becomes keeping the config file away from whoever holds a key. Same principle, different setup.
-
-### Test the split while you're alive
-
-A passphrase mistake can make funds unrecoverable, so this gets proven the same way the hardware backup did.
-
-The couple's Saturday afternoon:
-
-1. He moves ~$1,000 into the passphrase wallet.
-2. She restores the seed on a spare device.
-3. Her brother reads him the passphrase over the phone.
-4. They watch the $1,000 appear on her screen.
-
-That converts a hoped-for split into a proven one, for $1,000 they never actually spent and one afternoon nobody was grieving.
-
-The pieces stay distributed after the test. Writing them together in one place undoes the entire split.
-
-### The misconception that gets people killed
-
-"I'll just split the seed words between two people." A client did exactly this: 24 words, 12 to each of two people.
-
-- If they trust each other, together they have the whole thing (no protection).
-- If either one figures out the other half through a leak or a guess, unilateral access. 12 words is a much shorter guess than 24.
-
-Splitting a seed makes the wallet weaker. Splitting the seed from a passphrase makes it stronger.
+So splitting a seed makes the wallet weaker, while splitting a seed from a passphrase makes it stronger. Those sound almost identical and they do opposite things. If you want to pass test one, you change your custody setup. You do not chop up your seed.
 
 ### Your decision
 
-**Who holds each half of your access.**
+Your decision out of this lesson is who holds what, and which of the two tests your design passes.
 
-How to think about it:
-
-1. **Run both tests on your own setup.** Can one person spend alone? Can one lost copy stop recovery? Write the two answers down before you design anything.
-2. **Split two different objects, never one object in two pieces.** Half a seed makes the wallet weaker; a seed separated from a passphrase makes it stronger.
-3. **Pick people who don't share a household, a safe, or a bad week.** Two halves in one house is one location, not two.
-4. **Choose for reliability over technical skill.** The process is written down; the person just has to follow it and be findable.
-5. **Back up each half on its own side of the split**, so a lost copy is survivable and neither side gains unilateral access.
-6. **Assume neither one goes rogue, and plan as if one might.** Neither half should be worth anything alone.
+Design for the custody level you actually have, not the one you'd like to have, because an access plan built on a setup you haven't finished isn't a plan. Pick people who don't share a household, a safe, or a bad week. Choose for reliability over technical skill, since the process is written down and the person mainly has to follow it and be findable. And assume neither person goes rogue, while planning as if one might.
 
 ### Homework
 
-1. Name the person holding each half, and write down where each piece lives.
-2. Answer both tests in writing. Can one person spend alone? Can one lost copy stop recovery? If the second answer is yes, back up each half on its own side before you go any further.
-3. Run the test with a small amount, start to finish, so you know it works.
-4. Confirm afterwards that the two halves are still in separate places and were never written down together.
+Your homework for this lesson is to:
+
+1. Name the person holding each piece, and write down where each piece lives.
+2. Answer both tests in writing. Can one person spend alone? Can one lost copy or one unreachable person stop recovery? Write down the answer you don't like, because that's the one you'll otherwise forget you chose.
+3. If you failed test two, fix it first. Back up each piece on its own side before you do anything else. A loss you caused yourself is far more likely than a betrayal.
+4. Run the test with a small amount, start to finish, so you know it actually works.
+5. Confirm afterwards that the pieces are still in separate places, and that they were never written down together.
 
 
 ## 9.3 The heir letter and the dead man's switch

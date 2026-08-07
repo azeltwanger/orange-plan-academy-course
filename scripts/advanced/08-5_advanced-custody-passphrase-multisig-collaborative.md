@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 8.5
 8.5 Advanced custody: passphrase, multisig, and collaborative
-~12 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~16 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the advanced custody setups: the passphrase, multisig, and collaborative custody.
@@ -75,6 +75,26 @@ The keys hold the money. The config is the file that records how those keys conn
 And this is not hypothetical. A man dies with a two-of-three multisig holding about $300,000. He did everything right on the keys. 3 seeds, three separate locations, the executor holds one, and the family finds all three. They recover nothing. $300,000, lost to a missing file.
 
 It has no spending power. Losing it to a thief costs you privacy, not coins. Which means you can back it up aggressively, in ways you would never back up a seed. And if you're with a collaborative provider, they hold the config for you. On top of the support, that annual fee is buying the one file your heirs can't reconstruct on their own.
+
+== BUILDING THE ESTATE SPLIT ON EACH PATH ==
+
+The estate module gives you the two tests: can one person spend alone, and can one lost copy permanently stop recovery. What it deliberately doesn't do is show you how to build a setup that passes both, because that's a custody decision. So here's how each path carries the split.
+
+On the passphrase path, Anthony Park calls this poor man's multisig, and it works because of how a passphrase behaves. Seed plus passphrase produces a completely different wallet than the seed alone. Same words, different passphrase, different set of coins. So the seed by itself opens a real wallet that's empty, and the passphrase by itself is a word that opens nothing. Two objects, each worthless alone, which is exactly what lets you hand each one to a different person.
+
+Your heir holds the seed. Your executor holds the passphrase. Together they have full access, apart they have nothing. That's test one, passed by design.
+
+Now test two, and this is the trap. Seed plus passphrase is a two-of-two. Both pieces are required every single time. So if the seed card is lost in a fire, the passphrase opens nothing. And if the executor dies without passing the passphrase on, the seed opens an empty wallet. Either one is a total, permanent loss with nobody having done anything wrong. Half of a two-of-two is zero.
+
+Which means each half needs its own backup, on its own side. A second steel copy your heir controls, or one their own successor can reach, never anywhere the passphrase holder can also get to. The passphrase written once, sealed, held by the executor or whoever he names after him, never in the same house or the same safe as the seed.
+
+On the multisig path, a two-of-three vault passes both tests structurally, without you engineering the backups yourself. Any two of the three can spend, so losing one key entirely is survivable, and no single holder can spend alone. Both tests, handled by the arithmetic.
+
+The distribution that makes it work as an estate plan: you hold two keys, so nothing about your day changes and you spend on your own just like today. Your executor holds the third as a sealed seed card, and since one key alone can't spend, they can't touch anything while you're alive. If you're with a collaborative provider, they hold the remaining key and never your seed phrase. After you're gone, your executor and the provider hold two keys between them, which meets the threshold, and the provider verifies who the executor is and walks them through it. Your heirs get a guided recovery instead of a technical exam.
+
+The one thing to get right is where the config file sits. An executor's key stored next to the config file is one step from control, and that quietly turns your two-of-three into a single-key setup. So the config lives in a password manager, never printed, never stored with any physical key.
+
+So with a passphrase you're splitting two different objects between two people. With multisig the keys are already separate, and the job becomes keeping the config away from whoever holds a key. Same principle, different setup.
 
 == HOMEWORK ==
 

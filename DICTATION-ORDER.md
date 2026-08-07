@@ -127,12 +127,12 @@ changed once, in both places, before you record.
 | 8.4 | *External demo: hardware wallet setup + exchange hardening* | — DEMO, narrated off the sheet |
 | 8.5 | *Walkthrough: document your custody map in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 8 — Estate & Inheritance · 41 min
+### Module 8 — Estate & Inheritance · 38 min
 
 | # | Lesson | min |
 |---|---|---|
 | 9.1 | The executor, the four legal documents, and choosing an estate attorney | 11.0 |
-| 9.2 | Split access: dual control and redundancy | 11.2 |
+| 9.2 | Split access: dual control and redundancy | 9.0 |
 | 9.3 | The heir letter and the dead man's switch | 10.5 |
 | 9.4 | Insurance: term life, disability, umbrella, and when to stop | 7.8 |
 
@@ -146,7 +146,7 @@ changed once, in both places, before you record.
 
 ---
 
-**27 teach lessons · 247 min (4.1 h) of finished audio at 155 wpm.**
+**27 teach lessons · 245 min (4.1 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not dictated. They are screen captures you narrate in
 your own words off the DO / SEE / ⚠ sheets, and they happen after the

@@ -24,6 +24,28 @@ The real downside is depending on a company across decades. But it's bounded: wo
 
 **The config file:** keys hold the money; the config is the map that reassembles a multisig wallet. Heirs with all three seeds and no config recover *nothing* (a real ~$300k loss). It has no spending power, so back it up aggressively, and never store it beside a key.
 
+## Building the estate split on each path
+
+The estate module gives you the two tests (can one person spend alone; can one lost copy stop recovery) and deliberately stops there, because passing both is a *custody* decision. Here is how each path carries the split.
+
+**Passphrase ("poor man's multisig").** Seed + passphrase opens a *different wallet* than the seed alone. The seed by itself opens a real-but-empty wallet; the passphrase by itself opens nothing. Two objects, each worthless alone, so each can go to a different person: heir holds the seed, executor holds the passphrase. Test 1 passes by design.
+
+⚠ **Test 2 does not.** Seed + passphrase is **2-of-2**; both are required every time. A seed lost in a fire, or an executor who dies without passing the passphrase on, is total permanent loss with nobody doing anything wrong. **Half of a 2-of-2 is zero.** So each half needs its own backup on its own side: a second steel copy the heir controls, never reachable by the passphrase holder; the passphrase written once, sealed, held by the executor or their named successor, never in the same house or safe as the seed.
+
+**Multisig (2-of-3).** Passes both tests structurally, no backup engineering required: any two of three can spend, so losing one key is survivable and no single holder can spend alone.
+
+The distribution that makes it an estate plan:
+
+| Holder | Keys | Why |
+|---|---|---|
+| You | 2 | Nothing about your day changes; you spend on your own |
+| Executor | 1, sealed seed card | One key alone cannot spend, so they cannot touch anything while you are alive |
+| Collaborative provider | 1 (never your seed) | After you are gone, executor + provider = 2 keys, meeting the threshold. The provider verifies the executor and walks them through it |
+
+⚠ **Where the config file sits is the thing to get right.** An executor's key stored next to the config is one step from control, which quietly turns 2-of-3 into a single-key setup. Config lives in a password manager: never printed, never stored with any physical key.
+
+With a passphrase you split two different objects between two people. With multisig the keys are already separate, and the job becomes keeping the config away from whoever holds a key. Same principle, different setup.
+
 ## Homework
 
 1. Decide whether an advanced setup is warranted at all. A well-run Level 2 is a valid stopping point.
