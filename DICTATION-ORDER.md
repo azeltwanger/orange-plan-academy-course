@@ -3,7 +3,7 @@
 Read top to bottom. Nothing below depends on a decision you haven't made yet,
 as long as you settle the five things in the next section first.
 
-**27 teach lessons · 226 min (3.8 h) of finished audio at 155 wpm.**
+**27 teach lessons · 227 min (3.8 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not on this list. They're screen captures you narrate in your
 own words off the DO / SEE / ⚠ sheets, and they happen after the teach lessons
@@ -46,7 +46,7 @@ changed once, in both places, before you record.
 
 - **The AI** is taught in full in **1.2** and nowhere else. Later walkthroughs only name the button and say when it is worth running.
 - **The US-specific disclaimer** is said at the top of **6.1** and the top of **9.1**. Twice, total, plus the breakdown in 1.1 of which modules are US-shaped. It used to run 12 times.
-- **The walkthrough hand-off** ("watch the walkthrough below this video") belongs ONLY on the last teach lesson of a module that has a capture: **2.3** · **3.3** · **4.4** · **5.1** · **6.2** · **7.5** · **8.3** · **9.4** · **10.2**.
+- **The walkthrough hand-off** ("watch the walkthrough below this video") belongs ONLY on the last teach lesson of a module that has a capture: **2.3** · **3.3** · **4.1** · **5.4** · **6.2** · **7.5** · **8.3** · **9.4** · **10.2**.
 - **No capture, so no hand-off:** Module 0 (last teach 1.2). Do not record a hand-off line there until a sheet exists.
 
 ---
@@ -79,22 +79,22 @@ changed once, in both places, before you record.
 | 3.3 | Fund known future costs: college, cars, a house, repairs | 6.7 |
 | 3.4 | *Walkthrough: build cash flow and reserve in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 3 — Allocation & Next-Dollar · 33 min
+### Module 3 — Debt Strategy · 9 min
 
 | # | Lesson | min |
 |---|---|---|
-| 4.1 | Set the Bitcoin allocation you can hold through a full drawdown | 8.7 |
-| 4.2 | Break your accounts down by holding type, then by timeframe | 9.4 |
-| 4.3 | Order your contributions: which account gets funded first | 8.5 |
-| 4.4 | Asset location: which account each holding belongs in | 6.4 |
-| 4.5 | *Walkthrough: route it in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
+| 4.1 | Give every debt a job and set your ceiling | 8.7 |
+| 4.2 | *Walkthrough: give every debt a job in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 4 — Debt Strategy · 8 min
+### Module 4 — Allocation & Next-Dollar · 34 min
 
 | # | Lesson | min |
 |---|---|---|
-| 5.1 | Give every debt a job and set your ceiling | 8.4 |
-| 5.2 | *Walkthrough: give every debt a job in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
+| 5.1 | Set the Bitcoin allocation you can hold through a full drawdown | 9.0 |
+| 5.2 | Break your accounts down by holding type, then by timeframe | 9.4 |
+| 5.3 | Order your contributions: which account gets funded first | 8.8 |
+| 5.4 | Asset location: which account each holding belongs in | 6.4 |
+| 5.5 | *Walkthrough: route it in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
 ### Module 5 — Tax Strategy · 13 min
 
@@ -143,7 +143,7 @@ changed once, in both places, before you record.
 
 ---
 
-**27 teach lessons · 226 min (3.8 h) of finished audio at 155 wpm.**
+**27 teach lessons · 227 min (3.8 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not dictated. They are screen captures you narrate in
 your own words off the DO / SEE / ⚠ sheets, and they happen after the

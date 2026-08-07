@@ -1,5 +1,5 @@
-TELEPROMPTER SCRIPT — segment A4.1
-A4.1 Borrow against Bitcoin without getting liquidated
+TELEPROMPTER SCRIPT — segment A3.1
+A3.1 Borrow against Bitcoin without getting liquidated
 ~16 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 

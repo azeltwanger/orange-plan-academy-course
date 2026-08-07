@@ -1,7 +1,9 @@
-TELEPROMPTER SCRIPT — segment 5.1
-5.1 Give every debt a job and set your ceiling
+TELEPROMPTER SCRIPT — segment 4.1
+4.1 Give every debt a job and set your ceiling
 ~10 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
+
+Your reserve is sized, so you know what protects you. Before we point a single new dollar at Bitcoin, we're going to settle your debt, because the next-dollar order in the module after this one routes money to debt, and you can't route to a decision you haven't made.
 
 In today's lesson, we're going to build your whole debt policy, and it comes down to two things. A ceiling, meaning the level of debt you won't go past. And a job for every single debt you have, with a reason attached to it.
 

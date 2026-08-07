@@ -95,9 +95,30 @@ forward and restarting is where the retakes come from. Where a sheet has
 
 ---
 
-## ☐ 4.5 · WALKTHROUGH — Route it
+## ☐ 4.2 · WALKTHROUGH — Give every debt a job
 
-*Screen capture · 11 steps · ~16 min*  ·  sheet: `scripts/04-5_WALKTHROUGH_route-it.md`
+*Screen capture · 6 steps · ~7 min final*  ·  sheet: `scripts/04-2_WALKTHROUGH_debt.md`
+
+**Stage this first:**
+- [ ] Every debt entered with real terms: balance, rate, payment, and a payoff date where one exists
+- [ ] The couple's two debts on the demo account: $280,000 mortgage at 3.25%, $18,000 car at 7%
+- [ ] Confidence number from Module 1 to hand, for the close
+- [ ] Clean browser, notifications off
+
+**Beats:**
+1. ☐ 1 · Enter every debt
+2. ☐ 2 · Read the vitals strip
+3. ☐ 3 · Read the verdict line
+4. ☐ 4 · Give every debt a job
+5. ☐ 5 · Route the extra dollars
+6. ☐ 6 · Review Debt Strategy (AI)
+7. ☐ WRAP — spot check off the screen
+
+---
+
+## ☐ 5.5 · WALKTHROUGH — Route it
+
+*Screen capture · 11 steps · ~16 min*  ·  sheet: `scripts/05-5_WALKTHROUGH_route-it.md`
 
 **Stage this first:**
 - [ ] 401(k) owner has a **salary income source** entered (else Fill to match is disabled)
@@ -119,27 +140,6 @@ forward and restarting is where the retakes come from. Where a sheet has
 11. ☐ 11 · Confirm the record
 12. ☐ 7b · The three misfits, on their own screen
 13. ☐ WRAP — spot check off the screen
-
----
-
-## ☐ 5.2 · WALKTHROUGH — Give every debt a job
-
-*Screen capture · 6 steps · ~7 min final*  ·  sheet: `scripts/05-2_WALKTHROUGH_debt.md`
-
-**Stage this first:**
-- [ ] Every debt entered with real terms: balance, rate, payment, and a payoff date where one exists
-- [ ] The couple's two debts on the demo account: $280,000 mortgage at 3.25%, $18,000 car at 7%
-- [ ] Confidence number from Module 1 to hand, for the close
-- [ ] Clean browser, notifications off
-
-**Beats:**
-1. ☐ 1 · Enter every debt
-2. ☐ 2 · Read the vitals strip
-3. ☐ 3 · Read the verdict line
-4. ☐ 4 · Give every debt a job
-5. ☐ 5 · Route the extra dollars
-6. ☐ 6 · Review Debt Strategy (AI)
-7. ☐ WRAP — spot check off the screen
 
 ---
 

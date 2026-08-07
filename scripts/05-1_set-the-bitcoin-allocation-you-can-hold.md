@@ -1,7 +1,9 @@
-TELEPROMPTER SCRIPT — segment 4.1
-4.1 Set the Bitcoin allocation you can hold through a full drawdown
+TELEPROMPTER SCRIPT — segment 5.1
+5.1 Set the Bitcoin allocation you can hold through a full drawdown
 ~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
+
+Your reserve is sized and every debt has a job. That's what this module stands on, because now every next dollar has somewhere to go and you already know which of those places has a claim on it.
 
 In today's lesson, we're going to set your Bitcoin allocation, and then we're going to stress-test it, because those two things are really one decision and I don't want you making the first half without the second half.
 

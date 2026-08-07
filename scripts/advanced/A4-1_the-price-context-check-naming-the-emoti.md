@@ -1,6 +1,6 @@
-TELEPROMPTER SCRIPT — segment A3.1
-A3.1 The price context check: naming the emotion before a big move
-204 words · ~1.3 min at 155 wpm
+TELEPROMPTER SCRIPT — segment A4.1
+A4.1 The price context check: naming the emotion before a big move
+202 words · ~1.3 min at 155 wpm
 ============================================================
 
 This one runs before any Bitcoin-heavy move. Its job is to name the emotion in the room.
@@ -25,4 +25,4 @@ Whether this move is the plan talking or the price talking.
 If the recent 3-to-6-month move is dramatic, wait a beat and ask it straight
 before you act.
 
-# Advanced Module 4 — Debt and Bitcoin-Backed Loans
+# Advanced Module 5 — Tax Strategies

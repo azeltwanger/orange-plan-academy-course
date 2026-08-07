@@ -43,8 +43,12 @@ for f in sorted(os.listdir(outdir)):
 # generator emits '09-3_slug.md' — a different filename AND a different key,
 # so protection missed it and two files existed for one lesson. Key on the
 # lesson number alone.
+# Advanced-library files are 'A3-1_slug.md', not digit-led, so the old
+# `f[:2].isdigit()` test skipped them entirely — protection fell back to exact
+# filename and a retitled lesson produced a second file for the same number.
+# Same bug class as the '-A' suffix below, one prefix further out.
 SPOKEN_NUMS = {f.split('_')[0].removesuffix('-A')
-               for f in SPOKEN if f[:2].isdigit()}
+               for f in SPOKEN if f[:2].isdigit() or f[:1] == 'A'}
 print(f'protected: {len(SPOKEN)} files / {len(SPOKEN_NUMS)} lesson numbers')
 
 # Core lessons are '## 4.1'; Advanced Library lessons are '## A7.2'.

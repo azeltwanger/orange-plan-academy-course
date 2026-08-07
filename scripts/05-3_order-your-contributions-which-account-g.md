@@ -1,5 +1,5 @@
-TELEPROMPTER SCRIPT — segment 4.3
-4.3 Order your contributions: which account gets funded first
+TELEPROMPTER SCRIPT — segment 5.3
+5.3 Order your contributions: which account gets funded first
 ~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
@@ -15,7 +15,9 @@ There are six rungs, and you can see all of them right here. Let me walk you dow
 
 Rung 1 is your employer match, in your 401(k) or something similar. This is first because it's a 50 to 100% instant return on the money. Nothing else you can do with a dollar gets close to that. If your match is 50% up to 6% of pay, you contribute 6%. Not 5%, not 3%. Six. Anything less is leaving free money on the table.
 
-Rung 2 is high-interest debt, and by high-interest I mean roughly above 7%. Paying down a 20% credit card is a guaranteed 20% return, and you cannot beat a guaranteed 20% anywhere. Any card in the 20s is priority one, before anything else in your plan.
+Rung 2 is high-interest debt, and you already did this work. In the debt module you gave every debt a job and sorted them into high-cost and low-cost. This rung just funds the ones you marked for extra principal. You are not re-deciding anything here.
+
+The reason it sits this high: paying down a 20% credit card is a guaranteed 20% return, and you cannot beat a guaranteed 20% anywhere.
 
 Rung 3 is the HSA, if you're eligible for one. It's the only account in the entire tax code that's triple-tax-advantaged: the money goes in untaxed, grows untaxed, and comes out untaxed for medical costs. I switched my own family to CrowdHealth, so I'm not HSA-eligible anymore, but if you're on a high-deductible health plan, this rung is a gift. Which bucket it lands in follows the job you give it: Legacy if you invest it and let it grow as a Roth-like medical fund, Bridge if you're going to spend it on medical costs before retirement.
 
@@ -29,7 +31,7 @@ So the logic of the whole ladder is: free money first, guaranteed high returns s
 
 == SPECIAL CASES ==
 
-A few special cases. If you don't have an employer match, skip rung 1. If you're not HSA-eligible, like me, skip rung 3. If you don't have any high-interest debt, skip rung 2.
+A few special cases. If you don't have an employer match, skip rung 1. If you're not HSA-eligible, like me, skip rung 3. And if your debt module came back with nothing marked for extra principal, skip rung 2 — that's a completed decision, not an unanswered one.
 
 And if your income is too high to contribute to a Roth IRA directly, look up the Backdoor Roth. You contribute non-deductible dollars to a traditional IRA and then convert it. One warning on that: existing pre-tax IRA balances don't prevent it, but they do make part of the conversion taxable under the pro-rata rule. So check what you're already holding in traditional IRAs first, and verify that one for your situation before you do it.
 

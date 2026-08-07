@@ -31,7 +31,7 @@ This course is built on US rules, and it's worth knowing exactly where that matt
 - **Module 5, Tax.** Brackets, Roth and traditional accounts, RMDs, wash-sale rules, state taxes.
 - **Module 8, Estate.** Executor role, legal documents, probate, trusts, the federal estate exemption.
 - **Parts of Module 6, Retirement Income.** Social Security, Medicare, and the healthcare bridge before 65.
-- **The asset location lesson in Module 3.** It covers US account wrappers.
+- **The asset location lesson in Module 4.** It covers US account wrappers.
 
 **Travels anywhere:** your reserve, allocation and the emotion gates, debt ratios and loan to value, all of custody, how the retirement math works, scenarios, and the monthly and annual rhythms.
 

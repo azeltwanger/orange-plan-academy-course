@@ -47,7 +47,7 @@
 
 **⚠ THE BIG ONE.** Living = your spending. Not your paycheck, not debt payments. The biggest data-entry mistake in the whole app dies here.
 
-**⚠** Don't click into Debt payments. That's the per-debt editor and it belongs to Module 4.
+**⚠** Don't click into Debt payments. That's the per-debt editor and it belongs to Module 3, which is next.
 
 ---
 
@@ -113,7 +113,7 @@
 2. **Extra debt** — *all N debts on minimums · manage*
 3. **Contributions** — *remainder after reserve*
 
-**⚠** Step 2 is read-only here. Amounts live on Strategy → Debt (Module 4).
+**⚠** Step 2 is read-only here. Amounts live on Strategy → Debt (Module 3, next).
 
 **⚠** Deficit mode replaces the routing block with *"This month has no surplus to allocate…"*
 
@@ -125,7 +125,7 @@
 
 **SEE** Its opening question: *"Fastest next move, or full check of income, spending, reserve, and routing?"*
 
-**⚠** Skip **Route my next dollar** — that's Module 3's centerpiece.
+**⚠** Skip **Route my next dollar** — that's Module 4's centerpiece, two modules from here.
 
 ---
 

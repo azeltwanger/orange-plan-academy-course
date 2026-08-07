@@ -1,5 +1,5 @@
-TELEPROMPTER SCRIPT — segment 4.2
-4.2 Break your accounts down by holding type, then by timeframe
+TELEPROMPTER SCRIPT — segment 5.2
+5.2 Break your accounts down by holding type, then by timeframe
 ~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 

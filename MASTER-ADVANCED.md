@@ -67,48 +67,9 @@ Your homework for this lesson is to:
 
 *Reference material only. No filmed lessons.*
 
-# Advanced Module 3 — Allocation and Asset Location
+# Advanced Module 3 — Debt and Bitcoin-Backed Loans
 
-## A3.1 The price context check: naming the emotion before a big move
-
-*`TEACH` · 380 words · ~3 min*
-
-> **Gate.** Watch this before any Bitcoin-heavy move: a large buy, selling to
-> lock in gains, or taking a Bitcoin-backed loan. Your allocation decision is
-> complete without it.
-
-**By the end of this lesson, you can:**
-
-- Run the two lookback windows before a Bitcoin-heavy move
-- Tell what you are feeling apart from what is actually true
-- Decide whether the plan or the price is making the decision
-
----
-This one runs before any Bitcoin-heavy move. Its job is to name the emotion in the room.
-
-#### Two lookbacks
-
-- **Recent (3, 6, 9, 12 months):** what you're feeling. Bitcoin up 40% in three months, you're feeling FOMO. Down 40%, you're feeling fear.
-- **Long (2 to 5 years):** what's actually true. The direction of the trend, not the mood of last week.
-
-Run both. Recent tells you which emotion you're carrying into the decision. Long tells you whether it's aligned with reality or reacting against it.
-
-#### What the check does and doesn't do
-
-It doesn't decide the move. It names the emotion so you can act on the plan instead of the mood.
-
-Before a big move (buying a large position, selling to lock in gains, taking out a Bitcoin-backed loan), if the recent 3-6 month price move is dramatic, you're probably reacting to it. Wait a beat. Is this the plan making the decision, or the price?
-
-### Your decision
-
-**Whether this move is the plan talking or the price talking.**
-
-If the recent 3-to-6-month move is dramatic, wait a beat and ask it straight
-before you act.
-
-# Advanced Module 4 — Debt and Bitcoin-Backed Loans
-
-## A4.1 Borrow against Bitcoin without getting liquidated
+## A3.1 Borrow against Bitcoin without getting liquidated
 *`TEACH + APP` · ~2,460 words · ~16 min*
 
 > **Gate.** Only if you are actually considering a Bitcoin-backed loan, or
@@ -269,7 +230,7 @@ The engine walks the loan forward year by year alongside the Bitcoin price path.
 
 Practically: run a 50% drawdown scenario with a loan in place and you're watching the loan's real behavior in that drawdown, not an assumption about it.
 
-> 🎥 **SCREEN SHARE STARTS HERE — capture segment A4.1-B.** Everything above is teleprompter A-roll (segment A4.1-A); everything below is screen capture. This heading is the edit cut point.
+> 🎥 **SCREEN SHARE STARTS HERE — capture segment A3.1-B.** Everything above is teleprompter A-roll (segment A3.1-A); everything below is screen capture. This heading is the edit cut point.
 
 ### Now put it in the app
 
@@ -333,7 +294,7 @@ How to think about it:
 
 
 
-## 5.3 The four ways debt can build wealth
+## A3.2 The four ways debt can build wealth
 *`TEACH + APP` · 883 words · ~4 min*
 
 > **Gate.** Watch this if you are carrying debt you could pay off but are choosing not to, or you are weighing whether to. If every debt already has a job you can defend, your debt policy is complete without it.
@@ -453,7 +414,7 @@ Each of the four plays is a comparison, not a rule. Each only works inside the b
 
 So let's run one. Pick the play you're most tempted by and put it against your own baseline.
 
-> 🎥 **SCREEN SHARE STARTS HERE — capture segment 5.3-B.** Everything above is teleprompter A-roll (segment 5.3-A); everything below is screen capture. This heading is the edit cut point.
+> 🎥 **SCREEN SHARE STARTS HERE — capture segment A3.2-B.** Everything above is teleprompter A-roll (segment A3.2-A); everything below is screen capture. This heading is the edit cut point.
 
 ### Now put it in the app
 
@@ -479,6 +440,45 @@ How to think about it:
 3. If you're running one, set its rules before you act: what you borrow against, at what LTV, and what makes you stop.
 
 You've seen what one play does to your plan. Now every debt on the ledger needs a decision, including the ones you're keeping.
+
+# Advanced Module 4 — Allocation and Asset Location
+
+## A4.1 The price context check: naming the emotion before a big move
+
+*`TEACH` · 380 words · ~3 min*
+
+> **Gate.** Watch this before any Bitcoin-heavy move: a large buy, selling to
+> lock in gains, or taking a Bitcoin-backed loan. Your allocation decision is
+> complete without it.
+
+**By the end of this lesson, you can:**
+
+- Run the two lookback windows before a Bitcoin-heavy move
+- Tell what you are feeling apart from what is actually true
+- Decide whether the plan or the price is making the decision
+
+---
+This one runs before any Bitcoin-heavy move. Its job is to name the emotion in the room.
+
+#### Two lookbacks
+
+- **Recent (3, 6, 9, 12 months):** what you're feeling. Bitcoin up 40% in three months, you're feeling FOMO. Down 40%, you're feeling fear.
+- **Long (2 to 5 years):** what's actually true. The direction of the trend, not the mood of last week.
+
+Run both. Recent tells you which emotion you're carrying into the decision. Long tells you whether it's aligned with reality or reacting against it.
+
+#### What the check does and doesn't do
+
+It doesn't decide the move. It names the emotion so you can act on the plan instead of the mood.
+
+Before a big move (buying a large position, selling to lock in gains, taking out a Bitcoin-backed loan), if the recent 3-6 month price move is dramatic, you're probably reacting to it. Wait a beat. Is this the plan making the decision, or the price?
+
+### Your decision
+
+**Whether this move is the plan talking or the price talking.**
+
+If the recent 3-to-6-month move is dramatic, wait a beat and ask it straight
+before you act.
 
 # Advanced Module 5 — Tax Strategies
 

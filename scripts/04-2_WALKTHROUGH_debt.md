@@ -1,4 +1,4 @@
-# 5.2 · WALKTHROUGH — Give every debt a job
+# 4.2 · WALKTHROUGH — Give every debt a job
 
 **Screen capture · 6 steps · ~7 min final**
 

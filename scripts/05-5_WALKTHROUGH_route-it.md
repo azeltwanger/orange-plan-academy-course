@@ -1,4 +1,4 @@
-# 4.5 · WALKTHROUGH — Route it
+# 5.5 · WALKTHROUGH — Route it
 
 **Screen capture · 11 steps · ~16 min**
 

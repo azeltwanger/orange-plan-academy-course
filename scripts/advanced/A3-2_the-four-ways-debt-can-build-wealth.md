@@ -1,5 +1,5 @@
-TELEPROMPTER SCRIPT — segment 5.3-A
-5.3 The four ways debt can build wealth
+TELEPROMPTER SCRIPT — segment A3.2
+A3.2 The four ways debt can build wealth
 ~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · A-ROLL ONLY (screen half = shoot list segment 5.3-B)
 ============================================================
 

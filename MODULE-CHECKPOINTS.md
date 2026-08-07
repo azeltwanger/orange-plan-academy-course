@@ -58,19 +58,7 @@ sum of them:
 
 ---
 
-## Module 3 — Allocation, asset location, and the next dollar
-
-**You are done when:**
-
-- [ ] Your Bitcoin allocation is a percentage you have **stress-tested at today's balance**, not the balance you had when you chose it
-- [ ] Every account is sorted into Reserve, Bridge, or Legacy, and none are left on the app's inferred guess
-- [ ] Each bucket has a target, and you can say where that target came from
-- [ ] Your contribution waterfall is set, and you know which rung the next dollar goes to
-- [ ] **Not applicable is fine:** no employer match, no HSA eligibility, and no high-interest debt each complete their rung by being skipped deliberately
-
----
-
-## Module 4 — Debt policy
+## Module 3 — Debt policy
 
 **You are done when:**
 
@@ -79,6 +67,18 @@ sum of them:
 - [ ] Every debt has a job, and you can give the reason for each one
 - [ ] Your ceiling is a number you have said out loud. **There is no field for it, which is the point**
 - [ ] **Not applicable is fine:** no debt means this module is complete with a stated ceiling and nothing to assign
+
+---
+
+## Module 4 — Allocation, asset location, and the next dollar
+
+**You are done when:**
+
+- [ ] Your Bitcoin allocation is a percentage you have **stress-tested at today's balance**, not the balance you had when you chose it
+- [ ] Every account is sorted into Reserve, Bridge, or Legacy, and none are left on the app's inferred guess
+- [ ] Each bucket has a target, and you can say where that target came from
+- [ ] Your contribution waterfall is set, and rung 2 funds the debts your debt policy already marked for extra principal
+- [ ] **Not applicable is fine:** no employer match, no HSA eligibility, and nothing marked for extra principal each complete their rung by being skipped deliberately
 
 ---
 

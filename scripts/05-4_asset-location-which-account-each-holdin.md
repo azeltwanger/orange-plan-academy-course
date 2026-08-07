@@ -1,5 +1,5 @@
-TELEPROMPTER SCRIPT — segment 4.4
-4.4 Asset location: which account each holding belongs in
+TELEPROMPTER SCRIPT — segment 5.4
+5.4 Asset location: which account each holding belongs in
 ~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
