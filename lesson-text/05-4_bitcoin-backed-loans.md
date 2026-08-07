@@ -97,7 +97,7 @@ Run a 50% drawdown scenario with the loan in place and you're seeing its real be
 
 ## Ask the AI
 
-Open **Plan Guide** and ask for *"evaluate bitcoin borrowing capacity."* That runs the **Evaluate borrowing capacity** workflow on your own numbers. It runs a real loan against your eligible taxable Bitcoin and your saved thresholds, and gives you the price-drop cushion in dollars.
+Open **Plan Guide** and ask for *"evaluate bitcoin borrowing capacity."* It models a real loan against your eligible taxable Bitcoin and your saved thresholds, and gives you the price drop cushion in dollars.
 
 ## Homework
 

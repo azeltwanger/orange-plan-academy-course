@@ -23,7 +23,7 @@ So what never goes in the letter: seed phrases, private keys, passwords, PINs, e
 
 == THE FIRST TWO LINES ARE THE WHOLE THING ==
 
-Let me show you what a good letter sounds like, because the first two lines are the whole thing. He's writing directly to his wife here, not writing a document.
+Let me show you what a good letter sounds like. The first two lines do most of the work. He's writing directly to his wife here, not writing a document.
 
 Line one: "Call your brother first. He has the other half, and he's expecting this call."
 
@@ -117,7 +117,7 @@ Now let's go arm it in the app.
 
 Your decision here is whether to arm the switch, and who gets contacted.
 
-So how do you actually decide? Understand what it's actually for: everything else in this module sits still until a person decides to start, and the switch is the thing that makes somebody start. Pick contacts who will act, not just people who care, and that's usually your executor plus whoever needs to know the letter exists. Tell them in advance, because a message that arrives out of nowhere reads like a scam and the first instinct is to ignore it. And treat the check-in as the point, not a chore, because confirming you're alive every 90 days is the whole thing that keeps this armed.
+So how do you actually decide? Understand what it's actually for: everything else in this module sits still until a person decides to start, and the switch is the thing that makes somebody start. Pick contacts who will act, not just people who care, and that's usually your executor plus whoever needs to know the letter exists. Tell them in advance, because a message that arrives out of nowhere reads like a scam and the first instinct is to ignore it. And treat the check-in as the point, not a chore, because confirming you're alive every 90 days is what keeps it armed.
 
 == HOMEWORK ==
 

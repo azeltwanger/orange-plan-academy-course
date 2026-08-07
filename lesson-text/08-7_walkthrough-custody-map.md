@@ -13,4 +13,4 @@ Follow along (~15 minutes). The app's checklist tier keys to estate net worth (F
 
 ## Ask the AI
 
-Open **Plan Guide** and ask for *"can my family access what they need."* That runs the **Review Protection Plan** workflow on your own numbers. It reads completion status only, never names, locations, or anything secret.
+Open **Plan Guide** and ask for *"can my family access what they need."* That's the **Review Protection Plan** workflow. It reads completion status only, never names, locations, or anything secret.

@@ -27,7 +27,7 @@ If you fund your spending from cash, or from taxable dollars that are mostly bas
 
 Engineer a modest MAGI, and the exact same Silver plan's net premium can fall by hundreds or even thousands a month. The thresholds move every year, so verify them. But the principle holds: in the bridge years, your health premium is partly a tax-planning output.
 
-Which brings us to the tension. This is the same window conflict from the tax module: one low-income window, multiple planning moves competing for it. A big Roth conversion raises your MAGI, which shrinks or kills your subsidy that same year. You can max the window for subsidies, or you can max it for conversions, but you can't do both. So a conversion decision is also a healthcare decision. Model both paths, pick deliberately, and revisit it every year. This is a flagship question to bring your CPA.
+And that creates a conflict, the same one from the tax module: one low-income window, multiple planning moves competing for it. A big Roth conversion raises your MAGI, which shrinks or kills your subsidy that same year. You can max the window for subsidies, or you can max it for conversions, but you can't do both. So a conversion decision is also a healthcare decision. Model both paths, pick deliberately, and revisit it every year. This is a flagship question to bring your CPA.
 
 == PATH 2: HEALTH-SHARING ==
 

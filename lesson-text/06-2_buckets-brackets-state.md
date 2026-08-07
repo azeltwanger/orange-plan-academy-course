@@ -28,7 +28,7 @@ Three warnings: moving is more than tax; residency is a legal domicile standard,
 
 ## Ask the AI
 
-Open **Plan Guide** and ask for *"identify tax planning opportunities."* That runs the **Identify tax planning opportunities** workflow on your own numbers. It screens your current year and your future tax windows for the one that most changes the plan.
+Open **Plan Guide** and ask for *"identify tax planning opportunities."* It screens your current year and your future tax windows and comes back with the one that most changes your plan.
 
 ## Homework
 

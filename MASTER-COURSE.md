@@ -125,7 +125,7 @@ Austin
 
 ---
 
-There's an AI built into Orange Plan, and it shows up in almost every module after this one. So before we use it once, let's cover what it is, what it can see, what it can't, and where it fits.
+In today's lesson, we're going to cover the AI that's built into Orange Plan: what it reads, what it never sees, and where it runs.
 
 ##### The button and the panel
 
@@ -137,7 +137,7 @@ It's included for every signed-in user. There's no separate AI plan and no add-o
 
 ##### The rule that makes the numbers trustworthy
 
-The first thing to understand is that the AI does not do your math.
+The AI does not do your math.
 
 Your surplus, your reserve status, your payoff dates, your loan cushion, your spending target, your success rate, your income floor. All of those come out of the same projection engine that draws your charts. The AI reads those numbers and explains them. It's specifically instructed never to redo arithmetic the app already did, and if it ever does calculate something on its own, it has to label that as an estimate.
 
@@ -149,23 +149,21 @@ It's also told to use only the plan data it was given, and if something importan
 
 It doesn't get a copy of your whole plan. What it gets is targeted context for whatever you're asking about, plus where you are in the app: which page, which tab, what you have selected.
 
-The useful part is that every number it receives is labeled with its status. Applied means saved and actually being used in your projections. Draft means you typed it but haven't saved it. Preview means you're modeling it in a sandbox and it isn't applied. Stale means it's saved, but you've changed something since it was calculated.
+Every number it receives is labeled with its status. Applied means saved and actually being used in your projections. Draft means you typed it but haven't saved it. Preview means you're modeling it in a sandbox and it isn't applied. Stale means it's saved, but you've changed something since it was calculated.
 
 That's why it can tell you your confidence number is stale instead of reading you an old number like it's current.
 
-And if it needs detail it doesn't have, it asks for it. There are about 18 things it can request: your full holdings list, your accounts, your debts, specific projection years, your life events, your tax picture. Those requests get answered by your own browser out of the plan it already has loaded, and only the rows it actually asked for get sent.
+And if it needs detail it doesn't have, it asks for it. There are 22 things it can request: your full holdings list, your accounts, your debts, specific projection years, your life events, your tax picture. Those requests get answered by your own browser out of the plan it already has loaded, and only the rows it actually asked for get sent.
 
 ##### What it never sees
 
 Your raw transactions never leave your browser. They get stripped out of every request, every time. It sees your spending summarized and counted, not line by line.
 
-On the Protect page, it never gets names, contact details, the contents of your heir letter, who holds what for recovery, or where anything is stored. It gets completion status. Enough to tell you the beneficiary row is empty, never enough to tell anyone who or where.
+On the Protect page, it never gets names, contact details, the contents of your heir letter, who holds what for recovery, or where anything is stored. It gets completion status, so it can tell you your beneficiary row is empty without ever knowing who's in it or where anything is kept.
 
 On linked accounts, it never gets your institution names, account names, account numbers, masks, or exact balances.
 
-And secrets are actively blocked, not just discouraged. When you use the heir letter drafting tool, it scans what you typed for anything that looks like a seed phrase, recovery words, a private key, a passphrase, a PIN, a safe combination. If it finds one, it refuses to draft until you take it out. It'll even catch you mapping out who holds which key and strip that down to the category before it sends anything.
-
-Which brings us to the one rule that has no exceptions.
+And it actively blocks secrets. When you use the heir letter drafting tool, it scans what you typed for anything that looks like a seed phrase, recovery words, a private key, a passphrase, a PIN, a safe combination. If it finds one, it refuses to draft until you take it out. It'll even catch you mapping out who holds which key and strip that down to the category before it sends anything.
 
 Never put a seed phrase, a private key, a wallet backup, a passphrase, a PIN, a password, a full account number, or a Social Security number into any AI. Not this one, not any other one. And if you've already done it somewhere, treat that material as compromised and move the funds to a newly generated wallet.
 
@@ -187,7 +185,7 @@ I'd turn it on if you plan to use the AI regularly, because it stops you re-expl
 
 ##### Why the button is different on every page
 
-You'll notice nine pages have their own AI button. Cash Flow says Route with AI. The debt page says Review Debt Strategy. Allocation says Review portfolio. Tax says Review Tax Strategy. Scenarios says Review scenario.
+Nine pages have their own AI button. Cash Flow says Route with AI. The debt page says Review Debt Strategy. Allocation says Review portfolio. Tax says Review Tax Strategy. Scenarios says Review scenario.
 
 Those aren't shortcuts to the same thing. Each one loads a different set of instructions and a different piece of the knowledge base. A tax review loads the tax knowledge and gets held to tax-specific rules, like not suggesting a Roth conversion when there's no pre-tax balance in your plan to convert. A cash flow review loads the cash flow knowledge instead.
 
@@ -213,7 +211,7 @@ You get 10 plan reviews and 100 messages a day, and it resets at midnight UTC. Y
 
 ##### One thing it doesn't know yet
 
-It knows the app and it knows the planning frameworks this course is built on. It does not know these lessons yet. Teaching it this course is on the list, so when that ships you'll be able to ask it about anything we cover here. Right now, the lessons are mine and the plan review is its.
+It knows the app and it knows the planning frameworks this course is built on. It does not know these lessons yet. Teaching it this course is on the list, so when that ships you'll be able to ask it about anything we cover here. Until then, it can review your plan but it can't teach you these lessons.
 
 And the last thing, which I'm saying once here so I don't have to keep repeating it in every walkthrough: it reviews and it explains. You decide.
 
@@ -384,7 +382,7 @@ Four things to keep in mind:
 
 How to think about it:
 
-1. **Start with what you'd defend out loud.** If you can't explain why you picked a curve, it isn't yours, it's a default you inherited.
+1. **Start with what you'd defend out loud.** If you can't say why you picked a curve, you're running whatever the app handed you, and you'll have no idea what to change when the number moves.
 2. **Ask which way you'd rather be wrong.** A conservative assumption shows you a later date on screen. An optimistic one can make the whole plan unreliable, which costs a lot more.
 3. **Set inflation to what you actually believe**, not the default, because your future spending target rises with it.
 

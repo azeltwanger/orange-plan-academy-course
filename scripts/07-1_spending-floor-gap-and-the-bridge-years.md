@@ -9,7 +9,6 @@ This module builds your retirement paycheck. An income floor, a gap that the por
 
 And most early-retirement plans that fail, fail in the bridge years.
 
-This module builds your retirement paycheck. An income floor, a gap that the portfolio covers, buckets that refill on rules, and guardrails that tell you when you can spend more. But the whole thing runs on three numbers, and this lesson finds yours.
 
 == NUMBER 1: A REALISTIC SPENDING NUMBER ==
 

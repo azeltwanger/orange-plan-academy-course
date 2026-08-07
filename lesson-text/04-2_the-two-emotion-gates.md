@@ -38,7 +38,7 @@ The check doesn't decide the move for you. It names the emotion in the room, so 
 
 ## Ask the AI
 
-Open **Plan Guide** and ask for *"help me choose my target allocation."* That runs the **Build my portfolio strategy** workflow on your own numbers. It walks risk tolerance, what job each holding does, and a target you could actually hold.
+Open **Plan Guide** and ask for *"help me choose my target allocation."* That's the **Build my portfolio strategy** workflow: risk tolerance, the job each holding does, and a target you could actually hold through a drawdown.
 
 ## Homework
 

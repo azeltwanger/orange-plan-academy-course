@@ -42,7 +42,7 @@ The floor is what your cash reserve gets sized from.
 
 ## Ask the AI
 
-Open **Plan Guide** and ask for *"review my expenses for ways to save."* That runs the **Review spending tradeoffs** workflow on your own numbers. It reads your linked spending and works the tradeoffs with you, one expense at a time.
+Open **Plan Guide** and ask for *"review my expenses for ways to save."* It reads your linked spending and works the tradeoffs with you, one expense at a time.
 
 ## Homework
 

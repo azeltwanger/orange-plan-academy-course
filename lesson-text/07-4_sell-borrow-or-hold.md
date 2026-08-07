@@ -38,7 +38,7 @@ The app models this directly as **Bracket-aware** mode in the Retirement Borrowi
 
 ## Ask the AI
 
-Open **Plan Guide** and ask for *"should I sell bitcoin or borrow."* That runs the **Compare selling vs. borrowing** workflow, which is this lesson run on your own numbers.
+Open **Plan Guide** and ask for *"should I sell bitcoin or borrow."* That's the **Compare selling vs. borrowing** workflow, which is this lesson run on your own numbers.
 
 ## Homework
 

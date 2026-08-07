@@ -30,7 +30,7 @@ Then normal vetting, including: do they explain things in language your heirs wi
 
 ## Ask the AI
 
-Open **Plan Guide** and ask for *"what should I ask an estate attorney."* That runs the **Prepare for estate planning** workflow on your own numbers. It builds the question list you take into the interview.
+Open **Plan Guide** and ask for *"what should I ask an estate attorney."* It builds the question list you take into the interview.
 
 ## Homework
 

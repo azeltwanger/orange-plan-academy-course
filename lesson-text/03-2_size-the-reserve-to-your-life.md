@@ -56,7 +56,7 @@ If Bitcoin dropped 50% tomorrow and your income stopped for six months, would yo
 
 ## Ask the AI
 
-Open **Plan Guide** and ask for *"set my reserve target."* That runs the **Set my reserve target** workflow on your own numbers. It asks about your income stability and lands on a month count for your situation.
+Open **Plan Guide** and ask for *"set my reserve target."* It asks about your income stability, then lands on a month count for your situation.
 
 ## Homework
 

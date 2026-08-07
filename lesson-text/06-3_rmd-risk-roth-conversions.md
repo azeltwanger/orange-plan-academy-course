@@ -44,7 +44,7 @@ Pay it from outside and the full conversion compounds tax-free. Convert $30,000,
 
 ## Ask the AI
 
-Open **Plan Guide** and ask for *"find my Roth conversion window."* That runs the **Evaluate Roth conversions** workflow on your own numbers. It will not propose a conversion unless your plan actually holds a pre-tax balance to convert.
+Open **Plan Guide** and ask for *"find my Roth conversion window."* That's the **Evaluate Roth conversions** workflow. It will not propose a conversion unless your plan actually holds a pre-tax balance to convert.
 
 ## Homework
 

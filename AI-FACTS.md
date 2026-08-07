@@ -95,7 +95,7 @@ What goes in a request:
 full context; follow-ups replay a pruned digest so the conversation keeps
 continuity without re-billing the whole payload (`api/ai/_lib/planDigest.js`).
 
-**If it needs detail the digest dropped, it asks for it.** There are ~18 read
+**If it needs detail the digest dropped, it asks for it.** There are 22 read
 tools — `get_holdings`, `get_accounts`, `get_debts`, `get_projection_years`,
 `get_cash_flow`, `get_life_events`, `get_tax_strategy_context`,
 `get_retirement_income_context`, `calculate_btc_loan_scenario`, and more
@@ -211,7 +211,7 @@ specific tickers to buy or sell; options strategies; preparing or filing a tax
 return; drafting legal instruments as legal advice; price predictions with
 dates or numbers; politics.
 
-**In scope, and worth saying because people assume otherwise:** tax *planning*
+**In scope, though people assume otherwise:** tax *planning*
 math is allowed. Roth conversion comparisons, harvesting math, cost basis,
 IRMAA, Social Security taxation, after-tax net worth comparisons. The boundary
 is **filing and execution, not arithmetic.** The compliance file says it

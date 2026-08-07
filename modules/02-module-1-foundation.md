@@ -157,7 +157,7 @@ Four things to keep in mind:
 
 How to think about it:
 
-1. **Start with what you'd defend out loud.** If you can't explain why you picked a curve, it isn't yours, it's a default you inherited.
+1. **Start with what you'd defend out loud.** If you can't say why you picked a curve, you're running whatever the app handed you, and you'll have no idea what to change when the number moves.
 2. **Ask which way you'd rather be wrong.** A conservative assumption shows you a later date on screen. An optimistic one can make the whole plan unreliable, which costs a lot more.
 3. **Set inflation to what you actually believe**, not the default, because your future spending target rises with it.
 

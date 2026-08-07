@@ -35,4 +35,4 @@ You started with scattered accounts and a rough guess. You finish with a documen
 
 ## Ask the AI
 
-Open **Plan Guide** and ask for *"what should I fix first."* That runs the **Review my full plan** workflow on your own numbers. It ranks the whole plan and hands you one place to start.
+Open **Plan Guide** and ask for *"what should I fix first."* It ranks the whole plan and hands you one place to start.

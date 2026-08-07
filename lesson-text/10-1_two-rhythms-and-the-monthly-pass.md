@@ -59,7 +59,7 @@ At most three actions, all finishable before the next pass. A long to-do list is
 
 ## Ask the AI
 
-Open **Plan Guide** and ask for *"what should I work on next."* That runs the **Continue my plan** workflow on your own numbers. It picks up wherever your plan actually is, which is useful when a month goes by and you have lost the thread.
+Open **Plan Guide** and ask for *"what should I work on next."* It picks up wherever your plan actually is, which helps when a month has gone by and you've lost the thread.
 
 ## Homework
 

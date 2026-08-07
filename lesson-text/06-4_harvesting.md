@@ -35,7 +35,7 @@ Under current treatment, Bitcoin has no wash-sale rule: sell at a loss and rebuy
 
 ## Ask the AI
 
-Open **Plan Guide** and ask for *"should I harvest gains or losses."* That runs the **Review harvesting opportunities** workflow on your own numbers. It gates the answer on your cost-basis quality, so it tells you when your lots are not clean enough to trust it yet.
+Open **Plan Guide** and ask for *"should I harvest gains or losses."* It gates the answer on your cost basis quality, so it tells you when your lots are too rough to trust the conclusion yet.
 
 ## Homework
 

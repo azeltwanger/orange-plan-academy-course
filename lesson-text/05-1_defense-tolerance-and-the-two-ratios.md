@@ -34,7 +34,7 @@ $298k debt ÷ $745k assets = **40% DTA** (top of workable). ~$1,850/mo payments 
 
 ## Ask the AI
 
-Open **Plan Guide** and ask for *"evaluate my leverage capacity."* That runs the **Evaluate leverage capacity** workflow on your own numbers. It reads both ratios, your payment burden, and your collateral exposure together.
+Open **Plan Guide** and ask for *"evaluate my leverage capacity."* It reads both ratios, your payment burden, and your collateral exposure together, which is the read this lesson is asking you to make.
 
 ## Homework
 

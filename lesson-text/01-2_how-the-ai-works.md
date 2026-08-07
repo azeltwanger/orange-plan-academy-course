@@ -29,15 +29,15 @@ Every value it receives carries a status label:
 
 That labeling is why it can tell you a confidence number is stale instead of quoting an old figure as current.
 
-If it needs detail it wasn't given, it can request specific things: your holdings, accounts, debts, particular projection years, life events, your tax picture. Those requests are answered by your own browser from the plan already loaded there, and only the rows requested get sent.
+If it needs detail it wasn't given, it can request any of 22 specific things: your holdings, accounts, debts, particular projection years, life events, your tax picture. Those requests are answered by your own browser from the plan already loaded there, and only the rows requested get sent.
 
 ## What it never sees
 
 - **Raw transactions.** Stripped out of every request, every time. It receives spending summarized and counted, never line by line.
-- **Anything identifying on the Protect page.** No names, contact details, heir letter contents, recovery assignments, or storage locations. It receives completion status only.
+- **Anything identifying on the Protect page.** No names, contact details, heir letter contents, recovery assignments, or storage locations. It receives completion status only, so it can tell you a beneficiary row is empty without knowing who belongs in it.
 - **Linked account details.** No institution names, account names, account numbers, masks, or exact balances.
 
-Secrets are blocked, not just discouraged. The heir letter drafting tool scans your input for anything resembling a seed phrase, recovery words, a private key, a passphrase, a PIN, or a safe combination, and refuses to draft until it's removed. It also catches attempts to map who holds which key and reduces that to a category before anything is sent.
+It actively blocks secrets. The heir letter drafting tool scans your input for anything resembling a seed phrase, recovery words, a private key, a passphrase, a PIN, or a safe combination, and refuses to draft until it's removed. It also catches attempts to map who holds which key and reduces that to a category before anything is sent.
 
 **The rule with no exceptions:** never put a seed phrase, private key, wallet backup, passphrase, PIN, password, full account number, or Social Security number into any AI, including this one. If you have already done so anywhere, treat that material as compromised and move the funds to a newly generated wallet.
 
@@ -100,7 +100,7 @@ One thing people assume is off limits but isn't: tax math. Roth conversion compa
 
 ## One thing it doesn't know yet
 
-It knows the app and the planning frameworks this course is built on. It does not yet know these lessons. Teaching it the course is planned, not shipped.
+It knows the app and the planning frameworks this course is built on. It does not yet know these lessons, so it can review your plan but it cannot teach you the course. That work is planned, not shipped.
 
 ## The line to remember
 

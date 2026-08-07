@@ -39,7 +39,7 @@ Target: 18 months × $80k = $120k. Spending held → refill fully. Spending cut 
 
 ## Ask the AI
 
-Open **Plan Guide** and ask for *"which retirement drawdown strategy fits me."* That runs the **Compare withdrawal strategies** workflow on your own numbers. It compares drawdown orders against your own income floor and reserve.
+Open **Plan Guide** and ask for *"which retirement drawdown strategy fits me."* That's the **Compare withdrawal strategies** workflow, run against your own income floor and reserve.
 
 ## Homework
 

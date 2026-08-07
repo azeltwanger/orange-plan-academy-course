@@ -37,7 +37,7 @@ That puts them in the 22% bracket, with roughly $60,000 of room before the next 
 
 == THE BRACKET ROADMAP: THREE STAGES ==
 
-Now picture your income as a road through retirement, because it goes through three stages, and the middle one is where the money is.
+Now your income goes through three stages in retirement, and the middle one is where the money is.
 
 Stage one is early retirement, when the paychecks stop. Say the couple retires at 60. The paycheck stops, they're living off the taxable bucket, and their reported income drops, often to the lowest it's ever been in their adult life.
 
