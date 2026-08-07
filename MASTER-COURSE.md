@@ -2864,181 +2864,110 @@ The next module covers retirement income: how to turn your assets into a paychec
 > updated, all other steps confirmed unchanged. Clear to film.
 
 ## 7.1 Your spending, income floor, gap, and bridge years
-*`TEACH` · 584 words · ~4 min*
+*`TEACH` · ~1,255 words · ~8 min*
 
 **By the end of this lesson, you can:**
 
 - Build a realistic retirement spending number
-- Calculate your income floor
-- Compute the gap and understand what it tells you about your plan
+- Calculate your income floor and compute the gap
+- Count and price both of your bridges
+- Compare Social Security claiming ages against your own bridge
 
 ---
 
-This module builds your retirement paycheck: an income floor, a gap the portfolio covers, buckets that refill on rules, and guardrails that tell you when you can spend more.
-
-The whole thing runs on three numbers. This lesson finds yours.
+The three numbers your entire retirement paycheck is built on: your spending, your income floor, and the gap between them. Most early-retirement plans that fail, fail in the years between the last paycheck and the first Social Security check, so this lesson prices those years.
 
 ### Number 1: A realistic spending number
 
-Build it from four pieces:
+> 🎬 **GRAPHIC.** One stacked bar for annual spending. The bottom fills in as
+> the floor (Social Security + pension); the space above it is labeled THE GAP.
+> That gap is what the portfolio has to cover.
 
-- **Baseline spending.** Housing, food, insurance, utilities, transportation.
-- **Flexible spending.** Travel, gifts, hobbies, entertainment. The stuff you'd pause in a bad year.
-- **Healthcare.** Premiums, out-of-pocket, prescriptions, dental, vision.
-- **Lumpy costs.** Roof, car, wedding, dental work, HVAC replacement.
+Four pieces:
 
-Two honesty checks before you write it down:
+1. **Baseline.** Housing, food, insurance, utilities, transportation.
+2. **Flexible.** Travel, gifts, hobbies, entertainment. What you'd pause in a bad year.
+3. **Healthcare.** Premiums, out-of-pocket, prescriptions, dental, vision.
+4. **Lumpy costs.** The roof, a car, a wedding, dental work, the HVAC. Doesn't happen every year, always happens eventually.
 
-- **Is it realistic for the early years?** Most people spend more in the "go-go" phase of retirement. Travel, projects, gifting.
-- **Is healthcare in it?** If you retire before 65, healthcare alone can run into four figures a month.
+Two honesty checks before you enter it: **is it realistic for the early years** (most people spend more in the go-go phase, when the travel and projects and gifting happen), and **is healthcare actually in it** (retiring before 65 can put healthcare alone into four figures a month).
 
 Land on one annual number, lumpy costs included.
 
 ### Number 2: Your income floor
 
-Durable income before you sell anything:
+The durable income that shows up before you sell anything: Social Security, a pension, other recurring retirement income, portfolio income **only if it's real** (verified dividends or rent, not hoped-for yield), and part-time income if you'll actually have any.
 
-- Social Security
-- Pension, if you have one
-- Other recurring retirement income
-- Portfolio income, only if it's real (verified dividends or rent, not hoped-for yield)
-- Part-time income, if you'll have any
-
-The guaranteed core (Social Security + pension + other durable income) is your **floor**. It tells you how much of your life is already paid for, whether the markets cooperate or not.
+The floor tells you how much of your life is already paid for, whether the markets cooperate or not.
 
 ### Number 3: The gap
 
-**Spending minus floor = the portfolio's job.**
+**Spending − floor = the gap.** The gap is the portfolio's job. Two ratios come off it, and the app computes both once your spending target and reserve are in.
 
-Three questions follow:
-
-- How large is the gap?
-- How hard does it make the portfolio work?
-- How much of it is covered by cash?
-
-Questions 2 and 3 have real math behind them.
-
-**How hard the portfolio works.** Gap ÷ portfolio:
-
-| Gap | Portfolio | Ratio |
+| Ratio | Example | What it says |
 |---|---|---|
-| $80,000 | $2,000,000 | 4% |
-| $80,000 | $1,000,000 | 8% |
+| Gap ÷ portfolio | $80,000 gap on $2,000,000 = 4%; on $1,000,000 = 8% | Same lifestyle, portfolio doing twice the work at half the size |
+| Reserve ÷ gap | $160,000 reserve on an $80,000 gap = 2 years | Your buffer measured in time, which is how to measure it |
 
-Same lifestyle. The portfolio does twice the work at half the size. This ratio is what the safe-withdrawal-rate literature argues about.
+### The gap is biggest first
 
-**How much is covered by cash.** Reserve ÷ gap:
+> 🎬 **GRAPHIC.** Horizontal timeline, three markers: retirement day (paycheck
+> stops) → 59½ (retirement accounts unlock) → Social Security start (floor
+> rises). Shade the stretch between retirement and Social Security, label it
+> THE BRIDGE.
 
-$160,000 reserve ÷ $80,000 gap = 2 years of funding without selling anything.
+The couple retires at 60. The year they stop working, income goes to zero and spending has inflated to ~$84,000, so the gap is the entire $84,000. At 62, if he claims, ~$38,000 of Social Security turns on and the gap drops to $46,000. When her benefit arrives, it drops again.
 
-Write both ratios down now.
+The biggest demand on the portfolio lands in the first few years after the paycheck stops, with no floor underneath it yet. **Two bridges are worth counting:**
 
-### The three numbers move over time
+| Bridge | Runs from → to | What it decides |
+|---|---|---|
+| **The Social Security bridge** | Retirement date → benefit start | How much the portfolio carries alone. This is what "bridge years" means in this course |
+| **The 59½ bridge** | Retirement date → age 59½ | Which accounts you can touch cheaply. Before it, traditional IRA/401(k) withdrawals carry a 10% penalty on top of income tax. Verify under current law |
 
-Your income floor doesn't turn on all at once. The couple, 59 now and retiring next year:
+Retire at 64 and the second bridge is zero while the first is still years long. Retire at 50 and both are long, and the account one bites first.
 
-| Year | Position | Income | Spending | Gap |
-|---|---|---|---|---|
-| 1 | Working | $190,000 | $80,000 | +$110,000 surplus |
-| 2 | Retired, pre-SS | $0 | $84,000 (inflation) | -$84,000 |
-| 3 | Some SS on | ~$38,000 | $84,000 | -$46,000 |
-| 4 | More SS on | ~$50,000 | $84,000 | -$34,000 |
+### Price the bridge
 
-The gap is largest right after your last paycheck and shrinks as the floor turns on. The biggest demand on your portfolio lands in the first few years after you stop working.
+**Bridge years × early-year gap = the bridge's price tag.** That one multiplication turns a vague worry about early retirement into a single number the portfolio has to produce without help, and that number is what your Bridge bucket gets sized against.
 
-### In the app
+For the couple, at an ~$84,000 early-year gap:
 
-**Plan → Income → Income Blueprint** runs this table on your numbers. The walkthrough at the end of the module builds it out.
+| Claim at | Bridge years | Portfolio carries alone |
+|---|---|---|
+| 67 (full retirement age) | 7 | **$588,000** |
+| 62 (earliest) | 2 | **$168,000** |
 
-### Homework
+A **$420,000** difference from one claiming decision. It isn't the whole story: claiming at 62 means a permanently smaller check, so the portfolio keeps covering part of the gap after 62 either way.
 
-Enter your retirement spending target and your Social Security estimate in the app. It solves the gap for you, which is the number the rest of the module works on.
-
-If you don't know your floor yet, pull your Social Security estimate this week. SSA.gov gives it in monthly and annual. The app takes it as monthly.
-
-*`TEACH` · 567 words · ~4 min*
-
-**By the end of this lesson, you can:**
-
-- Understand what the bridge years are
-- Count and price your own bridge years
-- Compare Social Security claiming ages against your bridge
-
----
-
-The gap is biggest in the early years. This lesson covers those years: the stretch between your last paycheck and your full income floor.
-
-Most early-retirement plans fail here.
-
-### The timeline
-
-Your income floor doesn't arrive all at once. Three milestones matter:
-
-| Milestone | What changes |
-|---|---|
-| **Retirement day** | Paycheck stops. Portfolio covers the entire gap. |
-| **Age 59½** | Retirement accounts unlock. You can pull from a traditional IRA or 401(k) without the 10% early-withdrawal penalty. Verify under current law. |
-| **Social Security begins** | Floor rises. Splits your retirement into "on your own" and "not on your own." |
-
-### Count them, then price them
-
-Two things to do with your bridge:
-
-- **Count your bridge years.** Retirement date to Social Security start.
-- **Price them.** Bridge years × early-year gap = the bridge's price tag.
-
-That turns a vague worry about early retirement into one number the portfolio has to produce without help. That number is what your Bridge bucket gets sized against.
-
-### The couple, priced two ways
-
-They retire at 60 with an ~$84,000 early-year gap.
-
-**Claim at 67 (full retirement age):**
-
-- 60 to 67 = 7 bridge years
-- 7 × $84,000 = **$588,000** the portfolio carries alone.
-
-**Claim at 62 (earliest):**
-
-- 60 to 62 = 2 bridge years
-- 2 × $84,000 = **$168,000**.
-
-Difference: **$420,000** on or off the portfolio, from one claiming decision.
-
-> ⚠ Earliest, latest, and full retirement age are all set by law, and full retirement age depends on your birth year. Verify yours.
-
-### Why the bridge is hard
-
-Three problems stack into the same few years:
-
-- The biggest gap of your whole retirement.
-- No floor underneath you yet. Social Security hasn't turned on.
-- Retirement accounts are still expensive to touch (if you retired before 59½). 10% penalty on top of income tax.
-
-That's why the Bridge bucket from Module 3 exists. Money for the early-retirement years, held somewhere you can reach it, in something that isn't going to be down in the years you need it.
+> ⚠ Earliest, latest, and full retirement age are all set by law, and full
+> retirement age depends on your birth year. Verify yours.
 
 ### When to claim Social Security
 
-Standard advice says wait for the bigger check. The check grows roughly 8%/yr for every year you delay past your full retirement age. That part is true.
+Standard advice says wait for the bigger check, and the math is true: the check grows roughly 8%/yr for every year you delay past your full retirement age.
 
-But waiting isn't free. Every year you wait, the portfolio carries the full gap by itself. For a Bitcoin-heavy plan, claiming earlier can be rational when it reduces how much Bitcoin you're forced to sell during the bridge, especially in a drawdown year.
+But waiting isn't free, and the standard advice leaves that out. Every year you wait, the portfolio carries the full gap by itself. For a Bitcoin-heavy plan, claiming earlier can be completely rational, because the earlier check means fewer forced Bitcoin sales during the bridge, especially if a bridge year turns out to be a drawdown year.
 
-Don't default to waiting. Compare 62, full retirement age, and 70 against your own gap.
+**Scenarios → What if... → Claim Social Security at 62** and **Claim Social Security at 70** re-run your whole plan with the floor turning on at that age. Read your own bridge both ways, side by side. Make it a comparison rather than a default, and because claiming is permanent, confirm it with your advisor.
+
+### Build the reserve before you need it
+
+Retire at a high, hit a 70% drawdown in your first retirement year with no reserve built, and you are selling Bitcoin at the bottom to fund groceries. That is the exact failure the reserve exists to prevent.
+
+So the retirement-sized reserve gets built **before** the retirement date. Inside about 5 years of retiring, treat filling it as a real goal with a deadline, funded out of strength while the strength is there.
 
 ### In the app
 
-**Scenarios → What if... → Claim Social Security at 62** and **Claim Social Security at 70**. Two one-click what-ifs that re-run your whole plan with the floor turning on at that age. Read your own bridge twice, side by side.
-
-The decision is personal. Confirm with your advisor.
+**Plan → Income → Income Blueprint** runs the gap table on your numbers. The module walkthrough builds it out.
 
 ### Homework
 
-Two steps:
+1. Enter your retirement spending target and Social Security estimate. The app solves the gap, which is what the rest of the module works on.
+2. Don't know your floor? Pull your Social Security estimate this week at SSA.gov. It gives monthly and annual; the app takes monthly.
+3. Count both bridges, then multiply the Social Security one by your early-year gap.
+4. Look at your Bridge bucket and ask honestly whether it's sized for that number.
 
-- Count your bridge years.
-- Multiply by your early-year gap.
-
-That total tells you whether your Bridge bucket is actually sized for the job.
 
 ## 7.3 Set your withdrawal order and refill rule
 *`TEACH` · 903 words · ~6 min*
