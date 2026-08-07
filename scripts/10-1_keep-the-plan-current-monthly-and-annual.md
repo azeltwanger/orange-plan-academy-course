@@ -78,4 +78,3 @@ Your homework for this lesson:
 1. Pick a specific day for your monthly pass and put November on the calendar for your annual review. Both as recurring events, right now.
 2. Decide what you will not touch during a monthly pass, and hold that line when the price is moving.
 3. Hold the three-action cap. More than three and none of them get finished.
-4. Then watch the module walkthrough below this video, where we run the monthly pass on a timer and then the full annual lap.

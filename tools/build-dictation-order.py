@@ -48,7 +48,39 @@ for i, (title, start, lessons) in enumerate(units):
                   or t.lower().startswith('external demo'))
         lessons.append((num, t, screen))
 
-out = ['## The order', '']
+# The say-once block used to be hand-written, and it went stale exactly the
+# way the running order did: it still named retired lessons 4.5, 6.4, 8.5,
+# 11.1 and 11.3, and described hybrid screen work in Modules 4 and 8 that no
+# longer exists. Derive it instead.
+handoff, no_capture = [], []
+for title, _, lessons in units:
+    teach = [n for n, t_, s in lessons if not s]
+    caps = [n for n, t_, s in lessons if s]
+    if not teach:
+        continue
+    if caps:
+        handoff.append(teach[-1])
+    else:
+        no_capture.append((title.split('—')[0].strip(), teach[-1]))
+
+say_once = ['## Say-once items (already built that way, don\'t re-explain later)', '',
+  '*Generated. Regenerating this file rewrites this section from the current '
+  'course, so it cannot go stale again.*', '',
+  '- **The AI** is taught in full in **1.2** and nowhere else. Later '
+  'walkthroughs only name the button and say when it is worth running.',
+  '- **The US-specific disclaimer** is said at the top of **6.1** and the top '
+  'of **9.1**. Twice, total, plus the breakdown in 1.1 of which modules are '
+  'US-shaped. It used to run 12 times.',
+  '- **The walkthrough hand-off** ("watch the walkthrough below this video") '
+  'belongs ONLY on the last teach lesson of a module that has a capture: '
+  + ' · '.join(f'**{n}**' for n in handoff) + '.']
+if no_capture:
+    say_once.append('- **No capture, so no hand-off:** '
+        + ' · '.join(f'{m} (last teach {n})' for m, n in no_capture)
+        + '. Do not record a hand-off line there until a sheet exists.')
+say_once += ['', '---', '']
+
+out = say_once + ['## The order', '']
 teach_n = teach_min = 0
 for title, _, lessons in units:
     mins = sum(runtime.get(n, 0) for n, t, s in lessons if not s)
@@ -78,9 +110,17 @@ out += ['---', '',
 p = os.path.join(root, 'DICTATION-ORDER.md')
 old = open(p, encoding='utf-8').read()
 head = old.split('## The order')[0].rstrip()
+head = head.split('## Say-once items')[0].rstrip()
 # keep the headline stat in the preamble honest too
-head = re.sub(r'\*\*\d+ teach lessons · [\d,]+ words · [\d.]+ hours[^*]*\*\*',
-              f'**{teach_n} teach lessons · {teach_min:.0f} min '
-              f'({hours:.1f} h) of finished audio at 155 wpm.**', head)
+# Match BOTH the retired "N words · N hours" headline and the current
+# "N min (N h)" one. The first version only matched the old form, so once the
+# headline was converted to minutes it silently stopped updating and the file
+# opened with 23 min while ending with 222.
+head, n = re.subn(
+    r'\*\*\d+ teach lessons · (?:[\d,]+ words · [\d.]+ hours|[\d,]+ min \([\d.]+ h\))[^*]*\*\*',
+    f'**{teach_n} teach lessons · {teach_min:.0f} min '
+    f'({hours:.1f} h) of finished audio at 155 wpm.**', head)
+if n == 0:
+    print('  !! headline not found in the preserved preamble — check it by hand')
 open(p, 'w', encoding='utf-8').write(head + '\n\n' + '\n'.join(out))
 print(f'DICTATION-ORDER.md regenerated — {teach_n} teach lessons, {teach_min:.0f} min')

@@ -3,7 +3,7 @@
 Read top to bottom. Nothing below depends on a decision you haven't made yet,
 as long as you settle the five things in the next section first.
 
-**27 teach lessons · 23 min (0.4 h) of finished audio at 155 wpm.**
+**27 teach lessons · 223 min (3.7 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not on this list. They're screen captures you narrate in your
 own words off the DO / SEE / ⚠ sheets, and they happen after the teach lessons
@@ -42,16 +42,12 @@ changed once, in both places, before you record.
 
 ## Say-once items (already built that way, don't re-explain later)
 
-- **The AI** is taught in full in **1.2** and nowhere else. Later walkthroughs
-  only name the button and say when it's worth running. If you re-explain it
-  during a walkthrough, you're rebuilding the repetition we just cut.
-- **The US-specific disclaimer** is said at the top of **6.1** and the top of
-  **9.1**. Twice, total. There's also a breakdown in 1.1 of which modules are
-  US-shaped. It used to run 12 times.
-- **The walkthrough hand-off** ("watch the walkthrough below this video") is
-  only on the LAST teach lesson of a module: 2.3 · 3.3 · 4.5 · 6.4 · 7.5 ·
-  8.5 · 10.2 · 11.1 and 11.3. Modules 4 and 8 get none, because their screen
-  work is the second half of the same video.
+*Generated. Regenerating this file rewrites this section from the current course, so it cannot go stale again.*
+
+- **The AI** is taught in full in **1.2** and nowhere else. Later walkthroughs only name the button and say when it is worth running.
+- **The US-specific disclaimer** is said at the top of **6.1** and the top of **9.1**. Twice, total, plus the breakdown in 1.1 of which modules are US-shaped. It used to run 12 times.
+- **The walkthrough hand-off** ("watch the walkthrough below this video") belongs ONLY on the last teach lesson of a module that has a capture: **2.3** · **3.3** · **4.4** · **5.1** · **6.2** · **7.5** · **8.3** · **9.4** · **10.2**.
+- **No capture, so no hand-off:** Module 0 (last teach 1.2). Do not record a hand-off line there until a sheet exists.
 
 ---
 
@@ -127,26 +123,27 @@ changed once, in both places, before you record.
 | 8.4 | *External demo: hardware wallet setup + exchange hardening* | — DEMO, narrated off the sheet |
 | 8.5 | *Walkthrough: document your custody map in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 8 — Estate & Inheritance · 34 min
+### Module 8 — Estate & Inheritance · 36 min
 
 | # | Lesson | min |
 |---|---|---|
 | 9.1 | The executor, the four legal documents, and choosing an estate attorney | 9.4 |
-| 9.2 | Split access: dual control and redundancy | 9.0 |
+| 9.2 | Split access: dual control and redundancy | 10.4 |
 | 9.3 | The heir letter and the dead man's switch | 8.1 |
 | 9.4 | Insurance: term life, disability, umbrella, and when to stop | 7.8 |
+| 9.5 | *Walkthrough: Protect, the heir letter, and the switch* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 9 — Maintain, Test, and Read the Plan · 21 min
+### Module 9 — Maintain, Test, and Read the Plan · 20 min
 
 | # | Lesson | min |
 |---|---|---|
-| 10.1 | Keep the plan current: the monthly pass and the annual review | 9.6 |
+| 10.1 | Keep the plan current: the monthly pass and the annual review | 9.4 |
 | 10.2 | Test a decision and read the finished plan | 11.0 |
 | 10.3 | *Walkthrough: annual review, scenarios, and your report* | — WALKTHROUGH, narrated off the sheet |
 
 ---
 
-**27 teach lessons · 222 min (3.7 h) of finished audio at 155 wpm.**
+**27 teach lessons · 223 min (3.7 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not dictated. They are screen captures you narrate in
 your own words off the DO / SEE / ⚠ sheets, and they happen after the

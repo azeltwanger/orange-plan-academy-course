@@ -5,7 +5,7 @@
 > The sheet beside your keyboard is the sheet in `scripts/`; this is the
 > order to shoot them in and what each one needs staged first.
 
-**10 captures · ~138 min of raw capture.**
+**11 captures · ~169 min of raw capture.**
 
 Seed the demo account with the couple's canonical numbers before the
 first segment (Phase 0 of FILMING-CHECKLIST.md). Clean browser profile,
@@ -18,8 +18,6 @@ limits, exemptions). Call it "the current number the app shows" and move on.
 **Film each module's capture in ONE continuous session.** App state builds
 forward and restarting is where the retakes come from. Where a sheet has
 `✂ CUT POINT` markers, the edit can split it into several videos later.
-
-> ⚠ **No capture sheet yet:** Module 8 — Estate & Inheritance — NO capture of any kind. These cannot be filmed until a sheet exists.
 
 ---
 
@@ -199,7 +197,7 @@ forward and restarting is where the retakes come from. Where a sheet has
 
 ## ☐ 8.4 · DEMO — Hardware wallet setup + exchange hardening
 
-**  ·  sheet: `scripts/08-4_DEMO_hardware-wallet-exchange.md`
+*External screen record · 3 beats · ~9 min final** — NOT Orange Plan. Vendor tools only. Evergreen: record once, keep forever.*  ·  sheet: `scripts/08-4_DEMO_hardware-wallet-exchange.md`
 
 **Stage this first:**
 - [ ] Manufacturer-direct hardware wallet, still sealed
@@ -233,6 +231,42 @@ forward and restarting is where the retakes come from. Where a sheet has
 6. ☐ 5 · Record your decisions (off-app)
 7. ☐ 6 · The "Draft with AI" button you'll scroll past
 8. ☐ WRAP — spot check off the screen
+
+---
+
+## ☐ 9.5 · WALKTHROUGH — Protect, the heir letter, and the switch
+
+*Screen capture · ONE continuous session · 7 chapters · ~22 min raw*  ·  sheet: `scripts/09-5_WALKTHROUGH_estate.md`
+
+**Cut points in this capture:** **✂ CUT POINT 1** · **✂ CUT POINT 2** · **✂ CUT POINT 3** · **✂ CUT POINT 4** · **✂ CUT POINT 5** · **✂ CUT POINT 6**
+
+**Stage this first:**
+- [ ] Storage mode is **Cloud**. In Local Only the switch cannot arm at all — the panel replaces itself with *"Automatic check-in emails require cloud sync."* Chapter E has nothing to show without this
+- [ ] At least one **emergency contact with an email** exists, or the switch action reads **"Add contact to activate"** instead of **"Turn on"**
+- [ ] Beneficiaries **deliberately incomplete** at the start. The Needs attention queue is the spine of this capture and it needs somewhere to go
+- [ ] Projection warm, so **Projected legacy** renders in chapter F
+- [ ] **State of residence** set in the legacy drawer, or the state row reads *"select a state of residence below"*
+- [ ] The three toolkit PDFs printed and on the desk: **06 The Heir Letter**, **07 Family Custody Map**, **08 Executor Packet**
+- [ ] Clean browser, notifications off
+- [ ] **Two different "checklist" strings live on Protect.** The readiness bar segment says **Checklist**. The Needs attention row says **Security checklist**. Both are real; use the right one for the surface you are pointing at
+- [ ] **"Letter content" stays Missing until you customize it.** *"Template text does not count until you customize it."* You can save a template-shaped draft and the row still reads Missing. Say so on camera or it reads like a bug
+
+**Beats:**
+1. ☐ A1 · Orient on the readiness bar
+2. ☐ A2 · Read the Needs attention queue
+3. ☐ B1 · Assign beneficiaries
+4. ☐ B2 · The executor, off-app, with the actual person
+5. ☐ C1 · Read the design off the Family Custody Map
+6. ☐ D1 · Contacts first
+7. ☐ D2 · Write it, with the rule on screen
+8. ☐ D3 · AI — Draft with AI
+9. ☐ D4 · Save the artifact
+10. ☐ E1 · Turn it on
+11. ☐ E2 · Confirm the recipients know
+12. ☐ F1 · Read the projected estate
+13. ☐ F2 · Save the artifact
+14. ☐ G1 · Run the gate, then stop or continue
+15. ☐ WRAP — spot check off the screen
 
 ---
 

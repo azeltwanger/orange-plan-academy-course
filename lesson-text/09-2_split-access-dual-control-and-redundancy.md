@@ -22,9 +22,11 @@ You do not need a more advanced setup to do this lesson. You need an honest desi
 
 | Level | The design | Test 1 | Test 2 |
 |---|---|---|---|
-| **1** · hardened exchange or broker | The institution is your dual control. Heirs get the beneficiary designation; the executor gets the process: which institution, what they will ask for, who to call | Handled by the company | Handled by the account existing regardless of who remembers a password |
+| **1** · hardened exchange or broker | **Not household dual control.** You have delegated custody, and the institution's procedure is what stands between one person and the money. Heirs get the beneficiary designation; the executor gets the path: which institution, what they will ask for, who to call | Answered by the company's process, not by your design | Answered by the account existing regardless of who remembers a password |
 | **2** · one hardware wallet, one seed | The seed goes to your heir, backed up in more than one place. The executor holds the *process*, not the secret: where the device is, where the backups are, what to do, who to call | **Fails**. Your heir can spend alone | Passes |
-| **3-4** · passphrase or multisig | Two objects to two people (passphrase), or 2-of-3 where any two keys spend and no single key can (multisig). **Implementation is in Advanced Custody**: it is a custody decision, not an estate decision | Passes | Passes, once each piece is backed up on its own side |
+| **3-4** · passphrase or multisig | Two objects to two people (passphrase), or 2-of-3 where any two keys spend and no single key can (multisig). **Implementation is in Advanced Custody**: it is a custody decision, not an estate decision | Passes | **Passphrase: only if you design it.** Seed + passphrase is 2-of-2, so each half needs its own separate backup. **2-of-3 multisig: from the arithmetic**, since losing one key is survivable |
+
+⚠ **At Level 1, verify the institution's death-claim procedure.** That procedure *is* your plan. If it is slow, or requires something your family will not have, that is the gap, and no amount of household design fixes it.
 
 The Level 2 trade is acceptable for a lot of households, and far better than either failure above. Choose it knowing what it is, and **do not describe it to your family as a no-single-point-of-failure plan.**
 
@@ -36,7 +38,7 @@ This is the real design problem. Every backup you add to protect against loss is
 
 It resolves the same way every time: **each piece gets its own backup, and that backup stays on its own side.** Never in the same house, never in the same safe, never with the person holding the other piece. Done that way, each side can lose a copy and still recover while neither side gains anything it should not have. Done carelessly, a backup in a shared safe collapses the whole design into one person holding everything.
 
-This is also why the executor and the heirs should be different people wherever you can manage it. They are the two sides of whatever you build.
+This is where the executor question comes back. **If your design puts the executor on one side and the heirs on the other, they have to be different people**, or one person holds both sides on day one. If your design does not split them that way, and plenty do not, a spouse serving as both is fine. It is a consequence of your design, not a rule about executors.
 
 ## Test it while you are alive
 
@@ -50,9 +52,9 @@ One rule after the test: the pieces stay distributed. Writing everything down to
 
 *"I'll just split the seed words between two people."* Someone actually did this: 24 words, 12 each.
 
-If the two people trust each other, together they have the whole thing, so there is no protection. If either gets the other half through a leak or a guess, they have unilateral access, and 12 words is a far shorter guess than 24.
+Look at what that builds. If the two people trust each other, together they have the whole thing, so there is no protection at all. And you have created a **2-of-2**: either half going missing loses everything permanently. You took on the redundancy problem without buying any dual control.
 
-**Splitting a seed makes the wallet weaker. Splitting a seed from a passphrase makes it stronger.** They sound almost identical and do opposite things. To pass test 1, you change your custody setup. You do not chop up your seed.
+**Splitting a seed from a passphrase gives you two objects designed to be separate. Chopping one seed in half gives you two fragments of one object**, and a wallet that fails if either fragment does. They sound almost identical and do opposite things. To pass test 1, you change your custody setup. You do not chop up your seed.
 
 ## Your decision
 

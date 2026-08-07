@@ -37,8 +37,12 @@ body, total, gaps = [], 0, []
 for f in sheets:
     t = open(os.path.join(sd, f), encoding='utf-8').read()
     title = t.split('\n', 1)[0].lstrip('# ').strip()
-    meta = next((l.strip() for l in t.split('\n')[:6]
-                 if l.startswith('**Screen capture') or l.startswith('**Screen')), '')
+    # Sheets label themselves differently: walkthroughs say "Screen capture",
+    # the external hardware-wallet demo says "External screen record". Matching
+    # only the first left the demo rendering as a blank "** · sheet" line.
+    meta = next((l.strip() for l in t.split('\n')[:8]
+                 if l.startswith('**') and re.search(
+                     r'screen (capture|record)|capture|demo', l, re.I)), '')
     mins = re.findall(r'~(\d+)\s*min', meta)
     if mins:
         total += int(mins[-1])
