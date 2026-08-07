@@ -138,10 +138,21 @@ The canonical rule the AI itself is given, verbatim from
 
 ## 5 · Where it runs, and who can train on it
 
-- Model: **Claude Sonnet 4.6**, routed through OpenRouter and **pinned to
-  Anthropic's own backend** (`api/ai/_lib/modelResolver.js`). Cheap background
-  jobs — memory extraction, intent classification, transaction extraction —
-  run on Haiku 4.5.
+- Model: **Claude Sonnet 5**, routed through OpenRouter and **pinned to
+  Anthropic's own backend**. Verified live 2026-08-07 against the
+  `ai_model_config` table: one `global` row reading
+  `openrouter/anthropic/claude-sonnet-5`, set 2026-07-01, and no per-task or
+  per-user overrides. The Sonnet 4.6 / Haiku 4.5 strings in
+  `api/ai/_lib/modelResolver.js` are only the zero-config FALLBACKS; the DB row
+  wins, so do NOT read the model out of that file.
+- Because the global row is the only row, **every task type runs on Sonnet 5**,
+  including the three the code intended for Haiku (memory extraction, intent
+  classification, transaction extraction). Message log confirms it: Haiku
+  traffic stops 2026-06-30 and Sonnet 5 starts 2026-07-02. That's a cost
+  question for Austin, not a correctness one.
+- **On camera, say "Claude Sonnet" with no version number.** The version is a
+  config row that can change without a deploy, and a lesson shouldn't age out
+  the next time it does. Lesson 1.2 is already written that way.
 - **Every request carries `data_collection: 'deny'`** — a provider-level floor
   that excludes any inference provider that retains or trains on prompts
   (`api/ai/_lib/provider.js`). This is set on every model, not just the
