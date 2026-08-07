@@ -227,38 +227,11 @@ Then it runs another 999 futures with different market returns and counts how ma
 
 Running your real life inside every path makes the answer sensitive to your plan, not just to your portfolio.
 
-### Why Bitcoin needs a fat-tailed model
-
-Most models assume returns follow a normal bell curve. Point one at Bitcoin and it'll tell you a year down 70% basically never happens. Anyone in Bitcoin for more than a cycle knows that's wrong.
-
-Bitcoin has had years down more than 70%, and years where it tripled. Those extreme years show up in Bitcoin's history far more often than a bell curve would predict. "Fat tails" means the extremes on both ends stay likely, instead of vanishing the way they do in a normal distribution.
-
-The engine uses a fat-tailed distribution for Bitcoin, calibrated to its actual return history (shape sourced from Swan Bitcoin research). If you built a plan on a bell-curve model of Bitcoin, the plan would look sturdier than it is.
-
-### The volatility table
-
-Every asset in the simulation has its own volatility and range:
-
-| Asset | Volatility (annual) | Single-year range |
-|---|---|---|
-| **Bitcoin** | ~50%, easing toward 20% as it matures | -75% to +250% |
-| Stocks | 16% | -40% to +50% |
-| Real estate | 12% | (n/a) |
-| Bonds | 5% | (n/a) |
-| Cash | 1% | (n/a) |
-
-Bitcoin's -75% floor is set just past its worst actual year (-73% in 2018). The +250% cap prevents the fat tail from producing years that never happened.
-
-A 50% volatility means Bitcoin moves about three times as far as stocks in a typical year. That's why a Bitcoin holder needs a bigger cash reserve than a stock holder does (Module 2).
-
-### Correlations
-
-The assets aren't run independently. Markets move together in the real world.
-
-- **Bitcoin and stocks** are tied at a correlation of about **0.35**. They don't move in lockstep, but they tend to fall in the same years more often than not.
-- **Inflation** is negatively correlated with stocks: in the paths where costs rise, balances tend to fall.
-
-Correlations come from J.P. Morgan's long-term capital market assumptions and research from ARK Invest and Fidelity Digital Assets.
+> **How the simulation is built moved to the library: Advanced A1.1 "How
+> Orange Plan models Bitcoin: fat tails, correlations, floors and caps" (3
+> min).** Fat tails, the floor and cap on Bitcoin's single-year return, and
+> the cross-asset correlations. This lesson teaches how to *read* the number.
+> That one is for defending it.
 
 ### How to read your number
 

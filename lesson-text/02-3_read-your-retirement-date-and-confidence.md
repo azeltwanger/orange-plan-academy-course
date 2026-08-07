@@ -24,6 +24,10 @@ Those are the app's labels. As a planning judgment, aim for somewhere in the 80 
 
 **Does it model a crash on top of a crash?** Yes. Some of those runs are gentle, some stack a terrible year onto another terrible year, and a few are genuinely brutal. You're looking at a spread of futures, including the ugly ones.
 
+## How the simulation is built
+
+⚠ **Advanced Modeling → "How Orange Plan models Bitcoin: fat tails, correlations, floors and caps"** (3 min) covers fat tails, the floor and cap on Bitcoin's single-year return, and the cross-asset correlations. You do not need it to use your number. It is there so you can defend it.
+
 ## Your decision
 
 **What confidence level you're aiming for, and which lever you'd pull if you come in under it.**

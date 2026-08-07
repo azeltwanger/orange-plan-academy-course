@@ -85,15 +85,13 @@ Pull your full transaction history from every exchange and wallet, then import i
 
 
 ## 6.2 Taxable, tax-deferred, and Roth: bracket windows and state taxes
-*`TEACH` · 1,436 words · ~10 min*
+*`TEACH` · ~1,175 words · ~8 min*
 
-> ⚠ **One spoken law-set figure in this lesson:** the ~$128,000 of 0% capital-gains
-> room for a married couple (standard deduction + 0% bracket stacked). Everything
-> else here is mechanism ("the 22% bracket means the next dollar") or the couple's
-> own illustrative numbers, which are fine to speak. Either verify that $128,000
-> against the current tables on the day you record, or drop the figure and point at
-> the screen. The script already carries the hedge: "under current law. Verify that
-> number in the year you use it."
+> ✅ **Law-set figure removed (2026-08-08).** This lesson used to speak the
+> ~$128,000 of 0% capital-gains room for a married couple. It is now read off
+> the app's Tax page instead, in both the script and the master. Everything
+> that remains is mechanism ("the 22% bracket means the next dollar") or the
+> couple's own illustrative numbers, which are fine to speak.
 
 > ⚠ **The buckets/wrappers inconsistency lives inside this lesson's own
 > outcomes**: the checklist says "three tax **wrappers**" while the body teaches

@@ -64,13 +64,13 @@ changed once, in both places, before you record.
 | 1.1 | How to use this course | 10.6 |
 | 1.2 | How the AI works: what it reads, what it never sees | 5.8 |
 
-### Module 1 — Foundation: baseline, assumptions, and the confidence number · 20 min
+### Module 1 — Foundation: baseline, assumptions, and the confidence number · 18 min
 
 | # | Lesson | min |
 |---|---|---|
 | 2.1 | What to gather before you build the plan | 6.0 |
 | 2.2 | Set your growth and inflation assumptions | 5.5 |
-| 2.3 | Read your retirement date and confidence number | 8.6 |
+| 2.3 | Read your retirement date and confidence number | 6.7 |
 | 2.4 | *Walkthrough: set up your plan in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 | 2.5 | *Walkthrough: build your baseline in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
@@ -136,17 +136,17 @@ changed once, in both places, before you record.
 | 9.3 | The heir letter and the dead man's switch | 8.1 |
 | 9.4 | Insurance: term life, disability, umbrella, and when to stop | 7.8 |
 
-### Module 9 — Maintain, Test, and Read the Plan · 23 min
+### Module 9 — Maintain, Test, and Read the Plan · 21 min
 
 | # | Lesson | min |
 |---|---|---|
-| 10.1 | Keep the plan current: the monthly pass and the annual review | 11.1 |
-| 10.2 | Test a decision and read the finished plan | 12.4 |
+| 10.1 | Keep the plan current: the monthly pass and the annual review | 9.6 |
+| 10.2 | Test a decision and read the finished plan | 11.0 |
 | 10.3 | *Walkthrough: annual review, scenarios, and your report* | — WALKTHROUGH, narrated off the sheet |
 
 ---
 
-**27 teach lessons · 227 min (3.8 h) of finished audio at 155 wpm.**
+**27 teach lessons · 222 min (3.7 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not dictated. They are screen captures you narrate in
 your own words off the DO / SEE / ⚠ sheets, and they happen after the

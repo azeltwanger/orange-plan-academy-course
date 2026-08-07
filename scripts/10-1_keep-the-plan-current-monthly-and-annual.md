@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 10.1
 10.1 Keep the plan current: the monthly pass and the annual review
-~11 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to set the two rhythms that keep your plan current without letting maintenance take over your life.
@@ -15,7 +15,7 @@ What maintenance is actually fighting is drift, which is the distance between wh
 
 The first form is data drift, which is facts going out of date. Your spending, your income, your balances, your account list. Nothing's wrong with the strategy. Nobody entered the update.
 
-Let me show you what that costs. Say the couple's spending creeps from $80,000 to $88,000 over a year or two, and nobody enters it. Every projection is now running $8,000 a year light, and run through the withdrawal math from the income module, that's about $100,000 more portfolio they actually need than the plan thinks. The plan is off by a hundred thousand dollars, and nobody made a single bad decision.
+Look at what that costs. The couple's spending creeps from $80,000 to $88,000 and nobody enters it. Run that $8,000 a year through the withdrawal math from the income module and it's about $100,000 more portfolio they actually need than the plan thinks. The plan is off by a hundred thousand dollars, and nobody made a single bad decision.
 
 The second form is plan drift, which is decisions going stale. The facts are fine, but the strategy sitting on top of them no longer fits the life underneath. The allocation you picked at 45 might not be the one you want at 60. A debt that had a job 3 years ago might have finished it.
 
@@ -27,31 +27,23 @@ One rule ties both rhythms together: you update the plan first. The facts go in 
 
 == THE MONTHLY PASS IS FOUR INPUTS ==
 
-The monthly job is narrow on purpose. It's four inputs, not forty, because these four are the only categories that actually move a projection. Everything else on the screen is a result of them.
+The monthly job is narrow on purpose. Four inputs, not forty, because these four are the only categories that actually move a projection. Everything else on the screen is a result of them.
 
-Input one is money moves. Buys, sells, transfers. Anything that actually happened with your money this month. For our couple, that's usually just the auto-buy that went through, about $1,000.
+Money moves: buys, sells, transfers, anything that actually happened this month. Income and expense changes. Life events, which change several numbers at once and move your goals with them. And your assumptions and targets, which most months you glance at and move past.
 
-Input two is income and expense changes. A raise, a new income stream, or a spending level that's materially different. The W-2 going from $150,000 to $160,000 counts. A restaurant month that ran a few hundred dollars hot is noise. The test I use: is this a new baseline, or a one-off? One month over the plan is nothing. Six months over in the same direction is a new spending level, and the monthly cadence is exactly what lets you tell those two apart.
+The only one that needs judgment is the second, and the test is whether this is a new baseline or a one-off. A raise is a new baseline. A restaurant month that ran a few hundred dollars hot is noise. One month over the plan is nothing, six months over in the same direction is a new spending level, and the monthly cadence is exactly what lets you tell those apart.
 
-Input three is life events. A move, a marriage, a kid, a job change. A life event changes several numbers at once, and it moves your goals with them.
-
-And input four is assumptions and targets. Your growth assumption, inflation, the reserve target, your retirement age. Most months, you glance at them and move on.
-
-Anything that needs a real decision gets flagged, and flagging is not deciding. You write down the question, and it either becomes an action this month or it waits for the annual review. You don't solve it standing up.
-
-Most months the honest action count is zero, you close the plan, and that's the normal outcome. The pass exists to prove it.
+Anything else that needs a real decision gets flagged, and flagging is not deciding. You write down the question, and it either becomes an action this month or it waits for the annual review. You don't solve it standing up. Most months the honest action count is zero, you close the plan, and that's the normal outcome. The pass exists to prove it.
 
 == WHAT NEVER TOUCHES THE PLAN ==
 
-What earns an update is a real transaction, a real income or expense change, a life event, or a target that genuinely changed.
+What never touches the plan is the price on the day, a loud news week, a market swing, a gut feeling, or a number that looks nicer.
 
-And what never touches the plan is the price on the day, a loud news week, a market swing, a gut feeling, or a number that looks nicer.
+That last one is the sneaky one. Move your growth assumption up two points because a slightly better number makes the plan look better, and your freedom date jumps forward a year with nothing about your life having changed. The plan can't tell afterwards whether that came from real information or from your mood.
 
-That last one is the sneaky one. Tweaking your assumptions because a slightly different number makes the plan look better. Move your growth assumption up two points, and your freedom date jumps forward a year, with nothing about your life having changed. The plan can't tell after the fact whether that jump came from real information or from your mood.
+The price is the one that pulls hardest, so Orange Plan is built to leave it out of the trigger entirely. Your confidence ring only asks for a recheck when an actual plan input changes, which means a red candle can't tell you your plan needs attention.
 
-The price on the day is the one worth saying out loud, because it's the one that pulls hardest. Orange Plan is built so your confidence ring only asks for a recheck when an actual plan input changes, and Bitcoin's price is deliberately left out of that trigger, so a red candle can't tell you your plan needs attention.
-
-I'll own my version of this: I used to check the Bitcoin price twenty times a day. Twenty. And not one of those checks ever changed a number that belonged in my plan. The monthly pass is what finally separated watching the price from managing the plan.
+I used to check the Bitcoin price twenty times a day. Twenty. Not one of those checks ever changed a number that belonged in my plan.
 
 == THE ANNUAL REVIEW IS SIX AREAS, ONE QUESTION ==
 
@@ -61,19 +53,11 @@ The six areas are spending and cash reserve, allocation, debt, tax, custody, and
 
 The walkthrough runs all six on screen. What I want to give you here is the question in each one, and the few answers that actually change what you do.
 
-Spending and reserve. Read the guardrail verdict, which is hold, raise, or cut, and refill the reserve toward its target. A bad market doesn't change the target.
+Spending and reserve: read the guardrail verdict, hold, raise or cut, and refill the reserve toward its target, because a bad market doesn't change the target. Debt: are the ratios still in range, and is every debt still doing its assigned job? Estate: are your beneficiaries still current, remembering the form overrides the will, and is the letter still accurate?
 
-Allocation. Your Bitcoin share rises on its own when Bitcoin runs faster than everything else, so the percentage you chose is not the percentage you're carrying.
+Two of the six carry something you'd otherwise skip. In tax, the deadline is real, because the calendar closes December 31st, and the honest annual task is confirming your cost basis records still prove what you paid. No records means a basis of zero, which means tax on the entire sale price. And in custody, prove one recovery. Not "I'm pretty sure the backup works." An actual restore test on a spare device.
 
-Debt. Are the ratios still in range, and is every debt still doing its assigned job? If you're borrowing against Bitcoin, add one more: at today's price, would the drawdown in your written loan policy force a sale?
-
-Tax. This is the area with the hard deadline, because the calendar closes on December 31st. Check your harvest room, check your conversion room, and confirm your cost basis records still prove what you paid. The basis check is the real annual task, because no records means a basis of zero, which means paying tax on the entire sale price.
-
-Custody. Prove one recovery. Not "I'm pretty sure the backup works." An actual restore test on a spare device. Then rescan for single points of failure, because new accounts, new devices, and backups that moved all create fresh only-ones.
-
-Estate. Are your beneficiaries still current, remembering that the form overrides the will? Is the heir letter still accurate? Does the executor still fit, and are they still willing? And is the dead man's switch armed, with the right recipients?
-
-Allocation and custody share one move, and it's the one people skip. Both get re-asked at today's balance, not the balance you had when you decided. Say a Bitcoin position grew from $500,000 to $800,000 this year. The same 75% drawdown was a $375,000 paper loss last year. This year it's $600,000. The percentage didn't move, and the number you'd have to sit through nearly doubled. Custody is the same arithmetic: your setup is now guarding a lot more money than it was designed for, and you never made that decision. The market made it for you.
+Then allocation and custody share one move, and it's the one people skip. Both get re-asked at today's balance, not the balance you had when you decided. Say a Bitcoin position grew from $500,000 to $800,000 this year. The same 75% drawdown was a $375,000 paper loss last year. This year it's $600,000. The percentage didn't move, and the number you'd have to sit through nearly doubled. Custody is the same arithmetic: your setup is now guarding a lot more money than it was designed for, and you never made that decision. The market made it for you.
 
 Run this review in November. The tax area is the only one with a hard deadline, and November leaves you time to actually act on what you find. Bring three things: your plan updated through your last monthly pass, your notes from last year's review, and the checklist, so the review has a defined finish line.
 
