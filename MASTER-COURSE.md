@@ -2177,15 +2177,15 @@ The next module covers debt strategy: which debts to attack, which to hold, and 
 
 *See debt as a tool, set your tolerance, read the two ratios with their guideline bands, watch LTV drift on Bitcoin-backed loans, know the four offense plays, and assign every debt a job.*
 
-## 5.1 Set your debt ceiling: debt-to-income and debt-to-assets
-*`TEACH + APP` · 1,077 words · ~5 min*
+## 5.1 Give every debt a job and set your ceiling
+*`TEACH` · 1,483 words · ~10 min*
 
 **By the end of this lesson, you can:**
 
-- Know your own debt tolerance before running any math
-- Calculate your debt-to-income and debt-to-assets
-- Have every debt in the app with complete terms
-- Read your verdict line and your stress number
+- Start from your own debt tolerance, before any ratio
+- Read debt-to-income and debt-to-assets as two different questions
+- Set a personal debt ceiling against the ratio that actually moves
+- Give every debt one of six jobs, with a reason attached
 
 ---
 Most people ask how fast they can get to zero debt. A better question: what level of debt lets this plan grow without making it fragile?
@@ -2259,7 +2259,6 @@ Two different reads. Their monthly is fine. Their balance sheet is at the ceilin
 
 So those are your two ratios on paper. Now let's get them out of your head and into the app, because the app runs the stress test on top of them, and that's the number you actually manage against.
 
-> 🎥 **SCREEN SHARE STARTS HERE — capture segment 5.1-B.** Everything above is teleprompter A-roll (segment 5.1-A); everything below is screen capture. This heading is the edit cut point.
 
 ### Now put it in the app
 
@@ -2334,35 +2333,6 @@ Common clauses you'll see mixed in:
 - *"debt-to-assets in the caution band"*
 - *"both ratios above your bands"*
 
-### Your decision
-
-**Your personal debt ceiling: the level you won't go past, whatever the ratios say is technically allowed.**
-
-How to think about it:
-
-1. **Start with tolerance, not the ratios.** If carrying debt keeps you up at night, that's a real constraint and it outranks any formula.
-2. **Then read the two ratios as different questions.** One asks whether you survive this month. The other asks how much room you have to make a move at all.
-3. **Notice which one moves.** Your monthly ratio barely budges in a drawdown. The balance-sheet one moves a lot, because the asset side is Bitcoin.
-4. **Set your ceiling against the ratio that moves**, and set it while the price is high, because that's when it looks safest and you're most tempted.
-
-### Homework
-
-1. Read both ratios off **Strategy → Debt**. The app keeps them current, so there's nothing to copy down.
-2. Decide your ceiling: the number you won't cross. There's no field for it, so say it out loud and mean it.
-3. Say whether you're inside it today. If not, that's your first debt job.
-
-You've got a verdict word and a stress number. Both of them move when Bitcoin moves.
-
-## 5.5 Give every debt a payoff decision
-*`TEACH + APP` · 1,085 words · ~5 min*
-
-**By the end of this lesson, you can:**
-
-- Break the 'pay off debt or invest?' question into three separate decisions
-- Sort each debt into eliminate, evaluate, strategic, or monitor by its rate
-- Give every debt on your balance sheet a job and a reason
-
----
 The module finishes when every debt on your balance sheet has a **job** attached to it, with a reason why.
 
 ### Three questions, not one
@@ -2420,97 +2390,38 @@ The app renders these as **Low-cost (under 7%)**, **Mid-cost (7 to 10%)**, and *
 
 They have no Bitcoin-backed loan, so no debt in the Monitor tier.
 
+### Your decision
+
+**Two things: your ceiling, and a job for every debt.**
+
+The ceiling is the level you won't go past, whatever the ratios say is
+technically allowed. Start from tolerance, set it against DTA because that is
+the ratio that moves with Bitcoin, and set it while the price is high, because
+that is when debt looks safest and you are most tempted.
+
+Then every debt gets a job with a reason. Not a feeling.
+
 ### Homework
 
-Line up every debt with its rate. Set each one's job in the app, and say the reason out loud as you do it:
+1. Read both ratios off **Strategy → Debt**. The app keeps them current.
+2. Decide your ceiling. There is no field for it, so say it out loud, and say whether you are inside it today. If not, that is your first debt job.
+3. Set each debt's tier and job in the app, with the reason.
+4. The app is done when no row reads **no payoff path**, unless you chose that on purpose.
 
-- 24% credit card → Eliminate. Guaranteed 24% loss.
-- 8% car loan → Evaluate. Depends on your DTI and reserve.
-- 5.5% student loan → Strategic. Below expected returns.
-- 3% mortgage → Strategic. Keep on purpose.
-- 25% LTV Bitcoin-backed loan → Monitor. Watch the cushion.
+## 5.2 Walkthrough: give every debt a job in Orange Plan
+*`DEMO` · 6 steps · ~7 min*
 
-Every debt should end with a decision, not a feeling. The app is done when no row reads **no payoff path** unless you chose that on purpose.
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **5.2**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+>
+> Replaces the retired hybrid captures 5.1-B and 5.5-B. The 5.2-B and 5.3-B
+> beats moved to the Advanced Library with their lessons.
 
+**By the end of this lesson, you can:**
 
-So let's put a job on every row.
-
-> 🎥 **SCREEN SHARE STARTS HERE — capture segment 5.5-B.** Everything above is teleprompter A-roll (segment 5.4-A); everything below is screen capture. This heading is the edit cut point.
-
-### Now put it in the app
-
-#### Step 5: Give every debt a job
-
-**Strategy → Debt → the ledger**, grouped into **High-cost** and **Low-cost**.
-
-Each row has an inline selector in its subline. Three options:
-
-| Option | Then enter |
-|---|---|
-| Minimum payments | (n/a) |
-| Extra payments | A **$/mo** field appears with *"/mo extra"* alongside it. |
-| Lump sum payoff | Amount (**Full balance** placeholder) plus a date. |
-
-Right-hand status on each row:
-
-- A **payoff month** target date.
-- **minimums ok** for low-cost and open-ended.
-- **no payoff path** if the row is deliberately open-ended, or unpayable at current terms.
-
-⚠ A mortgage or margin row offers a different option set: **Interest only**, or **Let interest accrue** / **Pay interest monthly**. Those replace the standard three.
-
-##### The job assignment rule
-
-- The group (High-cost or Low-cost) is the app's read. Your job can differ, but you have to say why.
-- Every row needs a job. The module is done when every row has one.
-
-Default jobs by band:
-
-| App group | Rate | Default job |
-|---|---|---|
-| High-cost (over 10%) | Above 10% | Lump sum payoff with a date, or Extra payments if the balance is too big to lump. |
-| Low-cost (under 10%) | 3.25% mortgage, low-rate auto | Minimum payments. Held on purpose. |
-| BTC-backed | Usually 7 to 10% | Minimum payments, with LTV monitored (Step 6). |
-
-⚠ A 20%+ credit card on anything other than **Lump sum payoff with a date** is the one hard call in this module. Do it, or explain why you're not.
-
-⚠ With no high-cost debts, only **Low-cost** renders, which is the healthy read. The app hides empty groups.
-
-
-#### Route the extra dollars
-
-**Cash Flow → Routing · waterfall order → step 2 Extra debt.** Managed on the Debt page, shown on Cash Flow. One number, two screens.
-#### Step 8: Run the AI review on debt strategy
-
-**Strategy → Debt → Review Debt Strategy** (page header, beside Add debt). Mobile label: **Review debt**.
-
-The review reads your debt context, the verdict line you just read, and your tax context. It can also run a Bitcoin-loan scenario if you have one.
-
-It asks: *"Do you want the fastest next move, or a full review of payoff order, payment burden, and leverage?"*
-
-Take the full review.
-
-Read at least one thing it surfaced out loud and say whether you agree. Your tolerance can override the math. Show that.
-
-**When to run it:** after every debt has a job. It's a second read on payoff order and leverage, not a substitute for the decisions you just made.
-
-⚠ The review explains and reviews. It isn't advice, and it will never name a specific lender or rate.
-
-With a Bitcoin-backed loan in your plan, the panel adds a **BTC-loan safety check** to the menu.
-
-#### Where this module's work lives
-
-| # | Item | Where it lives |
-|---|---|---|
-| 1 | Debt inventory with terms | Strategy → Debt → Add debt |
-| 2 | A job per debt | Ledger row → payment-strategy selector |
-| 3 | Extra-payment amounts | Same row → $/mo extra |
-| 4 | Lump-sum payoff date | Same row → amount and date |
-| 5 | Extra dollars visible in the waterfall | Cash Flow → Routing step 2 (Extra debt) |
-| 6 | Payoff-versus-invest comparison | Scenarios → Custom scenario |
-| 7 | AI debt review | Strategy → Debt → Review Debt Strategy |
-
-Close on the Dashboard and read your confidence number against the one from the baseline module. That difference is what four decisions about debt were worth.
+- Enter every debt with a real, current rate
+- Read both ratios and the stress clause off the vitals strip
+- Set a job on every ledger row, with a reason
+- Route extra dollars and run the debt AI review
 
 # Unit 6 · Module 5 — Tax Strategy
 

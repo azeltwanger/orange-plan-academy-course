@@ -2,7 +2,7 @@
 
 Capture **in this order** — app state builds forward from one segment to the next, same as a student's plan would. The master file is the full script; this sheet is what sits next to the keyboard while you record.
 
-**18 segments · ~165 minutes of raw capture.**
+**15 segments · ~150 minutes of raw capture.**
 Before the first segment: seed the demo account with the couple's canonical numbers (Phase 0 of FILMING-CHECKLIST.md). Clean browser profile, notifications off, 5 seconds of stillness before the first click and after the last. **Evergreen rule: never zoom on or read out a law-set number (brackets, limits, exemptions) — call it "the current number the app shows" and move on.**
 
 ## ☐ Segment 2.4 — Walkthrough: set up your plan (onboarding)
@@ -87,40 +87,19 @@ Before the first segment: seed the demo account with the couple's canonical numb
 
 ---
 
-## ☐ Segment 5.1-B — Set your debt ceiling: debt-to-income and debt-to-assets
-*app section only (A-roll filmed separately) · ~4 min capture (plus retakes)*
+## ☐ Segment 5.2 — Walkthrough: give every debt a job in Orange Plan
+*entire lesson · ~7 min capture (plus retakes)*
+
+Replaces the retired hybrids 5.1-B and 5.5-B. Segments 5.2-B and 5.3-B moved to
+the Advanced Library with their lessons.
 
 **Beats (tick as you capture):**
-1. ☐ **Step 1: Enter every debt** — `Strategy → Debt → Add debt opens the Add debt dialog`
-2. ☐ **Step 2: Read the vitals strip** — `Strategy → Debt shows a four-cell Debt vitals strip:`
-3. ☐ **Step 3: Read the verdict line** — `Strategy → Debt → Financial position. This is the sentence rendered above the vitals strip`
-
----
-
-## ☐ Segment 5.2-B — Size the LTV cushion on a Bitcoin-backed loan
-*app section only (A-roll filmed separately) · ~3 min capture (plus retakes)*
-
-**Beats (tick as you capture):**
-1. ☐ **Step 4: Debt capacity track** — `Strategy → Debt → Debt capacity`
-2. ☐ **Step 6: Name the LTV cushion (Bitcoin-backed loans only)**
-
----
-
-## ☐ Segment 5.3-B — The four ways debt can build wealth
-*app section only (A-roll filmed separately) · ~2 min capture (plus retakes)*
-
-**Beats (tick as you capture):**
-1. ☐ **Model one play vs your baseline** — `Scenarios → Custom scenario` — read the confidence number both ways; say the target debt range out loud (no field for it).
-
----
-
-## ☐ Segment 5.5-B — Give every debt a payoff decision
-*app section only (A-roll filmed separately) · ~4 min capture (plus retakes)*
-
-**Beats (tick as you capture):**
-1. ☐ **Step 5: Give every debt a job** — `Strategy → Debt → the ledger, grouped into High-cost and Low-cost`
-2. ☐ **Route the extra dollars** — `Cash Flow → Routing · waterfall order → step 2 Extra debt. Managed on the Debt page, shown on Cash Flow. One n`
-3. ☐ **Step 8: Run the AI review on debt strategy** — `Strategy → Debt → Review Debt Strategy (page header, beside Add debt). Mobile label: Review debt`
+1. ☐ **Enter every debt** — `Strategy → Debt → Add debt`. A blank rate means no tier, which means no job.
+2. ☐ **Read the vitals strip** — `Strategy → Debt` four-cell strip: DTI and DTA, current.
+3. ☐ **Read the verdict line + stress clause** — `Strategy → Debt → Financial position`
+4. ☐ **Give every debt a job** — `Strategy → Debt → the ledger, grouped High-cost / Low-cost`
+5. ☐ **Route the extra dollars** — `Cash Flow → Routing · step 2 Extra debt`
+6. ☐ **Review Debt Strategy (AI)** — `Strategy → Debt → Review Debt Strategy`
 
 ---
 

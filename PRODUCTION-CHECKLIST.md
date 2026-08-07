@@ -68,14 +68,11 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 4.5 Walkthrough: route it — 🖥 capture `04.5` (11 steps; prereqs: salary source entered + surplus in step 3)
 ☐ Module 3: edit → upload → paste lesson text (04-1 … 04-5)
 
-## ☐ MODULE 4 — Debt (hybrid lessons: A-roll + screen half, edited together)
+## ☐ MODULE 4 — Debt Policy
 
-☐ 5.1 Set your debt ceiling: debt-to-income and debt-to-assets — 🎙 film `05-1-A` → 🖥 capture `05.1-B`
-☐ 5.2 Size the LTV cushion on a Bitcoin-backed loan — 🎙 film `05-2-A` → 🖥 capture `05.2-B`
-☐ 5.3 The four ways debt can build wealth — 🎙 film `05-3-A` → 🖥 capture `05.3-B`
-☐ 5.4 How Bitcoin-backed loans work: LTV, margin calls, liquidation — 🎙 film `05-4` (~11 min; LTV animation is the key graphic)
-☐ 5.5 Give every debt a payoff decision — 🎙 film `05-5-A` → 🖥 capture `05.5-B` (the module's read-back closes this screen half; there is no separate check-your-work video)
-☐ Module 4: edit A+B pairs → upload → paste lesson text (05-1 … 05-5)
+☐ 5.1 Give every debt a job and set your ceiling — 🎙 film `05-1` (~10 min; merged 5.1+5.5; carries the advanced signpost)
+☐ 5.2 Walkthrough: give every debt a job — 🖥 capture `05.2` (6 steps; replaces the 4 retired hybrid captures)
+☐ Module 4: edit → upload → paste lesson text (05-1 … 05-2)
 
 ## ☐ MODULE 5 — Tax
 
