@@ -83,12 +83,10 @@ Your decision here is the largest Bitcoin position you could actually hold throu
 
 The way I think about this is pretty simple. Run the stress test on today's balance, not last year's, because the percentage doesn't move but the dollar amount does, and the dollar amount is what you'd actually feel. Answer it honestly, not aspirationally. The right answer is the one that's true at 3am with the price down 75%, not the one that sounds brave on camera. And if the honest answer is that you'd sell, then the position is too big. Most people land there the first time they run it honestly, and it's a lot better to find that out now than in the middle of the drawdown.
 
-== HOMEWORK ==
+== PUT IT IN ORANGE PLAN ==
 
-Your homework for this lesson is to:
+Strategy → Allocation. Set the Bitcoin percentage and the drift band.
 
-1. Place yourself honestly across the three drivers. Education: what have you actually studied? Conviction: could you defend the position against a well-informed skeptic? And comfort with volatility: what would you actually do in a 70% drawdown?
-2. Run the stress test at today's balance and answer out loud.
-3. Set that position size as your target allocation in the app. The size you could hold through the drawdown is your target. Not the size you're holding today.
-4. Check your custody level against your allocation level. If custody is a tier behind, closing that gap is the first job.
-5. If the target comes out smaller than what you're holding now, decide how you close that gap. New dollars only, or a sale with a tax cost you've actually checked.
+== YOU ARE DONE WHEN ==
+
+You've run the drawdown test at today's balance, not the balance you had when you chose the number, and the answer was one you could sit through.

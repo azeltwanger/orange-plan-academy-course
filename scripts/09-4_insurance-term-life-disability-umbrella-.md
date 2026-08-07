@@ -57,12 +57,16 @@ Pull it together with a coverage audit: every risk, your current coverage, what 
 
 And then, once a year, run what I call the graduation review. Ask: has the stack grown enough to shrink a coverage? When the answer is yes, cancel deliberately. On the review, in writing. Never by accidentally lapsing a payment. The graduation review is what turns coverage you've outgrown back into surplus you can put to work.
 
-== HOMEWORK ==
+== YOUR DECISION ==
 
-Your homework for this lesson is to:
+Your coverage gap, as a number.
 
-1. Run the subtraction on your own household: annual hole, times years to cover, minus the stack. That's your life coverage number.
-2. Run it again for a disability scenario, your income stopping while your spending doesn't. Those two numbers size your coverage.
-3. Take both numbers to a licensed insurance professional. None of this is a product recommendation, and the actual coverage runs through them.
+== PUT IT IN ORANGE PLAN ==
 
-And the last thing on estate. Most households do not need a trust, but I think everybody should run the gate once and get an actual answer. That lesson is in the advanced library, and running the gate is what finishes this part of your plan, whichever way it comes out.
+Nothing in the app. Protect shows Insurance coverage as Coming soon, so the Coverage Audit worksheet stays your record.
+
+== YOU ARE DONE WHEN ==
+
+You have a life number and a disability number from the same subtraction, and both have gone to a licensed professional if they needed to. None of this is a product recommendation, and the actual coverage runs through them.
+
+Then watch the module walkthrough below this video, where we complete the Protect queue, write the letter, and arm the switch.

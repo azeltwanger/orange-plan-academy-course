@@ -77,12 +77,16 @@ If a call says your account is hacked, hang up and contact the provider yourself
 
 The common thread in every scam is urgency. Every scam needs you to act before you think. So when something feels urgent, close the app and slow down. That one habit catches scams you've never even seen before, because it doesn't need to recognize the scam. It just needs to notice the pressure.
 
-== HOMEWORK ==
+== YOUR DECISION ==
 
-Your homework for this lesson is to:
+Your one most expensive only-one, and the fix with a date on it.
 
-1. Make your own only-one list, all 9 questions.
-2. Pick the one at the top, ranked by cost of loss, and fix it this week. Not all nine. Just that one.
-3. Then watch the demo and the walkthrough below this video, where I set up a hardware wallet on screen and then we document your custody map in Orange Plan.
+== PUT IT IN ORANGE PLAN ==
 
-And one pointer before you go. If one lost seed, or one person you can't reach, could end your access, the advanced library compares the three ways to fix that: a passphrase, collaborative multisig, and running multisig yourself. Your custody plan is complete without them. That lesson is there for when the amount or the family situation says you need more.
+Protect → Security checklist for the hardening items, and Needs attention for the next one.
+
+== YOU ARE DONE WHEN ==
+
+Your only-one list exists, the top item by cost of loss has a specific fix this week, and your account hardening is done: secured email, unique passwords, non-SMS two-factor, withdrawal delays on. One fix, not nine.
+
+Then watch the demo and the walkthrough below this video, where I set up a hardware wallet on screen and then we document your custody map in Orange Plan.

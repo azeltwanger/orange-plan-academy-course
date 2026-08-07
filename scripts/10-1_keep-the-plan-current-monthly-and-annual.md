@@ -71,10 +71,10 @@ A long to-do list is the single biggest reason these reviews stop happening. You
 
 Your decision out of this lesson is your two review dates. Pick a specific recurring day for the monthly one, because "first Saturday" survives and "beginning of the month" doesn't, and put the annual one in November. Then protect the boundary between them: if something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
 
-== HOMEWORK ==
+== PUT IT IN ORANGE PLAN ==
 
-Your homework for this lesson:
+Your calendar, not the app. There is no in-app scheduler: a specific recurring day for the monthly pass, and November for the annual review.
 
-1. Pick a specific day for your monthly pass and put November on the calendar for your annual review. Both as recurring events, right now.
-2. Decide what you will not touch during a monthly pass, and hold that line when the price is moving.
-3. Hold the three-action cap. More than three and none of them get finished.
+== YOU ARE DONE WHEN ==
+
+Both dates are recurring events you can see, and you have written down what you will not touch during a monthly pass. That second one is what holds the line when the price is moving.

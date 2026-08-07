@@ -26,13 +26,16 @@ Name it, park it. Decision window is your 50s–60s; annual review item at 45.
 
 Once a year: has the stack grown enough to shrink a coverage? Cancel deliberately, in writing, never by lapsing a payment. (The app doesn't track policies yet, but policy beneficiary forms override everything; keep names matched to the estate plan.)
 
-## Homework
+## Your decision
 
-1. Run the subtraction for death and for disability. Those two numbers size your coverage.
-2. Take them to a licensed insurance professional. None of this is a product recommendation.
+Your coverage gap, as a number.
 
-## Look it up
+## Put it in Orange Plan
 
-- **What long-term care actually costs, by state**: [ACL: Costs of Care](https://acl.gov/ltc/costs-and-who-pays/costs-of-care), the federal Administration for Community Living.
-- **Who pays for long-term care**: [ACL: Who Pays](https://acl.gov/ltc/costs-and-who-pays/who-pays-long-term-care). Worth reading before you price any policy, because most people are wrong about what Medicare covers.
-- **Compare specific facilities near you**: [Medicare Care Compare](https://www.medicare.gov/care-compare/).
+Nothing in the app. Protect shows Insurance coverage as Coming soon, so the Coverage Audit worksheet stays your record.
+
+## You are done when
+
+You have a life number and a disability number from the same subtraction, and both have gone to a licensed professional if they needed to. None of this is a product recommendation, and the actual coverage runs through them.
+
+Then watch the module walkthrough below this video, where we complete the Protect queue, write the letter, and arm the switch.

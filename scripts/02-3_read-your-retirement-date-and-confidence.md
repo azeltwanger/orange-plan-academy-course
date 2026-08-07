@@ -60,13 +60,12 @@ Your decision here is what confidence level you're aiming for, and which lever y
 
 Pick your target before you look at your number, so the number doesn't just talk you into whatever it already says. Then decide your lever in advance, because there are really only four: work a little longer, spend a little less, save more, or change your allocation. If you pick that now, a low number turns into a to-do item instead of a bad night. And remember 100 was never the goal. A very high number usually just means you're over-saving and under-living.
 
-== HOMEWORK ==
+== PUT IT IN ORANGE PLAN ==
 
-Your homework for this lesson is to:
+Plan → Retirement → guardrails policy, so the app knows what on track means for you.
 
-1. Run the confidence check in the app. Your number saves with the plan, so there's nothing to copy down.
-2. Set your target under the guardrails policy, so the app knows what on track means for you.
-3. Name the one lever you'd pull first if you're under it. One, not all four.
+== YOU ARE DONE WHEN ==
 
-And if you want to see exactly how that simulation is built, the fat tails, the correlations, the floors and caps, that's its own short lesson in the advanced library. You don't need it to use your number. It's there so you can defend it.
-4. Then watch the two walkthroughs below this video, where we set the plan up in Orange Plan and build your baseline.
+Your date and your confidence number are both on screen and you read them as a pair. If you're under where you want to be, you've named one lever you'd pull first. One, not four.
+
+Then watch the two walkthroughs below this video, where we set the plan up in Orange Plan and build your baseline.

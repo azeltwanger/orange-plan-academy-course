@@ -79,10 +79,14 @@ Go check what you're withholding against what you're actually going to owe this 
 
 Last, what you do with new money. Every raise should get a decision on the same day that it lands. A $5,000 raise is about $400 a month after taxes. If you route it before it becomes lifestyle, that's real money going to work. If you tell yourself you'll figure it out later, then eighteen months goes by and the raise is just gone, and you can't even point at what you bought with it.
 
-== HOMEWORK ==
+== YOUR DECISION ==
 
-Your homework for this lesson is to:
+Your true surplus, and your two spending numbers: normal, and bare-bones.
 
-1. Walk through the surplus calculation on your own numbers, the same way we just did it.
-2. Link an account or import your transactions so the app can categorize your spending, then label every line as keep, cut, or reduce. Orange Plan doesn't have keep, cut, and reduce labels, so mark those on paper or in a spreadsheet. What goes back into the app is the number you land on. Kill one subscription and renegotiate one bill this week.
-3. Enter both of your spending numbers in the app. Your normal spending goes in as living spending, and your bare-bones floor goes into the reserve settings. Those two drive everything from here.
+== PUT IT IN ORANGE PLAN ==
+
+Cash Flow → This month. Enter income and spending until the surplus verdict is a number you believe.
+
+== YOU ARE DONE WHEN ==
+
+Your surplus is in the app rather than in your head, and you can say your bare-bones number without looking it up. That second number is the one that decides how bad a year has to get before anything changes.

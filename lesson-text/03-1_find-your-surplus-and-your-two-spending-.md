@@ -44,9 +44,14 @@ The floor is what your cash reserve gets sized from.
 
 Open **Plan Guide** and ask for *"review my expenses for ways to save."* It reads your linked spending and works the tradeoffs with you, one expense at a time.
 
-## Homework
+## Your decision
 
-1. Run the surplus calculation on your numbers.
-2. Link an account or import transactions so Orange Plan categorizes your spending, then label every line Keep / Cut / Reduce. The app has no Keep/Cut/Reduce labels, so mark those on paper or in a spreadsheet; what goes back in is the number you land on. Kill one subscription, renegotiate one bill.
-3. Enter both spending numbers in the app: normal as Living spending, bare-bones in the reserve settings.
-4. Watch the walkthrough to enter it all in Orange Plan.
+Your true surplus, and your two spending numbers: normal, and bare-bones.
+
+## Put it in Orange Plan
+
+Cash Flow → This month. Enter income and spending until the surplus verdict is a number you believe.
+
+## You are done when
+
+Your surplus is in the app rather than in your head, and you can say your bare-bones number without looking it up. That second number is the one that decides how bad a year has to get before anything changes.

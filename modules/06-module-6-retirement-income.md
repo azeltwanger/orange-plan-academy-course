@@ -105,12 +105,17 @@ So the retirement-sized reserve gets built **before** the retirement date. Insid
 
 **Plan → Income → Income Blueprint** runs the gap table on your numbers. The module walkthrough builds it out.
 
-### Homework
+### Your decision
 
-1. Enter your retirement spending target and Social Security estimate. The app solves the gap, which is what the rest of the module works on.
-2. Don't know your floor? Pull your Social Security estimate this week at SSA.gov. It gives monthly and annual; the app takes monthly.
-3. Count both bridges, then multiply the Social Security one by your early-year gap.
-4. Look at your Bridge bucket and ask honestly whether it's sized for that number.
+Your spending number, your income floor, and both bridges.
+
+### Put it in Orange Plan
+
+Plan → Income → Income Blueprint. Enter the spending target and your Social Security estimate; the app solves the gap. It takes the estimate as a monthly number.
+
+### You are done when
+
+The gap is on screen, you've counted both bridges, and you've looked at your Bridge bucket and answered honestly whether it's sized for the Social Security bridge's price tag.
 
 
 ## 7.3 Set your withdrawal order and refill rule
@@ -230,24 +235,21 @@ That last rule is critical. Target stays 18 months. Refill pace adjusts to condi
 
 ### Your decision
 
-**The order you'll pull from, and the rule for refilling the reserve.**
+Your decision here is the order you'll pull from, and your rule for refilling the reserve.
 
-How to think about it:
+Understand what the default order actually costs you, because spending one bucket dry first hands you years of very low income that you never used, and then a much bigger bill later. So you're aiming to spread income evenly instead of stacking it, which means using your cheap years while you have them. Spend from the reserve, not directly from the volatile assets, so that a bad market never sets your paycheck. And set your refill rule by the type of year: refill fully in a good year, refill partially in a bad one, and never lower the target itself.
 
-1. **Understand what the default order costs you.** Spending one bucket dry first hands you years of very low income you never used, and then a much larger bill later.
-2. **Aim to spread income evenly instead of stacking it**, so you use your cheap years while you have them.
-3. **Spend from the reserve, not from the volatile assets**, so a bad market never sets your paycheck.
-4. **Set the refill rule by year type**: refill fully in a good year, refill partially in a bad one, and never lower the target itself.
+### Put it in Orange Plan
 
-### Homework
+Plan → Income → withdrawal order and refill rule.
 
-1. Set your withdrawal order in the app under **Plan → Income → Withdrawal order**, and apply it.
-2. Set your **Monthly build cap** under Cash Flow → Reserve settings to control refill pace.
-3. Say your refill rule out loud once, so future you doesn't renegotiate the build cap in a bad year.
+### You are done when
+
+The order is set, the refill rule is set, and you can say what each one does in a bad year without opening the app.
 
 
 ## 7.5 Guardrails: how much you can spend each year
-*`TEACH` · 835 words · ~6 min*
+*`TEACH` · ~1,224 words · ~8 min*
 
 **By the end of this lesson, you can:**
 
@@ -258,83 +260,95 @@ How to think about it:
 
 ---
 
-Your confidence number said the plan survives most futures. The guardrails turn that number into a paycheck every year.
+In today's lesson, we're going to cover the guardrails, which turn your confidence number into an actual paycheck you can adjust every year.
 
-### Why fixed withdrawals fail on Bitcoin
+Your confidence number told you the plan survives most futures. The guardrails are what turn that number into a spending decision, once a year, with rules you set in advance.
 
-While you're saving, order of returns barely matters. Only the average. Once you retire and start withdrawing, that changes.
+### Why fixed withdrawals fail on bitcoin
 
-A bad year early costs you far more than the same bad year late, even at an identical average. This is called **sequence-of-returns risk**, and a fixed withdrawal rule is completely blind to it.
+First, why the standard approach breaks.
 
-Two retirees, same starting portfolio, same spending, same 30-year average. One thrives. The other runs out of money. The only difference: one got bad years late, the other got them first. Selling more shares at low prices to fund the same spending permanently removes those shares.
+While you're saving, the order of your returns barely matters. Only the average does. But the day you retire and start withdrawing, that flips. A bad year early costs you far more than the same bad year late, even at an identical average. This is called sequence-of-returns risk, and a fixed withdrawal rule is completely blind to it.
 
-The classic 4% rule takes the same inflation-adjusted dollars out every year. Fine on a portfolio that moves 10-15% in a bad year. Point it at an asset that can drop 60% and the rule itself becomes the risk.
+> 🎬 **GRAPHIC: two portfolio lines from the same starting value. One takes its bad years early and never recovers; the other takes them late and survives. Same average return, different order.**
 
-Run it on the couple. 60, retired, portfolio $1,000,000, spending $80,000:
+Let's say we have two retirees. Same starting portfolio, same spending, same 30-year average return. One thrives, and one runs out of money. The only difference is that one got the bad years late and the other got them first. Because selling more shares at low prices to fund the same spending permanently removes those shares, and they're not there for the recovery.
 
-1. Bitcoin drops 60%. Portfolio: $400,000.
-2. Fixed rule says sell $80,000. That's 20% of everything they have left, at the bottom.
-3. Recovery takes two years. They do it again.
+The classic 4% rule takes the same inflation-adjusted dollars out every year no matter what. That's fine on a portfolio that moves 10 or 15% in a bad year. Point it at an asset that can drop 60%, and the rule itself becomes the risk.
 
-The whole problem lasts 1-3 years. You need a spending rule that flexes.
+Run it on the couple. They're 60, retired, with a $1,000,000 portfolio and $80,000 of spending. Bitcoin drops 60%, and the portfolio falls to $400,000. The fixed rule says sell $80,000 anyway. That's 20% of everything they have left, sold at the bottom. Recovery takes a couple of years, and the rule makes them do it again the next year.
+
+But the risk is usually most acute in the first few years. That's the window. And for this one, assume the whole $1,000,000 is riding on Bitcoin. So what you need is a spending rule that flexes during exactly those years.
 
 ### The 60/80/95 bands
 
-Once a year, run the simulation and read your confidence number. Every adjustment steers back toward 80%:
+Once a year, you run the simulation and read your confidence number. And every adjustment steers back toward 80%.
 
-- **Around 60. Lower guardrail.** Cut. Reduce spending until confidence comes back up toward 80.
-- **Around 80. Hold.** Inflation adjustment only.
-- **Around 95. Upper guardrail.** Raise. Increase spending until it settles back down toward 80.
+If confidence is down around 60, that's the lower guardrail. You cut. You reduce spending until confidence comes back up toward 80.
 
-Every change is capped at ±10% in either direction, and the cap is measured after inflation. The app applies the inflation adjustment every year, then caps the correction off that inflated number.
+If it's around 80, you hold. Inflation adjustment only, and you move on with your year.
 
-The 60, 80, 95 stops and the ±10% cap are the shipped defaults of Orange Plan's spending policy. You're reading it, not building it.
+If it's up around 95, that's the upper guardrail. You raise. You increase spending until it settles back toward 80.
+
+Every change is capped at 10% in either direction, and that cap is measured after inflation. So in a cut year the app inflates your number first, and then takes at most 10% off that.
+
+Where do these numbers come from? You're reading a policy the app runs, not building one from scratch.
 
 ### Cut or skip the raise, not both
 
-In a lower-guardrail year, you pick one:
+In a lower-guardrail year, you have to pick one of two moves.
 
-- **Take the 10% cut.** Bigger hit this year. From that new baseline you go right back to adding inflation adjustments every year.
-- **Skip this year's inflation adjustment.** Dollar spending stays flat. Feels lighter now. But that missed raise never gets made up, and every future year's paycheck is permanently lower.
+Option one is to take the 10% cut. It's a bigger hit this year, but from that new baseline you go right back to adding inflation adjustments every year.
 
-Prefer the cut. Take a bigger hit once, then let inflation compound back on schedule. Skipping the raise is a small, quiet leak that pulls down your spending for the rest of retirement.
+Option two is to skip this year's inflation adjustment. Your dollar spending stays flat, which feels lighter in the moment. But that missed raise never gets made up, and every future year's paycheck is permanently lower because of it.
 
-### The confidence number is really about timing
+I'd take the cut. Take a bigger hit once, then let inflation compound back on schedule. Skipping the raise is a small, quiet leak that pulls your spending down for the rest of retirement.
 
-When a plan fails at 80%, the cause is almost always the timing of one drawdown. A deep drop in year 2 does something a deep drop in year 15 doesn't. By year 15, the portfolio has grown past the withdrawals, so a bad year sets you back and you recover. In year 2, every dollar you spend comes out of a pile that's already shrinking, and it never gets back.
+And that's what the app's policy already does on its own. It applies inflation, then caps the cut at 10% of that inflated number. Skipping the raise is the manual alternative, and you'd be choosing it by hand.
 
-80% means 8 in 10 futures needed no changes. In the other 2, the plan survives only if you cut for a while. The confidence number is an early-warning signal, not a grade.
+### What the confidence number is telling you
+
+When a plan fails at 80% confidence, the cause is almost always the timing of one drawdown. A deep drop in year 2 does something a deep drop in year 15 doesn't.
+
+By year 15, the portfolio has grown past the withdrawals, so a bad year sets you back and you recover. In year 2, every dollar you spend is coming out of a pile that's already shrinking, and it never gets back.
+
+So 80% means 8 in 10 futures funded the plan as written. In the other 2, the plan fell short as written. A temporary cut is one of the first responses you test, but the score alone doesn't prove it rescues every path. That's why the guardrails exist. The confidence number is an early-warning signal, not a grade.
 
 ### Running the annual review on the couple
 
-1. **Crash happens.** Confidence at 61. Lower guardrail. Cut 10% of $80,000 = $8,000. Paycheck to $72,000 for 12 months.
-2. **Twelve months later, Bitcoin recovered.** Confidence at 83. Hold. Add inflation on top of $72,000.
-3. **If instead confidence came back at 96:** raise 10%. $72,000 + $7,000 ≈ $79,000. Walking spending back up.
+Let's run the couple through it.
 
-A 20-point fall gets a 10-point correction this year, and you look again next year. Keeps the paycheck stable instead of swinging with the market.
+A crash happens. At the annual review, confidence reads 61. That's the lower guardrail, so they cut 10% of $80,000, which is $8,000. The paycheck goes to $72,000 for the next 12 months. And that's the entire response. They didn't panic, they didn't go on a selling spree, they just made one adjustment and moved on.
 
-### Permission to spend
+12 months later, Bitcoin has recovered. Confidence reads 83. That's hold. They add inflation on top of the $72,000 and move on.
 
-Most retirees under-spend out of fear. The upper guardrail is the plan telling you, with math, that you can raise the paycheck.
+And if instead it had come back at 96, that's the upper guardrail: raise 10%, so $72,000 plus about $7,000 puts them back around $79,000, walking the spending back up.
+
+Notice the shape: a 20-point fall in confidence got a 10% spending cut this year, and you look again next year. That's what keeps the paycheck stable instead of swinging with the market.
+
+One more thing the upper guardrail does, and I think it's underrated: most retirees under-spend out of fear. The upper guardrail is the plan telling you, with math behind it, that you're allowed to raise the paycheck. That permission is worth a lot.
 
 ### Closing the loop with the reserve
 
-Reserve refill runs off the same annual review. For the couple, 18 months × $80,000 = $120,000 cash target.
+Last piece: the reserve refill runs off this same annual review. For the couple, the target is 18 months times $80,000, which is $120,000 of cash.
 
-- **Spending held or rose.** Refill fully.
-- **Spending got cut.** Refill only partway (~$80,000, or 12 of 18 months).
-- **The target itself stays 18 months.** A cut year slows refill, doesn't shrink the target.
+If spending held or rose, refill fully. If spending got cut, refill partway, to about 12 of the 18 months. And a bad market doesn't change the target. The target changes when your spending changes, when your income floor changes, or when you deliberately change the policy. A bad year changes only the refill pace.
 
-### Homework
+One thing to keep in mind: the guardrail concept and the 10% adjustment are adapted from published research. The 60, 80, and 95 confidence thresholds are Orange Plan defaults. They're a starting point for a conversation, not a rule you have to adopt. If you're working with a planner, this is a good page to bring them.
 
-Run the **50% drawdown after retirement** scenario on your own plan this week (Scenarios → What if...).
+### Your decision
 
-Two questions:
+Your guardrail policy: how much a bad year changes what you spend.
 
-1. Does the plan survive with the current reserve size?
-2. If not, how much bigger does the reserve need to be?
+### Put it in Orange Plan
 
-Those two answers price your reserve, in dollars, against the drawdown you're actually defending against.
+Plan → Retirement → guardrails.
+
+### You are done when
+
+Your policy is set and the app can tell you hold, raise or cut. You can say what a cut year actually looks like in your life, in dollars.
+
+Then watch the walkthrough below this video, where we build the paycheck in Orange Plan.
 
 
 ## 7.6 Walkthrough: build the paycheck in Orange Plan

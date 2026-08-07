@@ -6,7 +6,7 @@ then M1–M9) in course order. The optional library lives in `MASTER-ADVANCED.md
 <!-- METRICS:START -->
 | | Lessons | Runtime |
 |---|---|---|
-| **Core** — Build Your Bitcoin Financial Plan (required) | 27 teach | **223 min (3.7 h)** |
+| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **223 min (3.7 h)** |
 | **Advanced Library** — optional, gated per lesson | 17 teach | 118 min |
 
 Plus 11 core screen captures, narrated off the DO / SEE / ⚠ sheets rather than read.
@@ -22,6 +22,12 @@ directly to the course are marked ✅; open decisions reference
 ⚠ **A master edit never reaches a protected script.** Scripts headed
 `AUSTIN DICTATION` or `SPOKEN-PROSE VERSION` are never regenerated. Change
 content here AND in `scripts/`, then verify both.
+
+**Every teach lesson closes with the same three beats:** `YOUR DECISION` ·
+`PUT IT IN ORANGE PLAN` · `YOU ARE DONE WHEN`. The per-module completion
+checklists live in `MODULE-CHECKPOINTS.md` and are the sum of those beats.
+The one exception is **3.2**, which keeps Austin's own dictated homework block
+because it is the VOICE-GUIDE calibration master and his words are the record.
 
 | Mode | Meaning |
 | --- | --- |
@@ -129,7 +135,7 @@ Austin
 
 ## 1.2 How the AI works: what it reads, what it never sees
 
-*`TEACH` · ~899 words · ~6 min*
+*`TEACH` · ~896 words · ~6 min*
 
 **By the end of this lesson, you can:**
 
@@ -197,12 +203,19 @@ There's also a memory toggle in Preferences, and it starts off. What it remember
 
 And the last thing, which I'm saying once here so I don't have to repeat it in every walkthrough: it reviews and it explains. You decide.
 
-### Homework
+### Your decision
 
-1. Click the AI Review button in the top bar so you know where it lives.
-2. Open Preferences inside Plan Guide and decide whether memory is on or off for you.
-3. Fix the one hard rule: no seed phrase, private key, passphrase, PIN, or full account number ever goes into any AI, including this one.
-4. The lesson text below has the full technical detail: which model it runs on, the exact data it can request, the daily limits, and what it does and doesn't know about this course. That page gets updated as the product changes; this video doesn't.
+Two decisions. Whether memory is on or off for you, and the one rule you never break.
+
+### Put it in Orange Plan
+
+Click AI Review in the top bar so you know where it lives, then open Preferences inside Plan Guide and set memory deliberately.
+
+### You are done when
+
+You can say the one rule from memory: no seed phrase, private key, passphrase, PIN, or full account number goes into any AI, including this one.
+
+The lesson text below has the technical detail, and it gets updated as the product changes. This video doesn't.
 
 
 # Unit 2 · Module 1 — Foundation: baseline, assumptions, and the confidence number
@@ -210,7 +223,7 @@ And the last thing, which I'm saying once here so I don't have to repeat it in e
 *Gather the six pieces of your baseline, choose your assumptions (especially the Bitcoin growth number), understand the confidence ring that stress-tests your plan, run three scenarios, and know when a plan actually needs updating.*
 
 ## 2.1 What to gather before you build the plan
-*`TEACH` · 478 words · ~3 min*
+*`TEACH` · ~952 words · ~6 min*
 
 **By the end of this lesson, you can:**
 
@@ -220,52 +233,56 @@ And the last thing, which I'm saying once here so I don't have to repeat it in e
 
 ---
 
-The first step is gathering the documents you need before you start building the baseline. Every decision downstream runs on this data, so accuracy up front saves you time on every future update.
+In today's lesson, we're going to cover the documents that you're going to need to gather before you start building your financial plan.
+
+This part is extremely important because every decision that we make in later modules and lessons is downstream and can be based off of all of the data that we put into the model to begin with. Taking the extra time to be accurate up front is going to save you from making misguided decisions based off of guesswork and data that's not up to date and accurate.
+
+Every number that comes out of your plan is only as good as what you put in it. If your spending number is just a rough guess, if what you need to spend in retirement and what you're currently spending month to month today is a rough guess, your retirement date is also going to be a guess. Another example: if your transaction history or your cost basis is missing, this can affect your tax calculations and prevent you from having as accurate numbers as we possibly can.
+
+Taking 30 minutes to an hour now to gather all of this information can be a really valuable exercise in getting organized, because most people that I work with are not organized when it comes to their personal finances. Just taking the time to go through this and gather everything so that we can put all of it together in one place to make smart decisions is beneficial for you. I know it can be a little bit of a pain, but it's definitely worth it.
 
 ### What to gather
 
-#### Income
+1. Your income. You want recent pay stubs so you can verify what's coming in per period and then what's coming in every year. If you own a business, you're going to want to include every stream of income that you have. If you have multiple businesses, if there are two earners, if you and your spouse both work, you're going to want to include pay stubs for both of you and earnings and income from both of you. This includes things like businesses, rental income, and investment dividends that you get.
 
-Recent pay stubs so you can verify income per period and per year. Include every stream: salary for each earner, self-employment, rental income, dividends.
+2. Your spending. As a rule of thumb, I like to use the last 3 months as a reference for about what you spend every month. A rough number here is fine to start with. Once you link your accounts in the app, the exact figure is going to be calculated for you, so you don't have to go digging through all of your credit cards and expenses. If you don't do that, then I would recommend going through all of your spending accounts or credit cards to get a more exact figure of what you're spending every month.
 
-#### Spending
+3. Your assets. This is going to be every account and asset that you own. What I recommend is opening each one in a separate browser tab as you go through onboarding so you don't miss any of your accounts. This step is going to be just an inventory of all of your assets: every account and what the current balances are. This includes things like your house. You can use Zillow or an estimate of what your house might be worth in your neighborhood or area. This includes things like your pension and retirement accounts, brokerage accounts, Bitcoin, hardware wallets, exchange accounts, and anywhere where you might have dollars, checking, and savings as well.
 
-Use the last three months as a reference for what you spend in a normal month. A rough number is fine to start. Once you link your accounts in the app, the exact figure is calculated for you.
+============================================================
+NOT YET DICTATED — placeholder text below, kept only so nothing is lost.
+Replace when Austin records items 4-7 and the homework.
+============================================================
 
-#### Assets
+4. Your debts. Credit cards, mortgage, auto, student loans, anything else. For each one, you want the current balance and the interest rate. And actually log in and check both, because the rate on paper from a few years ago isn't necessarily what you're being charged today.
 
-Every account you own. I'd recommend opening each one in a separate browser tab as you go through onboarding, so you don't miss any. This step is inventory: every account, its current balance.
+5. Your benefits. This is anything your employer contributes toward your future — the match on your retirement plan, any pension or deferred comp. For the match, you want the formula, not just a percentage. 50% up to 6% of pay is a different thing than a flat 3%.
 
-#### Debts
+6. Future life events. Any known costs coming up — kids' college, a new car, a new house. There's no documents needed for this one. Just start thinking through what's on the horizon.
 
-Credit cards, mortgage, auto, student loans, anything else. For each one, you want the current balance and the interest rate. Log in and check both. The rate on paper from years ago isn't necessarily what you're being charged today.
+### Cost basis — start this one now
 
-#### Benefits
+7. The last one is cost basis, and this is the hardest one, so it's the one to start on now.
 
-Anything your employer contributes toward your future. That includes the employer match on your retirement plan and any pension or deferred compensation.
-
-For the match, you want the formula, not just a percentage: 50% up to 6% of pay is different from a flat 3%.
-
-#### Future life events
-
-Any known costs or major events coming up: kids' college tuition, a new car, a new house. No documents needed. Just start thinking through what's on the horizon.
-
-#### Cost basis
-
-This one is the hardest, and it's the one to start on now.
-
-Cost basis is the price you paid for each asset. The app uses it to model your tax liability. Knowing what you paid for your Bitcoin and other assets can save real money and give you an accurate picture of what you'll owe.
+Cost basis is the price you paid for each asset. The app uses it to model your tax liability, and knowing what you actually paid for your Bitcoin can save you real money and give you an accurate picture of what you'll owe.
 
 Balances and rates you can pull today. Basis lives in old exchange records and accounts you may have closed, and it gets harder to recover every year.
 
-- **Bitcoin.** Go into every exchange you've ever used and download the transaction history (usually a CSV or Excel file).
-- **Brokerage and retirement accounts.** Every brokerage has a transaction history export.
+So for Bitcoin, go into every exchange you've ever used and download the transaction history. It's usually a CSV or an Excel file. And for your brokerage and retirement accounts, every brokerage has a transaction history export.
 
-Save all of it into a folder. You'll come back to these files every time you update the plan.
+Save all of it into a folder, because you're going to come back to these files every time you update the plan.
 
-### Homework
+### Your decision
 
-Set up one folder on your computer. Download every export you can get today, and label each file with the account name and date range. Basis is the priority; the rest can be gathered in parallel.
+What you're going to gather, and by when.
+
+### Put it in Orange Plan
+
+Nothing yet. This one is a shoebox, not a screen. The walkthrough enters it all.
+
+### You are done when
+
+Every account, balance, income source and debt is written down in one place, and the totals match what you'd tell a planner out loud.
 
 
 ## 2.2 Set your growth and inflation assumptions
@@ -360,24 +377,21 @@ Four things to keep in mind:
 
 ### Your decision
 
-**Which growth model and inflation rate your plan runs on.**
+So your decision out of this lesson is which growth model and which inflation number your plan is going to run on.
 
-How to think about it:
+Start with what you'd actually defend out loud, because if you can't explain why you picked a curve, then you didn't really pick it, you just left whatever the app had loaded. Then ask yourself which way you'd rather be wrong. If you're conservative and you're wrong, you just retire earlier than the screen said. If you're optimistic and you're wrong, the whole plan was built on something that didn't happen. And set inflation to what you actually believe, not whatever the default is, because your future spending rises with that number.
 
-1. **Start with what you'd defend out loud.** If you can't say why you picked a curve, you're running whatever the app handed you, and you'll have no idea what to change when the number moves.
-2. **Ask which way you'd rather be wrong.** A conservative assumption shows you a later date on screen. An optimistic one can make the whole plan unreliable, which costs a lot more.
-3. **Set inflation to what you actually believe**, not the default, because your future spending target rises with it.
+### Put it in Orange Plan
 
-### Homework
+Plan → Retirement → Edit assumptions. Set growth and inflation, and leave the defaults only if you'd defend them.
 
-1. Pick your Bitcoin growth model and say out loud why you picked it.
-2. Set your inflation number.
-3. Enter both in the app under **Plan → Edit assumptions**.
+### You are done when
 
-You'll get to change these later and see what the plan looks like under different assumptions. For now, we're setting the ones your baseline plan actually runs on.
+You could say out loud why each assumption is the number it is. That's the same standard the report's assumptions section is held to, and it's the one that catches a number you picked because you liked the answer.
+
 
 ## 2.3 Read your retirement date and confidence number
-*`TEACH` · 925 words · ~7 min*
+*`TEACH` · ~990 words · ~6 min*
 
 > 🐞 **LIVE BUG — this lesson's outcomes checklist renders empty (0 / 0).** The
 > apostrophe in "how it's calculated" was escaped shell-style (`'"'"'`) inside a
@@ -394,77 +408,73 @@ You'll get to change these later and see what the plan looks like under differen
 
 ---
 
+In today's lesson, we're going to cover the two numbers at the top of your plan — your earliest retirement date, and your confidence number — and how to read them together.
+
 ### Your earliest retirement date
 
-Your earliest retirement date is the year your assumptions say you could stop working. It's your freedom date.
+The date tells you when. The confidence number tells you how sturdy that date is. And most tools only show you the date.
 
-Freedom means different things depending on where you're at. It might mean full retirement, work becoming optional, or stepping back to only what matters to you. Whatever version you're planning for, the earliest retirement date is when the plan says you could safely make that move.
 
-The date is deterministic: it runs your numbers forward using the average returns from your assumptions. One line into the future, no stress test. Real markets don't work that way, which is where the confidence number comes in.
+Your earliest retirement date is the year your assumptions say you could stop working. I think of it as your freedom date.
+
+And freedom means different things depending on where you're at. It might mean full retirement, it might mean work becoming optional, or it might mean stepping back to only the things that matter to you. Whatever version you're planning for, this date is when the plan says you could safely make that move.
+
+One thing to understand about the date: it's deterministic. It runs your numbers forward using the average returns from your assumptions. One line into the future, no stress test. And real markets don't work that way — which is where the confidence number comes in.
 
 ### The confidence number
 
-The confidence number runs your entire plan through a thousand different simulated futures, each with different market results, then counts how many succeeded.
+The confidence number takes your entire plan and runs it through a thousand different simulated futures, each one with different market results, and then it counts how many of them succeeded.
 
-If your confidence number is 82%, that means 820 of those thousand runs succeeded on your numbers.
+You'll see this called a Monte Carlo simulation, and that's the label on the button in the app. Don't let the name throw you. All it means is running your plan a thousand times instead of once, so you're looking at a range of outcomes instead of a single guess.
 
-The failing 18% is not the probability you go broke. It's the probability you'd need to make adjustments: spending a little less for a stretch, working a year longer, or delaying a purchase. Failure in the simulation means the plan needed to bend, not that you ended up with nothing.
+A client asked me a sharp question about this once. He wanted to know whether it models a bad thing happening on top of another bad thing. Like, the price already dropped 50%, does any of those runs have it dropping another 30% from there?
+
+Yes. That's exactly what those thousand runs are for. Some of them are gentle, some of them stack a terrible year onto another terrible year, and a few of them are genuinely brutal. You're not looking at one guess about the future. You're looking at a spread of them, including the ugly ones.
+
+So if your confidence number is 82%, that means 820 of those thousand runs succeeded on your numbers.
+
+An 82% result means 820 of the 1,000 paths funded the plan as written. The other 180 fell short. Those paths tell you to test adjustments — spending a little less for a stretch, working a year longer, delaying a purchase. The score alone doesn't prove that one small change rescues all of them. And it isn't a forecast that you end up with nothing.
 
 ### Reading the two together
 
-- The **date** tells you *when*.
-- The **confidence number** tells you *how sturdy that date is*.
+The date tells you when. The confidence number tells you how sturdy that date is.
 
-Age 60 at 82% confidence is a real answer. Age 60 at 55% confidence would be the same date on the screen with a much weaker plan behind it.
-
-You want to look at both. A high confidence number with a date you can live with is what we're building toward.
+Age 60 at 82% confidence is a real answer. Age 60 at 55% confidence is the same date on the screen with a much weaker plan behind it. So you want to look at both. A high confidence number, with a date you can live with — that's what we're building toward.
 
 ### What the simulation is actually running
 
-The simulation doesn't just shuffle a portfolio return. It runs your entire plan inside every one of those thousand futures.
+Let me show you what the simulation is actually doing, because it's more than shuffling one portfolio return.
 
-For each run:
+Every one of those thousand futures runs your entire plan. It starts from your real balances today — your Bitcoin, your brokerage, your retirement accounts, your cash. In year one, every asset gets its own return based on your assumptions and its historical volatility. Then your actual life runs: income comes in, taxes go out, spending happens, withdrawals happen in your order, contributions and debt payments happen. You land on new balances. Then year two starts fresh with new market returns, and it does it again. 45 years of that is one complete future.
 
-- Start from your real balances today (Bitcoin, brokerage, retirement accounts, cash).
-- In year one, every asset gets its own return based on your assumptions and its historical volatility.
-- Your actual life runs: income in, taxes out, spending, withdrawals in your order, contributions, debt payments. You land on new balances.
-- Year two starts fresh with new market returns. Same steps. Then year three. Forty-five years of that is one complete future.
-
-Then it runs another 999 futures with different market returns and counts how many succeeded.
-
-Running your real life inside every path makes the answer sensitive to your plan, not just to your portfolio.
-
-> **How the simulation is built moved to the library: Advanced A1.1 "How
-> Orange Plan models Bitcoin: fat tails, correlations, floors and caps" (3
-> min).** Fat tails, the floor and cap on Bitcoin's single-year return, and
-> the cross-asset correlations. This lesson teaches how to *read* the number.
-> That one is for defending it.
+Then it runs another 999 futures with different markets and counts how many succeeded. Running your real life inside every path is what makes the answer sensitive to your plan, and not just to your portfolio.
 
 ### How to read your number
 
-A few things to keep in mind:
+Three things to keep in mind when you read yours:
 
-- **A high number means fewer adjustments.** 82% doesn't mean 18% chance of going broke. It means the plan needed to adjust in 180 of the thousand runs.
-- **Watch for big moves, not small ones.** Small run-to-run changes aren't meaningful. If a change to your plan moves the number 5-10 points, that's the change telling you something.
-- **The number is directional.** It's a stress test on research and history. When the research updates, the app's numbers update with it.
+1. A high number means fewer adjustments. 82% doesn't mean an 18% chance of going broke. It means 180 of the 1,000 paths came up short under the plan exactly as written.
+2. Watch for big moves, not small ones. Small run-to-run changes aren't meaningful. If a change to your plan moves the number 5 or 10 points, that's the change telling you something.
+3. And the number is directional. It's a stress test built on research and history, not a guarantee.
+
+You're going to run your own confidence ring for the first time in the walkthrough at the end of this module.
 
 ### Your decision
 
-**What confidence level you're aiming for, and which lever you'd pull if you come in under it.**
+Your decision here is what confidence level you're aiming for, and which lever you'd pull if you come in under it.
 
-How to think about it:
+Pick your target before you look at your number, so the number doesn't just talk you into whatever it already says. Then decide your lever in advance, because there are really only four: work a little longer, spend a little less, save more, or change your allocation. If you pick that now, a low number turns into a to-do item instead of a bad night. And remember 100 was never the goal. A very high number usually just means you're over-saving and under-living.
 
-1. **Pick your target before you see your number**, so the number doesn't talk you into whatever it already says.
-2. **Decide the lever in advance.** There are only four: work a little longer, spend a little less, save more, or change the allocation. Picking now means a low number becomes a to-do instead of a bad night.
-3. **Remember that 100 was never the goal.** A very high number usually means you're over-saving and under-living.
+### Put it in Orange Plan
 
-### Homework
+Plan → Retirement → guardrails policy, so the app knows what on track means for you.
 
-1. Run the confidence check in the app. The number saves with your plan.
-2. Set your target under the guardrails policy, so the app knows what "on track" means for you.
-3. Name the one lever you'd pull first if you're under it. One, not four.
+### You are done when
 
-The next module builds the cash flow that lets you keep buying Bitcoin without being forced to sell at the wrong time.
+Your date and your confidence number are both on screen and you read them as a pair. If you're under where you want to be, you've named one lever you'd pull first. One, not four.
+
+Then watch the two walkthroughs below this video, where we set the plan up in Orange Plan and build your baseline.
+
 
 ## 2.4 Walkthrough: set up your plan in Orange Plan
 *`DEMO` · 3,297 words · ~20 min read*
@@ -997,11 +1007,17 @@ Check what you're withholding against what you'll actually owe.
 
 Every raise gets a decision the same day. A $5,000 raise is ~$400/mo. Route it before it becomes lifestyle. Eighteen months of "I'll figure it out later" and the raise is gone.
 
-### Homework
+### Your decision
 
-- Walk through the surplus calculation on your own numbers.
-- Link an account or import transactions so Orange Plan categorizes the spending, then label every line as Keep, Cut, or Reduce. The app has no Keep/Cut/Reduce labels, so mark those on paper or in a spreadsheet; what goes back in is the resulting Living number. Kill one subscription, renegotiate one bill.
-- Enter your normal spending as Living spending, and your bare-bones number in the reserve settings. Both drive the projection from here.
+Your true surplus, and your two spending numbers: normal, and bare-bones.
+
+### Put it in Orange Plan
+
+Cash Flow → This month. Enter income and spending until the surplus verdict is a number you believe.
+
+### You are done when
+
+Your surplus is in the app rather than in your head, and you can say your bare-bones number without looking it up. That second number is the one that decides how bad a year has to get before anything changes.
 
 
 ## 3.2 Size your cash reserve in months of spending
@@ -1186,11 +1202,17 @@ Every known cost gets its own row: description, date, dollar amount, lane. The p
 
 *↑ Never names **Life Events**, which is the actual feature.*
 
-### Homework
+### Your decision
 
-- List every known cost with a date on it: kids' college, roof, car, planned tax bills, big trips, home projects.
-- Assign each one a lane based on how far away it is.
-- Any cost that would break your monthly surplus in a single hit gets a pre-funding route today.
+Which known costs get pre-funded, and in which lane.
+
+### Put it in Orange Plan
+
+Plan → Goals for each dated cost, then Cash Flow → Routing to point dollars at it.
+
+### You are done when
+
+Every known cost inside ten years either has a funding lane or a deliberate decision that monthly cash flow absorbs it. A cost you've decided to absorb is finished, not skipped.
 
 
 ## 3.4 Walkthrough: build cash flow and reserve in Orange Plan
@@ -1548,20 +1570,18 @@ If the answer is no, you don't stop investing in Bitcoin. You adjust the allocat
 
 ### Your decision
 
-**The largest Bitcoin position you could actually hold through a 70 to 80% drawdown without selling.**
+Your decision here is the largest Bitcoin position you could actually hold through a 70 to 80% drawdown without selling.
 
-How to think about it:
+The way I think about this is pretty simple. Run the stress test on today's balance, not last year's, because the percentage doesn't move but the dollar amount does, and the dollar amount is what you'd actually feel. Answer it honestly, not aspirationally. The right answer is the one that's true at 3am with the price down 75%, not the one that sounds brave on camera. And if the honest answer is that you'd sell, then the position is too big. Most people land there the first time they run it honestly, and it's a lot better to find that out now than in the middle of the drawdown.
 
-1. **Run the stress test on today's balance, not last year's.** The percentage doesn't move, but the dollar figure does, and the dollar figure is what you'd actually feel.
-2. **Answer honestly, not aspirationally.** The right answer is the one that's true at 3am with the price down 75%, not the one that sounds brave.
-3. **If the honest answer is "I'd sell," the position is too big.** Most people land here the first time they run it honestly. Better to find that out now than in the middle of the drawdown. Size down to the number you can actually hold.
-4. **Check the price context before you act**, so you can tell whether you're reacting to the plan or to the last few months.
+### Put it in Orange Plan
 
-### Homework
+Strategy → Allocation. Set the Bitcoin percentage and the drift band.
 
-1. Run the stress test at today's balance and answer out loud.
-2. Set that position size as your target allocation in the app. The number you could hold through the drawdown is the target, not the number you hold today.
-3. If the target is below what you hold now, decide how you close the gap: new dollars only, or a sale with a tax cost you've checked.
+### You are done when
+
+You've run the drawdown test at today's balance, not the balance you had when you chose the number, and the answer was one you could sit through.
+
 
 ## 4.2 Break your accounts down by holding type, then by timeframe
 *`TEACH` · 605 words · ~4 min*
@@ -1670,22 +1690,22 @@ Both grow relative to everything else as you approach retirement. The target is 
 
 ### Your decision
 
-**Two things: a target mix across the six asset classes, and a target size for each of your three buckets.**
+Your decision here is two things. A target mix across the 6 asset classes, and a target size for each of your three buckets.
 
-How to think about it:
+Set the mix first, because it decides what you actually buy, and give it a drift band you can live with. 5 points is the default and a reasonable starting place.
 
-1. **Set the mix first**, because it decides what you buy. Give it a drift band you can live with; 5 points is the default and it's a reasonable starting place.
-2. **Reserve first among the buckets, because it's the only one with a deadline.** It's already sized from the reserve lesson.
-3. **Bridge is driven by your timeline**, meaning the years between when the paycheck stops and when your other income turns on. If you're decades away, it's small. If you're close to retiring, it's the biggest decision on this page.
-4. **Legacy is what's left**, and it's where Bitcoin belongs, because it's the only bucket with enough time to survive a drawdown.
-5. **Compare targets to what you actually hold.** The gap between the two is your routing instruction for the next year.
+Then the buckets, in order. Reserve you already sized in the reserve lesson. Bridge is driven by the years between your last paycheck and your income floor: small if you're decades away, the biggest number on the page if you're close. Legacy is whatever's left, and that's where Bitcoin belongs, because it's the only bucket with enough time to survive a drawdown.
 
-### Homework
+Then compare your targets to what you actually hold. The gap between those two is your routing instruction for the next year.
 
-1. Open **Strategy → Allocation → What each account holds** and read down the columns. Write the four numbers that come out: Bitcoin, stocks, bonds, cash, as percentages.
-2. Set your target mix so the six classes total 100%, and pick your drift band.
-3. Open **Sort accounts into buckets** and put every account in Reserve, Bridge, or Legacy yourself. Do not leave any on the inferred default.
-4. Compare the two cuts. If your mix is fine but your Legacy share is bigger than your years-to-retirement can carry, that is the gap to fix first.
+### Put it in Orange Plan
+
+Strategy → Allocation → sort every account into Reserve, Bridge or Legacy, then set each bucket's target.
+
+### You are done when
+
+No account is left on the app's inferred guess, and you can say where each bucket's target came from.
+
 
 ## 4.3 Order your contributions: which account gets funded first
 *`TEACH` · 575 words · ~4 min*
@@ -1792,23 +1812,19 @@ Here's where it gets practical. The waterfall tells you the order, but it doesn'
 
 ### Your decision
 
-**The order your next dollar flows, the amount at each rung, and which bucket the flexible dollars fill.**
+Your decision here is the order your next dollar flows, the amount at each rung, and which bucket your flexible dollars fill.
 
-How to think about it:
+Take free money first, because an employer match is the only guaranteed return you'll ever be offered. Then kill guaranteed losses, meaning high-interest debt. Then fill your tax shelters in order of quality. Everything after that is taxable or Bitcoin. And then let the buckets break the tie: once you know the account, check Allocation and put the flexible money toward whichever timeframe reads behind.
 
-1. **Take free money first.** An employer match is the only guaranteed return you'll ever be offered.
-2. **Then kill guaranteed losses**, meaning high-interest debt, because paying off a 20% card beats any investment you could pick with confidence.
-3. **Then fill tax shelters in order of quality**, since every dollar inside one keeps compounding without a yearly tax drag.
-4. **Everything after that is taxable or Bitcoin.**
-5. **Then let the buckets break the tie.** Once you know the account, check Strategy → Allocation and put the flexible money toward whichever timeframe reads Behind.
+You make this decision once and it routes every future dollar without you re-deciding every month. The bucket check is the only part that repeats, and it takes about 10 seconds during your monthly pass.
 
-You make this decision once and it routes every future dollar without you re-deciding each month. The bucket check is the only part you repeat, and it takes about 10 seconds during your monthly pass.
+### Put it in Orange Plan
 
-### Homework
+Cash Flow → Routing → waterfall order.
 
-1. Enter your contributions in the app, rung by rung, so the projection reflects your real routing.
-2. Open **Strategy → Allocation** and read which bucket comes back **Behind**. That's the rung to fund next.
-3. Automate whatever you can at the source, so the decision runs itself.
+### You are done when
+
+You know which rung the next dollar goes to without thinking about it. No match, no HSA eligibility, and no high-interest debt each complete their rung by being skipped deliberately.
 
 
 ## 4.4 Asset location: which account each holding belongs in
@@ -1882,16 +1898,19 @@ Where each asset sits affects the withdrawal order in retirement (Module 6):
 
 If all your Bitcoin is in taxable, that dictates when it gets sold and at what rate. If some sits in Roth, you have a tax-free spendable Bitcoin pool that opens different retirement paycheck options.
 
-### Homework
+### Your decision
 
-For every account, ask: is the asset in it appropriate for the wrapper?
+Which holding belongs in which wrapper.
 
-- Cash in a Roth? Move to taxable.
-- Bonds in a Roth? Move to Traditional.
-- Bitcoin only in taxable, with room in Roth? Consider a small ETF position for tax-free growth.
-- High-growth stocks in taxable and low-growth bonds in Roth? Swap them.
+### Put it in Orange Plan
 
-Location isn't a one-time decision. Every year, and any time you rebalance, ask again.
+Strategy → Allocation → account holdings. Move holdings so the tax-inefficient ones sit in the sheltered accounts.
+
+### You are done when
+
+Every account's contents match the job of the wrapper it's in, and you can give the reason for each one.
+
+Then watch the walkthrough below this video, where we route it in Orange Plan.
 
 
 ## 4.5 Walkthrough: route it in Orange Plan
@@ -2345,21 +2364,22 @@ They have no Bitcoin-backed loan, so no debt in the Monitor tier.
 
 ### Your decision
 
-**Two things: your ceiling, and a job for every debt.**
+Two decisions out of this lesson.
 
-The ceiling is the level you won't go past, whatever the ratios say is
-technically allowed. Start from tolerance, set it against DTA because that is
-the ratio that moves with Bitcoin, and set it while the price is high, because
-that is when debt looks safest and you are most tempted.
+Your ceiling, meaning the level you won't go past, whatever the ratios say is technically allowed. Start from tolerance, set it against DTA because that's the one that moves, and set it while the price is high.
 
-Then every debt gets a job with a reason. Not a feeling.
+And a job for every debt, with a reason. Not a feeling.
 
-### Homework
+### Put it in Orange Plan
 
-1. Read both ratios off **Strategy → Debt**. The app keeps them current.
-2. Decide your ceiling. There is no field for it, so say it out loud, and say whether you are inside it today. If not, that is your first debt job.
-3. Set each debt's tier and job in the app, with the reason.
-4. The app is done when no row reads **no payoff path**, unless you chose that on purpose.
+Strategy → Debt → Add debt for every debt, then set each row's job on the ledger. Cash Flow → Routing, step 2, for the extra dollars.
+
+### You are done when
+
+Every debt has a job you can give the reason for, no row reads no payoff path unless you chose it, and your ceiling is a number you have said out loud. There is no field for the ceiling, which is the point.
+
+Then watch the walkthrough below this video, where we give every debt a job in Orange Plan.
+
 
 ## 5.2 Walkthrough: give every debt a job in Orange Plan
 *`DEMO` · 6 steps · ~7 min*
@@ -2456,10 +2476,17 @@ If there's no basis at all, the gain gets treated as the entire sale price.
 
 On the 0.25 BTC sale above: $10,000 of real gain becomes $25,000 of gain, because the whole sale price counts. At 15%, a $1,500 bill turns into $3,750. Purely for missing a record.
 
-### Homework
+### Your decision
 
-Pull your full transaction history from every exchange and wallet, then import it so every lot carries what you paid and when. Tedious. Done once. Makes every future tax move precise instead of approximate.
+How far back you can reconstruct, and what you'll do about anything you can't.
 
+### Put it in Orange Plan
+
+Strategy → Tax → cost basis. Enter what you have, and flag the lots you can't prove.
+
+### You are done when
+
+Every lot has a basis you could show someone, or is flagged as unproven. No records means a basis of zero, which means tax on the entire sale price, so an unproven lot is a real number in your plan rather than a gap.
 
 
 ## 6.2 Taxable, tax-deferred, and Roth: bracket windows and state taxes
@@ -2576,15 +2603,15 @@ Named here, taught in the library, because it only becomes a real decision for s
 > audit. If moving is not on the table, the tax plan is complete without it.
 
 
-### Homework
+### Put it in Orange Plan
 
-Three steps:
+Strategy → Tax → Moves this year. Model one sale and read the tax it produces.
 
-- Sketch your income by age for the next 20 years. Rough is fine.
-- Mark the year the paychecks stop and the year forced income starts.
-- Find your lowest-income stretch in between. That's your bracket window.
+### You are done when
 
-Then look up your state's treatment of capital gains (regular income, special rate, or no tax) and estimate your realized-gain profile in the years you plan to sell. If the answer says "big lever," take it to a CPA who's done a real relocation before.
+You know which bucket your money sits in and roughly in what proportion, and you have either identified your low-income window or established you don't have one yet. A deliberate pass on this year's window is a real outcome.
+
+Then watch the walkthrough below this video, where we model it in Orange Plan.
 
 
 ## 6.5 Walkthrough: model it in Orange Plan
@@ -2882,12 +2909,17 @@ So the retirement-sized reserve gets built **before** the retirement date. Insid
 
 **Plan → Income → Income Blueprint** runs the gap table on your numbers. The module walkthrough builds it out.
 
-### Homework
+### Your decision
 
-1. Enter your retirement spending target and Social Security estimate. The app solves the gap, which is what the rest of the module works on.
-2. Don't know your floor? Pull your Social Security estimate this week at SSA.gov. It gives monthly and annual; the app takes monthly.
-3. Count both bridges, then multiply the Social Security one by your early-year gap.
-4. Look at your Bridge bucket and ask honestly whether it's sized for that number.
+Your spending number, your income floor, and both bridges.
+
+### Put it in Orange Plan
+
+Plan → Income → Income Blueprint. Enter the spending target and your Social Security estimate; the app solves the gap. It takes the estimate as a monthly number.
+
+### You are done when
+
+The gap is on screen, you've counted both bridges, and you've looked at your Bridge bucket and answered honestly whether it's sized for the Social Security bridge's price tag.
 
 
 ## 7.3 Set your withdrawal order and refill rule
@@ -3007,24 +3039,21 @@ That last rule is critical. Target stays 18 months. Refill pace adjusts to condi
 
 ### Your decision
 
-**The order you'll pull from, and the rule for refilling the reserve.**
+Your decision here is the order you'll pull from, and your rule for refilling the reserve.
 
-How to think about it:
+Understand what the default order actually costs you, because spending one bucket dry first hands you years of very low income that you never used, and then a much bigger bill later. So you're aiming to spread income evenly instead of stacking it, which means using your cheap years while you have them. Spend from the reserve, not directly from the volatile assets, so that a bad market never sets your paycheck. And set your refill rule by the type of year: refill fully in a good year, refill partially in a bad one, and never lower the target itself.
 
-1. **Understand what the default order costs you.** Spending one bucket dry first hands you years of very low income you never used, and then a much larger bill later.
-2. **Aim to spread income evenly instead of stacking it**, so you use your cheap years while you have them.
-3. **Spend from the reserve, not from the volatile assets**, so a bad market never sets your paycheck.
-4. **Set the refill rule by year type**: refill fully in a good year, refill partially in a bad one, and never lower the target itself.
+### Put it in Orange Plan
 
-### Homework
+Plan → Income → withdrawal order and refill rule.
 
-1. Set your withdrawal order in the app under **Plan → Income → Withdrawal order**, and apply it.
-2. Set your **Monthly build cap** under Cash Flow → Reserve settings to control refill pace.
-3. Say your refill rule out loud once, so future you doesn't renegotiate the build cap in a bad year.
+### You are done when
+
+The order is set, the refill rule is set, and you can say what each one does in a bad year without opening the app.
 
 
 ## 7.5 Guardrails: how much you can spend each year
-*`TEACH` · 835 words · ~6 min*
+*`TEACH` · ~1,224 words · ~8 min*
 
 **By the end of this lesson, you can:**
 
@@ -3035,83 +3064,95 @@ How to think about it:
 
 ---
 
-Your confidence number said the plan survives most futures. The guardrails turn that number into a paycheck every year.
+In today's lesson, we're going to cover the guardrails, which turn your confidence number into an actual paycheck you can adjust every year.
 
-### Why fixed withdrawals fail on Bitcoin
+Your confidence number told you the plan survives most futures. The guardrails are what turn that number into a spending decision, once a year, with rules you set in advance.
 
-While you're saving, order of returns barely matters. Only the average. Once you retire and start withdrawing, that changes.
+### Why fixed withdrawals fail on bitcoin
 
-A bad year early costs you far more than the same bad year late, even at an identical average. This is called **sequence-of-returns risk**, and a fixed withdrawal rule is completely blind to it.
+First, why the standard approach breaks.
 
-Two retirees, same starting portfolio, same spending, same 30-year average. One thrives. The other runs out of money. The only difference: one got bad years late, the other got them first. Selling more shares at low prices to fund the same spending permanently removes those shares.
+While you're saving, the order of your returns barely matters. Only the average does. But the day you retire and start withdrawing, that flips. A bad year early costs you far more than the same bad year late, even at an identical average. This is called sequence-of-returns risk, and a fixed withdrawal rule is completely blind to it.
 
-The classic 4% rule takes the same inflation-adjusted dollars out every year. Fine on a portfolio that moves 10-15% in a bad year. Point it at an asset that can drop 60% and the rule itself becomes the risk.
+> 🎬 **GRAPHIC: two portfolio lines from the same starting value. One takes its bad years early and never recovers; the other takes them late and survives. Same average return, different order.**
 
-Run it on the couple. 60, retired, portfolio $1,000,000, spending $80,000:
+Let's say we have two retirees. Same starting portfolio, same spending, same 30-year average return. One thrives, and one runs out of money. The only difference is that one got the bad years late and the other got them first. Because selling more shares at low prices to fund the same spending permanently removes those shares, and they're not there for the recovery.
 
-1. Bitcoin drops 60%. Portfolio: $400,000.
-2. Fixed rule says sell $80,000. That's 20% of everything they have left, at the bottom.
-3. Recovery takes two years. They do it again.
+The classic 4% rule takes the same inflation-adjusted dollars out every year no matter what. That's fine on a portfolio that moves 10 or 15% in a bad year. Point it at an asset that can drop 60%, and the rule itself becomes the risk.
 
-The whole problem lasts 1-3 years. You need a spending rule that flexes.
+Run it on the couple. They're 60, retired, with a $1,000,000 portfolio and $80,000 of spending. Bitcoin drops 60%, and the portfolio falls to $400,000. The fixed rule says sell $80,000 anyway. That's 20% of everything they have left, sold at the bottom. Recovery takes a couple of years, and the rule makes them do it again the next year.
+
+But the risk is usually most acute in the first few years. That's the window. And for this one, assume the whole $1,000,000 is riding on Bitcoin. So what you need is a spending rule that flexes during exactly those years.
 
 ### The 60/80/95 bands
 
-Once a year, run the simulation and read your confidence number. Every adjustment steers back toward 80%:
+Once a year, you run the simulation and read your confidence number. And every adjustment steers back toward 80%.
 
-- **Around 60. Lower guardrail.** Cut. Reduce spending until confidence comes back up toward 80.
-- **Around 80. Hold.** Inflation adjustment only.
-- **Around 95. Upper guardrail.** Raise. Increase spending until it settles back down toward 80.
+If confidence is down around 60, that's the lower guardrail. You cut. You reduce spending until confidence comes back up toward 80.
 
-Every change is capped at ±10% in either direction, and the cap is measured after inflation. The app applies the inflation adjustment every year, then caps the correction off that inflated number.
+If it's around 80, you hold. Inflation adjustment only, and you move on with your year.
 
-The 60, 80, 95 stops and the ±10% cap are the shipped defaults of Orange Plan's spending policy. You're reading it, not building it.
+If it's up around 95, that's the upper guardrail. You raise. You increase spending until it settles back toward 80.
+
+Every change is capped at 10% in either direction, and that cap is measured after inflation. So in a cut year the app inflates your number first, and then takes at most 10% off that.
+
+Where do these numbers come from? You're reading a policy the app runs, not building one from scratch.
 
 ### Cut or skip the raise, not both
 
-In a lower-guardrail year, you pick one:
+In a lower-guardrail year, you have to pick one of two moves.
 
-- **Take the 10% cut.** Bigger hit this year. From that new baseline you go right back to adding inflation adjustments every year.
-- **Skip this year's inflation adjustment.** Dollar spending stays flat. Feels lighter now. But that missed raise never gets made up, and every future year's paycheck is permanently lower.
+Option one is to take the 10% cut. It's a bigger hit this year, but from that new baseline you go right back to adding inflation adjustments every year.
 
-Prefer the cut. Take a bigger hit once, then let inflation compound back on schedule. Skipping the raise is a small, quiet leak that pulls down your spending for the rest of retirement.
+Option two is to skip this year's inflation adjustment. Your dollar spending stays flat, which feels lighter in the moment. But that missed raise never gets made up, and every future year's paycheck is permanently lower because of it.
 
-### The confidence number is really about timing
+I'd take the cut. Take a bigger hit once, then let inflation compound back on schedule. Skipping the raise is a small, quiet leak that pulls your spending down for the rest of retirement.
 
-When a plan fails at 80%, the cause is almost always the timing of one drawdown. A deep drop in year 2 does something a deep drop in year 15 doesn't. By year 15, the portfolio has grown past the withdrawals, so a bad year sets you back and you recover. In year 2, every dollar you spend comes out of a pile that's already shrinking, and it never gets back.
+And that's what the app's policy already does on its own. It applies inflation, then caps the cut at 10% of that inflated number. Skipping the raise is the manual alternative, and you'd be choosing it by hand.
 
-80% means 8 in 10 futures needed no changes. In the other 2, the plan survives only if you cut for a while. The confidence number is an early-warning signal, not a grade.
+### What the confidence number is telling you
+
+When a plan fails at 80% confidence, the cause is almost always the timing of one drawdown. A deep drop in year 2 does something a deep drop in year 15 doesn't.
+
+By year 15, the portfolio has grown past the withdrawals, so a bad year sets you back and you recover. In year 2, every dollar you spend is coming out of a pile that's already shrinking, and it never gets back.
+
+So 80% means 8 in 10 futures funded the plan as written. In the other 2, the plan fell short as written. A temporary cut is one of the first responses you test, but the score alone doesn't prove it rescues every path. That's why the guardrails exist. The confidence number is an early-warning signal, not a grade.
 
 ### Running the annual review on the couple
 
-1. **Crash happens.** Confidence at 61. Lower guardrail. Cut 10% of $80,000 = $8,000. Paycheck to $72,000 for 12 months.
-2. **Twelve months later, Bitcoin recovered.** Confidence at 83. Hold. Add inflation on top of $72,000.
-3. **If instead confidence came back at 96:** raise 10%. $72,000 + $7,000 ≈ $79,000. Walking spending back up.
+Let's run the couple through it.
 
-A 20-point fall gets a 10-point correction this year, and you look again next year. Keeps the paycheck stable instead of swinging with the market.
+A crash happens. At the annual review, confidence reads 61. That's the lower guardrail, so they cut 10% of $80,000, which is $8,000. The paycheck goes to $72,000 for the next 12 months. And that's the entire response. They didn't panic, they didn't go on a selling spree, they just made one adjustment and moved on.
 
-### Permission to spend
+12 months later, Bitcoin has recovered. Confidence reads 83. That's hold. They add inflation on top of the $72,000 and move on.
 
-Most retirees under-spend out of fear. The upper guardrail is the plan telling you, with math, that you can raise the paycheck.
+And if instead it had come back at 96, that's the upper guardrail: raise 10%, so $72,000 plus about $7,000 puts them back around $79,000, walking the spending back up.
+
+Notice the shape: a 20-point fall in confidence got a 10% spending cut this year, and you look again next year. That's what keeps the paycheck stable instead of swinging with the market.
+
+One more thing the upper guardrail does, and I think it's underrated: most retirees under-spend out of fear. The upper guardrail is the plan telling you, with math behind it, that you're allowed to raise the paycheck. That permission is worth a lot.
 
 ### Closing the loop with the reserve
 
-Reserve refill runs off the same annual review. For the couple, 18 months × $80,000 = $120,000 cash target.
+Last piece: the reserve refill runs off this same annual review. For the couple, the target is 18 months times $80,000, which is $120,000 of cash.
 
-- **Spending held or rose.** Refill fully.
-- **Spending got cut.** Refill only partway (~$80,000, or 12 of 18 months).
-- **The target itself stays 18 months.** A cut year slows refill, doesn't shrink the target.
+If spending held or rose, refill fully. If spending got cut, refill partway, to about 12 of the 18 months. And a bad market doesn't change the target. The target changes when your spending changes, when your income floor changes, or when you deliberately change the policy. A bad year changes only the refill pace.
 
-### Homework
+One thing to keep in mind: the guardrail concept and the 10% adjustment are adapted from published research. The 60, 80, and 95 confidence thresholds are Orange Plan defaults. They're a starting point for a conversation, not a rule you have to adopt. If you're working with a planner, this is a good page to bring them.
 
-Run the **50% drawdown after retirement** scenario on your own plan this week (Scenarios → What if...).
+### Your decision
 
-Two questions:
+Your guardrail policy: how much a bad year changes what you spend.
 
-1. Does the plan survive with the current reserve size?
-2. If not, how much bigger does the reserve need to be?
+### Put it in Orange Plan
 
-Those two answers price your reserve, in dollars, against the drawdown you're actually defending against.
+Plan → Retirement → guardrails.
+
+### You are done when
+
+Your policy is set and the app can tell you hold, raise or cut. You can say what a cut year actually looks like in your life, in dollars.
+
+Then watch the walkthrough below this video, where we build the paycheck in Orange Plan.
 
 
 ## 7.6 Walkthrough: build the paycheck in Orange Plan
@@ -3503,14 +3544,23 @@ The right setup is one you can maintain, explain, and recover from. If your fami
 
 You'll hear people say real Bitcoiners self-custody everything, immediately. That claim is wrong. You move up a level by earning it, with skill and with need, not with ideology.
 
-### Homework
+### Your decision
 
-- Score yourself on the five questions. For most people the answer is one or two.
-- Name the level you're at today and the level your amount and your family say you should be at. If those differ, that gap is the module's whole job.
-- For anything not self-custodied, count the institutions it sits in and ask whether that number matches what's at stake.
+Two decisions. Your honest score with the job each pile is doing. And which level you're going to run, including whether your custodial Bitcoin should sit at more than one institution.
+
+Match the level to what's at stake and what you can genuinely maintain, and remember a mismatch in either direction is the failure. Too little custody for the amount is the Celsius problem. Too much custody for your skill is the lost-seed problem.
+
+### Put it in Orange Plan
+
+Nothing in the app yet. This decision goes on your Family Custody Map, which the module walkthrough fills in.
+
+### You are done when
+
+You have an honest score on the five questions, a named job for each pile of Bitcoin, and the level you're going to run. A note is on your annual review to re-ask all of it at that year's balance, because the price moves and your setup doesn't.
+
 
 ## 8.2 Set up a hardware wallet and test recovery
-*`TEACH` · ~1,139 words · ~7 min*
+*`TEACH` · ~1,149 words · ~7 min*
 
 **By the end of this lesson, you can:**
 
@@ -3593,16 +3643,21 @@ So if something happens to you and your family doesn't know your PIN, that's fin
 
 That also means the reverse is true, and it's the part to take seriously: **protecting the PIN is not protecting your Bitcoin.** The seed phrase is the thing that needs the real protection.
 
-### Homework
+### Your decision
 
-Your homework for this lesson is to:
+Whether your recovery actually works, which is not a thing you can decide by believing it.
 
-1. If you've never done the wipe-and-restore, watch the demo lesson in this module and then actually do it, with a small test amount, before serious money is on the line.
-2. Check your own wallet for dust. If your buys have been trickling in small, set your sweep threshold now.
+### Put it in Orange Plan
+
+Nothing to enter. This one happens on a device.
+
+### You are done when
+
+You have wiped and restored from your backup, on a device, and watched the balance come back. Until that has happened, you have a hardware wallet and a hope.
 
 
 ## 8.3 Single points of failure, account hardening, and scams
-*`TEACH` · ~1,048 words · ~7 min*
+*`TEACH` · ~1,025 words · ~7 min*
 
 > ✅ **Fixed in course:** stale hand-off promised "advanced custody" next — that
 > material lives in 8.1; now points at the external demo.
@@ -3690,15 +3745,19 @@ If a call says your account is hacked, hang up and contact the provider yourself
 
 The common thread in every scam is urgency. Every scam needs you to act before you think. So when something feels urgent, close the app and slow down. That one habit catches scams you've never even seen before, because it doesn't need to recognize the scam. It just needs to notice the pressure.
 
-### Homework
+### Your decision
 
-Your homework for this lesson is to:
+Your one most expensive only-one, and the fix with a date on it.
 
-1. Make your own only-one list, all 9 questions.
-2. Pick the one at the top, ranked by cost of loss, and fix it this week. Not all nine. Just that one.
-3. Then watch the demo and the walkthrough below this video, where I set up a hardware wallet on screen and then we document your custody map in Orange Plan.
+### Put it in Orange Plan
 
-And one pointer before you go. If one lost seed, or one person you can't reach, could end your access, the advanced library compares the three ways to fix that: a passphrase, collaborative multisig, and running multisig yourself. Your custody plan is complete without them. That lesson is there for when the amount or the family situation says you need more.
+Protect → Security checklist for the hardening items, and Needs attention for the next one.
+
+### You are done when
+
+Your only-one list exists, the top item by cost of loss has a specific fix this week, and your account hardening is done: secured email, unique passwords, non-SMS two-factor, withdrawal delays on. One fix, not nine.
+
+Then watch the demo and the walkthrough below this video, where I set up a hardware wallet on screen and then we document your custody map in Orange Plan.
 
 
 ## 8.4 External demo: hardware wallet setup + exchange hardening
@@ -4057,60 +4116,23 @@ Most of hiring one is normal vetting: experience, fees, responsiveness. Four thi
 
 **The filter to weight heavily:** do they explain things in language your executor and your heirs will understand? You are not going to be the one sitting across from this attorney someday. Your spouse will be, and your executor will be, in the worst week of their lives.
 
-### Homework
+### Your decision
 
-- Get a simple will into existence now. An online path like FreeWill gets a real document out of your head and onto paper.
-- Have an attorney review it and supervise the signing. Execution formalities (witnesses, notarization) are state-specific.
-- Line up two or three estate-attorney candidates and take the question checklist into the meeting.
-- Ask your executor, out loud, whether they will do it, and confirm your beneficiary forms name who you actually intend. The form overrides the will.
+Who your executor is, and whether your beneficiary forms name who you actually intend.
 
+### Put it in Orange Plan
 
-### Now put it in the app
+Protect → Needs attention → Beneficiaries. Then mirror every one on the custodian's own form, because the institution holds the binding record.
 
-#### Step 5: Confirm beneficiaries
+### You are done when
 
-**Protect → "Needs attention" → "Beneficiaries" row → "Assign."**
+A will exists and an attorney has supervised the signing, your executor has been asked out loud, and your beneficiary forms match your intent on the custodian's system. The form overrides the will, so an out-of-date form quietly overrides everything else you just did.
 
-The why-line names the gap:
+If you're outside the US, the tests and the frameworks travel well but the legal containers don't. Map the concepts with a qualified local professional.
 
-> *"Accounts pass by beneficiary designation before the will. {n} accounts have no one named."*
-
-Panel rows show name · relationship · **allocation %** · **~$ of the estate.**
-
-Button **"Add beneficiary."**
-
-⚠ **Say the executor lesson's rule at this exact moment:** the beneficiary form overrides the will. Your **insurance policies** follow the same rule. The beneficiary form on the policy overrides anything the will says about death benefit.
-
-The panel's own copy tells you to update them at the source: *"then mirror it in each account's own beneficiary designation."* Orange Plan holds the intent, but the institution holds the binding record.
-
-#### Step 6: Walk the Executor Packet with the person who will run it
-
-This is the one lesson task that happens **off-app, in a room with another person.** The Executor Packet is the operations manual for whoever runs your estate. It only works if the executor has read it, agreed to it, and knows where it lives.
-
-> **Course toolkit. The Executor Packet** (PDF). Available under **Materials → 08 Executor Packet**. Print two copies. One for your files, one for the executor.
-
-Sit down with your executor (or a video call) and walk the packet section by section. The packet is designed to be read together the first time. Six sections, ~30 minutes:
-
-| Section | What you cover |
-|---|---|
-| **1 · Your role** | Run the process, not the specialties. Keep estate money in its own account. Distribute only after debts and taxes are settled. Nothing here is urgent. |
-| **2 · Your first week** | Locate documents · order 12 death certificates · open probate · notify the custody provider · loop in the CPA before any transfer · **secure, don't operate** · set the pace at weeks, not days |
-| **3 · The team** | Attorney · CPA · technical helper · custody provider · family point of contact. Blank rows are fine. the probate court or the custody provider's support can fill gaps later |
-| **4 · The Bitcoin process** | Never type or share recovery words · never accept unsolicited help · never move coins before the tax order is settled · never improvise |
-| **5 · Asset handling** | Bitcoin (custody first, date-of-death basis) · retirement accounts (beneficiary forms. do not liquidate) · bank/brokerage (Letters Testamentary, step-up basis, CPA before any sale) · insurance (claim direct with each carrier) · the Orange Plan plan (open with the family first) |
-| **6 · Acceptance** | Two signature lines: executor + preparer. Both sign in the room. |
-
-⚠ **The Acceptance page is the point of walking through the packet together.** Section 6 says: *"I accept the role described in this packet. I know where this packet, the will, the Heir Letter, and the Custody Map are stored. I know who to call first, and that nothing is urgent. We've walked through this packet together at least once."* An executor who signed this has been briefed and knows where the documents live. An executor who didn't sign hasn't been briefed at all.
-
-⚠ **The three toolkit documents live together.** Executor Packet + Heir Letter + Family Custody Map. One folder, one location, and the executor knows where it is. The packet references the other two by name in section 2.
-
-Set the review date on the footer: *"Review at each annual review (Module 9)."*
-
-
-Your executor is named and briefed, and the forms match the will.
 
 ## 9.2 Split access: dual control and redundancy
-*`TEACH` · ~1,608 words · ~10 min*
+*`TEACH` · ~1,572 words · ~10 min*
 
 > ✅ **SAFETY REWRITE (2026-08-08).** The old lesson claimed a seed + passphrase
 > split gave "no single point of failure" and that half of it left the plan
@@ -4214,15 +4236,13 @@ Your decision out of this lesson is who holds what, and which of the two tests y
 
 Design for the custody level you actually have, not the one you'd like to have, because an access plan built on a setup you haven't finished isn't a plan. Pick people who don't share a household, a safe, or a bad week. Choose for reliability over technical skill, since the process is written down and the person mainly has to follow it and be findable. And assume neither person goes rogue, while planning as if one might.
 
-### Homework
+### Put it in Orange Plan
 
-Your homework for this lesson is to:
+Nothing to type. This design goes on your Family Custody Map, and the module walkthrough confirms it against both tests on camera.
 
-1. Name the person holding each piece, and write down where each piece lives.
-2. Answer both tests in writing. Can one person spend alone? Can one lost copy or one unreachable person stop recovery? Write down the answer you don't like, because that's the one you'll otherwise forget you chose.
-3. If you failed test two, fix it first. Back up each piece on its own side before you do anything else. A loss you caused yourself is far more likely than a betrayal.
-4. Run the test with a small amount, start to finish, so you know it actually works.
-5. Confirm afterwards that the pieces are still in separate places, and that they were never written down together.
+### You are done when
+
+You can name who holds each piece and where it lives, you have answered both tests in writing including the one your design fails, and you have run the whole thing with a small amount on a spare device. If you failed test two, you fixed it first: a loss you caused yourself is far more likely than a betrayal.
 
 
 ## 9.3 The heir letter and the dead man's switch
@@ -4300,206 +4320,21 @@ Same rule as the letter: the process, never the secrets.
 
 The Estate Plan Maps are yours to fill in: who holds what, where it's stored, and "alone, nothing" written on every piece. That filled-in map becomes your agenda for sitting your family down. Walk them through it once, at the process level, while you're still around to answer questions. That way, the letter isn't the first time they've heard any of it.
 
-### Homework
-
-Write the first two lines of your letter tonight: the first phone call, and the first mistake to avoid. The rest of the letter follows naturally from those.
-
-
-So let us write it. The app holds the record and enforces the no-secrets rule on screen while you type.
-
-> 🎥 **SCREEN SHARE STARTS HERE — capture segment 9.3-B.** Everything above is teleprompter A-roll (segment 9.3-A); everything below is screen capture. This heading is the edit cut point.
-
-### Now put it in the app
-
-### Pre-flight. Two hard requirements
-
-⚠ **Storage mode must be Cloud.** In Local Only the switch cannot arm; the panel replaces itself with *"Automatic check-in emails require cloud sync. Heir letter, beneficiaries, and the checklist still work locally."* Flip it at Settings → Data & Privacy → "Data & backups" → **"Data Privacy"** panel → mode **"Cloud."**
-
-⚠ **At least one emergency contact with an email must exist**, or the switch's action reads **"Add contact to activate"** instead of **"Turn on,"** and attempting to check in throws *"Add an emergency contact first."*
-
-Insurance doesn't live in the app. Protect shows an **"Insurance coverage · Coming soon"** row. The Coverage Audit worksheet from the insurance lesson stays your system of record for policies.
-
-#### Step 1: Start the heir letter. Contacts first
-
-**Protect → "Needs attention" → "Heir letter" row → "Finish."**
-
-The panel lists four status rows:
-
-| Row | Renders as |
-|---|---|
-| **Emergency contacts** | Added / Missing |
-| **Executor** | Named / Missing |
-| **Letter content** | Written / Missing |
-| **PDF saved** | Yes / Not yet |
-
-**"Emergency contacts" → "Edit"** opens the contacts dialog. Button **"Add another contact,"** save is **"Save contacts."**
-
-⚠ **The executor you actually asked goes in here.** An executor who hasn't been told they're the executor can't do the job. If you haven't had the conversation yet, don't fill this row until you have.
-
-⚠ **"Letter content" stays Missing until you customize it.** The app is explicit: *"Template text does not count until you customize it."* You can save a template-shaped draft and this row still reads Missing. That's intentional.
-
-#### Step 2: Write the letter. With the rule on screen
-
-> **Course toolkit. The Heir Letter** (PDF). Available under **Materials → 06 The Heir Letter**. The template mirrors the app dialog section for section, and adds the two things the app can't hold: an opening line to the family, and a **"From me to you"** section at the end in your own words. Fill the dialog for the app's record; save the PDF for the family.
-
-Keep both in mind while you type. The app enforces the no-secrets rule with a red banner. The PDF enforces it with a header labeled *"NEVER IN THIS LETTER."* Read them once, then work section by section.
-
-**Same panel → any "Edit" link → dialog "Edit heir letter."**
-
-The **red banner at the top of the dialog is your script. Read it verbatim:**
-
-> **"NEVER include seed phrases, private keys, passwords, or PINs in this letter. It may be read by multiple people. Only describe what exists and who to contact."**
-
-The dialog has three sections:
-
-**"Key contacts"**. Executor · Estate Attorney · CPA / Tax Advisor · Bitcoin Advisor. Each row: Full name / phone / email / firm.
-
-⚠ **These "Key contacts" are separate from "Emergency contacts."** Emergency contacts are the switch's recipients (Step 4). Key contacts are the letter's professionals. Both lists are required.
-
-**"Where to begin"**. One field, with its own guardrail: *"Never list where keys or recovery material are stored."* Describe where the **documents** live, not where the keys are.
-
-**"Your letter"**. The main textarea. This is where the first two lines you drafted earlier in this lesson go.
-
-Footer note: *"store it with your important documents. Separate from your seed phrases and hardware wallets."*
-
-Check **"Letter downloaded or printed"** when done.
-
-Back in the panel: **"PDF saved" row → "Download PDF"**. Toast **"Heir letter PDF downloaded."**
-
-#### Step 3: AI · "Draft with AI"
-
-**Protect → "Heir letter" panel → sub-heading "Heir letter assistant" → button "Draft with AI."**
-
-The button carries its own guardrail line: *"Uses your saved plan inventory and asks one question at a time. No seed words, passwords, or backup contents."* The app tells the learner the rule, so you don't have to.
-
-**It reads:** your protection plan, your accounts, holdings and debts, the heir-letter state, and the dead-man-switch state.
-
-**It asks:** *"Does one trusted person know where to find the non-secret instructions and who to contact if you cannot act?"*
-
-Click, then **stop typing** while it drafts. Read one line back to yourself and ask whether it's true for your family. The first two lines are still yours to write.
-
-**When to run it:** when the blank page is what's stopping you. It drafts the inventory and the call order, never the secrets.
-
-**What it isn't:** it drafts and explains. It does not decide. Your estate attorney still reviews the letter.
-
-
-The letter exists and the PDF is saved. Now the piece that makes sure anyone ever opens it.
-
-*`TEACH + APP` · 714 words · ~3 min*
-
-**By the end of this lesson, you can:**
-
-- Understand what a dead man's switch is and why the plan needs one
-- Set up a 90-day check-in cadence
-- Understand why the switch never carries secrets
-
----
-The **dead man's switch** is the piece that makes sure your plan actually gets delivered.
-
-Everything else in the module is passive: the documents sit in a file, the letter sits wherever you put it, and the split works. But only once somebody starts using it. Starting depends on a person remembering, on the worst day of their life, that a plan exists.
-
-A dead man's switch is a scheduled check-in. You confirm you're alive on a set interval. If you stop confirming, the system sends your heir letter to the people you named, without anyone having to remember. Delivery no longer depends on your family remembering.
-
-Anthony Park's line: heirs are unmotivated learners. They don't study the plan while you're alive, and they may not remember where you filed it. Any plan whose first step depends on someone remembering has a missing step.
-
-### The failure it covers
-
-The split is set. His wife holds the seed. Her brother holds the passphrase. The letter is written. Everything works.
-
-He has a heart attack on a Tuesday in a hotel in Denver.
-
-- His wife knows there's Bitcoin.
-- She doesn't know her brother is holding half the access.
-- Her brother doesn't know he's supposed to do anything.
-- The letter is in a file in the office.
-
-Nothing lost, nothing stolen. Eleven weeks go by, and nothing happens, because nobody knows to start.
-
-### The four steps
-
-1. **He checks in.** 90 days by default. Takes seconds.
-2. **He misses the window.** The system waits, follows up, then triggers.
-3. **The heir letter goes out** to the people he named. His wife and her brother.
-4. **Both are holding the same set of instructions on the same day.** She knows to call him. He knows she's calling.
-
-Instead of eleven weeks of nothing, they get one afternoon of phone calls.
-
-### What it is and isn't
-
-- **It's a backup communication layer.** Buys your family time and direction.
-- **It carries no secrets.** Seeds, keys, and passphrases never live in the switch. It only delivers the instructions.
-- **It's not a replacement for legal documents or a tested access split.** The documents and the split still do the real work. The switch makes sure that work begins.
-
-### Why 90 days
-
-- 90 days is long enough that a vacation or a hospital stay won't false-trigger it.
-- 90 days is short enough that your family isn't in the dark for a year.
-
-Four check-ins a year sets a hard limit on how long your family can be left guessing.
-
-### Where the app fits
-
-Orange Plan ships with the switch, default check-in is 90 days. It needs the app in **cloud mode**, because the email has to send on your behalf while you're not there. A local-only setup can't do that.
-
-### Three pieces work together
-
-- **Documents** give the process legal weight.
-- **The split** makes it possible for two people to act.
-- **The switch** ensures the process actually begins.
-
-
-So let us arm it.
-
-> 🎥 **SCREEN SHARE STARTS HERE — capture segment 9.4-B.** Everything above is teleprompter A-roll (segment 9.4-A); everything below is screen capture. This heading is the edit cut point.
-
-### Now put it in the app
-
-#### Step 4: Arm the 90-day switch
-
-**Protect → "Needs attention" → "Dead man's switch" row → "Turn on."**
-
-Panel line:
-
-> *"If you don't check in for 90 days, {n} emergency contacts will be emailed. The email contains your non-sensitive heir-letter summary, never secrets."*
-
-**Check-in interval**. 30 / 60 / 90 / 180 days. **Default 90.**
-
-Caption below: *"Urgent follow-up goes out at 180 days."*
-
-Dates: **"Last check-in" · "Days since last check-in" · "Next due."**
-
-Button reads **"Turn on with a first check-in"** the first time, **"Check in"** after.
-
-Also on this panel: **"Edit contacts"** (recipients live here. No separate picker inside the switch) · **"Send test"** · **"Turn off."**
-
-⚠ **Only contacts with an email count as recipients.** Phone-only contacts don't receive the check-in email.
-
-Once armed, the row moves to **"In place"** and reads **"warns at 90 days · {n} contacts"** with status **"{n} days left."**
-
-The switch makes sure someone starts. It's a trigger that tells your executor to open the letter, not a replacement for the documents or a tested access split.
-
-
 ### Your decision
 
-**Whether to arm the switch, and who gets contacted.**
+Whether to arm the switch, and who gets contacted.
 
-How to think about it:
+### Put it in Orange Plan
 
-1. **Understand what it's for.** Everything else in this module sits still until a person decides to start. The switch is what makes someone start.
-2. **Pick contacts who will act, not just care.** The right list is the executor plus whoever needs to know the letter exists.
-3. **Tell them in advance.** A message that arrives with no context reads like a scam, and the first instinct will be to ignore it.
-4. **Treat the check-in as the point, not the chore.** Confirming you're alive every 90 days is what keeps the whole thing armed.
+Protect → Needs attention → Heir letter, then the Dead man's switch row.
 
-### Homework
+### You are done when
 
-1. Decide whether you're arming it. If your access split is documented, the answer is usually yes.
-2. Add your contacts and arm it in the app.
-3. Tell every contact it exists and what to do if it ever fires.
+The first two lines of your letter are written in your own words, the PDF is saved somewhere separate from your seeds and devices, and the switch is armed with recipients who have been told in advance that it exists.
 
-Documents, split, and switch are all in place.
 
 ## 9.4 Insurance: term life, disability, umbrella, and when to stop
-*`TEACH` · 1,090 words · ~5 min*
+*`TEACH` · ~1,191 words · ~8 min*
 
 **By the end of this lesson, you can:**
 
@@ -4509,83 +4344,74 @@ Documents, split, and switch are all in place.
 - Run the graduation review each year
 
 ---
-Your stack already self-insures the small stuff. The reserve from earlier in the course. Insurance covers the part the stack can't cover yet: the difference between what your family needs and what the stack already provides.
 
-Early on, that gap is huge, and insurance covers it cheaply. As the stack compounds, the gap shrinks, and your coverage can shrink with it.
+In today's lesson, we're going to cover insurance, specifically the risks your stack can't cover yet.
 
-Insurance is protection you rent until the stack can carry the weight itself, not something you carry forever.
+Your stack already self-insures the small stuff. That's what the reserve from earlier in the course is doing. Insurance covers the part the stack can't cover yet, which is the difference between what your family needs and what the stack already provides.
+
+Early on, that gap is huge, and insurance covers it cheaply. As the stack compounds, the gap shrinks, and your coverage can shrink with it. So the way I think about insurance is: it's protection you rent until the stack can carry the weight itself. It's not something you carry forever.
 
 ### Sizing the gap
 
-Run the Denver scenario forward one year. He's gone, and his $150,000 income went with him. She earns $40,000. They spend $80,000. Two kids, a mortgage.
+Let's size the gap by running the Denver scenario forward 1 year. He's gone, and his $150,000 income went with him. She earns $40,000. They spend $80,000. Two kids and a mortgage.
 
-$80,000 spending - $40,000 income = **$40,000/yr hole** in a plan that was working fine a week ago.
+$80,000 of living spending plus $22,000 of debt payments is $102,000 they still have to cover. Minus her $40,000 of income, that's a $62,000-a-year hole, in a plan that was working fine a week ago. That hole is what insurance is for.
 
-### The pieces, in order of importance
+### Term life: the anchor
 
-#### 1. Term life (the anchor)
+The anchor product is term life. It covers you for a set number of years, 20 or 30, at a fixed premium. If you die inside the window, it pays your beneficiaries a fixed amount, and that payout is currently free of income tax under US law. If you don't die, it expires and pays nothing. And that's fine, because it's the cheapest coverage per dollar of protection you can buy.
 
-Covers you for a set number of years (20, 30). Fixed premium. If you die inside the window, it pays your beneficiaries a fixed amount (currently free of income tax under US law). If you don't, it expires and pays nothing.
+The standard rule of thumb is 10 times income, which for him would be $1.5 million. But that number was built for a household with no Bitcoin. So let's do the math against their actual plan instead.
 
-It's the cheapest coverage per dollar of protection you can buy.
+Step one: the annual hole is $62,000. Step two: the years to cover. She's 43, and they're covering to 65, so that's 22 years. $62,000 times 22 is $1,364,000. Step three: subtract what the stack already covers, which is $175,000. That leaves about $1.19 million.
 
-Rule of thumb: 10 times income. For him, $1.5M. But that number was built for a household with no Bitcoin.
+So the $1.5 million rule of thumb is about $300,000 higher than the gap they actually have, and that's a real difference in premium, every month, for 22 years.
 
-Do the math against their actual plan:
+And what makes this Bitcoin-specific is that if the stack does what they're planning for, that $1.19 million need shrinks every year without them buying or cancelling anything. That's the case for laddering, which is stacking terms, a longer base policy and a shorter top-up, so your coverage steps down as the stack steps up.
 
-1. **Annual hole:** $40,000.
-2. **Years to cover:** she's 43, covering to 65 = 22 years. $62,000 × 22 = **$1,364,000**.
-3. **Subtract what the stack already covers:** $175,000. $1,364,000 - $175,000 = **~$1.19M**.
+One thing about timing. Term life is underwritten on your current health and priced by your age, so every year of waiting makes it more expensive. If a family depends on you and you're holding no coverage, I'd treat this as a this-month item, not a someday item.
 
-The rule of thumb was off by more than double. A real difference in premium every month, for 22 years.
+And one warning, because Bitcoiners get targeted hard with this: the permanent-life pitch. "Infinite banking," "be your own bank." My honest read is that permanent products bundle insurance together with a low-yield savings component, at a much higher cost. And for a Bitcoiner, that bundle is charging you a premium to hold a savings vehicle you already replaced with a better one. If a pitch leans on the word "bank," slow down and compare the actual numbers.
 
-If the stack does what they're planning for, the $700,000 shrinks every year without them buying or cancelling anything. That's the case for **laddering**: stacking terms (a longer base and a shorter top-up) so your coverage steps down as the stack steps up.
+### Disability
 
-**Timing on term.** Term-life is underwritten based on your current health and priced by your age. Every year of waiting makes it more expensive. If a family depends on you and you're holding no coverage, treat this as a this-month item.
+The second piece is disability, and it's under-owned by almost everyone. During your working years, you're statistically more likely to become disabled than to die. And it hits the plan in two places at once: your income stops, and the surplus flywheel stops with it.
 
-**The pitch to expect.** Bitcoiners get targeted hard with permanent-life products ("infinite banking," "be your own bank"). Honest read: permanent products bundle insurance with a low-yield savings component at a much higher cost. For a Bitcoiner, that bundle charges you a premium to hold a savings vehicle you already replaced with a better one. If a pitch leans on the word "bank," slow down and compare the numbers.
+Employer coverage is often around 60%, which sounds like $90,000 for him. But take the cap and the tax off first. Group policies usually cap the monthly benefit, and if the employer paid the premium, the benefit is taxable. So what actually lands might be closer to $50,000. Add her $40,000, and they've got $90,000 against $102,000 of all-in household outflow. So they're still about $12,000 short on this rough pass, and the real comparison needs both numbers stated after tax.
 
-#### 2. Disability
+They cover most of it, but they're still about $12,000 short on this rough pass. They'd have to cut spending, add supplemental coverage, or pull the difference from the reserve. And notice what else happened: they stopped buying Bitcoin. The plan didn't die, but it stopped growing.
 
-During your working years, you're statistically more likely to become disabled than to die. It hits the plan in two places: your income stops, and the surplus flywheel stops with it.
+Two things to go find out about your own policy. First, what it actually pays, after the cap and the tax. And second, how it defines disability. Own-occupation pays if you can't do your job. Any-occupation only pays if you can't do any job at all, which is a much higher bar. If the gap is real, price a supplement.
 
-Employer coverage is often ~60%. Sounds like $90,000 for him. Take the cap and tax off. Group policies usually cap the monthly benefit, and if the employer paid the premium, the benefit is taxable. What actually lands might be closer to $50,000. Add her $40,000 = $90,000 against $80,000 of spending.
+### Umbrella coverage
 
-They survive on that income, but they stop buying Bitcoin.
+The third piece is umbrella coverage. Your home and auto policies each carry a liability limit, and umbrella sits on top and picks up where they stop.
 
-Two things to find out:
+It matters for this audience because a liability lawsuit doesn't care that your wealth is sitting in Bitcoin. A judgment above your auto limit comes out of everything else you own. Umbrella runs a few hundred dollars a year per million of coverage, and the case for it gets stronger if you're publicly known as a Bitcoiner.
 
-- What your policy actually pays.
-- How it defines disability. **Own-occupation** pays if you can't do *your* job. **Any-occupation** only pays if you can't do *any* job.
+### Long-term care
 
-If the gap is real, price a supplement. Disability coverage is under-owned by most households.
+The fourth piece is long-term care, and my honest advice here is: name it and park it. It's a real risk, but the products in this space are imperfect, and self-insuring through the stack is legitimate if the stack is large enough by then. The decision window is your 50s and 60s. So at 45, it's an annual review item, not an action item.
 
-#### 3. Umbrella coverage
+### The audit and the graduation review
 
-Home and auto policies each carry a liability limit. Umbrella sits on top and picks up where they stop. A liability lawsuit doesn't care that your wealth is sitting in Bitcoin. A judgment above your auto limit comes out of everything else you own.
+Pull it together with a coverage audit: every risk, your current coverage, what the stack could absorb, and the gap. One app note: Orange Plan doesn't currently track individual policies, that's marked coming soon. What the app does hold is your beneficiaries, and remember the rule from the executor lesson: policy beneficiary forms override everything. So the names on your policies need to match the names in your estate plan, and both get checked every year.
 
-Runs a few hundred dollars a year per million of coverage, and protects the asset side of your balance sheet. Case gets stronger if you're a known Bitcoiner.
+And then, once a year, run what I call the graduation review. Ask: has the stack grown enough to shrink a coverage? When the answer is yes, cancel deliberately. On the review, in writing. Never by accidentally lapsing a payment. The graduation review is what turns coverage you've outgrown back into surplus you can put to work.
 
-#### 4. Long-term care
+### Your decision
 
-Name it, park it. A real risk, but products in this space are imperfect. Self-insuring through the stack is legitimate if the stack is large enough by then. The decision window is your 50s and 60s. Annual review at 45, not on the action list.
+Your coverage gap, as a number.
 
-### The Coverage Audit worksheet
+### Put it in Orange Plan
 
-Every risk, your current coverage, what the stack could absorb, the gap, and the graduation check. Orange Plan doesn't currently track individual policies (marked "Coming soon"). The app does hold your beneficiaries. **Policy beneficiary forms override everything.** Names on your policies match names in your estate plan, both checked every year.
+Nothing in the app. Protect shows Insurance coverage as Coming soon, so the Coverage Audit worksheet stays your record.
 
-### The graduation review
+### You are done when
 
-Once a year: has the stack grown enough to shrink a coverage?
+You have a life number and a disability number from the same subtraction, and both have gone to a licensed professional if they needed to. None of this is a product recommendation, and the actual coverage runs through them.
 
-When the answer is yes, cancel deliberately. On the review, in writing. Never by accidentally lapsing a payment. The graduation review turns coverage you've outgrown back into surplus you can put to better use.
-
-### Homework
-
-Run the subtraction on your own household. Annual hole × years to cover minus stack. Then run it again for a disability scenario: your income stopping while your spending doesn't. Those two numbers size your coverage.
-
-None of this is a product recommendation. Actual coverage runs through a licensed insurance professional.
-
+Then watch the module walkthrough below this video, where we complete the Protect queue, write the letter, and arm the switch.
 
 
 ## 9.5 Walkthrough: Protect, the heir letter, and the switch
@@ -4710,22 +4536,15 @@ A long to-do list is the single biggest reason these reviews stop happening. You
 
 ### Your decision
 
-**Your two review dates.**
+Your decision out of this lesson is your two review dates. Pick a specific recurring day for the monthly one, because "first Saturday" survives and "beginning of the month" doesn't, and put the annual one in November. Then protect the boundary between them: if something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
 
-How to think about it:
+### Put it in Orange Plan
 
-1. **Separate the two jobs.** The monthly pass catches facts going stale. The annual pass asks whether decisions still fit. Mixing them turns every month into a rebuild.
-2. **Pick a specific recurring day for the monthly one.** "First Saturday" survives. "Beginning of the month" doesn't.
-3. **Put the annual one in November**, ahead of the December 31 tax deadline.
-4. **Protect the boundary.** If something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
+Your calendar, not the app. There is no in-app scheduler: a specific recurring day for the monthly pass, and November for the annual review.
 
-### Homework
+### You are done when
 
-1. Pick a specific day for your monthly pass and put November on the calendar for your annual review. Both as recurring events, right now.
-2. Decide what you will not touch during a monthly pass, and hold that line when the price is moving.
-3. Hold the three-action cap. More than three and none of them get finished.
-4. Then watch the module walkthrough, where we run the monthly pass on a timer and then the full annual lap.
-
+Both dates are recurring events you can see, and you have written down what you will not touch during a monthly pass. That second one is what holds the line when the price is moving.
 
 
 ## 10.2 Test a decision and read the finished plan
@@ -4862,14 +4681,19 @@ In all three you're handing a professional a document, not asking them to log in
 
 You started this course with accounts scattered everywhere and a rough guess. You're finishing with a document your family can read, your CPA can act on, and next-year-you can be measured against. That finished document is what a financial plan actually is.
 
-### Homework
+### Your decision
 
-1. Save one stress test, a deep drawdown right after your retirement year, and run the Monte Carlo on it.
-2. Save one choice you're genuinely weighing, built as a single-variable scenario.
-3. Answer the stress test out loud: would you still be okay? If no, build the lever you'd pull as its own scenario and see whether it fixes it.
-4. Read your own report in the four-question order, answer each question out loud in one sentence, and run the six red flags against it.
-5. Then watch the module walkthrough, where we build both scenarios, walk the full report, and save this year's PDF.
+Two scenarios worth keeping, and what your own report says in four sentences.
 
+### Put it in Orange Plan
+
+Scenarios → save a deep drawdown right after your retirement year and one choice you're genuinely weighing, then run the Monte Carlo on both.
+
+### You are done when
+
+You have answered the stress test out loud, read your own report in question order, and saved this year's PDF with the year in the filename. If the stress test came back no, you built the lever you'd pull as its own scenario and checked whether it actually fixes it.
+
+Then watch the module walkthrough below this video, where we build both scenarios, walk the report, and save the PDF.
 
 
 ## 10.3 Walkthrough: annual review, scenarios, and your report

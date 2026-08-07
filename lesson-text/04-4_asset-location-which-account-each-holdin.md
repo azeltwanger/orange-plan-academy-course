@@ -21,8 +21,16 @@ Three tax wrappers; the same dollar behaves differently in each. **Principle: hi
 
 Location sets your retirement withdrawal order: Roth drawn last, Traditional fills low brackets first, taxable in the middle. Bitcoin in a Roth opens tax-free paycheck options that all-taxable Bitcoin can't.
 
-## Homework
+## Your decision
 
-1. Check each account: is the asset right for the wrapper? (Cash in Roth → out. Bonds in Roth → Traditional. Growth in taxable ↔ bonds in Roth → swap.)
-2. If your Bitcoin is all taxable and you have Roth room, decide on a small ETF slice.
-3. Re-ask yearly and at every rebalance.
+Which holding belongs in which wrapper.
+
+## Put it in Orange Plan
+
+Strategy → Allocation → account holdings. Move holdings so the tax-inefficient ones sit in the sheltered accounts.
+
+## You are done when
+
+Every account's contents match the job of the wrapper it's in, and you can give the reason for each one.
+
+Then watch the walkthrough below this video, where we route it in Orange Plan.

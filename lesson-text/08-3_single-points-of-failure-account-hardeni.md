@@ -29,8 +29,16 @@ One better: a **hardware security key**: bound to the real site's address, so ph
 
 "Your account is hacked" call → hang up, contact the provider yourself. Guaranteed returns are a scam. **Urgency is the common thread**: every scam needs you to act before you think. When something feels urgent, close the app and slow down.
 
-## Homework
+## Your decision
 
-1. Make your only-one list (all nine).
-2. Fix just the top one this week.
-3. Watch the demo below for the on-screen setup + hardening.
+Your one most expensive only-one, and the fix with a date on it.
+
+## Put it in Orange Plan
+
+Protect → Security checklist for the hardening items, and Needs attention for the next one.
+
+## You are done when
+
+Your only-one list exists, the top item by cost of loss has a specific fix this week, and your account hardening is done: secured email, unique passwords, non-SMS two-factor, withdrawal delays on. One fix, not nine.
+
+Then watch the demo and the walkthrough below this video, where I set up a hardware wallet on screen and then we document your custody map in Orange Plan.

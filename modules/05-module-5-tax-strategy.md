@@ -78,10 +78,17 @@ If there's no basis at all, the gain gets treated as the entire sale price.
 
 On the 0.25 BTC sale above: $10,000 of real gain becomes $25,000 of gain, because the whole sale price counts. At 15%, a $1,500 bill turns into $3,750. Purely for missing a record.
 
-### Homework
+### Your decision
 
-Pull your full transaction history from every exchange and wallet, then import it so every lot carries what you paid and when. Tedious. Done once. Makes every future tax move precise instead of approximate.
+How far back you can reconstruct, and what you'll do about anything you can't.
 
+### Put it in Orange Plan
+
+Strategy → Tax → cost basis. Enter what you have, and flag the lots you can't prove.
+
+### You are done when
+
+Every lot has a basis you could show someone, or is flagged as unproven. No records means a basis of zero, which means tax on the entire sale price, so an unproven lot is a real number in your plan rather than a gap.
 
 
 ## 6.2 Taxable, tax-deferred, and Roth: bracket windows and state taxes
@@ -198,15 +205,15 @@ Named here, taught in the library, because it only becomes a real decision for s
 > audit. If moving is not on the table, the tax plan is complete without it.
 
 
-### Homework
+### Put it in Orange Plan
 
-Three steps:
+Strategy → Tax → Moves this year. Model one sale and read the tax it produces.
 
-- Sketch your income by age for the next 20 years. Rough is fine.
-- Mark the year the paychecks stop and the year forced income starts.
-- Find your lowest-income stretch in between. That's your bracket window.
+### You are done when
 
-Then look up your state's treatment of capital gains (regular income, special rate, or no tax) and estimate your realized-gain profile in the years you plan to sell. If the answer says "big lever," take it to a CPA who's done a real relocation before.
+You know which bucket your money sits in and roughly in what proportion, and you have either identified your low-income window or established you don't have one yet. A deliberate pass on this year's window is a real outcome.
+
+Then watch the walkthrough below this video, where we model it in Orange Plan.
 
 
 ## 6.5 Walkthrough: model it in Orange Plan

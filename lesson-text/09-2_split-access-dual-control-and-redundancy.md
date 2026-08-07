@@ -58,17 +58,14 @@ Look at what that builds. If the two people trust each other, together they have
 
 ## Your decision
 
-**Who holds what, and which of the two tests your design passes.**
+Your decision out of this lesson is who holds what, and which of the two tests your design passes.
 
-1. Design for the custody level you actually have. An access plan built on a setup you have not finished is not a plan.
-2. Pick people who do not share a household, a safe, or a bad week.
-3. Choose for reliability over technical skill. The process is written down; the person mainly has to follow it and be findable.
-4. Assume neither person goes rogue, and plan as if one might.
+Design for the custody level you actually have, not the one you'd like to have, because an access plan built on a setup you haven't finished isn't a plan. Pick people who don't share a household, a safe, or a bad week. Choose for reliability over technical skill, since the process is written down and the person mainly has to follow it and be findable. And assume neither person goes rogue, while planning as if one might.
 
-## Homework
+## Put it in Orange Plan
 
-1. Name the person holding each piece, and write down where each piece lives.
-2. Answer both tests in writing. Write down the answer you do not like, because that is the one you will otherwise forget you chose.
-3. If you failed test 2, fix it first. A loss you caused yourself is far more likely than a betrayal.
-4. Run the test with a small amount, start to finish.
-5. Confirm afterwards that the pieces are still in separate places, and were never written down together.
+Nothing to type. This design goes on your Family Custody Map, and the module walkthrough confirms it against both tests on camera.
+
+## You are done when
+
+You can name who holds each piece and where it lives, you have answered both tests in writing including the one your design fails, and you have run the whole thing with a small amount on a spare device. If you failed test two, you fixed it first: a loss you caused yourself is far more likely than a betrayal.

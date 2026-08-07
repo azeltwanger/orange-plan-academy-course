@@ -91,10 +91,10 @@ Two decisions. Your honest score with the job each pile is doing. And which leve
 
 Match the level to what's at stake and what you can genuinely maintain, and remember a mismatch in either direction is the failure. Too little custody for the amount is the Celsius problem. Too much custody for your skill is the lost-seed problem.
 
-== HOMEWORK ==
+== PUT IT IN ORANGE PLAN ==
 
-Your homework for this lesson is to:
+Nothing in the app yet. This decision goes on your Family Custody Map, which the module walkthrough fills in.
 
-1. Score yourself on the 5 questions, and name the job each pile of Bitcoin is doing. For most people the score comes out at one or two.
-2. Name the level you're at today, and the level your amount and your family say you should be at. If those differ, name the one thing that closes the gap.
-3. Put a note on your annual review to re-ask all of this at that year's balance, because the price moves and your setup doesn't.
+== YOU ARE DONE WHEN ==
+
+You have an honest score on the five questions, a named job for each pile of Bitcoin, and the level you're going to run. A note is on your annual review to re-ask all of it at that year's balance, because the price moves and your setup doesn't.

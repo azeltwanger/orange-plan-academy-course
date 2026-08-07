@@ -77,12 +77,16 @@ You're also not the only reader. It's the agenda for a twenty-minute sit-down wi
 
 You started this course with accounts scattered everywhere and a rough guess. You're finishing with a document your family can read, your CPA can act on, and next-year-you can be measured against. That finished document is what a financial plan actually is.
 
-== HOMEWORK ==
+== YOUR DECISION ==
 
-Your homework for this lesson is to:
+Two scenarios worth keeping, and what your own report says in four sentences.
 
-1. Save one stress test, a deep drawdown right after your retirement year, and run the Monte Carlo on it.
-2. Save one choice you're genuinely weighing, built as a single-variable scenario.
-3. Answer the stress test out loud. Would you still be okay? If the answer is no, build the lever you'd pull as its own scenario and see whether it actually fixes it.
-4. Read your own report in the four-question order, answer each question out loud in one sentence, and run the six red flags against it.
-5. Then watch the walkthrough below this video, where we build both scenarios, walk the full report, and save this year's PDF.
+== PUT IT IN ORANGE PLAN ==
+
+Scenarios → save a deep drawdown right after your retirement year and one choice you're genuinely weighing, then run the Monte Carlo on both.
+
+== YOU ARE DONE WHEN ==
+
+You have answered the stress test out loud, read your own report in question order, and saved this year's PDF with the year in the filename. If the stress test came back no, you built the lever you'd pull as its own scenario and checked whether it actually fixes it.
+
+Then watch the module walkthrough below this video, where we build both scenarios, walk the report, and save the PDF.

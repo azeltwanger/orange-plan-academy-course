@@ -57,14 +57,12 @@ On a large retirement-year sale, that difference runs into tens of thousands of 
 
 But it's a lifestyle decision that happens to save tax, not a tax decision. If you're actually considering a move, or you're sitting on a large enough unrealized gain that the state rate would change what you do, the advanced library has the full lesson: what the swing is worth on real numbers, how residency is actually determined, and the sequencing that keeps a big sale right after a move from becoming an audit. If moving isn't on the table, your tax plan is complete without it.
 
-== HOMEWORK ==
+== PUT IT IN ORANGE PLAN ==
 
-Your homework for this lesson is to:
+Strategy → Tax → Moves this year. Model one sale and read the tax it produces.
 
-1. Sketch your income by age for the next 20 years. Rough is fine.
-2. Mark the year the paychecks stop and the year the forced income starts. The stretch in between, at your lowest income, is your bracket window.
-3. Look up how your state treats capital gains: regular income, special rate, or no tax. If the answer looks like a big lever, take it to a CPA who's done a real relocation before.
+== YOU ARE DONE WHEN ==
 
-Two more tax strategies live in the advanced library, and which one applies comes down to your own numbers. Roth conversions, if you've got meaningful traditional balances and a low-income window coming. And harvesting, if your lots show a real gain or loss worth acting on. Your tax plan is complete without either of them.
+You know which bucket your money sits in and roughly in what proportion, and you have either identified your low-income window or established you don't have one yet. A deliberate pass on this year's window is a real outcome.
 
-Then watch the walkthrough below this video, where we build the whole tax picture in Orange Plan.
+Then watch the walkthrough below this video, where we model it in Orange Plan.

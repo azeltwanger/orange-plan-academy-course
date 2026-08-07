@@ -79,12 +79,16 @@ If spending held or rose, refill fully. If spending got cut, refill partway, to 
 
 One thing to keep in mind: the guardrail concept and the 10% adjustment are adapted from published research. The 60, 80, and 95 confidence thresholds are Orange Plan defaults. They're a starting point for a conversation, not a rule you have to adopt. If you're working with a planner, this is a good page to bring them.
 
-== HOMEWORK ==
+== YOUR DECISION ==
 
-Your homework for this lesson is to:
+Your guardrail policy: how much a bad year changes what you spend.
 
-1. Run the 50% drawdown after retirement scenario on your own plan this week. It's one click in the app's scenarios.
-2. Answer 2 questions from it. Does the plan survive with your current reserve size? And if not, how much bigger does the reserve need to be?
-3. Then watch the walkthrough below this video, where we build the whole retirement paycheck in Orange Plan.
+== PUT IT IN ORANGE PLAN ==
 
-Two situations get their own lessons in the advanced library. Retiring before Medicare, which is a real cost you have to plan for. And the sell-versus-borrow decision, if borrowing against Bitcoin is on the table for you at all.
+Plan → Retirement → guardrails.
+
+== YOU ARE DONE WHEN ==
+
+Your policy is set and the app can tell you hold, raise or cut. You can say what a cut year actually looks like in your life, in dollars.
+
+Then watch the walkthrough below this video, where we build the paycheck in Orange Plan.

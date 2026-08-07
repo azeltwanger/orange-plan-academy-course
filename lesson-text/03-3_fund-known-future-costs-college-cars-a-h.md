@@ -30,14 +30,14 @@ For 10+ year costs, plan the sales into low-bracket years (tax module).
 
 There's no single right answer, but the plan must know the cost is coming and have a lane for it.
 
-## Homework
+## Your decision
 
-1. List every known cost with a date.
-2. Assign each a lane by distance.
-3. Start a pre-funding route today for anything that would break your surplus in one hit.
-4. Watch the walkthrough to enter them in Orange Plan.
+Which known costs get pre-funded, and in which lane.
 
-## Look it up
+## Put it in Orange Plan
 
-- **What a specific college actually costs**: [College Navigator](https://nces.ed.gov/collegenavigator/) (US Dept. of Education). Search the school and read its published cost and average net price.
-- **What *you* would pay at that school**: [Net Price Calculator Center](https://collegecost.ed.gov/net-price). Every Title IV school is required to publish one. Sticker price and net price are very different numbers, and the lane you fund is the net one.
+Plan → Goals for each dated cost, then Cash Flow → Routing to point dollars at it.
+
+## You are done when
+
+Every known cost inside ten years either has a funding lane or a deliberate decision that monthly cash flow absorbs it. A cost you've decided to absorb is finished, not skipped.

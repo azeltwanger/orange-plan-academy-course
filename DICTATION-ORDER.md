@@ -3,7 +3,7 @@
 Read top to bottom. Nothing below depends on a decision you haven't made yet,
 as long as you settle the five things in the next section first.
 
-**27 teach lessons · 223 min (3.7 h) of finished audio at 155 wpm.**
+**27 teach lessons · 216 min (3.6 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not on this list. They're screen captures you narrate in your
 own words off the DO / SEE / ⚠ sheets, and they happen after the teach lessons
@@ -64,9 +64,9 @@ changed once, in both places, before you record.
 
 | # | Lesson | min |
 |---|---|---|
-| 2.1 | What to gather before you build the plan | 6.0 |
-| 2.2 | Set your growth and inflation assumptions | 5.5 |
-| 2.3 | Read your retirement date and confidence number | 6.7 |
+| 2.1 | What to gather before you build the plan | 6.1 |
+| 2.2 | Set your growth and inflation assumptions | 5.7 |
+| 2.3 | Read your retirement date and confidence number | 6.4 |
 | 2.4 | *Walkthrough: set up your plan in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 | 2.5 | *Walkthrough: build your baseline in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
@@ -74,76 +74,76 @@ changed once, in both places, before you record.
 
 | # | Lesson | min |
 |---|---|---|
-| 3.1 | Find your surplus and your two spending numbers | 9.9 |
+| 3.1 | Find your surplus and your two spending numbers | 9.6 |
 | 3.2 | Size your cash reserve in months of spending | 10.8 |
-| 3.3 | Fund known future costs: college, cars, a house, repairs | 6.8 |
+| 3.3 | Fund known future costs: college, cars, a house, repairs | 6.7 |
 | 3.4 | *Walkthrough: build cash flow and reserve in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 3 — Allocation & Next-Dollar · 34 min
+### Module 3 — Allocation & Next-Dollar · 33 min
 
 | # | Lesson | min |
 |---|---|---|
-| 4.1 | Set the Bitcoin allocation you can hold through a full drawdown | 9.3 |
-| 4.2 | Break your accounts down by holding type, then by timeframe | 9.8 |
-| 4.3 | Order your contributions: which account gets funded first | 8.6 |
-| 4.4 | Asset location: which account each holding belongs in | 6.7 |
+| 4.1 | Set the Bitcoin allocation you can hold through a full drawdown | 8.7 |
+| 4.2 | Break your accounts down by holding type, then by timeframe | 9.4 |
+| 4.3 | Order your contributions: which account gets funded first | 8.5 |
+| 4.4 | Asset location: which account each holding belongs in | 6.4 |
 | 4.5 | *Walkthrough: route it in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 4 — Debt Strategy · 9 min
+### Module 4 — Debt Strategy · 8 min
 
 | # | Lesson | min |
 |---|---|---|
-| 5.1 | Give every debt a job and set your ceiling | 9.4 |
+| 5.1 | Give every debt a job and set your ceiling | 8.4 |
 | 5.2 | *Walkthrough: give every debt a job in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 5 — Tax Strategy · 13 min
+### Module 5 — Tax Strategy · 12 min
 
 | # | Lesson | min |
 |---|---|---|
-| 6.1 | Cost basis: what you paid, and how to reconstruct it | 5.3 |
-| 6.2 | Taxable, tax-deferred, and Roth: bracket windows and state taxes | 7.6 |
+| 6.1 | Cost basis: what you paid, and how to reconstruct it | 5.4 |
+| 6.2 | Taxable, tax-deferred, and Roth: bracket windows and state taxes | 7.1 |
 | 6.5 | *Walkthrough: model it in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
 ### Module 6 — Retirement Income · 25 min
 
 | # | Lesson | min |
 |---|---|---|
-| 7.1 | Your spending, income floor, gap, and bridge years | 8.1 |
-| 7.3 | Set your withdrawal order and refill rule | 8.9 |
-| 7.5 | Guardrails: how much you can spend each year | 8.1 |
+| 7.1 | Your spending, income floor, gap, and bridge years | 7.9 |
+| 7.3 | Set your withdrawal order and refill rule | 8.7 |
+| 7.5 | Guardrails: how much you can spend each year | 7.9 |
 | 7.6 | *Walkthrough: build the paycheck in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 7 — Custody · 24 min
+### Module 7 — Custody · 23 min
 
 | # | Lesson | min |
 |---|---|---|
-| 8.1 | Choose the custody setup that matches your stack and family | 9.4 |
-| 8.2 | Set up a hardware wallet and test recovery | 7.3 |
-| 8.3 | Single points of failure, account hardening, and scams | 6.8 |
+| 8.1 | Choose the custody setup that matches your stack and family | 9.3 |
+| 8.2 | Set up a hardware wallet and test recovery | 7.4 |
+| 8.3 | Single points of failure, account hardening, and scams | 6.6 |
 | 8.4 | *External demo: hardware wallet setup + exchange hardening* | — DEMO, narrated off the sheet |
 | 8.5 | *Walkthrough: document your custody map in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 8 — Estate & Inheritance · 36 min
+### Module 8 — Estate & Inheritance · 32 min
 
 | # | Lesson | min |
 |---|---|---|
-| 9.1 | The executor, the four legal documents, and choosing an estate attorney | 9.4 |
-| 9.2 | Split access: dual control and redundancy | 10.4 |
-| 9.3 | The heir letter and the dead man's switch | 8.1 |
-| 9.4 | Insurance: term life, disability, umbrella, and when to stop | 7.8 |
+| 9.1 | The executor, the four legal documents, and choosing an estate attorney | 9.3 |
+| 9.2 | Split access: dual control and redundancy | 10.1 |
+| 9.3 | The heir letter and the dead man's switch | 4.5 |
+| 9.4 | Insurance: term life, disability, umbrella, and when to stop | 7.7 |
 | 9.5 | *Walkthrough: Protect, the heir letter, and the switch* | — WALKTHROUGH, narrated off the sheet |
 
 ### Module 9 — Maintain, Test, and Read the Plan · 20 min
 
 | # | Lesson | min |
 |---|---|---|
-| 10.1 | Keep the plan current: the monthly pass and the annual review | 9.4 |
+| 10.1 | Keep the plan current: the monthly pass and the annual review | 9.5 |
 | 10.2 | Test a decision and read the finished plan | 11.0 |
 | 10.3 | *Walkthrough: annual review, scenarios, and your report* | — WALKTHROUGH, narrated off the sheet |
 
 ---
 
-**27 teach lessons · 223 min (3.7 h) of finished audio at 155 wpm.**
+**27 teach lessons · 216 min (3.6 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not dictated. They are screen captures you narrate in
 your own words off the DO / SEE / ⚠ sheets, and they happen after the

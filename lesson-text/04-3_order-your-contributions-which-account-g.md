@@ -36,16 +36,16 @@ When you have a choice inside a rung, **check which bucket is behind and fund th
 
 ## Your decision
 
-**The order your next dollar flows, the amount at each rung, and which bucket the flexible dollars fill.**
+Your decision here is the order your next dollar flows, the amount at each rung, and which bucket your flexible dollars fill.
 
-1. Free money first (the match is the only guaranteed return you'll be offered).
-2. Then guaranteed losses: high-interest debt.
-3. Then tax shelters in order of quality.
-4. Then taxable or Bitcoin.
-5. **Then let the buckets break the tie**, funding whichever timeframe reads Behind.
+Take free money first, because an employer match is the only guaranteed return you'll ever be offered. Then kill guaranteed losses, meaning high-interest debt. Then fill your tax shelters in order of quality. Everything after that is taxable or Bitcoin. And then let the buckets break the tie: once you know the account, check Allocation and put the flexible money toward whichever timeframe reads behind.
 
-## Homework
+You make this decision once and it routes every future dollar without you re-deciding every month. The bucket check is the only part that repeats, and it takes about 10 seconds during your monthly pass.
 
-1. Enter your contributions in the app, rung by rung, so the projection reflects your real routing.
-2. Open **Strategy → Allocation** and read which bucket comes back **Behind**. That's the rung to fund next.
-3. Automate what you can at the source.
+## Put it in Orange Plan
+
+Cash Flow → Routing → waterfall order.
+
+## You are done when
+
+You know which rung the next dollar goes to without thinking about it. No match, no HSA eligibility, and no high-interest debt each complete their rung by being skipped deliberately.

@@ -27,7 +27,14 @@ Pull every record from every exchange and wallet. For the gaps: narrow the purch
 
 ⚠ No basis = the **entire sale price** is treated as gain. The $25,000 sale above: a $1,500 bill becomes $3,750, purely for a missing record.
 
-## Homework
+## Your decision
 
-1. Pull full history from every exchange and wallet.
-2. Record what you paid and when, per lot; build documented estimates for gaps. It's tedious, but you only do it once, and it makes every future move precise.
+How far back you can reconstruct, and what you'll do about anything you can't.
+
+## Put it in Orange Plan
+
+Strategy → Tax → cost basis. Enter what you have, and flag the lots you can't prove.
+
+## You are done when
+
+Every lot has a basis you could show someone, or is flagged as unproven. No records means a basis of zero, which means tax on the entire sale price, so an unproven lot is a real number in your plan rather than a gap.

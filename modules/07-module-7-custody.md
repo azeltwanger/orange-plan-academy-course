@@ -142,14 +142,23 @@ The right setup is one you can maintain, explain, and recover from. If your fami
 
 You'll hear people say real Bitcoiners self-custody everything, immediately. That claim is wrong. You move up a level by earning it, with skill and with need, not with ideology.
 
-### Homework
+### Your decision
 
-- Score yourself on the five questions. For most people the answer is one or two.
-- Name the level you're at today and the level your amount and your family say you should be at. If those differ, that gap is the module's whole job.
-- For anything not self-custodied, count the institutions it sits in and ask whether that number matches what's at stake.
+Two decisions. Your honest score with the job each pile is doing. And which level you're going to run, including whether your custodial Bitcoin should sit at more than one institution.
+
+Match the level to what's at stake and what you can genuinely maintain, and remember a mismatch in either direction is the failure. Too little custody for the amount is the Celsius problem. Too much custody for your skill is the lost-seed problem.
+
+### Put it in Orange Plan
+
+Nothing in the app yet. This decision goes on your Family Custody Map, which the module walkthrough fills in.
+
+### You are done when
+
+You have an honest score on the five questions, a named job for each pile of Bitcoin, and the level you're going to run. A note is on your annual review to re-ask all of it at that year's balance, because the price moves and your setup doesn't.
+
 
 ## 8.2 Set up a hardware wallet and test recovery
-*`TEACH` · ~1,139 words · ~7 min*
+*`TEACH` · ~1,149 words · ~7 min*
 
 **By the end of this lesson, you can:**
 
@@ -232,16 +241,21 @@ So if something happens to you and your family doesn't know your PIN, that's fin
 
 That also means the reverse is true, and it's the part to take seriously: **protecting the PIN is not protecting your Bitcoin.** The seed phrase is the thing that needs the real protection.
 
-### Homework
+### Your decision
 
-Your homework for this lesson is to:
+Whether your recovery actually works, which is not a thing you can decide by believing it.
 
-1. If you've never done the wipe-and-restore, watch the demo lesson in this module and then actually do it, with a small test amount, before serious money is on the line.
-2. Check your own wallet for dust. If your buys have been trickling in small, set your sweep threshold now.
+### Put it in Orange Plan
+
+Nothing to enter. This one happens on a device.
+
+### You are done when
+
+You have wiped and restored from your backup, on a device, and watched the balance come back. Until that has happened, you have a hardware wallet and a hope.
 
 
 ## 8.3 Single points of failure, account hardening, and scams
-*`TEACH` · ~1,048 words · ~7 min*
+*`TEACH` · ~1,025 words · ~7 min*
 
 > ✅ **Fixed in course:** stale hand-off promised "advanced custody" next — that
 > material lives in 8.1; now points at the external demo.
@@ -329,15 +343,19 @@ If a call says your account is hacked, hang up and contact the provider yourself
 
 The common thread in every scam is urgency. Every scam needs you to act before you think. So when something feels urgent, close the app and slow down. That one habit catches scams you've never even seen before, because it doesn't need to recognize the scam. It just needs to notice the pressure.
 
-### Homework
+### Your decision
 
-Your homework for this lesson is to:
+Your one most expensive only-one, and the fix with a date on it.
 
-1. Make your own only-one list, all 9 questions.
-2. Pick the one at the top, ranked by cost of loss, and fix it this week. Not all nine. Just that one.
-3. Then watch the demo and the walkthrough below this video, where I set up a hardware wallet on screen and then we document your custody map in Orange Plan.
+### Put it in Orange Plan
 
-And one pointer before you go. If one lost seed, or one person you can't reach, could end your access, the advanced library compares the three ways to fix that: a passphrase, collaborative multisig, and running multisig yourself. Your custody plan is complete without them. That lesson is there for when the amount or the family situation says you need more.
+Protect → Security checklist for the hardening items, and Needs attention for the next one.
+
+### You are done when
+
+Your only-one list exists, the top item by cost of loss has a specific fix this week, and your account hardening is done: secured email, unique passwords, non-SMS two-factor, withdrawal delays on. One fix, not nine.
+
+Then watch the demo and the walkthrough below this video, where I set up a hardware wallet on screen and then we document your custody map in Orange Plan.
 
 
 ## 8.4 External demo: hardware wallet setup + exchange hardening

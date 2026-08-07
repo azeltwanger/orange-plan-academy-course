@@ -103,60 +103,23 @@ Most of hiring one is normal vetting: experience, fees, responsiveness. Four thi
 
 **The filter to weight heavily:** do they explain things in language your executor and your heirs will understand? You are not going to be the one sitting across from this attorney someday. Your spouse will be, and your executor will be, in the worst week of their lives.
 
-### Homework
+### Your decision
 
-- Get a simple will into existence now. An online path like FreeWill gets a real document out of your head and onto paper.
-- Have an attorney review it and supervise the signing. Execution formalities (witnesses, notarization) are state-specific.
-- Line up two or three estate-attorney candidates and take the question checklist into the meeting.
-- Ask your executor, out loud, whether they will do it, and confirm your beneficiary forms name who you actually intend. The form overrides the will.
+Who your executor is, and whether your beneficiary forms name who you actually intend.
 
+### Put it in Orange Plan
 
-### Now put it in the app
+Protect → Needs attention → Beneficiaries. Then mirror every one on the custodian's own form, because the institution holds the binding record.
 
-#### Step 5: Confirm beneficiaries
+### You are done when
 
-**Protect → "Needs attention" → "Beneficiaries" row → "Assign."**
+A will exists and an attorney has supervised the signing, your executor has been asked out loud, and your beneficiary forms match your intent on the custodian's system. The form overrides the will, so an out-of-date form quietly overrides everything else you just did.
 
-The why-line names the gap:
+If you're outside the US, the tests and the frameworks travel well but the legal containers don't. Map the concepts with a qualified local professional.
 
-> *"Accounts pass by beneficiary designation before the will. {n} accounts have no one named."*
-
-Panel rows show name · relationship · **allocation %** · **~$ of the estate.**
-
-Button **"Add beneficiary."**
-
-⚠ **Say the executor lesson's rule at this exact moment:** the beneficiary form overrides the will. Your **insurance policies** follow the same rule. The beneficiary form on the policy overrides anything the will says about death benefit.
-
-The panel's own copy tells you to update them at the source: *"then mirror it in each account's own beneficiary designation."* Orange Plan holds the intent, but the institution holds the binding record.
-
-#### Step 6: Walk the Executor Packet with the person who will run it
-
-This is the one lesson task that happens **off-app, in a room with another person.** The Executor Packet is the operations manual for whoever runs your estate. It only works if the executor has read it, agreed to it, and knows where it lives.
-
-> **Course toolkit. The Executor Packet** (PDF). Available under **Materials → 08 Executor Packet**. Print two copies. One for your files, one for the executor.
-
-Sit down with your executor (or a video call) and walk the packet section by section. The packet is designed to be read together the first time. Six sections, ~30 minutes:
-
-| Section | What you cover |
-|---|---|
-| **1 · Your role** | Run the process, not the specialties. Keep estate money in its own account. Distribute only after debts and taxes are settled. Nothing here is urgent. |
-| **2 · Your first week** | Locate documents · order 12 death certificates · open probate · notify the custody provider · loop in the CPA before any transfer · **secure, don't operate** · set the pace at weeks, not days |
-| **3 · The team** | Attorney · CPA · technical helper · custody provider · family point of contact. Blank rows are fine. the probate court or the custody provider's support can fill gaps later |
-| **4 · The Bitcoin process** | Never type or share recovery words · never accept unsolicited help · never move coins before the tax order is settled · never improvise |
-| **5 · Asset handling** | Bitcoin (custody first, date-of-death basis) · retirement accounts (beneficiary forms. do not liquidate) · bank/brokerage (Letters Testamentary, step-up basis, CPA before any sale) · insurance (claim direct with each carrier) · the Orange Plan plan (open with the family first) |
-| **6 · Acceptance** | Two signature lines: executor + preparer. Both sign in the room. |
-
-⚠ **The Acceptance page is the point of walking through the packet together.** Section 6 says: *"I accept the role described in this packet. I know where this packet, the will, the Heir Letter, and the Custody Map are stored. I know who to call first, and that nothing is urgent. We've walked through this packet together at least once."* An executor who signed this has been briefed and knows where the documents live. An executor who didn't sign hasn't been briefed at all.
-
-⚠ **The three toolkit documents live together.** Executor Packet + Heir Letter + Family Custody Map. One folder, one location, and the executor knows where it is. The packet references the other two by name in section 2.
-
-Set the review date on the footer: *"Review at each annual review (Module 9)."*
-
-
-Your executor is named and briefed, and the forms match the will.
 
 ## 9.2 Split access: dual control and redundancy
-*`TEACH` · ~1,392 words · ~9 min*
+*`TEACH` · ~1,572 words · ~10 min*
 
 > ✅ **SAFETY REWRITE (2026-08-08).** The old lesson claimed a seed + passphrase
 > split gave "no single point of failure" and that half of it left the plan
@@ -186,13 +149,13 @@ Before we design anything, I need to give you two tests, because most people des
 
 ### Why both simple options fail
 
-Let me show you why the two obvious answers both fail. The couple's stack is $175,000.
+The two obvious answers both fail, and the couple's $175,000 shows why.
 
-Option one is that one person gets everything. He writes the seed on a card and hands it to her brother, the executor. Now a man who isn't an heir has unilateral control of $175,000 of his sister's inheritance, and the only thing protecting it is his own good faith. Even if he's a great guy, the plan is now built on one person never having a bad year.
+One person gets everything: he writes the seed on a card and hands it to her brother, the executor. Now a man who isn't even an heir has unilateral control of $175,000 of his sister's inheritance, and the only thing protecting it is his own good faith. Even if he's a great guy, the plan is built on one person never having a bad year.
 
-Option two is that nobody gets enough. He tells nobody, to be safe. Then he dies. And $175,000 sits on a device his wife can't open, forever.
+Or nobody gets enough: he tells nobody, to be safe, and then he dies, and $175,000 sits on a device his wife can't open, forever.
 
-Everything in this lesson lives between those two extremes.
+Everything in this lesson lives between those two.
 
 ### The two tests
 
@@ -210,13 +173,21 @@ The part that gets missed, and it's really the reason this lesson exists, is tha
 
 Now, what you can actually build depends on the custody level you picked back in the custody module. You don't need a more advanced setup to do this lesson. You need an honest design for the setup you already have.
 
-At Level 1, on a hardened exchange or broker, the institution is your dual control, so what you're designing isn't a secret at all. Your heirs get the beneficiary designation on the account, and your executor gets the process: which institution, what they'll ask for, who to call. The company handles test one, and the account existing regardless of who remembers a password handles test two.
+At Level 1, on a hardened exchange or broker, you haven't built household dual control at all. You've delegated custody to an institution, and their process is what stands between any one person and the money. That's a different thing, and worth naming honestly, because it means the two tests get answered by somebody else's procedures rather than by a design you control.
+
+What you're designing at Level 1 isn't a secret, it's a path. Your heirs get the beneficiary designation on the account. Your executor gets the process: which institution, what they'll ask for, who to call. And what you should actually verify is that institution's death-claim procedure, because that procedure is your plan. If it turns out to be slow, or it requires something your family won't have, that's the gap to fix, and no amount of household design fixes it for you.
 
 At Level 2, one hardware wallet and one seed, be honest about what you can and can't do. You cannot split a single seed between two people, and I'll come back to why that idea is actively dangerous. So the honest design is: the seed goes to your heir, backed up in more than one place, and your executor holds the process rather than the secret. Where the device is, where the backups are, what to do, who to call.
 
 That design passes test two, because a lost copy doesn't end you, and it fails test one, because your heir can spend alone. For a lot of households that's an acceptable trade, and it's far better than either failure we opened with. Choose it knowing what it is, and don't describe it to your family as a no-single-point-of-failure plan.
 
-At Level 3 or 4, the passphrase or the multisig, you can pass both tests at once. A passphrase lets you hand two different objects to two different people, where neither does anything alone. A two-of-three multisig gets both tests from the arithmetic, because any two keys can spend and no single key can. Building either one is in the advanced custody lesson, and that's the right place for it, because it's a custody decision, not an estate decision.
+At Level 3 or 4, the passphrase or the multisig, you can pass both tests, but only if the setup and its backups are designed for it.
+
+A passphrase lets you hand two different objects to two different people, where neither does anything alone. That passes test one immediately. It does not pass test two, because seed plus passphrase is a two-of-two, and both are required every single time. Half of a two-of-two is zero. So a passphrase split gets you redundancy only when each half has its own separate backup, which is a second job you have to go do.
+
+A two-of-three multisig is the one that gets both from the arithmetic itself, because any two keys can spend and no single key can, so losing one key entirely is survivable.
+
+Building either one is in the advanced custody lesson, and that's the right place for it, because it's a custody decision, not an estate decision.
 
 The estate job is the same at every level: name who holds what, answer both tests out loud, and be honest about the one you didn't pass.
 
@@ -228,23 +199,23 @@ Every backup you add to protect against loss is also another potential path to s
 
 It resolves the same way every time: each piece gets its own backup, and that backup stays on its own side. Never in the same house, never in the same safe, never with the person holding the other piece. Do it that way and each side can lose a copy and still recover, while neither side gains anything it shouldn't have. Do it carelessly and a backup in a shared safe quietly collapses your whole design into one person holding everything.
 
-This is also why the executor and the heirs should be different people wherever you can manage it. They're the two sides of whatever you build.
+And this is where the executor question from the last lesson comes back. If the design you chose puts the executor on one side and the heirs on the other, then they have to be different people, or you've handed one person both sides on day one. If your design doesn't split them that way, and plenty don't, then a spouse serving as both is fine. It's a consequence of your design, not a rule about executors.
 
 ### Test it while you're alive
 
 Just like the hardware backup, this gets proven, not hoped for.
 
-So, the couple's Saturday afternoon. He moves about $1,000 into the setup. Whoever is supposed to be able to recover it does the recovery, on a spare device, following only what's written down. And they watch the $1,000 appear on the screen. If two people are supposed to be needed, run it twice: once with both, and once with only one, to confirm the one alone can't.
+The couple's Saturday afternoon: he moves about $1,000 into the setup, whoever is supposed to be able to recover it does the recovery on a spare device following only what's written down, and they watch the $1,000 appear. If two people are supposed to be needed, run it twice, once with both and once with only one, to confirm the one alone can't.
 
-That afternoon converts a hoped-for plan into a proven one, for $1,000 they never actually spent, on a day when nobody was grieving. One rule after the test: the pieces stay distributed. Writing everything down together in one place undoes the entire design.
+That converts a hoped-for plan into a proven one, for $1,000 they never spent, on a day when nobody was grieving. One rule afterwards: the pieces stay distributed. Writing everything down together in one place undoes the entire design.
 
 ### The misconception that gets people hurt
 
 Last thing, and I hear it most from people at Level 2 who want to pass test one without changing their setup. "I'll just split the seed words between two people." Someone actually did this. 24 words, 12 to each of two people.
 
-If the two people trust each other, together they have the whole thing, so there's no protection at all. And if either one gets the other half through a leak or a guess, they have unilateral access, and 12 words is a far shorter guess than 24.
+Look at what that actually builds. If the two people trust each other, together they have the whole thing, so there's no protection at all. And you've just created a two-of-two, which means either half going missing loses everything permanently. You've taken on the redundancy problem without buying any dual control.
 
-So splitting a seed makes the wallet weaker, while splitting a seed from a passphrase makes it stronger. Those sound almost identical and they do opposite things. If you want to pass test one, you change your custody setup. You do not chop up your seed.
+That's the difference. Splitting a seed from a passphrase gives you two objects that were designed to be separate. Chopping one seed in half gives you two fragments of one object, and a wallet that now fails if either fragment does. Those sound almost identical and they do opposite things. If you want to pass test one, you change your custody setup. You do not chop up your seed.
 
 ### Your decision
 
@@ -252,15 +223,13 @@ Your decision out of this lesson is who holds what, and which of the two tests y
 
 Design for the custody level you actually have, not the one you'd like to have, because an access plan built on a setup you haven't finished isn't a plan. Pick people who don't share a household, a safe, or a bad week. Choose for reliability over technical skill, since the process is written down and the person mainly has to follow it and be findable. And assume neither person goes rogue, while planning as if one might.
 
-### Homework
+### Put it in Orange Plan
 
-Your homework for this lesson is to:
+Nothing to type. This design goes on your Family Custody Map, and the module walkthrough confirms it against both tests on camera.
 
-1. Name the person holding each piece, and write down where each piece lives.
-2. Answer both tests in writing. Can one person spend alone? Can one lost copy or one unreachable person stop recovery? Write down the answer you don't like, because that's the one you'll otherwise forget you chose.
-3. If you failed test two, fix it first. Back up each piece on its own side before you do anything else. A loss you caused yourself is far more likely than a betrayal.
-4. Run the test with a small amount, start to finish, so you know it actually works.
-5. Confirm afterwards that the pieces are still in separate places, and that they were never written down together.
+### You are done when
+
+You can name who holds each piece and where it lives, you have answered both tests in writing including the one your design fails, and you have run the whole thing with a small amount on a spare device. If you failed test two, you fixed it first: a loss you caused yourself is far more likely than a betrayal.
 
 
 ## 9.3 The heir letter and the dead man's switch
@@ -338,206 +307,21 @@ Same rule as the letter: the process, never the secrets.
 
 The Estate Plan Maps are yours to fill in: who holds what, where it's stored, and "alone, nothing" written on every piece. That filled-in map becomes your agenda for sitting your family down. Walk them through it once, at the process level, while you're still around to answer questions. That way, the letter isn't the first time they've heard any of it.
 
-### Homework
-
-Write the first two lines of your letter tonight: the first phone call, and the first mistake to avoid. The rest of the letter follows naturally from those.
-
-
-So let us write it. The app holds the record and enforces the no-secrets rule on screen while you type.
-
-> 🎥 **SCREEN SHARE STARTS HERE — capture segment 9.3-B.** Everything above is teleprompter A-roll (segment 9.3-A); everything below is screen capture. This heading is the edit cut point.
-
-### Now put it in the app
-
-### Pre-flight. Two hard requirements
-
-⚠ **Storage mode must be Cloud.** In Local Only the switch cannot arm; the panel replaces itself with *"Automatic check-in emails require cloud sync. Heir letter, beneficiaries, and the checklist still work locally."* Flip it at Settings → Data & Privacy → "Data & backups" → **"Data Privacy"** panel → mode **"Cloud."**
-
-⚠ **At least one emergency contact with an email must exist**, or the switch's action reads **"Add contact to activate"** instead of **"Turn on,"** and attempting to check in throws *"Add an emergency contact first."*
-
-Insurance doesn't live in the app. Protect shows an **"Insurance coverage · Coming soon"** row. The Coverage Audit worksheet from the insurance lesson stays your system of record for policies.
-
-#### Step 1: Start the heir letter. Contacts first
-
-**Protect → "Needs attention" → "Heir letter" row → "Finish."**
-
-The panel lists four status rows:
-
-| Row | Renders as |
-|---|---|
-| **Emergency contacts** | Added / Missing |
-| **Executor** | Named / Missing |
-| **Letter content** | Written / Missing |
-| **PDF saved** | Yes / Not yet |
-
-**"Emergency contacts" → "Edit"** opens the contacts dialog. Button **"Add another contact,"** save is **"Save contacts."**
-
-⚠ **The executor you actually asked goes in here.** An executor who hasn't been told they're the executor can't do the job. If you haven't had the conversation yet, don't fill this row until you have.
-
-⚠ **"Letter content" stays Missing until you customize it.** The app is explicit: *"Template text does not count until you customize it."* You can save a template-shaped draft and this row still reads Missing. That's intentional.
-
-#### Step 2: Write the letter. With the rule on screen
-
-> **Course toolkit. The Heir Letter** (PDF). Available under **Materials → 06 The Heir Letter**. The template mirrors the app dialog section for section, and adds the two things the app can't hold: an opening line to the family, and a **"From me to you"** section at the end in your own words. Fill the dialog for the app's record; save the PDF for the family.
-
-Keep both in mind while you type. The app enforces the no-secrets rule with a red banner. The PDF enforces it with a header labeled *"NEVER IN THIS LETTER."* Read them once, then work section by section.
-
-**Same panel → any "Edit" link → dialog "Edit heir letter."**
-
-The **red banner at the top of the dialog is your script. Read it verbatim:**
-
-> **"NEVER include seed phrases, private keys, passwords, or PINs in this letter. It may be read by multiple people. Only describe what exists and who to contact."**
-
-The dialog has three sections:
-
-**"Key contacts"**. Executor · Estate Attorney · CPA / Tax Advisor · Bitcoin Advisor. Each row: Full name / phone / email / firm.
-
-⚠ **These "Key contacts" are separate from "Emergency contacts."** Emergency contacts are the switch's recipients (Step 4). Key contacts are the letter's professionals. Both lists are required.
-
-**"Where to begin"**. One field, with its own guardrail: *"Never list where keys or recovery material are stored."* Describe where the **documents** live, not where the keys are.
-
-**"Your letter"**. The main textarea. This is where the first two lines you drafted earlier in this lesson go.
-
-Footer note: *"store it with your important documents. Separate from your seed phrases and hardware wallets."*
-
-Check **"Letter downloaded or printed"** when done.
-
-Back in the panel: **"PDF saved" row → "Download PDF"**. Toast **"Heir letter PDF downloaded."**
-
-#### Step 3: AI · "Draft with AI"
-
-**Protect → "Heir letter" panel → sub-heading "Heir letter assistant" → button "Draft with AI."**
-
-The button carries its own guardrail line: *"Uses your saved plan inventory and asks one question at a time. No seed words, passwords, or backup contents."* The app tells the learner the rule, so you don't have to.
-
-**It reads:** your protection plan, your accounts, holdings and debts, the heir-letter state, and the dead-man-switch state.
-
-**It asks:** *"Does one trusted person know where to find the non-secret instructions and who to contact if you cannot act?"*
-
-Click, then **stop typing** while it drafts. Read one line back to yourself and ask whether it's true for your family. The first two lines are still yours to write.
-
-**When to run it:** when the blank page is what's stopping you. It drafts the inventory and the call order, never the secrets.
-
-**What it isn't:** it drafts and explains. It does not decide. Your estate attorney still reviews the letter.
-
-
-The letter exists and the PDF is saved. Now the piece that makes sure anyone ever opens it.
-
-*`TEACH + APP` · 714 words · ~3 min*
-
-**By the end of this lesson, you can:**
-
-- Understand what a dead man's switch is and why the plan needs one
-- Set up a 90-day check-in cadence
-- Understand why the switch never carries secrets
-
----
-The **dead man's switch** is the piece that makes sure your plan actually gets delivered.
-
-Everything else in the module is passive: the documents sit in a file, the letter sits wherever you put it, and the split works. But only once somebody starts using it. Starting depends on a person remembering, on the worst day of their life, that a plan exists.
-
-A dead man's switch is a scheduled check-in. You confirm you're alive on a set interval. If you stop confirming, the system sends your heir letter to the people you named, without anyone having to remember. Delivery no longer depends on your family remembering.
-
-Anthony Park's line: heirs are unmotivated learners. They don't study the plan while you're alive, and they may not remember where you filed it. Any plan whose first step depends on someone remembering has a missing step.
-
-### The failure it covers
-
-The split is set. His wife holds the seed. Her brother holds the passphrase. The letter is written. Everything works.
-
-He has a heart attack on a Tuesday in a hotel in Denver.
-
-- His wife knows there's Bitcoin.
-- She doesn't know her brother is holding half the access.
-- Her brother doesn't know he's supposed to do anything.
-- The letter is in a file in the office.
-
-Nothing lost, nothing stolen. Eleven weeks go by, and nothing happens, because nobody knows to start.
-
-### The four steps
-
-1. **He checks in.** 90 days by default. Takes seconds.
-2. **He misses the window.** The system waits, follows up, then triggers.
-3. **The heir letter goes out** to the people he named. His wife and her brother.
-4. **Both are holding the same set of instructions on the same day.** She knows to call him. He knows she's calling.
-
-Instead of eleven weeks of nothing, they get one afternoon of phone calls.
-
-### What it is and isn't
-
-- **It's a backup communication layer.** Buys your family time and direction.
-- **It carries no secrets.** Seeds, keys, and passphrases never live in the switch. It only delivers the instructions.
-- **It's not a replacement for legal documents or a tested access split.** The documents and the split still do the real work. The switch makes sure that work begins.
-
-### Why 90 days
-
-- 90 days is long enough that a vacation or a hospital stay won't false-trigger it.
-- 90 days is short enough that your family isn't in the dark for a year.
-
-Four check-ins a year sets a hard limit on how long your family can be left guessing.
-
-### Where the app fits
-
-Orange Plan ships with the switch, default check-in is 90 days. It needs the app in **cloud mode**, because the email has to send on your behalf while you're not there. A local-only setup can't do that.
-
-### Three pieces work together
-
-- **Documents** give the process legal weight.
-- **The split** makes it possible for two people to act.
-- **The switch** ensures the process actually begins.
-
-
-So let us arm it.
-
-> 🎥 **SCREEN SHARE STARTS HERE — capture segment 9.4-B.** Everything above is teleprompter A-roll (segment 9.4-A); everything below is screen capture. This heading is the edit cut point.
-
-### Now put it in the app
-
-#### Step 4: Arm the 90-day switch
-
-**Protect → "Needs attention" → "Dead man's switch" row → "Turn on."**
-
-Panel line:
-
-> *"If you don't check in for 90 days, {n} emergency contacts will be emailed. The email contains your non-sensitive heir-letter summary, never secrets."*
-
-**Check-in interval**. 30 / 60 / 90 / 180 days. **Default 90.**
-
-Caption below: *"Urgent follow-up goes out at 180 days."*
-
-Dates: **"Last check-in" · "Days since last check-in" · "Next due."**
-
-Button reads **"Turn on with a first check-in"** the first time, **"Check in"** after.
-
-Also on this panel: **"Edit contacts"** (recipients live here. No separate picker inside the switch) · **"Send test"** · **"Turn off."**
-
-⚠ **Only contacts with an email count as recipients.** Phone-only contacts don't receive the check-in email.
-
-Once armed, the row moves to **"In place"** and reads **"warns at 90 days · {n} contacts"** with status **"{n} days left."**
-
-The switch makes sure someone starts. It's a trigger that tells your executor to open the letter, not a replacement for the documents or a tested access split.
-
-
 ### Your decision
 
-**Whether to arm the switch, and who gets contacted.**
+Whether to arm the switch, and who gets contacted.
 
-How to think about it:
+### Put it in Orange Plan
 
-1. **Understand what it's for.** Everything else in this module sits still until a person decides to start. The switch is what makes someone start.
-2. **Pick contacts who will act, not just care.** The right list is the executor plus whoever needs to know the letter exists.
-3. **Tell them in advance.** A message that arrives with no context reads like a scam, and the first instinct will be to ignore it.
-4. **Treat the check-in as the point, not the chore.** Confirming you're alive every 90 days is what keeps the whole thing armed.
+Protect → Needs attention → Heir letter, then the Dead man's switch row.
 
-### Homework
+### You are done when
 
-1. Decide whether you're arming it. If your access split is documented, the answer is usually yes.
-2. Add your contacts and arm it in the app.
-3. Tell every contact it exists and what to do if it ever fires.
+The first two lines of your letter are written in your own words, the PDF is saved somewhere separate from your seeds and devices, and the switch is armed with recipients who have been told in advance that it exists.
 
-Documents, split, and switch are all in place.
 
 ## 9.4 Insurance: term life, disability, umbrella, and when to stop
-*`TEACH` · 1,090 words · ~5 min*
+*`TEACH` · ~1,191 words · ~8 min*
 
 **By the end of this lesson, you can:**
 
@@ -547,79 +331,100 @@ Documents, split, and switch are all in place.
 - Run the graduation review each year
 
 ---
-Your stack already self-insures the small stuff. The reserve from earlier in the course. Insurance covers the part the stack can't cover yet: the difference between what your family needs and what the stack already provides.
 
-Early on, that gap is huge, and insurance covers it cheaply. As the stack compounds, the gap shrinks, and your coverage can shrink with it.
+In today's lesson, we're going to cover insurance, specifically the risks your stack can't cover yet.
 
-Insurance is protection you rent until the stack can carry the weight itself, not something you carry forever.
+Your stack already self-insures the small stuff. That's what the reserve from earlier in the course is doing. Insurance covers the part the stack can't cover yet, which is the difference between what your family needs and what the stack already provides.
+
+Early on, that gap is huge, and insurance covers it cheaply. As the stack compounds, the gap shrinks, and your coverage can shrink with it. So the way I think about insurance is: it's protection you rent until the stack can carry the weight itself. It's not something you carry forever.
 
 ### Sizing the gap
 
-Run the Denver scenario forward one year. He's gone, and his $150,000 income went with him. She earns $40,000. They spend $80,000. Two kids, a mortgage.
+Let's size the gap by running the Denver scenario forward 1 year. He's gone, and his $150,000 income went with him. She earns $40,000. They spend $80,000. Two kids and a mortgage.
 
-$80,000 spending - $40,000 income = **$40,000/yr hole** in a plan that was working fine a week ago.
+$80,000 of living spending plus $22,000 of debt payments is $102,000 they still have to cover. Minus her $40,000 of income, that's a $62,000-a-year hole, in a plan that was working fine a week ago. That hole is what insurance is for.
 
-### The pieces, in order of importance
+### Term life: the anchor
 
-#### 1. Term life (the anchor)
+The anchor product is term life. It covers you for a set number of years, 20 or 30, at a fixed premium. If you die inside the window, it pays your beneficiaries a fixed amount, and that payout is currently free of income tax under US law. If you don't die, it expires and pays nothing. And that's fine, because it's the cheapest coverage per dollar of protection you can buy.
 
-Covers you for a set number of years (20, 30). Fixed premium. If you die inside the window, it pays your beneficiaries a fixed amount (currently free of income tax under US law). If you don't, it expires and pays nothing.
+The standard rule of thumb is 10 times income, which for him would be $1.5 million. But that number was built for a household with no Bitcoin. So let's do the math against their actual plan instead.
 
-It's the cheapest coverage per dollar of protection you can buy.
+Step one: the annual hole is $62,000. Step two: the years to cover. She's 43, and they're covering to 65, so that's 22 years. $62,000 times 22 is $1,364,000. Step three: subtract what the stack already covers, which is $175,000. That leaves about $1.19 million.
 
-Rule of thumb: 10 times income. For him, $1.5M. But that number was built for a household with no Bitcoin.
+So the $1.5 million rule of thumb is about $300,000 higher than the gap they actually have, and that's a real difference in premium, every month, for 22 years.
 
-Do the math against their actual plan:
+And what makes this Bitcoin-specific is that if the stack does what they're planning for, that $1.19 million need shrinks every year without them buying or cancelling anything. That's the case for laddering, which is stacking terms, a longer base policy and a shorter top-up, so your coverage steps down as the stack steps up.
 
-1. **Annual hole:** $40,000.
-2. **Years to cover:** she's 43, covering to 65 = 22 years. $62,000 × 22 = **$1,364,000**.
-3. **Subtract what the stack already covers:** $175,000. $1,364,000 - $175,000 = **~$1.19M**.
+One thing about timing. Term life is underwritten on your current health and priced by your age, so every year of waiting makes it more expensive. If a family depends on you and you're holding no coverage, I'd treat this as a this-month item, not a someday item.
 
-The rule of thumb was off by more than double. A real difference in premium every month, for 22 years.
+And one warning, because Bitcoiners get targeted hard with this: the permanent-life pitch. "Infinite banking," "be your own bank." My honest read is that permanent products bundle insurance together with a low-yield savings component, at a much higher cost. And for a Bitcoiner, that bundle is charging you a premium to hold a savings vehicle you already replaced with a better one. If a pitch leans on the word "bank," slow down and compare the actual numbers.
 
-If the stack does what they're planning for, the $700,000 shrinks every year without them buying or cancelling anything. That's the case for **laddering**: stacking terms (a longer base and a shorter top-up) so your coverage steps down as the stack steps up.
+### Disability
 
-**Timing on term.** Term-life is underwritten based on your current health and priced by your age. Every year of waiting makes it more expensive. If a family depends on you and you're holding no coverage, treat this as a this-month item.
+The second piece is disability, and it's under-owned by almost everyone. During your working years, you're statistically more likely to become disabled than to die. And it hits the plan in two places at once: your income stops, and the surplus flywheel stops with it.
 
-**The pitch to expect.** Bitcoiners get targeted hard with permanent-life products ("infinite banking," "be your own bank"). Honest read: permanent products bundle insurance with a low-yield savings component at a much higher cost. For a Bitcoiner, that bundle charges you a premium to hold a savings vehicle you already replaced with a better one. If a pitch leans on the word "bank," slow down and compare the numbers.
+Employer coverage is often around 60%, which sounds like $90,000 for him. But take the cap and the tax off first. Group policies usually cap the monthly benefit, and if the employer paid the premium, the benefit is taxable. So what actually lands might be closer to $50,000. Add her $40,000, and they've got $90,000 against $102,000 of all-in household outflow. So they're still about $12,000 short on this rough pass, and the real comparison needs both numbers stated after tax.
 
-#### 2. Disability
+They cover most of it, but they're still about $12,000 short on this rough pass. They'd have to cut spending, add supplemental coverage, or pull the difference from the reserve. And notice what else happened: they stopped buying Bitcoin. The plan didn't die, but it stopped growing.
 
-During your working years, you're statistically more likely to become disabled than to die. It hits the plan in two places: your income stops, and the surplus flywheel stops with it.
+Two things to go find out about your own policy. First, what it actually pays, after the cap and the tax. And second, how it defines disability. Own-occupation pays if you can't do your job. Any-occupation only pays if you can't do any job at all, which is a much higher bar. If the gap is real, price a supplement.
 
-Employer coverage is often ~60%. Sounds like $90,000 for him. Take the cap and tax off. Group policies usually cap the monthly benefit, and if the employer paid the premium, the benefit is taxable. What actually lands might be closer to $50,000. Add her $40,000 = $90,000 against $80,000 of spending.
+### Umbrella coverage
 
-They survive on that income, but they stop buying Bitcoin.
+The third piece is umbrella coverage. Your home and auto policies each carry a liability limit, and umbrella sits on top and picks up where they stop.
 
-Two things to find out:
+It matters for this audience because a liability lawsuit doesn't care that your wealth is sitting in Bitcoin. A judgment above your auto limit comes out of everything else you own. Umbrella runs a few hundred dollars a year per million of coverage, and the case for it gets stronger if you're publicly known as a Bitcoiner.
 
-- What your policy actually pays.
-- How it defines disability. **Own-occupation** pays if you can't do *your* job. **Any-occupation** only pays if you can't do *any* job.
+### Long-term care
 
-If the gap is real, price a supplement. Disability coverage is under-owned by most households.
+The fourth piece is long-term care, and my honest advice here is: name it and park it. It's a real risk, but the products in this space are imperfect, and self-insuring through the stack is legitimate if the stack is large enough by then. The decision window is your 50s and 60s. So at 45, it's an annual review item, not an action item.
 
-#### 3. Umbrella coverage
+### The audit and the graduation review
 
-Home and auto policies each carry a liability limit. Umbrella sits on top and picks up where they stop. A liability lawsuit doesn't care that your wealth is sitting in Bitcoin. A judgment above your auto limit comes out of everything else you own.
+Pull it together with a coverage audit: every risk, your current coverage, what the stack could absorb, and the gap. One app note: Orange Plan doesn't currently track individual policies, that's marked coming soon. What the app does hold is your beneficiaries, and remember the rule from the executor lesson: policy beneficiary forms override everything. So the names on your policies need to match the names in your estate plan, and both get checked every year.
 
-Runs a few hundred dollars a year per million of coverage, and protects the asset side of your balance sheet. Case gets stronger if you're a known Bitcoiner.
+And then, once a year, run what I call the graduation review. Ask: has the stack grown enough to shrink a coverage? When the answer is yes, cancel deliberately. On the review, in writing. Never by accidentally lapsing a payment. The graduation review is what turns coverage you've outgrown back into surplus you can put to work.
 
-#### 4. Long-term care
+### Your decision
 
-Name it, park it. A real risk, but products in this space are imperfect. Self-insuring through the stack is legitimate if the stack is large enough by then. The decision window is your 50s and 60s. Annual review at 45, not on the action list.
+Your coverage gap, as a number.
 
-### The Coverage Audit worksheet
+### Put it in Orange Plan
 
-Every risk, your current coverage, what the stack could absorb, the gap, and the graduation check. Orange Plan doesn't currently track individual policies (marked "Coming soon"). The app does hold your beneficiaries. **Policy beneficiary forms override everything.** Names on your policies match names in your estate plan, both checked every year.
+Nothing in the app. Protect shows Insurance coverage as Coming soon, so the Coverage Audit worksheet stays your record.
 
-### The graduation review
+### You are done when
 
-Once a year: has the stack grown enough to shrink a coverage?
+You have a life number and a disability number from the same subtraction, and both have gone to a licensed professional if they needed to. None of this is a product recommendation, and the actual coverage runs through them.
 
-When the answer is yes, cancel deliberately. On the review, in writing. Never by accidentally lapsing a payment. The graduation review turns coverage you've outgrown back into surplus you can put to better use.
+Then watch the module walkthrough below this video, where we complete the Protect queue, write the letter, and arm the switch.
 
-### Homework
 
-Run the subtraction on your own household. Annual hole × years to cover minus stack. Then run it again for a disability scenario: your income stopping while your spending doesn't. Those two numbers size your coverage.
+## 9.5 Walkthrough: Protect, the heir letter, and the switch
 
-None of this is a product recommendation. Actual coverage runs through a licensed insurance professional.
+*`DEMO` · ~2,000 words · ~22 min raw, cut into seven*
+
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **9.5** in ONE continuous
+> session. The Needs attention queue shortens as you go, and that shrinking list
+> is the visual argument of the module. Six `✂ CUT POINT` markers let the edit
+> ship it as one video or seven. Beat sheet + required app state:
+> SCREEN-SHOOT-LIST.md.
+>
+> Replaces the retired hybrid captures 9.1-B and 9.3-B. The 9.5-B estate-tax
+> beats moved to the Advanced Library with the trust lesson.
+
+**By the end of this lesson, you can:**
+
+- Complete the Protect readiness queue in one sitting
+- Assign beneficiaries in the app and mirror them on the custodian's own form
+- Confirm your access design against both tests, out loud
+- Write and export the heir letter without a single secret in it
+- Arm the switch, tell its recipients, and do one check-in
+- Read your projected legacy and download the estate summary
+
+---
+
+Companion walkthrough for Module 8, and the module's hand-off target. Seven chapters, filmed as one session: **Protect overview → beneficiaries and executor → confirm the access design → heir letter → dead man's switch → projected legacy and estate summary → the optional trust gate.**
+
+The full DO / SEE / ⚠ sheet lives in `scripts/09-5_WALKTHROUGH_estate.md`.

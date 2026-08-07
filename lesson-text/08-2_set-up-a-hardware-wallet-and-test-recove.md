@@ -40,7 +40,14 @@ A hardware wallet is built for exactly this. **Your keys never leave the device.
 
 So if your family doesn't know your PIN, that's fine, because they buy a new device and restore from the seed. The PIN dies with the device. Which also means **protecting the PIN is not protecting your Bitcoin.** The seed is what needs real protection.
 
-## Homework
+## Your decision
 
-1. Never done the wipe-and-restore? Watch the demo lesson and do it with a small amount before serious money is on the line.
-2. Set your sweep threshold if your buys trickle in small.
+Whether your recovery actually works, which is not a thing you can decide by believing it.
+
+## Put it in Orange Plan
+
+Nothing to enter. This one happens on a device.
+
+## You are done when
+
+You have wiped and restored from your backup, on a device, and watched the balance come back. Until that has happened, you have a hardware wallet and a hope.

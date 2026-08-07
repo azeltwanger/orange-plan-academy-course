@@ -131,20 +131,18 @@ If the answer is no, you don't stop investing in Bitcoin. You adjust the allocat
 
 ### Your decision
 
-**The largest Bitcoin position you could actually hold through a 70 to 80% drawdown without selling.**
+Your decision here is the largest Bitcoin position you could actually hold through a 70 to 80% drawdown without selling.
 
-How to think about it:
+The way I think about this is pretty simple. Run the stress test on today's balance, not last year's, because the percentage doesn't move but the dollar amount does, and the dollar amount is what you'd actually feel. Answer it honestly, not aspirationally. The right answer is the one that's true at 3am with the price down 75%, not the one that sounds brave on camera. And if the honest answer is that you'd sell, then the position is too big. Most people land there the first time they run it honestly, and it's a lot better to find that out now than in the middle of the drawdown.
 
-1. **Run the stress test on today's balance, not last year's.** The percentage doesn't move, but the dollar figure does, and the dollar figure is what you'd actually feel.
-2. **Answer honestly, not aspirationally.** The right answer is the one that's true at 3am with the price down 75%, not the one that sounds brave.
-3. **If the honest answer is "I'd sell," the position is too big.** Most people land here the first time they run it honestly. Better to find that out now than in the middle of the drawdown. Size down to the number you can actually hold.
-4. **Check the price context before you act**, so you can tell whether you're reacting to the plan or to the last few months.
+### Put it in Orange Plan
 
-### Homework
+Strategy → Allocation. Set the Bitcoin percentage and the drift band.
 
-1. Run the stress test at today's balance and answer out loud.
-2. Set that position size as your target allocation in the app. The number you could hold through the drawdown is the target, not the number you hold today.
-3. If the target is below what you hold now, decide how you close the gap: new dollars only, or a sale with a tax cost you've checked.
+### You are done when
+
+You've run the drawdown test at today's balance, not the balance you had when you chose the number, and the answer was one you could sit through.
+
 
 ## 4.2 Break your accounts down by holding type, then by timeframe
 *`TEACH` · 605 words · ~4 min*
@@ -253,22 +251,22 @@ Both grow relative to everything else as you approach retirement. The target is 
 
 ### Your decision
 
-**Two things: a target mix across the six asset classes, and a target size for each of your three buckets.**
+Your decision here is two things. A target mix across the 6 asset classes, and a target size for each of your three buckets.
 
-How to think about it:
+Set the mix first, because it decides what you actually buy, and give it a drift band you can live with. 5 points is the default and a reasonable starting place.
 
-1. **Set the mix first**, because it decides what you buy. Give it a drift band you can live with; 5 points is the default and it's a reasonable starting place.
-2. **Reserve first among the buckets, because it's the only one with a deadline.** It's already sized from the reserve lesson.
-3. **Bridge is driven by your timeline**, meaning the years between when the paycheck stops and when your other income turns on. If you're decades away, it's small. If you're close to retiring, it's the biggest decision on this page.
-4. **Legacy is what's left**, and it's where Bitcoin belongs, because it's the only bucket with enough time to survive a drawdown.
-5. **Compare targets to what you actually hold.** The gap between the two is your routing instruction for the next year.
+Then the buckets, in order. Reserve you already sized in the reserve lesson. Bridge is driven by the years between your last paycheck and your income floor: small if you're decades away, the biggest number on the page if you're close. Legacy is whatever's left, and that's where Bitcoin belongs, because it's the only bucket with enough time to survive a drawdown.
 
-### Homework
+Then compare your targets to what you actually hold. The gap between those two is your routing instruction for the next year.
 
-1. Open **Strategy → Allocation → What each account holds** and read down the columns. Write the four numbers that come out: Bitcoin, stocks, bonds, cash, as percentages.
-2. Set your target mix so the six classes total 100%, and pick your drift band.
-3. Open **Sort accounts into buckets** and put every account in Reserve, Bridge, or Legacy yourself. Do not leave any on the inferred default.
-4. Compare the two cuts. If your mix is fine but your Legacy share is bigger than your years-to-retirement can carry, that is the gap to fix first.
+### Put it in Orange Plan
+
+Strategy → Allocation → sort every account into Reserve, Bridge or Legacy, then set each bucket's target.
+
+### You are done when
+
+No account is left on the app's inferred guess, and you can say where each bucket's target came from.
+
 
 ## 4.3 Order your contributions: which account gets funded first
 *`TEACH` · 575 words · ~4 min*
@@ -375,23 +373,19 @@ Here's where it gets practical. The waterfall tells you the order, but it doesn'
 
 ### Your decision
 
-**The order your next dollar flows, the amount at each rung, and which bucket the flexible dollars fill.**
+Your decision here is the order your next dollar flows, the amount at each rung, and which bucket your flexible dollars fill.
 
-How to think about it:
+Take free money first, because an employer match is the only guaranteed return you'll ever be offered. Then kill guaranteed losses, meaning high-interest debt. Then fill your tax shelters in order of quality. Everything after that is taxable or Bitcoin. And then let the buckets break the tie: once you know the account, check Allocation and put the flexible money toward whichever timeframe reads behind.
 
-1. **Take free money first.** An employer match is the only guaranteed return you'll ever be offered.
-2. **Then kill guaranteed losses**, meaning high-interest debt, because paying off a 20% card beats any investment you could pick with confidence.
-3. **Then fill tax shelters in order of quality**, since every dollar inside one keeps compounding without a yearly tax drag.
-4. **Everything after that is taxable or Bitcoin.**
-5. **Then let the buckets break the tie.** Once you know the account, check Strategy → Allocation and put the flexible money toward whichever timeframe reads Behind.
+You make this decision once and it routes every future dollar without you re-deciding every month. The bucket check is the only part that repeats, and it takes about 10 seconds during your monthly pass.
 
-You make this decision once and it routes every future dollar without you re-deciding each month. The bucket check is the only part you repeat, and it takes about 10 seconds during your monthly pass.
+### Put it in Orange Plan
 
-### Homework
+Cash Flow → Routing → waterfall order.
 
-1. Enter your contributions in the app, rung by rung, so the projection reflects your real routing.
-2. Open **Strategy → Allocation** and read which bucket comes back **Behind**. That's the rung to fund next.
-3. Automate whatever you can at the source, so the decision runs itself.
+### You are done when
+
+You know which rung the next dollar goes to without thinking about it. No match, no HSA eligibility, and no high-interest debt each complete their rung by being skipped deliberately.
 
 
 ## 4.4 Asset location: which account each holding belongs in
@@ -465,16 +459,19 @@ Where each asset sits affects the withdrawal order in retirement (Module 6):
 
 If all your Bitcoin is in taxable, that dictates when it gets sold and at what rate. If some sits in Roth, you have a tax-free spendable Bitcoin pool that opens different retirement paycheck options.
 
-### Homework
+### Your decision
 
-For every account, ask: is the asset in it appropriate for the wrapper?
+Which holding belongs in which wrapper.
 
-- Cash in a Roth? Move to taxable.
-- Bonds in a Roth? Move to Traditional.
-- Bitcoin only in taxable, with room in Roth? Consider a small ETF position for tax-free growth.
-- High-growth stocks in taxable and low-growth bonds in Roth? Swap them.
+### Put it in Orange Plan
 
-Location isn't a one-time decision. Every year, and any time you rebalance, ask again.
+Strategy → Allocation → account holdings. Move holdings so the tax-inefficient ones sit in the sheltered accounts.
+
+### You are done when
+
+Every account's contents match the job of the wrapper it's in, and you can give the reason for each one.
+
+Then watch the walkthrough below this video, where we route it in Orange Plan.
 
 
 ## 4.5 Walkthrough: route it in Orange Plan

@@ -84,17 +84,18 @@ Both grow relative to everything else as you approach retirement. The target is 
 
 ## Your decision
 
-**Two things: a target mix across the six asset classes, and a target size for each of your three buckets.**
+Your decision here is two things. A target mix across the 6 asset classes, and a target size for each of your three buckets.
 
-1. **Set the mix first**, since it decides what you buy. Give it a drift band you can live with; 5 points is the default and a reasonable start.
-2. **Reserve first among the buckets**, since it's the only one with a deadline and you sized it in the reserve lesson.
-3. **Bridge is your timeline**: the years between the paycheck stopping and other income starting. Decades away means small; close to retirement means it's the biggest number here.
-4. **Legacy is what's left**, and it's where Bitcoin belongs, because it's the only bucket with time to survive a drawdown.
-5. **Compare targets to what you hold.** The gap is your routing instruction for the year.
+Set the mix first, because it decides what you actually buy, and give it a drift band you can live with. 5 points is the default and a reasonable starting place.
 
-## Homework
+Then the buckets, in order. Reserve you already sized in the reserve lesson. Bridge is driven by the years between your last paycheck and your income floor: small if you're decades away, the biggest number on the page if you're close. Legacy is whatever's left, and that's where Bitcoin belongs, because it's the only bucket with enough time to survive a drawdown.
 
-1. Open **Strategy → Allocation → What each account holds** and read down the columns. Four numbers come out: Bitcoin, stocks, bonds, cash, as percentages.
-2. Set your target mix so the six classes total 100%, and pick your drift band.
-3. Open **Sort accounts into buckets** and place every account yourself. Leave none on the inferred default.
-4. Compare the two cuts. If the mix is fine but your Legacy share is bigger than your years to retirement can carry, that gap is the thing to fix first.
+Then compare your targets to what you actually hold. The gap between those two is your routing instruction for the next year.
+
+## Put it in Orange Plan
+
+Strategy → Allocation → sort every account into Reserve, Bridge or Legacy, then set each bucket's target.
+
+## You are done when
+
+No account is left on the app's inferred guess, and you can say where each bucket's target came from.

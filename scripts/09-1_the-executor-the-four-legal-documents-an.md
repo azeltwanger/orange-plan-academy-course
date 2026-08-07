@@ -65,16 +65,19 @@ If your household turns out to need a trust, there's a fifth question, and it's 
 
 And one filter I'd weight heavily on all of them: do they explain things in language your executor and your heirs are going to understand? Because you're not going to be the one sitting across from this attorney someday. Your spouse will be. Your executor will be. And they'll be doing it in the worst week of their lives.
 
-== HOMEWORK ==
+== YOUR DECISION ==
 
-Your homework for this lesson is to:
+Who your executor is, and whether your beneficiary forms name who you actually intend.
 
-1. Get a simple will into existence now. An online path like FreeWill gets a real document out of your head and onto paper.
-2. Have an attorney review it and supervise the signing, because execution formalities like witnesses and notarization are state-specific.
-3. Line up two or three estate-attorney candidates and take the question checklist below this lesson into the meeting.
-4. Ask your executor, out loud, whether they will do it, and confirm your beneficiary forms name who you actually intend. The form overrides the will, so an out-of-date form quietly overrides everything else you just did.
+== PUT IT IN ORANGE PLAN ==
 
-And if you're outside the US: the tests and the frameworks travel well, but the legal containers don't. Map the concepts with a qualified local professional.
+Protect → Needs attention → Beneficiaries. Then mirror every one on the custodian's own form, because the institution holds the binding record.
+
+== YOU ARE DONE WHEN ==
+
+A will exists and an attorney has supervised the signing, your executor has been asked out loud, and your beneficiary forms match your intent on the custodian's system. The form overrides the will, so an out-of-date form quietly overrides everything else you just did.
+
+If you're outside the US, the tests and the frameworks travel well but the legal containers don't. Map the concepts with a qualified local professional.
 
 ------------------------------------------------------------
 🎥 SCREEN SHARE (segment 9.1-B) — beats in SCREEN-SHOOT-LIST.

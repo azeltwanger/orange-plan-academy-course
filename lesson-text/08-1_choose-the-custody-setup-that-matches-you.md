@@ -49,25 +49,14 @@ You pick a setup that matches what you hold. Then the price runs up, and the sam
 
 ## Your decision
 
-**Which level you run.**
+Two decisions. Your honest score with the job each pile is doing. And which level you're going to run, including whether your custodial Bitcoin should sit at more than one institution.
 
-1. **Match the level to stakes and to what you can maintain.** A mismatch either way is the failure: too little custody for the amount is the Celsius problem, too much for your skill is the lost-seed problem.
-2. **Custody is not a purity test.** If your family can't use the setup, the advanced version isn't protecting anything. You move up a level by earning it, not by ideology.
-3. **For anything not self-custodied**, ask whether one company's bad week could take all of it.
-4. **Re-ask at the annual review**, at that year's balance.
+Match the level to what's at stake and what you can genuinely maintain, and remember a mismatch in either direction is the failure. Too little custody for the amount is the Celsius problem. Too much custody for your skill is the lost-seed problem.
 
-## Your decision
+## Put it in Orange Plan
 
-**Two things: your honest score with the job each pile is doing, and which level you will run.**
+Nothing in the app yet. This decision goes on your Family Custody Map, which the module walkthrough fills in.
 
-Match the level to what is at stake and what you can genuinely maintain. A mismatch in either direction is the failure: too little custody for the amount is the Celsius problem, too much custody for your skill is the lost-seed problem.
+## You are done when
 
-## Homework
-
-1. Score yourself on the 5 questions and name the job each pile is doing. Most people come out at one or two.
-2. Name the level you are at today and the level your amount and family say you should be at. If they differ, name the one thing that closes the gap.
-5. Put this on your annual review, to be re-asked at that year's balance.
-
-## Optional, only if it applies to you
-
-If one lost seed or one unavailable person could end your access, the Advanced Library compares passphrase, collaborative multisig, and DIY multisig. If the weight of self-custody is what has been stopping you, there is a short lesson on what the job actually asks of you. Your custody plan is complete without either.
+You have an honest score on the five questions, a named job for each pile of Bitcoin, and the level you're going to run. A note is on your annual review to re-ask all of it at that year's balance, because the price moves and your setup doesn't.

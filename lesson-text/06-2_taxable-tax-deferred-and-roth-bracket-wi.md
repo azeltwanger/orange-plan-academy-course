@@ -30,7 +30,12 @@ When you sell, you owe federal tax, and then your state can tax the same gain ag
 
 Open **Plan Guide** and ask for *"identify tax planning opportunities."* It screens your current year and your future tax windows and comes back with the one that most changes your plan.
 
-## Homework
+## Put it in Orange Plan
 
-1. Sketch income by age for 20 years; mark paychecks-stop and forced-income-starts. The low stretch between is your bracket window.
-2. Look up your state's capital-gains treatment; if it's a big lever, take it to a CPA who's done a real relocation.
+Strategy → Tax → Moves this year. Model one sale and read the tax it produces.
+
+## You are done when
+
+You know which bucket your money sits in and roughly in what proportion, and you have either identified your low-income window or established you don't have one yet. A deliberate pass on this year's window is a real outcome.
+
+Then watch the walkthrough below this video, where we model it in Orange Plan.

@@ -49,11 +49,14 @@ The third option is to sell Bitcoin to cover it. That can work, and it can work 
 
 I don't think there's one right answer here. Which option makes sense is going to come down to your numbers. But what your plan absolutely has to do is know that the cost is coming and have a lane assigned to it, because a plan that doesn't know about a $100,000 bill is going to give you a retirement date that isn't real.
 
-== HOMEWORK ==
+== YOUR DECISION ==
 
-Your homework for this lesson is to:
+Which known costs get pre-funded, and in which lane.
 
-1. List out every known cost you have with a date on it. Kids' college, the roof, a car, planned tax bills, big trips, home projects.
-2. Assign each one a lane based on how far away it is.
-3. Any cost that would break your monthly surplus in a single hit gets a pre-funding route started today.
-4. Then watch the walkthrough below this video, where I'll show you how to enter all of these into Orange Plan so that your projection accounts for them.
+== PUT IT IN ORANGE PLAN ==
+
+Plan → Goals for each dated cost, then Cash Flow → Routing to point dollars at it.
+
+== YOU ARE DONE WHEN ==
+
+Every known cost inside ten years either has a funding lane or a deliberate decision that monthly cash flow absorbs it. A cost you've decided to absorb is finished, not skipped.

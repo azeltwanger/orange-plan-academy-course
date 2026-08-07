@@ -62,10 +62,10 @@ So your decision out of this lesson is which growth model and which inflation nu
 
 Start with what you'd actually defend out loud, because if you can't explain why you picked a curve, then you didn't really pick it, you just left whatever the app had loaded. Then ask yourself which way you'd rather be wrong. If you're conservative and you're wrong, you just retire earlier than the screen said. If you're optimistic and you're wrong, the whole plan was built on something that didn't happen. And set inflation to what you actually believe, not whatever the default is, because your future spending rises with that number.
 
-== HOMEWORK ==
+== PUT IT IN ORANGE PLAN ==
 
-Your homework for this lesson is to:
+Plan → Retirement → Edit assumptions. Set growth and inflation, and leave the defaults only if you'd defend them.
 
-1. Pick your Bitcoin growth model, and say out loud why you picked it.
-2. Set your inflation number.
-3. Enter both in the app, under Plan and then Edit assumptions.
+== YOU ARE DONE WHEN ==
+
+You could say out loud why each assumption is the number it is. That's the same standard the report's assumptions section is held to, and it's the one that catches a number you picked because you liked the answer.

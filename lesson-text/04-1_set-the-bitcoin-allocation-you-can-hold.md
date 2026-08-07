@@ -46,20 +46,14 @@ Two numbers describe your situation: your allocation tier and your custody level
 
 ## Your decision
 
-**The largest Bitcoin position you could hold through a 70–80% drawdown without selling.**
+Your decision here is the largest Bitcoin position you could actually hold through a 70 to 80% drawdown without selling.
 
-1. **Run it on today's balance.** The percentage doesn't move, but the dollar figure does, and that's what you'd actually feel.
-2. **Answer honestly, not aspirationally.** The right answer is what's true at 3am with the price down 75%.
-3. **If the honest answer is "I'd sell," the position is too big.** Most people land here the first time. Better to know now than mid-drawdown.
+The way I think about this is pretty simple. Run the stress test on today's balance, not last year's, because the percentage doesn't move but the dollar amount does, and the dollar amount is what you'd actually feel. Answer it honestly, not aspirationally. The right answer is the one that's true at 3am with the price down 75%, not the one that sounds brave on camera. And if the honest answer is that you'd sell, then the position is too big. Most people land there the first time they run it honestly, and it's a lot better to find that out now than in the middle of the drawdown.
 
-## Ask the AI
+## Put it in Orange Plan
 
-Open **Plan Guide** and ask for *"help me choose my target allocation."* That's the **Build my portfolio strategy** workflow: risk tolerance, the job each holding does, and a target you could actually hold through a drawdown.
+Strategy → Allocation. Set the Bitcoin percentage and the drift band.
 
-## Homework
+## You are done when
 
-1. Place yourself honestly on education, conviction, and volatility comfort.
-2. Run the stress test at today's balance and answer out loud.
-3. Set that position size as your target allocation in the app.
-4. Check your custody level against your allocation level. If custody is a tier behind, closing that gap is the first job.
-5. If the target is smaller than what you hold now, decide how you close it: new dollars only, or a sale with a tax cost you've checked.
+You've run the drawdown test at today's balance, not the balance you had when you chose the number, and the answer was one you could sit through.

@@ -108,8 +108,16 @@ It knows the app and the planning frameworks this course is built on. It does no
 
 It reviews and it explains. You decide.
 
-## Homework
+## Your decision
 
-1. Click the **AI Review** button in the top bar so you know where it lives.
-2. Open **Preferences** inside Plan Guide and decide whether memory is on or off for you.
-3. Fix the one hard rule: no seed phrase, private key, passphrase, PIN, or full account number goes into any AI, including this one.
+Two decisions. Whether memory is on or off for you, and the one rule you never break.
+
+## Put it in Orange Plan
+
+Click AI Review in the top bar so you know where it lives, then open Preferences inside Plan Guide and set memory deliberately.
+
+## You are done when
+
+You can say the one rule from memory: no seed phrase, private key, passphrase, PIN, or full account number goes into any AI, including this one.
+
+The lesson text below has the technical detail, and it gets updated as the product changes. This video doesn't.

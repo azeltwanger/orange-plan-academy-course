@@ -77,11 +77,14 @@ If you retire at a high, and the first year of your retirement is a 70% drawdown
 
 So the retirement-sized reserve gets built before the retirement date, not after. If you're inside about 5 years of retiring, treat filling it as a real goal with a deadline on it, and fund it out of strength while the strength is there.
 
-== HOMEWORK ==
+== YOUR DECISION ==
 
-Your homework for this lesson:
+Your spending number, your income floor, and both bridges.
 
-1. Enter your retirement spending target and your Social Security estimate in the app. It solves the gap for you, and the gap is what the rest of this module works on.
-2. If you don't know your floor yet, pull your Social Security estimate this week. SSA.gov gives it to you in monthly and annual form. Heads up: the app takes it as a monthly number.
-3. Count both bridges, then multiply the Social Security one by your early-year gap. That total is what your Bridge bucket has to carry.
-4. Look at your Bridge bucket and ask honestly whether it's sized for that number.
+== PUT IT IN ORANGE PLAN ==
+
+Plan → Income → Income Blueprint. Enter the spending target and your Social Security estimate; the app solves the gap. It takes the estimate as a monthly number.
+
+== YOU ARE DONE WHEN ==
+
+The gap is on screen, you've counted both bridges, and you've looked at your Bridge bucket and answered honestly whether it's sized for the Social Security bridge's price tag.

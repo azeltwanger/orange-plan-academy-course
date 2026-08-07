@@ -67,10 +67,10 @@ Take free money first, because an employer match is the only guaranteed return y
 
 You make this decision once and it routes every future dollar without you re-deciding every month. The bucket check is the only part that repeats, and it takes about 10 seconds during your monthly pass.
 
-== HOMEWORK ==
+== PUT IT IN ORANGE PLAN ==
 
-Your homework for this lesson is to:
+Cash Flow → Routing → waterfall order.
 
-1. Enter your contributions in the app, rung by rung, so the projection reflects your real routing.
-2. Open Strategy and then Allocation, and read which bucket comes back behind. That's the rung to fund next.
-3. Automate whatever you can at the source, so the decision runs itself.
+== YOU ARE DONE WHEN ==
+
+You know which rung the next dollar goes to without thinking about it. No match, no HSA eligibility, and no high-interest debt each complete their rung by being skipped deliberately.

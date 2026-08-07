@@ -30,19 +30,14 @@ Target: 18 months × $80k = $120k. Spending held → refill fully. Spending cut 
 
 ## Your decision
 
-**The order you'll pull from, and your rule for refilling the reserve.**
+Your decision here is the order you'll pull from, and your rule for refilling the reserve.
 
-1. **Know what the default order costs.** Draining one bucket first wastes years of cheap tax room, then hands you a much bigger bill later.
-2. **Spread income instead of stacking it**, so you use the cheap years while you have them.
-3. **Spend from the reserve, not the volatile assets**, so a bad market never sets your paycheck.
-4. **Tie the refill to your confidence number**, not a feeling about the year: at or above 80% with no guardrail hit, refill fully; lower guardrail hit, hold a minimum and wait until confidence climbs back toward 80%; upper guardrail, refill regardless. The target never moves, only the pace.
+Understand what the default order actually costs you, because spending one bucket dry first hands you years of very low income that you never used, and then a much bigger bill later. So you're aiming to spread income evenly instead of stacking it, which means using your cheap years while you have them. Spend from the reserve, not directly from the volatile assets, so that a bad market never sets your paycheck. And set your refill rule by the type of year: refill fully in a good year, refill partially in a bad one, and never lower the target itself.
 
-## Ask the AI
+## Put it in Orange Plan
 
-Open **Plan Guide** and ask for *"which retirement drawdown strategy fits me."* That's the **Compare withdrawal strategies** workflow, run against your own income floor and reserve.
+Plan → Income → withdrawal order and refill rule.
 
-## Homework
+## You are done when
 
-1. Set your withdrawal order under **Plan → Income → Withdrawal order** and apply it.
-2. Set your **Monthly build cap** under Cash Flow → Reserve settings.
-3. Say your refill rule out loud once, so future you doesn't renegotiate the build cap in a bad year.
+The order is set, the refill rule is set, and you can say what each one does in a bad year without opening the app.

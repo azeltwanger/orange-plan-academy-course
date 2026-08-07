@@ -42,10 +42,14 @@ So for Bitcoin, go into every exchange you've ever used and download the transac
 
 Save all of it into a folder, because you're going to come back to these files every time you update the plan.
 
-== HOMEWORK ==
+== YOUR DECISION ==
 
-Your homework for this lesson:
+What you're going to gather, and by when.
 
-1. Set up one folder on your computer.
-2. Download every export you can get today, and label each file with the account name and the date range.
-3. Make basis the priority — the rest can be gathered in parallel.
+== PUT IT IN ORANGE PLAN ==
+
+Nothing yet. This one is a shoebox, not a screen. The walkthrough enters it all.
+
+== YOU ARE DONE WHEN ==
+
+Every account, balance, income source and debt is written down in one place, and the totals match what you'd tell a planner out loud.

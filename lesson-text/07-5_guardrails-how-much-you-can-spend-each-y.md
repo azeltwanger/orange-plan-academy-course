@@ -28,7 +28,16 @@ Failures at 80% aren't random. They're almost all a deep drawdown in year 2 inst
 
 18-month target never moves; refill fully in a held year, partway (~12 months) in a cut year.
 
-## Homework
+## Your decision
 
-1. Run the "50% drawdown after retirement" scenario this week.
-2. Does the plan survive at your current reserve size? If not, how much bigger must the reserve be? Those two answers price your reserve against the drawdown you're actually defending against.
+Your guardrail policy: how much a bad year changes what you spend.
+
+## Put it in Orange Plan
+
+Plan → Retirement → guardrails.
+
+## You are done when
+
+Your policy is set and the app can tell you hold, raise or cut. You can say what a cut year actually looks like in your life, in dollars.
+
+Then watch the walkthrough below this video, where we build the paycheck in Orange Plan.

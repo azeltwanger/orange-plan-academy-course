@@ -3,7 +3,7 @@
 *Gather the six pieces of your baseline, choose your assumptions (especially the Bitcoin growth number), understand the confidence ring that stress-tests your plan, run three scenarios, and know when a plan actually needs updating.*
 
 ## 2.1 What to gather before you build the plan
-*`TEACH` · 478 words · ~3 min*
+*`TEACH` · ~952 words · ~6 min*
 
 **By the end of this lesson, you can:**
 
@@ -13,52 +13,56 @@
 
 ---
 
-The first step is gathering the documents you need before you start building the baseline. Every decision downstream runs on this data, so accuracy up front saves you time on every future update.
+In today's lesson, we're going to cover the documents that you're going to need to gather before you start building your financial plan.
+
+This part is extremely important because every decision that we make in later modules and lessons is downstream and can be based off of all of the data that we put into the model to begin with. Taking the extra time to be accurate up front is going to save you from making misguided decisions based off of guesswork and data that's not up to date and accurate.
+
+Every number that comes out of your plan is only as good as what you put in it. If your spending number is just a rough guess, if what you need to spend in retirement and what you're currently spending month to month today is a rough guess, your retirement date is also going to be a guess. Another example: if your transaction history or your cost basis is missing, this can affect your tax calculations and prevent you from having as accurate numbers as we possibly can.
+
+Taking 30 minutes to an hour now to gather all of this information can be a really valuable exercise in getting organized, because most people that I work with are not organized when it comes to their personal finances. Just taking the time to go through this and gather everything so that we can put all of it together in one place to make smart decisions is beneficial for you. I know it can be a little bit of a pain, but it's definitely worth it.
 
 ### What to gather
 
-#### Income
+1. Your income. You want recent pay stubs so you can verify what's coming in per period and then what's coming in every year. If you own a business, you're going to want to include every stream of income that you have. If you have multiple businesses, if there are two earners, if you and your spouse both work, you're going to want to include pay stubs for both of you and earnings and income from both of you. This includes things like businesses, rental income, and investment dividends that you get.
 
-Recent pay stubs so you can verify income per period and per year. Include every stream: salary for each earner, self-employment, rental income, dividends.
+2. Your spending. As a rule of thumb, I like to use the last 3 months as a reference for about what you spend every month. A rough number here is fine to start with. Once you link your accounts in the app, the exact figure is going to be calculated for you, so you don't have to go digging through all of your credit cards and expenses. If you don't do that, then I would recommend going through all of your spending accounts or credit cards to get a more exact figure of what you're spending every month.
 
-#### Spending
+3. Your assets. This is going to be every account and asset that you own. What I recommend is opening each one in a separate browser tab as you go through onboarding so you don't miss any of your accounts. This step is going to be just an inventory of all of your assets: every account and what the current balances are. This includes things like your house. You can use Zillow or an estimate of what your house might be worth in your neighborhood or area. This includes things like your pension and retirement accounts, brokerage accounts, Bitcoin, hardware wallets, exchange accounts, and anywhere where you might have dollars, checking, and savings as well.
 
-Use the last three months as a reference for what you spend in a normal month. A rough number is fine to start. Once you link your accounts in the app, the exact figure is calculated for you.
+============================================================
+NOT YET DICTATED — placeholder text below, kept only so nothing is lost.
+Replace when Austin records items 4-7 and the homework.
+============================================================
 
-#### Assets
+4. Your debts. Credit cards, mortgage, auto, student loans, anything else. For each one, you want the current balance and the interest rate. And actually log in and check both, because the rate on paper from a few years ago isn't necessarily what you're being charged today.
 
-Every account you own. I'd recommend opening each one in a separate browser tab as you go through onboarding, so you don't miss any. This step is inventory: every account, its current balance.
+5. Your benefits. This is anything your employer contributes toward your future — the match on your retirement plan, any pension or deferred comp. For the match, you want the formula, not just a percentage. 50% up to 6% of pay is a different thing than a flat 3%.
 
-#### Debts
+6. Future life events. Any known costs coming up — kids' college, a new car, a new house. There's no documents needed for this one. Just start thinking through what's on the horizon.
 
-Credit cards, mortgage, auto, student loans, anything else. For each one, you want the current balance and the interest rate. Log in and check both. The rate on paper from years ago isn't necessarily what you're being charged today.
+### Cost basis — start this one now
 
-#### Benefits
+7. The last one is cost basis, and this is the hardest one, so it's the one to start on now.
 
-Anything your employer contributes toward your future. That includes the employer match on your retirement plan and any pension or deferred compensation.
-
-For the match, you want the formula, not just a percentage: 50% up to 6% of pay is different from a flat 3%.
-
-#### Future life events
-
-Any known costs or major events coming up: kids' college tuition, a new car, a new house. No documents needed. Just start thinking through what's on the horizon.
-
-#### Cost basis
-
-This one is the hardest, and it's the one to start on now.
-
-Cost basis is the price you paid for each asset. The app uses it to model your tax liability. Knowing what you paid for your Bitcoin and other assets can save real money and give you an accurate picture of what you'll owe.
+Cost basis is the price you paid for each asset. The app uses it to model your tax liability, and knowing what you actually paid for your Bitcoin can save you real money and give you an accurate picture of what you'll owe.
 
 Balances and rates you can pull today. Basis lives in old exchange records and accounts you may have closed, and it gets harder to recover every year.
 
-- **Bitcoin.** Go into every exchange you've ever used and download the transaction history (usually a CSV or Excel file).
-- **Brokerage and retirement accounts.** Every brokerage has a transaction history export.
+So for Bitcoin, go into every exchange you've ever used and download the transaction history. It's usually a CSV or an Excel file. And for your brokerage and retirement accounts, every brokerage has a transaction history export.
 
-Save all of it into a folder. You'll come back to these files every time you update the plan.
+Save all of it into a folder, because you're going to come back to these files every time you update the plan.
 
-### Homework
+### Your decision
 
-Set up one folder on your computer. Download every export you can get today, and label each file with the account name and date range. Basis is the priority; the rest can be gathered in parallel.
+What you're going to gather, and by when.
+
+### Put it in Orange Plan
+
+Nothing yet. This one is a shoebox, not a screen. The walkthrough enters it all.
+
+### You are done when
+
+Every account, balance, income source and debt is written down in one place, and the totals match what you'd tell a planner out loud.
 
 
 ## 2.2 Set your growth and inflation assumptions
@@ -153,24 +157,21 @@ Four things to keep in mind:
 
 ### Your decision
 
-**Which growth model and inflation rate your plan runs on.**
+So your decision out of this lesson is which growth model and which inflation number your plan is going to run on.
 
-How to think about it:
+Start with what you'd actually defend out loud, because if you can't explain why you picked a curve, then you didn't really pick it, you just left whatever the app had loaded. Then ask yourself which way you'd rather be wrong. If you're conservative and you're wrong, you just retire earlier than the screen said. If you're optimistic and you're wrong, the whole plan was built on something that didn't happen. And set inflation to what you actually believe, not whatever the default is, because your future spending rises with that number.
 
-1. **Start with what you'd defend out loud.** If you can't say why you picked a curve, you're running whatever the app handed you, and you'll have no idea what to change when the number moves.
-2. **Ask which way you'd rather be wrong.** A conservative assumption shows you a later date on screen. An optimistic one can make the whole plan unreliable, which costs a lot more.
-3. **Set inflation to what you actually believe**, not the default, because your future spending target rises with it.
+### Put it in Orange Plan
 
-### Homework
+Plan → Retirement → Edit assumptions. Set growth and inflation, and leave the defaults only if you'd defend them.
 
-1. Pick your Bitcoin growth model and say out loud why you picked it.
-2. Set your inflation number.
-3. Enter both in the app under **Plan → Edit assumptions**.
+### You are done when
 
-You'll get to change these later and see what the plan looks like under different assumptions. For now, we're setting the ones your baseline plan actually runs on.
+You could say out loud why each assumption is the number it is. That's the same standard the report's assumptions section is held to, and it's the one that catches a number you picked because you liked the answer.
+
 
 ## 2.3 Read your retirement date and confidence number
-*`TEACH` · 925 words · ~7 min*
+*`TEACH` · ~990 words · ~6 min*
 
 > 🐞 **LIVE BUG — this lesson's outcomes checklist renders empty (0 / 0).** The
 > apostrophe in "how it's calculated" was escaped shell-style (`'"'"'`) inside a
@@ -187,77 +188,73 @@ You'll get to change these later and see what the plan looks like under differen
 
 ---
 
+In today's lesson, we're going to cover the two numbers at the top of your plan — your earliest retirement date, and your confidence number — and how to read them together.
+
 ### Your earliest retirement date
 
-Your earliest retirement date is the year your assumptions say you could stop working. It's your freedom date.
+The date tells you when. The confidence number tells you how sturdy that date is. And most tools only show you the date.
 
-Freedom means different things depending on where you're at. It might mean full retirement, work becoming optional, or stepping back to only what matters to you. Whatever version you're planning for, the earliest retirement date is when the plan says you could safely make that move.
 
-The date is deterministic: it runs your numbers forward using the average returns from your assumptions. One line into the future, no stress test. Real markets don't work that way, which is where the confidence number comes in.
+Your earliest retirement date is the year your assumptions say you could stop working. I think of it as your freedom date.
+
+And freedom means different things depending on where you're at. It might mean full retirement, it might mean work becoming optional, or it might mean stepping back to only the things that matter to you. Whatever version you're planning for, this date is when the plan says you could safely make that move.
+
+One thing to understand about the date: it's deterministic. It runs your numbers forward using the average returns from your assumptions. One line into the future, no stress test. And real markets don't work that way — which is where the confidence number comes in.
 
 ### The confidence number
 
-The confidence number runs your entire plan through a thousand different simulated futures, each with different market results, then counts how many succeeded.
+The confidence number takes your entire plan and runs it through a thousand different simulated futures, each one with different market results, and then it counts how many of them succeeded.
 
-If your confidence number is 82%, that means 820 of those thousand runs succeeded on your numbers.
+You'll see this called a Monte Carlo simulation, and that's the label on the button in the app. Don't let the name throw you. All it means is running your plan a thousand times instead of once, so you're looking at a range of outcomes instead of a single guess.
 
-The failing 18% is not the probability you go broke. It's the probability you'd need to make adjustments: spending a little less for a stretch, working a year longer, or delaying a purchase. Failure in the simulation means the plan needed to bend, not that you ended up with nothing.
+A client asked me a sharp question about this once. He wanted to know whether it models a bad thing happening on top of another bad thing. Like, the price already dropped 50%, does any of those runs have it dropping another 30% from there?
+
+Yes. That's exactly what those thousand runs are for. Some of them are gentle, some of them stack a terrible year onto another terrible year, and a few of them are genuinely brutal. You're not looking at one guess about the future. You're looking at a spread of them, including the ugly ones.
+
+So if your confidence number is 82%, that means 820 of those thousand runs succeeded on your numbers.
+
+An 82% result means 820 of the 1,000 paths funded the plan as written. The other 180 fell short. Those paths tell you to test adjustments — spending a little less for a stretch, working a year longer, delaying a purchase. The score alone doesn't prove that one small change rescues all of them. And it isn't a forecast that you end up with nothing.
 
 ### Reading the two together
 
-- The **date** tells you *when*.
-- The **confidence number** tells you *how sturdy that date is*.
+The date tells you when. The confidence number tells you how sturdy that date is.
 
-Age 60 at 82% confidence is a real answer. Age 60 at 55% confidence would be the same date on the screen with a much weaker plan behind it.
-
-You want to look at both. A high confidence number with a date you can live with is what we're building toward.
+Age 60 at 82% confidence is a real answer. Age 60 at 55% confidence is the same date on the screen with a much weaker plan behind it. So you want to look at both. A high confidence number, with a date you can live with — that's what we're building toward.
 
 ### What the simulation is actually running
 
-The simulation doesn't just shuffle a portfolio return. It runs your entire plan inside every one of those thousand futures.
+Let me show you what the simulation is actually doing, because it's more than shuffling one portfolio return.
 
-For each run:
+Every one of those thousand futures runs your entire plan. It starts from your real balances today — your Bitcoin, your brokerage, your retirement accounts, your cash. In year one, every asset gets its own return based on your assumptions and its historical volatility. Then your actual life runs: income comes in, taxes go out, spending happens, withdrawals happen in your order, contributions and debt payments happen. You land on new balances. Then year two starts fresh with new market returns, and it does it again. 45 years of that is one complete future.
 
-- Start from your real balances today (Bitcoin, brokerage, retirement accounts, cash).
-- In year one, every asset gets its own return based on your assumptions and its historical volatility.
-- Your actual life runs: income in, taxes out, spending, withdrawals in your order, contributions, debt payments. You land on new balances.
-- Year two starts fresh with new market returns. Same steps. Then year three. Forty-five years of that is one complete future.
-
-Then it runs another 999 futures with different market returns and counts how many succeeded.
-
-Running your real life inside every path makes the answer sensitive to your plan, not just to your portfolio.
-
-> **How the simulation is built moved to the library: Advanced A1.1 "How
-> Orange Plan models Bitcoin: fat tails, correlations, floors and caps" (3
-> min).** Fat tails, the floor and cap on Bitcoin's single-year return, and
-> the cross-asset correlations. This lesson teaches how to *read* the number.
-> That one is for defending it.
+Then it runs another 999 futures with different markets and counts how many succeeded. Running your real life inside every path is what makes the answer sensitive to your plan, and not just to your portfolio.
 
 ### How to read your number
 
-A few things to keep in mind:
+Three things to keep in mind when you read yours:
 
-- **A high number means fewer adjustments.** 82% doesn't mean 18% chance of going broke. It means the plan needed to adjust in 180 of the thousand runs.
-- **Watch for big moves, not small ones.** Small run-to-run changes aren't meaningful. If a change to your plan moves the number 5-10 points, that's the change telling you something.
-- **The number is directional.** It's a stress test on research and history. When the research updates, the app's numbers update with it.
+1. A high number means fewer adjustments. 82% doesn't mean an 18% chance of going broke. It means 180 of the 1,000 paths came up short under the plan exactly as written.
+2. Watch for big moves, not small ones. Small run-to-run changes aren't meaningful. If a change to your plan moves the number 5 or 10 points, that's the change telling you something.
+3. And the number is directional. It's a stress test built on research and history, not a guarantee.
+
+You're going to run your own confidence ring for the first time in the walkthrough at the end of this module.
 
 ### Your decision
 
-**What confidence level you're aiming for, and which lever you'd pull if you come in under it.**
+Your decision here is what confidence level you're aiming for, and which lever you'd pull if you come in under it.
 
-How to think about it:
+Pick your target before you look at your number, so the number doesn't just talk you into whatever it already says. Then decide your lever in advance, because there are really only four: work a little longer, spend a little less, save more, or change your allocation. If you pick that now, a low number turns into a to-do item instead of a bad night. And remember 100 was never the goal. A very high number usually just means you're over-saving and under-living.
 
-1. **Pick your target before you see your number**, so the number doesn't talk you into whatever it already says.
-2. **Decide the lever in advance.** There are only four: work a little longer, spend a little less, save more, or change the allocation. Picking now means a low number becomes a to-do instead of a bad night.
-3. **Remember that 100 was never the goal.** A very high number usually means you're over-saving and under-living.
+### Put it in Orange Plan
 
-### Homework
+Plan → Retirement → guardrails policy, so the app knows what on track means for you.
 
-1. Run the confidence check in the app. The number saves with your plan.
-2. Set your target under the guardrails policy, so the app knows what "on track" means for you.
-3. Name the one lever you'd pull first if you're under it. One, not four.
+### You are done when
 
-The next module builds the cash flow that lets you keep buying Bitcoin without being forced to sell at the wrong time.
+Your date and your confidence number are both on screen and you read them as a pair. If you're under where you want to be, you've named one lever you'd pull first. One, not four.
+
+Then watch the two walkthroughs below this video, where we set the plan up in Orange Plan and build your baseline.
+
 
 ## 2.4 Walkthrough: set up your plan in Orange Plan
 *`DEMO` · 3,297 words · ~20 min read*

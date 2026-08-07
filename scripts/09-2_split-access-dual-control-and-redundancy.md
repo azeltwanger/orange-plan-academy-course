@@ -83,12 +83,10 @@ Your decision out of this lesson is who holds what, and which of the two tests y
 
 Design for the custody level you actually have, not the one you'd like to have, because an access plan built on a setup you haven't finished isn't a plan. Pick people who don't share a household, a safe, or a bad week. Choose for reliability over technical skill, since the process is written down and the person mainly has to follow it and be findable. And assume neither person goes rogue, while planning as if one might.
 
-== HOMEWORK ==
+== PUT IT IN ORANGE PLAN ==
 
-Your homework for this lesson is to:
+Nothing to type. This design goes on your Family Custody Map, and the module walkthrough confirms it against both tests on camera.
 
-1. Name the person holding each piece, and write down where each piece lives.
-2. Answer both tests in writing. Can one person spend alone? Can one lost copy or one unreachable person stop recovery? Write down the answer you don't like, because that's the one you'll otherwise forget you chose.
-3. If you failed test two, fix it first. Back up each piece on its own side before you do anything else. A loss you caused yourself is far more likely than a betrayal.
-4. Run the test with a small amount, start to finish, so you know it actually works.
-5. Confirm afterwards that the pieces are still in separate places, and that they were never written down together.
+== YOU ARE DONE WHEN ==
+
+You can name who holds each piece and where it lives, you have answered both tests in writing including the one your design fails, and you have run the whole thing with a small amount on a spare device. If you failed test two, you fixed it first: a loss you caused yourself is far more likely than a betrayal.

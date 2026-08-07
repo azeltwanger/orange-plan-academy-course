@@ -75,9 +75,14 @@ So if something happens to you and your family doesn't know your PIN, that's fin
 
 That also means the reverse is true, and it's the part to take seriously: **protecting the PIN is not protecting your Bitcoin.** The seed phrase is the thing that needs the real protection.
 
-== HOMEWORK ==
+== YOUR DECISION ==
 
-Your homework for this lesson is to:
+Whether your recovery actually works, which is not a thing you can decide by believing it.
 
-1. If you've never done the wipe-and-restore, watch the demo lesson in this module and then actually do it, with a small test amount, before serious money is on the line.
-2. Check your own wallet for dust. If your buys have been trickling in small, set your sweep threshold now.
+== PUT IT IN ORANGE PLAN ==
+
+Nothing to enter. This one happens on a device.
+
+== YOU ARE DONE WHEN ==
+
+You have wiped and restored from your backup, on a device, and watched the balance come back. Until that has happened, you have a hardware wallet and a hope.

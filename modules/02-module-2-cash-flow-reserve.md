@@ -99,11 +99,17 @@ Check what you're withholding against what you'll actually owe.
 
 Every raise gets a decision the same day. A $5,000 raise is ~$400/mo. Route it before it becomes lifestyle. Eighteen months of "I'll figure it out later" and the raise is gone.
 
-### Homework
+### Your decision
 
-- Walk through the surplus calculation on your own numbers.
-- Link an account or import transactions so Orange Plan categorizes the spending, then label every line as Keep, Cut, or Reduce. The app has no Keep/Cut/Reduce labels, so mark those on paper or in a spreadsheet; what goes back in is the resulting Living number. Kill one subscription, renegotiate one bill.
-- Enter your normal spending as Living spending, and your bare-bones number in the reserve settings. Both drive the projection from here.
+Your true surplus, and your two spending numbers: normal, and bare-bones.
+
+### Put it in Orange Plan
+
+Cash Flow → This month. Enter income and spending until the surplus verdict is a number you believe.
+
+### You are done when
+
+Your surplus is in the app rather than in your head, and you can say your bare-bones number without looking it up. That second number is the one that decides how bad a year has to get before anything changes.
 
 
 ## 3.2 Size your cash reserve in months of spending
@@ -288,11 +294,17 @@ Every known cost gets its own row: description, date, dollar amount, lane. The p
 
 *↑ Never names **Life Events**, which is the actual feature.*
 
-### Homework
+### Your decision
 
-- List every known cost with a date on it: kids' college, roof, car, planned tax bills, big trips, home projects.
-- Assign each one a lane based on how far away it is.
-- Any cost that would break your monthly surplus in a single hit gets a pre-funding route today.
+Which known costs get pre-funded, and in which lane.
+
+### Put it in Orange Plan
+
+Plan → Goals for each dated cost, then Cash Flow → Routing to point dollars at it.
+
+### You are done when
+
+Every known cost inside ten years either has a funding lane or a deliberate decision that monthly cash flow absorbs it. A cost you've decided to absorb is finished, not skipped.
 
 
 ## 3.4 Walkthrough: build cash flow and reserve in Orange Plan

@@ -59,9 +59,14 @@ The retirement-sized reserve gets built **before** the retirement date. Inside a
 
 **Plan → Income → Income Blueprint** runs the gap table on your numbers.
 
-## Homework
+## Your decision
 
-1. Enter your retirement spending target and Social Security estimate. The app solves the gap.
-2. Don't know your floor? Pull your estimate this week at SSA.gov. It gives monthly and annual; the app takes monthly.
-3. Count both bridges, then multiply the Social Security one by your early-year gap.
-4. Look at your Bridge bucket and ask honestly whether it's sized for that number.
+Your spending number, your income floor, and both bridges.
+
+## Put it in Orange Plan
+
+Plan → Income → Income Blueprint. Enter the spending target and your Social Security estimate; the app solves the gap. It takes the estimate as a monthly number.
+
+## You are done when
+
+The gap is on screen, you've counted both bridges, and you've looked at your Bridge bucket and answered honestly whether it's sized for the Social Security bridge's price tag.

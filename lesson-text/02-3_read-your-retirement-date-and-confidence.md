@@ -30,14 +30,16 @@ Those are the app's labels. As a planning judgment, aim for somewhere in the 80 
 
 ## Your decision
 
-**What confidence level you're aiming for, and which lever you'd pull if you come in under it.**
+Your decision here is what confidence level you're aiming for, and which lever you'd pull if you come in under it.
 
-1. **Pick your target before you see your number**, so the number doesn't talk you into whatever it already says.
-2. **Decide the lever in advance.** There are four: work longer, spend less, save more, change the allocation. Picking now turns a low number into a to-do instead of a bad night.
-3. **Remember 100 was never the goal.** A very high number usually means over-saving and under-living.
+Pick your target before you look at your number, so the number doesn't just talk you into whatever it already says. Then decide your lever in advance, because there are really only four: work a little longer, spend a little less, save more, or change your allocation. If you pick that now, a low number turns into a to-do item instead of a bad night. And remember 100 was never the goal. A very high number usually just means you're over-saving and under-living.
 
-## Homework
+## Put it in Orange Plan
 
-1. Run the confidence check. Your number saves with the plan.
-2. Set your target under the guardrails policy, so the app knows what on track means for you.
-3. Name the one lever you'd pull first. One, not four.
+Plan → Retirement → guardrails policy, so the app knows what on track means for you.
+
+## You are done when
+
+Your date and your confidence number are both on screen and you read them as a pair. If you're under where you want to be, you've named one lever you'd pull first. One, not four.
+
+Then watch the two walkthroughs below this video, where we set the plan up in Orange Plan and build your baseline.

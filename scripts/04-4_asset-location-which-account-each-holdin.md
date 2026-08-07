@@ -53,11 +53,16 @@ One more reason this matters: where each asset sits determines your withdrawal o
 
 So if all of your Bitcoin is in taxable, that dictates when it gets sold and at what rate. If some of it sits in a Roth, you've got a tax-free spendable Bitcoin pool, and that opens up different retirement paycheck options entirely. We build that paycheck in the retirement income module.
 
-== HOMEWORK ==
+== YOUR DECISION ==
 
-Your homework for this lesson is to:
+Which holding belongs in which wrapper.
 
-1. Go account by account and ask: is the asset inside appropriate for the wrapper? Cash sitting in a Roth should generally be reinvested inside the Roth, not withdrawn just to improve asset location. Bonds in a Roth move to traditional. High-growth stocks in taxable swap with low-growth bonds in the Roth.
-2. If your Bitcoin is all in taxable and you have Roth room, decide whether a small ETF position makes sense for you.
-3. Re-ask these questions once a year and any time you rebalance. Location isn't a one-time decision.
-4. Then watch the module walkthrough below this video, where we'll route all of this in Orange Plan.
+== PUT IT IN ORANGE PLAN ==
+
+Strategy → Allocation → account holdings. Move holdings so the tax-inefficient ones sit in the sheltered accounts.
+
+== YOU ARE DONE WHEN ==
+
+Every account's contents match the job of the wrapper it's in, and you can give the reason for each one.
+
+Then watch the walkthrough below this video, where we route it in Orange Plan.

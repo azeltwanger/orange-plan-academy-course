@@ -71,16 +71,12 @@ Orange Plan ships with the switch built in, and the default check-in is 90 days:
 
 == YOUR DECISION ==
 
-Your decision here is whether to arm the switch, and who gets contacted.
+Whether to arm the switch, and who gets contacted.
 
-Pick contacts who will act, not just people who care, and that's usually your executor plus whoever needs to know the letter exists. Tell them in advance, because a message that arrives out of nowhere reads like a scam and the first instinct is to ignore it. And treat the check-in as the point rather than a chore, because confirming you're alive every 90 days is the whole thing that keeps it armed.
+== PUT IT IN ORANGE PLAN ==
 
-== HOMEWORK ==
+Protect → Needs attention → Heir letter, then the Dead man's switch row.
 
-Your homework for this lesson:
+== YOU ARE DONE WHEN ==
 
-1. Write the first two lines of your letter tonight. The first phone call, and the first mistake to avoid. The rest of the letter follows naturally from those two.
-2. Name who receives it, and store it where they can actually reach it. A letter nobody can find is a letter that was never written.
-3. Decide whether you're arming it. If your access split is documented, the answer is usually yes.
-4. Add your contacts and arm it in the app.
-5. Tell every contact that it exists, and what to do if it ever fires.
+The first two lines of your letter are written in your own words, the PDF is saved somewhere separate from your seeds and devices, and the switch is armed with recipients who have been told in advance that it exists.

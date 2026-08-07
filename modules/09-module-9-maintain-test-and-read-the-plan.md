@@ -91,22 +91,15 @@ A long to-do list is the single biggest reason these reviews stop happening. You
 
 ### Your decision
 
-**Your two review dates.**
+Your decision out of this lesson is your two review dates. Pick a specific recurring day for the monthly one, because "first Saturday" survives and "beginning of the month" doesn't, and put the annual one in November. Then protect the boundary between them: if something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
 
-How to think about it:
+### Put it in Orange Plan
 
-1. **Separate the two jobs.** The monthly pass catches facts going stale. The annual pass asks whether decisions still fit. Mixing them turns every month into a rebuild.
-2. **Pick a specific recurring day for the monthly one.** "First Saturday" survives. "Beginning of the month" doesn't.
-3. **Put the annual one in November**, ahead of the December 31 tax deadline.
-4. **Protect the boundary.** If something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
+Your calendar, not the app. There is no in-app scheduler: a specific recurring day for the monthly pass, and November for the annual review.
 
-### Homework
+### You are done when
 
-1. Pick a specific day for your monthly pass and put November on the calendar for your annual review. Both as recurring events, right now.
-2. Decide what you will not touch during a monthly pass, and hold that line when the price is moving.
-3. Hold the three-action cap. More than three and none of them get finished.
-4. Then watch the module walkthrough, where we run the monthly pass on a timer and then the full annual lap.
-
+Both dates are recurring events you can see, and you have written down what you will not touch during a monthly pass. That second one is what holds the line when the price is moving.
 
 
 ## 10.2 Test a decision and read the finished plan
@@ -243,14 +236,19 @@ In all three you're handing a professional a document, not asking them to log in
 
 You started this course with accounts scattered everywhere and a rough guess. You're finishing with a document your family can read, your CPA can act on, and next-year-you can be measured against. That finished document is what a financial plan actually is.
 
-### Homework
+### Your decision
 
-1. Save one stress test, a deep drawdown right after your retirement year, and run the Monte Carlo on it.
-2. Save one choice you're genuinely weighing, built as a single-variable scenario.
-3. Answer the stress test out loud: would you still be okay? If no, build the lever you'd pull as its own scenario and see whether it fixes it.
-4. Read your own report in the four-question order, answer each question out loud in one sentence, and run the six red flags against it.
-5. Then watch the module walkthrough, where we build both scenarios, walk the full report, and save this year's PDF.
+Two scenarios worth keeping, and what your own report says in four sentences.
 
+### Put it in Orange Plan
+
+Scenarios → save a deep drawdown right after your retirement year and one choice you're genuinely weighing, then run the Monte Carlo on both.
+
+### You are done when
+
+You have answered the stress test out loud, read your own report in question order, and saved this year's PDF with the year in the filename. If the stress test came back no, you built the lever you'd pull as its own scenario and checked whether it actually fixes it.
+
+Then watch the module walkthrough below this video, where we build both scenarios, walk the report, and save the PDF.
 
 
 ## 10.3 Walkthrough: annual review, scenarios, and your report

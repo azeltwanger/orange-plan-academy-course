@@ -47,20 +47,18 @@ Both debts got the same job for two different reasons, which is what "a job with
 
 ## Your decision
 
-**Two things: your ceiling, and a job for every debt.**
+Two decisions out of this lesson.
 
-1. **Start with tolerance, not ratios.** If debt keeps you up at night, that outranks any formula.
-2. **Set the ceiling against DTA**, because that is the ratio that moves with Bitcoin.
-3. **Set it while the price is high**, because that is when debt looks safest and you are most tempted.
-4. **Every debt gets a job with a reason.** Not a feeling.
+Your ceiling, meaning the level you won't go past, whatever the ratios say is technically allowed. Start from tolerance, set it against DTA because that's the one that moves, and set it while the price is high.
 
-## Homework
+And a job for every debt, with a reason. Not a feeling.
 
-1. Read both ratios off **Strategy → Debt**. The app keeps them current.
-2. Decide your ceiling, say whether you are inside it today, and if not, that is your first debt job.
-3. Set each debt's tier and job in the app, with the reason.
-4. The app is done when no row reads **no payoff path**, unless you chose that on purpose.
+## Put it in Orange Plan
 
-## Optional, only if it applies to you
+Strategy → Debt → Add debt for every debt, then set each row's job on the ledger. Cash Flow → Routing, step 2, for the extra dollars.
 
-If you have or are considering a Bitcoin-backed loan, the Advanced Library covers how they work and how to size the cushion. If you are weighing using debt to build wealth on purpose, there is a lesson for that too. Your debt plan is complete without either.
+## You are done when
+
+Every debt has a job you can give the reason for, no row reads no payoff path unless you chose it, and your ceiling is a number you have said out loud. There is no field for the ceiling, which is the point.
+
+Then watch the walkthrough below this video, where we give every debt a job in Orange Plan.

@@ -97,7 +97,7 @@ Austin
 
 ## 1.2 How the AI works: what it reads, what it never sees
 
-*`TEACH` · ~899 words · ~6 min*
+*`TEACH` · ~896 words · ~6 min*
 
 **By the end of this lesson, you can:**
 
@@ -165,9 +165,16 @@ There's also a memory toggle in Preferences, and it starts off. What it remember
 
 And the last thing, which I'm saying once here so I don't have to repeat it in every walkthrough: it reviews and it explains. You decide.
 
-### Homework
+### Your decision
 
-1. Click the AI Review button in the top bar so you know where it lives.
-2. Open Preferences inside Plan Guide and decide whether memory is on or off for you.
-3. Fix the one hard rule: no seed phrase, private key, passphrase, PIN, or full account number ever goes into any AI, including this one.
-4. The lesson text below has the full technical detail: which model it runs on, the exact data it can request, the daily limits, and what it does and doesn't know about this course. That page gets updated as the product changes; this video doesn't.
+Two decisions. Whether memory is on or off for you, and the one rule you never break.
+
+### Put it in Orange Plan
+
+Click AI Review in the top bar so you know where it lives, then open Preferences inside Plan Guide and set memory deliberately.
+
+### You are done when
+
+You can say the one rule from memory: no seed phrase, private key, passphrase, PIN, or full account number goes into any AI, including this one.
+
+The lesson text below has the technical detail, and it gets updated as the product changes. This video doesn't.

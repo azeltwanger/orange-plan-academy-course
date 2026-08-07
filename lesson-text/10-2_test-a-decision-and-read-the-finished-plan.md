@@ -101,9 +101,16 @@ With two reports side by side, read four lines in order:
 
 In all three you hand a professional a document rather than asking them to log into an app. That is what lets three different people start from the same set of facts.
 
-## Homework
+## Your decision
 
-1. Save one stress test, a deep drawdown right after your retirement year, and run the Monte Carlo on it.
-2. Save one choice you are genuinely weighing, built as a single-variable scenario.
-3. Answer the stress test out loud. If the answer is no, build the lever you would pull as its own scenario and see whether it fixes it.
-4. Read your own report in the four-question order and run the six red flags against it.
+Two scenarios worth keeping, and what your own report says in four sentences.
+
+## Put it in Orange Plan
+
+Scenarios → save a deep drawdown right after your retirement year and one choice you're genuinely weighing, then run the Monte Carlo on both.
+
+## You are done when
+
+You have answered the stress test out loud, read your own report in question order, and saved this year's PDF with the year in the filename. If the stress test came back no, you built the lever you'd pull as its own scenario and checked whether it actually fixes it.
+
+Then watch the module walkthrough below this video, where we build both scenarios, walk the report, and save the PDF.

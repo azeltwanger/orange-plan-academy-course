@@ -31,8 +31,16 @@ Most of it is normal vetting: experience, fees, responsiveness. Four things are 
 
 Open **Plan Guide** and ask for *"what should I ask an estate attorney."* It builds the question list you take into the interview.
 
-## Homework
+## Your decision
 
-1. Get a simple will into existence now (an online path like FreeWill works); have an attorney review and supervise signing.
-2. Take the four-question checklist to 2-3 attorney candidates.
-3. Watch the walkthrough: confirm beneficiaries in the app and walk the Executor Packet with the actual person.
+Who your executor is, and whether your beneficiary forms name who you actually intend.
+
+## Put it in Orange Plan
+
+Protect → Needs attention → Beneficiaries. Then mirror every one on the custodian's own form, because the institution holds the binding record.
+
+## You are done when
+
+A will exists and an attorney has supervised the signing, your executor has been asked out loud, and your beneficiary forms match your intent on the custodian's system. The form overrides the will, so an out-of-date form quietly overrides everything else you just did.
+
+If you're outside the US, the tests and the frameworks travel well but the legal containers don't. Map the concepts with a qualified local professional.

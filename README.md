@@ -7,7 +7,7 @@ The Academy is **two courses** in one space group:
 <!-- METRICS:START -->
 | | Lessons | Runtime |
 |---|---|---|
-| **Core** — Build Your Bitcoin Financial Plan (required) | 27 teach | **223 min (3.7 h)** |
+| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **223 min (3.7 h)** |
 | **Advanced Library** — optional, gated per lesson | 17 teach | 118 min |
 
 Plus 11 core screen captures, narrated off the DO / SEE / ⚠ sheets rather than read.
@@ -28,6 +28,7 @@ The governing rule: *the core course helps people get a plan built; advanced is 
 
 - `MASTER-COURSE.md` — **the canonical core script.** 27 teach lessons + 9 walkthroughs + 1 external demo, across 10 modules. 🎥 markers show every screen-share boundary; `>` flag lines are production notes, never read on camera.
 - `MASTER-ADVANCED.md` — the canonical Advanced Library script. Every lesson opens with a **Gate** line naming the condition that makes it worth watching.
+- `MODULE-CHECKPOINTS.md` — **the completion system.** One checklist per module, every line checkable by the student. Each lesson closes with the same three beats (Your decision · Put it in Orange Plan · You are done when) and the module checklist is the sum of them. This replaced 40 per-lesson homework blocks.
 - `SCREEN-SHOOT-LIST.md` — the screen-capture run sheet (beats + app-state prep).
 - `DICTATION-ORDER.md` — the running order for recording. **Generated** — run `python3 tools/build-dictation-order.py` after any trim, or it will describe a course that no longer exists.
 - `FILMING-CHECKLIST.md` — production plan: phases, shooting order, per-lesson table.

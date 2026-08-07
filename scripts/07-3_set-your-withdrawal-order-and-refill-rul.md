@@ -89,10 +89,10 @@ Your decision here is the order you'll pull from, and your rule for refilling th
 
 Understand what the default order actually costs you, because spending one bucket dry first hands you years of very low income that you never used, and then a much bigger bill later. So you're aiming to spread income evenly instead of stacking it, which means using your cheap years while you have them. Spend from the reserve, not directly from the volatile assets, so that a bad market never sets your paycheck. And set your refill rule by the type of year: refill fully in a good year, refill partially in a bad one, and never lower the target itself.
 
-== HOMEWORK ==
+== PUT IT IN ORANGE PLAN ==
 
-Your homework for this lesson is to:
+Plan → Income → withdrawal order and refill rule.
 
-1. Set your withdrawal order in the app under Plan, Income, and then Withdrawal order, and apply it.
-2. Set your monthly build cap under Cash Flow and then Reserve settings, which controls your refill pace.
-3. Say your refill rule out loud once, so future you doesn't renegotiate that build cap in a bad year.
+== YOU ARE DONE WHEN ==
+
+The order is set, the refill rule is set, and you can say what each one does in a bad year without opening the app.

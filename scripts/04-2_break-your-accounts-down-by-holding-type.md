@@ -81,11 +81,10 @@ Then the buckets, in order. Reserve you already sized in the reserve lesson. Bri
 
 Then compare your targets to what you actually hold. The gap between those two is your routing instruction for the next year.
 
-== HOMEWORK ==
+== PUT IT IN ORANGE PLAN ==
 
-Your homework for this lesson is to:
+Strategy → Allocation → sort every account into Reserve, Bridge or Legacy, then set each bucket's target.
 
-1. Open Strategy, then Allocation, and read down the columns under "What each account holds." Four numbers come out of that: your Bitcoin, stocks, bonds, and cash as percentages.
-2. Set your target mix so the 6 classes total 100%, and pick your drift band.
-3. Open "Sort accounts into buckets" and put every account into Reserve, Bridge, or Legacy yourself. Don't leave any of them sitting on the inferred default.
-4. Then compare the two cuts. If your mix is fine but your Legacy share is bigger than your years to retirement can carry, that's the gap to go fix first.
+== YOU ARE DONE WHEN ==
+
+No account is left on the app's inferred guess, and you can say where each bucket's target came from.

@@ -83,15 +83,12 @@ Your ceiling, meaning the level you won't go past, whatever the ratios say is te
 
 And a job for every debt, with a reason. Not a feeling.
 
-== HOMEWORK ==
+== PUT IT IN ORANGE PLAN ==
 
-Your homework for this lesson is to:
+Strategy → Debt → Add debt for every debt, then set each row's job on the ledger. Cash Flow → Routing, step 2, for the extra dollars.
 
-1. Read both of your ratios off the Strategy and then Debt page. The app keeps them current, so there's nothing to copy down.
-2. Decide your ceiling. There's no field for that one, so say it out loud and mean it, and say whether you're inside it today. If you're not, that's your first debt job.
-3. Line up every debt you have with its rate next to it, then set each one's tier and job in the app, saying the reason out loud as you go. A 24% credit card is eliminate, because it's a guaranteed 24% loss. An 8% car loan is evaluate, and the answer depends on your DTI and your reserve. A 5.5% student loan is strategic. A 3% mortgage is strategic, kept on purpose. And a Bitcoin-backed loan at 25% LTV is monitor, watched by the cushion.
-4. The app is done when no row reads no payoff path, unless you chose that on purpose.
+== YOU ARE DONE WHEN ==
 
-One more thing before we go do this. If you've already got a Bitcoin-backed loan, or you're seriously considering one, there are two lessons in the advanced library on how those actually work and how to size the cushion so a normal bear market doesn't liquidate you. And if you're thinking about using debt to build wealth on purpose, there's a lesson on that too. Neither one is required to finish your debt plan.
+Every debt has a job you can give the reason for, no row reads no payoff path unless you chose it, and your ceiling is a number you have said out loud. There is no field for the ceiling, which is the point.
 
-Then watch the walkthrough below this video, where we put a job on every row in Orange Plan.
+Then watch the walkthrough below this video, where we give every debt a job in Orange Plan.

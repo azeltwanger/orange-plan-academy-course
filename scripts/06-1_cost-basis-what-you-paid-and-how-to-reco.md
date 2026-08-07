@@ -55,11 +55,14 @@ Because if there's no basis at all, the gain gets treated as the entire sale pri
 
 Go back to that quarter-Bitcoin sale. With records, the real gain was $10,000. With a blank, the gain becomes the full $25,000, because the whole sale price counts as profit. At 15%, a $1,500 bill just turned into $3,750. That's paying $2,250 extra purely for a missing record.
 
-== HOMEWORK ==
+== YOUR DECISION ==
 
-Your homework for this lesson is to:
+How far back you can reconstruct, and what you'll do about anything you can't.
 
-1. Pull your full transaction history from every exchange and every wallet you've ever used.
-2. Import it, so every lot carries what you paid and when. For the gaps, build the documented estimate we just walked through and enter that.
+== PUT IT IN ORANGE PLAN ==
 
-This one is tedious. But you do it once, and it makes every future tax move in this module precise instead of approximate.
+Strategy → Tax → cost basis. Enter what you have, and flag the lots you can't prove.
+
+== YOU ARE DONE WHEN ==
+
+Every lot has a basis you could show someone, or is flagged as unproven. No records means a basis of zero, which means tax on the entire sale price, so an unproven lot is a real number in your plan rather than a gap.

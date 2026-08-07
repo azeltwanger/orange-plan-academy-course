@@ -55,17 +55,12 @@ Built into Orange Plan, 90-day default. Requires **Cloud mode**: a local-only se
 
 ## Your decision
 
-**Whether to arm it, and who gets contacted.**
+Whether to arm the switch, and who gets contacted.
 
-1. **Know what it's for.** Everything else in this module sits still until a person starts. This is what makes someone start.
-2. **Pick contacts who will act**, not just care: usually the executor plus whoever needs to know the letter exists.
-3. **Tell them in advance.** A message out of nowhere reads like a scam and gets ignored.
-4. **The check-in is the point.** Confirming you're alive every 90 days keeps it armed.
+## Put it in Orange Plan
 
-## Homework
+Protect → Needs attention → Heir letter, then the Dead man's switch row.
 
-1. Write your letter's first two lines tonight: the first phone call and the first mistake to avoid.
-2. Watch the walkthrough to write the full letter in the app.
-3. Decide whether you're arming it. With a documented access split, usually yes.
-4. Add contacts and arm it in the app.
-5. Tell every contact it exists and what to do if it fires.
+## You are done when
+
+The first two lines of your letter are written in your own words, the PDF is saved somewhere separate from your seeds and devices, and the switch is armed with recipients who have been told in advance that it exists.

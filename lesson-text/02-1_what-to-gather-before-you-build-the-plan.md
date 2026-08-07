@@ -19,8 +19,14 @@ Your plan is only as good as its inputs. This lesson collects them once, so onbo
 - **Bitcoin is entered as quantity, never dollars.** The app prices it live.
 - **Leave basis blank rather than inventing it.** If you don't know what you paid, leave it. Never guess a number you can't defend.
 
-## Homework
+## Your decision
 
-1. Pull the numbers above into one place (a note or a card).
-2. Pull your Social Security estimate. It comes as a monthly figure, which is what the app takes.
-3. Have it all in front of you before starting the onboarding walkthrough.
+What you're going to gather, and by when.
+
+## Put it in Orange Plan
+
+Nothing yet. This one is a shoebox, not a screen. The walkthrough enters it all.
+
+## You are done when
+
+Every account, balance, income source and debt is written down in one place, and the totals match what you'd tell a planner out loud.

@@ -62,15 +62,12 @@ Open **Plan Guide** and ask for *"what should I work on next."* It picks up wher
 
 ## Your decision
 
-**Your two review dates.**
+Your decision out of this lesson is your two review dates. Pick a specific recurring day for the monthly one, because "first Saturday" survives and "beginning of the month" doesn't, and put the annual one in November. Then protect the boundary between them: if something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
 
-1. **Keep the jobs separate.** Monthly catches stale facts. Annual asks whether decisions still fit. Mixing them turns every month into a rebuild.
-2. **Pick a specific recurring day for the monthly one.** "First Saturday" survives; "beginning of the month" doesn't.
-3. **Put the annual one in November**, ahead of the December 31 tax deadline.
-4. **Protect the boundary.** Something big during a monthly pass gets written down for the annual review, not solved on the spot.
+## Put it in Orange Plan
 
-## Homework
+Your calendar, not the app. There is no in-app scheduler: a specific recurring day for the monthly pass, and November for the annual review.
 
-1. Pick your monthly day and put November on the calendar for the annual review. Both recurring, now.
-2. Decide what you will not touch during a monthly pass, and hold that line when the price is moving.
-3. Hold the three-action cap. More than three and none of them get finished.
+## You are done when
+
+Both dates are recurring events you can see, and you have written down what you will not touch during a monthly pass. That second one is what holds the line when the price is moving.
