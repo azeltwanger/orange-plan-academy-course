@@ -5,8 +5,6 @@ TELEPROMPTER SCRIPT — segment 6.2
 
 In today's lesson, we're going to cover the three things that decide your tax bill: where your money sits, when you act, and where you live when you act.
 
-This lesson is US-specific, and I'll have a note for non-US viewers at the end.
-
 You have some control over what tax rate you pay, and most of that control comes from two choices: which account you pull money out of, and which year you do it in. This lesson shows you where those two dials are so you can actually use them.
 
 == WHERE YOUR MONEY SITS: THE 3 BUCKETS ==
@@ -85,4 +83,6 @@ Your homework for this lesson is to:
 2. Mark the year the paychecks stop and the year the forced income starts. The stretch in between, at your lowest income, is your bracket window.
 3. Look up how your state treats capital gains: regular income, special rate, or no tax. If the answer looks like a big lever, take it to a CPA who's done a real relocation before.
 
-And if you're outside the US: the frameworks here travel, the specific rules don't. Map the concepts with a qualified local professional.
+Two more tax strategies live in the advanced library, and which one applies comes down to your own numbers. Roth conversions, if you've got meaningful traditional balances and a low-income window coming. And harvesting, if your lots show a real gain or loss worth acting on. Your tax plan is complete without either of them.
+
+Then watch the walkthrough below this video, where we build the whole tax picture in Orange Plan.

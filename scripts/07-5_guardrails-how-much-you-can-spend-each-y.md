@@ -86,3 +86,5 @@ Your homework for this lesson is to:
 1. Run the 50% drawdown after retirement scenario on your own plan this week. It's one click in the app's scenarios.
 2. Answer 2 questions from it. Does the plan survive with your current reserve size? And if not, how much bigger does the reserve need to be?
 3. Then watch the walkthrough below this video, where we build the whole retirement paycheck in Orange Plan.
+
+Two situations get their own lessons in the advanced library. Retiring before Medicare, which is a real cost you have to plan for. And the sell-versus-borrow decision, if borrowing against Bitcoin is on the table for you at all.

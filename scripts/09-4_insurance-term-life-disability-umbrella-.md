@@ -65,4 +65,4 @@ Your homework for this lesson is to:
 2. Run it again for a disability scenario, your income stopping while your spending doesn't. Those two numbers size your coverage.
 3. Take both numbers to a licensed insurance professional. None of this is a product recommendation, and the actual coverage runs through them.
 
-And if you're outside the US: the math travels, the products and tax treatment don't. Map it with a qualified local professional.
+And the last thing on estate. Most households do not need a trust, but I think everybody should run the gate once and get an actual answer. That lesson is in the advanced library, and running the gate is what finishes this part of your plan, whichever way it comes out.

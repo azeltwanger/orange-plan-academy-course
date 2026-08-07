@@ -105,3 +105,6 @@ Your homework for this lesson is to:
 
 1. Make your own only-one list, all 9 questions.
 2. Pick the one at the top, ranked by cost of loss, and fix it this week. Not all nine. Just that one.
+3. Then watch the demo and the walkthrough below this video, where I set up a hardware wallet on screen and then we document your custody map in Orange Plan.
+
+And one pointer before you go. If one lost seed, or one person you can't reach, could end your access, the advanced library compares the three ways to fix that: a passphrase, collaborative multisig, and running multisig yourself. Your custody plan is complete without them. That lesson is there for when the amount or the family situation says you need more.

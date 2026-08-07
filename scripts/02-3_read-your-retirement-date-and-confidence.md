@@ -83,4 +83,6 @@ Your homework for this lesson is to:
 1. Run the confidence check in the app. Your number saves with the plan, so there's nothing to copy down.
 2. Set your target under the guardrails policy, so the app knows what on track means for you.
 3. Name the one lever you'd pull first if you're under it. One, not all four.
+
+And if you want to see exactly how that simulation is built, the fat tails, the correlations, the floors and caps, that's its own lesson in the advanced library.
 4. Then watch the two walkthroughs below this video, where we set the plan up in Orange Plan and build your baseline.

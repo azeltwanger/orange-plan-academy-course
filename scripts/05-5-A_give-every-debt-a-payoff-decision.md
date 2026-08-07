@@ -63,4 +63,6 @@ Your homework for this lesson is to:
 2. Set each one's tier and job in the app, and say the reason out loud as you do it. A 24% credit card is eliminate, because it's a guaranteed 24% loss. An 8% car loan is evaluate, and the answer depends on your DTI and your reserve. A 5.5% student loan is strategic. A 3% mortgage is strategic, kept on purpose. And a Bitcoin-backed loan at 25% LTV is monitor, watched by the cushion.
 3. Make sure every debt ends up with a decision, not a feeling. The app is done when no row reads no payoff path, unless you chose that on purpose.
 
+One more thing before we go do this. If you've already got a Bitcoin-backed loan, or you're seriously considering one, there are two lessons in the advanced library on how those actually work and how to size the cushion so a normal bear market doesn't liquidate you. And if you're thinking about using debt to build wealth on purpose, there's a lesson on that too. Neither one is required to finish your debt plan.
+
 So now let's go put a job on every row in the app.

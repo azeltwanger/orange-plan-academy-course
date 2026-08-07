@@ -79,6 +79,6 @@ Your homework for this lesson is to:
 
 1. Run two checks against your own lots. First: are there losses sitting unharvested from the last drawdown? Second: are there gains you could realize this year at 0%?
 2. Take those two answers to your CPA. They're the whole conversation.
-3. Then watch the walkthrough below this video, where we run every one of these levers in Orange Plan.
+3. Then run the harvest levers in Orange Plan on the tax walkthrough in the core course, using your own lots.
 
 And if you're outside the US: the frameworks travel, the specific rules don't. Map the concepts with a qualified local professional.
