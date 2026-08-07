@@ -168,6 +168,23 @@
 
 ---
 
+---
+
+## □ 7b · The three misfits, on their own screen
+
+*Moved out of the 4.2 teach lesson. These are point-at-the-screen beats, not
+teaching, so they belong here.*
+
+**SEE** Point at each row and name the mistake it would be.
+
+**⚠ Bitcoin in the Bridge.** Bitcoin belongs in Legacy. The rule is not "never sell Bitcoin before ten years" — that would contradict the retirement module, where a 60-year-old sells Bitcoin to fund the year. The rule is that **a near-term obligation must not depend on Bitcoin being at a favourable price on the day the bill arrives.** Long-term Bitcoin can still be sold opportunistically to refill the less-volatile buckets. Say it that way on camera; the short version gets misheard.
+
+**⚠ Cash in Legacy.** Cash has no place in a ten-plus-year bucket, because inflation eats it the whole time. A 401(k) sitting in a stable-value fund is exactly this: Bridge risk in a Legacy slot.
+
+**⚠ A Reserve that's too small in retirement.** Once you draw income instead of earning it, the Reserve's job becomes sequence-risk protection, not emergencies. It gets bigger, not smaller.
+
+---
+
 ## □ WRAP — spot check off the screen
 
 - [ ] Donut matches reality

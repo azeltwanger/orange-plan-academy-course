@@ -119,7 +119,8 @@ forward and restarting is where the retakes come from. Where a sheet has
 9. ☐ 9 · Compare in Scenarios
 10. ☐ 10 · Review portfolio (AI)
 11. ☐ 11 · Confirm the record
-12. ☐ WRAP — spot check off the screen
+12. ☐ 7b · The three misfits, on their own screen
+13. ☐ WRAP — spot check off the screen
 
 ---
 

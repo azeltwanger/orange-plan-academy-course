@@ -83,12 +83,12 @@ changed once, in both places, before you record.
 | 3.3 | Fund known future costs: college, cars, a house, repairs | 6.8 |
 | 3.4 | *Walkthrough: build cash flow and reserve in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 3 — Allocation & Next-Dollar · 36 min
+### Module 3 — Allocation & Next-Dollar · 34 min
 
 | # | Lesson | min |
 |---|---|---|
 | 4.1 | Set the Bitcoin allocation you can hold through a full drawdown | 9.3 |
-| 4.2 | Break your accounts down by holding type, then by timeframe | 11.8 |
+| 4.2 | Break your accounts down by holding type, then by timeframe | 9.8 |
 | 4.3 | Order your contributions: which account gets funded first | 8.6 |
 | 4.4 | Asset location: which account each holding belongs in | 6.7 |
 | 4.5 | *Walkthrough: route it in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
@@ -146,7 +146,7 @@ changed once, in both places, before you record.
 
 ---
 
-**27 teach lessons · 231 min (3.8 h) of finished audio at 155 wpm.**
+**27 teach lessons · 229 min (3.8 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not dictated. They are screen captures you narrate in
 your own words off the DO / SEE / ⚠ sheets, and they happen after the

@@ -53,51 +53,33 @@ In the app it's "Funding your timeframes," and then "Sort accounts into buckets,
 
 Let me run the couple's six accounts through it.
 
-Their $30,000 of checking and savings is Reserve. That's the liquid safety net. The $10,000 invested HSA is Bridge, because they intend to spend it on medical costs before retirement. If they were leaving it invested to grow as a Roth-like medical fund for later, it would be Legacy instead. The bucket follows the job you give it, not the account type. The $30,000 taxable brokerage is Bridge, earmarked for planned spending 5 to 8 years out. The $15,000 in the 529 is Bridge too, because it's dated tuition money, 8 years out. Their $175,000 of Bitcoin is Legacy, the long-term core. And the $35,000 across the 401(k) and IRA is Legacy as well, because they're 15-plus years from retirement.
+Checking and savings is Reserve, the liquid safety net. The taxable brokerage and the 529 are Bridge, both earmarked for dated costs inside a decade. Bitcoin and the retirement accounts are Legacy, because they're fifteen-plus years out.
 
-So that's $30,000 in Reserve, $55,000 in Bridge, and $210,000 in Legacy. Roughly 10%, 19%, and 71%.
+The HSA is the interesting one, because it could go either way. Theirs is Bridge, since they intend to spend it on medical costs before retirement. If they were leaving it invested to grow as a Roth-like medical fund for later, it would be Legacy. The bucket follows the job you give it, not the account type, and that's true of every row on this page.
+
+That lands them at $30,000 in Reserve, $55,000 in Bridge, and $210,000 in Legacy. Roughly 10%, 19%, and 71%.
 
 Now put the two cuts next to each other, because this is the whole reason you do both. Their mix is 59% Bitcoin, which their tier supports. Their timeframes say 71% of everything they own is untouchable for a decade. For a couple in their forties, both of those are fine. For a couple three years out from retiring, that same mix with those same timeframes would be a real problem, and only the second cut would ever show it to you.
 
 One thing to watch: anything you don't sort yourself gets classified for you. The app infers a bucket from the account type when you haven't set one, and it'll tell you which mode you're in. An inferred bucket is a reasonable starting guess. It isn't your decision. Go sort them.
 
-And a heads up on the layout: on that page, the timeframes section sits above the target mix and above the account holdings. That's a summary-first design, the result at the top and the detail underneath. The first time you do this, scroll down and start with what each account holds.
-
-== THE REFILL RULE ==
-
-Now, these buckets aren't static. The Bridge and the Reserve get drained by life, and Legacy gets built over time. So there's a rule for refilling, and it matters most in retirement.
-
-The rule is: refill from the bucket that's up. Never from the bucket that's down.
-
-So if stocks are up 15% and Bitcoin is down 60%, you refill the Bridge by trimming stocks. Not by selling Bitcoin. That's exactly how you avoid selling Bitcoin at a bad time just to fund your life.
-
-And if everything is down at once, in a coordinated drawdown, you draw from the Reserve. That's literally what it exists for. The Reserve is the shock absorber that keeps the refill rule alive when nothing is up.
-
 == SET A TARGET PERCENTAGE FOR EACH BUCKET ==
 
 Each bucket gets two numbers: the current balance, and a target, which is the percentage of your investable assets it should be.
 
-For a working, Sovereign-tier household, something like 5% Reserve, 15% Bridge, and 80% Legacy can make sense. As you approach retirement, that shifts. Something like 10% Reserve, because you want a bigger buffer against sequence risk, 30% Bridge, and 60% Legacy.
+Two things set that target. Your Reserve target you already decided, in months of spending, back in the cash flow module. Your Bridge target is the bridge you priced in the retirement module, the years between your last paycheck and your income floor. Legacy is what's left. So you're not picking these percentages out of the air, and they move as you get closer to retiring, because the Reserve and the Bridge both get bigger relative to everything else.
 
-The target is what the projection actually uses. When you change it, the plan re-solves. And then your job is just to route new dollars and refill decisions toward the target.
-
-== COMMON MISTAKES ==
-
-There are three mistakes I see over and over here.
-
-The first one is Bitcoin in the Bridge. Bitcoin belongs in Legacy. If you're planning to spend your Bitcoin inside of 10 years, then either the bucket is wrong or the plan is wrong, and you need to figure out which.
-
-The second one is cash in Legacy. Cash has no place in a ten-plus-year bucket, because inflation is eating it the entire time. A 401(k) sitting in a stable-value fund is exactly this mistake: it's Bridge risk sitting in a Legacy slot.
-
-And the third is a Reserve that's too small in retirement. Once you're drawing income instead of earning it, the Reserve is doing more work. Its job in retirement is sequence-risk protection, not just emergencies.
+The target is what the projection actually uses. Change it and the plan re-solves, and from then on your job is routing new dollars toward it.
 
 == YOUR DECISION ==
 
 Your decision here is two things. A target mix across the 6 asset classes, and a target size for each of your three buckets.
 
-Set the mix first, because it decides what you actually buy, and give it a drift band you can live with. 5 points is the default and I think that's a reasonable starting place.
+Set the mix first, because it decides what you actually buy, and give it a drift band you can live with. 5 points is the default and a reasonable starting place.
 
-Then the buckets. Reserve comes first, because it's the only one with a deadline, and you already sized it back in the reserve lesson. Bridge is driven by your timeline, meaning the years between when the paycheck stops and when your other income turns on. If you're decades away that's small, and if you're close to retiring it's the biggest number on this page. Legacy is whatever's left, and that's where Bitcoin belongs, because it's the only bucket with enough time to survive a drawdown. Then compare your targets to what you actually hold, because the gap between those two is your routing instruction for the next year.
+Then the buckets, in order. Reserve you already sized in the reserve lesson. Bridge is driven by the years between your last paycheck and your income floor: small if you're decades away, the biggest number on the page if you're close. Legacy is whatever's left, and that's where Bitcoin belongs, because it's the only bucket with enough time to survive a drawdown.
+
+Then compare your targets to what you actually hold. The gap between those two is your routing instruction for the next year.
 
 == HOMEWORK ==
 

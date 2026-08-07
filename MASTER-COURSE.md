@@ -1662,31 +1662,30 @@ Now look at what the two cuts tell you together. Their mix is 59% Bitcoin, which
 
 ⚠ **On the page, the timeframes section sits ABOVE the target mix and the account holdings.** That's a summary-first layout: the result at the top, the detail below. When you're doing the work for the first time, scroll down and start with what each account holds.
 
-### The refill rule
-
-Buckets aren't static. Bridge and Reserve get drained. Legacy gets built. The rule matters in retirement:
-
-**Refill from the bucket that's up. Never from the bucket that's down.**
-
-If stocks are up 15% and Bitcoin is down 60%, refill Bridge (or the paycheck coming out of it) by trimming stocks. Not by selling Bitcoin. That's how you avoid selling Bitcoin at a bad time to fund life.
-
-If everything is down in a coordinated drawdown, draw from the Reserve. That's what it exists for. The Reserve is the shock absorber that keeps the refill rule alive.
+> **The refill rule is taught once, in the retirement income module (7.3).**
+> It is an operating decision for when you are drawing income, not a decision
+> you make while sorting accounts.
 
 ### Set a target percentage for each bucket
 
 Each bucket has both a current balance and a target: the percentage of your investable assets it should be at.
 
-- **Working, Sovereign-tier household:** 5% Reserve / 15% Bridge / 80% Legacy.
-- **Approaching retirement:** 10% Reserve (bigger buffer for sequence risk) / 30% Bridge / 60% Legacy.
+Two things set that target, and neither is a percentage picked out of the air:
 
-The target is what the projection uses. Change it and the plan re-solves. Route new dollars and refill decisions toward the target.
+- **Reserve** you already sized in the cash-flow module, in months of spending.
+- **Bridge** is the bridge you priced in the retirement module: the years between your last paycheck and your income floor.
+- **Legacy** is what's left.
 
-### Common mistakes
+Both grow relative to everything else as you approach retirement. The target is what the projection uses. Change it and the plan re-solves, and from then on your job is routing new dollars toward it.
 
-- **Reading the wrapper instead of the contents.** A 401(k) is not "stocks." Open it and see what's inside; that's the whole point of the account-holdings view.
-- **Bitcoin in Bridge.** Bitcoin belongs in Legacy. If you're planning to spend it inside 10 years, either the bucket or the plan is wrong.
-- **Cash in Legacy.** Cash has no place in a 10+ year bucket. A 401(k) in a stable-value fund is misclassified: Bridge risk in a Legacy slot.
-- **Reserve too small in retirement.** Once you're drawing income, the Reserve does more work. Its job in retirement is sequence-risk protection, not just emergencies.
+> **The three misfits moved to the walkthrough (segment 4.5, step 7b).** They
+> are point-at-the-screen beats, not teaching. The Bitcoin-in-Bridge one was
+> also **wrong as previously written** and is corrected there: the rule is not
+> "never spend Bitcoin inside ten years", which contradicts the retirement
+> module where a 60-year-old sells Bitcoin to fund the year. The rule is that a
+> **near-term obligation must not depend on Bitcoin being at a favourable price
+> on the day the bill arrives**, while long-term Bitcoin can still be sold
+> opportunistically to refill the less-volatile buckets.
 
 ### Your decision
 

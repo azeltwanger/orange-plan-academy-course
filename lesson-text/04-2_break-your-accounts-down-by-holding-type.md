@@ -64,19 +64,23 @@ Put the two cuts side by side. Their mix is 59% Bitcoin, which their tier suppor
 
 ## The refill rule
 
-**Refill from the bucket that's up. Never from the bucket that's down.**
-
-Stocks up, Bitcoin down → refill by trimming stocks. Everything down at once → draw the Reserve; that's what it's for.
+Taught once, in the retirement income module. It is an operating decision for when you are drawing income, not one you make while sorting accounts.
 
 ## Targets
 
-Each bucket gets a target % of investable assets. Working Sovereign-tier: ~5/15/80. Approaching retirement: ~10/30/60 (bigger buffer for sequence risk). The target is what the projection uses, so route new dollars toward it.
+Each bucket gets a target percentage of investable assets, and neither number is picked out of the air:
 
-## Three common mistakes
+- **Reserve** you already sized in the cash-flow module, in months of spending.
+- **Bridge** is the bridge you priced in the retirement module: the years between your last paycheck and your income floor.
+- **Legacy** is what is left.
 
-- **Bitcoin in Bridge**: if you plan to spend it inside 10 years, the bucket or the plan is wrong.
-- **Cash in Legacy**: a 401(k) parked in a stable-value fund is Bridge risk in a Legacy slot.
-- **Reserve too small in retirement**: once you're drawing income, the Reserve's job is sequence-risk protection.
+Both grow relative to everything else as you approach retirement. The target is what the projection uses, so route new dollars toward it.
+
+## Three misfits, shown in the walkthrough
+
+- **Bitcoin in Bridge.** The rule is *not* "never spend Bitcoin inside ten years", which would contradict the retirement module where a 60-year-old sells Bitcoin to fund the year. The rule is that **a near-term obligation must not depend on Bitcoin being at a favourable price on the day the bill arrives.** Long-term Bitcoin can still be sold opportunistically to refill the less-volatile buckets.
+- **Cash in Legacy.** A 401(k) parked in a stable-value fund is Bridge risk in a Legacy slot, with inflation eating it the whole time.
+- **Reserve too small in retirement.** Once you draw income instead of earning it, the Reserve's job becomes sequence-risk protection, so it gets bigger, not smaller.
 
 ## Your decision
 
