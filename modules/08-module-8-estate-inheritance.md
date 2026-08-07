@@ -85,58 +85,30 @@ The cheapest fix in the whole module: fill out the form. Takes about 10 minutes.
 
 ### Choosing your estate attorney
 
-> **Advanced.** If the trust gate didn't apply, a plain will plus a local attorney review is usually enough. This section matters most if you're setting up a trust.
+Most of hiring one is normal vetting: experience, fees, responsiveness. Four things are specific to being a Bitcoin holder, and they belong on a checklist you take into the meeting rather than in your head.
 
-#### The duty that makes this specific
+| # | Ask |
+|---|---|
+| 1 | Have you drafted an estate plan for a Bitcoin holder before? |
+| 2 | Are you comfortable with self-custody and multisig, and not just an exchange account? |
+| 3 | Will you help my heirs *execute* the plan, and not just draft it? |
+| 4 | Are you licensed in my state? Probate law and signing formalities are state-specific. |
 
-A **trustee** is whoever manages a trust for the beneficiaries. Trustees are generally held to a **prudent-investor standard**: manage the assets the way a careful, reasonable investor would. One thing the standard treats as careful is **diversification**.
+> **A fifth question exists, and it is the most expensive one to skip — but it
+> only applies to trusts,** so it lives with the trust lesson: **Advanced
+> Estate Planning → 9.5**, which covers the prudent-investor duty, why it can
+> force a trustee to sell the exact asset the trust was built to hold, and the
+> waiver that prevents it. If your household is heading toward a trust, watch
+> that before you hire anybody.
 
-So a trustee holding a large, concentrated Bitcoin position is standing on the wrong side of that duty by default. They can be legally pressured to sell it, and if they don't, they can be personally liable to the beneficiaries.
-
-**That duty puts your trustee's own money on the opposite side of your Bitcoin thesis**, whether or not concentration was what you intended.
-
-#### The fix: a waiver
-
-A **waiver written into the trust document** releases the trustee from the duty to diversify this particular asset. It reframes holding the Bitcoin as the prudent thing, not the exposed thing.
-
-Not automatic, not boilerplate. An attorney has to decide to draft it in.
-
-#### What happens when nobody asks
-
-Our couple lights up the gate a decade from now. Their stack has done what they hoped, and they pay a good local attorney to build a trust around it. Documents are clean. Signing is perfect.
-
-Then he dies, and the trustee sells the Bitcoin. The trustee sold the exact asset the trust was built to hold, doing what the standard asked of them.
-
-**The attorney wasn't careless. The conversation just never happened.** The problem was a question nobody asked, not a skill nobody had.
-
-#### The five questions
-
-Interview a few. Lead with these, in this order.
-
-1. **Have you drafted an estate plan for a Bitcoin holder before?**
-2. **Are you comfortable with multisig and self-custody, and not just an exchange account?**
-3. **For a trust, will you waive the Prudent Investor Rule, so the trustee isn't obligated to diversify out of Bitcoin?**
-4. **Will you help my heirs *execute* the plan, and not just draft it?**
-5. **Are you licensed in my state?** Probate law and signing formalities are state-specific.
-
-**Question 3 is the one that would have saved the stack in that story.** The waiver, drafted properly, is what lets the trust hold concentrated Bitcoin the way you intended. An attorney who hasn't heard the question hasn't drafted this kind of plan.
-
-#### Then the normal vetting
-
-- Experience.
-- Fees.
-- Responsiveness.
-- **Do they explain things in language your executor and your heirs are going to understand?**
-
-You're not going to be the one sitting across from this attorney someday. Your spouse will be. Your executor will be. And they'll be doing it in the worst week of their lives.
-
-Take the five questions with you, ask them in order, and listen to both the answers and the pauses.
+**The filter to weight heavily:** do they explain things in language your executor and your heirs will understand? You are not going to be the one sitting across from this attorney someday. Your spouse will be, and your executor will be, in the worst week of their lives.
 
 ### Homework
 
 - Get a simple will into existence now. An online path like FreeWill gets a real document out of your head and onto paper.
 - Have an attorney review it and supervise the signing. Execution formalities (witnesses, notarization) are state-specific.
-- If your household lit up the trust gate: line up two or three estate-attorney candidates and run the five questions in order.
+- Line up two or three estate-attorney candidates and take the question checklist into the meeting.
+- Ask your executor, out loud, whether they will do it, and confirm your beneficiary forms name who you actually intend. The form overrides the will.
 
 
 ### Now put it in the app

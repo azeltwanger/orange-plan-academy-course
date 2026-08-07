@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 9.1
 9.1 The executor, the four legal documents, and choosing an estate attorney
-~11 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · screen-share half = shoot list segment 9.1-B
+~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · screen-share half = shoot list segment 9.1-B
 ============================================================
 
 In today's lesson, we're going to cover the executor, the four legal documents, and how to choose an estate attorney who actually understands Bitcoin.
@@ -23,7 +23,9 @@ So how do you pick one? A capable executor is three things at once. Capable, mea
 
 Let's run three candidates for the couple.
 
-The first candidate is his wife. She's trustworthy and available. But the problem is structural. Under the access split we cover in the next estate lesson, the heirs hold one piece and the executor holds the other, so that no single person can reach the Bitcoin alone. If she's the heir and also the executor, she holds both halves, and the protection collapses on day one.
+The first candidate is his wife. She's trustworthy and available, and for plenty of households a spouse serving as executor is completely fine. It's a problem for this couple because of the access design they're building. In the next lesson they split access so that the heirs hold one piece and the executor holds the other, and no single person can reach the Bitcoin alone. If she's the heir and also the executor, she holds both, and that particular protection collapses on day one.
+
+So this isn't a rule that an heir can never be your executor. It's that your executor choice and your access design have to be made together, because one constrains the other.
 
 The second candidate is her brother. He's organized, he's capable, he lives two states away, and he's never owned Bitcoin. This actually works, and I'll explain why the Bitcoin part doesn't matter in a second.
 
@@ -36,8 +38,6 @@ They land on her brother. He clears all three tests, and he isn't an heir.
 Now, why doesn't the executor need to be a Bitcoiner? Because they need to follow a documented process and know who to call when they're stuck. That's it. You pair a non-technical executor with clear documentation and a named technical helper. You're picking for judgment, which is rare, over Bitcoin knowledge, which is teachable.
 
 If nobody in your life fits, you can name a professional. A bank, a trust company, or an attorney. Look for someone who knows the law, knows probate, and understands Bitcoin custody.
-
-One rule never bends, though: your executor plugs into the custody split, and that split has to be set up so no one person, including the executor, can reach your Bitcoin alone.
 
 And then, actually ask them. Someone who finds out they're the executor on the day they're supposed to start can't start.
 
@@ -57,35 +57,13 @@ The fix is the cheapest one in this whole module: fill out the form. It takes ab
 
 == CHOOSING YOUR ESTATE ATTORNEY ==
 
-Now the attorney, and there's one piece of law that makes this hire specific for a Bitcoin holder.
+Last piece: the attorney. Most of hiring one is the normal vetting, experience, fees, responsiveness, but there are four things specific to being a Bitcoin holder, and they're on the checklist below this lesson so you can take it into the meeting.
 
-A trustee is whoever manages a trust for the beneficiaries. And trustees are generally held to something called the prudent-investor standard: manage the assets the way a careful, reasonable investor would. The catch is that one of the things that standard treats as careful is diversification.
+Have they drafted an estate plan for a Bitcoin holder before? Are they comfortable with self-custody and multisig, and not just an exchange account? Will they help your heirs execute the plan and not only draft it? And are they licensed in your state, because probate law and signing formalities are state-specific.
 
-So a trustee holding a large, concentrated Bitcoin position is standing on the wrong side of that duty by default. They can be legally pressured to sell it. And if they don't sell, they can be personally liable to the beneficiaries. That duty puts your trustee's own money on the opposite side of your Bitcoin thesis, whether or not concentration was what you intended.
+If your household turns out to need a trust, there's a fifth question, and it's the one that matters most. It's specific to trusts, so it lives with the trust lesson in the advanced library, and if you're going down that road, watch that one before you hire anybody.
 
-The fix is a waiver, written into the trust document, that releases the trustee from the duty to diversify this particular asset. It reframes holding the Bitcoin as the prudent thing instead of the exposed thing. But it's not automatic and it's not boilerplate. An attorney has to decide to draft it in.
-
-Say our couple lights up the trust gate a decade from now. The stack has done what they hoped, and they pay a good local attorney to build a trust around it. The documents are clean, the signing is perfect. Then he dies, and the trustee sells the Bitcoin. All of it. The trustee sold the exact asset the trust was built to hold, and they did it doing exactly what the standard asked of them.
-
-The attorney wasn't careless. The conversation just never happened. The problem was a question nobody asked, not a skill nobody had.
-
-== THE 5 QUESTIONS ==
-
-So interview a few attorneys, and lead with these 5 questions, in this order.
-
-One: have you drafted an estate plan for a Bitcoin holder before?
-
-Two: are you comfortable with multisig and self-custody, and not just an exchange account?
-
-Three: for a trust, will you waive the prudent investor rule, so the trustee isn't obligated to diversify out of Bitcoin?
-
-Four: will you help my heirs execute the plan, and not just draft it?
-
-Five: are you licensed in my state? Because probate law and signing formalities are state-specific.
-
-Question three is the one that would have saved the stack in that story. An attorney who hasn't heard the question before hasn't drafted this kind of plan.
-
-Then do the normal vetting: experience, fees, responsiveness. And one filter I'd weight heavily: do they explain things in language your executor and your heirs are going to understand? Because you're not going to be the one sitting across from this attorney someday. Your spouse will be. Your executor will be. And they'll be doing it in the worst week of their lives.
+And one filter I'd weight heavily on all of them: do they explain things in language your executor and your heirs are going to understand? Because you're not going to be the one sitting across from this attorney someday. Your spouse will be. Your executor will be. And they'll be doing it in the worst week of their lives.
 
 == HOMEWORK ==
 
@@ -93,7 +71,7 @@ Your homework for this lesson is to:
 
 1. Get a simple will into existence now. An online path like FreeWill gets a real document out of your head and onto paper.
 2. Have an attorney review it and supervise the signing, because execution formalities like witnesses and notarization are state-specific.
-3. If your household lights up the trust gate, line up two or three estate-attorney candidates and run the 5 questions in order.
+3. Line up two or three estate-attorney candidates and take the question checklist below this lesson into the meeting.
 4. Ask your executor, out loud, whether they will do it, and confirm your beneficiary forms name who you actually intend. The form overrides the will, so an out-of-date form quietly overrides everything else you just did.
 
 And if you're outside the US: the tests and the frameworks travel well, but the legal containers don't. Map the concepts with a qualified local professional.

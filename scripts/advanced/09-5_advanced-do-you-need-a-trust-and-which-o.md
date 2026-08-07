@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 9.5
 9.5 Advanced: do you need a trust, and which one?
-~10 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · screen-share half = shoot list segment 9.5-B
+~12 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · screen-share half = shoot list segment 9.5-B
 ============================================================
 
 In today's lesson, we're going to cover trusts: whether you actually need one, and if you do, which kind.
@@ -52,6 +52,22 @@ If the gate does light up for you, there's a design problem specific to Bitcoin:
 If the trust legally owns the Bitcoin but you're the only one who can move it, you've written a document that doesn't match reality. And if the trustee holds everything, you've handed one person unilateral access, which is the exact thing the access split removes.
 
 With multisig, there's a clean answer: the trustee holds one key, never the seed. One key can't spend, but it makes the trustee a real participant in a structure they legally control, without unilateral access. The point is that the legal structure and the key plan get designed together, with an attorney who understands both. That's question two and three from the attorney lesson.
+
+== THE DUTY THAT CAN FORCE YOUR TRUSTEE TO SELL ==
+
+Before you hire anybody to draft this, there's one piece of law that makes a Bitcoin trust different from every other trust, and it is the single most expensive thing in this lesson to not know.
+
+A trustee is whoever manages the trust for the beneficiaries. Trustees are generally held to something called the prudent-investor standard: manage the assets the way a careful, reasonable investor would. And one of the things that standard treats as careful is diversification.
+
+So a trustee holding a large, concentrated Bitcoin position is standing on the wrong side of that duty by default. They can be legally pressured to sell it. And if they don't sell, they can be personally liable to the beneficiaries. That duty puts your trustee's own money on the opposite side of your Bitcoin thesis, whether or not concentration was what you intended.
+
+The fix is a waiver, written into the trust document, that releases the trustee from the duty to diversify this particular asset. It reframes holding the Bitcoin as the prudent thing instead of the exposed thing. But it isn't automatic and it isn't boilerplate. An attorney has to decide to draft it in.
+
+Let me show you what happens when nobody asks. Say our couple lights up the gate a decade from now. The stack has done what they hoped, and they pay a good local attorney to build a trust around it. The documents are clean, the signing is perfect. Then he dies, and the trustee sells the Bitcoin. All of it. The trustee sold the exact asset the trust was built to hold, and they did it doing exactly what the standard asked of them.
+
+The attorney wasn't careless. The conversation just never happened. The problem was a question nobody asked, not a skill nobody had.
+
+Which is why, if you're going down this road, one question goes on top of the attorney checklist from the executor lesson: for a trust, will you waive the prudent investor rule, so the trustee isn't obligated to diversify out of Bitcoin? An attorney who hasn't heard that question before hasn't drafted this kind of plan.
 
 == TWO MISCONCEPTIONS ==
 

@@ -1315,6 +1315,25 @@ Tax logic makes irrevocable worth doing. What makes it hard is **who holds the k
 
 Legal structure and key plan get designed together, with an attorney who understands both.
 
+### The duty that can force your trustee to sell
+
+Before you hire anybody to draft this, one piece of law makes a Bitcoin trust different from every other trust, and it is the most expensive thing here to not know.
+
+A **trustee** is whoever manages the trust for the beneficiaries. Trustees are generally held to a **prudent-investor standard**: manage the assets the way a careful, reasonable investor would. One thing that standard treats as careful is **diversification**.
+
+So a trustee holding a large, concentrated Bitcoin position is on the wrong side of that duty by default. They can be legally pressured to sell it, and if they don't, they can be personally liable to the beneficiaries. **That duty puts your trustee's own money on the opposite side of your Bitcoin thesis**, whether or not concentration was what you intended.
+
+**The fix is a waiver** written into the trust document, releasing the trustee from the duty to diversify this particular asset. It reframes holding the Bitcoin as the prudent thing rather than the exposed thing. Not automatic, not boilerplate: an attorney has to decide to draft it in.
+
+**What happens when nobody asks.** Our couple lights up the gate a decade from now. The stack has done what they hoped, and they pay a good local attorney to build a trust around it. Documents clean, signing perfect. Then he dies, and the trustee sells the Bitcoin. All of it. The trustee sold the exact asset the trust was built to hold, doing exactly what the standard asked of them.
+
+The attorney wasn't careless. The conversation never happened. The problem was a question nobody asked, not a skill nobody had.
+
+> **So one question goes on top of the attorney checklist from the executor
+> lesson:** *for a trust, will you waive the prudent investor rule, so the
+> trustee isn't obligated to diversify out of Bitcoin?* An attorney who hasn't
+> heard that question before hasn't drafted this kind of plan.
+
 ### Two misconceptions
 
 - **"Trusts are for the ultra-rich."** Wrong. A special-needs heir or a blended family can make a trust the right call at modest wealth.

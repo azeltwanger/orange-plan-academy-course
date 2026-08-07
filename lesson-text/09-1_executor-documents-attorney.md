@@ -14,19 +14,18 @@ Will · power of attorney · healthcare directive · **beneficiary designations*
 
 **The form overrides the will.** Accounts with named beneficiaries never enter probate; the custodian pays the form's name before anyone reads the will. (An old 401(k) naming your mother from before your marriage goes to your mother.) The fix is 10 minutes per account; the app shows every named beneficiary on one screen.
 
-## Choosing the attorney
+## Choosing your estate attorney
 
-Trustees are held to a **prudent-investor standard**, and diversification counts as prudent, so a trustee holding concentrated Bitcoin can be pressured to sell it and personally liable if they don't. The fix is a **waiver drafted into the trust** releasing the duty to diversify this asset. It's not boilerplate; an attorney has to know to draft it.
+Most of it is normal vetting: experience, fees, responsiveness. Four things are specific to being a Bitcoin holder, and they belong on a checklist you take into the meeting.
 
-**The five questions, in order:**
+1. Have you drafted an estate plan for a Bitcoin holder before?
+2. Are you comfortable with self-custody and multisig, not just an exchange account?
+3. Will you help my heirs *execute* the plan, not just draft it?
+4. Are you licensed in my state? Probate law and signing formalities are state-specific.
 
-1. Have you drafted an estate plan for a Bitcoin holder?
-2. Comfortable with multisig and self-custody, not just an exchange account?
-3. For a trust, will you waive the Prudent Investor Rule?
-4. Will you help my heirs execute, not just draft?
-5. Licensed in my state?
+⚠ **A fifth question exists and it is the most expensive one to skip, but it only applies to trusts.** It lives with the trust lesson: **Advanced Estate Planning → "Do you need a trust, and which one?"**, covering the prudent-investor duty, why it can force a trustee to sell the exact asset the trust was built to hold, and the waiver that prevents it. Heading toward a trust? Watch that before you hire anybody.
 
-Then normal vetting, including: do they explain things in language your heirs will understand in the worst week of their lives?
+**The filter to weight heavily:** do they explain things in language your executor and heirs will understand? You will not be the one sitting across from this attorney someday. Your spouse will be, and your executor will be.
 
 ## Ask the AI
 
@@ -35,5 +34,5 @@ Open **Plan Guide** and ask for *"what should I ask an estate attorney."* It bui
 ## Homework
 
 1. Get a simple will into existence now (an online path like FreeWill works); have an attorney review and supervise signing.
-2. If the trust gate lights up, run the five questions on 2–3 candidates.
+2. Take the four-question checklist to 2-3 attorney candidates.
 3. Watch the walkthrough: confirm beneficiaries in the app and walk the Executor Packet with the actual person.
