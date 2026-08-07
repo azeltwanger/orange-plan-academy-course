@@ -2,6 +2,19 @@
 
 Every projection is math on top of assumptions. This lesson makes yours deliberate instead of default.
 
+
+## The three layers of a plan
+
+| Layer | Meaning | Example |
+|---|---|---|
+| **Baseline** | True now | Current income is $150,000 |
+| **Life event** | A change you expect | Tuition ends next year |
+| **Scenario** | A question, not a decision | What if I retire three years earlier? |
+
+**Truth goes in the baseline. Expected changes go in life events. Questions go in scenarios.**
+
+A second distinction that trips people the same way: **current cash flow answers what is available now; the projection answers where today's pattern leads.** This is not a budgeting app that wants every coffee categorized forever. You give it the pattern, and it shows you where the pattern goes.
+
 ## The big three
 
 - **Bitcoin growth.** The app's presets all decline over time (bigger Bitcoin, slower growth). Pick a curve you'd defend, not the biggest number.

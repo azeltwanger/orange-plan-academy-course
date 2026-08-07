@@ -397,6 +397,30 @@ baseline untouched.
 
 ---
 
+## □ C10 · The 15-minute household plan review
+
+*The single most-requested thing across the client calls. The report is the
+agenda; you are not teaching your spouse Bitcoin, you are showing them the
+plan. If you don't have a spouse, do this with whoever would get the call.*
+
+**DO** Sit down with the report open and answer seven questions out loud, in order. Time it on camera.
+
+1. **What do we spend?**
+2. **How much cash protects us, and for how long?**
+3. **Where does the next dollar go?**
+4. **When does work become optional?**
+5. **How does retirement actually get funded?** (spending, minus durable income, equals the portfolio-funded gap, drawn in the saved account order)
+6. **Who do we call if something happens to me?**
+7. **Where do the non-secret planning documents live?**
+
+**⚠ Say what this is not.** It is not a Bitcoin conversation. The other person does not have to share the thesis to run the plan. They need to know what to do, and where things are.
+
+**⚠** If you cannot answer one of the seven in a sentence, that is the gap, and it points at exactly one module. Go back to that module rather than explaining harder.
+
+**⚠** Fifteen minutes is the target, and it is achievable because the report is doing the work. If it runs to an hour, the report isn't finished.
+
+---
+
 ## □ WRAP — spot check off the screen
 
 **Part A**
@@ -433,6 +457,7 @@ baseline untouched.
 - [ ] Protection lines green, or the owning module named
 - [ ] Next steps ≤ 3, every assumption defensible
 - [ ] PDF on disk with the year in the filename
+- [ ] The seven household questions answered out loud, in under fifteen minutes, to the person who would get the call
 
 **⚠** Five years of before-pictures show you what actually moved and what only felt like it did.
 

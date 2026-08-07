@@ -314,6 +314,7 @@ forward and restarting is where the retakes come from. Where a sheet has
 20. ☐ C7 · "Protecting what you've built" (section 7)
 21. ☐ C8 · "Your next steps" + "Assumptions & methodology" — ACTIONS (sections 10–11)
 22. ☐ C9 · Save the artifact
-23. ☐ WRAP — spot check off the screen
+23. ☐ C10 · The 15-minute household plan review
+24. ☐ WRAP — spot check off the screen
 
 ---

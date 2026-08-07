@@ -3,6 +3,8 @@ TELEPROMPTER SCRIPT — segment 7.5
 ~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
+🎬 GRAPHIC: bring back the module visual, with row 5 highlighted — what changes after a bad year.
+
 In today's lesson, we're going to cover the guardrails, which turn your confidence number into an actual paycheck you can adjust every year.
 
 Your confidence number told you the plan survives most futures. The guardrails are what turn that number into a spending decision, once a year, with rules you set in advance.

@@ -57,6 +57,16 @@ On a large retirement-year sale, that difference runs into tens of thousands of 
 
 But it's a lifestyle decision that happens to save tax, not a tax decision. If you're actually considering a move, or you're sitting on a large enough unrealized gain that the state rate would change what you do, the advanced library has the full lesson: what the swing is worth on real numbers, how residency is actually determined, and the sequencing that keeps a big sale right after a move from becoming an audit. If moving isn't on the table, your tax plan is complete without it.
 
+== DOES A ROTH CONVERSION EVEN APPLY TO YOU? ==
+
+One more thing, because this is the most confusing topic in the whole tax module and most people don't need it.
+
+A Roth conversion may apply when all three of these are true. You have meaningful pre-tax retirement assets. You expect lower-income years before forced distributions begin. And you have a credible way to pay the conversion tax that isn't the converted money itself.
+
+All three. Not two.
+
+If Orange Plan doesn't show you that combination, your core tax plan is complete without the conversion lesson, and you can skip it with a clear conscience. If it does show all three, the advanced library has the full lesson, and it opens with the actual question rather than definitions: does paying some tax earlier reduce the total tax you pay over your life?
+
 == PUT IT IN ORANGE PLAN ==
 
 Strategy → Tax → Moves this year. Model one sale and read the tax it produces.

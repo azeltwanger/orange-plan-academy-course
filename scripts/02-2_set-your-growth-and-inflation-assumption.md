@@ -1,9 +1,29 @@
 TELEPROMPTER SCRIPT — segment 2.2
-2.2 Set your growth and inflation assumptions
-~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+2.2 The three layers of a plan, and setting your assumptions
+~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-In today's lesson, we're going to cover assumptions — the inputs about the future that your plan treats as truth.
+In today's lesson, we're going to cover two things: the three layers every plan is built out of, and then your assumptions, which live in the second layer.
+
+== THE THREE LAYERS ==
+
+🎬 GRAPHIC: three stacked bands, held on screen. BASELINE — true now. LIFE EVENT — expected change. SCENARIO — a question. One example under each.
+
+You just gathered your baseline. Now you're about to start entering things that aren't facts yet, and if you don't have a way to keep those separate in your head, the plan gets muddy fast. So here are the three layers.
+
+The first layer is your baseline. This is what's true right now. Your income is $150,000. You have $30,000 in savings. You owe $18,000 on the car. No judgment, no prediction, just today.
+
+The second layer is life events. These are changes you genuinely expect. Tuition ends next year. A car gets replaced in six years. You retire at 62. You're not sure they'll happen exactly that way, but you'd be surprised if they didn't happen at all, so the plan should include them. Leave them out and your projection is wrong.
+
+The third layer is scenarios. These are questions, not decisions. What if I retire three years earlier? What if Bitcoin does half of what I've assumed? Those live somewhere separate, because the moment you put a question into your plan, you've stopped having a baseline to compare anything against.
+
+So, one line to keep: truth goes in the baseline, expected changes go in life events, and questions go in scenarios.
+
+There's a second distinction that trips people up in the same way, and it's worth naming now. Your current cash flow tells you what's available this month. The projection tells you where this month's pattern leads if you keep repeating it. Those are two different screens answering two different questions, and this is not a budgeting app that wants you to categorize every coffee forever. You give it the pattern, and it shows you where the pattern goes.
+
+== YOUR ASSUMPTIONS ==
+
+Now the second layer, assumptions, which are the inputs about the future your plan treats as truth.
 
 Every projection in your plan is built on top of these numbers, so getting them right, or at least honest, matters more than any other single decision you're going to make. There are six of them: your investment returns, including Bitcoin, inflation, your spending now and in retirement, your life expectancy, your savings rate, and any future life events that change your income or spending.
 

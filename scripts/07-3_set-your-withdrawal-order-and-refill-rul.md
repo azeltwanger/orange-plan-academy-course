@@ -3,6 +3,8 @@ TELEPROMPTER SCRIPT — segment 7.3
 ~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
+🎬 GRAPHIC: bring back the module visual, with rows 4 and 5 highlighted — which account provides the gap now, and what changes after a bad year.
+
 In today's lesson, we're going to cover two things that work together: the income waterfall, which is the order your retirement paycheck gets assembled in, and draw and refill, which is how you put cash back after you spend it.
 
 == THE 4 TIERS OF THE WATERFALL ==

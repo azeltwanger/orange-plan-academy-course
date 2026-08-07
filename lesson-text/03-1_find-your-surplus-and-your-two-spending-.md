@@ -2,6 +2,18 @@
 
 Your surplus is the money left each month after taxes, living expenses, and debt payments. It decides whether you can keep buying Bitcoin, keep holding through a drawdown, or get forced to sell at the bottom.
 
+
+## First, take out what is not yours
+
+**Tax money is not emergency money.** Neither is money already committed to a bill landing soon.
+
+    Operating cash
+    − tax reserve (quarterly estimates, payroll obligations)
+    − known near-term bills
+    = TRUE emergency reserve
+
+This bites the self-employed hardest: the set-aside sits in the same account as everything else and looks like a cushion. It is not. Do this subtraction before you look at surplus or reserve, or every number after it is wrong. W-2 with taxes withheld? This is usually zero, and you can move straight past it.
+
 ## The surplus walk
 
 | Step | Amount |

@@ -3,7 +3,7 @@
 Read top to bottom. Nothing below depends on a decision you haven't made yet,
 as long as you settle the five things in the next section first.
 
-**27 teach lessons · 218 min (3.6 h) of finished audio at 155 wpm.**
+**27 teach lessons · 226 min (3.8 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not on this list. They're screen captures you narrate in your
 own words off the DO / SEE / ⚠ sheets, and they happen after the teach lessons
@@ -60,21 +60,21 @@ changed once, in both places, before you record.
 | 1.1 | How to use this course | 10.6 |
 | 1.2 | How the AI works: what it reads, what it never sees | 5.8 |
 
-### Module 1 — Foundation: baseline, assumptions, and the confidence number · 18 min
+### Module 1 — Foundation: baseline, assumptions, and the confidence number · 21 min
 
 | # | Lesson | min |
 |---|---|---|
 | 2.1 | What to gather before you build the plan | 6.1 |
-| 2.2 | Set your growth and inflation assumptions | 5.7 |
-| 2.3 | Read your retirement date and confidence number | 6.4 |
+| 2.2 | Set your growth and inflation assumptions | 7.9 |
+| 2.3 | Read your retirement date and confidence number | 7.2 |
 | 2.4 | *Walkthrough: set up your plan in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 | 2.5 | *Walkthrough: build your baseline in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 2 — Cash Flow + Reserve · 27 min
+### Module 2 — Cash Flow + Reserve · 29 min
 
 | # | Lesson | min |
 |---|---|---|
-| 3.1 | Find your surplus and your two spending numbers | 9.6 |
+| 3.1 | Find your surplus and your two spending numbers | 11.1 |
 | 3.2 | Size your cash reserve in months of spending | 10.8 |
 | 3.3 | Fund known future costs: college, cars, a house, repairs | 6.7 |
 | 3.4 | *Walkthrough: build cash flow and reserve in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
@@ -96,28 +96,28 @@ changed once, in both places, before you record.
 | 5.1 | Give every debt a job and set your ceiling | 8.4 |
 | 5.2 | *Walkthrough: give every debt a job in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 5 — Tax Strategy · 12 min
+### Module 5 — Tax Strategy · 13 min
 
 | # | Lesson | min |
 |---|---|---|
 | 6.1 | Cost basis: what you paid, and how to reconstruct it | 5.4 |
-| 6.2 | Taxable, tax-deferred, and Roth: bracket windows and state taxes | 7.1 |
+| 6.2 | Taxable, tax-deferred, and Roth: bracket windows and state taxes | 8.0 |
 | 6.5 | *Walkthrough: model it in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 6 — Retirement Income · 25 min
+### Module 6 — Retirement Income · 26 min
 
 | # | Lesson | min |
 |---|---|---|
-| 7.1 | Your spending, income floor, gap, and bridge years | 7.9 |
-| 7.3 | Set your withdrawal order and refill rule | 8.7 |
-| 7.5 | Guardrails: how much you can spend each year | 7.9 |
+| 7.1 | Your spending, income floor, gap, and bridge years | 9.0 |
+| 7.3 | Set your withdrawal order and refill rule | 8.9 |
+| 7.5 | Guardrails: how much you can spend each year | 8.0 |
 | 7.6 | *Walkthrough: build the paycheck in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 7 — Custody · 23 min
+### Module 7 — Custody · 24 min
 
 | # | Lesson | min |
 |---|---|---|
-| 8.1 | Choose the custody setup that matches your stack and family | 9.3 |
+| 8.1 | Choose the custody setup that matches your stack and family | 9.8 |
 | 8.2 | Set up a hardware wallet and test recovery | 7.4 |
 | 8.3 | Single points of failure, account hardening, and scams | 6.6 |
 | 8.4 | *External demo: hardware wallet setup + exchange hardening* | — DEMO, narrated off the sheet |
@@ -143,7 +143,7 @@ changed once, in both places, before you record.
 
 ---
 
-**27 teach lessons · 218 min (3.6 h) of finished audio at 155 wpm.**
+**27 teach lessons · 226 min (3.8 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not dictated. They are screen captures you narrate in
 your own words off the DO / SEE / ⚠ sheets, and they happen after the

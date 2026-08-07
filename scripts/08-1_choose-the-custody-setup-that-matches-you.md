@@ -5,6 +5,8 @@ TELEPROMPTER SCRIPT — segment 8.1
 
 In today's lesson, we're going to score your custody honestly, and then pick the level that actually matches what you're holding and who depends on it.
 
+One thing before we start, because custody is where people get stuck longest. You do not need to master every custody setup that exists. You need to choose one level you can actually maintain, and prove that it works. That's the whole assignment. If you finish this module with a setup you understand and a recovery you've tested, you're done, and the more advanced options are there for when your amount or your family says you need them.
+
 Custody is more than where your Bitcoin sits. It covers whether you can reach it, whether anyone else can, and whether there's a process that still works when you're not around.
 
 Let's separate it from inheritance up front, because people mix these. Inheritance is the legal transfer, the wills, the executor, who gets what, and the estate module covers that. This module is about securing access while you're alive and making it recoverable if you're not.

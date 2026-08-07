@@ -9,6 +9,22 @@ Bitcoin is the thing that builds the wealth in this plan, but your cash flow is 
 
 Back in 2022, Bitcoin dropped 77% from its peak. I watched my own net worth drop about 75% during that window. And what I noticed is that the people who got hurt the worst weren't the people who had the wrong allocation. They were the people whose monthly cash flow forced them to sell into that drop. That's the thing this lesson is designed to protect you from.
 
+== FIRST, TAKE OUT WHAT ISN'T YOURS ==
+
+Before we walk any surplus, there's a subtraction most people miss, and it's the one that quietly wrecks the reserve number.
+
+Money you're holding for taxes is not savings. Neither is money already committed to a bill that's landing soon.
+
+This bites self-employed people hardest. If you're setting aside for quarterly estimated taxes, that balance is sitting in the same account as everything else and it looks like a cushion. It isn't. It's the government's money that hasn't moved yet. I've watched somebody look at a healthy-looking savings balance, feel fine about their reserve, and then realize almost all of it was earmarked for a quarterly payment. Their actual emergency reserve was a fraction of what they thought.
+
+So the order is:
+
+🎬 GRAPHIC: a descending bar. Operating cash → minus tax reserve → minus known near-term bills → TRUE EMERGENCY RESERVE highlighted at the bottom.
+
+Operating cash, minus your tax reserve, minus any known bill that's already committed. What's left is your true emergency reserve, and that's the number every other decision in this course runs on.
+
+If you're a W-2 employee with taxes withheld from your paycheck, this subtraction is usually zero and you can move straight past it. If you're self-employed, or you have payroll obligations, or a big bill is landing this quarter, do it before you look at anything else.
+
 == THE SURPLUS WALK ==
 
 Let's walk through an example. Let's say that we have a couple in Texas. He's 45, she's 43, and they have two kids. Their year is going to walk like this.

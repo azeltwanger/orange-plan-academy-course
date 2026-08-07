@@ -2,6 +2,15 @@
 
 The app runs your plan through ~1,000 simulated market futures. The confidence number is the share of those futures where the plan funds your spending all the way through.
 
+
+> ⚠ **This is your first retirement read, and it is a draft.** It is built on
+> the baseline you just entered and nothing else: no cash flow decisions, no
+> debt policy, no allocation, no tax windows, no withdrawal order. Hold it
+> loosely in both directions. Do not treat an exciting date as finished, and do
+> not dismiss the whole thing because the first number looks rough. It becomes
+> your plan as you make the decisions in the modules ahead, and watching it
+> move is most of the point.
+
 ## How to read it
 
 | Confidence | What the app calls it |

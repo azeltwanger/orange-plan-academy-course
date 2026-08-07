@@ -336,6 +336,8 @@ How to think about it:
 ## 5.3 The four ways debt can build wealth
 *`TEACH + APP` · 883 words · ~4 min*
 
+> **Gate.** Watch this if you are carrying debt you could pay off but are choosing not to, or you are weighing whether to. If every debt already has a job you can defend, your debt policy is complete without it.
+
 **By the end of this lesson, you can:**
 
 - Understand the four offensive debt plays and what each earns
@@ -483,6 +485,8 @@ You've seen what one play does to your plan. Now every debt on the ledger needs 
 ## 6.3 RMD risk and Roth conversions
 *`TEACH` · 954 words · ~7 min*
 
+> **Gate.** Watch this only when all three are true on your own Tax page: you hold meaningful pre-tax retirement assets, you expect lower-income years before forced distributions begin, and you have a way to pay the conversion tax that is not the converted money. All three, not two. If Orange Plan does not show that combination, your core tax plan is complete without it.
+
 > ✅ **Evergreen policy (Austin, 2026-08-04) replaces item 11.** Figures here
 > are already snapshot-framed ("Currently 73 — verify in the year it applies").
 > Don't re-verify per year; don't state them as durable facts on camera.
@@ -593,6 +597,8 @@ For completeness: 72(t) allows penalty-free early access on a rigid schedule. Re
 
 ## 6.4 Harvesting losses and gains
 *`TEACH` · 1,156 words · ~8 min*
+
+> **Gate.** Watch this if your Tax page shows either harvestable losses or unused 0% gains room this year. If it shows neither, there is nothing to harvest and your tax plan is complete.
 
 > ✅ **Fixed in course 2026-07-29:** the stale hand-off ("relocation as a tax
 > lever" — a lesson that was folded into 6.2) now points at the walkthrough.
@@ -805,6 +811,8 @@ Your homework for this lesson is to:
 ## 7.2 Health insurance between retiring and Medicare
 *`TEACH` · 800 words · ~6 min*
 
+> **Gate.** Watch this if your plan has you stopping work before 65. If your retirement date is 65 or later, Medicare starts when the paycheck stops and this does not apply to you.
+
 **By the end of this lesson, you can:**
 
 - Compare COBRA, ACA marketplace, and health-sharing for early retirement
@@ -910,6 +918,8 @@ Most people have never seen those three numbers side by side. The comparison is 
 
 ## 7.4 Sell, borrow, or hold: funding a year of spending
 *`TEACH` · 730 words · ~5 min*
+
+> **Gate.** Watch this once you are inside about five years of retiring, or already drawing income. It prices the three ways to fund a year against each other; before that, the withdrawal order in core is the decision that matters.
 
 *Advanced. Borrow-vs-sell is a decision that only fires if you're considering asset-backed lending against Bitcoin. Skim unless the trigger applies to you.*
 
@@ -1185,6 +1195,8 @@ Your homework for this lesson is to:
 ## 8.5 Advanced custody: passphrase, multisig, and collaborative
 *`TEACH` · 1,354 words · ~9 min*
 
+> **Gate.** Watch this if your custody setup fails one of the two access tests from the estate module: one person can spend alone, or one lost copy could permanently stop recovery. If your Level 2 design passes test two and you have accepted failing test one deliberately, your custody plan is complete.
+
 **By the end of this lesson, you can:**
 
 - Tell passphrase, collaborative multisig, and DIY multisig apart by what each one buys and costs
@@ -1321,6 +1333,8 @@ So with a passphrase you're splitting two different objects between two people. 
 
 ## 9.5 Advanced: do you need a trust, and which one?
 *`TEACH + APP` · 1,923 words · ~9 min*
+
+> **Gate.** Watch this if your Protect page's projected estate crosses the trust gate, or you have a minor child, a blended family, property in more than one state, or a beneficiary who should not receive a lump sum. Most households run the gate, get a no, and are finished.
 
 **By the end of this lesson, you can:**
 

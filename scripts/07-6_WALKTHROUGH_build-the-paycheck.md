@@ -58,6 +58,8 @@
 
 ## □ 4 · See the gap and the bridge
 
+**⚠ Name the app's word once, here.** The page says **deficit**. Say out loud: *"the app calls this the deficit; in the course I call it your portfolio-funded gap, and it's the part of your spending the portfolio has to provide."* Then use the course term for the rest of the capture. Do not reconcile the two terms more than once.
+
 **DO** Plan → Income → **Income Blueprint** tab (heading *"Retirement income"* · section *"Income sources"*)
 
 **DO** Click a bar → drawer *"Age {N} · {year}"*

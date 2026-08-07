@@ -2,6 +2,12 @@
 
 Custody is whether you can reach your Bitcoin, whether anyone else can, and whether the process survives without you. (Inheritance, the legal transfer, is the estate module.) A balance in someone else's system is a claim on *their* Bitcoin, not ownership of yours (Celsius, BlockFi, FTX).
 
+
+> **You do not need to master every custody setup that exists.** You need one
+> level you can actually maintain, and a recovery you have proven. Finish this
+> module with those two things and you are done; the advanced options are there
+> for when your amount or your family says you need them.
+
 ## The five questions
 
 1. Where is the Bitcoin held?

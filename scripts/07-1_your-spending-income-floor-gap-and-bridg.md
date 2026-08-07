@@ -5,6 +5,17 @@ TELEPROMPTER SCRIPT — segment 7.1
 
 In today's lesson, we're going to find the three numbers your entire retirement paycheck is built on: your spending, your income floor, and the gap between them.
 
+🎬 GRAPHIC (THE MODULE VISUAL — build it here, and bring it back on screen in every lesson of this module, highlighting whichever row that lesson is working on):
+   1. What does life cost?              SPENDING
+   2. What arrives without selling?     INCOME FLOOR (Social Security + pension + other durable income)
+   3. What must the portfolio provide?  PORTFOLIO-FUNDED GAP
+   4. Which account provides it now?    TAXABLE → TRADITIONAL → ROTH, per your saved withdrawal order
+   5. What changes after a bad year?    GUARDRAIL DECISION + RESERVE REFILL PACE
+
+That's the whole module on one screen. Five questions, in order, and every lesson from here works on one row of it.
+
+One word before we start. The app calls row three the deficit. Throughout this course I'm going to call it your portfolio-funded gap, because "deficit" sounds like something has gone wrong, and it hasn't. It's just the part of your spending that your investments have to provide. Same number, clearer name, and I'll point at it on screen when we get there.
+
 Most early-retirement plans that fail, fail in the years between the last paycheck and the first Social Security check. So we're going to price those years.
 
 == NUMBER 1: A REALISTIC SPENDING NUMBER ==
