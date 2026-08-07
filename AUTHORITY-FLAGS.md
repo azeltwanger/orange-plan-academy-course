@@ -74,23 +74,20 @@ the B-disguised-as-C trap.
 
 **Currently live: option 2, because I wrote it.** Say which one you want.
 
-### F3 · "Target ÷ months to go", and the growth guidance
+### F3 · "Target ÷ months to go" ✅ RESOLVED BY AUSTIN, 2026-08-08
 
-**What Austin said.** Nothing. 3.3 worked the couple's example ($100,000 over
-8 years ≈ $1,000/month) but never stated a general rule.
+Austin dictated the full college-funding position, now in
+`COLLEGE-FUNDING-AUTHORITY.md` and implemented in 3.3.
 
-**What I wrote.** The rule *target ÷ months to go*, **plus** a recommendation
-not to discount for expected growth, with my own reasoning: *inside about five
-years you should not be taking that risk anyway, and over a longer horizon
-arriving early is a better failure than arriving short.*
+**What changed.** My "divide the target by the months" rule survives for **fixed
+dated costs** — a roof, a car, a down payment, where the number and the date are
+both real. It does **not** apply to college, which is now taught as a funding
+stack against a **parent commitment**, not a sticker price.
 
-The division is arithmetic. **The no-growth-discount guidance is a planning
-judgment and it is mine, not Austin's.** It is also deliberately conservative,
-which is precisely the direction the rule warns about — it makes people save
-more than a growth-adjusted number would.
-
-**Austin decides:** keep the plain division, or discount for expected growth in
-the lane, or say both and let the student choose.
+My don't-discount-for-growth guidance stays scoped to fixed costs. It was
+flagged as conservative, and Austin's college position confirms the concern was
+right: applied to college it would have produced exactly the over-saving his
+anti-rule forbids.
 
 ### F4 · Annual review timing: October/November → November
 
@@ -167,3 +164,66 @@ error with a single correct answer:
 - **The $128,000 0% capital-gains ceiling** — law-set, changes by statute, and
   the standing evergreen policy already covers it. This is the category the
   policy was written for; F1 was not.
+
+
+---
+
+## NEW — raised by the college-funding position
+
+### F8 · Does the funding-stack logic generalise beyond college?
+
+Austin's position is explicitly about **college**: uncertain school, aid
+package, student contribution, and whether the child attends at all.
+
+A roof, a car, or a down payment has none of that uncertainty. There is no aid,
+no student contribution, no chance the roof declines to need replacing. So 3.3
+currently keeps the simple treatment for those and applies the stack only to
+college.
+
+**Flagged, not decided:** is there a third category — a cost that is real but
+whose *amount* is uncertain, like a wedding you have promised to contribute to,
+or eldercare? Those look more like college than like a roof.
+
+### F9 · 3.3 is now 12.5 minutes, the longest lesson in Module 2
+
+The college position roughly doubled the lesson. It replaced a framing that was
+wrong, so the content is not padding — but 3.3 now does two distinct jobs:
+fixed dated costs, and college as a funding stack.
+
+**Two options, Austin's call:**
+
+1. **Leave it at 12.5 min.** One lesson, one place to look for "future costs".
+2. **Split it.** 3.3 fixed dated costs (~5 min), 3.4 college as a funding stack
+   (~7 min). Matches the "one thing at a time" principle and lets someone with
+   no kids skip the second cleanly.
+
+Option 2 adds a lesson after the v1.0 freeze. That is legitimate under the
+freeze rule — the old framing was inaccurate — but it is a structural change
+and belongs to Austin, not to me.
+
+### F10 · Every college figure is statute-set or annual
+
+Published prices, net prices, the 529 student-loan and Roth-rollover limits,
+federal loan ceilings, parent PLUS (changed 1 July 2026), FAFSA asset
+treatment. **None is spoken in the video.** All live in `lesson-text/03-3`
+with verify-before-acting warnings.
+
+Austin's own instruction already scoped these to text; this note records that
+the implementation matches, and that the lesson text is now a
+**verify-annually** surface like the tax figures.
+
+### F11 · App modelling request, not started
+
+Austin specified what the college life event should capture: the commitment
+(children, dollars/percentage/benchmark, years, tuition-only or total, per
+child or pooled), expected offsets (grants, student work, employer benefit,
+existing 529), funding sources (monthly 529 contribution, cash flow while
+enrolled, planned Bitcoin/taxable, student loan ceiling, parent loan ceiling,
+remaining gap), and timing/risk (first enrollment year, year-one amount, amount
+protected, amount still Bitcoin-dependent, result under a 70–80% drawdown,
+alternative-school scenario).
+
+Output should read **"Your $80,000 parental commitment is 73% funded"**, never
+"College is 38% funded".
+
+**Not started.** This is app work and it touches the projection.

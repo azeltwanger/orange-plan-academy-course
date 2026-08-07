@@ -3,7 +3,7 @@
 Read top to bottom. Nothing below depends on a decision you haven't made yet,
 as long as you settle the five things in the next section first.
 
-**27 teach lessons · 229 min (3.8 h) of finished audio at 155 wpm.**
+**27 teach lessons · 233 min (3.9 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not on this list. They're screen captures you narrate in your
 own words off the DO / SEE / ⚠ sheets, and they happen after the teach lessons
@@ -70,13 +70,13 @@ changed once, in both places, before you record.
 | 2.4 | *Walkthrough: set up your plan in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 | 2.5 | *Walkthrough: build your baseline in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 2 — Cash Flow + Reserve · 31 min
+### Module 2 — Cash Flow + Reserve · 34 min
 
 | # | Lesson | min |
 |---|---|---|
 | 3.1 | Find your surplus and your two spending numbers | 11.1 |
 | 3.2 | Size your cash reserve in months of spending | 10.8 |
-| 3.3 | Fund known future costs: college, cars, a house, repairs | 9.0 |
+| 3.3 | Fund known future costs: college, cars, a house, repairs | 12.5 |
 | 3.4 | *Walkthrough: build cash flow and reserve in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
 ### Module 3 — Debt Strategy · 9 min
@@ -143,7 +143,7 @@ changed once, in both places, before you record.
 
 ---
 
-**27 teach lessons · 229 min (3.8 h) of finished audio at 155 wpm.**
+**27 teach lessons · 233 min (3.9 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not dictated. They are screen captures you narrate in
 your own words off the DO / SEE / ⚠ sheets, and they happen after the

@@ -34,6 +34,11 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 > day. Do not hand-edit it — that is how the last one ended up naming
 > lessons that no longer exist.
 
+> **The per-lesson list below is GENERATED** by
+> `tools/build-production-checklist.py`. Regenerate it before every shoot
+> day. Do not hand-edit it — that is how the last one ended up naming
+> lessons that no longer exist.
+
 ## ☐ ONE-TIME SETUP (before any filming)
 
 ☐ Fresh demo account seeded with the couple's numbers (card: income $190k · spending $80k · 1.75 BTC · $280k mortgage @3.25% · $18k car @7% · 401k $12k/yr · Roth $7k/yr)
@@ -45,6 +50,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ Camera/audio test clip reviewed
 
 ---
+
 
 
 
@@ -67,7 +73,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ☐ 3.1 Find your surplus and your two spending numbers — 🎙 film (~11 min)
 ☐ 3.2 Size your cash reserve in months of spending — 🎙 film (~11 min)
-☐ 3.3 Fund known future costs: college, cars, a house, repairs — 🎙 film (~9 min)
+☐ 3.3 Fund known future costs: college, cars, a house, repairs — 🎙 film (~12 min)
 ☐ 3.4 Walkthrough: build cash flow and reserve in Orange Plan — 🖥 capture
 ☐ Paste the Module 2 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
 

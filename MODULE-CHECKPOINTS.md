@@ -54,7 +54,8 @@ sum of them:
 - [ ] You have two spending numbers: normal, and bare-bones
 - [ ] Your reserve target is set **in months of spending**, and the app shows how many months you actually hold
 - [ ] Every known future cost inside ten years is entered as a **life event** (so the projection knows it is coming) and has a funding lane, or you have deliberately decided monthly cash flow absorbs it
-- [ ] For each pre-funded cost you can say the monthly number and where it came from: **target ÷ months to go**. You do this division, not the app
+- [ ] For each fixed dated cost you can say the monthly number and where it came from: **target ÷ months to go**. You do this division, not the app
+- [ ] **College, if it applies:** you can say what you are committing to provide, name the sources that will cover it (529, cash flow while enrolled, aid, student work, financing, Bitcoin), and point at the part you have decided to protect from a Bitcoin sale. **Not done when the sticker price is sitting in cash — that was never the target**
 - [ ] You can say what your reserve is *for* in one sentence: so a bad month never forces a Bitcoin sale
 
 ---
