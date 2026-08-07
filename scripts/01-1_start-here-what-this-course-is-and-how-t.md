@@ -3,6 +3,22 @@ TELEPROMPTER SCRIPT — segment 1.1
 ~8 min at 155 wpm · AUSTIN DICTATION — SPOKEN-PROSE VERSION
 ============================================================
 
+>>> TWO LINES TO FIX BEFORE YOU RECORD (your own flags, both confirmed) <<<
+>>> Your words everywhere else. Do not let me rewrite these; pick your own. <<<
+
+1. "10 modules" then a list of 9. The list is a narrative sequence, not the
+   module list, and Module 10 (Your Financial Plan Review: scenarios, reading
+   the report, the capstone) is missing from it entirely. Either add a 10th
+   item for it, or drop "10 modules" and just walk the sequence.
+
+2. "around 10 to 15 minutes every month" contradicts Module 9, which teaches
+   the monthly pass as ABOUT FIVE MINUTES, in the lesson, the lesson text, and
+   the module blurb. Five minutes is the number the course defends. The master
+   file has been corrected to five; this script is the last place saying 10-15.
+
+Everything else in this file is clean and ready.
+
+
 Welcome to the course. In this first lesson, I'm going to cover what this course is, what you're going to walk out with, and how to get the most out of it as you go through all these lessons.
 
 == WHY I BUILT THIS ==

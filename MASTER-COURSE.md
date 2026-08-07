@@ -1,6 +1,6 @@
 # Financial Planning for Bitcoin Holders
 
-**Master course file.** All 11 modules and 50 lessons in course order, matching
+**Master course file.** All 11 modules and 52 lessons in course order, matching
 the Honen course navigation.
 
 **Progress: 50 / 50 — COMPLETE (2026-07-29).** Every lesson transferred by
@@ -83,7 +83,7 @@ Ten modules, in the order I'd take a real client through.
 3. **Modules 3 and 4: where the money goes.** Allocation and debt.
 4. **Modules 5 and 6: how you use it.** Tax strategy and retirement income.
 5. **Modules 7 and 8: how you protect it.** Custody and estate.
-6. **Modules 9 and 10: how you keep it alive**, about 10 to 15 minutes a month.
+6. **Modules 9 and 10: how you keep it alive**, about five minutes a month.
 
 Each module has two kinds of lessons. Teach lessons explain the concept with a real worked example. Walkthroughs put it into the app step by step. Some modules include worksheets. For the sensitive ones like the custody map and heir letter, print them and fill them out with pen and paper.
 
