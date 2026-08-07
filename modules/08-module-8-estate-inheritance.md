@@ -60,7 +60,7 @@ They need to follow a documented process and know who to call when stuck. Pair a
 
 If nobody in your life fits, name a professional. A bank, trust company, or attorney. Look for someone who knows the law, probate, and Bitcoin custody.
 
-One rule never bends: your executor plugs into the custody split, and that split has to be set up so no one person, including the executor, can reach your Bitcoin alone.
+If your design does use dual control, the executor has to plug into it correctly: whoever holds one piece should not also hold the other. That is why naming your heir as your executor collapses a split on day one. If your design does **not** use dual control, this is simply not a constraint on who you name.
 
 Then actually ask them. Someone who finds out they're the executor on the day they're supposed to start can't start.
 

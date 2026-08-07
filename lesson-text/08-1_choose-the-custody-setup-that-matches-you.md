@@ -33,11 +33,15 @@ Two things follow. **It's reasonable not to want the whole job.** That's what co
 | Level | Setup | For |
 |---|---|---|
 | 1 · Hardened exchange/ETF | Strong password, app 2FA, secured email, withdrawal delays | Small stack or still learning |
-| 2 · Hardware wallet | Seed offline, test transaction, **proven wipe-and-restore**, steel backup | The default once a stack is meaningful |
-| 3 · Passphrase + split access | Process a spouse/executor can follow, annual review | The stack matters to more than you |
+| 2 · Hardware wallet | Seed offline, test transaction, **proven wipe-and-restore**, backup medium matched to the stack | The default once a stack is meaningful |
+| 3 · Recoverable without you | Backups that survive one loss, a process a spouse/executor can follow, annual review | The stack matters to more than you |
 | 4 · Collaborative or DIY multisig | Professional support or full DIY, tested family process | One mistake would be unacceptable |
 
 **Every level is a trade.** Level 1 buys convenience and costs counterparty risk (frozen exactly when you need it). Level 2 buys true ownership and costs maintenance (one seed, one point of failure). Level 3 buys survivability and costs complexity (a lost passphrase is permanent). Level 4 buys "no single mistake ends it" and costs the most complexity of all. More sovereignty always means more responsibility; more convenience always means more counterparty risk. You choose which risks you hold, you never eliminate them.
+
+⚠ **Level 3 is defined by the outcome, not the technique.** Split access is one route. So is a sealed executor packet, and so is a well documented single-signature setup with backups that survive one loss. Split access buys **dual control**; it does not by itself buy **redundancy**, and it introduces a failure mode when the family is confused or a holder cannot be reached. Complexity nobody in your household can execute is not a higher level.
+
+⚠ **Backup medium is a trade too.** Paper is cheap and burns. Steel survives fire and flood and costs more. Weigh it against the size of the stack and the hazards where you actually live. "Steel is required" is not a rule this course gives you.
 
 Match the level to stakes and skill. A mismatch in either direction is the failure. Custody is not a purity test: if your family can't use the setup, the advanced version isn't protecting anything. (The app separately tiers its checklist by estate size: Foundation / Substantial / High Net Worth.)
 

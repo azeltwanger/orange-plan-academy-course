@@ -24,6 +24,10 @@
 
 **⚠** The tier filters the security checklist, so a Foundation household isn't held to the hardware items a high-net-worth household is. Two dials: YOUR custody level is your call, the app's tier sets the checklist you're held to.
 
+**⚠ Say this plainly, because the filtering can mislead:** the tier is keyed to **estate size**, and your custody level is keyed to something else entirely — what the Bitcoin is for, how much is actually at risk, your own technical ability, whether your family could recover it, how complex your estate is, and what you need to be able to reach. Those are different questions and they don't move together.
+
+**⚠** The example to say out loud: a household with $400,000 of net worth, $350,000 of it in direct self-custodied Bitcoin, lands in **Foundation** and the app won't show them the hardware items. They need a serious recovery process anyway. **The tier-filtered checklist is a convenience, not your custody recommendation.** If your Bitcoin position is heavier than your tier suggests, hold yourself to the higher standard the app isn't asking for.
+
 ---
 
 ## □ 1 · Orient on Protect
@@ -55,6 +59,13 @@
 **⚠ The honesty beats, verbatim from the app:** *"Full recovery process tested end-to-end"* and *"Backup seed verified readable."* Check these ONLY if the wipe-and-restore actually happened. Checked-but-fabricated means the plan believes something untrue.
 
 **SEE** The single-point-of-failure beats: *"Storage locations documented. Hints only"* · *"No single point of failure can destroy access"*
+
+**⚠ The two Distribution checkboxes measure two different things, and you are not required to satisfy both.** Say it this way:
+
+- *Key material stored in 2+ physical locations* is **redundancy**. It answers: can one lost copy permanently prevent recovery? Leave this unchecked and you have a real gap at any level.
+- *No single person can access funds alone* is **dual control**. It answers: can one person move the coins by themselves? This one is a **design choice**. A well-run single-signature household answers "yes, the owner can spend alone," and that is a perfectly sound setup.
+
+**⚠** So the finish line is not "both boxes checked." The finish line is: **you know which test your design passes, which one it doesn't, and why you accepted that.** And the trap to name out loud — dual control *without* redundancy is worse than where you started, because you've built two independent ways to lose everything instead of one.
 
 **⚠** There are no free-text fields anywhere here — checkboxes and How toggles only. Never write secrets into the app.
 
@@ -102,8 +113,9 @@
 ## □ 5 · Record your decisions (off-app)
 
 - Custody level chosen — your call, and it's not the same thing as the app's estate-size tier
+- Which test your design passes, which it doesn't, and why that's acceptable to you
 - Top single point of failure + the one fix this week
-- Annual custody review on the calendar, recurring
+- Annual custody review on the calendar, recurring — **and one line here: the calendar isn't the only trigger. The lesson text lists the nine changes that should pull the review forward. Read it once and you'll recognise them when they happen.**
 
 **DO** Optional: **Protection tier → Mark as reviewed** · **Protect header → Download estate summary** (PDF)
 

@@ -74,13 +74,15 @@ The mistake is a mismatch, in either direction. Celsius customers had too little
 
 **Level 2: Hardware wallet.** The default destination once a stack becomes meaningful.
 
-- Setup: seed stays offline, test transaction first, wipe-and-restore proven, backup on steel.
+- Setup: seed stays offline, test transaction first, wipe-and-restore proven, and a backup medium matched to what's being protected.
+- **Backup medium is a tradeoff, not a rule.** Paper is cheap and burns. Steel survives fire and flood and costs more. Weigh it against the size of the stack and the hazards where the household actually lives — do not hand students "steel is required."
 - Removes freeze risk. Hands you maintenance instead.
 
-**Level 3: Passphrase plus split access.** The stack matters to more than just you.
+**Level 3: The stack matters to more than just you.** The defining feature is that someone other than you has to be able to recover it, not any one technique.
 
-- Setup: hardened single-sig with a passphrase, a process your spouse or executor can follow, annual review.
-- The split makes the setup survivable without you.
+- Setup: a hardened wallet, a documented process your spouse or executor can actually follow, backups that survive one loss, and an annual review.
+- **Split access is one way to get here, not the requirement.** A passphrase split, a sealed executor packet, or a well-documented single-signature setup with redundant backups can all clear this bar. Split access buys dual control; it does not by itself buy redundancy, and it adds a failure mode of its own when the family is confused or a holder is unreachable.
+- Pick the design your household can actually operate. Complexity nobody can execute is not a higher level.
 
 **Level 4: Collaborative or DIY multisig.** For stacks where a single mistake is unacceptable.
 
@@ -120,7 +122,7 @@ The $150,000 is Level 3 money. His wife and two kids depend on it. Neither kid i
 
 Compare against where it's sitting: Level 2, and Level 2 isn't finished (no proven wipe-and-restore, seed still on paper).
 
-Homework: finish Level 2 honestly, then add the split that makes it Level 3. Two jobs, in that order.
+Homework: finish Level 2 honestly, then add whatever makes it recoverable without him — that is what moves it to Level 3. Two jobs, in that order, and the second one has more than one right answer.
 
 ### The app's tier
 
@@ -134,7 +136,17 @@ Orange Plan runs three tiers keyed to estate size:
 
 The tier filters the security checklist so a Foundation household isn't held to the hardware items a high-net-worth household is.
 
-Two dials work together: your custody level (your call, based on skills and family) and the app's tier (which checklist items you're held to, based on what's at stake).
+**Two separate scales, with two separate inputs. Do not let one answer the other.**
+
+| | **Custody level** (1–4) | **App tier** (Foundation / Substantial / HNW) |
+|---|---|---|
+| Driven by | What the Bitcoin is for · how much is actually at risk · your technical ability · whether your family could recover it · estate complexity · liquidity needs | Estate net worth, and nothing else |
+| Decides | How you hold and hand off the coins | Which checklist items the app shows you |
+| Who sets it | You | The app |
+
+These do not move together, and the gap is where people get hurt. **A household with $400,000 of net worth and $350,000 of it in direct self-custodied Bitcoin lands in Foundation and never sees the hardware items.** They need a proven recovery process anyway. The Bitcoin does not care what tier the estate is in.
+
+⚠ **The tier-filtered checklist is a convenience, not a custody recommendation.** If your Bitcoin position is heavier than your estate tier implies, hold yourself to the standard the app isn't asking for.
 
 ### Custody is not a purity test
 
@@ -552,12 +564,18 @@ Fill it as you talk. It has five blocks:
 | Block | What goes in |
 |---|---|
 | BITCOIN | Hardware wallet, exchange, ETF, collaborative custody. One row per instance, provider named. |
-| WHERE THE BACKUPS ARE | Location only. Never seed words, PIN, or passphrase. "Steel backup: safe deposit box, First National, downtown branch." Not "steel backup: `abandon abandon…`" |
+| WHERE THE BACKUPS ARE | **Coded references, not street addresses.** Never seed words, PIN, or passphrase — and on the family-facing sheet, not the exact physical location either. Write *"Seed backup: Location A · retrieval instructions held by: executor"*, not *"safe deposit box, First National, downtown branch."* |
 | ACCOUNTS | Retirement, bank, brokerage. Retirement transfers by beneficiary form. Keep those current (Module 8 hooks into this). |
 | INSURANCE & OTHER | Policies, property, anything else the family should find. |
 | DOCUMENTS | Will, POA, healthcare directive, Executor packet, Heir letter. Where the original is, and who has a copy. |
 
-⚠ This map never contains a secret. It says *where* things are, never *how* to open them. The template's own footer says it: *"never the words, PIN, or passphrase."* If your instinct is to write the seed on this map, stop and go back to the no-secrets rule before continuing.
+⚠ This map never contains a secret. It says *that* things exist and how to start, never *how* to open them. The template's own footer says it: *"never the words, PIN, or passphrase."* If your instinct is to write the seed on this map, stop and go back to the no-secrets rule before continuing.
+
+⚠ **Why coded, and not just secret-free.** A sheet listing where every backup, device and passphrase copy physically sits is a treasure map even with no secret written on it. Someone who steals the document learns exactly where to go. Coding the locations removes that.
+
+⚠ **The condition on coding: the legend needs its own backup.** Coded references pass the dual-control test and can fail the redundancy test. If the executor packet holding the decode is lost, destroyed, or held by someone the family cannot reach, they have a map they cannot read, and the Bitcoin is recoverable in principle and gone in practice. Before coding anything, decide **where the second copy of the legend lives and who can reach it.** Skip that and you have rebuilt a 2-of-2 out of paperwork.
+
+⚠ **Two documents, two jobs.** The **Owner Custody Audit** is your private working sheet: backup medium, recovery-test log, single points of failure, whether multiple locations exist, whether a passphrase is involved, config-file status, and the fix queue. The **Family Access Map** is the shared one, and it is narrower on purpose: what categories of assets exist, which provider or custody type, who knows the process, who to contact, and where the non-secret executor documents live. Neither holds a secret. **They are not stored together**, because the audit's detail is exactly what the family sheet is designed not to reveal.
 
 ⚠ The map is the companion to the Heir Letter in the estate module. The letter says who to call and in what order. The map says what exists and where. Both need to be findable by the executor, and neither can contain a secret.
 
@@ -567,9 +585,14 @@ Set the review date on the footer: *"Review yearly. Module 9."* That becomes an 
 
 There is no scheduler in Orange Plan. These decisions live in your calendar or a note.
 
-- **Custody level chosen** (Foundation, Substantial, or High Net Worth). Your call, based on the self-triage. Not the app's tier, which is estate-size-based.
+- **Custody level chosen** (Level 1, 2, 3, or 4 from the custody ladder). Your call, based on the self-triage. **Not** the app's tier, which is named Foundation / Substantial / High Net Worth and keyed to estate size. Two different scales with two different inputs — do not let the app's badge answer this one.
+- **Which of the two tests your design passes** — redundancy, dual control, or both — and why the one it misses is acceptable to you.
 - **Top single point of failure and the one fix this week.**
-- **Annual custody review** on the calendar, recurring.
+- **Annual custody review** on the calendar, recurring — plus the change triggers below, because the calendar is not the only reason to reopen this.
+
+**Review annually, and whenever one of these changes:** a new wallet or custodian · a material rise in the value of your Bitcoin · a new spouse, heir, executor, or trusted person · a move to another home or state · a device replacement · a backup location change · a new legal document · a health or family change · a new Bitcoin-backed loan or collateral setup.
+
+Any one of these can quietly break a design that was correct the day you built it. No extra video needed here; the student text carries the list.
 
 Optional on-screen anchor for the tier decision: **Protect → Protection tier → Mark as reviewed**.
 
@@ -587,7 +610,11 @@ If you want a line as you pass it: *"there's an assistant for the heir letter. T
 
 - **The Needs attention list is shorter at the end than the start.** And the top remaining item gets named out loud as this week's fix.
 - **Hardware items are honest.** *Full recovery process tested end-to-end* is checked only if you actually did the wipe-and-restore. Leave unchecked anything you haven't done; a checked item that never happened makes the plan believe something untrue.
-- **Distribution items are the only-one hunt, itemized.** *Key material stored in 2+ physical locations* and *No single person can access funds alone*, both true, is the bar. Both unchecked and the map has a real gap.
+- **Distribution items are the only-one hunt, itemized.** The two checkboxes measure **two different things**, and they are not both required of everybody:
+  - *Key material stored in 2+ physical locations* is **redundancy** — can one lost copy permanently prevent recovery? Leaving this one unchecked is a real gap at any level.
+  - *No single person can access funds alone* is **dual control** — can one person move the coins by themselves? This is a **design choice, not a requirement.** Plenty of sound single-signature households answer "yes, the owner can spend alone," and that is fine.
+
+  The bar is not "both checked." The bar is that **you know which one your design gives you, which one it does not, and why you accepted that.** A student who checks dual control without redundancy has built two independent ways to lose everything, which is worse than the setup they started with.
 - **Access after death** is the handoff to Module 8. Those four items are next module's homework list.
 - **Nothing secret got typed.** Say the absence as the win. The one moment you'll touch a passphrase is the backup export in Step 3, and you'll have explained exactly what it is and is not.
 - **The plan file exists on disk**, encrypted with a passphrase you control.
