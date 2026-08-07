@@ -57,12 +57,12 @@ changed once, in both places, before you record.
 
 ## The order
 
-### Module 0 — Start Here · 19 min
+### Module 0 — Start Here · 16 min
 
 | # | Lesson | min |
 |---|---|---|
 | 1.1 | How to use this course | 10.6 |
-| 1.2 | How the AI works: what it reads, what it never sees | 8.8 |
+| 1.2 | How the AI works: what it reads, what it never sees | 5.8 |
 
 ### Module 1 — Foundation: baseline, assumptions, and the confidence number · 20 min
 
@@ -146,7 +146,7 @@ changed once, in both places, before you record.
 
 ---
 
-**27 teach lessons · 245 min (4.1 h) of finished audio at 155 wpm.**
+**27 teach lessons · 242 min (4.0 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not dictated. They are screen captures you narrate in
 your own words off the DO / SEE / ⚠ sheets, and they happen after the

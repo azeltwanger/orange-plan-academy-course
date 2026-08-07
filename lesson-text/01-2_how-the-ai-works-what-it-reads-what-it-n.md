@@ -2,6 +2,8 @@
 
 Orange Plan has an AI built in, and it appears in almost every module from here on. This lesson covers what it reads, what it never sees, where it runs, and why the button changes from page to page.
 
+> **This page is the reference layer, and it is deliberately more detailed than the video.** The model, the exact data it can request, the memory cap, the daily limits, and what it knows about this course are product specifications: they change faster than a recorded lesson can. The video teaches the parts that do not change. This page carries the current numbers.
+
 ## Where to find it
 
 The **AI Review** button sits in the top bar. It opens a panel called **Plan Guide**, which lives in the app rather than on any one page, so you can open it from anywhere. Closing the panel does not end the conversation: go check a number on another page, reopen it, and pick up where you left off.
