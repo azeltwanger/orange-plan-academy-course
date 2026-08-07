@@ -4765,21 +4765,21 @@ None of this is a product recommendation. Actual coverage runs through a license
 
 
 
-# Unit 10 · Module 9 — Maintenance (Capstone)
+# Unit 10 · Module 9 — Maintain, Test, and Read the Plan
 
-*What keeps the plan alive: a five-minute monthly pass and one annual review.*
+*What keeps the plan alive: two review rhythms, scenarios for testing a decision,
+and the finished report you save once a year.*
 
-## 10.1 The five-minute monthly pass
-*`TEACH` · 567 words · ~4 min*
-
-> 🐞 Currency mangling in the drift example (item 17): "$8,000/yr light …
-> about $100,000 more portfolio."
+## 10.1 Keep the plan current: the monthly pass and the annual review
+*`TEACH` · ~1,715 words · ~11 min*
 
 **By the end of this lesson, you can:**
 
-- Distinguish the monthly pass from the annual review
-- Recognize the two kinds of drift
-- Update the plan before you think about strategy
+- Tell a review apart from a rebuild, and keep maintenance to the review
+- Recognize the two kinds of drift and the rhythm that catches each one
+- Run the four-input monthly pass in about five minutes
+- Ask the one annual question in each of the six areas
+- Cap every pass at one to three finishable actions
 
 ---
 
@@ -4787,38 +4787,74 @@ A rebuild goes back and re-litigates decisions you already settled. It reacts to
 
 The big decisions were settled earlier in the course: your allocation, the job you gave every debt, your tax windows, your income guardrails, your custody setup, your estate wishes. Maintenance doesn't reopen any of them. Its job is to keep the facts current underneath them.
 
-A big review month for our couple might be one raise: W-2 from $150,000 to $160,000. You enter one number, the plan re-runs, and you're done.
-
 ### What maintenance is fighting: drift
 
 Drift is the distance between what your plan says and what's true. Two forms, moving at different speeds.
 
-**Data drift: facts going out of date.** Your spending, income, balances, account list. Nobody entered the update.
+**Data drift: facts going out of date.** Your spending, income, balances, account list. Nothing's wrong with the strategy. Nobody entered the update.
 
-Say the couple's spending creeps to $88,000 over a year or two and nobody enters it. The plan still says $80,000; life says $88,000. Every projection runs $8,000/yr light. Run that through the withdrawal math from the income module and that's about $100,000 more portfolio they actually need. The plan is off by a hundred thousand dollars without anyone making a bad decision.
+Say the couple's spending creeps to $88,000 over a year or two and nobody enters it. Every projection runs $8,000/yr light, and run through the withdrawal math from the income module, that's about $100,000 more portfolio they actually need than the plan thinks. The plan is off by a hundred thousand dollars without anyone making a bad decision.
 
 **Plan drift: decisions going stale.** Facts are fine, but the strategy on top of them no longer fits the life underneath. The allocation you picked at 45 might not be the one you want at 60. A debt that had a job three years ago might have finished it.
 
-Data drift happens constantly in small amounts. Plan drift happens slowly, and it's a bigger conversation when it comes up.
+Data drift happens constantly in small amounts. Plan drift happens slowly, and it's a bigger conversation when it comes up. So they get two different rhythms.
 
-### Two rhythms, not one
-
-- **Monthly pass.** About five minutes. Short check of a few inputs to keep data current. Catches data drift.
-- **Annual review.** A single thorough pass once a year. Walks every area, deliberately reconsiders strategy. Catches plan drift.
+- **Monthly pass.** About five minutes. A short check of a few inputs to keep the data current. Catches data drift.
+- **Annual review.** A single thorough pass across every area, once a year. Deliberately reconsiders strategy. Catches plan drift.
 
 Splitting these two protects your willingness to keep showing up. You aren't reopening your strategy twelve times a year to catch a spending change that could have been entered in thirty seconds.
 
-### The rule that ties them together
+**One rule ties both rhythms together: you update the plan first.** The facts go in before you do any thinking about strategy, because stale numbers produce confident but wrong answers.
 
-**You update the plan first.** The plan is your source of truth, so the facts go in before you do any thinking about strategy. Stale numbers produce confident but wrong answers.
+### The monthly pass is four inputs
 
-### The plan doesn't care what the price is today
+Four inputs, not forty, because these are the only categories that actually move a projection. Everything else on the screen is a result of them.
 
-In 2022, Bitcoin dropped 75%. A plan built on facts didn't move. Income, spending, and life were the same, so the plan was the same.
+1. **Money moves.** Buys, sells, transfers. Anything that actually happened with your money this month. For our couple, usually the auto-buy that went through, ~$1,000.
+2. **Income and expense changes.** A raise, a new income stream, or a spending level that's materially different. W-2 from $150K to $160K counts. A restaurant month that ran a few hundred hot is noise. The test: new baseline, or one-off? One month over the plan is nothing. Six months over in the same direction is a new spending level, and the monthly cadence is what lets you tell the two apart.
+3. **Life events.** A move, marriage, kid, job change. A life event changes several numbers at once and moves your goals with them.
+4. **Assumptions and targets.** Growth assumption, inflation, reserve target, retirement age. Most months, glance and move on.
 
-Orange Plan is built the same way. Your confidence ring only goes stale and asks you to recheck it when an actual plan input changes: balances, spending, income, dates. Bitcoin's price is deliberately left out of that recheck trigger, so a red candle can't tell you your plan needs attention.
+Anything that needs a real decision gets flagged, and **flagging is not deciding.** Write down the question. It either becomes an action this month or waits for the annual review.
 
-If nothing changed, the review takes five minutes and confirms that nothing changed.
+Most months the honest action count is zero, you close the plan, and that's the normal outcome. The pass exists to prove it.
+
+### What never touches the plan
+
+**Earns an update:** a real transaction, a real income or expense change, a life event, a target that genuinely changed.
+
+**Never** update the plan for the price on the day, a loud news week, a market swing, a gut feeling, or a number that looks nicer.
+
+The sneaky one is the last: tweaking your assumptions because a slightly different number makes the plan look nicer. Move your growth assumption up two points, and your freedom date jumps forward a year with nothing about your life having changed. The plan can't tell after the fact whether that jump came from real information or from your mood.
+
+The price on the day is the one worth saying out loud, because it pulls hardest. Orange Plan is built so your confidence ring only asks for a recheck when an actual plan input changes, and Bitcoin's price is deliberately left out of that trigger, so a red candle can't tell you your plan needs attention.
+
+Austin used to check the Bitcoin price twenty times a day. Not one of those checks ever changed a number that belonged in his plan.
+
+### The annual review is six areas, one question
+
+Once a year, the thorough pass. Every area asks the same question: **does this decision still fit, and what would tell me if it didn't?** Asking one question, area by area, is what keeps a six-area review from turning into six rebuilds.
+
+The six areas are cards you already built earlier in this course, so the annual review is one lap back through a system you already own. The walkthrough runs all six on screen; what's taught here is the question in each one and the answers that change what you do.
+
+| Area | The question | What changes what you do |
+|---|---|---|
+| Spending + reserve | Is spending inside the guardrails, and is the reserve at target? | Read the guardrail verdict: hold, raise, or cut. Refill toward target. A bad market doesn't change the target. |
+| Allocation | Is the percentage you chose still the percentage you're carrying? | Bitcoin running faster than everything else raises your share without you doing anything. |
+| Debt | Are the ratios in range, and is every debt still doing its job? | If you borrow against Bitcoin: at today's price, would your written loan policy's drawdown force a sale? |
+| Tax | Was this year's window used or deliberately passed? | The only area with a hard deadline. Harvest room, conversion room, and cost basis records that still prove what you paid. No records means a basis of zero. |
+| Custody | Has one recovery been proven this year? | An actual restore test on a spare device, then a rescan for new single points of failure. |
+| Estate | Could your family act on the letter today? | Beneficiaries current (the form overrides the will), heir letter accurate, executor still fits and is still willing, dead man's switch armed. |
+
+**Allocation and custody share one move, and it's the one people skip.** Both get re-asked at today's balance, not the balance you had when you decided. A Bitcoin position that grew from $500,000 to $800,000 this year turns the same 75% drawdown from a $375,000 paper loss into a $600,000 one. The percentage didn't move; the number you'd have to sit through nearly doubled. Custody is the same arithmetic: the setup is guarding a lot more money than it was designed for, and you never made that decision. The market made it for you.
+
+**Run this review in November.** The tax area is the only one with a hard deadline, and November leaves time to actually act on what you find. Bring three things: your plan updated through your last monthly pass, your notes from last year's review, and the checklist, so the review has a defined finish line.
+
+### The one-to-three action rule
+
+Output of every pass, monthly or annual: at most three actions, all finishable before the next one. A realistic list: move the exchange coin to cold storage, enter the new salary, ask the CPA one question before year-end.
+
+A long to-do list is the single biggest reason these reviews stop happening. You open the plan, see the backlog, feel behind, and close the plan. The one-to-three rule is what lets you finish the review every month, for years. The compounding comes from finishing it.
 
 ### Your decision
 
@@ -4827,246 +4863,181 @@ If nothing changed, the review takes five minutes and confirms that nothing chan
 How to think about it:
 
 1. **Separate the two jobs.** The monthly pass catches facts going stale. The annual pass asks whether decisions still fit. Mixing them turns every month into a rebuild.
-2. **Pick a specific recurring day, not a vague intention.** "First Saturday" survives. "Beginning of the month" doesn't.
-3. **Put the annual one before year-end**, because the tax moves in it expire on December 31.
+2. **Pick a specific recurring day for the monthly one.** "First Saturday" survives. "Beginning of the month" doesn't.
+3. **Put the annual one in November**, ahead of the December 31 tax deadline.
 4. **Protect the boundary.** If something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
 
 ### Homework
 
-1. Pick your monthly day and your annual month.
-2. Put both on your calendar as recurring events, right now.
-3. Decide what you will not touch during a monthly pass, and hold that line when the price is moving.
+1. Pick a specific day for your monthly pass and put November on the calendar for your annual review. Both as recurring events, right now.
+2. Decide what you will not touch during a monthly pass, and hold that line when the price is moving.
+3. Hold the three-action cap. More than three and none of them get finished.
+4. Then watch the module walkthrough, where we run the monthly pass on a timer and then the full annual lap.
 
-*`TEACH` · 729 words · ~5 min*
 
-**By the end of this lesson, you can:**
 
-- Run the four-input monthly pass in about five minutes
-- Distinguish a fact change from a mood or price change
-- Cap the pass at one to three finishable actions
-- Put the monthly review on your calendar
-
----
-
-Four inputs, six steps, about five minutes.
-
-The job is narrow: it catches data drift, meaning facts that have gone out of date. It doesn't cover strategy decisions.
-
-Four inputs, not forty, because these are the only categories that actually move a projection. Everything else on the screen is a result of them.
-
-### The four inputs
-
-1. **Money moves.** Buys, sells, transfers. Anything that actually happened with your money this month. For our couple, usually the auto-buy that went through, ~$1,000.
-2. **Income and expense changes.** A raise, a new income stream, or a spending level that's materially different. W-2 from $150K to $160K counts. A restaurant month that ran a few hundred hot is noise. The test: new baseline, or one-off?
-3. **Life events.** Anything from your foundation list: a move, marriage, kid, job change. A life event changes several numbers at once and moves your goals with them.
-4. **Assumptions and targets.** Growth assumption, inflation, reserve target, retirement age. Only if something real shifted. Most months, glance and move on.
-
-### The six steps
-
-1. Open the plan.
-2. Check the four inputs.
-3. Enter transactions. By hand if a few, imported from a file if many.
-4. Review last month's spending against the plan.
-5. Flag anything that needs a real decision.
-6. Pick one to three actions.
-
-### Running it on the couple
-
-- **Step 1.** Open the plan.
-- **Step 2.** $1,000 buy went through. No income change. No life event. Targets didn't move.
-- **Step 3.** Enter the buy. Thirty seconds.
-- **Step 4.** Plan runs ~$6,700/mo. This month $6,800. $100 over, noise. One month over the plan is nothing. Six months over in the same direction is a new spending level. The monthly cadence lets you tell the two apart.
-- **Step 5.** Nothing to flag. Flagging is not deciding. Write down the question. It either becomes an action this month or waits for the annual review.
-- **Step 6.** Honest count this month: zero actions. Close the plan.
-
-Most months, the honest answer is that nothing changed, and the pass exists to prove it.
-
-### Why monthly
-
-Weekly is short enough that you'd mostly be looking at price movements. Quarterly is long enough that you'd be reconstructing three months from memory.
-
-### What earns an update, and what never touches the plan
-
-**Earns:** a real transaction, a real income or expense change, a life event, a target that genuinely changed.
-
-**Never** update the plan for the price on the day, a loud news week, a market swing, a gut feeling, or a number that looks nicer.
-
-The sneaky one is the last: tweaking your assumptions because a slightly different number makes the plan look nicer. Move your growth assumption up two points, and your freedom date jumps forward a year with nothing about your life having changed. The plan can't tell after the fact whether that jump came from real information or from your mood.
-
-Austin used to check the Bitcoin price twenty times a day. Not one of those checks ever changed a number that belonged in his plan.
-
-### The one-to-three action rule
-
-Output of every monthly pass: at most three actions, all finishable before the next pass. A realistic list: move the exchange coin to cold storage, enter the new salary, ask the CPA one question before year-end.
-
-A long to-do list is the single biggest reason these reviews stop happening. You open the plan, see the backlog, feel behind, and close the plan. The one-to-three rule is what lets you finish the review every month, for years. The compounding comes from finishing it.
-
-### Homework
-
-The plan survives on this habit. Pick a specific day for the review, not "soon" and not "beginning of the month." Set the calendar event to repeat. Confirm.
-
-Five minutes a month, one afternoon a year, for the rest of your life. Every raise, every buy, and every quiet month you enter makes your freedom date more real.
-
-## 10.2 The annual review: six areas to check
-*`TEACH` · 1,051 words · ~8 min*
-
-> ✅ **Inconsistency FIXED (item 25) — 2026-07-30.** This lesson now reads
-> "~$1,850/mo … ~12%", matching 5.1. $22,000/yr of debt service ÷ 12 = $1,833/mo,
-> and $1,833 ÷ $15,833 = 11.6% ≈ 12%. The old $1,600/~10% did not derive from any
-> figure in the couple's story.
+## 10.2 Test a decision and read the finished plan
+*`TEACH` · ~1,930 words · ~12 min*
 
 **By the end of this lesson, you can:**
 
-- Walk all six annual-review areas
-- Apply the one question: does this decision still fit?
-- Trigger downstream actions from any drift you find
-- Finish the review with a checklist and a next-year note
+- Tell a life event apart from a scenario, and put each one where it belongs
+- Build single-variable scenarios and read a comparison without fooling yourself
+- Know when a scenario should graduate into your actual plan
+- Read a plan report in question order: position, trajectory, risk, actions
+- Catch the six red flags in the first two minutes
+- Save one PDF per year, compare year-over-year, and hand it to spouse, CPA, and attorney
 
 ---
 
-Once a year, one thorough pass across six areas.
+Your plan answers one question: if things go roughly the way you've assumed, here's where you land. A scenario answers a different one: **what happens if they don't?**
 
-Where the monthly pass catches data drift, the annual review catches plan drift. Facts are current but a decision from a while ago doesn't fit your life anymore.
+You keep one baseline plan that represents your real life and your real intentions, and you keep a set of saved what-ifs beside it that you can compare against, one at a time, without disturbing the plan itself.
 
-Every area asks one question: **does this decision still fit, and what would tell me if it didn't?** Asking one question area by area keeps a six-area review from turning into six rebuilds.
+### Life event or scenario?
 
-### The six areas
+This is the distinction that decides where something goes, and the app enforces it.
 
-1. Spending and cash reserve
-2. Allocation
-3. Debt
-4. Tax
-5. Custody
-6. Estate
+A **life event** is something you genuinely expect: college tuition starting in eight years, a roof, a car, retirement itself. Those go in the plan, because leaving them out makes the projection wrong.
 
-Every area is a card you already built earlier in this course. The annual review is one pass back through a system you already own, not new work you invent once a year.
+A **scenario** is something you're considering or worried about: retiring three years earlier, moving to a no-tax state, Bitcoin dropping 50% the year after you retire. Those go in Scenarios, because putting them in the plan corrupts the baseline you measure everything else against.
 
-### When and what to bring
+**The test is one question: am I telling the plan what's true, or am I asking the plan a question?** True things go in the plan. Questions go in Scenarios.
 
-Put this in the fall (October or November). The tax area has a year-end deadline, so there's still time to act. Bring:
+The most common way people wreck their own baseline: they get curious about retiring at 55, change the retirement age in the plan itself just to see, get distracted, and three months later they're reading a projection built on a decision they never made.
 
-- Your plan, updated through your last monthly pass. Facts go in before you think about strategy.
-- Your notes from last year's review.
-- The checklist. A defined finish line.
+### The two kinds of what-if
 
-### Area 1. Spending and cash reserve
+| Kind | Asks | What you do with the answer |
+|---|---|---|
+| **Stress test** | Would I survive this? | Survive it, or go fix something |
+| **Choice** | Should I do this? | Weigh it, decide, then act or drop it |
 
-Take our couple in retirement: 60, spending $80,000/yr.
+Stress tests: a bear market, a 50% drawdown right after you retire, weaker Bitcoin returns than you assumed. Choices: retire earlier, spend less, move states, claim Social Security at 62 instead of 70.
 
-Run the annual review on retirement income and read the guardrail outcome. The plan's verdict: holds, raises, or cuts. The app puts last year's target, the inflation-adjusted version, and the new 80% number side by side.
+### Choosing the scenario type
 
-Once-a-year pass:
+The app asks what kind of scenario it is before anything else, so you get shown the controls that matter for your question instead of all forty.
 
-1. Re-center your target toward the 80% confidence level.
-2. Cap any move at ±10% in a year.
-3. Adjust for inflation.
+| Type | What it covers |
+|---|---|
+| **Life events** | Income, spending, housing, family, and one-time events |
+| **Retirement** | Timing, spending, income, and Social Security |
+| **Savings** | Contribution amounts, routing, and future savings mix |
+| **Debt** | Existing debts, new loans, and BTC borrowing |
+| **Tax** | State, Social Security, dividends, and Roth conversions |
+| **Markets** | Return assumptions and asset reallocations |
+| **Advanced** | Every scenario control at once |
 
-Then refill the reserve. Target: 18 months of spending = $120,000 cash.
+Start with the specific type that matches your question. Advanced is for genuine multi-part scenarios; reach for it last, not first.
 
-- Spending held or rose: refill all the way to $120,000.
-- Spending got cut: refill only partway. About 12 months, so ~$80,000.
+### Change one thing at a time
 
-A bad market doesn't change the target. 18 months is the planning default because sequence risk is most dangerous in the first few years, not a prediction of how long the next Bitcoin recovery takes.
+Build a scenario that retires you three years earlier, cuts your spending, and assumes weaker Bitcoin returns all at once, and a worse result teaches you nothing. You can't tell which of the three did it, or whether two cancelled each other out.
 
-- **Good:** spending inside guardrails, reserve at $120K or rebuilding on the rule.
-- **Bad:** reserve at half its target for two years running.
+**One variable per scenario.** If you want to know what three changes do together, that's a fourth scenario, built deliberately and read after you already understand each piece on its own.
 
-### Area 2. Allocation
+### Reading the comparison honestly
 
-Drift happens without you doing anything wrong. Bitcoin runs faster than your index fund, your Bitcoin share rises on its own, and your risk level rises with it.
+1. **Read the pair, not the number.** A scenario that retires you two years earlier at a much lower success rate is not a better plan. It's a different trade, and the trade is what you're reading.
+2. **Run the Monte Carlo before you believe the success rate.** The comparison chart updates immediately, but the success rate is a simulation and has to actually run.
+3. **Small differences aren't differences.** If a scenario lands 2% away from your baseline, the change didn't really matter. Don't reorganize your life around noise.
 
-Rebalance by directing new dollars. Point new contributions where the plan is light, so you correct the drift without selling anything you didn't plan to sell.
+### When a scenario graduates
 
-**Re-ask the stress question at your new balance.** The answer moves even when the percentage doesn't.
+Sometimes a scenario stops being a question and turns into a decision. At that point it isn't a scenario anymore: change the actual plan. A real decision left living in Scenarios means your baseline is wrong in a way you'll forget about.
 
-Portfolio grew $500K → $800K this year. Same 75% drawdown:
+The reverse happens too. You run a stress test, the plan survives, and there's nothing to do. That's completed work, not a failure.
 
-- Last year: 75% of $500K = $375K paper loss.
-- This year: 75% of $800K = **$600K** paper loss.
+**Two scenarios are worth keeping permanently.** A deep drawdown right after retirement, which is the sequence-of-returns test and the single scenario most likely to break a Bitcoin-heavy plan. And weaker Bitcoin returns than you assumed, because a plan that only works at your optimistic growth curve is worth knowing about every year rather than once. Both feed the "if Bitcoin follows a different path" section of your yearly report.
 
-Percentage didn't move, but the number you'd sit through nearly doubled.
+### Reading the plan: four questions, in order
 
-### Area 3. Debt
+A plan report gets read in the order that answers four questions.
 
-Are your ratios in range, and is every debt still doing its assigned job?
+| # | Question | Section |
+|---|---|---|
+| 1 | Where do you stand today? | Position |
+| 2 | Where are you headed? | Trajectory |
+| 3 | What could break it? | Risk |
+| 4 | What do we do about it? | Actions |
 
-The couple's debts (working year):
+The order matters, because each question depends on the one before it. Trajectory is computed off position. Risk is your trajectory tested against assumptions you didn't pick. Actions come out of what the risk read found. Starting in the middle means trusting numbers you never checked.
 
-- $280,000 mortgage at 3.25%. Job: stay cheap while the difference gets invested. Still cheap.
-- $18,000 auto loan at 7%. Job: a payoff schedule. On schedule?
+**Position** is the honest snapshot of today: net worth, Bitcoin versus everything else, what you owe. No judgment at this layer. This is where stale data gets caught, and reading it first is what stops one wrong account from corrupting every number downstream. If you moved that quarter Bitcoin to cold storage last month, does the report know?
 
-Debt-to-income: ~$1,850/mo payments against $15,800 income = ~12%. In range. Payments survive a drawdown because income didn't fall with the price.
+**Trajectory** is two numbers, always read as a pair. The earliest-retirement date tells you when. The confidence number, the share of simulated futures where the plan funds your spending all the way through, tells you how sturdy that date is. Age 60 at 82% confidence is a real answer. Age 57 at 55% confidence is a prettier date and a worse plan, because a date on its own can always be moved earlier by assuming better returns.
 
-If you're borrowing against Bitcoin: is the cushion honest at the price on your review date? Would a 50% drawdown force a sale?
+**Risk** is the "what if I'm wrong" sections, and where the two scenarios you kept show up: the different Bitcoin paths, the spending band, and the protection lines. In a real plan, spending isn't one number. The floor is what the plan asks you to live on in a bad stretch; the ceiling is what it lets you spend when things go well. The couple's $80,000 sits in a band with a floor of ~$72,000 and a ceiling of ~$88,000. Ask one question of every risk section: would I still be okay here? For the couple, the whole risk read is one sentence: on the Bitcoin path they did not pick, does the plan still hold at $72,000?
 
-- **Good:** ratios in range, no loan a 50% drop would liquidate.
+**Actions** are the shortest section and the only place the review changes anything. Same rule as the maintenance lesson: one to three finishable actions. For the couple: finish the cold storage move, top up the reserve, take one conversion question to the CPA.
 
-### Area 4. Tax
+### The six red flags
 
-Has a year-end deadline. Do it before December 31.
+1. A position section that doesn't match reality. Stale balances make every number after them wrong.
+2. A date you like at a confidence you don't. That plan only works if you get lucky.
+3. A spending number with no band around it.
+4. A Bitcoin-path section you've never actually looked at.
+5. A next-steps list longer than three items.
+6. An assumptions section you couldn't defend out loud.
 
-1. Check your harvest room.
-2. Check your conversion room.
-3. Confirm cost basis is still clean.
-4. Glance at the horizon for required withdrawals.
+Find any of those and the review isn't finished. **The standard: you can answer all four questions out loud, in four sentences, about your own report.**
 
-At $190K working income, 0% gains room is out of reach and there's no conversion room worth taking (thresholds move; check them).
+### Save one PDF per year
 
-The basis check is a real annual task. The quarter BTC on the exchange has a $15,000 basis, and the records have to prove it. No records means a basis of zero, which means paying tax on the entire sale price.
+Save one PDF per year, right after your annual review, while the data is fresh. Year in the filename, somewhere it will still exist in ten years. That document does its real work the second time you save one, when there are two side by side, because a price change by itself can't tell you whether the plan got better.
 
-- **Good:** this year's tax window was either used or deliberately passed, with the questions asked while there was still time to act.
+Take a rally year. Bitcoin's worth $200,000 more and it feels great. But spending drifted from $80,000 to $88,000 unentered, the reserve never got topped back up, and the tax question never got asked. The rally moved one number and showed you none of that.
 
-### Area 5. Custody
+Austin lived the other direction. In 2022 his net worth dropped 75%. On price alone that's a catastrophe, but income hadn't changed, spending hadn't changed, and the date barely moved. A report from that year would have shown all three in a couple of minutes while the price chart showed nothing but red.
 
-**Prove one recovery this year.** "I'm pretty sure the backup works" isn't enough. Run an actual restore test on a spare device.
+With two reports side by side, read four lines in order:
 
-Then: rescan for single points of failure (new accounts, new devices, backups that moved) and refresh account security.
+1. **Net worth and the Bitcoin share.** A share that rose while you only made small buys means price is the reason, which is drift you didn't choose. A share that rose because you bought more is a decision you made. Two stories, same number.
+2. **Date and confidence, as a pair.** The same date at higher confidence is real improvement. An earlier date at lower confidence means an assumption moved, not the plan.
+3. **The spending band, especially the floor.** The floor is the number you're stuck with in a bad stretch. A rising floor means the plan got stronger; a rising ceiling on its own doesn't.
+4. **Last year's action list.** Did each one happen? Anything unfinished rolls forward.
 
-- **Good:** one recovery proven, last year's worst "only one" fixed, no new unprotected ones.
+### Three handoffs
 
-### Area 6. Estate
+You're not the only reader.
 
-1. Are your beneficiaries still current? New baby, marriage, divorce. The form overrides the will.
-2. Is the heir letter still accurate? Kids' ages, wallets that moved this year.
-3. Does the executor still fit? Are they still willing?
-4. Is the dead man's switch armed with the right recipients?
+- **The spouse sit-down**, where the report is the agenda: where you stand, the date, the band. Twenty minutes.
+- **The CPA**, who gets the tax pages plus the transaction export, so they can price a conversion or a harvest instead of reconstructing your year from statements.
+- **The estate attorney**, who gets the access and estate pages plus your decisions, so drafting starts from what you already decided.
 
-- **Good:** a letter your family could act on today.
+In all three you're handing a professional a document, not asking them to log into an app. That's what lets three different people start from the same set of facts.
 
-### The finish line
-
-The sheet closes with a tick-as-you-go checklist and a note for next year's review. Having a defined finish line is what keeps the annual review from turning open-ended.
-
-One card from every module, once a year, each asking whether a decision you already made still fits.
-
-### Your decision
-
-**Which month you run the annual review, and what "done" looks like.**
-
-How to think about it:
-
-1. **Run it before year-end**, because the tax card is the only area with a hard deadline and it closes December 31.
-2. **Give each area about the same short attention.** You're reading six screens and asking one question of each: does the decision I made still fit?
-3. **Cap the output at three actions.** A longer list is the reason people quit doing reviews.
-4. **Define the finish line up front**, so the review ends instead of drifting into a rebuild.
+You started this course with accounts scattered everywhere and a rough guess. You're finishing with a document your family can read, your CPA can act on, and next-year-you can be measured against. That finished document is what a financial plan actually is.
 
 ### Homework
 
-1. Pick your annual review month and put it on the calendar as recurring.
-2. Hold the three-action cap. More than three and none of them get finished.
-3. "Done" is the report saved and the backup exported. Both live in the app.
+1. Save one stress test, a deep drawdown right after your retirement year, and run the Monte Carlo on it.
+2. Save one choice you're genuinely weighing, built as a single-variable scenario.
+3. Answer the stress test out loud: would you still be okay? If no, build the lever you'd pull as its own scenario and see whether it fixes it.
+4. Read your own report in the four-question order, answer each question out loud in one sentence, and run the six red flags against it.
+5. Then watch the module walkthrough, where we build both scenarios, walk the full report, and save this year's PDF.
 
 
-## 10.3 Walkthrough: run the annual review in Orange Plan
-*`DEMO` · 1,753 words · ~8 min*
 
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **10.3**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+## 10.3 Walkthrough: annual review, scenarios, and your report
+*`DEMO` · ~4,500 words · ~24 min raw, cut into three*
+
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **10.3** in ONE continuous
+> session; the app state builds forward and restarting is where the retakes come
+> from. Two `✂ CUT POINT` markers below sit on stable app states, so the edit can
+> ship this as one video or three. Beat sheet + required app state:
+> SCREEN-SHOOT-LIST.md.
 
 **By the end of this lesson, you can:**
 
 - Complete an annual review in the app in one sitting
+- Build, compare, and Monte Carlo a scenario against your baseline
+- Walk your own report in planner order and save this year's PDF
 
 ---
+### PART A — the two rhythms
+
 Companion walkthrough for Module 9. This is the ~8-minute lap that runs both rhythms on camera: **one timed monthly pass** (under five minutes, honestly), then **the six-area annual lap** (~40 seconds per screen). By the end, you have this year's report saved, a fresh encrypted backup, and 1–3 actions on the calendar.
 
 Set aside about 20 minutes to run it slowly the first time. Have a couple of transactions ready to enter, at least one linked account with something flagged (so the AI beat has something to explain), and last year's report open in another tab if you have one. This year's read is the *after* picture and next year's *before.*
@@ -5260,120 +5231,19 @@ Close on the discipline: the confidence status only flips to "Recheck needed" wh
 Module 10 closes the course. It starts with scenarios, which is how you test what-ifs against the plan without disturbing it, and finishes with the capstone: the read of the report you just saved, with the nine modules assembled into one document and walked in planner order (position, trajectory, risk, actions).
 
 
-# Unit 11 · Module 10 — Your Financial Plan Review
-
-*Read the plan report end-to-end, walk it in the app, and set up your yearly re-read.*
-
-## 11.1 Test a decision with a scenario
-*`TEACH` · 1,150 words · ~7 min*
-
-**By the end of this lesson, you can:**
-
-- Tell a life event apart from a scenario, and put each one where it belongs
-- Pick the right scenario type for the question you're actually asking
-- Read a comparison without fooling yourself
-- Know when a scenario should graduate into your actual plan
 
 ---
 
-Your plan answers one question: if things go roughly the way you've assumed, here's where you land. A scenario answers a different one: **what happens if they don't?**
+### ✂ CUT POINT 1
 
-That's the whole job. You keep one baseline plan that represents your real life and your real intentions, and you keep a set of saved what-ifs beside it that you can compare against, one at a time, without disturbing the plan itself.
+**Stable state:** the annual review is finished, this year's report is saved, and
+the backup is exported. Nothing from Part B is on screen yet.
 
-### Life event or scenario?
-
-This is the distinction that decides where something goes, and the app enforces it.
-
-- A **life event** is something you actually expect to happen. College tuition starting in eight years. A roof. A car. Retirement itself. Life events belong **in the plan**, because leaving them out makes your projection wrong.
-- A **scenario** is something you're *considering*, or something you're *worried about*. Retiring three years earlier. Moving to a no-tax state. Bitcoin dropping 50% the year after you retire. Those belong **in Scenarios**, because putting them in the plan would corrupt the baseline you measure everything else against.
-
-The test is one question: **am I telling the plan what's true, or am I asking it a question?** True things go in the plan. Questions go in Scenarios.
-
-> ⚠ This is the single most common way people wreck their own baseline. They get curious about retiring at 55, change the retirement age in the plan itself, get distracted, and three months later they're reading a projection built on a decision they never actually made.
-
-### The two kinds of what-if
-
-Scenarios split cleanly into two groups, and they answer different questions.
-
-**Stress tests** ask *would I survive this?* You're not planning for these. You're checking whether the plan holds if they happen anyway. Bear markets, a 50% drawdown right after you retire, weaker Bitcoin returns than you assumed. The only question you ask of a stress test is: **would I still be okay?**
-
-**Choices** ask *should I do this?* These are decisions you might actually make. Retire earlier. Spend less. Move states. Claim Social Security at 62 instead of 70. Here you're comparing two futures and picking one.
-
-Both are worth running. But notice the difference in what you do with the answer: a stress test you either survive or you go fix something. A choice you weigh, decide, and then either act on or drop.
-
-### Choosing the scenario type
-
-When you build a custom scenario, the app asks you what kind it is before it asks anything else. Seven types, and picking the right one just means you get shown the controls that matter and not the forty that don't:
-
-| Type | What it covers |
-|---|---|
-| **Life events** | Income, spending, housing, family, and one-time events |
-| **Retirement** | Timing, spending, income, and Social Security |
-| **Savings** | Contribution amounts, routing, and future savings mix |
-| **Debt** | Existing debts, new loans, and BTC borrowing |
-| **Tax** | State, Social Security, dividends, and Roth conversions |
-| **Markets** | Return assumptions and asset reallocations |
-| **Advanced** | Every scenario control at once |
-
-Start with the specific type that matches your question. **Advanced** exists for multi-part scenarios where you're changing several unrelated things at once, and it's the one to reach for last, not first.
-
-### Change one thing at a time
-
-This is the discipline that makes scenarios useful instead of confusing.
-
-If you build a scenario that retires you three years earlier **and** cuts your spending **and** assumes weaker Bitcoin returns, and the result comes back worse, you've learned nothing. You can't tell which of the three did it, or whether two of them cancelled out.
-
-One variable per scenario. If you want to know what three changes do together, that's a fourth scenario, built deliberately, and you read it *after* you understand each piece on its own.
-
-### Reading the comparison honestly
-
-When you select a saved scenario, the app puts it next to your plan and shows you a headline row first: **Retire at**, **Spending**, and **Success rate**. Below that, a full comparison table runs the rest, including net worth at retirement, lifetime taxes paid, effective tax rate, withdrawal rate at retirement, depletion age, and BTC at life expectancy.
-
-Three rules for reading it.
-
-**Read the pair, not the number.** A scenario that retires you two years earlier at a much lower success rate is a trade, and the trade is what you're reading.
-
-**Run the Monte Carlo before you believe the success rate.** The comparison chart updates immediately, but the success rate is a simulation and it has to actually run. The button is right there in the comparison section.
-
-**Small differences aren't differences.** These are projections built on assumptions. A scenario that lands 2% apart from your baseline is telling you the change didn't matter much. Don't reorganize your life around noise.
-
-### When a scenario graduates
-
-Sometimes a scenario stops being a question and becomes a decision. You've compared moving states three times, you're convinced, and you're doing it.
-
-At that point it stops being a scenario. Go change the actual plan, and either delete the scenario or keep it as the record of the comparison that convinced you. What you don't do is leave a decision living in Scenarios, because your baseline is now wrong in a way you'll forget about.
-
-The reverse also happens. You run a stress test, the plan survives, and there's nothing to do. That's a completed piece of work, not a failure. Save it and move on.
-
-### Two scenarios worth keeping permanently
-
-Most scenarios are disposable. Two aren't:
-
-- **A deep drawdown right after retirement.** This is the sequence-of-returns test, and it's the single scenario most likely to break a Bitcoin-heavy plan. Keep it, and re-run it every year.
-- **Weaker Bitcoin returns than you assumed.** If your plan only works at your optimistic growth curve, that's worth knowing every year, not once.
-
-Both of those are also what populate the "if Bitcoin follows a different path" section of your yearly report.
-
-### Homework
-
-- Save one stress test: a deep drawdown right after your retirement year. Run the Monte Carlo on it.
-- Save one choice you're genuinely weighing, built as a single-variable scenario.
-- Answer the stress test out loud: would you still be okay? If no, build the lever you'd pull as its own scenario and see whether it actually fixes it.
-
-
-## 11.2 Walkthrough: build and compare a scenario in Orange Plan
-*`DEMO` · 1,250 words · ~9 min*
-
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **11.2**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
-
-**By the end of this lesson, you can:**
-
-- Create a scenario from a built-in what-if in one click
-- Build a custom single-variable scenario end to end
-- Read the comparison and run the Monte Carlo against your baseline
-- Manage saved scenarios: duplicate, edit, delete
+*If shipping as three videos, Part B opens here: "Now the what-ifs."*
 
 ---
+### PART B — build and compare a scenario
+
 
 This walkthrough builds two scenarios: one stress test and one choice. By the end you'll have both saved, compared, and Monte Carlo'd.
 
@@ -5495,127 +5365,19 @@ Answer, let it run, then read one thing it surfaced and say whether you agree.
 You now have saved scenarios, which is also a prerequisite for the report: the *"If Bitcoin follows a different path"* section only renders when at least one scenario exists.
 
 
-## 11.3 How to read a financial plan
-*`TEACH` · 1,085 words · ~8 min*
-
-> 🐞 Currency mangling in the band example (item 17): "$80K spending sits in a
-> band with a floor of ~$72K and ceiling of ~$88K."
-
-**By the end of this lesson, you can:**
-
-- Read a plan report in question order: position, trajectory, risk, actions
-- Catch the six red flags in the first two minutes
-- Save one PDF per year and compare year-over-year
-- Hand the report to spouse, CPA, and attorney as the annual agenda
 
 ---
 
-A plan report is read in the order that answers four questions:
+### ✂ CUT POINT 2
 
-1. **Where do you stand today?** (position)
-2. **Where are you headed?** (trajectory)
-3. **What could break it?** (risk)
-4. **What do we do about it?** (actions)
+**Stable state:** two scenarios saved and compared, Monte Carlo run on both,
+baseline untouched.
 
-Every number in your report belongs to one of those four.
-
-Each question depends on the one before it. Trajectory is computed off position. Risk is your trajectory tested against assumptions you didn't pick. Actions come out of what the risk read found. Starting in the middle means trusting numbers you never checked.
-
-### 1. Position
-
-The honest snapshot today. Net worth, what's in Bitcoin vs everything else, what you owe.
-
-For the couple: $30,000 cash, 300 shares of the index fund, Bitcoin across both wallets, $298,000 of debt underneath.
-
-No judgment yet at this layer. This is just confirming the picture is true today. Position is where stale data gets caught, and reading it first stops a single wrong account from corrupting every number downstream. If you moved that quarter BTC to cold storage last month, does the report know?
-
-### 2. Trajectory
-
-Date and confidence get read together.
-
-- **Earliest-retirement date** tells you *when*.
-- **Confidence number** tells you *how sturdy that is*. The share of simulated futures where the plan funds your spending all the way through.
-
-Age 60 at 82% confidence is a real answer. Age 57 at 55% confidence would be a prettier date and a worse plan.
-
-A date on its own can always be moved earlier by assuming better returns. The confidence number surfaces the cost of that assumption.
-
-### 3. Risk
-
-The "what if I'm wrong" sections: different Bitcoin paths, the **spending band**, protection lines.
-
-**The band.** Spending isn't one number in a real plan. The **floor** is what the plan asks you to live on in a bad stretch. The **ceiling** is what it lets you spend when things go well.
-
-Ask one question of every risk section: *would I still be okay in this scenario?* For our couple, $80K spending sits in a band with a floor of ~$72K and ceiling of ~$88K. The risk read is one sentence: on the Bitcoin path they did not pick, does the plan still hold at $72K? If yes, they're okay.
-
-### 4. Actions
-
-Shortest section. This is where the review changes anything.
-
-The rule from the maintenance module applies: one to three finishable actions and nothing more. For our couple: finish the cold storage move, top up the reserve, take one conversion question to the CPA. All three finishable before the next monthly pass.
-
-### The six red flags. First two minutes
-
-1. **A position section that doesn't match reality.** Stale balances make every number after it wrong.
-2. **A date you like at a confidence you don't.** A plan that only works if you get lucky.
-3. **A spending number with no band around it.** A single number gives you nothing to fall back to in a bad year.
-4. **A Bitcoin-path section you've never actually looked at.** That section is what tells you what happens when your main assumption is wrong.
-5. **A next-steps list longer than three items.** Long lists rarely get finished.
-6. **An assumptions section you couldn't defend out loud.** Every number in the document rests on it.
-
-If you find any of these, the review isn't finished yet.
-
-### The standard
-
-The standard for this module: you can answer all four questions out loud, in four sentences, about your own report.
-
-### Save one PDF per year
-
-Right after your annual review, while the data is fresh:
-
-1. One PDF per year, saved with the year in the filename.
-2. Save it somewhere it will still exist in ten years.
-
-The document does its real work the second time you save one, when there are two of them side by side.
-
-### The year-over-year re-read
-
-A price change by itself can't tell you whether the plan got better. Take a rally year: Bitcoin worth $200K more. Feels great. But spending drifted from $80K to $88K and nobody entered it, the reserve never got topped back up, and the tax question never got asked. A rally moves one number and shows you none of that.
-
-In 2022 Austin's net worth dropped 75%. On price alone, a catastrophe. But income hadn't changed, spending hadn't changed, the date barely moved. A report from that year would have shown him all three in a couple of minutes.
-
-With two reports side by side, four lines to look at, in order:
-
-1. **Net worth, and the Bitcoin share.** If the share went up while you made only small buys, price is the reason (drift you didn't choose). If the share went up because you bought more, it's a decision you made.
-2. **Date + confidence, as a pair.** The same date at higher confidence is real improvement. An earlier date at lower confidence means an assumption moved, not the plan.
-3. **Spending band, especially the floor.** The floor is the honest read, because it's the number you're stuck with in a bad stretch. A rising floor tells you the plan got stronger. A rising ceiling on its own doesn't.
-4. **Last year's action list.** Did each one happen? Anything unfinished rolls forward.
-
-### Three handoffs. You're not the only reader
-
-- **Spouse sit-down.** The report is your agenda: where you stand today, the date, the band. Done in twenty minutes.
-- **CPA** gets the tax pages plus the transaction export, so they can price a conversion or a harvest instead of reconstructing your year from statements.
-- **Estate attorney** gets the access and estate pages plus your decisions, so the drafting conversation starts from what you already decided.
-
-You're handing each professional a document, not asking them to log into an app. That lets three different professionals start from the same set of facts.
-
-### The whole point
-
-You started this course with accounts scattered everywhere and a rough guess. You're finishing with a document your family can read, your CPA can act on, and next-year-you can be measured against.
-
-A financial plan is what that finished document represents.
-
-## 11.4 Walkthrough: walk your report in Orange Plan
-*`DEMO` · 1,572 words · ~7 min*
-
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **11.4**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
-
-**By the end of this lesson, you can:**
-
-- Walk your own report end-to-end
-- Save the PDF for the annual review
+*If shipping as three videos, Part C opens here: "Now the finished document."*
 
 ---
+### PART C — walk the report and save the PDF
+
 Companion walkthrough for Module 10. This is the ~8-minute lap that reads the yearly report in **planner order. position, trajectory, risk, actions ** and saves the PDF. The report has eleven sections. You'll read them in a different order than the page renders them, and you'll say so on camera.
 
 Set aside about 20 minutes to run it slowly the first time. Have the plan warm right after a monthly pass, at least one saved scenario, and a fresh confidence check already run. The report has three conditional sections that don't render without them.
@@ -5790,4 +5552,3 @@ Say the close: this is your "after" picture for this year and your "before" pict
 ### Handing it off
 
 That's the read. The habit of saving one report per year, with the year in the filename, is what turns a plan into a track record. Five years of "before" pictures let you see what actually moved and what only felt like it did.
-
