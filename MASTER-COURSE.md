@@ -1,13 +1,19 @@
-# Financial Planning for Bitcoin Holders
+# Build Your Bitcoin Financial Plan — the required core
 
-**Master course file.** All 11 modules and 52 lessons in course order, matching
-the Honen course navigation.
+**Master course file — the REQUIRED core course.** 10 modules (M0 Start Here,
+then M1–M9) in course order. The optional library lives in `MASTER-ADVANCED.md`.
 
-**Progress: 50 / 50 — COMPLETE (2026-07-29).** Every lesson transferred by
-Austin's paste, structure restored from the course source, inline flags mark
-every known issue at the lesson it lives in. Fixes applied directly to the
-course are marked ✅; open decisions reference `COURSE-IMPROVEMENT-ANALYSIS.md`
-item numbers.
+**27 teach lessons · ~246 min of core teaching · 9 walkthroughs + 1 external
+demo.** Runtime target for the core is 205–215 min; the remaining trims are
+tracked in `ORANGE_PLAN_BUILD_NOTES` style at the bottom of this file's history.
+
+Inline flags mark every known issue at the lesson it lives in. Fixes applied
+directly to the course are marked ✅; open decisions reference
+`COURSE-IMPROVEMENT-ANALYSIS.md` item numbers.
+
+⚠ **A master edit never reaches a protected script.** Scripts headed
+`AUSTIN DICTATION` or `SPOKEN-PROSE VERSION` are never regenerated. Change
+content here AND in `scripts/`, then verify both.
 
 | Mode | Meaning |
 | --- | --- |
@@ -1778,7 +1784,7 @@ Free money first. Guaranteed high returns second. Tax shelters in order of quali
 
 **Rung 2 (high-interest debt).** ~7% is a rough threshold. Any 20%+ APR is priority 1, before anything else.
 
-**Rung 3 (HSA).** Only available with a High Deductible Health Plan (HDHP). Best treated as a Legacy account: invest it, save it as a Roth-like medical vehicle.
+**Rung 3 (HSA).** Only available with a High Deductible Health Plan (HDHP). Which bucket it lands in follows the job you give it: **Legacy** if you invest it and let it grow as a Roth-like medical fund, **Bridge** if you're going to spend it on medical costs before retirement.
 
 **Rung 4 (Roth).** Especially strong for Bitcoin-heavy plans, because Bitcoin appreciation often puts you in a higher retirement bracket than you're in now.
 
@@ -1801,7 +1807,7 @@ $4,000/mo surplus routes:
 |---|---|---|
 | 401(k) | $1,000/mo | Captures full 50%-up-to-6% match ($12,000/yr) |
 | High-interest debt | — | None |
-| HSA | $300/mo | Building the medical Legacy fund |
+| HSA | $300/mo | Spent on medical costs before retirement, so it sits in Bridge |
 | Roth IRA | $583/mo | Maxing the year's IRA limit ($7,000 when they ran it) |
 | Traditional | — | Skip for now |
 | Bitcoin + taxable | ~$2,117/mo | Split between Bridge and Legacy |
@@ -1909,13 +1915,12 @@ Common pattern: some Bitcoin in retirement wrappers (ETF form) for tax shielding
 
 | Holding | Account | Bucket |
 |---|---|---|
-| $30k cash | Taxable | Reserve |
-| $15k HSA (index funds) | HSA | Bridge |
-| $50k taxable brokerage (index funds) | Taxable | Bridge |
-| $25k 529 (index funds) | 529 | Bridge |
-| $175k Bitcoin (hardware) | Self-custody, taxable | Legacy |
-| $70k 401(k) (index funds) | Traditional 401k | Legacy |
-| $20k Roth IRA (index funds) | Roth | Legacy |
+| $30k cash | Checking / savings | Reserve |
+| $10k HSA (index funds) | HSA | Bridge |
+| $30k taxable brokerage (index funds) | Taxable | Bridge |
+| $15k 529 (index funds) | 529 | Bridge |
+| $175k Bitcoin (hardware + exchange) | Self-custody, taxable | Legacy |
+| $35k 401(k) + IRA (index funds and bonds) | Traditional 401k, IRA | Legacy |
 
 Decent placement. If they wanted to optimize: consider a small Bitcoin ETF position inside the Roth for tax-free growth, while keeping the majority in self-custody.
 
@@ -2032,7 +2037,7 @@ Walk your list:
 
 - Cash and savings → **Reserve**
 - Taxable brokerage earmarked for a dated cost (kids' tuition, home purchase) → **Bridge**
-- HSA → **Bridge** (or **Legacy** if you're using it as a Roth-like retirement account)
+- HSA → **Bridge** if you'll spend it on medical costs before retirement, **Legacy** if you're leaving it invested as a Roth-like medical fund. The bucket follows the job, not the account type
 - 529 → **Bridge**
 - Retirement accounts (401(k), IRA, Roth) → **Legacy**
 - Bitcoin → **Legacy** (unless a specific chunk is reserved for a shorter timeframe)
@@ -5089,7 +5094,7 @@ Card **"Moves this year"**. Eyebrow **"Modeled, not advice."** Rows:
 - **Harvest losses**
 - **Roth conversion**
 
-⚠ **This one runs BEFORE year-end, while the calendar can still act.** Harvest and conversion moves close December 31. If you're running the annual lap in January, the tax card is a *plan next year* read, not a *do it now* action.
+⚠ **This one runs BEFORE year-end, while the calendar can still act.** Harvest and conversion moves close December 31. That is why the review is scheduled for November. Run the lap in January and the tax card is a *plan next year* read, not a *do it now* action.
 
 #### Custody · Protect
 
@@ -5126,7 +5131,7 @@ Toast: **"Plan exported."**
 There is **no native scheduler in Orange Plan.** Use your calendar app, on camera.
 
 - **Monthly day** (e.g. the first Saturday). Recurring.
-- **Annual month** (e.g. every January). Recurring.
+- **Annual month**: November, recurring. Ahead of the December 31 tax deadline.
 
 Extra rhythm: the **90-day check-in email** from the dead man's switch is a built-in reminder. If the email arrives and you're alive, log in and check in.
 
@@ -5350,7 +5355,7 @@ The confidence ring, sub-label **"confidence,"** beside the age stat and the ear
 Read the date and the ring together. The date is the when, and the ring is how sturdy that date is under real market variation.
 
 - **Green at 80+** is the healthy zone.
-- A confidence of 100 was never the goal. A plan that only survives at 99% confidence is one built on optimism.
+- A confidence of 100 was never the goal, and a very high number is not a gold star either. At 99% you are probably spending less than the plan can carry: it is a prompt to ask whether you could spend more, retire sooner, or stop over-saving.
 
 If you like both the ring and the date, that's the healthy read. If one is fine and the other isn't, the disagreement between them is where the signal lives.
 

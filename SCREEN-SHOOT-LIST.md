@@ -1,277 +1,284 @@
 # Screen-Share Shoot List — capture run sheet
 
-Capture **in this order** — app state builds forward from one segment to the next, same as a student's plan would. The master file is the full script; this sheet is what sits next to the keyboard while you record.
+> **GENERATED** from the capture sheets in `scripts/`. Do not edit this
+> file: edit the sheet, then run `python3 tools/build-shoot-list.py`.
+> The sheet beside your keyboard is the sheet in `scripts/`; this is the
+> order to shoot them in and what each one needs staged first.
 
-**15 segments · ~150 minutes of raw capture.**
-Before the first segment: seed the demo account with the couple's canonical numbers (Phase 0 of FILMING-CHECKLIST.md). Clean browser profile, notifications off, 5 seconds of stillness before the first click and after the last. **Evergreen rule: never zoom on or read out a law-set number (brackets, limits, exemptions) — call it "the current number the app shows" and move on.**
+**10 captures · ~138 min of raw capture.**
 
-## ☐ Segment 2.4 — Walkthrough: set up your plan (onboarding)
-*entire lesson · ~29 min capture (plus retakes)*
+Seed the demo account with the couple's canonical numbers before the
+first segment (Phase 0 of FILMING-CHECKLIST.md). Clean browser profile,
+notifications off, 5 seconds of stillness before the first click and
+after the last.
 
-**Before you hit record:**
-- [ ] FRESH demo account — Part A is the onboarding wizard from zero. Have the couple's numbers on a card beside you.
+**Evergreen rule:** never zoom on or read out a law-set number (brackets,
+limits, exemptions). Call it "the current number the app shows" and move on.
 
-## ☐ Segment 2.5 — Walkthrough: build your baseline
+**Film each module's capture in ONE continuous session.** App state builds
+forward and restarting is where the retakes come from. Where a sheet has
+`✂ CUT POINT` markers, the edit can split it into several videos later.
 
-**Required app state:** run straight after 2.4 on the SAME demo account, plan already created, Monte Carlo not yet run so the ring lands live on camera.
-
-- [ ] Film as TWO sessions: Part A (beats 1–14), break, Part B (beats 15–25).
-
-**Beats (tick as you capture):**
-1. ☐ **Part A — Onboarding**
-2. ☐ **Step 1: Privacy**
-3. ☐ **Step 2: About You**
-4. ☐ **Step 3: Income and Spending**
-5. ☐ **Step 4: Accounts**
-6. ☐ **Step 5: Assets**
-7. ☐ **Step 6: Transactions**
-8. ☐ **Step 7: Debts**
-9. ☐ **Step 8: Contributions**
-10. ☐ **Step 9: Retirement Benefits**
-11. ☐ **Step 10: Set your growth and inflation assumptions**
-12. ☐ **Step 11: Strategy Profile**
-13. ☐ **Step 12: Life Events**
-14. ☐ **Step 13: Review**
-15. ☐ **Part B — Baseline lap**
-16. ☐ **Step 1: Verify the baseline on the Dashboard**
-17. ☐ **Step 2: Add any missing accounts and holdings**
-18. ☐ **Step 3: Update your transactions**
-19. ☐ **Step 4: Mark your reserve holdings with the shield icon**
-20. ☐ **Step 5: Set your assumptions on the Plan page**
-21. ☐ **Step 6: Read your earliest retirement date**
-22. ☐ **Step 7: Run the confidence ring**
-23. ☐ **Step 8: Add likely life events**
-24. ☐ **Step 9: Save your baseline PDF**
-25. ☐ **What good looks like**
+> ⚠ **No capture sheet yet:** Module 8 — Estate & Inheritance — NO capture of any kind. These cannot be filmed until a sheet exists.
 
 ---
 
-## ☐ Segment 3.4 — Walkthrough: build cash flow and reserve in Orange Plan
-*entire lesson · ~15 min capture (plus retakes)*
+## ☐ 2.4 · WALKTHROUGH — Set up your plan (onboarding)
 
-**Beats (tick as you capture):**
-1. ☐ **Step 1: Read the verdict**
-2. ☐ **Step 2: Map your income**
-3. ☐ **Step 3: Sort your spending**
-4. ☐ **Step 4: Verify spending against reality**
-5. ☐ **Step 5: Set the reserve fields**
-6. ☐ **Step 6: Read the target in the routing waterfall**
-7. ☐ **Step 7: Shield the reserve holding**
-8. ☐ **Step 8: Read the waterfall order**
-9. ☐ **Step 9: Run the AI review on Cash Flow and Reserve**
-10. ☐ **Step 10: Run the AI review on spending calibration**
-11. ☐ **What good looks like**
+*Screen capture · 13 steps · ~15 min*  ·  sheet: `scripts/02-4_WALKTHROUGH_onboarding.md`
 
----
+**Stage this first:**
+- [ ] Fresh demo account, nothing entered
+- [ ] Numbers card below in front of you
+- [ ] Clean browser, notifications off
 
-## ☐ Segment 4.5 — Walkthrough: route it in Orange Plan
-*entire lesson · ~16 min capture (plus retakes)*
-
-**Before you hit record:**
-- [ ] The 401(k) owner has a **salary income source** entered.
-- [ ] Your surplus is routed into **Step 3** of the waterfall.
-
-**Beats (tick as you capture):**
-1. ☐ **Step 2: Read what each account holds** — `Strategy → Allocation → "What each account holds" — read DOWN the columns`
-2. ☐ **Step 1: Reality check on the Dashboard**
-3. ☐ **Step 2: Read the three timeframes and their sufficiency badges**
-4. ☐ **Step 3: Sort your accounts into buckets** — `Funding your timeframes → Assign accounts opens a dialog titled Sort accounts into buckets`
-5. ☐ **Step 4: Save your target mix** — `Allocation → Your target mix → Edit targets (or Set target mix if none saved yet)`
-6. ☐ **Step 5: How the target actually gets used**
-7. ☐ **Step 6: Configure the 401(k) contribution row** — `Cash Flow → Routing · waterfall order → Step 3 Contributions → click the 401(k) row`
-8. ☐ **Step 7: Route with AI** — `Cash Flow → Routing · waterfall order → Route with AI (top right of the section header)`
-9. ☐ **Step 8: Compare the change in Scenarios** — `Scenarios → Custom scenario (header button) opens a Create scenario dialog`
-10. ☐ **Step 9: Review portfolio (AI)** — `Strategy → Allocation → Review portfolio (page header)`
-11. ☐ **Step 10: Confirm the record**
-12. ☐ **What good looks like**
+**Beats:**
+1. ☐ 1 · Privacy
+2. ☐ 2 · About you — 7 slides
+3. ☐ 3 · Income & spending — SLOW DOWN
+4. ☐ 4 · Accounts
+5. ☐ 5 · Assets
+6. ☐ 6 · Transactions → SKIP
+7. ☐ 7 · Debts
+8. ☐ 8 · Contributions
+9. ☐ 9 · Social Security
+10. ☐ 10 · Assumptions — NOT skippable
+11. ☐ 11 · Strategy profile
+12. ☐ 12 · Life events
+13. ☐ 13 · Review — LET IT BREATHE
+14. ☐ WRAP
 
 ---
 
-## ☐ Segment 5.2 — Walkthrough: give every debt a job in Orange Plan
-*entire lesson · ~7 min capture (plus retakes)*
+## ☐ 2.5 · WALKTHROUGH — Build your baseline
 
-Replaces the retired hybrids 5.1-B and 5.5-B. Segments 5.2-B and 5.3-B moved to
-the Advanced Library with their lessons.
+*Screen capture · 9 steps · ~15 min*  ·  sheet: `scripts/02-5_WALKTHROUGH_baseline-lap.md`
 
-**Beats (tick as you capture):**
-1. ☐ **Enter every debt** — `Strategy → Debt → Add debt`. A blank rate means no tier, which means no job.
-2. ☐ **Read the vitals strip** — `Strategy → Debt` four-cell strip: DTI and DTA, current.
-3. ☐ **Read the verdict line + stress clause** — `Strategy → Debt → Financial position`
-4. ☐ **Give every debt a job** — `Strategy → Debt → the ledger, grouped High-cost / Low-cost`
-5. ☐ **Route the extra dollars** — `Cash Flow → Routing · step 2 Extra debt`
-6. ☐ **Review Debt Strategy (AI)** — `Strategy → Debt → Review Debt Strategy`
+**Stage this first:**
+- [ ] Same demo account, straight after 2.4 — the plan must already exist
+- [ ] Monte Carlo NOT yet run, so the ring lands live on camera
+- [ ] Clean browser, notifications off
 
----
-
-## ☐ Segment 6.5 — Walkthrough: model it in Orange Plan
-*entire lesson · ~14 min capture (plus retakes)*
-
-**Beats (tick as you capture):**
-1. ☐ **Step 1: Import your transaction history** — `Dashboard → Update Transactions opens the dialog. Choose A downloaded file → *Upload a CSV or Excel file from `
-2. ☐ **Step 2: Land on the lots** — `Strategy → Tax → Tax lots → View all lots`
-3. ☐ **Fixing a lot that came in wrong** — `Dashboard → find the holding → click `Lots` on the row (it's also in the row's three-dot menu). The dialog is `
-4. ☐ **Step 3: Ground the three buckets** — `Plan → Retirement → click a year on the chart → drawer → Account mix`
-5. ☐ **Step 4: Model a Roth conversion** — `Strategy → Tax → Moves this year → Roth conversion`
-6. ☐ **Step 5: Harvest room and Form 8949**
-7. ☐ **Step 6: Run the state scenario** — `Scenarios → What if... → See more scenarios → Move to no-tax state`
-8. ☐ **Step 7: Run the AI review** — `Strategy → Tax → Review Tax Strategy (header button, near Download Tax Summary)`
-9. ☐ **Step 8: Capture your decisions**
-10. ☐ **What good looks like**
+**Beats:**
+1. ☐ 1 · Verify on Dashboard
+2. ☐ 2 · Add anything missing
+3. ☐ 3 · Update Transactions — show, don't run
+4. ☐ 4 · Shield the reserve
+5. ☐ 5 · Assumptions on the Plan page
+6. ☐ 6 · Earliest retirement date
+7. ☐ 7 · Confidence ring — LET IT RUN
+8. ☐ 8 · Life events
+9. ☐ 9 · Baseline PDF
+10. ☐ WRAP — spot check off the screen
 
 ---
 
-## ☐ Segment 7.6 — Walkthrough: build the paycheck in Orange Plan
-*entire lesson · ~17 min capture (plus retakes)*
+## ☐ 3.4 · WALKTHROUGH — Cash flow + reserve
 
-**Before you hit record:**
-- [ ] Baseline spending set.
-- [ ] Social Security amount known, as a monthly figure.
-- [ ] Cash reserve size decided.
-- [ ] Run the Monte Carlo once first.
-- [ ] Reserve months quirk: the **Target months** control offers only **None**, **1**, **3**, **6**, or **12 mo**.
+*Screen capture · 10 steps · ~15 min*  ·  sheet: `scripts/03-4_WALKTHROUGH_cashflow-and-reserve.md`
 
-**Beats (tick as you capture):**
-1. ☐ **Step 1: Confirm the spending number** — `Plan → Retirement. The inputs row sits under the hero`
-2. ☐ **Step 2: Add the healthcare-bridge expense** — `Plan → Retirement → Life events → Add event opens a drawer titled Add life event`
-3. ☐ **Step 3: Build the floor (Social Security)** — `Settings → Your Plan → Planning profile → Social Security subheading`
-4. ☐ **Step 4: See the gap and the bridge** — `Plan → Income → Income Blueprint tab`
-5. ☐ **Step 5: Set the withdrawal order** — `Plan → Income → Income Blueprint tab → Withdrawal order (section eyebrow: Income strategy). The controls are t`
-6. ☐ **Step 6: Calibrate the operating plan (95 / 80 / 60)** — `Plan → Income → Retirement operating plan → What you can spend`
-7. ☐ **Step 7: The annual update, pre-met**
-8. ☐ **Step 8: Run the AI review on the income plan** — `Plan → Income → Income Blueprint tab → Review income plan (top right, beside the tab bar)`
-9. ☐ **Step 9: Sell, borrow, or hold: funding a year of spending (Retirement Borrowing tab)** — `Plan → Income → Retirement Borrowing tab`
-10. ☐ **Step 10: Run the AI review on Borrowing Strategy (only if borrowing is in the plan)** — `Plan → Income → Retirement Borrowing tab → Borrow vs sell · age {life expectancy} → Review Borrowing Strategy`
-11. ☐ **Step 11: Pressure-test with the 50% drawdown scenario** — `Scenarios → What if... → 50% drawdown after retirement`
-12. ☐ **What good looks like**
+**Stage this first:**
+- [ ] 2–3 months of categorized transactions linked or imported (else Verify Spending is empty)
+- [ ] Bare-bones card: **$5,000/mo floor · $30,000 target (6 mo)**
+- [ ] Clean browser, notifications off
+
+**Beats:**
+1. ☐ 1 · Read the verdict
+2. ☐ 2 · Map your income
+3. ☐ 3 · Sort your spending — SLOW DOWN
+4. ☐ 4 · Verify spending against reality
+5. ☐ 5 · Set the reserve fields
+6. ☐ 6 · Read the target in the waterfall
+7. ☐ 7 · Shield the reserve holding
+8. ☐ 8 · Read the waterfall order
+9. ☐ 9 · AI review — Cash Flow & Reserve
+10. ☐ 10 · AI review — spending calibration
+11. ☐ WRAP — spot check off the screen
 
 ---
 
-## ☐ Segment 8.6 — External demo: hardware wallet setup + exchange hardening
-*entire lesson · ~7 min capture (plus retakes)*
+## ☐ 4.5 · WALKTHROUGH — Route it
 
-**Beats (tick as you capture):**
-1. ☐ **Step 1: Hardware wallet, the six steps (~5:30)**
-2. ☐ **Step 2: Exchange hardening (~2:30)**
-3. ☐ **Step 3: The never-list (~1:00)**
-4. ☐ **What good looks like**
+*Screen capture · 11 steps · ~16 min*  ·  sheet: `scripts/04-5_WALKTHROUGH_route-it.md`
 
----
+**Stage this first:**
+- [ ] 401(k) owner has a **salary income source** entered (else Fill to match is disabled)
+- [ ] Surplus routed into **Step 3** of the waterfall (contribution rows only appear with a surplus)
+- [ ] Conviction tier + target range from 4.1 written on a card
+- [ ] Clean browser, notifications off
 
-## ☐ Segment 8.7 — Walkthrough: document your custody map in Orange Plan
-*entire lesson · ~15 min capture (plus retakes)*
-
-**Before you hit record:**
-- [ ] Tier is keyed to estate net worth, not your custody choice.
-- [ ] **Foundation** ($0 to $500,000).
-- [ ] **Substantial** ($500,000 to $2 million).
-- [ ] **High Net Worth** ($2 million or more).
-- [ ] Storage mode matters for Module 8's dead-man switch.
-
-**Beats (tick as you capture):**
-1. ☐ **Step 1: Orient on Protect** — `Protect (primary nav). Page heading: Protect`
-2. ☐ **Step 2: Walk the checklist as the map** — `Protect → Needs attention → Security checklist row → Open checklist`
-3. ☐ **Step 3: Back up the plan itself** — `Settings → Data & Privacy → Data & backups → Backup & Restore → Export Plan`
-4. ☐ **Step 4: Save the Family Custody Map** — `Course toolkit: Family Custody Map (PDF). Available under Materials → 07 Family Custody Map. Print it or fill `
-5. ☐ **Step 5: Record your decisions**
-6. ☐ **Step 6: The "Draft with AI" button you'll scroll past**
-7. ☐ **What good looks like**
+**Beats:**
+1. ☐ 1 · Reality check on Dashboard
+2. ☐ 2 · What each account holds — the inventory read
+3. ☐ 3 · Three timeframes + badges
+4. ☐ 4 · Sort accounts into buckets
+5. ☐ 5 · Save your target mix
+6. ☐ 6 · How the target gets used
+7. ☐ 7 · Configure the 401(k) row — SLOW DOWN
+8. ☐ 8 · Route with AI
+9. ☐ 9 · Compare in Scenarios
+10. ☐ 10 · Review portfolio (AI)
+11. ☐ 11 · Confirm the record
+12. ☐ WRAP — spot check off the screen
 
 ---
 
-## ☐ Segment 9.1-B — The executor, the four legal documents, and choosing an estate attorney
-*app section only (A-roll filmed separately) · ~5 min capture (plus retakes)*
+## ☐ 5.2 · WALKTHROUGH — Give every debt a job
 
-**Beats (tick as you capture):**
-1. ☐ **Step 5: Confirm beneficiaries** — `Protect → "Needs attention" → "Beneficiaries" row → "Assign."`
-2. ☐ **Step 6: Walk the Executor Packet with the person who will run it**
+*Screen capture · 6 steps · ~7 min final*  ·  sheet: `scripts/05-2_WALKTHROUGH_debt.md`
 
----
+**Stage this first:**
+- [ ] Every debt entered with real terms: balance, rate, payment, and a payoff date where one exists
+- [ ] The couple's two debts on the demo account: $280,000 mortgage at 3.25%, $18,000 car at 7%
+- [ ] Confidence number from Module 1 to hand, for the close
+- [ ] Clean browser, notifications off
 
-## ☐ Segment 9.3-B — The heir letter and the dead man's switch
-*app section only (A-roll filmed separately) · ~6 min capture (plus retakes)*
-
-**Before you hit record:**
-- [ ] **Storage mode must be Cloud.** In Local Only the switch cannot arm; the panel replaces itself with *"Automatic check-in emails require cloud sync.
-- [ ] **At least one emergency contact with an email must exist**, or the switch's action reads **"Add contact to activate"** instead of **"Turn on,"** and attempting
-
-**Beats (tick as you capture):**
-1. ☐ **Step 1: Start the heir letter. Contacts first** — `Protect → "Needs attention" → "Heir letter" row → "Finish."`
-2. ☐ **Step 2: Write the letter. With the rule on screen** — `Same panel → any "Edit" link → dialog "Edit heir letter."`
-3. ☐ **Step 3: AI · "Draft with AI"** — `Protect → "Heir letter" panel → sub-heading "Heir letter assistant" → button "Draft with AI."`
-4. ☐ **Step 4: Arm the 90-day switch** — `Protect → "Needs attention" → "Dead man's switch" row → "Turn on."`
+**Beats:**
+1. ☐ 1 · Enter every debt
+2. ☐ 2 · Read the vitals strip
+3. ☐ 3 · Read the verdict line
+4. ☐ 4 · Give every debt a job
+5. ☐ 5 · Route the extra dollars
+6. ☐ 6 · Review Debt Strategy (AI)
+7. ☐ WRAP — spot check off the screen
 
 ---
 
-## ☐ Segment 9.5-B — Advanced: do you need a trust, and which one?
-*app section only (A-roll filmed separately) · ~7 min capture (plus retakes)*
+## ☐ 6.5 · WALKTHROUGH — Model it (tax)
 
-**Before you hit record:**
-- [ ] **Have the plan's projection warm** before you record.
-- [ ] **Set State of residence** in the legacy drawer, or the state row reads *"select a state of residence below"* and the state-caveat beat has nothing behind it.
-- [ ] **The app's federal exemption comparison is not filing-status aware.** It applies one flat exemption regardless of married/single.
+*Screen capture · 9 steps · ~14 min*  ·  sheet: `scripts/06-5_WALKTHROUGH_model-it-tax.md`
 
-**Beats (tick as you capture):**
-1. ☐ **Step B1: Read the projected estate** — `Protect → section "Projected legacy."`
-2. ☐ **Step B2: Open the ledger. Where the tax actually lands** — `Same section → "See details →."`
-3. ☐ **Step B3: The growth dial. Move the assumption** — `Plan → Retirement → "Edit assumptions" → section "Bitcoin."`
-4. ☐ **Step B4: Compare to the line + the state caveat** — `Under the line in every growth case you'd defend → *"that's a good outcome"*. Close the tab. Most households l`
-5. ☐ **Step B5: Record the estate-tax decision**
+**Stage this first:**
+- [ ] Last year's return handy · a wallet/exchange export ready
+- [ ] **Run the import FIRST.** Harvest room only shows for recorded purchase lots — skip step 1 and the harvest rows are empty
+- [ ] One line ready for non-US viewers: these are US mechanics
+- [ ] Clean browser, notifications off
 
----
-
-## ☐ Segment 10.3 — Walkthrough: run the annual review in Orange Plan
-*entire lesson · ~15 min capture (plus retakes)*
-
-**Before you hit record:**
-- [ ] **The 18-month / $120,000 reserve target from Module 6 is not settable from the UI.** "Target months" offers None / 1 / 3 / 6 / 12 only; an 18 renders only if i
-- [ ] **The AI beat in Step 3 only renders when the Accounts page has flagged review items.** Have at least one linked account with something in review before you sta
-
-**Beats (tick as you capture):**
-1. ☐ **Step 1: The monthly pass. Timed, live** — `Start a visible timer → Cash Flow`
-2. ☐ **Step 2: Enter transactions (Dashboard, not Cash Flow)** — `Dashboard → header button "Update Transactions" → dialog "Update transactions."`
-3. ☐ **Step 3: AI · "Explain review items"** — `Account menu (hamburger, aria "Account menu") → "Accounts" → button "Explain review items."`
-4. ☐ **Step 4: The annual lap. One screen per module** — `"Retirement operating plan" → "What you can spend" → "Review annual update" → panel "Annual update ready" → ti`
-5. ☐ **Step 5: Close the year. Report + backup** — `Account menu → "Report" → button "Download PDF."`
-6. ☐ **Step 6: Schedule both rhythms**
-7. ☐ **What good looks like**
+**Beats:**
+1. ☐ 1 · Import transaction history
+2. ☐ 2 · Land on the lots
+3. ☐ 3 · Ground the three buckets
+4. ☐ 4 · Model a Roth conversion — SLOW DOWN
+5. ☐ 5 · Where the conversion tax money comes from — THE #1 CONFUSION
+6. ☐ 6 · Harvest room + Form 8949
+7. ☐ 7 · Run the state scenario
+8. ☐ 8 · AI review
+9. ☐ 9 · Capture the decisions (paper is fine)
+10. ☐ WRAP — spot check off the screen
 
 ---
 
-## ☐ Segment 11.2 — Walkthrough: build and compare a scenario in Orange Plan
+## ☐ 7.6 · WALKTHROUGH — Build the paycheck
 
-**Required app state:** plan complete and accurate · retirement age, state, and retirement spending correct in settings (the presets read them) · ideally no saved scenarios yet, so the empty state shows
+*Screen capture · 11 steps · ~17 min*  ·  sheet: `scripts/07-6_WALKTHROUGH_build-the-paycheck.md`
 
-**7 beats:**
+**Stage this first:**
+- [ ] Plan in **RETIREMENT phase** (several controls gate on currentAge ≥ retirementAge)
+- [ ] Baseline spending set · SS entered as a **MONTHLY** figure · reserve size decided
+- [ ] **Run the Monte Carlo once** — else the three confidence stops are placeholders with no $/yr
+- [ ] Set Target months to **18 mo** on Cash Flow → Reserve settings. The picker now goes to 36 months, so nothing needs seeding in the plan data
+- [ ] Demo household: $80k spend · $120k reserve · $600k taxable BTC · $400k trad · $200k Roth · $51,600/yr SS (combined)
+- [ ] Clean browser, notifications off
 
-1. **Orient** — Scenarios nav → h1 **Scenarios**. Three zones: **What if...** presets · **Your scenarios** (*"Saved what-ifs you can reopen and compare"* / *"No custom scenarios yet."*) · comparison section (*"Choose a saved scenario to see the chart, key metrics, and Monte Carlo comparison."*). Top right: **Custom scenario**, **Review scenario** (appears only when selected).
-2. **Stress test, one click** — **What if... → 50% drawdown after retirement**. Description fills in your retirement age. Creates + selects under Your scenarios. ⚠ 4 of 9 shown; **See more scenarios** / **Show fewer scenarios**. Name the other eight while expanded.
-3. **Read the comparison** — chip + **vs your plan**. Headline: **Retire at · Spending · Success rate**. Expand **Full comparison metrics** (net worth at retirement, net worth at age 90, lifetime taxes paid, effective tax rate, withdrawal rate at retirement, depletion age, earliest retirement age, BTC at retirement / life expectancy). Matching rows read **no change**. Say: "one question — would I still be okay?"
-4. **Run Monte Carlo** — 🎬 let it breathe. Spinner + phase label. ⚠ Until it runs, the success rate isn't a real comparison.
-5. **Custom scenario** — **Create scenario** dialog → **Step 1: Choose scenario type** (Life events · Retirement · Savings · Debt · Tax · Markets · Advanced). ⚠ specific type, NOT Advanced. Name + Description (placeholder changes with type). Name after the QUESTION. Change ONE variable. Save.
-6. **Compare + manage** — select it, same read, run Monte Carlo. **⋯** menu (aria *"Scenario comparison actions"*) → **Duplicate · Edit · Delete**. Point at Duplicate. ⚠ Nothing here touches the plan.
-7. **AI · Review scenario** — reads saved scenarios, projection years, life events, assumptions. Asks *"Which saved scenario would you like to compare with your current plan?"* 🎬 stop talking until it lands. ⚠ It explains and compares, it doesn't decide.
-
-**Wrap:** two scenarios saved · both Monte Carlo'd · stress test answered out loud · one variable each · baseline untouched · close on "these unlock the report's Bitcoin-path section."
-
-## ☐ Segment 11.4 — Walkthrough: walk your report in Orange Plan
-*entire lesson · ~13 min capture (plus retakes)*
-
-**Before you hit record:**
-- [ ] **The reading order is not the same as the page order.** The report leads with trajectory; position is section **five**.
-- [ ] **The spending band renders only when explicit bands exist.** Otherwise the section reads *"Run a fresh confidence check to add the explicit probability spendin
-
-**Beats (tick as you capture):**
-1. ☐ **Step 1: Open the report + name the reading order** — `Account menu (hamburger, far right, aria "Account menu") → "Report."`
-2. ☐ **Step 2: "Are you on track". TRAJECTORY** — `Section 1`
-3. ☐ **Step 3: "Where you stand today". POSITION (jump to section 5)**
-4. ☐ **Step 4: "What you can spend" + "How retirement gets funded"** — `Sections 3 and 4`
-5. ☐ **Step 5: "How your plan plays out" + "If Bitcoin follows a different path". RISK** — `Section 2, then the conditional scenarios section (usually section 9)`
-6. ☐ **Step 6: "Tax roadmap" + "Allocation"** — `Sections 8 and 6`
-7. ☐ **Step 7: "Protecting what you've built"** — `Section 7`
-8. ☐ **Step 8: "Your next steps" + "Set your growth and inflation assumptions & methodology". ACTIONS** — `Sections 10 and 11`
-9. ☐ **Step 9: AI · "Review scenario"** — `Scenarios → select a saved scenario → button "Review scenario."`
-10. ☐ **Step 10: Save the artifact** — `Back on Report → "Download PDF."`
-11. ☐ **What good looks like**
+**Beats:**
+1. ☐ 1 · Confirm the spending number
+2. ☐ 2 · Healthcare-bridge expense
+3. ☐ 3 · Build the floor (Social Security)
+4. ☐ 4 · See the gap and the bridge
+5. ☐ 5 · Set the withdrawal order — SLOW DOWN
+6. ☐ 6 · Calibrate the operating plan (95/80/60)
+7. ☐ 7 · The annual update (pre-met)
+8. ☐ 8 · AI review — income plan
+9. ☐ 9 · Sell, borrow, or hold
+10. ☐ 10 · AI review — borrowing (only if borrowing is in the plan)
+11. ☐ 11 · Pressure-test
+12. ☐ WRAP — spot check off the screen
 
 ---
 
+## ☐ 8.4 · DEMO — Hardware wallet setup + exchange hardening
+
+**  ·  sheet: `scripts/08-4_DEMO_hardware-wallet-exchange.md`
+
+**Stage this first:**
+- [ ] Manufacturer-direct hardware wallet, still sealed
+- [ ] Throwaway demo wallet with trivial funds · a demo exchange account you're willing to burn
+- [ ] Stage/blur plan for the seed display: tape, shield, or a tested camera angle
+
+**Beats:**
+1. ☐ 1 · Hardware wallet: the six steps (~5:30)
+2. ☐ 2 · Exchange hardening (~2:30)
+3. ☐ 3 · The never-list (~1:00) — camera, NO screen
+4. ☐ WRAP — spot check off the screen
+
+---
+
+## ☐ 8.5 · WALKTHROUGH — Document your custody map
+
+*Screen capture · 6 steps · ~15 min*  ·  sheet: `scripts/08-5_WALKTHROUGH_custody-map.md`
+
+**Stage this first:**
+- [ ] Custody level from 8.2 in mind · know whether the dead-man switch will need cloud sync
+- [ ] **Tier is keyed to ESTATE NET WORTH, not custody choice:** Foundation <$500k · Substantial $500k–$2M · HNW $2M+. The 3 Hardware items only exist at Substantial+
+- [ ] **Local Only mode** replaces the switch panel with *"Automatic check-in emails require cloud sync."* Flip to Cloud at Settings → Data & Privacy now if you're arming next module
+- [ ] Zero secrets on screen. The checklist never asks for any — the ONLY free-text moment in the whole walkthrough is the backup passphrase in step 3
+
+**Beats:**
+1. ☐ 0 · The tier that filters your checklist
+2. ☐ 1 · Orient on Protect
+3. ☐ 2 · Walk the checklist as the map
+4. ☐ 3 · Back up the plan itself
+5. ☐ 4 · Save the Family Custody Map (course toolkit PDF)
+6. ☐ 5 · Record your decisions (off-app)
+7. ☐ 6 · The "Draft with AI" button you'll scroll past
+8. ☐ WRAP — spot check off the screen
+
+---
+
+## ☐ 10.3 · WALKTHROUGH — Annual review, scenarios, and your report
+
+*Screen capture · ONE continuous session · ~24 min raw, cut into three*  ·  sheet: `scripts/10-3_WALKTHROUGH_annual-review-scenarios-report.md`
+
+**Cut points in this capture:** **✂ CUT POINT 1** · **✂ CUT POINT 2**
+
+**Stage this first:**
+- [ ] Plan complete and accurate — every part of this session compares against it
+- [ ] Plan warm, right after a monthly pass
+- [ ] Retirement age, state, and retirement spending correct in settings (the scenario presets read them)
+- [ ] Set the 18-month / $120k reserve target on Cash Flow → Reserve settings → Target months → **18 mo**. The picker goes to 36 months now
+- [ ] A fresh confidence check run — the report's spending band needs explicit bands, or you get the *"Run a fresh confidence check…"* line instead
+- [ ] A couple of transactions ready to enter
+- [ ] At least one linked account with something **FLAGGED** — else the Part A AI beat's button won't render
+- [ ] Last year's report open in another tab if you have one
+- [ ] Visible timer ready for the Part A monthly pass
+- [ ] Clean browser, notifications off
+- [ ] **Part B empty state.** No saved scenarios yet if you want the empty state on camera. Part C then needs at least one saved, which Part B produces — one more reason to film straight through.
+- [ ] **Part C reading order ≠ page order.** The report leads with trajectory; position is section FIVE. You will jump, and you should say so.
+- [ ] Part C conditional sections: *"If Bitcoin follows a different path"* (needs a saved scenario) · *"Your next steps"* · *"What these terms mean"*
+
+**Beats:**
+1. ☐ A1 · The monthly pass — TIMED, LIVE
+2. ☐ A2 · Enter transactions
+3. ☐ A3 · AI — Explain review items
+4. ☐ A4 · The annual lap — six screens, ~40 sec each
+5. ☐ A5 · Close the year — report + backup
+6. ☐ A6 · Schedule both rhythms
+7. ☐ B1 · Orient on the page
+8. ☐ B2 · The stress test, one click
+9. ☐ B3 · Read the comparison
+10. ☐ B4 · Run the Monte Carlo — let it breathe
+11. ☐ B5 · Build the custom one
+12. ☐ B6 · Compare, then manage
+13. ☐ B7 · AI — Review scenario
+14. ☐ C1 · Open + name the reading order
+15. ☐ C2 · "Are you on track" — TRAJECTORY (section 1)
+16. ☐ C3 · "Where you stand today" — POSITION (jump to section 5, deliberately)
+17. ☐ C4 · "What you can spend" + "How retirement gets funded" (sections 3–4)
+18. ☐ C5 · "How your plan plays out" + "If Bitcoin follows a different path" — RISK (section 2 + conditional ~9)
+19. ☐ C6 · "Tax roadmap" + "Allocation" (sections 8 + 6)
+20. ☐ C7 · "Protecting what you've built" (section 7)
+21. ☐ C8 · "Your next steps" + "Assumptions & methodology" — ACTIONS (sections 10–11)
+22. ☐ C9 · Save the artifact
+23. ☐ WRAP — spot check off the screen
+
+---

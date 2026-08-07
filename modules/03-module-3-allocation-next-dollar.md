@@ -316,7 +316,7 @@ Free money first. Guaranteed high returns second. Tax shelters in order of quali
 
 **Rung 2 (high-interest debt).** ~7% is a rough threshold. Any 20%+ APR is priority 1, before anything else.
 
-**Rung 3 (HSA).** Only available with a High Deductible Health Plan (HDHP). Best treated as a Legacy account: invest it, save it as a Roth-like medical vehicle.
+**Rung 3 (HSA).** Only available with a High Deductible Health Plan (HDHP). Which bucket it lands in follows the job you give it: **Legacy** if you invest it and let it grow as a Roth-like medical fund, **Bridge** if you're going to spend it on medical costs before retirement.
 
 **Rung 4 (Roth).** Especially strong for Bitcoin-heavy plans, because Bitcoin appreciation often puts you in a higher retirement bracket than you're in now.
 
@@ -339,7 +339,7 @@ $4,000/mo surplus routes:
 |---|---|---|
 | 401(k) | $1,000/mo | Captures full 50%-up-to-6% match ($12,000/yr) |
 | High-interest debt | — | None |
-| HSA | $300/mo | Building the medical Legacy fund |
+| HSA | $300/mo | Spent on medical costs before retirement, so it sits in Bridge |
 | Roth IRA | $583/mo | Maxing the year's IRA limit ($7,000 when they ran it) |
 | Traditional | — | Skip for now |
 | Bitcoin + taxable | ~$2,117/mo | Split between Bridge and Legacy |
@@ -447,13 +447,12 @@ Common pattern: some Bitcoin in retirement wrappers (ETF form) for tax shielding
 
 | Holding | Account | Bucket |
 |---|---|---|
-| $30k cash | Taxable | Reserve |
-| $15k HSA (index funds) | HSA | Bridge |
-| $50k taxable brokerage (index funds) | Taxable | Bridge |
-| $25k 529 (index funds) | 529 | Bridge |
-| $175k Bitcoin (hardware) | Self-custody, taxable | Legacy |
-| $70k 401(k) (index funds) | Traditional 401k | Legacy |
-| $20k Roth IRA (index funds) | Roth | Legacy |
+| $30k cash | Checking / savings | Reserve |
+| $10k HSA (index funds) | HSA | Bridge |
+| $30k taxable brokerage (index funds) | Taxable | Bridge |
+| $15k 529 (index funds) | 529 | Bridge |
+| $175k Bitcoin (hardware + exchange) | Self-custody, taxable | Legacy |
+| $35k 401(k) + IRA (index funds and bonds) | Traditional 401k, IRA | Legacy |
 
 Decent placement. If they wanted to optimize: consider a small Bitcoin ETF position inside the Roth for tax-free growth, while keeping the majority in self-custody.
 
@@ -570,7 +569,7 @@ Walk your list:
 
 - Cash and savings → **Reserve**
 - Taxable brokerage earmarked for a dated cost (kids' tuition, home purchase) → **Bridge**
-- HSA → **Bridge** (or **Legacy** if you're using it as a Roth-like retirement account)
+- HSA → **Bridge** if you'll spend it on medical costs before retirement, **Legacy** if you're leaving it invested as a Roth-like medical fund. The bucket follows the job, not the account type
 - 529 → **Bridge**
 - Retirement accounts (401(k), IRA, Roth) → **Legacy**
 - Bitcoin → **Legacy** (unless a specific chunk is reserved for a shorter timeframe)

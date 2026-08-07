@@ -1,14 +1,23 @@
 # Orange Plan Course — Filming Checklist & Production Plan
 
-**Source of truth: `MASTER-COURSE.md` (this folder).** 50 lessons · ~53,400 spoken-source words. At your on-camera pace (~150–160 wpm) that is roughly **5¾ hours of raw narration** before takes, screen capture, and pickups.
+**Source of truth: `MASTER-COURSE.md` (core) and `MASTER-ADVANCED.md` (library).**
+
+| | Teach lessons | Runtime |
+|---|---|---|
+| **Core** — Build Your Bitcoin Financial Plan | 27 | ~246 min |
+| **Advanced Library** — optional, gated | 10 | ~91 min |
+
+Plus 9 core walkthroughs and 1 external demo, narrated off the DO/SEE/⚠ sheets rather than read.
+
+⚠ Recording order lives in `DICTATION-ORDER.md`, which is **generated**. Run `python3 tools/build-dictation-order.py` before filming so you are not recording from an obsolete order.
 
 Lesson types — this drives the whole shooting plan:
 
-| Type | Count | Words | What it means on set |
-|---|---|---|---|
-| 🎙 Talking head (teleprompter) | 31 | 25,492 | Camera only. Batch these. |
-| 🖥 Screen share (walkthrough) | 11 | 17,696 | Screen recording with voiceover or live narration. App state must be seeded first. |
-| 🎙+🖥 Hybrid | 8 | 10,200 | Teach section on camera, then an app section on screen. Film the A-roll in the talking-head batches; capture the screen part in the walkthrough batches; edit together. The cut point is the line "Now put it in the app." |
+| Type | Count | What it means on set |
+|---|---|---|
+| 🎙 Talking head (teleprompter) | 27 core + 8 advanced | Camera only. Batch these. |
+| 🖥 Screen share (walkthrough) | 9 core + 1 external demo | Screen recording with live narration. App state must be seeded first. **Film one continuous capture per module and decide the cut in the edit** — `✂ CUT POINT` markers on the sheets show where a split is safe. |
+| 🎙+🖥 Hybrid | 2, both in the Advanced Library | Teach section on camera, then an app section on screen. The cut point is the 🎥 marker in the master. The core course has no hybrids left; Modules 4 and 8's were retired in favour of whole-module walkthroughs. |
 
 ---
 
@@ -20,7 +29,7 @@ Lesson types — this drives the whole shooting plan:
   - Waterfall: 401(k) $1,000 + HSA $300 + Roth $583 + Bitcoin/taxable **$2,117/mo**
   - Debt: $280,000 mortgage @3.25% + $18,000 car @7% → DTA 40%, DTI ~12%
   - Assets: $175k BTC (1.75 BTC) + $90k funds + $30k cash + $450k house = $745,000
-  - Retirement-era demo (Modules 6+): $80,000 spending · $120,000 reserve (18 mo) · $400K taxable BTC · $600K traditional · $200K Roth · SS $51,600/yr ($4,300/mo)
+  - Retirement-era demo (Modules 6+): $80,000 spending · $120,000 reserve (18 mo) · **$600K taxable BTC · $400K traditional** · $200K Roth · SS $51,600/yr ($4,300/mo). ⚠ Taxable BTC is $600K, not $400K — 7.3 divides it by $80,000 to get ~7.5 years, and it must match the seeded demo on screen.
 - [x] **Evergreen numbers policy (replaces the old item 11).** The course must outlive the tax year, so: (1) never speak a law-set number (bracket, limit, exemption, RMD age) as a fact — the scripts are already written this way; (2) worked-example figures are tilde-marked snapshots with a "these move every year" frame — leave them, say the frame; (3) when a law number is on screen during capture, don't zoom or dwell, and refer to it as "the current number the app shows." The app updates with the law; the video doesn't have to.
 - [ ] **Decide the lesson renames** (item 20 — plain-language v2 titles are drafted and awaiting your go). Film with FINAL titles; renaming after filming means re-recording intros.
 - [ ] **Decide the 3.3 rebuild** (item 18 — Life-Events checklist redesign is spec'd, 3 questions open). If you're rebuilding it, do it before filming Module 2.

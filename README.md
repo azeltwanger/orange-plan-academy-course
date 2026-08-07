@@ -1,6 +1,15 @@
 # Orange Plan Course — production repo
 
-Source of truth for **"Financial Planning for Bitcoin Holders"**: scripts, filming plan, and the decision log. Course *content* never lives in the orange-plan app repo (Austin's rule) — it lives here and mirrors to two places:
+Source of truth for **Orange Plan Academy**: scripts, filming plan, and the decision log.
+
+The Academy is **two courses** in one space group:
+
+| Course | Required? | Source | Size |
+|---|---|---|---|
+| **Build Your Bitcoin Financial Plan** (core) | Yes | `MASTER-COURSE.md` | 27 teach lessons · ~246 min · 10 modules (M0 Start Here + M1–M9) |
+| **Advanced Bitcoin Planning Library** | No, gated per lesson | `MASTER-ADVANCED.md` | 10 lessons · ~91 min · 8 sections mirroring the core modules |
+
+The governing rule: *the core course helps people get a plan built; advanced is for optimizing, and for things that may not apply to everyone.* Course *content* never lives in the orange-plan app repo (Austin's rule) — it lives here and mirrors to two places:
 
 | Copy | Purpose | Update flow |
 |---|---|---|
@@ -10,11 +19,14 @@ Source of truth for **"Financial Planning for Bitcoin Holders"**: scripts, filmi
 
 ## Files
 
-- `MASTER-COURSE.md` — **the canonical script.** All 50 lessons, 11 modules, verified against the Honen draft (byte-hash) and the live app code (string audit, last run 2026-07-31). 🎥 markers show every screen-share boundary; `>` flag lines are production notes, never read on camera.
-- `SCREEN-SHOOT-LIST.md` — the 19-segment screen-capture run sheet (beats + app-state prep).
+- `MASTER-COURSE.md` — **the canonical core script.** 27 teach lessons + 9 walkthroughs + 1 external demo, across 10 modules. 🎥 markers show every screen-share boundary; `>` flag lines are production notes, never read on camera.
+- `MASTER-ADVANCED.md` — the canonical Advanced Library script. Every lesson opens with a **Gate** line naming the condition that makes it worth watching.
+- `SCREEN-SHOOT-LIST.md` — the screen-capture run sheet (beats + app-state prep).
+- `DICTATION-ORDER.md` — the running order for recording. **Generated** — run `python3 tools/build-dictation-order.py` after any trim, or it will describe a course that no longer exists.
 - `FILMING-CHECKLIST.md` — production plan: phases, shooting order, per-lesson table.
 - `COURSE-IMPROVEMENT-ANALYSIS.md` — decision log; 33 tracked items with full audit history.
-- `scripts/` — **the teleprompter scripts.** 39 files: the 31 talking-head lessons in full plus the teach half of each of the 8 hybrid lessons (`{n}-A`). Production notes, outcomes blocks, and markers already stripped; tables fenced as "on screen — don't read". Generated — edit the master, then run `python3 tools/build-scripts.py`.
+- `scripts/` — **the teleprompter scripts** for the core course, plus `scripts/advanced/` for the library. Production notes, outcomes blocks, and markers already stripped; tables fenced as "on screen — don't read". Generated — edit the master, then run `python3 tools/build-scripts.py` (add `--advanced` for the library).
+  ⚠ **Scripts carrying `AUSTIN DICTATION` or `SPOKEN-PROSE VERSION` in the header are protected and never regenerated.** A master edit does not reach them. Every content change needs both layers verified.
 - `lesson-text/` — **the student-facing text version**: concise, scannable, no fluff — what a read-instead-of-watch student gets, and what eventually replaces the Honen lesson prose. One file per lesson (being produced lesson by lesson alongside the scripts).
 - `modules/` — the master split per module (what Drive holds). Generated — edit the master, then run `python3 tools/split-modules.py`.
 - (`lessons/` was a 2026-08-04 snapshot of the Honen draft, deleted 2026-08-05. It had gone stale through eight rounds of voice and slop edits and still carried removed text, so pushing from it would have undone that work. Push to Honen from `lesson-text/` and `MASTER-COURSE.md`, which are current. The snapshot is in git history if it is ever needed.)

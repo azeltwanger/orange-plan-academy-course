@@ -53,7 +53,7 @@ In the app it's "Funding your timeframes," and then "Sort accounts into buckets,
 
 Let me run the couple's six accounts through it.
 
-Their $30,000 of checking and savings is Reserve. That's the liquid safety net. The $10,000 invested HSA is Bridge, because it's accessible before 65 and spendable in retirement. The $30,000 taxable brokerage is Bridge, earmarked for planned spending 5 to 8 years out. The $15,000 in the 529 is Bridge too, because it's dated tuition money, 8 years out. Their $175,000 of Bitcoin is Legacy, the long-term core. And the $35,000 across the 401(k) and IRA is Legacy as well, because they're 15-plus years from retirement.
+Their $30,000 of checking and savings is Reserve. That's the liquid safety net. The $10,000 invested HSA is Bridge, because they intend to spend it on medical costs before retirement. If they were leaving it invested to grow as a Roth-like medical fund for later, it would be Legacy instead. The bucket follows the job you give it, not the account type. The $30,000 taxable brokerage is Bridge, earmarked for planned spending 5 to 8 years out. The $15,000 in the 529 is Bridge too, because it's dated tuition money, 8 years out. Their $175,000 of Bitcoin is Legacy, the long-term core. And the $35,000 across the 401(k) and IRA is Legacy as well, because they're 15-plus years from retirement.
 
 So that's $30,000 in Reserve, $55,000 in Bridge, and $210,000 in Legacy. Roughly 10%, 19%, and 71%.
 

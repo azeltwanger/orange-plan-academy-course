@@ -824,7 +824,7 @@ Three ways to fund your life from a Bitcoin-heavy plan. Each costs something dif
 
 - Age 60
 - Spending $80,000/yr
-- $400,000 taxable Bitcoin
+- $600,000 taxable Bitcoin
 - $120,000 Reserve
 
 ### Tool 1: Sell (buying simplicity)
@@ -856,14 +856,14 @@ The ratio moves for two reasons:
 
 The ratio can climb fast without you doing anything. The starting ratio is the whole decision.
 
-**The couple's borrowing capacity, priced.** Austin's default is 10 to 20% LTV.
+**The couple's borrowing capacity, priced.** Austin's default is 10 to 15% LTV — the same number A4.1 sizes the cushion against.
 
-- 10-20% of $400,000 collateral = $40,000 to $80,000 of capacity.
-- One year of spending is the entire capacity at the conservative limit.
+- 10-15% of $600,000 collateral = $60,000 to $90,000 of capacity.
+- One year of spending, $80,000, eats most of it. Two years running puts them at a ratio a normal bear market liquidates.
 
 Add a year of interest. At 10-11%, $80,000 grows to about $88,000 a year later with nothing paid.
 
-Drop Bitcoin 50%. Collateral is now $200,000. $88,000 against $200,000 = **44% LTV**.
+Drop Bitcoin 50%. Collateral is now $300,000. $88,000 against $300,000 = **29% LTV**, and a 75% drop — the normal Bitcoin bear — puts it at **59%**, inside margin-call territory.
 
 The cushion is gone. They can't borrow again next year, and they're one leg down from liquidation.
 
@@ -880,11 +880,11 @@ Borrowing is a tool for a year, not a plan for a decade.
 
 Don't touch the Bitcoin. Spend from the Reserve ($120,000).
 
-The $400,000 keeps compounding.
+The $600,000 keeps compounding.
 
 Under current law (verify), it passes to heirs with a **step-up in basis**. If their basis is $100,000:
 
-- $400,000 - $100,000 = **$300,000** of embedded gain that passes untaxed.
+- $600,000 - $100,000 = **$500,000** of embedded gain that passes untaxed.
 
 That turns "not selling" from a preference into a tax strategy.
 

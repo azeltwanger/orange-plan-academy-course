@@ -393,7 +393,7 @@ Card **"Moves this year"**. Eyebrow **"Modeled, not advice."** Rows:
 - **Harvest losses**
 - **Roth conversion**
 
-⚠ **This one runs BEFORE year-end, while the calendar can still act.** Harvest and conversion moves close December 31. If you're running the annual lap in January, the tax card is a *plan next year* read, not a *do it now* action.
+⚠ **This one runs BEFORE year-end, while the calendar can still act.** Harvest and conversion moves close December 31. That is why the review is scheduled for November. Run the lap in January and the tax card is a *plan next year* read, not a *do it now* action.
 
 #### Custody · Protect
 
@@ -430,7 +430,7 @@ Toast: **"Plan exported."**
 There is **no native scheduler in Orange Plan.** Use your calendar app, on camera.
 
 - **Monthly day** (e.g. the first Saturday). Recurring.
-- **Annual month** (e.g. every January). Recurring.
+- **Annual month**: November, recurring. Ahead of the December 31 tax deadline.
 
 Extra rhythm: the **90-day check-in email** from the dead man's switch is a built-in reminder. If the email arrives and you're alive, log in and check in.
 
@@ -654,7 +654,7 @@ The confidence ring, sub-label **"confidence,"** beside the age stat and the ear
 Read the date and the ring together. The date is the when, and the ring is how sturdy that date is under real market variation.
 
 - **Green at 80+** is the healthy zone.
-- A confidence of 100 was never the goal. A plan that only survives at 99% confidence is one built on optimism.
+- A confidence of 100 was never the goal, and a very high number is not a gold star either. At 99% you are probably spending less than the plan can carry: it is a prompt to ask whether you could spend more, retire sooner, or stop over-saving.
 
 If you like both the ring and the date, that's the healthy read. If one is fine and the other isn't, the disagreement between them is where the signal lives.
 

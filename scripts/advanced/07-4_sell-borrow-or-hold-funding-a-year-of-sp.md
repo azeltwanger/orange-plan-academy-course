@@ -7,7 +7,7 @@ In today's lesson, we're going to cover the three ways to fund your life from a 
 
 One note up front: this is an advanced lesson, and the borrow half of it only really fires if you're considering asset-backed lending against your Bitcoin. If that's not you, you can skim this one and come back if it ever becomes relevant.
 
-Each of the three tools costs something different, so I'm going to price each one on the same single year of the couple's retirement. They're 60. Spending is $80,000 a year. They've got $400,000 of taxable Bitcoin and a $120,000 reserve.
+Each of the three tools costs something different, so I'm going to price each one on the same single year of the couple's retirement. They're 60. Spending is $80,000 a year. They've got $600,000 of taxable Bitcoin and a $120,000 reserve.
 
 == TOOL 1: SELL ==
 
@@ -25,9 +25,9 @@ The entire decision here is the LTV, the loan-to-value ratio, which is the loan 
 
 And that ratio moves on its own, for two reasons. Interest pushes the loan balance up, and a price drop pulls the collateral down. So the ratio can climb fast without you doing anything at all. That's why the starting ratio is the whole decision.
 
-Let me price the couple's actual borrowing capacity. My own default is 10 to 15% LTV. On their $400,000 of collateral, that's $40,000 to $60,000 of capacity. Notice what that means: 1 year of spending uses their entire capacity at the top of the conservative range.
+Let me price the couple's actual borrowing capacity. My own default is 10 to 15% LTV. On their $600,000 of collateral, that's $60,000 to $90,000 of capacity. Notice what that means: a single year of spending, $80,000, eats most of the capacity they have at a conservative LTV. Do it two years running and they're borrowing at a ratio that a normal bear market liquidates.
 
-Now watch what a year does to it. At a 10 to 11% rate, the $80,000 loan grows to about $88,000 a year later with nothing paid. Then drop Bitcoin 50%, which is normal, not extreme. The collateral is now $200,000, so $88,000 against $200,000 is 44% LTV. The cushion is gone. They can't borrow again next year, and they're one more leg down from liquidation.
+Now watch what a year does to it. At a 10 to 11% rate, the $80,000 loan grows to about $88,000 a year later with nothing paid. Then drop Bitcoin 50%, which is normal, not extreme. The collateral is now $300,000, so $88,000 against $300,000 is 29% LTV. Take it to a 75% drop, which is the normal Bitcoin bear, and they're at 59%, which is margin-call territory. They can't borrow again next year, and they're one more leg down from liquidation.
 
 So two conclusions on borrowing. First: borrow from strength, not from a trap. A loan taken calmly at low LTV with a written plan is a completely different product from a loan taken in the middle of a drawdown because you're cornered. And second: borrowing works when the LTV is low, there's liquidity behind it, and you're comfortable holding it. What it does not work as is the foundation of a retirement paycheck, because 1 year of spending uses the whole capacity and the second year has nowhere to come from. Borrowing is a tool for a year, not a plan for a decade.
 
@@ -35,9 +35,9 @@ So two conclusions on borrowing. First: borrow from strength, not from a trap. A
 
 The third tool is holding, and what you're buying is compounding, and maybe something more.
 
-They don't touch the Bitcoin at all. They spend from the $120,000 reserve. The $400,000 keeps compounding.
+They don't touch the Bitcoin at all. They spend from the $120,000 reserve. The $600,000 keeps compounding.
 
-And there's something else here, too. Under current law, and verify this, Bitcoin passes to heirs with a step-up in basis. If the couple's basis is $100,000, that's $400,000 minus $100,000, or $300,000 of embedded gain that passes to their kids untaxed. The gain just disappears at death.
+And there's something else here, too. Under current law, and verify this, Bitcoin passes to heirs with a step-up in basis. If the couple's basis is $100,000, that's $600,000 minus $100,000, or $500,000 of embedded gain that passes to their kids untaxed. The gain just disappears at death.
 
 That turns "never sell" from a preference into an actual tax strategy. Holding the core forever can be a legitimate estate move, as long as it's funded by the Reserve and the Bridge instead of by sales.
 

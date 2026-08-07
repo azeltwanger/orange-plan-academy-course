@@ -124,7 +124,7 @@ report saved and the backup exported.*
 
 **SEE** Card **Moves this year** (eyebrow *"Modeled, not advice"*): Harvest gains · Harvest losses · Roth conversion
 
-**⚠** This one runs BEFORE year-end. In January it's a plan-next-year read, not a do-it-now action.
+**⚠** This one runs BEFORE year-end, which is the whole reason the review is scheduled for November. Run the lap in January and the tax card is a plan-next-year read, not a do-it-now action.
 
 ### Custody — Protect
 
@@ -160,7 +160,7 @@ report saved and the backup exported.*
 
 ## □ A6 · Schedule both rhythms
 
-**DO** Calendar app ON CAMERA: monthly day (first Saturday, recurring) + annual month (January, recurring)
+**DO** Calendar app ON CAMERA: monthly day (first Saturday, recurring) + annual month (**November**, recurring)
 
 **⚠** There's no native scheduler. This step happens outside the app on purpose.
 
@@ -322,7 +322,7 @@ baseline untouched.
 
 **⚠** Read the date and the ring together. Neither one means anything alone.
 
-**⚠** Green at 80+ is healthy. A plan that only survives at 99% confidence is one built on optimism — 100 was never the goal.
+**⚠** Green at 80+ is healthy, and 100 was never the goal. Say the other direction too: a very high number is not a gold star. At 99% you are probably spending less than the plan can carry, so it is a prompt to ask whether you could spend more, retire sooner, or stop over-saving.
 
 **⚠** If one is fine and the other isn't, that disagreement is where the signal lives.
 

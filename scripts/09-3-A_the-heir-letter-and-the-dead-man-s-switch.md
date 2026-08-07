@@ -124,7 +124,7 @@ So how do you actually decide? Understand what it's actually for: everything els
 Your homework for this lesson:
 
 1. Write the first two lines of your letter tonight. The first phone call, and the first mistake to avoid. The rest of the letter follows naturally from those two.
-2. 
+2. Name who receives it, and store it where they can actually reach it. A letter nobody can find is a letter that was never written.
 3. Decide whether you're arming it. If your access split is documented, the answer is usually yes.
 4. Add your contacts and arm it in the app.
 5. Tell every contact that it exists, and what to do if it ever fires.

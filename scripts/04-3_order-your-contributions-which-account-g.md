@@ -17,7 +17,7 @@ Rung 1 is your employer match, in your 401(k) or something similar. This is firs
 
 Rung 2 is high-interest debt, and by high-interest I mean roughly above 7%. Paying down a 20% credit card is a guaranteed 20% return, and you cannot beat a guaranteed 20% anywhere. Any card in the 20s is priority one, before anything else in your plan.
 
-Rung 3 is the HSA, if you're eligible for one. It's the only account in the entire tax code that's triple-tax-advantaged: the money goes in untaxed, grows untaxed, and comes out untaxed for medical costs. I switched my own family to CrowdHealth, so I'm not HSA-eligible anymore, but if you're on a high-deductible health plan, this rung is a gift. The best way to treat it is as a Legacy account: invest it and let it grow as a Roth-like medical fund.
+Rung 3 is the HSA, if you're eligible for one. It's the only account in the entire tax code that's triple-tax-advantaged: the money goes in untaxed, grows untaxed, and comes out untaxed for medical costs. I switched my own family to CrowdHealth, so I'm not HSA-eligible anymore, but if you're on a high-deductible health plan, this rung is a gift. Which bucket it lands in follows the job you give it: Legacy if you invest it and let it grow as a Roth-like medical fund, Bridge if you're going to spend it on medical costs before retirement.
 
 Rung 4 is the Roth, either the Roth IRA or Roth 401(k). Tax-free growth, tax-free withdrawal, and no RMDs. An RMD is a required minimum distribution, which is the withdrawal the government forces out of your traditional accounts once you hit a certain age. The Roth is especially strong for Bitcoin-heavy plans, because if the thesis plays out, Bitcoin appreciation puts you in a higher bracket in retirement than you're in right now, and the Roth is the account that doesn't care.
 
@@ -37,7 +37,7 @@ And if your income is too high to contribute to a Roth IRA directly, look up the
 
 Let's run the couple's $4,000 a month of surplus down the ladder.
 
-Rung 1: they put $750 a month into the 401(k). That's 6% of his $150,000 salary, which captures the full match. Rung 2: they don't have any high-interest debt, so it's skipped. Rung 3: $300 a month into the HSA, building the medical Legacy fund. Rung 4: $583 a month into the Roth IRA, which maxed the IRA limit in the year they ran this. Rung 5: another $250 a month into the 401(k) past the match, which gets them to $12,000 a year. And rung 6: the remaining $2,117 a month goes to Bitcoin and taxable, split between Bridge and Legacy.
+Rung 1: they put $750 a month into the 401(k). That's 6% of his $150,000 salary, which captures the full match. Rung 2: they don't have any high-interest debt, so it's skipped. Rung 3: $300 a month into the HSA. They're spending theirs on medical costs before retirement, so it sits in Bridge. Rung 4: $583 a month into the Roth IRA, which maxed the IRA limit in the year they ran this. Rung 5: another $250 a month into the 401(k) past the match, which gets them to $12,000 a year. And rung 6: the remaining $2,117 a month goes to Bitcoin and taxable, split between Bridge and Legacy.
 
 Add it up: $750 plus $300 plus $583 plus $250 plus $2,117 is the full $4,000, spent exactly once. Every dollar has a route. Nothing is left over to figure out later.
 
