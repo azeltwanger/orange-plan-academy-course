@@ -205,6 +205,15 @@ Named here, taught in the library, because it only becomes a real decision for s
 > audit. If moving is not on the table, the tax plan is complete without it.
 
 
+### Your decision
+
+> 🔶 **F24 — ADDED BEAT, not new teaching.** 5.2 had *Put it in Orange Plan* and
+> *You are done when* but no *Your decision*, making it the one core lesson that
+> said what to do without naming what was being decided. The wording is lifted
+> from its own done-when line.
+
+**Whether you are acting in this year's window, or deliberately passing on it.** A pass is a real answer and a finished one, provided you made it on purpose after looking.
+
 ### Put it in Orange Plan
 
 Strategy → Tax → Moves this year. Model one sale and read the tax it produces.

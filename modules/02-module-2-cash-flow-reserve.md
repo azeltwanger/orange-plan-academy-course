@@ -207,9 +207,25 @@ Before you pick your months, answer this honestly:
 
 Your answer is what your reserve size should reflect. All four options pay for the same six months, at different prices. The only one you can buy in advance is cash.
 
-### Homework
+### Your decision
 
-Pick your target months. Multiply by your floor. Enter both into the reserve settings in the app.
+> 🔶 **F24 — RESTRUCTURED CLOSE, not new teaching.** This lesson ended with a
+> `Homework` block, which is the per-lesson pattern `MODULE-CHECKPOINTS.md`
+> replaced. The three beats below are Austin's own words from that homework and
+> from the four-options question above, re-sorted so 2.2 contributes its line to
+> the Module 2 checkpoint like every other core lesson. Nothing was added.
+
+Your target number of months, and **the risk-tolerance answer sitting behind it.** The four-options question is how you get there: hold more cash now, sell into the drawdown, borrow, or cut hard. All four pay for the same six months at different prices, and **the only one you can buy in advance is cash.** There is no wrong answer, but the number is only defensible if you know which of the four you are.
+
+### Put it in Orange Plan
+
+**Cash Flow → Reserve settings.** Set your bare-bones floor, then set **Target months**.
+
+⚠ **Your target amount is months × bare-bones spending, and you do that multiplication, not the app** — the same rule as 2.3.
+
+### You are done when
+
+Your reserve target is set **in months of spending**, the app shows how many months you actually hold, and you can say what the reserve is *for* in one sentence: so a bad month never forces a Bitcoin sale.
 
 
 ## 2.3 Fund a known future cost: the six questions

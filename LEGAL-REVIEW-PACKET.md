@@ -148,6 +148,87 @@ Its master, script and lesson-text layers all carry the block marker.
 
 ---
 
+## Part 4c — The four professional reviews, and what each one gates
+
+**Added 2026-08-08.** Part 4b holds A8.1 specifically. This part is the full map:
+the course can be opinionated about planning while being precise about where
+professional execution begins, and that line is only defensible if the factual
+claims underneath it have been checked by someone licensed to check them.
+
+**These reviewers are not reviewing Austin's planning philosophy.** They are
+reviewing factual and legal accuracy. A reviewer who wants to change *what Austin
+recommends* is outside their remit — `AUSTIN-AUTHORITY.md` governs that, and it
+outranks a reviewer's preference for a more conservative default.
+
+### The four reviews
+
+| # | Reviewer | Reviews | Blocking? |
+|---|---|---|---|
+| 1 | **Estate attorney** | Trust mechanics, executor and document roles, beneficiary/POD/TOD control, probate, the prudent-investor waiver | **Yes** — A8.1 is held unpublished (Part 4b) |
+| 2 | **Bitcoin-aware CPA** | Cost basis and lot accounting, basis at death, Roth conversion mechanics, bracket-window logic, harvesting, RMDs, 529 and student-loan tax treatment | **Yes** for basis-at-death and Roth mechanics |
+| 3 | **Custody professional** | Advanced recovery design: passphrase, multisig, collaborative custody, the wipe-and-restore standard, the institutional death-claim path | No — review before Module 7 films |
+| 4 | **Insurance professional** | Coverage-gap arithmetic, product terminology, when a category is genuinely out of scope | No — review before Module 8 films |
+
+### What to send, by priority
+
+**1 · Estate attorney (blocking).** Full list in Part 4b. Plus:
+
+- **Beneficiary language** — the course teaches *"for an account governed by a
+  valid beneficiary, POD, or TOD designation, the provider's form generally
+  controls instead of the will,"* and deliberately rejects the flat *"the form
+  overrides the will."* Confirm the qualified version is right, and that the
+  named exceptions (state law, community property, plan documents, spousal
+  consent, validity of the designation) are the right ones to name.
+- **Executor Packet** — a student hands this to a real person who then signs an
+  acceptance page. Confirm the acceptance page creates no obligation the signer
+  would not expect, and that the role description matches what an executor
+  actually does.
+
+**2 · Bitcoin-aware CPA (blocking on two items).**
+
+| Claim | Where | Ask |
+|---|---|---|
+| **Basis at death** | A6.2 — *"under current law (verify), it passes to heirs with a step-up in basis"* | Is the step-up correctly stated, and is the "verify" caveat doing enough work given how much the worked example depends on it? |
+| **Roth conversion mechanics** | 5.2, A5.1 | Conversions, the pro-rata rule, the backdoor Roth warning in 4.3, and RMD interaction |
+| **Cost basis and lots** | 5.1 | Per-lot tracking, what a missing basis actually costs, reconstruction method |
+| **Harvesting** | A5.2 | Loss and gain harvesting, and the wash-sale treatment the course assumes |
+| **529 and student loans** | 2.4 | Qualified distributions, beneficiary changes, the student-loan allowance, the Roth rollover conditions, FAFSA reporting |
+| **Bracket windows** | 5.2, A5.1 | The three-stage roadmap and the low-income-window logic |
+
+⚠ **The two blocking items are basis at death and Roth conversion mechanics**,
+because both drive arithmetic a student will act on.
+
+**3 · Custody professional (before Module 7 films).**
+
+- The four levels and what each one buys and costs
+- The **wipe-and-restore** standard as the recovery proof for self-custody
+- The **institutional path** added 2026-08-08: is *"login recovery run end to end,
+  and the institution's death-claim process read and verified with the provider"*
+  the right equivalent proof for a Level 1 household with no device to restore?
+- Passphrase, multisig and collaborative designs in A7.1, including the
+  seven-random-word passphrase standard and the multisig config-file backup
+- The trustee-holds-one-key-never-the-seed arrangement in A8.1 (overlaps review 1)
+
+**4 · Insurance professional (before Module 8 films).**
+
+- The **coverage-gap arithmetic** in 8.4 and the Coverage Audit worksheet — this
+  is the one place the course produces an insurance *number*
+- Term life, disability and umbrella terminology, and the "when to stop" line
+- ⚠ Confirm the course is right to *route* rather than *recommend*:
+  `SOURCE-MATERIAL-POLICY.md` explicitly rejects becoming an insurance
+  curriculum, so the reviewer should check the boundary is drawn safely, not
+  push for more coverage teaching
+
+### The standing rule for every reviewer
+
+**Current-law figures stay in updateable text or the app — never in evergreen
+narration.** That is already how the course is written: no bracket, limit,
+exemption, RMD age, 529 figure or loan ceiling is spoken on camera. A reviewer
+who supplies a current number is supplying a `lesson-text/` or app value with a
+verification note, not a script line.
+
+---
+
 ## Part 5 — Questions to put to the attorney
 
 1. Does the course, as written and disclaimed, sit within the publisher's exclusion?

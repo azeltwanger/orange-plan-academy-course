@@ -3,7 +3,7 @@
 Read top to bottom. Nothing below depends on a decision you haven't made yet,
 as long as you settle the five things in the next section first.
 
-**28 teach lessons · 242 min (4.0 h) of finished audio at 155 wpm.**
+**28 teach lessons · 244 min (4.1 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not on this list. They're screen captures you narrate in your
 own words off the DO / SEE / ⚠ sheets, and they happen after the teach lessons
@@ -71,12 +71,12 @@ changed once, in both places, before you record.
 | 1.4 | *Walkthrough: set up your plan in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 | 1.5 | *Walkthrough: build your baseline in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 2 — Cash Flow + Reserve · 38 min
+### Module 2 — Cash Flow + Reserve · 39 min
 
 | # | Lesson | min |
 |---|---|---|
 | 2.1 | Find your surplus and your two spending numbers | 11.1 |
-| 2.2 | Size your cash reserve in months of spending | 10.8 |
+| 2.2 | Size your cash reserve in months of spending | 12.0 |
 | 2.3 | Fund a known future cost: the six questions | 7.8 |
 | 2.4 | Optional: college is a funding stack | 8.5 |
 | 2.5 | *Walkthrough: build cash flow and reserve in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
@@ -98,12 +98,12 @@ changed once, in both places, before you record.
 | 4.4 | Asset location: which account each holding belongs in | 6.4 |
 | 4.5 | *Walkthrough: route it in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 5 — Tax Strategy · 13 min
+### Module 5 — Tax Strategy · 14 min
 
 | # | Lesson | min |
 |---|---|---|
 | 5.1 | Cost basis: what you paid, and how to reconstruct it | 5.4 |
-| 5.2 | Taxable, tax-deferred, and Roth: bracket windows and state taxes | 8.0 |
+| 5.2 | Taxable, tax-deferred, and Roth: bracket windows and state taxes | 8.7 |
 | 5.3 | *Walkthrough: model it in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
 ### Module 6 — Retirement Income · 26 min
@@ -145,7 +145,7 @@ changed once, in both places, before you record.
 
 ---
 
-**28 teach lessons · 242 min (4.0 h) of finished audio at 155 wpm.**
+**28 teach lessons · 244 min (4.1 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not dictated. They are screen captures you narrate in
 your own words off the DO / SEE / ⚠ sheets, and they happen after the

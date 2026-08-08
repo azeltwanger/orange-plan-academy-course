@@ -67,6 +67,17 @@ All three. Not two.
 
 If Orange Plan doesn't show you that combination, your core tax plan is complete without the conversion lesson, and you can skip it with a clear conscience. If it does show all three, the advanced library has the full lesson, and it opens with the actual question rather than definitions: does paying some tax earlier reduce the total tax you pay over your life?
 
+== YOUR DECISION ==
+
+[🔶 F24 — ADDED BEAT, not new teaching. This lesson had PUT IT IN ORANGE
+PLAN and YOU ARE DONE WHEN but no YOUR DECISION, so it was the one core lesson
+that told you what to do without naming what you were deciding. The wording below
+is taken from your own done-when line. Say it your way.]
+
+Your decision here is whether you are acting in this year's window or
+deliberately passing on it. A pass is a real answer, and it is a finished one, as
+long as you made it on purpose after looking.
+
 == PUT IT IN ORANGE PLAN ==
 
 Strategy → Tax → Moves this year. Model one sale and read the tax it produces.

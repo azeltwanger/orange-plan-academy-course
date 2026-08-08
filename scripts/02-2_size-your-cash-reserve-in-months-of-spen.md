@@ -55,10 +55,29 @@ Before you pick and decide what your cash reserve is going to be, I think it's i
 
 I don't think there's a wrong answer here. A lot of this, like I said, comes down to your risk tolerance. I think having at least 3 months of a reserve while you're working, and then 12 months once you go into retirement, can protect you against selling assets at the wrong time and prevent sequence-of-return risks in retirement.
 
-== HOMEWORK ==
+== YOUR DECISION ==
 
-Your homework for this lesson is to:
+[🔶 F24 — RESTRUCTURED CLOSE, not new teaching. This lesson used to end
+with a HOMEWORK block, which is the pattern MODULE-CHECKPOINTS replaced. The
+three beats below are your own words from the homework and from the scenario
+question above, re-sorted so this lesson contributes its line to the Module 2
+checkpoint like every other core lesson. Nothing was added. Say it your way.]
 
-1. Pick what your target amount of months that you want saved is.
-2. Multiply that by your bare-bones spending.
-3. Enter both into the reserve settings in the app.
+Your decision here is your target number of months, and the risk-tolerance
+answer sitting behind it. The scenario question is how you get there: would you
+rather hold more cash now and spend through a bad stretch safely, or take the
+risk of selling into a 50% drawdown and cut hard to bare-bones. There's no wrong
+answer, but pick it deliberately, because the number you choose is only defensible
+if you know which of those two you are.
+
+== PUT IT IN ORANGE PLAN ==
+
+Cash Flow → Reserve settings. Set your bare-bones floor, then set target months.
+Your target amount is that number of months times your bare-bones spending, and
+you do that multiplication, not the app.
+
+== YOU ARE DONE WHEN ==
+
+Your reserve target is set in months of spending, the app shows how many months
+you actually hold, and you can say what the reserve is for in one sentence: so a
+bad month never forces a Bitcoin sale.

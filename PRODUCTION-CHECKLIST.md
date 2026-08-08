@@ -57,7 +57,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ## ☐ MODULE 2 — CASH FLOW + RESERVE   ·   WAVE 1
 
 ☐ 2.1 Find your surplus and your two spending numbers — 🎙 film (~11 min)
-☐ 2.2 Size your cash reserve in months of spending — 🎙 film (~11 min)
+☐ 2.2 Size your cash reserve in months of spending — 🎙 film (~12 min)
 ☐ 2.3 Fund a known future cost: the six questions — 🎙 film (~8 min)
 ☐ 2.4 Optional: college is a funding stack — 🎙 film (~8 min)
 ☐ 2.5 Walkthrough: build cash flow and reserve in Orange Plan — 🖥 capture
@@ -81,7 +81,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ## ☐ MODULE 5 — TAX STRATEGY   ·   WAVE 2
 
 ☐ 5.1 Cost basis: what you paid, and how to reconstruct it — 🎙 film (~5 min)
-☐ 5.2 Taxable, tax-deferred, and Roth: bracket windows and state taxes — 🎙 film (~8 min)
+☐ 5.2 Taxable, tax-deferred, and Roth: bracket windows and state taxes — 🎙 film (~9 min)
 ☐ 5.3 Walkthrough: model it in Orange Plan — 🖥 capture
 ☐ Paste the Module 5 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
 

@@ -25,6 +25,8 @@ sum of them:
 
 ## Module 0 — Start Here
 
+**You will build:** You know how the course works, how the AI works, and the one rule about what never goes into it.
+
 **You are done when:**
 
 - [ ] You know which modules are US-shaped, and what you will do about it if you are outside the US
@@ -35,6 +37,8 @@ sum of them:
 ---
 
 ## Module 1 — Baseline, assumptions, and your confidence number
+
+**You will build:** A verified baseline and documented assumptions.
 
 **You are done when:**
 
@@ -47,6 +51,8 @@ sum of them:
 ---
 
 ## Module 2 — Cash flow and the no-sell reserve
+
+**You will build:** A true surplus, both spending levels, and a reserve policy.
 
 **You are done when:**
 
@@ -62,6 +68,8 @@ sum of them:
 
 ## Module 3 — Debt policy
 
+**You will build:** A written job for every debt.
+
 **You are done when:**
 
 - [ ] Every debt is entered with a **real, current rate** — logged in and checked, not remembered
@@ -73,6 +81,8 @@ sum of them:
 ---
 
 ## Module 4 — Allocation, asset location, and the next dollar
+
+**You will build:** A target mix and a next-dollar policy.
 
 **You are done when:**
 
@@ -94,6 +104,8 @@ sum of them:
 
 ## Module 5 — Your Bitcoin tax plan
 
+**You will build:** A cost-basis record and a tax-window plan.
+
 **You are done when:**
 
 - [ ] Your cost basis is reconstructed and **the records exist to prove it** — no records means a basis of zero, which means tax on the entire sale price
@@ -105,6 +117,8 @@ sum of them:
 ---
 
 ## Module 6 — Your retirement paycheck
+
+**You will build:** A retirement paycheck, a withdrawal order, and guardrails.
 
 **You are done when:**
 
@@ -119,6 +133,8 @@ sum of them:
 
 ## Module 7 — Custody and recovery
 
+**You will build:** A proven recovery and a no-secrets custody map.
+
 **You are done when:**
 
 - [ ] Your custody level matches your current stack **and who depends on it**
@@ -131,6 +147,8 @@ sum of them:
 ---
 
 ## Module 8 — Estate and family protection
+
+**You will build:** A beneficiary review, an executor path, an heir letter, and a family handoff.
 
 **You are done when:**
 
@@ -146,6 +164,8 @@ sum of them:
 ---
 
 ## Module 9 — Maintain, test, and read the plan
+
+**You will build:** A monthly routine, an annual review date, saved scenarios, and a saved report.
 
 **You are done when:**
 

@@ -49,11 +49,15 @@ for d in ('.', 'scripts', 'scripts/advanced', 'lesson-text', 'lesson-text/advanc
         #     retired. Rewording that to satisfy this checker would delete the
         #     finding. Anything still filming from that file is the real problem,
         #     and the banner is what prevents it.
+        #   CLAIM-REGISTRY.md — the rule that FORBIDS "Module 10" has to quote it
+        #     to match it. Scanning the registry means this checker fights the
+        #     gate that enforces the same thing one layer down.
         if f.endswith('.md') and f not in ('ALL-SCRIPTS.md', 'FILM-ORDER.md',
                                            'DICTATION-ORDER.md', 'SCREEN-SHOOT-LIST.md',
                                            'PRODUCTION-CHECKLIST.md',
                                            'COURSE-IMPROVEMENT-ANALYSIS.md',
-                                           'FILMING-CHECKLIST.md'):
+                                           'FILMING-CHECKLIST.md',
+                                           'CLAIM-REGISTRY.md'):
             FILES.append(os.path.join(d, f))
 
 REF = re.compile(r'\b(?:lesson|segment|walkthrough|see|in)\s+(A?\d+\.\d+)\b', re.I)

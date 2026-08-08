@@ -58,8 +58,16 @@ If Bitcoin dropped 50% tomorrow and your income stopped for six months, would yo
 
 Open **Plan Guide** and ask for *"set my reserve target."* It asks about your income stability, then lands on a month count for your situation.
 
-## Homework
+## Your decision
 
-1. Pick your target months.
-2. Multiply by your bare-bones floor.
-3. Enter both in the app's reserve settings (shown in the walkthrough).
+Your target number of months, and **the risk-tolerance answer behind it.** The four-options question is how you get there: hold more cash now, sell into the drawdown, borrow, or cut hard. All four pay for the same six months at different prices, and **the only one you can buy in advance is cash.**
+
+## Put it in Orange Plan
+
+**Cash Flow → Reserve settings.** Set your bare-bones floor, then set **Target months**.
+
+⚠ Your target amount is months × bare-bones spending. **You do that multiplication, not the app.**
+
+## You are done when
+
+Your reserve target is set **in months of spending**, the app shows how many months you actually hold, and you can say what the reserve is *for* in one sentence: so a bad month never forces a Bitcoin sale.

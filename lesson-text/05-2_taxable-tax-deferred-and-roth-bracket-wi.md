@@ -30,6 +30,10 @@ When you sell, you owe federal tax, and then your state can tax the same gain ag
 
 Open **Plan Guide** and ask for *"identify tax planning opportunities."* It screens your current year and your future tax windows and comes back with the one that most changes your plan.
 
+## Your decision
+
+**Whether you are acting in this year's window, or deliberately passing on it.** A pass is a real answer and a finished one, provided you made it on purpose after looking.
+
 ## Put it in Orange Plan
 
 Strategy → Tax → Moves this year. Model one sale and read the tax it produces.
