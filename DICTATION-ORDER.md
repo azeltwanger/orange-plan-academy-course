@@ -3,7 +3,7 @@
 Read top to bottom. Nothing below depends on a decision you haven't made yet,
 as long as you settle the five things in the next section first.
 
-**27 teach lessons · 233 min (3.9 h) of finished audio at 155 wpm.**
+**27 teach lessons · 238 min (4.0 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not on this list. They're screen captures you narrate in your
 own words off the DO / SEE / ⚠ sheets, and they happen after the teach lessons
@@ -70,13 +70,13 @@ changed once, in both places, before you record.
 | 2.4 | *Walkthrough: set up your plan in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 | 2.5 | *Walkthrough: build your baseline in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 2 — Cash Flow + Reserve · 34 min
+### Module 2 — Cash Flow + Reserve · 36 min
 
 | # | Lesson | min |
 |---|---|---|
 | 3.1 | Find your surplus and your two spending numbers | 11.1 |
 | 3.2 | Size your cash reserve in months of spending | 10.8 |
-| 3.3 | Fund known future costs: college, cars, a house, repairs | 12.5 |
+| 3.3 | Fund known future costs: college, cars, a house, repairs | 14.5 |
 | 3.4 | *Walkthrough: build cash flow and reserve in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
 ### Module 3 — Debt Strategy · 9 min
@@ -113,27 +113,27 @@ changed once, in both places, before you record.
 | 7.5 | Guardrails: how much you can spend each year | 8.0 |
 | 7.6 | *Walkthrough: build the paycheck in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 7 — Custody · 24 min
+### Module 7 — Custody · 25 min
 
 | # | Lesson | min |
 |---|---|---|
-| 8.1 | Choose the custody setup that matches your stack and family | 9.8 |
+| 8.1 | Choose the custody setup that matches your stack and family | 10.9 |
 | 8.2 | Set up a hardware wallet and test recovery | 7.4 |
 | 8.3 | Single points of failure, account hardening, and scams | 6.6 |
 | 8.4 | *External demo: hardware wallet setup + exchange hardening* | — DEMO, narrated off the sheet |
 | 8.5 | *Walkthrough: document your custody map in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 8 — Estate & Inheritance · 34 min
+### Module 8 — Estate & Inheritance · 36 min
 
 | # | Lesson | min |
 |---|---|---|
-| 9.1 | The executor, the four legal documents, and choosing an estate attorney | 9.3 |
+| 9.1 | The executor, the four legal documents, and choosing an estate attorney | 10.8 |
 | 9.2 | Split access: dual control and redundancy | 10.1 |
 | 9.3 | The heir letter and the dead man's switch | 7.4 |
 | 9.4 | Insurance: term life, disability, umbrella, and when to stop | 7.7 |
 | 9.5 | *Walkthrough: Protect, the heir letter, and the switch* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 9 — Maintain, Test, and Read the Plan · 20 min
+### Module 9 — Maintain, Test, and Read the Plan · 21 min
 
 | # | Lesson | min |
 |---|---|---|
@@ -143,7 +143,7 @@ changed once, in both places, before you record.
 
 ---
 
-**27 teach lessons · 233 min (3.9 h) of finished audio at 155 wpm.**
+**27 teach lessons · 238 min (4.0 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not dictated. They are screen captures you narrate in
 your own words off the DO / SEE / ⚠ sheets, and they happen after the

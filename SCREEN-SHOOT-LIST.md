@@ -266,7 +266,8 @@ forward and restarting is where the retakes come from. Where a sheet has
 12. ☐ F1 · Read the projected estate
 13. ☐ F2 · Save the artifact
 14. ☐ G1 · Run the gate, then stop or continue
-15. ☐ WRAP — spot check off the screen
+15. ☐ G2 · The family handoff review
+16. ☐ WRAP — spot check off the screen
 
 ---
 

@@ -39,6 +39,11 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 > day. Do not hand-edit it — that is how the last one ended up naming
 > lessons that no longer exist.
 
+> **The per-lesson list below is GENERATED** by
+> `tools/build-production-checklist.py`. Regenerate it before every shoot
+> day. Do not hand-edit it — that is how the last one ended up naming
+> lessons that no longer exist.
+
 ## ☐ ONE-TIME SETUP (before any filming)
 
 ☐ Fresh demo account seeded with the couple's numbers (card: income $190k · spending $80k · 1.75 BTC · $280k mortgage @3.25% · $18k car @7% · 401k $12k/yr · Roth $7k/yr)
@@ -50,6 +55,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ Camera/audio test clip reviewed
 
 ---
+
 
 
 
@@ -73,7 +79,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ☐ 3.1 Find your surplus and your two spending numbers — 🎙 film (~11 min)
 ☐ 3.2 Size your cash reserve in months of spending — 🎙 film (~11 min)
-☐ 3.3 Fund known future costs: college, cars, a house, repairs — 🎙 film (~12 min)
+☐ 3.3 Fund known future costs: college, cars, a house, repairs — 🎙 film (~15 min)
 ☐ 3.4 Walkthrough: build cash flow and reserve in Orange Plan — 🖥 capture
 ☐ Paste the Module 2 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
 
@@ -109,7 +115,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ## ☐ MODULE 7 — CUSTODY   ·   WAVE 2
 
-☐ 8.1 Choose the custody setup that matches your stack and family — 🎙 film (~10 min)
+☐ 8.1 Choose the custody setup that matches your stack and family — 🎙 film (~11 min)
 ☐ 8.2 Set up a hardware wallet and test recovery — 🎙 film (~7 min)
 ☐ 8.3 Single points of failure, account hardening, and scams — 🎙 film (~7 min)
 ☐ 8.4 External demo: hardware wallet setup + exchange hardening — 🖥 capture
@@ -118,7 +124,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ## ☐ MODULE 8 — ESTATE & INHERITANCE   ·   WAVE 2
 
-☐ 9.1 The executor, the four legal documents, and choosing an estate attorney — 🎙 film (~9 min)
+☐ 9.1 The executor, the four legal documents, and choosing an estate attorney — 🎙 film (~11 min)
 ☐ 9.2 Split access: dual control and redundancy — 🎙 film (~10 min)
 ☐ 9.3 The heir letter and the dead man's switch — 🎙 film (~7 min)
 ☐ 9.4 Insurance: term life, disability, umbrella, and when to stop — 🎙 film (~8 min)
@@ -127,7 +133,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ## ☐ MODULE 9 — MAINTAIN, TEST, AND READ THE PLAN   ·   WAVE 2
 
-☐ 10.1 Keep the plan current: the monthly pass and the annual review — 🎙 film (~9 min)
+☐ 10.1 Keep the plan current: the monthly pass and the annual review — 🎙 film (~10 min)
 ☐ 10.2 Test a decision and read the finished plan — 🎙 film (~11 min)
 ☐ 10.3 Walkthrough: annual review, scenarios, and your report — 🖥 capture
 ☐ Paste the Module 9 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
@@ -137,7 +143,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 *Publish every advanced lesson as student-facing TEXT at launch. Film in this order afterwards.*
 
 ☐ 1. 6.3 RMD risk and Roth conversions — 🎙 film (~10 min)
-☐ 2. A3.1 Borrow against Bitcoin without getting liquidated — 🎙 film (~16 min)
+☐ 2. A3.1 Borrow against Bitcoin without getting liquidated — 🎙 film (~17 min)
 ☐ 3. 7.4 Sell, borrow, or hold: funding a year of spending — 🎙 film (~8 min)
 ☐ 4. 6.4 Harvesting losses and gains — 🎙 film (~8 min)
 ☐ 5. 8.5 Advanced custody: passphrase, multisig, and collaborative — 🎙 film (~16 min)
