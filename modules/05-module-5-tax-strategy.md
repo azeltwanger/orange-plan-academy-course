@@ -412,9 +412,9 @@ The next module covers retirement income: how to turn your assets into a paychec
 worth watching only when its condition is true for you. Continue only if
 one of these describes your situation:
 
-- **6.3 RMD risk and Roth conversions**
+- **A5.1 RMD risk and Roth conversions**
   → *Watch this only when all three are true on your own Tax page: you hold meaningful pre-tax retirement assets, you expect lower-income years before forced distributions begin, and you have a way to pay the conversion tax that is not the converted money. All three, not two. If Orange Plan does not show that combination, your core tax plan is complete without it.*
-- **6.4 Harvesting losses and gains**
+- **A5.2 Harvesting losses and gains**
   → *Watch this if your Tax page shows either harvestable losses or unused 0% gains room this year. If it shows neither, there is nothing to harvest and your tax plan is complete.*
 - **A5.3 State taxes and relocation: what the lever is actually worth**
   → *Watch this if either is true: you are actually considering a move, or your Tax page shows an unrealized gain large enough that your state's rate would change what you do. If moving is not on the table, your tax plan is complete without this.*
