@@ -397,3 +397,30 @@ closes at the microphone, not in the file. What the measurement is good for:
 Run it on anything rewritten:
 
     python3 tools/voice-compare.py scripts/09-2*
+
+---
+
+## The two drift flags that carry no signal (measured 2026-08-08)
+
+⚠ **`tools/voice-compare.py` had been raising `FileNotFoundError` since the
+renumber** and therefore measuring nothing. Its calibration master was hardcoded
+to `scripts/03-2_size-your-cash-reserve…`, which the renumber moved to `02-2`. It
+now resolves the master by content — the reserve lesson carrying `AUSTIN
+DICTATION` — so a renumber cannot silently switch the voice tool off again.
+
+**With it running, two of its eight metrics flag on EVERY teach script in the
+course, including Austin's own dictated 0.1 and 1.1:**
+
+| Metric | Master | Every other script | Verdict |
+|---|---|---|---|
+| `going_to` | 22.5 / 1k | 0.7 – 13.1 | **No signal.** 2.2 is unusually future-tense |
+| `median_len` | 20 words | 9 – 18 | **No signal.** 2.2 has unusually long sentences |
+
+A flag that fires on all 27 scripts is not measuring drift, it is measuring the
+calibration master. **Do not "fix" a script toward those two numbers** — doing it
+across the course would mean rewriting Austin's own dictation to match one lesson
+of his own dictation.
+
+**The metrics that do discriminate are `chaining`, `article` and `Here's`.**
+Course-wide those run 5–24%, 12–35%, and 0.0–0.6 respectively. A script outside
+those bands is worth reading; one inside them is in register.

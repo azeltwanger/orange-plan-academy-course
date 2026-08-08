@@ -64,7 +64,7 @@ That last one is the actual risk control, and it's much narrower than "fully fun
 
 This applies to all of them. A car. A wedding. A house. Home repairs. Money going into a business. Helping family. And college, which is the one where the mistake costs the most.
 
-College gets its own lesson, the next one, because every one of those six questions has a real answer there and it takes a while to work through properly. If you don't have children and you don't have another education goal you expect to help pay for, skip it. Your Module 2 plan is complete without it.
+College gets its own lesson, because every one of those six questions has a real answer there and it takes a while to work through properly. If you don't have children and you don't have another education goal you expect to help pay for, skip it. Your Module 2 plan is complete without it.
 
 == YOUR DECISION ==
 

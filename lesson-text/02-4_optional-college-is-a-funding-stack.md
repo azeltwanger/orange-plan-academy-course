@@ -2,7 +2,7 @@
 
 > **This lesson is optional.** It applies if you have children, or another education goal you expect to help pay for. If you don't, skip it — your Module 2 plan is complete without it, and nothing later in the course depends on it.
 
-Same six questions as 2.3, applied to the one dated cost where getting it wrong is most expensive.
+Same six questions as the future-cost lesson, applied to the one dated cost where getting it wrong is most expensive.
 
 ## College is a funding stack, not a bill you prepay
 
@@ -91,7 +91,7 @@ What you are actually committing to provide. A fixed amount per child, four year
 
 ## Put it in Orange Plan
 
-Same two places as 2.3, with one difference that matters.
+Same two places as the future-cost lesson, with one difference that matters.
 
 | What | Where | The college difference |
 |---|---|---|

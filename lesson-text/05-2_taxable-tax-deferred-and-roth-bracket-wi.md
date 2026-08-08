@@ -32,7 +32,7 @@ Open **Plan Guide** and ask for *"identify tax planning opportunities."* It scre
 
 ## Your decision
 
-**Whether you are acting in this year's window, or deliberately passing on it.** A pass is a real answer and a finished one, provided you made it on purpose after looking.
+**Whether you are acting in this year's window, or passing on it.** A pass counts as done, provided you looked first and decided on purpose.
 
 ## Put it in Orange Plan
 

@@ -63,12 +63,12 @@ three beats below are your own words from the homework and from the scenario
 question above, re-sorted so this lesson contributes its line to the Module 2
 checkpoint like every other core lesson. Nothing was added. Say it your way.]
 
-Your decision here is your target number of months, and the risk-tolerance
-answer sitting behind it. The scenario question is how you get there: would you
-rather hold more cash now and spend through a bad stretch safely, or take the
-risk of selling into a 50% drawdown and cut hard to bare-bones. There's no wrong
-answer, but pick it deliberately, because the number you choose is only defensible
-if you know which of those two you are.
+Your decision here is your target number of months, and how much risk you're
+willing to carry to get there. Go back to the scenario question: would you rather
+hold more cash now and spend through a bad stretch safely, or take the risk of
+selling into a 50% drawdown and cut hard down to bare-bones? There's no wrong
+answer. But pick it on purpose, because if you don't know which of those two you
+are, you're just guessing at the number.
 
 == PUT IT IN ORANGE PLAN ==
 

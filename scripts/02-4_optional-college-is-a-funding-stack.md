@@ -6,9 +6,9 @@ the second half of one continuous take; the edit cuts in immediately before the
 first line below.
 ============================================================
 
-This lesson is optional, and I want to say who it's for before you spend seven minutes on it. It's for you if you have children, or any other education goal you expect to help pay for. If you don't, skip it. Your Module 2 plan is complete without it, and nothing later in the course depends on it.
+This lesson is optional. It's for you if you have children, or any other education goal you expect to help pay for. If you don't, skip it. Your Module 2 plan is complete without it, and nothing later in the course depends on it.
 
-Everybody else: this is the same six questions from the last lesson, applied to the one dated cost where getting it wrong is most expensive.
+So if you're still here, this is the same six questions from the future-cost lesson, applied to the one dated cost where getting it wrong is most expensive.
 
 == COLLEGE IS A FUNDING STACK, NOT A BILL YOU PREPAY ==
 
@@ -78,7 +78,7 @@ What you are actually committing to provide. A fixed amount per child, four year
 
 == PUT IT IN ORANGE PLAN ==
 
-Same two places as the last lesson, with one difference that matters.
+Same two places as the future-cost lesson, with one difference that matters.
 
 The cost goes in at Plan → Retirement → Life events → Add event. Name it, set the year, set the amount, and mark it recurring for the four years of tuition.
 

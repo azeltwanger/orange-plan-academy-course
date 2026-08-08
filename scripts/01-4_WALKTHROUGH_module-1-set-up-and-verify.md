@@ -71,7 +71,7 @@ Salary entered here makes every downstream projection wrong. Hit this hard.
 
 **⚠** Leave both self-employment fields blank. Retirement spending also excludes debt payments.
 
-**⚠ NUMBER FLOW — name it here, because this is the first place it bites.** Say the three labels out loud and keep using them for the rest of the course: **CALCULATED FROM** income minus taxes minus living minus debt · **EDIT SOURCE** this screen, and later Cash Flow → Routing · **THIS AFFECTS** your surplus, which drives reserve funding, contribution routing, and your retirement date. Point at the Monthly room tile while you say it.
+**⚠ NUMBER FLOW — introduce the three labels here and keep using them for the rest of the course.** With the Monthly room tile on screen: **CALCULATED FROM** income minus taxes minus living minus debt · **EDIT SOURCE** this screen, and later Cash Flow → Routing · **THIS AFFECTS** your surplus, which drives reserve funding, contribution routing, and your retirement date.
 
 ---
 
@@ -195,7 +195,7 @@ Salary entered here makes every downstream projection wrong. Hit this hard.
 
 ## □ B5 · Close the onboarding half
 
-**⚠** Don't let them stop at a plan they haven't checked. Say it plainly: an unverified plan is a demo, not a baseline. Name what comes next — verify every number, shield the reserve, run the real ring.
+**⚠** Don't let them stop at a plan they haven't checked. An unverified plan is a demo, not a baseline. Name what comes next: verify every number, shield the reserve, run the real ring.
 
 ---
 
@@ -222,7 +222,7 @@ Nothing has been verified yet, which is exactly what chapter C opens on.
 
 **⚠** The bar is accurate, not perfect.
 
-**⚠ NUMBER FLOW — this is the lesson of the whole chapter.** Every total on this page is **CALCULATED FROM** rows underneath it. There is no field for a total. When a student asks "where did this number come from?", the answer is always: open the group, find the row, fix the row.
+**⚠ NUMBER FLOW.** Every total on this page is **CALCULATED FROM** rows underneath it. There is no field for a total. When a student asks "where did this number come from?", the answer is always: open the group, find the row, fix the row.
 
 ---
 

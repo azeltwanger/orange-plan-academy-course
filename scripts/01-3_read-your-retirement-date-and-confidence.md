@@ -21,13 +21,13 @@ idea either way.]
 
 🎬 GRAPHIC: the number-flow frame. WHAT YOU CHANGE → WHAT THE APP CALCULATES → WHAT MOVES DOWNSTREAM, with the three worked rows underneath. This same frame comes back in every module walkthrough.
 
-One thing that'll save you a lot of confusion for the rest of the course. Nothing in this app is typed in twice. Every number you see is calculated from something upstream of it, it has exactly one place you can edit it, and it pushes something downstream.
+Nothing in this app is typed in twice. Every number you see is calculated from something upstream of it, it has exactly one place you can edit it, and it pushes something downstream.
 
-So there are three questions worth asking about any number on your screen. What is it calculated from. Where do I edit it. And what does it affect.
+So for any number on your screen, you've got three questions. What is it calculated from? Where do I edit it? And what does it affect?
 
 You can see three examples on screen. Your income, minus taxes, minus living, minus debt, gives you your surplus, and your surplus drives your reserve funding, your contribution routing, and your retirement date. A life event becomes future spending in the year you set, and that pulls from accounts, and it moves your retirement date and your confidence. And your return assumption drives your projected balances and your simulated paths, which is what sets your earliest date and your confidence number.
 
-Every walkthrough in this course points at those same three things when a number matters. If you ever find yourself staring at a figure wondering where it came from, that's the question to ask, and there's always an answer.
+Every walkthrough in this course is going to point at those same three things when a number matters. So any time you're looking at a number and you don't know where it came from, work those three questions and you'll find it.
 
 == YOUR EARLIEST RETIREMENT DATE ==
 

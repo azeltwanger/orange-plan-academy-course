@@ -242,7 +242,7 @@ So hold it loosely in both directions. Don't treat an exciting date as finished,
 
 Nothing in this app is typed in twice. Every number you see is **calculated from** something upstream, has exactly one **edit source**, and **affects** something downstream.
 
-So there are three questions worth asking about any number on your screen: what is it calculated from · where do I edit it · what does it affect.
+So for any number on your screen, you've got three questions: what is it calculated from · where do I edit it · what does it affect.
 
 | What you change | What the app calculates | What moves downstream |
 |---|---|---|
@@ -250,7 +250,7 @@ So there are three questions worth asking about any number on your screen: what 
 | A **life event** | Future spending in that year | Account withdrawals, retirement date, confidence |
 | A **return assumption** | Projected balances and simulated paths | Earliest date and confidence number |
 
-Every walkthrough in this course points at those same three things when a number matters. If you find yourself staring at a figure wondering where it came from, that is the question to ask, and there is always an answer.
+Every walkthrough in this course points at those same three things when a number matters. Any time you are looking at a number and do not know where it came from, work those three questions and you will find it.
 
 ### Your earliest retirement date
 

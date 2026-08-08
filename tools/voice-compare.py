@@ -31,7 +31,21 @@ grammatically his and still says nothing.
 """
 import re, sys, glob, os, statistics
 
-MASTER = 'scripts/03-2_size-your-cash-reserve-in-months-of-spen.md'
+# The calibration master is the reserve lesson Austin dictated himself. Its path
+# was hardcoded as 'scripts/03-2_...' and the renumber moved it to 02-3 and then
+# 02-2, so this tool has raised FileNotFoundError — and therefore measured
+# nothing — since the renumber. A voice tool that cannot run is worse than no
+# voice tool: it looks like coverage. Resolve it by content instead.
+def _find_master():
+    for f in sorted(glob.glob('scripts/[0-9]*.md')):
+        head = open(f, encoding='utf-8').read(400)
+        if 'AUSTIN DICTATION' in head and 'reserve' in f:
+            return f
+    raise SystemExit('no AUSTIN DICTATION reserve lesson found in scripts/ — '
+                     'set the calibration master by hand')
+
+
+MASTER = _find_master()
 CHAIN = re.compile(r'^(so|and|but|now|then)\b', re.I)
 ART = re.compile(r'^(the|a|an|this|that|these|those)\b', re.I)
 

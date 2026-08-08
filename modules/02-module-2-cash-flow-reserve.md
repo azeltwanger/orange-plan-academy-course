@@ -223,7 +223,7 @@ Your answer is what your reserve size should reflect. All four options pay for t
 > from the four-options question above, re-sorted so 2.2 contributes its line to
 > the Module 2 checkpoint like every other core lesson. Nothing was added.
 
-Your target number of months, and **the risk-tolerance answer sitting behind it.** The four-options question is how you get there: hold more cash now, sell into the drawdown, borrow, or cut hard. All four pay for the same six months at different prices, and **the only one you can buy in advance is cash.** There is no wrong answer, but the number is only defensible if you know which of the four you are.
+Your target number of months, and **how much risk you are willing to carry to get there.** The four-options question is how you get there: hold more cash now, sell into the drawdown, borrow, or cut hard. All four pay for the same six months at different prices, and **the only one you can buy in advance is cash.** There is no wrong answer, but pick it on purpose — if you do not know which of the four you are, you are guessing at the number.
 
 ### Put it in Orange Plan
 
@@ -343,7 +343,7 @@ Which of your dated costs get pre-funded, and in which lane.
 | **The container** | Strategy → Allocation → raise the **Bridge** target by what you're accumulating | So the money sits somewhere that won't be down 40% the year the bill lands |
 | **The monthly amount** | Cash Flow → **Routing** | For a fixed cost: your target divided by the months you've got |
 
-⚠ **You do the division, not the app.** The number is one calculation you can do in your head. What matters is the two entries above: the cost, so the projection knows the bill is coming, and the lane, so the money sits somewhere safe.
+⚠ **You do the division, not the app.** The number is one calculation you can do in your head. The two entries above are what change the plan: the cost, so the projection knows the bill is coming, and the lane, so the money sits somewhere safe.
 
 ### You are done when
 
@@ -455,7 +455,7 @@ What you are actually committing to provide. A fixed amount per child, four year
 
 ### Put it in Orange Plan
 
-Same two places as 2.3, with one difference that matters.
+Same two places as the future-cost lesson, with one difference that matters.
 
 | What | Where | The college difference |
 |---|---|---|

@@ -212,7 +212,7 @@ Named here, taught in the library, because it only becomes a real decision for s
 > said what to do without naming what was being decided. The wording is lifted
 > from its own done-when line.
 
-**Whether you are acting in this year's window, or deliberately passing on it.** A pass is a real answer and a finished one, provided you made it on purpose after looking.
+**Whether you are acting in this year's window, or passing on it.** A pass counts as done, provided you looked first and decided on purpose.
 
 ### Put it in Orange Plan
 

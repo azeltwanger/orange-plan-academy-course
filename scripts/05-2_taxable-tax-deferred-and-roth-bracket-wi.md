@@ -74,9 +74,8 @@ PLAN and YOU ARE DONE WHEN but no YOUR DECISION, so it was the one core lesson
 that told you what to do without naming what you were deciding. The wording below
 is taken from your own done-when line. Say it your way.]
 
-Your decision here is whether you are acting in this year's window or
-deliberately passing on it. A pass is a real answer, and it is a finished one, as
-long as you made it on purpose after looking.
+Your decision here is whether you're acting in this year's window or passing on
+it. A pass counts as done, as long as you looked first and decided on purpose.
 
 == PUT IT IN ORANGE PLAN ==
 

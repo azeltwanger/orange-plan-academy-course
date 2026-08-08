@@ -21,7 +21,7 @@ Nothing in this app is typed in twice. Every number you see is **calculated from
 | A **life event** | Future spending in that year | Account withdrawals, retirement date, confidence |
 | A **return assumption** | Projected balances and simulated paths | Earliest date and confidence number |
 
-Every walkthrough in this course points at the same three things when a number matters: **calculated from · edit source · this affects**. If you are ever staring at a figure wondering where it came from, that is the question to ask, and there is always an answer.
+Every walkthrough in this course points at the same three things when a number matters: **calculated from · edit source · this affects**. Any time you are looking at a number and do not know where it came from, work those three questions and you will find it.
 
 ## How to read it
 

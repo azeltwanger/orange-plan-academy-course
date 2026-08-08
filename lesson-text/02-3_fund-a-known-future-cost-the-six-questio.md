@@ -47,7 +47,7 @@ Question 6 is the real risk control, and it is much narrower than "fully fund it
 
 **These six apply to all of them:** cars, weddings, a house purchase, home repairs, business investment, family support. And college, which is where the mistake costs the most.
 
-**College has its own lesson at 2.4, and it is optional.** Every one of the six questions has a real answer there, and it takes a while to work through properly. No children and no other education goal means Module 2 is complete without it.
+**College has its own lesson, and it is optional.** Every one of the six questions has a real answer there, and it takes a while to work through properly. No children and no other education goal means Module 2 is complete without it.
 
 ## Your decision
 
@@ -63,7 +63,7 @@ Which of your dated costs get pre-funded, and in which lane.
 | **The container** | Strategy → Allocation → raise the **Bridge** target by what you are accumulating | So the money lives somewhere that will not be down 40% the year the bill lands |
 | **The monthly amount** | Cash Flow → **Routing** | For a fixed cost: your target divided by the months you have |
 
-⚠ **You do the division, not the app.** The number is one calculation you can do in your head. What matters is the two entries above: the cost, so the projection knows the bill is coming, and the lane, so the money sits somewhere safe.
+⚠ **You do the division, not the app.** The number is one calculation you can do in your head. The two entries above are what change the plan: the cost, so the projection knows the bill is coming, and the lane, so the money sits somewhere safe.
 
 ## You are done when
 

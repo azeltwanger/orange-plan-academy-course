@@ -60,7 +60,7 @@ Open **Plan Guide** and ask for *"set my reserve target."* It asks about your in
 
 ## Your decision
 
-Your target number of months, and **the risk-tolerance answer behind it.** The four-options question is how you get there: hold more cash now, sell into the drawdown, borrow, or cut hard. All four pay for the same six months at different prices, and **the only one you can buy in advance is cash.**
+Your target number of months, and **how much risk you are willing to carry to get there.** The four-options question is how you get there: hold more cash now, sell into the drawdown, borrow, or cut hard. All four pay for the same six months at different prices, and **the only one you can buy in advance is cash.**
 
 ## Put it in Orange Plan
 

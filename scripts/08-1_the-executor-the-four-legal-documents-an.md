@@ -23,7 +23,7 @@ So how do you pick one? A capable executor is three things at once. Capable, mea
 
 Let's run three candidates for the couple.
 
-The first candidate is his wife. She's trustworthy and available, and for plenty of households a spouse serving as executor is completely fine. It's a problem for this couple because of the access design they're building. In the next lesson they split access so that the heirs hold one piece and the executor holds the other, and no single person can reach the Bitcoin alone. If she's the heir and also the executor, she holds both, and that particular protection collapses on day one.
+The first candidate is his wife. She's trustworthy and available, and for plenty of households a spouse serving as executor is completely fine. It's a problem for this couple because of the access design they're building. In the access-split lesson they split access so that the heirs hold one piece and the executor holds the other, and no single person can reach the Bitcoin alone. If she's the heir and also the executor, she holds both, and that particular protection collapses on day one.
 
 So this isn't a rule that an heir can never be your executor. It's that your executor choice and your access design have to be made together, because one constrains the other.
 

@@ -13,7 +13,7 @@ then M1–M9) in course order. The optional library lives in `MASTER-ADVANCED.md
 <!-- METRICS:START -->
 | | Lessons | Runtime |
 |---|---|---|
-| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **244 min (4.1 h)** |
+| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **243 min (4.1 h)** |
 | **Advanced Library** — optional, gated per lesson | 14 teach | 106 min |
 
 Plus 11 core screen captures (10 walkthroughs + 1 external demo),
@@ -472,7 +472,7 @@ So hold it loosely in both directions. Don't treat an exciting date as finished,
 
 Nothing in this app is typed in twice. Every number you see is **calculated from** something upstream, has exactly one **edit source**, and **affects** something downstream.
 
-So there are three questions worth asking about any number on your screen: what is it calculated from · where do I edit it · what does it affect.
+So for any number on your screen, you've got three questions: what is it calculated from · where do I edit it · what does it affect.
 
 | What you change | What the app calculates | What moves downstream |
 |---|---|---|
@@ -480,7 +480,7 @@ So there are three questions worth asking about any number on your screen: what 
 | A **life event** | Future spending in that year | Account withdrawals, retirement date, confidence |
 | A **return assumption** | Projected balances and simulated paths | Earliest date and confidence number |
 
-Every walkthrough in this course points at those same three things when a number matters. If you find yourself staring at a figure wondering where it came from, that is the question to ask, and there is always an answer.
+Every walkthrough in this course points at those same three things when a number matters. Any time you are looking at a number and do not know where it came from, work those three questions and you will find it.
 
 ### Your earliest retirement date
 
@@ -1218,7 +1218,7 @@ Your answer is what your reserve size should reflect. All four options pay for t
 > from the four-options question above, re-sorted so 2.2 contributes its line to
 > the Module 2 checkpoint like every other core lesson. Nothing was added.
 
-Your target number of months, and **the risk-tolerance answer sitting behind it.** The four-options question is how you get there: hold more cash now, sell into the drawdown, borrow, or cut hard. All four pay for the same six months at different prices, and **the only one you can buy in advance is cash.** There is no wrong answer, but the number is only defensible if you know which of the four you are.
+Your target number of months, and **how much risk you are willing to carry to get there.** The four-options question is how you get there: hold more cash now, sell into the drawdown, borrow, or cut hard. All four pay for the same six months at different prices, and **the only one you can buy in advance is cash.** There is no wrong answer, but pick it on purpose — if you do not know which of the four you are, you are guessing at the number.
 
 ### Put it in Orange Plan
 
@@ -1338,7 +1338,7 @@ Which of your dated costs get pre-funded, and in which lane.
 | **The container** | Strategy → Allocation → raise the **Bridge** target by what you're accumulating | So the money sits somewhere that won't be down 40% the year the bill lands |
 | **The monthly amount** | Cash Flow → **Routing** | For a fixed cost: your target divided by the months you've got |
 
-⚠ **You do the division, not the app.** The number is one calculation you can do in your head. What matters is the two entries above: the cost, so the projection knows the bill is coming, and the lane, so the money sits somewhere safe.
+⚠ **You do the division, not the app.** The number is one calculation you can do in your head. The two entries above are what change the plan: the cost, so the projection knows the bill is coming, and the lane, so the money sits somewhere safe.
 
 ### You are done when
 
@@ -1450,7 +1450,7 @@ What you are actually committing to provide. A fixed amount per child, four year
 
 ### Put it in Orange Plan
 
-Same two places as 2.3, with one difference that matters.
+Same two places as the future-cost lesson, with one difference that matters.
 
 | What | Where | The college difference |
 |---|---|---|
@@ -2934,7 +2934,7 @@ Named here, taught in the library, because it only becomes a real decision for s
 > said what to do without naming what was being decided. The wording is lifted
 > from its own done-when line.
 
-**Whether you are acting in this year's window, or deliberately passing on it.** A pass is a real answer and a finished one, provided you made it on purpose after looking.
+**Whether you are acting in this year's window, or passing on it.** A pass counts as done, provided you looked first and decided on purpose.
 
 ### Put it in Orange Plan
 
@@ -4639,7 +4639,7 @@ Every backup you add to protect against loss is also another potential path to s
 
 It resolves the same way every time: each piece gets its own backup, and that backup stays on its own side. Never in the same house, never in the same safe, never with the person holding the other piece. Do it that way and each side can lose a copy and still recover, while neither side gains anything it shouldn't have. Do it carelessly and a backup in a shared safe quietly collapses your whole design into one person holding everything.
 
-And this is where the executor question from the last lesson comes back. If the design you chose puts the executor on one side and the heirs on the other, then they have to be different people, or you've handed one person both sides on day one. If your design doesn't split them that way, and plenty don't, then a spouse serving as both is fine. It's a consequence of your design, not a rule about executors.
+And this is where the executor question comes back. If the design you chose puts the executor on one side and the heirs on the other, then they have to be different people, or you've handed one person both sides on day one. If your design doesn't split them that way, and plenty don't, then a spouse serving as both is fine. It's a consequence of your design, not a rule about executors.
 
 ### Test it while you're alive
 
