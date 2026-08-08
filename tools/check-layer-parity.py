@@ -18,9 +18,19 @@ layers actually SAY. This does.
 Three checks:
 
   COVERAGE   a master lesson with no script or no lesson-text
-  CLAIMS     a MUST position missing, or a MUST NOT position resurfacing,
-             per CLAIM-REGISTRY.md
+  CLAIMS     per CLAIM-REGISTRY.md. A MUST rule names a lesson and the layers
+             that must EACH carry the claim independently — master, script,
+             lesson-text, module — and every one is resolved and checked on its
+             own. The first version of this check passed if the claim appeared
+             anywhere in a filename-substring scope, which meant a claim could
+             disappear from the master and still pass; worse, those scopes never
+             matched the master filename at all. A MUST NOT rule fails wherever
+             the retired phrasing resurfaces.
   BEATS      a lesson closing beat present in some layers but not others
+
+Matching runs on NORMALISED text: markdown emphasis stripped, whitespace
+collapsed. Otherwise `between **10 and 20% LTV**` in the master and the plain
+form in the script read as a mismatch when the layers actually agree.
 
 Exit 1 on any failure. Coverage notes and deliberate beat exemptions are
 reported but do not fail.
@@ -48,6 +58,7 @@ core = open(os.path.join(root, 'MASTER-COURSE.md'), encoding='utf-8').read()
 adv = open(os.path.join(root, 'MASTER-ADVANCED.md'), encoding='utf-8').read()
 
 fails, notes, passed = [], [], []
+DUPES = []      # a lesson appearing in more than one generated module file
 
 
 # --- the layer map ----------------------------------------------------------
@@ -81,6 +92,58 @@ def sections(text):
     for i, m in enumerate(ms):
         e = ms[i + 1].start() if i + 1 < len(ms) else len(text)
         yield m.group(1), m.group(2), text[m.start():e]
+
+
+def norm(s):
+    """Markdown emphasis and line wrapping are formatting, not meaning."""
+    s = s.replace('**', '').replace('`', '')
+    s = re.sub(r'(?<![\w*])\*([^*\n]+)\*(?![\w*])', r'\1', s)
+    return re.sub(r'\s+', ' ', s)
+
+
+def master_section(num):
+    src = adv if num.startswith('A') else core
+    m = re.search(rf'^## {re.escape(num)} ', src, re.M)
+    if not m:
+        return None
+    nxt = re.search(r'\n#{1,2} (?:A?\d+\.\d+|Unit |Advanced Module )', src[m.end():])
+    return src[m.start():m.end() + nxt.start()] if nxt else src[m.start():]
+
+
+def module_section(num):
+    """modules/ is GENERATED, and checking it independently is the point: the
+    build-module-gates-before-split-modules ordering bug leaves it stale while
+    every hand-edited layer is correct."""
+    d = 'modules/advanced' if num.startswith('A') else 'modules'
+    p = os.path.join(root, d)
+    if not os.path.isdir(p):
+        return None
+    found = []
+    for f in sorted(x for x in os.listdir(p) if x.endswith('.md')):
+        t = open(os.path.join(p, f), encoding='utf-8').read()
+        m = re.search(rf'^## {re.escape(num)} ', t, re.M)
+        if m:
+            nxt = re.search(r'\n#{1,2} (?:A?\d+\.\d+|Unit |Advanced Module )', t[m.end():])
+            found.append((f, t[m.start():m.end() + nxt.start()] if nxt else t[m.start():]))
+    if len(found) > 1:
+        # Two generated files claiming the same lesson means a stale copy from a
+        # rename is still in the tree. Reading "the first one" would silently pick
+        # whichever sorts earlier, which is how the pre-revert A3.1 survived.
+        DUPES.append((num, [f for f, _ in found]))
+    return found[0][1] if found else None
+
+
+def layer_text(num, layer):
+    """The text of ONE layer for ONE lesson, or None if that layer has no file."""
+    a = num.startswith('A')
+    if layer == 'master':
+        return master_section(num)
+    if layer == 'module':
+        return module_section(num)
+    d = {'script': 'scripts/advanced' if a else 'scripts',
+         'lesson-text': 'lesson-text/advanced' if a else 'lesson-text'}[layer]
+    f = find(d, num)
+    return open(os.path.join(root, f), encoding='utf-8').read() if f else None
 
 
 LESSONS = []          # (num, title, master_section, is_advanced)
@@ -119,11 +182,17 @@ def parse_registry():
                      for c in re.split(r'(?<!\\)\|', line.strip().strip('|'))]
             if len(cells) < 3:
                 continue
-            # MUST: id | pattern | scope | why
-            # MUST NOT: id | pattern | scope | unless | why
-            cid, pat, scope = cells[0], cells[1].strip('`'), cells[2].strip('`')
-            unless = cells[3].strip('`') if kind == 'MUST NOT' and len(cells) > 4 else ''
-            out.append((kind, cid, pat, scope, unless))
+            if kind == 'MUST':
+                # id | lesson | pattern | layers | why
+                if len(cells) < 4:
+                    continue
+                out.append((kind, cells[0], cells[1].strip('`'), cells[2].strip('`'),
+                            [x.strip() for x in cells[3].split(',') if x.strip()]))
+            else:
+                # id | pattern | scope | unless | why
+                cid, pat, scope = cells[0], cells[1].strip('`'), cells[2].strip('`')
+                unless = cells[3].strip('`') if len(cells) > 4 else ''
+                out.append((kind, cid, pat, scope, unless))
     return out
 
 
@@ -141,32 +210,83 @@ for d in ('.', 'scripts', 'scripts/advanced', 'lesson-text', 'lesson-text/advanc
         if f.endswith('.md') and f not in HISTORICAL:
             SCAN.append(os.path.join(d, f))
 
-for kind, cid, pat, scope, unless in REGISTRY:
-    try:
-        rx = re.compile(pat)
-    except re.error as e:
-        fails.append(('CLAIMS', cid, f'bad pattern: {e}'))
-        continue
-    files = [f for f in SCAN if scope in f] if scope else SCAN
-    hits = []
-    for rel in files:
-        for ln, line in enumerate(open(os.path.join(root, rel), encoding='utf-8'), 1):
-            if rx.search(line):
-                if unless and re.search(unless, line):
-                    continue
-                hits.append((rel, ln, line.strip()[:72]))
+for row in REGISTRY:
+    kind = row[0]
     if kind == 'MUST':
+        _, cid, lesson, pat, layers = row
+        try:
+            rx = re.compile(pat)
+        except re.error as e:
+            fails.append(('CLAIMS', cid, f'bad pattern: {e}'))
+            continue
+        if lesson.startswith('file:'):
+            fn = lesson.split(':', 1)[1]
+            fp = os.path.join(root, fn)
+            if not os.path.exists(fp):
+                fails.append(('CLAIMS', cid, f'{fn} does not exist'))
+            elif not rx.search(norm(open(fp, encoding='utf-8').read())):
+                fails.append(('CLAIMS', cid, f'MUST be present in {fn} — absent'))
+            elif VERBOSE:
+                passed.append(f'claim {cid}: present in {fn}')
+            continue
+        if not layers:
+            fails.append(('CLAIMS', cid, 'no layers listed — the rule enforces nothing'))
+            continue
+        # Each layer is resolved and checked on its own. This is the whole point:
+        # "present somewhere" is not parity.
+        results = []
+        for layer in layers:
+            txt = layer_text(lesson, layer)
+            if txt is None:
+                results.append((layer, 'NO LAYER'))
+            else:
+                results.append((layer, 'PASS' if rx.search(norm(txt)) else 'FAIL'))
+        bad = [l for l, r in results if r != 'PASS']
+        if bad:
+            detail = ' · '.join(f'{l}: {r}' for l, r in results)
+            fails.append(('CLAIMS', f'{cid} ({lesson})',
+                          f'MUST be present in every listed layer — {detail}'))
+        elif VERBOSE:
+            passed.append(f'claim {cid} ({lesson}): '
+                          + ' · '.join(f'{l}: PASS' for l, _ in results))
+    else:
+        _, cid, pat, scope, unless = row
+        try:
+            rx = re.compile(pat)
+        except re.error as e:
+            fails.append(('CLAIMS', cid, f'bad pattern: {e}'))
+            continue
+        files = [f for f in SCAN if scope in f] if scope else SCAN
         if not files:
             fails.append(('CLAIMS', cid, f'scope "{scope}" matches no file — rule is dead'))
-        elif not hits:
-            fails.append(('CLAIMS', cid, f'MUST be present in {scope or "some layer"} — absent'))
-        elif VERBOSE:
-            passed.append(f'claim {cid}: present in {len(hits)} place(s)')
-    else:
+            continue
+        hits = []
+        for rel in files:
+            raw = open(os.path.join(root, rel), encoding='utf-8').read()
+            seen_line = False
+            for ln, line in enumerate(raw.split('\n'), 1):
+                n = norm(line)
+                if rx.search(n) and not (unless and re.search(unless, n)):
+                    hits.append((rel, str(ln), n.strip()[:72]))
+                    seen_line = True
+            # A forbidden phrase that WRAPS across two lines is invisible to the
+            # per-line pass. Fall back to the whole file, normalised, so wrapping
+            # cannot hide a regression.
+            if not seen_line:
+                whole = norm(raw)
+                m = rx.search(whole)
+                if m and not (unless and re.search(unless, whole[max(0, m.start() - 200):m.end() + 200])):
+                    hits.append((rel, '?', whole[m.start():m.start() + 72]))
         for rel, ln, txt in hits:
             fails.append(('CLAIMS', cid, f'MUST NOT appear — {rel}:{ln}  {txt}'))
         if not hits and VERBOSE:
             passed.append(f'claim {cid}: correctly absent')
+
+
+for num, files in DUPES:
+    fails.append(('CLAIMS', f'{num} duplicated in modules/',
+                  'appears in more than one generated file — a stale copy from a '
+                  'rename is still in the tree: ' + ', '.join(files)))
 
 
 # --- CHECK 3: three-beat closure --------------------------------------------

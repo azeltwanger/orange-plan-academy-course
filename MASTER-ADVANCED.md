@@ -1361,7 +1361,13 @@ So with a passphrase you're splitting two different objects between two people. 
 > gate; it explains the options after it fires. Most households run the gate in
 > 8.5, get a no, and are finished.
 
-> ⛔ **TEXT-ONLY FOR v1. DO NOT FILM.** Two reasons, both deliberate:
+> ⬜ **NO FILMING PLANNED FOR v1.** Not a blocker — there is simply nothing
+> scheduled to shoot here. Film it only if real users open or ask about the trust
+> material.
+>
+> ⚖ **PUBLICATION BLOCKER — estate-attorney review.** This is the constraint that
+> actually holds: the lesson cannot ship to students as text either, until the
+> review clears.
 >
 > 1. ⚖ **Every legal claim in this lesson is pending estate-attorney review** —
 >    revocable vs. irrevocable treatment, creditor protection, taxable-estate

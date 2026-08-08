@@ -6,19 +6,30 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 <!-- STATUS:START -->
 
-> **Status: NOT CLEARED FOR FILMING — 5 open blockers.**
+> **Status: NOT CLEARED FOR FILMING — 3 filming blockers.**
 >
-> The word FINAL is generated, not typed. It appears here only when this
-> list is empty. Each line is a marker found in the layer that carries it,
-> so clearing a blocker means removing its marker at the source.
+> The word FINAL is generated, not typed. It appears only when the
+> filming list below is empty. Each line is a marker found in the layer
+> that carries it, so clearing one means removing its marker at source.
 >
-> - **4.3** — held for redictation · `MASTER-COURSE.md` · `scripts/04-3_order-your-contributions-which-account-g.md`
-> - **4.3** — marked do-not-film · `MASTER-COURSE.md` · `scripts/04-3_order-your-contributions-which-account-g.md`
-> - **A8.1** — marked do-not-film · `MASTER-ADVANCED.md` · `scripts/advanced/A8-1_advanced-do-you-need-a-trust-and-which-o.md`
-> - **A8.1** — pending estate-attorney review · `MASTER-ADVANCED.md`
-> - **A8.1** — text-only for v1 · `MASTER-ADVANCED.md` · `scripts/advanced/A8-1_advanced-do-you-need-a-trust-and-which-o.md`
+> ### 🔴 CORE FILMING BLOCKERS
 >
-> **Do not film a blocked lesson.** Everything not listed above is clear to shoot.
+> - **2.3** (F20) — `MASTER-COURSE.md`
+> - **4.3** (F22) — `MASTER-COURSE.md` · `scripts/04-3_order-your-contributions-which-account-g.md`
+> - **Module 2** (F23) — `MASTER-COURSE.md`
+>
+> ### ⬜ NOT SCHEDULED FOR v1 — not blockers
+>
+> - **A8.1** — no filming planned for v1
+>
+> ### ⚖ PUBLICATION BLOCKERS — can be shot, cannot ship
+>
+> - **A8.1** — `MASTER-ADVANCED.md`
+>
+> Tracked in `LEGAL-REVIEW-PACKET.md`. A publication blocker does
+> not stop a camera; it stops a student seeing the result.
+>
+> **Anything not listed above is clear to shoot.**
 
 <!-- STATUS:END -->
 
@@ -58,7 +69,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ☐ 2.1 Find your surplus and your two spending numbers — 🎙 film (~11 min)
 ☐ 2.2 Size your cash reserve in months of spending — 🎙 film (~12 min)
-☐ 2.3 Fund a known future cost: the six questions — 🎙 film (~8 min)
+☐ 2.3 Fund a known future cost: the six questions — 🎙 film (~8 min)  🔴 BLOCKED — see status block above
 ☐ 2.4 Optional: college is a funding stack — 🎙 film (~8 min)
 ☐ 2.5 Walkthrough: build cash flow and reserve in Orange Plan — 🖥 capture
 ☐ Paste the Module 2 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
@@ -135,4 +146,4 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ — A5.3 State taxes and relocation: what the lever is actually worth — TEXT ONLY for now
 ☐ — A7.3 Concentration: one institution, one vendor, one firmware — TEXT ONLY for now
 ☐ — A7.4 Wallet operations: UTXOs, dust, consolidation, and addresses — TEXT ONLY for now
-☐ — A8.1 Advanced: do you need a trust, and which one? — TEXT ONLY for now  🔴 BLOCKED
+☐ — A8.1 Advanced: do you need a trust, and which one? — TEXT ONLY for now

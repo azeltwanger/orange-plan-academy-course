@@ -9,36 +9,29 @@ brief you are handed.
 
 ## Where the project is
 
-**Content is structurally settled. It is NOT all cleared for filming** — two
-lessons carry blockers, and the production checklist now says so itself instead
-of printing "FINAL" over the top of them.
+**Content is structurally settled. It is NOT all cleared for filming** — the
+production checklist generates its own blocker list and currently refuses to say
+FINAL.
 
-| | Lessons | Runtime |
-|---|---|---|
-| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach + 11 captures | 242 min teaching |
-| **Advanced Library** (optional, gated) | 14 teach | 106 min |
+> ⚠ **No counts, runtimes or command lists live in this file, deliberately.**
+> This is the first document every new session reads, and a hand-typed copy here
+> is the next stale copy. It said 242 core minutes while the generated README
+> block said 244, and it listed four gate commands after there were five. Both
+> within a day of being written.
+>
+> | You want | Read |
+> |---|---|
+> | Current lesson counts, runtimes, capture counts | the **metrics block in `README.md`** (generated) |
+> | The commands to run before and after a change | **Working rules** in `README.md` |
+> | What is filmable today and what is blocked | **`PRODUCTION-CHECKLIST.md`** (generated) |
+> | What to record, in order | **`DICTATION-ORDER.md`** (generated) |
+> | What to capture on screen | **`SCREEN-SHOOT-LIST.md`** (generated) |
+> | The paste-ready Circle build | **`CIRCLE-STRUCTURE.md`** (generated) |
 
-The 11 core captures are **10 walkthroughs + 1 external demo**, filmed in **10
-recording sessions** — Module 1's two captures are one continuous session, cut in
-two. Capture *sessions* and capture *lessons* are different numbers on purpose;
-conflating them is what put "9 walkthroughs + 1 demo" in the README while the
-metrics block said 11.
+**This file holds decisions and unresolved issues. Nothing else.** If you find
+yourself typing a number into it, that number belongs in a generated block.
 
 Nothing has been filmed. Every change so far has cost zero re-records.
-
-**All gates green as of this writing:**
-
-```
-python3 tools/check-crossrefs.py          # 0 problems, 53 lessons, modules 0-9
-python3 tools/course-metrics.py --check   # STALE: none
-python3 tools/check-visuals.py            # 0 orphans, 0 H1 drift
-python3 tools/build-scripts.py            # wrote 0 scripts (all protected)
-```
-
-Run all four before and after any content change. They are cheap and they catch
-the failure modes this project actually has.
-
----
 
 ## The three rules that matter most
 

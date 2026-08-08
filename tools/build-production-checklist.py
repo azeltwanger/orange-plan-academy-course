@@ -42,67 +42,118 @@ for d in (sd, os.path.join(sd, 'advanced')):
         runtime[num] = len(body.split()) / 155
 
 # --- blockers -------------------------------------------------------------
-# A blocker is anything that makes filming a lesson wrong today. They are
-# written as markers in the layer that carries them, so this finds them rather
-# than trusting a human to remember. If this list is non-empty the status block
-# cannot say FINAL.
+# Three statuses, not one. Conflating them is how the checklist came to list only
+# 4.3 and A8.1 and then say "everything not listed is clear to shoot" — while the
+# handoff separately named F20 and F23 as filming blockers it could not see, and
+# while A8.1's text-only status was being counted as a filming blocker when the
+# thing actually blocking A8.1 is publication.
+#
+#   FILMING BLOCKER      cannot be shot until a human resolves it
+#   PUBLICATION BLOCKER  can be shot; cannot ship
+#   NO FILMING PLANNED   not a blocker at all; nothing scheduled
+#
+# Markers are written into the layer that carries them so this reads structure
+# rather than trusting a person to remember. Module-level markers sit under the
+# `# Unit N · Module M` heading; lesson-level markers sit in the lesson section.
 MARKERS = [
-    (r'HOLD FOR REDICTATION', 'held for redictation'),
-    (r'FLAGGED FOR REBUILD',  'flagged for rebuild'),
-    (r'DO NOT FILM',          'marked do-not-film'),
-    (r'TEXT-ONLY FOR v1',     'text-only for v1'),
-    (r'pending estate-attorney review|Pending estate-attorney review',
-                              'pending estate-attorney review'),
+    (r'🔴 \*\*FILMING BLOCKER \((F\d+)\)',        'filming',     None),
+    (r'HOLD FOR REDICTATION',                       'filming',     'F22'),
+    (r'FLAGGED FOR REBUILD',                        'filming',     None),
+    (r'⚖ \*\*PUBLICATION BLOCKER',                  'publication', None),
+    (r'(?i)pending estate-attorney review',         'publication', None),
+    (r'(?i)CPA-blocking',                           'publication', None),
+    (r'⬜ \*\*NO FILMING PLANNED',                   'noplan',      None),
 ]
 
 
-def scan(text, label):
-    """Attribute each marker hit to the lesson heading above it."""
+def scan(text, label, unit_level=False):
+    """Attribute each marker to the lesson, or to the module for unit-level ones."""
     out = []
+    if unit_level:
+        # A module-level marker lives between the unit heading and its first
+        # lesson. Anything past that belongs to a lesson, not the module.
+        for m in re.finditer(r'^# Unit \d+ · (Module \d+)[^\n]*$', text, re.M):
+            nxt = re.search(r'^## ', text[m.end():], re.M)
+            seg = text[m.end():m.end() + nxt.start()] if nxt else text[m.end():]
+            for pat, kind, fid in MARKERS:
+                hit = re.search(pat, seg)
+                if hit:
+                    tag = fid or (hit.group(1) if hit.groups() else '')
+                    out.append((m.group(1), kind, tag, label))
+        return out
     sections = list(re.finditer(r'^## (A?\d+\.\d+) (.+)$', text, re.M))
     for i, m in enumerate(sections):
         end = sections[i + 1].start() if i + 1 < len(sections) else len(text)
         seg = text[m.start():end]
-        for pat, why in MARKERS:
-            if re.search(pat, seg):
-                out.append((m.group(1), why, label))
+        # A module's LAST lesson would otherwise swallow the following
+        # "# Unit N · Module M" heading and any module-level marker under it,
+        # which attributed Module 2's F23 to lesson 1.5. Same bug class as the
+        # one build-scripts.py guards against.
+        seg = re.split(r'\n#{1,2} (?:Unit |Advanced Module )', seg)[0]
+        for pat, kind, fid in MARKERS:
+            hit = re.search(pat, seg)
+            if hit:
+                tag = fid or (hit.group(1) if hit.groups() else '')
+                out.append((m.group(1), kind, tag, label))
     return out
 
 
-blockers = scan(core, 'MASTER-COURSE.md') + scan(adv, 'MASTER-ADVANCED.md')
+raw = (scan(core, 'MASTER-COURSE.md') + scan(adv, 'MASTER-ADVANCED.md')
+       + scan(core, 'MASTER-COURSE.md', unit_level=True))
 for d, sub in ((sd, ''), (os.path.join(sd, 'advanced'), 'advanced/')):
-    for f in sorted(x for x in os.listdir(d) if x.endswith('.md')):
-        if f in ('README.md', 'VOICE-GUIDE.md'):
+    for f in sorted(os.listdir(d)):
+        if f in ('README.md', 'VOICE-GUIDE.md') or not f.endswith('.md'):
             continue
         head = open(os.path.join(d, f), encoding='utf-8').read().split('=' * 60, 1)[0]
         stem = f.split('_')[0].removesuffix('-A')
         num = (stem.replace('-', '.', 1) if stem[0] == 'A'
                else f'{int(stem.split("-")[0])}.{stem.split("-")[1]}')
-        for pat, why in MARKERS:
-            if re.search(pat, head):
-                blockers.append((num, why, f'scripts/{sub}{f}'))
+        for pat, kind, fid in MARKERS:
+            hit = re.search(pat, head)
+            if hit:
+                tag = fid or (hit.group(1) if hit.groups() else '')
+                raw.append((num, kind, tag, f'scripts/{sub}{f}'))
 
-# de-duplicate to one line per (lesson, reason), naming every layer that carries it
-grouped = {}
-for num, why, where in blockers:
-    grouped.setdefault((num, why), []).append(where)
-blocked_lessons = sorted({n for n, _ in grouped}, key=lambda s: (s[0] == 'A', s))
+buckets = {'filming': {}, 'publication': {}, 'noplan': {}}
+for where, kind, tag, src in raw:
+    buckets[kind].setdefault((where, tag), []).append(src)
+
+filming = sorted(buckets['filming'], key=lambda k: (k[0][0] == 'A', k[0]))
+publication = sorted(buckets['publication'], key=lambda k: (k[0][0] == 'A', k[0]))
+noplan = sorted(buckets['noplan'], key=lambda k: (k[0][0] == 'A', k[0]))
+blocked_lessons = {w for w, _ in filming}
 
 status = ['<!-- STATUS:START -->', '']
-if grouped:
-    status += [f'> **Status: NOT CLEARED FOR FILMING — {len(grouped)} open blocker'
-               + ('s' if len(grouped) != 1 else '') + '.**', '>',
-               '> The word FINAL is generated, not typed. It appears here only when this',
-               '> list is empty. Each line is a marker found in the layer that carries it,',
-               '> so clearing a blocker means removing its marker at the source.', '>']
-    for (num, why), wheres in sorted(grouped.items(), key=lambda kv: (kv[0][0][0] == 'A', kv[0])):
-        status.append(f'> - **{num}** — {why} · `' + '` · `'.join(sorted(set(wheres))) + '`')
-    status += ['>', '> **Do not film a blocked lesson.** Everything not listed above is'
-               ' clear to shoot.']
+if filming:
+    status += [f'> **Status: NOT CLEARED FOR FILMING — {len(filming)} filming '
+               f'blocker' + ('s' if len(filming) != 1 else '') + '.**', '>',
+               '> The word FINAL is generated, not typed. It appears only when the',
+               '> filming list below is empty. Each line is a marker found in the layer',
+               '> that carries it, so clearing one means removing its marker at source.', '>',
+               '> ### 🔴 CORE FILMING BLOCKERS', '>']
+    for where, tag in filming:
+        srcs = ' · '.join(f'`{s}`' for s in sorted(set(buckets['filming'][(where, tag)])))
+        status.append(f'> - **{where}**' + (f' ({tag})' if tag else '') + f' — {srcs}')
+    status.append('>')
 else:
-    status += ['> **Status: FINAL — cleared for filming.** No do-not-film, rebuild,',
-               '> redictation or legal-review marker is present in any layer.']
-status += ['', '<!-- STATUS:END -->']
+    status += ['> **Status: cleared for filming.** No filming blocker marker is',
+               '> present in any layer.', '>']
+
+if noplan:
+    status += ['> ### ⬜ NOT SCHEDULED FOR v1 — not blockers', '>']
+    for where, tag in noplan:
+        status.append(f'> - **{where}** — no filming planned for v1')
+    status.append('>')
+
+if publication:
+    status += ['> ### ⚖ PUBLICATION BLOCKERS — can be shot, cannot ship', '>']
+    for where, tag in publication:
+        srcs = ' · '.join(f'`{s}`' for s in sorted(set(buckets['publication'][(where, tag)])))
+        status.append(f'> - **{where}** — {srcs}')
+    status += ['>', '> Tracked in `LEGAL-REVIEW-PACKET.md`. A publication blocker does',
+               '> not stop a camera; it stops a student seeing the result.', '>']
+
+status += ['> **Anything not listed above is clear to shoot.**', '', '<!-- STATUS:END -->']
 
 # --- per-module list ------------------------------------------------------
 # One sheet can cover two lessons (Module 1 is filmed once, cut in two), so read
@@ -189,6 +240,6 @@ open(p, 'w', encoding='utf-8').write(
     head + '\n\n' + '\n'.join(status) + '\n\n' + WARNING + '\n\n'
     + '## ☐ ONE-TIME SETUP' + setup.rstrip() + '\n' + '\n'.join(out) + '\n')
 print(f'PRODUCTION-CHECKLIST.md regenerated — '
-      + (f'{len(grouped)} blocker(s): '
-         + ', '.join(f'{n} ({w})' for n, w in sorted(grouped))
-         if grouped else 'no blockers, status FINAL'))
+      f'{len(filming)} filming blocker(s): '
+      + (', '.join(f'{w} {t_}'.strip() for w, t_ in filming) or 'none')
+      + f' · {len(publication)} publication blocker(s) · {len(noplan)} not scheduled')

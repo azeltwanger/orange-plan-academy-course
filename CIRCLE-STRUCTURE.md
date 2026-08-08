@@ -382,7 +382,7 @@ watched — watching is not the deliverable, a plan is.
 **Your core plan is complete without any of these.** Each one is worth
 watching only when its condition is true for you:
 
-- **A8.1 Advanced: do you need a trust, and which one?**  🔴 *not yet published*
+- **A8.1 Advanced: do you need a trust, and which one?**
   → *Watch this once the **core estate gate in 8.5** has lit up and put you at Level 3 or 4 — a trust or coordinated plan. This lesson does not re-run that gate; it explains the options after it fires. Most households run the gate in 8.5, get a no, and are finished.*
 
 ---

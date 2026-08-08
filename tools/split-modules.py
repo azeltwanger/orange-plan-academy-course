@@ -32,9 +32,24 @@ def slugify(line):
     return s[:44]
 
 
+written = set()
 for k, a in enumerate(idx):
     b = idx[k + 1] if k + 1 < len(idx) else len(L)
     name = f'{k:02d}-{slugify(L[a])}'
     p = os.path.join(OUT, f'{name}.md')
     open(p, 'w', encoding='utf-8').write('\n'.join(L[a:b]).strip() + '\n')
+    written.add(f'{name}.md')
     print(f"wrote {os.path.relpath(p, root)}")
+
+# Prune anything this run did not write. Without it, RENAMING a module leaves the
+# old slug behind forever, because this script only ever wrote and never deleted.
+# That is not hypothetical: swapping Debt and Allocation left
+# '02-advanced-module-3-allocation-and-asset-locat.md' and
+# '03-advanced-module-4-debt-and-bitcoin-backed-lo.md' orphaned in the tree, and
+# the stale copy of A3.1 inside one of them still carried the pre-revert LTV text
+# that AUTHORITY-FLAGS records as reverted. A generated directory has to be a
+# mirror of its source, not an accumulation of every name it has ever had.
+for f in sorted(os.listdir(OUT)):
+    if f.endswith('.md') and f not in written:
+        os.remove(os.path.join(OUT, f))
+        print(f"  removed stale {os.path.relpath(os.path.join(OUT, f), root)}")

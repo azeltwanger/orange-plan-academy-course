@@ -150,6 +150,30 @@ Its master, script and lesson-text layers all carry the block marker.
 
 ## Part 4c — The four professional reviews, and what each one gates
 
+> ## ⚠ STATUS: REVIEW MATERIALS COMPLETE. REVIEWS OUTSTANDING.
+>
+> **Preparing this packet does not discharge the obligation it describes.** Not
+> one of the four reviews below has happened. Everything in this part is a brief
+> for a reviewer, not a finding from one, and no claim in the course has been
+> professionally verified.
+>
+> **Each review gates a specific production wave**, and the point of gating them
+> that way is to avoid discovering a factual correction after an expensive
+> recording:
+>
+> | Review | Must complete before |
+> |---|---|
+> | **Bitcoin-aware CPA** | filming or publishing **Module 5**, and the affected advanced tax lessons (A5.1, A5.2, A5.3, A6.2) |
+> | **Custody professional** | filming **Module 7** |
+> | **Insurance professional** | filming **8.4** |
+> | **Estate attorney** | publishing **A8.1**, and finalising the executor materials in **8.1 / 8.5** |
+>
+> Module 5 is Wave 2, so the CPA review is not urgent today — but it is the one
+> most likely to produce an arithmetic correction, and arithmetic corrections are
+> what force re-records.
+
+
+
 **Added 2026-08-08.** Part 4b holds A8.1 specifically. This part is the full map:
 the course can be opinionated about planning while being precise about where
 professional execution begins, and that line is only defensible if the factual

@@ -23,11 +23,17 @@ file.
 | A **conditional** issue — real, but only for some households | Advanced lesson, or an optional lesson inside the module |
 | A **product- or provider-specific** issue | Updateable reference material. Never evergreen narration |
 | A **factual or safety** issue | Fix immediately. This one does not wait for a pattern |
+| A **reproducible product, link, or course-path defect** — a broken link, a calculation bug, an impossible completion state, a button that does nothing, a course instruction pointing at a control that does not exist | **Fix immediately, once reproduced.** One customer is enough |
 
-⚠ **Only the last row acts on a single instance.** Everything above it needs
-repetition before it earns a change. That asymmetry is deliberate: a factual
-error is wrong the first time, and a confusing sentence might just be one person
-having a bad evening.
+⚠ **Only the last two rows act on a single instance**, and both require the
+issue to be *established* rather than reported — a factual error verified, a
+defect reproduced. Everything above them needs repetition before it earns a
+change. That asymmetry is deliberate: a broken button is broken the first time,
+and a confusing sentence might just be one person having a bad evening.
+
+**Reproduce before fixing.** "A customer said the reserve number looked wrong" is
+not a defect report until someone has followed their steps and seen it. The
+reproduction is what separates this row from the ones above it.
 
 ⚠ **The third row is the one to watch.** `HANDOFF.md` records provenance as the
 highest-leverage improvement the calls identified. If "where did this number come
@@ -104,15 +110,32 @@ they got confused.
 ## What this file is not
 
 It is **not** a licence to change planning positions because customers found one
-uncomfortable. `AUSTIN-AUTHORITY.md` still governs: usage evidence can show that
-a recommendation was *unclear*, and that is a writing problem. It cannot show
-that a recommendation was *wrong*. Those are different findings, and only the
-first one an editor may act on alone.
+uncomfortable. `AUSTIN-AUTHORITY.md` still governs, and the rule is about
+*authority*, not about what the evidence is worth:
+
+> **Usage evidence does not authorise an editor to change a planning
+> recommendation. Repeated problems are escalated to Austin as a planning-review
+> flag.**
+
+That is a narrower claim than "usage cannot show a recommendation was wrong,"
+which was the earlier wording here and was too strong. Repeated behaviour
+genuinely can show that a recommendation:
+
+- is **systematically misapplied** — people follow it and do the wrong thing
+- produces a result people **cannot maintain**
+- **conflicts** with another part of the system
+- needs a **narrower applicability condition** than it currently has
+- **deserves Austin's reconsideration**
+
+All five are real findings and all five get written up. None of them is an
+editor's decision to act on.
 
 The honest version of the distinction:
 
-- *"Ten customers could not tell what the lesson wanted them to decide"* →
-  a real finding, and an editor can restructure the lesson to make the decision
-  explicit.
-- *"Ten customers said the reserve target felt too high"* → not a finding. It is
-  a planning judgment, it belongs in `AUTHORITY-FLAGS.md`, and it is Austin's.
+- *"Ten customers could not tell what the lesson wanted them to decide"* → a
+  writing problem. An editor restructures the lesson to make the decision
+  explicit, without touching the recommendation.
+- *"Ten customers said the reserve target felt too high"* → **not permission to
+  lower it, and not nothing either.** It goes to `AUTHORITY-FLAGS.md` as a
+  planning-review flag with the evidence attached, and Austin decides. Ten people
+  finding a target uncomfortable is exactly the kind of signal he should see.

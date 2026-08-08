@@ -1,5 +1,13 @@
 # Unit 3 · Module 2 — Cash Flow + Reserve
 
+> 🔴 **FILMING BLOCKER (F23) — Module 2's lesson order is not confirmed.** College
+> sits at 2.4 (optional) and the walkthrough at 2.5, so the walkthrough hand-off
+> is on 2.3, the last *required* lesson, worded to work whether or not a student
+> takes 2.4. The alternative Austin may prefer — college last at 2.5, walkthrough
+> back at 2.4 — makes the hand-off literal again at the cost of putting an
+> optional lesson after the module's capture. **Cheap to switch now, a re-shoot
+> after.** Confirm before filming Module 2. See `AUTHORITY-FLAGS.md`.
+
 *Find your real surplus, protect the flywheel, size a cash reserve you won't have to sell Bitcoin for, and give every known future cost a lane.*
 
 ## 2.1 Find your surplus and your two spending numbers
@@ -238,10 +246,14 @@ Your reserve target is set **in months of spending**, the app shows how many mon
 > three contradicted the current dictation. College moved to its own optional
 > lesson at 2.4.
 >
-> 🔶 **F20 — the 7-to-10-year band is unstated.** The dictation names 0–1, 1–3,
-> 3–7 and 10+. Nothing is said about 7 to 10. The retired table closed that gap
-> by running "no Bitcoin" through ten years; the new dictation does not. One
-> sentence at the mic settles it. Not resolved here — see `AUTHORITY-FLAGS.md`.
+> 🔴 **FILMING BLOCKER (F20) — the 7-to-10-year band is unstated.** The dictation
+> names 0–1, 1–3, 3–7 and 10+. Nothing is said about 7 to 10. The retired table
+> closed that gap by running "no Bitcoin" through ten years; the new dictation
+> does not, so a cost seven and a half years out has no stated lane. **Austin
+> settles it in one sentence at the mic, and it has to be settled before this
+> lesson is filmed** — the lane table is on screen while he speaks. Not resolved
+> here: extending "no Bitcoin" to ten re-imposes the table he replaced, and
+> starting Bitcoin at seven loosens a rule he kept. See `AUTHORITY-FLAGS.md`.
 
 **By the end of this lesson, you can:**
 
