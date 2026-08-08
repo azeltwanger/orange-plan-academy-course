@@ -146,7 +146,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ## ☐ MODULE 9 — MAINTAIN, TEST, AND READ THE PLAN   ·   WAVE 2
 
-☐ 9.1 Keep the plan current: the monthly pass and the annual review — 🎙 film (~10 min)
+☐ 9.1 Keep the plan current: the monthly pass and the annual review — 🎙 film (~9 min)
 ☐ 9.2 Test a decision and read the finished plan — 🎙 film (~11 min)
 ☐ 9.3 Walkthrough: annual review, scenarios, and your report — 🖥 capture
 ☐ Paste the Module 9 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")

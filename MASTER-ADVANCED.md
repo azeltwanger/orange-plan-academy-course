@@ -882,7 +882,7 @@ Engineer a modest MAGI and the same Silver plan's net premium can fall by hundre
 
 In the bridge years, your health premium is partly a tax-planning output.
 
-**The tension: subsidy vs Roth conversion.** Same shape as the tax module's window conflict. One low-income window, multiple planning moves competing for it.
+**The tension: subsidy vs Roth conversion.** It is the same conflict the tax module's bracket window runs into. One low-income window, multiple planning moves competing for it.
 
 A big Roth conversion raises your MAGI, which shrinks or kills the subsidy that same year. You can max the window for subsidies or for conversions, but not both.
 
@@ -1198,7 +1198,7 @@ So if you use the same receiving address over and over, you've handed anyone who
 
 The fix is easy. Use a fresh receiving address every time you receive. Modern wallets generate a new one automatically and it's usually the default, so mostly this is about not overriding it. And don't post an address publicly and then keep using it.
 
-This is also another reason to check the address on the device screen every single time. It should be a new one, and if it isn't, something is worth understanding before you send.
+This is also another reason to check the address on the device screen every single time. It should be a new one. If it isn't, find out why before you send.
 
 ### Your decision
 
@@ -1265,7 +1265,7 @@ The trade-off is built in: a passphrase strong enough to be unguessable is also 
 
 **How collaborative custody actually works, and why the key count matters.** It's a two-of-three: three keys exist, any two can move Bitcoin. You hold two of them. The provider holds the third.
 
-That split produces two properties worth understanding before you decide:
+That split produces two properties to weigh before you decide:
 
 - **They can never take your Bitcoin.** One key out of a required two spends nothing. They are a co-signer, not a custodian. This is the difference between collaborative custody and an exchange.
 - **They can never lock you out.** You already hold two keys, which is a spending quorum by itself. You do not need their permission or their participation to move your own money.
@@ -1326,7 +1326,7 @@ A collaborative provider holds the config for you. On top of the support, the an
 
 ### Building the estate split on each path
 
-The estate module gives you the two tests: can one person spend alone, and can one lost copy permanently stop recovery. What it deliberately doesn't do is show you how to build a setup that passes both, because that's a custody decision. So here's how each path carries the split.
+The estate module gives you the two tests: can one person spend alone, and can one lost copy permanently stop recovery. What it deliberately doesn't do is show you how to build a setup that passes both, because that's a custody decision. So each path carries the split differently.
 
 On the passphrase path, Anthony Park calls this poor man's multisig, and it works because of how a passphrase behaves. Seed plus passphrase produces a completely different wallet than the seed alone. Same words, different passphrase, different set of coins. So the seed by itself opens a real wallet that's empty, and the passphrase by itself is a word that opens nothing. Two objects, each worthless alone, which is exactly what lets you hand each one to a different person.
 
@@ -1416,7 +1416,7 @@ Buys you three things:
 
 **What it does NOT buy: a lower estate tax bill.** The estate tax follows control, not paperwork. If you can cancel the trust and take everything back tomorrow, then for tax purposes the assets are still yours.
 
-Here's what happens when someone doesn't know that. They sit down with a salesperson, pay $3,000-4,000 for a revocable living trust, and walk out believing they just protected their estate from taxes. They didn't. They bought probate avoidance and privacy at a tax-shelter price, and nobody corrected them.
+People who don't know that sit down with a salesperson, pay $3,000-4,000 for a revocable living trust, and walk out believing they just protected their estate from taxes. They didn't. They bought probate avoidance and privacy at a tax-shelter price, and nobody corrected them.
 
 #### Irrevocable trust
 
@@ -1582,7 +1582,7 @@ Two model cards:
 
 ⚠ **Set the assumption back to where it started before you finish.** This step is a read, not a decision. You want the number under both cases; you don't want the plan itself to move because you were curious.
 
-Change nothing but the growth assumption and watch the estate move. That's allocation-plus-time. The whole conversation, in one dial.
+Change nothing but the growth assumption and watch the estate move. That is allocation plus time, on one dial.
 
 #### 4 · Compare to the line + the state caveat
 

@@ -63,7 +63,7 @@ Buys you three things:
 
 **What it does NOT buy: a lower estate tax bill.** The estate tax follows control, not paperwork. If you can cancel the trust and take everything back tomorrow, then for tax purposes the assets are still yours.
 
-Here's what happens when someone doesn't know that. They sit down with a salesperson, pay $3,000-4,000 for a revocable living trust, and walk out believing they just protected their estate from taxes. They didn't. They bought probate avoidance and privacy at a tax-shelter price, and nobody corrected them.
+People who don't know that sit down with a salesperson, pay $3,000-4,000 for a revocable living trust, and walk out believing they just protected their estate from taxes. They didn't. They bought probate avoidance and privacy at a tax-shelter price, and nobody corrected them.
 
 #### Irrevocable trust
 
@@ -229,7 +229,7 @@ Two model cards:
 
 ⚠ **Set the assumption back to where it started before you finish.** This step is a read, not a decision. You want the number under both cases; you don't want the plan itself to move because you were curious.
 
-Change nothing but the growth assumption and watch the estate move. That's allocation-plus-time. The whole conversation, in one dial.
+Change nothing but the growth assumption and watch the estate move. That is allocation plus time, on one dial.
 
 #### 4 · Compare to the line + the state caveat
 

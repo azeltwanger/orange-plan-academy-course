@@ -92,7 +92,7 @@ changed once, in both places, before you record.
 
 | # | Lesson | min |
 |---|---|---|
-| 4.1 | Set the Bitcoin allocation you can hold through a full drawdown | 9.0 |
+| 4.1 | Set the Bitcoin allocation you can hold through a full drawdown | 8.9 |
 | 4.2 | Break your accounts down by holding type, then by timeframe | 9.4 |
 | 4.3 | Order your contributions: which account gets funded first | 9.1 |
 | 4.4 | Asset location: which account each holding belongs in | 6.4 |
@@ -135,7 +135,7 @@ changed once, in both places, before you record.
 | 8.4 | Insurance: term life, disability, umbrella, and when to stop | 7.7 |
 | 8.5 | *Walkthrough: Protect, the heir letter, and the switch* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 9 — Maintain, Test, and Read the Plan · 21 min
+### Module 9 — Maintain, Test, and Read the Plan · 20 min
 
 | # | Lesson | min |
 |---|---|---|

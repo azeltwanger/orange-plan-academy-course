@@ -39,7 +39,7 @@ The tier is a label you land on after the decision. It isn't an identity you go 
 
 == THE STRESS TEST ==
 
-Now the second half, and this is the part that actually sets the number.
+Now the second half, which is what actually sets the number.
 
 The stress test answers one question: is the allocation you picked one you could actually live through?
 

@@ -49,7 +49,7 @@ Let's say we have a couple in Texas. He's 45, she's 43, two kids. Their year wal
 
 That $4,000 a month is the budget every later module has to work with. Until you've run this on your own numbers, your plan is running on a guess.
 
-Notice what is **not** subtracted: retirement contributions. The 401(k) and the Roth IRA are not expenses, they are decisions, and Module 3 is where you make them. Surplus is money that is not already committed to taxes, living, or debt. Where it goes is the next question, not this one.
+Notice what is **not** subtracted: retirement contributions. They are decisions rather than expenses, and Module 4 is where you make them. Surplus is money that is not already committed to taxes, living, or debt. Where it goes is the next question, not this one.
 
 ### The one input people get wrong
 
@@ -489,7 +489,7 @@ You can say what you're committing to provide, name the sources that will cover 
 
 ---
 
-This walkthrough puts what you learned in the last three lessons into the app. Cash flow and reserve are the engine of every downstream projection, so this is where you make them accurate.
+This walkthrough puts what you learned in the last three lessons into the app. Every downstream projection is built on cash flow and reserve, so this is where you make them accurate.
 
 Set aside about 15 minutes. Have two or three months of categorized transactions linked or imported (otherwise the Verify Spending card won't have anything to show), and your bare-bones essentials number from the surplus lesson written down.
 

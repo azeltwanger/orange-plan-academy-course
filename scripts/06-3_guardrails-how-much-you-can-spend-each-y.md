@@ -79,7 +79,7 @@ Last piece: the reserve refill runs off this same annual review. For the couple,
 
 If spending held or rose, refill fully. If spending got cut, refill partway, to about 12 of the 18 months. And a bad market doesn't change the target. The target changes when your spending changes, when your income floor changes, or when you deliberately change the policy. A bad year changes only the refill pace.
 
-One thing to keep in mind: the guardrail concept and the 10% adjustment are adapted from published research. The 60, 80, and 95 confidence thresholds are Orange Plan defaults. They're a starting point for a conversation, not a rule you have to adopt. If you're working with a planner, this is a good page to bring them.
+The guardrail concept and the 10% adjustment are adapted from published research. The 60, 80, and 95 confidence thresholds are Orange Plan defaults. They're a starting point for a conversation, not a rule you have to adopt. If you're working with a planner, this is a good page to bring them.
 
 == YOUR DECISION ==
 

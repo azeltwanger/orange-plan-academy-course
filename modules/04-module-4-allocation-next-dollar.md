@@ -164,7 +164,7 @@ Open **Strategy → Allocation** and scroll to **What each account holds**. Ever
 
 Orange Plan sorts every holding into one of six asset classes: **Bitcoin, stocks, bonds, real estate, cash, and other.**
 
-Here's the couple, account by account. Their investable total is $295,000.
+The couple, account by account. Their investable total is $295,000.
 
 | Account | Bitcoin | Stocks | Bonds | Cash | Total |
 |---|---|---|---|---|---|
@@ -407,7 +407,7 @@ The waterfall and your buckets are not competing systems. They answer two differ
 
 A dollar going into your Roth is a rung-4 decision *and* a Legacy dollar at the same time. Same dollar, two labels, no conflict.
 
-Here's where it gets practical. The waterfall tells you the order, but it doesn't always tell you what to buy once you're inside an account. That's what the buckets are for. **When you have a choice inside a rung, go look at which bucket is behind, and fund that one.**
+The waterfall tells you the order, but it doesn't always tell you what to buy once you're inside an account. That's what the buckets are for. **When you have a choice inside a rung, go look at which bucket is behind, and fund that one.**
 
 **Strategy → Allocation** is the screen that shows you this. The three timeframes render with **Funded** or **Behind** badges, so you can see which one is short without doing any arithmetic. A Behind badge is the first place to *look* for this month's flexible dollars — it is not an instruction to send all of them there.
 

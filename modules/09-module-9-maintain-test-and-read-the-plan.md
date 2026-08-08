@@ -26,7 +26,7 @@ Drift is the distance between what your plan says and what's true. Two forms, mo
 
 **Data drift: facts going out of date.** Your spending, income, balances, account list. Nothing's wrong with the strategy. Nobody entered the update.
 
-Say the couple's spending creeps to $88,000 over a year or two and nobody enters it. Every projection runs $8,000/yr light, and run through the withdrawal math from the income module, that's about $100,000 more portfolio they actually need than the plan thinks. The plan is off by a hundred thousand dollars without anyone making a bad decision.
+Say the couple's spending creeps to $88,000 over a year or two and nobody enters it. Every projection runs $8,000/yr light, and run through the withdrawal math from the income module, that's about $100,000 more portfolio they actually need than the plan thinks. Nobody made a single bad decision along the way.
 
 **Plan drift: decisions going stale.** Facts are fine, but the strategy on top of them no longer fits the life underneath. The allocation you picked at 45 might not be the one you want at 60. A debt that had a job three years ago might have finished it.
 
@@ -116,7 +116,7 @@ Both dates are recurring events you can see, and you have written down what you 
 
 ---
 
-Your plan answers one question: if things go roughly the way you've assumed, here's where you land. A scenario answers a different one: **what happens if they don't?**
+Your plan answers one question: if things go roughly the way you've assumed, this is where you land. A scenario answers a different one: **what happens if they don't?**
 
 You keep one baseline plan that represents your real life and your real intentions, and you keep a set of saved what-ifs beside it that you can compare against, one at a time, without disturbing the plan itself.
 

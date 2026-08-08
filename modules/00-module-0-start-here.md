@@ -42,7 +42,7 @@ What about taxes? What about the house we want in a few years? Which accounts sh
 
 I knew from my background there were dozens of variables that had to be solved to get an accurate retirement date and know exactly what to do when I got there.
 
-So I built one. A financial-planning system designed around Bitcoin, that models every income, expense, debt, asset, life event, and tax liability. It runs simulations on how likely your plan is to succeed. It tells you how much you can spend. It runs scenarios so you can see how decisions ripple through the rest of your life.
+So I built one. A financial-planning system designed around Bitcoin, that models every income, expense, debt, asset, life event, and tax liability. It runs simulations on how likely your plan is to succeed. It tells you how much you can spend. It runs scenarios so you can see what a decision does to the rest of your plan.
 
 That system has given me peace of mind, clarity, and a level of confidence around my family's financial plan I hadn't felt since finding Bitcoin.
 
@@ -50,7 +50,7 @@ This course is the roadmap that walks you through building yours.
 
 ##### What you'll walk out with
 
-A plan that answers one question, in one line.
+A plan that answers one question.
 
 You can stop working at age X, and the plan holds up in Y% of futures.
 

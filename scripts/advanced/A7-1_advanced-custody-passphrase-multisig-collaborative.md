@@ -78,7 +78,7 @@ It has no spending power. Losing it to a thief costs you privacy, not coins. Whi
 
 == BUILDING THE ESTATE SPLIT ON EACH PATH ==
 
-The estate module gives you the two tests: can one person spend alone, and can one lost copy permanently stop recovery. What it deliberately doesn't do is show you how to build a setup that passes both, because that's a custody decision. So here's how each path carries the split.
+The estate module gives you the two tests: can one person spend alone, and can one lost copy permanently stop recovery. What it deliberately doesn't do is show you how to build a setup that passes both, because that's a custody decision. So each path carries the split differently.
 
 On the passphrase path, Anthony Park calls this poor man's multisig, and it works because of how a passphrase behaves. Seed plus passphrase produces a completely different wallet than the seed alone. Same words, different passphrase, different set of coins. So the seed by itself opens a real wallet that's empty, and the passphrase by itself is a word that opens nothing. Two objects, each worthless alone, which is exactly what lets you hand each one to a different person.
 

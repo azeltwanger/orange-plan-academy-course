@@ -398,7 +398,7 @@ watched — watching is not the deliverable, a plan is.
 
 ### Lessons
 
-- **9.1 Keep the plan current: the monthly pass and the annual review** — 🎙 ~10 min
+- **9.1 Keep the plan current: the monthly pass and the annual review** — 🎙 ~9 min
 - **9.2 Test a decision and read the finished plan** — 🎙 ~11 min
 - **9.3 Walkthrough: annual review, scenarios, and your report** — 🖥 walkthrough
 

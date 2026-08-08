@@ -59,7 +59,7 @@ So if you're going to borrow against Bitcoin, size the cushion to survive a 70 t
 
 Where you land inside that range is a risk tolerance call, and the two ends buy you genuinely different things. Run the same arithmetic we just did. At a 10% starting LTV against an 80% liquidation line, Bitcoin has to fall about 87% before you're liquidated, and it has never fallen that far. At 20%, the liquidation point is a 75% fall. 2022 was 77%. 2018 was 84%. So the bottom of that range survives everything that's ever happened, and the top of it wouldn't have survived either of the last two bear markets.
 
-That's the tradeoff, and it's yours to make. What matters is that you make it on purpose, and that you know which number you picked and what it costs you.
+That's the tradeoff, and it's yours to make. Make it on purpose, and know which number you picked and what it costs you.
 
 == A WORKED EXAMPLE ==
 
@@ -107,7 +107,7 @@ The first one is custodial lenders. You send your Bitcoin to the company and the
 
 The second one is collaborative-custody lenders. Your collateral sits in a multisig arrangement, often two-of-three, where you hold a key, the lender holds a key, and a third party holds a key. The lender can't move your Bitcoin on their own. That structure is the reason a lot of Bitcoiners will use one of these and never touch a custodial one.
 
-And then there's the question that separates them, which is rehypothecation. Rehypothecation means the lender takes your collateral and lends it out to somebody else while they're holding it. It's the practice most directly responsible for the 2022 blowups. So ask directly: do you rehypothecate my collateral? And get the answer in writing. If the answer is anything other than a clear no, you're taking on a risk that has nothing at all to do with the Bitcoin price.
+And then there's rehypothecation, which is what really separates them. Rehypothecation means the lender takes your collateral and lends it out to somebody else while they're holding it. It's the practice most directly responsible for the 2022 blowups. So ask directly: do you rehypothecate my collateral? And get the answer in writing. If the answer is anything other than a clear no, you're taking on a risk that has nothing at all to do with the Bitcoin price.
 
 There are 7 questions I'd take to any provider. They're on screen, and they're in the lesson text below the video.
 

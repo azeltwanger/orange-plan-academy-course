@@ -15,7 +15,7 @@ What maintenance is actually fighting is drift, which is the distance between wh
 
 The first form is data drift, which is facts going out of date. Your spending, your income, your balances, your account list. Nothing's wrong with the strategy. Nobody entered the update.
 
-Look at what that costs. The couple's spending creeps from $80,000 to $88,000 and nobody enters it. Run that $8,000 a year through the withdrawal math from the income module and it's about $100,000 more portfolio they actually need than the plan thinks. The plan is off by a hundred thousand dollars, and nobody made a single bad decision.
+Look at what that costs. The couple's spending creeps from $80,000 to $88,000 and nobody enters it. Run that $8,000 a year through the withdrawal math from the income module and it's about $100,000 more portfolio they actually need than the plan thinks. Nobody made a single bad decision along the way.
 
 The second form is plan drift, which is decisions going stale. The facts are fine, but the strategy sitting on top of them no longer fits the life underneath. The allocation you picked at 45 might not be the one you want at 60. A debt that had a job 3 years ago might have finished it.
 

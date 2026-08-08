@@ -30,7 +30,7 @@ In retirement with little other income, you can realize a meaningful amount of l
 
 **15% is usually more expensive than a Bitcoin-backed loan's interest rate.** So instead of selling past the line, you sell up to it and borrow the rest. What you save is the spread between that 15% and the loan rate, without giving up the Bitcoin.
 
-In one sentence: **sell up to the top of your 0% bracket, borrow anything above it.**
+**The rule:** sell up to the top of your 0% bracket, borrow anything above it.
 
 ⚠ Everything from the LTV lesson still applies. This puts a loan on your balance sheet with the same margin-call risk. Attractive tax math doesn't relax the cushion rules.
 

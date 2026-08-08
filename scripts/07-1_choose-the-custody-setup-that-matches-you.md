@@ -49,7 +49,7 @@ Level 1 is a hardened exchange or broker. Small stack, or while you're still lea
 
 Level 2 is the hardware wallet, and it's the default destination once a stack becomes meaningful. Seed offline, test transaction first, wipe-and-restore proven, and a backup medium that matches what you're protecting. Paper is cheap and it burns. Steel survives fire and flood and costs more. That's a trade you make against the size of the stack and the risks where you actually live, not a rule I'm going to hand you.
 
-Level 3 is where the stack matters to more than just you. What defines it isn't a particular technique, it's that somebody other than you has to be able to recover this. A hardened wallet, backups that survive one loss, a process your spouse or executor can actually follow, and an annual review.
+Level 3 is where the stack matters to more than just you. What defines it is that somebody other than you has to be able to recover this, whatever technique gets you there. A hardened wallet, backups that survive one loss, a process your spouse or executor can actually follow, and an annual review.
 
 A passphrase with split access is one way to get there. It isn't the only way, and it isn't automatically the right way. Splitting access buys you dual control, meaning nobody can move the coins alone. It does not by itself buy you redundancy, and it adds a failure mode of its own when the family is confused or one of the holders can't be reached. A well documented single-signature setup with backups that survive one loss can clear this bar too. Pick the design your household can actually operate, because complexity nobody can execute isn't a higher level.
 

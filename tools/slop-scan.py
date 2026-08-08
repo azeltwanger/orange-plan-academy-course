@@ -20,11 +20,15 @@ comparative, a real "not X" that carries information). Read each one.
   python3 tools/slop-scan.py --all      # + walkthroughs + master
   python3 tools/slop-scan.py --family A # one family
 """
-import re, sys, glob, os
+import re, sys, glob, os, hashlib
 
 FAMILIES = {
 'A · announce / reframe frame': [
-  r"\b(one|the|another|a)\s+(reframe|insight|unlock|trick|secret|mental model)\b",
+  # NOTE: "secret" deliberately excluded. In this repo it is almost always the
+  # literal custody noun — "this map never contains a secret", "your executor
+  # holds the process rather than the secret" — and the pattern fired on the
+  # no-secrets rule itself, which is load-bearing safety text.
+  r"\b(one|the|another|a)\s+(reframe|insight|unlock|trick|mental model)\b",
   r"makes?\s+(this|the|it)\s+(whole\s+)?\w*\s*click",
   r"\bclicks? into place\b",
   r"here'?s (the|what|why|how|where)\b(?!.{0,30}\b(app|button|page|screen|form|field|number you|it lives|to find|I'?d)\b)",
@@ -87,13 +91,53 @@ FAMILIES = {
 ],
 }
 
+ACCEPTED_FILE = 'SLOP-ACCEPTED.md'
+
+
+def key(fam, sent):
+    """Identify a candidate by family + the sentence itself, not by line number.
+
+    Line numbers move every time anything above them is edited, so a
+    line-keyed allowlist would silently expire. Keying on the sentence means an
+    adjudication survives edits elsewhere in the file and — correctly — LAPSES
+    the moment the sentence itself is reworded, which is exactly when it needs
+    looking at again.
+    """
+    norm = re.sub(r'\s+', ' ', sent).strip()
+    return f'{fam[0]}:{hashlib.sha1(norm.encode()).hexdigest()[:12]}'
+
+
+def accepted():
+    """Adjudicated candidates: {key: reason}."""
+    if not os.path.exists(ACCEPTED_FILE):
+        return {}
+    out = {}
+    for line in open(ACCEPTED_FILE, encoding='utf-8'):
+        m = re.match(r'\|\s*`([A-H]:[0-9a-f]{12})`\s*\|([^|]*)\|([^|]*)\|', line)
+        if m:
+            out[m.group(1)] = m.group(3).strip()
+    return out
+
+
 def targets(all_files):
-    fs = sorted(glob.glob('scripts/[0-9]*.md')) + sorted(glob.glob('lesson-text/*.md'))
+    """Every prose layer, core AND advanced.
+
+    The glob used to be `scripts/[0-9]*.md` + `lesson-text/*.md`, which silently
+    excluded the entire Advanced Library: 14 scripts and 14 lesson-text files
+    live under scripts/advanced/ and lesson-text/advanced/ with 'A'-led names,
+    so no advanced lesson had ever been slop-scanned. MASTER-ADVANCED.md was
+    outside --all for the same reason. A scanner that skips a third of the
+    corpus reads as coverage and is not.
+    """
+    fs = (sorted(glob.glob('scripts/[0-9]*.md'))
+          + sorted(glob.glob('scripts/advanced/A*.md'))
+          + sorted(glob.glob('lesson-text/*.md'))
+          + sorted(glob.glob('lesson-text/advanced/*.md')))
     if not all_files:
         fs = [f for f in fs if 'WALKTHROUGH' not in f and 'DEMO' not in f
               and 'walkthrough' not in os.path.basename(f)]
     else:
-        fs += ['MASTER-COURSE.md']
+        fs += ['MASTER-COURSE.md', 'MASTER-ADVANCED.md']
     return [f for f in fs if os.path.basename(f) not in ('README.md',)]
 
 def sentences(text):
@@ -113,25 +157,40 @@ def main():
     only = None
     if '--family' in sys.argv:
         only = sys.argv[sys.argv.index('--family') + 1].upper()
+    OK = accepted()
+    show_ok = '--show-accepted' in sys.argv
 
-    total = 0
+    total = live = 0
     for fam, pats in FAMILIES.items():
         if only and not fam.startswith(only):
             continue
-        hits = []
+        hits, known = [], []
         for f in targets(all_files):
             text = open(f, encoding='utf-8').read()
             for ln, sent in sentences(text):
                 for p in pats:
                     if re.search(p, sent, re.I):
-                        hits.append((f, ln, sent))
+                        (known if key(fam, sent) in OK else hits).append((f, ln, sent, key(fam, sent)))
                         break
+        total += len(hits) + len(known)
+        live += len(hits)
         if hits:
-            print(f"\n{'='*78}\n{fam}  —  {len(hits)} candidates\n{'='*78}")
-            for f, ln, sent in hits:
-                print(f"{f}:{ln}\n    {sent[:300]}")
-            total += len(hits)
-    print(f"\n{total} candidates. Each one is a candidate, not a verdict.")
+            print(f"\n{'='*78}\n{fam}  —  {len(hits)} UNADJUDICATED\n{'='*78}")
+            for f, ln, sent, k in hits:
+                print(f"{f}:{ln}   key `{k}`\n    {sent[:300]}")
+        if known and show_ok:
+            print(f"\n{fam}  —  {len(known)} adjudicated (accepted)")
+            for f, ln, sent, k in known:
+                print(f"  ok {f}:{ln}  {OK[k][:60]}")
+
+    print(f"\n{total} candidates · {len(OK)} adjudicated in {ACCEPTED_FILE} · "
+          f"{live} UNADJUDICATED")
+    if live:
+        print("\nEach unadjudicated hit is a CANDIDATE, not a verdict. Either fix the\n"
+              "sentence, or add its key to SLOP-ACCEPTED.md with a written reason.\n"
+              "An adjudication lapses automatically if the sentence is reworded.")
+    sys.exit(1 if live else 0)
+
 
 if __name__ == '__main__':
     main()

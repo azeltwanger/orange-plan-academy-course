@@ -5,7 +5,7 @@ TELEPROMPTER SCRIPT — segment 9.2
 
 In today's lesson, we're going to do the two things that turn a plan into something you can actually use. Testing a decision against it without wrecking it, and then reading the finished document.
 
-Your plan answers one question. If things go roughly the way you've assumed, here's where you land. A scenario answers a completely different question, which is what happens if they don't. So you keep one baseline plan that represents your actual life and your actual intentions, and then you keep a set of saved what-ifs sitting next to it that you can compare against, one at a time, without ever disturbing the plan.
+Your plan answers one question. If things go roughly the way you've assumed, this is where you land. A scenario answers a completely different question, which is what happens if they don't. So you keep one baseline plan that represents your actual life and your actual intentions, and then you keep a set of saved what-ifs sitting next to it that you can compare against, one at a time, without ever disturbing the plan.
 
 == LIFE EVENT OR SCENARIO? ==
 

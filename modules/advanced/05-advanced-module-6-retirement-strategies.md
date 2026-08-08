@@ -55,7 +55,7 @@ Engineer a modest MAGI and the same Silver plan's net premium can fall by hundre
 
 In the bridge years, your health premium is partly a tax-planning output.
 
-**The tension: subsidy vs Roth conversion.** Same shape as the tax module's window conflict. One low-income window, multiple planning moves competing for it.
+**The tension: subsidy vs Roth conversion.** It is the same conflict the tax module's bracket window runs into. One low-income window, multiple planning moves competing for it.
 
 A big Roth conversion raises your MAGI, which shrinks or kills the subsidy that same year. You can max the window for subsidies or for conversions, but not both.
 

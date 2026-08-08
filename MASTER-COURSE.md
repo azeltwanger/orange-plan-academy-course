@@ -89,7 +89,7 @@ What about taxes? What about the house we want in a few years? Which accounts sh
 
 I knew from my background there were dozens of variables that had to be solved to get an accurate retirement date and know exactly what to do when I got there.
 
-So I built one. A financial-planning system designed around Bitcoin, that models every income, expense, debt, asset, life event, and tax liability. It runs simulations on how likely your plan is to succeed. It tells you how much you can spend. It runs scenarios so you can see how decisions ripple through the rest of your life.
+So I built one. A financial-planning system designed around Bitcoin, that models every income, expense, debt, asset, life event, and tax liability. It runs simulations on how likely your plan is to succeed. It tells you how much you can spend. It runs scenarios so you can see what a decision does to the rest of your plan.
 
 That system has given me peace of mind, clarity, and a level of confidence around my family's financial plan I hadn't felt since finding Bitcoin.
 
@@ -97,7 +97,7 @@ This course is the roadmap that walks you through building yours.
 
 ##### What you'll walk out with
 
-A plan that answers one question, in one line.
+A plan that answers one question.
 
 You can stop working at age X, and the plan holds up in Y% of futures.
 
@@ -1044,7 +1044,7 @@ Let's say we have a couple in Texas. He's 45, she's 43, two kids. Their year wal
 
 That $4,000 a month is the budget every later module has to work with. Until you've run this on your own numbers, your plan is running on a guess.
 
-Notice what is **not** subtracted: retirement contributions. The 401(k) and the Roth IRA are not expenses, they are decisions, and Module 3 is where you make them. Surplus is money that is not already committed to taxes, living, or debt. Where it goes is the next question, not this one.
+Notice what is **not** subtracted: retirement contributions. They are decisions rather than expenses, and Module 4 is where you make them. Surplus is money that is not already committed to taxes, living, or debt. Where it goes is the next question, not this one.
 
 ### The one input people get wrong
 
@@ -1484,7 +1484,7 @@ You can say what you're committing to provide, name the sources that will cover 
 
 ---
 
-This walkthrough puts what you learned in the last three lessons into the app. Cash flow and reserve are the engine of every downstream projection, so this is where you make them accurate.
+This walkthrough puts what you learned in the last three lessons into the app. Every downstream projection is built on cash flow and reserve, so this is where you make them accurate.
 
 Set aside about 15 minutes. Have two or three months of categorized transactions linked or imported (otherwise the Verify Spending card won't have anything to show), and your bare-bones essentials number from the surplus lesson written down.
 
@@ -2119,7 +2119,7 @@ Open **Strategy → Allocation** and scroll to **What each account holds**. Ever
 
 Orange Plan sorts every holding into one of six asset classes: **Bitcoin, stocks, bonds, real estate, cash, and other.**
 
-Here's the couple, account by account. Their investable total is $295,000.
+The couple, account by account. Their investable total is $295,000.
 
 | Account | Bitcoin | Stocks | Bonds | Cash | Total |
 |---|---|---|---|---|---|
@@ -2362,7 +2362,7 @@ The waterfall and your buckets are not competing systems. They answer two differ
 
 A dollar going into your Roth is a rung-4 decision *and* a Legacy dollar at the same time. Same dollar, two labels, no conflict.
 
-Here's where it gets practical. The waterfall tells you the order, but it doesn't always tell you what to buy once you're inside an account. That's what the buckets are for. **When you have a choice inside a rung, go look at which bucket is behind, and fund that one.**
+The waterfall tells you the order, but it doesn't always tell you what to buy once you're inside an account. That's what the buckets are for. **When you have a choice inside a rung, go look at which bucket is behind, and fund that one.**
 
 **Strategy → Allocation** is the screen that shows you this. The three timeframes render with **Funded** or **Behind** badges, so you can see which one is short without doing any arithmetic. A Behind badge is the first place to *look* for this month's flexible dollars — it is not an instruction to send all of them there.
 
@@ -3490,7 +3490,7 @@ Last piece: the reserve refill runs off this same annual review. For the couple,
 
 If spending held or rose, refill fully. If spending got cut, refill partway, to about 12 of the 18 months. And a bad market doesn't change the target. The target changes when your spending changes, when your income floor changes, or when you deliberately change the policy. A bad year changes only the refill pace.
 
-One thing to keep in mind: the guardrail concept and the 10% adjustment are adapted from published research. The 60, 80, and 95 confidence thresholds are Orange Plan defaults. They're a starting point for a conversation, not a rule you have to adopt. If you're working with a planner, this is a good page to bring them.
+The guardrail concept and the 10% adjustment are adapted from published research. The 60, 80, and 95 confidence thresholds are Orange Plan defaults. They're a starting point for a conversation, not a rule you have to adopt. If you're working with a planner, this is a good page to bring them.
 
 ### Your decision
 
@@ -4615,7 +4615,7 @@ Now, what you can actually build depends on the custody level you picked back in
 
 At Level 1, on a hardened exchange or broker, you haven't built household dual control at all. You've delegated custody to an institution, and their process is what stands between any one person and the money. That's a different thing, and worth naming honestly, because it means the two tests get answered by somebody else's procedures rather than by a design you control.
 
-What you're designing at Level 1 isn't a secret, it's a path. Your heirs get the beneficiary designation on the account. Your executor gets the process: which institution, what they'll ask for, who to call. And what you should actually verify is that institution's death-claim procedure, because that procedure is your plan. If it turns out to be slow, or it requires something your family won't have, that's the gap to fix, and no amount of household design fixes it for you.
+So at Level 1 you're designing a path rather than a secret. Your heirs get the beneficiary designation on the account. Your executor gets the process: which institution, what they'll ask for, who to call. And what you should actually verify is that institution's death-claim procedure, because that procedure is your plan. If it turns out to be slow, or it requires something your family won't have, that's the gap to fix, and no amount of household design fixes it for you.
 
 At Level 2, one hardware wallet and one seed, be honest about what you can and can't do. You cannot split a single seed between two people, and I'll come back to why that idea is actively dangerous. So the honest design is: the seed goes to your heir, backed up in more than one place, and your executor holds the process rather than the secret. Where the device is, where the backups are, what to do, who to call.
 
@@ -4939,7 +4939,7 @@ Drift is the distance between what your plan says and what's true. Two forms, mo
 
 **Data drift: facts going out of date.** Your spending, income, balances, account list. Nothing's wrong with the strategy. Nobody entered the update.
 
-Say the couple's spending creeps to $88,000 over a year or two and nobody enters it. Every projection runs $8,000/yr light, and run through the withdrawal math from the income module, that's about $100,000 more portfolio they actually need than the plan thinks. The plan is off by a hundred thousand dollars without anyone making a bad decision.
+Say the couple's spending creeps to $88,000 over a year or two and nobody enters it. Every projection runs $8,000/yr light, and run through the withdrawal math from the income module, that's about $100,000 more portfolio they actually need than the plan thinks. Nobody made a single bad decision along the way.
 
 **Plan drift: decisions going stale.** Facts are fine, but the strategy on top of them no longer fits the life underneath. The allocation you picked at 45 might not be the one you want at 60. A debt that had a job three years ago might have finished it.
 
@@ -5029,7 +5029,7 @@ Both dates are recurring events you can see, and you have written down what you 
 
 ---
 
-Your plan answers one question: if things go roughly the way you've assumed, here's where you land. A scenario answers a different one: **what happens if they don't?**
+Your plan answers one question: if things go roughly the way you've assumed, this is where you land. A scenario answers a different one: **what happens if they don't?**
 
 You keep one baseline plan that represents your real life and your real intentions, and you keep a set of saved what-ifs beside it that you can compare against, one at a time, without disturbing the plan itself.
 

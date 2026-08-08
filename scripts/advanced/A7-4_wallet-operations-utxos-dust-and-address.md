@@ -37,7 +37,7 @@ So if you use the same receiving address over and over, you've handed anyone who
 
 The fix is easy. Use a fresh receiving address every time you receive. Modern wallets generate a new one automatically and it's usually the default, so mostly this is about not overriding it. And don't post an address publicly and then keep using it.
 
-This is also another reason to check the address on the device screen every single time. It should be a new one, and if it isn't, something is worth understanding before you send.
+This is also another reason to check the address on the device screen every single time. It should be a new one. If it isn't, find out why before you send.
 
 == YOUR DECISION ==
 

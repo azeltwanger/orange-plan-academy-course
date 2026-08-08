@@ -149,7 +149,7 @@ So if you use the same receiving address over and over, you've handed anyone who
 
 The fix is easy. Use a fresh receiving address every time you receive. Modern wallets generate a new one automatically and it's usually the default, so mostly this is about not overriding it. And don't post an address publicly and then keep using it.
 
-This is also another reason to check the address on the device screen every single time. It should be a new one, and if it isn't, something is worth understanding before you send.
+This is also another reason to check the address on the device screen every single time. It should be a new one. If it isn't, find out why before you send.
 
 ### Your decision
 
@@ -216,7 +216,7 @@ The trade-off is built in: a passphrase strong enough to be unguessable is also 
 
 **How collaborative custody actually works, and why the key count matters.** It's a two-of-three: three keys exist, any two can move Bitcoin. You hold two of them. The provider holds the third.
 
-That split produces two properties worth understanding before you decide:
+That split produces two properties to weigh before you decide:
 
 - **They can never take your Bitcoin.** One key out of a required two spends nothing. They are a co-signer, not a custodian. This is the difference between collaborative custody and an exchange.
 - **They can never lock you out.** You already hold two keys, which is a spending quorum by itself. You do not need their permission or their participation to move your own money.
@@ -277,7 +277,7 @@ A collaborative provider holds the config for you. On top of the support, the an
 
 ### Building the estate split on each path
 
-The estate module gives you the two tests: can one person spend alone, and can one lost copy permanently stop recovery. What it deliberately doesn't do is show you how to build a setup that passes both, because that's a custody decision. So here's how each path carries the split.
+The estate module gives you the two tests: can one person spend alone, and can one lost copy permanently stop recovery. What it deliberately doesn't do is show you how to build a setup that passes both, because that's a custody decision. So each path carries the split differently.
 
 On the passphrase path, Anthony Park calls this poor man's multisig, and it works because of how a passphrase behaves. Seed plus passphrase produces a completely different wallet than the seed alone. Same words, different passphrase, different set of coins. So the seed by itself opens a real wallet that's empty, and the passphrase by itself is a word that opens nothing. Two objects, each worthless alone, which is exactly what lets you hand each one to a different person.
 
