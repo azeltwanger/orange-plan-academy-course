@@ -15,6 +15,23 @@ Every projection is math on top of assumptions. This lesson makes yours delibera
 
 A second distinction that trips people the same way: **current cash flow answers what is available now; the projection answers where today's pattern leads.** This is not a budgeting app that wants every coffee categorized forever. You give it the pattern, and it shows you where the pattern goes.
 
+## Previews versus your actual plan
+
+The third distinction is about the app rather than the plan, and it is the one people get bitten by.
+
+Many screens show you what a change *would* do before you have decided anything. Click a chip, set a schedule, compare two strategies, and the numbers move. **That is a preview. A sandbox. Your plan has not changed.**
+
+| | Where it lives | Is it your plan? |
+|---|---|---|
+| **Preview / sandbox** | The screen you are working on | No. Nothing is saved |
+| **Applied change** | Committed with **Apply to plan** | Yes. **Revert** walks it back |
+| **Scenario** | Kept separate on purpose | No. It is a question |
+| **Your plan of record** | The **Plan page** | Yes. This is what everything else is measured against |
+
+> **If you didn't click Apply, it didn't happen.**
+
+Once you know that, you can go poke at anything in the app without worrying you have quietly wrecked something.
+
 ## The big three
 
 - **Bitcoin growth.** The app's presets all decline over time (bigger Bitcoin, slower growth). Pick a curve you'd defend, not the biggest number.

@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 1.2
 1.2 The three layers of a plan, and setting your assumptions
-~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~9.3 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover two things: the three layers every plan is built out of, and then your assumptions, which live in the second layer.
@@ -20,6 +20,22 @@ The third layer is scenarios. These are questions, not decisions. What if I reti
 So, one line to keep: truth goes in the baseline, expected changes go in life events, and questions go in scenarios.
 
 There's a second distinction that trips people up in the same way, and it's worth naming now. Your current cash flow tells you what's available this month. The projection tells you where this month's pattern leads if you keep repeating it. Those are two different screens answering two different questions, and this is not a budgeting app that wants you to categorize every coffee forever. You give it the pattern, and it shows you where the pattern goes.
+
+== PREVIEWS VERSUS YOUR ACTUAL PLAN ==
+
+🎬 GRAPHIC: two panels. LEFT, a screen with numbers mid-change, labelled PREVIEW — nothing saved. RIGHT, the Plan page, labelled YOUR PLAN — the plan of record. An "Apply to plan" arrow is the only thing crossing between them.
+
+And there's a third distinction, which is the one people actually get bitten by, because this one is about the app rather than the plan.
+
+A lot of screens in Orange Plan will show you what a change would do before you've decided anything. You click a chip, or set a schedule, or compare two strategies side by side, and the numbers on screen move. That is a preview. It's a sandbox. Your plan has not changed.
+
+Your plan changes when you click Apply to plan. Until you do, you're only looking. And there's usually a Revert sitting right next to it to walk it back.
+
+So the rule is short: if you didn't click Apply, it didn't happen.
+
+And your real plan, the one everything else gets measured against, lives on the Plan page. That's your plan of record. Everything else you'll see is either a preview of a change you haven't committed to, or a scenario you're deliberately keeping to one side.
+
+Once you know that, you can go poke at anything in this app without worrying that you've quietly wrecked something.
 
 == YOUR ASSUMPTIONS ==
 
@@ -89,3 +105,5 @@ Plan → Retirement → Edit assumptions. Set growth and inflation, and leave th
 == YOU ARE DONE WHEN ==
 
 You could say out loud why each assumption is the number it is. That's the same standard the report's assumptions section is held to, and it's the one that catches a number you picked because you liked the answer.
+
+And you know where your plan of record lives, which is the Plan page, and you know that nothing you do on any other screen counts until you click Apply to plan.

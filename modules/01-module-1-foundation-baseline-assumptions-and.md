@@ -65,20 +65,49 @@ Nothing yet. This one is a shoebox, not a screen. The walkthrough enters it all.
 Every account, balance, income source and debt is written down in one place, and the totals match what you'd tell a planner out loud.
 
 
-## 1.2 Set your growth and inflation assumptions
-*`TEACH` · 635 words · ~5 min*
+## 1.2 The three layers of a plan, and setting your assumptions
+*`TEACH` · ~9.3 min · the script is canonical (`scripts/01-2_…`)*
 
-> ⚠ **FIX BEFORE FILMING — the parenthetical below is wrong.** "Bitcoin at 40%
-> forever **(its historical rate)**". 40% is a fine *assumption*; it is not the
-> historical rate, which runs ~60–70% depending on the window. Relabel it as a
-> deliberately conservative forward number — that's both accurate and a stronger
-> position to defend. See `COURSE-IMPROVEMENT-ANALYSIS.md`, action item 3.
+> ✅ The "(its historical rate)" parenthetical is **fixed** in the script — 40%
+> now reads as *"a deliberately optimistic number."* This master body predates
+> the three-layers rewrite; the script layer is the current one.
 
 **By the end of this lesson, you can:**
 
+- Separate the three layers a plan is built from, and know which one you are typing into
+- Tell a preview from a change you have actually applied, and name where your plan of record lives
 - Understand what an assumption is and why it drives every projection
 - See how one input can move a retirement date by years
 - Pick a Bitcoin growth preset and inflation rate you can defend
+
+---
+
+### The three layers
+
+| Layer | Meaning | Example |
+|---|---|---|
+| **Baseline** | True now | Current income is $150,000 |
+| **Life event** | A change you expect | Tuition ends next year |
+| **Scenario** | A question, not a decision | What if I retire three years earlier? |
+
+**Truth goes in the baseline. Expected changes go in life events. Questions go in scenarios.**
+
+**Second distinction:** current cash flow answers what is available *now*; the projection answers where today's pattern *leads*. This is not a budgeting app that wants every coffee categorized forever.
+
+### Previews versus your actual plan
+
+The third distinction is about the app rather than the plan, and it is the one people get bitten by. Many screens show what a change *would* do before anything is decided: click a chip, set a schedule, compare two strategies, and the numbers move. **That is a preview. Your plan has not changed.**
+
+| | Where it lives | Is it your plan? |
+|---|---|---|
+| **Preview / sandbox** | The screen being worked on | No. Nothing is saved |
+| **Applied change** | Committed with **Apply to plan** | Yes. **Revert** walks it back |
+| **Scenario** | Kept separate on purpose | No. It is a question |
+| **Plan of record** | The **Plan page** | Yes. What everything else is measured against |
+
+> **If you didn't click Apply, it didn't happen.**
+
+⚠ **Taught here on purpose.** The Apply/sandbox behaviour was previously introduced in the Module 6 walkthrough — six modules after students start being confused by it. This is the "is this my plan or a scenario?" stall from the client calls, in its app-mechanics form.
 
 ---
 

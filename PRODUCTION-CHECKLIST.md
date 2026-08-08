@@ -49,6 +49,11 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 > day. Do not hand-edit it — that is how the last one ended up naming
 > lessons that no longer exist.
 
+> **The per-lesson list below is GENERATED** by
+> `tools/build-production-checklist.py`. Regenerate it before every shoot
+> day. Do not hand-edit it — that is how the last one ended up naming
+> lessons that no longer exist.
+
 ## ☐ ONE-TIME SETUP (before any filming)
 
 ☐ Fresh demo account seeded with the couple's numbers (card: income $190k · spending $80k · 1.75 BTC · $280k mortgage @3.25% · $18k car @7% · 401k $12k/yr · Roth $7k/yr)
@@ -66,6 +71,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 
 
+
 ## ☐ MODULE 0 — START HERE   ·   WAVE 1
 
 ☐ 0.1 How to use this course — 🎙 film (~11 min)
@@ -75,7 +81,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ## ☐ MODULE 1 — FOUNDATION: BASELINE, ASSUMPTIONS, AND THE CONFIDENCE NUMBER   ·   WAVE 1
 
 ☐ 1.1 What to gather before you build the plan — 🎙 film (~6 min)
-☐ 1.2 Set your growth and inflation assumptions — 🎙 film (~8 min)
+☐ 1.2 The three layers of a plan, and setting your assumptions — 🎙 film (~10 min)
 ☐ 1.3 Read your retirement date and confidence number — 🎙 film (~7 min)
 ☐ 1.4 Walkthrough: set up your plan in Orange Plan — 🖥 capture
 ☐ 1.5 Walkthrough: build your baseline in Orange Plan — 🖥 capture
