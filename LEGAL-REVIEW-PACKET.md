@@ -43,10 +43,10 @@ A pattern scan was run across all 53 scripts and all 53 lesson-text files for ad
 
 **Gaps found and fixed in this pass:**
 
-- **The 1.1 script had no spoken disclaimer at all.** The lesson *text* carried one, but the video (which is what most students actually consume) never said it. A spoken "what this is and isn't" section was added.
-- Four high-risk lessons had no verification line: **5.2** (LTV cushion), **5.3** (the four debt plays), **7.6** (guardrails), **9.2** (access split). Each now names the limit of what's being taught and points to the right professional.
+- **The 0.1 script had no spoken disclaimer at all.** The lesson *text* carried one, but the video (which is what most students actually consume) never said it. A spoken "what this is and isn't" section was added.
+- Four high-risk lessons had no verification line: **4.2** (LTV cushion), **4.3** (the four debt plays), **6.4** (guardrails), **8.2** (access split). Each now names the limit of what's being taught and points to the right professional.
 
-**Still to consider with counsel:** whether the Bitcoin-backed borrowing material (5.2, 5.3, 7.5) needs a stronger standing warning than the lesson-level lines now carry, given it is the highest-stakes content in the course.
+**Still to consider with counsel:** whether the Bitcoin-backed borrowing material (4.2, 4.3, 6.3) needs a stronger standing warning than the lesson-level lines now carry, given it is the highest-stakes content in the course.
 
 ---
 

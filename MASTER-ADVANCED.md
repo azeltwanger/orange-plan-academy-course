@@ -499,7 +499,7 @@ before you act.
 
 # Advanced Module 5 — Tax Strategies
 
-## 6.3 RMD risk and Roth conversions
+## A5.1 RMD risk and Roth conversions
 *`TEACH` · 954 words · ~7 min*
 
 > **Gate.** Watch this only when all three are true on your own Tax page: you hold meaningful pre-tax retirement assets, you expect lower-income years before forced distributions begin, and you have a way to pay the conversion tax that is not the converted money. All three, not two. If Orange Plan does not show that combination, your core tax plan is complete without it.
@@ -612,7 +612,7 @@ For completeness: 72(t) allows penalty-free early access on a rigid schedule. Re
 - If the total pushes you into a higher bracket than your bridge years, a Roth conversion schedule is worth modeling.
 - Build the model. Bring it to your CPA.
 
-## 6.4 Harvesting losses and gains
+## A5.2 Harvesting losses and gains
 *`TEACH` · 1,156 words · ~8 min*
 
 > **Gate.** Watch this if your Tax page shows either harvestable losses or unused 0% gains room this year. If it shows neither, there is nothing to harvest and your tax plan is complete.
@@ -825,7 +825,7 @@ Your homework for this lesson is to:
 
 # Advanced Module 6 — Retirement Strategies
 
-## 7.2 Health insurance between retiring and Medicare
+## A6.1 Health insurance between retiring and Medicare
 *`TEACH` · 800 words · ~6 min*
 
 > **Gate.** Watch this if your plan has you stopping work before 65. If your retirement date is 65 or later, Medicare starts when the paycheck stops and this does not apply to you.
@@ -933,7 +933,7 @@ Price your bridge three ways:
 
 Most people have never seen those three numbers side by side. The comparison is the decision.
 
-## 7.4 Sell, borrow, or hold: funding a year of spending
+## A6.2 Sell, borrow, or hold: funding a year of spending
 *`TEACH` · 730 words · ~5 min*
 
 > **Gate.** Watch this once you are inside about five years of retiring, or already drawing income. It prices the three ways to fund a year against each other; before that, the withdrawal order in core is the decision that matters.
@@ -1210,7 +1210,7 @@ Your homework for this lesson is to:
 4. Confirm your wallet is generating a fresh receiving address each time, and that you haven't published one you keep reusing.
 
 
-## 8.5 Advanced custody: passphrase, multisig, and collaborative
+## A7.1 Advanced custody: passphrase, multisig, and collaborative
 *`TEACH` · 1,354 words · ~9 min*
 
 > **Gate.** Watch this if your custody setup fails one of the two access tests from the estate module: one person can spend alone, or one lost copy could permanently stop recovery. If your Level 2 design passes test two and you have accepted failing test one deliberately, your custody plan is complete.
@@ -1349,7 +1349,7 @@ So with a passphrase you're splitting two different objects between two people. 
 
 # Advanced Module 8 — Advanced Estate Planning
 
-## 9.5 Advanced: do you need a trust, and which one?
+## A8.1 Advanced: do you need a trust, and which one?
 *`TEACH + APP` · 1,923 words · ~9 min*
 
 > **Gate.** Watch this if your Protect page's projected estate crosses the trust gate, or you have a minor child, a blended family, property in more than one state, or a beneficiary who should not receive a lump sum. Most households run the gate, get a no, and are finished.

@@ -2,7 +2,7 @@
 
 *See debt as a tool, set your tolerance, read the two ratios with their guideline bands, watch LTV drift on Bitcoin-backed loans, know the four offense plays, and assign every debt a job.*
 
-## 4.1 Give every debt a job and set your ceiling
+## 3.1 Give every debt a job and set your ceiling
 *`TEACH` · 1,483 words · ~10 min*
 
 **By the end of this lesson, you can:**
@@ -234,12 +234,12 @@ Every debt has a job you can give the reason for, no row reads no payoff path un
 Then watch the walkthrough below this video, where we give every debt a job in Orange Plan.
 
 
-## 4.2 Walkthrough: give every debt a job in Orange Plan
+## 3.2 Walkthrough: give every debt a job in Orange Plan
 *`DEMO` · 6 steps · ~7 min*
 
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **5.2**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **4.2**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
 >
-> Replaces the retired hybrid captures 5.1-B and 5.5-B. The 5.2-B and 5.3-B
+> Replaces the retired hybrid captures 4.1-B and 4.5-B. The 4.2-B and 4.3-B
 > beats moved to the Advanced Library with their lessons.
 
 **By the end of this lesson, you can:**

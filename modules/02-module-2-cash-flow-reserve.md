@@ -2,7 +2,7 @@
 
 *Find your real surplus, protect the flywheel, size a cash reserve you won't have to sell Bitcoin for, and give every known future cost a lane.*
 
-## 3.1 Find your surplus and your two spending numbers
+## 2.1 Find your surplus and your two spending numbers
 *`TEACH` · 775 words · ~5 min*
 
 > 🐞 **Two live bugs in this lesson.**
@@ -112,7 +112,7 @@ Cash Flow → This month. Enter income and spending until the surplus verdict is
 Your surplus is in the app rather than in your head, and you can say your bare-bones number without looking it up. That second number is the one that decides how bad a year has to get before anything changes.
 
 
-## 3.2 Size your cash reserve in months of spending
+## 2.2 Size your cash reserve in months of spending
 *`TEACH` · 704 words · ~5 min*
 
 > 🐞 Outcomes checklist renders **0 / 0** (apostrophe in "reserve's" — item 16).
@@ -212,12 +212,12 @@ Your answer is what your reserve size should reflect. All four options pay for t
 Pick your target months. Multiply by your floor. Enter both into the reserve settings in the app.
 
 
-## 3.3 Fund known future costs: college, cars, a house, repairs
+## 2.3 Fund known future costs: college, cars, a house, repairs
 *`TEACH` · 625 words · ~4 min*
 
 > 🔴 **FLAGGED FOR REBUILD — do not film.** Austin, 2026-07-29. The timeframe
 > table below tells holders not to hold Bitcoin for anything under 7 years.
-> That contradicts the never-sell default, contradicts lesson 3.2 (whose whole
+> That contradicts the never-sell default, contradicts lesson 2.2 (whose whole
 > point is not being forced to sell), and omits borrowing against Bitcoin —
 > which the app treats as a first-class tool and Module 6 teaches directly.
 > Rebuild around Life Events and funding sources. Full spec in
@@ -261,7 +261,7 @@ The lane depends on how far away the cost is. The further out, the more volatili
 | 3 to 10 years | Balanced mix of stocks and bonds, I-Bond ladders | Bitcoin |
 | 10+ years | A planned Bitcoin sell schedule can start here | Cash (drag is too high) |
 
-> ⚠ (3.3 redesign, item 18): the timeframe-lane table above is the one slated for replacement.
+> ⚠ (2.3 redesign, item 18): the timeframe-lane table above is the one slated for replacement.
 
 For 10+ year costs, plan the sales into low-bracket years (Module 5).
 
@@ -305,7 +305,7 @@ Three options:
 | **Pre-fund from flow.** | Route ~$1,000/mo into an intermediate lane for 8 years. That's ~$96k contributed, or ~$110k with growth. Tuition years become a routing move from the lane, not a hit to surplus. |
 | **Sell from Bitcoin.** | Plan sales into low-bracket years. Efficient if the tuition years land in a low-income year, otherwise it forces realized gains in high-bracket working years. (The retirement module names those years and shows you how to count yours; here it is enough that a low-income year is a cheap year to sell in.) |
 
-> ⚠ (3.3 redesign, item 18): the options table above is missing a fourth row — borrow against Bitcoin.
+> ⚠ (2.3 redesign, item 18): the options table above is missing a fourth row — borrow against Bitcoin.
 
 Which option is right depends on the numbers. But the plan needs to know the cost is coming and needs a lane for it.
 
@@ -344,10 +344,10 @@ Which known costs get pre-funded, and in which lane.
 Every known cost inside ten years either has a funding lane or a deliberate decision that monthly cash flow absorbs it. A cost you've decided to absorb is finished, not skipped.
 
 
-## 3.4 Walkthrough: build cash flow and reserve in Orange Plan
+## 2.4 Walkthrough: build cash flow and reserve in Orange Plan
 *`DEMO` · 1,739 words · ~11 min read*
 
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **3.4**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **2.4**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
 
 > ➕ **ADD (Austin, 2026-07-29):** note that **retirement spending excludes debt
 > payments** too. Step 3 makes this explicit for the Living row but the rule is

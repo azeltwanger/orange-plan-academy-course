@@ -4,10 +4,10 @@
 
 > ✅ **HOLD LIFTED (2026-07-31).** The Retirement Income page change landed
 > (commit 073fdf0, 2026-07-29). This module was re-verified against the new UI:
-> 7.6 Step 5 rewritten for the live Withdrawal order section, 7.3's app pointer
+> 6.4 Step 5 rewritten for the live Withdrawal order section, 6.2's app pointer
 > updated, all other steps confirmed unchanged. Clear to film.
 
-## 7.1 Your spending, income floor, gap, and bridge years
+## 6.1 Your spending, income floor, gap, and bridge years
 *`TEACH` · ~1,255 words · ~8 min*
 
 **By the end of this lesson, you can:**
@@ -118,7 +118,7 @@ Plan → Income → Income Blueprint. Enter the spending target and your Social 
 The gap is on screen, you've counted both bridges, and you've looked at your Bridge bucket and answered honestly whether it's sized for the Social Security bridge's price tag.
 
 
-## 7.3 Set your withdrawal order and refill rule
+## 6.2 Set your withdrawal order and refill rule
 *`TEACH` · 903 words · ~6 min*
 
 **By the end of this lesson, you can:**
@@ -248,7 +248,7 @@ Plan → Income → withdrawal order and refill rule.
 The order is set, the refill rule is set, and you can say what each one does in a bad year without opening the app.
 
 
-## 7.5 Guardrails: how much you can spend each year
+## 6.3 Guardrails: how much you can spend each year
 *`TEACH` · ~1,224 words · ~8 min*
 
 **By the end of this lesson, you can:**
@@ -351,10 +351,10 @@ Your policy is set and the app can tell you hold, raise or cut. You can say what
 Then watch the walkthrough below this video, where we build the paycheck in Orange Plan.
 
 
-## 7.6 Walkthrough: build the paycheck in Orange Plan
+## 6.4 Walkthrough: build the paycheck in Orange Plan
 *`DEMO` · 1,811 words · ~9 min*
 
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **7.6**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **6.4**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
 
 **By the end of this lesson, you can:**
 

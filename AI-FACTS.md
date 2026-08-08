@@ -1,6 +1,6 @@
 # AI-FACTS — how the Orange Plan AI actually works
 
-Source of truth for lesson 1.2 and every AI beat in the walkthroughs.
+Source of truth for lesson 0.2 and every AI beat in the walkthroughs.
 Verified against the app code on 2026-08-07. Every claim here has a file
 behind it. If the app changes, this file changes first, then the lesson.
 
@@ -163,7 +163,7 @@ The canonical rule the AI itself is given, verbatim from
   apply on the next request, no deploy.
 - **On camera, say "Claude Sonnet" with no version number.** The version is a
   config row that can change without a deploy, and a lesson shouldn't age out
-  the next time it does. Lesson 1.2 is already written that way.
+  the next time it does. Lesson 0.2 is already written that way.
 - **Every request carries `data_collection: 'deny'`** — a provider-level floor
   that excludes any inference provider that retains or trains on prompts
   (`api/ai/_lib/provider.js`). This is set on every model, not just the
@@ -301,7 +301,7 @@ mention it, mention it as what's coming — the honest version is "the AI knows
 the app and the frameworks it's built on; teaching it this course is on the
 list." Do not say it can walk someone through a lesson. It can't yet.
 
-Update this section the day it ships, then update lesson 1.2.
+Update this section the day it ships, then update lesson 0.2.
 
 ---
 
@@ -336,19 +336,19 @@ changes in the app, fix it here and in the lesson text.
 
 | lesson | workflow | phrase the student types |
 |---|---|---|
-| 3.1 Find your surplus | Review spending tradeoffs | "review my expenses for ways to save" |
-| 3.2 Size the reserve | Set my reserve target | "set my reserve target" |
-| 4.2 The two emotion gates | Build my portfolio strategy | "help me choose my target allocation" |
-| 5.1 The two ratios | Evaluate leverage capacity | "evaluate my leverage capacity" |
-| 5.4 Bitcoin-backed loans | Evaluate borrowing capacity | "evaluate bitcoin borrowing capacity" |
-| 6.2 Buckets, brackets, state | Identify tax planning opportunities | "identify tax planning opportunities" |
+| 2.1 Find your surplus | Review spending tradeoffs | "review my expenses for ways to save" |
+| 2.2 Size the reserve | Set my reserve target | "set my reserve target" |
+| 3.2 The two emotion gates | Build my portfolio strategy | "help me choose my target allocation" |
+| 4.1 The two ratios | Evaluate leverage capacity | "evaluate my leverage capacity" |
+| 4.4 Bitcoin-backed loans | Evaluate borrowing capacity | "evaluate bitcoin borrowing capacity" |
+| 5.2 Buckets, brackets, state | Identify tax planning opportunities | "identify tax planning opportunities" |
 | 6.3 RMD risk + Roth | Evaluate Roth conversions | "find my Roth conversion window" |
 | 6.4 Harvesting | Review harvesting opportunities | "should I harvest gains or losses" |
-| 7.3 Income waterfall | Compare withdrawal strategies | "which retirement drawdown strategy fits me" |
+| 6.2 Income waterfall | Compare withdrawal strategies | "which retirement drawdown strategy fits me" |
 | 7.4 Sell, borrow, or hold | Compare selling vs. borrowing | "should I sell bitcoin or borrow" |
 | 8.7 Custody map | Review Protection Plan | "can my family access what they need" |
-| 9.1 Executor + documents | Prepare for estate planning | "what should I ask an estate attorney" |
-| 10.1 The monthly pass | Continue my plan | "what should I work on next" |
+| 8.1 Executor + documents | Prepare for estate planning | "what should I ask an estate attorney" |
+| 9.1 The monthly pass | Continue my plan | "what should I work on next" |
 | 11.1 Scenarios | Test a planning decision | "build a scenario for this choice" |
 | 11.3 How to read a plan | Review my full plan | "what should I fix first" |
 

@@ -1,6 +1,6 @@
 # Advanced Module 6 — Retirement Strategies
 
-## 7.2 Health insurance between retiring and Medicare
+## A6.1 Health insurance between retiring and Medicare
 *`TEACH` · 800 words · ~6 min*
 
 > **Gate.** Watch this if your plan has you stopping work before 65. If your retirement date is 65 or later, Medicare starts when the paycheck stops and this does not apply to you.
@@ -108,7 +108,7 @@ Price your bridge three ways:
 
 Most people have never seen those three numbers side by side. The comparison is the decision.
 
-## 7.4 Sell, borrow, or hold: funding a year of spending
+## A6.2 Sell, borrow, or hold: funding a year of spending
 *`TEACH` · 730 words · ~5 min*
 
 > **Gate.** Watch this once you are inside about five years of retiring, or already drawing income. It prices the three ways to fund a year against each other; before that, the withdrawal order in core is the decision that matters.

@@ -63,7 +63,7 @@ abstractions. When guide and dictation disagree, the dictation wins.
 - **Problem → solution rhythm.** "The problem was that... So what I did was..."
   "The risk was... The solution is..." "This is important because..."
 - **Numbers in digits, walked step by step.** "$206,000 times 12.5 equals roughly
-  $2.58 million." "Take 1.2 and multiply it by itself." Never spelled out, never
+  $2.58 million." "Take 0.2 and multiply it by itself." Never spelled out, never
   dropped as a punchline — always walked.
 - **Hedged, non-advisory close on decisions.** "I'm not saying you should do
   this." "Run the numbers and see for yourself." "I'll let you be the judge."
@@ -114,7 +114,7 @@ abstractions. When guide and dictation disagree, the dictation wins.
 
 - **Textbook example openers.** Austin opens an example with **"Let's walk
   through an example," "Let's say that we have a couple…," "Let's run the
-  couple," "Say the couple retires at 60"** — verified in his own 3.2 dictation.
+  couple," "Say the couple retires at 60"** — verified in his own 2.2 dictation.
   He does NOT write **"Take someone who's 45…," "Take a couple in Texas,"
   "Consider a household…," "Imagine…," "Picture two retirees."** Those are
   written-essay constructions. Convert to the "Let's say we have…" form.
@@ -166,7 +166,7 @@ lesson video, so "below this video" is literal.
 a hand-off on lesson 1 of 5 promises a walkthrough that isn't below it.
 Module-final teach lessons, as of this writing:
 
-  M1 2.3 · M2 3.3 · M3 4.5 · M5 6.4 · M6 7.5 · M7 8.5 · M9 10.2 ·
+  M1 1.3 · M2 2.3 · M3 4.5 · M5 6.4 · M6 6.3 · M7 7.5 · M9 9.2 ·
   M10 11.1 and 11.3 (that module interleaves teach/walkthrough, so both get
   one). Module 0 has no walkthrough and gets none. **Modules 4 and 8 get NO
   hand-off** (2026-08-07): their lessons are hybrids whose screen half is the
@@ -206,7 +206,7 @@ lesson is the right target for a teach script. Measured on sentence openers:
 | corpus | chaining opener (so/and/but/now/then) | article/demonstrative opener |
 |---|---|---|
 | Austin, 3 client calls (1,648 sentences) | 39% | 6% |
-| **Austin, his own 3.2 dictation (the master)** | **15%** | **27%** |
+| **Austin, his own 2.2 dictation (the master)** | **15%** | **27%** |
 | The AI-written teach scripts (3,267 sentences) | 18% | 26% |
 
 The scripts already sit on his dictated-lesson register. Someone comparing them
@@ -235,14 +235,14 @@ sweep:
 
 - **Teach a cross-cutting tool ONCE, in its own lesson.** The AI was being
   re-explained in 8 walkthroughs (853 words, ~6 minutes) with the same caveat
-  worded four different ways. It now lives in 1.2, and every later beat is
+  worded four different ways. It now lives in 0.2, and every later beat is
   reduced to three things: which button, what it reads on THAT page, and when
   it's worth running. Facts for that lesson live in AI-FACTS.md, verified
   against the app code. If the app's AI changes, AI-FACTS.md changes first.
 - **A jurisdiction disclaimer is a module-level statement, not a per-lesson
   tail.** "If you're outside the US" appeared 12 times, 7 of them a verbatim
   block. It's now said ONCE at the top of Module 5 and ONCE at the top of
-  Module 8, plus a breakdown in 1.1 of which modules are US-shaped and how the
+  Module 8, plus a breakdown in 0.1 of which modules are US-shaped and how the
   app handles it (US dollars, US federal + state tax engine, no country
   setting).
 
@@ -253,7 +253,7 @@ sweep:
 
 Cut 5.6 and 9.6, which were read-back laps with 2 and 3 click steps. What
 survived moved into the module's real screen half: the "where this module's
-work lives" reference table, and 9.5's decision ledger. Do not reintroduce a
+work lives" reference table, and 8.5's decision ledger. Do not reintroduce a
 "check your work" lesson. Every walkthrough already closes on a WRAP.
 
 ## Homework is an app action (Austin, 2026-08-07)
@@ -268,7 +268,7 @@ cost basis lots, retirement spending, Social Security. Things with no field
 (a debt ceiling, a refill rule, an "only one" list) are DECIDED and said out
 loud, not written. The exceptions that stay on paper are the inheritance
 pieces, where writing is the deliverable and the app must never hold it: the
-access split (9.2) and the heir letter (9.3).
+access split (8.2) and the heir letter (8.3).
 
 ## Scan for SHAPES, not strings (Austin, 2026-08-08)
 
@@ -357,7 +357,7 @@ Filenames derive from titles (`tools/build-scripts.py` slugs them), so a
 retitle renames files. Use `git mv` and re-run the generators; the protected
 dictation files are keyed on lesson NUMBER, not filename, so they survive.
 
-## Voice comparison against 3.2 — `tools/voice-compare.py` (2026-08-08)
+## Voice comparison against 2.2 — `tools/voice-compare.py` (2026-08-08)
 
 Austin asked for every rewritten script to be measured against his own
 dictation before it goes on the dictation list. `03-2` is the master. Running
@@ -370,7 +370,7 @@ neither should be fixed by rewriting.
 | **median sentence length** | **18 words** | 9 – 14 | he unpacks; drafts compress |
 | chaining opener | 13% | 4 – 23% | in range |
 | article opener | 22% | 13 – 33% | in range |
-| "I think" per 1k | 2.4 | 0 – 2.1 | slightly low, tolerable |
+| "I think" per 1k | 1.4 | 0 – 1.1 | slightly low, tolerable |
 | "because" per 1k | 4.3 | 0.6 – 9.8 | in range |
 
 **Do NOT mass-inject "going to" or lengthen sentences mechanically.** That is

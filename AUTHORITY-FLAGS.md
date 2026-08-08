@@ -16,7 +16,7 @@ Sorted by how much of Austin's own recommendation was overwritten.
 
 ### F1 · The transfer threshold — Austin's number, deleted and replaced ✅ RESTORED
 
-**What Austin said** (8.2, his own words, first person):
+**What Austin said** (7.2, his own words, first person):
 
 > "The fix is to sweep on a threshold, not on a schedule. **My rule of thumb is
 > about 0.01 to 0.02 Bitcoin as a minimum per transfer.**"
@@ -51,7 +51,7 @@ sale**. My price-dependency principle survives as the explanation, not as a
 replacement for the number. Original entry below.
 
 
-**What the course said** (4.2, now 5.2):
+**What the course said** (3.2, now 4.2):
 
 > "Bitcoin belongs in Legacy. If you're planning to spend your Bitcoin inside of
 > 10 years, then either the bucket is wrong or the plan is wrong."
@@ -85,7 +85,7 @@ the B-disguised-as-C trap.
 ### F3 · "Target ÷ months to go" ✅ RESOLVED BY AUSTIN, 2026-08-08
 
 Austin dictated the full college-funding position, now in
-`COLLEGE-FUNDING-AUTHORITY.md` and implemented in 3.3.
+`COLLEGE-FUNDING-AUTHORITY.md` and implemented in 2.3.
 
 **What changed.** My "divide the target by the months" rule survives for **fixed
 dated costs** — a roof, a car, a down payment, where the number and the date are
@@ -153,7 +153,7 @@ year at either end.
 
 ### F6 · The Level 2 access design
 
-**What Austin said.** Nothing. The old 9.2 only ever described a passphrase
+**What Austin said.** Nothing. The old 8.2 only ever described a passphrase
 split; it had no answer for a student on a single hardware wallet.
 
 **What I wrote.** The whole Level 1 and Level 2 design: *the seed goes to your
@@ -187,9 +187,9 @@ and confirm or change them. They are all in one place for exactly this reason.
 These I checked against the same standard and they stay. Each is a math or fact
 error with a single correct answer:
 
-- **9.2 "half of a 2-of-2"** — seed + passphrase requires both; the old lesson
+- **8.2 "half of a 2-of-2"** — seed + passphrase requires both; the old lesson
   said losing one left the plan "half intact". Arithmetic, not opinion.
-- **$600k vs $400k taxable Bitcoin** — 7.3 divides $600,000 by $80,000 to get
+- **$600k vs $400k taxable Bitcoin** — 6.2 divides $600,000 by $80,000 to get
   ~7.5 years, and the demo seed is $600k. Advanced 7.4 used $400k. One of them
   is wrong and the arithmetic says which.
   **Second sweep, 2026-08-08:** the first pass fixed the *scripts* and left two
@@ -220,7 +220,7 @@ error with a single correct answer:
 ### F8 ✅ RESOLVED · Does the funding-stack logic generalise beyond college?
 
 **Austin approved the generalisation, 2026-08-08.** The six questions now lead
-3.3 as the general rule for any dated cost, explicitly covering cars, weddings,
+2.3 as the general rule for any dated cost, explicitly covering cars, weddings,
 a house, home repairs, business investment and family support. Original entry
 below.
 
@@ -229,7 +229,7 @@ Austin's position is explicitly about **college**: uncertain school, aid
 package, student contribution, and whether the child attends at all.
 
 A roof, a car, or a down payment has none of that uncertainty. There is no aid,
-no student contribution, no chance the roof declines to need replacing. So 3.3
+no student contribution, no chance the roof declines to need replacing. So 2.3
 currently keeps the simple treatment for those and applies the stack only to
 college.
 
@@ -237,16 +237,16 @@ college.
 whose *amount* is uncertain, like a wedding you have promised to contribute to,
 or eldercare? Those look more like college than like a roof.
 
-### F9 · 3.3 is now 14.5 minutes, the longest lesson in Module 2 (was 12.5)
+### F9 · 2.3 is now 14.5 minutes, the longest lesson in Module 2 (was 12.5)
 
 The college position roughly doubled the lesson. It replaced a framing that was
-wrong, so the content is not padding — but 3.3 now does two distinct jobs:
+wrong, so the content is not padding — but 2.3 now does two distinct jobs:
 fixed dated costs, and college as a funding stack.
 
 **Two options, Austin's call:**
 
 1. **Leave it at 12.5 min.** One lesson, one place to look for "future costs".
-2. **Split it.** 3.3 fixed dated costs (~5 min), 3.4 college as a funding stack
+2. **Split it.** 2.3 fixed dated costs (~5 min), 2.4 college as a funding stack
    (~7 min). Matches the "one thing at a time" principle and lets someone with
    no kids skip the second cleanly.
 
@@ -291,7 +291,7 @@ edit without Austin's word.
 
 ### F12 · Is the next-dollar process a strict waterfall or a flexible comparison?
 
-Lesson 3.2 currently reads as a waterfall. The broader philosophy is more
+Lesson 2.2 currently reads as a waterfall. The broader philosophy is more
 contextual: tax benefit, investment menu, Bitcoin exposure, liquidity, employer
 match, and early-retirement access all bear on the same dollar.
 
@@ -362,7 +362,7 @@ is doing real work and the course has to pick something a student can act on.
 
 ## Not bucket 2 — a contradiction worth flagging (category B)
 
-### The coded-location proposal fails the same test 9.2 was fixed to pass
+### The coded-location proposal fails the same test 8.2 was fixed to pass
 
 The proposal to replace exact locations on the family-facing custody map with
 coded references (*"Seed backup: Location A"*, with retrieval instructions held
@@ -370,7 +370,7 @@ by the executor) is a real theft-risk improvement: a stolen family document
 stops being a treasure map.
 
 **But it introduces a second single point of failure at the document layer.**
-Run it through the two tests the corrected 9.2 teaches:
+Run it through the two tests the corrected 8.2 teaches:
 
 1. *Can one person act alone?* No — good, that is the point.
 2. *Can one lost copy or unavailable person permanently prevent recovery?*
@@ -379,7 +379,7 @@ Run it through the two tests the corrected 9.2 teaches:
    Bitcoin is recoverable in principle and unreachable in practice.
 
 This is precisely the dual-control-mistaken-for-redundancy defect that made the
-old 9.2 dangerous, reappearing one layer up in the paperwork. Any coded-location
+old 8.2 dangerous, reappearing one layer up in the paperwork. Any coded-location
 scheme must therefore specify **where the second copy of the legend lives** and
 who can reach it, or it is 2-of-2 wearing a filing-cabinet costume.
 

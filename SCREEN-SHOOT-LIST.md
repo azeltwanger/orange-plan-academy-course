@@ -21,9 +21,9 @@ forward and restarting is where the retakes come from. Where a sheet has
 
 ---
 
-## ☐ 2.4 · WALKTHROUGH — Set up your plan (onboarding)
+## ☐ 1.4 · WALKTHROUGH — Set up your plan (onboarding)
 
-*Screen capture · 13 steps · ~15 min*  ·  sheet: `scripts/02-4_WALKTHROUGH_onboarding.md`
+*Screen capture · 13 steps · ~15 min*  ·  sheet: `scripts/01-4_WALKTHROUGH_onboarding.md`
 
 **Stage this first:**
 - [ ] Fresh demo account, nothing entered
@@ -48,12 +48,12 @@ forward and restarting is where the retakes come from. Where a sheet has
 
 ---
 
-## ☐ 2.5 · WALKTHROUGH — Build your baseline
+## ☐ 1.5 · WALKTHROUGH — Build your baseline
 
-*Screen capture · 9 steps · ~15 min*  ·  sheet: `scripts/02-5_WALKTHROUGH_baseline-lap.md`
+*Screen capture · 9 steps · ~15 min*  ·  sheet: `scripts/01-5_WALKTHROUGH_baseline-lap.md`
 
 **Stage this first:**
-- [ ] Same demo account, straight after 2.4 — the plan must already exist
+- [ ] Same demo account, straight after 1.4 — the plan must already exist
 - [ ] Monte Carlo NOT yet run, so the ring lands live on camera
 - [ ] Clean browser, notifications off
 
@@ -71,9 +71,9 @@ forward and restarting is where the retakes come from. Where a sheet has
 
 ---
 
-## ☐ 3.4 · WALKTHROUGH — Cash flow + reserve
+## ☐ 2.4 · WALKTHROUGH — Cash flow + reserve
 
-*Screen capture · 10 steps · ~15 min*  ·  sheet: `scripts/03-4_WALKTHROUGH_cashflow-and-reserve.md`
+*Screen capture · 10 steps · ~15 min*  ·  sheet: `scripts/02-4_WALKTHROUGH_cashflow-and-reserve.md`
 
 **Stage this first:**
 - [ ] 2–3 months of categorized transactions linked or imported (else Verify Spending is empty)
@@ -95,9 +95,9 @@ forward and restarting is where the retakes come from. Where a sheet has
 
 ---
 
-## ☐ 4.2 · WALKTHROUGH — Give every debt a job
+## ☐ 3.2 · WALKTHROUGH — Give every debt a job
 
-*Screen capture · 6 steps · ~7 min final*  ·  sheet: `scripts/04-2_WALKTHROUGH_debt.md`
+*Screen capture · 6 steps · ~7 min final*  ·  sheet: `scripts/03-2_WALKTHROUGH_debt.md`
 
 **Stage this first:**
 - [ ] Every debt entered with real terms: balance, rate, payment, and a payoff date where one exists
@@ -116,14 +116,14 @@ forward and restarting is where the retakes come from. Where a sheet has
 
 ---
 
-## ☐ 5.5 · WALKTHROUGH — Route it
+## ☐ 4.5 · WALKTHROUGH — Route it
 
-*Screen capture · 11 steps · ~16 min*  ·  sheet: `scripts/05-5_WALKTHROUGH_route-it.md`
+*Screen capture · 11 steps · ~16 min*  ·  sheet: `scripts/04-5_WALKTHROUGH_route-it.md`
 
 **Stage this first:**
 - [ ] 401(k) owner has a **salary income source** entered (else Fill to match is disabled)
 - [ ] Surplus routed into **Step 3** of the waterfall (contribution rows only appear with a surplus)
-- [ ] Conviction tier + target range from 5.1 written on a card
+- [ ] Conviction tier + target range from 4.1 written on a card
 - [ ] Clean browser, notifications off
 
 **Beats:**
@@ -143,9 +143,9 @@ forward and restarting is where the retakes come from. Where a sheet has
 
 ---
 
-## ☐ 6.5 · WALKTHROUGH — Model it (tax)
+## ☐ 5.3 · WALKTHROUGH — Model it (tax)
 
-*Screen capture · 9 steps · ~14 min*  ·  sheet: `scripts/06-5_WALKTHROUGH_model-it-tax.md`
+*Screen capture · 9 steps · ~14 min*  ·  sheet: `scripts/05-3_WALKTHROUGH_model-it-tax.md`
 
 **Stage this first:**
 - [ ] Last year's return handy · a wallet/exchange export ready
@@ -167,9 +167,9 @@ forward and restarting is where the retakes come from. Where a sheet has
 
 ---
 
-## ☐ 7.6 · WALKTHROUGH — Build the paycheck
+## ☐ 6.4 · WALKTHROUGH — Build the paycheck
 
-*Screen capture · 11 steps · ~17 min*  ·  sheet: `scripts/07-6_WALKTHROUGH_build-the-paycheck.md`
+*Screen capture · 11 steps · ~17 min*  ·  sheet: `scripts/06-4_WALKTHROUGH_build-the-paycheck.md`
 
 **Stage this first:**
 - [ ] Plan in **RETIREMENT phase** (several controls gate on currentAge ≥ retirementAge)
@@ -195,9 +195,9 @@ forward and restarting is where the retakes come from. Where a sheet has
 
 ---
 
-## ☐ 8.4 · DEMO — Hardware wallet setup + exchange hardening
+## ☐ 7.4 · DEMO — Hardware wallet setup + exchange hardening
 
-*External screen record · 3 beats · ~9 min final** — NOT Orange Plan. Vendor tools only. Evergreen: record once, keep forever.*  ·  sheet: `scripts/08-4_DEMO_hardware-wallet-exchange.md`
+*External screen record · 3 beats · ~9 min final** — NOT Orange Plan. Vendor tools only. Evergreen: record once, keep forever.*  ·  sheet: `scripts/07-4_DEMO_hardware-wallet-exchange.md`
 
 **Stage this first:**
 - [ ] Manufacturer-direct hardware wallet, still sealed
@@ -212,12 +212,12 @@ forward and restarting is where the retakes come from. Where a sheet has
 
 ---
 
-## ☐ 8.5 · WALKTHROUGH — Document your custody map
+## ☐ 7.5 · WALKTHROUGH — Document your custody map
 
-*Screen capture · 6 steps · ~15 min*  ·  sheet: `scripts/08-5_WALKTHROUGH_custody-map.md`
+*Screen capture · 6 steps · ~15 min*  ·  sheet: `scripts/07-5_WALKTHROUGH_custody-map.md`
 
 **Stage this first:**
-- [ ] Custody level from 8.2 in mind · know whether the dead-man switch will need cloud sync
+- [ ] Custody level from 7.2 in mind · know whether the dead-man switch will need cloud sync
 - [ ] **Tier is keyed to ESTATE NET WORTH, not custody choice:** Foundation <$500k · Substantial $500k–$2M · HNW $2M+. The 3 Hardware items only exist at Substantial+
 - [ ] **Local Only mode** replaces the switch panel with *"Automatic check-in emails require cloud sync."* Flip to Cloud at Settings → Data & Privacy now if you're arming next module
 - [ ] Zero secrets on screen. The checklist never asks for any — the ONLY free-text moment in the whole walkthrough is the backup passphrase in step 3
@@ -234,9 +234,9 @@ forward and restarting is where the retakes come from. Where a sheet has
 
 ---
 
-## ☐ 9.5 · WALKTHROUGH — Protect, the heir letter, and the switch
+## ☐ 8.5 · WALKTHROUGH — Protect, the heir letter, and the switch
 
-*Screen capture · ONE continuous session · 7 chapters · ~22 min raw*  ·  sheet: `scripts/09-5_WALKTHROUGH_estate.md`
+*Screen capture · ONE continuous session · 7 chapters · ~22 min raw*  ·  sheet: `scripts/08-5_WALKTHROUGH_estate.md`
 
 **Cut points in this capture:** **✂ CUT POINT 1** · **✂ CUT POINT 2** · **✂ CUT POINT 3** · **✂ CUT POINT 4** · **✂ CUT POINT 5** · **✂ CUT POINT 6**
 
@@ -271,9 +271,9 @@ forward and restarting is where the retakes come from. Where a sheet has
 
 ---
 
-## ☐ 10.3 · WALKTHROUGH — Annual review, scenarios, and your report
+## ☐ 9.3 · WALKTHROUGH — Annual review, scenarios, and your report
 
-*Screen capture · ONE continuous session · ~24 min raw, cut into three*  ·  sheet: `scripts/10-3_WALKTHROUGH_annual-review-scenarios-report.md`
+*Screen capture · ONE continuous session · ~24 min raw, cut into three*  ·  sheet: `scripts/09-3_WALKTHROUGH_annual-review-scenarios-report.md`
 
 **Cut points in this capture:** **✂ CUT POINT 1** · **✂ CUT POINT 2**
 

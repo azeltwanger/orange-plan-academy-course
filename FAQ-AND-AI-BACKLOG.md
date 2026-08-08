@@ -69,9 +69,9 @@ hypothetical. Module 1 now teaches the distinction; the app should show it.
 | What is a tax lot? | Tooltip + core lesson text |
 | What does the deficit row mean? | Tooltip using the course's term |
 | What is a drawdown? | Tooltip |
-| What does 82% confidence mean? | Tooltip + 2.3 |
+| What does 82% confidence mean? | Tooltip + 1.3 |
 | What is dust? | Advanced A7.4 lesson text |
-| Which model runs the AI, and what are the limits? | 1.2 lesson text (already moved) |
+| Which model runs the AI, and what are the limits? | 0.2 lesson text (already moved) |
 | What is the current 0% capital-gains ceiling? | The Tax page. **Never spoken** |
 
 ## 4 · AI knowledge backlog
@@ -146,7 +146,7 @@ So Austin's memory is right: there was a row for this. It is a **dead table
 with live plumbing** — the hard part (schema, context wiring) is already done,
 and the missing part is UI plus one division.
 
-**Course side, fixed now.** 3.3 pointed at "Plan → Goals", a page that does not
+**Course side, fixed now.** 2.3 pointed at "Plan → Goals", a page that does not
 exist. It now teaches the division out loud (target ÷ months to go), says
 plainly that the app does not do it for you, and routes the two halves to the
 surfaces that are real: the cost as a **life event** so the projection knows,
@@ -156,7 +156,7 @@ the container as the **Bridge bucket target** so it lives somewhere safe.
 `financial_goals` table is old and stays dormant. Do not re-propose it, and do
 not write course copy that implies a goals screen is on the way.
 
-**So the course answer above is permanent, not interim.** 3.3 teaches the
+**So the course answer above is permanent, not interim.** 2.3 teaches the
 division as something the student does — one calculation, in their head — and
 the two entries that follow are the ones that actually change the plan. The
 lesson says "you do the division, not the app", with no "yet" and no "today",

@@ -3,7 +3,7 @@
 *What keeps the plan alive: two review rhythms, scenarios for testing a decision,
 and the finished report you save once a year.*
 
-## 10.1 Keep the plan current: the monthly pass and the annual review
+## 9.1 Keep the plan current: the monthly pass and the annual review
 *`TEACH` · ~1,715 words · ~11 min*
 
 **By the end of this lesson, you can:**
@@ -102,7 +102,7 @@ Your calendar, not the app. There is no in-app scheduler: a specific recurring d
 Both dates are recurring events you can see, and you have written down what you will not touch during a monthly pass. That second one is what holds the line when the price is moving.
 
 
-## 10.2 Test a decision and read the finished plan
+## 9.2 Test a decision and read the finished plan
 *`TEACH` · ~1,930 words · ~12 min*
 
 **By the end of this lesson, you can:**
@@ -251,10 +251,10 @@ You have answered the stress test out loud, read your own report in question ord
 Then watch the module walkthrough below this video, where we build both scenarios, walk the report, and save the PDF.
 
 
-## 10.3 Walkthrough: annual review, scenarios, and your report
+## 9.3 Walkthrough: annual review, scenarios, and your report
 *`DEMO` · ~4,500 words · ~24 min raw, cut into three*
 
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **10.3** in ONE continuous
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **9.3** in ONE continuous
 > session; the app state builds forward and restarting is where the retakes come
 > from. Two `✂ CUT POINT` markers below sit on stable app states, so the edit can
 > ship this as one video or three. Beat sheet + required app state:

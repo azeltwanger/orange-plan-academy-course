@@ -34,13 +34,13 @@ Lesson types — this drives the whole shooting plan:
   - Waterfall: 401(k) $1,000 + HSA $300 + Roth $583 + Bitcoin/taxable **$2,117/mo**
   - Debt: $280,000 mortgage @3.25% + $18,000 car @7% → DTA 40%, DTI ~12%
   - Assets: $175k BTC (1.75 BTC) + $90k funds + $30k cash + $450k house = $745,000
-  - Retirement-era demo (Modules 6+): $80,000 spending · $120,000 reserve (18 mo) · **$600K taxable BTC · $400K traditional** · $200K Roth · SS $51,600/yr ($4,300/mo). ⚠ Taxable BTC is $600K, not $400K — 7.3 divides it by $80,000 to get ~7.5 years, and it must match the seeded demo on screen.
+  - Retirement-era demo (Modules 6+): $80,000 spending · $120,000 reserve (18 mo) · **$600K taxable BTC · $400K traditional** · $200K Roth · SS $51,600/yr ($4,300/mo). ⚠ Taxable BTC is $600K, not $400K — 6.2 divides it by $80,000 to get ~7.5 years, and it must match the seeded demo on screen.
 - [x] **Evergreen numbers policy (replaces the old item 11).** The course must outlive the tax year, so: (1) never speak a law-set number (bracket, limit, exemption, RMD age) as a fact — the scripts are already written this way; (2) worked-example figures are tilde-marked snapshots with a "these move every year" frame — leave them, say the frame; (3) when a law number is on screen during capture, don't zoom or dwell, and refer to it as "the current number the app shows." The app updates with the law; the video doesn't have to.
 - [ ] **Decide the lesson renames** (item 20 — plain-language v2 titles are drafted and awaiting your go). Film with FINAL titles; renaming after filming means re-recording intros.
-- [ ] **Decide the 3.3 rebuild** (item 18 — Life-Events checklist redesign is spec'd, 3 questions open). If you're rebuilding it, do it before filming Module 2.
+- [ ] **Decide the 2.3 rebuild** (item 18 — Life-Events checklist redesign is spec'd, 3 questions open). If you're rebuilding it, do it before filming Module 2.
 - [x] **Retirement Income page push** — LANDED (commit 073fdf0, 2026-07-29). The retirement walkthrough's Step 5 and the sell-vs-borrow lesson's app pointer rewritten against the new UI and re-verified.
 - [ ] Set the app to a clean browser profile: no extensions, no bookmarks bar, notifications off, 1080p+ window.
-- [ ] Print the three toolkit PDFs (06 Heir Letter, 07 Family Custody Map, 08 Executor Packet) — they appear on camera in 8.5, 9.1, 9.3.
+- [ ] Print the three toolkit PDFs (06 Heir Letter, 07 Family Custody Map, 08 Executor Packet) — they appear on camera in 7.5, 8.1, 8.3.
 
 ## Phase 1 — Teleprompter prep (per lesson, ~10 min each)
 
@@ -56,7 +56,7 @@ The master file is written to be read aloud, but strip these before loading the 
 
 > ⚠ **This document no longer carries the running order or a per-lesson table.**
 > Both used to be hand-typed here, and both went stale the moment a lesson was
-> merged or trimmed — this file was still listing separate 4.1/4.2 allocation
+> merged or trimmed — this file was still listing separate 3.1/3.2 allocation
 > lessons, five debt lessons, and an 11-module structure long after none of
 > that existed. **Filming from a stale order is a bigger risk than any amount
 > of extra runtime.**
@@ -83,7 +83,7 @@ The master file is written to be read aloud, but strip these before loading the 
 - **Teleprompter pace:** your natural ~155 wpm. If a lesson runs past ~8 prompter minutes, break at a `##` section heading and treat it as two segments.
 - **Flub protocol:** clap, 2-second pause, restart the paragraph. Never restart the lesson.
 - **Screen capture:** record at least 5 seconds of stillness before the first click and after the last — edit handles.
-- **Never on camera:** real account balances, real seed words (obviously), the plaintext backup-passphrase prompt (10.4 and 8.5 scripts already call this out — type it off-camera or use a visible throwaway).
+- **Never on camera:** real account balances, real seed words (obviously), the plaintext backup-passphrase prompt (10.4 and 7.5 scripts already call this out — type it off-camera or use a visible throwaway).
 - **Don't speak numbers that age:** the estate exemption, current tax brackets, today's BTC price. The scripts are already written to point at the screen instead — trust them.
 
 ## After each module is filmed

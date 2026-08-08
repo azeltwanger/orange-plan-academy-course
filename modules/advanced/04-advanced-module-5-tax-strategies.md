@@ -1,6 +1,6 @@
 # Advanced Module 5 — Tax Strategies
 
-## 6.3 RMD risk and Roth conversions
+## A5.1 RMD risk and Roth conversions
 *`TEACH` · 954 words · ~7 min*
 
 > **Gate.** Watch this only when all three are true on your own Tax page: you hold meaningful pre-tax retirement assets, you expect lower-income years before forced distributions begin, and you have a way to pay the conversion tax that is not the converted money. All three, not two. If Orange Plan does not show that combination, your core tax plan is complete without it.
@@ -113,7 +113,7 @@ For completeness: 72(t) allows penalty-free early access on a rigid schedule. Re
 - If the total pushes you into a higher bracket than your bridge years, a Roth conversion schedule is worth modeling.
 - Build the model. Bring it to your CPA.
 
-## 6.4 Harvesting losses and gains
+## A5.2 Harvesting losses and gains
 *`TEACH` · 1,156 words · ~8 min*
 
 > **Gate.** Watch this if your Tax page shows either harvestable losses or unused 0% gains room this year. If it shows neither, there is nothing to harvest and your tax plan is complete.

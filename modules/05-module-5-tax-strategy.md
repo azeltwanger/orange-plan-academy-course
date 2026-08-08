@@ -2,9 +2,9 @@
 
 *Cost basis first. Then the three account buckets, the tax window planner, RMD risk and Roth conversions, harvesting, and state taxes.*
 
-> **US-specific module.** Everything here runs on the US Internal Revenue Code: brackets, Roth accounts, RMDs, wash-sale rules, state taxes. Said ONCE, at the top of 6.1, and never repeated per lesson.
+> **US-specific module.** Everything here runs on the US Internal Revenue Code: brackets, Roth accounts, RMDs, wash-sale rules, state taxes. Said ONCE, at the top of 5.1, and never repeated per lesson.
 
-## 6.1 Cost basis: what you paid, and how to reconstruct it
+## 5.1 Cost basis: what you paid, and how to reconstruct it
 *`TEACH` · 715 words · ~5 min*
 
 > 🐞 Currency mangling in the lot-sale figures (item 17). Reconstructed from
@@ -91,7 +91,7 @@ Strategy → Tax → cost basis. Enter what you have, and flag the lots you can'
 Every lot has a basis you could show someone, or is flagged as unproven. No records means a basis of zero, which means tax on the entire sale price, so an unproven lot is a real number in your plan rather than a gap.
 
 
-## 6.2 Taxable, tax-deferred, and Roth: bracket windows and state taxes
+## 5.2 Taxable, tax-deferred, and Roth: bracket windows and state taxes
 *`TEACH` · ~1,175 words · ~8 min*
 
 > ✅ **Law-set figure removed (2026-08-08).** This lesson used to speak the
@@ -216,10 +216,10 @@ You know which bucket your money sits in and roughly in what proportion, and you
 Then watch the walkthrough below this video, where we model it in Orange Plan.
 
 
-## 6.5 Walkthrough: model it in Orange Plan
+## 5.3 Walkthrough: model it in Orange Plan
 *`DEMO` · 1,321 words*
 
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **6.5**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **5.3**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
 
 > App page is **Tax Center** — never named. **Tax funding** control label needs
 > eyeballing.

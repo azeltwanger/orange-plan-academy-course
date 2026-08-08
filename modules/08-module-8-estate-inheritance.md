@@ -2,9 +2,9 @@
 
 *Turn 'you can access it' into 'they can inherit it': executor and legal documents, the access split, the heir letter, the backstop switch, insurance, trusts if needed, and the Bitcoin-specific questions for the attorney.*
 
-> **US-specific module.** The executor role, the four documents, probate, trusts, and the federal exemption are all US law. Said ONCE, at the top of 9.1, and never repeated per lesson.
+> **US-specific module.** The executor role, the four documents, probate, trusts, and the federal exemption are all US law. Said ONCE, at the top of 8.1, and never repeated per lesson.
 
-## 9.1 The executor, the four legal documents, and choosing an estate attorney
+## 8.1 The executor, the four legal documents, and choosing an estate attorney
 *`TEACH + APP` · 2,265 words · ~11 min*
 
 **By the end of this lesson, you can:**
@@ -108,7 +108,7 @@ Most of hiring one is normal vetting: experience, fees, responsiveness. Four thi
 
 > **A fifth question exists, and it is the most expensive one to skip — but it
 > only applies to trusts,** so it lives with the trust lesson: **Advanced
-> Estate Planning → 9.5**, which covers the prudent-investor duty, why it can
+> Estate Planning → 8.5**, which covers the prudent-investor duty, why it can
 > force a trustee to sell the exact asset the trust was built to hold, and the
 > waiver that prevents it. If your household is heading toward a trust, watch
 > that before you hire anybody.
@@ -130,14 +130,14 @@ A will exists and an attorney has supervised the signing, your executor has been
 If you're outside the US, the tests and the frameworks travel well but the legal containers don't. Map the concepts with a qualified local professional.
 
 
-## 9.2 Split access: dual control and redundancy
+## 8.2 Split access: dual control and redundancy
 *`TEACH` · ~1,572 words · ~10 min*
 
 > ✅ **SAFETY REWRITE (2026-08-08).** The old lesson claimed a seed + passphrase
 > split gave "no single point of failure" and that half of it left the plan
 > "intact." Seed + passphrase is 2-of-2; half of a 2-of-2 is zero access.
 >
-> ✅ **OPTIONALITY FIXED (2026-08-08).** 8.3 tells students the advanced setups
+> ✅ **OPTIONALITY FIXED (2026-08-08).** 7.3 tells students the advanced setups
 > are optional and their custody plan is complete without them. This lesson
 > then required a passphrase or multisig to build the family access plan. Now
 > it teaches the two tests and an honest design **at whatever custody level the
@@ -244,7 +244,7 @@ Nothing to type. This design goes on your Family Custody Map, and the module wal
 You can name who holds each piece and where it lives, you have answered both tests in writing including the one your design fails, and you have run the whole thing with a small amount on a spare device. If you failed test two, you fixed it first: a loss you caused yourself is far more likely than a betrayal.
 
 
-## 9.3 The heir letter and the dead man's switch
+## 8.3 The heir letter and the dead man's switch
 *`TEACH + APP` · 1,442 words · ~7 min*
 
 **By the end of this lesson, you can:**
@@ -332,7 +332,7 @@ Protect → Needs attention → Heir letter, then the Dead man's switch row.
 The first two lines of your letter are written in your own words, the PDF is saved somewhere separate from your seeds and devices, and the switch is armed with recipients who have been told in advance that it exists.
 
 
-## 9.4 Insurance: term life, disability, umbrella, and when to stop
+## 8.4 Insurance: term life, disability, umbrella, and when to stop
 *`TEACH` · ~1,191 words · ~8 min*
 
 **By the end of this lesson, you can:**
@@ -413,17 +413,17 @@ You have a life number and a disability number from the same subtraction, and bo
 Then watch the module walkthrough below this video, where we complete the Protect queue, write the letter, and arm the switch.
 
 
-## 9.5 Walkthrough: Protect, the heir letter, and the switch
+## 8.5 Walkthrough: Protect, the heir letter, and the switch
 
 *`DEMO` · ~2,000 words · ~22 min raw, cut into seven*
 
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **9.5** in ONE continuous
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **8.5** in ONE continuous
 > session. The Needs attention queue shortens as you go, and that shrinking list
 > is the visual argument of the module. Six `✂ CUT POINT` markers let the edit
 > ship it as one video or seven. Beat sheet + required app state:
 > SCREEN-SHOOT-LIST.md.
 >
-> Replaces the retired hybrid captures 9.1-B and 9.3-B. The 9.5-B estate-tax
+> Replaces the retired hybrid captures 8.1-B and 8.3-B. The 8.5-B estate-tax
 > beats moved to the Advanced Library with the trust lesson.
 
 **By the end of this lesson, you can:**
@@ -476,7 +476,7 @@ Item 6 earns the meeting — if nobody says anything is confusing, the question 
 worth watching only when its condition is true for you. Continue only if
 one of these describes your situation:
 
-- **9.5 Advanced: do you need a trust, and which one?**
+- **8.5 Advanced: do you need a trust, and which one?**
   → *Watch this if your Protect page's projected estate crosses the trust gate, or you have a minor child, a blended family, property in more than one state, or a beneficiary who should not receive a lump sum. Most households run the gate, get a no, and are finished.*
 
 *Generated by `tools/build-module-gates.py` from the Gate line on each

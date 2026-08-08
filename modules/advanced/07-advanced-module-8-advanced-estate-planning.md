@@ -1,6 +1,6 @@
 # Advanced Module 8 — Advanced Estate Planning
 
-## 9.5 Advanced: do you need a trust, and which one?
+## A8.1 Advanced: do you need a trust, and which one?
 *`TEACH + APP` · 1,923 words · ~9 min*
 
 > **Gate.** Watch this if your Protect page's projected estate crosses the trust gate, or you have a minor child, a blended family, property in more than one state, or a beneficiary who should not receive a lump sum. Most households run the gate, get a no, and are finished.

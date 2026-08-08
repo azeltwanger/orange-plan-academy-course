@@ -163,7 +163,7 @@ Your homework for this lesson is to:
 4. Confirm your wallet is generating a fresh receiving address each time, and that you haven't published one you keep reusing.
 
 
-## 8.5 Advanced custody: passphrase, multisig, and collaborative
+## A7.1 Advanced custody: passphrase, multisig, and collaborative
 *`TEACH` · 1,354 words · ~9 min*
 
 > **Gate.** Watch this if your custody setup fails one of the two access tests from the estate module: one person can spend alone, or one lost copy could permanently stop recovery. If your Level 2 design passes test two and you have accepted failing test one deliberately, your custody plan is complete.

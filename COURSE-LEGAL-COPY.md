@@ -235,7 +235,7 @@ Last drafted: 2026-08-04.
 >
 > [WHAT'S NEW / WHAT'S COMING]
 
-**6d. On-screen video disclaimer** (burn into the first 5 seconds of Lesson 1.1, and add as a persistent lower-third on any lesson where you say a specific number):
+**6d. On-screen video disclaimer** (burn into the first 5 seconds of Lesson 0.1, and add as a persistent lower-third on any lesson where you say a specific number):
 
 > Educational content only. Not financial, tax, or legal advice.
 
@@ -332,7 +332,7 @@ The same four documents apply. Put them wherever Honen exposes static pages or a
 - [ ] Checkout shows the unchecked consent box and the auto-renewal disclosure **above** the payment fields
 - [ ] Renewal reminder email automated at 15–45 days
 - [ ] Community Guidelines pinned in the main space
-- [ ] On-screen disclaimer burned into Lesson 1.1
+- [ ] On-screen disclaimer burned into Lesson 0.1
 - [ ] Sales page carries the short disclaimer and no income or return promises
 - [ ] Any testimonial used carries results-not-typical language and any material connection disclosed
 - [ ] Decision made on live-call format, with counsel's sign-off, before the first call

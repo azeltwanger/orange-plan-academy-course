@@ -2,7 +2,7 @@
 
 *Pick an allocation tier, stress-test what you can actually hold, split your money into Reserve / Bridge / Legacy, order your contributions, and put each holding in the right account type.*
 
-## 5.1 Set the Bitcoin allocation you can hold through a full drawdown
+## 4.1 Set the Bitcoin allocation you can hold through a full drawdown
 *`TEACH` · 1,464 words · ~9 min*
 
 **By the end of this lesson, you can:**
@@ -144,7 +144,7 @@ Strategy → Allocation. Set the Bitcoin percentage and the drift band.
 You've run the drawdown test at today's balance, not the balance you had when you chose the number, and the answer was one you could sit through.
 
 
-## 5.2 Break your accounts down by holding type, then by timeframe
+## 4.2 Break your accounts down by holding type, then by timeframe
 *`TEACH` · 605 words · ~4 min*
 
 **By the end of this lesson, you can:**
@@ -224,7 +224,7 @@ Now look at what the two cuts tell you together. Their mix is 59% Bitcoin, which
 
 ⚠ **On the page, the timeframes section sits ABOVE the target mix and the account holdings.** That's a summary-first layout: the result at the top, the detail below. When you're doing the work for the first time, scroll down and start with what each account holds.
 
-> **The refill rule is taught once, in the retirement income module (7.3).**
+> **The refill rule is taught once, in the retirement income module (6.2).**
 > It is an operating decision for when you are drawing income, not a decision
 > you make while sorting accounts.
 
@@ -240,7 +240,7 @@ Two things set that target, and neither is a percentage picked out of the air:
 
 Both grow relative to everything else as you approach retirement. The target is what the projection uses. Change it and the plan re-solves, and from then on your job is routing new dollars toward it.
 
-> **The three misfits moved to the walkthrough (segment 5.5, step 7b).** They
+> **The three misfits moved to the walkthrough (segment 4.5, step 7b).** They
 > are point-at-the-screen beats, not teaching.
 >
 > **The Bitcoin-in-Bridge rule is Austin's, with the number in it** (F2 resolved
@@ -284,10 +284,10 @@ Strategy → Allocation → sort every account into Reserve, Bridge or Legacy, t
 No account is left on the app's inferred guess, and you can say where each bucket's target came from.
 
 
-## 5.3 Order your contributions: which account gets funded first
+## 4.3 Order your contributions: which account gets funded first
 *`TEACH` · 575 words · ~4 min*
 
-> ✅ **MATH ERROR FIXED (item 22) — Option A applied 2026-07-30.** 3.1 no longer
+> ✅ **MATH ERROR FIXED (item 22) — Option A applied 2026-07-30.** 2.1 no longer
 > subtracts the 401(k) or the Roth to reach surplus, so surplus is now
 > **$48,000/yr (~$4,000/mo)** = money not already committed to taxes, living, or
 > debt. This routing table spends that full $4,000 once: $1,000 + $300 + $583 +
@@ -404,7 +404,7 @@ Cash Flow → Routing → waterfall order.
 You know which rung the next dollar goes to without thinking about it. No match, no HSA eligibility, and no high-interest debt each complete their rung by being skipped deliberately.
 
 
-## 5.4 Asset location: which account each holding belongs in
+## 4.4 Asset location: which account each holding belongs in
 *`TEACH` · 686 words · ~5 min*
 
 **By the end of this lesson, you can:**
@@ -490,7 +490,7 @@ Every account's contents match the job of the wrapper it's in, and you can give 
 Then watch the walkthrough below this video, where we route it in Orange Plan.
 
 
-## 5.5 Walkthrough: route it in Orange Plan
+## 4.5 Walkthrough: route it in Orange Plan
 *`DEMO` · 1,895 words*
 
 > 🎥 **SCREEN SHARE — entire lesson.** Capture segment **4.6**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
@@ -563,7 +563,7 @@ Above the rows, a strip reads either **Assigned accounts · projected** or **Pro
 
 #### How to read the badges
 
-⚠ **A badge is information, not an order.** Behind means the app compared what you've assigned against what you told it you'd need. Only the Reserve row comes close to an instruction, because a thin reserve is what forces a sale at the worst possible moment. For the other two, Behind is a prompt to **make a decision**, not a command to drain the surplus into one row. Where a dated expense is involved, Behind should send you to the six questions in 3.3.
+⚠ **A badge is information, not an order.** Behind means the app compared what you've assigned against what you told it you'd need. Only the Reserve row comes close to an instruction, because a thin reserve is what forces a sale at the worst possible moment. For the other two, Behind is a prompt to **make a decision**, not a command to drain the surplus into one row. Where a dated expense is involved, Behind should send you to the six questions in 2.3.
 
 | Pattern | What it means | What to do |
 |---|---|---|
@@ -630,7 +630,7 @@ The collapsed row shows a mode pill: **fixed**, **fill to match**, **max**, or *
 
 Open the row and walk it top to bottom.
 
-**6.1: Contribution mode** — three options:
+**5.1: Contribution mode** — three options:
 
 - **Custom $/mo.** A fixed dollar amount.
 - **Fill to match.** Captures the full employer match, nothing more.
@@ -640,7 +640,7 @@ Pick **Fill to match**. The row prints *"targets $X/yr"*. The app has computed w
 
 Beside the mode control: **annual limit $X**, which flips to *"· at annual limit"* if a higher setting would exceed the cap.
 
-**6.2: Employer match** — two fields: **Match rate __%** and **up to __% of pay**. Enter both. The row computes *"captures $X/mo"*, the actual dollar value of the employer match you're capturing.
+**5.2: Employer match** — two fields: **Match rate __%** and **up to __% of pay**. Enter both. The row computes *"captures $X/mo"*, the actual dollar value of the employer match you're capturing.
 
 If Fill to match shows greyed out with *"Fill to match is off"*, the row is telling you which prerequisite is missing:
 
@@ -710,7 +710,7 @@ Two facts should be true and visible:
 
 - Your holdings match reality. The donut doesn't lie.
 - All accounts sorted. Dialog footer reads "All accounts sorted."
-- Bucket badges tell the true story — but **three Funded badges is not the finish line.** The finish line is that every badge has been read and decided on. A **Behind** badge you have looked at, run through the six questions in 3.3, and made a deliberate call about is a finished item, not an outstanding one.
+- Bucket badges tell the true story — but **three Funded badges is not the finish line.** The finish line is that every badge has been read and decided on. A **Behind** badge you have looked at, run through the six questions in 2.3, and made a deliberate call about is a finished item, not an outstanding one.
 - Bucket-job match: nothing with Legacy-level volatility parked in Bridge money. The classic misfit is Reserve Behind while Legacy is Funded.
 - Target mix at 100%, in a range you can defend, saved with a drift band you'd actually act on.
 - **captures $X/mo** shows the full match captured. Anything less is free money on the table, and it's visible on the screen.

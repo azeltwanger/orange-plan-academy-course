@@ -123,22 +123,22 @@ with no stated source.
 
 **Fixed as a result:**
 
-- **2.3** introduced "withdrawal order" four modules before it is taught. It was
+- **1.3** introduced "withdrawal order" four modules before it is taught. It was
   in a paragraph added during the previous pass, which is how new jargon gets in.
-- **3.3** used "bridge years" in Module 2, defined in Module 6. Now says what it
+- **2.3** used "bridge years" in Module 2, defined in Module 6. Now says what it
   means locally — a low-income year is a cheap year to sell in — and hands the
   name to the retirement module.
-- **1.2**, the second lesson in the whole course, name-dropped cost basis,
+- **0.2**, the second lesson in the whole course, name-dropped cost basis,
   harvesting, Roth conversions, seed phrases and passphrases before any of them
   existed. Rewritten to describe them rather than name them, except in the
   one-hard-rule sentence, where naming them literally is the point.
 
 **Known and accepted:**
 
-- **1.1** names most planning topics without defining them. That is the roadmap,
+- **0.1** names most planning topics without defining them. That is the roadmap,
   and the client calls specifically praised it. Naming what is coming is not the
   same defect as using a term as though it were understood.
-- **3.2** uses "sequence risk" with only a partial gloss. It is Austin's
+- **2.2** uses "sequence risk" with only a partial gloss. It is Austin's
   dictation and the VOICE-GUIDE calibration master, so it is flagged rather than
   edited — **watch whether any tester pauses there.** If two do, it is worth a
   short pickup recording.

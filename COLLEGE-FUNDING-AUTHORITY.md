@@ -51,12 +51,12 @@ ceilings, parent PLUS rules (changed 1 July 2026), and FAFSA asset treatment.
 
 **None of them is spoken in the video.** They live in `lesson-text/` and the
 app, where they can be corrected without a re-record. This is the same standard
-already applied to tax brackets, and it is the reason 3.3 says "they're in the
+already applied to tax brackets, and it is the reason 2.3 says "they're in the
 lesson text" rather than reading figures aloud.
 
 ## Where it is implemented
 
-- **Script 3.3** — "College is a funding stack, not a bill you prepay", the
+- **Script 2.3** — "College is a funding stack, not a bill you prepay", the
   six-source stack, where Bitcoin fits by time horizon, and financing as a
   legitimate piece rather than a failure.
 - **`lesson-text/03-3`** — the same, plus every current figure, the 529

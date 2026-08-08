@@ -32,7 +32,7 @@ lesson it touched.
 | 4 | ~~Add "where this lives" lines~~ | ~~Modules 4, 5, 8~~ | ✅ **Fully withdrawn** — Module 8's walkthroughs name **Protect** throughout, same filename-vs-nav artifact — walkthroughs name real nav paths (Strategy → Debt, Strategy → Tax) throughout; my reverse audit matched component *filenames* (Liabilities.jsx, TaxCenter.jsx), not UI. Only Module 8 still unverified. |
 | 5 | Split the 3,172-word estate walkthrough in two | Module 8 | ☐ ready |
 | 6 | Add drawdown-trend data (−93/−86/−84/−77) | Module 1 or 3 | ☐ ready |
-| 7 | ~~Eyeball the Tax funding control~~ | app + Module 5 | ✅ **resolved** — walkthrough 6.5 names the picker and both options; matches engine behavior |
+| 7 | ~~Eyeball the Tax funding control~~ | app + Module 5 | ✅ **resolved** — walkthrough 5.3 names the picker and both options; matches engine behavior |
 | 8 | Add "How to read the app" lesson (tooltips, gear, where numbers live) | Module 0/1 | ☐ needs decision |
 | 9 | Re-run `audit-ui-labels.sh`; re-check the ⚠ income-floor note | Module 6 | ☐ **blocked** — Retirement Income change in flight |
 | 10 | Add "where this lives" for Module 6 | Module 6 walkthrough | ☐ **blocked** — same |
@@ -40,18 +40,18 @@ lesson it touched.
 | 12 | Send 3–5 YouTube transcripts for voice matching | — | ☐ Austin |
 | 13 | ~~Decide whether the 11 module checks ship~~ | all modules | ☑ **closed** — Austin removed quizzes/flashcards by design (2026-07-29) |
 | 14 | Triage planned-but-unbuilt lessons — **count is lower than 23**, several exist under different nav titles | outline vs. course | ☐ needs decision |
-| 15 | Confirm templates **01–05**; the **Coverage Audit worksheet** (9.5, 9.7) is referenced with **no Materials location** — unlike 06/07/08 | Honen Materials | ☐ needs Austin |
+| 15 | Confirm templates **01–05**; the **Coverage Audit worksheet** (8.5, 9.7) is referenced with **no Materials location** — unlike 06/07/08 | Honen Materials | ☐ needs Austin |
 | 16 | **Fix 10 empty outcomes checklists** | 10 lessons | ✅ **DONE 2026-07-29** — `'"'"'` → `&#39;` in all 10; 0 of 50 malformed |
 | 17 | **Fix currency rendering as LaTeX math** — `$…$` pairs typeset as equations | up to 33 lessons | ☐ **ready — highest severity** |
 | 26 | **Toolkit PDF footers over-claim app features** — reminders/surfaces the course says don't exist | PDFs 07, 08 | ☐ **needs Austin — PDF edit** |
-| 25 | **Worked-example inconsistency:** couple's DTI is $1,850/~12% in 5.1 but $1,600/~10% in 10.3 | Modules 4, 9 | ☐ fold into item 22's arithmetic pass |
-| 24 | **Decide 8.4's read text** — it's a shooting script (producer-facing), fine until the video exists, then needs a learner rewrite or a deliberate keep | Module 7 | ☐ needs decision |
+| 25 | **Worked-example inconsistency:** couple's DTI is $1,850/~12% in 4.1 but $1,600/~10% in 9.3 | Modules 4, 9 | ☐ fold into item 22's arithmetic pass |
+| 24 | **Decide 7.4's read text** — it's a shooting script (producer-facing), fine until the video exists, then needs a learner rewrite or a deliberate keep | Module 7 | ☐ needs decision |
 | 23 | ~~Fix stale hand-off in 6.4~~ | Module 5 | ✅ **DONE 2026-07-29** — now points at the walkthrough |
-| 22 | **🔴 MATH ERROR: the couple's $19,000 is spent twice** across 3.1 and 4.4 | Modules 2 and 3 | ☐ **ready — highest priority** |
+| 22 | **🔴 MATH ERROR: the couple's $19,000 is spent twice** across 2.1 and 4.4 | Modules 2 and 3 | ☐ **ready — highest priority** |
 | 21 | **Resolve the bucket/wrapper/Legacy terminology tangle** — 4 overlapping naming systems | Modules 3, 4, 5 + app | ☐ **ready** |
 | 20 | **Rename all lessons descriptively; one name per lesson (nav = H1)** | all 50 | ☐ **Austin's call — full pass drafted** |
-| 19 | ~~State that retirement spending excludes debt payments~~ | 2.4, 7.7 | ✅ **DONE 2026-07-29** — one line each at both entry points |
-| 18 | **Rebuild lesson 3.3** around Life Events + funding sources; drop the "don't hold Bitcoin under 7 years" table | Module 2 | ☐ **Austin's call — spec drafted** |
+| 19 | ~~State that retirement spending excludes debt payments~~ | 1.4, 7.7 | ✅ **DONE 2026-07-29** — one line each at both entry points |
+| 18 | **Rebuild lesson 2.3** around Life Events + funding sources; drop the "don't hold Bitcoin under 7 years" table | Module 2 | ☐ **Austin's call — spec drafted** |
 
 Items 1 and 2 are withdrawn — see the audit-correction note below. Items 3–6 are
 independent of the Retirement Income change and safe to do now.
@@ -180,7 +180,7 @@ stress-test emotion gate).
 
 Two more with solid literature behind them:
 
-- **Guardrails** — ✅ **already satisfied**: lesson 7.6 cites the source
+- **Guardrails** — ✅ **already satisfied**: lesson 6.4 cites the source
   directly ("These bands come out of Guyton and Klinger's withdrawal research,
   sized for Bitcoin's volatility") and correctly frames the 60/80/95 stops as
   Orange Plan's shipped defaults. Note the course's implementation is
@@ -500,7 +500,7 @@ a decision rather than an accident, especially the two called out above.
 
 ## 🐞 Live bug: 10 outcomes checklists render empty
 
-Found 2026-07-29 from a screenshot of lesson 2.3, which shows **0 / 0** items
+Found 2026-07-29 from a screenshot of lesson 1.3, which shows **0 / 0** items
 where four should be listed.
 
 **Cause.** The outcomes component takes its items from a single-quoted HTML
@@ -599,7 +599,7 @@ Found 2026-07-29 by comparing a pasted lesson against its source. **Higher
 severity than the checklist bug** — this one corrupts the numbers themselves,
 in a course whose entire subject is numbers.
 
-**Source** (lesson 3.1, Find your surplus):
+**Source** (lesson 2.1, Find your surplus):
 
 ```
 | **Surplus** | **$29,000 / year (~$2,400/mo)** |
@@ -663,7 +663,7 @@ math off, nothing needs escaping at all.
 
 ---
 
-## 🔴 Lesson 3.3 redesign: "Give every future cost a lane"
+## 🔴 Lesson 2.3 redesign: "Give every future cost a lane"
 
 **Austin's call, 2026-07-29.** The current lesson is off-message and should be
 rebuilt around future cash-flow planning via Life Events. Recorded here as a
@@ -685,7 +685,7 @@ Three independent problems, beyond it not being Austin's view:
 1. **Contradicts the product's stated default.** `CLAUDE.md`: "Bitcoin
    maximalist perspective… The default is 'never sell.'" Telling a holder not to
    hold Bitcoin against a six-year cost is the opposite.
-2. **Contradicts lesson 3.2.** The reserve is sized precisely so a bad market
+2. **Contradicts lesson 2.2.** The reserve is sized precisely so a bad market
    never forces a Bitcoin sale. This lesson then moves Bitcoin out pre-emptively
    — doing voluntarily what the reserve exists to prevent.
 3. **Omits borrowing.** The app treats BTC-backed loans as a first-class debt
@@ -947,9 +947,9 @@ double-counts debt service and pushes the freedom date out.
 
 **Where to state it:**
 
-1. **Lesson 2.4**, onboarding Step 3, on the Retirement spending sub-slide —
+1. **Lesson 1.4**, onboarding Step 3, on the Retirement spending sub-slide —
    the field where the number is actually entered. Highest value.
-2. **Lesson 3.4**, Step 3 — extend the existing warning to name both fields.
+2. **Lesson 2.4**, Step 3 — extend the existing warning to name both fields.
 3. **Module 6**, "Spending, floor, and the gap" — the retirement-spending
    lesson proper.
 
@@ -960,7 +960,7 @@ Cheap to fix, and it protects the single most consequential input in the plan.
 
 ## Gap: nav titles and page titles disagree in 10 lessons
 
-Found 2026-07-29 while slotting lesson 4.1.
+Found 2026-07-29 while slotting lesson 3.1.
 
 **Two are substantive** — a learner clicks one title and lands on a page headed
 something else:
@@ -986,15 +986,15 @@ something else:
 ### This partially resolves action item 14
 
 Several titles I listed as "planned but never built" are built — under a
-different nav name. **"Find your Bitcoin path"** is the H1 of lesson 4.1. So
+different nav name. **"Find your Bitcoin path"** is the H1 of lesson 3.1. So
 the 23-lesson gap is overstated; some fraction is renames, not drops. Item 14
 should be re-triaged against H1s as well as nav titles before anyone concludes
 content is missing.
 
 ### Cross-references follow the H1, not the nav
 
-Lesson 4.1 closes with *"The next lesson covers the two checks that keep your
-allocation honest"* — which is the **H1** of 4.2, not its nav title ("The two
+Lesson 3.1 closes with *"The next lesson covers the two checks that keep your
+allocation honest"* — which is the **H1** of 3.2, not its nav title ("The two
 emotion gates"). So the in-lesson prose and the navigation are already using two
 different naming systems. Whichever wins, they should match, or the hand-off
 sentences will keep pointing at titles the learner can't find in the sidebar.
@@ -1036,53 +1036,53 @@ just stop being the label.
 
 | # | Current | Proposed |
 |---|---|---|
-| 1.1 | Start here: what this course is and how to use it | What this course builds, and what to have ready |
-| 2.1 | Gather your numbers | The documents and numbers to collect first |
-| 2.2 | What your plan rests on: assumptions | Picking your Bitcoin growth rate and inflation |
-| 2.3 | The confidence ring: your plan's stress test | Your earliest retirement date, and how likely it is to hold |
-| 2.4 | Walkthrough: set up your plan and build your baseline… | Walkthrough: set up Orange Plan and get your first retirement date |
-| 3.1 | Find your surplus: Keep, Cut, Reduce | Working out what you have left over each month |
-| 3.2 | Size the reserve to your life | How much cash to hold so you never have to sell Bitcoin |
-| 3.3 | Give every future cost a lane | Future costs people forget to plan for |
-| 3.4 | Walkthrough: build cash flow and reserve… | Walkthrough: enter your income, spending, and cash reserve |
-| 4.1 | The four Bitcoin allocation tiers | How much of your money belongs in Bitcoin |
-| 4.2 | The two emotion gates: stress-test + price context | What you'd actually do if Bitcoin dropped 70% |
+| 0.1 | Start here: what this course is and how to use it | What this course builds, and what to have ready |
+| 1.1 | Gather your numbers | The documents and numbers to collect first |
+| 1.2 | What your plan rests on: assumptions | Picking your Bitcoin growth rate and inflation |
+| 1.3 | The confidence ring: your plan's stress test | Your earliest retirement date, and how likely it is to hold |
+| 1.4 | Walkthrough: set up your plan and build your baseline… | Walkthrough: set up Orange Plan and get your first retirement date |
+| 2.1 | Find your surplus: Keep, Cut, Reduce | Working out what you have left over each month |
+| 2.2 | Size the reserve to your life | How much cash to hold so you never have to sell Bitcoin |
+| 2.3 | Give every future cost a lane | Future costs people forget to plan for |
+| 2.4 | Walkthrough: build cash flow and reserve… | Walkthrough: enter your income, spending, and cash reserve |
+| 3.1 | The four Bitcoin allocation tiers | How much of your money belongs in Bitcoin |
+| 3.2 | The two emotion gates: stress-test + price context | What you'd actually do if Bitcoin dropped 70% |
 | 4.3 | Give every dollar a job: Reserve / Bridge / Forever | Splitting your money by when you'll need it |
 | 4.4 | The contribution waterfall | Which account to put your next dollar in |
 | 4.5 | Asset location: the right account for each holding | Which account to hold each investment in |
 | 4.6 | Walkthrough: route it in Orange Plan | Walkthrough: set your target mix and where new money goes |
-| 5.1 | Defense: tolerance first, then the two ratios | How much debt is too much |
-| 5.2 | Drift and the LTV cushion | Keeping a Bitcoin-backed loan from being liquidated |
-| 5.3 | Offense: the four plays | Four ways to use debt instead of selling Bitcoin |
-| 5.4 | Every debt gets a job | Deciding what to do with each debt you have |
-| 5.5 | Walkthrough: give every debt a job… | Walkthrough: enter your debts and set a payoff plan |
-| 6.1 | Cost basis: the unlock for everything else | Finding what you paid for your Bitcoin |
-| 6.2 | The three buckets, your bracket roadmap, and the state lever | Taxable, tax-deferred, and Roth: what goes where |
+| 4.1 | Defense: tolerance first, then the two ratios | How much debt is too much |
+| 4.2 | Drift and the LTV cushion | Keeping a Bitcoin-backed loan from being liquidated |
+| 4.3 | Offense: the four plays | Four ways to use debt instead of selling Bitcoin |
+| 4.4 | Every debt gets a job | Deciding what to do with each debt you have |
+| 4.5 | Walkthrough: give every debt a job… | Walkthrough: enter your debts and set a payoff plan |
+| 5.1 | Cost basis: the unlock for everything else | Finding what you paid for your Bitcoin |
+| 5.2 | The three buckets, your bracket roadmap, and the state lever | Taxable, tax-deferred, and Roth: what goes where |
 | 6.3 | The RMD risk + Roth conversions | Roth conversions and avoiding a forced-withdrawal tax bill |
 | 6.4 | Harvesting losses and gains | Using losses and gains to lower your tax bill |
-| 6.5 | Walkthrough: model it in Orange Plan | Walkthrough: plan your Roth conversions and sales |
-| 7.1 | Spending, floor, and the gap | How much you'll spend in retirement, and what's missing |
+| 5.3 | Walkthrough: model it in Orange Plan | Walkthrough: plan your Roth conversions and sales |
+| 6.1 | Spending, floor, and the gap | How much you'll spend in retirement, and what's missing |
 | 7.2 | The bridge years | Funding the years between retiring and Social Security |
-| 7.3 | The healthcare bridge | Paying for health insurance before Medicare |
+| 6.2 | The healthcare bridge | Paying for health insurance before Medicare |
 | 7.4 | The income waterfall + draw and refill | Which account to withdraw from first in retirement |
-| 7.5 | Sell, borrow, or hold | Selling, borrowing, or holding to cover retirement spending |
-| 7.6 | The guardrails: turning the confidence number into a paycheck | How much you can safely spend each year |
+| 6.3 | Sell, borrow, or hold | Selling, borrowing, or holding to cover retirement spending |
+| 6.4 | The guardrails: turning the confidence number into a paycheck | How much you can safely spend each year |
 | 7.7 | Walkthrough: build the paycheck… | Walkthrough: turn your plan into a monthly paycheck |
-| 8.1 | Custody: the five questions and choosing your level | Choosing how to store your Bitcoin |
-| 8.2 | The hardware wallet and the recovery test | Setting up a hardware wallet and testing recovery |
-| 8.3 | Close the doors: single points of failure, hardening, and scams | Closing the gaps that get people's Bitcoin stolen |
-| 8.4 | External demo: hardware wallet setup + exchange hardening | Demo: hardware wallet setup and locking down your exchange |
-| 8.5 | Walkthrough: document your custody map… | Walkthrough: write down where your Bitcoin is held |
-| 9.1 | The executor, the four legal documents, and choosing an estate attorney | The four legal documents, and who carries them out |
-| 9.2 | The access split | Who can reach your Bitcoin, and when |
-| 9.3 | The heir letter | Writing instructions your family can actually follow |
-| 9.4 | The 90-day dead man's switch | Setting up a check-in that releases access if you die |
-| 9.5 | Insurance: the risks you can't self-insure yet | The risks you can't cover yourself yet |
+| 7.1 | Custody: the five questions and choosing your level | Choosing how to store your Bitcoin |
+| 7.2 | The hardware wallet and the recovery test | Setting up a hardware wallet and testing recovery |
+| 7.3 | Close the doors: single points of failure, hardening, and scams | Closing the gaps that get people's Bitcoin stolen |
+| 7.4 | External demo: hardware wallet setup + exchange hardening | Demo: hardware wallet setup and locking down your exchange |
+| 7.5 | Walkthrough: document your custody map… | Walkthrough: write down where your Bitcoin is held |
+| 8.1 | The executor, the four legal documents, and choosing an estate attorney | The four legal documents, and who carries them out |
+| 8.2 | The access split | Who can reach your Bitcoin, and when |
+| 8.3 | The heir letter | Writing instructions your family can actually follow |
+| 8.4 | The 90-day dead man's switch | Setting up a check-in that releases access if you die |
+| 8.5 | Insurance: the risks you can't self-insure yet | The risks you can't cover yourself yet |
 | 9.6 | Advanced: do you need a trust, and which one? | Whether you need a trust, and which kind |
 | 9.7 | Walkthrough: set the backstop + read the estate-tax number… | *splitting — see item 5* |
-| 10.1 | A review is not a rebuild: the two rhythms | Checking your plan without rebuilding it |
-| 10.2 | The monthly pass | Your five-minute monthly check |
-| 10.3 | The annual review: all six areas | Your once-a-year review, all six areas |
+| 9.1 | A review is not a rebuild: the two rhythms | Checking your plan without rebuilding it |
+| 9.2 | The monthly pass | Your five-minute monthly check |
+| 9.3 | The annual review: all six areas | Your once-a-year review, all six areas |
 | 10.4 | Walkthrough: run the annual review… | Walkthrough: run your annual review |
 | 11.1 | How to read a financial plan | How to read your financial plan |
 | 11.2 | Walkthrough: walk your report in Orange Plan | Walkthrough: read your plan report |
@@ -1134,13 +1134,13 @@ these mostly exist as sidebar labels. That's exactly where the scan happens.
 
 ### Two that need a decision, not just a rename
 
-**9.1 — "The executor, the four legal documents, and choosing an estate
+**8.1 — "The executor, the four legal documents, and choosing an estate
 attorney."** The title is long because the lesson does three jobs, and at 1,674
 words it's the longest non-walkthrough in the course. Shortening the title hides
 that rather than fixing it. Either split off the attorney material, or keep the
 long title as an honest label.
 
-**6.2 — "The three buckets, your bracket roadmap, and the state lever."** Same
+**5.2 — "The three buckets, your bracket roadmap, and the state lever."** Same
 shape, 1,436 words, three subjects. The proposed rename is cosmetic; the real
 question is whether the state lever is its own lesson. Note "State taxes and
 relocation: a big lever" appears in `bootstrap-outline.json` as a planned lesson
@@ -1151,7 +1151,7 @@ relocation: a big lever" appears in `bootstrap-outline.json` as a planned lesson
 Renaming is not just a field edit:
 
 - **In-lesson hand-off sentences** reference the next lesson by name. At least
-  4.1 does. Every hand-off needs checking after a rename.
+  3.1 does. Every hand-off needs checking after a rename.
 - **Cross-module references** ("Module 7 covers…") are by module, so those are
   safe.
 - **`ai-knowledge/`** — per `CLAUDE.md`, run `scripts/sync-ai-knowledge.sh` if
@@ -1165,12 +1165,12 @@ Renaming is not just a field edit:
 
 ## Terminology collision: "the three buckets" means two different things
 
-Found 2026-07-29 from lesson 4.2's hand-off line.
+Found 2026-07-29 from lesson 3.2's hand-off line.
 
 | Where | What "the three buckets" are | Sorted by | Uses |
 |---|---|---|---|
 | **Module 3**, lesson 4.3 | Reserve / Bridge / Forever | **Time horizon** | 16 |
-| **Module 5**, lesson 6.2 | Taxable / tax-deferred / Roth | **Tax treatment** | 8 |
+| **Module 5**, lesson 5.2 | Taxable / tax-deferred / Roth | **Tax treatment** | 8 |
 
 Both introduce themselves the same way:
 
@@ -1184,12 +1184,12 @@ bucket simultaneously. Lesson 4.5 (asset location) depends on exactly that
 interaction, so the reader needs to hold both at once with no way to tell them
 apart by name.
 
-Lesson 4.2's hand-off makes it concrete: *"The next lesson covers the three
+Lesson 3.2's hand-off makes it concrete: *"The next lesson covers the three
 buckets that give every dollar in your plan a job"* — pointing at the Module 3
 set, using a phrase Module 5 will later claim.
 
 **The v2 renames already fix the titles** — 4.3 becomes "Splitting your money by
-when you'll need it" and 6.2 becomes "Taxable, tax-deferred, and Roth: what goes
+when you'll need it" and 5.2 becomes "Taxable, tax-deferred, and Roth: what goes
 where". Neither says "buckets". But the **body text still collides**, which is
 where the reader actually meets it.
 
@@ -1214,7 +1214,7 @@ Found 2026-07-29 while slotting lesson 4.4. **Highest-priority finding in this
 document.** Per `CLAUDE.md`, wrong numbers are the worst possible failure, and
 this is in the worked example that runs through the entire course.
 
-**Lesson 3.1** reaches the surplus by *subtracting* retirement contributions:
+**Lesson 2.1** reaches the surplus by *subtracting* retirement contributions:
 
 | Step | Amount |
 |---|---|
@@ -1231,7 +1231,7 @@ this is in the worked example that runs through the entire course.
 | Rung | Amount | |
 |---|---|---|
 | **401(k)** | **$1,000/mo** | = $12,000/yr — already deducted above |
-| HSA | $300/mo | = $3,600/yr — never appears in 3.1 at all |
+| HSA | $300/mo | = $3,600/yr — never appears in 2.1 at all |
 | **Roth IRA** | **$583/mo** | = $7,000/yr — already deducted above |
 | Bitcoin + taxable | ~$517/mo | |
 
@@ -1240,9 +1240,9 @@ surplus, then presented as where the surplus *goes*. The couple's genuinely
 uncommitted money is about **$9,800/yr (~$817/mo)**, not $29,000.
 
 The HSA is a separate problem: $3,600/yr of contributions appear in 4.4 that
-never existed in the 3.1 walk.
+never existed in the 2.1 walk.
 
-**Why it matters beyond the arithmetic.** 3.1 tells the reader *"That $2,400 a
+**Why it matters beyond the arithmetic.** 2.1 tells the reader *"That $2,400 a
 month is the budget every later module has to work with."* Every downstream
 module does use it. If the figure is overstated by roughly two-thirds, the
 allocation splits, the contribution routing, and the reserve build-cap examples
@@ -1251,7 +1251,7 @@ all inherit the error.
 ### Two ways to fix it — Austin's call
 
 **Option A — surplus is pre-routing.** Stop subtracting 401(k) and Roth in the
-3.1 walk. Surplus becomes $48,000/yr (~$4,000/mo), defined as "money not already
+2.1 walk. Surplus becomes $48,000/yr (~$4,000/mo), defined as "money not already
 committed to taxes, living, or debt." 4.4's routing table then works unchanged,
 and the waterfall genuinely decides where retirement money goes.
 
@@ -1259,7 +1259,7 @@ and the waterfall genuinely decides where retirement money goes.
 decides the retirement contributions, so those can't already be settled before
 the waterfall runs. It does mean the $2,400 figure changes everywhere it appears.
 
-**Option B — surplus is post-routing.** Keep the 3.1 walk. Fix 4.4 to route only
+**Option B — surplus is post-routing.** Keep the 2.1 walk. Fix 4.4 to route only
 the uncommitted ~$817/mo, and show the 401(k)/Roth rungs as *already satisfied*
 rather than as new allocations.
 
@@ -1292,7 +1292,7 @@ Note the bug was invisible to a size check: `&#39;` and `'"'"'` are both five
 characters, so file sizes are identical before and after. The only proof is the
 `changedFiles` list and the re-scan.
 
-**Item 3 — the CAGR claim. Fixed.** Lesson 2.2 now reads:
+**Item 3 — the CAGR claim. Fixed.** Lesson 1.2 now reads:
 
 > **Bitcoin at 40% forever** (a deliberately conservative number, well under what
 > Bitcoin has actually done). Earliest retirement lands around **age 50**.
@@ -1358,12 +1358,12 @@ standing policy, each verified single-occurrence first:
 
 | Lesson | Was | Now |
 |---|---|---|
-| 6.4 closer | "next lesson covers relocation" (folded into 6.2) | points at walkthrough |
-| 8.3 closer | "next lesson covers advanced custody" (folded into 8.1) | points at external demo |
-| 8.5 | refs to Lessons 2/3/5 | Lessons 1/2/3 |
-| 8.5 Step 5 | custody level "(Foundation/Substantial/HNW)" — those are the estate tiers | "(1 to 4, from Lesson 1)" |
-| 9.1 | broken UTF-8 byte in "Directive anticipée" | repaired |
-| 9.6 closer | "next lesson covers the attorney questions" (they're in 9.1) | routes to walkthrough via Lesson-1 pointer |
+| 6.4 closer | "next lesson covers relocation" (folded into 5.2) | points at walkthrough |
+| 7.3 closer | "next lesson covers advanced custody" (folded into 7.1) | points at external demo |
+| 7.5 | refs to Lessons 2/3/5 | Lessons 1/2/3 |
+| 7.5 Step 5 | custody level "(Foundation/Substantial/HNW)" — those are the estate tiers | "(1 to 4, from Lesson 1)" |
+| 8.1 | broken UTF-8 byte in "Directive anticipée" | repaired |
+| 9.6 closer | "next lesson covers the attorney questions" (they're in 8.1) | routes to walkthrough via Lesson-1 pointer |
 | 9.7 | five refs: Lesson 4→3, 2→1, 6→5 (×2), 7→6 (×2) | fixed |
 
 **Left alone (ambiguous):** 9.7's "estate-level self-triage from Lesson 2" —
@@ -1385,13 +1385,13 @@ shape** — near-perfect agreement with the lessons that describe them.
 ### Verified correct, claim by claim
 
 **06 The Heir Letter** — "NEVER IN THIS LETTER" banner present with the exact
-never-list from lesson 9.3 (including "exact recovery steps" and "where the
+never-list from lesson 8.3 (including "exact recovery steps" and "where the
 config file lives"); the opening line to the family and the closing "FROM ME TO
-YOU" section both present, exactly as 9.7 promises; call order matches 9.3
+YOU" section both present, exactly as 9.7 promises; call order matches 8.3
 (executor → attorney → technical helper); header correctly says Module 8.
 
 **07 Family Custody Map** — the "location only — never the words, PIN, or
-passphrase" caption 8.5 quotes is there; footer "Review yearly — Module 9"
+passphrase" caption 7.5 quotes is there; footer "Review yearly — Module 9"
 matches; header correctly says Module 7. The PDFs carry the *current* module
 numbers — they postdate the outline restructure that left the stale in-lesson
 references.
@@ -1404,10 +1404,10 @@ note matches.
 
 ### Found and fixed (course side)
 
-**8.5 said the Custody Map "has four blocks" — the PDF has five.** The lesson's
+**7.5 said the Custody Map "has four blocks" — the PDF has five.** The lesson's
 table omitted INSURANCE & OTHER (policies, property, anything else the family
 should find). Fixed in the course: table now lists all five. This block is also
-where the map connects to 9.5's insurance audit, so omitting it undercut a
+where the map connects to 8.5's insurance audit, so omitting it undercut a
 cross-module link the documents themselves make.
 
 ### Found, needs Austin (item 26 — PDF edits, not course edits)
@@ -1417,7 +1417,7 @@ exist:
 
 | PDF | Footer claims | Course says |
 |---|---|---|
-| 07 | "In Orange Plan: Protect → custody map keeps this live and **reminds you yearly**" | 8.5/10.4: "There is no scheduler in Orange Plan"; no "custody map" surface is named in Protect — the checklist plays that role |
+| 07 | "In Orange Plan: Protect → custody map keeps this live and **reminds you yearly**" | 7.5/10.4: "There is no scheduler in Orange Plan"; no "custody map" surface is named in Protect — the checklist plays that role |
 | 08 | "In Orange Plan, Protect → **executor packet** tracks contacts and **reminds you when it's stale**" | No executor-packet surface appears anywhere in the walkthroughs; the packet is toolkit-only |
 
 06's footer, by contrast, is accurate ("Protect → heir letter tracks contacts
@@ -1430,7 +1430,7 @@ stale hand-off, but in print.
 
 ### Item 15, sharpened
 
-The 06/07/08 numbering still implies 01–05 exist. New evidence: lessons 9.5 and
+The 06/07/08 numbering still implies 01–05 exist. New evidence: lessons 8.5 and
 9.7 tell learners to use "the Coverage Audit worksheet" but — unlike 06/07/08,
 which get explicit 📎 Materials pointers — it's never given a location or
 number. If it's one of 01–05, the course sends people to a document without
@@ -1452,13 +1452,13 @@ grade 8. Zero lessons at grade 10 or above.** The prose is already at or below
 
 Hardest lessons (grade / ease / words-per-sentence):
 ```
-9.3  4.5 Asset location                     15.5 w/sent   <- only real outlier
-8.3  5.4 Every debt gets a job              19.4 w/sent   <- longest sentences
+8.3  4.5 Asset location                     15.5 w/sent   <- only real outlier
+7.3  4.4 Every debt gets a job              19.4 w/sent   <- longest sentences
 7.7  6.3 The RMD risk + Roth conversions    12.1
 7.4  9.7 Walkthrough: backstop + estate tax 14.9
-7.3  2.3 The confidence ring                14.6
+6.2  1.3 The confidence ring                14.6
 ```
-Easiest: 1.1 (4.6), 3.3 (4.8), 3.2 (4.9), 5.1 (5.0), 7.5 (5.3).
+Easiest: 0.1 (4.6), 2.3 (4.8), 2.2 (4.9), 4.1 (5.0), 6.3 (4.3).
 
 **The three actual barriers (not reading level):**
 
@@ -1466,29 +1466,29 @@ Easiest: 1.1 (4.6), 3.3 (4.8), 3.2 (4.9), 5.1 (5.0), 7.5 (5.3).
    taxable 55, conversion 44, drawdown 42, passphrase 38, LTV 37, harvest 34,
    RMD 33, multisig 25.
 2. **Define-late gaps** (term used N modules before it is explained):
-   - LTV used in 2.4, spelled out in 5.1 -> 3 modules late. FIXED.
+   - LTV used in 1.4, spelled out in 4.1 -> 3 modules late. FIXED.
    - RMD used in 4.4 table, defined in 6.3 -> 2 modules late. FIXED.
-   - passphrase / multisig used in 4.1, taught in Module 7. FIXED (inline gloss).
-   - Roth used in 2.4, never defined anywhere. FIXED.
+   - passphrase / multisig used in 3.1, taught in Module 7. FIXED (inline gloss).
+   - Roth used in 1.4, never defined anywhere. FIXED.
 3. **Lesson length.** Median 750 words; 4 lessons over 1,400:
-   2.4 (2,812 - by far the largest), 4.6 (1,703), 8.1 (1,669), 9.7 (1,431).
-   In the live Honen draft, restructured 9.1 is 2,321 words.
+   1.4 (2,812 - by far the largest), 4.6 (1,703), 7.1 (1,669), 9.7 (1,431).
+   In the live Honen draft, restructured 8.1 is 2,321 words.
 
 **Fixed directly in the Honen draft (mechanical first-use definitions):**
-- 2.4 L125 `live LTV` -> `live LTV (loan-to-value: what you owe divided by what
+- 1.4 L125 `live LTV` -> `live LTV (loan-to-value: what you owe divided by what
   the collateral is worth)`
-- 2.4 L143 `**Roth IRA.**` -> prefixed `(Roth means you pay the tax now, and the
+- 1.4 L143 `**Roth IRA.**` -> prefixed `(Roth means you pay the tax now, and the
   growth and the withdrawals come out tax-free later.)`
 - 4.4 L20 `no RMDs.` -> `no RMDs - no required minimum distributions, the
   withdrawals the government forces out of traditional accounts once you reach a
   certain age.`
-- 4.1 L53 passphrase gloss; L61 multisig gloss.
+- 3.1 L53 passphrase gloss; L61 multisig gloss.
 
 **Still open (decisions, not fixes):**
-- 4.5 Asset location is the one lesson with genuine prose difficulty (grade 9.3,
+- 4.5 Asset location is the one lesson with genuine prose difficulty (grade 8.3,
   15.5 w/sent). Candidate for a sentence-level rewrite before filming.
-- 5.4 Every debt gets a job has the longest sentences in the course (19.4).
-- 2.4 at 2,812 words is the strongest split candidate in the course, ahead of 9.1.
+- 4.4 Every debt gets a job has the longest sentences in the course (19.4).
+- 1.4 at 2,812 words is the strongest split candidate in the course, ahead of 8.1.
 - A one-screen glossary lesson (item 8, "How to read the app") would carry the
   13 heavy terms above; the report already exposes a "What these terms mean"
   glossary panel we can point at instead of duplicating it.
@@ -1505,11 +1505,11 @@ Easiest: 1.1 (4.6), 3.3 (4.8), 3.2 (4.9), 5.1 (5.0), 7.5 (5.3).
 Coverage map (all verified against the course source):
 | Lesson | What it says |
 |---|---|
-| 2.1 Gather your numbers | download transaction-history CSVs from every exchange and brokerage |
-| 2.4 Step 6 (onboarding) | the Transactions onboarding step; tells you to hit **Skip for now** |
-| 2.4 Step 3 (baseline lap) | the three (now four) update methods |
-| 3.4 Cash flow walkthrough | Verify Spending needs 2-3 months of linked/imported transactions |
-| 6.5 Tax walkthrough Step 1 | the deepest treatment: Dashboard -> Update Transactions -> file path, the two questions, dedupe against earlier imports |
+| 1.1 Gather your numbers | download transaction-history CSVs from every exchange and brokerage |
+| 1.4 Step 6 (onboarding) | the Transactions onboarding step; tells you to hit **Skip for now** |
+| 1.4 Step 3 (baseline lap) | the three (now four) update methods |
+| 2.4 Cash flow walkthrough | Verify Spending needs 2-3 months of linked/imported transactions |
+| 5.3 Tax walkthrough Step 1 | the deepest treatment: Dashboard -> Update Transactions -> file path, the two questions, dedupe against earlier imports |
 | 11.1 / 11.2 Annual review | the dialog source step, the choices table, the review-before-save rule |
 
 ### Gap 1 — the course says THREE methods, the app offers FOUR. FIXED.
@@ -1521,7 +1521,7 @@ or sale. Review every field before saving."*) in both places that enumerate
 them.
 
 Fixed in the draft:
-- 2.4 Step 3 — list rewritten to four, using the app's own labels
+- 1.4 Step 3 — list rewritten to four, using the app's own labels
   (`A linked account` / `A downloaded file` / `Describe one transaction to AI`
   / `I'll enter them myself`), and the dialog's real heading added
   (*"How would you like to update transactions?"*). Also corrected
@@ -1552,7 +1552,7 @@ What exists in the app and is unnamed in the course:
   (`openTransactionDialog`), separate from the Update Transactions dialog.
 
 **Recommendation:** a short "fix a wrong transaction" section, ~250 words,
-appended to the 6.5 Tax walkthrough (where basis reconstruction already lives)
+appended to the 5.3 Tax walkthrough (where basis reconstruction already lives)
 rather than a new lesson. Needs Austin's voice on the lock rule - it is a
 real friction point and reads as a bug unless it is explained as a
 lot-history-integrity guard. FLAGGED, not written.
@@ -1560,7 +1560,7 @@ lot-history-integrity guard. FLAGGED, not written.
 
 ### Gap 2 — CLOSED (2026-07-30)
 
-Wrote **"### Fixing a lot that came in wrong"** (~300 words) into the 6.5 Tax
+Wrote **"### Fixing a lot that came in wrong"** (~300 words) into the 5.3 Tax
 walkthrough, placed at the end of Step 2 (Land on the lots) so it sits right
 where the coverage banner tells the student something is broken. No step
 renumbering — it is an H3 inside Step 2, not a new Step.
@@ -1580,7 +1580,7 @@ Left the "about 20 minutes" estimate alone: the fix section is a branch most
 students will skip.
 
 MASTER-COURSE.md synced with all of items 27 and 28 (glosses, the four update
-methods in both 2.4 and 11.2, and the new lot-fixing section). Now 6,120 lines
+methods in both 1.4 and 11.2, and the new lot-fixing section). Now 6,120 lines
 / 52,557 words.
 
 
@@ -1614,20 +1614,20 @@ Every one of these was re-derived and asserted in code, not eyeballed.
 
 ### Edits applied
 
-- **3.1 Find your surplus** — deleted the `401(k) contribution -$12,000` and
+- **2.1 Find your surplus** — deleted the `401(k) contribution -$12,000` and
   `Roth IRA -$7,000` rows; surplus $29,000/$2,400 -> **$48,000/$4,000**; added a
   paragraph explaining WHY contributions are not subtracted (they are decisions,
   not expenses, and Module 3 is where they get made). That paragraph is the
   teaching payload of the fix, not decoration.
 - **4.4 The contribution waterfall** — "$2,400/mo surplus routes" ->
   "$4,000/mo"; Bitcoin + taxable rung ~$517/mo -> **~$2,117/mo**.
-- **10.3 The annual review** — DTI reconciled from the unsourced "~$1,600/mo …
-  ~10%" to "~$1,850/mo … ~12%", matching 5.1 and deriving from the $22,000
+- **9.3 The annual review** — DTI reconciled from the unsourced "~$1,600/mo …
+  ~10%" to "~$1,850/mo … ~12%", matching 4.1 and deriving from the $22,000
   debt-service line. (This closes item 25.)
 
 ### The trap that a find-and-replace would have sprung
 
-Lesson 3.3 "Size the reserve to your life" contains an UNRELATED **$2,400/mo** —
+Lesson 2.3 "Size the reserve to your life" contains an UNRELATED **$2,400/mo** —
 the retirement spending gap ($80,000 spending - $51,600 Social Security =
 $28,400/yr). A blind replace of "$2,400" would have corrupted the reserve-sizing
 example. It was left untouched. Option A incidentally REMOVES the collision,
@@ -1636,7 +1636,7 @@ course.
 
 ### Also fixed this pass
 
-**Lesson 5.1 Defense** carried two leftovers from my own Module 4 restructure: a
+**Lesson 4.1 Defense** carried two leftovers from my own Module 4 restructure: a
 stray mid-lesson "The next lesson covers…" hand-off sitting before the app
 section, and a duplicated "Have every debt's balance, rate, minimum payment, and
 term ready." sentence. Both deleted; 1,149 -> 1,117 words. A scan of all 12
@@ -1645,7 +1645,7 @@ misplaced hand-offs.
 
 ### Transport fidelity warning (affects any future export)
 
-While reading 5.1, `cat` returned `Ã·` where the file actually contains a correct
+While reading 4.1, `cat` returned `Ã·` where the file actually contains a correct
 `÷` (octal `303 267` = 0xC3 0xB7). `grep` rendered the same character correctly
 in the same response. The sandbox transport is NOT reliably byte-faithful for
 non-ASCII, and the corruption is sporadic rather than systematic. Any lesson
@@ -1664,27 +1664,27 @@ the sandbox md5 was reverse-engineered (it hashes UTF-16 code units mod 256,
 not bytes), giving a one-hash-per-lesson byte-exact verification both sides.
 
 **Verified exports (16 lessons, every one hash-MATCH):** all of Module 4
-(5.1-5.5) and Module 8 (9.1-9.7) post-restructure, plus walkthroughs 7.7, 8.5,
+(4.1-4.5) and Module 8 (8.1-9.7) post-restructure, plus walkthroughs 7.7, 7.5,
 10.4, 11.2. Files in `lessons/`.
 
-**Fingerprint alignment (word-count streams) for Modules 1-2 drift:** 3.1 and
-3.2 proved IDENTICAL to Honen. 2.4 was missing 8 production-note lines and 3.4
+**Fingerprint alignment (word-count streams) for Modules 1-2 drift:** 2.1 and
+2.2 proved IDENTICAL to Honen. 1.4 was missing 8 production-note lines and 2.4
 missing 8 — all were the walkthrough-audit ⚠ notes added Honen-side and never
 synced. All 16 patched into the master at their anchors.
 
 **Real content corruption found IN the course and fixed there:**
-- 5.1: three `Ã·` mojibake (should be ÷) — the earlier "transport artifact"
+- 4.1: three `Ã·` mojibake (should be ÷) — the earlier "transport artifact"
   diagnosis was WRONG; od shows codepoints, not bytes, so the file genuinely
   contained the mojibake.
-- 9.3: mojibake ⚠ and 4× → on the two pre-flight lines; also `Â·`.
+- 8.3: mojibake ⚠ and 4× → on the two pre-flight lines; also `Â·`.
 - 9.7: 12 table arrows and 2 em-dashes mojibake'd.
-- 3 lessons (8.4, 9.1, 9.3) carried a LONE UTF-16 SURROGATE (broken 📎 emoji)
+- 3 lessons (7.4, 8.1, 8.3) carried a LONE UTF-16 SURROGATE (broken 📎 emoji)
   that renders as �. The channel cannot round-trip astral chars at all (writes
   lose the low surrogate too), so the emoji was dropped in Honen; local files
   keep plain text. NO astral emoji can ever be written to Honen via MCP.
 - Course-wide scans now clean: zero mojibake patterns, zero lone surrogates.
 
-**3.3:** two stale inline annotations ("This is the table to remove",
+**2.3:** two stale inline annotations ("This is the table to remove",
 "Missing a fourth row") converted to proper > flag lines tied to item 18.
 
 **Master final:** 6,526 lines, ~54,300 content words, 50/50 lessons at parity.
@@ -1694,7 +1694,7 @@ synced. All 16 patched into the master at their anchors.
 Production plan derived from the synced master: 31 talking-head / 11 screen /
 8 hybrid lessons, ~53,400 spoken-source words ≈ 5¾ h raw narration at 155 wpm.
 Phases: (0) demo-account seeding with the canonical fact sheet + the four
-blocking decisions (renames, 3.3 rebuild, Retirement Income push, 2026-figure
+blocking decisions (renames, 2.3 rebuild, Retirement Income push, 2026-figure
 verification); (1) teleprompter prep rules (strip ⚠ notes/outcomes/tables,
 hybrid cut point = "Now put it in the app"); (2) batch shooting order (4 camera
 days + app-capture days in course order); (3) per-lesson checkbox table with
@@ -1738,7 +1738,7 @@ page changed 2 days ago.**
   bracket-fill actually lives post-redesign (verified in
   DrawdownPhaseControls.jsx / incomeStrategyDrafts.js — tax_bracket_fill is
   deliberately excluded from the chip list).
-- Verified NOT damaged: the Tax page's Roth "Compare strategies" table (6.5
+- Verified NOT damaged: the Tax page's Roth "Compare strategies" table (5.3
   Step 4) is a different feature and survives; Income Blueprint tab, "Review
   income plan" button, and the whole Retirement operating plan section are
   untouched.
@@ -1766,8 +1766,8 @@ didn't — only by convention. Two changes:
    pre-record app-state checkboxes (pulled from the lessons' own
    Pre-flight/Prerequisites) and tickable beats (step heading + click path).
 
-Segment IDs: lesson number for full-lesson captures (e.g. 6.5), {n}-B for
-hybrid app tails (e.g. 5.1-B; the matching A-roll is {n}-A).
+Segment IDs: lesson number for full-lesson captures (e.g. 5.3), {n}-B for
+hybrid app tails (e.g. 4.1-B; the matching A-roll is {n}-A).
 
 
 ---
@@ -1777,13 +1777,13 @@ hybrid app tails (e.g. 5.1-B; the matching A-roll is {n}-A).
 Austin's rule: the course must not show current-year numbers so it lasts into
 next year. Full sweep of the master for year-pegged figures:
 
-**Already compliant (by design):** scripts never speak a law-set number; 6.2
+**Already compliant (by design):** scripts never speak a law-set number; 5.2
 and 6.3 frame all bracket/deduction/RMD figures as tilde-marked snapshots with
-"these move every year" language; 7.2/7.3 use "verify current law" phrasing;
+"these move every year" language; 7.2/6.2 use "verify current law" phrasing;
 9.6 bans speaking the exemption aloud.
 
 **Four leaks found and fixed (master + Honen + scripts):**
-1. 2.4 quoted the app's SS helper including "~$1,900/mo" average → course text
+1. 1.4 quoted the app's SS helper including "~$1,900/mo" average → course text
    now says the helper points to ssa.gov/myaccount, no figure.
 2. 4.4 "Maxing $7,000/yr" (the IRA limit, law-set) → "Maxing the year's IRA
    limit ($7,000 when they ran it)" — arithmetic chain ($583/mo → $2,117
@@ -1825,9 +1825,9 @@ nominations, and EU civil-law instruments, none of which Austin can vouch for
 on camera, and which sit badly with the educational-not-advisory posture.
 
 **Removed (master + Honen + scripts, ~900 words):** all seven "For non-US
-holders" sections (6.1, 6.2, 6.3, 6.4, 9.1, 9.5, 9.6) including the
+holders" sections (5.1, 5.2, 6.3, 6.4, 8.1, 8.5, 9.6) including the
 US/UK/Canada/Australia/EU document-equivalence tables and the rewritten
-UK-attorney question; foreign-law claims trimmed from the 9.1 and 9.6 banners.
+UK-attorney question; foreign-law claims trimmed from the 8.1 and 9.6 banners.
 
 **Replaced with** one standard short section: "If you're outside the US — this
 course teaches US rules. The frameworks travel well, but the account types,
@@ -1845,16 +1845,16 @@ instructions for implementation, and lessons with clear explanations."
 Confirmed — that IS the current architecture, no change needed:
 - Honen lessons / modules-md = student-facing: structured explanations,
   tables, step-by-step walkthrough instructions. Bullets are a feature here.
-- scripts/ = video-only narration layer, converted to spoken prose (3.2 done,
+- scripts/ = video-only narration layer, converted to spoken prose (2.2 done,
   38 pending Austin's verdict on the sample). Spoken conversions NEVER flow
   back into student text.
 
 
 ---
 
-## 38. Voice calibration COMPLETE — Austin dictated 3.2 (2026-08-04)
+## 38. Voice calibration COMPLETE — Austin dictated 2.2 (2026-08-04)
 
-Austin dictated lesson 3.2 himself. His dictation now IS the 3.2 script
+Austin dictated lesson 2.2 himself. His dictation now IS the 2.2 script
 (cleaned only for stutters and the cut-off final sentence), replacing both AI
 versions, and is marked as the calibration master every other conversion must
 match. Guide updated with dictation-derived rules: "In today's lesson" opener,
@@ -1864,7 +1864,7 @@ numbered list, and the teach lesson referring to app work as "the walkthrough
 below this video."
 
 **Content decisions Austin made while dictating — propagated to lesson text
-(master + Honen 3.2):**
+(master + Honen 2.2):**
 1. Drawdown recovery window: "1 to 3 years" → "about 1 to 5 years" (more
    conservative; his call).
 2. NEW retirement-reserve guidance: sequence-of-returns risk fades ~5 years
@@ -1888,5 +1888,5 @@ hybrid A/B filming model already in place.
 > raised from 60 to 70; research: MoneyGuidePro 70-90 zone, Kitces 70-90 with
 > adjustment plan, aim 80-95). App still renders 80/60 today
 > (`VitalsStrip.jsx` ~L307; `confidenceDisplay.jsx` also uses a 50 line —
-> unify when implementing). DO NOT film any bands on-screen readout in 2.3/2.4
+> unify when implementing). DO NOT film any bands on-screen readout in 1.3/1.4
 > until the app ships this, then update course copy to match.
