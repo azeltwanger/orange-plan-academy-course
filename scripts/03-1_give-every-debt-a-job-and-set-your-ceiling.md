@@ -19,7 +19,7 @@ So if carrying no debt at all is what lets you sleep, then I think that's the ri
 
 == DEBT IS ALSO A TOOL ==
 
-That said, debt isn't only a problem to eliminate. Cheap debt held on purpose keeps your cash accessible, so a bad month doesn't force you to sell into a drawdown, and every dollar of 3% debt you hold while your money compounds at more than 3% is earning you the difference. Businesses carry debt on purpose for exactly that reason.
+But debt isn't only a problem to eliminate. Cheap debt held on purpose keeps your cash accessible, so a bad month doesn't force you to sell into a drawdown, and every dollar of 3% debt you hold while your money compounds at more than 3% is earning you the difference. Businesses carry debt on purpose for exactly that reason.
 
 == THE TWO RATIOS ==
 

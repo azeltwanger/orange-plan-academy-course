@@ -453,7 +453,7 @@ plan. If you don't have a spouse, do this with whoever would get the call.*
 - [ ] Baseline untouched
 - [ ] Names that are questions, still readable a year from now
 
-**⚠** Close: these also unlock the report's Bitcoin-path section. No saved scenario, no section.
+**⚠** Close: these also turn on the report's Bitcoin-path section. No saved scenario, no section.
 
 **Part C**
 

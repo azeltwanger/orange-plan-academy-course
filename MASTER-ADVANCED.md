@@ -202,7 +202,7 @@ Ask which one your lender does before you sign, because it completely changes wh
 
 ### The types of provider
 
-No company names here; that landscape changes and any list goes stale. The structure doesn't.
+No company names here; lenders change and any list goes stale. The structure doesn't.
 
 - **Custodial lenders.** You send your Bitcoin and they hold it. Simplest to use. The risk is exactly the one from the custody module: in a legal sense it's their Bitcoin now, and if they fail you're a creditor standing in line. Several large ones failed in 2022 and their customers lost everything.
 - **Collaborative-custody lenders.** Collateral sits in a multisig arrangement, often 2-of-3: you hold a key, the lender holds a key, a third party holds a key. The lender can't move your Bitcoin alone.
@@ -239,7 +239,7 @@ Orange Plan models this as a real position inside your plan, not a calculator of
 
 **Strategy → Debt → Add debt → Bitcoin-backed.** The form asks for what matters: lender, start date and term, collateral in **Bitcoin quantity** rather than dollars, margin call LTV, liquidation LTV, whether auto top-up is on, and whether the lender does full or partial liquidation.
 
-⚠ **Enter your lender's real thresholds.** The app ships with common defaults; leave those and the plan tells you a comforting story that isn't yours.
+⚠ **Enter your lender's real thresholds.** The app ships with common defaults; leave those and you are modelling somebody else's lender, not yours.
 
 **Collateral rules** is where the behavior gets modeled across the whole projection: auto top-up as a global default, the margin call percent that triggers a top-up, the top-up target it tops back down to, the liquidation percent, and the release trigger.
 

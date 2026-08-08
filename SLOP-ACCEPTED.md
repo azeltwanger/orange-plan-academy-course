@@ -58,3 +58,4 @@ sentence instead.
 | `E:3e9b6c69500c` | MASTER-COURSE.md | Quotes the dangerous phrasing in order to correct it — the lesson's whole point |
 | `E:7721e1f22f82` | MASTER-ADVANCED.md | Em-dash appositive inside arithmetic, not narration |
 | `G:1049119bd766` | MASTER-COURSE.md | An instruction inside a worked example, not a textbook example opener |
+| `L:708fbc53495e` | scripts/02-4 · lesson-text/02-4 · MASTER-COURSE.md | Austin's actual position, and the point of the lesson: a plan funded from six sources is finished even though the 529 is smaller than sticker price. It carries the teaching rather than reassuring past it |

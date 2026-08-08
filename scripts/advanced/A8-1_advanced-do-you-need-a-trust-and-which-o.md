@@ -35,7 +35,7 @@ So do you need one? There's one estate gate in this course, and it isn't in this
 
 If you haven't run it, go run it there first. This lesson assumes it lit up and put you at level 3 or 4, a trust or a coordinated plan.
 
-And I want to be clear about what the gate is not. Federal estate tax touches a tiny fraction of estates, so size on its own never sends you here. Net worth is an input, not the gate.
+Federal estate tax touches a tiny fraction of estates, so size on its own never sends you here. Net worth is an input, not the gate.
 
 Re-run it every year. For a Bitcoin holder, the trigger most likely to flip is concentration, and the growth behind it.
 

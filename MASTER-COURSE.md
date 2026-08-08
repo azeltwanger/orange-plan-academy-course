@@ -1133,7 +1133,7 @@ Your reserve is cash you hold on purpose to keep from selling Bitcoin at the wro
 
 The couple holds 1.75 Bitcoin. In 2022, Bitcoin dropped 77% peak to bottom. If a job loss had landed in that window and they held too little cash, the mortgage doesn't pause. They're selling Bitcoin at a 77% discount to make the house payment.
 
-Hold too much cash, though, and the drag costs the plan for years. This lesson sizes the middle.
+Hold too much cash, though, and that money sits there losing to inflation for years. This lesson sizes the middle.
 
 For retirement, 18 months is the planning default, because the first few years after you stop working are when sequence risk is most dangerous. It is not a prediction of how long the next Bitcoin recovery takes.
 

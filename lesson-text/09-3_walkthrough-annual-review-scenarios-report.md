@@ -80,7 +80,7 @@ The **⋯** menu gives **Duplicate**, **Edit**, **Delete**. Duplicate is how you
 
 Only renders with a scenario selected and the editor closed. It reads your saved scenarios, projection years, life events, and assumptions, then asks which scenario to compare against your plan. Run it when a comparison needs explaining to someone else, or when you cannot tell why two scenarios differ. It explains and compares; it does not decide.
 
-Your two saved scenarios also unlock the report's "If Bitcoin follows a different path" section, which does not render without at least one.
+Your two saved scenarios also turn on the report's "If Bitcoin follows a different path" section, which does not render without at least one.
 
 ---
 

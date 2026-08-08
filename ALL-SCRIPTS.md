@@ -1426,7 +1426,7 @@ You can say what you're committing to provide, name the sources that will cover 
 
 ## 3.1 · Give every debt a job and set your ceiling
 
-`03-1_give-every-debt-a-job-and-set-your-ceiling.md` · TEACH · ~9 min · 1,344 words
+`03-1_give-every-debt-a-job-and-set-your-ceiling.md` · TEACH · ~9 min · 1,343 words
 
 Your reserve is sized, so you know what protects you. Before we point a single new dollar at Bitcoin, we're going to settle your debt, because the next-dollar order in the module after this one routes money to debt, and you can't route to a decision you haven't made.
 
@@ -1444,7 +1444,7 @@ So if carrying no debt at all is what lets you sleep, then I think that's the ri
 
 == DEBT IS ALSO A TOOL ==
 
-That said, debt isn't only a problem to eliminate. Cheap debt held on purpose keeps your cash accessible, so a bad month doesn't force you to sell into a drawdown, and every dollar of 3% debt you hold while your money compounds at more than 3% is earning you the difference. Businesses carry debt on purpose for exactly that reason.
+But debt isn't only a problem to eliminate. Cheap debt held on purpose keeps your cash accessible, so a bad month doesn't force you to sell into a drawdown, and every dollar of 3% debt you hold while your money compounds at more than 3% is earning you the difference. Businesses carry debt on purpose for exactly that reason.
 
 == THE TWO RATIOS ==
 
@@ -4484,7 +4484,7 @@ Then watch the module walkthrough below this video, where we build both scenario
 
 ## 9.3 · WALKTHROUGH — Annual review, scenarios, and your report
 
-`09-3_WALKTHROUGH_annual-review-scenarios-report.md` · WALKTHROUGH · 3,276 words
+`09-3_WALKTHROUGH_annual-review-scenarios-report.md` · WALKTHROUGH · 3,277 words
 
 **Screen capture · ONE continuous session · ~24 min raw, cut into three**
 
@@ -4939,7 +4939,7 @@ plan. If you don't have a spouse, do this with whoever would get the call.*
 - [ ] Baseline untouched
 - [ ] Names that are questions, still readable a year from now
 
-**⚠** Close: these also unlock the report's Bitcoin-path section. No saved scenario, no section.
+**⚠** Close: these also turn on the report's Bitcoin-path section. No saved scenario, no section.
 
 **Part C**
 

@@ -101,7 +101,7 @@ Ask your lender which one they do before you sign anything, because it completel
 
 == THE TYPES OF PROVIDER ==
 
-I'm not going to name specific companies, because that landscape changes and any list I give you today is going to be stale. What doesn't change is the structure, so you can sort any provider into one of these buckets.
+I'm not going to name specific companies, because lenders change and any list I give you today is going to be stale. What doesn't change is the structure, so you can sort any provider into one of these buckets.
 
 The first one is custodial lenders. You send your Bitcoin to the company and they hold it. It's the simplest to use. The risk is exactly the one from the custody module: in a legal sense it's their Bitcoin now, and if they fail, you're a creditor standing in line. Several large ones failed in 2022 and their customers lost everything.
 

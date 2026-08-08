@@ -85,6 +85,38 @@ FAMILIES = {
 'G · textbook example opener': [
   r"\b(take someone|take a couple|take a household|consider a|imagine (a|if|you)|picture (a|your|two|the))\b",
 ],
+# Added 2026-08-08 after a probe found slop the eight original families could
+# not see. Only the families that produced REAL hits are encoded; the probe's
+# corporate-vocabulary net caught "leverage" 13 times, which in this repo is the
+# financial noun, so that pattern is deliberately narrow.
+'I · filler opener Austin verifiably never uses': [
+  # The guide checked these against three call transcripts and found ZERO.
+  r"\bhere'?s the thing\b", r"\bi want to be clear\b", r"\band honestly\b",
+  r"\bto be honest\b", r"\bthe truth is\b", r"\bat the end of the day\b",
+  r"\bmake no mistake\b", r"\blet'?s be clear\b", r"\bthe reality is\b",
+  r"\bsimply put\b", r"\bthat said,",
+],
+'J · abstract noun doing the work': [
+  # The guide's own worked example — "the drag costs the plan" — was still sitting
+  # in MASTER-COURSE when this pattern was written. Austin says who does what.
+  r"\bthe drag costs\b",
+  # "the app" excluded: it is a concrete actor that literally displays a drift
+  # alert, so "the app tells you when Bitcoin runs past 65%" is plain fact.
+  r"\b(the plan|the number|the math|the strategy) (tells|teaches|wants|demands|insists|rewards|punishes) you\b",
+  r"\b\w+ erodes your\b",
+],
+'K · corporate vocabulary where a concrete word exists': [
+  # NARROW on purpose. "leverage" is excluded: it is the financial noun here.
+  r"\blandscape\b", r"\bdelve\b", r"\bseamless", r"\bholistic\b",
+  r"\bsynerg", r"\bgame.?changer\b", r"\bempower",
+  r"\bunlock(s|ing)? the (report|section|feature)\b",
+  r"\bin today'?s \w+ (world|environment|market)\b",
+],
+'L · reassurance couplet': [
+  r"\b(isn'?t|is not) a (character flaw|failure|weakness|moral failing)\b",
+  r"\bthat'?s not (weakness|a weakness|a moral)\b",
+  r"\bnothing to be (ashamed|embarrassed)\b",
+],
 'H · spelled-out number': [
   r"\b(twenty|thirty|forty|fifty|sixty|seventy|eighty|ninety|hundred)[- ](percent|thousand)\b",
   r"\b(one|two|three|four|five|six|seven|eight|nine|ten) percent\b",
@@ -113,7 +145,7 @@ def accepted():
         return {}
     out = {}
     for line in open(ACCEPTED_FILE, encoding='utf-8'):
-        m = re.match(r'\|\s*`([A-H]:[0-9a-f]{12})`\s*\|([^|]*)\|([^|]*)\|', line)
+        m = re.match(r'\|\s*`([A-Z]:[0-9a-f]{12})`\s*\|([^|]*)\|([^|]*)\|', line)
         if m:
             out[m.group(1)] = m.group(3).strip()
     return out
