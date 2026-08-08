@@ -65,3 +65,37 @@ into `AUTHORITY-FLAGS.md` instead.
 `AUTHORITY-FLAGS.md` holds every open category-B and category-C item, with what
 Austin actually said, what the concern is, and the options. Nothing in that file
 gets resolved without him.
+
+---
+
+## Operating amendment — 2026-08-08
+
+Austin: *"I can correct things that I disagree with during dictation. Just need
+to get structure right for the course so it provides structure and clarity based
+on what people and users actually need and want."*
+
+**What this changes.** Open planning judgments no longer block production. Austin
+catches and corrects them at the microphone, where he is reading the words
+anyway. Waiting for a written ruling on every C-item stalls the course for
+decisions he can make faster out loud.
+
+**What this does NOT change.** Everything in this file still stands:
+
+- Never delete or replace one of Austin's stated positions, numbers, or rules of
+  thumb and substitute your own. F1 and F5 are why this rule exists.
+- Never silently resolve a contradiction by picking the side you prefer.
+- Still flag A / B / C. Still write the flag.
+
+**The difference is only what a flag does.** It used to mean *stop and wait*. It
+now means *write it in `AUTHORITY-FLAGS.md`, note it in the script where he will
+see it while reading, and keep moving.* A flag is a marker for the dictation
+booth, not a gate.
+
+**Where a flag still blocks:** when getting it wrong would require a re-shoot
+rather than a re-read. Structural choices — how many lessons, what order, which
+module something lives in, what gets its own video — cannot be fixed at the
+microphone. Those still need Austin before filming.
+
+**The standing priority, in his words:** structure and clarity, driven by what
+users actually need, evidenced by the 24 client calls. Not more content, and not
+more analysis.

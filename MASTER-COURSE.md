@@ -2014,13 +2014,29 @@ Two things set that target, and neither is a percentage picked out of the air:
 Both grow relative to everything else as you approach retirement. The target is what the projection uses. Change it and the plan re-solves, and from then on your job is routing new dollars toward it.
 
 > **The three misfits moved to the walkthrough (segment 5.5, step 7b).** They
-> are point-at-the-screen beats, not teaching. The Bitcoin-in-Bridge one was
-> also **wrong as previously written** and is corrected there: the rule is not
-> "never spend Bitcoin inside ten years", which contradicts the retirement
-> module where a 60-year-old sells Bitcoin to fund the year. The rule is that a
-> **near-term obligation must not depend on Bitcoin being at a favourable price
-> on the day the bill arrives**, while long-term Bitcoin can still be sold
-> opportunistically to refill the less-volatile buckets.
+> are point-at-the-screen beats, not teaching.
+>
+> **The Bitcoin-in-Bridge rule is Austin's, with the number in it** (F2 resolved
+> 2026-08-08, option 1):
+>
+> > *"Bitcoin belongs in Legacy. If you're planning to spend your Bitcoin inside
+> > of 10 years, then either the bucket is wrong or the plan is wrong."*
+>
+> **Why ten, taught alongside the rule.** A normal Bitcoin cycle is a 70–80%
+> drawdown, and recovery has historically taken years, not months. The halving
+> cycle runs roughly four years. Ten years is about two full cycles: enough room
+> that no single drawdown can force your hand.
+>
+> **The misread it must head off**, in one line: this is *not* "never sell
+> Bitcoin before ten years." Module 6 has a 60-year-old selling Bitcoin to fund
+> the year and that plan is correct. The difference is **whether a date can
+> force the sale** — a retiree with Reserve and Bridge funded sells from Legacy
+> opportunistically and can wait out a bad year; Bridge money in Bitcoin has a
+> bill with a date on it and no such option. Same asset, opposite exposure.
+>
+> An earlier pass replaced the number with a price-dependency principle. That
+> was a category-C rewrite and is reverted; the principle survives as the
+> *explanation* of the rule rather than a replacement for it.
 
 ### Your decision
 

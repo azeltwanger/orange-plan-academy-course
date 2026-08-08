@@ -181,7 +181,11 @@ teaching, so they belong here.*
 
 **SEE** Point at each row and name the mistake it would be.
 
-**⚠ Bitcoin in the Bridge.** Bitcoin belongs in Legacy. The rule is not "never sell Bitcoin before ten years" — that would contradict the retirement module, where a 60-year-old sells Bitcoin to fund the year. The rule is that **a near-term obligation must not depend on Bitcoin being at a favourable price on the day the bill arrives.** Long-term Bitcoin can still be sold opportunistically to refill the less-volatile buckets. Say it that way on camera; the short version gets misheard.
+**⚠ Bitcoin in the Bridge. Say the rule as a rule, with the number in it:** *"Bitcoin belongs in Legacy. If you're planning to spend your Bitcoin inside of 10 years, then either the bucket is wrong or the plan is wrong."*
+
+**⚠ Then give the why, because a number nobody can defend gets ignored.** A normal Bitcoin cycle is a 70 to 80% drawdown, and recovering from one has taken years, not months. The halving cycle runs about four years. Ten years is roughly two full cycles, which is enough room that no single drawdown can force your hand. Inside ten years you're betting on where you land in a cycle you don't control, with money you've already promised to somebody.
+
+**⚠ Then head off the misread, in one line:** this is not "never sell Bitcoin before ten years." Module 6 has a 60-year-old selling Bitcoin to fund the year and that plan is right. The difference is **whether a date can force the sale.** A retiree with Reserve and Bridge funded sells from Legacy when it suits them and can wait out a bad year. Bridge money sitting in Bitcoin has a bill with a date on it and no such option. Same asset, opposite exposure.
 
 **⚠ Cash in Legacy.** Cash has no place in a ten-plus-year bucket, because inflation eats it the whole time. A 401(k) sitting in a stable-value fund is exactly this: Bridge risk in a Legacy slot.
 

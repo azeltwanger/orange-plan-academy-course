@@ -78,7 +78,13 @@ Both grow relative to everything else as you approach retirement. The target is 
 
 ## Three misfits, shown in the walkthrough
 
-- **Bitcoin in Bridge.** The rule is *not* "never spend Bitcoin inside ten years", which would contradict the retirement module where a 60-year-old sells Bitcoin to fund the year. The rule is that **a near-term obligation must not depend on Bitcoin being at a favourable price on the day the bill arrives.** Long-term Bitcoin can still be sold opportunistically to refill the less-volatile buckets.
+- **Bitcoin in Bridge.** The rule:
+
+  > **Bitcoin belongs in Legacy. If you're planning to spend your Bitcoin inside of 10 years, then either the bucket is wrong or the plan is wrong.**
+
+  **Why ten.** A normal Bitcoin cycle involves a 70–80% drawdown, and recovering from one has historically taken years, not months. The halving cycle runs roughly four years. Ten years is about two full cycles: enough room that no single drawdown can force your hand. Inside ten years you are betting on where you happen to land in a cycle you don't control, for money you've already committed.
+
+  ⚠ **This is not the same as "never sell Bitcoin before ten years."** The retirement module has a 60-year-old selling Bitcoin to fund the year, and that plan is correct. The difference is **whether a date can force the sale.** A retiree with Reserve and Bridge funded sells from Legacy *opportunistically* to refill them, and can wait out a bad year. Bridge money parked in Bitcoin has a bill with a date on it and no such option. Same asset, opposite exposure.
 - **Cash in Legacy.** A 401(k) parked in a stable-value fund is Bridge risk in a Legacy slot, with inflation eating it the whole time.
 - **Reserve too small in retirement.** Once you draw income instead of earning it, the Reserve's job becomes sequence-risk protection, so it gets bigger, not smaller.
 

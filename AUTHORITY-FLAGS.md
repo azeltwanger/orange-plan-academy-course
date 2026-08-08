@@ -41,7 +41,15 @@ day" qualifier?
 
 ## OPEN — I RESOLVED THESE AND SHOULD NOT HAVE
 
-### F2 · The Bridge rule — the exact example in the rule
+### F2 ✅ RESOLVED · The Bridge rule — Austin's number restored
+
+**Austin's ruling, 2026-08-08: option 1.** The ten-year rule comes back in his
+words, with the *why* taught alongside it (a 70-80% drawdown recovers over
+years, the halving cycle is ~4 years, ten years is ~two full cycles) and the
+misread headed off in one line: the difference is whether a **date can force the
+sale**. My price-dependency principle survives as the explanation, not as a
+replacement for the number. Original entry below.
+
 
 **What the course said** (4.2, now 5.2):
 
