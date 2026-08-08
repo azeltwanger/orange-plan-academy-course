@@ -54,6 +54,11 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 > day. Do not hand-edit it — that is how the last one ended up naming
 > lessons that no longer exist.
 
+> **The per-lesson list below is GENERATED** by
+> `tools/build-production-checklist.py`. Regenerate it before every shoot
+> day. Do not hand-edit it — that is how the last one ended up naming
+> lessons that no longer exist.
+
 ## ☐ ONE-TIME SETUP (before any filming)
 
 ☐ Fresh demo account seeded with the couple's numbers (card: income $190k · spending $80k · 1.75 BTC · $280k mortgage @3.25% · $18k car @7% · 401k $12k/yr · Roth $7k/yr)
@@ -65,6 +70,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ Camera/audio test clip reviewed
 
 ---
+
 
 
 
@@ -136,7 +142,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ## ☐ MODULE 8 — ESTATE & INHERITANCE   ·   WAVE 2
 
-☐ 8.1 The executor, the four legal documents, and choosing an estate attorney — 🎙 film (~11 min)
+☐ 8.1 The executor, the four legal documents, and choosing an estate attorney — 🎙 film (~9 min)
 ☐ 8.2 Split access: dual control and redundancy — 🎙 film (~10 min)
 ☐ 8.3 The heir letter and the dead man's switch — 🎙 film (~7 min)
 ☐ 8.4 Insurance: term life, disability, umbrella, and when to stop — 🎙 film (~8 min)

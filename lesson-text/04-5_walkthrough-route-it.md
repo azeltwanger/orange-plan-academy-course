@@ -15,4 +15,4 @@ Follow along with the video (~20 minutes). Prerequisites: a salary income source
 9. **Review portfolio (AI)**: its question is the module: "What would force you to sell during a deep drawdown?"
 10. **Confirm the record**: target + band saved; waterfall Reserve → Extra debt → Contributions.
 
-**Done when:** all accounts sorted, every badge read and decided on (**three Funded badges is not the finish line** — a Behind badge you have looked at and made a deliberate decision about is a finished item), mix at 100%, full match captured, and the plan survives Bear Market with an honest yes.
+**Done when:** all accounts sorted, every badge read and decided on (**three Funded badges is not the finish line**: a Behind badge you have looked at and made a deliberate decision about is a finished item), mix at 100%, full match captured, and the plan survives Bear Market with an honest yes.

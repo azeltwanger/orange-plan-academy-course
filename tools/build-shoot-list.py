@@ -82,6 +82,22 @@ for i, (name, start) in enumerate(units):
     if nums and not any(n in {h.split('.')[0] for h in have} for n in nums):
         gaps.append(f'{name} — NO capture of any kind')
 
+# A teach script can carry its own embedded '🎥 SCREEN SHARE (segment X-B)'
+# block. Those predate the one-capture-per-module decision, and a block whose
+# segment has no sheet is invisible: the script tells Austin to look for a
+# capture that was never listed, let alone shot. Flag every orphan.
+for sub in ('', 'advanced'):
+    d = os.path.join(sd, sub)
+    if not os.path.isdir(d):
+        continue
+    for f in sorted(x for x in os.listdir(d) if x.endswith('.md')):
+        if 'WALKTHROUGH' in f or 'DEMO' in f:
+            continue
+        t = open(os.path.join(d, f), encoding='utf-8').read()
+        for seg in re.findall(r'🎥 SCREEN SHARE \(segment ([^)]+)\)', t):
+            gaps.append(f'{seg} — embedded screen-share block in '
+                        f'scripts/{sub + "/" if sub else ""}{f}, no capture sheet')
+
 out += [f'**{len(sheets)} captures · ~{total} min of raw capture.**', '',
         'Seed the demo account with the couple\'s canonical numbers before the',
         'first segment (Phase 0 of FILMING-CHECKLIST.md). Clean browser profile,',

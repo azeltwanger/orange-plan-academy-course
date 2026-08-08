@@ -19,6 +19,8 @@ limits, exemptions). Call it "the current number the app shows" and move on.
 forward and restarting is where the retakes come from. Where a sheet has
 `✂ CUT POINT` markers, the edit can split it into several videos later.
 
+> ⚠ **No capture sheet yet:** A8.1-B — embedded screen-share block in scripts/advanced/A8-1_advanced-do-you-need-a-trust-and-which-o.md, no capture sheet. These cannot be filmed until a sheet exists.
+
 ---
 
 ## ☐ 1.4 · WALKTHROUGH — Set up your plan (onboarding)

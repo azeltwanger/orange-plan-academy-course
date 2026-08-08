@@ -3,10 +3,12 @@
 ## A1.1 How Orange Plan models Bitcoin: fat tails, correlations, floors and caps
 *`TEACH` · ~400 words · ~3 min*
 
-> **Gate.** Watch this if you want to defend your confidence number rather than
-> take it on faith, or if you are about to hand your report to someone who will
-> ask how the simulation works. Core 2.3 teaches how to *read* the number; this
-> is how it is *built*.
+> **Gate.** Watch this if either is true on your own screen: changing one
+> assumption moved your Plan page's confidence number by more than 10 points and
+> you want to know why, or you are about to hand your report to someone who will
+> ask how the simulation works. If your number is stable and nobody is auditing
+> it, core 1.3 already taught you to *read* it and your plan is complete without
+> this. This lesson is how the number is *built*.
 
 **By the end of this lesson, you can:**
 

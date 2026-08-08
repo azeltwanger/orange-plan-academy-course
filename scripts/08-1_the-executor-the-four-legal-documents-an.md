@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 8.1
 8.1 The executor, the four legal documents, and choosing an estate attorney
-~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · screen-share half = shoot list segment 8.1-B
+~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
 In today's lesson, we're going to cover the executor, the four legal documents, and how to choose an estate attorney who actually understands Bitcoin.
@@ -84,9 +84,6 @@ A will exists and an attorney has supervised the signing, your executor has been
 If you're outside the US, the tests and the frameworks travel well but the legal containers don't. Map the concepts with a qualified local professional.
 
 ------------------------------------------------------------
-🎥 SCREEN SHARE (segment 8.1-B) — beats in SCREEN-SHOOT-LIST.
-Narration guide:
-
-Step 5, confirm beneficiaries: open Protect, the Needs attention queue, and the Beneficiaries row, then Assign. The panel shows each name, relationship, allocation percentage, and the approximate dollars of the estate. Say the rule at this exact moment: for an account with a valid beneficiary, payable-on-death, or transfer-on-death designation, the provider's form generally controls instead of the will, and insurance policies work the same way. Then read the panel's own copy out loud — Orange Plan holds the intent, but you mirror it in each account's own beneficiary designation, because the institution holds the binding record. And this is the one place I'll tell you to go confirm it with the provider directly rather than trusting what you remember.
-
-Step 6, the Executor Packet, happens off-app, in a room with the actual person. Walk it section by section, about 30 minutes: their role, their first week, the team, the Bitcoin process (never type or share recovery words, never accept unsolicited help, never move coins before the tax order is settled, never improvise), asset handling, and then the acceptance page, where both of you sign. An executor who signed it has been briefed and knows where the documents live. An executor who didn't sign hasn't been briefed at all. The three toolkit documents live together in one folder, and the executor knows where it is: the Executor Packet, the Heir Letter, and the Family Custody Map.
+The on-screen half of this lesson is chapter B of the module walkthrough
+(8.5 · WALKTHROUGH — Protect, the heir letter, and the switch). Beneficiaries
+and the Executor Packet are both staged there. Nothing to capture here.
