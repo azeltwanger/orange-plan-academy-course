@@ -1,5 +1,9 @@
 # Orange Plan Course — production repo
 
+> ## 👋 New session? Start with `HANDOFF.md`.
+> Current state, what Austin has already decided, what is still open, the known
+> gaps, and the four gates to run before and after any change.
+
 > ## ⛔ Read `AUSTIN-AUTHORITY.md` before editing any lesson.
 >
 > Austin's dictated planning recommendation is the authority. You may fix math
