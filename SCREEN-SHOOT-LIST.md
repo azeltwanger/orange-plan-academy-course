@@ -5,12 +5,15 @@
 > The sheet beside your keyboard is the sheet in `scripts/`; this is the
 > order to shoot them in and what each one needs staged first.
 
-**11 captures · ~169 min of raw capture.**
+**10 capture sessions, covering 11 capture lessons · ~169 min of raw capture.**
+
+A session is one continuous recording. Where a sheet names more than one
+lesson, it is filmed once and the edit splits it at the cut point.
 
 Seed the demo account with the couple's canonical numbers before the
-first segment (Phase 0 of FILMING-CHECKLIST.md). Clean browser profile,
-notifications off, 5 seconds of stillness before the first click and
-after the last.
+first segment (ONE-TIME SETUP in PRODUCTION-CHECKLIST.md). Clean browser
+profile, notifications off, 5 seconds of stillness before the first click
+and after the last.
 
 **Evergreen rule:** never zoom on or read out a law-set number (brackets,
 limits, exemptions). Call it "the current number the app shows" and move on.
@@ -19,63 +22,52 @@ limits, exemptions). Call it "the current number the app shows" and move on.
 forward and restarting is where the retakes come from. Where a sheet has
 `✂ CUT POINT` markers, the edit can split it into several videos later.
 
-> ⚠ **No capture sheet yet:** A8.1-B — embedded screen-share block in scripts/advanced/A8-1_advanced-do-you-need-a-trust-and-which-o.md, no capture sheet. These cannot be filmed until a sheet exists.
-
 ---
 
-## ☐ 1.4 · WALKTHROUGH — Set up your plan (onboarding)
+## ☐ 1.4 + 1.5 · WALKTHROUGH — Set up and verify your baseline
 
-*Screen capture · 13 steps · ~15 min*  ·  sheet: `scripts/01-4_WALKTHROUGH_onboarding.md`
+*Screen capture · 22 steps · ~30 min*  ·  sheet: `scripts/01-4_WALKTHROUGH_module-1-set-up-and-verify.md`
+
+**Cut points in this capture:** **✂ CUT POINT 1 — end of lesson 1.4, start of lesson 1.5**
 
 **Stage this first:**
 - [ ] Fresh demo account, nothing entered
 - [ ] Numbers card below in front of you
+- [ ] Monte Carlo NOT yet run — the ring has to land live on camera in chapter D
 - [ ] Clean browser, notifications off
+- [ ] Uninterrupted block long enough for the whole run. **Do not reset the account at the cut point**
 
 **Beats:**
-1. ☐ 1 · Privacy
-2. ☐ 2 · About you — 7 slides
-3. ☐ 3 · Income & spending — SLOW DOWN
-4. ☐ 4 · Accounts
-5. ☐ 5 · Assets
-6. ☐ 6 · Transactions → SKIP
-7. ☐ 7 · Debts
-8. ☐ 8 · Contributions
-9. ☐ 9 · Social Security
-10. ☐ 10 · Assumptions — NOT skippable
-11. ☐ 11 · Strategy profile
-12. ☐ 12 · Life events
-13. ☐ 13 · Review — LET IT BREATHE
-14. ☐ WRAP
+1. ☐ A1 · Privacy
+2. ☐ A2 · About you — 7 slides
+3. ☐ A3 · Income & spending — SLOW DOWN
+4. ☐ A4 · Accounts
+5. ☐ A5 · Assets
+6. ☐ A6 · Transactions → SKIP
+7. ☐ A7 · Debts
+8. ☐ A8 · Contributions
+9. ☐ A9 · Social Security
+10. ☐ B1 · Assumptions — NOT skippable
+11. ☐ B2 · Strategy profile
+12. ☐ B3 · Life events
+13. ☐ B4 · Review — LET IT BREATHE
+14. ☐ B5 · Close the onboarding half
+15. ☐ C1 · Verify on Dashboard
+16. ☐ C2 · Add anything missing
+17. ☐ C3 · Update Transactions — show, don't run
+18. ☐ C4 · Shield the reserve
+19. ☐ C5 · Assumptions on the Plan page
+20. ☐ D1 · Earliest retirement date
+21. ☐ D2 · Confidence ring — LET IT RUN
+22. ☐ D3 · Life events
+23. ☐ D4 · Baseline PDF
+24. ☐ WRAP — spot check off the screen
 
 ---
 
-## ☐ 1.5 · WALKTHROUGH — Build your baseline
+## ☐ 2.5 · WALKTHROUGH — Cash flow + reserve
 
-*Screen capture · 9 steps · ~15 min*  ·  sheet: `scripts/01-5_WALKTHROUGH_baseline-lap.md`
-
-**Stage this first:**
-- [ ] Same demo account, straight after 1.4 — the plan must already exist
-- [ ] Monte Carlo NOT yet run, so the ring lands live on camera
-- [ ] Clean browser, notifications off
-
-**Beats:**
-1. ☐ 1 · Verify on Dashboard
-2. ☐ 2 · Add anything missing
-3. ☐ 3 · Update Transactions — show, don't run
-4. ☐ 4 · Shield the reserve
-5. ☐ 5 · Assumptions on the Plan page
-6. ☐ 6 · Earliest retirement date
-7. ☐ 7 · Confidence ring — LET IT RUN
-8. ☐ 8 · Life events
-9. ☐ 9 · Baseline PDF
-10. ☐ WRAP — spot check off the screen
-
----
-
-## ☐ 2.4 · WALKTHROUGH — Cash flow + reserve
-
-*Screen capture · 10 steps · ~15 min*  ·  sheet: `scripts/02-4_WALKTHROUGH_cashflow-and-reserve.md`
+*Screen capture · 10 steps · ~15 min*  ·  sheet: `scripts/02-5_WALKTHROUGH_cashflow-and-reserve.md`
 
 **Stage this first:**
 - [ ] 2–3 months of categorized transactions linked or imported (else Verify Spending is empty)
@@ -219,7 +211,7 @@ forward and restarting is where the retakes come from. Where a sheet has
 *Screen capture · 6 steps · ~15 min*  ·  sheet: `scripts/07-5_WALKTHROUGH_custody-map.md`
 
 **Stage this first:**
-- [ ] Custody level from 7.2 in mind · know whether the dead-man switch will need cloud sync
+- [ ] Custody level chosen in 7.1 in mind · know whether the dead-man switch will need cloud sync
 - [ ] **Tier is keyed to ESTATE NET WORTH, not custody choice:** Foundation <$500k · Substantial $500k–$2M · HNW $2M+. The 3 Hardware items only exist at Substantial+
 - [ ] **Local Only mode** replaces the switch panel with *"Automatic check-in emails require cloud sync."* Flip to Cloud at Settings → Data & Privacy now if you're arming next module
 - [ ] Zero secrets on screen. The checklist never asks for any — the ONLY free-text moment in the whole walkthrough is the backup passphrase in step 3

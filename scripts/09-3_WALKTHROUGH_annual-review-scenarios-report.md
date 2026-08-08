@@ -5,11 +5,18 @@
 > **DO** = click path · **SEE** = point at this · **⚠** = don't get this wrong
 > Narrate in your own words. Nothing here is scripted.
 >
+> **↺ NUMBER FLOW — recall the 1.3 frame once, early, then point at it by name.**
+> This is the capture where the whole frame pays off. **CALCULATED FROM** the
+> baseline plan · **EDIT SOURCE** the plan pages · **THIS AFFECTS** everything
+> downstream. A scenario previews without changing any of it until it is applied,
+> which is the distinction the report depends on.
+>
 > **Film this in one sitting.** The app state builds forward through all three
 > parts, and restarting is where the retakes come from. The two `✂ CUT POINT`
 > markers sit on stable states, so the edit ships this as one video or three.
 >
-> Replaces the old separate captures 9.3, 11.2, and 11.4.
+> Replaces three separate captures from the pre-renumber structure. Those old
+> segment numbers are retired and appear nowhere else — do not go looking for them.
 
 ---
 

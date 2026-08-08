@@ -5,6 +5,13 @@
 > **DO** = click path · **SEE** = point at this · **⚠** = don't get this wrong
 > Narrate in your own words. Nothing here is scripted.
 >
+> **↺ NUMBER FLOW — recall the 1.3 frame once, early, then point at it by name.**
+> **CALCULATED FROM** the baseline projection — not a scenario, which is why a
+> saved scenario never moves these numbers · **EDIT SOURCE** the plan's own
+> assumptions and account rows · **THIS AFFECTS** projected legacy and the
+> after-tax estate. Name the baseline-not-scenario point the first time the
+> legacy number appears.
+>
 > **Film this in one sitting.** The Needs attention queue shortens as you go,
 > and that shrinking list is the visual argument of the whole module. Restart
 > and you lose it. The `✂ CUT POINT` markers sit on stable states so the edit
@@ -278,7 +285,7 @@
 
 **⚠ And say that "no" is a finished answer.** *"A basic estate plan is sufficient right now. A trust is not currently indicated."* That's a completed decision, not an open item. Write it down with the date, because next year you're checking whether a trigger changed, not starting over.
 
-**⚠** If the gate does light up, point at **Advanced Estate Planning → 8.5**, and say the one thing that lesson exists for: the **prudent-investor duty can force a trustee to sell the exact asset the trust was built to hold**, and the waiver that prevents it has to be drafted in deliberately.
+**⚠** If the gate does light up, point at **Advanced Estate Planning → A8.1**, and say the one thing that lesson exists for: the **prudent-investor duty can force a trustee to sell the exact asset the trust was built to hold**, and the waiver that prevents it has to be drafted in deliberately.
 
 ---
 

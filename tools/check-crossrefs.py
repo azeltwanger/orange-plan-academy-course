@@ -40,13 +40,20 @@ for d in ('.', 'scripts', 'scripts/advanced', 'lesson-text', 'lesson-text/advanc
         continue
     for f in sorted(os.listdir(p)):
         # Generated files are rebuilt from the masters, so they cannot drift.
-        # COURSE-IMPROVEMENT-ANALYSIS is the historical decision log: its
-        # references to retired lesson numbers are correct in their own context
-        # and must not be "fixed" into a false record.
+        # Two HISTORICAL files are excluded for the same reason as each other:
+        # their references to retired lesson and module numbers are correct in
+        # their own context and must not be "fixed" into a false record.
+        #   COURSE-IMPROVEMENT-ANALYSIS.md — the decision log.
+        #   FILMING-CHECKLIST.md — archived 2026-08-08. Its banner deliberately
+        #     names the Module 10 it used to reference, as evidence of why it was
+        #     retired. Rewording that to satisfy this checker would delete the
+        #     finding. Anything still filming from that file is the real problem,
+        #     and the banner is what prevents it.
         if f.endswith('.md') and f not in ('ALL-SCRIPTS.md', 'FILM-ORDER.md',
                                            'DICTATION-ORDER.md', 'SCREEN-SHOOT-LIST.md',
                                            'PRODUCTION-CHECKLIST.md',
-                                           'COURSE-IMPROVEMENT-ANALYSIS.md'):
+                                           'COURSE-IMPROVEMENT-ANALYSIS.md',
+                                           'FILMING-CHECKLIST.md'):
             FILES.append(os.path.join(d, f))
 
 REF = re.compile(r'\b(?:lesson|segment|walkthrough|see|in)\s+(A?\d+\.\d+)\b', re.I)

@@ -4,6 +4,12 @@
 
 > **DO** = click path · **SEE** = point at this · **⚠** = don't get this wrong
 > Narrate in your own words. Nothing here is scripted.
+>
+> **↺ NUMBER FLOW — recall the 1.3 frame once, early, then point at it by name.**
+> **CALCULATED FROM** retirement spending minus the income floor · **EDIT SOURCE**
+> Plan → Retirement spending, and the Social Security entry · **THIS AFFECTS** the
+> size of the gap, how big the bridge has to be, the withdrawal order, and the
+> guardrail verdict. Every number on this page is downstream of two inputs.
 
 ---
 

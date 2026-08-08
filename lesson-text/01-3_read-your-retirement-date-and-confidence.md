@@ -11,6 +11,18 @@ The app runs your plan through ~1,000 simulated market futures. The confidence n
 > your plan as you make the decisions in the modules ahead, and watching it
 > move is most of the point.
 
+## Where the numbers come from
+
+Nothing in this app is typed in twice. Every number you see is **calculated from** something upstream, has exactly one **edit source**, and **affects** something downstream. Three questions answer almost every "where did this come from?":
+
+| What you change | What the app calculates | What moves downstream |
+|---|---|---|
+| Income − taxes − living − debt | **Surplus** | Reserve funding, contribution routing, retirement date |
+| A **life event** | Future spending in that year | Account withdrawals, retirement date, confidence |
+| A **return assumption** | Projected balances and simulated paths | Earliest date and confidence number |
+
+Every walkthrough in this course points at the same three things when a number matters: **calculated from · edit source · this affects**. If you are ever staring at a figure wondering where it came from, that is the question to ask, and there is always an answer.
+
 ## How to read it
 
 | Confidence | What the app calls it |

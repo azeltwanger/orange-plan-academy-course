@@ -5,6 +5,12 @@
 > **DO** = click path · **SEE** = point at this · **⚠** = don't get this wrong
 > Narrate in your own words. Nothing here is scripted.
 >
+> **↺ NUMBER FLOW — recall the 1.3 frame once, early, then point at it by name.**
+> **CALCULATED FROM** the balance and rate on each debt row · **EDIT SOURCE** the
+> debt row itself, never the ratio · **THIS AFFECTS** both ratios, your ceiling,
+> and how much surplus is left for the next module to route. Say the general rule
+> when a student wants to fix a ratio: there is no field for a ratio.
+>
 > Replaces the old hybrid captures 4.1-B and 4.5-B. The 4.2-B and 4.3-B beats
 > moved to the Advanced Library with their lessons.
 

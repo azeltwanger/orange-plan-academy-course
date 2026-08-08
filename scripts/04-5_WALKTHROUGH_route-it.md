@@ -4,6 +4,12 @@
 
 > **DO** = click path · **SEE** = point at this · **⚠** = don't get this wrong
 > Narrate in your own words. Nothing here is scripted.
+>
+> **↺ NUMBER FLOW — recall the 1.3 frame once, early, then point at it by name.**
+> **CALCULATED FROM** the surplus Module 2 produced · **EDIT SOURCE** Cash Flow →
+> Routing · **THIS AFFECTS** every bucket balance, how far allocation drifts, and
+> the retirement date. This is the capture where "which account funds this?"
+> actually gets answered — say so.
 
 ---
 

@@ -52,28 +52,68 @@ for i, (title, start, lessons) in enumerate(units):
 # way the running order did: it still named retired lessons 4.5, 6.4, 8.5,
 # 11.1 and 11.3, and described hybrid screen work in Modules 4 and 8 that no
 # longer exists. Derive it instead.
-handoff, no_capture = [], []
+# An OPTIONAL lesson must never carry the walkthrough hand-off: a student who
+# correctly skips it would never hear where the capture is. Module 2's college
+# lesson is the first of these. Hand-off goes to the last REQUIRED teach lesson.
+def optional(title):
+    return title.lower().startswith('optional')
+
+
+handoff, no_capture, optionals = [], [], []
 for title, _, lessons in units:
     teach = [n for n, t_, s in lessons if not s]
+    required = [n for n, t_, s in lessons if not s and not optional(t_)]
     caps = [n for n, t_, s in lessons if s]
+    optionals += [(n, t_) for n, t_, s in lessons if not s and optional(t_)]
     if not teach:
         continue
     if caps:
-        handoff.append(teach[-1])
+        handoff.append((required or teach)[-1])
     else:
         no_capture.append((title.split('—')[0].strip(), teach[-1]))
+
+# These two used to be hardcoded strings inside a block that advertised itself as
+# generated, so they rotted invisibly: the AI bullet still said 1.2 after the AI
+# lesson became 0.2, and the disclaimer bullet still said 6.1/9.1 after the tax
+# and estate modules were renumbered to 5.1/8.1. Derive both from the master.
+ai = re.search(r'^## (\d+\.\d+) (How the AI works.+)$', master, re.M)
+ai_num = ai.group(1) if ai else '??'
+# Each US-specific module header states where its disclaimer is spoken, once.
+disc = re.findall(r'Said ONCE, at the top of (\d+\.\d+)', master)
+# ...and one lesson carries the breakdown of which modules are US-shaped. That
+# paragraph currently lives only in the DICTATION script for 0.1, not in the
+# master, so the master alone cannot answer this. Search both layers rather than
+# print "??" — and shout, because a script-only paragraph is a parity gap.
+BRK = r'built on US rules'
+brk = re.search(r'^## (\d+\.\d+) [^\n]*\n(?:(?!^## ).)*?' + BRK, master, re.M | re.S)
+if brk:
+    brk_num = brk.group(1)
+else:
+    brk_num = '??'
+    for f in sorted(slug.values()):
+        if re.search(BRK, open(os.path.join(sd, f), encoding='utf-8').read()):
+            stem = f.split('_')[0]
+            brk_num = f'{int(stem.split("-")[0])}.{stem.split("-")[1]}'
+            print(f'  !! PARITY: the "which modules are US-shaped" breakdown is in '
+                  f'scripts/{f} ({brk_num}) but NOT in MASTER-COURSE.md')
+            break
 
 say_once = ['## Say-once items (already built that way, don\'t re-explain later)', '',
   '*Generated. Regenerating this file rewrites this section from the current '
   'course, so it cannot go stale again.*', '',
-  '- **The AI** is taught in full in **1.2** and nowhere else. Later '
+  f'- **The AI** is taught in full in **{ai_num}** and nowhere else. Later '
   'walkthroughs only name the button and say when it is worth running.',
-  '- **The US-specific disclaimer** is said at the top of **6.1** and the top '
-  'of **9.1**. Twice, total, plus the breakdown in 1.1 of which modules are '
-  'US-shaped. It used to run 12 times.',
+  '- **The US-specific disclaimer** is said at the top of '
+  + ' and the top of '.join(f'**{n}**' for n in disc)
+  + f'. {"Twice" if len(disc) == 2 else str(len(disc)) + " times"}, total, plus '
+  f'the breakdown in {brk_num} of which modules are US-shaped. It used to run 12 times.',
   '- **The walkthrough hand-off** ("watch the walkthrough below this video") '
-  'belongs ONLY on the last teach lesson of a module that has a capture: '
-  + ' · '.join(f'**{n}**' for n in handoff) + '.']
+  'belongs ONLY on the last REQUIRED teach lesson of a module that has a '
+  'capture: ' + ' · '.join(f'**{n}**' for n in handoff) + '.']
+if optionals:
+    say_once.append('- **Optional lessons never carry the hand-off**, because a '
+        'student who correctly skips one would never hear it: '
+        + ' · '.join(f'**{n}** {t}' for n, t in optionals) + '.')
 if no_capture:
     say_once.append('- **No capture, so no hand-off:** '
         + ' · '.join(f'{m} (last teach {n})' for m, n in no_capture)

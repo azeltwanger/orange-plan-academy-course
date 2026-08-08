@@ -4,6 +4,12 @@
 
 > **DO** = click path · **SEE** = point at this · **⚠** = don't get this wrong
 > Narrate in your own words. Nothing here is scripted.
+>
+> **↺ NUMBER FLOW — recall the 1.3 frame once, early, then point at it by name.**
+> **CALCULATED FROM** the basis on each lot you entered · **EDIT SOURCE** the
+> holding's basis field, back on the Dashboard · **THIS AFFECTS** the gain on any
+> modelled sale and the tax it produces. A blank basis is the worst case here and
+> it is fixed upstream, not on this screen.
 
 ---
 

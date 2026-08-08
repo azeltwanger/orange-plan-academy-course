@@ -1,6 +1,15 @@
 # Advanced: do you need a trust, and which one?
 
-**Most households don't.** Stopping at the baseline (a good will coordinated with the access split) is a valid outcome.
+> ⚖ **Pending estate-attorney review.** Every legal claim below — revocable vs.
+> irrevocable treatment, creditor protection, taxable-estate inclusion, trustee
+> duties, the prudent-investor waiver, and the international structures at the
+> foot — is under review and not yet published to students. Tracked in
+> `LEGAL-REVIEW-PACKET.md`.
+
+> **Gate:** this lesson picks up *after* the core estate gate in 8.5 has lit up and
+> put you at Level 3 or 4. It does not re-run that gate.
+
+**Most households don't need a trust.** Stopping at the baseline (a good will coordinated with the access split) is a valid outcome.
 
 A trust is a legal container with three roles: grantor (you), trustee (manages it), beneficiary (it's for them). You can hold several roles at once.
 
@@ -9,12 +18,21 @@ A trust is a legal container with three roles: grantor (you), trustee (manages i
 - **Revocable living trust**: change or cancel anytime. Buys probate avoidance, privacy, and a smooth incapacity handoff. **Does NOT lower estate tax**: the tax follows control, and you kept it. People pay $3–4k believing otherwise.
 - **Irrevocable trust**: give up control, permanently. Removes assets (and **all their future growth**) from your taxable estate; can shield from creditors. Worth the most when you expect the most growth. Cost: flexibility, forever.
 
-## The eight-trigger gate
+## The gate already ran — in 8.5, not here
 
-Size & tax: near the federal exemption (verify the number)? · state estate tax? · wealth concentrated in a fast-appreciating asset? · could growth cross the line?
-Family & control: blended family? · minor children / special-needs heir? · control when heirs receive? · creditor/lawsuit/divorce concern or strong probate aversion?
+**There is one estate gate in this course.** It is the nine triggers and four levels in the core estate walkthrough (8.5): blended family · minor children · multiple heirs · business ownership · heavy Bitcoin concentration · probate or privacy concerns · incapacity planning · assets or property in more than one state · an advanced custody setup somebody has to operate after you. Count them, place yourself on the four levels, and **most households land at Level 1 or 2 and are finished.**
 
-More yeses → past a will. Zero or one → baseline. The couple scores two yeses + one open question → **baseline household**: attorney-supervised will with a guardian nomination. **Re-run the gate yearly**: future growth is the trigger that flips for Bitcoiners.
+Haven't run it? Run it there first. **Net worth is an input, not the gate** — size alone never sends you here. **Re-run it yearly**; for a Bitcoiner the trigger most likely to flip is concentration and the growth behind it.
+
+### Four sizing questions, once the gate has fired
+
+These decide *which kind*, not *whether* — the revocable/irrevocable choice turns on tax exposure:
+
+near or above the federal exemption (verify the current number)? · does your state run its own estate or inheritance tax? · is most of your wealth in a fast-appreciating asset? · could future growth push you over the line?
+
+**Yes to any** → toward the irrevocable side and its trade-off. **No to all four**, with the core gate still lit on family or control grounds → usually a revocable trust or a well-drafted will. That is a probate, privacy and succession problem, not a tax problem.
+
+**Where the couple landed:** minor children (10 and 12), multiple heirs, and heavy Bitcoin concentration are true; the rest are not. Texas, so no state estate tax, and nowhere near the federal exemption. They land at **Level 2**: an attorney-supervised will with a guardian nomination and a provision holding a minor's share until the children are older, coordinated with the access split. Not a trust household — saving $3–4k and a lot of complexity. The open question they re-check annually is whether future growth changes the tax answer.
 
 ## Bitcoin in a trust: the key problem
 
@@ -46,6 +64,7 @@ The attorney wasn't careless. The conversation never happened. The problem was a
 
 ## Homework
 
-1. Run the eight triggers; count yeses. Zero–one → baseline, re-run yearly.
+1. Run the core gate in 8.5 if you have not: nine triggers, four levels, answer written down with a date. **"Trust not currently indicated" is a finished answer.** Re-run yearly.
+1b. If it put you at Level 3 or 4, work the four sizing questions above.
 2. More → take the five attorney questions to 2–3 candidates.
 3. Watch the screen share: read the app's projected estate-tax picture on your real numbers (the after-tax estate row is the one that reaches heirs).

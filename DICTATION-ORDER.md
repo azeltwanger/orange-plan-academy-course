@@ -3,7 +3,7 @@
 Read top to bottom. Nothing below depends on a decision you haven't made yet,
 as long as you settle the five things in the next section first.
 
-**27 teach lessons · 238 min (4.0 h) of finished audio at 155 wpm.**
+**28 teach lessons · 242 min (4.0 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not on this list. They're screen captures you narrate in your
 own words off the DO / SEE / ⚠ sheets, and they happen after the teach lessons
@@ -44,9 +44,10 @@ changed once, in both places, before you record.
 
 *Generated. Regenerating this file rewrites this section from the current course, so it cannot go stale again.*
 
-- **The AI** is taught in full in **1.2** and nowhere else. Later walkthroughs only name the button and say when it is worth running.
-- **The US-specific disclaimer** is said at the top of **6.1** and the top of **9.1**. Twice, total, plus the breakdown in 1.1 of which modules are US-shaped. It used to run 12 times.
-- **The walkthrough hand-off** ("watch the walkthrough below this video") belongs ONLY on the last teach lesson of a module that has a capture: **1.3** · **2.3** · **3.1** · **4.4** · **5.2** · **6.3** · **7.3** · **8.4** · **9.2**.
+- **The AI** is taught in full in **0.2** and nowhere else. Later walkthroughs only name the button and say when it is worth running.
+- **The US-specific disclaimer** is said at the top of **5.1** and the top of **8.1**. Twice, total, plus the breakdown in 0.1 of which modules are US-shaped. It used to run 12 times.
+- **The walkthrough hand-off** ("watch the walkthrough below this video") belongs ONLY on the last REQUIRED teach lesson of a module that has a capture: **1.3** · **2.3** · **3.1** · **4.4** · **5.2** · **6.3** · **7.3** · **8.4** · **9.2**.
+- **Optional lessons never carry the hand-off**, because a student who correctly skips one would never hear it: **2.4** Optional: college is a funding stack.
 - **No capture, so no hand-off:** Module 0 (last teach 0.2). Do not record a hand-off line there until a sheet exists.
 
 ---
@@ -60,24 +61,25 @@ changed once, in both places, before you record.
 | 0.1 | How to use this course | 10.8 |
 | 0.2 | How the AI works: what it reads, what it never sees | 6.1 |
 
-### Module 1 — Foundation: baseline, assumptions, and the confidence number · 23 min
+### Module 1 — Foundation: baseline, assumptions, and the confidence number · 25 min
 
 | # | Lesson | min |
 |---|---|---|
 | 1.1 | What to gather before you build the plan | 6.1 |
 | 1.2 | The three layers of a plan, and setting your assumptions | 9.6 |
-| 1.3 | Read your retirement date and confidence number | 7.3 |
+| 1.3 | Read your retirement date and confidence number | 9.2 |
 | 1.4 | *Walkthrough: set up your plan in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 | 1.5 | *Walkthrough: build your baseline in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 2 — Cash Flow + Reserve · 36 min
+### Module 2 — Cash Flow + Reserve · 38 min
 
 | # | Lesson | min |
 |---|---|---|
 | 2.1 | Find your surplus and your two spending numbers | 11.1 |
 | 2.2 | Size your cash reserve in months of spending | 10.8 |
-| 2.3 | Fund known future costs: college, cars, a house, repairs | 14.5 |
-| 2.4 | *Walkthrough: build cash flow and reserve in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
+| 2.3 | Fund a known future cost: the six questions | 7.8 |
+| 2.4 | Optional: college is a funding stack | 8.5 |
+| 2.5 | *Walkthrough: build cash flow and reserve in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
 ### Module 3 — Debt Strategy · 9 min
 
@@ -92,7 +94,7 @@ changed once, in both places, before you record.
 |---|---|---|
 | 4.1 | Set the Bitcoin allocation you can hold through a full drawdown | 9.0 |
 | 4.2 | Break your accounts down by holding type, then by timeframe | 9.4 |
-| 4.3 | Order your contributions: which account gets funded first | 8.8 |
+| 4.3 | Order your contributions: which account gets funded first | 9.1 |
 | 4.4 | Asset location: which account each holding belongs in | 6.4 |
 | 4.5 | *Walkthrough: route it in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 
@@ -143,7 +145,7 @@ changed once, in both places, before you record.
 
 ---
 
-**27 teach lessons · 238 min (4.0 h) of finished audio at 155 wpm.**
+**28 teach lessons · 242 min (4.0 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not dictated. They are screen captures you narrate in
 your own words off the DO / SEE / ⚠ sheets, and they happen after the

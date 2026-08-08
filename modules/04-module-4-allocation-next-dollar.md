@@ -298,6 +298,32 @@ No account is left on the app's inferred guess, and you can say where each bucke
 >
 > 🐞 Currency mangling in the routing table (item 17).
 
+> 🔴 **HOLD FOR REDICTATION — DO NOT FILM AS WRITTEN. Flag F22, 2026-08-08.**
+>
+> The lesson teaches a **strict waterfall**: *"every rung above has to be full,
+> or maxed, before you move down to the next one."* The client calls do not
+> support that as a command. Advising Peyton between taxable savings and a Solo
+> 401(k), Austin weighed the current deduction, early-retirement access, how
+> underfunded the taxable side was, income uncertainty, and splitting the
+> contribution across both — not "max every prior rung first."
+>
+> **The intended shape** (this is the whole of what an editor may write down):
+> a stated **default order** · **strong presumptions** that usually come first ·
+> **named conditions** that override the default · a **comparison zone** among
+> HSA / Roth / traditional / taxable Bitcoin / taxable bridge assets · and
+> **deliberate splitting** when one dollar answers two legitimate needs.
+>
+> **The exact order and wording are Austin's.** Nothing below has been rewritten
+> toward the new shape — the strict version is preserved verbatim so he can
+> dictate over it. `SOURCE-MATERIAL-POLICY.md` already names "a strict
+> traditional contribution waterfall" as a thing not to adopt by default, so
+> this is the lesson that policy was written about.
+>
+> ⚠ **Two things move with the redictation and are deliberately left alone until
+> then:** the proposed title *"Route your next dollar: the default order and
+> when it changes"*, and the Module 4 checkpoint line about rung 2. Both are
+> downstream of an order that does not exist yet.
+
 **By the end of this lesson, you can:**
 
 - Understand the six-rung contribution waterfall

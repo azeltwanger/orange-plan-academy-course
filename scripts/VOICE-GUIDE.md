@@ -164,15 +164,20 @@ lesson video, so "below this video" is literal.
 **Only the LAST teach lesson in a module gets the hand-off** (Austin,
 2026-08-06). Most modules run 3-6 teach lessons against ONE walkthrough, so
 a hand-off on lesson 1 of 5 promises a walkthrough that isn't below it.
-Module-final teach lessons, as of this writing:
+Module-final teach lessons:
 
-  M1 1.3 · M2 2.3 · M3 4.5 · M5 6.4 · M6 6.3 · M7 7.5 · M9 9.2 ·
-  M10 11.1 and 11.3 (that module interleaves teach/walkthrough, so both get
-  one). Module 0 has no walkthrough and gets none. **Modules 4 and 8 get NO
-  hand-off** (2026-08-07): their lessons are hybrids whose screen half is the
-  second half of the SAME video, so there is nothing "below this video" to
-  point at. The standalone check-your-work walkthroughs that used to sit
-  there (5.6, 9.6) were cut.
+  ⚠ **The list that used to sit here was a hand-typed copy and it rotted**: it
+  named a tenth module, and two lessons in it, that the renumber had already
+  removed, and it put Module 3's hand-off on a lesson in another module.
+  **`DICTATION-ORDER.md` now generates the authoritative list** under
+  "Say-once items" — read it there, and regenerate with
+  `python3 tools/build-dictation-order.py` rather than maintaining a second copy
+  here. Module 0 has no walkthrough and gets none.
+
+  **One rule the generated list encodes:** the hand-off goes on the last
+  **required** teach lesson, never on an optional one. Module 2's optional
+  college lesson (2.4) sits after 2.3 and before the walkthrough, so 2.3 carries
+  the hand-off and words it to work whether or not the student takes 2.4.
 
 Every other teach lesson ends on its homework and stops.
 

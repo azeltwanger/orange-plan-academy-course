@@ -55,7 +55,7 @@ sum of them:
 - [ ] Your reserve target is set **in months of spending**, and the app shows how many months you actually hold
 - [ ] Every known future cost inside ten years is entered as a **life event** (so the projection knows it is coming) and has a funding lane, or you have deliberately decided monthly cash flow absorbs it
 - [ ] For each fixed dated cost you can say the monthly number and where it came from: **target ÷ months to go**. You do this division, not the app
-- [ ] **College, if it applies:** you can say what you are committing to provide, name the sources that will cover it (529, cash flow while enrolled, aid, student work, financing, Bitcoin), and point at the part you have decided to protect from a Bitcoin sale. **Not done when the sticker price is sitting in cash — that was never the target**
+- [ ] **College — the optional lesson 2.4, and only if it applies:** you can say what you are committing to provide, name the sources that will cover it (529, cash flow while enrolled, aid, student work, financing, Bitcoin), and point at the part you have decided to protect from a Bitcoin sale. **Not done when the sticker price is sitting in cash — that was never the target.** No children and no other education goal completes this line by skipping the lesson deliberately
 - [ ] You can say what your reserve is *for* in one sentence: so a bad month never forces a Bitcoin sale
 
 ---
@@ -81,6 +81,14 @@ sum of them:
 - [ ] Each bucket has a target, and you can say where that target came from
 - [ ] Your contribution waterfall is set, and rung 2 funds the debts your debt policy already marked for extra principal
 - [ ] **Not applicable is fine:** no employer match, no HSA eligibility, and nothing marked for extra principal each complete their rung by being skipped deliberately
+
+> 🔴 **These two lines are downstream of lesson 4.3, which is on hold for
+> redictation (flag F22).** They describe a strict rung-by-rung waterfall. When
+> Austin dictates the default-order-with-overrides version, both lines get
+> rewritten to match — a routed dollar should be checkable as *"I know my default
+> route, I know what overrides it, and I know whether this month's answer is one
+> destination or a deliberate split."* Left as-is deliberately: rewriting them
+> now would mean inventing the order first.
 
 ---
 
@@ -114,7 +122,7 @@ sum of them:
 **You are done when:**
 
 - [ ] Your custody level matches your current stack **and who depends on it**
-- [ ] A **real recovery has been tested** — an actual wipe-and-restore on a device, not a belief that the backup works
+- [ ] **Recovery is proven by the path your setup actually has.** *Self-custody (Level 2 and up):* a real wipe-and-restore has been completed on a device — not a belief that the backup works. *Institutional custody (Level 1):* login recovery has been run end to end, and the institution's death-claim process has been read and verified with the provider. **There is no device to restore at Level 1, and the institutional path completes this line**
 - [ ] Your largest single point of failure has a specific fix with a date on it. One, not nine
 - [ ] Your account hardening is done: secured email, unique passwords, non-SMS two-factor, withdrawal delays on
 - [ ] Your Family Custody Map contains the **process and no secrets**, and someone else knows where it is
@@ -127,11 +135,11 @@ sum of them:
 **You are done when:**
 
 - [ ] A will exists, reviewed by an attorney who supervised the signing
-- [ ] Your beneficiary forms name who you actually intend — **on the custodian's own form**, not only in Orange Plan. The form overrides the will
+- [ ] Your beneficiary forms name who you actually intend — **on the custodian's own form**, not only in Orange Plan. For an account governed by a valid beneficiary, POD, or TOD designation, **the provider's form generally controls instead of the will** — so verify each one with the provider, because the app is your checklist and the institution holds the binding record
 - [ ] Your executor has been **asked out loud** and has signed the acceptance page
 - [ ] You can answer both access tests out loud, **including the one your design does not pass**
 - [ ] Your heir letter is written in your own words (template text does not count), the PDF is saved, and it is stored away from your seeds and devices
-- [ ] The switch is armed and its recipients have been told in advance
+- [ ] **Delivery to your family is arranged by the path your setup actually has.** *Cloud mode:* the switch is armed and its recipients have been told in advance. *Local Only mode:* the switch cannot operate, so a deliberate non-automated delivery process exists, is written down, and has been tested end to end with the person who would carry it out
 - [ ] Your coverage gap is a number, and it has gone to a licensed professional if it needed to
 - [ ] The trust gate has been run once and given an actual answer. **Most households stop at "no", and that is complete**
 

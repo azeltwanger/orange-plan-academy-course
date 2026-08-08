@@ -65,8 +65,15 @@ for f in sheets:
     body += ['---', '']
 
 # any walkthrough/demo lesson in the master with no sheet?
-have = {re.match(r'(\S+)', open(os.path.join(sd, f), encoding='utf-8')
-                 .read().lstrip('# ')).group(1) for f in sheets}
+# A sheet may cover MORE THAN ONE lesson: Module 1's onboarding and baseline
+# captures are filmed as one continuous session and split at a cut point, so
+# that sheet's H1 reads "1.4 + 1.5 · WALKTHROUGH — …". Taking only the first
+# token reported 1.5 as an un-sheeted gap forever. Collect every lesson number
+# in the H1 up to the '·' instead.
+have = set()
+for f in sheets:
+    h1 = open(os.path.join(sd, f), encoding='utf-8').read().split('\n', 1)[0]
+    have |= set(re.findall(r'A?\d+\.\d+', h1.split('·')[0]))
 for m in re.finditer(r'^## (\d+\.\d+) ((?:Walkthrough|External demo).+)$', master, re.M):
     if m.group(1) not in have:
         gaps.append(f'{m.group(1)} {m.group(2)}')
@@ -98,11 +105,18 @@ for sub in ('', 'advanced'):
             gaps.append(f'{seg} — embedded screen-share block in '
                         f'scripts/{sub + "/" if sub else ""}{f}, no capture sheet')
 
-out += [f'**{len(sheets)} captures · ~{total} min of raw capture.**', '',
+# Sessions and lessons are NOT the same number, and conflating them is what put
+# "9 walkthroughs + 1 external demo" in the README while the metrics block said
+# 11. One sheet can cover two lessons (Module 1 is filmed once and cut in two),
+# so state both counts and let nothing downstream have to guess.
+out += [f'**{len(sheets)} capture sessions, covering {len(have)} capture lessons '
+        f'· ~{total} min of raw capture.**', '',
+        'A session is one continuous recording. Where a sheet names more than one',
+        'lesson, it is filmed once and the edit splits it at the cut point.', '',
         'Seed the demo account with the couple\'s canonical numbers before the',
-        'first segment (Phase 0 of FILMING-CHECKLIST.md). Clean browser profile,',
-        'notifications off, 5 seconds of stillness before the first click and',
-        'after the last.', '',
+        'first segment (ONE-TIME SETUP in PRODUCTION-CHECKLIST.md). Clean browser',
+        'profile, notifications off, 5 seconds of stillness before the first click',
+        'and after the last.', '',
         '**Evergreen rule:** never zoom on or read out a law-set number (brackets,',
         'limits, exemptions). Call it "the current number the app shows" and move on.', '',
         '**Film each module\'s capture in ONE continuous session.** App state builds',

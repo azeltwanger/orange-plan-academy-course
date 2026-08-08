@@ -34,11 +34,11 @@ This is another reason to check the address on the device screen every single ti
 
 ## Your decision
 
-**Your transfer threshold, stated as a fee test rather than a fixed amount, and whether you have a consolidation chore waiting.**
+**Your transfer threshold, and whether you have a consolidation chore waiting.**
 
 ## Homework
 
 1. Open your wallet and look at how many separate chunks your balance is made of. Some wallets call this coin control.
-2. Check what fees are doing today and write your threshold as a fee test: the smallest transfer where the fee to spend it later is still a rounding error.
+2. Write down your transfer threshold. Austin's rule of thumb is 0.01 to 0.02 Bitcoin as a minimum per transfer; check what fees are doing today and confirm that still leaves the fee as a rounding error against the chunk.
 3. If you hold a pile of small chunks, put consolidation on your annual review as a low-fee-day chore.
 4. Confirm your wallet generates a fresh receiving address each time, and that you have not published one you keep reusing.

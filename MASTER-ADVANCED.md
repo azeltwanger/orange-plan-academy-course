@@ -1158,7 +1158,7 @@ Your homework for this lesson is to:
 **By the end of this lesson, you can:**
 
 - Explain why your balance is a stack of bills rather than a bucket
-- Set a transfer threshold as a fee test that does not go stale
+- Set a transfer threshold against Austin's 0.01–0.02 BTC rule of thumb, and know the fee test the number is protecting
 - Decide whether you have a consolidation chore waiting
 - Use a fresh receiving address every time, and say why it matters
 
@@ -1182,7 +1182,9 @@ There are two fixes, one for going forward and one for what you already have.
 
 Going forward, transfer on a threshold rather than on a schedule. Instead of moving every small buy to cold storage the day it happens, let them accumulate on the exchange and move them in one transaction.
 
-Now, I'm deliberately not going to give you a fixed number of Bitcoin here, because the right threshold moves with the price and with what fees are doing. The test that doesn't go stale is this: look at what it would cost in fees to spend that chunk later, and ask whether that's a rounding error against the chunk or a real bite out of it. If a transfer's fee is a meaningful percentage of what you're transferring, it's too small. Check fees on the day, because they swing enormously.
+My rule of thumb is about 0.01 to 0.02 Bitcoin as a minimum per transfer. Your smaller monthly buys accumulate on the exchange until they hit that threshold, and then they move in one transaction.
+
+The reason behind the number is what to hold onto if fees or the price move a long way from where they are now: you want the fee to spend that chunk later to be a rounding error against the chunk, not a real bite out of it.
 
 The trade-off is real, though, and worth saying out loud. Everything waiting for the threshold is sitting on an exchange, which is exactly the counterparty risk the custody module is about. So the threshold is a fee decision bounded by a custody decision. If the accumulating balance gets big enough to worry you, move it and pay the fee.
 
@@ -1200,14 +1202,14 @@ This is also another reason to check the address on the device screen every sing
 
 ### Your decision
 
-Your decision here is your transfer threshold, stated as a fee test rather than a fixed amount, and whether you have a consolidation chore waiting.
+Your decision here is your transfer threshold, and whether you have a consolidation chore waiting.
 
 ### Homework
 
 Your homework for this lesson is to:
 
 1. Open your wallet and look at how many separate chunks your balance is actually made of. Most wallets will show you this; some call it coin control.
-2. Check what fees are doing today, and write down your transfer threshold as a fee test: the smallest transfer where the fee to spend it later is still a rounding error.
+2. Write down your transfer threshold. Austin's rule of thumb is 0.01 to 0.02 Bitcoin as a minimum per transfer; check what fees are doing today and confirm that still leaves the fee as a rounding error against the chunk.
 3. If you're holding a pile of small chunks, put consolidation on your annual review as a low-fee-day chore.
 4. Confirm your wallet is generating a fresh receiving address each time, and that you haven't published one you keep reusing.
 
@@ -1352,17 +1354,36 @@ So with a passphrase you're splitting two different objects between two people. 
 # Advanced Module 8 — Advanced Estate Planning
 
 ## A8.1 Advanced: do you need a trust, and which one?
-*`TEACH + APP` · 1,923 words · ~9 min*
+*`TEACH` · ~1,900 words · ~9 min*
 
-> **Gate.** Watch this if your Protect page's projected estate crosses the trust gate, or you have a minor child, a blended family, property in more than one state, or a beneficiary who should not receive a lump sum. Most households run the gate, get a no, and are finished.
+> **Gate.** Watch this once the **core estate gate in 8.5** has lit up and put you
+> at Level 3 or 4 — a trust or coordinated plan. This lesson does not re-run that
+> gate; it explains the options after it fires. Most households run the gate in
+> 8.5, get a no, and are finished.
+
+> ⛔ **TEXT-ONLY FOR v1. DO NOT FILM.** Two reasons, both deliberate:
+>
+> 1. ⚖ **Every legal claim in this lesson is pending estate-attorney review** —
+>    revocable vs. irrevocable treatment, creditor protection, taxable-estate
+>    inclusion, trustee duties under the prudent-investor standard, the waiver,
+>    and the international structures at the foot. Nothing here is filmed or
+>    published to students until that review is signed off. Tracked in
+>    `LEGAL-REVIEW-PACKET.md`.
+> 2. The screen-capture half was removed (2026-08-08). The calls do not show
+>    demand for an after-tax estate ledger walkthrough, and building a twelfth
+>    capture for the least-watched lesson is the wrong use of production time.
+>    Film it only if real users open or ask about the trust material.
 
 **By the end of this lesson, you can:**
 
-- Run your household through the trust-need gate
-- Match trust type to purpose
+- Say what the core gate's Level 3/4 answer actually commits you to
+- Match trust type to purpose, and know which one does *not* lower an estate tax bill
+- Ask the one attorney question that keeps a trustee from being obliged to sell your Bitcoin
 
 ---
-> **Advanced. Most plan-builders don't need a trust. Run the eight-trigger gate first. If it doesn't light up, the baseline is your plan.** Skim unless the trigger applies.
+> **Advanced. Most plan-builders don't need a trust.** The gate that decides it is
+> in the core walkthrough (8.5), not here. If it didn't light up, the baseline is
+> your plan. Skim unless it did.
 
 
 **Most of you don't need what's in this lesson.** Stopping at the baseline is a valid outcome.
@@ -1404,41 +1425,32 @@ It works for the same reason the revocable one doesn't: you actually gave the as
 
 Cost: flexibility, permanently.
 
-### The eight-trigger gate
+### The gate already ran. This lesson is what happens after it fires
 
-Federal estate tax touches a tiny fraction of estates. For most people the honest answer is no.
+**There is one estate gate in this course, and it is not in this lesson.** It is the nine triggers and four levels you run in the core estate walkthrough (8.5): a blended family · minor children · multiple heirs · business ownership · heavy Bitcoin concentration · probate or privacy concerns · incapacity planning · assets or property in more than one state · an advanced custody setup somebody has to operate after you. You count those, you place yourself on the four levels, and **most households land at Level 1 or 2 and are finished.**
 
-**Group A: size and tax:**
+If you have not run it, run it there first. This lesson assumes it lit up and you landed at **Level 3 or 4** — a trust or coordinated plan.
 
-1. Is your estate near or above the **federal exemption**? (Verify the current number.)
+⚠ **Net worth is an input, not the gate.** Federal estate tax touches a tiny fraction of estates, so size alone never sends you here.
+
+**Re-run the gate every year.** For a Bitcoin holder, the trigger most likely to flip is concentration and the growth behind it.
+
+### Four sizing questions, once the gate has fired
+
+These do not decide *whether* you need a trust — the core gate already did that. They decide **which kind**, because the revocable/irrevocable choice below turns on tax exposure:
+
+1. Is your estate near or above the **federal exemption**? (Verify the current number; do not rely on a figure written here.)
 2. Does your **state** run its own estate or inheritance tax?
 3. Is most of your wealth in a **fast-appreciating asset**?
 4. Could **future growth** push you over the line?
 
-**Group B: family and control:**
+Yes to any of these pushes you toward the irrevocable side and its trade-off. No to all four, with the core gate still lit on family or control grounds, usually points at a revocable trust or a well-drafted will — probate, privacy and succession problems, not tax problems.
 
-5. Do you have a **blended family**?
-6. **Minor children** or a **special-needs heir**?
-7. Do you want to control **when and how** heirs receive assets?
-8. Is there a **creditor, lawsuit, or divorce** concern, or a strong desire to avoid probate?
+### Where the couple landed
 
-More yeses = more reason to go past a will. Few or none = the baseline is enough. **The gate turns this into a counting exercise you run on your own numbers.**
+The couple runs the core gate in 8.5. Minor children (10 and 12), multiple heirs, and heavy Bitcoin concentration are true; the rest are not. They are in Texas, so no state estate tax, and nowhere near the federal exemption.
 
-### Running the gate on the couple
-
-- **Near federal exemption?** No, not close.
-- **State estate tax?** Texas. No.
-- **Most wealth in a fast-appreciating asset?** Yes.
-- **Could future growth cross the line?** Open question.
-- **Blended family / special-needs heir?** No.
-- **Minor children?** Yes. 10 and 12.
-- **Control over when heirs receive assets?** Only because the kids are minors. A will handles that with a guardian nomination and a provision holding a minor's share until they're older.
-- **Creditor / lawsuit / divorce concern?** No.
-- **Avoid probate?** Mildly, and Texas probate is relatively painless.
-
-**Two clear yeses, one open question, five nos.** That's not a trust household. It's a Level 2 baseline household: attorney-supervised will with guardian nomination, coordinated with the access split. Saves them $3,000-4,000 and a lot of complexity.
-
-**Re-run the gate every year.** The fourth trigger (future growth) is the one that flips.
+**They land at Level 2: an attorney-supervised will with a guardian nomination and a provision holding a minor's share until the children are older, coordinated with the access split.** Not a trust household — which saves them $3,000-4,000 and a lot of complexity. The open question they write down and re-check annually is whether future growth changes the tax answer.
 
 ### Bitcoin in a trust: the design problem
 
@@ -1477,23 +1489,29 @@ The attorney wasn't careless. The conversation never happened. The problem was a
 
 ### Homework
 
-Run all eight triggers on your household. Count your yeses. If zero or one, the baseline is your plan. Re-run the gate once a year. If more than that, take the five attorney questions from the executor lesson to two or three candidates.
+1. If you have not run the core gate in 8.5, run it there. Count the nine triggers, place yourself on the four levels, and write the answer down with a date. **"Trust not currently indicated" is a finished answer.**
+2. If it put you at Level 3 or 4, work the four sizing questions above to see whether your problem is a tax problem or a probate/privacy/succession problem.
+3. Then take the five attorney questions from the executor lesson to two or three candidates — including the fifth one, the prudent-investor waiver.
+4. Re-run the core gate once a year.
 
 
-### Now put it in the app
+### Read it in the app
 
-One thing not to do on camera: do not say a federal exemption figure out loud. The app prints one on screen. The number changes with law, and a video should not age out.
+> **Reference, not a capture.** This lesson is text-only for v1, so the steps
+> below are written for a reader working through the app on their own screen.
+> Do not quote the federal exemption figure anywhere it can age: the app prints
+> the current one, so read it there.
 
-#### Pre-flight
+#### Before you start
 
-The Protect legacy section reads the **baseline projection**, not a scenario. That single fact matters (see Step B3).
+The Protect legacy section reads the **baseline projection**, not a scenario. That single fact matters at step 3.
 
-- **Have the plan's projection warm** before you record. The section shows *"Running your baseline projection…"* while it loads.
-- **Set State of residence** in the legacy drawer, or the state row reads *"select a state of residence below"* and the state-caveat beat has nothing behind it.
+- **Let the projection finish loading.** The section shows *"Running your baseline projection…"* while it works.
+- **Set State of residence** in the legacy drawer first, or the state row reads *"select a state of residence below"* and there is nothing behind the state caveat.
 
-⚠ **The app's federal exemption comparison is not filing-status aware.** It applies one flat exemption regardless of married/single. A married couple's real line is different. The app doesn't model it. Name that limitation once when you get to the federal row.
+⚠ **The app's federal exemption comparison is not filing-status aware.** It applies one flat exemption regardless of married/single. A married couple's real line is different, and the app does not model it. Hold that limitation in mind at the federal row.
 
-#### Step B1: Read the projected estate
+#### 1 · Read the projected estate
 
 **Protect → section "Projected legacy."**
 
@@ -1512,9 +1530,9 @@ Two columns:
 - **"Less remaining debt"**
 - **"After tax"** (tagged **est.**)
 
-⚠ **Dollar toggle: "Today's $ / Nominal $". Defaults to Today's $.** This is the number at the *end* of the plan, so nominal dollars will look bigger. Flip it once, deliberately, and name which one you're reading. If you say "future dollars" without flipping, you're describing something the screen isn't showing.
+⚠ **Dollar toggle: "Today's $ / Nominal $". Defaults to Today's $.** This is the number at the *end* of the plan, so nominal dollars will look bigger. Flip it once, deliberately, and know which one you are reading.
 
-#### Step B2: Open the ledger. Where the tax actually lands
+#### 2 · Open the ledger. Where the tax actually lands
 
 **Same section → "See details →."**
 
@@ -1536,11 +1554,11 @@ Rows in order:
 
 Controls below the ledger: **"State of residence"** and **"Heir marginal rate."** Set both before you read the number aloud.
 
-⚠ **When there's no federal tax, that row reads "" (muted).** That dash is the good outcome. Say so on camera. A dash here means the estate clears the line under current law; there's nothing to plan around.
+⚠ **When there's no federal tax, that row reads "" (muted).** That dash is the good outcome: the estate clears the line under current law, and there is nothing to plan around.
 
 The number that matters is the last row: **After-tax estate.** Not the gross. Not the pre-tax.
 
-#### Step B3: The growth dial. Move the assumption
+#### 3 · The growth dial. Move the assumption
 
 The Protect legacy number reads the **baseline plan.** Scenarios don't move it. To see the estate move, change the plan's own growth assumption.
 
@@ -1560,7 +1578,7 @@ Two model cards:
 
 Change nothing but the growth assumption and watch the estate move. That's allocation-plus-time. The whole conversation, in one dial.
 
-#### Step B4: Compare to the line + the state caveat
+#### 4 · Compare to the line + the state caveat
 
 Back on Protect → the **"Federal estate tax"** and **"State estate tax"** rows.
 
@@ -1570,9 +1588,9 @@ Back on Protect → the **"Federal estate tax"** and **"State estate tax"** rows
 
 The state row's sub-caption names your state and its note when a state estate tax applies.
 
-⚠ **A handful of states run their own estate tax at far lower thresholds** than the federal exemption. It's a local-attorney question rather than a plan-modeling one. Name it once.
+⚠ **A handful of states run their own estate tax at far lower thresholds** than the federal exemption. It's a local-attorney question rather than a plan-modeling one.
 
-#### Step B5: Record this module's decisions
+#### 5 · Record this module's decisions
 
 Off-app, in your notes or a shared document.
 
@@ -1580,7 +1598,7 @@ Off-app, in your notes or a shared document.
 - **State flag.** Yes / no, and which state.
 - **Attorney conversation.** This year, or deferred to the annual review.
 - **Executor and backup.** Asked and accepted.
-- **Your estate level, 1 to 3.** From the self-triage.
+- **Your estate level, 1 to 4.** From the core gate in 8.5.
 - **Access-split status.** Set / tested / not yet.
 - **Insurance gaps.** Flagged on the Coverage Audit worksheet.
 - **If the trust gate said yes:** the five attorney questions go into the interview.
@@ -1589,7 +1607,7 @@ Optional artifact: **Protect header → Download estate summary.**
 
 ⚠ **That is not the encrypted plan backup.** The backup lives at Settings → Data & backups → Export Plan, and it belongs to the annual review, not here.
 
-Say the close on camera: for most households, running this number earns you the right to stop thinking about it until next year.
+For most households, running this number earns you the right to stop thinking about it until next year.
 
 #### Where this module's work lives
 

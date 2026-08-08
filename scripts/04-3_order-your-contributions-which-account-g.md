@@ -1,11 +1,37 @@
 TELEPROMPTER SCRIPT — segment 4.3
 4.3 Order your contributions: which account gets funded first
 ~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+
+🔴 HOLD FOR REDICTATION — DO NOT FILM AS WRITTEN (flag F22, 2026-08-08)
+This lesson currently teaches a STRICT WATERFALL: "every rung above has to be
+full, or maxed, before you move down to the next one." That does not match how
+you actually advised clients on the calls. With Peyton, deciding between taxable
+savings and a Solo 401(k), you weighed the current deduction against
+early-retirement access, how underfunded the taxable side was, income
+uncertainty, and splitting the contribution across both. You did not tell him to
+max every prior rung first.
+
+The intended SHAPE, which is all an editor is allowed to write down:
+  - a stated DEFAULT ORDER,
+  - STRONG PRESUMPTIONS that usually come first,
+  - NAMED CONDITIONS that override the default,
+  - a COMPARISON ZONE among HSA / Roth / traditional / taxable Bitcoin / taxable
+    bridge assets, and
+  - DELIBERATE SPLITTING when one dollar answers two legitimate needs.
+
+The exact order, the exact presumptions, and the wording are YOURS. Nothing has
+been rewritten here — the text below is the current strict version, preserved
+verbatim so you can dictate over it. Full flag in AUTHORITY-FLAGS.md (F22).
 ============================================================
 
 In today's lesson, we're going to cover the contribution waterfall, which is the order that your next dollar should flow through your accounts, and why that order is what it is.
 
 You have a surplus from the cash flow module, and you have your three buckets. The waterfall is how the two connect. The rule is simple: every rung above has to be full, or maxed, before you move down to the next one. Money flows down the ladder, not sideways.
+
+[🔶 F22 — THIS IS THE SENTENCE TO REDICTATE. "Every rung above has to be
+full, or maxed" is the strict form. The calls show a default order with named
+overrides, not a command. Nothing after this point has been changed to match,
+because the replacement order is yours to give.]
 
 == THE STANDARD WATERFALL ==
 

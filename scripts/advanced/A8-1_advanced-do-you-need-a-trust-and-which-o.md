@@ -1,6 +1,10 @@
 TELEPROMPTER SCRIPT — segment A8.1
 A8.1 Advanced: do you need a trust, and which one?
-~12 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated) · screen-share half = shoot list segment A8.1-B
+~11 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+⛔ TEXT-ONLY FOR v1 — DO NOT FILM. Every legal claim in this lesson is pending
+estate-attorney review (LEGAL-REVIEW-PACKET.md). The screen-capture half was
+removed 2026-08-08: no capture sheet, and the calls do not show demand for an
+after-tax estate ledger walkthrough.
 ============================================================
 
 In today's lesson, we're going to cover trusts: whether you actually need one, and if you do, which kind.
@@ -25,25 +29,37 @@ The second kind is the irrevocable trust, and it's the opposite trade. You give 
 
 And the Bitcoin-specific part is that the future growth escapes your estate too. You move an asset out at its value on the day you transfer it, and everything it becomes after that day grows outside the line. Which means this tool is worth the most when you expect the most growth. The cost is flexibility, permanently.
 
-== THE EIGHT-TRIGGER GATE ==
+== THE GATE ALREADY RAN. THIS IS WHAT HAPPENS AFTER IT FIRES ==
 
-So do you need one? Federal estate tax touches a tiny fraction of estates, so for most people the honest answer is no. The way to find out for yourself is the eight-trigger gate. Four triggers about size and tax, four about family and control.
+So do you need one? There's one estate gate in this course, and it isn't in this lesson. It's the nine triggers and four levels you run in the core estate walkthrough. A blended family, minor children, multiple heirs, business ownership, heavy Bitcoin concentration, probate or privacy concerns, incapacity planning, assets or property in more than one state, and an advanced custody setup somebody has to operate after you. You count those, you place yourself on the four levels, and most households land at level 1 or 2 and are finished.
 
-The size-and-tax group: Is your estate near or above the federal exemption? And verify the current number, don't quote an old one. Does your state run its own estate or inheritance tax? Is most of your wealth in a fast-appreciating asset? And could future growth push you over the line?
+If you haven't run it, go run it there first. This lesson assumes it lit up and put you at level 3 or 4, a trust or a coordinated plan.
 
-The family-and-control group: Do you have a blended family? Do you have minor children, or a special-needs heir? Do you want to control when and how heirs receive assets? And is there a creditor, lawsuit, or divorce concern, or a strong desire to avoid probate?
+And I want to be clear about what the gate is not. Federal estate tax touches a tiny fraction of estates, so size on its own never sends you here. Net worth is an input, not the gate.
 
-More yeses means more reason to go past a will. Few or none means the baseline is enough. The gate turns a vague question into a counting exercise you can run on your own numbers.
+Re-run it every year. For a Bitcoin holder, the trigger most likely to flip is concentration, and the growth behind it.
 
-== RUNNING THE GATE ON THE COUPLE ==
+== FOUR SIZING QUESTIONS, ONCE THE GATE HAS FIRED ==
 
-Let's run the couple through it.
+These four don't decide whether you need a trust. The core gate already did that. They decide which kind, because the revocable versus irrevocable choice turns on tax exposure.
 
-Near the federal exemption? No, not close. State estate tax? They're in Texas, so no. Most wealth in a fast-appreciating asset? Yes, clearly. Could future growth cross the line? That's an open question, and it's worth writing down as one. Blended family or special-needs heir? No. Minor children? Yes, 10 and 12. Control over when heirs receive assets? Only because the kids are minors, and a will actually handles that with a guardian nomination and a provision holding a minor's share until they're older. Creditor or lawsuit concern? No. Avoiding probate? Mildly, and Texas probate is relatively painless.
+One: is your estate near or above the federal exemption? Verify the current number; don't take an old one.
 
-Add it up: two clear yeses, one open question, five nos. That is not a trust household. That's a baseline household: an attorney-supervised will with a guardian nomination, coordinated with the access split. And skipping the trust saves them $3,000 to $4,000 and a lot of complexity.
+Two: does your state run its own estate or inheritance tax?
 
-One instruction that comes with the gate: re-run it every year. Because the fourth trigger, future growth, is the one that flips for Bitcoin holders.
+Three: is most of your wealth in a fast-appreciating asset?
+
+And four: could future growth push you over the line?
+
+A yes to any of those pushes you toward the irrevocable side and its trade-off. No to all four, with the core gate still lit on family or control grounds, usually points at a revocable trust or a well-drafted will. That's a probate, privacy and succession problem, not a tax problem.
+
+== WHERE THE COUPLE LANDED ==
+
+The couple ran the core gate in the estate walkthrough. Minor children, 10 and 12. Multiple heirs. Heavy Bitcoin concentration. Those are true, and the rest of the triggers aren't. They're in Texas, so no state estate tax, and they're nowhere near the federal exemption.
+
+They land at level 2. An attorney-supervised will with a guardian nomination and a provision holding a minor's share until the kids are older, coordinated with the access split. Not a trust household, which saves them $3,000 to $4,000 and a lot of complexity.
+
+The one thing they write down and re-check every year is whether future growth changes the tax answer.
 
 == BITCOIN IN A TRUST: THE DESIGN PROBLEM ==
 
@@ -81,14 +97,10 @@ The second one is "everyone needs a trust." Also wrong. A large, simple estate m
 
 Your homework for this lesson is to:
 
-1. Run all eight triggers on your household and count your yeses. If it's zero or one, the baseline is your plan, and re-run the gate once a year.
-2. If it's more than that, take the five attorney questions from the executor lesson to two or three candidates.
-3. Then watch the screen share below this video, where we read what the app projects your estate tax picture to be, so the gate runs on your real numbers.
+1. If you haven't run the core gate in the estate walkthrough, go run it there. Count the nine triggers, place yourself on the four levels, and write the answer down with a date. "Trust not currently indicated" is a finished answer.
+2. If it put you at level 3 or 4, work the four sizing questions from this lesson to find out whether your problem is a tax problem or a probate, privacy and succession problem.
+3. Then take the five attorney questions from the executor lesson to two or three candidates, including the fifth one, the prudent-investor waiver.
+4. Read your own estate numbers in the app: Protect, Projected legacy, then See details for the after-tax estate. Set state of residence and heir marginal rate before you read anything.
+5. Re-run the core gate once a year.
 
 And if you're outside the US: the gate still works, because it's a counting exercise about your family, not a US-specific test. But the containers differ. The UK leans on nil-rate bands and lifetime gifts, Canada has alter-ego and joint partner trusts, Australia uses testamentary trusts, and continental Europe runs on foundations and usufruct. The Bitcoin key problem is universal wherever trusts exist, and multisig with the trustee holding one key is the cleanest answer everywhere. Map it with a qualified local professional.
-
-------------------------------------------------------------
-🎥 SCREEN SHARE (segment A8.1-B) — beats in SCREEN-SHOOT-LIST.
-Hard rule on camera: do NOT say a federal exemption figure out loud. The app prints one on screen; point at it. The number changes with law, and the video should not age out.
-
-Narration guide: open Protect, the Projected legacy section, and read the two columns — Bitcoin remaining, split into liquid and pledged, and the projected estate after debt. Flip the Today's-dollars toggle once, deliberately, and name which one you're reading. Open See details and walk the after-tax ledger top to bottom: estate after debt, the income tax on inherited tax-deferred money with the 10-year rule, state estate tax, federal estate tax with the exemption comparison as its sub-caption, and then the number that matters, the after-tax estate — the number that actually reaches heirs. Set state of residence and heir marginal rate before reading anything aloud. If the federal row shows a dash, say that's the good outcome: the estate clears the line under current law. Then the growth dial: switch the Bitcoin assumption to Conservative, re-read the after-tax estate, switch to Moderate, read it again, and set it back when you're done — this is a read, not a decision. Under the line in every case you'd defend: close the tab, most households live here. Over the line under assumptions you actually believe: that's worth an attorney hour this year. Name the state caveat once — a handful of states run their own estate tax at far lower thresholds. And one honest limitation to name at the federal row: the app's exemption comparison isn't filing-status aware.

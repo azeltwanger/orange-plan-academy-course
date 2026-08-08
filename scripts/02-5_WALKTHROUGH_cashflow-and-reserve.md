@@ -1,9 +1,16 @@
-# 2.4 · WALKTHROUGH — Cash flow + reserve
+# 2.5 · WALKTHROUGH — Cash flow + reserve
 
 **Screen capture · 10 steps · ~15 min**
 
 > **DO** = click path · **SEE** = point at this · **⚠** = don't get this wrong
 > Narrate in your own words. Nothing here is scripted.
+>
+> **↺ NUMBER FLOW — recall the 1.3 frame once, early, then point at it by name.**
+> **CALCULATED FROM** income − taxes − living − debt · **EDIT SOURCE** this page,
+> and Cash Flow → Routing · **THIS AFFECTS** surplus, which drives reserve
+> funding, contribution routing and your retirement date. The reserve target is
+> the second chain: **calculated from** months × monthly spending, **edit source**
+> the months figure, **affects** how much surplus is still free to route.
 
 ---
 

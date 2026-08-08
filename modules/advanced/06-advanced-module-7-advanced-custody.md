@@ -109,7 +109,7 @@ Your homework for this lesson is to:
 **By the end of this lesson, you can:**
 
 - Explain why your balance is a stack of bills rather than a bucket
-- Set a transfer threshold as a fee test that does not go stale
+- Set a transfer threshold against Austin's 0.01–0.02 BTC rule of thumb, and know the fee test the number is protecting
 - Decide whether you have a consolidation chore waiting
 - Use a fresh receiving address every time, and say why it matters
 
@@ -133,7 +133,9 @@ There are two fixes, one for going forward and one for what you already have.
 
 Going forward, transfer on a threshold rather than on a schedule. Instead of moving every small buy to cold storage the day it happens, let them accumulate on the exchange and move them in one transaction.
 
-Now, I'm deliberately not going to give you a fixed number of Bitcoin here, because the right threshold moves with the price and with what fees are doing. The test that doesn't go stale is this: look at what it would cost in fees to spend that chunk later, and ask whether that's a rounding error against the chunk or a real bite out of it. If a transfer's fee is a meaningful percentage of what you're transferring, it's too small. Check fees on the day, because they swing enormously.
+My rule of thumb is about 0.01 to 0.02 Bitcoin as a minimum per transfer. Your smaller monthly buys accumulate on the exchange until they hit that threshold, and then they move in one transaction.
+
+The reason behind the number is what to hold onto if fees or the price move a long way from where they are now: you want the fee to spend that chunk later to be a rounding error against the chunk, not a real bite out of it.
 
 The trade-off is real, though, and worth saying out loud. Everything waiting for the threshold is sitting on an exchange, which is exactly the counterparty risk the custody module is about. So the threshold is a fee decision bounded by a custody decision. If the accumulating balance gets big enough to worry you, move it and pay the fee.
 
@@ -151,14 +153,14 @@ This is also another reason to check the address on the device screen every sing
 
 ### Your decision
 
-Your decision here is your transfer threshold, stated as a fee test rather than a fixed amount, and whether you have a consolidation chore waiting.
+Your decision here is your transfer threshold, and whether you have a consolidation chore waiting.
 
 ### Homework
 
 Your homework for this lesson is to:
 
 1. Open your wallet and look at how many separate chunks your balance is actually made of. Most wallets will show you this; some call it coin control.
-2. Check what fees are doing today, and write down your transfer threshold as a fee test: the smallest transfer where the fee to spend it later is still a rounding error.
+2. Write down your transfer threshold. Austin's rule of thumb is 0.01 to 0.02 Bitcoin as a minimum per transfer; check what fees are doing today and confirm that still leaves the fee as a rounding error against the chunk.
 3. If you're holding a pile of small chunks, put consolidation on your annual review as a low-fee-day chore.
 4. Confirm your wallet is generating a fresh receiving address each time, and that you haven't published one you keep reusing.
 

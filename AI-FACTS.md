@@ -338,19 +338,19 @@ changes in the app, fix it here and in the lesson text.
 |---|---|---|
 | 2.1 Find your surplus | Review spending tradeoffs | "review my expenses for ways to save" |
 | 2.2 Size the reserve | Set my reserve target | "set my reserve target" |
-| 3.2 The two emotion gates | Build my portfolio strategy | "help me choose my target allocation" |
-| 4.1 The two ratios | Evaluate leverage capacity | "evaluate my leverage capacity" |
-| 4.4 Bitcoin-backed loans | Evaluate borrowing capacity | "evaluate bitcoin borrowing capacity" |
+| A4.1 The price context check | Build my portfolio strategy | "help me choose my target allocation" |
+| 3.1 The two ratios | Evaluate leverage capacity | "evaluate my leverage capacity" |
+| A3.1 Bitcoin-backed loans | Evaluate borrowing capacity | "evaluate bitcoin borrowing capacity" |
 | 5.2 Buckets, brackets, state | Identify tax planning opportunities | "identify tax planning opportunities" |
-| 6.3 RMD risk + Roth | Evaluate Roth conversions | "find my Roth conversion window" |
-| 6.4 Harvesting | Review harvesting opportunities | "should I harvest gains or losses" |
+| A5.1 RMD risk + Roth | Evaluate Roth conversions | "find my Roth conversion window" |
+| A5.2 Harvesting | Review harvesting opportunities | "should I harvest gains or losses" |
 | 6.2 Income waterfall | Compare withdrawal strategies | "which retirement drawdown strategy fits me" |
-| 7.4 Sell, borrow, or hold | Compare selling vs. borrowing | "should I sell bitcoin or borrow" |
-| 8.7 Custody map | Review Protection Plan | "can my family access what they need" |
+| A6.2 Sell, borrow, or hold | Compare selling vs. borrowing | "should I sell bitcoin or borrow" |
+| 7.5 Custody map | Review Protection Plan | "can my family access what they need" |
 | 8.1 Executor + documents | Prepare for estate planning | "what should I ask an estate attorney" |
 | 9.1 The monthly pass | Continue my plan | "what should I work on next" |
-| 11.1 Scenarios | Test a planning decision | "build a scenario for this choice" |
-| 11.3 How to read a plan | Review my full plan | "what should I fix first" |
+| 9.3 Scenarios | Test a planning decision | "build a scenario for this choice" |
+| 9.2 How to read a plan | Review my full plan | "what should I fix first" |
 
 The other 11 workflows already have page buttons and are covered in the
 walkthroughs, so they get no text pointer.

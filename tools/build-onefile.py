@@ -9,14 +9,14 @@ root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 files = sorted(glob.glob(os.path.join(root, 'scripts', '*.md')))
 files = [f for f in files if not any(k in os.path.basename(f) for k in ('README', 'VOICE-GUIDE'))]
 
-MODULES = {
- '01': 'Module 0 — Start Here',        '02': 'Module 1 — Foundation',
- '03': 'Module 2 — Cash Flow + Reserve','04': 'Module 3 — Allocation',
- '05': 'Module 4 — Debt',              '06': 'Module 5 — Tax',
- '07': 'Module 6 — Retirement Income', '08': 'Module 7 — Custody',
- '09': 'Module 8 — Estate',            '10': 'Module 9 — Maintenance',
- '11': 'Module 10 — Plan Review',
-}
+# Module names come from the master. The hardcoded dict this replaces was wrong
+# three ways at once: it mapped file prefix '01' to "Module 0" (off by one, and
+# Module 0's own '00' files fell through to a literal "00" heading); it still
+# called Module 3 "Allocation" and Module 4 "Debt" from before Debt moved ahead
+# of Allocation; and it carried a "Module 10 — Plan Review" that no longer exists.
+_master = open(os.path.join(root, 'MASTER-COURSE.md'), encoding='utf-8').read()
+MODULES = {f'{int(m.group(2)):02d}': m.group(1).strip()
+           for m in re.finditer(r'^# Unit \d+ · (Module (\d+)[^\n]*)$', _master, re.M)}
 
 def kind(name):
     if 'WALKTHROUGH' in name: return 'WALKTHROUGH'
@@ -31,7 +31,7 @@ def title_of(text, name):
     for ln in text.split('\n')[:6]:
         ln = ln.strip()
         if ln.startswith('# '):                     # walkthrough header
-            return re.sub(r'^#\s*[\d.·\s]*', '', ln).strip()
+            return re.sub(r'^#\s*[\d.·+\s]*', '', ln).strip()
         if re.match(r'^\d+\.\d+\s+\S', ln):         # teleprompter line 2
             return ln.split(' ', 1)[1].strip()
     return os.path.basename(name)

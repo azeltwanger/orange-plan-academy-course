@@ -212,120 +212,98 @@ Your answer is what your reserve size should reflect. All four options pay for t
 Pick your target months. Multiply by your floor. Enter both into the reserve settings in the app.
 
 
-## 2.3 Fund known future costs: college, cars, a house, repairs
-*`TEACH` · 625 words · ~4 min*
+## 2.3 Fund a known future cost: the six questions
+*`TEACH` · ~1,480 words · ~10 min*
 
-> 🔴 **FLAGGED FOR REBUILD — do not film.** Austin, 2026-07-29. The timeframe
-> table below tells holders not to hold Bitcoin for anything under 7 years.
-> That contradicts the never-sell default, contradicts lesson 2.2 (whose whole
-> point is not being forced to sell), and omits borrowing against Bitcoin —
-> which the app treats as a first-class tool and Module 6 teaches directly.
-> Rebuild around Life Events and funding sources. Full spec in
-> `COURSE-IMPROVEMENT-ANALYSIS.md`, action item 18.
+> ⚠ **Rebuilt 2026-08-08 from the calibrated script**, which is the authority for
+> this lesson. Three things were removed: the retired timeframe table that put
+> Bitcoin out of every lane under ten years, the $100,000 pre-fund-college worked
+> example, and the old red rebuild banner that told you not to shoot this. All
+> three contradicted the current dictation. College moved to its own optional
+> lesson at 2.4.
 >
-> 🐞 Outcomes checklist renders **0 / 0** (item 16). Currency mangling in the
-> college table (item 17).
->
-> *Text below is the current state, kept for reference until replaced.*
+> 🔶 **F20 — the 7-to-10-year band is unstated.** The dictation names 0–1, 1–3,
+> 3–7 and 10+. Nothing is said about 7 to 10. The retired table closed that gap
+> by running "no Bitcoin" through ten years; the new dictation does not. One
+> sentence at the mic settles it. Not resolved here — see `AUTHORITY-FLAGS.md`.
 
-**By the end of this lesson, you can:** *(not rendering in the app)*
+**By the end of this lesson, you can:**
 
-- Understand why known costs shouldn't be paid from your reserve
+- Tell a known cost apart from the thing your reserve is for
 - Match each known cost to a funding lane based on how far away it is
-- Give each large planned cost a deliberate funding plan, so it neither forces a Bitcoin sale nor stops your accumulation by default
+- Run the six questions on any dated cost, instead of the single "how much a month" question
+- Give a large planned cost a deliberate funding plan that neither forces a Bitcoin sale nor stops your accumulation by default
 
 ---
 
+In today's lesson, we're going to cover how to give every future cost that you already know about its own lane.
+
 ### Known costs aren't emergencies
 
-A **known cost** is anything on the calendar with a date on it:
+A **known cost** is anything that's already on the calendar with a date attached to it:
 
-- Kids' college tuition, four years starting in eight
-- Roof replacement, in a ballpark year
-- A car you'll buy in five years
+- Kids' college tuition, four years of it starting in eight
+- A roof replacement you know is coming in a ballpark year
+- A car you're going to buy in five years
 - A wedding, a big trip, a home renovation
-- Estimated taxes on a planned Roth conversion
+- The estimated taxes on a Roth conversion you're planning
 
-Your reserve isn't for these. Reserves are for **unplanned** events. Known costs are on the calendar. Confuse them and you either drain the reserve for planned costs, or sell Bitcoin at the worst moment because you didn't pre-fund.
+Your reserve is not for any of these. Your reserve is for the things you didn't see coming. Known costs are things you did see coming. Confuse the two and one of two things happens: you drain your reserve to pay for something that was on the calendar the whole time, or you sell Bitcoin at the worst possible moment because you never pre-funded it.
 
-Every known cost gets its own **lane**: where those dollars sit between now and the due date.
+So every known cost gets its own **lane**, and the lane is just the answer to one question: where do those dollars sit between now and the day the bill is due?
 
 ### Match the lane to the timing
 
-The lane depends on how far away the cost is. The further out, the more volatility the lane can tolerate.
+The lane depends on how far away the cost is. The further out it is, the more volatility that lane can tolerate, because you have time to recover from a bad stretch.
 
-| Timeframe | Where the money sits | What NOT to hold |
+| Timeframe | Where the money sits | Not here |
 |---|---|---|
-| 0 to 1 year | High-yield savings, T-bills, CDs | Anything volatile. Treat like part of the reserve. |
-| 1 to 3 years | T-bills, short-term Treasuries, HYSA | Stocks, Bitcoin |
-| 3 to 10 years | Balanced mix of stocks and bonds, I-Bond ladders | Bitcoin |
-| 10+ years | A planned Bitcoin sell schedule can start here | Cash (drag is too high) |
+| 0 to 1 year | High-yield savings, T-bills, CDs. Treat it like part of the reserve | Anything volatile |
+| 1 to 3 years | Short-term Treasuries, HYSA | Stocks, Bitcoin — not enough time to recover from a bad draw right before the bill |
+| 3 to 7 years | A balanced mix of stocks and bonds, or an I-Bond ladder | Bitcoin |
+| 10+ years | A planned Bitcoin sell schedule can start to make sense here | Cash — the drag over that long costs more than the volatility would |
 
-> ⚠ (2.3 redesign, item 18): the timeframe-lane table above is the one slated for replacement.
+> 🔶 F20: the 7-to-10 band is not addressed in the dictation. Left as spoken.
 
-For 10+ year costs, plan the sales into low-bracket years (Module 5).
+For 10+ year costs, plan the sales into low-bracket years — the years when your income is small enough that the tax rate on those sales is low. Module 5 shows you how to find yours.
 
-### Pre-funding vs paying from flow
+### Pre-funding versus paying from flow
 
-- **Small, dated costs** (a $2,000 vacation next summer) can be paid from flow. Set aside $200/mo starting six months before. No separate lane needed.
-- **Big dated costs** get their own lane so they don't land as one giant Bitcoin sale in a single year. Where the number *and* the date are genuinely fixed — a roof, a car, a down payment — dividing the target by the months available is a clean way to do it.
+This is the spot where a lot of financial planning goes sideways for a Bitcoiner.
 
-The threshold isn't a dollar number. If paying the cost all at once out of your monthly flow would break your surplus, give it a lane. If not, pay from flow.
+There are two ways to handle any known cost, and the right one depends on the size of it.
+
+- **Small dated costs** get paid out of monthly flow. A $2,000 vacation next summer doesn't need a separate lane. Set aside $200 a month starting six months before, and you're done.
+- **A bigger dated cost gets its own lane**, so it isn't one giant Bitcoin sale in a single year. A roof, a car, a house down payment. When the number *and* the date are both genuinely fixed, dividing the target by the months you've got and routing that much is a clean way to do it.
 
 ### ⚠ The general rule — say it before the arithmetic makes it sound automatic
 
-> **A future expense needs an intentional funding plan. It does not automatically need to be fully funded before the household keeps buying Bitcoin or pursuing other goals.**
+> **A future expense needs an intentional funding plan. It does not automatically need to be fully funded before you keep buying Bitcoin or keep working on anything else.**
 
-Conventional planning says: there's a goal, so fully fund the goal, and whatever's left can go to investing. That is not this course's position, and it is especially wrong when the thing being paused is Bitcoin accumulation. Cash ranks highly when it is solving real fragility, not by default.
+Conventional planning tends to say: there's a goal, so fully fund the goal, and whatever's left over goes to investing. That is not the position here, and it is especially wrong when the thing being paused is Bitcoin accumulation.
 
-**Six questions for any dated cost**, in place of the single question "how much do I save each month?":
+### The six questions for any dated cost
+
+For any known future cost, work through six things instead of one:
 
 | # | Question |
 |---|---|
-| 1 | What amount is the household **actually committing to provide**? Not what it might cost |
-| 2 | What is **already saved** toward it? |
-| 3 | What can be paid from **cash flow at the time**, rather than saved up front? |
+| 1 | What amount are you **actually committing to provide**? Not what it might cost. What you're on the hook for |
+| 2 | What's **already saved** toward it? |
+| 3 | What can come out of **cash flow at the time**, rather than being saved up front? |
 | 4 | What portion could reasonably be **financed**? |
 | 5 | What might come from **Bitcoin or other investments**? |
-| 6 | What portion must **stop depending on Bitcoin's price** as the date approaches? |
+| 6 | What part has to **stop depending on Bitcoin's price** as the date gets close? |
 
-Question 6 is the actual risk control, and it is far narrower than "fully fund it now." Money needed in one or two years should not ride on Bitcoin cooperating. Money further out can carry volatility the household can support.
+Question 6 is the actual risk control, and it's much narrower than "fully fund it now." Money you need in one or two years shouldn't ride on Bitcoin cooperating. Money that's further out can carry more volatility, if your household can handle it.
 
-**This generalises** (resolves F8). It applies to cars, weddings, a house purchase, home repairs, business investment, and family support — not only college. College is simply the case where every one of the six has a real answer and the cost of skipping to question one is highest, which is why it gets the full walkthrough below.
+**This generalises** (resolves F8). It applies to a car, a wedding, a house, home repairs, money going into a business, and helping family. And college, which is the one where the mistake costs the most.
 
-### The college example
-
-The couple's college bill is $100,000, starting in about 8 years and running four years.
-
-Three options:
-
-| Option | Outcome |
-|---|---|
-| **Pay from flow.** | $25k/yr tuition eats $25k of their $48k annual surplus. Doable, but it takes more than half of every dollar the waterfall was routing, for four straight years. |
-| **Pre-fund from flow.** | Route ~$1,000/mo into an intermediate lane for 8 years. That's ~$96k contributed, or ~$110k with growth. Tuition years become a routing move from the lane, not a hit to surplus. |
-| **Sell from Bitcoin.** | Plan sales into low-bracket years. Efficient if the tuition years land in a low-income year, otherwise it forces realized gains in high-bracket working years. (The retirement module names those years and shows you how to count yours; here it is enough that a low-income year is a cheap year to sell in.) |
-
-> ⚠ (2.3 redesign, item 18): the options table above is missing a fourth row — borrow against Bitcoin.
-
-Which option is right depends on the numbers. But the plan needs to know the cost is coming and needs a lane for it.
-
-### In the app
-
-Every known cost gets its own row: description, date, dollar amount, lane. The plan subtracts each cost from the projection at its due year, so your freedom date reads honestly.
-
-*↑ Never names **Life Events**, which is the actual feature.*
-
-### How much a month
-
-**Your target, divided by the months until the bill lands.** That is the whole calculation.
-
-$100,000 ÷ 96 months = a bit over **$1,000/month**.
-
-**What about growth?** Use the plain division anyway. Inside about five years you should not be taking much risk with this money, so there is little growth to count on. Over a longer horizon, arriving early is a far better failure than arriving short: growth shows up as being ahead of schedule, which you notice at your annual review.
+College gets its own lesson at **2.4**, because every one of the six questions has a real answer there and it takes a while to work through properly. **2.4 is optional.** No children and no other education goal means Module 2 is complete without it.
 
 ### Your decision
 
-Which known costs get pre-funded, and in which lane.
+Which of your dated costs get pre-funded, and in which lane.
 
 ### Put it in Orange Plan
 
@@ -333,9 +311,9 @@ Which known costs get pre-funded, and in which lane.
 
 | What | Where | Why |
 |---|---|---|
-| **The cost** | Plan → Retirement → **Life events** → Add event. Name, year, amount; mark it recurring if it repeats (four years of tuition) | This is what makes your projection know the bill is coming, and it is what moves your retirement date |
-| **The container** | Strategy → Allocation → raise the **Bridge** target by what you are accumulating | So the money lives somewhere that will not be down 40% the year the bill lands |
-| **The monthly amount** | Cash Flow → **Routing** | Your own division, below |
+| **The cost** | Plan → Retirement → **Life events** → Add event. Name, year, amount; mark it recurring if it repeats | This is what makes your projection know the bill is coming, and it is what moves your retirement date |
+| **The container** | Strategy → Allocation → raise the **Bridge** target by what you're accumulating | So the money sits somewhere that won't be down 40% the year the bill lands |
+| **The monthly amount** | Cash Flow → **Routing** | For a fixed cost: your target divided by the months you've got |
 
 ⚠ **You do the division, not the app.** The number is one calculation you can do in your head. What matters is the two entries above: the cost, so the projection knows the bill is coming, and the lane, so the money sits somewhere safe.
 
@@ -343,11 +321,129 @@ Which known costs get pre-funded, and in which lane.
 
 Every known cost inside ten years either has a funding lane or a deliberate decision that monthly cash flow absorbs it. A cost you've decided to absorb is finished, not skipped.
 
+Then watch the module walkthrough, where we build cash flow and reserve in Orange Plan. If college applies to you, take the college lesson first.
 
-## 2.4 Walkthrough: build cash flow and reserve in Orange Plan
+
+## 2.4 Optional: college is a funding stack
+*`TEACH` · ~1,060 words · ~7 min*
+
+> **OPTIONAL LESSON.** Gate: you have children, or another education goal you
+> expect to help pay for. A household with neither completes Module 2 without
+> this lesson, and nothing later in the course depends on it.
+>
+> 🎬 **Filmed in one continuous take with 2.3.** The edit cuts immediately before
+> the first line. Do not reset the room between them.
+>
+> ⚠ Current 529, aid, FAFSA and loan figures live in `lesson-text/` only, with
+> verification notes. Nothing law-set is spoken on camera here, by design.
+
+**By the end of this lesson, you can:**
+
+- Define what you are actually committing to provide, before calculating anything
+- Build the funding stack: projected cost, minus grants and student work, divided among six sources
+- Say where Bitcoin fits at each distance from enrollment, and where it doesn't
+- Treat a bounded amount of student borrowing as part of the plan rather than a failure
+
+---
+
+This lesson is optional, and who it's for comes first: you, if you have children or another education goal you expect to help pay for. If you don't, skip it. Module 2 is complete without it.
+
+Everybody else: this is the same six questions from 2.3, applied to the one dated cost where getting it wrong is most expensive.
+
+### College is a funding stack, not a bill you prepay
+
+College is one of the easiest goals to overfund, because people start with the sticker price and assume the parents are responsible for all of it. **That is the wrong starting point.**
+
+It's the same six questions, it's just that with college every single one of them has a real answer, and skipping straight to question one is what causes the damage.
+
+Before you calculate how much to save, decide what you're actually promising to provide:
+
+- Four years of in-state tuition
+- A fixed dollar amount
+- Whatever is already in the 529, plus an amount from cash flow while they're in school
+- Whatever remains after the student works, applies for aid, and finances a reasonable portion
+
+All of those can be valid plans. **This is a family-value decision.** The plan should never silently assume three children means four private-college sticker prices each.
+
+The reason starting from sticker price is wrong is that the published price and what a family actually pays are two very different numbers. Most first-time students get some grant aid, and the average net price after grants comes in well below the published figure at public and private schools both.
+
+⚠ **Those figures are not spoken on camera, because they move every year.** They are in the lesson text, and they get checked against the schools the student is actually looking at.
+
+On top of that you don't yet know the school, the aid package, what the student will contribute, or whether they go at all. Committing today to fully fund an uncertain four-year sticker price means planning around the number you're least sure of.
+
+### The funding stack
+
+> 🎬 **GRAPHIC:** the stack, built one line at a time. Projected school cost, minus grants and scholarships, minus student work, equals REMAINING NET COST. Then that number splitting into six funding sources.
+
+    Projected school cost
+    − grants and scholarships
+    − student work and other student resources
+    = REMAINING NET COST
+
+That remaining net cost divides among six sources:
+
+1. What's already in the 529
+2. New 529 contributions between now and then
+3. **Your cash flow while the child is actually enrolled** — the one people forget, and for a lot of families a big one
+4. Planned Bitcoin or taxable sales
+5. A limited amount of student borrowing
+6. Whatever's left unfunded
+
+Not every family uses all six. **College does not have to be solved entirely with money you saved before freshman year.** A complete plan might be: the parents provide the existing 529, add a fixed amount from annual cash flow, the student applies for aid and works summers and takes a defined amount of federal loans, and Bitcoin covers part of the rest if the price and the tax situation work out.
+
+That is a finished plan. It is not a failure because the 529 doesn't equal four years of sticker price.
+
+### Where Bitcoin fits, and where it doesn't
+
+**The goal is not to stop buying Bitcoin for seven years because your child may go to college.**
+
+The goal is that the amount you have *firmly promised* does not depend entirely on Bitcoin being at a favorable price on the exact day tuition is due.
+
+Those are very different things, and the difference is most of this lesson. It moves over time:
+
+| When | What you do |
+|---|---|
+| **5+ years out** | Keep accumulating and put a reasonable amount into the 529. Don't try to solve an uncertain four-year sticker price today |
+| **2–4 years out** | Update everything: likely schools, estimated net prices, the 529 balance, aid eligibility, what the student is willing to do, and what you're actually promising. Then start protecting **part** of the committed amount. Part, not all |
+| **Final 1–2 years** | Make sure the first year, maybe the first two, of what you promised has a reliable source: the 529, cash, current cash flow, a Bitcoin sale you made during a strong market, or some mix. The later years stay flexible |
+| **While enrolled** | Recalculate every year, after the actual aid package shows up |
+
+That's what gives Bitcoin time to compound without putting you in a spot where a 70% drawdown forces you to sell at the bottom.
+
+### Financing part of it isn't a failure
+
+People treat this as a defeat, and it isn't. A modest amount of federal student debt can give the student some ownership of the decision, protect your retirement flexibility, keep you out of a forced Bitcoin sale in a bear market, and spread the cost over the years the education is actually producing income. And if Bitcoin does what you think it's going to do, you can pay it down later.
+
+**A hard line between two kinds of borrowing:**
+
+- **Student federal loans** — a bounded, controllable piece of the plan
+- **Parent borrowing and private loans** — a separate debt decision, modelled against your retirement and your cash flow like any other debt
+
+⚠ **Limits change, and some changed recently.** No numbers are read into a video that outlives them. What you decide is the *shape*: we're comfortable with our student borrowing up to some amount, if the payment is reasonable for the career they're heading into. We are not signing up for unlimited parent debt.
+
+### Your decision
+
+What you are actually committing to provide. A fixed amount per child, four years of in-state tuition, tuition only, a percentage of the final net cost, or whatever the 529 plus a set amount of cash flow can carry. That is a family decision about what you're promising, and nothing in the plan should make it for you.
+
+### Put it in Orange Plan
+
+Same two places as 2.3, with one difference that matters.
+
+| What | Where | The college difference |
+|---|---|---|
+| **The cost** | Plan → Retirement → **Life events** → Add event. Name, year, amount; mark it recurring for the four years of tuition | **The amount you enter is your commitment, not the sticker price.** If you've promised $30,000 a child, that's the number. The rest of the stack lives outside the plan by design |
+| **The container** | Strategy → Allocation → raise the **Bridge** target | So the money sits somewhere that won't be down 40% the year the bill lands |
+| **The monthly amount** | Cash Flow → **Routing** | Whatever closes the gap between the 529's projected value and the part of your commitment you've decided to protect — usually a much smaller number than people expect |
+
+### You are done when
+
+You can say what you're committing to provide, name the sources that will cover it, and point at the part you've decided to protect from a Bitcoin sale. **You are not done when the whole sticker price is sitting in cash.** That was never the target.
+
+
+## 2.5 Walkthrough: build cash flow and reserve in Orange Plan
 *`DEMO` · 1,739 words · ~11 min read*
 
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **2.4**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **2.5**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
 
 > ➕ **ADD (Austin, 2026-07-29):** note that **retirement spending excludes debt
 > payments** too. Step 3 makes this explicit for the Living row but the rule is

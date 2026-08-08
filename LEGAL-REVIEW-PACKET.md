@@ -116,6 +116,38 @@ State-level rules can differ from the federal analysis, so this needs review by 
 
 ---
 
+## Part 4b — A8.1 trust lesson: blocking estate-attorney review (added 2026-08-08)
+
+**`A8.1 Advanced: do you need a trust, and which one?` is held TEXT-ONLY and
+UNPUBLISHED until an estate attorney signs off on the substance.** This is a
+separate review from Parts 1–3: those concern the education-vs-advice line and
+the course's own legal documents. This one is about whether the legal statements
+in a single lesson are *correct*.
+
+The lesson makes high-stakes claims in six areas. Each needs confirmation, and
+each needs a note on how state-specific it is:
+
+| # | Claim area | What the lesson currently asserts |
+|---|---|---|
+| 1 | **Revocable living trusts** | Avoid probate, preserve privacy, give a smooth incapacity handoff — and **do not** lower an estate tax bill, because the tax follows control |
+| 2 | **Irrevocable trusts** | Removing assets from the taxable estate requires genuinely giving up control; future growth escapes the estate too |
+| 3 | **Creditor protection** | An irrevocable trust "can shield assets from creditors and lawsuits" |
+| 4 | **Taxable estates** | Federal estate tax touches a tiny fraction of estates; a handful of states run their own at far lower thresholds |
+| 5 | **Trustee duties** | Trustees are generally held to a prudent-investor standard; a trustee holding concentrated Bitcoin can be pressured to sell and can be personally liable; a drafted waiver can release the duty to diversify *this* asset |
+| 6 | **International structures** | UK nil-rate bands and lifetime gifts · Canadian alter-ego and joint partner trusts · Australian testamentary trusts · continental foundations and usufruct |
+
+**Questions for the estate attorney, in addition to Part 5:**
+
+8. Are claims 1–5 accurate as general statements of US law, and where does state law materially change them?
+9. Is the prudent-investor waiver characterised correctly — is it genuinely available, genuinely non-boilerplate, and does the personal-liability framing overstate the risk?
+10. Is the multisig arrangement described (trustee holds one key, never the seed) sound as a way to give a trustee real participation without unilateral access?
+11. Should the international paragraph be cut rather than reviewed? It is four jurisdictions in three sentences and no one attorney can sign off on all of them.
+
+⚠ **Nothing in A8.1 is filmed or published to students until this is resolved.**
+Its master, script and lesson-text layers all carry the block marker.
+
+---
+
 ## Part 5 — Questions to put to the attorney
 
 1. Does the course, as written and disclaimed, sit within the publisher's exclusion?

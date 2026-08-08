@@ -11,6 +11,24 @@ What you're about to see is your first retirement read. It's a draft, built on t
 
 So hold it loosely in both directions. Don't treat an exciting date as finished, and don't dismiss the whole thing because the first number looks rough. This is a starting-point snapshot, and it becomes your actual plan as you make the decisions in the modules ahead. You'll watch it move, and watching it move is most of the point.
 
+== WHERE THE NUMBERS COME FROM ==
+
+[🔶 F21 — INSERTED SECTION, ~45 seconds. Not from a prior dictation. It exists
+because the client calls kept returning to "where did this number come from?"
+and "which account pays for this?", and nothing in the course answered it
+directly. Keep it, rewrite it, or cut it at the mic — the graphic carries the
+idea either way.]
+
+🎬 GRAPHIC: the number-flow frame. WHAT YOU CHANGE → WHAT THE APP CALCULATES → WHAT MOVES DOWNSTREAM, with the three worked rows underneath. This same frame comes back in every module walkthrough.
+
+One thing that'll save you a lot of confusion for the rest of the course. Nothing in this app is typed in twice. Every number you see is calculated from something upstream of it, it has exactly one place you can edit it, and it pushes something downstream.
+
+So there are three questions worth asking about any number on your screen. What is it calculated from. Where do I edit it. And what does it affect.
+
+You can see three examples on screen. Your income, minus taxes, minus living, minus debt, gives you your surplus, and your surplus drives your reserve funding, your contribution routing, and your retirement date. A life event becomes future spending in the year you set, and that pulls from accounts, and it moves your retirement date and your confidence. And your return assumption drives your projected balances and your simulated paths, which is what sets your earliest date and your confidence number.
+
+Every walkthrough in this course points at those same three things when a number matters. If you ever find yourself staring at a figure wondering where it came from, that's the question to ask, and there's always an answer.
+
 == YOUR EARLIEST RETIREMENT DATE ==
 
 The date tells you when. The confidence number tells you how sturdy that date is. And most tools only show you the date.

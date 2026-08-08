@@ -237,7 +237,17 @@ college.
 whose *amount* is uncertain, like a wedding you have promised to contribute to,
 or eldercare? Those look more like college than like a roof.
 
-### F9 · 2.3 is now 14.5 minutes, the longest lesson in Module 2 (was 12.5)
+### F9 ✅ RESOLVED · 2.3 was 14.5 minutes doing two jobs — split 2026-08-08
+
+**Austin's ruling: option 2, with one amendment.** 2.3 is now the required
+future-cost lesson (six questions, ~10 min) and **2.4 is an optional college
+lesson** (~7 min) that stays visibly inside Module 2 rather than moving to the
+Advanced Library — college is conditional, not advanced. The Module 2 walkthrough
+renumbered 2.4 → 2.5. Both are recorded in **one continuous sitting** with the
+edit cutting immediately before *"College is a funding stack, not a bill you
+prepay"*, so the split costs no extra production. Original entry below.
+
+**Original entry — F9 · 2.3 is now 14.5 minutes, the longest lesson in Module 2 (was 12.5)**
 
 The college position roughly doubled the lesson. It replaced a framing that was
 wrong, so the content is not padding — but 2.3 now does two distinct jobs:
@@ -258,8 +268,8 @@ and belongs to Austin, not to me.
 
 Published prices, net prices, the 529 student-loan and Roth-rollover limits,
 federal loan ceilings, parent PLUS (changed 1 July 2026), FAFSA asset
-treatment. **None is spoken in the video.** All live in `lesson-text/03-3`
-with verify-before-acting warnings.
+treatment. **None is spoken in the video.** All live in `lesson-text/02-4`
+(the optional college lesson) with verify-before-acting warnings.
 
 Austin's own instruction already scoped these to text; this note records that
 the implementation matches, and that the lesson text is now a
@@ -289,7 +299,16 @@ Raised by the four-bucket sort (`SOURCE-MATERIAL-POLICY.md`). Every item below
 is **bucket 2: a planning judgment.** None is applied. None becomes a course
 edit without Austin's word.
 
-### F12 · Is the next-dollar process a strict waterfall or a flexible comparison?
+### F12 → SUPERSEDED BY F22 · Is the next-dollar process a strict waterfall or a flexible comparison?
+
+**2026-08-08: this is now F22 below, and it is no longer only a question.** The
+client calls answered the "is the strict reading right" half — it is not — and
+the lesson is marked HOLD FOR REDICTATION. What remains for Austin is the actual
+order and wording, which is exactly what F22 asks for. Also note the lesson
+number in the original entry is stale: the next-dollar lesson is **4.3**, not
+2.2. Original entry below.
+
+**Original entry — F12 · Is the next-dollar process a strict waterfall or a flexible comparison?**
 
 Lesson 2.2 currently reads as a waterfall. The broader philosophy is more
 contextual: tax benefit, investment menu, Bitcoin exposure, liquidity, employer
@@ -384,3 +403,108 @@ scheme must therefore specify **where the second copy of the legend lives** and
 who can reach it, or it is 2-of-2 wearing a filing-cabinet costume.
 
 Not a reason to reject the proposal. A condition on accepting it.
+
+
+---
+
+# Repo-parity and client-call pass, 2026-08-08
+
+Raised while repairing the layer disagreements found in the repo audit. F20 and
+F21 are new. F22 supersedes F12. F23 records a structural consequence.
+
+### F20 · The 7-to-10-year funding lane is unstated
+
+The rebuilt 2.3 dictation names four lanes: **0–1 · 1–3 · 3–7 · 10+**. Nothing is
+said about **7 to 10 years**.
+
+The retired table closed that gap by running "no Bitcoin" all the way through ten
+years. The new dictation narrows the explicit no-Bitcoin statement to 3–7, and
+picks up again at 10+. So a cost seven and a half years out currently has no
+stated lane.
+
+**Not resolved here.** Extending "no Bitcoin" to ten would be re-imposing the
+table Austin replaced; starting the Bitcoin schedule at seven would be loosening
+a rule he kept. Both are planning judgments. The master, the lesson text and the
+`2-3_cost-lanes` visual all render the lanes exactly as spoken, with the gap
+visible.
+
+**One sentence at the mic settles it.** Austin: what happens between 7 and 10?
+
+### F21 · An inserted section in 1.3 — "Where the numbers come from"
+
+**Not from any prior dictation.** ~45 seconds, written 2026-08-08 to close the
+single most repeated stall in the 24 client calls: *where did this number come
+from · which page controls it · what changes when I edit this · which account
+funds this expense*. Peyton needed the life-event → future-spending → funding
+account chain explained more than once.
+
+**Why a section and not a lesson.** The repo already identified provenance as the
+highest-leverage improvement and left it as a backlog item. A new teaching lesson
+was explicitly out of scope, so this is the smallest thing that closes it: one
+reusable visual (`visuals/1-3b_number-flow.md`), introduced in 1.3, recalled in
+every module walkthrough as **CALCULATED FROM · EDIT SOURCE · THIS AFFECTS**.
+The pattern is the one the retirement-paycheck visual already proves.
+
+**Austin: keep it, rewrite it, or cut it at the mic.** The graphic carries the
+idea either way, and the walkthrough sheets already point at it. Nothing else
+depends on the spoken words.
+
+### F22 · The next-dollar lesson (4.3) — strict waterfall, HOLD FOR REDICTATION
+
+**The problem, stated plainly.** 4.3 says: *"every rung above has to be full, or
+maxed, before you move down to the next one. Money flows down the ladder, not
+sideways."* It then funds HSA, Roth and traditional accounts before taxable
+Bitcoin.
+
+That does not match how Austin actually advised clients. With Peyton, choosing
+between taxable savings and a Solo 401(k), the comparison ran across the current
+deduction, early-retirement access, how underfunded the taxable side was, income
+uncertainty, and the option of splitting the contribution. When future income
+felt uncertain, access to taxable money mattered enough that the deduction was
+not automatically decisive.
+
+**The intended shape** — the whole of what an editor is permitted to write down:
+
+- a stated **default order**
+- **strong presumptions**: capture unusually valuable employer money · deal with
+  debt the Debt module marked urgent · fix a reserve gap that creates forced-sale
+  risk
+- **named conditions** that override the default
+- a **comparison zone** among HSA / Roth / traditional / taxable Bitcoin /
+  taxable bridge assets, weighed on tax benefit today, whether the account can
+  hold the wanted Bitcoin exposure, access before retirement age, which timeframe
+  is actually underfunded, income stability
+- **deliberate splitting** when one dollar answers two legitimate needs
+
+**Austin supplies the order and the wording. Nothing has been rewritten toward
+the new shape** — the strict text is preserved verbatim so he can dictate over
+it. This is the highest-traffic decision in the core course, which is why it is
+cheap to change now and expensive after filming.
+
+**Two things deliberately left alone until he dictates**, because both are
+downstream of an order that does not exist yet:
+
+1. The proposed title *"Route your next dollar: the default order and when it
+   changes"*, and the proposed completion line: *"You have a saved default route,
+   you know which facts override it, and you know whether this month's answer is
+   one destination or a deliberate split."*
+2. The Module 4 checkpoint lines about rung 2 and the skipped rungs.
+
+### F23 · Where the Module 2 walkthrough hand-off now sits
+
+A consequence of the F9 split, recorded so it is a decision rather than a
+side effect.
+
+The say-once rule puts the walkthrough hand-off on the **last teach lesson of a
+module that has a capture**. After the split that is 2.4 — the *optional* college
+lesson — so a student who correctly skips college would never hear it.
+
+**What was done:** the hand-off sits on **2.3**, the last *required* teach lesson,
+and is worded to work on both paths: *"Then watch the module walkthrough, where we
+build cash flow and reserve in Orange Plan. If college applies to you, take the
+college lesson first."* `tools/build-dictation-order.py` now derives the hand-off
+from the last required lesson, so an optional lesson never captures it.
+
+**The alternative Austin may prefer:** put college last (2.5) and leave the
+walkthrough at 2.4, which makes the hand-off literal again at the cost of putting
+an optional lesson after the module's capture. Cheap to switch before filming.

@@ -4,12 +4,18 @@
 
 > **DO** = click path · **SEE** = point at this · **⚠** = don't get this wrong
 > Narrate in your own words. Nothing here is scripted.
+>
+> **↺ NUMBER FLOW — recall the 1.3 frame once, early, then point at it by name.**
+> **CALCULATED FROM** the accounts and holdings entered in Module 1 · **EDIT
+> SOURCE** the account row on the Dashboard · **THIS AFFECTS** which accounts show
+> up in the custody map and in the estate queue. A missing account here is a
+> Module 1 problem, not a custody problem — fix it at the source.
 
 ---
 
 ## Before you record
 
-- [ ] Custody level from 7.2 in mind · know whether the dead-man switch will need cloud sync
+- [ ] Custody level chosen in 7.1 in mind · know whether the dead-man switch will need cloud sync
 - [ ] **Tier is keyed to ESTATE NET WORTH, not custody choice:** Foundation <$500k · Substantial $500k–$2M · HNW $2M+. The 3 Hardware items only exist at Substantial+
 - [ ] **Local Only mode** replaces the switch panel with *"Automatic check-in emails require cloud sync."* Flip to Cloud at Settings → Data & Privacy now if you're arming next module
 - [ ] Zero secrets on screen. The checklist never asks for any — the ONLY free-text moment in the whole walkthrough is the backup passphrase in step 3
