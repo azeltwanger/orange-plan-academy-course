@@ -2,7 +2,8 @@
 
 > ## 👋 New session? Start with `HANDOFF.md`.
 > Current state, what Austin has already decided, what is still open, the known
-> gaps, and the four gates to run before and after any change.
+> gaps, and the open decisions. The commands to run before and after any change
+> are in **Working rules** below — that list is maintained in one place, here.
 
 > ## ⛔ Read `AUSTIN-AUTHORITY.md` before editing any lesson.
 >
@@ -42,7 +43,7 @@ The governing rule: *the core course helps people get a plan built; advanced is 
 - `MASTER-COURSE.md` — **the canonical core script**, across 10 modules (0–9). Lesson and capture counts are in the metrics block above, which is generated — this line no longer repeats them, because a hand-typed second copy is how the README came to claim 9 walkthroughs while the block said 11. 🎥 markers show every screen-share boundary; `>` flag lines are production notes, never read on camera.
 - `MASTER-ADVANCED.md` — the canonical Advanced Library script. Every lesson opens with a **Gate** line naming the condition that makes it worth watching.
 - `CIRCLE-STRUCTURE.md` — **the paste-ready course build for Circle**: per module, what the student will build, the lessons, the optional callouts, the checkpoint, and the gated advanced links. **Generated** — run `python3 tools/build-circle-structure.py`.
-- `CLAIM-REGISTRY.md` — **the load-bearing positions, and the reverted ones.** Read by `tools/check-layer-parity.py`, which is the gate that catches one layer teaching a position another layer already replaced. Editing it changes what that gate enforces.
+- `CLAIM-REGISTRY.md` — **the load-bearing positions, and the reverted ones.** Covers five live layers: master, script, lesson-text, generated module, and `visuals/`. Read by `tools/check-layer-parity.py`, which is the gate that catches one layer teaching a position another layer already replaced. Editing it changes what that gate enforces.
 - `EVIDENCE-LOOP.md` — how the first paying customers decide v1.1, and the rule for when a pattern earns a course change rather than a support answer.
 - `MODULE-CHECKPOINTS.md` — **the completion system.** One checklist per module, every line checkable by the student. Each lesson closes with the same three beats (Your decision · Put it in Orange Plan · You are done when) and the module checklist is the sum of them. This replaced 40 per-lesson homework blocks.
 - `SCREEN-SHOOT-LIST.md` — the screen-capture run sheet (beats + app-state prep). **Generated** — run `python3 tools/build-shoot-list.py`. One sheet can cover two lessons: Module 1 is filmed in a single session and cut in two, so capture *sessions* and capture *lessons* are different numbers and both are printed.
@@ -73,5 +74,16 @@ The governing rule: *the core course helps people get a plan built; advanced is 
    The fifth is the newest and the one that would have caught the 2.3 and A7.4
    defects: the other four validate numbers, counts, filenames and protection,
    and none of them can see what the layers actually *say*.
+
+   **When you change the parity checker or `CLAIM-REGISTRY.md`, also run:**
+
+   ```
+   python3 tools/test-layer-parity-mutations.py
+   ```
+
+   Seven mutation classes, each deliberately breaking one layer and requiring
+   the checker to fail. It restores every file in a `finally` block. A gate that
+   has never failed is not a gate — and two of these classes exist because
+   earlier versions of the checker silently passed them.
 3. The couple's canonical numbers (income $190k, surplus $48k/$4k-mo, DTA 40%, DTI ~12%…) are load-bearing across ~15 lessons — change them nowhere without changing them everywhere. See item 29 in the analysis log.
 4. Re-run the app-string verification sweep before filming each module (item 32 documents the method).

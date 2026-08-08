@@ -153,7 +153,48 @@ if publication:
     status += ['>', '> Tracked in `LEGAL-REVIEW-PACKET.md`. A publication blocker does',
                '> not stop a camera; it stops a student seeing the result.', '>']
 
-status += ['> **Anything not listed above is clear to shoot.**', '', '<!-- STATUS:END -->']
+# Professional-review gates. These are NOT read from markers in the lessons,
+# because the thing being tracked is the absence of an external event — a review
+# that has not happened yet. They are declared here and cleared here, by deleting
+# the row once the review is signed off in LEGAL-REVIEW-PACKET.md.
+#
+# Without this section the checklist said "anything not listed above is clear to
+# shoot" while the review packet said the opposite about four separate targets,
+# so someone following the checklist alone could film material the packet
+# explicitly holds.
+REVIEW_GATES = [
+    ('Module 5, and the advanced tax lessons (A5.1, A5.2, A5.3, A6.2)',
+     'Bitcoin-aware CPA', 'filming',
+     'basis at death and Roth conversion mechanics are the two blocking items; '
+     'both drive arithmetic a student will act on'),
+    ('Module 7', 'custody professional', 'filming',
+     'the four levels, the wipe-and-restore standard, and the institutional '
+     'death-claim path added 2026-08-08'),
+    ('8.4', 'insurance professional', 'filming',
+     'the coverage-gap arithmetic is the one place the course produces an '
+     'insurance number'),
+    ('A8.1, and the executor materials in 8.1 / 8.5', 'estate attorney',
+     'publication', 'already a publication blocker above; listed again here so '
+     'the executor materials are not forgotten'),
+]
+
+status += ['> ### 📋 PROFESSIONAL REVIEW GATES — outstanding', '>',
+           '> **Review materials are complete. None of the reviews has happened.**',
+           '> Preparing the brief does not discharge it. Each row blocks the target',
+           '> named in it, and clearing a row means the review is signed off in',
+           '> `LEGAL-REVIEW-PACKET.md` — not that it has been started.', '>']
+for target, who, kind, why in REVIEW_GATES:
+    verb = 'FILM' if kind == 'filming' else 'PUBLISH'
+    status.append(f'> - **{target}** — do not {verb} until **{who}** review is complete')
+    status.append(f'>   · *{why}*')
+status += ['>',
+           '> ⚠ **The CPA review is the one to start now.** Module 5 is Wave 2, so it',
+           '> looks distant — but it is the review most likely to produce an',
+           '> arithmetic correction, and arithmetic corrections are what force',
+           '> re-records. It also touches 2.4 and 4.3, which are Wave 1.', '>']
+
+status += ['> **Anything not named above — as a filming blocker or a review gate — is**',
+           '> **clear to shoot.**', '', '<!-- STATUS:END -->']
 
 # --- per-module list ------------------------------------------------------
 # One sheet can cover two lessons (Module 1 is filmed once, cut in two), so read

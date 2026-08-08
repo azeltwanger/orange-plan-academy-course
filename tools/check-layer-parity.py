@@ -133,6 +133,27 @@ def module_section(num):
     return found[0][1] if found else None
 
 
+def visual_text(num):
+    """Every graphic prompt for a lesson, concatenated.
+
+    visuals/ is a LIVE layer — the layer map in HANDOFF lists it alongside the
+    masters and scripts — and a graphic that contradicts all four text layers is
+    exactly the kind of drift nobody notices, because no script cites a visual
+    filename. Visual filenames are '2-3_slug.md' / '1-3b_slug.md' / 'A8-1_slug.md',
+    NOT zero-padded like scripts.
+    """
+    d = os.path.join(root, 'visuals')
+    if not os.path.isdir(d):
+        return None
+    mod, sub = num.split('.', 1)
+    pre = f'{mod}-{sub}' if mod.startswith('A') else f'{int(mod)}-{sub}'
+    hits = [f for f in sorted(os.listdir(d))
+            if re.match(rf'^{re.escape(pre)}[ab]?_', f)]
+    if not hits:
+        return None
+    return '\n'.join(open(os.path.join(d, f), encoding='utf-8').read() for f in hits)
+
+
 def layer_text(num, layer):
     """The text of ONE layer for ONE lesson, or None if that layer has no file."""
     a = num.startswith('A')
@@ -140,6 +161,8 @@ def layer_text(num, layer):
         return master_section(num)
     if layer == 'module':
         return module_section(num)
+    if layer == 'visual':
+        return visual_text(num)
     d = {'script': 'scripts/advanced' if a else 'scripts',
          'lesson-text': 'lesson-text/advanced' if a else 'lesson-text'}[layer]
     f = find(d, num)
@@ -189,11 +212,42 @@ def parse_registry():
                 out.append((kind, cells[0], cells[1].strip('`'), cells[2].strip('`'),
                             [x.strip() for x in cells[3].split(',') if x.strip()]))
             else:
-                # id | pattern | scope | unless | why
-                cid, pat, scope = cells[0], cells[1].strip('`'), cells[2].strip('`')
-                unless = cells[3].strip('`') if len(cells) > 4 else ''
-                out.append((kind, cid, pat, scope, unless))
+                # id | lesson | pattern | layers | unless | why
+                # An EMPTY lesson means "forbidden everywhere", which is the right
+                # default for retired language. A named lesson gets the same
+                # per-layer treatment as a MUST rule — the scoped form used to be
+                # a filename substring, and '02-3' never matched MASTER-COURSE.md
+                # or modules/02-module-2-*.md, so the retired table could return
+                # to the master and pass.
+                if len(cells) < 5:
+                    continue
+                out.append((kind, cells[0], cells[1].strip('`'), cells[2].strip('`'),
+                            [x.strip() for x in cells[3].split(',') if x.strip()],
+                            cells[4].strip('`')))
     return out
+
+
+def compile_pattern(cid, pat):
+    """Compile a registry pattern, refusing the ones that are unsafe here.
+
+    Matching runs on NORMALISED text, where every newline has become a space and
+    the whole document is effectively one line. An unbounded `.*` or `.+` in that
+    context can span the entire file: `3 to 10 years.*Bitcoin` would match a
+    phrase in Module 2 against the word "Bitcoin" four modules later and report a
+    regression that does not exist. Bound the gap explicitly — `.{0,80}` — so a
+    rule means what it looks like it means.
+    """
+    if re.search(r'(?<!\\)\.[*+](?!\?)', pat):
+        fails.append(('CLAIMS', cid,
+                      'pattern uses an unbounded ".*" or ".+". Matching runs on '
+                      'normalised single-line text, so that can span the whole '
+                      'file. Use a bounded form such as ".{0,80}"'))
+        return None
+    try:
+        return re.compile(pat)
+    except re.error as e:
+        fails.append(('CLAIMS', cid, f'bad pattern: {e}'))
+        return None
 
 
 REGISTRY = parse_registry()
@@ -202,22 +256,20 @@ if not REGISTRY:
 
 SCAN = []
 for d in ('.', 'scripts', 'scripts/advanced', 'lesson-text', 'lesson-text/advanced',
-          'modules', 'modules/advanced'):
+          'modules', 'modules/advanced', 'visuals'):
     p = os.path.join(root, d)
     if not os.path.isdir(p):
         continue
     for f in sorted(os.listdir(p)):
-        if f.endswith('.md') and f not in HISTORICAL:
+        if f.endswith('.md') and f not in HISTORICAL and f != '00-STYLE.md':
             SCAN.append(os.path.join(d, f))
 
 for row in REGISTRY:
     kind = row[0]
     if kind == 'MUST':
         _, cid, lesson, pat, layers = row
-        try:
-            rx = re.compile(pat)
-        except re.error as e:
-            fails.append(('CLAIMS', cid, f'bad pattern: {e}'))
+        rx = compile_pattern(cid, pat)
+        if rx is None:
             continue
         if lesson.startswith('file:'):
             fn = lesson.split(':', 1)[1]
@@ -250,16 +302,28 @@ for row in REGISTRY:
             passed.append(f'claim {cid} ({lesson}): '
                           + ' · '.join(f'{l}: PASS' for l, _ in results))
     else:
-        _, cid, pat, scope, unless = row
-        try:
-            rx = re.compile(pat)
-        except re.error as e:
-            fails.append(('CLAIMS', cid, f'bad pattern: {e}'))
+        _, cid, lesson, pat, layers, unless = row
+        rx = compile_pattern(cid, pat)
+        if rx is None:
             continue
-        files = [f for f in SCAN if scope in f] if scope else SCAN
-        if not files:
-            fails.append(('CLAIMS', cid, f'scope "{scope}" matches no file — rule is dead'))
+        if lesson and lesson != '*':
+            # Per-layer, exactly like a MUST rule.
+            hits = []
+            for layer in (layers or ['master', 'script', 'lesson-text', 'module']):
+                txt = layer_text(lesson, layer)
+                if txt is None:
+                    continue
+                n = norm(txt)
+                m = rx.search(n)
+                if m and not (unless and re.search(unless, n[max(0, m.start() - 200):m.end() + 200])):
+                    hits.append(f'{layer}: "{m.group(0)[:60]}"')
+            if hits:
+                fails.append(('CLAIMS', f'{cid} ({lesson})',
+                              'MUST NOT appear in any layer — found in ' + ' · '.join(hits)))
+            elif VERBOSE:
+                passed.append(f'claim {cid} ({lesson}): correctly absent from every layer')
             continue
+        files = SCAN
         hits = []
         for rel in files:
             raw = open(os.path.join(root, rel), encoding='utf-8').read()

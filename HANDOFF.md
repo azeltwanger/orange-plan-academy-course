@@ -204,9 +204,13 @@ sheets. `FILM-ORDER.md` still exists as a flat index and stamps a banner saying 
 is not a production source.
 
 **The production checklist cannot lie about readiness any more.** Its status block
-is generated: it prints FINAL only when no layer carries a do-not-film, rebuild,
-redictation or legal-review marker. Today it prints **NOT CLEARED — 5 open
-blockers** across 4.3 and A8.1.
+is generated from markers in the layers themselves, and it separates three things
+that are not the same: what cannot be **filmed**, what is simply **not scheduled**,
+and what cannot be **published**.
+
+⚠ **The current counts are not repeated here** — that sentence went stale within a
+day last time, which is the whole reason this file no longer carries numbers.
+**Read the status block at the top of `PRODUCTION-CHECKLIST.md`.**
 
 ---
 

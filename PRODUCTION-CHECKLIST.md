@@ -29,7 +29,29 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 > Tracked in `LEGAL-REVIEW-PACKET.md`. A publication blocker does
 > not stop a camera; it stops a student seeing the result.
 >
-> **Anything not listed above is clear to shoot.**
+> ### 📋 PROFESSIONAL REVIEW GATES — outstanding
+>
+> **Review materials are complete. None of the reviews has happened.**
+> Preparing the brief does not discharge it. Each row blocks the target
+> named in it, and clearing a row means the review is signed off in
+> `LEGAL-REVIEW-PACKET.md` — not that it has been started.
+>
+> - **Module 5, and the advanced tax lessons (A5.1, A5.2, A5.3, A6.2)** — do not FILM until **Bitcoin-aware CPA** review is complete
+>   · *basis at death and Roth conversion mechanics are the two blocking items; both drive arithmetic a student will act on*
+> - **Module 7** — do not FILM until **custody professional** review is complete
+>   · *the four levels, the wipe-and-restore standard, and the institutional death-claim path added 2026-08-08*
+> - **8.4** — do not FILM until **insurance professional** review is complete
+>   · *the coverage-gap arithmetic is the one place the course produces an insurance number*
+> - **A8.1, and the executor materials in 8.1 / 8.5** — do not PUBLISH until **estate attorney** review is complete
+>   · *already a publication blocker above; listed again here so the executor materials are not forgotten*
+>
+> ⚠ **The CPA review is the one to start now.** Module 5 is Wave 2, so it
+> looks distant — but it is the review most likely to produce an
+> arithmetic correction, and arithmetic corrections are what force
+> re-records. It also touches 2.4 and 4.3, which are Wave 1.
+>
+> **Anything not named above — as a filming blocker or a review gate — is**
+> **clear to shoot.**
 
 <!-- STATUS:END -->
 
