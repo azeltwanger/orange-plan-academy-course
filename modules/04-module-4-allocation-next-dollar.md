@@ -290,124 +290,132 @@ No account is left on the app's inferred guess, and you can say where each bucke
 > ✅ **MATH ERROR FIXED (item 22) — Option A applied 2026-07-30.** 2.1 no longer
 > subtracts the 401(k) or the Roth to reach surplus, so surplus is now
 > **$48,000/yr (~$4,000/mo)** = money not already committed to taxes, living, or
-> debt. This routing table spends that full $4,000 once: $1,000 + $300 + $583 +
-> $2,117. Nothing is double-counted, and the waterfall now genuinely decides the
-> retirement contributions instead of ratifying settled ones.
->
-> ⚠ Proposed v2 name: **"Which account to put your next dollar in"**.
->
-> 🐞 Currency mangling in the routing table (item 17).
+> debt. This routing table spends that full $4,000 once: $750 + $300 + $583 +
+> $250 + $2,117. Nothing is double-counted, and the routing now genuinely decides
+> the retirement contributions instead of ratifying settled ones.
 
-> 🔴 **HOLD FOR REDICTATION — DO NOT FILM AS WRITTEN. Flag F22, 2026-08-08.**
+> 🟡 **ORDER SETTLED 2026-08-11 (F22) — SCRIPT STILL NEEDS REDICTATION.**
 >
-> The lesson teaches a **strict waterfall**: *"every rung above has to be full,
-> or maxed, before you move down to the next one."* The client calls do not
-> support that as a command. Advising Peyton between taxable savings and a Solo
-> 401(k), Austin weighed the current deduction, early-retirement access, how
-> underfunded the taxable side was, income uncertainty, and splitting the
-> contribution across both — not "max every prior rung first."
+> The strict waterfall is gone. Austin supplied the order from his own **Week 3 ·
+> Accounts + Allocation** deck (slide 8, "Build the contribution waterfall") plus
+> the override condition in his own words: *"this is adjustable per situation
+> based on allocation targets. If you don't have any taxable and want to retire
+> early the path changes."* The doc, student-text, and visual layers below now
+> teach that structure.
 >
-> **The intended shape** (this is the whole of what an editor may write down):
-> a stated **default order** · **strong presumptions** that usually come first ·
-> **named conditions** that override the default · a **comparison zone** among
-> HSA / Roth / traditional / taxable Bitcoin / taxable bridge assets · and
-> **deliberate splitting** when one dollar answers two legitimate needs.
+> **What still needs him:** `scripts/04-3_...md` is his spoken prose and has
+> **not** been rewritten — the strict text is preserved verbatim so he can
+> dictate over it against the settled structure. Layer parity between the master
+> and the script is expected to disagree until he does.
 >
-> **The exact order and wording are Austin's.** Nothing below has been rewritten
-> toward the new shape — the strict version is preserved verbatim so he can
-> dictate over it. `SOURCE-MATERIAL-POLICY.md` already names "a strict
-> traditional contribution waterfall" as a thing not to adopt by default, so
-> this is the lesson that policy was written about.
->
-> ⚠ **Two things move with the redictation and are deliberately left alone until
-> then:** the proposed title *"Route your next dollar: the default order and
-> when it changes"*, and the Module 4 checkpoint line about rung 2. Both are
-> downstream of an order that does not exist yet.
+> ⚠ Still his call, deliberately not applied: the proposed title *"Route your
+> next dollar: the default order and when it changes"*. The current title says
+> "which account gets funded first", which no longer quite describes a lesson
+> whose answer depends on when you need the money.
 
 **By the end of this lesson, you can:**
 
-- Understand the six-rung contribution waterfall
-- Know why each rung sits where it does
-- Adapt the waterfall for common household situations
+- Route the next dollar through the default order
+- Name the conditions that change that order
+- Split one dollar across two destinations when both are legitimate
 
 ---
 
-You have a surplus. You have buckets. This lesson covers the order the next dollar should flow, and why.
+You have a surplus. You have buckets. This lesson covers where the next dollar goes, and what changes the answer.
 
-Every rung above the next has to be full (or maxed) before you move on. Money flows down the ladder, not sideways.
+**This is a default order, not a command.** Most months it is the right answer and you should not overthink it. But it adjusts per situation based on your allocation targets, and the conditions that adjust it are named below.
 
-### The standard waterfall
+### Three things come first
 
-| # | Rung | Why it's here |
+Less rungs than gates. Each either applies to you or it doesn't, and you settle it before the rest of the decision opens up.
+
+| # | What | When it applies |
 |---|---|---|
-| 1 | **Employer match** (401k or similar) | 50 to 100% instant return. Nothing else you do with the money gets close. |
-| 2 | **High-interest debt** | Above ~7%. A guaranteed 20% return on paying down a 20% credit card is unbeatable. |
-| 3 | **HSA** (if eligible) | Triple-tax-advantaged. Only tax shelter that gets all three. |
-| 4 | **Roth IRA or Roth 401(k)** | Tax-free growth, tax-free withdrawal, no RMDs — no required minimum distributions, the withdrawals the government forces out of traditional accounts once you reach a certain age. Best if you expect a higher retirement bracket. |
-| 5 | **Traditional 401(k) or IRA** (up to the limit) | Tax deduction now, taxed on withdrawal. Best if you expect a lower retirement bracket. |
-| 6 | **Taxable brokerage or Bitcoin** | Once tax-advantaged buckets are maxed, the rest goes here. |
+| 1 | **Reserve** | If it is still short. A reserve gap is what turns an ordinary bad month into a forced sale at the worst price. |
+| 2 | **Employer match** | If you have one. 50 to 100% instant return — nothing else you do with the money gets close. If the match is 50% up to 6% of pay, contribute 6%. Not 5%. Not 3%. Six. |
+| 3 | **Extra debt** | If your debt strategy says this debt wins. Module 3 already marked which debts get extra principal; this funds that decision rather than re-opening it. |
 
-Free money first. Guaranteed high returns second. Tax shelters in order of quality after that.
+Each of these completes by being skipped deliberately. No match, no reserve gap, and nothing marked for extra principal are three finished decisions, not three unanswered ones.
+
+### Then the order forks by time horizon
+
+Once those are settled, the question stops being *which account is next* and becomes *when do I need this money*.
+
+| Path | Timeframe | Where it goes | What it is for |
+|---|---|---|---|
+| **Forever** | 10+ years | HSA → Roth IRA → back to the 401(k) → taxable or self-custody Bitcoin above the limits | Long-term, untouchable, legacy |
+| **Bridge** | 4–10 years | Taxable or another flexible account | Accessible, pre-retirement money |
+
+**The default is the Forever path.** Dollars you will not need for a decade belong in retirement accounts, in that order: the HSA if you are eligible, then the Roth IRA, then back to the 401(k) past the match, then taxable or self-custody Bitcoin for anything above the limits.
+
+That is the typical order and it is the right starting point for most households.
+
+### When the path changes
+
+The default is a strong presumption, not a rule. The condition that overrides it most often:
+
+> **You have little or nothing in taxable, and you want to retire early.**
+>
+> Then the Bridge path moves up. Filling every retirement account first would lock the money behind an age you are not planning to wait for, and the bridge is precisely the years between when you stop working and when those accounts open.
+
+Two more worth naming:
+
+- **The account cannot hold what you want to hold.** A plan with no Bitcoin option is not the better wrapper for Bitcoin dollars just because its tax treatment is better. Check what the account can hold before you route dollars to it for the tax treatment.
+- **Income is uncertain.** A deduction taken this year is worth less if the year turns out worse than planned, and access is worth more.
+
+### Deliberate splitting
+
+One dollar can legitimately answer two needs, and splitting it is a decision, not a failure to make one. Someone building a bridge who still wants the deduction can send part of the contribution to each. Write down which part and why, so next month you are executing a decision instead of re-making it.
 
 ### Rung notes
 
-**Rung 1 (match).** If the match is 50% up to 6% of pay, contribute 6%. Not 5%. Not 3%. Six.
+**HSA.** Only available with a High Deductible Health Plan (HDHP). Triple-tax-advantaged — the only shelter that gets all three. Which bucket it lands in follows the job you give it: **Legacy** if you invest it and let it grow as a Roth-like medical fund, **Bridge** if you are going to spend it on medical costs before retirement.
 
-**Rung 2 (high-interest debt).** ~7% is a rough threshold. Any 20%+ APR is priority 1, before anything else.
+**Roth.** Tax-free growth, tax-free withdrawal, no RMDs — no required minimum distributions, the withdrawals the government forces out of traditional accounts once you reach a certain age. Especially strong for Bitcoin-heavy plans, because Bitcoin appreciation often puts you in a higher retirement bracket than you are in now.
 
-**Rung 3 (HSA).** Only available with a High Deductible Health Plan (HDHP). Which bucket it lands in follows the job you give it: **Legacy** if you invest it and let it grow as a Roth-like medical fund, **Bridge** if you're going to spend it on medical costs before retirement.
+**Traditional.** Deduction now, taxed as ordinary income on the way out. Best where you expect a lower bracket in retirement than today.
 
-**Rung 4 (Roth).** Especially strong for Bitcoin-heavy plans, because Bitcoin appreciation often puts you in a higher retirement bracket than you're in now.
-
-**Rung 5 (traditional).** Continuing past the match is fine. Match rung caps at the match; traditional rung caps at the annual limit.
-
-**Rung 6 (Bitcoin or taxable).** Split reflects your allocation tier from earlier.
-
-### Special cases
-
-- **No employer match.** Skip rung 1.
-- **Not HSA-eligible.** Skip rung 3.
-- **Income too high for Roth IRA direct contribution.** Look up the Backdoor Roth: contribute non-deductible to a Traditional IRA, then convert. Requires you to not have other pre-tax IRA balances (pro-rata rule).
-- **No high-interest debt.** Skip rung 2.
+**Income too high for a direct Roth IRA contribution.** Look up the Backdoor Roth: contribute non-deductible to a Traditional IRA, then convert. Requires you to not have other pre-tax IRA balances (pro-rata rule).
 
 ### Running the couple
 
 $4,000/mo surplus routes:
 
-| Rung | Amount | Notes |
+| Step | Amount | Notes |
 |---|---|---|
-| 401(k) | $1,000/mo | Captures full 50%-up-to-6% match ($12,000/yr) |
-| High-interest debt | — | None |
-| HSA | $300/mo | Spent on medical costs before retirement, so it sits in Bridge |
+| Reserve | — | Already full from Module 2 |
+| Employer match | $750/mo | 6% of the $150,000 salary, which captures the full 50%-up-to-6% match |
+| Extra debt | — | Nothing marked for extra principal |
+| HSA | $300/mo | They spend theirs on medical costs before retirement, so it sits in Bridge |
 | Roth IRA | $583/mo | Maxing the year's IRA limit ($7,000 when they ran it) |
-| Traditional | — | Skip for now |
-| Bitcoin + taxable | ~$2,117/mo | Split between Bridge and Legacy |
+| 401(k) past the match | $250/mo | Brings the 401(k) to $12,000/yr |
+| Taxable + Bitcoin | $2,117/mo | Split between Bridge and Legacy |
 
 Every dollar has a route. Nothing is left "to figure out."
 
 ### The routing card
 
-Post the waterfall where you make money decisions. When a bonus or windfall arrives, walk down the ladder:
+Post the order where you make money decisions. When a bonus or windfall arrives, walk it:
 
+- Is the reserve whole?
 - Am I capturing the full match?
-- Is high-interest debt gone?
-- HSA maxed?
-- Roth maxed?
-- Traditional 401(k) or IRA rung, depending on your bracket strategy.
-- Taxable or Bitcoin.
+- Does anything my debt strategy marked still want extra principal?
+- Then: is this money for 10+ years, or do I need it before then?
+- Forever goes HSA, Roth, 401(k), then taxable or Bitcoin. Bridge goes taxable.
+- Then place it inside the account according to your allocation targets.
 
-One decision, made once, routes every future dollar correctly.
+One decision, made once, routes every future dollar — until one of the named conditions changes, which is what the annual review is for.
 
 ### Two questions about the same dollar
 
-The waterfall and your buckets are not competing systems. They answer two different questions about the same dollar, and both get answered every time you save.
+The order and your buckets are not competing systems. They answer two different questions about the same dollar, and both get answered every time you save.
 
-- **The waterfall answers: which account does it go into?** The 401(k), the HSA, the Roth, the taxable brokerage. This is the **wrapper**, and it decides how the dollar gets taxed.
+- **The order answers: which account does it go into?** The 401(k), the HSA, the Roth, the taxable brokerage. This is the **wrapper**, and it decides how the dollar gets taxed.
 - **Your buckets answer: which timeframe is it funding?** Reserve, Bridge, or Legacy. This is the **job**, and it decides what you buy once the dollar is inside.
 
-A dollar going into your Roth is a rung-4 decision *and* a Legacy dollar at the same time. Same dollar, two labels, no conflict.
+A dollar going into your Roth is a Forever-path decision *and* a Legacy dollar at the same time. Same dollar, two labels, no conflict.
 
-The waterfall tells you the order, but it doesn't always tell you what to buy once you're inside an account. That's what the buckets are for. **When you have a choice inside a rung, go look at which bucket is behind, and fund that one.**
+The order tells you which account, but it does not always tell you what to buy once you are inside. That is what the buckets are for. **When you have a choice inside an account, go look at which bucket is behind, and fund that one.**
 
 **Strategy → Allocation** is the screen that shows you this. The three timeframes render with **Funded** or **Behind** badges, so you can see which one is short without doing any arithmetic. A Behind badge is the first place to *look* for this month's flexible dollars — it is not an instruction to send all of them there.
 
@@ -415,11 +423,11 @@ The waterfall tells you the order, but it doesn't always tell you what to buy on
 
 ### Your decision
 
-Your decision here is the order your next dollar flows, the amount at each rung, and which bucket your flexible dollars fill.
+Your saved default route, the conditions that would change it, and whether this month's answer is one destination or a deliberate split.
 
-Take free money first, because an employer match is the only guaranteed return you'll ever be offered. Then kill guaranteed losses, meaning high-interest debt. Then fill your tax shelters in order of quality. Everything after that is taxable or Bitcoin. And then let the buckets break the tie: once you know the account, check Allocation and put the flexible money toward whichever timeframe reads behind.
+Take free money first, because an employer match is the only guaranteed return you will ever be offered. Settle the reserve and the debts your strategy already marked. Then ask when you need the money, not which account is prettiest — that is the fork, and it is where early retirement changes the answer. Then let the buckets break the tie: once you know the account, check Allocation and put the flexible money toward whichever timeframe reads behind.
 
-You make this decision once and it routes every future dollar without you re-deciding every month. The bucket check is the only part that repeats, and it takes about 10 seconds during your monthly pass.
+You make this decision once and it routes every future dollar without re-deciding every month. The bucket check is the only part that repeats, and it takes about 10 seconds during your monthly pass.
 
 ### Put it in Orange Plan
 
@@ -427,7 +435,7 @@ Cash Flow → Routing → waterfall order.
 
 ### You are done when
 
-You know which rung the next dollar goes to without thinking about it. No match, no HSA eligibility, and no high-interest debt each complete their rung by being skipped deliberately.
+You have a saved default route, you know which facts override it, and you know whether this month's answer is one destination or a deliberate split. No match, no reserve gap, and no debt marked for extra principal each complete by being skipped deliberately.
 
 
 ## 4.4 Asset location: which account each holding belongs in

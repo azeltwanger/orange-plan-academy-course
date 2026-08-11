@@ -108,6 +108,38 @@ MUTATIONS = [
          '## Labels and data\n',
          'Caption across the arrow: the form overrides the will.\n'),
      'a graphic could contradict all four text layers with every gate green'),
+
+    # F22 — the settled next-dollar order. The strict waterfall was live in four
+    # layers at once, so every class below is one that actually happened.
+    ('strict waterfall command returns to the MASTER',
+     ['MASTER-COURSE.md'],
+     lambda: insert_after(
+         'MASTER-COURSE.md',
+         '### Three things come first\n',
+         '\nEvery rung above has to be full, or maxed, before you move down.\n'),
+     'the exact command F22 retired could come back into the lesson it was '
+     'removed from'),
+
+    ('the FORK claim vanishes from the MASTER only',
+     ['MASTER-COURSE.md'],
+     lambda: sub_all('MASTER-COURSE.md',
+                     [('forks by time horizon', 'stacks in a fixed order')]),
+     'the master could quietly return to a ladder while the student text and '
+     'the graphic still teach the fork'),
+
+    ('the NAMED OVERRIDE vanishes from the VISUAL only',
+     ['visuals/4-3_contribution-waterfall.md'],
+     lambda: sub_all('visuals/4-3_contribution-waterfall.md',
+                     [('little or nothing in taxable', 'a small taxable balance')]),
+     'the graphic could drop the early-retirement override and redraw a plain '
+     'default, which is a waterfall again'),
+
+    ('the Module 4 CHECKPOINT reverts to rung wording',
+     ['MODULE-CHECKPOINTS.md'],
+     lambda: sub_all('MODULE-CHECKPOINTS.md',
+                     [('saved default route', 'contribution waterfall set, rung 2 funded')]),
+     'the checkpoint could go back to checking a strict ladder while every '
+     'lesson layer teaches the default-plus-overrides form'),
 ]
 
 

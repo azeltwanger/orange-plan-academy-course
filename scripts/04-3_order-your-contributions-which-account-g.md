@@ -2,26 +2,42 @@ TELEPROMPTER SCRIPT — segment 4.3
 4.3 Order your contributions: which account gets funded first
 ~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 
-🔴 HOLD FOR REDICTATION — DO NOT FILM AS WRITTEN (flag F22, 2026-08-08)
-This lesson currently teaches a STRICT WATERFALL: "every rung above has to be
-full, or maxed, before you move down to the next one." That does not match how
-you actually advised clients on the calls. With Peyton, deciding between taxable
-savings and a Solo 401(k), you weighed the current deduction against
-early-retirement access, how underfunded the taxable side was, income
-uncertainty, and splitting the contribution across both. You did not tell him to
-max every prior rung first.
+🟡 ORDER SETTLED 2026-08-11 — STILL DO NOT FILM AS WRITTEN (flag F22)
+The order below is the RETIRED STRICT WATERFALL, preserved verbatim so you can
+dictate over it. The replacement order is now settled, from your own Week 3 ·
+Accounts + Allocation deck (slide 8) plus your note: "adjustable per situation
+based on allocation targets. If you don't have any taxable and want to retire
+early the path changes."
 
-The intended SHAPE, which is all an editor is allowed to write down:
-  - a stated DEFAULT ORDER,
-  - STRONG PRESUMPTIONS that usually come first,
-  - NAMED CONDITIONS that override the default,
-  - a COMPARISON ZONE among HSA / Roth / traditional / taxable Bitcoin / taxable
-    bridge assets, and
-  - DELIBERATE SPLITTING when one dollar answers two legitimate needs.
+DICTATE AGAINST THIS STRUCTURE — the master, lesson text and visual already
+teach it:
 
-The exact order, the exact presumptions, and the wording are YOURS. Nothing has
-been rewritten here — the text below is the current strict version, preserved
-verbatim so you can dictate over it. Full flag in AUTHORITY-FLAGS.md (F22).
+  THREE GATES FIRST (each can be skipped deliberately)
+    1. Reserve, if it is still short
+    2. Employer match, if you have one
+    3. Extra debt, if your debt strategy says that debt wins
+
+  THEN IT FORKS ON TIME HORIZON — not one long ladder
+    FOREVER (10+ yrs) — HSA -> Roth IRA -> back to the 401(k) -> taxable or
+      self-custody Bitcoin above the limits.  This is the DEFAULT.
+    BRIDGE (4-10 yrs) — taxable or another flexible account.
+
+  THE NAMED OVERRIDE (yours, verbatim)
+    Little or nothing in taxable + wants to retire early -> Bridge moves up.
+    Two others worth saying: the account cannot hold the Bitcoin exposure you
+    want, and income is uncertain so access outweighs the deduction.
+
+  DELIBERATE SPLITTING — one dollar can answer two legitimate needs.
+
+  THEN place it inside the account per the allocation targets.
+
+The WORDS are still yours. Nothing below has been rewritten toward this shape.
+Layer parity between this script and the master is EXPECTED to disagree until
+you dictate. Full flag in AUTHORITY-FLAGS.md (F22).
+
+⚠ One number below is wrong in the master's old table and right here: the
+50%-up-to-6% match on $150,000 caps at $750/mo, not $1,000/mo. The master has
+been corrected to match your $750 + $250-past-the-match split.
 ============================================================
 
 In today's lesson, we're going to cover the contribution waterfall, which is the order that your next dollar should flow through your accounts, and why that order is what it is.
@@ -29,9 +45,9 @@ In today's lesson, we're going to cover the contribution waterfall, which is the
 You have a surplus from the cash flow module, and you have your three buckets. The waterfall is how the two connect. The rule is simple: every rung above has to be full, or maxed, before you move down to the next one. Money flows down the ladder, not sideways.
 
 [🔶 F22 — THIS IS THE SENTENCE TO REDICTATE. "Every rung above has to be
-full, or maxed" is the strict form. The calls show a default order with named
-overrides, not a command. Nothing after this point has been changed to match,
-because the replacement order is yours to give.]
+full, or maxed" is the retired strict form. The replacement is a default order
+with three conditional gates and a fork on time horizon, per the header block.
+Nothing after this point has been changed to match — the words are yours.]
 
 == THE STANDARD WATERFALL ==
 

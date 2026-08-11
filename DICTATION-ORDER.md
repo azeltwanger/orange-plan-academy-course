@@ -94,7 +94,7 @@ changed once, in both places, before you record.
 |---|---|---|
 | 4.1 | Set the Bitcoin allocation you can hold through a full drawdown | 8.9 |
 | 4.2 | Break your accounts down by holding type, then by timeframe | 9.4 |
-| 4.3 | Order your contributions: which account gets funded first | 9.1 |
+| 4.3 | Order your contributions: which account gets funded first | 9.2 |
 | 4.4 | Asset location: which account each holding belongs in | 6.4 |
 | 4.5 | *Walkthrough: route it in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
 

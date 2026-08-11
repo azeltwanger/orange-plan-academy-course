@@ -89,16 +89,9 @@ sum of them:
 - [ ] Your Bitcoin allocation is a percentage you have **stress-tested at today's balance**, not the balance you had when you chose it
 - [ ] Every account is sorted into Reserve, Bridge, or Legacy, and none are left on the app's inferred guess
 - [ ] Each bucket has a target, and you can say where that target came from
-- [ ] Your contribution waterfall is set, and rung 2 funds the debts your debt policy already marked for extra principal
-- [ ] **Not applicable is fine:** no employer match, no HSA eligibility, and nothing marked for extra principal each complete their rung by being skipped deliberately
-
-> 🔴 **These two lines are downstream of lesson 4.3, which is on hold for
-> redictation (flag F22).** They describe a strict rung-by-rung waterfall. When
-> Austin dictates the default-order-with-overrides version, both lines get
-> rewritten to match — a routed dollar should be checkable as *"I know my default
-> route, I know what overrides it, and I know whether this month's answer is one
-> destination or a deliberate split."* Left as-is deliberately: rewriting them
-> now would mean inventing the order first.
+- [ ] You have a **saved default route**, you know which facts override it, and you know whether this month's answer is one destination or a deliberate split
+- [ ] The three gates are settled before the fork: reserve, employer match, and any debt your debt policy already marked for extra principal
+- [ ] **Not applicable is fine:** no employer match, no reserve gap, and nothing marked for extra principal each complete by being skipped deliberately
 
 ---
 

@@ -299,7 +299,7 @@ Raised by the four-bucket sort (`SOURCE-MATERIAL-POLICY.md`). Every item below
 is **bucket 2: a planning judgment.** None is applied. None becomes a course
 edit without Austin's word.
 
-### F12 → SUPERSEDED BY F22 · Is the next-dollar process a strict waterfall or a flexible comparison?
+### F12 → SUPERSEDED BY F22 (RESOLVED) · Is the next-dollar process a strict waterfall or a flexible comparison?
 
 **2026-08-08: this is now F22 below, and it is no longer only a question.** The
 client calls answered the "is the strict reading right" half — it is not — and
@@ -314,10 +314,11 @@ Lesson 2.2 currently reads as a waterfall. The broader philosophy is more
 contextual: tax benefit, investment menu, Bitcoin exposure, liquidity, employer
 match, and early-retirement access all bear on the same dollar.
 
-**Live now: the waterfall reading.** This is the single highest-traffic decision
-in the core course, so a change here is expensive after filming and cheap now.
+**Live now: neither.** Answered via F22 on 2026-08-11 — a default ordering with
+named overrides, not a strict waterfall. See F22 for the settled structure.
 
-**Austin decides:** strict order, or a comparison with a default ordering?
+**Original open question, kept for the record:** strict order, or a comparison
+with a default ordering?
 
 ### F13 · Should a Level 2 custody design deliberately let one heir act alone?
 
@@ -449,46 +450,62 @@ The pattern is the one the retirement-paycheck visual already proves.
 idea either way, and the walkthrough sheets already point at it. Nothing else
 depends on the spoken words.
 
-### F22 · The next-dollar lesson (4.3) — strict waterfall, HOLD FOR REDICTATION
+### F22 · The next-dollar lesson (4.3) — RESOLVED 2026-08-11, script still owed
 
-**The problem, stated plainly.** 4.3 says: *"every rung above has to be full, or
-maxed, before you move down to the next one. Money flows down the ladder, not
-sideways."* It then funds HSA, Roth and traditional accounts before taxable
-Bitcoin.
+**Status: the order is settled. The spoken script is not.**
 
-That does not match how Austin actually advised clients. With Peyton, choosing
-between taxable savings and a Solo 401(k), the comparison ran across the current
-deduction, early-retirement access, how underfunded the taxable side was, income
-uncertainty, and the option of splitting the contribution. When future income
-felt uncertain, access to taxable money mattered enough that the deduction was
-not automatically decisive.
+**What was wrong.** 4.3 taught: *"every rung above has to be full, or maxed,
+before you move down to the next one. Money flows down the ladder, not
+sideways."* It then funded HSA, Roth and traditional accounts before taxable
+Bitcoin. That did not match how Austin actually advised clients. With Peyton,
+choosing between taxable savings and a Solo 401(k), the comparison ran across
+the current deduction, early-retirement access, how underfunded the taxable side
+was, income uncertainty, and the option of splitting the contribution. When
+future income felt uncertain, access to taxable money mattered enough that the
+deduction was not automatically decisive.
 
-**The intended shape** — the whole of what an editor is permitted to write down:
+**What settled it.** Austin supplied his own **Week 3 · Accounts + Allocation**
+deck (slide 8, "Build the contribution waterfall"), plus the override in his own
+words: *"Typical order, adjust per situation: employer match → HSA → Roth IRA →
+back to 401k → taxable/self-custody BTC. This is adjustable per situation based
+on allocation targets. If you don't have any taxable and want to retire early
+the path changes."*
 
-- a stated **default order**
-- **strong presumptions**: capture unusually valuable employer money · deal with
-  debt the Debt module marked urgent · fix a reserve gap that creates forced-sale
-  risk
-- **named conditions** that override the default
-- a **comparison zone** among HSA / Roth / traditional / taxable Bitcoin /
-  taxable bridge assets, weighed on tax benefit today, whether the account can
-  hold the wanted Bitcoin exposure, access before retirement age, which timeframe
-  is actually underfunded, income stability
-- **deliberate splitting** when one dollar answers two legitimate needs
+**The settled structure, now taught in master / lesson-text / visual:**
 
-**Austin supplies the order and the wording. Nothing has been rewritten toward
-the new shape** — the strict text is preserved verbatim so he can dictate over
-it. This is the highest-traffic decision in the core course, which is why it is
-cheap to change now and expensive after filming.
+- **Three gates first**, each completing by deliberate skip: reserve if still
+  short · employer match if available · extra debt if the debt strategy says
+  that debt wins.
+- **Then a fork on time horizon**, not a ladder. **Forever (10+ yrs)** is the
+  default: HSA → Roth IRA → back to the 401(k) → taxable or self-custody Bitcoin
+  above the limits. **Bridge (4–10 yrs)**: taxable or another flexible account.
+- **Named override:** little or nothing in taxable + wants to retire early →
+  Bridge moves up. Also: the account cannot hold the wanted Bitcoin exposure,
+  and income uncertainty making access outweigh the deduction.
+- **Deliberate splitting** when one dollar answers two legitimate needs.
+- **Then place it inside the account** per the allocation targets.
 
-**Two things deliberately left alone until he dictates**, because both are
-downstream of an order that does not exist yet:
+**Still owed by Austin — one thing.** `scripts/04-3_...md` is his spoken prose
+and has **not** been rewritten. The strict text is preserved verbatim under a
+header block that spells out the settled structure to dictate against. **Layer
+parity between the master and that script is expected to disagree until he
+dictates**, and `CLAIM-REGISTRY.md` scopes the MUST rules to the layers that
+have actually been updated so the gate reports that honestly instead of going
+permanently red.
 
-1. The proposed title *"Route your next dollar: the default order and when it
-   changes"*, and the proposed completion line: *"You have a saved default route,
-   you know which facts override it, and you know whether this month's answer is
-   one destination or a deliberate split."*
-2. The Module 4 checkpoint lines about rung 2 and the skipped rungs.
+**Also still his, deliberately not applied:** the proposed title *"Route your
+next dollar: the default order and when it changes"*. The current title, "which
+account gets funded first", no longer quite describes a lesson whose answer
+forks by time horizon — but a retitle is his call and it moves the script's
+filename slug, so it waits for the dictation.
+
+**Applied downstream on resolution:** the Module 4 checkpoint lines (now
+"saved default route / what overrides it / one destination or a deliberate
+split"), the 4.3 visual brief (now three gates and a fork, with a `Never render`
+line forbidding the six-rung form), and a **math fix**: the master's routing
+table labelled $1,000/mo as "captures full 50%-up-to-6% match", but 6% of the
+$150,000 salary is $750/mo. The script had it right all along, splitting $750 at
+the match and $250 past it. The master now matches the script.
 
 ### F23 · Where the Module 2 walkthrough hand-off now sits
 
