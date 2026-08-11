@@ -429,6 +429,16 @@ a rule he kept. Both are planning judgments. The master, the lesson text and the
 `2-3_cost-lanes` visual all render the lanes exactly as spoken, with the gap
 visible.
 
+**Adjacent evidence, added 2026-08-11 — not an answer.** Austin's Week 3 deck
+sets the *bucket* timeframes at Reserve 0–3, **Bridge 4–10**, Legacy 10+, and
+puts Bridge at moderate volatility, *"a balanced mix that can flex with your
+needs."* That points at 7-to-10 behaving like the current 3–7 row. It is
+**recorded, not applied**, for two reasons: buckets and dated-cost lanes are
+different axes — one is what a pool of money is for, the other is where a
+specific bill's money waits — and extending "no Bitcoin" to ten is precisely
+the retired table F20 says not to re-impose by inference. The deck makes the
+question cheaper to answer; it does not answer it.
+
 **One sentence at the mic settles it.** Austin: what happens between 7 and 10?
 
 ### F21 · An inserted section in 1.3 — "Where the numbers come from"
@@ -476,7 +486,7 @@ the path changes."*
 - **Three gates first**, each completing by deliberate skip: reserve if still
   short · employer match if available · extra debt if the debt strategy says
   that debt wins.
-- **Then a fork on time horizon**, not a ladder. **Forever (10+ yrs)** is the
+- **Then a fork on time horizon**, not a ladder. **Legacy (10+ yrs)** is the
   default: HSA → Roth IRA → back to the 401(k) → taxable or self-custody Bitcoin
   above the limits. **Bridge (4–10 yrs)**: taxable or another flexible account.
 - **Named override:** little or nothing in taxable + wants to retire early →
@@ -525,3 +535,57 @@ from the last required lesson, so an optional lesson never captures it.
 **The alternative Austin may prefer:** put college last (2.5) and leave the
 walkthrough at 2.4, which makes the hand-off literal again at the cost of putting
 an optional lesson after the module's capture. Cheap to switch before filming.
+### F24 · The Rule of 55 — the app models it, the course never mentions it
+
+**Raised 2026-08-11 by the app review. This is a curriculum judgment, so it is
+Austin's, and nothing has been added.** `SOURCE-MATERIAL-POLICY.md` and the
+original directive both say not to add broad new curriculum, so this is a flag,
+not an edit.
+
+**What the app does now.** `src/lib/ruleOf55Ledger.js`,
+`isRuleOf55EligibleEmployerPlanAccountType`, and
+`getRuleOf55PenaltyFreeWithdrawal` model penalty-free access to workplace-plan
+dollars from age 55 for a user who separates from service in or after the year
+they turn 55. The projection consumes it. A student who retires at 55 will watch
+the app hand them their 401(k) without a penalty.
+
+**What the course says.** 59½ is taught as the unlock age, in four places that
+are spoken or shown on camera:
+
+| Where | What is said |
+|---|---|
+| `scripts/04-4` | *"a 10% penalty if you pull money before 59 and a half"* |
+| `scripts/04-4` | *"access before 59 and a half depends on whether the dollars are contributions, conversions, or earnings"* |
+| `scripts/04-5` | Bridge is badged *"before 59½"* |
+| `scripts/06-1` | 🎬 GRAPHIC timeline marker: *"59½ (retirement accounts unlock)"* |
+
+The 4.4 line about contributions / conversions / earnings is **correct and
+matches** the app's new Roth ordering work (`rothDistributionOrdering.js`,
+`taxFreeLedger.js`). The gap is specifically the workplace-plan exception at 55.
+
+**Why it matters more than it looks.** 4.3's settled override (F22) is
+*"little or nothing in taxable, and you want to retire early → the Bridge path
+moves up"*, and its reasoning is that retirement accounts *"lock the money behind
+an age you are not planning to wait for."* For a 55-to-59 retiree with a
+workplace plan, the app now says that lock is softer than the course does. The
+override is still right — the Rule of 55 needs separation from service, applies
+only to the plan you left, and does nothing for IRAs — but the flat framing is
+the part that is now incomplete against his own product.
+
+**Austin decides, and it is a small decision:**
+
+1. Leave 59½ as the core-course simplification and put the Rule of 55 in the
+   Advanced Library, or
+2. Add one qualifying sentence to 6.1's timeline graphic and 4.4, or
+3. Say nothing and accept the app being more precise than the video.
+
+Any of the three is defensible. What is not defensible is not knowing, which is
+why this is flagged before dictation rather than after filming.
+
+**Related fix already applied (category A, not a judgment):** the 4.4 wrapper
+table said *"RMDs start at 73"* flat. SECURE 2.0 sets it at 73 or 75 by birth
+year and the app computes it per user via `getRMDStartAge(birthYear)`. The
+master now says *"in your seventies — the exact age depends on your birth year,
+and the app computes yours."* The script already said *"start in your
+seventies"* and was correct; only the doc layer carried the number.
+

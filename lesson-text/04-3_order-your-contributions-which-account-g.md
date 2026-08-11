@@ -18,10 +18,10 @@ The question stops being *which account is next* and becomes *when do I need thi
 
 | Path | Timeframe | Where it goes |
 |---|---|---|
-| **Forever** | 10+ yrs | HSA → Roth IRA → back to the 401(k) → taxable or self-custody Bitcoin above the limits |
+| **Legacy** | 10+ yrs | HSA → Roth IRA → back to the 401(k) → taxable or self-custody Bitcoin above the limits |
 | **Bridge** | 4–10 yrs | Taxable or another flexible account |
 
-**Default: the Forever path.** Dollars you won't need for a decade belong in retirement accounts, in that order.
+**Default: the Legacy path.** Dollars you won't need for a decade belong in retirement accounts, in that order.
 
 ## When the path changes
 
@@ -41,7 +41,7 @@ Reserve already full, nothing marked for extra principal. $750 match capture (6%
 
 ## The routing card
 
-Post the order where you make money decisions. Is the reserve whole? Am I capturing the full match? Does anything my debt strategy marked still want extra principal? Then: 10+ years, or sooner? Forever goes HSA, Roth, 401(k), then taxable or Bitcoin. Bridge goes taxable. One decision routes every future dollar until one of the named conditions changes.
+Post the order where you make money decisions. Is the reserve whole? Am I capturing the full match? Does anything my debt strategy marked still want extra principal? Then: 10+ years, or sooner? Legacy goes HSA, Roth, 401(k), then taxable or Bitcoin. Bridge goes taxable. One decision routes every future dollar until one of the named conditions changes.
 
 ## Two questions about the same dollar
 
@@ -50,7 +50,7 @@ The order and your buckets answer two different questions, and both get answered
 - **The order: which account?** 401(k), HSA, Roth, taxable. The **wrapper**, which decides how it's taxed.
 - **Buckets: which timeframe?** Reserve, Bridge, Legacy. The **job**, which decides what you buy inside.
 
-A dollar into your Roth is a Forever-path decision *and* a Legacy dollar. Same dollar, two labels.
+Your Roth dollar answers both at once: the Roth is the wrapper, Legacy is the job. Same dollar, two labels.
 
 When you have a choice inside an account, **check which bucket is behind and fund that one**. **Strategy → Allocation** shows each timeframe as Funded or Behind, so it's a glance, not a calculation.
 

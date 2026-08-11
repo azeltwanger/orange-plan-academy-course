@@ -2299,10 +2299,10 @@ Once those are settled, the question stops being *which account is next* and bec
 
 | Path | Timeframe | Where it goes | What it is for |
 |---|---|---|---|
-| **Forever** | 10+ years | HSA → Roth IRA → back to the 401(k) → taxable or self-custody Bitcoin above the limits | Long-term, untouchable, legacy |
+| **Legacy** | 10+ years | HSA → Roth IRA → back to the 401(k) → taxable or self-custody Bitcoin above the limits | Long-term, untouchable, inheritable |
 | **Bridge** | 4–10 years | Taxable or another flexible account | Accessible, pre-retirement money |
 
-**The default is the Forever path.** Dollars you will not need for a decade belong in retirement accounts, in that order: the HSA if you are eligible, then the Roth IRA, then back to the 401(k) past the match, then taxable or self-custody Bitcoin for anything above the limits.
+**The default is the Legacy path.** Dollars you will not need for a decade belong in retirement accounts, in that order: the HSA if you are eligible, then the Roth IRA, then back to the 401(k) past the match, then taxable or self-custody Bitcoin for anything above the limits.
 
 That is the typical order and it is the right starting point for most households.
 
@@ -2357,7 +2357,7 @@ Post the order where you make money decisions. When a bonus or windfall arrives,
 - Am I capturing the full match?
 - Does anything my debt strategy marked still want extra principal?
 - Then: is this money for 10+ years, or do I need it before then?
-- Forever goes HSA, Roth, 401(k), then taxable or Bitcoin. Bridge goes taxable.
+- Legacy goes HSA, Roth, 401(k), then taxable or Bitcoin. Bridge goes taxable.
 - Then place it inside the account according to your allocation targets.
 
 One decision, made once, routes every future dollar — until one of the named conditions changes, which is what the annual review is for.
@@ -2369,7 +2369,7 @@ The order and your buckets are not competing systems. They answer two different 
 - **The order answers: which account does it go into?** The 401(k), the HSA, the Roth, the taxable brokerage. This is the **wrapper**, and it decides how the dollar gets taxed.
 - **Your buckets answer: which timeframe is it funding?** Reserve, Bridge, or Legacy. This is the **job**, and it decides what you buy once the dollar is inside.
 
-A dollar going into your Roth is a Forever-path decision *and* a Legacy dollar at the same time. Same dollar, two labels, no conflict.
+Your Roth dollar answers both questions at once: the Roth is the wrapper, Legacy is the job. Same dollar, two labels, no conflict.
 
 The order tells you which account, but it does not always tell you what to buy once you are inside. That is what the buckets are for. **When you have a choice inside an account, go look at which bucket is behind, and fund that one.**
 
@@ -2412,7 +2412,7 @@ You have three types of tax wrappers. The same $1 in Bitcoin sits very different
 | Wrapper | Tax in | Growth | Tax out | Notes |
 |---|---|---|---|---|
 | **Taxable brokerage** | Already-taxed dollars | Taxed annually on dividends and gains | Taxed on gains only (long-term rates if held >1yr) | Most flexible. No age limits, no penalties. |
-| **Traditional (401k, IRA)** | Pre-tax (deductible) | Tax-deferred | Ordinary income | RMDs start at 73. 10% penalty before 59½. |
+| **Traditional (401k, IRA)** | Pre-tax (deductible) | Tax-deferred | Ordinary income | RMDs start in your seventies — the exact age depends on your birth year, and the app computes yours. 10% penalty before 59½, with a workplace-plan exception the app models. |
 | **Roth (IRA, 401k)** | After-tax (post-tax) | Tax-free forever | Tax-free forever | No RMDs on Roth IRA. |
 
 ### The principle

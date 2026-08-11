@@ -10,18 +10,18 @@ Left third: three gates stacked vertically, each drawn as a checkpoint that can 
 
 Then the flow reaches a **fork** — a single stream splitting into two clearly labelled channels, drawn with equal visual weight so neither reads as the failure case:
 
-- **FOREVER · 10+ yrs** → HSA → Roth IRA → 401(k) → taxable / self-custody BTC above the limits
+- **LEGACY · 10+ yrs** → HSA → Roth IRA → 401(k) → taxable / self-custody BTC above the limits
 - **BRIDGE · 4–10 yrs** → taxable or another flexible account
 
-The Forever channel carries a subtle **"default"** marker. A callout near the fork names the override: *little or nothing in taxable + wants to retire early → Bridge moves up.*
+The Legacy channel carries a subtle **"default"** marker. A callout near the fork names the override: *little or nothing in taxable + wants to retire early → Bridge moves up.*
 
 ## Labels and data
 Gates: 1 reserve (if short) · 2 employer match (if available) · 3 extra debt (if the strategy says it wins)
-Fork: Forever 10+ yrs · Bridge 4–10 yrs
+Fork: Legacy 10+ yrs · Bridge 4–10 yrs
 Override callout: no taxable + early retirement → Bridge moves up
 
 ## Motion
-The three gates resolve in sequence — each either opens or stamps "not applicable" and the stream continues past it. At the fork the stream splits; the Forever channel brightens first as the default, then the override callout fades in and the Bridge channel brightens to match it, so the last frame shows two live paths rather than one winner.
+The three gates resolve in sequence — each either opens or stamps "not applicable" and the stream continues past it. At the fork the stream splits; the Legacy channel brightens first as the default, then the override callout fades in and the Bridge channel brightens to match it, so the last frame shows two live paths rather than one winner.
 
 ## Never render
 Never render this as a six-rung waterfall where each rung must fill before it spills to the next. That is the retired strict form (F22) and the whole point of the redraw is that the order forks rather than stacks.

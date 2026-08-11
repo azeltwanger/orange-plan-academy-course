@@ -18,7 +18,7 @@ teach it:
     3. Extra debt, if your debt strategy says that debt wins
 
   THEN IT FORKS ON TIME HORIZON — not one long ladder
-    FOREVER (10+ yrs) — HSA -> Roth IRA -> back to the 401(k) -> taxable or
+    LEGACY (10+ yrs) — HSA -> Roth IRA -> back to the 401(k) -> taxable or
       self-custody Bitcoin above the limits.  This is the DEFAULT.
     BRIDGE (4-10 yrs) — taxable or another flexible account.
 
@@ -30,6 +30,15 @@ teach it:
   DELIBERATE SPLITTING — one dollar can answer two legitimate needs.
 
   THEN place it inside the account per the allocation targets.
+
+⚠ ONE THING TO KNOW BEFORE YOU SAY THE OVERRIDE (flag F24). The reason given
+for the Bridge override is that retirement accounts lock money behind an age you
+are not planning to wait for. The app now models the RULE OF 55 — penalty-free
+access to workplace-plan dollars from 55 if you separate from service in or
+after the year you turn 55. The override still holds (it needs separation from
+service, covers only the plan you left, and does nothing for IRAs), but a 55-to-
+59 retiree will see the app be softer about the lock than the video is. Your
+call at the mic — AUTHORITY-FLAGS.md (F24) lists the three options.
 
 The WORDS are still yours. Nothing below has been rewritten toward this shape.
 Layer parity between this script and the master is EXPECTED to disagree until

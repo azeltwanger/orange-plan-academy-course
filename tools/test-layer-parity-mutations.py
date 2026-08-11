@@ -140,6 +140,15 @@ MUTATIONS = [
                      [('saved default route', 'contribution waterfall set, rung 2 funded')]),
      'the checkpoint could go back to checking a strict ladder while every '
      'lesson layer teaches the default-plus-overrides form'),
+
+    ('the retired FOREVER bucket name comes back',
+     ['MASTER-COURSE.md'],
+     lambda: sub_all('MASTER-COURSE.md',
+                     [('| **Legacy** | 10+ years |', '| **Forever** | 10+ years |')]),
+     'the 2026-07-29 Legacy rename could silently revert. It did, on '
+     '2026-08-11, when 4.3 was transcribed from a deck that still says '
+     '"Forever path" — and DICTATION-ORDER names these buckets a '
+     'settle-before-you-record item because they are the app screen labels'),
 ]
 
 
