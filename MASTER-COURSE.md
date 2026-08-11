@@ -2249,7 +2249,8 @@ No account is left on the app's inferred guess, and you can say where each bucke
 > $250 + $2,117. Nothing is double-counted, and the routing now genuinely decides
 > the retirement contributions instead of ratifying settled ones.
 
-> 🟡 **ORDER SETTLED 2026-08-11 (F22) — SCRIPT STILL NEEDS REDICTATION.**
+> 🔴 **FILMING BLOCKER (F22) — DO NOT FILM. Order settled 2026-08-11; the
+> script still needs your dictation.**
 >
 > The strict waterfall is gone. Austin supplied the order from his own **Week 3 ·
 > Accounts + Allocation** deck (slide 8, "Build the contribution waterfall") plus

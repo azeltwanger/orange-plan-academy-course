@@ -55,8 +55,17 @@ for d in (sd, os.path.join(sd, 'advanced')):
 # Markers are written into the layer that carries them so this reads structure
 # rather than trusting a person to remember. Module-level markers sit under the
 # `# Unit N · Module M` heading; lesson-level markers sit in the lesson section.
+#
+# The 'DO NOT FILM' marker is deliberately the PHRASE A HUMAN WRITES when a
+# lesson cannot be shot, not one specific reason for it. The old list matched
+# the literal string 'HOLD FOR REDICTATION'; when 4.3's banner was reworded to
+# say the order was settled but the script still needed dictation, the lesson
+# silently left the blocker list while its own script still read 'DO NOT FILM
+# AS WRITTEN'. A checklist that stops seeing a blocker is worse than no
+# checklist, because it prints 'clear to shoot' underneath.
 MARKERS = [
     (r'🔴 \*\*FILMING BLOCKER \((F\d+)\)',        'filming',     None),
+    (r'DO NOT FILM(?:[^\n]*?\((?:flag )?(F\d+)\))?', 'filming',   None),
     (r'HOLD FOR REDICTATION',                       'filming',     'F22'),
     (r'FLAGGED FOR REBUILD',                        'filming',     None),
     (r'⚖ \*\*PUBLICATION BLOCKER',                  'publication', None),
@@ -117,6 +126,24 @@ for d, sub in ((sd, ''), (os.path.join(sd, 'advanced'), 'advanced/')):
 buckets = {'filming': {}, 'publication': {}, 'noplan': {}}
 for where, kind, tag, src in raw:
     buckets[kind].setdefault((where, tag), []).append(src)
+
+# A lesson with nothing scheduled cannot be BLOCKED from filming — the thing
+# actually holding A8.1 is publication, and its script's 'TEXT-ONLY FOR v1 — DO
+# NOT FILM' banner would otherwise land it in both lists at once.
+# One lesson can match two markers — the canonical '🔴 FILMING BLOCKER (F22)'
+# and the generic 'DO NOT FILM' on the same banner. That is two keys for one
+# lesson, which printed 4.3 twice. Fold the untagged entry into the tagged one
+# rather than dropping it, so its source file is still credited.
+for lesson in {w for w, _ in buckets['filming']}:
+    tagged = [k for k in buckets['filming'] if k[0] == lesson and k[1]]
+    if tagged and (lesson, None) in buckets['filming']:
+        buckets['filming'][tagged[0]] += buckets['filming'].pop((lesson, None))
+    if tagged and (lesson, '') in buckets['filming']:
+        buckets['filming'][tagged[0]] += buckets['filming'].pop((lesson, ''))
+
+noplan_lessons = {w for w, _ in buckets['noplan']}
+for key in [k for k in buckets['filming'] if k[0] in noplan_lessons]:
+    del buckets['filming'][key]
 
 filming = sorted(buckets['filming'], key=lambda k: (k[0][0] == 'A', k[0]))
 publication = sorted(buckets['publication'], key=lambda k: (k[0][0] == 'A', k[0]))
