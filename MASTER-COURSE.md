@@ -217,7 +217,7 @@ And the last thing, which I'm saying once here so I don't have to repeat it in e
 
 Two decisions. Whether memory is on or off for you, and the one rule you never break.
 
-### Put it in orange plan
+### Put it in Orange Plan
 
 Click AI Review in the top bar so you know where it lives, then open Preferences inside Plan Guide and set memory deliberately.
 
@@ -537,7 +537,7 @@ Your decision here is what confidence level you're aiming for, and which lever y
 
 Pick your target before you look at your number, so the number doesn't just talk you into whatever it already says. Then decide your lever in advance, because there are really only four: work a little longer, spend a little less, save more, or change your allocation. If you pick that now, a low number turns into a to-do item instead of a bad night. And remember 100 was never the goal. A very high number usually just means you're over-saving and under-living.
 
-### Put it in orange plan
+### Put it in Orange Plan
 
 Plan → Retirement → guardrails policy, so the app knows what on track means for you.
 
@@ -812,7 +812,7 @@ Click **Go to your dashboard**.
 ## 1.5 Walkthrough: build your baseline in Orange Plan
 *`DEMO` · ~1,100 words · ~9 min read*
 
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **1.5**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+> 🎥 **SCREEN SHARE — entire lesson.** Captured with 1.4 in ONE recording — `scripts/01-4_WALKTHROUGH_module-1-set-up-and-verify.md`, chapters C–D, after **✂ CUT POINT 1**. There is no separate 1.5 sheet: app state builds forward through onboarding and never resets, so shooting these apart meant rebuilding the account. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
 
 **By the end of this lesson, you can:**
 

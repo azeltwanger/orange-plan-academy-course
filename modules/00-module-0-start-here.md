@@ -170,7 +170,7 @@ And the last thing, which I'm saying once here so I don't have to repeat it in e
 
 Two decisions. Whether memory is on or off for you, and the one rule you never break.
 
-### Put it in orange plan
+### Put it in Orange Plan
 
 Click AI Review in the top bar so you know where it lives, then open Preferences inside Plan Guide and set memory deliberately.
 

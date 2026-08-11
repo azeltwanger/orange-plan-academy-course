@@ -40,6 +40,12 @@ service, covers only the plan you left, and does nothing for IRAs), but a 55-to-
 59 retiree will see the app be softer about the lock than the video is. Your
 call at the mic — AUTHORITY-FLAGS.md (F24) lists the three options.
 
+⚠ ONE PHRASE NOT TO REPRODUCE. The old text below says the split "reflects the
+allocation tier you picked EARLIER IN THIS MODULE". That is a positional
+reference, which your own order-independence rule (VOICE-GUIDE, 2026-08-04)
+forbids — lessons get reordered and the reference goes stale silently. Refer to
+it by topic instead: "your allocation tier".
+
 The WORDS are still yours. Nothing below has been rewritten toward this shape.
 Layer parity between this script and the master is EXPECTED to disagree until
 you dictate. Full flag in AUTHORITY-FLAGS.md (F22).

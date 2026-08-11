@@ -589,3 +589,28 @@ master now says *"in your seventies — the exact age depends on your birth year
 and the app computes yours."* The script already said *"start in your
 seventies"* and was correct; only the doc layer carried the number.
 
+### F25 · A7.1 is numbered first and sequenced last
+
+**Raised 2026-08-11 by the structural audit. Not a filming blocker — the
+Advanced Library is not in the dictation order.**
+
+Advanced Module 7 runs **A7.2 → A7.3 → A7.4 → A7.1**. The sequence is
+consistent everywhere — the master, the generated module file, and the core
+course's "Related advanced lessons" pointer all list A7.1 fourth — so this is
+not drift between layers. It is one lesson whose number disagrees with its
+position in all of them at once.
+
+The position looks deliberate: A7.2, A7.3 and A7.4 are Level 1–2 operational
+lessons, and A7.1 is the Level 3/4 escalation, gated on failing an access test
+from the estate module. Read as a capstone it belongs last. Read as a number it
+belongs first.
+
+**Austin decides:** renumber it **A7.5** so number and position agree, or leave
+it and accept that students see A7.1 fourth. Renumbering cascades — the master
+heading, the script and lesson-text filenames, the generated module file, and
+the core pointer — so it is a clean batch job, but it is a job, and
+`check-crossrefs.py` will catch anything missed.
+
+Every other advanced module is in numeric order, and Advanced Module 2 is
+deliberately empty (*"Reference material only. No filmed lessons."*), which the
+audit confirmed is intentional rather than a gap.
