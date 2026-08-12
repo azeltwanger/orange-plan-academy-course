@@ -26,7 +26,7 @@ watched — watching is not the deliverable, a plan is.
 
 ### Lessons
 
-- **0.1 How to use this course** — 🎙 ~11 min
+- **0.1 How to use this course** — 🎙 ~16 min
 - **0.2 How the AI works: what it reads, what it never sees** — 🎙 ~6 min
 
 ### ✅ Checkpoint — paste at the bottom of the module page

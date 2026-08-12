@@ -1,21 +1,44 @@
 TELEPROMPTER SCRIPT — segment 0.1
 0.1 How to use this course
-~8 min at 155 wpm · AUSTIN DICTATION — SPOKEN-PROSE VERSION
+~12 min at 155 wpm · AUSTIN DICTATION — SPOKEN-PROSE VERSION
+Re-dictated 2026-08-11.
 ============================================================
 
->>> I CHANGED TWO THINGS IN YOUR DICTATION (your own flags). Say it your way. <<<
+>>> WHAT I DID WITH YOUR 2026-08-11 DICTATION <<<
 
-1. The module list is now Start Here plus nine planning modules. Item 5 is
-   DEBT (it now comes before allocation, because the next-dollar waterfall
-   routes money to debt and you can't route to a decision you haven't made).
-   Item 6 is allocation. Scenarios and reading your finished plan folded into
-   item 9. RE-RECORD NEEDED on items 5, 6, 9 and the opening line — this
-   lesson is already on the re-record list.
-2. "10 to 15 minutes every month" -> "around five minutes every month."
-   Module 9 teaches the monthly pass as about five minutes, in the lesson, the
-   lesson text, and the module blurb. Five is the number the course defends.
+Everything from "WHAT YOU'RE GOING TO WALK OUT WITH" to the sign-off is your
+new dictation. Four dictation stumbles cleaned, nothing else touched:
 
-Nothing else in your dictation was touched.
+  1. "an air letter" -> "an heir letter" (transcription).
+  2. A false start: "The course is going to walk you through a start-here
+     module. The course starts with a start-here module that's..." -> kept the
+     second one.
+  3. "It's not, instead of having a spreadsheet, something they're going to
+     build and use once and not open again. It's just a snapshot." -> "It's
+     not a spreadsheet you build once and never open again, which is only a
+     snapshot."
+  4. A duplicated inversion: "which accounts to pull from at the right time,
+     based off of when you want to retire / when you can pull money from the
+     right time, based off of which accounts" -> said once.
+
+>>> TWO THINGS THAT NEED YOU <<<
+
+  A. THE OPENING AND "WHY I BUILT THIS" ARE UNTOUCHED — you started at "what
+     you're going to walk out with", so the four-years-of-holding-Bitcoin
+     origin story below is still your OLD dictation. Confirm you meant to keep
+     it. If you meant to cut it, say so and it goes.
+  B. THE US vs NON-US SECTION IS STILL NOT DICTATED. It is at the bottom of
+     this file, where it has been since you asked for it on 2026-08-07.
+
+Verified against the app and the course: Module 0 really is this lesson plus
+"How the AI works", so the AI-overview line is accurate. Bitcoin-backed
+borrowing is genuinely covered in core Module 3 (the Monitor bucket and LTV
+drift), so that promise is supported. "Around five minutes every month" is the
+number Module 9 defends.
+
+The numbered nine-item module list is GONE — you told it as a journey instead,
+which removes the mismatch where spoken item 5 was Module 3.
+============================================================
 
 
 Welcome to the course. In this first lesson, I'm going to cover what this course is, what you're going to walk out with, and how to get the most out of it as you go through all these lessons.
@@ -28,67 +51,65 @@ My background is in financial planning, and I knew from my background in that wo
 
 == WHAT YOU'RE GOING TO WALK OUT WITH ==
 
-By the end of this course, you're going to walk out with a plan that tells you:
+By the end of this course, you're going to walk out with a plan that tells you when you can stop working and at what age, what level of confidence you can have in that plan by running future scenarios and stress testing your plan, how much you can spend in retirement, and everything you need to put together a complete financial plan all in one place.
 
-1. When you can stop working.
-2. What age.
-3. What level of confidence you can have in that plan.
-4. How many future scenarios your plan's going to hold up in.
-5. When you want to retire.
-6. How much you can spend.
+By doing this, this will help you make smart decisions around how to save money on taxes, which allocation is right for you, how to protect your Bitcoin, and how to make smarter decisions around Bitcoin-backed borrowing and paying off debt.
 
-This plan is going to adjust with all of your assets. For example:
+This plan adjusts with all of your assets and your life. For example, when you get a raise, when your retirement date moves, when Bitcoin goes up in a bull market, and when your spending changes, it's going to tell you when you need to make adjustments to your plan. The earliest date that you can retire is going to adjust with the amount of confidence we can have by running future scenarios of your plan.
 
-1. When you get a raise.
-2. When your retirement date moves.
-3. When Bitcoin goes up in a bull market.
-4. When your spending drifts.
-
-Your date is also going to move with that confidence level. This is a living financial plan that you can check in with regularly. This is not a spreadsheet you're going to build and use once and not open again. This is built and designed for you to be able to constantly make updates and changes and know exactly where you are at any given time.
+This is a living financial plan that you can check in with regularly. It's not a spreadsheet you build once and never open again, which is only a snapshot. This is built and designed for you to be able to constantly make small updates and changes every month, and then more in-depth plan reviews every year, so you know exactly where you're at at any given time and can keep your retirement plan up to date.
 
 == HOW THE COURSE IS STRUCTURED ==
 
-The course is going to walk you through a Start Here module and then nine planning modules, and they're all in the order that I would take a real client through if I was working with you one-on-one.
+The course starts with a Start Here module that's just going to give you basic information, like I'm going through now, and an overview of how the AI is integrated into the platform. It's followed by nine planning modules, and they're all structured in the order that I would take a real client through if I was working with you one-on-one.
 
-1. You're going to start with your baseline numbers and your assumptions about getting the baseline of your plan with all of your numbers in the app.
-2. You'll set your return assumptions and assumptions about the future.
-3. You'll get your first confidence read on where you're at today, when you can retire, and the level of confidence we can have in that plan.
-4. I'll cover cash flow, which is your surplus, and how to protect it, and also future cash flow planning.
-5. Then debt, where every debt you have gets a job and you set the level of debt you won't go past.
-6. Then your investment plan, which is your allocation and where every next dollar goes.
-7. How to build a retirement paycheck. This is going to cover tax strategy and your retirement income planning, and ways to optimize this to reduce your tax liability.
-8. How you protect your plan with custody and estate planning and inheritance.
-9. How you keep the whole thing alive and active, which is going to take you around five minutes every month with one annual review every year, plus how to run scenarios to test a decision before you make it, and how to read your finished plan.
+You're going to start with building out your baseline numbers and setting assumptions about what your plan is going to use with future projections and all the numbers that are getting factored into your retirement plan. You'll set your return assumptions and assumptions about the future. Then we'll get a first initial confidence read by running future scenarios based off of your plan. This will give you an idea of where you're at today, when you can retire, and the level of confidence we can have in that plan to start with.
 
-Each module is going to cover two different types of lessons:
+The next modules cover cash flow, which is your surplus and how to protect it, and things like how much you're spending and how much you expect to be spending in the future. Then future cash flow planning for the things you're going to have to spend money on down the road, so we can add those into your plan.
 
-1. A teach lesson like this one, where I'm just talking to the camera and explaining concepts to you. I'm going to include real-world examples to help make these concepts easier for you to understand.
-2. A walkthrough of me sharing my screen in the app, walking you through how to implement the things that you're learning step by step in your own financial plan.
+Then debt, where every debt is, what interest rates you're paying on it, and specific details get added into your plan. We'll make sure that every debt has a job, you set the level of debt, and you have a good understanding of the level of debt that your plan won't go past to keep it from becoming higher risk and fragile. We'll also cover debt strategies and when it might be appropriate to use those.
 
-Some of these modules are also going to include worksheets, and for some of the worksheets, it's going to include more sensitive information, like, for example, your custody map and an heir letter that are involved in the inheritance planning. I'd recommend printing those out and filling them out with a pen and paper instead of filling out the information on your computer.
+Then your investment plan, which covers your current allocation, how to find the right allocation for you, and where every next dollar is going to go. That's both by holdings, structuring your assets and accounts by time frame, and also making sure that your contributions and investments are going into the right types of accounts.
+
+Then we'll cover how to build a retirement paycheck and actually live off of Bitcoin and your other assets. This is going to cover your tax strategy and retirement income planning, and ways to optimize this to reduce your tax liability, so that you have a clear idea of how much you can spend in retirement, which accounts to pull from and when, based on when you want to retire, and how to do this in the most efficient way possible.
+
+Then we'll cover how to protect your plan. This covers Bitcoin self-custody and other custody options. We'll go over estate planning and inheritance best practices to make sure that your family has a good idea of how your Bitcoin and other assets are going to be passed down, and that you have the right documents and support in place to be able to do that.
+
+Lastly, I'll cover how to maintain the plan and keep it active over time, which is going to take you around five minutes every month. This also includes one annual review every year. I'll go over how to run different scenarios in the app to test a decision before you make it, and how to read your finished financial plan.
+
+== THE TWO KINDS OF LESSONS ==
+
+Each module is going to cover a teaching lesson like this one, where I'm just going to talk to the camera and explain concepts to you. I'm going to include real-world examples to make these concepts easier for you to understand. These are designed to help you better understand your current situation and how to make smarter decisions.
+
+Next, I'll go through a walkthrough of me sharing my screen in the app, walking you through how the app works and how to implement these things. That way you're learning step by step exactly how to first make a decision and then implement this in your own financial plan.
+
+== WORKSHEETS AND SENSITIVE INFORMATION ==
+
+Some of these modules are going to include things like worksheets. For some of these worksheets, it's going to include more sensitive information. For example, a custody map template and an heir letter for your loved ones that are involved in the estate and inheritance planning process. I would recommend printing those out and filling them out with a pen and paper instead of filling out the information on your computer.
+
+As a general rule, I would just avoid putting any sensitive information like your seed phrases, or information about specifically how your custody is stored, anywhere you're not comfortable with. I would recommend printing off the templates and writing them by hand.
 
 == HOW TO WORK THROUGH IT ==
 
-Also, I'd recommend going in order the first time from top to bottom. After that, you can come back to just refresh yourself on any lessons that you want to brush up on or use to focus on a specific part of your plan.
+As you go through this, I would recommend going in order the first time, from top to bottom. After that, you can come back to just refresh yourself on any lessons that you want to brush up on or use to focus on a specific part of your plan. If you forget how something works with the app, you can revisit that specific part.
 
-Now, some of this information can be dense, and it can feel overwhelming if you feel like you need to do all this at once. I think doing a module a week is a good place to start. That way, you can watch the lessons, learn what you need to do, watch the walkthrough as far as how to implement it, and then implement that part of your plan. Each one is designed to help guide you to a decision or an action, and the plan is going to build on itself one piece at a time as you go through each lesson.
+Some of this information can feel dense and overwhelming if you feel like you need to do all this at once. I think doing one module a week, or just one module at a time, is a good place to start. That way you can watch the lessons, learn what you need to do, make a decision, watch the walkthrough as far as how to implement that decision, and then implement that part of your plan in the real world.
+
+Each one is designed to help guide you to a decision or action, and the plan is going to build on itself one piece at a time as you go through each lesson.
 
 == A QUICK DISCLAIMER ==
 
-And a quick disclaimer: this is not designed to replace your tax advisor, estate planning attorney, or financial advisor. It's not financial advice. This is education as far as how I think about these concepts and how I would go about building a financial plan. It is on you to make your own financial decisions and then act on those, using the information that you've learned and what you feel like is best for your specific situation.
+Lastly, I'll include disclaimers about the content of this plan. This is not designed to replace a tax advisor, estate planning attorney, or financial advisor. This is not financial advice. This is education as far as how I think about these concepts and how I would go about building a financial plan. It's on you to make your own financial decisions and then act on those using the information that you've learned in this course and what you feel like is best for your specific situation.
 
-Specifically for taxes, insurance, or things like estate planning, these are areas where the details of your situation are going to change what the right answer is for you. These rules and decisions around estate planning can evolve and change as your level of assets goes up and different circumstances in your life might change.
+For things like taxes and insurance, or things like estate planning, these are areas where the details of your situation are going to change what the right answer is for you. These rules and decisions around estate planning can evolve and change as your level of assets goes up and different circumstances in your life might change.
 
-The app works in a similar way in that it's a modeling tool. It's going to run projections on the numbers that you give it, and a projection is only hypothetical. It's only going to be as good as the information that you're giving it. Nothing in your plan is a guarantee of any result, and past performance of Bitcoin or anything else doesn't necessarily tell you what's going to happen in the future.
+The app is going to work in a similar way: this is just a modeling tool. It's going to run projections on the numbers that you give it and the data that you provide. A projection is only going to be hypothetical. It's only going to be as good as the information that you're giving it. Nothing in your plan is a guarantee of any result. Past performance of Bitcoin or anything else doesn't necessarily tell you what's going to happen in the future.
 
-Use this program as a way to:
+Use this program as a way to educate yourself, and to get organized and have the tools to confidently make your own financial decisions and build out a plan using all of your own data, so you have a good understanding of all these decisions before you make them.
 
-1. Educate yourself.
-2. Get organized.
-3. Show up to those professional conversations with licensed professionals prepared using all of your accurate data.
-4. Verify anything before you're about to act on anything, like tax moves or specific estate planning documents.
+I would verify anything before you're about to act on major financial decisions like tax moves or specifics in estate planning documents. I think it's wise to consult with these professionals before making any major decisions.
 
-Alright, and with that, thanks for being here, and I'll see you in the first lesson.
+Thank you so much for being here, and I'll see you in the first lesson.
 
 ============================================================
 NOT YET DICTATED — add this to the disclaimer section.

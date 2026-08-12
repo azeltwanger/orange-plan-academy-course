@@ -31,6 +31,33 @@ sdir = os.path.join(root, 'scripts', 'advanced') if ADV else os.path.join(root, 
 master = open(mpath, encoding='utf-8').read()
 
 
+def script_body(raw):
+    """The taught body only — not the production notes, not undictated drafts.
+
+    `split(SEP, 1)[-1]` was the old rule, and it takes EVERYTHING after the
+    first separator. Two kinds of non-body text live down there:
+
+      - a `>>> ... <<<` note block telling Austin what changed in his
+        dictation, which every re-dictated script carries; and
+      - a trailing `NOT YET DICTATED` appendix, which is a draft waiting for
+        him to say it.
+
+    Under the old rule both became taught content in the master. The second is
+    the dangerous one: a block explicitly marked as not yet dictated would have
+    been published as though he had said it.
+    """
+    parts = raw.split('=' * 60)[1:]          # drop the metadata header
+    out = []
+    for part in parts:
+        head = part.strip()[:40].upper()
+        if head.startswith('NOT YET DICTATED'):
+            break                            # draft appendix and everything after
+        if part.strip().startswith('>>>'):
+            continue                         # production note block
+        out.append(part)
+    return ('\n'.join(out)).strip()
+
+
 def script_for(num):
     mod, sub = num.split('.', 1)
     stem = f'{mod}-{sub}' if mod.startswith('A') else f'{int(mod):02d}-{sub}'
@@ -48,9 +75,11 @@ def to_master(body):
         if m:
             # Prompter headings are shouted. Sentence-case them, but acronyms
             # stay shouted or you get "The ai does not do your math".
+            # 'I' is here as the PRONOUN, not an acronym: "WHY I BUILT THIS"
+            # was being sentence-cased to "Why i built this".
             KEEP = {'AI', 'LTV', 'DTI', 'DTA', 'HSA', 'PDF', 'RMD', 'UTXO',
                     'UTXOS', 'US', 'SS', 'IRA', 'CPA', 'ETF', 'PIN', 'FDIC',
-                    'W-2', 'HVAC', 'SSA', 'BTC'}
+                    'W-2', 'HVAC', 'SSA', 'BTC', 'I'}
             words = m.group(1).split()
             cased = [w if w.strip('.,:').upper() in KEEP else w.lower()
                      for w in words]
@@ -68,7 +97,7 @@ for num in nums:
     sp = script_for(num)
     if not sp:
         print(f'  !! {num}: no script found'); continue
-    body = open(sp, encoding='utf-8').read().split('=' * 60, 1)[-1].strip()
+    body = script_body(open(sp, encoding='utf-8').read())
     words = len(body.split())
 
     start = master.find(f'\n## {num} ')

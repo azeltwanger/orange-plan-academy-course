@@ -74,7 +74,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ## ☐ MODULE 0 — START HERE   ·   WAVE 1
 
-☐ 0.1 How to use this course — 🎙 film (~11 min)
+☐ 0.1 How to use this course — 🎙 film (~16 min)
 ☐ 0.2 How the AI works: what it reads, what it never sees — 🎙 film (~6 min)
 ☐ Paste the Module 0 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
 

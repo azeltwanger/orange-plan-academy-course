@@ -2,25 +2,35 @@
 
 Most Bitcoiners have the asset figured out and no plan around it. This course builds the plan: a system that answers "I can stop working at age X, and the plan holds up in Y% of futures," and keeps answering it as your life changes.
 
-## What you'll build
+## What you'll walk out with
 
-- A complete financial plan in Orange Plan, on your real numbers
-- Cash flow and a right-sized reserve, so a bear market never forces a sale
-- An allocation you can hold through a 70%+ drawdown
-- A debt strategy, a tax roadmap, and a retirement paycheck
-- Custody and estate setups your family can actually use
-- A 5-minute monthly habit and a once-a-year review that keep it alive
+- When you can stop working, and at what age
+- What level of confidence you can have in that plan, from running future scenarios and stress-testing it
+- How much you can spend in retirement
+- Everything you need to put together a complete financial plan, all in one place
+
+That's what lets you make smart decisions about saving money on taxes, which allocation is right for you, how to protect your Bitcoin, and how to think about Bitcoin-backed borrowing and paying off debt.
+
+**It's a living plan, not a snapshot.** It adjusts when you get a raise, when your retirement date moves, when Bitcoin runs, and when your spending changes — and it tells you when something needs adjusting. Small updates monthly, a deeper review yearly.
 
 ## How it's organized
 
-Each module has short teach lessons plus a walkthrough video where you implement everything in Orange Plan. Watch the lesson, then the walkthrough below it, then do the homework before moving on.
+A **Start Here** module — this lesson plus how the AI is integrated into the platform — then **nine planning modules**, in the order Austin would take a one-on-one client through: baseline and assumptions, your first confidence read, cash flow and future costs, debt, allocation and next-dollar, the retirement paycheck with tax strategy, custody and estate, and keeping the plan alive.
+
+Each module has short **teach lessons** plus a **walkthrough** where Austin shares his screen and you implement it in Orange Plan. Watch the lesson, make the decision, then watch the walkthrough and do it for real.
+
+## Worksheets and sensitive information
+
+Some modules include worksheets, and a few hold sensitive material — the custody map and the heir letter. **Print those and fill them in by hand rather than typing them into your computer.**
+
+As a general rule, don't put seed phrases, or details of exactly how your custody is stored, anywhere you aren't comfortable with them living.
 
 ## How to get the most out of it
 
-1. Go in order. Each module builds on the last.
+1. Go in order the first time, top to bottom. After that, come back to whatever you want to refresh.
 2. Use your real numbers. A plan on placeholder numbers is a demo, not a plan.
-3. Do the homework the same day you watch. It's designed to be finished in one sitting.
-4. Nothing here is financial, tax, or legal advice. Verify decisions with your own professionals.
+3. One module at a time — about a week each is a good pace. Watch, decide, watch the walkthrough, implement.
+4. Nothing here is financial, tax, or legal advice. Verify decisions with your own professionals before you act on them.
 
 ## Who this is built for: US vs non-US
 

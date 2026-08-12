@@ -13,7 +13,7 @@ then M1–M9) in course order. The optional library lives in `MASTER-ADVANCED.md
 <!-- METRICS:START -->
 | | Lessons | Runtime |
 |---|---|---|
-| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **243 min (4.1 h)** |
+| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **248 min (4.1 h)** |
 | **Advanced Library** — optional, gated per lesson | 14 teach | 106 min |
 
 Plus 11 core screen captures (10 walkthroughs + 1 external demo),
@@ -51,7 +51,7 @@ because it is the VOICE-GUIDE calibration master and his words are the record.
 
 ## 0.1 How to use this course
 
-*`TEACH` · 957 words · ~7 min*
+*`TEACH` · ~1,805 words · ~12 min*
 
 **By the end of this lesson, you can:**
 
@@ -61,87 +61,76 @@ because it is the VOICE-GUIDE calibration master and his words are the record.
 
 ---
 
-It took me four years of holding Bitcoin before I realized I was missing something.
+Welcome to the course. In this first lesson, I'm going to cover what this course is, what you're going to walk out with, and how to get the most out of it as you go through all these lessons.
 
-I had the asset figured out. What I didn't have was a plan.
+### Why I built this
 
-##### What freedom actually is
+The reason why I made this is that it took me four years of holding Bitcoin before I realized that I was missing something. I figured Bitcoin was the investment side of my plan, but what I didn't have was a financial plan where I could see everything in one place.
 
-The number you hit where no one can tell you what to do anymore.
+My background is in financial planning, and I knew from my background in that world that there are lots of variables that you have to solve to really get an accurate idea of where you stand today and what your retirement picture looks like. I built this system that does it for you. It's going to model every income, expense, debt, asset, life event, and future tax liability that you might have. It gives you the ability to run simulations on how likely your plan is to succeed. It tells you how much you can spend, and this system has given me a level of confidence around my family's finances that I hadn't felt since finding Bitcoin. This course is the roadmap that walks you through how to build yours step by step.
 
-That's what I think about when I think about freedom. Not material possessions. Not superficial things. The space and ability to say no to things I don't want to do. The room to pursue new ideas, take risks, and spend time with the people I care about.
+### What you're going to walk out with
 
-You get one life. Most people work their entire life for 15 years of freedom at the end, if they're lucky.
+By the end of this course, you're going to walk out with a plan that tells you when you can stop working and at what age, what level of confidence you can have in that plan by running future scenarios and stress testing your plan, how much you can spend in retirement, and everything you need to put together a complete financial plan all in one place.
 
-Thankfully for us, Satoshi Nakamoto invented the best money the world has ever seen. We can store the value of our work in it, instead of in infinite fiat currency or moldy rental properties. Bitcoin's returns give you a much better shot at a full life where you actually have a choice.
+By doing this, this will help you make smart decisions around how to save money on taxes, which allocation is right for you, how to protect your Bitcoin, and how to make smarter decisions around Bitcoin-backed borrowing and paying off debt.
 
-But before you get there, you have to decide how much you need to live on to reach that level.
+This plan adjusts with all of your assets and your life. For example, when you get a raise, when your retirement date moves, when Bitcoin goes up in a bull market, and when your spending changes, it's going to tell you when you need to make adjustments to your plan. The earliest date that you can retire is going to adjust with the amount of confidence we can have by running future scenarios of your plan.
 
-##### Why I built this
+This is a living financial plan that you can check in with regularly. It's not a spreadsheet you build once and never open again, which is only a snapshot. This is built and designed for you to be able to constantly make small updates and changes every month, and then more in-depth plan reviews every year, so you know exactly where you're at at any given time and can keep your retirement plan up to date.
 
-I spent years in finance. I got jaded with how the industry worked. Overpriced advice to manage index funds and bonds, and commissions on insurance products and annuities clients didn't need.
+### How the course is structured
 
-When I found Bitcoin, it solved the investment side of the equation I felt advisors overcharged for. But it created a new problem. I was checking the price 20 times a day. Stressed on down days, euphoric on up days. Holding a significant portion of my net worth in Bitcoin was way harder than it needed to be.
+The course starts with a Start Here module that's just going to give you basic information, like I'm going through now, and an overview of how the AI is integrated into the platform. It's followed by nine planning modules, and they're all structured in the order that I would take a real client through if I was working with you one-on-one.
 
-So I dug into my own numbers. I needed to know the exact date I could safely live on Bitcoin in retirement. But the tools that existed were basic calculators. Bitcoin growth rates in, spending out. None of them answered the real questions.
+You're going to start with building out your baseline numbers and setting assumptions about what your plan is going to use with future projections and all the numbers that are getting factored into your retirement plan. You'll set your return assumptions and assumptions about the future. Then we'll get a first initial confidence read by running future scenarios based off of your plan. This will give you an idea of where you're at today, when you can retire, and the level of confidence we can have in that plan to start with.
 
-What about taxes? What about the house we want in a few years? Which accounts should I contribute to? How much do I need to save? How much can I spend when I get there? Should I sell Bitcoin or borrow against it, and how does that fit the plan?
+The next modules cover cash flow, which is your surplus and how to protect it, and things like how much you're spending and how much you expect to be spending in the future. Then future cash flow planning for the things you're going to have to spend money on down the road, so we can add those into your plan.
 
-I knew from my background there were dozens of variables that had to be solved to get an accurate retirement date and know exactly what to do when I got there.
+Then debt, where every debt is, what interest rates you're paying on it, and specific details get added into your plan. We'll make sure that every debt has a job, you set the level of debt, and you have a good understanding of the level of debt that your plan won't go past to keep it from becoming higher risk and fragile. We'll also cover debt strategies and when it might be appropriate to use those.
 
-So I built one. A financial-planning system designed around Bitcoin, that models every income, expense, debt, asset, life event, and tax liability. It runs simulations on how likely your plan is to succeed. It tells you how much you can spend. It runs scenarios so you can see what a decision does to the rest of your plan.
+Then your investment plan, which covers your current allocation, how to find the right allocation for you, and where every next dollar is going to go. That's both by holdings, structuring your assets and accounts by time frame, and also making sure that your contributions and investments are going into the right types of accounts.
 
-That system has given me peace of mind, clarity, and a level of confidence around my family's financial plan I hadn't felt since finding Bitcoin.
+Then we'll cover how to build a retirement paycheck and actually live off of Bitcoin and your other assets. This is going to cover your tax strategy and retirement income planning, and ways to optimize this to reduce your tax liability, so that you have a clear idea of how much you can spend in retirement, which accounts to pull from and when, based on when you want to retire, and how to do this in the most efficient way possible.
 
-This course is the roadmap that walks you through building yours.
+Then we'll cover how to protect your plan. This covers Bitcoin self-custody and other custody options. We'll go over estate planning and inheritance best practices to make sure that your family has a good idea of how your Bitcoin and other assets are going to be passed down, and that you have the right documents and support in place to be able to do that.
 
-##### What you'll walk out with
+Lastly, I'll cover how to maintain the plan and keep it active over time, which is going to take you around five minutes every month. This also includes one annual review every year. I'll go over how to run different scenarios in the app to test a decision before you make it, and how to read your finished financial plan.
 
-A plan that answers one question.
+### The two kinds of lessons
 
-You can stop working at age X, and the plan holds up in Y% of futures.
+Each module is going to cover a teaching lesson like this one, where I'm just going to talk to the camera and explain concepts to you. I'm going to include real-world examples to make these concepts easier for you to understand. These are designed to help you better understand your current situation and how to make smarter decisions.
 
-Then it keeps answering it. When you get a raise, the date moves. When Bitcoin rips, the date moves. When spending drifts in a good year, the date moves. It's a living document you check in with. Not a spreadsheet you build once and never open again.
+Next, I'll go through a walkthrough of me sharing my screen in the app, walking you through how the app works and how to implement these things. That way you're learning step by step exactly how to first make a decision and then implement this in your own financial plan.
 
-##### How the course is structured
+### Worksheets and sensitive information
 
-Start Here, then nine planning modules, in the order I'd take a real client through.
+Some of these modules are going to include things like worksheets. For some of these worksheets, it's going to include more sensitive information. For example, a custody map template and an heir letter for your loved ones that are involved in the estate and inheritance planning process. I would recommend printing those out and filling them out with a pen and paper instead of filling out the information on your computer.
 
-1. **Module 1: Baseline.** Your numbers, your assumptions, and your first confidence read.
-2. **Module 2: Cash flow.** Your surplus and how to protect it.
-3. **Module 3: Debt.** Every debt gets a job, and you set the level you won't go past.
-4. **Module 4: Where the money goes.** Allocation, asset location, and the next dollar.
-5. **Modules 5 and 6: how you use it.** Tax strategy and retirement income.
-6. **Modules 7 and 8: how you protect it.** Custody and estate.
-7. **Module 9: how you keep it alive**, about five minutes a month, plus scenarios and reading your finished plan.
+As a general rule, I would just avoid putting any sensitive information like your seed phrases, or information about specifically how your custody is stored, anywhere you're not comfortable with. I would recommend printing off the templates and writing them by hand.
 
-Each module has two kinds of lessons. Teach lessons explain the concept with a real worked example. Walkthroughs put it into the app step by step. Some modules include worksheets. For the sensitive ones like the custody map and heir letter, print them and fill them out with pen and paper.
+### How to work through it
 
-Go in order the first time. After that, come back to any lesson as your life changes.
+As you go through this, I would recommend going in order the first time, from top to bottom. After that, you can come back to just refresh yourself on any lessons that you want to brush up on or use to focus on a specific part of your plan. If you forget how something works with the app, you can revisit that specific part.
 
-##### The rule the whole course runs on
+Some of this information can feel dense and overwhelming if you feel like you need to do all this at once. I think doing one module a week, or just one module at a time, is a good place to start. That way you can watch the lessons, learn what you need to do, make a decision, watch the walkthrough as far as how to implement that decision, and then implement that part of your plan in the real world.
 
-Build the plan this week with numbers that are approximately right, then refine them as you go. Every lesson is finishable in one sitting so the plan actually gets built.
+Each one is designed to help guide you to a decision or action, and the plan is going to build on itself one piece at a time as you go through each lesson.
 
-Don't try to be optimal before you're accurate. The most common failure mode is spending three months reconstructing exact cost basis before running the first confidence check. Get the plan standing first. Refine after.
+### A quick disclaimer
 
-A module a week is a good pace when you're starting. Don't binge them back to back. Each one ends with a decision or an action, and the plan builds on itself one piece at a time.
+Lastly, I'll include disclaimers about the content of this plan. This is not designed to replace a tax advisor, estate planning attorney, or financial advisor. This is not financial advice. This is education as far as how I think about these concepts and how I would go about building a financial plan. It's on you to make your own financial decisions and then act on those using the information that you've learned in this course and what you feel like is best for your specific situation.
 
-##### Before Module 1
+For things like taxes and insurance, or things like estate planning, these are areas where the details of your situation are going to change what the right answer is for you. These rules and decisions around estate planning can evolve and change as your level of assets goes up and different circumstances in your life might change.
 
-Have these in front of you.
+The app is going to work in a similar way: this is just a modeling tool. It's going to run projections on the numbers that you give it and the data that you provide. A projection is only going to be hypothetical. It's only going to be as good as the information that you're giving it. Nothing in your plan is a guarantee of any result. Past performance of Bitcoin or anything else doesn't necessarily tell you what's going to happen in the future.
 
-- Roughly what your household income is in a month.
-- Roughly what you spend in a month.
-- A list of what you own and what you owe, including how much Bitcoin, and where it's held.
+Use this program as a way to educate yourself, and to get organized and have the tools to confidently make your own financial decisions and build out a plan using all of your own data, so you have a good understanding of all these decisions before you make them.
 
-Rough is fine. Module 1 walks you through gathering them accurately.
+I would verify anything before you're about to act on major financial decisions like tax moves or specifics in estate planning documents. I think it's wise to consult with these professionals before making any major decisions.
 
-See you there.
+Thank you so much for being here, and I'll see you in the first lesson.
 
-Austin
-
----
 
 ## 0.2 How the AI works: what it reads, what it never sees
 
