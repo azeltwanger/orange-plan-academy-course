@@ -15,6 +15,8 @@ Run after any trim:  python3 tools/course-metrics.py
 Or check without writing:  python3 tools/course-metrics.py --check
 """
 import os, re, sys, json
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from scriptbody import script_body
 
 root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 CHECK = '--check' in sys.argv
@@ -29,7 +31,7 @@ def measure(d):
         if 'WALKTHROUGH' in f or 'DEMO' in f:
             sessions += 1          # one SHEET = one continuous recording
             continue
-        body = open(os.path.join(d, f), encoding='utf-8').read().split('=' * 60, 1)[-1]
+        body = script_body(open(os.path.join(d, f), encoding='utf-8').read())
         tw += len(body.split())
         teach += 1
     return teach, tw, sessions

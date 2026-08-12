@@ -26,7 +26,7 @@ watched — watching is not the deliverable, a plan is.
 
 ### Lessons
 
-- **0.1 How to use this course** — 🎙 ~16 min
+- **0.1 How to use this course** — 🎙 ~12 min
 - **0.2 How the AI works: what it reads, what it never sees** — 🎙 ~6 min
 
 ### ✅ Checkpoint — paste at the bottom of the module page
@@ -58,7 +58,7 @@ watched — watching is not the deliverable, a plan is.
 
 ### Lessons
 
-- **1.1 What to gather before you build the plan** — 🎙 ~6 min
+- **1.1 What to gather before you build the plan** — 🎙 ~4 min
 - **1.2 The three layers of a plan, and setting your assumptions** — 🎙 ~10 min
 - **1.3 Read your retirement date and confidence number** — 🎙 ~9 min
 - **1.4 Walkthrough: set up your plan in Orange Plan** — 🖥 walkthrough · filmed in one session with 1.5, published separately

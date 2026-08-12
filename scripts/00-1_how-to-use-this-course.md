@@ -21,14 +21,16 @@ new dictation. Four dictation stumbles cleaned, nothing else touched:
      based off of when you want to retire / when you can pull money from the
      right time, based off of which accounts" -> said once.
 
->>> TWO THINGS THAT NEED YOU <<<
+>>> ONE THING STILL NEEDS YOU <<<
 
-  A. THE OPENING AND "WHY I BUILT THIS" ARE UNTOUCHED — you started at "what
-     you're going to walk out with", so the four-years-of-holding-Bitcoin
-     origin story below is still your OLD dictation. Confirm you meant to keep
-     it. If you meant to cut it, say so and it goes.
-  B. THE US vs NON-US SECTION IS STILL NOT DICTATED. It is at the bottom of
-     this file, where it has been since you asked for it on 2026-08-07.
+  THE US vs NON-US SECTION IS STILL NOT DICTATED. It is at the bottom of this
+  file, where it has been since you asked for it on 2026-08-07. Note that
+  lesson-text ALREADY carries that section in full, so students currently read
+  it and never hear you say it.
+
+  (Settled 2026-08-11: the opening and "Why I built this" are your older
+  dictation and stay as they are — Austin confirmed. Read straight through
+  from "Welcome to the course" into the new material.)
 
 Verified against the app and the course: Module 0 really is this lesson plus
 "How the AI works", so the AI-overview line is accurate. Bitcoin-backed

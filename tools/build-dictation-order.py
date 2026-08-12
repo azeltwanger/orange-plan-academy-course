@@ -13,6 +13,8 @@ they're narrated off the DO/SEE/⚠ sheets, not read.
 Run after editing the master or a script:  python3 tools/build-dictation-order.py
 """
 import re, os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from scriptbody import script_body
 
 root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 master = open(os.path.join(root, 'MASTER-COURSE.md'), encoding='utf-8').read()
@@ -31,7 +33,7 @@ for f in sorted(os.listdir(sd)):
     if not mod.isdigit():
         continue                       # advanced-library numbering (A4-1)
     num = f'{int(mod)}.{sub}'
-    body = open(os.path.join(sd, f), encoding='utf-8').read().split('=' * 60, 1)[-1]
+    body = script_body(open(os.path.join(sd, f), encoding='utf-8').read())
     words = len(body.split())
     runtime[num] = words / 155
     slug[num] = f

@@ -23,6 +23,9 @@ Sources, all of them generated-from or authored-in exactly one place:
 Run:  python3 tools/build-circle-structure.py
 """
 import os, re
+import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from scriptbody import script_body
 
 root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 core = open(os.path.join(root, 'MASTER-COURSE.md'), encoding='utf-8').read()
@@ -38,7 +41,7 @@ for f in sorted(os.listdir(sd)):
     stem = f.split('_')[0].removesuffix('-A')
     num = f'{int(stem.split("-")[0])}.{stem.split("-")[1]}'
     body = open(os.path.join(sd, f), encoding='utf-8').read()
-    runtime[num] = len(body.split('=' * 60, 1)[-1].split()) / 155
+    runtime[num] = len(script_body(body).split()) / 155
     if 'WALKTHROUGH' in f or 'DEMO' in f:
         nums = re.findall(r'\d+\.\d+', body.split('\n', 1)[0].split('·')[0])
         for n in nums:

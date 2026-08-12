@@ -3,7 +3,7 @@
 Read top to bottom. Nothing below depends on a decision you haven't made yet,
 as long as you settle the five things in the next section first.
 
-**28 teach lessons · 248 min (4.1 h) of finished audio at 155 wpm.**
+**28 teach lessons · 242 min (4.0 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not on this list. They're screen captures you narrate in your
 own words off the DO / SEE / ⚠ sheets, and they happen after the teach lessons
@@ -54,18 +54,18 @@ changed once, in both places, before you record.
 
 ## The order
 
-### Module 0 — Start Here · 22 min
+### Module 0 — Start Here · 18 min
 
 | # | Lesson | min |
 |---|---|---|
-| 0.1 | How to use this course | 15.6 |
+| 0.1 | How to use this course | 11.6 |
 | 0.2 | How the AI works: what it reads, what it never sees | 6.1 |
 
-### Module 1 — Foundation: baseline, assumptions, and the confidence number · 25 min
+### Module 1 — Foundation: baseline, assumptions, and the confidence number · 22 min
 
 | # | Lesson | min |
 |---|---|---|
-| 1.1 | What to gather before you build the plan | 6.1 |
+| 1.1 | What to gather before you build the plan | 3.7 |
 | 1.2 | The three layers of a plan, and setting your assumptions | 9.6 |
 | 1.3 | Read your retirement date and confidence number | 9.1 |
 | 1.4 | *Walkthrough: set up your plan in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
@@ -145,7 +145,7 @@ changed once, in both places, before you record.
 
 ---
 
-**28 teach lessons · 248 min (4.1 h) of finished audio at 155 wpm.**
+**28 teach lessons · 242 min (4.0 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not dictated. They are screen captures you narrate in
 your own words off the DO / SEE / ⚠ sheets, and they happen after the

@@ -20,6 +20,8 @@ the deficit" (a definition) from "your deficit is $X" (a use). Read each hit.
   python3 tools/cold-read-audit.py 1 2 3      # only these module numbers
 """
 import os, re, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from scriptbody import script_body
 
 root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 master = open(os.path.join(root, 'MASTER-COURSE.md'), encoding='utf-8').read()
@@ -68,7 +70,7 @@ for mod, num, title in order:
     p = script_for(num)
     if not p:
         continue
-    body = open(p, encoding='utf-8').read().split('=' * 60, 1)[-1]
+    body = script_body(open(p, encoding='utf-8').read())
     is_cap = 'WALKTHROUGH' in p or 'DEMO' in p
     sents = [s.strip() for s in re.split(r'(?<=[.?!])\s+', body.replace('\n', ' ')) if s.strip()]
 

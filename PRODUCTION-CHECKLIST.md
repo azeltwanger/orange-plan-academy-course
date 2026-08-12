@@ -74,13 +74,13 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ## ☐ MODULE 0 — START HERE   ·   WAVE 1
 
-☐ 0.1 How to use this course — 🎙 film (~16 min)
+☐ 0.1 How to use this course — 🎙 film (~12 min)
 ☐ 0.2 How the AI works: what it reads, what it never sees — 🎙 film (~6 min)
 ☐ Paste the Module 0 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
 
 ## ☐ MODULE 1 — FOUNDATION: BASELINE, ASSUMPTIONS, AND THE CONFIDENCE NUMBER   ·   WAVE 1
 
-☐ 1.1 What to gather before you build the plan — 🎙 film (~6 min)
+☐ 1.1 What to gather before you build the plan — 🎙 film (~4 min)
 ☐ 1.2 The three layers of a plan, and setting your assumptions — 🎙 film (~10 min)
 ☐ 1.3 Read your retirement date and confidence number — 🎙 film (~9 min)
 ☐ 1.4 Walkthrough: set up your plan in Orange Plan — 🖥 capture — ONE SESSION with 1.5, off `scripts/01-4_WALKTHROUGH_module-1-set-up-and-verify.md`

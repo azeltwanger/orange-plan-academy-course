@@ -19,6 +19,8 @@ an outcome, fix that line by hand. The tool prints a warning when the body no
 longer mentions a word from one of the outcomes.
 """
 import re, os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from scriptbody import script_body
 
 root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 ADV = '--advanced' in sys.argv
@@ -29,33 +31,6 @@ if not nums:
 mpath = os.path.join(root, 'MASTER-ADVANCED.md' if ADV else 'MASTER-COURSE.md')
 sdir = os.path.join(root, 'scripts', 'advanced') if ADV else os.path.join(root, 'scripts')
 master = open(mpath, encoding='utf-8').read()
-
-
-def script_body(raw):
-    """The taught body only — not the production notes, not undictated drafts.
-
-    `split(SEP, 1)[-1]` was the old rule, and it takes EVERYTHING after the
-    first separator. Two kinds of non-body text live down there:
-
-      - a `>>> ... <<<` note block telling Austin what changed in his
-        dictation, which every re-dictated script carries; and
-      - a trailing `NOT YET DICTATED` appendix, which is a draft waiting for
-        him to say it.
-
-    Under the old rule both became taught content in the master. The second is
-    the dangerous one: a block explicitly marked as not yet dictated would have
-    been published as though he had said it.
-    """
-    parts = raw.split('=' * 60)[1:]          # drop the metadata header
-    out = []
-    for part in parts:
-        head = part.strip()[:40].upper()
-        if head.startswith('NOT YET DICTATED'):
-            break                            # draft appendix and everything after
-        if part.strip().startswith('>>>'):
-            continue                         # production note block
-        out.append(part)
-    return ('\n'.join(out)).strip()
 
 
 def script_for(num):

@@ -24,6 +24,9 @@ Everything else above '## ☐ ONE-TIME SETUP' is preserved verbatim.
 Run:  python3 tools/build-production-checklist.py
 """
 import os, re
+import sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+from scriptbody import script_body
 
 root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 core = open(os.path.join(root, 'MASTER-COURSE.md'), encoding='utf-8').read()
@@ -38,7 +41,7 @@ for d in (sd, os.path.join(sd, 'advanced')):
         stem = f.split('_')[0]
         num = (stem.replace('-', '.', 1) if stem[0] == 'A'
                else f'{int(stem.split("-")[0])}.{stem.split("-")[1]}')
-        body = open(os.path.join(d, f), encoding='utf-8').read().split('=' * 60, 1)[-1]
+        body = script_body(open(os.path.join(d, f), encoding='utf-8').read())
         runtime[num] = len(body.split()) / 155
 
 # --- blockers -------------------------------------------------------------
