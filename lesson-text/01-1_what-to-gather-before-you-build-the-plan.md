@@ -1,6 +1,6 @@
 # What to gather before you build the plan
 
-Your plan is only as good as its inputs. This lesson collects them once, so onboarding takes 15 minutes instead of 15 tab-switches.
+Your plan is only as good as its inputs. This lesson collects them once, so entering it all takes 15 minutes instead of 15 tab-switches.
 
 ## The list
 
