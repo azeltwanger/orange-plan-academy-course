@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 2.2
 2.2 Size your cash reserve in months of spending
-~11 min at 155 wpm · AUSTIN DICTATION — SPOKEN-PROSE VERSION (calibration master)
+~11 min at 155 wpm · AUSTIN DICTATION — marked app-accuracy close
 ============================================================
 
 In today's lesson, we're going to cover how to size your cash reserve to your life. Let me start by showing you why this matters.
@@ -57,27 +57,20 @@ I don't think there's a wrong answer here. A lot of this, like I said, comes dow
 
 == YOUR DECISION ==
 
-[🔶 F24 — RESTRUCTURED CLOSE, not new teaching. This lesson used to end
-with a HOMEWORK block, which is the pattern MODULE-CHECKPOINTS replaced. The
-three beats below are your own words from the homework and from the scenario
-question above, re-sorted so this lesson contributes its line to the Module 2
-checkpoint like every other core lesson. Nothing was added. Say it your way.]
+[🔶 F24 — RESTRUCTURED CLOSE, not new teaching. The decision language below is
+from Austin's homework and scenario question. The app path was corrected on
+2026-08-18 because the current Cash Flow page calculates and displays the target.]
 
-Your decision here is your target number of months, and how much risk you're
-willing to carry to get there. Go back to the scenario question: would you rather
-hold more cash now and spend through a bad stretch safely, or take the risk of
-selling into a 50% drawdown and cut hard down to bare-bones? There's no wrong
-answer. But pick it on purpose, because if you don't know which of those two you
-are, you're just guessing at the number.
+Your decision here is your target number of months, and how much risk you're willing to carry to get there. Go back to the scenario question: would you rather hold more cash now and spend through a bad stretch safely, or take the risk of selling into a 50% drawdown and cut hard down to bare-bones? There's no wrong answer. But pick it on purpose, because if you don't know which of those two you are, you're just guessing at the number.
 
 == PUT IT IN ORANGE PLAN ==
 
-Cash Flow → Reserve settings. Set your bare-bones floor, then set target months.
-Your target amount is that number of months times your bare-bones spending, and
-you do that multiplication, not the app.
+Go to Cash Flow → Reserve settings.
+
+Enter your bare-bones monthly essentials, choose Bare-bones as the reserve basis, and set your target months. Orange Plan multiplies the selected spending basis by the target months and shows the reserve target for you.
+
+Then set the monthly build cap, which is the most of this month's surplus you want the reserve to claim while it is below target.
 
 == YOU ARE DONE WHEN ==
 
-Your reserve target is set in months of spending, the app shows how many months
-you actually hold, and you can say what the reserve is for in one sentence: so a
-bad month never forces a Bitcoin sale.
+Your reserve target is set in months of spending, the app shows the target amount and how much you actually hold, and you can say what the reserve is for in one sentence: so a bad month never forces a Bitcoin sale.
