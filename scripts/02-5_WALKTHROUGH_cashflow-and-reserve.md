@@ -1,164 +1,250 @@
-# 2.5 · WALKTHROUGH — Cash flow + reserve
+# 2.5 · WALKTHROUGH — Build cash flow and reserve
 
-**Screen capture · 10 steps · ~15 min**
+**WALKTHROUGH RUN SHEET · current-app rewrite · ~12 min**
 
-> **DO** = click path · **SEE** = point at this · **⚠** = don't get this wrong
-> Narrate in your own words. Nothing here is scripted.
+> **DO** = the current app path  
+> **SEE** = what to point at  
+> **WHERE THIS NUMBER COMES FROM** = what it means · calculated from · edit source · this affects  
+> **⚠** = the mistake to prevent
 >
-> **↺ NUMBER FLOW — recall the 1.3 frame once, early, then point at it by name.**
-> **CALCULATED FROM** income − taxes − living − debt · **EDIT SOURCE** this page,
-> and Cash Flow → Routing · **THIS AFFECTS** surplus, which drives reserve
-> funding, contribution routing and your retirement date. The reserve target is
-> the second chain: **calculated from** months × monthly spending, **edit source**
-> the months figure, **affects** how much surplus is still free to route.
+> Narrate naturally. This is not teleprompter prose.
 
 ---
 
-## Before you record
+## DEMO STATE
 
-- [ ] 2–3 months of categorized transactions linked or imported (else Verify Spending is empty)
-- [ ] Bare-bones card: **$5,000/mo floor · $30,000 target (6 mo)**
-- [ ] Clean browser, notifications off
+Carry the same household forward from Module 1.
 
----
+| Item | Demo value |
+|---|---:|
+| Household income | $190,000/yr |
+| Taxes | $40,000/yr |
+| Living spending | $80,000/yr |
+| Debt payments | $22,000/yr |
+| Surplus | $48,000/yr · $4,000/mo |
+| Normal living spending | about $6,667/mo |
+| Bare-bones essentials | $5,000/mo |
+| Cash reserve target | 6 months |
+| Current reserve | $30,000 · fully funded |
 
-## □ 1 · Read the verdict
+**Before recording**
 
-**DO** Cash Flow → **This month**
-
-**SEE** Headline *"You have $X/mo left to put to work"* · sub-line: income covers taxes, living, debt → the rest routes below
-
-**⚠** Deficit mode reads *"Spending runs $X/mo ahead of income."* Not a failure. Routing pauses honestly and the module is the fix.
-
----
-
-## □ 2 · Map your income
-
-**DO** Income row → **+ Add income source** → one per stream
-
-**SEE** Salary per earner · self-employment · rental · dividends
-
-**SEE** Other group: **Tax-free income** (gifts, VA, munis — never taxed in projections) · **Other recurring**
-
-**⚠** Note which streams are reliable vs variable. That feeds reserve sizing.
-
-**⚠** The add menu only shows types not already listed. If you can't find one, it's already there.
+- [ ] The demo account contains the same income, spending, debts, accounts, and holdings used in Module 1
+- [ ] At least 2 completed months of transactions are available if Verify Spending is being shown
+- [ ] The reserve cash holding is visible on Dashboard
+- [ ] The Plan confidence result from Module 1 has been run and saved
+- [ ] Clean browser and notifications off
 
 ---
 
-## □ 3 · Sort your spending — SLOW DOWN
+## DECISIONS FROM THE LESSONS
 
-**DO** Three rows: Taxes · Living · Debt payments
+This walkthrough implements four decisions:
 
-**DO** Enter the Keep/Cut/Reduce result as the new **Living** number
+1. The household's believable monthly surplus
+2. Normal living spending
+3. Bare-bones monthly essentials
+4. Reserve target months and monthly build cap
 
-**⚠ THE BIG ONE.** Living = your spending. Not your paycheck, not debt payments. The biggest data-entry mistake in the whole app dies here.
-
-**⚠** Don't click into Debt payments. That's the per-debt editor and it belongs to Module 3, which is next.
-
----
-
-## □ 4 · Verify spending against reality
-
-**DO** Verify Spending card → **Review** → **By month** tab
-
-**SEE** *"You spend ~$X. Your plan says $Y"* + the % difference
-
-**DO** Walk 2–3 real months. One-timers: three-dot → **Exclude · one-time**
-
-**⚠** Recover excluded items under status filter → **Ignored / one-time**. That's different from *Ignore from Verify Spending*, which is permanent.
-
-**⚠** Never-synced card shows **Connect** instead of Review. Link an account first.
+The app calculates the reserve target from the spending basis and target months. The student decides the inputs.
 
 ---
 
-## □ 5 · Set the reserve fields
+## □ 1 · Read this month's cash flow
 
-**DO** Reserve settings (below Routing). Four fields, in render order:
+**DO** Open **Cash Flow**.
 
-| # | Field | Enter |
-|---|---|---|
-| 1 | Target months | 6 |
-| 2 | Reserve basis | **Bare-bones** |
-| 3 | Monthly build cap | their routing pace |
-| 4 | Bare-bones essentials | $5,000 |
+**SEE** The page opens on the **This month** verdict:
 
-**⚠** Fill **Bare-bones first**, then set basis. Otherwise you get the warning strip *"Add a bare-bones number to use it…"*
+- `You have $X/mo left to put to work`, or
+- `Spending runs $X/mo ahead of income`
 
-**SEE** The math on screen: floor × months = target
+**SEE** The flow directly below it: **Income → Taxes → Living → Debt payments → Surplus**.
 
----
+### WHERE THIS NUMBER COMES FROM — SURPLUS
 
-## □ 6 · Read the target in the waterfall
+- **WHAT IT MEANS:** the amount left after the current monthly obligations are covered.
+- **CALCULATED FROM:** income − taxes − living spending − debt payments.
+- **EDIT SOURCE:** the four expandable rows on Cash Flow, plus the debt records that feed Debt payments.
+- **THIS AFFECTS:** reserve funding, extra-debt routing, contributions, and the retirement projection.
 
-**DO** Routing · waterfall order → step 1 **Cash reserve**
+**⚠** Living is the household's living spending. It is not gross income and it does not include debt payments. The app already carries debt separately.
 
-**SEE** *"$X of $Y"* + *"full in N mo"* or *"fully funded"* · caption *"first claim until funded"*
-
-**⚠** If the caption reads *"Surplus routes past reserve until a target is set…"* the settings didn't save. Back to step 5.
+**SAY IN YOUR OWN WORDS:** The $4,000 is not a second number we typed. It is what is left after the four rows above it.
 
 ---
 
-## □ 7 · Shield the reserve holding
+## □ 2 · Verify the four source rows
 
-**DO** Dashboard → account group → holding row three-dot → **Add shield**
+**DO** Expand each row one at a time:
 
-**SEE** Toast *"Designated as emergency fund"* · row gets a **Shield** pill
+1. **Income**
+2. **Taxes**
+3. **Living**
+4. **Debt payments**
 
-**⚠** Shield the exact holding, not the whole account.
+**SEE** Each row opens its own editor on the same page.
 
-**⚠** Desktop: the three-dot menu only appears on row hover.
+**DO** Confirm each income stream separately. For the demo household, show both earners rather than one combined mystery number.
 
----
+**DO** Confirm the current tax payments and withholding.
 
-## □ 8 · Read the waterfall order
+**DO** Confirm Living is about $80,000 per year, or about $6,667 per month.
 
-**DO** Cash Flow → Routing · waterfall order
+**SEE** Debt payments are pulled from the debts already entered. Do not rebuild the debt strategy here.
 
-**SEE** Three steps:
-1. **Cash reserve** — *first claim until funded*
-2. **Extra debt** — *all N debts on minimums · manage*
-3. **Contributions** — *remainder after reserve*
-
-**⚠** Step 2 is read-only here. Amounts live on Strategy → Debt (Module 3, next).
-
-**⚠** Deficit mode replaces the routing block with *"This month has no surplus to allocate…"*
+**⚠** If the surplus looks wrong, fix one source row and watch the verdict recalculate. Do not hunt for a surplus field. There is no surplus field.
 
 ---
 
-## □ 9 · AI review — Cash Flow & Reserve
+## □ 3 · Check spending against completed months
 
-**DO** Account menu → AI Review → **Review Cash Flow & Reserve**
+**DO** Open the **Verify Spending** card and select **Review**.
 
-**SEE** Its opening question: *"Fastest next move, or full check of income, spending, reserve, and routing?"*
+**SEE** The drawer compares one completed-month spending figure with the Living amount saved in the plan. It also states how many months the figure averages.
 
-**⚠** Skip **Route my next dollar** — that's Module 4's centerpiece, two modules from here.
+**DO** Open **By month** and walk through 2 completed months.
+
+**DO** For a transaction that should not count in the spending average, open its three-dot menu and choose **Ignore from Verify Spending**.
+
+**SEE** The row stays visible, is struck through, and is labelled ignored.
+
+**DO** Open the same menu and show **Include again**.
+
+**⚠** There is no separate ignored-status filter. Do not tell students to leave the month and recover excluded items somewhere else.
+
+**⚠** The spending review helps calibrate the saved Living amount. It does not silently replace the plan. Make the update deliberately when the completed-month evidence is better than the old estimate.
+
+### WHERE THIS NUMBER COMES FROM — VERIFIED SPENDING
+
+- **WHAT IT MEANS:** the average of the completed months and transactions currently counted by Verify Spending.
+- **CALCULATED FROM:** the available completed-month transaction history after the user's included/ignored decisions.
+- **EDIT SOURCE:** the Verify Spending drawer for transaction treatment; the Living row for the amount the plan uses.
+- **THIS AFFECTS:** surplus, reserve sizing when current spending is the basis, and every projection that uses current spending.
 
 ---
 
-## □ 10 · AI review — spending calibration
+## □ 4 · Set the reserve policy
 
-**DO** Account menu → Accounts → **Spending** tab → **Verify linked spending**
+**DO** Scroll to **Reserve settings** at the bottom of Cash Flow.
 
-**⚠** This one is NOT on the Cash Flow AI panel. Reach it from Accounts.
+**SEE** Four controls:
 
-**SEE** Reads saved living spending vs the linked-account average + coverage gaps
+1. **Target months**
+2. **Reserve basis**
+3. **Monthly build cap**
+4. **Bare-bones essentials**
 
-**SEE** Asks: *"Does the missing spending account contain regular purchases that would materially change this average?"*
+**DO** Enter **$5,000/mo** for Bare-bones essentials.
 
-**⚠** Hands you back to the Verify Spending drawer. Same tool, now with a reason.
+**DO** Select **Bare-bones** as the reserve basis.
+
+**DO** Select **6 months**.
+
+**DO** Set the monthly build cap. For the fully funded demo household, leave it at the amount the household would use if the reserve falls below target; use **$1,000/mo** for the demonstration.
+
+**SEE** The page autosaves. Wait for **Saved ✓** before moving on.
+
+**⚠** If Bare-bones is selected before an amount exists, the app warns that current spending is being used until the bare-bones number is entered.
+
+### WHERE THIS NUMBER COMES FROM — RESERVE TARGET
+
+- **WHAT IT MEANS:** the amount of cash the household wants available for the reserve's current job.
+- **CALCULATED FROM:** selected spending basis × target months.
+- **EDIT SOURCE:** Bare-bones essentials or Living, Reserve basis, and Target months in Reserve settings.
+- **THIS AFFECTS:** whether Cash Flow routes money to the reserve first and how much surplus remains for debt and contributions.
+
+**SEE** For the demo household: $5,000 × 6 months = **$30,000**.
+
+**⚠** The app performs this multiplication and displays the target. The student's job is choosing the spending basis and number of months.
 
 ---
 
-## □ WRAP — spot check off the screen
+## □ 5 · Read the routing waterfall
 
-- [ ] Positive surplus the household could actually move every month
-- [ ] Every income stream listed separately, tax-free items in the right group
-- [ ] Living ≠ paycheck (if Living ≈ Income, something went in the wrong row)
-- [ ] Verify within shouting distance two months running
-- [ ] Reserve basis = Bare-bones, no warning strip
-- [ ] Routing step 1 shows real $X of $Y + full in N mo (no end date = build cap is $0)
-- [ ] Shield on the exact holding
-- [ ] Reserve sits first in the waterfall
+**DO** Scroll to **Routing · waterfall order**.
+
+**SEE** The order:
+
+1. **Cash reserve**
+2. **Extra debt**
+3. **Contributions**
+
+**SEE** The reserve row shows the current amount, target, and either `fully funded` or the estimated months to full.
+
+**SEE** In the demo account, $30,000 of $30,000 is fully funded, so the current surplus routes past the reserve.
+
+**⚠** Extra-debt decisions are made on **Strategy → Debt** and read here. Contribution account choices are managed in the contribution rows on Cash Flow. This is one waterfall using decisions owned by different pages.
+
+### WHERE THIS NUMBER COMES FROM — AMOUNT ROUTED TO RESERVE
+
+- **WHAT IT MEANS:** how much of the current surplus is being claimed by the reserve this month.
+- **CALCULATED FROM:** reserve gap, monthly build cap, and the surplus available after current expenses.
+- **EDIT SOURCE:** Reserve settings and the source rows that create the surplus.
+- **THIS AFFECTS:** how much reaches Extra debt and Contributions.
+
+---
+
+## □ 6 · Confirm the reserve holding
+
+**DO** Open **Dashboard** and find the exact cash or cash-equivalent holding used as the reserve.
+
+**DO** Use the holding row's three-dot menu and select **Add shield** if it is not already marked.
+
+**SEE** The holding receives the **Shield** marker.
+
+**⚠** Mark the exact holding, not a vague account total. Cash may already count automatically; a treasury or money-market holding needs the plan to know it is reserve money.
+
+**⚠** This action identifies which holding is doing the reserve job. It does not set target months. The policy lives in Cash Flow; the holding identity lives on Dashboard.
+
+---
+
+## □ 7 · Recheck the retirement result
+
+**DO** Return to **Plan → Retirement**.
+
+**SEE** If the saved cash-flow changes made the prior test stale, the confidence section shows **Recheck**.
+
+**DO** Recheck the plan.
+
+**SEE** Compare the result with the Module 1 starting snapshot.
+
+**SAY IN YOUR OWN WORDS:** We did not type a new confidence number. We changed the inputs and policy that feed the plan, then ran the same test again.
+
+### WHERE THIS NUMBER COMES FROM — THE UPDATED CONFIDENCE RESULT
+
+- **WHAT IT MEANS:** the share of 1,000 test runs where the updated plan lasted through the planning age.
+- **CALCULATED FROM:** the full saved plan, now including the corrected spending, surplus, and reserve policy.
+- **EDIT SOURCE:** the source pages that own those inputs; the ring itself is not editable.
+- **THIS AFFECTS:** whether the planned retirement age reaches the selected target and the earliest date that does.
+
+---
+
+## WHAT CHANGED
+
+Before this module, the household had rough spending and a reserve balance.
+
+After this module, it has:
+
+- a $4,000 monthly surplus traced to four source rows,
+- normal spending of about $6,667/mo,
+- bare-bones essentials of $5,000/mo,
+- a 6-month, $30,000 reserve target calculated by the app,
+- the exact reserve holding identified,
+- a visible routing order for every next dollar,
+- an updated retirement confidence result based on the saved plan.
+
+---
+
+## DONE WHEN
+
+- [ ] Income, Taxes, Living, and Debt payments are believable source numbers
+- [ ] The surplus is a calculated app result, not an estimate held in the student's head
+- [ ] Normal and bare-bones spending are both saved
+- [ ] Target months, basis, and monthly build cap are deliberate
+- [ ] The app shows the reserve target and current funded status
+- [ ] The exact reserve holding is identified
+- [ ] The student can explain what gets the first claim on the next dollar
+- [ ] The Plan confidence result has been rechecked after the saved changes
 
 **END**
