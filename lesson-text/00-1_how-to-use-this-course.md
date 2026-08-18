@@ -1,48 +1,74 @@
 # How to use this course
 
-Most Bitcoiners have the asset figured out and no plan around it. This course builds the plan: a system that answers "I can stop working at age X, and the plan holds up in Y% of futures," and keeps answering it as your life changes.
+Orange Plan Academy helps you build a usable Bitcoin financial plan rather than a one-time calculator result.
 
-## What you'll build
+The app brings together income, spending, debts, assets, life events, taxes, retirement income, and saved strategies. It then puts the plan through 1,000 test runs. The course teaches what those numbers mean, the decisions the app cannot make for you, and how to implement those decisions.
 
-- A complete financial plan in Orange Plan, on your real numbers
-- Cash flow and a right-sized reserve, so a bear market never forces a sale
-- An allocation you can hold through a 70%+ drawdown
-- A debt strategy, a tax roadmap, and a retirement paycheck
-- Custody and estate setups your family can actually use
-- A 5-minute monthly habit and a once-a-year review that keep it alive
+## What you will build
 
-## How it's organized
+By the end of the core course, you should be able to explain:
 
-Each module has short teach lessons plus a walkthrough video where you implement everything in Orange Plan. Watch the lesson, then the walkthrough below it, then do the homework before moving on.
+- When you could retire at the confidence target you selected
+- How much spending the plan is being asked to support
+- What your cash flow and reserve need to do
+- Which debts receive extra payments and which remain in place
+- How much Bitcoin you can hold through a major drawdown
+- Where the next dollar goes
+- Which tax decisions matter now or later
+- How retirement income will be funded
+- How you and your family recover and inherit the Bitcoin
+- How to keep the plan current
 
-## How to get the most out of it
+For every important output, the course will answer four questions:
 
-1. Go in order. Each module builds on the last.
-2. Use your real numbers. A plan on placeholder numbers is a demo, not a plan.
-3. Do the homework the same day you watch. It's designed to be finished in one sitting.
-4. Nothing here is financial, tax, or legal advice. Verify decisions with your own professionals.
+1. **What it means**
+2. **Calculated from**
+3. **Edit source**
+4. **This affects**
 
-## Who this is built for: US vs non-US
+## The core modules
 
-This course is built on US rules, and it's worth knowing exactly where that matters before you start.
+0. **Start Here** — course structure and AI safety
+1. **Baseline** — source data, life events, assumptions, confidence, and the first retirement read
+2. **Cash Flow and Reserve** — normal spending, bare-bones spending, surplus, and reserve policy
+3. **Debt** — a deliberate treatment for every debt and a household ceiling
+4. **Allocation and the Next Dollar** — Bitcoin allocation, account jobs, and contribution routing
+5. **Tax** — cost basis, tax buckets, and relevant planning windows
+6. **Retirement Income** — spending, income floor, portfolio gap, withdrawals, and annual rules
+7. **Custody** — custody level, tested recovery, and single points of failure
+8. **Estate and Inheritance** — executor, documents, family process, and insurance gaps
+9. **Maintain, Test, and Read** — monthly updates, annual review, Scenarios, report, and backup
 
-**Fully US-specific:**
+The **Advanced Library** is optional. It covers issues such as Bitcoin-backed loans, Roth conversion optimization, pre-Medicare healthcare, complex custody, and trusts. Watch an advanced lesson only when its opening condition applies to your plan.
 
-- **Module 5, Tax.** Brackets, Roth and traditional accounts, RMDs, wash-sale rules, state taxes.
-- **Module 8, Estate.** Executor role, legal documents, probate, trusts, the federal estate exemption.
-- **Parts of Module 6, Retirement Income.** Social Security, Medicare, and the healthcare bridge before 65.
-- **The asset location lesson in Module 4.** It covers US account wrappers.
+## How the lessons work
 
-**Travels anywhere:** your reserve, allocation and the emotion gates, debt ratios and loan to value, all of custody, how the retirement math works, scenarios, and the monthly and annual rhythms.
+Each planning area follows the same pattern:
 
-**How the app handles it:** everything is modeled in US dollars, and the tax engine is US federal plus state. There is no country setting. Outside the US, your balances, cash flow, allocation, and projections are still accurate. The lines that assume US rules are the tax lines and the Social Security lines.
+1. Learn the concept and trade-off.
+2. See the decision on one continuous demo household.
+3. Use the walkthrough to complete the related work in Orange Plan.
+4. Trace the important result back to its inputs.
+5. Make the decision in your own plan.
 
-If you're outside the US: build the whole plan, use every framework, and take the tax and estate modules to a professional in your own country to map the containers.
+Build Your Plan is the navigation spine for the walkthroughs. The concept lessons may use a different teaching order when that makes the planning decision easier to understand.
 
-## What this course is, and isn't
+An app checkmark means the required data exists. A module is complete when the data is present **and** you made the planning decision deliberately.
 
-This is education. It is not financial, tax, or legal advice, and taking it does not create an advisor relationship. Everything here is general: it's the same course for every student, and it can't account for your situation, your full balance sheet, or your goals.
+## How accurate the first plan needs to be
 
-Orange Plan is a modeling tool. It runs projections on the numbers you enter. **A projection is a hypothetical, not a promise**, and nothing here guarantees any result. Bitcoin is volatile and past performance says nothing about future returns.
+Use the best numbers you can support today. Mark rough inputs as rough and improve them as records become available.
 
-Taxes, insurance, and estate planning are the areas where your specific facts change the answer and where rules change over time. The course points you to a CPA, a licensed insurance professional, and an estate attorney in those modules for that reason. Use this to get educated and organized, then verify anything you're about to act on.
+Do not delay the entire plan while trying to make one input perfect. Do not invent a number because it produces a result you like.
+
+## Security rule
+
+Never enter a seed phrase, private key, passphrase, PIN, password, or wallet backup into Orange Plan, a worksheet, a photo, an email, or an AI tool.
+
+## US and non-US users
+
+The tax, estate, Social Security, Medicare, and retirement-account sections use US rules. The broader planning framework still applies outside the US, but local tax, benefit, and legal rules need to be mapped with a qualified professional in your country.
+
+## Done when
+
+You understand the role of the app, the course, and the walkthroughs, and you have a place to track any information that is still missing from your first plan.

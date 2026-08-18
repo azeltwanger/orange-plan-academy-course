@@ -1,70 +1,90 @@
 TELEPROMPTER SCRIPT — segment 0.2
 0.2 How the AI works: what it reads, what it never sees
-~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~6 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
-In today's lesson, we're going to cover the AI that's built into Orange Plan: what it does, what it never sees, and the one rule you follow every time you use it.
+So in this lesson we're going to cover how the AI inside Orange Plan is supposed to be used, what it is doing with your plan, and the one rule you never break.
 
-In the top bar there's a button called AI Review, the one orange pill up there. Clicking it opens a panel called Plan Guide, which lives in the app rather than on any one page, so it opens from anywhere. It's included for every signed-in user.
+== THE APP DOES THE MATH ==
 
-== THE AI DOES NOT DO YOUR MATH ==
+The first distinction is between the planning engine and the AI.
 
-This is the thing that makes the numbers trustworthy, so I want to say it before anything else.
+The app calculates the numbers. Your surplus, reserve target, debt ratios, projected taxes, retirement spending, confidence result, and the other plan outputs come from the financial-planning engine.
 
-Your surplus, your reserve status, your payoff dates, your loan cushion, your spending target, your success rate, your income floor. All of those come out of the same projection engine that draws your charts. The AI reads those numbers and explains them. It's specifically instructed never to redo arithmetic the app already did, and if it ever does calculate something itself, it has to label that as an estimate.
+The AI reads the results the app gives it and helps explain them. It can help you understand why a number moved, compare options, identify missing data, or organize the questions you should take to a professional.
 
-So when it tells you your surplus is $2,400 a month, that's your app's number, not the model's guess.
+So if the app says your monthly surplus is $2,400, that number did not come from the AI guessing what you spend. The app calculated it from the income, taxes, living spending, and debt payments in your plan. The AI can explain the number, but it should not replace the calculation with its own arithmetic.
 
-It's also told to use only the plan data it was given. If something important is missing, it says what's missing instead of filling in the blank.
+That distinction matters because I do not want you treating an AI answer as a second financial plan sitting beside the app. Orange Plan is where the plan lives.
 
-== WHAT IT READS, AND WHAT IT NEVER SEES ==
+== IT READS THE PART OF THE PLAN THAT IS RELEVANT ==
 
-It doesn't get a copy of your whole plan. It gets targeted context for whatever you're asking about, and if it needs more, it asks, and your own browser answers with only the rows it asked for.
+When you ask a question, the AI is given the information that is relevant to that review. A cash-flow question needs different context than a tax question or a custody question.
 
-The part worth knowing is what it never gets.
+That is why it generally makes sense to ask from the planning area where the decision lives. If you are trying to understand a tax result, use the tax review. If you are trying to understand spending or surplus, ask from Cash Flow.
 
-Your raw transactions never leave your browser. They're stripped out of every request, every time. It sees your spending summarized and counted, never line by line.
+If the answer depends on information that is not in the plan, the AI should tell you what is missing rather than quietly inventing it.
 
-On the Protect page, it never gets names, contact details, the contents of your heir letter, who holds what for recovery, or where anything is stored. It gets completion status only, so it can tell you your beneficiary row is empty without ever knowing who's in it.
+And you should still check the source. If it says your spending is $90,000, go look at the spending input or transaction summary that produced the number. The AI explanation is useful only when the underlying data is right.
 
-On linked accounts, it never gets institution names, account names, account numbers, or exact balances.
+== WHAT IT SHOULD NEVER RECEIVE ==
 
-And it actively blocks secrets. One of the estate tools lets the AI help you draft a document, and before it does, it scans what you typed for anything that looks like a secret: recovery words, a private key, a PIN, a safe combination. Find one and it refuses to draft until you take it out. Those terms will all mean something specific to you by the custody module; today the only thing to take away is that the app is actively watching for them.
+The one rule in this lesson is simple.
 
-== THE ONE RULE ==
+Never put a seed phrase, private key, passphrase, PIN, password, wallet backup, full account number, Social Security number, or another secret into any AI tool.
 
-Which brings me to the rule, and it's the only thing in this lesson you have to memorize.
+Not this one and not another one.
 
-Never put a seed phrase, a private key, a wallet backup, a passphrase, a PIN, a password, a full account number, or a Social Security number into any AI. Not this one, not any other one.
+The AI does not need any of that information to help with a financial plan. It can know that a custody step is incomplete without knowing the seed. It can know that an account exists without seeing the login. It can help you draft a process document without receiving the thing that moves the Bitcoin.
 
-And if you've already done it somewhere, treat that material as compromised and move the funds to a newly generated wallet.
+If a seed phrase or private key has already been entered into a website, AI chat, photo, cloud note, or another connected device, treat it as exposed and move the Bitcoin using a newly generated wallet and a process you have verified.
 
-== ASK FROM THE PAGE YOU'RE STANDING ON ==
+== IT EXPLAINS OPTIONS; YOU MAKE THE DECISION ==
 
-Several pages have their own AI button, and they're not shortcuts to the same thing. Each one loads a different set of instructions and a different piece of the knowledge base. A tax review loads the tax knowledge and gets held to tax-specific rules, like not suggesting a Roth conversion when there's no pre-tax balance in your plan to convert. A cash flow review loads the cash flow knowledge instead.
+The AI can be useful for showing trade-offs.
 
-So the practical version is: ask from the page relevant to your decision, and you get the version built for it.
+It might explain that paying extra on a debt improves cash flow but reduces the money available to invest.
 
-== IT GIVES OPTIONS, YOU DECIDE ==
+It might show that raising the confidence target generally moves the earliest retirement date later.
 
-Every review comes back framed as options with trade-offs. It won't tell you that you should do something, it won't tell you to sell, convert, borrow, or buy, and it won't predict Bitcoin's price. It also won't quote you a current tax bracket or contribution limit from memory, which is deliberate, because those change and the app has the current ones.
+It might compare selling Bitcoin with borrowing against it, while showing the tax, interest, liquidation, and counterparty risks.
 
-One thing people assume it won't do that it will: tax math. Every kind of tax comparison this course teaches later is in bounds, and it'll run the arithmetic for you. The line is filing and executing, not calculating.
+But it does not know your tolerance for debt, how your spouse feels about a drawdown, how much custody complexity your family can handle, or which trade-off you are willing to make.
 
-There's also a memory toggle in Preferences, and it starts off. What it remembers is how you think, not what you own: prefers borrowing over selling Bitcoin, wants to be work-optional by 55. It's blocked from storing balances, account numbers, and secrets. Turn it on if you'll use the AI regularly and you'd rather not re-explain your situation every time. Leave it off if that makes you uncomfortable, and nothing about the reviews changes.
+Those are planning decisions. The app can show you the effect, the AI can explain the effect, and you still have to decide whether the result fits your life.
 
-And the last thing, which I'm saying once here so I don't have to repeat it in every walkthrough: it reviews and it explains. You decide.
+For tax, estate, insurance, lending, or another decision with changing rules or legal consequences, use the AI to prepare the question and understand the mechanics. Verify the current rule and the final action with the appropriate professional.
+
+== MEMORY IS OPTIONAL ==
+
+Orange Plan may offer an optional memory setting for preferences or planning context.
+
+The useful things to remember are how you think: that you prefer to avoid selling Bitcoin, that becoming work-optional is more important than maximizing spending, or that you are uncomfortable carrying debt.
+
+A memory feature should not be where balances, account numbers, personal secrets, or recovery information live.
+
+Turn it on only if the convenience is useful to you and the setting is one you are comfortable with. Leaving it off does not stop the app from calculating your plan.
+
+== HOW TO CHECK AN AI ANSWER ==
+
+I would use three checks.
+
+First, does the answer point to a number the app actually shows?
+
+Second, can you trace that number to the source input?
+
+And third, did the AI label the trade-off and leave the decision with you?
+
+If the answer invents a missing fact, contradicts the page, or tells you to act without showing the trade-off, do not use it. Fix the plan data, re-run the review, or ask a more specific question.
 
 == YOUR DECISION ==
 
-Two decisions. Whether memory is on or off for you, and the one rule you never break.
+Your decision is whether optional memory is on or off and how you are going to use the AI: as an explanation layer for the plan, not as the source of the plan.
 
 == PUT IT IN ORANGE PLAN ==
 
-Click AI Review in the top bar so you know where it lives, then open Preferences inside Plan Guide and set memory deliberately.
+Open AI Review so you know where it lives. Review the available privacy and memory settings and make the choice deliberately.
 
 == YOU ARE DONE WHEN ==
 
-You can say the one rule from memory: no seed phrase, private key, passphrase, PIN, or full account number goes into any AI, including this one.
-
-The lesson text below has the technical detail, and it gets updated as the product changes. This video doesn't.
+You can explain the difference between the app calculation and the AI explanation, and you can say the security rule from memory: no Bitcoin secret or account credential ever goes into an AI tool.

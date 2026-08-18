@@ -1,123 +1,67 @@
-# How the AI works: what it reads, what it never sees
+# How the AI works: what it reads and what it never needs
 
-Orange Plan has an AI built in, and it appears in almost every module from here on. This lesson covers what it reads, what it never sees, where it runs, and why the button changes from page to page.
+Orange Plan has two separate jobs:
 
-> **This page is the reference layer, and it is deliberately more detailed than the video.** The model, the exact data it can request, the memory cap, the daily limits, and what it knows about this course are product specifications: they change faster than a recorded lesson can. The video teaches the parts that do not change. This page carries the current numbers.
+- **The planning engine calculates the plan.**
+- **The AI explains, compares, and helps you navigate the result.**
 
-## Where to find it
+Your surplus, reserve target, debt ratios, projected taxes, confidence result, retirement spending, and other outputs come from the app's financial-planning calculations. The AI should not replace those calculations with a second set of guessed numbers.
 
-The **AI Review** button sits in the top bar. It opens a panel called **Plan Guide**, which lives in the app rather than on any one page, so you can open it from anywhere. Closing the panel does not end the conversation: go check a number on another page, reopen it, and pick up where you left off.
+## Use the AI from the relevant planning area
 
-It's included for every signed-in user.
+Different questions need different plan context. Ask cash-flow questions from Cash Flow, tax questions from Tax, and custody questions from Protect when those review tools are available.
 
-## The AI does not do your math
+A useful answer should:
 
-Your surplus, reserve status, payoff dates, loan cushion, spending target, success rate, and income floor all come from the same projection engine that draws your charts. The AI reads those numbers and explains them. It is instructed never to redo arithmetic the app already performed, and anything it does calculate itself has to be labeled an estimate.
+- Point to numbers the app actually shows
+- Explain what inputs produced them
+- Identify missing information instead of inventing it
+- Show options and trade-offs
+- Leave the final decision with you
 
-It is also told to use only the plan data it was given, and to say what is missing rather than fill a gap with a guess.
+## The security rule
 
-## What it reads
+Never enter any of the following into an AI tool:
 
-Not a copy of your whole plan. It receives targeted context for the question you asked, plus where you are: page, tab, and what you have selected.
+- Seed phrase or recovery words
+- Private key
+- Passphrase
+- Wallet backup
+- PIN or password
+- Full account number
+- Social Security number
 
-Every value it receives carries a status label:
+The AI does not need a Bitcoin secret to review a financial plan. A custody review can use completion status and process information without receiving anything that can move the Bitcoin.
 
-| Label | Meaning |
-|---|---|
-| Applied | Saved and used by your projections |
-| Draft | Typed in, not saved |
-| Preview | Modeled in a sandbox, not applied |
-| Stale | Saved, but inputs changed since it was calculated |
+A seed phrase or private key previously entered into a website, AI chat, photo, cloud note, or other connected system should be treated as exposed. Move the Bitcoin using a newly generated wallet and a recovery process you have verified.
 
-That labeling is why it can tell you a confidence number is stale instead of quoting an old figure as current.
+## It explains options; you decide
 
-If it needs detail it wasn't given, it can request any of 22 specific things: your holdings, accounts, debts, particular projection years, life events, your tax picture. Those requests are answered by your own browser from the plan already loaded there, and only the rows requested get sent.
+The AI can help explain the consequences of a decision, such as:
 
-## What it never sees
+- Paying extra on debt versus investing
+- Raising or lowering a confidence target
+- Selling Bitcoin versus borrowing against it
+- Filling a tax bracket now versus waiting
 
-- **Raw transactions.** Stripped out of every request, every time. It receives spending summarized and counted, never line by line.
-- **Anything identifying on the Protect page.** No names, contact details, heir letter contents, recovery assignments, or storage locations. It receives completion status only, so it can tell you a beneficiary row is empty without knowing who belongs in it.
-- **Linked account details.** No institution names, account names, account numbers, masks, or exact balances.
+It cannot decide how much debt you can emotionally carry, how much custody complexity your family can operate, or which trade-off fits your life.
 
-It actively blocks secrets. The heir letter drafting tool scans your input for anything resembling a seed phrase, recovery words, a private key, a passphrase, a PIN, or a safe combination, and refuses to draft until it's removed. It also catches attempts to map who holds which key and reduces that to a category before anything is sent.
+Use licensed professionals to verify current tax, estate, insurance, lending, and legal rules before acting.
 
-**The rule with no exceptions:** never put a seed phrase, private key, wallet backup, passphrase, PIN, password, full account number, or Social Security number into any AI, including this one. If you have already done so anywhere, treat that material as compromised and move the funds to a newly generated wallet.
+## Optional memory
 
-## Where it runs
+Memory should be used, when available, for planning preferences rather than sensitive facts. Examples include a preference to avoid selling Bitcoin or a goal to become work-optional by a particular age.
 
-It runs on Claude Sonnet, routed to Anthropic's servers. Every request carries a provider setting that excludes any provider that would retain your prompts or train on them.
+Do not use memory for balances, account credentials, account numbers, or recovery information.
 
-Conversations are stored in your own account in Orange Plan's database, scoped to your user.
+## Check an answer
 
-## Memory is off by default
+Ask three questions:
 
-Plan Guide has a **Preferences** section with a memory toggle, and it starts off.
+1. Does this answer point to a number the app actually shows?
+2. Can I trace that number to the source input?
+3. Did the answer explain the trade-off and leave the decision with me?
 
-Turned on, it stores how you think rather than what you own: that you prefer borrowing over selling, that your income is variable, that you want to be work optional by a certain age. It is blocked from storing dollar balances, account numbers, secrets, and one off details from a single question.
+## Done when
 
-It holds 24 items maximum. All of them are visible in that panel, deletable individually, with a clear all option.
-
-Turn it on if you plan to use the AI regularly and would rather not re explain your situation each time. Leave it off if you'd prefer, and nothing about the reviews changes.
-
-## Why the button is different on every page
-
-Nine pages carry their own AI button:
-
-| Page | Button |
-|---|---|
-| Cash Flow | Route with AI |
-| Strategy → Debt | Review Debt Strategy |
-| Allocation | Review portfolio |
-| Strategy → Tax | Review Tax Strategy |
-| Withdrawal Strategy | Review income plan |
-| Withdrawal Strategy (borrowing) | Review Borrowing Strategy |
-| Scenarios | Review scenario |
-| Protect | Draft with AI |
-| Linked Accounts | Explain review items |
-
-These are not shortcuts to the same prompt. Each loads a different slice of the knowledge base and a different set of rules. A tax review loads the tax knowledge and is held to tax specific constraints, such as not proposing a Roth conversion when the plan has no pre tax balance to convert. A cash flow review loads the cash flow knowledge instead.
-
-There are 26 of these workflows in total. Nine have buttons; the rest you reach by asking, such as setting a reserve target or comparing selling against borrowing.
-
-Practical version: ask from the page you're standing on.
-
-## What comes back
-
-Every review returns in the same four sections:
-
-1. **Planner Read.** What your plan is trying to do and how it's going
-2. **Top 3 Things I See.** The three most consequential observations, tied to your numbers
-3. **Next 3 Moves.** Three ordered steps, framed as options with trade offs
-4. **One Question.** The question whose answer would most improve the review
-
-## What it won't do
-
-It won't tell you to sell, convert, borrow, or buy. It won't predict Bitcoin's price, quote a current tax bracket or contribution limit from memory, touch altcoins, pick tickers, prepare a tax return, or draft legal documents.
-
-One thing people assume is off limits but isn't: tax math. Roth conversion comparisons, harvesting math, cost basis, after tax comparisons are all in bounds. The line is filing and executing, not calculating.
-
-## Limits
-
-10 plan reviews and 100 messages per day, resetting at midnight UTC. Saved reviews and action items stay saved when you reach the cap.
-
-## One thing it doesn't know yet
-
-It knows the app and the planning frameworks this course is built on. It does not yet know these lessons, so it can review your plan but it cannot teach you the course. That work is planned, not shipped.
-
-## The line to remember
-
-It reviews and it explains. You decide.
-
-## Your decision
-
-Two decisions. Whether memory is on or off for you, and the one rule you never break.
-
-## Put it in Orange Plan
-
-Click AI Review in the top bar so you know where it lives, then open Preferences inside Plan Guide and set memory deliberately.
-
-## You are done when
-
-You can say the one rule from memory: no seed phrase, private key, passphrase, PIN, or full account number goes into any AI, including this one.
-
-The lesson text below has the technical detail, and it gets updated as the product changes. This video doesn't.
+You understand that the app calculates the plan, the AI explains it, and no Bitcoin secret or account credential ever goes into an AI tool.
