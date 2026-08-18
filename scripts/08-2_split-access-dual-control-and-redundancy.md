@@ -1,92 +1,150 @@
 TELEPROMPTER SCRIPT — segment 8.2
-8.2 Split access: dual control and redundancy
-~10 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+8.2 Design dual control and redundancy without creating a new loss path
+~11 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + custody and estate professional review pending
 ============================================================
 
-In today's lesson, we're going to design who can reach your Bitcoin after you're gone, and prove it works while you're still here.
+So in this lesson we're going to connect the family access process with the custody setup using two separate tests.
 
-Before we design anything, I need to give you two tests, because most people design for one of them and just assume they got the other one for free. They didn't, and that assumption is how people lose Bitcoin.
+Can one person move the Bitcoin alone when the design says they should not?
 
-== WHY BOTH SIMPLE OPTIONS FAIL ==
+And can one lost component or unavailable person permanently stop recovery?
 
-The two obvious answers both fail, and the couple's $175,000 shows why.
+The first question is dual control. The second is redundancy.
 
-One person gets everything: he writes the seed on a card and hands it to her brother, the executor. Now a man who isn't even an heir has unilateral control of $175,000 of his sister's inheritance, and the only thing protecting it is his own good faith. Even if he's a great guy, the plan is built on one person never having a bad year.
+Passing one does not automatically pass the other.
 
-Or nobody gets enough: he tells nobody, to be safe, and then he dies, and $175,000 sits on a device his wife can't open, forever.
+== TEST 1: DUAL CONTROL ==
 
-Everything in this lesson lives between those two.
+Dual control means the process requires more than one independent person, key, or approval before the Bitcoin can move.
 
-== THE TWO TESTS ==
+A single-signature wallet does not have cryptographic dual control. One complete device or wallet backup can control the funds.
 
-🎬 GRAPHIC: two checkboxes, held on screen for the whole lesson. TEST 1 — can one person spend alone? TEST 2 — can one lost copy, or one person you can't reach, permanently stop recovery?
+Physical storage, legal authority, family oversight, or a provider process can reduce the risk around that wallet, but they do not change the cryptographic fact.
 
-Test one is dual control. Can one person spend alone? If the answer is yes, then that person is a single point of theft, and they're also a single point of pressure, because somebody can lean on them.
+A multi-key wallet can require more than one key. A collaborative provider can hold one key while the family holds enough independent keys under the agreed design.
 
-Test two is redundancy. Can one lost copy, or one person you can't reach, permanently stop recovery? If the answer is yes, then you've built a way to lose the Bitcoin that has nothing to do with anybody being dishonest.
+The exact arrangement matters. Do not call a setup dual control because two people know about it when either one still possesses a complete spending path.
 
-Two completely different tests. Handing one person everything fails test one. Telling nobody fails test two.
+== TEST 2: REDUNDANCY ==
 
-The part that gets missed, and it's really the reason this lesson exists, is that passing one of these does not give you the other. Most setups that pass test one fail test two by default, and test two is a separate job you have to go do on purpose.
+Redundancy means one loss does not permanently stop recovery.
 
-== YOUR DESIGN FOLLOWS YOUR CUSTODY LEVEL ==
+A device with one verified backup may survive loss of the device.
 
-Now, what you can actually build depends on the custody level you picked back in the custody module. You don't need a more advanced setup to do this lesson. You need an honest design for the setup you already have.
+A 2-of-3 multisig can survive loss of one key when the remaining keys and required wallet configuration are recoverable.
 
-At Level 1, on a hardened exchange or broker, you haven't built household dual control at all. You've delegated custody to an institution, and their process is what stands between any one person and the money. That's a different thing, and worth naming honestly, because it means the two tests get answered by somebody else's procedures rather than by a design you control.
+A passphrase split that requires the backup and the passphrase is effectively a two-part requirement. If either part is lost and no valid backup exists, the wallet can be lost.
 
-So at Level 1 you're designing a path rather than a secret. Your heirs get the beneficiary designation on the account. Your executor gets the process: which institution, what they'll ask for, who to call. And what you should actually verify is that institution's death-claim procedure, because that procedure is your plan. If it turns out to be slow, or it requires something your family won't have, that's the gap to fix, and no amount of household design fixes it for you.
+More copies are not automatically better. Every additional complete backup may also be another theft path.
 
-At Level 2, one hardware wallet and one seed, be honest about what you can and can't do. You cannot split a single seed between two people, and I'll come back to why that idea is actively dangerous. So the honest design is: the seed goes to your heir, backed up in more than one place, and your executor holds the process rather than the secret. Where the device is, where the backups are, what to do, who to call.
+The design needs enough redundancy to survive a realistic loss without putting all of the components required to spend into one person's hands or one location.
 
-That design passes test two, because a lost copy doesn't end you, and it fails test one, because your heir can spend alone. For a lot of households that's an acceptable trade, and it's far better than either failure we opened with. Choose it knowing what it is, and don't describe it to your family as a no-single-point-of-failure plan.
+== DO NOT SPLIT THE BACKUP WORDS BY HAND ==
 
-At Level 3 or 4, the passphrase or the multisig, you can pass both tests, but only if the setup and its backups are designed for it.
+Do not take one ordinary wallet backup and divide the words between two people as an improvised access system.
 
-A passphrase lets you hand two different objects to two different people, where neither does anything alone. That passes test one immediately. It does not pass test two, because seed plus passphrase is a two-of-two, and both are required every single time. Half of a two-of-two is zero. So a passphrase split gets you redundancy only when each half has its own separate backup, which is a second job you have to go do.
+The wallet does not understand that as a threshold scheme. Recovery still needs the complete original backup.
 
-A two-of-three multisig is the one that gets both from the arithmetic itself, because any two keys can spend and no single key can, so losing one key entirely is survivable.
+The result is usually a fragile two-part puzzle where loss of either fragment can stop recovery, while the two fragments together recreate one full spending secret.
 
-Building either one is in the advanced custody lesson, and that's the right place for it, because it's a custody decision, not an estate decision.
+Use a custody method designed for the control you want: a supported passphrase process, a standardized backup scheme, a multi-key wallet, or a collaborative provider reviewed for the household.
 
-The estate job is the same at every level: name who holds what, answer both tests out loud, and be honest about the one you didn't pass.
+Do not invent cryptography with scissors and envelopes.
 
-== EVERY BACKUP IS ALSO A PATH IN ==
+== THE DESIGN DEPENDS ON THE CUSTODY LEVEL ==
 
-Whatever level you're at, there's one tension you have to resolve deliberately, because it's the actual design problem underneath all of this.
+With an exchange or custodial account, the provider's authentication and death-claim process controls access.
 
-Every backup you add to protect against loss is also another potential path to somebody getting unilateral access.
+The family needs current beneficiaries when available, provider contact information, and the documents the provider requires. Household key splitting does not change the provider's process.
 
-It resolves the same way every time: each piece gets its own backup, and that backup stays on its own side. Never in the same house, never in the same safe, never with the person holding the other piece. Do it that way and each side can lose a copy and still recover, while neither side gains anything it shouldn't have. Do it carelessly and a backup in a shared safe quietly collapses your whole design into one person holding everything.
+With a single-signature hardware wallet, be honest that any complete backup can control the funds. The design can still create strong physical redundancy and a family process, but it does not become a no-single-key plan.
 
-And this is where the executor question comes back. If the design you chose puts the executor on one side and the heirs on the other, then they have to be different people, or you've handed one person both sides on day one. If your design doesn't split them that way, and plenty don't, then a spouse serving as both is fine. It's a consequence of your design, not a rule about executors.
+With a passphrase-protected wallet, the exact backup and passphrase may both be required. Each side needs its own recovery plan, and the family must understand that an incorrect passphrase can open a different wallet rather than produce an obvious error.
 
-== TEST IT WHILE YOU'RE ALIVE ==
+With a multi-key setup, document the threshold and the role of every key.
 
-Just like the hardware backup, this gets proven, not hoped for.
+In a 2-of-3 design, three keys exist and any two of them can sign. No fourth key belongs in that description.
 
-The couple's Saturday afternoon: he moves about $1,000 into the setup, whoever is supposed to be able to recover it does the recovery on a spare device following only what's written down, and they watch the $1,000 appear. If two people are supposed to be needed, run it twice, once with both and once with only one, to confirm the one alone can't.
+The household also needs the non-secret wallet configuration, descriptor, or provider recovery record required to reconstruct the wallet. That information is not the same as a private key, but it can reveal addresses and balances, so keep redundant protected copies rather than publishing it broadly.
 
-That converts a hoped-for plan into a proven one, for $1,000 they never spent, on a day when nobody was grieving. One rule afterwards: the pieces stay distributed. Writing everything down together in one place undoes the entire design.
+== DISTRIBUTE THE FAILURE DOMAINS ==
 
-== THE MISCONCEPTION THAT GETS PEOPLE HURT ==
+Do not store all required components in the same home, safe, bag, bank box, or person's control.
 
-Last thing, and I hear it most from people at Level 2 who want to pass test one without changing their setup. "I'll just split the seed words between two people." Someone actually did this. 24 words, 12 to each of two people.
+A design with three keys in one location is still exposed to one fire, theft, search, or access event.
 
-Look at what that actually builds. If the two people trust each other, together they have the whole thing, so there's no protection at all. And you've just created a two-of-two, which means either half going missing loses everything permanently. You've taken on the redundancy problem without buying any dual control.
+A design with the family keys, configuration records, and provider instructions all known only to one owner is still exposed to one-person unavailability.
 
-That's the difference. Splitting a seed from a passphrase gives you two objects that were designed to be separate. Chopping one seed in half gives you two fragments of one object, and a wallet that now fails if either fragment does. Those sound almost identical and they do opposite things. If you want to pass test one, you change your custody setup. You do not chop up your seed.
+Map the physical event, the human event, and the provider event.
+
+Then make sure no one realistic event removes enough components to stop recovery or gives one unauthorized party enough to spend.
+
+== ALIGN THE LEGAL AND TECHNICAL ROLES ==
+
+Holding a key does not by itself create legal authority. Being the executor does not by itself provide a key.
+
+The attorney and custody professional need to understand who holds which component, who is legally authorized to act, who is an heir, and what the provider will require.
+
+There is no universal rule that the executor and heir must be different people.
+
+There is a design rule: if one person serving multiple roles would give that person every component required to move funds before the intended legal process, the roles or component distribution need to be reconsidered.
+
+The legal plan and custody threshold should reach the same intended people without relying on theft, secrecy between spouses, or an informal promise the documents contradict.
+
+== TEST THE DESIGN WITH A PRACTICE WALLET ==
+
+Do not make the first test the main family balance.
+
+Use a small practice wallet built with the same type of threshold or provider process.
+
+Have the people follow the process-level instructions.
+
+Confirm the intended combination can recover and spend.
+
+Then test the failure case: remove one component the design claims is redundant and confirm the remaining authorized combination still works.
+
+Also confirm that one person or one key cannot spend when the design claims dual control.
+
+For a provider-assisted process, review the provider's actual inheritance and recovery procedure and ask what happens if the provider is unavailable.
+
+Document the date and result without recording the secrets.
+
+== RUN THE DEMO HOUSEHOLD ==
+
+The demo household keeps the operating exchange balance under the provider's beneficiary and claim process.
+
+The long-term Bitcoin is moved only after the family completes the Level 2 recovery test.
+
+They then compare two family-ready options.
+
+A simpler single-signature design with a verified backup in another failure domain and a spouse trained on a practice wallet.
+
+Or a professionally supported 2-of-3 multisig where the household controls the required threshold under the provider arrangement, keys are separated, and the configuration record has redundant protected copies.
+
+The first is simpler and has one-complete-backup risk.
+
+The second reduces one-key risk and adds provider, configuration, and key-coordination complexity.
+
+The household chooses based on which risk it can operate, not which setup has the most advanced name.
+
+== WHERE THE DESIGN STATUS COMES FROM ==
+
+A dual-control or redundancy status is based on the custody threshold, component locations, people, backup plan, provider role, and successful practice test.
+
+The edit source is the real custody and estate design. Protect records the process status and people but receives no key material.
+
+And the status affects the family handoff, custody readiness, executor packet, and whether the Bitcoin allocation is supported by the protection plan.
 
 == YOUR DECISION ==
 
-Your decision out of this lesson is who holds what, and which of the two tests your design passes.
-
-Design for the custody level you actually have, not the one you'd like to have, because an access plan built on a setup you haven't finished isn't a plan. Pick people who don't share a household, a safe, or a bad week. Choose for reliability over technical skill, since the process is written down and the person mainly has to follow it and be findable. And assume neither person goes rogue, while planning as if one might.
+Your decision is which tests the current setup passes, which one it fails, and whether the household is keeping the simpler design or moving to a supported multi-component design.
 
 == PUT IT IN ORANGE PLAN ==
 
-Nothing to type. This design goes on your Family Custody Map, and the module walkthrough confirms it against both tests on camera.
+Record the custody type, key or component roles at a process level, people, provider, configuration-document location, and latest test date in Protect and the Family Custody Map.
+
+Never enter seed phrases, private keys, passphrases, PINs, or other spending secrets.
 
 == YOU ARE DONE WHEN ==
 
-You can name who holds each piece and where it lives, you have answered both tests in writing including the one your design fails, and you have run the whole thing with a small amount on a spare device. If you failed test two, you fixed it first: a loss you caused yourself is far more likely than a betrayal.
+The household can state who or what is required to act, one realistic loss does not create permanent loss unless that is an explicitly accepted limitation, unauthorized one-person spending is prevented when intended, and the design has worked with a practice wallet.

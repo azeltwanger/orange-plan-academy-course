@@ -1,82 +1,156 @@
 TELEPROMPTER SCRIPT — segment 8.3
-8.3 The heir letter and the dead man's switch
-~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+8.3 Write the heir letter and make sure the process starts
+~10 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + estate attorney review pending
 ============================================================
 
-In today's lesson, we're going to write the heir letter, which is the first thing your family reads on the day they need the plan, and then arm the thing that makes sure they read it at all.
+So in this lesson we're going to write the document the family reads when the plan has to operate without you, and then decide how the right people receive it.
 
-The heir letter is a plain-language document written to the people who survive you. It tells them who to call, in what order, what exists, where the paperwork is, and what not to do in the first week.
+The heir letter is not the will and it does not create legal authority.
 
-Write it knowing they'll read it on one of the worst days of their lives, while people are calling them and somebody is probably already trying to sell them something. Its job is to make that first hour a set of instructions to follow rather than decisions to make.
+It is the plain-language starting guide that connects the family with the legal, tax, custody, and financial-planning process.
 
-== THE RULE THAT GOVERNS EVERYTHING IN IT ==
+Write it for someone who is grieving, overwhelmed, and being contacted by people they may not know how to verify.
 
-One rule governs everything in the letter: it carries no secrets. Not one, not ever.
+== THE FIRST PAGE DOES THE MOST WORK ==
 
-A letter is a document. It sits in a drawer, or a safe, or an email, and it can be found, copied, or photographed by somebody you never planned for, so anything written in it is only as protected as the place it happens to be sitting. Keep it clean and the letter travels safely: a drawer, an email, an attorney's file, none of it costs you anything.
+The first page should answer four things quickly.
 
-So no seed phrases, private keys, passwords, PINs, exact recovery steps, or where the config file lives. Someone who steals this letter should learn the name of your attorney and get nothing they can spend. Same rule as the custody module: document the process, never the secrets.
+Who should I call first?
 
-== THE FIRST TWO LINES ARE THE WHOLE THING ==
+What should I not do?
 
-Let me show you what a good letter sounds like. The first two lines do most of the work. He's writing directly to his wife here, not writing a document.
+What exists?
 
-Line one: "Call your brother first. He has the other half, and he's expecting this call."
+And where are the legal and process documents?
 
-Line two: "Don't move any Bitcoin, and don't talk to anyone who contacts you about it. Nobody legitimate will reach out to you first."
+The first call may be the executor, attorney, custody provider, or another person depending on the legal and custody design.
 
-Those two lines do the letter's real job. They give her a call order and a stop sign, which are the two things a grieving person cannot invent on the spot.
+The stop signs should be direct.
 
-== THE CALL ORDER ==
+Do not type or share wallet backups, recovery words, private keys, passphrases, PINs, or passwords.
 
-The call order goes like this. First, her brother, the executor, because he holds the other piece, and the two of them together are the only way anything moves. Second, the attorney, who opens the legal side. And third, the provider or the technical helper, once the executor is in the room.
+Do not accept unsolicited recovery help.
 
-Notice the design: nobody acts alone. Including her.
+Do not move Bitcoin before legal authority, custody procedure, and tax consequences are understood.
 
-== THE STOP SIGN ==
+Do not assume the person named in the will controls every retirement account, policy, or provider account.
 
-And the stop sign matters because of who shows up. The people who target new widows and widowers show up quickly, and they show up looking helpful. Slowing her down for a week costs the family nothing and protects everything they haven't already spent.
+Those instructions are more useful in the first week than a long explanation of Bitcoin.
 
-== THE REST OF THE LETTER ==
+== WHAT BELONGS IN THE LETTER ==
 
-The rest of the letter is shorter than you'd think. What accounts and assets exist. Where the important documents are. Don't rush. Don't trust unsolicited help. And which provider to contact.
+The letter can list the types of assets and accounts that exist.
 
-The app's heir letter tool is built on the same no-secrets rule. It holds your contacts, the content, and a finished document you can hand over. And there is no field anywhere in it for a seed, a key, a passphrase, a PIN, or a recovery step. That's by design, and I'll show you in the walkthrough.
+Direct Bitcoin, collaborative custody, exchanges, retirement accounts, bank and brokerage accounts, real estate, insurance policies, business interests, and the Orange Plan financial plan.
 
-== WHO ACTUALLY RECEIVES IT ==
+It can name the attorney, tax professional, executor, technical helper, insurer, and custody providers.
 
-Before we leave the letter: walk your family through it once, at the process level, while you're still around to answer questions. The goal is that the letter isn't the first time they've heard any of it.
+It can state where the will, power of attorney, healthcare directive, executor packet, Family Custody Map, policy records, and other documents are stored.
 
-Now, everything else in this module is passive. The documents sit in a file, the letter sits wherever you put it, and the access design works only once somebody starts using it. Anthony Park has a line I think about a lot: heirs are unmotivated learners. They don't study the plan while you're alive, and they may not remember where you filed it. So any plan whose first step depends on someone remembering has a missing step.
+It can explain the purpose of the plan in your own words and what you want the money to do for the family.
 
-A dead man's switch is that missing step. It's a scheduled check-in: you confirm you're alive on a set interval, and if you stop confirming, the system sends your heir letter to the people you named, automatically.
+It should be short enough that the family can follow it.
 
-== THE FAILURE IT COVERS ==
+A 40-page manual belongs in the provider documentation or executor packet. The heir letter tells them which document and person comes next.
 
-The failure it covers is subtle, so let me name it exactly. A household does everything right. The access design is set, the letter is written, everything works. Then he dies away from home, and his wife doesn't know anyone else holds a piece, the person holding it doesn't know he's supposed to act, and the letter is in a file nobody thinks to open.
+== WHAT NEVER BELONGS IN IT ==
 
-Nothing was lost and nothing was stolen. Weeks go by and nothing happens, because nobody knows to start. The plan didn't break. It just never got going, and that's the thing a switch prevents.
+No Bitcoin secret belongs in the heir letter.
 
-== THE 4 STEPS ==
+Do not include a seed phrase, private key, passphrase, PIN, password, safe combination, full account number, or detailed map that lets one reader assemble the spending path.
 
-It works in four steps. He checks in every 90 days, which takes seconds. He misses a window, and the system waits, follows up, then triggers. The letter goes out to the people he named. And everyone named is holding the same instructions on the same day, so she knows to call him and he knows she's calling.
+Do not attach a photograph of a backup or a screenshot from a wallet.
 
-Instead of weeks of nothing, the family gets one afternoon of phone calls.
+The letter may say that the hardware-wallet backup is held in a secure location identified in the Family Custody Map. It should not reveal the words or the access combination.
 
-One thing to be clear about: the switch delivers the letter and nothing else. No seeds, no keys, no passphrases ever live in it, so the no-secrets rule holds here too. And it doesn't replace the legal documents or a tested access design. Those still do the real work. The switch only makes sure the work begins.
+The letter may say a collaborative-custody provider will verify the executor. It should not try to replace the provider's current claim process.
 
-== WHERE THE APP FITS ==
+== WRITE TO THE ACTUAL PEOPLE ==
 
-Orange Plan ships with the switch built in, and the default check-in is 90 days: long enough that a vacation won't false-trigger it, short enough that your family isn't in the dark for a year. One requirement: it needs the app in cloud mode, because the email has to send on your behalf while you're not there. A local-only setup can't do that, so if you're running local-only and you want the switch, that's the trade to weigh.
+Do not write the entire letter as formal legal language.
+
+A useful opening can sound like:
+
+“Call the attorney and your brother before moving any Bitcoin. They know this plan exists and are expecting to work together.”
+
+“Nobody legitimate needs the wallet backup by phone, email, website, or chat. If someone contacts you first, stop and use the provider information in this packet.”
+
+Then explain why the plan was built this way and what the family should protect first.
+
+The attorney should review any language that could conflict with the will, trust, beneficiary designation, or provider agreement. The personal message can still sound like you.
+
+== WALK THE FAMILY THROUGH IT ONCE ==
+
+The letter should not be the first time the spouse, executor, or helper hears that the plan exists.
+
+Review it at a process level while you are alive.
+
+Show them which documents exist, which person has which role, how to find the provider through an independent channel, and why nobody should improvise with the Bitcoin.
+
+Use a practice wallet when the person needs to learn a technical step. Do not use the main wallet backup as a teaching aid.
+
+Ask the recipient to explain the first three actions back to you. That catches confusion better than asking whether the letter makes sense.
+
+== DELIVERY NEEDS MORE THAN ONE PATH ==
+
+The family needs to be able to find the letter even when one delivery path fails.
+
+Keep a current copy with the estate documents or executor packet under the storage plan reviewed with the attorney.
+
+Make sure the executor and spouse know that the document exists and how to request or access it when authorized.
+
+A cloud-delivery or dead-man-switch feature can be an additional notice path.
+
+It should never be the only copy or the only way the family learns about the plan.
+
+Email changes, spam filtering, service outages, missed check-ins, and account-access problems can prevent delivery. The legal documents and custody components still need their own storage and recovery process.
+
+== HOW A DEAD-MAN SWITCH FITS ==
+
+A dead-man switch is a scheduled check-in and notification process.
+
+If the owner stops confirming within the selected interval and the warning process completes, the service sends the approved no-secrets message or document to the named recipients.
+
+Its job is to tell the family that the plan should begin and which people or documents to use.
+
+It does not move Bitcoin, replace the will, grant legal authority, or store the wallet backup.
+
+In Orange Plan, a switch that sends notifications requires the supported cloud service because a local-only browser cannot send a message after the owner is unavailable.
+
+Choose a check-in interval that the household can reliably maintain, verify the recipients, and understand the warning and trigger process before arming it.
+
+Do not rely on an exact default interval from an old video. Use the current setting shown in the app.
+
+== KEEP IT CURRENT ==
+
+Review the letter when a person, provider, custody setup, document location, or account changes.
+
+A letter pointing to an old attorney or a custody provider the household no longer uses can be worse than no detail because it sends the family in the wrong direction.
+
+Date the document. Keep one current version and clearly retire old copies.
+
+Ask recipients to confirm their contact information and that they still understand the role.
+
+== WHERE THE COMPLETION STATUS COMES FROM ==
+
+The app can track whether the heir letter exists, its review date, recipients, and switch status.
+
+It cannot know whether the family read it, whether the contact information works, or whether the wording conflicts with a legal document.
+
+The edit source is the Heir Letter record and delivery settings. The proof is the family review and attorney coordination.
+
+And the status affects Protect readiness, the report, and the next estate action.
 
 == YOUR DECISION ==
 
-Whether to arm the switch, and who gets contacted.
+Your decision is the first call, the stop signs, the recipients, and the two independent ways the family can learn that the plan exists.
 
 == PUT IT IN ORANGE PLAN ==
 
-Protect → Needs attention → Heir letter, then the Dead man's switch row.
+Create the no-secrets heir letter in Protect, name and verify the recipients, record the storage location, and decide whether the cloud-delivery switch is an additional path.
+
+Keep the legal original and custody secrets outside the app under the attorney and custody plan.
 
 == YOU ARE DONE WHEN ==
 
-The first two lines of your letter are written in your own words, the PDF is saved somewhere separate from your seeds and devices, and the switch is armed with recipients who have been told in advance that it exists.
+The letter tells the family who to call and what not to do, contains no secrets, matches the legal and custody process, has been reviewed with the key people, and has more than one reliable discovery or delivery path.
