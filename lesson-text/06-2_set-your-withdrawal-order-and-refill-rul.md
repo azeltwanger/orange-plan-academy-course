@@ -1,43 +1,82 @@
-# Set your withdrawal order and refill rule
+# Choose the retirement funding and withdrawal strategy
 
-## The four tiers
+The Income page connects the total retirement draw with the accounts and holdings expected to provide it.
 
-1. Social Security and pensions (guaranteed money spends first)
-2. Dividends and taxable withdrawals
-3. Roth and tax-deferred withdrawals
-4. RMDs and loan proceeds (last resort)
+## First-year funding equation
 
-The default advisor order. It gets you 80% of the way, and then it breaks.
+The page combines:
 
-## Where the strict order breaks
+- Spending
+- Taxes and remaining debt costs
+- Reserve refill when applicable
+- Less recurring income
 
-Brackets reset yearly, and low ones are use-it-or-lose-it. Spending taxable-first hands you years of near-zero income *without using them*. Then taxable runs dry and everything comes out of a now-bigger traditional account at once, right before RMDs. Following the strict order doesn't save tax overall. It moves the whole bill to your worst year.
+The result is the **total draw**. The source side should add back to that same amount.
 
-## The fix: bracket-fill
+## Default account jobs
 
-Pull from both at once, deliberately: traditional up to the top of your cheap brackets (this is the cheapest year that tax will ever be paid), taxable for the rest.
+- **Reserve:** near-term paycheck buffer
+- **Taxable:** accessible Bridge and flexible gain source
+- **Traditional:** ordinary-income source that may be used deliberately in lower-income years
+- **Roth:** long-term tax-flexible pool often preserved for later or large needs
 
-The couple: $60k/yr traditional (deduction + low brackets, near-zero cost) + $20k taxable (gains may sit in 0%). Five years = **$300,000 moved out of the future-RMD pile at almost no tax.** The app's engine bracket-fills by default; Custom phases → Bracket-aware steers it. Your split is an output of your numbers, so don't copy anyone's ratio. CPA question: "Am I leaving low brackets empty?"
+This is a starting framework, not a strict one-account-at-a-time order.
 
-## Draw and refill
+## Bracket-aware withdrawals
 
-- **Draw:** spend from the Reserve: the paycheck comes from cash, never directly from volatile assets. Each bucket refills the one before it (Legacy → Bridge → Reserve).
-- **Refill only on strength:** source up → top up. Source down → stop, live on the Reserve, let it recover. Once a year, at the annual review.
+A strict taxable-first strategy may leave low ordinary-income brackets unused while a traditional account grows toward larger future withdrawals or RMDs.
 
-## The refill rule (couple)
+A bracket-aware strategy can combine traditional income with taxable sales during lower-income years.
 
-Target: 18 months × $80k = $120k. Spending held → refill fully. Spending cut → refill to ~12 of 18 months. **The target itself never moves**: a cut year slows the refill; it never shrinks the target.
+Compare current tax, state tax, Medicare-related costs, basis, future RMDs, and the cash available to pay tax. Confirm execution with the CPA.
 
-## Your decision
+## Account order versus asset order
 
-Your decision here is the order you'll pull from, and your rule for refilling the reserve.
+- **Account order:** which tax wrapper funds the draw
+- **Asset order:** what is sold inside that account
 
-Understand what the default order actually costs you, because spending one bucket dry first hands you years of very low income that you never used, and then a much bigger bill later. So you're aiming to spread income evenly instead of stacking it, which means using your cheap years while you have them. Spend from the reserve, not directly from the volatile assets, so that a bad market never sets your paycheck. And set your refill rule by the type of year: refill fully in a good year, refill partially in a bad one, and never lower the target itself.
+The saved policy may use proportional sales or a deliberate order. Protect the reserve, pledged collateral, and holdings assigned to other goals.
 
-## Put it in Orange Plan
+## Use phases only when the plan changes
 
-Plan → Income → withdrawal order and refill rule.
+Possible stages include:
 
-## You are done when
+- Before Social Security
+- After Social Security or pension income begins
+- After RMDs begin
 
-The order is set, the refill rule is set, and you can say what each one does in a bad year without opening the app.
+Use the smallest number of phases that reflects real changes.
+
+## Sell, hold, or borrow
+
+- **Sell:** simple, no loan, creates tax and reduces Bitcoin owned
+- **Hold:** keeps Bitcoin but requires another real funding source
+- **Borrow:** may defer sales and retain Bitcoin, while adding interest, LTV, liquidation, counterparty risk, and a future loan balance
+
+Borrowing should not be required for the core plan to work. Treat it as an optional advanced strategy unless already relevant.
+
+## Cash-buffer refill
+
+Cash Flow owns the reserve target. Income shows how it is used and refilled.
+
+A strong year may refill toward target. A weak period may pause the refill and spend from cash. A critically low reserve may still require restoring liquidity.
+
+## Where these numbers come from
+
+### Source split
+
+- **What it means:** accounts and holdings funding the total draw
+- **Calculated from:** saved withdrawal policy applied to the projection
+- **Edit source:** phases, account strategy, asset strategy, and borrowing policy
+- **This affects:** taxes, Bitcoin sold, account balances, refill, loans, confidence, and estate
+
+### Bitcoin sold
+
+- **What it means:** engine-calculated Bitcoin sale for the year
+- **Calculated from:** funding gap, available assets, strategy, and modeled price
+- **Edit source:** strategy and holdings, not the displayed total
+- **This affects:** gains, taxes, Bitcoin retained, custody exposure, and future results
+
+## Done when
+
+You can explain the first-year source, asset sales, later phase changes, refill rule, and the full cost of any borrowing strategy.

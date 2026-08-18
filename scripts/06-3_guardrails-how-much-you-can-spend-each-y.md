@@ -1,96 +1,194 @@
 TELEPROMPTER SCRIPT — segment 6.3
-6.3 Guardrails: how much you can spend each year
-~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+6.3 Choose the starting paycheck and annual spending guardrails
+~11 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
-🎬 GRAPHIC: bring back the module visual, with row 5 highlighted — what changes after a bad year.
+So in this lesson we're going to choose the amount retirement starts with and the rule that reviews that paycheck once a year.
 
-In today's lesson, we're going to cover the guardrails, which turn your confidence number into an actual paycheck you can adjust every year.
+There are three confidence controls in Orange Plan, and this is where people can easily mix them up.
 
-Your confidence number told you the plan survives most futures. The guardrails are what turn that number into a spending decision, once a year, with rules you set in advance.
+The Plan confidence target finds the earliest retirement date that reaches the standard you chose.
 
-== WHY FIXED WITHDRAWALS FAIL ON BITCOIN ==
+The starting-spending options on the Income page show how much this retirement plan can support at different confidence levels.
 
-First, why the standard approach breaks.
+The annual guardrail policy decides whether the saved retirement paycheck is held, reduced, or increased after retirement.
 
-While you're saving, the order of your returns barely matters. Only the average does. But the day you retire and start withdrawing, that flips. A bad year early costs you far more than the same bad year late, even at an identical average. This is called sequence-of-returns risk, and a fixed withdrawal rule is completely blind to it.
+They all use test-run results, but they answer different questions.
 
-🎬 GRAPHIC: two portfolio lines from the same starting value. One takes its bad years early and never recovers; the other takes them late and survives. Same average return, different order.
+== THE PLAN CONFIDENCE TARGET ==
 
-Let's say we have two retirees. Same starting portfolio, same spending, same 30-year average return. One thrives, and one runs out of money. The only difference is that one got the bad years late and the other got them first. Because selling more shares at low prices to fund the same spending permanently removes those shares, and they're not there for the recovery.
+The confidence target on Plan answers:
 
-The classic 4% rule takes the same inflation-adjusted dollars out every year no matter what. That's fine on a portfolio that moves 10 or 15% in a bad year. Point it at an asset that can drop 60%, and the rule itself becomes the risk.
+How many of the 1,000 test runs need to last through the planning age before Orange Plan calls a date the earliest retirement date?
 
-Run it on the couple. They're 60, retired, with a $1,000,000 portfolio and $80,000 of spending. Bitcoin drops 60%, and the portfolio falls to $400,000. The fixed rule says sell $80,000 anyway. That's 20% of everything they have left, sold at the bottom. Recovery takes a couple of years, and the rule makes them do it again the next year.
+Changing that target generally changes the earliest date.
 
-But the risk is usually most acute in the first few years. That's the window. And for this one, assume the whole $1,000,000 is riding on Bitcoin. So what you need is a spending rule that flexes during exactly those years.
+It does not automatically change the retirement-spending policy on the Income page.
 
-== THE 60/80/95 BANDS ==
+If you use an 80% Plan target and an 80% spending-policy anchor, those numbers happen to match. They remain separate controls owned by separate parts of the plan.
 
-Once a year, you run the simulation and read your confidence number. And every adjustment steers back toward 80%.
+== THE STARTING-SPENDING OPTIONS ==
 
-If confidence is down around 60, that's the lower guardrail. You cut. You reduce spending until confidence comes back up toward 80.
+The Income page can calculate three reference spending amounts on the same test runs.
 
-If it's around 80, you hold. Inflation adjustment only, and you move on with your year.
+Conservative is the amount modeled around 95% confidence. It is the lower spending option.
 
-If it's up around 95, that's the upper guardrail. You raise. You increase spending until it settles back toward 80.
+Balanced is the amount modeled around 80% confidence.
 
-Every change is capped at 10% in either direction, and that cap is measured after inflation. So in a cut year the app inflates your number first, and then takes at most 10% off that.
+Aggressive is the amount modeled around 60% confidence. It is the higher spending option and leaves less cushion.
 
-Where do these numbers come from? You're reading a policy the app runs, not building one from scratch.
+The page can also show the amount already entered as Baseline spending on Plan and evaluate it on the same test runs.
 
-== CUT OR SKIP THE RAISE, NOT BOTH ==
+These are choices, not labels for the household's personality.
 
-In a lower-guardrail year, you have to pick one of two moves.
+The useful comparison is what each amount changes in real life.
 
-Option one is to take the 10% cut. It's a bigger hit this year, but from that new baseline you go right back to adding inflation adjustments every year.
+How much is it per month?
 
-Option two is to skip this year's inflation adjustment. Your dollar spending stays flat, which feels lighter in the moment. But that missed raise never gets made up, and every future year's paycheck is permanently lower because of it.
+What does the household have to give up at the conservative level?
 
-I'd take the cut. Take a bigger hit once, then let inflation compound back on schedule. Skipping the raise is a small, quiet leak that pulls your spending down for the rest of retirement.
+What additional spending becomes possible at the aggressive level?
 
-And that's what the app's policy already does on its own. It applies inflation, then caps the cut at 10% of that inflated number. Skipping the raise is the manual alternative, and you'd be choosing it by hand.
+And how willing is the household to reduce spending later if the plan moves into a weaker range?
 
-== WHAT THE CONFIDENCE NUMBER IS TELLING YOU ==
+== RUN THE DEMO HOUSEHOLD ==
 
-When a plan fails at 80% confidence, the cause is almost always the timing of one drawdown. A deep drop in year 2 does something a deep drop in year 15 doesn't.
+Let's say the Income page calculates:
 
-By year 15, the portfolio has grown past the withdrawals, so a bad year sets you back and you recover. In year 2, every dollar you spend is coming out of a pile that's already shrinking, and it never gets back.
+$86,000 a year at the 95% conservative level.
 
-So 80% means 8 in 10 futures funded the plan as written. In the other 2, the plan fell short as written. A temporary cut is one of the first responses you test, but the score alone doesn't prove it rescues every path. That's why the guardrails exist. The confidence number is an early-warning signal, not a grade.
+$100,000 at the 80% balanced level.
 
-== RUNNING THE ANNUAL REVIEW ON THE COUPLE ==
+And $119,000 at the 60% aggressive level.
 
-Let's run the couple through it.
+The household's current Plan spending is $100,000, so it matches the balanced amount.
 
-A crash happens. At the annual review, confidence reads 61. That's the lower guardrail, so they cut 10% of $80,000, which is $8,000. The paycheck goes to $72,000 for the next 12 months. And that's the entire response. They didn't panic, they didn't go on a selling spree, they just made one adjustment and moved on.
+That tells them the current target is roughly the amount this plan supports at the 80% spending level under the saved strategy and assumptions.
 
-12 months later, Bitcoin has recovered. Confidence reads 83. That's hold. They add inflation on top of the $72,000 and move on.
+It does not tell them $119,000 is irresponsible or $86,000 is automatically better.
 
-And if instead it had come back at 96, that's the upper guardrail: raise 10%, so $72,000 plus about $7,000 puts them back around $79,000, walking the spending back up.
+At $119,000, they are choosing more life today and accepting more likelihood that the paycheck needs to adjust later.
 
-Notice the shape: a 20-point fall in confidence got a 10% spending cut this year, and you look again next year. That's what keeps the paycheck stable instead of swinging with the market.
+At $86,000, they are choosing more cushion and increasing the chance of leaving money unspent or working longer than necessary.
 
-One more thing the upper guardrail does, and I think it's underrated: most retirees under-spend out of fear. The upper guardrail is the plan telling you, with math behind it, that you're allowed to raise the paycheck. That permission is worth a lot.
+For this household, I think the balanced amount is a reasonable starting point because it supports the lifestyle they already planned and they are willing to make adjustments in a bad period.
 
-== CLOSING THE LOOP WITH THE RESERVE ==
+Another household may choose the conservative amount because the spending is not flexible or because reducing it later would be difficult.
 
-Last piece: the reserve refill runs off this same annual review. For the couple, the target is 18 months times $80,000, which is $120,000 of cash.
+== THE ANNUAL POLICY ==
 
-If spending held or rose, refill fully. If spending got cut, refill partway, to about 12 of the 18 months. And a bad market doesn't change the target. The target changes when your spending changes, when your income floor changes, or when you deliberately change the policy. A bad year changes only the refill pace.
+After the starting target is saved, the policy holds that annual amount until the review date.
 
-The guardrail concept and the 10% adjustment are adapted from published research. The 60, 80, and 95 confidence thresholds are Orange Plan defaults. They're a starting point for a conversation, not a rule you have to adopt. If you're working with a planner, this is a good page to bring them.
+The default Orange Plan guardrails use three thresholds:
+
+A lower trigger at 60%.
+
+A target at 80%.
+
+And an upper trigger at 95%.
+
+The policy also caps the correction toward the target at 10% for one annual update.
+
+These are Orange Plan product defaults built from the idea of annual inflation updates, bounded spending changes, and confidence guardrails. They are not a claim that a published research paper prescribed this exact 60/80/95 combination.
+
+Custom thresholds can be used, but I would start with a rule you can explain before changing every number.
+
+== HOW THE ANNUAL UPDATE WORKS ==
+
+At the anniversary review, the app first accounts for the inflation adjustment under the saved policy.
+
+Then it checks the latest confidence result and the spending amount associated with the policy target.
+
+If confidence is between the lower and upper triggers, the policy generally accepts the inflation-adjusted amount without an additional correction.
+
+If confidence is at or below the lower trigger, the suggested paycheck moves down toward the target-confidence amount, subject to the 10% correction cap.
+
+If confidence is at or above the upper trigger, the suggested paycheck can move up toward the target-confidence amount, also subject to the cap.
+
+The app is not automatically taking 10% every time a line is crossed. The target amount may be closer than the cap, so the correction can be smaller.
+
+And the suggested update is not the same thing as a market-timing trade. It is an annual spending decision based on the current plan and the rules the household saved.
+
+== WHAT A CUT LOOKS LIKE IN REAL LIFE ==
+
+Before saving the policy, translate the maximum change into dollars.
+
+At a $100,000 annual target, a 10% downward correction is up to $10,000 for the year, or about $833 a month before considering the inflation step and the exact target amount.
+
+The household should know which spending could actually change by that amount.
+
+Travel, gifts, home projects, vehicles, dining, or another flexible category may move.
+
+Housing, healthcare, and basic support for a dependent may not be flexible.
+
+If the household cannot reduce spending by the amount the policy might recommend, then the starting target or the guardrail settings need more cushion. A rule is not useful when the household has no way to follow it.
+
+== AN UPPER GUARDRAIL MATTERS TOO ==
+
+A retirement policy should not only tell the household to spend less.
+
+If the plan grows stronger and the latest spending test shows room, the upper guardrail can support an increase toward the target confidence level.
+
+That is useful because many people continue spending from fear even after the plan can support more.
+
+The increase still needs a purpose. The household may choose more travel, gifting, charitable giving, home improvements, or another goal rather than permanently increasing every category.
+
+The policy creates room. The household decides how to use it.
+
+== THE POLICY IS AN ANNUAL DECISION ==
+
+The full spending chooser is not something to react to every time Bitcoin moves.
+
+Review it when the initial target is being set, when the annual policy update is due, or when the household deliberately changes the spending policy.
+
+A material life change can justify an off-cycle review. A normal price move does not require opening the page and resetting the paycheck.
+
+The app records the saved target and policy history. Removing the policy returns the model to the Plan page's Baseline spending. Resetting the starting target creates a new baseline for future policy updates and can move by more than the normal annual cap because it is a deliberate user decision.
+
+== CONNECT THE POLICY TO THE RESERVE ==
+
+The annual review also informs the reserve-refill decision.
+
+When the plan is healthy, the withdrawal strategy can refill the cash buffer toward target.
+
+During a weak period, the household may spend from the buffer and pause part of the refill to avoid unnecessary sales of volatile assets.
+
+The reserve cannot be ignored until empty. Read the current months funded along with the guardrail result.
+
+The spending policy and reserve policy work together: one changes the amount going out, and the other changes when cash is rebuilt.
+
+== WHERE THESE NUMBERS COME FROM ==
+
+For a spending-band amount:
+
+What it means is the annual spending the modeled plan supports at the selected confidence level under the current assumptions and strategy.
+
+It is calculated by searching spending amounts on the same test-run framework.
+
+The edit source is the underlying plan inputs, assumptions, and withdrawal strategy; the displayed band amount is a calculated choice.
+
+And it affects the saved retirement paycheck, first-year draw, taxes, sales, reserve use, and long-term results.
+
+For an annual policy update:
+
+What it means is the suggested saved paycheck for the next policy year.
+
+It is calculated from the prior target, inflation, current confidence, target-confidence spending amount, thresholds, and correction cap.
+
+The edit source is the spending policy and the plan inputs that drive the latest run.
+
+And it affects the next year's cash need and funding sources.
 
 == YOUR DECISION ==
 
-Your guardrail policy: how much a bad year changes what you spend.
+Your decision is the starting retirement paycheck, the guardrail thresholds and cap, and the real spending categories that would change in a lower- or upper-guardrail year.
 
 == PUT IT IN ORANGE PLAN ==
 
-Plan → Retirement → guardrails.
+On Plan → Income, recheck the spending bands, compare Conservative, Balanced, Aggressive, and the current Plan amount, and save the starting target you want the plan to use.
+
+Review the annual guardrail policy separately. Do not assume the Plan confidence target, starting-spending choice, and annual policy are one shared setting.
 
 == YOU ARE DONE WHEN ==
 
-Your policy is set and the app can tell you hold, raise or cut. You can say what a cut year actually looks like in your life, in dollars.
-
-Then watch the walkthrough below this video, where we build the paycheck in Orange Plan.
+You can explain all three confidence controls, state the starting paycheck in annual and monthly dollars, identify what a maximum lower-guardrail adjustment would change, and describe when the policy is reviewed rather than reacting to every market move.

@@ -1,100 +1,204 @@
 TELEPROMPTER SCRIPT — segment 6.2
-6.2 Set your withdrawal order and refill rule
-~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+6.2 Choose the retirement funding and withdrawal strategy
+~12 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + CPA review pending
 ============================================================
 
-🎬 GRAPHIC: bring back the module visual, with rows 4 and 5 highlighted — which account provides the gap now, and what changes after a bad year.
+So in this lesson we're going to decide where the retirement paycheck comes from after the spending need and recurring income are known.
 
-In today's lesson, we're going to cover two things that work together: the income waterfall, which is the order your retirement paycheck gets assembled in, and draw and refill, which is how you put cash back after you spend it.
+The Income page is going to show the first-year draw, the accounts and holdings expected to provide it, the cash buffer, the withdrawal policy, and, when applicable, a sell-versus-borrow comparison.
 
-== THE 4 TIERS OF THE WATERFALL ==
+The goal is not to memorize one account order and use it for the next 40 years.
 
-The payoff of getting this right is big. The order you pull money from decides how much tax you pay over your whole retirement, and the difference isn't small. Pull in the wrong order and you can waste years of cheap tax room, then get hit with one enormous bill later. Pull in the right order and you spread that same income out so it never stacks up.
+The goal is to give each pool of money a job, use the tax opportunities that exist in each year, and avoid selling volatile assets at the wrong time when the plan has a better source available.
 
-The waterfall has 4 tiers, and you can see them on the screen.
+== START WITH THE FUNDING EQUATION ==
 
-Tier one is Social Security and pensions. Guaranteed money spends first.
+The first-year funding card starts with what the household needs.
 
-Tier two is dividends and withdrawals from your taxable accounts, because that's low ordinary income.
+Spending.
 
-Tier three is your retirement accounts, the Roth and the tax-deferred money.
+Taxes and debt costs when they apply.
 
-And tier four is RMDs and loan proceeds, which is the last resort.
+A reserve refill when the saved policy calls for one.
 
-Every year's paycheck gets assembled top-down, and the further down you reach, the more deliberate that choice should be. This is the default order most financial advisors will give you, and it gets you 80% of the way there before any real tax planning happens.
+Then it subtracts recurring income.
 
-== WHERE THE STRICT ORDER BREAKS ==
+The result is the total draw.
 
-But following it strictly creates a problem, because tax brackets reset every year, and the low ones are use-it-or-lose-it.
+On the other side, the app shows where the draw comes from. It can break the amount down by account and holding, and it reports the Bitcoin dollars or units sold from the same projection calculation.
 
-If you have a year with almost no ordinary income, the room in your lowest brackets doesn't roll forward. It's just gone. And spending from taxable first hands you a whole run of exactly those years, quietly throwing away cheap tax room the entire time.
+If the source amounts do not add back to the total draw, or the Bitcoin number conflicts with another part of the page, that is an app issue to investigate rather than a second interpretation for the course to invent.
 
-Then, when the taxable account finally runs dry, all of your spending has to come out of the traditional account at once, as ordinary income, on a balance that's bigger than it was when you started.
+== THE DEFAULT ACCOUNT JOBS ==
 
-Let me run the couple through it. They're 60, retired, spending $80,000 a year, with $600,000 of taxable Bitcoin and $400,000 in traditional.
+I generally think about the account roles this way.
 
-Years one through seven, following the strict order, they spend from taxable. $600,000 divided by $80,000 is about 7 and a half years. Their income is low, the tax bill is near zero, and it feels great. Meanwhile the $400,000 traditional account is compounding untouched.
+The Reserve provides the near-term paycheck.
 
-Then the taxable account runs dry. Now every dollar of spending comes from the traditional account as ordinary income. Their near-zero tax bill jumps to filling a much higher bracket in 1 year, on a balance that's bigger than when they retired, right before RMDs start stacking on top.
+Taxable assets are the main Bridge for spending before retirement accounts are easily accessible and for creating flexibility around gains.
 
-So they spent 7 years sitting in their cheapest brackets without ever using them. Following the strict order doesn't actually save you tax overall. What it does is move the whole bill to your worst year.
+Traditional tax-deferred accounts provide ordinary income and can be used deliberately in lower-income years rather than being ignored until required distributions begin.
 
-== THE FIX: BRACKET-FILL ==
+Roth is often the most flexible long-term tax pool, so I generally want to protect it for later years, large one-time needs, or estate flexibility when the rest of the plan supports that.
 
-The fix is to fill your low brackets on purpose. Instead of draining one account and then the next, you pull from both at the same time, deliberately.
+That is a starting framework, not a strict instruction to empty one account completely before touching the next.
 
-You take traditional money up to the top of your cheap brackets, because that income is going to get taxed eventually, and this is the cheapest year you'll ever pay it. And then you fill the rest of your spending from taxable.
+== WHY A STRICT TAXABLE-FIRST ORDER CAN CREATE A PROBLEM ==
 
-Run the couple again with bracket-fill, same $80,000 target. Say they have $60,000 of traditional they can pull cheaply, using the standard deduction plus the low ordinary brackets. They take that $60,000 from traditional, and the remaining $20,000 comes from taxable, where their long-term gains may land in the 0% capital-gains bracket stacked on top.
+Let's say a household retires with taxable Bitcoin and a large traditional account.
 
-Compare the two after 5 years. The strict order left the traditional account untouched and built a cliff. Bracket-fill moved $60,000 a year, times 5 years, which is $300,000, out of the traditional account at almost no tax cost. That's $300,000 that is not sitting there waiting to become a forced RMD.
+If they fund every year entirely from taxable assets while ordinary income is very low, they may leave low ordinary-income brackets unused.
 
-== IN THE APP ==
+The traditional account keeps growing. Later, required distributions, Social Security, pensions, or larger withdrawals can stack more ordinary income into the same year.
 
-The good news is that the engine's default withdrawal behavior in Orange Plan is exactly this bracket fill, year by year. And if you want to steer it deliberately, the Income page has a withdrawal order control with custom phases, where you set a phase's rule to bracket-aware and pick the bracket ceiling. We'll run that in the walkthrough.
+A bracket-aware strategy can use some traditional money during the lower-income window while the remaining spending comes from taxable assets.
 
-And whatever split bracket-fill produces for you is your split. It depends on your spending, your basis, your bracket room, and your balances. Don't copy someone else's ratio. And execution is a conversation with your CPA on your actual numbers, because the thresholds move every year. The question to bring them is: am I leaving low brackets empty?
+That can reduce the future traditional balance and create a more even tax path.
 
-== DRAW AND REFILL ==
+It is not automatically better in every year.
 
-Now the second half: draw and refill.
+The conversion or withdrawal can increase current federal and state tax, affect Medicare-related costs or other income-based items, use cash that could have stayed invested, and reduce the tax-deferred balance sooner.
 
-The draw side is simple. You spend from the Reserve. This year's paycheck comes from cash, never directly from volatile assets. And each bucket refills the one before it. The Bridge refills the Reserve, and Legacy, which is your Bitcoin growth, refills the Bridge.
+The correct ceiling depends on the household's actual return, current law, filing status, state, basis, Social Security, pension, and other income.
 
-The refill side has one rule: refill only on strength. You refill when the source is up, never when it's down.
+Use the app to compare the strategy. Use the CPA to confirm the amount and execution.
 
-So in practice, tie the refill to the guardrails, because "up" is vague and your confidence number isn't.
+== ASSET ORDER AND ACCOUNT ORDER ARE DIFFERENT ==
 
-If you're at or above 80% confidence and you haven't hit a guardrail, refill the reserve fully that year. If you've hit the lower guardrail, meaning your confidence has slid toward 60, hold a minimum in the reserve and wait to refill until you climb back toward 80. And if you've hit the upper guardrail, you refill regardless, because you're in a strong year by definition.
+The account order answers which tax wrapper supplies the draw.
 
-A bad market doesn't change the target. The target changes when your spending changes, when your income floor changes, or when you deliberately change the policy. A bad year changes only the pace of the refill.
+The asset order answers what gets sold inside the account.
 
-So if markets are up, you top up the buffers. If markets are down, you stop the refill, live on the Reserve, and let the engine recover. That way you are never rebuilding cash by selling into weakness. And you do this once a year, at your annual review, not every time the price moves.
+A taxable brokerage may contain cash, bonds, stocks, and Bitcoin. Choosing taxable first does not tell the app which of those assets to sell first.
 
-== THE COUPLE'S REFILL RULE ==
+The saved strategy can use a proportional asset mix or a deliberate order depending on the policy selected.
 
-Let's put the couple's numbers on it. Their spending is $80,000, and their retirement reserve target is 18 months of it, which is $120,000.
+I would protect the cash-buffer role, consider taxes and basis, and avoid accidentally liquidating a holding pledged as collateral or reserved for another goal.
 
-At the annual review, there are three cases.
+The current allocation and target also matter. Selling an overweight asset may move the portfolio toward target. Selling an underweight asset may make the drift worse.
 
-If spending held or rose this year, they refill the Reserve back to the full $120,000.
+== WITHDRAWAL PHASES CAN CHANGE ==
 
-If spending got cut this year, and we'll cover why that happens in the guardrails lesson, they refill only partway, to about 12 of the 18 months, roughly $80,000. Because you don't sell weakness to top up cash.
+The best strategy can be different before Social Security, after Social Security, and after required distributions begin.
 
-And the rule that matters most: a cut year slows the refill, it never lowers the target. The plan doesn't get to quietly become less safe because 1 year was bad.
+The app supports phase-based rules so the account mix and bracket ceiling can change by age or stage.
 
-In the app, the refill pace lives in the reserve settings as the monthly build cap, and I'll show you that in the walkthrough.
+For example, the early-retirement phase may use a mix of taxable sales and planned traditional income.
+
+After Social Security starts, the ordinary-income room may shrink and the mix may change.
+
+After required distributions begin, those dollars are already entering the tax return and should be included before the plan adds voluntary withdrawals.
+
+Do not build ten phases because the control exists. Use the smallest number of phases needed to reflect a real change in the household's income or account access.
+
+== SELL, HOLD, OR BORROW ==
+
+For Bitcoin, retirement funding can involve three separate choices.
+
+Sell Bitcoin and recognize the tax result.
+
+Hold Bitcoin and fund the draw from another account or asset.
+
+Or borrow against Bitcoin and accept interest, LTV, liquidation, and counterparty risk.
+
+These are tools with different costs.
+
+Selling is the cleanest operationally. There is no loan balance to manage and no collateral that can be liquidated by a lender. The cost is the tax and the Bitcoin no longer owned.
+
+Holding keeps the Bitcoin exposure but requires another real source for the spending. “Hold” is not a funding strategy when the other account does not have enough money.
+
+Borrowing can defer a sale and keep more Bitcoin exposed to the upside, but it creates a growing liability and puts collateral with a lender or into a lending structure. The comparison has to include interest, loan balance, collateral at risk, liquidation behavior, taxes, Bitcoin retained, and the debt that may still exist at death.
+
+I do not think borrowing belongs in every core retirement plan.
+
+If the household is not already considering or using a Bitcoin-backed loan, the sell-and-withdrawal plan should work on its own. Borrowing is an optional advanced strategy to compare, not the assumption that makes retirement possible.
+
+== READ THE BORROWING COMPARISON CORRECTLY ==
+
+When a borrowing preview is used, the useful questions are:
+
+How much Bitcoin is retained compared with selling?
+
+How much interest accrues?
+
+What loan balance remains later or at death?
+
+How much collateral sits with the lender?
+
+What happens under a major drawdown?
+
+Does the strategy eventually run out of borrowing capacity and begin selling anyway?
+
+And after taxes, interest, repayment, and Bitcoin retained, is the ending result actually better?
+
+A higher ending net worth in one modeled path does not remove liquidation or counterparty risk. A lower tax bill does not mean the loan was free.
+
+The Advanced Library is where the loan terms and cushion are built in detail.
+
+== DRAW AND REFILL THE CASH BUFFER ==
+
+The Reserve is the near-term spending buffer. Cash Flow owns the target months and spending basis; the Income page shows how the current balance fits the retirement plan.
+
+The reserve should be refilled from a source the withdrawal strategy actually allows.
+
+In a strong plan year, the policy may refill toward the target from portfolio sales or, in a borrow-first plan, from modeled loan proceeds.
+
+During a weak period, the plan may pause the refill and spend down the buffer to reduce the need to sell volatile assets at depressed prices.
+
+If the reserve reaches a critical low level, liquidity may need to be restored even when markets are weak. The app's refill status should be read with the actual cash balance rather than as a reason to let the reserve approach zero.
+
+A bad year can change the refill pace. The household's chosen target months should change only when the spending basis, income floor, or policy decision changes.
+
+== RUN THE DEMO HOUSEHOLD ==
+
+The demo household needs $100,000 of living spending in the first retirement year. Taxes and remaining debt add another $18,000. There is $20,000 of part-time or other recurring income.
+
+The total draw is therefore $98,000 before any reserve refill.
+
+The saved strategy uses $60,000 from taxable Bridge assets and $38,000 from a planned traditional-account withdrawal that fits the year's tax comparison.
+
+Inside taxable, the strategy uses cash and bonds before selling Bitcoin because those holdings are available and the household wants to avoid a Bitcoin sale in the first year.
+
+That is not a universal order. It is the result of this household's available holdings, target allocation, basis, tax plan, and retirement timing.
+
+Then we compare a borrow-first preview.
+
+The preview may retain more Bitcoin but creates interest and a loan balance. The household does not apply it to the plan until the lender terms, drawdown capacity, and repayment or estate plan have been reviewed.
+
+== WHERE THESE NUMBERS COME FROM ==
+
+For the source split:
+
+What it means is the accounts and holdings funding the total draw.
+
+It is calculated from the saved withdrawal policy applied to the year-by-year projection.
+
+The edit source is the withdrawal phase, account blend or order, asset strategy, and any saved borrowing policy.
+
+And it affects taxes, Bitcoin sold and retained, account balances, reserve refill, loan balance, confidence, and the estate.
+
+For Bitcoin sold:
+
+What it means is the engine's calculated Bitcoin sale for that year.
+
+It is calculated from the funding gap, available assets, and saved withdrawal strategy at the modeled Bitcoin price.
+
+The edit source is the strategy and the underlying holdings; the displayed Bitcoin total is not edited directly.
+
+And it affects realized gains, taxes, remaining Bitcoin, custody exposure, and future plan results.
 
 == YOUR DECISION ==
 
-Your decision here is the order you'll pull from, and your rule for refilling the reserve.
-
-Understand what the default order actually costs you, because spending one bucket dry first hands you years of very low income that you never used, and then a much bigger bill later. So you're aiming to spread income evenly instead of stacking it, which means using your cheap years while you have them. Spend from the reserve, not directly from the volatile assets, so that a bad market never sets your paycheck. And set your refill rule by the type of year: refill fully in a good year, refill partially in a bad one, and never lower the target itself.
+Your decision is the default account and asset strategy, the real stages when it changes, and whether borrowing is excluded, compared only, or deliberately included after a full risk review.
 
 == PUT IT IN ORANGE PLAN ==
 
-Plan → Income → withdrawal order and refill rule.
+Review the first-year funding equation and confirm that the source lines add to the total draw.
+
+Set the smallest number of withdrawal phases that reflect real changes in income or account access. Review the tax comparison before choosing a bracket ceiling.
+
+Keep a borrow-first strategy as a preview until the lender, cushion, repayment, and estate consequences are verified.
 
 == YOU ARE DONE WHEN ==
 
-The order is set, the refill rule is set, and you can say what each one does in a bad year without opening the app.
+You can explain which account funds the first retirement year, what gets sold inside it, why the order changes later, how the reserve is refilled, and what borrowing adds beyond the apparent tax savings.
