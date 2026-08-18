@@ -24,20 +24,36 @@ os.makedirs(outdir, exist_ok=True)
 
 # PROVENANCE and REGENERATION PROTECTION are separate questions.
 #
-# A prior version treated AUSTIN DICTATION and SPOKEN-PROSE VERSION as if they
-# meant the same thing. They do not. The first is provenance; the second was a
-# legacy authored-script label. Both may still need protection from a generator,
-# because overwriting a manually edited script is not how a voice pass works.
-#
-# Current states:
+# Current production states:
 #   - AUSTIN DICTATION -> Austin recorded these words. Highest authority.
-#   - VOICE-REVIEWED SCRIPT -> authored, then reviewed/approved by Austin.
-#   - AUTHORED SCRIPT -> working spoken draft; voice review still pending.
-#   - SPOKEN-PROSE VERSION -> legacy authored state; also voice review pending.
+#   - VOICE-MATCHED DRAFT -> rewritten from Austin's dictation, client calls,
+#     slides, and current app. Austin review is still pending.
+#   - AUSTIN APPROVED -> Austin reviewed the wording and cleared it for filming.
 #   - GENERATED -> derived from the master and safe to regenerate.
-#   - walkthroughs / demos / docs -> production sheets, not generated here.
 #
-# This script only WRITES generated files. It does not delete anything.
+# Legacy authored states remain protected during module-by-module migration so
+# running this tool cannot destroy work before it is reviewed and relabeled:
+#   - VOICE-REVIEWED SCRIPT
+#   - AUTHORED SCRIPT
+#   - SPOKEN-PROSE VERSION
+#
+# Walkthroughs, demos, and docs are production sheets rather than files this
+# generator owns. This script only WRITES generated files; it does not delete.
+PROTECTED_MARKERS = (
+    'AUSTIN DICTATION',
+    'VOICE-MATCHED DRAFT',
+    'AUSTIN APPROVED',
+    # Legacy migration states:
+    'VOICE-REVIEWED SCRIPT',
+    'AUTHORED SCRIPT',
+    'SPOKEN-PROSE VERSION',
+)
+VOICE_REVIEW_PENDING_MARKERS = (
+    'VOICE-MATCHED DRAFT',
+    'AUTHORED SCRIPT',
+    'SPOKEN-PROSE VERSION',
+)
+
 PROTECTED_FILES = set()
 VOICE_REVIEW_PENDING = set()
 for f in sorted(os.listdir(outdir)):
@@ -46,15 +62,10 @@ for f in sorted(os.listdir(outdir)):
     if any(k in f for k in ('WALKTHROUGH', 'DEMO', 'README', 'VOICE-GUIDE')):
         PROTECTED_FILES.add(f)
         continue
-    head = open(os.path.join(outdir, f), encoding='utf-8').read(1200)
-    if any(state in head for state in (
-        'AUSTIN DICTATION',
-        'VOICE-REVIEWED SCRIPT',
-        'AUTHORED SCRIPT',
-        'SPOKEN-PROSE VERSION',
-    )):
+    head = open(os.path.join(outdir, f), encoding='utf-8').read(1400)
+    if any(state in head for state in PROTECTED_MARKERS):
         PROTECTED_FILES.add(f)
-    if 'AUTHORED SCRIPT' in head or 'SPOKEN-PROSE VERSION' in head:
+    if any(state in head for state in VOICE_REVIEW_PENDING_MARKERS):
         VOICE_REVIEW_PENDING.add(f)
 
 # Protect by LESSON NUMBER, not filename. A manually edited script whose title
