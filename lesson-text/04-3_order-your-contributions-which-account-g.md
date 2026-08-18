@@ -1,51 +1,70 @@
-# Order your contributions: which account gets funded first
+# Decide where the next dollar goes
 
-The order your next dollar flows. Each rung fills (or maxes) before the next. Free money first, guaranteed high returns second, tax shelters by quality after that.
+A rigid waterfall does not fit every household. Use strong presumptions first, then compare the remaining options and split when two legitimate needs exist.
 
-| # | Rung | Why |
-|---|---|---|
-| 1 | Employer match | 50–100% instant return. Contribute the full match %. |
-| 2 | High-interest debt (>~7%) | Paying a 20% card = guaranteed 20% return |
-| 3 | HSA (if eligible) | The only triple-tax-advantaged account; invest it as a Roth-like medical fund |
-| 4 | Roth IRA / Roth 401(k) | Tax-free forever, no RMDs; strong for Bitcoin-heavy plans expecting a higher future bracket |
-| 5 | Traditional 401(k)/IRA to the limit | Deduction now; best if you expect a lower retirement bracket |
-| 6 | Taxable brokerage / Bitcoin | Everything after the shelters, split by your tier |
+## Start with available dollars
 
-**Skips:** no match → skip 1 · no high-interest debt → skip 2 · not HSA-eligible → skip 3 · income too high for Roth → look up the Backdoor Roth (watch the pro-rata rule).
+Use the reliable surplus from Cash Flow. Contributions, reserve transfers, and extra debt payments must add back to the same available amount.
 
-## The couple's $4,000/mo
+## Strong presumptions
 
-$1,000 401(k) (full match) + $300 HSA + $583 Roth IRA (maxed) + $2,117 Bitcoin/taxable = $4,000, spent exactly once.
+### Protect the household
 
-## The routing card
+Build at least a functional minimum reserve before locking every available dollar into long-term accounts.
 
-Post the waterfall where you make money decisions. Every bonus, raise, or windfall walks down the ladder. One decision, made once, routes every future dollar.
+### Capture valuable employer money
 
-## Two questions about the same dollar
+Contribute enough to receive the full employer match when the formula, vesting, and household cash position support it.
 
-The waterfall and your buckets answer two different questions, and both get answered every time you save.
+### Stop guaranteed high costs
 
-- **Waterfall: which account?** 401(k), HSA, Roth, taxable. The **wrapper**, which decides how it's taxed.
-- **Buckets: which timeframe?** Reserve, Bridge, Legacy. The **job**, which decides what you buy inside.
+Very high-interest debt has a strong claim on the next dollar. Keep enough reserve that the next emergency does not recreate the debt.
 
-A dollar into your Roth is a rung-4 decision *and* a Legacy dollar. Same dollar, two labels.
+## The comparison zone
 
-When you have a choice inside a rung, **check which bucket is behind and fund that one**. **Strategy → Allocation** shows each timeframe as Funded or Behind, so it's a glance, not a calculation.
+Compare HSA, Roth, traditional retirement accounts, taxable investing, direct Bitcoin, and Bridge funding using five questions:
 
-⚠ An account is not a bucket. A 401(k) in a stable-value fund is a Legacy *account* holding Bridge-shaped risk.
+1. When will the money be needed?
+2. What is the tax benefit now versus later?
+3. Can the account hold the intended asset?
+4. Which timeframe is underfunded?
+5. Which benefit matters most: deduction, tax-free growth, access, direct custody, simplicity, or debt reduction?
 
-## Your decision
+## A deliberate split
 
-Your decision here is the order your next dollar flows, the amount at each rung, and which bucket your flexible dollars fill.
+Example with $4,000 monthly surplus:
 
-Take free money first, because an employer match is the only guaranteed return you'll ever be offered. Then kill guaranteed losses, meaning high-interest debt. Then fill your tax shelters in order of quality. Everything after that is taxable or Bitcoin. And then let the buckets break the tie: once you know the account, check Allocation and put the flexible money toward whichever timeframe reads behind.
+- Employer-match contribution: **$750**
+- Extra payment on selected debt: **$500**
+- Long-term tax-advantaged accounts: **$1,250**
+- Taxable Bridge and Bitcoin allocation: **$1,500**
 
-You make this decision once and it routes every future dollar without you re-deciding every month. The bucket check is the only part that repeats, and it takes about 10 seconds during your monthly pass.
+The split funds both early access and long-term tax advantages.
 
-## Put it in Orange Plan
+## Roth versus traditional
 
-Cash Flow → Routing → waterfall order.
+- Traditional may be attractive when the deduction is valuable now and future marginal rates are expected to be lower.
+- Roth may be attractive when the current rate is lower and tax-free qualified withdrawals are valuable later.
+- A mix may be reasonable because future income and tax rules are uncertain.
 
-## You are done when
+Confirm current limits, eligibility, and the final tax choice for your situation.
 
-You know which rung the next dollar goes to without thinking about it. No match, no HSA eligibility, and no high-interest debt each complete their rung by being skipped deliberately.
+## Where these numbers come from
+
+### Available contribution dollars
+
+- **What it means:** recurring money available after current obligations
+- **Calculated from:** income − taxes − living spending − debt payments
+- **Edit source:** Cash Flow and source rows
+- **This affects:** reserve, debt, contributions, future balances, confidence, and earliest date
+
+### Contribution route
+
+- **What it means:** assignment of available dollars across goals and accounts
+- **Calculated from:** reserve status, match, debt strategy, timeframe gaps, tax treatment, eligibility, and allocation
+- **Edit source:** contribution and routing plan
+- **This affects:** account growth, accessibility, and lifetime taxes
+
+## Done when
+
+The route adds to the available surplus, every destination has a reason, and the rule explains what changes after a raise, bonus, debt payoff, or completed reserve.

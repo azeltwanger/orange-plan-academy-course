@@ -1,36 +1,61 @@
-# Asset location: which account each holding belongs in
+# Choose what each account should hold
 
-Three tax wrappers; the same dollar behaves differently in each. **Principle: highest-growth assets in your best tax shelter**: because growth compounds, and tax drag compounds too.
+Asset allocation answers **how much** of each asset the household owns. Asset location answers **where** those holdings live.
 
-| Wrapper | Tax in | Growth | Tax out |
-|---|---|---|---|
-| Taxable | Already taxed | Taxed annually | Gains only (LT rates >1yr) |
-| Traditional | Pre-tax | Deferred | Ordinary income + RMDs |
-| Roth | After-tax | Tax-free forever | Tax-free forever |
+## The three wrappers
 
-## Where each holding belongs
+### Taxable
 
-- **Bitcoin**: the real decision. Inside a Roth (ETF form), gains are never taxed; but no easy access before 59½ and it's not your keys. Common pattern: a slice in retirement wrappers for shielding, the majority in self-custody for sovereignty.
-- **Index funds / stocks**: Roth or Traditional (high growth benefits most from shielding).
-- **Bonds**: Traditional (shelter the ordinary-income yield) or munis in taxable. Not Roth, because low growth wastes tax-free-forever space.
-- **Cash**: taxable. Shelter is wasted on it.
-- **Rental real estate**: taxable; depreciation and 1031s are the tools.
-- **Dividend stocks**: Traditional or Roth (dividends taxed yearly in taxable).
+- After-tax dollars
+- Current tax may apply to interest, dividends, and realized gains
+- Generally flexible access
 
-## Why it matters later
+### Traditional tax-deferred
 
-Location sets your retirement withdrawal order: Roth drawn last, Traditional fills low brackets first, taxable in the middle. Bitcoin in a Roth opens tax-free paycheck options that all-taxable Bitcoin can't.
+- May provide a current tax deduction or exclusion, depending on the account and eligibility
+- Grows without annual tax inside the account
+- Taxable withdrawals are generally ordinary income
+- Required distributions can apply later
 
-## Your decision
+### Roth
 
-Which holding belongs in which wrapper.
+- After-tax contributions
+- Qualified withdrawals can be tax-free
+- Original Roth IRA owners generally have no lifetime RMDs; other account and beneficiary rules vary
 
-## Put it in Orange Plan
+Verify current rules for the actual account.
 
-Strategy → Allocation → account holdings. Move holdings so the tax-inefficient ones sit in the sheltered accounts.
+## Location principles
 
-## You are done when
+1. Protect the timeframe before optimizing taxes.
+2. Tax-inefficient income-producing assets may benefit from tax shelter.
+3. High expected growth can be valuable in Roth space, while concentration and loss risk still matter.
+4. Tax-efficient, low-turnover holdings may fit taxable accounts when access is needed.
+5. Preserve the combined household target across all accounts.
 
-Every account's contents match the job of the wrapper it's in, and you can give the reason for each one.
+## Bitcoin location trade-off
 
-Then watch the walkthrough below this video, where we route it in Orange Plan.
+- **Direct taxable Bitcoin:** flexible access and direct custody, with capital-gains tax when sold
+- **Bitcoin ETF in a retirement account:** tax-wrapper benefits and simplicity, without direct self-custody
+- **Self-directed retirement Bitcoin:** possible direct exposure with added fees, administration, custody, and prohibited-transaction risk
+
+A split may preserve direct custody for the core holding while using retirement wrappers for part of the exposure.
+
+## Check the investment menu
+
+Some 401(k)s, HSAs, and education accounts cannot hold Bitcoin or a Bitcoin ETF. Confirm the actual options and fees before routing contributions.
+
+## Do not turn an ideal location into an automatic trade
+
+Taxable sales, rollovers, and custody changes can create costs and risks. New contributions and exchanges inside sheltered accounts may improve location gradually.
+
+## Where this number comes from
+
+- **What it means:** holdings and percentages inside each account
+- **Calculated from:** the holding records assigned to the account
+- **Edit source:** Orange Plan records and the real provider election
+- **This affects:** taxes, access, risk, routing, and withdrawal choices
+
+## Done when
+
+Every account has a clear job, its holdings support that job, the combined allocation matches the household target, and implementation changes are verified before execution.

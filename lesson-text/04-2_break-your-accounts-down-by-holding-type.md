@@ -1,107 +1,79 @@
-# Break your accounts down by holding type, then by timeframe
+# Give every account a holding mix and a time-horizon job
 
-Allocation is two questions, asked in order. What do you hold, account by account, by type of asset? And when will you need each of those dollars? The first gives you your mix, the second gives you your buckets. You need both: a portfolio can have the right mix and still sit in the wrong timeframes.
+Review the same money in two ways:
 
-## Step 1: what each account holds
+1. What does each account actually hold?
+2. When will the household need the money?
 
-**Strategy → Allocation → What each account holds.** Every account, with the holdings inside it broken out by type. Orange Plan sorts every holding into one of six asset classes: Bitcoin, stocks, bonds, real estate, cash, and other.
+## Account wrapper versus holding
 
-The couple, account by account. Investable total $295,000:
+A 401(k), Roth IRA, HSA, and taxable brokerage are account wrappers. The investments inside them determine the asset exposure.
 
-| Account | Bitcoin | Stocks | Bonds | Cash | Total |
-|---|---|---|---|---|---|
-| Checking + savings | | | | $30,000 | $30,000 |
-| HSA (invested) | | $10,000 | | | $10,000 |
-| Taxable brokerage | | $30,000 | | | $30,000 |
-| 529 | | $12,000 | $3,000 | | $15,000 |
-| 401(k) + IRA | | $23,000 | $12,000 | | $35,000 |
-| Bitcoin (hardware + exchange) | $175,000 | | | | $175,000 |
-| **Total** | **$175,000** | **$75,000** | **$15,000** | **$30,000** | **$295,000** |
+For the demo household's $295,000 investable portfolio:
 
-Read down the columns and you have the mix: **59% Bitcoin, 25% stocks, 5% bonds, 10% cash.**
+- Bitcoin: **$175,000**
+- Stocks: **$75,000**
+- Bonds: **$15,000**
+- Cash: **$30,000**
 
-Two things only this view shows you. An account is not one asset: the 401(k) is stocks and bonds, and the wrapper name tells you nothing about the contents. And one asset spreads across accounts: their stocks sit in four places.
+The household mix is therefore about 59% Bitcoin, 25% stocks, 5% bonds, and 10% cash, regardless of how many accounts contain each asset.
 
-## Step 2: set your target mix
+## Current mix versus target mix
 
-**Your target mix**, same page. A target percentage for each of the six classes, totalling 100%.
+- **Current mix:** what the household owns now
+- **Target mix:** the intended combined allocation
+- **Drift:** the difference between the two
 
-**Flag drift beyond ±** sets your tolerance band, defaulting to 5 percentage points. A 60% Bitcoin target with a 5-point band flags you above 65% or below 55%.
+The target guides contributions and reviews. It does not require every account to hold the same percentages.
 
-The band is what makes this usable. Without one, every price move looks like a reason to act.
+## The three timeframe jobs
 
-The target sets priority for **new** dollars and is the reference for drift. It is not an instruction to sell today.
+### Reserve
 
-## Step 3: sort the same accounts by when you'll need them
+Near-term, liquid, low-volatility money. It includes the working emergency reserve, near-term bills, and retirement cash buffer.
 
-Same money, different cut.
+### Bridge
 
-Every dollar sits in one of three buckets. The bucket tells you what the money is for, how it should behave, and where it sits.
+Flexible funding for roughly the next 4–10 years. It can support known costs, early retirement before other income starts, college, or another dated goal.
 
-| Bucket | Timeframe | Volatility | What sits here |
-|---|---|---|---|
-| Reserve | 0–3 years | Low | HYSA, T-bills, money market |
-| Bridge | 4–10 years | Moderate | Taxable brokerage, HSA, 529, balanced mixes |
-| Legacy | 10+ years | High | Bitcoin (proper custody), 401(k)/IRA/Roth, long-term equity |
+### Legacy
 
-Reserve protects your ability to hold Bitcoin. Bridge is accessible pre-retirement capital and the lane for 4–10-year dated costs. Legacy is where volatility is a feature, not a bug.
+Long-term growth capital generally not needed for 10 or more years. Bitcoin and long-term retirement holdings may fit here when risk tolerance and custody support them.
 
-In the app: **Funding your timeframes → Sort accounts into buckets.** You drag whole accounts, not individual holdings.
+## Set targets from dollar needs
 
-The couple's six accounts land like this:
+- Reserve comes from spending basis × target months.
+- Bridge comes from known future costs and retirement-income gaps.
+- Legacy is the long-term capital remaining after near- and medium-term needs are protected.
 
-| Bucket | Accounts | Amount | Share |
-|---|---|---|---|
-| Reserve | Checking + savings | $30,000 | 10% |
-| Bridge | HSA, taxable brokerage, 529 | $55,000 | 19% |
-| Legacy | Bitcoin, 401(k) + IRA | $210,000 | 71% |
+Convert those dollar needs into percentages only after calculating them.
 
-Put the two cuts side by side. Their mix is 59% Bitcoin, which their tier supports. Their timeframes say 71% of everything they own is untouchable for a decade. In their forties, both are fine. Three years from retirement, the same mix and the same timeframes would be a problem, and only the second cut would show it.
+## Per-holding assumptions
 
-**Anything you don't sort gets classified for you.** The app infers a bucket from the account type and tells you which mode you're in. Inferred is a starting guess, not your decision.
+Use a holding-level return or income override only when the broad asset-class assumption would model the holding incorrectly.
 
-**On the page, the timeframes section sits above the target mix and the account holdings.** Summary first, detail below. Doing this the first time, scroll down and start with what each account holds.
+Examples include:
 
-## The refill rule
+- Spot Bitcoin ETF using Bitcoin assumptions
+- Rental property with its own appreciation and rental yield
+- Income security with a separate return and yield
 
-Taught once, in the retirement income module. It is an operating decision for when you are drawing income, not one you make while sorting accounts.
+## Where these numbers come from
 
-## Targets
+### Current mix
 
-Each bucket gets a target percentage of investable assets, and neither number is picked out of the air:
+- **What it means:** household exposure by holding type
+- **Calculated from:** every holding across every account
+- **Edit source:** holding and account records
+- **This affects:** drift, projection, tax placement, and drawdown exposure
 
-- **Reserve** you already sized in the cash-flow module, in months of spending.
-- **Bridge** is the bridge you priced in the retirement module: the years between your last paycheck and your income floor.
-- **Legacy** is what is left.
+### Timeframe funding
 
-Both grow relative to everything else as you approach retirement. The target is what the projection uses, so route new dollars toward it.
+- **What it means:** money assigned to Reserve, Bridge, and Legacy jobs
+- **Calculated from:** assigned accounts and holdings compared with dollar targets
+- **Edit source:** account jobs, reserve settings, known costs, and retirement-income needs
+- **This affects:** contribution routing and forced-sale risk
 
-## Three misfits, shown in the walkthrough
+## Done when
 
-- **Bitcoin in Bridge.** The rule:
-
-  > **Bitcoin belongs in Legacy. If you're planning to spend your Bitcoin inside of 10 years, then either the bucket is wrong or the plan is wrong.**
-
-  **Why ten.** A normal Bitcoin cycle involves a 70–80% drawdown, and recovering from one has historically taken years, not months. The halving cycle runs roughly four years. Ten years is about two full cycles: enough room that no single drawdown can force your hand. Inside ten years you are betting on where you happen to land in a cycle you don't control, for money you've already committed.
-
-  ⚠ **This is not the same as "never sell Bitcoin before ten years."** The retirement module has a 60-year-old selling Bitcoin to fund the year, and that plan is correct. The difference is **whether a date can force the sale.** A retiree with Reserve and Bridge funded sells from Legacy *opportunistically* to refill them, and can wait out a bad year. Bridge money parked in Bitcoin has a bill with a date on it and no such option. Same asset, opposite exposure.
-- **Cash in Legacy.** A 401(k) parked in a stable-value fund is Bridge risk in a Legacy slot, with inflation eating it the whole time.
-- **Reserve too small in retirement.** Once you draw income instead of earning it, the Reserve's job becomes sequence-risk protection, so it gets bigger, not smaller.
-
-## Your decision
-
-Your decision here is two things. A target mix across the 6 asset classes, and a target size for each of your three buckets.
-
-Set the mix first, because it decides what you actually buy, and give it a drift band you can live with. 5 points is the default and a reasonable starting place.
-
-Then the buckets, in order. Reserve you already sized in the reserve lesson. Bridge is driven by the years between your last paycheck and your income floor: small if you're decades away, the biggest number on the page if you're close. Legacy is whatever's left, and that's where Bitcoin belongs, because it's the only bucket with enough time to survive a drawdown.
-
-Then compare your targets to what you actually hold. The gap between those two is your routing instruction for the next year.
-
-## Put it in Orange Plan
-
-Strategy → Allocation → sort every account into Reserve, Bridge or Legacy, then set each bucket's target.
-
-## You are done when
-
-No account is left on the app's inferred guess, and you can say where each bucket's target came from.
+Every account has verified holdings, a primary timeframe job, and a target that comes from a real planning need.

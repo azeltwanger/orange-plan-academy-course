@@ -1,59 +1,78 @@
 # Set the Bitcoin allocation you can hold through a full drawdown
 
-Setting the allocation and stress-testing it are one decision, not two. This lesson does both.
+A responsible Bitcoin allocation has to fit:
 
-Your allocation is the share of your money in Bitcoin, and the percentage depends on what you divide by. Know both numbers: **Bitcoin ÷ investable assets** (how the growth engine runs) and **Bitcoin ÷ total net worth** (how exposed the balance sheet is). Use the investable number for your tier.
+- Your understanding of Bitcoin
+- Your conviction in the thesis
+- Your financial and behavioral ability to hold through volatility
 
-## What sets a responsible allocation
+## Use the correct denominator
 
-1. **Education**: what you actually know about why Bitcoin works
-2. **Conviction**: what that knowledge becomes once you can defend it
-3. **Volatility comfort**: what you'd actually do at −70%, not what you hope
+The percentage depends on what you divide by.
 
-Together they set the position you can *survive*, which is different from the one you want.
+For the demo household:
 
-## The four tiers
+- Bitcoin: **$175,000**
+- Other investable holdings: **$120,000**
+- Investable total: **$295,000**
+- House: **$450,000**
 
-| Tier | Allocation | Custody | The job |
-|---|---|---|---|
-| Foundation | 1–5% | Exchange or ETF | Learn why Bitcoin exists |
-| Integration | 10–20% | Start self-custody | Hardware wallet, test transaction |
-| Optimization | 25–50% | Confident self-custody, recovery tested | Operational discipline: beneficiaries, heir letter, switch |
-| Sovereign | 50%+ | Optimized (single-sig, multisig, collaborative) | Holding and passing it on |
+Bitcoin is about **59% of investable assets**, but only about **23% of gross assets including the house**.
 
-The tier is a label you land on after the decision, not an identity you go earn.
+Use the investable percentage for the target mix. Use whole-balance-sheet exposure and debt as additional context.
 
-## The stress test
+## Educational tiers
 
-A 70–80% drawdown is Bitcoin's *normal* case, not the worst case (2018: −84%; 2022: −77%).
+| Tier | Approximate investable Bitcoin allocation | Planning need |
+|---|---:|---|
+| Foundation | 1–5% | Learn the thesis and basic security |
+| Integration | 10–20% | Treat Bitcoin as a real plan holding; understand volatility and custody |
+| Optimization | 25–50% | Build reserve, debt, custody, and recovery around a main growth driver |
+| Sovereign | 50%+ | Design the plan around Bitcoin's volatility and operational risk |
 
-**Your portfolio hit = drawdown × allocation.**
+The tier describes the position. It is not an identity to pursue.
 
-| Allocation | 75% drawdown means |
-|---|---|
-| 10% | 7.5% hit |
-| 25% | 19% hit |
-| 50% | 37.5% hit |
-| 75% | 56% hit |
+## Drawdown math
 
-You don't control the drawdown. You do control the allocation.
+**Bitcoin allocation × Bitcoin drawdown = approximate portfolio hit**
 
-The question: with that much off the screen and every bill unchanged, could you sit there and not sell? If no, adjust the allocation until you could. Run it live against the app's Bear Market preset (BTC −60%, stocks −40%, 3-year recovery).
+Assuming other assets remain flat:
 
-## Custody has to catch up
+- 10% Bitcoin × 75% drawdown = **7.5% portfolio hit**
+- 25% Bitcoin × 75% drawdown = **about 19%**
+- 50% Bitcoin × 75% drawdown = **37.5%**
+- 75% Bitcoin × 75% drawdown = **about 56%**
 
-Two numbers describe your situation: your allocation tier and your custody level. When allocation runs a tier ahead of custody, that gap is your homework, because the position is bigger than the setup can safely hold. The common version: Integration-level allocation with Foundation-level custody, meaning you claim 15% while the coins sit on an exchange.
+The dollar amount matters as much as the percentage. Review it at today's balance.
+
+For the demo household, a 75% Bitcoin drawdown reduces Bitcoin from $175,000 to about $43,750 and the investable portfolio from $295,000 to about $164,000, assuming other holdings stay flat.
+
+## Use a target and drift band
+
+A target is the intended long-term mix. A drift band determines when the difference becomes large enough to review.
+
+New contributions can often correct drift before a taxable sale is considered. A one-time rebalance is a separate tax and planning decision.
+
+## Where these numbers come from
+
+### Current allocation
+
+- **What it means:** share of investable holdings currently in Bitcoin
+- **Calculated from:** Bitcoin holdings ÷ investable total
+- **Edit source:** holdings and target allocation
+- **This affects:** drift, routing, drawdown exposure, confidence, and earliest date
+
+### Drawdown hit
+
+- **What it means:** approximate portfolio loss caused by a Bitcoin decline
+- **Calculated from:** Bitcoin allocation × drawdown
+- **Edit source:** target allocation or Scenario holdings
+- **This affects:** holdability, reserve adequacy, and target realism
 
 ## Your decision
 
-Your decision here is the largest Bitcoin position you could actually hold through a 70 to 80% drawdown without selling.
+Choose the target Bitcoin percentage you could hold through a 70–80% drawdown without a forced or panic sale.
 
-The way I think about this is pretty simple. Run the stress test on today's balance, not last year's, because the percentage doesn't move but the dollar amount does, and the dollar amount is what you'd actually feel. Answer it honestly, not aspirationally. The right answer is the one that's true at 3am with the price down 75%, not the one that sounds brave on camera. And if the honest answer is that you'd sell, then the position is too big. Most people land there the first time they run it honestly, and it's a lot better to find that out now than in the middle of the drawdown.
+## Done when
 
-## Put it in Orange Plan
-
-Strategy → Allocation. Set the Bitcoin percentage and the drift band.
-
-## You are done when
-
-You've run the drawdown test at today's balance, not the balance you had when you chose the number, and the answer was one you could sit through.
+You know the target, current percentage, and approximate dollar loss during a 75% drawdown, and the household's reserve, cash flow, and custody can support the position.
