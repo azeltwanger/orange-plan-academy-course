@@ -1,96 +1,190 @@
 TELEPROMPTER SCRIPT — segment 3.1
-3.1 Give every debt a job and set your ceiling
-~10 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+3.1 Give every debt a deliberate treatment and set your ceiling
+~11 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
-Your reserve is sized, so you know what protects you. Before we point a single new dollar at Bitcoin, we're going to settle your debt, because the next-dollar order in the module after this one routes money to debt, and you can't route to a decision you haven't made.
+So in this lesson we're going to decide what each debt is doing in the plan, what receives extra payments, and the amount of debt you are comfortable carrying through a full Bitcoin cycle.
 
-In today's lesson, we're going to build your whole debt policy, and it comes down to two things. A ceiling, meaning the level of debt you won't go past. And a job for every single debt you have, with a reason attached to it.
+I do not think the goal has to be getting every balance to zero as fast as possible.
 
-Most people ask the question, how fast can I get to zero debt? I think there's a better question: what level of debt lets this plan grow without making it fragile?
+For some households, becoming debt-free is the right goal because the payment pressure or the stress of carrying debt is not worth the potential investment return.
 
-== TOLERANCE FIRST ==
+For another household, keeping a low-rate mortgage and using the available cash for the reserve, Bitcoin, or another goal can make more sense.
 
-Before any math, start with tolerance, because the math only sets a range. Your psychology decides where you sit inside that range.
+The app can show the balances, rates, payments, payoff dates, and ratios. You still have to decide which trade-off fits you.
 
-Peace of mind never shows up in a ratio, but it's real. If you're carrying a debt level that keeps you up at night, you're probably going to abandon the plan in the middle of a drawdown, and abandoning the plan is a bigger risk than any interest rate.
+== START WITH THE ACTUAL DEBT LIST ==
 
-So if carrying no debt at all is what lets you sleep, then I think that's the right answer for you, and the rest of this lesson still helps you decide what to clean up first. Just be honest with yourself about which one you actually have, because debt that annoys you and debt that keeps you up at night are two different problems with two different answers.
+Before deciding anything, verify every debt.
 
-== DEBT IS ALSO A TOOL ==
+You need the current balance, interest rate, minimum payment, whether the rate is fixed or variable, and the remaining payoff term.
 
-But debt isn't only a problem to eliminate. Cheap debt held on purpose keeps your cash accessible, so a bad month doesn't force you to sell into a drawdown, and every dollar of 3% debt you hold while your money compounds at more than 3% is earning you the difference. Businesses carry debt on purpose for exactly that reason.
+If it is a Bitcoin-backed loan, you also need the amount of Bitcoin pledged, the current loan balance, margin-call and liquidation levels, top-up rules, collateral-release rules, interest terms, and what the lender does during liquidation.
 
-== THE TWO RATIOS ==
+Do not rely on the rate you remember from when the debt was opened. Log in and check it.
 
-Two ratios answer that, and they measure completely different things.
+And make sure the payment is not counted twice. The debt row should own the payment so the app can remove it from future cash flow when the debt is paid off.
 
-The first one is debt-to-income, or DTI. Your total monthly debt payments divided by your monthly income before tax. This measures monthly survival, because debt gets paid out of cash flow. It's the share of every paycheck that's already committed before you've bought a single grocery.
+== THE TWO DIFFERENT PRESSURES ==
 
-DTI is your stability anchor, and it matters in this course because it barely moves in a Bitcoin drawdown. It's driven by your income, not by asset prices. The bands are on the screen: under 36% is healthy, 36 to 43% is acceptable, over 43% is high-risk.
+Orange Plan shows two ratios because debt can put pressure on a household in two different ways.
 
-The second ratio is debt-to-assets, or DTA. Total debt divided by total assets. This one measures capacity, meaning how much of what you own is already spoken for. And unlike DTI, this one moves with the Bitcoin price. Under 30% is healthy, 30 to 60% is caution, over 60% is high-risk. For most households somewhere between 10 and 40% is workable.
+Debt-to-income, or DTI, compares the monthly debt payments with gross monthly income.
 
-So the way to hold these two in your head: DTI asks whether you survive this month. DTA asks how much room you've got to make a move at all.
+This is the cash-flow pressure. It tells you how much of the paycheck is already committed before the household pays its other expenses.
 
-== THE COUPLE'S RATIOS ==
+Debt-to-assets, or DTA, compares total debt with total assets.
 
-Let's run the couple. Their income is $190,000 a year, which is $15,800 a month gross. Their debt is the $280,000 mortgage at 3.25% plus the $18,000 car loan at 7%, so $298,000 total. Their assets are $175,000 of Bitcoin, $90,000 of funds, $30,000 of cash, and a $450,000 house, which comes to $745,000.
+This is the balance-sheet pressure. For a Bitcoin-heavy household, it can move quickly because the debt balance may stay almost the same while the Bitcoin value moves up or down.
 
-So their DTA is $298,000 over $745,000, which is 40%. That's the top of the workable range. Their DTI is about $1,850 a month of payments against $15,800 of income, so about 12%. That's well inside healthy.
+The current app uses these planning bands:
 
-Those are two totally different reads on the same household. Their monthly is fine. Their balance sheet is at the ceiling. Both true at once. And the DTA is the one that's going to move when Bitcoin does, which is exactly why you set your ceiling against that one, and why you set it while the price is high, because that's when debt looks safest and you're most tempted.
+DTI is healthy below 36%, caution from 36% through 43%, and high-risk above 43%.
 
-== 3 QUESTIONS, NOT ONE ==
+DTA is healthy below 30%, caution from 30% through 60%, and high-risk above 60%.
 
-Now the second half. When there's surplus at the end of the month, most people ask one question: should I pay off debt first? But that's three separate decisions wearing one coat. Do I keep stacking. Do I pay down faster. Do I add new leverage. Each carries a different risk, so each gets a different answer, and this lesson is only about the middle one.
+These are guideposts, not a command to borrow up to the line.
 
-In my own household in a single year the answers were yes, no, and no. I kept buying, I kept the mortgage on purpose, and I didn't add leverage that year. Three answers, one balance sheet. That's normal.
+A household with unstable income, a small reserve, or a short time until retirement may need a much lower ceiling. A household with stable income and a large reserve may be able to carry more while still feeling comfortable.
 
-== THE SIX JOBS ==
+== RUN THE DEMO HOUSEHOLD ==
 
-Every debt on your list gets one of six jobs, and these are the app's own options: minimum only, extra principal, refinance, consolidate, pay off in full, or monitor. That last one is for asset-backed loans, which get watched by LTV and cushion instead of by rate.
+Our demo household has a $280,000 mortgage and an $18,000 car loan, so total debt is $298,000.
 
-== THE 4 TIERS ==
+Their gross income is $190,000 a year, or about $15,800 a month. Their mortgage and car payments total about $1,850 a month.
 
-To figure out which job a debt gets, sort it into one of 4 tiers by rate. The bands are on the screen, let me talk through them.
+That puts DTI around 12%, which is comfortably inside the healthy band.
 
-Over 10% is eliminate. Kill it. That debt is a guaranteed loss you cannot outrun with investing.
+Their total assets are about $745,000 when we include Bitcoin, other investments, cash, and the house.
 
-7 to 10% is evaluate. It's situational, and it depends on your balance sheet and your tolerance.
+$298,000 of debt divided by $745,000 of assets is about 40% DTA, which lands in the caution range.
 
-Under 7% is strategic. That's cheap money doing a job, and prepaying it just locks in a low rate as your return.
+Those two numbers are not contradicting each other.
 
-And asset-backed loans get their own tier, monitor, where you watch the LTV cushion instead of the rate.
+The monthly payments are comfortable relative to income. The household is still carrying a meaningful amount of debt relative to what it owns.
 
-Those thresholds are set against what your money can reasonably earn: above 10% is a guaranteed return you take, under 7% generally isn't, and the band in between is where your own numbers break the tie.
+And the DTA number is going to change as Bitcoin changes.
 
-One note for the app: it renders these as low-cost, under 7%, mid-cost, 7 to 10%, and high-cost, over 10%, with Bitcoin-backed loans in their own monitor bucket. Same idea, slightly different labels.
+If Bitcoin falls, assets fall while the debt remains. DTA rises. If Bitcoin rises, DTA falls and the household may suddenly feel like it has room to borrow more.
 
-== RUNNING THE COUPLE'S DEBTS ==
+That is why I would set the ceiling while the price is strong rather than waiting until the ratio looks safe at the top and adding debt right before the next drawdown.
 
-Back to the couple's two debts.
+== GIVE EACH DEBT A TREATMENT ==
 
-The $280,000 mortgage at 3.25% lands in the strategic tier, and the job is minimum only. At 3.25% against a 20% Bitcoin growth assumption, the interest they'd save by prepaying is dwarfed by the Bitcoin they'd forgo. So they keep it, as long as the payment is comfortable and the reserve is solid.
+Every debt needs a deliberate treatment, but the app does not need a clever label for it.
 
-The $18,000 car loan at 7% sits right on the strategic-evaluate boundary. Their DTI is 12%, nowhere near strained, so the payment isn't hurting anything. And killing it from cash would drop their reserve below target, all to buy about a point and a half of balance-sheet improvement. That trade isn't worth it. So the car stays on minimums too.
+For each debt, decide whether you are going to:
 
-Both of their debts got the same job, minimum only, but for two different reasons. That's what a job with a reason looks like.
+Keep making the required payment.
+
+Add a recurring extra payment.
+
+Use a lump sum to pay down or pay off the balance.
+
+Refinance or replace the debt when the actual terms improve the plan.
+
+Or monitor it because the risk is driven by collateral, a variable rate, or another condition that can change quickly.
+
+The correct treatment depends on the rate, the payment pressure, the reserve, the other opportunities for the same money, and how you feel about carrying the debt.
+
+== RATE HELPS, BUT IT DOES NOT MAKE THE DECISION ALONE ==
+
+The interest rate gives you a useful starting point.
+
+A very high rate is a guaranteed cost that is hard to justify carrying while investing the same dollars somewhere else.
+
+A low fixed rate may be worth keeping when the payment is comfortable, the reserve is funded, and the cash has a more important job.
+
+The middle is where the household has to compare.
+
+Let's say one debt costs 8%.
+
+Paying it down gives you an 8% guaranteed reduction in interest cost. Keeping it gives you more liquidity and the opportunity to invest, but the investment return is uncertain.
+
+If the reserve is underfunded, I would usually protect the household before sending every available dollar to the debt. If the reserve is full and the payment is creating stress, the guaranteed payoff may be more valuable than the potential upside.
+
+There is not one rate threshold that replaces that comparison for every person.
+
+== THE DEMO HOUSEHOLD'S TWO DEBTS ==
+
+The mortgage is fixed at 3.25% and the payment is comfortable.
+
+I would keep the required payment. Paying it off faster would move a large amount of cash into home equity, reduce liquidity, and give the household a guaranteed return equal to a low mortgage rate.
+
+That can still be the right choice if they strongly want to be debt-free. But from a financial-plan perspective, I would not make it the priority while other parts of the plan need funding.
+
+The car loan is 7%.
+
+That is a closer decision. The balance is $18,000 and the household has a $4,000 monthly surplus.
+
+They could add an extra payment without draining the reserve, or leave it on the normal schedule and route more to long-term goals.
+
+For this demo, they decide to add a modest recurring extra payment after the reserve is protected. They are not using the full cash balance to wipe it out because that would reduce the protection they just built.
+
+The important point is that both debts have a treatment and a reason. The mortgage remains on schedule because the rate is low and liquidity has more value. The car gets some extra principal because the cost is higher and the household can do it without weakening the reserve.
+
+== SET THE HOUSEHOLD CEILING ==
+
+The app can tell you where the current ratios sit. It cannot know the number that makes you uncomfortable.
+
+Your ceiling should answer two questions.
+
+What is the highest monthly payment load the household could carry if income or expenses changed?
+
+And what is the highest debt relative to assets you could watch through a major Bitcoin drawdown without feeling forced to sell or panic-pay everything off?
+
+I would write the ceiling down even if the app does not have a dedicated field for it.
+
+For example, the demo household may decide it does not want DTI above 25% and does not want to intentionally add debt when DTA is above 40%.
+
+Those are household rules, not universal thresholds. The app's 36/43 and 30/60 bands remain the outer guideposts.
+
+A ceiling below the app's caution line gives the household room for the ratio to get worse during a drawdown without immediately entering the high-risk range.
+
+== BITCOIN-BACKED DEBT IS A SEPARATE GATE ==
+
+If you do not have a Bitcoin-backed loan and are not actively considering one, the core debt plan is complete without learning every lending mechanism.
+
+If you already have one, the loan cannot be treated like a normal fixed debt.
+
+The current LTV, margin-call level, liquidation level, available top-up Bitcoin, cash available to pay down the balance, lender rules, and counterparty risk are part of the debt treatment.
+
+The Advanced Library is where we model the cushion and the lender behavior in detail.
+
+For the core plan, the rule is that the real lender terms must be entered and the household has to know what it will do before a margin call happens.
+
+== WHERE THESE NUMBERS COME FROM ==
+
+For DTI:
+
+What it means is the share of gross income committed to debt payments.
+
+It is calculated from monthly debt payments divided by gross monthly income.
+
+The edit source is the debt payment or income row.
+
+And it affects monthly flexibility, surplus, borrowing capacity, and the ability to hold through a drawdown.
+
+For DTA:
+
+What it means is total debt compared with total assets.
+
+It is calculated from the current debt balances and asset values.
+
+The edit source is the underlying debt and asset rows.
+
+And it affects the app's financial-position read and the household's room to add or carry debt.
 
 == YOUR DECISION ==
 
-Two decisions out of this lesson.
-
-Your ceiling, meaning the level you won't go past, whatever the ratios say is technically allowed. Start from tolerance, set it against DTA because that's the one that moves, and set it while the price is high.
-
-And a job for every debt, with a reason. Not a feeling.
+Your decision is the treatment for every debt, the amount of extra principal that is actually going to be paid, and the household ceiling you do not want to cross.
 
 == PUT IT IN ORANGE PLAN ==
 
-Strategy → Debt → Add debt for every debt, then set each row's job on the ledger. Cash Flow → Routing, step 2, for the extra dollars.
+Verify every debt row and its real terms. Set recurring extra payments or a deliberate lump-sum payoff only where that is the strategy you chose.
+
+Then read DTI and DTA from their source numbers and write down the household ceiling beside the plan.
 
 == YOU ARE DONE WHEN ==
 
-Every debt has a job you can give the reason for, no row reads no payoff path unless you chose it, and your ceiling is a number you have said out loud. There is no field for the ceiling, which is the point.
-
-Then watch the walkthrough below this video, where we give every debt a job in Orange Plan.
+Every debt has a treatment and a reason, the extra-payment plan does not weaken the reserve, and you can state the household ceiling before a new borrowing decision appears.

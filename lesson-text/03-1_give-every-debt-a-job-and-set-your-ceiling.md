@@ -1,64 +1,98 @@
-# Give every debt a job and set your ceiling
+# Give every debt a deliberate treatment and set your ceiling
 
-The better question isn't "how fast can I get to zero debt?" It's "what level of debt lets this plan grow without making it fragile?"
+Debt can create two different kinds of pressure:
 
-## Tolerance first
+- **Cash-flow pressure:** how much income is already committed to payments
+- **Balance-sheet pressure:** how much debt exists relative to the assets supporting the plan
 
-The math sets a range; your psychology decides where you sit in it. Debt that keeps you up at night will make you abandon the plan mid-drawdown, and that's a bigger risk than any interest rate. If zero debt is what lets you sleep, that's your right answer.
+## Verify the debt list
 
-## Debt is also a tool
+For every debt, gather:
 
-Cheap debt held on purpose keeps cash reachable in a bad month, and every dollar of 3% debt held while capital compounds above 3% earns you the difference. Businesses carry debt on purpose for that reason.
+- Current balance
+- Interest rate
+- Minimum payment
+- Fixed or variable rate
+- Remaining term or payoff date
+
+For a Bitcoin-backed loan, also gather pledged Bitcoin, LTV thresholds, top-up and release rules, interest terms, and liquidation behavior.
 
 ## The two ratios
 
-| Ratio | Formula | Measures | Bands |
-|---|---|---|---|
-| DTI | Monthly debt payments ÷ monthly gross income | Monthly survival; barely moves in a drawdown | <36% healthy · 36–43% acceptable · >43% high-risk |
-| DTA | Total debt ÷ total assets | Capacity; moves with the Bitcoin price | <30% healthy · 30–60% caution · >60% high-risk |
+### Debt-to-income
 
-DTI asks whether you survive this month. DTA asks how much room you have to make a move at all.
+**Monthly debt payments ÷ gross monthly income**
 
-## The couple
+Current Orange Plan bands:
 
-$298k debt ÷ $745k assets = **40% DTA** (top of workable). ~$1,850/mo payments ÷ $15,800 income = **12% DTI** (well inside healthy). Their monthly picture is fine while their balance sheet is at the ceiling. Both are true at once, and DTA is the one that moves when Bitcoin does.
+- Healthy: **below 36%**
+- Caution: **36% through 43%**
+- High-risk: **above 43%**
 
-## The six jobs
+### Debt-to-assets
 
-Minimum only · Extra principal · Refinance · Consolidate · Pay off in full · Monitor (asset-backed, watched by LTV, not rate).
+**Total debt ÷ total assets**
 
-## The four tiers (by rate)
+Current Orange Plan bands:
 
-| Tier | Rate | Default job |
-|---|---|---|
-| Eliminate | >10% | Kill it. A guaranteed loss you can't outrun |
-| Evaluate | 7–10% | Situational. Your balance sheet and tolerance break the tie |
-| Strategic | <7% | Cheap money doing a job; prepaying just locks in the rate |
-| Monitor | Asset-backed | Watch the cushion, not the rate |
+- Healthy: **below 30%**
+- Caution: **30% through 60%**
+- High-risk: **above 60%**
 
-(The app renders these as Low-cost / Mid-cost / High-cost + a Monitor bucket.)
+These are planning guideposts. A household ceiling may be lower based on income stability, reserve strength, time until retirement, and comfort with debt.
 
-## The couple
+## Demo household
 
-- $280k mortgage @ 3.25% → Strategic, minimum only (prepay savings dwarfed by Bitcoin foregone)
-- $18k car @ 7% → Evaluate, minimum only (DTI 12%, and paying it off would drop the reserve below target)
+- Total debt: **$298,000**
+- Gross monthly income: about **$15,800**
+- Monthly debt payments: about **$1,850**
+- Total assets: about **$745,000**
 
-Both debts got the same job for two different reasons, which is what "a job with a reason" looks like in practice.
+Results:
+
+- DTI: about **12%** — healthy monthly pressure
+- DTA: about **40%** — caution on the balance sheet
+
+Both can be true. DTA will also move as Bitcoin's value moves.
+
+## Choose a treatment for every debt
+
+A debt may receive:
+
+- Required payments only
+- A recurring extra payment
+- A planned lump-sum paydown or payoff
+- Refinancing when the actual terms improve the plan
+- Ongoing monitoring when collateral, variable rates, or lender rules drive the risk
+
+The rate is one input, not the whole decision. Compare the guaranteed interest savings with liquidity, reserve needs, other goals, and the household's tolerance for carrying the debt.
+
+## Set a household ceiling
+
+Choose the highest DTI and DTA the household is willing to carry intentionally.
+
+A ceiling below the app's caution line creates room for the ratios to worsen during a Bitcoin drawdown without immediately entering a high-risk range.
+
+## Where these numbers come from
+
+### DTI
+
+- **What it means:** share of gross income committed to debt payments
+- **Calculated from:** monthly payments and gross monthly income
+- **Edit source:** debt and income rows
+- **This affects:** surplus, flexibility, borrowing capacity, and drawdown survivability
+
+### DTA
+
+- **What it means:** total debt compared with total assets
+- **Calculated from:** current debt balances and asset values
+- **Edit source:** debt and asset rows
+- **This affects:** financial-position read and room to carry or add debt
 
 ## Your decision
 
-Two decisions out of this lesson.
+Set the treatment for each debt, the amount of any extra principal, and the household ceiling.
 
-Your ceiling, meaning the level you won't go past, whatever the ratios say is technically allowed. Start from tolerance, set it against DTA because that's the one that moves, and set it while the price is high.
+## Done when
 
-And a job for every debt, with a reason. Not a feeling.
-
-## Put it in Orange Plan
-
-Strategy → Debt → Add debt for every debt, then set each row's job on the ledger. Cash Flow → Routing, step 2, for the extra dollars.
-
-## You are done when
-
-Every debt has a job you can give the reason for, no row reads no payoff path unless you chose it, and your ceiling is a number you have said out loud. There is no field for the ceiling, which is the point.
-
-Then watch the walkthrough below this video, where we give every debt a job in Orange Plan.
+Every debt has a reasoned treatment, extra payments do not weaken the reserve, and the household ceiling is written down before another borrowing decision occurs.
