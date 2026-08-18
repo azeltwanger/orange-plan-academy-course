@@ -1,73 +1,97 @@
 # Size your cash reserve in months of spending
 
-Your reserve is cash held so a Bitcoin drawdown never forces you to sell at the wrong time. Too little cash and a job loss in a bear market means selling Bitcoin at a steep discount to pay the mortgage. Too much and inflation eats it. This lesson finds your number.
+Your reserve is cash held so a bad month or a Bitcoin drawdown does not force you to sell at the wrong time.
 
-For retirement, 18 months is the planning default, because the first few years after you stop working are when sequence risk is most dangerous. It is not a prediction of how long the next Bitcoin recovery takes.
+Too little cash and a job loss during a bear market can turn into a forced Bitcoin sale. Too much cash and inflation reduces what that money can buy. The goal is the amount that fits your life.
+
+For retirement, Austin uses 18 months as a planning default because the first few years after work stops are when sequence risk is most dangerous. It is not a prediction of how long the next Bitcoin recovery will take.
 
 ## The formula
 
-**Bare-bones essentials × target months = reserve target**
+**Spending basis × target months = reserve target**
 
-Use your bare-bones floor, not normal spending, because in a real emergency you'd cut to the floor anyway. Sizing off normal spending oversizes the fund; the same dollars sized off the floor buy you more time.
+For most working households, the chosen basis should be bare-bones essentials rather than normal spending. In a real emergency, spending would be reduced to the floor. Using normal spending can overstate how much cash is needed to buy the same amount of time.
 
 ## Target months
 
-| Situation | Target |
+| Situation | Starting range |
 |---|---|
-| Two stable incomes, no dependents | ~3 months (minimum) |
-| Most households | ~6 months |
-| Single income, self-employed, variable pay | 12+ months |
+| Two stable incomes, no dependents | Around 3 months |
+| Most households | Around 6 months |
+| Single income, self-employed, or variable pay | 12 months or more |
 
-Six factors push your number up:
+Factors that push the target higher include:
 
 - Variable pay, commissions, or contract work
 - One earner instead of two
 - Dependents
-- Paying your own health insurance (before Medicare at 65)
+- Paying for health insurance directly
 - A large mortgage or heavy fixed bills
-- A niche job where the next role takes a long time to find
+- A specialized job that may take longer to replace
 
-Together they estimate one thing: **how long you could go without a paycheck.** The reserve must outlast that.
+Together, these factors estimate how long the household may need to operate without a paycheck.
 
 ## Example
 
-| Step | Months |
-|---|---|
-| Baseline | 6 |
-| Two stable W-2 incomes | −2 → 4 |
-| Two kids | +1 → 5 |
-| $280,000 mortgage | +1 → 6 |
-| Employer health insurance | neutral |
+The demo household starts with the 6-month baseline.
 
-6 months × $5,000 floor = **$30,000 target.** They hold $30,000 in cash, so they're fully funded. The job now is fencing it off in a separate account so nothing else spends it.
+| Adjustment | Result |
+|---|---:|
+| Starting point | 6 months |
+| Two stable W-2 incomes | 4 months |
+| Two children | 5 months |
+| Large fixed mortgage | 6 months |
+| Employer health insurance | No change |
+
+Their bare-bones essentials are **$5,000 per month**, so the app calculates a **$30,000 reserve target**.
+
+They already hold $30,000 in reserve cash, so the target is fully funded. The next job is making sure the exact holding is identified and not casually spent on something else.
 
 ## The reserve changes jobs in retirement
 
-- **Working:** the reserve replaces a lost paycheck.
-- **Retired:** it covers the gap between spending and reliable income (Social Security, pension), so a bear market never forces a Bitcoin sale.
+- **While working:** it replaces lost income and absorbs unexpected costs.
+- **In retirement:** it funds the gap between spending and reliable income so weak markets do not force a sale.
 
-Example at 67: $80,000 spending − $51,600 Social Security ≈ $2,400/month gap. Retirement baseline is 18 months of the gap ≈ **$43,000**: about 40% bigger than the working reserve, on the same spending.
+Example at age 67:
 
-Sequence-of-returns risk (a crash right after you retire) fades roughly 5 years in. After that, the reserve can shrink toward a 12-month floor, or stay as high as 3 years if holding more cash is what lets you sleep.
+- Spending: $80,000 per year
+- Social Security: $51,600 per year
+- Portfolio-funded gap: about $2,400 per month
+- 18 months of the gap: about $43,000
 
-## Before you pick
+The spending did not change. The reserve's job changed.
 
-If Bitcoin dropped 50% tomorrow and your income stopped for six months, would you rather hold more cash now, or sell some Bitcoin down 50% and cut spending hard? No wrong answer. Your reserve size should reflect it.
+## Before you choose
 
-## Ask the AI
+Ask one practical question:
 
-Open **Plan Guide** and ask for *"set my reserve target."* It asks about your income stability, then lands on a month count for your situation.
+> If Bitcoin fell 50% and household income stopped for six months, would I rather hold more cash today, or accept the risk of selling Bitcoin while it is down and cutting spending to the floor?
+
+There is not one correct answer for every household. The month count should reflect the risk the household is actually willing to carry.
 
 ## Your decision
 
-Your target number of months, and **how much risk you are willing to carry to get there.** The four-options question is how you get there: hold more cash now, sell into the drawdown, borrow, or cut hard. All four pay for the same six months at different prices, and **the only one you can buy in advance is cash.**
+Choose:
+
+1. Bare-bones monthly essentials
+2. Target months
+3. The most monthly surplus the reserve should claim while it is below target
 
 ## Put it in Orange Plan
 
-**Cash Flow → Reserve settings.** Set your bare-bones floor, then set **Target months**.
+Go to **Cash Flow → Reserve settings**.
 
-⚠ Your target amount is months × bare-bones spending. **You do that multiplication, not the app.**
+Set:
+
+- **Bare-bones essentials**
+- **Reserve basis**
+- **Target months**
+- **Monthly build cap**
+
+Orange Plan calculates and displays the reserve target from the selected spending basis and target months.
 
 ## You are done when
 
-Your reserve target is set **in months of spending**, the app shows how many months you actually hold, and you can say what the reserve is *for* in one sentence: so a bad month never forces a Bitcoin sale.
+- The target months and spending basis are deliberate.
+- The app shows the target amount and current funded status.
+- You can explain the reserve's job in one sentence: **so a bad month never forces a Bitcoin sale.**
