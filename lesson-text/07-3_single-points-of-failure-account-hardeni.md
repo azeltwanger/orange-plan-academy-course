@@ -1,44 +1,108 @@
-# Single points of failure, account hardening, and scams
+# Remove single points of failure and harden the accounts
 
-## Three shapes of a single point of failure
+A custody plan can fail through one physical item, one unavailable person, or one third-party access path.
 
-1. The thing gets destroyed (device, backup).
-2. The thing is fine but the person is unavailable (only one head holds the process).
-3. You and your coin are fine and the custodian won't move it (exchange freeze).
+## Three failure types
 
-Three ordinary Tuesdays lose Bitcoin without a single hacker: a flood takes the device *and* the only backup in the same house; a six-week hospitalization freezes everything because nobody else knows anything; an exchange review locks the account.
+### Physical
 
-## The nine-question hunt
+A device, backup, security key, or document exists only once or shares one fire, flood, theft, or move.
 
-Is there only one… device? seed backup? location? person who knows everything? weak exchange login? heir with no idea what exists? document contradicting your beneficiary forms? passphrase nobody can recover? place all multisig keys sit?
+### Human
 
-## The fix method
+Only one person knows what exists or how to begin the process.
 
-List your top three **by cost of loss** (not ease of fix) → fix the top one only → re-check → repeat. Every only-one becomes a backup, a second location, or a second person who knows the *process*, never the secrets.
+### Third-party access
 
-## Account hardening (in this order)
+The asset exists, but an exchange, custodian, email provider, phone carrier, or other service will not let the household authenticate or withdraw.
 
-1. **Secure the email first**: it's the master key; every reset routes through it.
-2. Strong unique password everywhere.
-3. **App-based 2FA, not SMS** (SIM swap takes exchange + email in an afternoon); authenticator cloud backup off.
-4. Withdrawal delays + allowlists on; never click login links.
+## The “only one” review
 
-One better: a **hardware security key**: bound to the real site's address, so phishing sites get no response. Cheapest upgrade in the lesson.
+Ask whether there is only one:
 
-## The scam rules
+- Hardware device
+- Wallet backup
+- Physical location
+- Person who knows the process
+- Security key or authentication method
+- Recovery email or channel
+- Exchange or custodian holding a life-changing balance
+- Multisig configuration or process record
+- Person connecting the legal and technical plan
 
-"Your account is hacked" call → hang up, contact the provider yourself. Guaranteed returns are a scam. **Urgency is the common thread**: every scam needs you to act before you think. When something feels urgent, close the app and slow down.
+One item is not automatically a failure when a verified replacement or recovery path exists. The question is whether its loss stops recovery or creates unacceptable risk.
+
+## Separate the failure domains
+
+Two copies in one location may be lost together. Two security keys on one keychain may be lost together. Three multisig keys in one house do not provide geographic redundancy.
+
+The fix may be another copy, location, person, provider, or threshold design. Do not create redundancy by scattering complete spending secrets without a security plan.
+
+## Teach the process, not the secret
+
+A spouse, executor, or helper should know:
+
+- That the Bitcoin exists
+- What custody type is used
+- Where the process documents are
+- Who else is involved
+- What never to share
+
+Use a practice wallet for technical learning. Do not expose the main backup as a teaching aid.
+
+## Harden the email first
+
+Email often controls password resets and account recovery.
+
+Use the strongest practical authentication the provider supports:
+
+- Unique password
+- Phishing-resistant FIDO security key or properly implemented passkey when available
+- Separate backup authenticator or recovery method
+- Authenticator app when phishing-resistant options are unavailable
+- Avoid SMS-only authentication when stronger methods exist
+- Carrier PIN, port-out protection, or transfer lock
+
+## Harden financial and exchange accounts
+
+- Unique passwords
+- Strong multi-factor authentication
+- Backup codes and authenticators stored under the recovery plan
+- Withdrawal allowlists, address locks, delays, alerts, or freezes when supported
+- Review authorized devices, sessions, API keys, recovery contacts, and linked accounts
+- Keep only the operating balance needed at a third party
+
+## Scam rules
+
+- No legitimate support person needs a seed phrase, private key, passphrase, PIN, password, or one-time code
+- Treat unsolicited contact as hostile until independently verified
+- Stop when urgency is used to force immediate action
+- Verify transaction details on the trusted device display
+- Reject guaranteed-return and “send one, receive more” offers
+
+## Family Custody Map
+
+Record asset category, provider or general location, custody type, person who knows the process, and location of process documents.
+
+Never record wallet backups, passphrases, PINs, passwords, or safe combinations.
+
+A multisig descriptor or other non-secret configuration may still reveal addresses and balances. Keep redundant protected copies without treating it like a private key or publishing it broadly.
+
+## App versus proof
+
+Protect can track checklist items, documents, people, and review dates. It cannot prove that the backup is accurate or the family can execute the process.
+
+## Where readiness comes from
+
+- **What it means:** completion status of the saved protection process
+- **Calculated from:** checklist items, people, documents, and dates
+- **Edit source:** Protect records and the real-world custody process
+- **This affects:** the next protection action, report, and family handoff
 
 ## Your decision
 
-Your one most expensive only-one, and the fix with a date on it.
+Choose the most expensive single point of failure, its specific fix and date, and the account-hardening standard the household will maintain.
 
-## Put it in Orange Plan
+## Done when
 
-Protect → Security checklist for the hardening items, and Needs attention for the next one.
-
-## You are done when
-
-Your only-one list exists, the top item by cost of loss has a specific fix this week, and your account hardening is done: secured email, unique passwords, non-SMS two-factor, withdrawal delays on. One fix, not nine.
-
-Then watch the demo and the walkthrough below this video, where I set up a hardware wallet on screen and then we document your custody map in Orange Plan.
+The top failure is fixed or scheduled, the primary email and financial accounts use strong authentication with a backup method, and another required person can explain the process without receiving a secret.
