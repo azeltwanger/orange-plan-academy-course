@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 2.2
 2.2 Size your cash reserve in months of spending
-~11 min at 155 wpm · AUSTIN DICTATION — marked app-accuracy close
+~11 min at 155 wpm · AUSTIN DICTATION + VOICE-MATCHED COMPLETION — calibration master; Austin review pending
 ============================================================
 
 In today's lesson, we're going to cover how to size your cash reserve to your life. Let me start by showing you why this matters.
