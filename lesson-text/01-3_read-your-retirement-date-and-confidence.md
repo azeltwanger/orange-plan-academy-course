@@ -1,66 +1,94 @@
 # Read your retirement date and confidence number
 
-The app runs your plan through ~1,000 simulated market futures. The confidence number is the share of those futures where the plan funds your spending all the way through.
+The top of Plan → Retirement contains three connected pieces. They are easy to mix up, so read them in this order.
 
+## 1. Planned retirement age
 
-> ⚠ **This is your first retirement read, and it is a draft.** It is built on
-> the baseline you just entered and nothing else: no cash flow decisions, no
-> debt policy, no allocation, no tax decisions, and none of the account-drawdown order you will set later. Hold it
-> loosely in both directions. Do not treat an exciting date as finished, and do
-> not dismiss the whole thing because the first number looks rough. It becomes
-> your plan as you make the decisions in the modules ahead, and watching it
-> move is most of the point.
+This is the age **you entered**. Orange Plan tests the plan at that age.
 
-## Where the numbers come from
+It is the question you are asking, not software permission to retire:
 
-Nothing in this app is typed in twice. Every number you see is **calculated from** something upstream, has exactly one **edit source**, and **affects** something downstream. Three questions answer almost every "where did this come from?":
+> If I retire at this age, with this spending and the rest of the plan as currently written, how often does the money last as long as planned?
 
-| What you change | What the app calculates | What moves downstream |
-|---|---|---|
-| Income − taxes − living − debt | **Surplus** | Reserve funding, contribution routing, retirement date |
-| A **life event** | Future spending in that year | Account withdrawals, retirement date, confidence |
-| A **return assumption** | Projected balances and simulated paths | Earliest date and confidence number |
+## 2. Confidence target
 
-Every walkthrough in this course points at the same three things when a number matters: **calculated from · edit source · this affects**. Any time you are looking at a number and do not know where it came from, work those three questions and you will find it.
+This is the minimum result you want the plan to reach. Orange Plan starts at **80%**, and the control accepts **50% through 99%**.
 
-## How to read it
+The target is used to find your earliest retirement date. At an 80% target, the app looks for the first date where at least 800 of 1,000 test runs stayed funded through your planning age.
 
-| Confidence | What the app calls it |
+- Raise the target and the earliest qualifying date will generally move later.
+- Lower the target and the date will generally move earlier, with a greater chance that future adjustments will be needed.
+- Changing the target does **not** change the planned retirement age you entered. Those are separate controls.
+
+**80% is a starting point, not a magic number.** A higher target usually costs time or spending. A lower target gives you more flexibility now but accepts more adjustment risk later.
+
+## 3. Confidence result and earliest date at the target
+
+Orange Plan runs the full plan through about 1,000 different test runs. Each one moves through income, taxes, spending, debt, contributions, retirement, withdrawals, and different market results year by year.
+
+If the ring says **82%**, the money lasted through the end of the plan in about 820 of the 1,000 test runs.
+
+That does **not** mean an 18% chance of bankruptcy. The test asks whether the plan lasts exactly as written. In real life, you may reduce spending, delay a purchase, work longer, or change another decision when conditions change.
+
+After the run, the page also shows the **earliest retirement date that reached your selected target**. There is no separate deterministic earliest date to reconcile with the test. The target-qualified date and the confidence result come from the same test-run framework.
+
+### Example
+
+- Planned retirement age: **55**
+- Confidence target: **80%**
+- Result at age 55: **68%**
+- Earliest date meeting the target: **age 58**
+
+The app has not made the decision for you. It showed the tradeoff. You can keep age 55 and improve the plan, move the planned age, lower spending, save more, or test another change.
+
+## Where this number comes from
+
+Use these four questions for every important number in Orange Plan:
+
+1. **What it means** — the plain-language question the number answers.
+2. **Calculated from** — the upstream inputs used to produce it.
+3. **Edit source** — where those inputs are changed.
+4. **This affects** — the important results that move downstream.
+
+For the confidence result:
+
+| Question | Answer |
 |---|---|
-| Above 95 | Very well funded |
-| 80 to 95 | On track |
-| 50 to 79 | Room for improvement |
-| Under 50 | Needs significant changes |
+| **What it means** | The share of test runs where the money lasted through the end of the plan |
+| **Calculated from** | Balances, spending, income, debts, life events, tax rules, return assumptions, retirement timing, and saved strategies |
+| **Edit source** | The page that owns the underlying input; you do not edit the ring itself |
+| **This affects** | Whether the planned age meets the target and the earliest date that does |
 
-Those are the app's labels. As a planning judgment, aim for somewhere in the 80 to 95 range. Below that you're carrying real shortfall risk, and pushing for 100 usually means over-saving and under-living.
-
-**The date says when. The ring says how sturdy.** Read them together, always. Age 60 at 82% is a real answer; age 57 at 55% is a prettier date and a worse plan.
-
-## Two things it is not
-
-- **Not a grade.** 80% means 8 in 10 futures needed no changes, and in the other 2, the plan survives if you cut spending for a while (the guardrails handle that, later in the course).
-- **Not a price tracker.** The ring only goes stale when a real plan input changes: balances, spending, income, dates. A red candle can't touch it.
-
-100% confidence was never the goal. It usually means over-saving and under-living.
-
-**Does it model a crash on top of a crash?** Yes. Some of those runs are gentle, some stack a terrible year onto another terrible year, and a few are genuinely brutal. You're looking at a spread of futures, including the ugly ones.
-
-## How the simulation is built
-
-⚠ **Advanced Modeling → "How Orange Plan models Bitcoin: fat tails, correlations, floors and caps"** (3 min) covers fat tails, the floor and cap on Bitcoin's single-year return, and the cross-asset correlations. You do not need it to use your number. It is there so you can defend it.
+When an output looks wrong, trace it back to the source. Do not change several inputs at once just to make the result prettier.
 
 ## Your decision
 
-Your decision here is what confidence level you're aiming for, and which lever you'd pull if you come in under it.
-
-Pick your target before you look at your number, so the number doesn't just talk you into whatever it already says. Then decide your lever in advance, because there are really only four: work a little longer, spend a little less, save more, or change your allocation. If you pick that now, a low number turns into a to-do item instead of a bad night. And remember 100 was never the goal. A very high number usually just means you're over-saving and under-living.
+Choose the confidence target you want Orange Plan to use. Then name the **one** lever you would test first if the planned retirement age comes in below it.
 
 ## Put it in Orange Plan
 
-Plan → Retirement → guardrails policy, so the app knows what on track means for you.
+Go to **Plan → Retirement**.
+
+Set:
+
+- Planned retirement age
+- Baseline spending
+- Confidence target
+
+Then select **Find my earliest date**, or recheck the result after an input changes.
+
+Read all three pieces together:
+
+1. the planned age you chose,
+2. the share of test runs that lasted,
+3. the earliest date that met your target.
 
 ## You are done when
 
-Your date and your confidence number are both on screen and you read them as a pair. If you're under where you want to be, you've named one lever you'd pull first. One, not four.
+You can explain the three without mixing them up:
 
-Then watch the two walkthroughs below this video, where we set the plan up in Orange Plan and build your baseline.
+- **Planned age:** the date you chose to test.
+- **Confidence target:** the minimum result you want.
+- **Result and earliest target date:** what the 1,000 test runs found.
+
+If the planned age is below the target, you have named one lever to test first.
