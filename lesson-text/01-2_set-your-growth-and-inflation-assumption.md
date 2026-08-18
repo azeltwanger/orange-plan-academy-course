@@ -1,57 +1,110 @@
-# Set your growth and inflation assumptions
+# The three layers of a plan, and setting your assumptions
 
-Every projection is math on top of assumptions. This lesson makes yours deliberate instead of default.
+A useful plan keeps three kinds of information separate.
 
+## 1. Baseline — what is true now
 
-## The three layers of a plan
+Your current income, accounts, balances, debts, spending, and planned retirement age belong in the baseline.
 
-| Layer | Meaning | Example |
-|---|---|---|
-| **Baseline** | True now | Current income is $150,000 |
-| **Life event** | A change you expect | Tuition ends next year |
-| **Scenario** | A question, not a decision | What if I retire three years earlier? |
+These are the facts the working plan starts from.
 
-**Truth goes in the baseline. Expected changes go in life events. Questions go in scenarios.**
+## 2. Life events — changes you genuinely expect
 
-A second distinction that trips people the same way: **current cash flow answers what is available now; the projection answers where today's pattern leads.** This is not a budgeting app that wants every coffee categorized forever. You give it the pattern, and it shows you where the pattern goes.
+A life event belongs in the baseline projection when you expect it to affect future income, spending, or assets.
 
-## Previews versus your actual plan
+Examples:
 
-The third distinction is about the app rather than the plan, and it is the one people get bitten by.
+- Daycare ends in two years
+- A vehicle is replaced in five years
+- One spouse plans to stop working
+- A roof or renovation is expected
+- Social Security or pension income begins
 
-Many screens show you what a change *would* do before you have decided anything. Click a chip, set a schedule, compare two strategies, and the numbers move. **That is a preview. A sandbox. Your plan has not changed.**
+The date and amount may still be estimates. The test is whether you would be surprised if the event never happened at all.
 
-| | Where it lives | Is it your plan? |
-|---|---|---|
-| **Preview / sandbox** | The screen you are working on | No. Nothing is saved |
-| **Applied change** | Committed with **Apply to plan** | Yes. **Revert** walks it back |
-| **Scenario** | Kept separate on purpose | No. It is a question |
-| **Your plan of record** | The **Plan page** | Yes. This is what everything else is measured against |
+## 3. Scenarios — questions, not decisions
 
-> **If you didn't click Apply, it didn't happen.**
+A scenario tests a possibility without replacing the plan.
 
-Once you know that, you can go poke at anything in the app without worrying you have quietly wrecked something.
+Examples:
 
-## The big three
+- What if I retire three years earlier?
+- What if Bitcoin returns are weaker?
+- What if I move to a state without an income tax?
+- What if retirement spending is higher?
 
-- **Bitcoin growth.** The app's presets all decline over time (bigger Bitcoin, slower growth). Pick a curve you'd defend, not the biggest number.
-- **Inflation.** Default 3%. Run it hotter if you believe it runs hotter. Your spending target inflates with it.
-- **Life expectancy.** Plan to 90+. Running out at 90 because you planned to 80 is the failure the plan is designed against.
+**Facts go in the baseline. Expected changes go in life events. Questions stay in scenarios.**
 
-## The rule
+## Where assumptions fit
 
-**An assumption you can't defend out loud isn't yours. It's a default you inherited.** Conservative assumptions show you a later date on screen. Optimistic assumptions can make the whole plan unreliable, which costs a lot more.
+Assumptions are the rules the model uses to project the baseline, life events, and scenarios into the future.
+
+They include:
+
+- Bitcoin return model
+- Stock and bond returns
+- Inflation
+- Life expectancy
+
+A life event says that a cost happens in a particular year. Inflation determines what that cost becomes by then.
+
+A baseline holding says how much Bitcoin you own today. The return model determines how that balance moves through the projection and test runs.
+
+## Pick a starting view you can defend
+
+The goal is not to choose the assumptions that produce the earliest retirement date. The goal is to choose a starting view you can explain and then test how sensitive the plan is to being wrong.
+
+Orange Plan's Bitcoin views decline over time. That reflects the idea that maintaining the same percentage growth becomes harder as an asset grows larger.
+
+Power law is one available view and the one Austin uses in his own planning until he has a reason to change it. It remains an assumption rather than a promise, so weaker outcomes still belong in Scenarios.
+
+Inflation can move the plan just as much in the other direction. At 3% inflation, $80,000 of annual spending becomes roughly $125,000 in 15 years. At 4%, it is about $144,000.
+
+A small change in the input compounds across the whole retirement.
+
+## Saved inputs, previews, and scenarios
+
+Orange Plan does **not** have one save rule for every page.
+
+| State | What it means |
+|---|---|
+| **Saved input** | A direct plan field. Many save when the field is committed or the page shows **Saved** |
+| **Strategy preview** | The result can move before the strategy is committed. Use the page's **Save** or **Apply to plan** action |
+| **Scenario** | A saved what-if kept separate from the baseline plan |
+
+Do not rely on the old blanket rule that nothing happened unless you clicked Apply. That is true on some strategy surfaces and false on direct-input pages.
+
+Look at the page state:
+
+- Does it say **Saved**?
+- Does it say **Previewing** or **Not saved**?
+- Is there a **Save** or **Apply to plan** action?
+- Are you inside a named scenario?
+
+The page tells you whether you are editing the plan, previewing a strategy, or testing a separate question.
+
+## Where the output came from
+
+When an output changes, trace it back to the input that moved it.
+
+Example: raising inflation causes future spending to rise faster. That can reduce plan confidence and move the earliest date later.
+
+You do not edit the confidence result directly. You review the assumption or planning decision that produced it.
 
 ## Your decision
 
-So your decision out of this lesson is which growth model and which inflation number your plan is going to run on.
+Choose the starting return view and inflation rate the baseline plan will use.
 
-Start with what you'd actually defend out loud, because if you can't explain why you picked a curve, then you didn't really pick it, you just left whatever the app had loaded. Then ask yourself which way you'd rather be wrong. If you're conservative and you're wrong, you just retire earlier than the screen said. If you're optimistic and you're wrong, the whole plan was built on something that didn't happen. And set inflation to what you actually believe, not whatever the default is, because your future spending rises with that number.
+You are not predicting the future. You are choosing the assumptions for the first working model and the range you will test around it.
 
 ## Put it in Orange Plan
 
-Plan → Retirement → Edit assumptions. Set growth and inflation, and leave the defaults only if you'd defend them.
+During onboarding, choose the **Planning Assumptions** view you want to start with.
+
+After onboarding, use **Plan → Retirement** to review the saved assumptions. Use **Scenarios** to test another view without replacing the baseline.
 
 ## You are done when
 
-You could say out loud why each assumption is the number it is. That's the same standard the report's assumptions section is held to, and it's the one that catches a number you picked because you liked the answer.
+- You can sort an item into baseline, life event, or scenario.
+- You can explain why you chose the saved return and inflation assumptions.
+- You can tell whether a screen shows a saved input, an unsaved preview, or a separate scenario.
