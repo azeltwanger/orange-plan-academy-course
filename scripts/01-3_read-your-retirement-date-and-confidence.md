@@ -1,95 +1,181 @@
 TELEPROMPTER SCRIPT — segment 1.3
 1.3 Read your retirement date and confidence number
-~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~9 min at 155 wpm · AUTHORED SCRIPT — VOICE PASS 1 (Austin review pending)
 ============================================================
 
-In today's lesson, we're going to cover the two numbers at the top of your plan, your earliest retirement date and your confidence number, and how to read them together.
+In today's lesson, we're going to cover how to read the retirement section at the top of your Plan page.
 
-Before either one, though, I want to name what you're looking at, because this matters more than it sounds.
+There are three different things sitting close together on this screen: the retirement age you're planning around, the confidence target you choose, and the result of the test. They all connect, but they are not the same number.
 
-What you're about to see is your first retirement read. It's a draft, built on the baseline you just entered and nothing else. Your cash flow decisions aren't in it. Your debt policy isn't in it. Your allocation and your tax decisions aren't in it, and neither is the order you'll eventually draw accounts down in, because you haven't made any of those decisions yet.
+Before we get into them, remember that this is your first read of the plan. It is still a draft.
 
-So hold it loosely in both directions. Don't treat an exciting date as finished, and don't dismiss the whole thing because the first number looks rough. This is a starting-point snapshot, and it becomes your actual plan as you make the decisions in the modules ahead. You'll watch it move, and watching it move is most of the point.
+Your cash flow decisions are not finished. Your debt strategy is not finished. Your allocation, tax strategy, withdrawal order, and retirement income plan are not finished. So don't treat an exciting date as final, and don't assume the plan is broken if the first result is lower than you hoped.
 
-== WHERE THE NUMBERS COME FROM ==
+This is the starting point. As you make the decisions in the rest of the course, you're going to come back and watch these numbers move.
 
-[🔶 F21 — INSERTED SECTION, ~45 seconds. Not from a prior dictation. It exists
-because the client calls kept returning to "where did this number come from?"
-and "which account pays for this?", and nothing in the course answered it
-directly. Keep it, rewrite it, or cut it at the mic — the graphic carries the
-idea either way.]
+== THE PLANNED RETIREMENT AGE ==
 
-🎬 GRAPHIC: the number-flow frame. WHAT YOU CHANGE → WHAT THE APP CALCULATES → WHAT MOVES DOWNSTREAM, with the three worked rows underneath. This same frame comes back in every module walkthrough.
+The first number is your planned retirement age.
 
-Nothing in this app is typed in twice. Every number you see is calculated from something upstream of it, it has exactly one place you can edit it, and it pushes something downstream.
+This is the age you entered. It is the date you want the app to test right now.
 
-So for any number on your screen, you've got three questions. What is it calculated from? Where do I edit it? And what does it affect?
+So if you entered age 55, the headline is going to say that you're retiring at 55. The app is not secretly choosing that age for you. You chose it, and the app is going to tell you how well the plan holds up at that age.
 
-You can see three examples on screen. Your income, minus taxes, minus living, minus debt, gives you your surplus, and your surplus drives your reserve funding, your contribution routing, and your retirement date. A life event becomes future spending in the year you set, and that pulls from accounts, and it moves your retirement date and your confidence. And your return assumption drives your projected balances and your simulated paths, which is what sets your earliest date and your confidence number.
+I think this is important because people can look at a retirement date on a planning screen and assume the software is giving them permission to retire. That is not what this first number is doing. It is the question you're asking.
 
-Every walkthrough in this course is going to point at those same three things when a number matters. So any time you're looking at a number and you don't know where it came from, work those three questions and you'll find it.
+The question is: if I retire at this age, with this spending, these balances, these assumptions, and the rest of the plan as it is currently written, how often does the money last as long as I planned?
 
-== YOUR EARLIEST RETIREMENT DATE ==
+== THE CONFIDENCE TARGET ==
 
-The date tells you when. The confidence number tells you how sturdy that date is. And most tools only show you the date.
+The second number is the confidence target.
 
+This is also a number you choose. Orange Plan starts it at 80%, and you can set it anywhere from 50% to 99%.
 
-Your earliest retirement date is the year your assumptions say you could stop working. I think of it as your freedom date.
+The target tells the app the minimum share of 1,000 test runs that has to stay funded before it calls a date your earliest retirement date.
 
-And freedom means different things depending on where you're at. It might mean full retirement, it might mean work becoming optional, or it might mean stepping back to only the things that matter to you. Whatever version you're planning for, this date is when the plan says you could safely make that move.
+So if your target is 80%, the app looks for the earliest date where at least 800 of the 1,000 test runs stayed funded through your planning age.
 
-One thing to understand about the date: it's deterministic. It runs your numbers forward using the average returns from your assumptions. One line into the future, no stress test. And real markets don't work that way — which is where the confidence number comes in.
+If you raise the target, you're asking for more cushion. The earliest date is generally going to move later.
 
-== THE CONFIDENCE NUMBER ==
+If you lower the target, you're willing to accept a greater chance that the plan needs an adjustment later. The earliest date is generally going to move closer.
 
-The confidence number takes your entire plan and runs it through a thousand different simulated futures, each one with different market results, and then it counts how many of them succeeded.
+The target does not automatically change the planned retirement age that you typed in. Those are two separate controls.
 
-You'll see this called a Monte Carlo simulation, and that's the label on the button in the app. Don't let the name throw you. All it means is running your plan a thousand times instead of once, so you're looking at a range of outcomes instead of a single guess.
+Your planned age is the age you're testing. Your target is the standard you're asking that age to meet.
 
-A client asked me a sharp question about this once. He wanted to know whether it models a bad thing happening on top of another bad thing. Like, the price already dropped 50%, does any of those runs have it dropping another 30% from there?
+🎬 GRAPHIC: Three labels in one row.
+PLANNED AGE — the date I chose to test.
+CONFIDENCE TARGET — the minimum result I want.
+TEST RESULT — what happened in the 1,000 runs.
 
-Yes. That's exactly what those thousand runs are for. Some of them are gentle, some of them stack a terrible year onto another terrible year, and a few of them are genuinely brutal. You're not looking at one guess about the future. You're looking at a spread of them, including the ugly ones.
+== WHAT 80% ACTUALLY MEANS ==
 
-So if your confidence number is 82%, that means 820 of those thousand runs succeeded on your numbers.
+I use 80% as a starting point. I don't think it is a magic number, and I don't think everybody needs to use the same target.
 
-An 82% result means 820 of the 1,000 paths funded the plan as written. The other 180 fell short. Those paths tell you to test adjustments — spending a little less for a stretch, working a year longer, delaying a purchase. The score alone doesn't prove that one small change rescues all of them. And it isn't a forecast that you end up with nothing.
+An 80% result means that about 800 of the 1,000 test runs stayed funded through the end of the plan as it is currently written.
 
-== READING THE TWO TOGETHER ==
+It does not mean you have a 20% chance of going bankrupt.
 
-The date tells you when. The confidence number tells you how sturdy that date is.
+The test assumes the plan keeps doing what you told it to do. The same retirement date. The same spending policy. The same decisions, even if markets are rough.
 
-Age 60 at 82% confidence is a real answer. Age 60 at 55% confidence is the same date on the screen with a much weaker plan behind it. So you want to look at both. A high confidence number, with a date you can live with — that's what we're building toward.
+In real life, you are going to react. You might spend less for a year. You might delay a large purchase. You might work a little longer. You might change which account you draw from. Later in the course, you're going to build rules for making those adjustments instead of waiting until something goes wrong.
 
-== WHAT THE SIMULATION IS ACTUALLY RUNNING ==
+That is why I think 80% can be a useful starting point. It gives the plan room to live without requiring you to save so much that you never use the money.
 
-Let me show you what the simulation is actually doing, because it's more than shuffling one portfolio return.
+On the flip side, 95% or 99% is not automatically better. It may mean you want more certainty, which is completely reasonable. But it may also mean the plan has you working longer, spending less, or leaving a much larger amount behind than you actually need.
 
-Every one of those thousand futures runs your entire plan. It starts from your real balances today — your Bitcoin, your brokerage, your retirement accounts, your cash. In year one, every asset gets its own return based on your assumptions and its historical volatility. Then your actual life runs: income comes in, taxes go out, spending happens, withdrawals happen in your order, contributions and debt payments happen. You land on new balances. Then year two starts fresh with new market returns, and it does it again. 45 years of that is one complete future.
+The target is a tradeoff. More confidence usually costs you time or spending. Less confidence gives you more time or spending now, but it increases the chance that you have to adjust later.
 
-Then it runs another 999 futures with different markets and counts how many succeeded. Running your real life inside every path is what makes the answer sensitive to your plan, and not just to your portfolio.
+Pick the tradeoff on purpose.
 
-== HOW TO READ YOUR NUMBER ==
+== THE TEST RESULT ==
 
-Three things to keep in mind when you read yours:
+The third number is the confidence result in the ring.
 
-1. A high number means fewer adjustments. 82% doesn't mean an 18% chance of going broke. It means 180 of the 1,000 paths came up short under the plan exactly as written.
-2. Watch for big moves, not small ones. Small run-to-run changes aren't meaningful. If a change to your plan moves the number 5 or 10 points, that's the change telling you something.
-3. And the number is directional. It's a stress test built on research and history, not a guarantee.
+Orange Plan takes your whole plan and runs it 1,000 times with different market results. Each run starts with your actual balances and then moves through your life year by year.
 
-You're going to run your own confidence ring for the first time in the walkthrough at the end of this module.
+Income comes in. Taxes get paid. Living expenses and debt payments go out. Contributions happen. Retirement begins. Social Security starts. Withdrawals come from the accounts in the order you set. Bitcoin, stocks, bonds, cash, and the other assets get different returns along the way.
+
+Some runs are easy. Some have an ordinary bear market. Some stack one bad year on top of another. That is the point of running the plan 1,000 times instead of drawing one smooth line into the future.
+
+At the end, the app counts how many runs stayed funded through your life expectancy.
+
+If the ring says 82%, that means the money lasted as long as planned in about 820 of the 1,000 test runs.
+
+There is no separate deterministic retirement date that you're supposed to compare against this anymore. The earliest date and the confidence result come from the same test-run framework.
+
+== THE EARLIEST DATE AT YOUR TARGET ==
+
+After the test finishes, the page also shows the earliest retirement date that reached the confidence target you selected.
+
+This is where the target and the date connect.
+
+Let's say your planned retirement age is 55, your confidence target is 80%, and the result at age 55 is 68%.
+
+The app may tell you that the earliest date meeting your 80% target is age 58.
+
+That gives you two useful answers.
+
+At the age you selected, the plan came in at 68%.
+
+At age 58, it first reached the 80% standard you selected.
+
+Now you have a decision to make. You could keep age 55 and work on the plan. You could move the planned age later. You could lower spending. You could save more. You could change another part of the plan and test it.
+
+The app is not making that decision for you. It is showing you the tradeoff clearly.
+
+== WHERE THIS NUMBER CAME FROM ==
+
+This is the framework we're going to keep using in every walkthrough, because one of the most common questions people have is: where did this number come from?
+
+For any important number, ask four questions.
+
+What does it mean?
+
+What is it calculated from?
+
+Where do I edit the source?
+
+And what else does it affect?
+
+🎬 GRAPHIC: WHAT IT MEANS → CALCULATED FROM → EDIT SOURCE → THIS AFFECTS.
+
+Let's use the confidence result.
+
+What it means: the share of test runs where the money lasted through the end of the plan.
+
+What it is calculated from: your balances, spending, income, debts, life events, tax rules, return assumptions, retirement timing, and the strategies you save later in the course.
+
+Where you edit the source: you do not edit the ring. You edit the input that is wrong or the decision you want to test. Spending on the Plan page. Income and reserve settings on Cash Flow. A debt on the Debt page. A life event on the Plan timeline. A strategy on the page that owns it.
+
+What it affects: the result tells you whether the planned retirement age meets your target, and the same target is used to find the earliest date that does.
+
+This is going to matter throughout the course. When a number looks wrong, don't nudge the output until it looks better. Find the input that produced it.
+
+== HOW TO USE YOUR FIRST RESULT ==
+
+When you run yours, I would do three things.
+
+First, read the planned age and the confidence result together.
+
+Second, read the earliest date that meets your chosen target.
+
+Third, if the result is below the target, name one lever you would test first.
+
+One, not four.
+
+If you immediately change spending, retirement age, returns, savings, and allocation, the answer might improve, but you won't know which decision actually mattered.
+
+Change one thing, recheck it, and see what moved.
+
+And if the result is already well above your target, don't just treat that as a gold star. Ask whether the plan is giving you room to retire sooner, spend more, take less risk, or stop saving as aggressively.
+
+The goal is not the highest number. The goal is a plan you understand and can actually live with.
 
 == YOUR DECISION ==
 
-Your decision here is what confidence level you're aiming for, and which lever you'd pull if you come in under it.
+Your decision is the confidence target you want the app to use, and the first lever you would test if your planned retirement age comes in below it.
 
-Pick your target before you look at your number, so the number doesn't just talk you into whatever it already says. Then decide your lever in advance, because there are really only four: work a little longer, spend a little less, save more, or change your allocation. If you pick that now, a low number turns into a to-do item instead of a bad night. And remember 100 was never the goal. A very high number usually just means you're over-saving and under-living.
+I think 80% is a good place to start if you do not have a reason to choose something else. Then move it higher or lower based on how much adjustment risk you're willing to accept.
 
 == PUT IT IN ORANGE PLAN ==
 
-Plan → Retirement → guardrails policy, so the app knows what on track means for you.
+Go to Plan → Retirement.
+
+Set your planned retirement age, baseline spending, and confidence target in the input row. Then click Find my earliest date, or recheck the plan if you have already run it.
+
+When it finishes, read all three pieces: the planned retirement age, the percentage of test runs that lasted, and the earliest date that reached your target.
 
 == YOU ARE DONE WHEN ==
 
-Your date and your confidence number are both on screen and you read them as a pair. If you're under where you want to be, you've named one lever you'd pull first. One, not four.
+You can explain the three numbers without mixing them up.
 
-Then watch the two walkthroughs below this video, where we set the plan up in Orange Plan and build your baseline.
+Your planned retirement age is the date you chose to test.
+
+Your confidence target is the minimum result you want.
+
+Your confidence result and earliest target date show what the 1,000 test runs found.
+
+And if the planned age is below your target, you have named one lever to test first.
+
+Then watch the walkthrough below this module, where we're going to set up the demo household, run the first confidence check, and trace the result back to the inputs that created it.
