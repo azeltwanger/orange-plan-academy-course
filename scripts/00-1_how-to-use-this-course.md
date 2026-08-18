@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 0.1
 0.1 How to use this course
-~9 min at 155 wpm · AUSTIN DICTATION + VOICE-MATCHED UPDATES — Austin review pending
+~9 min at 155 wpm · AUSTIN DICTATION + VOICE-MATCHED COMPLETION — Austin review pending
 ============================================================
 
 So in this lesson I'm going to cover what this course is, what you're going to build, and the best way to work through it without getting overwhelmed.
