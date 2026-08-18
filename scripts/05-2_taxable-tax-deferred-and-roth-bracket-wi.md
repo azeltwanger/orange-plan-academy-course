@@ -1,88 +1,160 @@
 TELEPROMPTER SCRIPT — segment 5.2
-5.2 Taxable, tax-deferred, and Roth: bracket windows and state taxes
-~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+5.2 Read the three tax buckets and find the useful windows
+~11 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + CPA review pending
 ============================================================
 
-In today's lesson, we're going to cover the three things that decide your tax bill: where your money sits, when you act, and where you live when you act.
+So in this lesson we're going to organize the plan into taxable, tax-deferred, and Roth money, and then find the years where the household may have a useful tax decision.
 
-You have some control over what tax rate you pay, and most of that control comes from two choices: which account you pull money out of, and which year you do it in. This lesson shows you where those two dials are so you can actually use them.
+The goal is not to make every tax number as low as possible this year.
 
-== WHERE YOUR MONEY SITS: THE 3 BUCKETS ==
+The goal is to understand when income is being recognized, which account is creating it, and whether paying some tax now can reduce a larger tax later.
 
-Quick recap, because you sorted these in the allocation module. Every retirement dollar sits in one of three buckets, compared on the screen.
+== THE THREE TAX BUCKETS ==
 
-Taxable was already taxed going in, you pay on gains when you sell at capital gains rates, and there are no forced withdrawals ever. Tax-deferred, the traditional IRA and 401(k), goes in pre-tax and comes out taxed as ordinary income, and it's the one with forced withdrawals starting in your seventies whether you need the money or not. And the Roth goes in after tax and is never taxed again, growth or withdrawals, with no forced withdrawals on the Roth IRA.
+The first bucket is taxable.
 
-Holding all three is what gives you a choice every year about which bucket your money comes from, and that choice sets the rate you pay that year. Go all-in on any one and you've removed your own options later. Even all-Roth, which sounds like the safe answer, leaves cheap tax-deferred dollars on the table.
+This includes direct Bitcoin, a taxable brokerage account, bank interest, and other holdings outside a retirement wrapper.
 
-== WHEN YOU ACT: READING A TAX BRACKET ==
+You generally do not owe tax just because the market value rises. A taxable sale or other disposition can create a gain or loss based on the amount realized and the basis of the units sold. Interest and dividends can create current income even when nothing is sold.
 
-The second dial is when you act, and to use it you have to know how a bracket actually works.
+The second bucket is traditional or tax-deferred.
 
-Your income gets sliced up, and each slice gets taxed at its own rate. So being "in the 22% bracket" does not mean you pay 22% on everything. It means the next dollar you earn gets taxed at 22%.
+This can include a traditional 401(k), 403(b), IRA, SEP, SIMPLE, or another pre-tax arrangement.
 
-And that means the space between where your income lands and where the next rate starts is your room. It's a measurable number of dollars you can fill without moving into the next bracket.
+The contribution may reduce current taxable income or be excluded from wages under the account rules. The money grows without annual tax inside the account. Taxable withdrawals and Roth conversions generally add ordinary income when the money comes out or is converted.
 
-Let's run the couple's bracket today. One caveat first: bracket lines and standard deductions move every year, so run this with the current figures when you actually plan.
+The third bucket is Roth.
 
-They gross $190,000. Take off the $12,000 of pre-tax 401(k) contributions and their AGI is $178,000. Take off the standard deduction, which was around $31,400 for a married couple when they ran this, and their taxable income is about $146,600.
+Roth contributions are made with after-tax money. Qualified distributions can be tax-free.
 
-That puts them in the 22% bracket, with roughly $60,000 of room before the next rate starts. They could add $60,000 of income this year and still pay 22 cents on the dollar.
+Under current federal rules, Roth IRAs and designated Roth accounts generally do not require lifetime distributions while the owner is alive, although beneficiary rules still apply and the details can change.
 
-== THE BRACKET ROADMAP: THREE STAGES ==
+The three buckets give the household flexibility because the same $1 of spending can create a different tax result depending on where it comes from.
 
-Now your income goes through three stages in retirement, and the middle one is the low-income window where the tax moves happen.
+== THE TAX ROADMAP IS YEAR BY YEAR ==
 
-Stage one is early retirement, when the paychecks stop. Say the couple retires at 60. The paycheck stops, they're living off the taxable bucket, and their reported income drops, often to the lowest it's ever been in their adult life.
+Taxes are not one fixed percentage attached to the household forever.
 
-And there's a second thing working in their favor here: when you sell an asset, only the gain counts as income, not the whole sale. So a big sale can produce a surprisingly small amount of income.
+The result changes with earned income, business income, filing status, state, deductions, interest, dividends, realized gains, Social Security, pensions, withdrawals, conversions, and required distributions.
 
-Watch this. They sell Bitcoin to fund $80,000 of spending, and only the gain counts, which comes out to about $60,000 of realized gain that year. Now, the standard deduction and the 0% long-term capital gains bracket stack on top of each other, and for a married couple that adds up to a real ceiling. The app shows you the current one, so read it off the screen rather than from me, because it moves every year. Subtract their $60,000 of realized gain from that ceiling and there's a meaningful amount of unused 0% room left over.
+That is why Orange Plan projects the tax picture by year.
 
-They just funded their entire year of spending and paid zero dollars of tax on those gains. That's stage one.
+A high-income working year may have little room for extra ordinary income.
 
-Stage two is the stretch before Social Security. Still flexible. Benefits haven't started, nothing is forced yet. This is where you keep filling those low brackets on purpose, and the Roth conversion lesson covers exactly what to fill them with.
+The first year after retirement may have no paycheck but still have taxable Bitcoin sales.
 
-Stage three is when Social Security and the forced withdrawals arrive. Benefits turn on at 67, which for the couple is about $51,600 a year. RMDs stack on top at 75. Income jumps, and it stays up.
+Social Security may begin later.
 
-So there's a hard deadline on the cheap years. And most people waste them, because nobody ever told them the window existed. The couple's window has about $68,000 a year sitting empty.
+Required distributions may add income after that.
 
-== WHERE YOU LIVE: THE STATE LEVER ==
+The useful tax decision is often in the gap between those events.
 
-The third dial is the state you live in, and I'm going to name it here rather than teach it, because it only becomes a real decision for some people.
+== THE LOW-INCOME WINDOW ==
 
-The part everybody needs is short. When you sell, you owe federal tax, and then your state can tax that same gain again at its own rate. Most states tax a capital gain as ordinary income with no special long-term rate, and a handful don't tax income at all. The state that charges you is the one you're a resident of in the year you sell, not the one you lived in when you bought.
+Let's use our demo household.
 
-On a large retirement-year sale, that difference runs into tens of thousands of dollars on a single transaction, and unlike most moves in this module, it pays every year rather than once. So it's worth knowing the lever exists.
+They retire before Social Security begins and before required distributions from traditional accounts.
 
-But it's a lifestyle decision that happens to save tax, not a tax decision. If you're actually considering a move, or you're sitting on a large enough unrealized gain that the state rate would change what you do, the advanced library has the full lesson: what the swing is worth on real numbers, how residency is actually determined, and the sequencing that keeps a big sale right after a move from becoming an audit. If moving isn't on the table, your tax plan is complete without it.
+During the working years, earned income fills much of the ordinary-income brackets.
 
-== DOES A ROTH CONVERSION EVEN APPLY TO YOU? ==
+After work stops, ordinary income can fall significantly even though the household is spending from taxable assets.
 
-One more thing, because this is the most confusing topic in the whole tax module and most people don't need it.
+That can create a window for a Roth conversion, realizing a long-term gain at a favorable rate, or another tax decision.
 
-A Roth conversion may apply when all three of these are true. You have meaningful pre-tax retirement assets. You expect lower-income years before forced distributions begin. And you have a credible way to pay the conversion tax that isn't the converted money itself.
+A Roth conversion moves money from a traditional account to a Roth account. The taxable amount converted is generally included in gross income for that year.
 
-All three. Not two.
+The conversion can be useful when the current marginal rate is lower than the rate the household expects later, when the traditional balance is likely to create large required distributions, or when more Roth flexibility is valuable.
 
-If Orange Plan doesn't show you that combination, your core tax plan is complete without the conversion lesson, and you can skip it with a clear conscience. If it does show all three, the advanced library has the full lesson, and it opens with the actual question rather than definitions: does paying some tax earlier reduce the total tax you pay over your life?
+It can be harmful when it fills a higher bracket, increases state tax, changes Medicare premiums or another income-based benefit, uses cash needed elsewhere to pay the tax, or converts money at a rate that is not actually lower than the future alternative.
+
+So the conversion amount is not whatever the account balance happens to be. It is the amount that fits the year's plan after the other income and tax effects are included.
+
+Detailed conversion design belongs in the Advanced Library and with the CPA. The core lesson is to identify whether the window exists.
+
+== REQUIRED DISTRIBUTIONS CREATE A FUTURE CONSTRAINT ==
+
+Traditional retirement money cannot stay sheltered indefinitely under current law.
+
+The applicable required-beginning age depends on the owner's birth year and the rules in effect. Under current federal law, the applicable age is generally 73 for people reaching 73 before 2033 and 75 for people who reach 74 after 2032.
+
+RMDs are based on the prior year-end balance and an IRS life-expectancy factor. The distribution generally adds taxable income whether or not the household needed the money for spending.
+
+A large traditional balance can therefore create higher taxable income later, make more Social Security taxable, raise Medicare-related costs, or reduce flexibility for realizing gains.
+
+That does not mean every traditional contribution was a mistake. The household may have received a valuable deduction and employer match for decades.
+
+It means the plan needs to compare the tax saved during contributions with the tax created during withdrawals and required distributions.
+
+== CAPITAL GAINS USE A DIFFERENT RATE STRUCTURE ==
+
+Long-term capital gains are not taxed exactly like ordinary income at the federal level.
+
+The rate depends on taxable income and the other gains stacked into the year. Some long-term gains may fall into a 0% federal bracket, while additional gains may fall into higher capital-gains brackets. State tax and the net investment income tax can change the result.
+
+This is why a Bitcoin sale cannot be evaluated from the gain percentage alone.
+
+The same $50,000 gain can have a different tax cost in a high-income working year than in a low-income retirement year.
+
+A gain-harvesting decision may intentionally realize a gain in a favorable year and immediately rebuild the position under the rules that apply. A loss-harvesting decision may realize a loss to offset gains or a limited amount of other income.
+
+The digital-asset and security rules, identification requirements, and state treatment need to be verified for the year. The Advanced Library handles the detailed comparison.
+
+== THE APP ESTIMATE IS NOT A TAX RETURN ==
+
+Orange Plan is using the plan data to estimate taxes across the projection.
+
+If filing status, state, basis, income, Social Security, pension, conversions, or withdrawal strategy is wrong, the tax result can be wrong.
+
+And the app cannot know every item on the tax return: business deductions, credits, carryforwards, outside income, charitable planning, partnership items, or a law change that has not been implemented.
+
+Use the estimate to identify the year and the decision. Use the CPA and the current return data to execute it.
+
+== FIND ONE ACTION OR A DELIBERATE PASS ==
+
+The core tax review should end with one of four results.
+
+One: fix missing data, usually cost basis, state, filing status, income, or a retirement-account balance.
+
+Two: take one current-year action, such as changing withholding, making an eligible contribution, or reviewing a planned taxable sale.
+
+Three: send one defined comparison to the CPA, such as a Roth conversion amount or the tax cost of a Bitcoin sale.
+
+Or four: pass because the current year does not contain a useful move.
+
+A pass is complete when you looked at the roadmap and confirmed there is no action worth taking, not when the page was ignored.
+
+== WHERE THESE NUMBERS COME FROM ==
+
+For estimated tax:
+
+What it means is the projected federal and state tax created by the income and transactions modeled for that year.
+
+It is calculated from filing status, state, ordinary income, capital gains, deductions modeled by the app, Social Security, pensions, withdrawals, conversions, and other included items.
+
+The edit source is the underlying income, tax setting, basis, life event, contribution, conversion, or withdrawal strategy.
+
+And it affects surplus, retirement spending needs, withdrawal amounts, confidence, and the earliest retirement date.
+
+For the traditional balance at the required-distribution age:
+
+What it means is the amount subject to future required-distribution rules.
+
+It is calculated from current balances, contributions, returns, withdrawals, and conversions.
+
+The edit source is the account record and saved contribution, withdrawal, or conversion plan.
+
+And it affects future taxable income and the value of a possible conversion window.
 
 == YOUR DECISION ==
 
-[🔶 F24 — ADDED BEAT, not new teaching. This lesson had PUT IT IN ORANGE
-PLAN and YOU ARE DONE WHEN but no YOUR DECISION, so it was the one core lesson
-that told you what to do without naming what you were deciding. The wording below
-is taken from your own done-when line. Say it your way.]
-
-Your decision here is whether you're acting in this year's window or passing on
-it. A pass counts as done, as long as you looked first and decided on purpose.
+Your decision is the one tax item that deserves action or professional review now, and the years in the roadmap that need to be revisited later.
 
 == PUT IT IN ORANGE PLAN ==
 
-Strategy → Tax → Moves this year. Model one sale and read the tax it produces.
+Verify the tax buckets, filing status, state, basis, income sources, and retirement accounts.
+
+Review the year-by-year tax roadmap. Save only the strategy you have actually chosen and reviewed. Keep detailed conversion, harvesting, and relocation comparisons in the Advanced Library and with the appropriate professional.
 
 == YOU ARE DONE WHEN ==
 
-You know which bucket your money sits in and roughly in what proportion, and you have either identified your low-income window or established you don't have one yet. A deliberate pass on this year's window is a real outcome.
-
-Then watch the walkthrough below this video, where we model it in Orange Plan.
+The taxable, traditional, and Roth balances are accurate, the tax estimate can be traced to its inputs, and the review ends with one action, one defined CPA question, or a deliberate pass.

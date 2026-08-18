@@ -1,45 +1,84 @@
-# Taxable, tax-deferred, and Roth: bracket windows and state taxes
+# Read the three tax buckets and find the useful windows
 
-*US-specific. Verify all thresholds in the year you use them.*
+The tax plan is a year-by-year roadmap rather than one permanent tax percentage.
 
-Three dials set your tax bill: **where your money sits, when you act, and where you live when you act.**
+## The three buckets
 
-## Where it sits: three buckets
+### Taxable
 
-| Bucket | In | Growth | Out | Forced? |
-|---|---|---|---|---|
-| Taxable | Taxed | Gains taxed | Gains only, cap-gains rates | No |
-| Tax-deferred | Pre-tax | Deferred | Ordinary income | RMDs at 73 |
-| Roth | After-tax | Never taxed | Never taxed | No (Roth IRA) |
+- Direct Bitcoin, brokerage, cash interest, and other holdings outside retirement wrappers
+- Sales and other dispositions may create capital gain or loss
+- Interest and dividends may create current income
 
-Each year you choose which bucket money comes from, and that choice sets your rate. All-in on any one bucket removes your future choices.
+### Traditional or tax-deferred
 
-## When you act: reading a bracket
+- Traditional workplace plans and IRAs
+- Contributions may reduce current taxable income under the account rules
+- Taxable withdrawals and Roth conversions generally add ordinary income
+- Required distributions can apply later
 
-Income is taxed in slices; "the 22% bracket" means the *next dollar* is taxed at 22%. The space to the next line is your **room**: a measurable amount you can fill.
+### Roth
 
-Your income road has three stages: **early retirement** (paychecks stop; income drops to its lowest ever, and only the *gain* on a sale counts as income, so a couple can often fund a full year of spending inside the 0% long-term-gains room and pay $0 (read the current ceiling off the Tax page; it moves every year)), **pre-Social Security** (still flexible; keep filling low brackets on purpose), and **Social Security + RMDs** (income jumps and stays up). The cheap years have a hard deadline, and most people waste them because nobody said the window existed.
+- After-tax contributions
+- Qualified withdrawals can be tax-free
+- Under current federal rules, Roth IRAs and designated Roth accounts generally have no lifetime RMDs while the owner is alive; beneficiary rules still apply
 
-## Where you live: the state lever
+## Look for the low-income window
 
-When you sell, you owe federal tax, and then your state can tax the same gain again at its own rate. Most states tax a capital gain as ordinary income with no special long-term rate; a handful do not tax income at all. **The state that charges you is the one you are a resident of in the year you sell.** On a large retirement-year sale that is tens of thousands of dollars on one transaction, and unlike most moves here, it pays every year rather than once.
+A gap can exist after earned income stops but before Social Security, pensions, or required distributions add more taxable income.
 
-⚠ **Advanced Tax Strategies → "State taxes and relocation"** has the worked numbers, how residency is actually determined, and the sequencing (advice, then move, then sale). Watch it if you are considering a move or your unrealized gain is large enough that the state rate changes what you do. If moving is not on the table, your tax plan is complete without it.
+Possible uses include:
 
-## Ask the AI
+- Roth conversion
+- Long-term gain realization
+- Other bracket-sensitive tax decisions
 
-Open **Plan Guide** and ask for *"identify tax planning opportunities."* It screens your current year and your future tax windows and comes back with the one that most changes your plan.
+A Roth conversion is generally included in gross income in the year converted. Compare the current marginal cost with future withdrawals, RMDs, state tax, Medicare-related costs, and the cash available to pay tax.
 
-## Your decision
+## Required distributions
 
-**Whether you are acting in this year's window, or passing on it.** A pass counts as done, provided you looked first and decided on purpose.
+Under current federal law, the applicable RMD age is generally:
 
-## Put it in Orange Plan
+- **73** for people reaching 73 before 2033
+- **75** for people who reach 74 after 2032
 
-Strategy → Tax → Moves this year. Model one sale and read the tax it produces.
+The law can change. Use the current app rules and professional review for the actual plan.
 
-## You are done when
+## Capital gains
 
-You know which bucket your money sits in and roughly in what proportion, and you have either identified your low-income window or established you don't have one yet. A deliberate pass on this year's window is a real outcome.
+Long-term gains use a separate federal rate structure that interacts with taxable income. State tax and possible net investment income tax can change the result.
 
-Then watch the walkthrough below this video, where we model it in Orange Plan.
+The same gain may have a different cost in a high-income working year and a lower-income retirement year.
+
+## The app estimate is not a tax return
+
+The model may not include every business deduction, credit, carryforward, partnership item, outside income source, or recent law change.
+
+Use it to identify the year and decision. Use the CPA and current tax data to execute.
+
+## Finish with one result
+
+1. Fix missing data
+2. Take one current-year action
+3. Send one defined comparison to the CPA
+4. Deliberately pass after reviewing the roadmap
+
+## Where these numbers come from
+
+### Estimated tax
+
+- **What it means:** projected federal and state tax for the modeled year
+- **Calculated from:** filing status, state, ordinary income, gains, modeled deductions, Social Security, pensions, withdrawals, and conversions
+- **Edit source:** the underlying plan inputs and saved strategies
+- **This affects:** surplus, spending need, withdrawals, confidence, and earliest date
+
+### Traditional balance at RMD age
+
+- **What it means:** money subject to future required-distribution rules
+- **Calculated from:** balances, contributions, returns, withdrawals, and conversions
+- **Edit source:** account and strategy records
+- **This affects:** future taxable income and conversion-window value
+
+## Done when
+
+The three tax buckets are accurate, the estimate traces to its inputs, and the review ends with one action, one defined professional question, or a deliberate pass.

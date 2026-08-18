@@ -1,68 +1,156 @@
 TELEPROMPTER SCRIPT — segment 5.1
-5.1 Cost basis: what you paid, and how to reconstruct it
-~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+5.1 Cost basis: what you paid and how to rebuild it
+~10 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + CPA review pending
 ============================================================
 
-In today's lesson, we're going to cover cost basis, which is the one number that unlocks every other tax move in this module.
+So in this lesson we're going to build the cost-basis record the tax plan needs before you sell Bitcoin or another taxable holding.
 
-Quick note before we start: this module is US-specific. The brackets, the Roth accounts, the RMDs, all of it assumes the US tax code. If you're outside the US, the principles travel well, but check the specifics with a local tax professional.
+Cost basis is generally what you invested in the asset for tax purposes, including acquisition costs that are allowed to be added under the applicable rules.
 
-Real tax strategy works forward. You act in the years when your rate is low, and you act before the government forces the timing on you. And every single forward-looking move starts with one number being right.
+When you sell, the difference between the amount realized and the basis of the units sold is what creates the capital gain or loss.
 
-Cost basis is the record of what you paid. Without it, you can't prove a loss, you can't time a sale, and you can't tell whether a Roth conversion is cheap or expensive this year. Every other move in this module depends on having it. Get this one right and the rest of the module actually works on your numbers.
+If the app knows the current value but does not know what you paid, it can show the asset balance. It cannot give you a reliable tax estimate for selling it.
 
-== WHAT COST BASIS IS ==
+== THE SIMPLE VERSION OF THE MATH ==
 
-Cost basis is what you paid for each lot of Bitcoin. The price, the date, and the amount.
+Let's say you bought 0.25 Bitcoin for $10,000 and the allowed acquisition fees were $100.
 
-Your gain is the sale price minus that basis, and your tax is built on the gain. So without basis, you can't prove that the gain was small.
+Your basis in that lot would generally be $10,100.
 
-And basis is tracked per lot, not for your whole stack. A lot is one purchase, the coins you bought on 1 day at one price. When you sell, you're selling out of a specific lot, and the tax follows that lot's price.
+Later, you sell that 0.25 Bitcoin and receive $30,000 after accounting for the transaction the way your tax records require.
 
-== SAME SALE, TWO DIFFERENT TAX BILLS ==
+The gain is roughly the amount realized minus the $10,100 basis.
 
-Let's run it on the couple. They hold 1.75 Bitcoin, worth $175,000 at an illustrative $100,000 a coin. They paid $60,000 for it, split across two lots. Lot one is 1.5 Bitcoin on the hardware wallet, with a $45,000 basis, so $30,000 a coin. Lot two is a quarter Bitcoin on the exchange, with a $15,000 basis, so $60,000 a coin.
+That is the number that enters the capital-gains calculation.
 
-Now say they sell a quarter Bitcoin. That's $25,000 of proceeds either way. But watch what happens to the gain.
+The exact tax depends on holding period, filing status, other income and gains, state, deductions, and the tax rules for that year. Basis is the starting point the rest of the calculation cannot work without.
 
-If it comes from the hardware wallet lot, the basis on that quarter coin is $7,500, so the gain is $17,500. If it comes from the exchange lot, the basis is $15,000, and the gain is only $10,000.
+== BITCOIN IS A COLLECTION OF LOTS ==
 
-At the 15% long-term capital gains rate, that's about a $1,125 difference in tax, on a sale they were making anyway. Same stack, same sale price, different lot, different bill. That's why the records matter.
+Most people did not buy all of their Bitcoin on one day at one price.
 
-== WHAT CLEAN BASIS UNLOCKS ==
+They bought weekly, moved coins between exchanges and wallets, received Bitcoin for work or mining, sold some, gifted some, or lost access to an old account.
 
-When your basis is clean, four moves become available to you.
+Each acquisition can have a different date, quantity, basis, and holding period.
 
-You can time your sales, choosing low-basis or high-basis lots on purpose. You can harvest losses, and harvesting just means selling something that's down on purpose, so the loss counts against your taxes. You can only do it if you can prove the loss, and proving it takes records. You can harvest gains, resetting your basis higher in a low-tax year. And you can model the tax, so you know the real bill before you act instead of after.
+That is a tax lot.
 
-Without clean basis, all four of those are guesswork.
+Your total Bitcoin basis is the sum of the basis in the lots you still own. The basis used in a sale depends on which units the tax records identify as sold under the rules that apply to that wallet or broker account.
 
-== REBUILDING WHAT'S MISSING ==
+That is why one average purchase price is useful for a quick planning estimate but may not be enough to file a return or execute a specific lot strategy.
 
-Now, the reality: almost nobody has clean records. Exchanges shut down, coins move between wallets, and your oldest buys are older than any statement you can still download. I've been through this myself, and the path is the same every time.
+== START WITH QUANTITY RECONCILIATION ==
 
-First, pull every record that still exists, from every exchange and every wallet.
+Before rebuilding dollars, reconcile the Bitcoin quantity.
 
-Then, for whatever's left, you build a reasonable estimate. You narrow the purchase window down as tightly as you honestly can, you use the price range from that window, and you write down how you got there. You're converting a blank into a number you can defend.
+List the current quantity at every exchange, broker, IRA, collaborative-custody account, and self-custody wallet.
 
-The standard the IRS actually holds you to is "reasonable and documented," not "perfect." Your best estimate, as long as it's reasonable and you wrote down your method, is good.
+Then compare the total with the transaction history you can recover.
 
-== NEVER LEAVE BASIS BLANK ==
+If the transaction history says you should own 4.2 Bitcoin and the current accounts add to 3.8, something is missing: a sale, fee, transfer, gift, lost wallet, or imported transaction.
 
-So the one hard rule of this lesson: never leave basis blank.
+Do not force the basis record to fit the current quantity by deleting whatever does not reconcile. Find the missing movement or mark the unresolved amount clearly.
 
-Because if there's no basis at all, the gain gets treated as the entire sale price.
+== GATHER THE SOURCE RECORDS ==
 
-Go back to that quarter-Bitcoin sale. With records, the real gain was $10,000. With a blank, the gain becomes the full $25,000, because the whole sale price counts as profit. At 15%, a $1,500 bill just turned into $3,750. That's paying $2,250 extra purely for a missing record.
+I would gather the records in this order.
+
+First, download complete transaction exports from every exchange and broker you have used. Do it now even for an account you no longer use.
+
+Second, collect prior tax reports, Forms 8949, Schedule D, broker statements, and any files from a tax-software or basis-tracking service.
+
+Third, collect wallet addresses and transaction IDs that connect transfers between your own accounts.
+
+Fourth, use bank statements, purchase confirmations, emails, and payroll or business records when an exchange history is missing.
+
+The IRS requires sufficient records to support the positions on the return. For digital assets, the useful records include the asset type, acquisition date and time, units, fair market value in US dollars, basis, and the records of each sale, exchange, or other disposition.
+
+Do not rely on an exchange continuing to exist or keeping the file forever.
+
+== TRANSFERS NEED TO STAY TRANSFERS ==
+
+Moving Bitcoin from your exchange to your hardware wallet is generally a transfer of the same property rather than a sale to yourself.
+
+The basis and holding period travel with the units.
+
+If an import treats the exchange withdrawal as a sale and the wallet deposit as a new purchase, it can create a fake gain, reset the holding period, and duplicate the Bitcoin.
+
+Match the outgoing and incoming transactions so Orange Plan and the tax records understand that the units moved rather than disappeared and reappeared.
+
+Fees and transfers paid with digital assets can have their own tax treatment, so do not guess at the treatment when the amounts are meaningful. Preserve the transaction and review it with the tax professional.
+
+== UNKNOWN BASIS SHOULD STAY VISIBLE ==
+
+If you do not know the basis, do not invent a number because the app wants the field complete.
+
+Leave it unknown or mark the lot as needing reconstruction.
+
+That means the tax projection is incomplete for a sale involving those units, and the course should say that clearly.
+
+An assumed zero basis may be conservative for planning in some situations, but it is still an assumption and may be wrong. A reconstructed estimate may or may not be supportable for filing depending on the evidence.
+
+The final basis used on a tax return is a tax position. Reconstruct the records and have the CPA decide how an unresolved amount should be handled.
+
+== LOT IDENTIFICATION HAS TO MATCH EXECUTION ==
+
+Orange Plan can compare lot-selection approaches such as FIFO or higher-basis lots for planning.
+
+The tax result only follows the planned lot if the sale is executed and documented under the identification rules that apply.
+
+Under current digital-asset rules, the identification process depends on whether the units are held with a broker or in an unhosted wallet. A timely, adequate identification and supporting records may be required. When those requirements are not met, a default earliest-acquired rule can apply within the relevant account or wallet.
+
+So a HIFO preview in the app is not enough by itself. Before a sale, confirm that the broker supports the instruction or that the self-custody records identify the exact units by the required date and time.
+
+Tax rules and broker capabilities have changed quickly in this area. Verify the current process before the transaction rather than trying to recreate an identification after the sale.
+
+== RUN THE DEMO HOUSEHOLD ==
+
+Our demo household owns 1.75 Bitcoin.
+
+The records show 1.25 Bitcoin with complete lots and $48,000 of basis.
+
+Another 0.40 Bitcoin came from an exchange with an available export and can be reconstructed.
+
+The last 0.10 Bitcoin came from an old account where the records are still missing.
+
+The app should show the known basis and the unresolved quantity separately.
+
+If the household models a sale, we can use the known lots for a planning comparison. We should not present the tax estimate as complete until the missing 0.10 Bitcoin is resolved or the CPA approves a filing position.
+
+That gives the household a useful action: recover one specific record instead of treating the entire Bitcoin history as unknowable.
+
+== WHERE THESE NUMBERS COME FROM ==
+
+For total cost basis:
+
+What it means is the tax investment in the units still owned.
+
+It is calculated from the acquisition lots, permitted acquisition costs, and adjustments for units sold, transferred, gifted, or otherwise disposed.
+
+The edit source is the transaction and lot record rather than the current market value.
+
+And it affects estimated gain, tax liability, lot selection, withdrawal planning, sell-versus-borrow comparisons, and the cash the household actually receives from a sale.
+
+For unrealized gain:
+
+What it means is current market value minus the known basis in the units.
+
+It is calculated from current quantity and price compared with the lot record.
+
+The edit source is the holding quantity, price source, and cost-basis lots.
+
+And it affects tax estimates but does not create tax by itself until a taxable disposition occurs.
 
 == YOUR DECISION ==
 
-How far back you can reconstruct, and what you'll do about anything you can't.
+Your decision is which records are complete, which lots are still unresolved, and who is responsible for finishing the basis record before the next taxable sale.
 
 == PUT IT IN ORANGE PLAN ==
 
-Strategy → Tax → cost basis. Enter what you have, and flag the lots you can't prove.
+Import or enter the transaction history you can support, match transfers, and reconcile the current quantity.
+
+Keep unknown lots visibly unknown. Use the app to compare potential sales, then verify the actual identification and tax treatment with the CPA before execution.
 
 == YOU ARE DONE WHEN ==
 
-Every lot has a basis you could show someone, or is flagged as unproven. No records means a basis of zero, which means tax on the entire sale price, so an unproven lot is a real number in your plan rather than a gap.
+The current Bitcoin quantity reconciles across the accounts, every known lot has a date, quantity, and basis, unresolved units are clearly flagged, and the planned lot method can be executed and documented rather than existing only inside the model.
