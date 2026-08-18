@@ -1,70 +1,62 @@
-# Fund a known future cost: the six questions
+# Fund a known future cost without raiding the reserve
 
-A known cost is anything on the calendar with a date: tuition, a roof, a car, a wedding, taxes on a planned Roth conversion. **Your reserve is not for these.** Reserves cover the unplanned. Confuse the two and you either drain the reserve for planned costs or sell Bitcoin at the worst moment.
+The emergency reserve is for unexpected events. A planned vehicle, roof, college contribution, home purchase, renovation, or large gift needs its own funding plan.
 
-Every known cost gets a lane: where those dollars sit between now and the due date.
+## The six questions
 
-## Match the lane to the timing
+1. What amount are you actually committing to provide?
+2. When is it likely to be needed?
+3. What is already saved?
+4. What can be paid from cash flow when the cost arrives?
+5. What portion could reasonably be financed or funded from assets?
+6. When must the committed amount stop depending on Bitcoin's price?
 
-The further out the cost, the more volatility that lane can tolerate, because there is time to recover from a bad stretch.
+The amount to accumulate is the commitment after subtracting the other reliable sources.
 
-| Timeframe | Where the money sits | Not here |
-|---|---|---|
-| 0–1 year | HYSA, T-bills, CDs. Treat it like part of the reserve | Anything volatile |
-| 1–3 years | Short Treasuries, HYSA | Stocks, Bitcoin — not enough time to recover from a bad draw right before the bill |
-| 3–7 years | Balanced stocks/bonds, or an I-Bond ladder | Bitcoin |
-| 10+ years | A planned Bitcoin sell schedule can start to make sense here | Cash — the drag over that long costs more than the volatility would |
+## Match the funding lane to the date
 
-For 10+ year costs, plan the sales into low-bracket years — the years your income is small enough that the tax rate on those sales is low. Module 5 shows you how to find yours.
-
-## Pre-fund vs pay from flow
-
-- **Small dated costs** ($2,000 trip next summer): pay from flow. $200/mo starting six months out.
-- **Big dated costs**: give them a lane so they don't land as one giant Bitcoin sale. Where the number **and** the date are genuinely fixed (a roof, a car, a down payment), dividing the target by the months available is a clean way to do it.
-
-**The test:** if paying it all at once from monthly flow would break your surplus, give it a lane.
-
-> ### The general rule
->
-> **A future expense needs an intentional funding plan. It does not automatically need to be fully funded before you keep buying Bitcoin or keep working on anything else.**
->
-> Conventional planning says: there's a goal, fully fund the goal, invest what's left. That is not the position here, and it is especially wrong when the thing being paused is Bitcoin accumulation.
-
-## Six questions for any dated cost
-
-Instead of the single question "how much do I save each month?":
-
-| # | Question |
+| Time until needed | Planning approach |
 |---|---|
-| 1 | What are you **actually committing to provide**? Not what it might cost |
-| 2 | What is **already saved**? |
-| 3 | What can be paid from **cash flow at the time**, rather than saved up front? |
-| 4 | What could reasonably be **financed**? |
-| 5 | What might come from **Bitcoin or other investments**? |
-| 6 | What portion must **stop depending on Bitcoin's price** as the date approaches? |
+| **0–12 months** | Keep the known amount stable and liquid |
+| **1–3 years** | Cash or short-duration, low-volatility holdings for the protected amount |
+| **3–7 years** | Some investment flexibility, with a schedule to protect the committed amount |
+| **7–10 years** | Bridge funding plus a written year-by-year de-risking schedule |
+| **10+ years** | Long-term assets may carry more of the goal, but still require a future exit rule |
 
-Question 6 is the real risk control, and it is much narrower than "fully fund it now." Money needed in one or two years should not ride on Bitcoin cooperating; money further out can carry volatility you can support.
+A cost that is 12 years away eventually becomes one that is 2 years away. Review the lane as the date approaches.
 
-**These six apply to all of them:** cars, weddings, a house purchase, home repairs, business investment, family support. And college, which is where the mistake costs the most.
+## Example
 
-**College has its own lesson, and it is optional.** Every one of the six questions has a real answer there, and it takes a while to work through properly. No children and no other education goal means Module 2 is complete without it.
+A household plans to spend no more than **$35,000** on a vehicle in 5 years.
+
+- Expected current-vehicle proceeds: **$10,000**
+- Cash flow available in purchase year: **$5,000**
+- Amount to accumulate: **$20,000**
+
+The funding plan is built around the $20,000 gap rather than the $35,000 purchase price.
+
+## Life event versus funding source
+
+The life event tells the projection **when the bill occurs**. The funding account or contribution route tells you **where the money comes from**.
+
+Do not count the same money twice across a Bridge target, cash holding, and separate goal account.
+
+## Where this number comes from
+
+- **What it means:** the amount still needing a source
+- **Calculated from:** commitment minus current savings, future cash flow, expected proceeds, and reasonable financing
+- **Edit source:** the life event and the account or contribution route assigned to it
+- **This affects:** current routing, balances available for other goals, future withdrawals, confidence, and the earliest retirement date
 
 ## Your decision
 
-Which of your dated costs get pre-funded, and in which lane.
+For each meaningful known cost, choose:
 
-## Put it in Orange Plan
+- Commitment amount
+- Expected date
+- Funding source
+- De-risking point
 
-**Two places**, because the app holds the cost and the container separately.
+## Done when
 
-| What | Where | Why |
-|---|---|---|
-| **The cost** | Plan → Retirement → **Life events** → Add event. Name, year, amount; mark it recurring if it repeats | This is what makes your projection know the bill is coming, and it is what moves your retirement date |
-| **The container** | Strategy → Allocation → raise the **Bridge** target by what you are accumulating | So the money lives somewhere that will not be down 40% the year the bill lands |
-| **The monthly amount** | Cash Flow → **Routing** | For a fixed cost: your target divided by the months you have |
-
-⚠ **You do the division, not the app.** The number is one calculation you can do in your head. The two entries above are what change the plan: the cost, so the projection knows the bill is coming, and the lane, so the money sits somewhere safe.
-
-## You are done when
-
-Every known cost inside ten years either has a funding lane or a deliberate decision that monthly cash flow absorbs it. A cost you've decided to absorb is finished, not skipped.
+Every known cost has one funding lane and the emergency reserve is not being used as the default source for a bill already on the calendar.

@@ -1,69 +1,78 @@
 # Find your surplus and your two spending numbers
 
-Your surplus is the money left each month after taxes, living expenses, and debt payments. It decides whether you can keep buying Bitcoin, keep holding through a drawdown, or get forced to sell at the bottom.
+Your surplus is the money available after the current plan obligations have been paid.
 
+## Where surplus comes from
 
-## First, take out what is not yours
+**Income − estimated taxes − living spending − debt payments = surplus**
 
-**Tax money is not emergency money.** Neither is money already committed to a bill landing soon.
+Surplus is calculated from the source inputs. It is not a number you adjust directly.
 
-    Operating cash
-    − tax reserve (quarterly estimates, payroll obligations)
-    − known near-term bills
-    = TRUE emergency reserve
+For the demo household:
 
-This bites the self-employed hardest: the set-aside sits in the same account as everything else and looks like a cushion. It is not. Do this subtraction before you look at surplus or reserve, or every number after it is wrong. W-2 with taxes withheld? This is usually zero, and you can move straight past it.
+- Gross income: **$190,000**
+- Estimated federal and payroll taxes: **$40,000**
+- Living spending: **$80,000**
+- Debt payments: **$22,000**
+- Available surplus: **$48,000 per year**, or about **$4,000 per month**
 
-## The surplus walk
+When the result looks wrong, inspect income, taxes, living spending, and debt payments. Fix the incorrect source rather than changing the output.
 
-| Step | Amount |
-|---|---|
-| Gross income | $190,000 |
-| Taxes | −$40,000 |
-| Living expenses | −$80,000 |
-| Debt payments | −$22,000 |
-| **Surplus** | **$48,000/yr (~$4,000/mo)** |
+## Why debt is separate from living spending
 
-Retirement contributions are *not* subtracted, because they're decisions, not expenses. Surplus is money not yet committed; where it goes is the next module's question.
+Debt has a payoff date. Living spending continues until the plan says it changes.
 
-## The one input people get wrong
+A mortgage included in both living spending and the debt schedule is counted twice. A mortgage buried only in living spending never disappears when it is paid off.
 
-Your spending number is your after-tax **living** expenses. Enter your paycheck instead and the plan sizes retirement for spending that doesn't exist, and every projection downstream is wrong.
+Keep mortgage, auto, student-loan, credit-card, and other debt payments on their own debt rows.
 
-## Keep, Cut, Reduce
+## Normal spending
 
-Label every expense:
+Normal spending is the lifestyle the plan should support in an ordinary year.
 
-- **Keep**: essentials and things clearly worth it
-- **Cut**: eliminate (unused subscriptions, lifestyle creep)
-- **Reduce**: keep it, pay less (insurance, phone, internet: one call that keeps saving every month)
+Use account history to separate:
 
-After the easy cuts, the real surplus hides in the three big levers: **housing, car, location.** A $500/mo housing change is $6,000/yr with no further decisions.
+- Recurring costs
+- Irregular but expected costs
+- Genuine one-time events
 
-## Two spending numbers, not one
+A one-time trip does not need to become a permanent monthly expense. Recurring family support or annual travel still belongs in the plan even when it is not paid every month.
 
-- **Normal spending**: your regular month
-- **Bare-bones floor**: what you could survive on if things got ugly
+## Bare-bones spending
 
-The floor is what your cash reserve gets sized from.
+Bare-bones spending is the temporary minimum the household could live on if income stopped.
 
-## Also check
+It includes essential housing costs, groceries, utilities, insurance, transportation, healthcare, and other obligations that cannot be paused. Flexible travel, dining, gifts, and entertainment may be reduced temporarily.
 
-- **Withholding**: a big spring refund is your own surplus loaned out; two-earner households risk under-withholding.
-- **New income**: route every raise the day it lands, before it becomes lifestyle.
+The working reserve is generally sized from this lower number.
 
-## Ask the AI
+## Tax and committed cash
 
-Open **Plan Guide** and ask for *"review my expenses for ways to save."* It reads your linked spending and works the tradeoffs with you, one expense at a time.
+Money reserved for quarterly taxes or a bill already due is not available surplus and is not part of the emergency reserve.
+
+Subtract committed amounts before deciding how much cash is truly available.
+
+## Make the surplus repeatable
+
+The calculated result may be higher than the amount that is practical to automate. Bill timing and operating-cash needs matter.
+
+A slightly lower transfer that happens every month is more useful than a higher target that repeatedly gets reversed.
+
+## Where this number comes from
+
+- **What it means:** money available after current obligations
+- **Calculated from:** income, estimated taxes, living spending, and debt payments
+- **Edit source:** the underlying income, spending, tax, or debt row
+- **This affects:** reserve funding, contributions, extra debt payments, future balances, confidence, and the earliest retirement date
 
 ## Your decision
 
-Your true surplus, and your two spending numbers: normal, and bare-bones.
+Set:
 
-## Put it in Orange Plan
+- Normal monthly living spending
+- Bare-bones monthly spending
+- Reliable monthly surplus available to route
 
-Cash Flow → This month. Enter income and spending until the surplus verdict is a number you believe.
+## Done when
 
-## You are done when
-
-Your surplus is in the app rather than in your head, and you can say your bare-bones number without looking it up. That second number is the one that decides how bad a year has to get before anything changes.
+You can explain the surplus from its four source numbers, debt payments are not duplicated inside living spending, and the amount you plan to automate is repeatable.

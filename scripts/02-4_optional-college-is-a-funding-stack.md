@@ -1,93 +1,130 @@
 TELEPROMPTER SCRIPT — segment 2.4
-2.4 Optional: college is a funding stack
-~6.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
-SAME SESSION, STRAIGHT AFTER 2.3 — do not reset the room or the setup. This is
-the second half of one continuous take; the edit cuts in immediately before the
-first line below.
+2.4 Optional: build the college funding stack
+~7 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
-This lesson is optional. It's for you if you have children, or any other education goal you expect to help pay for. If you don't, skip it. Your Module 2 plan is complete without it, and nothing later in the course depends on it.
+This lesson is optional. It is for you if you have a child, grandchild, or another education goal you expect to help fund.
 
-So if you're still here, this is the same six questions from the future-cost lesson, applied to the one dated cost where getting it wrong is most expensive.
+If that does not apply, skip it. Your cash-flow and reserve plan is complete without this lesson.
 
-== COLLEGE IS A FUNDING STACK, NOT A BILL YOU PREPAY ==
+So if it does apply, we're going to use the same future-cost questions and build the part of college you are actually promising to provide.
 
-College is one of the easiest goals to overfund, because people start with the sticker price and assume the parents are responsible for all of it.
+== START WITH THE FAMILY COMMITMENT ==
 
-I don't think that's the right way to build the plan.
+College is easy to overfund because the first number people see is the published price of four years at a school the child may never attend.
 
-It's the same six questions I just gave you, it's just that with college every single one of them has a real answer, and skipping straight to question one is what causes the damage.
+I do not think the plan should start there.
 
-Before you calculate how much to save, decide what you're actually promising to provide.
+Start with the family decision.
 
-Maybe you're covering four years of in-state tuition. Maybe you're providing a fixed dollar amount. Maybe you're using whatever is already in the 529 and paying another amount from cash flow while they're in school. Maybe the student works, applies for aid, and finances a reasonable portion themselves.
+Are you promising four years of in-state tuition?
 
-All of those can be valid plans.
+A fixed dollar amount per child?
 
-The reason starting from sticker price is the wrong move is that the published price and what a family actually pays are two very different numbers. Most first-time students get some grant aid, and the average net price after grants comes in well below the published figure at public and private schools both. I'm not saying those numbers out loud because they move every year; they're in the lesson text, and check them against the schools your kid is actually looking at.
+Whatever is in the 529 plus an annual amount from cash flow?
 
-On top of that you don't yet know the school, the aid package, what your kid will contribute, or whether they go at all. Committing today to fully fund an uncertain four-year sticker price means planning around the number you're least sure of.
+A percentage of the final net cost?
 
-== THE FUNDING STACK ==
+Or are you planning for the student to contribute through work, scholarships, aid, or a limited amount of borrowing?
 
-🎬 GRAPHIC: the stack, built one line at a time. Projected school cost, minus grants and scholarships, minus student work, equals REMAINING NET COST. Then that number splitting into six funding sources.
+There is not one answer that every family has to use. The important part is that the plan models what you have actually agreed to provide.
 
-The order is on the screen. Start with the projected cost of the school, take out grants and scholarships, take out what the student contributes through work, and what's left is the remaining net cost. That's the real number.
+== COLLEGE HAS MULTIPLE FUNDING SOURCES ==
 
-Then that number gets divided among six sources: what's already in the 529, new 529 contributions between now and then, your cash flow while your child is actually enrolled, planned Bitcoin or taxable sales, a limited amount of student borrowing, and whatever's left unfunded.
+College does not have to be solved by one account before the first semester begins.
 
-That third one is the one people forget. Cash flow while they're enrolled is a funding source, and for a lot of families it's a big one.
+The final cost can be funded from several sources:
 
-Not every family uses all six. The point is that college does not have to be solved entirely with money you saved before freshman year. A complete plan might be: the parents provide the existing 529, add a fixed amount from annual cash flow, the student applies for aid and works summers and takes a defined amount of federal loans, and Bitcoin covers part of the rest if the price and the tax situation work out.
+The 529 balance that already exists.
 
-That is a finished plan. It is not a failure because the 529 doesn't equal four years of sticker price.
+New 529 contributions.
 
-== WHERE BITCOIN FITS, AND WHERE IT DOESN'T ==
+Cash flow while the student is enrolled.
 
-Now the part that matters most for you.
+Scholarships and grants.
 
-The goal is not to stop buying Bitcoin for seven years because your child may go to college.
+Student work or family contributions.
 
-The goal is to make sure the amount you have firmly promised does not depend entirely on Bitcoin being at a favorable price on the exact day tuition is due.
+A planned sale from taxable investments or Bitcoin.
 
-Those are very different things, and the difference is most of this lesson.
+And a limited amount of borrowing, when the payment and the degree economics are reasonable.
 
-It moves over time, like this. If you're five or more years out, keep accumulating and put a reasonable amount into the 529. Don't try to solve an uncertain four-year sticker price today.
+Not every family is going to use all of those. The point is that the amount the parents need to pre-fund may be much smaller than the published four-year price.
 
-Two to four years out, you update everything. Likely schools, estimated net prices, the 529 balance, aid eligibility, what your kid is willing to do, and what you're actually promising. Then you start protecting part of the committed amount. Part, not all of it.
+== BUILD THE NUMBER IN ORDER ==
 
-In the last year or two before they enroll, make sure the first year, maybe the first two, of what you promised has a reliable source. That could be the 529, cash, current cash flow, a Bitcoin sale you made during a strong market, or some mix. The later years can stay flexible.
+Start with the estimated net cost rather than the sticker price when that information is available.
 
-And once they're enrolled, you recalculate every year, after the actual aid package shows up.
+Then subtract the sources that do not need to be saved in advance.
 
-That's what gives Bitcoin time to compound without putting you in a spot where a 70% drawdown forces you to sell at the bottom.
+Let's say a family decides to provide $80,000 total.
 
-== FINANCING PART OF IT ISN'T A FAILURE ==
+There is already $25,000 in the 529.
 
-One more thing, because people treat this as a defeat and I don't think it is.
+They expect to contribute another $20,000 from cash flow during the college years.
 
-A modest amount of federal student debt can give your student some ownership of the decision, protect your retirement flexibility, keep you out of a forced Bitcoin sale in a bear market, and spread the cost over the years the education is actually producing income. And if Bitcoin does what you think it's going to do, you can pay it down later.
+The student is expected to cover $10,000 through work, aid, or a defined amount of federal borrowing.
 
-I'd draw a hard line between two kinds of borrowing. Student federal loans are a bounded, controllable piece of the plan. Parent borrowing and private loans are a separate debt decision, and they get modeled against your retirement and your cash flow like any other debt.
+That leaves $25,000 that still needs to be accumulated or funded from assets.
 
-The limits change, and some changed recently, so I'm not reading numbers into a video that outlives them. What you decide is the shape: we're comfortable with our student borrowing up to some amount, if the payment is reasonable for the career they're heading into. We are not signing up for unlimited parent debt.
+The goal is not an $80,000 529 balance. The goal is a credible set of sources that adds up to the $80,000 commitment.
+
+== HOW THE PLAN CHANGES AS COLLEGE GETS CLOSER ==
+
+When college is more than 7 to 10 years away, I would not stop all long-term investing to fully fund an uncertain school cost in cash.
+
+Set a reasonable contribution, keep the broader plan moving, and revisit the commitment as the student's plans become clearer.
+
+Around 3 to 7 years out, update the likely school range, current 529 balance, expected aid, and the amount the family still intends to provide.
+
+This is when part of the committed amount should begin moving toward more stable holdings.
+
+Inside the last 1 to 3 years, I would want the first year, and possibly more depending on the family's tolerance, to have a reliable source that does not require Bitcoin to be at a particular price.
+
+Once the student is enrolled, rebuild the remaining years from the actual aid package and the real annual cost. Do not keep funding an estimate that the school has already replaced with a better number.
+
+== WHERE BITCOIN CAN FIT ==
+
+Bitcoin can be one part of the funding stack when the horizon is long and the family has flexibility.
+
+What I would not do is promise a fixed amount due next year and leave all of it dependent on Bitcoin recovering from a possible drawdown.
+
+If the family plans to use Bitcoin, decide in advance how much will be sold, what price or time conditions would trigger the transition, and when the committed first-year amount moves to cash or another stable holding.
+
+That gives Bitcoin time to compound without turning a tuition deadline into a forced sale.
+
+== BORROWING IS A SEPARATE DECISION ==
+
+A limited amount of student borrowing can be part of a complete plan.
+
+That does not automatically mean borrowing is good. It means the debt should be evaluated against the expected payment, the student's likely income, the amount the parents are protecting for retirement, and the alternatives.
+
+Parent borrowing and private loans can create a very different risk for the household. Those belong in the debt decision rather than being treated as an invisible part of the college goal.
+
+Use current federal and private loan terms when the decision is real, because limits and repayment rules change.
+
+== WHERE THIS NUMBER COMES FROM ==
+
+For the parent funding gap:
+
+What it means is the amount of the family commitment that still needs a source.
+
+It is calculated from the commitment minus existing savings, expected cash flow, aid, student contribution, and any borrowing the family deliberately accepts.
+
+The edit source is the college life event, 529 or goal holding, and the contribution plan.
+
+And it affects current contributions, the Bridge, taxable withdrawals, future taxes, confidence, and the earliest retirement date.
 
 == YOUR DECISION ==
 
-What you are actually committing to provide. A fixed amount per child, four years of in-state tuition, tuition only, a percentage of the final net cost, or whatever the 529 plus a set amount of cash flow can carry. That is a family decision about what you're promising, and nothing in the plan should make it for you.
+Your decision is what you are promising to provide and which sources are going to cover it.
 
 == PUT IT IN ORANGE PLAN ==
 
-Same two places as the future-cost lesson, with one difference that matters.
+Model the amount your household is committing to provide as the life event, not an unlimited sticker price.
 
-The cost goes in at Plan → Retirement → Life events → Add event. Name it, set the year, set the amount, and mark it recurring for the four years of tuition.
-
-For college, the amount you enter is your commitment, not the sticker price. If you've promised $30,000 a child, that's the number, and the rest of the stack lives outside the plan by design.
-
-The container is your Bridge bucket, at Strategy → Allocation. Raise the Bridge target by what you're accumulating, so the money sits somewhere that isn't going to be down 40% the year the bill lands.
-
-Then route the monthly amount at Cash Flow → Routing. For college it's whatever closes the gap between the 529's projected value and the part of your commitment you've decided to protect, which is usually a much smaller number than people expect.
+Track the current education savings and the contribution route, and review the funding stack as the date and actual school costs become clearer.
 
 == YOU ARE DONE WHEN ==
 
-You can say what you're committing to provide, name the sources that will cover it, and point at the part you've decided to protect from a Bitcoin sale. **You are not done when the whole sticker price is sitting in cash.** That was never the target.
+You can state the family commitment, the sources that add up to it, and the amount that needs to be protected from a Bitcoin drawdown before the first payment is due.
