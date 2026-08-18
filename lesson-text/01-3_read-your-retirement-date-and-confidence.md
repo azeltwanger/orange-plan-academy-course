@@ -1,69 +1,82 @@
 # Read your retirement date and confidence number
 
-The top of Plan → Retirement contains three connected pieces. They are easy to mix up, so read them in this order.
+The top of the Retirement page contains four connected pieces:
 
-## 1. Planned retirement age
+1. **Planned retirement age** — the age you chose to test.
+2. **Baseline spending** — the annual living-spending need the plan must support.
+3. **Confidence target** — the minimum share of test runs you want the plan to meet.
+4. **Confidence result and earliest date** — what Orange Plan found after running the plan 1,000 times.
 
-This is the age **you entered**. Orange Plan tests the plan at that age.
+## Start with the inputs
 
-It is the question you are asking, not software permission to retire:
+Your planned retirement age is not a recommendation from the software. It is the age you asked Orange Plan to test.
 
-> If I retire at this age, with this spending and the rest of the plan as currently written, how often does the money last as long as planned?
+Baseline spending is the annual cost of your life. It is not gross income, and it excludes debt payments that already have their own rows. The app keeps debt separate so a mortgage or other payment can disappear when the debt is paid off rather than being funded forever.
 
-## 2. Confidence target
+## The confidence target
 
-This is the minimum result you want the plan to reach. Orange Plan starts at **80%**, and the control accepts **50% through 99%**.
+Orange Plan starts at an 80% confidence target, adjustable from 50% to 99%.
 
-The target is used to find your earliest retirement date. At an 80% target, the app looks for the first date where at least 800 of 1,000 test runs stayed funded through your planning age.
+The target tells the app how many of the 1,000 test runs must stay funded through your planning age before it calls a date the earliest retirement date that meets your target.
 
-- Raise the target and the earliest qualifying date will generally move later.
-- Lower the target and the date will generally move earlier, with a greater chance that future adjustments will be needed.
-- Changing the target does **not** change the planned retirement age you entered. Those are separate controls.
+- Raise the target and the earliest date will generally move later.
+- Lower the target and the date may move earlier, with a greater chance that the plan needs an adjustment later.
 
-**80% is a starting point, not a magic number.** A higher target usually costs time or spending. A lower target gives you more flexibility now but accepts more adjustment risk later.
+The target does not silently change the retirement age you entered.
 
-## 3. Confidence result and earliest date at the target
+## What the confidence result means
 
-Orange Plan runs the full plan through about 1,000 different test runs. Each one moves through income, taxes, spending, debt, contributions, retirement, withdrawals, and different market results year by year.
+Orange Plan runs the entire saved plan 1,000 times with different sequences of returns and inflation. Each run uses the accounts, balances, income, spending, debts, life events, tax rules, assumptions, retirement timing, and saved strategies in the plan.
 
-If the ring says **82%**, the money lasted through the end of the plan in about 820 of the 1,000 test runs.
+If the ring says 83%, your money lasted through the planning age in about 830 of the 1,000 test runs.
 
-That does **not** mean an 18% chance of bankruptcy. The test asks whether the plan lasts exactly as written. In real life, you may reduce spending, delay a purchase, work longer, or change another decision when conditions change.
+That is **not** a 17% chance of bankruptcy. It means the saved plan, unchanged, did not last through the planning age in the remaining runs. In real life you may adjust spending, timing, saving, purchases, or strategy.
 
-After the run, the page also shows the **earliest retirement date that reached your selected target**. There is no separate deterministic earliest date to reconcile with the test. The target-qualified date and the confidence result come from the same test-run framework.
+Austin uses 80% as a practical starting target, not a magic number. A higher target generally costs time or spending. A lower target accepts more chance that future adjustments will be necessary.
 
-### Example
+## The earliest date at your target
 
-- Planned retirement age: **55**
-- Confidence target: **80%**
-- Result at age 55: **68%**
-- Earliest date meeting the target: **age 58**
+Example:
 
-The app has not made the decision for you. It showed the tradeoff. You can keep age 55 and improve the plan, move the planned age, lower spending, save more, or test another change.
+- Planned retirement age: 55
+- Baseline spending: $100,000 per year
+- Confidence target: 80%
+- Confidence at age 55: 68%
+- Earliest date meeting the target: age 58
 
-## Where this number comes from
+The app is giving two answers:
 
-Use these four questions for every important number in Orange Plan:
+- At age 55, the saved plan lasted in 68% of the test runs.
+- Age 58 was the first age where it reached the selected 80% target.
 
-1. **What it means** — the plain-language question the number answers.
-2. **Calculated from** — the upstream inputs used to produce it.
-3. **Edit source** — where those inputs are changed.
-4. **This affects** — the important results that move downstream.
+The confidence result and earliest date come from the same test-run process.
 
-For the confidence result:
+The Plan confidence target is separate from the starting-spending choices and annual spending guardrails on the Income page. Those controls answer different questions later in the plan.
 
-| Question | Answer |
-|---|---|
-| **What it means** | The share of test runs where the money lasted through the end of the plan |
-| **Calculated from** | Balances, spending, income, debts, life events, tax rules, return assumptions, retirement timing, and saved strategies |
-| **Edit source** | The page that owns the underlying input; you do not edit the ring itself |
-| **This affects** | Whether the planned age meets the target and the earliest date that does |
+## Where this number came from
 
-When an output looks wrong, trace it back to the source. Do not change several inputs at once just to make the result prettier.
+Use the same four questions for every important Orange Plan number:
+
+- **WHAT IT MEANS** — the question the number answers.
+- **CALCULATED FROM** — the inputs used to produce it.
+- **EDIT SOURCE** — where those inputs are changed.
+- **THIS AFFECTS** — the important results downstream.
+
+For confidence:
+
+- **WHAT IT MEANS:** the share of test runs where the money lasted through your planning age.
+- **CALCULATED FROM:** the entire saved plan.
+- **EDIT SOURCE:** the page that owns the input or strategy you need to correct or test.
+- **THIS AFFECTS:** whether the planned age meets your target and the earliest date that does.
+
+Do not change five inputs at once. Pick one meaningful lever, recheck the plan, and see what moved.
 
 ## Your decision
 
-Choose the confidence target you want Orange Plan to use. Then name the **one** lever you would test first if the planned retirement age comes in below it.
+Choose:
+
+1. The confidence target Orange Plan should use.
+2. The first lever you would test if the planned retirement age comes in below it.
 
 ## Put it in Orange Plan
 
@@ -75,20 +88,8 @@ Set:
 - Baseline spending
 - Confidence target
 
-Then select **Find my earliest date**, or recheck the result after an input changes.
-
-Read all three pieces together:
-
-1. the planned age you chose,
-2. the share of test runs that lasted,
-3. the earliest date that met your target.
+Then run **Find my earliest date**, or use **Recheck** after an input changes.
 
 ## You are done when
 
-You can explain the three without mixing them up:
-
-- **Planned age:** the date you chose to test.
-- **Confidence target:** the minimum result you want.
-- **Result and earliest target date:** what the 1,000 test runs found.
-
-If the planned age is below the target, you have named one lever to test first.
+You can explain the planned age, confidence target, confidence result, and earliest target-qualified date without mixing them up—and you have named one lever to test first if the result is below your target.
