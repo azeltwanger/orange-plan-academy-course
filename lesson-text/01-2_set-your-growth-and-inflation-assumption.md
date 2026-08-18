@@ -10,7 +10,7 @@ These are the facts the working plan starts from.
 
 ## 2. Life events — changes you genuinely expect
 
-A life event belongs in the baseline projection when you expect it to affect future income, spending, or assets.
+A life event belongs in the saved projection when you expect it to affect future income, spending, or assets.
 
 Examples:
 
@@ -33,16 +33,16 @@ Examples:
 - What if I move to a state without an income tax?
 - What if retirement spending is higher?
 
-**Facts go in the baseline. Expected changes go in life events. Questions stay in scenarios.**
+**Facts go in the baseline. Expected changes go in life events. Questions stay in Scenarios.**
 
 ## Where assumptions fit
 
-Assumptions are the rules the model uses to project the baseline, life events, and scenarios into the future.
+Assumptions are the rules the model uses to project the baseline, life events, and Scenarios into the future.
 
 They include:
 
 - Bitcoin return model
-- Stock and bond returns
+- Stock, bond, real-estate, and cash returns
 - Inflation
 - Life expectancy
 
@@ -62,7 +62,23 @@ Inflation can move the plan just as much in the other direction. At 3% inflation
 
 A small change in the input compounds across the whole retirement.
 
-## Saved inputs, previews, and scenarios
+## Broad assumptions versus a specific holding
+
+The Plan assumptions are broad defaults by asset class. Most holdings should use them.
+
+A holding-level override is appropriate when one holding would otherwise be modeled incorrectly. Examples include:
+
+- A spot Bitcoin ETF that should use the Plan's Bitcoin assumptions rather than broad stock returns
+- A preferred or income security held mainly for its yield
+- A rental property with its own appreciation and rental-yield assumptions
+- A money-market holding with a specific yield
+- A concentrated stock with a deliberately different return view
+
+Orange Plan can set a holding to a fixed return, the Plan's Bitcoin assumptions, a declining return, or custom return periods. Income or yield is entered separately because cash income and value growth are different parts of the projection.
+
+Leave the override blank when the broad asset-class assumption is right. Do not create a custom forecast for every position simply because the control exists.
+
+## Saved inputs, previews, and Scenarios
 
 Orange Plan does **not** have one save rule for every page.
 
@@ -79,7 +95,7 @@ Look at the page state:
 - Does it say **Saved**?
 - Does it say **Previewing** or **Not saved**?
 - Is there a **Save** or **Apply to plan** action?
-- Are you inside a named scenario?
+- Are you inside a named Scenario?
 
 The page tells you whether you are editing the plan, previewing a strategy, or testing a separate question.
 
@@ -89,11 +105,14 @@ When an output changes, trace it back to the input that moved it.
 
 Example: raising inflation causes future spending to rise faster. That can reduce plan confidence and move the earliest date later.
 
-You do not edit the confidence result directly. You review the assumption or planning decision that produced it.
+If a specific holding grows or produces income differently from the rest of its asset class, the edit source is that holding's advanced settings—not the broad Plan assumption.
 
 ## Your decision
 
-Choose the starting return view and inflation rate the baseline plan will use.
+Choose:
+
+1. The starting return view and inflation rate the baseline plan will use.
+2. Whether any specific holding genuinely needs a different return or yield.
 
 You are not predicting the future. You are choosing the assumptions for the first working model and the range you will test around it.
 
@@ -101,10 +120,15 @@ You are not predicting the future. You are choosing the assumptions for the firs
 
 During onboarding, choose the **Planning Assumptions** view you want to start with.
 
-After onboarding, use **Plan → Retirement** to review the saved assumptions. Use **Scenarios** to test another view without replacing the baseline.
+After onboarding, use **Plan → Retirement → Edit assumptions** to review the broad saved assumptions.
+
+For a holding-level override, use **Dashboard → holding → Edit → Advanced settings → Projection overrides**.
+
+Use **Scenarios** to test another view without replacing the baseline.
 
 ## You are done when
 
-- You can sort an item into baseline, life event, or scenario.
+- You can sort an item into baseline, life event, or Scenario.
 - You can explain why you chose the saved return and inflation assumptions.
-- You can tell whether a screen shows a saved input, an unsaved preview, or a separate scenario.
+- Every holding either deliberately uses the broad Plan assumption or has a deliberate override.
+- You can tell whether a screen shows a saved input, an unsaved preview, or a separate Scenario.
