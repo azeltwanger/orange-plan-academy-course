@@ -107,15 +107,17 @@ Marriage, divorce, birth, death, major diagnosis, job loss, business sale, retir
 
 Review the affected areas. A job loss may require Cash Flow, Reserve, and retirement timing. A custody-provider change requires Protect and Estate. It does not automatically reopen every decision.
 
-== PDF AND ENCRYPTED BACKUP HAVE DIFFERENT JOBS ==
+== PDF AND ENCRYPTED EXPORT HAVE DIFFERENT JOBS ==
 
 The annual PDF is the readable snapshot of what the plan said after the review.
 
-The encrypted backup is the data-recovery file used by the app's supported restore process.
+The encrypted export is a passphrase-protected copy of the planning data for secure storage and portability. It is not the family-facing report.
 
-A PDF cannot restore the plan. A backup is not the family-facing report.
+Orange Plan currently allows the encrypted export to be created, but in-app plan restore is temporarily unavailable. So do not describe the file as a restore you can use today, and do not delete the current plan or source records because an export exists.
 
-Store both under the household's document and security plan. Neither contains a Bitcoin wallet backup or other secret.
+Keep the passphrase separate from the file under the household's security plan. Neither the PDF nor the encrypted export should contain a Bitcoin wallet backup or another secret.
+
+When restore becomes available again, verify the current process in the app before teaching or relying on it.
 
 == LEAVE WITH ONE TO THREE ACTIONS ==
 
@@ -131,7 +133,7 @@ Choose the recurring monthly review date, annual review window, off-cycle trigge
 
 == PUT IT IN ORANGE PLAN ==
 
-Use transaction updates and the source pages to keep facts current. Recheck after material changes. Save the dated report and encrypted backup after the annual review.
+Use transaction updates and the source pages to keep facts current. Recheck after material changes. Save the dated report and encrypted export after the annual review, and verify the current restore status before relying on an import process.
 
 == YOU ARE DONE WHEN ==
 
