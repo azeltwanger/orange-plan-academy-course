@@ -1,206 +1,138 @@
 TELEPROMPTER SCRIPT — segment 9.1
 9.1 Keep the plan current without rebuilding it
-~11 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
+~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
-So in this lesson we're going to build the review process that keeps Orange Plan useful after the first plan is finished.
+The plan stays useful when the facts stay current and the decisions are reviewed at the right time.
 
-The goal is not to rebuild the financial plan every month.
+That does not mean rebuilding everything every month.
 
-The goal is to keep the facts current, notice when a decision has become stale, and leave each review with no more than a few actions the household is actually going to complete.
+Use a narrow monthly update for facts, one full annual review for strategy, and an off-cycle review when a major life change affects a specific part of the plan.
 
-When the data is already organized, the monthly pass can be very quick. When transactions need to be reviewed or a real change happened, it is going to take longer. I do not think the course needs to promise that every review takes exactly 1 minute or exactly 5 minutes.
+== TWO TYPES OF DRIFT ==
 
-The useful standard is that the monthly pass is small enough to repeat and the annual review is thorough enough to catch the decisions that no longer fit.
+**Data drift** means the strategy may still fit, but the facts are stale.
 
-== THE PLAN DRIFTS IN TWO DIFFERENT WAYS ==
+Income changed. Spending moved. A Bitcoin purchase is missing. A debt was paid off. A contribution changed. A life event moved.
 
-The first type is data drift.
+**Decision drift** means the data is current, but the strategy no longer fits.
 
-Income changed and the old amount is still saved. Spending moved higher over the last 6 months. A Bitcoin purchase never made it into the holding. A loan was paid off. A contribution increased. A life event moved to another year.
+The household is closer to retirement. The taxable Bridge is behind. A debt changed from fixed to variable. The spouse is no longer comfortable with the custody setup. Retirement spending changed.
 
-The strategy may still be fine. The facts underneath it are stale.
+Handle data drift in the monthly pass. Handle decision drift in the annual review or after a major life event.
 
-The second type is decision drift.
-
-The data is correct, but the target or strategy no longer fits.
-
-The household is closer to retirement and wants a lower Bitcoin allocation. A debt that was worth keeping at a low fixed rate is now variable or refinanced. The taxable Bridge is behind. The spouse is no longer comfortable with the custody design. The retirement-spending target changed.
-
-Data drift is handled in the monthly pass. Decision drift is usually handled in the annual review or after a major life change.
-
-Keeping those separate is what prevents every transaction update from becoming a complete re-planning session.
+That boundary keeps a transaction update from becoming a complete re-planning session.
 
 == THE MONTHLY PASS HAS THREE JOBS ==
 
-The first job is to update what actually happened.
+### 1. Record what happened
 
-Add or review new buys, sells, transfers, fees, and contributions. Update balances that do not price automatically. Confirm any new debt or payoff. Review linked or imported transactions before they become plan data.
+Review new buys, sells, transfers, fees, contributions, debt payments, and balances that do not update automatically.
 
-A transfer between accounts you own should remain a transfer rather than turning into a sale and new purchase. A balance checkpoint is not automatically a transaction. If a record is held back because the app cannot identify it safely, review it rather than forcing it into the plan.
+A transfer between accounts owned by the same taxpayer should remain a transfer rather than becoming a sale and new purchase. A balance checkpoint is not automatically a transaction.
 
-The second job is to update changed facts.
+Review any imported or linked item the app holds back instead of forcing uncertain data into the plan.
 
-Did income change? Did normal spending change, or was it one unusual month? Did a recurring contribution start or stop? Did a debt payment change? Did a life event become more certain, move, or disappear?
+### 2. Update changed facts
 
-The useful test is whether the change belongs in the ongoing baseline.
+Ask whether the change belongs in the ongoing baseline.
 
-One expensive vacation does not automatically become the new monthly spending number. Six months of consistently higher living costs probably deserves a review.
+- A raise is recurring income; a one-time bonus is not.
+- Six months of higher living costs may be a new spending level; one trip is not.
+- A committed move becomes a life event and eventually a new baseline; a possible move remains a Scenario.
+- A new recurring contribution changes the route; one lump sum does not become a monthly amount.
 
-A one-time bonus is not recurring income. A raise is.
+### 3. Recheck the affected result
 
-A possible move remains a Scenario. A move the household has committed to becomes a life event and eventually a new baseline.
+After a material input changes, recheck the plan and the page that owns the decision.
 
-The third job is to review what the updated facts changed.
+A spending increase should affect surplus, reserve funding, retirement need, confidence, and earliest date.
 
-If a material plan input changed, recheck the retirement result and look at the pages that own the affected decision.
+A debt payoff should affect cash flow, debt ratios, and available routing.
 
-A spending increase should change surplus, reserve funding, retirement cash need, confidence, and the earliest target-qualified date.
+A contribution change should affect future account balances and the projection.
 
-A debt payoff should increase available cash flow and change the debt ratios.
+When a downstream result does not move as expected, trace the number to its source before creating a new strategy.
 
-A new contribution should change the account balances and future projection.
+== DO NOT USE THE MONTHLY PASS TO CHASE THE SCREEN ==
 
-If the downstream result did not move when it should have, or it moved in a way you cannot explain, trace the number to its source before making a new decision.
+Do not raise the Bitcoin return assumption because price had a strong month.
 
-== WHAT DOES NOT BELONG IN THE MONTHLY PASS ==
+Do not lower the confidence target because the latest result feels uncomfortable.
 
-Do not change the Bitcoin return assumption because the price had a strong or weak month.
+Do not reset the retirement paycheck after one market move.
 
-Do not change the confidence target because you dislike the latest percentage.
+Do not turn current allocation drift into an automatic taxable trade.
 
-Do not redesign the withdrawal policy because of one headline.
+Market value is still real data. A large Bitcoin move changes current allocation, drawdown dollars, custody stakes, loan risk, and how much of the plan is funded today.
 
-Do not move every allocation target because the current mix drifted with the market.
+Review those effects. Change a long-term assumption or policy only when the underlying view or household decision changed.
 
-The current market value is still real data. A large price change can change the current allocation, the dollar loss in a drawdown, custody stakes, and the amount of the plan funded today.
+== RUN THE DEMO MONTHLY PASS ==
 
-Review those results. Do not quietly change the long-term thesis or policy just to make the output return to the number you preferred.
+This month, the demo household has three updates:
 
-The question is whether the underlying decision changed, not whether the screen moved.
+- the scheduled $1,500 taxable Bridge and investment transfer occurred,
+- the $500 extra auto-loan payment occurred,
+- and spending was $1,200 above normal because of a family trip.
 
-== RUN THE DEMO HOUSEHOLD'S MONTHLY PASS ==
+The investment and debt records are confirmed.
 
-The demo household has three updates this month.
+The trip remains in the transaction history but does not replace the $80,000 normal-spending baseline because it was a one-time event.
 
-They bought another $1,500 of Bitcoin.
+The auto balance and payoff timing improve. The current holdings move according to the saved contribution instructions. The reliable monthly surplus remains $4,000 because the scheduled routing already came from that amount.
 
-The car loan received the scheduled extra payment.
+After the updates, the household rechecks the plan. A small result change is expected; no new strategy is required.
 
-And spending was $1,200 above normal because of a family trip.
+A successful monthly review can end with zero strategy changes. Its purpose is accuracy, not manufacturing homework.
 
-The Bitcoin purchase and debt payment are entered or confirmed.
+== THE ANNUAL REVIEW FOLLOWS THE PLAN-BUILDING ORDER ==
 
-The trip stays in transaction history, but it does not automatically replace the normal spending baseline because it was a planned one-time event.
+Once a year, use current source documents and review:
 
-The current allocation moves slightly toward Bitcoin. The car balance and payoff timeline improve. The reliable monthly surplus does not change.
+1. **Baseline and assumptions** — household, accounts, holdings, debts, income, spending, life events, Social Security, pension, and assumptions
+2. **Cash Flow and Reserve** — normal and bare-bones spending, reserve status, and reliable routing amount
+3. **Debt** — balances, rates, treatments, DTI, DTA, and household ceiling
+4. **Allocation and Contributions** — current and target mix, dollar drawdown, Reserve, Bridge, Legacy, and next-dollar route
+5. **Tax** — basis, current gains or losses, future windows, withholding or estimated-payment questions, and year-end actions
+6. **Retirement Income** — spending, income floor, Bridge, source strategy, annual spending-policy review, and cash refill
+7. **Protect** — custody, recovery, beneficiaries, legal roles, heir letter, insurance, and professional contacts
+8. **Scenarios and Report** — rerun the useful questions, read the finished plan, and save the annual record
 
-The household rechecks the plan only after the updates are in. The retirement result barely moves, which makes sense because the changes are small relative to the entire plan.
+Complete tax-sensitive review with enough time left in the year to act.
 
-The monthly review ends with no strategy change and one action: confirm that next month's normal spending is back in range.
+== USE TARGETED OFF-CYCLE REVIEWS ==
 
-That is a successful review. The purpose is not to manufacture homework.
+Marriage, divorce, birth, death, major diagnosis, job loss, business sale, retirement decision, move, inheritance, large debt, property purchase, custody change, or material spending change can justify a review before the annual date.
 
-== THE ANNUAL REVIEW GOES THROUGH THE PLAN IN ORDER ==
+Review the affected areas. A job loss may require Cash Flow, Reserve, and retirement timing. A custody-provider change requires Protect and Estate. It does not automatically reopen every decision.
 
-Once a year, use current source documents and review the decisions in the same order the plan was built.
+== PDF AND ENCRYPTED BACKUP HAVE DIFFERENT JOBS ==
 
-Start with the baseline.
+The annual PDF is the readable snapshot of what the plan said after the review.
 
-Do the accounts, holdings, debts, income, spending, household information, life events, Social Security, pension, and assumptions still match reality?
+The encrypted backup is the data-recovery file used by the app's supported restore process.
 
-Then review Cash Flow and Reserve.
+A PDF cannot restore the plan. A backup is not the family-facing report.
 
-What was the actual normal spending level? What is the bare-bones number now? Is the reserve at its target? Is the monthly routing amount repeatable?
-
-Then Debt.
-
-Do the balances, rates, and payments match the provider records? Is every debt still receiving the intended treatment? Are DTI, DTA, and the household ceiling still acceptable?
-
-Then Allocation and Contributions.
-
-What is the current Bitcoin percentage at today's balance? What would a 75% drawdown cost in dollars now? Are Reserve, Bridge, and Legacy funded for their jobs? Does the next-dollar route still send money where the plan is behind?
-
-Then Tax.
-
-Is cost basis still complete? Are there gains, losses, conversion windows, required distributions, withholding, estimated payments, or year-end actions that need professional review? Do this with enough time left in the tax year to act.
-
-Then Retirement Income.
-
-Does the spending target still match the intended lifestyle? Have Social Security, pension, part-time work, healthcare, or bridge years changed? Is the annual spending-policy review due? Does the first-year funding strategy still work without depending on a loan or sale the household no longer wants?
-
-Then Protect.
-
-Do custody, recovery, beneficiaries, executor, legal documents, heir letter, insurance, and professional contacts still match the people and providers in the real world? Has the Bitcoin balance outgrown the custody setup? Has the recovery process actually been tested since a material change?
-
-Finally, test the plan and save the annual record.
-
-Run the scenarios that still answer a useful question. Read the report. Save the PDF snapshot and the encrypted data backup for their separate purposes.
-
-== THE PDF AND THE BACKUP DO DIFFERENT JOBS ==
-
-The PDF is the readable annual snapshot.
-
-It shows what the plan said at that point in time and gives the household, spouse, or professional a document to review.
-
-The encrypted backup is the data-recovery file used to restore the plan if the account or browser data is lost under the app's supported process.
-
-A PDF is not a restorable backup. An encrypted data export is not a readable family plan.
-
-Save both under the household's security and document-storage plan. Neither should contain a Bitcoin wallet backup or other secret.
-
-== REVIEW TRIGGERS OUTSIDE THE NORMAL CADENCE ==
-
-Some events justify an off-cycle review.
-
-Marriage, divorce, birth, death, a major diagnosis, job loss, business sale, retirement decision, move, inheritance, large debt, property purchase, custody change, or a material change in intended spending.
-
-A major market move may justify rechecking current allocation, custody stakes, borrowing risk, and plan confidence. It does not by itself prove the return assumption, target allocation, or spending policy should change.
-
-The event tells you which part of the plan to review. It does not require reopening every decision.
-
-== USE THE NUMBER-PROVENANCE HABIT ==
-
-For every surprising result, ask the four questions from the course.
-
-What does the number mean?
-
-What is it calculated from?
-
-Where is the source edited?
-
-And what else should move with it?
-
-This makes the annual review much faster because the household is not scanning the entire app trying to guess which screen owns the number.
-
-If the confidence result fell, list the changed inputs before deciding the plan needs a new strategy.
-
-If the reserve months fell, check whether the cash balance changed, the spending basis changed, or the target months changed.
-
-If taxes rose, open the year's income, gains, withdrawals, conversions, and state rather than changing one effective rate.
+Store both under the household's document and security plan. Neither contains a Bitcoin wallet backup or other secret.
 
 == LEAVE WITH ONE TO THREE ACTIONS ==
 
-A review is complete when it produces a short prioritized list.
+A review ends with a short prioritized list.
 
-One action may be to fix a missing record.
+One action may fix missing data. One may implement a decision. One may be a defined question for a CPA, attorney, custody professional, or insurance professional.
 
-One may be to implement a decision.
-
-One may be a defined question for a CPA, attorney, custody professional, or insurance professional.
-
-A 20-item list with no owner or date is not a useful output. Put lower-priority issues into the next review and complete the items that materially improve the plan now.
+Give each action an owner and date. A long list with no ownership is not a finished review.
 
 == YOUR DECISION ==
 
-Your decision is the recurring monthly review date, the annual review window, the life events that trigger an off-cycle review, and the maximum number of actions you will carry out of one review.
+Choose the recurring monthly review date, annual review window, off-cycle triggers, and the maximum number of actions carried out of one review.
 
 == PUT IT IN ORANGE PLAN ==
 
-Use Dashboard transaction updates and the source pages to keep the facts current. Recheck the plan after material inputs change.
-
-Use the annual report and encrypted backup after the full review rather than treating either one as a replacement for current plan data.
+Use transaction updates and the source pages to keep facts current. Recheck after material changes. Save the dated report and encrypted backup after the annual review.
 
 == YOU ARE DONE WHEN ==
 
-The monthly and annual reviews are on the calendar, you can state what belongs in each one, the plan has one to three current actions with owners and dates, and the annual PDF and encrypted backup are stored under the household's document plan.
+The review dates are scheduled, you can state what belongs in each review, and the current action list contains no more than three owned and dated items.

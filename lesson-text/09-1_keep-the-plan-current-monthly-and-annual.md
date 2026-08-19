@@ -1,52 +1,44 @@
 # Keep the plan current without rebuilding it
 
-Use two separate review rhythms:
+## Two types of drift
 
-- **Monthly:** update facts and confirm what changed
-- **Annual:** revisit the planning decisions and save the annual record
+- **Data drift:** the strategy may still fit, but the facts are stale
+- **Decision drift:** the data is current, but a target or strategy no longer fits
 
-The monthly pass may take only a few minutes when data is current and longer when transactions or real changes need review. The goal is repeatability, not one promised duration.
+Use the monthly pass for data drift. Use the annual or a targeted off-cycle review for decision drift.
 
-## Two kinds of drift
+## Monthly pass
 
-### Data drift
+### Record what happened
 
-The strategy still fits, but income, spending, balances, transactions, debts, contributions, or life events are stale.
+Review transactions, transfers, fees, contributions, debt payments, and manual balances. Keep transfers and balance checkpoints from becoming fake purchases or sales.
 
-### Decision drift
+### Update changed facts
 
-The data is correct, but a target or strategy no longer fits the household.
+Separate recurring changes from one-time events:
 
-Handle data drift monthly. Review decision drift annually or after a major life change.
-
-## The monthly pass
-
-### 1. Update what happened
-
-Review buys, sells, transfers, fees, contributions, balances, new debts, and payoffs. Keep transfers and balance checkpoints from becoming fake purchases or sales.
-
-### 2. Update changed facts
-
-Ask whether a change belongs in the ongoing baseline:
-
-- Raise versus one-time bonus
+- Raise versus bonus
 - New spending level versus unusual month
 - Committed event versus possible Scenario
-- Recurring contribution versus one-time amount
+- Recurring contribution versus lump sum
 
-### 3. Review the downstream result
+### Recheck the affected result
 
-Recheck after material input changes. Trace any surprising output to the source before changing the strategy.
+Trace surprising outputs back to their source rather than creating a new strategy immediately.
 
-## Do not use the monthly pass to chase the screen
+## Do not chase the screen
 
-A price move can change current allocation, drawdown dollars, custody stakes, borrowing risk, and plan funding. Review those effects.
+A market move changes current allocation, drawdown dollars, custody stakes, loan risk, and current funding. It does not automatically change the return assumption, confidence target, allocation policy, or retirement paycheck.
 
-Do not change a long-term return assumption, confidence target, allocation policy, or spending rule merely to restore a preferred result.
+## Demo monthly update
 
-## The annual review
+- $1,500 scheduled taxable Bridge and investment transfer
+- $500 extra auto-loan payment
+- $1,200 one-time family trip above normal spending
 
-Review in the order the plan was built:
+The first two follow the saved route. The trip remains a one-time event rather than replacing the $80,000 normal-spending baseline.
+
+## Annual review order
 
 1. Baseline and assumptions
 2. Cash Flow and Reserve
@@ -54,31 +46,20 @@ Review in the order the plan was built:
 4. Allocation and Contributions
 5. Tax
 6. Retirement Income
-7. Custody, Estate, and Insurance
-8. Scenarios, report, and backup
-
-Complete tax-sensitive review early enough in the year to act before applicable deadlines.
-
-## PDF versus encrypted backup
-
-- **PDF:** readable annual snapshot
-- **Encrypted backup:** data-recovery file for the app's supported restore process
-
-One does not replace the other. Neither should contain Bitcoin secrets.
+7. Protect
+8. Scenarios and Report
 
 ## Off-cycle triggers
 
-Examples include marriage, divorce, birth, death, diagnosis, job change, business sale, retirement decision, move, inheritance, large debt, property purchase, custody change, or material spending change.
+Review the affected planning areas after major family, health, work, business, property, debt, custody, or spending changes.
 
-Review the affected planning area rather than automatically rebuilding everything.
+## PDF versus backup
 
-## Number-provenance questions
+- PDF: readable annual snapshot
+- Encrypted backup: restorable plan data
 
-1. What does the number mean?
-2. What is it calculated from?
-3. Where is the source edited?
-4. What else should move with it?
+One does not replace the other. Neither contains Bitcoin secrets.
 
 ## Done when
 
-Both review rhythms are scheduled, each review ends with no more than one to three owned actions, and the annual PDF and encrypted backup are stored under the household document plan.
+Monthly and annual reviews are scheduled and each review leaves no more than one to three owned and dated actions.
