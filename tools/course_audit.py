@@ -17,6 +17,9 @@ from pathlib import Path
 from typing import Iterable
 
 WORDS_PER_MINUTE = 155
+# Script headers include natural pauses, visual holds, and worked-example pacing.
+# The raw word-count estimate intentionally excludes those production moments.
+RUNTIME_WARNING_TOLERANCE_MINUTES = 3.5
 CORE_FILENAME = re.compile(r"^(?P<module>\d{2})-(?P<lesson>\d+)_[^/]+\.md$")
 WORD = re.compile(r"[A-Za-z0-9]+(?:[’'][A-Za-z0-9]+)?(?:-[A-Za-z0-9]+)*")
 DECLARED_RUNTIME = re.compile(r"~\s*(\d+(?:\.\d+)?)\s*min", re.IGNORECASE)
@@ -158,9 +161,9 @@ def audit_script(root: Path, path: Path) -> ScriptResult:
         critical.append("missing current provenance label")
     if declared is None:
         warnings.append("missing declared runtime")
-    elif abs(declared - estimated) > 1.75:
+    elif abs(declared - estimated) > RUNTIME_WARNING_TOLERANCE_MINUTES:
         warnings.append(
-            f"declared runtime differs from estimated by {abs(declared - estimated):.1f} minutes"
+            f"declared runtime differs from raw word estimate by {abs(declared - estimated):.1f} minutes"
         )
     if estimated > 11.5:
         warnings.append("estimated runtime exceeds 11.5 minutes")
@@ -254,7 +257,7 @@ def markdown_report(results: list[ScriptResult]) -> str:
             "",
             "## Counting method",
             "",
-            "The estimate counts spoken words after the script header and excludes section labels, production cues, and editor notes. It does not add time for screen pauses, demonstrations, or ad-libbed examples.",
+            "The raw estimate counts spoken words after the script header and excludes section labels, production cues, and editor notes. Header runtimes can be longer because they include visual holds, screen pauses, and natural teaching pace.",
             "",
         ]
     )
