@@ -1,72 +1,55 @@
 # Cost basis: what you paid and how to rebuild it
 
-Cost basis is generally the tax investment in an asset. It is needed to calculate the gain or loss when the asset is sold or otherwise disposed of.
+## Basic calculation
 
-## The basic calculation
+**Amount realized − basis of units sold = capital gain or loss**
 
-**Amount realized − basis of the units sold = capital gain or loss**
+Final tax also depends on holding period, other income and gains, filing status, state, and current law.
 
-The final tax also depends on holding period, filing status, other income and gains, state, and the tax rules for the year.
+## Bitcoin lots
 
-## Bitcoin is made of tax lots
+Each acquisition can have its own date, time, quantity, basis, and holding period.
 
-Each acquisition can have its own:
-
-- Date and time
-- Quantity
-- Purchase price or fair market value
-- Acquisition costs
-- Holding period
-
-Total basis is the sum of the basis in the units still owned. The basis used for a sale depends on the units identified as sold under current rules.
+An average purchase price may help with a rough estimate but may not support filing or specific identification.
 
 ## Reconcile quantity first
 
-List the current Bitcoin quantity at every exchange, broker, IRA, collaborative-custody account, and wallet. Compare the total with the transaction history.
+Total current Bitcoin across every account and wallet should reconcile with the transaction history. Keep unexplained sales, fees, transfers, gifts, or missing wallets visible until resolved.
 
-A difference may represent a missing sale, fee, transfer, gift, lost wallet, or transaction.
+## Source records
 
-## Gather source records
+- Exchange and broker exports
+- Prior Forms 8949, Schedule D, statements, and tax reports
+- Basis-software files
+- Wallet addresses and transaction IDs
+- Bank, email, payroll, and business records when needed
 
-1. Exchange and broker transaction exports
-2. Prior tax reports, Forms 8949, Schedule D, and basis-software files
-3. Wallet addresses and transaction IDs
-4. Bank statements, confirmations, email, payroll, or business records
+Keep originals.
 
-Preserve asset type, acquisition date and time, units, US-dollar value, basis, and disposition records.
+## Transfers
 
-## Keep transfers as transfers
+A movement between accounts owned by the same taxpayer is generally not a sale to oneself. Keep basis and holding period attached to the units. Confirm ownership and entity differences with the tax professional.
 
-Moving Bitcoin between accounts you own generally carries the units, basis, and holding period forward. Match the outgoing and incoming records so the movement is not mistaken for a sale and new purchase.
+## Unknown basis
 
-## Keep unknown basis visible
+Do not invent a value. A zero-basis assumption is a labelled planning test, not automatically the filing answer.
 
-Do not invent a value. Mark unresolved lots and treat tax projections involving those units as incomplete.
+## Lot identification
 
-A zero-basis assumption or reconstructed estimate is a tax position that should be reviewed with the tax professional.
+A planned FIFO/HIFO comparison must match the real provider or wallet identification and documentation rules. Verify the current process before the disposition.
 
-## Lot identification must match execution
+## Demo record
 
-A FIFO, HIFO, or other app comparison changes the tax result only when the actual sale is executed and documented under the current identification rules for the broker account or unhosted wallet.
+- 1.25 BTC complete, $48,000 known basis
+- 0.40 BTC reconstruction pending from export
+- 0.10 BTC records missing
+- Total quantity: 1.75 BTC
 
-Verify the process before the sale.
+## Where the numbers come from
 
-## Where these numbers come from
-
-### Total basis
-
-- **What it means:** tax investment in units still owned
-- **Calculated from:** acquisition lots and later adjustments
-- **Edit source:** transaction and lot records
-- **This affects:** gain, tax, lot selection, withdrawal planning, and net sale proceeds
-
-### Unrealized gain
-
-- **What it means:** current value minus known basis
-- **Calculated from:** quantity × price compared with lot basis
-- **Edit source:** holding and lot records
-- **This affects:** estimated tax but does not create tax until a taxable disposition
+- **Basis:** acquisition lots and adjustments
+- **Unrealized gain:** current value minus known basis
 
 ## Done when
 
-Current quantity reconciles, known lots have complete records, unresolved units remain flagged, and the planned identification method can be documented in the real transaction.
+Quantity reconciles, complete lots are documented, unresolved units are visible, and the planned lot method can be executed.

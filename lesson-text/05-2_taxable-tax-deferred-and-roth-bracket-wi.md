@@ -1,84 +1,53 @@
 # Read the three tax buckets and find the useful windows
 
-The tax plan is a year-by-year roadmap rather than one permanent tax percentage.
-
-## The three buckets
+## Three tax pools
 
 ### Taxable
 
-- Direct Bitcoin, brokerage, cash interest, and other holdings outside retirement wrappers
-- Sales and other dispositions may create capital gain or loss
-- Interest and dividends may create current income
+Direct Bitcoin, brokerage, cash interest, and other assets outside retirement wrappers. Sales and other taxable dispositions may create gains or losses; interest and dividends can create current income.
 
-### Traditional or tax-deferred
+### Traditional / tax-deferred
 
-- Traditional workplace plans and IRAs
-- Contributions may reduce current taxable income under the account rules
-- Taxable withdrawals and Roth conversions generally add ordinary income
-- Required distributions can apply later
+Pre-tax or deductible contributions under account rules, tax-deferred growth, ordinary-income treatment for taxable withdrawals and conversions, and possible future required distributions.
 
 ### Roth
 
-- After-tax contributions
-- Qualified withdrawals can be tax-free
-- Under current federal rules, Roth IRAs and designated Roth accounts generally have no lifetime RMDs while the owner is alive; beneficiary rules still apply
+After-tax contributions and possible tax-free qualified withdrawals. Under current federal rules, owners of Roth IRAs and designated Roth employer accounts generally do not take lifetime RMDs; inherited-account rules still apply.
 
-## Look for the low-income window
+## Tax timeline
 
-A gap can exist after earned income stops but before Social Security, pensions, or required distributions add more taxable income.
+Review working-income years, lower-income retirement years, Social Security and pension starts, and the applicable RMD stage.
 
-Possible uses include:
+## Low-income window
 
-- Roth conversion
-- Long-term gain realization
-- Other bracket-sensitive tax decisions
+A lower-income period can create room for a Roth conversion, gain realization, or another bracket-sensitive choice.
 
-A Roth conversion is generally included in gross income in the year converted. Compare the current marginal cost with future withdrawals, RMDs, state tax, Medicare-related costs, and the cash available to pay tax.
+Core identifies the window. Advanced and the CPA determine the amount and execution.
 
-## Required distributions
+## RMD wording
 
-Under current federal law, the applicable RMD age is generally:
-
-- **73** for people reaching 73 before 2033
-- **75** for people who reach 74 after 2032
-
-The law can change. Use the current app rules and professional review for the actual plan.
+The applicable age depends on birth year and current law. Keep the current age table in maintained reference rather than evergreen video.
 
 ## Capital gains
 
-Long-term gains use a separate federal rate structure that interacts with taxable income. State tax and possible net investment income tax can change the result.
+Long-term gains use a separate federal structure that interacts with taxable income. State tax and possible NIIT can change the result.
 
-The same gain may have a different cost in a high-income working year and a lower-income retirement year.
+## App versus return
 
-## The app estimate is not a tax return
+Orange Plan is a planning estimate and may not include every deduction, credit, carryforward, business or partnership item, outside income source, or recent law change.
 
-The model may not include every business deduction, credit, carryforward, partnership item, outside income source, or recent law change.
+## Review outcome
 
-Use it to identify the year and decision. Use the CPA and current tax data to execute.
+- Fix missing data
+- Take one current action
+- Send one defined CPA question
+- Deliberately pass
 
-## Finish with one result
+## Where the numbers come from
 
-1. Fix missing data
-2. Take one current-year action
-3. Send one defined comparison to the CPA
-4. Deliberately pass after reviewing the roadmap
-
-## Where these numbers come from
-
-### Estimated tax
-
-- **What it means:** projected federal and state tax for the modeled year
-- **Calculated from:** filing status, state, ordinary income, gains, modeled deductions, Social Security, pensions, withdrawals, and conversions
-- **Edit source:** the underlying plan inputs and saved strategies
-- **This affects:** surplus, spending need, withdrawals, confidence, and earliest date
-
-### Traditional balance at RMD age
-
-- **What it means:** money subject to future required-distribution rules
-- **Calculated from:** balances, contributions, returns, withdrawals, and conversions
-- **Edit source:** account and strategy records
-- **This affects:** future taxable income and conversion-window value
+- **Estimated tax:** current modeled income, gains, deductions, state, withdrawals, and strategies
+- **Traditional balance at RMD age:** balance, contributions, returns, withdrawals, and conversions
 
 ## Done when
 
-The three tax buckets are accurate, the estimate traces to its inputs, and the review ends with one action, one defined professional question, or a deliberate pass.
+The three pools are accurate and the review ends with one action, one professional question, or a deliberate pass.

@@ -1,160 +1,127 @@
 TELEPROMPTER SCRIPT — segment 5.2
 5.2 Read the three tax buckets and find the useful windows
-~11 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + CPA review pending
+~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + CPA review pending
 ============================================================
 
-So in this lesson we're going to organize the plan into taxable, tax-deferred, and Roth money, and then find the years where the household may have a useful tax decision.
+The tax decision is not always “pay the least tax this year.”
 
-The goal is not to make every tax number as low as possible this year.
+It is understanding which pool creates income in each year and whether using some tax capacity now can reduce a larger or less flexible bill later.
 
-The goal is to understand when income is being recognized, which account is creating it, and whether paying some tax now can reduce a larger tax later.
+== THE THREE TAX POOLS ==
 
-== THE THREE TAX BUCKETS ==
+**Taxable** includes direct Bitcoin, brokerage holdings, cash interest, and other assets outside a retirement wrapper.
 
-The first bucket is taxable.
+Appreciation alone generally does not create tax. A sale or other taxable disposition can create a gain or loss. Interest and dividends can create current income without a sale.
 
-This includes direct Bitcoin, a taxable brokerage account, bank interest, and other holdings outside a retirement wrapper.
+**Traditional or tax-deferred** includes workplace plans and IRAs that receive pre-tax or deductible money under their account and eligibility rules.
 
-You generally do not owe tax just because the market value rises. A taxable sale or other disposition can create a gain or loss based on the amount realized and the basis of the units sold. Interest and dividends can create current income even when nothing is sold.
+The balance grows without annual tax inside the account. Taxable withdrawals and Roth conversions generally create ordinary income. Required distributions can apply later.
 
-The second bucket is traditional or tax-deferred.
+**Roth** uses after-tax contributions and can provide tax-free qualified withdrawals.
 
-This can include a traditional 401(k), 403(b), IRA, SEP, SIMPLE, or another pre-tax arrangement.
+Under current federal rules, owners of Roth IRAs and designated Roth employer accounts generally do not take lifetime required distributions, while inherited-account and beneficiary rules still apply.
 
-The contribution may reduce current taxable income or be excluded from wages under the account rules. The money grows without annual tax inside the account. Taxable withdrawals and Roth conversions generally add ordinary income when the money comes out or is converted.
+The three pools create flexibility because the same dollar of spending can produce a different tax result depending on the source.
 
-The third bucket is Roth.
+== READ TAXES AS A TIMELINE ==
 
-Roth contributions are made with after-tax money. Qualified distributions can be tax-free.
+The household does not have one permanent tax rate.
 
-Under current federal rules, Roth IRAs and designated Roth accounts generally do not require lifetime distributions while the owner is alive, although beneficiary rules still apply and the details can change.
+Tax changes with earned and business income, filing status, state, interest, dividends, gains, Social Security, pension, withdrawals, conversions, and required distributions.
 
-The three buckets give the household flexibility because the same $1 of spending can create a different tax result depending on where it comes from.
+A high-income working year may leave little room for additional ordinary income.
 
-== THE TAX ROADMAP IS YEAR BY YEAR ==
+After work ends, ordinary income may fall even while the household spends from taxable assets.
 
-Taxes are not one fixed percentage attached to the household forever.
+Social Security and pensions can begin later. Required distributions may add income after that.
 
-The result changes with earned income, business income, filing status, state, deductions, interest, dividends, realized gains, Social Security, pensions, withdrawals, conversions, and required distributions.
+The useful planning window often exists between those stages.
 
-That is why Orange Plan projects the tax picture by year.
+== IDENTIFY THE LOW-INCOME WINDOW ==
 
-A high-income working year may have little room for extra ordinary income.
+The demo household retires before its later Social Security income and long before required distributions.
 
-The first year after retirement may have no paycheck but still have taxable Bitcoin sales.
+That can create years where part of a traditional balance is converted to Roth or withdrawn at a lower marginal rate than the household expects later.
 
-Social Security may begin later.
+A Roth conversion generally adds the taxable converted amount to gross income in the conversion year.
 
-Required distributions may add income after that.
+It can be useful when the current marginal cost is lower, future required distributions may be large, or more Roth flexibility is valuable.
 
-The useful tax decision is often in the gap between those events.
+It can be harmful when it fills a higher bracket, increases state tax, affects Medicare-related costs or another income-based item, uses cash needed elsewhere to pay tax, or converts at a rate that is not actually lower than the alternative.
 
-== THE LOW-INCOME WINDOW ==
+Core identifies the window. The Advanced Library and CPA size the conversion.
 
-Let's use our demo household.
+== REQUIRED DISTRIBUTIONS ARE A FUTURE CONSTRAINT ==
 
-They retire before Social Security begins and before required distributions from traditional accounts.
+Traditional retirement money is subject to required-distribution rules under current federal law.
 
-During the working years, earned income fills much of the ordinary-income brackets.
+The applicable beginning age depends on birth year and the law in effect. Keep the current age table in maintained lesson text or the app rather than an evergreen sentence that will eventually be wrong.
 
-After work stops, ordinary income can fall significantly even though the household is spending from taxable assets.
+RMDs generally add taxable income whether or not the household needed the cash for spending.
 
-That can create a window for a Roth conversion, realizing a long-term gain at a favorable rate, or another tax decision.
+A large future traditional balance can affect tax, Social Security taxation, Medicare-related costs, and the room available for other gains or withdrawals.
 
-A Roth conversion moves money from a traditional account to a Roth account. The taxable amount converted is generally included in gross income for that year.
+That does not make every traditional contribution a mistake. The household may have received valuable deductions and employer money for decades. The plan compares the benefit on the way in with the tax and flexibility on the way out.
 
-The conversion can be useful when the current marginal rate is lower than the rate the household expects later, when the traditional balance is likely to create large required distributions, or when more Roth flexibility is valuable.
+== CAPITAL GAINS USE A DIFFERENT STRUCTURE ==
 
-It can be harmful when it fills a higher bracket, increases state tax, changes Medicare premiums or another income-based benefit, uses cash needed elsewhere to pay the tax, or converts money at a rate that is not actually lower than the future alternative.
+Long-term gains use a separate federal rate structure that interacts with taxable income. State tax and possible net investment income tax can change the result.
 
-So the conversion amount is not whatever the account balance happens to be. It is the amount that fits the year's plan after the other income and tax effects are included.
+The same Bitcoin gain can have a different cost in a high-income working year and a lower-income retirement year.
 
-Detailed conversion design belongs in the Advanced Library and with the CPA. The core lesson is to identify whether the window exists.
+Gain or loss harvesting may be useful when the taxable lots and current law create a real opportunity. Detailed execution, digital-asset versus security rules, lot identification, and state treatment belong in Advanced and with the CPA.
 
-== REQUIRED DISTRIBUTIONS CREATE A FUTURE CONSTRAINT ==
+== THE APP ESTIMATE IS NOT THE TAX RETURN ==
 
-Traditional retirement money cannot stay sheltered indefinitely under current law.
+If filing status, state, basis, income, Social Security, pension, conversion, or withdrawal strategy is wrong, the projected tax can be wrong.
 
-The applicable required-beginning age depends on the owner's birth year and the rules in effect. Under current federal law, the applicable age is generally 73 for people reaching 73 before 2033 and 75 for people who reach 74 after 2032.
+The app may not include every business deduction, credit, carryforward, partnership item, charitable strategy, outside income source, or recent law change.
 
-RMDs are based on the prior year-end balance and an IRS life-expectancy factor. The distribution generally adds taxable income whether or not the household needed the money for spending.
+Use Orange Plan to find the year and the decision. Use current records and the tax professional to execute it.
 
-A large traditional balance can therefore create higher taxable income later, make more Social Security taxable, raise Medicare-related costs, or reduce flexibility for realizing gains.
+== END WITH ONE RESULT ==
 
-That does not mean every traditional contribution was a mistake. The household may have received a valuable deduction and employer match for decades.
+A core tax review ends with one of four outcomes:
 
-It means the plan needs to compare the tax saved during contributions with the tax created during withdrawals and required distributions.
+1. Fix missing data.
+2. Take one current-year action.
+3. Send one defined comparison to the CPA.
+4. Deliberately pass because the year does not contain a useful move.
 
-== CAPITAL GAINS USE A DIFFERENT RATE STRUCTURE ==
+A pass means the roadmap was reviewed and no action was worth taking. It does not mean the tax page was ignored.
 
-Long-term capital gains are not taxed exactly like ordinary income at the federal level.
-
-The rate depends on taxable income and the other gains stacked into the year. Some long-term gains may fall into a 0% federal bracket, while additional gains may fall into higher capital-gains brackets. State tax and the net investment income tax can change the result.
-
-This is why a Bitcoin sale cannot be evaluated from the gain percentage alone.
-
-The same $50,000 gain can have a different tax cost in a high-income working year than in a low-income retirement year.
-
-A gain-harvesting decision may intentionally realize a gain in a favorable year and immediately rebuild the position under the rules that apply. A loss-harvesting decision may realize a loss to offset gains or a limited amount of other income.
-
-The digital-asset and security rules, identification requirements, and state treatment need to be verified for the year. The Advanced Library handles the detailed comparison.
-
-== THE APP ESTIMATE IS NOT A TAX RETURN ==
-
-Orange Plan is using the plan data to estimate taxes across the projection.
-
-If filing status, state, basis, income, Social Security, pension, conversions, or withdrawal strategy is wrong, the tax result can be wrong.
-
-And the app cannot know every item on the tax return: business deductions, credits, carryforwards, outside income, charitable planning, partnership items, or a law change that has not been implemented.
-
-Use the estimate to identify the year and the decision. Use the CPA and the current return data to execute it.
-
-== FIND ONE ACTION OR A DELIBERATE PASS ==
-
-The core tax review should end with one of four results.
-
-One: fix missing data, usually cost basis, state, filing status, income, or a retirement-account balance.
-
-Two: take one current-year action, such as changing withholding, making an eligible contribution, or reviewing a planned taxable sale.
-
-Three: send one defined comparison to the CPA, such as a Roth conversion amount or the tax cost of a Bitcoin sale.
-
-Or four: pass because the current year does not contain a useful move.
-
-A pass is complete when you looked at the roadmap and confirmed there is no action worth taking, not when the page was ignored.
+The canonical demo tax amount, RMD trajectory, and any conversion comparison remain outputs from `demo-v1-tax`. Do not invent them before the app checkpoint exists.
 
 == WHERE THESE NUMBERS COME FROM ==
 
-For estimated tax:
+### Estimated tax
 
-What it means is the projected federal and state tax created by the income and transactions modeled for that year.
+**What it means:** projected federal and state tax for the modeled year.
 
-It is calculated from filing status, state, ordinary income, capital gains, deductions modeled by the app, Social Security, pensions, withdrawals, conversions, and other included items.
+**Calculated from:** filing status, state, ordinary income, gains, modeled deductions, Social Security, pension, withdrawals, conversions, and other included items.
 
-The edit source is the underlying income, tax setting, basis, life event, contribution, conversion, or withdrawal strategy.
+**Edit source:** the underlying tax, income, basis, event, contribution, conversion, or withdrawal input.
 
-And it affects surplus, retirement spending needs, withdrawal amounts, confidence, and the earliest retirement date.
+**This affects:** surplus, retirement need, withdrawals, confidence, and earliest date.
 
-For the traditional balance at the required-distribution age:
+### Traditional balance at RMD age
 
-What it means is the amount subject to future required-distribution rules.
+**What it means:** projected balance subject to future required-distribution rules.
 
-It is calculated from current balances, contributions, returns, withdrawals, and conversions.
+**Calculated from:** current balance, contributions, returns, withdrawals, and conversions.
 
-The edit source is the account record and saved contribution, withdrawal, or conversion plan.
+**Edit source:** account and strategy records.
 
-And it affects future taxable income and the value of a possible conversion window.
+**This affects:** future taxable income and the value of a possible conversion window.
 
 == YOUR DECISION ==
 
-Your decision is the one tax item that deserves action or professional review now, and the years in the roadmap that need to be revisited later.
+Choose the one tax item that deserves action or professional review now and the future window that needs a reminder.
 
 == PUT IT IN ORANGE PLAN ==
 
-Verify the tax buckets, filing status, state, basis, income sources, and retirement accounts.
-
-Review the year-by-year tax roadmap. Save only the strategy you have actually chosen and reviewed. Keep detailed conversion, harvesting, and relocation comparisons in the Advanced Library and with the appropriate professional.
+Verify the three pools, filing status, state, basis, income sources, and retirement accounts. Review the year-by-year roadmap and save only a strategy that has actually been chosen and reviewed.
 
 == YOU ARE DONE WHEN ==
 
-The taxable, traditional, and Roth balances are accurate, the tax estimate can be traced to its inputs, and the review ends with one action, one defined CPA question, or a deliberate pass.
+The account pools are accurate, the tax estimate can be traced to its inputs, and the review ends with one action, one CPA question, or a deliberate pass.
