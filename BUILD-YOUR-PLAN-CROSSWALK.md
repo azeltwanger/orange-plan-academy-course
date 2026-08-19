@@ -1,118 +1,133 @@
 # Build Your Plan ↔ Orange Plan Academy walkthrough crosswalk
 
-**Standing rule:** **Build Your Plan is the navigation spine for the walkthroughs. It does not have to be the exact syllabus for every concept lesson.**
+**Status:** provisional implementation contract  
+**App source checked:** `azeltwanger/orange-plan` `main` at `8019bfcf14387f2e15746b18707534bfcb7eb4e5` on 2026-08-19  
+**Exact walkthroughs:** hold until Austin completes the deployed Build Your Plan preview end to end
 
-The Academy can group and order financial-planning concepts in the way that makes them easiest to understand. The app can group the work in the way that makes the plan easiest to complete. Those structures should support each other without being forced into a one-for-one match.
+## Standing rule
 
-What must track exactly enough is the implementation layer:
+**Build Your Plan is the navigation spine for the future walkthroughs. It does not have to be the exact syllabus for every concept lesson.**
 
-- the walkthrough enters through the relevant **Build Your Plan** step,
-- it uses the current app page and save behavior,
-- it shows the same demo household carrying forward,
-- it explains where the important numbers came from,
-- it completes the work that the Build Your Plan step is asking for,
-- and it returns to the build flow so the learner can see what is complete and what comes next.
+The Academy groups financial-planning concepts in the order that makes the decisions easiest to understand. The product can group implementation in the order that makes the plan easiest to complete.
 
-This file is the routing layer between the app and the course. Exact `app_step_id`, labels, routes, and completion rules are filled from the working preview after Austin has completed the flow end to end. Do not record exact click paths from a mockup.
+A dedicated customer-facing Build Your Plan flow is not confirmed as shipped on the current accepted `main` from the current route and test inventory. Specifications, curriculum content, and preview work do not establish the exact deployed controls. Therefore this file maps decisions now and waits to fill exact product metadata from the working preview Austin has personally used.
+
+Do not record an exact click path from a mockup, specification, route guess, or old course walkthrough.
+
+## What the implementation layer must do
+
+Every final walkthrough:
+
+- enters through the relevant Build Your Plan area,
+- begins from the accepted demo checkpoint,
+- uses the current page and save behavior,
+- implements only the decisions already taught,
+- explains where the material outputs came from,
+- returns to the build flow,
+- and distinguishes the app completion state from the human planning finish line.
 
 ## What can differ
 
-The course does **not** need to copy the Build Your Plan structure word for word.
+The concept course does not need to copy the product flow word for word.
 
-- One course module may support more than one Build Your Plan step.
-- One Build Your Plan step may depend on concepts taught across more than one lesson.
-- A concept may be taught earlier because the learner needs it before the matching app control appears.
-- Debt can remain before allocation in the Academy even if the app groups or orders those areas differently.
-- Custody and estate can remain separate teaching modules even if the app groups both under Protect.
-- Advanced lessons can stay in a searchable library while being linked from the relevant build area.
+- One module may support more than one build step.
+- One build step may depend on concepts from more than one lesson.
+- A concept may be taught earlier because the learner needs it before using the related control.
+- Debt can remain before Allocation in the Academy even when the product groups or orders them differently.
+- Custody and Estate can remain separate modules even when the app groups them under Protect.
+- Advanced lessons remain searchable, contextual deep dives rather than required build steps.
 
-Do not break a clear lesson into artificial pieces simply to mirror a product screen. Do not make a walkthrough ignore the product flow simply to preserve an old course outline.
+Do not break a clear lesson into artificial pieces solely to mirror a screen. Do not make a walkthrough bypass the product flow solely to preserve an old course structure.
 
-## The learner flow for each walkthrough
+## Walkthrough learner loop
 
 1. **Recall the decision** — what did the concept lesson ask the learner to decide?
-2. **Open the matching Build Your Plan step** — this is the stable entry point.
-3. **Continue the demo household** — start from the state produced by the prior walkthrough.
-4. **Implement the decision** — enter, save, or apply it on the current app page.
-5. **Read the result** — explain where the important number came from and what moved downstream.
-6. **Return to Build Your Plan** — show whether the step is complete and where the learner goes next.
-7. **State the finish line** — distinguish the app checkmark from the human planning decision.
+2. **Open the matching build area** — using the accepted preview label and route.
+3. **Continue the demo household** — begin from the prior accepted checkpoint.
+4. **Name the state** — saved input, strategy preview, or Scenario.
+5. **Implement the decision** — enter, save, or apply only the relevant change.
+6. **Read the result** — explain the number and its downstream effects.
+7. **Return to Build Your Plan** — show what is complete and what comes next.
+8. **State both finish lines** — app completion and human decision completion.
 
-The app checkmark means the required data exists. The Academy checkpoint means the learner understood the trade-off and made the decision deliberately. They should point to the same planning outcome without needing identical wording.
+The app checkmark certifies that required data exists. The Academy checkpoint certifies that the learner understood the trade-off and made the decision deliberately.
 
 ## Provisional course mapping
 
-The final row labels come from the shipped Build Your Plan preview. Until then, this is the walkthrough-routing contract.
+The labels below are durable planning-area names, not final UI labels or step numbers.
 
-| Build Your Plan area | Core Academy teaching | Planning output |
+| Provisional build area | Core Academy teaching | Planning output |
 |---|---|---|
-| **Baseline & assumptions** | Module 1 | Verified accounts, holdings, income, debts, life events, starting assumptions, confidence target, and first retirement read |
-| **Cash Flow & Reserve** | Module 2 | Normal spending, bare-bones spending, reliable surplus, reserve target, and funding plan |
-| **Debt** | Module 3 | A deliberate treatment for every debt and a ceiling the household will not cross |
-| **Allocation & Contributions** | Module 4 | Target allocation, time-horizon jobs, account placement, and the next-dollar route |
-| **Tax** | Module 5 | Cost-basis readiness, relevant tax windows, and one current action or a deliberate pass |
-| **Retirement Income** | Module 6 | Starting spending target, income floor, gap, first-year funding, withdrawal order, and annual guardrails |
-| **Protect** | Modules 7–8 | Tested recovery, no-secrets custody map, beneficiaries, executor path, heir letter, and family handoff |
-| **Finish, test, and maintain** | Module 9 | Scenarios, report, encrypted backup, monthly review, annual review, and update triggers |
+| **Baseline & assumptions** | Module 1 | Verified accounts, holdings, income, debts, life events, assumptions, confidence target, and first retirement read |
+| **Cash Flow & Reserve** | Module 2 | Normal spending, bare-bones spending, reliable surplus, reserve target, and known-cost funding plan |
+| **Debt** | Module 3 | A deliberate treatment for every debt and a household ceiling |
+| **Allocation & Contributions** | Module 4 | Bitcoin target and band, time-horizon jobs, account placement, and next-dollar route |
+| **Tax** | Module 5 | Quantity and basis readiness, relevant tax windows, and one current action, CPA question, or deliberate pass |
+| **Retirement Income** | Module 6 | Retirement spending, income floor, total draw, source strategy, starting paycheck, and annual policy |
+| **Protect** | Modules 7–8 | Tested recovery, no-secrets custody map, beneficiaries, legal roles, heir letter, delivery paths, and protection gaps |
+| **Finish, test, and maintain** | Module 9 | Scenarios, capstone, report, encrypted export, monthly review, annual review, and update triggers |
 
-**Module 0 is orientation before Build Your Plan.** It teaches how to use the course and the AI safely. It is not a separate financial-planning area.
+**Module 0 is orientation before the build flow.** It teaches how the app, Academy, AI, and security boundary work.
 
-If the shipped app combines, splits, reorders, or renames an area, first update the walkthrough routing. Change the concept structure only when the financial-planning decision itself has changed or the old order has become harder to follow.
+If the deployed preview combines, splits, reorders, or renames an area, first update the walkthrough routing. Change the concept structure only when the actual financial-planning decision changed or the current teaching order became harder to follow.
 
-## Walkthrough metadata required before filming
+## Required metadata before recording
 
-Every core walkthrough must identify:
+Every core walkthrough records:
 
 - `app_step_id`
 - `app_step_label`
 - `primary_route`
+- `accepted_app_commit`
+- `verified_date`
 - `planning_decisions_implemented`
+- `saved_input_or_preview_or_scenario`
 - `app_completion_rule`
 - `human_completion_rule`
 - `demo_household_version`
-- `last_verified_app_commit`
+- `starting_checkpoint`
+- `ending_checkpoint`
 
-A concept lesson may list the Build Your Plan area it supports, but it should not depend on exact button labels or routes. Walkthrough sheets are replaceable and are re-verified whenever the route, label, save behavior, or completion rule changes.
+Concept lessons may name the durable planning area. They do not depend on exact buttons, routes, or completion copy.
 
 ## Number provenance inside every walkthrough
 
-For each important result, the walkthrough says:
+For every material output:
 
 - **WHAT IT MEANS**
 - **CALCULATED FROM**
 - **EDIT SOURCE**
 - **THIS AFFECTS**
 
-This is mandatory for outputs such as surplus, reserve target, debt ratios, target allocation, projected tax, plan confidence, earliest retirement date, retirement spending target, first-year funding, Bitcoin sold or retained, and estate readiness.
+Required outputs include surplus, reserve target, DTI, DTA, current and target allocation, projected tax, Plan confidence, earliest target-qualified date, retirement spending, total draw, source split, Bitcoin sold or retained, Scenario delta, and Protect readiness.
 
-## Advanced material
+## Advanced placement
 
-Advanced lessons should be discoverable from the Build Your Plan area that makes them relevant. They do not have to become steps in the core walkthrough.
+Advanced lessons are linked from the build area that reveals the condition:
 
-Examples:
+- model mechanics and holding overrides → Baseline & assumptions
+- Bitcoin-backed loans → Debt or Retirement Income
+- conversion sizing and harvesting → Tax
+- pre-Medicare healthcare → Retirement Income
+- passphrases and multi-key custody → Protect
+- trusts and complex estate planning → Protect
 
-- Monte Carlo mechanics → Baseline & assumptions
-- Per-holding return and income overrides → Baseline & assumptions
-- Bitcoin-backed loans → Debt or Retirement Income, depending on the decision
-- Roth conversions and harvesting → Tax
-- Pre-Medicare healthcare → Retirement Income
-- Trusts and complex custody → Protect
-
-Each advanced lesson begins with one condition visible in the learner's plan:
+Each Advanced lesson opens with:
 
 > **Watch this only if [condition]. Otherwise this part of your plan is complete without it.**
 
-Advanced lessons never block core progress unless the learner's own plan makes the issue necessary.
+Advanced never blocks core progress when the condition is absent.
 
-## Aligned finish lines, not identical structures
+## Product-change workflow
 
-`MODULE-CHECKPOINTS.md`, Circle module pages, walkthrough sheets, and the Build Your Plan UI should all point toward the same finished plan. They do not have to use the same number of sections or the same exact language.
+When the app changes:
 
-When they disagree about the actual work required:
+1. verify the accepted customer-facing build,
+2. classify the change as concept, walkthrough, demo-output, or no course impact,
+3. update this crosswalk,
+4. rerun the affected demo checkpoint,
+5. update the walkthrough when route, label, state, or completion changed,
+6. update the concept only when the decision or explanation changed,
+7. rerun the course audit.
 
-1. verify current shipped app behavior,
-2. update this crosswalk,
-3. update the affected walkthrough and course checkpoint,
-4. update the concept lesson only when the planning decision or explanation changed.
-
-The learner should feel that the course is helping them complete Build Your Plan—not that they are following two separate systems.
+The learner should experience one system: the Academy explains and prepares the decision, and Build Your Plan helps implement it.
