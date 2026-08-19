@@ -1,204 +1,147 @@
 TELEPROMPTER SCRIPT — segment 6.2
 6.2 Choose the retirement funding and withdrawal strategy
-~12 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + CPA review pending
+~9 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + CPA review pending
 ============================================================
 
-So in this lesson we're going to decide where the retirement paycheck comes from after the spending need and recurring income are known.
+The last lesson calculated the total draw. This lesson decides which accounts and holdings provide it.
 
-The Income page is going to show the first-year draw, the accounts and holdings expected to provide it, the cash buffer, the withdrawal policy, and, when applicable, a sell-versus-borrow comparison.
+The goal is not one account order copied for 40 years. The strategy should use the job of each pool, the tax opportunity in each phase, and the assets actually available.
 
-The goal is not to memorize one account order and use it for the next 40 years.
+== START FROM ONE RECONCILED DRAW ==
 
-The goal is to give each pool of money a job, use the tax opportunities that exist in each year, and avoid selling volatile assets at the wrong time when the plan has a better source available.
+The first-year funding card owns the amount the household needs from accounts.
 
-== START WITH THE FUNDING EQUATION ==
+The source lines on the other side should add back to the same total draw. The Bitcoin sold or retained on the page should come from that same projection.
 
-The first-year funding card starts with what the household needs.
+If the numbers do not reconcile, investigate the app or the source data. Do not create a second explanation to make the course work.
 
-Spending.
+The exact demo total and source split remain checkpoint outputs. Before filming, `demo-v1-income` supplies the amounts used on screen.
 
-Taxes and debt costs when they apply.
+== GIVE THE TAX POOLS A STARTING JOB ==
 
-A reserve refill when the saved policy calls for one.
+I generally think about the pools this way:
 
-Then it subtracts recurring income.
+- Reserve provides the near-term cash buffer.
+- Taxable assets provide accessible Bridge funding and flexibility around gains.
+- Traditional accounts provide ordinary income and may be used deliberately during lower-income years.
+- Roth is often protected for later years, large needs, or estate flexibility when the rest of the plan supports it.
 
-The result is the total draw.
+That is a starting framework, not an instruction to drain one account completely before touching another.
 
-On the other side, the app shows where the draw comes from. It can break the amount down by account and holding, and it reports the Bitcoin dollars or units sold from the same projection calculation.
+Module 5 already explained why a lower-income window can make some traditional income useful before RMDs and later income increase the tax return.
 
-If the source amounts do not add back to the total draw, or the Bitcoin number conflicts with another part of the page, that is an app issue to investigate rather than a second interpretation for the course to invent.
+Here we apply that idea. A phase may combine traditional withdrawals or conversions with taxable sales rather than using a strict taxable-first order.
 
-== THE DEFAULT ACCOUNT JOBS ==
+Whether that improves the plan depends on current federal and state tax, basis, Social Security, Medicare-related costs, future income, and the cash used to pay tax. The app compares the strategy; the CPA confirms the amount and execution.
 
-I generally think about the account roles this way.
+== ACCOUNT ORDER AND ASSET ORDER ARE DIFFERENT ==
 
-The Reserve provides the near-term paycheck.
+Account order answers which tax wrapper supplies the draw.
 
-Taxable assets are the main Bridge for spending before retirement accounts are easily accessible and for creating flexibility around gains.
+Asset order answers what is sold inside the account.
 
-Traditional tax-deferred accounts provide ordinary income and can be used deliberately in lower-income years rather than being ignored until required distributions begin.
+A taxable account may hold cash, bonds, stocks, and Bitcoin. Choosing taxable first does not decide which of those holdings goes first.
 
-Roth is often the most flexible long-term tax pool, so I generally want to protect it for later years, large one-time needs, or estate flexibility when the rest of the plan supports that.
+The asset decision should consider:
 
-That is a starting framework, not a strict instruction to empty one account completely before touching the next.
+- the cash-buffer job,
+- cost basis and tax,
+- current allocation and drift,
+- collateral or another restriction,
+- and whether a holding belongs to a separate goal.
 
-== WHY A STRICT TAXABLE-FIRST ORDER CAN CREATE A PROBLEM ==
+Selling an overweight asset can move the household toward target. Selling an underweight or protected holding can create a new problem.
 
-Let's say a household retires with taxable Bitcoin and a large traditional account.
+== USE PHASES ONLY WHEN SOMETHING REAL CHANGES ==
 
-If they fund every year entirely from taxable assets while ordinary income is very low, they may leave low ordinary-income brackets unused.
+The best source mix can change before Social Security, after Social Security or a pension begins, and after required distributions start.
 
-The traditional account keeps growing. Later, required distributions, Social Security, pensions, or larger withdrawals can stack more ordinary income into the same year.
+The app supports phase-based rules so account mix and a tax ceiling can change by stage.
 
-A bracket-aware strategy can use some traditional money during the lower-income window while the remaining spending comes from taxable assets.
-
-That can reduce the future traditional balance and create a more even tax path.
-
-It is not automatically better in every year.
-
-The conversion or withdrawal can increase current federal and state tax, affect Medicare-related costs or other income-based items, use cash that could have stayed invested, and reduce the tax-deferred balance sooner.
-
-The correct ceiling depends on the household's actual return, current law, filing status, state, basis, Social Security, pension, and other income.
-
-Use the app to compare the strategy. Use the CPA to confirm the amount and execution.
-
-== ASSET ORDER AND ACCOUNT ORDER ARE DIFFERENT ==
-
-The account order answers which tax wrapper supplies the draw.
-
-The asset order answers what gets sold inside the account.
-
-A taxable brokerage may contain cash, bonds, stocks, and Bitcoin. Choosing taxable first does not tell the app which of those assets to sell first.
-
-The saved strategy can use a proportional asset mix or a deliberate order depending on the policy selected.
-
-I would protect the cash-buffer role, consider taxes and basis, and avoid accidentally liquidating a holding pledged as collateral or reserved for another goal.
-
-The current allocation and target also matter. Selling an overweight asset may move the portfolio toward target. Selling an underweight asset may make the drift worse.
-
-== WITHDRAWAL PHASES CAN CHANGE ==
-
-The best strategy can be different before Social Security, after Social Security, and after required distributions begin.
-
-The app supports phase-based rules so the account mix and bracket ceiling can change by age or stage.
-
-For example, the early-retirement phase may use a mix of taxable sales and planned traditional income.
-
-After Social Security starts, the ordinary-income room may shrink and the mix may change.
-
-After required distributions begin, those dollars are already entering the tax return and should be included before the plan adds voluntary withdrawals.
-
-Do not build ten phases because the control exists. Use the smallest number of phases needed to reflect a real change in the household's income or account access.
+Use the smallest number of phases that represents a real change in income, account access, or tax constraints. Do not create complexity simply because the control exists.
 
 == SELL, HOLD, OR BORROW ==
 
-For Bitcoin, retirement funding can involve three separate choices.
+Bitcoin funding has three possible tools.
 
-Sell Bitcoin and recognize the tax result.
+**Sell:** operationally simple, no loan balance or lender liquidation. The cost is tax and Bitcoin no longer owned.
 
-Hold Bitcoin and fund the draw from another account or asset.
+**Hold:** keeps the exposure, but another real account or asset must fund the spending. Hold is not a source by itself.
 
-Or borrow against Bitcoin and accept interest, LTV, liquidation, and counterparty risk.
+**Borrow:** may defer sales and retain more Bitcoin exposure while adding interest, liability, LTV, liquidation, collateral, counterparty, repayment, and estate risk.
 
-These are tools with different costs.
+The core saved plan should work without borrowing unless the household already has a loan or deliberately chooses one after review.
 
-Selling is the cleanest operationally. There is no loan balance to manage and no collateral that can be liquidated by a lender. The cost is the tax and the Bitcoin no longer owned.
+When borrowing is relevant, compare:
 
-Holding keeps the Bitcoin exposure but requires another real source for the spending. “Hold” is not a funding strategy when the other account does not have enough money.
+- Bitcoin retained,
+- tax difference,
+- interest,
+- loan balance over time and at death,
+- collateral with the lender,
+- major-drawdown behavior,
+- and what happens when capacity is exhausted.
 
-Borrowing can defer a sale and keep more Bitcoin exposed to the upside, but it creates a growing liability and puts collateral with a lender or into a lending structure. The comparison has to include interest, loan balance, collateral at risk, liquidation behavior, taxes, Bitcoin retained, and the debt that may still exist at death.
+A higher modeled ending value does not remove liquidation or counterparty risk. A lower current tax bill does not make the loan free.
 
-I do not think borrowing belongs in every core retirement plan.
-
-If the household is not already considering or using a Bitcoin-backed loan, the sell-and-withdrawal plan should work on its own. Borrowing is an optional advanced strategy to compare, not the assumption that makes retirement possible.
-
-== READ THE BORROWING COMPARISON CORRECTLY ==
-
-When a borrowing preview is used, the useful questions are:
-
-How much Bitcoin is retained compared with selling?
-
-How much interest accrues?
-
-What loan balance remains later or at death?
-
-How much collateral sits with the lender?
-
-What happens under a major drawdown?
-
-Does the strategy eventually run out of borrowing capacity and begin selling anyway?
-
-And after taxes, interest, repayment, and Bitcoin retained, is the ending result actually better?
-
-A higher ending net worth in one modeled path does not remove liquidation or counterparty risk. A lower tax bill does not mean the loan was free.
-
-The Advanced Library is where the loan terms and cushion are built in detail.
+Detailed lender terms and survivability belong in the Advanced Library.
 
 == DRAW AND REFILL THE CASH BUFFER ==
 
-The Reserve is the near-term spending buffer. Cash Flow owns the target months and spending basis; the Income page shows how the current balance fits the retirement plan.
+Cash Flow owns the target basis and months. The withdrawal strategy decides when and from where the buffer is refilled.
 
-The reserve should be refilled from a source the withdrawal strategy actually allows.
+A healthy plan year may refill toward target from a permitted portfolio source or, in a saved borrow-first plan, modeled loan proceeds.
 
-In a strong plan year, the policy may refill toward the target from portfolio sales or, in a borrow-first plan, from modeled loan proceeds.
+During a weak period, the policy may pause part of the refill and spend from cash to avoid unnecessary sales of volatile assets.
 
-During a weak period, the plan may pause the refill and spend down the buffer to reduce the need to sell volatile assets at depressed prices.
+If the reserve reaches a critical level, liquidity may have to be restored even in a weak market. The household cannot use “do not sell low” as a reason to let cash approach zero.
 
-If the reserve reaches a critical low level, liquidity may need to be restored even when markets are weak. The app's refill status should be read with the actual cash balance rather than as a reason to let the reserve approach zero.
+A weak year can change refill pace. Target months change only when the spending basis, income floor, or policy decision changes.
 
-A bad year can change the refill pace. The household's chosen target months should change only when the spending basis, income floor, or policy decision changes.
+== READ THE CANONICAL DEMO FROM THE APP ==
 
-== RUN THE DEMO HOUSEHOLD ==
+For the demo household, the Income checkpoint will show:
 
-The demo household needs $100,000 of living spending in the first retirement year. Taxes and remaining debt add another $18,000. There is $20,000 of part-time or other recurring income.
+- the total first-year draw,
+- the account and holding source split,
+- Bitcoin sold or retained,
+- tax created by the strategy,
+- and current cash-buffer funding.
 
-The total draw is therefore $98,000 before any reserve refill.
+The lesson should point to those current outputs and explain why each source was used. It should not hardcode a $60,000/$38,000 split or another ratio before the app produces it.
 
-The saved strategy uses $60,000 from taxable Bridge assets and $38,000 from a planned traditional-account withdrawal that fits the year's tax comparison.
-
-Inside taxable, the strategy uses cash and bonds before selling Bitcoin because those holdings are available and the household wants to avoid a Bitcoin sale in the first year.
-
-That is not a universal order. It is the result of this household's available holdings, target allocation, basis, tax plan, and retirement timing.
-
-Then we compare a borrow-first preview.
-
-The preview may retain more Bitcoin but creates interest and a loan balance. The household does not apply it to the plan until the lender terms, drawdown capacity, and repayment or estate plan have been reviewed.
+A borrow-first result remains a preview until lender terms, drawdown cushion, repayment, and estate consequences have been reviewed.
 
 == WHERE THESE NUMBERS COME FROM ==
 
 For the source split:
 
-What it means is the accounts and holdings funding the total draw.
+**What it means:** accounts and holdings funding the total draw.
 
-It is calculated from the saved withdrawal policy applied to the year-by-year projection.
+**Calculated from:** the saved withdrawal policy applied to the projection.
 
-The edit source is the withdrawal phase, account blend or order, asset strategy, and any saved borrowing policy.
+**Edit source:** withdrawal phases, account strategy, asset strategy, and any borrowing policy.
 
-And it affects taxes, Bitcoin sold and retained, account balances, reserve refill, loan balance, confidence, and the estate.
+**This affects:** taxes, Bitcoin sold, balances, refill, debt, confidence, and estate.
 
 For Bitcoin sold:
 
-What it means is the engine's calculated Bitcoin sale for that year.
+**What it means:** engine-calculated Bitcoin sale for the year.
 
-It is calculated from the funding gap, available assets, and saved withdrawal strategy at the modeled Bitcoin price.
+**Calculated from:** total draw, available assets, strategy, and modeled price.
 
-The edit source is the strategy and the underlying holdings; the displayed Bitcoin total is not edited directly.
+**Edit source:** strategy and underlying holdings—not the displayed total.
 
-And it affects realized gains, taxes, remaining Bitcoin, custody exposure, and future plan results.
+**This affects:** gains, taxes, Bitcoin retained, custody exposure, and future results.
 
 == YOUR DECISION ==
 
-Your decision is the default account and asset strategy, the real stages when it changes, and whether borrowing is excluded, compared only, or deliberately included after a full risk review.
+Choose the default account and asset strategy, the smallest number of real phases, and whether borrowing is excluded, compared only, or deliberately included after review.
 
 == PUT IT IN ORANGE PLAN ==
 
-Review the first-year funding equation and confirm that the source lines add to the total draw.
-
-Set the smallest number of withdrawal phases that reflect real changes in income or account access. Review the tax comparison before choosing a bracket ceiling.
-
-Keep a borrow-first strategy as a preview until the lender, cushion, repayment, and estate consequences are verified.
+Confirm that the source lines reconcile to total draw. Set the account and asset policy, review any tax ceiling with the CPA, and leave borrowing as a preview until the full risk review is complete.
 
 == YOU ARE DONE WHEN ==
 
-You can explain which account funds the first retirement year, what gets sold inside it, why the order changes later, how the reserve is refilled, and what borrowing adds beyond the apparent tax savings.
+You can explain which pool funds the first retirement year, what gets sold inside it, why the source changes later, how cash is refilled, and what borrowing adds beyond the apparent tax savings.

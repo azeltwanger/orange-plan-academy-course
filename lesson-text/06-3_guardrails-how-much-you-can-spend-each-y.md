@@ -1,94 +1,65 @@
 # Choose the starting paycheck and annual spending guardrails
 
-Orange Plan has three confidence-related controls. They use related test-run results but answer different questions.
+## Three separate controls
 
-## Keep the three jobs separate
+- **Plan confidence target:** earliest retirement date meeting the selected standard
+- **Starting-spending choices:** annual spending supported at reference confidence levels
+- **Annual guardrails:** yearly review of the saved paycheck after retirement
 
-### Plan confidence target
+## Starting choices
 
-Located on **Plan → Retirement**. It tells Orange Plan how many of the 1,000 test runs must last through the planning age before a date qualifies as the earliest retirement date.
+The Income page calculates:
 
-### Starting retirement-spending target
+- Conservative: around 95%
+- Balanced: around 80%
+- Aggressive: around 60%
+- Current Plan amount evaluated on the same runs
 
-Located on **Plan → Income**. It compares annual spending amounts supported at different confidence levels.
-
-### Annual spending guardrails
-
-Also on **Plan → Income**. They determine whether the saved retirement paycheck is held, reduced, or increased during the annual review.
-
-Changing one does not automatically change the other two.
-
-## Starting-spending choices
-
-The Income page can calculate reference amounts around:
-
-- **Conservative:** approximately 95% confidence and lower spending
-- **Balanced:** approximately 80% confidence
-- **Aggressive:** approximately 60% confidence and higher spending
-- **Current Plan amount:** the Baseline spending already saved on Plan
-
-These are planning choices rather than personality labels. Compare the annual and monthly dollars, the lifestyle each supports, and the household's willingness to adjust later.
+The demo uses $100,000 of planned retirement spending, but the checkpoint—not the script—determines where that amount falls.
 
 ## Default annual policy
 
-Orange Plan currently uses default policy values of:
+Current Orange Plan defaults:
 
-- Lower trigger: **60%**
-- Target: **80%**
-- Upper trigger: **95%**
-- Maximum one-year correction toward target: **10%**
+- Lower trigger: 60%
+- Target: 80%
+- Upper trigger: 95%
+- Maximum correction toward target: 10% in one annual update
 
-These are Orange Plan product defaults. They are not a claim that one research paper prescribed this exact combination.
+The cap is a maximum rather than an automatic 10% move.
 
-## Annual update sequence
-
-At the scheduled review:
+## Annual update
 
 1. Apply the saved inflation adjustment.
-2. Recheck the current plan.
-3. Compare confidence with the lower and upper triggers.
-4. When a trigger is crossed, move spending toward the target-confidence amount, subject to the correction cap.
+2. Compare current confidence with policy triggers.
+3. Move toward the target-confidence amount when a trigger is crossed, subject to the cap.
 
-A 10% cap is a maximum. The calculated move can be smaller when the target amount is closer.
+At a $100,000 target, a maximum 10% downward correction is up to $10,000 for the year before the exact inflation and target calculation.
 
-## Translate the rule into real spending
+## Annual, not reactive
 
-At a $100,000 annual target, a maximum 10% downward correction is up to $10,000 for the year, or about $833 per month before the exact inflation step and target calculation.
+Review the policy at first setup, the scheduled annual update, or after a deliberate life/policy change. Do not reset the paycheck after every Bitcoin move.
 
-Identify which categories could actually change. If the household cannot reduce flexible spending by the amount the policy might require, use a lower starting target or a policy with more cushion.
+## Cash buffer
 
-The upper guardrail matters too. A stronger plan can support more travel, gifts, charitable giving, projects, or another deliberate use of the money.
+A healthy plan may refill cash toward target. A weak period may use the buffer and pause part of the refill. Current months funded must still be monitored.
 
-## Review annually, not after every market move
+## Where the numbers come from
 
-Use the full chooser when setting the first target, during the annual policy review, or after a deliberate spending-policy change.
-
-A major life change can justify an off-cycle review. Ordinary market movement does not require resetting the paycheck.
-
-## Connect guardrails with the reserve
-
-A healthy plan may refill the cash buffer toward target. A weak period may pause part of the refill and spend from cash to reduce sales of volatile assets. The current months funded still matter; the reserve should not be ignored until empty.
-
-## Where these numbers come from
-
-### Spending-band amount
+### Spending choice
 
 - **What it means:** annual spending supported at a selected confidence level
-- **Calculated from:** a spending search using the current test-run framework, assumptions, and saved strategy
-- **Edit source:** underlying plan inputs and strategy; the displayed amount is calculated
-- **This affects:** retirement paycheck, first-year draw, taxes, sales, reserve use, and long-term results
+- **Calculated from:** current test runs, assumptions, and strategy
+- **Edit source:** underlying Plan inputs and strategy
+- **This affects:** paycheck, draw, tax, sales, reserve, and long-term results
 
-### Annual policy update
+### Annual update
 
 - **What it means:** suggested paycheck for the next policy year
-- **Calculated from:** prior target, inflation, current confidence, target-confidence spending amount, triggers, and cap
-- **Edit source:** spending policy and the inputs driving the latest plan result
+- **Calculated from:** prior target, inflation, current confidence, target amount, triggers, and cap
+- **Edit source:** spending policy and current Plan inputs
 - **This affects:** next-year cash need and funding sources
-
-## Your decision
-
-Choose the starting annual paycheck, the guardrail policy, and the real categories that change in a lower- or upper-guardrail year.
 
 ## Done when
 
-You can explain the three confidence controls, state the target in annual and monthly dollars, and describe how the annual policy and reserve work together.
+The household can explain the three controls, choose a starting paycheck, and identify the real spending categories that move under the annual policy.

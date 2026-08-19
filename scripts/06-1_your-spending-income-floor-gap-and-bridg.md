@@ -1,180 +1,146 @@
 TELEPROMPTER SCRIPT — segment 6.1
 6.1 Build the retirement spending target, income floor, and portfolio gap
-~11 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
+~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
-So in this lesson we're going to build the three numbers that the retirement-income plan starts from.
+Retirement income starts with three numbers:
 
-What does the household want to spend?
+- what the household wants the plan to support,
+- what income arrives without selling an asset,
+- and what still has to come from the portfolio.
 
-What income is going to arrive without selling an asset?
+Once those are clear, the bridge years and first-year funding calculation make sense.
 
-And how much still has to come from the portfolio?
+== RETIREMENT SPENDING ==
 
-Once those three are clear, we can see the bridge years, the first-year draw, and the amount of flexibility the plan needs.
+The spending target is annual living spending, not gross income and not debt payments already modeled on their own rows.
 
-== START WITH THE SPENDING THE PLAN IS ACTUALLY FUNDING ==
+Module 2 already separated normal, bare-bones, irregular, and one-time costs. Here we decide which version of life retirement is supposed to fund.
 
-The spending target should represent the annual lifestyle the household expects the plan to support in retirement.
+The demo household currently spends $80,000 a year outside debt. It plans for $100,000 of retirement living spending in today's dollars because the early retirement years include more travel and a higher healthcare allowance.
 
-It is not gross income. It is not take-home pay. And it should not include a mortgage, car payment, or another debt payment that already has its own debt row.
+That difference is deliberate. It is not a number that changed because the plan needed a better result.
 
-The app keeps debt separate because the payment is supposed to end when the debt is paid off.
+A dated roof, vehicle, move, or another specific large cost belongs in a life event. A reasonable amount for recurring travel, gifts, and ordinary irregular costs can remain in the annual spending target. Do not count the same cost both ways.
 
-The spending number does need to include the costs that continue after work stops.
+Taxes and any debt still outstanding are modeled separately. So when a retirement-year cash need is higher than $100,000, open the year and see which line created the difference rather than assuming the living-spending input changed.
 
-Housing costs outside the debt payment. Food, utilities, insurance, transportation, healthcare, travel, gifts, hobbies, and the other parts of life the household intends to keep.
+== THE INCOME FLOOR CHANGES OVER TIME ==
 
-It also needs to account for irregular costs. A car, roof, dental work, family support, or a large trip may not happen every year, but pretending none of them ever happen makes the spending target too low.
+The income floor is money expected to arrive without selling investments.
 
-There are two ways to handle those costs.
+It can include Social Security, a pension, verified rental or other recurring income, and part-time work during the years the household genuinely plans to earn it.
 
-You can include a reasonable annual allowance inside the spending target, or you can model a specific expense as a life event in the year you expect it.
+The demo household plans $20,000 of part-time income during its first 3 retirement years. At age 67, it expects about $52,000 a year of combined Social Security and other durable income in today's dollars.
 
-Do not do both for the same cost.
+Those inputs need their real start and end dates. Income that begins at 67 does not fund retirement at 55.
 
-== RETIREMENT SPENDING CAN CHANGE BY STAGE ==
-
-The first years of retirement may not look like the later years.
-
-Some households expect more travel and projects at the beginning. Healthcare before Medicare can be materially different from healthcare after Medicare. A mortgage may end. Children may become independent. A move may lower or raise costs.
-
-So I would start with the baseline spending amount that represents an ordinary retirement year and use life events for the changes that have a date.
-
-Let's say our demo household plans to spend $100,000 a year in today's dollars once they retire.
-
-That is the living-spending target. The app is also going to model taxes, debt payments that still exist, and specific life events on top of it when those items apply.
-
-If the displayed cash need is higher than $100,000 in a particular year, that does not automatically mean the spending input changed. Open the year and see whether taxes, debt, or a life event created the difference.
-
-== BUILD THE INCOME FLOOR ==
-
-The income floor is the money expected to arrive without selling investments.
-
-This can include Social Security, a pension, an annuity already owned and correctly modeled, durable rental income, or another recurring source the household can reasonably expect.
-
-A part-time job belongs in the floor only for the years the person genuinely plans to work.
-
-Dividends, interest, and rental income should be based on the actual holdings and assumptions in the plan rather than a yield the household hopes to earn later.
-
-The floor is going to change over time.
-
-One spouse may start Social Security before the other. A pension may begin at a certain age. Part-time income may end. A rental property may be sold.
-
-That is why the app shows the income year by year rather than treating the floor as one permanent number.
-
-For our demo household, the first retirement year has no Social Security yet. Later, the household expects $52,000 a year of Social Security and other durable income.
-
-That later income is going to reduce what the portfolio has to provide, but it does not help fund the years before it starts.
+The floor is a timeline, not one permanent number. One spouse may claim before the other, part-time work may end, a pension may begin, or a rental may be sold.
 
 == THE PORTFOLIO-FUNDED GAP ==
 
-The simple version is:
+The simple living-spending gap is:
 
-Spending and other costs, minus recurring income, equals the amount the portfolio has to fund.
+> Retirement living spending − recurring income = portfolio-funded gap
 
-I call that the portfolio-funded gap because the word deficit can make it sound like the plan is broken. It is not. It is the part of retirement the investments are supposed to pay for.
+During the first 3 retirement years, $100,000 of living spending minus $20,000 of part-time income leaves an $80,000 living-spending gap before taxes, remaining debt, life events, or reserve refill.
 
-If the household needs $100,000 and recurring income is $52,000, the portfolio-funded gap is $48,000 before any taxes, remaining debt, life events, or reserve refill that the year also needs.
+After the $52,000 durable income begins, the same $100,000 lifestyle has a $48,000 living-spending gap before those other costs.
 
-On the Income page, the first-year funding card makes the full calculation more explicit.
+The gap is not a sign that the plan failed. It is the part of retirement the investments are supposed to provide.
 
-It shows spending, taxes and debt costs when they apply, a reserve refill when the policy calls for one, and then subtracts guaranteed or recurring income. What remains is the total draw.
+== TOTAL DRAW IS THE FULL APP CALCULATION ==
 
-Then the other side shows where the draw comes from, down to the account and holding when the plan can attribute it.
+The Income page takes the simple idea one step further.
 
-That is the screen to use when someone asks, why is this year's withdrawal higher than my spending target?
+On the left, it shows what the year needs:
 
-== PRICE THE BRIDGE YEARS ==
+- spending,
+- taxes and debt costs when applicable,
+- and a reserve refill when the saved policy calls for one.
 
-The bridge years are the years between the last paycheck and the point when the later income sources or account-access options begin doing more of the work.
+Then it subtracts recurring income.
 
-There can be more than one bridge.
+What remains is the **total draw** from accounts.
 
-The income bridge runs from retirement until Social Security, a pension, or another floor begins.
+The other side shows where that draw comes from, by account and holding when the current projection can identify it.
 
-The account-access bridge exists when the household plans to retire before it can use certain retirement accounts without an exception, penalty, or special strategy. The exact rules depend on the account, age, employment separation, and current law, so the implementation needs to be verified rather than reduced to one universal age rule.
+This is the answer when someone asks why the withdrawal is higher than the spending target. The source is usually tax, debt, a life event, or refill—not a second hidden spending number.
 
-The purpose of identifying the bridge is not to multiply one annual gap by the number of years and pretend the result is exact.
+The actual first-year taxes, total draw, and source split for the canonical demo must come from the current `demo-v1-income` checkpoint. They should not be invented in the script.
 
-Spending changes, income can start in stages, taxes differ, and the portfolio is moving.
+== PRICE THE BRIDGE YEAR BY YEAR ==
 
-The useful question is whether accessible assets and cash can cover the year-by-year gap without forcing a sale from the wrong account or during a major drawdown.
+The income bridge runs from retirement until the later income floor turns on.
 
-For the demo household, retirement begins 5 years before the full $52,000 income floor is in place.
+For the demo household, retirement starts at 55, part-time income ends after 3 years, and the full later income begins at 67. The portfolio job changes during that span rather than remaining one flat annual amount.
 
-The early years may require close to the full $100,000 living-spending amount from the portfolio, plus taxes and any remaining debt.
+There can also be an account-access bridge when a household retires before a particular retirement account can be used without a penalty, exception, or special strategy.
 
-Later, the recurring income reduces the draw.
+Do not reduce that to “everything unlocks at 59½.” Account type, employment separation, Roth basis, plan rules, and current law can change the available options. The implementation belongs with the current tax review.
 
-The Bridge is therefore largest at the beginning and shrinks as the floor turns on.
+The useful question is whether accessible cash and Bridge assets cover the year-by-year draw without forcing the wrong account or a Bitcoin sale during a major decline.
 
-== SOCIAL SECURITY IS A PLAN COMPARISON ==
+== SOCIAL SECURITY IS A FULL-PLAN COMPARISON ==
 
-Social Security claiming affects both sides of the plan.
+Claiming earlier can shorten the period when the portfolio carries the full gap. Waiting can increase the monthly benefit under the current formula while requiring more portfolio funding first.
 
-Claiming earlier starts income sooner and can reduce portfolio withdrawals during the bridge. Waiting can produce a larger monthly benefit under the current Social Security formula, but the portfolio has to carry more of the early years.
+Compare both effects in the full plan. Health, longevity, spouse and survivor benefits, taxes, portfolio volatility, and the value of earlier cash flow all matter.
 
-The answer depends on health, longevity expectations, spouse and survivor benefits, taxes, the size and volatility of the portfolio, and how valuable the earlier cash flow is to the household.
+Use the current Social Security records and verify the final decision under the rules in effect when claiming is close.
 
-I would compare the claiming ages in the full plan rather than choosing from the monthly-benefit amount alone.
+== THE RETIREMENT CASH BUFFER ==
 
-Use the current Social Security estimate, enter the monthly benefit and start age correctly, and confirm the final claiming decision with the current SSA rules and the household's professional advice when the date gets close.
+The working reserve protected a lost paycheck. The retirement cash buffer protects portfolio-funded spending.
 
-== THE CASH BUFFER IS PART OF THE INCOME PLAN ==
+Cash Flow owns the selected basis and target months. Income shows how the current cash fits the retirement plan.
 
-The working reserve protected a lost paycheck.
+If the page reports 8 of 18 months funded, that comes from reserve cash divided by the selected monthly basis. It is not 8 months of gross income or 8 months of the entire portfolio.
 
-In retirement, the cash buffer protects the portfolio-funded gap.
-
-The Income page shows the current buffer in months of the spending basis, while Cash Flow remains the place that owns the reserve settings.
-
-If the page says 8 of 18 months funded, that number comes from the cash identified as reserve divided by the selected monthly spending basis. It is not 8 months of the entire portfolio and it is not 8 months of gross income.
-
-The target should be built before retirement rather than waiting for a drawdown after the paycheck has already stopped.
+Build the target before retirement rather than after the first drawdown begins.
 
 == WHERE THESE NUMBERS COME FROM ==
 
-For baseline spending:
+For retirement spending:
 
-What it means is the annual living-spending level the plan is being asked to support.
+**What it means:** annual living spending the saved plan is expected to support.
 
-It is calculated from the saved Plan input and any dated changes modeled through life events.
+**Calculated from:** the Baseline spending input and dated life events.
 
-The edit source is Plan spending and the specific life event, not the Income output.
+**Edit source:** Plan spending and the specific event—not the Income output.
 
-And it affects the total cash need, confidence, earliest retirement date, spending bands, taxes, and portfolio draw.
+**This affects:** cash need, confidence, earliest date, spending bands, tax, and withdrawals.
 
 For recurring income:
 
-What it means is the modeled income arriving without portfolio sales.
+**What it means:** modeled income arriving without portfolio sales.
 
-It is calculated from Social Security, pensions, part-time work, and other verified sources in each year.
+**Calculated from:** Social Security, pensions, work, rental, and other verified sources in each year.
 
-The edit source is the underlying income record and its start or end date.
+**Edit source:** the underlying income record and dates.
 
-And it affects the gap, Bridge, withdrawal amount, taxes, and reserve need.
+**This affects:** gap, Bridge, total draw, tax, and reserve need.
 
 For total draw:
 
-What it means is the amount the plan needs from accounts after recurring income.
+**What it means:** amount needed from accounts after recurring income.
 
-It is calculated from spending, taxes, debt costs, life events, reserve refill, and recurring income.
+**Calculated from:** spending, tax, debt, life events, refill, and recurring income.
 
-The edit source is whichever underlying input created the line item.
+**Edit source:** whichever underlying line created the amount.
 
-And it affects which accounts and holdings are sold, Bitcoin retained, taxes, loan use, and long-term plan results.
+**This affects:** account sales, Bitcoin retained, taxes, loans, and long-term results.
 
 == YOUR DECISION ==
 
-Your decision is the retirement spending level, the income sources the household is actually counting on, and whether accessible Bridge assets can cover the early gaps before the full floor begins.
+Choose the retirement living-spending target, the recurring income sources the household is actually counting on, and whether accessible assets can cover the changing bridge before the full floor begins.
 
 == PUT IT IN ORANGE PLAN ==
 
-Confirm Baseline spending on Plan, verify Social Security, pensions, and other retirement income, and review the first-year funding calculation on Plan → Income.
+Confirm Baseline spending on Plan, verify every retirement-income source and date, and read the current first-year funding calculation on Plan → Income.
 
-Use Cash Flow to set the retirement cash-buffer basis and months. Use life events for dated changes rather than hiding them inside one permanent spending number.
+Set the cash-buffer basis and months in Cash Flow.
 
 == YOU ARE DONE WHEN ==
 
-You can explain the spending target, income floor, total draw, and bridge years from their source inputs, and the early retirement years have an accessible funding source rather than depending on one future Bitcoin price.
+You can explain spending, recurring income, the living-spending gap, the full total draw, and the early Bridge without relying on one future Bitcoin price.
