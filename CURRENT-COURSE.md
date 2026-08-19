@@ -2,13 +2,29 @@
 
 **This is the entry point for the course-repair branch.**
 
-The current pass is intentionally limited to:
+## Current stage
+
+A full first draft of the core outline, 28 teach scripts, and 28 matching lesson texts exists.
+
+**Austin's final read and dictation pass has not started.** The course is now going through pre-dictation QA so Austin does not approve or re-dictate a lesson and then have to repeat the work after numbers, structure, professional review, or slide logic changes.
+
+Use these two files first:
+
+- `DEMO-HOUSEHOLD.md` — one continuous household and the only approved source for demo inputs
+- `PRE-DICTATION-QA.md` — the sequence and readiness tracker that must be completed before Austin's final read
+
+The current pass includes:
 
 - the core module outline,
 - the core teach scripts,
-- and the matching student lesson texts.
+- the matching student lesson texts,
+- demo-household reconciliation,
+- duplication and runtime review,
+- core-versus-Advanced review,
+- professional red-team packets,
+- and a correction map for the existing live-teaching slides.
 
-Walkthrough recording sheets, Circle publishing files, generated module copies, slide revisions, and the Advanced Library are outside this pass. They should not be treated as current merely because they still exist elsewhere in the repository.
+Walkthrough recording sheets, Circle publishing files, generated module copies, and the Advanced Library voice pass remain outside the current production pass. They should not be treated as current merely because they still exist elsewhere in the repository.
 
 ## What the course is
 
@@ -27,17 +43,20 @@ Each planning area follows the same educational pattern:
 
 ## Current source-of-truth order
 
-During this review and dictation pass, use this order:
+During pre-dictation QA, use this order:
 
-1. `CURRENT-COURSE.md` — current outline, script list, review order, and status
-2. `scripts/` — the current spoken drafts
-3. `lesson-text/` — the matching student-facing written lessons
-4. `COURSE-APP-CONTRACT.md` — pedagogy, app behavior, demo, and number-provenance rules
-5. `BUILD-YOUR-PLAN-CROSSWALK.md` — how future walkthroughs track the app's build flow
-6. `research/CLIENT-CALL-VOICE-EVIDENCE.md` and `research/CLIENT-CONFUSION-REGISTRY.md`
-7. Slides — visual and teaching source material, updated later when they teach a retired concept or wrong fact
+1. `CURRENT-COURSE.md` — current outline and production stage
+2. `DEMO-HOUSEHOLD.md` — locked demo inputs, arithmetic, and app-output rules
+3. `PRE-DICTATION-QA.md` — quality gates and readiness tracker
+4. `research/DEMO-NUMBER-RECONCILIATION.md` — current numeric conflicts and fixes
+5. `scripts/` — current spoken drafts
+6. `lesson-text/` — matching student-facing written lessons
+7. `COURSE-APP-CONTRACT.md` — pedagogy, app behavior, demo, and number-provenance rules
+8. `BUILD-YOUR-PLAN-CROSSWALK.md` — how future walkthroughs track the app's build flow
+9. `research/CLIENT-CALL-VOICE-EVIDENCE.md` and `research/CLIENT-CONFUSION-REGISTRY.md`
+10. Slides — visual and teaching source material, with contradictions recorded in the slide correction map before Austin reviews the script
 
-`MASTER-COURSE.md`, `MASTER-ADVANCED.md`, generated module files, Circle output, aggregate script files, and current walkthrough sheets still contain the previous course in places. **Do not film or publish from those layers.** They are migration inputs until an approved module is synchronized after Austin's review.
+`MASTER-COURSE.md`, `MASTER-ADVANCED.md`, generated module files, Circle output, aggregate script files, and current walkthrough sheets still contain the previous course in places. **Do not film or publish from those layers.** They are migration inputs until an approved module is synchronized after Austin's final review.
 
 ## Core course outline
 
@@ -293,25 +312,35 @@ The old `SPOKEN-PROSE VERSION (calibrated)` label is retired as a production sta
 
 ## Core draft status
 
-| Module | Outline | Script draft | Lesson text | Additional review before filming |
+| Module | First full draft | Pre-dictation QA | Additional review before Austin | Austin review |
 |---|---|---|---|---|
-| 0 · Start Here | Current | Complete | Complete | Austin |
-| 1 · Baseline | Current | Complete | Complete | Austin |
-| 2 · Cash Flow | Current | Complete; 2.2 retains Austin dictation | Complete | Austin |
-| 3 · Debt | Current | Complete | Complete | Austin |
-| 4 · Allocation | Current | Complete | Complete | Austin; verify final Allocation UI later for walkthrough only |
-| 5 · Tax | Current | Complete | Complete | Austin + Bitcoin-aware CPA |
-| 6 · Retirement Income | Current | Complete | Complete | Austin; CPA review for tax-sensitive withdrawal mechanics |
-| 7 · Custody | Current | Complete | Complete | Austin + custody professional |
-| 8 · Estate / Insurance | Current | Complete | Complete | Austin + estate attorney + licensed insurance professional |
-| 9 · Maintain / Test / Report | Current | Complete | Complete | Austin |
-| Advanced Library | Existing structure only | Not in this pass | Not in this pass | Later, by demand and gate |
+| 0 · Start Here | Complete | Waiting for final course trim | None | NOT STARTED |
+| 1 · Baseline | Complete | Demo/output reconciliation in progress | None | NOT STARTED |
+| 2 · Cash Flow | Complete; 2.2 retains Austin dictation | Demo reconciliation in progress | None | NOT STARTED |
+| 3 · Debt | Complete | Arithmetic reconciles; runtime/progression pending | None | NOT STARTED |
+| 4 · Allocation | Complete | Account detail and routing verification pending | CPA for tax-location claims where needed | NOT STARTED |
+| 5 · Tax | Complete | Professional packet pending | Bitcoin-aware CPA | NOT STARTED |
+| 6 · Retirement Income | Complete | Spending, bridge, bands, and output reconciliation in progress | CPA for tax-sensitive withdrawal mechanics | NOT STARTED |
+| 7 · Custody | Complete | Professional packet pending | Custody professional | NOT STARTED |
+| 8 · Estate / Insurance | Complete | Insurance/demo reconciliation and professional packets pending | Estate attorney + licensed insurance professional | NOT STARTED |
+| 9 · Maintain / Test / Report | Complete | Scenario-output and final runtime review pending | None | NOT STARTED |
+| Advanced Library | Existing structure only | Not in current pass | Later, by demand and gate | NOT STARTED |
 
-“Complete” means a full reviewable draft exists. It does not mean Austin approved the wording or that an external professional cleared high-stakes content.
+“Complete” means a full draft exists. It does not mean the lesson is stable enough for Austin's final read or cleared for filming.
 
-## Austin review and dictation order
+## Pre-dictation work order
 
-Review by impact rather than module number.
+1. Reconcile and patch the demo household across every script and lesson text.
+2. Run the duplication and runtime pass.
+3. Confirm educational progression and the Core-versus-Advanced boundary.
+4. Create and resolve professional-review packets.
+5. Map corrections required in the existing live-teaching slides.
+6. Run final script/lesson-text parity.
+7. Present Austin with a clean review packet whose remaining changes are genuinely voice and judgment—not preventable production rework.
+
+## Austin review order after QA
+
+When `PRE-DICTATION-QA.md` marks the lessons ready, review by impact:
 
 ### Wave 1 — the learner's first plan and the pages with the largest app changes
 
@@ -323,12 +352,12 @@ Review by impact rather than module number.
 
 4. Module 3 — Debt
 5. Module 4 — Allocation and the Next Dollar
-6. Module 5 — Tax, alongside CPA review
+6. Module 5 — Tax
 
 ### Wave 3 — protection and ongoing use
 
-7. Module 7 — Custody, alongside custody review
-8. Module 8 — Estate and Insurance, alongside attorney and insurance review
+7. Module 7 — Custody
+8. Module 8 — Estate and Insurance
 9. Module 9 — Maintain, Test, and Read
 10. Module 0 — final course framing after the rest is approved
 
@@ -341,15 +370,15 @@ For each script:
 5. Mark the script `AUSTIN APPROVED` only after the final read.
 6. Update the matching lesson text for factual or structural changes; it does not need to duplicate every spoken phrase.
 
-## What is intentionally next, not current
+## What follows Austin approval
 
 After the core scripts and lesson texts are approved:
 
-1. Update slides only where the current visual teaches a retired concept, wrong term, or factual error.
-2. Create the versioned demo-household checkpoints.
+1. Apply the already-mapped slide corrections and build only the missing visuals.
+2. Create the versioned demo-account checkpoint exports.
 3. Rebuild walkthroughs against the working Build Your Plan preview Austin has used.
 4. Synchronize approved modules into the master, generated modules, Circle, checkpoints, and production files.
 5. Archive superseded scripts, old walkthroughs, prior course generations, and stale structural documents.
 6. Run the Advanced Library voice and app pass in demand order.
 
-Until then, the files listed in the current core script set and their matching lesson texts are the materials Austin should review and dictate from.
+Until pre-dictation QA is complete, Austin should not spend time performing the final read of the scripts.
