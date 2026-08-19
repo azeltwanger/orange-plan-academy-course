@@ -1,241 +1,244 @@
 # Orange Plan Academy — course ↔ app contract
 
-**Status:** active repair map  
-**App source reviewed:** `azeltwanger/orange-plan` at `c78a00aa1ecc6d41d61bd38ed3ae12951652397e` on 2026-08-18  
-**Course branch:** `course-repair/app-match-voice-pass`
+**Status:** active pre-dictation contract  
+**App source verified:** `azeltwanger/orange-plan` `main` at `8019bfcf14387f2e15746b18707534bfcb7eb4e5` on 2026-08-19  
+**Course branch:** `course-repair/app-match-voice-pass`  
+**Exact walkthrough status:** hold until Austin completes the deployed Build Your Plan preview end to end
 
-This document is the contract between the Academy and the shipped app. It exists so the course does not become either:
+## The contract
 
-- a collection of financial concepts that never turn into a plan, or
-- a click-by-click product tour that breaks every time the interface changes.
+Orange Plan owns the saved data and calculations. The Academy teaches the financial-planning concept, the trade-off, Austin's judgment, and the decision the learner still has to make.
 
-## The outcome
-
-A student finishes with a usable Bitcoin financial plan and can answer two questions for every important result:
+A student finishes each planning area able to answer:
 
 1. **What decision did I make?**
-2. **Where did this number come from?**
+2. **Where did the important number come from?**
+3. **What changed in the plan after the decision?**
+4. **What still requires real-world or professional proof?**
 
-The course teaches the financial-planning concept first, simplifies it into a decision the student can make, and then demonstrates that decision on one continuous demo household in Orange Plan.
+The course must not become either a textbook disconnected from implementation or a click tour that breaks whenever a button moves.
 
 ## Source-of-truth order
 
-When the course and app disagree, use this order:
+When the course and product disagree:
 
-1. **Shipped app behavior on current `main`** — what the student can actually click and save.
-2. **Austin's stated planning judgment** — the recommendation and reasoning.
-3. **This contract** — the course structure and teaching sequence.
-4. **Teach scripts and walkthrough sheets.**
-5. **Slides and older coaching decks** — useful visual and example material, but not the current app map.
+1. **Current accepted app behavior** — what the learner can actually view, save, preview, and export
+2. **Austin's stated planning judgment** — the recommendation and reasoning
+3. **Verified tax, legal, custody, insurance, and mathematical facts**
+4. **This contract and the current course outline**
+5. **Current scripts and lesson text**
+6. **Walkthrough sheets**
+7. **Slides and older coaching decks**
 
-A specification or mockup is not a shipped surface. It can shape the course structure, but an exact walkthrough is not recorded until Austin has used the preview end to end.
+A specification, mockup, old route, or source file is not proof that a customer-facing feature has shipped.
 
-## The five-part module pattern
+## Durable teaching loop
 
-Every core module follows the same path.
+Every core planning area follows this loop:
 
-1. **Explain the concept.** What planning problem does this solve?
-2. **Make the decision.** What judgment still belongs to the student?
-3. **Show the demo household.** Continue the same household from the prior module.
-4. **Put it in Orange Plan.** Enter, save, or apply the decision using the current app.
-5. **Verify the result.** Read what changed and state the module's finish line.
+1. **Name the decision.**
+2. **Teach only the concept needed to make it intelligently.**
+3. **Show what gets better, worse, or more fragile.**
+4. **Continue the canonical demo household.**
+5. **Trace the important number to its source.**
+6. **State the learner's decision and the checkable finish line.**
+7. **Use the versioned walkthrough to implement it in the current app.**
 
-A walkthrough is not a general tour of the page. It shows only the screens and controls needed to complete the module's decisions.
+The concept video avoids temporary button names. The walkthrough owns the current route, control, save behavior, and screenshot.
 
-## The number-provenance rule
+## Number provenance
 
-The most repeated question in client calls was some version of:
+The first time a material output appears in a planning area, teach:
 
-> **Where did this number come from?**
-
-Every walkthrough must answer the following four lines the first time an important output appears.
-
-### WHERE THIS NUMBER COMES FROM
-
-- **WHAT IT MEANS** — the plain-language question this number answers.
-- **CALCULATED FROM** — the upstream inputs used to calculate it.
-- **EDIT SOURCE** — the one place the student changes those inputs.
-- **THIS AFFECTS** — the important results downstream that move with it.
+- **WHAT IT MEANS** — the plain-language question the output answers
+- **CALCULATED FROM** — the upstream inputs and strategy used
+- **EDIT SOURCE** — where the learner changes the real source rather than the displayed output
+- **THIS AFFECTS** — the important downstream results that should move
 
 Example:
 
 > **Surplus**  
-> **WHAT IT MEANS:** what is left after taxes, living costs, and debt payments.  
-> **CALCULATED FROM:** income − taxes − living spending − debt payments.  
-> **EDIT SOURCE:** Cash Flow and the underlying income, spending, and debt rows.  
-> **THIS AFFECTS:** reserve funding, contribution routing, and the retirement projection.
+> **WHAT IT MEANS:** recurring money available after current obligations.  
+> **CALCULATED FROM:** income − estimated taxes − living spending − required debt payments.  
+> **EDIT SOURCE:** the underlying Cash Flow, income, spending, tax, or debt rows.  
+> **THIS AFFECTS:** reserve funding, extra debt, contributions, future balances, confidence, and earliest date.
 
-Do not say that every number has one literal database field. The useful promise is narrower: the course shows the student where the inputs live and what the output changes.
+The useful promise is not that every output has one database field. It is that the learner knows which source facts and saved decisions created it.
 
-## Saved input, preview, and scenario
+## App state: saved input, preview, or Scenario
 
-The old blanket line **“If you didn't click Apply, it didn't happen”** is false app-wide.
+The old blanket instruction **“If you did not click Apply, it did not happen”** is false app-wide.
 
-Orange Plan has three kinds of state:
+Orange Plan has three distinct states:
 
-- **Saved plan inputs.** Direct fields such as planned retirement age, baseline spending, confidence target, and Cash Flow settings save when the field is committed or autosaved.
-- **Strategy previews.** Pages can show a proposed strategy or comparison without changing the saved plan. These surfaces use their own Save or Apply action.
-- **Scenarios.** A saved what-if remains separate from the plan until the user deliberately applies a supported change.
+- **Saved inputs.** Direct Plan fields and other committed settings save under the behavior of that page.
+- **Strategy previews.** A proposed strategy can change the displayed comparison without changing the saved plan until that surface's Save or Apply action is used.
+- **Scenarios.** A saved what-if remains beside the baseline until a real decision is applied to its owning source page.
 
-Every walkthrough must say which of the three the student is looking at. Never turn one page's save behavior into an app-wide rule.
+Every walkthrough names which state the learner is viewing. A page-specific save rule is never taught as a universal app rule.
 
-## One demo household
+## Current app facts verified for the course
 
-All core walkthroughs use the same household and carry its state forward.
+### Plan → Retirement
 
-The demo household needs enough complexity to teach the course without becoming a circus:
+The current retirement inputs are:
 
-- two adults or one adult plus a clearly documented spouse assumption,
-- earned income,
-- normal and bare-bones spending,
-- cash reserve,
-- at least one taxable account and one retirement account,
-- Bitcoin held in at least one account,
-- one ordinary debt,
-- one known future cost,
-- Social Security or another retirement income source,
-- enough tax diversity to show taxable, tax-deferred, and Roth,
-- no Bitcoin-backed loan in the core baseline.
+- **Planned retirement age**
+- **Baseline spending**
+- **Confidence target**
 
-Optional or advanced lessons may add a temporary copy of the household with the relevant feature, such as a Bitcoin-backed loan. Do not contaminate the core demo with every edge case.
+The Plan confidence target:
 
-Each walkthrough starts with a short **DEMO STATE** block and ends with a **WHAT CHANGED** block. A student should be able to follow the numbers from one module into the next.
+- defaults to **80%**,
+- accepts whole percentages from **50% through 99%**,
+- represents the minimum share of **1,000 test runs** that must remain funded through planning age,
+- and is used to find the earliest retirement date reaching the selected target.
+
+The confidence result at the planned age and the earliest target-qualified date come from the same test-run framework. The core course does not teach a second deterministic retirement date beside it.
+
+### Plan → Income
+
+Income has two separate retirement-spending decisions:
+
+1. **Starting-spending selection** — calculated Conservative, Balanced, and Aggressive reference amounts around 95%, 80%, and 60%, plus the learner's current Plan amount when distinct
+2. **Annual spending policy** — the saved paycheck and its annual review behavior
+
+The current preset policy uses:
+
+- lower trigger **60%**,
+- target **80%**,
+- upper trigger **95%**,
+- maximum one-year correction **10%** toward the target amount.
+
+The exact 60/80/95 preset is Orange Plan's product policy assembled from researched components. The course does not present it as one published researcher's exact parameter set.
+
+The Income spending target, withdrawal strategy, Plan confidence target, and annual policy have separate ownership and save lifecycles. The course must not imply that changing one automatically changes the others.
+
+### Encrypted export
+
+Orange Plan currently creates a passphrase-protected encrypted export for secure storage and portability.
+
+**In-app plan restore is temporarily unavailable.** Therefore:
+
+- the course does not call the export a restorable backup the learner can use today,
+- the learner keeps the active plan and source records intact,
+- the passphrase is stored separately from the file,
+- and the restore process is reverified before a future walkthrough teaches import.
+
+The readable PDF and encrypted export have different jobs. Neither contains Bitcoin secrets.
+
+### Build Your Plan
+
+A dedicated customer-facing Build Your Plan flow is **not confirmed as shipped on current `main`** from the current route and test inventory. Product specifications, curriculum content, and preview work exist, but they do not establish the exact deployed flow.
+
+Accordingly:
+
+- the course architecture and concept-to-decision mapping are complete now,
+- `BUILD-YOUR-PLAN-CROSSWALK.md` remains the provisional routing contract,
+- spoken concept lessons use durable area names rather than step numbers,
+- no exact click path is filmed from a mockup or specification,
+- and final `app_step_id`, labels, routes, completion rules, and screenshots wait for the deployed preview Austin has personally completed.
+
+This hold protects the concept videos from product churn without making the Academy feel disconnected from the eventual build flow.
+
+## Continuous demo household
+
+All core examples use `DEMO-HOUSEHOLD.md` unless explicitly labelled **illustrative — not the demo household**.
+
+The demo is complex enough to teach the plan but deliberately excludes a Bitcoin-backed loan from the saved core baseline.
+
+Every walkthrough begins with:
+
+- `demo_household_version`,
+- starting checkpoint,
+- source inputs expected on screen,
+- and calculated outputs expected from the last accepted receipt.
+
+Every walkthrough ends with:
+
+- what changed,
+- the next checkpoint,
+- the app completion state,
+- and the human planning finish line.
+
+App-calculated confidence, tax, withdrawal, Bitcoin-sale, estate, Scenario, and readiness outputs are never invented in prose. They come from `DEMO-CHECKPOINT-RUN-SHEET.md` receipts.
 
 ## Core course map
 
-| Module | Planning decision | Primary app surface | Numbers that must be explained | Walkthrough result |
+| Module | Human planning decision | Durable app area | Important outputs | Human finish line |
 |---|---|---|---|---|
-| 0 · Start Here | How the course and AI will be used | AI Review / Preferences | What the AI reads versus what the engine calculates | Safety rule and memory choice are deliberate |
-| 1 · Baseline | Which inputs and assumptions the first plan will use | Accounts, onboarding, Plan → Retirement | Net worth, planned age, confidence target, plan confidence, earliest date | Verified first plan and starting snapshot |
-| 2 · Cash Flow | Normal spending, bare-bones spending, surplus, reserve target | Cash Flow | Income, taxes, living, debt payments, surplus, reserve target and current months | Cash flow and reserve policy are saved |
-| 3 · Debt | The job of each debt and the ceiling the household will not cross | Strategy → Debt | DTA, DTI, payment, payoff timing, BTC-loan LTV only when applicable | Every debt has a deliberate treatment |
-| 4 · Allocation | Target mix, time-horizon jobs, and where new contributions go | Strategy → Allocation plus Cash Flow routing | Current mix, target mix, drift, available contribution dollars, timeframe funding | Target and next-dollar policy are saved |
-| 5 · Tax | Which tax moves are relevant and when | Strategy → Tax | Cost basis, realized gain, estimated tax, tax buckets, conversion comparison | One current tax action or a deliberate pass |
-| 6 · Retirement Income | Spending target, income gap, withdrawal order, and annual guardrails | Plan → Income | Spending target, income floor, gap, first-year funding, withdrawals, Bitcoin sold/retained, reserve, loan balance at death when borrowing is used | Retirement paycheck and policy are saved |
-| 7 · Custody | The custody setup and recovery process the household can actually operate | Protect plus off-app recovery work | Readiness counts and checklist status only; never secrets | Recovery is tested and the no-secrets map exists |
-| 8 · Estate | Who acts, what documents exist, and how the family starts | Protect plus legal/provider records | Beneficiary status, coverage gap, projected estate, readiness | Family handoff path is real, not only entered in the app |
-| 9 · Maintain | What changes monthly, annually, and before a major decision | Cash Flow, Plan, Scenarios, Report | Current inputs, stale confidence, scenario deltas, report metrics | Review cadence, scenarios, report, and backup are saved |
+| 0 · Start Here | How the learner will use the app, Academy, AI, and security boundary | AI Review / privacy settings | Engine result versus AI explanation | Learner can state app-calculates / AI-explains / learner-decides and the no-secrets rule |
+| 1 · Baseline | Which facts, expected changes, assumptions, spending, and confidence target define the first plan | Accounts, onboarding, Plan → Retirement | Net worth, planned age, confidence, earliest target-qualified date | First plan is honest about verified, estimated, and missing data |
+| 2 · Cash Flow | Normal spending, bare-bones spending, reliable surplus, reserve, and known-cost funding | Cash Flow | Source rows, surplus, reserve target, months funded | Learner can rebuild the surplus and explain the reserve choice |
+| 3 · Debt | Treatment for every debt and the household ceiling | Debt | DTI, DTA, payment, payoff timing | Every debt has a reasoned treatment that preserves required liquidity |
+| 4 · Allocation | Bitcoin target, review band, time-horizon jobs, location, and next-dollar route | Allocation plus Cash Flow routing | Current/target mix, drawdown dollars, timeframe funding, route | Learner can state the dollar drawdown and where the next recurring dollar goes |
+| 5 · Tax | Basis readiness and the one tax action, CPA question, or deliberate pass | Tax | Quantity, known/unknown basis, estimated tax, tax pools, roadmap | Tax estimate is traceable and unresolved data stays visible |
+| 6 · Retirement Income | Spending, income floor, total draw, funding sources, starting paycheck, and annual policy | Plan → Income | Gap, total draw, source split, Bitcoin sold/retained, spending choices, reserve | Retirement paycheck and funding strategy reconcile and can be explained |
+| 7 · Custody | Custody job and recoverable setup for each balance | Protect plus real custody work | Checklist/readiness status only | Receive, send, recovery, family practice, and failure-domain work are real, not merely checked |
+| 8 · Estate / Insurance | Who acts, which records control, how family starts, and which gaps remain | Protect plus attorney/provider/carrier records | Beneficiary status, readiness, coverage gaps, estate output | Legal authority, technical process, and family instructions connect without exposed secrets |
+| 9 · Maintain / Test / Read | Review cadence, useful Scenarios, capstone, and annual records | Transactions, source pages, Scenarios, Report | Scenario deltas, report metrics, action list | Learner can explain the plan in six sentences and owns one to three dated actions |
 
-## Confidence controls — keep the jobs separate
+## App checkmark versus educational completion
 
-Orange Plan now has three confidence-related decisions. The course must not merge them.
+The app can confirm that required data exists. It cannot always confirm that the learner made a sound decision or completed the real-world action.
 
-| Control | Where it lives | Question it answers |
-|---|---|---|
-| **Plan confidence target** | Plan → Retirement | How many of the 1,000 test runs must stay funded before Orange Plan calls a date the earliest retirement date? |
-| **Starting retirement spending target** | Plan → Income | How much annual spending should the retirement plan start with? |
-| **Annual guardrails** | Plan → Income | When does the saved retirement paycheck get reduced, held, or increased after retirement? |
+Examples:
 
-The Plan confidence target defaults to 80%, but 80% is a starting point rather than a magic number. Raising the target generally moves the earliest date later; lowering it generally moves the date earlier and accepts a greater chance that future adjustments will be needed.
+- A reserve target exists in the app; the learner can explain why the months fit the household.
+- An allocation target exists; the learner can state the dollar loss in a 75% Bitcoin drawdown and still choose to hold it.
+- A recovery test is marked; the device and family practice actually worked.
+- A beneficiary is recorded; the provider accepted the current designation.
+- An heir letter exists; the family understands the first call and the document contains no secret.
 
-Use **test runs**, not paths, futures, simulated markets, or separate deterministic-versus-Monte-Carlo language in the core course.
-
-## Build Your Plan integration
-
-The course should eventually enter each area through **Build Your Plan**, but exact click paths wait for a working preview Austin has personally completed.
-
-Until that exists:
-
-- build the concept-to-decision mapping now,
-- use current primary page names in temporary walkthrough sheets,
-- do not record speculative screens from a mockup,
-- do not number areas as “area 3” or “step 4” in spoken copy,
-- use durable names such as Cash Flow, Debt, Allocation, Tax, Income, and Protect.
-
-When Build Your Plan ships, each area must show:
-
-1. the lessons that teach the decision,
-2. the app inputs required for completion,
-3. the app's completion rule,
-4. the student's human decision rule,
-5. the next area.
-
-The app checkmark certifies that required data exists. The module checkpoint certifies that the student made the planning decision. Those are related, but not always identical.
+Walkthroughs state both finish lines.
 
 ## Core versus Advanced
 
-The split is correct, but the student experience should be **one core course with contextual optional deep dives**, not two courses they feel obligated to finish.
+Core contains the concepts every learner needs for a usable plan.
 
-### Core belongs in the linear path when it is required to build a usable plan
+Advanced begins only when a condition is visible in the learner's own plan. Every Advanced lesson opens with:
 
-Core answers:
+> **Watch this only if [condition]. Otherwise this part of your plan is complete without it.**
 
-- What do I own, owe, earn, and spend?
-- What assumptions am I using?
-- When could I retire at my chosen confidence target?
-- How much reserve do I need?
-- What is the job of each debt?
-- Where does the next dollar go?
-- What tax records and windows matter?
-- How will retirement pay me?
-- Can I and my family recover the Bitcoin?
-- Who acts if I cannot?
-- How do I keep the plan current?
+Advanced includes detailed model mechanics, Bitcoin-backed loans, conversion sizing, harvesting, relocation, special account-access methods, pre-Medicare healthcare, sell-versus-borrow, passphrases, multisig implementation, trusts, estate tax, and complex insurance analysis.
 
-### Advanced is gated by a condition on the student's own plan
+Advanced never blocks core progress when the condition is absent.
 
-Advanced includes:
+## Walkthrough metadata required before recording
 
-- how the Monte Carlo model is built,
-- Bitcoin-backed borrowing,
-- deeper leverage strategy,
-- a pre-Medicare healthcare bridge,
-- Roth conversion optimization,
-- tax-loss or gain harvesting,
-- relocation analysis,
-- sell-versus-borrow comparisons,
-- trusts, estate-tax planning, and complex custody.
+Every current walkthrough stores:
 
-Each advanced lesson starts with one short gate:
+- `app_step_id`
+- `app_step_label`
+- `primary_route`
+- `accepted_app_commit`
+- `verified_date`
+- `demo_household_version`
+- `starting_checkpoint`
+- `ending_checkpoint`
+- `planning_decisions_implemented`
+- `saved_input_or_preview_or_scenario`
+- `app_completion_rule`
+- `human_completion_rule`
 
-> **Watch this only if [condition visible in your plan]. Otherwise your plan is complete without it.**
+A route, label, save behavior, or completion-rule change triggers a walkthrough update. A financial-planning decision change triggers a concept review.
 
-Advanced lessons do not count toward core progress. Empty mirrored “advanced modules” should not appear in the student interface. The best placement is the existing **Optional next levels** section at the bottom of the relevant core module, plus a searchable Advanced Library for reference.
+## Course-impact rule for app changes
 
-## Voice rule
+Every customer-facing app change should be classified:
 
-Scripts are useful and fast to edit. Keep them.
-
-The voice pass is not a ban on authored scripts; it is a quality standard:
-
-- explain the cause before the recommendation,
-- use the demo household rather than generic claims,
-- keep the exact app term when it matters,
-- say “I think” when it is Austin's judgment rather than a fact,
-- remove manufactured slogans, clever reversals, consultant language, and fake reassurance,
-- preserve useful spoken repetition when it helps someone follow the numbers,
-- end with the decision, where it goes in the app, and the checkable finish line.
-
-Lesson 2.2 remains the strongest current calibration sample because it began as Austin's dictation. Client-call language is a second source for the questions and confusions real users actually have.
-
-## Walkthrough recording contract
-
-Every walkthrough sheet contains:
-
-1. **DEMO STATE** — the exact starting state and the numbers that should already be visible.
-2. **DECISIONS FROM THE LESSONS** — what the student is about to implement.
-3. **DO** — the current click path.
-4. **SEE** — the result to point at.
-5. **WHERE THIS NUMBER COMES FROM** — the four-line provenance block for each important output.
-6. **WHAT CHANGED** — before and after in the demo household.
-7. **DONE WHEN** — the app state and the human decision that complete the module.
-
-Optional AI buttons, edge cases, recovery branches, and unusual account types belong in separate reference demos unless they are required to finish the module.
-
-## Change workflow
+- **none** — no course-facing behavior changed
+- **concept update** — the financial question, calculation ownership, or decision changed
+- **walkthrough update** — route, label, control, save behavior, or completion rule changed
+- **demo-account update** — canonical inputs or calculated checkpoint outputs changed
 
 When the app changes:
 
-1. Update this contract's affected row.
-2. Update the teach lesson only when the financial concept or decision changed.
-3. Update the walkthrough whenever labels, save behavior, or the route changed.
-4. Update the slides only when the visual teaches a retired concept or wrong fact.
-5. Re-record only the affected video, not the entire module.
+1. update this contract and the crosswalk,
+2. rerun only the affected demo checkpoint,
+3. update the concept only when the decision or explanation changed,
+4. update the walkthrough when implementation changed,
+5. update the slide only when the visual became false,
+6. rerun the course audit.
 
-Before a lesson is filmed, confirm:
-
-- the concept is still correct,
-- the demo decision is clear,
-- the app path was clicked on the current preview or `main`,
-- every important number has a provenance explanation,
-- the closing checkpoint matches the app and the human decision.
+This is how the Academy stays matched to Orange Plan without rerecording the entire course after every product change.
