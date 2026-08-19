@@ -1,124 +1,91 @@
 TELEPROMPTER SCRIPT — segment 2.3
 2.3 Fund a known future cost without raiding the reserve
-~9 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
+~7 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
-So in this lesson we're going to build a funding plan for the costs you already know are coming.
+A reserve is for what the household did not see coming.
 
-The reserve is for the things you did not see coming. A car you expect to replace, college you plan to help with, a roof that is nearing the end of its life, a home purchase, or a large gift are different. The date may still be an estimate, but the cost is known enough that the baseline plan should account for it.
-
-If a known cost uses the emergency reserve, then the household is unprotected after paying a bill that was on the calendar the entire time.
+A vehicle replacement, roof, home purchase, college commitment, or another planned bill needs its own funding source. If a known cost uses the emergency reserve, the household becomes unprotected after paying a bill that was already on the calendar.
 
 == START WITH THE COMMITMENT ==
 
-The first question is not what the largest possible cost could be.
+Do not begin with the largest possible price.
 
-The first question is what you are actually committing to provide.
+Begin with what the household is actually committing to provide.
 
-A home project may have a $60,000 dream version and a $30,000 version the household is really planning to do.
+A renovation may have a $60,000 dream version and a $30,000 plan. A parent may help with college without promising four years at any school. A vehicle may be funded partly from the current car and partly from cash flow.
 
-A parent may want to help with college without promising four years of any school the child chooses.
-
-A future vehicle may be partly funded from the current car's sale and partly from cash flow.
-
-The plan should model the decision you are actually making rather than the highest number you can find online.
+The baseline should model the decision the household is making, not the highest number found online.
 
 == THE SIX QUESTIONS ==
 
-For each known future cost, work through six questions.
+For each known cost, answer:
 
-One: what amount are you committing to provide?
+1. What amount are we committing to provide?
+2. When is it likely to be needed?
+3. What is already saved?
+4. What can be paid from cash flow when it arrives?
+5. What can come from expected proceeds, assets, or deliberate financing?
+6. When must the committed amount stop depending on Bitcoin's price?
 
-Two: when is the money likely to be needed?
+The answers create the funding gap and the amount of volatility the money can carry.
 
-Three: what is already saved for it?
+== MATCH THE FUNDING LANE TO THE DATE ==
 
-Four: what can be paid from cash flow when the cost arrives?
+The closer the date, the less the committed amount should depend on an asset that can be down 70% when the bill arrives.
 
-Five: what portion could reasonably be financed or funded from assets?
+- **Inside 12 months:** keep the known amount liquid and stable.
+- **1–3 years:** protect the amount the household cannot replace from cash flow.
+- **3–7 years:** some investment risk can remain, with a written schedule for moving committed dollars toward stability.
+- **7–10 years:** this is the transition lane people skip. The money can remain in the Bridge, but the plan needs year-by-year de-risking rather than waiting until year 9 and hoping Bitcoin is high.
+- **10+ years:** long-term assets can carry more of the goal, with an exit rule for when the horizon becomes shorter.
 
-And six: when does the committed amount need to stop depending on Bitcoin's price?
+The principle is not that every future bill must be fully funded in cash today. It is that the amount firmly promised becomes more reliable as the due date approaches.
 
-Those answers tell you how much needs to be accumulated and how much volatility the money can carry between now and the due date.
+== RUN THE DEMO VEHICLE GOAL ==
 
-== MATCH THE FUNDING LANE TO THE TIME HORIZON ==
+The demo household plans to replace a vehicle in 5 years and sets a $35,000 purchase ceiling.
 
-The closer the date gets, the less of the committed amount should depend on an asset that can be down 70% when the bill arrives.
+It expects $10,000 from the current vehicle and $5,000 from cash flow in the purchase year.
 
-If the cost is inside 12 months, I would generally keep the amount you know you need in cash or another stable, liquid holding. There is not enough time to recover from a major drawdown.
+That leaves $20,000 to accumulate in advance.
 
-For a cost 1 to 3 years away, the protected portion should still be in cash or short-duration, low-volatility holdings. The priority is having the money on the date, not earning the highest return.
+Without assuming growth, that is about $333 a month for 5 years. The household can use current assets, future contributions, or a combination.
 
-For a cost 3 to 7 years away, you have more flexibility. Part can remain invested, but I would set a schedule for moving the amount you are firmly committed to providing into more stable holdings as the date gets closer.
+The funding plan is built around the $20,000 gap, not the $35,000 headline price.
 
-The 7-to-10-year range is the transition lane people often skip. This money can still sit in the Bridge and participate in growth, but it should have a written de-risking schedule. You do not wait until year 9 and hope Bitcoin is at a favorable price. Decide what portion needs to be protected by year 7, year 8, and the final year before the cost.
+== THE BILL AND THE SOURCE ARE NOT TWO GOALS ==
 
-At 10 years or more, a larger part can remain in long-term assets because there is time to recover. But the plan still needs an exit rule. A long time horizon today eventually becomes a short time horizon.
+The life event tells the projection when the expense occurs.
 
-The principle is not that every future cost has to sit fully funded in cash from day one. The principle is that the amount you have firmly promised should become more reliable as the date approaches.
+The account, holding, or contribution route tells the household where the money comes from.
 
-== PAY FROM FLOW, PRE-FUND, OR USE A MIX ==
+Do not increase a Bridge target for the full bill, set aside the same dollars in a separate holding, and then treat both amounts as available elsewhere.
 
-Smaller costs may be absorbed by monthly cash flow.
+One bill gets one tracked funding source.
 
-If a $2,400 trip is 12 months away and the household has a reliable surplus, saving $200 a month can be enough. It does not need a complicated account structure.
-
-Larger costs usually need a mix.
-
-Let's say our demo household plans to replace a vehicle in 5 years and wants to spend no more than $35,000.
-
-They expect the current vehicle to be worth $10,000. They believe $5,000 can come from cash flow during the purchase year. That leaves $20,000 to accumulate in advance.
-
-They could route about $333 a month for 5 years, before any growth, or use a combination of current assets and future contributions.
-
-The important part is that the plan is based on a $20,000 funding gap, not a $35,000 headline price.
-
-== DO NOT COUNT THE SAME MONEY TWICE ==
-
-A known cost can appear in two places for two different reasons.
-
-The life event tells the projection that the expense occurs in a particular year.
-
-The account or funding lane tells you where the money is going to come from.
-
-Those are not two separate goals. They are the bill and the source.
-
-The mistake is increasing a Bridge target by the full cost while also setting aside the same amount in a separate cash holding and then treating both as available for something else.
-
-Name the account or holding that owns the goal and track the current amount once.
-
-== WHAT HAPPENS IF THE COST CHANGES ==
-
-A life event is part of a living plan.
-
-If the date moves, the amount changes, or the household decides not to do it, update the event and the funding plan together.
-
-Do not keep an old $50,000 event in the projection after deciding the project will cost $30,000. And do not remove the event while leaving a contribution route that is still sending money to it.
-
-The cost and the funding rule need to describe the same decision.
+When the amount, date, or decision changes, update the life event and funding rule together.
 
 == WHERE THIS NUMBER COMES FROM ==
 
 For the funding gap:
 
-What it means is the amount still needing a source after current savings, cash flow, expected proceeds, and reasonable financing.
+**What it means:** the part of the commitment that still needs a source.
 
-It is calculated from the commitment minus those available sources.
+**Calculated from:** commitment minus current savings, future cash flow, expected proceeds, and deliberate financing.
 
-The edit source is the life event and the account or contribution plan assigned to it.
+**Edit source:** the life event and its assigned funding account or contribution plan.
 
-And it affects current routing, the balance available for other goals, future withdrawals, confidence, and the earliest retirement date.
+**This affects:** current routing, Bridge funding, future withdrawals, confidence, and the earliest target-qualified date.
 
 == YOUR DECISION ==
 
-Your decision is which known costs belong in the saved plan, how much you are actually committing to each one, and the point when that amount stops depending on Bitcoin's price.
+Choose which known costs belong in the baseline, the commitment amount, expected date, funding source, and de-risking point for each one.
 
 == PUT IT IN ORANGE PLAN ==
 
-Add the expected cost as a life event with the best current date and amount. Then identify the account, holding, or contribution route that is going to fund it.
-
-For anything inside 10 years, record the de-risking point so the protected amount moves toward stable holdings before the due date.
+Add the expected bill as a life event and identify the account or contribution route funding it. Record the de-risking rule outside or inside the app where the current build flow supports it.
 
 == YOU ARE DONE WHEN ==
 
-Every meaningful known cost has one commitment amount, one expected date, one funding source, and a rule for reducing volatility as the date approaches. The emergency reserve is not the default funding source for a planned bill.
+Every meaningful known cost has one commitment, one date, one funding source, and one rule for reducing volatility before the money is due.
