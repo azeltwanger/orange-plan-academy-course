@@ -1,168 +1,130 @@
 TELEPROMPTER SCRIPT — segment 4.1
 4.1 Set the Bitcoin allocation you can hold through a full drawdown
-~10 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
+~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
-So in this lesson we're going to choose a Bitcoin allocation and then translate it into the dollar loss you would have to sit through during a full drawdown.
+The allocation decision is not the largest Bitcoin percentage that creates the best return.
 
-The right percentage is not the largest number you believe will make you wealthy.
+It is the position the household can keep through a 70% to 80% drawdown while the mortgage, family costs, and the rest of life continue.
 
-It is the largest position your finances, your understanding, and your behavior can support when Bitcoin is down 70% or more and the rest of your life keeps moving.
+== NAME THE DENOMINATOR ==
 
-== FIRST, BE CLEAR ABOUT THE DENOMINATOR ==
+A Bitcoin percentage changes depending on what it is divided by.
 
-A Bitcoin allocation is the Bitcoin value divided by something. The percentage changes depending on what you include in the denominator.
+At the illustrative $100,000 Bitcoin price, the demo household has:
 
-Let's use our demo household.
+- $175,000 of Bitcoin,
+- $120,000 of other investable assets,
+- and $450,000 of home value.
 
-They hold 1.75 Bitcoin worth an illustrative $175,000. They also have $90,000 in stocks and bonds, $30,000 in cash, and a $450,000 house.
+Bitcoin is about 59% of the $295,000 investable portfolio.
 
-If we compare Bitcoin with investable assets, the denominator is $295,000. Bitcoin is about 59%.
+It is about 23% of the $745,000 of gross assets before debt.
 
-If we compare Bitcoin with everything they own before debt, the denominator is $745,000. Bitcoin is about 23%.
+Net worth produces another percentage because it subtracts debt.
 
-If we compare it with net worth after subtracting debt, the percentage is different again.
+These numbers answer different questions. Orange Plan's target mix uses the investable portfolio. Use whole-balance-sheet exposure and leverage as additional context rather than mixing denominators.
 
-None of those calculations is inherently dishonest. They answer different questions.
+== THREE THINGS HAVE TO SUPPORT THE POSITION ==
 
-The investable percentage tells you how the liquid and invested portfolio is positioned. The whole-balance-sheet percentage shows how much of everything the household owns is tied to Bitcoin. Net worth adds the effect of leverage.
+I think the position comes down to:
 
-Orange Plan's target mix is about the investable holdings in the allocation plan. Use that as the primary number, and keep whole-balance-sheet exposure and debt as context.
+1. **Education** — understanding the thesis, custody, volatility, and failure risks
+2. **Conviction** — being able to explain why the household owns the position without relying on a price target
+3. **Capacity to hold** — cash flow, reserve, debt, time horizon, dependents, and actual behavior during a decline
 
-== THREE THINGS SET THE POSITION ==
+High conviction does not create cash during a job loss. Strong finances do not create the understanding needed to hold a position the owner does not believe in.
 
-I think the allocation you can responsibly hold comes down to three things.
-
-The first is education. Do you understand the monetary thesis, the custody risks, and the reasons the asset can still fail or underperform?
-
-The second is conviction. This is what the education turns into after you have studied enough to explain why you own the position without repeating a price target you heard online.
-
-The third is your actual ability to hold through volatility.
-
-That includes your behavior, but it also includes your cash flow, reserve, debt, time horizon, and who depends on the money.
-
-A person can have very high conviction and still need a smaller allocation because retirement is close, the reserve is weak, or the household cannot tolerate a large temporary loss.
-
-And a person can have the financial capacity for a large allocation but not the understanding to hold it when the market turns.
-
-The position has to fit both.
+The allocation has to fit both the financial plan and the person operating it.
 
 == THE FOUR EDUCATIONAL TIERS ==
 
-The four tiers are a teaching tool, not an identity.
+The tiers are a teaching guide, not an identity:
 
-Foundation is roughly 1% to 5%. Bitcoin is a small part of the balance sheet while the person learns what it is and why they might want more exposure.
+- Foundation: roughly 1–5%
+- Integration: roughly 10–20%
+- Optimization: roughly 25–50%
+- Sovereign: 50% or more of investable assets
 
-Integration is roughly 10% to 20%. Bitcoin is a real part of the plan, and custody and volatility need to be understood rather than ignored.
+As the position becomes a main driver of the plan, reserve, debt, custody, beneficiaries, and recovery matter more. Do not choose a tier because its name sounds better.
 
-Optimization is roughly 25% to 50%. Bitcoin is one of the main growth drivers. The reserve, debt policy, custody, beneficiaries, and recovery process have to support the size of the position.
+== CONVERT THE PERCENTAGE INTO THE HIT ==
 
-Sovereign is 50% or more of investable assets. At that point, Bitcoin is driving most of the long-term outcome, and the plan has to be built around its volatility rather than treating it as one small holding inside a standard portfolio.
+The quick stress test is:
 
-You do not choose a tier because the name sounds good. The tier describes the position after you make the decision.
+> Bitcoin allocation × Bitcoin drawdown = approximate portfolio hit
 
-== CONVERT THE PERCENTAGE INTO THE LOSS ==
+Assuming other holdings stay flat:
 
-The stress test is simple.
+- 10% Bitcoin × 75% decline = 7.5% portfolio hit
+- 25% × 75% = about 19%
+- 50% × 75% = 37.5%
+- 75% × 75% = about 56%
 
-Bitcoin allocation multiplied by the Bitcoin drawdown gives you the approximate hit to the investable portfolio, assuming the other assets do not move.
+The dollar amount is what the household feels.
 
-At a 10% allocation, a 75% Bitcoin drawdown reduces the portfolio by about 7.5%.
+At the demo's current 59% Bitcoin allocation, a 75% drawdown reduces the Bitcoin from $175,000 to about $43,750.
 
-At 25%, the hit is about 19%.
+The investable portfolio falls from $295,000 to roughly $164,000 if the other assets stay flat. About $131,000 disappears from the screen.
 
-At 50%, it is about 37.5%.
+The mortgage and groceries do not fall with it.
 
-At 75%, it is about 56%.
+Could the household watch that loss, keep every payment current, and avoid a forced or panic sale?
 
-The percentage is useful, but the dollar amount is what the household is going to feel.
+The $30,000 reserve answers part of the cash question. The debt plan answers part of the payment question. Education and conviction answer the behavior question.
 
-If a $500,000 portfolio is 50% Bitcoin, a 75% drawdown removes about $187,500 from the screen before we account for what the other assets do.
+== TARGET, BAND, AND TODAY'S ACTION ARE DIFFERENT ==
 
-If the portfolio is $2,000,000, the same percentage means a paper loss of about $750,000.
+A target is the intended long-term mix.
 
-That is why allocation has to be reviewed at today's balance. The target percentage may not have changed, but the amount at risk can become much larger after a strong market.
+A drift band defines when the difference becomes large enough to review.
 
-== RUN THE DEMO HOUSEHOLD ==
+Today's action decides how the household moves toward the target.
 
-Our demo household has $175,000 in Bitcoin and $295,000 of investable assets, so the current Bitcoin allocation is about 59%.
+A rising Bitcoin price can push the current allocation above target without one purchase. That does not mean every rally requires a taxable sale.
 
-A 75% drawdown takes the Bitcoin from $175,000 to about $43,750.
+I would usually use new contributions and cash flow first. A large one-time rebalance is a separate decision that needs tax, access, reserve, and custody review.
 
-The investable portfolio falls from $295,000 to about $164,000 if the other holdings stay flat.
+For the working demo, the proposed target is 50% Bitcoin with a 10-percentage-point review band. At about 59%, the household is near the upper edge rather than automatically under an instruction to sell.
 
-About $131,000 disappears from the screen.
+Austin still needs to approve that demo target and band before the app checkpoint is locked.
 
-The mortgage payment does not fall. The car payment does not fall. Groceries, insurance, and the rest of the household costs do not fall automatically either.
+== CUSTODY MUST MATCH THE CONSEQUENCE ==
 
-Now we can ask a useful question.
+A life-changing amount on one exchange or an untested hardware wallet is an allocation risk, not only a custody issue.
 
-Could they watch the investable portfolio fall by about $131,000, keep making every payment, and avoid selling Bitcoin because they were scared or needed cash?
-
-The reserve we built helps answer the cash question. The debt lesson helps answer the payment question. Education and conviction help answer the behavior question.
-
-If the answer is no, I would reduce the target until the dollar loss becomes one they could actually hold through.
-
-== DO NOT SET THE TARGET FROM THE CURRENT PRICE ==
-
-A rising price can push the current Bitcoin percentage far above the target without the household buying anything.
-
-A falling price can pull it below the target.
-
-That does not mean every market move should create a trade.
-
-Set the target from the role Bitcoin has in the plan and use a drift band to decide when the difference is large enough to review.
-
-The band keeps a normal price move from becoming a constant instruction to buy or sell.
-
-And the first way I would correct drift is usually through new contributions and cash flow rather than automatically selling a large taxable holding.
-
-A one-time rebalance is a separate decision. It needs to account for taxes, account restrictions, the reserve, and what the household is actually trying to change.
-
-== CUSTODY HAS TO SUPPORT THE POSITION ==
-
-The allocation percentage and custody setup are connected.
-
-A small learning position on a hardened exchange may be a reasonable temporary setup.
-
-A life-changing amount on one exchange, or on a hardware wallet the family has never recovered, is a different risk.
-
-As the position grows, the custody process, backup design, beneficiaries, and family recovery need to grow with it.
-
-You do not need to finish the advanced custody work inside this lesson. You do need to flag a mismatch when the amount has outgrown the current setup.
+This lesson only flags the mismatch. Module 7 fixes the custody process.
 
 == WHERE THESE NUMBERS COME FROM ==
 
-For current Bitcoin allocation:
+### Current allocation
 
-What it means is the share of the investable holdings currently in Bitcoin.
+**What it means:** share of investable holdings in Bitcoin.
 
-It is calculated from the Bitcoin holdings divided by the investable total.
+**Calculated from:** Bitcoin holdings divided by investable assets.
 
-The edit source is the underlying holdings and the target allocation.
+**Edit source:** holdings and target allocation.
 
-And it affects drift, contribution routing, drawdown exposure, confidence, and the earliest retirement date.
+**This affects:** drift, routing, drawdown exposure, confidence, and earliest date.
 
-For the drawdown hit:
+### Drawdown hit
 
-What it means is the approximate portfolio loss caused by the Bitcoin decline, before other assets move.
+**What it means:** approximate portfolio loss from the Bitcoin decline before other assets move.
 
-It is calculated from the Bitcoin allocation multiplied by the drawdown.
+**Calculated from:** Bitcoin allocation multiplied by drawdown.
 
-The edit source is the target allocation or the holdings used in a scenario.
+**Edit source:** target or Scenario holdings.
 
-And it affects whether the household can hold, whether the reserve is adequate, and whether the target is realistic.
+**This affects:** holdability, reserve adequacy, and target realism.
 
 == YOUR DECISION ==
 
-Your decision is the target Bitcoin percentage you can hold through a 70% to 80% drawdown without a forced sale or a panic sale.
+Choose the Bitcoin target and review band the household can keep through a full drawdown.
 
 == PUT IT IN ORANGE PLAN ==
 
-Set the target allocation and a drift band. Compare the current Bitcoin amount with the target, then run the drawdown in dollars at today's balance.
-
-Treat a large one-time shift as a separate decision rather than assuming the target percentage is automatically an instruction to trade today.
+Set the target and band, compare them with the current mix, and calculate the drawdown in dollars at today's balance. Treat any large one-time trade as a separate decision.
 
 == YOU ARE DONE WHEN ==
 
-You can state the target, the current percentage, and the approximate dollar loss during a 75% Bitcoin drawdown, and the household still has enough reserve, cash flow, and conviction to avoid selling at the bottom.
+You can state the current percentage, target, review band, and approximate dollar loss in a 75% drawdown—and still choose to hold the position.

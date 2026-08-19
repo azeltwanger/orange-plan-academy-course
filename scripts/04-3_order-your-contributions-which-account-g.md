@@ -1,176 +1,117 @@
 TELEPROMPTER SCRIPT — segment 4.3
 4.3 Decide where the next dollar goes
-~11 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
+~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
-So in this lesson we're going to build the default route for the next dollar without pretending every household should max the same accounts in the same order.
+A strict waterfall where one account must be completely full before another receives a dollar is too rigid for many real plans.
 
-I used to think about this as a strict waterfall where one rung had to be completely full before any money could move to the next one.
+A household may need a minimum reserve, an employer match, extra principal on an expensive debt, accessible Bridge money, and long-term tax-advantaged savings at the same time.
 
-That is too rigid for the way real plans work.
+I use strong presumptions first, then a comparison zone, and a deliberate split when two needs are real.
 
-A household can need taxable money for an early-retirement bridge while also benefiting from a retirement-account deduction. The reserve can be underfunded while an employer match is available. A person can have a high-interest debt and still need enough cash to avoid using the card again.
+== START WITH DOLLARS THAT EXIST ==
 
-So I think the better structure is a few strong presumptions, then a comparison zone, and sometimes a deliberate split.
+The route starts with reliable surplus from Cash Flow.
 
-== FIRST, FIND THE DOLLARS THAT ARE ACTUALLY AVAILABLE ==
+Do not route gross income, committed tax money, or a one-time cash balance as though it appears every month.
 
-The routing plan starts with the reliable surplus from Cash Flow.
+The demo household has $4,000 a month available after estimated tax, living spending, and required debt payments.
 
-Do not route gross income. Do not route money reserved for taxes. Do not route a one-time cash balance as though it will appear every month.
+Every reserve transfer, extra debt payment, and employee contribution must add to that same $4,000. A $5,000 route is not ambitious; it double-counts the money.
 
-Our demo household has about $4,000 a month available after estimated taxes, living spending, and debt payments.
+== STRONG PRESUMPTION 1: KEEP A FUNCTIONAL RESERVE ==
 
-That is the amount we can assign once.
+If the household lacks a minimum reserve, part of the next dollar has to build it.
 
-Every contribution, extra payment, and reserve transfer has to add back to the same $4,000. If the routing plan uses $5,000, the plan is not ambitious. It is double-counting.
+That does not always require pausing every other contribution. A household may build cash while capturing a match or stabilizing a high-cost debt.
 
-== STRONG PRESUMPTION 1: PROTECT THE HOUSEHOLD ==
+I would not maximize long-term accounts while the next repair or job loss forces another card balance or Bitcoin sale.
 
-If the household does not have a functional minimum reserve, part of the next dollar needs to build it.
-
-That does not always mean every dollar goes to cash until the full target is reached.
-
-The household may keep capturing an employer match or making the required payment on a high-cost debt while building the reserve at the same time.
-
-But I would not max long-term accounts while the next car repair or job loss sends the household back to a credit card or forces a Bitcoin sale.
-
-The reserve is what allows the rest of the contribution plan to keep running in a bad month.
+The demo reserve is already fully funded, so no monthly dollars are needed there at this checkpoint.
 
 == STRONG PRESUMPTION 2: CAPTURE VALUABLE EMPLOYER MONEY ==
 
-An employer match is usually one of the strongest uses of the next dollar because the employer adds money when you contribute.
+Verify the exact formula and vesting rules.
 
-Verify the real formula and the vesting rules.
+The demo assumes a 50% match on the first 6% of Alex's $150,000 salary.
 
-A 50% match on the first 6% of pay is different from a flat employer contribution, and money that is not vested may be lost if you leave the job.
+An employee contribution of $9,000 a year, or $750 a month, receives the full assumed $4,500 annual employer contribution.
 
-I would normally contribute enough to receive the full match unless the household is in an immediate cash emergency or carrying a debt that has to be stabilized first.
+That is not the same as maxing the entire 401(k), and employer dollars are not subtracted from the household's $4,000 surplus.
 
-That is a strong presumption, not a statement that every other account must wait until the entire 401(k) is maxed.
+== STRONG PRESUMPTION 3: FUND THE DEBT TREATMENT ALREADY CHOSEN ==
 
-== STRONG PRESUMPTION 3: STOP GUARANTEED HIGH COSTS ==
+Module 3 decided that the 7% auto loan receives $500 a month of extra principal.
 
-Very high-interest debt is another strong claim on the next dollar.
+This lesson routes that $500. It does not debate the debt a second time.
 
-Paying down a 20% credit card avoids a guaranteed 20% cost. That is different from hoping an investment returns more than a low fixed mortgage rate.
+A very high guaranteed cost can have an even stronger claim on the next dollar. Keep enough reserve that the next emergency does not recreate the debt.
 
-But the sequence still matters.
+== THE COMPARISON ZONE ==
 
-If all available cash goes to the card and the household has no reserve, the next emergency may put the balance right back on the card.
+After reserve, match, and selected debt treatment, compare the remaining destinations using five questions:
 
-So the practical answer may be a minimum reserve plus aggressive extra payments rather than choosing only one.
+1. When will the money be needed?
+2. What is the tax benefit now versus later?
+3. Can the account hold the intended exposure?
+4. Which timeframe—Bridge or Legacy—is behind?
+5. Which benefit matters most now: deduction, tax-free qualified growth, access, direct custody, simplicity, or lower guaranteed cost?
 
-The debt lesson already decided which debts deserve extra principal. This lesson decides how much of the available surplus goes there.
+Module 5 owns the detailed Roth-versus-traditional tax lesson. Here we only need enough tax context to choose the route.
 
-== THEN ENTER THE COMPARISON ZONE ==
+== RUN THE DEMO ROUTE ==
 
-After the immediate reserve need, employer match, and high-cost debt are addressed, the next dollar enters a comparison zone.
+The demo's $4,000 monthly surplus is assigned once:
 
-This is where HSA, Roth, traditional retirement accounts, taxable investing, direct Bitcoin, and Bridge funding compete.
+- $750 to the workplace plan to capture the assumed match
+- $500 of extra principal to the auto loan
+- $1,250 to the mix of HSA, Roth, or additional traditional funding supported by eligibility and the tax review
+- $1,500 to taxable Bridge funding and the saved investment allocation
 
-I would use five questions.
+The route totals $4,000.
 
-One: when will you need the money?
+The split is not indecision. The household needs both accessible early-retirement money and long-term tax-advantaged growth.
 
-A dollar for retirement in 30 years can live inside a retirement account. A dollar needed to retire at 48, buy a house in 6 years, or fund college before retirement may need accessible taxable or Bridge funding.
+The exact investment mix inside the contribution accounts follows the saved account instructions and allocation target. This route decides how much and where; it does not create a one-time rebalance of existing holdings.
 
-Two: what is the tax benefit today versus later?
+== HANDLE A RAISE OR BONUS CORRECTLY ==
 
-A traditional contribution may reduce taxable income now. A Roth contribution gives up the deduction for the possibility of tax-free qualified withdrawals later. An HSA can have unusually favorable tax treatment when the household is eligible and uses it correctly.
+A recurring raise updates income and creates a new recurring route decision.
 
-Three: can the account hold the asset or investment you actually want?
+A one-time bonus is a one-time amount. Do not turn it into a monthly contribution the normal cash flow cannot support.
 
-Some workplace plans do not offer Bitcoin exposure or have a limited menu. The tax wrapper is not useful for a Bitcoin allocation if the account cannot hold the intended exposure.
-
-Four: which timeframe is behind?
-
-If the long-term accounts are well funded but the taxable Bridge is missing, maxing another retirement account can make the plan look wealthy while leaving the early-retirement years unfunded.
-
-Five: what does the household value more right now?
-
-The current deduction, tax-free growth, access before traditional retirement age, direct custody, simplicity, or lowering a guaranteed cost?
-
-The app can compare the outcomes. The household still has to choose the priority.
-
-== WHEN A SPLIT IS THE RIGHT ANSWER ==
-
-A split is not indecision when two legitimate needs exist.
-
-Let's run the demo household after the reserve is fully funded.
-
-They have $4,000 a month of available surplus.
-
-They contribute $750 a month to the workplace plan to receive the full employer match.
-
-They direct $500 a month to the 7% car loan because that is the debt they chose for extra principal.
-
-That leaves $2,750.
-
-They want to become work-optional before the age when all retirement-account money is easy to access, and the taxable Bridge is underfunded. They also want tax-advantaged long-term growth.
-
-So they split the remaining money.
-
-They send $1,250 to the combination of HSA, Roth, or traditional accounts that fits their eligibility and current tax plan.
-
-They send $1,500 to the taxable Bridge and Bitcoin allocation.
-
-The exact accounts and amounts can change as tax rules, contribution limits, and household income change. The planning reason is stable: capture the match, address the chosen debt, and fund both the early-access need and the long-term need.
-
-== ROTH VERSUS TRADITIONAL IS NOT A PERSONALITY TEST ==
-
-The Roth-versus-traditional decision belongs inside the comparison zone.
-
-Traditional can be attractive when the deduction is valuable today and the household expects to withdraw at a lower marginal rate later.
-
-Roth can be attractive when the current rate is relatively low, the household values tax-free qualified withdrawals, or long-term growth may make future taxable income higher.
-
-A mix can be reasonable because future rates, income, and withdrawal needs are uncertain.
-
-I would not make the entire decision from a slogan about taxes always going up or always being lower in retirement. Use the current plan, current tax situation, and the future income roadmap, then confirm the actual contribution with the tax professional when the amount matters.
-
-== NEW INCOME GETS A ROUTE BEFORE IT BECOMES SPENDING ==
-
-A raise, bonus, or business-income increase should trigger the same routing decision.
-
-When the money arrives without a plan, it tends to become a higher lifestyle without the household ever deciding that was the goal.
-
-For a recurring raise, update income and choose how much of the after-tax increase goes to the reserve, debt, Bridge, or long-term contributions.
-
-For a one-time bonus, do not turn it into a monthly contribution the normal cash flow cannot support. Route it as a one-time amount.
+When the auto loan ends or another route completes, those dollars return to the comparison zone rather than flowing automatically to one destination forever.
 
 == WHERE THESE NUMBERS COME FROM ==
 
-For available contribution dollars:
+### Available dollars
 
-What it means is the recurring surplus that can be assigned after current obligations.
+**What it means:** recurring surplus available after current obligations.
 
-It is calculated from income, taxes, living spending, and debt payments.
+**Calculated from:** income, tax, living spending, and required debt payments.
 
-The edit source is Cash Flow and the underlying rows.
+**Edit source:** Cash Flow and source rows.
 
-And it affects reserve funding, debt payoff, contribution amounts, future balances, confidence, and the earliest date.
+**This affects:** reserve, debt, contributions, future balances, confidence, and earliest date.
 
-For the suggested route:
+### Saved route
 
-What it means is how the available dollars are assigned across the goals and accounts.
+**What it means:** assignment of available dollars across goals and accounts.
 
-It is calculated from reserve status, employer benefits, debt strategy, timeframe gaps, tax treatment, account eligibility, and target allocation.
+**Calculated from:** reserve status, match, debt treatment, timeframe gaps, tax, eligibility, and allocation.
 
-The edit source is the saved contribution and routing plan.
+**Edit source:** contribution and routing plan.
 
-And it affects which accounts grow, when the money is accessible, and how the plan is taxed.
+**This affects:** account growth, accessibility, and lifetime tax path.
 
 == YOUR DECISION ==
 
-Your decision is the default route for the next recurring dollar and the conditions that cause the route to change.
+Choose the default route for the next recurring dollar and the conditions that send those dollars back through the comparison.
 
 == PUT IT IN ORANGE PLAN ==
 
-Use the reliable surplus as the total available amount. Record current contributions, employer match, reserve funding, and extra debt payments.
-
-Then route the flexible remainder between Bridge and long-term accounts based on the gaps in the plan. Use a deliberate split when both need funding.
+Use the reliable surplus as the total. Record the employer-match contribution, selected extra debt, and the split between accessible Bridge and long-term accounts.
 
 == YOU ARE DONE WHEN ==
 
-The routing amounts add up to the available surplus, the household can say why each destination receives money, and the rule handles a raise, bonus, or completed reserve without rebuilding the decision from zero.
+The route adds to the available surplus, every destination has a reason, and the rule handles a raise, bonus, completed reserve, or debt payoff without rebuilding the entire plan.

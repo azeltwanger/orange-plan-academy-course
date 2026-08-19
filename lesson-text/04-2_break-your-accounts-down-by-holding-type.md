@@ -1,79 +1,41 @@
 # Give every account a holding mix and a time-horizon job
 
-Review the same money in two ways:
+## Wrapper versus holding
 
-1. What does each account actually hold?
-2. When will the household need the money?
+Account names describe tax and access rules. Holdings create the actual asset exposure.
 
-## Account wrapper versus holding
+Demo investable mix:
 
-A 401(k), Roth IRA, HSA, and taxable brokerage are account wrappers. The investments inside them determine the asset exposure.
+- Bitcoin: $175,000
+- Stocks: $75,000
+- Bonds: $15,000
+- Cash: $30,000
 
-For the demo household's $295,000 investable portfolio:
+## Time-horizon jobs
 
-- Bitcoin: **$175,000**
-- Stocks: **$75,000**
-- Bonds: **$15,000**
-- Cash: **$30,000**
+- **Reserve:** near-term, liquid, low-volatility protection
+- **Bridge:** accessible funding for goals and gaps inside roughly 4–10 years
+- **Legacy:** long-term growth capital generally not needed for 10+ years
 
-The household mix is therefore about 59% Bitcoin, 25% stocks, 5% bonds, and 10% cash, regardless of how many accounts contain each asset.
+## Demo assignments
 
-## Current mix versus target mix
+- Cash account: Reserve
+- Taxable brokerage: Bridge
+- 529: college goal
+- HSA: Bridge for qualified healthcare
+- Workplace and Roth accounts: Legacy
+- Hardware-wallet Bitcoin: Legacy
+- Exchange Bitcoin: operating balance
 
-- **Current mix:** what the household owns now
-- **Target mix:** the intended combined allocation
-- **Drift:** the difference between the two
+## Start with dollar needs
 
-The target guides contributions and reviews. It does not require every account to hold the same percentages.
+Reserve comes from spending basis and months. Bridge comes from known costs and year-by-year retirement gaps. Legacy is the long-term capital remaining.
 
-## The three timeframe jobs
+## Where the numbers come from
 
-### Reserve
-
-Near-term, liquid, low-volatility money. It includes the working emergency reserve, near-term bills, and retirement cash buffer.
-
-### Bridge
-
-Flexible funding for roughly the next 4–10 years. It can support known costs, early retirement before other income starts, college, or another dated goal.
-
-### Legacy
-
-Long-term growth capital generally not needed for 10 or more years. Bitcoin and long-term retirement holdings may fit here when risk tolerance and custody support them.
-
-## Set targets from dollar needs
-
-- Reserve comes from spending basis × target months.
-- Bridge comes from known future costs and retirement-income gaps.
-- Legacy is the long-term capital remaining after near- and medium-term needs are protected.
-
-Convert those dollar needs into percentages only after calculating them.
-
-## Per-holding assumptions
-
-Use a holding-level return or income override only when the broad asset-class assumption would model the holding incorrectly.
-
-Examples include:
-
-- Spot Bitcoin ETF using Bitcoin assumptions
-- Rental property with its own appreciation and rental yield
-- Income security with a separate return and yield
-
-## Where these numbers come from
-
-### Current mix
-
-- **What it means:** household exposure by holding type
-- **Calculated from:** every holding across every account
-- **Edit source:** holding and account records
-- **This affects:** drift, projection, tax placement, and drawdown exposure
-
-### Timeframe funding
-
-- **What it means:** money assigned to Reserve, Bridge, and Legacy jobs
-- **Calculated from:** assigned accounts and holdings compared with dollar targets
-- **Edit source:** account jobs, reserve settings, known costs, and retirement-income needs
-- **This affects:** contribution routing and forced-sale risk
+- **Holding mix:** every holding across every account
+- **Timeframe funding:** assigned balances compared with Reserve and Bridge dollar needs
 
 ## Done when
 
-Every account has verified holdings, a primary timeframe job, and a target that comes from a real planning need.
+Every account has verified holdings and a primary job that matches when the household expects to use it.

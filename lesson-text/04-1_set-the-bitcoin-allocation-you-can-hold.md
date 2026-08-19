@@ -1,78 +1,51 @@
 # Set the Bitcoin allocation you can hold through a full drawdown
 
-A responsible Bitcoin allocation has to fit:
+## Name the denominator
 
-- Your understanding of Bitcoin
-- Your conviction in the thesis
-- Your financial and behavioral ability to hold through volatility
+At the illustrative starting price:
 
-## Use the correct denominator
+- Bitcoin: $175,000
+- Investable assets: $295,000
+- Gross assets including home: $745,000
 
-The percentage depends on what you divide by.
+Bitcoin is about 59% of investable assets and about 23% of gross assets. Orange Plan's target mix uses investable holdings.
 
-For the demo household:
+## Three requirements
 
-- Bitcoin: **$175,000**
-- Other investable holdings: **$120,000**
-- Investable total: **$295,000**
-- House: **$450,000**
+The position must fit:
 
-Bitcoin is about **59% of investable assets**, but only about **23% of gross assets including the house**.
-
-Use the investable percentage for the target mix. Use whole-balance-sheet exposure and debt as additional context.
+- Education
+- Conviction
+- Financial and behavioral capacity to hold
 
 ## Educational tiers
 
-| Tier | Approximate investable Bitcoin allocation | Planning need |
-|---|---:|---|
-| Foundation | 1–5% | Learn the thesis and basic security |
-| Integration | 10–20% | Treat Bitcoin as a real plan holding; understand volatility and custody |
-| Optimization | 25–50% | Build reserve, debt, custody, and recovery around a main growth driver |
-| Sovereign | 50%+ | Design the plan around Bitcoin's volatility and operational risk |
+- Foundation: 1–5%
+- Integration: 10–20%
+- Optimization: 25–50%
+- Sovereign: 50%+
 
-The tier describes the position. It is not an identity to pursue.
+The tier describes the position; it is not an identity.
 
 ## Drawdown math
 
-**Bitcoin allocation × Bitcoin drawdown = approximate portfolio hit**
+**Bitcoin allocation × drawdown = approximate portfolio hit**
 
-Assuming other assets remain flat:
+At the demo's current 59% allocation, a 75% Bitcoin decline removes about $131,000 from the $295,000 investable portfolio if other assets stay flat.
 
-- 10% Bitcoin × 75% drawdown = **7.5% portfolio hit**
-- 25% Bitcoin × 75% drawdown = **about 19%**
-- 50% Bitcoin × 75% drawdown = **37.5%**
-- 75% Bitcoin × 75% drawdown = **about 56%**
+## Target, band, action
 
-The dollar amount matters as much as the percentage. Review it at today's balance.
+- Target: intended long-term mix
+- Band: when drift becomes large enough to review
+- Action: contributions, gradual changes, or a separately reviewed trade
 
-For the demo household, a 75% Bitcoin drawdown reduces Bitcoin from $175,000 to about $43,750 and the investable portfolio from $295,000 to about $164,000, assuming other holdings stay flat.
+Proposed demo target: 50% Bitcoin with a 10-point review band. Austin approval pending.
 
-## Use a target and drift band
+## Where the numbers come from
 
-A target is the intended long-term mix. A drift band determines when the difference becomes large enough to review.
-
-New contributions can often correct drift before a taxable sale is considered. A one-time rebalance is a separate tax and planning decision.
-
-## Where these numbers come from
-
-### Current allocation
-
-- **What it means:** share of investable holdings currently in Bitcoin
-- **Calculated from:** Bitcoin holdings ÷ investable total
-- **Edit source:** holdings and target allocation
-- **This affects:** drift, routing, drawdown exposure, confidence, and earliest date
-
-### Drawdown hit
-
-- **What it means:** approximate portfolio loss caused by a Bitcoin decline
-- **Calculated from:** Bitcoin allocation × drawdown
-- **Edit source:** target allocation or Scenario holdings
-- **This affects:** holdability, reserve adequacy, and target realism
-
-## Your decision
-
-Choose the target Bitcoin percentage you could hold through a 70–80% drawdown without a forced or panic sale.
+- **Current allocation:** Bitcoin holdings ÷ investable assets
+- **Drawdown hit:** allocation × drawdown
 
 ## Done when
 
-You know the target, current percentage, and approximate dollar loss during a 75% drawdown, and the household's reserve, cash flow, and custody can support the position.
+The household can state current allocation, target, band, and dollar loss in a 75% drawdown and still choose to hold.

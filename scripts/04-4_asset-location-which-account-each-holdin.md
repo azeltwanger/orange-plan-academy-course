@@ -1,124 +1,103 @@
 TELEPROMPTER SCRIPT — segment 4.4
 4.4 Choose what each account should hold
-~9 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
+~7 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + CPA review on tax claims pending
 ============================================================
 
-So in this lesson we're going to decide what each account should hold based on taxes, access, timeframe, and whether the account can hold the exposure you want.
-
-Asset allocation answers how much of each asset the household owns.
+Allocation answers how much of each asset the household owns.
 
 Asset location answers where those holdings live.
 
-You can keep the same overall allocation and get a different tax and access result by moving which assets sit in taxable, tax-deferred, or Roth accounts.
+The same household target can produce a different tax, access, custody, and withdrawal result depending on which assets sit inside taxable, traditional, Roth, HSA, or education accounts.
 
-== THE THREE TAX WRAPPERS ==
+== PROTECT THE JOB OF THE MONEY FIRST ==
 
-A taxable account is funded with after-tax dollars. Dividends, interest, and realized gains can create current tax. The money is generally accessible without a retirement-account age restriction.
+Before optimizing tax, protect the timeframe.
 
-A traditional tax-deferred account may provide a deduction or exclude the contribution from current taxable income, depending on the account and eligibility. The money grows without annual tax inside the account, and taxable withdrawals are generally treated as ordinary income. Required distributions can apply later under the rules in effect for the account owner.
+Reserve cash remains liquid even though the interest may create current tax.
 
-A Roth account is funded with after-tax dollars. Qualified withdrawals can be tax-free. The original owner of a Roth IRA generally does not have lifetime required minimum distributions, while other Roth account and beneficiary rules need to be checked under current law.
+Bridge money remains accessible even when a retirement wrapper could offer a tax benefit.
 
-The wrappers change taxes and access. The holdings inside them change return and risk.
+A tax advantage is not useful when the household cannot access the money for the job it is supposed to fund.
 
-== START WITH THE JOB OF THE MONEY ==
+== USE THE TAX WRAPPERS AS CONTEXT ==
 
-Before optimizing tax location, protect the timeframe.
+A taxable account offers flexible access and can create current tax from interest, dividends, and realized gains.
 
-Money needed soon should not be moved into a long-term account or a volatile holding just because the tax treatment looks attractive.
+A traditional account may provide a current deduction or wage exclusion under its rules, grows without annual tax inside the account, and generally creates ordinary income when taxable amounts are withdrawn.
 
-A taxable Bridge account may be less tax-efficient than a retirement account and still be necessary because the household plans to use the money before retirement-account access is practical.
+A Roth uses after-tax contributions and can provide tax-free qualified withdrawals under current rules.
 
-The Reserve stays liquid and stable even though cash interest may create current tax.
-
-The tax benefit is useful only when the money is in the right place for its job.
+Module 5 owns the detailed tax mechanics. In this lesson, the wrappers tell us about access and likely tax treatment while the holdings determine risk and return.
 
 == GENERAL LOCATION PRINCIPLES ==
 
-The first principle is that tax-inefficient income-producing holdings often benefit from shelter.
+- Tax-inefficient interest or income-producing holdings may benefit from tax shelter.
+- High expected growth can be valuable in Roth space, while concentration and permanent-loss risk still matter.
+- Tax-efficient, low-turnover holdings can fit taxable accounts when access is needed.
+- The entire household allocation must still match the target; do not optimize one account in isolation.
 
-Interest and non-qualified income can create current ordinary income in a taxable account. Holding those assets in a tax-deferred account may delay the tax until withdrawal.
+These are starting principles, not rules that automatically require a trade.
 
-The second principle is that high expected growth can be valuable in Roth space because qualified future growth may avoid tax.
+== BITCOIN CREATES A REAL LOCATION TRADE-OFF ==
 
-That does not mean the Roth should automatically hold the riskiest thing available. A permanent loss inside limited Roth space cannot be deducted, and concentration still has to fit the plan.
+Direct taxable Bitcoin gives the owner flexible access and self-custody, while a sale can create capital-gain tax.
 
-The third principle is that tax-efficient, low-turnover holdings can be reasonable in taxable accounts, especially when the household needs flexibility.
+A Bitcoin ETF can fit more easily inside brokerage and retirement wrappers, but it is not direct self-custody and the provider controls the investment menu.
 
-The fourth is that the entire household allocation matters. Do not optimize each account in isolation and accidentally change the combined target.
+A self-directed retirement structure may offer different Bitcoin custody while adding fees, administration, prohibited-transaction risk, and provider dependencies that require professional review.
 
-== WHERE BITCOIN FITS ==
+The answer is not automatically all taxable, all Roth, or all direct Bitcoin.
 
-Bitcoin creates a real trade-off because the household may value both tax shelter and direct custody.
+A household may keep its core long-term Bitcoin in self-custody and use a Bitcoin ETF for part of the exposure inside retirement accounts. The split depends on access, custody, account options, tax, and the job of each pool.
 
-A taxable direct Bitcoin holding gives the owner control of custody and flexible access, but a sale can create capital gains tax.
+== CONFIRM THE ACCOUNT CAN HOLD THE ASSET ==
 
-A Bitcoin ETF inside a brokerage or retirement account is simpler to hold inside a tax wrapper, but it is not direct self-custody and the account provider controls the available investment options.
+Some workplace plans, HSAs, and education accounts cannot hold Bitcoin or a Bitcoin ETF. Others offer a limited fund menu or charge for a brokerage window.
 
-A self-directed retirement arrangement may offer direct Bitcoin exposure, but it adds fees, administrative requirements, custody structure, and prohibited-transaction risk that need professional review.
+Verify the real investment options and fees before routing money. Do not assume the desired exposure exists because the wrapper is attractive.
 
-So I do not think the answer is automatically all taxable, all Roth, or all direct Bitcoin.
+== RUN THE DEMO LOCATION ==
 
-A household may choose direct self-custody for the core long-term holding and use a Bitcoin ETF inside retirement accounts for part of the exposure.
+- Reserve cash stays in the liquid taxable cash account.
+- The taxable brokerage remains accessible Bridge funding.
+- The traditional workplace account holds long-term diversified investments and part of the bond exposure available in the plan menu.
+- The Roth holds long-term growth exposure that remains inside the household's combined target.
+- The HSA supports the qualified healthcare Bridge.
+- The 529 owns the college goal.
+- Most direct Bitcoin remains self-custodied Legacy capital because direct control is part of the household's decision.
 
-The right split depends on access needs, custody preferences, account availability, taxes, and the role of each pool.
+This is one design, not a universal account recipe.
 
-== CAN THE ACCOUNT HOLD THE ASSET? ==
+== LOCATION IS NOT AN AUTOMATIC TRADE ORDER ==
 
-Before routing a contribution for tax reasons, check the investment menu.
+Knowing an ideal location does not mean selling everything today and rebuilding it elsewhere.
 
-Some workplace retirement plans, HSAs, and education accounts cannot hold Bitcoin or a Bitcoin ETF. Some offer only a limited set of funds. Some charge a meaningful fee for a brokerage window.
+A taxable sale, rollover, transfer, or custody change can create tax, fees, plan restrictions, lost benefits, or temporary allocation risk.
 
-If the account cannot hold the asset the plan calls for, the household has to choose a different holding inside the account or use another account for that part of the allocation.
+Use new contributions, exchanges inside tax-sheltered accounts, and gradual changes first when they improve location without creating a larger problem.
 
-Do not send money to an account assuming the desired exposure exists.
-
-== RUN THE DEMO HOUSEHOLD ==
-
-The Reserve cash remains in checking, savings, or another liquid taxable holding because access and stability are the job.
-
-The taxable brokerage is part of the Bridge. It holds accessible, relatively tax-efficient investments that can be used before the retirement accounts.
-
-The traditional workplace account holds part of the household's bonds or other tax-inefficient income-producing assets, along with long-term diversified holdings available in the plan.
-
-The Roth holds long-term growth exposure, potentially including a Bitcoin ETF when the account offers it and the total Bitcoin allocation remains within target.
-
-The majority of the household's direct Bitcoin remains in self-custody as long-term Legacy capital because direct control is part of the decision they made.
-
-This is one household's design. Another household closer to retirement, with a larger taxable Bridge need or different account options, may place the same target allocation differently.
-
-== DO NOT CONFUSE LOCATION WITH A TRADE ORDER ==
-
-Knowing where an asset would ideally live does not automatically mean the household should sell everything today and recreate it elsewhere.
-
-Moving a holding can trigger taxes, lose favorable loan or plan terms, create a wash-sale or other tax issue for some securities, change custody, or temporarily move the allocation away from the target.
-
-Use new contributions, exchanges inside tax-sheltered accounts, and gradual changes first when they can improve the location without creating a larger problem.
-
-A taxable sale or retirement-account rollover is an implementation decision that needs its own review.
+Implementation with tax, legal, custody, or plan-rule consequences needs its own verification.
 
 == WHERE THIS NUMBER COMES FROM ==
 
-For account allocation:
+For an account's holding mix:
 
-What it means is the holdings inside each tax wrapper and their percentages.
+**What it means:** assets and percentages inside the wrapper.
 
-It is calculated from the holdings assigned to the account.
+**Calculated from:** the holdings assigned to that account.
 
-The edit source is the account holding records and the real provider investment election.
+**Edit source:** Orange Plan holding records and the real provider election.
 
-And it affects taxes, access, risk, contribution routing, and future withdrawal options.
+**This affects:** tax, access, risk, routing, and future withdrawal options.
 
 == YOUR DECISION ==
 
-Your decision is which holdings belong in taxable, traditional, and Roth accounts while preserving the household target allocation and the job of each account.
+Choose which holdings belong in each wrapper while preserving the household target and the job of the account.
 
 == PUT IT IN ORANGE PLAN ==
 
-Review the holdings inside every account and compare them with the account's timeframe and tax treatment.
-
-Record the intended mix. Then turn only the changes you actually plan to make into contribution elections, exchanges, transfers, or rollovers with the relevant provider.
+Review every account's holdings, timeframe, and tax treatment. Record the intended mix, then implement only the provider changes the household has actually chosen and verified.
 
 == YOU ARE DONE WHEN ==
 
-Every account has a clear job, the holdings support that job, the combined household allocation still matches the target, and any move with tax, legal, custody, or plan-rule consequences is identified for verification before execution.
+Every account has a clear job, its holdings support that job, the combined target remains intact, and any consequential move is identified for verification before execution.

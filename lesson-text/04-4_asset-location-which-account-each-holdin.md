@@ -1,61 +1,46 @@
 # Choose what each account should hold
 
-Asset allocation answers **how much** of each asset the household owns. Asset location answers **where** those holdings live.
+Allocation determines how much the household owns. Location determines which wrapper holds it.
 
-## The three wrappers
+## Protect timeframe first
 
-### Taxable
+Reserve needs liquidity. Bridge needs access. Do not sacrifice the job of the money for a tax benefit.
 
-- After-tax dollars
-- Current tax may apply to interest, dividends, and realized gains
-- Generally flexible access
+## Wrapper context
 
-### Traditional tax-deferred
+- Taxable: flexible access and possible current tax
+- Traditional: possible current tax benefit, tax-deferred growth, ordinary-income treatment on taxable withdrawals
+- Roth: after-tax contributions and possible tax-free qualified withdrawals
 
-- May provide a current tax deduction or exclusion, depending on the account and eligibility
-- Grows without annual tax inside the account
-- Taxable withdrawals are generally ordinary income
-- Required distributions can apply later
-
-### Roth
-
-- After-tax contributions
-- Qualified withdrawals can be tax-free
-- Original Roth IRA owners generally have no lifetime RMDs; other account and beneficiary rules vary
-
-Verify current rules for the actual account.
+Detailed tax rules belong in Module 5.
 
 ## Location principles
 
-1. Protect the timeframe before optimizing taxes.
-2. Tax-inefficient income-producing assets may benefit from tax shelter.
-3. High expected growth can be valuable in Roth space, while concentration and loss risk still matter.
-4. Tax-efficient, low-turnover holdings may fit taxable accounts when access is needed.
-5. Preserve the combined household target across all accounts.
+- Shelter tax-inefficient income when appropriate
+- Use Roth growth space deliberately without ignoring concentration risk
+- Keep tax-efficient accessible holdings in taxable when needed
+- Preserve the combined household allocation
 
-## Bitcoin location trade-off
+## Bitcoin trade-off
 
-- **Direct taxable Bitcoin:** flexible access and direct custody, with capital-gains tax when sold
-- **Bitcoin ETF in a retirement account:** tax-wrapper benefits and simplicity, without direct self-custody
-- **Self-directed retirement Bitcoin:** possible direct exposure with added fees, administration, custody, and prohibited-transaction risk
+- Direct taxable Bitcoin: self-custody and access; possible gain on sale
+- Bitcoin ETF: easier inside tax wrappers; no direct self-custody
+- Self-directed retirement structure: added administration, fees, and prohibited-transaction risk
 
-A split may preserve direct custody for the core holding while using retirement wrappers for part of the exposure.
+## Demo location
 
-## Check the investment menu
+- Cash: Reserve
+- Taxable brokerage: Bridge
+- Traditional workplace account: diversified Legacy holdings and some bonds
+- Roth: long-term growth within target
+- HSA: qualified healthcare Bridge
+- 529: college
+- Direct Bitcoin: self-custodied Legacy
 
-Some 401(k)s, HSAs, and education accounts cannot hold Bitcoin or a Bitcoin ETF. Confirm the actual options and fees before routing contributions.
+## Avoid automatic trades
 
-## Do not turn an ideal location into an automatic trade
-
-Taxable sales, rollovers, and custody changes can create costs and risks. New contributions and exchanges inside sheltered accounts may improve location gradually.
-
-## Where this number comes from
-
-- **What it means:** holdings and percentages inside each account
-- **Calculated from:** the holding records assigned to the account
-- **Edit source:** Orange Plan records and the real provider election
-- **This affects:** taxes, access, risk, routing, and withdrawal choices
+Use contributions and changes inside sheltered accounts before creating an unnecessary taxable sale, rollover, or custody move.
 
 ## Done when
 
-Every account has a clear job, its holdings support that job, the combined allocation matches the household target, and implementation changes are verified before execution.
+Every account's holdings support its job and the combined target remains intact.
