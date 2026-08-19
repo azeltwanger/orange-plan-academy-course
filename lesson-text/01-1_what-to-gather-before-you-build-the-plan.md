@@ -1,116 +1,62 @@
 # What to gather before you build the plan
 
-The first plan does not need perfect records, but every important number should have a source you can return to.
+The first plan can use reasonable estimates, but every important input should be marked as **verified**, **estimated**, or **missing**.
 
 ## Income
 
-Gather recent pay stubs for every earner and records for any other recurring income:
+Gather recent pay stubs for every earner and records for business, rental, contract, commission, dividend, interest, or other income.
 
-- W-2 income
-- Self-employment or business income
-- Rental income
-- Dividends and interest
-- Other recurring income
-
-Use the pay stub or source document to distinguish gross income, taxes, benefits, and the amount deposited.
+Verify whether the app field expects gross income rather than the take-home deposit. Separate recurring income from one-time amounts.
 
 ## Spending
 
-Review at least the last three months. Look back further when the period includes unusual travel, family support, medical costs, or another one-time expense.
+Review at least 3 months of checking and credit-card activity. Use a longer period when recent months include unusual travel, medical costs, family support, a move, or another large event.
 
-The starting number should represent **normal living spending outside debt payments**. Debt is entered separately so its payment can end when the debt is paid off.
+Estimate normal living spending without duplicating mortgage, auto, student-loan, or other debt payments.
 
-Linked accounts or imported transactions can help organize the spending. A manual total is fine when it is based on the accounts and cards the household actually uses.
+## Accounts, assets, and holdings
 
-## Accounts and assets
+List every account and what it actually holds:
 
-List every account and asset, including:
-
-- Checking and savings
-- Brokerage accounts
-- Retirement accounts
+- Cash and bank accounts
+- Brokerage and retirement accounts
 - HSA and education accounts
-- Pension or deferred-compensation accounts
-- Exchanges, hardware wallets, and collaborative custody
+- Pensions
 - Real estate
-- Other meaningful assets
+- Exchanges, hardware wallets, and other Bitcoin custody
 
-For Bitcoin, gather the **quantity and where it is held**. Orange Plan prices Bitcoin, so the useful input is the amount of Bitcoin rather than one fixed dollar value.
-
-For real estate, use a reasonable current estimate you can explain. It does not need to be a formal appraisal for the first plan.
+For Bitcoin, record the quantity and custody location. Use a current explainable estimate for assets without a live price.
 
 ## Debts
 
-For each debt, gather:
+For every debt, gather:
 
-- Current balance
-- Interest rate
-- Minimum payment
+- Balance
+- Rate
+- Required payment
+- Fixed or variable status
 - Remaining term or payoff date
 
-Include mortgages, credit cards, auto loans, student loans, personal loans, home-equity balances, and Bitcoin-backed loans.
+For a Bitcoin-backed loan, also gather pledged Bitcoin, LTV thresholds, lender top-up and release rules, interest terms, and liquidation process.
 
-For a Bitcoin-backed loan, also gather the pledged Bitcoin amount, margin-call and liquidation levels, top-up and release rules, and whether liquidation is partial or full.
+## Contributions and benefits
 
-## Contributions and employer benefits
+Record current contributions by account and the exact employer-match formula. Include pensions, deferred compensation, stock compensation, and other material benefits.
 
-Gather the amount currently going into each account, including regular Bitcoin purchases and taxable investing.
+## Future income and life events
 
-For an employer match, record the **formula**, not only one percentage. Also gather pension, deferred-compensation, or stock-compensation information that affects the plan.
+Gather Social Security and pension estimates with the start ages and survivor terms. List the expected future changes that may affect income, spending, assets, or debt.
 
-## Future retirement income
+## Cost basis
 
-Gather:
+Download original transaction exports from every exchange and broker, prior tax reports, and existing basis-software files.
 
-- Each spouse's Social Security estimate and the age attached to it
-- Pension amount and start date
-- Survivor option
-- Cost-of-living adjustment, when applicable
-- Other reliable retirement income
-
-These amounts reduce what the portfolio has to fund later.
-
-## Expected life events
-
-Make a list of the future changes the saved plan should include, such as:
-
-- College
-- Vehicle replacement
-- Home purchase or sale
-- One spouse leaving work
-- Business sale
-- Charitable giving or family support
-- Healthcare changes
-- Another large expected expense
-
-Do not add every possible idea. Include changes that are likely enough that you would be surprised if they never happened.
-
-## Cost basis — start now
-
-Cost basis is what you paid for a taxable asset. For Bitcoin, that generally means the date, amount, price, and fees for each purchase.
-
-Download the original transaction history from every exchange and brokerage you have used. Keep the untouched CSV or spreadsheet exports in one folder before cleaning or combining them.
-
-If basis is unknown, leave it blank rather than inventing a number. That keeps the missing information visible and prevents a guessed basis from creating a misleading tax result.
+Keep unknown basis visibly unknown. Do not invent a value to make the record look complete.
 
 ## Organize the sources
 
-Keep one plan folder with the original source files. When a number looks wrong later, you should be able to open the source, verify the input, and correct the input rather than guessing at the result.
+Keep one plan folder organized by income, spending, accounts, debts, benefits, retirement income, life events, and cost basis.
 
-## Your decision
+## Done when
 
-Choose what still needs to be gathered and when you will finish it.
-
-Do not delay the entire plan until every historical lot is reconstructed. Build the current baseline first, mark what is rough or missing, and continue the harder record work afterward.
-
-## Put it in Orange Plan
-
-Nothing needs to be entered during this lesson. Keep the documents open or the folder ready for the baseline walkthrough.
-
-## You are done when
-
-- Every account, balance, income source, debt, current contribution, and future income source is listed.
-- You have a normal spending estimate.
-- You have listed the expected life events.
-- You saved the original files needed to reconstruct cost basis.
-- The totals are close enough to what you would tell a planner out loud that you are ready to build the first working plan.
+The major source records are in one place, each material input is marked verified, estimated, or missing, and the household can build a first plan without pretending rough numbers are final.

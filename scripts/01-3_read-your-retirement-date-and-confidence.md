@@ -1,174 +1,116 @@
 TELEPROMPTER SCRIPT — segment 1.3
 1.3 Read your retirement date and confidence number
-~11 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
+~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
-So in this lesson we're going to cover the numbers at the top of your retirement plan, what each one means, and where the numbers are coming from.
+The retirement page gives you four related numbers:
 
-You have the retirement age you're planning around, the confidence target you choose, the result from the 1,000 test runs, and the earliest date Orange Plan found that reaches your target.
+- the retirement age you entered,
+- the confidence target you chose,
+- the result from the 1,000 test runs,
+- and the earliest date that reaches your target.
 
-They all connect, but they are not the same number.
+They connect, but they do not mean the same thing.
 
-And remember that this is your first read of the plan. Your cash flow, debt strategy, allocation, tax planning, and retirement income strategy are not finished yet. So I would not treat an exciting date as final, and I would not assume the plan is broken if the first result is lower than you want.
+This is also the first read of an unfinished plan. Cash Flow, Debt, Allocation, Tax, and Retirement Income still have decisions left. Treat the result as a baseline, not a verdict.
 
-This is the starting point. We're going to come back and see what moves as the rest of the plan gets built.
+== THE AGE AND SPENDING YOU ENTERED ==
 
-== THE AGE AND SPENDING YOU CHOSE ==
+The planned retirement age is the age you asked Orange Plan to test.
 
-The planned retirement age is the age that you entered.
+Our demo household enters age 55. The app is answering: if retirement starts at 55, using these balances, spending, income, debts, life events, assumptions, and saved strategies, how often does the money last through the planning age?
 
-If you put age 55 into the app, Orange Plan is going to test what happens if you retire at 55. The app is not choosing that age for you. You are asking it a question.
+The Baseline spending input is the annual living spending the plan needs to support. It is not gross income and it should not duplicate debt payments that already have their own payoff schedules.
 
-If I retire at 55, with these balances, this spending, this income, these life events, and these assumptions, how often does the money last through the end of the plan?
+The demo household uses $100,000 of retirement living spending in today's dollars. That is deliberately higher than its current $80,000 working-life spending because the household expects more travel and healthcare in the active retirement years. The reason for the difference needs to be in the plan; the number should not drift without explanation.
 
-The baseline-spending input next to it is the annual amount of living expenses that the plan needs to support. It is not your gross income, and it does not include debt payments that already have their own rows.
+== THE CONFIDENCE TARGET IS YOUR STANDARD ==
 
-The app keeps debt separate because it is going to model when each debt gets paid off. If your mortgage ends at age 67, that payment should end at 67. If you bury it inside living spending, the app is going to keep funding it for the rest of your life.
+The confidence target is another input you choose.
 
-I had a client realize he had tied this number to the income he was used to earning instead of what he and his wife would actually spend. Once we separated the living expenses from the debt payments, the number made a lot more sense.
+Orange Plan starts at 80%, and the current control allows a target from 50% to 99%.
 
-So before you trust the retirement result, make sure the spending input is what your life actually needs.
+At an 80% target, Orange Plan looks for the first retirement date where at least 800 of the 1,000 test runs lasted through the planning age.
 
-== THE CONFIDENCE TARGET ==
+A higher target asks for more cushion and generally moves the earliest date later. A lower target may move the date earlier and accepts more likelihood that the household has to adjust later.
 
-The confidence target is also a number that you choose.
+The target does not change the planned age. The planned age is the question being tested. The target is the standard the answer is being compared with.
 
-Orange Plan starts at 80%, and you can move it anywhere from 50% to 99%.
+== WHAT THE 1,000 TEST RUNS MEAN ==
 
-The target tells the app how many of the 1,000 test runs need to stay funded through your planning age before it calls a date your earliest retirement date.
+Each test run begins with the same saved plan.
 
-So if your target is 80%, the app is looking for the first date where at least 800 of the 1,000 test runs lasted as long as you planned.
+Income comes in. Taxes and spending are paid. Debts follow their schedules. Contributions and life events occur. Retirement begins. The saved funding strategy supplies the withdrawals.
 
-If you move the target higher, you're asking for more cushion, and the earliest date is generally going to move later.
+The return and inflation experience changes across the runs. Some are easier. Some contain bad years or several difficult years close together.
 
-If you move it lower, the date may move earlier, but you're accepting a greater chance that the plan needs an adjustment later.
+The result is the share of runs where the money lasted through the planning age.
 
-The target does not change the retirement age you entered. Your planned age is the age you're testing. The target is the standard you're asking the plan to meet.
+An 83% result means roughly 830 of the 1,000 runs lasted as long as planned under the saved plan.
 
-== WHAT THE TEST RUNS ARE DOING ==
+It does not mean there is a 17% chance the household goes bankrupt.
 
-Orange Plan takes the entire saved plan and runs it 1,000 times.
+The test holds the plan constant. In real life, the household can spend less for a period, delay a large purchase, work longer, save more, or change the funding strategy.
 
-Each run starts with the balances and accounts you entered. Then income comes in, taxes and expenses get paid, debts follow their payoff schedules, contributions happen, life events occur, retirement starts, and the plan draws from the accounts based on the strategy you saved.
+The cleanest interpretation is: in 83% of the runs, this saved plan did not need a change for the money to last as long as planned. In the other runs, the plan as written did not hold up all the way.
 
-The returns are different across the test runs. Some are easier. Some have a normal bear market. Some have several bad years close together. Inflation also changes through the model.
+That does not prove one small change fixes every unsuccessful run. It tells us where more cushion or flexibility may be needed.
 
-At the end, the app counts how many runs still had the money last through your planning age.
+== WHY 80% IS A STARTING POINT, NOT A MAGIC NUMBER ==
 
-So if the ring says 83%, the app is saying that your money lasted as long as planned in about 830 of the 1,000 test runs.
+I think 80% is a good starting target when you do not have a reason to use something else.
 
-That does not mean you have a 17% chance of going bankrupt.
+Around 70% may still be workable for a household with flexible spending and a willingness to adjust. Below roughly 60%, I would start looking for a meaningful change in spending, saving, timing, or risk.
 
-The test is holding the saved plan constant. It assumes you keep the same retirement timing, spending, and strategy even when the results are bad.
+On the other side, 95% or 99% is not automatically better. It may require working longer, spending less, or saving far more than the life the household actually wants requires.
 
-In real life, you can make changes. You might spend less for a period of time, delay a large purchase, work a little longer, save more, or change how the accounts are being used.
+A higher target can be right when the spending is inflexible, the household wants a larger legacy, or adjustment risk is unacceptable. It remains a trade-off rather than a grade.
 
-So I think the better way to read 83% is that in 83% of the test runs, the saved plan did not need you to change anything for the money to last as long as planned. In the other runs, the plan needed to bend somewhere.
+== THE EARLIEST DATE FOLLOWS THE TARGET ==
 
-That does not tell us that one small change fixes every unsuccessful run. It tells us that the current plan, unchanged, did not hold up in all of them.
+Our demo household enters age 55, $100,000 of Baseline retirement spending, and an 80% target.
 
-== WHAT TARGET I WOULD USE ==
+The app then produces two outputs we read together:
 
-I think 80% is a good place to start if you do not have a reason to choose something else. I do not think it is a magic number.
+1. Confidence at the planned age of 55
+2. The earliest date where confidence first reaches 80%
 
-When I'm reviewing a plan, I am generally comfortable when it is above 80%. A result around 70% can still be workable if the person understands that adjustments may be needed. Once a plan is below about 60%, I would start talking about making a real change to spending, saving, retirement timing, or allocation.
+The actual values come from the current saved demo checkpoint. The spoken lesson does not need to invent them.
 
-On the flip side, 95% or 99% is not automatically better. A higher target may mean you work longer, spend less, save more than you need, or leave a much larger amount behind.
+If confidence at 55 is below 80%, the household can keep age 55 and improve the plan, move retirement later, reduce spending, save more, or test another decision.
 
-That may be exactly what you want. But it is still a trade-off.
+If confidence at 55 is already above the target, the plan may have room to retire sooner, spend more, take less risk, or save less aggressively.
 
-The target is asking how much adjustment risk you're willing to accept in exchange for retiring sooner or spending more.
+The confidence result and earliest date come from the same test-run process. There is no separate deterministic retirement date being compared with Monte Carlo.
 
-== THE EARLIEST DATE AT YOUR TARGET ==
-
-After the test finishes, Orange Plan shows the earliest retirement date that reached the target you selected.
-
-Let's walk through an example.
-
-Let's say our demo household enters a planned retirement age of 55, baseline spending of $100,000 a year, and an 80% target.
-
-The result at age 55 comes back at 68%.
-
-Then Orange Plan searches forward and finds that age 58 is the first age where the plan reaches 80%.
-
-Now we have two answers.
-
-At age 55, the plan lasted as long as planned in 68% of the test runs.
-
-At age 58, it first reached the 80% standard they chose.
-
-They can keep age 55 and work on the plan, move retirement later, lower spending, save more, or test another decision.
-
-The confidence result and the earliest date come from the same test-run process. You are not comparing two different retirement calculations.
-
-And this Plan confidence target is not the same control as the starting-spending choices or annual spending guardrails on the Income page. Those have a different job later in the plan.
+The Plan confidence target is also different from the starting-spending choices and annual spending policy on the Income page. Those answer different retirement-income questions later.
 
 == WHERE THIS NUMBER CAME FROM ==
 
-One of the most common questions I get is, where did this number come from?
+For confidence:
 
-For every important number in Orange Plan, we're going to answer four questions.
+**What it means:** the share of test runs where the money lasted through the planning age.
 
-What does it mean?
+**Calculated from:** the entire saved plan—balances, holdings, income, spending, debts, life events, taxes, assumptions, retirement timing, and saved strategies.
 
-What is it calculated from?
+**Edit source:** whichever underlying input is wrong or whichever decision the household wants to test.
 
-Where do I edit the source?
+**This affects:** the verdict shown on the plan and the earliest date meeting the chosen target.
 
-And what else does it affect?
+If spending is wrong, fix spending. If a Bitcoin ETF follows stock returns, fix the holding assumption. If a future cost is missing, add the life event. If timing is the decision, change the age.
 
-For confidence, it means the share of test runs where the money lasted through your planning age.
-
-It is calculated from the entire saved plan: balances, spending, income, debts, life events, taxes, return assumptions, retirement timing, and the strategies you save.
-
-The edit source depends on what is wrong or what you want to test.
-
-If spending is wrong, fix spending. If a Bitcoin ETF is being modeled like a stock, fix that holding's return assumption. If a future expense is missing, add the life event. If retirement timing is the decision, change the age.
-
-You do not change the output until you like the answer. You fix the input or change the decision that produced it.
-
-== HOW TO USE YOUR FIRST RESULT ==
-
-When you run the plan, I would do three things.
-
-First, read the planned age and the confidence result at that age.
-
-Second, read the earliest date that reaches your target.
-
-Third, if the planned age is below the target, pick one lever to test first.
-
-Do not change spending, retirement age, returns, savings, and allocation all at the same time. You might get a better answer, but you will not know which decision mattered.
-
-Change one thing, recheck the plan, and see what moved.
-
-And if the result is already far above your target, ask whether the plan gives you room to retire sooner, spend more, take less risk, or stop saving as aggressively.
+Do not change several inputs at once. Change one meaningful lever, rerun, and see what actually moved the result.
 
 == YOUR DECISION ==
 
-Your decision is the confidence target you want Orange Plan to use and the first lever you would test if your planned retirement age comes in below it.
-
-I think 80% is a good starting point. Then move it higher or lower based on how much adjustment risk you are comfortable accepting.
+Choose the Plan confidence target and the first lever you would test if the planned age falls below it.
 
 == PUT IT IN ORANGE PLAN ==
 
-Go to Plan, then Retirement.
+On Plan → Retirement, confirm planned age, Baseline spending, and the confidence target. Run or refresh the confidence check after the source inputs are current.
 
-Set your planned retirement age, baseline spending, and confidence target.
-
-Then run Find my earliest date, or use Recheck if an input changed.
-
-When it finishes, read the planned age, the percentage of test runs that lasted, and the earliest date that reached your target.
+Then read confidence at the planned age and the earliest date meeting the target together.
 
 == YOU ARE DONE WHEN ==
 
-You can explain the three numbers without mixing them up.
-
-The planned retirement age is the age you chose to test.
-
-The confidence target is the minimum result you want.
-
-The confidence result and earliest target date are what the 1,000 test runs found.
-
-And if the result at your planned age is below the target, you have picked one lever to test first.
-
-Then watch the walkthrough below this module, where we're going to run this on the demo household and trace the result back to the inputs that created it.
+You can explain all four numbers without mixing them up, state why the spending input fits the household, and name one lever to test rather than changing the entire plan at once.
