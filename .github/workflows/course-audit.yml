@@ -8,17 +8,31 @@ on:
     paths:
       - 'scripts/**'
       - 'lesson-text/**'
+      - 'professional-review/**'
       - 'tools/course_audit.py'
       - 'CURRENT-COURSE.md'
+      - 'COURSE-APP-CONTRACT.md'
+      - 'BUILD-YOUR-PLAN-CROSSWALK.md'
+      - 'AUSTIN-DEMO-DECISIONS.md'
       - 'DEMO-HOUSEHOLD.md'
+      - 'DEMO-CHECKPOINT-RUN-SHEET.md'
+      - 'PRE-DICTATION-QA.md'
+      - 'FILMING-READINESS.md'
       - '.github/workflows/course-audit.yml'
   pull_request:
     paths:
       - 'scripts/**'
       - 'lesson-text/**'
+      - 'professional-review/**'
       - 'tools/course_audit.py'
       - 'CURRENT-COURSE.md'
+      - 'COURSE-APP-CONTRACT.md'
+      - 'BUILD-YOUR-PLAN-CROSSWALK.md'
+      - 'AUSTIN-DEMO-DECISIONS.md'
       - 'DEMO-HOUSEHOLD.md'
+      - 'DEMO-CHECKPOINT-RUN-SHEET.md'
+      - 'PRE-DICTATION-QA.md'
+      - 'FILMING-READINESS.md'
       - '.github/workflows/course-audit.yml'
   workflow_dispatch:
 
@@ -37,7 +51,7 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: Audit core scripts
+      - name: Audit core scripts and lesson text
         run: python tools/course_audit.py --out-dir artifacts/course-audit
 
       - name: Add report to the job summary

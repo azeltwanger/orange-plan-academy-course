@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
-"""Audit the current Orange Plan Academy core script set.
+"""Audit the current Orange Plan Academy core scripts and lesson texts.
 
-The tool is deliberately small and dependency-free so Austin can run it locally
-and GitHub Actions can run it after every script change.
+The tool is dependency-free so it can run locally and in GitHub Actions after
+course changes. It checks structure, provenance, runtime, matching lesson text,
+and known retired or unsafe teaching language.
 """
 
 from __future__ import annotations
@@ -31,7 +32,7 @@ PROVENANCE_MARKERS = (
     "AUSTIN APPROVED",
 )
 
-REQUIRED_SECTIONS = (
+REQUIRED_SCRIPT_SECTIONS = (
     "== YOUR DECISION ==",
     "== PUT IT IN ORANGE PLAN ==",
     "== YOU ARE DONE WHEN ==",
@@ -49,7 +50,16 @@ CRITICAL_LEGACY_PATTERNS = {
         r"beneficiar(?:y|ies)(?:\s+forms?)?\s+(?:always\s+)?override(?:s)?\s+(?:the\s+)?will",
         re.I,
     ),
-    "hardcoded universal RMD age": re.compile(r"RMDs?\s+(?:always\s+)?(?:start|begin)s?\s+at\s+(?:age\s+)?73", re.I),
+    "hardcoded universal RMD age": re.compile(
+        r"RMDs?\s+(?:always\s+)?(?:start|begin)s?\s+at\s+(?:age\s+)?73",
+        re.I,
+    ),
+    "retired encrypted-backup wording": re.compile(r"\bencrypted (?:data )?backup\b", re.I),
+    "restore described as currently usable": re.compile(
+        r"\b(?:restorable plan data|data-recovery file used to restore|"
+        r"restore(?:d|s)? the plan from (?:this|the) (?:file|export))\b",
+        re.I,
+    ),
 }
 
 WARNING_PATTERNS = {
@@ -59,12 +69,17 @@ WARNING_PATTERNS = {
         re.I,
     ),
     "unqualified all Roth no-RMD claim": re.compile(r"\bNo RMDs ever\b", re.I),
+    "unqualified app-wide apply rule": re.compile(
+        r"If you (?:did not|didn't) click Apply, it (?:did not|didn't) happen",
+        re.I,
+    ),
 }
 
 
 @dataclass
 class ScriptResult:
     path: str
+    lesson_text_path: str
     module: str
     lesson: str
     title: str
@@ -73,9 +88,24 @@ class ScriptResult:
     estimated_minutes: float
     declared_minutes: float | None
     matching_lesson_text: bool
-    missing_sections: list[str]
-    critical_findings: list[str]
-    warnings: list[str]
+    missing_script_sections: list[str]
+    script_critical_findings: list[str]
+    script_warnings: list[str]
+    lesson_text_critical_findings: list[str]
+    lesson_text_warnings: list[str]
+
+    @property
+    def critical_count(self) -> int:
+        return (
+            len(self.missing_script_sections)
+            + len(self.script_critical_findings)
+            + len(self.lesson_text_critical_findings)
+            + (0 if self.matching_lesson_text else 1)
+        )
+
+    @property
+    def warning_count(self) -> int:
+        return len(self.script_warnings) + len(self.lesson_text_warnings)
 
 
 def current_core_scripts(root: Path) -> list[Path]:
@@ -151,27 +181,45 @@ def audit_script(root: Path, path: Path) -> ScriptResult:
     words = len(WORD.findall(body))
     estimated = words / WORDS_PER_MINUTE
     declared = parse_declared_runtime(content)
-    lesson_text = root / "lesson-text" / path.name
+    lesson_text_path = root / "lesson-text" / path.name
+    lesson_exists = lesson_text_path.exists()
 
-    missing_sections = [section for section in REQUIRED_SECTIONS if section not in content]
-    critical = find_patterns(content, CRITICAL_LEGACY_PATTERNS)
-    warnings = find_patterns(content, WARNING_PATTERNS)
+    missing_sections = [
+        section for section in REQUIRED_SCRIPT_SECTIONS if section not in content
+    ]
+    script_critical = find_patterns(content, CRITICAL_LEGACY_PATTERNS)
+    script_warnings = find_patterns(content, WARNING_PATTERNS)
+    lesson_critical: list[str] = []
+    lesson_warnings: list[str] = []
 
     if parse_provenance(content) == "MISSING / LEGACY":
-        critical.append("missing current provenance label")
+        script_critical.append("missing current provenance label")
     if declared is None:
-        warnings.append("missing declared runtime")
+        script_warnings.append("missing declared runtime")
     elif abs(declared - estimated) > RUNTIME_WARNING_TOLERANCE_MINUTES:
-        warnings.append(
-            f"declared runtime differs from raw word estimate by {abs(declared - estimated):.1f} minutes"
+        script_warnings.append(
+            "declared runtime differs from raw word estimate by "
+            f"{abs(declared - estimated):.1f} minutes"
         )
     if estimated > 11.5:
-        warnings.append("estimated runtime exceeds 11.5 minutes")
+        script_warnings.append("estimated runtime exceeds 11.5 minutes")
     if words < 350:
-        warnings.append("spoken script is under 350 words; confirm it still teaches the decision")
+        script_warnings.append(
+            "spoken script is under 350 words; confirm it still teaches the decision"
+        )
+
+    if lesson_exists:
+        lesson_content = lesson_text_path.read_text(encoding="utf-8")
+        lesson_critical.extend(find_patterns(lesson_content, CRITICAL_LEGACY_PATTERNS))
+        lesson_warnings.extend(find_patterns(lesson_content, WARNING_PATTERNS))
+        if not lesson_content.lstrip().startswith("# "):
+            lesson_critical.append("missing H1 title")
+        if not re.search(r"^##\s+Done when\s*$", lesson_content, re.I | re.M):
+            lesson_critical.append("missing Done when heading")
 
     return ScriptResult(
         path=str(path.relative_to(root)),
+        lesson_text_path=str(lesson_text_path.relative_to(root)),
         module=filename_match.group("module"),
         lesson=filename_match.group("lesson"),
         title=parse_title(lines, path.stem),
@@ -179,15 +227,30 @@ def audit_script(root: Path, path: Path) -> ScriptResult:
         spoken_words=words,
         estimated_minutes=round(estimated, 1),
         declared_minutes=declared,
-        matching_lesson_text=lesson_text.exists(),
-        missing_sections=missing_sections,
-        critical_findings=critical,
-        warnings=warnings,
+        matching_lesson_text=lesson_exists,
+        missing_script_sections=missing_sections,
+        script_critical_findings=script_critical,
+        script_warnings=script_warnings,
+        lesson_text_critical_findings=lesson_critical,
+        lesson_text_warnings=lesson_warnings,
     )
 
 
+def combined_findings(result: ScriptResult) -> list[str]:
+    findings = [f"script: {item}" for item in result.script_critical_findings]
+    findings.extend(f"script: missing {item}" for item in result.missing_script_sections)
+    findings.extend(f"lesson text: {item}" for item in result.lesson_text_critical_findings)
+    findings.extend(f"script warning: {item}" for item in result.script_warnings)
+    findings.extend(f"lesson warning: {item}" for item in result.lesson_text_warnings)
+    if not result.matching_lesson_text:
+        findings.append("matching lesson text is missing")
+    return findings
+
+
 def markdown_report(results: list[ScriptResult]) -> str:
-    module_totals: dict[str, dict[str, float]] = defaultdict(lambda: {"scripts": 0, "words": 0, "minutes": 0.0})
+    module_totals: dict[str, dict[str, float]] = defaultdict(
+        lambda: {"scripts": 0, "words": 0, "minutes": 0.0}
+    )
     for result in results:
         total = module_totals[result.module]
         total["scripts"] += 1
@@ -196,8 +259,8 @@ def markdown_report(results: list[ScriptResult]) -> str:
 
     total_words = sum(item.spoken_words for item in results)
     total_minutes = sum(item.estimated_minutes for item in results)
-    critical_count = sum(len(item.critical_findings) for item in results)
-    warning_count = sum(len(item.warnings) for item in results)
+    critical_count = sum(item.critical_count for item in results)
+    warning_count = sum(item.warning_count for item in results)
     missing_text_count = sum(not item.matching_lesson_text for item in results)
 
     lines = [
@@ -205,8 +268,9 @@ def markdown_report(results: list[ScriptResult]) -> str:
         "",
         f"- Core teach scripts: **{len(results)}**",
         f"- Spoken words: **{total_words:,}**",
-        f"- Estimated concept-video runtime at {WORDS_PER_MINUTE} wpm: **{total_minutes:.1f} minutes ({total_minutes / 60:.1f} hours)**",
-        f"- Critical findings: **{critical_count}**",
+        f"- Estimated concept-video runtime at {WORDS_PER_MINUTE} wpm: "
+        f"**{total_minutes:.1f} minutes ({total_minutes / 60:.1f} hours)**",
+        f"- Critical findings across scripts and lesson text: **{critical_count}**",
         f"- Warnings: **{warning_count}**",
         f"- Missing matching lesson texts: **{missing_text_count}**",
         "",
@@ -219,7 +283,8 @@ def markdown_report(results: list[ScriptResult]) -> str:
     for module in sorted(module_totals):
         total = module_totals[module]
         lines.append(
-            f"| {int(module)} | {int(total['scripts'])} | {int(total['words']):,} | {total['minutes']:.1f} |"
+            f"| {int(module)} | {int(total['scripts'])} | "
+            f"{int(total['words']):,} | {total['minutes']:.1f} |"
         )
 
     lines.extend(
@@ -233,24 +298,31 @@ def markdown_report(results: list[ScriptResult]) -> str:
     )
 
     for result in results:
-        findings = result.critical_findings + result.missing_sections + result.warnings
+        findings = combined_findings(result)
         findings_text = "; ".join(findings) if findings else "—"
-        declared_text = f"{result.declared_minutes:g}" if result.declared_minutes is not None else "—"
+        declared_text = (
+            f"{result.declared_minutes:g}"
+            if result.declared_minutes is not None
+            else "—"
+        )
         lines.append(
-            f"| {result.title} | {result.spoken_words:,} | {result.estimated_minutes:.1f} | "
-            f"{declared_text} | {result.provenance} | "
+            f"| {result.title} | {result.spoken_words:,} | "
+            f"{result.estimated_minutes:.1f} | {declared_text} | "
+            f"{result.provenance} | "
             f"{'Yes' if result.matching_lesson_text else 'NO'} | {findings_text} |"
         )
 
     if critical_count:
         lines.extend(["", "## Critical findings", ""])
         for result in results:
-            for finding in result.critical_findings:
+            for finding in result.script_critical_findings:
                 lines.append(f"- `{result.path}` — {finding}")
-            for missing in result.missing_sections:
+            for missing in result.missing_script_sections:
                 lines.append(f"- `{result.path}` — missing `{missing}`")
             if not result.matching_lesson_text:
-                lines.append(f"- `{result.path}` — matching lesson text is missing")
+                lines.append(f"- `{result.lesson_text_path}` — file is missing")
+            for finding in result.lesson_text_critical_findings:
+                lines.append(f"- `{result.lesson_text_path}` — {finding}")
 
     lines.extend(
         [
@@ -266,8 +338,16 @@ def markdown_report(results: list[ScriptResult]) -> str:
 
 def parse_args(argv: Iterable[str]) -> argparse.Namespace:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--root", type=Path, default=Path(__file__).resolve().parents[1])
-    parser.add_argument("--out-dir", type=Path, default=Path("artifacts/course-audit"))
+    parser.add_argument(
+        "--root",
+        type=Path,
+        default=Path(__file__).resolve().parents[1],
+    )
+    parser.add_argument(
+        "--out-dir",
+        type=Path,
+        default=Path("artifacts/course-audit"),
+    )
     parser.add_argument("--expected-core-count", type=int, default=28)
     parser.add_argument("--strict-warnings", action="store_true")
     return parser.parse_args(list(argv))
@@ -276,7 +356,11 @@ def parse_args(argv: Iterable[str]) -> argparse.Namespace:
 def main(argv: Iterable[str] = sys.argv[1:]) -> int:
     args = parse_args(argv)
     root = args.root.resolve()
-    out_dir = (root / args.out_dir).resolve() if not args.out_dir.is_absolute() else args.out_dir
+    out_dir = (
+        (root / args.out_dir).resolve()
+        if not args.out_dir.is_absolute()
+        else args.out_dir
+    )
     out_dir.mkdir(parents=True, exist_ok=True)
 
     paths = current_core_scripts(root)
@@ -290,21 +374,21 @@ def main(argv: Iterable[str] = sys.argv[1:]) -> int:
     )
     print(markdown)
 
-    critical = []
+    failures: list[str] = []
     if len(results) != args.expected_core_count:
-        critical.append(
+        failures.append(
             f"expected {args.expected_core_count} core scripts but found {len(results)}"
         )
     for result in results:
-        if result.critical_findings or result.missing_sections or not result.matching_lesson_text:
-            critical.append(result.path)
+        if result.critical_count:
+            failures.append(result.path)
 
-    if critical:
+    if failures:
         print("\nAudit failed:", file=sys.stderr)
-        for item in critical:
+        for item in failures:
             print(f"- {item}", file=sys.stderr)
         return 1
-    if args.strict_warnings and any(result.warnings for result in results):
+    if args.strict_warnings and any(result.warning_count for result in results):
         return 2
     return 0
 
