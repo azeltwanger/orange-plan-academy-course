@@ -1,161 +1,152 @@
-# Demo-number reconciliation audit
+# Demo-number reconciliation
 
-**Status:** active pre-dictation QA  
-**Authority:** `DEMO-HOUSEHOLD.md`  
-**Goal:** remove numeric contradictions before Austin reviews or dictates scripts so he does not have to approve wording twice.
+**Status:** source-input reconciliation complete; app-calculated outputs held for checkpoint run  
+**Authority:** `DEMO-HOUSEHOLD.md`
 
-This audit separates three problems:
+This file records what has been reconciled and prevents an older example from quietly replacing the continuous household.
 
-1. **True conflict** — two files claim different facts about the continuous demo household.
-2. **Unlabelled separate example** — the math may be valid, but the learner cannot tell that it is not the demo household.
-3. **Unsupported app output** — the course presents a calculated result that has not been reproduced from a versioned demo account.
+## Rules
 
-## Highest-priority corrections
+1. `DEMO-HOUSEHOLD.md` owns every continuous-demo input.
+2. A script, lesson, slide, or walkthrough may not change one input locally.
+3. A separate teaching example is labelled **illustrative — not the demo household**.
+4. Confidence, tax, withdrawal, Bitcoin-sale, estate, and Scenario outputs come from the current app checkpoint, not from prose.
+5. When a demo input changes, update the household file first, rerun every affected checkpoint, and then update course assets.
 
-| Area | Current conflict | Required correction | Status |
-|---|---|---|---|
-| Module 1 confidence | The current draft uses a precise planned age, confidence, and earliest qualifying age before a versioned demo run exists. | Keep the mechanism; label any precise result hypothetical until the checkpoint export supplies the real values. | OPEN |
-| Current vs retirement spending | Cash Flow uses $80,000 living spending while Income drafts use $100,000 without consistently explaining whether this is a different stage or a different lifestyle. | Lock both current and planned retirement living spending at $80,000 for the continuous demo. Keep taxes and debt outside living spending. | OPEN |
-| Retirement first-year funding | Current Income draft uses $100,000 spending + $18,000 costs − $20,000 income = $98,000. | Use $80,000 spending + $18,000 taxes/debt − $0 recurring income = $98,000. This preserves the total while making every component match the demo. | OPEN |
-| Social Security bridge | One draft implies a 5-year bridge; the older teaching example and locked profile imply retirement at 60 and full Social Security at 67. | Use a 7-year income bridge for the demo. Explain account-access rules separately and avoid one universal age shortcut. | OPEN |
-| Starting-spending bands | Draft amounts of $86k / $100k / $119k are presented as though the demo account produced them. | Replace with placeholders or clearly hypothetical round examples until the Income page produces the actual 95/80/60 amounts. | OPEN |
-| Annual guardrail dollars | A 10% change is explained from a $100,000 target. | Use $80,000 for the demo: maximum 10% correction is up to $8,000/year or about $667/month before the exact policy calculation. | OPEN |
-| Retirement reserve | Dictated 2.2 uses $80,000 and $51,600, while later Income drafts use different spending and income values. | Keep the dictated $120,000 early target and approximately $43,000 later target as the continuous demo arithmetic. | OPEN |
-| Insurance need | Insurance draft begins from $100,000 living spending even though current household spending is $80,000, then derives a $55,000 survivor gap without a visible survivor budget. | Show the survivor all-in need as $95,000, less $40,000 survivor income = $55,000. State that $175,000 is existing coverage plus usable assets, not the entire Bitcoin stack. | OPEN |
-| College commitment | The household has two children, while the lesson can read as though $80,000 is for one child or each child. | State that $80,000 is the household's total family commitment across the education goal unless Austin deliberately changes it. | OPEN |
-| Contribution route | The $4,000 surplus route includes a $750 workplace contribution, but the interaction with payroll deductions and the tax estimate is not explicit. | Define $4,000 as available before new savings routing and verify the app does not count the employee deferral twice. | OPEN |
+## Working household
 
-## Module-by-module pass
+| Area | Current canonical input |
+|---|---|
+| Household | Alex age 45, Jordan age 43, two children ages 10 and 12; names and Colorado state remain Austin decisions |
+| Income | $150,000 + $40,000 = $190,000 gross |
+| Current living spending | $80,000/year, debt excluded |
+| Bare-bones spending | $60,000/year · $5,000/month |
+| Teaching tax estimate for cash-flow reconciliation | $40,000/year; replace with current engine output if materially different |
+| Required debt payments | $22,000/year · about $1,833/month |
+| Reliable surplus | $48,000/year · $4,000/month |
+| Retirement living spending | $100,000/year in today's dollars; deliberately higher than current spending and still awaiting Austin confirmation |
+| Planned retirement age / planning age | 55 / 95 |
+| Confidence target | 80% with 1,000 test runs |
+| Part-time retirement income | $20,000/year for first 3 retirement years; proposed |
+| Later durable income | $52,000/year in today's dollars beginning at age 67; proposed |
 
-### Module 0
+## Balance-sheet reconciliation
 
-| File | Check | Status |
-|---|---|---|
-| `scripts/00-1_how-to-use-this-course.md` | Course map matches current 28-lesson core structure. | VERIFY AFTER OTHER MODULES |
-| `lesson-text/00-1_how-to-use-this-course.md` | Same module names and outcomes as `CURRENT-COURSE.md`. | VERIFY AFTER OTHER MODULES |
-| 0.2 script and text | No demo arithmetic; AI versus engine distinction is stable. | LOW RISK |
+At the **illustrative** $100,000 Bitcoin price:
 
-### Module 1
+| Holding / asset | Value |
+|---|---:|
+| Bitcoin · 1.75 BTC | $175,000 |
+| Stocks | $75,000 |
+| Bonds | $15,000 |
+| Cash | $30,000 |
+| **Investable assets** | **$295,000** |
+| Residence | $450,000 |
+| **Gross assets** | **$745,000** |
 
-| File | Check | Status |
-|---|---|---|
-| 1.1 script and text | Source-document list supports every locked demo input. | REVIEW |
-| 1.2 script and text | Broad assumptions versus holding overrides; spot Bitcoin ETF example remains generic. | REVIEW |
-| 1.3 script and text | Replace unsupported exact confidence/age result or mark it hypothetical. | OPEN |
-| 1.3 script and text | Planned retirement age must be 60 when referring to the demo. | OPEN |
-| 1.3 script and text | Current living spending and retirement spending must not be conflated. | OPEN |
+| Debt | Value |
+|---|---:|
+| Mortgage | $280,000 |
+| Auto loan | $18,000 |
+| **Total debt** | **$298,000** |
+| **Illustrative net worth** | **$447,000** |
 
-### Module 2
+Checks:
 
-| File | Check | Status |
-|---|---|---|
-| 2.1 script and text | $190k − $40k − $80k − $22k = $48k/year = $4k/month. | RECONCILES |
-| 2.1 script and text | Living excludes mortgage and car payments. | RECONCILES |
-| 2.2 script | $5k × 6 = $30k working reserve. | RECONCILES |
-| 2.2 script | $80k early-retirement spending → $120k at 18 months. | RECONCILES |
-| 2.2 script | $80k − $51.6k = $28.4k gap → approximately $43k at 18 months. | RECONCILES |
-| 2.3 script and text | $35k vehicle − $10k proceeds − $5k purchase-year flow = $20k pre-fund. | RECONCILES |
-| 2.4 script and text | $80k commitment − $25k 529 − $20k cash flow − $10k other = $25k gap. | RECONCILES; CLARIFY TWO-CHILD TOTAL |
+- Bitcoin allocation: $175,000 ÷ $295,000 = **59.3%** of investable assets
+- Whole-gross-asset exposure: $175,000 ÷ $745,000 = **23.5%**
+- DTA: $298,000 ÷ $745,000 = **40.0%**
+- DTI: $1,833 ÷ $15,833 = about **11.6%**
+- 75% Bitcoin decline: $175,000 × 75% = **$131,250** temporary Bitcoin loss before other assets move
 
-### Module 3
+The live Bitcoin price changes current values, allocation, DTA, and drawdown dollars. Recorded walkthroughs use the checkpoint date and visible price.
 
-| File | Check | Status |
-|---|---|---|
-| 3.1 script and text | Debt $280k + $18k = $298k. | RECONCILES |
-| 3.1 script and text | DTI $22k / $190k = 11.6%. | RECONCILES |
-| 3.1 script and text | DTA $298k / $745k = 40.0%. | RECONCILES |
-| 3.1 script and text | Household ceiling is Austin judgment, not an app-derived fact. | REVIEW JUDGMENT |
+## Cash-flow and routing reconciliation
 
-### Module 4
+`$190,000 income − $40,000 estimated tax − $80,000 living − $22,000 required debt = $48,000/year = $4,000/month`
 
-| File | Check | Status |
-|---|---|---|
-| 4.1 script and text | $175k BTC / $295k investable = 59.3%. | RECONCILES |
-| 4.1 script and text | $175k BTC / $745k gross assets = 23.5%. | RECONCILES |
-| 4.1 script and text | 75% BTC drawdown removes $131,250 and leaves $43,750 BTC. | RECONCILES |
-| 4.2 script and text | Stocks $75k + bonds $15k + cash $30k + BTC $175k = $295k. | RECONCILES |
-| 4.2 script and text | Account-level holdings must match the $25k 529 used in Module 2.4. | OPEN DETAIL CHECK |
-| 4.3 script and text | $750 + $500 + $1,250 + $1,500 = $4,000. | RECONCILES |
-| 4.3 script and text | Employee contribution and tax treatment are not counted twice. | APP VERIFICATION NEEDED |
-| 4.4 script and text | Account-location example preserves the same household allocation. | REVIEW |
+Reserve:
 
-### Module 5
+`$5,000 bare-bones basis × 6 months = $30,000 target`
 
-| File | Check | Status |
-|---|---|---|
-| 5.1 script and text | 1.25 + 0.40 + 0.10 = 1.75 BTC. | RECONCILES |
-| 5.1 script and text | Only $48k basis is known; no complete sale-tax result is claimed for unresolved lots. | REVIEW |
-| 5.2 script and text | No demo tax amount is stated without a state and current app calculation. | REVIEW |
-| 5.2 script and text | RMD, Roth, capital-gain, and conversion language receives CPA review. | PROFESSIONAL REVIEW |
+Monthly route:
 
-### Module 6
+| Destination | Amount |
+|---|---:|
+| Workplace employee contribution | $750 |
+| Auto-loan extra principal | $500 |
+| HSA / Roth / additional traditional | $1,250 |
+| Taxable Bridge and investment allocation | $1,500 |
+| **Total** | **$4,000** |
 
-| File | Check | Status |
-|---|---|---|
-| 6.1 script and text | Retirement living spending should be $80k, not $100k. | OPEN |
-| 6.1 script and text | Full recurring floor $51.6k at age 67. | OPEN ALIGNMENT |
-| 6.1 script and text | Income bridge is 7 years from age 60 to 67. | OPEN |
-| 6.1 script and text | Retirement cash buffer examples reconcile to 2.2. | OPEN |
-| 6.2 script and text | First-year total draw remains $98k using $80k + $18k − $0. | OPEN |
-| 6.2 script and text | Illustrative $60k taxable + $38k traditional source split adds to $98k. | RECONCILES; APP OUTPUT PENDING |
-| 6.2 script and text | Borrowing remains optional and all loan costs/risk are shown. | REVIEW |
-| 6.3 script and text | Replace $100k target and unsupported exact bands. | OPEN |
-| 6.3 script and text | Keep Plan confidence, spending-band confidence, and annual policy separate. | RECONCILES CONCEPTUALLY |
+Employer match is additional employer money and is not subtracted from the $4,000 household route.
 
-### Module 7
+The app checkpoint must verify that payroll contributions and the tax estimate do not double-count the employee deferral.
 
-| File | Check | Status |
-|---|---|---|
-| 7.1 script and text | 1.50 BTC self-custody + 0.25 BTC exchange = 1.75 BTC. | RECONCILES |
-| 7.2 script and text | Recovery testing does not tell the learner to wipe the only meaningful device without safeguards. | RECONCILES |
-| 7.3 script and text | Family map contains process, never secrets. | RECONCILES |
-| Module 7 | Technical claims receive custody-professional review. | PROFESSIONAL REVIEW |
+## Future-cost reconciliation
 
-### Module 8
+Vehicle in 5 years:
 
-| File | Check | Status |
-|---|---|---|
-| 8.1 script and text | One stale workplace beneficiary record is the demo problem. | RECONCILES |
-| 8.2 script and text | 2-of-3 is described as three keys where any two sign. | RECONCILES |
-| 8.2 script and text | Descriptor/configuration is non-secret but privacy-sensitive. | REVIEW |
-| 8.3 script and text | Dead-man switch is an additional notification path, not sole delivery or authority. | RECONCILES |
-| 8.4 script and text | Replace $100k current living figure with visible $95k survivor need calculation. | OPEN |
-| 8.4 script and text | $55k × 15 + $180k = $1.005M; minus $175k = $830k. | RECONCILES |
-| Module 8 | Estate and insurance claims receive appropriate licensed review. | PROFESSIONAL REVIEW |
+`$35,000 ceiling − $10,000 expected vehicle proceeds − $5,000 purchase-year cash flow = $20,000 to accumulate`
 
-### Module 9
+College is the total family commitment across both children unless Austin changes it:
 
-| File | Check | Status |
-|---|---|---|
-| 9.1 script and text | No universal 1-minute or 5-minute promise. | RECONCILES |
-| 9.1 script and text | Annual review uses the same module sequence as the course. | REVIEW |
-| 9.2 script and text | No precise Scenario result is presented as demo output before app run. | REVIEW |
-| 9.2 script and text | PDF and encrypted backup have separate jobs. | RECONCILES |
+`$25,000 existing 529 + $20,000 parent cash flow + $10,000 student/aid/defined borrowing + $25,000 remaining source = $80,000`
 
-## App checkpoint outputs still required
+## Cost-basis reconciliation
 
-The following are not safe to lock from prose alone:
+| Quantity | Status |
+|---:|---|
+| 1.25 BTC | Complete lots; $48,000 known basis |
+| 0.40 BTC | Exchange export available; reconstruction pending |
+| 0.10 BTC | Records missing; basis unresolved |
+| **1.75 BTC** | Current quantity reconciles |
 
-- Plan confidence at the planned age
-- Earliest date reaching the selected confidence target
-- Income spending-band amounts at 95%, 80%, and 60%
-- Current and projected federal/state taxes
-- Exact first-year funding source split
-- Exact Bitcoin sold and retained
-- Exact account balances after each module
-- Exact reserve status under the selected current app basis
-- Ending assets and estate values
-- Scenario deltas
-- Protect readiness counts
+No course asset may present a complete tax-sale result while the unresolved units remain part of the modeled sale.
 
-The demo account must produce these results after the locked inputs are entered. Save a versioned export or checkpoint receipt for every module before the values appear in slides or recorded walkthroughs.
+## Custody and estate starting state
 
-## Completion definition
+- 1.50 BTC on one hardware wallet
+- 0.25 BTC exchange operating balance
+- Recovery untested at the starting checkpoint
+- Device and backup share one physical failure domain
+- Alex understands the process; Jordan has not operated it
+- One old workplace beneficiary record names a parent
+- Executor, backup, legal-document status, heir letter, delivery path, and real insurance terms remain intentionally incomplete
 
-The demo-number pass is complete when:
+The app may record readiness. The actual device, family, provider, legal, and policy process supplies proof.
 
-1. Every true conflict above is patched in both script and lesson text.
-2. Every separate example is labelled as separate.
-3. Every simple arithmetic chain reconciles.
-4. Every calculated app output is tied to a versioned demo checkpoint.
-5. `DEMO-HOUSEHOLD.md` is the only place where approved demo inputs are changed.
+## App-calculated outputs still held
+
+Do not lock these from prose:
+
+- confidence at planned age 55,
+- earliest date reaching 80%,
+- Conservative / Balanced / Aggressive / current-plan spending amounts,
+- current engine tax estimate,
+- year-by-year tax roadmap,
+- first-retirement-year need and total draw,
+- account and holding source split,
+- Bitcoin sold and retained,
+- retirement reserve months,
+- ending assets and estate,
+- Scenario deltas,
+- and Protect readiness counts.
+
+Capture them through `DEMO-CHECKPOINT-RUN-SHEET.md` after Austin approves the remaining inputs.
+
+## Targeted Austin decisions
+
+- Final fictional state and names
+- Broad return preset and inflation
+- Confirmation of age 55 and $100,000 retirement living spending
+- Part-time and later durable-income assumptions
+- HSA Bridge or Legacy job
+- Bitcoin target and review band
+- Household debt ceiling
+- Exact split inside the $1,250 tax-advantaged route
+- Starting-spending choice after the app calculates the bands
+- Whether college remains in the continuous household
+- Core borrowing excluded, with comparison only in Advanced
+
+These decisions change app outputs across several modules. Settle them once before Austin reviews spoken wording.

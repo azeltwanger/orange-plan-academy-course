@@ -1,215 +1,151 @@
 # Orange Plan Academy — pre-dictation QA
 
-**Purpose:** complete every structural, numeric, factual, and production pass that can change a script **before** Austin performs the final voice review.
+**Purpose:** finish every structural, numeric, factual, and production change that could make Austin repeat his voice work.
 
-Austin should not have to approve or dictate a lesson and then repeat the work because the demo numbers, professional review, slide logic, or app terminology changed afterward.
+Austin's final read should be a targeted voice-and-judgment pass, not another course rebuild.
 
-## The gate
+## Gate status
 
-Austin's final read begins only after a lesson has passed:
+| Gate | Status | Evidence / remaining work |
+|---|---|---|
+| Current outline and one-decision lesson ownership | **PASS** | `CURRENT-COURSE.md`; 28 current core scripts |
+| Continuous demo input reconciliation | **PASS WITH TARGETED DECISIONS** | `DEMO-HOUSEHOLD.md`; simple arithmetic reconciles, listed judgments remain for Austin |
+| App-calculated demo outputs | **HOLD** | Enter the approved household once and capture the receipts in `DEMO-CHECKPOINT-RUN-SHEET.md` |
+| Duplication and runtime | **PASS** | 23,559 spoken words; 214 header minutes; audit has 0 critical findings and 0 warnings |
+| Core-versus-Advanced boundary | **PASS** | Advanced conditions are visible and non-blocking |
+| App-concept accuracy | **PASS WITH CHECKPOINT HOLD** | Unified confidence, Income controls, source ownership, save/preview distinction, and current encrypted-export limitation are corrected |
+| Script / lesson-text parity | **PASS** | 28 matching pairs; automated existence check passes |
+| Professional review packets | **PASS — RESPONSES HOLD** | Canonical packets in `professional-review/` |
+| Slide correction map | **PASS — REBUILDS LATER** | `research/SLIDE-CORRECTION-MAP.md` identifies keep/edit/replace/move/remove by page |
+| Capstone | **PASS** | `MY-ORANGE-PLAN-CAPSTONE.md` turns the finished plan into one usable summary |
+| Permanent audit | **PASS** | `.github/workflows/course-audit.yml` runs `tools/course_audit.py` on course changes |
+| Build Your Plan walkthroughs | **HOLD** | Exact clicks wait for a working preview Austin has used end to end |
+| Austin final voice review | **NOT STARTED** | Begins only after the applicable holds below are resolved |
 
-1. **Outline ownership** — the lesson owns one clear decision and is in the right module.
-2. **Demo reconciliation** — every demo number matches `DEMO-HOUSEHOLD.md` or is labelled as a separate example.
-3. **Arithmetic check** — all totals, ratios, routes, gaps, and source splits reconcile.
-4. **Duplication/runtime pass** — repeated teaching is reduced to a short callback.
-5. **Core-versus-Advanced check** — the lesson contains only material needed to build a usable core plan.
-6. **App-concept check** — labels and behavior match the current app; exact walkthrough clicks are not required yet.
-7. **Professional review** — high-stakes claims are cleared, qualified, or removed.
-8. **Script/lesson-text parity** — both teach the same decision and facts.
-9. **Slide correction note** — any current slide that would contradict the approved script is identified.
+## What has already been done
 
-Only then does Austin read aloud, dictate targeted replacements, and mark the final script `AUSTIN APPROVED`.
+### Structure and progression
 
----
+- The 10-module spine is locked.
+- Every lesson has one primary decision.
+- Difficult concepts have one owner; later lessons use short callbacks.
+- Debt remains before Allocation because the treatment is decided before the dollars are routed.
+- Tax remains before Retirement Income because the withdrawal lesson applies the tax pools and windows.
+- Custody and Estate stay separate because operational access is not legal authority.
+- Optional college and all Advanced topics are visibly non-blocking.
 
-# Work order
+### Runtime and duplication
 
-## Pass A — Demo household and arithmetic
+The current scripts contain **23,559 spoken words**.
 
-**Artifacts**
+- Raw estimate at 155 words per minute: about **152 minutes**
+- Production header total, including pauses and visuals: about **214 minutes / 3 hours 34 minutes**
+- Current audit result: **28 scripts · 0 critical · 0 warnings · 0 missing lesson texts**
 
-- `DEMO-HOUSEHOLD.md`
-- `research/DEMO-NUMBER-RECONCILIATION.md`
+No further global shortening pass is planned before Austin reads. A section is cut later only when the spoken read proves it repeats without adding understanding.
 
-**Work**
+### Demo arithmetic
 
-- Lock one set of household inputs.
-- Separate current spending, retirement spending, debt, taxes, and total draw.
-- Reconcile assets, debts, net worth, Bitcoin quantity, cost basis, contribution routing, reserve, future costs, and insurance gaps.
-- Remove unsupported calculated outputs or mark them as pending the demo account.
-- Patch every affected script and lesson text.
+The canonical working inputs reconcile:
 
-**Status:** IN PROGRESS
+- $190,000 income − $40,000 teaching tax estimate − $80,000 living spending − $22,000 debt payments = $48,000 annual / $4,000 monthly surplus
+- $5,000 bare-bones spending × 6 months = $30,000 working reserve
+- $280,000 mortgage + $18,000 auto loan = $298,000 debt
+- $1,833 required monthly debt ÷ $15,833 gross monthly income = about 11.6% DTI
+- $298,000 debt ÷ $745,000 illustrative gross assets = about 40.0% DTA
+- $175,000 Bitcoin ÷ $295,000 investable assets = about 59.3%
+- A 75% decline in $175,000 of Bitcoin removes $131,250 before other assets move
+- $750 + $500 + $1,250 + $1,500 = the $4,000 monthly route
+- Vehicle goal: $35,000 − $10,000 proceeds − $5,000 purchase-year cash flow = $20,000 to accumulate
+- College: $25,000 existing + $20,000 parent cash flow + $10,000 student/aid/defined borrowing + $25,000 remaining source = $80,000 total family commitment
+- Cost-basis quantities: 1.25 + 0.40 + 0.10 = 1.75 BTC
 
-## Pass B — Duplication and runtime
+App-calculated confidence, tax, retirement funding, Bitcoin sales, estate, and Scenario results remain blank until the checkpoint run.
 
-**Artifact**
+## Remaining holds before Austin reads once
 
-- `research/CORE-OWNERSHIP-AND-RUNTIME.md`
+### 1. Targeted demo decisions
 
-**Work**
+These are decisions rather than copy edits. Settle them once in `DEMO-HOUSEHOLD.md`:
 
-- Give each lesson one primary decision.
-- Identify repeated explanations across modules.
-- Keep one full explanation and convert later repeats into a one- or two-sentence callback.
-- Move reference detail into lesson text or Advanced.
-- Target a core teaching runtime that is thorough but not exhausting.
-- Preserve useful spoken repetition inside difficult examples.
+1. Fictional state and final household names
+2. Broad app preset and inflation input
+3. Planned retirement age and $100,000 retirement-spending rationale
+4. Part-time income amount and dates
+5. Social Security / durable income amount and start date
+6. Final Bitcoin target and review band
+7. Household DTI/DTA ceiling
+8. Exact tax-advantaged split inside the $1,250 route
+9. HSA job: Bridge or Legacy
+10. Starting-spending choice after the app calculates the available bands
+11. Whether college remains in the continuous core household
+12. Saved core borrowing rule: excluded, with comparison only in Advanced
 
-**Status:** NOT STARTED
+These choices should take one focused decision session, not new dictation.
 
-## Pass C — Educational progression and Core versus Advanced
+### 2. Demo checkpoint outputs
 
-**Artifact**
+After the decisions are approved, enter the household in the current app and capture:
 
-- section inside `research/CORE-OWNERSHIP-AND-RUNTIME.md`
+- confidence at planned age,
+- earliest date reaching the target,
+- current and target allocation output,
+- tax roadmap,
+- first-year retirement need and source split,
+- Bitcoin sold and retained,
+- starting-spending bands,
+- reserve status,
+- ending assets and estate,
+- Scenario deltas,
+- and Protect readiness status.
 
-**Work**
+Use `DEMO-CHECKPOINT-RUN-SHEET.md`. Do not invent an output in the script or slide.
 
-- Confirm every concept appears before the learner needs it.
-- Confirm each module produces a real plan output.
-- Remove edge cases that interrupt the main path.
-- Add visible gates for optional material.
-- Confirm the final course can be completed without watching Advanced.
+### 3. External professional responses
 
-**Status:** NOT STARTED
+Before Austin gives final approval to the affected claims:
 
-## Pass D — Professional red-team packets
+- Module 5 and tax-sensitive Module 6 sections require the Bitcoin-aware CPA response.
+- Module 7 and the technical side of 8.2 require the custody-professional response.
+- Modules 8.1–8.3 require the estate-attorney response.
+- Module 8.4 requires the licensed-insurance response.
 
-**Artifacts**
+A reviewer marks each claim accurate, qualify, replace, state/fact-pattern dependent, or professional-only. Apply the minimum factual correction before Austin reads that section.
 
-- `professional-review/CPA.md`
-- `professional-review/ESTATE-ATTORNEY.md`
-- `professional-review/CUSTODY.md`
-- `professional-review/INSURANCE.md`
+### 4. Build Your Plan preview
 
-**Work**
+This does not block approval of evergreen concept lessons. It blocks only exact walkthrough scripts and screen recording.
 
-- Extract only the claims each reviewer needs.
-- Include file and section references.
-- Ask the reviewer to mark each claim: accurate, qualify, or replace.
-- Apply factual changes before Austin's final read.
-- Preserve Austin's planning judgment when the issue is preference rather than law or fact.
+The current crosswalk already defines the decision, app area, app completion rule, and human finish line. Exact route names, controls, save behavior, and screenshots are filled only after Austin completes the working preview.
 
-**Status:** NOT STARTED
+## Readiness by module
 
-## Pass E — Slide correction map
+| Module | Structural pass | Demo / app output | Professional response | Ready for Austin |
+|---|---|---|---|---|
+| 0 · Start Here | PASS | N/A | N/A | **After final course state is locked** |
+| 1 · Baseline | PASS | CHECKPOINT HOLD | N/A | **No** |
+| 2 · Cash Flow | PASS | CHECKPOINT HOLD for displayed app outputs | N/A | **No** |
+| 3 · Debt | PASS | CHECKPOINT HOLD | N/A | **No** |
+| 4 · Allocation | PASS | TARGET + CHECKPOINT HOLD | CPA qualification only where tax location is stated | **No** |
+| 5 · Tax | PASS | CHECKPOINT HOLD | CPA HOLD | **No** |
+| 6 · Retirement Income | PASS | DECISION + CHECKPOINT HOLD | CPA HOLD on tax mechanics | **No** |
+| 7 · Custody | PASS | REAL-WORLD TEST LANGUAGE COMPLETE | CUSTODY HOLD | **No** |
+| 8 · Estate / Insurance | PASS | POLICY / REAL-WORLD HOLD | ATTORNEY + INSURANCE HOLD | **No** |
+| 9 · Maintain / Test / Read | PASS | CHECKPOINT HOLD | N/A | **No** |
 
-**Artifact**
+## Current app-state note: encrypted exports
 
-- `SLIDE-CORRECTION-MAP.md`
+Orange Plan currently creates a passphrase-protected encrypted export. In-app plan restore is temporarily unavailable. The course therefore describes the file as a secure storage and portability copy, not a restore the learner can use today. This state is rechecked before filming Module 9.
 
-**Work**
+## Definition of ready for Austin
 
-For each existing live-teaching deck or slide group, mark:
-
-- KEEP
-- COPY / TERMINOLOGY CHANGE
-- NUMBER CHANGE
-- VISUAL REBUILD
-- MOVE TO ADVANCED
-- REMOVE
-
-Only contradictory or outdated slides are changed. Strong teaching visuals are preserved.
-
-**Status:** NOT STARTED
-
-## Pass F — Final parity and Austin review packet
-
-**Artifacts**
-
-- Updated `CURRENT-COURSE.md`
-- Updated table below
-- One clean review order
-
-**Work**
-
-- Confirm the script and lesson text match.
-- Confirm no stale master or generated file is presented as current.
-- Mark professional-review status.
-- Present Austin only with lessons that should not need another structural rewrite.
-
-**Status:** NOT STARTED
-
----
-
-# Lesson readiness tracker
-
-Legend:
-
-- `—` not started
-- `WIP` in progress
-- `PASS` complete for this draft
-- `PRO` professional review required before Austin's final approval
-- `AUSTIN` ready for Austin read
-- `APPROVED` Austin approved for filming
-
-| Lesson | Primary decision | Demo | Math | Dup/runtime | Core/Adv | App concept | Pro review | Text parity | Slide note | Austin |
-|---|---|---|---|---|---|---|---|---|---|---|---|
-| 0.1 | Understand the course and how to use it | N/A | N/A | — | — | PASS | No | WIP | — | — |
-| 0.2 | Use AI as explanation, never as plan engine or secret store | N/A | N/A | — | — | PASS | No | PASS | — | — |
-| 1.1 | Gather and verify source information | WIP | WIP | — | — | PASS | No | PASS | — | — |
-| 1.2 | Classify information and choose defensible assumptions | WIP | WIP | — | — | PASS | No | PASS | — | — |
-| 1.3 | Choose confidence target and interpret the retirement result | WIP | WIP | — | — | PASS | No | PASS | — | — |
-| 2.1 | Set normal spending, bare-bones spending, and reliable surplus | PASS | PASS | — | — | PASS | No | PASS | — | — |
-| 2.2 | Choose reserve months and purpose | PASS | PASS | — | — | PASS | No | PASS | — | — |
-| 2.3 | Fund a known future cost | PASS | PASS | — | — | PASS | No | PASS | — | — |
-| 2.4 | Optional: set the family college commitment and sources | WIP | PASS | — | — | PASS | No | PASS | — | — |
-| 3.1 | Choose treatment for each debt and a household ceiling | PASS | PASS | — | — | PASS | No | PASS | — | — |
-| 4.1 | Choose a Bitcoin allocation the household can hold | PASS | PASS | — | — | PASS | No | PASS | — | — |
-| 4.2 | Give accounts verified holdings and timeframe jobs | WIP | PASS | — | — | PASS | No | PASS | — | — |
-| 4.3 | Route the next recurring dollar | PASS | WIP | — | — | PASS | No | PASS | — | — |
-| 4.4 | Choose what each tax wrapper should hold | WIP | WIP | — | — | PASS | PRO — CPA | PASS | — | — |
-| 5.1 | Reconcile tax lots and unresolved basis | PASS | PASS | — | — | PASS | PRO — CPA | PASS | — | — |
-| 5.2 | Identify one useful tax window or deliberate pass | WIP | WIP | — | — | PASS | PRO — CPA | PASS | — | — |
-| 6.1 | Set retirement spending, income floor, and early funding gap | WIP | WIP | — | — | PASS | No | PASS | — | — |
-| 6.2 | Choose account, asset, phase, and optional borrowing strategy | WIP | WIP | — | — | PASS | PRO — CPA for tax mechanics | PASS | — | — |
-| 6.3 | Choose starting paycheck and annual guardrails | WIP | WIP | — | — | PASS | No | PASS | — | — |
-| 7.1 | Choose custody level by job, amount, skill, and family | PASS | PASS | — | — | PASS | PRO — custody | PASS | — | — |
-| 7.2 | Prove the hardware-wallet backup and operating process | PASS | PASS | — | — | PASS | PRO — custody | PASS | — | — |
-| 7.3 | Remove the largest single point of failure and harden accounts | PASS | PASS | — | — | PASS | PRO — custody | PASS | — | — |
-| 8.1 | Choose legal roles, documents, and provider beneficiaries | PASS | PASS | — | — | PASS | PRO — attorney | PASS | — | — |
-| 8.2 | Design dual control and redundancy | PASS | PASS | — | — | PASS | PRO — attorney/custody | PASS | — | — |
-| 8.3 | Write the no-secrets heir letter and delivery plan | PASS | PASS | — | — | PASS | PRO — attorney | PASS | — | — |
-| 8.4 | Calculate protection gaps and decide what receives a quote | WIP | PASS | — | — | PASS | PRO — insurance | PASS | — | — |
-| 9.1 | Set monthly, annual, and off-cycle review rules | PASS | PASS | — | — | PASS | No | PASS | — | — |
-| 9.2 | Test one decision and explain the finished plan | WIP | WIP | — | — | PASS | No | PASS | — | — |
-
-The status reflects the current draft only. `PASS` is not Austin approval and is not filming clearance.
-
----
-
-# Decisions that must be settled before the demo app run
-
-These can change calculated results across several modules, so they are resolved before Austin reviews wording:
-
-1. Demo state and tax jurisdiction
-2. Exact broad growth and inflation assumptions
-3. Whether the HSA is Bridge or Legacy
-4. Household debt ceiling
-5. Exact employer match formula
-6. Exact tax-advantaged account split after the match and car payment
-7. Social Security claiming and benefit assumptions for both spouses
-8. Whether any retirement debt remains beyond the $18,000 first-year teaching amount
-9. Final withdrawal phase and bracket ceiling used in the demo
-10. Whether borrowing is excluded from the saved core plan and shown only as a preview
-11. Final custody level selected after comparing family-ready single-signature and supported multi-key custody
-12. Exact existing insurance coverage included in the $175,000 resource offset
-
-These are planning decisions, not copy edits. They should be documented once and then carried through every course asset.
-
----
-
-# Definition of ready for Austin
-
-A lesson moves to `AUSTIN` only when:
+A lesson moves to Austin only when:
 
 - no known structural change remains,
-- demo facts and arithmetic reconcile,
-- the core/advanced boundary is settled,
-- the app concept is accurate,
-- required professional comments are applied,
+- all demo values appearing in speech are approved inputs or checkpoint outputs,
+- app terminology and state are current,
+- required professional corrections are applied,
 - script and lesson text agree,
-- and any contradictory slide is already on the correction map.
+- and contradictory slides are already identified.
 
-At that point, Austin should be able to read, edit, or dictate once without later being asked to redo the lesson because of preventable course-production changes.
+At that point, Austin reads once, dictates only the sections he would naturally explain differently, and marks the final wording `AUSTIN APPROVED`.

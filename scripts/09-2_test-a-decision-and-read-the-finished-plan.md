@@ -5,42 +5,42 @@ TELEPROMPTER SCRIPT — segment 9.2
 
 Module 1 separated the baseline, expected life events, and Scenarios.
 
-Now we use Scenarios for their actual job: answer a question without changing the saved plan, then read the finished plan from inputs to actions.
+Now we use a Scenario for its actual job: answer one question without changing the saved plan, then read the finished plan from inputs to actions.
 
 == BEGIN WITH ONE QUESTION ==
 
-A useful Scenario begins with one sentence:
+A useful Scenario starts with one sentence:
 
 - What happens if I retire 3 years earlier?
 - What happens if Bitcoin returns are weaker?
-- What happens if retirement spending is $15,000 higher?
-- What happens if Social Security starts earlier?
+- What happens if retirement spending is higher?
+- What happens if Social Security begins earlier?
 - What happens if a major drawdown begins near retirement?
 - What happens if I borrow instead of sell?
 
-The question determines the input to change and the result that should answer it.
+The question tells you which input should change and which result should answer it.
 
-Do not open every advanced control and create an entirely different household simply because the page allows it.
+Do not open every advanced control and build an entirely different household simply because the page allows it.
 
 == CHANGE ONE PRIMARY LEVER FIRST ==
 
-If an earlier-retirement Scenario also cuts spending, increases savings, changes returns, moves states, and adds a loan, the result cannot show what the earlier date cost.
+If an earlier-retirement Scenario also cuts spending, raises savings, changes returns, moves states, and adds a loan, the result cannot show what the earlier date cost.
 
-Test the primary lever alone first. Test the other changes separately. Then create a combined Scenario only after each individual effect is understood.
+Test the retirement date first. Test spending separately. Test weaker returns separately. Combine the changes only after you understand the individual trade-offs.
 
-Real decisions may require a package of changes. The combined result becomes useful after the component trade-offs are visible.
+A real decision can include several changes. The package becomes useful after the component effects are visible.
 
 == STRESS TEST OR CHOICE ==
 
-A **stress test** asks whether the plan remains workable under an unfavorable condition, such as weaker returns, higher inflation, a drawdown near retirement, or a major unexpected cost.
+A **stress test** asks whether the plan remains workable under an unfavorable condition, such as weaker returns, higher inflation, a drawdown near retirement, or a large cost.
 
 The result should identify what breaks first and which response the household would use.
 
-A **choice Scenario** compares a deliberate action: retire earlier, spend more, pay off debt, move, claim Social Security, change allocation, sell, or borrow.
+A **choice Scenario** compares a deliberate action: retire earlier, spend more, pay debt, move, claim Social Security, change allocation, sell, or borrow.
 
 The result should show the benefit, cost, and new risk.
 
-A stress test does not become the baseline because it is uncomfortable. A choice becomes the baseline only after the household actually makes the decision.
+A stress test does not become the baseline because the result is uncomfortable. A choice becomes the baseline only after the household makes the decision.
 
 == READ THE COMPARISON IN FIVE STEPS ==
 
@@ -52,21 +52,21 @@ Read the Scenario definition before the result. Make sure the intended age, spen
 
 Compare planned age, confidence target, confidence result, and earliest target-qualified date.
 
-An earlier date with less confidence is not automatically better. It shows the cushion exchanged for time.
+An earlier date with less confidence is not automatically better. It shows how much cushion is being exchanged for time.
 
 ### 3. Read cash flow and tax
 
 What changed in spending, surplus, contributions, total draw, tax, and withdrawals?
 
-A debt payoff may improve future cash flow while using accessible assets today. A move may reduce tax and increase housing. A conversion may reduce future traditional balances and create current tax.
+A debt payoff may improve future cash flow while using accessible assets today. A move may reduce tax and increase housing. A conversion may reduce a future traditional balance while creating current tax.
 
 ### 4. Read Bitcoin, accounts, and debt
 
-Which account funds the change? How much Bitcoin is sold or retained? Does borrowing add interest, collateral, liquidation risk, or a loan balance at death? Did the Scenario solve one gap and create another in Reserve or Bridge?
+Which account funds the change? How much Bitcoin is sold or retained? Does borrowing add interest, collateral, liquidation exposure, or a loan balance at death? Did the Scenario solve one gap while creating another in Reserve or Bridge?
 
 ### 5. Read the long-term result and risk
 
-What happens to ending assets, estate, reserve, account mix, withdrawal pressure, and debt? Which assumption is carrying the result? Would the household follow the plan in the bad version?
+What happens to ending assets, estate, reserve, account mix, withdrawal pressure, and debt? Which assumption carries most of the result? Would the household still follow the plan in the bad version?
 
 == DO NOT OVERREACT TO NOISE ==
 
@@ -92,17 +92,13 @@ Then change the real source:
 
 Do not leave a real decision only inside Scenarios and assume the baseline knows it happened.
 
-Keep a Scenario when it remains useful as a comparison. Archive or delete it when the question no longer matters.
+Keep a Scenario while the comparison remains useful. Archive or delete it when the question no longer matters.
 
 == KEEP A SMALL RECURRING STRESS SET ==
 
-The demo household keeps:
+The demo household keeps a weaker Bitcoin-return assumption, a major drawdown near retirement, and a higher-spending or major-cost test when spending flexibility is a main risk.
 
-- a weaker Bitcoin-return assumption,
-- a major drawdown near retirement,
-- and a higher-spending or major-cost test when spending flexibility is the main risk.
-
-A household with a Bitcoin-backed loan also keeps its relevant drawdown and liquidation test.
+A household with a Bitcoin-backed loan also keeps the relevant liquidation test.
 
 Rerun the stress set after the annual baseline update. Last year's Scenario is not a current review when the inputs changed.
 
@@ -117,7 +113,7 @@ Rerun the stress set after the annual baseline update. Last year's Scenario is n
 7. **Protect** — custody, recovery test, single points of failure, beneficiaries, legal roles, heir letter, insurance gaps, and contacts
 8. **Actions** — the one to three next moves, owners, and dates
 
-The PDF summarizes the saved source rows and projection. When a number is wrong, fix the source rather than the PDF.
+The report summarizes the saved source rows and projection. When a number is wrong, fix the source rather than the PDF.
 
 == SUMMARIZE THE PLAN IN SIX SENTENCES ==
 
@@ -134,19 +130,21 @@ If one sentence cannot be answered, that part of the plan is not finished or not
 
 == SAVE THE ANNUAL RECORD ==
 
-After the annual review, save the dated PDF and encrypted backup under the household's security plan.
+After the annual review, save the dated PDF and passphrase-protected encrypted export under the household's security plan.
 
-Give each professional only the sections and records needed for their work. The report never contains Bitcoin secrets.
+The PDF is the readable record. The encrypted export is the private planning-data copy. Orange Plan currently does not offer in-app plan restore, so do not describe or rely on that file as a restore you can use today. Keep the current plan and source records intact and verify the app's current restore status before teaching a future import process.
+
+Give each professional only the sections and records needed for their work. The report and export never contain Bitcoin secrets.
 
 == WHERE THE SCENARIO DELTA COMES FROM ==
 
-**What it means:** difference between baseline and the defined Scenario.
+**What it means:** difference between the baseline and the defined Scenario.
 
-**Calculated from:** the same projection framework with the Scenario overrides.
+**Calculated from:** the same projection framework using the Scenario overrides.
 
 **Edit source:** the Scenario definition until the real decision updates its source page.
 
-**This affects:** the retirement, cash-flow, tax, holding, debt, and estate comparison.
+**This affects:** retirement, cash-flow, tax, holding, debt, and estate comparisons.
 
 == YOUR DECISION ==
 
@@ -154,8 +152,8 @@ Choose the small set of Scenarios worth keeping, the one choice currently being 
 
 == PUT IT IN ORANGE PLAN ==
 
-Build Scenarios as questions, change one primary lever first, and update the source page only after a decision is made. Read the current report after verifying inputs and save the annual record.
+Build Scenarios as questions, change one primary lever first, and update the source page only after a decision is made. Read the current report after verifying inputs, then save the PDF and encrypted export for their separate jobs.
 
 == YOU ARE DONE WHEN ==
 
-You can explain every saved Scenario, summarize the plan in six sentences, and state the one to three actions that come next.
+You can explain every saved Scenario, summarize the plan in six sentences, state the one to three next actions, and accurately describe what the current encrypted export can and cannot do.

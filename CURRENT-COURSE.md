@@ -1,384 +1,262 @@
 # Orange Plan Academy — current course
 
-**This is the entry point for the course-repair branch.**
+**This is the entry point for the repaired core course.**
 
-## Current stage
+## Current production stage
 
-A full first draft of the core outline, 28 teach scripts, and 28 matching lesson texts exists.
+The core curriculum is structurally rebuilt and ready for the final inputs that could still force factual changes.
 
-**Austin's final read and dictation pass has not started.** The course is now going through pre-dictation QA so Austin does not approve or re-dictate a lesson and then have to repeat the work after numbers, structure, professional review, or slide logic changes.
+Completed before Austin's voice pass:
 
-Use these two files first:
+- current 10-module core outline,
+- 28 spoken teaching drafts,
+- 28 matching lesson-text files,
+- one-decision ownership and duplication trim,
+- Core-versus-Advanced gates,
+- continuous demo-household input reconciliation,
+- current app-concept review,
+- client-call voice evidence,
+- professional review packets,
+- page-by-page slide correction map,
+- capstone summary,
+- and automated course auditing.
 
-- `DEMO-HOUSEHOLD.md` — one continuous household and the only approved source for demo inputs
-- `PRE-DICTATION-QA.md` — the sequence and readiness tracker that must be completed before Austin's final read
+Still held before final approval:
 
-The current pass includes:
+- targeted Austin decisions that affect the demo model,
+- app-calculated demo checkpoint outputs,
+- external professional responses for tax, custody, estate, and insurance claims,
+- exact Build Your Plan walkthrough clicks,
+- and Austin's final voice/judgment pass.
 
-- the core module outline,
-- the core teach scripts,
-- the matching student lesson texts,
-- demo-household reconciliation,
-- duplication and runtime review,
-- core-versus-Advanced review,
-- professional red-team packets,
-- and a correction map for the existing live-teaching slides.
+The current script headers total about **214 production minutes (3 hours 34 minutes)** before walkthroughs. The automated raw word estimate is about **152 minutes** across **23,559 spoken words**. The course audit currently reports 28 scripts, no missing lesson text, and no current critical or warning findings.
 
-Walkthrough recording sheets, Circle publishing files, generated module copies, and the Advanced Library voice pass remain outside the current production pass. They should not be treated as current merely because they still exist elsewhere in the repository.
+## Source-of-truth order
 
-## What the course is
-
-The core course takes someone from disconnected financial information to a usable Bitcoin financial plan.
-
-Each planning area follows the same educational pattern:
-
-1. Explain the financial-planning concept.
-2. Show the trade-off and the judgment the app cannot make.
-3. Work through the decision on one continuous demo household.
-4. Explain where the important numbers came from.
-5. End with one checkable planning decision.
-6. Later, use the walkthrough to implement the decision through the relevant Build Your Plan work.
-
-**Build Your Plan is the navigation spine for the walkthroughs. It does not have to be the exact syllabus for every concept lesson.**
-
-## Current source-of-truth order
-
-During pre-dictation QA, use this order:
-
-1. `CURRENT-COURSE.md` — current outline and production stage
-2. `DEMO-HOUSEHOLD.md` — locked demo inputs, arithmetic, and app-output rules
-3. `PRE-DICTATION-QA.md` — quality gates and readiness tracker
-4. `research/DEMO-NUMBER-RECONCILIATION.md` — current numeric conflicts and fixes
+1. `CURRENT-COURSE.md` — current curriculum and production stage
+2. `DEMO-HOUSEHOLD.md` — continuous-demo inputs and change control
+3. `PRE-DICTATION-QA.md` — remaining gates and ownership
+4. `DEMO-CHECKPOINT-RUN-SHEET.md` — app-entry and output-capture process
 5. `scripts/` — current spoken drafts
-6. `lesson-text/` — matching student-facing written lessons
-7. `COURSE-APP-CONTRACT.md` — pedagogy, app behavior, demo, and number-provenance rules
-8. `BUILD-YOUR-PLAN-CROSSWALK.md` — how future walkthroughs track the app's build flow
-9. `research/CLIENT-CALL-VOICE-EVIDENCE.md` and `research/CLIENT-CONFUSION-REGISTRY.md`
-10. Slides — visual and teaching source material, with contradictions recorded in the slide correction map before Austin reviews the script
+6. `lesson-text/` — current student reference text
+7. `COURSE-APP-CONTRACT.md` — pedagogy, app-state, and number-provenance rules
+8. `BUILD-YOUR-PLAN-CROSSWALK.md` — future walkthrough routing
+9. `professional-review/` — canonical external-review packets
+10. `research/SLIDE-CORRECTION-MAP.md` — treatment of the current decks
+11. `research/CLIENT-CALL-VOICE-EVIDENCE.md` and `research/CLIENT-CONFUSION-REGISTRY.md`
 
-`MASTER-COURSE.md`, `MASTER-ADVANCED.md`, generated module files, Circle output, aggregate script files, and current walkthrough sheets still contain the previous course in places. **Do not film or publish from those layers.** They are migration inputs until an approved module is synchronized after Austin's final review.
+`MASTER-COURSE.md`, `MASTER-ADVANCED.md`, generated modules, Circle output, aggregate scripts, and old walkthroughs remain migration inputs. **Do not film or publish from those layers.**
 
-## Core course outline
+## Course architecture
+
+Every core planning area follows the same pattern:
+
+1. Explain the financial-planning problem.
+2. Give the learner the minimum concept needed to make the decision.
+3. Show the trade-off and Austin's planning judgment.
+4. Continue one fictional household.
+5. Explain where the important number came from.
+6. End with one decision and one checkable finish line.
+7. Later, implement it through the relevant Build Your Plan walkthrough.
+
+**Build Your Plan is the walkthrough navigation spine, not a requirement that the concept syllabus copy the product one-for-one.**
+
+## Core outline
 
 ### Module 0 — Start Here
 
-**Outcome:** The learner understands what will be built, how the course and app work together, and the security rule for AI.
+**Outcome:** Understand what is being built, how the app and Academy divide the work, how Core and Advanced differ, and the no-secrets rule.
 
-- Why Orange Plan and the Academy exist
-- What the learner will build
-- How the core and Advanced Library are separated
-- How concept lessons and future walkthroughs work together
-- How Orange Plan AI explains the plan without replacing the planning engine
-- What never goes into an app, document, or AI tool
-- US versus non-US scope
+- Why Orange Plan exists
+- What the finished plan answers
+- App calculates · AI explains · learner decides
+- Concept lesson versus versioned walkthrough
+- Core versus Advanced
+- US scope and professional boundaries
+- No Bitcoin secret or account credential in an app, document, photo, email, or AI tool
 
 ### Module 1 — Build Your Baseline and Read the Plan
 
-**Outcome:** A verified first plan with deliberate assumptions, a chosen confidence target, and a retirement result the learner can explain.
+**Outcome:** A verified first plan with deliberate assumptions, a selected confidence target, and a retirement result the learner can explain.
 
-- Gather and verify source information
+- Gather and mark source data verified, estimated, or missing
 - Baseline versus life event versus Scenario
-- Broad Plan assumptions
-- Holding-specific return or income overrides when applicable
-- Planned retirement age and baseline spending
-- Confidence target, confidence result, and earliest target-qualified date
-- The four-part number-provenance framework
+- Broad returns, inflation, and planning horizon
+- Advanced per-holding return or income override only when the broad class is wrong
+- Planned retirement age and Baseline spending
+- Confidence target, confidence result, and earliest target-qualified date from the same 1,000-test-run process
+- What it means · Calculated from · Edit source · This affects
 
 ### Module 2 — Cash Flow and Reserve
 
-**Outcome:** Normal spending, bare-bones spending, a reliable surplus, and a reserve policy with a practical funding plan.
+**Outcome:** Normal spending, bare-bones spending, reliable surplus, reserve policy, and a funding plan for known costs.
 
-- Find the true surplus
-- Separate living spending from debt payments
-- Separate normal, bare-bones, irregular, and committed spending
-- Size the working and retirement reserve
-- Fund known future costs by time horizon
-- Use the 7-to-10-year transition lane
-- Optional college funding stack
+- Income − estimated tax − living spending − debt payments
+- Why debt stays outside living spending
+- Normal, bare-bones, irregular, and committed costs
+- Working reserve basis and target months
+- Retirement reserve as a different job, not a second emergency-fund lecture
+- Known-cost commitment, source, and de-risking date
+- 7-to-10-year transition lane
+- Optional total-family college funding stack
 
 ### Module 3 — Debt Strategy
 
-**Outcome:** Every debt has a deliberate treatment and the household has a debt ceiling it can hold through a full Bitcoin cycle.
+**Outcome:** Every debt has a deliberate treatment and the household has its own ceiling.
 
-- Verify the real debt terms
-- Read debt-to-income and debt-to-assets
-- Decide what remains on schedule
-- Decide what receives recurring extra principal or a lump sum
-- Preserve reserve and liquidity
-- Set the household's own debt ceiling below the app's outer risk bands when appropriate
-
-Bitcoin-backed borrowing remains optional/advanced unless the learner already has or is actively considering a loan.
+- Verify balances, rates, payments, terms, and variable or collateral risk
+- Read DTI and DTA as different pressures
+- Required payment, recurring extra principal, lump sum, refinance, or monitor
+- Preserve reserve and accessible liquidity
+- Set the household ceiling before a new borrowing opportunity appears
+- Gate Bitcoin-backed loan mechanics to Advanced unless already relevant
 
 ### Module 4 — Allocation and the Next Dollar
 
-**Outcome:** A target allocation, time-horizon jobs, account placement, and a repeatable route for new money.
+**Outcome:** A Bitcoin target the household can hold, verified account contents, time-horizon jobs, account placement, and a route for new money.
 
-- Set a Bitcoin allocation that can survive a 70–80% drawdown
-- Convert percentage exposure into the dollar loss at today's balance
-- Separate current mix, target mix, drift, and today's action
-- Assign Reserve, Bridge, and Legacy jobs
-- Verify what every account actually holds
-- Build a flexible next-dollar route rather than one rigid waterfall
-- Place holdings inside the appropriate taxable, traditional, and Roth accounts
-- Preserve direct-custody, access, and tax trade-offs
+- Name the allocation denominator
+- Convert Bitcoin drawdown percentage into the dollar portfolio hit
+- Separate current mix, target, review band, and today's action
+- Reserve, Bridge, and Legacy
+- Account wrapper versus holdings
+- Strong presumptions followed by a comparison zone and deliberate split
+- Preserve accessible Bridge funding for early retirement
+- Place holdings across taxable, traditional, Roth, HSA, education, and direct custody without changing the household target
 
 ### Module 5 — Tax Strategy
 
-**Outcome:** Cost-basis readiness, an understanding of the three tax buckets, and one current tax action or a deliberate pass.
+**Outcome:** Cost-basis readiness, three tax pools, a year-by-year tax window, and one current action, professional question, or deliberate pass.
 
-- Reconcile Bitcoin quantity and tax lots
-- Keep transfers as transfers
-- Keep unknown basis visibly unresolved
-- Match planned lot identification with actual execution and records
-- Understand taxable, tax-deferred, and Roth money
-- Read the household's year-by-year tax roadmap
-- Identify low-income windows, future RMD pressure, and capital-gain opportunities
-- End with one action, one defined CPA question, or a deliberate pass
-
-Detailed conversions, harvesting, state relocation, and edge cases remain gated advanced material.
+- Reconcile quantity before basis
+- Keep transfers as transfers when ownership is unchanged
+- Keep unresolved basis visible
+- Make planned lot selection executable in the real transaction
+- Taxable, traditional, and Roth pools
+- Low-income windows, future required distributions, and gain timing
+- Orange Plan estimate versus tax return
+- Detailed conversion sizing, harvesting, relocation, and edge cases remain Advanced
 
 ### Module 6 — Retirement Income
 
-**Outcome:** A starting retirement paycheck, reliable income floor, portfolio-funded gap, withdrawal strategy, and annual adjustment policy.
+**Outcome:** Retirement spending, recurring income floor, portfolio gap, accessible Bridge, funding strategy, starting paycheck, and annual policy.
 
-- Confirm retirement living spending without duplicating debts
-- Build the recurring income floor
-- Read the portfolio-funded gap and early Bridge years
-- Read the first-year funding equation and total draw
-- Choose the account and asset funding strategy
-- Understand bracket-aware withdrawals and phase changes
-- Read Bitcoin sold versus retained
-- Keep borrowing optional and include interest, LTV, liquidation, collateral, and loan-at-death consequences
-- Choose the starting retirement-spending target
-- Keep Plan confidence, starting-spending confidence, and annual guardrails separate
-- Set annual spending and reserve-refill rules
+- Retirement living spending without duplicated debt
+- Income sources as a year-by-year timeline
+- Living-spending gap versus full total draw
+- First-year need and source reconciliation
+- Account order versus asset order
+- The fewest phases needed for real income or access changes
+- Bitcoin sold versus retained
+- Sell, hold, or optional borrowing with the full additional risks named
+- Plan confidence, starting-spending confidence, and annual guardrails as three separate controls
+- Annual spending and reserve-refill decisions
 
 ### Module 7 — Custody and Recovery
 
-**Outcome:** A custody setup the household can operate and recover, with no unmanaged single point of failure and no secrets stored in Orange Plan.
+**Outcome:** A custody setup the household can operate and recover, with no unmanaged single point of failure.
 
-- Choose custody by the job, amount, skill, and family needs
-- Separate custody from legal inheritance
-- Set up and verify a hardware wallet through the manufacturer's current process
-- Confirm receive and send details on the trusted display
-- Prove backup or recovery safely
-- Use a practice wallet for family learning
-- Find physical, human, and provider single points of failure
-- Harden email, financial accounts, exchanges, and recovery paths
-- Create a no-secrets Family Custody Map
+- Choose custody by job, consequence, skill, and family capability
+- Separate operational custody from legal inheritance
+- Manufacturer-supported hardware-wallet setup
+- Trusted-display receive and send verification
+- Safe recovery proof before meaningful funds depend on it
+- Practice wallet for family learning
+- Physical, human, and provider failure domains
+- Email and account hardening
+- No-secrets Family Custody Map
 
 ### Module 8 — Estate and Family Handoff
 
-**Outcome:** A real family starting point: roles, legal documents, beneficiaries, custody handoff, heir letter, delivery process, and reviewed protection gaps.
+**Outcome:** Roles, legal documents, provider records, family access, heir letter, delivery paths, and protection gaps form one real handoff.
 
-- Separate executor, financial agent, healthcare decision-maker, and trustee roles
-- Coordinate wills, powers of attorney, healthcare documents, trusts when applicable, and provider beneficiary records
-- Choose and confirm primary and backup people
-- Connect legal authority with the custody process
+- Executor/personal representative, financial agent, healthcare decision-maker, trustee, and technical helper as different roles
+- Coordinate legal documents with provider beneficiary records
+- Connect legal authority with technical access
 - Test dual control and redundancy separately
-- Correctly describe a 2-of-3 multisig as three keys where any two sign
-- Preserve non-secret wallet configuration records when required
-- Write the no-secrets heir letter and executor packet
-- Use more than one discovery or delivery path
-- Treat a dead-man switch as an additional notification path rather than the only estate plan
-- Calculate life, disability, liability, and long-term-care protection gaps
-
-Trusts, estate-tax planning, and complex custody remain gated advanced material.
+- Correct 2-of-3 arithmetic: three keys, any two sign
+- Preserve protected non-secret configuration records when required
+- No-secrets heir letter and executor packet
+- More than one discovery or delivery path
+- Dead-man switch as optional notification, never the estate plan itself
+- Life, disability, liability, and long-term-care gap review
+- Trust, estate-tax, and complex custody design remain Advanced
 
 ### Module 9 — Maintain, Test, and Read the Plan
 
-**Outcome:** A repeatable review cadence, useful Scenarios, a readable report, and a separate encrypted backup.
+**Outcome:** A repeatable review cadence, disciplined Scenarios, a readable capstone, and a secure annual record.
 
-- Separate data drift from decision drift
-- Run a narrow monthly update without rebuilding the plan
-- Run the annual review in the same order the plan was built
-- Use life changes as targeted off-cycle triggers
-- End reviews with one to three owned actions
-- Build Scenarios as questions without changing the baseline
-- Change one primary lever before combining changes
-- Read timing, confidence, cash flow, taxes, Bitcoin, debt, and long-term results in order
-- Move a decided Scenario into the real source page
-- Summarize the finished plan in six sentences
-- Save the dated PDF and encrypted data backup for their separate jobs
+- Data drift versus decision drift
+- Narrow monthly update
+- Annual review in the plan-building order
+- Targeted off-cycle triggers
+- One to three owned actions
+- Scenario as one question with one primary lever first
+- Read timing, confidence, cash flow, tax, holdings, debt, and long-term risk in order
+- Move a decided Scenario to its real source page
+- Explain the finished plan in six sentences
+- Save the dated PDF and encrypted export for different jobs
+
+**Current app limitation:** the encrypted export is available for secure storage and portability, but in-app plan restore is temporarily unavailable. Do not teach it as a restore the learner can use today.
 
 ## Advanced Library
 
-Advanced material remains optional and linked from the core area that makes it relevant. It does not count toward core progress unless the learner's own plan makes the issue necessary.
-
-Primary sections:
-
-- Modeling and assumptions
-- Holding-level return and income assumptions
-- Bitcoin-backed loans and leverage
-- Allocation and behavior
-- Tax optimization
-- Retirement income and pre-Medicare healthcare
-- Sell-versus-borrow comparisons
-- Advanced custody
-- Trusts and complex estate planning
-
-Each advanced lesson begins with a plan-visible gate:
+Advanced lessons remain optional and begin with a condition visible in the learner's plan:
 
 > **Watch this only if [condition]. Otherwise this part of your plan is complete without it.**
 
-The Advanced Library has not received the current full voice and app pass yet.
+Current Advanced sections:
 
-## Current core script set
+- Modeling mechanics and custom assumptions
+- Holding-specific return and income periods
+- Bitcoin-backed loans and leverage
+- Advanced allocation and behavior
+- Conversion sizing, harvesting, state relocation, and other tax optimization
+- Pre-Medicare healthcare
+- Sell-versus-borrow comparisons
+- Passphrases, collaborative custody, and DIY multisig
+- Trusts and complex estate planning
 
-There are 28 core teach scripts and 28 matching lesson-text files in the current draft set.
-
-### Module 0
-
-- `scripts/00-1_how-to-use-this-course.md`
-- `scripts/00-2_how-the-ai-works-what-it-reads-what-it-n.md`
-
-### Module 1
-
-- `scripts/01-1_what-to-gather-before-you-build-the-plan.md`
-- `scripts/01-2_set-your-growth-and-inflation-assumption.md`
-- `scripts/01-3_read-your-retirement-date-and-confidence.md`
-
-### Module 2
-
-- `scripts/02-1_find-your-surplus-and-your-two-spending-.md`
-- `scripts/02-2_size-your-cash-reserve-in-months-of-spen.md`
-- `scripts/02-3_fund-a-known-future-cost-the-six-questio.md`
-- `scripts/02-4_optional-college-is-a-funding-stack.md`
-
-### Module 3
-
-- `scripts/03-1_give-every-debt-a-job-and-set-your-ceiling.md`
-
-### Module 4
-
-- `scripts/04-1_set-the-bitcoin-allocation-you-can-hold.md`
-- `scripts/04-2_break-your-accounts-down-by-holding-type.md`
-- `scripts/04-3_order-your-contributions-which-account-g.md`
-- `scripts/04-4_asset-location-which-account-each-holdin.md`
-
-### Module 5
-
-- `scripts/05-1_cost-basis-what-you-paid-and-how-to-reco.md`
-- `scripts/05-2_taxable-tax-deferred-and-roth-bracket-wi.md`
-
-### Module 6
-
-- `scripts/06-1_your-spending-income-floor-gap-and-bridg.md`
-- `scripts/06-2_set-your-withdrawal-order-and-refill-rul.md`
-- `scripts/06-3_guardrails-how-much-you-can-spend-each-y.md`
-
-### Module 7
-
-- `scripts/07-1_choose-the-custody-setup-that-matches-you.md`
-- `scripts/07-2_set-up-a-hardware-wallet-and-test-recove.md`
-- `scripts/07-3_single-points-of-failure-account-hardeni.md`
-
-### Module 8
-
-- `scripts/08-1_the-executor-the-four-legal-documents-an.md`
-- `scripts/08-2_split-access-dual-control-and-redundancy.md`
-- `scripts/08-3_the-heir-letter-and-the-dead-mans-switch.md`
-- `scripts/08-4_insurance-term-life-disability-umbrella-.md`
-
-### Module 9
-
-- `scripts/09-1_keep-the-plan-current-monthly-and-annual.md`
-- `scripts/09-2_test-a-decision-and-read-the-finished-plan.md`
-
-Every script has a matching file with the same name under `lesson-text/`.
-
-## Number-provenance standard
-
-Every important app output is taught using:
-
-- **WHAT IT MEANS**
-- **CALCULATED FROM**
-- **EDIT SOURCE**
-- **THIS AFFECTS**
-
-This is built into the current scripts for surplus, reserve target, debt ratios, allocation, projected tax, confidence, earliest retirement date, retirement spending, first-year funding, Bitcoin sold or retained, Scenario deltas, and Protect readiness.
+The Advanced Library has not received the full current voice and app pass.
 
 ## Script provenance
 
 | Label | Meaning |
 |---|---|
-| `AUSTIN DICTATION` | Directly transcribed Austin recording |
-| `AUSTIN DICTATION + VOICE-MATCHED COMPLETION` | Austin's recorded section preserved; missing portion completed from dictated voice and calls; Austin review pending |
-| `VOICE-MATCHED DRAFT` | Rewritten from Austin's dictation, client calls, slides, and current app; Austin review pending |
-| `AUSTIN APPROVED` | Austin reviewed the final wording and cleared it for filming |
-| `ARCHIVED` | Historical only; not a current production source |
+| `AUSTIN DICTATION` | Austin's recorded words transcribed directly |
+| `AUSTIN DICTATION + VOICE-MATCHED COMPLETION` | Austin's words preserved; missing sections completed from verified voice evidence; review pending |
+| `VOICE-MATCHED DRAFT` | Rebuilt from dictation, client calls, slides, and current app; review pending |
+| `AUSTIN APPROVED` | Austin completed the final read and cleared the wording for filming |
+| `ARCHIVED` | Historical only |
 
-The old `SPOKEN-PROSE VERSION (calibrated)` label is retired as a production status. It does not prove Austin said or approved the wording.
+The old `SPOKEN-PROSE VERSION (calibrated)` label is not a production status.
 
-## Core draft status
+## Current readiness by module
 
-| Module | First full draft | Pre-dictation QA | Additional review before Austin | Austin review |
-|---|---|---|---|---|
-| 0 · Start Here | Complete | Waiting for final course trim | None | NOT STARTED |
-| 1 · Baseline | Complete | Demo/output reconciliation in progress | None | NOT STARTED |
-| 2 · Cash Flow | Complete; 2.2 retains Austin dictation | Demo reconciliation in progress | None | NOT STARTED |
-| 3 · Debt | Complete | Arithmetic reconciles; runtime/progression pending | None | NOT STARTED |
-| 4 · Allocation | Complete | Account detail and routing verification pending | CPA for tax-location claims where needed | NOT STARTED |
-| 5 · Tax | Complete | Professional packet pending | Bitcoin-aware CPA | NOT STARTED |
-| 6 · Retirement Income | Complete | Spending, bridge, bands, and output reconciliation in progress | CPA for tax-sensitive withdrawal mechanics | NOT STARTED |
-| 7 · Custody | Complete | Professional packet pending | Custody professional | NOT STARTED |
-| 8 · Estate / Insurance | Complete | Insurance/demo reconciliation and professional packets pending | Estate attorney + licensed insurance professional | NOT STARTED |
-| 9 · Maintain / Test / Report | Complete | Scenario-output and final runtime review pending | None | NOT STARTED |
-| Advanced Library | Existing structure only | Not in current pass | Later, by demand and gate | NOT STARTED |
+| Module | Structure / runtime | Demo inputs | App outputs | External review | Austin review |
+|---|---|---|---|---|---|
+| 0 · Start Here | PASS | N/A | N/A | N/A | NOT STARTED |
+| 1 · Baseline | PASS | PROPOSED / TARGETED DECISIONS | HOLD | N/A | NOT STARTED |
+| 2 · Cash Flow | PASS | RECONCILED | HOLD only where app-calculated | N/A | NOT STARTED |
+| 3 · Debt | PASS | RECONCILED | CHECKPOINT HOLD | N/A | NOT STARTED |
+| 4 · Allocation | PASS | RECONCILED / TARGET APPROVAL | CHECKPOINT HOLD | CPA only for tax-location qualifications | NOT STARTED |
+| 5 · Tax | PASS | RECONCILED | CHECKPOINT HOLD | CPA RESPONSE HOLD | NOT STARTED |
+| 6 · Retirement Income | PASS | PROPOSED / TARGETED DECISIONS | CHECKPOINT HOLD | CPA RESPONSE HOLD for tax mechanics | NOT STARTED |
+| 7 · Custody | PASS | RECONCILED | REAL-WORLD TEST HOLD | CUSTODY RESPONSE HOLD | NOT STARTED |
+| 8 · Estate / Insurance | PASS | RECONCILED where fictional facts exist | REAL-WORLD / POLICY HOLD | ATTORNEY + INSURANCE RESPONSES HOLD | NOT STARTED |
+| 9 · Maintain / Test / Read | PASS | RECONCILED | CHECKPOINT HOLD | N/A | NOT STARTED |
 
-“Complete” means a full draft exists. It does not mean the lesson is stable enough for Austin's final read or cleared for filming.
-
-## Pre-dictation work order
-
-1. Reconcile and patch the demo household across every script and lesson text.
-2. Run the duplication and runtime pass.
-3. Confirm educational progression and the Core-versus-Advanced boundary.
-4. Create and resolve professional-review packets.
-5. Map corrections required in the existing live-teaching slides.
-6. Run final script/lesson-text parity.
-7. Present Austin with a clean review packet whose remaining changes are genuinely voice and judgment—not preventable production rework.
-
-## Austin review order after QA
-
-When `PRE-DICTATION-QA.md` marks the lessons ready, review by impact:
-
-### Wave 1 — the learner's first plan and the pages with the largest app changes
+## Austin review order after the remaining gates
 
 1. Module 1 — Baseline and confidence
 2. Module 2 — Cash Flow and Reserve
 3. Module 6 — Retirement Income
-
-### Wave 2 — the strategy decisions
-
 4. Module 3 — Debt
 5. Module 4 — Allocation and the Next Dollar
 6. Module 5 — Tax
-
-### Wave 3 — protection and ongoing use
-
 7. Module 7 — Custody
 8. Module 8 — Estate and Insurance
 9. Module 9 — Maintain, Test, and Read
-10. Module 0 — final course framing after the rest is approved
+10. Module 0 — final framing pass
 
-For each script:
-
-1. Read it aloud once without editing every sentence mid-read.
-2. Mark anything you would naturally explain another way.
-3. Dictate replacement sections or edit the wording directly.
-4. Confirm the planning judgment, examples, and app terminology.
-5. Mark the script `AUSTIN APPROVED` only after the final read.
-6. Update the matching lesson text for factual or structural changes; it does not need to duplicate every spoken phrase.
-
-## What follows Austin approval
-
-After the core scripts and lesson texts are approved:
-
-1. Apply the already-mapped slide corrections and build only the missing visuals.
-2. Create the versioned demo-account checkpoint exports.
-3. Rebuild walkthroughs against the working Build Your Plan preview Austin has used.
-4. Synchronize approved modules into the master, generated modules, Circle, checkpoints, and production files.
-5. Archive superseded scripts, old walkthroughs, prior course generations, and stale structural documents.
-6. Run the Advanced Library voice and app pass in demand order.
-
-Until pre-dictation QA is complete, Austin should not spend time performing the final read of the scripts.
+For each script, Austin reads it aloud once, marks only the wording or judgment he would naturally express differently, dictates targeted replacements, confirms the example and app terminology, and marks `AUSTIN APPROVED` after the final read. The structure should not need another rebuild.

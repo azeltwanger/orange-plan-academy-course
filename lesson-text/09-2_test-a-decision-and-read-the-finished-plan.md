@@ -2,11 +2,11 @@
 
 ## Begin with one question
 
-Use Scenarios to ask what happens if one decision or condition changes without altering the baseline.
+Use a Scenario to ask what happens when one decision or condition changes without altering the baseline.
 
 ## Change one primary lever first
 
-Test retirement age, spending, return assumptions, state, debt, allocation, contribution route, or borrowing separately before combining them.
+Test retirement age, spending, returns, state, debt, allocation, contribution route, or borrowing separately before combining them.
 
 ## Stress test versus choice
 
@@ -21,7 +21,7 @@ Test retirement age, spending, return assumptions, state, debt, allocation, cont
 4. Review accounts, Bitcoin sold or retained, collateral, and debt.
 5. Review ending assets, estate, reserve, and the risk carrying the result.
 
-Do not reorganize the plan around a small difference that does not change what the household would do.
+Do not reorganize the plan around a small difference that would not change what the household does.
 
 ## Move a decision to its source
 
@@ -49,14 +49,14 @@ Rerun after the annual baseline update.
 
 ## Six-sentence summary
 
-Explain:
+Explain current position, cost of life and monthly capacity, retirement timing and spending, next-dollar route and drawdown impact, retirement funding and professional questions, and the family recovery starting point.
 
-1. Current position
-2. Cost of normal life and monthly capacity
-3. Retirement timing, confidence target, and supported spending
-4. Next-dollar route and drawdown impact
-5. Retirement funding and unresolved professional questions
-6. Family recovery and inheritance starting point
+## Annual record
+
+- **PDF:** readable snapshot of the reviewed plan
+- **Encrypted export:** passphrase-protected planning-data copy for secure storage and portability
+
+In-app restore is currently unavailable. Preserve the current plan and source records, keep the passphrase separate, and verify the app's current restore status before relying on a future import process.
 
 ## Scenario provenance
 
@@ -67,4 +67,4 @@ Explain:
 
 ## Done when
 
-The household can explain every saved Scenario, summarize the plan in six sentences, and identify one to three next actions.
+The household can explain every saved Scenario, summarize the plan in six sentences, identify one to three next actions, and explain the current PDF and encrypted-export roles correctly.

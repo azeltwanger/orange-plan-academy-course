@@ -1,8 +1,8 @@
 # My Orange Plan — capstone summary
 
-**Purpose:** the learner finishes the core course with one page that explains the plan in plain language. This is the graduation requirement, not another lesson or a second financial plan.
+**Purpose:** the learner finishes Core with one page that explains the plan in plain language. This is the graduation requirement, not another lesson or a second financial plan.
 
-The values come from Orange Plan and the learner’s saved decisions. The page contains no seed phrase, private key, passphrase, PIN, password, account credential, or full recovery instruction.
+Every number comes from Orange Plan or a documented planning decision. The page contains no seed phrase, private key, passphrase, PIN, password, account credential, or full recovery instruction.
 
 ---
 
@@ -17,14 +17,9 @@ The values come from Orange Plan and the learner’s saved decisions. The page c
 | Other investments | $___ |
 | Total debt | $___ |
 
-**One-sentence read:**  
-Today we have ________________________________________________.
+**One-sentence read:** Today we have ________________________________________________.
 
-### Where these numbers come from
-
-- **Calculated from:** current accounts, holdings, Bitcoin price, and debt balances
-- **Edit source:** the underlying account, holding, and debt records
-- **This affects:** allocation, debt ratios, confidence, custody stakes, and the report
+**Source:** current accounts, holdings, Bitcoin price, and debt balances.
 
 ---
 
@@ -39,12 +34,9 @@ Today we have ________________________________________________.
 | **Available surplus** | **$___** | **$___** |
 | Bare-bones living spending | $___ | $___ |
 
-**One-sentence read:**  
-Our normal life costs __________________, and we can reliably route __________________ each month.
-
-### Where surplus comes from
-
 `Income − estimated taxes − living spending − debt payments = available surplus`
+
+**One-sentence read:** Our normal life costs __________________, and we can reliably route __________________ each month.
 
 ---
 
@@ -59,8 +51,7 @@ Our normal life costs __________________, and we can reliably route ____________
 | Known future costs |  |
 | Next de-risking date |  |
 
-**One-sentence read:**  
-The reserve protects __________________, and the next dated cost is funded from __________________.
+**One-sentence read:** The reserve protects __________________, and the next dated cost is funded from __________________.
 
 ---
 
@@ -77,8 +68,7 @@ The reserve protects __________________, and the next dated cost is funded from 
 | DTA ceiling | ___% |
 | New-debt trigger |  |
 
-**One-sentence read:**  
-We are keeping __________________, paying extra on __________________, and will not intentionally cross __________________.
+**One-sentence read:** We are keeping __________________, paying extra on __________________, and will not intentionally cross __________________.
 
 ---
 
@@ -88,12 +78,11 @@ We are keeping __________________, paying extra on __________________, and will 
 |---|---:|
 | Current Bitcoin allocation | ___% |
 | Target Bitcoin allocation | ___% |
-| Drift band | ___ to ___% |
+| Drift / review band | ___ to ___% |
 | Dollar loss from a 75% Bitcoin drawdown | $___ |
 | Largest thing that could force a sale |  |
 
-**One-sentence read:**  
-We chose __________________% Bitcoin because we can hold through approximately $__________________ of temporary loss without a forced sale.
+**One-sentence read:** We chose __________________% Bitcoin because we can hold through approximately $__________________ of temporary loss without a forced sale.
 
 ---
 
@@ -108,8 +97,7 @@ We chose __________________% Bitcoin because we can hold through approximately $
 | Taxable Bridge / Bitcoin / other | $___ |  |
 | **Total** | **$___** | Must equal available surplus |
 
-**Route changes when:**  
-______________________________________________________________.
+**Route changes when:** ________________________________________________.
 
 ---
 
@@ -124,8 +112,7 @@ ______________________________________________________________.
 | Defined CPA question |  |
 | Next tax-window year |  |
 
-**One-sentence read:**  
-The tax item that matters now is ________________________________________________.
+**One-sentence read:** The tax item that matters now is ________________________________________________.
 
 ---
 
@@ -140,12 +127,9 @@ The tax item that matters now is _______________________________________________
 | Earliest date reaching target |  |
 | Planning horizon |  |
 
-**One-sentence read:**  
-The plan first reaches our __________________% target around __________________ while supporting __________________ per year.
+**One-sentence read:** The plan first reaches our __________________% target around __________________ while supporting __________________ per year.
 
-### Where the result comes from
-
-The retirement result uses current assets, contributions, spending, debts, taxes, income, life events, assumptions, withdrawal strategy, planning horizon, and the selected confidence target.
+The result uses current assets, contributions, spending, debts, taxes, income, life events, assumptions, withdrawal strategy, planning horizon, and the selected confidence target.
 
 ---
 
@@ -173,8 +157,7 @@ The retirement result uses current assets, contributions, spending, debts, taxes
 | Reserve-refill rule |  |
 | Borrowing | Excluded / Preview only / Saved after full review |
 
-**One-sentence read:**  
-The first retirement paycheck comes from __________________, and after a weak year we __________________.
+**One-sentence read:** The first retirement paycheck comes from __________________, and after a weak year we __________________.
 
 ---
 
@@ -194,8 +177,7 @@ The first retirement paycheck comes from __________________, and after a weak ye
 | Second discovery / delivery path |  |
 | Insurance gaps reviewed |  |
 
-**One-sentence read:**  
-If I cannot act, __________________ starts the process, __________________ provides legal guidance, and no document contains a Bitcoin secret.
+**One-sentence read:** If I cannot act, __________________ starts the process, __________________ provides legal guidance, and no document contains a Bitcoin secret.
 
 ---
 
@@ -219,14 +201,20 @@ A Scenario remains a question until the real decision is applied to the source p
 | 2 |  |  |  | ☐ |
 | 3 |  |  |  | ☐ |
 
-## 13. Review dates
+## 13. Review dates and annual records
 
-| Review | Date / cadence |
+| Review / record | Date / cadence / location |
 |---|---|
 | Monthly update |  |
 | Annual review |  |
-| Next policy anniversary |  |
+| Next spending-policy anniversary |  |
 | Next custody / estate review |  |
+| Dated PDF location |  |
+| Encrypted export location |  |
+| Export passphrase stored separately | Yes / No |
+| Current app restore availability checked |  |
+
+**Current product note:** encrypted export is available; in-app plan restore is temporarily unavailable. Keep the current plan and source records intact until the app provides and verifies restore again.
 
 ---
 
@@ -243,9 +231,10 @@ A Scenario remains a question until the real decision is applied to the source p
 
 The capstone is complete when:
 
-- Every number traces to a saved source or calculated app output.
-- The funding and routing totals reconcile.
-- The household can explain the six sentences without opening the app.
-- One to three actions have owners and dates.
-- The PDF snapshot and encrypted data backup are stored separately.
-- No Bitcoin secret or account credential appears anywhere on the page.
+- every number traces to a saved source or calculated app output,
+- the funding and routing totals reconcile,
+- the household can explain the six sentences without opening the app,
+- one to three actions have owners and dates,
+- the PDF and encrypted export are stored separately under the security plan,
+- the current restore availability is understood rather than assumed,
+- and no Bitcoin secret or account credential appears anywhere on the page.

@@ -53,12 +53,14 @@ The first two follow the saved route. The trip remains a one-time event rather t
 
 Review the affected planning areas after major family, health, work, business, property, debt, custody, or spending changes.
 
-## PDF versus backup
+## PDF versus encrypted export
 
-- PDF: readable annual snapshot
-- Encrypted backup: restorable plan data
+- **PDF:** readable annual snapshot
+- **Encrypted export:** passphrase-protected planning data for secure storage and portability
 
-One does not replace the other. Neither contains Bitcoin secrets.
+Orange Plan currently allows the encrypted export to be created, but in-app plan restore is temporarily unavailable. Do not treat the export as a restore you can use today or delete the current plan and source records because the file exists.
+
+Keep the passphrase separate from the export. Verify the current app restore process before relying on it in the future. Neither file should contain Bitcoin secrets.
 
 ## Done when
 

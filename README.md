@@ -1,37 +1,46 @@
 # Orange Plan Academy
 
-This repository contains the Orange Plan Academy core course, optional advanced library, scripts, student text, walkthroughs, slides, and production tooling.
+This repository contains the Orange Plan Academy core course, optional Advanced Library, spoken scripts, student lesson text, demo-account controls, slide source material, and production tooling.
 
 ## Start here
 
-1. **`CURRENT-COURSE.md`** — the approved current outline and module-by-module migration status
-2. **`COURSE-APP-CONTRACT.md`** — how the Academy teaches, how it matches the app, and how numbers are explained
-3. **`BUILD-YOUR-PLAN-CROSSWALK.md`** — how walkthroughs track the Build Your Plan flow without forcing the concept course to mirror the product one-for-one
-4. **`research/CLIENT-CALL-VOICE-EVIDENCE.md`** — Austin's real teaching patterns from six client calls
-5. **`research/CLIENT-CONFUSION-REGISTRY.md`** — recurring questions the course and walkthroughs must answer
+Use these files in this order:
+
+1. **`CURRENT-COURSE.md`** — current core outline, production stage, and source-of-truth rules
+2. **`DEMO-HOUSEHOLD.md`** — the only working source for continuous-demo inputs
+3. **`PRE-DICTATION-QA.md`** — what is complete, what is held, and what must happen before Austin's final voice pass
+4. **`DEMO-CHECKPOINT-RUN-SHEET.md`** — how the working household is entered and how app-calculated outputs are captured once
+5. **`scripts/`** and **`lesson-text/`** — the current 28 spoken drafts and their matching written lessons
+6. **`COURSE-APP-CONTRACT.md`** and **`BUILD-YOUR-PLAN-CROSSWALK.md`** — the course/app agreement and future walkthrough routing
+7. **`professional-review/`** — the only current CPA, custody, estate-attorney, and insurance review packets
+8. **`research/SLIDE-CORRECTION-MAP.md`** — page-by-page treatment of the existing live-teaching decks
 
 Read **`AUSTIN-AUTHORITY.md`** before changing Austin's planning recommendations.
 
-## Current repair status
+## Current stage
 
-The course is being reconciled to:
+The pre-dictation structural pass is substantially complete:
 
-- the current Orange Plan app,
-- the Build Your Plan workflow,
-- one continuous demo household,
-- clear explanations of where every important number came from,
-- and Austin's actual teaching voice.
+- 28 core teach scripts exist across Modules 0–9.
+- Every script has a matching student lesson.
+- Every lesson owns one main planning decision.
+- Core and Advanced are separated by a visible condition.
+- One continuous fictional household reconciles cash flow, assets, debts, reserve, contribution routing, future costs, basis, custody, and estate starting state.
+- The professional review packets and slide correction map are ready.
+- The permanent course audit passes with 28 scripts, 23,559 spoken words, no missing lesson text, and no current legacy-pattern findings.
+- Script headers total about **214 production minutes, or 3 hours 34 minutes**, before walkthroughs. The raw word-count estimate is about 152 minutes; the difference allows for teaching pace, visuals, and examples.
 
-**Module 1 is the active vertical slice.** Its three teaching scripts have received the first structural, app-accuracy, and voice-matching pass. Exact walkthrough clicks remain on hold until the Build Your Plan preview is usable and Austin has completed it end to end.
+Austin's final voice and judgment review has **not** started. Before it does, the remaining cross-course work is intentionally narrow:
 
-Do not assume that a file is current because it is generated or because an old checklist called it final. Check `CURRENT-COURSE.md` first.
+- settle the targeted demo decisions listed in `DEMO-HOUSEHOLD.md`,
+- enter the household into the current app and capture calculated checkpoint outputs,
+- receive and apply the external professional reviews for high-stakes modules,
+- and verify the working Build Your Plan preview before recording exact walkthrough clicks.
 
 ## Course structure
 
-The required core remains:
-
 0. Start Here
-1. Baseline and Confidence
+1. Build Your Baseline and Read the Plan
 2. Cash Flow and Reserve
 3. Debt Strategy
 4. Allocation and the Next Dollar
@@ -41,71 +50,61 @@ The required core remains:
 8. Estate and Family Handoff
 9. Maintain, Test, and Read the Plan
 
-The Advanced Library is optional and gated by conditions visible in the learner's own plan.
+The Advanced Library is optional. It is linked from the core planning area that makes it relevant and does not count toward core completion unless the learner's own plan triggers it.
 
 ## Repository map
 
 | Path | Purpose |
 |---|---|
-| `scripts/` | Spoken teaching scripts and walkthrough run sheets |
-| `lesson-text/` | Student-facing written lessons |
-| `research/` | Client-call evidence, confusion registry, and course research |
+| `scripts/` | Current spoken core drafts plus historical walkthrough sheets that are explicitly not current until reverified |
+| `lesson-text/` | Current student-facing reference lessons |
+| `professional-review/` | Canonical high-stakes review packets |
+| `research/` | Client-call evidence, confusion registry, runtime ownership, demo reconciliation, and slide audit |
 | `visuals/` | Visual briefs and graphic source material |
-| `modules/` | Previous generated module splits; migrate module by module |
-| `tools/` | Course checks and generation tooling |
-| `MASTER-COURSE.md` | Previous core master; still contains stale sections during migration |
-| `MASTER-ADVANCED.md` | Previous advanced master; audit and migration pending |
-| `archive/` | Destination for retired course generations and stale walkthroughs |
+| `tools/course_audit.py` | Permanent structural, provenance, runtime, and legacy-language audit |
+| `modules/` | Previous generated module splits; migration input only |
+| `archive/` | Historical course generations and retired sources |
 
-`MASTER-COURSE.md`, `MASTER-ADVANCED.md`, `ALL-SCRIPTS.md`, generated module files, Circle output, and older production checklists are **not proof that a lesson is current during the repair**. The approved script and student-text files are synchronized back into those layers only after Austin reviews the module.
+`MASTER-COURSE.md`, `MASTER-ADVANCED.md`, `ALL-SCRIPTS.md`, generated modules, Circle output, and old production checklists are **not current production authority**. They are synchronized only after a module is Austin-approved.
 
-## Script labels
+## Script provenance
 
 | Label | Meaning |
 |---|---|
-| `AUSTIN DICTATION` | Austin's directly transcribed words |
-| `VOICE-MATCHED DRAFT` | Rewritten from dictation, client calls, slides, and current app; Austin review pending |
-| `AUSTIN APPROVED` | Austin reviewed and cleared the wording for filming |
-| `WALKTHROUGH — APP VERIFICATION PENDING` | Durable structure exists; exact app recording is not yet verified |
+| `AUSTIN DICTATION` | Direct transcription of Austin's recording |
+| `AUSTIN DICTATION + VOICE-MATCHED COMPLETION` | Austin's spoken material preserved and incomplete sections filled from verified voice evidence; Austin review pending |
+| `VOICE-MATCHED DRAFT` | Rewritten from Austin dictation, client calls, slides, and current app behavior; Austin review pending |
+| `AUSTIN APPROVED` | Austin completed the final read and cleared the wording for filming |
 | `ARCHIVED` | Historical only |
 
-The old `SPOKEN-PROSE VERSION (calibrated)` label is retired because it did not distinguish Austin's actual words from authored prose.
+The old `SPOKEN-PROSE VERSION (calibrated)` label is retired because it did not distinguish Austin's words from authored prose.
 
 ## The walkthrough rule
 
-Concept lessons follow the clearest educational order. Walkthroughs track Build Your Plan.
+Concept videos teach the durable financial-planning decision. Walkthroughs are replaceable, versioned, and track the current Build Your Plan implementation.
 
 Every walkthrough must:
 
-1. Recall the planning decision.
-2. Enter through the relevant Build Your Plan step.
-3. Continue the same demo household.
-4. Implement the decision in the current app.
-5. Explain the important number using **WHAT IT MEANS · CALCULATED FROM · EDIT SOURCE · THIS AFFECTS**.
+1. Recall the decision.
+2. Enter through the relevant Build Your Plan area.
+3. Continue the same demo household checkpoint.
+4. Implement only the decision the lesson taught.
+5. Explain the important result using **What it means · Calculated from · Edit source · This affects**.
 6. Return to Build Your Plan.
-7. State both the app completion rule and the human planning finish line.
+7. Distinguish the app completion rule from the human planning finish line.
+
+## Current encrypted-export limitation
+
+Orange Plan can create a passphrase-protected encrypted export for secure storage and portability. **In-app plan restore is currently unavailable.** Course materials must not describe that export as a restore the learner can use today. The current plan and source records remain necessary until the app exposes and verifies a restore process again.
 
 ## Before filming
 
-A lesson is not ready merely because prose exists.
+A lesson is film-ready only after:
 
-Confirm:
-
-- the concept and recommendation are approved,
-- app terminology and behavior match current `main`,
-- the demo household state is versioned,
-- every important number has a provenance explanation,
-- the student-text layer matches the spoken lesson,
-- the walkthrough was clicked through on the current preview,
-- and the script is labeled `AUSTIN APPROVED`.
-
-## Migration sequence
-
-1. Approve Module 1 as the template.
-2. Create the versioned demo household and checkpoint exports.
-3. Rebuild the Module 1 walkthrough against Build Your Plan.
-4. Synchronize Module 1 into the master, checkpoints, Circle, and production tooling.
-5. Archive the superseded versions.
-6. Repeat for the remaining modules.
-
-The repo cleanup will be completed module by module so no current production source is accidentally deleted before its replacement is approved.
+- demo inputs and app-calculated outputs reconcile,
+- app terminology and behavior match the accepted build,
+- required professional review is applied,
+- Austin approves the planning judgment and spoken wording,
+- the matching lesson text agrees,
+- the visual supports the same concept,
+- and the walkthrough is verified against the current preview.
