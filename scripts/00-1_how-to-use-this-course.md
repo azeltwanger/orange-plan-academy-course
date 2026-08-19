@@ -112,6 +112,10 @@ The purpose is to get organized, understand the trade-offs, make deliberate deci
 
 Choose how you will move through the course and where you will track the information that is still missing.
 
+== PUT IT IN ORANGE PLAN ==
+
+No financial input is required yet. Open Orange Plan and locate the current plan-building entry point and AI Review so you know where the later walkthroughs will return. Then keep your source-document list beside the plan as you begin Module 1.
+
 == YOU ARE DONE WHEN ==
 
 You understand the job of the app, the course, and the future walkthroughs—and you know the no-secrets rule before entering any information.
