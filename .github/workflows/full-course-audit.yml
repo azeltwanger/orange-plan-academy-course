@@ -1,0 +1,60 @@
+name: Full pre-dictation audit
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'lesson-text/**'
+      - 'demo/**'
+      - 'professional-review/**'
+      - 'research/**'
+      - 'tools/**'
+      - 'CURRENT-COURSE.md'
+      - 'COURSE-APP-CONTRACT.md'
+      - 'BUILD-YOUR-PLAN-CROSSWALK.md'
+      - 'DEMO-HOUSEHOLD.md'
+      - 'AUSTIN-DEMO-DECISIONS.md'
+      - 'AUSTIN-REVIEW-INDEX.md'
+      - 'PRE-DICTATION-QA.md'
+      - 'FILMING-READINESS.md'
+      - 'NUMBER-PROVENANCE-REGISTRY.md'
+      - 'VISUAL-PRODUCTION-BRIEFS.md'
+      - 'WALKTHROUGH-RUN-SHEET-TEMPLATE.md'
+      - 'PILOT-TEST-PLAN.md'
+      - 'ARCHIVE-AND-SYNC-PLAN.md'
+      - 'README.md'
+      - '.github/workflows/full-course-audit.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the course
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run the full audit suite
+        run: python tools/run_all_audits.py
+
+      - name: Add full summary to the job summary
+        if: always()
+        run: |
+          if [ -f artifacts/full-course-audit/SUMMARY.md ]; then
+            cat artifacts/full-course-audit/SUMMARY.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload all audit reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: full-course-audit
+          path: artifacts/full-course-audit
+          if-no-files-found: warn
