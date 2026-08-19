@@ -54,7 +54,7 @@ The attorney needs to understand the asset and draft authority that works with t
 
 == THE PROVIDER RECORD MAY CONTROL THE ACCOUNT ==
 
-The repaired course does not use the shortcut “beneficiary forms always override the will.”
+The legal effect cannot be reduced to a one-line slogan about a beneficiary form and a will.
 
 For many retirement plans, IRAs, insurance policies, and accounts with a valid death-transfer designation, the provider record controls under the account terms and applicable law rather than the will's probate instructions.
 
