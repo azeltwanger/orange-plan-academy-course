@@ -81,7 +81,7 @@ If confidence at 55 is below 80%, the household can keep age 55 and improve the 
 
 If confidence at 55 is already above the target, the plan may have room to retire sooner, spend more, take less risk, or save less aggressively.
 
-The confidence result and earliest date come from the same test-run process. There is no separate deterministic retirement date being compared with Monte Carlo.
+Both outputs come from the same test-run process. Orange Plan is not comparing that result with a second retirement-date calculation.
 
 The Plan confidence target is also different from the starting-spending choices and annual spending policy on the Income page. Those answer different retirement-income questions later.
 
