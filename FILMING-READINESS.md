@@ -19,13 +19,13 @@
 | 28 core script drafts | DONE | `scripts/` current set |
 | 28 matching lesson texts | DONE | `lesson-text/` current set |
 | Authentic voice evidence | DONE | Client-call evidence + dictated Lesson 2.2 |
-| Canonical demo inputs | IN PROGRESS | `DEMO-HOUSEHOLD.md`; Austin decisions and app entry remain |
+| Canonical demo inputs | IN PROGRESS | `DEMO-HOUSEHOLD.md`; targeted Austin decisions and app entry remain |
 | Demo app checkpoint outputs | HOLD | Enter `demo-v1-inputs` in current app and save receipts/exports |
 | Educational progression audit | DONE | `research/EDUCATIONAL-PROGRESSION-AUDIT.md` |
-| Duplication/runtime audit | IN PROGRESS | Audit written; cuts and exact word counts remain |
+| Duplication/runtime audit | IN PROGRESS | `research/CORE-RUNTIME-DUPLICATION-AUDIT.md`; cuts and exact word counts remain |
 | App terminology / behavior pass | IN PROGRESS | First pass complete; final check after demo run |
-| Professional review packets | PENDING | CPA, custody, estate, insurance packets |
-| Slide correction map | PENDING | Source decks loaded; page-by-page map next |
+| Professional review packets | DONE | `review/CPA-REVIEW-PACKET.md`, `CUSTODY-REVIEW-PACKET.md`, `ESTATE-REVIEW-PACKET.md`, `INSURANCE-REVIEW-PACKET.md`; reviewer responses remain HOLD |
+| Slide correction map | DONE | `research/SLIDE-CORRECTION-MAP.md`; actual slide revisions follow approved scripts and checkpoint outputs |
 | Austin voice/judgment approval | PENDING | Begins only after pre-dictation QA |
 | Build Your Plan walkthroughs | HOLD | Wait for working preview Austin has used |
 | Repo synchronization / archive | PENDING | After module approval |
@@ -34,34 +34,34 @@
 
 | Lesson | Structure | Demo math | Duplicate cut | App facts | External review | Austin approval | Slides | Film ready |
 |---|---|---|---|---|---|---|---|---|
-| 0.1 | DONE | N/A | PENDING | DONE | N/A | PENDING | PENDING | NO |
-| 0.2 | DONE | N/A | PENDING | IN PROGRESS | N/A | PENDING | PENDING | NO |
-| 1.1 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | PENDING | NO |
-| 1.2 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | PENDING | NO |
-| 1.3 | DONE | OUTPUTS HOLD | PENDING | IN PROGRESS | N/A | PENDING | PENDING | NO |
-| 2.1 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | PENDING | NO |
-| 2.2 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | PENDING | NO |
-| 2.3 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | PENDING | NO |
-| 2.4 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | PENDING | NO |
-| 3.1 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | PENDING | NO |
-| 4.1 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | PENDING | NO |
-| 4.2 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | PENDING | NO |
-| 4.3 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | PENDING | NO |
-| 4.4 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | CPA check on tax-sensitive claims | PENDING | PENDING | NO |
-| 5.1 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | CPA | PENDING | PENDING | NO |
-| 5.2 | DONE | OUTPUTS HOLD | PENDING | IN PROGRESS | CPA | PENDING | PENDING | NO |
-| 6.1 | DONE | OUTPUTS HOLD | PENDING | IN PROGRESS | CPA on tax/access statements | PENDING | PENDING | NO |
-| 6.2 | DONE | OUTPUTS HOLD | PENDING | IN PROGRESS | CPA on withdrawal mechanics | PENDING | PENDING | NO |
-| 6.3 | DONE | OUTPUTS HOLD | PENDING | IN PROGRESS | N/A | PENDING | PENDING | NO |
-| 7.1 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | Custody professional | PENDING | PENDING | NO |
-| 7.2 | DONE | REAL-WORLD TEST HOLD | PENDING | IN PROGRESS | Custody professional | PENDING | PENDING | NO |
-| 7.3 | DONE | REAL-WORLD TEST HOLD | PENDING | IN PROGRESS | Custody professional | PENDING | PENDING | NO |
-| 8.1 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | Estate attorney | PENDING | PENDING | NO |
-| 8.2 | DONE | REAL-WORLD TEST HOLD | PENDING | IN PROGRESS | Estate + custody | PENDING | PENDING | NO |
-| 8.3 | DONE | REAL-WORLD TEST HOLD | PENDING | IN PROGRESS | Estate attorney | PENDING | PENDING | NO |
-| 8.4 | DONE | POLICY DATA TBD | PENDING | IN PROGRESS | Licensed insurance professional | PENDING | PENDING | NO |
-| 9.1 | DONE | CHECKPOINT HOLD | PENDING | IN PROGRESS | N/A | PENDING | PENDING | NO |
-| 9.2 | DONE | CHECKPOINT HOLD | PENDING | IN PROGRESS | N/A | PENDING | PENDING | NO |
+| 0.1 | DONE | N/A | PENDING | DONE | N/A | PENDING | MAPPED | NO |
+| 0.2 | DONE | N/A | PENDING | IN PROGRESS | N/A | PENDING | MAPPED | NO |
+| 1.1 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | MAPPED | NO |
+| 1.2 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | MAPPED | NO |
+| 1.3 | DONE | OUTPUTS HOLD | PENDING | IN PROGRESS | N/A | PENDING | MAPPED | NO |
+| 2.1 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | MAPPED | NO |
+| 2.2 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | MAPPED | NO |
+| 2.3 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | MAPPED | NO |
+| 2.4 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | MAPPED | NO |
+| 3.1 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | MAPPED | NO |
+| 4.1 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | MAPPED | NO |
+| 4.2 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | MAPPED | NO |
+| 4.3 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | N/A | PENDING | MAPPED | NO |
+| 4.4 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | CPA packet ready | PENDING | MAPPED | NO |
+| 5.1 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | CPA packet ready; response HOLD | PENDING | MAPPED | NO |
+| 5.2 | DONE | OUTPUTS HOLD | PENDING | IN PROGRESS | CPA packet ready; response HOLD | PENDING | MAPPED | NO |
+| 6.1 | DONE | OUTPUTS HOLD | PENDING | IN PROGRESS | CPA packet ready for tax/access claims | PENDING | MAPPED | NO |
+| 6.2 | DONE | OUTPUTS HOLD | PENDING | IN PROGRESS | CPA packet ready for withdrawal claims | PENDING | MAPPED | NO |
+| 6.3 | DONE | OUTPUTS HOLD | PENDING | IN PROGRESS | N/A | PENDING | MAPPED | NO |
+| 7.1 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | Custody packet ready; response HOLD | PENDING | MAPPED | NO |
+| 7.2 | DONE | REAL-WORLD TEST HOLD | PENDING | IN PROGRESS | Custody packet ready; response HOLD | PENDING | MAPPED | NO |
+| 7.3 | DONE | REAL-WORLD TEST HOLD | PENDING | IN PROGRESS | Custody packet ready; response HOLD | PENDING | MAPPED | NO |
+| 8.1 | DONE | INPUTS LOCKED | PENDING | IN PROGRESS | Estate packet ready; response HOLD | PENDING | MAPPED | NO |
+| 8.2 | DONE | REAL-WORLD TEST HOLD | PENDING | IN PROGRESS | Estate + custody packets ready; responses HOLD | PENDING | MAPPED | NO |
+| 8.3 | DONE | REAL-WORLD TEST HOLD | PENDING | IN PROGRESS | Estate packet ready; response HOLD | PENDING | MAPPED | NO |
+| 8.4 | DONE | POLICY DATA TBD | PENDING | IN PROGRESS | Insurance packet ready; response HOLD | PENDING | MAPPED | NO |
+| 9.1 | DONE | CHECKPOINT HOLD | PENDING | IN PROGRESS | N/A | PENDING | MAPPED | NO |
+| 9.2 | DONE | CHECKPOINT HOLD | PENDING | IN PROGRESS | N/A | PENDING | MAPPED | NO |
 
 ## Meaning of the demo statuses
 
@@ -70,6 +70,7 @@
 - `REAL-WORLD TEST HOLD` — the app can record completion, but a device, family, provider, or legal process supplies the proof.
 - `POLICY DATA TBD` — policy terms are intentionally not invented for the fictional household.
 - `CHECKPOINT HOLD` — requires the saved demo account after prior modules are complete.
+- `MAPPED` — the current visual has a keep/edit/replace/move/remove decision in `research/SLIDE-CORRECTION-MAP.md`; the revised slide itself is not built yet.
 
 ## Film-ready checklist for one lesson
 
