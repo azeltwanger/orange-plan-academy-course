@@ -1,154 +1,136 @@
 TELEPROMPTER SCRIPT — segment 8.1
 8.1 Choose the people, legal documents, and beneficiary records
-~11 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + estate attorney review pending
+~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + estate attorney review pending
 ============================================================
 
-So in this lesson we're going to choose the people who act if you cannot, identify the legal documents the household needs, and make sure the beneficiary records point to the people you actually intend.
+The estate plan has to answer two separate questions:
 
-The custody plan showed how access works.
+- Who has legal authority to act?
+- How does that person connect with the custody process without exposing the Bitcoin today?
 
-The estate plan gives people the legal authority and instructions to act.
+Custody alone does not answer the first question. A will alone does not answer the second.
 
-A hardware wallet can accept a valid signature without knowing whether the person using it is legally entitled to the Bitcoin. A will can name an heir without teaching the family how the wallet works. The two plans have to connect.
+The exact documents and procedures are state-specific. This lesson builds the planning structure; an attorney licensed in the household's state drafts and reviews the legal plan.
 
-Estate and probate rules are state-specific. This lesson gives you the planning structure. An attorney licensed in your state needs to draft or review the legal documents and signing process.
+== SEPARATE THE ROLES ==
 
-== THE ROLES ARE DIFFERENT ==
+**Executor or personal representative** handles the probate estate after death when the legal process requires it. A will nominates the person; the applicable court or process generally establishes authority for probate assets.
 
-The first role is the executor, sometimes called the personal representative under state law.
+**Financial agent under a power of attorney** acts during the owner's life within the authority granted by the document. A power of attorney generally ends at death.
 
-After death, this person handles the probate estate when a court process is required. The job can include gathering assets, keeping records, dealing with creditors and taxes, and distributing property under the will and state law.
+**Healthcare decision-maker** handles medical decisions under the documents used in the state.
 
-The executor does not automatically have authority the moment you tell them they are your choice. The will nominates the person, and the applicable court or legal process generally establishes the authority for probate assets.
+**Trustee** manages property held in or passing to a trust when the plan uses one.
 
-The second role is the financial agent under a power of attorney.
+A technical Bitcoin helper or custody provider can assist with the process. That role does not create legal authority and does not require receiving a seed phrase or private key.
 
-This person can act during your lifetime within the authority the document gives them, including during incapacity when the power is durable under the document and state law.
-
-A power of attorney generally ends at death. The executor or another estate representative handles the post-death process.
-
-The third role is the healthcare decision-maker named in the healthcare directive or medical power documents used in your state.
-
-This person handles medical decisions rather than managing the investment accounts.
-
-The fourth role may be a trustee when a trust owns or receives property.
-
-The same person can serve in more than one role when the attorney and the family decide that is appropriate. Do not assume one title gives the person every kind of authority.
+The same person may serve in more than one legal role when the attorney and family decide that it fits. Do not assume one title gives every kind of authority.
 
 == CHOOSE FOR THE WORK ==
 
-The executor is not an honorary name on a page.
+An executor is not an honorary name on a page.
 
-Choose someone who is trustworthy, organized, willing, available, and able to work with attorneys, tax professionals, providers, and family members during a difficult period.
+Choose someone who is trustworthy, organized, willing, available, and able to work with attorneys, tax professionals, providers, and family members while grieving.
 
-The person does not have to be the most technical Bitcoiner in the family.
+The person does not have to be the most technical Bitcoiner in the family. Judgment is harder to replace than technical help.
 
-They need judgment and the ability to follow a process. A named technical helper or collaborative-custody provider can assist with the Bitcoin mechanics after the legal authority is clear.
+Ask before naming them. Explain the general workload, where the process documents will be, who the professional contacts are, and who serves if the first choice cannot.
 
-Ask the person before naming them. Explain the general job, where the process documents will be, who the attorney and technical contacts are, and who the backup person is if the first choice cannot serve.
+A spouse or heir may also serve as executor in many plans. Whether that fits depends on state law, family dynamics, and the custody design. There is no universal course rule that the executor and heir must be different people.
 
-A spouse or heir may also be the executor in many plans. Whether that is a good design depends on state law, family dynamics, conflicts, and the custody structure. Do not create a blanket rule that an heir and executor must always be different.
+== REVIEW THE CORE DOCUMENT AREAS ==
 
-== THE CORE DOCUMENT AREAS ==
+The names vary by jurisdiction, but the core areas are:
 
-The exact documents and names vary by state, but the core planning areas are consistent.
+- will,
+- durable financial power of attorney,
+- healthcare directive or medical authority documents,
+- beneficiary, payable-on-death, and transfer-on-death records,
+- and a trust only when it solves a specific problem identified with counsel.
 
-The will directs probate property, nominates the executor, and can address guardianship and other state-law matters.
+The legal document should not contain a seed phrase, private key, passphrase, PIN, password, or complete recovery path.
 
-The durable financial power of attorney authorizes an agent to act during life within the powers granted.
-
-The healthcare directive and related medical documents state wishes and name the person who can make healthcare decisions under local law.
-
-Beneficiary, payable-on-death, and transfer-on-death records direct the provider handling an account or policy.
-
-A revocable trust may also be part of the plan when the attorney determines it solves a real probate, incapacity, privacy, administration, or family need. It is not automatically required because the household owns Bitcoin.
+The attorney needs to understand the asset and draft authority that works with the custody process without turning a public or discoverable document into a spending key.
 
 == THE PROVIDER RECORD MAY CONTROL THE ACCOUNT ==
 
-For retirement plans and IRAs, the beneficiary is designated under the procedures of the plan or account. A person named only in the will does not automatically become the plan beneficiary.
+The repaired course does not use the shortcut “beneficiary forms always override the will.”
 
-Many life insurance policies, retirement accounts, and accounts with a valid beneficiary or death-transfer designation pass under the provider record rather than the will's probate instructions.
+For many retirement plans, IRAs, insurance policies, and accounts with a valid death-transfer designation, the provider record controls under the account terms and applicable law rather than the will's probate instructions.
 
-The details depend on the plan terms, state law, spousal-consent rules, community-property rules, and whether the designation is valid.
+Plan terms, state law, marital rights, spousal consent, community-property rules, and the validity of the designation can change the result.
 
-So the instruction is not “the form always beats the will.”
+The practical rule is to review the legal plan and every provider designation together, then confirm the provider has the current record.
 
-The instruction is to review the will and every provider designation together and confirm the provider has the current record.
+Orange Plan is the checklist. The plan administrator, custodian, bank, or insurer holds the binding account record.
 
-Orange Plan is the checklist. The plan administrator, custodian, insurer, or bank holds the binding record for that account or policy.
+== RUN THE DEMO REVIEW ==
 
-== RUN THE DEMO HOUSEHOLD ==
+The demo household intends the spouse to be the primary beneficiary and the children to be contingent beneficiaries under an attorney-approved design for minors.
 
-The demo household wants the surviving spouse to receive most financial assets, with the children named as contingent beneficiaries where appropriate.
+One old workplace retirement account still names a parent from before the marriage.
 
-The old workplace retirement account still names a parent from before the marriage.
+The current will may say the spouse receives the estate. That does not safely resolve the account mismatch.
 
-The current will says the spouse receives the estate.
+The action is to verify the plan administrator's record, update it under the provider process, and coordinate the contingent design with counsel.
 
-That mismatch needs to be corrected with the plan administrator rather than assuming the will fixes the account.
+The household still needs to choose and ask:
 
-The household also chooses the spouse as the first financial agent during life and a capable sibling as backup.
+- a primary executor or personal representative,
+- a practical backup,
+- the financial agent during life,
+- and the healthcare decision-maker.
 
-For executor, they choose the person best able to manage the process and name a successor. The attorney checks whether the custody design, family relationships, and local law create any reason to separate the roles.
+The canonical demo remains intentionally incomplete until those people agree.
 
-The technical Bitcoin helper is identified in the process documents but receives no secret and no legal authority just because their name appears there.
+== ASK THE ATTORNEY BITCOIN-SPECIFIC QUESTIONS ==
 
-== BITCOIN NEEDS EXPRESS ATTORNEY REVIEW ==
+Ask:
 
-The attorney should understand that the household owns Bitcoin, how it is held, and that the legal plan cannot require the seed phrase or private key to be written into the will or trust document.
+- Have you planned for self-custodied or collaborative digital assets?
+- How should the will, power of attorney, trust if any, and provider designations coordinate in this state?
+- Does the financial power of attorney include the authority needed for digital assets and current providers?
+- How will an executor, agent, or trustee prove authority to an exchange, IRA custodian, or collaborative provider?
+- How should the legal documents point to the process without exposing keys or recovery material?
+- Will you help the family understand execution, not only deliver documents for signature?
 
-The questions I would ask are:
+The professional-review packet will refine this language before filming.
 
-Have you handled an estate plan involving self-custodied digital assets or collaborative custody?
+== BUILD THE EXECUTOR PACKET ==
 
-How do the will, power of attorney, trust if any, and beneficiary records coordinate under this state's law?
+The packet connects the legal plan with the financial and custody processes.
 
-Does the financial power of attorney include the authority needed to deal with digital assets and the providers in this plan?
+It identifies the attorney, tax professional, custody contact, insurers, and providers.
 
-How should the executor prove authority to an exchange, retirement custodian, or collaborative-custody provider?
+It states where the will, death-claim information, custody map, policy records, and other process documents are stored.
 
-How should the legal documents describe the process without exposing keys or recovery material?
+It includes stop signs:
 
-And will you help the family understand execution, not only deliver documents for a signature?
+- do not share wallet backups or credentials,
+- do not accept unsolicited recovery help,
+- do not move Bitcoin before authority, custody procedure, and tax consequences are understood,
+- and do not assume every account follows the will.
 
-The attorney does not need to hold a key or know the seed. They need to understand the asset and draft authority that works with the custody process.
+It contains no secrets.
 
-== THE EXECUTOR PACKET ==
+Review the packet with the people while you are alive. The first time they hear the role should not be when the job begins.
 
-The executor packet is the process bridge between the legal plan and the financial plan.
+== WHERE READINESS COMES FROM ==
 
-It should identify the attorney, tax professional, technical helper, and providers to contact.
+Protect can track people, document status, provider confirmation dates, and professional contacts.
 
-It should state where the will, death certificates, policy records, custody map, and other documents are located.
+It cannot validate a state-law document or prove a provider accepted a beneficiary change.
 
-It should explain what not to do: do not type or share recovery words, do not accept unsolicited recovery help, do not move Bitcoin before legal and tax authority are clear, and do not assume every account follows the will.
-
-It does not contain secrets.
-
-The packet should be reviewed with the executor while you are alive. The first time they hear the role should not be after death.
-
-== WHERE THE READINESS RESULT COMES FROM ==
-
-A beneficiary or estate-readiness result in Protect is based on the people, document status, review dates, and other completion fields saved in the app.
-
-It can show that a beneficiary is missing or a document is stale.
-
-It cannot verify that the attorney drafted a valid state document or that the provider accepted the beneficiary change.
-
-The edit source is the Protect record and the real attorney or provider record.
-
-And it affects the next protection action, the report, and whether the family handoff appears complete.
+The app owns the checklist. The attorney, court, and provider records supply the legal proof.
 
 == YOUR DECISION ==
 
-Your decision is who serves in each role, which documents need attorney work, and which provider beneficiary records need to be confirmed or changed.
+Choose the primary and backup people, identify the documents needing attorney work, and list every provider designation that must be confirmed or changed.
 
 == PUT IT IN ORANGE PLAN ==
 
-Use Protect to record the executor, agents, beneficiaries, document status, provider confirmation dates, and professional contacts.
-
-Make every legal or beneficiary change with the attorney or provider that owns the real record. Do not put Bitcoin secrets into the app or legal documents.
+Record the roles, beneficiaries, documents, dates, and contacts in Protect. Make the real legal and beneficiary changes with the attorney or provider that owns the record.
 
 == YOU ARE DONE WHEN ==
 
-Every role has a primary and practical backup, the named people have been asked, the state-specific documents have an attorney plan, and each provider designation has been checked against the household's intent.
+Every role has a primary and backup, the people have agreed, attorney work is scheduled or complete, and every provider designation has been checked against the household's intent.

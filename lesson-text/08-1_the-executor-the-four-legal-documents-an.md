@@ -1,51 +1,45 @@
 # Choose the people, legal documents, and beneficiary records
 
-Custody explains how access works. Estate planning gives people legal authority and transfer instructions.
-
-State law controls the exact documents and procedures. Use an attorney licensed in your state.
-
 ## Separate the roles
 
-- **Executor or personal representative:** handles the probate estate after death when the legal process requires it
-- **Financial agent under power of attorney:** acts during life within the document's authority; a POA generally ends at death
-- **Healthcare decision-maker:** handles medical decisions under local documents
-- **Trustee:** manages property owned by or passing to a trust
+- Executor / personal representative: post-death probate role when required
+- Financial agent: acts during life under power of attorney
+- Healthcare decision-maker: medical authority
+- Trustee: manages trust property
+- Technical helper: assists with Bitcoin process but does not gain authority from that title
 
-One person may serve in more than one role when the legal and family design supports it.
+## Choose for the work
 
-## Core planning areas
+Use trustworthiness, organization, willingness, availability, and ability to coordinate professionals. Ask the person and name a practical backup.
+
+## Core document areas
 
 - Will
 - Durable financial power of attorney
-- Healthcare directive or medical power documents
-- Beneficiary, payable-on-death, and transfer-on-death records
-- Trust only when it solves a specific need identified with the attorney
+- Healthcare directive
+- Beneficiary / POD / TOD records
+- Trust only when it solves a specific need
 
-## Coordinate provider designations
+No legal document or executor packet contains Bitcoin secrets.
 
-Retirement plans, IRAs, insurance, and other accounts can pass under the provider's beneficiary or death-transfer record rather than the will's probate instructions.
+## Provider designations
 
-Plan terms, state law, spousal consent, and validity matter. Review the provider record and legal documents together.
+Many provider records control non-probate transfers under account terms and applicable law. Plan terms, marital rights, state law, consent, and designation validity matter.
 
-Orange Plan is the checklist. The administrator, custodian, insurer, or bank holds the binding account record.
+Orange Plan is the checklist. The provider holds the binding account record.
 
-## Bitcoin questions for the attorney
+## Demo issue
 
-- Experience with self-custodied or collaborative digital assets
-- Coordination of will, POA, trust, and beneficiary records
-- Authority needed to deal with digital assets and providers
-- Provider proof required after incapacity or death
-- Process documentation without seed phrases or private keys
-- Help with execution, not only drafting
+An old workplace account still names a parent. Verify and change the administrator's record rather than assuming the will fixes it.
 
-## Executor packet
+## Attorney questions
 
-Include contacts, document locations, provider process, and stop signs. Never include secrets.
+Ask about digital-asset authority, provider proof, document coordination, no-secrets process references, and execution help.
 
-## App versus legal proof
+## App versus proof
 
-Protect tracks people, documents, dates, and readiness. It does not validate state-law documents or confirm a provider accepted a beneficiary change.
+Protect tracks people and status. Attorneys, courts, and providers supply legal proof.
 
 ## Done when
 
-Every role and backup is chosen, the people have agreed, attorney work is scheduled or complete, and provider designations match the household's intent.
+Every role and backup is chosen, the people have agreed, attorney work is identified, and provider designations match the intended plan.

@@ -1,8 +1,6 @@
 # Write the heir letter and make sure the process starts
 
-The heir letter is a plain-language starting guide. It does not replace the will or grant legal authority.
-
-## First-page questions
+## Four first-page questions
 
 1. Who should I call first?
 2. What should I not do?
@@ -11,37 +9,28 @@ The heir letter is a plain-language starting guide. It does not replace the will
 
 ## Stop signs
 
-- Never type or share wallet backups, seed phrases, private keys, passphrases, PINs, or passwords
-- Do not accept unsolicited recovery help
-- Do not move Bitcoin before legal authority, custody procedure, and tax consequences are clear
-- Do not assume the will controls every provider account
+Never share Bitcoin secrets or credentials. Do not accept unsolicited recovery help, move Bitcoin before authority and tax are clear, or assume every account follows the will.
 
-## What belongs in the letter
+## What belongs
 
-- Asset and account categories
-- Attorney, CPA, executor, technical helper, insurer, and custody-provider contacts
-- Locations of legal and process documents
-- Call order
-- Personal explanation of what the plan is intended to do
+Asset categories, professional contacts, call order, document locations, and personal intent.
 
 ## What stays out
 
-No seed phrase, private key, passphrase, PIN, password, safe combination, full account number, backup photograph, or complete spending path.
+Seed phrases, keys, passphrases, PINs, passwords, safe combinations, full account numbers, backup images, and complete spending paths.
 
-## Review it with the family
+## Family review
 
-Ask recipients to explain the first actions back to you. Use a practice wallet for technical learning rather than exposing the main backup.
+Ask the key people to explain the first actions back to you.
 
-## Use more than one delivery path
+## Delivery
 
-Keep a current copy under the attorney-approved storage plan. A cloud dead-man switch can provide an additional notification path but should not be the only copy or discovery method.
-
-The switch does not move Bitcoin or create authority. It only starts the process.
+Use more than one discovery or delivery path. Automated cloud delivery is optional and does not replace legal documents, custody, or family communication.
 
 ## App versus proof
 
-Protect tracks the letter, recipients, review date, and switch status. The real proof is family review and legal coordination.
+Protect tracks letter and delivery status. Family review and attorney coordination prove the process.
 
 ## Done when
 
-The letter is current, no-secrets, understood by recipients, aligned with the legal and custody plan, and discoverable through more than one path.
+The letter is current, no-secrets, understood, aligned, and discoverable through more than one path.
