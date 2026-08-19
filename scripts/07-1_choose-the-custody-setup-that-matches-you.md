@@ -1,166 +1,127 @@
 TELEPROMPTER SCRIPT — segment 7.1
 7.1 Choose the custody setup that matches the Bitcoin and the family
-~11 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + custody professional review pending
+~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + custody review pending
 ============================================================
 
-So in this lesson we're going to choose a custody setup based on what is actually being protected, what the Bitcoin is for, and who has to be able to recover it.
+The custody decision is not “which setup is the most advanced?”
 
-You do not need to master every custody design that exists.
+It is which setup protects the amount, fits the job of the Bitcoin, and can still be recovered by the people who depend on it.
 
-You need a setup you can maintain, explain, and recover from. If the setup is too simple for the amount at stake, that is a risk. If it is too complex for the people who have to operate it, that is also a risk.
+Too little protection for a life-changing balance is a risk. So is more complexity than the household can operate.
 
-== CUSTODY AND INHERITANCE ARE CONNECTED BUT DIFFERENT ==
+== CUSTODY AND ESTATE ARE DIFFERENT JOBS ==
 
-Custody is the operational side.
+Custody is operational access:
 
-Where is the Bitcoin held? What controls it? What happens when a device, person, or provider is unavailable? Can the owner recover it? Can the family start the process without seeing a secret?
+- where the Bitcoin is held,
+- what controls it,
+- and whether recovery works when a device, person, or provider is unavailable.
 
-Inheritance is the legal and family-transfer side.
+Estate planning is legal authority and transfer:
 
-Who receives the property? Who has authority to act? Which legal documents and beneficiary designations control? How do the right people get the process after death or incapacity?
+- who can act,
+- who receives the property,
+- and how the family begins.
 
-This module is going to secure and test access. The estate module is going to connect that process to the people and legal documents.
+A key can move Bitcoin without proving legal authority. A will can name an heir without teaching the heir how the wallet works. Modules 7 and 8 have to connect, but they should not be collapsed into one decision.
 
-== THE FIVE QUESTIONS ==
+== ASK FIVE QUESTIONS FOR EACH BALANCE ==
 
-I would start with five questions for every meaningful pile of Bitcoin.
+1. Where is the Bitcoin held?
+2. What type of custody controls it?
+3. Who understands the process?
+4. What happens if the owner is unavailable?
+5. What is the largest single point of failure?
 
-One: where is it held?
+The demo household has 1.50 BTC on one hardware wallet and 0.25 BTC at one exchange.
 
-Two: what type of custody controls it?
+It can answer the first two questions. It cannot yet answer the last three well:
 
-Three: who understands the process?
+- only one spouse has operated the wallet,
+- recovery has not been tested,
+- the device and backup share one physical failure domain,
+- and the family has no complete process map.
 
-Four: what happens if the owner is unavailable?
+That is not a vague custody problem anymore. It is a short list of work.
 
-And five: what is the largest single point of failure?
+== GIVE EACH BALANCE A JOB ==
 
-Let's use the demo household.
+The 0.25 BTC exchange balance is an operating balance for purchases and transfers. The household sets a limit on how much remains there.
 
-They have most of their Bitcoin on one hardware wallet and a smaller amount at an exchange used for purchases.
+The 1.50 BTC hardware-wallet balance is long-term Legacy capital. It should not depend on one person's memory or an untested backup.
 
-They know where both balances are. They know the device and the exchange.
+A small practice wallet can have a third job: teaching and testing without exposing the main balance.
 
-But only one spouse has ever used the hardware wallet. The backup has never been tested. The device and backup are in the same home. The other spouse does not know where to begin.
-
-They can answer the first two questions and not the last three.
-
-That does not make them careless. It tells us exactly what needs to be fixed.
-
-== GIVE EACH PILE A JOB ==
-
-Different Bitcoin can have different jobs.
-
-The exchange balance may be an operating balance used for recurring purchases and short-term transfers.
-
-The hardware-wallet balance may be long-term Legacy capital that should not move quickly.
-
-A separate small wallet may be used for learning, spending, or testing the recovery process.
-
-A retirement-account Bitcoin holding follows the account and custodian rules rather than the direct self-custody process.
-
-Name the job before choosing the setup.
-
-A balance intended for near-term spending needs convenient, dependable access. A life-changing long-term balance needs stronger protection and family recovery. The same setup does not have to serve every purpose.
+Name the job before choosing the custody design. A near-term operating balance and long-term family wealth do not have to use the same setup.
 
 == DOCUMENT THE PROCESS, NEVER THE SECRETS ==
 
-This is the rule the entire protection plan runs on.
+Orange Plan and the Family Custody Map can record:
 
-Document what exists, where the process begins, who is involved, and who should be contacted.
+- custody type,
+- provider or general location,
+- people involved,
+- where the process begins,
+- and the date recovery was tested.
 
-Do not put a wallet backup, seed phrase, private key, passphrase, PIN, password, or full recovery instruction into Orange Plan, a custody map, an heir letter, an email, a photo, a cloud note, or an AI tool.
+They never receive a seed phrase, private key, passphrase, PIN, password, wallet backup, safe combination, or complete spending path.
 
-The process document can say that a hardware-wallet backup exists in a named location or that a custody provider should be contacted. It should not contain the words, key material, or combination that moves the Bitcoin.
-
-A useful map helps the family find the right people and components. It should not be enough for a thief to take the funds.
+The document should help the right person find the process without giving a thief enough information to move the Bitcoin.
 
 == FOUR PRACTICAL LEVELS ==
 
-The levels are a way to match the protection with the amount and the household. They are not a purity test and they do not use one universal dollar threshold.
+The levels are a teaching tool, not universal dollar thresholds.
 
-Level 1 is a hardened exchange or broker account.
+**Level 1 — Hardened third-party account**
 
-This can be reasonable for a small operating balance, a learning amount, or a temporary purchase balance. It needs a secured email account, unique password, strong multi-factor authentication, recovery methods, and withdrawal protections the provider offers.
+Reasonable for a limited operating or learning balance when email, password, authentication, recovery, and withdrawal protections are strong. The household accepts provider and access risk.
 
-The trade-off is counterparty and access risk. The provider controls the system and can limit withdrawals, fail, or require a recovery process the household does not control.
+**Level 2 — Tested single-signature hardware wallet**
 
-Level 2 is a single-signature hardware wallet with a complete backup and tested recovery process.
+The household controls the key. The device, offline backup, receiving and sending process, and recovery test all work. One complete backup can still control the funds.
 
-The household controls the keys. The device, wallet backup, software, receiving-address verification, and recovery drill have to be understood. The backup must survive the loss of the device and should not be exposed to the same physical event.
+**Level 3 — Family-ready self-custody**
 
-The trade-off is that the owner now carries the operational responsibility.
+The setup no longer depends on one person's memory or one physical location. Another trusted person understands the process and can begin a tested recovery without a secret inside the instructions.
 
-Level 3 is family-ready self-custody.
+This can be a carefully designed single-signature setup or another supported arrangement. A passphrase is not required merely to earn a higher level.
 
-The setup is no longer dependent on one person's memory or one location. Another trusted person understands the process. Backup locations are deliberate. The family can begin recovery without a secret sitting inside the instruction document.
+**Level 4 — Multi-key or professionally supported custody**
 
-This can be a carefully designed single-signature setup, a passphrase design, a collaborative arrangement, or another structure the household can actually operate.
+Used when one-key risk is unacceptable and the household can maintain the added key, provider, configuration, and inheritance complexity.
 
-Adding a passphrase or another component does not automatically make a setup family-ready. It can create a new permanent-loss risk when the process is not documented and tested.
+More sovereignty creates more operational responsibility. More convenience creates more third-party dependence. The goal is the risk the household can actually manage.
 
-Level 4 is a multi-key or professionally supported design for a high-stakes or complex situation.
+== APPLY THE LEVELS TO THE DEMO ==
 
-A collaborative multisig arrangement, a carefully built DIY multisig, institutional custody, or another multi-party structure can remove the risk that one device or backup moves everything.
+The exchange balance remains Level 1 operating money after the account is hardened and the maximum balance is set.
 
-It adds key coordination, configuration records, provider or software dependencies, inheritance design, and maintenance. It needs a recovery process that has been tested, not only a diagram that looks sophisticated.
+The hardware-wallet balance has not completed Level 2 because recovery is untested.
 
-== MATCH THE LEVEL TO SKILL AND CONSEQUENCE ==
+First, the household verifies the device, receive and send process, offline backup, and recovery.
 
-The setup should move up when the consequences of one failure become too large for the current design.
+Then it becomes family-ready: Jordan practices on a small wallet, the components no longer share one failure domain, and the custody map gives the family a safe starting point.
 
-That can happen because the Bitcoin balance rises, because more family members depend on it, because the owner travels or faces a health risk, or because one provider or device represents too much concentration.
+Only after the simpler process works does the household compare whether a multi-key or collaborative design removes more risk than it adds.
 
-The setup may also need to move down or gain professional support when the household cannot operate the complexity it already has.
+== REASSESS AT TODAY'S STAKES ==
 
-A person who is afraid to connect the device, cannot identify the wallet backup, or has never practiced recovery does not have a complete hardware-wallet setup just because the Bitcoin is off an exchange.
+A setup can become stale without the household touching it.
 
-And a family with a complicated multisig nobody else understands does not automatically have a safer inheritance plan.
+The Bitcoin value rises, a child is born, a spouse becomes more dependent on the plan, or a provider changes its recovery process.
 
-The protection has to work on an ordinary day and during a stressful one.
+Review the five questions annually and after a material balance, provider, family, or custody change.
 
-== RUN THE DEMO HOUSEHOLD ==
-
-The smaller exchange balance is kept as an operating amount. The household hardens the account and sets a limit on how much stays there.
-
-The long-term hardware-wallet balance has outgrown a one-person, one-location setup.
-
-The first job is to complete Level 2: verify the device and software, confirm the receiving process, create a durable offline backup, and test recovery using the manufacturer's supported process.
-
-The second job is to become family-ready: another trusted adult learns the process, the backup and device are not exposed to one event, and the Family Custody Map tells the family where to begin without containing secrets.
-
-Only after those are working does the household decide whether a multi-key or collaborative design would reduce more risk than the complexity it adds.
-
-== REASSESS AT TODAY'S BALANCE ==
-
-A custody decision can become stale without the household doing anything.
-
-Bitcoin rises and the same device is now protecting three times as much value. A child is born. A spouse becomes more dependent on the plan. A provider changes its recovery process. The owner is no longer comfortable being the only person who understands everything.
-
-Review the five questions at least annually and after a major custody, family, provider, or balance change.
-
-Do not change the setup because of every headline. Do review it when the consequence of failure or the household's ability to recover has changed.
-
-== WHERE THE APP FITS ==
-
-Orange Plan should track the type of custody, the process status, the people involved, and whether the readiness steps are complete.
-
-It should never receive the secret.
-
-A Protect readiness count tells you which process fields and documents are complete. It does not prove that a backup works or that a family member can execute the recovery.
-
-The app checkmark and the real recovery test are different finish lines.
+The app can track readiness. It cannot prove the backup works or that another person can recover. The real test supplies the proof.
 
 == YOUR DECISION ==
 
-Your decision is the job and custody level for each pile of Bitcoin, the maximum operating balance you are willing to leave with a third party, and the one mismatch the household is fixing first.
+Choose the job and custody level for each Bitcoin balance, the maximum operating amount left with a third party, and the largest mismatch to fix first.
 
 == PUT IT IN ORANGE PLAN ==
 
-Use Protect to record the custody type, process status, and next readiness item. Build the Family Custody Map with locations and people at a process level only.
-
-Do not enter wallet backups, seed phrases, private keys, passphrases, PINs, or passwords.
+Record custody type, people, process status, and the next readiness action in Protect. Keep every Bitcoin secret outside the app and outside the process map.
 
 == YOU ARE DONE WHEN ==
 
-Every meaningful balance has a job, a custody level, and a named recovery process; the largest mismatch has a fix; and the app records readiness without containing anything that can move the Bitcoin.
+Every meaningful balance has a job, custody level, recovery process, and next action—and no secret exists in Orange Plan or the family instructions.

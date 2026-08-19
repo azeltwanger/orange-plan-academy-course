@@ -1,180 +1,122 @@
 TELEPROMPTER SCRIPT — segment 7.3
 7.3 Remove single points of failure and harden the accounts
-~11 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + custody professional review pending
+~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + custody review pending
 ============================================================
 
-So in this lesson we're going to find the one failure that can break the entire custody plan, fix the most expensive one first, and harden the online accounts around the Bitcoin.
+Most custody failures do not begin with someone breaking Bitcoin.
 
-Most custody failures are not one advanced cryptographic attack.
+They begin with one device, one backup, one location, one person, one email account, or one provider that has no working alternative.
 
-They are one device, one backup, one location, one person, one email account, or one provider with no working alternative.
+== THREE FAILURE DOMAINS ==
 
-== THREE TYPES OF SINGLE POINT OF FAILURE ==
+**Physical:** a device, backup, security key, or document is lost in one fire, flood, theft, or move.
 
-The first type is physical.
+**Human:** only one person knows what exists or how the process starts.
 
-The device, backup, security key, or document exists only once or is exposed to the same fire, flood, theft, or move.
+**Provider:** an exchange, custodian, email provider, phone carrier, or another service will not allow the household to authenticate or withdraw.
 
-The second type is human.
+The demo has all three risks: device and backup together, one knowledgeable spouse, and an exchange account whose recovery chain needs hardening.
 
-Only one person knows what exists or how to begin. The components may all be safe, but the process stops when that person is unavailable.
+== RUN THE “ONLY ONE” REVIEW ==
 
-The third type is third-party access.
+Ask whether recovery depends on only one:
 
-The Bitcoin or account exists, but an exchange, custodian, email provider, phone carrier, or other service will not allow the household to authenticate or withdraw.
+- device,
+- backup,
+- physical location,
+- person,
+- authentication method,
+- recovery email or phone,
+- exchange or custodian,
+- required multi-key configuration record,
+- or person connecting the legal and technical process.
 
-A complete review has to look at all three.
+One item is not automatically a failure when a tested replacement path exists. The question is whether losing or delaying it stops recovery or creates unacceptable risk.
 
-== RUN THE DEMO HOUSEHOLD ==
-
-The demo household has one hardware wallet and one backup in the same home.
-
-Only one spouse has used the wallet.
-
-The exchange account uses a strong password but the recovery email is weak and the second factor depends on the same phone number used for account recovery.
-
-The family has no current map of the providers and documents.
-
-There are several problems, but the first one is obvious: the long-term wallet and its only backup can be lost in one event.
-
-The second is the one-person process.
-
-The third is the online identity chain that lets the email or phone account become a path into the exchange.
-
-Trying to redesign everything in one weekend is how none of it gets completed. Rank the failures by cost and fix them in order.
-
-== THE ONLY-ONE REVIEW ==
-
-Ask whether there is only one:
-
-Hardware device.
-
-Wallet backup.
-
-Physical location.
-
-Person who knows the process.
-
-Security key or authentication method.
-
-Recovery email or recovery channel.
-
-Exchange, custodian, or lending provider holding a life-changing amount.
-
-Copy of a required multisig configuration or process record.
-
-Person who can connect the legal estate plan with the custody process.
-
-One is not automatically a failure. A device can be replaceable because a verified backup exists. A provider can be one part of a multi-key design without controlling the funds alone.
-
-The question is whether loss or unavailability of that one item stops recovery or creates an unacceptable delay.
+Rank the top three by cost of loss, then fix the first one. Trying to redesign everything at once is how nothing gets completed.
 
 == FIX THE FAILURE DOMAIN, NOT ONLY THE OBJECT ==
 
-Making two copies does not help when both are in the same failure domain.
+Two backups in one safe may disappear together. Two security keys on one keychain may be lost together. Three multisig keys in one home do not create geographic redundancy.
 
-A device and backup in one safe can be stolen or destroyed together.
+The fix may be a second copy, location, person, provider, or a threshold design.
 
-Two security keys on one keychain can be lost together.
+Do not create redundancy by scattering complete spending secrets without a theft and privacy plan.
 
-Three multisig keys in one house do not create geographic redundancy.
+== TEACH THE SECOND PERSON THE PROCESS ==
 
-The fix may be another copy, another location, another person, another provider, or a design where no one component is enough.
+Jordan does not need the main wallet backup memorized.
 
-Do not add redundancy by copying a complete secret into places that create more theft risk. The custody design has to balance loss and unauthorized access.
+Jordan needs to know:
 
-== THE SECOND PERSON LEARNS THE PROCESS, NOT THE SECRET ==
+- that the Bitcoin exists,
+- which custody type is used,
+- where the process documents are,
+- who else is involved,
+- and what never to share.
 
-A spouse or executor does not have to know the main wallet backup from memory.
+Use the practice wallet from 7.2. Ask the person to explain the first steps back rather than only asking whether the document makes sense.
 
-They need to know that the Bitcoin exists, which custody type is used, where the process documents are, who else is involved, and what not to do.
+== HARDEN EMAIL AND ACCOUNT RECOVERY ==
 
-Use a practice wallet to teach recovery. Review the Family Custody Map. Make sure the person can explain the first call or first document without opening the main secret.
+Email is often part of every downstream password-reset process, so secure it first.
 
-If the plan depends on two people or two keys, test what happens when one of them cannot be reached.
+Use a unique password and the strongest practical authentication the provider supports.
 
-== HARDEN THE EMAIL FIRST ==
+A FIDO security key or properly implemented passkey can provide phishing-resistant authentication because it is bound to the real service.
 
-For an exchange, broker, bank, password manager, or other online account, email is often part of the password-reset and recovery chain.
+Keep a backup authenticator or recovery method in a separate location so one lost key does not create a lockout.
 
-Secure the primary email before treating the downstream accounts as hardened.
+When phishing-resistant options are unavailable, an authenticator app is generally stronger than SMS-only authentication. Also use the carrier's account PIN, port-out protection, or transfer lock when available.
 
-Use a unique password and protect it with the strongest authentication the provider supports.
+== HARDEN THE EXCHANGE AND FINANCIAL ACCOUNTS ==
 
-A FIDO security key or properly implemented passkey can provide phishing-resistant authentication because the cryptographic login is bound to the real service rather than a code you can type into a fake site.
+For each provider:
 
-Keep a backup authenticator or recovery method in a separate location so losing one key does not lock out the household.
+- use a unique password,
+- enable the strongest supported authentication,
+- preserve backup codes or authenticators under the recovery plan,
+- review devices, sessions, API keys, recovery contacts, and linked accounts,
+- and enable withdrawal allowlists, delays, address locks, alerts, or freezes when supported and understood.
 
-When phishing-resistant authentication is not available, an authenticator app is generally stronger than SMS-only authentication. SMS and manually entered one-time codes can still be intercepted or relayed by a fake site.
+Keep the third-party Bitcoin balance limited to its operating job.
 
-Also secure the phone-carrier account with the carrier protections available, such as an account PIN, port-out protection, or transfer lock.
+== USE SIMPLE SCAM RULES ==
 
-== HARDEN THE FINANCIAL AND EXCHANGE ACCOUNTS ==
+No legitimate support person needs a seed phrase, private key, passphrase, PIN, password, or one-time authentication code.
 
-Use a unique password for every provider and a reputable password manager when it helps the household maintain them.
+Treat unsolicited contact as hostile until independently verified.
 
-Enable the strongest multi-factor method the provider supports.
+Urgency is a reason to stop. Open the official app or use a support channel found independently.
 
-Store backup codes and backup authenticators so one lost phone does not become a lockout.
+Verify transaction details on the trusted device display and reject anything you did not initiate.
 
-Turn on withdrawal allowlists, delays, address locks, transaction alerts, or account freezes when the provider offers them and the household understands the recovery process.
+Guaranteed returns and “send Bitcoin to receive more back” are scams.
 
-Review authorized devices, sessions, API keys, recovery contacts, and linked bank accounts.
+== BUILD THE NO-SECRETS MAP ==
 
-Do not leave more Bitcoin at one provider than the operating purpose requires simply because moving it feels inconvenient.
+The Family Custody Map lists the asset category, custody type, provider or general location, person who knows the process, and where the process documents are held.
 
-== THE SCAM RULES ==
+It never contains the backup words, key, passphrase, PIN, password, safe combination, or complete spending path.
 
-The first rule is that a legitimate wallet or exchange support person does not need your wallet backup, seed phrase, private key, passphrase, PIN, password, or one-time authentication code.
+A descriptor or non-secret wallet configuration may still reveal addresses and balances. Keep the protected copies required by the custody design without publishing them broadly.
 
-The second rule is to treat unsolicited contact as hostile until independently verified.
+== WHERE READINESS COMES FROM ==
 
-If someone calls, texts, emails, or messages to say the account or wallet is in danger, stop the conversation. Open the official app or use a support address you find independently.
+Protect readiness comes from saved checklist items, people, documents, and review dates.
 
-The third rule is that urgency is part of the attack.
+It can identify a missing recovery test or map. It cannot verify that the backup is accurate or that Jordan can execute the process.
 
-A threat that the device will be deactivated, funds will be frozen in minutes, or the account must be secured through one immediate transfer is designed to remove the time needed to verify.
-
-The fourth rule is to verify transaction details on the trusted device display and reject anything you did not initiate.
-
-And the fifth rule is that no legitimate person can guarantee an investment return or ask you to send Bitcoin in order to receive more back.
-
-== BUILD THE FAMILY CUSTODY MAP ==
-
-The map should list the assets and accounts, general provider or location, custody type, person who knows the process, and location of the process documents.
-
-It can say:
-
-“Hardware wallet backup: secure off-site location; spouse knows process.”
-
-It should not contain the backup words, safe combination, PIN, passphrase, or password.
-
-For a multi-key setup, the map can describe which person or provider holds each component and where the configuration record is stored without publishing the key material.
-
-Keep more than one protected copy of a non-secret configuration or wallet descriptor when the setup requires it for recovery. Do not treat a public descriptor as a seed, but do protect the privacy information it can reveal about addresses and balances.
-
-== WHERE THE READINESS NUMBER COMES FROM ==
-
-A Protect readiness result is based on completed checklist items and current documents.
-
-It can tell the household that recovery testing, beneficiary review, a custody map, or another readiness item is missing.
-
-It cannot detect whether the backup was written correctly, whether a second person understands the process, or whether the security key is in the location the plan says it is.
-
-The edit source is the checklist and document status. The proof is the real-world test.
-
-And it affects whether the app considers the protection work complete and which item appears next.
+The app owns the status. The real test owns the proof.
 
 == YOUR DECISION ==
 
-Your decision is the most expensive single point of failure, the specific fix and date, and the account-hardening standard the household is going to maintain.
+Choose the most expensive single point of failure, the specific fix and date, and the authentication standard the household will maintain.
 
 == PUT IT IN ORANGE PLAN ==
 
-Use Protect to track the security checklist, Family Custody Map, people, and next item needing attention.
-
-Keep all credentials and Bitcoin secrets outside the app and outside the map.
+Track the security checklist, people, Family Custody Map, and next action in Protect. Keep credentials and Bitcoin secrets outside the app.
 
 == YOU ARE DONE WHEN ==
 
-The top single point of failure is fixed or scheduled, the primary email and financial accounts use the strongest practical authentication with a backup method, and another required person can explain the process without receiving the secret.
+The top failure is fixed or scheduled, the primary email and financial accounts have strong authentication with a backup method, and another required person can explain the process without receiving the secret.
