@@ -20,20 +20,23 @@ The demo has $4,000 per month of reliable surplus. Every reserve transfer, extra
 4. Is Bridge or Legacy behind?
 5. Which benefit matters most now?
 
-## Demo route
+## Approved demo route
 
-- Workplace employee contribution: $750
+- Alex workplace employee contribution: $750
 - Auto-loan extra principal: $500
-- HSA / Roth / additional traditional funding: $1,250
+- Alex family HSA: $625 for the qualified Healthcare Bridge
+- Jordan Roth IRA: $625 for long-term tax-free qualified growth
 - Taxable Bridge and investment allocation: $1,500
 - Total: $4,000
 
 Employer match is additional employer money, not part of the household surplus.
 
+Verify HSA eligibility, employer HSA contributions, IRA eligibility, and current-year limits before execution. The taxable investment amount follows the saved allocation target and drift rather than automatically buying more Bitcoin.
+
 ## Where the numbers come from
 
 - **Available dollars:** Cash Flow source rows
-- **Route:** reserve, match, debt, timeframe, tax, eligibility, and allocation decisions
+- **Route:** reserve, match, debt, healthcare, timeframe, tax, eligibility, and allocation decisions
 
 ## Done when
 
