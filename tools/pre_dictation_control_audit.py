@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
 """Audit the Orange Plan Academy pre-dictation control layer.
 
-This complements course_audit.py. The core audit checks individual scripts;
-this audit checks that the repository has one current production path and does
-not quietly reintroduce stale control files or app claims.
+The script audit checks individual lessons. This audit checks that the
+repository has one current production path and that new engine, professional,
+and visual controls cannot disappear while stale paths return.
 """
 
 from __future__ import annotations
 
 import re
-import sys
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -27,7 +26,18 @@ REQUIRED_FILES = (
     "FILMING-READINESS.md",
     "MY-ORANGE-PLAN-CAPSTONE.md",
     "ADVANCED-GATES.md",
+    "VISUAL-PRODUCTION-BRIEFS.md",
+    "demo/demo-v1-inputs.json",
+    "demo/ENGINE-CHECKPOINT-CANDIDATE-3105664.md",
+    "demo/VISUAL-DATA-RECEIPT-3105664.md",
+    "demo/UI-ACCEPTANCE-CHECKLIST-3105664.md",
     "professional-review/README.md",
+    "professional-review/SEND-CHECKLIST.md",
+    "professional-review/CANDIDATE-REVIEWERS.md",
+    "professional-review/CPA-SEND.md",
+    "professional-review/CUSTODY-SEND.md",
+    "professional-review/ESTATE-ATTORNEY-SEND.md",
+    "professional-review/INSURANCE-SEND.md",
     "professional-review/CPA.md",
     "professional-review/CUSTODY.md",
     "professional-review/ESTATE-ATTORNEY.md",
@@ -58,20 +68,29 @@ CURRENT_TEXT_PATHS = (
     "FILMING-READINESS.md",
     "MY-ORANGE-PLAN-CAPSTONE.md",
     "ADVANCED-GATES.md",
+    "VISUAL-PRODUCTION-BRIEFS.md",
+    "professional-review/README.md",
+    "professional-review/SEND-CHECKLIST.md",
 )
 
 STALE_REFERENCE_PATTERNS = {
-    "retired review/ packet path": re.compile(r"(?<!professional-)\breview/(?:CPA|CUSTODY|ESTATE|INSURANCE)-REVIEW", re.I),
+    "retired review/ packet path": re.compile(
+        r"(?<!professional-)\breview/(?:CPA|CUSTODY|ESTATE|INSURANCE)-REVIEW",
+        re.I,
+    ),
     "retired review-packets/ path": re.compile(r"\breview-packets/", re.I),
     "encrypted export described as currently restorable": re.compile(
-        r"(?:encrypted (?:backup|export)|exported file).{0,90}(?:restore the plan|restorable plan data|use it to restore)",
+        r"(?:encrypted (?:backup|export)|exported file).{0,90}"
+        r"(?:restore the plan|restorable plan data|use it to restore)",
         re.I | re.S,
     ),
+    "superseded engine candidate": re.compile(r"ENGINE-CHECKPOINT-CANDIDATE-4456b3c", re.I),
 }
 
 REQUIRED_PHRASES = {
     "CURRENT-COURSE.md": (
-        "Austin's final read and dictation pass has not started",
+        "Austin's final voice-and-judgment read has not started",
+        "ENGINE-CHECKPOINT-CANDIDATE-3105664.md",
         "DEMO-HOUSEHOLD.md",
         "PRE-DICTATION-QA.md",
     ),
@@ -81,7 +100,7 @@ REQUIRED_PHRASES = {
         "human_completion_rule",
     ),
     "PRE-DICTATION-QA.md": (
-        "App-calculated demo outputs",
+        "Reproducible app-engine outputs",
         "External professional responses",
         "Build Your Plan preview",
     ),
@@ -89,11 +108,17 @@ REQUIRED_PHRASES = {
         "In-app plan restore is currently unavailable",
         "professional-review/",
     ),
+    "professional-review/README.md": (
+        "Actual outside sign-off is not complete",
+        "SEND-CHECKLIST.md",
+        "CANDIDATE-REVIEWERS.md",
+    ),
+    "VISUAL-PRODUCTION-BRIEFS.md": (
+        "VISUAL-DATA-RECEIPT-3105664.md",
+        "64.8%",
+        "$101,948",
+    ),
 }
-
-
-def read(relative_path: str) -> str:
-    return (ROOT / relative_path).read_text(encoding="utf-8")
 
 
 def main() -> int:
@@ -107,7 +132,8 @@ def main() -> int:
     for relative_path in FORBIDDEN_CURRENT_DIRECTORIES:
         if (ROOT / relative_path).exists():
             failures.append(
-                f"retired duplicate control directory still exists: {relative_path}/; use professional-review/ only"
+                f"retired duplicate control directory still exists: {relative_path}/; "
+                "use professional-review/ only"
             )
 
     for relative_path in CURRENT_TEXT_PATHS:
@@ -126,15 +152,20 @@ def main() -> int:
         content = path.read_text(encoding="utf-8")
         for phrase in phrases:
             if phrase not in content:
-                failures.append(f"{relative_path}: missing required control phrase: {phrase!r}")
+                failures.append(
+                    f"{relative_path}: missing required control phrase: {phrase!r}"
+                )
 
     review_index_path = ROOT / "AUSTIN-REVIEW-INDEX.md"
     if review_index_path.is_file():
         review_index = review_index_path.read_text(encoding="utf-8")
-        linked_scripts = set(re.findall(r"\(scripts/(\d{2}-\d+_[^)]+\.md)\)", review_index))
+        linked_scripts = set(
+            re.findall(r"\(scripts/(\d{2}-\d+_[^)]+\.md)\)", review_index)
+        )
         if len(linked_scripts) != 28:
             failures.append(
-                f"AUSTIN-REVIEW-INDEX.md links {len(linked_scripts)} unique core scripts; expected 28"
+                f"AUSTIN-REVIEW-INDEX.md links {len(linked_scripts)} unique core scripts; "
+                "expected 28"
             )
 
     contract_path = ROOT / "COURSE-APP-CONTRACT.md"
@@ -153,9 +184,18 @@ def main() -> int:
     decision_path = ROOT / "AUSTIN-DEMO-DECISIONS.md"
     if decision_path.is_file():
         decisions = decision_path.read_text(encoding="utf-8")
-        if "APPROVE" not in decisions.upper() or "CHANGE" not in decisions.upper():
+        if "APPROVED" not in decisions.upper():
+            failures.append(
+                "AUSTIN-DEMO-DECISIONS.md should retain an obvious APPROVED state"
+            )
+
+    professional_readme = ROOT / "professional-review/README.md"
+    if professional_readme.is_file():
+        text = professional_readme.read_text(encoding="utf-8")
+        not_sent_count = text.count("NOT SENT")
+        if not_sent_count < 4:
             warnings.append(
-                "AUSTIN-DEMO-DECISIONS.md should keep an obvious APPROVE / CHANGE response format"
+                "professional-review/README.md should visibly show all four external reviews as NOT SENT until returned"
             )
 
     print("# Pre-dictation control audit")
@@ -175,7 +215,11 @@ def main() -> int:
             print(f"- {failure}")
         return 1
 
-    print("\nThe repository has one current pre-dictation control path and no detected stale packet or restore-language regression.")
+    print(
+        "\nThe repository has one current pre-dictation control path, the reconciled "
+        "engine/visual/professional controls are present, and no stale packet or "
+        "restore-language regression was detected."
+    )
     return 0
 
 
