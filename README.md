@@ -1,43 +1,59 @@
 # Orange Plan Academy
 
-This repository contains the Orange Plan Academy core course, optional Advanced Library, spoken scripts, student lesson text, demo-account controls, slide source material, and production tooling.
+This repository contains the Orange Plan Academy Core course, optional Advanced Library, spoken scripts, student lesson text, demo-account controls, slide source material, and production tooling.
 
 ## Start here
 
 Use these files in this order:
 
-1. **`CURRENT-COURSE.md`** — current core outline, production stage, and source-of-truth rules
-2. **`DEMO-HOUSEHOLD.md`** — the only working source for continuous-demo inputs
-3. **`AUSTIN-DEMO-DECISIONS.md`** — one approve/change sheet for the remaining fictional planning judgments
+1. **`CURRENT-COURSE.md`** — current Core outline, production stage, and source-of-truth rules
+2. **`DEMO-HOUSEHOLD.md`** — approved continuous-demo inputs
+3. **`AUSTIN-DEMO-DECISIONS.md`** — approval record for the fictional planning judgments
 4. **`PRE-DICTATION-QA.md`** — what is complete, what is held, and what must happen before Austin's final voice pass
-5. **`DEMO-CHECKPOINT-RUN-SHEET.md`** — how the working household is entered and how app-calculated outputs are captured once
-6. **`scripts/`** and **`lesson-text/`** — the current 28 spoken drafts and their matching written lessons
+5. **`DEMO-CHECKPOINT-RUN-SHEET.md`** — how the approved household is entered and how app-calculated outputs are captured once
+6. **`scripts/`** and **`lesson-text/`** — the current 28 spoken drafts and matching written lessons
 7. **`COURSE-APP-CONTRACT.md`** and **`BUILD-YOUR-PLAN-CROSSWALK.md`** — the course/app agreement and preview-dependent walkthrough routing
-8. **`professional-review/`** — the only current CPA, custody, estate-attorney, and insurance review packets
+8. **`professional-review/`** — the canonical CPA, custody, estate-attorney, and insurance review packets
 9. **`research/SLIDE-CORRECTION-MAP.md`** — page-by-page treatment of the existing live-teaching decks
 
 Read **`AUSTIN-AUTHORITY.md`** before changing Austin's planning recommendations.
 
 ## Current stage
 
-The pre-dictation structural pass is substantially complete:
+The pre-dictation structural and demo-input pass is complete:
 
-- 28 core teach scripts exist across Modules 0–9.
+- 28 Core teach scripts exist across Modules 0–9.
 - Every script has a matching student lesson.
 - Every lesson owns one main planning decision.
-- Core and Advanced are separated by a visible condition.
-- One continuous fictional household reconciles cash flow, assets, debts, reserve, contribution routing, future costs, basis, custody, and estate starting state.
+- Core and Advanced are separated by visible conditions.
+- The continuous fictional household has approved source inputs and reconciled cash flow, assets, debts, reserve, contribution routing, future costs, cost-basis quantity, custody starting state, and estate starting state.
 - The professional review packets and slide correction map are ready.
-- The permanent course audit checks both spoken scripts and matching lesson text.
-- The audit passes with 28 scripts, 23,559 spoken words, no missing lesson text, and no current critical or warning findings.
-- Script headers total about **214 production minutes, or 3 hours 34 minutes**, before walkthroughs. The raw word-count estimate is about 152 minutes; the difference allows for teaching pace, visuals, and examples.
+- The permanent audits check scripts, lesson text, demo arithmetic, number provenance, voice-slop patterns, checkpoint receipts, and the pre-dictation control layer.
 
-Austin's final voice and judgment review has **not** started. Before it does, the remaining work is intentionally narrow:
+Austin's final voice and judgment review has **not** started. The remaining work is intentionally narrow:
 
-- approve or change the recommended values in `AUSTIN-DEMO-DECISIONS.md`,
-- enter the approved fictional household in the current app and capture calculated checkpoint outputs,
-- receive and apply external professional review for the high-stakes modules,
+- enter the approved fictional household in the accepted app build,
+- capture the app-calculated checkpoint outputs,
+- choose the starting retirement paycheck from the real Income result,
+- receive and apply the external professional reviews,
 - and verify the deployed Build Your Plan preview before recording exact walkthrough clicks.
+
+## Approved demo highlights
+
+- Alex, 45; Jordan, 43; two children; Colorado; married filing jointly
+- Power Law Bitcoin view
+- 3% baseline inflation and a 4% stress Scenario
+- Retirement at 55, $100,000 retirement living spending, planning age 95, and 80% Plan target
+- Part-time work for the first 3 retirement years
+- Staggered Social Security at each spouse's age 67
+- 50% Bitcoin target with a 40–60% review band
+- 25% DTI ceiling and no added debt at DTA of 40% or higher
+- $625/month to the family HSA and $625/month to the Roth IRA
+- HSA assigned to the qualified Healthcare Bridge
+- $80,000 total-family college commitment
+- No borrowing in the saved Core baseline
+
+The starting retirement paycheck remains unresolved until Orange Plan calculates the Income reference amounts and measures the current $100,000 Plan amount.
 
 ## Course structure
 
@@ -52,18 +68,19 @@ Austin's final voice and judgment review has **not** started. Before it does, th
 8. Estate and Family Handoff
 9. Maintain, Test, and Read the Plan
 
-The Advanced Library is optional. It is linked from the core planning area that makes it relevant and does not count toward core completion unless the learner's own plan triggers it.
+The Advanced Library is optional. It is linked from the Core planning area that makes it relevant and does not count toward Core completion unless the learner's own plan triggers it.
 
 ## Repository map
 
 | Path | Purpose |
 |---|---|
-| `scripts/` | Current spoken core drafts plus historical walkthrough sheets that are explicitly not current until reverified |
+| `scripts/` | Current spoken Core drafts plus historical walkthrough sheets that are explicitly not current until reverified |
 | `lesson-text/` | Current student-facing reference lessons |
+| `demo/` | Machine-readable fixture contract and checkpoint receipt controls |
 | `professional-review/` | Canonical high-stakes review packets |
 | `research/` | Client-call evidence, confusion registry, runtime ownership, demo reconciliation, and slide audit |
 | `visuals/` | Visual briefs and graphic source material |
-| `tools/course_audit.py` | Permanent structural, provenance, runtime, script/text parity, and legacy-language audit |
+| `tools/` | Permanent course, fixture, receipt, provenance, voice, and control audits |
 | `modules/` | Previous generated module splits; migration input only |
 | `archive/` | Historical course generations and retired sources |
 
@@ -104,7 +121,7 @@ Orange Plan can create a passphrase-protected encrypted export for secure storag
 
 A lesson is film-ready only after:
 
-- demo inputs and app-calculated outputs reconcile,
+- approved demo inputs and app-calculated outputs reconcile,
 - app terminology and behavior match the accepted build,
 - required professional review is applied,
 - Austin approves the planning judgment and spoken wording,
