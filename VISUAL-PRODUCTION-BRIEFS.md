@@ -1,20 +1,20 @@
 # Orange Plan Academy — visual production briefs
 
-**Purpose:** preserve the strongest live-client teaching visuals while preventing the slide deck from reintroducing retired concepts, duplicate teaching, or invented app outputs.
+**Status:** concept-visual direction is complete; final production waits only where a visible UI receipt or external professional correction can change the content.  
+**Data source:** `demo/VISUAL-DATA-RECEIPT-3105664.md`  
+**Old-deck treatment:** `research/SLIDE-CORRECTION-MAP.md`
 
-These are production briefs, not final slides. Build the actual deck only after the affected script, demo output, and professional-review gate are settled.
+## Standing rules
 
-## Standing visual rules
-
-- One primary idea per visual.
-- The visual makes the decision obvious before Austin explains the detail.
-- Use the canonical demo household unless the slide is clearly labelled **illustrative — not the demo household**.
-- App-owned outputs come from the checkpoint receipt; never type a convenient confidence, tax, withdrawal, or estate result into a mockup.
-- Concept visuals are evergreen. Screenshots and click paths are versioned walkthrough assets.
-- Keep formulas only when the learner uses the components in the app.
-- Do not repeat the full lesson on the slide.
-- Do not add generic homework, motivational copy, or long recap text.
-- Use current language: **test runs, confidence target, earliest target-qualified date, Reserve, Bridge, Legacy, total draw, Bitcoin sold or retained**.
+- One decision per lesson and one primary idea per visual.
+- Use the continuous fictional household unless the visual says **illustrative — not the demo household**.
+- Use current terms: **test runs, confidence target, earliest target-qualified date, Reserve, Bridge, Healthcare Bridge, Legacy, total need, recurring income, total draw, Bitcoin sold or retained**.
+- App-owned values come from the current visual-data receipt. Never copy a number from an old live-client deck.
+- Concept visuals are evergreen. Screenshots, routes, labels, and clicks are versioned walkthrough assets.
+- Do not put a paragraph on a slide. The visual should make the trade-off understandable before Austin explains it.
+- Do not show a calculated output without its denominator or source.
+- Do not show an app checkmark as proof of a working recovery, valid legal document, accepted beneficiary record, or insurance contract.
+- Use the Orange Plan palette and current clean card hierarchy. One orange action or focus point per visual.
 
 ---
 
@@ -22,31 +22,29 @@ These are production briefs, not final slides. Build the actual deck only after 
 
 ## 0.1 · How to use the course
 
-**Make obvious:** the learner is building one plan through four stages, not consuming a library of disconnected videos.
+**Make obvious:** one household builds one plan through four stages.
 
-**Primary visual:** one horizontal path:
+**Visual:** horizontal path:
 
 > Build the facts → Create capacity → Direct the money → Protect and maintain
 
-Under the path, show the final one-page My Orange Plan summary as the destination.
+End at a small preview of the one-page My Orange Plan capstone.
 
-**Reuse:** the strongest outcome/roadmap framing from the former opening deck.
+**Keep from old material:** the promise that the learner leaves with a working plan that stays current.
 
-**Do not show:** week numbers, a giant feature inventory, separate deterministic and Monte Carlo tracks, or an app screenshot pretending Build Your Plan has already shipped.
+**Remove:** week numbers, coach/client homework columns, “Freedom Date,” and a feature inventory.
 
 ## 0.2 · How the AI works
 
-**Make obvious:** the app calculates; the AI explains; the household decides.
+**Make obvious:**
 
-**Primary visual:** three connected boxes:
+> App calculates → AI explains → Household decides
 
-> Orange Plan engine → AI explanation → Human decision
+Add one red boundary strip:
 
-A red no-entry strip below all three:
+> Never enter a seed phrase, private key, passphrase, PIN, password, wallet backup, or authentication code.
 
-> No seed phrase · private key · passphrase · password · wallet backup
-
-**Do not show:** the AI as a second projection engine or as the owner of the financial recommendation.
+**Do not show:** AI generating a second projection or owning the recommendation.
 
 ---
 
@@ -54,55 +52,49 @@ A red no-entry strip below all three:
 
 ## 1.1 · What to gather
 
-**Make obvious:** every important number is verified, estimated, or missing.
+**Make obvious:** a usable first plan can distinguish what is known from what still needs work.
 
-**Primary visual:** a simple source-document tray with three status columns:
+**Visual:** three source trays:
 
 - Verified
 - Estimated
 - Missing
 
-Use one example in each column rather than a long checklist.
-
-**Reference text:** the full gather list lives in lesson text, not on the teaching slide.
+Place one example in each. The detailed checklist stays in lesson text.
 
 ## 1.2 · Plan layers and assumptions
 
-**Make obvious:** facts, expected changes, and questions belong in different places.
+**Make obvious:** facts, expected changes, and questions have different homes.
 
-**Primary visual:** three trays receiving five example cards:
+**Visual:** three trays receiving example cards:
 
-- **Baseline** — $190,000 income; 1.75 BTC
-- **Life event** — vehicle replacement in 5 years
-- **Scenario** — retire 3 years earlier
+- Baseline — $190,000 income; 1.75 BTC
+- Life event — vehicle replacement in 5 years
+- Scenario — 4% inflation or retire earlier
 
-A small rule below:
+Rule beneath:
 
 > True today · Expected change · Question
 
-**Secondary visual only when needed:** broad Plan assumption flowing into holdings, with one spot Bitcoin ETF branching to a Bitcoin-specific override.
-
-**Do not show:** a control panel full of custom returns or a separate assumption for every holding.
+Add one small holding-override example: a spot Bitcoin ETF follows Bitcoin assumptions when the broad classification would otherwise be wrong.
 
 ## 1.3 · Retirement date and confidence
 
-**Make obvious:** four numbers have four jobs and the earliest date follows the selected target.
+**Make obvious:** four values have four jobs and one test-run framework produces both outputs.
 
-**Primary visual:** one left-to-right chain:
+**Visual:**
 
-> Planned age + Baseline spending → 1,000 test runs → Confidence at planned age
+> Household retirement at Alex 55 + $100,000 spending → 1,000 test runs → 94.6% confidence
 
-Below it:
+Below:
 
-> Chosen confidence target → First date that reaches the target
+> 80% target → Earliest date reaching it: May 2032 · Alex 51
 
-Use checkpoint values only after `demo-v1-baseline` exists.
+A small note:
 
-**Keep:** the strong visual idea of changing the target and watching the earliest date move.
+> One household retirement date, displayed using the primary person's age.
 
-**Replace:** every old visual that pairs a deterministic date with a separate Monte Carlo percentage.
-
-**Do not show:** confidence as a school grade, promise, or bankruptcy probability.
+**Do not show:** a second deterministic date, school-grade confidence, or bankruptcy probability.
 
 ---
 
@@ -110,69 +102,71 @@ Use checkpoint values only after `demo-v1-baseline` exists.
 
 ## 2.1 · Surplus and two spending numbers
 
-**Make obvious:** surplus comes from four source rows and debt is separate from living spending.
+**Make obvious:** extra debt is already inside the Cash Flow Debt row, so it cannot be routed twice.
 
-**Primary visual:** a clean equation using the canonical inputs:
+**Primary visual:** two-layer equation.
 
-> $190k income − tax − $80k living − $22k debt = available surplus
+### Simple teaching equation
 
-Keep the tax and resulting surplus marked **checkpoint-controlled** until the selected state is run in the app.
+> $190,000 income − $40,000 round tax − $80,000 living − $22,000 required debt = $48,000/year
 
-Below the equation, two simple spending cards:
+### Current app interpretation
 
-- Normal life
-- Bare-bones temporary floor
+> $4,261 monthly capacity before extra debt  
+> − $500 saved extra auto principal  
+> = $3,761 post-debt surplus
 
-**Do not show:** mortgage or auto payments inside both living spending and debt.
+Then:
+
+> $3,500 account route + $261 operating cushion
+
+Two small spending cards underneath:
+
+- Normal living: $80,000/year
+- Bare-bones: $5,000/month
 
 ## 2.2 · Size the reserve
 
-**Make obvious:** spending basis × target months creates the target; the household chooses the two inputs.
+**Make obvious:** the app multiplies; the household chooses the inputs.
 
-**Primary visual:** one multiplication:
+**Visual:**
 
 > $5,000 bare-bones × 6 months = $30,000 reserve
 
-Beside it, one trade-off line:
+Current state:
 
-> More cash = more protection · Less cash = more invested capital
+> $30,000 held · fully funded
 
-**Keep:** the Bitcoin drawdown/job-loss setup from the live deck.
+Trade-off line:
 
-**Do not show:** 6 months as a universal answer or the retirement refill strategy in this lesson.
+> More cash = more protection · Less cash = more capital invested
 
 ## 2.3 · Fund a known future cost
 
-**Make obvious:** the headline cost is not the amount that still needs funding.
+**Make obvious:** the headline price is not the amount that still needs funding.
 
-**Primary visual:** vehicle funding stack:
+**Visual:**
 
-> $35k cost − $10k vehicle proceeds − $5k future cash flow = $20k to fund
+> $35,000 vehicle ceiling − $10,000 sale proceeds − $5,000 purchase-year cash flow = $20,000 to fund
 
-Below, a five-lane timeline:
+Add the five time lanes:
 
 > 0–1 · 1–3 · 3–7 · 7–10 · 10+ years
 
-The stability of the committed amount increases as the date approaches.
-
-**Do not show:** the life-event bill and its funding source as two independent goals.
+Committed dollars become more stable as the date approaches.
 
 ## 2.4 · College, optional
 
-**Make obvious:** the family is funding a chosen commitment through several sources, not necessarily building one 529 equal to the full sticker price.
+**Gate:** watch only when education funding is part of the plan.
 
-**Primary visual:** the $80,000 stack:
+**Visual:** $80,000 total-family stack:
 
-- Existing 529: $25k
-- Parent cash flow: $20k
-- Student/aid/accepted borrowing: $10k
-- Remaining source: $25k
+- Existing 529: $25,000
+- Parent cash flow: $20,000
+- Student work/aid/accepted borrowing: $10,000
+- Remaining source: $25,000
 
-**Gate at top:**
-
-> Watch only if education funding is part of your plan.
-
-**Do not show:** an unlimited tuition promise or borrowing as the default answer.
+**Do not show:** $80,000 per child, unlimited tuition, or a required $80,000 529 balance.
 
 ---
 
@@ -180,21 +174,26 @@ The stability of the committed amount increases as the date approaches.
 
 ## 3.1 · Debt treatment and ceiling
 
-**Make obvious:** payment pressure and balance-sheet pressure are different, and every debt receives a treatment.
+**Make obvious:** payment pressure and balance-sheet pressure are different.
 
-**Primary visual:** two gauges side by side:
+**Visual:** two gauges:
 
-- DTI — payments ÷ gross income
-- DTA — debt ÷ gross assets
+- DTI: 11.6% · required payments ÷ gross income
+- DTA: 40.0% · debt ÷ gross assets at the reference valuation
 
-Below, two demo debt rows:
+Debt rows:
 
-- Mortgage · required payment only
-- Auto loan · $500 extra principal
+- Mortgage · $280,000 · 3.25% · required payment only
+- Auto · $18,000 · 7% · $500 extra · payoff candidate 2027
 
-A separate household-ceiling line is labelled **personal policy, not the app's outer band**.
+Separate household policy card:
 
-**Replace:** any universal debt ladder, “interest-only always wins,” or normalizing 50% Bitcoin-loan LTV in Core.
+> Keep DTI below 25%  
+> Do not add debt at 40%+ DTA
+
+Label it **fictional household policy, not the app warning band**.
+
+**Replace:** universal debt ladders, “interest-only wins,” and normalizing high-LTV Bitcoin borrowing in Core.
 
 ---
 
@@ -202,69 +201,82 @@ A separate household-ceiling line is labelled **personal policy, not the app's o
 
 ## 4.1 · Bitcoin allocation
 
-**Make obvious:** the same drawdown creates a different household loss at different allocations.
+**Make obvious:** the percentage depends on the denominator; the loss does not.
 
-**Primary visual:** four bars reacting to one shared event:
+**Visual 1 — three denominators:**
 
-> Bitcoin falls 75%
+- App allocatable portfolio: $270,000 → BTC 64.8%
+- Financial balances including 529: $295,000 → BTC 59.3%
+- Gross assets including home: $745,000 → BTC 23.5%
 
-- 10% allocation → 7.5% portfolio hit
-- 25% → ~19%
-- 50% → 37.5%
-- 75% → ~56%
+Highlight the first as the target-allocation scope. Note that the 529 and home are excluded.
 
-Then land on the demo's dollar hit at the reference valuation.
+**Visual 2 — drawdown:**
 
-**Keep:** the existing drawdown × allocation visual.
+> Bitcoin falls 75% → $131,250 loss
 
-**Do not show:** a target tier as an identity or as an automatic instruction to trade today.
+- Allocatable portfolio falls to $138,750
+- Financial balances including 529 fall to $163,750
+
+Decision strip:
+
+> Current 64.8% · Target 50% · Band 40–60% · Above band = review, not automatic sale
 
 ## 4.2 · Holdings and time-horizon jobs
 
-**Make obvious:** account wrapper, holding, and job are three different attributes.
+**Make obvious:** wrapper, holding, and job are different attributes.
 
-**Primary visual:** one account table with three columns:
+**Visual:** three-column account table:
 
-> Account · What it holds · Job
+| Account | What it holds | Job |
+|---|---|---|
+| Cash account | Cash | Reserve |
+| Taxable brokerage | Stocks | Bridge |
+| HSA | Stocks | Healthcare Bridge |
+| Hardware wallet | Bitcoin | Legacy |
+| 529 | Stocks/bonds | College |
 
-Examples:
-
-- Cash account · Cash · Reserve
-- Taxable brokerage · Stocks · Bridge
-- Hardware wallet · Bitcoin · Legacy
-
-**Replace:** a percentage-first Reserve/Bridge/Legacy chart. Dollar needs create the jobs before percentages summarize them.
+The 529 is excluded from the household target allocation because its job and beneficiary are already restricted.
 
 ## 4.3 · Where the next dollar goes
 
-**Make obvious:** the route uses the same $4,000 once and can split across real needs.
+**Make obvious:** the household uses the same $4,000 once.
 
-**Primary visual:** four branches from one $4,000 source:
+**Visual:**
 
-- $750 match contribution
-- $500 auto extra principal
-- $1,250 tax-advantaged mix
+> Full monthly decision: $4,000
+
+First branch:
+
+- $500 extra auto principal — already inside Cash Flow Debt
+
+Remaining post-debt route: **$3,500**
+
+- $750 401(k) employee contribution
+- $625 HSA
+- $625 Roth IRA
 - $1,500 taxable Bridge / saved allocation
 
-The branch widths add to the full source.
+Employer match appears outside the household route:
 
-**Replace:** the rigid rung-by-rung waterfall.
+> + $375/month assumed employer money
 
-**Do not show:** employer-match dollars as part of the household's $4,000 or the $1,500 as an automatic Bitcoin purchase.
+**Do not show:** a rigid waterfall or the taxable route as an automatic Bitcoin purchase.
 
 ## 4.4 · Asset location
 
-**Make obvious:** the same household allocation can live in different wrappers with different access, tax, and custody consequences.
+**Make obvious:** the household target stays the same while access, tax, and custody differ by wrapper.
 
-**Primary visual:** three wrapper columns:
+**Visual:** wrapper columns:
 
-- Taxable — access / direct custody / current tax
-- Traditional — current tax benefit may apply / future taxable withdrawals
-- Roth — after-tax contribution / qualified tax-free withdrawal
+- Taxable — accessible; direct-custody option; current gain/income consequences
+- Traditional — possible current tax benefit; later taxable withdrawals
+- Roth — after-tax contribution; qualified tax-free withdrawals
+- HSA — qualified healthcare use and account-specific rules
 
-Place sample holdings across the columns while keeping the combined target constant.
+Place sample holdings without implying an immediate sell-and-rebuild transaction.
 
-**Do not show:** a universal “best account” or an immediate sell-and-rebuild trade order.
+**Hold:** final tax wording until CPA review returns.
 
 ---
 
@@ -272,33 +284,39 @@ Place sample holdings across the columns while keeping the combined target const
 
 ## 5.1 · Cost basis
 
-**Make obvious:** current quantity can reconcile even while part of basis remains unresolved.
+**Make obvious:** quantity can reconcile while basis remains incomplete.
 
-**Primary visual:** 1.75 BTC split into three lot-status blocks:
+**Visual:** 1.75 BTC split into status blocks:
 
-- 1.25 BTC · complete · $48k known basis
+- 1.25 BTC · complete · $48,000 basis
 - 0.40 BTC · export available · reconstruction pending
 - 0.10 BTC · records missing · unknown
 
-Below:
+Flow underneath:
 
-> Quantity first → Lots → Transfer matching → Executable sale record
+> Reconcile quantity → Match transfers → Rebuild lots → Execute and document the real sale
 
-**Do not show:** an invented average basis, unknown basis silently set to zero, or an app HIFO preview as completed tax execution.
+**Do not show:** unknown basis silently set to zero or an app HIFO preview as completed tax execution.
 
 ## 5.2 · Tax pools and windows
 
-**Make obvious:** taxable, traditional, and Roth money create different income across a timeline.
+**Make obvious:** the same household can have different tax capacity by life stage.
 
-**Primary visual:** three account pools across four life phases:
+**Visual:** three pools across four phases:
 
-> Working → Early retirement → Later income begins → Required distributions
+> Working → Early retirement → Social Security begins → Required-distribution stage
 
-Highlight the possible low-ordinary-income window without filling it with a hardcoded conversion amount.
+Pools:
 
-**Move to maintained reference:** current contribution limits, exact RMD age table, bracket thresholds, and implementation procedures.
+- Taxable
+- Traditional
+- Roth
 
-**Do not show:** “No RMDs ever,” one universal RMD age, or tax minimization this year as the only objective.
+Highlight a possible low-ordinary-income window without hardcoding a conversion amount.
+
+Current app roadmap may appear as a small supporting strip, but distant values are not headlines.
+
+**Hold:** final tax-law wording and conversion fields until CPA review.
 
 ---
 
@@ -306,54 +324,93 @@ Highlight the possible low-ordinary-income window without filling it with a hard
 
 ## 6.1 · Spending, income floor, gap, and Bridge
 
-**Make obvious:** retirement spending minus recurring income creates the living gap, while total draw also includes tax, remaining debt, events, and reserve refill.
+**Make obvious:** the simple living gap and the full total draw are different calculations.
 
-**Primary visual:** two reconciled layers:
+**Visual 1 — today's-dollar income stages:**
 
-1. **Living gap:** spending − recurring income
-2. **Total draw:** full annual need − recurring income
+- First 3 retirement years: $100,000 spending − $20,000 part-time = $80,000 living gap
+- After part-time ends: $100,000 gap
+- Alex Social Security begins: $70,000 gap
+- Jordan Social Security begins: $48,000 gap
 
-Use the canonical checkpoint for tax, debt, refill, and total draw.
+**Visual 2 — first retirement calendar year:**
 
-Below, show the income floor changing over time rather than one permanent number.
+Need side:
 
-**Do not show:** one flat gap from age 55 through 95 or “everything unlocks at 59½.”
+- Base living: $129,912
+- College: $13,439
+- Debt: $17,400
+- Tax: $10,632
+- **Total need: $171,383**
+
+Income side:
+
+- Partial-year household wages: $42,557
+- Part-time income: $26,878
+- **Recurring income: $69,435**
+
+Result:
+
+> $171,383 − $69,435 = $101,948 total draw
+
+Add note:
+
+> Retirement begins in March; today's-dollar inputs are inflated into 2036.
 
 ## 6.2 · Withdrawal and funding strategy
 
-**Make obvious:** total draw is fixed first; account and holding strategy decide the sources.
+**Make obvious:** the total draw is calculated first; the strategy chooses its sources.
 
-**Primary visual:** one balance equation:
+**Visual:**
 
-> Total draw = taxable sources + traditional sources + Roth sources + approved borrowing, if any
+> $101,948 draw = taxable account sources
 
-The source branches must add to the same total and agree with Bitcoin sold/retained.
+Holding split:
 
-A small separate panel compares:
+- Cash: $2,200
+- Stocks: $1,800
+- Bitcoin: approximately $97,900
 
-- Sell
-- Hold using another source
-- Borrow with full loan risks
+Bitcoin detail:
 
-**Gate:** borrowing remains optional Advanced unless relevant.
+- Sale proceeds: $97,948
+- Projected 2036 BTC price: $1,235,921
+- Bitcoin sold: 0.079251 BTC
 
-**Do not show:** Hold as a funding source by itself or a borrow-first result without interest, LTV, liquidation, collateral, counterparty, repayment, and estate consequences.
+Small side panel:
+
+- Sell — simple, taxable, no lender
+- Hold — requires another real source
+- Borrow — interest, LTV, liquidation, collateral, counterparty, repayment, estate
+
+**Gate:** borrowing is Advanced unless it already exists or is actively being considered.
 
 ## 6.3 · Starting paycheck and guardrails
 
 **Make obvious:** three confidence controls answer three different questions.
 
-**Primary visual:** three stacked rows:
+**Visual:** three rows.
 
-- Plan confidence target → earliest qualifying date
-- Starting-spending comparison → annual paycheck choices
-- Annual guardrails → next-year adjustment
+1. Plan confidence target → earliest qualifying date
+2. Starting-spending choices → paycheck decision
+3. Annual policy → next-year adjustment
 
-Then show the current 60 / 80 / 95 / 10% policy as a product default, not a universal research law.
+Spending choices:
 
-Use checkpoint spending amounts.
+- Conservative / 95%: $99,317
+- **Current Plan: $100,000 at 94.6% — saved choice**
+- Balanced / 80%: $170,216
+- Aggressive / 60%: $249,904
 
-**Do not show:** one confidence slider controlling all three jobs.
+Decision line:
+
+> Capacity is not a command to maximize spending.
+
+Annual policy:
+
+> Lower 60% · Target 80% · Upper 95% · Up to 10% correction
+
+Label these as Orange Plan defaults, not a universal research law.
 
 ---
 
@@ -361,44 +418,45 @@ Use checkpoint spending amounts.
 
 ## 7.1 · Choose custody
 
-**Make obvious:** the setup follows the job, consequence, family capability, and recovery process.
+**Make obvious:** different balances can have different jobs and custody.
 
-**Primary visual:** two demo balances flowing to different jobs:
+**Visual:**
 
-- 0.25 BTC exchange operating balance
-- 1.50 BTC long-term hardware-wallet balance
+- 0.25 BTC exchange balance → operating job
+- 1.50 BTC hardware wallet → long-term Legacy job
+- Small practice wallet → family learning
 
 Beside them, four practical levels from hardened third party to supported multi-key.
 
-**Do not show:** the highest level as automatically best or one universal dollar threshold.
+**Do not show:** the highest level as automatically best or a universal dollar threshold.
 
 ## 7.2 · Prove recovery
 
-**Make obvious:** device ownership is incomplete until receive, send, backup, and recovery have worked.
+**Make obvious:** owning a device is incomplete until the process works.
 
-**Primary visual:** four-step proof loop:
+**Visual:** proof loop:
 
 > Verify device → Receive → Send → Recover
 
-A family practice wallet sits outside the main balance.
+A separate practice-wallet lane shows the spouse learning without exposing the main backup.
 
-**Replace:** any universal instruction to wipe the only working device holding meaningful funds.
+**Replace:** any universal instruction to wipe the only meaningful device.
 
-**Walkthrough source:** current manufacturer documentation for the exact device and firmware.
+**Hold:** exact procedure for the selected device and custody-practitioner review.
 
 ## 7.3 · Remove single points of failure
 
-**Make obvious:** failures are physical, human, or provider-based.
-
-**Primary visual:** three columns with one demo failure each:
+**Make obvious:** failures fall into three domains.
 
 - Physical — device and backup together
-- Human — only Alex knows the process
-- Provider — exchange recovery depends on weak email/phone path
+- Human — only Alex understands the process
+- Provider — exchange recovery depends on email/phone access
 
-Then show the first fix, not nine simultaneous tasks.
+Show one prioritized fix, not a wall of tasks.
 
-**Do not show:** secrets inside the Family Custody Map.
+Add a scam stop strip:
+
+> No remote access · no screen sharing · no secrets · verify support independently
 
 ---
 
@@ -406,57 +464,63 @@ Then show the first fix, not nine simultaneous tasks.
 
 ## 8.1 · People, documents, and beneficiaries
 
-**Make obvious:** executor, lifetime agent, healthcare decision-maker, trustee, and technical helper have different authority.
+**Make obvious:** roles have different authority.
 
-**Primary visual:** role cards connected to the document or provider record that creates or verifies the authority.
+**Visual:** role cards connected to their source:
 
-Use the old workplace beneficiary mismatch as the demo action.
+- Personal representative → will/court process
+- Financial agent → power of attorney during life
+- Healthcare decision-maker → healthcare documents
+- Trustee → trust
+- Technical helper → support only, no authority from the label
 
-**Replace:** “beneficiary form always beats the will” with a coordinated legal/provider review.
+Demo action:
+
+> Old workplace account still names a parent → verify and change the provider record
+
+**Hold:** final Colorado terminology until attorney review.
 
 ## 8.2 · Dual control and redundancy
 
-**Make obvious:** preventing one-person spending and surviving one lost component are separate tests.
+**Make obvious:** two separate tests.
 
-**Primary visual:** two test columns:
+- Dual control — can one person spend alone when the design says they should not?
+- Redundancy — can one loss permanently stop recovery?
 
-- Dual control
-- Redundancy
+For a multisig illustration, show exactly three keys and any two signing.
 
-For a 2-of-3 example, show exactly three keys and any two signing.
-
-**Replace:** the prior four-component picture labelled 2-of-3.
-
-**Do not show:** manually split seed words as a threshold design.
+**Replace:** the old four-component picture labelled 2-of-3 and any hand-split seed design.
 
 ## 8.3 · Heir letter and delivery
 
-**Make obvious:** the heir letter starts the process; it does not grant authority or contain secrets.
+**Make obvious:** the letter starts the process; it does not grant authority or contain secrets.
 
-**Primary visual:** first-page card with four questions:
+First-page visual:
 
-- Who do I call?
+- Who do I call first?
 - What must I not do?
 - What exists?
 - Where are the documents?
 
-Show two discovery paths, one of which may be optional automated delivery.
+Show two discovery paths, one of which can be optional automated notification.
 
-**Do not show:** a dead-man switch moving Bitcoin, replacing a will, or acting as the only delivery path.
+**Do not show:** a fixed 90-day product default, Bitcoin movement, or automated delivery as the only estate plan.
 
 ## 8.4 · Protection gaps
 
-**Make obvious:** coverage begins with the survivor gap, not an income multiple or product.
+**Make obvious:** coverage starts from the survivor problem, not a product or income multiple.
 
-**Primary visual:** first-pass annual survivor equation:
+**Visual:**
 
-> Living + debt − surviving income = $62k preliminary annual gap
+> $80,000 living + $22,000 debt − $40,000 surviving income = $62,000 preliminary annual gap
 
-Then show the items that turn the annual gap into a capital need:
+Then show the fields that turn the annual gap into a capital need:
 
-> duration · changed spending · childcare/goals · benefits · usable assets · existing policies
+> Changed survivor spending · duration · childcare/goals · benefits · usable assets · existing policies
 
-**Do not show:** $62k as the coverage recommendation or one permanent-insurance illustration as the plan.
+**Do not show:** $62,000 as the recommended death benefit.
+
+**Hold:** final product and contract wording until licensed review.
 
 ---
 
@@ -466,37 +530,43 @@ Then show the items that turn the annual gap into a capital need:
 
 **Make obvious:** monthly updates facts; annual review revisits decisions.
 
-**Primary visual:** two columns:
+**Visual:** two columns.
 
-- Monthly · transactions, balances, changed facts, affected result
-- Annual · assumptions, strategy, Protect, Scenarios, report, actions
+- Monthly — transactions, balances, changed facts, affected outputs
+- Annual — assumptions, strategy, Protect, Scenarios, report, actions
 
-A small trigger arrow shows a major life event opening only the affected planning areas.
-
-**Do not show:** one promised 1-minute or 5-minute duration, or a market move automatically changing the long-term policy.
+A life-event arrow opens only affected areas.
 
 ## 9.2 · Test and read the plan
 
-**Make obvious:** a Scenario is a question and a decided change must move to its actual source.
+**Make obvious:** one changed input produces one measured effect.
 
-**Primary visual:**
+**Visual:**
 
-> Baseline → One changed lever → Compare → Decide → Update source
+> 3% inflation baseline · 94.6%  
+> Change only inflation to 4%  
+> 91.6% · −3.0 points  
+> Target remains 80%
 
-Then finish with the six-sentence plan summary as six short lines, not a dense report screenshot.
+Flow underneath:
 
-**Do not show:** several changed levers before the learner understands the first one, or encrypted export as a currently usable in-app restore.
+> Baseline → One changed lever → Compare → Decide → Update the real source
+
+End with the six-sentence plan summary, not a dense report screenshot.
+
+Record strip:
+
+- PDF — readable snapshot
+- Encrypted export — passphrase-protected data copy
+- In-app restore — currently unavailable
 
 ---
 
 # Production order
 
-1. Build the visual for Module 1 after the canonical Baseline checkpoint exists.
-2. Build Modules 2 and 6 next; pilot those with real learners.
-3. Build Debt and Allocation after Austin approves the demo ceiling, target, band, HSA job, and route.
-4. Build Tax only after CPA corrections are applied.
-5. Build Custody and Estate only after specialist corrections are applied.
-6. Build Module 9 from the final checkpoint.
-7. Rebuild Module 0 last so the visual promise matches the course actually produced.
-
-The slide is done when a learner can identify the decision or relationship before reading a paragraph.
+1. Produce Modules 1, 2, 3, 4, 6, and 9 concept visuals from the current visual-data receipt.
+2. Confirm the visible UI receipt before inserting screenshots or exact labels.
+3. Produce Module 5 only after CPA corrections.
+4. Produce Modules 7 and 8 only after custody, attorney, and insurance corrections.
+5. Produce Module 0 last so its promise matches the final course.
+6. Record versioned walkthroughs only after Austin uses the deployed Build Your Plan flow end to end.
