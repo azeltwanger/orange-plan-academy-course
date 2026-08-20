@@ -42,6 +42,22 @@ The result should show the benefit, cost, and new risk.
 
 A stress test does not become the baseline because the result is uncomfortable. A choice becomes the baseline only after the household makes the decision.
 
+== RUN THE DEMO INFLATION STRESS TEST ==
+
+The demo baseline uses 3% inflation.
+
+At the planned household retirement date, that baseline produces **94.6% confidence**.
+
+The Scenario changes one input: inflation rises to 4%. Every other saved input remains the same.
+
+The result falls to **91.6%**, a change of **negative 3 percentage points**.
+
+That tells us higher long-term spending growth makes the plan less resilient. It does not tell us the 3% baseline was wrong or that the household must change the plan today.
+
+The result remains above the household's 80% target, so this particular stress test does not create an immediate action. It tells the household that inflation is meaningful and worth monitoring.
+
+Do not invent an earliest-date change or a future estate promise from this Scenario unless the app actually reports that comparison. Use the output the Scenario owns.
+
 == READ THE COMPARISON IN FIVE STEPS ==
 
 ### 1. Confirm what changed
@@ -50,7 +66,7 @@ Read the Scenario definition before the result. Make sure the intended age, spen
 
 ### 2. Read timing and confidence together
 
-Compare planned age, confidence target, confidence result, and earliest target-qualified date.
+Compare planned age, confidence target, confidence result, and earliest target-qualified date when the comparison provides them.
 
 An earlier date with less confidence is not automatically better. It shows how much cushion is being exchanged for time.
 

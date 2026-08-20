@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 6.1
 6.1 Build the retirement spending target, income floor, and portfolio gap
-~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
+~9 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
 Retirement income starts with three numbers:
@@ -41,7 +41,7 @@ All three amounts are entered in today's dollars under the app's current input c
 
 Those dates matter. Income that begins at 67 does not fund retirement at 55, and the full $52,000 Social Security floor does not begin all at once.
 
-The floor is a timeline, not one permanent number. One spouse claims before the other, part-time work ends, a pension can begin later, or another source can stop.
+The floor is a timeline, not one permanent number. Part-time work ends, one spouse claims before the other, a pension can begin later, or another source can stop.
 
 == THE PORTFOLIO-FUNDED GAP ==
 
@@ -49,14 +49,12 @@ The simple living-spending gap is:
 
 > Retirement living spending − recurring income = portfolio-funded gap
 
-For the demo household:
+For the demo household, in today's dollars and before taxes, debt, life events, or reserve refill:
 
-- During the first 3 retirement years, $100,000 of living spending minus $20,000 of part-time income leaves an $80,000 living-spending gap.
-- After part-time work ends and before Alex's Social Security begins, the living-spending gap returns to the full $100,000.
+- During the first 3 retirement years, $100,000 minus $20,000 of part-time income leaves an $80,000 living-spending gap.
+- After part-time work ends and before Alex's Social Security begins, the gap returns to the full $100,000.
 - When Alex's $30,000 Social Security begins, the gap falls to $70,000.
 - When Jordan's $22,000 begins two years later, the combined $52,000 floor reduces the gap to $48,000.
-
-Each figure is before taxes, remaining debt, life events, or reserve refill.
 
 The gap is not a sign that the plan failed. It is the part of retirement the investments are supposed to provide.
 
@@ -66,8 +64,9 @@ The Income page takes the simple idea one step further.
 
 On the left, it shows what the year needs:
 
-- spending,
-- taxes and debt costs when applicable,
+- living spending,
+- dated life events,
+- taxes and remaining debt,
 - and a reserve refill when the saved policy calls for one.
 
 Then it subtracts recurring income.
@@ -76,9 +75,35 @@ What remains is the **total draw** from accounts.
 
 The other side shows where that draw comes from, by account and holding when the current projection can identify it.
 
-This is the answer when someone asks why the withdrawal is higher than the spending target. The source is usually tax, debt, a life event, or refill—not a second hidden spending number.
+This is the answer when someone asks why the withdrawal is higher than the spending target. The source is usually inflation, tax, debt, a life event, or refill—not a second hidden spending number.
 
-The actual first-year taxes, total draw, and source split for the canonical demo must come from the current `demo-v1-income` checkpoint. They should not be invented in the script.
+== READ THE FIRST RETIREMENT CALENDAR YEAR ==
+
+The demo household retires in March 2036, when Alex is 55. The age-55 calendar year therefore contains two months of household wages before retirement begins.
+
+The $20,000 part-time-income input is in today's dollars, so the app inflates it to the year it is received. The $100,000 living-spending input works the same way.
+
+The reproducible engine checkpoint shows:
+
+- $129,912 of inflation-adjusted base living spending,
+- $13,439 of college expense active that year,
+- $17,400 of remaining debt payments,
+- and $10,632 of tax.
+
+That creates **$171,383 of total need**.
+
+The year also receives:
+
+- $42,557 of partial-year household wages before the March retirement date,
+- and $26,878 of inflation-adjusted part-time income.
+
+That produces **$69,435 of recurring income**.
+
+$171,383 of total need minus $69,435 of recurring income leaves a **$101,948 total draw from accounts**.
+
+The result is not “$100,000 spending minus $20,000 income.” That shortcut misses inflation, the partial retirement year, college, debt, and tax.
+
+This is the exact explanation the page needs when a learner asks where the number came from.
 
 == PRICE THE BRIDGE YEAR BY YEAR ==
 
@@ -86,7 +111,7 @@ The income bridge runs from retirement until the later income floor turns on.
 
 For the demo household, retirement starts at 55. Part-time work ends after 3 years. Alex's Social Security begins at 67, and Jordan's begins two years later.
 
-That creates four distinct funding stages rather than one flat 12-year bridge:
+That creates four distinct funding stages rather than one flat bridge:
 
 1. retirement plus part-time income,
 2. no part-time income and no Social Security,
@@ -123,7 +148,7 @@ For retirement spending:
 
 **What it means:** annual living spending the saved plan is expected to support.
 
-**Calculated from:** the Baseline spending input and dated life events.
+**Calculated from:** the Baseline spending input, inflation, and dated life events.
 
 **Edit source:** Plan spending and the specific event—not the Income output.
 
@@ -131,11 +156,11 @@ For retirement spending:
 
 For recurring income:
 
-**What it means:** modeled income arriving without portfolio sales.
+**What it means:** modeled income arriving without portfolio sales in that specific year.
 
-**Calculated from:** Social Security, pensions, work, rental, and other verified sources in each year.
+**Calculated from:** partial-year wages when retirement begins midyear, part-time work, Social Security, pensions, rental, and other verified sources.
 
-**Edit source:** the underlying income record and dates.
+**Edit source:** the underlying income record, household retirement date, and source dates.
 
 **This affects:** gap, Bridge, total draw, tax, and reserve need.
 
@@ -143,7 +168,7 @@ For total draw:
 
 **What it means:** amount needed from accounts after recurring income.
 
-**Calculated from:** spending, tax, debt, life events, refill, and recurring income.
+**Calculated from:** living spending, life events, tax, debt, refill, and recurring income.
 
 **Edit source:** whichever underlying line created the amount.
 
@@ -155,10 +180,10 @@ Choose the retirement living-spending target, the recurring income sources the h
 
 == PUT IT IN ORANGE PLAN ==
 
-Confirm Baseline spending on Plan, enter every retirement-income source with its own owner and start or end date, and read the current first-year funding calculation on Plan → Income.
+Confirm Baseline spending on Plan, enter every retirement-income source with its owner and dates, and read the first-year funding calculation on Plan → Income one line at a time.
 
 Set the cash-buffer basis and months in Cash Flow.
 
 == YOU ARE DONE WHEN ==
 
-You can explain spending, the phased income floor, each living-spending gap, the full total draw, and the early Bridge without relying on one future Bitcoin price.
+You can explain spending, the phased income floor, the first retirement-year total need and recurring income, the resulting draw, and the early Bridge without relying on one future Bitcoin price.

@@ -2,11 +2,33 @@
 
 The total draw is calculated before the withdrawal strategy decides which accounts and holdings provide it.
 
-## One reconciled source split
+## Reconciled first-year draw
 
-The account and holding sources should add to the total draw. Bitcoin sold or retained should come from the same projection calculation.
+| Component | Engine checkpoint |
+|---|---:|
+| Total need | $171,383 |
+| Recurring income | $69,435 |
+| **Total draw** | **$101,948** |
+| Rounded account-source total | $101,946 |
 
-Canonical amounts come from `demo-v1-income`, not hardcoded script ratios.
+The $2 difference is display rounding.
+
+## First-year source split
+
+The saved policy uses taxable accounts first.
+
+| Holding source | Rounded amount |
+|---|---:|
+| Cash | $2,200 |
+| Stocks | $1,800 |
+| Bitcoin | $97,900 |
+| Taxable account total | $101,946 |
+
+The underlying Bitcoin sale is $97,948. At the projected 2036 price of $1,235,921, the model sells approximately **0.079251 BTC**.
+
+Do not divide a future sale by today's reference price. The dollars, projected price, and units must come from the same projection year.
+
+The result is specific to the demo's balances and policy. It is not a universal instruction to sell Bitcoin first. Incomplete basis for 0.50 BTC also keeps the tax result qualified until CPA review.
 
 ## Starting jobs
 
@@ -15,7 +37,7 @@ Canonical amounts come from `demo-v1-income`, not hardcoded script ratios.
 - Traditional: ordinary-income source that may be used during lower-income windows
 - Roth: often preserved for later or large needs when the plan supports it
 
-This is not a strict account-by-account depletion order.
+This is not a strict account-by-account depletion rule for every household.
 
 ## Bracket-aware phases
 
@@ -36,7 +58,7 @@ Consider cash-buffer role, basis, allocation drift, collateral, and other assign
 - Hold: requires another real funding source
 - Borrow: may defer sales while adding interest, LTV, liquidation, counterparty, repayment, and estate risk
 
-Borrowing is optional Advanced material unless already relevant to the household.
+Borrowing is optional Advanced material. The saved Core demo works without it.
 
 ## Cash refill
 
@@ -47,17 +69,17 @@ A healthy year may refill toward target. A weak period may pause part of the ref
 ### Source split
 
 - **What it means:** accounts and holdings funding total draw
-- **Calculated from:** saved withdrawal policy and projection
-- **Edit source:** phases, account strategy, asset strategy, and borrowing policy
+- **Calculated from:** saved policy, available balances, and projection year
+- **Edit source:** phases, account strategy, asset strategy, holdings, and borrowing policy
 - **This affects:** tax, Bitcoin sold, balances, refill, debt, confidence, and estate
 
 ### Bitcoin sold
 
-- **What it means:** calculated sale for the year
-- **Calculated from:** draw, assets, strategy, and modeled price
+- **What it means:** calculated sale in dollars and units
+- **Calculated from:** remaining draw, strategy, holdings, and modeled Bitcoin price
 - **Edit source:** strategy and holdings
 - **This affects:** gains, tax, Bitcoin retained, custody, and future results
 
 ## Done when
 
-The household can explain first-year sources, asset sales, later phase changes, cash refill, and the full cost of any borrowing strategy.
+The household can explain the first-year draw, source reconciliation, Bitcoin dollars and units sold, later phase changes, cash refill, and the full cost of any borrowing strategy.

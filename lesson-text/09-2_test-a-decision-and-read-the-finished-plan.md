@@ -13,10 +13,27 @@ Test retirement age, spending, returns, state, debt, allocation, contribution ro
 - **Stress test:** would the plan remain workable under an unfavorable condition?
 - **Choice:** is a deliberate action worth its benefit, cost, and new risk?
 
+## Demo inflation Scenario
+
+The baseline uses 3% inflation and produces 94.6% confidence at the planned retirement date.
+
+The Scenario changes only inflation to 4%:
+
+| Result | Value |
+|---|---:|
+| Baseline confidence | 94.6% |
+| 4% inflation confidence | 91.6% |
+| Scenario delta | −3.0 percentage points |
+| Plan target | 80% |
+
+The Scenario shows that higher long-term spending growth reduces resilience. It remains above the target and does not automatically require a baseline change.
+
+Do not claim an earliest-date or estate change unless that output is actually included in the comparison.
+
 ## Five-step comparison
 
 1. Confirm exactly what changed.
-2. Read planned age, confidence target, confidence result, and earliest qualifying date together.
+2. Read planned age, confidence target, confidence result, and earliest qualifying date when provided.
 3. Review cash flow, tax, contributions, and withdrawals.
 4. Review accounts, Bitcoin sold or retained, collateral, and debt.
 5. Review ending assets, estate, reserve, and the risk carrying the result.

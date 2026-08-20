@@ -15,7 +15,13 @@ The source lines on the other side should add back to the same total draw. The B
 
 If the numbers do not reconcile, investigate the app or the source data. Do not create a second explanation to make the course work.
 
-The exact demo total and source split remain checkpoint outputs. Before filming, `demo-v1-income` supplies the amounts used on screen.
+For the demo's first retirement calendar year, the reconciled engine result is:
+
+- **$171,383 total need**
+- minus **$69,435 recurring income**
+- equals **$101,948 total draw from accounts**
+
+The displayed source total rounds to $101,946, a $2 difference caused by display rounding.
 
 == GIVE THE TAX POOLS A STARTING JOB ==
 
@@ -52,6 +58,26 @@ The asset decision should consider:
 
 Selling an overweight asset can move the household toward target. Selling an underweight or protected holding can create a new problem.
 
+== READ THE DEMO SOURCE SPLIT ==
+
+Under the demo's saved taxable-first account policy and current holding mix, the first-year source is entirely taxable accounts.
+
+The rounded holding split is:
+
+- **$2,200 of cash**
+- **$1,800 of stocks**
+- **$97,900 of Bitcoin**
+
+Those lines total $101,900 after display rounding. The account-source total is $101,946, and the underlying projection draw is $101,948.
+
+The engine calculates **$97,948 of Bitcoin sale proceeds**. At the projected 2036 Bitcoin price of **$1,235,921**, that is approximately **0.079251 BTC**.
+
+The dollars and Bitcoin quantity come from the same modeled sale. Do not divide future sale dollars by today's $100,000 reference price.
+
+Most of the draw comes from Bitcoin because the taxable cash and stock balances available in the projection are small relative to the year’s need. This is an output of this household's holdings and saved policy, not a universal instruction to sell Bitcoin first.
+
+The demo also has 0.50 BTC with unresolved basis. That means the planning tax result remains qualified until the lot record and CPA review are complete. The funding amount can reconcile while the filing-grade tax treatment is still unresolved.
+
 == USE PHASES ONLY WHEN SOMETHING REAL CHANGES ==
 
 The best source mix can change before Social Security, after Social Security or a pension begins, and after required distributions start.
@@ -70,7 +96,7 @@ Bitcoin funding has three possible tools.
 
 **Borrow:** may defer sales and retain more Bitcoin exposure while adding interest, liability, LTV, liquidation, collateral, counterparty, repayment, and estate risk.
 
-The core saved plan should work without borrowing unless the household already has a loan or deliberately chooses one after review.
+The core saved plan works without borrowing. The demo does not add a loan merely to avoid the Bitcoin sale shown above.
 
 When borrowing is relevant, compare:
 
@@ -98,37 +124,23 @@ If the reserve reaches a critical level, liquidity may have to be restored even 
 
 A weak year can change refill pace. Target months change only when the spending basis, income floor, or policy decision changes.
 
-== READ THE CANONICAL DEMO FROM THE APP ==
-
-For the demo household, the Income checkpoint will show:
-
-- the total first-year draw,
-- the account and holding source split,
-- Bitcoin sold or retained,
-- tax created by the strategy,
-- and current cash-buffer funding.
-
-The lesson should point to those current outputs and explain why each source was used. It should not hardcode a $60,000/$38,000 split or another ratio before the app produces it.
-
-A borrow-first result remains a preview until lender terms, drawdown cushion, repayment, and estate consequences have been reviewed.
-
 == WHERE THESE NUMBERS COME FROM ==
 
 For the source split:
 
 **What it means:** accounts and holdings funding the total draw.
 
-**Calculated from:** the saved withdrawal policy applied to the projection.
+**Calculated from:** the saved withdrawal policy, available balances, and projection for that year.
 
-**Edit source:** withdrawal phases, account strategy, asset strategy, and any borrowing policy.
+**Edit source:** withdrawal phases, account strategy, asset strategy, holdings, and any borrowing policy.
 
 **This affects:** taxes, Bitcoin sold, balances, refill, debt, confidence, and estate.
 
 For Bitcoin sold:
 
-**What it means:** engine-calculated Bitcoin sale for the year.
+**What it means:** engine-calculated Bitcoin sale for that year in dollars and units.
 
-**Calculated from:** total draw, available assets, strategy, and modeled price.
+**Calculated from:** the remaining draw after other available taxable holdings, the saved strategy, and the modeled Bitcoin price.
 
 **Edit source:** strategy and underlying holdings—not the displayed total.
 
@@ -140,8 +152,8 @@ Choose the default account and asset strategy, the smallest number of real phase
 
 == PUT IT IN ORANGE PLAN ==
 
-Confirm that the source lines reconcile to total draw. Set the account and asset policy, review any tax ceiling with the CPA, and leave borrowing as a preview until the full risk review is complete.
+Confirm that the source lines reconcile to total draw. Read both the account source and holding split, verify the modeled Bitcoin price before interpreting units sold, and review any tax ceiling with the CPA.
 
 == YOU ARE DONE WHEN ==
 
-You can explain which pool funds the first retirement year, what gets sold inside it, why the source changes later, how cash is refilled, and what borrowing adds beyond the apparent tax savings.
+You can explain the first-year draw, account and holding sources, Bitcoin dollars and units sold, why the source changes later, how cash is refilled, and what borrowing would add beyond the apparent tax savings.

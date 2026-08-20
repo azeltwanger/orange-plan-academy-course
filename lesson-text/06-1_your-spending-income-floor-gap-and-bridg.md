@@ -34,13 +34,25 @@ Before taxes, remaining debt, life events, or refill:
 - After Alex Social Security begins: $100,000 − $30,000 = $70,000
 - After both Social Security benefits begin: $100,000 − $52,000 = $48,000
 
-The income bridge is therefore a series of stages rather than one flat annual gap.
+The income bridge is a series of stages rather than one flat annual gap.
 
-## Total draw
+## First retirement calendar year
 
-The Income page adds spending, tax, debt costs, life events, and reserve refill, then subtracts recurring income. The result is the total draw from accounts.
+The household retirement date is March 2036. That calendar year includes wages earned before retirement, inflation-adjusted part-time income, a college expense, remaining debt, and tax.
 
-Canonical taxes, total draw, and source split must come from the current demo checkpoint rather than script estimates.
+| Component | Engine checkpoint |
+|---|---:|
+| Inflation-adjusted base living spending | $129,912 |
+| College expense | $13,439 |
+| Remaining debt payments | $17,400 |
+| Taxes | $10,632 |
+| **Total need** | **$171,383** |
+| Partial-year household wages | $42,557 |
+| Inflation-adjusted part-time income | $26,878 |
+| **Recurring income** | **$69,435** |
+| **Total draw** | **$101,948** |
+
+The first-year draw is not simply $100,000 minus $20,000. The source lines explain the difference.
 
 ## Bridge years
 
@@ -55,24 +67,24 @@ Cash Flow owns reserve basis and target months. Income shows current funding in 
 ### Spending
 
 - **What it means:** annual living-spending target
-- **Calculated from:** saved Plan spending and life events
+- **Calculated from:** saved Plan spending, inflation, and life events
 - **Edit source:** Plan and event records
 - **This affects:** cash need, confidence, earliest date, tax, and withdrawals
 
 ### Recurring income
 
-- **What it means:** income without portfolio sales
-- **Calculated from:** verified sources, owners, and dates
-- **Edit source:** income records
+- **What it means:** income without portfolio sales in the selected year
+- **Calculated from:** partial-year wages, part-time work, Social Security, pensions, and other verified sources
+- **Edit source:** household retirement date and income records
 - **This affects:** gap, Bridge, total draw, tax, and reserve
 
 ### Total draw
 
 - **What it means:** amount needed from accounts
-- **Calculated from:** spending, tax, debt, events, refill, and recurring income
+- **Calculated from:** spending, events, tax, debt, refill, and recurring income
 - **Edit source:** underlying source lines
 - **This affects:** sales, Bitcoin retained, tax, loans, and long-term results
 
 ## Done when
 
-The household can explain spending, each income-floor stage, each living-spending gap, total draw, and accessible Bridge funding.
+The household can explain spending, each income-floor stage, the first-year source lines, total draw, and accessible Bridge funding.

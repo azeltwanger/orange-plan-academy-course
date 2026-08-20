@@ -16,11 +16,13 @@ This is also the first read of an unfinished plan. Cash Flow, Debt, Allocation, 
 
 == THE AGE AND SPENDING YOU ENTERED ==
 
-The planned retirement age is the age you asked Orange Plan to test.
+The planned retirement age is the household retirement start, shown using the primary person's age.
 
-Our demo household enters age 55 for Alex. Jordan is two years younger, so the current model keeps Jordan's earned income in the plan until Jordan also reaches 55.
+Our demo household enters age 55 for Alex. In the current app, that one date ends the household's modeled earned income. Jordan is two years younger, but there is not a separate spouse-retirement-age control in this plan.
 
-The app is answering: if Alex retires at 55, using these balances, household income timeline, spending, debts, life events, assumptions, and saved strategies, how often does the money last through the planning age?
+The app is answering: if the household retires when Alex is 55, using these balances, income, spending, debts, life events, assumptions, and saved strategies, how often does the money last through the planning age?
+
+Because the selected retirement date is in March, the first retirement calendar year still includes the household wages earned before that date. That is partial-year income, not Jordan working for two extra years.
 
 The Baseline spending input is the annual living spending the plan needs to support. It is not gross income and it should not duplicate debt payments that already have their own payoff schedules.
 
@@ -72,7 +74,7 @@ A higher target can be right when spending is inflexible, the household wants a 
 
 The reproducible engine checkpoint uses:
 
-- Alex retiring at 55,
+- the household retiring when Alex is 55,
 - $100,000 of retirement living spending in today's dollars,
 - an 80% Plan confidence target,
 - and the rest of the approved demo household.
@@ -85,10 +87,10 @@ The earliest date that reaches the 80% target is **May 2032, when Alex is 51**.
 
 Those two outputs come from the same test-run process:
 
-1. At the planned date of 55, the result is 94.6%.
+1. At the planned household date of 55, the result is 94.6%.
 2. When Orange Plan searches earlier dates, the first date reaching 80% is age 51.
 
-The earliest date is Alex's retirement start under the saved household timeline. Jordan is younger and the model continues Jordan's earned income until Jordan reaches 55. That spouse timing is one reason the result needs to be read from its inputs rather than treated as a universal household retirement age.
+The age is anchored to Alex because Alex is the primary person in the plan. Moving that date changes the household retirement start and the household earned-income transition. Each spouse's Social Security still has its own start age later.
 
 The result does not automatically mean the family should change the Plan age to 51.
 
@@ -104,7 +106,7 @@ For confidence:
 
 **What it means:** the share of test runs where the money lasted through the planning age.
 
-**Calculated from:** the entire saved plan—balances, holdings, income and spouse timing, spending, debts, life events, taxes, assumptions, retirement timing, and saved strategies.
+**Calculated from:** the entire saved plan—balances, holdings, household income and its retirement date, spending, debts, life events, taxes, assumptions, and saved strategies.
 
 **Edit source:** whichever underlying input is wrong or whichever decision the household wants to test.
 
@@ -120,9 +122,9 @@ Choose the Plan confidence target and the first lever you would test when the re
 
 == PUT IT IN ORANGE PLAN ==
 
-On Plan → Retirement, confirm planned age, Baseline spending, and the confidence target. Run or refresh the confidence check after the source inputs are current.
+On Plan → Retirement, confirm the household retirement age, Baseline spending, and the confidence target. Run or refresh the confidence check after the source inputs are current.
 
-Then read confidence at the planned age and the earliest date meeting the target together. Confirm which spouse's retirement date the output is changing.
+Then read confidence at the planned age and the earliest date meeting the target together. Confirm that the displayed age is the primary person's age for the household retirement start.
 
 == YOU ARE DONE WHEN ==
 
