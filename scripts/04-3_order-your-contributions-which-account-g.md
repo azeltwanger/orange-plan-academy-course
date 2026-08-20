@@ -11,13 +11,22 @@ I use strong presumptions first, then a comparison zone, and a deliberate split 
 
 == START WITH DOLLARS THAT EXIST ==
 
-The route starts with reliable surplus from Cash Flow.
+The route starts with Cash Flow.
 
 Do not route gross income, committed tax money, or a one-time cash balance as though it appears every month.
 
-The demo household has $4,000 a month available after estimated tax, living spending, and required debt payments.
+The demo's simple teaching reconciliation produced $4,000 a month before the live engine calculation. The current engine actually shows about $4,261 before extra debt because its tax estimate is lower than the round teaching amount.
 
-Every reserve transfer, extra debt payment, and employee contribution must add to that same $4,000. A $5,000 route is not ambitious; it double-counts the money.
+The saved $500 auto-loan extra payment is already included in the Cash Flow Debt row. That leaves about $3,761 displayed for contributions and other goals.
+
+The approved household route therefore has two parts:
+
+- $500 already routed through the debt strategy
+- $3,500 routed from the displayed post-debt surplus
+
+Together they use $4,000 a month and leave about $261 of the current calculated capacity as operating cushion.
+
+Do not add the $500 extra debt payment to the displayed $3,761 and then route another full $4,000 from the same screen. That would count the debt decision twice.
 
 == STRONG PRESUMPTION 1: KEEP A FUNCTIONAL RESERVE ==
 
@@ -37,13 +46,13 @@ The demo assumes a 50% match on the first 6% of Alex's $150,000 salary.
 
 An employee contribution of $9,000 a year, or $750 a month, receives the full assumed $4,500 annual employer contribution.
 
-That is not the same as maxing the entire 401(k), and employer dollars are not subtracted from the household's $4,000 surplus.
+That is not the same as maxing the entire 401(k), and employer dollars are not subtracted from the household's available cash flow.
 
 == STRONG PRESUMPTION 3: FUND THE DEBT TREATMENT ALREADY CHOSEN ==
 
 Module 3 decided that the 7% auto loan receives $500 a month of extra principal.
 
-This lesson routes that $500. It does not debate the debt a second time.
+Cash Flow already includes it in the displayed Debt amount. This lesson recognizes the route; it does not subtract it a second time or reopen the debt decision.
 
 A very high guaranteed cost can have an even stronger claim on the next dollar. Keep enough reserve that the next emergency does not recreate the debt.
 
@@ -61,21 +70,21 @@ Module 5 owns the detailed Roth-versus-traditional tax lesson. Here we only need
 
 == RUN THE APPROVED DEMO ROUTE ==
 
-The demo's $4,000 monthly surplus is assigned once:
+The full monthly decision is:
 
+- $500 of extra principal to the auto loan, already inside the Cash Flow Debt row
 - $750 to Alex's workplace plan to capture the assumed match
-- $500 of extra principal to the auto loan
 - $625 to Alex's family HSA for the qualified Healthcare Bridge
 - $625 to Jordan's Roth IRA for long-term tax-free qualified growth
 - $1,500 to taxable Bridge funding and the saved investment allocation
 
-The route totals $4,000.
+The full route totals $4,000. The four contribution destinations after debt total $3,500, which fits inside the roughly $3,761 currently displayed after the planned debt payment.
 
 The HSA and Roth split is a teaching decision for this fictional household. Before filming or execution, verify HSA eligibility, employer HSA contributions, IRA eligibility, and the limits for the recording year.
 
 The split is not indecision. The household needs accessible early-retirement funding, qualified healthcare funding, and long-term tax-advantaged growth.
 
-The exact investment mix inside the contribution accounts follows the saved account instructions and allocation target. This route decides how much and where; it does not create a one-time rebalance of existing holdings or an automatic Bitcoin purchase while the current allocation is near the upper review band.
+The exact investment mix inside the contribution accounts follows the saved account instructions and allocation target. This route decides how much and where; it does not create a one-time rebalance of existing holdings or an automatic Bitcoin purchase while Bitcoin is above the review band.
 
 == HANDLE A RAISE OR BONUS CORRECTLY ==
 
@@ -87,34 +96,34 @@ When the auto loan ends or another route completes, those dollars return to the 
 
 == WHERE THESE NUMBERS COME FROM ==
 
-### Available dollars
+### Displayed contribution capacity
 
-**What it means:** recurring surplus available after current obligations.
+**What it means:** recurring money left after estimated taxes, living spending, and the full saved debt strategy.
 
-**Calculated from:** income, tax, living spending, and required debt payments.
+**Calculated from:** Cash Flow source rows, including planned extra debt.
 
-**Edit source:** Cash Flow and source rows.
+**Edit source:** income, spending, tax assumptions, debt strategy, and contribution plan.
 
-**This affects:** reserve, debt, contributions, future balances, confidence, and earliest date.
+**This affects:** reserve, contributions, future balances, confidence, and earliest date.
 
 ### Saved route
 
-**What it means:** assignment of available dollars across goals and accounts.
+**What it means:** assignment of the full household capacity across debt and contribution destinations.
 
-**Calculated from:** reserve status, match, debt treatment, timeframe gaps, tax, eligibility, and allocation.
+**Calculated from:** reserve status, match, debt treatment, timeframe gaps, tax, eligibility, allocation, and the desired operating cushion.
 
-**Edit source:** contribution and routing plan.
+**Edit source:** debt strategy and the contribution and routing plan.
 
 **This affects:** account growth, accessibility, healthcare funding, and lifetime tax path.
 
 == YOUR DECISION ==
 
-Choose the default route for the next recurring dollar and the conditions that send those dollars back through the comparison.
+Choose the default route for the next recurring dollar, confirm it fits the post-debt Cash Flow result, and define the conditions that send those dollars back through the comparison.
 
 == PUT IT IN ORANGE PLAN ==
 
-Use the reliable surplus as the total. Record the employer-match contribution, selected extra debt, HSA and Roth contributions, and the amount assigned to accessible Bridge funding.
+Confirm the extra debt payment first. Then route the remaining displayed surplus to the employer plan, HSA, Roth IRA, and taxable Bridge without counting the debt amount twice.
 
 == YOU ARE DONE WHEN ==
 
-The route adds to the available surplus, every destination has a reason, and the rule handles a raise, bonus, completed reserve, or debt payoff without rebuilding the entire plan.
+The full route fits the household's calculated capacity, the contribution route fits the displayed post-debt surplus, every destination has a reason, and a small operating cushion remains.
