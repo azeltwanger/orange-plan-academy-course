@@ -1,89 +1,93 @@
 # Educational progression audit
 
-**Status:** pre-dictation structure check  
-**Conclusion:** keep the current 10-module spine; refine lesson ownership rather than adding another core module
+**Status:** Core sequence and lesson ownership approved for the pre-dictation course  
+**Conclusion:** keep the current 10-module spine; do not add another Core module before filming
 
 ## Course promise
 
 The learner begins with disconnected financial information and finishes with a usable Bitcoin financial plan they can explain, implement, protect, and maintain.
 
-The learning sequence should move through four stages:
+The sequence moves through four stages:
 
-1. **Know the facts** — baseline, source records, assumptions, confidence
-2. **Create capacity** — spending, surplus, reserve, debt
+1. **Know the facts** — source records, Baseline, life events, assumptions, confidence
+2. **Create capacity** — spending, reserve, repeatable route, debt
 3. **Direct the money** — allocation, accounts, tax, retirement income
 4. **Protect and maintain it** — custody, estate, insurance, Scenarios, report, review cadence
 
-The current outline follows that progression.
+The current outline follows that progression and preserves the original promise of building a working plan rather than merely teaching disconnected concepts.
 
 ## Dependency map
 
 | Module | Depends on | Produces for later modules |
 |---|---|---|
-| 0 · Start Here | Nothing | Course method, AI safety, no-secrets rule |
-| 1 · Baseline | Source records | Current plan, assumptions, confidence target, first result |
-| 2 · Cash Flow | Income, spending, debts | Reliable surplus, bare-bones spending, reserve policy |
-| 3 · Debt | Cash flow and reserve | Debt treatment and ceiling |
-| 4 · Allocation | Surplus, reserve, debt treatment | Target mix, time-horizon jobs, next-dollar route, account placement |
-| 5 · Tax | Accounts, holdings, basis, income | Tax buckets, current action, future windows |
-| 6 · Retirement Income | Spending, accounts, tax, reserve | Starting paycheck, funding strategy, annual policy |
-| 7 · Custody | Bitcoin holdings and family facts | Recoverable operational setup and no-secrets map |
-| 8 · Estate / Insurance | Custody process and family roles | Legal handoff, beneficiary alignment, heir letter, protection gaps |
-| 9 · Maintain / Test / Read | Completed saved plan | Review cadence, useful Scenarios, report, backup, actions |
+| 0 · Start Here | Nothing | Course method, AI boundary, no-secrets rule |
+| 1 · Baseline | Source records | Honest first plan, assumptions, confidence target, retirement read |
+| 2 · Cash Flow | Income, spending, debts | Normal/bare-bones spending, post-debt surplus, reserve, known-cost plan |
+| 3 · Debt | Cash Flow and reserve | Debt treatment, extra-principal decision, household ceiling |
+| 4 · Allocation | Post-debt capacity, reserve, debt treatment | Target and band, denominator, jobs, route, account placement |
+| 5 · Tax | Accounts, holdings, basis, income | Basis readiness, tax pools, current action, future windows |
+| 6 · Retirement Income | Spending, accounts, tax, reserve | Starting paycheck, total draw, source strategy, annual policy |
+| 7 · Custody | Bitcoin balances and family facts | Recoverable operational setup and no-secrets map |
+| 8 · Estate / Insurance | Custody process and family roles | Legal handoff, provider records, heir letter, protection gaps |
+| 9 · Maintain / Test / Read | Completed saved plan | Review cadence, useful Scenarios, capstone, report, annual records |
 
 ## Why Debt remains before Allocation
 
-The app may order or group Strategy pages differently, but the educational order is sound.
+The learner decides whether a debt deserves extra principal before assigning the next dollar.
 
-The learner should decide which debts deserve extra principal before assigning the next dollar. Module 4 can then route the already-decided debt amount alongside reserve and contribution needs.
+In the demo:
 
-This avoids making the allocation lesson decide debt strategy a second time.
+- Module 3 chooses $500/month of extra auto principal.
+- Cash Flow then includes that $500 in planned Debt.
+- Module 4 routes the remaining $3,500 to accounts.
+
+This prevents both a duplicate debt debate and a duplicate use of the same $500.
 
 ## Why Tax remains before Retirement Income
 
-The retirement-income lesson needs the learner to understand taxable, traditional, and Roth money before choosing account phases and bracket-aware withdrawals.
+The retirement-funding lesson requires the learner to understand taxable, traditional, Roth, and HSA treatment before choosing account phases, asset sources, and bracket-aware comparisons.
 
-Module 5 teaches the tax mechanism. Module 6 applies it to the paycheck.
+Module 5 teaches the mechanism and records. Module 6 applies them to the paycheck.
 
 ## Why Custody and Estate remain separate
 
-Protect may group the work in one product area, but the learner is making two different decisions:
+The app may group both under Protect, but the learner makes two different decisions:
 
-- Custody: can the Bitcoin be accessed and recovered operationally?
-- Estate: who has authority, who receives it, and how does the family begin?
+- **Custody:** can the Bitcoin be accessed and recovered operationally?
+- **Estate:** who has authority, who receives the property, and how does the family begin?
 
-Combining them into one lesson would hide the difference between possessing a key and having legal authority.
+Possession of a key does not create legal authority. Legal authority does not supply a key. Combining the modules would hide that distinction.
 
 ## One decision per lesson
 
 | Lesson | Learner decision |
 |---|---|
-| 0.1 | How will I work through the course and track missing information? |
+| 0.1 | How will I work through the Academy and track missing information? |
 | 0.2 | How will I use AI, and is optional memory appropriate? |
-| 1.1 | Which source records are complete, rough, or missing? |
-| 1.2 | What belongs in baseline, life event, or Scenario, and which assumptions will the first model use? |
-| 1.3 | What confidence target will I use, and can I explain the resulting date? |
-| 2.1 | What are normal spending, bare-bones spending, and reliable surplus? |
-| 2.2 | How many months should the reserve cover and what basis should it use? |
-| 2.3 | Which known future costs belong in the plan and when will each be de-risked? |
+| 1.1 | Which source records are verified, estimated, or missing? |
+| 1.2 | What belongs in Baseline, life event, or Scenario, and which starting assumptions apply? |
+| 1.3 | What confidence target will I use, and can I explain the household retirement result? |
+| 2.1 | What are normal spending, bare-bones spending, and the post-debt amount available to route? |
+| 2.2 | Which reserve basis and target months fit the household? |
+| 2.3 | Which known costs belong in the plan and when will each be de-risked? |
 | 2.4 | What education amount is the family actually committing to provide? |
 | 3.1 | What is the treatment for each debt and the household ceiling? |
-| 4.1 | What Bitcoin target can the household hold through a full drawdown? |
+| 4.1 | What Bitcoin target and review band can the household hold through a full drawdown? |
 | 4.2 | What does every account hold and what time-horizon job does it serve? |
-| 4.3 | Where does the next recurring dollar go? |
+| 4.3 | Where does the recurring post-debt contribution amount go? |
 | 4.4 | Which holdings belong inside each selected wrapper? |
 | 5.1 | Which basis records are complete and what must be reconstructed before a sale? |
 | 5.2 | What tax action or professional question matters now, if any? |
-| 6.1 | What spending and recurring income is retirement built around, and is the early Bridge funded? |
-| 6.2 | Which accounts and assets fund retirement, and is borrowing excluded, compared, or included? |
+| 6.1 | What does retirement support, what income arrives, and what must accounts provide? |
+| 6.2 | Which accounts and holdings fund the draw, and is borrowing excluded, compared, or included? |
 | 6.3 | What starting paycheck and annual adjustment rule will the household follow? |
-| 7.1 | What custody job and level fits each Bitcoin balance? |
-| 7.2 | What safe recovery test and backup design will prove the wallet works? |
-| 7.3 | What single point of failure gets fixed first and what is the account-hardening standard? |
+| 7.1 | What custody job and level fit each Bitcoin balance? |
+| 7.2 | What supported recovery test and backup design will prove the wallet works? |
+| 7.3 | What physical, human, or provider failure is fixed first? |
 | 8.1 | Who holds each legal role and which provider records must change? |
 | 8.2 | Which dual-control and redundancy tests does the access design pass? |
-| 8.3 | Who is called first, what are the stop signs, and how is the letter discovered? |
-| 8.4 | Which protection gaps need a quote or professional review and which are self-insured? |
+| 8.3 | Who is called first, what are the stop signs, and how is the plan discovered? |
+| 8.4 | Which protection gaps need a quote/review and which are deliberately self-insured? |
 | 9.1 | What is the monthly/annual review cadence and what triggers an off-cycle review? |
 | 9.2 | Which Scenarios remain useful and what does the final plan say in six sentences? |
 
@@ -91,70 +95,95 @@ Combining them into one lesson would hide the difference between possessing a ke
 
 A topic remains in Core when every learner needs the concept to build a usable plan.
 
-A topic moves to Advanced when it is triggered by a condition in the learner's own plan.
+A topic moves to Advanced when a condition is visible in that learner's plan.
 
 | Advanced topic | Gate visible in the plan |
 |---|---|
-| Monte Carlo mechanics | Learner wants to inspect or change the modeling method beyond interpreting confidence |
-| Holding-level custom periods | One holding genuinely should not use its broad class default |
-| Bitcoin-backed loan | Existing loan or an active decision to borrow |
-| Roth conversion optimization | Meaningful traditional balance and a low-income window |
+| Monte Carlo mechanics | Learner wants to inspect/change the model beyond interpreting confidence |
+| Holding-specific custom periods | One holding genuinely should not use its broad class default |
+| Bitcoin-backed loan | Existing loan or active decision to borrow |
+| Roth conversion optimization | Meaningful traditional balance and a possible low-income window |
 | Gain/loss harvesting | Taxable lots and a current gain/loss opportunity |
-| State relocation | A genuine move under consideration, not tax curiosity alone |
+| State relocation | Genuine move under consideration, not tax curiosity alone |
 | Pre-Medicare healthcare | Retirement before Medicare with an uncovered healthcare period |
-| Passphrase | A real need for the added control and a household capable of recovering it |
+| Passphrase | Real need for added control and a household capable of recovery |
 | Collaborative or DIY multisig | One-key risk is unacceptable and the family can maintain the complexity |
-| Trust and estate-tax planning | Probate, control, tax, creditor, special-needs, or family trigger identified with counsel |
+| Trust and estate-tax planning | Probate, control, tax, creditor, special-needs, family, or business trigger identified with counsel |
 
-Advanced does not count toward core progress unless the condition applies.
+Advanced does not count toward Core progress when the condition is absent.
 
 ## Number-provenance progression
 
-The four-part framework is introduced in Module 1 and then applied with increasing complexity:
+The four-part framework is introduced in Module 1 and applied with increasing complexity:
 
-1. **Module 1:** confidence and earliest date
-2. **Module 2:** surplus and reserve target
-3. **Module 3:** DTI and DTA
-4. **Module 4:** allocation and available contribution dollars
-5. **Module 5:** basis and projected tax
-6. **Module 6:** total draw, source split, Bitcoin sold, spending policy
-7. **Modules 7–8:** readiness status versus real-world proof
-8. **Module 9:** Scenario delta and report metrics
+1. **Module 1:** confidence, earliest date, and one household retirement date
+2. **Module 2:** tax/spending/debt source rows, post-debt surplus, reserve target
+3. **Module 3:** DTI, DTA, payoff
+4. **Module 4:** Allocation denominator, current/target mix, drawdown dollars, route
+5. **Module 5:** quantity, basis status, projected tax
+6. **Module 6:** need, recurring income, draw, source split, Bitcoin dollars/units, spending policy
+7. **Modules 7–8:** app readiness versus real-world proof
+8. **Module 9:** Scenario delta, report metrics, PDF/export state
 
-Do not turn provenance into a repeated four-minute lecture. State the four lines at the first important output in each module and then point back to them.
+Do not turn provenance into a repeated lecture. Teach the four lines at the first important output in each module and then point back to them.
 
 ## Retrieval and learner practice
 
-Each module should include a brief learner action before the app walkthrough:
+Each module includes a short learner action before or during the walkthrough:
 
-- explain the decision in one sentence,
-- calculate or identify one source number,
-- predict which output should move,
-- then verify it in the app.
+1. explain the decision in one sentence,
+2. identify a source number,
+3. predict which output should move,
+4. verify the result,
+5. explain whether the decision still fits.
 
-This is enough retrieval practice without adding quizzes that feel separate from building the plan.
+This is retrieval practice embedded in building the plan, not a detached quiz.
 
 ## Completion logic
 
-The app checkmark and educational completion can use different wording but must point to the same planning outcome.
+The app checkmark and educational completion can use different wording while pointing to the same outcome.
 
 Examples:
 
-- The app can confirm a reserve target exists. The learner is complete when they can explain why the selected number of months fits the household.
-- The app can confirm a target allocation exists. The learner is complete when they can state the dollar loss in a 75% Bitcoin drawdown and still choose to hold it.
-- The app can confirm an heir letter exists. The learner is complete when the family understands the first call and no secret is in the document.
+- The app confirms a reserve target exists. The learner is complete when the selected months can be explained.
+- The app confirms a target allocation exists. The learner is complete when the app denominator and dollar drawdown can be stated and the trade-off is accepted.
+- The app confirms an heir letter exists. The learner is complete when the family understands the first call and no secret is in the document.
 
-## Remaining progression risks before dictation
+The app never proves a wallet recovery, legal validity, provider acceptance, insurance coverage, or family capability.
 
-1. The continuous demo inputs are now proposed but the calculated app outputs are not checkpointed.
-2. Repeated teaching needs the runtime cuts in `CORE-RUNTIME-DUPLICATION-AUDIT.md`.
-3. Module 5 and parts of Module 6 require CPA review before wording is final.
-4. Modules 7–8 require custody, legal, and insurance review before wording is final.
-5. Slides still reflect the former live-client structure and retired concepts.
-6. Walkthroughs wait for the Build Your Plan preview and do not block concept-script approval.
+## Reconciled teaching examples now available
+
+The current synthetic engine candidate provides the values needed for the high-risk lessons:
+
+- 94.6% confidence at Alex age 55
+- earliest 80% date in May 2032, Alex age 51
+- $3,761 post-debt monthly surplus
+- $270,000 Allocation denominator and 64.8% Bitcoin
+- $100,000 saved paycheck at 94.6%
+- $101,948 first-year total draw
+- $97,948 / 0.079251 BTC sold
+- 91.6% under the 4% inflation Scenario
+
+These examples are now part of the current scripts and visual briefs. They still require deployed label/state verification before final screenshot receipts.
+
+## Remaining progression risks before Austin's final read
+
+1. **UI implementation risk:** the deployed page may label, round, save, or expose the source differently from the engine candidate.
+2. **Professional risk:** actual CPA, custody, Colorado estate-attorney, and insurance responses have not been returned.
+3. **Walkthrough risk:** exact Build Your Plan steps and completion behavior have not been verified by Austin end to end.
+4. **Learner risk:** the high-risk sequence still needs a small comprehension pilot before the entire course is filmed.
+
+The earlier structural risks are closed:
+
+- continuous demo inputs are approved,
+- engine outputs are generated and reconciled,
+- duplication cuts are applied,
+- one-decision ownership is locked,
+- the old slide errors are mapped,
+- and the visual data source is current.
 
 ## Structure decision
 
-Do not add another core module before filming.
+Do not add another Core module before filming.
 
-Perfect the current sequence, gate the advanced material, reconcile one demo household, and make the learner prove the decision at the end of each lesson.
+Keep the current sequence, verify the remaining external layers, and make the learner prove the decision at the end of each lesson.
