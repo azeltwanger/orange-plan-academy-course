@@ -93,12 +93,12 @@ Ask:
 - What payment load remains manageable if income falls or costs rise?
 - What debt relative to assets can we watch through a major Bitcoin drawdown without feeling forced to sell or panic-pay the debt?
 
-For the working demo, the proposed household rule is:
+The approved demo rule is:
 
 - do not intentionally push DTI above 25%,
-- and do not add debt when DTA is already around or above 40%.
+- and do not add debt when DTA is 40% or higher.
 
-Those are household rules for Austin to approve, not universal thresholds. They leave room below the app's outer caution and risk bands.
+These are household rules for the fictional demo, not universal thresholds. They leave room below the app's outer caution and risk bands.
 
 == BITCOIN-BACKED DEBT IS OPTIONAL ADVANCED WORK ==
 
