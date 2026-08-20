@@ -6,6 +6,8 @@
 
 The Core curriculum is structurally rebuilt and the continuous demo inputs are approved.
 
+**Austin's final read and dictation pass has not started.**
+
 Completed before Austin's final voice pass:
 
 - current 10-module Core outline,
