@@ -16,23 +16,25 @@
     "note": "The accepted app receipt records the actual price and as-of date used."
   },
   "household": {
-    "primary": {"name": "Alex", "age": 45, "retirementAge": 55},
-    "spouse": {"name": "Jordan", "age": 43, "retirementAge": 55, "retiresYearsAfterPrimary": 2},
+    "primary": {"name": "Alex", "age": 45},
+    "spouse": {"name": "Jordan", "age": 43},
     "children": [{"age": 10}, {"age": 12}],
     "filingStatus": "married_filing_jointly",
     "state": {"value": "CO", "status": "approved"},
+    "householdRetirementAgeDisplayedForPrimary": 55,
+    "retirementDateMeaning": "one_household_retirement_start_anchored_to_primary_age",
     "planningAge": 95
   },
   "income": [
     {"id": "alex-w2", "owner": "Alex", "type": "w2_salary", "annualGross": 150000, "monthlyGross": 12500, "reliability": "stable"},
-    {"id": "jordan-w2", "owner": "Jordan", "type": "w2_salary", "annualGross": 40000, "monthlyGross": 3333.3333333333, "reliability": "stable", "endsWhenOwnerReachesAge": 55}
+    {"id": "jordan-w2", "owner": "Jordan", "type": "w2_salary", "annualGross": 40000, "monthlyGross": 3333.3333333333, "reliability": "stable"}
   ],
   "cashFlow": {
     "annualGrossIncome": 190000,
     "workingTeachingTaxEstimate": {
       "annual": 40000,
       "status": "illustrative_reconciliation",
-      "note": "The first engine candidate is $36,862. The Cash Flow UI owns the accepted displayed tax and surplus."
+      "note": "The reconciled engine candidate is $36,862. The UI receipt owns the accepted displayed tax and surplus."
     },
     "normalLivingSpendingAnnual": 80000,
     "bareBonesLivingSpendingMonthly": 5000,
@@ -40,7 +42,15 @@
     "approvedRepeatableRouteAnnual": 48000,
     "approvedRepeatableRouteMonthly": 4000,
     "routeIncludesExtraDebtPrincipalMonthly": 500,
-    "routeIncludesContributionAccountsMonthly": 3500
+    "routeIncludesContributionAccountsMonthly": 3500,
+    "engineCandidate": {
+      "currentYearTaxAnnualUsd": 36862,
+      "decisionCapacityBeforeExtraDebtMonthlyUsd": 4261,
+      "displayedMonthlySurplusAfterPlannedDebtUsd": 3761,
+      "approvedContributionRouteAfterExtraDebtUsd": 3500,
+      "operatingCushionAfterApprovedRouteUsd": 261,
+      "status": "engine_reconciled_ui_verification_pending"
+    }
   },
   "accounts": [
     {"id": "cash-reserve", "owner": "joint", "wrapper": "taxable_cash", "job": "reserve", "allocationScope": "included", "holdings": [{"assetClass": "cash", "valueUsd": 30000}]},
@@ -148,16 +158,13 @@
     "inflationStressScenarioPercent": {"value": 4, "status": "approved_scenario"},
     "planConfidenceTargetPercent": 80,
     "testRuns": 1000,
-    "plannedRetirementAge": 55,
-    "spouseRetirementAge": 55,
+    "householdRetirementAgeDisplayedForPrimary": 55,
     "planningAge": 95,
     "holdingOverrideRule": "Use only when the broad asset class would model the specific holding incorrectly."
   },
   "retirementIncome": {
     "baselineLivingSpendingAnnualTodayDollars": 100000,
-    "plannedRetirementAge": 55,
-    "spouseRetirementAge": 55,
-    "spouseRetiresYearsAfterPrimary": 2,
+    "householdRetirementAgeDisplayedForPrimary": 55,
     "partTimeIncome": {"owner": "Alex", "annualTodayDollars": 20000, "durationYears": 3, "status": "approved"},
     "socialSecurity": [
       {"owner": "Alex", "annualTodayDollars": 30000, "startAge": 67, "status": "approved"},
@@ -191,7 +198,7 @@
   },
   "engineCheckpointCandidate": {
     "status": "generated_ui_verification_pending",
-    "appCommit": "4456b3c954ea29630b4d9c73aff6a52711cfad15",
+    "appCommit": "3105664da5dd77c57bf6d489e28b8f3a5e3d3eb5",
     "asOfDate": "2026-08-20",
     "bitcoinReferencePriceUsd": 100000,
     "monteCarloSeed": 20260820,
@@ -203,8 +210,13 @@
     },
     "cashFlow": {
       "currentYearTaxAnnualUsd": 36862,
-      "displayedMonthlySurplusUsd": null,
-      "note": "Expanded Cash Flow diagnostic and deployed UI comparison pending."
+      "requiredDebtPaymentsMonthlyUsd": 1833,
+      "extraDebtPaymentsMonthlyUsd": 500,
+      "plannedDebtPaymentsMonthlyUsd": 2333,
+      "decisionCapacityBeforeExtraDebtMonthlyUsd": 4261,
+      "displayedMonthlySurplusAfterPlannedDebtUsd": 3761,
+      "approvedContributionRouteAfterExtraDebtUsd": 3500,
+      "operatingCushionAfterApprovedRouteUsd": 261
     },
     "debt": {
       "dtiPercent": 11.6,
@@ -219,19 +231,41 @@
       "reviewBandLowerPercent": 40,
       "reviewBandUpperPercent": 60
     },
+    "tax": {
+      "knownBitcoinBasisUsd": 48000,
+      "knownBasisBitcoinQuantity": 1.25,
+      "unresolvedBasisBitcoinQuantity": 0.5,
+      "estimateStatus": "incomplete_basis_conservative_engine_input"
+    },
     "income": {
       "conservativeSpendingAnnualUsd": 99317,
       "balancedSpendingAnnualUsd": 170216,
       "aggressiveSpendingAnnualUsd": 249904,
       "currentPlanSpendingAnnualUsd": 100000,
       "currentPlanSpendingConfidencePercent": 94.6,
-      "firstYearTotalNeedUsd": 171383,
-      "firstYearRecurringIncomeUsd": 69435,
-      "firstYearTotalDrawUsd": 101948,
-      "firstYearSourceTotalUsd": 101946,
-      "firstYearBitcoinSoldUsd": 97948,
-      "firstYearBitcoinSoldBtc": null,
-      "note": "Expanded income and spending provenance plus projected BTC units pending."
+      "firstYear": {
+        "year": 2036,
+        "primaryAge": 55,
+        "baseLivingSpendingNominalUsd": 129912,
+        "collegeExpenseNominalUsd": 13439,
+        "livingNeedUsd": 143351,
+        "debtPaymentsUsd": 17400,
+        "taxesUsd": 10632,
+        "totalNeedUsd": 171383,
+        "partialYearHouseholdWagesUsd": 42557,
+        "inflationAdjustedPartTimeIncomeUsd": 26878,
+        "recurringIncomeUsd": 69435,
+        "totalDrawUsd": 101948,
+        "sourceTotalUsd": 101946,
+        "holdingSources": [
+          {"asset": "cash", "amountUsd": 2200},
+          {"asset": "stocks", "amountUsd": 1800},
+          {"asset": "bitcoin", "amountUsd": 97900}
+        ],
+        "bitcoinSoldUsd": 97948,
+        "projectedBitcoinPriceUsd": 1235921,
+        "bitcoinSoldQuantity": 0.079251
+      }
     },
     "final": {
       "inflationStressConfidencePercent": 91.6,
