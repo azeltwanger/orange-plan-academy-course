@@ -59,20 +59,23 @@ After reserve, match, and selected debt treatment, compare the remaining destina
 
 Module 5 owns the detailed Roth-versus-traditional tax lesson. Here we only need enough tax context to choose the route.
 
-== RUN THE DEMO ROUTE ==
+== RUN THE APPROVED DEMO ROUTE ==
 
 The demo's $4,000 monthly surplus is assigned once:
 
-- $750 to the workplace plan to capture the assumed match
+- $750 to Alex's workplace plan to capture the assumed match
 - $500 of extra principal to the auto loan
-- $1,250 to the mix of HSA, Roth, or additional traditional funding supported by eligibility and the tax review
+- $625 to Alex's family HSA for the qualified Healthcare Bridge
+- $625 to Jordan's Roth IRA for long-term tax-free qualified growth
 - $1,500 to taxable Bridge funding and the saved investment allocation
 
 The route totals $4,000.
 
-The split is not indecision. The household needs both accessible early-retirement money and long-term tax-advantaged growth.
+The HSA and Roth split is a teaching decision for this fictional household. Before filming or execution, verify HSA eligibility, employer HSA contributions, IRA eligibility, and the limits for the recording year.
 
-The exact investment mix inside the contribution accounts follows the saved account instructions and allocation target. This route decides how much and where; it does not create a one-time rebalance of existing holdings.
+The split is not indecision. The household needs accessible early-retirement funding, qualified healthcare funding, and long-term tax-advantaged growth.
+
+The exact investment mix inside the contribution accounts follows the saved account instructions and allocation target. This route decides how much and where; it does not create a one-time rebalance of existing holdings or an automatic Bitcoin purchase while the current allocation is near the upper review band.
 
 == HANDLE A RAISE OR BONUS CORRECTLY ==
 
@@ -102,7 +105,7 @@ When the auto loan ends or another route completes, those dollars return to the 
 
 **Edit source:** contribution and routing plan.
 
-**This affects:** account growth, accessibility, and lifetime tax path.
+**This affects:** account growth, accessibility, healthcare funding, and lifetime tax path.
 
 == YOUR DECISION ==
 
@@ -110,7 +113,7 @@ Choose the default route for the next recurring dollar and the conditions that s
 
 == PUT IT IN ORANGE PLAN ==
 
-Use the reliable surplus as the total. Record the employer-match contribution, selected extra debt, and the split between accessible Bridge and long-term accounts.
+Use the reliable surplus as the total. Record the employer-match contribution, selected extra debt, HSA and Roth contributions, and the amount assigned to accessible Bridge funding.
 
 == YOU ARE DONE WHEN ==
 
