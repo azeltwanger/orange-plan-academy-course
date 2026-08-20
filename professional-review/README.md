@@ -6,6 +6,8 @@ This directory separates three things that must not be confused:
 2. **External professional review** — incomplete until an actual qualified reviewer returns a claim-level response.
 3. **Austin voice approval** — happens after accepted factual corrections are applied.
 
+**Actual outside sign-off is not complete.**
+
 ## Current status
 
 | Area | Source verification | Send-ready packet | External response |
@@ -20,6 +22,7 @@ No lesson is currently labelled CPA-reviewed, attorney-reviewed, custody-reviewe
 ## Send from here
 
 - `SEND-CHECKLIST.md` — exact files, scope, estimated reviewer time, safety boundaries, and return process
+- `CANDIDATE-REVIEWERS.md` — researched candidate pool, conflicts, and recommended outreach order
 - `OUTREACH-TEMPLATES.md` — short email copy
 - `CPA-SEND.md`
 - `ESTATE-ATTORNEY-SEND.md`
