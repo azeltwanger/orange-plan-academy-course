@@ -18,13 +18,16 @@ Record the **accessed date**, the **specific section used**, and whether the cla
 - IRS Frequently Asked Questions on Virtual Currency Transactions  
   https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions
 
+- IRS Internal Revenue Bulletin 2024-31 — final broker reporting, basis, broker-account and unhosted-wallet identification rules  
+  https://www.irs.gov/irb/2024-31_irb
+
 - IRS Revenue Procedure 2024-28 — basis-allocation transition guidance for digital assets  
   https://www.irs.gov/pub/irs-drop/rp-24-28.pdf
 
 - IRS capital gains and losses topic  
   https://www.irs.gov/taxtopics/tc409
 
-Reviewer should confirm current broker-reporting, wallet/account identification, transfer, fee, gift, entity, and specific-identification treatment rather than relying on a course summary.
+Reviewer should confirm current broker reporting, wallet/account identification, transfer, fee, gift, entity, and specific-identification treatment rather than relying on a course summary. Temporary transition relief must not be presented as the permanent procedure.
 
 ## Retirement accounts and required distributions
 
@@ -37,6 +40,9 @@ Reviewer should confirm current broker-reporting, wallet/account identification,
 - IRS Roth comparison resources  
   https://www.irs.gov/retirement-plans/roth-comparison-chart
 
+- IRS Internal Revenue Bulletin 2026-06 — current final RMD regulations and applicable-age wording  
+  https://www.irs.gov/irb/2026-06_IRB
+
 Reviewer should identify any statement that depends on birth year, plan type, employment status, beneficiary status, current contribution limits, or the law in the filming year.
 
 ## Income, gains, Social Security, and Medicare interactions
@@ -44,7 +50,7 @@ Reviewer should identify any statement that depends on birth year, plan type, em
 - IRS Social Security and equivalent railroad retirement benefits  
   https://www.irs.gov/faqs/social-security-income
 
-- Social Security Administration benefit information  
+- Social Security Administration retirement information  
   https://www.ssa.gov/retirement
 
 - Medicare Income-Related Monthly Adjustment Amount information  
@@ -67,7 +73,10 @@ Detailed conversion and withdrawal sizing remains professional implementation ra
 - FTC — What to Know About Cryptocurrency and Scams  
   https://consumer.ftc.gov/articles/what-know-about-cryptocurrency-and-scams
 
-Reviewer should confirm the distinction between phishing-resistant authenticators, authenticator apps, SMS, account recovery, carrier protection, provider withdrawal controls, and backup lockout risk.
+- FTC — Technical Support Scams and remote-access warning  
+  https://consumer.ftc.gov/features/pass-it-on/impersonator-scams/tech-support-scams
+
+Reviewer should confirm the distinction between phishing-resistant authenticators, authenticator apps, SMS, account recovery, carrier protection, provider withdrawal controls, remote-access scams, and backup lockout risk.
 
 ## Hardware wallet and backup procedures
 
@@ -100,31 +109,43 @@ The course must not invent a threshold system by manually splitting an ordinary 
 
 ---
 
-# Estate attorney
+# Colorado estate attorney
 
-Estate, probate, incapacity, marital-rights, beneficiary, trustee, executor, and digital-asset authority questions require **state-specific primary sources** after the fictional demo state is approved.
+The approved fictional household is domiciled in Colorado. Spoken Core remains broadly applicable, while maintained reference and the professional packet can use Colorado-specific authority.
 
-For the selected state, the attorney should cite:
+## Colorado primary sources
 
-- state probate code,
-- state power-of-attorney statute,
-- state healthcare-directive statute,
-- applicable digital-asset / fiduciary-access statute,
-- state trust code when relevant,
-- community-property or elective-share law when relevant,
-- and provider/plan documents for non-probate account transfers.
+- Colorado Judicial Branch — Probate  
+  https://www.coloradojudicial.gov/self-help/probate
 
-Federal or general starting points:
+- Colorado General Assembly — SB16-088, Revised Uniform Fiduciary Access to Digital Assets Act  
+  https://leg.colorado.gov/bills/sb16-088
 
-- Internal Revenue Service estate and gift tax resources  
+- Colorado Revised Statutes — Title 15, Probate, Trusts, and Fiduciaries  
+  https://leg.colorado.gov/colorado-revised-statutes
+
+The Colorado attorney should identify the current sections and procedures governing:
+
+- appointment and evidence of authority for a personal representative,
+- will execution,
+- durable financial powers of attorney,
+- healthcare directives,
+- spousal rights and beneficiary designations,
+- fiduciary access to digital assets and electronic communications,
+- trusts and minor/special-needs beneficiaries,
+- and professional-fiduciary eligibility.
+
+## Federal/provider starting points
+
+- IRS estate and gift tax resources  
   https://www.irs.gov/businesses/small-businesses-self-employed/estate-and-gift-taxes
 
 - US Department of Labor retirement-plan participant resources  
   https://www.dol.gov/general/topic/retirement
 
-The course should not state that one beneficiary form always overrides a will. The attorney should confirm the account terms, designation validity, spousal rights, state law, and provider procedure in the scenario being taught.
+The course should not state that one beneficiary form always overrides a will. The attorney should confirm the account terms, designation validity, spousal rights, federal preemption where relevant, Colorado law, and provider procedure in the scenario taught.
 
-The attorney should also confirm that the heir letter and executor packet are described as nonbinding process guides rather than substitutes for legal authority.
+The attorney should also confirm that the heir letter and executor packet are nonbinding process guides rather than substitutes for legal authority.
 
 ---
 
@@ -145,13 +166,22 @@ The professional and CPA should confirm ownership, transfer-for-value, interest,
 - National Association of Insurance Commissioners consumer resources  
   https://content.naic.org/consumer
 
+- NAIC personal umbrella consumer guidance  
+  https://content.naic.org/article/consumer-insight-personal-umbrella-policies
+
+- Medicare — Long-term care coverage  
+  https://www.medicare.gov/coverage/long-term-care
+
+- Medicare — Nursing home care  
+  https://www.medicare.gov/coverage/nursing-home-care
+
 - Administration for Community Living — LongTermCare.gov  
   https://acl.gov/ltc
 
 - Social Security survivor benefits  
   https://www.ssa.gov/survivor
 
-The reviewer should use current state insurance-department and carrier contract materials for:
+The reviewer should use current Colorado insurance-department and carrier contract materials for:
 
 - term and permanent policy guarantees and nonguaranteed values,
 - disability definition, cap, elimination period, and benefit period,
