@@ -2,9 +2,19 @@
 
 Use strong presumptions, then a comparison zone and deliberate split.
 
-## Available dollars
+## Read the Cash Flow result correctly
 
-The demo has $4,000 per month of reliable surplus. Every reserve transfer, extra debt payment, and employee contribution must add to that amount.
+The current demo engine shows:
+
+- Capacity before extra debt: about $4,261 per month
+- Planned auto-loan extra principal: $500 per month
+- Displayed surplus after the full debt plan: about $3,761 per month
+- Approved contribution route after debt: $3,500 per month
+- Operating cushion: about $261 per month
+
+The full household decision uses $4,000 when the $500 extra debt payment and $3,500 contribution route are combined.
+
+Do not subtract the extra debt payment twice. Cash Flow already includes it in the displayed Debt amount.
 
 ## Strong presumptions
 
@@ -22,22 +32,38 @@ The demo has $4,000 per month of reliable surplus. Every reserve transfer, extra
 
 ## Approved demo route
 
-- Alex workplace employee contribution: $750
+### Already inside Cash Flow debt
+
 - Auto-loan extra principal: $500
+
+### Routed from the displayed post-debt surplus
+
+- Alex workplace employee contribution: $750
 - Alex family HSA: $625 for the qualified Healthcare Bridge
 - Jordan Roth IRA: $625 for long-term tax-free qualified growth
 - Taxable Bridge and investment allocation: $1,500
-- Total: $4,000
+- Contribution total after debt: $3,500
 
-Employer match is additional employer money, not part of the household surplus.
+Employer match is additional employer money, not household cash flow.
 
-Verify HSA eligibility, employer HSA contributions, IRA eligibility, and current-year limits before execution. The taxable investment amount follows the saved allocation target and drift rather than automatically buying more Bitcoin.
+Verify HSA eligibility, employer HSA contributions, IRA eligibility, and current-year limits before execution. The taxable investment amount follows target and drift rather than automatically buying more Bitcoin.
 
 ## Where the numbers come from
 
-- **Available dollars:** Cash Flow source rows
-- **Route:** reserve, match, debt, healthcare, timeframe, tax, eligibility, and allocation decisions
+### Displayed contribution capacity
+
+- **What it means:** money left after the full saved debt strategy
+- **Calculated from:** Cash Flow income, tax, living, and debt rows
+- **Edit source:** source inputs, debt strategy, and contribution plan
+- **This affects:** contributions, balances, confidence, and earliest date
+
+### Full route
+
+- **What it means:** extra debt plus all contribution destinations
+- **Calculated from:** reserve, match, debt, timeframe, healthcare, tax, eligibility, allocation, and operating-cushion decisions
+- **Edit source:** Debt and Cash Flow routing
+- **This affects:** account growth, accessibility, and tax path
 
 ## Done when
 
-The route adds to the reliable surplus and explains what happens after a raise, bonus, reserve completion, or debt payoff.
+The full route fits calculated capacity, the contribution route fits displayed post-debt surplus, and the household keeps a deliberate operating cushion.
