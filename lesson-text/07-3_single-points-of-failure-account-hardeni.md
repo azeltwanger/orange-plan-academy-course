@@ -1,44 +1,44 @@
-# Single points of failure, account hardening, and scams
+# Remove single points of failure and harden the accounts
 
-## Three shapes of a single point of failure
+## Failure domains
 
-1. The thing gets destroyed (device, backup).
-2. The thing is fine but the person is unavailable (only one head holds the process).
-3. You and your coin are fine and the custodian won't move it (exchange freeze).
+- Physical
+- Human
+- Provider
 
-Three ordinary Tuesdays lose Bitcoin without a single hacker: a flood takes the device *and* the only backup in the same house; a six-week hospitalization freezes everything because nobody else knows anything; an exchange review locks the account.
+## “Only one” review
 
-## The nine-question hunt
+Check devices, backups, locations, people, authentication, recovery channels, providers, multi-key configuration records, and legal/technical contacts.
 
-Is there only one… device? seed backup? location? person who knows everything? weak exchange login? heir with no idea what exists? document contradicting your beneficiary forms? passphrase nobody can recover? place all multisig keys sit?
+Rank by cost of loss and fix one at a time.
 
-## The fix method
+## Separate failure domains
 
-List your top three **by cost of loss** (not ease of fix) → fix the top one only → re-check → repeat. Every only-one becomes a backup, a second location, or a second person who knows the *process*, never the secrets.
+Copies in one place may be lost together. Redundancy must survive the event the design claims to survive without creating an uncontrolled theft path.
 
-## Account hardening (in this order)
+## Second-person process
 
-1. **Secure the email first**: it's the master key; every reset routes through it.
-2. Strong unique password everywhere.
-3. **App-based 2FA, not SMS** (SIM swap takes exchange + email in an afternoon); authenticator cloud backup off.
-4. Withdrawal delays + allowlists on; never click login links.
+Teach another person what exists, where the process begins, who is involved, and what never to share. Use a practice wallet.
 
-One better: a **hardware security key**: bound to the real site's address, so phishing sites get no response. Cheapest upgrade in the lesson.
+## Account hardening
 
-## The scam rules
+- Secure email first
+- Unique passwords
+- FIDO security key or properly implemented passkey when available
+- Separate backup authenticator/recovery method
+- Authenticator app when stronger options are unavailable
+- Manually entered OTPs remain phishable
+- Carrier transfer protections
+- Provider sessions, API keys, recovery contacts, and withdrawal controls
 
-"Your account is hacked" call → hang up, contact the provider yourself. Guaranteed returns are a scam. **Urgency is the common thread**: every scam needs you to act before you think. When something feels urgent, close the app and slow down.
+## Scam rules
 
-## Your decision
+Never share secrets or one-time codes. Independently verify support. Never install remote-access software, share the screen, or surrender control of a financial/Bitcoin device to an unsolicited contact. Stop when urgency appears and confirm transactions on the trusted display.
 
-Your one most expensive only-one, and the fix with a date on it.
+## App versus proof
 
-## Put it in Orange Plan
+Protect records checklist status. Real recovery and family practice prove the process.
 
-Protect → Security checklist for the hardening items, and Needs attention for the next one.
+## Done when
 
-## You are done when
-
-Your only-one list exists, the top item by cost of loss has a specific fix this week, and your account hardening is done: secured email, unique passwords, non-SMS two-factor, withdrawal delays on. One fix, not nine.
-
-Then watch the demo and the walkthrough below this video, where I set up a hardware wallet on screen and then we document your custody map in Orange Plan.
+The highest-cost failure is addressed, online recovery paths are hardened, and another person understands the process without receiving a secret.

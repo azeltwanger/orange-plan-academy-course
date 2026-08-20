@@ -1,108 +1,132 @@
 TELEPROMPTER SCRIPT — segment 2.1
 2.1 Find your surplus and your two spending numbers
-~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
-In today's lesson, we're going to cover how to find your surplus, which is the money you have left over every month after everything else has been paid.
+Before the next dollar goes anywhere, we need to know what is actually left each month and what the household really spends.
 
-Bitcoin is the thing that builds the wealth in this plan, but your cash flow is the engine sitting underneath all of it. Your surplus is what decides whether you're able to keep buying, whether you're able to keep holding through a drawdown, which just means a stretch where the price is way down off its high, or whether you end up in a position where you're forced to sell at the bottom.
+The plan needs two spending numbers:
 
-Back in 2022, Bitcoin dropped 77% from its peak. I watched my own net worth drop about 75% during that window. And what I noticed is that the people who got hurt the worst weren't the people who had the wrong allocation. They were the people whose monthly cash flow forced them to sell into that drop. That's the thing this lesson is designed to protect you from.
+- normal living spending for the life the plan is supporting,
+- and bare-bones spending for a temporary period when the household has to cut back.
 
-== FIRST, TAKE OUT WHAT ISN'T YOURS ==
+== WHERE SURPLUS COMES FROM ==
 
-Before we walk any surplus, there's a subtraction most people miss, and it's the one that quietly wrecks the reserve number.
+Surplus is calculated. It is not a field you change until the result feels comfortable.
 
-Money you're holding for taxes is not savings. Neither is money already committed to a bill that's landing soon.
+> Income − estimated taxes − living spending − debt payments = surplus
 
-This bites self-employed people hardest. If you're setting aside for quarterly estimated taxes, that balance is sitting in the same account as everything else and it looks like a cushion. It isn't. It's the government's money that hasn't moved yet. I've watched somebody look at a healthy-looking savings balance, feel fine about their reserve, and then realize almost all of it was earmarked for a quarterly payment. Their actual emergency reserve was a fraction of what they thought.
+Our demo household earns $190,000 before tax. The simple teaching estimate uses $40,000 of taxes, $80,000 of normal living spending outside debt, and $22,000 of required mortgage and auto payments.
 
-So the order is:
+$190,000 minus $40,000, minus $80,000, minus $22,000 leaves $48,000 a year, or $4,000 a month.
 
-🎬 GRAPHIC: a descending bar. Operating cash → minus tax reserve → minus known near-term bills → TRUE EMERGENCY RESERVE highlighted at the bottom.
+That round number is the household's approved monthly routing plan. It is not a promise that the live Cash Flow headline will display exactly $4,000.
 
-Operating cash, minus your tax reserve, minus any known bill that's already committed. What's left is your true emergency reserve, and that's the number every other decision in this course runs on.
+== WHY THE APP SHOWS A DIFFERENT SURPLUS ==
 
-If you're a W-2 employee with taxes withheld from your paycheck, this subtraction is usually zero and you can move straight past it. If you're self-employed, or you have payroll obligations, or a big bill is landing this quarter, do it before you look at anything else.
+The current engine calculates $36,862 of tax for this synthetic household rather than the round $40,000 teaching estimate.
 
-== THE SURPLUS WALK ==
+That creates about $4,261 a month before any extra debt strategy.
 
-Let's walk through an example. Let's say that we have a couple in Texas. He's 45, she's 43, and they have two kids. Their year is going to walk like this.
+The household has already chosen $500 a month of extra principal on the auto loan. Cash Flow includes that planned extra payment in the Debt row, so the page shows about $3,761 left after the full debt plan.
 
-🎬 GRAPHIC: the surplus walk as a descending bar. $190,000 gross → minus $40,000 taxes → minus $80,000 living → minus $22,000 debt → $48,000/yr surplus ($4,000/mo) highlighted at the bottom. Build one step at a time as I say each number.
+The household then routes $3,500 of that displayed amount to the 401(k), HSA, Roth IRA, and taxable Bridge. About $261 remains as operating cushion.
 
-They're bringing in $190,000 of gross income. Taxes are going to take about $40,000 of that, and that's federal and payroll only, because Texas doesn't have a state income tax. Their living expenses are $80,000 a year. And then their debt payments, which is their mortgage plus their car, are $22,000. When you subtract all of that from what came in, you're left with $48,000 a year, which is about $4,000 a month.
+So there are two useful numbers:
 
-That $4,000 a month is their surplus, and it's the budget that every other decision in this course has to work with. Until you've run this on your own numbers, your plan is running on a guess.
+- **Decision capacity before extra debt:** about $4,261 a month
+- **Displayed surplus after the planned extra debt:** about $3,761 a month
 
-Notice what we did not subtract. We didn't subtract retirement contributions. The 401(k) and the Roth IRA are not expenses. They're decisions, and we're going to make those decisions later. Your surplus is money that isn't already committed to taxes, to living, or to debt. Where it goes is the next question, not this one.
+The $500 difference is not missing. It is the debt decision already being funded.
 
-== THE ONE INPUT PEOPLE GET WRONG ==
+This is exactly why you trace the number instead of editing the output. If the app and a round example differ, check the current tax calculation and whether planned extra debt is already included.
 
-The number that people get wrong here, more than any other, is their spending number. Your spending number is your after-tax living expenses. It is not your gross income, and it is not your debt payments.
+== WHY DEBT IS SEPARATE FROM LIVING SPENDING ==
 
-If this couple entered their paycheck, $190,000, instead of what they actually spend, which is $80,000, the plan is now going to size their retirement to fund $110,000 a year of spending that doesn't exist. The stack it's going to tell them to build is more than double what their life actually needs. And every single projection downstream of that is wrong. Their retirement date is wrong, their confidence number is wrong, their withdrawal plan is wrong.
+This was one of the most common points of confusion in client calls.
 
-The app keeps these separate for you on purpose. There are 4 rows: income, taxes, living, and debt payments. Living is where your spending goes.
+Someone looks at living spending and says the number is too low because total monthly outflow is higher. Usually the difference is the mortgage, car payment, or another debt shown separately.
 
-== KEEP, CUT, REDUCE ==
+The app separates debt because it has an ending date.
 
-Once you know your number, the job is to find dollars that aren't buying you much in the way of happiness, safety, or future freedom. The way I like to do this is to go line by line and label every expense with one of three labels.
+If a mortgage is paid off at 67, that payment needs to disappear at 67. If it is also inside living spending, the plan funds it once as debt and keeps funding it again as living spending after it is gone.
 
-And you don't have to build that list from scratch. If you link a bank account or import your transactions, Orange Plan sorts your spending into categories for you, things like Housing, Transportation, Food and Dining, Utilities, Insurance, Entertainment, Shopping and Household. That categorized list is what you're running this pass against. The app gives you the lines. The labels are your judgment call.
+Living spending is what the household spends outside debt payments. The debt rows own the required payments, extra payments, and payoff dates.
 
-The first one is keep. These are your essentials and the things that are clearly worth the money to you. Housing, groceries, your minimum debt payments. You're not going to touch these.
+== FIND NORMAL SPENDING FROM REAL LIFE ==
 
-The second one is cut, which means eliminate it entirely. Unused subscriptions, impulse buys, lifestyle creep that showed up after your last raise. When this couple did their first pass, they found $85 a month in subscriptions that nobody in the house had opened in 90 days.
+Start with at least 3 months of account history. Use a full year when the recent period includes travel, a move, medical costs, family support, or another unusual event.
 
-The third one is reduce, which means you're going to keep the thing, but you're going to pay less for it. Insurance, your phone bill, internet, memberships. One phone call that saves you $40 a month is $480 a year, off of a call that you only had to make one time.
+One client believed normal spending was around $80,000. The year was closer to $110,000, but it included family visiting from overseas, unusual travel, and support sent to a parent.
 
-== THE THREE BIG LEVERS ==
+The answer was not automatically $80,000 or $110,000. We separated:
 
-After you've done the easy cuts, the real surplus is going to be hiding in your largest fixed costs. There are three of them.
+- what belongs in an ordinary year,
+- what was genuinely one-time,
+- and what is irregular but likely to happen again.
 
-The first one is housing. That could mean downsizing, switching rentals, or taking on a roommate. The second one is your car. Buying used instead of new, or selling a car entirely to kill a big payment. And the third is location, because your cost of living plus your state taxes are adding up every single year that you stay.
+A one-time trip does not need to become permanent monthly spending. Recurring family support is not really one-time just because it arrives unevenly.
 
-A $500 a month change in housing is $6,000 a year, every year, and you don't have to make another decision to keep getting it.
+Normal spending should represent the life the plan is expected to keep funding. If travel or gifts are important and likely to continue, include a reasonable amount. Do not remove everything enjoyable simply to improve the confidence result.
 
-Back in 2017 there was a guy named Didi Taihuttu who sold his family home in the Netherlands and moved his wife and three kids into a campsite, and he converted all of those proceeds into Bitcoin at around $900 a coin. That stack is worth several million today, and he could buy back a comparable house for a small fraction of the coins that he bought. I'm not telling you to go move your family into a campsite. I'll let you be the judge on that one. But it does show you the direction that the housing lever pulls when you're willing to pull it hard.
+== FIND BARE-BONES SPENDING ==
 
-== TWO SPENDING NUMBERS, NOT ONE ==
+Bare-bones spending answers a different question:
 
-You actually need two spending numbers, not one.
+If income stopped tomorrow, what is the temporary minimum the household could live on while still paying the bills that have to be paid?
 
-The first one is what you normally spend. That's your regular month, with the travel and the eating out and everything else in it.
+For the demo household, normal living spending is about $6,667 a month outside debt. Bare-bones spending is $5,000.
 
-The second one is what you could survive on if things got ugly. That's your bare-bones floor.
+The $5,000 includes essential housing costs outside the mortgage payment, groceries, utilities, insurance, transportation, healthcare, and other costs that cannot be paused. Flexible travel, dining, gifts, and projects can come down temporarily.
 
-Let me walk through the couple's floor. Their housing is $2,300 a month. Their car payment is $360. Groceries are $1,200. Utilities and phone are $500. Insurance is $400. And then gas and the kids' costs are $240. Add all of that up and you get $5,000 a month.
+That lower number is what the household uses for the working reserve in the next lesson.
 
-Their normal spending is $6,700 a month, and their debt payments are another $1,850 on top, so about $8,550 all in. Their floor is $5,000 all in. So that $3,550 a month gap is the travel, the eating out, and the extras that would pause in a bad year.
+== LOOK FOR THE BIG LEVERS ==
 
-That bare-bones number is what your cash reserve gets sized off of.
+This is not a course about tracking every coffee forever.
 
-== THE WITHHOLDING LEVER ==
+Review the large recurring categories and ask:
 
-One more place to look: your withholding, because it can be off in two different directions.
+- Is it essential or clearly worth the money?
+- Can we keep it and pay less?
+- Are we still paying for something we no longer value?
 
-The first one is over-withholding. If you're getting a $4,800 refund every spring, that's $400 a month of your own surplus that you spent all year pretending you didn't have. That money could have been working for you the whole time.
+Subscriptions and services are easy wins. Housing, vehicles, childcare, healthcare, and location create the largest changes when the plan needs a meaningful adjustment.
 
-The second one is under-withholding, and this is a real risk for two-earner households. If one spouse makes $150,000 and the other makes $40,000, those get taxed together, but neither employer is withholding as if it knew about the other paycheck. So you can get all the way to April and find out that you owe.
+Make the spending decision in real life, then update the plan. Do not lower the input only to make the output look better.
 
-Go check what you're withholding against what you're actually going to owe this year.
+== KEEP COMMITTED CASH OUT OF THE SURPLUS ==
 
-== ROUTE NEW INCOME THE DAY IT LANDS ==
+Money already reserved for quarterly taxes or a near-term bill is not available surplus and is not part of the emergency reserve.
 
-Last, what you do with new money. Every raise should get a decision on the same day that it lands. A $5,000 raise is about $400 a month after taxes. If you route it before it becomes lifestyle, that's real money going to work. If you tell yourself you'll figure it out later, then eighteen months goes by and the raise is just gone, and you can't even point at what you bought with it.
+If $40,000 is in savings but $15,000 belongs to taxes and $5,000 belongs to a bill due soon, only $20,000 is uncommitted before comparing it with the reserve target.
+
+== MAKE THE ROUTING NUMBER REPEATABLE ==
+
+The calculated result is the maximum available under the current inputs and strategy. The amount you automate should be something the cash flow can repeat.
+
+The demo deliberately keeps about $261 a month unassigned instead of routing every calculated dollar. I would rather leave a small operating cushion than reverse transfers every time bill timing moves.
+
+== WHERE THIS NUMBER COMES FROM ==
+
+For displayed surplus:
+
+**What it means:** money left after estimated taxes, living spending, required debt payments, and any planned extra debt already included on the page.
+
+**Calculated from:** income, engine-estimated taxes, living spending, and the full saved debt plan.
+
+**Edit source:** the underlying income, spending, tax assumptions, or debt strategy—not the headline.
+
+**This affects:** reserve funding, contribution routing, future balances, confidence, and the earliest target-qualified date.
 
 == YOUR DECISION ==
 
-Your true surplus, and your two spending numbers: normal, and bare-bones.
+Choose normal monthly living spending, bare-bones monthly spending, the extra-debt amount, and the contribution amount the household can repeat while keeping an operating cushion.
 
 == PUT IT IN ORANGE PLAN ==
 
-Cash Flow → This month. Enter income and spending until the surplus verdict is a number you believe.
+Review the Cash Flow source rows. Keep debt payments out of living spending, set bare-bones essentials in Reserve settings, and confirm whether planned extra debt is already included before routing the remaining surplus.
 
 == YOU ARE DONE WHEN ==
 
-Your surplus is in the app rather than in your head, and you can say your bare-bones number without looking it up. That second number is the one that decides how bad a year has to get before anything changes.
+You can rebuild the displayed surplus from its sources, explain the difference between capacity before extra debt and surplus after it, and state the monthly amount the household can actually repeat.

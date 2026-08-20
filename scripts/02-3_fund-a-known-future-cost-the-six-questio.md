@@ -1,90 +1,91 @@
 TELEPROMPTER SCRIPT — segment 2.3
-2.3 Fund a known future cost: the six questions
-~9.5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
-RECORD CONTINUOUSLY INTO 2.4 — one sitting, one setup. The edit splits them at
-the ✂ mark at the foot of this script. A student with no education goal watches
-this lesson and stops.
+2.3 Fund a known future cost without raiding the reserve
+~7 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
-In today's lesson, we're going to cover how to give every future cost that you already know about its own lane.
+A reserve is for what the household did not see coming.
 
-== KNOWN COSTS AREN'T EMERGENCIES ==
+A vehicle replacement, roof, home purchase, college commitment, or another planned bill needs its own funding source. If a known cost uses the emergency reserve, the household becomes unprotected after paying a bill that was already on the calendar.
 
-A known cost is anything that's already on the calendar with a date attached to it. So that's your kids' college tuition, 4 years of it starting in 8 years. It's a roof replacement that you know is coming in a ballpark year. It's a car that you're going to buy in 5 years, a wedding, a big trip, a home renovation, or the estimated taxes on a Roth conversion that you're planning. A Roth conversion just means moving money out of a pre-tax retirement account into a Roth, and paying the tax on it now so it never gets taxed again. There's a whole lesson on it later.
+== START WITH THE COMMITMENT ==
 
-Your reserve is not for any of these. Your reserve is for the things you didn't see coming. Known costs are things you did see coming. And if you confuse the two, one of two things is going to happen. Either you're going to drain your reserve to pay for something that was on the calendar the whole time, or you're going to end up selling Bitcoin at the worst possible moment because you never pre-funded it.
+Do not begin with the largest possible price.
 
-So every known cost is going to get its own lane, and the lane is just the answer to one question: where do those dollars sit between now and the day that the bill is due?
+Begin with what the household is actually committing to provide.
 
-== MATCH THE LANE TO THE TIMING ==
+A renovation may have a $60,000 dream version and a $30,000 plan. A parent may help with college without promising four years at any school. A vehicle may be funded partly from the current car and partly from cash flow.
 
-The lane depends on how far away the cost is. The further out it is, the more volatility that lane can tolerate, because you have time to recover from a bad stretch.
+The baseline should model the decision the household is making, not the highest number found online.
 
-You can see the full range on the screen, but let me walk you through the pattern. If the cost is inside of a year, that money needs to sit somewhere boring. High-yield savings, T-bills, CDs. Nothing volatile at all. I'd basically treat it like part of your reserve.
+== THE SIX QUESTIONS ==
 
-If it's one to 3 years out, you're still in short-term Treasuries or a high-yield savings account. No stocks and no Bitcoin, because that's not enough time to recover if you get a bad draw right before the bill comes due.
+For each known cost, answer:
 
-Three to 7 years out is where you can start taking some risk. A balanced mix of stocks and bonds, or something like an I-Bond ladder. I'd still keep Bitcoin out of that lane.
+1. What amount are we committing to provide?
+2. When is it likely to be needed?
+3. What is already saved?
+4. What can be paid from cash flow when it arrives?
+5. What can come from expected proceeds, assets, or deliberate financing?
+6. When must the committed amount stop depending on Bitcoin's price?
 
-And then 10 years or more is where a planned Bitcoin sell schedule can actually start to make sense. At that point, cash is the wrong answer, because the drag of holding cash that long is going to cost you more than the volatility would. If you are going to fund something out of Bitcoin, plan those sales into your low-bracket years, meaning the years when your income is small enough that the tax rate on those sales is low, and I'll cover how to find those years in the tax module.
+The answers create the funding gap and the amount of volatility the money can carry.
 
-== PRE-FUNDING VERSUS PAYING FROM FLOW ==
+== MATCH THE FUNDING LANE TO THE DATE ==
 
-I want to be careful in this section, because it's the spot where a lot of financial planning goes sideways for a Bitcoiner.
+The closer the date, the less the committed amount should depend on an asset that can be down 70% when the bill arrives.
 
-There are two ways to handle any known cost, and the right one depends on the size of it.
+- **Inside 12 months:** keep the known amount liquid and stable.
+- **1–3 years:** protect the amount the household cannot replace from cash flow.
+- **3–7 years:** some investment risk can remain, with a written schedule for moving committed dollars toward stability.
+- **7–10 years:** this is the transition lane people skip. The money can remain in the Bridge, but the plan needs year-by-year de-risking rather than waiting until year 9 and hoping Bitcoin is high.
+- **10+ years:** long-term assets can carry more of the goal, with an exit rule for when the horizon becomes shorter.
 
-Small dated costs can just get paid out of your monthly flow. If you have a $2,000 vacation coming up next summer, you don't need a separate lane for that. You set aside $200 a month starting 6 months before, and you're done.
+The principle is not that every future bill must be fully funded in cash today. It is that the amount firmly promised becomes more reliable as the due date approaches.
 
-A bigger dated cost gets its own lane, so it isn't one giant Bitcoin sale in a single year. A roof, a car, a house down payment. When the number and the date are both genuinely fixed, dividing the target by the months you've got and routing that much is a clean way to do it.
+== RUN THE DEMO VEHICLE GOAL ==
 
-But I want to say the general rule out loud, because the arithmetic above makes it sound more automatic than it is.
+The demo household plans to replace a vehicle in 5 years and sets a $35,000 purchase ceiling.
 
-A future expense needs an intentional funding plan. It does not automatically need to be fully funded before you keep buying Bitcoin or keep working on anything else.
+It expects $10,000 from the current vehicle and $5,000 from cash flow in the purchase year.
 
-That's a real distinction. Conventional planning tends to say: there's a goal, so fully fund the goal, and whatever's left over can go to investing. I don't think that's right, and it's especially not right when the thing you'd be pausing is your Bitcoin accumulation.
+That leaves $20,000 to accumulate in advance.
 
-== THE SIX QUESTIONS FOR ANY DATED COST ==
+Without assuming growth, that is about $333 a month for 5 years. The household can use current assets, future contributions, or a combination.
 
-So for any known future cost, work through six things instead of one.
+The funding plan is built around the $20,000 gap, not the $35,000 headline price.
 
-One: what amount are you actually committing to provide? Not what it might cost. What you're on the hook for.
+== THE BILL AND THE SOURCE ARE NOT TWO GOALS ==
 
-Two: what's already saved toward it?
+The life event tells the projection when the expense occurs.
 
-Three: what can come out of cash flow at the time, rather than being saved up front?
+The account, holding, or contribution route tells the household where the money comes from.
 
-Four: what portion could reasonably be financed?
+Do not increase a Bridge target for the full bill, set aside the same dollars in a separate holding, and then treat both amounts as available elsewhere.
 
-Five: what might come from Bitcoin or other investments?
+One bill gets one tracked funding source.
 
-And six: what part of it has to stop depending on Bitcoin's price as the date gets close?
+When the amount, date, or decision changes, update the life event and funding rule together.
 
-That last one is the actual risk control, and it's much narrower than "fully fund it now." Money you need in one or two years shouldn't ride on Bitcoin cooperating. Money that's further out can carry more volatility, if your household can handle it.
+== WHERE THIS NUMBER COMES FROM ==
 
-This applies to all of them. A car. A wedding. A house. Home repairs. Money going into a business. Helping family. And college, which is the one where the mistake costs the most.
+For the funding gap:
 
-College gets its own lesson, because every one of those six questions has a real answer there and it takes a while to work through properly. If you don't have children and you don't have another education goal you expect to help pay for, skip it. Your Module 2 plan is complete without it.
+**What it means:** the part of the commitment that still needs a source.
+
+**Calculated from:** commitment minus current savings, future cash flow, expected proceeds, and deliberate financing.
+
+**Edit source:** the life event and its assigned funding account or contribution plan.
+
+**This affects:** current routing, Bridge funding, future withdrawals, confidence, and the earliest target-qualified date.
 
 == YOUR DECISION ==
 
-Which of your dated costs get pre-funded, and in which lane.
+Choose which known costs belong in the baseline, the commitment amount, expected date, funding source, and de-risking point for each one.
 
 == PUT IT IN ORANGE PLAN ==
 
-Two places, because the app holds the cost and the container separately.
-
-The cost goes in at Plan → Retirement → Life events → Add event. Name it, set the year, set the amount, and if it repeats, four years of tuition, mark it recurring. That's the half that makes your projection know the bill is coming, and the half that moves your retirement date.
-
-The container is your Bridge bucket, at Strategy → Allocation. Raise the Bridge target by what you're accumulating, so the money sits somewhere that isn't going to be down 40% the year the bill lands.
-
-Then route the monthly amount at Cash Flow → Routing. For a fixed cost that's your target divided by the months you've got. You do that division, not the app.
+Add the expected bill as a life event and identify the account or contribution route funding it. Record the de-risking rule outside or inside the app where the current build flow supports it.
 
 == YOU ARE DONE WHEN ==
 
-Every known cost inside ten years either has a funding lane or a deliberate decision that monthly cash flow absorbs it. A cost you've decided to absorb is finished, not skipped.
-
-Then watch the module walkthrough, where we build cash flow and reserve in Orange Plan. If college applies to you, take the college lesson first.
-
-------------------------------------------------------------
-✂ CUT POINT — the edit splits here. Keep rolling; 2.4 starts on the next page.
+Every meaningful known cost has one commitment, one date, one funding source, and one rule for reducing volatility before the money is due.

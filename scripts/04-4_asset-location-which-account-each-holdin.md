@@ -1,68 +1,103 @@
 TELEPROMPTER SCRIPT — segment 4.4
-4.4 Asset location: which account each holding belongs in
-~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+4.4 Choose what each account should hold
+~7 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + CPA review on tax claims pending
 ============================================================
 
-In today's lesson, we're going to cover asset location, which is choosing which type of account each of your holdings should live in, so you're not paying more lifetime tax than you have to.
+Allocation answers how much of each asset the household owns.
 
-Putting the same holdings in different accounts, with no change to what you own or what you buy, can save you a meaningful amount of tax over a few decades. You're not taking more risk to get it. You're just putting each thing where it's taxed the least.
+Asset location answers where those holdings live.
 
-You have three types of tax wrappers, and the same dollar of Bitcoin sits very differently in each one.
+The same household target can produce a different tax, access, custody, and withdrawal result depending on which assets sit inside taxable, traditional, Roth, HSA, or education accounts.
 
-== THE THREE WRAPPERS ==
+== PROTECT THE JOB OF THE MONEY FIRST ==
 
-You can see the full comparison right here. Let me walk the three of them.
+Before optimizing tax, protect the timeframe.
 
-The first wrapper is the taxable brokerage. Money goes in already taxed, the growth gets taxed every year on dividends and realized gains, and when you sell, you pay tax on the gains, which is just the profit, meaning what you sold it for minus what you paid for it. You get lower rates on that gain if you held it for more than a year. What you're buying with a taxable account is flexibility. No age limits, no penalties, you can touch it whenever you want.
+Reserve cash remains liquid even though the interest may create current tax.
 
-The second wrapper is traditional, so the 401(k) and the traditional IRA. Money goes in pre-tax, so you get a deduction today. It grows tax-deferred, which just means you don't pay any tax on the growth along the way. And then everything that comes out is taxed as ordinary income. There are also RMDs, the required withdrawals, that start in your seventies, and a 10% penalty if you pull money before 59 and a half.
+Bridge money remains accessible even when a retirement wrapper could offer a tax benefit.
 
-The third wrapper is the Roth. Money goes in after tax, and then it grows tax-free forever and comes out tax-free forever. The Roth IRA also has no RMDs at all, which matters more than people realize, and we'll get into why in the tax module.
+A tax advantage is not useful when the household cannot access the money for the job it is supposed to fund.
 
-== THE PRINCIPLE ==
+== USE THE TAX WRAPPERS AS CONTEXT ==
 
-The whole lesson comes down to one principle: put your highest-growth assets in your best tax shelter.
+A taxable account offers flexible access and can create current tax from interest, dividends, and realized gains.
 
-Growth compounds, and tax drag compounds too. A high-growth asset in a taxable account is paying tax on every dividend, every rebalance, every realized gain, year after year, and that drag stacks up over decades. The exact same asset inside a Roth grows completely tax-free for those same decades. Same asset, very different ending balance.
+A traditional account may provide a current deduction or wage exclusion under its rules, grows without annual tax inside the account, and generally creates ordinary income when taxable amounts are withdrawn.
 
-== WHERE EACH HOLDING BELONGS ==
+A Roth uses after-tax contributions and can provide tax-free qualified withdrawals under current rules.
 
-So let's go holding by holding.
+Module 5 owns the detailed tax mechanics. In this lesson, the wrappers tell us about access and likely tax treatment while the holdings determine risk and return.
 
-Bitcoin. This one's a real decision. Long-term capital gains on Bitcoin run 0, 15, or 20% federal depending on your income that year, plus your state on top. Inside a Roth, those gains are shielded and never taxed at all. In a standard brokerage Roth the exposure is generally through a Bitcoin ETF, and a self-directed Roth may hold Bitcoin itself through specialized custody, with more fees, more complexity, and prohibited-transaction risk. So why not put it all there? Because access before 59 and a half depends on whether the dollars are contributions, conversions, or earnings, so don't treat the whole account as equally locked up. Most self-custody Bitcoin sits outside any wrapper, which makes it taxable by default. The pattern I think makes sense for a lot of people is a split: some Bitcoin exposure inside retirement wrappers for the tax shielding, and the majority in self-custody for the sovereignty. You're trading a little of one thing for a little of the other, and where the line sits is your call.
+== GENERAL LOCATION PRINCIPLES ==
 
-Broad index funds and individual stocks: Roth or traditional. High long-term growth is exactly what benefits most from shielding. Active trading makes taxable placement less attractive, because every sale can create recurring tax drag.
+- Tax-inefficient interest or income-producing holdings may benefit from tax shelter.
+- High expected growth can be valuable in Roth space, while concentration and permanent-loss risk still matter.
+- Tax-efficient, low-turnover holdings can fit taxable accounts when access is needed.
+- The entire household allocation must still match the target; do not optimize one account in isolation.
 
-Bonds: usually traditional. Bonds throw off ordinary-income yield every year, so sheltering that helps. Or, if you're a higher earner, munis in taxable, because the interest is tax-free. What you generally don't do is put bonds in a Roth, because their low growth doesn't justify burning your best tax-free-forever space on them.
+These are starting principles, not rules that automatically require a trade.
 
-Cash and money market: taxable. The Roth's shelter is wasted on cash's tiny growth.
+== BITCOIN CREATES A REAL LOCATION TRADE-OFF ==
 
-Rental real estate: taxable by nature. Depreciation and 1031 exchanges are the tax tools there, not account location.
+Direct taxable Bitcoin gives the owner flexible access and self-custody, while a sale can create capital-gain tax.
 
-And high-yield dividend stocks: traditional or Roth, because those dividends get taxed every single year in a taxable account.
+A Bitcoin ETF can fit more easily inside brokerage and retirement wrappers, but it is not direct self-custody and the provider controls the investment menu.
 
-== THE COUPLE'S LOCATION ==
+A self-directed retirement structure may offer different Bitcoin custody while adding fees, administration, prohibited-transaction risk, and provider dependencies that require professional review.
 
-Look at the couple's setup on the screen. Cash in taxable as Reserve, the HSA and brokerage and 529 as Bridge, the Bitcoin in self-custody as Legacy, and the 401(k) and Roth IRA holding index funds as Legacy.
+The answer is not automatically all taxable, all Roth, or all direct Bitcoin.
 
-That's decent placement. If they wanted to optimize one step further, the move would be a small Bitcoin ETF position inside the Roth for tax-free growth, while keeping the majority of their Bitcoin in self-custody. Same thesis, better wrapper on a slice of it.
+A household may keep its core long-term Bitcoin in self-custody and use a Bitcoin ETF for part of the exposure inside retirement accounts. The split depends on access, custody, account options, tax, and the job of each pool.
 
-== WHY THIS MATTERS LATER ==
+== CONFIRM THE ACCOUNT CAN HOLD THE ASSET ==
 
-One more reason this matters: where each asset sits determines your withdrawal order in retirement. The Roth generally gets drawn last, because tax-free growth is the most valuable thing you own. Traditional gets drawn to fill up the low tax brackets first. And taxable sits in the middle.
+Some workplace plans, HSAs, and education accounts cannot hold Bitcoin or a Bitcoin ETF. Others offer a limited fund menu or charge for a brokerage window.
 
-So if all of your Bitcoin is in taxable, that dictates when it gets sold and at what rate. If some of it sits in a Roth, you've got a tax-free spendable Bitcoin pool, and that opens up different retirement paycheck options entirely. We build that paycheck in the retirement income module.
+Verify the real investment options and fees before routing money. Do not assume the desired exposure exists because the wrapper is attractive.
+
+== RUN THE DEMO LOCATION ==
+
+- Reserve cash stays in the liquid taxable cash account.
+- The taxable brokerage remains accessible Bridge funding.
+- The traditional workplace account holds long-term diversified investments and part of the bond exposure available in the plan menu.
+- The Roth holds long-term growth exposure that remains inside the household's combined target.
+- The HSA supports the qualified healthcare Bridge.
+- The 529 owns the college goal.
+- Most direct Bitcoin remains self-custodied Legacy capital because direct control is part of the household's decision.
+
+This is one design, not a universal account recipe.
+
+== LOCATION IS NOT AN AUTOMATIC TRADE ORDER ==
+
+Knowing an ideal location does not mean selling everything today and rebuilding it elsewhere.
+
+A taxable sale, rollover, transfer, or custody change can create tax, fees, plan restrictions, lost benefits, or temporary allocation risk.
+
+Use new contributions, exchanges inside tax-sheltered accounts, and gradual changes first when they improve location without creating a larger problem.
+
+Implementation with tax, legal, custody, or plan-rule consequences needs its own verification.
+
+== WHERE THIS NUMBER COMES FROM ==
+
+For an account's holding mix:
+
+**What it means:** assets and percentages inside the wrapper.
+
+**Calculated from:** the holdings assigned to that account.
+
+**Edit source:** Orange Plan holding records and the real provider election.
+
+**This affects:** tax, access, risk, routing, and future withdrawal options.
 
 == YOUR DECISION ==
 
-Which holding belongs in which wrapper.
+Choose which holdings belong in each wrapper while preserving the household target and the job of the account.
 
 == PUT IT IN ORANGE PLAN ==
 
-Strategy → Allocation → account holdings. Move holdings so the tax-inefficient ones sit in the sheltered accounts.
+Review every account's holdings, timeframe, and tax treatment. Record the intended mix, then implement only the provider changes the household has actually chosen and verified.
 
 == YOU ARE DONE WHEN ==
 
-Every account's contents match the job of the wrapper it's in, and you can give the reason for each one.
-
-Then watch the walkthrough below this video, where we route it in Orange Plan.
+Every account has a clear job, its holdings support that job, the combined target remains intact, and any consequential move is identified for verification before execution.

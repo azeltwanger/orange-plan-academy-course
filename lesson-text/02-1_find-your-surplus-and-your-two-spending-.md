@@ -1,69 +1,68 @@
 # Find your surplus and your two spending numbers
 
-Your surplus is the money left each month after taxes, living expenses, and debt payments. It decides whether you can keep buying Bitcoin, keep holding through a drawdown, or get forced to sell at the bottom.
+## The equation
 
+**Income − estimated taxes − living spending − debt payments = surplus**
 
-## First, take out what is not yours
+A round teaching reconciliation for the demo is:
 
-**Tax money is not emergency money.** Neither is money already committed to a bill landing soon.
+- Income: $190,000
+- Teaching tax estimate: $40,000
+- Normal living spending: $80,000
+- Required debt payments: $22,000
+- Decision capacity: $48,000 per year, or $4,000 per month
 
-    Operating cash
-    − tax reserve (quarterly estimates, payroll obligations)
-    − known near-term bills
-    = TRUE emergency reserve
+That $4,000 is the household's approved route. It is not necessarily the exact live Cash Flow headline.
 
-This bites the self-employed hardest: the set-aside sits in the same account as everything else and looks like a cushion. It is not. Do this subtraction before you look at surplus or reserve, or every number after it is wrong. W-2 with taxes withheld? This is usually zero, and you can move straight past it.
+## Why the current app number differs
 
-## The surplus walk
+The reproducible engine run calculates:
 
-| Step | Amount |
-|---|---|
-| Gross income | $190,000 |
-| Taxes | −$40,000 |
-| Living expenses | −$80,000 |
-| Debt payments | −$22,000 |
-| **Surplus** | **$48,000/yr (~$4,000/mo)** |
+- Current tax: $36,862 per year
+- Capacity before extra debt: about $4,261 per month
+- Planned extra auto-loan principal: $500 per month
+- Cash Flow surplus after planned debt: about $3,761 per month
+- Contributions from the displayed amount: $3,500 per month
+- Operating cushion: about $261 per month
 
-Retirement contributions are *not* subtracted, because they're decisions, not expenses. Surplus is money not yet committed; where it goes is the next module's question.
+Cash Flow includes the saved extra-debt strategy inside its Debt row. The $500 difference is not missing; it is already being paid to the auto loan.
 
-## The one input people get wrong
+## Keep debt separate from living spending
 
-Your spending number is your after-tax **living** expenses. Enter your paycheck instead and the plan sizes retirement for spending that doesn't exist, and every projection downstream is wrong.
+Debt payments have payoff dates. Living spending continues until a saved change or life event says otherwise.
 
-## Keep, Cut, Reduce
+Duplicating a mortgage inside living spending and a debt row overstates current and future needs.
 
-Label every expense:
+## Normal spending
 
-- **Keep**: essentials and things clearly worth it
-- **Cut**: eliminate (unused subscriptions, lifestyle creep)
-- **Reduce**: keep it, pay less (insurance, phone, internet: one call that keeps saving every month)
+Use real account history to separate:
 
-After the easy cuts, the real surplus hides in the three big levers: **housing, car, location.** A $500/mo housing change is $6,000/yr with no further decisions.
+- ordinary recurring spending,
+- irregular but expected spending,
+- and genuine one-time events.
 
-## Two spending numbers, not one
+Normal spending should reflect the life the plan is expected to support, not the lowest number that improves the retirement result.
 
-- **Normal spending**: your regular month
-- **Bare-bones floor**: what you could survive on if things got ugly
+## Bare-bones spending
 
-The floor is what your cash reserve gets sized from.
+Bare-bones spending is the temporary minimum the household could live on if income stopped.
 
-## Also check
+The demo uses:
 
-- **Withholding**: a big spring refund is your own surplus loaned out; two-earner households risk under-withholding.
-- **New income**: route every raise the day it lands, before it becomes lifestyle.
+- Normal living spending: about $6,667 per month
+- Bare-bones essentials: $5,000 per month
 
-## Ask the AI
+## Committed cash
 
-Open **Plan Guide** and ask for *"review my expenses for ways to save."* It reads your linked spending and works the tradeoffs with you, one expense at a time.
+Cash reserved for taxes or a known near-term bill is not available surplus or emergency reserve.
 
-## Your decision
+## Where displayed surplus comes from
 
-Your true surplus, and your two spending numbers: normal, and bare-bones.
+- **What it means:** money left after current spending and the full saved debt plan
+- **Calculated from:** income, engine-estimated taxes, living spending, required debt, and planned extra debt
+- **Edit source:** underlying income, spending, tax assumptions, and debt strategy
+- **This affects:** reserve, contributions, future balances, confidence, and earliest date
 
-## Put it in Orange Plan
+## Done when
 
-Cash Flow → This month. Enter income and spending until the surplus verdict is a number you believe.
-
-## You are done when
-
-Your surplus is in the app rather than in your head, and you can say your bare-bones number without looking it up. That second number is the one that decides how bad a year has to get before anything changes.
+The household can explain normal spending, bare-bones spending, capacity before extra debt, the displayed post-debt surplus, and the repeatable contribution amount without duplicating debt payments.

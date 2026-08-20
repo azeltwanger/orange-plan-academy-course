@@ -1,95 +1,131 @@
 TELEPROMPTER SCRIPT — segment 1.3
 1.3 Read your retirement date and confidence number
-~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
-In today's lesson, we're going to cover the two numbers at the top of your plan, your earliest retirement date and your confidence number, and how to read them together.
+The retirement page gives you four related numbers:
 
-Before either one, though, I want to name what you're looking at, because this matters more than it sounds.
+- the retirement age you entered,
+- the confidence target you chose,
+- the result from the 1,000 test runs,
+- and the earliest date that reaches your target.
 
-What you're about to see is your first retirement read. It's a draft, built on the baseline you just entered and nothing else. Your cash flow decisions aren't in it. Your debt policy isn't in it. Your allocation and your tax decisions aren't in it, and neither is the order you'll eventually draw accounts down in, because you haven't made any of those decisions yet.
+They connect, but they do not mean the same thing.
 
-So hold it loosely in both directions. Don't treat an exciting date as finished, and don't dismiss the whole thing because the first number looks rough. This is a starting-point snapshot, and it becomes your actual plan as you make the decisions in the modules ahead. You'll watch it move, and watching it move is most of the point.
+This is also the first read of an unfinished plan. Cash Flow, Debt, Allocation, Tax, and Retirement Income still have decisions left. Treat the result as a baseline, not a verdict.
 
-== WHERE THE NUMBERS COME FROM ==
+== THE AGE AND SPENDING YOU ENTERED ==
 
-[🔶 F21 — INSERTED SECTION, ~45 seconds. Not from a prior dictation. It exists
-because the client calls kept returning to "where did this number come from?"
-and "which account pays for this?", and nothing in the course answered it
-directly. Keep it, rewrite it, or cut it at the mic — the graphic carries the
-idea either way.]
+The planned retirement age is the household retirement start, shown using the primary person's age.
 
-🎬 GRAPHIC: the number-flow frame. WHAT YOU CHANGE → WHAT THE APP CALCULATES → WHAT MOVES DOWNSTREAM, with the three worked rows underneath. This same frame comes back in every module walkthrough.
+Our demo household enters age 55 for Alex. In the current app, that one date ends the household's modeled earned income. Jordan is two years younger, but there is not a separate spouse-retirement-age control in this plan.
 
-Nothing in this app is typed in twice. Every number you see is calculated from something upstream of it, it has exactly one place you can edit it, and it pushes something downstream.
+The app is answering: if the household retires when Alex is 55, using these balances, income, spending, debts, life events, assumptions, and saved strategies, how often does the money last through the planning age?
 
-So for any number on your screen, you've got three questions. What is it calculated from? Where do I edit it? And what does it affect?
+Because the selected retirement date is in March, the first retirement calendar year still includes the household wages earned before that date. That is partial-year income, not Jordan working for two extra years.
 
-You can see three examples on screen. Your income, minus taxes, minus living, minus debt, gives you your surplus, and your surplus drives your reserve funding, your contribution routing, and your retirement date. A life event becomes future spending in the year you set, and that pulls from accounts, and it moves your retirement date and your confidence. And your return assumption drives your projected balances and your simulated paths, which is what sets your earliest date and your confidence number.
+The Baseline spending input is the annual living spending the plan needs to support. It is not gross income and it should not duplicate debt payments that already have their own payoff schedules.
 
-Every walkthrough in this course is going to point at those same three things when a number matters. So any time you're looking at a number and you don't know where it came from, work those three questions and you'll find it.
+The demo household uses $100,000 of retirement living spending in today's dollars. That is deliberately higher than its current $80,000 working-life spending because the household expects more travel and healthcare in the active retirement years. The reason for the difference needs to be in the plan; the number should not drift without explanation.
 
-== YOUR EARLIEST RETIREMENT DATE ==
+== THE CONFIDENCE TARGET IS YOUR STANDARD ==
 
-The date tells you when. The confidence number tells you how sturdy that date is. And most tools only show you the date.
+The confidence target is another input you choose.
 
+Orange Plan starts at 80%, and the current control allows a target from 50% to 99%.
 
-Your earliest retirement date is the year your assumptions say you could stop working. I think of it as your freedom date.
+At an 80% target, Orange Plan looks for the first retirement date where at least 800 of the 1,000 test runs lasted through the planning age.
 
-And freedom means different things depending on where you're at. It might mean full retirement, it might mean work becoming optional, or it might mean stepping back to only the things that matter to you. Whatever version you're planning for, this date is when the plan says you could safely make that move.
+A higher target asks for more cushion and generally moves the earliest date later. A lower target may move the date earlier and accepts more likelihood that the household has to adjust later.
 
-One thing to understand about the date: it's deterministic. It runs your numbers forward using the average returns from your assumptions. One line into the future, no stress test. And real markets don't work that way — which is where the confidence number comes in.
+The target does not change the planned age. The planned age is the question being tested. The target is the standard the answer is being compared with.
 
-== THE CONFIDENCE NUMBER ==
+== WHAT THE 1,000 TEST RUNS MEAN ==
 
-The confidence number takes your entire plan and runs it through a thousand different simulated futures, each one with different market results, and then it counts how many of them succeeded.
+Each test run begins with the same saved plan.
 
-You'll see this called a Monte Carlo simulation, and that's the label on the button in the app. Don't let the name throw you. All it means is running your plan a thousand times instead of once, so you're looking at a range of outcomes instead of a single guess.
+Income comes in. Taxes and spending are paid. Debts follow their schedules. Contributions and life events occur. Retirement begins. The saved funding strategy supplies the withdrawals.
 
-A client asked me a sharp question about this once. He wanted to know whether it models a bad thing happening on top of another bad thing. Like, the price already dropped 50%, does any of those runs have it dropping another 30% from there?
+The return and inflation experience changes across the runs. Some are easier. Some contain bad years or several difficult years close together.
 
-Yes. That's exactly what those thousand runs are for. Some of them are gentle, some of them stack a terrible year onto another terrible year, and a few of them are genuinely brutal. You're not looking at one guess about the future. You're looking at a spread of them, including the ugly ones.
+The result is the share of runs where the money lasted through the planning age.
 
-So if your confidence number is 82%, that means 820 of those thousand runs succeeded on your numbers.
+An 83% result would mean roughly 830 of the 1,000 runs lasted as long as planned under the saved plan.
 
-An 82% result means 820 of the 1,000 paths funded the plan as written. The other 180 fell short. Those paths tell you to test adjustments — spending a little less for a stretch, working a year longer, delaying a purchase. The score alone doesn't prove that one small change rescues all of them. And it isn't a forecast that you end up with nothing.
+It does not mean there is a 17% chance the household goes bankrupt.
 
-== READING THE TWO TOGETHER ==
+The test holds the plan constant. In real life, the household can spend less for a period, delay a large purchase, work longer, save more, or change the funding strategy.
 
-The date tells you when. The confidence number tells you how sturdy that date is.
+The cleanest interpretation is: in 83% of the runs, this saved plan did not need a change for the money to last as long as planned. In the other runs, the plan as written did not hold up all the way.
 
-Age 60 at 82% confidence is a real answer. Age 60 at 55% confidence is the same date on the screen with a much weaker plan behind it. So you want to look at both. A high confidence number, with a date you can live with — that's what we're building toward.
+That does not prove one small change fixes every unsuccessful run. It tells us where more cushion or flexibility may be needed.
 
-== WHAT THE SIMULATION IS ACTUALLY RUNNING ==
+== WHY 80% IS A STARTING POINT, NOT A MAGIC NUMBER ==
 
-Let me show you what the simulation is actually doing, because it's more than shuffling one portfolio return.
+I think 80% is a good starting target when you do not have a reason to use something else.
 
-Every one of those thousand futures runs your entire plan. It starts from your real balances today — your Bitcoin, your brokerage, your retirement accounts, your cash. In year one, every asset gets its own return based on your assumptions and its historical volatility. Then your actual life runs: income comes in, taxes go out, spending happens, withdrawals happen in your order, contributions and debt payments happen. You land on new balances. Then year two starts fresh with new market returns, and it does it again. 45 years of that is one complete future.
+Around 70% may still be workable for a household with flexible spending and a willingness to adjust. Below roughly 60%, I would start looking for a meaningful change in spending, saving, timing, or risk.
 
-Then it runs another 999 futures with different markets and counts how many succeeded. Running your real life inside every path is what makes the answer sensitive to your plan, and not just to your portfolio.
+On the other side, 95% or 99% is not automatically better. It may require working longer, spending less, or saving far more than the life the household actually wants requires.
 
-== HOW TO READ YOUR NUMBER ==
+A higher target can be right when spending is inflexible, the household wants a larger legacy, or adjustment risk is unacceptable. It remains a trade-off rather than a grade.
 
-Three things to keep in mind when you read yours:
+== READ THE DEMO RESULT ==
 
-1. A high number means fewer adjustments. 82% doesn't mean an 18% chance of going broke. It means 180 of the 1,000 paths came up short under the plan exactly as written.
-2. Watch for big moves, not small ones. Small run-to-run changes aren't meaningful. If a change to your plan moves the number 5 or 10 points, that's the change telling you something.
-3. And the number is directional. It's a stress test built on research and history, not a guarantee.
+The reproducible engine checkpoint uses:
 
-You're going to run your own confidence ring for the first time in the walkthrough at the end of this module.
+- the household retiring when Alex is 55,
+- $100,000 of retirement living spending in today's dollars,
+- an 80% Plan confidence target,
+- and the rest of the approved demo household.
+
+The result at age 55 is **94.6%**.
+
+That means about 946 of the 1,000 test runs lasted through the planning age under the saved plan.
+
+The earliest date that reaches the 80% target is **May 2032, when Alex is 51**.
+
+Those two outputs come from the same test-run process:
+
+1. At the planned household date of 55, the result is 94.6%.
+2. When Orange Plan searches earlier dates, the first date reaching 80% is age 51.
+
+The age is anchored to Alex because Alex is the primary person in the plan. Moving that date changes the household retirement start and the household earned-income transition. Each spouse's Social Security still has its own start age later.
+
+The result does not automatically mean the family should change the Plan age to 51.
+
+They can keep 55 because they prefer more cushion, test retiring earlier, spend more, take less risk, or save less aggressively. The number identifies room. The household decides what to do with it.
+
+Both outputs come from the same test-run process. Orange Plan is not comparing that result with a second retirement-date calculation.
+
+The Plan confidence target is also different from the starting-spending choices and annual spending policy on the Income page. Those answer different retirement-income questions later.
+
+== WHERE THIS NUMBER CAME FROM ==
+
+For confidence:
+
+**What it means:** the share of test runs where the money lasted through the planning age.
+
+**Calculated from:** the entire saved plan—balances, holdings, household income and its retirement date, spending, debts, life events, taxes, assumptions, and saved strategies.
+
+**Edit source:** whichever underlying input is wrong or whichever decision the household wants to test.
+
+**This affects:** the verdict shown on the plan and the earliest date meeting the chosen target.
+
+If spending is wrong, fix spending. If a Bitcoin ETF follows stock returns, fix the holding assumption. If a future cost is missing, add the life event. If timing is the decision, change the age.
+
+Do not change several inputs at once. Change one meaningful lever, rerun, and see what actually moved the result.
 
 == YOUR DECISION ==
 
-Your decision here is what confidence level you're aiming for, and which lever you'd pull if you come in under it.
-
-Pick your target before you look at your number, so the number doesn't just talk you into whatever it already says. Then decide your lever in advance, because there are really only four: work a little longer, spend a little less, save more, or change your allocation. If you pick that now, a low number turns into a to-do item instead of a bad night. And remember 100 was never the goal. A very high number usually just means you're over-saving and under-living.
+Choose the Plan confidence target and the first lever you would test when the result creates more or less room than the household expected.
 
 == PUT IT IN ORANGE PLAN ==
 
-Plan → Retirement → guardrails policy, so the app knows what on track means for you.
+On Plan → Retirement, confirm the household retirement age, Baseline spending, and the confidence target. Run or refresh the confidence check after the source inputs are current.
+
+Then read confidence at the planned age and the earliest date meeting the target together. Confirm that the displayed age is the primary person's age for the household retirement start.
 
 == YOU ARE DONE WHEN ==
 
-Your date and your confidence number are both on screen and you read them as a pair. If you're under where you want to be, you've named one lever you'd pull first. One, not four.
-
-Then watch the two walkthroughs below this video, where we set the plan up in Orange Plan and build your baseline.
+You can explain all four numbers without mixing them up, state why the spending and household-income timeline fit, and name one lever to test rather than changing the entire plan at once.

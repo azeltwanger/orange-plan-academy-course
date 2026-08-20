@@ -1,80 +1,140 @@
 TELEPROMPTER SCRIPT — segment 9.1
-9.1 Keep the plan current: the monthly pass and the annual review
-~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+9.1 Keep the plan current without rebuilding it
+~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
-In today's lesson, we're going to set the two rhythms that keep your plan current without letting maintenance take over your life.
+The plan stays useful when the facts stay current and the decisions are reviewed at the right time.
 
-A rebuild goes back and re-litigates decisions you already settled. It reacts to every price move, it feels heavy, and because it feels heavy, it gets skipped. A review updates what actually changed in your life, and nothing else. You keep the scope that small so maintenance stays cheap enough that you'll actually do it every year.
+That does not mean rebuilding everything every month.
 
-The big decisions were settled earlier in this course. Your allocation, the job you gave every debt, your tax windows, your income guardrails, your custody setup, your estate wishes. Maintenance doesn't reopen any of them. Its job is to keep the facts current underneath them.
+Use a narrow monthly update for facts, one full annual review for strategy, and an off-cycle review when a major life change affects a specific part of the plan.
 
-== WHAT MAINTENANCE IS FIGHTING: DRIFT ==
+== TWO TYPES OF DRIFT ==
 
-What maintenance is actually fighting is drift, which is the distance between what your plan says and what's true. And it comes in two forms, moving at two different speeds.
+**Data drift** means the strategy may still fit, but the facts are stale.
 
-The first form is data drift, which is facts going out of date. Your spending, your income, your balances, your account list. Nothing's wrong with the strategy. Nobody entered the update.
+Income changed. Spending moved. A Bitcoin purchase is missing. A debt was paid off. A contribution changed. A life event moved.
 
-Look at what that costs. The couple's spending creeps from $80,000 to $88,000 and nobody enters it. Run that $8,000 a year through the withdrawal math from the income module and it's about $100,000 more portfolio they actually need than the plan thinks. Nobody made a single bad decision along the way.
+**Decision drift** means the data is current, but the strategy no longer fits.
 
-The second form is plan drift, which is decisions going stale. The facts are fine, but the strategy sitting on top of them no longer fits the life underneath. The allocation you picked at 45 might not be the one you want at 60. A debt that had a job 3 years ago might have finished it.
+The household is closer to retirement. The taxable Bridge is behind. A debt changed from fixed to variable. The spouse is no longer comfortable with the custody setup. Retirement spending changed.
 
-Data drift happens constantly, in small amounts. Plan drift happens slowly, and it's a bigger conversation when it comes up. So they get two different rhythms. The monthly pass is about five minutes and it catches data drift. The annual review is one thorough pass across every area, once a year, and it catches plan drift.
+Handle data drift in the monthly pass. Handle decision drift in the annual review or after a major life event.
 
-You split the two so you'll actually keep showing up. You are not reopening your entire strategy twelve times a year just to catch a spending change that could have been entered in thirty seconds.
+That boundary keeps a transaction update from becoming a complete re-planning session.
 
-One rule ties both rhythms together: you update the plan first. The facts go in before you do any thinking about strategy, because stale numbers produce confident but wrong answers, and confident-but-wrong is the worst kind.
+== THE MONTHLY PASS HAS THREE JOBS ==
 
-== THE MONTHLY PASS IS FOUR INPUTS ==
+### 1. Record what happened
 
-The monthly job is narrow on purpose. Four inputs, not forty, because these four are the only categories that actually move a projection. Everything else on the screen is a result of them.
+Review new buys, sells, transfers, fees, contributions, debt payments, and balances that do not update automatically.
 
-Money moves: buys, sells, transfers, anything that actually happened this month. Income and expense changes. Life events, which change several numbers at once and move your goals with them. And your assumptions and targets, which most months you glance at and move past.
+A transfer between accounts owned by the same taxpayer should remain a transfer rather than becoming a sale and new purchase. A balance checkpoint is not automatically a transaction.
 
-The only one that needs judgment is the second, and the test is whether this is a new baseline or a one-off. A raise is a new baseline. A restaurant month that ran a few hundred dollars hot is noise. One month over the plan is nothing, six months over in the same direction is a new spending level, and the monthly cadence is exactly what lets you tell those apart.
+Review any imported or linked item the app holds back instead of forcing uncertain data into the plan.
 
-Anything else that needs a real decision gets flagged, and flagging is not deciding. You write down the question, and it either becomes an action this month or it waits for the annual review. You don't solve it standing up. Most months the honest action count is zero, you close the plan, and that's the normal outcome. The pass exists to prove it.
+### 2. Update changed facts
 
-== WHAT NEVER TOUCHES THE PLAN ==
+Ask whether the change belongs in the ongoing baseline.
 
-What never touches the plan is the price on the day, a loud news week, a market swing, a gut feeling, or a number that looks nicer.
+- A raise is recurring income; a one-time bonus is not.
+- Six months of higher living costs may be a new spending level; one trip is not.
+- A committed move becomes a life event and eventually a new baseline; a possible move remains a Scenario.
+- A new recurring contribution changes the route; one lump sum does not become a monthly amount.
 
-That last one is the sneaky one. Move your growth assumption up two points because a slightly better number makes the plan look better, and your freedom date jumps forward a year with nothing about your life having changed. The plan can't tell afterwards whether that came from real information or from your mood.
+### 3. Recheck the affected result
 
-The price is the one that pulls hardest, so Orange Plan is built to leave it out of the trigger entirely. Your confidence ring only asks for a recheck when an actual plan input changes, which means a red candle can't tell you your plan needs attention.
+After a material input changes, recheck the plan and the page that owns the decision.
 
-I used to check the Bitcoin price twenty times a day. Twenty. Not one of those checks ever changed a number that belonged in my plan.
+A spending increase should affect surplus, reserve funding, retirement need, confidence, and earliest date.
 
-== THE ANNUAL REVIEW IS SIX AREAS, ONE QUESTION ==
+A debt payoff should affect cash flow, debt ratios, and available routing.
 
-Once a year you do the thorough pass, and every area asks the same one question: does this decision still fit, and what would tell me if it didn't? Asking one question, area by area, is what keeps a six-area review from turning into six rebuilds.
+A contribution change should affect future account balances and the projection.
 
-The six areas are spending and cash reserve, allocation, debt, tax, custody, and estate. Every one of those is a card you already built earlier in this course, so the annual review is one lap back through a system you already own.
+When a downstream result does not move as expected, trace the number to its source before creating a new strategy.
 
-The walkthrough runs all six on screen. What I want to give you here is the question in each one, and the few answers that actually change what you do.
+== DO NOT USE THE MONTHLY PASS TO CHASE THE SCREEN ==
 
-Spending and reserve: read the guardrail verdict, hold, raise or cut, and refill the reserve toward its target, because a bad market doesn't change the target. Debt: are the ratios still in range, and is every debt still doing its assigned job? Estate: are your beneficiaries still current, remembering that a valid form generally controls instead of the will, and is the letter still accurate?
+Do not raise the Bitcoin return assumption because price had a strong month.
 
-Two of the six carry something you'd otherwise skip. In tax, the deadline is real, because the calendar closes December 31st, and the honest annual task is confirming your cost basis records still prove what you paid. No records means a basis of zero, which means tax on the entire sale price. And in custody, prove one recovery. Not "I'm pretty sure the backup works." An actual restore test on a spare device.
+Do not lower the confidence target because the latest result feels uncomfortable.
 
-Then allocation and custody share one move, and it's the one people skip. Both get re-asked at today's balance, not the balance you had when you decided. Say a Bitcoin position grew from $500,000 to $800,000 this year. The same 75% drawdown was a $375,000 paper loss last year. This year it's $600,000. The percentage didn't move, and the number you'd have to sit through nearly doubled. Custody is the same arithmetic: your setup is now guarding a lot more money than it was designed for, and you never made that decision. The market made it for you.
+Do not reset the retirement paycheck after one market move.
 
-Run this review in November. The tax area is the only one with a hard deadline, and November leaves you time to actually act on what you find. Bring three things: your plan updated through your last monthly pass, your notes from last year's review, and the checklist, so the review has a defined finish line.
+Do not turn current allocation drift into an automatic taxable trade.
 
-== THE ONE-TO-THREE ACTION RULE ==
+Market value is still real data. A large Bitcoin move changes current allocation, drawdown dollars, custody stakes, loan risk, and how much of the plan is funded today.
 
-The output of every pass, monthly or annual, is at most three actions, all finishable before the next one. A realistic list looks like: move the exchange coin to cold storage, enter the new salary, ask the CPA one question before year-end.
+Review those effects. Change a long-term assumption or policy only when the underlying view or household decision changed.
 
-A long to-do list is the single biggest reason these reviews stop happening. You open the plan, you see the backlog, you feel behind, and you close the plan. The one-to-three rule is what lets you finish the review every month, for years. And the compounding comes from finishing it.
+== RUN THE DEMO MONTHLY PASS ==
+
+This month, the demo household has three updates:
+
+- the scheduled $1,500 taxable Bridge and investment transfer occurred,
+- the $500 extra auto-loan payment occurred,
+- and spending was $1,200 above normal because of a family trip.
+
+The investment and debt records are confirmed.
+
+The trip remains in the transaction history but does not replace the $80,000 normal-spending baseline because it was a one-time event.
+
+The auto balance and payoff timing improve. The current holdings move according to the saved contribution instructions. The reliable monthly surplus remains $4,000 because the scheduled routing already came from that amount.
+
+After the updates, the household rechecks the plan. A small result change is expected; no new strategy is required.
+
+A successful monthly review can end with zero strategy changes. Its purpose is accuracy, not manufacturing homework.
+
+== THE ANNUAL REVIEW FOLLOWS THE PLAN-BUILDING ORDER ==
+
+Once a year, use current source documents and review:
+
+1. **Baseline and assumptions** — household, accounts, holdings, debts, income, spending, life events, Social Security, pension, and assumptions
+2. **Cash Flow and Reserve** — normal and bare-bones spending, reserve status, and reliable routing amount
+3. **Debt** — balances, rates, treatments, DTI, DTA, and household ceiling
+4. **Allocation and Contributions** — current and target mix, dollar drawdown, Reserve, Bridge, Legacy, and next-dollar route
+5. **Tax** — basis, current gains or losses, future windows, withholding or estimated-payment questions, and year-end actions
+6. **Retirement Income** — spending, income floor, Bridge, source strategy, annual spending-policy review, and cash refill
+7. **Protect** — custody, recovery, beneficiaries, legal roles, heir letter, insurance, and professional contacts
+8. **Scenarios and Report** — rerun the useful questions, read the finished plan, and save the annual record
+
+Complete tax-sensitive review with enough time left in the year to act.
+
+== USE TARGETED OFF-CYCLE REVIEWS ==
+
+Marriage, divorce, birth, death, major diagnosis, job loss, business sale, retirement decision, move, inheritance, large debt, property purchase, custody change, or material spending change can justify a review before the annual date.
+
+Review the affected areas. A job loss may require Cash Flow, Reserve, and retirement timing. A custody-provider change requires Protect and Estate. It does not automatically reopen every decision.
+
+== PDF AND ENCRYPTED EXPORT HAVE DIFFERENT JOBS ==
+
+The annual PDF is the readable snapshot of what the plan said after the review.
+
+The encrypted export is a passphrase-protected copy of the planning data for secure storage and portability. It is not the family-facing report.
+
+Orange Plan currently allows the encrypted export to be created, but in-app plan restore is temporarily unavailable. So do not describe the file as a restore you can use today, and do not delete the current plan or source records because an export exists.
+
+Keep the passphrase separate from the file under the household's security plan. Neither the PDF nor the encrypted export should contain a Bitcoin wallet backup or another secret.
+
+When restore becomes available again, verify the current process in the app before teaching or relying on it.
+
+== LEAVE WITH ONE TO THREE ACTIONS ==
+
+A review ends with a short prioritized list.
+
+One action may fix missing data. One may implement a decision. One may be a defined question for a CPA, attorney, custody professional, or insurance professional.
+
+Give each action an owner and date. A long list with no ownership is not a finished review.
 
 == YOUR DECISION ==
 
-Your decision out of this lesson is your two review dates. Pick a specific recurring day for the monthly one, because "first Saturday" survives and "beginning of the month" doesn't, and put the annual one in November. Then protect the boundary between them: if something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
+Choose the recurring monthly review date, annual review window, off-cycle triggers, and the maximum number of actions carried out of one review.
 
 == PUT IT IN ORANGE PLAN ==
 
-Your calendar, not the app. There is no in-app scheduler: a specific recurring day for the monthly pass, and November for the annual review.
+Use transaction updates and the source pages to keep facts current. Recheck after material changes. Save the dated report and encrypted export after the annual review, and verify the current restore status before relying on an import process.
 
 == YOU ARE DONE WHEN ==
 
-Both dates are recurring events you can see, and you have written down what you will not touch during a monthly pass. That second one is what holds the line when the price is moving.
+The review dates are scheduled, you can state what belongs in each review, and the current action list contains no more than three owned and dated items.

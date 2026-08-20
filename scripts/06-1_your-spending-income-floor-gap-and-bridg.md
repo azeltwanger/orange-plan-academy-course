@@ -1,101 +1,189 @@
 TELEPROMPTER SCRIPT — segment 6.1
-6.1 Your spending, income floor, gap, and bridge years
-~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+6.1 Build the retirement spending target, income floor, and portfolio gap
+~9 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
-In today's lesson, we're going to find the three numbers your entire retirement paycheck is built on: your spending, your income floor, and the gap between them.
+Retirement income starts with three numbers:
 
-🎬 GRAPHIC (THE MODULE VISUAL — build it here, and bring it back on screen in every lesson of this module, highlighting whichever row that lesson is working on):
-   1. What does life cost?              SPENDING
-   2. What arrives without selling?     INCOME FLOOR (Social Security + pension + other durable income)
-   3. What must the portfolio provide?  PORTFOLIO-FUNDED GAP
-   4. Which account provides it now?    TAXABLE → TRADITIONAL → ROTH, per your saved withdrawal order
-   5. What changes after a bad year?    GUARDRAIL DECISION + RESERVE REFILL PACE
+- what the household wants the plan to support,
+- what income arrives without selling an asset,
+- and what still has to come from the portfolio.
 
-That's the whole module on one screen. Five questions, in order, and every lesson from here works on one row of it.
+Once those are clear, the bridge years and first-year funding calculation make sense.
 
-One word before we start. The app calls row three the deficit. Throughout this course I'm going to call it your portfolio-funded gap, because "deficit" sounds like something has gone wrong, and it hasn't. It's just the part of your spending that your investments have to provide. Same number, clearer name, and I'll point at it on screen when we get there.
+== RETIREMENT SPENDING ==
 
-Most early-retirement plans that fail, fail in the years between the last paycheck and the first Social Security check. So we're going to price those years.
+The spending target is annual living spending, not gross income and not debt payments already modeled on their own rows.
 
-== NUMBER 1: A REALISTIC SPENDING NUMBER ==
+Module 2 already separated normal, bare-bones, irregular, and one-time costs. Here we decide which version of life retirement is supposed to fund.
 
-🎬 GRAPHIC: one stacked bar for annual spending. The bottom fills in as the floor (Social Security + pension), and the space left above it is labeled THE GAP. That gap is what the portfolio has to cover.
+The demo household currently spends $80,000 a year outside debt. It plans for $100,000 of retirement living spending in today's dollars because the early retirement years include more travel and a higher healthcare allowance.
 
-The first number is a realistic spending number, and you're going to build it from four pieces.
+That difference is deliberate. It is not a number that changed because the plan needed a better result.
 
-The first piece is baseline spending. Housing, food, insurance, utilities, transportation. The second one is flexible spending. Travel, gifts, hobbies, entertainment. This is the stuff you'd pause in a bad year. The third one is healthcare. Premiums, out-of-pocket, prescriptions, dental, vision. And the fourth is lumpy costs. The roof, a car, a wedding, dental work, the HVAC going out. The stuff that doesn't happen every year but always happens eventually.
+A dated roof, vehicle, move, or another specific large cost belongs in a life event. A reasonable amount for recurring travel, gifts, and ordinary irregular costs can remain in the annual spending target. Do not count the same cost both ways.
 
-Then run two honesty checks before you enter it. Is it realistic for the early years, because most people spend more in the first stretch of retirement, when the travel and the projects and the gifting happen. And is healthcare actually in it, because retiring before 65 can put healthcare alone into four figures a month.
+Taxes and any debt still outstanding are modeled separately. So when a retirement-year cash need is higher than $100,000, open the year and see which line created the difference rather than assuming the living-spending input changed.
 
-Land on one annual number, lumpy costs included.
+== THE INCOME FLOOR CHANGES OVER TIME ==
 
-== NUMBER 2: YOUR INCOME FLOOR ==
+The income floor is money expected to arrive without selling investments.
 
-The second number is your income floor, which is the durable income that shows up before you sell anything.
+It can include Social Security, a pension, verified rental or other recurring income, and part-time work during the years the household genuinely plans to earn it.
 
-That's Social Security. A pension, if you have one. Other recurring retirement income. Portfolio income, but only if it's real, meaning verified dividends or rent, not hoped-for yield. And part-time income, if you're actually going to have any.
+The approved demo timeline is:
 
-What the floor tells you is how much of your life is already paid for, whether the markets cooperate or not.
+- $20,000 a year of part-time income during the first 3 retirement years,
+- $30,000 a year of Alex's Social Security beginning when Alex reaches 67,
+- and another $22,000 a year when Jordan reaches 67, two years after Alex.
 
-== NUMBER 3: THE GAP ==
+All three amounts are entered in today's dollars under the app's current input convention.
 
-The third number is the gap, and it's just your spending minus your floor. The gap is the portfolio's job.
+Those dates matter. Income that begins at 67 does not fund retirement at 55, and the full $52,000 Social Security floor does not begin all at once.
 
-Two ratios come off it, and the app computes both once your spending target and your reserve are in.
+The floor is a timeline, not one permanent number. Part-time work ends, one spouse claims before the other, a pension can begin later, or another source can stop.
 
-The first is the gap divided by the portfolio. An $80,000 gap on a $2,000,000 portfolio is 4%. The same $80,000 gap on a $1,000,000 portfolio is 8%. Same lifestyle, and the portfolio is doing twice the work at half the size.
+== THE PORTFOLIO-FUNDED GAP ==
 
-The second is your reserve divided by the gap. A $160,000 reserve against an $80,000 gap is 2 years of funding without selling anything. That's your buffer measured in time, which is how I think you should measure it.
+The simple living-spending gap is:
 
-== THE GAP IS BIGGEST FIRST ==
+> Retirement living spending − recurring income = portfolio-funded gap
 
-🎬 GRAPHIC: a horizontal timeline with 3 markers. Retirement day (paycheck stops) → 59½ (retirement accounts unlock) → Social Security start (floor rises). Shade the stretch between retirement and Social Security and label it THE BRIDGE.
+For the demo household, in today's dollars and before taxes, debt, life events, or reserve refill:
 
-Your income floor doesn't turn on all at once, and that shape is the whole lesson.
+- During the first 3 retirement years, $100,000 minus $20,000 of part-time income leaves an $80,000 living-spending gap.
+- After part-time work ends and before Alex's Social Security begins, the gap returns to the full $100,000.
+- When Alex's $30,000 Social Security begins, the gap falls to $70,000.
+- When Jordan's $22,000 begins two years later, the combined $52,000 floor reduces the gap to $48,000.
 
-Take the couple. They retire at 60. The year they stop working, income goes to zero and spending has inflated to about $84,000, so the gap is the entire $84,000. At 62, if he claims then, about $38,000 of Social Security turns on and the gap drops to $46,000. When her benefit arrives, it drops again.
+The gap is not a sign that the plan failed. It is the part of retirement the investments are supposed to provide.
 
-So the biggest demand on your portfolio lands in the first few years after you stop working, when there's no floor underneath you yet. Those are your bridge years, and there are two of them worth counting.
+== TOTAL DRAW IS THE FULL APP CALCULATION ==
 
-The Social Security bridge runs from your retirement date to the day your benefit starts. That's the one that decides how much your portfolio carries alone, and it's the one I mean when I say bridge years.
+The Income page takes the simple idea one step further.
 
-The 59-and-a-half bridge runs from your retirement date to the day your retirement accounts unlock. That one decides which accounts you can touch cheaply, because before it, a traditional IRA or 401(k) withdrawal carries a 10% penalty on top of the income tax. Verify that under current law.
+On the left, it shows what the year needs:
 
-Retire at 64 and the second bridge is zero while the first one is still years long. Retire at 50 and both are long, and the account one bites first. Count both.
+- living spending,
+- dated life events,
+- taxes and remaining debt,
+- and a reserve refill when the saved policy calls for one.
 
-== PRICE THE BRIDGE ==
+Then it subtracts recurring income.
 
-Then price it. Bridge years times your early-year gap is the bridge's price tag. That one multiplication turns a vague worry about early retirement into a single number the portfolio has to produce without any help, and that number is what your Bridge bucket gets sized against.
+What remains is the **total draw** from accounts.
 
-For the couple, claiming at 67 means 7 bridge years. 7 times $84,000 is $588,000 the portfolio carries completely alone. Claiming at 62 means 2 bridge years, and 2 times $84,000 is $168,000.
+The other side shows where that draw comes from, by account and holding when the current projection can identify it.
 
-That's a $420,000 difference in what the portfolio has to carry by itself. It isn't the whole story, because claiming at 62 means a permanently smaller check, so the portfolio keeps covering part of the gap after 62 either way.
+This is the answer when someone asks why the withdrawal is higher than the spending target. The source is usually inflation, tax, debt, a life event, or refill—not a second hidden spending number.
 
-== WHEN TO CLAIM SOCIAL SECURITY ==
+== READ THE FIRST RETIREMENT CALENDAR YEAR ==
 
-Which brings us to claiming. The standard advice says wait for the bigger check, and the math behind that is true: the check grows roughly 8% a year for every year you delay past your full retirement age.
+The demo household retires in March 2036, when Alex is 55. The age-55 calendar year therefore contains two months of household wages before retirement begins.
 
-But waiting isn't free, and the standard advice leaves that out. Every year you wait, the portfolio carries the full gap by itself. For a Bitcoin-heavy plan, claiming earlier can be completely rational, because the earlier check means fewer forced Bitcoin sales during the bridge. Especially if one of those bridge years turns out to be a drawdown year.
+The $20,000 part-time-income input is in today's dollars, so the app inflates it to the year it is received. The $100,000 living-spending input works the same way.
 
-So don't default to waiting just because the check is bigger. In the app there are two one-click scenarios, claim at 62 and claim at 70, and each one re-runs your entire plan with the floor turning on at that age. Read your own bridge both ways, side by side. Make it a comparison rather than a default, and because claiming is permanent, it's one worth confirming with your advisor.
+The reproducible engine checkpoint shows:
 
-== BUILD THE RESERVE BEFORE YOU NEED IT ==
+- $129,912 of inflation-adjusted base living spending,
+- $13,439 of college expense active that year,
+- $17,400 of remaining debt payments,
+- and $10,632 of tax.
 
-Last thing, and it's the one that's specific to holding Bitcoin.
+That creates **$171,383 of total need**.
 
-If you retire at a high, and the first year of your retirement is a 70% drawdown, and you have no reserve built, you are now selling Bitcoin at the bottom to fund your groceries. That's the exact failure the reserve exists to prevent.
+The year also receives:
 
-So the retirement-sized reserve gets built before the retirement date, not after. If you're inside about 5 years of retiring, treat filling it as a real goal with a deadline on it, and fund it out of strength while the strength is there.
+- $42,557 of partial-year household wages before the March retirement date,
+- and $26,878 of inflation-adjusted part-time income.
+
+That produces **$69,435 of recurring income**.
+
+$171,383 of total need minus $69,435 of recurring income leaves a **$101,948 total draw from accounts**.
+
+The result is not “$100,000 spending minus $20,000 income.” That shortcut misses inflation, the partial retirement year, college, debt, and tax.
+
+This is the exact explanation the page needs when a learner asks where the number came from.
+
+== PRICE THE BRIDGE YEAR BY YEAR ==
+
+The income bridge runs from retirement until the later income floor turns on.
+
+For the demo household, retirement starts at 55. Part-time work ends after 3 years. Alex's Social Security begins at 67, and Jordan's begins two years later.
+
+That creates four distinct funding stages rather than one flat bridge:
+
+1. retirement plus part-time income,
+2. no part-time income and no Social Security,
+3. Alex's Social Security only,
+4. both Social Security benefits.
+
+There can also be an account-access bridge when a household retires before a particular retirement account can be used without a penalty, exception, or special strategy.
+
+Do not reduce that to “everything unlocks at 59½.” Account type, employment separation, Roth basis, plan rules, and current law can change the available options. The implementation belongs with the current tax review.
+
+The useful question is whether accessible cash and Bridge assets cover the year-by-year draw without forcing the wrong account or a Bitcoin sale during a major decline.
+
+== SOCIAL SECURITY IS A FULL-PLAN COMPARISON ==
+
+Claiming earlier can shorten the period when the portfolio carries the full gap. Waiting can increase the monthly benefit under the current formula while requiring more portfolio funding first.
+
+Compare both effects in the full plan. Health, longevity, spouse and survivor benefits, taxes, portfolio volatility, and the value of earlier cash flow all matter.
+
+Use the current Social Security records and verify the final decision under the rules in effect when claiming is close.
+
+== THE RETIREMENT CASH BUFFER ==
+
+The working reserve protected a lost paycheck. The retirement cash buffer protects portfolio-funded spending.
+
+Cash Flow owns the selected basis and target months. Income shows how the current cash fits the retirement plan.
+
+If the page reports 8 of 18 months funded, that comes from reserve cash divided by the selected monthly basis. It is not 8 months of gross income or 8 months of the entire portfolio.
+
+Build the target before retirement rather than after the first drawdown begins.
+
+== WHERE THESE NUMBERS COME FROM ==
+
+For retirement spending:
+
+**What it means:** annual living spending the saved plan is expected to support.
+
+**Calculated from:** the Baseline spending input, inflation, and dated life events.
+
+**Edit source:** Plan spending and the specific event—not the Income output.
+
+**This affects:** cash need, confidence, earliest date, spending bands, tax, and withdrawals.
+
+For recurring income:
+
+**What it means:** modeled income arriving without portfolio sales in that specific year.
+
+**Calculated from:** partial-year wages when retirement begins midyear, part-time work, Social Security, pensions, rental, and other verified sources.
+
+**Edit source:** the underlying income record, household retirement date, and source dates.
+
+**This affects:** gap, Bridge, total draw, tax, and reserve need.
+
+For total draw:
+
+**What it means:** amount needed from accounts after recurring income.
+
+**Calculated from:** living spending, life events, tax, debt, refill, and recurring income.
+
+**Edit source:** whichever underlying line created the amount.
+
+**This affects:** account sales, Bitcoin retained, taxes, loans, and long-term results.
 
 == YOUR DECISION ==
 
-Your spending number, your income floor, and both bridges.
+Choose the retirement living-spending target, the recurring income sources the household is actually counting on, and whether accessible assets can cover each stage before the full floor begins.
 
 == PUT IT IN ORANGE PLAN ==
 
-Plan → Income → Income Blueprint. Enter the spending target and your Social Security estimate; the app solves the gap. It takes the estimate as a monthly number.
+Confirm Baseline spending on Plan, enter every retirement-income source with its owner and dates, and read the first-year funding calculation on Plan → Income one line at a time.
+
+Set the cash-buffer basis and months in Cash Flow.
 
 == YOU ARE DONE WHEN ==
 
-The gap is on screen, you've counted both bridges, and you've looked at your Bridge bucket and answered honestly whether it's sized for the Social Security bridge's price tag.
+You can explain spending, the phased income floor, the first retirement-year total need and recurring income, the resulting draw, and the early Bridge without relying on one future Bitcoin price.

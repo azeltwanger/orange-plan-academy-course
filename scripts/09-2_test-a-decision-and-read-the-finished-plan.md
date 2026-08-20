@@ -1,92 +1,175 @@
 TELEPROMPTER SCRIPT — segment 9.2
 9.2 Test a decision and read the finished plan
-~10 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~9 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
-In today's lesson, we're going to do the two things that turn a plan into something you can actually use. Testing a decision against it without wrecking it, and then reading the finished document.
+Module 1 separated the baseline, expected life events, and Scenarios.
 
-Your plan answers one question. If things go roughly the way you've assumed, this is where you land. A scenario answers a completely different question, which is what happens if they don't. So you keep one baseline plan that represents your actual life and your actual intentions, and then you keep a set of saved what-ifs sitting next to it that you can compare against, one at a time, without ever disturbing the plan.
+Now we use a Scenario for its actual job: answer one question without changing the saved plan, then read the finished plan from inputs to actions.
 
-== LIFE EVENT OR SCENARIO? ==
+== BEGIN WITH ONE QUESTION ==
 
-First, the difference between a life event and a scenario, because it decides where something goes and the app enforces it.
+A useful Scenario starts with one sentence:
 
-A life event is something you genuinely expect: tuition starting in 8 years, a roof, a car, retirement itself. Those go in the plan, because leaving them out makes your projection wrong. A scenario is something you're considering or worried about: retiring 3 years earlier, moving to a no-tax state, Bitcoin dropping 50% the year after you retire. Those go in Scenarios, because putting them in the plan corrupts the baseline you measure everything else against.
+- What happens if I retire 3 years earlier?
+- What happens if Bitcoin returns are weaker?
+- What happens if retirement spending is higher?
+- What happens if Social Security begins earlier?
+- What happens if a major drawdown begins near retirement?
+- What happens if I borrow instead of sell?
 
-The test is one question: am I telling the plan what's true, or am I asking the plan a question? True things go in the plan. Questions go in Scenarios.
+The question tells you which input should change and which result should answer it.
 
-And I'll tell you the most common way people wreck their own baseline. They get curious about retiring at 55. So they go change the retirement age in the plan itself, just to see. And then they get distracted, life happens, and 3 months later they're reading a projection built on a decision they never actually made.
+Do not open every advanced control and build an entirely different household simply because the page allows it.
 
-== THE TWO KINDS OF WHAT-IF ==
+== CHANGE ONE PRIMARY LEVER FIRST ==
 
-Scenarios split into two kinds, and what you do with the answer is different for each.
+If an earlier-retirement Scenario also cuts spending, raises savings, changes returns, moves states, and adds a loan, the result cannot show what the earlier date cost.
 
-Stress tests ask, would I survive this? A bear market, a 50% drawdown right after you retire, weaker Bitcoin returns than you assumed. You're not planning for these, you're checking whether the plan holds if they happen anyway, and the answer is either you survive it or you go fix something.
+Test the retirement date first. Test spending separately. Test weaker returns separately. Combine the changes only after you understand the individual trade-offs.
 
-Choices ask, should I do this? Retire earlier, spend less, move states, claim Social Security at 62 instead of 70. There you're comparing two futures, and the answer is you weigh it, decide, and either act or drop it.
+A real decision can include several changes. The package becomes useful after the component effects are visible.
 
-== CHANGE ONE THING AT A TIME ==
+== STRESS TEST OR CHOICE ==
 
-One variable per scenario. That's the discipline that makes these useful instead of confusing.
+A **stress test** asks whether the plan remains workable under an unfavorable condition, such as weaker returns, higher inflation, a drawdown near retirement, or a large cost.
 
-Build a scenario that retires you 3 years earlier, and cuts your spending, and assumes weaker Bitcoin returns all at once, and a worse result teaches you nothing. You can't tell which of the three did it, or whether two cancelled each other out. If you want to know what three changes do together, that's a fourth scenario, read after you already understand each piece alone.
+The result should identify what breaks first and which response the household would use.
 
-== READING THE COMPARISON HONESTLY ==
+A **choice Scenario** compares a deliberate action: retire earlier, spend more, pay debt, move, claim Social Security, change allocation, sell, or borrow.
 
-When you select a saved scenario, the app puts it right next to your plan, and there are two rules for reading that comparison.
+The result should show the benefit, cost, and new risk.
 
-Read the pair, not the number. A scenario that retires you 2 years earlier at a much lower success rate is not a better plan. It's a different trade, and the trade is the thing you're actually reading.
+A stress test does not become the baseline because the result is uncomfortable. A choice becomes the baseline only after the household makes the decision.
 
-And small differences aren't differences. These are projections built on assumptions. If a scenario lands 2% away from your baseline, what it's telling you is that the change didn't really matter. Don't go reorganize your life around noise.
+== RUN THE DEMO INFLATION STRESS TEST ==
 
-== WHEN A SCENARIO GRADUATES ==
+The demo baseline uses 3% inflation.
 
-Sometimes a scenario stops being a question and becomes a decision. At that point it isn't a scenario anymore, so change the actual plan. A real decision left living in Scenarios means your baseline is wrong in a way you're going to forget about. The reverse counts too: a stress test the plan survives is completed work, not a failure.
+At the planned household retirement date, that baseline produces **94.6% confidence**.
 
-Most of your scenarios are disposable. Two aren't, and I'd keep these permanently. A deep drawdown right after retirement, which is the sequence-of-returns test and the single scenario most likely to break a Bitcoin-heavy plan. And weaker Bitcoin returns than you assumed, because a plan that only works at your optimistic growth curve is worth knowing about every year rather than once. Both feed straight into the report, which is where we're going next.
+The Scenario changes one input: inflation rises to 4%. Every other saved input remains the same.
 
-== READING THE PLAN: FOUR QUESTIONS, IN ORDER ==
+The result falls to **91.6%**, a change of **negative 3 percentage points**.
 
-A plan report gets read in the order that answers 4 questions. Where do you stand today? That's position. Where are you headed? That's trajectory. What could break it? That's risk. And what do we do about it? Those are the actions. Every number in your report belongs to one of those four.
+That tells us higher long-term spending growth makes the plan less resilient. It does not tell us the 3% baseline was wrong or that the household must change the plan today.
 
-The order matters, because each question depends on the one before it. Trajectory is computed off position. Risk is your trajectory tested against assumptions you didn't pick. Actions come out of what the risk read found. Starting in the middle means trusting numbers you never checked.
+The result remains above the household's 80% target, so this particular stress test does not create an immediate action. It tells the household that inflation is meaningful and worth monitoring.
 
-Position is the honest snapshot of today. Your net worth, what's in Bitcoin versus everything else, and what you owe. There's no judgment at this layer. You're confirming the picture is true today, and this is where stale data gets caught. If you moved that quarter Bitcoin to cold storage last month, does the report know?
+Do not invent an earliest-date change or a future estate promise from this Scenario unless the app actually reports that comparison. Use the output the Scenario owns.
 
-Trajectory is two numbers, always read as a pair. The earliest-retirement date tells you when. The confidence number tells you how sturdy that date is, and it's the share of simulated futures where the plan funds your spending all the way through. Age 60 at 82% confidence is a real answer. Age 57 at 55% confidence would be a prettier date and a worse plan, because a date on its own can always be moved earlier by assuming better returns. The confidence number is what surfaces the cost of that assumption.
+== READ THE COMPARISON IN FIVE STEPS ==
 
-Risk is the "what if I'm wrong" sections, and it's where the two scenarios you kept show up: the Bitcoin paths, the spending band, and the protection lines. Slow down on the band, because in a real plan spending isn't one number. The floor is what the plan asks you to live on in a bad stretch, the ceiling is what it lets you spend when things go well, and the couple's $80,000 sits in a band from about $72,000 to about $88,000. Then ask one question of every risk section: would I still be okay here? For the couple that's one sentence. On the Bitcoin path they did not pick, does the plan still hold at $72,000? You're checking survival, not picking the prettiest line.
+### 1. Confirm what changed
 
-Actions are the shortest section, and they're where the review actually changes anything. Same rule as the maintenance lesson: one to three finishable actions and nothing more. For the couple that's finish the cold storage move, top up the reserve, and take one conversion question to the CPA.
+Read the Scenario definition before the result. Make sure the intended age, spending, assumption, contribution, allocation, event, debt, loan, or state is the actual override.
 
-The standard for this whole read is that you can answer all 4 questions out loud, in four sentences, about your own report. There's a six-item red-flag scan in the lesson text and on the walkthrough sheet, and the walkthrough runs it against a real report on screen, so I won't list it twice.
+### 2. Read timing and confidence together
 
-== SAVE ONE PDF PER YEAR ==
+Compare planned age, confidence target, confidence result, and earliest target-qualified date when the comparison provides them.
 
-Last habit, and it's the one that makes all of this compound. Save one PDF per year, right after your annual review, while the data is fresh. Year in the filename, saved somewhere it will still exist in 10 years.
+An earlier date with less confidence is not automatically better. It shows how much cushion is being exchanged for time.
 
-That document does its real work the second time you save one, when there are two of them side by side. Because a price change by itself can't tell you whether the plan got better.
+### 3. Read cash flow and tax
 
-In 2022, my net worth dropped 75%. On price alone, that's a catastrophe. But my income hadn't changed, my spending hadn't changed, and the date barely moved. A report from that year would have shown me all three of those in a couple of minutes, while the price chart was showing me nothing but red. It works the same way in a rally: Bitcoin is worth $200,000 more and it feels great, and none of that tells you whether your spending drifted, your reserve went unfilled, or the tax question went unasked.
+What changed in spending, surplus, contributions, total draw, tax, and withdrawals?
 
-So with two reports side by side, there are four lines to read in order, and the walkthrough reads them on real documents. The one worth knowing before you get there is the second: date and confidence, as a pair. The same date at higher confidence is real improvement. An earlier date at lower confidence means an assumption moved, not the plan.
+A debt payoff may improve future cash flow while using accessible assets today. A move may reduce tax and increase housing. A conversion may reduce a future traditional balance while creating current tax.
 
-== THREE HANDOFFS ==
+### 4. Read Bitcoin, accounts, and debt
 
-You're also not the only reader. It's the agenda for a twenty-minute sit-down with your spouse, the tax pages plus the transaction export go to your CPA, and the access and estate pages go to your attorney. What matters in all three is that you're handing a professional a document rather than asking them to log into an app, and that's what lets three different people start from the same set of facts.
+Which account funds the change? How much Bitcoin is sold or retained? Does borrowing add interest, collateral, liquidation exposure, or a loan balance at death? Did the Scenario solve one gap while creating another in Reserve or Bridge?
 
-You started this course with accounts scattered everywhere and a rough guess. You're finishing with a document your family can read, your CPA can act on, and next-year-you can be measured against. That finished document is what a financial plan actually is.
+### 5. Read the long-term result and risk
+
+What happens to ending assets, estate, reserve, account mix, withdrawal pressure, and debt? Which assumption carries most of the result? Would the household still follow the plan in the bad version?
+
+== DO NOT OVERREACT TO NOISE ==
+
+A 1- or 2-point confidence difference or a small distant-dollar change may not justify a life decision when the rest of the plan is essentially the same.
+
+Look for a difference large enough to change what the household would do.
+
+When the decision depends on a small result, verify the source data, test a wider range, and focus on the trade-off rather than declaring one precise projection correct.
+
+== MOVE A DECIDED SCENARIO TO ITS SOURCE ==
+
+A Scenario graduates after the household makes the decision.
+
+Then change the real source:
+
+- retirement date or spending on Plan,
+- income or spending in Cash Flow,
+- debt treatment in Debt,
+- contribution route in Cash Flow,
+- allocation in Allocation,
+- withdrawal or borrowing policy on Income,
+- and a committed future change as a life event.
+
+Do not leave a real decision only inside Scenarios and assume the baseline knows it happened.
+
+Keep a Scenario while the comparison remains useful. Archive or delete it when the question no longer matters.
+
+== KEEP A SMALL RECURRING STRESS SET ==
+
+The demo household keeps a weaker Bitcoin-return assumption, a major drawdown near retirement, and a higher-spending or major-cost test when spending flexibility is a main risk.
+
+A household with a Bitcoin-backed loan also keeps the relevant liquidation test.
+
+Rerun the stress set after the annual baseline update. Last year's Scenario is not a current review when the inputs changed.
+
+== READ THE REPORT IN CALCULATION ORDER ==
+
+1. **Inputs and assumptions** — household, accounts, holdings, debts, income, spending, life events, state, planning age, and return assumptions
+2. **Current position** — net worth, Bitcoin quantity and percentage, cash, other holdings, and debt
+3. **Retirement result** — planned age, spending, confidence target, confidence result, and earliest target-qualified date
+4. **Cash Flow and Reserve** — source rows, surplus, spending levels, target, and months funded
+5. **Debt and Allocation** — treatments, ceiling, current and target mix, drawdown dollars, time-horizon jobs, and next-dollar route
+6. **Tax and Retirement Income** — basis, current action, future windows, spending target, income floor, total draw, source strategy, Bitcoin sold or retained, and annual policy
+7. **Protect** — custody, recovery test, single points of failure, beneficiaries, legal roles, heir letter, insurance gaps, and contacts
+8. **Actions** — the one to three next moves, owners, and dates
+
+The report summarizes the saved source rows and projection. When a number is wrong, fix the source rather than the PDF.
+
+== SUMMARIZE THE PLAN IN SIX SENTENCES ==
+
+A finished plan should be explainable without reading every page:
+
+1. This is where we stand today: net worth, Bitcoin exposure, cash, and debt.
+2. This is what normal life costs and what remains available each month.
+3. This is when the plan first reaches our confidence target and the spending it supports.
+4. This is where the next dollar goes and what a major Bitcoin drawdown means in dollars.
+5. This is how retirement pays us and which tax or borrowing questions still need professional review.
+6. This is how the family recovers, inherits, and knows where to begin.
+
+If one sentence cannot be answered, that part of the plan is not finished or not understood.
+
+== SAVE THE ANNUAL RECORD ==
+
+After the annual review, save the dated PDF and passphrase-protected encrypted export under the household's security plan.
+
+The PDF is the readable record. The encrypted export is the private planning-data copy. Orange Plan currently does not offer in-app plan restore, so do not describe or rely on that file as a restore you can use today. Keep the current plan and source records intact and verify the app's current restore status before teaching a future import process.
+
+Give each professional only the sections and records needed for their work. The report and export never contain Bitcoin secrets.
+
+== WHERE THE SCENARIO DELTA COMES FROM ==
+
+**What it means:** difference between the baseline and the defined Scenario.
+
+**Calculated from:** the same projection framework using the Scenario overrides.
+
+**Edit source:** the Scenario definition until the real decision updates its source page.
+
+**This affects:** retirement, cash-flow, tax, holding, debt, and estate comparisons.
 
 == YOUR DECISION ==
 
-Two scenarios worth keeping, and what your own report says in four sentences.
+Choose the small set of Scenarios worth keeping, the one choice currently being compared, and the six-sentence summary of the finished plan.
 
 == PUT IT IN ORANGE PLAN ==
 
-Scenarios → save a deep drawdown right after your retirement year and one choice you're genuinely weighing, then run the Monte Carlo on both.
+Build Scenarios as questions, change one primary lever first, and update the source page only after a decision is made. Read the current report after verifying inputs, then save the PDF and encrypted export for their separate jobs.
 
 == YOU ARE DONE WHEN ==
 
-You have answered the stress test out loud, read your own report in question order, and saved this year's PDF with the year in the filename. If the stress test came back no, you built the lever you'd pull as its own scenario and checked whether it actually fixes it.
-
-Then watch the module walkthrough below this video, where we build both scenarios, walk the report, and save the PDF.
+You can explain every saved Scenario, summarize the plan in six sentences, state the one to three next actions, and accurately describe what the current encrypted export can and cannot do.

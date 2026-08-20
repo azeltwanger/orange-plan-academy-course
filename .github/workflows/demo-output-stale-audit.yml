@@ -1,0 +1,60 @@
+name: Demo output stale audit
+
+on:
+  push:
+    branches:
+      - main
+      - 'course-repair/**'
+    paths:
+      - 'scripts/**'
+      - 'lesson-text/**'
+      - 'CURRENT-COURSE.md'
+      - 'DEMO-HOUSEHOLD.md'
+      - 'AUSTIN-DEMO-DECISIONS.md'
+      - 'VISUAL-PRODUCTION-BRIEFS.md'
+      - 'NUMBER-PROVENANCE-REGISTRY.md'
+      - 'BUILD-YOUR-PLAN-CROSSWALK.md'
+      - 'tools/demo_output_stale_audit.py'
+      - '.github/workflows/demo-output-stale-audit.yml'
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'lesson-text/**'
+      - 'CURRENT-COURSE.md'
+      - 'DEMO-HOUSEHOLD.md'
+      - 'AUSTIN-DEMO-DECISIONS.md'
+      - 'VISUAL-PRODUCTION-BRIEFS.md'
+      - 'NUMBER-PROVENANCE-REGISTRY.md'
+      - 'BUILD-YOUR-PLAN-CROSSWALK.md'
+      - 'tools/demo_output_stale_audit.py'
+      - '.github/workflows/demo-output-stale-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Check current demo claims
+        run: |
+          mkdir -p artifacts/demo-output-stale-audit
+          python tools/demo_output_stale_audit.py | tee artifacts/demo-output-stale-audit/REPORT.md
+      - name: Add report to job summary
+        if: always()
+        run: |
+          if [ -f artifacts/demo-output-stale-audit/REPORT.md ]; then
+            cat artifacts/demo-output-stale-audit/REPORT.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: demo-output-stale-audit
+          path: artifacts/demo-output-stale-audit
+          if-no-files-found: warn

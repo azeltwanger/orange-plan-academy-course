@@ -1,32 +1,62 @@
 # What to gather before you build the plan
 
-Your plan is only as good as its inputs. This lesson collects them once, so onboarding takes 15 minutes instead of 15 tab-switches.
+The first plan can use reasonable estimates, but every important input should be marked as **verified**, **estimated**, or **missing**.
 
-## The list
+## Income
 
-| Category | What to gather |
-|---|---|
-| Income | Gross pay per earner, side income, rental income |
-| Spending | What you actually spend monthly (living only: not paycheck, not debt payments) |
-| Accounts | Every account: bank, brokerage, retirement, HSA, 529, exchange, wallet |
-| Bitcoin | Quantity (not dollars), where it's held, cost basis if known |
-| Debts | Balance, rate, and term for each |
-| Contributions | What's going into each account annually + employer match terms |
-| Social Security | Your estimated monthly benefit from [my Social Security](https://www.ssa.gov/myaccount/) (uses your real earnings record). No account? [Quick Calculator](https://www.ssa.gov/OACT/quickcalc/) gives a rough estimate. |
+Gather recent pay stubs for every earner and records for business, rental, contract, commission, dividend, interest, or other income.
 
-## Two rules
+Verify whether the app field expects gross income rather than the take-home deposit. Separate recurring income from one-time amounts.
 
-- **Bitcoin is entered as quantity, never dollars.** The app prices it live.
-- **Leave basis blank rather than inventing it.** If you don't know what you paid, leave it. Never guess a number you can't defend.
+## Spending
 
-## Your decision
+Review at least 3 months of checking and credit-card activity. Use a longer period when recent months include unusual travel, medical costs, family support, a move, or another large event.
 
-What you're going to gather, and by when.
+Estimate normal living spending without duplicating mortgage, auto, student-loan, or other debt payments.
 
-## Put it in Orange Plan
+## Accounts, assets, and holdings
 
-Nothing yet. This one is a shoebox, not a screen. The walkthrough enters it all.
+List every account and what it actually holds:
 
-## You are done when
+- Cash and bank accounts
+- Brokerage and retirement accounts
+- HSA and education accounts
+- Pensions
+- Real estate
+- Exchanges, hardware wallets, and other Bitcoin custody
 
-Every account, balance, income source and debt is written down in one place, and the totals match what you'd tell a planner out loud.
+For Bitcoin, record the quantity and custody location. Use a current explainable estimate for assets without a live price.
+
+## Debts
+
+For every debt, gather:
+
+- Balance
+- Rate
+- Required payment
+- Fixed or variable status
+- Remaining term or payoff date
+
+For a Bitcoin-backed loan, also gather pledged Bitcoin, LTV thresholds, lender top-up and release rules, interest terms, and liquidation process.
+
+## Contributions and benefits
+
+Record current contributions by account and the exact employer-match formula. Include pensions, deferred compensation, stock compensation, and other material benefits.
+
+## Future income and life events
+
+Gather Social Security and pension estimates with the start ages and survivor terms. List the expected future changes that may affect income, spending, assets, or debt.
+
+## Cost basis
+
+Download original transaction exports from every exchange and broker, prior tax reports, and existing basis-software files.
+
+Keep unknown basis visibly unknown. Do not invent a value to make the record look complete.
+
+## Organize the sources
+
+Keep one plan folder organized by income, spending, accounts, debts, benefits, retirement income, life events, and cost basis.
+
+## Done when
+
+The major source records are in one place, each material input is marked verified, estimated, or missing, and the household can build a first plan without pretending rough numbers are final.

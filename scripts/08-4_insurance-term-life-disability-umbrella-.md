@@ -1,72 +1,139 @@
 TELEPROMPTER SCRIPT — segment 8.4
-8.4 Insurance: term life, disability, umbrella, and when to stop
-~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+8.4 Calculate the family protection gaps
+~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + licensed insurance review pending
 ============================================================
 
-In today's lesson, we're going to cover insurance, specifically the risks your stack can't cover yet.
+Insurance starts with the risk the household cannot absorb yet, not with a product.
 
-Your stack already self-insures the small stuff. That's what the reserve from earlier in the course is doing. Insurance covers the part the stack can't cover yet, which is the difference between what your family needs and what the stack already provides.
+The reserve self-insures smaller short-term problems. The investment portfolio may absorb some larger losses. Insurance covers the remaining gap when the consequence would otherwise break the family plan.
 
-Early on, that gap is huge, and insurance covers it cheaply. As the stack compounds, the gap shrinks, and your coverage can shrink with it. So the way I think about insurance is: it's protection you rent until the stack can carry the weight itself. It's not something you carry forever.
+Use a licensed professional and the actual policy contract before buying, changing, replacing, or cancelling coverage.
 
-== SIZING THE GAP ==
+== CALCULATE THE LIFE GAP ==
 
-Let's size the gap by running the Denver scenario forward 1 year. He's gone, and his $150,000 income went with him. She earns $40,000. They spend $80,000. Two kids and a mortgage.
+Add what the survivors still need:
 
-$80,000 of living spending plus $22,000 of debt payments is $102,000 they still have to cover. Minus her $40,000 of income, that's a $62,000-a-year hole, in a plan that was working fine a week ago. That hole is what insurance is for.
+- living support,
+- debts the family intends or needs to pay,
+- childcare, education, healthcare, final, and transition costs,
+- and any specific commitment the plan should protect.
 
-== TERM LIFE: THE ANCHOR ==
+Then subtract:
 
-The anchor product is term life. It covers you for a set number of years, 20 or 30, at a fixed premium. If you die inside the window, it pays your beneficiaries a fixed amount, and that payout is currently free of income tax under US law. If you don't die, it expires and pays nothing. And that's fine, because it's the cheapest coverage per dollar of protection you can buy.
+- surviving income,
+- liquid assets deliberately available,
+- verified survivor benefits,
+- and existing insurance.
 
-The standard rule of thumb is 10 times income, which for him would be $1.5 million. But that number was built for a household with no Bitcoin. So let's do the math against their actual plan instead.
+Do not automatically subtract every Bitcoin. Decide whether it is liquid, pledged, taxable on sale, assigned to another goal, or intended to remain family Legacy capital.
 
-Step one: the annual hole is $62,000. Step two: the years to cover. She's 43, and they're covering to 65, so that's 22 years. $62,000 times 22 is $1,364,000. Step three: subtract what the stack already covers, which is $175,000. That leaves about $1.19 million.
+For the demo household, current living spending is $80,000 and required debt payments are about $22,000. If Alex's $150,000 income disappears and Jordan continues earning $40,000, the first rough annual survivor gap is:
 
-So the $1.5 million rule of thumb is about $300,000 higher than the gap they actually have, and that's a real difference in premium, every month, for 22 years.
+> $80,000 living + $22,000 debt − $40,000 surviving income = $62,000
 
-And what makes this Bitcoin-specific is that if the stack does what they're planning for, that $1.19 million need shrinks every year without them buying or cancelling anything. That's the case for laddering, which is stacking terms, a longer base policy and a shorter top-up, so your coverage steps down as the stack steps up.
+That is not the coverage recommendation.
 
-One thing about timing. Term life is underwritten on your current health and priced by your age, so every year of waiting makes it more expensive. If a family depends on you and you're holding no coverage, I'd treat this as a this-month item, not a someday item.
+The real calculation changes spending after death, adds transition and family goals, accounts for survivor benefits, decides how many years the need lasts, and subtracts usable assets and current policies.
 
-And one warning, because Bitcoiners get targeted hard with this: the permanent-life pitch. "Infinite banking," "be your own bank." My honest read is that permanent products bundle insurance together with a low-yield savings component, at a much higher cost. And for a Bitcoiner, that bundle is charging you a premium to hold a savings vehicle you already replaced with a better one. If a pitch leans on the word "bank," slow down and compare the actual numbers.
+The $62,000 is the starting cash-flow question the licensed professional turns into a timed capital need.
 
-== DISABILITY ==
+== COMPARE TERM FIRST FOR A TEMPORARY NEED ==
 
-The second piece is disability, and it's under-owned by almost everyone. During your working years, you're statistically more likely to become disabled than to die. And it hits the plan in two places at once: your income stops, and the surplus flywheel stops with it.
+Term life generally provides a death benefit for a defined period.
 
-Employer coverage is often around 60%, which sounds like $90,000 for him. But take the cap and the tax off first. Group policies usually cap the monthly benefit, and if the employer paid the premium, the benefit is taxable. So what actually lands might be closer to $50,000. Add her $40,000, and they've got $90,000 against $102,000 of all-in household outflow. So they're still about $12,000 short on this rough pass, and the real comparison needs both numbers stated after tax.
+For a temporary family need, I would usually compare term coverage first because it is designed to cover a period and is often the simpler, lower-premium way to buy a given death benefit.
 
-They cover most of it, but they're still about $12,000 short on this rough pass. They'd have to cut spending, add supplemental coverage, or pull the difference from the reserve. And notice what else happened: they stopped buying Bitcoin. The plan didn't die, but it stopped growing.
+Permanent life insurance can address a lifelong need and may include cash value. It also has more costs, assumptions, surrender terms, management requirements, and lapse risk.
 
-Two things to go find out about your own policy. First, what it actually pays, after the cap and the tax. And second, how it defines disability. Own-occupation pays if you can't do your job. Any-occupation only pays if you can't do any job at all, which is a much higher bar. If the gap is real, price a supplement.
+Permanent coverage can have legitimate uses in estate liquidity, business planning, special-needs planning, or another lifelong need reviewed with qualified professionals.
 
-== UMBRELLA COVERAGE ==
+Do not buy from one attractive illustration or a banking slogan. Compare guaranteed and nonguaranteed values, fees, surrender charges, financing, ownership, and what happens under weaker assumptions.
 
-The third piece is umbrella coverage. Your home and auto policies each carry a liability limit, and umbrella sits on top and picks up where they stop.
+Under current US federal rules, death proceeds paid to a beneficiary are generally excluded from gross income, while interest, transfer-for-value, ownership, estate, and other exceptions can change the result. The CPA and attorney packets hold the final wording for review.
 
-It matters for this audience because a liability lawsuit doesn't care that your wealth is sitting in Bitcoin. A judgment above your auto limit comes out of everything else you own. Umbrella runs a few hundred dollars a year per million of coverage, and the case for it gets stronger if you're publicly known as a Bitcoiner.
+== CALCULATE THE DISABILITY GAP ==
 
-== LONG-TERM CARE ==
+A disability can reduce income while healthcare or assistance costs rise and contributions stop.
 
-The fourth piece is long-term care, and my honest advice here is: name it and park it. It's a real risk, but the products in this space are imperfect, and self-insuring through the stack is legitimate if the stack is large enough by then. The decision window is your 50s and 60s. So at 45, it's an annual review item, not an action item.
+Review the actual employer and individual policies:
 
-== THE AUDIT AND THE GRADUATION REVIEW ==
+- benefit percentage and monthly cap,
+- who paid the premium and possible tax treatment,
+- elimination period,
+- benefit period,
+- definition of disability,
+- and which bonus, commission, or business income is excluded.
 
-Pull it together with a coverage audit: every risk, your current coverage, what the stack could absorb, and the gap. One app note: Orange Plan doesn't currently track individual policies, that's marked coming soon. What the app does hold is your beneficiaries, and remember the rule from the executor lesson: policy beneficiary forms override everything. So the names on your policies need to match the names in your estate plan, and both get checked every year.
+Then compare the expected after-tax benefit with bare-bones and normal spending.
 
-And then, once a year, run what I call the graduation review. Ask: has the stack grown enough to shrink a coverage? When the answer is yes, cancel deliberately. On the review, in writing. Never by accidentally lapsing a payment. The graduation review is what turns coverage you've outgrown back into surplus you can put to work.
+The reserve may cover the waiting period. It is not automatically a substitute for years of lost earnings.
+
+== REVIEW UMBRELLA LIABILITY ==
+
+A personal umbrella can add liability and defense coverage above or outside parts of the home, auto, or renters policies, subject to required underlying limits and exclusions.
+
+It generally does not insure damage to the policyholder's own property.
+
+Review household drivers, property, rentals, business activity, public profile, and other liability exposure. Confirm the underlying limits the umbrella requires and the actual carrier terms.
+
+== NAME THE LONG-TERM-CARE DECISION ==
+
+Long-term care can create years of costs that normal health insurance does not cover in the same way.
+
+Possible sources include family support, portfolio self-insurance, insurance, a hybrid product, public benefits when eligible, or a combination.
+
+The comparison depends on age, health, state, care preference, premium, inflation protection, benefit period, elimination period, and the amount the portfolio can self-insure without damaging the spouse's plan.
+
+For a younger household, the current action may be a future review date rather than a product purchase today.
+
+== COVERAGE CHANGES WITH THE PLAN ==
+
+The life need can shrink when debts are paid, children become independent, assets grow, and the household depends less on earned income.
+
+The disability need changes when work changes or ends. Umbrella need can increase with assets and exposure.
+
+Review coverage after marriage, divorce, a child, job change, major debt, business change, estate change, or significant increase in net worth.
+
+Do not cancel existing coverage until a replacement is in force and the professional confirms the change.
+
+== VERIFY BENEFICIARIES AND CLAIM INFORMATION ==
+
+The insurer's beneficiary and ownership records need to match the estate plan.
+
+The family should know the policy exists, who the carrier is, and where the claim information is stored. The heir letter does not need an account password.
+
+Orange Plan tracks the checklist. The carrier holds the contract and beneficiary record.
+
+== WHERE THE GAPS COME FROM ==
+
+### Life gap
+
+**What it means:** family need not covered by surviving income, usable assets, verified benefits, and existing insurance.
+
+**Calculated from:** survivor cash flow, debts, commitments, transition costs, and available resources.
+
+**Edit source:** survivor assumptions and real policy records.
+
+**This affects:** coverage, premium, survivor plan, estate liquidity, and possible Bitcoin sales.
+
+### Disability gap
+
+**What it means:** required spending minus expected after-tax disability income.
+
+**Calculated from:** policy terms, tax treatment, other income, and spending.
+
+**Edit source:** real policy and Plan inputs.
+
+**This affects:** reserve, supplemental coverage, and contribution continuity.
 
 == YOUR DECISION ==
 
-Your coverage gap, as a number.
+Choose which life, disability, liability, or long-term-care gaps need a quote or professional review now and which risks the household is deliberately self-insuring.
 
 == PUT IT IN ORANGE PLAN ==
 
-Nothing in the app. Protect shows Insurance coverage as Coming soon, so the Coverage Audit worksheet stays your record.
+Track policies, owners, beneficiaries, carriers, dates, and open gaps in Protect or the Coverage Audit. Make real changes with the licensed professional and carrier.
 
 == YOU ARE DONE WHEN ==
 
-You have a life number and a disability number from the same subtraction, and both have gone to a licensed professional if they needed to. None of this is a product recommendation, and the actual coverage runs through them.
-
-Then watch the module walkthrough below this video, where we complete the Protect queue, write the letter, and arm the switch.
+Each major risk has a calculated starting gap or deliberate self-insurance decision, the real policy terms and beneficiaries are verified, and consequential changes receive licensed review.

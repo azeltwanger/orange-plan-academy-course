@@ -1,64 +1,68 @@
-# Give every debt a job and set your ceiling
+# Give every debt a deliberate treatment and set your ceiling
 
-The better question isn't "how fast can I get to zero debt?" It's "what level of debt lets this plan grow without making it fragile?"
+## Verify the terms
 
-## Tolerance first
+For each debt, confirm balance, rate, required payment, fixed or variable status, and payoff timing.
 
-The math sets a range; your psychology decides where you sit in it. Debt that keeps you up at night will make you abandon the plan mid-drawdown, and that's a bigger risk than any interest rate. If zero debt is what lets you sleep, that's your right answer.
+A Bitcoin-backed loan also needs pledged Bitcoin, LTV thresholds, top-up and release rules, interest terms, and liquidation process.
 
-## Debt is also a tool
+## Two debt pressures
 
-Cheap debt held on purpose keeps cash reachable in a bad month, and every dollar of 3% debt held while capital compounds above 3% earns you the difference. Businesses carry debt on purpose for that reason.
+### DTI
 
-## The two ratios
+**Required monthly debt payments ÷ gross monthly income**
 
-| Ratio | Formula | Measures | Bands |
-|---|---|---|---|
-| DTI | Monthly debt payments ÷ monthly gross income | Monthly survival; barely moves in a drawdown | <36% healthy · 36–43% acceptable · >43% high-risk |
-| DTA | Total debt ÷ total assets | Capacity; moves with the Bitcoin price | <30% healthy · 30–60% caution · >60% high-risk |
+Current app bands:
 
-DTI asks whether you survive this month. DTA asks how much room you have to make a move at all.
+- Healthy below 36%
+- Caution 36–43%
+- Risk above 43%
 
-## The couple
+### DTA
 
-$298k debt ÷ $745k assets = **40% DTA** (top of workable). ~$1,850/mo payments ÷ $15,800 income = **12% DTI** (well inside healthy). Their monthly picture is fine while their balance sheet is at the ceiling. Both are true at once, and DTA is the one that moves when Bitcoin does.
+**Total debt ÷ total gross assets**
 
-## The six jobs
+Current app bands:
 
-Minimum only · Extra principal · Refinance · Consolidate · Pay off in full · Monitor (asset-backed, watched by LTV, not rate).
+- Healthy below 30%
+- Caution 30–60%
+- Risk above 60%
 
-## The four tiers (by rate)
+These are guideposts, not borrowing targets.
 
-| Tier | Rate | Default job |
-|---|---|---|
-| Eliminate | >10% | Kill it. A guaranteed loss you can't outrun |
-| Evaluate | 7–10% | Situational. Your balance sheet and tolerance break the tie |
-| Strategic | <7% | Cheap money doing a job; prepaying just locks in the rate |
-| Monitor | Asset-backed | Watch the cushion, not the rate |
+## Demo household
 
-(The app renders these as Low-cost / Mid-cost / High-cost + a Monitor bucket.)
+- Total debt: $298,000
+- Required payments: about $1,833 per month
+- Gross monthly income: about $15,833
+- DTI: about 11.6%
+- Gross assets at the illustrative starting Bitcoin price: $745,000
+- DTA: about 40%
 
-## The couple
+DTA changes with asset prices even when the debt does not.
 
-- $280k mortgage @ 3.25% → Strategic, minimum only (prepay savings dwarfed by Bitcoin foregone)
-- $18k car @ 7% → Evaluate, minimum only (DTI 12%, and paying it off would drop the reserve below target)
+## Treatments
 
-Both debts got the same job for two different reasons, which is what "a job with a reason" looks like in practice.
+- Required payments only
+- Recurring extra principal
+- Planned lump-sum paydown or payoff
+- Refinance when actual terms improve the plan
+- Monitor variable-rate, collateral, or lender risk
 
-## Your decision
+The demo keeps the 3.25% mortgage on schedule and sends $500 per month of extra principal to the 7% auto loan after protecting the reserve.
 
-Two decisions out of this lesson.
+## Approved household ceiling
 
-Your ceiling, meaning the level you won't go past, whatever the ratios say is technically allowed. Start from tolerance, set it against DTA because that's the one that moves, and set it while the price is high.
+- Do not intentionally exceed 25% DTI
+- Do not add debt when DTA is 40% or higher
 
-And a job for every debt, with a reason. Not a feeling.
+These are fictional household rules, not universal borrowing limits.
 
-## Put it in Orange Plan
+## Where the ratios come from
 
-Strategy → Debt → Add debt for every debt, then set each row's job on the ledger. Cash Flow → Routing, step 2, for the extra dollars.
+- **DTI:** payments and gross income; affects monthly flexibility
+- **DTA:** debt and current assets; affects balance-sheet pressure and borrowing room
 
-## You are done when
+## Done when
 
-Every debt has a job you can give the reason for, no row reads no payoff path unless you chose it, and your ceiling is a number you have said out loud. There is no field for the ceiling, which is the point.
-
-Then watch the walkthrough below this video, where we give every debt a job in Orange Plan.
+Every debt has a reasoned treatment, the reserve remains protected, and the household ceiling is written down.

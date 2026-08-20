@@ -1,51 +1,69 @@
-# Order your contributions: which account gets funded first
+# Decide where the next dollar goes
 
-The order your next dollar flows. Each rung fills (or maxes) before the next. Free money first, guaranteed high returns second, tax shelters by quality after that.
+Use strong presumptions, then a comparison zone and deliberate split.
 
-| # | Rung | Why |
-|---|---|---|
-| 1 | Employer match | 50–100% instant return. Contribute the full match %. |
-| 2 | High-interest debt (>~7%) | Paying a 20% card = guaranteed 20% return |
-| 3 | HSA (if eligible) | The only triple-tax-advantaged account; invest it as a Roth-like medical fund |
-| 4 | Roth IRA / Roth 401(k) | Tax-free forever, no RMDs; strong for Bitcoin-heavy plans expecting a higher future bracket |
-| 5 | Traditional 401(k)/IRA to the limit | Deduction now; best if you expect a lower retirement bracket |
-| 6 | Taxable brokerage / Bitcoin | Everything after the shelters, split by your tier |
+## Read the Cash Flow result correctly
 
-**Skips:** no match → skip 1 · no high-interest debt → skip 2 · not HSA-eligible → skip 3 · income too high for Roth → look up the Backdoor Roth (watch the pro-rata rule).
+The current demo engine shows:
 
-## The couple's $4,000/mo
+- Capacity before extra debt: about $4,261 per month
+- Planned auto-loan extra principal: $500 per month
+- Displayed surplus after the full debt plan: about $3,761 per month
+- Approved contribution route after debt: $3,500 per month
+- Operating cushion: about $261 per month
 
-$1,000 401(k) (full match) + $300 HSA + $583 Roth IRA (maxed) + $2,117 Bitcoin/taxable = $4,000, spent exactly once.
+The full household decision uses $4,000 when the $500 extra debt payment and $3,500 contribution route are combined.
 
-## The routing card
+Do not subtract the extra debt payment twice. Cash Flow already includes it in the displayed Debt amount.
 
-Post the waterfall where you make money decisions. Every bonus, raise, or windfall walks down the ladder. One decision, made once, routes every future dollar.
+## Strong presumptions
 
-## Two questions about the same dollar
+1. Maintain a functional reserve.
+2. Capture valuable employer money after verifying formula and vesting.
+3. Fund the extra-debt treatment already chosen.
 
-The waterfall and your buckets answer two different questions, and both get answered every time you save.
+## Comparison questions
 
-- **Waterfall: which account?** 401(k), HSA, Roth, taxable. The **wrapper**, which decides how it's taxed.
-- **Buckets: which timeframe?** Reserve, Bridge, Legacy. The **job**, which decides what you buy inside.
+1. When is the money needed?
+2. What is the tax benefit now versus later?
+3. Can the account hold the intended exposure?
+4. Is Bridge or Legacy behind?
+5. Which benefit matters most now?
 
-A dollar into your Roth is a rung-4 decision *and* a Legacy dollar. Same dollar, two labels.
+## Approved demo route
 
-When you have a choice inside a rung, **check which bucket is behind and fund that one**. **Strategy → Allocation** shows each timeframe as Funded or Behind, so it's a glance, not a calculation.
+### Already inside Cash Flow debt
 
-⚠ An account is not a bucket. A 401(k) in a stable-value fund is a Legacy *account* holding Bridge-shaped risk.
+- Auto-loan extra principal: $500
 
-## Your decision
+### Routed from the displayed post-debt surplus
 
-Your decision here is the order your next dollar flows, the amount at each rung, and which bucket your flexible dollars fill.
+- Alex workplace employee contribution: $750
+- Alex family HSA: $625 for the qualified Healthcare Bridge
+- Jordan Roth IRA: $625 for long-term tax-free qualified growth
+- Taxable Bridge and investment allocation: $1,500
+- Contribution total after debt: $3,500
 
-Take free money first, because an employer match is the only guaranteed return you'll ever be offered. Then kill guaranteed losses, meaning high-interest debt. Then fill your tax shelters in order of quality. Everything after that is taxable or Bitcoin. And then let the buckets break the tie: once you know the account, check Allocation and put the flexible money toward whichever timeframe reads behind.
+Employer match is additional employer money, not household cash flow.
 
-You make this decision once and it routes every future dollar without you re-deciding every month. The bucket check is the only part that repeats, and it takes about 10 seconds during your monthly pass.
+Verify HSA eligibility, employer HSA contributions, IRA eligibility, and current-year limits before execution. The taxable investment amount follows target and drift rather than automatically buying more Bitcoin.
 
-## Put it in Orange Plan
+## Where the numbers come from
 
-Cash Flow → Routing → waterfall order.
+### Displayed contribution capacity
 
-## You are done when
+- **What it means:** money left after the full saved debt strategy
+- **Calculated from:** Cash Flow income, tax, living, and debt rows
+- **Edit source:** source inputs, debt strategy, and contribution plan
+- **This affects:** contributions, balances, confidence, and earliest date
 
-You know which rung the next dollar goes to without thinking about it. No match, no HSA eligibility, and no high-interest debt each complete their rung by being skipped deliberately.
+### Full route
+
+- **What it means:** extra debt plus all contribution destinations
+- **Calculated from:** reserve, match, debt, timeframe, healthcare, tax, eligibility, allocation, and operating-cushion decisions
+- **Edit source:** Debt and Cash Flow routing
+- **This affects:** account growth, accessibility, and tax path
+
+## Done when
+
+The full route fits calculated capacity, the contribution route fits displayed post-debt surplus, and the household keeps a deliberate operating cushion.

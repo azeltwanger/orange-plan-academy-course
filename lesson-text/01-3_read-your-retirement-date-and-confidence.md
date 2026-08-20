@@ -1,66 +1,66 @@
 # Read your retirement date and confidence number
 
-The app runs your plan through ~1,000 simulated market futures. The confidence number is the share of those futures where the plan funds your spending all the way through.
+The retirement page shows four related values:
 
+1. **Planned retirement age** — the household retirement start, displayed using the primary person's age
+2. **Confidence target** — the minimum standard selected by the learner
+3. **Confidence result** — the share of 1,000 test runs that lasted through planning age
+4. **Earliest target-qualified date** — the first date that reaches the selected target
 
-> ⚠ **This is your first retirement read, and it is a draft.** It is built on
-> the baseline you just entered and nothing else: no cash flow decisions, no
-> debt policy, no allocation, no tax decisions, and none of the account-drawdown order you will set later. Hold it
-> loosely in both directions. Do not treat an exciting date as finished, and do
-> not dismiss the whole thing because the first number looks rough. It becomes
-> your plan as you make the decisions in the modules ahead, and watching it
-> move is most of the point.
+## Planned age and spending
 
-## Where the numbers come from
+The demo household uses:
 
-Nothing in this app is typed in twice. Every number you see is **calculated from** something upstream, has exactly one **edit source**, and **affects** something downstream. Three questions answer almost every "where did this come from?":
+- Household retirement start: **when Alex is 55**
+- Retirement living spending: **$100,000/year in today's dollars**
+- Planning age: **95**
 
-| What you change | What the app calculates | What moves downstream |
-|---|---|---|
-| Income − taxes − living − debt | **Surplus** | Reserve funding, contribution routing, retirement date |
-| A **life event** | Future spending in that year | Account withdrawals, retirement date, confidence |
-| A **return assumption** | Projected balances and simulated paths | Earliest date and confidence number |
+The current app uses one household retirement date. Jordan is two years younger, but there is not a separate spouse-retirement-age setting in this saved plan. A March retirement date still creates partial-year household wages before retirement begins.
 
-Every walkthrough in this course points at the same three things when a number matters: **calculated from · edit source · this affects**. Any time you are looking at a number and do not know where it came from, work those three questions and you will find it.
+Baseline spending is annual living spending, not gross income and not debt payments already modeled separately.
 
-## How to read it
+The $100,000 retirement lifestyle is deliberately higher than the current $80,000 working-life spending because the household expects more travel and healthcare.
 
-| Confidence | What the app calls it |
-|---|---|
-| Above 95 | Very well funded |
-| 80 to 95 | On track |
-| 50 to 79 | Room for improvement |
-| Under 50 | Needs significant changes |
+## Confidence target
 
-Those are the app's labels. As a planning judgment, aim for somewhere in the 80 to 95 range. Below that you're carrying real shortfall risk, and pushing for 100 usually means over-saving and under-living.
+At an 80% target, the app looks for the first date where at least 800 of 1,000 runs lasted through planning age.
 
-**The date says when. The ring says how sturdy.** Read them together, always. Age 60 at 82% is a real answer; age 57 at 55% is a prettier date and a worse plan.
+- Higher target generally means more cushion and a later earliest date.
+- Lower target may mean an earlier date and more adjustment risk.
 
-## Two things it is not
+Eighty percent is a starting point, not a universal correct answer.
 
-- **Not a grade.** 80% means 8 in 10 futures needed no changes, and in the other 2, the plan survives if you cut spending for a while (the guardrails handle that, later in the course).
-- **Not a price tracker.** The ring only goes stale when a real plan input changes: balances, spending, income, dates. A red candle can't touch it.
+## Canonical demo result
 
-100% confidence was never the goal. It usually means over-saving and under-living.
+The reproducible engine checkpoint reports:
 
-**Does it model a crash on top of a crash?** Yes. Some of those runs are gentle, some stack a terrible year onto another terrible year, and a few are genuinely brutal. You're looking at a spread of futures, including the ugly ones.
+| Output | Result |
+|---|---:|
+| Confidence at the household retirement start, Alex age 55 | **94.6%** |
+| Earliest date reaching the 80% target | **May 2032 · Alex age 51** |
+| Confidence at that boundary | **80.0%** |
 
-## How the simulation is built
+A 94.6% result means about 946 of the 1,000 runs lasted through planning age under the saved plan.
 
-⚠ **Advanced Modeling → "How Orange Plan models Bitcoin: fat tails, correlations, floors and caps"** (3 min) covers fat tails, the floor and cap on Bitcoin's single-year return, and the cross-asset correlations. You do not need it to use your number. It is there so you can defend it.
+It is not a literal 5.4% probability of bankruptcy. The test holds the plan constant; a real household can adjust spending, work, savings, timing, or strategy.
 
-## Your decision
+The earliest date changes the household retirement start. The age is labelled using Alex because Alex is the primary person. Each spouse's Social Security still keeps its own start age.
 
-Your decision here is what confidence level you're aiming for, and which lever you'd pull if you come in under it.
+The output creates options; it does not automatically tell the household to move retirement from 55 to 51.
 
-Pick your target before you look at your number, so the number doesn't just talk you into whatever it already says. Then decide your lever in advance, because there are really only four: work a little longer, spend a little less, save more, or change your allocation. If you pick that now, a low number turns into a to-do item instead of a bad night. And remember 100 was never the goal. A very high number usually just means you're over-saving and under-living.
+## One test-run framework
 
-## Put it in Orange Plan
+Read confidence at the planned age and the earliest date meeting the target together. Both come from the same test-run process; there is no separate deterministic retirement result being compared with Monte Carlo.
 
-Plan → Retirement → guardrails policy, so the app knows what on track means for you.
+The Plan target is separate from the starting-spending choices and annual spending guardrails on the Income page.
 
-## You are done when
+## Where confidence comes from
 
-Your date and your confidence number are both on screen and you read them as a pair. If you're under where you want to be, you've named one lever you'd pull first. One, not four.
+- **What it means:** share of runs lasting through planning age
+- **Calculated from:** the entire saved plan, including the household income transition at retirement
+- **Edit source:** the underlying input or decision being tested
+- **This affects:** the plan verdict and earliest target-qualified date
 
-Then watch the two walkthroughs below this video, where we set the plan up in Orange Plan and build your baseline.
+## Done when
+
+The learner can explain all four numbers, identify that the displayed age controls the household retirement start, defend the spending input, and name one lever to test rather than changing several inputs at once.

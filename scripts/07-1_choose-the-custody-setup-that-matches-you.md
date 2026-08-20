@@ -1,104 +1,127 @@
 TELEPROMPTER SCRIPT — segment 7.1
-7.1 Choose the custody setup that matches your stack and family
-~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+7.1 Choose the custody setup that matches the Bitcoin and the family
+~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + custody review pending
 ============================================================
 
-In today's lesson, we're going to score your custody honestly, and then pick the level that actually matches what you're holding and who depends on it.
+The custody decision is not “which setup is the most advanced?”
 
-One thing before we start, because custody is where people get stuck longest. You do not need to master every custody setup that exists. You need to choose one level you can actually maintain, and prove that it works. That's the whole assignment. If you finish this module with a setup you understand and a recovery you've tested, you're done, and the more advanced options are there for when your amount or your family says you need them.
+It is which setup protects the amount, fits the job of the Bitcoin, and can still be recovered by the people who depend on it.
 
-Custody is more than where your Bitcoin sits. It covers whether you can reach it, whether anyone else can, and whether there's a process that still works when you're not around.
+Too little protection for a life-changing balance is a risk. So is more complexity than the household can operate.
 
-Let's separate it from inheritance up front, because people mix these. Inheritance is the legal transfer, the wills, the executor, who gets what, and the estate module covers that. This module is about securing access while you're alive and making it recoverable if you're not.
+== CUSTODY AND ESTATE ARE DIFFERENT JOBS ==
 
-In 2022, Celsius customers watched their balance sit on a screen while withdrawals were frozen. Same thing at BlockFi, same at FTX. The number on the screen was theirs. The Bitcoin was not. A Bitcoin balance in someone else's system is a claim on their Bitcoin, not ownership of yours.
+Custody is operational access:
 
-== THE 5 QUESTIONS ==
+- where the Bitcoin is held,
+- what controls it,
+- and whether recovery works when a device, person, or provider is unavailable.
 
-Custody comes down to 5 questions.
+Estate planning is legal authority and transfer:
 
-Where is the Bitcoin held? What type of custody are you using? Who knows what to do? What happens if you're unavailable? And where are the single points of failure?
+- who can act,
+- who receives the property,
+- and how the family begins.
 
-Let's run a typical Bitcoin household through them. He's 45, she's 43, two kids, ages 10 and 12. They hold 1.5 Bitcoin on a hardware wallet in a desk drawer, and a quarter Bitcoin on an exchange.
+A key can move Bitcoin without proving legal authority. A will can name an heir without teaching the heir how the wallet works. Modules 7 and 8 have to connect, but they should not be collapsed into one decision.
 
-Where is it held? They can answer that cold. Check. What type of custody? One hardware wallet, one exchange account, no passphrase. They know that too. Check. Who knows what to do? He does. She has never touched the device. That's a miss. What happens if he's unavailable? Nothing. Nobody can do anything. That's a miss. And where are the single points of failure? They've never even asked the question. Miss.
+== ASK FIVE QUESTIONS FOR EACH BALANCE ==
 
-So that's 2 out of 5. And that's a normal Bitcoin household, not a careless one. The value of the score is that it turns a vague worry into three specific jobs.
+1. Where is the Bitcoin held?
+2. What type of custody controls it?
+3. Who understands the process?
+4. What happens if the owner is unavailable?
+5. What is the largest single point of failure?
 
-== NAME THE JOB BEFORE YOU PICK THE SETUP ==
+The demo household has 1.50 BTC on one hardware wallet and 0.25 BTC at one exchange.
 
-Before you pick any setup, name the job the Bitcoin is doing, because different jobs can call for different custody.
+It can answer the first two questions. It cannot yet answer the last three well:
 
-For this couple, the 1.5 Bitcoin is long-term cold storage. It's the retirement stack, and it shouldn't move in a hurry. The quarter Bitcoin on the exchange is the buying account. But it's also quietly doing a second job that nobody assigned to it: it's what they'd reach for in an emergency. And that's a problem, because an exchange can freeze an account in exactly the week they need it.
+- only one spouse has operated the wallet,
+- recovery has not been tested,
+- the device and backup share one physical failure domain,
+- and the family has no complete process map.
 
-So name the job for each pile, so that one setup isn't covering two jobs that need different things.
+That is not a vague custody problem anymore. It is a short list of work.
 
-== THE ONE RULE THIS MODULE RUNS ON ==
+== GIVE EACH BALANCE A JOB ==
 
-Now, the one rule this entire module runs on: you document the process, never the secrets.
+The 0.25 BTC exchange balance is an operating balance for purchases and transfers. The household sets a limit on how much remains there.
 
-By secrets, I mean the things that actually move Bitcoin. The seed phrase, which is the set of words your whole wallet rebuilds from. Private keys. The passphrase. The PIN. Anyone holding one of those has your Bitcoin, full stop.
+The 1.50 BTC hardware-wallet balance is long-term Legacy capital. It should not depend on one person's memory or an untested backup.
 
-What you do write down is who holds what, what type of setup it is, and what someone should do. Never the words that unlock it. And because nothing in that document is worth stealing, you can share it with your executor and store it safely.
+A small practice wallet can have a third job: teaching and testing without exposing the main balance.
 
-== THE 4 LEVELS ==
+Name the job before choosing the custody design. A near-term operating balance and long-term family wealth do not have to use the same setup.
 
-Now the level. A custody level is how much protection a setup gives you, and what it asks back from you in skill, maintenance, and what your family has to be able to do.
+== DOCUMENT THE PROCESS, NEVER THE SECRETS ==
 
-Level 1 is a hardened exchange or broker. Small stack, or while you're still learning. Strong password, app-based two-factor, secured email, withdrawal delays on. Hardened, not neglected.
+Orange Plan and the Family Custody Map can record:
 
-Level 2 is the hardware wallet, and it's the default destination once a stack becomes meaningful. Seed offline, test transaction first, wipe-and-restore proven, and a backup medium that matches what you're protecting. Paper is cheap and it burns. Steel survives fire and flood and costs more. That's a trade you make against the size of the stack and the risks where you actually live, not a rule I'm going to hand you.
+- custody type,
+- provider or general location,
+- people involved,
+- where the process begins,
+- and the date recovery was tested.
 
-Level 3 is where the stack matters to more than just you. What defines it is that somebody other than you has to be able to recover this, whatever technique gets you there. A hardened wallet, backups that survive one loss, a process your spouse or executor can actually follow, and an annual review.
+They never receive a seed phrase, private key, passphrase, PIN, password, wallet backup, safe combination, or complete spending path.
 
-A passphrase with split access is one way to get there. It isn't the only way, and it isn't automatically the right way. Splitting access buys you dual control, meaning nobody can move the coins alone. It does not by itself buy you redundancy, and it adds a failure mode of its own when the family is confused or one of the holders can't be reached. A well documented single-signature setup with backups that survive one loss can clear this bar too. Pick the design your household can actually operate, because complexity nobody can execute isn't a higher level.
+The document should help the right person find the process without giving a thief enough information to move the Bitcoin.
 
-And Level 4 is collaborative or DIY multisig, for stacks where a single mistake is unacceptable.
+== FOUR PRACTICAL LEVELS ==
 
-The mistake is a mismatch, and it goes both directions. The Celsius customers had too little custody for what was at stake. But I've also watched people move a life-changing stack onto a hardware wallet they've never tested, which is more custody than their skill supports. Same failure, opposite direction.
+The levels are a teaching tool, not universal dollar thresholds.
 
-== EVERY LEVEL IS A TRADE ==
+**Level 1 — Hardened third-party account**
 
-There is no custody setup without a trade-off, and the trades are on the screen. The exchange costs you counterparty risk. The hardware wallet hands you back maintenance, because now one seed is one point of failure. The passphrase and split cost you complexity, because a lost passphrase is a permanent loss. And multisig costs the most complexity of all.
+Reasonable for a limited operating or learning balance when email, password, authentication, recovery, and withdrawal protections are strong. The household accepts provider and access risk.
 
-The pattern underneath all four is the same. More sovereignty always means more responsibility. More convenience always means more counterparty risk. You never actually eliminate risk in custody. You're choosing which risks you hold yourself and which ones you hand to somebody else. So match your level to your stakes and your skill, not to ideology.
+**Level 2 — Tested single-signature hardware wallet**
 
-== ONE MORE QUESTION, IF IT APPLIES TO YOU ==
+The household controls the key. The device, offline backup, receiving and sending process, and recovery test all work. One complete backup can still control the funds.
 
-Everything so far is about what type of custody you're using. There's a second question about how concentrated it is, and it only matters for some people, so I'll name it rather than teach it here.
+**Level 3 — Family-ready self-custody**
 
-If your custodial balance is big enough that losing access for a few months would change your life, or if every satoshi you own sits behind one model of one device running one manufacturer's firmware, then the advanced library has the lesson on spreading that out and what it costs you to maintain. If neither of those is you, your custody plan is complete without it.
+The setup no longer depends on one person's memory or one physical location. Another trusted person understands the process and can begin a tested recovery without a secret inside the instructions.
 
-== SIZING IT ON THE COUPLE ==
+This can be a carefully designed single-signature setup or another supported arrangement. A passphrase is not required merely to earn a higher level.
 
-Back to our household. At an illustrative $100,000 a coin, the hardware wallet is $150,000 and the exchange is $25,000.
+**Level 4 — Multi-key or professionally supported custody**
 
-The $25,000 is Level 1 money on a Level 1 setup. Honest match, as long as that exchange account is actually hardened.
+Used when one-key risk is unacceptable and the household can maintain the added key, provider, configuration, and inheritance complexity.
 
-The $150,000 is Level 3 money, because his wife and two kids depend on it, and neither kid is even a teenager. Compare that to where it's actually sitting: Level 2. And their Level 2 isn't even finished, because there's no proven wipe-and-restore and the seed is still on paper.
+More sovereignty creates more operational responsibility. More convenience creates more third-party dependence. The goal is the risk the household can actually manage.
 
-So their homework writes itself. Finish Level 2 honestly, then add the split that makes it Level 3. Two jobs, in that order.
+== APPLY THE LEVELS TO THE DEMO ==
 
-== YOUR STACK CAN OUTGROW YOUR SETUP ==
+The exchange balance remains Level 1 operating money after the account is hardened and the maximum balance is set.
 
-Nobody sets a reminder for this one. You pick a setup that matches what you're holding, then the price runs up, and that same setup is guarding three or four times as much money. You didn't make a decision. The market made it for you.
+The hardware-wallet balance has not completed Level 2 because recovery is untested.
 
-A client asked me whether at some point his self-custody gets too large. The honest answer is yes, that point exists for most people, and almost nobody notices when they cross it. So it goes on your annual review: once a year, re-ask the level question at today's balance.
+First, the household verifies the device, receive and send process, offline backup, and recovery.
 
-== CUSTODY IS NOT A PURITY TEST ==
+Then it becomes family-ready: Jordan practices on a small wallet, the components no longer share one failure domain, and the custody map gives the family a safe starting point.
 
-Last thing. The right setup is one you can maintain, explain, and recover from. If your family can't actually use it, the advanced version isn't protecting anything. You'll hear people say real Bitcoiners self-custody everything, immediately. I think that claim is wrong, and it gets people hurt. You move up a level by earning it, with skill and with need. Not with ideology.
+Only after the simpler process works does the household compare whether a multi-key or collaborative design removes more risk than it adds.
+
+== REASSESS AT TODAY'S STAKES ==
+
+A setup can become stale without the household touching it.
+
+The Bitcoin value rises, a child is born, a spouse becomes more dependent on the plan, or a provider changes its recovery process.
+
+Review the five questions annually and after a material balance, provider, family, or custody change.
+
+The app can track readiness. It cannot prove the backup works or that another person can recover. The real test supplies the proof.
 
 == YOUR DECISION ==
 
-Two decisions. Your honest score with the job each pile is doing. And which level you're going to run, including whether your custodial Bitcoin should sit at more than one institution.
-
-Match the level to what's at stake and what you can genuinely maintain, and remember a mismatch in either direction is the failure. Too little custody for the amount is the Celsius problem. Too much custody for your skill is the lost-seed problem.
+Choose the job and custody level for each Bitcoin balance, the maximum operating amount left with a third party, and the largest mismatch to fix first.
 
 == PUT IT IN ORANGE PLAN ==
 
-Nothing in the app yet. This decision goes on your Family Custody Map, which the module walkthrough fills in.
+Record custody type, people, process status, and the next readiness action in Protect. Keep every Bitcoin secret outside the app and outside the process map.
 
 == YOU ARE DONE WHEN ==
 
-You have an honest score on the five questions, a named job for each pile of Bitcoin, and the level you're going to run. A note is on your annual review to re-ask all of it at that year's balance, because the price moves and your setup doesn't.
+Every meaningful balance has a job, custody level, recovery process, and next action—and no secret exists in Orange Plan or the family instructions.

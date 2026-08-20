@@ -1,88 +1,115 @@
 TELEPROMPTER SCRIPT — segment 7.2
-7.2 Set up a hardware wallet and test recovery
-~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+7.2 Set up a hardware wallet and prove the backup works
+~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + custody review pending
 ============================================================
 
-In today's lesson, we're going to cover the hardware wallet setup, and the recovery test that proves your backup actually works before serious money depends on it.
+Owning a hardware wallet is not the same as having a recovery process.
 
-Because a seed backup is only as good as your ability to actually restore from it. And most people have never tested that.
+The setup is complete when the device is verified, receive and send details are confirmed on the trusted display, the backup remains offline, and recovery works under calm conditions.
 
-== WHERE YOUR BITCOIN ACTUALLY LIVES ==
+Follow the current instructions for the exact device and backup format. The concept is evergreen; the button-by-button procedure is not.
 
-First: your Bitcoin isn't on the device.
+== DEVICE, KEY, AND BACKUP ==
 
-When you set up a hardware wallet, it generates a seed phrase, 12 or 24 words, and every key to your Bitcoin is derived from those words. The device is just a safe place to use them. The device is replaceable. The seed is not.
+The hardware wallet signs with the private keys under its supported design without exposing them to the connected computer or phone.
 
-So if the device breaks, you rebuild the wallet on a new device from the seed, and nothing is lost. But if the seed is wrong, a broken device is the end of the stack.
+The device is replaceable. The wallet backup—and any passphrase required with it—is what recreates access when the device is lost, damaged, or reset.
 
-And there's a detail that makes this sharper: most hardware wallets wipe themselves after a set number of wrong PIN entries. That's the right feature, because it stops a thief from guessing their way in. But it also means your entire stack effectively lives on the paper backup. The device can erase itself on a Tuesday afternoon, and that piece of paper becomes the only copy in existence.
+Different wallets can use different standards and recovery formats. Do not assume every backup works in every device or app. Confirm compatibility before a real recovery or migration.
 
-== THE SIX-STEP SETUP ==
+== BUY AND VERIFY THE DEVICE ==
 
-The setup is 6 steps, and the order matters.
+Buy from the manufacturer or a verified authorized seller when the manufacturer supports one.
 
-Step one: buy the device directly from the manufacturer. Never used, never from a third-party seller. A device someone else touched can arrive with a seed they already know, and then every coin you send it is already theirs.
+Follow the official authenticity and firmware-verification process.
 
-Step two: generate a brand-new wallet on the device itself. The seed gets created by the device, and it has never existed anywhere else in the world.
+A new device should not arrive with a prewritten backup or an already-created wallet. If the package, firmware, or setup does not match official instructions, stop and contact the manufacturer through a channel found independently.
 
-Step three: write the seed down offline, and set a PIN.
+== GENERATE THE WALLET AND KEEP THE BACKUP OFFLINE ==
 
-Step four: send a small test transaction to the wallet. Something like 0.01 Bitcoin, around $1,000. Small enough that losing it is survivable, big enough that you take it seriously.
+Use the official supported application and generate a new wallet on the device.
 
-Step five, and this is where most people stop short: wipe the device. Factory reset it, on purpose, with that $1,000 sitting on it. I know that feels wrong. That's exactly why you do it.
+Record the backup exactly as instructed. Do not photograph it or type it into a computer, phone, password manager, cloud note, website, support chat, or AI tool.
 
-Step six: restore from your written seed, and confirm the test transaction reappears.
+Set the device PIN or local protection. The PIN protects that device; it does not replace the backup.
 
-That wipe-and-restore proves three things at once. The seed was written down correctly. You know the procedure, and you learned it under calm conditions. And the backup actually works.
+If a passphrase is used, the exact passphrase may open a separate wallet and may be required with the backup. A wrong passphrase can open a different empty wallet rather than produce an obvious error. Passphrase design is Advanced unless the household already understands and has tested it.
 
-If the restore works, your real stack moves over and you've proven the backup. And if it fails, you found out with $1,000 at risk instead of $150,000. I think that's a pretty good trade for an afternoon of work.
+== VERIFY RECEIVE AND SEND ON THE DEVICE ==
 
-== THE NEVER LIST ==
+Before receiving a meaningful amount, generate an address and verify it on the hardware-wallet display.
 
-The rules for the seed itself are short. The seed exists on paper or steel, offline, and nowhere else. Not in a photo, not in a password manager, not in a note app, because anything with a screen and a network connection can be read.
+Compare the address on the device with the address in the sending application. Do not rely only on copied first and last characters from transaction history.
 
-And paper degrades and burns. For a meaningful stack, the seed goes on steel, and the backups live in separate locations. We'll cover the locations in the single-points-of-failure lesson.
+Send a small amount that makes the process real without making a setup mistake catastrophic.
 
-== ONE POINTER BEFORE YOU START MOVING COIN ==
+Then send a small amount back out. Verify destination, amount, and fee on the device display before signing.
 
-One thing to know before you start sending Bitcoin to this wallet, and then I'll point you at where it's taught properly.
+If the trusted display does not match what you intended, reject the transaction.
 
-Every deposit into your wallet is its own separate chunk, and every chunk costs a fee to spend later. So a lot of very small transfers quietly raises what it costs to move your own Bitcoin down the road. If you're buying small amounts regularly, let them accumulate and transfer in fewer, larger chunks rather than moving every buy the day it happens.
+No legitimate support person needs you to approve a transaction to “secure” the wallet.
 
-That's the whole rule you need today. The advanced library has the full lesson on it, along with why you use a fresh receiving address every time. Worth watching once, before you've made a hundred small transfers rather than after.
+== TEST RECOVERY WITHOUT CREATING A NEW RISK ==
 
-== IF YOU'RE AFRAID TO TOUCH IT ==
+Use the safest supported method for the device:
 
-I want to talk to a specific person for a minute, because I run into them a lot. You bought the hardware wallet, you moved your Bitcoin onto it, and now you don't touch it. You don't plug it in, you don't update it, you don't check it, because you're scared that plugging it in is how you get robbed. A client told me almost exactly that: she doesn't plug it into anything, because she doesn't know how to keep it safe.
+- manufacturer backup-check feature,
+- restore to a compatible spare device,
+- or another documented recovery drill.
 
-If that's you, a hardware wallet is built for exactly this. The whole design is that your keys never leave the device. It doesn't hand them to your computer or your phone when you plug it in. That's the entire reason the thing exists. So plugging it into your normal computer is not the risk you think it is.
+A full wipe-and-restore can be a strong test, but do not wipe the only working device holding meaningful funds unless the backup has already been checked, the exact process is understood, and a safe fallback exists.
 
-There is one real threat to know about, and it's worth knowing precisely. There's malware that watches your clipboard and swaps the Bitcoin address you're sending to. You paste in your address, and what actually gets sent is somebody else's.
+A small practice wallet or spare device is often the better first test.
 
-The defense takes 10 seconds and it never fails: **read the address on the hardware wallet's own screen and confirm it matches what's on your computer.** The whole address, not just the first few characters. The device screen is the thing malware can't touch. That's why it has a screen.
+Recovery is proven when the expected wallet, accounts, and addresses are reproduced—not simply when an app opens.
 
-On firmware updates, I don't rush them, and I do eventually install them, because they often carry real security fixes. Being a little paranoid here isn't a bad instinct. Just don't let it turn into never.
+If a passphrase is part of the setup, test the exact backup-plus-passphrase combination.
 
-== PIN VERSUS SEED PHRASE ==
+== SEPARATE THE FAILURE DOMAINS ==
 
-And there's a distinction that resolves a fear I hear constantly: what if I die and nobody knows my PIN?
+A device and backup in the same desk can disappear in the same fire, flood, theft, or move.
 
-Your PIN protects the device. That's all it does. If someone gets the physical device, the PIN is what stops them.
+Separate the events that can remove them. A durable metal backup can reduce physical damage risk, but it does not solve theft, discovery, or family access on its own.
 
-Your seed phrase IS your Bitcoin. It works in any hardware wallet from any manufacturer.
+The right locations depend on the household, legal access, privacy, and whether another component is required to spend.
 
-So if something happens to you and your family doesn't know your PIN, that's fine. They don't need it. They buy a new hardware wallet, restore from the seed phrase, and the Bitcoin is there. The PIN dies with the device and it doesn't matter.
+== SOFTWARE AND SUPPORT ==
 
-That also means the reverse is true, and it's the part to take seriously: **protecting the PIN is not protecting your Bitcoin.** The seed phrase is the thing that needs the real protection.
+Use official software and independently verify the source of updates.
+
+Before an update, confirm the backup and recovery process are current. Do not type the wallet backup into a computer because an update or support message asks for it.
+
+Urgent unsolicited support is a reason to stop, not a reason to act faster.
+
+== LET THE FAMILY PRACTICE SAFELY ==
+
+The spouse or executor's first recovery should not be the main balance after the owner dies.
+
+Use a small practice wallet. Let the person follow the process-level instructions and explain the sequence back without exposing the main backup.
+
+This teaches what the device, backup, passphrase, provider, and legal process each do.
+
+== WHERE READINESS COMES FROM ==
+
+A recovery-ready status is based on:
+
+- verified device and software,
+- offline backup,
+- confirmed receive and send,
+- successful supported recovery test,
+- separated failure domains,
+- and another person understanding the process when the household requires it.
+
+Orange Plan records status and date. The real custody process supplies the proof.
 
 == YOUR DECISION ==
 
-Whether your recovery actually works, which is not a thing you can decide by believing it.
+Choose the recovery test, backup locations, and the other person who needs to understand the process.
 
 == PUT IT IN ORANGE PLAN ==
 
-Nothing to enter. This one happens on a device.
+Record device type and completion status in Protect. Mark recovery complete only after the supported test succeeds. Never enter the backup, passphrase, PIN, or private key.
 
 == YOU ARE DONE WHEN ==
 
-You have wiped and restored from your backup, on a device, and watched the balance come back. Until that has happened, you have a hardware wallet and a hope.
+A small receive and send work, details were verified on the device, recovery succeeded safely, and the required family participant knows where the process begins.

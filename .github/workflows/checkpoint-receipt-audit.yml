@@ -1,0 +1,56 @@
+name: Checkpoint receipt audit
+
+on:
+  push:
+    branches:
+      - main
+      - 'course-repair/**'
+    paths:
+      - 'demo/receipts/**'
+      - 'demo/checkpoint-receipt.schema.json'
+      - 'demo/CHECKPOINT-RECEIPTS.md'
+      - 'tools/checkpoint_receipt_audit.py'
+      - '.github/workflows/checkpoint-receipt-audit.yml'
+  pull_request:
+    paths:
+      - 'demo/receipts/**'
+      - 'demo/checkpoint-receipt.schema.json'
+      - 'demo/CHECKPOINT-RECEIPTS.md'
+      - 'tools/checkpoint_receipt_audit.py'
+      - '.github/workflows/checkpoint-receipt-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the course
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate checkpoint receipts
+        run: |
+          mkdir -p artifacts/checkpoint-receipt-audit
+          python tools/checkpoint_receipt_audit.py | tee artifacts/checkpoint-receipt-audit/CHECKPOINT-RECEIPT-REPORT.md
+
+      - name: Add report to the job summary
+        if: always()
+        run: |
+          if [ -f artifacts/checkpoint-receipt-audit/CHECKPOINT-RECEIPT-REPORT.md ]; then
+            cat artifacts/checkpoint-receipt-audit/CHECKPOINT-RECEIPT-REPORT.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload checkpoint receipt audit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: checkpoint-receipt-audit
+          path: artifacts/checkpoint-receipt-audit
+          if-no-files-found: warn

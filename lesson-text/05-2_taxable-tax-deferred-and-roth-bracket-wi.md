@@ -1,45 +1,53 @@
-# Taxable, tax-deferred, and Roth: bracket windows and state taxes
+# Read the three tax buckets and find the useful windows
 
-*US-specific. Verify all thresholds in the year you use them.*
+## Three tax pools
 
-Three dials set your tax bill: **where your money sits, when you act, and where you live when you act.**
+### Taxable
 
-## Where it sits: three buckets
+Direct Bitcoin, brokerage, cash interest, and other assets outside retirement wrappers. Sales and other taxable dispositions may create gains or losses; interest and dividends can create current income.
 
-| Bucket | In | Growth | Out | Forced? |
-|---|---|---|---|---|
-| Taxable | Taxed | Gains taxed | Gains only, cap-gains rates | No |
-| Tax-deferred | Pre-tax | Deferred | Ordinary income | RMDs at 73 |
-| Roth | After-tax | Never taxed | Never taxed | No (Roth IRA) |
+### Traditional / tax-deferred
 
-Each year you choose which bucket money comes from, and that choice sets your rate. All-in on any one bucket removes your future choices.
+Pre-tax or deductible contributions under account rules, tax-deferred growth, ordinary-income treatment for taxable withdrawals and conversions, and possible future required distributions.
 
-## When you act: reading a bracket
+### Roth
 
-Income is taxed in slices; "the 22% bracket" means the *next dollar* is taxed at 22%. The space to the next line is your **room**: a measurable amount you can fill.
+After-tax contributions and possible tax-free qualified withdrawals. Under current federal rules, owners of Roth IRAs and designated Roth employer accounts generally do not take lifetime RMDs; inherited-account rules still apply.
 
-Your income road has three stages: **early retirement** (paychecks stop; income drops to its lowest ever, and only the *gain* on a sale counts as income, so a couple can often fund a full year of spending inside the 0% long-term-gains room and pay $0 (read the current ceiling off the Tax page; it moves every year)), **pre-Social Security** (still flexible; keep filling low brackets on purpose), and **Social Security + RMDs** (income jumps and stays up). The cheap years have a hard deadline, and most people waste them because nobody said the window existed.
+## Tax timeline
 
-## Where you live: the state lever
+Review working-income years, lower-income retirement years, Social Security and pension starts, and the applicable RMD stage.
 
-When you sell, you owe federal tax, and then your state can tax the same gain again at its own rate. Most states tax a capital gain as ordinary income with no special long-term rate; a handful do not tax income at all. **The state that charges you is the one you are a resident of in the year you sell.** On a large retirement-year sale that is tens of thousands of dollars on one transaction, and unlike most moves here, it pays every year rather than once.
+## Low-income window
 
-⚠ **Advanced Tax Strategies → "State taxes and relocation"** has the worked numbers, how residency is actually determined, and the sequencing (advice, then move, then sale). Watch it if you are considering a move or your unrealized gain is large enough that the state rate changes what you do. If moving is not on the table, your tax plan is complete without it.
+A lower-income period can create room for a Roth conversion, gain realization, or another bracket-sensitive choice.
 
-## Ask the AI
+Core identifies the window. Advanced and the CPA determine the amount and execution.
 
-Open **Plan Guide** and ask for *"identify tax planning opportunities."* It screens your current year and your future tax windows and comes back with the one that most changes your plan.
+## RMD wording
 
-## Your decision
+The applicable age depends on birth year and current law. Keep the current age table in maintained reference rather than evergreen video.
 
-**Whether you are acting in this year's window, or passing on it.** A pass counts as done, provided you looked first and decided on purpose.
+## Capital gains
 
-## Put it in Orange Plan
+Long-term gains use a separate federal structure that interacts with taxable income. State tax and possible NIIT can change the result.
 
-Strategy → Tax → Moves this year. Model one sale and read the tax it produces.
+## App versus return
 
-## You are done when
+Orange Plan is a planning estimate and may not include every deduction, credit, carryforward, business or partnership item, outside income source, or recent law change.
 
-You know which bucket your money sits in and roughly in what proportion, and you have either identified your low-income window or established you don't have one yet. A deliberate pass on this year's window is a real outcome.
+## Review outcome
 
-Then watch the walkthrough below this video, where we model it in Orange Plan.
+- Fix missing data
+- Take one current action
+- Send one defined CPA question
+- Deliberately pass
+
+## Where the numbers come from
+
+- **Estimated tax:** current modeled income, gains, deductions, state, withdrawals, and strategies
+- **Traditional balance at RMD age:** balance, contributions, returns, withdrawals, and conversions
+
+## Done when
+
+The three pools are accurate and the review ends with one action, one professional question, or a deliberate pass.

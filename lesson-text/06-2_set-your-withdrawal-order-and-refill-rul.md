@@ -1,43 +1,85 @@
-# Set your withdrawal order and refill rule
+# Choose the retirement funding and withdrawal strategy
 
-## The four tiers
+The total draw is calculated before the withdrawal strategy decides which accounts and holdings provide it.
 
-1. Social Security and pensions (guaranteed money spends first)
-2. Dividends and taxable withdrawals
-3. Roth and tax-deferred withdrawals
-4. RMDs and loan proceeds (last resort)
+## Reconciled first-year draw
 
-The default advisor order. It gets you 80% of the way, and then it breaks.
+| Component | Engine checkpoint |
+|---|---:|
+| Total need | $171,383 |
+| Recurring income | $69,435 |
+| **Total draw** | **$101,948** |
+| Rounded account-source total | $101,946 |
 
-## Where the strict order breaks
+The $2 difference is display rounding.
 
-Brackets reset yearly, and low ones are use-it-or-lose-it. Spending taxable-first hands you years of near-zero income *without using them*. Then taxable runs dry and everything comes out of a now-bigger traditional account at once, right before RMDs. Following the strict order doesn't save tax overall. It moves the whole bill to your worst year.
+## First-year source split
 
-## The fix: bracket-fill
+The saved policy uses taxable accounts first.
 
-Pull from both at once, deliberately: traditional up to the top of your cheap brackets (this is the cheapest year that tax will ever be paid), taxable for the rest.
+| Holding source | Rounded amount |
+|---|---:|
+| Cash | $2,200 |
+| Stocks | $1,800 |
+| Bitcoin | $97,900 |
+| Taxable account total | $101,946 |
 
-The couple: $60k/yr traditional (deduction + low brackets, near-zero cost) + $20k taxable (gains may sit in 0%). Five years = **$300,000 moved out of the future-RMD pile at almost no tax.** The app's engine bracket-fills by default; Custom phases → Bracket-aware steers it. Your split is an output of your numbers, so don't copy anyone's ratio. CPA question: "Am I leaving low brackets empty?"
+The underlying Bitcoin sale is $97,948. At the projected 2036 price of $1,235,921, the model sells approximately **0.079251 BTC**.
 
-## Draw and refill
+Do not divide a future sale by today's reference price. The dollars, projected price, and units must come from the same projection year.
 
-- **Draw:** spend from the Reserve: the paycheck comes from cash, never directly from volatile assets. Each bucket refills the one before it (Legacy → Bridge → Reserve).
-- **Refill only on strength:** source up → top up. Source down → stop, live on the Reserve, let it recover. Once a year, at the annual review.
+The result is specific to the demo's balances and policy. It is not a universal instruction to sell Bitcoin first. Incomplete basis for 0.50 BTC also keeps the tax result qualified until CPA review.
 
-## The refill rule (couple)
+## Starting jobs
 
-Target: 18 months × $80k = $120k. Spending held → refill fully. Spending cut → refill to ~12 of 18 months. **The target itself never moves**: a cut year slows the refill; it never shrinks the target.
+- Reserve: near-term cash buffer
+- Taxable: accessible Bridge and gain flexibility
+- Traditional: ordinary-income source that may be used during lower-income windows
+- Roth: often preserved for later or large needs when the plan supports it
 
-## Your decision
+This is not a strict account-by-account depletion rule for every household.
 
-Your decision here is the order you'll pull from, and your rule for refilling the reserve.
+## Bracket-aware phases
 
-Understand what the default order actually costs you, because spending one bucket dry first hands you years of very low income that you never used, and then a much bigger bill later. So you're aiming to spread income evenly instead of stacking it, which means using your cheap years while you have them. Spend from the reserve, not directly from the volatile assets, so that a bad market never sets your paycheck. And set your refill rule by the type of year: refill fully in a good year, refill partially in a bad one, and never lower the target itself.
+A phase can combine traditional income and taxable sales when the tax comparison supports it. Use the fewest phases needed to reflect a real change in income, access, or tax.
 
-## Put it in Orange Plan
+CPA review is required for the amount and execution.
 
-Plan → Income → withdrawal order and refill rule.
+## Account order versus asset order
 
-## You are done when
+- **Account order:** which wrapper funds the draw
+- **Asset order:** what is sold inside the wrapper
 
-The order is set, the refill rule is set, and you can say what each one does in a bad year without opening the app.
+Consider cash-buffer role, basis, allocation drift, collateral, and other assigned goals.
+
+## Sell, hold, or borrow
+
+- Sell: simple and lender-free; creates tax and reduces Bitcoin owned
+- Hold: requires another real funding source
+- Borrow: may defer sales while adding interest, LTV, liquidation, counterparty, repayment, and estate risk
+
+Borrowing is optional Advanced material. The saved Core demo works without it.
+
+## Cash refill
+
+A healthy year may refill toward target. A weak period may pause part of the refill and use cash. Critical liquidity may still require a refill.
+
+## Where the numbers come from
+
+### Source split
+
+- **What it means:** accounts and holdings funding total draw
+- **Calculated from:** saved policy, available balances, and projection year
+- **Edit source:** phases, account strategy, asset strategy, holdings, and borrowing policy
+- **This affects:** tax, Bitcoin sold, balances, refill, debt, confidence, and estate
+
+### Bitcoin sold
+
+- **What it means:** calculated sale in dollars and units
+- **Calculated from:** remaining draw, strategy, holdings, and modeled Bitcoin price
+- **Edit source:** strategy and holdings
+- **This affects:** gains, tax, Bitcoin retained, custody, and future results
+
+## Done when
+
+The household can explain the first-year draw, source reconciliation, Bitcoin dollars and units sold, later phase changes, cash refill, and the full cost of any borrowing strategy.

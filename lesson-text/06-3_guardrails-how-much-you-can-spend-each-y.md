@@ -1,43 +1,73 @@
-# Guardrails: how much you can spend each year
+# Choose the starting paycheck and annual spending guardrails
 
-## Why fixed withdrawals fail on Bitcoin
+## Three separate controls
 
-Once withdrawals start, **a bad year early costs far more than the same bad year late** (sequence-of-returns risk), because selling more shares at low prices permanently removes them. The 4% rule is blind to this; point it at an asset that drops 60% and the rule itself is the risk: sell $80k out of a crashed $400k portfolio = 20% of everything, at the bottom, twice. The problem lasts 1–3 years, so you need a spending rule that flexes exactly then.
+- **Plan confidence target:** earliest retirement date meeting the selected standard
+- **Starting-spending choices:** annual spending supported at reference confidence levels
+- **Annual guardrails:** yearly review of the saved paycheck after retirement
 
-## The 60/80/95 bands
+## Canonical spending choices
 
-Once a year, read your confidence number. Every adjustment steers toward 80:
+The reproducible engine checkpoint calculates:
 
-| Reading | Move |
-|---|---|
-| ~60 (lower guardrail) | Cut spending toward 80 |
-| ~80 | Hold (inflation adjustment only) |
-| ~95 (upper guardrail) | Raise spending toward 80 |
+| Choice | Annual | Monthly | Confidence reference |
+|---|---:|---:|---:|
+| Conservative | $99,317 | About $8,276 | 95% |
+| Balanced | $170,216 | About $14,185 | 80% |
+| Aggressive | $249,904 | About $20,825 | 60% |
+| Current Plan amount | **$100,000** | **About $8,333** | **94.6% measured** |
 
-Every change capped at ±10%, measured after inflation: the app applies the inflation adjustment every year, then caps the correction off that inflated number. (These are Orange Plan's shipped defaults. You read the policy; you don't build it.)
+The cards show capacity and trade-offs. They do not instruct the household to maximize spending or automatically select Balanced.
 
-## Cut, don't skip the raise
+## Demo decision
 
-In a lower-guardrail year the app takes the cut for you: it applies inflation, then caps the correction at 10% of that inflated number. Taking the cut (inflation then resumes compounding from the new baseline) beats skipping the inflation raise (a permanent leak in every future year).
+The household keeps the **$100,000 current Plan amount** because that is the retirement lifestyle it deliberately chose. It already sits almost exactly at the Conservative reference.
 
-## What the number really means
+The gap between $100,000 and the higher reference amounts can be tested as more travel, gifts, charity, projects, less work, or another defined decision rather than becoming unexplained permanent lifestyle inflation.
 
-Failures at 80% aren't random. They're almost all a deep drawdown in year 2 instead of year 15. 80% = 8 in 10 futures needed no change; in the other 2 the plan survives *if you cut for a while*. The confidence number is an early-warning signal, not a grade. And the upper guardrail matters too: most retirees under-spend out of fear, and 95+ is the math telling you to raise the paycheck.
+## Default annual policy
 
-## The reserve closes the loop
+Current Orange Plan defaults:
 
-18-month target never moves; refill fully in a held year, partway (~12 months) in a cut year.
+- Lower trigger: 60%
+- Target: 80%
+- Upper trigger: 95%
+- Maximum correction toward target: 10% in one annual update
 
-## Your decision
+The cap is a maximum rather than an automatic 10% move.
 
-Your guardrail policy: how much a bad year changes what you spend.
+## Annual update
 
-## Put it in Orange Plan
+1. Apply the saved inflation adjustment.
+2. Compare current confidence with policy triggers.
+3. Move toward the target-confidence amount when a trigger is crossed, subject to the cap.
 
-Plan → Retirement → guardrails.
+At a $100,000 target, a maximum 10% downward correction is up to $10,000 for the year, or about $833 per month, before the exact inflation and target calculation.
 
-## You are done when
+## Annual, not reactive
 
-Your policy is set and the app can tell you hold, raise or cut. You can say what a cut year actually looks like in your life, in dollars.
+Review the policy at first setup, the scheduled annual update, or after a deliberate life or policy change. Do not reset the paycheck after every Bitcoin move.
 
-Then watch the walkthrough below this video, where we build the paycheck in Orange Plan.
+## Cash buffer
+
+A healthy plan may refill cash toward target. A weak period may use the buffer and pause part of the refill. Current months funded must still be monitored.
+
+## Where the numbers come from
+
+### Spending choice
+
+- **What it means:** annual spending supported at a selected confidence level
+- **Calculated from:** current test runs, assumptions, and strategy
+- **Edit source:** underlying Plan inputs and strategy
+- **This affects:** paycheck, draw, tax, sales, reserve, and long-term results
+
+### Annual update
+
+- **What it means:** suggested paycheck for the next policy year
+- **Calculated from:** prior target, inflation, current confidence, target amount, triggers, and cap
+- **Edit source:** spending policy and current Plan inputs
+- **This affects:** next-year cash need and funding sources
+
+## Done when
+
+The household can explain the three controls, state why it kept $100,000 instead of automatically selecting the Balanced amount, and identify the real spending categories that move under the annual policy.

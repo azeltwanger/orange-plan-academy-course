@@ -1,73 +1,67 @@
-# Keep the plan current: the monthly pass and the annual review
+# Keep the plan current without rebuilding it
 
-A **rebuild** re-litigates settled decisions, reacts to every price move, feels heavy, and gets skipped. A **review** updates what actually changed in your life, and nothing else. Small scope is what makes maintenance cheap enough to do every year.
+## Two types of drift
 
-The big decisions are settled: allocation, debt jobs, tax windows, guardrails, custody, estate. Maintenance keeps the *facts* current underneath them.
+- **Data drift:** the strategy may still fit, but the facts are stale
+- **Decision drift:** the data is current, but a target or strategy no longer fits
 
-## What it fights: drift
+Use the monthly pass for data drift. Use the annual or a targeted off-cycle review for decision drift.
 
-- **Data drift**: facts going stale (spending, income, balances). Spending creeps $80k to $88k unentered, and the plan runs $8k/yr light. That is about **$100k of portfolio the plan doesn't know you need**, with nobody making a bad decision.
-- **Plan drift**: decisions going stale. Facts fine; the strategy no longer fits the life underneath. The allocation you picked at 45 may not be yours at 60.
+## Monthly pass
 
-## Two rhythms
+### Record what happened
 
-| Rhythm | Time | Catches |
-|---|---|---|
-| Monthly pass | ~5 min | Data drift |
-| Annual review | One thorough pass, in November | Plan drift |
+Review transactions, transfers, fees, contributions, debt payments, and manual balances. Keep transfers and balance checkpoints from becoming fake purchases or sales.
 
-Splitting them protects your willingness to show up: you are not reopening strategy twelve times a year to catch a 30-second data entry.
+### Update changed facts
 
-**Update the plan first.** Facts go in before strategy thinking. Stale numbers produce confident but wrong answers.
+Separate recurring changes from one-time events:
 
-## The monthly pass: four inputs
+- Raise versus bonus
+- New spending level versus unusual month
+- Committed event versus possible Scenario
+- Recurring contribution versus lump sum
 
-1. **Money moves**: buys, sells, transfers that actually happened
-2. **Income/expense changes**: new *baselines* only. A raise counts; a hot restaurant month is noise. One month over plan is nothing; six months over in the same direction is a new spending level.
-3. **Life events**: move, marriage, kid, job change
-4. **Assumptions and targets**: only if something real shifted; most months, glance and go
+### Recheck the affected result
 
-**Flagging is not deciding.** Write the question; it becomes an action this month or waits for the annual review. Most months the honest answer is that nothing changed, and the pass exists to prove it.
+Trace surprising outputs back to their source rather than creating a new strategy immediately.
 
-## What never touches the plan
+## Do not chase the screen
 
-The price on the day, a loud news week, a market swing, a gut feeling, and **a number that looks nicer**. That last one is the sneaky one: nudging assumptions moves your freedom date with zero new information.
+A market move changes current allocation, drawdown dollars, custody stakes, loan risk, and current funding. It does not automatically change the return assumption, confidence target, allocation policy, or retirement paycheck.
 
-The confidence ring only asks for a recheck when a real input changes. Price is deliberately excluded, so a red candle cannot tell you your plan needs attention.
+## Demo monthly update
 
-## The annual review: six areas, one question
+- $1,500 scheduled taxable Bridge and investment transfer
+- $500 extra auto-loan payment
+- $1,200 one-time family trip above normal spending
 
-Every area asks: **does this decision still fit, and what would tell me if it didn't?** Bring the updated plan, last year's notes, and the checklist.
+The first two follow the saved route. The trip remains a one-time event rather than replacing the $80,000 normal-spending baseline.
 
-| Area | The question | What changes what you do |
-|---|---|---|
-| Spending + reserve | Is spending inside the guardrails, and is the reserve at target? | Read the guardrail verdict: hold, raise, or cut. Refill toward target. A bad market does not change the target. |
-| Allocation | Is the percentage you chose still the percentage you're carrying? | Bitcoin running faster than everything else raises your share without you doing anything. Rebalance by directing new dollars at what is light. |
-| Debt | Are the ratios in range, and is every debt still doing its job? | If you borrow against Bitcoin: at today's price, would your written loan policy's drawdown force a sale? |
-| Tax | Was this year's window used, or deliberately passed? | The only area with a hard deadline. Harvest room, conversion room, and cost basis records that still prove what you paid. No records means a basis of zero, which means tax on the whole sale price. |
-| Custody | Has one recovery been proven this year? | An actual restore test on a spare device, then a rescan for new single points of failure. |
-| Estate | Could your family act on the letter today? | Beneficiaries current and verified with each provider (a valid form generally controls instead of the will), heir letter accurate, executor still fits and is still willing, switch armed with the right recipients. |
+## Annual review order
 
-**Allocation and custody share one move, and it is the one people skip.** Both get re-asked at *today's* balance, not the balance you had when you decided. A position that grew from $500k to $800k turns the same 75% drawdown from $375k of paper loss into $600k. The percentage did not move; the number you would have to sit through nearly doubled. Custody is the same arithmetic: the setup is guarding more money than it was designed for, and you never made that decision.
+1. Baseline and assumptions
+2. Cash Flow and Reserve
+3. Debt
+4. Allocation and Contributions
+5. Tax
+6. Retirement Income
+7. Protect
+8. Scenarios and Report
 
-**Run it in November.** The tax area is the only one with a hard deadline, and November leaves time to act on what you find.
+## Off-cycle triggers
 
-## The one-to-three action rule
+Review the affected planning areas after major family, health, work, business, property, debt, custody, or spending changes.
 
-At most three actions per pass, monthly or annual, all finishable before the next one. A long to-do list is the biggest reason reviews stop happening. The value compounds only when you finish the review.
+## PDF versus encrypted export
 
-## Ask the AI
+- **PDF:** readable annual snapshot
+- **Encrypted export:** passphrase-protected planning data for secure storage and portability
 
-Open **Plan Guide** and ask for *"what should I work on next."* It picks up wherever your plan actually is, which helps when a month has gone by and you have lost the thread.
+Orange Plan currently allows the encrypted export to be created, but in-app plan restore is temporarily unavailable. Do not treat the export as a restore you can use today or delete the current plan and source records because the file exists.
 
-## Your decision
+Keep the passphrase separate from the export. Verify the current app restore process before relying on it in the future. Neither file should contain Bitcoin secrets.
 
-Your decision out of this lesson is your two review dates. Pick a specific recurring day for the monthly one, because "first Saturday" survives and "beginning of the month" doesn't, and put the annual one in November. Then protect the boundary between them: if something big comes up during a monthly pass, write it down for the annual review instead of re-planning on the spot.
+## Done when
 
-## Put it in Orange Plan
-
-Your calendar, not the app. There is no in-app scheduler: a specific recurring day for the monthly pass, and November for the annual review.
-
-## You are done when
-
-Both dates are recurring events you can see, and you have written down what you will not touch during a monthly pass. That second one is what holds the line when the price is moving.
+Monthly and annual reviews are scheduled and each review leaves no more than one to three owned and dated actions.

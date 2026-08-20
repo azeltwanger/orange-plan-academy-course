@@ -1,40 +1,55 @@
-# Cost basis: what you paid, and how to reconstruct it
+# Cost basis: what you paid and how to rebuild it
 
-*US-specific module. The frameworks travel; the rules don't. Verify locally.*
+## Basic calculation
 
-Cost basis is what you paid for each **lot** of Bitcoin: price, date, amount. Your gain is sale price minus basis; your tax is built on the gain. Basis is tracked per lot, not per stack: when you sell, the tax follows the lot you sold from.
+**Amount realized − basis of units sold = capital gain or loss**
 
-## Same sale, two bills
+Final tax also depends on holding period, other income and gains, filing status, state, and current law.
 
-The couple sells 0.25 BTC for $25,000:
+## Bitcoin lots
 
-| From | Basis on the sale | Gain | Tax @15% |
-|---|---|---|---|
-| Hardware lot ($30k/coin) | $7,500 | $17,500 | ~$2,625 |
-| Exchange lot ($60k/coin) | $15,000 | $10,000 | ~$1,500 |
+Each acquisition can have its own date, time, quantity, basis, and holding period.
 
-~$1,125 difference on a sale they were making anyway.
+An average purchase price may help with a rough estimate but may not support filing or specific identification.
 
-## What clean basis unlocks
+## Reconcile quantity first
 
-Timing sales by lot · harvesting losses · harvesting gains · modeling the real bill before acting. Without it, all four are guesswork.
+Total current Bitcoin across every account and wallet should reconcile with the transaction history. Keep unexplained sales, fees, transfers, gifts, or missing wallets visible until resolved.
 
-## Rebuilding what's missing
+## Source records
 
-Pull every record from every exchange and wallet. For the gaps: narrow the purchase window honestly, use that window's price range, and record the method alongside the lot. The IRS standard is **"reasonable and documented," not perfect.**
+- Exchange and broker exports
+- Prior Forms 8949, Schedule D, statements, and tax reports
+- Basis-software files
+- Wallet addresses and transaction IDs
+- Bank, email, payroll, and business records when needed
 
-## Never leave basis blank
+Keep originals.
 
-⚠ No basis = the **entire sale price** is treated as gain. The $25,000 sale above: a $1,500 bill becomes $3,750, purely for a missing record.
+## Transfers
 
-## Your decision
+A movement between accounts owned by the same taxpayer is generally not a sale to oneself. Keep basis and holding period attached to the units. Confirm ownership and entity differences with the tax professional.
 
-How far back you can reconstruct, and what you'll do about anything you can't.
+## Unknown basis
 
-## Put it in Orange Plan
+Do not invent a value. A zero-basis assumption is a labelled planning test, not automatically the filing answer.
 
-Strategy → Tax → cost basis. Enter what you have, and flag the lots you can't prove.
+## Lot identification
 
-## You are done when
+A planned FIFO/HIFO comparison must match the real provider or wallet identification and documentation rules. Verify the current process before the disposition.
 
-Every lot has a basis you could show someone, or is flagged as unproven. No records means a basis of zero, which means tax on the entire sale price, so an unproven lot is a real number in your plan rather than a gap.
+## Demo record
+
+- 1.25 BTC complete, $48,000 known basis
+- 0.40 BTC reconstruction pending from export
+- 0.10 BTC records missing
+- Total quantity: 1.75 BTC
+
+## Where the numbers come from
+
+- **Basis:** acquisition lots and adjustments
+- **Unrealized gain:** current value minus known basis
+
+## Done when
+
+Quantity reconciles, complete lots are documented, unresolved units are visible, and the planned lot method can be executed.
