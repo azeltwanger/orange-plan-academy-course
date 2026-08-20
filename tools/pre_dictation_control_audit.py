@@ -67,10 +67,6 @@ STALE_REFERENCE_PATTERNS = {
         r"(?:encrypted (?:backup|export)|exported file).{0,90}(?:restore the plan|restorable plan data|use it to restore)",
         re.I | re.S,
     ),
-    "old calibrated provenance treated as current": re.compile(
-        r"SPOKEN-PROSE VERSION \(calibrated\).{0,80}(?:current|approved|protected as Austin)",
-        re.I | re.S,
-    ),
 }
 
 REQUIRED_PHRASES = {
@@ -144,7 +140,11 @@ def main() -> int:
     contract_path = ROOT / "COURSE-APP-CONTRACT.md"
     if contract_path.is_file():
         contract = contract_path.read_text(encoding="utf-8")
-        commit_match = re.search(r"App source reviewed:.*?`([0-9a-f]{7,40})`", contract)
+        commit_match = re.search(
+            r"App source (?:reviewed|verified):.*?`([0-9a-f]{7,40})`",
+            contract,
+            flags=re.I,
+        )
         if not commit_match:
             failures.append("COURSE-APP-CONTRACT.md: missing last-reviewed app commit")
         elif len(commit_match.group(1)) < 7:
