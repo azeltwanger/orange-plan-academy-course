@@ -51,14 +51,16 @@ A taxable account can be the Bridge and still hold Bitcoin. The label does not r
 
 A Roth can be assigned to Legacy and still hold a money-market fund. The wrapper does not create growth.
 
+An HSA can support the healthcare Bridge and still hold volatile investments. The qualified healthcare job does not remove market risk, so near-term expected withdrawals need enough stability.
+
 Review the intended job and the actual holdings together.
 
 == RUN THE DEMO BY TIMEFRAME ==
 
 - The $30,000 cash account is Reserve.
 - The taxable brokerage is Bridge.
-- The 529 supports the college goal.
-- The HSA is assigned to Bridge because the household may use it for qualified healthcare before and early in retirement.
+- The 529 supports the total-family college commitment.
+- The HSA is assigned to the **Healthcare Bridge** because the household may use qualified HSA funds before and early in retirement. It is not treated as unrestricted Bridge spending.
 - The workplace and Roth retirement accounts are Legacy.
 - The 1.50 BTC hardware-wallet balance is Legacy.
 - The 0.25 BTC exchange balance is an operating balance, not a separate long-term target.
@@ -72,6 +74,8 @@ Do not begin by guessing that Reserve should be 10%, Bridge 20%, and Legacy 70%.
 Reserve comes from spending basis and target months.
 
 Bridge comes from known costs and the accessible retirement-income gap before later income begins.
+
+The Healthcare Bridge comes from expected qualified medical costs and the timing of those costs.
 
 Legacy is the long-term capital remaining after near- and medium-term needs are protected.
 
@@ -91,11 +95,11 @@ The exact Bridge requirement is a checkpoint output because it depends on the ye
 
 ### Timeframe funding
 
-**What it means:** money assigned to Reserve, Bridge, and Legacy jobs.
+**What it means:** money assigned to Reserve, Bridge, Healthcare Bridge, and Legacy jobs.
 
 **Calculated from:** assigned accounts and holdings compared with the dollar needs.
 
-**Edit source:** account jobs, reserve settings, known costs, and retirement-income plan.
+**Edit source:** account jobs, reserve settings, known costs, healthcare needs, and retirement-income plan.
 
 **This affects:** contribution routing and forced-sale risk.
 
@@ -105,7 +109,7 @@ Verify the holding mix and choose the primary timeframe job for every account or
 
 == PUT IT IN ORANGE PLAN ==
 
-Correct the holdings, review the combined current mix, and assign the Reserve, Bridge, and Legacy roles supported by the current Allocation page.
+Correct the holdings, review the combined current mix, and assign the Reserve, Bridge, Healthcare Bridge, and Legacy roles supported by the current Allocation page and account records.
 
 == YOU ARE DONE WHEN ==
 
