@@ -77,7 +77,7 @@ The $30,000 reserve answers part of the cash question. The debt plan answers par
 
 A target is the intended long-term mix.
 
-A drift band defines when the difference becomes large enough to review.
+A review band defines when the difference becomes large enough to review.
 
 Today's action decides how the household moves toward the target.
 
@@ -85,9 +85,9 @@ A rising Bitcoin price can push the current allocation above target without one 
 
 I would usually use new contributions and cash flow first. A large one-time rebalance is a separate decision that needs tax, access, reserve, and custody review.
 
-For the working demo, the proposed target is 50% Bitcoin with a 10-percentage-point review band. At about 59%, the household is near the upper edge rather than automatically under an instruction to sell.
+The approved demo target is 50% Bitcoin with a 40% to 60% review band. At about 59%, the household is near the upper edge rather than automatically under an instruction to sell.
 
-Austin still needs to approve that demo target and band before the app checkpoint is locked.
+The $1,500 taxable Bridge and investment route follows the saved target and current drift. It is not an automatic instruction to buy more Bitcoin while the household is already near the upper edge.
 
 == CUSTODY MUST MATCH THE CONSEQUENCE ==
 
