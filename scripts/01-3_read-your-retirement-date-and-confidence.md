@@ -18,7 +18,9 @@ This is also the first read of an unfinished plan. Cash Flow, Debt, Allocation, 
 
 The planned retirement age is the age you asked Orange Plan to test.
 
-Our demo household enters age 55. The app is answering: if retirement starts at 55, using these balances, spending, income, debts, life events, assumptions, and saved strategies, how often does the money last through the planning age?
+Our demo household enters age 55 for Alex. Jordan is two years younger, so the current model keeps Jordan's earned income in the plan until Jordan also reaches 55.
+
+The app is answering: if Alex retires at 55, using these balances, household income timeline, spending, debts, life events, assumptions, and saved strategies, how often does the money last through the planning age?
 
 The Baseline spending input is the annual living spending the plan needs to support. It is not gross income and it should not duplicate debt payments that already have their own payoff schedules.
 
@@ -46,7 +48,7 @@ The return and inflation experience changes across the runs. Some are easier. So
 
 The result is the share of runs where the money lasted through the planning age.
 
-An 83% result means roughly 830 of the 1,000 runs lasted as long as planned under the saved plan.
+An 83% result would mean roughly 830 of the 1,000 runs lasted as long as planned under the saved plan.
 
 It does not mean there is a 17% chance the household goes bankrupt.
 
@@ -64,22 +66,33 @@ Around 70% may still be workable for a household with flexible spending and a wi
 
 On the other side, 95% or 99% is not automatically better. It may require working longer, spending less, or saving far more than the life the household actually wants requires.
 
-A higher target can be right when the spending is inflexible, the household wants a larger legacy, or adjustment risk is unacceptable. It remains a trade-off rather than a grade.
+A higher target can be right when spending is inflexible, the household wants a larger legacy, or adjustment risk is unacceptable. It remains a trade-off rather than a grade.
 
-== THE EARLIEST DATE FOLLOWS THE TARGET ==
+== READ THE DEMO RESULT ==
 
-Our demo household enters age 55, $100,000 of Baseline retirement spending, and an 80% target.
+The reproducible engine checkpoint uses:
 
-The app then produces two outputs we read together:
+- Alex retiring at 55,
+- $100,000 of retirement living spending in today's dollars,
+- an 80% Plan confidence target,
+- and the rest of the approved demo household.
 
-1. Confidence at the planned age of 55
-2. The earliest date where confidence first reaches 80%
+The result at age 55 is **94.6%**.
 
-The actual values come from the current saved demo checkpoint. The spoken lesson does not need to invent them.
+That means about 946 of the 1,000 test runs lasted through the planning age under the saved plan.
 
-If confidence at 55 is below 80%, the household can keep age 55 and improve the plan, move retirement later, reduce spending, save more, or test another decision.
+The earliest date that reaches the 80% target is **May 2032, when Alex is 51**.
 
-If confidence at 55 is already above the target, the plan may have room to retire sooner, spend more, take less risk, or save less aggressively.
+Those two outputs come from the same test-run process:
+
+1. At the planned date of 55, the result is 94.6%.
+2. When Orange Plan searches earlier dates, the first date reaching 80% is age 51.
+
+The earliest date is Alex's retirement start under the saved household timeline. Jordan is younger and the model continues Jordan's earned income until Jordan reaches 55. That spouse timing is one reason the result needs to be read from its inputs rather than treated as a universal household retirement age.
+
+The result does not automatically mean the family should change the Plan age to 51.
+
+They can keep 55 because they prefer more cushion, test retiring earlier, spend more, take less risk, or save less aggressively. The number identifies room. The household decides what to do with it.
 
 Both outputs come from the same test-run process. Orange Plan is not comparing that result with a second retirement-date calculation.
 
@@ -91,7 +104,7 @@ For confidence:
 
 **What it means:** the share of test runs where the money lasted through the planning age.
 
-**Calculated from:** the entire saved plan—balances, holdings, income, spending, debts, life events, taxes, assumptions, retirement timing, and saved strategies.
+**Calculated from:** the entire saved plan—balances, holdings, income and spouse timing, spending, debts, life events, taxes, assumptions, retirement timing, and saved strategies.
 
 **Edit source:** whichever underlying input is wrong or whichever decision the household wants to test.
 
@@ -103,14 +116,14 @@ Do not change several inputs at once. Change one meaningful lever, rerun, and se
 
 == YOUR DECISION ==
 
-Choose the Plan confidence target and the first lever you would test if the planned age falls below it.
+Choose the Plan confidence target and the first lever you would test when the result creates more or less room than the household expected.
 
 == PUT IT IN ORANGE PLAN ==
 
 On Plan → Retirement, confirm planned age, Baseline spending, and the confidence target. Run or refresh the confidence check after the source inputs are current.
 
-Then read confidence at the planned age and the earliest date meeting the target together.
+Then read confidence at the planned age and the earliest date meeting the target together. Confirm which spouse's retirement date the output is changing.
 
 == YOU ARE DONE WHEN ==
 
-You can explain all four numbers without mixing them up, state why the spending input fits the household, and name one lever to test rather than changing the entire plan at once.
+You can explain all four numbers without mixing them up, state why the spending and household-income timeline fit, and name one lever to test rather than changing the entire plan at once.
