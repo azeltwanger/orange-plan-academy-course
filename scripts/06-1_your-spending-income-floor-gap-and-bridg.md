@@ -31,11 +31,17 @@ The income floor is money expected to arrive without selling investments.
 
 It can include Social Security, a pension, verified rental or other recurring income, and part-time work during the years the household genuinely plans to earn it.
 
-The demo household plans $20,000 of part-time income during its first 3 retirement years. At age 67, it expects about $52,000 a year of combined Social Security and other durable income in today's dollars.
+The approved demo timeline is:
 
-Those inputs need their real start and end dates. Income that begins at 67 does not fund retirement at 55.
+- $20,000 a year of part-time income during the first 3 retirement years,
+- $30,000 a year of Alex's Social Security beginning when Alex reaches 67,
+- and another $22,000 a year when Jordan reaches 67, two years after Alex.
 
-The floor is a timeline, not one permanent number. One spouse may claim before the other, part-time work may end, a pension may begin, or a rental may be sold.
+All three amounts are entered in today's dollars under the app's current input convention.
+
+Those dates matter. Income that begins at 67 does not fund retirement at 55, and the full $52,000 Social Security floor does not begin all at once.
+
+The floor is a timeline, not one permanent number. One spouse claims before the other, part-time work ends, a pension can begin later, or another source can stop.
 
 == THE PORTFOLIO-FUNDED GAP ==
 
@@ -43,9 +49,14 @@ The simple living-spending gap is:
 
 > Retirement living spending − recurring income = portfolio-funded gap
 
-During the first 3 retirement years, $100,000 of living spending minus $20,000 of part-time income leaves an $80,000 living-spending gap before taxes, remaining debt, life events, or reserve refill.
+For the demo household:
 
-After the $52,000 durable income begins, the same $100,000 lifestyle has a $48,000 living-spending gap before those other costs.
+- During the first 3 retirement years, $100,000 of living spending minus $20,000 of part-time income leaves an $80,000 living-spending gap.
+- After part-time work ends and before Alex's Social Security begins, the living-spending gap returns to the full $100,000.
+- When Alex's $30,000 Social Security begins, the gap falls to $70,000.
+- When Jordan's $22,000 begins two years later, the combined $52,000 floor reduces the gap to $48,000.
+
+Each figure is before taxes, remaining debt, life events, or reserve refill.
 
 The gap is not a sign that the plan failed. It is the part of retirement the investments are supposed to provide.
 
@@ -73,7 +84,14 @@ The actual first-year taxes, total draw, and source split for the canonical demo
 
 The income bridge runs from retirement until the later income floor turns on.
 
-For the demo household, retirement starts at 55, part-time income ends after 3 years, and the full later income begins at 67. The portfolio job changes during that span rather than remaining one flat annual amount.
+For the demo household, retirement starts at 55. Part-time work ends after 3 years. Alex's Social Security begins at 67, and Jordan's begins two years later.
+
+That creates four distinct funding stages rather than one flat 12-year bridge:
+
+1. retirement plus part-time income,
+2. no part-time income and no Social Security,
+3. Alex's Social Security only,
+4. both Social Security benefits.
 
 There can also be an account-access bridge when a household retires before a particular retirement account can be used without a penalty, exception, or special strategy.
 
@@ -133,14 +151,14 @@ For total draw:
 
 == YOUR DECISION ==
 
-Choose the retirement living-spending target, the recurring income sources the household is actually counting on, and whether accessible assets can cover the changing bridge before the full floor begins.
+Choose the retirement living-spending target, the recurring income sources the household is actually counting on, and whether accessible assets can cover each stage before the full floor begins.
 
 == PUT IT IN ORANGE PLAN ==
 
-Confirm Baseline spending on Plan, verify every retirement-income source and date, and read the current first-year funding calculation on Plan → Income.
+Confirm Baseline spending on Plan, enter every retirement-income source with its own owner and start or end date, and read the current first-year funding calculation on Plan → Income.
 
 Set the cash-buffer basis and months in Cash Flow.
 
 == YOU ARE DONE WHEN ==
 
-You can explain spending, recurring income, the living-spending gap, the full total draw, and the early Bridge without relying on one future Bitcoin price.
+You can explain spending, the phased income floor, each living-spending gap, the full total draw, and the early Bridge without relying on one future Bitcoin price.
