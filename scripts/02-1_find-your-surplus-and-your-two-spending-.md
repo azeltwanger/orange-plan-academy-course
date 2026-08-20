@@ -16,15 +16,30 @@ Surplus is calculated. It is not a field you change until the result feels comfo
 
 > Income − estimated taxes − living spending − debt payments = surplus
 
-Our demo household earns $190,000 before tax. The working teaching estimate for federal and payroll taxes is $40,000. Normal living spending is $80,000 outside debt payments. Required mortgage and auto payments total $22,000.
+Our demo household earns $190,000 before tax. The simple teaching estimate uses $40,000 of taxes, $80,000 of normal living spending outside debt, and $22,000 of required mortgage and auto payments.
 
 $190,000 minus $40,000, minus $80,000, minus $22,000 leaves $48,000 a year, or $4,000 a month.
 
-That is the amount available for the reserve, extra debt, contributions, and other goals.
+That round number is the household's approved monthly routing plan. It is not a promise that the live Cash Flow headline will display exactly $4,000.
 
-If the app shows something different, open the four sources. Is income gross or take-home? Is tax reasonable? Is the mortgage inside living spending and the debt row? Is a payment missing?
+== WHY THE APP SHOWS A DIFFERENT SURPLUS ==
 
-Do not fix the surplus. Fix the source that produced it.
+The current engine calculates $36,862 of tax for this synthetic household rather than the round $40,000 teaching estimate.
+
+That creates about $4,261 a month before any extra debt strategy.
+
+The household has already chosen $500 a month of extra principal on the auto loan. Cash Flow includes that planned extra payment in the Debt row, so the page shows about $3,761 left after the full debt plan.
+
+The household then routes $3,500 of that displayed amount to the 401(k), HSA, Roth IRA, and taxable Bridge. About $261 remains as operating cushion.
+
+So there are two useful numbers:
+
+- **Decision capacity before extra debt:** about $4,261 a month
+- **Displayed surplus after the planned extra debt:** about $3,761 a month
+
+The $500 difference is not missing. It is the debt decision already being funded.
+
+This is exactly why you trace the number instead of editing the output. If the app and a round example differ, check the current tax calculation and whether planned extra debt is already included.
 
 == WHY DEBT IS SEPARATE FROM LIVING SPENDING ==
 
@@ -36,7 +51,7 @@ The app separates debt because it has an ending date.
 
 If a mortgage is paid off at 67, that payment needs to disappear at 67. If it is also inside living spending, the plan funds it once as debt and keeps funding it again as living spending after it is gone.
 
-Living spending is what the household spends outside debt payments. The debt rows own the payments and payoff dates.
+Living spending is what the household spends outside debt payments. The debt rows own the required payments, extra payments, and payoff dates.
 
 == FIND NORMAL SPENDING FROM REAL LIFE ==
 
@@ -64,7 +79,7 @@ For the demo household, normal living spending is about $6,667 a month outside d
 
 The $5,000 includes essential housing costs outside the mortgage payment, groceries, utilities, insurance, transportation, healthcare, and other costs that cannot be paused. Flexible travel, dining, gifts, and projects can come down temporarily.
 
-That lower number is what the household chooses to use for the working reserve in the next lesson.
+That lower number is what the household uses for the working reserve in the next lesson.
 
 == LOOK FOR THE BIG LEVERS ==
 
@@ -88,30 +103,30 @@ If $40,000 is in savings but $15,000 belongs to taxes and $5,000 belongs to a bi
 
 == MAKE THE ROUTING NUMBER REPEATABLE ==
 
-The calculated surplus is the maximum available under the inputs. The amount you automate should be something the cash flow can repeat.
+The calculated result is the maximum available under the current inputs and strategy. The amount you automate should be something the cash flow can repeat.
 
-If the app calculates $4,000 but the account gets tight before payday, the problem may be timing or operating cash. I would rather automate $3,500 every month than call $4,000 the plan and reverse part of it half the time.
+The demo deliberately keeps about $261 a month unassigned instead of routing every calculated dollar. I would rather leave a small operating cushion than reverse transfers every time bill timing moves.
 
 == WHERE THIS NUMBER COMES FROM ==
 
-For surplus:
+For displayed surplus:
 
-**What it means:** money available after the plan's current obligations.
+**What it means:** money left after estimated taxes, living spending, required debt payments, and any planned extra debt already included on the page.
 
-**Calculated from:** income, estimated taxes, living spending, and debt payments.
+**Calculated from:** income, engine-estimated taxes, living spending, and the full saved debt plan.
 
-**Edit source:** the underlying income, tax, spending, or debt row.
+**Edit source:** the underlying income, spending, tax assumptions, or debt strategy—not the headline.
 
-**This affects:** reserve funding, extra debt, contributions, future balances, confidence, and the earliest target-qualified date.
+**This affects:** reserve funding, contribution routing, future balances, confidence, and the earliest target-qualified date.
 
 == YOUR DECISION ==
 
-Choose normal monthly living spending, bare-bones monthly spending, and the reliable amount of surplus the household can route.
+Choose normal monthly living spending, bare-bones monthly spending, the extra-debt amount, and the contribution amount the household can repeat while keeping an operating cushion.
 
 == PUT IT IN ORANGE PLAN ==
 
-Review the Cash Flow source rows. Keep debt payments out of living spending, set bare-bones essentials in Reserve settings, and correct any source that does not match the household.
+Review the Cash Flow source rows. Keep debt payments out of living spending, set bare-bones essentials in Reserve settings, and confirm whether planned extra debt is already included before routing the remaining surplus.
 
 == YOU ARE DONE WHEN ==
 
-You can rebuild the surplus from its four source numbers, explain normal versus bare-bones spending, and state the monthly amount the household can actually repeat.
+You can rebuild the displayed surplus from its sources, explain the difference between capacity before extra debt and surplus after it, and state the monthly amount the household can actually repeat.
