@@ -6,16 +6,24 @@
 - **Starting-spending choices:** annual spending supported at reference confidence levels
 - **Annual guardrails:** yearly review of the saved paycheck after retirement
 
-## Starting choices
+## Canonical spending choices
 
-The Income page calculates:
+The reproducible engine checkpoint calculates:
 
-- Conservative: around 95%
-- Balanced: around 80%
-- Aggressive: around 60%
-- Current Plan amount evaluated on the same runs
+| Choice | Annual | Monthly | Confidence reference |
+|---|---:|---:|---:|
+| Conservative | $99,317 | About $8,276 | 95% |
+| Balanced | $170,216 | About $14,185 | 80% |
+| Aggressive | $249,904 | About $20,825 | 60% |
+| Current Plan amount | **$100,000** | **About $8,333** | **94.6% measured** |
 
-The demo uses $100,000 of planned retirement spending, but the checkpoint—not the script—determines where that amount falls.
+The cards show capacity and trade-offs. They do not instruct the household to maximize spending or automatically select Balanced.
+
+## Demo decision
+
+The household keeps the **$100,000 current Plan amount** because that is the retirement lifestyle it deliberately chose. It already sits almost exactly at the Conservative reference.
+
+The gap between $100,000 and the higher reference amounts can be tested as more travel, gifts, charity, projects, less work, or another defined decision rather than becoming unexplained permanent lifestyle inflation.
 
 ## Default annual policy
 
@@ -34,11 +42,11 @@ The cap is a maximum rather than an automatic 10% move.
 2. Compare current confidence with policy triggers.
 3. Move toward the target-confidence amount when a trigger is crossed, subject to the cap.
 
-At a $100,000 target, a maximum 10% downward correction is up to $10,000 for the year before the exact inflation and target calculation.
+At a $100,000 target, a maximum 10% downward correction is up to $10,000 for the year, or about $833 per month, before the exact inflation and target calculation.
 
 ## Annual, not reactive
 
-Review the policy at first setup, the scheduled annual update, or after a deliberate life/policy change. Do not reset the paycheck after every Bitcoin move.
+Review the policy at first setup, the scheduled annual update, or after a deliberate life or policy change. Do not reset the paycheck after every Bitcoin move.
 
 ## Cash buffer
 
@@ -62,4 +70,4 @@ A healthy plan may refill cash toward target. A weak period may use the buffer a
 
 ## Done when
 
-The household can explain the three controls, choose a starting paycheck, and identify the real spending categories that move under the annual policy.
+The household can explain the three controls, state why it kept $100,000 instead of automatically selecting the Balanced amount, and identify the real spending categories that move under the annual policy.
