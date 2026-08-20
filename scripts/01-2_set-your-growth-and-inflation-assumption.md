@@ -59,7 +59,9 @@ Inflation moves the result in the other direction.
 
 At 3%, an $80,000 lifestyle becomes roughly $125,000 in 15 years. At 4%, it is closer to $144,000. One point looks small in the input and compounds through the full retirement.
 
-I use a higher inflation assumption in my own planning because I would rather overstate the future cost than understate it. That is my judgment, not a number everybody has to copy.
+The demo household uses 3% as its saved baseline because that is the planning assumption we want every later checkpoint to inherit. It keeps a separate 4% inflation Scenario as the stress test.
+
+That distinction matters. The baseline is the household's working assumption. The Scenario asks whether the plan still works when inflation runs higher.
 
 Choose a starting view you can explain, then test the range around it without rewriting the baseline.
 
@@ -91,7 +93,7 @@ Before leaving a page, look for the state the page shows: Saved, Previewing, Not
 
 == TRACE THE OUTPUT TO THE INPUT ==
 
-If confidence falls after inflation increases, the reason is that future spending is growing faster.
+If confidence falls in the 4% inflation Scenario, the reason is that future spending is growing faster.
 
 If a Bitcoin ETF is using stock returns, the source is the holding assumption.
 
@@ -111,7 +113,7 @@ Choose the starting assumptions during onboarding and review the saved Plan assu
 
 For a holding-specific assumption, edit the holding and open its advanced projection overrides.
 
-Use Scenarios to test a different return or inflation view without replacing the baseline.
+Use Scenarios to test a different return or inflation view without replacing the baseline. In the demo, 3% is saved and 4% is the inflation stress Scenario.
 
 == YOU ARE DONE WHEN ==
 
