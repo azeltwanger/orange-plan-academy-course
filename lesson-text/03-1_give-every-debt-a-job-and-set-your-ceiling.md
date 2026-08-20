@@ -51,12 +51,12 @@ DTA changes with asset prices even when the debt does not.
 
 The demo keeps the 3.25% mortgage on schedule and sends $500 per month of extra principal to the 7% auto loan after protecting the reserve.
 
-## Proposed household ceiling
+## Approved household ceiling
 
-- DTI below 25%
-- No added debt when DTA is already around or above 40%
+- Do not intentionally exceed 25% DTI
+- Do not add debt when DTA is 40% or higher
 
-Austin approval is pending. These are not universal rules.
+These are fictional household rules, not universal borrowing limits.
 
 ## Where the ratios come from
 
