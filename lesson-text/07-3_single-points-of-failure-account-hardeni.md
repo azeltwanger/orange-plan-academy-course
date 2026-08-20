@@ -24,15 +24,16 @@ Teach another person what exists, where the process begins, who is involved, and
 
 - Secure email first
 - Unique passwords
-- FIDO security key or passkey when available
+- FIDO security key or properly implemented passkey when available
 - Separate backup authenticator/recovery method
 - Authenticator app when stronger options are unavailable
+- Manually entered OTPs remain phishable
 - Carrier transfer protections
 - Provider sessions, API keys, recovery contacts, and withdrawal controls
 
 ## Scam rules
 
-Never share secrets or one-time codes. Independently verify support. Stop when urgency appears. Confirm transactions on the trusted display.
+Never share secrets or one-time codes. Independently verify support. Never install remote-access software, share the screen, or surrender control of a financial/Bitcoin device to an unsolicited contact. Stop when urgency appears and confirm transactions on the trusted display.
 
 ## App versus proof
 

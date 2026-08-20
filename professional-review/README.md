@@ -1,28 +1,40 @@
-# Professional review packets
+# Professional review
 
-This is the only current external-review directory.
+This directory separates three different things that must not be confused:
 
-| Packet | Reviewer | Core areas |
-|---|---|---|
-| `CPA.md` | Bitcoin-aware US CPA or tax attorney | Asset location, digital-asset basis, tax pools, conversions, gains, RMDs, retirement withdrawals, and tax-sensitive insurance language |
-| `CUSTODY.md` | Bitcoin custody professional | Hardware-wallet setup, recovery, backups, passphrases, multi-key design, descriptors, account hardening, and family process |
-| `ESTATE-ATTORNEY.md` | Attorney licensed in the demo / learner state with digital-asset experience | Roles, wills, powers of attorney, beneficiaries, provider records, legal/technical coordination, heir letter, delivery, and trusts |
-| `INSURANCE.md` | Licensed insurance professional | Life, disability, umbrella, long-term-care, policy ownership, beneficiaries, replacement, and self-insurance gaps |
+1. **Authoritative-source verification** — completed internally against current primary authorities.
+2. **External professional review** — not complete until an actual reviewer returns a packet.
+3. **Austin voice approval** — happens only after accepted factual corrections are applied.
 
-## Reviewer output
+## Current status
 
-For every claim, mark:
+| Area | Source verification | Send-ready packet | External response |
+|---|---|---|---|
+| Tax / retirement accounts | COMPLETE | `CPA-SEND.md` | NOT SENT |
+| Colorado estate / incapacity | COMPLETE | `ESTATE-ATTORNEY-SEND.md` | NOT SENT |
+| Bitcoin custody / account security | COMPLETE | `CUSTODY-SEND.md` | NOT SENT |
+| Insurance | COMPLETE | `INSURANCE-SEND.md` | NOT SENT |
 
-- Accurate as written
-- Accurate with qualification
-- Replace
-- State / fact-pattern dependent
-- Move to professional-only implementation
+The detailed files `CPA.md`, `ESTATE-ATTORNEY.md`, `CUSTODY.md`, and `INSURANCE.md` remain internal claim inventories. Send the shorter `*-SEND.md` packet unless the reviewer requests more context.
 
-Provide the minimum corrected wording and the primary authority or policy source.
+## Supporting files
 
-The reviewer is checking facts and material qualifications. Austin's planning preference remains Austin's unless it rests on a false premise.
+- `AUTHORITATIVE-SOURCE-VERIFICATION.md` — what primary sources already confirmed and what remains professional judgment
+- `OUTREACH-TEMPLATES.md` — send-ready email copy
+- `OFFICIAL-SOURCE-STARTERS.md` — source library
+- `../PROFESSIONAL-REVIEW-TRACKER.md` — reviewer, due date, returned changes, and applied commits
 
-## Status
+## Reviewer response codes
 
-Packets are complete. Reviewer responses and applied corrections are pending. A high-stakes lesson is not ready for Austin's final approval until its required response is incorporated.
+- `OK`
+- `QUALIFY`
+- `CHANGE`
+- `CURRENT FACT`
+- `PROFESSIONAL ONLY`
+- `REMOVE`
+
+The custody packet also permits `DEVICE/PROVIDER SPECIFIC` and `ADVANCED ONLY`. The insurance packet permits `STATE/CARRIER/CONTRACT SPECIFIC`.
+
+## Clearance rule
+
+Source verification reduces preventable questions but is not professional sign-off. A high-stakes lesson remains on hold until the applicable outside reviewer returns the packet, accepted changes are applied to script and lesson text, audits pass, and Austin completes the final spoken read.

@@ -67,7 +67,7 @@ A FIDO security key or properly implemented passkey can provide phishing-resista
 
 Keep a backup authenticator or recovery method in a separate location so one lost key does not create a lockout.
 
-When phishing-resistant options are unavailable, an authenticator app is generally stronger than SMS-only authentication. Also use the carrier's account PIN, port-out protection, or transfer lock when available.
+When phishing-resistant options are unavailable, an authenticator app is generally stronger than SMS-only authentication. Manually entered one-time codes can still be phished. Also use the carrier's account PIN, port-out protection, or transfer lock when available.
 
 == HARDEN THE EXCHANGE AND FINANCIAL ACCOUNTS ==
 
@@ -87,7 +87,9 @@ No legitimate support person needs a seed phrase, private key, passphrase, PIN, 
 
 Treat unsolicited contact as hostile until independently verified.
 
-Urgency is a reason to stop. Open the official app or use a support channel found independently.
+Never install remote-access software, share the screen, or let an unsolicited support person control a computer or phone used for financial accounts or Bitcoin.
+
+Urgency is a reason to stop. Close the conversation and contact the provider through its official app or a channel found independently.
 
 Verify transaction details on the trusted device display and reject anything you did not initiate.
 
