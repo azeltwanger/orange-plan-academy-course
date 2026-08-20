@@ -95,7 +95,7 @@ REQUIRED_PHRASES = {
         "PRE-DICTATION-QA.md",
     ),
     "BUILD-YOUR-PLAN-CROSSWALK.md": (
-        "working preview",
+        "deployed Build Your Plan flow",
         "app_completion_rule",
         "human_completion_rule",
     ),
