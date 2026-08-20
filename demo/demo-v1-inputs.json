@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "fixtureVersion": "demo-v1-inputs",
-  "status": "proposed_pending_austin_decisions",
+  "status": "approved_inputs_pending_app_checkpoint",
   "purpose": "Machine-readable source contract for the fictional Orange Plan Academy household. This is not an Orange Plan import or encrypted export.",
   "currency": "USD",
   "privacy": {
@@ -13,58 +13,23 @@
   "referenceValuation": {
     "bitcoinPriceUsd": 100000,
     "status": "illustrative_only",
-    "note": "Used to keep teaching arithmetic stable. The canonical app checkpoint records the live or explicitly controlled price used by Orange Plan."
+    "note": "The accepted app checkpoint records the actual price used."
   },
   "household": {
-    "primary": {
-      "name": "Alex",
-      "age": 45
-    },
-    "spouse": {
-      "name": "Jordan",
-      "age": 43
-    },
-    "children": [
-      {
-        "age": 10
-      },
-      {
-        "age": 12
-      }
-    ],
+    "primary": {"name": "Alex", "age": 45},
+    "spouse": {"name": "Jordan", "age": 43},
+    "children": [{"age": 10}, {"age": 12}],
     "filingStatus": "married_filing_jointly",
-    "state": {
-      "value": "CO",
-      "status": "decision_hold",
-      "note": "State selection affects the app tax result and therefore the displayed surplus. Reconcile after Austin approves the state."
-    },
+    "state": {"value": "CO", "status": "approved"},
     "planningAge": 95
   },
   "income": [
-    {
-      "id": "alex-w2",
-      "owner": "Alex",
-      "type": "w2_salary",
-      "annualGross": 150000,
-      "monthlyGross": 12500,
-      "reliability": "stable"
-    },
-    {
-      "id": "jordan-w2",
-      "owner": "Jordan",
-      "type": "w2_salary",
-      "annualGross": 40000,
-      "monthlyGross": 3333.3333333333,
-      "reliability": "stable"
-    }
+    {"id": "alex-w2", "owner": "Alex", "type": "w2_salary", "annualGross": 150000, "monthlyGross": 12500, "reliability": "stable"},
+    {"id": "jordan-w2", "owner": "Jordan", "type": "w2_salary", "annualGross": 40000, "monthlyGross": 3333.3333333333, "reliability": "stable"}
   ],
   "cashFlow": {
     "annualGrossIncome": 190000,
-    "workingTeachingTaxEstimate": {
-      "annual": 40000,
-      "status": "illustrative_reconciliation",
-      "note": "The current app tax engine owns the canonical tax and surplus. Adjust the saved inputs or teaching equation after the checkpoint when materially different."
-    },
+    "workingTeachingTaxEstimate": {"annual": 40000, "status": "illustrative_reconciliation", "note": "The app engine owns the accepted tax and surplus."},
     "normalLivingSpendingAnnual": 80000,
     "bareBonesLivingSpendingMonthly": 5000,
     "requiredDebtPaymentsAnnual": 22000,
@@ -72,131 +37,15 @@
     "workingReliableSurplusMonthly": 4000
   },
   "accounts": [
-    {
-      "id": "cash-reserve",
-      "owner": "joint",
-      "wrapper": "taxable_cash",
-      "job": "reserve",
-      "holdings": [
-        {
-          "assetClass": "cash",
-          "valueUsd": 30000
-        }
-      ]
-    },
-    {
-      "id": "taxable-brokerage",
-      "owner": "joint",
-      "wrapper": "taxable",
-      "job": "bridge",
-      "holdings": [
-        {
-          "assetClass": "stocks",
-          "valueUsd": 25000
-        }
-      ]
-    },
-    {
-      "id": "alex-401k",
-      "owner": "Alex",
-      "wrapper": "traditional",
-      "job": "legacy",
-      "holdings": [
-        {
-          "assetClass": "stocks",
-          "valueUsd": 15000
-        },
-        {
-          "assetClass": "bonds",
-          "valueUsd": 10000
-        }
-      ]
-    },
-    {
-      "id": "jordan-roth-ira",
-      "owner": "Jordan",
-      "wrapper": "roth",
-      "job": "legacy",
-      "holdings": [
-        {
-          "assetClass": "stocks",
-          "valueUsd": 10000
-        }
-      ]
-    },
-    {
-      "id": "alex-hsa",
-      "owner": "Alex",
-      "wrapper": "hsa",
-      "job": {
-        "value": "bridge",
-        "status": "decision_hold",
-        "alternatives": [
-          "bridge",
-          "legacy"
-        ]
-      },
-      "holdings": [
-        {
-          "assetClass": "stocks",
-          "valueUsd": 5000
-        }
-      ]
-    },
-    {
-      "id": "education-529",
-      "owner": "children",
-      "wrapper": "education",
-      "job": "college",
-      "holdings": [
-        {
-          "assetClass": "stocks",
-          "valueUsd": 20000
-        },
-        {
-          "assetClass": "bonds",
-          "valueUsd": 5000
-        }
-      ]
-    },
-    {
-      "id": "hardware-wallet",
-      "owner": "joint_planning_record",
-      "wrapper": "taxable_direct_bitcoin",
-      "job": "legacy",
-      "holdings": [
-        {
-          "assetClass": "bitcoin",
-          "quantity": 1.5,
-          "referenceValueUsd": 150000
-        }
-      ]
-    },
-    {
-      "id": "exchange-operating",
-      "owner": "Alex",
-      "wrapper": "taxable_bitcoin",
-      "job": "operating_balance",
-      "holdings": [
-        {
-          "assetClass": "bitcoin",
-          "quantity": 0.25,
-          "referenceValueUsd": 25000
-        }
-      ]
-    },
-    {
-      "id": "primary-residence",
-      "owner": "joint",
-      "wrapper": "real_estate",
-      "job": "residence",
-      "holdings": [
-        {
-          "assetClass": "real_estate",
-          "valueUsd": 450000
-        }
-      ]
-    }
+    {"id": "cash-reserve", "owner": "joint", "wrapper": "taxable_cash", "job": "reserve", "holdings": [{"assetClass": "cash", "valueUsd": 30000}]},
+    {"id": "taxable-brokerage", "owner": "joint", "wrapper": "taxable", "job": "bridge", "holdings": [{"assetClass": "stocks", "valueUsd": 25000}]},
+    {"id": "alex-401k", "owner": "Alex", "wrapper": "traditional", "job": "legacy", "holdings": [{"assetClass": "stocks", "valueUsd": 15000}, {"assetClass": "bonds", "valueUsd": 10000}]},
+    {"id": "jordan-roth-ira", "owner": "Jordan", "wrapper": "roth", "job": "legacy", "holdings": [{"assetClass": "stocks", "valueUsd": 10000}]},
+    {"id": "alex-hsa", "owner": "Alex", "wrapper": "hsa", "job": "healthcare_bridge", "holdings": [{"assetClass": "stocks", "valueUsd": 5000}]},
+    {"id": "education-529", "owner": "children", "wrapper": "education", "job": "college", "holdings": [{"assetClass": "stocks", "valueUsd": 20000}, {"assetClass": "bonds", "valueUsd": 5000}]},
+    {"id": "hardware-wallet", "owner": "joint_planning_record", "wrapper": "taxable_direct_bitcoin", "job": "legacy", "holdings": [{"assetClass": "bitcoin", "quantity": 1.5, "referenceValueUsd": 150000}]},
+    {"id": "exchange-operating", "owner": "Alex", "wrapper": "taxable_bitcoin", "job": "operating_balance", "holdings": [{"assetClass": "bitcoin", "quantity": 0.25, "referenceValueUsd": 25000}]},
+    {"id": "primary-residence", "owner": "joint", "wrapper": "real_estate", "job": "residence", "holdings": [{"assetClass": "real_estate", "valueUsd": 450000}]}
   ],
   "startingTotalsAtReferenceValuation": {
     "bitcoinQuantity": 1.75,
@@ -209,150 +58,34 @@
     "grossAssetsUsd": 745000
   },
   "debts": [
-    {
-      "id": "mortgage",
-      "type": "mortgage",
-      "balanceUsd": 280000,
-      "annualRatePercent": 3.25,
-      "rateType": "fixed",
-      "requiredPaymentMonthly": 1450,
-      "approximateYearsRemaining": 25,
-      "coreTreatment": "required_payment_only"
-    },
-    {
-      "id": "auto-loan",
-      "type": "auto_loan",
-      "balanceUsd": 18000,
-      "annualRatePercent": 7,
-      "rateType": "fixed",
-      "requiredPaymentMonthly": 383,
-      "approximateYearsRemaining": 4,
-      "coreTreatment": "recurring_extra_principal",
-      "extraPrincipalMonthly": 500
-    }
+    {"id": "mortgage", "type": "mortgage", "balanceUsd": 280000, "annualRatePercent": 3.25, "rateType": "fixed", "requiredPaymentMonthly": 1450, "approximateYearsRemaining": 25, "coreTreatment": "required_payment_only"},
+    {"id": "auto-loan", "type": "auto_loan", "balanceUsd": 18000, "annualRatePercent": 7, "rateType": "fixed", "requiredPaymentMonthly": 383, "approximateYearsRemaining": 4, "coreTreatment": "recurring_extra_principal", "extraPrincipalMonthly": 500}
   ],
-  "startingDebtMetricsAtReferenceValuation": {
-    "totalDebtUsd": 298000,
-    "requiredPaymentsMonthly": 1833,
-    "dtiPercent": 11.6,
-    "dtaPercent": 40,
-    "status": "reference_math_only",
-    "note": "The app owns the displayed ratios and live asset values."
-  },
-  "householdDebtCeiling": {
-    "maxIntentionalDtiPercent": 25,
-    "noNewDebtAtOrAboveDtaPercent": 40,
-    "status": "decision_hold",
-    "note": "Household policy for the fictional demo, not a universal recommendation."
-  },
-  "reserve": {
-    "basis": "bare_bones_spending",
-    "basisMonthlyUsd": 5000,
-    "targetMonths": 6,
-    "targetUsd": 30000,
-    "currentUsd": 30000,
-    "status": "fully_funded",
-    "initialRetirementTargetMonths": 18
-  },
-  "employerMatch": {
-    "employee": "Alex",
-    "formula": "50_percent_match_on_first_6_percent_of_salary",
-    "employeeContributionAnnualForFullMatch": 9000,
-    "employeeContributionMonthlyForFullMatch": 750,
-    "employerContributionAnnual": 4500,
-    "employerContributionMonthly": 375,
-    "status": "teaching_assumption_verify_for_recording_year"
-  },
+  "startingDebtMetricsAtReferenceValuation": {"totalDebtUsd": 298000, "requiredPaymentsMonthly": 1833, "dtiPercent": 11.6, "dtaPercent": 40, "status": "reference_math_only", "note": "The app owns displayed ratios and live asset values."},
+  "householdDebtCeiling": {"maxIntentionalDtiPercent": 25, "noNewDebtAtOrAboveDtaPercent": 40, "status": "approved", "note": "Fictional household policy, not a universal recommendation."},
+  "reserve": {"basis": "bare_bones_spending", "basisMonthlyUsd": 5000, "targetMonths": 6, "targetUsd": 30000, "currentUsd": 30000, "status": "fully_funded", "initialRetirementTargetMonths": 18},
+  "employerMatch": {"employee": "Alex", "formula": "50_percent_match_on_first_6_percent_of_salary", "employeeContributionAnnualForFullMatch": 9000, "employeeContributionMonthlyForFullMatch": 750, "employerContributionAnnual": 4500, "employerContributionMonthly": 375, "status": "teaching_assumption_verify_for_recording_year"},
   "monthlyRouting": {
     "availableUsd": 4000,
     "destinations": [
-      {
-        "id": "alex-401k-match-contribution",
-        "amountUsd": 750,
-        "type": "employee_contribution"
-      },
-      {
-        "id": "auto-extra-principal",
-        "amountUsd": 500,
-        "type": "extra_debt"
-      },
-      {
-        "id": "tax-advantaged-flex",
-        "amountUsd": 1250,
-        "type": "hsa_roth_or_traditional",
-        "status": "decision_hold_exact_split"
-      },
-      {
-        "id": "taxable-bridge-and-investment-allocation",
-        "amountUsd": 1500,
-        "type": "taxable_bridge",
-        "note": "Holdings follow the saved target and current drift; this is not an automatic additional Bitcoin purchase."
-      }
+      {"id": "alex-401k-match-contribution", "amountUsd": 750, "type": "employee_contribution"},
+      {"id": "auto-extra-principal", "amountUsd": 500, "type": "extra_debt"},
+      {"id": "alex-family-hsa", "amountUsd": 625, "type": "hsa_contribution", "status": "approved_verify_eligibility_and_limits"},
+      {"id": "jordan-roth-ira", "amountUsd": 625, "type": "roth_ira_contribution", "status": "approved_verify_eligibility_and_limits"},
+      {"id": "taxable-bridge-and-investment-allocation", "amountUsd": 1500, "type": "taxable_bridge", "note": "Holdings follow target and drift; not an automatic Bitcoin purchase."}
     ]
   },
-  "allocation": {
-    "currentBitcoinPercentOfInvestableAtReferencePrice": 59.3,
-    "targetBitcoinPercent": 50,
-    "reviewBandPercentagePoints": 10,
-    "status": "decision_hold",
-    "drawdownTestPercent": 75,
-    "referenceBitcoinLossUsd": 131250,
-    "referencePortfolioAfterDrawdownUsd": 163750
-  },
+  "allocation": {"currentBitcoinPercentOfInvestableAtReferencePrice": 59.3, "targetBitcoinPercent": 50, "reviewBandLowerPercent": 40, "reviewBandUpperPercent": 60, "reviewBandPercentagePoints": 10, "status": "approved", "drawdownTestPercent": 75, "referenceBitcoinLossUsd": 131250, "referencePortfolioAfterDrawdownUsd": 163750},
   "lifeEvents": [
-    {
-      "id": "vehicle-replacement",
-      "type": "known_future_cost",
-      "yearsFromNow": 5,
-      "purchaseCeilingUsd": 35000,
-      "expectedProceedsUsd": 10000,
-      "expectedCashFlowInPurchaseYearUsd": 5000,
-      "amountToAccumulateUsd": 20000
-    },
-    {
-      "id": "college-commitment",
-      "type": "education",
-      "status": "optional_lesson_and_decision_hold_for_continuous_demo",
-      "familyCommitmentUsd": 80000,
-      "existing529Usd": 25000,
-      "parentCashFlowDuringCollegeUsd": 20000,
-      "studentAidWorkOrAcceptedBorrowingUsd": 10000,
-      "remainingToAccumulateOrFundUsd": 25000
-    }
+    {"id": "vehicle-replacement", "type": "known_future_cost", "yearsFromNow": 5, "purchaseCeilingUsd": 35000, "expectedProceedsUsd": 10000, "expectedCashFlowInPurchaseYearUsd": 5000, "amountToAccumulateUsd": 20000},
+    {"id": "college-commitment", "type": "education", "status": "approved_optional_continuous_demo", "scope": "total_family_commitment_across_both_children", "familyCommitmentUsd": 80000, "existing529Usd": 25000, "parentCashFlowDuringCollegeUsd": 20000, "studentAidWorkOrAcceptedBorrowingUsd": 10000, "remainingToAccumulateOrFundUsd": 25000}
   ],
-  "bitcoinTaxLots": {
-    "totalQuantity": 1.75,
-    "positions": [
-      {
-        "quantity": 1.25,
-        "recordStatus": "complete",
-        "knownBasisUsd": 48000
-      },
-      {
-        "quantity": 0.4,
-        "recordStatus": "reconstruction_pending_exchange_export_available",
-        "knownBasisUsd": null
-      },
-      {
-        "quantity": 0.1,
-        "recordStatus": "old_account_records_missing",
-        "knownBasisUsd": null
-      }
-    ]
-  },
+  "bitcoinTaxLots": {"totalQuantity": 1.75, "positions": [{"quantity": 1.25, "recordStatus": "complete", "knownBasisUsd": 48000}, {"quantity": 0.4, "recordStatus": "reconstruction_pending_exchange_export_available", "knownBasisUsd": null}, {"quantity": 0.1, "recordStatus": "old_account_records_missing", "knownBasisUsd": null}]},
   "assumptions": {
-    "bitcoinReturnView": {
-      "value": "power_law",
-      "status": "decision_hold"
-    },
-    "broadPreset": {
-      "value": null,
-      "status": "decision_hold_capture_exact_app_values"
-    },
-    "inflationPercent": {
-      "value": null,
-      "status": "decision_hold"
-    },
+    "bitcoinReturnView": {"value": "power_law", "status": "approved"},
+    "broadPreset": {"value": "current_standard_app_defaults", "status": "approved_capture_exact_values_at_checkpoint"},
+    "inflationPercent": {"value": 3, "status": "approved"},
+    "inflationStressScenarioPercent": {"value": 4, "status": "approved_scenario"},
     "planConfidenceTargetPercent": 80,
     "testRuns": 1000,
     "plannedRetirementAge": 55,
@@ -362,159 +95,28 @@
   "retirementIncome": {
     "baselineLivingSpendingAnnualTodayDollars": 100000,
     "plannedRetirementAge": 55,
-    "partTimeIncome": {
-      "annualTodayDollars": 20000,
-      "durationYears": 3,
-      "status": "decision_hold"
-    },
-    "laterDurableIncome": {
-      "annualTodayDollars": 52000,
-      "startAge": 67,
-      "status": "decision_hold_verify_source_and_timing"
-    },
-    "startingSpendingChoice": {
-      "value": "balanced_reference_if_supported",
-      "status": "output_and_decision_hold"
-    },
-    "annualPolicyDefaults": {
-      "lowerTriggerPercent": 60,
-      "targetPercent": 80,
-      "upperTriggerPercent": 95,
-      "maxAnnualCorrectionPercent": 10
-    },
-    "borrowing": {
-      "coreSavedBaseline": "excluded",
-      "comparison": "advanced_only_when_relevant",
-      "status": "decision_hold"
-    }
+    "partTimeIncome": {"annualTodayDollars": 20000, "durationYears": 3, "status": "approved"},
+    "socialSecurity": [
+      {"owner": "Alex", "annualTodayDollars": 30000, "startAge": 67, "status": "approved"},
+      {"owner": "Jordan", "annualTodayDollars": 22000, "startAge": 67, "startsYearsAfterAlex": 2, "status": "approved"}
+    ],
+    "startingSpendingChoice": {"value": null, "decisionRule": "Use the calculated Balanced 80% reference unless the household deliberately chooses the current Plan amount after seeing its measured confidence.", "status": "output_hold"},
+    "annualPolicyDefaults": {"lowerTriggerPercent": 60, "targetPercent": 80, "upperTriggerPercent": 95, "maxAnnualCorrectionPercent": 10},
+    "borrowing": {"coreSavedBaseline": "excluded", "comparison": "advanced_only_when_relevant", "status": "approved"}
   },
   "custody": {
-    "startingState": {
-      "hardwareWalletBitcoin": 1.5,
-      "exchangeOperatingBitcoin": 0.25,
-      "recoveryTested": false,
-      "deviceAndBackupSameFailureDomain": true,
-      "secondAdultHasOperatedWallet": false,
-      "familyCustodyMapComplete": false
-    },
-    "requiredOutcome": {
-      "manufacturerSupportedRecoveryTest": true,
-      "smallReceiveAndSendTest": true,
-      "failureDomainsReviewed": true,
-      "familyPracticeWallet": true,
-      "noSecretsInOrangePlanOrDocuments": true
-    }
+    "startingState": {"hardwareWalletBitcoin": 1.5, "exchangeOperatingBitcoin": 0.25, "recoveryTested": false, "deviceAndBackupSameFailureDomain": true, "secondAdultHasOperatedWallet": false, "familyCustodyMapComplete": false},
+    "requiredOutcome": {"manufacturerSupportedRecoveryTest": true, "smallReceiveAndSendTest": true, "failureDomainsReviewed": true, "familyPracticeWallet": true, "noSecretsInOrangePlanOrDocuments": true}
   },
-  "estateAndProtection": {
-    "intendedPrimaryBeneficiary": "spouse",
-    "intendedContingentBeneficiaries": "children_subject_to_attorney_design",
-    "knownProviderMismatch": "old_workplace_account_names_parent",
-    "executorConfirmed": false,
-    "backupExecutorConfirmed": false,
-    "willCurrentAttorneyReview": false,
-    "financialPowerOfAttorneyVerified": false,
-    "healthcareDirectiveVerified": false,
-    "heirLetterComplete": false,
-    "multipleDiscoveryPathsComplete": false,
-    "insurancePolicyTerms": "intentionally_tbd"
-  },
+  "estateAndProtection": {"intendedPrimaryBeneficiary": "spouse", "intendedContingentBeneficiaries": "children_subject_to_attorney_design", "knownProviderMismatch": "old_workplace_account_names_parent", "executorConfirmed": false, "backupExecutorConfirmed": false, "willCurrentAttorneyReview": false, "financialPowerOfAttorneyVerified": false, "healthcareDirectiveVerified": false, "heirLetterComplete": false, "multipleDiscoveryPathsComplete": false, "insurancePolicyTerms": "intentionally_tbd"},
   "checkpointOutputPlaceholders": {
-    "baseline": {
-      "confidenceAtPlannedAgePercent": null,
-      "earliestTargetQualifiedMonthOrAge": null,
-      "source": "orange_plan_current_app"
-    },
-    "cashFlow": {
-      "displayedTaxAnnualUsd": null,
-      "displayedSurplusMonthlyUsd": null,
-      "reserveMonthsFunded": null,
-      "source": "orange_plan_current_app"
-    },
-    "debt": {
-      "displayedDtiPercent": null,
-      "displayedDtaPercent": null,
-      "autoPayoffDate": null,
-      "source": "orange_plan_current_app"
-    },
-    "allocation": {
-      "displayedCurrentBitcoinPercent": null,
-      "displayedTargetBitcoinPercent": null,
-      "displayedDrift": null,
-      "source": "orange_plan_current_app"
-    },
-    "tax": {
-      "projectedTaxByYear": null,
-      "rothConversionComparison": null,
-      "source": "orange_plan_current_app"
-    },
-    "income": {
-      "conservativeSpendingAnnualUsd": null,
-      "balancedSpendingAnnualUsd": null,
-      "aggressiveSpendingAnnualUsd": null,
-      "currentPlanSpendingConfidencePercent": null,
-      "firstYearTotalNeedUsd": null,
-      "firstYearRecurringIncomeUsd": null,
-      "firstYearTotalDrawUsd": null,
-      "accountAndHoldingSourceSplit": null,
-      "bitcoinSoldOrRetained": null,
-      "retirementReserveMonthsFunded": null,
-      "source": "orange_plan_current_app"
-    },
-    "final": {
-      "scenarioDeltas": null,
-      "endingAssetsUsd": null,
-      "projectedEstateUsd": null,
-      "source": "orange_plan_current_app"
-    }
-  },
-  "invariants": [
-    {
-      "id": "income-total",
-      "expression": "150000 + 40000 = 190000"
-    },
-    {
-      "id": "working-surplus-reference",
-      "expression": "190000 - 40000 - 80000 - 22000 = 48000"
-    },
-    {
-      "id": "reserve-target",
-      "expression": "5000 * 6 = 30000"
-    },
-    {
-      "id": "investable-assets-reference",
-      "expression": "175000 + 75000 + 15000 + 30000 = 295000"
-    },
-    {
-      "id": "gross-assets-reference",
-      "expression": "295000 + 450000 = 745000"
-    },
-    {
-      "id": "total-debt",
-      "expression": "280000 + 18000 = 298000"
-    },
-    {
-      "id": "monthly-route",
-      "expression": "750 + 500 + 1250 + 1500 = 4000"
-    },
-    {
-      "id": "vehicle-funding-gap",
-      "expression": "35000 - 10000 - 5000 = 20000"
-    },
-    {
-      "id": "college-stack",
-      "expression": "25000 + 20000 + 10000 + 25000 = 80000"
-    },
-    {
-      "id": "bitcoin-quantity",
-      "expression": "1.25 + 0.40 + 0.10 = 1.75"
-    },
-    {
-      "id": "income-source-reconciliation",
-      "expression": "firstYearTotalDrawUsd = sum(accountAndHoldingSourceSplit)"
-    },
-    {
-      "id": "no-secret-data",
-      "expression": "No seed phrase, private key, passphrase, PIN, password, wallet backup, or exact secret location is present."
-    }
-  ]
+    "baseline": {"confidenceAtPlannedAgePercent": null, "earliestTargetQualifiedMonthOrAge": null, "source": "orange_plan_current_app"},
+    "cashFlow": {"displayedTaxAnnualUsd": null, "displayedSurplusMonthlyUsd": null, "reserveMonthsFunded": null, "source": "orange_plan_current_app"},
+    "debt": {"displayedDtiPercent": null, "displayedDtaPercent": null, "autoPayoffDate": null, "source": "orange_plan_current_app"},
+    "allocation": {"displayedCurrentBitcoinPercent": null, "displayedTargetBitcoinPercent": null, "displayedDrift": null, "source": "orange_plan_current_app"},
+    "tax": {"projectedTaxByYear": null, "rothConversionComparison": null, "source": "orange_plan_current_app"},
+    "income": {"conservativeSpendingAnnualUsd": null, "balancedSpendingAnnualUsd": null, "aggressiveSpendingAnnualUsd": null, "currentPlanSpendingConfidencePercent": null, "firstYearTotalNeedUsd": null, "firstYearRecurringIncomeUsd": null, "firstYearTotalDrawUsd": null, "accountAndHoldingSourceSplit": null, "bitcoinSoldOrRetained": null, "source": "orange_plan_current_app"},
+    "protect": {"readinessStatus": null, "source": "orange_plan_current_app"},
+    "final": {"endingAssetsUsd": null, "estateValueUsd": null, "scenarioDeltas": null, "source": "orange_plan_current_app"}
+  }
 }
