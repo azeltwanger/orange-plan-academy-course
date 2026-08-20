@@ -15,19 +15,26 @@ The higher retirement amount reflects a deliberately different active-retirement
 
 The floor is recurring income arriving without asset sales.
 
-Demo inputs:
+Approved demo timeline:
 
-- $20,000 of part-time income for the first 3 retirement years
-- About $52,000 of later durable income beginning at age 67
+- $20,000 of part-time income during the first 3 retirement years
+- Alex Social Security: $30,000 per year beginning at age 67
+- Jordan Social Security: $22,000 per year beginning when Jordan reaches 67, two years later
 
-Use real start and end dates. The floor changes over time.
+All amounts are entered in today's dollars. Use separate source records and real start and end dates.
 
 ## Portfolio-funded gap
 
 **Living spending − recurring income = portfolio-funded living gap**
 
-- First 3 retirement years: $100,000 − $20,000 = $80,000 before taxes, remaining debt, events, or refill
-- After later income begins: $100,000 − $52,000 = $48,000 before other costs
+Before taxes, remaining debt, life events, or refill:
+
+- First 3 retirement years: $100,000 − $20,000 = $80,000
+- After part-time work ends and before Social Security: $100,000
+- After Alex Social Security begins: $100,000 − $30,000 = $70,000
+- After both Social Security benefits begin: $100,000 − $52,000 = $48,000
+
+The income bridge is therefore a series of stages rather than one flat annual gap.
 
 ## Total draw
 
@@ -55,7 +62,7 @@ Cash Flow owns reserve basis and target months. Income shows current funding in 
 ### Recurring income
 
 - **What it means:** income without portfolio sales
-- **Calculated from:** verified sources and dates
+- **Calculated from:** verified sources, owners, and dates
 - **Edit source:** income records
 - **This affects:** gap, Bridge, total draw, tax, and reserve
 
@@ -68,4 +75,4 @@ Cash Flow owns reserve basis and target months. Income shows current funding in 
 
 ## Done when
 
-The household can explain spending, income floor, gap, total draw, and accessible Bridge funding.
+The household can explain spending, each income-floor stage, each living-spending gap, total draw, and accessible Bridge funding.
