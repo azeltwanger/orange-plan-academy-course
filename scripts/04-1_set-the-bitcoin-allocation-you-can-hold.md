@@ -3,6 +3,8 @@ TELEPROMPTER SCRIPT — segment 4.1
 ~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
+This fictional lesson is financial education. It explains how Orange Plan defines an allocation and how a household compares trade-offs. It does not instruct a learner to buy or sell an asset.
+
 The allocation decision is not the largest Bitcoin percentage that creates the best return.
 
 It is the position the household can keep through a 70% to 80% drawdown while the mortgage, family costs, and the rest of life continue.
@@ -14,16 +16,21 @@ A Bitcoin percentage changes depending on what it is divided by.
 At the illustrative $100,000 Bitcoin price, the demo household has:
 
 - $175,000 of Bitcoin,
-- $120,000 of other investable assets,
+- $95,000 of other holdings inside the household allocation,
+- $25,000 in a 529 committed to the children,
 - and $450,000 of home value.
 
-Bitcoin is about 59% of the $295,000 investable portfolio.
+Orange Plan excludes the primary residence and the beneficiary-restricted 529 from the household target-allocation calculation.
 
-It is about 23% of the $745,000 of gross assets before debt.
+So the app's allocatable portfolio is $270,000, and Bitcoin is about 64.8%.
 
-Net worth produces another percentage because it subtracts debt.
+If we include the 529 when describing all financial balances, the denominator is $295,000 and Bitcoin is about 59.3%.
 
-These numbers answer different questions. Orange Plan's target mix uses the investable portfolio. Use whole-balance-sheet exposure and leverage as additional context rather than mixing denominators.
+If we include the home, Bitcoin is about 23.5% of $745,000 of gross assets before debt.
+
+Those numbers are all mathematically correct. They answer different questions.
+
+The target-allocation decision uses the $270,000 portfolio the household can manage toward the target. The 529 has already been assigned to college and should not make the household's retirement allocation look less concentrated.
 
 == THREE THINGS HAVE TO SUPPORT THE POSITION ==
 
@@ -44,7 +51,7 @@ The tiers are a teaching guide, not an identity:
 - Foundation: roughly 1–5%
 - Integration: roughly 10–20%
 - Optimization: roughly 25–50%
-- Sovereign: 50% or more of investable assets
+- Sovereign: 50% or more of the allocatable portfolio
 
 As the position becomes a main driver of the plan, reserve, debt, custody, beneficiaries, and recovery matter more. Do not choose a tier because its name sounds better.
 
@@ -63,11 +70,15 @@ Assuming other holdings stay flat:
 
 The dollar amount is what the household feels.
 
-At the demo's current 59% Bitcoin allocation, a 75% drawdown reduces the Bitcoin from $175,000 to about $43,750.
+At the demo's current $175,000 Bitcoin position, a 75% drawdown removes $131,250.
 
-The investable portfolio falls from $295,000 to roughly $164,000 if the other assets stay flat. About $131,000 disappears from the screen.
+The allocatable portfolio falls from $270,000 to about $138,750 if the other holdings stay flat.
 
-The mortgage and groceries do not fall with it.
+If you are looking at all financial balances including the 529, the total falls from $295,000 to about $163,750.
+
+The loss is the same. The percentage and ending total depend on which denominator is being discussed.
+
+The mortgage and groceries do not fall with Bitcoin.
 
 Could the household watch that loss, keep every payment current, and avoid a forced or panic sale?
 
@@ -79,52 +90,54 @@ A target is the intended long-term mix.
 
 A review band defines when the difference becomes large enough to review.
 
-Today's action decides how the household moves toward the target.
+Today's action is a separate household decision.
 
-A rising Bitcoin price can push the current allocation above target without one purchase. That does not mean every rally requires a taxable sale.
+The approved demo target is 50% Bitcoin with a 40% to 60% review band.
 
-I would usually use new contributions and cash flow first. A large one-time rebalance is a separate decision that needs tax, access, reserve, and custody review.
+At 64.8%, the household is above the band. That means the difference is large enough to review. It does not create an automatic trade.
 
-The approved demo target is 50% Bitcoin with a 40% to 60% review band. At about 59%, the household is near the upper edge rather than automatically under an instruction to sell.
+Possible responses include directing future contributions toward the underweight side, changing the target after a genuine planning review, or considering a separate rebalance after tax, basis, access, reserve, and custody consequences are understood.
 
-The $1,500 taxable Bridge and investment route follows the saved target and current drift. It is not an automatic instruction to buy more Bitcoin while the household is already near the upper edge.
+The $1,500 taxable Bridge and investment route follows the saved target and current drift rather than automatically adding to an already-overweight holding.
+
+A rising price can create the same situation without one new purchase. The band is there to create a deliberate review, not constant trading.
 
 == CUSTODY MUST MATCH THE CONSEQUENCE ==
 
 A life-changing amount on one exchange or an untested hardware wallet is an allocation risk, not only a custody issue.
 
-This lesson only flags the mismatch. Module 7 fixes the custody process.
+This lesson flags the mismatch. Module 7 fixes the custody process.
 
 == WHERE THESE NUMBERS COME FROM ==
 
 ### Current allocation
 
-**What it means:** share of investable holdings in Bitcoin.
+**What it means:** share of the household's allocatable portfolio currently in Bitcoin.
 
-**Calculated from:** Bitcoin holdings divided by investable assets.
+**Calculated from:** Bitcoin holdings divided by the holdings included in the target-allocation scope. The primary residence and beneficiary-restricted 529 are excluded.
 
-**Edit source:** holdings and target allocation.
+**Edit source:** the underlying holdings and target allocation.
 
-**This affects:** drift, routing, drawdown exposure, confidence, and earliest date.
+**This affects:** drift, routing, drawdown exposure, confidence, and the earliest target-qualified date.
 
 ### Drawdown hit
 
-**What it means:** approximate portfolio loss from the Bitcoin decline before other assets move.
+**What it means:** approximate dollar loss caused by the Bitcoin decline before other holdings move.
 
-**Calculated from:** Bitcoin allocation multiplied by drawdown.
+**Calculated from:** current Bitcoin value multiplied by the drawdown. The portfolio percentage then depends on the named denominator.
 
-**Edit source:** target or Scenario holdings.
+**Edit source:** the holdings or the Scenario drawdown.
 
 **This affects:** holdability, reserve adequacy, and target realism.
 
 == YOUR DECISION ==
 
-Choose the Bitcoin target and review band the household can keep through a full drawdown.
+Choose the Bitcoin target and review band the household can keep through a full drawdown, using the same allocation denominator the app uses.
 
 == PUT IT IN ORANGE PLAN ==
 
-Set the target and band, compare them with the current mix, and calculate the drawdown in dollars at today's balance. Treat any large one-time trade as a separate decision.
+Set the target and band, inspect which holdings are included in the allocation, and compare the current mix with the target. Keep the review state separate from any implementation decision.
 
 == YOU ARE DONE WHEN ==
 
-You can state the current percentage, target, review band, and approximate dollar loss in a 75% drawdown—and still choose to hold the position.
+You can state the app's denominator, current percentage, target, review band, and approximate dollar loss in a 75% drawdown—and explain the trade-off the household is accepting.
