@@ -33,13 +33,15 @@ The tier describes the position; it is not an identity.
 
 At the demo's current 59% allocation, a 75% Bitcoin decline removes about $131,000 from the $295,000 investable portfolio if other assets stay flat.
 
-## Target, band, action
+## Target, band, and action
 
 - Target: intended long-term mix
-- Band: when drift becomes large enough to review
+- Review band: when drift becomes large enough to review
 - Action: contributions, gradual changes, or a separately reviewed trade
 
-Proposed demo target: 50% Bitcoin with a 10-point review band. Austin approval pending.
+Approved demo target: **50% Bitcoin with a 40–60% review band**.
+
+The current 59.3% mix is near the upper edge. It is not an automatic instruction to sell, and the $1,500 taxable Bridge and investment route is not an automatic additional Bitcoin purchase. New money follows the saved target and current drift.
 
 ## Where the numbers come from
 
