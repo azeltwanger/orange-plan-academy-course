@@ -18,9 +18,17 @@ Assumptions are the rules used to project the plan through time. They include re
 
 Choose a starting view you can explain rather than the one that creates the most attractive date. Test weaker or stronger views through Scenarios.
 
+The approved demo uses:
+
+- Built-in Power Law for Bitcoin
+- Current standard app defaults for the other broad asset classes
+- 3% inflation in the saved baseline
+- A separate 4% inflation stress Scenario
+- Planning age 95
+
 A declining Bitcoin return shape can avoid assuming one high percentage forever. Power law is Austin's current personal starting view, not a guarantee.
 
-Inflation compounds the spending need. Small differences can materially change a long retirement.
+Inflation compounds the spending need. Keeping 4% in a Scenario lets the learner test higher inflation without quietly changing the working baseline.
 
 ## Holding-specific overrides
 
