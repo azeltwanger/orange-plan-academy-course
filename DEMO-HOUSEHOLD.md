@@ -1,30 +1,24 @@
 # Orange Plan Academy — canonical demo household
 
-**Status:** approved course-owned inputs; reproducible engine candidate generated; deployed UI verification pending  
+**Status:** approved inputs; reconciled engine candidate generated; deployed UI receipts pending  
 **Version:** `demo-v1-inputs`  
 **Approved by Austin:** 2026-08-19  
-**Engine candidate:** app commit `4456b3c954ea29630b4d9c73aff6a52711cfad15`  
+**Engine candidate:** app commit `3105664da5dd77c57bf6d489e28b8f3a5e3d3eb5`  
 **Final output authority:** accepted receipts under `demo/` and `DEMO-CHECKPOINT-RUN-SHEET.md`
 
 ## Why this exists
 
 The Academy uses one continuous fictional household so the learner watches one plan take shape instead of relearning a new example in every lesson.
 
-This file owns the demo inputs and the accepted interpretation of app outputs. A script, lesson, slide, or walkthrough may not quietly change one value. A separate example is allowed only when it is labelled **illustrative — not the demo household**.
+This file owns the demo inputs and the accepted interpretation of app outputs. A script, lesson, visual, or walkthrough may not quietly change one value. A separate example is allowed only when it is labelled **illustrative — not the demo household**.
 
 The household is fictional. It contains no client data, Austin household data, credentials, or Bitcoin secrets.
 
 ## Input versus output
 
-### Course-owned inputs
+Course-owned facts and decisions are approved below. Orange Plan owns confidence, earliest date, tax, allocation scope, payoff timing, withdrawal sources, Bitcoin sold, Scenario deltas, and other projection outputs.
 
-Facts and decisions the course deliberately enters. These are approved below.
-
-### Orange Plan outputs
-
-Confidence, earliest target-qualified date, displayed tax, debt payoff timing, allocation scope, withdrawal sources, Bitcoin sold, Scenario deltas, and ending assets come from the current app.
-
-The first reproducible engine candidate is recorded in `demo/ENGINE-CHECKPOINT-CANDIDATE-4456b3c.md`. It may guide script revisions, but the deployed interface still has to verify the displayed value, label, state, and source.
+The current reconciled engine candidate is `demo/ENGINE-CHECKPOINT-CANDIDATE-3105664.md`. It can be used to finish scripts and production briefs. The deployed interface still has to verify the visible label, rounding, save/preview state, and screenshot evidence before a final receipt is accepted.
 
 ---
 
@@ -37,12 +31,11 @@ The first reproducible engine candidate is recorded in `demo/ENGINE-CHECKPOINT-C
 | Children | Two, ages 10 and 12 |
 | Filing status | Married filing jointly |
 | State | Colorado |
-| Alex retirement age | 55 |
-| Jordan retirement age | 55, two calendar years after Alex because Jordan is younger |
+| Household retirement start | When Alex is 55 |
 | Planning age | 95 |
 | Current year | Use the recording year shown in the accepted app build |
 
-The current app result reflects Jordan continuing W-2 work for two years after Alex retires. That timing must be visible in the retirement-income lesson so the first-year recurring income does not look unexplained.
+The current app has one household retirement date anchored to the primary person's age. Jordan does not have a separate retirement-age input in this saved plan. A March retirement date leaves partial-year household wages before retirement begins. Each spouse's Social Security still has its own start age.
 
 # Current cash flow
 
@@ -54,23 +47,29 @@ The current app result reflects Jordan continuing W-2 work for two years after A
 | Jordan W-2 salary | $40,000 | $3,333 | Stable |
 | **Gross household income** | **$190,000** | **$15,833** | — |
 
-## Current outflow and routing
+## Current source rows and routing
 
-| Item | Annual | Monthly | Status |
-|---|---:|---:|---|
-| Round teaching estimate for current taxes | $40,000 | $3,333 | Explainable teaching input |
-| First engine current-year tax candidate | $36,862 | $3,072 | UI verification pending |
-| Normal living spending, excluding debt payments | $80,000 | $6,667 | Approved input |
-| Required debt payments | Approximately $22,000 | Approximately $1,833 | Approved debt rows |
-| **Repeatable amount routed by the household** | **$48,000** | **$4,000** | Approved decision |
+| Item | Annual / monthly result | Status |
+|---|---:|---|
+| Round teaching tax estimate | $40,000/year | Used only for the simple equation |
+| Reconciled engine tax | $36,862/year | UI receipt pending |
+| Normal living spending, debt excluded | $80,000/year | Approved input |
+| Required debt payments | Approximately $1,833/month | Approved debt rows |
+| Saved extra auto principal | $500/month | Included in Cash Flow planned debt |
+| Decision capacity before extra debt | Approximately $4,261/month | Engine candidate |
+| Displayed surplus after planned debt | Approximately $3,761/month | Engine candidate |
+| Contribution route after debt | $3,500/month | Approved decision |
+| Operating cushion after route | Approximately $261/month | Engine candidate |
 
-Teaching reconciliation:
+The round teaching reconciliation remains:
 
-> $190,000 income − $40,000 taxes − $80,000 living spending − $22,000 required debt payments = **$48,000 per year**, or **$4,000 per month**.
+> $190,000 income − $40,000 tax − $80,000 living spending − $22,000 required debt payments = $48,000/year, or $4,000/month.
 
-The current engine estimates lower tax. That means the maximum calculated amount before flexible routing may be slightly above $4,000. The Academy should describe $4,000 as the amount the household deliberately commits every month, leaving a small operating cushion, rather than pretending it is the exact maximum output.
+The full household route is still $4,000/month:
 
-The Cash Flow UI still needs to confirm the displayed tax, required-debt treatment, and monthly surplus before the final receipt is accepted.
+> $500 extra debt + $3,500 account contributions = $4,000.
+
+The app's post-debt headline is lower because the $500 extra principal is already inside the Debt row. Do not subtract or route it a second time.
 
 ## Spending definitions
 
@@ -84,70 +83,54 @@ The Cash Flow UI still needs to confirm the displayed tax, required-debt treatme
 
 **Illustrative reference price: $100,000 per BTC.** The accepted app receipt records the price and date used.
 
-| Account / holding | Owner | Wrapper | Holding mix | Reference value | Primary job | Allocation scope |
-|---|---|---|---|---:|---|---|
-| Cash reserve account | Joint | Taxable cash | Cash | $30,000 | Reserve | Included |
-| Taxable brokerage | Joint | Taxable | Stocks | $25,000 | Bridge | Included |
-| Alex 401(k) | Alex | Traditional | $15,000 stocks + $10,000 bonds | $25,000 | Legacy | Included |
-| Jordan Roth IRA | Jordan | Roth | Stocks | $10,000 | Legacy | Included |
-| Alex family HSA | Alex | HSA | Stocks | $5,000 | Healthcare Bridge | Included |
-| 529 | Children | Education | $20,000 stocks + $5,000 bonds | $25,000 | College | **Excluded from household target allocation** |
-| Hardware wallet | Joint planning record | Taxable direct Bitcoin | 1.50 BTC | $150,000 | Legacy | Included |
-| Exchange operating balance | Alex | Taxable Bitcoin | 0.25 BTC | $25,000 | Operating balance | Included |
-| Primary residence | Joint | Real estate | Home | $450,000 | Residence | Excluded |
+| Account / holding | Owner | Holding mix | Reference value | Job | Allocation scope |
+|---|---|---|---:|---|---|
+| Cash reserve account | Joint | Cash | $30,000 | Reserve | Included |
+| Taxable brokerage | Joint | Stocks | $25,000 | Bridge | Included |
+| Alex 401(k) | Alex | $15,000 stocks + $10,000 bonds | $25,000 | Legacy | Included |
+| Jordan Roth IRA | Jordan | Stocks | $10,000 | Legacy | Included |
+| Alex family HSA | Alex | Stocks | $5,000 | Healthcare Bridge | Included |
+| 529 | Children | $20,000 stocks + $5,000 bonds | $25,000 | College | **Excluded: beneficiary-restricted** |
+| Hardware wallet | Joint planning record | 1.50 BTC | $150,000 | Legacy | Included |
+| Exchange operating balance | Alex | 0.25 BTC | $25,000 | Operating balance | Included |
+| Primary residence | Joint | Home | $450,000 | Residence | Excluded |
 
-## Three denominators
+## Three useful denominators
 
-| Scope | Amount | Bitcoin percentage | What it answers |
+| Scope | Amount | Bitcoin percentage | Question answered |
 |---|---:|---:|---|
-| **Allocatable portfolio used by Orange Plan** | **$270,000** | **64.8%** | What mix is the household managing toward its target? |
-| Financial/investment balances including the 529 | $295,000 | 59.3% | How much financial wealth exists, including money committed to college? |
-| Gross assets including the home | $745,000 | 23.5% | How concentrated is the whole balance sheet before debt? |
+| **Allocatable portfolio used by Orange Plan** | **$270,000** | **64.8%** | What mix is managed toward the household target? |
+| Financial balances including the 529 | $295,000 | 59.3% | How much financial wealth exists, including college money? |
+| Gross assets including the home | $745,000 | 23.5% | How concentrated is the entire balance sheet before debt? |
 
-The Allocation page excludes the beneficiary-restricted 529 because those dollars already have a separate owner/job and are not available to rebalance the household's retirement portfolio.
-
-## App allocation result
-
-| Output | Result |
-|---|---:|
-| Current Bitcoin in the allocatable portfolio | $175,000 |
-| Current Bitcoin allocation | 64.8% |
-| Approved target | 50% |
-| Approved review band | 40–60% |
-| Status | Above the review band; review required, not an automatic sale |
-
-The $1,500 taxable Bridge / investment route follows target and drift. While Bitcoin is above the band, new money can move toward non-Bitcoin holdings first. A taxable sale remains a separate tax, access, and planning decision.
+The Allocation page excludes the primary residence and beneficiary-restricted 529. The household is above its approved 40–60% Bitcoin review band. That triggers a review, not an automatic taxable sale.
 
 ## Drawdown reference
 
-| Scope | Result after a 75% Bitcoin decline, other assets flat |
+| Scope | Result after a 75% Bitcoin decline, other holdings flat |
 |---|---:|
 | Bitcoin loss | $131,250 |
 | Allocatable portfolio | $138,750 |
-| Financial balances including the excluded 529 | $163,750 |
+| Financial balances including the 529 | $163,750 |
 
 # Debt
 
-| Debt | Balance | Rate | Required payment | Remaining structure | Core treatment |
-|---|---:|---:|---:|---|---|
-| Mortgage | $280,000 | 3.25% fixed | $1,450/month | Approximately 25 years | Required payment only |
-| Auto loan | $18,000 | 7.0% fixed | Approximately $383/month | Approximately 4 years before extra principal | $500/month recurring extra principal |
-| **Total** | **$298,000** | — | **Approximately $1,833/month required** | — | — |
+| Debt | Balance | Rate | Required payment | Core treatment |
+|---|---:|---:|---:|---|
+| Mortgage | $280,000 | 3.25% fixed | $1,450/month | Required payment only |
+| Auto loan | $18,000 | 7.0% fixed | Approximately $383/month | $500/month recurring extra principal |
+| **Total** | **$298,000** | — | **Approximately $1,833/month required** | — |
 
-## Debt outputs
-
-| Metric | Result |
+| Metric | Engine candidate |
 |---|---:|
 | DTI | 11.6% |
-| DTA at the reference valuation | 40.0% |
-| Engine candidate auto payoff | 2027 · Alex age 46 |
+| DTA at reference valuation | 40.0% |
+| Auto payoff | 2027 · Alex age 46 |
 
-## Approved household debt ceiling
+Approved fictional household ceiling:
 
 - Do not intentionally exceed **25% DTI**.
 - Do not add debt when **DTA is 40% or higher**.
-
-These are fictional household rules, not universal product warning lines.
 
 # Reserve
 
@@ -155,106 +138,93 @@ These are fictional household rules, not universal product warning lines.
 |---|---:|
 | Bare-bones monthly basis | $5,000 |
 | Working target | 6 months |
-| Working target amount | $30,000 |
+| Target amount | $30,000 |
 | Current reserve | $30,000 |
 | Working status | Fully funded |
-| Initial retirement cash-buffer target | 18 months of the selected retirement basis; app calculates the amount |
+| Initial retirement target | 18 months of the selected retirement basis; app calculates the amount |
 
 # Contribution and next-dollar route
 
-The household deliberately routes **$4,000 per month**. Employer money is additional.
-
 | Destination | Monthly household dollars | Reason |
 |---|---:|---|
-| Alex 401(k) employee contribution | $750 | 6% of salary; captures the assumed match |
-| Auto-loan extra principal | $500 | Approved 7% debt treatment |
-| Alex family HSA | $625 | Qualified healthcare Bridge |
+| Auto-loan extra principal | $500 | Approved 7% debt treatment; already in Cash Flow Debt |
+| Alex 401(k) employee contribution | $750 | Captures the assumed match |
+| Alex family HSA | $625 | Qualified Healthcare Bridge |
 | Jordan Roth IRA | $625 | Long-term tax-free qualified growth |
-| Taxable Bridge / investment allocation | $1,500 | Accessible early-retirement funding; holdings follow target and drift |
-| **Total** | **$4,000** | Repeatable route |
+| Taxable Bridge / saved allocation | $1,500 | Accessible early-retirement funding; holdings follow target and drift |
+| **Full route** | **$4,000** | $500 debt + $3,500 contributions |
 
 Employer-match teaching assumption:
 
 - 50% match on the first 6% of Alex's $150,000 salary
-- Employee contribution for the full assumed match: $9,000/year or $750/month
-- Employer contribution: $4,500/year or $375/month
+- $9,000/year or $750/month employee contribution for the full assumed match
+- $4,500/year or $375/month employer contribution, shown separately
 
-Reverify recording-year limits, HSA eligibility, and any employer HSA contribution before filming.
+Reverify recording-year contribution limits, HSA eligibility, and employer HSA contributions before filming.
 
-# Known future costs and life events
+# Known future costs
 
 ## Vehicle replacement
 
 | Item | Amount |
 |---|---:|
 | Purchase ceiling | $35,000 in 5 years |
-| Expected current-vehicle proceeds | $10,000 |
+| Expected vehicle proceeds | $10,000 |
 | Expected purchase-year cash flow | $5,000 |
 | Amount to accumulate | $20,000 |
 
-## College — optional lesson
+## Optional college commitment
 
-The household keeps an **$80,000 total family commitment across both children**, not unlimited tuition and not $80,000 per child.
+The household commits **$80,000 total across both children**, not unlimited tuition and not $80,000 per child.
 
 | Source | Amount |
 |---|---:|
 | Existing 529 | $25,000 |
 | Parent cash flow during college | $20,000 |
 | Student work, aid, or deliberately accepted borrowing | $10,000 |
-| Remaining amount to accumulate or fund from assets | $25,000 |
-| **Total family commitment** | **$80,000** |
+| Remaining source | $25,000 |
+| **Total commitment** | **$80,000** |
 
-One child still has a modeled college payment in Alex's first retirement year. That is why the first-year living/life-event need is higher than the inflated $100,000 retirement-spending input.
+One college payment remains active in the first retirement calendar year.
 
-# Cost basis and transaction history
+# Cost basis
 
-| Quantity | Record status | Basis status |
-|---:|---|---|
-| 1.25 BTC | Complete acquisition lots | $48,000 known basis |
+| Quantity | Status | Basis |
+|---:|---|---:|
+| 1.25 BTC | Complete lots | $48,000 known |
 | 0.40 BTC | Exchange export available | Reconstruction pending |
-| 0.10 BTC | Old account history missing | Unknown and visibly unresolved |
-| **1.75 BTC** | Quantity reconciles | Tax estimate incomplete until unresolved lots are handled |
+| 0.10 BTC | Old records missing | Unknown |
+| **1.75 BTC** | Quantity reconciles | Tax result incomplete until unresolved units are handled |
 
-# Planning assumptions
+# Planning assumptions and baseline result
 
-| Assumption | Approved input |
-|---|---|
+| Item | Approved / engine result |
+|---|---:|
 | Bitcoin return view | Built-in Power Law |
-| Stocks, bonds, cash, and real estate | Current standard app defaults; exact values stored with the engine/UI receipt |
+| Other broad returns | Current app defaults captured with the receipt |
 | Baseline inflation | 3% |
 | Inflation stress Scenario | 4% |
-| Holding override rule | Use only when the broad asset class would model the specific holding incorrectly |
-| Plan confidence target | 80% |
+| Confidence target | 80% |
 | Test runs | 1,000 |
-| Alex retirement age | 55 |
-| Jordan earned-income end | Jordan age 55, two years later |
+| Household retirement start | Alex age 55 |
 | Planning age | 95 |
+| Confidence at planned date | 94.6% |
+| Earliest date reaching 80% | May 2032 · Alex age 51 |
+| 4% inflation Scenario | 91.6%, or 3 points below baseline |
 
-# Baseline and confidence outputs
+# Retirement income
 
-| Output | First engine candidate |
-|---|---:|
-| Confidence at Alex age 55 | 94.6% |
-| Earliest date reaching the 80% target | May 2032 · Alex age 51 |
-| Confidence at the boundary | 80.0% |
-| 4% inflation Scenario confidence at age 55 | 91.6% |
+## Approved inputs
 
-The earliest date is the first date for Alex under the saved household timeline. Jordan's earned-income end remains tied to Jordan reaching age 55. The UI walkthrough must make that spouse timing visible.
-
-# Retirement income inputs and decisions
-
-| Input | Approved decision |
+| Input | Decision |
 |---|---:|
 | Retirement living spending | $100,000/year in today's dollars |
-| Alex retirement age | 55 |
-| Jordan retirement age | 55, two years later |
-| Plan confidence target | 80% |
-| Alex part-time income | $20,000/year in today's dollars for the first 3 retirement years |
-| Alex Social Security | $30,000/year in today's dollars starting at 67 |
-| Jordan Social Security | $22,000/year in today's dollars starting when Jordan is 67 |
-| **Starting retirement paycheck** | **Keep the current $100,000/year Plan amount** |
-| Annual policy defaults | Lower 60% · target 80% · upper 95% · 10% maximum correction |
-| Borrowing | Excluded from the saved Core baseline; Advanced comparison only |
+| Part-time work | $20,000/year in today's dollars for the first 3 retirement years |
+| Alex Social Security | $30,000/year in today's dollars at 67 |
+| Jordan Social Security | $22,000/year in today's dollars when Jordan reaches 67 |
+| Starting paycheck | **Keep $100,000/year** |
+| Annual policy | Lower 60% · target 80% · upper 95% · 10% maximum correction |
+| Borrowing | Excluded from saved Core; Advanced comparison only |
 
 ## Spending-reference outputs
 
@@ -263,70 +233,64 @@ The earliest date is the first date for Alex under the saved household timeline.
 | Conservative / 95% | $99,317/year |
 | Balanced / 80% | $170,216/year |
 | Aggressive / 60% | $249,904/year |
-| Current Plan amount | $100,000/year at 94.6% confidence |
+| Current Plan | $100,000/year at 94.6% |
 
-The household keeps $100,000 because that is the lifestyle it deliberately chose. The cards show capacity and trade-offs; they do not instruct the household to maximize spending.
+The cards show capacity. They do not tell the household to maximize spending.
 
-## First-retirement-year candidate
+## First retirement calendar year
 
-| Output | Engine candidate |
+Retirement begins in March 2036. The year therefore includes partial-year household wages before retirement, inflation-adjusted part-time work, a college expense, remaining debt, and tax.
+
+| Component | Engine candidate |
 |---|---:|
-| Year / Alex age | 2036 / 55 |
-| Living need including current life events | $143,351 |
-| Total need including tax and debt | $171,383 |
-| Recurring income | $69,435 |
-| Total draw | $101,948 |
-| Account source | Taxable accounts |
-| Bitcoin sale dollars | $97,948 |
+| Inflation-adjusted base living spending | $129,912 |
+| College expense | $13,439 |
+| Living need | $143,351 |
+| Debt payments | $17,400 |
+| Taxes | $10,632 |
+| **Total need** | **$171,383** |
+| Partial-year household wages | $42,557 |
+| Inflation-adjusted part-time income | $26,878 |
+| **Recurring income** | **$69,435** |
+| **Total draw** | **$101,948** |
 
-The expanded diagnostic is responsible for naming the exact income and expense components and correcting the BTC quantity sold. Until then, do not insert the generated “1 BTC” figure into a script.
+### Source split
 
-# Custody starting state
+| Holding source | Rounded amount |
+|---|---:|
+| Cash | $2,200 |
+| Stocks | $1,800 |
+| Bitcoin | $97,900 |
+| Taxable account total | $101,946 |
 
-| Item | Starting state |
-|---|---|
-| Long-term balance | 1.50 BTC on one hardware wallet |
-| Operating balance | 0.25 BTC at one exchange |
-| Recovery | Not tested |
-| Device and backup | Same physical failure domain |
-| Family knowledge | Alex understands the setup; Jordan has not operated it |
-| Exchange security | Strong password; stronger authentication and recovery review still needed |
-| Family Custody Map | Incomplete |
+The $2 source difference is display rounding. The engine calculates $97,948 of Bitcoin sale proceeds. At the projected 2036 price of $1,235,921, that equals approximately **0.079251 BTC**.
 
-Core outcome:
+# Custody, estate, and protection starting state
 
-- manufacturer-supported receive, send, and recovery test,
-- separated physical, human, and provider failure domains,
-- Jordan practices on a small wallet,
-- and a process map with no secrets.
+- 1.50 BTC on one hardware wallet; 0.25 BTC at one exchange
+- Recovery not yet tested
+- Device and backup share one physical failure domain
+- Jordan has not operated the wallet
+- Family Custody Map incomplete
+- Intended primary beneficiary is the spouse
+- An old workplace account still names a parent
+- Executor, backup, will review, POA, healthcare directive, heir letter, and delivery paths remain incomplete
+- Insurance policy terms remain intentionally TBD
 
-# Estate and protection starting state
-
-| Area | Starting state |
-|---|---|
-| Intended primary beneficiary | Spouse |
-| Intended contingent beneficiaries | Children, subject to attorney design for minors |
-| Known mismatch | Old workplace retirement account still names a parent |
-| Executor and backup | Not confirmed |
-| Will | Needs current attorney review |
-| Financial power of attorney | Verify |
-| Healthcare directive | Verify |
-| Heir letter | Incomplete |
-| Discovery and delivery paths | Incomplete |
-| Insurance terms | Intentionally TBD until fictional policy inputs are chosen and reviewed |
+Protect can record status. It cannot prove a working recovery, valid legal document, accepted provider record, or active insurance coverage.
 
 # Checkpoint contract
 
-| Checkpoint | Current status | Required final reconciliation |
+| Checkpoint | Current status | Remaining final evidence |
 |---|---|---|
-| `demo-v1-baseline` | ENGINE CANDIDATE | Confirm 94.6% at age 55 and May 2032 earliest date in UI |
-| `demo-v1-cashflow` | PARTIAL ENGINE CANDIDATE | Confirm displayed tax, required debt treatment, surplus, and $30,000 reserve |
-| `demo-v1-debt` | ENGINE CANDIDATE | Confirm DTI, DTA, and 2027 auto payoff in UI |
-| `demo-v1-allocation` | ENGINE CANDIDATE | Confirm $270,000 denominator, 64.8% BTC, target, band, and action state |
-| `demo-v1-tax` | ENGINE CANDIDATE / BASIS HOLD | Confirm roadmap presentation and unresolved-basis warning |
-| `demo-v1-income` | ENGINE CANDIDATE / DIAGNOSTIC HOLD | Reconcile total need, recurring income, sources, BTC dollars and units |
-| `demo-v1-protect` | UI + REAL-WORLD HOLD | App checklist may not overstate recovery/legal/provider proof |
-| `demo-v1-final` | ENGINE CANDIDATE | Confirm report, Scenario delta, capstone, PDF, and encrypted-export state |
+| `demo-v1-baseline` | RECONCILED ENGINE CANDIDATE | Confirm labels, rounding, and saved state in UI |
+| `demo-v1-cashflow` | RECONCILED ENGINE CANDIDATE | Confirm visible tax, Debt row, surplus, reserve, and source links |
+| `demo-v1-debt` | RECONCILED ENGINE CANDIDATE | Confirm DTI, DTA, and payoff presentation |
+| `demo-v1-allocation` | RECONCILED ENGINE CANDIDATE | Confirm denominator, excluded accounts, band, and review state |
+| `demo-v1-tax` | ENGINE CANDIDATE / BASIS + CPA HOLD | Confirm roadmap UI and unresolved-basis warning |
+| `demo-v1-income` | RECONCILED ENGINE CANDIDATE | Confirm first-year rows, source split, and Bitcoin dollars/units |
+| `demo-v1-protect` | UI + REAL-WORLD HOLD | Record app status without overstating proof |
+| `demo-v1-final` | ENGINE CANDIDATE | Confirm Scenario/report/PDF/export surfaces |
 
 # Change control
 

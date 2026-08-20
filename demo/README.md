@@ -1,46 +1,34 @@
-# Academy demo fixture
+# Academy demo fixture and receipts
 
-This directory contains the machine-readable version of the fictional household used throughout Orange Plan Academy.
+This directory contains the machine-readable fictional household, app-engine candidates, and the receipt contract used throughout Orange Plan Academy.
 
-## Current file
+## Current sources
 
-- [`demo-v1-inputs.json`](demo-v1-inputs.json)
-
-The JSON is **course-owned input data**, not an Orange Plan encrypted export and not a production import file.
-
-Its purpose is to:
-
-- prevent one number from drifting across scripts, lesson text, slides, and walkthroughs,
-- give the app fixture issue a stable source contract,
-- separate approved inputs from pending decisions,
-- make invariant checks explicit,
-- and keep app-calculated outputs null until Orange Plan produces them.
+- `demo-v1-inputs.json` — course-owned synthetic input contract
+- `ENGINE-CHECKPOINT-CANDIDATE-3105664.md` — current reconciled engine outputs from app commit `3105664...`
+- `VISUAL-DATA-RECEIPT-3105664.md` — exact current values approved for production briefs before final screenshots
+- `CHECKPOINT-RECEIPTS.md` — evidence requirements for final app receipts
+- `checkpoint-receipt.schema.json` — machine-readable receipt schema
 
 ## Authority order
 
-1. `DEMO-HOUSEHOLD.md` — human-readable planning explanation and decision context
-2. `demo/demo-v1-inputs.json` — machine-readable mirror of the source inputs
-3. approved canonical app fixture / saved demo account — actual app rows
-4. checkpoint receipts — app-calculated outputs and reconciliation evidence
+1. `../AUSTIN-DEMO-DECISIONS.md` — Austin-approved fictional judgments
+2. `../DEMO-HOUSEHOLD.md` — human-readable source and interpretation
+3. `demo-v1-inputs.json` — machine-readable mirror
+4. current app generator and deployed synthetic demo account
+5. accepted checkpoint receipts — final app-owned output authority
 
-When the Markdown and JSON disagree, stop and reconcile them before another recording or fixture run.
+The engine candidate may finish script arithmetic and production briefs. A screenshot-level claim still waits for the deployed page to confirm label, rounding, save/preview state, and visible source rows.
 
-## What this file is not
+## What these files are not
 
 - Not client data
 - Not Austin's household
 - Not an Orange Plan restore backup
-- Not a seed phrase, custody record, or secret map
+- Not a Bitcoin recovery map
 - Not a second projection engine
-- Not permission to hardcode the output shown in a lesson
+- Not permission to hardcode an output from a different app commit
 
 ## Change rule
 
-A demo input change requires:
-
-1. reason for the change,
-2. affected lesson list,
-3. Markdown and JSON reconciliation,
-4. fixture/checkpoint rerun,
-5. update to scripts, lesson text, slides, and walkthroughs using the changed value,
-6. `demo-account update` classification in the app PR when app behavior or fixtures change.
+A demo change requires the input source, machine-readable fixture, engine run, relevant receipt, script, lesson text, visual, and walkthrough to remain synchronized.
