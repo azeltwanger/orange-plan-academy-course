@@ -13,7 +13,7 @@ Orange Plan has three confidence-related controls. They use related test runs bu
 
 Do not treat them as one shared setting.
 
-== CHOOSE THE STARTING PAYCHECK ==
+== THE SPENDING CARDS ARE OPTIONS, NOT ORDERS ==
 
 The Income page calculates three reference amounts on the same test-run framework:
 
@@ -23,19 +23,38 @@ The Income page calculates three reference amounts on the same test-run framewor
 
 It also evaluates the Baseline spending already entered on Plan.
 
-These are not personality labels. They are dollar trade-offs.
+These are not personality labels, and the Balanced card is not automatically the recommended lifestyle.
 
-The lower amount creates more cushion and may lead to working longer or spending less than necessary. The higher amount supports more life now and accepts more likelihood that the household has to adjust later.
+The cards answer: how much annual spending would this saved strategy support at each reference confidence level?
 
-Read each amount annually and monthly. Ask what life actually changes between the options and whether the flexible categories can move later.
+The household still has to answer: how much life are we actually trying to fund?
 
-The demo household currently plans $100,000 a year. We do not assume that equals the Balanced amount. The current Income checkpoint must calculate where $100,000 lands and whether it duplicates one of the reference choices.
+== READ THE DEMO CHOICES ==
 
-The starting decision is made from those real outputs, not from a convenient script example.
+The reproducible engine checkpoint calculates:
 
-== THE ANNUAL POLICY ==
+- **$99,317 a year** at the Conservative 95% reference, or about $8,276 a month
+- **$170,216 a year** at the Balanced 80% reference, or about $14,185 a month
+- **$249,904 a year** at the Aggressive 60% reference, or about $20,825 a month
+- and the current **$100,000 Plan amount** at **94.6% confidence**, or about $8,333 a month
 
-After a target is saved, the policy holds that amount until the scheduled review unless the household deliberately changes the policy.
+This is exactly why the app should not choose the paycheck for the household.
+
+The demo household decided that $100,000 supports the retirement life it wants. That amount already sits almost exactly at the Conservative reference.
+
+It does not raise the target to $170,216 simply because the plan can support more at 80%.
+
+That would be a 70% increase in the lifestyle assumption before the household identified what the additional money is for.
+
+The household keeps $100,000 as the starting paycheck.
+
+The higher cards still provide useful information. They show that the plan has room for more travel, gifts, projects, charitable giving, less work, or another deliberate choice. The household can test one of those decisions instead of turning every dollar of available capacity into permanent spending.
+
+Another household may choose the Balanced amount because the current lifestyle is too low or because it values more spending now and is willing to adjust later. The point is to choose from the trade-off, not from the label.
+
+== THE ANNUAL POLICY IS A DIFFERENT DECISION ==
+
+After the starting target is saved, the policy holds that amount until the scheduled review unless the household deliberately changes the policy.
 
 The current Orange Plan default uses:
 
@@ -48,7 +67,7 @@ These are Orange Plan product defaults built from annual inflation updates, boun
 
 Custom thresholds are available, but I would begin with a rule the household can explain before changing every control.
 
-== HOW THE UPDATE WORKS ==
+== HOW THE ANNUAL UPDATE WORKS ==
 
 At the annual review, the app first applies the saved inflation adjustment.
 
@@ -118,14 +137,14 @@ For an annual update:
 
 == YOUR DECISION ==
 
-Choose the starting annual paycheck, the guardrail policy, and the real categories that move in a lower- or upper-guardrail year.
+Choose the starting annual paycheck, the reason for that amount, the guardrail policy, and the real categories that move in a lower- or upper-guardrail year.
 
 == PUT IT IN ORANGE PLAN ==
 
-On Plan → Income, recheck the spending choices, compare them with the current Plan amount, and save the starting target.
+On Plan → Income, compare the calculated reference amounts with the current Plan amount. Save the amount that represents the retirement life the household deliberately chose.
 
-Review the annual policy separately from the Plan confidence target.
+For the demo, keep the $100,000 Plan amount. Review the annual policy separately from the Plan confidence target.
 
 == YOU ARE DONE WHEN ==
 
-You can explain all three confidence controls, state the paycheck annually and monthly, identify what a maximum downward adjustment changes, and describe when the policy is reviewed.
+You can explain all three confidence controls, state the paycheck annually and monthly, explain why the household did not simply choose the largest supported amount, identify what a maximum downward adjustment changes, and describe when the policy is reviewed.
