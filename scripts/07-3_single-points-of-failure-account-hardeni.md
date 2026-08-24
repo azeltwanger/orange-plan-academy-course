@@ -33,7 +33,7 @@ Ask whether recovery depends on only one:
 
 One item is not automatically a failure when a tested replacement path exists. The question is whether losing or delaying it stops recovery or creates unacceptable risk.
 
-Rank the top three by cost of loss, then fix the first one. Trying to redesign everything at once is how nothing gets completed.
+I would rank the top three by cost of loss, then fix the first one. Trying to redesign everything at once is how nothing gets completed.
 
 == FIX THE FAILURE DOMAIN, NOT ONLY THE OBJECT ==
 

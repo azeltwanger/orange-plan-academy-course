@@ -89,7 +89,7 @@ STALE_REFERENCE_PATTERNS = {
 
 REQUIRED_PHRASES = {
     "CURRENT-COURSE.md": (
-        "Austin's final voice-and-judgment read has not started",
+        "Austin's voice-and-judgment review is ready to begin",
         "ENGINE-CHECKPOINT-CANDIDATE-3105664.md",
         "DEMO-HOUSEHOLD.md",
         "PRE-DICTATION-QA.md",

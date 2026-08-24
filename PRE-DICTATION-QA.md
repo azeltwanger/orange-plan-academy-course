@@ -24,7 +24,7 @@ Austin's final read should be a targeted voice-and-judgment pass, not another co
 | Capstone | **PASS** | `MY-ORANGE-PLAN-CAPSTONE.md` |
 | Permanent audits | **PASS — RERUN AFTER EACH CHANGE** | Course, fixture, receipt, provenance, voice, and control checks exist |
 | Build Your Plan preview | **HOLD FOR WALKTHROUGHS** | Exact clicks wait for the deployed preview Austin has used end to end |
-| Austin final voice review | **NOT STARTED** | Begins after applicable UI and professional holds are resolved |
+| Austin voice-and-judgment review | **READY TO BEGIN** | Review stable concept prose now; `AUSTIN APPROVED` still waits on each lesson's named UI or professional hold |
 
 ## What is now numerically settled
 
@@ -94,13 +94,14 @@ All four remain **NOT SENT**. Primary-source verification is not a professional 
 
 This blocks exact walkthrough routes and screen recording, not the evergreen concept architecture.
 
-## Definition of ready for Austin
+## Definition of ready for Austin review
 
-A lesson moves to Austin only when:
+A lesson can enter voice-and-judgment review when:
 
 - no known structural change remains,
 - every spoken demo value is an approved input or reconciled app result,
-- the deployed label/state has been checked where the lesson names the UI,
-- applicable external corrections are applied,
-- script and lesson text agree,
+- any unresolved UI or professional passage is named in the hold register rather than hidden,
+- script and lesson text agree on the decision and finish line,
 - and contradictory slide material is already identified.
+
+A lesson becomes `AUSTIN APPROVED` only after the deployed label/state and applicable external corrections are checked, the current script and lesson text are reconciled, and Austin completes one clean final read of that corrected lesson.

@@ -17,9 +17,9 @@ Do not treat them as one shared setting.
 
 The Income page calculates three reference amounts on the same test-run framework:
 
-- Conservative, around 95% confidence
-- Balanced, around 80%
-- Aggressive, around 60%
+- Conservative, around 95% confidence.
+- Balanced, around 80%.
+- Aggressive, around 60%.
 
 It also evaluates the Baseline spending already entered on Plan.
 
@@ -33,10 +33,10 @@ The household still has to answer: how much life are we actually trying to fund?
 
 The reproducible engine checkpoint calculates:
 
-- **$99,317 a year** at the Conservative 95% reference, or about $8,276 a month
-- **$170,216 a year** at the Balanced 80% reference, or about $14,185 a month
-- **$249,904 a year** at the Aggressive 60% reference, or about $20,825 a month
-- and the current **$100,000 Plan amount** at **94.6% confidence**, or about $8,333 a month
+- **$99,317 a year** at the Conservative 95% reference, or about $8,276 a month.
+- **$170,216 a year** at the Balanced 80% reference, or about $14,185 a month.
+- **$249,904 a year** at the Aggressive 60% reference, or about $20,825 a month.
+- and the current **$100,000 Plan amount** at **94.6% confidence**, or about $8,333 a month.
 
 This is exactly why the app should not choose the paycheck for the household.
 
@@ -58,9 +58,9 @@ After the starting target is saved, the policy holds that amount until the sched
 
 The current Orange Plan default uses:
 
-- lower trigger at 60%,
-- target at 80%,
-- upper trigger at 95%,
+- lower trigger at 60%.
+- target at 80%.
+- upper trigger at 95%.
 - and a maximum one-year correction of 10% toward the target-confidence amount.
 
 These are Orange Plan product defaults built from annual inflation updates, bounded changes, and confidence guardrails. They are not presented as one published researcher's exact 60/80/95 system.

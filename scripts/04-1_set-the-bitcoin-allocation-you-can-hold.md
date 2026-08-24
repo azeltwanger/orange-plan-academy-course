@@ -15,9 +15,9 @@ A Bitcoin percentage changes depending on what it is divided by.
 
 At the illustrative $100,000 Bitcoin price, the demo household has:
 
-- $175,000 of Bitcoin,
-- $95,000 of other holdings inside the household allocation,
-- $25,000 in a 529 committed to the children,
+- $175,000 of Bitcoin.
+- $95,000 of other holdings inside the household allocation.
+- $25,000 in a 529 committed to the children.
 - and $450,000 of home value.
 
 Orange Plan excludes the primary residence and the beneficiary-restricted 529 from the household target-allocation calculation.
@@ -36,9 +36,9 @@ The target-allocation decision uses the $270,000 portfolio the household can man
 
 I think the position comes down to:
 
-1. **Education** — understanding the thesis, custody, volatility, and failure risks
-2. **Conviction** — being able to explain why the household owns the position without relying on a price target
-3. **Capacity to hold** — cash flow, reserve, debt, time horizon, dependents, and actual behavior during a decline
+1. **Education** — understanding the thesis, custody, volatility, and failure risks.
+2. **Conviction** — being able to explain why the household owns the position without relying on a price target.
+3. **Capacity to hold** — cash flow, reserve, debt, time horizon, dependents, and actual behavior during a decline.
 
 High conviction does not create cash during a job loss. Strong finances do not create the understanding needed to hold a position the owner does not believe in.
 
@@ -48,10 +48,10 @@ The allocation has to fit both the financial plan and the person operating it.
 
 The tiers are a teaching guide, not an identity:
 
-- Foundation: roughly 1–5%
-- Integration: roughly 10–20%
-- Optimization: roughly 25–50%
-- Sovereign: 50% or more of the allocatable portfolio
+- Foundation: roughly 1–5%.
+- Integration: roughly 10–20%.
+- Optimization: roughly 25–50%.
+- Sovereign: 50% or more of the allocatable portfolio.
 
 As the position becomes a main driver of the plan, reserve, debt, custody, beneficiaries, and recovery matter more. Do not choose a tier because its name sounds better.
 
@@ -63,10 +63,10 @@ The quick stress test is:
 
 Assuming other holdings stay flat:
 
-- 10% Bitcoin × 75% decline = 7.5% portfolio hit
-- 25% × 75% = about 19%
-- 50% × 75% = 37.5%
-- 75% × 75% = about 56%
+- 10% Bitcoin × 75% decline = 7.5% portfolio hit.
+- 25% × 75% = about 19%.
+- 50% × 75% = 37.5%.
+- 75% × 75% = about 56%.
 
 The dollar amount is what the household feels.
 

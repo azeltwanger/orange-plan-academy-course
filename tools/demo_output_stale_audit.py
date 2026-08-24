@@ -15,6 +15,9 @@ CURRENT_DOCS = (
     ROOT / "VISUAL-PRODUCTION-BRIEFS.md",
     ROOT / "NUMBER-PROVENANCE-REGISTRY.md",
     ROOT / "BUILD-YOUR-PLAN-CROSSWALK.md",
+    ROOT / "DICTATION-ORDER.md",
+    ROOT / "AUSTIN-REVIEW-INDEX.md",
+    ROOT / "PRE-DICTATION-QA.md",
 )
 
 RETIRED_PATTERNS = {
@@ -53,7 +56,9 @@ REQUIRED_CURRENT_ANCHORS = {
     "CURRENT-COURSE.md": ("94.6%", "$270,000", "$101,948", "0.079251 BTC"),
     "DEMO-HOUSEHOLD.md": ("64.8%", "$3,761", "$100,000/year at 94.6%"),
     "BUILD-YOUR-PLAN-CROSSWALK.md": ("seven missions", "app_completion_rule", "human_completion_rule"),
+    "DICTATION-ORDER.md": ("25,", "94.6%", "$270,000", "$101,948", "0.079251 BTC"),
 }
+
 
 
 def current_core_files() -> list[Path]:

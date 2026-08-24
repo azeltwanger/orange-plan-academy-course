@@ -84,7 +84,7 @@ Choose which known costs belong in the baseline, the commitment amount, expected
 
 == PUT IT IN ORANGE PLAN ==
 
-Add the expected bill as a life event and identify the account or contribution route funding it. Record the de-risking rule outside or inside the app where the current build flow supports it.
+In Orange Plan, add the expected bill as a life event and identify the account or contribution route funding it. Record the de-risking rule outside or inside the app where the current build flow supports it.
 
 == YOU ARE DONE WHEN ==
 

@@ -6,7 +6,7 @@
 
 The Core curriculum, demo inputs, and first reproducible app-engine outputs are complete.
 
-**Austin's final voice-and-judgment read has not started.**
+**Austin's voice-and-judgment review is ready to begin. Final lesson approval still waits on each lesson's named UI or professional hold.**
 
 Completed before that read:
 
@@ -292,13 +292,14 @@ The old `SPOKEN-PROSE VERSION (calibrated)` label is not a production status.
 | 8 · Estate / Insurance | PASS | APPROVED STARTING STATE | N/A | legal/provider/policy proof + attorney/insurance responses | NOT STARTED |
 | 9 · Maintain / Test / Read | PASS | APPROVED | SCENARIO RECONCILED | UI receipt | NOT STARTED |
 
-## Next work before Austin reads once
+## Work that runs alongside Austin's review
 
-1. Verify the reconciled candidate on the deployed pages and create eight final receipts.
-2. Send and apply the scoped external professional reviews.
-3. Use the deployed Build Your Plan flow end to end and record exact step metadata.
-4. Finalize visuals and walkthroughs from accepted receipts.
-5. Give Austin the scripts for one voice-and-judgment read.
+1. Austin reviews the current scripts in `DICTATION-ORDER.md` and dictates only voice or judgment changes.
+2. Verify the reconciled candidate on the deployed pages and create eight final receipts.
+3. Send and apply the scoped external professional reviews.
+4. Use the deployed Build Your Plan flow end to end and record exact step metadata.
+5. Finalize visuals and walkthroughs from accepted receipts.
+6. Clear each named hold, reconcile lesson text, and mark the corrected lesson `AUSTIN APPROVED` after one clean final read.
 
 ## Austin review order
 

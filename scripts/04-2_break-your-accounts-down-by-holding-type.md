@@ -69,7 +69,7 @@ The account type determines tax and access rules. The intended use determines th
 
 == TARGETS BEGIN WITH DOLLAR NEEDS ==
 
-Do not begin by guessing that Reserve should be 10%, Bridge 20%, and Legacy 70%.
+I would not begin by guessing that Reserve should be 10%, Bridge 20%, and Legacy 70%.
 
 Reserve comes from spending basis and target months.
 
@@ -109,7 +109,7 @@ Verify the holding mix and choose the primary timeframe job for every account or
 
 == PUT IT IN ORANGE PLAN ==
 
-Correct the holdings, review the combined current mix, and assign the Reserve, Bridge, Healthcare Bridge, and Legacy roles supported by the current Allocation page and account records.
+In Orange Plan, correct the holdings, review the combined current mix, and assign the Reserve, Bridge, Healthcare Bridge, and Legacy roles supported by the current Allocation page and account records.
 
 == YOU ARE DONE WHEN ==
 

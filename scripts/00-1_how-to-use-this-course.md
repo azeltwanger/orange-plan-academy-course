@@ -17,16 +17,16 @@ The app brings the household information together, runs the calculations, and pu
 
 By the end of Core, you should be able to explain:
 
-- what the household owns, owes, earns, and spends,
-- which assumptions the plan uses,
-- when the plan reaches the confidence target you chose,
-- how much cash protects the plan,
-- what each debt is doing,
-- how much Bitcoin the household can hold through a major drawdown,
-- where the next dollar goes,
-- which tax questions matter now and later,
-- how retirement pays the household,
-- how the Bitcoin is recovered and inherited,
+- what the household owns, owes, earns, and spends.
+- which assumptions the plan uses.
+- when the plan reaches the confidence target you chose.
+- how much cash protects the plan.
+- what each debt is doing.
+- how much Bitcoin the household can hold through a major drawdown.
+- where the next dollar goes.
+- which tax questions matter now and later.
+- how retirement pays the household.
+- how the Bitcoin is recovered and inherited.
 - and how the plan stays current.
 
 You should also know where the important numbers came from.
@@ -71,6 +71,8 @@ Each advanced lesson begins by saying who needs it. Skip it when the condition i
 The concept lessons follow the clearest teaching order.
 
 Later, the walkthroughs use one continuous demo household and track the relevant Build Your Plan work in the app. They show the current screen, implement the decision, explain the resulting number, and return to the build flow.
+
+In our demo, the same household carries from the first baseline through the final report, so every decision has a visible downstream effect.
 
 The course does not have to copy the app menu one-for-one. The walkthrough does need to connect the education with the work the app is asking you to complete.
 

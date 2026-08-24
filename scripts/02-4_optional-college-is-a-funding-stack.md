@@ -9,7 +9,7 @@ Use the same future-cost method from the last lesson, then make one decision fir
 
 == DEFINE THE FAMILY COMMITMENT ==
 
-Do not begin with the published price of four years at a school the child may never attend.
+I would not begin with the published price of four years at a school the child may never attend.
 
 The commitment might be:
 
@@ -80,7 +80,7 @@ Choose the family commitment and the sources expected to cover it.
 
 == PUT IT IN ORANGE PLAN ==
 
-Model the household commitment as the life event, track the education savings and contribution route, and update the stack when the date and actual costs become clearer.
+In Orange Plan, model the household commitment as the life event, track the education savings and contribution route, and update the stack when the date and actual costs become clearer.
 
 == YOU ARE DONE WHEN ==
 

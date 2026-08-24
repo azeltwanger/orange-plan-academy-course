@@ -44,7 +44,7 @@ The wallet still needs the complete original backup. The fragments create a frag
 
 Use a supported custody method designed for the control required: a tested single-signature process, supported passphrase design, standardized backup system, multi-key wallet, or collaborative service.
 
-Do not invent cryptography with scissors and envelopes.
+I would not invent a threshold with scissors and envelopes.
 
 == APPLY THE TESTS TO THE CUSTODY TYPE ==
 
@@ -94,7 +94,7 @@ Document the date and result, never the keys.
 
 == APPLY THE TESTS TO THE DEMO ==
 
-The operating exchange balance follows the provider's claim process.
+In our demo, the operating exchange balance follows the provider's claim process.
 
 The long-term balance first completes the family-ready single-signature process from Module 7.
 
@@ -115,7 +115,7 @@ State which tests the current setup passes, which one it fails, and whether the 
 
 == PUT IT IN ORANGE PLAN ==
 
-Record custody type, component roles at a process level, people, provider, configuration-record location, and test date in Protect and the Family Custody Map. Never enter spending secrets.
+In Orange Plan, record custody type, component roles at a process level, people, provider, configuration-record location, and test date in Protect and the Family Custody Map. Never enter spending secrets.
 
 == YOU ARE DONE WHEN ==
 

@@ -59,7 +59,7 @@ Use the safest supported method for the device:
 
 A full wipe-and-restore can be a strong test, but do not wipe the only working device holding meaningful funds unless the backup has already been checked, the exact process is understood, and a safe fallback exists.
 
-A small practice wallet or spare device is often the better first test.
+I would rather use a small practice wallet or spare device for the first test.
 
 Recovery is proven when the expected wallet, accounts, and addresses are reproduced—not simply when an app opens.
 
@@ -100,7 +100,7 @@ A recovery-ready status is based on:
 - separated failure domains,
 - and another person understanding the process when the household requires it.
 
-Orange Plan records status and date. The real custody process supplies the proof.
+In Orange Plan, the app records status and date. The real custody process supplies the proof.
 
 == YOUR DECISION ==
 

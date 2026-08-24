@@ -36,7 +36,7 @@ Module 5 owns the detailed tax mechanics. In this lesson, the wrappers tell us a
 - Tax-efficient, low-turnover holdings can fit taxable accounts when access is needed.
 - The entire household allocation must still match the target; do not optimize one account in isolation.
 
-These are starting principles, not rules that automatically require a trade.
+I would treat these as starting principles, not rules that automatically require a trade.
 
 == BITCOIN CREATES A REAL LOCATION TRADE-OFF ==
 
@@ -57,6 +57,8 @@ Some workplace plans, HSAs, and education accounts cannot hold Bitcoin or a Bitc
 Verify the real investment options and fees before routing money. Do not assume the desired exposure exists because the wrapper is attractive.
 
 == RUN THE DEMO LOCATION ==
+
+In our demo, the location choices are:
 
 - Reserve cash stays in the liquid taxable cash account.
 - The taxable brokerage remains accessible Bridge funding.

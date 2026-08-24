@@ -3,7 +3,7 @@ TELEPROMPTER SCRIPT — segment 0.2
 ~5 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review pending
 ============================================================
 
-Orange Plan AI is an explanation layer for the financial plan. It is not a second calculator sitting beside it.
+I think of Orange Plan AI as an explanation layer for the financial plan. It is not a second calculator sitting beside it.
 
 == THE APP CALCULATES; THE AI EXPLAINS ==
 

@@ -2,7 +2,7 @@
 
 **Purpose:** give Austin one place to perform the final voice-and-judgment pass after structural, numeric, app, and professional corrections are complete.
 
-**Do not begin the final batch read yet.** The scripts are current, but the applicable UI receipt and external-review holds should be resolved first so Austin reads each lesson only once.
+**Begin the voice-and-judgment review now, using the wave order below.** Review the stable concept prose and dictate replacements where the wording or judgment is not yours. Do not mark a lesson `AUSTIN APPROVED` until its named UI or professional hold is cleared and the corrected lesson receives one clean final read.
 
 ## What Austin is reviewing
 

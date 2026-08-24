@@ -21,8 +21,8 @@ The saved $500 auto-loan extra payment is already included in the Cash Flow Debt
 
 The approved household route therefore has two parts:
 
-- $500 already routed through the debt strategy
-- $3,500 routed from the displayed post-debt surplus
+- $500 already routed through the debt strategy.
+- $3,500 routed from the displayed post-debt surplus.
 
 Together they use $4,000 a month and leave about $261 of the current calculated capacity as operating cushion.
 
@@ -72,11 +72,11 @@ Module 5 owns the detailed Roth-versus-traditional tax lesson. Here we only need
 
 The full monthly decision is:
 
-- $500 of extra principal to the auto loan, already inside the Cash Flow Debt row
-- $750 to Alex's workplace plan to capture the assumed match
-- $625 to Alex's family HSA for the qualified Healthcare Bridge
-- $625 to Jordan's Roth IRA for long-term tax-free qualified growth
-- $1,500 to taxable Bridge funding and the saved investment allocation
+- $500 of extra principal to the auto loan, already inside the Cash Flow Debt row.
+- $750 to Alex's workplace plan to capture the assumed match.
+- $625 to Alex's family HSA for the qualified Healthcare Bridge.
+- $625 to Jordan's Roth IRA for long-term tax-free qualified growth.
+- $1,500 to taxable Bridge funding and the saved investment allocation.
 
 The full route totals $4,000. The four contribution destinations after debt total $3,500, which fits inside the roughly $3,761 currently displayed after the planned debt payment.
 

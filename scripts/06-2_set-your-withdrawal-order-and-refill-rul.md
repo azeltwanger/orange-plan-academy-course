@@ -25,7 +25,7 @@ The displayed source total rounds to $101,946, a $2 difference caused by display
 
 == GIVE THE TAX POOLS A STARTING JOB ==
 
-I generally think about the pools this way:
+I think about the pools this way:
 
 - Reserve provides the near-term cash buffer.
 - Taxable assets provide accessible Bridge funding and flexibility around gains.

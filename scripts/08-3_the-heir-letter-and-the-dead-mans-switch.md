@@ -20,9 +20,9 @@ The first call may be the executor, attorney, custody provider, or another perso
 
 The stop signs should be direct:
 
-- do not type or share wallet backups, seed phrases, private keys, passphrases, PINs, or passwords,
-- do not accept unsolicited recovery help,
-- do not move Bitcoin before legal authority, custody procedure, and tax consequences are clear,
+- do not type or share wallet backups, seed phrases, private keys, passphrases, PINs, or passwords.
+- do not accept unsolicited recovery help.
+- do not move Bitcoin before legal authority, custody procedure, and tax consequences are clear.
 - and do not assume the will controls every provider account.
 
 == WHAT BELONGS IN THE LETTER ==
@@ -35,7 +35,7 @@ It can state where the will, power of attorney, healthcare directive, executor p
 
 It can explain what the household wants the money to do in plain language.
 
-Keep it short enough to follow. A long technical procedure belongs in the provider documentation or executor packet. The letter tells the family which person or document comes next.
+I would keep it short enough to follow. A long technical procedure belongs in the provider documentation or executor packet. The letter tells the family which person or document comes next.
 
 == WHAT STAYS OUT ==
 
@@ -101,7 +101,7 @@ Choose the first call, stop signs, recipients, and at least two ways the family 
 
 == PUT IT IN ORANGE PLAN ==
 
-Create the no-secrets letter in Protect, verify recipients, record the storage plan, and decide whether automated delivery is an additional path.
+In Orange Plan, create the no-secrets letter in Protect, verify recipients, record the storage plan, and decide whether automated delivery is an additional path.
 
 == YOU ARE DONE WHEN ==
 

@@ -5,8 +5,8 @@ TELEPROMPTER SCRIPT — segment 6.1
 
 Retirement income starts with three numbers:
 
-- what the household wants the plan to support,
-- what income arrives without selling an asset,
+- what the household wants the plan to support.
+- what income arrives without selling an asset.
 - and what still has to come from the portfolio.
 
 Once those are clear, the bridge years and first-year funding calculation make sense.
@@ -33,8 +33,8 @@ It can include Social Security, a pension, verified rental or other recurring in
 
 The approved demo timeline is:
 
-- $20,000 a year of part-time income during the first 3 retirement years,
-- $30,000 a year of Alex's Social Security beginning when Alex reaches 67,
+- $20,000 a year of part-time income during the first 3 retirement years.
+- $30,000 a year of Alex's Social Security beginning when Alex reaches 67.
 - and another $22,000 a year when Jordan reaches 67, two years after Alex.
 
 All three amounts are entered in today's dollars under the app's current input convention.
@@ -47,7 +47,7 @@ The floor is a timeline, not one permanent number. Part-time work ends, one spou
 
 The simple living-spending gap is:
 
-> Retirement living spending − recurring income = portfolio-funded gap
+> Retirement living spending − recurring income = portfolio-funded gap.
 
 For the demo household, in today's dollars and before taxes, debt, life events, or reserve refill:
 
@@ -64,9 +64,9 @@ The Income page takes the simple idea one step further.
 
 On the left, it shows what the year needs:
 
-- living spending,
-- dated life events,
-- taxes and remaining debt,
+- living spending.
+- dated life events.
+- taxes and remaining debt.
 - and a reserve refill when the saved policy calls for one.
 
 Then it subtracts recurring income.
@@ -85,16 +85,16 @@ The $20,000 part-time-income input is in today's dollars, so the app inflates it
 
 The reproducible engine checkpoint shows:
 
-- $129,912 of inflation-adjusted base living spending,
-- $13,439 of college expense active that year,
-- $17,400 of remaining debt payments,
+- $129,912 of inflation-adjusted base living spending.
+- $13,439 of college expense active that year.
+- $17,400 of remaining debt payments.
 - and $10,632 of tax.
 
 That creates **$171,383 of total need**.
 
 The year also receives:
 
-- $42,557 of partial-year household wages before the March retirement date,
+- $42,557 of partial-year household wages before the March retirement date.
 - and $26,878 of inflation-adjusted part-time income.
 
 That produces **$69,435 of recurring income**.
@@ -113,14 +113,14 @@ For the demo household, retirement starts at 55. Part-time work ends after 3 yea
 
 That creates four distinct funding stages rather than one flat bridge:
 
-1. retirement plus part-time income,
-2. no part-time income and no Social Security,
-3. Alex's Social Security only,
+1. retirement plus part-time income.
+2. no part-time income and no Social Security.
+3. Alex's Social Security only.
 4. both Social Security benefits.
 
 There can also be an account-access bridge when a household retires before a particular retirement account can be used without a penalty, exception, or special strategy.
 
-Do not reduce that to “everything unlocks at 59½.” Account type, employment separation, Roth basis, plan rules, and current law can change the available options. The implementation belongs with the current tax review.
+I would not reduce that to “everything unlocks at 59½.” Account type, employment separation, Roth basis, plan rules, and current law can change the available options. The implementation belongs with the current tax review.
 
 The useful question is whether accessible cash and Bridge assets cover the year-by-year draw without forcing the wrong account or a Bitcoin sale during a major decline.
 
