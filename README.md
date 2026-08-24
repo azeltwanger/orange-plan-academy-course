@@ -1,23 +1,26 @@
 # Orange Plan Academy
 
+> **Austin review:** start with [`00-START-HERE-AUSTIN-REVIEW.md`](00-START-HERE-AUSTIN-REVIEW.md) or open the clean [`review/`](review/README.md) workspace. Do not review from old master files, generated modules, Circle output, historical walkthroughs, or old decks.
+
 This repository contains the Orange Plan Academy Core course, optional Advanced Library, spoken scripts, student lesson text, demo-account controls, professional-review packets, slide source material, and production tooling.
 
 ## Start here
 
 Use these files in this order:
 
-1. **`CURRENT-COURSE.md`** — current Core outline, app results, production stage, and source-of-truth rules
-2. **`AUSTIN-DEMO-DECISIONS.md`** — Austin-approved fictional planning judgments
-3. **`DEMO-HOUSEHOLD.md`** — continuous household, reconciled source rows, and app interpretation
-4. **`demo/ENGINE-CHECKPOINT-CANDIDATE-3105664.md`** — current reproducible Orange Plan outputs
-5. **`PRE-DICTATION-QA.md`** — what is complete and which external/UI holds remain
-6. **`DICTATION-ORDER.md`** — the current 28-lesson review queue, runtimes, locked values, and script links
-7. **`AUSTIN-REVIEW-HOLD-REGISTER.md`** — the exact UI and professional passages held from final approval
-8. **`AUSTIN-REVIEW-INDEX.md`** — review waves, decisions, approval tests, and current holds
-9. **`scripts/`** and **`lesson-text/`** — the current 28 spoken drafts and matching written lessons
-10. **`COURSE-APP-CONTRACT.md`** and **`BUILD-YOUR-PLAN-CROSSWALK.md`** — course/app agreement and preview-dependent walkthrough routing
-11. **`professional-review/`** — primary-source verification, send-ready packets, candidate pool, outreach, and review controls
-12. **`VISUAL-PRODUCTION-BRIEFS.md`** and **`research/SLIDE-CORRECTION-MAP.md`** — future visual direction and treatment of the old live-teaching decks
+1. **`00-START-HERE-AUSTIN-REVIEW.md`** — the clean entry point for Austin's review
+2. **`review/README.md`** — current-only review workspace with no old walkthroughs, historical Advanced lessons, or old masters
+3. **`review/DICTATION-ORDER.md`** — current 28-lesson queue, runtimes, locked values, and script links
+4. **`review/modules/`** — one combined review file per module, with spoken scripts followed by matching lesson text
+5. **`review/AUSTIN-REVIEW-HOLD-REGISTER.md`** — exact app and professional passages held from final approval
+6. **`CURRENT-COURSE.md`** — current Core outline, app results, production stage, and source-of-truth rules
+7. **`AUSTIN-DEMO-DECISIONS.md`** — Austin-approved fictional planning judgments
+8. **`DEMO-HOUSEHOLD.md`** — continuous household, reconciled source rows, and app interpretation
+9. **`demo/ENGINE-CHECKPOINT-CANDIDATE-3105664.md`** — current reproducible Orange Plan outputs
+10. **`PRE-DICTATION-QA.md`** — what is complete and which external/UI holds remain
+11. **`COURSE-APP-CONTRACT.md`** and **`BUILD-YOUR-PLAN-CROSSWALK.md`** — course/app agreement and preview-dependent walkthrough routing
+12. **`professional-review/`** — primary-source verification, send-ready packets, candidate pool, outreach, and review controls
+13. **`VISUAL-PRODUCTION-BRIEFS.md`** and **`research/SLIDE-CORRECTION-MAP.md`** — future visual direction and treatment of the old live-teaching decks
 
 Read **`AUSTIN-AUTHORITY.md`** before changing Austin's planning recommendations.
 
@@ -39,7 +42,7 @@ The structural, demo-input, and reproducible engine pass is complete:
 - current visual-data receipt and UI-acceptance checklist
 - permanent audits for structure, lesson parity, demo arithmetic, receipts, provenance, voice patterns, and the pre-dictation control layer
 
-Austin's voice-and-judgment review is **ready to begin now**. Use `DICTATION-ORDER.md`; record `APP` or `PRO` holds from `AUSTIN-REVIEW-HOLD-REGISTER.md` and keep moving.
+Austin's voice-and-judgment review is **ready to begin now**. Use `review/DICTATION-ORDER.md`; record `APP` or `PRO` holds from `review/AUSTIN-REVIEW-HOLD-REGISTER.md` and keep moving.
 
 The remaining work runs alongside Austin's review and must clear before final approval or filming:
 
@@ -103,8 +106,10 @@ The Advanced Library is optional. It is linked from the Core area that makes it 
 
 | Path | Purpose |
 |---|---|
-| `scripts/` | Current spoken Core drafts; old walkthrough sheets are not current until reverified |
-| `lesson-text/` | Current student-facing reference lessons |
+| `review/` | Clean Austin review workspace containing only the 28 current scripts, 28 matching lessons, 10 combined module files, voice evidence, and review controls |
+| `artifact/orange-plan-austin-review.zip` | Current-only downloadable review package |
+| `scripts/` | Working source scripts; old walkthrough sheets are not current until reverified |
+| `lesson-text/` | Working student-facing reference lessons |
 | `demo/` | Synthetic fixture, reconciled engine candidate, visual data, UI checklist, and receipt controls |
 | `professional-review/` | Primary-source verification, claim packets, reviewer candidates, outreach, and return controls |
 | `research/` | Client-call evidence, confusion registry, runtime ownership, demo reconciliation, and slide audit |
