@@ -16,6 +16,8 @@ on:
       - 'AI-PLANNING-QUESTION-GUIDE.md'
       - 'research/CLIENT-CALL-VOICE-EVIDENCE.md'
       - 'tools/build-dictation-order.py'
+      - 'tools/build-film-order.py'
+      - 'tools/build-shoot-list.py'
       - 'tools/sync-review-workspace.py'
       - '.github/workflows/review-workspace-sync.yml'
   workflow_dispatch:
@@ -44,7 +46,10 @@ jobs:
           python-version: '3.12'
 
       - name: Synchronize current review workspace
-        run: python tools/sync-review-workspace.py
+        run: |
+          python tools/sync-review-workspace.py
+          python tools/build-film-order.py
+          python tools/build-shoot-list.py
 
       - name: Commit generated review files
         run: |
@@ -54,6 +59,6 @@ jobs:
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add CURRENT-COURSE.md DICTATION-ORDER.md review artifact/orange-plan-austin-review.zip
-          git commit -m "chore: synchronize Austin review workspace"
+          git add CURRENT-COURSE.md DICTATION-ORDER.md FILM-ORDER.md SCREEN-SHOOT-LIST.md review artifact/orange-plan-austin-review.zip
+          git commit -m "chore: synchronize Austin review and capture indexes"
           git push origin "HEAD:${GITHUB_REF_NAME}"
