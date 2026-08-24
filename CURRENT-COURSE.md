@@ -1,320 +1,198 @@
 # Orange Plan Academy — current course
 
-**This is the entry point for the repaired Core course.**
+**This is the source-of-truth entry point for the repaired Core and Advanced Library.**
 
 ## Current production stage
 
-The Core curriculum, demo inputs, and first reproducible app-engine outputs are complete.
+Both teaching layers are ready for Austin's voice-and-judgment review:
 
-**Austin's voice-and-judgment review is ready to begin. Final lesson approval still waits on each lesson's named UI or professional hold.**
+| Layer | Scripts | Matching lesson text | Spoken words | Header production time |
+|---|---:|---:|---:|---:|
+| Core | 28 | 28 | 26,932 | 173.8 min |
+| Advanced | 18 | 18 | 14,805 | 139.0 min |
+| **Combined** | **46** | **46** | **41,737** | **312.8 min / 5.2 h** |
 
-Completed before that read:
+Advanced is conditional, so a learner does not watch the combined runtime by default.
 
-- 10-module Core architecture,
-- 28 spoken teaching drafts,
-- 28 matching lesson-text files,
-- one decision per lesson,
-- duplication and runtime trim,
-- Core-versus-Advanced gates,
-- one approved continuous fictional household,
-- a reproducible Orange Plan engine fixture,
-- reconciled confidence, Cash Flow, Debt, Allocation, Income, and Scenario outputs,
-- number provenance throughout,
-- current app-concept review,
-- client-call voice and confusion evidence,
-- primary-source tax/legal/security/insurance verification,
-- send-ready external-review packets,
-- page-by-page slide correction map,
-- visual data receipt,
-- capstone summary,
-- and permanent course, fixture, receipt, provenance, and voice audits.
+Completed before Austin's review:
 
-Still held before final approval:
+- one decision per Core lesson,
+- one plan-visible gate per Advanced lesson,
+- real learner questions,
+- worked examples before walkthroughs,
+- continuous demo inputs and reconciled Core engine outputs,
+- number provenance,
+- current app/concept review,
+- client-call voice evidence,
+- Core and Advanced professional-review packets,
+- visual and walkthrough briefs,
+- and automated structure, parity, stale-output, provenance, and voice audits.
 
-- visible UI checkpoint receipts and screenshots,
-- actual outside CPA, custody, estate-attorney, and insurance responses,
-- exact Build Your Plan routes and click paths,
-- final visuals that depend on those two layers,
-- and Austin's final spoken read.
+Still held before final approval or filming:
 
-No additional course-wide structural or demo-input pass is planned before Austin reviews the scripts.
+- visible deployed UI receipts and exact Build Your Plan click paths,
+- specific lender agreements and current app borrowing comparisons,
+- actual outside CPA, lending, healthcare, custody, estate, and insurance responses,
+- current quotes, plan documents, device/provider procedures, and legal/provider proof,
+- final visuals and screen demonstrations based on accepted evidence,
+- and Austin's final clean read after scoped corrections.
+
+## Start Austin's review
+
+1. `00-START-HERE-AUSTIN-REVIEW.md`
+2. `AUSTIN-FULL-REVIEW-INDEX.md`
+3. Core: `review/LEARNER-QUESTION-MAP.md` and `review/DICTATION-ORDER.md`
+4. Advanced: `review/advanced/LEARNER-QUESTION-MAP.md` and `review/advanced/DICTATION-ORDER.md`
+5. Core holds: `review/AUSTIN-REVIEW-HOLD-REGISTER.md`
+6. Advanced holds: `review/advanced/HOLD-REGISTER.md`
 
 ## Source-of-truth order
 
-1. `CURRENT-COURSE.md` — current curriculum and production stage
-2. `AUSTIN-DEMO-DECISIONS.md` — Austin-approved fictional planning judgments
-3. `DEMO-HOUSEHOLD.md` — human-readable continuous demo and app interpretation
-4. `demo/demo-v1-inputs.json` — machine-readable source contract
-5. `demo/ENGINE-CHECKPOINT-CANDIDATE-3105664.md` — reconciled app-engine outputs
-6. `demo/VISUAL-DATA-RECEIPT-3105664.md` — current production values
-7. `PRE-DICTATION-QA.md` — remaining gates
-8. `DICTATION-ORDER.md` — Austin's current review queue and locked values
-9. `AUSTIN-REVIEW-HOLD-REGISTER.md` — named UI and professional approval holds
-10. `AUSTIN-REVIEW-INDEX.md` — review waves and approval tests
-11. `FILMING-READINESS.md` — film and publish gates
-12. `scripts/` — current spoken drafts
-13. `lesson-text/` — matching student reference text
-14. `COURSE-APP-CONTRACT.md` — teaching, app-state, and provenance rules
-15. `BUILD-YOUR-PLAN-CROSSWALK.md` — walkthrough routing contract
-16. `professional-review/` — source verification and external-review packets
-17. `research/SLIDE-CORRECTION-MAP.md` — treatment of the live-client decks
-18. `research/CLIENT-CALL-VOICE-EVIDENCE.md` and `research/CLIENT-CONFUSION-REGISTRY.md`
+1. `CURRENT-COURSE.md`
+2. `AUSTIN-DEMO-DECISIONS.md`
+3. `DEMO-HOUSEHOLD.md`
+4. `demo/ENGINE-CHECKPOINT-CANDIDATE-3105664.md`
+5. `PRE-DICTATION-QA.md`
+6. `FILMING-READINESS.md`
+7. `scripts/` and `lesson-text/` for current Core
+8. `ADVANCED-CURRENT.md`
+9. `scripts/advanced/current/` and `lesson-text/advanced/current/`
+10. `COURSE-APP-CONTRACT.md` and `BUILD-YOUR-PLAN-CROSSWALK.md`
+11. `professional-review/`
+12. `research/` and visual/demo briefs
 
-`MASTER-COURSE.md`, `MASTER-ADVANCED.md`, generated modules, Circle output, aggregate scripts, and old walkthroughs remain migration inputs. **Do not film or publish from those layers.**
+`MASTER-COURSE.md`, `MASTER-ADVANCED.md`, aggregate scripts, old generated modules, Circle output, old walkthroughs, and older files directly under `scripts/advanced/` remain migration/history sources. Do not film or publish from them.
 
-## Course architecture
+## Teaching architecture
 
-Every Core planning area follows the same pattern:
+### Core
 
-1. Explain the financial-planning problem.
-2. Teach the minimum concept needed for the decision.
-3. Show the trade-off and Austin's planning judgment.
-4. Continue the same fictional household.
-5. Explain where the important number came from.
-6. End with one decision and one checkable finish line.
-7. Implement it later through the relevant Build Your Plan walkthrough.
+> **Real learner question → worked example → Austin's judgment → one decision → checkable finish line → versioned walkthrough**
 
-**Build Your Plan is the walkthrough navigation spine. The concept syllabus does not have to copy the product menu one-for-one.**
+### Advanced
 
-## Approved continuous demo
+> **Plan-visible gate → learner question → worked example → Austin's judgment → trade-off/failure mode → one decision → return to Core**
 
-The household uses:
+The app checkmark proves product completion. Educational completion requires the learner to understand and make the decision. Real-world proof can still belong to a provider, device recovery, attorney, CPA, carrier, or family test.
 
-- Alex, 45; Jordan, 43; two children, ages 10 and 12
-- Colorado and married filing jointly
-- one household retirement start when Alex is 55
-- age 95 planning horizon
-- $80,000 current living spending and $100,000 retirement living spending in today's dollars
-- Built-in Power Law Bitcoin view
-- current standard app defaults for other broad holdings
-- 3% baseline inflation and a separate 4% stress Scenario
-- 80% Plan confidence target and 1,000 test runs
-- $20,000 of part-time income for the first 3 retirement years
-- Alex Social Security of $30,000 at 67
-- Jordan Social Security of $22,000 when Jordan reaches 67, two years later
-- 50% Bitcoin target with a 40–60% review band
-- 25% DTI household ceiling and no added debt at 40%+ DTA
-- $625/month to the family HSA and $625/month to the Roth IRA
-- HSA assigned to the qualified Healthcare Bridge
-- optional $80,000 total-family college commitment
-- borrowing excluded from the saved Core baseline
-- $100,000 saved starting retirement paycheck
+# Core course
 
-The app has one household retirement date anchored to the primary person's age. It does **not** keep Jordan's wages for two extra years merely because Jordan is younger. A March retirement date creates partial-year household wages before retirement begins.
+## Module 0 — Start Here
 
-## Reconciled app-engine candidate
-
-The current candidate uses app commit `3105664da5dd77c57bf6d489e28b8f3a5e3d3eb5`, an as-of date of 2026-08-20, a $100,000 BTC reference price, 1,000 test runs, and seed `20260820`.
-
-### Baseline
-
-- Confidence at the household retirement date: **94.6%**
-- Earliest date reaching the 80% target: **May 2032 · Alex age 51**
-- Boundary confidence: **80.0%**
-
-### Cash Flow
-
-- Current modeled tax: **$36,862/year**
-- Required debt: **$1,833/month**
-- Saved extra principal: **$500/month**
-- Surplus after planned debt: **$3,761/month**
-- Post-debt contribution route: **$3,500/month**
-- Operating cushion after the route: **$261/month**
-
-The full next-dollar decision remains $4,000: $500 extra debt plus $3,500 of account contributions.
-
-### Allocation
-
-- App allocation denominator: **$270,000**
-- Bitcoin: **$175,000 · 64.8%**
-- Target: **50%**
-- Review band: **40–60%**
-- Status: above the band; review required, not an automatic trade
-- Bitcoin loss in a 75% drawdown: **$131,250**
-
-The app excludes the primary residence and beneficiary-restricted 529 from the household target-allocation denominator.
-
-### Retirement Income
-
-- Conservative / 95%: **$99,317/year**
-- Current Plan: **$100,000/year at 94.6%**
-- Balanced / 80%: **$170,216/year**
-- Aggressive / 60%: **$249,904/year**
-
-The household keeps $100,000 because it chose that lifestyle. The cards show capacity, not a command to spend the maximum.
-
-First retirement calendar year:
-
-- Total need: **$171,383**
-- Recurring income: **$69,435**
-- Total draw: **$101,948**
-- Bitcoin sale proceeds: **$97,948**
-- Projected Bitcoin price: **$1,235,921**
-- Bitcoin sold: **0.079251 BTC**
-
-### Scenario
-
-- 3% baseline confidence: **94.6%**
-- 4% inflation confidence: **91.6%**
-- Delta: **−3.0 percentage points**
-
-## Core outline
-
-### Module 0 — Start Here
-
-**Outcome:** understand what is being built, how the app and Academy divide the work, and how to use Orange Plan AI to explain, prioritize, compare, challenge, and act on the plan.
+**Outcome:** understand what is being built and use Orange Plan AI to explain, prioritize, compare, challenge, and act.
 
 - 0.1 · How to use this course
 - 0.2 · Use Orange Plan AI to understand the numbers and make better decisions
 
-### Module 1 — Build Your Baseline and Read the Plan
-
-**Outcome:** a verified first plan with deliberate assumptions, a selected confidence target, and a retirement result the learner can explain.
+## Module 1 — Baseline and Confidence
 
 - 1.1 · What to gather before you build the plan
-- 1.2 · The three layers of a plan, and setting assumptions
+- 1.2 · The three layers of a plan and setting assumptions
 - 1.3 · Read the retirement date and confidence number
 
-### Module 2 — Cash Flow and Reserve
-
-**Outcome:** normal spending, bare-bones spending, a repeatable route, a reserve policy, and a funding plan for known costs.
+## Module 2 — Cash Flow and Reserve
 
 - 2.1 · Find the surplus and two spending numbers
 - 2.2 · Size the cash reserve in months of spending
 - 2.3 · Fund a known future cost without raiding the reserve
 - 2.4 · Optional: build the college funding stack
 
-### Module 3 — Debt Strategy
-
-**Outcome:** every debt has a treatment and the household has its own ceiling.
+## Module 3 — Debt Strategy
 
 - 3.1 · Give every debt a deliberate treatment and set the ceiling
 
-Bitcoin-backed loan mechanics remain gated Advanced material unless already relevant.
-
-### Module 4 — Allocation and the Next Dollar
-
-**Outcome:** a Bitcoin target the household can hold, verified account contents, time-horizon jobs, account placement, and a route for new money.
+## Module 4 — Allocation and the Next Dollar
 
 - 4.1 · Set the Bitcoin allocation that can survive a full drawdown
 - 4.2 · Give every account a holding mix and time-horizon job
 - 4.3 · Decide where the next dollar goes
 - 4.4 · Choose what each account should hold
 
-### Module 5 — Tax Strategy
-
-**Outcome:** cost-basis readiness, three tax pools, a year-by-year window, and one current action, professional question, or deliberate pass.
+## Module 5 — Tax Strategy
 
 - 5.1 · Cost basis: what was paid and how to rebuild it
 - 5.2 · Read the three tax buckets and find useful windows
 
-Conversion sizing, harvesting execution, relocation, and edge cases remain Advanced and professionally reviewed.
-
-### Module 6 — Retirement Income
-
-**Outcome:** retirement spending, phased income floor, portfolio gap, accessible Bridge, funding strategy, starting paycheck, and annual policy.
+## Module 6 — Retirement Income
 
 - 6.1 · Build the spending target, income floor, and portfolio gap
 - 6.2 · Choose the retirement funding and withdrawal strategy
 - 6.3 · Choose the starting paycheck and annual guardrails
 
-Plan confidence, starting-spending confidence, and annual guardrails remain three separate controls.
-
-### Module 7 — Custody and Recovery
-
-**Outcome:** a custody setup the household can operate and recover, without unmanaged single points of failure or secrets stored in Orange Plan.
+## Module 7 — Custody and Recovery
 
 - 7.1 · Choose the custody setup that matches the Bitcoin and family
 - 7.2 · Set up a hardware wallet and prove the backup works
 - 7.3 · Remove single points of failure and harden accounts
 
-### Module 8 — Estate and Family Handoff
-
-**Outcome:** people, legal documents, provider records, family access, heir instructions, delivery paths, and protection gaps form one real handoff.
+## Module 8 — Estate and Family Handoff
 
 - 8.1 · Choose the people, legal documents, and beneficiary records
 - 8.2 · Design dual control and redundancy without a new loss path
 - 8.3 · Write the heir letter and make sure the process starts
 - 8.4 · Calculate the family protection gaps
 
-Trusts, estate-tax planning, and complex custody design remain Advanced.
-
-### Module 9 — Maintain, Test, and Read the Plan
-
-**Outcome:** a repeatable review cadence, disciplined Scenarios, a readable capstone, and a secure annual record.
+## Module 9 — Maintain, Test, and Read
 
 - 9.1 · Keep the plan current without rebuilding it
 - 9.2 · Test a decision and read the finished plan
 
-The encrypted export is currently for secure storage and portability; in-app restore remains unavailable.
+# Advanced Library
 
-## Advanced Library
+## A1 — Modeling and assumptions
 
-Every Advanced lesson begins with a visible condition:
+- A1.1 · What changes across the 1,000 test runs?
+- A1.2 · When should a holding use its own return or income assumptions?
 
-> **Watch this only if [condition]. Otherwise this part of your plan is complete without it.**
+## A2 — Bitcoin-backed borrowing and leverage
 
-Current Advanced areas:
+- A2.1 · What does a Bitcoin-backed loan change, and how does LTV move?
+- A2.2 · Build the top-up, repayment, and liquidation survival plan
+- A2.3 · Compare selling Bitcoin with borrowing against it
+- A2.4 · Evaluate the lender and write the exit rules
 
-- modeling mechanics and custom assumptions,
-- holding-specific return and income periods,
-- Bitcoin-backed loans and leverage,
-- advanced allocation and behavior,
-- conversion sizing, harvesting, relocation, and other tax optimization,
-- pre-Medicare healthcare,
-- sell-versus-borrow comparisons,
-- passphrases, collaborative custody, and DIY multisig,
-- trusts and complex estate planning.
+## A3 — Tax optimization and implementation
 
-The Advanced Library has not received the full current voice and app pass.
+- A3.1 · Finish cost-basis reconstruction and execute lot identification
+- A3.2 · Size a Roth conversion without filling the wrong bucket
+- A3.3 · Harvest gains or losses only when the opportunity is real
+- A3.4 · Evaluate state relocation as a life decision, not a tax trick
 
-## Script provenance
+## A4 — Early-retirement access and healthcare
 
-| Label | Meaning |
-|---|---|
-| `AUSTIN DICTATION` | Austin's recorded words transcribed directly |
-| `AUSTIN DICTATION + VOICE-MATCHED COMPLETION` | Austin's words preserved; missing sections completed from verified voice evidence; review pending |
-| `VOICE-MATCHED DRAFT` | Rebuilt from dictation, client calls, slides, and current app; review pending |
-| `AUSTIN APPROVED` | Austin completed the final read and cleared the wording for filming |
-| `ARCHIVED` | Historical only |
+- A4.1 · Map the account-access Bridge before 59½
+- A4.2 · Model pre-Medicare healthcare and income interactions
+- A4.3 · Test account access, tax, and healthcare together
 
-The old `SPOKEN-PROSE VERSION (calibrated)` label is not a production status.
+## A5 — Advanced custody
 
-## Current readiness by module
+- A5.1 · Decide whether a passphrase solves a real problem
+- A5.2 · Choose collaborative custody or DIY multisig
+- A5.3 · Migrate, operate, and prove recovery safely
 
-| Module | Structure | Inputs | Engine result | Remaining external/product hold | Austin |
-|---|---|---|---|---|---|
-| 0 · Start Here | PASS | N/A | N/A | AI/privacy recheck | READY TO BEGIN |
-| 1 · Baseline | PASS | APPROVED | RECONCILED | UI receipt | READY TO BEGIN |
-| 2 · Cash Flow | PASS | APPROVED | RECONCILED | UI receipt | READY TO BEGIN |
-| 3 · Debt | PASS | APPROVED | RECONCILED | UI receipt | READY TO BEGIN |
-| 4 · Allocation | PASS | APPROVED | RECONCILED | UI receipt + CPA on tax-location claims | READY TO BEGIN |
-| 5 · Tax | PASS | APPROVED | ROADMAP CANDIDATE | UI receipt + CPA response | READY TO BEGIN |
-| 6 · Retirement Income | PASS | APPROVED | RECONCILED | UI receipt + CPA response | READY TO BEGIN |
-| 7 · Custody | PASS | APPROVED STARTING STATE | N/A | real-world test + custody response | READY TO BEGIN |
-| 8 · Estate / Insurance | PASS | APPROVED STARTING STATE | N/A | legal/provider/policy proof + attorney/insurance responses | READY TO BEGIN |
-| 9 · Maintain / Test / Read | PASS | APPROVED | SCENARIO RECONCILED | UI receipt | READY TO BEGIN |
+## A6 — Trusts and complex estate planning
 
-## Work that runs alongside Austin's review
+- A6.1 · Does a trust solve a real problem in this plan?
+- A6.2 · Coordinate the trust, beneficiaries, and Bitcoin custody
 
-1. Austin reviews the current scripts in `DICTATION-ORDER.md` and dictates only voice or judgment changes.
-2. Verify the reconciled candidate on the deployed pages and create eight final receipts.
-3. Send and apply the scoped external professional reviews.
-4. Use the deployed Build Your Plan flow end to end and record exact step metadata.
-5. Finalize visuals and walkthroughs from accepted receipts.
-6. Clear each named hold, reconcile lesson text, and mark the corrected lesson `AUSTIN APPROVED` after one clean final read.
+# Reconciled Core demo values
 
-## Austin review order
+- Confidence at Alex age 55: **94.6%**
+- Earliest date reaching 80%: **May 2032 · age 51**
+- Post-debt surplus: **$3,761/month**
+- Full route: **$500 extra debt + $3,500 account contributions**
+- Allocation scope: **$270,000**
+- Bitcoin: **$175,000 · 64.8%**
+- Target / band: **50% · 40–60%**
+- Retirement paycheck: **$100,000/year at 94.6%**
+- First-year draw: **$101,948**
+- Bitcoin sale: **$97,948 / 0.079251 BTC** at the projected price
+- 4% inflation Scenario: **91.6%**, down 3 points
 
-1. Module 1 — Baseline and confidence
-2. Module 2 — Cash Flow and Reserve
-3. Module 6 — Retirement Income
-4. Module 3 — Debt
-5. Module 4 — Allocation and the Next Dollar
-6. Module 5 — Tax
-7. Module 7 — Custody
-8. Module 8 — Estate and Insurance
-9. Module 9 — Maintain, Test, and Read
-10. Module 0 — final framing pass
+Advanced uses these accepted results where relevant and uses clearly labeled illustrative values when the real answer depends on an agreement, quote, tax return, device, provider, or attorney design.
 
-Austin reviews each script once now for voice and judgment. A lesson with no named hold can move directly toward approval. A held lesson receives only its scoped UI or professional correction, then one clean final read before `AUSTIN APPROVED`. The structure and demo should not need another rebuild.
+# Review and approval
+
+Austin reviews Core first, then Advanced. Review voice, example, judgment, learner question/gate, and finish line. Do not recalculate locked demo values during dictation.
+
+A lesson becomes `AUSTIN APPROVED` only after any named UI or professional hold is checked, the minimum correction is applied to script and lesson text, and Austin completes one clean final read.
