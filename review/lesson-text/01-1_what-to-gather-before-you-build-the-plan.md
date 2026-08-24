@@ -2,6 +2,14 @@
 
 The first plan can use reasonable estimates, but every important input should be marked as **verified**, **estimated**, or **missing**.
 
+## Why the source category matters
+
+The demo household has $80,000 of normal living spending outside debt and a $1,450 monthly mortgage payment on its own debt row.
+
+If total bank outflow is entered as $97,400 of living spending and the mortgage is also entered as debt, the plan counts $17,400 twice. Monthly surplus is understated by $1,450 and the retirement projection keeps funding that amount even after the mortgage payoff.
+
+The projection is following the inputs. Correct the source category rather than trying to repair the output.
+
 ## Income
 
 Gather recent pay stubs for every earner and records for business, rental, contract, commission, dividend, interest, or other income.

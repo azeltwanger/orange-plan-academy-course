@@ -2,7 +2,7 @@
 
 **Current Core only.** Generated from `CURRENT-COURSE.md` and the 28 current `scripts/` files. Do not use `MASTER-COURSE.md`, old decks, aggregate scripts, or retired walkthroughs as the recording source.
 
-**28 teach lessons · 26,120 spoken words · 168.5 min (2.8 h) at 155 wpm.**
+**28 teach lessons · 26,932 spoken words · 173.8 min (2.9 h) at 155 wpm.**
 
 Austin may begin the voice-and-judgment review in the wave order below. A named UI or professional hold blocks `AUSTIN APPROVED` and filming; it does not require rebuilding or rereading unrelated concept prose.
 
@@ -34,11 +34,11 @@ Use `APPROVE`, `TIGHTEN`, `SAY IT THIS WAY`, `JUDGMENT`, `APP`, `PRO`, or `REMOV
 
 The review starts with the biggest app and number changes, then strategy, then protection, then framing. This is not the learner's final publishing order.
 
-### Module 1 — Build Your Baseline and Read the Plan · 19.6 min
+### Module 1 — Build Your Baseline and Read the Plan · 20.5 min
 
 | Lesson | Current script | Words | Min | Review status |
 |---|---|---:|---:|---|
-| 1.1 | [What to gather before you build the plan](scripts/01-1_what-to-gather-before-you-build-the-plan.md) | 906 | 5.8 | AUSTIN DICTATION + VOICE-MATCHED COMPLETION — Austin review pending |
+| 1.1 | [What to gather before you build the plan](scripts/01-1_what-to-gather-before-you-build-the-plan.md) | 1,051 | 6.8 | AUSTIN DICTATION + VOICE-MATCHED COMPLETION — Austin review pending |
 | 1.2 | [The three layers of a plan, and setting assumptions](scripts/01-2_set-your-growth-and-inflation-assumption.md) | 940 | 6.1 | VOICE-MATCHED DRAFT — Austin review pending |
 | 1.3 | [Read the retirement date and confidence number](scripts/01-3_read-your-retirement-date-and-confidence.md) | 1,187 | 7.7 | VOICE-MATCHED DRAFT — Austin review pending |
 
@@ -65,28 +65,28 @@ The review starts with the biggest app and number changes, then strategy, then p
 |---|---|---:|---:|---|
 | 3.1 | [Give every debt a deliberate treatment and set the ceiling](scripts/03-1_give-every-debt-a-job-and-set-your-ceiling.md) | 934 | 6.0 | VOICE-MATCHED DRAFT — Austin review pending |
 
-### Module 4 — Allocation and the Next Dollar · 20.9 min
+### Module 4 — Allocation and the Next Dollar · 22.3 min
 
 | Lesson | Current script | Words | Min | Review status |
 |---|---|---:|---:|---|
 | 4.1 | [Set the Bitcoin allocation that can survive a full drawdown](scripts/04-1_set-the-bitcoin-allocation-you-can-hold.md) | 912 | 5.9 | VOICE-MATCHED DRAFT — Austin review pending |
 | 4.2 | [Give every account a holding mix and time-horizon job](scripts/04-2_break-your-accounts-down-by-holding-type.md) | 690 | 4.5 | VOICE-MATCHED DRAFT — Austin review pending |
 | 4.3 | [Decide where the next dollar goes](scripts/04-3_order-your-contributions-which-account-g.md) | 954 | 6.2 | VOICE-MATCHED DRAFT — Austin review pending |
-| 4.4 | [Choose what each account should hold](scripts/04-4_asset-location-which-account-each-holdin.md) | 687 | 4.4 | VOICE-MATCHED DRAFT — Austin review + CPA review on tax claims pending |
+| 4.4 | [Choose what each account should hold](scripts/04-4_asset-location-which-account-each-holdin.md) | 901 | 5.8 | VOICE-MATCHED DRAFT — Austin review + CPA review on tax claims pending |
 
-### Module 5 — Tax Strategy · 11.7 min
+### Module 5 — Tax Strategy · 13.2 min
 
 | Lesson | Current script | Words | Min | Review status |
 |---|---|---:|---:|---|
 | 5.1 | [Cost basis: what was paid and how to rebuild it](scripts/05-1_cost-basis-what-you-paid-and-how-to-reco.md) | 892 | 5.8 | VOICE-MATCHED DRAFT — Austin review + CPA review pending |
-| 5.2 | [Read the three tax buckets and find useful windows](scripts/05-2_taxable-tax-deferred-and-roth-bracket-wi.md) | 921 | 5.9 | VOICE-MATCHED DRAFT — Austin review + CPA review pending |
+| 5.2 | [Read the three tax buckets and find useful windows](scripts/05-2_taxable-tax-deferred-and-roth-bracket-wi.md) | 1,153 | 7.4 | VOICE-MATCHED DRAFT — Austin review + CPA review pending |
 
-### Module 7 — Custody and Recovery · 15.2 min
+### Module 7 — Custody and Recovery · 16.6 min
 
 | Lesson | Current script | Words | Min | Review status |
 |---|---|---:|---:|---|
 | 7.1 | [Choose the custody setup that matches the Bitcoin and family](scripts/07-1_choose-the-custody-setup-that-matches-you.md) | 822 | 5.3 | VOICE-MATCHED DRAFT — Austin review + custody review pending |
-| 7.2 | [Set up a hardware wallet and prove the backup works](scripts/07-2_set-up-a-hardware-wallet-and-test-recove.md) | 789 | 5.1 | VOICE-MATCHED DRAFT — Austin review + custody review pending |
+| 7.2 | [Set up a hardware wallet and prove the backup works](scripts/07-2_set-up-a-hardware-wallet-and-test-recove.md) | 1,010 | 6.5 | VOICE-MATCHED DRAFT — Austin review + custody review pending |
 | 7.3 | [Remove single points of failure and harden accounts](scripts/07-3_single-points-of-failure-account-hardeni.md) | 748 | 4.8 | VOICE-MATCHED DRAFT — Austin review + custody review pending |
 
 ### Module 8 — Estate and Family Handoff · 22.2 min

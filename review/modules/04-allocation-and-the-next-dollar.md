@@ -621,7 +621,7 @@ The full route fits calculated capacity, the contribution route fits displayed p
 
 TELEPROMPTER SCRIPT — segment 4.4
 4.4 Choose what each account should hold
-~7 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + CPA review on tax claims pending
+~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + CPA review on tax claims pending
 ============================================================
 
 Allocation answers how much of each asset the household owns.
@@ -658,6 +658,26 @@ Module 5 owns the detailed tax mechanics. In this lesson, the wrappers tell us a
 - The entire household allocation must still match the target; do not optimize one account in isolation.
 
 I would treat these as starting principles, not rules that automatically require a trade.
+
+== WORK THE SAME ALLOCATION TWO WAYS ==
+
+The demo gives us a clean example.
+
+Across two retirement accounts, the household has $10,000 of bonds in Alex's traditional 401(k) and $10,000 of stocks in Jordan's Roth IRA.
+
+Imagine reversing those two holdings. The Roth holds the $10,000 of bonds and the traditional account holds the $10,000 of stocks.
+
+The household still owns exactly $10,000 of bonds and $10,000 of stocks. The current allocation and current market risk did not change.
+
+What changed is where the future return is taxed.
+
+In the reversed version, the lower-growth bond holding uses the Roth space while more of the long-term stock growth remains in the traditional account and may create taxable income later.
+
+For this household, keeping the available bond exposure in the traditional account and the long-term growth exposure in the Roth better fits the job of each pool.
+
+That does not mean bonds can never belong in a Roth or that the Roth should always hold the most aggressive asset available. If the Roth needs lower volatility, the plan menu is limited, or the household cannot tolerate the concentration, the answer can change.
+
+The point is that two households can own the same overall allocation and still have a different tax and access result because of location.
 
 == BITCOIN CREATES A REAL LOCATION TRADE-OFF ==
 
@@ -749,6 +769,16 @@ Detailed tax rules belong in Module 5.
 - Use Roth growth space deliberately without ignoring concentration risk
 - Keep tax-efficient accessible holdings in taxable when needed
 - Preserve the combined household allocation
+
+## Worked example: same allocation, different location
+
+The demo household has $10,000 of bonds in Alex's traditional 401(k) and $10,000 of stocks in Jordan's Roth IRA.
+
+If those two holdings are reversed, the household still owns the same $10,000 of bonds and $10,000 of stocks. Current allocation and market risk are unchanged.
+
+The future tax location changes. The reversed version uses Roth space for the lower-growth bond holding while more long-term stock growth remains in the traditional account and may create taxable income later.
+
+For this household, bonds in the traditional account and long-term growth in the Roth better fit the jobs of the two pools. It is not a universal command. Account menus, risk tolerance, access needs, and the full household allocation can change the answer.
 
 ## Bitcoin trade-off
 

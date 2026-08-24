@@ -17,6 +17,20 @@ Every decision later in the course is downstream of what goes into the plan now.
 
 You do not need every record to be perfect before you start. You do need to know which numbers are verified, which are reasonable estimates, and which are still missing.
 
+== WHY THE SOURCE CATEGORY MATTERS ==
+
+Use our demo household as a simple example.
+
+Their normal living spending is $80,000 a year outside debt. Their mortgage payment is $1,450 a month, or $17,400 a year, and it has its own debt row.
+
+If they look only at total bank outflow and enter $97,400 as living spending, then also enter the mortgage as a debt, the plan counts the same $17,400 twice.
+
+Cash Flow understates the surplus by $1,450 a month. The retirement projection also keeps funding that amount as living spending even after the mortgage is paid off.
+
+Nothing is wrong with the projection. The source was put in the wrong category.
+
+That is the habit this lesson is building: gather the record, understand what the app is asking for, and keep the source clean enough that the result means what you think it means.
+
 == INCOME ==
 
 Start with recent pay stubs for every earner.
@@ -116,6 +130,14 @@ And every important number is marked verified, estimated, or missing so the firs
 # What to gather before you build the plan
 
 The first plan can use reasonable estimates, but every important input should be marked as **verified**, **estimated**, or **missing**.
+
+## Why the source category matters
+
+The demo household has $80,000 of normal living spending outside debt and a $1,450 monthly mortgage payment on its own debt row.
+
+If total bank outflow is entered as $97,400 of living spending and the mortgage is also entered as debt, the plan counts $17,400 twice. Monthly surplus is understated by $1,450 and the retirement projection keeps funding that amount even after the mortgage payoff.
+
+The projection is following the inputs. Correct the source category rather than trying to repair the output.
 
 ## Income
 

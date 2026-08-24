@@ -190,7 +190,7 @@ Every balance has a job, level, recovery process, and next action without a secr
 
 TELEPROMPTER SCRIPT — segment 7.2
 7.2 Set up a hardware wallet and prove the backup works
-~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + custody review pending
+~9 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + custody review pending
 ============================================================
 
 Owning a hardware wallet is not the same as having a recovery process.
@@ -254,6 +254,30 @@ I would rather use a small practice wallet or spare device for the first test.
 Recovery is proven when the expected wallet, accounts, and addresses are reproduced—not simply when an app opens.
 
 If a passphrase is part of the setup, test the exact backup-plus-passphrase combination.
+
+== WORK THE DEMO DEVICE FAILURE ==
+
+The demo household has 1.50 BTC on one hardware wallet.
+
+At the start of the course, the backup has never been tested, the device and backup are exposed to the same physical event, and Jordan has never used the recovery process.
+
+Now imagine the device stops powering on.
+
+The Bitcoin has not disappeared. But the household has no proof that the recorded backup recreates the expected wallet, and only Alex knows the sequence.
+
+That is not a minor inconvenience. Until recovery is proven, the household cannot tell whether the problem is a replaceable device or permanent loss of access.
+
+The fix has two separate parts.
+
+First, Alex uses a manufacturer-supported backup check, a compatible spare device, or another safe recovery method to verify that the main backup reproduces the expected wallet, accounts, and addresses.
+
+Second, Jordan practices the recovery sequence on a separate small practice wallet using the process-level instructions. Jordan does not need the main backup as a teaching aid.
+
+The backup is then moved out of the same physical failure domain as the device.
+
+After those steps, a failed device is a replaceable hardware problem. The family has tested evidence that the backup works and that another person knows where the process begins.
+
+That is the difference between owning a hardware wallet and having a recovery-ready custody system.
 
 == SEPARATE THE FAILURE DOMAINS ==
 
@@ -336,6 +360,16 @@ Confirm receiving address before funding. Confirm destination, amount, and fee b
 Prefer a manufacturer backup check, compatible spare device, or practice wallet. Do not wipe the only device holding meaningful funds without a verified backup, understood process, and fallback.
 
 Recovery should reproduce the expected wallet, accounts, and addresses.
+
+## Worked example: the demo device fails
+
+The demo starts with 1.50 BTC on one hardware wallet, an untested backup, the device and backup in the same failure domain, and only Alex understanding recovery.
+
+If the device stops powering on, the Bitcoin has not moved—but the household has no proof the backup recreates the correct wallet.
+
+Alex verifies the main backup through a supported check or compatible spare device. Jordan then practices the same type of recovery sequence on a separate small wallet without using the main backup as a teaching aid. The backup is moved away from the device's physical failure domain.
+
+After that, losing the device is a replaceable hardware event rather than an unanswered permanent-loss risk.
 
 ## Family practice
 
