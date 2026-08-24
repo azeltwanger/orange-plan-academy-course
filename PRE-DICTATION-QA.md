@@ -9,6 +9,7 @@ Austin's final read should be a targeted voice-and-judgment pass, not another co
 | Gate | Status | Evidence / remaining work |
 |---|---|---|
 | Current outline and one-decision lesson ownership | **PASS** | `CURRENT-COURSE.md`; 28 current Core scripts |
+| Worked-example coverage in concept lessons | **PASS** | `research/CORE-WORKED-EXAMPLE-AUDIT.md`; 27 lessons have a concrete teaching example or process sequence and 0.1 is orientation-only |
 | Continuous demo input reconciliation | **PASS — APPROVED** | `AUSTIN-DEMO-DECISIONS.md`, `DEMO-HOUSEHOLD.md`, and `demo/demo-v1-inputs.json` |
 | Reproducible app-engine outputs | **PASS — CANDIDATE** | `demo/ENGINE-CHECKPOINT-CANDIDATE-3105664.md`; Cash Flow, Allocation, Income, and Scenario diagnostics reconcile |
 | Deployed UI checkpoint receipts | **HOLD** | Confirm visible labels, rounding, save/preview state, source rows, and screenshots in the accepted build |
@@ -99,6 +100,7 @@ This blocks exact walkthrough routes and screen recording, not the evergreen con
 A lesson can enter voice-and-judgment review when:
 
 - no known structural change remains,
+- every concept that requires an example has a concrete household, comparative, or process example before the walkthrough,
 - every spoken demo value is an approved input or reconciled app result,
 - any unresolved UI or professional passage is named in the hold register rather than hidden,
 - script and lesson text agree on the decision and finish line,

@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 5.2
 5.2 Read the three tax buckets and find the useful windows
-~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + CPA review pending
+~9 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + CPA review pending
 ============================================================
 
 The tax decision is not always “pay the least tax this year.”
@@ -51,6 +51,28 @@ It can be harmful when it fills a higher bracket, increases state tax, affects M
 
 Core identifies the window. The Advanced Library and CPA size the conversion.
 
+== RUN THE DEMO TAX TIMELINE ==
+
+The current engine result makes the changing tax picture visible.
+
+At age 45, the household still earns $190,000 of W-2 income and the model estimates about **$36,862 of tax** for the year.
+
+At age 55, the first retirement calendar year contains only the wages earned before the March retirement date, the part-time income that begins after retirement, and the taxable effects of the funding strategy. The model estimates about **$10,632 of tax**.
+
+At age 67, Alex's Social Security begins and the modeled tax is about **$6,520**. Jordan's benefit starts two years later, so the income floor changes again.
+
+By age 75, later income and the applicable required-distribution stage are part of the projection, and modeled tax is about **$12,261**.
+
+Those values do not move in one smooth line, and they are not a tax-return forecast. The Bitcoin basis record is also incomplete for 0.50 BTC, which keeps sale-tax results qualified.
+
+The example shows the actual concept: the household does not have one retirement tax rate. The amount and type of income change by stage.
+
+The potential planning window begins when earned income falls and ends as later income sources and required distributions reduce the available room.
+
+A useful next question is not, “How much can we convert?” It is, “Which years appear to have room, what other income already fills them, and is using that room actually better than waiting?”
+
+Core finds the window. The app comparison and CPA determine whether a conversion, gain realization, or deliberate pass belongs there.
+
 == REQUIRED DISTRIBUTIONS ARE A FUTURE CONSTRAINT ==
 
 Traditional retirement money is subject to required-distribution rules under current federal law.
@@ -89,8 +111,6 @@ A core tax review ends with one of four outcomes:
 4. Deliberately pass because the year does not contain a useful move.
 
 A pass means the roadmap was reviewed and no action was worth taking. It does not mean the tax page was ignored.
-
-The canonical demo tax amount, RMD trajectory, and any conversion comparison remain outputs from `demo-v1-tax`. Do not invent them before the app checkpoint exists.
 
 == WHERE THESE NUMBERS COME FROM ==
 

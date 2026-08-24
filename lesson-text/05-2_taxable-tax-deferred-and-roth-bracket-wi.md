@@ -18,6 +18,19 @@ After-tax contributions and possible tax-free qualified withdrawals. Under curre
 
 Review working-income years, lower-income retirement years, Social Security and pension starts, and the applicable RMD stage.
 
+## Worked example: the demo tax timeline
+
+| Stage | Modeled result | What it teaches |
+|---|---:|---|
+| Age 45 · working | $190,000 W-2 income · about $36,862 tax | High earned income fills more of the ordinary-income structure |
+| Age 55 · first retirement calendar year | About $10,632 tax | Only partial-year wages remain; part-time income and the funding strategy create a different mix |
+| Age 67 · Alex Social Security begins | About $6,520 tax | The income floor changes again rather than jumping to one permanent retirement rate |
+| Age 75 · later-income / RMD stage | About $12,261 tax | Later income and required distributions can reduce flexibility |
+
+The pattern is not smooth and the amounts are not a tax-return forecast. Basis remains unresolved for 0.50 BTC, so sale-tax estimates stay qualified.
+
+The useful question is which years appear to have room and whether a conversion, gain realization, or deliberate pass uses that room intelligently.
+
 ## Low-income window
 
 A lower-income period can create room for a Roth conversion, gain realization, or another bracket-sensitive choice.

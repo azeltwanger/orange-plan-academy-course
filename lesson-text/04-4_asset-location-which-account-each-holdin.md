@@ -21,6 +21,16 @@ Detailed tax rules belong in Module 5.
 - Keep tax-efficient accessible holdings in taxable when needed
 - Preserve the combined household allocation
 
+## Worked example: same allocation, different location
+
+The demo household has $10,000 of bonds in Alex's traditional 401(k) and $10,000 of stocks in Jordan's Roth IRA.
+
+If those two holdings are reversed, the household still owns the same $10,000 of bonds and $10,000 of stocks. Current allocation and market risk are unchanged.
+
+The future tax location changes. The reversed version uses Roth space for the lower-growth bond holding while more long-term stock growth remains in the traditional account and may create taxable income later.
+
+For this household, bonds in the traditional account and long-term growth in the Roth better fit the jobs of the two pools. It is not a universal command. Account menus, risk tolerance, access needs, and the full household allocation can change the answer.
+
 ## Bitcoin trade-off
 
 - Direct taxable Bitcoin: self-custody and access; possible gain on sale
