@@ -44,3 +44,5 @@ jobs:
           git add -A
           git commit -m "course: lock Core scripts and packet for Austin review"
           git push origin HEAD:course-repair/app-match-voice-pass
+
+# Triggered after the workflow exists on the branch.
