@@ -5,7 +5,7 @@
 > The sheet beside your keyboard is the sheet in `scripts/`; this is the
 > order to shoot them in and what each one needs staged first.
 
-**10 capture sessions, covering 11 capture lessons · ~169 min of raw capture.**
+**11 capture sessions, covering 12 capture lessons · ~169 min of raw capture.**
 
 A session is one continuous recording. Where a sheet names more than one
 lesson, it is filmed once and the edit splits it at the cut point.
@@ -21,6 +21,12 @@ limits, exemptions). Call it "the current number the app shows" and move on.
 **Film each module's capture in ONE continuous session.** App state builds
 forward and restarting is where the retakes come from. Where a sheet has
 `✂ CUT POINT` markers, the edit can split it into several videos later.
+
+---
+
+## ☐ 0.3 · DEMO — Use Orange Plan AI to get useful feedback
+
+*Screen capture · narrated, not scripted · target 7–10 minutes*  ·  sheet: `scripts/00-3_DEMO_use-orange-plan-ai.md`
 
 ---
 
