@@ -3,7 +3,8 @@
 
 The script audit checks individual lessons. This audit checks that the
 repository has one current production path and that new engine, professional,
-and visual controls cannot disappear while stale paths return.
+visual, AI-use, and review-workspace controls cannot disappear while stale
+paths return.
 """
 
 from __future__ import annotations
@@ -23,12 +24,19 @@ REQUIRED_FILES = (
     "AUSTIN-REVIEW-INDEX.md",
     "DICTATION-ORDER.md",
     "AUSTIN-REVIEW-HOLD-REGISTER.md",
+    "AI-PLANNING-QUESTION-GUIDE.md",
     "DEMO-CHECKPOINT-RUN-SHEET.md",
     "PRE-DICTATION-QA.md",
     "FILMING-READINESS.md",
     "MY-ORANGE-PLAN-CAPSTONE.md",
     "ADVANCED-GATES.md",
     "VISUAL-PRODUCTION-BRIEFS.md",
+    "scripts/00-3_DEMO_use-orange-plan-ai.md",
+    "research/AI-LESSON-VISUAL-BRIEF.md",
+    "review/README.md",
+    "review/MANIFEST.md",
+    "review/modules/00-start-here.md",
+    "review/AI-PLANNING-QUESTION-GUIDE.md",
     "demo/demo-v1-inputs.json",
     "demo/ENGINE-CHECKPOINT-CANDIDATE-3105664.md",
     "demo/VISUAL-DATA-RECEIPT-3105664.md",
@@ -53,7 +61,6 @@ REQUIRED_FILES = (
 )
 
 FORBIDDEN_CURRENT_DIRECTORIES = (
-    "review",
     "review-packets",
 )
 
@@ -67,6 +74,7 @@ CURRENT_TEXT_PATHS = (
     "AUSTIN-REVIEW-INDEX.md",
     "DICTATION-ORDER.md",
     "AUSTIN-REVIEW-HOLD-REGISTER.md",
+    "AI-PLANNING-QUESTION-GUIDE.md",
     "DEMO-CHECKPOINT-RUN-SHEET.md",
     "PRE-DICTATION-QA.md",
     "FILMING-READINESS.md",
@@ -75,10 +83,12 @@ CURRENT_TEXT_PATHS = (
     "VISUAL-PRODUCTION-BRIEFS.md",
     "professional-review/README.md",
     "professional-review/SEND-CHECKLIST.md",
+    "review/README.md",
+    "review/MANIFEST.md",
 )
 
 STALE_REFERENCE_PATTERNS = {
-    "retired review/ packet path": re.compile(
+    "retired review/ professional-packet path": re.compile(
         r"(?<!professional-)\breview/(?:CPA|CUSTODY|ESTATE|INSURANCE)-REVIEW",
         re.I,
     ),
@@ -94,19 +104,36 @@ STALE_REFERENCE_PATTERNS = {
 REQUIRED_PHRASES = {
     "CURRENT-COURSE.md": (
         "Austin's voice-and-judgment review is ready to begin",
+        "Use Orange Plan AI to understand the numbers and make better decisions",
         "ENGINE-CHECKPOINT-CANDIDATE-3105664.md",
         "DEMO-HOUSEHOLD.md",
         "PRE-DICTATION-QA.md",
     ),
     "DICTATION-ORDER.md": (
         "Austin may begin the voice-and-judgment review",
-        "25,407 spoken words",
+        "Use Orange Plan AI to understand the numbers and make better decisions",
+        "spoken words",
         "0.079251 BTC",
     ),
     "AUSTIN-REVIEW-HOLD-REGISTER.md": (
         "A held line blocks",
         "## UI holds",
         "## Professional and real-world holds",
+    ),
+    "AUSTIN-REVIEW-INDEX.md": (
+        "Use AI for planning decisions",
+        "explain, prioritize, compare, challenge, and act",
+    ),
+    "AI-PLANNING-QUESTION-GUIDE.md": (
+        "Decision + constraint + what you want the answer to show",
+        "Verdict",
+        "Trade-off",
+        "Next move",
+    ),
+    "scripts/00-3_DEMO_use-orange-plan-ai.md": (
+        "Review the current plan and rank what matters",
+        "Explain a confusing number from its sources",
+        "Turn the answer into action",
     ),
     "BUILD-YOUR-PLAN-CROSSWALK.md": (
         "deployed Build Your Plan flow",
@@ -132,6 +159,10 @@ REQUIRED_PHRASES = {
         "64.8%",
         "$101,948",
     ),
+    "review/README.md": (
+        "AI-PLANNING-QUESTION-GUIDE.md",
+        "screen-share run sheet",
+    ),
 }
 
 
@@ -147,7 +178,7 @@ def main() -> int:
         if (ROOT / relative_path).exists():
             failures.append(
                 f"retired duplicate control directory still exists: {relative_path}/; "
-                "use professional-review/ only"
+                "use professional-review/ for professional packets and review/ for Austin's generated workspace"
             )
 
     for relative_path in CURRENT_TEXT_PATHS:
@@ -178,8 +209,7 @@ def main() -> int:
         )
         if len(linked_scripts) != 28:
             failures.append(
-                f"AUSTIN-REVIEW-INDEX.md links {len(linked_scripts)} unique core scripts; "
-                "expected 28"
+                f"AUSTIN-REVIEW-INDEX.md links {len(linked_scripts)} unique core scripts; expected 28"
             )
 
     contract_path = ROOT / "COURSE-APP-CONTRACT.md"
@@ -199,9 +229,7 @@ def main() -> int:
     if decision_path.is_file():
         decisions = decision_path.read_text(encoding="utf-8")
         if "APPROVED" not in decisions.upper():
-            failures.append(
-                "AUSTIN-DEMO-DECISIONS.md should retain an obvious APPROVED state"
-            )
+            failures.append("AUSTIN-DEMO-DECISIONS.md should retain an obvious APPROVED state")
 
     professional_readme = ROOT / "professional-review/README.md"
     if professional_readme.is_file():
@@ -230,9 +258,7 @@ def main() -> int:
         return 1
 
     print(
-        "\nThe repository has one current pre-dictation control path, the reconciled "
-        "engine/visual/professional controls are present, and no stale packet or "
-        "restore-language regression was detected."
+        "\nThe repository has one current pre-dictation control path, a generated Austin review workspace, the reconciled engine/visual/professional/AI-use controls are present, and no stale packet or restore-language regression was detected."
     )
     return 0
 
