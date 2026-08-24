@@ -1,6 +1,6 @@
 # Pre-dictation control audit
 
-- Required files checked: **34**
+- Required files checked: **36**
 - Critical findings: **0**
 - Warnings: **0**
 

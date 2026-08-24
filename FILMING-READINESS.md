@@ -7,7 +7,7 @@ This file tracks whether an Austin-approved lesson can actually be recorded and 
 - `PASS` — complete for the accepted build or source layer
 - `CANDIDATE` — reconciled engine result awaiting visible UI receipt
 - `HOLD` — an external, real-world, or product dependency remains
-- `AUSTIN` — ready for Austin's final spoken read
+- `AUSTIN` — ready for Austin's voice-and-judgment review
 - `APPROVED` — Austin approved the final wording
 - `FILM` — concept video can be recorded
 - `PUBLISH` — concept, text, visual, and walkthrough are synchronized
@@ -36,16 +36,16 @@ This file tracks whether an Austin-approved lesson can actually be recorded and 
 
 | Module | Inputs | Engine result | UI / real-world receipt | External gate | Austin | Film ready |
 |---|---|---|---|---|---|---|
-| 0 · Start Here | N/A | N/A | Recheck AI/privacy wording | N/A | HOLD | NO |
-| 1 · Baseline | APPROVED | RECONCILED | UI receipt | N/A | HOLD | NO |
-| 2 · Cash Flow | APPROVED | RECONCILED | UI source rows and reserve | N/A | HOLD | NO |
-| 3 · Debt | APPROVED | RECONCILED | UI ratios/payoff | N/A | HOLD | NO |
-| 4 · Allocation | APPROVED | RECONCILED | UI denominator, exclusions, and review state | CPA for tax-location claims | HOLD | NO |
-| 5 · Tax | APPROVED | ROADMAP CANDIDATE | UI unresolved-basis warning | CPA RESPONSE — NOT SENT | HOLD | NO |
-| 6 · Retirement Income | APPROVED | RECONCILED | UI first-year rows, sources, and spending cards | CPA RESPONSE — NOT SENT | HOLD | NO |
-| 7 · Custody | APPROVED STARTING STATE | N/A | Real-world recovery and family test | CUSTODY RESPONSE — NOT SENT | HOLD | NO |
-| 8 · Estate / Insurance | APPROVED STARTING STATE | N/A | Legal/provider/policy proof | ATTORNEY + INSURANCE — NOT SENT | HOLD | NO |
-| 9 · Maintain / Test / Read | APPROVED | SCENARIO RECONCILED | UI Scenario/report/export state | N/A | HOLD | NO |
+| 0 · Start Here | N/A | N/A | Recheck AI/privacy wording | N/A | AUSTIN | NO |
+| 1 · Baseline | APPROVED | RECONCILED | UI receipt | N/A | AUSTIN | NO |
+| 2 · Cash Flow | APPROVED | RECONCILED | UI source rows and reserve | N/A | AUSTIN | NO |
+| 3 · Debt | APPROVED | RECONCILED | UI ratios/payoff | N/A | AUSTIN | NO |
+| 4 · Allocation | APPROVED | RECONCILED | UI denominator, exclusions, and review state | CPA for tax-location claims | AUSTIN | NO |
+| 5 · Tax | APPROVED | ROADMAP CANDIDATE | UI unresolved-basis warning | CPA RESPONSE — NOT SENT | AUSTIN | NO |
+| 6 · Retirement Income | APPROVED | RECONCILED | UI first-year rows, sources, and spending cards | CPA RESPONSE — NOT SENT | AUSTIN | NO |
+| 7 · Custody | APPROVED STARTING STATE | N/A | Real-world recovery and family test | CUSTODY RESPONSE — NOT SENT | AUSTIN | NO |
+| 8 · Estate / Insurance | APPROVED STARTING STATE | N/A | Legal/provider/policy proof | ATTORNEY + INSURANCE — NOT SENT | AUSTIN | NO |
+| 9 · Maintain / Test / Read | APPROVED | SCENARIO RECONCILED | UI Scenario/report/export state | N/A | AUSTIN | NO |
 
 ## Current app-owned candidate values
 

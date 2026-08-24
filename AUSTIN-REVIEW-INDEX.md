@@ -1,12 +1,12 @@
 # Orange Plan Academy — Austin review index
 
-**Purpose:** give Austin one place to perform the final voice-and-judgment pass after structural, numeric, app, and professional corrections are complete.
+**Purpose:** give Austin one place to review the stable Core now, record exact voice and judgment changes, and return only to lessons with named UI or professional holds for final clearance.
 
 **Begin the voice-and-judgment review now, using the wave order below.** Review the stable concept prose and dictate replacements where the wording or judgment is not yours. Do not mark a lesson `AUSTIN APPROVED` until its named UI or professional hold is cleared and the corrected lesson receives one clean final read.
 
 ## What Austin is reviewing
 
-The structure and fictional household are already decided. During the final read, review only:
+The structure and fictional household are already decided. During this review, focus on:
 
 1. **Voice** — would I naturally say this on camera?
 2. **Judgment** — do I agree with the recommendation and trade-off?

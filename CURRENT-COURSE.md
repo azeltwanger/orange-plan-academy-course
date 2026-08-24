@@ -48,14 +48,17 @@ No additional course-wide structural or demo-input pass is planned before Austin
 5. `demo/ENGINE-CHECKPOINT-CANDIDATE-3105664.md` — reconciled app-engine outputs
 6. `demo/VISUAL-DATA-RECEIPT-3105664.md` — current production values
 7. `PRE-DICTATION-QA.md` — remaining gates
-8. `FILMING-READINESS.md` — film and publish gates
-9. `scripts/` — current spoken drafts
-10. `lesson-text/` — matching student reference text
-11. `COURSE-APP-CONTRACT.md` — teaching, app-state, and provenance rules
-12. `BUILD-YOUR-PLAN-CROSSWALK.md` — walkthrough routing contract
-13. `professional-review/` — source verification and external-review packets
-14. `research/SLIDE-CORRECTION-MAP.md` — treatment of the live-client decks
-15. `research/CLIENT-CALL-VOICE-EVIDENCE.md` and `research/CLIENT-CONFUSION-REGISTRY.md`
+8. `DICTATION-ORDER.md` — Austin's current review queue and locked values
+9. `AUSTIN-REVIEW-HOLD-REGISTER.md` — named UI and professional approval holds
+10. `AUSTIN-REVIEW-INDEX.md` — review waves and approval tests
+11. `FILMING-READINESS.md` — film and publish gates
+12. `scripts/` — current spoken drafts
+13. `lesson-text/` — matching student reference text
+14. `COURSE-APP-CONTRACT.md` — teaching, app-state, and provenance rules
+15. `BUILD-YOUR-PLAN-CROSSWALK.md` — walkthrough routing contract
+16. `professional-review/` — source verification and external-review packets
+17. `research/SLIDE-CORRECTION-MAP.md` — treatment of the live-client decks
+18. `research/CLIENT-CALL-VOICE-EVIDENCE.md` and `research/CLIENT-CONFUSION-REGISTRY.md`
 
 `MASTER-COURSE.md`, `MASTER-ADVANCED.md`, generated modules, Circle output, aggregate scripts, and old walkthroughs remain migration inputs. **Do not film or publish from those layers.**
 
@@ -281,16 +284,16 @@ The old `SPOKEN-PROSE VERSION (calibrated)` label is not a production status.
 
 | Module | Structure | Inputs | Engine result | Remaining external/product hold | Austin |
 |---|---|---|---|---|---|
-| 0 · Start Here | PASS | N/A | N/A | AI/privacy recheck | NOT STARTED |
-| 1 · Baseline | PASS | APPROVED | RECONCILED | UI receipt | NOT STARTED |
-| 2 · Cash Flow | PASS | APPROVED | RECONCILED | UI receipt | NOT STARTED |
-| 3 · Debt | PASS | APPROVED | RECONCILED | UI receipt | NOT STARTED |
-| 4 · Allocation | PASS | APPROVED | RECONCILED | UI receipt + CPA on tax-location claims | NOT STARTED |
-| 5 · Tax | PASS | APPROVED | ROADMAP CANDIDATE | UI receipt + CPA response | NOT STARTED |
-| 6 · Retirement Income | PASS | APPROVED | RECONCILED | UI receipt + CPA response | NOT STARTED |
-| 7 · Custody | PASS | APPROVED STARTING STATE | N/A | real-world test + custody response | NOT STARTED |
-| 8 · Estate / Insurance | PASS | APPROVED STARTING STATE | N/A | legal/provider/policy proof + attorney/insurance responses | NOT STARTED |
-| 9 · Maintain / Test / Read | PASS | APPROVED | SCENARIO RECONCILED | UI receipt | NOT STARTED |
+| 0 · Start Here | PASS | N/A | N/A | AI/privacy recheck | READY TO BEGIN |
+| 1 · Baseline | PASS | APPROVED | RECONCILED | UI receipt | READY TO BEGIN |
+| 2 · Cash Flow | PASS | APPROVED | RECONCILED | UI receipt | READY TO BEGIN |
+| 3 · Debt | PASS | APPROVED | RECONCILED | UI receipt | READY TO BEGIN |
+| 4 · Allocation | PASS | APPROVED | RECONCILED | UI receipt + CPA on tax-location claims | READY TO BEGIN |
+| 5 · Tax | PASS | APPROVED | ROADMAP CANDIDATE | UI receipt + CPA response | READY TO BEGIN |
+| 6 · Retirement Income | PASS | APPROVED | RECONCILED | UI receipt + CPA response | READY TO BEGIN |
+| 7 · Custody | PASS | APPROVED STARTING STATE | N/A | real-world test + custody response | READY TO BEGIN |
+| 8 · Estate / Insurance | PASS | APPROVED STARTING STATE | N/A | legal/provider/policy proof + attorney/insurance responses | READY TO BEGIN |
+| 9 · Maintain / Test / Read | PASS | APPROVED | SCENARIO RECONCILED | UI receipt | READY TO BEGIN |
 
 ## Work that runs alongside Austin's review
 
@@ -314,4 +317,4 @@ The old `SPOKEN-PROSE VERSION (calibrated)` label is not a production status.
 9. Module 9 — Maintain, Test, and Read
 10. Module 0 — final framing pass
 
-Austin reads each script once, changes only wording or judgment he would naturally express differently, confirms the example and app terminology, and marks `AUSTIN APPROVED` after one clean final read. The structure and demo should not need another rebuild.
+Austin reviews each script once now for voice and judgment. A lesson with no named hold can move directly toward approval. A held lesson receives only its scoped UI or professional correction, then one clean final read before `AUSTIN APPROVED`. The structure and demo should not need another rebuild.

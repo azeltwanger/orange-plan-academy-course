@@ -11,11 +11,13 @@ Use these files in this order:
 3. **`DEMO-HOUSEHOLD.md`** — continuous household, reconciled source rows, and app interpretation
 4. **`demo/ENGINE-CHECKPOINT-CANDIDATE-3105664.md`** — current reproducible Orange Plan outputs
 5. **`PRE-DICTATION-QA.md`** — what is complete and which external/UI holds remain
-6. **`AUSTIN-REVIEW-INDEX.md`** — the eventual one-pass voice-and-judgment queue
-7. **`scripts/`** and **`lesson-text/`** — the current 28 spoken drafts and matching written lessons
-8. **`COURSE-APP-CONTRACT.md`** and **`BUILD-YOUR-PLAN-CROSSWALK.md`** — course/app agreement and preview-dependent walkthrough routing
-9. **`professional-review/`** — primary-source verification, send-ready packets, candidate pool, outreach, and review controls
-10. **`VISUAL-PRODUCTION-BRIEFS.md`** and **`research/SLIDE-CORRECTION-MAP.md`** — future visual direction and treatment of the old live-teaching decks
+6. **`DICTATION-ORDER.md`** — the current 28-lesson review queue, runtimes, locked values, and script links
+7. **`AUSTIN-REVIEW-HOLD-REGISTER.md`** — the exact UI and professional passages held from final approval
+8. **`AUSTIN-REVIEW-INDEX.md`** — review waves, decisions, approval tests, and current holds
+9. **`scripts/`** and **`lesson-text/`** — the current 28 spoken drafts and matching written lessons
+10. **`COURSE-APP-CONTRACT.md`** and **`BUILD-YOUR-PLAN-CROSSWALK.md`** — course/app agreement and preview-dependent walkthrough routing
+11. **`professional-review/`** — primary-source verification, send-ready packets, candidate pool, outreach, and review controls
+12. **`VISUAL-PRODUCTION-BRIEFS.md`** and **`research/SLIDE-CORRECTION-MAP.md`** — future visual direction and treatment of the old live-teaching decks
 
 Read **`AUSTIN-AUTHORITY.md`** before changing Austin's planning recommendations.
 
@@ -37,15 +39,15 @@ The structural, demo-input, and reproducible engine pass is complete:
 - current visual-data receipt and UI-acceptance checklist
 - permanent audits for structure, lesson parity, demo arithmetic, receipts, provenance, voice patterns, and the pre-dictation control layer
 
-Austin's final voice-and-judgment read has **not** started.
+Austin's voice-and-judgment review is **ready to begin now**. Use `DICTATION-ORDER.md`; record `APP` or `PRO` holds from `AUSTIN-REVIEW-HOLD-REGISTER.md` and keep moving.
 
-The remaining work is deliberately narrow and should happen before that read:
+The remaining work runs alongside Austin's review and must clear before final approval or filming:
 
 1. Verify the reconciled synthetic household on the deployed pages and capture eight final UI receipts.
 2. Receive and apply actual outside CPA/tax, custody, Colorado estate-attorney, and insurance responses.
 3. Use the deployed Build Your Plan flow end to end before recording exact click paths.
 4. Finalize visuals and versioned walkthroughs from the accepted receipts.
-5. Give Austin each lesson once for wording and judgment approval.
+5. Apply only the named corrections, reconcile lesson text, and give the corrected lesson one clean final read before `AUSTIN APPROVED`.
 
 ## Reconciled demo highlights
 

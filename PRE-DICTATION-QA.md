@@ -67,7 +67,7 @@ Each spouse's Social Security still retains its own start age.
 
 This reduces preventable reviewer questions. It is not licensed professional approval.
 
-## Remaining holds before Austin reads once
+## Remaining holds before final approval and filming
 
 ### 1. Deployed UI acceptance
 
