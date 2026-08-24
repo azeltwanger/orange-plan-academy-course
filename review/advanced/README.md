@@ -1,25 +1,30 @@
-# Austin review — Advanced Library
+# Austin review — current Advanced Library
 
-**Do not review the old files directly under `scripts/advanced/`.** They remain migration sources.
-
-The current review set will live under:
+The current Advanced review set is complete at:
 
 - `scripts/advanced/current/`
 - `lesson-text/advanced/current/`
 - this `review/advanced/` workspace
 
-## Review standard
+Do **not** review the older files directly under `scripts/advanced/`. They remain migration/history sources and still contain former numbering, stale claims, fragments, and retired provenance labels.
 
-Before reading each script, check:
+## Start here
+
+1. `LEARNER-QUESTION-MAP.md`
+2. `DICTATION-ORDER.md`
+3. `HOLD-REGISTER.md`
+4. Open the linked current script and matching lesson text
+
+## Review standard
 
 1. **Gate** — does this learner actually need the lesson?
 2. **Question** — is this the question they would ask?
-3. **Example** — does the concept get worked before the app demo?
+3. **Example** — is the concept worked before any app/provider demo?
 4. **Judgment** — is the recommendation genuinely Austin's?
 5. **Trade-off** — is the cost or failure mode honest?
 6. **Decision** — is there one output rather than more information?
 7. **Return path** — does the learner know where this changes the Core plan?
 
-Use the same marks as Core: `APPROVE`, `TIGHTEN`, `SAY IT THIS WAY`, `JUDGMENT`, `QUESTION`, `APP`, `PRO`, or `REMOVE`.
+Use `APPROVE`, `TIGHTEN`, `SAY IT THIS WAY`, `JUDGMENT`, `GATE`, `QUESTION`, `APP`, `PRO`, `ADVANCED ONLY`, or `REMOVE`.
 
-Advanced should stay shorter than a second full course. The learner watches only the conditions visible in their own plan.
+Advanced is conditional reference material, not a second linear course. A learner watches only the gates visible in their own plan.
