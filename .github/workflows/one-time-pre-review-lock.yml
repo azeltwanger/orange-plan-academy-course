@@ -28,6 +28,25 @@ jobs:
       - name: Apply the review lock
         run: |
           python tools/apply_pre_review_lock.py
+          python - <<'PY'
+          from pathlib import Path
+          from tools.voice_lint import WORD, clean_sentences, spoken_text
+
+          root = Path('.')
+          custody = root / 'scripts/08-2_split-access-dual-control-and-redundancy.md'
+          text = custody.read_text(encoding='utf-8')
+          old = 'The operating exchange balance follows the provider\'s claim process.'
+          new = 'In our demo, the operating exchange balance follows the provider\'s claim process.'
+          if text.count(old) != 1:
+              raise RuntimeError(f'Expected one 8.2 demo anchor, found {text.count(old)}')
+          custody.write_text(text.replace(old, new, 1), encoding='utf-8')
+
+          income = root / 'scripts/06-1_your-spending-income-floor-gap-and-bridg.md'
+          for sentence in clean_sentences(spoken_text(income.read_text(encoding='utf-8'))):
+              count = len(WORD.findall(sentence))
+              if count > 45:
+                  print(f'LONG SENTENCE ({count} words): {sentence}')
+          PY
           python tools/build-dictation-order.py
           python tools/voice_lint.py --strict-warnings
           python tools/run_all_audits.py
