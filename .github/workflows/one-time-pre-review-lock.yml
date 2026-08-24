@@ -48,6 +48,14 @@ jobs:
           if text.count(old) != 1:
               raise RuntimeError(f'Expected one 6.1 gap formula, found {text.count(old)}')
           income.write_text(text.replace(old, new, 1), encoding='utf-8')
+
+          audit = root / 'tools/pre_dictation_control_audit.py'
+          text = audit.read_text(encoding='utf-8')
+          old = 'Austin\'s final voice-and-judgment read has not started'
+          new = 'Austin\'s voice-and-judgment review is ready to begin'
+          if text.count(old) != 1:
+              raise RuntimeError(f'Expected one old review-state audit phrase, found {text.count(old)}')
+          audit.write_text(text.replace(old, new, 1), encoding='utf-8')
           PY
           python tools/build-dictation-order.py
           python tools/voice_lint.py --strict-warnings
