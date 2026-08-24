@@ -1,13 +1,10 @@
 name: One-time pre-review lock
 
 on:
-  push:
+  pull_request:
     branches:
-      - course-repair/app-match-voice-pass
-    paths:
-      - tools/apply_pre_review_lock.py
-      - tools/build-dictation-order.py
-      - .github/workflows/one-time-pre-review-lock.yml
+      - main
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -44,5 +41,3 @@ jobs:
           git add -A
           git commit -m "course: lock Core scripts and packet for Austin review"
           git push origin HEAD:course-repair/app-match-voice-pass
-
-# Triggered through the contents API after the workflow existed on the branch.
