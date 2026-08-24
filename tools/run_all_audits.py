@@ -13,12 +13,11 @@ ARTIFACTS = ROOT / "artifacts" / "full-course-audit"
 COMMANDS = (
     (
         "Core script and lesson-text audit",
-        [
-            sys.executable,
-            str(ROOT / "tools" / "course_audit.py"),
-            "--out-dir",
-            str(ARTIFACTS / "core"),
-        ],
+        [sys.executable, str(ROOT / "tools" / "course_audit.py"), "--out-dir", str(ARTIFACTS / "core")],
+    ),
+    (
+        "Advanced script and lesson-text audit",
+        [sys.executable, str(ROOT / "tools" / "advanced_course_audit.py")],
     ),
     (
         "Pre-dictation control audit",
@@ -33,8 +32,12 @@ COMMANDS = (
         [sys.executable, str(ROOT / "tools" / "checkpoint_receipt_audit.py")],
     ),
     (
-        "Voice and AI-slop lint",
+        "Core voice and AI-slop lint",
         [sys.executable, str(ROOT / "tools" / "voice_lint.py")],
+    ),
+    (
+        "Advanced voice and AI-slop lint",
+        [sys.executable, str(ROOT / "tools" / "advanced_voice_lint.py")],
     ),
 )
 
@@ -46,13 +49,7 @@ def main() -> int:
 
     for index, (name, command) in enumerate(COMMANDS, start=1):
         print(f"\n{'=' * 80}\n{name}\n{'=' * 80}\n")
-        completed = subprocess.run(
-            command,
-            cwd=ROOT,
-            text=True,
-            capture_output=True,
-            check=False,
-        )
+        completed = subprocess.run(command, cwd=ROOT, text=True, capture_output=True, check=False)
         output = completed.stdout
         if completed.stderr:
             output += "\n## STDERR\n\n" + completed.stderr
@@ -66,13 +63,7 @@ def main() -> int:
         if completed.returncode != 0:
             failures.append(name)
 
-    summary.extend(
-        [
-            "",
-            f"**Overall:** {'PASS' if not failures else 'FAIL'}",
-            "",
-        ]
-    )
+    summary.extend(["", f"**Overall:** {'PASS' if not failures else 'FAIL'}", ""])
     (ARTIFACTS / "SUMMARY.md").write_text("\n".join(summary), encoding="utf-8")
 
     print("\n" + "\n".join(summary))

@@ -1,0 +1,45 @@
+name: Advanced voice lint
+
+on:
+  push:
+    branches:
+      - main
+      - 'course-repair/**'
+    paths:
+      - 'scripts/advanced/current/**'
+      - 'tools/voice_lint.py'
+      - 'tools/advanced_voice_lint.py'
+      - '.github/workflows/advanced-voice-lint.yml'
+  pull_request:
+    paths:
+      - 'scripts/advanced/current/**'
+      - 'tools/voice_lint.py'
+      - 'tools/advanced_voice_lint.py'
+      - '.github/workflows/advanced-voice-lint.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Lint current Advanced scripts
+        run: |
+          mkdir -p artifacts/advanced-voice-lint
+          python tools/advanced_voice_lint.py | tee artifacts/advanced-voice-lint/ADVANCED-VOICE-LINT.md
+      - name: Add report to summary
+        if: always()
+        run: cat artifacts/advanced-voice-lint/ADVANCED-VOICE-LINT.md >> "$GITHUB_STEP_SUMMARY" || true
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: advanced-voice-lint
+          path: artifacts/advanced-voice-lint
+          if-no-files-found: warn
