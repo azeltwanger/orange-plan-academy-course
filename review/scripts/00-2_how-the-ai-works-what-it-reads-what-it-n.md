@@ -11,7 +11,7 @@ That is where the AI is useful.
 
 I think of it as a second set of eyes on the financial plan. It can read the current numbers, help you understand what is driving the result, compare two real choices, challenge an assumption, and turn the analysis into a next step.
 
-The goal is not to have a chatbot repeat the page back to you. The goal is to get useful feedback on a decision.
+It should not repeat the page back to you. It should give you useful feedback on a decision.
 
 == FIVE USEFUL WAYS TO USE IT ==
 
@@ -71,9 +71,9 @@ After the explanation or comparison, ask:
 
 That forces the answer to separate three different things:
 
-- a real-life action,
-- a question that needs another comparison,
-- and cleanup that is not the main decision yet.
+- A real-life action.
+- A question that needs another comparison.
+- Cleanup that is not the main decision yet.
 
 It can also help you prepare for a professional.
 
@@ -109,9 +109,9 @@ The focused reviews have the relevant page context. That means you do not need t
 
 A useful planning question has three parts:
 
-1. The decision you are trying to make
-2. The constraint that matters to you
-3. What you want the answer to show
+1. The decision you are trying to make.
+2. The constraint that matters to you.
+3. What you want the answer to show.
 
 For example:
 
@@ -129,10 +129,10 @@ When the answer could apply to anybody, ask again:
 
 A strong answer should give you four things:
 
-- a direct verdict,
-- the plan number or source supporting it,
-- the trade-off,
-- and the next action.
+- A direct verdict.
+- The plan number or source supporting it.
+- The trade-off.
+- The next action.
 
 You can keep pressing on any part that is unclear.
 

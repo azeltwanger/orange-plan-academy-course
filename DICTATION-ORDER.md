@@ -2,7 +2,7 @@
 
 **Current Core only.** Generated from `CURRENT-COURSE.md` and the 28 current `scripts/` files. Do not use `MASTER-COURSE.md`, old decks, aggregate scripts, or retired walkthroughs as the recording source.
 
-**28 teach lessons · 26,128 spoken words · 168.6 min (2.8 h) at 155 wpm.**
+**28 teach lessons · 26,120 spoken words · 168.5 min (2.8 h) at 155 wpm.**
 
 Austin may begin the voice-and-judgment review in the wave order below. A named UI or professional hold blocks `AUSTIN APPROVED` and filming; it does not require rebuilding or rereading unrelated concept prose.
 
@@ -110,7 +110,7 @@ The review starts with the biggest app and number changes, then strategy, then p
 | Lesson | Current script | Words | Min | Review status |
 |---|---|---:|---:|---|
 | 0.1 | [How to use this course](scripts/00-1_how-to-use-this-course.md) | 961 | 6.2 | AUSTIN DICTATION + VOICE-MATCHED COMPLETION — Austin review pending |
-| 0.2 | [Use Orange Plan AI to understand the numbers and make better decisions](scripts/00-2_how-the-ai-works-what-it-reads-what-it-n.md) | 1,353 | 8.7 | VOICE-MATCHED DRAFT — Austin review pending |
+| 0.2 | [Use Orange Plan AI to understand the numbers and make better decisions](scripts/00-2_how-the-ai-works-what-it-reads-what-it-n.md) | 1,345 | 8.7 | VOICE-MATCHED DRAFT — Austin review pending |
 
 ---
 
