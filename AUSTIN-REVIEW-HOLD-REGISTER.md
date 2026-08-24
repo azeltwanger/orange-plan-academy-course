@@ -2,6 +2,8 @@
 
 **Purpose:** let Austin review and dictate the stable Core now without confusing a pending product or professional check with a course-wide rewrite.
 
+**Start in `DICTATION-ORDER.md`.** Use this register only when the lesson carries an `APP` or `PRO` hold; otherwise keep reviewing normally.
+
 ## Rule
 
 Review the whole lesson for voice, judgment, example, and finish line. When a named hold appears, mark it `APP` or `PRO` and keep moving. Do not replace reconciled numbers from memory. A held line blocks `AUSTIN APPROVED` and filming, not the rest of the lesson's review.
