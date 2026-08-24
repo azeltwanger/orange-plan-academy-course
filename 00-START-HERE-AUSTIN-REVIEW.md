@@ -1,13 +1,31 @@
 # START HERE — Austin course review
 
-The clean review workspace is [`review/`](review/README.md).
+Both the **Core course and the current Advanced Library are ready for Austin's voice-and-judgment review**.
 
-Do **not** review from `MASTER-COURSE.md`, `MASTER-ADVANCED.md`, `ALL-SCRIPTS.md`, `modules/`, Circle output, old walkthroughs, or historical decks. Those remain migration/history material until each approved module is synchronized.
+## Core
 
-Before reading a script, open the [`learner-question map`](review/LEARNER-QUESTION-MAP.md). It states the real question the lesson must answer and the one decision it must produce. The title does not need to become a question, and the script does not need another introduction.
+Open:
 
-Then use [`review/DICTATION-ORDER.md`](review/DICTATION-ORDER.md) or review one combined module at a time under [`review/modules/`](review/modules/).
+1. [`review/README.md`](review/README.md)
+2. [`review/LEARNER-QUESTION-MAP.md`](review/LEARNER-QUESTION-MAP.md)
+3. [`review/DICTATION-ORDER.md`](review/DICTATION-ORDER.md)
+4. [`review/modules/`](review/modules/) or the linked individual scripts
+5. [`review/AUSTIN-REVIEW-HOLD-REGISTER.md`](review/AUSTIN-REVIEW-HOLD-REGISTER.md)
 
-During the read, mark `QUESTION` when the script answers a different problem, takes too long to reach the real question, or leaves the first useful answer for the walkthrough.
+## Advanced
 
-The scripts use Austin's actual dictated lessons and client-call teaching as voice evidence. They are not labelled `AUSTIN APPROVED` until Austin completes the final spoken read.
+Open:
+
+1. [`ADVANCED-CURRENT.md`](ADVANCED-CURRENT.md)
+2. [`review/advanced/LEARNER-QUESTION-MAP.md`](review/advanced/LEARNER-QUESTION-MAP.md)
+3. [`review/advanced/DICTATION-ORDER.md`](review/advanced/DICTATION-ORDER.md)
+4. [`review/advanced/HOLD-REGISTER.md`](review/advanced/HOLD-REGISTER.md)
+5. The linked scripts under [`scripts/advanced/current/`](scripts/advanced/current/) and matching student lessons under [`lesson-text/advanced/current/`](lesson-text/advanced/current/)
+
+Do **not** review from `MASTER-COURSE.md`, `MASTER-ADVANCED.md`, `ALL-SCRIPTS.md`, old generated modules, Circle output, old walkthroughs, or the legacy files directly under `scripts/advanced/`. Those remain migration/history material.
+
+## Review rule
+
+Review stable voice, examples, planning judgment, gates, and finish lines now. Mark a named `APP` or `PRO` hold and keep moving. The hold blocks final approval and filming—not this first voice-and-judgment read.
+
+The scripts use Austin's dictated lessons, client-call teaching, live slides, current app behavior, and established planning positions as evidence. They are not `AUSTIN APPROVED` until the applicable hold is cleared and Austin completes the final clean read.

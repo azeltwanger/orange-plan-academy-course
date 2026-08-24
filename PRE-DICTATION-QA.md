@@ -1,105 +1,61 @@
 # Orange Plan Academy — pre-dictation QA
 
-**Purpose:** finish every structural, numeric, factual, and production change that could make Austin repeat his voice work.
+**Purpose:** finish the structural, numeric, factual, and production work that could make Austin repeat his voice work.
 
-Austin's final read should be a targeted voice-and-judgment pass, not another course rebuild.
+## Current gate status
 
-## Gate status
-
-| Gate | Status | Evidence / remaining work |
+| Gate | Core | Advanced |
 |---|---|---|
-| Current outline and one-decision lesson ownership | **PASS** | `CURRENT-COURSE.md`; 28 current Core scripts |
-| Learner-question framing | **PASS** | `curriculum/core-learner-questions.json` and `review/LEARNER-QUESTION-MAP.md`; every lesson answers one real question and produces one decision |
-| Worked-example coverage in concept lessons | **PASS** | `research/CORE-WORKED-EXAMPLE-AUDIT.md`; 27 lessons have a concrete teaching example or process sequence and 0.1 is orientation-only |
-| Continuous demo input reconciliation | **PASS — APPROVED** | `AUSTIN-DEMO-DECISIONS.md`, `DEMO-HOUSEHOLD.md`, and `demo/demo-v1-inputs.json` |
-| Reproducible app-engine outputs | **PASS — CANDIDATE** | `demo/ENGINE-CHECKPOINT-CANDIDATE-3105664.md`; Cash Flow, Allocation, Income, and Scenario diagnostics reconcile |
-| Deployed UI checkpoint receipts | **HOLD** | Confirm visible labels, rounding, save/preview state, source rows, and screenshots in the accepted build |
-| Starting retirement-paycheck decision | **PASS — APPROVED** | Keep $100,000/year; current plan measures 94.6%, near the $99,317 Conservative reference |
-| Duplication and runtime | **PASS** | Adjacent lessons own distinct decisions; automated audit remains authoritative |
-| Core-versus-Advanced boundary | **PASS** | Conditional material is visible and non-blocking |
-| App-concept accuracy | **PASS WITH UI HOLD** | Unified confidence, one household retirement date, Income controls, Allocation denominator, source ownership, save/preview distinction, and export limitation are corrected |
-| Script / lesson-text parity | **PASS** | 28 matching pairs; automated audit scans both layers |
-| Authoritative-source verification | **PASS** | IRS, Colorado, NIST/FTC, Medicare, and NAIC source pass documented in `professional-review/AUTHORITATIVE-SOURCE-VERIFICATION.md` |
-| External professional responses | **HOLD — NOT SENT** | Send-ready CPA, custody, estate-attorney, and insurance packets are in `professional-review/` |
-| Slide correction map | **PASS** | `research/SLIDE-CORRECTION-MAP.md` identifies keep/edit/replace/move/remove by page |
-| Visual data contract | **PASS — CANDIDATE** | `demo/VISUAL-DATA-RECEIPT-3105664.md` supplies reconciled values; final screenshots and professional claims remain held |
-| Capstone | **PASS** | `MY-ORANGE-PLAN-CAPSTONE.md` |
-| Permanent audits | **PASS — RERUN AFTER EACH CHANGE** | Course, fixture, receipt, provenance, voice, learner-question, and control checks exist |
-| Build Your Plan preview | **HOLD FOR WALKTHROUGHS** | Exact clicks wait for the deployed preview Austin has used end to end |
-| Austin voice-and-judgment review | **READY TO BEGIN** | Review stable concept prose now; `AUSTIN APPROVED` still waits on each lesson's named UI or professional hold |
+| Current architecture | PASS · 10 modules / 28 lessons | PASS · 6 conditional sections / 18 lessons |
+| Script and lesson-text parity | PASS · 28 / 28 | PASS · 18 / 18 |
+| Learner question / gate | PASS | PASS |
+| Worked example before walkthrough | PASS · 27 examples; 0.1 orientation exempt | PASS · 18 / 18 |
+| One decision and finish line | PASS | PASS |
+| App/demo values | Reconciled candidate; deployed UI receipts held | Current app connections explicit; specific receipts/agreements/quotes held |
+| Professional source research | PASS | Integrated into current drafts and packets |
+| Actual outside responses | HOLD · not sent | HOLD · not sent |
+| Austin voice-and-judgment review | **READY** | **READY** |
+| Final filming | HOLD | HOLD |
 
-## What is now numerically settled
+## Current totals
 
-The current synthetic engine candidate establishes:
+- Core: **26,932 words · 173.8 production minutes**
+- Advanced: **14,805 words · 139 production minutes**
+- Combined current teaching set: **46 scripts and 46 matching lesson texts**
+- Combined production estimate: **312.8 minutes / about 5.2 hours** before screen-share demonstrations
 
-- 94.6% confidence at the planned household retirement date
-- May 2032 / Alex age 51 as the earliest date reaching the 80% target
-- $36,862 current-year modeled tax
-- $3,761 monthly surplus after the saved $500 extra-debt strategy
-- $3,500 post-debt contribution route and $261 operating cushion
-- a $270,000 Allocation denominator and 64.8% current Bitcoin allocation
-- $99,317 / $170,216 / $249,904 spending references
-- $100,000 current Plan spending at 94.6%
-- $171,383 first-year total need, $69,435 recurring income, and $101,948 total draw
-- $97,948 of Bitcoin sale proceeds, or 0.079251 BTC at the projected 2036 price
-- 91.6% confidence in the 4% inflation Scenario, 3 points below baseline
+Because Advanced is conditional, no learner watches the full 5.2 hours by default.
 
-The scripts and lesson text now explain those numbers from their source rows. Final receipts still verify what the deployed page visibly shows.
+## What is already settled
 
-## App correction found during this pass
+Core uses the approved Alex/Jordan household and the reconciled app candidate:
 
-The current app uses one household retirement date anchored to the primary person's age. It does not maintain a separate spouse retirement-age setting for this plan.
+- 94.6% confidence at age 55
+- May 2032 / age 51 as the earliest 80% date
+- $3,761 monthly post-debt surplus
+- $270,000 Allocation denominator and 64.8% Bitcoin
+- $100,000 retirement paycheck
+- $101,948 first-year draw
+- $97,948 / 0.079251 BTC sale
+- 91.6% in the 4% inflation Scenario
 
-Therefore:
+Advanced uses explicit fictional or illustrative examples where the real answer depends on a lender agreement, current tax return, plan document, health quote, device/provider procedure, or attorney design.
 
-- retirement at Alex age 55 is the household earned-income transition,
-- a March date produces partial-year household wages,
-- and Jordan does not continue W-2 income for two extra years merely because Jordan is younger.
+## Remaining holds before final approval
 
-Each spouse's Social Security still retains its own start age.
+1. Deployed UI labels, rounding, routes, and saved/preview/Scenario receipts
+2. Specific lender agreements and lending/legal review
+3. CPA/tax responses for Core and Advanced
+4. Current Marketplace/healthcare quotes and qualified review
+5. Current device/provider/custody review
+6. Colorado estate-attorney and trust-tax review
+7. Build Your Plan end-to-end walkthrough verification
+8. Final visuals and demonstrations based on accepted evidence
 
-## What the authoritative-source pass completed
+## Definition of ready for Austin
 
-- Verified the current digital-asset identification structure and kept exact execution out of evergreen video.
-- Verified the SECURE 2.0 RMD birth-year framework and owner/beneficiary Roth distinction.
-- Verified Colorado probate and fiduciary digital-asset context.
-- Verified phishing-resistant authentication versus OTP/SMS limitations.
-- Added remote-access and screen-sharing stop rules to custody.
-- Verified the Core umbrella, Medicare long-term-care, life-proceeds, and disability-tax statements.
+A lesson is ready for voice-and-judgment review when its structure will not change, its example is concrete, the decision is clear, the app/professional hold is named, and script and lesson text agree.
 
-This reduces preventable reviewer questions. It is not licensed professional approval.
+Both Core and Advanced meet that standard.
 
-## Remaining holds before final approval and filming
-
-### 1. Deployed UI acceptance
-
-For each checkpoint, confirm visible label and rounding, page route, saved versus preview versus Scenario state, source-line reconciliation, and a synthetic screenshot or recording reference.
-
-Protect also requires a clear boundary between app checklist status and real-world proof.
-
-### 2. External professional responses
-
-- Tax/retirement accounts: `professional-review/CPA-SEND.md`
-- Colorado estate/incapacity: `professional-review/ESTATE-ATTORNEY-SEND.md`
-- Custody/account security: `professional-review/CUSTODY-SEND.md`
-- Insurance: `professional-review/INSURANCE-SEND.md`
-
-All four remain **NOT SENT**. Primary-source verification is not a professional sign-off.
-
-### 3. Build Your Plan preview
-
-This blocks exact walkthrough routes and screen recording, not the evergreen concept architecture.
-
-## Definition of ready for Austin review
-
-A lesson can enter voice-and-judgment review when:
-
-- no known structural change remains,
-- the lesson is anchored to one real learner question and one decision,
-- every concept that requires an example has a concrete household, comparative, or process example before the walkthrough,
-- every spoken demo value is an approved input or reconciled app result,
-- any unresolved UI or professional passage is named in the hold register rather than hidden,
-- script and lesson text agree on the decision and finish line,
-- and contradictory slide material is already identified.
-
-A lesson becomes `AUSTIN APPROVED` only after the deployed label/state and applicable external corrections are checked, the current script and lesson text are reconciled, and Austin completes one clean final read of that corrected lesson.
+A lesson becomes `AUSTIN APPROVED` only after its named holds are checked, the minimum correction is applied, and Austin completes one clean final read.

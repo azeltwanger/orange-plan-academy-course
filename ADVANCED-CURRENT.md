@@ -1,36 +1,38 @@
 # Orange Plan Academy — current Advanced Library
 
-**Status:** full current rebuild in progress; do not review or record the legacy Advanced files  
-**Production source:** `scripts/advanced/current/` and `lesson-text/advanced/current/`
+**Status:** complete current draft set; ready for Austin voice-and-judgment review  
+**Production source:** `scripts/advanced/current/` and `lesson-text/advanced/current/`  
+**Legacy source:** older files directly under `scripts/advanced/` and `lesson-text/advanced/` are migration/history only
 
-## Why Advanced is being rebuilt before Austin's review
+## Current audit result
 
-The repository contains 14 older Advanced scripts, but they are not a complete current production set. They use the old module numbering, several still carry the retired `SPOKEN-PROSE VERSION (calibrated)` label, some are short stubs, some combine too many decisions, and none received the full current app, worked-example, learner-question, professional-hold, or voice pass.
+- **18 current Advanced scripts**
+- **18 matching student lesson texts**
+- **14,805 spoken words**
+- **95.5 minutes of raw speech at 155 wpm**
+- **139 minutes of production runtime from the script headers**
+- **0 structural, parity, gate, provenance, or retired-claim findings**
 
-Austin should review Core and Advanced once, after both use the same standard.
+The audit is enforced by `tools/advanced_course_audit.py` and `.github/workflows/advanced-course-audit.yml`.
 
 ## The Advanced rule
 
 Advanced is conditional reference material, not a second linear course.
 
-Every lesson begins with:
+Every lesson begins with a plan-visible gate and follows:
 
-> **Watch this only if [condition]. Otherwise this part of your plan is complete without it.**
+> **Gate → learner question → worked example → Austin's judgment → trade-off/failure mode → one decision → return to Core**
 
-Every current lesson must contain:
+Every script contains:
 
-1. The plan-visible gate
-2. One real learner question
-3. One worked example before any walkthrough
-4. Austin's planning judgment
-5. The trade-off and failure mode
-6. The current Orange Plan connection
-7. The implementation owner or professional hold
-8. One decision
-9. One checkable `YOU ARE DONE WHEN`
-10. A return path to the Core planning area
+- a visible `Watch this only if…` condition,
+- one concrete example before any app/provider demonstration,
+- one `YOUR DECISION`,
+- one `PUT IT IN ORANGE PLAN`,
+- one checkable `YOU ARE DONE WHEN`,
+- and a `Return to Core` path.
 
-## Lean current roster
+## Current roster
 
 ### A1 — Modeling and assumptions
 
@@ -68,16 +70,30 @@ Every current lesson must contain:
 - **A6.1** · Does a trust solve a real problem in this plan?
 - **A6.2** · Coordinate the trust, beneficiaries, and Bitcoin custody
 
-**Current target: 18 concise lessons, roughly 5–9 minutes each.**
+## Review controls
 
-## What happens to the legacy files
+- `review/advanced/LEARNER-QUESTION-MAP.md`
+- `review/advanced/DICTATION-ORDER.md`
+- `review/advanced/HOLD-REGISTER.md`
+- `research/ADVANCED-WORKED-EXAMPLE-AUDIT.md`
+- `research/ADVANCED-VISUAL-BRIEFS.md`
+- `research/ADVANCED-DEMO-AND-WALKTHROUGH-PLAN.md`
+- `curriculum/advanced-learner-questions.json`
 
-The existing files under `scripts/advanced/` and `lesson-text/advanced/` remain migration inputs until every useful story, example, warning, and current app behavior has been accounted for. They are not deleted or silently treated as approved.
+## Professional-review controls
 
-A migration map in `research/ADVANCED-LEGACY-MIGRATION.md` records which old lessons feed each current lesson and what is retired.
+Send-ready packets exist for:
+
+- Bitcoin lending/legal review
+- Advanced CPA/tax review
+- Pre-Medicare healthcare review
+- Advanced custody review
+- Advanced Colorado estate review
+
+See `professional-review/ADVANCED-PROFESSIONAL-REVIEW-TRACKER.md`.
 
 ## Approval boundary
 
-A current Advanced script can enter Austin's voice-and-judgment review when its gate, learner question, worked example, app connection, and professional hold are explicit.
+Austin can review the full current set now. A named UI, agreement, quote, device/provider, CPA, healthcare, custody, or estate hold blocks final `AUSTIN APPROVED` and filming only for the affected claim.
 
-It becomes `AUSTIN APPROVED` only after the applicable UI, CPA, custody, healthcare, lending, or estate review is applied and Austin completes one clean final read.
+A lesson becomes approved after the scoped correction is applied to script and lesson text and Austin completes one clean final read. The old Advanced files never regain production authority merely because they contain useful source material.

@@ -1,107 +1,63 @@
 # Orange Plan Academy — filming readiness
 
-This file tracks whether an Austin-approved lesson can actually be recorded and published.
-
-## Status key
-
-- `PASS` — complete for the accepted build or source layer
-- `CANDIDATE` — reconciled engine result awaiting visible UI receipt
-- `HOLD` — an external, real-world, or product dependency remains
-- `AUSTIN` — ready for Austin's voice-and-judgment review
-- `APPROVED` — Austin approved the final wording
-- `FILM` — concept video can be recorded
-- `PUBLISH` — concept, text, visual, and walkthrough are synchronized
-
 ## Course-wide status
 
-| Requirement | Status |
-|---|---|
-| 28 Core spoken drafts | PASS |
-| 28 matching lesson texts | PASS |
-| One-decision ownership and runtime trim | PASS |
-| Continuous demo inputs and arithmetic | PASS |
-| Austin approval of demo inputs | PASS |
-| Reconciled app-engine candidate | PASS |
-| Starting retirement paycheck | PASS — $100,000/year retained |
-| Authoritative-source verification | PASS |
-| External professional responses | HOLD — NOT SENT |
-| Deployed UI checkpoint receipts | HOLD |
-| Austin voice/judgment review | **AUSTIN — READY TO BEGIN**; final approval still waits on named UI/professional holds |
-| Visual data receipt | PASS — engine candidate |
-| Final revised visuals | HOLD where UI screenshot or professional response is required |
-| Build Your Plan walkthrough verification | HOLD until deployed preview is used end to end |
-| Master / Circle / generated synchronization | HOLD until module approval |
+| Layer | Draft set | Austin review | Final external/UI evidence | Film ready |
+|---|---|---|---|---|
+| Core | PASS · 28 scripts + 28 lessons | READY | HOLD by named lesson | NO |
+| Advanced | PASS · 18 scripts + 18 lessons | READY | HOLD by gate/claim | NO |
+| Core walkthroughs | Pre-production briefs exist | N/A | Deployed Build Your Plan verification held | NO |
+| Advanced demonstrations | 9 planned demo groups | N/A | App/agreement/quote/device/document evidence held | NO |
+| Visuals | Briefs/data contracts exist | N/A | Final UI/professional facts held where applicable | NO |
+| Master/Circle/generated sync | Not current authority | N/A | Waits for approval | NO |
 
-## Module gate
+## Core module gate
 
-| Module | Inputs | Engine result | UI / real-world receipt | External gate | Austin | Film ready |
-|---|---|---|---|---|---|---|
-| 0 · Start Here | N/A | N/A | Recheck AI/privacy wording | N/A | AUSTIN | NO |
-| 1 · Baseline | APPROVED | RECONCILED | UI receipt | N/A | AUSTIN | NO |
-| 2 · Cash Flow | APPROVED | RECONCILED | UI source rows and reserve | N/A | AUSTIN | NO |
-| 3 · Debt | APPROVED | RECONCILED | UI ratios/payoff | N/A | AUSTIN | NO |
-| 4 · Allocation | APPROVED | RECONCILED | UI denominator, exclusions, and review state | CPA for tax-location claims | AUSTIN | NO |
-| 5 · Tax | APPROVED | ROADMAP CANDIDATE | UI unresolved-basis warning | CPA RESPONSE — NOT SENT | AUSTIN | NO |
-| 6 · Retirement Income | APPROVED | RECONCILED | UI first-year rows, sources, and spending cards | CPA RESPONSE — NOT SENT | AUSTIN | NO |
-| 7 · Custody | APPROVED STARTING STATE | N/A | Real-world recovery and family test | CUSTODY RESPONSE — NOT SENT | AUSTIN | NO |
-| 8 · Estate / Insurance | APPROVED STARTING STATE | N/A | Legal/provider/policy proof | ATTORNEY + INSURANCE — NOT SENT | AUSTIN | NO |
-| 9 · Maintain / Test / Read | APPROVED | SCENARIO RECONCILED | UI Scenario/report/export state | N/A | AUSTIN | NO |
+| Module | Current evidence | Remaining hold | Austin |
+|---|---|---|---|
+| 0 | Stable concept | AI/privacy/UI recheck | READY |
+| 1 | Reconciled engine | UI receipt | READY |
+| 2 | Reconciled Cash Flow | UI source rows/reserve | READY |
+| 3 | Reconciled debt | UI ratios/payoff | READY |
+| 4 | Reconciled allocation | UI denominator + CPA location claims | READY |
+| 5 | Tax roadmap candidate | CPA + UI unresolved-basis state | READY |
+| 6 | Reconciled Income | CPA + visible sources/cards | READY |
+| 7 | Current custody process | Real recovery + custody review | READY |
+| 8 | Current estate/protection structure | Attorney/insurance/provider proof | READY |
+| 9 | Reconciled Scenario | UI report/export state | READY |
 
-## Current app-owned candidate values
+## Advanced section gate
 
-The canonical candidate is `demo/ENGINE-CHECKPOINT-CANDIDATE-3105664.md`. Production visuals use `demo/VISUAL-DATA-RECEIPT-3105664.md`.
-
-Key values already propagated into the current scripts:
-
-- 94.6% confidence at Alex age 55
-- earliest 80% date in May 2032, Alex age 51
-- 64.8% Bitcoin in the app's $270,000 allocation scope
-- $3,761 displayed monthly surplus after planned debt
-- $100,000 current retirement spending at 94.6%
-- $101,948 first-year draw
-- $97,948 Bitcoin sale proceeds / 0.079251 BTC
-- 91.6% confidence under the 4% inflation stress Scenario
+| Section | Current draft | Remaining hold | Austin |
+|---|---|---|---|
+| A1 · Modeling | PASS | Current assumptions and override UI receipts | READY |
+| A2 · Borrowing | PASS | Specific agreement, app comparison, CPA, lending/legal review | READY |
+| A3 · Tax optimization | PASS | CPA and current provider/state procedure | READY |
+| A4 · Access/healthcare | PASS | Plan documents, current quotes, CPA/health reviewer | READY |
+| A5 · Advanced custody | PASS | Device/provider/custody/estate review and practice evidence | READY |
+| A6 · Trusts | PASS | Colorado attorney, CPA, custody, and provider implementation | READY |
 
 ## Film-ready checklist
 
-- [ ] Main decision is one sentence.
-- [ ] Demo inputs and app-calculated outputs match the accepted checkpoint.
-- [ ] No calculated output is invented.
-- [ ] Visible app label, rounding, route, and saved/preview state match the accepted build.
-- [ ] Changing facts live in maintained reference.
-- [ ] Required outside reviewer cleared or corrected the claims.
-- [ ] Austin approved planning judgment and spoken wording.
-- [ ] Lesson text reflects the same facts and finish line.
-- [ ] One primary visual makes the decision obvious.
-- [ ] `YOU ARE DONE WHEN` can be checked.
-- [ ] No essential concept exists only in the walkthrough.
+- [ ] Gate or main question is clear.
+- [ ] Example is approved and uses only accepted inputs/results.
+- [ ] No calculated output or provider promise is invented.
+- [ ] Current UI/agreement/quote/device/document terminology is verified.
+- [ ] Required outside reviewer cleared the claim.
+- [ ] Austin approved the planning judgment and spoken wording.
+- [ ] Matching lesson text agrees.
+- [ ] One primary visual supports the same decision.
+- [ ] `YOU ARE DONE WHEN` is checkable.
+- [ ] The walkthrough/demo implements rather than introduces the concept.
 
-## Walkthrough-ready checklist
+## Proof boundaries
 
-- [ ] Austin completed the deployed Build Your Plan preview.
-- [ ] Step ID, label, route, completion rule, and save/apply behavior are recorded.
-- [ ] Demo checkpoint continues from the prior walkthrough.
-- [ ] Saved, preview, and Scenario state are named correctly.
-- [ ] Important outputs are traced to their source.
-- [ ] App checkmark and human finish line are both stated.
-- [ ] Recording date and verified app commit are stored.
+Orange Plan cannot prove a wallet backup works, a person can recover, a legal document is valid, a provider accepted a beneficiary/ownership change, a lender will behave outside its agreement, or a policy supplies the modeled coverage.
 
-## Real-world proof boundaries
+## Current export limitation
 
-The app cannot prove:
+Encrypted export exists for secure storage and portability. In-app restore remains unavailable until exposed and reverified.
 
-- a wallet backup works,
-- another family member can recover,
-- a legal document is valid,
-- a provider accepted a beneficiary change,
-- or an insurance contract provides the stated coverage.
+## Publish sequence
 
-Protect status and educational completion must never overstate those facts.
-
-## Module 9 export check
-
-Confirm restore status immediately before recording. Encrypted export currently exists for secure storage and portability; in-app restore is temporarily unavailable.
-
-## Publish-ready sequence
-
-After concept and walkthrough approval, synchronize script, lesson text, visual, walkthrough, checkpoints, Circle output, and generated files; archive the superseded copies; then run the full audit suite.
+Approve concept → accept external/UI evidence → reconcile lesson text → final Austin read → record concept → record versioned demonstration → synchronize Circle/master/generated layers → archive superseded material → rerun all audits.
