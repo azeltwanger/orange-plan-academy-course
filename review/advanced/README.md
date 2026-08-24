@@ -10,10 +10,11 @@ Do **not** review the older files directly under `scripts/advanced/`. They remai
 
 ## Start here
 
-1. `LEARNER-QUESTION-MAP.md`
-2. `DICTATION-ORDER.md`
-3. `HOLD-REGISTER.md`
-4. Open the linked current script and matching lesson text
+1. `JUDGMENT-REVIEW.md` — internal lesson-by-lesson recommendation and compression pass
+2. `LEARNER-QUESTION-MAP.md`
+3. `DICTATION-ORDER.md`
+4. `HOLD-REGISTER.md`
+5. Open the linked current script and matching lesson text
 
 ## Review standard
 
