@@ -9,6 +9,7 @@ Austin's final read should be a targeted voice-and-judgment pass, not another co
 | Gate | Status | Evidence / remaining work |
 |---|---|---|
 | Current outline and one-decision lesson ownership | **PASS** | `CURRENT-COURSE.md`; 28 current Core scripts |
+| Learner-question framing | **PASS** | `curriculum/core-learner-questions.json` and `review/LEARNER-QUESTION-MAP.md`; every lesson answers one real question and produces one decision |
 | Worked-example coverage in concept lessons | **PASS** | `research/CORE-WORKED-EXAMPLE-AUDIT.md`; 27 lessons have a concrete teaching example or process sequence and 0.1 is orientation-only |
 | Continuous demo input reconciliation | **PASS — APPROVED** | `AUSTIN-DEMO-DECISIONS.md`, `DEMO-HOUSEHOLD.md`, and `demo/demo-v1-inputs.json` |
 | Reproducible app-engine outputs | **PASS — CANDIDATE** | `demo/ENGINE-CHECKPOINT-CANDIDATE-3105664.md`; Cash Flow, Allocation, Income, and Scenario diagnostics reconcile |
@@ -23,7 +24,7 @@ Austin's final read should be a targeted voice-and-judgment pass, not another co
 | Slide correction map | **PASS** | `research/SLIDE-CORRECTION-MAP.md` identifies keep/edit/replace/move/remove by page |
 | Visual data contract | **PASS — CANDIDATE** | `demo/VISUAL-DATA-RECEIPT-3105664.md` supplies reconciled values; final screenshots and professional claims remain held |
 | Capstone | **PASS** | `MY-ORANGE-PLAN-CAPSTONE.md` |
-| Permanent audits | **PASS — RERUN AFTER EACH CHANGE** | Course, fixture, receipt, provenance, voice, and control checks exist |
+| Permanent audits | **PASS — RERUN AFTER EACH CHANGE** | Course, fixture, receipt, provenance, voice, learner-question, and control checks exist |
 | Build Your Plan preview | **HOLD FOR WALKTHROUGHS** | Exact clicks wait for the deployed preview Austin has used end to end |
 | Austin voice-and-judgment review | **READY TO BEGIN** | Review stable concept prose now; `AUSTIN APPROVED` still waits on each lesson's named UI or professional hold |
 
@@ -72,13 +73,7 @@ This reduces preventable reviewer questions. It is not licensed professional app
 
 ### 1. Deployed UI acceptance
 
-For each checkpoint, confirm:
-
-- visible label and rounding,
-- page route,
-- saved versus preview versus Scenario state,
-- source-line reconciliation,
-- and a synthetic screenshot or recording reference.
+For each checkpoint, confirm visible label and rounding, page route, saved versus preview versus Scenario state, source-line reconciliation, and a synthetic screenshot or recording reference.
 
 Protect also requires a clear boundary between app checklist status and real-world proof.
 
@@ -100,6 +95,7 @@ This blocks exact walkthrough routes and screen recording, not the evergreen con
 A lesson can enter voice-and-judgment review when:
 
 - no known structural change remains,
+- the lesson is anchored to one real learner question and one decision,
 - every concept that requires an example has a concrete household, comparative, or process example before the walkthrough,
 - every spoken demo value is an approved input or reconciled app result,
 - any unresolved UI or professional passage is named in the hold register rather than hidden,
