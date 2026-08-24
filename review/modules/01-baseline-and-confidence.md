@@ -1,4 +1,4 @@
-# Module 1 — Baseline and Confidence
+# Module 1 — Build Your Baseline and Read the Plan
 
 ---
 
@@ -111,7 +111,6 @@ You have a normal spending estimate, a short list of expected life events, and t
 
 And every important number is marked verified, estimated, or missing so the first plan does not pretend to know more than you do.
 
-
 ## MATCHING LESSON TEXT
 
 # What to gather before you build the plan
@@ -176,7 +175,6 @@ Keep one plan folder organized by income, spending, accounts, debts, benefits, r
 ## Done when
 
 The major source records are in one place, each material input is marked verified, estimated, or missing, and the household can build a first plan without pretending rough numbers are final.
-
 
 ---
 
@@ -305,7 +303,6 @@ Use Scenarios to test a different return or inflation view without replacing the
 
 You can sort an item into baseline, life event, or Scenario; explain the starting assumptions; identify any real holding override; and tell whether the screen shows a saved input, an unsaved preview, or a separate question.
 
-
 ## MATCHING LESSON TEXT
 
 # The three layers of a plan, and setting your assumptions
@@ -367,7 +364,6 @@ Correct the source input or deliberately change the decision. Do not manipulate 
 ## Done when
 
 The learner can sort information into the correct layer, explain the saved assumptions, identify legitimate holding overrides, and recognize whether a page shows a saved plan, preview, or Scenario.
-
 
 ---
 
@@ -507,7 +503,6 @@ Then read confidence at the planned age and the earliest date meeting the target
 
 You can explain all four numbers without mixing them up, state why the spending and household-income timeline fit, and name one lever to test rather than changing the entire plan at once.
 
-
 ## MATCHING LESSON TEXT
 
 # Read your retirement date and confidence number
@@ -576,4 +571,3 @@ The Plan target is separate from the starting-spending choices and annual spendi
 ## Done when
 
 The learner can explain all four numbers, identify that the displayed age controls the household retirement start, defend the spending input, and name one lever to test rather than changing several inputs at once.
-

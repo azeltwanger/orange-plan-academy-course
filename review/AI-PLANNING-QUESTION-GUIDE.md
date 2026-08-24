@@ -23,7 +23,9 @@ When the answer could apply to anybody, say:
 
 > Use my plan numbers. Show the evidence, the trade-off, and the specific next action.
 
-## Full-plan review
+---
+
+## When you do not know where to begin
 
 > Review my full plan. Rank the top three things that deserve attention by impact. Tell me what looks strong, what is holding the plan back, and what can wait.
 
@@ -39,6 +41,8 @@ When the answer could apply to anybody, say:
 
 > Separate the current facts, expected life events, and questions that belong in Scenarios.
 
+> What would make the opposite return or inflation assumption more reasonable?
+
 ## Cash Flow and Reserve
 
 > Why does Cash Flow show $3,761 when the household is putting $4,000 to work every month? Reconcile the numbers and tell me which amount is already included in Debt.
@@ -47,11 +51,15 @@ When the answer could apply to anybody, say:
 
 > Which spending number looks inconsistent with the source data, and where should I correct it?
 
+> What is the cleanest next use of the monthly surplus after the reserve and planned debt strategy?
+
 ## Debt
 
 > Review every debt and rank the one next move by interest cost, payment pressure, liquidity, and forced-sale risk.
 
 > What is the strongest case for keeping this debt, and the strongest case for paying it down?
+
+> Is the household ceiling more restrictive because of DTI, DTA, reserve strength, or income stability?
 
 > What changes in Cash Flow when this debt is paid off?
 
@@ -65,6 +73,8 @@ When the answer could apply to anybody, say:
 
 > Route the current available dollars in order. Show the amount, reason, account, and what can wait.
 
+> Does any holding use the wrong broad return or income assumption?
+
 ## Tax
 
 > Which basis records are complete, which are unresolved, and what planning decision is blocked by the missing information?
@@ -73,11 +83,15 @@ When the answer could apply to anybody, say:
 
 > Prepare the exact question and source records I should bring to my CPA before a Bitcoin sale or Roth conversion.
 
+> Compare the current-year tax cost with the future tax or RMD pressure. Do not recommend execution—show the trade-off and what needs verification.
+
 ## Retirement Income
 
-> Break the first retirement-year total need into living spending, life events, debt, tax, and refill. Then show recurring income and total draw.
+> Break the first retirement-year total need into living spending, life events, debt, tax, and refill. Then show the recurring income and total draw.
 
 > Why is the total draw different from the $100,000 retirement spending input?
+
+> Which accounts and holdings fund the draw, and why does that source order fit the current plan?
 
 > Compare keeping the $100,000 paycheck with the Balanced spending amount. Show the monthly difference, confidence, timing, and flexibility trade-off.
 
@@ -89,6 +103,8 @@ When the answer could apply to anybody, say:
 
 > The 4% inflation Scenario lowers confidence from 94.6% to 91.6%. Which future costs changed most, and does this difference change the retirement decision?
 
+> What does this Scenario buy, what does it cost, and which new risk does it create?
+
 > Is this difference large enough to change what the household would do, or is it model noise?
 
 ## Custody, estate, and protection
@@ -99,7 +115,9 @@ When the answer could apply to anybody, say:
 
 > Which single physical, human, or provider failure could stop recovery?
 
-> Turn the current Protect gaps into one household action, one professional question, and one item that can wait.
+> Turn the current Protect gaps into one action for the household, one question for the attorney or custody professional, and one item that can wait.
+
+> Draft a no-secrets question list for the estate attorney. Do not include seed phrases, private keys, passphrases, PINs, passwords, or exact secret locations.
 
 ## Maintenance and annual review
 
@@ -107,9 +125,13 @@ When the answer could apply to anybody, say:
 
 > Is this data drift or decision drift?
 
+> Which current Scenario is still useful, and which one should be archived?
+
 > Summarize the current plan in six sentences and identify the one to three owned actions for the next review period.
 
-## Follow-ups that improve almost any answer
+---
+
+## Follow-up questions that improve almost any answer
 
 - Where did that number come from?
 - Which source input would I change?
@@ -119,7 +141,7 @@ When the answer could apply to anybody, say:
 - What would force a bad Bitcoin sale?
 - What can wait?
 - Does the current plan already answer this, or is a Scenario needed?
-- What requires professional or provider verification before execution?
+- What needs professional or provider verification before execution?
 
 ## Three rules
 

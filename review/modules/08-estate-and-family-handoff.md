@@ -143,7 +143,6 @@ Record the roles, beneficiaries, documents, dates, and contacts in Protect. Make
 
 Every role has a primary and backup, the people have agreed, attorney work is scheduled or complete, and every provider designation has been checked against the household's intent.
 
-
 ## MATCHING LESSON TEXT
 
 # Choose the people, legal documents, and beneficiary records
@@ -191,7 +190,6 @@ Protect tracks people and status. Attorneys, courts, and providers supply legal 
 ## Done when
 
 Every role and backup is chosen, the people have agreed, attorney work is identified, and provider designations match the intended plan.
-
 
 ---
 
@@ -322,7 +320,6 @@ In Orange Plan, record custody type, component roles at a process level, people,
 
 The authorized combination works, the design survives the loss it claims to survive, and unauthorized one-person spending is prevented when intended.
 
-
 ## MATCHING LESSON TEXT
 
 # Design dual control and redundancy without creating a new loss path
@@ -360,7 +357,6 @@ Confirm the authorized combination works, the design survives its claimed loss, 
 ## Done when
 
 The household can state which tests the design passes and has proven the process on a practice wallet.
-
 
 ---
 
@@ -477,7 +473,6 @@ In Orange Plan, create the no-secrets letter in Protect, verify recipients, reco
 
 The letter is current, no-secrets, aligned with the legal and custody plans, understood by the key people, and discoverable through more than one path.
 
-
 ## MATCHING LESSON TEXT
 
 # Write the heir letter and make sure the process starts
@@ -516,7 +511,6 @@ Protect tracks letter and delivery status. Family review and attorney coordinati
 ## Done when
 
 The letter is current, no-secrets, understood, aligned, and discoverable through more than one path.
-
 
 ---
 
@@ -664,7 +658,6 @@ Track policies, owners, beneficiaries, carriers, dates, and open gaps in Protect
 
 Each major risk has a calculated starting gap or deliberate self-insurance decision, the real policy terms and beneficiaries are verified, and consequential changes receive licensed review.
 
-
 ## MATCHING LESSON TEXT
 
 # Calculate the family protection gaps
@@ -711,4 +704,3 @@ Orange Plan tracks the checklist. The carrier holds the binding contract and ben
 ## Done when
 
 Each major risk has a starting gap or deliberate self-insurance decision and the real policy records are verified.
-

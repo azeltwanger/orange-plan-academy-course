@@ -148,7 +148,6 @@ Verify each debt row and set only the recurring extra payment or lump sum the ho
 
 Every debt has a treatment and reason, extra payments do not weaken the reserve, and the household can state its ceiling before another borrowing decision appears.
 
-
 ## MATCHING LESSON TEXT
 
 # Give every debt a deliberate treatment and set your ceiling
@@ -219,4 +218,3 @@ These are fictional household rules, not universal borrowing limits.
 ## Done when
 
 Every debt has a reasoned treatment, the reserve remains protected, and the household ceiling is written down.
-

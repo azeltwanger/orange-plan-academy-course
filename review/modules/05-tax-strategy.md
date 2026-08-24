@@ -134,7 +134,6 @@ Import or enter supported history, match transfers, reconcile current quantity, 
 
 The Bitcoin quantity reconciles, known lots have date, quantity, and basis, unresolved units are visible, and the planned lot method can be executed and documented in the real transaction.
 
-
 ## MATCHING LESSON TEXT
 
 # Cost basis: what you paid and how to rebuild it
@@ -192,7 +191,6 @@ A planned FIFO/HIFO comparison must match the real provider or wallet identifica
 ## Done when
 
 Quantity reconciles, complete lots are documented, unresolved units are visible, and the planned lot method can be executed.
-
 
 ---
 
@@ -328,7 +326,6 @@ Verify the three pools, filing status, state, basis, income sources, and retirem
 
 The account pools are accurate, the tax estimate can be traced to its inputs, and the review ends with one action, one CPA question, or a deliberate pass.
 
-
 ## MATCHING LESSON TEXT
 
 # Read the three tax buckets and find the useful windows
@@ -384,4 +381,3 @@ Orange Plan is a planning estimate and may not include every deduction, credit, 
 ## Done when
 
 The three pools are accurate and the review ends with one action, one professional question, or a deliberate pass.
-

@@ -139,7 +139,6 @@ Review the Cash Flow source rows. Keep debt payments out of living spending, set
 
 You can rebuild the displayed surplus from its sources, explain the difference between capacity before extra debt and surplus after it, and state the monthly amount the household can actually repeat.
 
-
 ## MATCHING LESSON TEXT
 
 # Find your surplus and your two spending numbers
@@ -210,7 +209,6 @@ Cash reserved for taxes or a known near-term bill is not available surplus or em
 ## Done when
 
 The household can explain normal spending, bare-bones spending, capacity before extra debt, the displayed post-debt surplus, and the repeatable contribution amount without duplicating debt payments.
-
 
 ---
 
@@ -323,7 +321,6 @@ Orange Plan calculates the target amount and compares it with the holdings marke
 
 The app shows the target amount and current funding, and you can explain why the selected number of months fits the household rather than copying a generic emergency-fund rule.
 
-
 ## MATCHING LESSON TEXT
 
 # Size your cash reserve in months of spending
@@ -371,7 +368,6 @@ The retirement strategy is taught later. This lesson owns the basis and target m
 ## Done when
 
 The target and current funding are visible, and the household can explain why its number of months fits its own risks.
-
 
 ---
 
@@ -471,7 +467,6 @@ In Orange Plan, add the expected bill as a life event and identify the account o
 
 Every meaningful known cost has one commitment, one date, one funding source, and one rule for reducing volatility before the money is due.
 
-
 ## MATCHING LESSON TEXT
 
 # Fund a known future cost without raiding the reserve
@@ -517,7 +512,6 @@ The life event records when the bill occurs. The funding account or route record
 ## Done when
 
 Every known cost has one commitment, date, funding source, and de-risking rule.
-
 
 ---
 
@@ -613,7 +607,6 @@ In Orange Plan, model the household commitment as the life event, track the educ
 
 The sources add to the family commitment and the amount due soon is protected from a forced Bitcoin sale.
 
-
 ## MATCHING LESSON TEXT
 
 # Optional: build the college funding stack
@@ -667,4 +660,3 @@ Use the future-cost lanes from 2.3. As college approaches, update the actual com
 ## Done when
 
 The funding sources add to the commitment and the next payments are protected from a forced Bitcoin sale.
-

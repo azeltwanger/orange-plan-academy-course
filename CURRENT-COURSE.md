@@ -162,10 +162,10 @@ First retirement calendar year:
 
 ### Module 0 — Start Here
 
-**Outcome:** understand what is being built, how the app and Academy divide the work, how Core and Advanced differ, and the no-secrets rule.
+**Outcome:** understand what is being built, how the app and Academy divide the work, and how to use Orange Plan AI to explain, prioritize, compare, challenge, and act on the plan.
 
 - 0.1 · How to use this course
-- 0.2 · How the AI works: what it reads and what it never needs
+- 0.2 · Use Orange Plan AI to understand the numbers and make better decisions
 
 ### Module 1 — Build Your Baseline and Read the Plan
 

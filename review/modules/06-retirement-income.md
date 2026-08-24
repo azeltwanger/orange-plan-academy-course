@@ -196,7 +196,6 @@ Set the cash-buffer basis and months in Cash Flow.
 
 You can explain spending, the phased income floor, the first retirement-year total need and recurring income, the resulting draw, and the early Bridge without relying on one future Bitcoin price.
 
-
 ## MATCHING LESSON TEXT
 
 # Build the retirement spending target, income floor, and portfolio gap
@@ -289,7 +288,6 @@ Cash Flow owns reserve basis and target months. Income shows current funding in 
 ## Done when
 
 The household can explain spending, each income-floor stage, the first-year source lines, total draw, and accessible Bridge funding.
-
 
 ---
 
@@ -457,7 +455,6 @@ Confirm that the source lines reconcile to total draw. Read both the account sou
 
 You can explain the first-year draw, account and holding sources, Bitcoin dollars and units sold, why the source changes later, how cash is refilled, and what borrowing would add beyond the apparent tax savings.
 
-
 ## MATCHING LESSON TEXT
 
 # Choose the retirement funding and withdrawal strategy
@@ -545,7 +542,6 @@ A healthy year may refill toward target. A weak period may pause part of the ref
 ## Done when
 
 The household can explain the first-year draw, source reconciliation, Bitcoin dollars and units sold, later phase changes, cash refill, and the full cost of any borrowing strategy.
-
 
 ---
 
@@ -704,7 +700,6 @@ For the demo, keep the $100,000 Plan amount. Review the annual policy separately
 
 You can explain all three confidence controls, state the paycheck annually and monthly, explain why the household did not simply choose the largest supported amount, identify what a maximum downward adjustment changes, and describe when the policy is reviewed.
 
-
 ## MATCHING LESSON TEXT
 
 # Choose the starting paycheck and annual spending guardrails
@@ -780,4 +775,3 @@ A healthy plan may refill cash toward target. A weak period may use the buffer a
 ## Done when
 
 The household can explain the three controls, state why it kept $100,000 instead of automatically selecting the Balanced amount, and identify the real spending categories that move under the annual policy.
-

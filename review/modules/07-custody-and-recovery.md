@@ -134,7 +134,6 @@ Record custody type, people, process status, and the next readiness action in Pr
 
 Every meaningful balance has a job, custody level, recovery process, and next action—and no secret exists in Orange Plan or the family instructions.
 
-
 ## MATCHING LESSON TEXT
 
 # Choose the custody setup that matches the Bitcoin and the family
@@ -182,7 +181,6 @@ Protect tracks readiness. The device, backup, provider, and family test prove re
 ## Done when
 
 Every balance has a job, level, recovery process, and next action without a secret in the app or map.
-
 
 ---
 
@@ -306,7 +304,6 @@ Record device type and completion status in Protect. Mark recovery complete only
 
 A small receive and send work, details were verified on the device, recovery succeeded safely, and the required family participant knows where the process begins.
 
-
 ## MATCHING LESSON TEXT
 
 # Set up a hardware wallet and prove the backup works
@@ -347,7 +344,6 @@ Use a small practice wallet so another person can learn the process without expo
 ## Done when
 
 Receive, send, and recovery have worked, failure domains are separated, and the required family person knows where the process begins.
-
 
 ---
 
@@ -480,7 +476,6 @@ Track the security checklist, people, Family Custody Map, and next action in Pro
 
 The top failure is fixed or scheduled, the primary email and financial accounts have strong authentication with a backup method, and another required person can explain the process without receiving the secret.
 
-
 ## MATCHING LESSON TEXT
 
 # Remove single points of failure and harden the accounts
@@ -527,4 +522,3 @@ Protect records checklist status. Real recovery and family practice prove the pr
 ## Done when
 
 The highest-cost failure is addressed, online recovery paths are hardened, and another person understands the process without receiving a secret.
-

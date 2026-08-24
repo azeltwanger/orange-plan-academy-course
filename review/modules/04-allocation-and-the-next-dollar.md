@@ -150,7 +150,6 @@ Set the target and band, inspect which holdings are included in the allocation, 
 
 You can state the app's denominator, current percentage, target, review band, and approximate dollar loss in a 75% drawdown—and explain the trade-off the household is accepting.
 
-
 ## MATCHING LESSON TEXT
 
 # Set the Bitcoin allocation you can hold through a full drawdown
@@ -235,7 +234,6 @@ The $1,500 taxable Bridge / investment route follows the saved target and curren
 ## Done when
 
 The household can state the app denominator, current allocation, target, band, and dollar loss in a 75% drawdown and explain the trade-off it accepts.
-
 
 ---
 
@@ -360,7 +358,6 @@ In Orange Plan, correct the holdings, review the combined current mix, and assig
 
 You can describe what every account holds, what job it serves, and where the Reserve and Bridge dollar needs come from.
 
-
 ## MATCHING LESSON TEXT
 
 # Give every account a holding mix and a time-horizon job
@@ -407,7 +404,6 @@ Reserve comes from spending basis and months. Bridge comes from known costs and 
 ## Done when
 
 Every account has verified holdings and a primary job that matches when and how the household expects to use it.
-
 
 ---
 
@@ -545,7 +541,6 @@ Confirm the extra debt payment first. Then route the remaining displayed surplus
 
 The full route fits the household's calculated capacity, the contribution route fits the displayed post-debt surplus, every destination has a reason, and a small operating cushion remains.
 
-
 ## MATCHING LESSON TEXT
 
 # Decide where the next dollar goes
@@ -617,7 +612,6 @@ Verify HSA eligibility, employer HSA contributions, IRA eligibility, and current
 ## Done when
 
 The full route fits calculated capacity, the contribution route fits displayed post-debt surplus, and the household keeps a deliberate operating cushion.
-
 
 ---
 
@@ -731,7 +725,6 @@ Review every account's holdings, timeframe, and tax treatment. Record the intend
 
 Every account has a clear job, its holdings support that job, the combined target remains intact, and any consequential move is identified for verification before execution.
 
-
 ## MATCHING LESSON TEXT
 
 # Choose what each account should hold
@@ -780,4 +773,3 @@ Use contributions and changes inside sheltered accounts before creating an unnec
 ## Done when
 
 Every account's holdings support its job and the combined target remains intact.
-

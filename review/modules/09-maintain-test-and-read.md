@@ -1,4 +1,4 @@
-# Module 9 — Maintain, Test, and Read
+# Module 9 — Maintain, Test, and Read the Plan
 
 ---
 
@@ -147,7 +147,6 @@ Use transaction updates and the source pages to keep facts current. Recheck afte
 
 The review dates are scheduled, you can state what belongs in each review, and the current action list contains no more than three owned and dated items.
 
-
 ## MATCHING LESSON TEXT
 
 # Keep the plan current without rebuilding it
@@ -217,7 +216,6 @@ Keep the passphrase separate from the export. Verify the current app restore pro
 ## Done when
 
 Monthly and annual reviews are scheduled and each review leaves no more than one to three owned and dated actions.
-
 
 ---
 
@@ -401,7 +399,6 @@ Build Scenarios as questions, change one primary lever first, and update the sou
 
 You can explain every saved Scenario, summarize the plan in six sentences, state the one to three next actions, and accurately describe what the current encrypted export can and cannot do.
 
-
 ## MATCHING LESSON TEXT
 
 # Test a decision and read the finished plan
@@ -491,4 +488,3 @@ In-app restore is currently unavailable. Preserve the current plan and source re
 ## Done when
 
 The household can explain every saved Scenario, summarize the plan in six sentences, identify one to three next actions, and explain the current PDF and encrypted-export roles correctly.
-
