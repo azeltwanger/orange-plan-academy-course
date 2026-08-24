@@ -23,6 +23,7 @@ Do not rewrite a section merely because another sentence is possible. Change it 
 - `SAY IT THIS WAY` — dictate or type the replacement.
 - `JUDGMENT` — recommendation or example needs Austin's call.
 - `APP` — product behavior or wording needs another check.
+- `PRO` — external professional must clear the claim.
 - `REMOVE` — learner does not need it for the decision.
 
 Change the script header to `AUSTIN APPROVED` only after corrections are applied to the script and lesson text and one clean final read is complete.
@@ -134,7 +135,9 @@ These values are in `demo/ENGINE-CHECKPOINT-CANDIDATE-3105664.md` and the curren
 | Lesson | Decision | Current hold | Review file |
 |---|---|---|---|
 | 0.1 · Use the course | How will the learner work through the Academy? | Review after all other modules are locked | [`scripts/00-1_how-to-use-this-course.md`](scripts/00-1_how-to-use-this-course.md) |
-| 0.2 · Use AI safely | How will AI and optional memory be used? | Recheck current AI/privacy UI | [`scripts/00-2_how-the-ai-works-what-it-reads-what-it-n.md`](scripts/00-2_how-the-ai-works-what-it-reads-what-it-n.md) |
+| 0.2 · Use AI for planning decisions | How will the learner use AI to explain, prioritize, compare, challenge, and act on the plan? | Confirm full-plan and focused-review labels, AI/privacy UI, and the 0.3 screen-share route | [`scripts/00-2_how-the-ai-works-what-it-reads-what-it-n.md`](scripts/00-2_how-the-ai-works-what-it-reads-what-it-n.md) |
+
+**Approval test:** the AI lesson spends most of its time showing useful planning work; safety and professional boundaries remain a brief close rather than the purpose of the lesson.
 
 # One-pass approval record
 
