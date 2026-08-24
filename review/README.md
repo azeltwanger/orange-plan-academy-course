@@ -11,6 +11,19 @@ This directory contains only the current Orange Plan Academy Core review materia
 5. `scripts/` — individual teleprompter scripts
 6. `lesson-text/` — individual student lessons
 
+## AI lesson support
+
+Module 0.2 is now a practical lesson on using Orange Plan AI to:
+
+- explain and trace a plan number,
+- rank the most important planning issues,
+- compare a real decision,
+- challenge an assumption or preferred strategy,
+- interpret a Scenario,
+- and leave with one next action.
+
+Use `AI-PLANNING-QUESTION-GUIDE.md` beside the script when reviewing the examples. The separate screen-share run sheet lives at `../scripts/00-3_DEMO_use-orange-plan-ai.md` and will be recorded after current UI labels and routes are verified.
+
 ## Review marks
 
 - `APPROVE` — keep the section
