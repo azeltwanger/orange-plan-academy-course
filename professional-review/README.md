@@ -6,7 +6,7 @@ This directory separates:
 2. **External professional review** — incomplete until a qualified reviewer returns claim-level responses
 3. **Austin approval** — occurs after accepted corrections are applied
 
-**No outside professional packet has been sent or cleared yet.**
+**Actual outside sign-off is not complete. No outside professional packet has been sent or cleared yet.**
 
 ## Core packets
 

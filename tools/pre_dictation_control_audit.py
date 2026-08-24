@@ -1,14 +1,9 @@
 #!/usr/bin/env python3
-"""Audit the Orange Plan Academy pre-dictation control layer.
-
-The script audit checks individual lessons. This audit checks that the
-repository has one current production path and that new engine, professional,
-visual, AI-use, and review-workspace controls cannot disappear while stale
-paths return.
-"""
+"""Audit the Orange Plan Academy pre-dictation control layer."""
 
 from __future__ import annotations
 
+import json
 import re
 from pathlib import Path
 
@@ -17,6 +12,9 @@ ROOT = Path(__file__).resolve().parents[1]
 REQUIRED_FILES = (
     "README.md",
     "CURRENT-COURSE.md",
+    "ADVANCED-CURRENT.md",
+    "00-START-HERE-AUSTIN-REVIEW.md",
+    "AUSTIN-FULL-REVIEW-INDEX.md",
     "COURSE-APP-CONTRACT.md",
     "BUILD-YOUR-PLAN-CROSSWALK.md",
     "DEMO-HOUSEHOLD.md",
@@ -37,6 +35,15 @@ REQUIRED_FILES = (
     "review/MANIFEST.md",
     "review/modules/00-start-here.md",
     "review/AI-PLANNING-QUESTION-GUIDE.md",
+    "review/advanced/README.md",
+    "review/advanced/LEARNER-QUESTION-MAP.md",
+    "review/advanced/DICTATION-ORDER.md",
+    "review/advanced/HOLD-REGISTER.md",
+    "curriculum/advanced-learner-questions.json",
+    "research/ADVANCED-LEGACY-MIGRATION.md",
+    "research/ADVANCED-WORKED-EXAMPLE-AUDIT.md",
+    "research/ADVANCED-VISUAL-BRIEFS.md",
+    "research/ADVANCED-DEMO-AND-WALKTHROUGH-PLAN.md",
     "demo/demo-v1-inputs.json",
     "demo/ENGINE-CHECKPOINT-CANDIDATE-3105664.md",
     "demo/VISUAL-DATA-RECEIPT-3105664.md",
@@ -48,25 +55,28 @@ REQUIRED_FILES = (
     "professional-review/CUSTODY-SEND.md",
     "professional-review/ESTATE-ATTORNEY-SEND.md",
     "professional-review/INSURANCE-SEND.md",
-    "professional-review/CPA.md",
-    "professional-review/CUSTODY.md",
-    "professional-review/ESTATE-ATTORNEY.md",
-    "professional-review/INSURANCE.md",
+    "professional-review/LENDING-SEND.md",
+    "professional-review/HEALTHCARE-SEND.md",
+    "professional-review/CPA-ADVANCED-SEND.md",
+    "professional-review/CUSTODY-ADVANCED-SEND.md",
+    "professional-review/ESTATE-ADVANCED-SEND.md",
+    "professional-review/ADVANCED-PROFESSIONAL-REVIEW-TRACKER.md",
     "research/CLIENT-CALL-VOICE-EVIDENCE.md",
     "research/CLIENT-CONFUSION-REGISTRY.md",
     "research/CORE-OWNERSHIP-AND-RUNTIME.md",
     "research/DEMO-NUMBER-RECONCILIATION.md",
     "research/EDUCATIONAL-PROGRESSION-AUDIT.md",
     "research/SLIDE-CORRECTION-MAP.md",
+    "tools/advanced_course_audit.py",
+    "tools/advanced_voice_lint.py",
 )
 
-FORBIDDEN_CURRENT_DIRECTORIES = (
-    "review-packets",
-)
+FORBIDDEN_CURRENT_DIRECTORIES = ("review-packets",)
 
 CURRENT_TEXT_PATHS = (
     "README.md",
     "CURRENT-COURSE.md",
+    "ADVANCED-CURRENT.md",
     "COURSE-APP-CONTRACT.md",
     "BUILD-YOUR-PLAN-CROSSWALK.md",
     "DEMO-HOUSEHOLD.md",
@@ -85,17 +95,16 @@ CURRENT_TEXT_PATHS = (
     "professional-review/SEND-CHECKLIST.md",
     "review/README.md",
     "review/MANIFEST.md",
+    "review/advanced/README.md",
+    "review/advanced/DICTATION-ORDER.md",
+    "review/advanced/HOLD-REGISTER.md",
 )
 
 STALE_REFERENCE_PATTERNS = {
-    "retired review/ professional-packet path": re.compile(
-        r"(?<!professional-)\breview/(?:CPA|CUSTODY|ESTATE|INSURANCE)-REVIEW",
-        re.I,
-    ),
+    "retired review/ professional-packet path": re.compile(r"(?<!professional-)\breview/(?:CPA|CUSTODY|ESTATE|INSURANCE)-REVIEW", re.I),
     "retired review-packets/ path": re.compile(r"\breview-packets/", re.I),
     "encrypted export described as currently restorable": re.compile(
-        r"(?:encrypted (?:backup|export)|exported file).{0,90}"
-        r"(?:restore the plan|restorable plan data|use it to restore)",
+        r"(?:encrypted (?:backup|export)|exported file).{0,90}(?:restore the plan|restorable plan data|use it to restore)",
         re.I | re.S,
     ),
     "superseded engine candidate": re.compile(r"ENGINE-CHECKPOINT-CANDIDATE-4456b3c", re.I),
@@ -106,62 +115,67 @@ REQUIRED_PHRASES = {
         "Austin's voice-and-judgment review is ready to begin",
         "Use Orange Plan AI to understand the numbers and make better decisions",
         "ENGINE-CHECKPOINT-CANDIDATE-3105664.md",
-        "DEMO-HOUSEHOLD.md",
-        "PRE-DICTATION-QA.md",
+        "ADVANCED-CURRENT.md",
+        "18",
     ),
-    "DICTATION-ORDER.md": (
-        "Austin may begin the voice-and-judgment review",
-        "Use Orange Plan AI to understand the numbers and make better decisions",
-        "spoken words",
-        "0.079251 BTC",
+    "ADVANCED-CURRENT.md": (
+        "18 current Advanced scripts",
+        "18 matching student lesson texts",
+        "ready for Austin voice-and-judgment review",
+        "scripts/advanced/current/",
     ),
-    "AUSTIN-REVIEW-HOLD-REGISTER.md": (
-        "A held line blocks",
-        "## UI holds",
-        "## Professional and real-world holds",
+    "PRE-DICTATION-QA.md": (
+        "Reproducible app-engine outputs",
+        "External professional responses",
+        "Build Your Plan preview",
+        "46 scripts and 46 matching lesson texts",
     ),
-    "AUSTIN-REVIEW-INDEX.md": (
-        "Use AI for planning decisions",
-        "explain, prioritize, compare, challenge, and act",
+    "README.md": (
+        "In-app plan restore is currently unavailable",
+        "professional-review/",
+        "scripts/advanced/current/",
     ),
-    "AI-PLANNING-QUESTION-GUIDE.md": (
-        "Decision + constraint + what you want the answer to show",
-        "Verdict",
-        "Trade-off",
-        "Next move",
+    "professional-review/README.md": (
+        "Actual outside sign-off is not complete",
+        "SEND-CHECKLIST.md",
+        "CANDIDATE-REVIEWERS.md",
+        "LENDING-SEND.md",
+        "HEALTHCARE-SEND.md",
     ),
-    "scripts/00-3_DEMO_use-orange-plan-ai.md": (
-        "Review the current plan and rank what matters",
-        "Explain a confusing number from its sources",
-        "Turn the answer into action",
+    "review/README.md": (
+        "AI-PLANNING-QUESTION-GUIDE.md",
+        "screen-share run sheet",
+        "advanced/DICTATION-ORDER.md",
+    ),
+    "review/advanced/README.md": (
+        "current Advanced review set is complete",
+        "GATE",
+        "ADVANCED ONLY",
+    ),
+    "review/advanced/DICTATION-ORDER.md": (
+        "18 conditional lessons",
+        "14,805 spoken words",
+        "A6.2",
+    ),
+    "AUSTIN-FULL-REVIEW-INDEX.md": (
+        "46 current scripts",
+        "Core first",
+        "Advanced waves",
     ),
     "BUILD-YOUR-PLAN-CROSSWALK.md": (
         "deployed Build Your Plan flow",
         "app_completion_rule",
         "human_completion_rule",
     ),
-    "PRE-DICTATION-QA.md": (
-        "Reproducible app-engine outputs",
-        "External professional responses",
-        "Build Your Plan preview",
-    ),
-    "README.md": (
-        "In-app plan restore is currently unavailable",
-        "professional-review/",
-    ),
-    "professional-review/README.md": (
-        "Actual outside sign-off is not complete",
-        "SEND-CHECKLIST.md",
-        "CANDIDATE-REVIEWERS.md",
+    "scripts/00-3_DEMO_use-orange-plan-ai.md": (
+        "Review the current plan and rank what matters",
+        "Explain a confusing number from its sources",
+        "Turn the answer into action",
     ),
     "VISUAL-PRODUCTION-BRIEFS.md": (
         "VISUAL-DATA-RECEIPT-3105664.md",
         "64.8%",
         "$101,948",
-    ),
-    "review/README.md": (
-        "AI-PLANNING-QUESTION-GUIDE.md",
-        "screen-share run sheet",
     ),
 }
 
@@ -176,10 +190,7 @@ def main() -> int:
 
     for relative_path in FORBIDDEN_CURRENT_DIRECTORIES:
         if (ROOT / relative_path).exists():
-            failures.append(
-                f"retired duplicate control directory still exists: {relative_path}/; "
-                "use professional-review/ for professional packets and review/ for Austin's generated workspace"
-            )
+            failures.append(f"retired duplicate control directory still exists: {relative_path}/")
 
     for relative_path in CURRENT_TEXT_PATHS:
         path = ROOT / relative_path
@@ -197,51 +208,39 @@ def main() -> int:
         content = path.read_text(encoding="utf-8")
         for phrase in phrases:
             if phrase not in content:
-                failures.append(
-                    f"{relative_path}: missing required control phrase: {phrase!r}"
-                )
+                failures.append(f"{relative_path}: missing required control phrase: {phrase!r}")
 
-    review_index_path = ROOT / "AUSTIN-REVIEW-INDEX.md"
-    if review_index_path.is_file():
-        review_index = review_index_path.read_text(encoding="utf-8")
-        linked_scripts = set(
-            re.findall(r"\(scripts/(\d{2}-\d+_[^)]+\.md)\)", review_index)
-        )
+    core_index = ROOT / "AUSTIN-REVIEW-INDEX.md"
+    if core_index.is_file():
+        linked_scripts = set(re.findall(r"\(scripts/(\d{2}-\d+_[^)]+\.md)\)", core_index.read_text(encoding="utf-8")))
         if len(linked_scripts) != 28:
-            failures.append(
-                f"AUSTIN-REVIEW-INDEX.md links {len(linked_scripts)} unique core scripts; expected 28"
-            )
+            failures.append(f"AUSTIN-REVIEW-INDEX.md links {len(linked_scripts)} unique core scripts; expected 28")
 
-    contract_path = ROOT / "COURSE-APP-CONTRACT.md"
-    if contract_path.is_file():
-        contract = contract_path.read_text(encoding="utf-8")
-        commit_match = re.search(
-            r"App source (?:reviewed|verified):.*?`([0-9a-f]{7,40})`",
-            contract,
-            flags=re.I,
-        )
-        if not commit_match:
+    advanced_contract = ROOT / "curriculum/advanced-learner-questions.json"
+    if advanced_contract.is_file():
+        entries = json.loads(advanced_contract.read_text(encoding="utf-8")).get("lessons", [])
+        if len(entries) != 18:
+            failures.append(f"advanced learner-question contract has {len(entries)} entries; expected 18")
+        for entry in entries:
+            for field in ("id", "script", "lessonText", "gate", "question", "decision", "example", "returnToCore"):
+                if not str(entry.get(field, "")).strip():
+                    failures.append(f"advanced contract {entry.get('id', 'UNKNOWN')}: blank {field}")
+
+    contract = ROOT / "COURSE-APP-CONTRACT.md"
+    if contract.is_file():
+        match = re.search(r"App source (?:reviewed|verified):.*?`([0-9a-f]{7,40})`", contract.read_text(encoding="utf-8"), flags=re.I)
+        if not match:
             failures.append("COURSE-APP-CONTRACT.md: missing last-reviewed app commit")
-        elif len(commit_match.group(1)) < 7:
-            failures.append("COURSE-APP-CONTRACT.md: malformed app commit")
 
-    decision_path = ROOT / "AUSTIN-DEMO-DECISIONS.md"
-    if decision_path.is_file():
-        decisions = decision_path.read_text(encoding="utf-8")
-        if "APPROVED" not in decisions.upper():
-            failures.append("AUSTIN-DEMO-DECISIONS.md should retain an obvious APPROVED state")
+    decisions = ROOT / "AUSTIN-DEMO-DECISIONS.md"
+    if decisions.is_file() and "APPROVED" not in decisions.read_text(encoding="utf-8").upper():
+        failures.append("AUSTIN-DEMO-DECISIONS.md should retain an obvious APPROVED state")
 
-    professional_readme = ROOT / "professional-review/README.md"
-    if professional_readme.is_file():
-        text = professional_readme.read_text(encoding="utf-8")
-        not_sent_count = text.count("NOT SENT")
-        if not_sent_count < 4:
-            warnings.append(
-                "professional-review/README.md should visibly show all four external reviews as NOT SENT until returned"
-            )
+    professional = ROOT / "professional-review/README.md"
+    if professional.is_file() and professional.read_text(encoding="utf-8").count("NOT SENT") < 9:
+        warnings.append("professional-review/README.md should visibly show all Core and Advanced review areas as NOT SENT")
 
-    print("# Pre-dictation control audit")
-    print()
+    print("# Pre-dictation control audit\n")
     print(f"- Required files checked: **{len(REQUIRED_FILES)}**")
     print(f"- Critical findings: **{len(failures)}**")
     print(f"- Warnings: **{len(warnings)}**")
@@ -257,9 +256,7 @@ def main() -> int:
             print(f"- {failure}")
         return 1
 
-    print(
-        "\nThe repository has one current pre-dictation control path, a generated Austin review workspace, the reconciled engine/visual/professional/AI-use controls are present, and no stale packet or restore-language regression was detected."
-    )
+    print("\nThe repository has one current Core and Advanced review path, reconciled demo and professional controls, and no stale packet or restore-language regression.")
     return 0
 
 

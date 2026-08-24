@@ -19,6 +19,10 @@ This directory is the clean review entry point for the current Academy.
 
 Do not review the legacy files directly under `scripts/advanced/` or any old master, generated, Circle, walkthrough, or historical layer.
 
+## AI lesson support
+
+Use `AI-PLANNING-QUESTION-GUIDE.md` beside Core 0.2 when reviewing its real decision examples. The separate **screen-share run sheet** is `../scripts/00-3_DEMO_use-orange-plan-ai.md`; exact routes and labels remain held until the deployed UI is verified.
+
 ## Teaching standard
 
 Core:

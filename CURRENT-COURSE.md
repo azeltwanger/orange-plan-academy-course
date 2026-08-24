@@ -4,7 +4,7 @@
 
 ## Current production stage
 
-Both teaching layers are ready for Austin's voice-and-judgment review:
+**Austin's voice-and-judgment review is ready to begin.** Both teaching layers now meet the same pre-review standard:
 
 | Layer | Scripts | Matching lesson text | Spoken words | Header production time |
 |---|---:|---:|---:|---:|

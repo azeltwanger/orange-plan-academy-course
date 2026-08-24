@@ -11,9 +11,10 @@
 | Learner question / gate | PASS | PASS |
 | Worked example before walkthrough | PASS · 27 examples; 0.1 orientation exempt | PASS · 18 / 18 |
 | One decision and finish line | PASS | PASS |
-| App/demo values | Reconciled candidate; deployed UI receipts held | Current app connections explicit; specific receipts/agreements/quotes held |
+| **Reproducible app-engine outputs** | PASS · reconciled candidate; deployed UI receipts held | Current app connections explicit; specific receipts/agreements/quotes held |
 | Professional source research | PASS | Integrated into current drafts and packets |
-| Actual outside responses | HOLD · not sent | HOLD · not sent |
+| **External professional responses** | HOLD · not sent | HOLD · not sent |
+| **Build Your Plan preview** | HOLD for exact Core walkthrough routes | Advanced app demos also wait for current UI receipts |
 | Austin voice-and-judgment review | **READY** | **READY** |
 | Final filming | HOLD | HOLD |
 

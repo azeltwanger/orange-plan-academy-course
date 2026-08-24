@@ -95,3 +95,7 @@ Primary-source research is not professional sign-off. A high-stakes lesson is cl
 ## Walkthrough rule
 
 Walkthroughs are replaceable and versioned. They use the deployed Build Your Plan flow only after routes, labels, save/preview behavior, and completion rules are verified.
+
+## Current encrypted-export limitation
+
+**In-app plan restore is currently unavailable.** Orange Plan can create a passphrase-protected encrypted export for secure storage and portability, but the course must not describe that file as a restore the learner can use today.
