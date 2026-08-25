@@ -151,7 +151,7 @@ REQUIRED_PHRASES = {
     "ADVANCED-FILMING-READINESS.md": (
         "Primary-source verification",
         "Professional packets",
-        "Learner pilot design",
+        "Learner pilot plan",
         "Austin first review",
     ),
     "PRE-DICTATION-QA.md": (
@@ -189,7 +189,7 @@ REQUIRED_PHRASES = {
     ),
     "review/advanced/DICTATION-ORDER.md": (
         "18 conditional lessons",
-        "14,805 spoken words",
+        "15,082 spoken words",
         "A6.2",
     ),
     "AUSTIN-FULL-REVIEW-INDEX.md": (
@@ -279,7 +279,7 @@ def main() -> int:
     if decisions.is_file() and "APPROVED" not in decisions.read_text(encoding="utf-8").upper():
         failures.append("AUSTIN-DEMO-DECISIONS.md should retain an obvious APPROVED state")
 
-    professional = ROOT / "professional-review/README.md"
+    professional = ROOT / "professional-review" / "README.md"
     if professional.is_file() and professional.read_text(encoding="utf-8").count("NOT SENT") < 9:
         warnings.append("professional-review/README.md should visibly show all Core and Advanced review areas as NOT SENT")
 
