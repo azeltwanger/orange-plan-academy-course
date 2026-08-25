@@ -1,6 +1,6 @@
 # Orange Plan Academy — Advanced filming readiness
 
-**Status:** all 18 lessons ready for Austin voice-and-judgment review; none finally film-ready until named evidence clears.
+**Status:** all 18 lessons are ready for Austin's voice-and-judgment review; **none is final-film-ready** until its named evidence clears.
 
 ## Status key
 
@@ -47,7 +47,7 @@
 | Number/status provenance | PASS | `ADVANCED-NUMBER-PROVENANCE-REGISTRY.md` |
 | Visual direction | PASS · fact holds | `research/ADVANCED-VISUAL-BRIEFS.md`, slide map |
 | Demonstration planning | PASS · version holds | `research/ADVANCED-DEMO-RUN-SHEETS.md` |
-| Learner pilot design | PASS · not run | `research/ADVANCED-PILOT-TEST-PLAN.md` |
+| Learner pilot plan | PASS · not run | `research/ADVANCED-PILOT-TEST-PLAN.md` and `research/ADVANCED-LEARNER-PILOT-PLAN.md` |
 | Professional packets | PASS · NOT SENT | `professional-review/` |
 | Austin first review | READY | `review/advanced/` |
 | Final approval | HOLD | named evidence and final read |
