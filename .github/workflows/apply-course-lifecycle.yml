@@ -20,6 +20,9 @@ jobs:
           ref: course-plan-lifecycle-revision
           fetch-depth: 0
 
+      - name: Assemble one-time migration
+        run: cat course-revision/apply.part* > course-revision/apply.py
+
       - name: Apply and regenerate course
         run: python3 course-revision/apply.py
 
