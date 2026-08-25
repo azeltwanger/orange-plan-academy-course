@@ -8,12 +8,12 @@
 
 - **18 current Advanced scripts**
 - **18 matching student lesson texts**
-- **14,805 spoken words**
-- **95.5 minutes of raw speech at 155 wpm**
+- **15,082 spoken words**
+- **97.3 minutes of raw speech at 155 wpm**
 - **139 minutes of production runtime from the script headers**
-- **0 structural, parity, gate, provenance, or retired-claim findings**
+- **0 structural, parity, gate, provenance, or retired-claim findings** when the full workflow is green
 
-The audit is enforced by `tools/advanced_course_audit.py` and `.github/workflows/advanced-course-audit.yml`.
+The structure/parity audit is enforced by `tools/advanced_course_audit.py`. The complete Advanced gate suite is enforced by `tools/run_all_advanced_audits.py` and `.github/workflows/advanced-full-audit.yml`.
 
 ## The Advanced rule
 
@@ -75,14 +75,30 @@ Every script contains:
 - `review/advanced/LEARNER-QUESTION-MAP.md`
 - `review/advanced/DICTATION-ORDER.md`
 - `review/advanced/HOLD-REGISTER.md`
+- `review/advanced/JUDGMENT-REVIEW.md`
 - `research/ADVANCED-WORKED-EXAMPLE-AUDIT.md`
+- `research/ADVANCED-DUPLICATION-AND-RUNTIME-AUDIT.md`
+
+## App, number, and evidence controls
+
+- `ADVANCED-APP-CONTRACT.md`
+- `ADVANCED-NUMBER-PROVENANCE-REGISTRY.md`
+- `ADVANCED-QUALITY-GATE-MATRIX.md`
+- `ADVANCED-FILMING-READINESS.md`
+- `demo/ADVANCED-DEMO-FIXTURE.md`
+- `demo/ADVANCED-DEMO-RECEIPTS.md`
+- `research/ADVANCED-DEMO-RUN-SHEETS.md`
 - `research/ADVANCED-VISUAL-BRIEFS.md`
-- `research/ADVANCED-DEMO-AND-WALKTHROUGH-PLAN.md`
-- `curriculum/advanced-learner-questions.json`
+- `research/ADVANCED-LEARNER-PILOT-PLAN.md`
 
-## Professional-review controls
+## Source and professional-review controls
 
-Send-ready packets exist for:
+- `professional-review/ADVANCED-AUTHORITATIVE-SOURCE-VERIFICATION.md`
+- `professional-review/ADVANCED-SEND-PACKAGE-INDEX.md`
+- `professional-review/ADVANCED-PROFESSIONAL-REVIEW-TRACKER.md`
+- `professional-review/ADVANCED-REVIEW-ACCEPTANCE.md`
+
+Send-ready packages exist for:
 
 - Bitcoin lending/legal review
 - Advanced CPA/tax review
@@ -90,7 +106,7 @@ Send-ready packets exist for:
 - Advanced custody review
 - Advanced Colorado estate review
 
-See `professional-review/ADVANCED-PROFESSIONAL-REVIEW-TRACKER.md`.
+All outside packages remain **NOT SENT** until a qualified reviewer is selected and retained.
 
 ## Approval boundary
 
