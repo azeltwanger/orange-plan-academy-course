@@ -48,19 +48,19 @@ REQUIRED_FILES = (
 
 REQUIRED_PHRASES = {
     "ADVANCED-APP-CONTRACT.md": (
-        "Saved input",
+        "Saved Plan input",
         "Preview",
         "Scenario",
-        "External proof",
+        "External evidence",
         "A6.2",
     ),
     "ADVANCED-NUMBER-PROVENANCE-REGISTRY.md": (
-        "Proof owner",
+        "Proof / qualification",
         "Starting LTV",
         "First-pass conversion room",
-        "All-in healthcare cost",
+        "Healthcare full cost",
         "Provider-independent recovery",
-        "Ownership-authority match",
+        "Ownership-authority matrix complete",
     ),
     "ADVANCED-QUALITY-GATE-MATRIX.md": (
         "18/18",
@@ -107,7 +107,7 @@ REQUIRED_PHRASES = {
 
 FORBIDDEN_PATTERNS = {
     "professional review falsely complete": re.compile(
-        r"(?:professionally reviewed|professional sign[- ]?off complete|all professional reviews complete)",
+        r"(?:professional sign[- ]?off complete|all professional reviews complete|outside professional clearance complete)",
         re.I,
     ),
     "illustrative LTV called safe": re.compile(
