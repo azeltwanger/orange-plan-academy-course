@@ -1,0 +1,40 @@
+name: Finish course lifecycle parity pass
+
+on:
+  push:
+    branches:
+      - course-plan-lifecycle-revision
+    paths:
+      - course-parity/RUN
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: course-plan-lifecycle-revision
+          fetch-depth: 0
+
+      - name: Apply parity fixes and run gates
+        run: python3 course-parity/fix.py
+
+      - name: Remove one-time files
+        run: |
+          rm -rf course-parity
+          rm -f .github/workflows/fix-course-parity.yml
+
+      - name: Commit final parity pass
+        run: |
+          git config user.name "OpenAI Course Revision"
+          git config user.email "noreply@openai.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Finish course lifecycle parity and generator checks"
+          git push origin HEAD:course-plan-lifecycle-revision
