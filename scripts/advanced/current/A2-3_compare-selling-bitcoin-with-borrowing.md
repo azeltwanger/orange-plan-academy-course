@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — Advanced A2.3
 A2.3 Compare selling Bitcoin with borrowing against it
-~7 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + CPA/lender review pending
+~7 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + CPA/lender/legal review pending
 ============================================================
 
 > **Watch this only if the household has a real spending need and is choosing between a Bitcoin sale and a Bitcoin-backed loan. Otherwise do not create a financing decision just to use the comparison.**
@@ -47,7 +47,11 @@ After borrowing:
 
 The apparent tax savings are not the whole result.
 
-Interest, eventual repayment, a later sale, liquidation, lender failure, and loan balance at death all belong in the comparison.
+A conventional bona fide loan is generally different from a sale because the proceeds must be repaid. A digital-asset arrangement still has to earn that treatment under its actual agreement and transaction flow.
+
+If the product transfers title or economic control, permits reuse, exchanges Bitcoin for an obligation to return identical units, or uses another structure unlike a simple pledge, the legal and tax treatment may be unresolved or fact-specific.
+
+So the borrow side's current-tax result stays **provisional** until the CPA or tax attorney reviews the agreement. Interest, eventual repayment, a later sale, liquidation, cancellation, lender failure, and loan balance at death all belong in the comparison.
 
 == WHAT BITCOIN PRICE WOULD MAKE BORROWING LOOK BETTER? ==
 
@@ -62,17 +66,18 @@ That human cost still matters.
 == READ THE ORANGE PLAN COMPARISON IN ORDER ==
 
 1. **Same cash need:** did both strategies fund the same amount and date?
-2. **Tax today:** what gain and tax does the sale create under known basis?
-3. **Interest and fees:** what does the loan cost by year and in total?
-4. **Bitcoin retained:** how much Bitcoin remains economically exposed?
-5. **Collateral at the lender:** how much is outside ordinary custody?
-6. **Drawdown behavior:** do top-ups, margin calls, or liquidation appear?
-7. **Loan balance later and at death:** who eventually repays it?
-8. **Ending net worth:** after debt, tax, interest, and remaining Bitcoin—not before them.
+2. **Legal and tax classification:** has the agreement actually been reviewed as a loan rather than an assumed non-sale transfer?
+3. **Tax today:** what gain and tax does the sale create under known basis, and what provisional treatment is used for the loan?
+4. **Interest and fees:** what does the loan cost by year and in total?
+5. **Bitcoin retained:** how much Bitcoin remains economically exposed?
+6. **Collateral at the lender:** how much is outside ordinary custody?
+7. **Drawdown behavior:** do top-ups, margin calls, or liquidation appear?
+8. **Loan balance later and at death:** who eventually repays it?
+9. **Ending net worth:** after debt, tax, interest, and remaining Bitcoin—not before them.
 
 A bigger ending number in one modeled path is not proof that borrowing is safer.
 
-A lower tax bill today is not proof that borrowing is cheaper.
+A lower tax bill today is not proof that borrowing is cheaper—or that the agreement's tax treatment has been confirmed.
 
 == WORK A SIMPLE BREAK-EVEN QUESTION ==
 
@@ -86,7 +91,7 @@ The seller gives up future exposure on 0.30 BTC and eliminates lender risk.
 
 The borrower keeps exposure, still owes $30,000, and pledges 1.50 BTC.
 
-The comparison turns on the future Bitcoin path and the value the household places on simplicity, access, and survivability.
+The comparison turns on the future Bitcoin path, the confirmed agreement treatment, and the value the household places on simplicity, access, and survivability.
 
 That is why the app needs the full plan rather than a one-line “interest versus tax” calculation.
 
@@ -100,11 +105,11 @@ That is why the app needs the full plan rather than a one-line “interest versu
 
 ### Net benefit of borrowing
 
-**What it means:** ending result after debt, interest, tax, and retained Bitcoin.
+**What it means:** ending result after debt, interest, confirmed tax treatment, and retained Bitcoin.
 
 **Calculated from:** both full projection paths.
 
-**Edit source:** sale strategy, lot/basis inputs, loan terms, collateral policy, and repayment.
+**Edit source:** sale strategy, lot/basis inputs, loan terms, collateral policy, repayment, and professional tax classification.
 
 **This affects:** tax, custody exposure, liquidation risk, estate, and ending net worth.
 
@@ -114,10 +119,10 @@ Choose sell, borrow, or another funding source based on the full trade-off—not
 
 == PUT IT IN ORANGE PLAN ==
 
-Preview both strategies against the same need, inspect the drawdown and loan-at-death results, and apply only the strategy the household has actually chosen.
+Preview both strategies against the same need, inspect the drawdown and loan-at-death results, and mark the loan tax treatment as provisional until the signed agreement is reviewed. Apply only the strategy the household has actually chosen.
 
 == YOU ARE DONE WHEN ==
 
-You can explain what each option costs, what risk each option removes or adds, and which future assumption is carrying the apparent advantage.
+You can explain what each option costs, what risk each option removes or adds, which future assumption is carrying the apparent advantage, and which professional has confirmed the loan's legal and tax classification.
 
 **Return to Core:** save the selected Retirement Income or life-event funding source and keep the unchosen option as a Scenario rather than a hidden second plan.
