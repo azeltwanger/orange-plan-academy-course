@@ -1,0 +1,55 @@
+name: Advanced gate audit
+
+on:
+  push:
+    branches:
+      - main
+      - 'course-repair/**'
+    paths:
+      - 'scripts/advanced/current/**'
+      - 'lesson-text/advanced/current/**'
+      - 'curriculum/advanced-learner-questions.json'
+      - 'ADVANCED-*.md'
+      - 'research/ADVANCED-*.md'
+      - 'professional-review/**'
+      - 'review/advanced/**'
+      - 'tools/advanced_gate_audit.py'
+      - '.github/workflows/advanced-gate-audit.yml'
+  pull_request:
+    paths:
+      - 'scripts/advanced/current/**'
+      - 'lesson-text/advanced/current/**'
+      - 'curriculum/advanced-learner-questions.json'
+      - 'ADVANCED-*.md'
+      - 'research/ADVANCED-*.md'
+      - 'professional-review/**'
+      - 'review/advanced/**'
+      - 'tools/advanced_gate_audit.py'
+      - '.github/workflows/advanced-gate-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Audit Advanced parity gates
+        run: |
+          mkdir -p artifacts/advanced-gate-audit
+          python tools/advanced_gate_audit.py | tee artifacts/advanced-gate-audit/ADVANCED-GATE-AUDIT.md
+      - name: Add report to summary
+        if: always()
+        run: cat artifacts/advanced-gate-audit/ADVANCED-GATE-AUDIT.md >> "$GITHUB_STEP_SUMMARY" || true
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: advanced-gate-audit
+          path: artifacts/advanced-gate-audit
+          if-no-files-found: warn
