@@ -1,0 +1,56 @@
+name: Advanced course audit
+
+on:
+  push:
+    branches:
+      - main
+      - 'course-repair/**'
+    paths:
+      - 'scripts/advanced/current/**'
+      - 'lesson-text/advanced/current/**'
+      - 'curriculum/advanced-learner-questions.json'
+      - 'tools/advanced_course_audit.py'
+      - 'ADVANCED-CURRENT.md'
+      - '.github/workflows/advanced-course-audit.yml'
+  pull_request:
+    paths:
+      - 'scripts/advanced/current/**'
+      - 'lesson-text/advanced/current/**'
+      - 'curriculum/advanced-learner-questions.json'
+      - 'tools/advanced_course_audit.py'
+      - 'ADVANCED-CURRENT.md'
+      - '.github/workflows/advanced-course-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the course
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Audit current Advanced Library
+        run: python tools/advanced_course_audit.py
+
+      - name: Add report to the job summary
+        if: always()
+        run: |
+          if [ -f artifacts/advanced-course-audit/ADVANCED-COURSE-AUDIT.md ]; then
+            cat artifacts/advanced-course-audit/ADVANCED-COURSE-AUDIT.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload Advanced audit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: advanced-course-audit
+          path: artifacts/advanced-course-audit
+          if-no-files-found: warn

@@ -1,0 +1,54 @@
+name: Number provenance audit
+
+on:
+  push:
+    branches:
+      - main
+      - 'course-repair/**'
+    paths:
+      - 'scripts/**'
+      - 'NUMBER-PROVENANCE-REGISTRY.md'
+      - 'tools/number_provenance_audit.py'
+      - '.github/workflows/number-provenance-audit.yml'
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'NUMBER-PROVENANCE-REGISTRY.md'
+      - 'tools/number_provenance_audit.py'
+      - '.github/workflows/number-provenance-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the course
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate number provenance
+        run: |
+          mkdir -p artifacts/number-provenance-audit
+          python tools/number_provenance_audit.py | tee artifacts/number-provenance-audit/NUMBER-PROVENANCE-REPORT.md
+
+      - name: Add report to the job summary
+        if: always()
+        run: |
+          if [ -f artifacts/number-provenance-audit/NUMBER-PROVENANCE-REPORT.md ]; then
+            cat artifacts/number-provenance-audit/NUMBER-PROVENANCE-REPORT.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload number provenance report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: number-provenance-audit
+          path: artifacts/number-provenance-audit
+          if-no-files-found: warn

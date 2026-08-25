@@ -1,0 +1,52 @@
+name: Learner question audit
+
+on:
+  push:
+    branches:
+      - main
+      - 'course-repair/**'
+    paths:
+      - 'curriculum/core-learner-questions.json'
+      - 'scripts/**'
+      - 'review/LEARNER-QUESTION-MAP.md'
+      - 'tools/learner_question_audit.py'
+      - '.github/workflows/learner-question-audit.yml'
+  pull_request:
+    paths:
+      - 'curriculum/core-learner-questions.json'
+      - 'scripts/**'
+      - 'review/LEARNER-QUESTION-MAP.md'
+      - 'tools/learner_question_audit.py'
+      - '.github/workflows/learner-question-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the course
+        uses: actions/checkout@v4
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Validate Core learner questions
+        run: |
+          mkdir -p artifacts/learner-question-audit
+          python tools/learner_question_audit.py | tee artifacts/learner-question-audit/LEARNER-QUESTION-REPORT.md
+      - name: Add report to the job summary
+        if: always()
+        run: |
+          if [ -f artifacts/learner-question-audit/LEARNER-QUESTION-REPORT.md ]; then
+            cat artifacts/learner-question-audit/LEARNER-QUESTION-REPORT.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+      - name: Upload learner-question report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: learner-question-audit
+          path: artifacts/learner-question-audit
+          if-no-files-found: warn

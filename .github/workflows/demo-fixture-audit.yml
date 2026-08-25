@@ -1,0 +1,58 @@
+name: Demo fixture audit
+
+on:
+  push:
+    branches:
+      - main
+      - 'course-repair/**'
+    paths:
+      - 'demo/**'
+      - 'DEMO-HOUSEHOLD.md'
+      - 'AUSTIN-DEMO-DECISIONS.md'
+      - 'DEMO-CHECKPOINT-RUN-SHEET.md'
+      - 'tools/demo_fixture_audit.py'
+      - '.github/workflows/demo-fixture-audit.yml'
+  pull_request:
+    paths:
+      - 'demo/**'
+      - 'DEMO-HOUSEHOLD.md'
+      - 'AUSTIN-DEMO-DECISIONS.md'
+      - 'DEMO-CHECKPOINT-RUN-SHEET.md'
+      - 'tools/demo_fixture_audit.py'
+      - '.github/workflows/demo-fixture-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the course
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Validate canonical demo inputs
+        run: |
+          mkdir -p artifacts/demo-fixture-audit
+          python tools/demo_fixture_audit.py | tee artifacts/demo-fixture-audit/DEMO-FIXTURE-REPORT.md
+
+      - name: Add report to the job summary
+        if: always()
+        run: |
+          if [ -f artifacts/demo-fixture-audit/DEMO-FIXTURE-REPORT.md ]; then
+            cat artifacts/demo-fixture-audit/DEMO-FIXTURE-REPORT.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload demo fixture audit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: demo-fixture-audit
+          path: artifacts/demo-fixture-audit
+          if-no-files-found: warn

@@ -1,0 +1,50 @@
+name: Full pre-dictation audit
+
+on:
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'lesson-text/**'
+      - 'curriculum/**'
+      - 'demo/**'
+      - 'professional-review/**'
+      - 'research/**'
+      - 'review/**'
+      - 'tools/**'
+      - 'CURRENT-COURSE.md'
+      - 'ADVANCED-CURRENT.md'
+      - 'COURSE-APP-CONTRACT.md'
+      - 'BUILD-YOUR-PLAN-CROSSWALK.md'
+      - 'DEMO-HOUSEHOLD.md'
+      - 'AUSTIN-DEMO-DECISIONS.md'
+      - 'PRE-DICTATION-QA.md'
+      - 'FILMING-READINESS.md'
+      - 'NUMBER-PROVENANCE-REGISTRY.md'
+      - 'VISUAL-PRODUCTION-BRIEFS.md'
+      - 'README.md'
+      - '.github/workflows/full-course-audit.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run Core and Advanced audit suite
+        run: python tools/run_all_audits.py
+      - name: Add summary
+        if: always()
+        run: cat artifacts/full-course-audit/SUMMARY.md >> "$GITHUB_STEP_SUMMARY" || true
+      - name: Upload reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: full-course-audit
+          path: artifacts/full-course-audit
+          if-no-files-found: warn

@@ -1,0 +1,52 @@
+name: Voice lint
+
+on:
+  push:
+    branches:
+      - main
+      - 'course-repair/**'
+    paths:
+      - 'scripts/**'
+      - 'tools/voice_lint.py'
+      - '.github/workflows/voice-lint.yml'
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'tools/voice_lint.py'
+      - '.github/workflows/voice-lint.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the course
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Check generated phrasing and readability
+        run: |
+          mkdir -p artifacts/voice-lint
+          python tools/voice_lint.py | tee artifacts/voice-lint/VOICE-LINT-REPORT.md
+
+      - name: Add report to the job summary
+        if: always()
+        run: |
+          if [ -f artifacts/voice-lint/VOICE-LINT-REPORT.md ]; then
+            cat artifacts/voice-lint/VOICE-LINT-REPORT.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload voice lint report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: voice-lint
+          path: artifacts/voice-lint
+          if-no-files-found: warn

@@ -1,0 +1,70 @@
+name: Course audit
+
+on:
+  push:
+    branches:
+      - main
+      - 'course-repair/**'
+    paths:
+      - 'scripts/**'
+      - 'lesson-text/**'
+      - 'professional-review/**'
+      - 'tools/course_audit.py'
+      - 'CURRENT-COURSE.md'
+      - 'COURSE-APP-CONTRACT.md'
+      - 'BUILD-YOUR-PLAN-CROSSWALK.md'
+      - 'AUSTIN-DEMO-DECISIONS.md'
+      - 'DEMO-HOUSEHOLD.md'
+      - 'DEMO-CHECKPOINT-RUN-SHEET.md'
+      - 'PRE-DICTATION-QA.md'
+      - 'FILMING-READINESS.md'
+      - '.github/workflows/course-audit.yml'
+  pull_request:
+    paths:
+      - 'scripts/**'
+      - 'lesson-text/**'
+      - 'professional-review/**'
+      - 'tools/course_audit.py'
+      - 'CURRENT-COURSE.md'
+      - 'COURSE-APP-CONTRACT.md'
+      - 'BUILD-YOUR-PLAN-CROSSWALK.md'
+      - 'AUSTIN-DEMO-DECISIONS.md'
+      - 'DEMO-HOUSEHOLD.md'
+      - 'DEMO-CHECKPOINT-RUN-SHEET.md'
+      - 'PRE-DICTATION-QA.md'
+      - 'FILMING-READINESS.md'
+      - '.github/workflows/course-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the course
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Audit core scripts and lesson text
+        run: python tools/course_audit.py --out-dir artifacts/course-audit
+
+      - name: Add report to the job summary
+        if: always()
+        run: |
+          if [ -f artifacts/course-audit/CORE-RUNTIME-REPORT.md ]; then
+            cat artifacts/course-audit/CORE-RUNTIME-REPORT.md >> "$GITHUB_STEP_SUMMARY"
+          fi
+
+      - name: Upload course audit
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: course-audit
+          path: artifacts/course-audit
+          if-no-files-found: warn

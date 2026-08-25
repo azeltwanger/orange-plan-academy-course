@@ -1,166 +1,199 @@
 #!/usr/bin/env python3
-"""Regenerate the running order in DICTATION-ORDER.md from the current course.
+"""Build the current Austin review and dictation order from CURRENT-COURSE.md.
 
-Everything ABOVE the '## The order' heading is hand-written and preserved
-verbatim — the settle-these-five list, the say-once items, Austin's notes.
-Everything from '## The order' down is rebuilt from MASTER-COURSE.md (module
-names and lesson order) and scripts/ (measured runtimes), so a trim pass can
-never leave the filming order describing a course that no longer exists.
-
-Walkthroughs and demos are listed for context but carry no dictation minutes:
-they're narrated off the DO/SEE/⚠ sheets, not read.
-
-Run after editing the master or a script:  python3 tools/build-dictation-order.py
+This generator deliberately ignores MASTER-COURSE.md and other migration layers.
+The current Core outline lives in CURRENT-COURSE.md; spoken runtimes come from
+exactly the 28 current scripts using the same spoken-text parser as voice_lint.
 """
-import re, os, sys
 
-root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-master = open(os.path.join(root, 'MASTER-COURSE.md'), encoding='utf-8').read()
-sd = os.path.join(root, 'scripts')
+from __future__ import annotations
 
-# --- measured runtimes, keyed by lesson number ------------------------------
-runtime, slug = {}, {}
-for f in sorted(os.listdir(sd)):
-    if not f.endswith('.md') or f in ('README.md', 'VOICE-GUIDE.md'):
-        continue
-    # '09-3-A_slug.md' -> '9.3'; '10-1_slug.md' -> '10.1'
-    stem = f.split('_')[0]
-    if stem.endswith('-A'):
-        stem = stem[:-2]
-    mod, _, sub = stem.partition('-')
-    if not mod.isdigit():
-        continue                       # advanced-library numbering (A4-1)
-    num = f'{int(mod)}.{sub}'
-    body = open(os.path.join(sd, f), encoding='utf-8').read().split('=' * 60, 1)[-1]
-    words = len(body.split())
-    runtime[num] = words / 155
-    slug[num] = f
+import re
+import sys
+from dataclasses import dataclass
+from pathlib import Path
 
-# --- module + lesson order from the master ----------------------------------
-units = []           # [(unit_title, [(num, title, is_screen)])]
-for m in re.finditer(r'^# Unit \d+ · (.+)$', master, re.M):
-    units.append((m.group(1), m.start(), []))
-for i, (title, start, lessons) in enumerate(units):
-    end = units[i + 1][1] if i + 1 < len(units) else len(master)
-    for lm in re.finditer(r'^## (\d+\.\d+) (.+)$', master[start:end], re.M):
-        num, t = lm.group(1), lm.group(2)
-        screen = (t.lower().startswith('walkthrough')
-                  or t.lower().startswith('external demo'))
-        lessons.append((num, t, screen))
+ROOT = Path(__file__).resolve().parents[1]
+TOOLS = ROOT / "tools"
+if str(TOOLS) not in sys.path:
+    sys.path.insert(0, str(TOOLS))
 
-# The say-once block used to be hand-written, and it went stale exactly the
-# way the running order did: it still named retired lessons 4.5, 6.4, 8.5,
-# 11.1 and 11.3, and described hybrid screen work in Modules 4 and 8 that no
-# longer exists. Derive it instead.
-# An OPTIONAL lesson must never carry the walkthrough hand-off: a student who
-# correctly skips it would never hear where the capture is. Module 2's college
-# lesson is the first of these. Hand-off goes to the last REQUIRED teach lesson.
-def optional(title):
-    return title.lower().startswith('optional')
+from voice_lint import WORD, spoken_text  # noqa: E402
+
+WPM = 155
+REVIEW_ORDER = (1, 2, 6, 3, 4, 5, 7, 8, 9, 0)
+SCRIPT_NAME = re.compile(r"^(\d{2})-(\d+)_.*\.md$")
+MODULE_HEADING = re.compile(r"^### Module (\d+) — (.+)$", re.M)
+LESSON_LINE = re.compile(r"^- (\d+\.\d+) · (.+)$", re.M)
 
 
-handoff, no_capture, optionals = [], [], []
-for title, _, lessons in units:
-    teach = [n for n, t_, s in lessons if not s]
-    required = [n for n, t_, s in lessons if not s and not optional(t_)]
-    caps = [n for n, t_, s in lessons if s]
-    optionals += [(n, t_) for n, t_, s in lessons if not s and optional(t_)]
-    if not teach:
-        continue
-    if caps:
-        handoff.append((required or teach)[-1])
-    else:
-        no_capture.append((title.split('—')[0].strip(), teach[-1]))
+@dataclass(frozen=True)
+class Script:
+    lesson_id: str
+    path: Path
+    title: str
+    status: str
+    words: int
 
-# These two used to be hardcoded strings inside a block that advertised itself as
-# generated, so they rotted invisibly: the AI bullet still said 1.2 after the AI
-# lesson became 0.2, and the disclaimer bullet still said 6.1/9.1 after the tax
-# and estate modules were renumbered to 5.1/8.1. Derive both from the master.
-ai = re.search(r'^## (\d+\.\d+) (How the AI works.+)$', master, re.M)
-ai_num = ai.group(1) if ai else '??'
-# Each US-specific module header states where its disclaimer is spoken, once.
-disc = re.findall(r'Said ONCE, at the top of (\d+\.\d+)', master)
-# ...and one lesson carries the breakdown of which modules are US-shaped. That
-# paragraph currently lives only in the DICTATION script for 0.1, not in the
-# master, so the master alone cannot answer this. Search both layers rather than
-# print "??" — and shout, because a script-only paragraph is a parity gap.
-BRK = r'built on US rules'
-brk = re.search(r'^## (\d+\.\d+) [^\n]*\n(?:(?!^## ).)*?' + BRK, master, re.M | re.S)
-if brk:
-    brk_num = brk.group(1)
-else:
-    brk_num = '??'
-    for f in sorted(slug.values()):
-        if re.search(BRK, open(os.path.join(sd, f), encoding='utf-8').read()):
-            stem = f.split('_')[0]
-            brk_num = f'{int(stem.split("-")[0])}.{stem.split("-")[1]}'
-            print(f'  !! PARITY: the "which modules are US-shaped" breakdown is in '
-                  f'scripts/{f} ({brk_num}) but NOT in MASTER-COURSE.md')
-            break
+    @property
+    def minutes(self) -> float:
+        return self.words / WPM
 
-say_once = ['## Say-once items (already built that way, don\'t re-explain later)', '',
-  '*Generated. Regenerating this file rewrites this section from the current '
-  'course, so it cannot go stale again.*', '',
-  f'- **The AI** is taught in full in **{ai_num}** and nowhere else. Later '
-  'walkthroughs only name the button and say when it is worth running.',
-  '- **The US-specific disclaimer** is said at the top of '
-  + ' and the top of '.join(f'**{n}**' for n in disc)
-  + f'. {"Twice" if len(disc) == 2 else str(len(disc)) + " times"}, total, plus '
-  f'the breakdown in {brk_num} of which modules are US-shaped. It used to run 12 times.',
-  '- **The walkthrough hand-off** ("watch the walkthrough below this video") '
-  'belongs ONLY on the last REQUIRED teach lesson of a module that has a '
-  'capture: ' + ' · '.join(f'**{n}**' for n in handoff) + '.']
-if optionals:
-    say_once.append('- **Optional lessons never carry the hand-off**, because a '
-        'student who correctly skips one would never hear it: '
-        + ' · '.join(f'**{n}** {t}' for n, t in optionals) + '.')
-if no_capture:
-    say_once.append('- **No capture, so no hand-off:** '
-        + ' · '.join(f'{m} (last teach {n})' for m, n in no_capture)
-        + '. Do not record a hand-off line there until a sheet exists.')
-say_once += ['', '---', '']
 
-out = say_once + ['## The order', '']
-teach_n = teach_min = 0
-for title, _, lessons in units:
-    mins = sum(runtime.get(n, 0) for n, t, s in lessons if not s)
-    n_teach = sum(1 for n, t, s in lessons if not s)
-    teach_n += n_teach
-    teach_min += mins
-    out += [f'### {title} · {mins:.0f} min', '',
-            '| # | Lesson | min |', '|---|---|---|']
-    for num, t, screen in lessons:
-        if screen:
-            kind = 'DEMO' if t.lower().startswith('external') else 'WALKTHROUGH'
-            out.append(f'| {num} | *{t}* | — {kind}, narrated off the sheet |')
-        else:
-            r = runtime.get(num)
-            out.append(f'| {num} | {t} | {r:.1f} |' if r else
-                       f'| {num} | {t} | ⚠ no script |')
-    out += ['']
+@dataclass(frozen=True)
+class Module:
+    number: int
+    title: str
+    lessons: tuple[tuple[str, str], ...]
 
-hours = teach_min / 60
-out += ['---', '',
-        f'**{teach_n} teach lessons · {teach_min:.0f} min '
-        f'({hours:.1f} h) of finished audio at 155 wpm.**', '',
-        'Walkthroughs are not dictated. They are screen captures you narrate in',
-        'your own words off the DO / SEE / ⚠ sheets, and they happen after the',
-        'teach lessons for that module.', '']
 
-p = os.path.join(root, 'DICTATION-ORDER.md')
-old = open(p, encoding='utf-8').read()
-head = old.split('## The order')[0].rstrip()
-head = head.split('## Say-once items')[0].rstrip()
-# keep the headline stat in the preamble honest too
-# Match BOTH the retired "N words · N hours" headline and the current
-# "N min (N h)" one. The first version only matched the old form, so once the
-# headline was converted to minutes it silently stopped updating and the file
-# opened with 23 min while ending with 222.
-head, n = re.subn(
-    r'\*\*\d+ teach lessons · (?:[\d,]+ words · [\d.]+ hours|[\d,]+ min \([\d.]+ h\))[^*]*\*\*',
-    f'**{teach_n} teach lessons · {teach_min:.0f} min '
-    f'({hours:.1f} h) of finished audio at 155 wpm.**', head)
-if n == 0:
-    print('  !! headline not found in the preserved preamble — check it by hand')
-open(p, 'w', encoding='utf-8').write(head + '\n\n' + '\n'.join(out))
-print(f'DICTATION-ORDER.md regenerated — {teach_n} teach lessons, {teach_min:.0f} min')
+def parse_modules() -> list[Module]:
+    text = (ROOT / "CURRENT-COURSE.md").read_text(encoding="utf-8")
+    matches = list(MODULE_HEADING.finditer(text))
+    modules: list[Module] = []
+    for index, match in enumerate(matches):
+        start = match.end()
+        end = matches[index + 1].start() if index + 1 < len(matches) else len(text)
+        lessons = tuple(LESSON_LINE.findall(text[start:end]))
+        if lessons:
+            modules.append(Module(int(match.group(1)), match.group(2).strip(), lessons))
+    return modules
+
+
+def parse_scripts() -> dict[str, Script]:
+    scripts: dict[str, Script] = {}
+    for path in sorted((ROOT / "scripts").glob("*.md")):
+        match = SCRIPT_NAME.match(path.name)
+        if not match or "WALKTHROUGH" in path.name.upper() or "DEMO" in path.name.upper():
+            continue
+        lesson_id = f"{int(match.group(1))}.{int(match.group(2))}"
+        content = path.read_text(encoding="utf-8")
+        lines = content.splitlines()
+        title = lines[1].split(" ", 1)[1].strip() if len(lines) > 1 and " " in lines[1] else lesson_id
+        status_line = lines[2] if len(lines) > 2 else ""
+        status = status_line.split("·", 1)[1].strip() if "·" in status_line else "Austin review pending"
+        words = len(WORD.findall(spoken_text(content)))
+        scripts[lesson_id] = Script(lesson_id, path.relative_to(ROOT), title, status, words)
+    return scripts
+
+
+def module_minutes(module: Module, scripts: dict[str, Script]) -> float:
+    return sum(scripts[lesson_id].minutes for lesson_id, _ in module.lessons)
+
+
+def render_module(module: Module, scripts: dict[str, Script]) -> list[str]:
+    lines = [
+        f"### Module {module.number} — {module.title} · {module_minutes(module, scripts):.1f} min",
+        "",
+        "| Lesson | Current script | Words | Min | Review status |",
+        "|---|---|---:|---:|---|",
+    ]
+    for lesson_id, outline_title in module.lessons:
+        script = scripts[lesson_id]
+        lines.append(
+            f"| {lesson_id} | [{outline_title}]({script.path.as_posix()}) | "
+            f"{script.words:,} | {script.minutes:.1f} | {script.status} |"
+        )
+    lines.append("")
+    return lines
+
+
+def main() -> int:
+    modules = parse_modules()
+    scripts = parse_scripts()
+    outlined = [lesson_id for module in modules for lesson_id, _ in module.lessons]
+    missing = [lesson_id for lesson_id in outlined if lesson_id not in scripts]
+    extras = sorted(set(scripts) - set(outlined))
+    if missing or extras or len(outlined) != 28:
+        raise SystemExit(
+            f"Current-course/script mismatch: outlined={len(outlined)}, missing={missing}, extras={extras}"
+        )
+
+    module_by_number = {module.number: module for module in modules}
+    total_words = sum(script.words for script in scripts.values())
+    total_minutes = total_words / WPM
+
+    out: list[str] = [
+        "# Austin review and dictation order",
+        "",
+        "**Current Core only.** Generated from `CURRENT-COURSE.md` and the 28 current `scripts/` files. "
+        "Do not use `MASTER-COURSE.md`, old decks, aggregate scripts, or retired walkthroughs as the recording source.",
+        "",
+        f"**28 teach lessons · {total_words:,} spoken words · {total_minutes:.1f} min "
+        f"({total_minutes / 60:.1f} h) at {WPM} wpm.**",
+        "",
+        "Austin may begin the voice-and-judgment review in the wave order below. "
+        "A named UI or professional hold blocks `AUSTIN APPROVED` and filming; it does not require rebuilding or rereading unrelated concept prose.",
+        "",
+        "Walkthroughs are not dictated from these scripts. They are recorded later from the verified Build Your Plan run sheets after the deployed routes, labels, and completion rules are accepted.",
+        "",
+        "## What is locked before the read",
+        "",
+        "Do not recalculate or casually replace these during dictation:",
+        "",
+        "- One household retirement start: March 2036, Alex age 55.",
+        "- Plan confidence target: 80%; current confidence: 94.6%; earliest target-qualified date: May 2032, Alex age 51.",
+        "- Cash Flow: $3,761/month after the saved debt strategy; full route is $500 extra debt plus $3,500 account contributions; $261 operating cushion.",
+        "- Allocation: $270,000 app denominator; 64.8% Bitcoin; 50% target; 40–60% review band; $131,250 Bitcoin loss in a 75% drawdown.",
+        "- Retirement paycheck: keep $100,000/year; first-year total draw is $101,948; Bitcoin sale is $97,948 or 0.079251 BTC at the projected price.",
+        "- Scenario: 4% inflation produces 91.6% confidence, 3.0 percentage points below the 3% Baseline.",
+        "- Borrowing is excluded from the saved Core baseline and remains a gated comparison.",
+        "- Reserve, Bridge, Healthcare Bridge, and Legacy are planning jobs; the current app wording governs any final on-screen label.",
+        "",
+        "## What Austin is reviewing",
+        "",
+        "- **Voice:** would I naturally say this?",
+        "- **Judgment:** do I agree with the recommendation and trade-off?",
+        "- **Example:** does Alex and Jordan's plan make the decision easier to understand?",
+        "- **Finish line:** would the learner know what was decided and when the lesson is complete?",
+        "",
+        "Use `APPROVE`, `TIGHTEN`, `SAY IT THIS WAY`, `JUDGMENT`, `APP`, `PRO`, or `REMOVE`. "
+        "Do not rewrite a correct section merely because another sentence is possible.",
+        "",
+        "## Review wave order",
+        "",
+        "The review starts with the biggest app and number changes, then strategy, then protection, then framing. "
+        "This is not the learner's final publishing order.",
+        "",
+    ]
+
+    for module_number in REVIEW_ORDER:
+        out.extend(render_module(module_by_number[module_number], scripts))
+
+    out.extend([
+        "---",
+        "",
+        "## Final learner recording order",
+        "",
+        "After every named hold is cleared and the scripts are marked `AUSTIN APPROVED`, record the concept lessons in learner order:",
+        "",
+    ])
+    for module in modules:
+        ids = " · ".join(lesson_id for lesson_id, _ in module.lessons)
+        out.append(f"- **Module {module.number} — {module.title}:** {ids}")
+
+    out.extend([
+        "",
+        "## Approval boundary",
+        "",
+        "A voice-and-judgment review can be complete while an `APP` or `PRO` line remains held. "
+        "The lesson becomes `AUSTIN APPROVED` only after that named hold is checked, the matching lesson text is reconciled, and Austin completes one clean final read of the corrected lesson.",
+        "",
+        "Regenerate after any current script or outline change:",
+        "",
+        "```bash",
+        "python3 tools/build-dictation-order.py",
+        "```",
+        "",
+    ])
+
+    (ROOT / "DICTATION-ORDER.md").write_text("\n".join(out), encoding="utf-8")
+    print(
+        f"DICTATION-ORDER.md regenerated — 28 lessons, {total_words:,} spoken words, "
+        f"{total_minutes:.1f} min"
+    )
+    return 0
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())

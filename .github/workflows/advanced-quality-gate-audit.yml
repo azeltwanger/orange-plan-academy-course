@@ -1,0 +1,59 @@
+name: Advanced quality-gate audit
+
+on:
+  push:
+    branches:
+      - main
+      - 'course-repair/**'
+    paths:
+      - 'ADVANCED-*.md'
+      - 'scripts/advanced/current/**'
+      - 'lesson-text/advanced/current/**'
+      - 'curriculum/advanced-learner-questions.json'
+      - 'demo/advanced-demo-fixtures.json'
+      - 'demo/ADVANCED-DEMO-FIXTURE.md'
+      - 'professional-review/**'
+      - 'research/ADVANCED-*.md'
+      - 'review/advanced/**'
+      - 'tools/advanced_*audit.py'
+      - '.github/workflows/advanced-quality-gate-audit.yml'
+  pull_request:
+    paths:
+      - 'ADVANCED-*.md'
+      - 'scripts/advanced/current/**'
+      - 'lesson-text/advanced/current/**'
+      - 'curriculum/advanced-learner-questions.json'
+      - 'demo/advanced-demo-fixtures.json'
+      - 'demo/ADVANCED-DEMO-FIXTURE.md'
+      - 'professional-review/**'
+      - 'research/ADVANCED-*.md'
+      - 'review/advanced/**'
+      - 'tools/advanced_*audit.py'
+      - '.github/workflows/advanced-quality-gate-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Audit Advanced quality controls
+        run: |
+          mkdir -p artifacts/advanced-quality-gate-audit
+          python tools/advanced_quality_gate_audit.py | tee artifacts/advanced-quality-gate-audit/ADVANCED-QUALITY-GATE-AUDIT.md
+      - name: Add report to summary
+        if: always()
+        run: cat artifacts/advanced-quality-gate-audit/ADVANCED-QUALITY-GATE-AUDIT.md >> "$GITHUB_STEP_SUMMARY" || true
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: advanced-quality-gate-audit
+          path: artifacts/advanced-quality-gate-audit
+          if-no-files-found: warn

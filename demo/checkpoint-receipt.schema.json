@@ -1,0 +1,248 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://orangeplan.example/schemas/academy-checkpoint-receipt-v1.json",
+  "title": "Orange Plan Academy Demo Checkpoint Receipt",
+  "description": "Evidence that the canonical synthetic Academy household was run through the current Orange Plan app without inventing app-owned outputs.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "fixtureVersion",
+    "checkpointId",
+    "capturedAt",
+    "appCommit",
+    "sourceInputHash",
+    "storageContext",
+    "outputs",
+    "reconciliations",
+    "noSecretsPresent"
+  ],
+  "properties": {
+    "schemaVersion": {
+      "const": 1
+    },
+    "fixtureVersion": {
+      "const": "demo-v1-inputs"
+    },
+    "checkpointId": {
+      "enum": [
+        "demo-v1-baseline",
+        "demo-v1-cashflow",
+        "demo-v1-debt",
+        "demo-v1-allocation",
+        "demo-v1-tax",
+        "demo-v1-income",
+        "demo-v1-protect",
+        "demo-v1-final"
+      ]
+    },
+    "capturedAt": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "appCommit": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{7,40}$"
+    },
+    "appVersion": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "projectionEngineVersion": {
+      "type": [
+        "string",
+        "number",
+        "null"
+      ]
+    },
+    "sourceInputHash": {
+      "type": "string",
+      "minLength": 8
+    },
+    "storageContext": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "mode",
+        "syntheticOwner",
+        "isolatedFromCustomerData"
+      ],
+      "properties": {
+        "mode": {
+          "enum": [
+            "local_test",
+            "development_cloud",
+            "other_isolated_test"
+          ]
+        },
+        "syntheticOwner": {
+          "type": "string",
+          "minLength": 1
+        },
+        "isolatedFromCustomerData": {
+          "const": true
+        }
+      }
+    },
+    "appSurface": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "buildStepId": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "buildStepLabel": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "primaryRoute": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "saveBehavior": {
+          "enum": [
+            "autosave",
+            "save_action",
+            "apply_action",
+            "scenario_only",
+            "read_only_output",
+            "mixed",
+            "not_yet_verified"
+          ]
+        },
+        "appCompletionRule": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "humanCompletionRule": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      }
+    },
+    "sourceInputsChanged": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "decisionsApplied": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "uniqueItems": true
+    },
+    "outputs": {
+      "type": "object",
+      "description": "Current app outputs captured at this checkpoint. Names should match the page or receipt where possible.",
+      "additionalProperties": {
+        "type": [
+          "number",
+          "integer",
+          "string",
+          "boolean",
+          "null",
+          "array",
+          "object"
+        }
+      }
+    },
+    "reconciliations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "id",
+          "status",
+          "description"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "minLength": 1
+          },
+          "status": {
+            "enum": [
+              "pass",
+              "fail",
+              "not_applicable",
+              "blocked"
+            ]
+          },
+          "description": {
+            "type": "string",
+            "minLength": 1
+          },
+          "expected": {},
+          "actual": {},
+          "difference": {},
+          "source": {
+            "type": [
+              "string",
+              "null"
+            ]
+          },
+          "notes": {
+            "type": [
+              "string",
+              "null"
+            ]
+          }
+        }
+      }
+    },
+    "screenshots": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "label",
+          "path"
+        ],
+        "properties": {
+          "label": {
+            "type": "string"
+          },
+          "path": {
+            "type": "string"
+          },
+          "containsPersonalData": {
+            "const": false
+          }
+        }
+      }
+    },
+    "knownHolds": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "notes": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "noSecretsPresent": {
+      "const": true
+    }
+  }
+}

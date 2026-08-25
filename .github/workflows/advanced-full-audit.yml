@@ -1,0 +1,65 @@
+name: Advanced full audit
+
+on:
+  push:
+    branches:
+      - main
+      - 'course-repair/**'
+    paths:
+      - 'scripts/advanced/current/**'
+      - 'lesson-text/advanced/current/**'
+      - 'curriculum/advanced-learner-questions.json'
+      - 'demo/advanced-demo-fixtures.json'
+      - 'demo/ADVANCED-DEMO-FIXTURE.md'
+      - 'ADVANCED-*.md'
+      - 'professional-review/ADVANCED-*.md'
+      - 'professional-review/*-ADVANCED-SEND.md'
+      - 'professional-review/LENDING-SEND.md'
+      - 'professional-review/HEALTHCARE-SEND.md'
+      - 'research/ADVANCED-*.md'
+      - 'review/advanced/**'
+      - 'tools/advanced_*.py'
+      - 'tools/run_all_advanced_audits.py'
+      - '.github/workflows/advanced-full-audit.yml'
+  pull_request:
+    paths:
+      - 'scripts/advanced/current/**'
+      - 'lesson-text/advanced/current/**'
+      - 'curriculum/advanced-learner-questions.json'
+      - 'demo/advanced-demo-fixtures.json'
+      - 'demo/ADVANCED-DEMO-FIXTURE.md'
+      - 'ADVANCED-*.md'
+      - 'professional-review/ADVANCED-*.md'
+      - 'professional-review/*-ADVANCED-SEND.md'
+      - 'professional-review/LENDING-SEND.md'
+      - 'professional-review/HEALTHCARE-SEND.md'
+      - 'research/ADVANCED-*.md'
+      - 'review/advanced/**'
+      - 'tools/advanced_*.py'
+      - 'tools/run_all_advanced_audits.py'
+      - '.github/workflows/advanced-full-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run all Advanced audits
+        run: python tools/run_all_advanced_audits.py
+      - name: Add summary
+        if: always()
+        run: cat artifacts/advanced-full-audit/SUMMARY.md >> "$GITHUB_STEP_SUMMARY" || true
+      - name: Upload reports
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: advanced-full-audit
+          path: artifacts/advanced-full-audit
+          if-no-files-found: warn
