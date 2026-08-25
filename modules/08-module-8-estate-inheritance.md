@@ -468,6 +468,11 @@ Not in the app. The documents don't work if the family has never heard about the
 
 Item 6 earns the meeting — if nobody says anything is confusing, the question was asked wrong. Item 7 stops it being a conversation everyone forgets.
 
+<!-- PLAN-LIFECYCLE:MODULE-8 -->
+### Build Your Plan handoff
+
+Return to **Build Your Plan → Protect**. Confirm the beneficiaries exist, the heir letter is drafted in your own words, and the printable or downloaded copy is stored where the family can find it. The app checkmark is not the legal work; provider forms and signed documents remain the record.
+
 <!-- ADVANCED-GATE:START -->
 
 ## Related advanced lessons

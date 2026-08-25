@@ -1,95 +1,72 @@
 TELEPROMPTER SCRIPT — segment 1.3
-1.3 Read your retirement date and confidence number
-~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+1.3 Read your starting retirement date and the confidence number you will run later
+~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 ============================================================
 
-In today's lesson, we're going to cover the two numbers at the top of your plan, your earliest retirement date and your confidence number, and how to read them together.
+Onboarding gave you a starting retirement estimate. It did not give you the finished plan.
 
-Before either one, though, I want to name what you're looking at, because this matters more than it sounds.
+That distinction matters because the number can look precise even though the inputs were intentionally rough. Onboarding only asked for enough to give you a useful first direction: age, income, spending, rough asset buckets, where most of the non-Bitcoin assets live, and the Bitcoin growth model you selected.
 
-What you're about to see is your first retirement read. It's a draft, built on the baseline you just entered and nothing else. Your cash flow decisions aren't in it. Your debt policy isn't in it. Your allocation and your tax decisions aren't in it, and neither is the order you'll eventually draw accounts down in, because you haven't made any of those decisions yet.
+It did not know every real account, your exact holdings, debts, future costs, cost basis, Social Security, withdrawal strategy, tax windows, or protection plan. Those are the parts the course and Build Your Plan guide add next.
 
-So hold it loosely in both directions. Don't treat an exciting date as finished, and don't dismiss the whole thing because the first number looks rough. This is a starting-point snapshot, and it becomes your actual plan as you make the decisions in the modules ahead. You'll watch it move, and watching it move is most of the point.
+== WHAT THE ONBOARDING AGE MEANS ==
 
-== WHERE THE NUMBERS COME FROM ==
+The age is a deterministic estimate. The app takes the numbers you entered, applies the selected growth model, and finds the earliest age where that one average projection can fund the spending target.
 
-[🔶 F21 — INSERTED SECTION, ~45 seconds. Not from a prior dictation. It exists
-because the client calls kept returning to "where did this number come from?"
-and "which account pays for this?", and nothing in the course answered it
-directly. Keep it, rewrite it, or cut it at the mic — the graphic carries the
-idea either way.]
+It is useful because it immediately shows how much the growth assumption changes the answer. It is not a stress test, and it is not a promise.
 
-🎬 GRAPHIC: the number-flow frame. WHAT YOU CHANGE → WHAT THE APP CALCULATES → WHAT MOVES DOWNSTREAM, with the three worked rows underneath. This same frame comes back in every module walkthrough.
+Treat it as the first draft of the headline, not the finished answer.
 
-Nothing in this app is typed in twice. Every number you see is calculated from something upstream of it, it has exactly one place you can edit it, and it pushes something downstream.
+== WHY THERE IS NO CONFIDENCE NUMBER YET ==
 
-So for any number on your screen, you've got three questions. What is it calculated from? Where do I edit it? And what does it affect?
+The app intentionally does not show a Monte Carlo confidence percentage during onboarding.
 
-You can see three examples on screen. Your income, minus taxes, minus living, minus debt, gives you your surplus, and your surplus drives your reserve funding, your contribution routing, and your retirement date. A life event becomes future spending in the year you set, and that pulls from accounts, and it moves your retirement date and your confidence. And your return assumption drives your projected balances and your simulated paths, which is what sets your earliest date and your confidence number.
+A confidence number looks exact. Giving somebody a number like 82% from a few rough inputs would create false precision. It would also show the score before the person has the tools to improve it.
 
-Every walkthrough in this course is going to point at those same three things when a number matters. So any time you're looking at a number and you don't know where it came from, work those three questions and you'll find it.
+The first full confidence check belongs after the plan has been built.
 
-== YOUR EARLIEST RETIREMENT DATE ==
+== WHAT THE CONFIDENCE CHECK DOES ==
 
-The date tells you when. The confidence number tells you how sturdy that date is. And most tools only show you the date.
+At the end of the course, Orange Plan runs your full plan through 1,000 different market paths. Every path carries your real balances, income, spending, debts, taxes, contributions, life events, withdrawal order, and other saved plan decisions through the projection.
 
+Some paths are calm. Some stack bad years together. The app counts how many of the 1,000 paths funded the plan as written.
 
-Your earliest retirement date is the year your assumptions say you could stop working. I think of it as your freedom date.
+If 820 paths succeed, the confidence number is 82%. That does not mean there is an 18% chance you go broke. It means 180 of the 1,000 modeled paths did not fully fund the exact plan you gave it without an adjustment.
 
-And freedom means different things depending on where you're at. It might mean full retirement, it might mean work becoming optional, or it might mean stepping back to only the things that matter to you. Whatever version you're planning for, this date is when the plan says you could safely make that move.
+== THE TARGET CHANGES THE EARLIEST DATE ==
 
-One thing to understand about the date: it's deterministic. It runs your numbers forward using the average returns from your assumptions. One line into the future, no stress test. And real markets don't work that way — which is where the confidence number comes in.
+You will also set the confidence target that a retirement date has to clear. The default is 80%.
 
-== THE CONFIDENCE NUMBER ==
-
-The confidence number takes your entire plan and runs it through a thousand different simulated futures, each one with different market results, and then it counts how many of them succeeded.
-
-You'll see this called a Monte Carlo simulation, and that's the label on the button in the app. Don't let the name throw you. All it means is running your plan a thousand times instead of once, so you're looking at a range of outcomes instead of a single guess.
-
-A client asked me a sharp question about this once. He wanted to know whether it models a bad thing happening on top of another bad thing. Like, the price already dropped 50%, does any of those runs have it dropping another 30% from there?
-
-Yes. That's exactly what those thousand runs are for. Some of them are gentle, some of them stack a terrible year onto another terrible year, and a few of them are genuinely brutal. You're not looking at one guess about the future. You're looking at a spread of them, including the ugly ones.
-
-So if your confidence number is 82%, that means 820 of those thousand runs succeeded on your numbers.
-
-An 82% result means 820 of the 1,000 paths funded the plan as written. The other 180 fell short. Those paths tell you to test adjustments — spending a little less for a stretch, working a year longer, delaying a purchase. The score alone doesn't prove that one small change rescues all of them. And it isn't a forecast that you end up with nothing.
-
-== READING THE TWO TOGETHER ==
+Your finished earliest retirement date is not simply the first age where the average projection works. It is the first age where the 1,000-run check clears the confidence target you chose.
 
 The date tells you when. The confidence number tells you how sturdy that date is.
 
-Age 60 at 82% confidence is a real answer. Age 60 at 55% confidence is the same date on the screen with a much weaker plan behind it. So you want to look at both. A high confidence number, with a date you can live with — that's what we're building toward.
+An earlier date at 55% confidence can be a weaker plan than a later date at 80%.
 
-== WHAT THE SIMULATION IS ACTUALLY RUNNING ==
+== WHERE EVERY NUMBER COMES FROM ==
 
-Let me show you what the simulation is actually doing, because it's more than shuffling one portfolio return.
+Every important output has three questions attached to it. What is it calculated from? Where do I edit the source? And what does it affect downstream?
 
-Every one of those thousand futures runs your entire plan. It starts from your real balances today — your Bitcoin, your brokerage, your retirement accounts, your cash. In year one, every asset gets its own return based on your assumptions and its historical volatility. Then your actual life runs: income comes in, taxes go out, spending happens, withdrawals happen in your order, contributions and debt payments happen. You land on new balances. Then year two starts fresh with new market returns, and it does it again. 45 years of that is one complete future.
+Your surplus comes from income minus taxes, living expenses, and debt payments. A life event becomes future spending in the year you set. A return assumption changes projected balances and every simulated path.
 
-Then it runs another 999 futures with different markets and counts how many succeeded. Running your real life inside every path is what makes the answer sensitive to your plan, and not just to your portfolio.
+The Build Your Plan guide points you to the page that owns each source. The walkthroughs show how to enter it. This keeps you from trying to fix an output by changing a calculated total somewhere else.
 
-== HOW TO READ YOUR NUMBER ==
+== WHAT HAPPENS NEXT ==
 
-Three things to keep in mind when you read yours:
+The next two videos replace the rough onboarding estimate with real Foundation data. You're going to enter your personal details, real accounts, and current holdings, and then review the assumptions the first estimate used.
 
-1. A high number means fewer adjustments. 82% doesn't mean an 18% chance of going broke. It means 180 of the 1,000 paths came up short under the plan exactly as written.
-2. Watch for big moves, not small ones. Small run-to-run changes aren't meaningful. If a change to your plan moves the number 5 or 10 points, that's the change telling you something.
-3. And the number is directional. It's a stress test built on research and history, not a guarantee.
+You are not going to enter income, debts, life events, Social Security, and tax history in the Foundation walkthrough. Those belong to the modules that teach what the numbers mean and how to verify them.
 
-You're going to run your own confidence ring for the first time in the walkthrough at the end of this module.
+And you are not going to run the full confidence check yet. Module 9 runs it after the plan is complete and then saves the first finished report.
 
 == YOUR DECISION ==
 
-Your decision here is what confidence level you're aiming for, and which lever you'd pull if you come in under it.
-
-Pick your target before you look at your number, so the number doesn't just talk you into whatever it already says. Then decide your lever in advance, because there are really only four: work a little longer, spend a little less, save more, or change your allocation. If you pick that now, a low number turns into a to-do item instead of a bad night. And remember 100 was never the goal. A very high number usually just means you're over-saving and under-living.
+Which part of the rough estimate is most likely to change when the real data is entered: the account balances, spending, debts, future costs, assumptions, or retirement income.
 
 == PUT IT IN ORANGE PLAN ==
 
-Plan → Retirement → guardrails policy, so the app knows what on track means for you.
+Open Build Your Plan and start with Foundation. Do not run the full confidence check yet.
 
 == YOU ARE DONE WHEN ==
 
-Your date and your confidence number are both on screen and you read them as a pair. If you're under where you want to be, you've named one lever you'd pull first. One, not four.
-
-Then watch the two walkthroughs below this video, where we set the plan up in Orange Plan and build your baseline.
+You can explain the difference between the onboarding estimate and the finished plan, and you know why the first 1,000-run confidence check waits until Module 9.

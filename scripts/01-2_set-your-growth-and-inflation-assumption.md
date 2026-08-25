@@ -1,109 +1,122 @@
 TELEPROMPTER SCRIPT — segment 1.2
 1.2 The three layers of a plan, and setting your assumptions
-~9.3 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~10 min at 155 wpm · AUSTIN DICTATION — revised 2026-08-25
 ============================================================
 
-In today's lesson, we're going to cover two things: the three layers every plan is built out of, and then your assumptions, which live in the second layer.
+In today's lesson, we're going to cover how your retirement plan is going to be built out and the three different layers that go into how the app works and how your retirement plan is going to work.
 
-== THE THREE LAYERS ==
+== LAYER ONE: YOUR BASELINE AND FOUNDATION ==
 
-🎬 GRAPHIC: three stacked bands, held on screen. BASELINE — true now. LIFE EVENT — expected change. SCENARIO — a question. One example under each.
+The first layer is your baseline. This includes all of the data and information that is true for your life right now: your current income, current spending, current assets, debts, and every other part of your financial life that is true today.
 
-You just gathered your baseline. Now you're about to start entering things that aren't facts yet, and if you don't have a way to keep those separate in your head, the plan gets muddy fast. So here are the three layers.
+After we have all of the data that is true today, there is another part of the foundation of your plan: the assumptions that we're making today about the future. These are things like what you feel is a conservative baseline for future asset performance, inflation, life expectancy, and what your future income or savings might grow at.
 
-The first layer is your baseline. This is what's true right now. Your income is $150,000. You have $30,000 in savings. You owe $18,000 on the car. No judgment, no prediction, just today.
+So the first layer has two parts: what is true now, and what assumptions the plan is going to use to project those facts forward.
 
-The second layer is life events. These are changes you genuinely expect. Tuition ends next year. A car gets replaced in six years. You retire at 62. You're not sure they'll happen exactly that way, but you'd be surprised if they didn't happen at all, so the plan should include them. Leave them out and your projection is wrong.
+That becomes the foundation that everything else is compared against.
 
-The third layer is scenarios. These are questions, not decisions. What if I retire three years earlier? What if Bitcoin does half of what I've assumed? Those live somewhere separate, because the moment you put a question into your plan, you've stopped having a baseline to compare anything against.
+== LAYER TWO: FUTURE LIFE EVENTS ==
 
-So, one line to keep: truth goes in the baseline, expected changes go in life events, and questions go in scenarios.
+The second layer is future life events. These are things that you genuinely expect to happen in the future and that you can reasonably predict as a future expense or income change.
 
-There's a second distinction that trips people up in the same way, and it's worth naming now. Your current cash flow tells you what's available this month. The projection tells you where this month's pattern leads if you keep repeating it. Those are two different screens answering two different questions, and this is not a budgeting app that wants you to categorize every coffee forever. You give it the pattern, and it shows you where the pattern goes.
+They might not be happening now, but you have a high level of confidence that they're going to happen. Some examples are future college payments, how your spending might change in retirement, a new car you're planning to purchase, a house you're planning to purchase or sell, a future change in your job or income, or long-term care expenses later in retirement.
 
-== PREVIEWS VERSUS YOUR ACTUAL PLAN ==
+Adding these things to your plan gives the projection a more accurate picture of the amount of money you're going to need and what your realistic retirement date might be.
 
-🎬 GRAPHIC: two panels. LEFT, a screen with numbers mid-change, labelled PREVIEW — nothing saved. RIGHT, the Plan page, labelled YOUR PLAN — the plan of record. An "Apply to plan" arrow is the only thing crossing between them.
+== LAYER THREE: SCENARIOS ==
 
-And there's a third distinction, which is the one people actually get bitten by, because this one is about the app rather than the plan.
+The third layer is scenarios. These are hypotheticals about the future.
 
-A lot of screens in Orange Plan will show you what a change would do before you've decided anything. You click a chip, or set a schedule, or compare two strategies side by side, and the numbers on screen move. That is a preview. It's a sandbox. Your plan has not changed.
+What if you retired three years earlier than what you're planning on? What if Bitcoin does half of the returns you think it will? What if you buy a bigger house? What if you move to another state?
 
-Your plan changes when you click Apply to plan. Until you do, you're only looking. And there's usually a Revert sitting right next to it to walk it back.
+These questions live somewhere separate in the app because when you start changing your baseline information just to see what might happen, the lines between the three layers can get crossed.
 
-So the rule is short: if you didn't click Apply, it didn't happen.
+The Scenarios page lets you compare your current plan to different potential futures without changing the baseline underneath you.
 
-And your real plan, the one everything else gets measured against, lives on the Plan page. That's your plan of record. Everything else you'll see is either a preview of a change you haven't committed to, or a scenario you're deliberately keeping to one side.
+Don't feel like you need to constantly make changes to your baseline information just to test an idea. We want to get the information in the first layer right so we can make accurate comparisons with hypothetical futures in the third layer.
 
-Once you know that, you can go poke at anything in this app without worrying that you've quietly wrecked something.
+To keep it simple, the truth and the assumptions used by the plan belong in your baseline and foundation. Expected changes that you have a high level of confidence will happen go into life events. Questions and comparisons about the future go into scenarios.
 
-== YOUR ASSUMPTIONS ==
+== CURRENT CASH FLOW VERSUS THE PROJECTION ==
 
-Now the second layer, assumptions, which are the inputs about the future your plan treats as truth.
+Orange Plan is meant to project what your future retirement plan might look like. It isn't mainly a current-day budgeting app.
 
-Every projection in your plan is built on top of these numbers, so getting them right, or at least honest, matters more than any other single decision you're going to make. There are six of them: your investment returns, including Bitcoin, inflation, your spending now and in retirement, your life expectancy, your savings rate, and any future life events that change your income or spending.
+You do have the ability to link or import your accounts on the Cash Flow page. That gives you an up-to-date baseline of what your spending and cash flow look like today. The projection then carries that current pattern forward.
+
+If you expect your spending, income, or job situation to change in the future, you can make that adjustment in the life-events section instead of rewriting what is true today.
+
+== WHY THE ASSUMPTIONS MATTER ==
+
+The assumptions that you make about the future are going to inform almost every other decision in your plan, including tax planning, which accounts you contribute to, how much you need to save, how you allocate your money, and how you take money out and live off Bitcoin and other assets in retirement.
+
+Every projection and number in your plan is built on top of these inputs, so getting them right, or at least as close to honest as possible, matters more than picking the number that gives you the answer you want.
+
+The main inputs about the future include your investment returns, including Bitcoin, inflation, current and retirement spending, life expectancy, your savings rate before retirement, and future life events that change income or spending.
 
 == LEAN CONSERVATIVE ==
 
-The first principle here is to lean conservative.
+I think one of the most important things is to lean conservative when it comes to Bitcoin and other assets and what their returns are going to be.
 
-Optimistic assumptions make the plan feel good today. The problem is that if they're wrong, you find out years later, with the working years already spent. Being conservative means you might be pleasantly surprised. Being optimistic means you might have to work longer than you thought, or spend less in retirement than you planned.
+If we make assumptions that are too optimistic, it's going to make you feel good about where your plan is today. The problem is that if they're wrong, you might not find out until years down the road.
 
-If you use high Bitcoin returns, the plan is going to pull your retirement date closer and tell you to save less. And that's not a plan — that's a wish.
+Being conservative means you might be surprised to the upside and give yourself the ability to retire earlier or spend more. Being optimistic means that if you're wrong, the consequences can be working longer than you thought or not having the ability to spend what you really want to in retirement.
 
-== HOW MUCH ONE ASSUMPTION CAN MOVE THINGS ==
+== ONE INPUT CAN MOVE THE DATE BY YEARS ==
 
-Let's walk through an example. Let's say that we have someone who's 45, holding 1.75 Bitcoin, and spending $80,000 a year.
+Let's say we have someone who is 45 years old. They're holding 1.75 Bitcoin and spending around $80,000 a year.
 
-If you run Bitcoin at 40% forever, which is a deliberately optimistic number, their earliest retirement lands around age 50.
+If we were to set Bitcoin's returns at a flat 40% forever, this might land their earliest retirement age around 50. If we run Bitcoin at a 20% declining rate as adoption grows, the retirement date might move from 50 to 58.
 
-Now run Bitcoin at 20%, declining as adoption grows. The retirement date moves to around age 58.
+That's a difference of eight years from one input changing.
 
-That's 8 years, from one input. Nothing else about their situation changed.
+This is why it's important to think through what you personally feel is a conservative and realistic way to model Bitcoin in the future. The goal isn't to choose the model that gives you the earliest date. The goal is to choose the model you can defend.
 
-== THE FOUR BITCOIN PRESETS ==
+== THE FOUR BITCOIN MODELS ==
 
-The app has four built-in growth curves, and you'll see them on screen when we get to the walkthrough. There's Conservative, which starts around 20% and declines toward 6%. Moderate, starting around 30%. Aggressive, which starts higher and declines more slowly. And Power law, which is a curve fitted to Bitcoin's entire price history going back to 2009.
+The four main default settings in the app are Conservative, Moderate, Aggressive, and Power law.
 
-Power law is what I use in my own plan until proven otherwise. Because it's fitted to the actual history, it kind of takes the argument out of picking a number.
+Conservative starts around 20% and declines toward about 6% over time. Moderate starts around 30%. Aggressive starts higher and declines more slowly. Power law uses a price curve fitted to Bitcoin's history going back to 2009 and extends that declining shape into the future.
 
-Now, every single preset declines over time. And the reason is that as Bitcoin gets larger, it gets harder to move. When Bitcoin was a $10 billion asset, one big institution could move the entire market. At a trillion dollars, doubling takes trillions of new dollars coming in. At $10 trillion, it takes tens of trillions. So a declining growth curve is just more honest than assuming a flat return for 30 or 40 years.
+All of the presets decline over time. As Bitcoin gets larger, it gets harder to move as an asset class. When Bitcoin was a $10 billion asset, one large institution or news event could move the entire market. At a trillion dollars, doubling takes trillions of new dollars. At $10 trillion, it takes tens of trillions.
+
+A declining growth curve is more honest than assuming a flat CAGR across a 30- or 40-year retirement plan.
+
+If you want to create your own returns, the advanced assumptions panel lets you build custom return windows for Bitcoin and the other assets in your plan.
+
+I personally like using power law as a model, although any model is only a tool for making a projection. It isn't a guarantee. Moderate is a step down if you want to be more conservative, and Conservative is there if you want to use a much lower growth path.
 
 == INFLATION ==
 
-Inflation sounds like nothing, but it does a lot of damage over time.
+The next assumption is inflation.
 
-If you're spending $80,000 a year today, at 3% inflation, that same lifestyle costs about $125,000 a year 15 years from now. At 4%, it's about $144,000. That's roughly $20,000 more, every single year, from one percentage point.
+If you're spending $80,000 a year today, at 3% inflation that same lifestyle costs about $125,000 a year 15 years from now. At 4%, it's about $144,000. That's roughly $20,000 more every year from moving the assumption one percentage point.
 
-The default in the app is 3%. If you think inflation is going to run hotter than that going forward, push it to 4 or 5. I personally run mine in that range.
+The default in the app is 3%. Think through what you believe is realistic instead of leaving the default simply because it was already loaded.
 
 == THE OTHER ASSETS ==
 
-Bitcoin gets the most attention because it moves the plan the most, but the app also has return assumptions for stocks, bonds, and cash. Those default to reasonable numbers, and you can revisit them later if you want to run something more conservative.
+Orange Plan also has return assumptions for stocks, bonds, cash, and other assets. These begin with reasonable defaults, and you can revisit them later if you have a reason to use something more conservative or build a custom assumption.
 
-== HOW TO CHOOSE YOURS ==
+This is a personal decision. I think the numbers should be realistic and not emotion-driven.
 
-So how do you choose? Four things to keep in mind:
+== HOW TO CHOOSE ==
 
-1. Start conservative. If the plan works on a conservative assumption, the upside becomes a bonus.
-2. Use a declining Bitcoin return. Flat returns aren't realistic across a 30 or 40 year plan.
-3. Take inflation seriously. Push it above 3% if the last few years told you to.
-4. And pick something you can live with if you're wrong. The right assumption still holds up if the future doesn't cooperate.
+1. Start conservative. If the plan works on a conservative assumption, the upside from Bitcoin or the other assets becomes a bonus.
+2. Use a declining Bitcoin return. A flat CAGR isn't realistic across a 30- or 40-year retirement plan.
+3. Take inflation seriously. Think through whether 3% is enough for the plan you want to run.
+4. Pick assumptions that you can live with if the future turns out worse than expected.
+5. Later, test a bullish or more conservative scenario without changing the baseline.
 
-You're going to get to change these later and see what your plan looks like under different assumptions. For now, we're setting the ones your baseline actually runs on — and we'll do that in the walkthrough at the end of this module.
+The return assumptions can drastically change decisions about which accounts you contribute to, where you allocate money, Roth conversions, and how you live off Bitcoin in retirement. That's why we set the baseline model first and use scenarios for the alternatives.
 
 == YOUR DECISION ==
 
-So your decision out of this lesson is which growth model and which inflation number your plan is going to run on.
-
-Start with what you'd actually defend out loud, because if you can't explain why you picked a curve, then you didn't really pick it, you just left whatever the app had loaded. Then ask yourself which way you'd rather be wrong. If you're conservative and you're wrong, you just retire earlier than the screen said. If you're optimistic and you're wrong, the whole plan was built on something that didn't happen. And set inflation to what you actually believe, not whatever the default is, because your future spending rises with that number.
+Which growth model and inflation number your plan is going to run on, and why.
 
 == PUT IT IN ORANGE PLAN ==
 
-Plan → Retirement → Edit assumptions. Set growth and inflation, and leave the defaults only if you'd defend them.
+Hold that decision for the walkthrough after this lesson. You're going to review the growth model selected during onboarding, set inflation and the other assumptions, and save them once. This lesson makes the decision. The walkthrough handles the clicks.
 
 == YOU ARE DONE WHEN ==
 
-You could say out loud why each assumption is the number it is. That's the same standard the report's assumptions section is held to, and it's the one that catches a number you picked because you liked the answer.
-
-And you know where your plan of record lives, which is the Plan page, and you know that nothing you do on any other screen counts until you click Apply to plan.
+You have a clear idea of which growth model and inflation number your plan is going to run on, and you could defend both of them to a family member without pointing at the retirement date they produced.

@@ -1,5 +1,10 @@
 # Walkthrough: route it in Orange Plan
 
+<!-- PLAN-LIFECYCLE:LESSON-TEXT -->
+
+This walkthrough uses the real accounts and holdings entered in Foundation, then completes the Allocation area in Build Your Plan.
+
+
 Follow along with the video (~20 minutes). Prerequisites: a salary income source entered for the 401(k) owner, and surplus routed into waterfall step 3.
 
 1. **Reality check on Dashboard**: fix stale holdings; flip the $ / ₿ toggle once and read your net worth in Bitcoin.

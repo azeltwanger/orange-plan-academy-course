@@ -1,5 +1,10 @@
 # Walkthrough: build the paycheck in Orange Plan
 
+<!-- PLAN-LIFECYCLE:LESSON-TEXT -->
+
+Retirement spending, Social Security, and the withdrawal order are entered and applied here, not during onboarding or Foundation.
+
+
 Follow along (~20 minutes). Requires the plan in the retirement phase; run the Monte Carlo once first.
 
 1. **Confirm spending**: Plan → Retirement → Baseline spending ($/yr; the only inline edit point). Healthcare + lumpy in, debt payments out.

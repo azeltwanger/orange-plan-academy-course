@@ -162,3 +162,19 @@
 - [ ] Reserve sits first in the waterfall
 
 **END**
+
+<!-- PLAN-LIFECYCLE:MODULE-2 -->
+### Build Your Plan handoff
+
+This is the first place the full income and spending data gets entered. Module 1 gathered the records; it did not build Cash Flow.
+
+Before leaving the walkthrough, return to **Build Your Plan → Cash flow & reserve**. The area is complete when income, living expenses, the reserve target, and expected life events are recorded, or **Nothing major coming** is selected truthfully.
+
+<!-- PLAN-LIFECYCLE:LIFE-EVENTS -->
+### Step 8b: Add expected life events
+
+**DO** Plan → Retirement → Life events → Add event.
+
+Add the dated expenses or income changes you genuinely expect. If there is nothing major coming, return to Build Your Plan and choose **Nothing major coming** rather than leaving the area ambiguous.
+
+⚠ Life events are expected changes. Hypothetical questions stay in Scenarios.

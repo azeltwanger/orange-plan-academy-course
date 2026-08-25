@@ -1,55 +1,68 @@
 TELEPROMPTER SCRIPT — segment 1.1
 1.1 What to gather before you build the plan
-~7 min at 155 wpm · AUSTIN DICTATION (PARTIAL — items 4-7 still to dictate)
+~8 min at 155 wpm · AUSTIN DICTATION — revised for Build Your Plan
 ============================================================
 
-In today's lesson, we're going to cover the documents that you're going to need to gather before you start building your financial plan.
+In today's lesson, we're going to cover the documents and information that you're going to need to gather before you start building your full financial plan.
 
-This part is extremely important because every decision that we make in later modules and lessons is downstream and can be based off of all of the data that we put into the model to begin with. Taking the extra time to be accurate up front is going to save you from making misguided decisions based off of guesswork and data that's not up to date and accurate.
+Onboarding only asked for enough information to give you a starting estimate. It did not add every real account, debt, life event, or tax record. The Build Your Plan guide is going to take you through those pieces in the right order, and each module walkthrough is going to enter the information that belongs to that part of the plan.
 
-Every number that comes out of your plan is only as good as what you put in it. If your spending number is just a rough guess, if what you need to spend in retirement and what you're currently spending month to month today is a rough guess, your retirement date is also going to be a guess. Another example: if your transaction history or your cost basis is missing, this can affect your tax calculations and prevent you from having as accurate numbers as we possibly can.
+This part is extremely important because every decision that we make later is downstream from all of the information that goes into the model. Taking the extra time to be accurate up front is going to save you from making misguided decisions based off of guesswork or data that isn't up to date.
 
-Taking 30 minutes to an hour now to gather all of this information can be a really valuable exercise in getting organized, because most people that I work with are not organized when it comes to their personal finances. Just taking the time to go through this and gather everything so that we can put all of it together in one place to make smart decisions is beneficial for you. I know it can be a little bit of a pain, but it's definitely worth it.
+Every number that comes out of your plan is only as good as what you put into it. If your spending number is just a rough guess, your retirement date is also going to be a guess. If your transaction history or cost basis is missing, this can affect your tax calculations and prevent you from having as accurate a picture as possible.
+
+Taking 30 minutes to an hour now to gather all of this information can be a valuable exercise in getting organized. I know it can be a little bit of a pain, but it's definitely worth it.
 
 == WHAT TO GATHER ==
 
-1. Your income. You want recent pay stubs so you can verify what's coming in per period and then what's coming in every year. If you own a business, you're going to want to include every stream of income that you have. If you have multiple businesses, if there are two earners, if you and your spouse both work, you're going to want to include pay stubs for both of you and earnings and income from both of you. This includes things like businesses, rental income, and investment dividends that you get.
+1. Your income. You want recent pay stubs so you can verify what's coming in per period and what that adds up to every year. If you own a business, include every stream of income. If there are two earners, include both. This also includes things like rental income and recurring investment income.
 
-2. Your spending. As a rule of thumb, I like to use the last 3 months as a reference for about what you spend every month. A rough number here is fine to start with. Once you link your accounts in the app, the exact figure is going to be calculated for you, so you don't have to go digging through all of your credit cards and expenses. If you don't do that, then I would recommend going through all of your spending accounts or credit cards to get a more exact figure of what you're spending every month.
+2. Your spending. As a rule of thumb, I like to use the last three months as a reference for about what you spend every month. A rough number is fine to start with. In the Cash Flow module, you can link or import account activity and compare the number in the plan to what actually happened.
 
-3. Your assets. This is going to be every account and asset that you own. What I recommend is opening each one in a separate browser tab as you go through onboarding so you don't miss any of your accounts. This step is going to be just an inventory of all of your assets: every account and what the current balances are. This includes things like your house. You can use Zillow or an estimate of what your house might be worth in your neighborhood or area. This includes things like your pension and retirement accounts, brokerage accounts, Bitcoin, hardware wallets, exchange accounts, and anywhere where you might have dollars, checking, and savings as well.
+3. Your assets and accounts. This is every account and asset that you own. I recommend opening each one in a separate browser tab when you reach the Foundation walkthrough so you don't miss anything. This includes checking, savings, retirement accounts, brokerage accounts, Bitcoin on hardware wallets, exchange accounts, collaborative custody, and anywhere else you keep money.
 
-============================================================
-NOT YET DICTATED — placeholder text below, kept only so nothing is lost.
-Replace when Austin records items 4-7 and the homework.
-============================================================
+4. Your debts. These are things like your credit cards, your mortgage, auto loans, student loans, and any other debt that you might have. For each one you want the current balance and the interest rate. To make sure these are accurate, log in wherever the loans are stored and check both of them. The rate that you might have in your head might be different from what it is now. If you have a variable interest rate, the rate you're paying today might not match what you remember.
 
-4. Your debts. Credit cards, mortgage, auto, student loans, anything else. For each one, you want the current balance and the interest rate. And actually log in and check both, because the rate on paper from a few years ago isn't necessarily what you're being charged today.
+5. Your employer benefits. This is anything that your employer is going to contribute toward your retirement plan or your financial life. This includes the match on your 401(k), any pension you might have in retirement, deferred compensation, or stock compensation. There can be a few different ways employers do the match. It might be a set percentage, or it can be 50% of what you contribute up to 6% of your pay. A lot of the time these rules are listed inside your employer retirement account or benefits portal.
 
-5. Your benefits. This is anything your employer contributes toward your future — the match on your retirement plan, any pension or deferred comp. For the match, you want the formula, not just a percentage. 50% up to 6% of pay is a different thing than a flat 3%.
+6. Future life events. These are known costs or income changes that you might have coming up and that we're going to enter into your plan later. This includes things like paying for your kids' college, buying a new car, plans to sell your house and buy another one, or a future change to your income. There are not necessarily any documents that you need for this one. I think it's just important to start thinking about what might be coming up in the future.
 
-6. Future life events. Any known costs coming up — kids' college, a new car, a new house. There's no documents needed for this one. Just start thinking through what's on the horizon.
+7. Your cost basis. This is the most difficult one to track down, so I think it's important to start now. Cost basis is just a fancy way of saying your purchase history for the assets that you hold: what you bought, when you bought it, how much you bought, and what you paid.
 
-== COST BASIS — START THIS ONE NOW ==
+The app uses this information to model what your future tax liability might be. Knowing what prices you actually paid can give you a more accurate picture of what taxes you're going to owe and can help inform some of the decisions you're making when it comes to retirement planning.
 
-7. The last one is cost basis, and this is the hardest one, so it's the one to start on now.
+Your Bitcoin purchase history is going to live across the exchange accounts you use today and the ones you used in the past. Sometimes exchanges do not keep all of your history forever. If you cannot access all of it, that's okay.
 
-Cost basis is the price you paid for each asset. The app uses it to model your tax liability, and knowing what you actually paid for your Bitcoin can save you real money and give you an accurate picture of what you'll owe.
+I think it's important to upload as much as you reasonably can. Go to your exchange accounts and download the CSV files that include your transaction history. This also applies to brokerage accounts. If you have a Fidelity account, for example, you can download the purchase history as an Excel or CSV file.
 
-Balances and rates you can pull today. Basis lives in old exchange records and accounts you may have closed, and it gets harder to recover every year.
+I would recommend pulling up all of the exchange accounts and brokerage accounts that you have used in the past, downloading the files in one session, and saving them in one folder on your computer. We're going to come back to them in the Tax module, where the historical transactions and cost basis actually get entered and reviewed.
 
-So for Bitcoin, go into every exchange you've ever used and download the transaction history. It's usually a CSV or an Excel file. And for your brokerage and retirement accounts, every brokerage has a transaction history export.
+== WHEN EACH PART GETS ENTERED ==
 
-Save all of it into a folder, because you're going to come back to these files every time you update the plan.
+Gathering everything now does not mean entering everything in this module.
+
+Foundation enters your personal details, real accounts, and current holdings.
+
+Cash Flow enters and verifies income, spending, the reserve, and expected life events.
+
+Debt enters every debt with its current balance, rate, and payment.
+
+Tax imports historical transactions and reconstructs cost basis.
+
+Retirement Income enters retirement spending, Social Security, and the withdrawal strategy.
+
+Run Your Plan performs the first full 1,000-run confidence check after the plan is built.
+
+If you'd rather gather this information as you go through each step, that's totally fine. I just think it's easier to get everything in one place first so you're not tracking it down in the middle of every walkthrough.
 
 == YOUR DECISION ==
 
-What you're going to gather, and by when.
+What you're going to gather now, and what you're going to leave for the module that owns it.
 
 == PUT IT IN ORANGE PLAN ==
 
-Nothing yet. This one is a shoebox, not a screen. The walkthrough enters it all.
+Nothing yet. This lesson is the gathering step. The Foundation walkthrough uses your personal details, account list, and current holdings. Everything else stays in the folder until its module.
 
 == YOU ARE DONE WHEN ==
 
-Every account, balance, income source and debt is written down in one place, and the totals match what you'd tell a planner out loud.
+You know where the information is, your real account list and current balances are ready for Foundation, and the income, spending, debt, employer-benefit, life-event, and cost-basis records are organized for the modules that follow.

@@ -249,6 +249,11 @@ Then watch the walkthrough below this video, where we give every debt a job in O
 - Set a job on every ledger row, with a reason
 - Route extra dollars and run the debt AI review
 
+<!-- PLAN-LIFECYCLE:MODULE-3 -->
+### Build Your Plan handoff
+
+The debt documents were gathered in Module 1. This module is where the debts become plan data. Return to **Build Your Plan → Debt** and confirm every active debt has its current balance, rate, and payment, or record **I have no debts** truthfully.
+
 <!-- ADVANCED-GATE:START -->
 
 ## Related advanced lessons

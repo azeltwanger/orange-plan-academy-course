@@ -13,7 +13,7 @@ then M1–M9) in course order. The optional library lives in `MASTER-ADVANCED.md
 <!-- METRICS:START -->
 | | Lessons | Runtime |
 |---|---|---|
-| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **243 min (4.1 h)** |
+| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **242 min (4.0 h)** |
 | **Advanced Library** — optional, gated per lesson | 14 teach | 106 min |
 
 Plus 11 core screen captures (10 walkthroughs + 1 external demo),
@@ -51,7 +51,7 @@ because it is the VOICE-GUIDE calibration master and his words are the record.
 
 ## 0.1 How to use this course
 
-*`TEACH` · 957 words · ~7 min*
+*`TEACH` · ~1,670 words · ~11 min*
 
 **By the end of this lesson, you can:**
 
@@ -107,23 +107,25 @@ Then it keeps answering it. When you get a raise, the date moves. When Bitcoin r
 
 Start Here, then nine planning modules, in the order I'd take a real client through.
 
-1. **Module 1: Baseline.** Your numbers, your assumptions, and your first confidence read.
+1. **Module 1: Foundation.** Replace the rough onboarding estimate with your real personal details, accounts, holdings, and assumptions.
 2. **Module 2: Cash flow.** Your surplus and how to protect it.
 3. **Module 3: Debt.** Every debt gets a job, and you set the level you won't go past.
 4. **Module 4: Where the money goes.** Allocation, asset location, and the next dollar.
 5. **Modules 5 and 6: how you use it.** Tax strategy and retirement income.
 6. **Modules 7 and 8: how you protect it.** Custody and estate.
-7. **Module 9: how you keep it alive**, about five minutes a month, plus scenarios and reading your finished plan.
+7. **Module 9: run, test, and maintain the finished plan** — the first full confidence check, scenarios, the yearly report, and the five-minute monthly rhythm.
 
-Each module has two kinds of lessons. Teach lessons explain the concept with a real worked example. Walkthroughs put it into the app step by step. Some modules include worksheets. For the sensitive ones like the custody map and heir letter, print them and fill them out with pen and paper.
+Each module has two kinds of lessons. Teach lessons explain the concept and help you make the decision. Walkthroughs put that decision into the app step by step. Build Your Plan is the checklist that shows whether the underlying data is actually complete. Some modules include worksheets. For the sensitive ones like the custody map and heir letter, print them and fill them out with pen and paper.
 
 Go in order the first time. After that, come back to any lesson as your life changes.
 
+Orange Plan's onboarding is intentionally short. It gives you a starting retirement estimate from a few rough numbers. It does not build the full plan. After onboarding, open **Build Your Plan**. Each course module completes the matching area, and the first full confidence check happens after those areas are built.
+
 ##### The rule the whole course runs on
 
-Build the plan this week with numbers that are approximately right, then refine them as you go. Every lesson is finishable in one sitting so the plan actually gets built.
+Onboarding gets a rough estimate on screen quickly. Then each module replaces the rough part it owns with real data and a real decision. Every lesson is finishable in one sitting so the plan actually gets built.
 
-Don't try to be optimal before you're accurate. The most common failure mode is spending three months reconstructing exact cost basis before running the first confidence check. Get the plan standing first. Refine after.
+Don't try to be optimal before you're accurate. The most common failure mode is spending three months reconstructing exact cost basis before the rest of the plan exists. Get each area standing in order. The first full confidence check comes after the build, in Module 9.
 
 A module a week is a good pace when you're starting. Don't binge them back to back. Each one ends with a decision or an action, and the plan builds on itself one piece at a time.
 
@@ -135,7 +137,15 @@ Have these in front of you.
 - Roughly what you spend in a month.
 - A list of what you own and what you owe, including how much Bitcoin, and where it's held.
 
-Rough is fine. Module 1 walks you through gathering them accurately.
+Rough is fine for onboarding. Module 1 replaces the account estimate with real Foundation data, and the later modules enter the income, spending, debt, tax, and retirement details where they belong.
+
+##### Who this course is built for
+
+This course is built on US rules. The Tax module uses US federal and state tax law. The Estate module uses US legal roles, documents, probate, and trust rules. Parts of Retirement Income also use US programs and account rules, including Social Security, Medicare, and the treatment of retirement accounts.
+
+The rest of the planning framework travels: cash reserves, allocation, debt ratios, custody, retirement math, scenarios, and the review process.
+
+Orange Plan models values in US dollars, and its tax engine is US federal plus state. If you live outside the US, you can still build the plan and use the same decision framework, but take the tax and estate sections to a qualified professional in your country to map the local rules.
 
 See you there.
 
@@ -143,336 +153,422 @@ Austin
 
 ---
 
-## 0.2 How the AI works: what it reads, what it never sees
+## 0.2 How to use Orange Plan AI
 
-*`TEACH` · ~938 words · ~6 min*
+*`TEACH` · ~1,070 words · ~7 min*
 
 **By the end of this lesson, you can:**
 
-- Explain what the AI reads and what it never sees
-- Know that the app does the math and the AI explains it
-- Ask from the page relevant to the decision
-- Decide whether to turn memory on, and never break the one rule
-
-> The model, provider routing, data-status labels, tool and workflow counts,
-> memory cap, daily limits, and course-knowledge status are all in the lesson
-> text, not spoken. They are product specifications that change faster than a
-> recorded video can.
+- Know what the main AI buttons do and where to start
+- Use the daily Bitcoin report instead of checking five different places
+- Use AI to review your plan as the numbers change and surface missing decisions
+- Download a privacy-scrubbed plan file for another AI when you prefer
+- Follow the one rule about what never goes into an AI
 
 ---
 
-In today's lesson, we're going to cover the AI that's built into Orange Plan: what it does, what it never sees, and the one rule you follow every time you use it.
+In today's lesson, we're going to walk through how to actually use the AI inside Orange Plan.
 
-In the top bar there's a button called AI Review, the one orange pill up there. Clicking it opens a panel called Plan Guide, which lives in the app rather than on any one page, so it opens from anywhere. It's included for every signed-in user.
+The useful question is not everything the AI cannot do. It is how it can help you understand and improve the financial plan you are building.
 
-### The AI does not do your math
+### Start with AI Review
 
-This is the thing that makes the numbers trustworthy, so I want to say it before anything else.
+The orange **AI Review** button in the top bar opens **Plan Guide**. It opens from anywhere in the app, and the conversation stays there while you move between pages.
 
-Your surplus, your reserve status, your payoff dates, your loan cushion, your spending target, your success rate, your income floor. All of those come out of the same projection engine that draws your charts. The AI reads those numbers and explains them. It's specifically instructed never to redo arithmetic the app already did, and if it ever does calculate something itself, it has to label that as an estimate.
+The first option changes based on the page you are on. That is intentional.
 
-So when it tells you your surplus is $2,400 a month, that's your app's number, not the model's guess.
+- On Cash Flow, it can help you review the month and route your next dollar.
+- On Debt, it can review the jobs and risks attached to your loans.
+- On Allocation, it can review your portfolio and the timeframes you are funding.
+- On Tax, it can help identify tax windows worth modeling.
+- On Retirement Income, it can compare the trade-offs in your paycheck strategy.
+- On Scenarios, it can explain why a what-if produced a different result.
+- On Protect, it can help draft an heir letter without putting secrets in it.
 
-It's also told to use only the plan data it was given. If something important is missing, it says what's missing instead of filling in the blank.
+Each one loads the part of your plan and the planning framework that matches the decision you are looking at. Asking from the page you are working on gives it more useful context than opening a generic chat and explaining everything from scratch.
 
-### What it reads, and what it never sees
+A few prompts that are useful at almost any point:
 
-It doesn't get a copy of your whole plan. It gets targeted context for whatever you're asking about, and if it needs more, it asks, and your own browser answers with only the rows it asked for.
+- Review my full plan and tell me the three most important things to focus on.
+- What changed after the numbers I just updated?
+- What information is missing or stale?
+- What am I not thinking about before I make this decision?
+- Compare these two choices and explain the trade-offs in plain language.
+- What should I model before I take this question to my CPA, attorney, or planner?
 
-The part worth knowing is what it never gets.
+The app does the calculations. The AI reads those results and explains them. When it quotes your surplus, taxes, loan-to-value, retirement date, or confidence number, it is reading the same calculation engine that draws the page. It is not rebuilding your plan from scratch inside the chat.
 
-Your raw transactions never leave your browser. They're stripped out of every request, every time. It sees your spending summarized and counted, never line by line.
+### The daily Bitcoin report
 
-On the Protect page, it never gets names, contact details, the contents of your heir letter, who holds what for recovery, or where anything is stored. It gets completion status only, so it can tell you your beneficiary row is empty without ever knowing who's in it.
+Inside Plan Guide, under **Market brief**, click **Run daily Bitcoin report**.
 
-On linked accounts, it never gets institution names, account names, account numbers, or exact balances.
+The goal is to replace doomscrolling with one clean read that takes less than two minutes. It checks the parts of the Bitcoin market that are actually worth following:
 
-And it actively blocks secrets. One of the estate tools lets the AI help you draft a document, and before it does, it scans what you typed for anything that looks like a secret: recovery words, a private key, a PIN, a safe combination. Find one and it refuses to draft until you take it out. Those terms will all mean something specific to you by the custody module; today the only thing to take away is that the app is actively watching for them.
+- the current price and the move over 24 hours, 7 days, 30 days, and one year
+- how far Bitcoin is from its prior all-time high
+- ETF flows and any fund-level outlier
+- newly reported Bitcoin purchases or sales by public companies, including how they paid for them
+- the most useful on-chain change for that day
+- futures, leverage, funding rates, liquidations, and options when they matter
+- interest rates, the dollar, inflation data, Federal Reserve expectations, and other macro pressure
+- material custody, regulation, exchange, mining, or industry news
+- one thing that sounds important but probably does not change the read
+- the two data points worth watching next
 
-### The one rule
+When plan context is available, the report ends with a short **Your plan** section. That section is not a trading call. It answers the more useful question: did today's market move change anything you actually need to do in your financial plan?
 
-Which brings me to the rule, and it's the only thing in this lesson you have to memorize.
+For most days, the answer should be no. Staying informed and changing the plan are two different things.
 
-Never put a seed phrase, a private key, a wallet backup, a passphrase, a PIN, a password, a full account number, or a Social Security number into any AI. Not this one, not any other one.
+### Use it while the plan changes
 
-And if you've already done it somewhere, treat that material as compromised and move the funds to a newly generated wallet.
+The AI becomes more useful as the plan becomes more complete.
 
-### Ask from the page you're standing on
+When you replace the rough onboarding estimate with your real accounts, ask what changed. After you enter spending, ask whether that number looks consistent with the rest of the plan. When you add debts, ask what is creating the most fragility. When you set allocation targets, ask what could force a sale during a major drawdown. When you reach retirement income, ask which inputs are driving the result the most.
 
-Several pages have their own AI button, and they're not shortcuts to the same thing. Each one loads a different set of instructions and a different piece of the knowledge base. A tax review loads the tax knowledge and gets held to tax-specific rules, like not suggesting a Roth conversion when there's no pre-tax balance in your plan to convert. A cash flow review loads the cash flow knowledge instead.
+You can also ask it to find blind spots. A useful review may surface:
 
-So the practical version is: ask from the page relevant to your decision, and you get the version built for it.
+- missing cost basis
+- an account with no clear timeframe
+- a future expense that is not in the projection
+- a Social Security amount that is still a guess
+- a debt with an outdated rate
+- a decision that was previewed but never applied
+- a result that is stale because the inputs changed afterward
 
-### It gives options, you decide
+The goal is not to have the AI make every decision for you. The goal is to understand what the plan is showing, what is missing, and which trade-off you are accepting before you act.
 
-Every review comes back framed as options with trade-offs. It won't tell you that you should do something, it won't tell you to sell, convert, borrow, or buy, and it won't predict Bitcoin's price. It also won't quote you a current tax bracket or contribution limit from memory, which is deliberate, because those change and the app has the current ones.
+### Use your preferred AI
 
-One thing people assume it won't do that it will: tax math. Every kind of tax comparison this course teaches later is in bounds, and it'll run the arithmetic for you. The line is filing and executing, not calculating.
+You do not have to use the built-in assistant for every review.
 
-There's also a memory toggle in Preferences, and it starts off. What it remembers is how you think, not what you own: prefers borrowing over selling Bitcoin, wants to be work-optional by 55. It's blocked from storing balances, account numbers, and secrets. Turn it on if you'll use the AI regularly and you'd rather not re-explain your situation every time. Leave it off if that makes you uncomfortable, and nothing about the reviews changes.
+Go to **Settings → Data & Privacy → Data & backups → AI Strategy Review Export**. The button **Download AI Review Markdown** creates a privacy-scrubbed file designed to give another AI a useful picture of where your finances stand today. There is also a full JSON option when structured data is useful.
 
-And the last thing, which I'm saying once here so I don't have to repeat it in every walkthrough: it reviews and it explains. You decide.
+This export is separate from the encrypted restore backup. It removes personal details, but you should still review the file before uploading it anywhere. You can then use it with ChatGPT, Claude, or another AI you prefer and ask the same kinds of questions: review the plan, identify missing information, compare options, or prepare questions for a professional.
+
+### Privacy and the one rule
+
+The app limits what the built-in AI receives. Raw transaction rows are removed from requests. The Protect tools send completion status rather than names, letter content, recovery assignments, or exact storage locations. The heir-letter workflow also blocks information that looks like a secret before a draft can be created.
+
+But the rule still belongs to you, and it applies to every AI, including an exported file:
+
+**Never enter a seed phrase, private key, wallet backup, passphrase, PIN, password, full account number, Social Security number, or backup-file passphrase into any AI.**
+
+If one has already been shared, treat it as compromised.
 
 ### Your decision
 
-Two decisions. Whether memory is on or off for you, and the one rule you never break.
+Which AI workflow you will use first, and whether you want to use the built-in assistant, the privacy-scrubbed export with another AI, or both.
 
-### Put it in orange plan
+### Put it in Orange Plan
 
-Click AI Review in the top bar so you know where it lives, then open Preferences inside Plan Guide and set memory deliberately.
+Open **AI Review**, run the daily Bitcoin report once, and then open the page-specific review for the page you are currently on. In Settings, locate the **AI Strategy Review Export** so you know where it is when you need it.
 
 ### You are done when
 
-You can say the one rule from memory: no seed phrase, private key, passphrase, PIN, or full account number goes into any AI, including this one.
+You have run one useful review against your own plan, you know where the daily report and export live, and you can say the one no-secrets rule from memory.
 
-The lesson text below has the technical detail, and it gets updated as the product changes. This video doesn't.
+# Unit 2 · Module 1 — Foundation: replace the estimate with real data
 
-
-# Unit 2 · Module 1 — Foundation: baseline, assumptions, and the confidence number
-
-*Gather the six pieces of your baseline, choose your assumptions (especially the Bitcoin growth number), understand the confidence ring that stress-tests your plan, run three scenarios, and know when a plan actually needs updating.*
+*Replace the rough onboarding estimate with real personal details, accounts, current holdings, and assumptions. Learn what the final confidence check will measure, but run it only after the whole plan is built.*
 
 ## 1.1 What to gather before you build the plan
-*`TEACH` · ~952 words · ~6 min*
+*`TEACH` · ~750 words · ~5 min*
 
 **By the end of this lesson, you can:**
 
-- Gather the documents you need for the app
-- Track down cost basis while records still exist
-- Save the exports into a folder you can reuse each year
+- Gather the information you will need across the course
+- Know which information belongs in Foundation and which gets entered later
+- Start collecting transaction history and cost basis before old records disappear
 
 ---
 
-In today's lesson, we're going to cover the documents that you're going to need to gather before you start building your financial plan.
+In today's lesson, we're going to cover the documents and information that you're going to need to gather before you start building your full financial plan.
 
-This part is extremely important because every decision that we make in later modules and lessons is downstream and can be based off of all of the data that we put into the model to begin with. Taking the extra time to be accurate up front is going to save you from making misguided decisions based off of guesswork and data that's not up to date and accurate.
+Onboarding only asked for enough information to give you a starting estimate. It did not add every real account, debt, life event, or tax record. The **Build Your Plan** guide is going to take you through those pieces in the right order, and each module walkthrough is going to enter the information that belongs to that part of the plan.
 
-Every number that comes out of your plan is only as good as what you put in it. If your spending number is just a rough guess, if what you need to spend in retirement and what you're currently spending month to month today is a rough guess, your retirement date is also going to be a guess. Another example: if your transaction history or your cost basis is missing, this can affect your tax calculations and prevent you from having as accurate numbers as we possibly can.
+This part is extremely important because every decision that we make later is downstream from all of the information that goes into the model. Taking the extra time to be accurate up front is going to save you from making misguided decisions based off of guesswork or data that isn't up to date.
 
-Taking 30 minutes to an hour now to gather all of this information can be a really valuable exercise in getting organized, because most people that I work with are not organized when it comes to their personal finances. Just taking the time to go through this and gather everything so that we can put all of it together in one place to make smart decisions is beneficial for you. I know it can be a little bit of a pain, but it's definitely worth it.
+Every number that comes out of your plan is only as good as what you put into it. If your spending number is just a rough guess, your retirement date is also going to be a guess. If your transaction history or cost basis is missing, this can affect your tax calculations and prevent you from having as accurate a picture as possible.
+
+Taking 30 minutes to an hour now to gather all of this information can be a valuable exercise in getting organized. I know it can be a little bit of a pain, but it's definitely worth it.
 
 ### What to gather
 
-1. Your income. You want recent pay stubs so you can verify what's coming in per period and then what's coming in every year. If you own a business, you're going to want to include every stream of income that you have. If you have multiple businesses, if there are two earners, if you and your spouse both work, you're going to want to include pay stubs for both of you and earnings and income from both of you. This includes things like businesses, rental income, and investment dividends that you get.
+1. **Your income.** You want recent pay stubs so you can verify what's coming in per period and what that adds up to every year. If you own a business, include every stream of income. If there are two earners, include both. This also includes things like rental income and recurring investment income.
 
-2. Your spending. As a rule of thumb, I like to use the last 3 months as a reference for about what you spend every month. A rough number here is fine to start with. Once you link your accounts in the app, the exact figure is going to be calculated for you, so you don't have to go digging through all of your credit cards and expenses. If you don't do that, then I would recommend going through all of your spending accounts or credit cards to get a more exact figure of what you're spending every month.
+2. **Your spending.** As a rule of thumb, I like to use the last three months as a reference for about what you spend every month. A rough number is fine to start with. In the Cash Flow module, you can link or import account activity and compare the number in the plan to what actually happened.
 
-3. Your assets. This is going to be every account and asset that you own. What I recommend is opening each one in a separate browser tab as you go through onboarding so you don't miss any of your accounts. This step is going to be just an inventory of all of your assets: every account and what the current balances are. This includes things like your house. You can use Zillow or an estimate of what your house might be worth in your neighborhood or area. This includes things like your pension and retirement accounts, brokerage accounts, Bitcoin, hardware wallets, exchange accounts, and anywhere where you might have dollars, checking, and savings as well.
+3. **Your assets and accounts.** This is every account and asset that you own. I recommend opening each one in a separate browser tab when you reach the Foundation walkthrough so you don't miss anything. This includes checking, savings, retirement accounts, brokerage accounts, Bitcoin on hardware wallets, exchange accounts, collaborative custody, and anywhere else you keep money.
 
-============================================================
-NOT YET DICTATED — placeholder text below, kept only so nothing is lost.
-Replace when Austin records items 4-7 and the homework.
-============================================================
+4. **Your debts.** These are things like your credit cards, your mortgage, auto loans, student loans, and any other debt that you might have. For each one you want the current balance and the interest rate. To make sure these are accurate, log in wherever the loans are stored and check both of them. The rate that you might have in your head might be different from what it is now. If you have a variable interest rate, the rate you're paying today might not match what you remember.
 
-4. Your debts. Credit cards, mortgage, auto, student loans, anything else. For each one, you want the current balance and the interest rate. And actually log in and check both, because the rate on paper from a few years ago isn't necessarily what you're being charged today.
+5. **Your employer benefits.** This is anything that your employer is going to contribute toward your retirement plan or your financial life. This includes the match on your 401(k), any pension you might have in retirement, deferred compensation, or stock compensation. There can be a few different ways employers do the match. It might be a set percentage, or it can be 50% of what you contribute up to 6% of your pay. A lot of the time these rules are listed inside your employer retirement account or benefits portal.
 
-5. Your benefits. This is anything your employer contributes toward your future — the match on your retirement plan, any pension or deferred comp. For the match, you want the formula, not just a percentage. 50% up to 6% of pay is a different thing than a flat 3%.
+6. **Future life events.** These are known costs or income changes that you might have coming up and that we're going to enter into your plan later. This includes things like paying for your kids' college, buying a new car, plans to sell your house and buy another one, or a future change to your income. There are not necessarily any documents that you need for this one. I think it's just important to start thinking about what might be coming up in the future.
 
-6. Future life events. Any known costs coming up — kids' college, a new car, a new house. There's no documents needed for this one. Just start thinking through what's on the horizon.
+7. **Your cost basis.** This is the most difficult one to track down, so I think it's important to start now. Cost basis is just a fancy way of saying your purchase history for the assets that you hold: what you bought, when you bought it, how much you bought, and what you paid.
 
-### Cost basis — start this one now
+The app uses this information to model what your future tax liability might be. Knowing what prices you actually paid can give you a more accurate picture of what taxes you're going to owe and can help inform some of the decisions you're making when it comes to retirement planning.
 
-7. The last one is cost basis, and this is the hardest one, so it's the one to start on now.
+Your Bitcoin purchase history is going to live across the exchange accounts you use today and the ones you used in the past. Sometimes exchanges do not keep all of your history forever. If you cannot access all of it, that is okay.
 
-Cost basis is the price you paid for each asset. The app uses it to model your tax liability, and knowing what you actually paid for your Bitcoin can save you real money and give you an accurate picture of what you'll owe.
+I think it's important to upload as much as you reasonably can. Go to your exchange accounts and download the CSV files that include your transaction history. This also applies to brokerage accounts. If you have a Fidelity account, for example, you can download the purchase history as an Excel or CSV file.
 
-Balances and rates you can pull today. Basis lives in old exchange records and accounts you may have closed, and it gets harder to recover every year.
+I would recommend pulling up all of the exchange accounts and brokerage accounts that you have used in the past, downloading the files in one session, and saving them in one folder on your computer. We're going to come back to them in the Tax module, where the historical transactions and cost basis actually get entered and reviewed.
 
-So for Bitcoin, go into every exchange you've ever used and download the transaction history. It's usually a CSV or an Excel file. And for your brokerage and retirement accounts, every brokerage has a transaction history export.
+### When each part gets entered
 
-Save all of it into a folder, because you're going to come back to these files every time you update the plan.
+Gathering everything now does not mean entering everything in this module.
+
+- **Foundation** enters your personal details, real accounts, and current holdings.
+- **Cash Flow** enters and verifies income, spending, the reserve, and expected life events.
+- **Debt** enters every debt with its current balance, rate, and payment.
+- **Tax** imports historical transactions and reconstructs cost basis.
+- **Retirement Income** enters retirement spending, Social Security, and the withdrawal strategy.
+- **Run Your Plan** performs the first full 1,000-run confidence check after the plan is built.
+
+If you'd rather gather this information as you go through each step, that's totally fine. I just think it's easier to get everything in one place first so you're not tracking it down in the middle of every walkthrough.
 
 ### Your decision
 
-What you're going to gather, and by when.
+What you're going to gather now, and what you're going to leave for the module that owns it.
 
 ### Put it in Orange Plan
 
-Nothing yet. This one is a shoebox, not a screen. The walkthrough enters it all.
+Nothing yet. This lesson is the gathering step. The Foundation walkthrough uses your personal details, account list, and current holdings. Everything else stays in the folder until its module.
 
 ### You are done when
 
-Every account, balance, income source and debt is written down in one place, and the totals match what you'd tell a planner out loud.
-
+You know where the information is, your real account list and current balances are ready for Foundation, and the income, spending, debt, employer-benefit, life-event, and cost-basis records are organized for the modules that follow.
 
 ## 1.2 The three layers of a plan, and setting your assumptions
-*`TEACH` · ~9.3 min · the script is canonical (`scripts/01-2_…`)*
-
-> ✅ The "(its historical rate)" parenthetical is **fixed** in the script — 40%
-> now reads as *"a deliberately optimistic number."* This master body predates
-> the three-layers rewrite; the script layer is the current one.
+*`TEACH` · ~1,550 words · ~10 min*
 
 **By the end of this lesson, you can:**
 
-- Separate the three layers a plan is built from, and know which one you are typing into
-- Tell a preview from a change you have actually applied, and name where your plan of record lives
-- Understand what an assumption is and why it drives every projection
-- See how one input can move a retirement date by years
-- Pick a Bitcoin growth preset and inflation rate you can defend
+- Separate what is true today, what you expect later, and what you only want to test
+- Understand how assumptions fit into the foundation of the plan
+- Choose a Bitcoin growth model and inflation assumption you can defend
+- Know when those choices get entered in the walkthrough
 
 ---
 
-### The three layers
+In today's lesson, we're going to cover how your retirement plan is going to be built out and the three different layers that go into how the app works and how your retirement plan is going to work.
 
-| Layer | Meaning | Example |
-|---|---|---|
-| **Baseline** | True now | Current income is $150,000 |
-| **Life event** | A change you expect | Tuition ends next year |
-| **Scenario** | A question, not a decision | What if I retire three years earlier? |
+### Layer one: your baseline and foundation
 
-**Truth goes in the baseline. Expected changes go in life events. Questions go in scenarios.**
+The first layer is your baseline. This includes all of the data and information that is true for your life right now: your current income, current spending, current assets, debts, and every other part of your financial life that is true today.
 
-**Second distinction:** current cash flow answers what is available *now*; the projection answers where today's pattern *leads*. This is not a budgeting app that wants every coffee categorized forever.
+After we have all of the data that is true today, there is another part of the foundation of your plan: the assumptions that we are making today about the future. These are things like what you feel is a conservative baseline for future asset performance, inflation, life expectancy, and what your future income or savings might grow at.
 
-### Previews versus your actual plan
+So the first layer has two parts:
 
-The third distinction is about the app rather than the plan, and it is the one people get bitten by. Many screens show what a change *would* do before anything is decided: click a chip, set a schedule, compare two strategies, and the numbers move. **That is a preview. Your plan has not changed.**
+- what is true now
+- what assumptions the plan is going to use to project those facts forward
 
-| | Where it lives | Is it your plan? |
-|---|---|---|
-| **Preview / sandbox** | The screen being worked on | No. Nothing is saved |
-| **Applied change** | Committed with **Apply to plan** | Yes. **Revert** walks it back |
-| **Scenario** | Kept separate on purpose | No. It is a question |
-| **Plan of record** | The **Plan page** | Yes. What everything else is measured against |
+That becomes the foundation that everything else is compared against.
 
-> **If you didn't click Apply, it didn't happen.**
+### Layer two: future life events
 
-⚠ **Taught here on purpose.** The Apply/sandbox behaviour was previously introduced in the Module 6 walkthrough — six modules after students start being confused by it. This is the "is this my plan or a scenario?" stall from the client calls, in its app-mechanics form.
+The second layer is future life events. These are things that you genuinely expect to happen in the future and that you can reasonably predict as a future expense or income change.
 
----
+They might not be happening now, but you have a high level of confidence that they are going to happen. Some examples are:
 
-An assumption is an input about the future that your plan treats as truth. Every projection is built on top of these numbers, so getting them right (or at least honest) matters more than any other single decision.
+- future college payments
+- how your spending might change in retirement
+- a new car that you are planning to purchase
+- a house that you are planning to purchase or sell
+- a future change in your job or income
+- long-term care expenses later in retirement
 
-The six assumptions your plan uses:
+Adding these things to your plan gives the projection a more accurate picture of the amount of money you are going to need and what your realistic retirement date might be.
 
-- Investment returns, including Bitcoin
-- Inflation
-- Spending, now and in retirement
-- Life expectancy
-- Savings rate before retirement
-- Future life events that change income or spending
+### Layer three: scenarios
+
+The third layer is scenarios. These are hypotheticals about the future.
+
+What if you retired three years earlier than what you are planning on? What if Bitcoin does half of the returns you think it will? What if you buy a bigger house? What if you move to another state?
+
+These questions live somewhere separate in the app because when you start changing your baseline information just to see what might happen, the lines between the three layers can get crossed.
+
+The Scenarios page lets you compare your current plan to different potential futures without changing the baseline underneath you.
+
+Do not feel like you need to constantly make changes to your baseline information just to test an idea. We want to get the information in the first layer right so we can make accurate comparisons with hypothetical futures in the third layer.
+
+To keep it simple:
+
+- the truth and the assumptions used by the plan belong in your baseline and foundation
+- expected changes that you have a high level of confidence will happen go into life events
+- questions and comparisons about the future go into scenarios
+
+### Current cash flow versus the projection
+
+Orange Plan is meant to project what your future retirement plan might look like. It is not mainly a current-day budgeting app.
+
+You do have the ability to link or import your accounts on the Cash Flow page. That gives you an up-to-date baseline of what your spending and cash flow look like today. The projection then carries that current pattern forward.
+
+If you expect your spending, income, or job situation to change in the future, you can make that adjustment in the life-events section instead of rewriting what is true today.
+
+### Why the assumptions matter
+
+The assumptions that you make about the future are going to inform almost every other decision in your plan, including:
+
+- tax planning
+- which accounts you contribute to
+- how much you need to save
+- how you allocate your money
+- how you take money out and live off Bitcoin and other assets in retirement
+
+Every projection and number in your plan is built on top of these inputs, so getting them right, or at least as close to honest as possible, matters more than picking the number that gives you the answer you want.
+
+The main inputs about the future include:
+
+- investment returns, including Bitcoin
+- inflation
+- current and retirement spending
+- life expectancy
+- the savings rate before retirement
+- future life events that change income or spending
 
 ### Lean conservative
 
-Optimistic assumptions make the plan feel good today, but if they're wrong you find out years later, with the working years already spent.
+I think one of the most important things is to lean conservative when it comes to Bitcoin and other assets and what their returns are going to be.
 
-Being conservative means you might be pleasantly surprised. Being optimistic means you might have to work longer than you thought, or spend less in retirement than you planned.
+If we make assumptions that are too optimistic, it is going to make you feel good about where your plan is today. The problem is that if they are wrong, you might not find out until years down the road.
 
-If you use high Bitcoin returns, the plan pulls your retirement date closer and tells you to save less. That's not a plan; it's a wish.
+Being conservative means you might be surprised to the upside and give yourself the ability to retire earlier or spend more. Being optimistic means that if you are wrong, the consequences can be working longer than you thought or not having the ability to spend what you really want to in retirement.
 
-### How much one assumption can move things
+### One input can move the date by years
 
-Let's say we have someone who's 45 with 1.75 Bitcoin and $80,000 a year of spending:
+Let's say we have someone who is 45 years old. They are holding 1.75 Bitcoin and spending around $80,000 a year.
 
-- **Bitcoin at 40% forever** (a deliberately optimistic number). Earliest retirement lands around **age 50**.
-- **Bitcoin at 20% now, declining as adoption grows.** Earliest retirement moves to around **age 58**.
+If we were to set Bitcoin's returns at a flat 40% forever, this might land their earliest retirement age around 50. If we run Bitcoin at a 20% declining rate as adoption grows, the retirement date might move from 50 to 58.
 
-Eight years, from one input. Nothing else about their situation changed.
+That is a difference of eight years from one input changing.
 
-### The four Bitcoin presets
+This is why it is important to think through what you personally feel is a conservative and realistic way to model Bitcoin in the future. The goal is not to choose the model that gives you the earliest date. The goal is to choose the model you can defend.
 
-The app has four built-in growth curves:
+### The four Bitcoin models
 
-| Preset | Starting return | Ending return |
-|---|---|---|
-| Conservative | ~20% | ~6% |
-| Moderate | ~30% | ~8% |
-| Aggressive | Higher | Declines more slowly |
-| Power law | ~38% | 10 to 15% |
+The four main default settings in the app are:
 
-Power law is what I use in my own plan until proven otherwise. It's a curve fitted to Bitcoin's entire price history since 2009, so it takes the argument out of picking a number.
+- Conservative
+- Moderate
+- Aggressive
+- Power law
 
-Every preset declines. As Bitcoin gets larger, it's harder to move.
+Conservative starts around 20% and declines toward about 6% over time. Moderate starts around 30%. Aggressive starts higher and declines more slowly. Power law uses a price curve fitted to Bitcoin's history going back to 2009 and extends that declining shape into the future.
 
-- At **$10 billion** Bitcoin, one big institution could move the entire market.
-- At **$1 trillion**, doubling takes trillions of new dollars.
-- At **$10 trillion**, doubling takes tens of trillions.
+All of the presets decline over time. As Bitcoin gets larger, it gets harder to move as an asset class. When Bitcoin was a $10 billion asset, one large institution or news event could move the entire market. At a trillion dollars, doubling takes trillions of new dollars. At $10 trillion, it takes tens of trillions.
 
-A declining preset is more honest than a flat annual return.
+A declining growth curve is more honest than assuming a flat CAGR across a 30- or 40-year retirement plan.
+
+If you want to create your own returns, the advanced assumptions panel lets you build custom return windows for Bitcoin and the other assets in your plan.
+
+I personally like using power law as a model, although any model is only a tool for making a projection. It is not a guarantee. Moderate is a step down if you want to be more conservative, and Conservative is there if you want to use a much lower growth path.
 
 ### Inflation
 
-Inflation sounds like nothing, but it does a lot of damage over time.
+The next assumption is inflation.
 
-If you're spending $80,000 a year today, over 15 years:
+If you are spending $80,000 a year today, at 3% inflation that same lifestyle costs about $125,000 a year 15 years from now. At 4%, it is about $144,000. That is roughly $20,000 more every year from moving the assumption one percentage point.
 
-- At **3% inflation**, that same lifestyle costs about **$125,000/yr** at age 60.
-- At **4% inflation**, it costs about **$144,000/yr**. About $20,000 more, every year.
+The default in the app is 3%. Think through what you believe is realistic instead of leaving the default simply because it was already loaded.
 
-The default in the app is 3%. If you think inflation runs hotter than that going forward, push it to 4-5%. I personally run it in that range.
+### The other assets
 
-### The other asset classes
+Orange Plan also has return assumptions for stocks, bonds, cash, and other assets. These begin with reasonable defaults, and you can revisit them later if you have a reason to use something more conservative or build a custom assumption.
 
-Bitcoin gets the most attention because it moves the plan the most, but the app also has return assumptions for **stocks, bonds,** and **cash**. Those default to reasonable numbers. You can revisit them later if you want to run something more conservative.
+This is a personal decision. I think the numbers should be realistic and not emotion-driven.
 
-### How to choose yours
+### How to choose
 
-Four things to keep in mind:
+1. Start conservative. If the plan works on a conservative assumption, the upside from Bitcoin or the other assets becomes a bonus.
+2. Use a declining Bitcoin return. A flat CAGR is not realistic across a 30- or 40-year retirement plan.
+3. Take inflation seriously. Think through whether 3% is enough for the plan you want to run.
+4. Pick assumptions that you can live with if the future turns out worse than expected.
+5. Later, test a bullish or more conservative scenario without changing the baseline.
 
-1. **Start conservative.** If the plan works on a conservative assumption, the upside becomes a bonus.
-2. **Use a declining Bitcoin return.** Flat returns aren't realistic across a 30 or 40 year plan.
-3. **Take inflation seriously.** Push 3% higher if the last few years told you to.
-4. **Pick something you can live with if you're wrong.** The right assumption still holds up if the future doesn't cooperate.
+The return assumptions can drastically change decisions about which accounts you contribute to, where you allocate money, Roth conversions, and how you live off Bitcoin in retirement. That is why we set the baseline model first and use scenarios for the alternatives.
 
 ### Your decision
 
-So your decision out of this lesson is which growth model and which inflation number your plan is going to run on.
-
-Start with what you'd actually defend out loud, because if you can't explain why you picked a curve, then you didn't really pick it, you just left whatever the app had loaded. Then ask yourself which way you'd rather be wrong. If you're conservative and you're wrong, you just retire earlier than the screen said. If you're optimistic and you're wrong, the whole plan was built on something that didn't happen. And set inflation to what you actually believe, not whatever the default is, because your future spending rises with that number.
+Which growth model and inflation number your plan is going to run on, and why.
 
 ### Put it in Orange Plan
 
-Plan → Retirement → Edit assumptions. Set growth and inflation, and leave the defaults only if you'd defend them.
+Hold that decision for the walkthrough after this lesson. You will review the growth model selected during onboarding, set inflation and the other assumptions, and save them once. This lesson makes the decision. The walkthrough handles the clicks.
 
 ### You are done when
 
-You could say out loud why each assumption is the number it is. That's the same standard the report's assumptions section is held to, and it's the one that catches a number you picked because you liked the answer.
+You have a clear idea of which growth model and inflation number your plan is going to run on, and you could defend both of them to a family member without pointing at the retirement date they produced.
 
+## 1.3 Read your starting retirement date and the confidence number you will run later
+*`TEACH` · ~1,150 words · ~7 min*
 
-## 1.3 Read your retirement date and confidence number
-*`TEACH` · ~1,131 words · ~7 min*
+**By the end of this lesson, you can:**
 
-> 🐞 **LIVE BUG — this lesson's outcomes checklist renders empty (0 / 0).** The
-> apostrophe in "how it's calculated" was escaped shell-style (`'"'"'`) inside a
-> single-quoted HTML attribute, which terminates the attribute early and
-> truncates the JSON. **10 of 50 lessons are affected.** See
-> `COURSE-IMPROVEMENT-ANALYSIS.md`, action item 16.
-
-**By the end of this lesson, you can:** *(not rendering in the app — see above)*
-
-- Understand what your earliest retirement date is and how it's calculated
-- Understand the confidence number and what the failing percent actually means
-- Read the two together to see when you could retire and how sturdy that date is
-- Know why Bitcoin needs a fat-tailed model
+- Tell the rough onboarding estimate from the finished retirement plan
+- Understand why onboarding does not show a confidence percentage
+- Know what the 1,000-run confidence check will measure after the plan is built
+- Read the earliest retirement date and confidence number as a pair
 
 ---
 
-In today's lesson, we're going to cover the two numbers at the top of your plan, your earliest retirement date and your confidence number, and how to read them together.
+Onboarding gave you a starting retirement estimate. It did not give you the finished plan.
 
-Before either one, though, I want to name what you're looking at, because this matters more than it sounds.
+That distinction matters because the number can look precise even though the inputs were intentionally rough. Onboarding only asked for enough to give you a useful first direction: age, income, spending, rough asset buckets, where most of the non-Bitcoin assets live, and the Bitcoin growth model you selected.
 
-What you're about to see is your first retirement read. It's a draft, built on the baseline you just entered and nothing else. Your cash flow decisions aren't in it. Your debt policy isn't in it. Your allocation and your tax decisions aren't in it, and neither is the order you'll eventually draw accounts down in, because you haven't made any of those decisions yet.
+It did not know every real account, your exact holdings, debts, future costs, cost basis, Social Security, withdrawal strategy, tax windows, or protection plan. Those are the parts the course and Build Your Plan guide add next.
 
-So hold it loosely in both directions. Don't treat an exciting date as finished, and don't dismiss the whole thing because the first number looks rough. This is a starting-point snapshot, and it becomes your actual plan as you make the decisions in the modules ahead. You'll watch it move, and watching it move is most of the point.
+### What the onboarding age means
 
-### Where the numbers come from
+The age is a deterministic estimate. The app takes the numbers you entered, applies the selected growth model, and finds the earliest age where that one average projection can fund the spending target.
 
-> 🔶 **F21 — INSERTED SECTION (~45 s), not from a prior dictation.** Added
-> 2026-08-08 because the client calls kept returning to *"where did this number
-> come from?"*, *"which page controls it?"* and *"which account funds this?"*,
-> and no lesson answered it directly. This is the smallest thing that closes it:
-> one reusable frame, recalled per module, rather than a new lesson. **Keep it,
-> rewrite it, or cut it at the mic** — the graphic carries the idea either way.
+It is useful because it immediately shows how much the growth assumption changes the answer. It is not a stress test, and it is not a promise.
 
-> 🎬 **GRAPHIC (`visuals/1-3b_number-flow.md`) — the reusable frame.** WHAT YOU
-> CHANGE → WHAT THE APP CALCULATES → WHAT MOVES DOWNSTREAM, with three worked
-> rows underneath. Recalled in every module walkthrough. The three column labels
-> are the words the sheets say out loud: **CALCULATED FROM · EDIT SOURCE · THIS
-> AFFECTS.**
+Treat it as the first draft of the headline, not the finished answer.
 
-Nothing in this app is typed in twice. Every number you see is **calculated from** something upstream, has exactly one **edit source**, and **affects** something downstream.
+### Why there is no confidence number yet
 
-So for any number on your screen, you've got three questions: what is it calculated from · where do I edit it · what does it affect.
+The app intentionally does not show a Monte Carlo confidence percentage during onboarding.
+
+A confidence number looks exact. Giving somebody a number such as 82% from a few rough inputs would create false precision. It would also show the score before the person has the tools to improve it.
+
+The first full confidence check belongs after the plan has been built.
+
+### What the confidence check does
+
+At the end of the course, Orange Plan will run your full plan through 1,000 different market paths. Every path carries your real balances, income, spending, debts, taxes, contributions, life events, withdrawal order, and other saved plan decisions through the projection.
+
+Some paths are calm. Some stack bad years together. The app counts how many of the 1,000 paths funded the plan as written.
+
+If 820 paths succeed, the confidence number is 82%. That does not mean there is an 18% chance you go broke. It means 180 of the 1,000 modeled paths did not fully fund the exact plan you gave it without an adjustment.
+
+### The confidence target changes the earliest date
+
+You will also set the confidence target that a retirement date has to clear. The default is 80%.
+
+Your finished earliest retirement date is not simply the first age where the average projection works. It is the first age where the 1,000-run check clears the confidence target you chose.
+
+That is why the date and confidence number have to be read together:
+
+- the date tells you when
+- the confidence number tells you how sturdy that date is
+
+An earlier date at 55% confidence can be a weaker plan than a later date at 80%.
+
+### Where every number comes from
+
+> 🎬 **GRAPHIC (`visuals/1-3b_number-flow.md`) — reusable frame.** WHAT YOU
+> CHANGE → WHAT THE APP CALCULATES → WHAT MOVES DOWNSTREAM. Labels:
+> **CALCULATED FROM · EDIT SOURCE · THIS AFFECTS.**
+
+Every important output has three questions attached to it:
+
+1. What is it calculated from?
+2. Where do I edit the source?
+3. What does it affect downstream?
 
 | What you change | What the app calculates | What moves downstream |
 |---|---|---|
@@ -480,503 +576,172 @@ So for any number on your screen, you've got three questions: what is it calcula
 | A **life event** | Future spending in that year | Account withdrawals, retirement date, confidence |
 | A **return assumption** | Projected balances and simulated paths | Earliest date and confidence number |
 
-Every walkthrough in this course points at those same three things when a number matters. Any time you are looking at a number and do not know where it came from, work those three questions and you will find it.
+The **Build Your Plan** guide points you to the page that owns each source. The walkthroughs show how to enter it. This keeps you from trying to fix an output by changing a calculated total somewhere else.
 
-### Your earliest retirement date
+### What happens next
 
-The date tells you when. The confidence number tells you how sturdy that date is. And most tools only show you the date.
+The next two videos replace the rough onboarding estimate with real Foundation data. You are going to enter your personal details, real accounts, and current holdings, and then review the assumptions the first estimate used.
 
+You are not going to enter income, debts, life events, Social Security, and tax history in the Foundation walkthrough. Those belong to the modules that teach what the numbers mean and how to verify them.
 
-Your earliest retirement date is the year your assumptions say you could stop working. I think of it as your freedom date.
-
-And freedom means different things depending on where you're at. It might mean full retirement, it might mean work becoming optional, or it might mean stepping back to only the things that matter to you. Whatever version you're planning for, this date is when the plan says you could safely make that move.
-
-One thing to understand about the date: it's deterministic. It runs your numbers forward using the average returns from your assumptions. One line into the future, no stress test. And real markets don't work that way — which is where the confidence number comes in.
-
-### The confidence number
-
-The confidence number takes your entire plan and runs it through a thousand different simulated futures, each one with different market results, and then it counts how many of them succeeded.
-
-You'll see this called a Monte Carlo simulation, and that's the label on the button in the app. Don't let the name throw you. All it means is running your plan a thousand times instead of once, so you're looking at a range of outcomes instead of a single guess.
-
-A client asked me a sharp question about this once. He wanted to know whether it models a bad thing happening on top of another bad thing. Like, the price already dropped 50%, does any of those runs have it dropping another 30% from there?
-
-Yes. That's exactly what those thousand runs are for. Some of them are gentle, some of them stack a terrible year onto another terrible year, and a few of them are genuinely brutal. You're not looking at one guess about the future. You're looking at a spread of them, including the ugly ones.
-
-So if your confidence number is 82%, that means 820 of those thousand runs succeeded on your numbers.
-
-An 82% result means 820 of the 1,000 paths funded the plan as written. The other 180 fell short. Those paths tell you to test adjustments — spending a little less for a stretch, working a year longer, delaying a purchase. The score alone doesn't prove that one small change rescues all of them. And it isn't a forecast that you end up with nothing.
-
-### Reading the two together
-
-The date tells you when. The confidence number tells you how sturdy that date is.
-
-Age 60 at 82% confidence is a real answer. Age 60 at 55% confidence is the same date on the screen with a much weaker plan behind it. So you want to look at both. A high confidence number, with a date you can live with — that's what we're building toward.
-
-### What the simulation is actually running
-
-Let me show you what the simulation is actually doing, because it's more than shuffling one portfolio return.
-
-Every one of those thousand futures runs your entire plan. It starts from your real balances today — your Bitcoin, your brokerage, your retirement accounts, your cash. In year one, every asset gets its own return based on your assumptions and its historical volatility. Then your actual life runs: income comes in, taxes go out, spending happens, withdrawals happen in your order, contributions and debt payments happen. You land on new balances. Then year two starts fresh with new market returns, and it does it again. 45 years of that is one complete future.
-
-Then it runs another 999 futures with different markets and counts how many succeeded. Running your real life inside every path is what makes the answer sensitive to your plan, and not just to your portfolio.
-
-### How to read your number
-
-Three things to keep in mind when you read yours:
-
-1. A high number means fewer adjustments. 82% doesn't mean an 18% chance of going broke. It means 180 of the 1,000 paths came up short under the plan exactly as written.
-2. Watch for big moves, not small ones. Small run-to-run changes aren't meaningful. If a change to your plan moves the number 5 or 10 points, that's the change telling you something.
-3. And the number is directional. It's a stress test built on research and history, not a guarantee.
-
-You're going to run your own confidence ring for the first time in the walkthrough at the end of this module.
+You are also not going to run the full confidence check yet. Module 9 runs it after the plan is complete and then saves the first finished report.
 
 ### Your decision
 
-Your decision here is what confidence level you're aiming for, and which lever you'd pull if you come in under it.
+Which part of the rough estimate is most likely to change when the real data is entered: the account balances, spending, debts, future costs, assumptions, or retirement income.
 
-Pick your target before you look at your number, so the number doesn't just talk you into whatever it already says. Then decide your lever in advance, because there are really only four: work a little longer, spend a little less, save more, or change your allocation. If you pick that now, a low number turns into a to-do item instead of a bad night. And remember 100 was never the goal. A very high number usually just means you're over-saving and under-living.
+### Put it in Orange Plan
 
-### Put it in orange plan
-
-Plan → Retirement → guardrails policy, so the app knows what on track means for you.
+Open **Build Your Plan** and start with **Foundation**. Do not run the full confidence check yet.
 
 ### You are done when
 
-Your date and your confidence number are both on screen and you read them as a pair. If you're under where you want to be, you've named one lever you'd pull first. One, not four.
+You can explain the difference between the onboarding estimate and the finished plan, and you know why the first 1,000-run confidence check waits until Module 9.
 
-Then watch the two walkthroughs below this video, where we set the plan up in Orange Plan and build your baseline.
+## 1.4 Walkthrough: replace the onboarding estimate with real accounts
+*`DEMO` · ~12 min*
 
-
-## 1.4 Walkthrough: set up your plan in Orange Plan
-*`DEMO` · 3,297 words · ~20 min read*
-
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **1.4**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+> 🎥 **SCREEN SHARE — entire lesson.** Record continuously with 1.5 and cut at
+> the stable point after the real accounts and holdings have been entered.
 
 **By the end of this lesson, you can:**
 
-- Complete Orange Plan onboarding with your baseline inputs
-- Verify and correct accounts, holdings, and debts on the Dashboard
-- Mark non-cash reserve holdings with the shield icon
-- Set assumptions on the Plan page
-- Read your earliest retirement date and run the confidence ring
-- Add likely life events and save a baseline PDF
+- Open Build Your Plan and understand what it tracks
+- Confirm the personal details used by the plan
+- Add or connect every real account
+- Add the current holdings inside those accounts without trying to rebuild tax history yet
 
 ---
 
-Two laps back-to-back. Part A is the onboarding wizard — the first 15 minutes with Orange Plan, by the end of which you have a working plan with a retirement date on it. Part B goes into the plan you just built, verifies it against reality, and gets it ready to actually use.
+The short onboarding flow gave you a starting estimate. This walkthrough starts replacing that estimate with real plan data.
 
-Set aside about 30 minutes total. Have your account balances, debt balances and rates, and last year's spending nearby before you start.
+### Step 1: Open Build Your Plan
 
-### Part A — Onboarding
+From the Dashboard, open **Build Your Plan**.
 
-The wizard has 13 steps. The counter at the top reads **1/13 · Privacy** through **13/13 · Review**. The app saves as you go, so you can leave at any point and come back. A green **Auto-saved** pill next to the progress label confirms it.
+The guide is the source of truth for what still needs to be entered. A task completes when the underlying plan data exists. Watching the lesson does not complete it.
 
-#### The layout
+Open **Foundation**. The three jobs are:
 
-Learn the layout once, then ignore it:
+1. Set up your personal details.
+2. Add each account where you keep money.
+3. Add the current holdings inside those accounts.
 
-- Top-left: **N/13 · {step name}** progress label and the **Auto-saved** pill.
-- Top-right: **Sign out** and **Skip to app**.
-- Bottom bar (steps 2 through 12): **Back**, **Skip for now**, and **Save & finish later**.
+Income, spending, debts, and retirement income are deliberately not in this area. Their modules own them.
 
-#### Step 1: Privacy
+### Step 2: Confirm personal details
 
-Two cards:
+Open the personal-details task and go to the Planning profile.
 
-- **Cloud.** Syncs across devices, backs up your data, and enables bank linking. Pick this one.
-- **Local Only.** This browser only. More private, but if the browser data is lost, it's on you.
+Confirm your date of birth or current age, state or country, and filing status. These affect the projection and tax calculations, so do not leave them on an onboarding default you never reviewed.
 
-You can change this later in Settings. Module 8's dead-man switch needs Cloud.
+Save and return to Build Your Plan. The task should complete from the saved data.
 
-Click **Continue**.
+### Step 3: Add one account manually
 
-#### Step 2: About You
+On the Dashboard, click **Add Account**.
 
-Seven sub-slides. The button reads **Next** until the last slide, then **Continue**.
+Choose the real account type, give it a name you will recognize, and choose the owner. Add each location separately: checking, savings, brokerage, 401(k), IRA, exchange, hardware wallet, or collaborative custody.
 
-| Slide | What to enter |
-|---|---|
-| How old are you? | Slider to your age. |
-| When do you want to retire? | Your target age. The subtitle updates: *"That gives you N years to build wealth."* |
-| How do you file taxes? | Filing status. This one hard-blocks Continue if left blank. |
-| How old is your spouse? | Only appears if you picked married. |
-| Do you have dependents? | How many, then optional names and ages. Used so child tax credits phase out correctly over time. |
-| Where do you live? | State selector. Shows a **No state tax** badge for states like TX, FL, NV. Module 5 covers why this matters. |
-| How do you earn income? | W-2, self-employed, and so on. Self-employed changes the shape of Step 3. |
+There is no useful generic “Bitcoin account.” Where the Bitcoin sits matters later for tax, access, and custody.
 
-#### Step 3: Income and Spending
+### Step 4: Show the linked-account option
 
-Four sub-slides for a typical W-2 household.
+Point out **Link accounts** for institutions that support it. A student can link, import, or stay manual. The course does not require one storage method.
 
-**Your income.** Quick-pick chips for common salary levels ($150k, $100k, etc.) or type your own.
+Do not spend the walkthrough waiting for every institution to sync. Show the choice and continue with the manual demo account.
 
-**Spouse income.** Field: **Spouse W-2 income**. Two other spouse fields sit below (self-employment, S-corp K-1). Leave them blank unless they apply.
+### Step 5: Add current holdings
 
-**Living spending.** Read the subtitle carefully: *"Living spending only. Housing, food, bills, travel, and everyday spending. Exclude debt payments."*
+Inside the account, add what it owns today.
 
-⚠ This is the single most important number to get right. Living expenses only. Not your paycheck. Not your debt payments. If you enter your salary here, every projection downstream will be wrong.
+- Bitcoin is entered as quantity, not a dollar price.
+- Stocks and funds use the ticker and share count when supported.
+- Cash uses the current dollar amount.
+- Cost basis can be entered if it is already known, but it is not invented.
 
-> ⚠ This is the single most important number to get right. Living expenses only. Not your paycheck. Not your debt payments. If you enter your salary here, every projection downstream will be wrong.
+The job here is current ownership. Historical purchases, sales, transfers, and missing basis are Tax-module work.
 
-Enter your annual spending. Two panels appear:
+Repeat the account-and-holding process until every real account and custody location is represented.
 
-- **Savings rate.** Green at 30% or higher, amber at 15 to 29%, plain below that.
-- **Approx. monthly room before debt.** Red if negative (spending more than you take home).
+### Cut point
 
-**Retirement spending.** Usually the same as today, unless you know it will change. Like the living number, it excludes debt payments. The app tracks those separately. The panel shows a **Monthly in retirement** figure.
+End 1.4 when the last real account and current holding has been added. Keep the same demo account open for 1.5.
 
-> ✅ **Added in course 2026-07-29** (item 19): the sentence below now states
-> that retirement spending excludes debt payments. A matching line went into
-> walkthrough 6.4's Step 1.
+## 1.5 Walkthrough: verify Foundation and review assumptions
+*`DEMO` · ~10 min*
 
-#### Step 4: Accounts
-
-Heading: **Where do you hold investments?**
-
-You can skip the Plaid **Link accounts** card if you don't want bank linking, and stay manual.
-
-To add an account: **Add Account** → pick account type → name the account (suggested-name chips available) → pick owner (You, Spouse, or Joint) → **Add Account**.
-
-Add every real account. Common types and example names:
-
-- **Hardware Wallet.** Coldcard, Trezor, Ledger.
-- **Crypto Exchange.** Strike, Coinbase, Kraken.
-- **Taxable Brokerage.** Fidelity, Schwab, Vanguard.
-- **401(k).** Fidelity 401k.
-- **Savings Account.** HYSA, Ally.
-
-There's no generic "Bitcoin account". The app makes you say where your Bitcoin is held. That distinction feeds directly into the Custody module.
-
-When you're done, look for the green line: **✓ N accounts ready to track**.
-
-#### Step 5: Assets
-
-Heading: **What do you own?** A live **Total Portfolio Value** card sits at the top.
-
-For each account, click **+ Add Holding**, pick the asset type, fill in **Holding Details**, and click **Save Holding**.
-
-By asset type:
-
-- **Bitcoin.** Enter **How much BTC?** as a quantity, never in dollars. Enter **Total cost basis** if you know it. If not, leave it blank.
-- **Stocks or ETFs.** Enter the ticker and share count. Watch for *"Fetching live price..."* followed by the live price line.
-- **Cash or Savings.** Enter the current dollar value.
-
-⚠ Never type a price for a live asset. The app knows it. Watch the dollar line under the quantity update as you type.
-
-⚠ The app never invents cost basis. Enter it if you know it. Leave it blank if you don't. A missing basis becomes something to fix in Module 5, not a made-up number.
-
-> ⚠ Never type a price for a live asset. The app knows it. Watch the dollar line under the quantity update as you type.
-
-> ⚠ The app never invents cost basis. Enter it if you know it. Leave it blank if you don't. A missing basis becomes something to fix in Module 5, not a made-up number.
-
-#### Step 6: Transactions
-
-Heading: **Would you like to add recent transactions?**
-
-You're building the plan, not reconciling the books. Click **Skip for now** in the bottom bar. Footnote: *"You can skip this and use Update Transactions from the Dashboard anytime."*
-
-You can come back later and use any of the three transaction-update methods (link, CSV, or manual) from the Dashboard.
-
-#### Step 7: Debts
-
-Heading: **Any debt to track?**
-
-Click **Add Debt**, then pick a debt type. Every row shows a default rate and term.
-
-A few examples:
-
-- **Mortgage.** Default rate 7%, 360-month term.
-- **Credit Card.** Default rate 22%.
-- **BTC-Backed Loan.** Default rate 10%, 12-month term. This is a first-class debt type in the app, with collateral tracking, live LTV (loan-to-value: what you owe divided by what the collateral is worth), and liquidation lines. Modules 4 and 6 cover it.
-
-For each real debt, enter: **Current balance**, **Interest Rate**, **Term (months)**, and **Monthly payment** (leave blank; the app estimates it).
-
-⚠ Auto Loan prefills the rate at 8.5%. This is the app's default value, so overtype it with your actual rate.
-
-> ⚠ Auto Loan prefills the rate at 8.5%. This is the app's default value, so overtype it with your actual rate.
-
-The estimate line reads: *"Estimated from balance, rate, and term: $X/mo. Edit if your servicer payment is different."*
-
-Two tiles at the top of the step show **Total Debt** and **Monthly Payments**. Module 4 gives each debt a job. A 22% credit card and a 3.25% mortgage are not the same problem.
-
-#### Step 8: Contributions
-
-Heading: **Ongoing Contributions**. Rows are generated from the accounts you added in Step 4.
-
-For each row:
-
-- Annual amount (for example, 401(k) → $12,000).
-- Toggle **Employer match** to enter a match rate (%) and the pay percentage it applies to. The row computes an **Estimated employer contribution: $X** line and shows *"N% match on the first M% of salary."*
-- **Roth IRA.** (Roth means you pay the tax now, and the growth and the withdrawals come out tax-free later.) Enter your annual amount. Read the shared meter: **IRA total** with *"Traditional + Roth share one annual IRA limit per person."* If you go over, the app warns you to reduce one of them.
-
-Enter your current reality only. The optimized routing is Module 3's job. The app knows that and hands routing to Savings Strategy after onboarding.
-
-#### Step 9: Retirement Benefits
-
-Heading: **Expected Social Security**.
-
-- **Your monthly amount at Full Retirement Age.** The field pre-fills a placeholder, and the helper text points you to **ssa.gov/myaccount** for your estimate.
-- **Opt-out.** The **I don't expect to receive Social Security** option exists if you're planning without it.
-- **When will you start Social Security?** Three cards: **62 Early (~30% less)**, **67 Full (100% benefit)**, **70 Max (~24% more)**.
-- **Spouse's amount and start age.** Same three-card choice.
-- **Plan through what age?** The chip **90 · Common planning age** is a reasonable default.
-
-Longer horizons are more conservative. Running out at 90 because you planned to 80 is the failure the plan is designed against.
-
-#### Step 10: Assumptions
-
-Not skippable. Heading: **Planning Assumptions**.
-
-⚠ **Moderate** is pre-selected. You have to actively pick an assumption card. The app doesn't want a passive click here.
-
-> ⚠ Moderate is pre-selected. You have to actively pick an assumption card. The app doesn't want a passive click here.
-
-Four cards:
-
-| Card | Tagline | BTC | Stocks | Bonds | Inflation |
-|---|---|---|---|---|---|
-| **Conservative** | 20% to 6% declining BTC curve | 15% | 7% | 4% | 3.5% |
-| **Moderate** | 30% to 8% | 22% | 7% | 4% | 3% |
-| **Aggressive** | 45% to 10% | 30% | 8% | 4% | 3% |
-| **Power law** | Bitcoin regression curve | 24% | 7% | 4% | 3% |
-
-Even the more aggressive presets decline over time. As Bitcoin gets larger, growth slows down, which is the reason behind every declining preset in the assumptions lesson.
-
-Pick the preset that lines up with the choice you made in the assumptions lesson. My default is Power law. Conservative if you want more headroom. The app's own line: *"These assumptions are just a starting point…"*
-
-#### Step 11: Strategy Profile
-
-Ten required questions. **Continue** is disabled until every one is answered.
-
-The ten:
-
-- Which best describes Bitcoin's role in your plan?
-- How strong is your Bitcoin conviction?
-- What is the maximum Bitcoin allocation you are comfortable holding?
-- If Bitcoin dropped 50 to 80%, what would you most likely do?
-- When do you want to be financially independent?
-- How do you feel about holding cash?
-- In a market downturn, how much could you cut spending temporarily?
-- How do you think about debt?
-- How involved do you want to be in plan execution?
-- Rank your top three priorities and mark one as primary.
-
-⚠ Answer honestly, not aspirationally. Question 4 is the allocation-module stress test asked in advance.
-
-> ⚠ Answer honestly, not aspirationally. Question 4 is the allocation-module stress test asked in advance.
-
-#### Step 12: Life Events
-
-Heading: **Life Events**.
-
-Five quick-add types: **Job or income change**, **Windfall or inheritance**, **Large purchase**, **College expense**, and **Expense change**.
-
-For each event, add:
-
-- Your age when this happens.
-- Total cost across all years.
-- Description.
-
-Then click **Add Event**. The app spreads multi-year events (like college) across years automatically. The Continue button relabels to **Continue with N event(s)**.
-
-Add events you're likely to have. Speculative what-ifs belong in Scenarios later, which you can build on the Plan page.
-
-#### Step 13: Review
-
-Watch the hero before the review content appears.
-
-**The spinner.** Three rotating lines:
-
-- *"Projecting your balances year by year…"*
-- *"Running 300 market paths…"*
-- *"Checking your spending target…"*
-
-**The date.** Label **EARLIEST RETIREMENT · AGE {X}**, then the year appears.
-
-**The ring.** *"This plan succeeds in {pct}% of 300 market paths at age {X}."*
-
-⚠ The onboarding finale runs 300 paths. The Plan page's Monte Carlo runs 1,000. Same math, different sample sizes. The setup screen keeps it fast. You'll re-run the full 1,000-path ring in Part B.
-
-> ⚠ The onboarding finale runs 300 paths. The Plan page's Monte Carlo runs 1,000. Same math, different sample sizes. The setup screen keeps it fast. You'll re-run the full 1,000-path ring in Part B.
-
-Below the hero, the review fades in with:
-
-- **Current snapshot** net worth, and four cards: Bitcoin, Other assets, Annual savings, Time to retirement.
-- **Modeled details** rows: Household income, Current annual spending, Retirement spending target, Monthly debt payments, Social Security, Planning assumptions.
-
-Reassurance line: *"…Nothing is locked in here. You can continue editing details once you enter the app."*
-
-Click **Go to your dashboard**.
-
-## 1.5 Walkthrough: build your baseline in Orange Plan
-*`DEMO` · ~1,100 words · ~9 min read*
-
-> 🎥 **SCREEN SHARE — entire lesson.** Capture segment **1.5**. Beat sheet + required app state: SCREEN-SHOOT-LIST.md.
+> 🎥 **SCREEN SHARE — entire lesson.** Continue the same recording and app state
+> from 1.4. Nothing is reset at the cut.
 
 **By the end of this lesson, you can:**
 
-- Verify every account and holding against reality
-- Shield the holdings that are your reserve
-- Read your earliest retirement date and confidence ring together
-- Save a baseline PDF as your starting-point snapshot
+- Verify every account and holding against its source
+- Know where Update Transactions lives and which job it performs
+- Review the growth preset selected during onboarding and set the remaining assumptions
+- Return to Build Your Plan with Foundation complete
 
 ---
 
-Onboarding gave you a plan. This walkthrough makes it accurate and ready to use, which is the difference between a demo and a baseline.
+### Step 1: Verify at the source
 
-### The baseline lap
+Expand every account group on the Dashboard.
 
-Onboarding gave you a plan. Part B makes it accurate and gets it ready to actually use. About 15 minutes.
+Compare the account and holding rows against the statements or account screens you gathered. If a number is wrong, edit the holding or account that created the total. Do not try to nudge a calculated total.
 
-#### Step 1: Verify the baseline on the Dashboard
+The standard is accurate enough to make the next decision, not perfect historical bookkeeping.
 
-Go to the Dashboard. The hero at the top shows your **Net Worth**, and below it is the section labeled **Accounts & Holdings**.
+### Step 2: Show Update Transactions
 
-Expand each account group and check that every holding is correct. Every holding row has an **Edit** link and a three-dot menu with **Edit holding** and **Delete holding**. The group header menu has **Edit account** and **Add holding**.
+Click **Update Transactions**.
 
-If a number is wrong, fix it at the source, meaning the holding itself. Don't nudge a total to make a mismatch go away.
+Show the four ways activity can enter:
 
-⚠ You're not making it perfect. You're making it accurate.
+- a linked account
+- a downloaded CSV or Excel file
+- describing one transaction to AI and reviewing every field
+- entering a purchase, sale, or transfer manually
 
-> ⚠ You're not making it perfect. You're making it accurate.
+Explain the three jobs clearly:
 
-#### Step 2: Add any missing accounts and holdings
+- Foundation records what the account owns today.
+- Tax records what you paid and when.
+- Maintenance records what changed after the plan was built.
 
-If any accounts or holdings didn't get entered during onboarding, add them now. The flow is the same as Steps 4–5 of onboarding: **Add Account** for a new account, then **Add Holding** on an account for what's inside it.
+Close the dialog without importing the full history. That work belongs in Module 5.
 
-Every real account should be in here. Hardware wallet, exchange, brokerage, retirement accounts, checking, savings.
+### Step 3: Review assumptions
 
-#### Step 3: Update your transactions
+Go to the Plan page and open **Edit assumptions**.
 
-Once accounts and holdings are in, keep them current by updating transactions. **Dashboard → Update Transactions** opens the dialog, and it asks *“How would you like to update transactions?”* There are four answers:
+The growth preset selected during onboarding is already there. Review it on purpose. Keep it, choose another preset, or open the advanced controls for custom return windows.
 
-1. **A linked account.** The app connects to your bank and brokerage and pulls transactions automatically.
-2. **A downloaded file.** Most exchanges and brokerages let you download a CSV or Excel export. Upload it and the app parses it.
-3. **Describe one transaction to AI.** Tell Orange Plan AI about a single purchase or sale in plain language. You review every field before it saves.
-4. **I'll enter them myself.** Add a purchase, sale, or transfer by hand. For accounts that don't support linking or a file export.
+Set inflation and life expectancy. Review the defaults for the other asset classes. Save only the assumptions you could explain out loud.
 
-You don't have to do this now. The Dashboard has an **Update Transactions** button you can come back to anytime.
+### Step 4: Return to Build Your Plan
 
-#### Step 4: Mark your reserve holdings with the shield icon
+Open Build Your Plan again.
 
-Not all reserves are cash. If you're holding your reserve in short-term treasuries, a money-market fund, or another safe asset, tell the app to count it as reserve.
+Foundation should now show the personal details, accounts, and holdings as complete. If a task remains open, follow its missing-data line rather than guessing.
 
-Every non-cash holding has a **shield icon** on the row. Click it to mark that holding as part of your reserve. Cash is counted automatically.
+Point at the next area: **Cash flow & reserve**. That is where income, living expenses, the reserve target, and expected life events are entered and verified.
 
-Marking a holding as reserve tells the app to treat it as part of your safety net when it runs your plan. Module 2 covers what the reserve is and how to size it.
+### What not to do in this walkthrough
 
-#### Step 5: Set your assumptions on the Plan page
-
-Go to the **Plan** page. In the top right, click the **gear icon**.
-
-The gear menu has:
-
-- The four Bitcoin growth presets (Conservative, Moderate, Aggressive, Power law).
-- Custom per-period returns if you want to override the presets.
-- Inflation.
-- Life expectancy and other planning inputs.
-
-Pick your Bitcoin preset based on the assumptions lesson. My default recommendation is Power law, but pick what you can live with if you're wrong.
-
-Set your inflation rate. The default is 3%. If you think inflation will run higher going forward, 4% or 5% is a more conservative choice.
-
-Save and close the gear.
-
-#### Step 6: Read your earliest retirement date
-
-Still on the Plan page, look at the hero at the top. It shows your **Earliest Retirement Age**, with the year underneath.
-
-The date on the hero is the year your plan says you could stop working, using the assumptions you just set. This is your baseline freedom date.
-
-Underneath the date are two chips:
-
-- **N years away**
-- **$X/yr target** (the spending your plan is funding)
-
-The chart below the hero has a toggle in the top right: **Today's $** or **Nominal $**. Leave it on **Today's $**. A million dollars in 2050 isn't a million dollars in today's money, and Today's $ is the honest view.
-
-#### Step 7: Run the confidence ring
-
-On the same hero, look at the right side. On a fresh plan, the ring doesn't exist yet. You'll see:
-
-**PLAN CONFIDENCE** with a **Run Monte Carlo** button underneath.
-
-Click it. The simulation runs a thousand market paths through your plan and takes about 10 to 20 seconds.
-
-When it lands, three things appear:
-
-- The ring with your confidence number.
-- A verdict word: **Very well funded** (above 95), **On track** (80 to 95), **Room for improvement** (50 to 79), or **Needs significant changes** (under 50). Read the word off the screen.
-- A **sampling range** with an "as of" date and a re-run icon.
-
-Read the date and the ring together, the way we covered in the confidence-ring lesson. The date tells you when. The ring tells you how sturdy that date is.
-
-#### Step 8: Add likely life events
-
-Still on the Plan page, scroll below the projection chart to the **Life events** section.
-
-You should already have at least one event from onboarding. Click **Add event** to add anything else that's likely coming (home sale, income change, large planned expense).
-
-Add events you're likely to have. Not what-ifs. Speculative what-ifs belong in Scenarios, which you can build on the Plan page.
-
-If you've already run the confidence ring, adding an event makes a **Recheck** chip appear next to the ring. Click it to re-run the simulation with the new event in place.
-
-#### Step 9: Save your baseline PDF
-
-Once everything looks right, save a copy of your plan as a PDF.
-
-Open the **Account menu** in the top right (or the hamburger drawer on mobile), then click **Report**, then **Download PDF**.
-
-The button triggers your browser's print dialog. Choose **Save as PDF** and put the year in the filename, like `baseline-2026.pdf`.
-
-Module 9 covers how to read this document like a planner. For now, just save it. It's your starting-point snapshot.
-
-### Using the AI assistant as you go
-
-The app has an AI assistant built into every page.
-
-- The top-right button on any page opens the assistant. On broad pages like the Dashboard or Plan page, it lets you ask general questions about your plan.
-- On each specific page, the top button surfaces preset conversations relevant to that page. On the Plan page you'll see preset prompts about your projections, assumptions, or freedom date. On the Accounts page you'll see prompts about your holdings and allocation.
-
-Use it whenever something in the app isn't clear, or when you want a second look at a decision before you make it. It has full context on your plan.
+Do not enter debts, retirement spending, Social Security, life events, historical tax lots, or a withdrawal order here. Do not run the full 1,000-path confidence check or save the finished report yet.
 
 ### What good looks like
 
-- Savings rate is green or high amber.
-- **Approx. monthly room before debt** is positive.
-- **Total Portfolio Value** matches your own rough sum.
-- **Total Debt** and **Monthly Payments** match what actually leaves your account.
-- **IRA total** meter isn't over the shared limit.
-- Every account and holding is in the app and matches reality.
-- Any reserve holdings that aren't cash have the shield icon toggled on.
-- The Plan page shows an earliest retirement age and a confidence ring, both readable.
-- The **Life events** section has your likely events, and only those.
-- You have a baseline PDF saved somewhere you can find later.
-
-### What got built
-
-| # | Item | Where it lives |
-|---|---|---|
-| 1 | Storage mode (Cloud or Local) | Settings → Data & Privacy |
-| 2 | Planning profile (ages, filing, dependents, state, income type) | Settings and Plan inputs |
-| 3 | Income and spending numbers | Cash Flow and Plan |
-| 4 | Accounts with owners | Dashboard → Accounts & Holdings |
-| 5 | Holdings with quantity, cost basis, live prices, cash values | Dashboard account groups |
-| 6 | Debts with rates and terms | Strategy → Debt |
-| 7 | Ongoing contributions and employer match | Cash Flow contribution rows |
-| 8 | Social Security amounts, start ages, planning horizon | Plan → Income |
-| 9 | Assumption preset | Plan and Scenarios |
-| 10 | Ten Strategy Profile answers | Settings |
-| 11 | Life events | Plan → Retirement → Life events |
-| 12 | Earliest retirement date and confidence ring (1,000 paths) | Plan hero |
-| 13 | Baseline PDF | Saved locally with the year in the filename |
+- Every real account and custody location is listed.
+- Current holdings and balances match the source.
+- Personal details are saved.
+- Assumptions were reviewed on purpose.
+- Foundation is complete in Build Your Plan.
+- The next action points to Cash flow & reserve.
 
 ### Handing it off
 
-The next module covers the cash flow that makes this plan possible. Where your surplus comes from, and how to protect it so you're not forced to sell Bitcoin at the wrong time.
-
----
+The next module replaces the rough income and spending numbers with a true surplus, builds the reserve, and adds the future costs the projection needs to know about.
 
 <!-- ADVANCED-GATE:START -->
 
@@ -1484,7 +1249,7 @@ You can say what you're committing to provide, name the sources that will cover 
 
 ---
 
-This walkthrough puts what you learned in the last three lessons into the app. Every downstream projection is built on cash flow and reserve, so this is where you make them accurate.
+This walkthrough is where income, spending, the reserve, and expected life events become full plan data. Module 1 gathered the records; it did not enter this area for you.
 
 Set aside about 15 minutes. Have two or three months of categorized transactions linked or imported (otherwise the Verify Spending card won't have anything to show), and your bare-bones essentials number from the surplus lesson written down.
 
@@ -1622,6 +1387,15 @@ This is the order of operations the app runs every month, so you don't have to r
 
 If you're in deficit mode, the routing block is replaced by *"This month has no surplus to allocate. Reserve settings stay editable and apply when surplus returns."*
 
+<!-- PLAN-LIFECYCLE:LIFE-EVENTS -->
+### Step 8b: Add expected life events
+
+**Plan → Retirement → Life events → Add event.**
+
+Add the dated expenses or income changes you genuinely expect. If there is nothing major coming, return to Build Your Plan and choose **Nothing major coming** rather than leaving the area ambiguous.
+
+⚠ Life events are expected changes. Hypothetical questions stay in Scenarios.
+
 ### Step 9: Run the AI review on Cash Flow and Reserve
 
 Open the **Account menu** (hamburger, top right) → **AI Review**. The panel's **For this page** button reads **Review Cash Flow & Reserve**.
@@ -1654,6 +1428,13 @@ The review reads your saved living spending against the completed-month linked-a
 
 It hands you back to the Verify Spending drawer from Step 4. Same tool, now with a reason.
 
+<!-- PLAN-LIFECYCLE:MODULE-2 -->
+### Build Your Plan handoff
+
+This is the first place the full income and spending data gets entered. Module 1 gathered the records; it did not build Cash Flow.
+
+Before leaving the walkthrough, return to **Build Your Plan → Cash flow & reserve**. The area is complete when income, living expenses, the reserve target, and expected life events are recorded, or **Nothing major coming** is selected truthfully.
+
 ### What good looks like
 
 - **This-month verdict** shows a positive surplus your household could actually move every month without strain.
@@ -1681,7 +1462,7 @@ It hands you back to the Verify Spending drawer from Step 4. Same tool, now with
 
 ### Handing it off
 
-The next module covers allocation. What to do with that surplus, the target mix across your buckets, and the routing that runs on top of what you just built.
+The next module covers debt. You already gathered the balances and rates; now every debt gets entered, read, and given a job before the allocation waterfall can route money to it.
 
 ---
 
@@ -1935,6 +1716,11 @@ Then watch the walkthrough below this video, where we give every debt a job in O
 - Read both ratios and the stress clause off the vitals strip
 - Set a job on every ledger row, with a reason
 - Route extra dollars and run the debt AI review
+
+<!-- PLAN-LIFECYCLE:MODULE-3 -->
+### Build Your Plan handoff
+
+The debt documents were gathered in Module 1. This module is where the debts become plan data. Return to **Build Your Plan → Debt** and confirm every active debt has its current balance, rate, and payment, or record **I have no debts** truthfully.
 
 <!-- ADVANCED-GATE:START -->
 
@@ -2687,6 +2473,11 @@ Two facts should be true and visible:
 - The target and its drift band are saved. This is your number on the record.
 - The waterfall order is Reserve → Extra debt → Contributions, and it runs monthly.
 
+<!-- PLAN-LIFECYCLE:MODULE-4 -->
+### Build Your Plan handoff
+
+Allocation uses the real accounts and holdings entered in Foundation. Return to **Build Your Plan → Allocation** and confirm that the timeframe assignment and saved target mix reflect the decision you made in this module.
+
 ### What good looks like
 
 - Your holdings match reality. The donut doesn't lie.
@@ -2978,6 +2769,9 @@ Set aside about 20 minutes. Have last year's tax return handy and a wallet or ex
 
 > ⚠ Before the harvest step, know that harvest room only shows up for recorded purchase lots. Holdings with only an aggregate basis are excluded, and the app says so. Run the import step first, or the harvest rows will be empty.
 
+<!-- PLAN-LIFECYCLE:TAX-HISTORY -->
+Foundation recorded what each account owns today. This step answers a different question: what did you pay, and when? Historical purchase records belong here because they affect taxes, not because Foundation was incomplete.
+
 ### Step 1: Import your transaction history
 
 The transactions importer isn't on the Tax page. It lives on the Dashboard.
@@ -3112,6 +2906,11 @@ Write down three things. Paper is fine.
 3. **The exact questions for your CPA.** The specific dollar amounts and dates from the model, in the order they'd need to happen.
 
 The one question worth writing on top of that list: **"Am I leaving low brackets empty?"**
+
+<!-- PLAN-LIFECYCLE:MODULE-5 -->
+### Build Your Plan handoff
+
+Foundation recorded what the accounts own today. Tax records what was paid and when. Return to **Build Your Plan → Tax** after importing or reconstructing as much basis as reasonably exists, then record that the available history has been reviewed. Missing records remain visible; they do not get invented.
 
 ### What good looks like
 
@@ -3526,10 +3325,10 @@ Set aside about 20 minutes. This one only works when the plan is already in the 
 
 ### Prerequisites
 
-- Baseline spending set.
-- Social Security amount known, as a monthly figure. The app's field is $/mo.
-- Cash reserve size decided.
-- Run the Monte Carlo once first. Until it runs, the three confidence stops fall back to placeholder positions with no $/yr labels.
+- Current spending is verified from Module 2, and a retirement-spending target is ready to enter here.
+- Your Social Security estimate is available as a monthly figure; it has not been entered during onboarding.
+- Cash reserve size is decided.
+- The final 1,000-run confidence check is completed in Module 9. Any retirement-phase controls that require a recent run are demonstrated with the prepared demo receipt, not presented as a Module 1 result.
 
 ⚠ Reserve months quirk: the **Target months** control offers only **None**, **1**, **3**, **6**, or **12 mo**. If your reserve is 18 months (for example $120k on $80k of spending), that value only renders if it's already saved in the data. Don't try to click your way to it.
 
@@ -3615,7 +3414,7 @@ Two segmented controls, and they are two separate orders:
 
 ⚠ **There is no "Tax bracket fill" chip.** The bracket-fill move from Modules 5 and 6 lives in **Custom phases**: add a phase, set its rule to **Bracket-aware**, and pick the ceiling (an ordinary-income bracket or a capital-gains threshold). The engine's default withdrawal behavior already bracket-fills year by year — the phase control is how you steer it deliberately. Watch **Lifetime taxes** in the strip while you do.
 
-Nothing saves while you experiment. **Apply to plan** commits the draft. **Revert** walks it back.
+Nothing saves while you experiment. This is the first place the course needs the preview rule in practice: **Apply to plan** commits the draft. **Revert** walks it back. If you did not apply it, it did not become the plan.
 
 ⚠ If you saw an earlier cut of this lesson: the comparison table (**Compare strategies**, winner badges, the **Lasts to** column) is gone. The live strip replaced it. Same three numbers, now updating as you click instead of rendering as a one-shot table.
 
@@ -3725,6 +3524,13 @@ One click creates the scenario and selects it under **Your scenarios**.
 ⚠ It's in the first four cards. No **See more scenarios** click needed.
 
 That makes sequence-of-returns risk visible on your own plan.
+
+<!-- PLAN-LIFECYCLE:MODULE-6 -->
+### Build Your Plan handoff
+
+Retirement spending and Social Security were gathered earlier but are entered here. Before leaving, return to **Build Your Plan → Retirement income** and confirm the spending target, Social Security amount and start age, and applied withdrawal order are saved.
+
+This is also where the preview rule becomes operational: changing controls can move the numbers without changing the plan. **Apply to plan** commits the decision. **Revert** removes the preview. If you did not apply it, it is not the plan.
 
 ### What good looks like
 
@@ -4376,6 +4182,11 @@ While you're on Protect, you'll pass a **Draft with AI** button in the Heir lett
 
 If you want a line as you pass it: *"there's an assistant for the heir letter. That's next module."*
 
+<!-- PLAN-LIFECYCLE:MODULE-7 -->
+### Build Your Plan handoff
+
+Custody work supports the Protect area, but it does not complete the heir-letter and beneficiary tasks by itself. Leave this module with the custody map and recovery process complete; Module 8 finishes **Build Your Plan → Protect**.
+
 ### What good looks like
 
 - **The Needs attention list is shorter at the end than the start.** And the top remaining item gets named out loud as this week's fix.
@@ -4896,6 +4707,11 @@ Not in the app. The documents don't work if the family has never heard about the
 
 Item 6 earns the meeting — if nobody says anything is confusing, the question was asked wrong. Item 7 stops it being a conversation everyone forgets.
 
+<!-- PLAN-LIFECYCLE:MODULE-8 -->
+### Build Your Plan handoff
+
+Return to **Build Your Plan → Protect**. Confirm the beneficiaries exist, the heir letter is drafted in your own words, and the printable or downloaded copy is stored where the family can find it. The app checkmark is not the legal work; provider forms and signed documents remain the record.
+
 <!-- ADVANCED-GATE:START -->
 
 ## Related advanced lessons
@@ -4911,16 +4727,16 @@ one of these describes your situation:
 advanced lesson. Edit the condition there, not here.*
 
 <!-- ADVANCED-GATE:END -->
-# Unit 10 · Module 9 — Maintain, Test, and Read the Plan
+# Unit 10 · Module 9 — Run, Maintain, Test, and Read the Plan
 
-*What keeps the plan alive: two review rhythms, scenarios for testing a decision,
-and the finished report you save once a year.*
+*Finish and run the full plan, then keep it alive with two review rhythms, scenarios for testing a decision, and the finished report you save once a year.*
 
-## 9.1 Keep the plan current: the monthly pass and the annual review
+## 9.1 Finish the plan, then keep it current
 *`TEACH` · ~1,715 words · ~11 min*
 
 **By the end of this lesson, you can:**
 
+- Finish Build Your Plan and run the first full 1,000-path confidence check
 - Tell a review apart from a rebuild, and keep maintenance to the review
 - Recognize the two kinds of drift and the rhythm that catches each one
 - Run the four-input monthly pass in about five minutes
@@ -4928,6 +4744,16 @@ and the finished report you save once a year.*
 - Cap every pass at one to three finishable actions
 
 ---
+
+### Finish the build before maintenance
+
+Before a plan can be maintained, it has to be finished once.
+
+Open **Build Your Plan**. Foundation, Cash flow & reserve, Debt, Allocation, Tax, Retirement income, and Protect should be complete, truthfully marked not applicable, or consciously deferred with the limitation understood.
+
+Then open the Plan page and run the full **1,000 test runs**. Set the confidence target your earliest retirement date must clear; 80% is the default. The finished earliest date is the first age that clears that target.
+
+Read the date and confidence as a pair. This is the first finished-plan read, not the rough age from onboarding. Save the report after the rest of this module's scenario and review steps are complete.
 
 A rebuild goes back and re-litigates decisions you already settled. It reacts to every price move, feels heavy, and gets skipped. A review updates what actually changed in your life, and nothing else. Keeping the scope small is what makes maintenance cheap enough to actually do every year.
 
@@ -5008,12 +4834,11 @@ Your decision out of this lesson is your two review dates. Pick a specific recur
 
 ### Put it in Orange Plan
 
-Your calendar, not the app. There is no in-app scheduler: a specific recurring day for the monthly pass, and November for the annual review.
+First complete **Build Your Plan → Run your plan**: run 1,000 test paths and set the confidence target. Then use your calendar for a specific recurring monthly day and a November annual review, because there is no in-app scheduler.
 
 ### You are done when
 
-Both dates are recurring events you can see, and you have written down what you will not touch during a monthly pass. That second one is what holds the line when the price is moving.
-
+The full confidence check and target are saved, both review dates are recurring events you can see, and you have written down what you will not touch during a monthly pass. That second one is what holds the line when the price is moving.
 
 ## 9.2 Test a decision and read the finished plan
 *`TEACH` · ~1,930 words · ~12 min*
@@ -5180,6 +5005,23 @@ Then watch the module walkthrough below this video, where we build both scenario
 - Walk your own report in planner order and save this year's PDF
 
 ---
+### PART 0 — finish Build Your Plan and run the plan
+
+<!-- PLAN-LIFECYCLE:M9-RUN -->
+Before the monthly and annual rhythms, finish the plan once.
+
+**DO** Open Build Your Plan and read every area. Fix any accidental gap; use not-applicable answers only when they are true.
+
+**DO** Open Plan → run the full confidence check. Wait for all **1,000 test runs**.
+
+**DO** Set the confidence target in the earliest-date hero. The default is 80%.
+
+**SEE** Earliest retirement date = the first age that clears the selected target.
+
+**SAY** This is the first finished-plan read. The onboarding age was a rough deterministic estimate.
+
+**DO NOT** interpret a stale or pre-build confidence result as current.
+
 ### PART A — the two rhythms
 
 Companion walkthrough for Module 9. This is the ~8-minute lap that runs both rhythms on camera: **one timed monthly pass** (under five minutes, honestly), then **the six-area annual lap** (~40 seconds per screen). By the end, you have this year's report saved, a fresh encrypted backup, and 1–3 actions on the calendar.

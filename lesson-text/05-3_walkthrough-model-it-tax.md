@@ -1,5 +1,10 @@
 # Walkthrough: model it in Orange Plan (tax)
 
+<!-- PLAN-LIFECYCLE:LESSON-TEXT -->
+
+Foundation recorded current ownership. This walkthrough reconstructs purchase history and cost basis for Tax.
+
+
 Follow along (~20 minutes). Have last year's return and a wallet/exchange export ready. Run the import first, because harvest rooms only show for recorded lots.
 
 1. **Import history**: Dashboard → Update Transactions → A downloaded file. The app never invents basis; flagged lots are your homework.

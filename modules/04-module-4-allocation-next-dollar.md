@@ -732,6 +732,11 @@ Two facts should be true and visible:
 - The target and its drift band are saved. This is your number on the record.
 - The waterfall order is Reserve → Extra debt → Contributions, and it runs monthly.
 
+<!-- PLAN-LIFECYCLE:MODULE-4 -->
+### Build Your Plan handoff
+
+Allocation uses the real accounts and holdings entered in Foundation. Return to **Build Your Plan → Allocation** and confirm that the timeframe assignment and saved target mix reflect the decision you made in this module.
+
 ### What good looks like
 
 - Your holdings match reality. The donut doesn't lie.

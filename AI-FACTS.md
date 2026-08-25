@@ -1,7 +1,7 @@
 # AI-FACTS — how the Orange Plan AI actually works
 
 Source of truth for lesson 0.2 and every AI beat in the walkthroughs.
-Verified against the app code on 2026-08-07. Every claim here has a file
+Verified against the app code on 2026-08-25. Every claim here has a file
 behind it. If the app changes, this file changes first, then the lesson.
 
 Nothing here is written in Austin's voice. It's the fact sheet to dictate
@@ -68,6 +68,26 @@ estate planning*.
 
 The panel is also **page-aware without a button**: open it from Tax Center and
 the tax starter jumps to the top of the list (`orderStartersForPage`).
+
+---
+
+## 2a · Daily Bitcoin report
+
+Plan Guide has a **Market brief** card labelled **Run daily Bitcoin report**. It launches the Bitcoin Market Daily assistant.
+
+Verified against `knowledge/assistants/bitcoin-market-daily.md` and `PlanReviewConversation.jsx` on 2026-08-25. The brief is built to replace doomscrolling with a read under two minutes. It sweeps:
+
+- price over 24h, 7d, 30d and trailing one year, plus distance from verified ATH
+- ETF flows and fund-level outliers
+- newly disclosed public-company Bitcoin purchases or sales and financing
+- the most useful on-chain change for the day
+- futures, leverage, funding, liquidations and options when material
+- yields, Fed expectations, the dollar, oil and geopolitics, and fresh macro releases
+- material regulation, custody, exchange, mining and institutional news
+
+The reader-facing structure includes Market read, Price context, Market dynamics, On-chain, Flows, Macro, Industry news, What to ignore, Since yesterday, Watch next, and a short **Your plan** section when plan context is supplied.
+
+It is explicitly not a price prediction or trading call. The plan section ends with whether the day's move changes a plan action.
 
 ---
 
@@ -191,6 +211,21 @@ question details, no transient market opinions, no advice.
 Capped at **24 items**, max 4 added per review. Every item is visible in the
 panel, deletable one at a time, and there's a clear-all. Toast on clear-all,
 verbatim: *"Orange Plan no longer remembers anything about you."*
+
+---
+
+## 6a · AI Strategy Review Export
+
+Verified against `src/components/settings/DataPrivacySettings.jsx` on 2026-08-25.
+
+Path: **Settings → Data & Privacy → Data & backups → AI Strategy Review Export**.
+
+- **Download AI Review Markdown** creates the privacy-scrubbed reader file.
+- **Download Full JSON** creates the structured version.
+- Screen copy: *"A privacy-scrubbed Markdown file for AI review. This is not a restore backup."*
+- Screen warning: personal details removed; review before uploading; never share passwords, seed phrases, private keys, SSNs, account numbers, or backup passphrases.
+
+The export is designed for another AI the user prefers. It is separate from the AES-encrypted restore backup and must never be described as a backup.
 
 ---
 

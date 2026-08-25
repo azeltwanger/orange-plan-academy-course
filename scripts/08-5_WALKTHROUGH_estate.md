@@ -324,3 +324,8 @@
 **⚠** Close on the readiness bar. The difference between the start of this capture and the end is what an afternoon of estate work is worth.
 
 **END**
+
+<!-- PLAN-LIFECYCLE:MODULE-8 -->
+### Build Your Plan handoff
+
+Return to **Build Your Plan → Protect**. Confirm the beneficiaries exist, the heir letter is drafted in your own words, and the printable or downloaded copy is stored where the family can find it. The app checkmark is not the legal work; provider forms and signed documents remain the record.

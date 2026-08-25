@@ -1,5 +1,10 @@
 # Walkthrough: build cash flow and reserve
 
+<!-- PLAN-LIFECYCLE:LESSON-TEXT -->
+
+This is where income, spending, the reserve, and expected life events become full plan data. Module 1 only gathered the records.
+
+
 Follow along with the video (~15 minutes). Have 2–3 months of transactions available and your bare-bones number written down.
 
 1. **Read the verdict**: Cash Flow → This month. A deficit isn't failure; this module is the fix.

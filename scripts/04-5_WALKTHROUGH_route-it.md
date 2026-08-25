@@ -212,3 +212,8 @@ teaching, so they belong here.*
 **⚠** Land the close: the waterfall runs monthly from here. Your job is to fund it, the app does the routing.
 
 **END**
+
+<!-- PLAN-LIFECYCLE:MODULE-4 -->
+### Build Your Plan handoff
+
+Allocation uses the real accounts and holdings entered in Foundation. Return to **Build Your Plan → Allocation** and confirm that the timeframe assignment and saved target mix reflect the decision you made in this module.

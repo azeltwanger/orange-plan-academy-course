@@ -5,7 +5,7 @@
 > The sheet beside your keyboard is the sheet in `scripts/`; this is the
 > order to shoot them in and what each one needs staged first.
 
-**10 capture sessions, covering 11 capture lessons · ~169 min of raw capture.**
+**10 capture sessions, covering 11 capture lessons · ~161 min of raw capture.**
 
 A session is one continuous recording. Where a sheet names more than one
 lesson, it is filmed once and the edit splits it at the cut point.
@@ -24,44 +24,18 @@ forward and restarting is where the retakes come from. Where a sheet has
 
 ---
 
-## ☐ 1.4 + 1.5 · WALKTHROUGH — Set up and verify your baseline
+## ☐ 1.4 + 1.5 · WALKTHROUGH — Replace the estimate with real Foundation data
 
-*Screen capture · 22 steps · ~30 min*  ·  sheet: `scripts/01-4_WALKTHROUGH_module-1-set-up-and-verify.md`
+*Screen capture · one continuous recording · ~22 min raw*  ·  sheet: `scripts/01-4_WALKTHROUGH_module-1-set-up-and-verify.md`
 
-**Cut points in this capture:** **✂ CUT POINT 1 — end of lesson 1.4, start of lesson 1.5**
+**Cut points in this capture:** **✂ CUT POINT — end 1.4 / begin 1.5**
 
 **Stage this first:**
-- [ ] Fresh demo account, nothing entered
-- [ ] Numbers card below in front of you
-- [ ] Monte Carlo NOT yet run — the ring has to land live on camera in chapter D
-- [ ] Clean browser, notifications off
-- [ ] Uninterrupted block long enough for the whole run. **Do not reset the account at the cut point**
-
-**Beats:**
-1. ☐ A1 · Privacy
-2. ☐ A2 · About you — 7 slides
-3. ☐ A3 · Income & spending — SLOW DOWN
-4. ☐ A4 · Accounts
-5. ☐ A5 · Assets
-6. ☐ A6 · Transactions → SKIP
-7. ☐ A7 · Debts
-8. ☐ A8 · Contributions
-9. ☐ A9 · Social Security
-10. ☐ B1 · Assumptions — NOT skippable
-11. ☐ B2 · Strategy profile
-12. ☐ B3 · Life events
-13. ☐ B4 · Review — LET IT BREATHE
-14. ☐ B5 · Close the onboarding half
-15. ☐ C1 · Verify on Dashboard
-16. ☐ C2 · Add anything missing
-17. ☐ C3 · Update Transactions — show, don't run
-18. ☐ C4 · Shield the reserve
-19. ☐ C5 · Assumptions on the Plan page
-20. ☐ D1 · Earliest retirement date
-21. ☐ D2 · Confidence ring — LET IT RUN
-22. ☐ D3 · Life events
-23. ☐ D4 · Baseline PDF
-24. ☐ WRAP — spot check off the screen
+- [ ] Finish the new short onboarding flow
+- [ ] Use rough onboarding values only; no real accounts or holdings have been added
+- [ ] The deterministic starting retirement age is visible
+- [ ] No 1,000-run confidence receipt exists
+- [ ] Have a demo statement/account list ready for the real Foundation data
 
 ---
 
@@ -276,7 +250,7 @@ forward and restarting is where the retakes come from. Where a sheet has
 - [ ] Plan warm, right after a monthly pass
 - [ ] Retirement age, state, and retirement spending correct in settings (the scenario presets read them)
 - [ ] Set the 18-month / $120k reserve target on Cash Flow → Reserve settings → Target months → **18 mo**. The picker goes to 36 months now
-- [ ] A fresh confidence check run — the report's spending band needs explicit bands, or you get the *"Run a fresh confidence check…"* line instead
+- [ ] No fresh 1,000-run receipt yet if you want the result to land live — Part 0 runs it, and the report's spending band uses that fresh result
 - [ ] A couple of transactions ready to enter
 - [ ] At least one linked account with something **FLAGGED** — else the Part A AI beat's button won't render
 - [ ] Last year's report open in another tab if you have one

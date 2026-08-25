@@ -75,16 +75,16 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ## ☐ MODULE 0 — START HERE   ·   WAVE 1
 
 ☐ 0.1 How to use this course — 🎙 film (~11 min)
-☐ 0.2 How the AI works: what it reads, what it never sees — 🎙 film (~6 min)
+☐ 0.2 How to use Orange Plan AI — 🎙 film (~7 min)
 ☐ Paste the Module 0 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
 
-## ☐ MODULE 1 — FOUNDATION: BASELINE, ASSUMPTIONS, AND THE CONFIDENCE NUMBER   ·   WAVE 1
+## ☐ MODULE 1 — FOUNDATION: REPLACE THE ESTIMATE WITH REAL DATA   ·   WAVE 1
 
-☐ 1.1 What to gather before you build the plan — 🎙 film (~6 min)
+☐ 1.1 What to gather before you build the plan — 🎙 film (~7 min)
 ☐ 1.2 The three layers of a plan, and setting your assumptions — 🎙 film (~10 min)
-☐ 1.3 Read your retirement date and confidence number — 🎙 film (~9 min)
-☐ 1.4 Walkthrough: set up your plan in Orange Plan — 🖥 capture — ONE SESSION with 1.5, off `scripts/01-4_WALKTHROUGH_module-1-set-up-and-verify.md`
-☐ 1.5 Walkthrough: build your baseline in Orange Plan — 🖥 capture — ONE SESSION with 1.4, off `scripts/01-4_WALKTHROUGH_module-1-set-up-and-verify.md`
+☐ 1.3 Read your starting retirement date and the confidence number you will run later — 🎙 film (~5 min)
+☐ 1.4 Walkthrough: replace the onboarding estimate with real accounts — 🖥 capture — ONE SESSION with 1.5, off `scripts/01-4_WALKTHROUGH_module-1-set-up-and-verify.md`
+☐ 1.5 Walkthrough: verify Foundation and review assumptions — 🖥 capture — ONE SESSION with 1.4, off `scripts/01-4_WALKTHROUGH_module-1-set-up-and-verify.md`
 ☐ Paste the Module 1 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
 
 ## ☐ MODULE 2 — CASH FLOW + RESERVE   ·   WAVE 1
@@ -144,9 +144,9 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 8.5 Walkthrough: Protect, the heir letter, and the switch — 🖥 capture
 ☐ Paste the Module 8 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
 
-## ☐ MODULE 9 — MAINTAIN, TEST, AND READ THE PLAN   ·   WAVE 2
+## ☐ MODULE 9 — RUN, MAINTAIN, TEST, AND READ THE PLAN   ·   WAVE 2
 
-☐ 9.1 Keep the plan current: the monthly pass and the annual review — 🎙 film (~9 min)
+☐ 9.1 Finish the plan, then keep it current — 🎙 film (~9 min)
 ☐ 9.2 Test a decision and read the finished plan — 🎙 film (~11 min)
 ☐ 9.3 Walkthrough: annual review, scenarios, and your report — 🖥 capture
 ☐ Paste the Module 9 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")

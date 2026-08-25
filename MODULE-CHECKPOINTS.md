@@ -25,30 +25,30 @@ sum of them:
 
 ## Module 0 — Start Here
 
-**You will build:** You know how the course works, how the AI works, and the one rule about what never goes into it.
+**You will build:** You know how the course works, how the AI can help, and the one rule about what never goes into it.
 
 **You are done when:**
 
 - [ ] You know which modules are US-shaped, and what you will do about it if you are outside the US
-- [ ] You have clicked **AI Review** once, so you know where it lives
+- [ ] You have opened **AI Review** and run one useful review against your plan
+- [ ] You have run the **daily Bitcoin report** once and know it is information, not a trading signal
+- [ ] You know where **AI Strategy Review Export** lives if you prefer another AI
 - [ ] Memory is deliberately on or deliberately off, and you know which
-- [ ] You can say the one AI rule from memory: no seed phrase, private key, passphrase, PIN, or full account number ever goes into any AI
+- [ ] You can say the one AI rule from memory: no seed phrase, private key, passphrase, PIN, full account number, SSN, or backup-file passphrase ever goes into any AI
 
----
+## Module 1 — Foundation: replace the estimate with real data
 
-## Module 1 — Baseline, assumptions, and your confidence number
-
-**You will build:** A verified baseline and documented assumptions.
+**You will build:** Real personal details, accounts, current holdings, and documented assumptions.
 
 **You are done when:**
 
-- [ ] Every account, balance, income, and debt is entered, and the totals match what you would tell a planner out loud
-- [ ] Your growth and inflation assumptions are set, and **you could defend each one out loud** — that is the same standard the report is held to
-- [ ] Your earliest retirement date and your confidence number are both on screen, and you read them as a pair
-- [ ] If your confidence is lower than you want, you have named **one** lever you would pull first. One, not four
-- [ ] This year's report is saved as your starting-point snapshot
-
----
+- [ ] Your age/date of birth, residence, and filing status are correct in the Planning profile
+- [ ] Every real account and custody location has been added or connected
+- [ ] Current holdings and balances match what the accounts actually own today
+- [ ] You know where **Update Transactions** lives and can explain the difference between current holdings, tax history, and monthly maintenance
+- [ ] Your growth, inflation, and life-expectancy assumptions are set, and you could defend each one out loud
+- [ ] **Build Your Plan → Foundation** shows complete
+- [ ] You can explain why the onboarding age was a starting estimate and why the first 1,000-run confidence check waits until Module 9
 
 ## Module 2 — Cash flow and the no-sell reserve
 
@@ -163,20 +163,21 @@ sum of them:
 
 ---
 
-## Module 9 — Maintain, test, and read the plan
+## Module 9 — Run, maintain, test, and read the plan
 
-**You will build:** A monthly routine, an annual review date, saved scenarios, and a saved report.
+**You will build:** A finished confidence read, monthly routine, annual review date, saved scenarios, and saved report.
 
 **You are done when:**
 
+- [ ] Every Build Your Plan area before **Run your plan** is complete, deliberately marked not applicable, or consciously deferred with the limitation understood
+- [ ] You have run the full 1,000-path confidence check and set the confidence target your earliest retirement date must clear
+- [ ] Your earliest retirement date and confidence number are both on screen and you read them as a pair
 - [ ] A specific recurring day is on your calendar for the monthly pass, and **November** is on it for the annual review
 - [ ] You have named what you will *not* touch during a monthly pass
 - [ ] Two scenarios are saved and Monte Carlo'd: a deep drawdown right after retirement, and weaker Bitcoin returns than you assumed
-- [ ] You have read your own report in question order and answered all four out loud, in four sentences
+- [ ] You have read your own report in question order and answered all four questions out loud
 - [ ] This year's PDF is on disk with the year in the filename, alongside a fresh encrypted backup
-- [ ] Your next steps are **three or fewer**, and every assumption behind them is one you could defend
-
----
+- [ ] Your next steps are three or fewer, and every assumption behind them is one you could defend
 
 ## The whole course is done when
 

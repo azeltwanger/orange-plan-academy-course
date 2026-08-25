@@ -52,9 +52,9 @@ Give them the task, not the lesson. Let them find the lesson.
 | # | Task, in their words | Passes when |
 |---|---|---|
 | 1 | "Get set up and tell me what the course is going to cover." | They can name roughly what is coming and in what order |
-| 2 | "Get your real numbers into Orange Plan." | Baseline entered; totals match what they'd say out loud |
+| 2 | "Replace the rough estimate with your real accounts and holdings." | Foundation complete; personal details, accounts, and holdings match reality |
 | 3 | "Set your growth and inflation assumptions, and tell me why you chose them." | They can defend each number without hedging |
-| 4 | "Read your retirement date and your confidence number, and tell me what they mean together." | Both read as a pair; they say the first read is provisional |
+| 4 | "Explain the retirement age onboarding showed you, and tell me when the real confidence check happens." | They call the age a rough deterministic estimate and place the 1,000-run check in Module 9 |
 | 5 | "Find your surplus." | A real surplus number, with the tax reserve taken out first if self-employed |
 | 6 | "Set your reserve target." | Target set in **months**, and they can say what it's for |
 | 7 | "Give every debt a job, and tell me your ceiling." | Every debt has a job with a reason; a ceiling said out loud |
@@ -123,8 +123,7 @@ with no stated source.
 
 **Fixed as a result:**
 
-- **1.3** introduced "withdrawal order" four modules before it is taught. It was
-  in a paragraph added during the previous pass, which is how new jargon gets in.
+- **1.3** now separates the rough onboarding age from the finished-plan confidence result, so testers are not asked to read precision the short onboarding no longer produces.
 - **2.3** used "bridge years" in Module 2, defined in Module 6. Now says what it
   means locally — a low-income year is a cheap year to sell in — and hands the
   name to the retirement module.
