@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "fixtureVersion": "advanced-demo-v1",
+  "status": "approved_synthetic_inputs_professional_and_ui_holds_remain",
+  "privacy": {
+    "synthetic": true,
+    "containsClientData": false,
+    "containsAustinPersonalPlan": false,
+    "containsCredentials": false,
+    "containsBitcoinSecrets": false
+  },
+  "modeling": {
+    "baselineInflationPercent": 3,
+    "baselineConfidencePercent": 94.6,
+    "stressInflationPercent": 4,
+    "stressConfidencePercent": 91.6,
+    "confidenceDeltaPoints": -3.0,
+    "testRuns": 1000
+  },
+  "bitcoinLoan": {
+    "cashNeedUsd": 30000,
+    "loanBalanceUsd": 30000,
+    "collateralBtc": 1.5,
+    "startingBitcoinPriceUsd": 100000,
+    "startingCollateralValueUsd": 150000,
+    "startingLtvPercent": 20,
+    "illustrativeActionLtvPercent": 65,
+    "illustrativeLiquidationLtvPercent": 80,
+    "actionThresholdBitcoinPriceUsd": 30769.23076923077,
+    "liquidationThresholdBitcoinPriceUsd": 25000,
+    "targetRestoreLtvPercent": 50,
+    "topUpBtcAtActionLine": 0.45,
+    "cashPaydownUsdAtActionLine": 6923.076923076922,
+    "topUpBtcAtLiquidationLine": 0.9,
+    "cashPaydownUsdAtLiquidationLine": 11250,
+    "finiteTopUpReserveBtc": 0.5,
+    "termsStatus": "illustrative_only_replace_with_signed_agreement"
+  },
+  "sellVersusBorrow": {
+    "cashNeedUsd": 30000,
+    "saleBitcoinPriceUsd": 100000,
+    "bitcoinSoldBtc": 0.3,
+    "saleProceedsUsd": 30000,
+    "basisOfUnitsSoldUsd": 10000,
+    "modeledGainUsd": 20000,
+    "borrowAmountUsd": 30000,
+    "borrowCollateralBtc": 1.5,
+    "borrowStartingLtvPercent": 20,
+    "taxStatus": "illustrative_pending_cpa"
+  },
+  "basis": {
+    "currentBitcoinBtc": 1.75,
+    "completeQuantityBtc": 1.25,
+    "knownBasisUsd": 48000,
+    "reconstructionPendingBtc": 0.4,
+    "missingRecordsBtc": 0.1,
+    "unresolvedQuantityBtc": 0.5
+  },
+  "rothConversion": {
+    "expectedOrdinaryIncomeUsd": 40000,
+    "selectedPlanningCeilingUsd": 80000,
+    "firstPassRoomUsd": 40000,
+    "status": "illustrative_pending_current_tax_and_healthcare_review"
+  },
+  "harvesting": {
+    "lossLot": {
+      "currentValueUsd": 25000,
+      "basisUsd": 40000,
+      "modeledGainLossUsd": -15000
+    },
+    "gainLot": {
+      "currentValueUsd": 30000,
+      "basisUsd": 10000,
+      "modeledGainLossUsd": 20000
+    },
+    "status": "illustrative_pending_cpa_and_execution_rules"
+  },
+  "relocation": {
+    "illustrativeTaxBenefitUsd": 20000,
+    "addedThreeYearLifeCostsUsd": 60000,
+    "fullLifeNetDeltaUsd": -40000,
+    "status": "illustrative_not_a_state_tax_quote"
+  },
+  "accountAccess": {
+    "firstRetirementYearDrawUsd": 101948,
+    "primaryCoreSource": "taxable_bridge",
+    "candidateVerifiedSources": [
+      "current_employer_plan_if_eligible_and_supported",
+      "documented_roth_ira_regular_contribution_basis",
+      "hsa_for_supported_qualified_healthcare",
+      "professionally_designed_sepp_if_needed"
+    ],
+    "status": "requires_plan_documents_basis_records_and_cpa_review"
+  },
+  "healthcare": {
+    "illustrativeNetPremiumUsd": 12000,
+    "illustrativeExpectedOutOfPocketUsd": 6000,
+    "illustrativeAllInCostUsd": 18000,
+    "illustrativeConversionPremiumIncreaseUsd": 5000,
+    "status": "replace_with_current_household_quote"
+  },
+  "integratedFunding": {
+    "spendableCashNeedUsd": 100000,
+    "taxableFirst": {
+      "cashUsd": 30000,
+      "taxableSaleUsd": 70000,
+      "supportedGainUsd": 25000,
+      "illustrativeNetPremiumUsd": 8000
+    },
+    "taxablePlusConversion": {
+      "cashUsd": 30000,
+      "taxableSaleUsd": 70000,
+      "conversionUsd": 40000,
+      "illustrativeNetPremiumUsd": 13000
+    },
+    "employerPlanSource": {
+      "cashUsd": 30000,
+      "traditionalDistributionUsd": 40000,
+      "taxableSaleUsd": 30000,
+      "illustrativeNetPremiumUsd": 15000
+    },
+    "status": "illustrative_compare_same_cash_need_replace_tax_and_quote_results"
+  },
+  "custody": {
+    "longTermBitcoinBtc": 1.5,
+    "passphrasePracticeRequired": true,
+    "multisigPolicy": "2_of_3",
+    "keyCount": 3,
+    "signingThreshold": 2,
+    "migrationStages": [
+      "practice_wallet",
+      "small_live_tranche",
+      "verified_spend_from_destination",
+      "alternate_authorized_recovery",
+      "staged_remaining_transfer",
+      "family_practice",
+      "records_and_review_update"
+    ],
+    "realWorldProofStatus": "not_claimed_by_fixture"
+  },
+  "trust": {
+    "illustrativeBitcoinBtc": 1.5,
+    "mismatch": {
+      "documentClaimsTrustOwnership": true,
+      "walletStillIndividual": true,
+      "successorTrusteeNamed": true,
+      "successorRecoveryTested": false,
+      "providerOrAssignmentProof": false
+    },
+    "status": "illustrative_legal_technical_mismatch_attorney_cpa_custody_review_required"
+  }
+}
