@@ -11,11 +11,11 @@ The useful question is: **which cost and risk is the household choosing in excha
 
 == USE THE SAME NEED ON BOTH SIDES ==
 
-Suppose the household needs $30,000 for a planned renovation.
+In our Advanced demo, the household needs $30,000 for a planned renovation.
 
-Do not compare a $30,000 sale with a $50,000 loan or assume the unused loan proceeds are free optionality.
+I would compare a $30,000 sale with a $30,000 loan on the same date. Comparing different cash amounts makes the result meaningless.
 
-Both sides should fund the same need on the same date.
+Do not treat unused loan proceeds as free optionality.
 
 == THE SALE SIDE ==
 
@@ -51,29 +51,29 @@ A conventional bona fide loan is generally different from a sale because the pro
 
 If the product transfers title or economic control, permits reuse, exchanges Bitcoin for an obligation to return identical units, or uses another structure unlike a simple pledge, the legal and tax treatment may be unresolved or fact-specific.
 
-So the borrow side's current-tax result stays **provisional** until the CPA or tax attorney reviews the agreement. Interest, eventual repayment, a later sale, liquidation, cancellation, lender failure, and loan balance at death all belong in the comparison.
+So the borrow side's current-tax result stays **provisional** until the CPA or tax attorney reviews the agreement. Interest, repayment, a later sale, liquidation, cancellation, lender failure, and loan balance at death all belong in the comparison.
 
-== WHAT BITCOIN PRICE WOULD MAKE BORROWING LOOK BETTER? ==
+== WHEN DOES EACH PATH LOOK BETTER? ==
 
-Borrowing tends to look better in a path where Bitcoin rises enough that the retained exposure exceeds the interest, fees, tax timing, and risk cost.
+Borrowing tends to look better when retained Bitcoin exposure exceeds the interest, fees, tax timing, and risk cost.
 
-Selling tends to look better in a path where Bitcoin falls, remains weak, the loan remains expensive, or the collateral is impaired.
+Selling tends to look better when Bitcoin falls, remains weak, the loan remains expensive, or the collateral is impaired.
 
-The model can show both. It cannot assign a dollar value to the household's stress, custody preference, or willingness to manage a margin call.
+The app can model both paths. It cannot assign a dollar value to the household's stress, custody preference, or willingness to manage a margin call.
 
 That human cost still matters.
 
 == READ THE ORANGE PLAN COMPARISON IN ORDER ==
 
 1. **Same cash need:** did both strategies fund the same amount and date?
-2. **Legal and tax classification:** has the agreement actually been reviewed as a loan rather than an assumed non-sale transfer?
-3. **Tax today:** what gain and tax does the sale create under known basis, and what provisional treatment is used for the loan?
+2. **Legal and tax classification:** has the agreement been reviewed as a loan rather than assumed to be one?
+3. **Tax today:** what gain and tax does the sale create, and what provisional treatment is used for the loan?
 4. **Interest and fees:** what does the loan cost by year and in total?
-5. **Bitcoin retained:** how much Bitcoin remains economically exposed?
-6. **Collateral at the lender:** how much is outside ordinary custody?
+5. **Bitcoin retained:** how much remains economically exposed?
+6. **Collateral at the lender:** how much leaves ordinary custody?
 7. **Drawdown behavior:** do top-ups, margin calls, or liquidation appear?
 8. **Loan balance later and at death:** who eventually repays it?
-9. **Ending net worth:** after debt, tax, interest, and remaining Bitcoin—not before them.
+9. **Ending net worth:** after debt, tax, interest, and remaining Bitcoin.
 
 A bigger ending number in one modeled path is not proof that borrowing is safer.
 
@@ -81,11 +81,9 @@ A lower tax bill today is not proof that borrowing is cheaper—or that the agre
 
 == WORK A SIMPLE BREAK-EVEN QUESTION ==
 
-Assume, purely for illustration, that the loan costs $3,000 in interest over the period and the sale would create $3,000 of current tax.
+Assume, purely for illustration, that the loan costs $3,000 in interest and the sale creates $3,000 of current tax.
 
-Those two current-dollar costs look equal.
-
-They are not the same decision.
+Those current-dollar costs look equal. They are not the same decision.
 
 The seller gives up future exposure on 0.30 BTC and eliminates lender risk.
 
@@ -93,7 +91,7 @@ The borrower keeps exposure, still owes $30,000, and pledges 1.50 BTC.
 
 The comparison turns on the future Bitcoin path, the confirmed agreement treatment, and the value the household places on simplicity, access, and survivability.
 
-That is why the app needs the full plan rather than a one-line “interest versus tax” calculation.
+That is why Orange Plan needs the full plan rather than a one-line “interest versus tax” calculation.
 
 == WHERE THE NUMBERS COME FROM ==
 
@@ -109,7 +107,7 @@ That is why the app needs the full plan rather than a one-line “interest versu
 
 **Calculated from:** both full projection paths.
 
-**Edit source:** sale strategy, lot/basis inputs, loan terms, collateral policy, repayment, and professional tax classification.
+**Edit source:** sale strategy, lot and basis inputs, loan terms, collateral policy, repayment, and professional tax classification.
 
 **This affects:** tax, custody exposure, liquidation risk, estate, and ending net worth.
 
@@ -123,6 +121,6 @@ Preview both strategies against the same need, inspect the drawdown and loan-at-
 
 == YOU ARE DONE WHEN ==
 
-You can explain what each option costs, what risk each option removes or adds, which future assumption is carrying the apparent advantage, and which professional has confirmed the loan's legal and tax classification.
+You can explain what each option costs, what risk each removes or adds, which future assumption carries the apparent advantage, and who confirmed the loan's legal and tax classification.
 
 **Return to Core:** save the selected Retirement Income or life-event funding source and keep the unchosen option as a Scenario rather than a hidden second plan.
