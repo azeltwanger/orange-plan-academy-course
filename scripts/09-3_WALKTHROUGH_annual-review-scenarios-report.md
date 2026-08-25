@@ -28,7 +28,7 @@
 - [ ] Plan warm, right after a monthly pass
 - [ ] Retirement age, state, and retirement spending correct in settings (the scenario presets read them)
 - [ ] Set the 18-month / $120k reserve target on Cash Flow → Reserve settings → Target months → **18 mo**. The picker goes to 36 months now
-- [ ] A fresh confidence check run — the report's spending band needs explicit bands, or you get the *"Run a fresh confidence check…"* line instead
+- [ ] No fresh 1,000-run receipt yet if you want the result to land live — Part 0 runs it, and the report's spending band uses that fresh result
 
 **Props**
 
@@ -43,6 +43,23 @@
 - [ ] **Part B empty state.** No saved scenarios yet if you want the empty state on camera. Part C then needs at least one saved, which Part B produces — one more reason to film straight through.
 - [ ] **Part C reading order ≠ page order.** The report leads with trajectory; position is section FIVE. You will jump, and you should say so.
 - [ ] Part C conditional sections: *"If Bitcoin follows a different path"* (needs a saved scenario) · *"Your next steps"* · *"What these terms mean"*
+
+---
+
+### PART 0 — finish Build Your Plan and run the plan
+
+<!-- PLAN-LIFECYCLE:M9-RUN -->
+**DO** Open Build Your Plan. Read every area before Run your plan. Fix an accidental gap; use not-applicable answers only when true.
+
+**DO** Plan → run the full confidence check. Wait for **1,000 test runs**.
+
+**DO** Set the confidence target in the earliest-date hero. Default is 80%.
+
+**SEE** The earliest retirement date becomes the first age that clears that target.
+
+**SAY** This is the first finished-plan read. The onboarding age was a rough deterministic estimate, not this result.
+
+**⚠** Never pair a new plan with an old confidence receipt. Re-run after material plan inputs change.
 
 ---
 
@@ -469,18 +486,3 @@ plan. If you don't have a spouse, do this with whoever would get the call.*
 **⚠** Five years of before-pictures show you what actually moved and what only felt like it did.
 
 **END**
-
-### PART 0 — finish Build Your Plan and run the plan
-
-<!-- PLAN-LIFECYCLE:M9-RUN -->
-**DO** Open Build Your Plan. Read every area before Run your plan. Fix an accidental gap; use not-applicable answers only when true.
-
-**DO** Plan → run the full confidence check. Wait for **1,000 test runs**.
-
-**DO** Set the confidence target in the earliest-date hero. Default is 80%.
-
-**SEE** The earliest retirement date becomes the first age that clears that target.
-
-**SAY** This is the first finished-plan read. The onboarding age was a rough deterministic estimate, not this result.
-
-**⚠** Never pair a new plan with an old confidence receipt. Re-run after material plan inputs change.

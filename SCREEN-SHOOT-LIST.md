@@ -250,7 +250,7 @@ forward and restarting is where the retakes come from. Where a sheet has
 - [ ] Plan warm, right after a monthly pass
 - [ ] Retirement age, state, and retirement spending correct in settings (the scenario presets read them)
 - [ ] Set the 18-month / $120k reserve target on Cash Flow → Reserve settings → Target months → **18 mo**. The picker goes to 36 months now
-- [ ] A fresh confidence check run — the report's spending band needs explicit bands, or you get the *"Run a fresh confidence check…"* line instead
+- [ ] No fresh 1,000-run receipt yet if you want the result to land live — Part 0 runs it, and the report's spending band uses that fresh result
 - [ ] A couple of transactions ready to enter
 - [ ] At least one linked account with something **FLAGGED** — else the Part A AI beat's button won't render
 - [ ] Last year's report open in another tab if you have one

@@ -254,3 +254,51 @@ WALKTHROUGH NAMING ANOTHER MODULE'S LESSON  —  0
 }
 STALE: none
 ```
+
+## Final Module 9 walkthrough-order pass
+
+### PASS · build one-file
+
+```text
+ALL-SCRIPTS.md — 38 files, 52,928 words
+```
+
+### PASS · build shoot list
+
+```text
+SCREEN-SHOOT-LIST.md regenerated — 10 captures, ~161 min
+```
+
+### PASS · build production checklist
+
+```text
+PRODUCTION-CHECKLIST.md regenerated — 3 filming blocker(s): 2.3 F20, 4.3 F22, Module 2 F23 · 1 publication blocker(s) · 1 not scheduled
+```
+
+### PASS · check crossrefs
+
+```text
+DEAD LESSON REFERENCE  —  0
+
+MODULE NUMBER OUT OF RANGE  —  0
+
+WALKTHROUGH NAMING ANOTHER MODULE'S LESSON  —  0
+
+0 problems. Valid lessons: 53. Modules: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+```
+
+### PASS · check layer parity
+
+```text
+NOTES (reported, do not fail)  —  0
+
+FAILURES  —  0
+
+53 lessons · 17 registry rules · 171 files scanned · 0 failures, 0 notes
+```
+
+### PASS · slop scan
+
+```text
+40 candidates · 36 adjudicated in SLOP-ACCEPTED.md · 0 UNADJUDICATED
+```
