@@ -1,0 +1,40 @@
+name: Fix Module 9 walkthrough order
+
+on:
+  push:
+    branches:
+      - course-plan-lifecycle-revision
+    paths:
+      - course-module9-order/RUN
+
+permissions:
+  contents: write
+
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: course-plan-lifecycle-revision
+          fetch-depth: 0
+
+      - name: Fix walkthrough order and regenerate outputs
+        run: python3 course-module9-order/fix.py
+
+      - name: Remove one-time files
+        run: |
+          rm -rf course-module9-order
+          rm -f .github/workflows/fix-module9-order.yml
+
+      - name: Commit walkthrough order fix
+        run: |
+          git config user.name "OpenAI Course Revision"
+          git config user.email "noreply@openai.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Put the final confidence run before Module 9 maintenance"
+          git push origin HEAD:course-plan-lifecycle-revision
