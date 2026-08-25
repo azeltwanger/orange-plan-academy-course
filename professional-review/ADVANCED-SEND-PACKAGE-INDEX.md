@@ -1,6 +1,6 @@
 # Orange Plan Academy — Advanced professional send-package index
 
-**Status:** packages prepared; no reviewer selected, retained, or contacted
+**Status: NOT SENT.** Packages are prepared; no reviewer has been selected, retained, or contacted.
 
 Send the smallest package needed to clear the claims. Do not send the entire repository.
 
@@ -17,6 +17,7 @@ Every reviewer receives this boundary:
 
 ## Package 1 — Bitcoin lending/legal
 
+**Status:** NOT SENT  
 **Primary packet:** `LENDING-SEND.md`  
 **Lessons:** A2.1–A2.4  
 **Suggested reviewer:** US attorney with current digital-asset secured-lending experience; optional independent operational practitioner after legal review  
@@ -40,6 +41,7 @@ Required return:
 
 ## Package 2 — CPA / tax attorney
 
+**Status:** NOT SENT  
 **Primary packets:** `CPA-SEND.md` + `CPA-ADVANCED-SEND.md`  
 **Lessons:** Core tax-sensitive lessons; A2 tax portions; A3.1–A3.4; A4 tax/access portions; A6 tax/basis portions  
 **Estimated claim-review time:** 2–4 hours depending on scope
@@ -63,6 +65,7 @@ The reviewer is not asked to prepare a return or choose a final household transa
 
 ## Package 3 — Pre-Medicare healthcare
 
+**Status:** NOT SENT  
 **Primary packet:** `HEALTHCARE-SEND.md`  
 **Lessons:** A4.2–A4.3  
 **Suggested review split:** Marketplace-certified assister or licensed individual-market professional; CPA for income interactions; qualified Medicare counseling for handoff  
@@ -85,6 +88,7 @@ No quote example is presented as an actual premium or subsidy.
 
 ## Package 4 — Advanced custody
 
+**Status:** NOT SENT  
 **Primary packets:** `CUSTODY-SEND.md` + `CUSTODY-ADVANCED-SEND.md`  
 **Lessons:** Core 7.1–7.3 and technical 8.2; A5.1–A5.3; technical A6.2  
 **Suggested reviewer:** experienced custody practitioner who can review device-neutral safety; provider-specific reviewer only for the provider's own workflow  
@@ -108,6 +112,7 @@ A provider explanation does not independently clear generic comparisons about pr
 
 ## Package 5 — Colorado estate / trust
 
+**Status:** NOT SENT  
 **Primary packets:** `ESTATE-ATTORNEY-SEND.md` + `ESTATE-ADVANCED-SEND.md`  
 **Lessons:** Core 8.1–8.3; legal A2/A5 portions; A6.1–A6.2  
 **Suggested reviewer:** Colorado-licensed estate-planning attorney with digital-asset familiarity; CPA separately reviews tax conclusions  
@@ -132,6 +137,7 @@ The reviewer is not asked to draft the fictional household's documents.
 
 ## Package 6 — Insurance / protection
 
+**Status:** NOT SENT  
 **Primary packet:** `INSURANCE-SEND.md`  
 **Lesson:** Core 8.4; any Advanced healthcare language touching coverage boundaries is coordinated with Package 3  
 **Estimated review time:** 45–75 minutes
