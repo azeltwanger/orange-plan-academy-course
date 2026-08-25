@@ -3,6 +3,7 @@
 Send this with `CPA-SEND.md` when the reviewer is clearing the full current course.
 
 **Affected lessons:** A2 tax portions, A3.1–A3.4, A4.1–A4.3, and A6 tax/basis portions  
+**Source verification:** completed 2026-08-25  
 **External status:** not sent
 
 ## Response codes
@@ -27,7 +28,10 @@ Send this with `CPA-SEND.md` when the reviewer is clearing the full current cour
 | AT-14 | HSA reimbursements require qualified expenses and records; not every premium or health cost qualifies. | Confirm. |
 | AT-15 | Trust income-tax status, gift completion, gross-estate inclusion, and basis adjustment are separate questions. | Confirm. |
 | AT-16 | A trust outside the gross estate does not automatically receive the same basis result as property included in the estate. | Confirm current durable wording. |
-| AT-17 | Borrowing tax consequences require review of proceeds, interest use/tracing, liquidation, cancellation, refinance, ownership, repayment, and estate treatment. | Confirm safest boundary. |
+| AT-17 | Cash from a conventional bona fide loan is generally not income because the borrower has a repayment obligation, but the course does not automatically apply that conclusion to every digital-asset product marketed as a loan. | Confirm the shortest accurate evergreen wording. |
+| AT-18 | The tax analysis should inspect title/economic control, permitted reuse, whether Bitcoin is exchanged for an obligation to return identical units, liquidation, cancellation, refinance, entity ownership, use/tracing of proceeds, repayment, and estate treatment. | Which facts can change the arrangement from a secured pledge into a taxable disposition or another unresolved transaction? |
+| AT-19 | Orange Plan's borrow-path tax output is provisional until the signed agreement and collateral transaction flow are reviewed. | What planning assumption, warning, or conservative default is appropriate before classification is confirmed? |
+| AT-20 | Lender liquidation can create a digital-asset disposition; lot identification, amount realized, fees, loan paydown, deficiency/surplus, and reporting need current review. | Confirm the minimum maintained-reference and CPA handoff. |
 
 ## Files
 
@@ -36,6 +40,7 @@ Send this with `CPA-SEND.md` when the reviewer is clearing the full current cour
 - A4.1–A4.3
 - A6.1–A6.2 tax/basis portions
 - matching lesson text
+- `professional-review/ADVANCED-AUTHORITATIVE-SOURCE-VERIFICATION.md`
 
 ## Return format
 
