@@ -4,54 +4,40 @@
 
 ## Compare structure before rate
 
-The signed agreement controls collateral rights, notices, liquidation, fees, repayment, and insolvency claims.
+A small rate difference matters less than collateral control, reuse, insolvency claim, liquidation, and exit.
 
-## Questions to answer
+Two providers can offer the same loan while one takes full custody, permits broad reuse, and uses full liquidation and another uses different controls and liquidation terms. The agreement—not the product name—owns the answer.
 
-### Collateral
+## Five questions
 
-- Control and legal ownership
-- Segregation
-- Rehypothecation or reuse
-- Failure/insolvency claim
-- Governing law
+### 1. Who controls the Bitcoin?
 
-### LTV and liquidation
+Review segregation, reuse, legal claim, custody, and governing law.
 
-- Price source and frequency
-- Exact action thresholds
-- Notice and response time
-- Partial or full liquidation
-- Handling of remaining collateral
+### 2. What starts lender action?
 
-### Economics
+Confirm the price source, thresholds, notice, response time, and partial versus full liquidation.
 
-- Fixed, variable, or renewal rate
-- Paid or capitalized interest
-- All fees
-- Prepayment and collateral release
+### 3. What does the loan cost?
 
-### Top-up
+Record rate structure, interest treatment, all fees, repayment, and release timing.
 
-- Manual or automatic
-- Eligible source
-- Target after action
-- Release trigger and discretion
+### 4. How do top-up and release work?
 
-### Incapacity and death
+Confirm eligible sources, target after action, and whether release is automatic or discretionary.
 
-- Authorized contact
-- Accepted legal documents
-- Repayment and liquidation process
+### 5. What happens during incapacity or death?
+
+Identify the authorized contact, accepted documents, repayment process, and liquidation risk.
 
 ## Exit rules
 
-Write the repayment source and the events that reduce or close the loan. Do not assume refinancing will be available during a crisis.
+Write the repayment source and the events that reduce or close the loan. Do not rely on refinancing or a higher Bitcoin price.
 
 ## App versus agreement
 
-Orange Plan holds the planning record. The lender agreement and ledger control the actual position.
+Orange Plan holds the planning record. The signed agreement and lender ledger control the actual position.
 
 ## Done when
 
-The household understands the provider structure and has an exit that does not require a higher Bitcoin price.
+The household understands the provider structure and has an exit that works without a higher Bitcoin price.
