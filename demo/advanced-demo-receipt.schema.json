@@ -1,0 +1,173 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://orangeplan.example/schemas/advanced-demo-receipt.schema.json",
+  "title": "Orange Plan Academy Advanced demonstration receipt",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schemaVersion",
+    "demoId",
+    "lessonIds",
+    "gate",
+    "decision",
+    "verifiedDate",
+    "syntheticOrRedacted",
+    "noSecretsConfirmed",
+    "versionEvidence",
+    "inputs",
+    "state",
+    "outputs",
+    "provenanceKeys",
+    "externalEvidence",
+    "professionalReview",
+    "recordingEvidence",
+    "result",
+    "returnToCore",
+    "austinApproval"
+  ],
+  "properties": {
+    "schemaVersion": {"const": 1},
+    "demoId": {"type": "string", "pattern": "^AD[1-9]$"},
+    "lessonIds": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {"type": "string", "pattern": "^A[1-6]\\.[1-4]$"}
+    },
+    "gate": {"type": "string", "minLength": 1},
+    "decision": {"type": "string", "minLength": 1},
+    "verifiedDate": {"type": "string", "format": "date"},
+    "syntheticOrRedacted": {"type": "boolean", "const": true},
+    "noSecretsConfirmed": {"type": "boolean", "const": true},
+    "versionEvidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status"],
+      "properties": {
+        "status": {"enum": ["pending", "verified"]},
+        "appCommit": {"type": ["string", "null"]},
+        "route": {"type": ["string", "null"]},
+        "provider": {"type": ["string", "null"]},
+        "providerDocumentVersion": {"type": ["string", "null"]},
+        "device": {"type": ["string", "null"]},
+        "deviceFirmware": {"type": ["string", "null"]},
+        "coordinatorOrSoftware": {"type": ["string", "null"]},
+        "legalOrTaxDocumentVersion": {"type": ["string", "null"]},
+        "quoteDate": {"type": ["string", "null"], "format": "date"}
+      }
+    },
+    "inputs": {"type": "object"},
+    "state": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["kind"],
+      "properties": {
+        "kind": {
+          "enum": [
+            "saved_baseline",
+            "unsaved_input",
+            "preview",
+            "applied_strategy",
+            "scenario",
+            "manual_review",
+            "read_only_output",
+            "external_process"
+          ]
+        },
+        "saveBehavior": {"type": ["string", "null"]},
+        "labelsVerified": {"type": "boolean"},
+        "roundingVerified": {"type": "boolean"}
+      }
+    },
+    "outputs": {"type": "object"},
+    "provenanceKeys": {
+      "type": "array",
+      "uniqueItems": true,
+      "items": {"type": "string", "minLength": 1}
+    },
+    "externalEvidence": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["owner", "status", "description"],
+        "properties": {
+          "owner": {
+            "enum": [
+              "orange_plan",
+              "lender",
+              "broker_or_wallet",
+              "employer_plan",
+              "health_plan_or_marketplace",
+              "device_or_provider",
+              "cpa_or_tax_attorney",
+              "lending_attorney_or_practitioner",
+              "healthcare_reviewer",
+              "custody_practitioner",
+              "estate_attorney",
+              "other"
+            ]
+          },
+          "status": {"enum": ["pending", "received", "verified", "not_applicable"]},
+          "description": {"type": "string", "minLength": 1},
+          "reference": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "professionalReview": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["packet", "claimIds", "status"],
+        "properties": {
+          "packet": {"type": "string", "minLength": 1},
+          "claimIds": {
+            "type": "array",
+            "items": {"type": "string", "minLength": 1}
+          },
+          "status": {"enum": ["not_sent", "sent", "returned", "applied", "not_applicable"]},
+          "reviewer": {"type": ["string", "null"]},
+          "appliedCommit": {"type": ["string", "null"]}
+        }
+      }
+    },
+    "recordingEvidence": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "screenshots", "recordingReference"],
+      "properties": {
+        "status": {"enum": ["pending", "captured", "accepted"]},
+        "screenshots": {
+          "type": "array",
+          "items": {"type": "string"}
+        },
+        "recordingReference": {"type": ["string", "null"]}
+      }
+    },
+    "result": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status", "summary", "unresolvedHolds"],
+      "properties": {
+        "status": {"enum": ["hold", "accepted", "rejected"]},
+        "summary": {"type": "string", "minLength": 1},
+        "unresolvedHolds": {
+          "type": "array",
+          "items": {"type": "string"}
+        }
+      }
+    },
+    "returnToCore": {"type": "string", "minLength": 1},
+    "austinApproval": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["status"],
+      "properties": {
+        "status": {"enum": ["pending", "approved", "changes_requested"]},
+        "date": {"type": ["string", "null"], "format": "date"},
+        "notes": {"type": ["string", "null"]}
+      }
+    }
+  }
+}
