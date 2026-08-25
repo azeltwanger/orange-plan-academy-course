@@ -19,6 +19,9 @@ jobs:
           ref: course-final-dictation-readiness
           fetch-depth: 0
 
+      - name: Apply style-gate preflight
+        run: python3 course-finalize/preflight.py
+
       - name: Apply course finalization
         run: python3 course-finalize/apply.py
 
