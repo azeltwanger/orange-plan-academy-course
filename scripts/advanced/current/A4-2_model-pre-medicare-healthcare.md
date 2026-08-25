@@ -29,7 +29,9 @@ COBRA generally preserves the employer-plan coverage for a limited period and ca
 
 Marketplace eligibility and savings depend on the current rules, household size, and expected annual income.
 
-I use CrowdHealth in my own family, and it has saved us meaningful money. I would never present that experience as proof that health sharing is equivalent to insurance. The membership agreement, pre-existing-condition treatment, payment process, HSA compatibility, legal protections, and household reserve all have to be reviewed under the current terms.
+I use CrowdHealth in my own family, and it has saved us meaningful money. I would never present that experience as proof that health sharing is equivalent to insurance.
+
+The current membership agreement, pre-existing-condition treatment, payment process, HSA compatibility, legal protections, and household reserve all need review.
 
 == PREMIUM IS NOT THE FULL COST ==
 
@@ -55,15 +57,17 @@ Marketplace savings use expected household income under the current Marketplace 
 
 Traditional withdrawals, Roth conversions, taxable interest and dividends, realized gains, wages, and other income can increase the amount used in that calculation.
 
-Cash spending, return of basis, qualified Roth distributions, qualified HSA reimbursements, and bona fide loan proceeds can affect spendable cash differently from taxable income—but every source still needs the current tax and program treatment verified.
+Cash spending, return of basis, qualified Roth distributions, qualified HSA reimbursements, and bona fide loan proceeds may affect spendable cash differently.
+
+Every source still needs its current tax and program treatment verified.
 
 That creates a real competition for the low-income years.
 
 A large Roth conversion can improve the future tax plan and increase the net healthcare premium in the same year.
 
-A Bitcoin sale can fund spending while only the gain portion enters taxable income, but unresolved basis makes the income estimate unreliable.
+A Bitcoin sale can fund spending while only the gain portion enters taxable income, but unresolved basis makes the estimate unreliable.
 
-The healthcare decision and tax decision cannot be modeled in separate rooms.
+The healthcare and tax decisions cannot be modeled in separate rooms.
 
 == WORK THE DEMO BRIDGE ==
 
@@ -72,18 +76,18 @@ Alex retires at 55, creating about 10 years before the normal Medicare age.
 The household should price at least three real annual paths:
 
 1. COBRA or former-employer continuation for the initial period
-2. Marketplace coverage using the MAGI from the saved withdrawal strategy
+2. Marketplace coverage using the income from the saved withdrawal strategy
 3. Another current option the household is genuinely willing and eligible to use
 
-Suppose the Marketplace quote at the Core withdrawal strategy produces a $12,000 annual net premium and the household expects another $6,000 of ordinary out-of-pocket spending.
+Suppose the Marketplace quote at the Core withdrawal strategy produces a $12,000 annual net premium and another $6,000 of expected out-of-pocket spending.
 
 The first planning input is $18,000 for that year—not the premium alone.
 
 Now suppose a proposed conversion raises the current quote by $5,000.
 
-The conversion cost is not only the additional tax. The healthcare comparison should include that $5,000 change as well.
+The conversion cost is not only the additional tax. The healthcare comparison should include that $5,000 change.
 
-Those dollar values are an illustrative quote set, not a current Colorado premium or subsidy promise. Replace them with the actual quote for the review year.
+Those amounts are an illustrative quote set, not a current Colorado premium or subsidy promise. Replace them with the actual quote for the review year.
 
 == HSA IS A HEALTHCARE BRIDGE, NOT A MAGIC ACCOUNT ==
 
@@ -95,15 +99,15 @@ It does not make premiums or every health-related payment automatically tax-free
 
 Keep receipts, proof that the expense was qualified, and evidence it was not reimbursed elsewhere. Confirm which premiums are eligible under the household's circumstances.
 
-== MODEL THE END DATE AND THE MEDICARE HANDOFF ==
+== MODEL THE END DATE AND MEDICARE HANDOFF ==
 
 The pre-Medicare cost should have a start and end date.
 
-At Medicare eligibility, the Marketplace or other bridge expense ends and a different set of premiums, deductibles, supplements, drug coverage, and income-related costs begins.
+At Medicare eligibility, the Bridge coverage ends and a different set of premiums, deductibles, supplements, drug coverage, and income-related costs begins.
 
 Medicare enrollment timing depends on the person's situation, current coverage, and eligibility. COBRA is not automatically treated the same as active-employment coverage for delaying enrollment.
 
-The maintained reference and insurance professional own the current enrollment steps.
+The maintained reference and qualified professional own the current enrollment steps.
 
 == WHERE THE NUMBERS COME FROM ==
 
@@ -119,14 +123,16 @@ The maintained reference and insurance professional own the current enrollment s
 
 == YOUR DECISION ==
 
-Choose the coverage path for the first bridge year, the all-in planning cost, and the income range the household wants to preserve for the current quote.
+Choose the first-year coverage path, all-in planning cost, and the income range the household wants to preserve for the current quote.
 
 == PUT IT IN ORANGE PLAN ==
 
-Enter the quoted net healthcare cost as a dated expense covering the actual bridge years. Keep the quote, MAGI estimate, and professional review with the annual plan record. Do not assume the tax page automatically prices every Marketplace interaction.
+Enter the quoted healthcare cost as a dated expense covering the actual Bridge years. Keep the quote and income estimate with the annual plan record.
+
+The app can model the expense and funding strategy. It may not calculate every Marketplace or Medicare interaction.
 
 == YOU ARE DONE WHEN ==
 
-The household has a current quote, a full-cost estimate, a dated funding source, a MAGI sensitivity check, and a Medicare transition date rather than one generic healthcare inflation number.
+The household has a current quote, a full-cost estimate, a dated funding source, an income-sensitivity check, and a Medicare transition date rather than one generic healthcare inflation number.
 
-**Return to Core:** update Retirement spending, the Bridge, and the Tax question with the accepted healthcare path.
+**Return to Core:** update retirement spending, the Bridge, and the Tax question with the accepted healthcare path.
