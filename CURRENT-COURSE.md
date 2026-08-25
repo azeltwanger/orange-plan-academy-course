@@ -9,8 +9,8 @@
 | Layer | Scripts | Matching lesson text | Spoken words | Header production time |
 |---|---:|---:|---:|---:|
 | Core | 28 | 28 | 26,932 | 173.8 min |
-| Advanced | 18 | 18 | 14,805 | 139.0 min |
-| **Combined** | **46** | **46** | **41,737** | **312.8 min / 5.2 h** |
+| Advanced | 18 | 18 | 15,082 | 139.0 min |
+| **Combined** | **46** | **46** | **42,014** | **312.8 min / 5.2 h** |
 
 Advanced is conditional, so a learner does not watch the combined runtime by default.
 
