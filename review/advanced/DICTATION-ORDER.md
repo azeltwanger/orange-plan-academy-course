@@ -1,6 +1,6 @@
 # Austin review and dictation order — Advanced Library
 
-**18 conditional lessons · 14,805 spoken words · 95.5 raw minutes at 155 wpm · 139 production minutes from script headers.**
+**18 conditional lessons · 15,082 spoken words · 97.3 raw minutes at 155 wpm · 139 production minutes from script headers.**
 
 Review after Core. A professional/UI hold blocks final approval and filming, not this first review.
 
@@ -15,9 +15,9 @@ Review after Core. A professional/UI hold blocks final approval and filming, not
 
 | Lesson | Words | Raw min | Header min |
 |---|---:|---:|---:|
-| [A2.1 · What a Bitcoin-backed loan changes](../../scripts/advanced/current/A2-1_what-a-bitcoin-backed-loan-changes.md) | 856 | 5.5 | 8 |
+| [A2.1 · What a Bitcoin-backed loan changes](../../scripts/advanced/current/A2-1_what-a-bitcoin-backed-loan-changes.md) | 975 | 6.3 | 8 |
 | [A2.2 · Build the survival and repayment plan](../../scripts/advanced/current/A2-2_build-the-loan-survival-and-repayment-plan.md) | 873 | 5.6 | 8 |
-| [A2.3 · Compare selling with borrowing](../../scripts/advanced/current/A2-3_compare-selling-bitcoin-with-borrowing.md) | 741 | 4.8 | 7 |
+| [A2.3 · Compare selling with borrowing](../../scripts/advanced/current/A2-3_compare-selling-bitcoin-with-borrowing.md) | 899 | 5.8 | 7 |
 | [A2.4 · Evaluate the lender and exit](../../scripts/advanced/current/A2-4_evaluate-the-lender-and-write-exit-rules.md) | 650 | 4.2 | 7 |
 
 ## A3 · Tax optimization and implementation
