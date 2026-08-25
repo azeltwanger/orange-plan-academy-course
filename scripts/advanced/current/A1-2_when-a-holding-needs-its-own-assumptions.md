@@ -11,7 +11,7 @@ You can.
 
 The useful question is: **does this specific holding genuinely behave differently from the broad class Orange Plan is using?**
 
-Most of the time, the answer is no.
+Most of the time, the answer is no. I would leave most holdings on the Plan default.
 
 == THE PLAN ASSUMPTION IS THE DEFAULT ==
 
