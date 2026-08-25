@@ -1,17 +1,11 @@
-# Walkthrough: build your baseline
+# Walkthrough: verify Foundation and review assumptions
 
-Follow along with the video. 9 steps, about 15 minutes, straight after onboarding. This is what turns the plan you just created into one you can trust.
+1. Compare every account and holding against the source.
+2. Fix a wrong total by editing the row that created it.
+3. Open **Update Transactions** and review the linked, file, AI-assisted, and manual paths.
+4. Do not import the full history yet; Tax owns cost-basis reconstruction.
+5. Open **Plan → Retirement → Edit assumptions**.
+6. Review the onboarding growth preset, inflation, life expectancy, and other asset defaults.
+7. Return to **Build Your Plan** and confirm Foundation is complete.
 
-1. Verify every account on Dashboard. Fix wrong numbers at the source, never nudge a total.
-2. Add anything missing. Every real account is in, or it isn't a baseline.
-3. Open Update Transactions once so you know where it lives (you don't have to run it).
-4. Shield your reserve holdings (shield icon on the holding row, not the account).
-5. Confirm assumptions on the Plan page (gear icon), including inflation.
-6. Read your earliest retirement date. Keep the chart on Today's $.
-7. Run the Monte Carlo and read the ring. The date says when; the ring says how sturdy.
-8. Add any likely life events, then re-run.
-9. Download your baseline PDF with the year in the filename.
-
-**Done when:** savings rate green, monthly room positive, portfolio matches your math, debt matches reality, shield on, date + ring readable, PDF saved.
-
-That's your baseline. Everything else in the course builds on it.
+Income, spending, reserve, and life events come next in Cash flow & reserve. Debts, Social Security, tax history, and the final confidence check are not Foundation work.

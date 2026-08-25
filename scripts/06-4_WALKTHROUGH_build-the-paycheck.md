@@ -196,3 +196,10 @@
 - [ ] Post-drawdown confidence dips but holds with a guardrail-sized adjustment
 
 **END**
+
+<!-- PLAN-LIFECYCLE:MODULE-6 -->
+### Build Your Plan handoff
+
+Retirement spending and Social Security were gathered earlier but are entered here. Before leaving, return to **Build Your Plan → Retirement income** and confirm the spending target, Social Security amount and start age, and applied withdrawal order are saved.
+
+This is also where the preview rule becomes operational: changing controls can move the numbers without changing the plan. **Apply to plan** commits the decision. **Revert** removes the preview. If you did not apply it, it is not the plan.

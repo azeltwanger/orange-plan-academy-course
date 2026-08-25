@@ -489,7 +489,7 @@ You can say what you're committing to provide, name the sources that will cover 
 
 ---
 
-This walkthrough puts what you learned in the last three lessons into the app. Every downstream projection is built on cash flow and reserve, so this is where you make them accurate.
+This walkthrough is where income, spending, the reserve, and expected life events become full plan data. Module 1 gathered the records; it did not enter this area for you.
 
 Set aside about 15 minutes. Have two or three months of categorized transactions linked or imported (otherwise the Verify Spending card won't have anything to show), and your bare-bones essentials number from the surplus lesson written down.
 
@@ -627,6 +627,15 @@ This is the order of operations the app runs every month, so you don't have to r
 
 If you're in deficit mode, the routing block is replaced by *"This month has no surplus to allocate. Reserve settings stay editable and apply when surplus returns."*
 
+<!-- PLAN-LIFECYCLE:LIFE-EVENTS -->
+### Step 8b: Add expected life events
+
+**Plan → Retirement → Life events → Add event.**
+
+Add the dated expenses or income changes you genuinely expect. If there is nothing major coming, return to Build Your Plan and choose **Nothing major coming** rather than leaving the area ambiguous.
+
+⚠ Life events are expected changes. Hypothetical questions stay in Scenarios.
+
 ### Step 9: Run the AI review on Cash Flow and Reserve
 
 Open the **Account menu** (hamburger, top right) → **AI Review**. The panel's **For this page** button reads **Review Cash Flow & Reserve**.
@@ -659,6 +668,13 @@ The review reads your saved living spending against the completed-month linked-a
 
 It hands you back to the Verify Spending drawer from Step 4. Same tool, now with a reason.
 
+<!-- PLAN-LIFECYCLE:MODULE-2 -->
+### Build Your Plan handoff
+
+This is the first place the full income and spending data gets entered. Module 1 gathered the records; it did not build Cash Flow.
+
+Before leaving the walkthrough, return to **Build Your Plan → Cash flow & reserve**. The area is complete when income, living expenses, the reserve target, and expected life events are recorded, or **Nothing major coming** is selected truthfully.
+
 ### What good looks like
 
 - **This-month verdict** shows a positive surplus your household could actually move every month without strain.
@@ -686,6 +702,6 @@ It hands you back to the Verify Spending drawer from Step 4. Same tool, now with
 
 ### Handing it off
 
-The next module covers allocation. What to do with that surplus, the target mix across your buckets, and the routing that runs on top of what you just built.
+The next module covers debt. You already gathered the balances and rates; now every debt gets entered, read, and given a job before the allocation waterfall can route money to it.
 
 ---

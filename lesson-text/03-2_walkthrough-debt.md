@@ -1,5 +1,10 @@
 # Walkthrough: give every debt a job in Orange Plan
 
+<!-- PLAN-LIFECYCLE:LESSON-TEXT -->
+
+This is where the debts gathered in Module 1 are actually entered with current balances, rates, and payments.
+
+
 Everything from the debt lesson, entered. Six steps, about seven minutes.
 
 ## What you'll do

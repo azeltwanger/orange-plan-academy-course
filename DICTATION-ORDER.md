@@ -3,7 +3,7 @@
 Read top to bottom. Nothing below depends on a decision you haven't made yet,
 as long as you settle the five things in the next section first.
 
-**28 teach lessons · 243 min (4.1 h) of finished audio at 155 wpm.**
+**28 teach lessons · 242 min (4.0 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not on this list. They're screen captures you narrate in your
 own words off the DO / SEE / ⚠ sheets, and they happen after the teach lessons
@@ -44,7 +44,7 @@ changed once, in both places, before you record.
 
 *Generated. Regenerating this file rewrites this section from the current course, so it cannot go stale again.*
 
-- **The AI** is taught in full in **0.2** and nowhere else. Later walkthroughs only name the button and say when it is worth running.
+- **The AI** is taught in full in **??** and nowhere else. Later walkthroughs only name the button and say when it is worth running.
 - **The US-specific disclaimer** is said at the top of **5.1** and the top of **8.1**. Twice, total, plus the breakdown in 0.1 of which modules are US-shaped. It used to run 12 times.
 - **The walkthrough hand-off** ("watch the walkthrough below this video") belongs ONLY on the last REQUIRED teach lesson of a module that has a capture: **1.3** · **2.3** · **3.1** · **4.4** · **5.2** · **6.3** · **7.3** · **8.4** · **9.2**.
 - **Optional lessons never carry the hand-off**, because a student who correctly skips one would never hear it: **2.4** Optional: college is a funding stack.
@@ -54,22 +54,22 @@ changed once, in both places, before you record.
 
 ## The order
 
-### Module 0 — Start Here · 17 min
+### Module 0 — Start Here · 18 min
 
 | # | Lesson | min |
 |---|---|---|
 | 0.1 | How to use this course | 10.8 |
-| 0.2 | How the AI works: what it reads, what it never sees | 6.1 |
+| 0.2 | How to use Orange Plan AI | 6.9 |
 
-### Module 1 — Foundation: baseline, assumptions, and the confidence number · 25 min
+### Module 1 — Foundation: replace the estimate with real data · 22 min
 
 | # | Lesson | min |
 |---|---|---|
-| 1.1 | What to gather before you build the plan | 6.1 |
-| 1.2 | The three layers of a plan, and setting your assumptions | 9.6 |
-| 1.3 | Read your retirement date and confidence number | 9.1 |
-| 1.4 | *Walkthrough: set up your plan in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
-| 1.5 | *Walkthrough: build your baseline in Orange Plan* | — WALKTHROUGH, narrated off the sheet |
+| 1.1 | What to gather before you build the plan | 7.5 |
+| 1.2 | The three layers of a plan, and setting your assumptions | 10.1 |
+| 1.3 | Read your starting retirement date and the confidence number you will run later | 4.8 |
+| 1.4 | *Walkthrough: replace the onboarding estimate with real accounts* | — WALKTHROUGH, narrated off the sheet |
+| 1.5 | *Walkthrough: verify Foundation and review assumptions* | — WALKTHROUGH, narrated off the sheet |
 
 ### Module 2 — Cash Flow + Reserve · 39 min
 
@@ -135,17 +135,17 @@ changed once, in both places, before you record.
 | 8.4 | Insurance: term life, disability, umbrella, and when to stop | 7.7 |
 | 8.5 | *Walkthrough: Protect, the heir letter, and the switch* | — WALKTHROUGH, narrated off the sheet |
 
-### Module 9 — Maintain, Test, and Read the Plan · 20 min
+### Module 9 — Run, Maintain, Test, and Read the Plan · 20 min
 
 | # | Lesson | min |
 |---|---|---|
-| 9.1 | Keep the plan current: the monthly pass and the annual review | 9.5 |
+| 9.1 | Finish the plan, then keep it current | 9.5 |
 | 9.2 | Test a decision and read the finished plan | 11.0 |
 | 9.3 | *Walkthrough: annual review, scenarios, and your report* | — WALKTHROUGH, narrated off the sheet |
 
 ---
 
-**28 teach lessons · 243 min (4.1 h) of finished audio at 155 wpm.**
+**28 teach lessons · 242 min (4.0 h) of finished audio at 155 wpm.**
 
 Walkthroughs are not dictated. They are screen captures you narrate in
 your own words off the DO / SEE / ⚠ sheets, and they happen after the

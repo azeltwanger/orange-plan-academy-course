@@ -185,3 +185,8 @@
 **⚠** Hand-off: your CPA doesn't need the app. They need the 8949, the one-page conversion schedule, and your question list.
 
 **END**
+
+<!-- PLAN-LIFECYCLE:MODULE-5 -->
+### Build Your Plan handoff
+
+Foundation recorded what the accounts own today. Tax records what was paid and when. Return to **Build Your Plan → Tax** after importing or reconstructing as much basis as reasonably exists, then record that the available history has been reviewed. Missing records remain visible; they do not get invented.

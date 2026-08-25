@@ -1,5 +1,10 @@
 # Walkthrough: document your custody map
 
+<!-- PLAN-LIFECYCLE:LESSON-TEXT -->
+
+Custody prepares the family-access process. Module 8 completes the Build Your Plan Protect tasks.
+
+
 Follow along (~15 minutes). If you'll arm the dead-man switch next module, flip to Cloud mode now.
 
 > **The app's tier is not your custody level.** The checklist tier keys to **estate net worth** (Foundation <$500k / Substantial $500k–$2M / HNW $2M+), and Hardware items only appear at Substantial+. Your **custody level** keys to something else: what the Bitcoin is for, how much is actually at risk, your technical ability, whether your family could recover it, your estate complexity, and your liquidity needs.

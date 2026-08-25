@@ -1,5 +1,10 @@
 # Walkthrough: Protect, the heir letter, and the switch
 
+<!-- PLAN-LIFECYCLE:LESSON-TEXT -->
+
+This walkthrough completes the beneficiary and heir-letter work tracked by Build Your Plan Protect.
+
+
 The whole estate module, run in the app. Filmed as one continuous session in seven chapters, so you can watch it straight through or take one chapter at a time. Set aside about 45 minutes the first time.
 
 ⚠ **Storage mode must be Cloud**, or the switch cannot arm and chapter E has nothing to show. In Local Only the panel reads *"Automatic check-in emails require cloud sync."*

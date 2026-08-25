@@ -606,6 +606,11 @@ While you're on Protect, you'll pass a **Draft with AI** button in the Heir lett
 
 If you want a line as you pass it: *"there's an assistant for the heir letter. That's next module."*
 
+<!-- PLAN-LIFECYCLE:MODULE-7 -->
+### Build Your Plan handoff
+
+Custody work supports the Protect area, but it does not complete the heir-letter and beneficiary tasks by itself. Leave this module with the custody map and recovery process complete; Module 8 finishes **Build Your Plan → Protect**.
+
 ### What good looks like
 
 - **The Needs attention list is shorter at the end than the start.** And the top remaining item gets named out loud as this week's fix.

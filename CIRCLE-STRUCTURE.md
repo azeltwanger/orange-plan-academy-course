@@ -19,7 +19,7 @@ answer to the four stalls the client calls found — *does this apply to me*,
 
 ### 📦 What you will build
 
-**You know how the course works, how the AI works, and the one rule about what never goes into it.**
+**You know how the course works, how the AI can help, and the one rule about what never goes into it.**
 
 The module is complete when this exists. Not when the videos are
 watched — watching is not the deliverable, a plan is.
@@ -27,16 +27,18 @@ watched — watching is not the deliverable, a plan is.
 ### Lessons
 
 - **0.1 How to use this course** — 🎙 ~11 min
-- **0.2 How the AI works: what it reads, what it never sees** — 🎙 ~6 min
+- **0.2 How to use Orange Plan AI** — 🎙 ~7 min
 
 ### ✅ Checkpoint — paste at the bottom of the module page
 
 **You are done when:**
 
 - [ ] You know which modules are US-shaped, and what you will do about it if you are outside the US
-- [ ] You have clicked **AI Review** once, so you know where it lives
+- [ ] You have opened **AI Review** and run one useful review against your plan
+- [ ] You have run the **daily Bitcoin report** once and know it is information, not a trading signal
+- [ ] You know where **AI Strategy Review Export** lives if you prefer another AI
 - [ ] Memory is deliberately on or deliberately off, and you know which
-- [ ] You can say the one AI rule from memory: no seed phrase, private key, passphrase, PIN, or full account number ever goes into any AI
+- [ ] You can say the one AI rule from memory: no seed phrase, private key, passphrase, PIN, full account number, SSN, or backup-file passphrase ever goes into any AI
 
 > **"Not applicable" is a completed line, not a skipped one.** A
 > household the line was never about completes it by saying so.
@@ -47,32 +49,34 @@ watched — watching is not the deliverable, a plan is.
 
 ---
 
-## Module 1 — Foundation: baseline, assumptions, and the confidence number
+## Module 1 — Foundation: replace the estimate with real data
 
 ### 📦 What you will build
 
-**A verified baseline and documented assumptions.**
+**Real personal details, accounts, current holdings, and documented assumptions.**
 
 The module is complete when this exists. Not when the videos are
 watched — watching is not the deliverable, a plan is.
 
 ### Lessons
 
-- **1.1 What to gather before you build the plan** — 🎙 ~6 min
+- **1.1 What to gather before you build the plan** — 🎙 ~7 min
 - **1.2 The three layers of a plan, and setting your assumptions** — 🎙 ~10 min
-- **1.3 Read your retirement date and confidence number** — 🎙 ~9 min
-- **1.4 Walkthrough: set up your plan in Orange Plan** — 🖥 walkthrough · filmed in one session with 1.5, published separately
-- **1.5 Walkthrough: build your baseline in Orange Plan** — 🖥 walkthrough · filmed in one session with 1.4, published separately
+- **1.3 Read your starting retirement date and the confidence number you will run later** — 🎙 ~5 min
+- **1.4 Walkthrough: replace the onboarding estimate with real accounts** — 🖥 walkthrough · filmed in one session with 1.5, published separately
+- **1.5 Walkthrough: verify Foundation and review assumptions** — 🖥 walkthrough · filmed in one session with 1.4, published separately
 
 ### ✅ Checkpoint — paste at the bottom of the module page
 
 **You are done when:**
 
-- [ ] Every account, balance, income, and debt is entered, and the totals match what you would tell a planner out loud
-- [ ] Your growth and inflation assumptions are set, and **you could defend each one out loud** — that is the same standard the report is held to
-- [ ] Your earliest retirement date and your confidence number are both on screen, and you read them as a pair
-- [ ] If your confidence is lower than you want, you have named **one** lever you would pull first. One, not four
-- [ ] This year's report is saved as your starting-point snapshot
+- [ ] Your age/date of birth, residence, and filing status are correct in the Planning profile
+- [ ] Every real account and custody location has been added or connected
+- [ ] Current holdings and balances match what the accounts actually own today
+- [ ] You know where **Update Transactions** lives and can explain the difference between current holdings, tax history, and monthly maintenance
+- [ ] Your growth, inflation, and life-expectancy assumptions are set, and you could defend each one out loud
+- [ ] **Build Your Plan → Foundation** shows complete
+- [ ] You can explain why the onboarding age was a starting estimate and why the first 1,000-run confidence check waits until Module 9
 
 > **"Not applicable" is a completed line, not a skipped one.** A
 > household the line was never about completes it by saying so.
@@ -387,18 +391,18 @@ watching only when its condition is true for you:
 
 ---
 
-## Module 9 — Maintain, Test, and Read the Plan
+## Module 9 — Run, Maintain, Test, and Read the Plan
 
 ### 📦 What you will build
 
-**A monthly routine, an annual review date, saved scenarios, and a saved report.**
+**A finished confidence read, monthly routine, annual review date, saved scenarios, and saved report.**
 
 The module is complete when this exists. Not when the videos are
 watched — watching is not the deliverable, a plan is.
 
 ### Lessons
 
-- **9.1 Keep the plan current: the monthly pass and the annual review** — 🎙 ~9 min
+- **9.1 Finish the plan, then keep it current** — 🎙 ~9 min
 - **9.2 Test a decision and read the finished plan** — 🎙 ~11 min
 - **9.3 Walkthrough: annual review, scenarios, and your report** — 🖥 walkthrough
 
@@ -406,12 +410,15 @@ watched — watching is not the deliverable, a plan is.
 
 **You are done when:**
 
+- [ ] Every Build Your Plan area before **Run your plan** is complete, deliberately marked not applicable, or consciously deferred with the limitation understood
+- [ ] You have run the full 1,000-path confidence check and set the confidence target your earliest retirement date must clear
+- [ ] Your earliest retirement date and confidence number are both on screen and you read them as a pair
 - [ ] A specific recurring day is on your calendar for the monthly pass, and **November** is on it for the annual review
 - [ ] You have named what you will *not* touch during a monthly pass
 - [ ] Two scenarios are saved and Monte Carlo'd: a deep drawdown right after retirement, and weaker Bitcoin returns than you assumed
-- [ ] You have read your own report in question order and answered all four out loud, in four sentences
+- [ ] You have read your own report in question order and answered all four questions out loud
 - [ ] This year's PDF is on disk with the year in the filename, alongside a fresh encrypted backup
-- [ ] Your next steps are **three or fewer**, and every assumption behind them is one you could defend
+- [ ] Your next steps are three or fewer, and every assumption behind them is one you could defend
 - [ ] Every module checklist above is complete, including the "not applicable" lines
 - [ ] One report PDF is saved with this year in the filename
 - [ ] Two review dates are on your calendar

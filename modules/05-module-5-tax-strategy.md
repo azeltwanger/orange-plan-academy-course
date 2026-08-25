@@ -256,6 +256,9 @@ Set aside about 20 minutes. Have last year's tax return handy and a wallet or ex
 
 > ⚠ Before the harvest step, know that harvest room only shows up for recorded purchase lots. Holdings with only an aggregate basis are excluded, and the app says so. Run the import step first, or the harvest rows will be empty.
 
+<!-- PLAN-LIFECYCLE:TAX-HISTORY -->
+Foundation recorded what each account owns today. This step answers a different question: what did you pay, and when? Historical purchase records belong here because they affect taxes, not because Foundation was incomplete.
+
 ### Step 1: Import your transaction history
 
 The transactions importer isn't on the Tax page. It lives on the Dashboard.
@@ -390,6 +393,11 @@ Write down three things. Paper is fine.
 3. **The exact questions for your CPA.** The specific dollar amounts and dates from the model, in the order they'd need to happen.
 
 The one question worth writing on top of that list: **"Am I leaving low brackets empty?"**
+
+<!-- PLAN-LIFECYCLE:MODULE-5 -->
+### Build Your Plan handoff
+
+Foundation recorded what the accounts own today. Tax records what was paid and when. Return to **Build Your Plan → Tax** after importing or reconstructing as much basis as reasonably exists, then record that the available history has been reviewed. Missing records remain visible; they do not get invented.
 
 ### What good looks like
 

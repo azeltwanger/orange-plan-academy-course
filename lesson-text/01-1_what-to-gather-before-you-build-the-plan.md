@@ -1,32 +1,28 @@
 # What to gather before you build the plan
 
-Your plan is only as good as its inputs. This lesson collects them once, so onboarding takes 15 minutes instead of 15 tab-switches.
+Onboarding created a rough starting estimate. It did not build the full baseline.
 
-## The list
+Gather these items now:
 
-| Category | What to gather |
-|---|---|
-| Income | Gross pay per earner, side income, rental income |
-| Spending | What you actually spend monthly (living only: not paycheck, not debt payments) |
-| Accounts | Every account: bank, brokerage, retirement, HSA, 529, exchange, wallet |
-| Bitcoin | Quantity (not dollars), where it's held, cost basis if known |
-| Debts | Balance, rate, and term for each |
-| Contributions | What's going into each account annually + employer match terms |
-| Social Security | Your estimated monthly benefit from [my Social Security](https://www.ssa.gov/myaccount/) (uses your real earnings record). No account? [Quick Calculator](https://www.ssa.gov/OACT/quickcalc/) gives a rough estimate. |
+1. Recent pay stubs and every recurring income source.
+2. About three months of spending history.
+3. Every account and custody location, with current balances or quantities.
+4. Every debt, with current balance, rate, and payment.
+5. Employer match, pension, deferred compensation, and other benefits.
+6. Expected future expenses or income changes.
+7. Exchange and brokerage transaction-history exports for cost basis.
 
-## Two rules
+Save the CSV or Excel exports in one folder. Old records become harder to recover over time.
 
-- **Bitcoin is entered as quantity, never dollars.** The app prices it live.
-- **Leave basis blank rather than inventing it.** If you don't know what you paid, leave it. Never guess a number you can't defend.
+## When the information gets entered
 
-## Your decision
-
-What you're going to gather, and by when.
-
-## Put it in Orange Plan
-
-Nothing yet. This one is a shoebox, not a screen. The walkthrough enters it all.
+- Foundation: personal details, accounts, current holdings.
+- Cash Flow: income, spending, reserve, life events.
+- Debt: balances, rates, payments.
+- Tax: historical transactions and cost basis.
+- Retirement Income: retirement spending, Social Security, withdrawal order.
+- Run Your Plan: the first 1,000-run confidence check.
 
 ## You are done when
 
-Every account, balance, income source and debt is written down in one place, and the totals match what you'd tell a planner out loud.
+Your real account list and current balances are ready for Foundation, and the remaining records are organized for their later modules.

@@ -1,325 +1,194 @@
-# 1.4 + 1.5 · WALKTHROUGH — Set up and verify your baseline
+# 1.4 + 1.5 · WALKTHROUGH — Replace the estimate with real Foundation data
 
-**Screen capture · 22 steps · ~30 min**
+**Screen capture · one continuous recording · ~22 min raw**
 
 > **DO** = click path · **SEE** = point at this · **⚠** = don't get this wrong
 > Narrate in your own words. Nothing here is scripted.
-
-> **ONE RECORDING, TWO PUBLISHED VIDEOS.** This sheet replaces the separate 1.4
-> and 1.5 sheets. App state builds forward through onboarding and never resets,
-> so recording it in two sittings meant rebuilding the account and re-shooting
-> the drift. Record it straight through; the edit splits it at **✂ CUT POINT 1**
-> into lesson 1.4 (chapters A–B) and lesson 1.5 (chapters C–D). Publishing it as
-> one video with two chapters is also fine — the student can still stop after
-> onboarding either way.
+>
+> **ONE RECORDING, TWO PUBLISHED VIDEOS.** Publish chapters A–B as 1.4 and
+> chapters C–D as 1.5. Do not reset the account at the cut point.
 
 ---
 
 ## Before you record
 
-- [ ] Fresh demo account, nothing entered
-- [ ] Numbers card below in front of you
-- [ ] Monte Carlo NOT yet run — the ring has to land live on camera in chapter D
-- [ ] Clean browser, notifications off
-- [ ] Uninterrupted block long enough for the whole run. **Do not reset the account at the cut point**
+- [ ] Finish the new short onboarding flow
+- [ ] Use rough onboarding values only; no real accounts or holdings have been added
+- [ ] The deterministic starting retirement age is visible
+- [ ] No 1,000-run confidence receipt exists
+- [ ] Have a demo statement/account list ready for the real Foundation data
 
-| | |
-|---|---|
-| Income | $190,000 |
-| Spending | $80,000 |
-| Bitcoin | 1.75 BTC |
-| Mortgage | $280,000 @ 3.25% |
-| Car | $18,000 @ 7% |
-| 401(k) | $12,000/yr |
-| Roth | $7,000/yr |
-
-**SEE** Counter 1/13 top-left · green Auto-saved pill · Back / Skip / Save & finish later
+**Starting state:** onboarding produced a rough estimate. The Dashboard has no real accounts yet. Build Your Plan points to Foundation.
 
 ---
 
-# CHAPTER A — Onboarding: who you are and what you have
+# CHAPTER A — Orient: estimate versus plan
+
+## A1 · Show the starting estimate
+
+**DO** Land on Dashboard after onboarding.
+
+**SEE** The earliest-age result from the selected growth model.
+
+**⚠** Say it directly: this is a starting estimate from rough inputs. It is not the verified baseline and it is not a Monte Carlo confidence result.
+
+## A2 · Open Build Your Plan
+
+**DO** Open **Build Your Plan**.
+
+**SEE** The areas and the current Foundation card.
+
+**⚠** The guide observes real plan data. Watching the lesson does not complete a task. The task turns complete when the data exists on the owning page.
+
+**SAY THE DIVISION:**
+
+- Foundation: personal details, accounts, holdings
+- Cash flow & reserve: income, living expenses, reserve, life events
+- Debt: balances, rates, payments, strategy review
+- Allocation: timeframes and target mix
+- Tax: historical transactions and basis
+- Retirement income: spending, Social Security, withdrawal order
+- Protect: beneficiaries and heir letter
+- Run your plan: 1,000 test runs and confidence target
 
 ---
 
-## □ A1 · Privacy
+# CHAPTER B — Enter Foundation
 
-**DO** Pick **Cloud** → Continue
+## B1 · Personal details
 
-**⚠** Cloud = sync, backup, bank linking. Local Only = this browser only.
-Changeable later in Settings. Dead man's switch needs Cloud.
+**DO** Foundation → Set up personal details → Planning profile.
 
----
+**ENTER** date of birth/current age · state/country · filing status.
 
-## □ A2 · About you — 7 slides
+**⚠** These are real plan inputs, not an onboarding default to click past.
 
-**DO** Age → retire age → filing status → spouse → dependents → state → income type
+**DO** Save → return to Build Your Plan.
 
-**SEE** Retire age subtitle *"N years to build wealth"* · state **No state tax** badge
+**SEE** Personal-details task completes from saved data.
 
-**⚠** Filing status blocks Continue until answered.
+## B2 · Add one account manually
 
----
+**DO** Dashboard → Add Account.
 
-## □ A3 · Income & spending — SLOW DOWN
+**ENTER** account type · recognizable name · owner.
 
-**DO** Income → spouse income → living spending → retirement spending
+**EXAMPLES** checking · brokerage · 401(k) · IRA · exchange · hardware wallet · collaborative custody.
 
-**SEE** Savings rate panel (green at 30%+) · Monthly room before debt (red = negative)
+**⚠** No generic “Bitcoin account.” Where it is held matters later.
 
-**⚠ THE BIG ONE.** Living spending is living only. Not the paycheck, not debt payments.
-Salary entered here makes every downstream projection wrong. Hit this hard.
+## B3 · Show linking without waiting on it
 
-**⚠** Leave both self-employment fields blank. Retirement spending also excludes debt payments.
+**DO** Point at Link accounts.
 
-**⚠ NUMBER FLOW — introduce the three labels here and keep using them for the rest of the course.** With the Monthly room tile on screen: **CALCULATED FROM** income minus taxes minus living minus debt · **EDIT SOURCE** this screen, and later Cash Flow → Routing · **THIS AFFECTS** your surplus, which drives reserve funding, contribution routing, and your retirement date.
+**SAY** Link, import, and manual entry are all valid. The course does not require one method.
 
----
+**⚠** Do not burn recording time waiting for a live institution sync.
 
-## □ A4 · Accounts
+## B4 · Add current holdings
 
-**DO** Add Account → type → name → owner → repeat for every real account
+**DO** Open account → Add Holding or record current activity.
 
-**SEE** Green ✓ "N accounts ready to track"
+**ENTER**
 
-**⚠** No generic "Bitcoin account" — the app makes you say where it's held. Custody module runs off this.
+- Bitcoin as quantity, never a dollar price
+- stocks/funds as ticker + shares where supported
+- cash as current dollars
+- basis only when already known
 
-**⚠** Skip the Plaid link card. Stay manual.
+**⚠** The job here is what the account owns today. Do not rebuild years of purchase history in Foundation.
 
----
+## B5 · Repeat the pattern
 
-## □ A5 · Assets
+**DO** Add the rest of the demo accounts and holdings quickly.
 
-**DO** Per account: + Add Holding → type → details → Save
+**SEE** Accounts and current totals update.
 
-**SEE** Stocks *"Fetching live price..."* · the dollar line updating as you type
+**⚠** Demonstrate one or two carefully; the student repeats it for every real account.
 
-**⚠** Bitcoin goes in as **quantity**, never dollars. Never type a price.
+# ✂ CUT POINT — end 1.4 / begin 1.5
 
-**⚠** Basis blank if unknown. The app never invents one.
-
----
-
-## □ A6 · Transactions → SKIP
-
-**DO** Skip for now
-
-**⚠** Button lives on Dashboard forever. Building the plan, not reconciling books.
+**Stable state:** real accounts and current holdings exist. Nothing has been verified against source statements yet. Assumptions have not been reviewed.
 
 ---
 
-## □ A7 · Debts
+# CHAPTER C — Verify and understand transactions
 
-**DO** Add Debt → type → balance, rate, term
+## C1 · Verify every row
 
-**SEE** Total Debt tile · Monthly Payments tile · BTC-Backed Loan is a first-class type
+**DO** Expand each account group.
 
-**⚠** Defaults are prefilled (mortgage 7%, card 22%, auto 8.5%). Overtype every one.
+**CHECK** owner · account type · quantity · cash value · holding type.
 
-**⚠** Leave payment blank → app estimates it, still editable.
+**⚠** Wrong total → fix the row that created it. Never edit around a calculated total.
 
----
+## C2 · Open Update Transactions
 
-## □ A8 · Contributions
+**DO** Dashboard → Update Transactions.
 
-**DO** Annual amounts on generated rows → toggle Employer match on 401(k)
+**SEE** Four choices:
 
-**SEE** Estimated employer contribution · IRA total meter (Traditional + Roth share one limit)
+1. A linked account
+2. A downloaded CSV/Excel file
+3. Describe one transaction to AI, then review every field
+4. Enter a purchase, sale, or transfer manually
 
-**⚠** Current reality only. Optimized routing comes later.
+**SAY THE THREE JOBS:**
 
----
+- Foundation = what the account owns today
+- Tax = what you paid and when
+- Maintenance = what changed after the plan was built
 
-## □ A9 · Social Security
+**DO** Close without importing full history.
 
-**DO** Monthly amount → start-age card → spouse → horizon chip **90**
-
-**SEE** Age cards: 62 (~30% less) · 67 (full) · 70 (~24% more)
-
-**⚠** Field is **monthly**, at Full Retirement Age. Helper points to ssa.gov/myaccount.
-
-**⚠** Take the 90 chip. Planning to 80 and living to 90 is the failure.
-
----
-
-# CHAPTER B — Onboarding: the assumptions and the first read
+**⚠** Historical reconstruction belongs in Module 5.
 
 ---
 
-## □ B1 · Assumptions — NOT skippable
+# CHAPTER D — Review assumptions and close Foundation
 
-**DO** Actively click a card
+## D1 · Open assumptions
 
-**⚠** Moderate is pre-selected. Choose on purpose.
+**DO** Plan → Retirement → Edit assumptions.
 
-**⚠** All four presets decline over time (bigger Bitcoin, slower growth).
+**SEE** The growth preset chosen during onboarding is already selected.
 
-**⚠** Never read the % numbers as facts. They're on screen.
+**DO** Review preset · inflation · life expectancy · other asset defaults.
 
-**⚠ NUMBER FLOW.** **CALCULATED FROM** the preset you just picked · **EDIT SOURCE** here, and later Plan → gear icon · **THIS AFFECTS** projected balances and every simulated path, which sets your earliest date and your confidence number. This is the one input where a careless click moves the headline.
+**OPTIONAL** Show custom return windows without building one.
 
----
+**⚠** Leave a default only if you would defend it.
 
-## □ B2 · Strategy profile
+## D2 · Save and return to Build Your Plan
 
-**DO** Answer all 10
+**DO** Save assumptions → open Build Your Plan.
 
-**⚠** Honestly, not aspirationally. The 50–80% drop question is the allocation stress test, early.
+**SEE** Foundation complete.
 
----
+**IF OPEN** Read the missing-data line and fix the source.
 
-## □ B3 · Life events
+## D3 · Point at the next area
 
-**DO** Quick-add → age, cost, description → Add Event
+**SEE** Cash flow & reserve.
 
-**SEE** Button relabels "Continue with N event(s)" · college auto-spreads across years
+**SAY** Income, spending, reserve, and life events are entered there, not here.
 
-**⚠** Likely events only. What-ifs go to Scenarios later.
+## D4 · Explicit exclusions
 
-**⚠ NUMBER FLOW.** **CALCULATED FROM** the year and amount you just typed · **EDIT SOURCE** Plan → Retirement → Life events · **THIS AFFECTS** future spending in that year, which pulls from accounts, and moves both the retirement date and the confidence number. This is the answer to "which account actually funds this?" — point at it now, and again in every later module that adds an event.
+**DO NOT** enter debts · retirement spending · Social Security · life events · historical tax lots · withdrawal order.
 
----
-
-## □ B4 · Review — LET IT BREATHE
-
-**DO** Don't click. Watch.
-
-**SEE** Spinner: *"Projecting your balances year by year…"* · *"Running 300 market paths…"* · *"Checking your spending target…"*
-
-**SEE** **EARLIEST RETIREMENT · AGE X** → then the ring
-
-**⚠** 300 paths here for speed. Full 1,000-path ring runs in chapter D.
-
-**DO** Scroll the snapshot → **Go to your dashboard**
+**DO NOT** run the full 1,000-path confidence check or save the finished report.
 
 ---
 
-## □ B5 · Close the onboarding half
+## WRAP — Foundation is done when
 
-**⚠** Don't let them stop at a plan they haven't checked. An unverified plan is a demo, not a baseline. Name what comes next: verify every number, shield the reserve, run the real ring.
-
----
-
-# ✂ CUT POINT 1 — end of lesson 1.4, start of lesson 1.5
-
-**Stable state:** onboarding complete, dashboard reached, Monte Carlo not yet run.
-Nothing has been verified yet, which is exactly what chapter C opens on.
-
-**Do NOT reset the account.** Keep rolling into chapter C.
-
----
-
-# CHAPTER C — Verify what you just entered
-
----
-
-## □ C1 · Verify on Dashboard
-
-**DO** Expand every account group
-
-**SEE** Every row has an Edit link + three-dot menu
-
-**⚠** Wrong number → fix at the **source**, never nudge a total.
-
-**⚠** The bar is accurate, not perfect.
-
-**⚠ NUMBER FLOW.** Every total on this page is **CALCULATED FROM** rows underneath it. There is no field for a total. When a student asks "where did this number come from?", the answer is always: open the group, find the row, fix the row.
-
----
-
-## □ C2 · Add anything missing
-
-**DO** Add Account / Add Holding
-
-**⚠** Every real account is in, or it isn't a baseline.
-
----
-
-## □ C3 · Update Transactions — show, don't run
-
-**DO** Dashboard → Update Transactions → open dialog → close it
-
-**SEE** Four ways in: linked account · CSV/Excel · describe one to AI · manual
-
-**⚠** Nothing to do now. Point out the button lives here permanently.
-
----
-
-## □ C4 · Shield the reserve
-
-**DO** Three-dot menu on the holding row → **Add shield**
-
-**SEE** Toast *"Designated as emergency fund"* · **Shield** pill appears on the row
-
-**⚠** Shield the specific holding, not the whole account. Cash counts automatically; treasuries and money market need the shield.
-
-**⚠** Desktop: the three-dot menu only appears on row hover.
-
----
-
-## □ C5 · Assumptions on the Plan page
-
-**DO** Plan → gear icon → preset + inflation → Save
-
-**SEE** Same presets as onboarding + custom overrides + life expectancy
-
-**⚠** Inflation defaults to 3%. Say that you run yours higher.
-
-**⚠** Same **EDIT SOURCE** as chapter B, reached a second way. Say that out loud — students lose the thread when one number has two doors.
-
----
-
-# CHAPTER D — Read the baseline
-
----
-
-## □ D1 · Earliest retirement date
-
-**DO** Point at the hero
-
-**SEE** The date · chips: N years away · $X/yr target
-
-**⚠** Chart toggle stays on **Today's $**. A million in 2050 isn't a million today.
-
----
-
-## □ D2 · Confidence ring — LET IT RUN
-
-**DO** Run Monte Carlo → wait 10–20 sec
-
-**SEE** Ring + verdict word + sampling range date
-
-**⚠** Read the verdict **word** and the thresholds off the screen as the app shows them.
-
-**⚠** The date says *when*. The ring says *how sturdy*.
-
----
-
-## □ D3 · Life events
-
-**DO** Add an event for anything likely
-
-**SEE** Recheck chip appears next to the ring → click it → re-run
-
-**⚠** Recall the chapter-B flow line: edit the event, and the date and the ring both move. Show it happening rather than describing it.
-
----
-
-## □ D4 · Baseline PDF
-
-**DO** Account menu → Report → Download PDF
-
-**⚠** Year in the filename. This is next year's before-picture.
-
----
-
-## □ WRAP — spot check off the screen
-
-- [ ] Savings rate green or amber
-- [ ] Monthly room positive
-- [ ] Portfolio matches your own math
-- [ ] Debt matches reality
-- [ ] Shield on the right holding
-- [ ] Date + ring both readable
-- [ ] PDF saved
+- [ ] Personal details are saved
+- [ ] Every real account/custody location is listed
+- [ ] Current holdings match their source
+- [ ] The student knows where Update Transactions lives
+- [ ] Growth and inflation assumptions were reviewed deliberately
+- [ ] Build Your Plan shows Foundation complete
+- [ ] Next action points to Cash flow & reserve
 
 **END**

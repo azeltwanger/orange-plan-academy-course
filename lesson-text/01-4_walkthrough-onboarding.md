@@ -1,21 +1,13 @@
-# Walkthrough: set up your plan (onboarding)
+# Walkthrough: replace the onboarding estimate with real accounts
 
-Follow along with the video. 13 steps, about 15 minutes. You'll finish with a working plan that has a retirement date on it.
+Open **Build Your Plan → Foundation**.
 
-1. **Privacy**: Cloud (sync, backup, bank linking, dead man's switch) or Local Only (this browser, more private). Changeable later.
-2. **About you**: ages, retire age, filing status, spouse, dependents, state, income type.
-3. **Income & spending**: ⚠ Living spending is the one number to get right: living only, not your paycheck, not debt payments.
-4. **Accounts**: add every real account manually; name where each is held.
-5. **Assets**: Bitcoin as quantity (never dollars); basis if known, else blank.
-6. **Transactions**: skip for now. The button lives on Dashboard forever.
-7. **Debts**: overtype the default rates with your real ones; leave payment blank to auto-estimate.
-8. **Contributions**: annual amounts + employer match toggle.
-9. **Social Security**: monthly amount at full retirement age; take the age-90 horizon.
-10. **Assumptions**: actively choose a preset; don't accept Moderate by default.
-11. **Strategy profile**: answer all ten honestly, not aspirationally.
-12. **Life events**: likely events only; what-ifs go to Scenarios later.
-13. **Review**: watch the projection run; read your earliest retirement age and ring.
+1. Confirm age or date of birth, state/country, and filing status.
+2. Add or connect every real account.
+3. Add the current holdings inside each account.
+4. Enter Bitcoin as quantity, not a dollar price.
+5. Leave unknown cost basis blank rather than inventing it.
 
-**Done when:** the plan exists and shows an earliest retirement age.
+Foundation records what each account owns today. Historical purchase history belongs in Tax.
 
-⚠ Don't stop here. What you have now is built on 15 minutes of typing. The next walkthrough makes it accurate, which is the difference between a demo and a baseline.
+This video ends when the real accounts and current holdings exist. Continue directly into 1.5 without resetting the plan.

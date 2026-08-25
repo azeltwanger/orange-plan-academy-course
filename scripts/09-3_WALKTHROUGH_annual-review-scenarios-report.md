@@ -469,3 +469,18 @@ plan. If you don't have a spouse, do this with whoever would get the call.*
 **⚠** Five years of before-pictures show you what actually moved and what only felt like it did.
 
 **END**
+
+### PART 0 — finish Build Your Plan and run the plan
+
+<!-- PLAN-LIFECYCLE:M9-RUN -->
+**DO** Open Build Your Plan. Read every area before Run your plan. Fix an accidental gap; use not-applicable answers only when true.
+
+**DO** Plan → run the full confidence check. Wait for **1,000 test runs**.
+
+**DO** Set the confidence target in the earliest-date hero. Default is 80%.
+
+**SEE** The earliest retirement date becomes the first age that clears that target.
+
+**SAY** This is the first finished-plan read. The onboarding age was a rough deterministic estimate, not this result.
+
+**⚠** Never pair a new plan with an old confidence receipt. Re-run after material plan inputs change.

@@ -112,3 +112,8 @@
 **⚠** Close on the Dashboard confidence number. The difference is what a debt policy was worth.
 
 **END**
+
+<!-- PLAN-LIFECYCLE:MODULE-3 -->
+### Build Your Plan handoff
+
+The debt documents were gathered in Module 1. This module is where the debts become plan data. Return to **Build Your Plan → Debt** and confirm every active debt has its current balance, rate, and payment, or record **I have no debts** truthfully.

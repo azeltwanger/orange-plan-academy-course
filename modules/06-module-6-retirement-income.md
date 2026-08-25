@@ -370,10 +370,10 @@ Set aside about 20 minutes. This one only works when the plan is already in the 
 
 ### Prerequisites
 
-- Baseline spending set.
-- Social Security amount known, as a monthly figure. The app's field is $/mo.
-- Cash reserve size decided.
-- Run the Monte Carlo once first. Until it runs, the three confidence stops fall back to placeholder positions with no $/yr labels.
+- Current spending is verified from Module 2, and a retirement-spending target is ready to enter here.
+- Your Social Security estimate is available as a monthly figure; it has not been entered during onboarding.
+- Cash reserve size is decided.
+- The final 1,000-run confidence check is completed in Module 9. Any retirement-phase controls that require a recent run are demonstrated with the prepared demo receipt, not presented as a Module 1 result.
 
 ⚠ Reserve months quirk: the **Target months** control offers only **None**, **1**, **3**, **6**, or **12 mo**. If your reserve is 18 months (for example $120k on $80k of spending), that value only renders if it's already saved in the data. Don't try to click your way to it.
 
@@ -459,7 +459,7 @@ Two segmented controls, and they are two separate orders:
 
 ⚠ **There is no "Tax bracket fill" chip.** The bracket-fill move from Modules 5 and 6 lives in **Custom phases**: add a phase, set its rule to **Bracket-aware**, and pick the ceiling (an ordinary-income bracket or a capital-gains threshold). The engine's default withdrawal behavior already bracket-fills year by year — the phase control is how you steer it deliberately. Watch **Lifetime taxes** in the strip while you do.
 
-Nothing saves while you experiment. **Apply to plan** commits the draft. **Revert** walks it back.
+Nothing saves while you experiment. This is the first place the course needs the preview rule in practice: **Apply to plan** commits the draft. **Revert** walks it back. If you did not apply it, it did not become the plan.
 
 ⚠ If you saw an earlier cut of this lesson: the comparison table (**Compare strategies**, winner badges, the **Lasts to** column) is gone. The live strip replaced it. Same three numbers, now updating as you click instead of rendering as a one-shot table.
 
@@ -569,6 +569,13 @@ One click creates the scenario and selects it under **Your scenarios**.
 ⚠ It's in the first four cards. No **See more scenarios** click needed.
 
 That makes sequence-of-returns risk visible on your own plan.
+
+<!-- PLAN-LIFECYCLE:MODULE-6 -->
+### Build Your Plan handoff
+
+Retirement spending and Social Security were gathered earlier but are entered here. Before leaving, return to **Build Your Plan → Retirement income** and confirm the spending target, Social Security amount and start age, and applied withdrawal order are saved.
+
+This is also where the preview rule becomes operational: changing controls can move the numbers without changing the plan. **Apply to plan** commits the decision. **Revert** removes the preview. If you did not apply it, it is not the plan.
 
 ### What good looks like
 

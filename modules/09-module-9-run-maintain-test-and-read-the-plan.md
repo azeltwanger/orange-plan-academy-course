@@ -1,13 +1,13 @@
-# Unit 10 · Module 9 — Maintain, Test, and Read the Plan
+# Unit 10 · Module 9 — Run, Maintain, Test, and Read the Plan
 
-*What keeps the plan alive: two review rhythms, scenarios for testing a decision,
-and the finished report you save once a year.*
+*Finish and run the full plan, then keep it alive with two review rhythms, scenarios for testing a decision, and the finished report you save once a year.*
 
-## 9.1 Keep the plan current: the monthly pass and the annual review
+## 9.1 Finish the plan, then keep it current
 *`TEACH` · ~1,715 words · ~11 min*
 
 **By the end of this lesson, you can:**
 
+- Finish Build Your Plan and run the first full 1,000-path confidence check
 - Tell a review apart from a rebuild, and keep maintenance to the review
 - Recognize the two kinds of drift and the rhythm that catches each one
 - Run the four-input monthly pass in about five minutes
@@ -15,6 +15,16 @@ and the finished report you save once a year.*
 - Cap every pass at one to three finishable actions
 
 ---
+
+### Finish the build before maintenance
+
+Before a plan can be maintained, it has to be finished once.
+
+Open **Build Your Plan**. Foundation, Cash flow & reserve, Debt, Allocation, Tax, Retirement income, and Protect should be complete, truthfully marked not applicable, or consciously deferred with the limitation understood.
+
+Then open the Plan page and run the full **1,000 test runs**. Set the confidence target your earliest retirement date must clear; 80% is the default. The finished earliest date is the first age that clears that target.
+
+Read the date and confidence as a pair. This is the first finished-plan read, not the rough age from onboarding. Save the report after the rest of this module's scenario and review steps are complete.
 
 A rebuild goes back and re-litigates decisions you already settled. It reacts to every price move, feels heavy, and gets skipped. A review updates what actually changed in your life, and nothing else. Keeping the scope small is what makes maintenance cheap enough to actually do every year.
 
@@ -95,12 +105,11 @@ Your decision out of this lesson is your two review dates. Pick a specific recur
 
 ### Put it in Orange Plan
 
-Your calendar, not the app. There is no in-app scheduler: a specific recurring day for the monthly pass, and November for the annual review.
+First complete **Build Your Plan → Run your plan**: run 1,000 test paths and set the confidence target. Then use your calendar for a specific recurring monthly day and a November annual review, because there is no in-app scheduler.
 
 ### You are done when
 
-Both dates are recurring events you can see, and you have written down what you will not touch during a monthly pass. That second one is what holds the line when the price is moving.
-
+The full confidence check and target are saved, both review dates are recurring events you can see, and you have written down what you will not touch during a monthly pass. That second one is what holds the line when the price is moving.
 
 ## 9.2 Test a decision and read the finished plan
 *`TEACH` · ~1,930 words · ~12 min*
@@ -267,6 +276,23 @@ Then watch the module walkthrough below this video, where we build both scenario
 - Walk your own report in planner order and save this year's PDF
 
 ---
+### PART 0 — finish Build Your Plan and run the plan
+
+<!-- PLAN-LIFECYCLE:M9-RUN -->
+Before the monthly and annual rhythms, finish the plan once.
+
+**DO** Open Build Your Plan and read every area. Fix any accidental gap; use not-applicable answers only when they are true.
+
+**DO** Open Plan → run the full confidence check. Wait for all **1,000 test runs**.
+
+**DO** Set the confidence target in the earliest-date hero. The default is 80%.
+
+**SEE** Earliest retirement date = the first age that clears the selected target.
+
+**SAY** This is the first finished-plan read. The onboarding age was a rough deterministic estimate.
+
+**DO NOT** interpret a stale or pre-build confidence result as current.
+
 ### PART A — the two rhythms
 
 Companion walkthrough for Module 9. This is the ~8-minute lap that runs both rhythms on camera: **one timed monthly pass** (under five minutes, honestly), then **the six-area annual lap** (~40 seconds per screen). By the end, you have this year's report saved, a fresh encrypted backup, and 1–3 actions on the calendar.

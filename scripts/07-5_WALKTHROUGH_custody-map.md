@@ -144,3 +144,8 @@
 - [ ] Plan file on disk, encrypted
 
 **END**
+
+<!-- PLAN-LIFECYCLE:MODULE-7 -->
+### Build Your Plan handoff
+
+Custody work supports the Protect area, but it does not complete the heir-letter and beneficiary tasks by itself. Leave this module with the custody map and recovery process complete; Module 8 finishes **Build Your Plan → Protect**.

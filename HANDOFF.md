@@ -7,6 +7,20 @@ brief you are handed.
 
 ---
 
+## 2026-08-25 · Plan-lifecycle revision
+
+Austin approved the course-wide alignment to the new short onboarding and **Build Your Plan** flow, without changing the ten-module order.
+
+Locked structure:
+
+- Onboarding gives a rough deterministic starting age. It does not create the verified baseline or a Monte Carlo confidence score.
+- Teaching lessons make the decision. Walkthroughs perform the data entry and application. Build Your Plan is the completion source of truth.
+- Foundation enters only personal details, real accounts, current holdings, and the assumptions review.
+- Income, spending, reserve and life events belong to Module 2; debts to Module 3; historical transactions and basis to Module 5; retirement spending, Social Security and withdrawal order to Module 6; Protect completion to Module 8.
+- The first full 1,000-run confidence check and confidence target belong to Module 9 after the plan is built.
+- Lessons 1.4 and 1.5 remain two published lessons from one continuous recording. No module-order or lesson-number overhaul.
+- Austin's 2026-08-25 dictation is the authority for the revised 1.1 and 1.2 scripts. The 4% inflation example was mechanically corrected to about $144,000 after 15 years; the dictated $105,000 was an arithmetic error.
+
 ## Where the project is
 
 **Content is structurally settled. It is NOT all cleared for filming** — the

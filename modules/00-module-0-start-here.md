@@ -60,23 +60,25 @@ Then it keeps answering it. When you get a raise, the date moves. When Bitcoin r
 
 Start Here, then nine planning modules, in the order I'd take a real client through.
 
-1. **Module 1: Baseline.** Your numbers, your assumptions, and your first confidence read.
+1. **Module 1: Foundation.** Replace the rough onboarding estimate with your real personal details, accounts, holdings, and assumptions.
 2. **Module 2: Cash flow.** Your surplus and how to protect it.
 3. **Module 3: Debt.** Every debt gets a job, and you set the level you won't go past.
 4. **Module 4: Where the money goes.** Allocation, asset location, and the next dollar.
 5. **Modules 5 and 6: how you use it.** Tax strategy and retirement income.
 6. **Modules 7 and 8: how you protect it.** Custody and estate.
-7. **Module 9: how you keep it alive**, about five minutes a month, plus scenarios and reading your finished plan.
+7. **Module 9: run, test, and maintain the finished plan** — the first full confidence check, scenarios, the yearly report, and the five-minute monthly rhythm.
 
-Each module has two kinds of lessons. Teach lessons explain the concept with a real worked example. Walkthroughs put it into the app step by step. Some modules include worksheets. For the sensitive ones like the custody map and heir letter, print them and fill them out with pen and paper.
+Each module has two kinds of lessons. Teach lessons explain the concept and help you make the decision. Walkthroughs put that decision into the app step by step. Build Your Plan is the checklist that shows whether the underlying data is actually complete. Some modules include worksheets. For the sensitive ones like the custody map and heir letter, print them and fill them out with pen and paper.
 
 Go in order the first time. After that, come back to any lesson as your life changes.
 
+Orange Plan's onboarding is intentionally short. It gives you a starting retirement estimate from a few rough numbers. It does not build the full plan. After onboarding, open **Build Your Plan**. Each course module completes the matching area, and the first full confidence check happens after those areas are built.
+
 ##### The rule the whole course runs on
 
-Build the plan this week with numbers that are approximately right, then refine them as you go. Every lesson is finishable in one sitting so the plan actually gets built.
+Onboarding gets a rough estimate on screen quickly. Then each module replaces the rough part it owns with real data and a real decision. Every lesson is finishable in one sitting so the plan actually gets built.
 
-Don't try to be optimal before you're accurate. The most common failure mode is spending three months reconstructing exact cost basis before running the first confidence check. Get the plan standing first. Refine after.
+Don't try to be optimal before you're accurate. The most common failure mode is spending three months reconstructing exact cost basis before the rest of the plan exists. Get each area standing in order. The first full confidence check comes after the build, in Module 9.
 
 A module a week is a good pace when you're starting. Don't binge them back to back. Each one ends with a decision or an action, and the plan builds on itself one piece at a time.
 
@@ -88,7 +90,7 @@ Have these in front of you.
 - Roughly what you spend in a month.
 - A list of what you own and what you owe, including how much Bitcoin, and where it's held.
 
-Rough is fine. Module 1 walks you through gathering them accurately.
+Rough is fine for onboarding. Module 1 replaces the account estimate with real Foundation data, and the later modules enter the income, spending, debt, tax, and retirement details where they belong.
 
 See you there.
 
@@ -96,86 +98,116 @@ Austin
 
 ---
 
-## 0.2 How the AI works: what it reads, what it never sees
+## 0.2 How to use Orange Plan AI
 
-*`TEACH` · ~938 words · ~6 min*
+*`TEACH` · ~1,250 words · ~8 min*
 
 **By the end of this lesson, you can:**
 
-- Explain what the AI reads and what it never sees
-- Know that the app does the math and the AI explains it
-- Ask from the page relevant to the decision
-- Decide whether to turn memory on, and never break the one rule
-
-> The model, provider routing, data-status labels, tool and workflow counts,
-> memory cap, daily limits, and course-knowledge status are all in the lesson
-> text, not spoken. They are product specifications that change faster than a
-> recorded video can.
+- Know what the main AI buttons do and where to start
+- Use the daily Bitcoin report instead of checking five different places
+- Use AI to review your plan as the numbers change and surface missing decisions
+- Download a privacy-scrubbed plan file for another AI when you prefer
+- Follow the one rule about what never goes into an AI
 
 ---
 
-In today's lesson, we're going to cover the AI that's built into Orange Plan: what it does, what it never sees, and the one rule you follow every time you use it.
+In today's lesson, we're going to walk through how to actually use the AI inside Orange Plan.
 
-In the top bar there's a button called AI Review, the one orange pill up there. Clicking it opens a panel called Plan Guide, which lives in the app rather than on any one page, so it opens from anywhere. It's included for every signed-in user.
+The useful question is not everything the AI cannot do. It is how it can help you understand and improve the financial plan you are building.
 
-### The AI does not do your math
+### Start with AI Review
 
-This is the thing that makes the numbers trustworthy, so I want to say it before anything else.
+The orange **AI Review** button in the top bar opens **Plan Guide**. It opens from anywhere in the app, and the conversation stays there while you move between pages.
 
-Your surplus, your reserve status, your payoff dates, your loan cushion, your spending target, your success rate, your income floor. All of those come out of the same projection engine that draws your charts. The AI reads those numbers and explains them. It's specifically instructed never to redo arithmetic the app already did, and if it ever does calculate something itself, it has to label that as an estimate.
+The first option changes based on the page you are on. That is intentional.
 
-So when it tells you your surplus is $2,400 a month, that's your app's number, not the model's guess.
+- On Cash Flow, it can help you review the month and route your next dollar.
+- On Debt, it can review the jobs and risks attached to your loans.
+- On Allocation, it can review your portfolio and the timeframes you are funding.
+- On Tax, it can help identify tax windows worth modeling.
+- On Retirement Income, it can compare the trade-offs in your paycheck strategy.
+- On Scenarios, it can explain why a what-if produced a different result.
+- On Protect, it can help draft an heir letter without putting secrets in it.
 
-It's also told to use only the plan data it was given. If something important is missing, it says what's missing instead of filling in the blank.
+Each one loads the part of your plan and the planning framework that matches the decision you are looking at. Asking from the page you are working on gives it more useful context than opening a generic chat and explaining everything from scratch.
 
-### What it reads, and what it never sees
+A few prompts that are useful at almost any point:
 
-It doesn't get a copy of your whole plan. It gets targeted context for whatever you're asking about, and if it needs more, it asks, and your own browser answers with only the rows it asked for.
+- Review my full plan and tell me the three most important things to focus on.
+- What changed after the numbers I just updated?
+- What information is missing or stale?
+- What am I not thinking about before I make this decision?
+- Compare these two choices and explain the trade-offs in plain language.
+- What should I model before I take this question to my CPA, attorney, or planner?
 
-The part worth knowing is what it never gets.
+The app does the calculations. The AI reads those results and explains them. When it quotes your surplus, taxes, loan-to-value, retirement date, or confidence number, it is reading the same calculation engine that draws the page. It is not rebuilding your plan from scratch inside the chat.
 
-Your raw transactions never leave your browser. They're stripped out of every request, every time. It sees your spending summarized and counted, never line by line.
+### The daily Bitcoin report
 
-On the Protect page, it never gets names, contact details, the contents of your heir letter, who holds what for recovery, or where anything is stored. It gets completion status only, so it can tell you your beneficiary row is empty without ever knowing who's in it.
+Inside Plan Guide, under **Market brief**, click **Run daily Bitcoin report**.
 
-On linked accounts, it never gets institution names, account names, account numbers, or exact balances.
+The goal is to replace doomscrolling with one clean read that takes less than two minutes. It checks the parts of the Bitcoin market that are actually worth following:
 
-And it actively blocks secrets. One of the estate tools lets the AI help you draft a document, and before it does, it scans what you typed for anything that looks like a secret: recovery words, a private key, a PIN, a safe combination. Find one and it refuses to draft until you take it out. Those terms will all mean something specific to you by the custody module; today the only thing to take away is that the app is actively watching for them.
+- the current price and the move over 24 hours, 7 days, 30 days, and one year
+- how far Bitcoin is from its prior all-time high
+- ETF flows and any fund-level outlier
+- newly reported Bitcoin purchases or sales by public companies, including how they paid for them
+- the most useful on-chain change for that day
+- futures, leverage, funding rates, liquidations, and options when they matter
+- interest rates, the dollar, inflation data, Federal Reserve expectations, and other macro pressure
+- material custody, regulation, exchange, mining, or industry news
+- one thing that sounds important but probably does not change the read
+- the two data points worth watching next
 
-### The one rule
+When plan context is available, the report ends with a short **Your plan** section. That section is not a trading call. It answers the more useful question: did today's market move change anything you actually need to do in your financial plan?
 
-Which brings me to the rule, and it's the only thing in this lesson you have to memorize.
+For most days, the answer should be no. Staying informed and changing the plan are two different things.
 
-Never put a seed phrase, a private key, a wallet backup, a passphrase, a PIN, a password, a full account number, or a Social Security number into any AI. Not this one, not any other one.
+### Use it while the plan changes
 
-And if you've already done it somewhere, treat that material as compromised and move the funds to a newly generated wallet.
+The AI becomes more useful as the plan becomes more complete.
 
-### Ask from the page you're standing on
+When you replace the rough onboarding estimate with your real accounts, ask what changed. After you enter spending, ask whether that number looks consistent with the rest of the plan. When you add debts, ask what is creating the most fragility. When you set allocation targets, ask what could force a sale during a major drawdown. When you reach retirement income, ask which inputs are driving the result the most.
 
-Several pages have their own AI button, and they're not shortcuts to the same thing. Each one loads a different set of instructions and a different piece of the knowledge base. A tax review loads the tax knowledge and gets held to tax-specific rules, like not suggesting a Roth conversion when there's no pre-tax balance in your plan to convert. A cash flow review loads the cash flow knowledge instead.
+You can also ask it to find blind spots. A useful review may surface:
 
-So the practical version is: ask from the page relevant to your decision, and you get the version built for it.
+- missing cost basis
+- an account with no clear timeframe
+- a future expense that is not in the projection
+- a Social Security amount that is still a guess
+- a debt with an outdated rate
+- a decision that was previewed but never applied
+- a result that is stale because the inputs changed afterward
 
-### It gives options, you decide
+The goal is not to have the AI make every decision for you. The goal is to understand what the plan is showing, what is missing, and which trade-off you are accepting before you act.
 
-Every review comes back framed as options with trade-offs. It won't tell you that you should do something, it won't tell you to sell, convert, borrow, or buy, and it won't predict Bitcoin's price. It also won't quote you a current tax bracket or contribution limit from memory, which is deliberate, because those change and the app has the current ones.
+### Use your preferred AI
 
-One thing people assume it won't do that it will: tax math. Every kind of tax comparison this course teaches later is in bounds, and it'll run the arithmetic for you. The line is filing and executing, not calculating.
+You do not have to use the built-in assistant for every review.
 
-There's also a memory toggle in Preferences, and it starts off. What it remembers is how you think, not what you own: prefers borrowing over selling Bitcoin, wants to be work-optional by 55. It's blocked from storing balances, account numbers, and secrets. Turn it on if you'll use the AI regularly and you'd rather not re-explain your situation every time. Leave it off if that makes you uncomfortable, and nothing about the reviews changes.
+Go to **Settings → Data & Privacy → Data & backups → AI Strategy Review Export**. The button **Download AI Review Markdown** creates a privacy-scrubbed file designed to give another AI a useful picture of where your finances stand today. There is also a full JSON option when structured data is useful.
 
-And the last thing, which I'm saying once here so I don't have to repeat it in every walkthrough: it reviews and it explains. You decide.
+This export is separate from the encrypted restore backup. It removes personal details, but you should still review the file before uploading it anywhere. You can then use it with ChatGPT, Claude, or another AI you prefer and ask the same kinds of questions: review the plan, identify missing information, compare options, or prepare questions for a professional.
+
+### Privacy and the one rule
+
+The app limits what the built-in AI receives. Raw transaction rows are removed from requests. The Protect tools send completion status rather than names, letter content, recovery assignments, or exact storage locations. The heir-letter workflow also blocks information that looks like a secret before a draft can be created.
+
+But the rule still belongs to you, and it applies to every AI, including an exported file:
+
+**Never enter a seed phrase, private key, wallet backup, passphrase, PIN, password, full account number, Social Security number, or backup-file passphrase into any AI.**
+
+If one has already been shared, treat it as compromised.
 
 ### Your decision
 
-Two decisions. Whether memory is on or off for you, and the one rule you never break.
+Which AI workflow you will use first, and whether you want to use the built-in assistant, the privacy-scrubbed export with another AI, or both.
 
-### Put it in orange plan
+### Put it in Orange Plan
 
-Click AI Review in the top bar so you know where it lives, then open Preferences inside Plan Guide and set memory deliberately.
+Open **AI Review**, run the daily Bitcoin report once, and then open the page-specific review for the page you are currently on. In Settings, locate the **AI Strategy Review Export** so you know where it is when you need it.
 
 ### You are done when
 
-You can say the one rule from memory: no seed phrase, private key, passphrase, PIN, or full account number goes into any AI, including this one.
-
-The lesson text below has the technical detail, and it gets updated as the product changes. This video doesn't.
+You have run one useful review against your own plan, you know where the daily report and export live, and you can say the one no-secrets rule from memory.

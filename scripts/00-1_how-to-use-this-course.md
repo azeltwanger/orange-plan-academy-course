@@ -50,20 +50,22 @@ Your date is also going to move with that confidence level. This is a living fin
 
 The course is going to walk you through a Start Here module and then nine planning modules, and they're all in the order that I would take a real client through if I was working with you one-on-one.
 
-1. You're going to start with your baseline numbers and your assumptions about getting the baseline of your plan with all of your numbers in the app.
-2. You'll set your return assumptions and assumptions about the future.
-3. You'll get your first confidence read on where you're at today, when you can retire, and the level of confidence we can have in that plan.
+1. You're going to start by replacing the rough onboarding estimate with your real personal details, accounts, and holdings.
+2. You'll review the return, inflation, and other assumptions the first estimate used.
+3. You'll learn how to read the retirement date and confidence number, but the first full confidence run happens after the plan is built in Module 9.
 4. I'll cover cash flow, which is your surplus, and how to protect it, and also future cash flow planning.
 5. Then debt, where every debt you have gets a job and you set the level of debt you won't go past.
 6. Then your investment plan, which is your allocation and where every next dollar goes.
 7. How to build a retirement paycheck. This is going to cover tax strategy and your retirement income planning, and ways to optimize this to reduce your tax liability.
 8. How you protect your plan with custody and estate planning and inheritance.
-9. How you keep the whole thing alive and active, which is going to take you around five minutes every month with one annual review every year, plus how to run scenarios to test a decision before you make it, and how to read your finished plan.
+9. How you finish and run the full plan, then keep it alive in around five minutes every month with one annual review, scenarios, and a yearly report.
 
 Each module is going to cover two different types of lessons:
 
 1. A teach lesson like this one, where I'm just talking to the camera and explaining concepts to you. I'm going to include real-world examples to help make these concepts easier for you to understand.
 2. A walkthrough of me sharing my screen in the app, walking you through how to implement the things that you're learning step by step in your own financial plan.
+
+Build Your Plan is the checklist underneath both of them. The lesson helps you make the decision, the walkthrough shows you where it goes, and the task completes when the real data exists in the app.
 
 Some of these modules are also going to include worksheets, and for some of the worksheets, it's going to include more sensitive information, like, for example, your custody map and an heir letter that are involved in the inheritance planning. I'd recommend printing those out and filling them out with a pen and paper instead of filling out the information on your computer.
 
