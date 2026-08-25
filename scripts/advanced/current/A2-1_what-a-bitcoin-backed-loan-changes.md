@@ -88,7 +88,7 @@ A low starting LTV creates room. It also means pledging much more Bitcoin for ea
 
 A higher starting LTV gives more cash against the same collateral. It brings the lender's action lines much closer.
 
-The correct starting point is based on the drawdown the household wants the position to survive—not on the product maximum.
+I would choose the starting point from the drawdown the household intends to survive—not from the product maximum.
 
 == THREE DIFFERENT RISKS ARE HIDING IN ONE LOAN ==
 
@@ -108,13 +108,15 @@ Cash from a conventional bona fide loan is generally not income because the borr
 
 A digital-asset arrangement still has to be analyzed under its actual legal and economic structure.
 
-Do not assume every product marketed as a Bitcoin loan is automatically a non-taxable pledge. The agreement may transfer title or economic control, permit the lender to reuse the Bitcoin, exchange the Bitcoin for an obligation to return identical units, or create another structure whose substantive tax treatment is unresolved or fact-specific.
+Do not accept “non-taxable loan” from the product name alone. The agreement may transfer title or economic control. It may permit collateral reuse or exchange the Bitcoin for an obligation to return identical units.
 
-Liquidation, cancellation of debt, refinance, entity ownership, use of proceeds, interest, and eventual repayment can create separate consequences.
+Those facts can make the tax treatment unresolved or specific to the structure.
 
-So “tax deferral” is not a product feature we accept from marketing copy. It is a treatment the CPA or tax attorney confirms after reviewing the signed agreement and the real transaction flow.
+Liquidation, debt cancellation, refinance, entity ownership, use of proceeds, interest, and repayment can create separate consequences.
 
-Orange Plan can compare the planned sale and provisional loan paths. It cannot determine the legal ownership or federal tax character of the collateral transfer from the word “loan.”
+So “tax deferral” is not a product feature we accept from marketing copy. The CPA or tax attorney confirms the treatment after reviewing the agreement and transaction flow.
+
+Orange Plan can compare a planned sale with a provisional loan path. It cannot determine legal ownership or federal tax character from the word “loan.”
 
 == WHERE THE NUMBERS COME FROM ==
 
