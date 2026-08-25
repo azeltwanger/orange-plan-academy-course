@@ -2,6 +2,7 @@
 
 **Reviewer:** US attorney or independent practitioner with current Bitcoin/digital-asset secured-lending experience  
 **Affected lessons:** A2.1–A2.4 and borrowing portions of Core 6.2  
+**Source verification:** completed 2026-08-25  
 **External status:** not sent
 
 ## Response codes
@@ -30,13 +31,17 @@ For every non-OK response, provide the minimum corrected wording and the authori
 | L-14 | Orange Plan is a planning record, not the lender ledger or signed agreement. | Confirm. |
 | L-15 | The course compares selling and borrowing against the same cash need and reads tax, interest, BTC retained, collateral, drawdown, later balance, and ending net worth after debt. | Is this comparison complete and neutral? |
 | L-16 | No lender or product threshold is called “normal,” “safe,” or universally acceptable. | Confirm preferred consumer wording. |
+| L-17 | The course does not assume that every product marketed as a Bitcoin loan is automatically a non-taxable pledge. It asks whether title or economic control transfers, whether reuse is permitted, whether the borrower receives an obligation to return identical units, and whether the transaction differs from a conventional secured pledge. | Which provisions and transaction-flow facts determine the legal characterization, collateral ownership, and borrower claim? Which conclusions belong only to tax counsel? |
+| L-18 | The app's borrowing tax result remains provisional until the signed agreement and actual collateral flow are reviewed. | Confirm the cleanest consumer-facing label and whether any arrangement should be excluded from a generic sell-versus-borrow comparison. |
 
 ## Required agreement questions
 
 The reviewer should identify which questions can be evergreen and which must always be answered from the specific agreement:
 
 - legal/control structure of collateral,
+- whether title or economic ownership changes,
 - segregation and permitted reuse,
+- what obligation the borrower receives for transferred Bitcoin,
 - governing law and borrower claim on failure,
 - price oracle/index and valuation frequency,
 - notice/cure process,
@@ -44,6 +49,7 @@ The reviewer should identify which questions can be evergreen and which must alw
 - top-up and collateral-release mechanics,
 - rate, renewal, fees, prepayment, and release timing,
 - incapacity/death documents,
+- tax-counsel classification needed before treating proceeds as a loan rather than disposition,
 - and dispute/complaint process.
 
 ## Files to review
@@ -53,6 +59,7 @@ The reviewer should identify which questions can be evergreen and which must alw
 - `scripts/advanced/current/A2-3_compare-selling-bitcoin-with-borrowing.md`
 - `scripts/advanced/current/A2-4_evaluate-the-lender-and-write-exit-rules.md`
 - matching lesson text
+- `professional-review/ADVANCED-AUTHORITATIVE-SOURCE-VERIFICATION.md`
 
 ## Return format
 
@@ -60,4 +67,4 @@ The reviewer should identify which questions can be evergreen and which must alw
 |---|---|---|---|---|
 |  |  |  |  |  |
 
-Finish with any omission that could cause a consumer to misunderstand collateral control, liquidation, insolvency, repayment, or estate consequences.
+Finish with any omission that could cause a consumer to misunderstand collateral ownership, tax classification, liquidation, insolvency, repayment, or estate consequences.
