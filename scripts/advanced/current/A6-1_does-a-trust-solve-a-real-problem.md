@@ -26,7 +26,9 @@ A trust can be used for different jobs:
 
 Those are not one product.
 
-A trust that solves probate may not reduce estate tax. A trust designed for tax planning may require giving up control and may change gift, income-tax, basis, and administration results.
+A trust that solves probate may not reduce estate tax.
+
+A trust designed for tax planning may require giving up control. It may also change gift, income-tax, basis, and administration results.
 
 Do not buy the word “trust.” Name the job.
 
@@ -50,25 +52,25 @@ The first actions are simpler and more urgent:
 4. Coordinate the custody process and no-secrets executor packet.
 5. Ask how the children should receive and be protected from receiving assets directly while minors.
 
-An attorney may decide that a testamentary provision, custodial arrangement, revocable trust, or another state-law structure best solves the children's issue.
+An attorney may use a testamentary provision, custodial arrangement, revocable trust, or another state-law structure for the children.
 
-The Academy should not choose that structure from the word “minor.”
+The Academy should not choose the structure from the word “minor.”
 
-The trust gate is therefore **yes, get attorney design advice**—not **yes, buy a trust package**.
+I would treat this as **yes, get attorney design advice**—not **yes, buy a trust package**.
 
 == REVOCABLE TRUSTS: CONTROL STAYS WITH THE OWNER ==
 
-A revocable living trust can generally be changed or revoked by the person who created it under its terms.
+A revocable living trust can generally be changed or revoked under its terms.
 
-When assets are properly titled or assigned to it, the trust may provide continuity of management and may keep those assets out of the ordinary probate process under applicable state law.
+When assets are properly titled or assigned to it, the trust may provide management continuity and may keep those assets out of the ordinary probate process under applicable state law.
 
 But an unfunded trust is just a document.
 
 If the house, taxable account, business interest, or other property was never transferred or coordinated, the trust may not control it.
 
-For federal estate-tax purposes, assets in a revocable trust created by the decedent are generally still included in the gross estate. A revocable trust is not automatically an estate-tax shelter or creditor-protection tool.
+For federal estate-tax purposes, assets in a revocable trust created by the decedent are generally still included in the gross estate.
 
-Its job is usually management, privacy, probate, and distribution control—not pretending the owner gave the property away while retaining full control.
+A revocable trust is not automatically an estate-tax shelter or creditor-protection tool. Its job is usually management, privacy, probate, and distribution control.
 
 == IRREVOCABLE TRUSTS ARE NOT ONE THING ==
 
@@ -85,27 +87,29 @@ The result depends on:
 - whether basis adjusts at death,
 - and what state law and document terms apply.
 
-Some properly designed transfers can move future appreciation outside the transferor's gross estate. That can also mean giving up control, using exemption, filing gift-tax returns, losing a future basis adjustment, or accepting trust-level tax and administration.
+Some properly designed transfers can move future appreciation outside the transferor's gross estate.
 
-Do not teach “put Bitcoin in an irrevocable trust and all future growth escapes tax.” That sentence combines several different taxes and ignores the structure.
+That can also mean giving up control, using exemption, filing gift-tax returns, losing a future basis adjustment, or accepting trust-level tax and administration.
+
+Do not teach “put Bitcoin in an irrevocable trust and all future growth escapes tax.” That combines several different tax questions and ignores the structure.
 
 The estate attorney and CPA design the actual result.
 
-== SIZE ALONE IS NOT THE ONLY GATE ==
+== SIZE ALONE IS NOT THE GATE ==
 
-Current federal estate-tax exposure can make trust planning more urgent, but most trust decisions are not only estate-tax decisions.
+Federal estate-tax exposure can make trust planning more urgent, but size is not the only reason.
 
 A modest estate with a special-needs beneficiary, blended family, or difficult management problem may need a trust.
 
 A large but simple estate may need professional tax planning without using the first trust presented.
 
-Bitcoin adds a second issue: a fast-growing, concentrated, directly controlled asset can make the estate and custody plan obsolete faster than a static balance sheet suggests.
+Bitcoin adds another issue. A fast-growing, concentrated, directly controlled asset can make the estate and custody plan obsolete faster than a static balance sheet suggests.
 
-Review the gate after a major increase in value, family change, move, business event, custody change, or law change.
+Review the gate after a major value change, family change, move, business event, custody change, or law change.
 
 == ASK ABOUT THE TRUSTEE'S BITCOIN DUTIES ==
 
-A trustee has legal duties to beneficiaries under the document and state law.
+A trustee has legal duties under the document and state law.
 
 A concentrated Bitcoin position can create questions about diversification, prudence, custody, valuation, recordkeeping, delegation, and distributions.
 
@@ -113,41 +117,32 @@ Do not assume the trustee is allowed or required to hold Bitcoin exactly as the 
 
 Ask the attorney:
 
-- Can and should the trustee retain a concentrated Bitcoin position?
+- Can the trustee retain a concentrated Bitcoin position?
 - How are investment and diversification duties drafted?
-- Who has authority over custody and transactions?
-- Can a directed-trust or trust-director structure separate investment direction from administration when appropriate?
-- What records and valuation process are required?
+- Who has custody and transaction authority?
+- Can investment direction be separated from administration when appropriate?
+- Which records and valuation process are required?
 
-The answer belongs in the legal document, not in an informal heir letter.
+The answer belongs in the legal document, not an informal heir letter.
 
 == THE TRUST HAS TO BE MAINTAINED ==
 
-A trust can require:
-
-- retitling or assignments,
-- separate tax reporting,
-- trustee accounting,
-- beneficiary notices,
-- valuations,
-- provider records,
-- custody maintenance,
-- and professional fees.
+A trust can require retitling, tax reporting, trustee accounting, beneficiary notices, valuations, provider records, custody maintenance, and professional fees.
 
 The cost is worth it only when the problem is real and the family can maintain the structure.
 
-“Trust not currently indicated; review annually” is often a better answer than adding an unfunded document nobody understands.
+“Trust not currently indicated; review after a trigger” is often better than adding an unfunded document nobody understands.
 
 == YOUR DECISION ==
 
-Name the problem the household needs solved and decide whether the baseline documents are enough or a Colorado estate attorney should compare specific trust structures.
+Name the problem the household needs solved. Then decide whether the baseline documents are enough or an estate attorney should compare specific trust structures.
 
 == PUT IT IN ORANGE PLAN ==
 
-Record the trust gate, problem, attorney question, status, and review date in Protect. Do not mark a trust complete merely because a document was signed; funding and account/provider coordination matter.
+Record the trust gate, problem, attorney question, status, and review date in Protect. Do not mark a trust complete merely because a document was signed; funding and provider coordination matter.
 
 == YOU ARE DONE WHEN ==
 
-The household can explain the trust's intended job, what it would not solve, the control and tax questions requiring professional review, and why the expected benefit is worth the ongoing work.
+The household can explain the trust's job, what it would not solve, and the questions requiring professional review. It can also explain why the expected benefit is worth the ongoing work.
 
-**Return to Core:** update the estate roles, document status, beneficiary records, and family handoff after the attorney's design is accepted.
+**Return to Core:** update estate roles, documents, beneficiary records, and the family handoff after the attorney's design is accepted.
