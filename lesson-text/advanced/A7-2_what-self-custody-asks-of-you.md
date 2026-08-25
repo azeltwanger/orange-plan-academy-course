@@ -1,23 +1,29 @@
 # What self-custody actually asks of you
 
-**Watch this if:** you are weighing whether you want the whole job of self-custody, or if the weight of it is what has been stopping you. Your custody plan is complete without it.
+**Watch this if:** you are weighing whether you want the whole job of self-custody, or the weight of it is what has been stopping you. Your custody plan is complete without it.
 
 ## The job you are taking back
 
-A client put this better than I ever have. With self-custody, you are the point of failure, and you are also the attack vector.
+Self-custody makes you both the point of failure and a potential attack vector. Bitcoin gives you the ability to take back a responsibility that institutions carry for most other assets.
 
-Most of life does not work this way. We outsource violence to the police. We outsource security to the banks. That is broadly what civilization is: handing the hard, dangerous jobs to somebody whose job it is.
+The whole job is more than owning a device. It includes protecting recovery material, testing recovery, maintaining the setup, finding new single points of failure, and making sure the family process works without you.
 
-Bitcoin asks you to take one of those back.
+## Three honest answers
 
-That is why custody feels heavier than the rest of this course. It is not another checkbox. It is you accepting a responsibility that, for every other asset you own, somebody else carries for you.
+- **The whole job:** you hold and maintain the complete process.
+- **Part of the job:** collaborative custody or a hardened institution carries part of the responsibility.
+- **Not right now:** a legitimate answer when you will not maintain the process safely.
 
-## Two things follow
-
-**It is completely reasonable not to want the whole job.** That is what collaborative custody exists for, and it is why a hardened exchange position is a legitimate setup for part of a stack. Taking the job back is a choice, not an obligation.
-
-**If you do take it, being a little paranoid is appropriate.** You should feel the weight. The people who get hurt are usually the ones who did not.
+More responsibility is not automatically safer. The setup has to match what the household can actually operate.
 
 ## Your decision
 
-**Whether you want the whole job, part of it, or none of it.** All three are legitimate answers, and the setup follows from the answer.
+**Whether you want the whole job, part of it, or none of it right now.**
+
+## Homework
+
+1. Write which custody responsibilities you will own and which you want help carrying.
+2. Name the recovery or maintenance task you must prove before moving more Bitcoin.
+3. Match the answer to the custody level from the core module.
+
+**Complete when:** the setup matches the responsibility you will actually maintain.

@@ -90,7 +90,7 @@ forward and restarting is where the retakes come from. Where a sheet has
 
 **Stage this first:**
 - [ ] 401(k) owner has a **salary income source** entered (else Fill to match is disabled)
-- [ ] Surplus routed into **Step 3** of the waterfall (contribution rows only appear with a surplus)
+- [ ] Contribution settings visible. A deficit demo is valid: rows remain editable while current routing reads $0
 - [ ] Conviction tier + target range from 4.1 written on a card
 - [ ] Clean browser, notifications off
 

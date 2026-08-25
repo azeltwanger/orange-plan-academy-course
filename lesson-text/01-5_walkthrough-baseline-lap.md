@@ -2,7 +2,7 @@
 
 1. Compare every account and holding against the source.
 2. Fix a wrong total by editing the row that created it.
-3. Open **Update Transactions** and review the linked, file, AI-assisted, and manual paths.
+3. Open **Update Transactions** and review the file, AI-assisted, and manual paths. A linked-account path appears only when a supported linked investment source is available.
 4. Do not import the full history yet; Tax owns cost-basis reconstruction.
 5. Open **Plan → Retirement → Edit assumptions**.
 6. Review the onboarding growth preset, inflation, life expectancy, and other asset defaults.

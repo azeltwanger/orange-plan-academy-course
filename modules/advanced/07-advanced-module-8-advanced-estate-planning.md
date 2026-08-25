@@ -8,24 +8,7 @@
 > gate; it explains the options after it fires. Most households run the gate in
 > 8.5, get a no, and are finished.
 
-> ⬜ **NO FILMING PLANNED FOR v1.** Not a blocker — there is simply nothing
-> scheduled to shoot here. Film it only if real users open or ask about the trust
-> material.
->
-> ⚖ **PUBLICATION BLOCKER — estate-attorney review.** This is the constraint that
-> actually holds: the lesson cannot ship to students as text either, until the
-> review clears.
->
-> 1. ⚖ **Every legal claim in this lesson is pending estate-attorney review** —
->    revocable vs. irrevocable treatment, creditor protection, taxable-estate
->    inclusion, trustee duties under the prudent-investor standard, the waiver,
->    and the international structures at the foot. Nothing here is filmed or
->    published to students until that review is signed off. Tracked in
->    `LEGAL-REVIEW-PACKET.md`.
-> 2. The screen-capture half was removed (2026-08-08). The calls do not show
->    demand for an after-tax estate ledger walkthrough, and building a twelfth
->    capture for the least-watched lesson is the wrong use of production time.
->    Film it only if real users open or ask about the trust material.
+> 🎙 **SCRIPT PREPARED.** Dictation may be recorded; do not publish until the estate-attorney review is signed off in `LEGAL-REVIEW-PACKET.md`.
 
 **By the end of this lesson, you can:**
 
@@ -150,8 +133,7 @@ The attorney wasn't careless. The conversation never happened. The problem was a
 
 ### Read it in the app
 
-> **Reference, not a capture.** This lesson is text-only for v1, so the steps
-> below are written for a reader working through the app on their own screen.
+> **Reference, not a separate screen capture.** The steps below are written for a reader working through the app on their own screen; the talking-head lesson can be recorded without an additional capture.
 > Do not quote the federal exemption figure anywhere it can age: the app prints
 > the current one, so read it there.
 

@@ -167,7 +167,7 @@ REVIEW_GATES = [
      'Bitcoin-aware CPA', 'filming',
      'basis at death and Roth conversion mechanics are the two blocking items; '
      'both drive arithmetic a student will act on'),
-    ('Module 7', 'custody professional', 'filming',
+    ('Module 7 and advanced custody lessons A7.1–A7.4', 'custody professional', 'filming',
      'the four levels, the wipe-and-restore standard, and the institutional '
      'death-claim path added 2026-08-08'),
     ('8.4', 'insurance professional', 'filming',
@@ -232,13 +232,13 @@ for i, (name, s) in enumerate(units):
     out.append(f'☐ Paste the Module {key.split()[-1]} checkpoint into Circle '
                f'(top: "By the end…", bottom: "Complete when…")')
 
-out += ['', '## ☐ ADVANCED LIBRARY — text first, video in demand order', '',
-        '*Publish every advanced lesson as student-facing TEXT at launch. Film in this order afterwards.*', '']
+out += ['', '## ☐ ADVANCED LIBRARY — all 14 scripts prepared; dictate in demand order', '',
+        '*Every Advanced lesson has a protected teleprompter script. Review the status block before recording or publishing a professionally gated lesson.*', '']
 # This list used to hold core-style numbers (6.3, 7.4, 8.5, 9.5, 7.2) that no
 # advanced lesson has carried since the library was renumbered to A-prefixes.
 # Every one silently failed to match, which is why the printed order began at
 # "2." — only A3.1 resolved. Unmatched names are now an error, not a shrug.
-DEMAND = ['A3.1', 'A6.1', 'A5.1', 'A7.1', 'A6.2', 'A5.2', 'A7.2']
+DEMAND = ['A3.1', 'A6.1', 'A5.1', 'A7.1', 'A6.2', 'A5.2', 'A7.2', 'A1.1', 'A3.2', 'A4.1', 'A5.3', 'A7.3', 'A7.4', 'A8.1']
 seen, missing = set(), []
 j = 0
 for n in DEMAND:
@@ -248,12 +248,12 @@ for n in DEMAND:
         continue
     j += 1
     flag = '  🔴 BLOCKED' if n in blocked_lessons else ''
-    out.append(f'☐ {j}. {n} {m.group(1)} — 🎙 film (~{runtime.get(n, 0):.0f} min){flag}')
+    out.append(f'☐ {j}. {n} {m.group(1)} — 🎙 dictate/film (~{runtime.get(n, 0):.0f} min){flag}')
     seen.add(n)
 for m in re.finditer(r'^## (A?\d+\.\d+) (.+)$', adv, re.M):
     if m.group(1) not in seen:
         flag = '  🔴 BLOCKED' if m.group(1) in blocked_lessons else ''
-        out.append(f'☐ — {m.group(1)} {m.group(2)} — TEXT ONLY for now{flag}')
+        out.append(f'☐ — {m.group(1)} {m.group(2)} — ⚠ missing from dictation order{flag}')
 if missing:
     out += ['', f'> ⚠ **Demand-order entries that match no advanced lesson: '
             f'{", ".join(missing)}.** Fix `DEMAND` in '

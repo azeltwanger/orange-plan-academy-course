@@ -14,7 +14,7 @@ then M1–M9) in course order. The optional library lives in `MASTER-ADVANCED.md
 | | Lessons | Runtime |
 |---|---|---|
 | **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **242 min (4.0 h)** |
-| **Advanced Library** — optional, gated per lesson | 14 teach | 106 min |
+| **Advanced Library** — optional, gated per lesson | 14 teach | 108 min |
 
 Plus 11 core screen captures (10 walkthroughs + 1 external demo),
 narrated off the DO / SEE / ⚠ sheets rather than read. They are filmed in
@@ -760,13 +760,8 @@ advanced lesson. Edit the condition there, not here.*
 <!-- ADVANCED-GATE:END -->
 # Unit 3 · Module 2 — Cash Flow + Reserve
 
-> 🔴 **FILMING BLOCKER (F23) — Module 2's lesson order is not confirmed.** College
-> sits at 2.4 (optional) and the walkthrough at 2.5, so the walkthrough hand-off
-> is on 2.3, the last *required* lesson, worded to work whether or not a student
-> takes 2.4. The alternative Austin may prefer — college last at 2.5, walkthrough
-> back at 2.4 — makes the hand-off literal again at the cost of putting an
-> optional lesson after the module's capture. **Cheap to switch now, a re-shoot
-> after.** Confirm before filming Module 2. See `AUTHORITY-FLAGS.md`.
+> ✅ **STRUCTURE LOCKED, 2026-08-25.** College remains optional at 2.4 and the module walkthrough remains 2.5. This preserves the existing course structure; the hand-off on the last required lesson works for students who correctly skip college.
+
 
 *Find your real surplus, protect the flywheel, size a cash reserve you won't have to sell Bitcoin for, and give every known future cost a lane.*
 
@@ -1263,9 +1258,9 @@ Below it: *"Income of $X/mo covers taxes, living, and debt, leaving $X/mo to rou
 
 That number is one number. Everything in this module has been about making it real and reliable.
 
-⚠ If the headline flips to *"Spending runs $X/mo ahead of income"* with a sub-line about being behind, you're running a deficit. That's not a failure. This module is the fix. Routing pauses honestly, and you keep going.
+⚠ If the headline flips to *"Spending runs $X/mo ahead of income"* with a sub-line about being behind, you're running a deficit. That's not a failure. This module is the fix. Current routing shows $0 for the month, while Reserve and Contributions settings stay editable. You can save the plan that begins when cash flow can support it.
 
-> ⚠ If the headline flips to *"Spending runs $X/mo ahead of income"* with a sub-line about being behind, you're running a deficit. That's not a failure. This module is the fix. Routing pauses honestly, and you keep going.
+> ⚠ If the headline flips to *"Spending runs $X/mo ahead of income"* with a sub-line about being behind, you're running a deficit. That's not a failure. This module is the fix. Current routing shows $0 for the month, while Reserve and Contributions settings stay editable. You can save the plan that begins when cash flow can support it.
 
 ### Step 2: Map your income
 
@@ -1385,7 +1380,7 @@ This is the order of operations the app runs every month, so you don't have to r
 
 > ⚠ Step 2 is read-only here. The amounts are managed on **Strategy → Debt**. Cash Flow only displays them. That's Module 4's job.
 
-If you're in deficit mode, the routing block is replaced by *"This month has no surplus to allocate. Reserve settings stay editable and apply when surplus returns."*
+If you're in deficit mode, current routing shows $0. Reserve and Contributions settings stay editable, and planned contribution amounts remain saved for later modeled years when the waterfall has capacity.
 
 <!-- PLAN-LIFECYCLE:LIFE-EVENTS -->
 ### Step 8b: Add expected life events
@@ -2284,7 +2279,7 @@ Set aside about 20 minutes. Have your conviction level and target range from the
 Two things need to be true before Step 6 will work:
 
 - The 401(k) owner has a **salary income source** entered. Without it, Fill to match is disabled and the row explains why.
-- Your surplus is routed into **Step 3** of the waterfall. The contribution rows only appear once the cash-flow pass from Module 2 has produced a surplus.
+- Your surplus is routed into **Step 3** of the waterfall. Contribution rows remain editable even when current cash flow is negative. The page shows $0 routed now, while a saved planned amount can begin in a later modeled year when the waterfall has capacity.
 
 If either is missing, fix it first. Run the Module 2 cash flow walkthrough before this one.
 
@@ -5061,7 +5056,7 @@ Section **"Routing · waterfall order"**. Leave it alone unless something real c
 
 ⚠ **Transactions import is on Dashboard, not Cash Flow.** Hop over, do it, hop back. Budget the click in your timer.
 
-Source step **"Start here"**, heading *"How would you like to update transactions?"* Four choices:
+Source step **"Start here"**, heading *"How would you like to update transactions?"* Up to four choices. **A linked account** appears only when a supported linked investment source is available.
 
 | Choice | Sub-copy |
 |---|---|

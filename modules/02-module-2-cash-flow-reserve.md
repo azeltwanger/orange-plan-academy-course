@@ -1,12 +1,7 @@
 # Unit 3 · Module 2 — Cash Flow + Reserve
 
-> 🔴 **FILMING BLOCKER (F23) — Module 2's lesson order is not confirmed.** College
-> sits at 2.4 (optional) and the walkthrough at 2.5, so the walkthrough hand-off
-> is on 2.3, the last *required* lesson, worded to work whether or not a student
-> takes 2.4. The alternative Austin may prefer — college last at 2.5, walkthrough
-> back at 2.4 — makes the hand-off literal again at the cost of putting an
-> optional lesson after the module's capture. **Cheap to switch now, a re-shoot
-> after.** Confirm before filming Module 2. See `AUTHORITY-FLAGS.md`.
+> ✅ **STRUCTURE LOCKED, 2026-08-25.** College remains optional at 2.4 and the module walkthrough remains 2.5. This preserves the existing course structure; the hand-off on the last required lesson works for students who correctly skip college.
+
 
 *Find your real surplus, protect the flywheel, size a cash reserve you won't have to sell Bitcoin for, and give every known future cost a lane.*
 
@@ -503,9 +498,9 @@ Below it: *"Income of $X/mo covers taxes, living, and debt, leaving $X/mo to rou
 
 That number is one number. Everything in this module has been about making it real and reliable.
 
-⚠ If the headline flips to *"Spending runs $X/mo ahead of income"* with a sub-line about being behind, you're running a deficit. That's not a failure. This module is the fix. Routing pauses honestly, and you keep going.
+⚠ If the headline flips to *"Spending runs $X/mo ahead of income"* with a sub-line about being behind, you're running a deficit. That's not a failure. This module is the fix. Current routing shows $0 for the month, while Reserve and Contributions settings stay editable. You can save the plan that begins when cash flow can support it.
 
-> ⚠ If the headline flips to *"Spending runs $X/mo ahead of income"* with a sub-line about being behind, you're running a deficit. That's not a failure. This module is the fix. Routing pauses honestly, and you keep going.
+> ⚠ If the headline flips to *"Spending runs $X/mo ahead of income"* with a sub-line about being behind, you're running a deficit. That's not a failure. This module is the fix. Current routing shows $0 for the month, while Reserve and Contributions settings stay editable. You can save the plan that begins when cash flow can support it.
 
 ### Step 2: Map your income
 
@@ -625,7 +620,7 @@ This is the order of operations the app runs every month, so you don't have to r
 
 > ⚠ Step 2 is read-only here. The amounts are managed on **Strategy → Debt**. Cash Flow only displays them. That's Module 4's job.
 
-If you're in deficit mode, the routing block is replaced by *"This month has no surplus to allocate. Reserve settings stay editable and apply when surplus returns."*
+If you're in deficit mode, current routing shows $0. Reserve and Contributions settings stay editable, and planned contribution amounts remain saved for later modeled years when the waterfall has capacity.
 
 <!-- PLAN-LIFECYCLE:LIFE-EVENTS -->
 ### Step 8b: Add expected life events

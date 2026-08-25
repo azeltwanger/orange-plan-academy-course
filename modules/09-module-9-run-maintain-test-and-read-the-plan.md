@@ -332,7 +332,7 @@ Section **"Routing · waterfall order"**. Leave it alone unless something real c
 
 ⚠ **Transactions import is on Dashboard, not Cash Flow.** Hop over, do it, hop back. Budget the click in your timer.
 
-Source step **"Start here"**, heading *"How would you like to update transactions?"* Four choices:
+Source step **"Start here"**, heading *"How would you like to update transactions?"* Up to four choices. **A linked account** appears only when a supported linked investment source is available.
 
 | Choice | Sub-copy |
 |---|---|

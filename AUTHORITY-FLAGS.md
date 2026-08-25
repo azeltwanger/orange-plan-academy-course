@@ -168,7 +168,7 @@ planning recommendation I authored.
 
 **Austin decides:** is that the design you would give a Level 2 household?
 
-### F7 · Gate conditions on seven advanced lessons
+### F7 · Advanced gate conditions — surfaced for Austin approval
 
 I wrote the condition that decides whether a student watches each advanced
 lesson — including the Roth gate's *"all three must be true"*, the trust gate's
@@ -177,8 +177,7 @@ trigger list, and the healthcare gate's *"only if you stop work before 65."*
 These are triage rules: they decide who gets told to skip what. Each is a
 judgment call about applicability.
 
-**Austin decides:** read the seven `> **Gate.**` lines in `MASTER-ADVANCED.md`
-and confirm or change them. They are all in one place for exactly this reason.
+**Austin decides:** review `ADVANCED-GATE-APPROVAL.md`, which now puts every live gate on one page with the owning lesson. This remains an approval item rather than a silent editorial decision, but it no longer requires hunting through the master.
 
 ---
 
@@ -490,21 +489,8 @@ downstream of an order that does not exist yet:
    one destination or a deliberate split."*
 2. The Module 4 checkpoint lines about rung 2 and the skipped rungs.
 
-### F23 · Where the Module 2 walkthrough hand-off now sits
+### F23 ✅ RESOLVED · Module 2 order stays 2.4 optional college, 2.5 walkthrough
 
-A consequence of the F9 split, recorded so it is a decision rather than a
-side effect.
+Austin explicitly authorized the course-wide update without a major restructure. The existing order is now locked: lesson 2.4 is the optional college funding stack, lesson 2.5 is the walkthrough, and the hand-off stays on the last required teach lesson so a student who correctly skips college still reaches the walkthrough.
 
-The say-once rule puts the walkthrough hand-off on the **last teach lesson of a
-module that has a capture**. After the split that is 2.4 — the *optional* college
-lesson — so a student who correctly skips college would never hear it.
-
-**What was done:** the hand-off sits on **2.3**, the last *required* teach lesson,
-and is worded to work on both paths: *"Then watch the module walkthrough, where we
-build cash flow and reserve in Orange Plan. If college applies to you, take the
-college lesson first."* `tools/build-dictation-order.py` now derives the hand-off
-from the last required lesson, so an optional lesson never captures it.
-
-**The alternative Austin may prefer:** put college last (2.5) and leave the
-walkthrough at 2.4, which makes the hand-off literal again at the cost of putting
-an optional lesson after the module's capture. Cheap to switch before filming.
+This is no longer a filming blocker.

@@ -84,7 +84,7 @@ report saved and the backup exported.*
 
 **⚠** Four inputs, and only ACTUAL changes get entered. The monthly pass isn't a re-planning session. A steady month is 60 seconds.
 
-**⚠** In deficit mode the routing block reads *"This month has no surplus to allocate…"* That's an honest read, and the pass still happened.
+**⚠** In deficit mode current routing is $0. Reserve and Contributions settings stay editable, and the pass still happened.
 
 ---
 
@@ -94,7 +94,7 @@ report saved and the backup exported.*
 
 **⚠** It's on the Dashboard, NOT Cash Flow. Budget the hop into the timer.
 
-**SEE** Four choices: A linked account · A downloaded file · Describe one transaction to AI · I'll enter them myself
+**SEE** Up to four choices. A linked account appears only when supported; file, AI-assisted, and manual entry remain available.
 
 **DO** File path → which account? → **review step before anything saves**
 

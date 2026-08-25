@@ -10,8 +10,8 @@ The whole maintenance module, run in the app. Filmed as one continuous session i
 
 ### The monthly pass (timed, honestly under five minutes)
 
-1. **Cash Flow → This month**: read the surplus verdict; only actual changes get entered. Deficit months pause routing honestly; the pass still happened.
-2. **Enter transactions**: Dashboard → Update Transactions (four paths: linked account, file, describe to AI, manual). Nothing enters the plan without your review.
+1. **Cash Flow → This month**: read the surplus verdict; only actual changes get entered. A deficit month routes $0 now while Reserve and Contributions settings remain editable.
+2. **Enter transactions**: Dashboard → Update Transactions. File, AI-assisted, and manual paths are available; a linked-account path appears only when supported. Nothing enters the plan without review.
 3. **Explain review items (AI)**: Accounts page, when something is flagged. It explains the queue; it approves nothing.
 
 ### The annual lap (six screens, ~40 seconds each; reading, not editing)

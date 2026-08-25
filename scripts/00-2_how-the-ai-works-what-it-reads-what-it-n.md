@@ -1,6 +1,7 @@
 TELEPROMPTER SCRIPT — segment 0.2
 0.2 How to use Orange Plan AI
 ~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+SOURCE: source-material/2026-08-25-module-0-1-dictation.md · Austin direction, editor-shaped script
 ============================================================
 
 In today's lesson, we're going to walk through how to actually use the AI inside Orange Plan.
