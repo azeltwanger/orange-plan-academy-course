@@ -48,7 +48,9 @@ The additional income can change:
 - estimated payments or withholding,
 - and the cash needed to pay tax.
 
-The correct amount may therefore be less than the bracket room—or zero.
+I would treat the $40,000 as a ceiling to compare—not a recommendation to fill automatically.
+
+The correct amount may be smaller or zero.
 
 == COMPARE NOW WITH LATER ==
 
@@ -64,7 +66,7 @@ The future comparison includes:
 - estate and beneficiary goals,
 - and the value of Roth flexibility.
 
-Do not convert simply because the current bracket is low. The future rate may be equal or lower, the account may already be modest, or another income-based cost may make the current year unattractive.
+Do not convert simply because the current bracket is low. The future rate may be equal or lower. The account may already be modest, or another income-based cost may make the current year unattractive.
 
 == PAYING THE TAX IS PART OF THE STRATEGY ==
 
@@ -78,7 +80,7 @@ The tax money cannot also be the emergency reserve or next year's Bridge without
 
 == WATCH THE MULTIPLE FIVE-YEAR RULES ==
 
-Roth accounts have more than one five-year concept, and the result depends on account type, age, distribution type, and the source of the money.
+Roth accounts have more than one five-year concept. The result depends on account type, age, distribution type, and the source of the money.
 
 Core should not teach a shortcut such as “wait five years and every Roth dollar is available.”
 
@@ -120,7 +122,7 @@ A lower lifetime-tax estimate is useful. It is not enough when the strategy crea
 
 == YOUR DECISION ==
 
-Choose the year and conversion range worth sending to the CPA, the tax-payment source, and the income-based limits that must be protected.
+Choose the year and conversion range worth sending to the CPA. Also name the tax-payment source and the income-based limits that must be protected.
 
 == PUT IT IN ORANGE PLAN ==
 
@@ -128,6 +130,6 @@ Preview no conversion, a smaller amount, and the proposed ceiling. Save nothing 
 
 == YOU ARE DONE WHEN ==
 
-You can explain the current cost, expected future benefit, cash source, five-year issues to verify, and why the selected range is better than both converting nothing and automatically filling the bracket.
+You can explain the current cost, expected future benefit, cash source, and five-year questions to verify. You can also explain why the selected range is better than both converting nothing and automatically filling the bracket.
 
 **Return to Core:** save the accepted Tax strategy and update the retirement withdrawal phase only after the actual conversion decision is made.
