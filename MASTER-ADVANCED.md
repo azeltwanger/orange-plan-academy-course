@@ -7,15 +7,15 @@
 > judgment (C) without his explicit direction. Open items live in
 > `AUTHORITY-FLAGS.md`.
 
-**Course 2 of 2.** Optional. Sections mirror the core modules so every advanced
-lesson has an obvious home.
+**Course 2 of 2.** Optional. The A-numbers are final, and each section mirrors the core module that owns the decision.
 
-Nothing here is required to finish a plan. Each lesson opens with a gate: a
-condition you can check on a screen in Orange Plan. If the condition does not
-apply to you, that planning area is **complete** without this lesson.
+Complete the matching core Build Your Plan area first. The core walkthrough enters the real data and establishes the plan of record. An advanced lesson starts from that completed area and goes deeper only when its gate is true.
 
-Lesson numbers are kept from the core course during the migration and are
-renumbered to A-numbers once the structure is final.
+Nothing here is required to finish a plan. Each lesson opens with a gate you can check against your own situation or screen. If the condition does not apply, that planning area is complete without the lesson.
+
+Advanced lessons do not recreate onboarding, rebuild Foundation, or run the first confidence check. They may explain a result, model a triggered decision, or compare a scenario. A preview or scenario stays separate from the plan until the app explicitly applies it.
+
+Every advanced video closes with a decision and a short homework/finish line. The student-facing text carries current figures and verification notes that should not be frozen into a video.
 
 ---
 
@@ -464,7 +464,7 @@ You've seen what one play does to your plan. Now every debt on the ledger needs 
 
 ## A4.1 The price context check: naming the emotion before a big move
 
-*`TEACH` · 380 words · ~3 min*
+*`TEACH` · ~430 words · ~3 min*
 
 > **Gate.** Watch this before any Bitcoin-heavy move: a large buy, selling to
 > lock in gains, or taking a Bitcoin-backed loan. Your allocation decision is
@@ -472,32 +472,49 @@ You've seen what one play does to your plan. Now every debt on the ledger needs 
 
 **By the end of this lesson, you can:**
 
-- Run the two lookback windows before a Bitcoin-heavy move
-- Tell what you are feeling apart from what is actually true
-- Decide whether the plan or the price is making the decision
+- Run two lookback windows before a Bitcoin-heavy move
+- Separate what the recent price makes you feel from what the longer trend says
+- Decide whether the plan or the price is driving the move
 
 ---
-This one runs before any Bitcoin-heavy move. Its job is to name the emotion in the room.
 
-#### Two lookbacks
+This is a short check to run before any Bitcoin-heavy move. A large buy, a sale to lock in gains, or a Bitcoin-backed loan can all be reasonable decisions. The problem is that the exact same decision can also be an emotional reaction to the last few months.
 
-- **Recent (3, 6, 9, 12 months):** what you're feeling. Bitcoin up 40% in three months, you're feeling FOMO. Down 40%, you're feeling fear.
-- **Long (2 to 5 years):** what's actually true. The direction of the trend, not the mood of last week.
+The point of this check is not to tell you whether to buy, sell, or borrow. It is to name what is in the room before you decide.
 
-Run both. Recent tells you which emotion you're carrying into the decision. Long tells you whether it's aligned with reality or reacting against it.
+### Two lookbacks
 
-#### What the check does and doesn't do
+Start with the recent window: 3, 6, 9, and 12 months.
 
-It doesn't decide the move. It names the emotion so you can act on the plan instead of the mood.
+That window tells you what you are feeling. If Bitcoin is up 40% in three months, there is probably some FOMO in the decision. If it is down 40%, there is probably fear. You do not need to pretend either one is not there. You just need to name it.
 
-Before a big move (buying a large position, selling to lock in gains, taking out a Bitcoin-backed loan), if the recent 3-6 month price move is dramatic, you're probably reacting to it. Wait a beat. Is this the plan making the decision, or the price?
+Next, use the 2-to-5-year window.
+
+That window tells you what has actually happened over a meaningful period. It shows the direction of the trend instead of the mood of the last week.
+
+The recent window names the emotion. The long window gives it context.
+
+### Put the proposed move back against the plan
+
+Now describe the move without using today's price as the reason.
+
+Why does it fit your allocation target, cash reserve, debt ceiling, tax plan, or retirement-income strategy? What problem is it solving? What would still make the decision reasonable if Bitcoin moved the other direction next month?
+
+If you cannot explain it without saying that the price has been going up or going down, the price is probably doing more of the work than the plan is.
+
+That does not automatically make the move wrong. It means you should wait a beat, open the owning page or scenario, and make sure the numbers support what the emotion wants to do.
 
 ### Your decision
 
-**Whether this move is the plan talking or the price talking.**
+Whether this move is the plan talking or the price talking.
 
-If the recent 3-to-6-month move is dramatic, wait a beat and ask it straight
-before you act.
+### Homework
+
+1. Write a plain explanation of the move without mentioning the recent Bitcoin price.
+2. Write what the 3-to-12-month window makes you feel and what the 2-to-5-year window shows.
+3. Open the owning plan page or scenario and confirm the move still makes sense against the rules you already set.
+
+You are done when you can defend the move from the plan even if the last three months of price action were reversed.
 
 # Advanced Module 5 — Tax Strategies
 
@@ -1051,7 +1068,7 @@ Bring the outputs to the household and CPA conversation.
 
 ## A7.2 What self-custody actually asks of you
 
-*`TEACH` · 300 words · ~2 min*
+*`TEACH` · ~470 words · ~3 min*
 
 > **Gate.** Optional throughout. Watch it if you are weighing whether you want
 > the whole job of self-custody, or if the weight of it is what has been
@@ -1059,31 +1076,51 @@ Bring the outputs to the household and CPA conversation.
 
 **By the end of this lesson, you can:**
 
-- Name what self-custody actually transfers to you
-- Decide honestly whether you want the whole job, or part of it
+- Name the responsibility self-custody transfers to you
+- Decide whether you want the whole job, part of it, or none of it
+- Match that honest answer to the custody level you can actually maintain
 
 ---
+
 A client put this better than I ever have.
 
-He said: with self-custody, you are the point of failure. And not just the failure, you're the attack vector. And then he made the point that most of life doesn't work this way. We outsource violence to the police. We outsource security to the banks. That's basically what civilization is, handing off the hard, dangerous jobs to somebody whose job it is.
+He said that with self-custody, you are the point of failure. And you are not only the failure point. You are also the attack vector.
 
-And Bitcoin asks you to take one of those jobs back.
+Then he made the point that most of life does not work this way. We outsource violence to the police. We outsource security to banks and other institutions. A big part of civilization is handing the hard and dangerous jobs to people whose job it is to carry them.
 
-I think that's right, and it explains why custody feels heavier than the rest of this course. It isn't just another checkbox. It's you accepting a responsibility that, for every other asset you own, somebody else carries for you.
+Bitcoin gives you the ability to take one of those jobs back.
 
-Two things follow from that.
+That is why custody can feel heavier than the rest of a financial plan. It is not another investment checkbox. You are accepting a responsibility that somebody else carries for nearly every other asset you own.
 
-The first one is that it's completely reasonable to not want the whole job. That's what collaborative custody exists for, and it's why a hardened exchange position is a legitimate setup for part of your stack. Taking the job back is a choice, not an obligation.
+### What the whole job includes
 
-The second one is that if you do take it, being a little paranoid is appropriate, not a character flaw. You should feel the weight. The people who get hurt are usually the ones who didn't.
+The whole job is not just owning a hardware wallet.
+
+It includes protecting the recovery material, keeping the process usable, testing that recovery works, maintaining the devices and software, noticing new single points of failure, and making sure somebody besides you can follow the process when your family needs it.
+
+The device is one part. The ongoing responsibility is the job.
+
+### Three honest answers
+
+The first honest answer is that you want the whole job. That can be the right choice when the amount, your skill, and your willingness to maintain it all line up.
+
+The second answer is that you want part of it. That is what collaborative custody is for, and it is why a hardened institution can legitimately hold part of a stack. You keep some control and hand off some responsibility.
+
+The third answer is that you do not want the job right now. That is also a real answer. Taking responsibility you will not maintain is not more sovereign. It is just a new way to lose access.
+
+If you do take the job, being a little paranoid is appropriate. You should feel the weight. The goal is not fear. The goal is to build a process strong enough that you do not need to think about it every day.
 
 ### Your decision
 
-**Whether you want the whole job.**
+Whether you want the whole job, part of it, or none of it right now.
 
-It is completely reasonable not to. That is what collaborative custody exists
-for, and it is why a hardened exchange position is a legitimate setup for part
-of a stack. Taking the job back is a choice, not an obligation.
+### Homework
+
+1. Write which parts of custody you are willing to own and which parts you want help carrying.
+2. Name the one recovery or maintenance task you would need to prove before moving more Bitcoin into self-custody.
+3. Match the answer to the custody level from the core module. Do not choose a more complicated setup than your household can operate.
+
+You are done when the custody setup matches the responsibility you are actually willing to maintain, not the identity you want it to signal.
 
 ## A7.3 Concentration: one institution, one vendor, one firmware
 *`TEACH` · ~815 words · ~5 min*
@@ -1361,24 +1398,7 @@ So with a passphrase you're splitting two different objects between two people. 
 > gate; it explains the options after it fires. Most households run the gate in
 > 8.5, get a no, and are finished.
 
-> ⬜ **NO FILMING PLANNED FOR v1.** Not a blocker — there is simply nothing
-> scheduled to shoot here. Film it only if real users open or ask about the trust
-> material.
->
-> ⚖ **PUBLICATION BLOCKER — estate-attorney review.** This is the constraint that
-> actually holds: the lesson cannot ship to students as text either, until the
-> review clears.
->
-> 1. ⚖ **Every legal claim in this lesson is pending estate-attorney review** —
->    revocable vs. irrevocable treatment, creditor protection, taxable-estate
->    inclusion, trustee duties under the prudent-investor standard, the waiver,
->    and the international structures at the foot. Nothing here is filmed or
->    published to students until that review is signed off. Tracked in
->    `LEGAL-REVIEW-PACKET.md`.
-> 2. The screen-capture half was removed (2026-08-08). The calls do not show
->    demand for an after-tax estate ledger walkthrough, and building a twelfth
->    capture for the least-watched lesson is the wrong use of production time.
->    Film it only if real users open or ask about the trust material.
+> 🎙 **SCRIPT PREPARED.** Dictation may be recorded; do not publish until the estate-attorney review is signed off in `LEGAL-REVIEW-PACKET.md`.
 
 **By the end of this lesson, you can:**
 
@@ -1503,8 +1523,7 @@ The attorney wasn't careless. The conversation never happened. The problem was a
 
 ### Read it in the app
 
-> **Reference, not a capture.** This lesson is text-only for v1, so the steps
-> below are written for a reader working through the app on their own screen.
+> **Reference, not a separate screen capture.** The steps below are written for a reader working through the app on their own screen; the talking-head lesson can be recorded without an additional capture.
 > Do not quote the federal exemption figure anywhere it can age: the app prints
 > the current one, so read it there.
 

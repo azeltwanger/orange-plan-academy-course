@@ -543,7 +543,7 @@ Set aside about 20 minutes. Have your conviction level and target range from the
 Two things need to be true before Step 6 will work:
 
 - The 401(k) owner has a **salary income source** entered. Without it, Fill to match is disabled and the row explains why.
-- Your surplus is routed into **Step 3** of the waterfall. The contribution rows only appear once the cash-flow pass from Module 2 has produced a surplus.
+- Your surplus is routed into **Step 3** of the waterfall. Contribution rows remain editable even when current cash flow is negative. The page shows $0 routed now, while a saved planned amount can begin in a later modeled year when the waterfall has capacity.
 
 If either is missing, fix it first. Run the Module 2 cash flow walkthrough before this one.
 

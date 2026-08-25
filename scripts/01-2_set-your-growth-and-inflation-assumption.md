@@ -1,6 +1,7 @@
 TELEPROMPTER SCRIPT — segment 1.2
 1.2 The three layers of a plan, and setting your assumptions
 ~10 min at 155 wpm · AUSTIN DICTATION — revised 2026-08-25
+SOURCE: source-material/2026-08-25-module-0-1-dictation.md · Austin dictation; verified math and walkthrough split documented in DICTATION-SOURCE-MAP.md
 ============================================================
 
 In today's lesson, we're going to cover how your retirement plan is going to be built out and the three different layers that go into how the app works and how your retirement plan is going to work.

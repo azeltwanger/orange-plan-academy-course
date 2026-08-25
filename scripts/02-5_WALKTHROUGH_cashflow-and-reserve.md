@@ -28,7 +28,7 @@
 
 **SEE** Headline *"You have $X/mo left to put to work"* · sub-line: income covers taxes, living, debt → the rest routes below
 
-**⚠** Deficit mode reads *"Spending runs $X/mo ahead of income."* Not a failure. Routing pauses honestly and the module is the fix.
+**⚠** Deficit mode reads *"Spending runs $X/mo ahead of income."* Current routing is $0. Reserve and Contributions settings stay editable, so you can save the plan that begins when cash flow can support it.
 
 ---
 
@@ -122,7 +122,7 @@
 
 **⚠** Step 2 is read-only here. Amounts live on Strategy → Debt (Module 3, next).
 
-**⚠** Deficit mode replaces the routing block with *"This month has no surplus to allocate…"*
+**⚠** Deficit mode shows $0 routed now. Reserve and Contributions remain editable. Planned contribution amounts save as future targets and begin in modeled years where the waterfall has capacity.
 
 ---
 

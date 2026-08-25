@@ -126,9 +126,9 @@
 
 **DO** Dashboard → Update Transactions.
 
-**SEE** Four choices:
+**SEE** Up to four choices:
 
-1. A linked account
+1. A linked account, only when a supported linked investment source is available
 2. A downloaded CSV/Excel file
 3. Describe one transaction to AI, then review every field
 4. Enter a purchase, sale, or transfer manually

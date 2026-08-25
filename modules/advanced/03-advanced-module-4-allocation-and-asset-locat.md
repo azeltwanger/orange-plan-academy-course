@@ -2,7 +2,7 @@
 
 ## A4.1 The price context check: naming the emotion before a big move
 
-*`TEACH` · 380 words · ~3 min*
+*`TEACH` · ~430 words · ~3 min*
 
 > **Gate.** Watch this before any Bitcoin-heavy move: a large buy, selling to
 > lock in gains, or taking a Bitcoin-backed loan. Your allocation decision is
@@ -10,29 +10,46 @@
 
 **By the end of this lesson, you can:**
 
-- Run the two lookback windows before a Bitcoin-heavy move
-- Tell what you are feeling apart from what is actually true
-- Decide whether the plan or the price is making the decision
+- Run two lookback windows before a Bitcoin-heavy move
+- Separate what the recent price makes you feel from what the longer trend says
+- Decide whether the plan or the price is driving the move
 
 ---
-This one runs before any Bitcoin-heavy move. Its job is to name the emotion in the room.
 
-#### Two lookbacks
+This is a short check to run before any Bitcoin-heavy move. A large buy, a sale to lock in gains, or a Bitcoin-backed loan can all be reasonable decisions. The problem is that the exact same decision can also be an emotional reaction to the last few months.
 
-- **Recent (3, 6, 9, 12 months):** what you're feeling. Bitcoin up 40% in three months, you're feeling FOMO. Down 40%, you're feeling fear.
-- **Long (2 to 5 years):** what's actually true. The direction of the trend, not the mood of last week.
+The point of this check is not to tell you whether to buy, sell, or borrow. It is to name what is in the room before you decide.
 
-Run both. Recent tells you which emotion you're carrying into the decision. Long tells you whether it's aligned with reality or reacting against it.
+### Two lookbacks
 
-#### What the check does and doesn't do
+Start with the recent window: 3, 6, 9, and 12 months.
 
-It doesn't decide the move. It names the emotion so you can act on the plan instead of the mood.
+That window tells you what you are feeling. If Bitcoin is up 40% in three months, there is probably some FOMO in the decision. If it is down 40%, there is probably fear. You do not need to pretend either one is not there. You just need to name it.
 
-Before a big move (buying a large position, selling to lock in gains, taking out a Bitcoin-backed loan), if the recent 3-6 month price move is dramatic, you're probably reacting to it. Wait a beat. Is this the plan making the decision, or the price?
+Next, use the 2-to-5-year window.
+
+That window tells you what has actually happened over a meaningful period. It shows the direction of the trend instead of the mood of the last week.
+
+The recent window names the emotion. The long window gives it context.
+
+### Put the proposed move back against the plan
+
+Now describe the move without using today's price as the reason.
+
+Why does it fit your allocation target, cash reserve, debt ceiling, tax plan, or retirement-income strategy? What problem is it solving? What would still make the decision reasonable if Bitcoin moved the other direction next month?
+
+If you cannot explain it without saying that the price has been going up or going down, the price is probably doing more of the work than the plan is.
+
+That does not automatically make the move wrong. It means you should wait a beat, open the owning page or scenario, and make sure the numbers support what the emotion wants to do.
 
 ### Your decision
 
-**Whether this move is the plan talking or the price talking.**
+Whether this move is the plan talking or the price talking.
 
-If the recent 3-to-6-month move is dramatic, wait a beat and ask it straight
-before you act.
+### Homework
+
+1. Write a plain explanation of the move without mentioning the recent Bitcoin price.
+2. Write what the 3-to-12-month window makes you feel and what the 2-to-5-year window shows.
+3. Open the owning plan page or scenario and confirm the move still makes sense against the rules you already set.
+
+You are done when you can defend the move from the plan even if the last three months of price action were reversed.

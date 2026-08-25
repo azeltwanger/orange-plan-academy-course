@@ -6,7 +6,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 <!-- STATUS:START -->
 
-> **Status: NOT CLEARED FOR FILMING — 3 filming blockers.**
+> **Status: NOT CLEARED FOR FILMING — 2 filming blockers.**
 >
 > The word FINAL is generated, not typed. It appears only when the
 > filming list below is empty. Each line is a marker found in the layer
@@ -16,18 +16,6 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 >
 > - **2.3** (F20) — `MASTER-COURSE.md`
 > - **4.3** (F22) — `MASTER-COURSE.md` · `scripts/04-3_order-your-contributions-which-account-g.md`
-> - **Module 2** (F23) — `MASTER-COURSE.md`
->
-> ### ⬜ NOT SCHEDULED FOR v1 — not blockers
->
-> - **A8.1** — no filming planned for v1
->
-> ### ⚖ PUBLICATION BLOCKERS — can be shot, cannot ship
->
-> - **A8.1** — `MASTER-ADVANCED.md`
->
-> Tracked in `LEGAL-REVIEW-PACKET.md`. A publication blocker does
-> not stop a camera; it stops a student seeing the result.
 >
 > ### 📋 PROFESSIONAL REVIEW GATES — outstanding
 >
@@ -38,7 +26,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 >
 > - **Module 5, and the advanced tax lessons (A5.1, A5.2, A5.3, A6.2)** — do not FILM until **Bitcoin-aware CPA** review is complete
 >   · *basis at death and Roth conversion mechanics are the two blocking items; both drive arithmetic a student will act on*
-> - **Module 7** — do not FILM until **custody professional** review is complete
+> - **Module 7 and advanced custody lessons A7.1–A7.4** — do not FILM until **custody professional** review is complete
 >   · *the four levels, the wipe-and-restore standard, and the institutional death-claim path added 2026-08-08*
 > - **8.4** — do not FILM until **insurance professional** review is complete
 >   · *the coverage-gap arithmetic is the one place the course produces an insurance number*
@@ -151,21 +139,21 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 ☐ 9.3 Walkthrough: annual review, scenarios, and your report — 🖥 capture
 ☐ Paste the Module 9 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
 
-## ☐ ADVANCED LIBRARY — text first, video in demand order
+## ☐ ADVANCED LIBRARY — all 14 scripts prepared; dictate in demand order
 
-*Publish every advanced lesson as student-facing TEXT at launch. Film in this order afterwards.*
+*Every Advanced lesson has a protected teleprompter script. Review the status block before recording or publishing a professionally gated lesson.*
 
-☐ 1. A3.1 Borrow against Bitcoin without getting liquidated — 🎙 film (~17 min)
-☐ 2. A6.1 Health insurance between retiring and Medicare — 🎙 film (~6 min)
-☐ 3. A5.1 RMD risk and Roth conversions — 🎙 film (~10 min)
-☐ 4. A7.1 Advanced custody: passphrase, multisig, and collaborative — 🎙 film (~16 min)
-☐ 5. A6.2 Sell, borrow, or hold: funding a year of spending — 🎙 film (~8 min)
-☐ 6. A5.2 Harvesting losses and gains — 🎙 film (~8 min)
-☐ 7. A7.2 What self-custody actually asks of you — 🎙 film (~2 min)
-☐ — A1.1 How Orange Plan models Bitcoin: fat tails, correlations, floors and caps — TEXT ONLY for now
-☐ — A3.2 The four ways debt can build wealth — TEXT ONLY for now
-☐ — A4.1 The price context check: naming the emotion before a big move — TEXT ONLY for now
-☐ — A5.3 State taxes and relocation: what the lever is actually worth — TEXT ONLY for now
-☐ — A7.3 Concentration: one institution, one vendor, one firmware — TEXT ONLY for now
-☐ — A7.4 Wallet operations: UTXOs, dust, consolidation, and addresses — TEXT ONLY for now
-☐ — A8.1 Advanced: do you need a trust, and which one? — TEXT ONLY for now
+☐ 1. A3.1 Borrow against Bitcoin without getting liquidated — 🎙 dictate/film (~17 min)
+☐ 2. A6.1 Health insurance between retiring and Medicare — 🎙 dictate/film (~6 min)
+☐ 3. A5.1 RMD risk and Roth conversions — 🎙 dictate/film (~10 min)
+☐ 4. A7.1 Advanced custody: passphrase, multisig, and collaborative — 🎙 dictate/film (~16 min)
+☐ 5. A6.2 Sell, borrow, or hold: funding a year of spending — 🎙 dictate/film (~8 min)
+☐ 6. A5.2 Harvesting losses and gains — 🎙 dictate/film (~8 min)
+☐ 7. A7.2 What self-custody actually asks of you — 🎙 dictate/film (~3 min)
+☐ 8. A1.1 How Orange Plan models Bitcoin: fat tails, correlations, floors and caps — 🎙 dictate/film (~3 min)
+☐ 9. A3.2 The four ways debt can build wealth — 🎙 dictate/film (~9 min)
+☐ 10. A4.1 The price context check: naming the emotion before a big move — 🎙 dictate/film (~3 min)
+☐ 11. A5.3 State taxes and relocation: what the lever is actually worth — 🎙 dictate/film (~4 min)
+☐ 12. A7.3 Concentration: one institution, one vendor, one firmware — 🎙 dictate/film (~5 min)
+☐ 13. A7.4 Wallet operations: UTXOs, dust, consolidation, and addresses — 🎙 dictate/film (~5 min)
+☐ 14. A8.1 Advanced: do you need a trust, and which one? — 🎙 dictate/film (~11 min)

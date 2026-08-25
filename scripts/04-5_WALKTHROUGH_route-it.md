@@ -16,7 +16,7 @@
 ## Before you record
 
 - [ ] 401(k) owner has a **salary income source** entered (else Fill to match is disabled)
-- [ ] Surplus routed into **Step 3** of the waterfall (contribution rows only appear with a surplus)
+- [ ] Contribution settings visible. A deficit demo is valid: rows remain editable while current routing reads $0
 - [ ] Conviction tier + target range from 4.1 written on a card
 - [ ] Clean browser, notifications off
 
@@ -132,6 +132,8 @@
 
 **⚠** Missing account type → **+ Add account type** at the bottom.
 
+**DEFICIT CHECK** If current cash flow is negative, save a planned amount anyway. The row shows $0 routed now, preserves the target, and the projection can fund it in a later surplus year after earlier waterfall steps.
+
 ---
 
 ## □ 8 · Route with AI
@@ -140,7 +142,7 @@
 
 **SEE** Message *"Route my next dollar"* · asks: current available amount, or test a different amount?
 
-**⚠** Worth running when the surplus is real and you're stuck between two rungs.
+**⚠** Worth running when you are comparing planned amounts, even if the current month routes $0. Keep the distinction clear: planned target versus money available now.
 
 ---
 

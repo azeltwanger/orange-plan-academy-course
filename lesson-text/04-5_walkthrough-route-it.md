@@ -5,7 +5,7 @@
 This walkthrough uses the real accounts and holdings entered in Foundation, then completes the Allocation area in Build Your Plan.
 
 
-Follow along with the video (~20 minutes). Prerequisites: a salary income source entered for the 401(k) owner, and surplus routed into waterfall step 3.
+Follow along with the video (~20 minutes). Prerequisite: a salary income source for the 401(k) owner. Contribution settings remain editable in a deficit month; the row shows $0 routed now while the planned target stays saved for later surplus years.
 
 1. **Reality check on Dashboard**: fix stale holdings; flip the $ / ₿ toggle once and read your net worth in Bitcoin.
 2. **Read the three timeframes**: Strategy → Allocation → Funding your timeframes: Reserve / Bridge / Legacy with Funded / Behind badges. Reserve Behind gets fixed first, because a thin reserve is what forces a sale at the worst moment.
@@ -14,7 +14,7 @@ Follow along with the video (~20 minutes). Prerequisites: a salary income source
 3. **Sort accounts into buckets**: Assign accounts dialog; finish at "All accounts sorted."
 4. **Save your target mix**: must total 100%; set a drift band you'd actually act on (±5 pts is a sane default).
 5. **How the target gets used**: unnamed new savings route by this target from now on.
-6. **Configure the 401(k) row**: mode **Fill to match**; enter both match fields; check "captures $X/mo" shows the full match.
+6. **Configure the 401(k) row**: mode **Fill to match**; enter both match fields. In a deficit month, save the target even though current routing is $0; it can begin when a later modeled year has capacity.
 7. **Route with AI**: "Route my next dollar." It reviews; it doesn't decide.
 8. **Compare in Scenarios**: save your setup, run Bear Market, answer the sit-still question honestly.
 9. **Review portfolio (AI)**: its question is the module: "What would force you to sell during a deep drawdown?"

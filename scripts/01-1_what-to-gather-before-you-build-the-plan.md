@@ -1,6 +1,7 @@
 TELEPROMPTER SCRIPT — segment 1.1
 1.1 What to gather before you build the plan
 ~8 min at 155 wpm · AUSTIN DICTATION — revised for Build Your Plan
+SOURCE: source-material/2026-08-25-module-0-1-dictation.md · Austin dictation, revised only for current course sequence
 ============================================================
 
 In today's lesson, we're going to cover the documents and information that you're going to need to gather before you start building your full financial plan.
