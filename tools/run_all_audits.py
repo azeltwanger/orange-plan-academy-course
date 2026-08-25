@@ -20,8 +20,16 @@ COMMANDS = (
         [sys.executable, str(ROOT / "tools" / "advanced_course_audit.py")],
     ),
     (
+        "Advanced parity and evidence gate audit",
+        [sys.executable, str(ROOT / "tools" / "advanced_gate_audit.py")],
+    ),
+    (
         "Pre-dictation control audit",
         [sys.executable, str(ROOT / "tools" / "pre_dictation_control_audit.py")],
+    ),
+    (
+        "Core learner-question audit",
+        [sys.executable, str(ROOT / "tools" / "learner_question_audit.py")],
     ),
     (
         "Canonical demo fixture audit",
@@ -30,6 +38,14 @@ COMMANDS = (
     (
         "Checkpoint receipt audit",
         [sys.executable, str(ROOT / "tools" / "checkpoint_receipt_audit.py")],
+    ),
+    (
+        "Core number provenance audit",
+        [sys.executable, str(ROOT / "tools" / "number_provenance_audit.py")],
+    ),
+    (
+        "Stale demo-output audit",
+        [sys.executable, str(ROOT / "tools" / "demo_output_stale_audit.py")],
     ),
     (
         "Core voice and AI-slop lint",
