@@ -57,7 +57,7 @@ The amount of gain inside a favorable band must come from the full return, not o
 
 == WORK THE CHOICE, NOT THE SLOGAN ==
 
-Compare three paths:
+I would compare three paths:
 
 1. Do nothing
 2. Realize the proposed loss or gain
@@ -75,6 +75,8 @@ For each path, read:
 A gain harvest that saves tax only if a later sale happens may still be useful. Say what future action creates the benefit.
 
 A loss harvest with no likely use for the loss may be lower priority than cleaning missing basis or funding the Reserve.
+
+Orange Plan can compare the paths. It cannot prove that the intended lot was the one actually sold.
 
 == LOT IDENTIFICATION STILL CONTROLS ==
 
