@@ -1,39 +1,45 @@
-# Size a Roth conversion
+# Size a Roth conversion without filling the wrong bucket
 
-> **Watch this only with meaningful traditional money and a lower-income window.**
+> **Watch this only when meaningful traditional money and a lower-income window create a real conversion comparison.**
 
-## Start with the tax year
+## Verify exact facts first
 
-Estimate ordinary income already expected, then compare it with the selected planning ceiling.
+An account label does not establish the complete Roth result.
 
-Illustrative example:
+Orange Plan can use recorded owner- and account-specific facts such as Roth IRA history, designated Roth workplace-plan facts, and prior or executed conversions. Missing facts should remain visibly unresolved.
 
-- Expected ordinary income: $40,000
-- Planning ceiling: $80,000
-- First-pass room: $40,000
+Do not treat the full Roth balance as contribution basis or assume every conversion has the same access or five-year result. The CPA confirms the current treatment.
 
-That is not automatically the final conversion.
+## First-pass room
 
-## Check the interactions
+If expected ordinary income is $40,000 and the household tests an $80,000 ceiling:
 
-A conversion can affect federal/state tax, Social Security taxation, Marketplace subsidies, Medicare-related costs, capital-gain room, estimated payments, and cash liquidity.
+> $80,000 − $40,000 = **$40,000**
 
-## Compare current and future cost
+That is the first comparison amount, not the recommendation.
 
-Review future traditional balance, later income, required distributions, filing status, state, estate goals, and Roth flexibility.
+## Compare three choices
 
-## Name the tax source
+- No conversion
+- Smaller conversion
+- Proposed ceiling
 
-Tax paid from accessible cash preserves more Roth principal but may weaken Reserve or Bridge. Do not double-count the cash.
+Compare current tax, tax-payment cash, future traditional/Roth balances, later distributions, Bridge liquidity, priced healthcare effects, confidence, and ending account mix.
 
-## Five-year rules
+Do not automatically fill the bracket.
 
-There are multiple Roth five-year concepts. Confirm the actual account, age, source, and distribution rules with the CPA.
+## Tax-payment source
 
-## Compare a range
+Name where the conversion tax comes from. The same cash cannot also remain fully available for the Reserve or Bridge.
 
-Run no conversion, a smaller amount, and the proposed ceiling. Do not save a strategy merely because the app can fill a bracket.
+## Planned versus executed
+
+- **Preview:** possible result
+- **Saved strategy:** intended action
+- **Executed fact:** actual amount and date after the custodian completes it
+
+Reconcile the executed conversion with the account, tax record, and annual report.
 
 ## Done when
 
-The household has a CPA-ready conversion range, tax-payment source, and list of income-based limits to protect.
+The household has a CPA-ready range, tax source, exact-fact list, access questions, and a reason the chosen range is better than both doing nothing and filling the ceiling automatically.
