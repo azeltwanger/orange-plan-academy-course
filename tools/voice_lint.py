@@ -17,6 +17,8 @@ from pathlib import Path
 CORE_FILENAME = re.compile(r"^\d{2}-\d+_[^/]+\.md$")
 WORD = re.compile(r"[A-Za-z0-9]+(?:[’'][A-Za-z0-9]+)?(?:-[A-Za-z0-9]+)*")
 SENTENCE = re.compile(r"(?<=[.!?])\s+")
+LIST_PREFIX = re.compile(r"^(?:[-*]|\d+[.)])\s+")
+TABLE_SEPARATOR = re.compile(r"^\|?\s*:?-{3,}")
 
 FORBIDDEN_PHRASES = {
     "generic lesson opener": re.compile(r"\b(?:so\s+)?in (?:today'?s|this) lesson,? (?:we(?:'re| are)|i(?:'m| am)) going to\b", re.I),
@@ -88,10 +90,18 @@ def spoken_text(content: str) -> str:
             if stripped.endswith("]"):
                 in_editor_note = False
             continue
-        if not stripped or stripped.startswith(("==", "<!--", "```", "🎬")):
+        if not stripped or stripped.startswith(("==", "<!--", "```", "🎬", "#")):
             continue
-        if stripped.startswith(("- ", "* ")):
-            stripped = stripped[2:].strip()
+        # Markdown tables are visual support, not spoken prose. Counting their rows
+        # as one sentence created false 45-word warnings.
+        if stripped.startswith("|") or TABLE_SEPARATOR.match(stripped):
+            continue
+
+        list_match = LIST_PREFIX.match(stripped)
+        if list_match:
+            stripped = stripped[list_match.end() :].strip()
+            if stripped and stripped[-1] not in ".!?":
+                stripped += "."
         body.append(stripped)
 
     return "\n".join(body)
