@@ -1,0 +1,51 @@
+name: Advanced receipt audit
+
+on:
+  push:
+    branches:
+      - main
+      - 'course-repair/**'
+    paths:
+      - 'demo/advanced-receipt.schema.json'
+      - 'demo/advanced-receipt-manifest.json'
+      - 'demo/ADVANCED-RECEIPT-PLAN.md'
+      - 'demo/advanced-receipts/**'
+      - 'curriculum/advanced-learner-questions.json'
+      - 'tools/advanced_receipt_audit.py'
+      - '.github/workflows/advanced-receipt-audit.yml'
+  pull_request:
+    paths:
+      - 'demo/advanced-receipt.schema.json'
+      - 'demo/advanced-receipt-manifest.json'
+      - 'demo/ADVANCED-RECEIPT-PLAN.md'
+      - 'demo/advanced-receipts/**'
+      - 'curriculum/advanced-learner-questions.json'
+      - 'tools/advanced_receipt_audit.py'
+      - '.github/workflows/advanced-receipt-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Audit Advanced receipt coverage
+        run: |
+          mkdir -p artifacts/advanced-receipt-audit
+          python tools/advanced_receipt_audit.py | tee artifacts/advanced-receipt-audit/ADVANCED-RECEIPT-AUDIT.md
+      - name: Add report to summary
+        if: always()
+        run: cat artifacts/advanced-receipt-audit/ADVANCED-RECEIPT-AUDIT.md >> "$GITHUB_STEP_SUMMARY" || true
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: advanced-receipt-audit
+          path: artifacts/advanced-receipt-audit
+          if-no-files-found: warn
