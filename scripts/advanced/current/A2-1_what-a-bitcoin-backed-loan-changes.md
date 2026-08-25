@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — Advanced A2.1
 A2.1 What does a Bitcoin-backed loan change, and how does LTV move?
-~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + lender/legal review pending
+~8 min at 155 wpm · VOICE-MATCHED DRAFT — Austin review + CPA/lender/legal review pending
 ============================================================
 
 > **Watch this only if you already have a Bitcoin-backed loan or are actively comparing one. Otherwise keep borrowing out of the saved plan and return to the Core funding strategy.**
@@ -102,13 +102,19 @@ A strong price cushion does not remove lender risk. A strong lender does not rem
 
 Both belong in the decision.
 
-== TAX DEFERRAL IS NOT TAX ELIMINATION ==
+== DO NOT ASSUME THE WORD “LOAN” SETTLES THE TAX ==
 
-Receiving proceeds from a bona fide loan is generally different from selling Bitcoin, but the full tax result depends on what happens next.
+Cash from a conventional bona fide loan is generally not income because the borrower has an obligation to repay it.
 
-Interest treatment, liquidation, debt cancellation, refinance, entity ownership, use of proceeds, and eventual repayment can create separate consequences.
+A digital-asset arrangement still has to be analyzed under its actual legal and economic structure.
 
-The app can compare the planned sale and loan paths. The CPA or tax attorney confirms the actual tax treatment and records.
+Do not assume every product marketed as a Bitcoin loan is automatically a non-taxable pledge. The agreement may transfer title or economic control, permit the lender to reuse the Bitcoin, exchange the Bitcoin for an obligation to return identical units, or create another structure whose substantive tax treatment is unresolved or fact-specific.
+
+Liquidation, cancellation of debt, refinance, entity ownership, use of proceeds, interest, and eventual repayment can create separate consequences.
+
+So “tax deferral” is not a product feature we accept from marketing copy. It is a treatment the CPA or tax attorney confirms after reviewing the signed agreement and the real transaction flow.
+
+Orange Plan can compare the planned sale and provisional loan paths. It cannot determine the legal ownership or federal tax character of the collateral transfer from the word “loan.”
 
 == WHERE THE NUMBERS COME FROM ==
 
@@ -138,7 +144,7 @@ Decide whether this loan belongs in the plan at all and the maximum starting LTV
 
 == PUT IT IN ORANGE PLAN ==
 
-Enter the real loan balance, collateral quantity, rate, action thresholds, liquidation behavior, and lender structure. Do not rely on product defaults when the agreement says something else.
+Enter the real loan balance, collateral quantity, rate, action thresholds, liquidation behavior, and lender structure. Keep the tax treatment marked provisional until the agreement and transaction flow have been reviewed. Do not rely on product defaults when the agreement says something else.
 
 == YOU ARE DONE WHEN ==
 
