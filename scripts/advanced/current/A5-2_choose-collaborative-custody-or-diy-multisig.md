@@ -20,7 +20,7 @@ That creates two useful properties when the setup is built correctly:
 
 It does not automatically solve every problem.
 
-The wallet may still depend on configuration information, compatible coordinator software, the physical distribution of keys, and people who understand the process.
+The wallet may still depend on configuration information, compatible coordinator software, physical key distribution, and people who understand the process.
 
 Three keys stored in the same home are still one physical failure domain.
 
@@ -41,15 +41,11 @@ The provider can supply:
 - recovery guidance,
 - and an inheritance process.
 
-The costs can include:
+The costs can include annual fees, identity and privacy trade-offs, provider dependence, and changes in company policy.
 
-- annual fees,
-- identity and privacy trade-offs,
-- provider or software dependence,
-- changes in company policy,
-- and the risk the family assumes help will exist decades later.
+The family may also assume help will exist decades later when the agreement does not guarantee it.
 
-A provider-held key does not make the arrangement automatically noncustodial or safe. Read who controls the keys, what the provider can sign, what data it holds, and whether the household can recover without it.
+A provider-held key does not make the arrangement automatically noncustodial or safe. Read who controls the keys and what the provider can sign. Also confirm what data it holds and whether the household can recover without it.
 
 == DIY MULTISIG ==
 
@@ -99,7 +95,7 @@ The family gains more independence and privacy. It also accepts the full mainten
 
 For this household, I would not choose DIY simply because Alex can set it up today. Jordan's ability to recover without Alex matters more than Alex's ability to build it.
 
-Collaborative custody may be worth the fee when the provider-independent recovery works and the family values guided help. Staying with tested single signature may still be better when the multi-key process has not earned its complexity.
+Collaborative custody may be worth the fee when provider-independent recovery works and the family values guided help. Tested single signature may still be better when the multi-key process has not earned its complexity.
 
 == ASK THE PROVIDER-INDEPENDENCE QUESTIONS ==
 
@@ -124,7 +120,7 @@ Key distribution should survive:
 - one failed device,
 - and, when claimed, one failed provider.
 
-Do not write a universal “owner gets two, executor gets one” rule. Legal roles, trust ownership, family conflict, provider design, and the desired living-access policy can change the right distribution.
+Do not write a universal “owner gets two, executor gets one” rule. Legal roles, trust ownership, family conflict, provider design, and living-access policy can change the right distribution.
 
 The custody practitioner and estate attorney coordinate the technical threshold with legal authority.
 
@@ -144,10 +140,10 @@ Choose tested single signature, collaborative 2-of-3, or DIY 2-of-3 based on fam
 
 == PUT IT IN ORANGE PLAN ==
 
-Record the threshold, key holders at a process level, provider, configuration-record locations, review date, and latest successful test without recording keys or secrets.
+Record the threshold, process-level key holders, provider, configuration-record locations, review date, and latest successful test. Never record keys or secrets.
 
 == YOU ARE DONE WHEN ==
 
-The household can explain who or what is required to sign, prove the design survives one specified failure, and show how the family recovers if the technical owner or provider is unavailable.
+The household can explain what is required to sign and prove the design survives one specified failure. It can also show how the family recovers when the technical owner or provider is unavailable.
 
 **Return to Core:** update the custody level, single points of failure, people, and estate handoff after the selected design is operating.
