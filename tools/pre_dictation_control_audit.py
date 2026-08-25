@@ -13,6 +13,9 @@ REQUIRED_FILES = (
     "README.md",
     "CURRENT-COURSE.md",
     "ADVANCED-CURRENT.md",
+    "ADVANCED-APP-CONTRACT.md",
+    "ADVANCED-NUMBER-PROVENANCE-REGISTRY.md",
+    "ADVANCED-FILMING-READINESS.md",
     "00-START-HERE-AUSTIN-REVIEW.md",
     "AUSTIN-FULL-REVIEW-INDEX.md",
     "COURSE-APP-CONTRACT.md",
@@ -39,16 +42,23 @@ REQUIRED_FILES = (
     "review/advanced/LEARNER-QUESTION-MAP.md",
     "review/advanced/DICTATION-ORDER.md",
     "review/advanced/HOLD-REGISTER.md",
+    "review/advanced/JUDGMENT-REVIEW.md",
     "curriculum/advanced-learner-questions.json",
     "research/ADVANCED-LEGACY-MIGRATION.md",
     "research/ADVANCED-WORKED-EXAMPLE-AUDIT.md",
+    "research/ADVANCED-SLIDE-CORRECTION-MAP.md",
     "research/ADVANCED-VISUAL-BRIEFS.md",
     "research/ADVANCED-DEMO-AND-WALKTHROUGH-PLAN.md",
+    "research/ADVANCED-DEMO-RUN-SHEETS.md",
+    "research/ADVANCED-PILOT-TEST-PLAN.md",
     "demo/demo-v1-inputs.json",
     "demo/ENGINE-CHECKPOINT-CANDIDATE-3105664.md",
     "demo/VISUAL-DATA-RECEIPT-3105664.md",
     "demo/UI-ACCEPTANCE-CHECKLIST-3105664.md",
     "professional-review/README.md",
+    "professional-review/AUTHORITATIVE-SOURCE-VERIFICATION.md",
+    "professional-review/ADVANCED-AUTHORITATIVE-SOURCE-VERIFICATION.md",
+    "professional-review/ADVANCED-REVIEW-ACCEPTANCE.md",
     "professional-review/SEND-CHECKLIST.md",
     "professional-review/CANDIDATE-REVIEWERS.md",
     "professional-review/CPA-SEND.md",
@@ -68,6 +78,7 @@ REQUIRED_FILES = (
     "research/EDUCATIONAL-PROGRESSION-AUDIT.md",
     "research/SLIDE-CORRECTION-MAP.md",
     "tools/advanced_course_audit.py",
+    "tools/advanced_gate_audit.py",
     "tools/advanced_voice_lint.py",
 )
 
@@ -77,6 +88,8 @@ CURRENT_TEXT_PATHS = (
     "README.md",
     "CURRENT-COURSE.md",
     "ADVANCED-CURRENT.md",
+    "ADVANCED-APP-CONTRACT.md",
+    "ADVANCED-FILMING-READINESS.md",
     "COURSE-APP-CONTRACT.md",
     "BUILD-YOUR-PLAN-CROSSWALK.md",
     "DEMO-HOUSEHOLD.md",
@@ -93,6 +106,7 @@ CURRENT_TEXT_PATHS = (
     "VISUAL-PRODUCTION-BRIEFS.md",
     "professional-review/README.md",
     "professional-review/SEND-CHECKLIST.md",
+    "professional-review/ADVANCED-REVIEW-ACCEPTANCE.md",
     "review/README.md",
     "review/MANIFEST.md",
     "review/advanced/README.md",
@@ -123,6 +137,22 @@ REQUIRED_PHRASES = {
         "18 matching student lesson texts",
         "ready for Austin voice-and-judgment review",
         "scripts/advanced/current/",
+        "ADVANCED-APP-CONTRACT.md",
+        "ADVANCED-NUMBER-PROVENANCE-REGISTRY.md",
+        "ADVANCED-AUTHORITATIVE-SOURCE-VERIFICATION.md",
+    ),
+    "ADVANCED-APP-CONTRACT.md": (
+        "Saved Plan input",
+        "Preview",
+        "Scenario",
+        "External evidence",
+        "A6.2",
+    ),
+    "ADVANCED-FILMING-READINESS.md": (
+        "Primary-source verification",
+        "Professional packets",
+        "Learner pilot design",
+        "Austin first review",
     ),
     "PRE-DICTATION-QA.md": (
         "Reproducible app-engine outputs",
@@ -137,10 +167,15 @@ REQUIRED_PHRASES = {
     ),
     "professional-review/README.md": (
         "Actual outside sign-off is not complete",
-        "SEND-CHECKLIST.md",
-        "CANDIDATE-REVIEWERS.md",
+        "ADVANCED-AUTHORITATIVE-SOURCE-VERIFICATION.md",
+        "ADVANCED-REVIEW-ACCEPTANCE.md",
         "LENDING-SEND.md",
         "HEALTHCARE-SEND.md",
+    ),
+    "professional-review/ADVANCED-REVIEW-ACCEPTANCE.md": (
+        "Minimum response standard",
+        "Cross-disciplinary claims",
+        "Rejection criteria",
     ),
     "review/README.md": (
         "AI-PLANNING-QUESTION-GUIDE.md",
@@ -222,8 +257,9 @@ def main() -> int:
         if len(entries) != 18:
             failures.append(f"advanced learner-question contract has {len(entries)} entries; expected 18")
         for entry in entries:
-            for field in ("id", "script", "lessonText", "gate", "question", "decision", "example", "returnToCore"):
-                if not str(entry.get(field, "")).strip():
+            for field in ("id", "script", "lessonText", "gate", "question", "decision", "example", "returnToCore", "holds"):
+                value = entry.get(field)
+                if value is None or value == "" or value == []:
                     failures.append(f"advanced contract {entry.get('id', 'UNKNOWN')}: blank {field}")
 
     contract = ROOT / "COURSE-APP-CONTRACT.md"
@@ -231,6 +267,13 @@ def main() -> int:
         match = re.search(r"App source (?:reviewed|verified):.*?`([0-9a-f]{7,40})`", contract.read_text(encoding="utf-8"), flags=re.I)
         if not match:
             failures.append("COURSE-APP-CONTRACT.md: missing last-reviewed app commit")
+
+    advanced_app_contract = ROOT / "ADVANCED-APP-CONTRACT.md"
+    if advanced_app_contract.is_file():
+        app_text = advanced_app_contract.read_text(encoding="utf-8")
+        for lesson_id in [f"A1.{i}" for i in range(1, 3)] + [f"A2.{i}" for i in range(1, 5)] + [f"A3.{i}" for i in range(1, 5)] + [f"A4.{i}" for i in range(1, 4)] + [f"A5.{i}" for i in range(1, 4)] + [f"A6.{i}" for i in range(1, 3)]:
+            if lesson_id not in app_text:
+                failures.append(f"ADVANCED-APP-CONTRACT.md missing {lesson_id}")
 
     decisions = ROOT / "AUSTIN-DEMO-DECISIONS.md"
     if decisions.is_file() and "APPROVED" not in decisions.read_text(encoding="utf-8").upper():
