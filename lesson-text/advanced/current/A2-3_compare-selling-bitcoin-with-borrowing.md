@@ -24,21 +24,26 @@ The sale removes lender and interest risk but gives up future exposure on the un
 
 The loan keeps price exposure and adds interest, debt, collateral, liquidation, counterparty, and estate risk.
 
+A conventional bona fide loan is generally not sale proceeds because it must be repaid. Do not assume every Bitcoin product receives that treatment. Title/economic control, permitted reuse, an obligation to return identical units, liquidation, cancellation, and other agreement terms can change or leave unresolved the legal and tax analysis.
+
+Keep the loan's current-tax result provisional until the CPA or tax attorney reviews the signed agreement and transaction flow.
+
 ## Comparison order
 
 1. Same cash need
-2. Current tax
-3. Interest and fees
-4. Bitcoin retained
-5. Collateral at lender
-6. Drawdown behavior
-7. Later / death balance
-8. Ending net worth after debt
+2. Agreement's legal and tax classification
+3. Current tax
+4. Interest and fees
+5. Bitcoin retained
+6. Collateral at lender
+7. Drawdown behavior
+8. Later / death balance
+9. Ending net worth after debt
 
 ## Avoid the false shortcut
 
-Equal current tax and interest costs do not make the strategies equal. One sells exposure; the other keeps exposure and creates a managed liability.
+Equal current tax and interest costs do not make the strategies equal. One sells exposure; the other keeps exposure and creates a managed liability whose tax classification still requires confirmation.
 
 ## Done when
 
-The household can explain the full cost, risk, and future assumption carrying each option.
+The household can explain the full cost, risk, future assumption, and professional confirmation carrying each option.
