@@ -1,0 +1,41 @@
+name: Apply course plan lifecycle revision
+
+on:
+  push:
+    branches:
+      - course-plan-lifecycle-revision
+    paths:
+      - course-revision/RUN
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out revision branch
+        uses: actions/checkout@v4
+        with:
+          ref: course-plan-lifecycle-revision
+          fetch-depth: 0
+
+      - name: Apply and regenerate course
+        run: python3 course-revision/apply.py
+
+      - name: Remove one-time migration files
+        run: |
+          rm -rf course-revision
+          rm -f .github/workflows/apply-course-lifecycle.yml
+
+      - name: Commit revision
+        run: |
+          git config user.name "OpenAI Course Revision"
+          git config user.email "noreply@openai.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Align course with short onboarding and Build Your Plan"
+          git push origin HEAD:course-plan-lifecycle-revision
