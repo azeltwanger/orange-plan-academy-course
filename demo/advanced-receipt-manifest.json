@@ -1,0 +1,78 @@
+{
+  "manifestVersion": 1,
+  "status": "all_receipts_hold",
+  "receipts": [
+    {
+      "demoId": "AD1",
+      "lessonIds": ["A1.1", "A1.2"],
+      "title": "Inspect assumptions and holding overrides",
+      "evidenceType": "app_screen",
+      "status": "hold",
+      "required": ["app_commit", "routes", "saved_assumptions", "scenario_state", "override_labels", "save_behavior", "visible_outputs"]
+    },
+    {
+      "demoId": "AD2",
+      "lessonIds": ["A2.1", "A2.2", "A2.3"],
+      "title": "Model a Bitcoin-backed loan and drawdown",
+      "evidenceType": "app_screen",
+      "status": "hold",
+      "required": ["app_commit", "synthetic_terms", "ltv_math", "sell_borrow_same_cash_need", "preview_state", "source_reconciliation"]
+    },
+    {
+      "demoId": "AD3",
+      "lessonIds": ["A2.4"],
+      "title": "Read a lender agreement and write the exit",
+      "evidenceType": "redacted_agreement",
+      "status": "hold",
+      "required": ["properly_redacted_or_synthetic_agreement", "lending_review", "claim_map", "no_provider_endorsement", "written_exit"]
+    },
+    {
+      "demoId": "AD4",
+      "lessonIds": ["A3.1"],
+      "title": "Reconstruct lots and prepare a sale packet",
+      "evidenceType": "record_worksheet",
+      "status": "hold",
+      "required": ["synthetic_records", "quantity_reconciliation", "unresolved_basis_state", "current_identification_process", "cpa_review"]
+    },
+    {
+      "demoId": "AD5",
+      "lessonIds": ["A3.2", "A3.3", "A3.4"],
+      "title": "Compare conversion, harvesting, and relocation Scenarios",
+      "evidenceType": "mixed",
+      "status": "hold",
+      "required": ["app_commit", "same_baseline", "no_smaller_full_comparisons", "state_full_life_inputs", "cpa_and_state_review"]
+    },
+    {
+      "demoId": "AD6",
+      "lessonIds": ["A4.1", "A4.2", "A4.3"],
+      "title": "Build the pre-59½ and healthcare Bridge",
+      "evidenceType": "quote_worksheet",
+      "status": "hold",
+      "required": ["plan_documents", "basis_and_hsa_records", "current_synthetic_or_real_quote", "same_cash_comparison", "cpa_and_healthcare_review", "medicare_handoff"]
+    },
+    {
+      "demoId": "AD7",
+      "lessonIds": ["A5.1"],
+      "title": "Passphrase practice wallet",
+      "evidenceType": "practice_wallet",
+      "status": "hold",
+      "required": ["current_device_procedure", "custody_review", "practice_only", "clean_recovery", "no_secret_capture"]
+    },
+    {
+      "demoId": "AD8",
+      "lessonIds": ["A5.2", "A5.3"],
+      "title": "Compare and recover a 2-of-3 wallet",
+      "evidenceType": "practice_wallet",
+      "status": "hold",
+      "required": ["correct_2_of_3", "provider_independent_recovery", "alternate_authorized_combination", "staged_migration", "family_practice", "custody_and_estate_review", "no_secret_capture"]
+    },
+    {
+      "demoId": "AD9",
+      "lessonIds": ["A6.1", "A6.2"],
+      "title": "Trust ownership and authority matrix",
+      "evidenceType": "no_secrets_legal_matrix",
+      "status": "hold",
+      "required": ["synthetic_matrix", "legal_owner", "provider_record", "tax_record", "technical_access", "attorney_cpa_custody_review", "no_secret_capture"]
+    }
+  ]
+}
