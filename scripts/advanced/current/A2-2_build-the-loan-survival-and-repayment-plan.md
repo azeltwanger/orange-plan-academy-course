@@ -26,7 +26,7 @@ During a drawdown, the household is making the decision with less time, lower ne
 
 == TOP-UP CAPACITY IS FINITE ==
 
-Return to the illustrative $30,000 loan backed by 1.50 BTC.
+In our demo comparison, the $30,000 loan is backed by 1.50 BTC.
 
 The position reaches the 65% action line around $30,769 per BTC.
 
@@ -58,7 +58,7 @@ The household needs roughly **$6,923 of cash** immediately.
 
 That cash cannot also be the emergency reserve, quarterly tax money, or next month's spending unless the household deliberately accepts weakening those jobs.
 
-A loan survival reserve is a separate named resource.
+I would keep a loan-survival reserve separate and name it separately in the plan.
 
 == USE A LADDER, NOT ONE VAGUE PROMISE ==
 
@@ -131,7 +131,7 @@ Write the action at each line, the separate resources available for top-up or pa
 
 == PUT IT IN ORANGE PLAN ==
 
-Enter the actual top-up and liquidation behavior, model the available reserve rather than unlimited collateral, and review the loan balance, collateral at the lender, and loan at death across a major drawdown.
+Enter the actual top-up and liquidation behavior. Model the available reserve rather than unlimited collateral, and review the loan balance, lender-held collateral, and loan at death across a major drawdown.
 
 == YOU ARE DONE WHEN ==
 
