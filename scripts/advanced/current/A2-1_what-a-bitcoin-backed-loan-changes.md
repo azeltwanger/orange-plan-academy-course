@@ -50,7 +50,7 @@ The Bitcoin price at a given LTV threshold is:
 
 > **Loan balance ÷ collateral BTC ÷ threshold LTV**
 
-Use an illustrative agreement with:
+In our demo loan, use:
 
 - $30,000 loan,
 - 1.50 BTC collateral,
