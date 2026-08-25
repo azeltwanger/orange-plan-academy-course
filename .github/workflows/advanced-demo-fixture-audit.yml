@@ -1,0 +1,49 @@
+name: Advanced demo fixture audit
+
+on:
+  push:
+    branches:
+      - main
+      - 'course-repair/**'
+    paths:
+      - 'demo/advanced-demo-fixtures.json'
+      - 'demo/ADVANCED-DEMO-FIXTURE.md'
+      - 'scripts/advanced/current/**'
+      - 'curriculum/advanced-learner-questions.json'
+      - 'tools/advanced_demo_fixture_audit.py'
+      - '.github/workflows/advanced-demo-fixture-audit.yml'
+  pull_request:
+    paths:
+      - 'demo/advanced-demo-fixtures.json'
+      - 'demo/ADVANCED-DEMO-FIXTURE.md'
+      - 'scripts/advanced/current/**'
+      - 'curriculum/advanced-learner-questions.json'
+      - 'tools/advanced_demo_fixture_audit.py'
+      - '.github/workflows/advanced-demo-fixture-audit.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Audit Advanced examples
+        run: |
+          mkdir -p artifacts/advanced-demo-fixture-audit
+          python tools/advanced_demo_fixture_audit.py | tee artifacts/advanced-demo-fixture-audit/ADVANCED-DEMO-FIXTURE-AUDIT.md
+      - name: Add report to summary
+        if: always()
+        run: cat artifacts/advanced-demo-fixture-audit/ADVANCED-DEMO-FIXTURE-AUDIT.md >> "$GITHUB_STEP_SUMMARY" || true
+      - name: Upload report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: advanced-demo-fixture-audit
+          path: artifacts/advanced-demo-fixture-audit
+          if-no-files-found: warn
