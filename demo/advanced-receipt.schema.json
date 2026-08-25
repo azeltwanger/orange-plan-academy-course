@@ -1,0 +1,116 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://orangeplan.example/academy/advanced-receipt.schema.json",
+  "title": "Orange Plan Academy Advanced Evidence Receipt",
+  "type": "object",
+  "required": [
+    "receiptVersion",
+    "demoId",
+    "lessonIds",
+    "status",
+    "synthetic",
+    "evidenceType",
+    "sourceVersion",
+    "capturedAt",
+    "decision",
+    "state",
+    "inputs",
+    "outputs",
+    "externalProof",
+    "limitations"
+  ],
+  "properties": {
+    "receiptVersion": {"const": 1},
+    "demoId": {"type": "string", "pattern": "^AD[1-9]$"},
+    "lessonIds": {
+      "type": "array",
+      "minItems": 1,
+      "items": {"type": "string", "pattern": "^A[1-6]\\.[1-4]$"},
+      "uniqueItems": true
+    },
+    "status": {"enum": ["hold", "candidate", "accepted", "retired"]},
+    "synthetic": {"const": true},
+    "evidenceType": {
+      "enum": [
+        "app_screen",
+        "redacted_agreement",
+        "record_worksheet",
+        "quote_worksheet",
+        "practice_wallet",
+        "no_secrets_legal_matrix",
+        "mixed"
+      ]
+    },
+    "sourceVersion": {
+      "type": "object",
+      "required": ["courseCommit", "sourceName", "sourceVersionOrDate"],
+      "properties": {
+        "courseCommit": {"type": "string", "minLength": 7},
+        "appCommit": {"type": ["string", "null"]},
+        "sourceName": {"type": "string", "minLength": 1},
+        "sourceVersionOrDate": {"type": "string", "minLength": 1}
+      },
+      "additionalProperties": false
+    },
+    "capturedAt": {"type": ["string", "null"], "format": "date-time"},
+    "decision": {"type": "string", "minLength": 1},
+    "state": {
+      "type": "object",
+      "required": ["savedPreviewScenarioOrRecorded", "completionRule", "humanFinishLine"],
+      "properties": {
+        "route": {"type": ["string", "null"]},
+        "savedPreviewScenarioOrRecorded": {
+          "enum": ["saved", "preview", "scenario", "recorded_status", "external_only", "mixed"]
+        },
+        "completionRule": {"type": "string", "minLength": 1},
+        "humanFinishLine": {"type": "string", "minLength": 1}
+      },
+      "additionalProperties": false
+    },
+    "inputs": {"type": "object"},
+    "outputs": {"type": "object"},
+    "numberKeys": {
+      "type": "array",
+      "items": {"type": "string"},
+      "uniqueItems": true
+    },
+    "externalProof": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["kind", "status", "description"],
+        "properties": {
+          "kind": {"enum": ["app", "agreement", "quote", "plan_document", "tax_record", "device", "provider", "professional", "real_world", "pilot"]},
+          "status": {"enum": ["not_required", "hold", "candidate", "accepted"]},
+          "description": {"type": "string", "minLength": 1},
+          "reference": {"type": ["string", "null"]}
+        },
+        "additionalProperties": false
+      }
+    },
+    "screenshotsOrArtifacts": {
+      "type": "array",
+      "items": {"type": "string"}
+    },
+    "limitations": {
+      "type": "array",
+      "minItems": 1,
+      "items": {"type": "string", "minLength": 1}
+    },
+    "acceptedBy": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["role", "status"],
+        "properties": {
+          "role": {"enum": ["austin", "app_verifier", "cpa", "lending_reviewer", "healthcare_reviewer", "custody_reviewer", "estate_attorney", "pilot"]},
+          "status": {"enum": ["not_required", "hold", "accepted"]},
+          "name": {"type": ["string", "null"]},
+          "date": {"type": ["string", "null"]}
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}
