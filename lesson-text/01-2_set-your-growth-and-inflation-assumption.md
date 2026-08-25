@@ -25,6 +25,14 @@ One return assumption can move the retirement date by years. Use a declining Bit
 
 The preset selected during onboarding is only a starting choice. The Foundation walkthrough reviews and saves the final selection.
 
+## Your decision
+
+Which growth model and inflation rate your baseline will use, and why.
+
+## Put it in Orange Plan
+
+Hold the decision for the Foundation walkthrough. You will review the onboarding preset, inflation, life expectancy, and the other asset assumptions there.
+
 ## You are done when
 
 You have chosen a growth model and inflation rate you could explain to your family.

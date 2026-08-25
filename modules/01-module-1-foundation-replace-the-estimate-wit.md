@@ -3,7 +3,7 @@
 *Replace the rough onboarding estimate with real personal details, accounts, current holdings, and assumptions. Learn what the final confidence check will measure, but run it only after the whole plan is built.*
 
 ## 1.1 What to gather before you build the plan
-*`TEACH` · ~1,150 words · ~7 min*
+*`TEACH` · ~750 words · ~5 min*
 
 **By the end of this lesson, you can:**
 

@@ -76,7 +76,7 @@ for title, _, lessons in units:
 # generated, so they rotted invisibly: the AI bullet still said 1.2 after the AI
 # lesson became 0.2, and the disclaimer bullet still said 6.1/9.1 after the tax
 # and estate modules were renumbered to 5.1/8.1. Derive both from the master.
-ai = re.search(r'^## (\d+\.\d+) (How the AI works.+)$', master, re.M)
+ai = re.search(r'^## (\d+\.\d+) (How (?:the AI works|to use Orange Plan AI).*)$', master, re.M)
 ai_num = ai.group(1) if ai else '??'
 # Each US-specific module header states where its disclaimer is spoken, once.
 disc = re.findall(r'Said ONCE, at the top of (\d+\.\d+)', master)

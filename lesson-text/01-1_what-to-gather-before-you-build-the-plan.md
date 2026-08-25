@@ -23,6 +23,14 @@ Save the CSV or Excel exports in one folder. Old records become harder to recove
 - Retirement Income: retirement spending, Social Security, withdrawal order.
 - Run Your Plan: the first 1,000-run confidence check.
 
+## Your decision
+
+What you are gathering now, and what will wait for the module that owns it.
+
+## Put it in Orange Plan
+
+Nothing yet. Use the Foundation walkthrough for personal details, accounts, and current holdings. Keep the other records in your folder until their module.
+
 ## You are done when
 
 Your real account list and current balances are ready for Foundation, and the remaining records are organized for their later modules.

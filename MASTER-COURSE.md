@@ -51,7 +51,7 @@ because it is the VOICE-GUIDE calibration master and his words are the record.
 
 ## 0.1 How to use this course
 
-*`TEACH` · 957 words · ~7 min*
+*`TEACH` · ~1,670 words · ~11 min*
 
 **By the end of this lesson, you can:**
 
@@ -139,6 +139,14 @@ Have these in front of you.
 
 Rough is fine for onboarding. Module 1 replaces the account estimate with real Foundation data, and the later modules enter the income, spending, debt, tax, and retirement details where they belong.
 
+##### Who this course is built for
+
+This course is built on US rules. The Tax module uses US federal and state tax law. The Estate module uses US legal roles, documents, probate, and trust rules. Parts of Retirement Income also use US programs and account rules, including Social Security, Medicare, and the treatment of retirement accounts.
+
+The rest of the planning framework travels: cash reserves, allocation, debt ratios, custody, retirement math, scenarios, and the review process.
+
+Orange Plan models values in US dollars, and its tax engine is US federal plus state. If you live outside the US, you can still build the plan and use the same decision framework, but take the tax and estate sections to a qualified professional in your country to map the local rules.
+
 See you there.
 
 Austin
@@ -147,7 +155,7 @@ Austin
 
 ## 0.2 How to use Orange Plan AI
 
-*`TEACH` · ~1,250 words · ~8 min*
+*`TEACH` · ~1,070 words · ~7 min*
 
 **By the end of this lesson, you can:**
 
@@ -264,7 +272,7 @@ You have run one useful review against your own plan, you know where the daily r
 *Replace the rough onboarding estimate with real personal details, accounts, current holdings, and assumptions. Learn what the final confidence check will measure, but run it only after the whole plan is built.*
 
 ## 1.1 What to gather before you build the plan
-*`TEACH` · ~1,150 words · ~7 min*
+*`TEACH` · ~750 words · ~5 min*
 
 **By the end of this lesson, you can:**
 

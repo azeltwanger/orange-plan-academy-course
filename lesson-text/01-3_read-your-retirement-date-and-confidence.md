@@ -21,6 +21,14 @@ For any output, ask:
 
 The Foundation walkthrough enters personal details, real accounts, current holdings, and assumptions. It does not enter every other part of the plan or run the final confidence check.
 
+## Your decision
+
+Which rough onboarding input is most likely to change when the full plan is built.
+
+## Put it in Orange Plan
+
+Open **Build Your Plan → Foundation**. Do not run the full confidence check yet.
+
 ## You are done when
 
 You can explain the difference between the onboarding estimate and the finished plan.

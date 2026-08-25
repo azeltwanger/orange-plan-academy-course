@@ -184,3 +184,73 @@ No blocked stale phrases remain in the live core layers.
 ## Follow-up
 
 The revision was generated, but these repository gates need a final editorial pass: check layer parity.
+
+## Final parity and generator pass
+
+### PASS · split modules
+
+```text
+wrote modules/00-module-0-start-here.md
+wrote modules/01-module-1-foundation-replace-the-estimate-wit.md
+wrote modules/02-module-2-cash-flow-reserve.md
+wrote modules/03-module-3-debt-strategy.md
+wrote modules/04-module-4-allocation-next-dollar.md
+wrote modules/05-module-5-tax-strategy.md
+wrote modules/06-module-6-retirement-income.md
+wrote modules/07-module-7-custody.md
+wrote modules/08-module-8-estate-inheritance.md
+wrote modules/09-module-9-run-maintain-test-and-read-the-plan.md
+```
+
+### PASS · build dictation order
+
+```text
+DICTATION-ORDER.md regenerated — 28 teach lessons, 242 min
+```
+
+### PASS · check layer parity
+
+```text
+NOTES (reported, do not fail)  —  0
+
+FAILURES  —  0
+
+53 lessons · 17 registry rules · 171 files scanned · 0 failures, 0 notes
+```
+
+### PASS · slop scan
+
+```text
+40 candidates · 36 adjudicated in SLOP-ACCEPTED.md · 0 UNADJUDICATED
+```
+
+### PASS · check crossrefs
+
+```text
+DEAD LESSON REFERENCE  —  0
+
+MODULE NUMBER OUT OF RANGE  —  0
+
+WALKTHROUGH NAMING ANOTHER MODULE'S LESSON  —  0
+
+0 problems. Valid lessons: 53. Modules: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+```
+
+### PASS · check metrics
+
+```text
+{
+  "core_n": 28,
+  "core_min": 242,
+  "core_h": 4.0,
+  "core_w": 37485,
+  "core_caps": 11,
+  "core_walkthroughs": 10,
+  "core_demos": 1,
+  "core_capture_sessions": 10,
+  "adv_n": 14,
+  "adv_min": 106,
+  "adv_w": 16398
+}
+STALE: none
+```

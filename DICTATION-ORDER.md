@@ -44,7 +44,7 @@ changed once, in both places, before you record.
 
 *Generated. Regenerating this file rewrites this section from the current course, so it cannot go stale again.*
 
-- **The AI** is taught in full in **??** and nowhere else. Later walkthroughs only name the button and say when it is worth running.
+- **The AI** is taught in full in **0.2** and nowhere else. Later walkthroughs only name the button and say when it is worth running.
 - **The US-specific disclaimer** is said at the top of **5.1** and the top of **8.1**. Twice, total, plus the breakdown in 0.1 of which modules are US-shaped. It used to run 12 times.
 - **The walkthrough hand-off** ("watch the walkthrough below this video") belongs ONLY on the last REQUIRED teach lesson of a module that has a capture: **1.3** · **2.3** · **3.1** · **4.4** · **5.2** · **6.3** · **7.3** · **8.4** · **9.2**.
 - **Optional lessons never carry the hand-off**, because a student who correctly skips one would never hear it: **2.4** Optional: college is a funding stack.
