@@ -15,13 +15,13 @@ An account can be accessible and still taxable.
 
 A distribution can be penalty-free and still create ordinary income.
 
-A Roth withdrawal can contain contribution basis, conversion dollars, and earnings with different ordering and five-year rules.
+A Roth withdrawal can contain contribution basis, conversion dollars, and earnings. Each can have different ordering and five-year rules.
 
-And an HSA can be available for qualified medical expenses without being a general spending account.
+An HSA can be available for qualified medical expenses without being a general spending account.
 
 Do not label an entire account “locked” or “tax-free” from one headline rule.
 
-Map the actual source, amount, tax treatment, additional-tax treatment, plan restriction, and records required.
+Map the source, amount, tax treatment, additional-tax treatment, plan restriction, and records required.
 
 == START WITH THE YEAR-BY-YEAR GAP ==
 
@@ -29,7 +29,7 @@ The demo household retires when Alex is 55.
 
 The first retirement calendar year needs **$101,948 from accounts** after partial-year wages and part-time income.
 
-Under the saved Core strategy, taxable assets fund that draw. That is clean operationally because the money is accessible, but it creates a large Bitcoin sale under the current holdings.
+Under the saved Core strategy, taxable assets fund that draw. The money is accessible, but the current holdings produce a large Bitcoin sale.
 
 The Bridge question is not only whether the household has enough total net worth.
 
@@ -48,15 +48,17 @@ The numbers come from Orange Plan. The access columns come from the real account
 
 == THE AGE-55 EMPLOYER-PLAN EXCEPTION ==
 
-Under current federal rules, a distribution from a qualified employer plan can avoid the 10% additional early-distribution tax after separation from service when the separation occurs in or after the year the employee reaches 55. The exception generally does not follow the money into an IRA.
+Under current federal rules, some qualified-plan distributions can avoid the 10% additional early-distribution tax after separation from service. The separation generally has to occur in or after the year the employee reaches 55.
 
-That is why rolling the entire current-employer plan to an IRA immediately after retirement can remove an option the household expected to use.
+The exception generally does not follow the money into an IRA.
+
+That is why an immediate rollover of the entire current-employer plan can remove an option the household expected to use.
 
 But the exception is not a command to spend from the plan.
 
-The distribution is generally still taxable to the extent it contains pre-tax money, and the employer plan controls whether partial or periodic withdrawals are available.
+Pre-tax money is generally still taxable when distributed. The employer plan also controls whether partial or periodic withdrawals are available.
 
-For the demo, Alex retires during the year Alex reaches 55. The current employer plan may therefore be a Bridge option if the plan document and administrator support the needed distributions.
+For the demo, Alex retires during the year Alex reaches 55. The current employer plan may be a Bridge option when the plan document and administrator support the needed distributions.
 
 Jordan's older or former-employer accounts do not automatically inherit Alex's exception.
 
@@ -70,7 +72,7 @@ That can make documented contribution basis an accessible Bridge source.
 
 The difficult part is the record.
 
-A current Roth balance does not tell you how much regular contribution basis remains after prior distributions. Conversions have their own ordering and additional-tax periods, and earnings have qualified-distribution rules.
+A current Roth balance does not show how much regular contribution basis remains after prior distributions. Conversions have their own ordering and additional-tax periods. Earnings have qualified-distribution rules.
 
 The household needs Forms 5498, prior returns and Forms 8606 when relevant, account history, and a CPA-reviewed basis schedule.
 
@@ -106,7 +108,7 @@ I would read the sources in this order:
 4. **Designed exception strategy:** 72(t) or another current-law exception after professional review
 5. **Plan change:** reduce spending, work longer, or change the retirement date when the Bridge is too thin
 
-The order is not universal. The point is to use the simplest source that preserves the rest of the plan and to know the tax cost before the withdrawal.
+The order is not universal. Use the simplest source that preserves the rest of the plan, and know the tax cost before the withdrawal.
 
 == WHERE THE NUMBERS COME FROM ==
 
@@ -126,10 +128,10 @@ Build the year-by-year source map, identify the first year with an access shortf
 
 == PUT IT IN ORANGE PLAN ==
 
-Keep the Core withdrawal strategy as the Baseline, then compare the verified access source in a separate phase or Scenario. Do not model an exception the household has not documented.
+Keep the Core withdrawal strategy as the Baseline. Compare the verified access source in a separate phase or Scenario, and do not model an exception the household has not documented.
 
 == YOU ARE DONE WHEN ==
 
-Every early-retirement year has a primary and backup funding source, the amount available from each special account is documented, and no rollover or withdrawal is executed before its effect on access is understood.
+Every early-retirement year has a primary and backup source. The amount available from each special account is documented, and no rollover or withdrawal occurs before its access effect is understood.
 
 **Return to Core:** update the Bridge and Retirement Income strategy only after the access map is verified.
