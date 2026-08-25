@@ -21,8 +21,8 @@
 ## Current totals
 
 - Core: **26,932 words · 173.8 production minutes**
-- Advanced: **14,805 words · 139 production minutes**
-- Combined current teaching set: **46 scripts and 46 matching lesson texts**
+- Advanced: **15,082 words · 139 production minutes**
+- Combined current teaching set: **46 scripts and 46 matching lesson texts · 42,014 spoken words**
 - Combined production estimate: **312.8 minutes / about 5.2 hours** before screen-share demonstrations
 
 Because Advanced is conditional, no learner watches the full 5.2 hours by default.
