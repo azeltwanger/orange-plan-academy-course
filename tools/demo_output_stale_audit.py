@@ -38,7 +38,7 @@ RETIRED_PATTERNS = {
         re.I | re.S,
     ),
     "old fixed-price one-Bitcoin sale": re.compile(
-        r"(?:Bitcoin sold|sell(?:s|ing)?).{0,30}(?:1\.0|1)\s*BTC",
+        r"(?:Bitcoin sold|sell(?:s|ing)?).{0,30}(?<![\d.])1(?:\.0+)?\s*BTC",
         re.I | re.S,
     ),
     "old 98k first-year draw": re.compile(
@@ -56,9 +56,8 @@ REQUIRED_CURRENT_ANCHORS = {
     "CURRENT-COURSE.md": ("94.6%", "$270,000", "$101,948", "0.079251 BTC"),
     "DEMO-HOUSEHOLD.md": ("64.8%", "$3,761", "$100,000/year at 94.6%"),
     "BUILD-YOUR-PLAN-CROSSWALK.md": ("seven missions", "app_completion_rule", "human_completion_rule"),
-    "DICTATION-ORDER.md": ("25,", "94.6%", "$270,000", "$101,948", "0.079251 BTC"),
+    "DICTATION-ORDER.md": ("26,932", "94.6%", "$270,000", "$101,948", "0.079251 BTC"),
 }
-
 
 
 def current_core_files() -> list[Path]:
