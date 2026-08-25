@@ -96,7 +96,7 @@ When the auto loan ends or another route completes, those dollars return to the 
 
 == WHERE THESE NUMBERS COME FROM ==
 
-### Displayed contribution capacity
+### Available dollars / displayed contribution capacity
 
 **What it means:** recurring money left after estimated taxes, living spending, and the full saved debt strategy.
 
