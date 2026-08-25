@@ -40,9 +40,13 @@ The actual agreement controls.
 
 A larger price cushion does not remove lender risk.
 
-## Tax
+## Tax and legal classification
 
-Loan proceeds can differ from sale proceeds for tax purposes, but interest, liquidation, cancellation, refinance, ownership, and repayment require professional review.
+Cash from a conventional bona fide loan is generally not income because it must be repaid. Do not assume every product marketed as a Bitcoin loan automatically receives that treatment.
+
+The signed agreement and transaction flow may transfer title or economic control, permit reuse, exchange Bitcoin for an obligation to return identical units, or create another structure whose substantive treatment is unresolved or fact-specific.
+
+Interest, liquidation, cancellation, refinance, entity ownership, use of proceeds, and repayment can create additional consequences. Keep the app's loan tax treatment provisional until the CPA or tax attorney reviews the agreement.
 
 ## Number provenance
 
@@ -51,4 +55,4 @@ Loan proceeds can differ from sale proceeds for tax purposes, but interest, liqu
 
 ## Done when
 
-The household can calculate the current LTV and threshold prices and state the maximum starting LTV it accepts.
+The household can calculate the current LTV and threshold prices, state the maximum starting LTV it accepts, and identify who is confirming the agreement's legal and tax treatment.
