@@ -77,7 +77,7 @@ required = {
     ],
     "scripts/advanced/A7-1_advanced-custody-passphrase-multisig-collaborative.md": [
         "Every possible passphrase derives a valid wallet",
-        "A descriptor cannot sign",
+        "It cannot sign by itself",
         "provider-independent recovery test",
     ],
     "scripts/08-4_insurance-term-life-disability-umbrella-.md": [
