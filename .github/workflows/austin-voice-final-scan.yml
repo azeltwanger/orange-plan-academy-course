@@ -21,8 +21,9 @@ jobs:
 
       - name: Run Austin voice scanner
         run: |
-          git show origin/course-austin-voice-pass-2026-08-26:course-voice-pass/scan.py > /tmp/scan.py
-          python3 /tmp/scan.py
+          mkdir -p voice-final
+          git show origin/course-austin-voice-pass-2026-08-26:course-voice-pass/scan.py > voice-final/scan.py
+          python3 voice-final/scan.py
 
       - name: Commit corrected-course audit
         run: |
