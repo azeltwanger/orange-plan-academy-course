@@ -1,7 +1,7 @@
 TELEPROMPTER SCRIPT — segment 9.2
 9.2 Test decisions separately and read the finished plan like a planner
 639 words · ~4.1 min at 155 wpm · PRE-DICTATION FILMING DRAFT — rebuilt from Austin's decks, dictation, research, and current app
-SOURCE: Old Module 10 plan-review deck, Maintenance capstone, and current Scenarios and Report flows
+SOURCE: Archived plan-review deck, Maintenance capstone, and current Scenarios and Report flows
 ============================================================
 
 The completed baseline is the plan you are currently using. Scenarios are where you ask questions without corrupting that baseline.
