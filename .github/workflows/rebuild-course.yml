@@ -20,12 +20,18 @@ jobs:
           fetch-depth: 0
       - name: Apply rebuild
         run: python3 course-rebuild/apply.py
-      - name: Verify
-        run: python3 course-rebuild/verify.py
-      - name: Commit
+      - name: Verify rebuilt course
+        run: |
+          python3 course-rebuild/verify.py
+          git diff --check
+      - name: Remove temporary rebuild machinery
+        run: |
+          rm -rf course-rebuild
+          rm -f .github/workflows/rebuild-course.yml
+      - name: Commit rebuilt course
         run: |
           git config user.name "OpenAI Course Rebuild"
           git config user.email "noreply@openai.com"
           git add -A
-          git commit -m "Rebuild course for filming" || exit 0
+          git commit -m "Rebuild and finalize course for filming"
           git push origin HEAD:course-slide-deck-flow-reset
