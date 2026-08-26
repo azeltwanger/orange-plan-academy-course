@@ -99,3 +99,25 @@ microphone. Those still need Austin before filming.
 **The standing priority, in his words:** structure and clarity, driven by what
 users actually need, evidenced by the 24 client calls. Not more content, and not
 more analysis.
+
+---
+
+## Structural-source amendment — 2026-08-26
+
+Austin: *"we drifted so far from my slide decks and the slide decks are the flow we should generally use."*
+
+The slide decks now control the **module flow and teaching sequence** for the required core course. This supersedes any earlier instruction that reduced them to loose concept or visual source material.
+
+The complete source hierarchy and module-by-module interpretation live in `SLIDE-DECK-AUTHORITY.md`.
+
+In practical terms:
+
+1. Dictation controls the spoken recommendation and Austin's voice.
+2. Slide decks control the decision flow and why one teaching step follows another.
+3. Current production app behavior controls click paths, available fields, calculations, and walkthrough mechanics.
+4. Research verifies facts and limitations but does not invent course philosophy.
+5. Generated scripts are drafts with no authority of their own.
+
+Deck flow may be adapted when the app changed or when a self-paced lesson needs a clearer boundary. It may not be replaced by generic copywriting structures, repetitive `YOUR DECISION / PUT IT IN / DONE WHEN` filler, or page-by-page app navigation.
+
+A teach lesson explains the concept and decision. The walkthrough performs the clicks, inputs, saving, and verification. When a walkthrough follows, the teach lesson ends with a natural handoff rather than duplicating the implementation steps.
