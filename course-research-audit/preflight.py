@@ -25,6 +25,26 @@ patch("course-research-audit/tax_replacements.py", [
         "## Complete when\n\nEvery account has a tax job, the low-income window is marked, and the planned move is sized from its all-in marginal cost rather than one bracket label.",
         "## YOUR DECISION\n\nWhat job each account has and which years deserve a tax-window review.\n\n## PUT IT IN ORANGE PLAN\n\nUse Strategy → Tax to model one gain and one conversion without applying either automatically.\n\n## YOU ARE DONE WHEN\n\nEvery account has a tax job, the low-income window is marked, and the planned move is sized from its all-in marginal cost rather than one bracket label.",
     ),
+    (
+        "The important part is that basis is tracked by units or lots. One purchase on one date can have a completely different basis and holding period from another purchase.",
+        "Basis is tracked by units or lots, so one purchase can have a completely different cost and holding period from the next purchase.",
+    ),
+    (
+        "So the real question is not only which federal bracket the next dollar enters.\n\nIt is: what does the next dollar cost after every rule it touches?",
+        "So I would not stop at the federal bracket. I would look at what the next dollar actually costs after every rule it touches.",
+    ),
+    (
+        "Every account has a tax job, the low-income window is marked on the timeline, and you can explain why the all-in marginal cost—not one bracket label—decides the size of the move.",
+        "You know what job each account has, you can point to the low-income years on the timeline, and you can explain what the next dollar actually costs before you decide how large the move should be.",
+    ),
+    (
+        "So the estate implication is real—traditional money can pass a compressed tax problem to heirs—but the exact schedule belongs in the current beneficiary rules and the family's tax review.",
+        "So traditional money can leave heirs with a shorter distribution window and a larger tax problem. The exact schedule depends on the current beneficiary rules and the family's tax situation, so I would verify this part with the CPA.",
+    ),
+    (
+        "The cost is the Bitcoin sold, the tax, and the lost future participation on those units.",
+        "When you sell, you are giving up the Bitcoin, paying any tax on the gain, and giving up whatever future growth those units would have had.",
+    ),
 ])
 
 patch("course-research-audit/custody_replacements.py", [
@@ -42,6 +62,22 @@ patch("course-research-audit/custody_replacements.py", [
         "## YOUR DECISION\n\nThe largest remaining single point of failure and its dated fix.\n\n## PUT IT IN ORANGE PLAN\n\nRecord checklist completion and the next action in Protect; keep credentials and locations off-app.\n\n## YOU ARE DONE WHEN\n\nThe primary email and custodial accounts use the strongest practical authentication and the largest remaining failure has a dated fix.",
     ),
     ("Austin's 0.01–0.02 BTC transfer threshold", "Austin's 0.01 to 0.02 BTC transfer threshold"),
+    (
+        "Then write the reason in one sentence.",
+        "Then write down why that level fits your household.",
+    ),
+    (
+        "What recovers the wallet depends on the setup: the wallet backup, any passphrase, the address or script type, derivation information, and—for multisig—the wallet policy or descriptor.",
+        "What recovers the wallet depends on the setup. That can include the wallet backup, a passphrase, the address or script type, derivation information, and the wallet policy or descriptor if you use multisig.",
+    ),
+    (
+        "The intended wallet—not only a list of words—was recovered without risking the only working copy of a meaningful balance.",
+        "You recovered the intended wallet without risking the only working copy of a meaningful balance. Seeing a list of words by itself is not the finish line.",
+    ),
+    (
+        "Consider a second independent institution when:",
+        "I would look at a second independent institution when:",
+    ),
 ])
 
 patch("course-research-audit/estate_insurance_replacements.py", [
@@ -64,6 +100,14 @@ patch("course-research-audit/estate_insurance_replacements.py", [
     (
         "**Complete when:** the rough math is labeled, contract terms came from the policy, and exact gaps go to a licensed reviewer.",
         "## YOUR DECISION\n\nWhich gaps need a current contract or quote review and which risks the household retains.\n\n## PUT IT IN ORANGE PLAN\n\nRecord review status and unresolved gaps in Protect; carrier contracts remain the source of truth.\n\n## YOU ARE DONE WHEN\n\nThe rough math is labeled, contract terms came from the policy, and exact gaps go to a licensed reviewer.",
+    ),
+    (
+        "The first contact, the first prohibited action, the recipients, and the backup delivery method if automation fails.",
+        "Write down who gets contacted first, what they should not do, who receives the message, and how the letter gets delivered if the automatic process fails.",
+    ),
+    (
+        "The gap—not the salary—is the planning result.",
+        "The number we are trying to cover is the gap between what the family would need and what the assets and other income could already provide.",
     ),
 ])
 
