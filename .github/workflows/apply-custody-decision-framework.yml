@@ -20,7 +20,21 @@ jobs:
           fetch-depth: 0
 
       - name: Apply Austin custody decision framework
-        run: python3 custody-framework/apply.py
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('custody-framework/apply.py')
+          text = p.read_text(encoding='utf-8')
+          for line in (
+              '    ["python3", "tools/split-modules.py"],\n',
+              '    ["python3", "tools/split-modules.py", "--advanced"],\n',
+              '    ["python3", "tools/build-production-checklist.py"],\n',
+          ):
+              text = text.replace(line, '')
+          p.write_text(text, encoding='utf-8')
+          PY
+          python3 custody-framework/apply.py
+          python3 custody-framework/sync-modules.py
 
       - name: Verify custody positions
         run: |
