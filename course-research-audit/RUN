@@ -1,1 +1,1 @@
-Apply the completed primary-source audit, regenerate all layers, and run the final repository gates on the Austin voice branch.
+Apply the completed primary-source audit, regenerate all layers, and rerun after updating the parity mutation anchors.
