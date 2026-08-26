@@ -56,15 +56,21 @@ def insert_after(path, anchor, text):
     open(p, 'w', encoding='utf-8').write(t.replace(anchor, anchor + text, 1))
 
 
-THRESH = [('0.01 to 0.02 Bitcoin', 'a sensible amount of Bitcoin'),
-          ('0.01–0.02 BTC', 'a sensible BTC')]
+# The live course uses both the long-form word Bitcoin and BTC in compact
+# student text. Mutations have to remove every accepted spelling or the claim
+# survives in the layer and the test proves nothing.
+THRESH = [
+    ('0.01 to 0.02 Bitcoin', 'a sensible amount of Bitcoin'),
+    ('0.01 to 0.02 BTC', 'a sensible BTC amount'),
+    ('0.01–0.02 BTC', 'a sensible BTC amount'),
+]
 
 # (name, [files it touches], mutate fn, what a pass would mean)
 MUTATIONS = [
     ('retired phrasing returns in the master',
      ['MASTER-ADVANCED.md'],
      lambda: sub_all('MASTER-ADVANCED.md', [
-         ('My rule of thumb is about 0.01 to 0.02 Bitcoin as a minimum per transfer.',
+         ("Austin's rule of thumb is to accumulate small exchange purchases and transfer around 0.01 to 0.02 Bitcoin at a time rather than moving every small buy immediately.",
           "Now, I'm deliberately not going to give you a fixed number of Bitcoin here.")]),
      'a reverted position could come back'),
 
@@ -75,8 +81,7 @@ MUTATIONS = [
 
     ('paraphrase in LESSON-TEXT only',
      ['lesson-text/advanced/A7-4_wallet-operations.md'],
-     lambda: sub_all('lesson-text/advanced/A7-4_wallet-operations.md',
-                     [('0.01 to 0.02 Bitcoin', 'roughly one to two hundredths of a Bitcoin')]),
+     lambda: sub_all('lesson-text/advanced/A7-4_wallet-operations.md', THRESH),
      'one layer could be reworded away from the approved position'),
 
     ('stale GENERATED module only',
