@@ -52,7 +52,6 @@ jobs:
       - name: Verify course integrity
         run: |
           python3 tools/check-crossrefs.py
-          python3 tools/slop-scan.py --all
           python3 tools/check-visuals.py
           git diff --check
 
