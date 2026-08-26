@@ -48,6 +48,14 @@ jobs:
           PY
       - name: Apply rebuild
         run: python3 course-rebuild/apply.py
+      - name: Normalize generated Markdown endings
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          for name in ('CIRCLE-STRUCTURE.md', 'MODULE-CHECKPOINTS.md'):
+              path = Path(name)
+              path.write_text(path.read_text(encoding='utf-8').rstrip() + '\n', encoding='utf-8')
+          PY
       - name: Verify rebuilt course
         run: |
           python3 course-rebuild/verify.py
