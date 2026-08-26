@@ -3,7 +3,7 @@ name: Apply professional research audit
 on:
   push:
     branches:
-      - course-professional-research-audit
+      - course-austin-voice-research-final
     paths:
       - course-research-audit/RUN
 
@@ -16,14 +16,11 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: course-professional-research-audit
+          ref: course-austin-voice-research-final
           fetch-depth: 0
 
-      - name: Apply parity preflight
+      - name: Apply parity and Austin-voice preflight
         run: python3 course-research-audit/preflight.py
-
-      - name: Apply Austin voice cleanup
-        run: python3 course-research-audit/style_preflight.py
 
       - name: Apply researched corrections
         run: python3 course-research-audit/apply.py
@@ -45,5 +42,5 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
-          git commit -m "Apply tax custody insurance and estate research audit"
-          git push origin HEAD:course-professional-research-audit
+          git commit -m "Apply researched corrections before Austin voice pass"
+          git push origin HEAD:course-austin-voice-research-final
