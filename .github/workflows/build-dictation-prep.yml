@@ -1,6 +1,9 @@
 name: Build dictation-ready drafts
 
 on:
+  pull_request:
+    branches:
+      - main
   push:
     branches:
       - course-dictation-ready-drafts
@@ -12,6 +15,7 @@ permissions:
 
 jobs:
   build:
+    if: github.head_ref == 'course-dictation-ready-drafts' || github.ref_name == 'course-dictation-ready-drafts'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
