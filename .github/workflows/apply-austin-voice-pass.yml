@@ -25,7 +25,9 @@ jobs:
           python3 voice-final/verification_preflight.py
 
       - name: Apply Austin voice and F20 changes
-        run: python3 voice-final/apply.py
+        run: |
+          python3 voice-final/apply.py
+          python3 voice-final/master_voice_patch.py
 
       - name: Regenerate all dependent course layers
         run: |
