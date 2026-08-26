@@ -85,6 +85,11 @@ retired cost-lane table could have returned to the master and passed.
 | eight-trigger-gate | | `(?i)eight[- ]trigger\|all eight triggers` | | | A8.1's competing estate gate. There is one gate, in the core walkthrough |
 | rebuild-banner | | `FLAGGED FOR REBUILD` | | | The 2.3 do-not-film banner. The lesson was rebuilt; the banner outlived it by nine days |
 | module-ten | | `Module 10\b` | | | Modules run 0–9. A tenth module has not existed since the renumber |
+| basis-safe-harbor | | `(?i)IRS standard is reasonable and documented` | | | There is no general substantiation safe harbor with this wording |
+| seed-universal-portability | | `(?i)(seed\|backup).{0,50}works? in any hardware wallet` | | | Recovery depends on backup standard, passphrase, script/derivation data, and wallet policy |
+| wipe-first-proof | | `(?i)check these only if the wipe-and-restore` | | | Destructive wiping is not the default first recovery test |
+| loan-tax-free-flat | | `(?i)borrowing.{0,40}no taxable event` | | `(?i)not a universal|does not make|too broad` | Loan proceeds are generally not income; liquidation, sale, or cancellation can create tax consequences |
+| irrevocable-auto | | `(?i)irrevocable.{0,50}(automatically\|means).{0,50}(outside\|leave).{0,30}estate` | | `(?i)does not|not automatically` | Trust results depend on retained powers, completed transfers, terms, and state law |
 
 ⚠ **No unbounded `.*` or `.+` in a pattern. The checker refuses them.** Matching
 runs on normalised single-line text, so `3 to 10 years.*Bitcoin` can match a

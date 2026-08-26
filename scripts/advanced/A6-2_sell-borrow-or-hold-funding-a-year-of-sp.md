@@ -1,84 +1,120 @@
 TELEPROMPTER SCRIPT — segment A6.2
 A6.2 Sell, borrow, or hold: funding a year of spending
-~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~10 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+RESEARCH AUDIT: 2026-08-25 · see research/PRIMARY-SOURCE-REGISTER.md
 ============================================================
 
-In today's lesson, we're going to cover the three ways to fund your life from a Bitcoin-heavy plan: sell, borrow, or hold.
+In today's lesson, we're going to compare three ways a Bitcoin-heavy household can fund one year: sell, borrow, or hold and spend from another bucket.
 
-One note up front: this is an advanced lesson, and the borrow half of it only really fires if you're considering asset-backed lending against your Bitcoin. If that's not you, you can skim this one and come back if it ever becomes relevant.
+This lesson fires when retirement is close enough that the household is actually deciding how next year's spending gets funded.
 
-Each of the three tools costs something different, so I'm going to price each one on the same single year of the couple's retirement. They're 60. Spending is $80,000 a year. They've got $600,000 of taxable Bitcoin and a $120,000 reserve.
+== ONE YEAR, THREE DIFFERENT COSTS ==
 
-== TOOL 1: SELL ==
+Use the same annual spending need for all three paths.
 
-The first tool is selling, and what you're buying with it is simplicity.
+The comparison is not about which one sounds most Bitcoin-aligned. It is about what each path costs the plan in taxes, interest, liquidity, risk, and family complexity.
 
-They sell $80,000 of Bitcoin to cover the year. That sale splits into basis and gain: about $20,000 of basis, and about $60,000 of long-term gain. And from the tax module: in a low-income year, that $60,000 of gain can land entirely in the 0% capital-gains bracket and cost almost nothing.
+== PATH ONE: SELL ==
 
-The upside is that 1 year of spending is handled, with no counterparty and no loan to manage. The downside is that the Bitcoin is gone. I think selling is best when spending is modest and simplicity is worth something to you in itself. And it often is.
+Selling Bitcoin creates cash with no loan to manage.
 
-== TOOL 2: BORROW ==
+The tax is based on the gain in the specifically identified units, not the gross sale proceeds.
 
-The second tool is borrowing, and what you're buying is upside. You borrow $80,000 against the Bitcoin. There's no taxable event, and the Bitcoin keeps compounding.
+A low-income year may place some long-term gain in a lower federal capital-gain band. But ordinary income fills the stack first, state tax may apply, and the gain can affect Marketplace credits, NIIT, or other thresholds.
 
-The entire decision here is the LTV, the loan-to-value ratio, which is the loan balance divided by the collateral value. A 20% LTV means you've borrowed 20 cents against every dollar of Bitcoin.
+So "the gain is in the zero-percent band" is a modeled federal statement, not a promise that the transaction costs nothing.
 
-And that ratio moves on its own, for two reasons. Interest pushes the loan balance up, and a price drop pulls the collateral down. So the ratio can climb fast without you doing anything at all. That's why the starting ratio is the whole decision.
+The upside is simplicity and no liquidation or lender risk.
 
-Let me price the couple's actual borrowing capacity. My own default is 10 to 20% LTV, depending on how much risk you're willing to carry. On their $600,000 of collateral, that's $60,000 to $120,000 of capacity.
+When you sell, you are giving up the Bitcoin, paying any tax on the gain, and giving up whatever future growth those units would have had.
 
-Notice what that means. At the cautious end of my range, $60,000 doesn't even cover one year of their spending. At the aggressive end, one year at $80,000 is two thirds of everything they've got. So there is no version of this where borrowing funds two years running. Try it and they're at a ratio a normal bear market liquidates.
+== PATH TWO: BORROW ==
 
-Now watch what a year does to it. At a 10 to 11% rate, the $80,000 loan grows to about $88,000 a year later with nothing paid. Then drop Bitcoin 50%, which is normal, not extreme. The collateral is now $300,000, so $88,000 against $300,000 is 29% LTV. Take it to a 75% drop, which is the normal Bitcoin bear, and they're at 59%, which is margin-call territory. They can't borrow again next year, and they're one more leg down from liquidation.
+Borrowed cash is generally not income when there is a real obligation to repay.
 
-So two conclusions on borrowing. First: borrow from strength, not from a trap. A loan taken calmly at low LTV with a written plan is a completely different product from a loan taken in the middle of a drawdown because you're cornered. And second: borrowing works when the LTV is low, there's liquidity behind it, and you're comfortable holding it. What it does not work as is the foundation of a retirement paycheck, because 1 year of spending uses the whole capacity and the second year has nowhere to come from. Borrowing is a tool for a year, not a plan for a decade.
+That does not make the entire strategy tax-free.
 
-== TOOL 3: HOLD ==
+Interest accrues. The loan can be liquidated. A lender sale of collateral is a taxable disposition. Debt cancellation can create income. The lender and custody structure add risks that have nothing to do with the tax code.
 
-The third tool is holding, and what you're buying is compounding, and maybe something more.
+The tax comparison therefore cannot stop at "loan proceeds are not taxable."
 
-They don't touch the Bitcoin at all. They spend from the $120,000 reserve. The $600,000 keeps compounding.
+It has to include:
 
-And there's something else here, too. Under current law, and verify this, Bitcoin passes to heirs with a step-up in basis. If the couple's basis is $100,000, that's $600,000 minus $100,000, or $500,000 of embedded gain that passes to their kids untaxed. The gain just disappears at death.
+- interest and fees;
+- the LTV path under a major drawdown;
+- any collateral top-up reserve;
+- the tax from a forced or planned collateral sale;
+- counterparty and rehypothecation terms;
+- repayment source;
+- the estate's obligation if the loan remains at death.
 
-That turns "never sell" from a preference into an actual tax strategy. Holding the core forever can be a legitimate estate move, as long as it's funded by the Reserve and the Bridge instead of by sales.
+Borrowing can be useful when it is small relative to collateral, the repayment source is clear, and the household values keeping the position.
 
-== IN THE APP ==
+It is fragile when repeated borrowing becomes the paycheck and every new year consumes more collateral capacity.
 
-The app prices all three of these side by side. The Retirement Borrowing tab on the Income page compares the strategies against a plain sell-as-you-go baseline, and what you read off it is the after-tax net worth at the end, any loan balance the estate has to repay at death, and a step-up assumption you can flip on and off. It's a sandbox. Nothing touches your plan until you click apply.
+== PATH THREE: HOLD AND SPEND FROM RESERVE OR BRIDGE ==
 
-== THE DECISION FRAME: 4 QUESTIONS ==
+The third path is to leave the Bitcoin untouched and fund the year from cash or another Bridge asset.
 
-The decision frame is 4 questions.
+That preserves the Bitcoin position and avoids a new loan.
 
-One: taxes. What's the actual tax bill on each path this year? Two: liquidation risk. Does the loan survive a 50% Bitcoin drop? Three: cash flow. Is the annual borrowing capacity even enough to matter? And four: family comfort. Does your spouse actually understand the loan structure? Because if you're not around, they're the one managing it.
+The cost is using liquidity that may have another job. The reserve has to remain large enough to protect the plan through a drawdown, and the Bridge has to be replenished under the rule the household already set.
 
-And remember you can mix these. A sell year, a borrow year, and a hold-forever core can all live in the same plan.
+Under current federal law, taxable property inherited at death generally receives a basis tied to date-of-death fair market value.
 
-== THE COMBINED MOVE: SELL TO THE BRACKET, BORROW ABOVE IT ==
+That general rule has conditions and exceptions. Gifts, certain trusts, property outside the taxable estate, consistent-basis reporting, and future law can produce a different answer.
 
-There's one more move, and it combines the first two. When I explain this to clients, this is the exact spot where they ask me to back up, so I'm going to build it one piece at a time.
+So an outright taxable Bitcoin holding may receive a basis adjustment under current law. Do not turn that into "all embedded gain disappears" for every ownership structure.
 
-Here it is. In retirement, if you don't have much other income, you can sell a meaningful amount of Bitcoin and pay 0% on the gain, because long-term capital gains have a 0% bracket at the bottom. The app will show you your own number.
+== DO NOT COMPARE A TAX RATE WITH AN INTEREST RATE DIRECTLY ==
 
-So say that number is around $100,000 of gains for your situation. Selling up to that line costs you nothing in federal tax.
+A common shortcut compares a 15% capital-gain rate with a 10% loan rate and picks the smaller number.
 
-Now, what about the dollar right after that line? That one gets taxed at 15%.
+That is the wrong comparison.
 
-And the 15% is a one-time cost and the loan rate is annual, so compare that one-time tax against the total interest over however long you'd carry the loan. So instead of selling past the line and paying 15%, you sell up to the line and you borrow the rest.
+The tax applies to the gain portion once. Interest applies to the loan balance over time, may compound, and may or may not be deductible. A forced sale can add tax later. The Bitcoin sold in path one and the Bitcoin pledged in path two also experience different future paths.
 
-What you're saving is the difference between that 15% capital gains rate and the loan's interest rate. And you're doing it without giving up the Bitcoin.
+Use dollars over the same time horizon.
 
-So: sell up to the top of your 0% bracket, and borrow anything above it.
+== THE FIVE-YEAR VIEW ==
 
-But everything from the LTV lesson still applies here. This move puts a loan on your balance sheet, and that loan has all the same margin call risk we covered. So the cushion rules don't get relaxed just because the tax math is attractive.
+Run each path for one year, then extend it for five.
 
-The app models this directly. In the Retirement Borrowing tab there's a Bracket-aware mode, and that's exactly what it's doing: selling into your cheap bracket, borrowing above it.
+For selling, track the units sold, basis, tax, and remaining Bitcoin.
+
+For borrowing, track the loan balance, interest, collateral value, LTV, top-ups, repayment, and the outcome under a major drawdown.
+
+For holding, track Reserve and Bridge depletion, refill years, and whether a bad market would force a later sale.
+
+Most households will not choose one path forever. A strong plan can sell in one year, hold in another, and use a small loan for a specific purpose without turning borrowing into the foundation of the retirement paycheck.
+
+== THE FAMILY TEST ==
+
+Before a loan enters the plan, the spouse or person who would inherit the balance should be able to explain:
+
+- who holds the collateral;
+- the margin and liquidation lines;
+- where repayment comes from;
+- what happens after a 50% or 75% decline;
+- what happens if the lender fails;
+- what the estate has to do if the borrower dies.
+
+If the household cannot explain it, the complexity cost is not priced yet.
+
+== PUT IT IN ORANGE PLAN ==
+
+Plan → Income → Retirement Borrowing compares the borrowing strategy against the saved withdrawal plan.
+
+Read after-tax net worth, loan balance, Bitcoin remaining, taxes, and risk together.
+
+A preview is not the plan until it is deliberately applied.
 
 == HOMEWORK ==
 
-Your homework for this lesson is to:
+1. Price one year under sell, borrow, and hold.
+2. Extend the comparison to five years.
+3. Add state tax, ACA or Medicare effects, lender terms, and any basis-at-death assumption.
+4. Stress the loan under the lender's actual thresholds.
+5. Take the tax outputs to the tax professional and the loan terms to someone who represents the household, not the lender.
 
-1. Run all 3 tools on 1 year of your own spending. You're not doing this to pick a winner. You're doing it so you know the real numbers behind each one.
-2. Then price them across a five-year window. What does 5 years of borrow-only cost in interest and LTV drift? What does 5 years of sell-only cost in taxes?
-3. Bring those outputs to the household conversation and to your CPA.
+You are done when the decision is supported by dollars over the same horizon and the household can explain the risk without using the phrase "Bitcoin will probably go up."

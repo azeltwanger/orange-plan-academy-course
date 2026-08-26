@@ -266,26 +266,26 @@
 
 ---
 
-## □ G1 · Run the gate, then stop or continue
+## □ G1 · Run the conversation gate, then record the answer
 
-**⚠ Say the correction out loud, because people expect a net-worth number here.** Net worth is *an* input, not the gate. A family with $400,000, two young kids, a business and a blended household can need more planning than a single person with $3 million and a simple life. Run the triggers, not the balance.
+**⚠** Net worth is one input, not a diagnosis. Minor or vulnerable beneficiaries, blended family, business ownership, multi-state property, incapacity, probate/privacy concerns, advanced custody, possible estate tax, and a fiduciary expected to retain concentrated Bitcoin can each create a real attorney question.
 
-**DO** Read the trigger list and count how many are true
+**DO** Read the trigger list and name the actual problem it raises.
 
-**⚠ The triggers:** a blended family · minor children · multiple heirs · business ownership · heavy Bitcoin concentration · probate or privacy concerns · incapacity planning · assets or property in more than one state · an advanced custody setup somebody has to operate after you.
+**⚠** Do not count triggers and mechanically assign a trust type. One trigger can justify a consultation; five triggers can still end with a will and beneficiary cleanup rather than a trust.
 
-**⚠ Then place yourself on the four levels, and say the question the level actually answers: which level deserves a professional conversation?**
+**DO** Record one of these outcomes with a date:
 
-1. **Basic cleanup** — beneficiary forms, an executor asked out loud, a letter. No attorney strictly required.
-2. **Local estate plan** — will, POA, healthcare directive, drafted by an attorney licensed in your state.
-3. **Trust or coordinated plan** — a trust, coordinated with the custody design and the CPA.
-4. **Advanced estate, tax, and custody planning** — specialists, plural, working together.
+1. **Core cleanup is the next step** — provider beneficiary records, executor acceptance, attorney-supervised will/POA/directive, heir letter, and access map.
+2. **Revocable-trust conversation** — incapacity or probate administration may improve if assets are properly titled to it.
+3. **Advanced trust/tax/custody conversation** — ownership, estate tax, basis, business or beneficiary complexity, or concentrated-asset fiduciary duties require coordinated counsel.
+4. **No trust currently indicated** — a finished answer with a future review trigger.
 
-**⚠ Say plainly that most households land at 1 or 2 and are finished.** A will, current beneficiary forms, a briefed executor, a letter, and an armed switch is a complete estate plan for the large majority.
+**⚠** A signed trust is not funded automatically. A revocable trust generally remains in the estate. An irrevocable trust does not automatically remove assets, preserve basis, or create creditor protection. A8.1 explains those limits.
 
-**⚠ And say that "no" is a finished answer.** *"A basic estate plan is sufficient right now. A trust is not currently indicated."* That's a completed decision, not an open item. Write it down with the date, because next year you're checking whether a trigger changed, not starting over.
+**⚠** If concentrated Bitcoin is involved, the question is not one universal prudent-investor waiver. Ask which tools this state's law allows—express retention authority, diversification modification, directed trust, special trustee/protector, trustee selection, or another structure—and how that legal authority matches the multisig policy.
 
-**⚠** If the gate does light up, point at **Advanced Estate Planning → A8.1**, and say the one thing that lesson exists for: the **prudent-investor duty can force a trustee to sell the exact asset the trust was built to hold**, and the waiver that prevents it has to be drafted in deliberately.
+**DO** Point to **Advanced Estate Planning → A8.1** only when the problem is real.
 
 ---
 
@@ -318,7 +318,7 @@
 - [ ] Heir letter written (not template text), PDF on disk, stored away from seeds and devices
 - [ ] Switch armed, recipients told in advance, one check-in done on camera
 - [ ] Estate summary downloaded, tier marked reviewed
-- [ ] Estate-complexity triggers counted, level named (1-4), and the answer written down with a date — including "trust not currently indicated," which counts as done
+- [ ] Estate-complexity problem named and dated outcome recorded — including "trust not currently indicated," which counts as done
 - [ ] Family handoff review booked, with the seven-item agenda and the no-secrets rule stated
 
 **⚠** Close on the readiness bar. The difference between the start of this capture and the end is what an afternoon of estate work is worth.

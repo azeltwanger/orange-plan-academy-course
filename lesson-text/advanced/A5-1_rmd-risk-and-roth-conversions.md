@@ -1,60 +1,27 @@
 # RMD risk and Roth conversions
 
-*US-specific. Verify ages, deductions, and brackets in the year you act.*
+**Gate:** meaningful pre-tax assets, a plausible lower-income window, and a way to pay conversion tax without weakening the plan.
 
-An **RMD** (required minimum distribution) is a forced withdrawal from traditional accounts starting at 73: balance ÷ an IRS divisor that shrinks every year, all taxed as ordinary income.
+## Current mechanics
 
-## Why Bitcoin holders should care more
+- Applicable RMD age is cohort-specific: current law uses 73 for the intermediate cohort and 75 for people attaining age 74 after 2032.
+- The couple in this course plans on age 75 under current law.
+- Roth IRAs and designated Roth plan accounts have no lifetime owner RMD.
+- An RMD due for a year cannot itself be converted.
+- Many nonspouse beneficiaries face a 10-year outside deadline, but exceptions and annual-distribution rules can change the schedule.
 
-The couple's 401(k) at a 7% stock assumption: ~$1M at 73 → first RMD ~$38,000, stacking on $51,600 of Social Security = $90,000 of income they didn't ask for. Swap in Bitcoin at 20% growth inside the traditional account: ~$12.5M at 73 → **~$470,000/yr of forced ordinary income.** Success is what builds the trap.
+## Illustration
 
-## The fix: shrink the bucket early
+$16,500 contributed annually for 15 years at a flat 7% is roughly $415,000. Another 15 years at 7% is roughly $1.14 million. At the current age-75 factor of 24.6, that implies an illustrative first RMD around $46,000.
 
-A **Roth conversion** moves money from traditional to Roth in a year *you* choose. You pay ordinary income tax on the amount now; it never faces an RMD again and grows tax-free after. You're trading a low rate you chose for a high rate you'd be forced into.
+A flat 20% sensitivity produces a much larger result. That is a stress illustration, not a baseline assumption or prediction.
 
-**Fill the bracket, don't spill:** convert to the top of your current low bracket, then stop, because every dollar past the line gets the next rate.
+## Conversion decision
 
-The couple at 60: convert ~$100k − ~$31.4k deduction → ~$68k taxable → ~$7,700 at 12%. Four years running retires the whole $400k for ~$30,000 total, before it becomes a million.
-
-**Pay the tax from outside the Roth**: from taxable cash, so the full converted amount lands in tax-free space.
-
-## The window conflict
-
-Conversion income is ordinary income and stacks *under* your capital gains, so it pushes gains out of the 0% bracket. Conversions and 0%-gain harvesting compete for the same low-income years. Model them together.
-
-Plain withdrawals shrink the bucket too (fill a bracket, spend it as income). 72(t) exists for early access but is strictly professional-review territory.
-
-## The Bitcoin timing angle
-
-A conversion is taxed on the **dollar value on the day you move it**, so the Bitcoin price that day sets your tax bill. Move the same coins when the price is down 50% and the tax is half. As a client put it: *it's the same amount of cash, but a different amount of Bitcoin.* For the same tax dollars, a bear market moves more of your Bitcoin into a place it's never taxed again.
-
-So you're picking the right *years* (from the bracket lesson) and the right *prices*. Not a call to time the bottom: if Bitcoin is well off its highs and you were already planning conversions, that's a better moment than one right after a new high.
-
-## Where the tax money comes from
-
-⚠ The conversion tax is **not** paid out of the account you converted, and no penalty is involved. It's an ordinary tax bill paid from **cash or your taxable account**.
-
-Pay it from outside and the full conversion compounds tax-free. Convert $30,000, owe $3,600: pay from taxable and all $30,000 lands; pay from the conversion and only $26,400 does.
-
-**How to fund the bill:** save cash before the deadline, sell some taxable Bitcoin, or split the conversion across two years so each bill is smaller. **Size the conversion to a bill you can actually pay.**
-
-**Save that money in dollars or Bitcoin?** A tax bill is a fixed obligation with a date on it, and fixed obligations don't get funded by volatile assets. Same rule as Module 2.
-
-⚠ Filing deadlines and extension rules are law-set and change. Confirm dates and any interest with your CPA.
-
-## Ask the AI
-
-Open **Plan Guide** and ask for *"find my Roth conversion window."* That's the **Evaluate Roth conversions** workflow. It will not propose a conversion unless your plan actually holds a pre-tax balance to convert.
+Model ordinary tax, capital-gain stacking, Marketplace credits, Social Security taxation, Medicare IRMAA, NIIT, state tax, deductions, and credits together. The bracket top is not the complete answer.
 
 ## Homework
 
-1. Estimate your tax-deferred balance at 73; divide by ~26; add Social Security.
-2. If the total lands in a higher bracket than your bridge years, model a conversion schedule and take it to your CPA.
+Model zero plus two conversion sizes in the low-income window. Use the result as a proposed range for the tax professional, not a filing instruction.
 
-## Look it up
-
-Law-set figures change. Pull the current ones rather than trusting a number from a video.
-
-- **Current RMD age and the rules**: [IRS: Retirement topics, RMDs](https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds)
-- **RMD questions in plain form**: [IRS: RMD FAQs](https://www.irs.gov/retirement-plans/retirement-plan-and-ira-required-minimum-distributions-faqs)
-- **The full distribution rules**: [IRS Publication 590-B](https://www.irs.gov/publications/p590b)
+*Research source: `research/PRIMARY-SOURCE-REGISTER.md`.*

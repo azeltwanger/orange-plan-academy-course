@@ -1,41 +1,37 @@
 # Insurance: term life, disability, umbrella, and when to stop
 
-Insurance covers the gap between what your family needs and what the stack already provides. Early on the gap is huge and cheap to cover; as the stack compounds, coverage can shrink with it. **Protection you rent until the stack carries the weight, not something you carry forever.**
+Insurance transfers a loss the household cannot or does not want to absorb.
 
-## Term life (the anchor)
+## Life
 
-Cheapest coverage per dollar. Skip the 10×-income rule and do the math on your plan:
+Shortfall × years minus available resources is a first-pass range, not a complete needs analysis. Also include final expenses, debt payoff, childcare/education, survivor benefits and income, taxes, inflation, asset liquidity, business/estate needs, and existing coverage.
 
-**Annual hole × years to cover − the stack.** The couple: ($80k spend − $40k surviving income) × 22 years − $175k stack ≈ **$700k**: the rule of thumb was off by double. Since the need shrinks as the stack grows, **ladder**: a longer base + shorter top-up, stepping down as the stack steps up. Priced by age and health, so if a family depends on you and you hold nothing, this is a this-month item.
-
-⚠ The pitch to expect: permanent-life products ("infinite banking"). They bundle insurance with a low-yield savings component at much higher cost: a premium to hold a savings vehicle you already replaced. If a pitch leans on "bank," slow down and compare numbers.
+Term and permanent are broad categories with different guarantees, charges, and jobs. Death proceeds are generally excluded from federal income tax, subject to exceptions.
 
 ## Disability
 
-You're more likely to become disabled than die during working years, and it stops both income *and* the stacking flywheel. Employer coverage "60%" shrinks after the cap and taxes. Find out what yours actually pays and whether it's **own-occupation** (pays if you can't do *your* job) or any-occupation. Price a supplement if the gap is real.
+Read the actual policy for benefit percentage and cap, tax treatment, elimination and benefit periods, own/any occupation, partial/residual benefits, offsets, and exclusions. Compare the after-tax benefit with bare-bones spending.
 
 ## Umbrella
 
-Sits atop home/auto liability limits. A judgment doesn't care your wealth is in Bitcoin. A few hundred dollars per million; stronger case if you're a known Bitcoiner.
+Excess personal liability subject to required underlying limits and exclusions. Price the actual policy; there is no universal price per million.
 
 ## Long-term care
 
-Name it, park it. Decision window is your 50s–60s; annual review item at 45.
+Review from health, insurability, assets, caregiving exposure, benefit triggers, elimination period, inflation protection, rate history, and alternatives—not one universal age.
 
-## The graduation review
+Never cancel or replace coverage before the new arrangement is effective and reviewed.
 
-Once a year: has the stack grown enough to shrink a coverage? Cancel deliberately, in writing, never by lapsing a payment. (The app doesn't track policies yet, but policy beneficiary forms override everything; keep names matched to the estate plan.)
+## YOUR DECISION
 
-## Your decision
+Which gaps need a current contract or quote review and which risks the household retains.
 
-Your coverage gap, as a number.
+## PUT IT IN ORANGE PLAN
 
-## Put it in Orange Plan
+Record review status and unresolved gaps in Protect; carrier contracts remain the source of truth.
 
-Nothing in the app. Protect shows Insurance coverage as Coming soon, so the Coverage Audit worksheet stays your record.
+## YOU ARE DONE WHEN
 
-## You are done when
+The rough math is labeled, contract terms came from the policy, and exact gaps go to a licensed reviewer.
 
-You have a life number and a disability number from the same subtraction, and both have gone to a licensed professional if they needed to. None of this is a product recommendation, and the actual coverage runs through them.
-
-Then watch the module walkthrough below this video, where we complete the Protect queue, write the letter, and arm the switch.
+*Research source: `research/PRIMARY-SOURCE-REGISTER.md`.*

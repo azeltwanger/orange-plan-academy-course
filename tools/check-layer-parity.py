@@ -52,7 +52,10 @@ HISTORICAL = {'AUTHORITY-FLAGS.md', 'COURSE-IMPROVEMENT-ANALYSIS.md',
               'AUSTIN-AUTHORITY.md', 'COURSE-LEGAL-COPY.md', 'README.md',
               'PRODUCTION-CHECKLIST.md', 'FILM-ORDER.md', 'DICTATION-ORDER.md',
               'SCREEN-SHOOT-LIST.md', 'USABILITY-TEST-M1-M3.md',
-              'FAQ-AND-AI-BACKLOG.md', 'VOICE-GUIDE.md'}
+              'FAQ-AND-AI-BACKLOG.md', 'VOICE-GUIDE.md',
+              'PROFESSIONAL-RESEARCH-AUDIT.md',
+              'TARGETED-PROFESSIONAL-SIGNOFF.md',
+              'PRIMARY-SOURCE-REGISTER.md'}
 
 core = open(os.path.join(root, 'MASTER-COURSE.md'), encoding='utf-8').read()
 adv = open(os.path.join(root, 'MASTER-ADVANCED.md'), encoding='utf-8').read()

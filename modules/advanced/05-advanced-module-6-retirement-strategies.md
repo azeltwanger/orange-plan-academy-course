@@ -1,7 +1,7 @@
 # Advanced Module 6 — Retirement Strategies
 
 ## A6.1 Health insurance between retiring and Medicare
-*`TEACH` · 800 words · ~6 min*
+*`TEACH` · ~754 words · ~5 min*
 
 > **Gate.** Watch this if your plan has you stopping work before 65. If your retirement date is 65 or later, Medicare starts when the paycheck stops and this does not apply to you.
 
@@ -14,102 +14,105 @@
 
 ---
 
-Under current law, Medicare starts at 65. Retire at 55, and that's 10 years of coverage you have to buy yourself, because employer coverage ends when the job does.
+In today's lesson, we're going to price the healthcare bridge between leaving work and becoming eligible for Medicare.
 
-A 10-year bill in front of anyone retiring early. Usually the largest single line inside the bridge years.
+This lesson applies when the paycheck stops before 65 and employer coverage stops with it.
 
-### Three paths (plus one short-term option)
+### The bridge is a dated expense
 
-**Short-term: COBRA.** Keeps your exact employer plan for up to 18 months (verify).
+If you retire at 60, the bridge is roughly five years.
 
-- You keep your plan, doctors, and network.
-- Now you pay all of the premium, plus a small admin fee.
+The plan needs the premium, expected out-of-pocket cost, and a stress allowance for each year. It also needs the end date, because Medicare changes the coverage structure at 65 even though healthcare costs do not disappear.
 
-Bridge to the bridge. A first-year option, not a decade solution. Expensive but zero disruption.
+### Option one: employer continuation
 
-**Path 1: The marketplace (ACA).** The default for most early retirees. Metal tiers are cost-sharing levels, not quality levels:
+COBRA or another continuation right may let you keep the employer plan for a limited period.
 
-| Tier | Premium | Deductible | Notes |
-|---|---|---|---|
-| Bronze | Lowest | Highest | May pair with an HSA |
-| Silver | Middle | Middle | Benchmark tier for subsidies. Extra cost-sharing help at lower incomes. |
-| Gold | Higher | Lower out-of-pocket | Wins if you use a lot of care |
+For many qualifying events, federal COBRA commonly lasts up to 18 months, with longer periods possible in some situations. The household may pay the full premium plus an administrative charge.
 
-> ⚠ Illustrative pricing. Verify current at healthcare.gov. An unsubsidized couple in their late 50s can face four figures a month.
+The advantage is continuity: same network, deductible structure, and claims process.
 
-Almost nobody who plans well pays sticker price.
+The disadvantages are price and the short runway.
 
-**The subsidy scales with your income.** The subsidy lowers your monthly premium, and its size scales with income:
+Use the actual election notice. Do not assume every employer, event, or state follows the same duration.
 
-- Lower income → bigger credit → lower net premium.
-- Higher income → smaller credit → sticker price at the top.
+### Option two: the marketplace
 
-The income it looks at is your **MAGI** (Modified Adjusted Gross Income): the income the subsidy math sees.
+Marketplace coverage is where tax planning and healthcare planning meet.
 
-In early retirement, your MAGI is partly a choice, which puts your premium partly under your control:
+The net premium depends on household income, household size, the benchmark plan, location, and the law in the enrollment year.
 
-- Spend from cash or taxable dollars that are mostly basis → income on paper is low → subsidy goes up.
-- Realize gains, take traditional-account dollars, or do Roth conversions → MAGI goes up → subsidy goes down.
+For 2026, the enhanced pandemic-era subsidy rules no longer continue in the same form. That is exactly why the course should not memorize an old income cliff or an old premium example.
 
-Engineer a modest MAGI and the same Silver plan's net premium can fall by hundreds or thousands a month. Thresholds move every year. Verify.
+Use the current Marketplace estimate for the ZIP code and ages involved.
 
-In the bridge years, your health premium is partly a tax-planning output.
+Also price the out-of-pocket side. Cost-sharing reductions apply only to eligible households enrolled in a Silver plan, and eligibility changes with income.
 
-**The tension: subsidy vs Roth conversion.** It is the same conflict the tax module's bracket window runs into. One low-income window, multiple planning moves competing for it.
+### Magi is part of the premium
 
-A big Roth conversion raises your MAGI, which shrinks or kills the subsidy that same year. You can max the window for subsidies or for conversions, but not both.
+A Roth conversion, large taxable gain, business income, or retirement distribution can raise Marketplace income and reduce a premium tax credit.
 
-A conversion decision is also a healthcare decision. Model both paths, pick deliberately, revisit every year. Flagship question for your CPA.
+That does not make the tax move wrong. It means the premium change is part of the tax cost.
 
-**Path 2: Health-sharing.** Austin's family uses CrowdHealth, so he can speak from experience.
+The tax page and healthcare worksheet have to use the same income assumption. A conversion modeled without the premium effect is incomplete.
 
-> ⚠ Health-sharing is not insurance. It's a crowdfunding membership where members fund each other's medical bills.
+### Option three: a health-sharing arrangement
 
-How it works:
+Austin's family uses CrowdHealth, and that personal experience can stay in the lesson as personal experience.
 
-- Pay a monthly membership amount.
-- Cover a fixed member responsibility on a health event (a few hundred dollars).
-- Bills above that get crowdfunded, with cash-pay pricing negotiated up front.
+The category has to be described accurately.
 
-Trade-offs:
+A health-sharing arrangement is not health insurance. It generally does not create the same legal obligation to pay a claim, and the terms, exclusions, waiting periods, pre-existing-condition rules, member responsibility, and provider process vary by organization.
 
-- **Not insurance.** No legal guarantee any bill gets funded.
-- **Pre-existing conditions.** Limited, phased participation.
-- **Cash-pay medicine.** No network. You're the payer.
-- **Typically not HSA-qualified.** Joining usually means giving up new HSA contributions. Verify current law.
+Price the exact current membership and read the current member agreement. Do not generalize one program's rules to the category.
 
-Best fit: relatively healthy households comfortable managing bills directly, with a solid reserve.
+HSA eligibility is a separate question. A sharing membership does not by itself create an HSA-eligible high-deductible health plan. Verify the actual coverage and current tax rules before making contributions.
 
-Verify terms and pricing before deciding.
+### Option four: a spouse or other eligible plan
 
-### The decision frame
+A spouse's employer plan, retiree coverage, a union plan, or another special eligibility path can be the best bridge when it is available.
 
-Bridge years × annual cost of each path, side by side. Then add soft factors: health status, comfort with a non-guaranteed model, HSA plans, provider preferences.
+The right comparison uses the incremental family premium, deductible, network, and employer contribution—not only the employee's headline premium.
 
-### In the plan
+### The comparison
 
-Healthcare is a line inside your retirement spending number (from the spending-floor lesson). The bridge premium is an expense with an end date at 65.
+For each real option, record:
 
-In the app: enter as an **Expense Change** life event with a duration (5 years if you retire at 60). No "end age" field; you set a duration.
+- monthly premium;
+- deductible and out-of-pocket maximum;
+- network and prescription fit;
+- expected routine cost;
+- worst plausible annual cost;
+- tax-credit or tax-deduction assumptions;
+- duration and the next enrollment trigger;
+- whether the arrangement is insurance and what payment is legally guaranteed.
 
-One thing the app doesn't do: model a Roth conversion, and it shows the tax side in full but doesn't price what the higher MAGI does to your subsidy. That's the worksheet.
+### At 65
 
-### At 65: one income rule swaps for another
+Medicare eligibility changes the bridge, but enrollment timing, employer coverage, HSA contributions, Medigap, Medicare Advantage, prescription coverage, and IRMAA can all matter.
 
-Income still drives your healthcare cost, just under a different rule. Subsidies stop; Medicare IRMAA surcharge thresholds take over (covered in the tax module).
+Do not wait until the final month to learn those rules. Put a Medicare review on the calendar before 65.
+
+### Put it in the plan
+
+Enter the best current estimate as a dated expense change from retirement until Medicare eligibility.
+
+Then run a high-cost scenario that uses the out-of-pocket maximum or another defensible stress year.
+
+The app may model the spending and tax result without reproducing every Marketplace or Medicare rule. The current quote and eligibility determination still come from the official enrollment source.
 
 ### Homework
 
-Price your bridge three ways:
+1. Price every option actually available to the household.
+2. Use the same income assumption in the tax and healthcare comparison.
+3. Enter the base bridge cost and one stress case.
+4. Put the next enrollment and Medicare review dates on the calendar.
 
-- COBRA (first year only).
-- A Silver plan at the MAGI you'd actually run.
-- Current health-sharing membership pricing.
+You are done when the bridge has a current source, an end date, and a high-cost case—and when a health-sharing membership is never described as insurance.
 
-Most people have never seen those three numbers side by side. The comparison is the decision.
 
 ## A6.2 Sell, borrow, or hold: funding a year of spending
-*`TEACH` · 730 words · ~5 min*
+*`TEACH` · ~943 words · ~6 min*
 
 > **Gate.** Watch this once you are inside about five years of retiring, or already drawing income. It prices the three ways to fund a year against each other; before that, the withdrawal order in core is the decision that matters.
 
@@ -124,98 +127,117 @@ Most people have never seen those three numbers side by side. The comparison is 
 
 ---
 
-Three ways to fund your life from a Bitcoin-heavy plan. Each costs something different. Here's each priced on one year of the couple's retirement:
+In today's lesson, we're going to compare three ways a Bitcoin-heavy household can fund one year: sell, borrow, or hold and spend from another bucket.
 
-- Age 60
-- Spending $80,000/yr
-- $600,000 taxable Bitcoin
-- $120,000 Reserve
+This lesson fires when retirement is close enough that the household is actually deciding how next year's spending gets funded.
 
-### Tool 1: Sell (buying simplicity)
+### One year, three different costs
 
-Sell $80,000 of Bitcoin to cover the year.
+Use the same annual spending need for all three paths.
 
-Split into basis and gain:
+The comparison is not about which one sounds most Bitcoin-aligned. It is about what each path costs the plan in taxes, interest, liquidity, risk, and family complexity.
 
-- **Basis:** about $20,000 (a quarter of it, illustrative).
-- **Long-term gain:** about $60,000.
+### Path one: sell
 
-In a low-income year, that $60,000 of gain can land in the 0% capital-gains bracket and cost almost nothing.
+Selling Bitcoin creates cash with no loan to manage.
 
-- **Upside.** One year of spending, no counterparty, no loan to manage.
-- **Downside.** Bitcoin is gone.
+The tax is based on the gain in the specifically identified units, not the gross sale proceeds.
 
-Best when spending is modest and simplicity is worth something in itself.
+A low-income year may place some long-term gain in a lower federal capital-gain band. But ordinary income fills the stack first, state tax may apply, and the gain can affect Marketplace credits, NIIT, or other thresholds.
 
-### Tool 2: Borrow (buying upside)
+So "the gain is in the zero-percent band" is a modeled federal statement, not a promise that the transaction costs nothing.
 
-Borrow $80,000 against the Bitcoin. No taxable event. Bitcoin keeps compounding.
+The upside is simplicity and no liquidation or lender risk.
 
-**LTV is the whole decision.** LTV = loan balance ÷ collateral value. A 20% LTV means you've borrowed 20 cents against every dollar of Bitcoin.
+When you sell, you are giving up the Bitcoin, paying any tax on the gain, and giving up whatever future growth those units would have had.
 
-The ratio moves for two reasons:
+### Path two: borrow
 
-1. Interest pushes the balance up.
-2. A price drop pulls the collateral down.
+Borrowed cash is generally not income when there is a real obligation to repay.
 
-The ratio can climb fast without you doing anything. The starting ratio is the whole decision.
+That does not make the entire strategy tax-free.
 
-**The couple's borrowing capacity, priced.** Austin's default is 10 to 20% LTV depending on risk tolerance, the same range A4.1 sizes the cushion against.
+Interest accrues. The loan can be liquidated. A lender sale of collateral is a taxable disposition. Debt cancellation can create income. The lender and custody structure add risks that have nothing to do with the tax code.
 
-- 10-20% of $600,000 collateral = $60,000 to $120,000 of capacity.
-- At the cautious end, $60,000 does not cover even one year of their $80,000 spending. At the aggressive end, one year is two thirds of the whole capacity.
-- Either way there is no second year. Trying for one puts them at a ratio a normal bear market liquidates.
+The tax comparison therefore cannot stop at "loan proceeds are not taxable."
 
-Add a year of interest. At 10-11%, $80,000 grows to about $88,000 a year later with nothing paid.
+It has to include:
 
-Drop Bitcoin 50%. Collateral is now $300,000. $88,000 against $300,000 = **29% LTV**, and a 75% drop — the normal Bitcoin bear — puts it at **59%**, inside margin-call territory.
+- interest and fees;
+- the LTV path under a major drawdown;
+- any collateral top-up reserve;
+- the tax from a forced or planned collateral sale;
+- counterparty and rehypothecation terms;
+- repayment source;
+- the estate's obligation if the loan remains at death.
 
-The cushion is gone. They can't borrow again next year, and they're one leg down from liquidation.
+Borrowing can be useful when it is small relative to collateral, the repayment source is clear, and the household values keeping the position.
 
-Borrow from strength, not from a trap. A loan taken calmly at low LTV with a plan is a different product from one taken in a drawdown because you're cornered.
+It is fragile when repeated borrowing becomes the paycheck and every new year consumes more collateral capacity.
 
-**Where borrowing works and doesn't:**
+### Path three: hold and spend from reserve or bridge
 
-- **Works.** LTV is low, liquidity is behind it, you're comfortable holding it.
-- **Doesn't.** As the foundation of a retirement paycheck. One year of spending uses the whole capacity. The second year has nowhere to come from.
+The third path is to leave the Bitcoin untouched and fund the year from cash or another Bridge asset.
 
-Borrowing is a tool for a year, not a plan for a decade.
+That preserves the Bitcoin position and avoids a new loan.
 
-### Tool 3: Hold (buying compounding, and maybe more)
+The cost is using liquidity that may have another job. The reserve has to remain large enough to protect the plan through a drawdown, and the Bridge has to be replenished under the rule the household already set.
 
-Don't touch the Bitcoin. Spend from the Reserve ($120,000).
+Under current federal law, taxable property inherited at death generally receives a basis tied to date-of-death fair market value.
 
-The $600,000 keeps compounding.
+That general rule has conditions and exceptions. Gifts, certain trusts, property outside the taxable estate, consistent-basis reporting, and future law can produce a different answer.
 
-Under current law (verify), it passes to heirs with a **step-up in basis**. If their basis is $100,000:
+So an outright taxable Bitcoin holding may receive a basis adjustment under current law. Do not turn that into "all embedded gain disappears" for every ownership structure.
 
-- $600,000 - $100,000 = **$500,000** of embedded gain that passes untaxed.
+### Do not compare a tax rate with an interest rate directly
 
-That turns "not selling" from a preference into a tax strategy.
+A common shortcut compares a 15% capital-gain rate with a 10% loan rate and picks the smaller number.
 
-Never selling the core can be a legitimate estate move, as long as it's funded by the Reserve and Bridge instead of by sales.
+That is the wrong comparison.
 
-### In the app
+The tax applies to the gain portion once. Interest applies to the loan balance over time, may compound, and may or may not be deductible. A forced sale can add tax later. The Bitcoin sold in path one and the Bitcoin pledged in path two also experience different future paths.
 
-**Plan → Income → Retirement Borrowing** prices all three side by side against a plain sell-as-you-go baseline. What you read off it:
+Use dollars over the same time horizon.
 
-- **After-tax net worth at {age}.** The family-facing number.
-- Any loan balance the estate has to repay at death.
-- A step-up assumption you can flip on and off.
+### The five-year view
 
-It's a sandbox. Nothing touches your plan until you apply it.
+Run each path for one year, then extend it for five.
 
-### The decision frame: four questions
+For selling, track the units sold, basis, tax, and remaining Bitcoin.
 
-1. **Taxes.** What's the tax bill on each path this year?
-2. **Liquidation risk.** Does the loan survive a 50% Bitcoin drop?
-3. **Cash flow.** Is the annual capacity enough to matter?
-4. **Family comfort.** Does your spouse understand the loan structure?
+For borrowing, track the loan balance, interest, collateral value, LTV, top-ups, repayment, and the outcome under a major drawdown.
 
-Match the tool to the answers. You can mix them: a sell year, a borrow year, a hold-forever core.
+For holding, track Reserve and Bridge depletion, refill years, and whether a bad market would force a later sale.
+
+Most households will not choose one path forever. A strong plan can sell in one year, hold in another, and use a small loan for a specific purpose without turning borrowing into the foundation of the retirement paycheck.
+
+### The family test
+
+Before a loan enters the plan, the spouse or person who would inherit the balance should be able to explain:
+
+- who holds the collateral;
+- the margin and liquidation lines;
+- where repayment comes from;
+- what happens after a 50% or 75% decline;
+- what happens if the lender fails;
+- what the estate has to do if the borrower dies.
+
+If the household cannot explain it, the complexity cost is not priced yet.
+
+### Put it in orange plan
+
+Plan → Income → Retirement Borrowing compares the borrowing strategy against the saved withdrawal plan.
+
+Read after-tax net worth, loan balance, Bitcoin remaining, taxes, and risk together.
+
+A preview is not the plan until it is deliberately applied.
 
 ### Homework
 
-Run all three on one year of your own spending. Not to pick a winner, but to know the numbers behind each. Then price them across a five-year window. What does five years of borrow-only cost in interest and LTV drift? What does five years of sell-only cost in taxes?
+1. Price one year under sell, borrow, and hold.
+2. Extend the comparison to five years.
+3. Add state tax, ACA or Medicare effects, lender terms, and any basis-at-death assumption.
+4. Stress the loan under the lender's actual thresholds.
+5. Take the tax outputs to the tax professional and the loan terms to someone who represents the household, not the lender.
 
-Bring the outputs to the household and CPA conversation.
+You are done when the decision is supported by dollars over the same horizon and the household can explain the risk without using the phrase "Bitcoin will probably go up."

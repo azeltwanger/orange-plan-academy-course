@@ -1,56 +1,27 @@
-# The executor, the four legal documents, and choosing an estate attorney
+# The executor, the legal documents, and choosing an estate attorney
 
-Custody was operational access; estate is the legal transfer. A hardware wallet grants no legal authority, so a perfect custody setup can still lock your family out for reasons that have nothing to do with keys.
+A will nominates an executor and directs probate assets. Authority generally begins after court appointment. Without a valid will, a court may appoint an administrator under intestacy law.
 
-## The executor's real job
+## Jobs
 
-They file the will (opening probate), then under court supervision: inventory assets, notify creditors, pay final bills and taxes, distribute the rest. Months of paperwork, done while grieving. Their power comes from a court order built on a document you signed: no document, no authority.
+- **Will:** probate assets, executor nomination, guardian nomination; the court makes appointments.
+- **Financial power of attorney:** lifetime/incapacity authority; generally ends at death.
+- **Healthcare directive:** medical decisions, not inheritance.
+- **Beneficiary/POD/TOD and plan records:** a valid provider-held designation generally controls that covered asset instead of the will, subject to plan terms, ERISA, spousal consent, QDROs, state law, and validity.
+- **Digital-asset authority:** state law may require explicit consent for digital assets and electronic-communications content.
 
-**Pick for three tests:** capable (can run a legal/financial process), available, trustworthy. And structural: **the executor shouldn't be an heir**: under the access split, heirs hold one piece and the executor holds the other; one person holding both collapses the protection. They don't need to be a Bitcoiner. Pair a documented process with a named technical helper. Then actually ask them.
+The executor packet is operational, not legal authority. Orange Plan records intent; provider forms and valid legal documents control.
 
-## The four documents
+## YOUR DECISION
 
-Will · power of attorney · healthcare directive · **beneficiary designations**.
+Who will be nominated, whether they accepted, and which state-licensed attorney will coordinate the documents.
 
-**A valid form generally controls, not the will.** For accounts governed by a valid beneficiary, POD, or TOD designation, the provider's form will generally control rather than the will, and those accounts generally do not enter probate: the custodian pays the form's name before anyone reads the will. (An old 401(k) naming your mother from before your marriage very likely goes to your mother.)
+## PUT IT IN ORANGE PLAN
 
-⚠ The flat version, "the form always overrides the will," is right often enough to be dangerous. State law, community-property rules, plan documents, spousal-consent requirements, and the validity of the designation all bear on it. **Verify each account directly with the provider and your attorney.** The fix is 10 minutes per account; the app shows every named beneficiary on one screen, but the app is your checklist, not the legal record.
+Record completion status and beneficiary intent in Protect; confirm the binding record with each provider.
 
-### Beneficiary verification sheet
+## YOU ARE DONE WHEN
 
-| Account | Primary | Contingent | Checked directly with provider? | Date | Matches the plan? |
-|---|---|---|---|---|---|
-| | | | | | |
+The executor has accepted, provider-held beneficiary records were reviewed, and a state-licensed attorney has the digital-asset and custody questions.
 
-Every account carrying a beneficiary, POD, or TOD setting gets a row: retirement, brokerage, bank, insurance, annuities. **An account is done only when "Checked directly" is true.** A name you remember filling in years ago is not verification. Re-run this at the annual review.
-
-## Choosing your estate attorney
-
-Most of it is normal vetting: experience, fees, responsiveness. Four things are specific to being a Bitcoin holder, and they belong on a checklist you take into the meeting.
-
-1. Have you drafted an estate plan for a Bitcoin holder before?
-2. Are you comfortable with self-custody and multisig, not just an exchange account?
-3. Will you help my heirs *execute* the plan, not just draft it?
-4. Are you licensed in my state? Probate law and signing formalities are state-specific.
-
-⚠ **A fifth question exists and it is the most expensive one to skip, but it only applies to trusts.** It lives with the trust lesson: **Advanced Estate Planning → "Do you need a trust, and which one?"**, covering the prudent-investor duty, why it can force a trustee to sell the exact asset the trust was built to hold, and the waiver that prevents it. Heading toward a trust? Watch that before you hire anybody.
-
-**The filter to weight heavily:** do they explain things in language your executor and heirs will understand? You will not be the one sitting across from this attorney someday. Your spouse will be, and your executor will be.
-
-## Ask the AI
-
-Open **Plan Guide** and ask for *"what should I ask an estate attorney."* It builds the question list you take into the interview.
-
-## Your decision
-
-Who your executor is, and whether your beneficiary forms name who you actually intend.
-
-## Put it in Orange Plan
-
-Protect → Needs attention → Beneficiaries. Then mirror every one on the custodian's own form, because the institution holds the binding record.
-
-## You are done when
-
-A will exists and an attorney has supervised the signing, your executor has been asked out loud, and your beneficiary forms match your intent on the custodian's system. For accounts with a valid beneficiary, POD, or TOD designation, the provider's form generally controls instead of the will, so an out-of-date form quietly undoes everything else you just did. Confirm each one with the provider.
-
-If you're outside the US, the tests and the frameworks travel well but the legal containers don't. Map the concepts with a qualified local professional.
+*Research source: `research/PRIMARY-SOURCE-REGISTER.md`.*

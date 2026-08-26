@@ -50,7 +50,7 @@
 
 **DO** Fixing a wrong lot: Dashboard → holding row → **Lots** → dialog *"Purchase Lots — {asset}"* (add/edit/delete)
 
-**SEE** Neighbors: **Add transaction** (single buy/sell/transfer) · **Transfer** (moves holding + basis, NOT a sale, no taxable event)
+**SEE** Neighbors: **Add transaction** (single buy/sell/transfer) · **Transfer** (moves holding + basis and is generally not a disposition when both wallets belong to the taxpayer; Bitcoin used as a transaction fee can still have tax consequences)
 
 **⚠** Two guardrails, both protection, not bugs:
 - A sold lot is LOCKED (*"Purchase lot locked by a sale"*). Unwind in order: delete the sale → fix the lot → re-enter.
@@ -96,13 +96,13 @@
 
 **⚠ Say this slowly. Every client gets stuck here.**
 
-**⚠** The conversion tax is **not** paid out of the account you converted. You do not "withdraw to pay it," and there's no penalty involved. It's an ordinary tax bill, due at tax time, paid like any other tax bill — from cash, or by selling from your taxable account.
+**⚠** A Roth conversion generally creates ordinary income. The tax can be covered from checking, taxable assets, withholding, or estimated payments, but those paths are not economically identical.
 
-**SEE** Point at the two pots on screen: the retirement account (moving) · the taxable account / checking (paying)
+**SEE** Point at the two pots on screen: the retirement account being converted · the outside cash or taxable account used to cover the tax.
 
-**⚠ Pay it from OUTSIDE.** Convert $30,000, owe $3,600. Pay from taxable or checking and the full $30,000 compounds tax-free. Pay it out of the conversion and only $26,400 lands.
+**⚠** Paying from outside keeps the full conversion in Roth. Withholding or distributing part of the retirement account leaves less in Roth and, before age 59½, the amount not converted may also be an early distribution unless an exception applies.
 
-**⚠ Say this out loud:** "so we'd be selling from the taxable Bitcoin, not from the account we just converted."
+**⚠** Use the app to size a proposed conversion; use the current return and tax professional to decide payment timing, withholding, estimates, and filing treatment.
 
 **Then the question they actually ask — how do I come up with that money?**
 - Save cash between now and the filing deadline
@@ -175,14 +175,14 @@
 
 - [ ] Banner reads reconcile, no missing-basis count
 - [ ] Account mix is a real mix
-- [ ] Conversion fills the bracket, doesn't spill
+- [ ] Conversion is sized from the all-in marginal cost: bracket, gains, ACA/IRMAA, NIIT, state, deductions, and credits
 - [ ] Near-zero lifetime saved = the window isn't there this year (that's a finding, not a failure)
 - [ ] "Projected year-end traditional" visibly shrinks
 - [ ] Harvest room read out loud ("$X more at 0%")
 - [ ] 8949 file on disk
 - [ ] State swing framed against the life trade-off
 
-**⚠** Hand-off: your CPA doesn't need the app. They need the 8949, the one-page conversion schedule, and your question list.
+**⚠** Hand-off: give the tax professional the 8949 export, the conversion schedule, basis-status list, state assumption, healthcare interaction, and exact questions. The app is the model; the return position still needs substantiation.
 
 **END**
 

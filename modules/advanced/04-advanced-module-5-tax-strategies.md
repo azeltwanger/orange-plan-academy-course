@@ -1,7 +1,7 @@
 # Advanced Module 5 — Tax Strategies
 
 ## A5.1 RMD risk and Roth conversions
-*`TEACH` · 954 words · ~7 min*
+*`TEACH` · ~1,095 words · ~7 min*
 
 > **Gate.** Watch this only when all three are true on your own Tax page: you hold meaningful pre-tax retirement assets, you expect lower-income years before forced distributions begin, and you have a way to pay the conversion tax that is not the converted money. All three, not two. If Orange Plan does not show that combination, your core tax plan is complete without it.
 
@@ -18,103 +18,129 @@
 
 ---
 
-The buckets-and-brackets lesson opened the low-bracket window. This lesson covers why filling it matters and the main tool for filling it.
+In today's lesson, we're going to cover why a large traditional account can create forced taxable income later, and how Roth conversions can reduce that risk during the years when you control more of the income.
 
 ### What an RMD is
 
-RMD stands for **Required Minimum Distribution**. Money the government forces you to take out of traditional retirement accounts once you reach a certain age. Currently 73 (verify in the year it applies).
+RMD stands for required minimum distribution.
 
-The amount is: **Account balance ÷ IRS life-expectancy divisor**
+It is the minimum amount the tax rules require an owner or beneficiary to distribute from certain retirement accounts.
 
-The divisor shrinks every year you age, so the forced withdrawal climbs. Every dollar is taxed as ordinary income.
+For an owner, the yearly amount is generally the prior December 31 balance divided by the life-expectancy factor that applies to that person.
 
-### The couple's future RMD
+The applicable starting age depends on the birth cohort.
 
-Contributions: $12,000/yr plus employer match (50% up to 6% of $150k salary = $4,500). Total $16,500/yr going in.
+Under current law, age 73 applies to the intermediate cohort, and age 75 applies to people who attain age 74 after 2032. The couple in this course is 45 now, so their current-law planning age is 75.
 
-- **Age 60:** ~$400,000 balance after 15 more years at a 7% stock assumption.
-- **Age 73:** ~$1,000,000 after another 13 years compounding, without new contributions.
-- **First RMD:** $1,000,000 ÷ 26.5 ≈ **$38,000**, as ordinary income.
+Roth IRAs and designated Roth plan accounts do not require lifetime distributions from the original owner under current law. Beneficiaries still have distribution rules.
 
-### The RMD stacks with Social Security
+### Why the account can become a problem
 
-At 73: $38,000 (RMD) + $51,600 (Social Security) = **$90,000** of ordinary income the couple didn't ask for. And it climbs every year, because the divisor shrinks.
+Traditional retirement money is not bad money.
 
-That can push you over the IRMAA (Income-Related Monthly Adjustment Amount) thresholds and trigger higher Medicare premiums. A tax problem becomes a health-premium problem.
+The problem is a mismatch between the deduction you received while contributing and the forced income the account may create later.
 
-If they never spend it, their heirs inherit the tax problem with the account.
+The couple contributes $16,500 per year including the employer match in the illustration.
 
-### Why Bitcoin holders should care more
+At a flat 7% illustration for 15 years, that grows to roughly $415,000 around age 60. Left for another 15 years at the same flat rate, it is roughly $1.14 million around age 75.
 
-Take the same contributions, but with Bitcoin exposure inside the traditional account at 20% growth:
+Using the current age-75 Uniform Lifetime factor of 24.6 as an illustration, the first required distribution would be roughly $46,000 before adding Social Security or any other income.
 
-| Age | Balance | RMD |
-|---|---|---|
-| 60 | ~$1.2M | — |
-| 73 | ~$12.5M | **~$470,000/yr** of ordinary income |
+Those are illustration assumptions, not a projection promise. The app should calculate the actual roadmap from the saved account, return, and tax assumptions.
 
-At whatever rate the government sets in that decade.
+### Why bitcoin exposure makes the sensitivity larger
 
-### The fix: shrink the bucket early
+Now run an intentionally extreme sensitivity check.
 
-Shrink the tax-deferred bucket on your terms, in your window. The tool is a **Roth conversion**.
+A flat 20% return on the same annual contributions would produce roughly $1.19 million after 15 years, then more than $18 million after another 15 years if that flat return continued.
 
-**What a Roth conversion is.** Move money from a traditional account into a Roth account in a year you choose. Pay ordinary income tax on the amount you move, now. In exchange, that money never faces an RMD again, and grows tax-free from that day forward.
+At the same illustrative divisor, the forced distribution would be hundreds of thousands of dollars.
 
-You're trading a low rate you chose (now) for a high rate you'd have been forced into (later). And you're shrinking the balance the RMD divisor gets applied to.
+That is not the return assumption I would use as the baseline. It is a sensitivity example showing why a fast-growing asset inside a traditional account deserves attention before the forced-distribution years arrive.
 
-### Fill the bracket, don't spill
+### What a roth conversion does
 
-- Look at your room from the buckets-and-brackets lesson.
-- Convert just enough to reach the top of your current low bracket.
-- Stop before you spill. Every dollar past the line gets the next bracket's rate.
+A Roth conversion moves money from a traditional account into Roth.
 
-Every converted dollar stays at the rate you chose.
+The taxable amount generally enters ordinary income in the conversion year. The converted amount then sits in the Roth bucket, where qualified distributions can be tax-free and the original owner has no lifetime RMD under current law.
 
-### Running the conversion on the couple
+The conversion is not free. You are choosing when to recognize the income.
 
-At 60 with basically no earned income:
+The planning opportunity appears when today's all-in cost is lower than the cost you reasonably expect later, or when reducing the traditional balance creates flexibility the household values.
 
-| Step | Amount |
-|---|---|
-| Convert | ~$100,000 |
-| Minus standard deduction (~$31,400) | -$31,400 |
-| Equals taxable | ~$68,000 |
-| At the 12% bracket, tax owed | **~$7,700** |
+### The RMD itself cannot be converted
 
-Verify deductions and brackets in the year you convert.
+Once an RMD is due for a year, the required amount has to come out. That required amount is not eligible to be converted.
 
-Repeat four years running (60-64) and the $400,000 balance is gone before it becomes a million. Total cost: ~$30,000 in tax, on their schedule, to retire a bill heading for a much higher rate.
+A conversion can happen in the same year after the RMD is satisfied, but the required distribution is already taxable income and already fills part of the year's room.
 
-### Pay the tax from outside the Roth
+That is one reason the years before RMDs can be valuable.
 
-If you convert $30,000 and the tax bill is $3,600, pull that $3,600 from taxable Bitcoin or checking, not from the Roth itself.
+### Lower price, more units for the same dollar conversion
 
-Pay it from the Roth and only ~$26,400 lands in tax-free space. Pay it from outside and the full $30,000 keeps compounding tax-free.
+The conversion amount is measured in dollars on the conversion date.
 
-### The conflict to flag
+If Bitcoin is held inside the traditional account, a lower Bitcoin price means the same dollar conversion can move more Bitcoin units into Roth.
 
-The buckets-and-brackets lesson showed ~$68,000 of empty 0% capital-gains room in that same window. Conversion income is ordinary income. It stacks underneath your capital gains. Filling the bracket with a conversion pushes some of those gains out of 0% into 15%.
+That can be useful, but it is not a reason to time the market with taxes. The tax bill, available cash, future growth assumption, and household risk all still matter.
 
-The two moves compete for the same window, in the same years. **Model them together.**
+### Do not stop at the bracket
 
-### Conversions aren't the only tool
+The course used to frame the decision as filling a bracket without spilling into the next one.
 
-Plain withdrawals work too. Take money out of tax-deferred before RMD age, fill a bracket with it, spend it as income. Same bucket-shrinking effect, no conversion needed.
+That is only the first pass.
 
-Choice between converting and withdrawing comes down to how much money you have and how much time before RMDs start.
+A conversion can also affect Marketplace credits, the taxable portion of Social Security, Medicare IRMAA, NIIT, capital-gain room, state tax, deductions, and credits.
 
-For completeness: 72(t) allows penalty-free early access on a rigid schedule. Real, but strictly professional-review territory.
+So model the all-in marginal cost of the next conversion dollar.
+
+There may be a point where the federal bracket has not changed, but the healthcare or state-tax cost makes the next dollar unattractive.
+
+### Paying the tax
+
+When possible, paying the conversion tax from taxable cash or another outside source keeps the full converted amount in Roth.
+
+That is generally cleaner than withholding part of the conversion, especially before age 59½, when an amount not converted may also be treated as an early distribution unless an exception applies.
+
+But "always pay from outside" is not a universal command. Liquidity, reserve needs, tax basis, and the rest of the plan still come first.
+
+### The beneficiary rule is not one sentence
+
+The old script said the children would simply have 10 years to empty an inherited traditional account.
+
+Many nonspouse designated beneficiaries do face a 10-year outside deadline. But eligible designated beneficiaries have exceptions, and annual distribution requirements within the 10 years can depend on when the owner died and whether RMDs had started.
+
+So traditional money can leave heirs with a shorter distribution window and a larger tax problem. The exact schedule depends on the current beneficiary rules and the family's tax situation, so I would verify this part with the CPA.
+
+### The decision frame
+
+A conversion is attractive when:
+
+- the household is in a genuinely lower all-in marginal-cost year;
+- taxable liquidity can cover the tax without weakening the reserve;
+- the traditional balance is on track to create forced income later;
+- the household values more Roth flexibility;
+- the plan remains strong after paying the tax.
+
+A conversion is less attractive when:
+
+- it destroys Marketplace credits or triggers another threshold;
+- the tax has to come from money the household needs soon;
+- the later rate is likely to be lower;
+- the move is being sized from a bracket table without the rest of the return.
 
 ### Homework
 
-- Estimate your tax-deferred balance at 73.
-- Divide by ~26 for a first-year RMD estimate. Add Social Security.
-- If the total pushes you into a higher bracket than your bridge years, a Roth conversion schedule is worth modeling.
-- Build the model. Bring it to your CPA.
+1. Open the Tax roadmap and identify the first low-income year before the applicable RMD age.
+2. Model three conversion sizes, including zero.
+3. Read federal tax, state tax, healthcare or Medicare effects, capital-gain room, and ending account balances together.
+4. Take the result to the tax professional as a proposed range, not a filing instruction.
+
+You are done when you know which years deserve an annual conversion review and what all-in cost would make you stop.
+
 
 ## A5.2 Harvesting losses and gains
-*`TEACH` · 1,156 words · ~8 min*
+*`TEACH` · ~812 words · ~5 min*
 
 > **Gate.** Watch this if your Tax page shows either harvestable losses or unused 0% gains room this year. If it shows neither, there is nothing to harvest and your tax plan is complete.
 
@@ -133,144 +159,113 @@ For completeness: 72(t) allows penalty-free early access on a rigid schedule. Re
 
 ---
 
-Everything so far has been about acting in low-tax years. This lesson adds a second trigger: acting when the price moves.
+In today's lesson, we're going to cover two moves that sound opposite but solve the same problem.
 
-Because Bitcoin moves so much, you get chances to lock in tax outcomes that stocks rarely give you.
+Loss harvesting records a loss when the tax value of the loss is useful.
 
-Two tools go in opposite directions:
+Gain harvesting records a gain when the tax cost is low enough to justify a higher basis.
 
-- **Harvest losses** at the dips.
-- **Harvest gains** when your bracket is low.
+Neither move begins with the market. Both begin with your records and the whole tax return.
 
-### What harvesting means
+### Loss harvesting
 
-Both tools work the same way:
+A capital loss first offsets capital gains.
 
-- Sell a lot to make the gain or loss real for tax purposes.
-- Buy back so what you own barely changes.
+If total capital losses still exceed gains, an individual can generally deduct the current annual limit against income and carry the unused loss into future years.
 
-That lets you choose the year the tax result lands in, without changing your position.
+The value of the loss depends on what it offsets.
 
-### Tool 1: Harvest losses (Bitcoin is down)
+A loss used against a high-rate short-term gain can be more valuable than a loss carried for years and eventually used against a lower-rate long-term gain.
 
-Sell a lot sitting below your basis and capture the loss.
+So do not multiply every harvested loss by one marginal tax rate and call that the savings.
 
-**The couple's lots after a 60% fall.** Bitcoin fell 77% in 2022, so a 60% fall is a normal cycle. Their $175,000 stack is now worth $70,000.
+### The lot has to be identified
 
-| Lot | Basis | Basis/coin | Value after 60% fall | Harvest room |
-|---|---|---|---|---|
-| Hardware (1.5 BTC) | $45,000 | $30,000 | Still profitable | None |
-| Exchange (0.25 BTC) | $15,000 | $60,000 | ~$10,000 | **$5,000 loss** |
+Suppose the couple owns one low-basis Bitcoin lot and one recent high-basis lot.
 
-Sell the 0.25 BTC for ~$10,000, buy it right back for $10,000. The $5,000 loss is real for tax purposes.
+If the recent lot is below its acquisition price, they may have a loss to realize while keeping the older low-basis lot.
 
-**How losses get used.** Losses offset in this order:
+But the lot does not become the tax lot because the app calls it HIFO.
 
-- Capital gains first, dollar for dollar.
-- Ordinary income next, currently up to $3,000/yr (verify).
-- The rest carries forward.
+For self-custody, the particular units have to be identified in the books and records no later than the transaction, and the records have to establish those units left the wallet.
 
-Running the couple's $5,000 loss:
+For broker-held Bitcoin after 2025, the broker has to receive an instruction using identifiers it accepts no later than the transaction, and the taxpayer keeps substantiation.
 
-| Step | Applied | Value |
-|---|---|---|
-| Offset gains | $0 (none this year) | $0 |
-| Offset ordinary income | $3,000 at 22% | ~$660 |
-| Carries forward | $2,000 | Future years |
+If the identification fails, the current default generally uses the earliest-acquired units in that wallet or account.
 
-The trade-off: when they buy that lot back, basis drops from $15,000 to $10,000. That takes the deduction now and grows the gain reported later. Usually worth it.
+That can turn a planned loss into an unexpected gain.
 
-### Choosing which lot to sell: FIFO vs HIFO
+### Wash-sale treatment
 
-Say you have 8 lots of 0.5 BTC each from 2023-2025, with Bitcoin now at $70,000. You want to sell 1 BTC.
+Under current federal law, the wash-sale rule in section 1091 applies to stock or securities.
 
-| # | Price paid | BTC | Basis | Gain/loss at $70k |
-|---|---|---|---|---|
-| 1 | $20,000 | 0.5 | $10,000 | +$25,000 |
-| 2 | $30,000 | 0.5 | $15,000 | +$20,000 |
-| 3 | $40,000 | 0.5 | $20,000 | +$15,000 |
-| 4 | $60,000 | 0.5 | $30,000 | +$5,000 |
-| 5 | $65,000 | 0.5 | $32,500 | +$2,500 |
-| 6 | $90,000 | 0.5 | $45,000 | -$10,000 |
-| 7 | $100,000 | 0.5 | $50,000 | -$15,000 |
-| 8 | $105,000 | 0.5 | $52,500 | -$17,500 |
+Spot Bitcoin is generally treated as property rather than stock or a security for this rule, so selling spot Bitcoin at a loss and repurchasing it has generally not triggered the stock wash-sale rule.
 
-**FIFO (first-in, first-out).** The exchange default. Sells lots 1 and 2.
+That statement is deliberately narrow.
 
-- Basis $25,000, sale $70,000, gain **$45,000**.
-- Tax at 15% long-term: **$6,750**.
+A tokenized stock or another digital asset that is itself a stock or security can be covered. Congress can change the law. State treatment can differ. Verify the rule in the year you act.
 
-**HIFO (highest-in, first-out).** Selected at time of sale. Sells lots 8 and 7.
+### The real cost of the round trip
 
-- Basis $102,500, sale $70,000, loss **$32,500**.
-- Tax on the sale: **$0**.
-- Plus a $32,500 loss you can now use.
+The tax value is only one side.
 
-Same sale, same coins, $6,750 vs $0. The exchange picks FIFO by default. HIFO is a choice you make at the time of sale, and it needs the wallet-by-wallet cost basis you built in the cost-basis lesson to defend.
+The other side includes:
 
-> ⚠ **HIFO guardrails.** Skip any lot held less than 12 months (short-term rates are much higher). Under 2025 wallet-reporting rules, the coins you sell must come from the wallet those specific lots live in.
+- trading spread and fees;
+- network fees;
+- price movement between sale and repurchase;
+- recordkeeping and lot-identification risk;
+- a higher future gain because the repurchased units have a new basis;
+- the effect on holding period.
 
-### The fee check: is the harvest worth it?
+A harvest is useful when the present value of the tax benefit is worth more than those costs and the future tax trade-off.
 
-Before you sell-and-rebuy, sanity check:
+### Gain harvesting
 
-**Loss × your tax rate** vs **trade amount × fee rate × 2** (both sides of the trade)
+Gain harvesting does the reverse.
 
-If the left side is bigger, worth doing. If not, skip.
+You deliberately realize a long-term gain in a year when the all-in tax cost is low, then reacquire the position and establish a higher basis.
 
-On a $10,000 harvestable loss at 22%, selling and rebuying $35,000 of Bitcoin at 1.5% fees each way:
+A federal zero-percent capital-gain rate does not automatically make the move free.
 
-- Tax benefit: $10,000 × 22% = **$2,200**
-- Fees: $35,000 × 1.5% × 2 = **$1,050**
-- Net: **+$1,150**, worth it.
+Ordinary taxable income fills the stack first. State tax may apply. A larger gain can reduce Marketplace credits, trigger NIIT at higher income, or affect other income-based rules.
 
-Same trade at 3% fees each way? Fees jump to $2,100, harvest barely clears. Small lots at high-fee venues aren't always worth it.
+So the usable gain room is the amount the whole return can absorb at an acceptable all-in cost.
 
-### Tool 2: Harvest gains (your bracket is low)
+### A simple example
 
-Sell to realize gains on purpose in a year your capital-gains rate is low or zero. Buy back at the same price. Reset your basis higher for free.
+Assume a taxable Bitcoin lot is worth $100,000 with $40,000 of basis.
 
-**Running it on the couple at 60.** Same 0.25 BTC from the cost-basis lesson:
+Selling the lot realizes a $60,000 gain.
 
-| Step | Amount |
-|---|---|
-| Sale proceeds | $25,000 |
-| Minus basis | -$7,500 |
-| Gain (all long-term) | $17,500 |
-| Tax at 0% (inside 0% LTCG bracket) | **$0** |
-| Buy back at | $25,000 |
-| **New basis** | **$25,000** |
+If the whole gain fits in an acceptable all-in tax window, the household can repurchase and reset basis near $100,000.
 
-Nothing about their stack changed. The basis on that quarter coin went from $7,500 to $25,000. That's $17,500 of future gain that no longer exists. At a future 15%, $2,625 of tax they now never pay.
+If only half fits before another threshold becomes expensive, harvesting the full lot is not the right move. Sell the amount that fits, or pass.
 
-**Two jobs the 0% bracket does:**
+### Hifo is a policy, not the strategy
 
-- Saves tax on the sale you made that year (obvious).
-- Resets your basis higher for free, one year at a time (missed by almost everyone).
+Highest-in, first-out can reduce current gain when the identification rules are met.
 
-A 0% year is worth using even in a year you don't need the money.
+But it is not always the best long-term choice.
 
-### The window conflict
+Using the highest-basis units now leaves the lowest-basis units for later. That may be exactly what the household wants, or it may create a larger gain in a future year when the rate is worse.
 
-Roth conversion income competes for the same room. Ordinary conversion income stacks under gains and can push them out of 0%. Model them together.
+The decision is not "HIFO good, FIFO bad."
 
-### The Bitcoin wash-sale note
-
-Under current treatment, Bitcoin does not have the wash-sale rule that stocks have. You can sell at a loss and buy right back the same day. For stocks, that would disallow the loss for 30 days.
-
-> ⚠ Verify wash-sale treatment in the year you act. This has been proposed to change.
+It is which identified units create the best lifetime tax path while preserving the custody and spending plan.
 
 ### Homework
 
-Two checks against your lots:
+1. Reconcile the lots and mark which units are actually identifiable under the current wallet or broker rules.
+2. Model one loss harvest and one gain harvest.
+3. Include fees, spread, state tax, ACA or Medicare effects, NIIT, holding period, and the future-basis consequence.
+4. Save the move as a modeled possibility until the tax professional confirms the current-year return treatment.
 
-- Losses sitting unharvested from the last drawdown?
-- Gains you could realize this year at 0%?
+You are done when the app shows the tax benefit, the execution cost, and the future basis together—and when passing is allowed to be the right answer.
 
-Those two answers are what you take to your CPA.
 
 ## A5.3 State taxes and relocation: what the lever is actually worth
-*`TEACH` · ~610 words · ~4 min*
+*`TEACH` · ~488 words · ~3 min*
 
 > **Gate.** Watch this if either is true: you are actually considering a move,
 > or your Tax page shows an unrealized gain large enough that your state's rate
@@ -285,40 +280,66 @@ Those two answers are what you take to your CPA.
 
 ---
 
-### The one dial that pays every year
+In today's lesson, we're going to price the state-tax difference without pretending a map can decide where you live or where a state can tax you.
 
-The state you live in, specifically the state you're a resident of in the year you sell, can add double digits to the tax on a gain, or nothing at all.
+### The lever can be large
 
-You sell, you realize a gain, and you owe federal tax. Then your state can tax that same gain at its own rate. Most states tax a capital gain as regular income, with no special long-term rate. And a handful of states don't tax income at all. The state that charges you is the one you're a resident of in the year you sell, not the one you lived in when you bought.
+A large taxable Bitcoin gain can produce very different state results.
 
-Let me put numbers on it. Today, the couple sits on $115,000 of unrealized gain in their Bitcoin. If they realize that in a state with a roughly 9% rate, the state's cut is about $10,700. Take the same sale in Texas, and it's zero.
+Some states impose no individual income tax. Others tax capital gains as income, use separate rates, or apply special rules.
 
-Now scale it to retirement. Same two states, on a $500,000 realized gain, which is a normal retirement-year sale for a Bitcoin-heavy household. The high-tax state takes about $46,500. The no-tax state takes nothing. Same Bitcoin, same sale, same federal bill. A $46,500 swing on one transaction.
+The app can compare two state assumptions against the same modeled sale. That is useful because it turns "this state is expensive" into a dollar estimate on your own plan.
 
-And those saved dollars don't disappear. They go back into the plan and compound. I ran California against Florida for someone once, and the difference was about $5,800 a year. Over 5 years, that was $57,000 routed into Bitcoin instead of a state treasury.
+Do not freeze one example rate into the video. The current rate, deduction, credit, and local-tax rules belong in the app or current source.
 
-One more thing that makes this lever different: it pays every year. Most tax moves in this module are one-shot, you make them in a particular year. A lower state rate applies to every sale you make for as long as you live there.
+### The sale date is not the whole residency test
 
-Now, three honest warnings.
+The course used to imply that the state where you live in the year of sale is the whole answer.
 
-First, moving is more than tax. It's family, work, community, roots. Those aren't things a tax number should decide, and no tax saving is worth a life you don't want.
+It is not.
 
-Second, residency is a legal standard, not an address change. States look at your domicile: where your days are spent, where your home is, where your work and family are, where your life actually happens. You cannot buy this lever with a mailbox.
+States can look at domicile, statutory residency, days in the state, the location of a home, family and business ties, part-year residency, source income, community-property rules, and the ownership structure involved.
 
-And third, sequence matters. High-tax states audit large exits, especially a big sale that lands right after a move. They know the pattern. If the sale is large enough, get state-tax advice first, then make the move, then make the sale. In that order.
+Changing an address does not necessarily change domicile. Leaving a state does not necessarily end every source-based tax claim.
 
-So treat this one as lifestyle plus residency plus legal planning that happens to save you tax, not the other way around.
+That makes the order important:
 
-### Your decision
+1. Decide whether the move makes sense for the life you want.
+2. Before a large transaction, learn what the old state and the new state require to establish or end residency.
+3. Document the real move rather than manufacturing a tax paper trail.
+4. Model the transaction only after the legal residency assumption is defensible.
 
-Your decision here is whether the state lever is worth acting on for you, and if it is, in what order.
+### Price the whole move
 
-Price it on your own largest realistic sale before you weigh anything else, because the number is either large enough to be part of a life decision or it isn't. If it is, the order is state-tax advice first, then the move, then the sale. Never the other way around.
+State income tax is one line.
+
+Also price:
+
+- housing and property tax;
+- insurance;
+- healthcare access and premiums;
+- travel back to family or business;
+- local sales and other taxes;
+- legal and moving costs;
+- the value of the life you are leaving.
+
+A tax saving can be real and still not be worth the move.
+
+### The right output
+
+The output of this lesson is not "move to a no-tax state."
+
+It is one of three answers:
+
+- moving is already part of the life plan, and the tax difference affects timing;
+- moving is genuinely on the table, and the tax difference deserves professional modeling;
+- moving is not on the table, so the state tax is a cost the plan should include rather than a problem to keep revisiting.
 
 ### Homework
 
-Your homework for this lesson is to:
+1. Run the same modeled gain under the current state and one realistic alternative.
+2. Add the major non-income-tax costs of the move.
+3. Write whether the move is a lifestyle decision, a real option, or not an option.
+4. Before acting, have a professional in the relevant state confirm domicile, part-year, source-income, and transaction treatment.
 
-1. Look up your state's treatment of long-term capital gains, and check whether it has a special rate or taxes them as ordinary income.
-2. Run your largest realistic retirement-year sale against your current state's rate, then against a no-tax state. That difference is what the lever is worth to you.
-3. If the number is big enough to matter, write down what would have to be true about family, work, and community for a move to make sense at all, before you look at the tax number again.
+You are done when the state-tax difference is a number inside a real life decision, not a reason to move on its own.

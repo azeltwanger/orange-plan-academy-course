@@ -1,32 +1,21 @@
-# External demo: hardware wallet setup + exchange hardening
 
-Watch the demo, then do it with your own device and a small test amount.
+# External demo: hardware wallet setup and exchange hardening
 
-## The six steps (recap)
+Use a throwaway wallet, the exact current manufacturer guide, and no personal data.
 
-1. Buy direct from the manufacturer
-2. Generate a new wallet on the device
-3. Write the seed offline + set a PIN
-4. Send a small test transaction
-5. Wipe the device on purpose
-6. Restore from seed. Only after the balance reappears has the device earned real money
+## Hardware-wallet proof
 
-## Exchange hardening (in order)
+1. Verify source, official software, firmware, and backup standard.
+2. Generate the backup on the clean device; never use supplied recovery words.
+3. Run the vendor-supported backup check first.
+4. Send a trivial test and verify the receive address on the hardware display.
+5. Restore on a spare compatible device or approved environment and verify the intended wallet.
+6. A destructive reset is optional throwaway footage only after a non-destructive check—not the first test on the only live device.
 
-1. Strong unique password (a password manager is fine here; it's not a wallet)
-2. 2FA off SMS → authenticator app or physical key
-3. Secure the email account first, because every reset flow routes through it
-4. Withdrawal delays + allow-listing on
+For passphrase or multisig, restore the exact passphrase or wallet policy/descriptor too.
 
-Most losses are account takeovers, not broken cryptography.
+## Account hardening
 
-## The never-list
+Use passkey or hardware security key where supported, TOTP second, SMS last. Secure the email first, store backup keys/recovery codes separately, and review withdrawal controls and support recovery.
 
-- Never type seed words into a computer, phone, website, screenshot, or AI chat.
-- Never buy a used or third-party device.
-- Urgency is the red flag. Close the app and slow down.
-- No real company ever asks for your seed.
-
-## Homework
-
-Run the six steps on your own device with a trivial amount. In the next walkthrough, check "recovery tested" and "backup verified" **only if you actually did this.**
+**Complete when:** recovery was proved without exposing a secret or risking the only working copy of a meaningful balance.

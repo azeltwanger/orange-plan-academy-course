@@ -151,22 +151,11 @@ the cautious end, capacity does not cover even one $80,000 year; at the
 aggressive end, one year consumes two thirds of everything. There is no second
 year at either end.
 
-### F6 · The Level 2 access design
+### F6 ✅ RESOLVED BY REMOVING THE UNAUTHORIZED DEFAULT · Level 2 access design
 
-**What Austin said.** Nothing. The old 8.2 only ever described a passphrase
-split; it had no answer for a student on a single hardware wallet.
+The earlier course prescribed one universal Level 2 arrangement even though Austin had not dictated it. The professional research audit confirmed that a single-signature wallet cannot honestly be presented as dual control merely by naming an executor and heir.
 
-**What I wrote.** The whole Level 1 and Level 2 design: *the seed goes to your
-heir, backed up in more than one place, and your executor holds the process
-rather than the secret*, plus *at Level 1, verify the institution's death-claim
-procedure.*
-
-The **safety correction underneath it was category A** and stands: seed +
-passphrase is 2-of-2, and the old lesson's claim that half of it left the plan
-"intact" was false. But the *recommended design for Levels 1 and 2* is a
-planning recommendation I authored.
-
-**Austin decides:** is that the design you would give a Level 2 household?
+The prescription has been removed. Lesson 8.2 now teaches the two factual tests—one-person spend and one-loss recovery—and requires the household and state attorney to align legal authority, backup holders, and accepted trade-offs. It does not invent a new universal holder arrangement. If Austin later wants a preferred Level 2 default, that becomes new dictation rather than an editor's recommendation.
 
 ### F7 · Advanced gate conditions — surfaced for Austin approval
 

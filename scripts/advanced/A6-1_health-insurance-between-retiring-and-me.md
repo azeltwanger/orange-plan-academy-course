@@ -1,61 +1,101 @@
 TELEPROMPTER SCRIPT — segment A6.1
 A6.1 Health insurance between retiring and Medicare
-~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+RESEARCH AUDIT: 2026-08-25 · see research/PRIMARY-SOURCE-REGISTER.md
 ============================================================
 
-In today's lesson, we're going to cover the healthcare bridge, which is how you cover health coverage between your last day of work and Medicare.
+In today's lesson, we're going to price the healthcare bridge between leaving work and becoming eligible for Medicare.
 
-Under current law, Medicare starts at 65. So if you retire at 55, that's 10 years of coverage you have to buy yourself, because employer coverage ends when the job does. For most people retiring early, this is the largest single line inside the bridge years.
+This lesson applies when the paycheck stops before 65 and employer coverage stops with it.
 
-== THE SHORT-TERM OPTION: COBRA ==
+== THE BRIDGE IS A DATED EXPENSE ==
 
-Before the three real paths, there's one short-term option: COBRA. It keeps your exact employer plan for up to 18 months, and verify that window. You keep your plan, your doctors, and your network. The catch is that now you're paying the entire premium yourself, plus a small admin fee, where before your employer was paying most of it.
+If you retire at 60, the bridge is roughly five years.
 
-I'd call COBRA the bridge to the bridge. It's a first-year option while you sort out the real answer, not a decade solution. Expensive, but zero disruption.
+The plan needs the premium, expected out-of-pocket cost, and a stress allowance for each year. It also needs the end date, because Medicare changes the coverage structure at 65 even though healthcare costs do not disappear.
 
-== PATH 1: THE MARKETPLACE ==
+== OPTION ONE: EMPLOYER CONTINUATION ==
 
-The first real path is the ACA marketplace, and it's the default for most early retirees.
+COBRA or another continuation right may let you keep the employer plan for a limited period.
 
-The plans come in metal tiers, and those tiers are cost-sharing levels, not quality levels. Bronze has the lowest premium and the highest deductible, and it may pair with an HSA. Silver is the middle, and it's the benchmark tier that subsidies get calculated against, with extra cost-sharing help at lower incomes. Gold has a higher premium and lower out-of-pocket, and it wins if you actually use a lot of care.
+For many qualifying events, federal COBRA commonly lasts up to 18 months, with longer periods possible in some situations. The household may pay the full premium plus an administrative charge.
 
-Now the part that matters for this course: almost nobody who plans well pays sticker price. There's a subsidy, and it scales with your income. Lower income means a bigger credit and a lower net premium. Higher income means a smaller credit, until you're paying sticker at the top.
+The advantage is continuity: same network, deductible structure, and claims process.
 
-The income it looks at is your MAGI, your modified adjusted gross income. In the bridge years, your MAGI is partly a choice.
+The disadvantages are price and the short runway.
 
-If you fund your spending from cash, or from taxable dollars that are mostly basis, your income on paper is low, and the subsidy goes up. If you realize big gains, take traditional-account dollars, or do Roth conversions, your MAGI goes up, and the subsidy goes down.
+Use the actual election notice. Do not assume every employer, event, or state follows the same duration.
 
-Engineer a modest MAGI, and the exact same Silver plan's net premium can fall by hundreds or even thousands a month. The thresholds move every year, so verify them. But the principle holds: in the bridge years, your health premium is partly a tax-planning output.
+== OPTION TWO: THE MARKETPLACE ==
 
-And that creates a conflict, the same one from the tax module: one low-income window, multiple planning moves competing for it. A big Roth conversion raises your MAGI, which shrinks or kills your subsidy that same year. You can max the window for subsidies, or you can max it for conversions, but you can't do both. So a conversion decision is also a healthcare decision. Model both paths, pick deliberately, and revisit it every year. This is a flagship question to bring your CPA.
+Marketplace coverage is where tax planning and healthcare planning meet.
 
-== PATH 2: HEALTH-SHARING ==
+The net premium depends on household income, household size, the benchmark plan, location, and the law in the enrollment year.
 
-The second path is health-sharing, and this one I can speak to from experience, because my family uses CrowdHealth. Switching saved us about $1,000 a month compared to what we were looking at on the marketplace.
+For 2026, the enhanced pandemic-era subsidy rules no longer continue in the same form. That is exactly why the course should not memorize an old income cliff or an old premium example.
 
-You pay a monthly membership amount. When you have a health event, you cover a fixed member responsibility, which is a few hundred dollars. And the bills above that get crowdfunded by the membership, with cash-pay pricing negotiated up front.
+Use the current Marketplace estimate for the ZIP code and ages involved.
 
-Now, the trade-offs, and I want to be straight about these because I'm in this system. It's not insurance, which means there's no legal guarantee that any bill gets funded. Pre-existing conditions get limited, phased participation. It's cash-pay medicine, so there's no network and you're the payer. And it's typically not HSA-qualified, so joining usually means giving up new HSA contributions. Verify current law on that one.
+Also price the out-of-pocket side. Cost-sharing reductions apply only to eligible households enrolled in a Silver plan, and eligibility changes with income.
 
-The best fit, in my view, is a relatively healthy household that's comfortable managing bills directly and has a solid reserve behind them. If that's not you, the marketplace is the safer default. Either way, verify the current terms and pricing before you decide, because these programs change.
+== MAGI IS PART OF THE PREMIUM ==
 
-== THE DECISION FRAME ==
+A Roth conversion, large taxable gain, business income, or retirement distribution can raise Marketplace income and reduce a premium tax credit.
 
-The decision frame is simple: bridge years times the annual cost of each path, side by side. Then layer in the soft factors: your health status, your comfort with a non-guaranteed model, your HSA plans, and your provider preferences.
+That does not make the tax move wrong. It means the premium change is part of the tax cost.
 
-== IN THE PLAN ==
+The tax page and healthcare worksheet have to use the same income assumption. A conversion modeled without the premium effect is incomplete.
 
-Where does this live in your plan? Healthcare is a line inside your retirement spending number from the first lesson. And the bridge premium specifically is an expense with an end date at 65.
+== OPTION THREE: A HEALTH-SHARING ARRANGEMENT ==
 
-In the app, you enter it as an Expense Change life event with a duration. So if you retire at 60, the duration is 5 years. Heads up: there's no "end age" field, you set a duration.
+Austin's family uses CrowdHealth, and that personal experience can stay in the lesson as personal experience.
 
-One thing the app doesn't do: when you model a Roth conversion, it shows you the tax side in full, but it doesn't price what the higher MAGI does to your subsidy. That part is your worksheet.
+The category has to be described accurately.
 
-And one last marker for age 65: your income doesn't stop driving your healthcare cost once you're on Medicare, it just switches rules. The subsidies go away, and above certain income levels your Medicare premiums go up instead. Same idea, different mechanism, and it's another reason your income in these years is worth planning.
+A health-sharing arrangement is not health insurance. It generally does not create the same legal obligation to pay a claim, and the terms, exclusions, waiting periods, pre-existing-condition rules, member responsibility, and provider process vary by organization.
+
+Price the exact current membership and read the current member agreement. Do not generalize one program's rules to the category.
+
+HSA eligibility is a separate question. A sharing membership does not by itself create an HSA-eligible high-deductible health plan. Verify the actual coverage and current tax rules before making contributions.
+
+== OPTION FOUR: A SPOUSE OR OTHER ELIGIBLE PLAN ==
+
+A spouse's employer plan, retiree coverage, a union plan, or another special eligibility path can be the best bridge when it is available.
+
+The right comparison uses the incremental family premium, deductible, network, and employer contribution—not only the employee's headline premium.
+
+== THE COMPARISON ==
+
+For each real option, record:
+
+- monthly premium;
+- deductible and out-of-pocket maximum;
+- network and prescription fit;
+- expected routine cost;
+- worst plausible annual cost;
+- tax-credit or tax-deduction assumptions;
+- duration and the next enrollment trigger;
+- whether the arrangement is insurance and what payment is legally guaranteed.
+
+== AT 65 ==
+
+Medicare eligibility changes the bridge, but enrollment timing, employer coverage, HSA contributions, Medigap, Medicare Advantage, prescription coverage, and IRMAA can all matter.
+
+Do not wait until the final month to learn those rules. Put a Medicare review on the calendar before 65.
+
+== PUT IT IN THE PLAN ==
+
+Enter the best current estimate as a dated expense change from retirement until Medicare eligibility.
+
+Then run a high-cost scenario that uses the out-of-pocket maximum or another defensible stress year.
+
+The app may model the spending and tax result without reproducing every Marketplace or Medicare rule. The current quote and eligibility determination still come from the official enrollment source.
 
 == HOMEWORK ==
 
-Your homework for this lesson is to:
+1. Price every option actually available to the household.
+2. Use the same income assumption in the tax and healthcare comparison.
+3. Enter the base bridge cost and one stress case.
+4. Put the next enrollment and Medicare review dates on the calendar.
 
-1. Price your bridge three ways. COBRA, for the first year only. A Silver marketplace plan at the MAGI you'd actually run. And current health-sharing membership pricing.
-2. Put the three numbers side by side. Most people have never actually seen that comparison, and the comparison is the decision.
+You are done when the bridge has a current source, an end date, and a high-cost case—and when a health-sharing membership is never described as insurance.

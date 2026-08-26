@@ -1,44 +1,27 @@
 # Single points of failure, account hardening, and scams
 
-## Three shapes of a single point of failure
+Find the one person, provider, credential, device, backup, or location that can authorize everything or permanently stop recovery.
 
-1. The thing gets destroyed (device, backup).
-2. The thing is fine but the person is unavailable (only one head holds the process).
-3. You and your coin are fine and the custodian won't move it (exchange freeze).
+## Authentication order
 
-Three ordinary Tuesdays lose Bitcoin without a single hacker: a flood takes the device *and* the only backup in the same house; a six-week hospitalization freezes everything because nobody else knows anything; an exchange review locks the account.
+1. Passkey or hardware security key where supported, with a separate backup path.
+2. Authenticator app / TOTP when a phishing-resistant option is unavailable.
+3. SMS only when stronger options are not supported.
 
-## The nine-question hunt
+TOTP is stronger than SMS but is not phishing-resistant merely because it is an app. Review recovery codes, active sessions, withdrawal controls, and support reset procedures.
 
-Is there only one… device? seed backup? location? person who knows everything? weak exchange login? heir with no idea what exists? document contradicting your beneficiary forms? passphrase nobody can recover? place all multisig keys sit?
+Never reveal wallet backup, private key, passphrase, or PIN. Verify urgent messages through a known official channel.
 
-## The fix method
+## YOUR DECISION
 
-List your top three **by cost of loss** (not ease of fix) → fix the top one only → re-check → repeat. Every only-one becomes a backup, a second location, or a second person who knows the *process*, never the secrets.
+The largest remaining single point of failure and its dated fix.
 
-## Account hardening (in this order)
+## PUT IT IN ORANGE PLAN
 
-1. **Secure the email first**: it's the master key; every reset routes through it.
-2. Strong unique password everywhere.
-3. **App-based 2FA, not SMS** (SIM swap takes exchange + email in an afternoon); authenticator cloud backup off.
-4. Withdrawal delays + allowlists on; never click login links.
+Record checklist completion and the next action in Protect; keep credentials and locations off-app.
 
-One better: a **hardware security key**: bound to the real site's address, so phishing sites get no response. Cheapest upgrade in the lesson.
+## YOU ARE DONE WHEN
 
-## The scam rules
+The primary email and custodial accounts use the strongest practical authentication and the largest remaining failure has a dated fix.
 
-"Your account is hacked" call → hang up, contact the provider yourself. Guaranteed returns are a scam. **Urgency is the common thread**: every scam needs you to act before you think. When something feels urgent, close the app and slow down.
-
-## Your decision
-
-Your one most expensive only-one, and the fix with a date on it.
-
-## Put it in Orange Plan
-
-Protect → Security checklist for the hardening items, and Needs attention for the next one.
-
-## You are done when
-
-Your only-one list exists, the top item by cost of loss has a specific fix this week, and your account hardening is done: secured email, unique passwords, non-SMS two-factor, withdrawal delays on. One fix, not nine.
-
-Then watch the demo and the walkthrough below this video, where I set up a hardware wallet on screen and then we document your custody map in Orange Plan.
+*Research source: `research/PRIMARY-SOURCE-REGISTER.md`.*

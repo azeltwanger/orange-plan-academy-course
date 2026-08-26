@@ -2,6 +2,7 @@ TELEPROMPTER SCRIPT — segment A7.2
 A7.2 What self-custody actually asks of you
 ~3 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 SOURCE: MASTER-ADVANCED.md · preserves the existing custody-responsibility position
+RESEARCH AUDIT: 2026-08-25 · see research/PRIMARY-SOURCE-REGISTER.md
 ============================================================
 
 A client put this better than I ever have.
