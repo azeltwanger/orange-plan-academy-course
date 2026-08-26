@@ -71,9 +71,10 @@ def replace_in_script_and_master(script: str, master: str, old: str, new: str, l
         if count > 1:
             raise RuntimeError(f"{label} · master: expected one match in {master}, found {count}")
 
-    raise RuntimeError(
-        f"{label} · master: no exact, expanded-contraction, or terminal-colon variant was found in {master}"
-    )
+    # Some master lessons deliberately carry a table or richer reference version
+    # of the spoken paragraph. A separate master-specific patch handles those
+    # without flattening the reference layer into teleprompter prose.
+    CHANGE_LOG.append((master, label + " · master-specific patch required", ""))
 '''
 
 if helper_old not in text:
