@@ -1,0 +1,43 @@
+name: Apply professional research audit
+
+on:
+  push:
+    branches:
+      - course-professional-research-audit
+    paths:
+      - course-research-audit/RUN
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: course-professional-research-audit
+          fetch-depth: 0
+
+      - name: Apply researched corrections
+        run: python3 course-research-audit/apply.py
+
+      - name: Regenerate and verify
+        run: python3 course-research-audit/verify.py
+
+      - name: Remove one-time files
+        run: |
+          rm -rf course-research-audit
+          rm -f .github/workflows/apply-professional-research-audit.yml
+
+      - name: Commit research audit
+        run: |
+          git config user.name "OpenAI Course Research Audit"
+          git config user.email "noreply@openai.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Apply tax custody insurance and estate research audit"
+          git push origin HEAD:course-professional-research-audit
