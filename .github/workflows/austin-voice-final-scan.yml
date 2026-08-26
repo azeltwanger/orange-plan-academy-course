@@ -1,0 +1,33 @@
+name: Scan corrected course against Austin dictation
+
+on:
+  push:
+    branches:
+      - course-austin-voice-research-final
+    paths:
+      - voice-final/RUN-SCAN
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: course-austin-voice-research-final
+          fetch-depth: 0
+
+      - name: Run Austin voice scanner
+        run: |
+          git show origin/course-austin-voice-pass-2026-08-26:course-voice-pass/scan.py > /tmp/scan.py
+          python3 /tmp/scan.py
+
+      - name: Commit corrected-course audit
+        run: |
+          git config user.name "OpenAI Voice Audit"
+          git config user.email "noreply@openai.com"
+          git add AUSTIN-DICTATION-VOICE-AUDIT.md
+          git commit -m "Audit corrected course against Austin dictation"
+          git push origin HEAD:course-austin-voice-research-final
