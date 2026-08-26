@@ -28,6 +28,7 @@ jobs:
         run: |
           python3 voice-final/apply.py
           python3 voice-final/master_voice_patch.py
+          python3 voice-final/final_phrase_patch.py
 
       - name: Regenerate all dependent course layers
         run: |
