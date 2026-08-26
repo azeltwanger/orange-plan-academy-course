@@ -19,6 +19,9 @@ jobs:
           ref: course-austin-voice-research-final
           fetch-depth: 0
 
+      - name: Apply marker preflight
+        run: python3 voice-final/preflight.py
+
       - name: Apply Austin voice and F20 changes
         run: python3 voice-final/apply.py
 
