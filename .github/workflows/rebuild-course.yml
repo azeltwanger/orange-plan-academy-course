@@ -37,6 +37,14 @@ jobs:
               1,
           )
           path.write_text(text, encoding='utf-8')
+
+          walk = Path('course-rebuild/walkthroughs_b.py')
+          walk_text = walk.read_text(encoding='utf-8').replace(
+              'The Extra debt row is provisional until Week 4.',
+              'Extra debt is provisional until Week 4.',
+              1,
+          )
+          walk.write_text(walk_text, encoding='utf-8')
           PY
       - name: Apply rebuild
         run: python3 course-rebuild/apply.py
