@@ -20,6 +20,14 @@ jobs:
           fetch-depth: 0
       - name: Apply final consistency pass
         run: python3 final-course-touchup.py
+      - name: Normalize touched Markdown
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+          path = Path('PROFESSIONAL-RESEARCH-VERIFICATION.md')
+          lines = [line.rstrip() for line in path.read_text(encoding='utf-8').splitlines()]
+          path.write_text('\n'.join(lines).rstrip() + '\n', encoding='utf-8')
+          PY
       - name: Verify final course
         run: |
           python3 - <<'PY'
