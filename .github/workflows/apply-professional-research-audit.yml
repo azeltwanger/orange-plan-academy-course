@@ -19,6 +19,9 @@ jobs:
           ref: course-professional-research-audit
           fetch-depth: 0
 
+      - name: Apply parity preflight
+        run: python3 course-research-audit/preflight.py
+
       - name: Apply researched corrections
         run: python3 course-research-audit/apply.py
 
