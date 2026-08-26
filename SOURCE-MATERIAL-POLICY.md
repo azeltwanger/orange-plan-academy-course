@@ -120,6 +120,7 @@ Flagged in advance so no future pass imports them silently:
   support. Personal Bitcoin expertise is not required.
 - **A named will service as the normal starting point.**
 - **Collaborative custody as the default advanced setup.**
+- **A custody wealth ladder.** A larger balance does not automatically prescribe passphrase, multisig, or one increasingly advanced self-custody setup. Compare direct control, recovery, support, recourse, provider risk, and concentration.
 - **Every insurance category becoming core.** Identify the risk and route the
   relevant person; do not become an insurance curriculum.
 - **Specific self-custody thresholds** (e.g. a fixed exchange balance at which

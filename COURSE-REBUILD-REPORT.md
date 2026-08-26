@@ -14,6 +14,8 @@
 - Corrected Reserve target ownership: the app calculates basis × months.
 - Preserved deterministic onboarding and delayed the first full confidence result until Module 9.
 - Rebuilt and renumbered all Advanced lessons.
+- Reframed custody around risk trade-offs, direct-control preference, rough scale, and the One-Failure Test; removed the implicit exchange-to-multisig wealth ladder.
+- Added institutional custody to the main comparison and an optional intentional split across distinct failure domains.
 
 ## Known app/course mismatch handled deliberately
 

@@ -1,21 +1,34 @@
-# A7.1 · Passphrase and multisig
+# A7.1 · Advanced custody methods and remaining failures
 
 **Paste `00-STYLE.md` first, then this.**
 
 ## What it has to make obvious
-That a passphrase derives a different wallet, while multisig enforces a signing threshold and also needs recoverable wallet-policy data.
+That passphrase, multisig, collaborative custody, institutional custody, and an intentional split remove different failures. None removes every failure.
 
 ## The visual
-Two panels.
+Top row, three technical panels:
 
-**Left — passphrase:** one compatible mnemonic feeds the standard wallet and, with an exact passphrase, a different derived wallet. A typo branches to another valid but unintended wallet. Do not imply the standard wallet must be empty or is automatically a decoy.
+**Passphrase single-sig:** one compatible mnemonic feeds a standard wallet and, with the exact passphrase, a different derived wallet. A typo reaches another valid but unintended wallet.
 
-**Right — 2-of-3 multisig:** three signing keys surround a separate policy/descriptor card. Any two keys sign; one cannot. The policy card restores wallet structure and addresses but carries a clear **CANNOT SIGN** label.
+**2-of-3 multisig:** three signing keys surround a separate policy/descriptor card. Any two keys sign; one cannot. The policy card has a clear **CANNOT SIGN** label.
+
+**Institutional custody:** the institution controls keys and withdrawals; the household receives support and administration but accepts counterparty and access risk.
+
+Bottom row, a comparison table with two rows:
+
+- What one failure can no longer do
+- What can still fail
+
+A final strip shows an **intentional split** across distinct failure domains and the warning: **Every extra method must solve a named risk.**
 
 ## Labels and data
-Austin's operational rule: seven random words, stored and backed up separately—not a protocol minimum. Exact passphrase required. Signing keys 2 of 3. Policy/descriptor required for practical recovery and privacy-sensitive.
+Do not imply “None” under single point of failure. Use exact language:
 
-Never render an actual mnemonic, passphrase, key, descriptor, fingerprint, or address.
+- Passphrase: seed alone cannot spend the intended wallet; seed/passphrase recovery and family process can still fail.
+- Multisig: one lost key does not lose the wallet; policy data, key distribution, software, provider, and family process can still fail.
+- Institutional: personal key loss is transferred; provider, withdrawal, jurisdiction, identity, and family administration can still fail.
+
+Never render an actual mnemonic, passphrase, key, descriptor, fingerprint, address, provider name, or account number.
 
 ## Motion
-Left: exact passphrase reaches the intended wallet; a one-character change visibly reaches another valid wallet. Right: valid key pairs light in turn while the descriptor stays visible but never enters a signing slot.
+Each panel first removes one failure, then reveals the remaining failures. The intentional-split strip only appears after the trade-offs are visible.

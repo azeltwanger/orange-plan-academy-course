@@ -34,6 +34,10 @@ Austin established that Bitcoin can remain part of funding more than five years 
 
 The old slide deck supplies the base order and reasoning. The current 3.3 draft treats Extra Debt as provisional until Module 4. Austin can refine the exact exceptions while dictating; there is no structural blocker and no generated exception is represented as his prior wording.
 
+### Custody decision framework
+
+Austin established that custody is not a progression from institution to increasingly advanced self-custody. The current Module 7 and Advanced A7 drafts compare direct self-custody, collaborative multisig, institutional custody, and an intentional split by the risks each method removes and creates. The One-Failure Test now includes concentration in one custody method and one provider. These are Austin's planning directions, not line-by-line dictation, so the scripts remain labeled PRE-DICTATION FILMING DRAFT until he dictates or approves them.
+
 ## Every other teach lesson
 
 Every other core and Advanced teach lesson is a PRE-DICTATION FILMING DRAFT rebuilt from the decks, current app, research, and Austin's known planning positions. It is prepared for a fast chronological dictation pass. It is not Austin-authored until he dictates or explicitly approves it.

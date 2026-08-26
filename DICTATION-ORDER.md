@@ -30,3 +30,113 @@ Work chronologically. The generated prose is a clean starting draft, not a claim
 - **8.4 · Use insurance for the risks the current stack cannot carry** — Pre-dictation filming draft ready
 - **9.1 · Keep the plan current without rebuilding it every month** — Pre-dictation filming draft ready
 - **9.2 · Test decisions separately and read the finished plan like a planner** — Pre-dictation filming draft ready
+
+## Say-once items (already built that way, don't re-explain later)
+
+*Generated. Regenerating this file rewrites this section from the current course, so it cannot go stale again.*
+
+- **The AI** is taught in full in **0.2** and nowhere else. Later walkthroughs only name the button and say when it is worth running.
+- **The US-specific disclaimer** is said at the top of . 0 times, total, plus the breakdown in ?? of which modules are US-shaped. It used to run 12 times.
+- **The walkthrough hand-off** ("watch the walkthrough below this video") belongs ONLY on the last REQUIRED teach lesson of a module that has a capture: **1.3** · **2.3** · **3.4** · **4.1** · **5.2** · **6.3** · **7.4** · **8.4** · **9.2**.
+- **Optional lessons never carry the hand-off**, because a student who correctly skips one would never hear it: **2.4** Optional: decide how much college help you are actually funding.
+- **No capture, so no hand-off:** Module 0 (last teach 0.2). Do not record a hand-off line there until a sheet exists.
+
+---
+
+## The order
+
+### Module 0 — Start Here · 15 min
+
+| # | Lesson | min |
+|---|---|---|
+| 0.1 | How to use this course | 9.0 |
+| 0.2 | How to use Orange Plan AI | 5.7 |
+
+### Module 1 — Foundation · 22 min
+
+| # | Lesson | min |
+|---|---|---|
+| 1.1 | What to gather before you build the plan | 7.4 |
+| 1.2 | The three layers of a plan, and setting your assumptions | 9.9 |
+| 1.3 | What the onboarding retirement age actually means | 4.6 |
+| 1.4 | *WALKTHROUGH — Replace the onboarding estimate with real Foundation data* | — WALKTHROUGH, narrated off the sheet |
+
+### Module 2 — Cash Flow + Reserve · 29 min
+
+| # | Lesson | min |
+|---|---|---|
+| 2.1 | Find the surplus your plan can actually use | 6.8 |
+| 2.2 | Size your cash reserve in months of spending | 11.0 |
+| 2.3 | Add the future changes your plan should expect | 4.8 |
+| 2.4 | Optional: decide how much college help you are actually funding | 5.9 |
+| 2.5 | *WALKTHROUGH — Build cash flow, the Reserve, and expected life events* | — WALKTHROUGH, narrated off the sheet |
+
+### Module 3 — Allocation + Next-Dollar · 20 min
+
+| # | Lesson | min |
+|---|---|---|
+| 3.1 | Set the Bitcoin allocation you can actually hold | 4.9 |
+| 3.2 | Give each dollar a job before choosing the investment | 4.9 |
+| 3.3 | Build the contribution waterfall for every new dollar | 6.1 |
+| 3.4 | Put the right holdings inside the right accounts | 3.9 |
+| 3.5 | *WALKTHROUGH — Route the investable surplus* | — WALKTHROUGH, narrated off the sheet |
+
+### Module 4 — Debt Strategy · 7 min
+
+| # | Lesson | min |
+|---|---|---|
+| 4.1 | Decide what every debt should do | 6.9 |
+| 4.2 | *WALKTHROUGH — Give every debt a job and update the waterfall* | — WALKTHROUGH, narrated off the sheet |
+
+### Module 5 — Tax Strategy · 10 min
+
+| # | Lesson | min |
+|---|---|---|
+| 5.1 | Cost basis: know what you paid before you plan a sale | 4.5 |
+| 5.2 | Use the tax buckets and the low-income window on purpose | 5.9 |
+| 5.3 | *WALKTHROUGH — Reconcile basis and model the tax window* | — WALKTHROUGH, narrated off the sheet |
+
+### Module 6 — Retirement Income · 14 min
+
+| # | Lesson | min |
+|---|---|---|
+| 6.1 | Build the spending number, income floor, gap, and Bridge | 4.7 |
+| 6.2 | Choose the withdrawal order and the draw-and-refill rule | 4.9 |
+| 6.3 | Use plan confidence and guardrails to adjust spending | 4.6 |
+| 6.4 | *WALKTHROUGH — Build the retirement paycheck* | — WALKTHROUGH, narrated off the sheet |
+
+### Module 7 — Custody · 21 min
+
+| # | Lesson | min |
+|---|---|---|
+| 7.1 | Self-custody, professional custody, and when a split makes sense | 8.0 |
+| 7.2 | Set up a hardware wallet and prove the recovery | 4.2 |
+| 7.3 | Fix the single points of failure and harden the accounts | 6.1 |
+| 7.4 | DEMO — Hardware-wallet recovery and exchange hardening | 2.9 |
+| 7.5 | *WALKTHROUGH — Document the custody decision and current status without storing secrets* | — WALKTHROUGH, narrated off the sheet |
+
+### Module 8 — Estate + Inheritance · 18 min
+
+| # | Lesson | min |
+|---|---|---|
+| 8.1 | Choose who is in charge and put the legal baseline in place | 5.0 |
+| 8.2 | Align legal authority with the technical recovery path | 4.7 |
+| 8.3 | Write the heir letter and create the communication backstop | 4.0 |
+| 8.4 | Use insurance for the risks the current stack cannot carry | 4.7 |
+| 8.5 | *WALKTHROUGH — Build the family handoff in Protect* | — WALKTHROUGH, narrated off the sheet |
+
+### Module 9 — Finish, Test + Maintain · 9 min
+
+| # | Lesson | min |
+|---|---|---|
+| 9.1 | Keep the plan current without rebuilding it every month | 4.3 |
+| 9.2 | Test decisions separately and read the finished plan like a planner | 4.3 |
+| 9.3 | *WALKTHROUGH — Finish, test, review, and save the plan* | — WALKTHROUGH, narrated off the sheet |
+
+---
+
+**29 teach lessons · 165 min (2.7 h) of finished audio at 155 wpm.**
+
+Walkthroughs are not dictated. They are screen captures you narrate in
+your own words off the DO / SEE / ⚠ sheets, and they happen after the
+teach lessons for that module.

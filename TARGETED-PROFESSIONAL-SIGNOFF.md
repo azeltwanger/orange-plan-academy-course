@@ -50,8 +50,10 @@ There is no universal “custody professional” license. The evidence is theref
 3. Does the passphrase lesson correctly explain that every passphrase derives a valid wallet, exact entry is required, and no word count or construction method is presented as a universal protocol minimum?
 4. Does the multisig lesson correctly state the threshold, descriptor/policy requirement, and privacy implications without claiming that a descriptor can sign?
 5. Are the provider claims conditional on the actual key distribution, exported recovery data, compatible recovery software, and provider terms?
-6. Does the authentication order accurately distinguish phishing-resistant security keys/passkeys, TOTP, SMS, and recovery procedures?
-7. Does the UTXO lesson distinguish protocol dust from an economically uneconomic output and disclose consolidation’s privacy cost?
+6. Does the course correctly present institutional custody as a distinct trade-off rather than a beginner rung, including support, recourse, counterparty, withdrawal, jurisdiction, identity, and family-administration risks?
+7. Does the One-Failure Test correctly include concentration in one custody method, one institution, one provider, and correlated device/software dependencies without implying that every household needs a split?
+8. Does the authentication order accurately distinguish phishing-resistant security keys/passkeys, TOTP, SMS, and recovery procedures?
+9. Does the UTXO lesson distinguish protocol dust from an economically uneconomic output and disclose consolidation’s privacy cost?
 
 ### Operational proof for each filmed setup
 
