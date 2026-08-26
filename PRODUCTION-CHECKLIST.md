@@ -6,7 +6,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 <!-- STATUS:START -->
 
-> **Status: NOT CLEARED FOR FILMING — 2 filming blockers.**
+> **Status: NOT CLEARED FOR FILMING — 1 filming blocker.**
 >
 > The word FINAL is generated, not typed. It appears only when the
 > filming list below is empty. Each line is a marker found in the layer
@@ -14,7 +14,6 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 >
 > ### 🔴 CORE FILMING BLOCKERS
 >
-> - **2.3** (F20) — `MASTER-COURSE.md`
 > - **4.3** (F22) — `MASTER-COURSE.md` · `scripts/04-3_order-your-contributions-which-account-g.md`
 >
 > ### 📋 PROFESSIONAL REVIEW GATES — outstanding
@@ -24,14 +23,16 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 > named in it, and clearing a row means the review is signed off in
 > `LEGAL-REVIEW-PACKET.md` — not that it has been started.
 >
-> - **Module 5, and the advanced tax lessons (A5.1, A5.2, A5.3, A6.2)** — do not FILM until **Bitcoin-aware CPA** review is complete
->   · *basis at death and Roth conversion mechanics are the two blocking items; both drive arithmetic a student will act on*
-> - **Module 7 and advanced custody lessons A7.1–A7.4** — do not FILM until **custody professional** review is complete
->   · *the four levels, the wipe-and-restore standard, and the institutional death-claim path added 2026-08-08*
-> - **8.4** — do not FILM until **insurance professional** review is complete
->   · *the coverage-gap arithmetic is the one place the course produces an insurance number*
-> - **A8.1, and the executor materials in 8.1 / 8.5** — do not PUBLISH until **estate attorney** review is complete
->   · *already a publication blocker above; listed again here so the executor materials are not forgotten*
+> - **Current-year seeded examples in Module 5 and A5.1, A5.2, A5.3, A6.1, A6.2** — do not PUBLISH until **Bitcoin-aware CPA or enrolled agent** review is complete
+>   · *research is complete; signoff is limited to the seeded household, current-year interactions, incomplete-basis treatment, and state assumptions*
+> - **7.4 hardware-wallet demo and provider-specific recovery claims** — do not FILM until **custody technical peer plus exact device/provider operational test** review is complete
+>   · *concept scripts are research-complete; the footage must prove the exact firmware, backup standard, threshold, descriptor, and provider-independent recovery path it claims*
+> - **8.4 Coverage Audit and policy-category examples** — do not PUBLISH until **licensed insurance producer or fee-only insurance reviewer** review is complete
+>   · *research is complete; signoff is limited to policy mechanics, contract interpretation, and whether the first-pass worksheet could be mistaken for a recommendation*
+> - **A8.1 and state-specific executor/digital-asset materials** — do not PUBLISH until **estate attorney licensed in the governing state** review is complete
+>   · *general research is complete; state law controls drafting, RUFADAA consent, fiduciary-duty modification, probate, and trust funding*
+> - **Course terms, disclaimer, live-call and community boundaries** — do not PUBLISH until **qualified counsel** review is complete
+>   · *the delivery model must remain education rather than personalized legal, tax, insurance, or investment advice*
 >
 > ⚠ **The CPA review is the one to start now.** Module 5 is Wave 2, so it
 > looks distant — but it is the review most likely to produce an
@@ -79,7 +80,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ☐ 2.1 Find your surplus and your two spending numbers — 🎙 film (~11 min)
 ☐ 2.2 Size your cash reserve in months of spending — 🎙 film (~12 min)
-☐ 2.3 Fund a known future cost: the six questions — 🎙 film (~8 min)  🔴 BLOCKED — see status block above
+☐ 2.3 Fund a known future cost: the six questions — 🎙 film (~8 min)
 ☐ 2.4 Optional: college is a funding stack — 🎙 film (~8 min)
 ☐ 2.5 Walkthrough: build cash flow and reserve in Orange Plan — 🖥 capture
 ☐ Paste the Module 2 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
@@ -101,8 +102,8 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ## ☐ MODULE 5 — TAX STRATEGY   ·   WAVE 2
 
-☐ 5.1 Cost basis: what you paid, and how to reconstruct it — 🎙 film (~5 min)
-☐ 5.2 Taxable, tax-deferred, and Roth: bracket windows and state taxes — 🎙 film (~9 min)
+☐ 5.1 Cost basis: what you paid, and how to reconstruct it — 🎙 film (~6 min)
+☐ 5.2 Taxable, tax-deferred, and Roth: bracket windows and state taxes — 🎙 film (~6 min)
 ☐ 5.3 Walkthrough: model it in Orange Plan — 🖥 capture
 ☐ Paste the Module 5 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
 
@@ -116,19 +117,19 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ## ☐ MODULE 7 — CUSTODY   ·   WAVE 2
 
-☐ 7.1 Choose the custody setup that matches your stack and family — 🎙 film (~11 min)
-☐ 7.2 Set up a hardware wallet and test recovery — 🎙 film (~7 min)
-☐ 7.3 Single points of failure, account hardening, and scams — 🎙 film (~7 min)
+☐ 7.1 Choose the custody setup that matches your stack and family — 🎙 film (~6 min)
+☐ 7.2 Set up a hardware wallet and test recovery — 🎙 film (~5 min)
+☐ 7.3 Single points of failure, account hardening, and scams — 🎙 film (~4 min)
 ☐ 7.4 External demo: hardware wallet setup + exchange hardening — 🖥 capture
 ☐ 7.5 Walkthrough: document your custody map in Orange Plan — 🖥 capture
 ☐ Paste the Module 7 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
 
 ## ☐ MODULE 8 — ESTATE & INHERITANCE   ·   WAVE 2
 
-☐ 8.1 The executor, the four legal documents, and choosing an estate attorney — 🎙 film (~9 min)
-☐ 8.2 Split access: dual control and redundancy — 🎙 film (~10 min)
-☐ 8.3 The heir letter and the dead man's switch — 🎙 film (~7 min)
-☐ 8.4 Insurance: term life, disability, umbrella, and when to stop — 🎙 film (~8 min)
+☐ 8.1 The executor, the four legal documents, and choosing an estate attorney — 🎙 film (~7 min)
+☐ 8.2 Split access: dual control and redundancy — 🎙 film (~5 min)
+☐ 8.3 The heir letter and the dead man's switch — 🎙 film (~4 min)
+☐ 8.4 Insurance: term life, disability, umbrella, and when to stop — 🎙 film (~6 min)
 ☐ 8.5 Walkthrough: Protect, the heir letter, and the switch — 🖥 capture
 ☐ Paste the Module 8 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
 
@@ -144,16 +145,16 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 *Every Advanced lesson has a protected teleprompter script. Review the status block before recording or publishing a professionally gated lesson.*
 
 ☐ 1. A3.1 Borrow against Bitcoin without getting liquidated — 🎙 dictate/film (~17 min)
-☐ 2. A6.1 Health insurance between retiring and Medicare — 🎙 dictate/film (~6 min)
-☐ 3. A5.1 RMD risk and Roth conversions — 🎙 dictate/film (~10 min)
-☐ 4. A7.1 Advanced custody: passphrase, multisig, and collaborative — 🎙 dictate/film (~16 min)
-☐ 5. A6.2 Sell, borrow, or hold: funding a year of spending — 🎙 dictate/film (~8 min)
-☐ 6. A5.2 Harvesting losses and gains — 🎙 dictate/film (~8 min)
+☐ 2. A6.1 Health insurance between retiring and Medicare — 🎙 dictate/film (~5 min)
+☐ 3. A5.1 RMD risk and Roth conversions — 🎙 dictate/film (~7 min)
+☐ 4. A7.1 Advanced custody: passphrase, multisig, and collaborative — 🎙 dictate/film (~7 min)
+☐ 5. A6.2 Sell, borrow, or hold: funding a year of spending — 🎙 dictate/film (~6 min)
+☐ 6. A5.2 Harvesting losses and gains — 🎙 dictate/film (~5 min)
 ☐ 7. A7.2 What self-custody actually asks of you — 🎙 dictate/film (~3 min)
 ☐ 8. A1.1 How Orange Plan models Bitcoin: fat tails, correlations, floors and caps — 🎙 dictate/film (~3 min)
 ☐ 9. A3.2 The four ways debt can build wealth — 🎙 dictate/film (~9 min)
 ☐ 10. A4.1 The price context check: naming the emotion before a big move — 🎙 dictate/film (~3 min)
-☐ 11. A5.3 State taxes and relocation: what the lever is actually worth — 🎙 dictate/film (~4 min)
-☐ 12. A7.3 Concentration: one institution, one vendor, one firmware — 🎙 dictate/film (~5 min)
-☐ 13. A7.4 Wallet operations: UTXOs, dust, consolidation, and addresses — 🎙 dictate/film (~5 min)
-☐ 14. A8.1 Advanced: do you need a trust, and which one? — 🎙 dictate/film (~11 min)
+☐ 11. A5.3 State taxes and relocation: what the lever is actually worth — 🎙 dictate/film (~3 min)
+☐ 12. A7.3 Concentration: one institution, one vendor, one firmware — 🎙 dictate/film (~3 min)
+☐ 13. A7.4 Wallet operations: UTXOs, dust, consolidation, and addresses — 🎙 dictate/film (~4 min)
+☐ 14. A8.1 Advanced: do you need a trust, and which one? — 🎙 dictate/film (~8 min)

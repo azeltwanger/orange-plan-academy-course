@@ -151,22 +151,11 @@ the cautious end, capacity does not cover even one $80,000 year; at the
 aggressive end, one year consumes two thirds of everything. There is no second
 year at either end.
 
-### F6 · The Level 2 access design
+### F6 ✅ RESOLVED BY REMOVING THE UNAUTHORIZED DEFAULT · Level 2 access design
 
-**What Austin said.** Nothing. The old 8.2 only ever described a passphrase
-split; it had no answer for a student on a single hardware wallet.
+The earlier course prescribed one universal Level 2 arrangement even though Austin had not dictated it. The professional research audit confirmed that a single-signature wallet cannot honestly be presented as dual control merely by naming an executor and heir.
 
-**What I wrote.** The whole Level 1 and Level 2 design: *the seed goes to your
-heir, backed up in more than one place, and your executor holds the process
-rather than the secret*, plus *at Level 1, verify the institution's death-claim
-procedure.*
-
-The **safety correction underneath it was category A** and stands: seed +
-passphrase is 2-of-2, and the old lesson's claim that half of it left the plan
-"intact" was false. But the *recommended design for Levels 1 and 2* is a
-planning recommendation I authored.
-
-**Austin decides:** is that the design you would give a Level 2 household?
+The prescription has been removed. Lesson 8.2 now teaches the two factual tests—one-person spend and one-loss recovery—and requires the household and state attorney to align legal authority, backup holders, and accepted trade-offs. It does not invent a new universal holder arrangement. If Austin later wants a preferred Level 2 default, that becomes new dictation rather than an editor's recommendation.
 
 ### F7 · Advanced gate conditions — surfaced for Austin approval
 
@@ -411,23 +400,16 @@ Not a reason to reject the proposal. A condition on accepting it.
 Raised while repairing the layer disagreements found in the repo audit. F20 and
 F21 are new. F22 supersedes F12. F23 records a structural consequence.
 
-### F20 · The 7-to-10-year funding lane is unstated
+### F20 ✅ RESOLVED · Bitcoin can remain part of funding five years out
 
-The rebuilt 2.3 dictation names four lanes: **0–1 · 1–3 · 3–7 · 10+**. Nothing is
-said about **7 to 10 years**.
+**Austin's ruling, 2026-08-26:** *"yes Bitcoin can remain part of funding 5 years out."*
 
-The retired table closed that gap by running "no Bitcoin" all the way through ten
-years. The new dictation narrows the explicit no-Bitcoin statement to 3–7, and
-picks up again at 10+. So a cost seven and a half years out currently has no
-stated lane.
+The course now treats five years as a transition rather than an automatic all-cash cutoff. Bitcoin may remain one source in the funding plan. The amount the household has firmly committed to and cannot afford to miss becomes less dependent on Bitcoin as the date approaches. By one to two years out, the committed amount should not depend on Bitcoin cooperating.
 
-**Not resolved here.** Extending "no Bitcoin" to ten would be re-imposing the
-table Austin replaced; starting the Bitcoin schedule at seven would be loosening
-a rule he kept. Both are planning judgments. The master, the lesson text and the
-`2-3_cost-lanes` visual all render the lanes exactly as spoken, with the gap
-visible.
+No fixed Bitcoin percentage was invented. Bitcoin can remain in Legacy while planned sales build the protected amount in Bridge. This resolves the 7-to-10-year gap without relabeling Bitcoin as a Bridge holding.
 
-**One sentence at the mic settles it.** Austin: what happens between 7 and 10?
+Source: `source-material/2026-08-26-f20-and-voice-pass.md`.
+
 
 ### F21 · An inserted section in 1.3 — "Where the numbers come from"
 

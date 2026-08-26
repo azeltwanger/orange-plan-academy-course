@@ -1,68 +1,111 @@
 TELEPROMPTER SCRIPT — segment 5.1
 5.1 Cost basis: what you paid, and how to reconstruct it
-~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+RESEARCH AUDIT: 2026-08-25 · see research/PRIMARY-SOURCE-REGISTER.md
 ============================================================
 
-In today's lesson, we're going to cover cost basis, which is the one number that unlocks every other tax move in this module.
+In today's lesson, we're going to cover cost basis, which is the record that makes every other tax decision in this module usable.
 
-Quick note before we start: this module is US-specific. The brackets, the Roth accounts, the RMDs, all of it assumes the US tax code. If you're outside the US, the principles travel well, but check the specifics with a local tax professional.
-
-Real tax strategy works forward. You act in the years when your rate is low, and you act before the government forces the timing on you. And every single forward-looking move starts with one number being right.
-
-Cost basis is the record of what you paid. Without it, you can't prove a loss, you can't time a sale, and you can't tell whether a Roth conversion is cheap or expensive this year. Every other move in this module depends on having it. Get this one right and the rest of the module actually works on your numbers.
+Quick note before we start: this module is US-specific. The framework still helps outside the US, but the rules and reporting do not travel with it.
 
 == WHAT COST BASIS IS ==
 
-Cost basis is what you paid for each lot of Bitcoin. The price, the date, and the amount.
+Cost basis is generally what you paid to acquire an asset, adjusted for the costs and events that the tax rules tell you to include.
 
-Your gain is the sale price minus that basis, and your tax is built on the gain. So without basis, you can't prove that the gain was small.
+For a Bitcoin purchase, that normally means the dollars you paid for the Bitcoin plus acquisition costs that belong in basis. Your gain or loss is measured from the amount you receive when you dispose of it, after the adjustments that apply, minus the basis of the units you disposed of.
 
-And basis is tracked per lot, not for your whole stack. A lot is one purchase, the coins you bought on 1 day at one price. When you sell, you're selling out of a specific lot, and the tax follows that lot's price.
+Basis is tracked by units or lots, so one purchase can have a completely different cost and holding period from the next purchase.
 
 == SAME SALE, TWO DIFFERENT TAX BILLS ==
 
-Let's run it on the couple. They hold 1.75 Bitcoin, worth $175,000 at an illustrative $100,000 a coin. They paid $60,000 for it, split across two lots. Lot one is 1.5 Bitcoin on the hardware wallet, with a $45,000 basis, so $30,000 a coin. Lot two is a quarter Bitcoin on the exchange, with a $15,000 basis, so $60,000 a coin.
+Let's run it on the couple.
 
-Now say they sell a quarter Bitcoin. That's $25,000 of proceeds either way. But watch what happens to the gain.
+They hold 1.75 Bitcoin worth an illustrative $175,000. They acquired it in two lots.
 
-If it comes from the hardware wallet lot, the basis on that quarter coin is $7,500, so the gain is $17,500. If it comes from the exchange lot, the basis is $15,000, and the gain is only $10,000.
+Lot one is 1.5 Bitcoin with a total basis of $45,000, or $30,000 per coin.
 
-At the 15% long-term capital gains rate, that's about a $1,125 difference in tax, on a sale they were making anyway. Same stack, same sale price, different lot, different bill. That's why the records matter.
+Lot two is a quarter Bitcoin with a $15,000 basis, or $60,000 per coin.
+
+Now they sell a quarter Bitcoin for $25,000.
+
+If the identified units come from lot one, the basis is $7,500 and the gain is $17,500.
+
+If the identified units come from lot two, the basis is $15,000 and the gain is $10,000.
+
+The sale proceeds are the same, but the gain changes because the Bitcoin came from a different lot.
+
+That is why "I own 1.75 Bitcoin" is not enough information for a tax plan.
+
+== SPECIFIC IDENTIFICATION IS A RECORD, NOT A RETROSPECTIVE CHOICE ==
+
+For Bitcoin in self-custody, current IRS guidance lets you specifically identify the units you are disposing of when two things are true.
+
+First, no later than the date and time of the transaction, your books and records identify the particular units using enough information to distinguish them, such as acquisition date and time or acquisition price.
+
+Second, you keep records that establish those identified units were actually removed from that wallet.
+
+For Bitcoin held by a broker, the broker decides which identifiers it can accept. After 2025, the instruction generally has to reach the broker no later than the transaction, and you keep your own substantiation.
+
+So HIFO, FIFO, or any other lot rule is not a button you invent after the year is over. It is a documented instruction that has to satisfy the rule for the wallet or account involved.
+
+If specific identification fails, the current default is generally the earliest-acquired units of that asset in that wallet or account.
+
+== TRANSFERS DO NOT ERASE THE HISTORY ==
+
+Moving Bitcoin between wallets you own is generally not a taxable disposition, apart from any Bitcoin used to pay the transaction fee.
+
+But the tax history still has to travel with the Bitcoin.
+
+The blockchain proves that an output moved. It does not prove what you originally paid, whether the acquisition was a purchase, income, gift, inheritance, mining, or something else, or which tax lot you intended to dispose of later.
+
+That is why the useful record connects three things: the acquisition record, the wallet or account movement, and the final disposition.
+
+== RECONSTRUCTING WHAT IS MISSING ==
+
+Start with the records that were created when the transactions happened.
+
+Download every exchange and brokerage export you can still access. Pull confirmations, old tax files, bank or card statements, email receipts, and wallet transaction history. Match withdrawals and deposits between your own accounts so a transfer is not mistaken for a sale or a new purchase.
+
+Then separate every unresolved item into one of three states.
+
+**Verified.** The source records support the acquisition date, quantity, and basis.
+
+**Estimated for planning.** You have evidence that narrows the range, but not enough to claim the number as settled. Orange Plan can use it for a projection as long as the uncertainty is visible.
+
+**Unproven.** You cannot substantiate a basis yet.
+
+The course used to say the IRS standard was simply "reasonable and documented." That was too broad. Documentation helps, but it does not create a general safe harbor that lets you make up a basis the return can claim.
+
+If a meaningful lot remains unproven, work through the evidence with a tax professional before filing a disposition from it.
+
+== ZERO BASIS IS A STRESS TEST, NOT AN AUTOMATIC LEGAL ANSWER ==
+
+For planning, a zero-basis assumption can show the conservative tax exposure if no basis is allowed.
+
+But do not confuse that stress test with a legal conclusion that the asset definitely has zero basis. And do not invent a number merely to avoid zero.
+
+So in the plan, label what is known, what is estimated, and what is still unproven.
 
 == WHAT CLEAN BASIS UNLOCKS ==
 
-When your basis is clean, four moves become available to you.
+Once the records are clean, you can:
 
-You can time your sales, choosing low-basis or high-basis lots on purpose. You can harvest losses, and harvesting just means selling something that's down on purpose, so the loss counts against your taxes. You can only do it if you can prove the loss, and proving it takes records. You can harvest gains, resetting your basis higher in a low-tax year. And you can model the tax, so you know the real bill before you act instead of after.
-
-Without clean basis, all four of those are guesswork.
-
-== REBUILDING WHAT'S MISSING ==
-
-Now, the reality: almost nobody has clean records. Exchanges shut down, coins move between wallets, and your oldest buys are older than any statement you can still download. I've been through this myself, and the path is the same every time.
-
-First, pull every record that still exists, from every exchange and every wallet.
-
-Then, for whatever's left, you build a reasonable estimate. You narrow the purchase window down as tightly as you honestly can, you use the price range from that window, and you write down how you got there. You're converting a blank into a number you can defend.
-
-The standard the IRS actually holds you to is "reasonable and documented," not "perfect." Your best estimate, as long as it's reasonable and you wrote down your method, is good.
-
-== NEVER LEAVE BASIS BLANK ==
-
-So the one hard rule of this lesson: never leave basis blank.
-
-Because if there's no basis at all, the gain gets treated as the entire sale price.
-
-Go back to that quarter-Bitcoin sale. With records, the real gain was $10,000. With a blank, the gain becomes the full $25,000, because the whole sale price counts as profit. At 15%, a $1,500 bill just turned into $3,750. That's paying $2,250 extra purely for a missing record.
+- identify units before a sale;
+- see whether a loss actually exists;
+- model gain harvesting in a low-tax year;
+- compare selling, holding, gifting, or borrowing without guessing at the tax;
+- reconcile the app with Form 1099-DA, Form 8949, and your return.
 
 == YOUR DECISION ==
 
-How far back you can reconstruct, and what you'll do about anything you can't.
+Which lots are verified, which are planning estimates, and which are still unproven.
 
 == PUT IT IN ORANGE PLAN ==
 
-Strategy → Tax → cost basis. Enter what you have, and flag the lots you can't prove.
+Dashboard → Update Transactions for the history, then Strategy → Tax to review basis and modeled sales.
+
+Use the file, AI-assisted, or manual path that matches the records you have. A linked source appears only when the app has a supported investment source.
 
 == YOU ARE DONE WHEN ==
 
-Every lot has a basis you could show someone, or is flagged as unproven. No records means a basis of zero, which means tax on the entire sale price, so an unproven lot is a real number in your plan rather than a gap.
+Every material lot is labeled honestly, the available evidence is saved outside the app, and an unproven lot is visible as an unresolved tax item instead of being silently assigned a number.

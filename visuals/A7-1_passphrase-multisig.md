@@ -3,13 +3,19 @@
 **Paste `00-STYLE.md` first, then this.**
 
 ## What it has to make obvious
-That a passphrase makes a different wallet, and 2-of-3 removes any single holder.
+That a passphrase derives a different wallet, while multisig enforces a signing threshold and also needs recoverable wallet-policy data.
 
 ## The visual
-Two panels. Left: one seed feeding two different wallets, with and without a passphrase, the passphrase wallet holding the funds and the bare seed wallet empty. Right: a 2-of-3 quorum with three keyholders, showing that any two spend and any one cannot.
+Two panels.
+
+**Left — passphrase:** one compatible mnemonic feeds the standard wallet and, with an exact passphrase, a different derived wallet. A typo branches to another valid but unintended wallet. Do not imply the standard wallet must be empty or is automatically a decoy.
+
+**Right — 2-of-3 multisig:** three signing keys surround a separate policy/descriptor card. Any two keys sign; one cannot. The policy card restores wallet structure and addresses but carries a clear **CANNOT SIGN** label.
 
 ## Labels and data
-7 random words as the standard. Never render an actual word list.
+Austin's operational rule: seven random words, stored and backed up separately—not a protocol minimum. Exact passphrase required. Signing keys 2 of 3. Policy/descriptor required for practical recovery and privacy-sensitive.
+
+Never render an actual mnemonic, passphrase, key, descriptor, fingerprint, or address.
 
 ## Motion
-Left: the passphrase attaches and the funds visibly move to the second wallet. Right: pairs of keys light in turn to show every valid quorum.
+Left: exact passphrase reaches the intended wallet; a one-character change visibly reaches another valid wallet. Right: valid key pairs light in turn while the descriptor stays visible but never enters a signing slot.

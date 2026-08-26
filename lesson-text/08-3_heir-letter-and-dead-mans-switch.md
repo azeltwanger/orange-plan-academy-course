@@ -1,66 +1,27 @@
 # The heir letter and the dead man's switch
 
-The first thing your family reads on the day they need the plan: who to call, in what order, what exists, where the paperwork is, and what *not* to do in the first week. Written for people who won't be thinking clearly: instructions to follow, not decisions to make.
+The heir letter, custody map, executor packet, and dead man's switch are operational tools. They do not appoint anyone, create legal authority, change a beneficiary, or override a will, trust, provider form, plan document, or court order.
 
-## The rule
+## Letter content
 
-**The letter carries no secrets. Not one, ever.** A letter can be found, copied, photographed. No seeds, keys, passwords, PINs, recovery steps, or config locations. Someone who steals it learns your attorney's name and gets nothing they can spend, which is exactly why it can sit in a drawer or an email safely.
+Include who to call, where the legal and no-secrets process documents live, role names, order of operations, and what not to do.
 
-## The first two lines are the whole thing
+Never include wallet backups, private keys, passphrases, PINs, passwords, full account numbers, exact secret locations, or enough recovery detail for any reader to bypass the intended control structure.
 
-> "Call your brother first. He has the other half, and he's expecting this call."
->
-> "Don't move any Bitcoin, and don't talk to anyone who contacts you about it. Nobody legitimate will reach out to you first."
+## Switch
 
-A call order and a stop sign are the two things a grieving person can't invent on the spot. The people who target new widows and widowers show up fast and look helpful; slowing down a week costs nothing.
+Deliver the letter or document-location instructions only. Tell recipients in advance, test the message, and keep a manual backup process. The message does not create account access; provider and legal procedures still apply.
 
-## The call order
+## YOUR DECISION
 
-1. The executor (holds the other piece)
-2. The attorney (opens the legal side)
-3. The provider / technical helper (once the executor is in the room)
+The first contact, first prohibited action, recipients, and backup delivery method.
 
-Nobody acts alone, including your spouse.
+## PUT IT IN ORANGE PLAN
 
-## The rest
+Draft and export the heir letter in Protect; arm or document the delivery process without storing secrets.
 
-What accounts and assets exist · where documents are · don't rush · don't trust unsolicited help · which provider to contact. The app's heir-letter tool enforces the no-secrets rule by design. The companion **Executor Packet** carries the same information in operational form for the person running the process.
+## YOU ARE DONE WHEN
 
-Everything else in this module is passive: documents in a file, a letter in a drawer, a split that works *once someone starts*. Starting depends on a person remembering, on the worst day of their life, that a plan exists. Heirs are unmotivated learners; a plan whose first step depends on memory has a missing step.
+The family recognizes the test message, can find the process documents, and still possesses no secret merely because the letter exists.
 
-A dead man's switch is a scheduled check-in. Stop confirming, and the system sends your heir letter to the people you named, automatically.
-
-## The failure it covers
-
-The split is set, the letter written, and he dies out of town. His wife knows there's Bitcoin but not that her brother holds half the access; the brother doesn't know he's supposed to act; the letter sits unopened. Nothing lost, nothing stolen, eleven weeks of nothing, because nobody knew to start.
-
-## How it works
-
-1. You check in (90 days by default; takes seconds).
-2. You miss the window. The system waits, follows up, then triggers.
-3. The heir letter goes out to the people you named.
-4. Everyone holds the same instructions on the same day.
-
-## What it is and isn't
-
-- A backup **communication** layer. It buys the family time and direction.
-- It carries **no secrets**: it delivers instructions only.
-- It replaces nothing: documents and the split still do the real work; the switch makes sure the work begins.
-
-**Why 90 days:** long enough that a vacation or hospital stay won't false-trigger; short enough that the family is never dark for a year.
-
-## In the app
-
-Built into Orange Plan, 90-day default. Requires **Cloud mode**: a local-only setup can't send email on your behalf while you're gone.
-
-## Your decision
-
-Whether to arm the switch, and who gets contacted.
-
-## Put it in Orange Plan
-
-Protect → Needs attention → Heir letter, then the Dead man's switch row.
-
-## You are done when
-
-The first two lines of your letter are written in your own words, the PDF is saved somewhere separate from your seeds and devices, and the switch is armed with recipients who have been told in advance that it exists.
+*Research source: `research/PRIMARY-SOURCE-REGISTER.md`.*

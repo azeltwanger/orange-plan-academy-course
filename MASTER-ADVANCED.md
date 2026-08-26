@@ -519,7 +519,7 @@ You are done when you can defend the move from the plan even if the last three m
 # Advanced Module 5 — Tax Strategies
 
 ## A5.1 RMD risk and Roth conversions
-*`TEACH` · 954 words · ~7 min*
+*`TEACH` · ~1,095 words · ~7 min*
 
 > **Gate.** Watch this only when all three are true on your own Tax page: you hold meaningful pre-tax retirement assets, you expect lower-income years before forced distributions begin, and you have a way to pay the conversion tax that is not the converted money. All three, not two. If Orange Plan does not show that combination, your core tax plan is complete without it.
 
@@ -536,103 +536,129 @@ You are done when you can defend the move from the plan even if the last three m
 
 ---
 
-The buckets-and-brackets lesson opened the low-bracket window. This lesson covers why filling it matters and the main tool for filling it.
+In today's lesson, we're going to cover why a large traditional account can create forced taxable income later, and how Roth conversions can reduce that risk during the years when you control more of the income.
 
 ### What an RMD is
 
-RMD stands for **Required Minimum Distribution**. Money the government forces you to take out of traditional retirement accounts once you reach a certain age. Currently 73 (verify in the year it applies).
+RMD stands for required minimum distribution.
 
-The amount is: **Account balance ÷ IRS life-expectancy divisor**
+It is the minimum amount the tax rules require an owner or beneficiary to distribute from certain retirement accounts.
 
-The divisor shrinks every year you age, so the forced withdrawal climbs. Every dollar is taxed as ordinary income.
+For an owner, the yearly amount is generally the prior December 31 balance divided by the life-expectancy factor that applies to that person.
 
-### The couple's future RMD
+The applicable starting age depends on the birth cohort.
 
-Contributions: $12,000/yr plus employer match (50% up to 6% of $150k salary = $4,500). Total $16,500/yr going in.
+Under current law, age 73 applies to the intermediate cohort, and age 75 applies to people who attain age 74 after 2032. The couple in this course is 45 now, so their current-law planning age is 75.
 
-- **Age 60:** ~$400,000 balance after 15 more years at a 7% stock assumption.
-- **Age 73:** ~$1,000,000 after another 13 years compounding, without new contributions.
-- **First RMD:** $1,000,000 ÷ 26.5 ≈ **$38,000**, as ordinary income.
+Roth IRAs and designated Roth plan accounts do not require lifetime distributions from the original owner under current law. Beneficiaries still have distribution rules.
 
-### The RMD stacks with Social Security
+### Why the account can become a problem
 
-At 73: $38,000 (RMD) + $51,600 (Social Security) = **$90,000** of ordinary income the couple didn't ask for. And it climbs every year, because the divisor shrinks.
+Traditional retirement money is not bad money.
 
-That can push you over the IRMAA (Income-Related Monthly Adjustment Amount) thresholds and trigger higher Medicare premiums. A tax problem becomes a health-premium problem.
+The problem is a mismatch between the deduction you received while contributing and the forced income the account may create later.
 
-If they never spend it, their heirs inherit the tax problem with the account.
+The couple contributes $16,500 per year including the employer match in the illustration.
 
-### Why Bitcoin holders should care more
+At a flat 7% illustration for 15 years, that grows to roughly $415,000 around age 60. Left for another 15 years at the same flat rate, it is roughly $1.14 million around age 75.
 
-Take the same contributions, but with Bitcoin exposure inside the traditional account at 20% growth:
+Using the current age-75 Uniform Lifetime factor of 24.6 as an illustration, the first required distribution would be roughly $46,000 before adding Social Security or any other income.
 
-| Age | Balance | RMD |
-|---|---|---|
-| 60 | ~$1.2M | — |
-| 73 | ~$12.5M | **~$470,000/yr** of ordinary income |
+Those are illustration assumptions, not a projection promise. The app should calculate the actual roadmap from the saved account, return, and tax assumptions.
 
-At whatever rate the government sets in that decade.
+### Why bitcoin exposure makes the sensitivity larger
 
-### The fix: shrink the bucket early
+Now run an intentionally extreme sensitivity check.
 
-Shrink the tax-deferred bucket on your terms, in your window. The tool is a **Roth conversion**.
+A flat 20% return on the same annual contributions would produce roughly $1.19 million after 15 years, then more than $18 million after another 15 years if that flat return continued.
 
-**What a Roth conversion is.** Move money from a traditional account into a Roth account in a year you choose. Pay ordinary income tax on the amount you move, now. In exchange, that money never faces an RMD again, and grows tax-free from that day forward.
+At the same illustrative divisor, the forced distribution would be hundreds of thousands of dollars.
 
-You're trading a low rate you chose (now) for a high rate you'd have been forced into (later). And you're shrinking the balance the RMD divisor gets applied to.
+That is not the return assumption I would use as the baseline. It is a sensitivity example showing why a fast-growing asset inside a traditional account deserves attention before the forced-distribution years arrive.
 
-### Fill the bracket, don't spill
+### What a roth conversion does
 
-- Look at your room from the buckets-and-brackets lesson.
-- Convert just enough to reach the top of your current low bracket.
-- Stop before you spill. Every dollar past the line gets the next bracket's rate.
+A Roth conversion moves money from a traditional account into Roth.
 
-Every converted dollar stays at the rate you chose.
+The taxable amount generally enters ordinary income in the conversion year. The converted amount then sits in the Roth bucket, where qualified distributions can be tax-free and the original owner has no lifetime RMD under current law.
 
-### Running the conversion on the couple
+The conversion is not free. You are choosing when to recognize the income.
 
-At 60 with basically no earned income:
+The planning opportunity appears when today's all-in cost is lower than the cost you reasonably expect later, or when reducing the traditional balance creates flexibility the household values.
 
-| Step | Amount |
-|---|---|
-| Convert | ~$100,000 |
-| Minus standard deduction (~$31,400) | -$31,400 |
-| Equals taxable | ~$68,000 |
-| At the 12% bracket, tax owed | **~$7,700** |
+### The RMD itself cannot be converted
 
-Verify deductions and brackets in the year you convert.
+Once an RMD is due for a year, the required amount has to come out. That required amount is not eligible to be converted.
 
-Repeat four years running (60-64) and the $400,000 balance is gone before it becomes a million. Total cost: ~$30,000 in tax, on their schedule, to retire a bill heading for a much higher rate.
+A conversion can happen in the same year after the RMD is satisfied, but the required distribution is already taxable income and already fills part of the year's room.
 
-### Pay the tax from outside the Roth
+That is one reason the years before RMDs can be valuable.
 
-If you convert $30,000 and the tax bill is $3,600, pull that $3,600 from taxable Bitcoin or checking, not from the Roth itself.
+### Lower price, more units for the same dollar conversion
 
-Pay it from the Roth and only ~$26,400 lands in tax-free space. Pay it from outside and the full $30,000 keeps compounding tax-free.
+The conversion amount is measured in dollars on the conversion date.
 
-### The conflict to flag
+If Bitcoin is held inside the traditional account, a lower Bitcoin price means the same dollar conversion can move more Bitcoin units into Roth.
 
-The buckets-and-brackets lesson showed ~$68,000 of empty 0% capital-gains room in that same window. Conversion income is ordinary income. It stacks underneath your capital gains. Filling the bracket with a conversion pushes some of those gains out of 0% into 15%.
+That can be useful, but it is not a reason to time the market with taxes. The tax bill, available cash, future growth assumption, and household risk all still matter.
 
-The two moves compete for the same window, in the same years. **Model them together.**
+### Do not stop at the bracket
 
-### Conversions aren't the only tool
+The course used to frame the decision as filling a bracket without spilling into the next one.
 
-Plain withdrawals work too. Take money out of tax-deferred before RMD age, fill a bracket with it, spend it as income. Same bucket-shrinking effect, no conversion needed.
+I think that leaves out too many of the other costs that can change with the conversion.
 
-Choice between converting and withdrawing comes down to how much money you have and how much time before RMDs start.
+A conversion can also affect Marketplace credits, the taxable portion of Social Security, Medicare IRMAA, NIIT, capital-gain room, state tax, deductions, and credits.
 
-For completeness: 72(t) allows penalty-free early access on a rigid schedule. Real, but strictly professional-review territory.
+So model the all-in marginal cost of the next conversion dollar.
+
+There may be a point where the federal bracket has not changed, but the healthcare or state-tax cost makes the next dollar unattractive.
+
+### Paying the tax
+
+When possible, paying the conversion tax from taxable cash or another outside source keeps the full converted amount in Roth.
+
+That is generally cleaner than withholding part of the conversion, especially before age 59½, when an amount not converted may also be treated as an early distribution unless an exception applies.
+
+But "always pay from outside" is not a universal command. Liquidity, reserve needs, tax basis, and the rest of the plan still come first.
+
+### The beneficiary rule is not one sentence
+
+The old script said the children would simply have 10 years to empty an inherited traditional account.
+
+Many nonspouse designated beneficiaries do face a 10-year outside deadline. But eligible designated beneficiaries have exceptions, and annual distribution requirements within the 10 years can depend on when the owner died and whether RMDs had started.
+
+So traditional money can leave heirs with a shorter distribution window and a larger tax problem. The exact schedule depends on the current beneficiary rules and the family's tax situation, so I would verify this part with the CPA.
+
+### The decision frame
+
+A conversion is attractive when:
+
+- the household is in a genuinely lower all-in marginal-cost year;
+- taxable liquidity can cover the tax without weakening the reserve;
+- the traditional balance is on track to create forced income later;
+- the household values more Roth flexibility;
+- the plan remains strong after paying the tax.
+
+A conversion is less attractive when:
+
+- it destroys Marketplace credits or triggers another threshold;
+- the tax has to come from money the household needs soon;
+- the later rate is likely to be lower;
+- the move is being sized from a bracket table without the rest of the return.
 
 ### Homework
 
-- Estimate your tax-deferred balance at 73.
-- Divide by ~26 for a first-year RMD estimate. Add Social Security.
-- If the total pushes you into a higher bracket than your bridge years, a Roth conversion schedule is worth modeling.
-- Build the model. Bring it to your CPA.
+1. Open the Tax roadmap and identify the first low-income year before the applicable RMD age.
+2. Model three conversion sizes, including zero.
+3. Read federal tax, state tax, healthcare or Medicare effects, capital-gain room, and ending account balances together.
+4. Take the result to the tax professional as a proposed range, not a filing instruction.
+
+You are done when you know which years deserve an annual conversion review and what all-in cost would make you stop.
+
 
 ## A5.2 Harvesting losses and gains
-*`TEACH` · 1,156 words · ~8 min*
+*`TEACH` · ~812 words · ~5 min*
 
 > **Gate.** Watch this if your Tax page shows either harvestable losses or unused 0% gains room this year. If it shows neither, there is nothing to harvest and your tax plan is complete.
 
@@ -651,144 +677,113 @@ For completeness: 72(t) allows penalty-free early access on a rigid schedule. Re
 
 ---
 
-Everything so far has been about acting in low-tax years. This lesson adds a second trigger: acting when the price moves.
+In today's lesson, we're going to cover two moves that sound opposite but solve the same problem.
 
-Because Bitcoin moves so much, you get chances to lock in tax outcomes that stocks rarely give you.
+Loss harvesting records a loss when the tax value of the loss is useful.
 
-Two tools go in opposite directions:
+Gain harvesting records a gain when the tax cost is low enough to justify a higher basis.
 
-- **Harvest losses** at the dips.
-- **Harvest gains** when your bracket is low.
+Neither move begins with the market. Both begin with your records and the whole tax return.
 
-### What harvesting means
+### Loss harvesting
 
-Both tools work the same way:
+A capital loss first offsets capital gains.
 
-- Sell a lot to make the gain or loss real for tax purposes.
-- Buy back so what you own barely changes.
+If total capital losses still exceed gains, an individual can generally deduct the current annual limit against income and carry the unused loss into future years.
 
-That lets you choose the year the tax result lands in, without changing your position.
+The value of the loss depends on what it offsets.
 
-### Tool 1: Harvest losses (Bitcoin is down)
+A loss used against a high-rate short-term gain can be more valuable than a loss carried for years and eventually used against a lower-rate long-term gain.
 
-Sell a lot sitting below your basis and capture the loss.
+So do not multiply every harvested loss by one marginal tax rate and call that the savings.
 
-**The couple's lots after a 60% fall.** Bitcoin fell 77% in 2022, so a 60% fall is a normal cycle. Their $175,000 stack is now worth $70,000.
+### The lot has to be identified
 
-| Lot | Basis | Basis/coin | Value after 60% fall | Harvest room |
-|---|---|---|---|---|
-| Hardware (1.5 BTC) | $45,000 | $30,000 | Still profitable | None |
-| Exchange (0.25 BTC) | $15,000 | $60,000 | ~$10,000 | **$5,000 loss** |
+Suppose the couple owns one low-basis Bitcoin lot and one recent high-basis lot.
 
-Sell the 0.25 BTC for ~$10,000, buy it right back for $10,000. The $5,000 loss is real for tax purposes.
+If the recent lot is below its acquisition price, they may have a loss to realize while keeping the older low-basis lot.
 
-**How losses get used.** Losses offset in this order:
+But the lot does not become the tax lot because the app calls it HIFO.
 
-- Capital gains first, dollar for dollar.
-- Ordinary income next, currently up to $3,000/yr (verify).
-- The rest carries forward.
+For self-custody, the particular units have to be identified in the books and records no later than the transaction, and the records have to establish those units left the wallet.
 
-Running the couple's $5,000 loss:
+For broker-held Bitcoin after 2025, the broker has to receive an instruction using identifiers it accepts no later than the transaction, and the taxpayer keeps substantiation.
 
-| Step | Applied | Value |
-|---|---|---|
-| Offset gains | $0 (none this year) | $0 |
-| Offset ordinary income | $3,000 at 22% | ~$660 |
-| Carries forward | $2,000 | Future years |
+If the identification fails, the current default generally uses the earliest-acquired units in that wallet or account.
 
-The trade-off: when they buy that lot back, basis drops from $15,000 to $10,000. That takes the deduction now and grows the gain reported later. Usually worth it.
+That can turn a planned loss into an unexpected gain.
 
-### Choosing which lot to sell: FIFO vs HIFO
+### Wash-sale treatment
 
-Say you have 8 lots of 0.5 BTC each from 2023-2025, with Bitcoin now at $70,000. You want to sell 1 BTC.
+Under current federal law, the wash-sale rule in section 1091 applies to stock or securities.
 
-| # | Price paid | BTC | Basis | Gain/loss at $70k |
-|---|---|---|---|---|
-| 1 | $20,000 | 0.5 | $10,000 | +$25,000 |
-| 2 | $30,000 | 0.5 | $15,000 | +$20,000 |
-| 3 | $40,000 | 0.5 | $20,000 | +$15,000 |
-| 4 | $60,000 | 0.5 | $30,000 | +$5,000 |
-| 5 | $65,000 | 0.5 | $32,500 | +$2,500 |
-| 6 | $90,000 | 0.5 | $45,000 | -$10,000 |
-| 7 | $100,000 | 0.5 | $50,000 | -$15,000 |
-| 8 | $105,000 | 0.5 | $52,500 | -$17,500 |
+Spot Bitcoin is generally treated as property rather than stock or a security for this rule, so selling spot Bitcoin at a loss and repurchasing it has generally not triggered the stock wash-sale rule.
 
-**FIFO (first-in, first-out).** The exchange default. Sells lots 1 and 2.
+That statement is deliberately narrow.
 
-- Basis $25,000, sale $70,000, gain **$45,000**.
-- Tax at 15% long-term: **$6,750**.
+A tokenized stock or another digital asset that is itself a stock or security can be covered. Congress can change the law. State treatment can differ. Verify the rule in the year you act.
 
-**HIFO (highest-in, first-out).** Selected at time of sale. Sells lots 8 and 7.
+### The real cost of the round trip
 
-- Basis $102,500, sale $70,000, loss **$32,500**.
-- Tax on the sale: **$0**.
-- Plus a $32,500 loss you can now use.
+The tax value is only one side.
 
-Same sale, same coins, $6,750 vs $0. The exchange picks FIFO by default. HIFO is a choice you make at the time of sale, and it needs the wallet-by-wallet cost basis you built in the cost-basis lesson to defend.
+The other side includes:
 
-> ⚠ **HIFO guardrails.** Skip any lot held less than 12 months (short-term rates are much higher). Under 2025 wallet-reporting rules, the coins you sell must come from the wallet those specific lots live in.
+- trading spread and fees;
+- network fees;
+- price movement between sale and repurchase;
+- recordkeeping and lot-identification risk;
+- a higher future gain because the repurchased units have a new basis;
+- the effect on holding period.
 
-### The fee check: is the harvest worth it?
+A harvest is useful when the present value of the tax benefit is worth more than those costs and the future tax trade-off.
 
-Before you sell-and-rebuy, sanity check:
+### Gain harvesting
 
-**Loss × your tax rate** vs **trade amount × fee rate × 2** (both sides of the trade)
+Gain harvesting does the reverse.
 
-If the left side is bigger, worth doing. If not, skip.
+You deliberately realize a long-term gain in a year when the all-in tax cost is low, then reacquire the position and establish a higher basis.
 
-On a $10,000 harvestable loss at 22%, selling and rebuying $35,000 of Bitcoin at 1.5% fees each way:
+A federal zero-percent capital-gain rate does not automatically make the move free.
 
-- Tax benefit: $10,000 × 22% = **$2,200**
-- Fees: $35,000 × 1.5% × 2 = **$1,050**
-- Net: **+$1,150**, worth it.
+Ordinary taxable income fills the stack first. State tax may apply. A larger gain can reduce Marketplace credits, trigger NIIT at higher income, or affect other income-based rules.
 
-Same trade at 3% fees each way? Fees jump to $2,100, harvest barely clears. Small lots at high-fee venues aren't always worth it.
+So the usable gain room is the amount the whole return can absorb at an acceptable all-in cost.
 
-### Tool 2: Harvest gains (your bracket is low)
+### A simple example
 
-Sell to realize gains on purpose in a year your capital-gains rate is low or zero. Buy back at the same price. Reset your basis higher for free.
+Assume a taxable Bitcoin lot is worth $100,000 with $40,000 of basis.
 
-**Running it on the couple at 60.** Same 0.25 BTC from the cost-basis lesson:
+Selling the lot realizes a $60,000 gain.
 
-| Step | Amount |
-|---|---|
-| Sale proceeds | $25,000 |
-| Minus basis | -$7,500 |
-| Gain (all long-term) | $17,500 |
-| Tax at 0% (inside 0% LTCG bracket) | **$0** |
-| Buy back at | $25,000 |
-| **New basis** | **$25,000** |
+If the whole gain fits in an acceptable all-in tax window, the household can repurchase and reset basis near $100,000.
 
-Nothing about their stack changed. The basis on that quarter coin went from $7,500 to $25,000. That's $17,500 of future gain that no longer exists. At a future 15%, $2,625 of tax they now never pay.
+If only half fits before another threshold becomes expensive, harvesting the full lot is not the right move. Sell the amount that fits, or pass.
 
-**Two jobs the 0% bracket does:**
+### Hifo is a policy, not the strategy
 
-- Saves tax on the sale you made that year (obvious).
-- Resets your basis higher for free, one year at a time (missed by almost everyone).
+Highest-in, first-out can reduce current gain when the identification rules are met.
 
-A 0% year is worth using even in a year you don't need the money.
+But it is not always the best long-term choice.
 
-### The window conflict
+Using the highest-basis units now leaves the lowest-basis units for later. That may be exactly what the household wants, or it may create a larger gain in a future year when the rate is worse.
 
-Roth conversion income competes for the same room. Ordinary conversion income stacks under gains and can push them out of 0%. Model them together.
+The decision is not "HIFO good, FIFO bad."
 
-### The Bitcoin wash-sale note
-
-Under current treatment, Bitcoin does not have the wash-sale rule that stocks have. You can sell at a loss and buy right back the same day. For stocks, that would disallow the loss for 30 days.
-
-> ⚠ Verify wash-sale treatment in the year you act. This has been proposed to change.
+It is which identified units create the best lifetime tax path while preserving the custody and spending plan.
 
 ### Homework
 
-Two checks against your lots:
+1. Reconcile the lots and mark which units are actually identifiable under the current wallet or broker rules.
+2. Model one loss harvest and one gain harvest.
+3. Include fees, spread, state tax, ACA or Medicare effects, NIIT, holding period, and the future-basis consequence.
+4. Save the move as a modeled possibility until the tax professional confirms the current-year return treatment.
 
-- Losses sitting unharvested from the last drawdown?
-- Gains you could realize this year at 0%?
+You are done when the app shows the tax benefit, the execution cost, and the future basis together—and when passing is allowed to be the right answer.
 
-Those two answers are what you take to your CPA.
 
 ## A5.3 State taxes and relocation: what the lever is actually worth
-*`TEACH` · ~610 words · ~4 min*
+*`TEACH` · ~488 words · ~3 min*
 
 > **Gate.** Watch this if either is true: you are actually considering a move,
 > or your Tax page shows an unrealized gain large enough that your state's rate
@@ -803,49 +798,71 @@ Those two answers are what you take to your CPA.
 
 ---
 
-### The one dial that pays every year
+In today's lesson, we're going to price the state-tax difference without pretending a map can decide where you live or where a state can tax you.
 
-The state you live in, specifically the state you're a resident of in the year you sell, can add double digits to the tax on a gain, or nothing at all.
+### The lever can be large
 
-You sell, you realize a gain, and you owe federal tax. Then your state can tax that same gain at its own rate. Most states tax a capital gain as regular income, with no special long-term rate. And a handful of states don't tax income at all. The state that charges you is the one you're a resident of in the year you sell, not the one you lived in when you bought.
+A large taxable Bitcoin gain can produce very different state results.
 
-Let me put numbers on it. Today, the couple sits on $115,000 of unrealized gain in their Bitcoin. If they realize that in a state with a roughly 9% rate, the state's cut is about $10,700. Take the same sale in Texas, and it's zero.
+Some states impose no individual income tax. Others tax capital gains as income, use separate rates, or apply special rules.
 
-Now scale it to retirement. Same two states, on a $500,000 realized gain, which is a normal retirement-year sale for a Bitcoin-heavy household. The high-tax state takes about $46,500. The no-tax state takes nothing. Same Bitcoin, same sale, same federal bill. A $46,500 swing on one transaction.
+The app can compare two state assumptions against the same modeled sale. That is useful because it turns "this state is expensive" into a dollar estimate on your own plan.
 
-And those saved dollars don't disappear. They go back into the plan and compound. I ran California against Florida for someone once, and the difference was about $5,800 a year. Over 5 years, that was $57,000 routed into Bitcoin instead of a state treasury.
+Do not freeze one example rate into the video. The current rate, deduction, credit, and local-tax rules belong in the app or current source.
 
-One more thing that makes this lever different: it pays every year. Most tax moves in this module are one-shot, you make them in a particular year. A lower state rate applies to every sale you make for as long as you live there.
+### The sale date is not the whole residency test
 
-Now, three honest warnings.
+The course used to imply that the state where you live in the year of sale is the whole answer. That leaves out a lot of the actual residency rules.
 
-First, moving is more than tax. It's family, work, community, roots. Those aren't things a tax number should decide, and no tax saving is worth a life you don't want.
+States can look at domicile, statutory residency, days in the state, the location of a home, family and business ties, part-year residency, source income, community-property rules, and the ownership structure involved.
 
-Second, residency is a legal standard, not an address change. States look at your domicile: where your days are spent, where your home is, where your work and family are, where your life actually happens. You cannot buy this lever with a mailbox.
+Changing an address does not necessarily change domicile. Leaving a state does not necessarily end every source-based tax claim.
 
-And third, sequence matters. High-tax states audit large exits, especially a big sale that lands right after a move. They know the pattern. If the sale is large enough, get state-tax advice first, then make the move, then make the sale. In that order.
+That makes the order important:
 
-So treat this one as lifestyle plus residency plus legal planning that happens to save you tax, not the other way around.
+1. Decide whether the move makes sense for the life you want.
+2. Before a large transaction, learn what the old state and the new state require to establish or end residency.
+3. Document the real move rather than manufacturing a tax paper trail.
+4. Model the transaction only after the legal residency assumption is defensible.
 
-### Your decision
+### Price the whole move
 
-Your decision here is whether the state lever is worth acting on for you, and if it is, in what order.
+Then I would price the rest of the move too:
 
-Price it on your own largest realistic sale before you weigh anything else, because the number is either large enough to be part of a life decision or it isn't. If it is, the order is state-tax advice first, then the move, then the sale. Never the other way around.
+- housing and property tax;
+- insurance;
+- healthcare access and premiums;
+- travel back to family or business;
+- local sales and other taxes;
+- legal and moving costs;
+- the value of the life you are leaving.
+
+A tax saving can be real and still not be worth the move.
+
+### The right output
+
+The output of this lesson is not "move to a no-tax state."
+
+It is one of three answers:
+
+- moving is already part of the life plan, and the tax difference affects timing;
+- moving is genuinely on the table, and the tax difference deserves professional modeling;
+- moving is not on the table, so the state tax is a cost the plan should include rather than a problem to keep revisiting.
 
 ### Homework
 
-Your homework for this lesson is to:
+1. Run the same modeled gain under the current state and one realistic alternative.
+2. Add the major non-income-tax costs of the move.
+3. Write whether the move is a lifestyle decision, a real option, or not an option.
+4. Before acting, have a professional in the relevant state confirm domicile, part-year, source-income, and transaction treatment.
 
-1. Look up your state's treatment of long-term capital gains, and check whether it has a special rate or taxes them as ordinary income.
-2. Run your largest realistic retirement-year sale against your current state's rate, then against a no-tax state. That difference is what the lever is worth to you.
-3. If the number is big enough to matter, write down what would have to be true about family, work, and community for a move to make sense at all, before you look at the tax number again.
+You are done when the state-tax difference is a number inside a real life decision, not a reason to move on its own.
 
 
 # Advanced Module 6 — Retirement Strategies
 
 ## A6.1 Health insurance between retiring and Medicare
-*`TEACH` · 800 words · ~6 min*
+*`TEACH` · ~754 words · ~5 min*
 
 > **Gate.** Watch this if your plan has you stopping work before 65. If your retirement date is 65 or later, Medicare starts when the paycheck stops and this does not apply to you.
 
@@ -858,102 +875,105 @@ Your homework for this lesson is to:
 
 ---
 
-Under current law, Medicare starts at 65. Retire at 55, and that's 10 years of coverage you have to buy yourself, because employer coverage ends when the job does.
+In today's lesson, we're going to price the healthcare bridge between leaving work and becoming eligible for Medicare.
 
-A 10-year bill in front of anyone retiring early. Usually the largest single line inside the bridge years.
+This lesson applies when the paycheck stops before 65 and employer coverage stops with it.
 
-### Three paths (plus one short-term option)
+### The bridge is a dated expense
 
-**Short-term: COBRA.** Keeps your exact employer plan for up to 18 months (verify).
+If you retire at 60, the bridge is roughly five years.
 
-- You keep your plan, doctors, and network.
-- Now you pay all of the premium, plus a small admin fee.
+The plan needs the premium, expected out-of-pocket cost, and a stress allowance for each year. It also needs the end date, because Medicare changes the coverage structure at 65 even though healthcare costs do not disappear.
 
-Bridge to the bridge. A first-year option, not a decade solution. Expensive but zero disruption.
+### Option one: employer continuation
 
-**Path 1: The marketplace (ACA).** The default for most early retirees. Metal tiers are cost-sharing levels, not quality levels:
+COBRA or another continuation right may let you keep the employer plan for a limited period.
 
-| Tier | Premium | Deductible | Notes |
-|---|---|---|---|
-| Bronze | Lowest | Highest | May pair with an HSA |
-| Silver | Middle | Middle | Benchmark tier for subsidies. Extra cost-sharing help at lower incomes. |
-| Gold | Higher | Lower out-of-pocket | Wins if you use a lot of care |
+For many qualifying events, federal COBRA commonly lasts up to 18 months, with longer periods possible in some situations. The household may pay the full premium plus an administrative charge.
 
-> ⚠ Illustrative pricing. Verify current at healthcare.gov. An unsubsidized couple in their late 50s can face four figures a month.
+The advantage is continuity: same network, deductible structure, and claims process.
 
-Almost nobody who plans well pays sticker price.
+The disadvantages are price and the short runway.
 
-**The subsidy scales with your income.** The subsidy lowers your monthly premium, and its size scales with income:
+Use the actual election notice. Do not assume every employer, event, or state follows the same duration.
 
-- Lower income → bigger credit → lower net premium.
-- Higher income → smaller credit → sticker price at the top.
+### Option two: the marketplace
 
-The income it looks at is your **MAGI** (Modified Adjusted Gross Income): the income the subsidy math sees.
+Marketplace coverage is where tax planning and healthcare planning meet.
 
-In early retirement, your MAGI is partly a choice, which puts your premium partly under your control:
+The net premium depends on household income, household size, the benchmark plan, location, and the law in the enrollment year.
 
-- Spend from cash or taxable dollars that are mostly basis → income on paper is low → subsidy goes up.
-- Realize gains, take traditional-account dollars, or do Roth conversions → MAGI goes up → subsidy goes down.
+For 2026, the enhanced pandemic-era subsidy rules no longer continue in the same form. That is exactly why the course should not memorize an old income cliff or an old premium example.
 
-Engineer a modest MAGI and the same Silver plan's net premium can fall by hundreds or thousands a month. Thresholds move every year. Verify.
+Use the current Marketplace estimate for the ZIP code and ages involved.
 
-In the bridge years, your health premium is partly a tax-planning output.
+Also price the out-of-pocket side. Cost-sharing reductions apply only to eligible households enrolled in a Silver plan, and eligibility changes with income.
 
-**The tension: subsidy vs Roth conversion.** It is the same conflict the tax module's bracket window runs into. One low-income window, multiple planning moves competing for it.
+### Magi is part of the premium
 
-A big Roth conversion raises your MAGI, which shrinks or kills the subsidy that same year. You can max the window for subsidies or for conversions, but not both.
+A Roth conversion, large taxable gain, business income, or retirement distribution can raise Marketplace income and reduce a premium tax credit.
 
-A conversion decision is also a healthcare decision. Model both paths, pick deliberately, revisit every year. Flagship question for your CPA.
+That does not make the tax move wrong. It means the premium change is part of the tax cost.
 
-**Path 2: Health-sharing.** Austin's family uses CrowdHealth, so he can speak from experience.
+The tax page and healthcare worksheet have to use the same income assumption. A conversion modeled without the premium effect is incomplete.
 
-> ⚠ Health-sharing is not insurance. It's a crowdfunding membership where members fund each other's medical bills.
+### Option three: a health-sharing arrangement
 
-How it works:
+Austin's family uses CrowdHealth, and that personal experience can stay in the lesson as personal experience.
 
-- Pay a monthly membership amount.
-- Cover a fixed member responsibility on a health event (a few hundred dollars).
-- Bills above that get crowdfunded, with cash-pay pricing negotiated up front.
+The category has to be described accurately.
 
-Trade-offs:
+A health-sharing arrangement is not health insurance. It generally does not create the same legal obligation to pay a claim, and the terms, exclusions, waiting periods, pre-existing-condition rules, member responsibility, and provider process vary by organization.
 
-- **Not insurance.** No legal guarantee any bill gets funded.
-- **Pre-existing conditions.** Limited, phased participation.
-- **Cash-pay medicine.** No network. You're the payer.
-- **Typically not HSA-qualified.** Joining usually means giving up new HSA contributions. Verify current law.
+Price the exact current membership and read the current member agreement. Do not generalize one program's rules to the category.
 
-Best fit: relatively healthy households comfortable managing bills directly, with a solid reserve.
+HSA eligibility is a separate question. A sharing membership does not by itself create an HSA-eligible high-deductible health plan. Verify the actual coverage and current tax rules before making contributions.
 
-Verify terms and pricing before deciding.
+### Option four: a spouse or other eligible plan
 
-### The decision frame
+A spouse's employer plan, retiree coverage, a union plan, or another special eligibility path can be the best bridge when it is available.
 
-Bridge years × annual cost of each path, side by side. Then add soft factors: health status, comfort with a non-guaranteed model, HSA plans, provider preferences.
+The right comparison uses the incremental family premium, deductible, network, and employer contribution—not only the employee's headline premium.
 
-### In the plan
+### The comparison
 
-Healthcare is a line inside your retirement spending number (from the spending-floor lesson). The bridge premium is an expense with an end date at 65.
+For each real option, record:
 
-In the app: enter as an **Expense Change** life event with a duration (5 years if you retire at 60). No "end age" field; you set a duration.
+- monthly premium;
+- deductible and out-of-pocket maximum;
+- network and prescription fit;
+- expected routine cost;
+- worst plausible annual cost;
+- tax-credit or tax-deduction assumptions;
+- duration and the next enrollment trigger;
+- whether the arrangement is insurance and what payment is legally guaranteed.
 
-One thing the app doesn't do: model a Roth conversion, and it shows the tax side in full but doesn't price what the higher MAGI does to your subsidy. That's the worksheet.
+### At 65
 
-### At 65: one income rule swaps for another
+Medicare eligibility changes the bridge, but enrollment timing, employer coverage, HSA contributions, Medigap, Medicare Advantage, prescription coverage, and IRMAA can all matter.
 
-Income still drives your healthcare cost, just under a different rule. Subsidies stop; Medicare IRMAA surcharge thresholds take over (covered in the tax module).
+Do not wait until the final month to learn those rules. Put a Medicare review on the calendar before 65.
+
+### Put it in the plan
+
+Enter the best current estimate as a dated expense change from retirement until Medicare eligibility.
+
+Then run a high-cost scenario that uses the out-of-pocket maximum or another defensible stress year.
+
+The app may model the spending and tax result without reproducing every Marketplace or Medicare rule. The current quote and eligibility determination still come from the official enrollment source.
 
 ### Homework
 
-Price your bridge three ways:
+1. Price every option actually available to the household.
+2. Use the same income assumption in the tax and healthcare comparison.
+3. Enter the base bridge cost and one stress case.
+4. Put the next enrollment and Medicare review dates on the calendar.
 
-- COBRA (first year only).
-- A Silver plan at the MAGI you'd actually run.
-- Current health-sharing membership pricing.
+You are done when the bridge has a current source, an end date, and a high-cost case—and when a health-sharing membership is never described as insurance.
 
-Most people have never seen those three numbers side by side. The comparison is the decision.
 
 ## A6.2 Sell, borrow, or hold: funding a year of spending
-*`TEACH` · 730 words · ~5 min*
+*`TEACH` · ~943 words · ~6 min*
 
 > **Gate.** Watch this once you are inside about five years of retiring, or already drawing income. It prices the three ways to fund a year against each other; before that, the withdrawal order in core is the decision that matters.
 
@@ -968,101 +988,121 @@ Most people have never seen those three numbers side by side. The comparison is 
 
 ---
 
-Three ways to fund your life from a Bitcoin-heavy plan. Each costs something different. Here's each priced on one year of the couple's retirement:
+In today's lesson, we're going to compare three ways a Bitcoin-heavy household can fund one year: sell, borrow, or hold and spend from another bucket.
 
-- Age 60
-- Spending $80,000/yr
-- $600,000 taxable Bitcoin
-- $120,000 Reserve
+This lesson fires when retirement is close enough that the household is actually deciding how next year's spending gets funded.
 
-### Tool 1: Sell (buying simplicity)
+### One year, three different costs
 
-Sell $80,000 of Bitcoin to cover the year.
+Use the same annual spending need for all three paths.
 
-Split into basis and gain:
+The comparison is not about which one sounds most Bitcoin-aligned. It is about what each path costs the plan in taxes, interest, liquidity, risk, and family complexity.
 
-- **Basis:** about $20,000 (a quarter of it, illustrative).
-- **Long-term gain:** about $60,000.
+### Path one: sell
 
-In a low-income year, that $60,000 of gain can land in the 0% capital-gains bracket and cost almost nothing.
+Selling Bitcoin creates cash with no loan to manage.
 
-- **Upside.** One year of spending, no counterparty, no loan to manage.
-- **Downside.** Bitcoin is gone.
+The tax is based on the gain in the specifically identified units, not the gross sale proceeds.
 
-Best when spending is modest and simplicity is worth something in itself.
+A low-income year may place some long-term gain in a lower federal capital-gain band. But ordinary income fills the stack first, state tax may apply, and the gain can affect Marketplace credits, NIIT, or other thresholds.
 
-### Tool 2: Borrow (buying upside)
+So "the gain is in the zero-percent band" is a modeled federal statement, not a promise that the transaction costs nothing.
 
-Borrow $80,000 against the Bitcoin. No taxable event. Bitcoin keeps compounding.
+The upside is simplicity and no liquidation or lender risk.
 
-**LTV is the whole decision.** LTV = loan balance ÷ collateral value. A 20% LTV means you've borrowed 20 cents against every dollar of Bitcoin.
+When you sell, you are giving up the Bitcoin, paying any tax on the gain, and giving up whatever future growth those units would have had.
 
-The ratio moves for two reasons:
+### Path two: borrow
 
-1. Interest pushes the balance up.
-2. A price drop pulls the collateral down.
+Borrowed cash is generally not income when there is a real obligation to repay.
 
-The ratio can climb fast without you doing anything. The starting ratio is the whole decision.
+That does not make the entire strategy tax-free.
 
-**The couple's borrowing capacity, priced.** Austin's default is 10 to 20% LTV depending on risk tolerance, the same range A4.1 sizes the cushion against.
+Interest accrues. The loan can be liquidated. A lender sale of collateral is a taxable disposition. Debt cancellation can create income. The lender and custody structure add risks that have nothing to do with the tax code.
 
-- 10-20% of $600,000 collateral = $60,000 to $120,000 of capacity.
-- At the cautious end, $60,000 does not cover even one year of their $80,000 spending. At the aggressive end, one year is two thirds of the whole capacity.
-- Either way there is no second year. Trying for one puts them at a ratio a normal bear market liquidates.
+So I would not stop the tax comparison at "loan proceeds are not taxable."
 
-Add a year of interest. At 10-11%, $80,000 grows to about $88,000 a year later with nothing paid.
+It has to include:
 
-Drop Bitcoin 50%. Collateral is now $300,000. $88,000 against $300,000 = **29% LTV**, and a 75% drop — the normal Bitcoin bear — puts it at **59%**, inside margin-call territory.
+- interest and fees;
+- the LTV path under a major drawdown;
+- any collateral top-up reserve;
+- the tax from a forced or planned collateral sale;
+- counterparty and rehypothecation terms;
+- repayment source;
+- the estate's obligation if the loan remains at death.
 
-The cushion is gone. They can't borrow again next year, and they're one leg down from liquidation.
+Borrowing can be useful when it is small relative to collateral, the repayment source is clear, and the household values keeping the position.
 
-Borrow from strength, not from a trap. A loan taken calmly at low LTV with a plan is a different product from one taken in a drawdown because you're cornered.
+It is fragile when repeated borrowing becomes the paycheck and every new year consumes more collateral capacity.
 
-**Where borrowing works and doesn't:**
+### Path three: hold and spend from reserve or bridge
 
-- **Works.** LTV is low, liquidity is behind it, you're comfortable holding it.
-- **Doesn't.** As the foundation of a retirement paycheck. One year of spending uses the whole capacity. The second year has nowhere to come from.
+The third path is to leave the Bitcoin untouched and fund the year from cash or another Bridge asset.
 
-Borrowing is a tool for a year, not a plan for a decade.
+That preserves the Bitcoin position and avoids a new loan.
 
-### Tool 3: Hold (buying compounding, and maybe more)
+The cost is using liquidity that may have another job. The reserve has to remain large enough to protect the plan through a drawdown, and the Bridge has to be replenished under the rule the household already set.
 
-Don't touch the Bitcoin. Spend from the Reserve ($120,000).
+Under current federal law, taxable property inherited at death generally receives a basis tied to date-of-death fair market value.
 
-The $600,000 keeps compounding.
+That general rule has conditions and exceptions. Gifts, certain trusts, property outside the taxable estate, consistent-basis reporting, and future law can produce a different answer.
 
-Under current law (verify), it passes to heirs with a **step-up in basis**. If their basis is $100,000:
+So an outright taxable Bitcoin holding may receive a basis adjustment under current law. Do not turn that into "all embedded gain disappears" for every ownership structure.
 
-- $600,000 - $100,000 = **$500,000** of embedded gain that passes untaxed.
+### Do not compare a tax rate with an interest rate directly
 
-That turns "not selling" from a preference into a tax strategy.
+A common shortcut compares a 15% capital-gain rate with a 10% loan rate and picks the smaller number.
 
-Never selling the core can be a legitimate estate move, as long as it's funded by the Reserve and Bridge instead of by sales.
+I think that comparison leaves out how long you carry the loan and what happens if Bitcoin falls.
 
-### In the app
+The tax applies to the gain portion once. Interest applies to the loan balance over time, may compound, and may or may not be deductible. A forced sale can add tax later. The Bitcoin sold in path one and the Bitcoin pledged in path two also experience different future paths.
 
-**Plan → Income → Retirement Borrowing** prices all three side by side against a plain sell-as-you-go baseline. What you read off it:
+Use dollars over the same time horizon.
 
-- **After-tax net worth at {age}.** The family-facing number.
-- Any loan balance the estate has to repay at death.
-- A step-up assumption you can flip on and off.
+### The five-year view
 
-It's a sandbox. Nothing touches your plan until you apply it.
+Run each path for one year, then extend it for five.
 
-### The decision frame: four questions
+For selling, track the units sold, basis, tax, and remaining Bitcoin.
 
-1. **Taxes.** What's the tax bill on each path this year?
-2. **Liquidation risk.** Does the loan survive a 50% Bitcoin drop?
-3. **Cash flow.** Is the annual capacity enough to matter?
-4. **Family comfort.** Does your spouse understand the loan structure?
+For borrowing, track the loan balance, interest, collateral value, LTV, top-ups, repayment, and the outcome under a major drawdown.
 
-Match the tool to the answers. You can mix them: a sell year, a borrow year, a hold-forever core.
+For holding, track Reserve and Bridge depletion, refill years, and whether a bad market would force a later sale.
+
+Most households will not choose one path forever. A strong plan can sell in one year, hold in another, and use a small loan for a specific purpose without turning borrowing into the foundation of the retirement paycheck.
+
+### The family test
+
+Before a loan enters the plan, the spouse or person who would inherit the balance should be able to explain:
+
+- who holds the collateral;
+- the margin and liquidation lines;
+- where repayment comes from;
+- what happens after a 50% or 75% decline;
+- what happens if the lender fails;
+- what the estate has to do if the borrower dies.
+
+If the household cannot explain it, the complexity cost is not priced yet.
+
+### Put it in orange plan
+
+Plan → Income → Retirement Borrowing compares the borrowing strategy against the saved withdrawal plan.
+
+Read after-tax net worth, loan balance, Bitcoin remaining, taxes, and risk together.
+
+A preview is not the plan until it is deliberately applied.
 
 ### Homework
 
-Run all three on one year of your own spending. Not to pick a winner, but to know the numbers behind each. Then price them across a five-year window. What does five years of borrow-only cost in interest and LTV drift? What does five years of sell-only cost in taxes?
+1. Price one year under sell, borrow, and hold.
+2. Extend the comparison to five years.
+3. Add state tax, ACA or Medicare effects, lender terms, and any basis-at-death assumption.
+4. Stress the loan under the lender's actual thresholds.
+5. Take the tax outputs to the tax professional and the loan terms to someone who represents the household, not the lender.
 
-Bring the outputs to the household and CPA conversation.
+You are done when the decision is supported by dollars over the same horizon and the household can explain the risk without using the phrase "Bitcoin will probably go up."
+
 
 # Advanced Module 7 — Advanced Custody
 
@@ -1108,7 +1148,7 @@ The second answer is that you want part of it. That is what collaborative custod
 
 The third answer is that you do not want the job right now. That is also a real answer. Taking responsibility you will not maintain is not more sovereign. It is just a new way to lose access.
 
-If you do take the job, being a little paranoid is appropriate. You should feel the weight. The goal is not fear. The goal is to build a process strong enough that you do not need to think about it every day.
+If you take the job, I think some caution is appropriate. You should feel the weight of it. Then build a process strong enough that you do not have to think about it every day.
 
 ### Your decision
 
@@ -1123,7 +1163,7 @@ Whether you want the whole job, part of it, or none of it right now.
 You are done when the custody setup matches the responsibility you are actually willing to maintain, not the identity you want it to signal.
 
 ## A7.3 Concentration: one institution, one vendor, one firmware
-*`TEACH` · ~815 words · ~5 min*
+*`TEACH` · ~486 words · ~3 min*
 
 > **Gate.** Watch this if either is true on your own screen: (1) your
 > non-self-custodied Bitcoin sits at a single institution and losing access to
@@ -1140,53 +1180,76 @@ You are done when the custody setup matches the responsibility you are actually 
 
 ---
 
-### Don't hold it all at one institution
+In today's lesson, we're going to find concentration that remains after choosing a custody level.
 
-You picked a custody level in the core course. This lesson asks a different question about the same stack: how concentrated is it? Not what type of custody, but how many baskets.
+Custody type and concentration are different questions.
 
-Start with whatever you have not self-custodied yet. How many institutions is it sitting in?
+A household can use a strong institution and still have every custodial asset behind one login. It can self-custody and still have every satoshi behind one device model, one firmware family, one wallet implementation, and one recovery process.
 
-Those 2022 failures weren't self-custody failures. They were concentration failures. The customers who lost everything are the ones who had everything in one place.
+### Institution concentration
 
-So for the custodial part of your stack, your exchange balance, any ETF shares, your retirement exposure, the question is whether one company's bad week can take all of it. I'd add a second institution in three cases. When the custodial amount is big enough that losing access for a few months would change your life. When you're using an exchange balance as your emergency pile, because that job needs a backup for the week the account is frozen. And when the institutions actually fail in different ways, because two exchanges are more correlated with each other than an exchange and a brokerage ETF are.
+The 2022 failures showed what happens when customers become unsecured creditors, lose access, or wait through a bankruptcy process.
 
-It costs you something, though, and I don't want to gloss over it. Every extra account is another login, another email to secure, another two-factor setup. Three sloppy accounts are worse than one hardened one. Every extra account is another set of tax lots to reconcile. And every extra account is one more row your executor has to find, so if it doesn't make it onto your Family Custody Map, you've effectively hidden money from your own family.
+The lesson is not that every institution fails or that splitting money makes it self-custody.
 
-So the honest rule: self-custody is the real answer to counterparty risk. Splitting across institutions is the hedge for whatever isn't self-custodied yet. Add the second institution when the amount justifies the maintenance, and not before.
+The lesson is that one institution should not be able to freeze every asset the family needs next month.
 
-### No custody setup is trust-free
+I would look at a second independent institution when:
 
-There's one more layer, and it's the one people miss, because it sounds like self-custody already solves it. Self-custody removes counterparty risk. It does not remove trust. It moves it.
+- the custodial amount is large enough that months without access would change the plan;
+- the account is part of the emergency or spending bridge;
+- one provider holds every taxable, retirement, or lending relationship;
+- the second institution genuinely fails in a different way.
 
-When you hold your own keys, you're still trusting the company that made your hardware wallet. The firmware running on it, including every version you install after this one. That the device generated your seed with real randomness. And whatever wallet software you use to check your balance and build transactions.
+Two accounts using the same email, phone, identity provider, bank, or underlying custodian may not be as independent as they look.
 
-None of that is an argument against self-custody. I self-custody, and I think most people holding a meaningful amount should. It's an argument for being honest about what you're actually relying on, because the thing you never examined is the thing that can take all of it.
+### The cost of another account
 
-So the same concentration question applies here. If every satoshi you own is behind one model of one device, running one company's firmware, generated by one implementation, then one trust is holding up your entire stack. That's the same concentration as keeping everything at one exchange. It's just harder to see, because it feels like independence.
+Every extra account adds another password, authenticator, recovery process, tax record, beneficiary form, and executor row.
 
-Spreading it out is what protects you from a total loss. A second device from a different manufacturer. A multisig where the keys don't all come from one vendor. Or keeping part of the stack in a different custody model entirely.
+Three weak accounts can be worse than one hardened account.
 
-Now, I'd slow down here, because more setups is not automatically safer. A second device you don't understand, don't back up, and never test is a new way to lose money, not a hedge. So size this to three things: how comfortable you actually are, how much technical ability you want to use, and how much responsibility you're honestly willing to take on. And if the honest answer is that you can only maintain one setup well, run one setup well and keep it simple. Three setups you half understand is how people lose money.
+Add an institution only when the reduced concentration is worth the maintenance and the family map is updated immediately.
+
+### Vendor concentration in self-custody
+
+Self-custody removes the chosen custodian's control. It does not remove every dependency.
+
+A hardware wallet still depends on device hardware, firmware, backup standards, wallet software, supply chain, and the user's recovery process.
+
+Using a second vendor or implementation can reduce a correlated vendor or firmware failure.
+
+It does not guarantee safety. A second setup that nobody understands adds human and recovery risk.
+
+### Different failure domains
+
+Diversification only helps when the second path is actually independent.
+
+Examples:
+
+- a hardware wallet from another manufacturer with a compatible but independently implemented recovery path;
+- multisig keys from different device vendors;
+- part self-custody and part institution;
+- separate email, authentication, and recovery paths for custodial accounts.
+
+I would not add a second device or provider just to have more pieces. I would add it when one flaw, provider, credential, household event, or process error can still reach everything.
 
 ### Your decision
 
-Two decisions, and either one can honestly come back as "not yet."
-
-Whether your custodial Bitcoin should sit at more than one institution, which you decide from the amount rather than from principle. And whether your self-custodied stack should sit behind more than one vendor, which you decide from what you can genuinely maintain.
-
-If the honest answer to both is that you can run one setup well and that's it, then run one setup well. That is a real answer, not a postponed one.
+Whether the current amount justifies a second institution or independent signing path, and whether the household can maintain it well.
 
 ### Homework
 
-Your homework for this lesson is to:
+1. Draw every custodial and self-custody dependency.
+2. Circle any one provider, credential, vendor, firmware family, or location that reaches the entire stack.
+3. Decide whether to reduce that concentration or accept it deliberately.
+4. Add every new account or setup to the family map the same day.
 
-1. For anything not self-custodied, count the institutions it's sitting in and be honest about whether that number matches what's at stake.
-2. Go through what your whole stack is trusting: the device, the manufacturer, the firmware, the wallet software. If one answer covers everything you own, decide whether spreading it out is worth the setup you'd have to maintain.
-3. Whatever you add, add it to your Family Custody Map the same day. An account your executor can't find is money you hid from your own family.
+You are done when the remaining concentration is visible, deliberate, and small enough that one failure does not destroy the household plan.
 
 
 ## A7.4 Wallet operations: UTXOs, dust, consolidation, and addresses
-*`TEACH` · ~830 words · ~5 min*
+*`TEACH` · ~648 words · ~4 min*
 
 > **Gate.** Watch this before you have made a hundred small transfers, not
 > after. It applies if you buy Bitcoin regularly in small amounts, or if your
@@ -1201,58 +1264,93 @@ Your homework for this lesson is to:
 
 ---
 
-In today's lesson, we're going to cover two operational things about moving Bitcoin that almost nobody explains, and both of them came from clients asking me directly.
+In today's lesson, we're going to cover the wallet operations that matter after the hardware and recovery process are working.
 
-### Your wallet is a stack of bills
+### Your balance is a set of outputs
 
-A client asked me what happens to all the small buys he'd made over the years. His worry was that a bunch of tiny purchases might end up stranded, and that's actually a real thing.
+Bitcoin does not maintain one account balance inside the protocol.
 
-Your wallet isn't a bucket with a balance in it. It's more like a wallet full of bills. Every time Bitcoin lands in your wallet, that deposit is its own separate chunk, and the technical name for one of those chunks is a UTXO, an unspent transaction output. Your balance is the sum of the bills, and when you spend, your wallet grabs one or more whole bills to cover the amount. You spend whole bills, not slices of them.
+A wallet tracks unspent transaction outputs, or UTXOs. Each incoming transaction can create one or more outputs the wallet may later spend as inputs.
 
-Now the part that costs money. Every chunk you spend adds to the fee, and that fee doesn't care how big the chunk is. So a very small deposit can become uneconomical to move, because the fee to spend it approaches or exceeds what it's worth. That's what people mean by dust.
+When you spend, the wallet selects enough inputs to fund the payment and usually creates change back to a new wallet-controlled output.
 
-If you've been buying small amounts regularly, you can end up with a wallet made of a hundred tiny chunks. Nothing is lost. But the day you go to move it all, you're paying to spend every one of those chunks at once, and if fees are high that day, it gets expensive.
+### Why small outputs matter
 
-### The two fixes
+Fees depend partly on how much transaction data has to be included.
 
-There are two fixes, one for going forward and one for what you already have.
+Spending many small inputs can require more data than spending one larger input.
 
-Going forward, transfer on a threshold rather than on a schedule. Instead of moving every small buy to cold storage the day it happens, let them accumulate on the exchange and move them in one transaction.
+That does not mean every small UTXO is protocol dust.
 
-My rule of thumb is about 0.01 to 0.02 Bitcoin as a minimum per transfer. Your smaller monthly buys accumulate on the exchange until they hit that threshold, and then they move in one transaction.
+Dust has a technical policy meaning tied to the cost of spending an output. Separately, an output can be economically unattractive to spend at a high fee rate even when it is not protocol dust.
 
-The reason behind the number is what to hold onto if fees or the price move a long way from where they are now: you want the fee to spend that chunk later to be a rounding error against the chunk, not a real bite out of it.
+The planning question is whether the fee to spend the output later would be material relative to the output.
 
-The trade-off is real, though, and worth saying out loud. Everything waiting for the threshold is sitting on an exchange, which is exactly the counterparty risk the custody module is about. So the threshold is a fee decision bounded by a custody decision. If the accumulating balance gets big enough to worry you, move it and pay the fee.
+### Austin's transfer rule
 
-For what you already hold, the fix is consolidation. You send those small chunks to yourself in one transaction, which combines them into one bigger chunk. Do it deliberately on a day when fees are low, not on the day you urgently need to move money. It's a chore for a quiet Sunday and an annual custody review item, not an emergency.
+Austin's rule of thumb is to accumulate small exchange purchases and transfer around 0.01 to 0.02 Bitcoin at a time rather than moving every small buy immediately.
 
-### Addresses are public
+That is not a Bitcoin rule and it is not a permanent threshold.
 
-The second thing is addresses. Another client was surprised to learn that if somebody knows one of your receiving addresses, they can look up the entire history of that address on the blockchain. Bitcoin's ledger is public. That's the whole design.
+Before using it, check:
 
-So if you use the same receiving address over and over, you've handed anyone who has it a running total of everything you've ever received there. That's not a theft risk directly. It's a privacy risk that becomes a personal safety question once somebody can tie an address to your name.
+- the current fee environment;
+- the amount exposed to the exchange while waiting;
+- withdrawal fees and minimums;
+- whether the future spend fee would still be a rounding error;
+- the household's counterparty-risk limit.
 
-The fix is easy. Use a fresh receiving address every time you receive. Modern wallets generate a new one automatically and it's usually the default, so mostly this is about not overriding it. And don't post an address publicly and then keep using it.
+If the exchange balance becomes larger than the household is willing to expose, move it even when the threshold has not been reached.
 
-This is also another reason to check the address on the device screen every single time. It should be a new one. If it isn't, find out why before you send.
+### Consolidation
+
+Consolidation spends several UTXOs to a new output controlled by the same wallet.
+
+It can reduce the number of inputs a later transaction needs, especially when performed during a low-fee period.
+
+It also has costs.
+
+Combining outputs can link activity that was previously less obviously related, reducing privacy. It creates an on-chain transaction and fee now. It can also produce a larger output that becomes a more obvious target for future coin selection.
+
+So consolidation is not automatic cleanup. It is a fee-versus-privacy decision.
+
+Do not consolidate in an emergency, during a high-fee spike, or merely because the wallet shows many rows.
+
+### Address use
+
+Use a fresh receive address when the wallet provides one.
+
+Address reuse can make payments easier to link and can expose more of the wallet's activity to counterparties or observers.
+
+The wallet should verify the receive address on the trusted hardware display before a meaningful transfer.
+
+A descriptor or extended public key can reveal many addresses and wallet history. It cannot sign by itself, but it is privacy-sensitive and belongs in the recovery plan rather than in public notes.
+
+### Labels and coin control
+
+Labeling acquisition source and purpose can help with tax records, privacy decisions, and future coin selection.
+
+Coin control is an advanced tool. Selecting the wrong output can break the intended tax identification, combine private clusters, or create inefficient change.
+
+Use it only when you understand the wallet's behavior and the tax record is made no later than the transaction.
 
 ### Your decision
 
-Your decision here is your transfer threshold, and whether you have a consolidation chore waiting.
+The transfer threshold, whether consolidation is currently justified, and which privacy trade-off you accept.
 
 ### Homework
 
-Your homework for this lesson is to:
+1. Open coin control or the wallet's UTXO view without changing anything.
+2. Identify very small outputs, labels, and repeated addresses.
+3. Estimate the fee to spend them at a normal and high fee rate.
+4. Decide whether to leave them, consolidate during a low-fee period, or change the future transfer threshold.
+5. Update the annual custody review with the decision.
 
-1. Open your wallet and look at how many separate chunks your balance is actually made of. Most wallets will show you this; some call it coin control.
-2. Write down your transfer threshold. Austin's rule of thumb is 0.01 to 0.02 Bitcoin as a minimum per transfer; check what fees are doing today and confirm that still leaves the fee as a rounding error against the chunk.
-3. If you're holding a pile of small chunks, put consolidation on your annual review as a low-fee-day chore.
-4. Confirm your wallet is generating a fresh receiving address each time, and that you haven't published one you keep reusing.
+You are done when the threshold is tied to current fees and counterparty exposure, and consolidation is treated as a privacy decision rather than housekeeping.
 
 
 ## A7.1 Advanced custody: passphrase, multisig, and collaborative
-*`TEACH` · 1,354 words · ~9 min*
+*`TEACH` · ~1,127 words · ~7 min*
 
 > **Gate.** Watch this if your custody setup fails one of the two access tests from the estate module: one person can spend alone, or one lost copy could permanently stop recovery. If your Level 2 design passes test two and you have accepted failing test one deliberately, your custody plan is complete.
 
@@ -1265,133 +1363,159 @@ Your homework for this lesson is to:
 
 ---
 
-Once you're at Level 3 or 4, "advanced" means removing the single points of failure a single-device, single-seed setup has. Every setup here takes one of those "only ones" and splits it into two. You pay for that in complexity, and in what your family has to be able to do.
+In today's lesson, we're going to compare three ways to add separation beyond a single-signature wallet: a passphrase, independent multisig, and collaborative multisig.
 
-### The three paths
+I would only add complexity when it removes a specific failure and your family can still operate the recovery process.
 
-**Two definitions:**
+### Start with the two tests
 
-- **Passphrase.** An extra word you choose on top of your seed. The wallet doesn't open without both.
-- **Multisig (multi-signature).** The wallet is secured by several separate keys, and more than one has to sign before Bitcoin moves. A common setup is two-of-three: three keys, any two can spend, losing any single one costs nothing.
+Test one: can one person or one stolen item authorize a spend?
 
-**The three paths:**
+Test two: can one lost item or one unavailable person permanently block recovery?
 
-**Path 1: Passphrase single-sig.** One seed plus a hidden extra word.
+A passphrase and multisig answer those tests in different ways.
 
-- **Best for.** A modest stack.
-- **Buys you.** The simplest advanced plan a family can follow.
-- **Watch out for.** A forgotten passphrase locks the funds permanently. No reset mechanism. The passphrase gets its own backup, stored separately from the seed. Practice with a small amount first.
+### A bip39 passphrase
 
-**Making the passphrase strong (the 7-word standard).**
+A BIP39 passphrase is an optional string used with a compatible mnemonic backup to derive a different wallet.
 
-A passphrase you make up yourself is the weak point of the whole setup. Humans pick quotes, song lyrics, names, and dates, and attackers run exactly those lists first. The fix is randomness you didn't choose:
+It is not simply an extra recovery word appended to the list.
 
-- **Use 7 random words** picked from a wordlist by dice or by an offline generator (the diceware method, or a password manager's passphrase generator with the device offline). Not words you thought of. Random means the tool picked them, not you.
-- **Why 7:** each word drawn at random from a standard 7,776-word list multiplies the guesses needed by 7,776. Seven words is roughly 90 bits of entropy, about 1,700,000,000,000,000,000,000,000,000 combinations. A machine guessing a trillion combinations per second would need millions of years. Four or five words is where "pretty good" lives; seven is the floor for money that has to stay safe forever.
-- **Never:** personal facts, quotes, lyrics, addresses, pet names, keyboard patterns, or a password you use anywhere else. If it means something to you, it's guessable.
-- **Exactness matters.** A wallet passphrase is case-sensitive and unforgiving. Record it exactly, letter for letter, on paper or steel. It never gets typed into anything online.
-- **The same standard covers three things:** the wallet passphrase, the password manager's master password, and the encrypted plan-backup passphrase from the walkthroughs. One method, three uses.
+Every possible passphrase derives a valid wallet. A typo does not produce an error. It produces a different wallet, often one with a zero balance.
 
-The trade-off is built in: a passphrase strong enough to be unguessable is also unrecoverable if lost. That's why it gets its own backup, stored separately from the seed, and why you practice with a small amount first.
+That means the exact passphrase is part of the recovery material for the intended wallet.
 
-**Path 2: Collaborative multisig.** You hold two keys, a provider holds one, plus the configuration.
+The mnemonic without the passphrase can still derive the standard wallet. Whether that standard wallet is empty, a decoy, or used for a small balance is a deliberate design choice—not something the protocol does automatically.
 
-- **Best for.** A meaningful balance, or heirs who aren't technical.
-- **Buys you.** A professional on call to guide them.
-- **Watch out for.** An annual fee and some vendor dependence. The provider's one key can't spend on its own, so they never actually custody your Bitcoin.
+### What the passphrase buys
 
-**How collaborative custody actually works, and why the key count matters.** It's a two-of-three: three keys exist, any two can move Bitcoin. You hold two of them. The provider holds the third.
+If the mnemonic and passphrase are stored separately, finding one does not reveal the intended passphrase wallet.
 
-That split produces two properties to weigh before you decide:
+Operationally, the household can place the two elements with different people or locations.
 
-- **They can never take your Bitcoin.** One key out of a required two spends nothing. They are a co-signer, not a custodian. This is the difference between collaborative custody and an exchange.
-- **They can never lock you out.** You already hold two keys, which is a spending quorum by itself. You do not need their permission or their participation to move your own money.
+But this is not cryptographic multisig. There are not two independent signers and there is no threshold policy enforced on-chain.
 
-So what you're actually buying is three things: a key you didn't have to store yourself, a copy of the configuration file held by someone whose job is not losing it, and a human being who will pick up the phone and walk your family through recovery on the worst week of their lives. That third one is the whole reason this path exists.
+Anyone who obtains both elements can derive the wallet. Losing either can make the intended wallet unrecoverable.
 
-**Before you pick a provider, verify these four:**
+### Austin's passphrase rule
 
-1. **Can you recover with the provider gone?** They should hand you the configuration file, or descriptor, and it should work in open-source wallet software they don't control. If the answer is "you'd have to call us," that's a custodian wearing a multisig costume.
-2. **Is there a documented inheritance process?** What exactly happens when your executor calls, and what proof do they require?
-3. **What's the annual fee**, and what happens to your wallet if you stop paying it?
-4. **What do they require from you**, in identity verification and in privacy terms, to open the account?
+Austin's course rule is a long randomly generated passphrase, often seven random words, written and backed up offline.
 
-The honest downside is that you're depending on a company continuing to exist across a timeline measured in decades. That's a real risk. But it's bounded by the key count: the worst case is a provider that vanishes, and you spend an afternoon recovering with your two keys and the config file. Compare that to the DIY worst case, where the person who understood the setup is the one who died.
+That is an operational recommendation, not a BIP39 minimum and not a universal password rule.
 
-**Path 3: DIY multisig.** You hold every key, and the configuration, yourself.
+Whatever method you choose, the passphrase must be generated without a human pattern, recorded exactly, kept separate from the mnemonic, backed up on its own side, and tested on the intended wallet.
 
-- **Best for.** Technically proficient people.
-- **Buys you.** Maximum privacy and full independence.
-- **Watch out for.** Your heirs inherit the complexity with no professional to guide them. This path trades your family's recovery odds for your independence.
+Do not enter it into a password manager, AI, generic cloud note, or everyday computer merely because it is called a passphrase.
 
-**Compare across four rows:**
+### Independent multisig
 
-| | Passphrase | Collaborative multisig | DIY multisig |
-|---|---|---|---|
-| Single point of failure | Still one seed to protect | None (2-of-3) | None (2-of-3) |
-| Maintenance load | Lowest | Shared with provider | Highest |
-| Heir-friendliness | Good, if documented | Best. Heirs get guided. | Hardest. No help coming. |
-| Cost and independence | Free, fully sovereign | Fee plus vendor | Free, fully sovereign |
+In a 2-of-3 multisig wallet, any two signing keys can authorize a spend and one key cannot.
 
-Look at all four rows before picking. Technical people often stop at row one and end up with something their family can't use.
+That threshold can pass both tests: no single key spends, and one key can be lost.
 
-**Running the table on the same household.** $175,000 of Bitcoin. He's 45 and healthy. Wife has never restored a wallet. Kids are 10 and 12.
+The signing keys are only part of the recovery package.
 
-- **DIY multisig** wins row one. But it hands a widow and two middle-schoolers a recovery job nobody in the house can do.
-- **Collaborative** is a real option, and if the stack triples it's the right one. But they'd be paying an annual fee for a problem they don't have yet.
-- **Passphrase path fits.** One seed, one extra word, split between two people. The only path his wife could realistically be walked through in an afternoon.
+The household also needs the wallet policy or descriptor and enough script, derivation, and key-origin information for compatible software to reconstruct the wallet.
 
-Match the setup to your family and your stack. Only add complexity when it buys real risk reduction.
+A descriptor can reveal wallet structure, public keys, and addresses. Protect it for privacy and back it up for availability.
 
-### The config file: the multisig piece that gets people killed
+The descriptor helps reconstruct and watch the wallet, but it cannot sign a transaction by itself.
 
-The keys hold the money. The **config** is the file that records how those keys connect into one wallet: which keys, the 2-of-3 rule, the technical addresses. That file is the map.
+One signing key stored with the descriptor is still one signing key in a 2-of-3 wallet. The old course incorrectly said that combination quietly created single-key control. It does not.
 
-- The keys are the money.
-- The config is the only file that says which wallet those keys open.
+### Where the policy lives
 
-With the config, your heirs have three seeds in separate locations plus the map. The wallet reassembles. Without it, they can have all three seeds in hand and still be locked out.
+The policy or descriptor can be copied more freely than a signing secret because it cannot spend, but do not publish it.
 
-Not hypothetical. A man dies with a 2-of-3 multisig holding ~$300,000. Everything right on the keys: three seeds, three separate locations, executor holds one, family finds all three. They recover nothing. $300,000 lost to a missing file.
+Keep redundant copies in places the recovery team can reach. Avoid storing the only policy copy inside one hardware wallet or only with one provider.
 
-**The config file's superpower: it's public.** The config has no spending power. Losing it to a thief costs you privacy, not coins. You can back it up aggressively, in a way you'd never back up a seed.
+You are done when any two people who are supposed to recover the wallet can do it without guessing derivation paths or depending on one company.
 
-> ⚠ The config file is a recovery dependency. Back it up wherever you back up keys. Keep extra copies. Make sure someone besides you knows it exists.
+### Key distribution
 
-A collaborative provider holds the config for you. On top of the support, the annual fee is buying the one file your heirs can't reconstruct on their own.
+A common 2-of-3 design places keys in separate failure domains.
 
+For example:
 
-### Building the estate split on each path
+- one key with the owner;
+- one key in a separate secure location or with a trusted participant;
+- one key with a collaborative provider or another independent location.
 
-The estate module gives you the two tests: can one person spend alone, and can one lost copy permanently stop recovery. What it deliberately doesn't do is show you how to build a setup that passes both, because that's a custody decision. So each path carries the split differently.
+The exact people and locations are estate and threat-model decisions.
 
-On the passphrase path, Anthony Park calls this poor man's multisig, and it works because of how a passphrase behaves. Seed plus passphrase produces a completely different wallet than the seed alone. Same words, different passphrase, different set of coins. So the seed by itself opens a real wallet that's empty, and the passphrase by itself is a word that opens nothing. Two objects, each worthless alone, which is exactly what lets you hand each one to a different person.
+Do not put two keys, or their sufficient backups, in the same safe, household, office, or provider if the purpose is to survive that failure.
 
-Your heir holds the seed. Your executor holds the passphrase. Together they have full access, apart they have nothing. That's test one, passed by design.
+### Collaborative multisig
 
-Now test two, and this is the trap. Seed plus passphrase is a two-of-two. Both pieces are required every single time. So if the seed card is lost in a fire, the passphrase opens nothing. And if the executor dies without passing the passphrase on, the seed opens an empty wallet. Either one is a total, permanent loss with nobody having done anything wrong. Half of a two-of-two is zero.
+Collaborative custody uses a provider for setup, policy coordination, recovery assistance, transaction review, or one signing key.
 
-Which means each half needs its own backup, on its own side. A second steel copy your heir controls, or one their own successor can reach, never anywhere the passphrase holder can also get to. The passphrase written once, sealed, held by the executor or whoever he names after him, never in the same house or the same safe as the seed.
+Do not assume the label guarantees provider independence.
 
-On the multisig path, a two-of-three vault passes both tests structurally, without you engineering the backups yourself. Any two of the three can spend, so losing one key entirely is survivable, and no single holder can spend alone. Both tests, handled by the arithmetic.
+Verify:
 
-The distribution that makes it work as an estate plan: you hold two keys, so nothing about your day changes and you spend on your own just like today. Your executor holds the third as a sealed seed card, and since one key alone can't spend, they can't touch anything while you're alive. If you're with a collaborative provider, they hold the remaining key and never your seed phrase. After you're gone, your executor and the provider hold two keys between them, which meets the threshold, and the provider verifies who the executor is and walks them through it. Your heirs get a guided recovery instead of a technical exam.
+1. What is the actual threshold?
+2. Which signing keys does the client control?
+3. Can the client meet the threshold without the provider?
+4. Has the client exported the wallet policy or descriptor?
+5. Which compatible software can reconstruct and spend without the provider?
+6. What happens if the provider disappears, is enjoined, or changes terms?
+7. Can the provider delay or veto a transaction under the contract or software workflow even when it cannot sign alone?
 
-The one thing to get right is where the config file sits. An executor's key stored next to the config file is one step from control, and that quietly turns your two-of-three into a single-key setup. So the config lives in a password manager, never printed, never stored with any physical key.
+A provider cannot move a true 2-of-3 wallet with only one key. But the practical recovery claim is only proven after the client restores the policy and signs with the client-controlled threshold outside the provider's normal interface.
 
-So with a passphrase you're splitting two different objects between two people. With multisig the keys are already separate, and the job becomes keeping the config away from whoever holds a key. Same principle, different setup.
+### Passphrase versus multisig
+
+Choose a passphrase when the household wants a smaller increase in hardware and software complexity and can protect two exact recovery elements.
+
+Choose multisig when on-chain threshold signing, loss tolerance, and distributed control justify the operational work.
+
+Choose collaborative multisig when the household values assistance and has verified that provider independence is real rather than promised.
+
+### Testing
+
+For a passphrase wallet:
+
+- recover on a spare compatible setup;
+- enter the exact passphrase;
+- verify the intended wallet fingerprint or address;
+- confirm the standard no-passphrase wallet is understood;
+- test the family process without revealing both elements to one unintended person.
+
+For multisig:
+
+- export and restore the policy or descriptor;
+- verify the intended receive address on each signing device;
+- create a small test transaction;
+- sign with each intended two-key combination, or at least every combination the recovery plan depends on;
+- prove one key cannot complete the transaction;
+- for collaborative custody, complete a provider-independent recovery test.
+
+### The family and estate layer
+
+The access map names roles and process, not secrets.
+
+The legal plan names who has authority. The key plan names who can technically sign. Those two systems must agree, but one does not replace the other.
+
+A trustee, executor, heir, or provider holding one key does not automatically have legal control or unilateral technical control. The governing documents and full signing policy decide the result together.
+
+### Your decision
+
+Which failure you are removing and why the added complexity is worth maintaining.
 
 ### Homework
 
-- Decide whether an advanced setup is warranted at all. Staying at a well-run Level 2 is a legitimate answer.
-- If you're adding a passphrase, generate it with 7 random words from a wordlist, using dice or an offline generator. Back it up separately from the seed, and practice with a small amount first.
-- If you're considering collaborative custody, ask a provider the four questions and get the answers in writing before you pay anything.
-- If you're running multisig, go find your config file, back it up, and tell one other person it exists.
+1. Write the two access-test answers for the proposed setup.
+2. Inventory every required recovery element, including the policy or descriptor.
+3. Run the exact spare-device or provider-independent recovery test.
+4. Update the no-secrets custody map and legal plan so roles match the signing policy.
+
+You are done when the setup survives the failure it was built for and the family can recover it without the vendor, without guessing, and without one unintended person holding enough to spend.
+
 
 # Advanced Module 8 — Advanced Estate Planning
 
 ## A8.1 Advanced: do you need a trust, and which one?
-*`TEACH` · ~1,900 words · ~9 min*
+*`TEACH` · ~1,202 words · ~8 min*
 
 > **Gate.** Watch this once the **core estate gate in 8.5** has lit up and put you
 > at Level 3 or 4 — a trust or coordinated plan. This lesson does not re-run that
@@ -1407,249 +1531,167 @@ So with a passphrase you're splitting two different objects between two people. 
 - Ask the one attorney question that keeps a trustee from being obliged to sell your Bitcoin
 
 ---
-> **Advanced. Most plan-builders don't need a trust.** The gate that decides it is
-> in the core walkthrough (8.5), not here. If it didn't light up, the baseline is
-> your plan. Skim unless it did.
 
+In today's lesson, we're going to decide whether the estate plan has a problem that deserves a trust conversation.
 
-**Most of you don't need what's in this lesson.** Stopping at the baseline is a valid outcome.
+We are not going to diagnose a trust from net worth, Bitcoin conviction, or one checkbox.
 
-A **trust** is a legal container that owns things, with three roles:
+A trust is a fiduciary relationship governed by a legal instrument. The trustee holds or administers property for beneficiaries under those terms.
 
-- **Grantor.** The person who puts assets in. That's you.
-- **Trustee.** Whoever manages what's inside, under the rules you wrote.
-- **Beneficiary.** Whoever it's all for.
+Calling it a container can be useful shorthand, but ownership, control, tax treatment, creditor rights, and fiduciary duties depend on the actual document and state law.
 
-You can hold more than one of those at the same time, and that matters a lot.
+### The gate is a conversation trigger
 
-### Two kinds, one question: did you keep control?
+The core module names complexity triggers:
 
-#### Revocable living trust
+- minor or vulnerable beneficiaries;
+- blended family or conflicting beneficiary groups;
+- business ownership;
+- property in more than one state;
+- privacy or probate concerns;
+- incapacity planning;
+- a custody setup another person must operate;
+- a potentially taxable estate;
+- a concentrated asset a fiduciary may be asked to retain.
 
-You can change or cancel it any time. Usually you're grantor, trustee, and beneficiary all at once while alive. Nothing about your day changes.
+One trigger does not mechanically mean a trust is required.
 
-Buys you three things:
+It means the attorney conversation has a real question to solve.
 
-1. **Avoids probate.** Assets titled in the trust's name aren't yours at death, they're the trust's, so there's nothing for the court to settle.
-2. **Keeps things private.** Probate is public record. A trust isn't.
-3. **Smooth handoff if you're incapacitated.** The successor trustee steps in.
+### Revocable living trust
 
-**What it does NOT buy: a lower estate tax bill.** The estate tax follows control, not paperwork. If you can cancel the trust and take everything back tomorrow, then for tax purposes the assets are still yours.
+A revocable living trust can support incapacity management and can avoid probate for assets properly titled or assigned to it.
 
-People who don't know that sit down with a salesperson, pay $3,000-4,000 for a revocable living trust, and walk out believing they just protected their estate from taxes. They didn't. They bought probate avoidance and privacy at a tax-shelter price, and nobody corrected them.
+Signing a trust does not move every asset into it. An unfunded trust does not avoid probate for property that still passes through the probate estate.
 
-#### Irrevocable trust
+A revocable trust generally remains within the grantor's control and estate. It usually does not create federal estate-tax savings merely because the title includes the word trust.
 
-The opposite trade: you give up control and generally can't undo it. In exchange:
+Privacy can improve because a trust instrument is not automatically filed like a probated will, but administration, litigation, beneficiary rights, and state law can still expose information.
 
-1. **Removes the assets from your taxable estate.**
-2. **Can shield them from creditors and lawsuits.**
+### Irrevocable trust
 
-It works for the same reason the revocable one doesn't: you actually gave the assets away. The trust owns them, not you.
+An irrevocable trust can change ownership, control, estate inclusion, income taxation, creditor exposure, and basis.
 
-**For a Bitcoin holder, the future growth escapes your estate too.** You move an asset out at its value on the day you transfer it, and everything it becomes after that grows outside the line. **That makes the tool worth the most when you expect the most growth.**
+The trust only produces those results when the documents, funding, retained powers, and state law actually support them.
 
-Cost: flexibility, permanently.
+The effect depends on:
 
-### The gate already ran. This lesson is what happens after it fires
+- whether the transfer was completed;
+- which powers the grantor retained;
+- who can benefit;
+- whether the trust is a grantor trust for income tax;
+- withdrawal or substitution powers;
+- creditor-access rules;
+- the governing state;
+- gift and generation-skipping consequences;
+- whether the property remains in the taxable estate for basis purposes.
 
-**There is one estate gate in this course, and it is not in this lesson.** It is the nine triggers and four levels you run in the core estate walkthrough (8.5): a blended family · minor children · multiple heirs · business ownership · heavy Bitcoin concentration · probate or privacy concerns · incapacity planning · assets or property in more than one state · an advanced custody setup somebody has to operate after you. You count those, you place yourself on the four levels, and **most households land at Level 1 or 2 and are finished.**
+Do not use "irrevocable" as a synonym for "outside the estate" or "protected from creditors."
 
-If you have not run it, run it there first. This lesson assumes it lit up and you landed at **Level 3 or 4** — a trust or coordinated plan.
+### Taxable estate versus succession problem
 
-⚠ **Net worth is an input, not the gate.** Federal estate tax touches a tiny fraction of estates, so size alone never sends you here.
+The first attorney question is what problem the household has.
 
-**Re-run the gate every year.** For a Bitcoin holder, the trigger most likely to flip is concentration and the growth behind it.
+A succession problem can exist at modest wealth: minor children, a special-needs beneficiary, a blended family, a business, or a complicated custody process.
 
-### Four sizing questions, once the gate has fired
+An estate-tax problem depends on current federal and state law, ownership, deductions, prior gifts, and future values.
 
-These do not decide *whether* you need a trust — the core gate already did that. They decide **which kind**, because the revocable/irrevocable choice below turns on tax exposure:
+A fast-growing asset can make future estate exposure worth modeling. It does not by itself tell you to give up control today.
 
-1. Is your estate near or above the **federal exemption**? (Verify the current number; do not rely on a figure written here.)
-2. Does your **state** run its own estate or inheritance tax?
-3. Is most of your wealth in a **fast-appreciating asset**?
-4. Could **future growth** push you over the line?
+Model at least two defensible growth cases, then ask the attorney and CPA which ownership structures preserve the plan's tax and basis goals.
 
-Yes to any of these pushes you toward the irrevocable side and its trade-off. No to all four, with the core gate still lit on family or control grounds, usually points at a revocable trust or a well-drafted will — probate, privacy and succession problems, not tax problems.
+### Bitcoin ownership and the key plan
 
-### Where the couple landed
+The legal owner and the signing policy have to match.
 
-The couple runs the core gate in 8.5. Minor children (10 and 12), multiple heirs, and heavy Bitcoin concentration are true; the rest are not. They are in Texas, so no state estate tax, and nowhere near the federal exemption.
+If a trust owns Bitcoin but the trustee has no practical way to carry out authorized transactions, the document and custody plan are misaligned.
 
-**They land at Level 2: an attorney-supervised will with a guardian nomination and a provision holding a minor's share until the children are older, coordinated with the access split.** Not a trust household — which saves them $3,000-4,000 and a lot of complexity. The open question they write down and re-check annually is whether future growth changes the tax answer.
+If one trustee holds enough signing material to act alone, the household may have recreated the single-person risk the custody module tried to remove.
 
-### Bitcoin in a trust: the design problem
+Multisig can distribute technical signing power, but one key does not automatically define legal control.
 
-Tax logic makes irrevocable worth doing. What makes it hard is **who holds the keys.**
+The trust instrument should state the trustee's authority and duties. The wallet policy should state the technical threshold. The recovery map should show how the authorized team can act. Those three layers must agree.
 
-- If the trust legally owns the Bitcoin but **you're the only one who can move it**, you've written a document that doesn't match reality.
-- If the **trustee holds everything**, you've handed one person unilateral access. The exact thing the access split lesson removes.
+### The prudent-investor issue
 
-**With multisig there's a clean answer: the trustee holds one key, never the seed.** One key can't spend, but it makes the trustee a real participant in a structure they legally control, without unilateral access.
+Most states follow some form of prudent-investor law.
 
-Legal structure and key plan get designed together, with an attorney who understands both.
+The general framework evaluates the portfolio as a whole and ordinarily favors diversification unless the governing instrument, purposes, circumstances, or state law support another approach.
 
-### The duty that can force your trustee to sell
+A trustee asked to hold a concentrated Bitcoin position needs explicit, state-specific planning.
 
-Before you hire anybody to draft this, one piece of law makes a Bitcoin trust different from every other trust, and it is the most expensive thing here to not know.
+There is not one universal sentence called "the Bitcoin waiver" that solves every state and every trust.
 
-A **trustee** is whoever manages the trust for the beneficiaries. Trustees are generally held to a **prudent-investor standard**: manage the assets the way a careful, reasonable investor would. One thing that standard treats as careful is **diversification**.
+The attorney should consider the tools available in that jurisdiction, which may include:
 
-So a trustee holding a large, concentrated Bitcoin position is on the wrong side of that duty by default. They can be legally pressured to sell it, and if they don't, they can be personally liable to the beneficiaries. **That duty puts your trustee's own money on the opposite side of your Bitcoin thesis**, whether or not concentration was what you intended.
+- express authority to retain or concentrate in a named asset;
+- modification of the diversification duty;
+- a directed-trust structure;
+- a special trustee, trust protector, or investment adviser;
+- trustee selection based on willingness and competence;
+- consent, release, accounting, or exculpation procedures allowed by law;
+- a process for liquidity, taxes, distributions, and rebalancing.
 
-**The fix is a waiver** written into the trust document, releasing the trustee from the duty to diversify this particular asset. It reframes holding the Bitcoin as the prudent thing rather than the exposed thing. Not automatic, not boilerplate: an attorney has to decide to draft it in.
+The correct question is:
 
-**What happens when nobody asks.** Our couple lights up the gate a decade from now. The stack has done what they hoped, and they pay a good local attorney to build a trust around it. Documents clean, signing perfect. Then he dies, and the trustee sells the Bitcoin. All of it. The trustee sold the exact asset the trust was built to hold, doing exactly what the standard asked of them.
+"How will this trust authorize and protect a fiduciary who is expected to retain concentrated Bitcoin, and what limits still cannot be waived under this state's law?"
 
-The attorney wasn't careless. The conversation never happened. The problem was a question nobody asked, not a skill nobody had.
+### The basis trade-off
 
-> **So one question goes on top of the attorney checklist from the executor
-> lesson:** *for a trust, will you waive the prudent investor rule, so the
-> trustee isn't obligated to diversify out of Bitcoin?* An attorney who hasn't
-> heard that question before hasn't drafted this kind of plan.
+Inherited property generally receives a date-of-death basis under current federal law.
 
-### Two misconceptions
+Property transferred during life, property excluded from the estate, and property in different trust structures can have different basis consequences.
 
-- **"Trusts are for the ultra-rich."** Wrong. A special-needs heir or a blended family can make a trust the right call at modest wealth.
-- **"Everyone needs a trust."** Also wrong. A large, simple estate may not need one yet. Size alone isn't a trigger. The gate is.
+A strategy that reduces estate tax can create more capital-gain exposure, and the reverse can also be true.
+
+That is why the estate attorney and CPA model the ownership and basis result together.
+
+### The couple's result
+
+The couple has minor children and concentrated Bitcoin, so the conversation is real.
+
+The course cannot conclude from those facts alone that a revocable trust, irrevocable trust, or attorney-supervised will is definitely the right answer.
+
+The output is a scoped attorney question:
+
+- how should assets be held for the children;
+- who has authority during incapacity and after death;
+- which assets avoid probate already;
+- whether a funded revocable trust improves administration;
+- whether future estate exposure justifies advanced planning;
+- how the custody threshold and fiduciary roles should align.
+
+"Trust not currently indicated" can still be a finished answer after that review.
+
+### What to remove from the decision
+
+Do not choose a trust because:
+
+- someone said every homeowner needs one;
+- Bitcoin might go up;
+- a trust sounds more private;
+- an online form says the estate is complex;
+- one generic irrevocable-trust benefit sounds attractive;
+- a provider wants the structure to fit its custody product.
+
+Choose only after the legal, tax, custody, and family jobs are named.
+
+### Read it in orange plan
+
+Protect → Projected legacy shows a planning estimate under the saved baseline.
+
+Use it to identify whether the estate may cross a current federal or state planning line under assumptions you would defend.
+
+The app does not establish legal domicile, determine a filing-status-specific exemption, draft a trust, transfer title, or prove that a fiduciary duty has been modified.
+
+Change an assumption only as a scenario or temporary read, then return it to the saved baseline.
 
 ### Homework
 
-1. If you have not run the core gate in 8.5, run it there. Count the nine triggers, place yourself on the four levels, and write the answer down with a date. **"Trust not currently indicated" is a finished answer.**
-2. If it put you at Level 3 or 4, work the four sizing questions above to see whether your problem is a tax problem or a probate/privacy/succession problem.
-3. Then take the five attorney questions from the executor lesson to two or three candidates — including the fifth one, the prudent-investor waiver.
-4. Re-run the core gate once a year.
+1. Run the core complexity triggers and write the actual problem, not a trust type.
+2. Read the projected after-tax estate under at least two defensible growth paths.
+3. Inventory which assets pass by beneficiary form, joint ownership, will, or current trust.
+4. Take the digital-asset, basis, fiduciary-retention, and custody-policy questions to a state-licensed estate attorney and the tax questions to the CPA.
+5. Record the dated result, including "no trust currently indicated."
 
-
-### Read it in the app
-
-> **Reference, not a separate screen capture.** The steps below are written for a reader working through the app on their own screen; the talking-head lesson can be recorded without an additional capture.
-> Do not quote the federal exemption figure anywhere it can age: the app prints
-> the current one, so read it there.
-
-#### Before you start
-
-The Protect legacy section reads the **baseline projection**, not a scenario. That single fact matters at step 3.
-
-- **Let the projection finish loading.** The section shows *"Running your baseline projection…"* while it works.
-- **Set State of residence** in the legacy drawer first, or the state row reads *"select a state of residence below"* and there is nothing behind the state caveat.
-
-⚠ **The app's federal exemption comparison is not filing-status aware.** It applies one flat exemption regardless of married/single. A married couple's real line is different, and the app does not model it. Hold that limitation in mind at the federal row.
-
-#### 1 · Read the projected estate
-
-**Protect → section "Projected legacy."**
-
-Sub-line: *"What your plan leaves behind at age {N} ({year})."*
-
-Two columns:
-
-**Left. "Bitcoin remaining"**. BTC quantity, split into:
-
-- **"Liquid"**
-- **"Pledged as loan collateral"**
-
-**Right. "Projected estate after debt"**. With three rows:
-
-- **"Gross assets"**
-- **"Less remaining debt"**
-- **"After tax"** (tagged **est.**)
-
-⚠ **Dollar toggle: "Today's $ / Nominal $". Defaults to Today's $.** This is the number at the *end* of the plan, so nominal dollars will look bigger. Flip it once, deliberately, and know which one you are reading.
-
-#### 2 · Open the ledger. Where the tax actually lands
-
-**Same section → "See details →."**
-
-Drawer opens under **"The math behind these numbers."**
-
-The right-hand ledger is **"After tax. Modeled"** · caption *"by account type & state."*
-
-Rows in order:
-
-| # | Row | What it is |
-|---|---|---|
-| 1 | **Estate after debt** | The gross starting point |
-| 2 | **Income tax, inherited tax-deferred** | *"ordinary income to heirs · 10-year rule"* |
-| 3 | **State estate tax** | Modeled from your state selector |
-| 4 | **Federal estate tax** | With the exemption comparison as sub-caption |
-| 5 | **After-tax estate** | The number that reaches heirs |
-
-⚠ **The exemption line is the Federal row's sub-caption.** It reads either *"under exemption at current law"* or *"over the {amount} exemption at current law."* Point at it; don't repeat the number.
-
-Controls below the ledger: **"State of residence"** and **"Heir marginal rate."** Set both before you read the number aloud.
-
-⚠ **When there's no federal tax, that row reads "" (muted).** That dash is the good outcome: the estate clears the line under current law, and there is nothing to plan around.
-
-The number that matters is the last row: **After-tax estate.** Not the gross. Not the pre-tax.
-
-#### 3 · The growth dial. Move the assumption
-
-The Protect legacy number reads the **baseline plan.** Scenarios don't move it. To see the estate move, change the plan's own growth assumption.
-
-**Plan → Retirement → "Edit assumptions" → section "Bitcoin."**
-
-Two model cards:
-
-| Model | Curve | Blended |
-|---|---|---|
-| **Conservative** | 20% → 6% | ~16% blended |
-| **Moderate** | 30% → 8% | ~22% blended |
-
-- Switch to **Conservative** → return to Protect → read **"After-tax estate."**
-- Switch to **Moderate** → return to Protect → read it again.
-
-⚠ **Set the assumption back to where it started before you finish.** This step is a read, not a decision. You want the number under both cases; you don't want the plan itself to move because you were curious.
-
-Change nothing but the growth assumption and watch the estate move. That is allocation plus time, on one dial.
-
-#### 4 · Compare to the line + the state caveat
-
-Back on Protect → the **"Federal estate tax"** and **"State estate tax"** rows.
-
-**Under the line** in every growth case you'd defend → *"that's a good outcome"*. Close the tab. Most households live here.
-
-**Over the line** under assumptions you actually believe → the trust conversation is warranted. That's not "definitely owe tax". It's "worth an attorney hour this year."
-
-The state row's sub-caption names your state and its note when a state estate tax applies.
-
-⚠ **A handful of states run their own estate tax at far lower thresholds** than the federal exemption. It's a local-attorney question rather than a plan-modeling one.
-
-#### 5 · Record this module's decisions
-
-Off-app, in your notes or a shared document.
-
-- **Estate tax: under the line, or over it?** Under which growth case.
-- **State flag.** Yes / no, and which state.
-- **Attorney conversation.** This year, or deferred to the annual review.
-- **Executor and backup.** Asked and accepted.
-- **Your estate level, 1 to 4.** From the core gate in 8.5.
-- **Access-split status.** Set / tested / not yet.
-- **Insurance gaps.** Flagged on the Coverage Audit worksheet.
-- **If the trust gate said yes:** the five attorney questions go into the interview.
-
-Optional artifact: **Protect header → Download estate summary.**
-
-⚠ **That is not the encrypted plan backup.** The backup lives at Settings → Data & backups → Export Plan, and it belongs to the annual review, not here.
-
-For most households, running this number earns you the right to stop thinking about it until next year.
-
-#### Where this module's work lives
-
-| # | Item | Where it lives |
-|---|---|---|
-| 1 | Heir letter, app record (contacts, content, PDF export) | Protect → Heir letter → Edit heir letter → Download PDF |
-| 2 | Heir letter, family-ready page | Course toolkit → **06 The Heir Letter** (PDF) |
-| 3 | Dead man's switch, armed | Protect → Dead man's switch → Turn on with a first check-in |
-| 4 | Beneficiaries current | Protect → Beneficiaries → Add beneficiary |
-| 5 | AI-assisted draft (optional) | Protect → Heir letter assistant → Draft with AI |
-| 6 | Executor Packet, walked and signed | Course toolkit → **08 Executor Packet** (PDF), section 6 signed |
-| 7 | Estate + insurance decisions | Recorded decision + Coverage Audit worksheet |
-| 8 | Projected estate read | Protect → Projected legacy → Projected estate after debt |
-| 9 | After-tax number + exemption comparison | Protect → See details → After-tax estate / Federal estate tax |
-| 10 | State of residence + heir marginal rate | Protect → legacy drawer selects |
-
----
-
-
-Do not buy structure until the gate lights up, and design the legal and key plans together.
+You are done when the household knows the problem the trust would solve, the ownership and key plan agree, and no one has treated a generic trust label as the answer.

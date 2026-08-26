@@ -59,7 +59,7 @@ sum of them:
 - [ ] Your true surplus is a number in the app, not an estimate
 - [ ] You have two spending numbers: normal, and bare-bones
 - [ ] Your reserve target is set **in months of spending**, and the app shows how many months you actually hold
-- [ ] Every known future cost inside ten years is entered as a **life event** (so the projection knows it is coming) and has a funding lane, or you have deliberately decided monthly cash flow absorbs it
+- [ ] Every known future cost inside ten years is entered as a **life event** and has a funding lane, or you have deliberately decided monthly cash flow absorbs it. For a cost five or more years away, Bitcoin can remain part of the funding plan, and you have identified the committed amount that will become less Bitcoin-dependent as the date approaches
 - [ ] For each fixed dated cost you can say the monthly number and where it came from: **target ÷ months to go**. You do this division, not the app
 - [ ] **College — the optional lesson 2.4, and only if it applies:** you can say what you are committing to provide, name the sources that will cover it (529, cash flow while enrolled, aid, student work, financing, Bitcoin), and point at the part you have decided to protect from a Bitcoin sale. **Not done when the sticker price is sitting in cash — that was never the target.** No children and no other education goal completes this line by skipping the lesson deliberately
 - [ ] You can say what your reserve is *for* in one sentence: so a bad month never forces a Bitcoin sale
@@ -108,7 +108,7 @@ sum of them:
 
 **You are done when:**
 
-- [ ] Your cost basis is reconstructed and **the records exist to prove it** — no records means a basis of zero, which means tax on the entire sale price
+- [ ] Every material lot is labeled **verified, estimated for planning, or unproven**; the source records are retained, and an unproven lot is not silently assigned return basis
 - [ ] You know which of the three buckets your money sits in, and roughly in what proportion
 - [ ] You have identified your low-income window, or established that you do not have one yet
 - [ ] You have modelled one sale in the app and seen the tax it produces before you would ever make it
@@ -138,7 +138,7 @@ sum of them:
 **You are done when:**
 
 - [ ] Your custody level matches your current stack **and who depends on it**
-- [ ] **Recovery is proven by the path your setup actually has.** *Self-custody (Level 2 and up):* a real wipe-and-restore has been completed on a device — not a belief that the backup works. *Institutional custody (Level 1):* login recovery has been run end to end, and the institution's death-claim process has been read and verified with the provider. **There is no device to restore at Level 1, and the institutional path completes this line**
+- [ ] **Recovery is proven by the path your setup actually has.** *Self-custody:* a vendor-supported backup check or spare-device recovery verified the intended wallet, including passphrase or multisig policy when used; a destructive reset is optional and never the first test on the only live device. *Institutional custody:* login recovery and the provider's death-claim process were verified. **The setup-specific proof completes this line.**
 - [ ] Your largest single point of failure has a specific fix with a date on it. One, not nine
 - [ ] Your account hardening is done: secured email, unique passwords, non-SMS two-factor, withdrawal delays on
 - [ ] Your Family Custody Map contains the **process and no secrets**, and someone else knows where it is
@@ -159,7 +159,7 @@ sum of them:
 - [ ] Your heir letter is written in your own words (template text does not count), the PDF is saved, and it is stored away from your seeds and devices
 - [ ] **Delivery to your family is arranged by the path your setup actually has.** *Cloud mode:* the switch is armed and its recipients have been told in advance. *Local Only mode:* the switch cannot operate, so a deliberate non-automated delivery process exists, is written down, and has been tested end to end with the person who would carry it out
 - [ ] Your coverage gap is a number, and it has gone to a licensed professional if it needed to
-- [ ] The trust gate has been run once and given an actual answer. **Most households stop at "no", and that is complete**
+- [ ] The trust conversation gate has produced a dated answer: core cleanup, revocable-trust discussion, coordinated advanced planning, or **no trust currently indicated**
 
 ---
 

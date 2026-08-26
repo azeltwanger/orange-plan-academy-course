@@ -1,6 +1,7 @@
+
 # 7.4 · DEMO — Hardware wallet setup + exchange hardening
 
-**External screen record · 3 beats · ~9 min final** — NOT Orange Plan. Vendor tools only. Evergreen: record once, keep forever.
+**External screen record · 3 beats · ~10 min final** — NOT Orange Plan. Vendor tools only.
 
 > **DO** = do this on camera · **SEE** = point at this · **⚠** = don't get this wrong
 > Narrate in your own words. Nothing here is scripted.
@@ -9,87 +10,71 @@
 
 ## Before you record
 
-- [ ] Manufacturer-direct hardware wallet, still sealed
-- [ ] Throwaway demo wallet with trivial funds · a demo exchange account you're willing to burn
-- [ ] Stage/blur plan for the seed display: tape, shield, or a tested camera angle
+- [ ] Exact device, firmware, official setup guide, and backup standard documented
+- [ ] Manufacturer or authorized-source device; throwaway demo wallet only
+- [ ] Spare compatible device or vendor-supported backup-check feature ready
+- [ ] Demo exchange account with no real personal data
+- [ ] Camera/reflection plan tested; no backup, passphrase, PIN, private key, QR, descriptor, or account secret can enter frame
 
-**⚠ PRODUCTION SAFETY IS THE JOB.** No real seed, no seed QR, no PIN pattern ever reaches frame. Review the footage for reflections, second monitors, and phones before publishing.
-
----
-
-## □ 1 · Hardware wallet: the six steps (~5:30)
-
-**DO 1** Buy direct from the manufacturer — never used, never third-party
-
-**DO 2** Generate a **new** wallet on the device
-
-**⚠** The seed comes from the device's own randomness. Never type a seed in from anywhere else.
-
-**DO 3** Write the seed offline + set a PIN
-
-**⚠** Show the ACT — hand on paper or steel — never the words. No PIN pattern on screen.
-
-**DO 4** Send a small test transaction — trivial amount, real on-chain record
-
-**DO 5** **Wipe the device.** Factory reset, on purpose.
-
-**⚠** This is the scary step, and it's the whole reason we're on a throwaway.
-
-**DO 6** Restore from the seed — type the words back from the offline copy
-
-**SEE** Balance + history reappearing
-
-**⚠** Say it when the balance lands: only now has this device earned real money.
-
-**⚠** If the restore fails on camera, retake — and note that the point just made itself.
-
-**⚠** Three moments the camera never sees directly: the seed display, the PIN entry, the restore input.
+**⚠ PRODUCTION SAFETY IS THE JOB.** Review the finished footage frame by frame before publication.
 
 ---
 
-## □ 2 · Exchange hardening (~2:30)
+## □ 1 · Hardware wallet: prove recovery safely (~6:00)
 
-**⚠** Name vendors as examples, not endorsements.
+**DO 1** Verify the device source, authenticity procedure, official software, and firmware path.
 
-**DO 1** Strong unique password
+**DO 2** Generate a new throwaway wallet on the device. Never use words or a PIN supplied in the package.
 
-**⚠** A password manager is fine here. This isn't a wallet.
+**DO 3** Record the backup offline and name the actual standard. Show only the physical act, never the words or shares.
 
-**DO 2** 2FA off SMS → authenticator app or physical key
+**DO 4** Use the manufacturer's backup-check feature when available.
 
-**⚠** SIM-swap is the boring attack that keeps working.
+**DO 5** Send a trivial test transaction and verify the receive address on the device's trusted display.
 
-**DO 3** Secure the **email account first**
+**DO 6** Restore on a spare compatible device or approved recovery environment. Verify the intended wallet fingerprint/address and the test transaction.
 
-**⚠** It's the master key. Every reset flow routes through it.
+**OPTIONAL DESTRUCTIVE BEAT** On a throwaway device only, after the backup has already passed the non-destructive check, demonstrate factory reset and recovery under the exact vendor procedure.
 
-**DO 4** Turn on withdrawal delays + allow-listing
+**⚠** Destructive wiping is not the student's first backup test and never happens on the only working copy of a meaningful balance.
 
-**⚠** No fast path out. A takeover can only send to your own destinations.
-
-**⚠** Frame the beat: most losses are account takeovers, not broken cryptography.
+**⚠** For passphrase or multisig, the demo is incomplete until the exact passphrase or wallet policy/descriptor is restored and the intended wallet is verified.
 
 ---
 
-## □ 3 · The never-list (~1:00) — camera, NO screen
+## □ 2 · Exchange and email hardening (~3:00)
 
-**⚠** Never type seed words into a computer, phone, website, screenshot, or AI chat.
+**DO 1** Secure the primary email with a unique password and a passkey or hardware security key where supported. Show a backup key or recovery-code plan stored separately.
 
-**⚠** Never buy a used or third-party device.
+**DO 2** Secure the exchange with a unique password.
 
-**⚠** Urgency is the red flag. Close the app and slow down.
+**DO 3** Use a passkey/security key when supported; otherwise use an authenticator app. SMS is the last choice.
 
-**⚠** No real company ever asks for your seed.
+**⚠** TOTP is stronger than SMS but is not phishing-resistant merely because it is an app.
+
+**DO 4** Review active sessions, recovery methods, withdrawal allowlists/delays, and secondary approval where the provider supports them.
+
+**⚠** Name vendors as examples, not endorsements. Controls and recovery paths change.
 
 ---
 
-## □ WRAP — spot check off the screen
+## □ 3 · The never-list (~1:00) — camera, no screen
 
-- [ ] Restore completed on camera
-- [ ] Every seed frame staged or blurred (watch the footage back)
-- [ ] Email named FIRST in the exchange beat
-- [ ] Never-list delivered to camera, no screen
+- Never type or photograph wallet recovery material for a website, chat, support form, ordinary computer, phone note, or AI.
+- Never use a pre-generated backup supplied with a device.
+- Never approve a destination shown only on the computer or phone.
+- Never respond to an urgent recovery message through the link it supplied.
+- No legitimate support person needs the wallet backup, private key, passphrase, or PIN.
 
-**⚠** Hand-off: the custody-map walkthrough is where this demo becomes a checked box. Check recovery-tested and backup-verified ONLY if you actually ran this.
+---
+
+## □ WRAP
+
+- [ ] Backup check and spare-device recovery shown
+- [ ] Optional destructive reset clearly labeled throwaway-only
+- [ ] Intended wallet/address verified, not merely words accepted
+- [ ] Passkey/security-key option shown before TOTP and SMS
+- [ ] Recovery codes / backup authenticator stored separately
+- [ ] Footage reviewed for reflections and hidden screens
 
 **END**

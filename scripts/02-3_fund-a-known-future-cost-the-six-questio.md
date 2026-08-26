@@ -4,6 +4,7 @@ TELEPROMPTER SCRIPT — segment 2.3
 RECORD CONTINUOUSLY INTO 2.4 — one sitting, one setup. The edit splits them at
 the ✂ mark at the foot of this script. A student with no education goal watches
 this lesson and stops.
+SOURCE: source-material/2026-08-26-f20-and-voice-pass.md · Austin five-year funding ruling
 ============================================================
 
 In today's lesson, we're going to cover how to give every future cost that you already know about its own lane.
@@ -24,9 +25,11 @@ You can see the full range on the screen, but let me walk you through the patter
 
 If it's one to 3 years out, you're still in short-term Treasuries or a high-yield savings account. No stocks and no Bitcoin, because that's not enough time to recover if you get a bad draw right before the bill comes due.
 
-Three to 7 years out is where you can start taking some risk. A balanced mix of stocks and bonds, or something like an I-Bond ladder. I'd still keep Bitcoin out of that lane.
+Three to 5 years out is where I would start separating the part you have firmly committed to from the part that is still flexible. The committed portion can start moving into a balanced mix of stocks and bonds, an I-Bond ladder, or another less volatile Bridge holding.
 
-And then 10 years or more is where a planned Bitcoin sell schedule can actually start to make sense. At that point, cash is the wrong answer, because the drag of holding cash that long is going to cost you more than the volatility would. If you are going to fund something out of Bitcoin, plan those sales into your low-bracket years, meaning the years when your income is small enough that the tax rate on those sales is low, and I'll cover how to find those years in the tax module.
+From 5 to 10 years out, Bitcoin can remain part of the funding plan. I would not automatically move the entire future expense into cash at year 5. The part you absolutely cannot afford to come up short on should depend less and less on Bitcoin as the date gets closer. The part that is flexible can stay exposed to Bitcoin longer.
+
+At 10 years or more, a planned Bitcoin sell schedule can make sense for a larger part of the cost. If you are going to fund something out of Bitcoin, plan the sales into your low-bracket years, meaning the years when your income is small enough that the tax rate on those sales is low, and I'll cover how to find those years in the tax module.
 
 == PRE-FUNDING VERSUS PAYING FROM FLOW ==
 

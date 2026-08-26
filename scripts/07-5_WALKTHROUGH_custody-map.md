@@ -62,7 +62,7 @@
 
 **⚠** The top unchecked item is this week's fix. Not the whole list.
 
-**⚠ The honesty beats, verbatim from the app:** *"Full recovery process tested end-to-end"* and *"Backup seed verified readable."* Check these ONLY if the wipe-and-restore actually happened. Checked-but-fabricated means the plan believes something untrue.
+**⚠ The honesty beats, verbatim from the app:** *"Full recovery process tested end-to-end"* and *"Backup seed verified readable."* Treat the app's word seed as the actual wallet backup standard. Check these only after a vendor backup check or spare-device recovery verified the intended wallet; a destructive wipe is not required and is not the first test.
 
 **SEE** The single-point-of-failure beats: *"Storage locations documented. Hints only"* · *"No single point of failure can destroy access"*
 
@@ -137,7 +137,7 @@
 
 - [ ] Needs attention is shorter than when you started
 - [ ] Top remaining item named out loud as this week's fix
-- [ ] Hardware items honest — leave unchecked anything you haven't actually done
+- [ ] Hardware items honest — recovery proof matched the exact setup and did not rely on the only working copy
 - [ ] Distribution items done as the only-one hunt, itemized
 - [ ] Access after death = next module's homework list
 - [ ] Nothing secret typed — say the absence out loud as the win

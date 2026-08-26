@@ -1,110 +1,125 @@
 TELEPROMPTER SCRIPT — segment A5.1
 A5.1 RMD risk and Roth conversions
-~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~10 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+RESEARCH AUDIT: 2026-08-25 · see research/PRIMARY-SOURCE-REGISTER.md
 ============================================================
 
-In today's lesson, we're going to cover the RMD risk, and the main tool for defusing it, which is the Roth conversion.
-
-This lesson is US-specific, and I'll have a note for non-US viewers at the end.
-
-The whole idea is that you're moving money out of your traditional accounts now, at a low tax rate, so that you're not forced to pull it out later at a high one.
-
-That's it. That's the entire play. Everything else here is just proving two things: that the later rate really is going to be higher, and how much room you actually have to work with right now.
-
-The bracket lesson opened up that low-bracket window. This lesson is about why filling it matters so much, especially if you're holding Bitcoin.
-
-== THE BITCOIN TIMING ANGLE ==
-
-And there's a second dial here that almost nobody talks about, because it only exists if you're holding Bitcoin.
-
-A conversion is taxed on the dollar value of what you move, on the day you move it. So the price of Bitcoin on that day decides your tax bill.
-
-Think about what that means. If your retirement account holds Bitcoin and the price is down 50% from the top, then moving that Bitcoin costs you half as much in tax as moving the exact same coins would have cost at the top. Same coins landing in the Roth. Half the bill.
-
-I had a client put it better than I did. He said, it's the same amount of cash, but a different amount of Bitcoin. That's exactly right. For the same tax dollars, a bear market moves more of your Bitcoin into a place where it never gets taxed again.
-
-So on top of picking the right years, which is what the bracket lesson covered, you're also picking the right prices. And a deep bear market is when this move is on sale.
-
-But I'm not telling you to try to time the bottom. Nobody knows where the bottom is. What I am saying is that if Bitcoin is well off its highs and you were already planning conversions, that's a much better moment to do one than a moment when the price just made a new high.
+In today's lesson, we're going to cover why a large traditional account can create forced taxable income later, and how Roth conversions can reduce that risk during the years when you control more of the income.
 
 == WHAT AN RMD IS ==
 
-RMD stands for required minimum distribution. It's money the government forces you to take out of your traditional retirement accounts once you reach a certain age. Right now that age is 75 for anyone born in 1960 or later, and you'll want to verify it in the year it applies to you, because Congress has moved it before.
+RMD stands for required minimum distribution.
 
-The amount is your account balance divided by an IRS life-expectancy divisor. And that divisor shrinks every year you age, which means the forced withdrawal climbs every year. Every dollar of it is taxed as ordinary income, whether you needed the money or not.
+It is the minimum amount the tax rules require an owner or beneficiary to distribute from certain retirement accounts.
 
-== THE COUPLE'S FUTURE RMD ==
+For an owner, the yearly amount is generally the prior December 31 balance divided by the life-expectancy factor that applies to that person.
 
-🎬 GRAPHIC: traditional-account balance growing left to right, hitting a wall labeled AGE 75, and a forced-withdrawal arrow pulling out of it that gets BIGGER every year after. The escalation is the point.
+The applicable starting age depends on the birth cohort.
 
-Let's build the couple's future RMD so you can see it coming.
+Under current law, age 73 applies to the intermediate cohort, and age 75 applies to people who attain age 74 after 2032. The couple in this course is 45 now, so their current-law planning age is 75.
 
-To isolate what the future contributions do, I'm setting their existing $90,000 aside in this example and modeling only the next 15 years of traditional contributions. They're putting $12,000 a year into the 401(k), plus the employer match, which is 50% up to 6% of a $150,000 salary, so $4,500. That's $16,500 a year going in.
+Roth IRAs and designated Roth plan accounts do not require lifetime distributions from the original owner under current law. Beneficiaries still have distribution rules.
 
-Run that forward 15 more years at a 7% stock assumption, and at age 60 the balance is around $400,000. Then let it compound another 15 years with no new contributions, and by 75 it's around $1,100,000.
+== WHY THE ACCOUNT CAN BECOME A PROBLEM ==
 
-Their first RMD is $1,100,000 divided by 24.6, which is about $45,000 of forced ordinary income.
+Traditional retirement money is not bad money.
 
-Now stack it. At 75, that $45,000 RMD lands on top of their $51,600 of Social Security. That's about $97,000 of ordinary income the couple didn't ask for, and it climbs every year because the divisor keeps shrinking.
+The problem is a mismatch between the deduction you received while contributing and the forced income the account may create later.
 
-And if they never spend that money, their kids inherit the account with the tax still owed on it. Under current rules the kids have 10 years to empty it, and most people inherit in their 40s and 50s, which is usually when they're earning the most they'll ever earn. So that money often comes out at a higher rate than the parents would have paid on it.
+The couple contributes $16,500 per year including the employer match in the illustration.
 
-== WHY BITCOIN HOLDERS SHOULD CARE MORE ==
+At a flat 7% illustration for 15 years, that grows to roughly $415,000 around age 60. Left for another 15 years at the same flat rate, it is roughly $1.14 million around age 75.
 
-I think Bitcoin holders need to care about this more than anyone else.
+Using the current age-75 Uniform Lifetime factor of 24.6 as an illustration, the first required distribution would be roughly $46,000 before adding Social Security or any other income.
 
-Take the exact same contributions, but now with Bitcoin exposure inside the traditional account growing at 20% instead of 7%. At age 60, the balance isn't $400,000, it's around $1.2 million. By 75, it's around $18.5 million. And the first RMD is roughly $750,000 a year of forced ordinary income, at whatever rate the government has set in that decade.
+Those are illustration assumptions, not a projection promise. The app should calculate the actual roadmap from the saved account, return, and tax assumptions.
 
-The better Bitcoin performs inside a traditional account, the bigger the forced-income problem you're building. Success is what creates the trap.
+== WHY BITCOIN EXPOSURE MAKES THE SENSITIVITY LARGER ==
 
-== THE FIX: SHRINK THE BUCKET EARLY ==
+Now run an intentionally extreme sensitivity check.
 
-The fix is to shrink the tax-deferred bucket on your terms, in your window. And the main tool is the Roth conversion.
+A flat 20% return on the same annual contributions would produce roughly $1.19 million after 15 years, then more than $18 million after another 15 years if that flat return continued.
 
-A Roth conversion is moving money from a traditional account into a Roth account, in a year that you choose. You pay ordinary income tax on the amount you move, now. In exchange, that money never faces an RMD again, and it grows tax-free from that day forward.
+At the same illustrative divisor, the forced distribution would be hundreds of thousands of dollars.
 
-What you're really doing is trading a low rate you chose today for a high rate you'd have been forced into later. And at the same time, you're shrinking the balance that the RMD divisor gets applied to.
+That is not the return assumption I would use as the baseline. It is a sensitivity example showing why a fast-growing asset inside a traditional account deserves attention before the forced-distribution years arrive.
 
-== FILL THE BRACKET, DON'T SPILL ==
+== WHAT A ROTH CONVERSION DOES ==
 
-The technique is: fill the bracket, don't spill.
+A Roth conversion moves money from a traditional account into Roth.
 
-You look at your room from the bracket lesson. You convert just enough to reach the top of your current low bracket. And you stop before you spill over, because every dollar past the line gets taxed at the next bracket's rate. Done right, every converted dollar stays at the rate you chose.
+The taxable amount generally enters ordinary income in the conversion year. The converted amount then sits in the Roth bucket, where qualified distributions can be tax-free and the original owner has no lifetime RMD under current law.
 
-== RUNNING THE CONVERSION ON THE COUPLE ==
+The conversion is not free. You are choosing when to recognize the income.
 
-Let's run it. The couple is 60, retired, with basically no earned income.
+The planning opportunity appears when today's all-in cost is lower than the cost you reasonably expect later, or when reducing the traditional balance creates flexibility the household values.
 
-They convert about $100,000. Subtract the standard deduction, around $31,400 when they ran this, and the taxable amount is about $68,000. That lands in the 12% bracket, and the tax comes out to roughly $7,700. Verify the deduction and the brackets in the year you convert, because they move.
+== THE RMD ITSELF CANNOT BE CONVERTED ==
 
-Now repeat that 4 years running, from 60 to 63, and they move roughly $400,000 out of traditional, plus or minus whatever the account earns during that window. Read the remaining balance off the app before the last conversion. The total cost was about $30,000 in tax, paid on their schedule, to retire a bill that was heading for a much higher rate.
+Once an RMD is due for a year, the required amount has to come out. That required amount is not eligible to be converted.
 
-== PAY THE TAX FROM OUTSIDE THE ROTH ==
+A conversion can happen in the same year after the RMD is satisfied, but the required distribution is already taxable income and already fills part of the year's room.
 
-One rule that matters more than it looks: pay the conversion tax from outside the Roth.
+That is one reason the years before RMDs can be valuable.
 
-If you convert $30,000 and the bill is $3,600, pull that $3,600 from taxable Bitcoin or from checking, not from the conversion itself. Because if you pay it from the Roth, only $26,400 actually lands in tax-free space. Pay it from outside, and the full $30,000 keeps compounding tax-free forever.
+== LOWER PRICE, MORE UNITS FOR THE SAME DOLLAR CONVERSION ==
 
-== THE CONFLICT TO FLAG ==
+The conversion amount is measured in dollars on the conversion date.
 
-Now, I have to flag a conflict, because these two lessons collide.
+If Bitcoin is held inside the traditional account, a lower Bitcoin price means the same dollar conversion can move more Bitcoin units into Roth.
 
-The bracket lesson showed about $68,000 of empty 0% capital-gains room in that same window. But conversion income is ordinary income, and ordinary income stacks underneath your capital gains. So filling the bracket with a conversion pushes some of those gains out of the 0% rate and into 15%.
+That can be useful, but it is not a reason to time the market with taxes. The tax bill, available cash, future growth assumption, and household risk all still matter.
 
-The two moves compete for the same window, in the same years. You can't run both at full size. Model them together, and the walkthrough shows you how the app does exactly that.
+== DO NOT STOP AT THE BRACKET ==
 
-== CONVERSIONS AREN'T THE ONLY TOOL ==
+The course used to frame the decision as filling a bracket without spilling into the next one.
 
-One more thing: conversions aren't the only tool. Plain withdrawals work too. You take money out of tax-deferred before RMD age, fill a bracket with it, and just spend it as income. Same bucket-shrinking effect, no conversion needed. Which one makes sense comes down to how much money you have and how much time is left before RMDs start.
+I think that leaves out too many of the other costs that can change with the conversion.
 
-And for completeness, there's also something called 72(t), which allows penalty-free early access on a rigid schedule. It's real, but it's strictly professional-review territory. I wouldn't touch it without a CPA in the room.
+A conversion can also affect Marketplace credits, the taxable portion of Social Security, Medicare IRMAA, NIIT, capital-gain room, state tax, deductions, and credits.
+
+So model the all-in marginal cost of the next conversion dollar.
+
+There may be a point where the federal bracket has not changed, but the healthcare or state-tax cost makes the next dollar unattractive.
+
+== PAYING THE TAX ==
+
+When possible, paying the conversion tax from taxable cash or another outside source keeps the full converted amount in Roth.
+
+That is generally cleaner than withholding part of the conversion, especially before age 59½, when an amount not converted may also be treated as an early distribution unless an exception applies.
+
+But "always pay from outside" is not a universal command. Liquidity, reserve needs, tax basis, and the rest of the plan still come first.
+
+== THE BENEFICIARY RULE IS NOT ONE SENTENCE ==
+
+The old script said the children would simply have 10 years to empty an inherited traditional account.
+
+Many nonspouse designated beneficiaries do face a 10-year outside deadline. But eligible designated beneficiaries have exceptions, and annual distribution requirements within the 10 years can depend on when the owner died and whether RMDs had started.
+
+So traditional money can leave heirs with a shorter distribution window and a larger tax problem. The exact schedule depends on the current beneficiary rules and the family's tax situation, so I would verify this part with the CPA.
+
+== THE DECISION FRAME ==
+
+A conversion is attractive when:
+
+- the household is in a genuinely lower all-in marginal-cost year;
+- taxable liquidity can cover the tax without weakening the reserve;
+- the traditional balance is on track to create forced income later;
+- the household values more Roth flexibility;
+- the plan remains strong after paying the tax.
+
+A conversion is less attractive when:
+
+- it destroys Marketplace credits or triggers another threshold;
+- the tax has to come from money the household needs soon;
+- the later rate is likely to be lower;
+- the move is being sized from a bracket table without the rest of the return.
 
 == HOMEWORK ==
 
-Your homework for this lesson is to:
+1. Open the Tax roadmap and identify the first low-income year before the applicable RMD age.
+2. Model three conversion sizes, including zero.
+3. Read federal tax, state tax, healthcare or Medicare effects, capital-gain room, and ending account balances together.
+4. Take the result to the tax professional as a proposed range, not a filing instruction.
 
-1. Estimate your tax-deferred balance at your RMD age, using your real contribution rate and an honest growth assumption.
-2. Divide it by about 26 for a first-year RMD estimate, and add your expected Social Security on top.
-3. If that total pushes you into a higher bracket than your bridge years, a Roth conversion schedule is worth modeling. Build the model, and bring it to your CPA.
-
-And if you're outside the US: the frameworks travel, the account types don't. Map the concepts with a qualified local professional.
+You are done when you know which years deserve an annual conversion review and what all-in cost would make you stop.

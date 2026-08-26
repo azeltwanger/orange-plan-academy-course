@@ -1,89 +1,137 @@
 TELEPROMPTER SCRIPT — segment 8.1
 8.1 The executor, the four legal documents, and choosing an estate attorney
-~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~10 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+RESEARCH AUDIT: 2026-08-25 · see research/PRIMARY-SOURCE-REGISTER.md
 ============================================================
 
-In today's lesson, we're going to cover the executor, the four legal documents, and how to choose an estate attorney who actually understands Bitcoin.
+In today's lesson, we're going to build the legal and human layer around the custody process.
 
-Custody was operational access, how you turn the device back into spendable Bitcoin. Estate is the legal transfer, how your family can inherit it without you in the room. And you need both, because your hardware wallet grants no legal authority and carries no instructions. It works for whoever can operate it. So a perfect custody setup can still leave your family locked out, for reasons that have nothing to do with keys.
+This module is US-specific and state-specific. The course can teach the jobs the documents perform. An attorney licensed in the governing state has to draft and supervise the actual plan.
 
-== THE EXECUTOR'S REAL JOB ==
+== NOMINATION IS NOT APPOINTMENT ==
 
-Let's start with the executor, because the title sounds like an honor, and it's actually a workload.
+A will usually nominates the person you want to serve as executor and directs the probate assets.
 
-Your executor runs the process after you're gone. They file the will with the court, which opens probate. Probate is just the legal process where a court confirms the will is real and gives somebody the authority to act on it. The court confirms the will, grants the executor legal authority, and supervises the wind-down. And under that supervision, the executor does four things: they inventory what you owned, they notify the people who are owed money, they pay the final bills and taxes, and they distribute what's left to the people you named.
+The executor generally receives legal authority through the court process after death. Before appointment, the nominee may have very limited power to act.
 
-That's months of paperwork, and they're doing it while grieving.
+If there is no valid will, the court can appoint an administrator under the state's intestacy rules.
 
-One thing to understand about where their power comes from: the executor can't do any of that because you told them to. They can do it because a court granted them the power, on the strength of a document you signed. No document, no authority. The document is the decision.
+So the problem with no will is not that nobody can ever receive authority. The problem is that state default rules and a court process choose the path instead of the plan you wrote.
 
-== PICKING FOR CAPABILITY ==
+== DOCUMENT ONE: THE WILL ==
 
-So how do you pick one? A capable executor is three things at once. Capable, meaning they can handle a legal and financial process. Available, meaning they have the time and the willingness. And trustworthy, meaning they act in good faith under pressure.
+The will directs probate assets, nominates the executor, and can nominate a guardian for minor children.
 
-Let's run three candidates for the couple.
+A guardian nomination is not an automatic appointment. The court makes the final decision under state law.
 
-The first candidate is his wife. She's trustworthy and available, and for plenty of households a spouse serving as executor is completely fine. It's a problem for this couple because of the access design they're building. In the access-split lesson they split access so that the heirs hold one piece and the executor holds the other, and no single person can reach the Bitcoin alone. If she's the heir and also the executor, she holds both, and that particular protection collapses on day one.
+The will does not control every asset. A valid beneficiary, payable-on-death, transfer-on-death, trust, joint-ownership, or retirement-plan arrangement may transfer outside the will.
 
-So this isn't a rule that an heir can never be your executor. It's that your executor choice and your access design have to be made together, because one constrains the other.
+That is why the estate plan is a coordinated system rather than one document.
 
-The second candidate is her brother. He's organized, he's capable, he lives two states away, and he's never owned Bitcoin. This actually works, and I'll explain why the Bitcoin part doesn't matter in a second.
+== DOCUMENT TWO: FINANCIAL POWER OF ATTORNEY ==
 
-The third candidate is his best friend, who's flattered to be asked. But flattery is only willingness, which is half of one of the three tests. It says nothing about being able to run a probate.
+A financial power of attorney authorizes an agent to act during life under the terms of the document.
 
-They land on her brother. He clears all three tests, and he isn't an heir.
+It is an incapacity and lifetime-management tool. It generally ends at death.
 
-== YOUR EXECUTOR DOESN'T NEED TO BE A BITCOINER ==
+The document should address digital assets and the accounts the agent may need to manage, subject to the state's law and provider terms.
 
-Now, why doesn't the executor need to be a Bitcoiner? Because they need to follow a documented process and know who to call when they're stuck. That's it. You pair a non-technical executor with clear documentation and a named technical helper. You're picking for judgment, which is rare, over Bitcoin knowledge, which is teachable.
+== DOCUMENT THREE: HEALTHCARE DIRECTIVE ==
 
-If nobody in your life fits, you can name a professional. A bank, a trust company, or an attorney. Look for someone who knows the law, knows probate, and understands Bitcoin custody.
+A healthcare directive and healthcare power name who makes medical decisions and record the owner's wishes when the owner cannot communicate.
 
-And then, actually ask them. Someone who finds out they're the executor on the day they're supposed to start can't start.
+This is not an inheritance document. Its job ends where the executor and post-death plan begin.
 
-== THE FOUR LEGAL DOCUMENTS ==
+== DOCUMENT FOUR: TRANSFER AND ACCESS RECORDS ==
 
-Next, the four legal documents. The will, which directs who gets what. The power of attorney, which lets someone act on money matters if you're incapacitated. The healthcare directive, which puts your medical wishes in writing. And beneficiary designations, which are the forms on your accounts naming who receives them when you die. Retirement accounts, life insurance, and some bank and brokerage accounts all carry them.
+Beneficiary, POD, TOD, and retirement-plan designations can transfer the covered asset outside the will.
 
-== THE FORM GENERALLY CONTROLS, NOT THE WILL ==
+A valid provider-held designation generally controls that account, but "generally" matters.
 
-That fourth one carries the rule that surprises everybody. For an account with a valid beneficiary, payable-on-death, or transfer-on-death designation, the provider's form generally controls instead of the will.
+Plan terms, ERISA, spousal consent, QDROs, community-property rules, state law, and an invalid or outdated designation can change the result.
 
-I'm saying "generally" on purpose. You'll hear people state it flatly, that the form always beats the will, and it's true often enough to be dangerous, because it makes you assume it holds for every account you own. It doesn't always. State law, community property rules, the plan's own documents, spousal consent requirements, and whether the designation is even valid all come into it. So the instruction is verify, not assume.
+Orange Plan records intent. The provider holds the binding account record.
 
-Your will only directs assets that go through probate. An account with a valid named beneficiary generally doesn't enter probate at all. It's a contract between you and the institution that says pay this person. And the custodian pays them, usually before anybody has even read the will.
+The fourth category also includes the digital-asset authority language the legal documents need.
 
-Let me make it real. A guy leaves a job in 2019 with $80,000 in an old 401(k). He filled out the form at 26, before he was married, and named his mother. 6 years and a wedding later, his will says everything goes to his wife. That $80,000 is very likely going to his mother, and the will has no say in it. Whether it definitely does depends on the plan type and his state, since some plans require a spouse to consent. Which is the whole point. He should have checked, and he never did.
+Many states follow a version of the Revised Uniform Fiduciary Access to Digital Assets Act. Access to an account and access to the content of electronic communications can be treated differently, and explicit consent may be required.
 
-The fix is the cheapest one in this whole module: fill out the form, then confirm it with the provider directly. It takes about 10 minutes per account. The app puts every beneficiary you've named on one screen with each one's percentage of the estate, so checking your own record takes ten seconds a year. But the app is your checklist, not the legal record. The institution holds that one.
+Ask the attorney to address digital assets and electronic communications directly rather than relying on a generic property clause.
 
-Below the lesson there's a sheet with a column that matters more than the others: checked directly with the provider, and the date. A name you remember filling in years ago isn't verification.
+== THE EXECUTOR IS A PERSON, NOT A NAME IN A FIELD ==
 
-== CHOOSING YOUR ESTATE ATTORNEY ==
+Ask the person before naming them.
 
-Last piece: the attorney. Most of hiring one is the normal vetting, experience, fees, responsiveness, but there are four things specific to being a Bitcoin holder, and they're on the checklist below this lesson so you can take it into the meeting.
+They should understand:
 
-Have they drafted an estate plan for a Bitcoin holder before? Are they comfortable with self-custody and multisig, and not just an exchange account? Will they help your heirs execute the plan and not only draft it? And are they licensed in your state, because probate law and signing formalities are state-specific.
+- that the role exists;
+- who the attorney and tax professional are;
+- where the legal documents and no-secrets process map are kept;
+- what not to do with Bitcoin;
+- that they may need court appointment before acting;
+- that they never need the wallet backup merely to begin the legal process.
 
-If your household turns out to need a trust, there's a fifth question, and it's the one that matters most. It's specific to trusts, so it lives with the trust lesson in the advanced library, and if you're going down that road, watch that one before you hire anybody.
+The executor does not need every signing secret. They need authority, process, and the right people.
 
-And one filter I'd weight heavily on all of them: do they explain things in language your executor and your heirs are going to understand? Because you're not going to be the one sitting across from this attorney someday. Your spouse will be. Your executor will be. And they'll be doing it in the worst week of their lives.
+== LEGAL AUTHORITY AND TECHNICAL CONTROL ARE DIFFERENT ==
+
+A person can be legally authorized and unable to sign.
+
+A person can hold enough signing material and have no legal authority to use it.
+
+A good estate plan aligns those two systems.
+
+The will, trust, or court order governs authority. The custody design governs what can technically authorize a transaction. The heir letter and custody map explain how to start. None replaces the others.
+
+== BENEFICIARY REVIEW ==
+
+For each retirement account, insurance policy, brokerage account, bank account, and provider that supports a designation:
+
+1. read the current provider record;
+2. confirm the primary and contingent beneficiaries;
+3. confirm percentages and per-stirpes or similar choices when available;
+4. check spouse-consent and plan-document rules;
+5. save evidence of the review without storing account secrets in the course tools;
+6. coordinate the designation with the will and trust plan.
+
+Do not assume an entry in Orange Plan changed the provider's record.
+
+== CHOOSING THE ATTORNEY ==
+
+The attorney does not have to be a Bitcoin engineer.
+
+They do have to be willing to coordinate legal ownership and fiduciary authority with a custody process they may not have seen before.
+
+Ask:
+
+1. How does this state treat probate, elective-share or community-property rights, and guardian nominations?
+2. Which assets in this household pass by will, beneficiary form, joint ownership, or trust?
+3. Does the power of attorney include the digital-asset powers needed during incapacity?
+4. Does the estate plan include explicit consent for digital assets and electronic communications under this state's law?
+5. How should an executor, trustee, heir, and custody provider coordinate without placing all signing power with one person?
+6. Which document authorizes retention of a concentrated Bitcoin position, and what fiduciary protections are available under this state's trust law?
+7. What signing and witnessing process makes these documents valid here?
+
+== THE EXECUTOR PACKET ==
+
+The Executor Packet is an operational briefing, not a legal instrument.
+
+It can explain the first week, contact list, account inventory, tax order, and Bitcoin safety rules.
+
+It cannot appoint the executor, change a beneficiary, authorize access to an account, or override a court order.
+
+Use it to brief the person the legal documents nominate.
 
 == YOUR DECISION ==
 
-Who your executor is, and whether your beneficiary forms name who you actually intend.
+Who will be nominated, whether they have accepted, and which state-licensed attorney will draft and coordinate the documents.
 
 == PUT IT IN ORANGE PLAN ==
 
-Protect → Needs attention → Beneficiaries. Then mirror every one on the custodian's own form, because the institution holds the binding record.
+Protect records the completion status, beneficiaries as intent, emergency contacts, and the family process.
+
+Do not store seeds, private keys, passphrases, PINs, account passwords, full account numbers, or exact recovery locations.
 
 == YOU ARE DONE WHEN ==
 
-A will exists and an attorney has supervised the signing, your executor has been asked out loud, and your beneficiary forms match your intent on the custodian's system. For accounts with a valid beneficiary, POD, or TOD designation, the provider's form generally controls instead of the will, so an out-of-date form quietly undoes everything else you just did. Confirm each one with the provider.
-
-If you're outside the US, the tests and the frameworks travel well but the legal containers don't. Map the concepts with a qualified local professional.
-
-------------------------------------------------------------
-The on-screen half of this lesson is chapter B of the module walkthrough
-(8.5 · WALKTHROUGH — Protect, the heir letter, and the switch). Beneficiaries
-and the Executor Packet are both staged there. Nothing to capture here.
+The executor has accepted, the provider-held beneficiary records were reviewed, the attorney has the digital-asset questions, and every operational document is clearly labeled as process rather than legal authority.

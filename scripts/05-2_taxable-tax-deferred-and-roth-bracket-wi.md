@@ -1,88 +1,110 @@
 TELEPROMPTER SCRIPT — segment 5.2
 5.2 Taxable, tax-deferred, and Roth: bracket windows and state taxes
-~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~9 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+RESEARCH AUDIT: 2026-08-25 · see research/PRIMARY-SOURCE-REGISTER.md
 ============================================================
 
-In today's lesson, we're going to cover the three things that decide your tax bill: where your money sits, when you act, and where you live when you act.
+In today's lesson, we're going to give each tax bucket a job, find the years when your rate may be lower, and build the roadmap the app will test.
 
-You have some control over what tax rate you pay, and most of that control comes from two choices: which account you pull money out of, and which year you do it in. This lesson shows you where those two dials are so you can actually use them.
+== THE THREE TAX BUCKETS ==
 
-== WHERE YOUR MONEY SITS: THE 3 BUCKETS ==
+The first bucket is taxable.
 
-Quick recap, because you sorted these in the allocation module. Every retirement dollar sits in one of three buckets, compared on the screen.
+This is your brokerage account, Bitcoin held personally, and other taxable property. There is no age restriction on using it. When you sell an appreciated asset, the gain is generally taxed under the capital-gain rules, and the result depends on basis, holding period, total income, state, and the units you identified.
 
-Taxable was already taxed going in, you pay on gains when you sell at capital gains rates, and there are no forced withdrawals ever. Tax-deferred, the traditional IRA and 401(k), goes in pre-tax and comes out taxed as ordinary income, and it's the one with forced withdrawals starting in your seventies whether you need the money or not. And the Roth goes in after tax and is never taxed again, growth or withdrawals, with no forced withdrawals on the Roth IRA.
+The second bucket is tax-deferred.
 
-Holding all three is what gives you a choice every year about which bucket your money comes from, and that choice sets the rate you pay that year. Go all-in on any one and you've removed your own options later. Even all-Roth, which sounds like the safe answer, leaves cheap tax-deferred dollars on the table.
+Traditional 401(k)s and traditional IRAs generally give you a tax benefit on the way in, then tax distributions as ordinary income later. They also come with required-distribution rules.
 
-== WHEN YOU ACT: READING A TAX BRACKET ==
+The third bucket is Roth.
 
-The second dial is when you act, and to use it you have to know how a bracket actually works.
+Roth contributions go in after tax. Qualified Roth distributions are generally tax-free. That word qualified matters. A nonqualified withdrawal can expose earnings to income tax or an additional tax, and conversion amounts can have their own five-year clocks when withdrawn early.
 
-Your income gets sliced up, and each slice gets taxed at its own rate. So being "in the 22% bracket" does not mean you pay 22% on everything. It means the next dollar you earn gets taxed at 22%.
+Under current law, Roth IRAs and designated Roth plan accounts do not require lifetime distributions from the original owner.
 
-And that means the space between where your income lands and where the next rate starts is your room. It's a measurable number of dollars you can fill without moving into the next bracket.
+== THE JOB OF EACH BUCKET ==
 
-Let's run the couple's bracket today. One caveat first: bracket lines and standard deductions move every year, so run this with the current figures when you actually plan.
+Taxable money is the flexible bridge. It can fund years before retirement-account access, pay a Roth-conversion tax from outside the converted account, and create capital-gain planning opportunities.
 
-They gross $190,000. Take off the $12,000 of pre-tax 401(k) contributions and their AGI is $178,000. Take off the standard deduction, which was around $31,400 for a married couple when they ran this, and their taxable income is about $146,600.
+Tax-deferred money is useful when the deduction today is worth more than the ordinary-income cost you expect later. The risk is letting the account grow into forced distributions that arrive on the government's schedule.
 
-That puts them in the 22% bracket, with roughly $60,000 of room before the next rate starts. They could add $60,000 of income this year and still pay 22 cents on the dollar.
+Roth is the long-duration tax-free bucket when the rules for a qualified distribution are met. It is often the last bucket you want to exhaust, but that is a plan decision, not a universal withdrawal command.
 
-== THE BRACKET ROADMAP: THREE STAGES ==
+== FIND THE WINDOW ==
 
-Now your income goes through three stages in retirement, and the middle one is the low-income window where the tax moves happen.
+The tax window is the period when earned income falls but required distributions and other forced income have not yet started.
 
-Stage one is early retirement, when the paychecks stop. Say the couple retires at 60. The paycheck stops, they're living off the taxable bucket, and their reported income drops, often to the lowest it's ever been in their adult life.
+For an early retiree, it can begin when work ends. Social Security may start later. Required distributions start later still, at the applicable age for that person under current law.
 
-And there's a second thing working in their favor here: when you sell an asset, only the gain counts as income, not the whole sale. So a big sale can produce a surprisingly small amount of income.
+For the 45-year-old couple in this course, current law points to age 75, not 73. A different birth year can produce a different applicable age, so read the current value in the app and IRS guidance rather than memorizing one age for everyone.
 
-Watch this. They sell Bitcoin to fund $80,000 of spending, and only the gain counts, which comes out to about $60,000 of realized gain that year. Now, the standard deduction and the 0% long-term capital gains bracket stack on top of each other, and for a married couple that adds up to a real ceiling. The app shows you the current one, so read it off the screen rather than from me, because it moves every year. Subtract their $60,000 of realized gain from that ceiling and there's a meaningful amount of unused 0% room left over.
+The window is useful because the household may control more of the income that fills it.
 
-They just funded their entire year of spending and paid zero dollars of tax on those gains. That's stage one.
+Possible moves include:
 
-Stage two is the stretch before Social Security. Still flexible. Benefits haven't started, nothing is forced yet. This is where you keep filling those low brackets on purpose, and the Roth conversion lesson covers exactly what to fill them with.
+- realizing long-term gains while room remains in a lower capital-gain band;
+- converting part of a traditional account to Roth;
+- drawing from traditional accounts before required distributions;
+- delaying a taxable sale or conversion when another year is cheaper.
 
-Stage three is when Social Security and the forced withdrawals arrive. Benefits turn on at 67, which for the couple is about $51,600 a year. RMDs stack on top at 75. Income jumps, and it stays up.
+== THE BRACKET TOP IS THE STARTING POINT, NOT THE ANSWER ==
 
-So there's a hard deadline on the cheap years. And most people waste them, because nobody ever told them the window existed. The couple's window has about $68,000 a year sitting empty.
+A common shortcut is "fill the bracket and stop."
 
-== WHERE YOU LIVE: THE STATE LEVER ==
+I think that leaves out too many of the other costs that can change at the same time.
 
-The third dial is the state you live in, and I'm going to name it here rather than teach it, because it only becomes a real decision for some people.
+A conversion or gain can also change:
 
-The part everybody needs is short. When you sell, you owe federal tax, and then your state can tax that same gain again at its own rate. Most states tax a capital gain as ordinary income with no special long-term rate, and a handful don't tax income at all. The state that charges you is the one you're a resident of in the year you sell, not the one you lived in when you bought.
+- how much of Social Security is taxable;
+- Marketplace premium tax credits before Medicare;
+- Medicare IRMAA later;
+- the Net Investment Income Tax;
+- state tax;
+- capital-gain stacking;
+- deductions, credits, and other income-based rules.
 
-On a large retirement-year sale, that difference runs into tens of thousands of dollars on a single transaction, and unlike most moves in this module, it pays every year rather than once. So it's worth knowing the lever exists.
+So I would not stop at the federal bracket. I would look at what the next dollar actually costs after every rule it touches.
 
-But it's a lifestyle decision that happens to save tax, not a tax decision. If you're actually considering a move, or you're sitting on a large enough unrealized gain that the state rate would change what you do, the advanced library has the full lesson: what the swing is worth on real numbers, how residency is actually determined, and the sequencing that keeps a big sale right after a move from becoming an audit. If moving isn't on the table, your tax plan is complete without it.
+Orange Plan can model the federal, state, and plan-level result. The current-year return still belongs with the tax professional who can see the entire household.
 
-== DOES A ROTH CONVERSION EVEN APPLY TO YOU? ==
+== CAPITAL-GAIN ROOM ==
 
-One more thing, because this is the most confusing topic in the whole tax module and most people don't need it.
+Long-term capital gains have their own rate bands, but ordinary taxable income fills the stack first.
 
-A Roth conversion may apply when all three of these are true. You have meaningful pre-tax retirement assets. You expect lower-income years before forced distributions begin. And you have a credible way to pay the conversion tax that isn't the converted money itself.
+That means a household does not simply get a separate bucket of gains taxed at zero. The gain sits on top of the other taxable income, and only the portion that fits inside the current zero-rate band receives that rate.
 
-All three. Not two.
+A federal zero rate also does not mean a zero total cost. State tax, ACA credits, NIIT, and other interactions can still move.
 
-If Orange Plan doesn't show you that combination, your core tax plan is complete without the conversion lesson, and you can skip it with a clear conscience. If it does show all three, the advanced library has the full lesson, and it opens with the actual question rather than definitions: does paying some tax earlier reduce the total tax you pay over your life?
+== STATE TAX IS A SECOND MODEL ==
+
+State tax deserves its own line because residence is not just the address on the day of a sale.
+
+States can use domicile, statutory residency, part-year rules, source-income rules, community-property rules, and special treatment for trusts or businesses.
+
+The app can compare two state assumptions. It cannot prove that a move changed your legal domicile or that a particular state has no claim on a transaction.
+
+Treat the state comparison as a reason to ask a better question before a large move, not as a residency opinion.
+
+== THE COUPLE'S ROADMAP ==
+
+The couple's working years are high-income years. Their first retirement years may be lower-income years. Social Security begins later, and required distributions later still.
+
+So their roadmap is:
+
+1. Use taxable assets as the bridge.
+2. Each year, model gains and Roth conversions together.
+3. Check healthcare and state effects before applying anything.
+4. Re-run after Social Security, Medicare, or required distributions begin.
+5. Keep Roth available for later flexibility rather than spending it by default.
 
 == YOUR DECISION ==
 
-[🔶 F24 — ADDED BEAT, not new teaching. This lesson had PUT IT IN ORANGE
-PLAN and YOU ARE DONE WHEN but no YOUR DECISION, so it was the one core lesson
-that told you what to do without naming what you were deciding. The wording below
-is taken from your own done-when line. Say it your way.]
-
-Your decision here is whether you're acting in this year's window or passing on
-it. A pass counts as done, as long as you looked first and decided on purpose.
+What job each account has, and which years deserve a tax-window review.
 
 == PUT IT IN ORANGE PLAN ==
 
-Strategy → Tax → Moves this year. Model one sale and read the tax it produces.
+Strategy → Tax. Read the yearly roadmap, model one sale and one conversion, and keep them as previews until you deliberately apply the plan change.
 
 == YOU ARE DONE WHEN ==
 
-You know which bucket your money sits in and roughly in what proportion, and you have either identified your low-income window or established you don't have one yet. A deliberate pass on this year's window is a real outcome.
-
-Then watch the walkthrough below this video, where we model it in Orange Plan.
+You know what job each account has, you can point to the low-income years on the timeline, and you can explain what the next dollar actually costs before you decide how large the move should be.

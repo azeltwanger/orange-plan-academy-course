@@ -1,107 +1,153 @@
 TELEPROMPTER SCRIPT — segment A7.1
 A7.1 Advanced custody: passphrase, multisig, and collaborative
-~16 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~15 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+RESEARCH AUDIT: 2026-08-25 · see research/PRIMARY-SOURCE-REGISTER.md
 ============================================================
 
-In today's lesson, we're going to cover the advanced custody setups: the passphrase, multisig, and collaborative custody.
+In today's lesson, we're going to compare three ways to add separation beyond a single-signature wallet: a passphrase, independent multisig, and collaborative multisig.
 
-You just went hunting for your single points of failure. Advanced custody is how you actually split them.
+I would only add complexity when it removes a specific failure and your family can still operate the recovery process.
 
+== START WITH THE TWO TESTS ==
 
-Now the advanced setups, for when you're at Level 3 or 4.
+Test one: can one person or one stolen item authorize a spend?
 
-What "advanced" actually means here is removing the single points of failure that a single-device, single-seed setup has. Every advanced setup takes one of those only-ones and splits it into two. And you pay for that in complexity, and in what your family has to be able to do.
+Test two: can one lost item or one unavailable person permanently block recovery?
 
-Two definitions first. A passphrase is an extra word you choose, layered on top of your seed. The wallet doesn't open without both. And multisig, short for multi-signature, means the wallet is secured by several separate keys, and more than one has to sign before Bitcoin moves. The common setup is two-of-three: 3 keys, any two can spend, and losing any single one costs you nothing.
+A passphrase and multisig answer those tests in different ways.
 
-There are 3 paths.
+== A BIP39 PASSPHRASE ==
 
-Path one is passphrase single-sig. One seed plus a hidden extra word. It's best for a modest stack, and what it buys you is the simplest advanced plan a family can follow. The watch-out is serious, though: a forgotten passphrase locks the funds permanently. There is no reset mechanism, no support line. So the passphrase gets its own backup, stored separately from the seed, and you practice with a small amount first.
+A BIP39 passphrase is an optional string used with a compatible mnemonic backup to derive a different wallet.
 
-Now, since the passphrase is doing so much work in this path, let me talk about how to actually make one that's strong, because this is where people get it wrong.
+It is not simply an extra recovery word appended to the list.
 
-Before the how, let me give you the clearest example I've got for why a passphrase is worth it at all. Say someone comes to clean your house, and they find your seed phrase in a drawer. Without a passphrase, they now have your Bitcoin. With a passphrase, they have 12 or 24 words that open an empty wallet, and they can't do anything with them. That's what you're buying.
+Every possible passphrase derives a valid wallet. A typo does not produce an error. It produces a different wallet, often one with a zero balance.
 
-Now, how to actually make one.
+That means the exact passphrase is part of the recovery material for the intended wallet.
 
-A passphrase that you make up yourself is the weak point of the whole setup. Humans pick quotes, song lyrics, kids' names, dates. And the people trying to crack wallets run exactly those lists first. So the fix is randomness that you didn't choose.
+The mnemonic without the passphrase can still derive the standard wallet. Whether that standard wallet is empty, a decoy, or used for a small balance is a deliberate design choice—not something the protocol does automatically.
 
-Use 7 random words, picked from a wordlist by rolling dice or by a generator running offline. This is called the diceware method, and a good password manager can do it for you too, with the device offline. The key word is random. The tool picks the words, not you.
+== WHAT THE PASSPHRASE BUYS ==
 
-🎬 GRAPHIC: 7 dice-drawn words appearing one at a time, with the combination count multiplying beside them (7,776 → 60M → 470B → …). End on "~90 bits of entropy" and "millions of years at a trillion guesses per second."
+If the mnemonic and passphrase are stored separately, finding one does not reveal the intended passphrase wallet.
 
-Every word that gets drawn at random from the standard wordlist multiplies the number of guesses an attacker needs by about 7,776, because that's how many words are on the list. By the time you're at 7 words, you're at roughly 90 bits of entropy, which works out to more combinations than a machine guessing a trillion times per second could get through in millions of years. 4 or 5 words is where "pretty good" lives. I think 7 is the floor for money that has to stay safe forever.
+Operationally, the household can place the two elements with different people or locations.
 
-A few nevers while we're here. Never personal facts, never quotes or lyrics, never an address or a pet's name, and never a password that you already use somewhere else. The test is simple: if it means something to you, it's guessable.
+But this is not cryptographic multisig. There are not two independent signers and there is no threshold policy enforced on-chain.
 
-And two practical things. First, a wallet passphrase is case-sensitive and completely unforgiving, so you record it exactly, letter for letter, on paper or on steel, and it never gets typed into anything that's online. Second, this same 7-word standard covers three different things in this course: your wallet passphrase, your password manager's master password, and the passphrase on the encrypted plan backup that we make in the walkthroughs. One method, three uses.
+Anyone who obtains both elements can derive the wallet. Losing either can make the intended wallet unrecoverable.
 
-Now, I know the temptation here, because I've felt it and clients ask me about it every time. The temptation is to pick something short and memorable instead, so you're sure you won't forget it. And I understand the logic. But memorable means guessable, and a passphrase is guarding money that has to stay safe for decades. So the answer isn't a passphrase you can remember. The answer is 7 random words that you back up properly in two places, so you never have to remember them at all.
+== AUSTIN'S PASSPHRASE RULE ==
 
-People also ask whether they can just keep it in a password manager. My answer is that a password manager is fine as one copy, but not as your only copy, and only if somebody else can actually get into that password manager if you're gone. If your passphrase lives in a manager that dies with you, you've built a very secure way to lose your Bitcoin. Keep a physical copy.
+Austin's course rule is a long randomly generated passphrase, often seven random words, written and backed up offline.
 
-The trade-off is built right in. A passphrase that's strong enough to be unguessable is also unrecoverable if you lose it. That's exactly why it gets its own backup, stored separately from the seed, and why you practice with a small amount first.
+That is an operational recommendation, not a BIP39 minimum and not a universal password rule.
 
-Path two is collaborative multisig. You hold 2 keys, a provider holds one, plus the configuration. This is best for a meaningful balance, or for heirs who aren't technical, because what you're buying is a professional on call to guide them. The costs are an annual fee and some vendor dependence. One important note: the provider's single key can't spend on its own, so they never actually custody your Bitcoin.
+Whatever method you choose, the passphrase must be generated without a human pattern, recorded exactly, kept separate from the mnemonic, backed up on its own side, and tested on the intended wallet.
 
-Let me go a level deeper on collaborative, because I think it's the right answer for more households than pick it, and the key count is the part people miss.
+Do not enter it into a password manager, AI, generic cloud note, or everyday computer merely because it is called a passphrase.
 
-It's a two-of-three. 3 keys exist, and any two of them can move Bitcoin. You hold two. The provider holds one.
+== INDEPENDENT MULTISIG ==
 
-That split gives you two properties. The first one is that they can never take your Bitcoin, because one key out of a required two spends nothing. They're a co-signer, not a custodian, and that is the entire difference between this and leaving it on an exchange. The second one is that they can never lock you out, because you're already holding 2 keys, which is a spending quorum all by itself. You don't need their permission or their participation to move your own money.
+In a 2-of-3 multisig wallet, any two signing keys can authorize a spend and one key cannot.
 
-So what are you actually paying for? Three things. A key you didn't have to store yourself. A copy of the configuration file, held by somebody whose actual job is not losing it. And a human being who is going to pick up the phone and walk your family through a recovery on the worst week of their lives. That third one, honestly, is the whole reason this path exists.
+That threshold can pass both tests: no single key spends, and one key can be lost.
 
-Before you pick a provider, verify four things. Number one, can you recover if the provider is gone? They should hand you the configuration file, and it should work in open-source wallet software that they don't control. If the answer is that you'd have to call them, then that's a custodian wearing a multisig costume. Number two, is there a documented inheritance process? Ask exactly what happens when your executor calls, and what proof they're going to require. Number three, what's the annual fee, and what happens to your wallet if you stop paying it? And number four, what do they require from you, in identity verification and in privacy terms, to open the account in the first place.
+The signing keys are only part of the recovery package.
 
-The honest downside here is that you're depending on a company to keep existing across a timeline measured in decades. That's a real risk and I'm not going to talk you out of it. But it's bounded by the key count. Your worst case is that the provider vanishes and you spend an afternoon recovering with your 2 keys and the config file. Compare that to the DIY worst case, where the person who understood the whole setup is the person who died.
+The household also needs the wallet policy or descriptor and enough script, derivation, and key-origin information for compatible software to reconstruct the wallet.
 
-Path three is DIY multisig. You hold every key and the configuration yourself. Best for technically proficient people. It buys you maximum privacy and full independence. But there's a trade nobody talks about: your heirs inherit the complexity with no professional to guide them. This path trades your family's recovery odds for your independence.
+A descriptor can reveal wallet structure, public keys, and addresses. Protect it for privacy and back it up for availability.
 
-You can see them compared right here across 4 rows: single point of failure, maintenance load, heir-friendliness, and cost. Look at all 4 rows before picking. Technical people tend to stop at row one and end up with something their family can't use.
+The descriptor helps reconstruct and watch the wallet, but it cannot sign a transaction by itself.
 
-Run it on the same household. $175,000 of Bitcoin, he's 45 and healthy, his wife has never restored a wallet, and the kids are 10 and 12.
+One signing key stored with the descriptor is still one signing key in a 2-of-3 wallet. The old course incorrectly said that combination quietly created single-key control. It does not.
 
-DIY multisig wins the single-point-of-failure row, but it hands a widow and two middle-schoolers a recovery job nobody in the house can do. Collaborative is a real option, and if the stack triples, I think it becomes the right one. But right now they'd be paying an annual fee for a problem they don't have yet. The passphrase path fits. One seed, one extra word, split between two people. It's the only path his wife could realistically be walked through in an afternoon.
+== WHERE THE POLICY LIVES ==
 
-Match the setup to your family and your stack, and only add complexity when it buys real risk reduction.
+The policy or descriptor can be copied more freely than a signing secret because it cannot spend, but do not publish it.
 
-== THE CONFIG FILE ==
+Keep redundant copies in places the recovery team can reach. Avoid storing the only policy copy inside one hardware wallet or only with one provider.
 
-One last thing, and for multisig households it's what actually gets families locked out.
+You are done when any two people who are supposed to recover the wallet can do it without guessing derivation paths or depending on one company.
 
-The keys hold the money. The config is the file that records how those keys connect into one wallet: which keys, the two-of-three rule, the technical addresses. That file is the map. With the config, your heirs have 3 seeds in separate locations plus the map, and the wallet reassembles. Without it, they can hold all 3 seeds in their hands and still be locked out.
+== KEY DISTRIBUTION ==
 
-And this is not hypothetical. A man dies with a two-of-three multisig holding about $300,000. He did everything right on the keys. 3 seeds, three separate locations, the executor holds one, and the family finds all three. They recover nothing. $300,000, lost to a missing file.
+A common 2-of-3 design places keys in separate failure domains.
 
-It has no spending power. Losing it to a thief costs you privacy, not coins. Which means you can back it up aggressively, in ways you would never back up a seed. And if you're with a collaborative provider, they hold the config for you. On top of the support, that annual fee is buying the one file your heirs can't reconstruct on their own.
+For example:
 
-== BUILDING THE ESTATE SPLIT ON EACH PATH ==
+- one key with the owner;
+- one key in a separate secure location or with a trusted participant;
+- one key with a collaborative provider or another independent location.
 
-The estate module gives you the two tests: can one person spend alone, and can one lost copy permanently stop recovery. What it deliberately doesn't do is show you how to build a setup that passes both, because that's a custody decision. So each path carries the split differently.
+The exact people and locations are estate and threat-model decisions.
 
-On the passphrase path, Anthony Park calls this poor man's multisig, and it works because of how a passphrase behaves. Seed plus passphrase produces a completely different wallet than the seed alone. Same words, different passphrase, different set of coins. So the seed by itself opens a real wallet that's empty, and the passphrase by itself is a word that opens nothing. Two objects, each worthless alone, which is exactly what lets you hand each one to a different person.
+Do not put two keys, or their sufficient backups, in the same safe, household, office, or provider if the purpose is to survive that failure.
 
-Your heir holds the seed. Your executor holds the passphrase. Together they have full access, apart they have nothing. That's test one, passed by design.
+== COLLABORATIVE MULTISIG ==
 
-Now test two, and this is the trap. Seed plus passphrase is a two-of-two. Both pieces are required every single time. So if the seed card is lost in a fire, the passphrase opens nothing. And if the executor dies without passing the passphrase on, the seed opens an empty wallet. Either one is a total, permanent loss with nobody having done anything wrong. Half of a two-of-two is zero.
+Collaborative custody uses a provider for setup, policy coordination, recovery assistance, transaction review, or one signing key.
 
-Which means each half needs its own backup, on its own side. A second steel copy your heir controls, or one their own successor can reach, never anywhere the passphrase holder can also get to. The passphrase written once, sealed, held by the executor or whoever he names after him, never in the same house or the same safe as the seed.
+Do not assume the label guarantees provider independence.
 
-On the multisig path, a two-of-three vault passes both tests structurally, without you engineering the backups yourself. Any two of the three can spend, so losing one key entirely is survivable, and no single holder can spend alone. Both tests, handled by the arithmetic.
+Verify:
 
-The distribution that makes it work as an estate plan: you hold two keys, so nothing about your day changes and you spend on your own just like today. Your executor holds the third as a sealed seed card, and since one key alone can't spend, they can't touch anything while you're alive. If you're with a collaborative provider, they hold the remaining key and never your seed phrase. After you're gone, your executor and the provider hold two keys between them, which meets the threshold, and the provider verifies who the executor is and walks them through it. Your heirs get a guided recovery instead of a technical exam.
+1. What is the actual threshold?
+2. Which signing keys does the client control?
+3. Can the client meet the threshold without the provider?
+4. Has the client exported the wallet policy or descriptor?
+5. Which compatible software can reconstruct and spend without the provider?
+6. What happens if the provider disappears, is enjoined, or changes terms?
+7. Can the provider delay or veto a transaction under the contract or software workflow even when it cannot sign alone?
 
-The one thing to get right is where the config file sits. An executor's key stored next to the config file is one step from control, and that quietly turns your two-of-three into a single-key setup. So the config lives in a password manager, never printed, never stored with any physical key.
+A provider cannot move a true 2-of-3 wallet with only one key. But the practical recovery claim is only proven after the client restores the policy and signs with the client-controlled threshold outside the provider's normal interface.
 
-So with a passphrase you're splitting two different objects between two people. With multisig the keys are already separate, and the job becomes keeping the config away from whoever holds a key. Same principle, different setup.
+== PASSphrase VERSUS MULTISIG ==
+
+Choose a passphrase when the household wants a smaller increase in hardware and software complexity and can protect two exact recovery elements.
+
+Choose multisig when on-chain threshold signing, loss tolerance, and distributed control justify the operational work.
+
+Choose collaborative multisig when the household values assistance and has verified that provider independence is real rather than promised.
+
+== TESTING ==
+
+For a passphrase wallet:
+
+- recover on a spare compatible setup;
+- enter the exact passphrase;
+- verify the intended wallet fingerprint or address;
+- confirm the standard no-passphrase wallet is understood;
+- test the family process without revealing both elements to one unintended person.
+
+For multisig:
+
+- export and restore the policy or descriptor;
+- verify the intended receive address on each signing device;
+- create a small test transaction;
+- sign with each intended two-key combination, or at least every combination the recovery plan depends on;
+- prove one key cannot complete the transaction;
+- for collaborative custody, complete a provider-independent recovery test.
+
+== THE FAMILY AND ESTATE LAYER ==
+
+The access map names roles and process, not secrets.
+
+The legal plan names who has authority. The key plan names who can technically sign. Those two systems must agree, but one does not replace the other.
+
+A trustee, executor, heir, or provider holding one key does not automatically have legal control or unilateral technical control. The governing documents and full signing policy decide the result together.
+
+== YOUR DECISION ==
+
+Which failure you are removing and why the added complexity is worth maintaining.
 
 == HOMEWORK ==
 
-Your homework for this lesson is to:
+1. Write the two access-test answers for the proposed setup.
+2. Inventory every required recovery element, including the policy or descriptor.
+3. Run the exact spare-device or provider-independent recovery test.
+4. Update the no-secrets custody map and legal plan so roles match the signing policy.
 
-1. Decide whether an advanced setup is warranted for you at all. Staying at a well-run Level 2 is a legitimate answer, and I don't want anybody adding complexity they don't need.
-2. If you're adding a passphrase, generate it with 7 random words off a wordlist, using dice or an offline generator. Back it up separately from the seed, and practice with a small amount first.
-3. If you're considering collaborative custody, ask a provider those 4 questions and get the answers in writing before you pay anybody anything.
-4. If you're already running multisig, go find your config file, back it up, and tell one other person that it exists.
-5. Then record whatever you decide on your custody map, back in the core custody module.
+You are done when the setup survives the failure it was built for and the family can recover it without the vendor, without guessing, and without one unintended person holding enough to spend.

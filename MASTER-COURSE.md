@@ -13,8 +13,8 @@ then M1–M9) in course order. The optional library lives in `MASTER-ADVANCED.md
 <!-- METRICS:START -->
 | | Lessons | Runtime |
 |---|---|---|
-| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **242 min (4.0 h)** |
-| **Advanced Library** — optional, gated per lesson | 14 teach | 108 min |
+| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **218 min (3.6 h)** |
+| **Advanced Library** — optional, gated per lesson | 14 teach | 83 min |
 
 Plus 11 core screen captures (10 walkthroughs + 1 external demo),
 narrated off the DO / SEE / ⚠ sheets rather than read. They are filmed in
@@ -169,7 +169,7 @@ Austin
 
 In today's lesson, we're going to walk through how to actually use the AI inside Orange Plan.
 
-The useful question is not everything the AI cannot do. It is how it can help you understand and improve the financial plan you are building.
+I want to focus this lesson on how the AI can help you understand and improve the financial plan you are building.
 
 ### Start with AI Review
 
@@ -202,7 +202,7 @@ The app does the calculations. The AI reads those results and explains them. Whe
 
 Inside Plan Guide, under **Market brief**, click **Run daily Bitcoin report**.
 
-The goal is to replace doomscrolling with one clean read that takes less than two minutes. It checks the parts of the Bitcoin market that are actually worth following:
+I use this so I can get one clean read of the market without checking five different places. It should take less than two minutes and cover the parts of the Bitcoin market that are actually useful for the plan:
 
 - the current price and the move over 24 hours, 7 days, 30 days, and one year
 - how far Bitcoin is from its prior all-time high
@@ -235,7 +235,7 @@ You can also ask it to find blind spots. A useful review may surface:
 - a decision that was previewed but never applied
 - a result that is stale because the inputs changed afterward
 
-The goal is not to have the AI make every decision for you. The goal is to understand what the plan is showing, what is missing, and which trade-off you are accepting before you act.
+I would not use the AI to make every decision for you. I would use it to understand what the plan is showing, find information that is missing, and think through the trade-off before you make the decision yourself.
 
 ### Use your preferred AI
 
@@ -446,7 +446,7 @@ If we were to set Bitcoin's returns at a flat 40% forever, this might land their
 
 That is a difference of eight years from one input changing.
 
-This is why it is important to think through what you personally feel is a conservative and realistic way to model Bitcoin in the future. The goal is not to choose the model that gives you the earliest date. The goal is to choose the model you can defend.
+This is why I think you need to choose a conservative and realistic way to model Bitcoin in the future. I would not choose the model just because it gives you the earliest retirement date. I would choose the one you could defend if you were explaining it to a family member or a friend.
 
 ### The four Bitcoin models
 
@@ -1001,14 +1001,7 @@ Your reserve target is set **in months of spending**, the app shows how many mon
 > three contradicted the current dictation. College moved to its own optional
 > lesson at 2.4.
 >
-> 🔴 **FILMING BLOCKER (F20) — the 7-to-10-year band is unstated.** The dictation
-> names 0–1, 1–3, 3–7 and 10+. Nothing is said about 7 to 10. The retired table
-> closed that gap by running "no Bitcoin" through ten years; the new dictation
-> does not, so a cost seven and a half years out has no stated lane. **Austin
-> settles it in one sentence at the mic, and it has to be settled before this
-> lesson is filmed** — the lane table is on screen while he speaks. Not resolved
-> here: extending "no Bitcoin" to ten re-imposes the table he replaced, and
-> starting Bitcoin at seven loosens a rule he kept. See `AUTHORITY-FLAGS.md`.
+> ✅ **F20 RESOLVED BY AUSTIN, 2026-08-26.** Bitcoin can remain part of a funding plan five years out. The protected amount becomes less dependent on Bitcoin as the date approaches; no fixed percentage was invented. Source: `source-material/2026-08-26-f20-and-voice-pass.md`.
 
 **By the end of this lesson, you can:**
 
@@ -1042,13 +1035,14 @@ The lane depends on how far away the cost is. The further out it is, the more vo
 | Timeframe | Where the money sits | Not here |
 |---|---|---|
 | 0 to 1 year | High-yield savings, T-bills, CDs. Treat it like part of the reserve | Anything volatile |
-| 1 to 3 years | Short-term Treasuries, HYSA | Stocks, Bitcoin — not enough time to recover from a bad draw right before the bill |
-| 3 to 7 years | A balanced mix of stocks and bonds, or an I-Bond ladder | Bitcoin |
-| 10+ years | A planned Bitcoin sell schedule can start to make sense here | Cash — the drag over that long costs more than the volatility would |
+| 1 to 3 years | Short-term Treasuries, HYSA | Stocks or Bitcoin for the committed amount |
+| 3 to 5 years | Start moving the firmly committed portion into a less-volatile Bridge mix | Letting the whole commitment depend on Bitcoin |
+| 5 to 10 years | Bitcoin can remain part of the funding plan while the protected portion grows in Bridge | Automatically moving the entire future expense to cash at year 5 |
+| 10+ years | A planned Bitcoin sell schedule can fund a larger part of the cost | Holding the entire long-term target in cash |
 
-> 🔶 F20: the 7-to-10 band is not addressed in the dictation. Left as spoken.
+Bitcoin can remain in the Legacy funding source. The amount you cannot afford to miss moves into Bridge as the date gets closer. By the time the committed money is needed in one or two years, that amount should no longer depend on Bitcoin cooperating.
 
-For 10+ year costs, plan the sales into low-bracket years — the years when your income is small enough that the tax rate on those sales is low. Module 5 shows you how to find yours.
+For costs funded partly from Bitcoin, plan sales into low-bracket years when practical. Module 5 shows you how to find those years.
 
 ### Pre-funding versus paying from flow
 
@@ -1172,15 +1166,15 @@ That remaining net cost divides among six sources:
 5. A limited amount of student borrowing
 6. Whatever's left unfunded
 
-Not every family uses all six. **College does not have to be solved entirely with money you saved before freshman year.** A complete plan might be: the parents provide the existing 529, add a fixed amount from annual cash flow, the student applies for aid and works summers and takes a defined amount of federal loans, and Bitcoin covers part of the rest if the price and the tax situation work out.
+Not every family is going to use all six. A family might use the existing 529, add a fixed amount from annual cash flow, have the student apply for aid and work summers, set a limit on federal loans, and use Bitcoin for part of the remaining cost if the price and tax situation make sense. So college does not have to be solved entirely with money you saved before freshman year.
 
 That is a finished plan. It is not a failure because the 529 doesn't equal four years of sticker price.
 
 ### Where Bitcoin fits, and where it doesn't
 
-**The goal is not to stop buying Bitcoin for seven years because your child may go to college.**
+**I would not automatically pause Bitcoin purchases for seven years because your child may go to college.**
 
-The goal is that the amount you have *firmly promised* does not depend entirely on Bitcoin being at a favorable price on the exact day tuition is due.
+What I would do is protect the amount you have *firmly promised* so that portion does not depend entirely on Bitcoin being at a favorable price when tuition is due.
 
 Those are very different things, and the difference is most of this lesson. It moves over time:
 
@@ -2513,7 +2507,7 @@ advanced lesson. Edit the condition there, not here.*
 > **US-specific module.** Everything here runs on the US Internal Revenue Code: brackets, Roth accounts, RMDs, wash-sale rules, state taxes. Said ONCE, at the top of 5.1, and never repeated per lesson.
 
 ## 5.1 Cost basis: what you paid, and how to reconstruct it
-*`TEACH` · 715 words · ~5 min*
+*`TEACH` · ~961 words · ~6 min*
 
 > 🐞 Currency mangling in the lot-sale figures (item 17). Reconstructed from
 > arithmetic: hardware lot basis $7,500 → gain $17,500; exchange lot basis
@@ -2524,83 +2518,119 @@ advanced lesson. Edit the condition there, not here.*
 - Understand what cost basis is and why it unlocks every tax move
 - See how the same sale produces different tax bills depending on which lot you sell from
 - Reconstruct basis while records still exist
-- Never leave basis blank
+- Label every material lot verified, estimated for planning, or unproven
 
 ---
-One thing before we start this module, and I'll say it once. Everything in this module is built on US tax law. Brackets, Roth accounts, RMDs, wash-sale rules, state taxes. If you're outside the US, the way of thinking travels and the specific rules do not, so take these frameworks to a tax professional in your own country and let them map the containers.
 
-Real tax strategy works forward: act in the years your rate is low, and act before the government forces the timing. Every forward-looking move starts with one number being right.
+In today's lesson, we're going to cover cost basis, which is the record that makes every other tax decision in this module usable.
+
+Quick note before we start: this module is US-specific. The framework still helps outside the US, but the rules and reporting do not travel with it.
 
 ### What cost basis is
 
-Cost basis is what you paid for each lot of Bitcoin: the price, the date, and the amount.
+Cost basis is generally what you paid to acquire an asset, adjusted for the costs and events that the tax rules tell you to include.
 
-Your gain is the sale price minus that basis, and your tax is built on the gain. Without basis, you can't prove the gain was small.
+For a Bitcoin purchase, that normally means the dollars you paid for the Bitcoin plus acquisition costs that belong in basis. Your gain or loss is measured from the amount you receive when you dispose of it, after the adjustments that apply, minus the basis of the units you disposed of.
 
-Basis is tracked per lot, not for the whole stack. A lot is one purchase (the coins you bought on one day at one price). When you sell, you're selling out of a specific lot, and the tax follows that lot's price.
+Basis is tracked by units or lots, so one purchase can have a completely different cost and holding period from the next purchase.
 
 ### Same sale, two different tax bills
 
-The couple's 1.75 BTC, at an illustrative $100,000/coin, is worth $175,000. They paid $60,000, split across two lots:
+Let's run it on the couple.
 
-| Lot | Location | Quantity | Basis | Per coin |
-|---|---|---|---|---|
-| 1 | Hardware wallet | 1.5 BTC | $45,000 | $30,000 |
-| 2 | Exchange | 0.25 BTC | $15,000 | $60,000 |
+They hold 1.75 Bitcoin worth an illustrative $175,000. They acquired it in two lots.
 
-Same stack, two lots. Say they sell 0.25 BTC. That's $25,000 either way:
+Lot one is 1.5 Bitcoin with a total basis of $45,000, or $30,000 per coin.
 
-- **From the hardware wallet** ($30k/coin): basis $7,500, gain **$17,500**.
-- **From the exchange** ($60k/coin): basis $15,000, gain **$10,000**.
+Lot two is a quarter Bitcoin with a $15,000 basis, or $60,000 per coin.
 
-At the 15% long-term capital gains rate, that's a ~$1,125 difference on a sale they were making anyway.
+Now they sell a quarter Bitcoin for $25,000.
+
+If the identified units come from lot one, the basis is $7,500 and the gain is $17,500.
+
+If the identified units come from lot two, the basis is $15,000 and the gain is $10,000.
+
+The sale proceeds are the same, but the gain changes because the Bitcoin came from a different lot.
+
+That is why "I own 1.75 Bitcoin" is not enough information for a tax plan.
+
+### Specific identification is a record, not a retrospective choice
+
+For Bitcoin in self-custody, current IRS guidance lets you specifically identify the units you are disposing of when two things are true.
+
+First, no later than the date and time of the transaction, your books and records identify the particular units using enough information to distinguish them, such as acquisition date and time or acquisition price.
+
+Second, you keep records that establish those identified units were actually removed from that wallet.
+
+For Bitcoin held by a broker, the broker decides which identifiers it can accept. After 2025, the instruction generally has to reach the broker no later than the transaction, and you keep your own substantiation.
+
+So HIFO, FIFO, or any other lot rule is not a button you invent after the year is over. It is a documented instruction that has to satisfy the rule for the wallet or account involved.
+
+If specific identification fails, the current default is generally the earliest-acquired units of that asset in that wallet or account.
+
+### Transfers do not erase the history
+
+Moving Bitcoin between wallets you own is generally not a taxable disposition, apart from any Bitcoin used to pay the transaction fee.
+
+But the tax history still has to travel with the Bitcoin.
+
+The blockchain proves that an output moved. It does not prove what you originally paid, whether the acquisition was a purchase, income, gift, inheritance, mining, or something else, or which tax lot you intended to dispose of later.
+
+That is why the useful record connects three things: the acquisition record, the wallet or account movement, and the final disposition.
+
+### Reconstructing what is missing
+
+Start with the records that were created when the transactions happened.
+
+Download every exchange and brokerage export you can still access. Pull confirmations, old tax files, bank or card statements, email receipts, and wallet transaction history. Match withdrawals and deposits between your own accounts so a transfer is not mistaken for a sale or a new purchase.
+
+Then separate every unresolved item into one of three states.
+
+**Verified.** The source records support the acquisition date, quantity, and basis.
+
+**Estimated for planning.** You have evidence that narrows the range, but not enough to claim the number as settled. Orange Plan can use it for a projection as long as the uncertainty is visible.
+
+**Unproven.** You cannot substantiate a basis yet.
+
+The course used to say the IRS standard was simply "reasonable and documented." That was too broad. Documentation helps, but it does not create a general safe harbor that lets you make up a basis the return can claim.
+
+If a meaningful lot remains unproven, work through the evidence with a tax professional before filing a disposition from it.
+
+### Zero basis is a stress test, not an automatic legal answer
+
+For planning, a zero-basis assumption can show the conservative tax exposure if no basis is allowed.
+
+But do not confuse that stress test with a legal conclusion that the asset definitely has zero basis. And do not invent a number merely to avoid zero.
+
+So in the plan, label what is known, what is estimated, and what is still unproven.
 
 ### What clean basis unlocks
 
-Four moves become available:
+Once the records are clean, you can:
 
-- **Time your sales.** Choose low- or high-basis lots on purpose.
-- **Harvest losses.** Prove the loss and offset gains and income.
-- **Harvest gains.** Reset your basis higher in a low-tax year.
-- **Model the tax.** Know the real bill before you act.
-
-Without clean basis, all four are guesswork.
-
-### Rebuilding what's missing
-
-Almost nobody has clean records. Exchanges shut down, coins move through wallets, and old buys are older than any statement you can download.
-
-The path is the same every time:
-
-- Pull every record that exists from every exchange and wallet.
-- For the rest, build a reasonable estimate. Narrow the purchase window as tightly as you honestly can, use the price range from that window, and write down how you got there.
-- Convert a blank into a number you can defend.
-
-The IRS standard is "reasonable and documented," not "perfect." Your best estimate, as long as it's reasonable, is good.
-
-### Never leave basis blank
-
-⛔ **Never leave basis blank.**
-
-If there's no basis at all, the gain gets treated as the entire sale price.
-
-On the 0.25 BTC sale above: $10,000 of real gain becomes $25,000 of gain, because the whole sale price counts. At 15%, a $1,500 bill turns into $3,750. Purely for missing a record.
+- identify units before a sale;
+- see whether a loss actually exists;
+- model gain harvesting in a low-tax year;
+- compare selling, holding, gifting, or borrowing without guessing at the tax;
+- reconcile the app with Form 1099-DA, Form 8949, and your return.
 
 ### Your decision
 
-How far back you can reconstruct, and what you'll do about anything you can't.
+Which lots are verified, which are planning estimates, and which are still unproven.
 
-### Put it in Orange Plan
+### Put it in orange plan
 
-Strategy → Tax → cost basis. Enter what you have, and flag the lots you can't prove.
+Dashboard → Update Transactions for the history, then Strategy → Tax to review basis and modeled sales.
+
+Use the file, AI-assisted, or manual path that matches the records you have. A linked source appears only when the app has a supported investment source.
 
 ### You are done when
 
-Every lot has a basis you could show someone, or is flagged as unproven. No records means a basis of zero, which means tax on the entire sale price, so an unproven lot is a real number in your plan rather than a gap.
+Every material lot is labeled honestly, the available evidence is saved outside the app, and an unproven lot is visible as an unresolved tax item instead of being silently assigned a number.
 
 
 ## 5.2 Taxable, tax-deferred, and Roth: bracket windows and state taxes
-*`TEACH` · ~1,175 words · ~8 min*
+*`TEACH` · ~920 words · ~6 min*
 
 > ✅ **Law-set figure removed (2026-08-08).** This lesson used to speak the
 > ~$128,000 of 0% capital-gains room for a married couple. It is now read off
@@ -2633,104 +2663,110 @@ Every lot has a basis you could show someone, or is flagged as unproven. No reco
 
 ---
 
-Two things decide your federal tax bill: where your money sits, and when you act. A third dial sits on top of both: where you live when you act.
+In today's lesson, we're going to give each tax bucket a job, find the years when your rate may be lower, and build the roadmap the app will test.
 
-### Where your money sits: the three buckets
+### The three tax buckets
 
-Every dollar you own for retirement sits in one of three:
+The first bucket is taxable.
 
-| Bucket | Tax going in | Tax on growth | Tax on withdrawal | Forced withdrawals |
-|---|---|---|---|---|
-| **Taxable** | Already taxed | On gains, at cap-gains rates | On gains only | No |
-| **Tax-deferred** (Traditional IRA/401k) | Pre-tax | None for now | Ordinary income | Yes (RMDs at 73) |
-| **Roth** (IRA or 401k) | After-tax | None, ever | None, ever | No (Roth IRA) |
+This is your brokerage account, Bitcoin held personally, and other taxable property. There is no age restriction on using it. When you sell an appreciated asset, the gain is generally taxed under the capital-gain rules, and the result depends on basis, holding period, total income, state, and the units you identified.
 
-Every year, you get to choose which bucket the money comes from. That choice sets the rate you pay.
+The second bucket is tax-deferred.
 
-Go all-in on any one bucket and you remove your choices later. Even all-Roth (which sounds safe) leaves cheap tax-deferred dollars on the table.
+Traditional 401(k)s and traditional IRAs generally give you a tax benefit on the way in, then tax distributions as ordinary income later. They also come with required-distribution rules.
 
-### When you act: reading a tax bracket
+The third bucket is Roth.
 
-Your tax rate isn't fixed. It changes by life stage.
+Roth contributions go in after tax. Qualified Roth distributions are generally tax-free. That word qualified matters. A nonqualified withdrawal can expose earnings to income tax or an additional tax, and conversion amounts can have their own five-year clocks when withdrawn early.
 
-Your income gets sliced up, and each slice gets taxed at its own rate. Being in the 22% bracket doesn't mean you pay 22% on everything. It means the next dollar you earn gets taxed at 22%.
+Under current law, Roth IRAs and designated Roth plan accounts do not require lifetime distributions from the original owner.
 
-The space between where your income lands and where the next rate starts is your **room**. A measurable amount you can fill without moving into the next bracket.
+### The job of each bucket
 
-### Running the couple's bracket today
+Taxable money is the flexible bridge. It can fund years before retirement-account access, pay a Roth-conversion tax from outside the converted account, and create capital-gain planning opportunities.
 
-Gross income: $190,000. Bracket lines and standard deductions move every year. Run this with the current figures when you plan.
+Tax-deferred money is useful when the deduction today is worth more than the ordinary-income cost you expect later. The risk is letting the account grow into forced distributions that arrive on the government's schedule.
 
-| Step | Amount |
-|---|---|
-| Gross income | $190,000 |
-| Minus 401(k) pre-tax | -$12,000 |
-| Equals AGI | $178,000 |
-| Minus standard deduction (~$31,400 married) | -$31,400 |
-| Equals taxable income | ~$146,600 |
+Roth is the long-duration tax-free bucket when the rules for a qualified distribution are met. It is often the last bucket you want to exhaust, but that is a plan decision, not a universal withdrawal command.
 
-That's the 22% bracket, with ~$60,000 of room before the next one. They could add $60,000 of income and still pay 22¢ on the dollar.
+### Find the window
 
-### The bracket roadmap: three stages
+The tax window is the period when earned income falls but required distributions and other forced income have not yet started.
 
-Your income through retirement runs in three stages, and each one has a different amount of room in it.
+For an early retiree, it can begin when work ends. Social Security may start later. Required distributions start later still, at the applicable age for that person under current law.
 
-**Stage 1: Early retirement (paychecks stop).** Say they retire at 60. Paycheck stops. They're living off the taxable bucket, so reported income drops (often to the lowest it's ever been).
+For the 45-year-old couple in this course, current law points to age 75, not 73. A different birth year can produce a different applicable age, so read the current value in the app and IRS guidance rather than memorizing one age for everyone.
 
-Second thing in their favor: when they sell an asset, only the gain counts as income, not the whole sale. A big sale can produce a small amount of income.
+The window is useful because the household may control more of the income that fills it.
 
-They sell Bitcoin to fund $80,000 of spending. Only the gain counts: about $60,000 of realized gain that year.
+Possible moves include:
 
-The standard deduction and the 0% long-term capital gains bracket stack, giving a married couple a real 0% ceiling. **Read the current one off the app's Tax page rather than speaking it** — it moves every year, and this lesson outlives the tax year.
+- realizing long-term gains while room remains in a lower capital-gain band;
+- converting part of a traditional account to Roth;
+- drawing from traditional accounts before required distributions;
+- delaying a taxable sale or conversion when another year is cheaper.
 
-| Step | Amount |
-|---|---|
-| Zero-percent ceiling | the current one, off the Tax page |
-| Minus realized gain | -$60,000 |
-| Equals unused 0% room | ~$68,000 |
+### The bracket top is the starting point, not the answer
 
-They funded the whole year and paid $0 on those gains.
+A common shortcut is "fill the bracket and stop."
 
-**Stage 2: Pre-Social Security.** Still flexible. Benefits haven't started, nothing is forced. Keep filling those low brackets on purpose.
+I think that leaves out too many of the other costs that can change at the same time.
 
-**Stage 3: Social Security + forced withdrawals.** Benefits turn on at 67 (~$51,600/yr for the couple). RMDs stack at 73. Income jumps.
+A conversion or gain can also change:
 
-Hard deadline on the cheap years. Most people waste them because nobody told them the window existed.
+- how much of Social Security is taxable;
+- Marketplace premium tax credits before Medicare;
+- Medicare IRMAA later;
+- the Net Investment Income Tax;
+- state tax;
+- capital-gain stacking;
+- deductions, credits, and other income-based rules.
 
-The couple's window has ~$68,000/yr sitting empty.
+So I would not stop at the federal bracket. I would look at what the next dollar actually costs after every rule it touches.
 
-### Where you live: the state lever
+Orange Plan can model the federal, state, and plan-level result. The current-year return still belongs with the tax professional who can see the entire household.
 
-Named here, taught in the library, because it only becomes a real decision for some people.
+### Capital-gain room
 
-**What everybody needs:** when you sell, you owe federal tax, and then your state can tax that same gain again at its own rate. Most states tax a capital gain as ordinary income with no special long-term rate; a handful do not tax income at all. **The state that charges you is the one you are a resident of in the year you sell**, not the one you lived in when you bought. On a large retirement-year sale that runs into tens of thousands of dollars on one transaction, and unlike most moves in this module, it pays every year rather than once.
+Long-term capital gains have their own rate bands, but ordinary taxable income fills the stack first.
 
-> **Advanced Library → A5.3 "State taxes and relocation: what the lever is
-> actually worth"** if you are actually considering a move, or your Tax page
-> shows an unrealized gain large enough that the state rate would change what
-> you do. It carries the worked swing, how residency is actually determined,
-> and the sequencing that keeps a big sale right after a move from becoming an
-> audit. If moving is not on the table, the tax plan is complete without it.
+That means a household does not simply get a separate bucket of gains taxed at zero. The gain sits on top of the other taxable income, and only the portion that fits inside the current zero-rate band receives that rate.
 
+A federal zero rate also does not mean a zero total cost. State tax, ACA credits, NIIT, and other interactions can still move.
+
+### State tax is a second model
+
+State tax deserves its own line because residence is not just the address on the day of a sale.
+
+States can use domicile, statutory residency, part-year rules, source-income rules, community-property rules, and special treatment for trusts or businesses.
+
+The app can compare two state assumptions. It cannot prove that a move changed your legal domicile or that a particular state has no claim on a transaction.
+
+Treat the state comparison as a reason to ask a better question before a large move, not as a residency opinion.
+
+### The couple's roadmap
+
+The couple's working years are high-income years. Their first retirement years may be lower-income years. Social Security begins later, and required distributions later still.
+
+So their roadmap is:
+
+1. Use taxable assets as the bridge.
+2. Each year, model gains and Roth conversions together.
+3. Check healthcare and state effects before applying anything.
+4. Re-run after Social Security, Medicare, or required distributions begin.
+5. Keep Roth available for later flexibility rather than spending it by default.
 
 ### Your decision
 
-> 🔶 **F24 — ADDED BEAT, not new teaching.** 5.2 had *Put it in Orange Plan* and
-> *You are done when* but no *Your decision*, making it the one core lesson that
-> said what to do without naming what was being decided. The wording is lifted
-> from its own done-when line.
+What job each account has, and which years deserve a tax-window review.
 
-**Whether you are acting in this year's window, or passing on it.** A pass counts as done, provided you looked first and decided on purpose.
+### Put it in orange plan
 
-### Put it in Orange Plan
-
-Strategy → Tax → Moves this year. Model one sale and read the tax it produces.
+Strategy → Tax. Read the yearly roadmap, model one sale and one conversion, and keep them as previews until you deliberately apply the plan change.
 
 ### You are done when
 
-You know which bucket your money sits in and roughly in what proportion, and you have either identified your low-income window or established you don't have one yet. A deliberate pass on this year's window is a real outcome.
-
-Then watch the walkthrough below this video, where we model it in Orange Plan.
+You know what job each account has, you can point to the low-income years on the timeline, and you can explain what the next dollar actually costs before you decide how large the move should be.
 
 
 ## 5.3 Walkthrough: model it in Orange Plan
@@ -3574,7 +3610,7 @@ advanced lesson. Edit the condition there, not here.*
 *Custody as operational protection: choose your level on the four-tier ladder, set up hardware with a proven recovery test, close single points of failure, and — when it fits — go advanced with passphrase, multisig, or collaborative custody.*
 
 ## 7.1 Choose the custody setup that matches your stack and family
-*`TEACH` · 2,041 words · ~13 min*
+*`TEACH` · ~871 words · ~6 min*
 
 **By the end of this lesson, you can:**
 
@@ -3586,162 +3622,117 @@ advanced lesson. Edit the condition there, not here.*
 
 ---
 
-Custody is more than where your Bitcoin sits. It covers whether you can reach it, whether anyone else can, and whether there's a process that still works when you're not around.
+In today's lesson, we're going to choose the custody setup you can actually maintain and your family can actually recover.
 
-It's different from inheritance. Inheritance is the legal transfer (wills, executor, who gets what). Module 8 covers that. This module secures access while you're alive and makes it recoverable if you're not.
+The four levels in this course are an Orange Plan framework. They are not a Bitcoin protocol standard and they are not a score.
 
-In 2022, Celsius customers watched a balance sit on a screen while withdrawals were frozen. Same at BlockFi and FTX. The number was theirs. The Bitcoin was not. A Bitcoin balance in someone else's system is a claim on their Bitcoin, not ownership of yours.
+The right level is the simplest setup that protects the amount at stake, survives the failures you care about, and still works when somebody besides you has to use it.
 
-### The five questions
+### The job of custody
 
-Custody comes down to five:
+Bitcoin exists on the network. Custody is control of the signing material that can authorize a spend.
 
-- Where is the Bitcoin held?
-- What type of custody are you using?
-- Who knows what to do?
-- What happens if you're unavailable?
-- Where are the single points of failure?
+Depending on the setup, that can involve:
 
-A typical Bitcoin household: he's 45, she's 43, two kids ages 10 and 12. They hold 1.5 BTC on a hardware wallet in a desk drawer, and 0.25 BTC on an exchange.
+- an institution's account and legal claim process;
+- one hardware wallet and its recovery material;
+- a wallet backup plus a passphrase;
+- multiple signing keys and a wallet policy or descriptor;
+- a collaborative provider and a documented provider-independent recovery path.
 
-- **Where:** they can answer cold. ✓
-- **What type:** one hardware wallet, one exchange account, no passphrase. ✓
-- **Who knows what to do:** he does. She's never touched the device. ✗
-- **What happens if he's unavailable:** nothing. ✗
-- **Single points of failure:** they've never asked. ✗
+Do not call every one of those things a seed. The backup standard matters.
 
-Two out of five. That's a normal Bitcoin household, not a careless one. The score turns a vague worry into three specific jobs.
+### Five questions before the level
 
-### Name the job before you pick the setup
+First: how much is at stake today, and what could it become under assumptions you would defend?
 
-Different jobs can call for different custody.
+Second: who depends on it?
 
-For the couple, the 1.5 BTC is long-term cold storage. It's the retirement stack and shouldn't move in a hurry. The 0.25 BTC on the exchange is the buying account — but it's also quietly doing a second job nobody assigned: it's what they'd reach for in an emergency. Different job, different custody answer, because an exchange can freeze an account in exactly the week they need it.
+Third: which loss worries you most—online account takeover, physical theft, backup loss, coercion, provider failure, incapacity, or death?
 
-Name the job, so one setup doesn't cover two jobs that need different things.
+Fourth: how much operational complexity will you actually maintain?
 
-### The one rule this module runs on
+Fifth: can somebody else follow the recovery process without improvising or learning Bitcoin during a crisis?
 
-**You document the process, never the secrets.**
+I would choose the simplest setup you can actually prove works.
 
-By "secrets" I mean the things that actually move Bitcoin: seed phrase (the words your whole wallet rebuilds from), private keys, passphrase, PIN. Anyone with one of those has your Bitcoin.
+### Level 1: hardened institution
 
-> ⚠ No seed phrases, no private keys, no passphrases, no PINs. In any app, document, photo, cloud note, or AI tool. Ever.
+Level 1 delegates signing control to a regulated or otherwise chosen institution.
 
-What you write down: who holds what, what type of setup it is, and what someone should do. Never the words that unlock it. You can share the document with your executor and store it safely, because nothing in it is worth stealing.
+Your job is account security, beneficiary and death-claim paperwork, withdrawal controls, and diversification of whatever counterparty exposure you keep.
 
-### Choosing your level
+The family recovery test is not a device restore. It is the institution's login-recovery and death-claim process.
 
-A custody level is how much protection a setup gives you and what it asks back: skill, maintenance, and what your family has to be able to do. The right level matches how much is at stake and who depends on it.
+Verify what documents the institution requires, who can make the claim, whether a beneficiary designation exists, how long the process can take, and what happens if the institution fails.
 
-The mistake is a mismatch, in either direction. Celsius customers had too little custody for the amount at stake. Others move a life-changing stack onto a hardware wallet they've never tested, which is more custody than their skill supports. Both cases: the setup doesn't match what's at stake.
+This level trades self-custody risk for counterparty and legal-claim risk. That can be a legitimate trade when it is deliberate.
 
-### The four levels
+### Level 2: single-signature hardware wallet
 
-**Level 1: Hardened exchange or broker.** Small stack, or still learning.
+Level 2 moves signing control into a hardware wallet and a compatible wallet setup.
 
-- Setup: strong password, app-based 2FA, secured email, withdrawal delays on.
-- The word is hardened, not neglected. A small stack on a locked-down exchange is legitimate.
+The recovery material may be a BIP39 mnemonic, another single backup, or a supported multi-share standard. Record the actual standard rather than assuming every device uses 12 or 24 words.
 
-**Level 2: Hardware wallet.** The default destination once a stack becomes meaningful.
+The hardware wallet is replaceable. The recovery material and any required passphrase or wallet information are the durable pieces.
 
-- Setup: seed stays offline, test transaction first, wipe-and-restore proven, and a backup medium matched to what's being protected.
-- **Backup medium is a tradeoff, not a rule.** Paper is cheap and burns. Steel survives fire and flood and costs more. Weigh it against the size of the stack and the hazards where the household actually lives — do not hand students "steel is required."
-- Removes freeze risk. Hands you maintenance instead.
+I think this is simple enough for a lot of households to maintain well. The risk is that one complete backup can authorize the wallet, and one missing required piece can also block recovery.
 
-**Level 3: The stack matters to more than just you.** The defining feature is that someone other than you has to be able to recover it, not any one technique.
+### Level 3: added separation
 
-- Setup: a hardened wallet, a documented process your spouse or executor can actually follow, backups that survive one loss, and an annual review.
-- **Split access is one way to get here, not the requirement.** A passphrase split, a sealed executor packet, or a well-documented single-signature setup with redundant backups can all clear this bar. Split access buys dual control; it does not by itself buy redundancy, and it adds a failure mode of its own when the family is confused or a holder is unreachable.
-- Pick the design your household can actually operate. Complexity nobody can execute is not a higher level.
+Level 3 adds another independent element, often a passphrase or another deliberately separated custody arrangement.
 
-**Level 4: Collaborative or DIY multisig.** For stacks where a single mistake is unacceptable.
+A BIP39 passphrase derives a different wallet. Every passphrase, including a typo, derives a valid wallet. That gives separation, but it also creates another thing that must be entered exactly and recovered.
 
-- Setup: professional support (collaborative) or full-DIY, coordination with trust and estate plan, family process actually tested.
-- Buys you a setup where one mistake no longer ends it.
+A passphrase is not multisig. The mnemonic and passphrase are both required to derive that wallet, but the protocol does not enforce two independent signers.
 
-### Every level is a trade
+This level only improves the plan when the new element has its own backup, its own location, and a tested family process.
 
-There is no custody setup without a trade-off. Each level buys one protection by handing you a different risk to manage:
+### Level 4: threshold signing
 
-| Level | What it buys | What it costs |
-|---|---|---|
-| 1 · Hardened exchange/ETF | Convenience, easy inheritance, no self-responsibility | Counterparty risk. The account can be frozen exactly when you need it |
-| 2 · Hardware wallet | Removes freeze risk. True ownership | Maintenance and self-responsibility. One seed is one point of failure |
-| 3 · Passphrase + split | Theft protection, survivable without you | More complexity. A lost passphrase is a permanent loss |
-| 4 · Multisig | No single mistake can end it | Highest complexity. Config-file dependence, a fee (collaborative) or heirs' complexity (DIY) |
+Level 4 uses a threshold policy such as 2-of-3 multisig, either independently or with a collaborative provider.
 
-The pattern: more sovereignty always means more responsibility, and more convenience always means more counterparty risk. You never eliminate risk, you choose which risks you hold and which you hand to someone else. That's why the level is matched to stakes and skill instead of picked on ideology.
+Two signing keys can authorize a spend and one cannot. Losing one key can be survivable.
 
-### One more question, if it applies to you
+The keys are not the whole recovery package. The family also needs the wallet policy or descriptor, script and derivation information, and compatible software or a provider-independent recovery process.
 
-Everything above is about *what type* of custody you use. A separate question asks how **concentrated** it is, and it only matters for some people, so name it rather than teach it.
+A descriptor cannot sign, but losing the policy can make reconstruction slow, uncertain, or dependent on a provider.
 
-> **Advanced Library → A7.3 "Concentration: one institution, one vendor, one
-> firmware"** if either is true: the custodial balance is big enough that
-> losing access for a few months would change your life, or every satoshi you
-> own sits behind one model of one device running one manufacturer's firmware.
-> If neither is true, the custody plan is complete without it.
+Collaborative custody is only provider-independent when the client truly holds enough keys to meet the threshold, has exported the policy data, and has tested recovery in compatible software without the provider.
 
-### Sizing it on a real household
+### Complexity can become the biggest risk
 
-The couple holds 1.5 BTC on a hardware wallet and 0.25 BTC on an exchange. At an illustrative $100,000/coin, the hardware wallet is $150,000 and the exchange is $25,000.
+A second device, passphrase, multisig, or provider can reduce one failure and create three new ones.
 
-The $25,000 is Level 1 money on a Level 1 setup. Honest match, as long as it's hardened.
+More pieces mean more backups, more updates, more inheritance instructions, and more ways for the written plan to drift from reality.
 
-The $150,000 is Level 3 money. His wife and two kids depend on it. Neither kid is a teenager yet.
-
-Compare against where it's sitting: Level 2, and Level 2 isn't finished (no proven wipe-and-restore, seed still on paper).
-
-Homework: finish Level 2 honestly, then add whatever makes it recoverable without him — that is what moves it to Level 3. Two jobs, in that order, and the second one has more than one right answer.
-
-### The app's tier
-
-Orange Plan runs three tiers keyed to estate size:
-
-| Tier | Net worth |
-|---|---|
-| **Foundation** | Under $500k |
-| **Substantial** | $500k to $2M |
-| **High Net Worth** | Above $2M |
-
-The tier filters the security checklist so a Foundation household isn't held to the hardware items a high-net-worth household is.
-
-**Two separate scales, with two separate inputs. Do not let one answer the other.**
-
-| | **Custody level** (1–4) | **App tier** (Foundation / Substantial / HNW) |
-|---|---|---|
-| Driven by | What the Bitcoin is for · how much is actually at risk · your technical ability · whether your family could recover it · estate complexity · liquidity needs | Estate net worth, and nothing else |
-| Decides | How you hold and hand off the coins | Which checklist items the app shows you |
-| Who sets it | You | The app |
-
-These do not move together, and the gap is where people get hurt. **A household with $400,000 of net worth and $350,000 of it in direct self-custodied Bitcoin lands in Foundation and never sees the hardware items.** They need a proven recovery process anyway. The Bitcoin does not care what tier the estate is in.
-
-⚠ **The tier-filtered checklist is a convenience, not a custody recommendation.** If your Bitcoin position is heavier than your estate tier implies, hold yourself to the standard the app isn't asking for.
-
-### Custody is not a purity test
-
-The right setup is one you can maintain, explain, and recover from. If your family can't actually use it, the advanced version isn't protecting anything.
-
-You'll hear people say real Bitcoiners self-custody everything, immediately. That claim is wrong. You move up a level by earning it, with skill and with need, not with ideology.
+A single-signature setup maintained and tested well can be safer than a multisig nobody can reconstruct.
 
 ### Your decision
 
-Two decisions. Your honest score with the job each pile is doing. And which level you're going to run, including whether your custodial Bitcoin should sit at more than one institution.
+Choose the level from the failure you are trying to remove and the process your household can operate.
 
-Match the level to what's at stake and what you can genuinely maintain, and remember a mismatch in either direction is the failure. Too little custody for the amount is the Celsius problem. Too much custody for your skill is the lost-seed problem.
+Then write down why that level fits your household.
 
-### Put it in Orange Plan
+"We use Level 2 because we can maintain one hardware-wallet recovery process and accept the single-backup control risk."
 
-Nothing in the app yet. This decision goes on your Family Custody Map, which the module walkthrough fills in.
+Or:
+
+"We use Level 4 because the amount justifies threshold signing and we have tested recovery without the provider."
+
+### Put it in orange plan
+
+Protect → Protection tier. Save the level, why it fits, and the next review trigger.
+
+Do not put a backup, seed, passphrase, PIN, private key, descriptor, or exact storage location into Orange Plan.
 
 ### You are done when
 
-You have an honest score on the five questions, a named job for each pile of Bitcoin, and the level you're going to run. A note is on your annual review to re-ask all of it at that year's balance, because the price moves and your setup doesn't.
+The level fits the amount and your family, you can explain the risk you accepted, and you have actually tested the recovery process instead of assuming it works.
 
 
 ## 7.2 Set up a hardware wallet and test recovery
-*`TEACH` · ~1,149 words · ~7 min*
+*`TEACH` · ~811 words · ~5 min*
 
 **By the end of this lesson, you can:**
 
@@ -3752,93 +3743,113 @@ You have an honest score on the five questions, a named job for each pile of Bit
 
 ---
 
-In today's lesson, we're going to cover the hardware wallet setup, and the recovery test that proves your backup actually works before serious money depends on it.
+In today's lesson, we're going to set up a hardware wallet and prove the recovery path without turning the test itself into the failure.
 
-Because a seed backup is only as good as your ability to actually restore from it. And most people have never tested that.
+This is the operational lesson. Use the exact manufacturer's current instructions for the device and firmware on the table.
 
-### Where your bitcoin actually lives
+### What the device does
 
-First: your Bitcoin isn't on the device.
+A hardware wallet stores signing keys and signs transactions in an environment designed to keep those keys away from the everyday computer or phone.
 
-When you set up a hardware wallet, it generates a seed phrase, 12 or 24 words, and every key to your Bitcoin is derived from those words. The device is just a safe place to use them. The device is replaceable. The seed is not.
+The Bitcoin is not inside the device. The device is replaceable.
 
-So if the device breaks, you rebuild the wallet on a new device from the seed, and nothing is lost. But if the seed is wrong, a broken device is the end of the stack.
+What recovers the wallet depends on the setup. That can include the wallet backup, a passphrase, the address or script type, derivation information, and the wallet policy or descriptor if you use multisig.
 
-And there's a detail that makes this sharper: most hardware wallets wipe themselves after a set number of wrong PIN entries. That's the right feature, because it stops a thief from guessing their way in. But it also means your entire stack effectively lives on the paper backup. The device can erase itself on a Tuesday afternoon, and that piece of paper becomes the only copy in existence.
+Do not assume one mnemonic restores every wallet in every device from every manufacturer.
 
-### The six-step setup
+### Start with a clean device
 
-The setup is 6 steps, and the order matters.
+Buy from the manufacturer or an authorized source you can verify.
 
-Step one: buy the device directly from the manufacturer. Never used, never from a third-party seller. A device someone else touched can arrive with a seed they already know, and then every coin you send it is already theirs.
+Follow the official authenticity and firmware checks. Never use recovery words or a PIN supplied in the box, on a card, or by another person.
 
-Step two: generate a brand-new wallet on the device itself. The seed gets created by the device, and it has never existed anywhere else in the world.
+The device should generate the backup during setup. Nobody legitimate asks you to type that backup into a website, chat, support form, or ordinary computer.
 
-Step three: write the seed down offline, and set a PIN.
+### Record the actual backup standard
 
-Step four: send a small test transaction to the wallet. Something like 0.01 Bitcoin, around $1,000. Small enough that losing it is survivable, big enough that you take it seriously.
+A common BIP39 backup can contain 12, 15, 18, 21, or 24 words. Other devices can use a different or multi-share standard.
 
-Step five, and this is where most people stop short: wipe the device. Factory reset it, on purpose, with that $1,000 sitting on it. I know that feels wrong. That's exactly why you do it.
+Write down what this device actually produced and which wallet it belongs to.
 
-Step six: restore from your written seed, and confirm the test transaction reappears.
+If a passphrase is enabled, the backup without the exact passphrase derives a different wallet. Record that fact in the no-secrets process map without putting the passphrase there.
 
-That wipe-and-restore proves three things at once. The seed was written down correctly. You know the procedure, and you learned it under calm conditions. And the backup actually works.
+### Verify the backup before moving a meaningful amount
 
-If the restore works, your real stack moves over and you've proven the backup. And if it fails, you found out with $1,000 at risk instead of $150,000. I think that's a pretty good trade for an afternoon of work.
+I would test it in this order.
 
-### The never list
+First, use the manufacturer's backup-check feature when one exists. That checks the recorded backup without destroying the working setup.
 
-The rules for the seed itself are short. The seed exists on paper or steel, offline, and nowhere else. Not in a photo, not in a password manager, not in a note app, because anything with a screen and a network connection can be read.
+Second, when practical, restore on a spare compatible device or approved recovery environment with only a small test amount at risk.
 
-And paper degrades and burns. For a meaningful stack, the seed goes on steel, and the backups live in separate locations. We'll cover the locations in the single-points-of-failure lesson.
+Third, use a destructive wipe-and-restore only after the backup has already been checked, the exact vendor procedure is open, and another working path or low-value test protects you from one typo becoming a loss.
 
-### One pointer before you start moving coin
+The old course made wiping the only device the default first proof. That was too aggressive.
 
-One thing to know before you start sending Bitcoin to this wallet, and then I'll point you at where it's taught properly.
+A recovery test should reduce risk, not temporarily create one live copy of everything you own.
 
-Every deposit into your wallet is its own separate chunk, and every chunk costs a fee to spend later. So a lot of very small transfers quietly raises what it costs to move your own Bitcoin down the road. If you're buying small amounts regularly, let them accumulate and transfer in fewer, larger chunks rather than moving every buy the day it happens.
+### Verify the wallet, not only the words
 
-That's the whole rule you need today. The advanced library has the full lesson on it, along with why you use a fresh receiving address every time. Worth watching once, before you've made a hundred small transfers rather than after.
+A successful recovery means more than the device accepting the backup.
 
-### If you're afraid to touch it
+Confirm that the recovered wallet produces the expected receive address or wallet fingerprint and can see the expected small test transaction.
 
-I want to talk to a specific person for a minute, because I run into them a lot. You bought the hardware wallet, you moved your Bitcoin onto it, and now you don't touch it. You don't plug it in, you don't update it, you don't check it, because you're scared that plugging it in is how you get robbed. A client told me almost exactly that: she doesn't plug it into anything, because she doesn't know how to keep it safe.
+For a passphrase wallet, test the exact passphrase and verify the intended wallet, because every different passphrase opens a valid but different wallet.
 
-If that's you, a hardware wallet is built for exactly this. The whole design is that your keys never leave the device. It doesn't hand them to your computer or your phone when you plug it in. That's the entire reason the thing exists. So plugging it into your normal computer is not the risk you think it is.
+For multisig, confirm the wallet policy or descriptor loads and that the intended threshold combinations can sign.
 
-There is one real threat to know about, and it's worth knowing precisely. There's malware that watches your clipboard and swaps the Bitcoin address you're sending to. You paste in your address, and what actually gets sent is somebody else's.
+### Receive with the trusted display
 
-The defense takes 10 seconds and it never fails: **read the address on the hardware wallet's own screen and confirm it matches what's on your computer.** The whole address, not just the first few characters. The device screen is the thing malware can't touch. That's why it has a screen.
+When receiving Bitcoin, generate the address in the wallet software and confirm the destination on the hardware device's trusted display.
 
-On firmware updates, I don't rush them, and I do eventually install them, because they often carry real security fixes. Being a little paranoid here isn't a bad instinct. Just don't let it turn into never.
+Do not approve an address that appears only on the computer or phone.
 
-### PIN versus seed phrase
+This reduces common malware risk. It is not a guarantee against every device, firmware, supply-chain, or human failure, which is why the setup source and recovery process still matter.
 
-And there's a distinction that resolves a fear I hear constantly: what if I die and nobody knows my PIN?
+### Backup storage
 
-Your PIN protects the device. That's all it does. If someone gets the physical device, the PIN is what stops them.
+Keep recovery material offline under the policy you chose.
 
-Your seed phrase IS your Bitcoin. It works in any hardware wallet from any manufacturer.
+Paper can be damaged. Metal can survive more physical hazards. Either can be copied by anyone who finds it.
 
-So if something happens to you and your family doesn't know your PIN, that's fine. They don't need it. They buy a new hardware wallet, restore from the seed phrase, and the Bitcoin is there. The PIN dies with the device and it doesn't matter.
+Separate redundant copies so one fire, flood, theft, or household conflict does not reach all of them.
 
-That also means the reverse is true, and it's the part to take seriously: **protecting the PIN is not protecting your Bitcoin.** The seed phrase is the thing that needs the real protection.
+Do not photograph the backup, email it, upload it, store it in a generic note, or enter it into an AI.
+
+A supported encrypted digital backup is a different design decision and must follow the exact wallet standard; the course default remains offline recovery material.
+
+### PIN, passphrase, and backup are different
+
+The PIN protects access to the device.
+
+The wallet backup recreates the signing material under a compatible recovery path.
+
+The passphrase, when used, selects a different derived wallet and must be recovered exactly.
+
+None of those should be treated as interchangeable.
+
+### Updates
+
+Install firmware and wallet-software updates only from official sources and only when the recovery path is already verified.
+
+Read the release and migration notes. Do not rush an update because an email or social post creates urgency.
 
 ### Your decision
 
-Whether your recovery actually works, which is not a thing you can decide by believing it.
+Which recovery proof this setup will use: manufacturer backup check, spare-device recovery, or a carefully staged destructive restore.
 
-### Put it in Orange Plan
+### Put it in orange plan
 
-Nothing to enter. This one happens on a device.
+Protect → Security checklist. Mark the recovery test complete only after the intended wallet was recovered and verified.
+
+Do not record any seed words, passphrases, PINs, private keys, or backup contents in the app.
 
 ### You are done when
 
-You have wiped and restored from your backup, on a device, and watched the balance come back. Until that has happened, you have a hardware wallet and a hope.
+The backup standard is known, the intended wallet was independently recovered or checked, the address/policy matched, and the test did not rely on the only working copy of a meaningful balance.
 
 
 ## 7.3 Single points of failure, account hardening, and scams
-*`TEACH` · ~1,025 words · ~7 min*
+*`TEACH` · ~589 words · ~4 min*
 
 > ✅ **Fixed in course:** stale hand-off promised "advanced custody" next — that
 > material lives in 7.1; now points at the external demo.
@@ -3852,93 +3863,96 @@ You have wiped and restored from your backup, on a device, and watched the balan
 
 ---
 
-In today's lesson, we're going to cover single points of failure, account hardening, and the scam rules. This is the lesson about closing the doors you didn't know were open.
+In today's lesson, we're going to find the one failure that can still take the whole setup and harden the online accounts around it.
 
-### Three shapes of a single point of failure
+### Find one failure at a time
 
-A single point of failure is anything that exists only once, where losing it means the Bitcoin is unreachable. And it comes in three shapes.
+A single point of failure is one person, device, backup, provider, email account, or location whose loss or compromise can stop recovery or authorize an unwanted spend.
 
-The first shape: the thing gets destroyed. A device, a backup.
+Do not create a list of 20 theoretical risks and fix none of them.
 
-The second shape: the thing is fine, but the person is unavailable, because only one person knows the process.
+Ask:
 
-And the third shape: you're fine, your Bitcoin is fine, and the custodian won't let you move it. An exchange freezes an account.
+- What one thing can authorize everything?
+- What one thing can permanently block recovery?
+- What one provider can freeze or impair every custodial holding?
+- What one email or phone number can reset every financial account?
 
-Most people count the devices and completely forget the custodians.
+Fix the largest one, test the new process, then repeat at the annual review.
 
-### Two ordinary tuesdays
+### Harden the email first
 
-Let me make this concrete with the couple. Their setup: one hardware wallet in a desk drawer, one paper seed backup in the same house, a quarter Bitcoin on an exchange protected by SMS two-factor, and a wife who has never restored a wallet.
+The primary email is often the reset path for exchanges, brokerages, banks, cloud accounts, and the plan itself.
 
-Now, two completely ordinary events.
+Use a unique password and a phishing-resistant authenticator where the provider supports one.
 
-The house floods. The device and the only seed backup are in the same building, so about $150,000 of Bitcoin goes out with the drywall. Two copies in one location were never really two copies.
+Passkeys and hardware security keys can be phishing-resistant when correctly deployed. Keep a backup key or recovery method in a separate location.
 
-Or he's hospitalized for 6 weeks. Nothing was stolen, nothing was lost, but nothing can move either. She can't sell a dollar of it, and she can't even tell anyone what exists.
+A time-based authenticator code is generally stronger than SMS, but a code you type into a phishing site can still be stolen in real time.
 
-No hackers involved in either one. The failure that actually loses Bitcoin is almost always just one thing without a backup.
+SMS is the last choice, not the standard.
 
-### The nine-question hunt
+### Harden every custodial account
 
-So the hunt is 9 questions, and for each one you ask: is there only one?
+For each exchange, brokerage, lender, and custodian:
 
-Only one device? Only one seed backup? Only one location? Only one person who knows everything? One weak exchange login? One heir with no idea what exists? A document that contradicts your beneficiary forms, which are the forms your bank and retirement accounts keep on file naming who gets the money? A passphrase nobody else can recover? And multisig keys all sitting in one place?
+- use a unique password;
+- use passkey or security key when supported, otherwise a strong authenticator method;
+- store recovery codes offline and separately;
+- turn on withdrawal allowlists, delays, or secondary approval when available;
+- review active sessions and trusted devices;
+- remove old phone numbers and unused recovery methods;
+- test the real account-recovery path without locking yourself out.
 
-The couple checks six of nine. And again, they're not careless. A normal setup collects only-ones on its own over the years, because nothing ever asked the question.
+Provider features change. The course names the control, not a button every provider promises to have.
 
-### The fix method
+### Recovery can be the back door
 
-The fix method matters as much as the list, because trying to fix all nine at once is how nothing gets fixed.
+A strong security key does not help if support will reset the account after a weak identity check.
 
-Step one: list your top three, ranked by what the loss would cost. Not by how easy each one is to fix. Step two: pick the one at the top. Step three: fix that one, and only that one. Step four: re-check and repeat.
+Ask what happens after the phone is lost, the email is inaccessible, or the owner dies.
 
-For the couple, the top item is the seed backup and the device sharing an address. The fix is a steel backup stored somewhere else. The in-laws' place, a safe deposit box, a second property. That's one afternoon of work.
+The recovery path should not be easier to attack than the login path.
 
-The next one is the hospital scenario, which is a person problem. She needs to have restored a wallet once, with a small amount, so the procedure lives in two heads instead of one.
+### Scams use urgency and authority
 
-And notice the pattern: every only-one turns into one of three things. A backup, a second location, or a second person who knows the process. Never the secrets. The process.
+The common scam asks you to act before you verify.
 
-### Account hardening
+"Your wallet is compromised."
 
-Now, account hardening, and I'll start with why I take this personally. A couple of years ago, someone called my bank pretending to be me and tried to move about $10,000. They didn't get it. But that's the day I moved my exchange and email logins onto physical security keys.
+"Move the Bitcoin now."
 
-In most real-world losses, nobody breaks the encryption on your Bitcoin. They log in as you.
+"Enter the backup to synchronize."
 
-The hardening order matters, so do it in this order.
+"Support needs remote access."
 
-First, secure your email account, before anything else. Your email is the master key, because every other account will reset its password to that inbox on request. If they get the email, they get everything downstream.
+When you get one of these messages, stop before you do anything.
 
-Second, a strong, unique password on every account.
+Stop. Close the message. Navigate to the provider through a known bookmark or official channel. Verify on another device or with another person. Never reveal recovery material.
 
-Third, app-based two-factor, not SMS, and turn the authenticator's cloud backup off.
+No legitimate support person needs the wallet backup, private key, passphrase, or PIN.
 
-Fourth, withdrawal delays and allowlists on at the exchange. And never click login links out of an email or a DM. Type the address yourself.
+### Physical and social exposure
 
-Why not SMS? Because of the SIM swap. Someone talks your carrier into moving your number onto their SIM, and from that moment, your texts arrive on their phone. A SIM swap takes the exchange and the email in one afternoon.
+Who knows the amount, location, or exact setup is also part of your custody risk.
 
-And one step better than the authenticator app: a hardware security key. A physical key is bound to the real site's address and checks it before signing. A lookalike phishing site simply doesn't get a response. That takes phishing off the table entirely, and it's the cheapest upgrade in this whole lesson.
+The more people who know the amount, location, or exact setup, the larger the coercion and social-engineering surface.
 
-### The scam rules
+The family needs the process. They do not all need every secret.
 
-The scam rules are short.
-
-If a call says your account is hacked, hang up and contact the provider yourself, through the app or the number on your card. And guaranteed returns are a scam. All of them. There's no exception waiting for you.
-
-The common thread in every scam is urgency. Every scam needs you to act before you think. So when something feels urgent, close the app and slow down. That one habit catches scams you've never even seen before, because it doesn't need to recognize the scam. It just needs to notice the pressure.
+Public content should discuss principles and test setups, never the real household's balance, locations, device identifiers, or recovery distribution.
 
 ### Your decision
 
-Your one most expensive only-one, and the fix with a date on it.
+The largest remaining single point of failure and the one hardening action with a date.
 
-### Put it in Orange Plan
+### Put it in orange plan
 
-Protect → Security checklist for the hardening items, and Needs attention for the next one.
+Protect → Security checklist. Record completion status only. Keep names, secrets, backup contents, and exact storage locations off the page.
 
 ### You are done when
 
-Your only-one list exists, the top item by cost of loss has a specific fix this week, and your account hardening is done: secured email, unique passwords, non-SMS two-factor, withdrawal delays on. One fix, not nine.
-
-Then watch the demo and the walkthrough below this video, where I set up a hardware wallet on screen and then we document your custody map in Orange Plan.
+The email and custodial accounts use the strongest practical authentication available, recovery paths are documented, and the largest remaining failure has a specific fix instead of a vague plan to be more secure.
 
 
 ## 7.4 External demo: hardware wallet setup + exchange hardening
@@ -4239,7 +4253,7 @@ advanced lesson. Edit the condition there, not here.*
 > **US-specific module.** The executor role, the four documents, probate, trusts, and the federal exemption are all US law. Said ONCE, at the top of 8.1, and never repeated per lesson.
 
 ## 8.1 The executor, the four legal documents, and choosing an estate attorney
-*`TEACH + APP` · 2,265 words · ~11 min*
+*`TEACH + APP` · ~1,011 words · ~7 min*
 
 **By the end of this lesson, you can:**
 
@@ -4251,121 +4265,141 @@ advanced lesson. Edit the condition there, not here.*
 
 ---
 
-One thing before we start this module, and I'll say it once. The executor role, the legal documents, probate, trusts, and the federal estate exemption are all US law. If you're outside the US, the same jobs exist under different names, so take these frameworks to an estate professional in your own country.
+In today's lesson, we're going to build the legal and human layer around the custody process.
 
-Custody was operational access: how you turn the device back into spendable Bitcoin. **Estate** is the legal transfer: how your family can inherit it without you in the room.
+This module is US-specific and state-specific. The course can teach the jobs the documents perform. An attorney licensed in the governing state has to draft and supervise the actual plan.
 
-Your hardware wallet grants no legal authority and carries no instructions. It works for whoever can operate it. A perfect custody setup can still leave your family locked out for reasons that have nothing to do with keys.
+### Nomination is not appointment
 
-### The executor's real job
+A will usually nominates the person you want to serve as executor and directs the probate assets.
 
-Executor sounds like an honor. It's a workload.
+The executor generally receives legal authority through the court process after death. Before appointment, the nominee may have very limited power to act.
 
-Your executor runs the process after you're gone. They file the will with the court, which opens **probate**. The court confirms the will, grants the executor legal authority, and supervises the wind-down. Under that supervision, the executor:
+If there is no valid will, the court can appoint an administrator under the state's intestacy rules.
 
-1. Inventories what you owned.
-2. Notifies the people who are owed money.
-3. Pays the final bills and taxes.
-4. Distributes what's left to the people you named.
+So the problem with no will is not that nobody can ever receive authority. The problem is that state default rules and a court process choose the path instead of the plan you wrote.
 
-Months of paperwork, done while grieving.
+### Document one: the will
 
-The executor can't do any of that because you told them to. They can do it because a court granted them the power, on the strength of a document you signed. No document, no authority. The document is the decision.
+The will directs probate assets, nominates the executor, and can nominate a guardian for minor children.
 
-### Picking for capability
+A guardian nomination is not an automatic appointment. The court makes the final decision under state law.
 
-A capable executor is three things at once:
+The will does not control every asset. A valid beneficiary, payable-on-death, transfer-on-death, trust, joint-ownership, or retirement-plan arrangement may transfer outside the will.
 
-1. **Capable.** Can handle a legal and financial process.
-2. **Available.** Has the time and willingness.
-3. **Trustworthy.** Acts in good faith under pressure.
+That is why the estate plan is a coordinated system rather than one document.
 
-Run three candidates on the couple:
+### Document two: financial power of attorney
 
-- **His wife.** Trustworthy and available. The problem is structural. Under the access split, heirs hold one piece and the executor holds the other. If she's the heir and also the executor, she holds both halves. The protection collapses on day one.
-- **Her brother.** Organized, capable, lives two states away, never owned Bitcoin. This works.
-- **His best friend.** Flattered to be asked. Flattery is only willingness (half of one of three tests). Says nothing about running a probate.
+A financial power of attorney authorizes an agent to act during life under the terms of the document.
 
-They land on **her brother**. He clears all three tests and isn't an heir.
+It is an incapacity and lifetime-management tool. It generally ends at death.
 
-### Your executor doesn't need to be a Bitcoiner
+The document should address digital assets and the accounts the agent may need to manage, subject to the state's law and provider terms.
 
-They need to follow a documented process and know who to call when stuck. Pair a non-technical executor with clear documentation and a named technical helper. Pick for judgment (rare) over Bitcoin knowledge (teachable).
+### Document three: healthcare directive
 
-If nobody in your life fits, name a professional. A bank, trust company, or attorney. Look for someone who knows the law, probate, and Bitcoin custody.
+A healthcare directive and healthcare power name who makes medical decisions and record the owner's wishes when the owner cannot communicate.
 
-If your design does use dual control, the executor has to plug into it correctly: whoever holds one piece should not also hold the other. That is why naming your heir as your executor collapses a split on day one. If your design does **not** use dual control, this is simply not a constraint on who you name.
+This is not an inheritance document. Its job ends where the executor and post-death plan begin.
 
-Then actually ask them. Someone who finds out they're the executor on the day they're supposed to start can't start.
+### Document four: transfer and access records
 
-### The four legal documents
+Beneficiary, POD, TOD, and retirement-plan designations can transfer the covered asset outside the will.
 
-1. **Will.** Directs who gets what.
-2. **Power of attorney.** Someone can act on money matters if you're incapacitated.
-3. **Healthcare directive.** Medical wishes in writing.
-4. **Beneficiary designations.** The form on an account naming who receives it when you die. Retirement accounts, life insurance, some bank and brokerage.
+A valid provider-held designation generally controls that account, but "generally" matters.
 
-### The form generally controls, not the will
+Plan terms, ERISA, spousal consent, QDROs, community-property rules, state law, and an invalid or outdated designation can change the result.
 
-> **For accounts governed by a valid beneficiary, payable-on-death, or transfer-on-death designation, the provider's form will generally control rather than the will. Verify each account directly with the provider and your attorney.**
+Orange Plan records intent. The provider holds the binding account record.
 
-Say it that way. The blunt version — "the form overrides the will" — is right often enough to be dangerous, because it invites a student to assume it holds for every account they own. It doesn't. State law, community-property rules, plan documents, spousal-consent requirements, and whether the designation is valid in the first place all bear on it.
+The fourth category also includes the digital-asset authority language the legal documents need.
 
-Your will only directs assets that go through probate. An account with a valid named beneficiary generally does not enter probate. It's a contract between you and the institution that says "pay this person," and the custodian usually pays before anybody has read the will.
+Many states follow a version of the Revised Uniform Fiduciary Access to Digital Assets Act. Access to an account and access to the content of electronic communications can be treated differently, and explicit consent may be required.
 
-Real example. He left a job in 2019 with $80,000 in an old 401(k). Filled the form out at 26, before he was married, and named his mother. Six years and a wedding later, the will says everything goes to his wife. **That $80,000 is very likely going to his mother**, and the will has no say in it. (Plan type and state matter here — some plans require spousal consent. Which is exactly why the instruction is *verify*, not *assume*.)
+Ask the attorney to address digital assets and electronic communications directly rather than relying on a generic property clause.
 
-The cheapest fix in the whole module: fill out the form. Takes about 10 minutes. Orange Plan lists every beneficiary you've named with each one's percentage of the estate on one screen. Ten seconds a year to check.
+### The executor is a person, not a name in a field
 
-#### Beneficiary verification sheet
+Ask the person before naming them.
 
-The app's screen is your checklist, not the legal record. **The institution holds the binding record**, so each account gets confirmed with the provider directly.
+They should understand:
 
-| Account | Primary | Contingent | Checked directly with provider? | Date | Matches the plan? |
-|---|---|---|---|---|---|
-| | | | | | |
+- that the role exists;
+- who the attorney and tax professional are;
+- where the legal documents and no-secrets process map are kept;
+- what not to do with Bitcoin;
+- that they may need court appointment before acting;
+- that they never need the wallet backup merely to begin the legal process.
 
-Every account carrying a beneficiary, POD, or TOD setting gets a row: retirement accounts, brokerage, bank, insurance policies, annuities. Run it here and again at the annual review. **An account is only done when the "Checked directly" column is true** — a name you remember filling in years ago is not verification.
+The executor does not need every signing secret. They need authority, process, and the right people.
 
----
+### Legal authority and technical control are different
 
-### Choosing your estate attorney
+A person can be legally authorized and unable to sign.
 
-Most of hiring one is normal vetting: experience, fees, responsiveness. Four things are specific to being a Bitcoin holder, and they belong on a checklist you take into the meeting rather than in your head.
+A person can hold enough signing material and have no legal authority to use it.
 
-| # | Ask |
-|---|---|
-| 1 | Have you drafted an estate plan for a Bitcoin holder before? |
-| 2 | Are you comfortable with self-custody and multisig, and not just an exchange account? |
-| 3 | Will you help my heirs *execute* the plan, and not just draft it? |
-| 4 | Are you licensed in my state? Probate law and signing formalities are state-specific. |
+A good estate plan aligns those two systems.
 
-> **A fifth question exists, and it is the most expensive one to skip — but it
-> only applies to trusts,** so it lives with the trust lesson: **Advanced
-> Estate Planning → A8.1**, which covers the prudent-investor duty, why it can
-> force a trustee to sell the exact asset the trust was built to hold, and the
-> waiver that prevents it. If your household is heading toward a trust, watch
-> that before you hire anybody.
+The will, trust, or court order governs authority. The custody design governs what can technically authorize a transaction. The heir letter and custody map explain how to start. None replaces the others.
 
-**The filter to weight heavily:** do they explain things in language your executor and your heirs will understand? You are not going to be the one sitting across from this attorney someday. Your spouse will be, and your executor will be, in the worst week of their lives.
+### Beneficiary review
+
+For each retirement account, insurance policy, brokerage account, bank account, and provider that supports a designation:
+
+1. read the current provider record;
+2. confirm the primary and contingent beneficiaries;
+3. confirm percentages and per-stirpes or similar choices when available;
+4. check spouse-consent and plan-document rules;
+5. save evidence of the review without storing account secrets in the course tools;
+6. coordinate the designation with the will and trust plan.
+
+Do not assume an entry in Orange Plan changed the provider's record.
+
+### Choosing the attorney
+
+The attorney does not have to be a Bitcoin engineer.
+
+They do have to be willing to coordinate legal ownership and fiduciary authority with a custody process they may not have seen before.
+
+Ask:
+
+1. How does this state treat probate, elective-share or community-property rights, and guardian nominations?
+2. Which assets in this household pass by will, beneficiary form, joint ownership, or trust?
+3. Does the power of attorney include the digital-asset powers needed during incapacity?
+4. Does the estate plan include explicit consent for digital assets and electronic communications under this state's law?
+5. How should an executor, trustee, heir, and custody provider coordinate without placing all signing power with one person?
+6. Which document authorizes retention of a concentrated Bitcoin position, and what fiduciary protections are available under this state's trust law?
+7. What signing and witnessing process makes these documents valid here?
+
+### The executor packet
+
+The Executor Packet is an operational briefing, not a legal instrument.
+
+It can explain the first week, contact list, account inventory, tax order, and Bitcoin safety rules.
+
+It cannot appoint the executor, change a beneficiary, authorize access to an account, or override a court order.
+
+Use it to brief the person the legal documents nominate.
 
 ### Your decision
 
-Who your executor is, and whether your beneficiary forms name who you actually intend.
+Who will be nominated, whether they have accepted, and which state-licensed attorney will draft and coordinate the documents.
 
-### Put it in Orange Plan
+### Put it in orange plan
 
-Protect → Needs attention → Beneficiaries. Then mirror every one on the custodian's own form, because the institution holds the binding record.
+Protect records the completion status, beneficiaries as intent, emergency contacts, and the family process.
+
+Do not store seeds, private keys, passphrases, PINs, account passwords, full account numbers, or exact recovery locations.
 
 ### You are done when
 
-A will exists and an attorney has supervised the signing, your executor has been asked out loud, and your beneficiary forms match your intent on the custodian's system. For accounts with a valid beneficiary, POD, or TOD designation, the provider's form generally controls instead of the will, so an out-of-date form quietly undoes everything else you just did. Confirm each one with the provider.
-
-If you're outside the US, the tests and the frameworks travel well but the legal containers don't. Map the concepts with a qualified local professional.
+The executor has accepted, the provider-held beneficiary records were reviewed, the attorney has the digital-asset questions, and every operational document is clearly labeled as process rather than legal authority.
 
 
 ## 8.2 Split access: dual control and redundancy
-*`TEACH` · ~1,572 words · ~10 min*
+*`TEACH` · ~767 words · ~5 min*
 
 > ✅ **SAFETY REWRITE (2026-08-08).** The old lesson claimed a seed + passphrase
 > split gave "no single point of failure" and that half of it left the plan
@@ -4389,97 +4423,117 @@ If you're outside the US, the tests and the frameworks travel well but the legal
 
 ---
 
-In today's lesson, we're going to design who can reach your Bitcoin after you're gone, and prove it works while you're still here.
+In today's lesson, we're going to test whether one person can spend alone and whether one loss can permanently block recovery.
 
-Before we design anything, I need to give you two tests, because most people design for one of them and just assume they got the other one for free. They didn't, and that assumption is how people lose Bitcoin.
+These are two different questions. Dual control tells you whether one person can spend alone. Redundancy tells you whether one loss can stop recovery.
 
-### Why both simple options fail
+### Test one: can one person spend alone?
 
-The two obvious answers both fail, and the couple's $175,000 shows why.
+If one person, one backup, or one account credential can authorize the whole balance, the setup fails the dual-control test.
 
-One person gets everything: he writes the seed on a card and hands it to her brother, the executor. Now a man who isn't even an heir has unilateral control of $175,000 of his sister's inheritance, and the only thing protecting it is his own good faith. Even if he's a great guy, the plan is built on one person never having a bad year.
+That may be an accepted trade in a simple single-signature wallet. It should not be described as if two people are required when they are not.
 
-Or nobody gets enough: he tells nobody, to be safe, and then he dies, and $175,000 sits on a device his wife can't open, forever.
+### Test two: can one loss stop recovery?
 
-Everything in this lesson lives between those two.
+If one missing device, backup, passphrase, person, provider, or wallet policy can permanently stop recovery, the setup fails the redundancy test.
 
-### The two tests
+A system can pass one test and fail the other.
 
-> 🎬 **GRAPHIC: two checkboxes, held on screen for the whole lesson. TEST 1 — can one person spend alone? TEST 2 — can one lost copy, or one person you can't reach, permanently stop recovery?**
+One seed copied into three locations is redundant against one location loss, but every copy is still sufficient to spend.
 
-Test one is dual control. Can one person spend alone? If the answer is yes, then that person is a single point of theft, and they're also a single point of pressure, because somebody can lean on them.
+A mnemonic and passphrase stored apart can prevent either item alone from deriving the intended passphrase wallet, but losing either can block recovery. That is operational two-part access, not on-chain multisig.
 
-Test two is redundancy. Can one lost copy, or one person you can't reach, permanently stop recovery? If the answer is yes, then you've built a way to lose the Bitcoin that has nothing to do with anybody being dishonest.
+A 2-of-3 multisig can pass both tests when any two keys work, one cannot spend, one can be lost, and the policy/descriptor is recoverable.
 
-Two completely different tests. Handing one person everything fails test one. Telling nobody fails test two.
+### Level 1: institutional control
 
-The part that gets missed, and it's really the reason this lesson exists, is that passing one of these does not give you the other. Most setups that pass test one fail test two by default, and test two is a separate job you have to go do on purpose.
+At Level 1, the institution controls signing.
 
-### Your design follows your custody level
+The household's dual-control and redundancy questions are delegated to the provider's controls, beneficiary record, account recovery, and death-claim process.
 
-Now, what you can actually build depends on the custody level you picked back in the custody module. You don't need a more advanced setup to do this lesson. You need an honest design for the setup you already have.
+Verify what the provider actually requires. Do not assume an institution's legal process works like a wallet recovery.
 
-At Level 1, on a hardened exchange or broker, you haven't built household dual control at all. You've delegated custody to an institution, and their process is what stands between any one person and the money. That's a different thing, and worth naming honestly, because it means the two tests get answered by somebody else's procedures rather than by a design you control.
+### Level 2: single-signature control
 
-So at Level 1 you're designing a path rather than a secret. Your heirs get the beneficiary designation on the account. Your executor gets the process: which institution, what they'll ask for, who to call. And what you should actually verify is that institution's death-claim procedure, because that procedure is your plan. If it turns out to be slow, or it requires something your family won't have, that's the gap to fix, and no amount of household design fixes it for you.
+A Level 2 single-signature wallet usually has one sufficient recovery path.
 
-At Level 2, one hardware wallet and one seed, be honest about what you can and can't do. You cannot split a single seed between two people, and I'll come back to why that idea is actively dangerous. So the honest design is: the seed goes to your heir, backed up in more than one place, and your executor holds the process rather than the secret. Where the device is, where the backups are, what to do, who to call.
+That means someone holding the complete wallet backup can generally control the wallet, unless another required element such as a passphrase exists.
 
-That design passes test two, because a lost copy doesn't end you, and it fails test one, because your heir can spend alone. For a lot of households that's an acceptable trade, and it's far better than either failure we opened with. Choose it knowing what it is, and don't describe it to your family as a no-single-point-of-failure plan.
+Multiple backup copies create location redundancy but also create multiple sufficient spending copies.
 
-At Level 3 or 4, the passphrase or the multisig, you can pass both tests, but only if the setup and its backups are designed for it.
+The old course prescribed one universal Level 2 family arrangement even though Austin had not dictated one. That recommendation has been removed.
 
-A passphrase lets you hand two different objects to two different people, where neither does anything alone. That passes test one immediately. It does not pass test two, because seed plus passphrase is a two-of-two, and both are required every single time. Half of a two-of-two is zero. So a passphrase split gets you redundancy only when each half has its own separate backup, which is a second job you have to go do.
+For Level 2, write the accepted trade plainly:
 
-A two-of-three multisig is the one that gets both from the arithmetic itself, because any two keys can spend and no single key can, so losing one key entirely is survivable.
+- who can technically recover;
+- who is legally authorized;
+- how redundant copies are protected;
+- whether one-person spending is accepted;
+- what event would justify moving to a passphrase or multisig design.
 
-Building either one is in the advanced custody lesson, and that's the right place for it, because it's a custody decision, not an estate decision.
+The estate attorney coordinates authority. The custody lesson coordinates technical recovery. The course does not choose the backup holder for every family.
 
-The estate job is the same at every level: name who holds what, answer both tests out loud, and be honest about the one you didn't pass.
+### Level 3: passphrase separation
 
-### Every backup is also a path in
+A passphrase wallet can separate the mnemonic and exact passphrase.
 
-Whatever level you're at, there's one tension you have to resolve deliberately, because it's the actual design problem underneath all of this.
+Each element needs its own backup and recovery path.
 
-Every backup you add to protect against loss is also another potential path to somebody getting unilateral access.
+The standard no-passphrase wallet still exists. Whether it is empty, a decoy, or used for another purpose is deliberate.
 
-It resolves the same way every time: each piece gets its own backup, and that backup stays on its own side. Never in the same house, never in the same safe, never with the person holding the other piece. Do it that way and each side can lose a copy and still recover, while neither side gains anything it shouldn't have. Do it carelessly and a backup in a shared safe quietly collapses your whole design into one person holding everything.
+This design can reduce the risk of one found backup revealing the intended wallet. It also creates an all-parts-required recovery unless the household adds redundancy on both sides.
 
-And this is where the executor question comes back. If the design you chose puts the executor on one side and the heirs on the other, then they have to be different people, or you've handed one person both sides on day one. If your design doesn't split them that way, and plenty don't, then a spouse serving as both is fine. It's a consequence of your design, not a rule about executors.
+Test the exact intended wallet. Every passphrase typo derives another valid wallet.
 
-### Test it while you're alive
+### Level 4: multisig
 
-Just like the hardware backup, this gets proven, not hoped for.
+A 2-of-3 wallet requires two signing keys.
 
-The couple's Saturday afternoon: he moves about $1,000 into the setup, whoever is supposed to be able to recover it does the recovery on a spare device following only what's written down, and they watch the $1,000 appear. If two people are supposed to be needed, run it twice, once with both and once with only one, to confirm the one alone can't.
+To recover it, the family also needs the wallet policy or descriptor and compatible software.
 
-That converts a hoped-for plan into a proven one, for $1,000 they never spent, on a day when nobody was grieving. One rule afterwards: the pieces stay distributed. Writing everything down together in one place undoes the entire design.
+The descriptor cannot spend. Storing it with a key does not change the 2-of-3 threshold.
 
-### The misconception that gets people hurt
+It is still privacy-sensitive and should be backed up in places the intended recovery team can reach.
 
-Last thing, and I hear it most from people at Level 2 who want to pass test one without changing their setup. "I'll just split the seed words between two people." Someone actually did this. 24 words, 12 to each of two people.
+Distribute keys across independent failure domains and test the combinations the family plan depends on.
 
-Look at what that actually builds. If the two people trust each other, together they have the whole thing, so there's no protection at all. And you've just created a two-of-two, which means either half going missing loses everything permanently. You've taken on the redundancy problem without buying any dual control.
+### Legal role versus key role
 
-That's the difference. Splitting a seed from a passphrase gives you two objects that were designed to be separate. Chopping one seed in half gives you two fragments of one object, and a wallet that now fails if either fragment does. Those sound almost identical and they do opposite things. If you want to pass test one, you change your custody setup. You do not chop up your seed.
+Executor, trustee, heir, guardian, provider, and signing-key holder are not interchangeable roles.
+
+The legal documents decide who is authorized to act. The signing policy decides who can technically authorize a Bitcoin transaction.
+
+A key holder may need to sign under an executor's or trustee's legal instruction. A legally authorized person may need help from the threshold key holders.
+
+Write both maps and make sure they agree.
+
+### The family meeting
+
+The meeting teaches:
+
+- who calls the attorney first;
+- where the legal documents and no-secrets map live;
+- which people hold roles;
+- which action requires another person;
+- what nobody should ever reveal or improvise.
+
+It does not reveal the backup, passphrase, PIN, or exact key locations to everyone in the room.
 
 ### Your decision
 
-Your decision out of this lesson is who holds what, and which of the two tests your design passes.
+Which of the two tests the setup passes, which one it fails, and whether the accepted failure is still appropriate for the current amount and family.
 
-Design for the custody level you actually have, not the one you'd like to have, because an access plan built on a setup you haven't finished isn't a plan. Pick people who don't share a household, a safe, or a bad week. Choose for reliability over technical skill, since the process is written down and the person mainly has to follow it and be findable. And assume neither person goes rogue, while planning as if one might.
+### Put it in orange plan
 
-### Put it in Orange Plan
-
-Nothing to type. This design goes on your Family Custody Map, and the module walkthrough confirms it against both tests on camera.
+Protect records the level, recovery-test status, and process completion. Keep the seed, passphrase, key distribution, and exact storage locations out of the app.
 
 ### You are done when
 
-You can name who holds each piece and where it lives, you have answered both tests in writing including the one your design fails, and you have run the whole thing with a small amount on a spare device. If you failed test two, you fixed it first: a loss you caused yourself is far more likely than a betrayal.
+Both tests are answered honestly, the legal and technical roles align, and the intended recovery team has completed the process without giving one unintended person enough to spend.
 
 
 ## 8.3 The heir letter and the dead man's switch
-*`TEACH + APP` · 1,442 words · ~7 min*
+*`TEACH + APP` · ~694 words · ~4 min*
 
 **By the end of this lesson, you can:**
 
@@ -4489,85 +4543,121 @@ You can name who holds each piece and where it lives, you have answered both tes
 - Prepare the companion executor packet
 
 ---
-The **heir letter** is the first thing your family reads on the day they need the plan. It's a plain-language document written to the people who survive you. It tells them who to call, in what order, what exists, where the paperwork is, and what not to do in the first week.
 
-It's written for people who aren't going to be thinking clearly, so it makes the first hour a set of instructions to follow rather than decisions to make.
+In today's lesson, we're going to write the first page your family reads and build a delivery process that does not contain the secrets.
 
-Your family will read this letter on one of the worst days of their lives. Its job is to walk them through what to do without asking them to think through anything on the spot.
+The heir letter and dead man's switch are operational tools.
 
-### The rule that governs everything in it
+They do not appoint an executor, create legal authority, change a beneficiary, transfer ownership, or override a will, trust, provider form, plan document, or court order.
 
-The letter carries no secrets. Not one, not ever.
+Their job is to help the right person start the right legal and recovery process without improvising.
 
-A letter is a document. It sits in a drawer or a safe, or an email, and it can be found, copied, or photographed by somebody you never planned for. Anything written in it is only as protected as the place it's sitting.
+### The first two lines
 
-That's what lets the letter travel safely: it can sit in a drawer, go in an email, or get handed to an attorney, and none of that costs you anything.
+The first line says who to call first.
 
-⚠ Never in the letter: seed phrases, private keys, passwords, PINs, exact recovery steps, or where the config file lives.
+The second line says what not to do.
 
-Someone who steals this letter learns the name of your attorney and gets nothing they can spend. Same rule from the custody module: document the process, never the secrets.
+For example:
 
-### The first two lines are the whole thing
+"Call the executor and estate attorney before moving any Bitcoin. Do not enter recovery words into a phone, computer, website, chat, or support form."
 
-He's writing directly to her, not writing a document. The first two lines:
+Those two lines can prevent the most expensive mistake in the entire estate plan.
 
-*"Call your brother first. He has the other half, and he's expecting this call."*
+### What the letter should contain
 
-*"Don't move any Bitcoin, and don't talk to anyone who contacts you about it. Nobody legitimate will reach out to you first."*
+The letter can state:
 
-Those two lines do the letter's real job. They give her a **call order** and a **stop sign**, the two things a grieving person cannot invent on the spot.
+- that Bitcoin and other digital assets exist;
+- which legal and professional contacts should be called;
+- where the legal documents and no-secrets process map are kept;
+- which institution or custody provider has an official claim process;
+- which role each person has;
+- the order of operations;
+- what must never be done;
+- how to verify a helper through a known channel.
 
-#### The call order
+### What the letter must not contain
 
-1. **Her brother**, the executor. He holds the other piece. The two of them together are the only way anything moves.
-2. **The attorney.** Opens the legal side.
-3. **The provider or technical helper.** Once the executor is in the room.
+Do not include:
 
-Nobody acts alone, including her.
+- wallet backup words or shares;
+- private keys;
+- passphrases;
+- PINs or passwords;
+- full account numbers;
+- exact secret storage locations;
+- an unencrypted descriptor or extended public key when the document may circulate broadly;
+- detailed instructions that let any reader bypass the intended control structure.
 
-#### The stop sign
+The letter points to the process. It is not the process and not the secret.
 
-The people who target new widows and widowers show up quickly and show up looking helpful. Slowing her down for a week costs nothing and protects everything they haven't already spent.
+### The custody map
 
-### The rest of the letter
+The Family Custody Map names the setup, roles, provider contacts, document locations, and recovery dependencies without recording the secret material.
 
-- What accounts and assets exist.
-- Where the important documents are.
-- Don't rush.
-- Don't trust unsolicited "help."
-- Which provider to contact.
+The heir letter points the family to that map.
 
-Orange Plan's heir letter is built on the same rule. It holds your contacts, the content, and a finished document you can hand over. There's no field anywhere in it for a seed, key, passphrase, PIN, or recovery step. That's by design.
+The executor packet explains the legal and tax order.
 
-### The companion document: the executor packet
+The wallet-specific recovery instructions live in the controlled recovery package appropriate to the setup.
 
-The **executor packet** goes to the person running the process, not the family. Same information, operational form:
+### The dead man's switch
 
-- Key contacts: attorney, provider, technical helper.
-- Where the documents are.
-- Order of operations.
+A dead man's switch can send a message after missed check-ins.
 
-Same rule as the letter: the process, never the secrets.
+It can deliver the heir letter or tell the family where the process documents are.
 
-### Put it on paper
+It should never deliver a wallet backup, private key, passphrase, PIN, or enough information for an unintended recipient to authorize a transaction.
 
-The Estate Plan Maps are yours to fill in: who holds what, where it's stored, and "alone, nothing" written on every piece. That filled-in map becomes your agenda for sitting your family down. Walk them through it once, at the process level, while you're still around to answer questions. That way, the letter isn't the first time they've heard any of it.
+The switch also creates its own failure modes:
+
+- email goes to spam;
+- the recipient assumes it is a scam;
+- the contact address changed;
+- the service fails;
+- a false trigger causes the message to arrive while the owner is alive;
+- a local-only plan cannot use a cloud delivery feature.
+
+Tell recipients in advance, test the message, and keep a non-automated backup process.
+
+### Digital-account authority
+
+The message can tell the family which accounts exist. It does not create the legal right to access them.
+
+The estate attorney should include the digital-asset and electronic-communications authority required under the governing state's law, and the executor should use provider claim procedures rather than impersonating the owner.
+
+### The family handoff
+
+The handoff meeting covers:
+
+1. why the plan exists;
+2. who to contact first;
+3. where the legal documents live;
+4. where the no-secrets map lives;
+5. what not to do;
+6. what is still confusing;
+7. who owns each follow-up.
+
+No secrets are revealed in the meeting.
 
 ### Your decision
 
-Whether to arm the switch, and who gets contacted.
+Write down who gets contacted first, what they should not do, who receives the message, and how the letter gets delivered if the automatic process fails.
 
-### Put it in Orange Plan
+### Put it in orange plan
 
-Protect → Needs attention → Heir letter, then the Dead man's switch row.
+Protect → Heir letter. Write it in your own words, export it, and store it with the legal documents away from signing material.
+
+In Cloud mode, arm and test the switch. In Local Only mode, document and test the manual delivery process.
 
 ### You are done when
 
-The first two lines of your letter are written in your own words, the PDF is saved somewhere separate from your seeds and devices, and the switch is armed with recipients who have been told in advance that it exists.
+The family has received a test message, knows it is legitimate, can find the legal and process documents, and still does not possess any secret merely because the letter exists.
 
 
 ## 8.4 Insurance: term life, disability, umbrella, and when to stop
-*`TEACH` · ~1,191 words · ~8 min*
+*`TEACH` · ~976 words · ~6 min*
 
 **By the end of this lesson, you can:**
 
@@ -4578,73 +4668,156 @@ The first two lines of your letter are written in your own words, the PDF is sav
 
 ---
 
-In today's lesson, we're going to cover insurance, specifically the risks your stack can't cover yet.
+In today's lesson, we're going to identify the financial risks the balance sheet cannot absorb yet and build a first-pass insurance review.
 
-Your stack already self-insures the small stuff. That's what the reserve from earlier in the course is doing. Insurance covers the part the stack can't cover yet, which is the difference between what your family needs and what the stack already provides.
+This is education, not a quote or policy recommendation. Coverage, underwriting, exclusions, definitions, riders, guarantees, and state rules live in the actual contract.
 
-Early on, that gap is huge, and insurance covers it cheaply. As the stack compounds, the gap shrinks, and your coverage can shrink with it. So the way I think about insurance is: it's protection you rent until the stack can carry the weight itself. It's not something you carry forever.
+### The question insurance answers
 
-### Sizing the gap
+Insurance transfers a risk that would damage the plan more than the household is willing or able to absorb.
 
-Let's size the gap by running the Denver scenario forward 1 year. He's gone, and his $150,000 income went with him. She earns $40,000. They spend $80,000. Two kids and a mortgage.
+The useful question is not whether a category is good or bad.
 
-$80,000 of living spending plus $22,000 of debt payments is $102,000 they still have to cover. Minus her $40,000 of income, that's a $62,000-a-year hole, in a plan that was working fine a week ago. That hole is what insurance is for.
+It is:
 
-### Term life: the anchor
+- what event are we transferring;
+- how large is the financial loss;
+- how long does the exposure last;
+- what resources already cover it;
+- what does the contract actually promise;
+- when can the household absorb the risk itself?
 
-The anchor product is term life. It covers you for a set number of years, 20 or 30, at a fixed premium. If you die inside the window, it pays your beneficiaries a fixed amount, and that payout is currently free of income tax under US law. If you don't die, it expires and pays nothing. And that's fine, because it's the cheapest coverage per dollar of protection you can buy.
+### Life insurance
 
-The standard rule of thumb is 10 times income, which for him would be $1.5 million. But that number was built for a household with no Bitcoin. So let's do the math against their actual plan instead.
+Life insurance protects the people whose plan depends on the insured person.
 
-Step one: the annual hole is $62,000. Step two: the years to cover. She's 43, and they're covering to 65, so that's 22 years. $62,000 times 22 is $1,364,000. Step three: subtract what the stack already covers, which is $175,000. That leaves about $1.19 million.
+A first-pass need can begin with the survivor's annual shortfall multiplied by the years of dependence, then subtract resources that are truly available.
 
-So the $1.5 million rule of thumb is about $300,000 higher than the gap they actually have, and that's a real difference in premium, every month, for 22 years.
+That is not a complete needs analysis.
 
-And what makes this Bitcoin-specific is that if the stack does what they're planning for, that $1.19 million need shrinks every year without them buying or cancelling anything. That's the case for laddering, which is stacking terms, a longer base policy and a shorter top-up, so your coverage steps down as the stack steps up.
+Also include:
 
-One thing about timing. Term life is underwritten on your current health and priced by your age, so every year of waiting makes it more expensive. If a family depends on you and you're holding no coverage, I'd treat this as a this-month item, not a someday item.
+- final expenses;
+- debt the survivor intends to eliminate;
+- childcare and education commitments;
+- survivor Social Security and pensions;
+- the survivor's earnings and benefits;
+- taxes and asset liquidity;
+- inflation and timing;
+- investment risk;
+- business or estate liquidity;
+- existing coverage and its expiration.
 
-And one warning, because Bitcoiners get targeted hard with this: the permanent-life pitch. "Infinite banking," "be your own bank." My honest read is that permanent products bundle insurance together with a low-yield savings component, at a much higher cost. And for a Bitcoiner, that bundle is charging you a premium to hold a savings vehicle you already replaced with a better one. If a pitch leans on the word "bank," slow down and compare the actual numbers.
+The result is a range to review, not the amount the course tells every household to buy.
 
-### Disability
+### Term and permanent are categories, not one product
 
-The second piece is disability, and it's under-owned by almost everyone. During your working years, you're statistically more likely to become disabled than to die. And it hits the plan in two places at once: your income stops, and the surplus flywheel stops with it.
+Term insurance provides death-benefit coverage for a stated period. Many policies have a level premium for a stated guarantee period, but terms differ.
 
-Employer coverage is often around 60%, which sounds like $90,000 for him. But take the cap and the tax off first. Group policies usually cap the monthly benefit, and if the employer paid the premium, the benefit is taxable. So what actually lands might be closer to $50,000. Add her $40,000, and they've got $90,000 against $102,000 of all-in household outflow. So they're still about $12,000 short on this rough pass, and the real comparison needs both numbers stated after tax.
+Permanent insurance can combine lifelong death-benefit coverage with cash value and guarantees, subject to charges, surrender terms, policy assumptions, and product design.
 
-They cover most of it, but they're still about $12,000 short on this rough pass. They'd have to cut spending, add supplemental coverage, or pull the difference from the reserve. And notice what else happened: they stopped buying Bitcoin. The plan didn't die, but it stopped growing.
+Austin can prefer term for the household example because the need is temporary and the family wants a simple death-benefit tool.
 
-Two things to go find out about your own policy. First, what it actually pays, after the cap and the tax. And second, how it defines disability. Own-occupation pays if you can't do your job. Any-occupation only pays if you can't do any job at all, which is a much higher bar. If the gap is real, price a supplement.
+The course should not claim that every permanent policy is merely low-yield savings or that Bitcoin replaces every insurance purpose. Estate liquidity, lifelong dependents, business planning, and guarantees can create a different job.
 
-### Umbrella coverage
+Life-insurance death proceeds are generally excluded from federal income tax, but interest, transfer-for-value, ownership, and estate-tax rules can change the result.
 
-The third piece is umbrella coverage. Your home and auto policies each carry a liability limit, and umbrella sits on top and picks up where they stop.
+### Disability insurance
 
-It matters for this audience because a liability lawsuit doesn't care that your wealth is sitting in Bitcoin. A judgment above your auto limit comes out of everything else you own. Umbrella runs a few hundred dollars a year per million of coverage, and the case for it gets stronger if you're publicly known as a Bitcoiner.
+Disability insurance protects earned income while the insured is alive.
+
+Do not estimate the benefit from salary alone.
+
+Read the actual certificate or policy for:
+
+- benefit percentage and monthly cap;
+- whether benefits are taxable based on who paid premiums and how;
+- elimination period;
+- benefit period;
+- own-occupation, any-occupation, and specialty definitions;
+- partial or residual disability;
+- offsets for Social Security, workers' compensation, or employer benefits;
+- exclusions, limitations, and pre-existing-condition language;
+- inflation or future-purchase options.
+
+Compare the expected after-tax benefit with the household's bare-bones spending number and reserve.
+
+The number we are trying to cover is the gap between what the family would need and what the assets and other income could already provide.
+
+### Umbrella liability
+
+Umbrella insurance generally provides excess personal liability above required underlying auto or homeowners limits and may add defense coverage, subject to exclusions and the policy language.
+
+It does not insure every loss, does not repair the household's own property merely because it is an umbrella, and can exclude business, intentional, professional, or other risks.
+
+Do not quote a universal price per million. Price the actual policy after confirming the required underlying limits, covered properties, drivers, rentals, watercraft, business activity, and exclusions.
 
 ### Long-term care
 
-The fourth piece is long-term care, and my honest advice here is: name it and park it. It's a real risk, but the products in this space are imperfect, and self-insuring through the stack is legitimate if the stack is large enough by then. The decision window is your 50s and 60s. So at 45, it's an annual review item, not an action item.
+Long-term-care risk is the cost of extended help with activities of daily living or cognitive impairment.
 
-### The audit and the graduation review
+The review is not automatically postponed until one age.
 
-Pull it together with a coverage audit: every risk, your current coverage, what the stack could absorb, and the gap. One app note: Orange Plan doesn't currently track individual policies, that's marked coming soon. What the app does hold is your beneficiaries, and remember the rule from the executor lesson: policy beneficiary forms override everything. So the names on your policies need to match the names in your estate plan, and both get checked every year.
+Insurability and price can change before the 50s or 60s. The right review trigger includes:
 
-And then, once a year, run what I call the graduation review. Ask: has the stack grown enough to shrink a coverage? When the answer is yes, cancel deliberately. On the review, in writing. Never by accidentally lapsing a payment. The graduation review is what turns coverage you've outgrown back into surplus you can put to work.
+- family caregiving history;
+- current health and insurability;
+- assets available to self-fund;
+- spouse or family support;
+- benefit triggers and elimination period;
+- home-care and facility preferences;
+- inflation protection;
+- premium and rate-increase history;
+- state partnership rules;
+- hybrid and non-insurance alternatives.
+
+The first decision can still be "not now." It should be a dated decision with a reason and a next review trigger.
+
+### Health-sharing is not insurance
+
+A health-sharing membership does not belong in this lesson as a substitute for an insurance contract.
+
+It can be part of the healthcare bridge comparison, but it generally has no legal obligation to pay claims and its member terms control.
+
+Austin's experience can be described as his experience, not as a guarantee about the category.
+
+### When coverage can fall
+
+Coverage can be reviewed downward when the exposure shrinks.
+
+Examples:
+
+- children become independent;
+- debts or education commitments are gone;
+- the surviving spouse has enough income and liquid assets;
+- the household can absorb the liability or long-term-care risk;
+- earned income is no longer part of the plan.
+
+Do not cancel or replace an existing policy until any replacement is effective and the consequences of surrender, conversion, taxes, contestability, and new underwriting have been reviewed.
+
+### The coverage audit
+
+For each category, record:
+
+1. the event being transferred;
+2. the dollar loss and duration;
+3. current coverage;
+4. actual contract limits and exclusions;
+5. the remaining gap;
+6. the next review trigger;
+7. who will verify the final recommendation.
 
 ### Your decision
 
-Your coverage gap, as a number.
+Which gaps need a current quote or contract review and which risks the household has deliberately chosen to retain.
 
-### Put it in Orange Plan
+### Put it in orange plan
 
-Nothing in the app. Protect shows Insurance coverage as Coming soon, so the Coverage Audit worksheet stays your record.
+Protect records the review status and unresolved gaps. Do not store policy secrets or pretend the app entry changed the carrier contract.
 
 ### You are done when
 
-You have a life number and a disability number from the same subtraction, and both have gone to a licensed professional if they needed to. None of this is a product recommendation, and the actual coverage runs through them.
-
-Then watch the module walkthrough below this video, where we complete the Protect queue, write the letter, and arm the switch.
+The rough math is labeled as rough, every policy statement came from the actual contract, and a licensed reviewer can see the exact question instead of being asked to design the whole plan from scratch.
 
 
 ## 8.5 Walkthrough: Protect, the heir letter, and the switch

@@ -163,19 +163,21 @@ if publication:
 # so someone following the checklist alone could film material the packet
 # explicitly holds.
 REVIEW_GATES = [
-    ('Module 5, and the advanced tax lessons (A5.1, A5.2, A5.3, A6.2)',
-     'Bitcoin-aware CPA', 'filming',
-     'basis at death and Roth conversion mechanics are the two blocking items; '
-     'both drive arithmetic a student will act on'),
-    ('Module 7 and advanced custody lessons A7.1–A7.4', 'custody professional', 'filming',
-     'the four levels, the wipe-and-restore standard, and the institutional '
-     'death-claim path added 2026-08-08'),
-    ('8.4', 'insurance professional', 'filming',
-     'the coverage-gap arithmetic is the one place the course produces an '
-     'insurance number'),
-    ('A8.1, and the executor materials in 8.1 / 8.5', 'estate attorney',
-     'publication', 'already a publication blocker above; listed again here so '
-     'the executor materials are not forgotten'),
+    ('Current-year seeded examples in Module 5 and A5.1, A5.2, A5.3, A6.1, A6.2',
+     'Bitcoin-aware CPA or enrolled agent', 'publication',
+     'research is complete; signoff is limited to the seeded household, current-year interactions, incomplete-basis treatment, and state assumptions'),
+    ('7.4 hardware-wallet demo and provider-specific recovery claims',
+     'custody technical peer plus exact device/provider operational test', 'filming',
+     'concept scripts are research-complete; the footage must prove the exact firmware, backup standard, threshold, descriptor, and provider-independent recovery path it claims'),
+    ('8.4 Coverage Audit and policy-category examples',
+     'licensed insurance producer or fee-only insurance reviewer', 'publication',
+     'research is complete; signoff is limited to policy mechanics, contract interpretation, and whether the first-pass worksheet could be mistaken for a recommendation'),
+    ('A8.1 and state-specific executor/digital-asset materials',
+     'estate attorney licensed in the governing state', 'publication',
+     'general research is complete; state law controls drafting, RUFADAA consent, fiduciary-duty modification, probate, and trust funding'),
+    ('Course terms, disclaimer, live-call and community boundaries',
+     'qualified counsel', 'publication',
+     'the delivery model must remain education rather than personalized legal, tax, insurance, or investment advice'),
 ]
 
 status += ['> ### 📋 PROFESSIONAL REVIEW GATES — outstanding', '>',

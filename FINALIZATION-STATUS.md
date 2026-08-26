@@ -1,41 +1,50 @@
+
 # Course finalization status
 
-## Editorial status
+## Editorial and research status
 
 - The ten-module core structure is locked.
-- Austin's 0.2 / 1.1 / 1.2 source is retained and mapped to the live scripts.
-- All 14 Advanced Library lessons have protected spoken-ready scripts, gates, student text, generated modules, and finish lines.
-- Core and Advanced app references were aligned to Orange Plan main at `5cf664ab2835635bc571f64eb12c16dbb5a10833`, including contribution planning during a current deficit.
-- Module 2 order is final: 2.4 optional college, 2.5 walkthrough.
+- Austin's original source for 0.2, 1.1, and 1.2 remains preserved and mapped; this audit does not alter it.
+- All 14 Advanced Library lessons retain protected spoken-ready scripts.
+- Primary-source research is complete for tax, healthcare, custody, insurance, estate, trusts, and digital-asset access.
+- Scripts, student text, walkthroughs, master files, and production policy are being regenerated from the researched corrections.
+- Module 2 order remains final: 2.4 optional college, 2.5 walkthrough.
 
-## Ready to dictate now
+## Ready to dictate
 
-- Core lessons not named under the blockers below.
-- Advanced lessons labelled **Ready to dictate** in `ADVANCED-DICTATION-ORDER.md`.
-- A8.1 is script-ready, but publication waits for estate-attorney review.
+Every research-complete teach script may be dictated unless named below as an Austin content blocker.
 
-## Austin pickups still required
+The old blanket CPA/custody/insurance/attorney **before recording** rule is retired. Exact device/provider footage still requires operational proof before it is filmed. State-, policy-, taxpayer-, and delivery-specific issues use targeted signoff before publication.
 
-- F20: one sentence for the 7-to-10-year future-cost lane.
-- F22: the next-dollar default order, overrides, and deliberate-split rule.
-- Advanced gate approval is text-layer approval, not spoken dictation.
+## Austin dictation still required
 
-The exact prompts are in `DICTATION-PICKUPS.md`.
+- **F22:** the next-dollar default order, overrides, and deliberate-split rule.
 
-## Current generated filming blockers
+The prompts remain in `DICTATION-PICKUPS.md`.
 
-- **2.3** (F20) — `MASTER-COURSE.md`
-- **4.3** (F22) — `MASTER-COURSE.md` · `scripts/04-3_order-your-contributions-which-account-g.md`
+## Targeted gates after dictation
 
-## Professional review gates
+- CPA/EA: seeded current-year tax examples, incomplete-basis return position, integrated thresholds, and state assumptions.
+- Custody: exact device/firmware/provider recovery proof for 7.4 and provider-specific footage.
+- Insurance: policy mechanics and Coverage Audit before publication.
+- Estate attorney: A8.1, state-specific documents, RUFADAA consent, fiduciary-duty drafting, and trust funding before publication.
+- Counsel: terms/disclaimer and live education-versus-personalized-advice boundaries before commercial release.
 
-- Bitcoin-aware CPA before recording Module 5 and A5.1, A5.2, A5.3, A6.2.
-- Custody professional before recording Module 7 and A7.1 through A7.4.
-- Insurance professional before recording 8.4.
-- Estate attorney before publishing A8.1 and the executor materials in 8.1 / 8.5.
+See `TARGETED-PROFESSIONAL-SIGNOFF.md`.
 
-These are external signoffs, not unfinished course editing.
+## Important corrected claims
+
+- A planning basis estimate is not automatically a substantiated return basis.
+- Specific identification is made no later than the transaction and is wallet/account specific.
+- Roth tax treatment depends on qualified-distribution rules; RMD age is cohort specific.
+- Loan proceeds are generally not income, but collateral disposition or cancellation can create tax consequences.
+- A wallet backup is not universally portable to every device; multisig recovery also needs the policy/descriptor.
+- A descriptor cannot sign and one key plus a descriptor remains one key.
+- Destructive wiping is not the default first recovery test.
+- Insurance gap math is a first-pass range, not a recommendation.
+- Revocable and irrevocable trust results depend on funding, retained powers, terms, and state law.
+- A trust trigger creates an attorney question; it does not mechanically choose a trust type.
 
 ## Verification
 
-5 of 5 final repository checks passed.
+Final generator and repository gate output is recorded in `PROFESSIONAL-RESEARCH-VERIFICATION.md`.

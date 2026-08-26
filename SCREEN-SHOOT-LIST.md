@@ -5,7 +5,7 @@
 > The sheet beside your keyboard is the sheet in `scripts/`; this is the
 > order to shoot them in and what each one needs staged first.
 
-**10 capture sessions, covering 11 capture lessons · ~161 min of raw capture.**
+**10 capture sessions, covering 10 capture lessons · ~162 min of raw capture.**
 
 A session is one continuous recording. Where a sheet names more than one
 lesson, it is filmed once and the edit splits it at the cut point.
@@ -21,6 +21,8 @@ limits, exemptions). Call it "the current number the app shows" and move on.
 **Film each module's capture in ONE continuous session.** App state builds
 forward and restarting is where the retakes come from. Where a sheet has
 `✂ CUT POINT` markers, the edit can split it into several videos later.
+
+> ⚠ **No capture sheet yet:** 7.4 External demo: hardware wallet setup + exchange hardening. These cannot be filmed until a sheet exists.
 
 ---
 
@@ -163,20 +165,22 @@ forward and restarting is where the retakes come from. Where a sheet has
 
 ---
 
-## ☐ 7.4 · DEMO — Hardware wallet setup + exchange hardening
+## ☐ 
 
-*External screen record · 3 beats · ~9 min final** — NOT Orange Plan. Vendor tools only. Evergreen: record once, keep forever.*  ·  sheet: `scripts/07-4_DEMO_hardware-wallet-exchange.md`
+*External screen record · 3 beats · ~10 min final** — NOT Orange Plan. Vendor tools only.*  ·  sheet: `scripts/07-4_DEMO_hardware-wallet-exchange.md`
 
 **Stage this first:**
-- [ ] Manufacturer-direct hardware wallet, still sealed
-- [ ] Throwaway demo wallet with trivial funds · a demo exchange account you're willing to burn
-- [ ] Stage/blur plan for the seed display: tape, shield, or a tested camera angle
+- [ ] Exact device, firmware, official setup guide, and backup standard documented
+- [ ] Manufacturer or authorized-source device; throwaway demo wallet only
+- [ ] Spare compatible device or vendor-supported backup-check feature ready
+- [ ] Demo exchange account with no real personal data
+- [ ] Camera/reflection plan tested; no backup, passphrase, PIN, private key, QR, descriptor, or account secret can enter frame
 
 **Beats:**
-1. ☐ 1 · Hardware wallet: the six steps (~5:30)
-2. ☐ 2 · Exchange hardening (~2:30)
-3. ☐ 3 · The never-list (~1:00) — camera, NO screen
-4. ☐ WRAP — spot check off the screen
+1. ☐ 1 · Hardware wallet: prove recovery safely (~6:00)
+2. ☐ 2 · Exchange and email hardening (~3:00)
+3. ☐ 3 · The never-list (~1:00) — camera, no screen
+4. ☐ WRAP
 
 ---
 
@@ -233,7 +237,7 @@ forward and restarting is where the retakes come from. Where a sheet has
 11. ☐ E2 · Confirm the recipients know
 12. ☐ F1 · Read the projected estate
 13. ☐ F2 · Save the artifact
-14. ☐ G1 · Run the gate, then stop or continue
+14. ☐ G1 · Run the conversation gate, then record the answer
 15. ☐ G2 · The family handoff review
 16. ☐ WRAP — spot check off the screen
 

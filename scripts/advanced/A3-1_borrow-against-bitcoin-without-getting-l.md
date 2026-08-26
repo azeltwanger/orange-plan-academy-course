@@ -11,7 +11,7 @@ This is the highest-stakes lesson in the Academy, so I'm going to cover the whol
 
 You pledge some Bitcoin as collateral. A lender holds it, and gives you cash. You pay interest on that cash. And when you pay the loan back, you get your Bitcoin returned to you.
 
-That's the whole product.
+So the basic transaction is pretty simple.
 
 What makes it interesting is that you didn't sell. So in most cases there's no taxable event, and you still own the upside if the price goes up.
 

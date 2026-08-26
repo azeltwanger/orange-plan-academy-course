@@ -5,7 +5,7 @@
 > **US-specific module.** Everything here runs on the US Internal Revenue Code: brackets, Roth accounts, RMDs, wash-sale rules, state taxes. Said ONCE, at the top of 5.1, and never repeated per lesson.
 
 ## 5.1 Cost basis: what you paid, and how to reconstruct it
-*`TEACH` · 715 words · ~5 min*
+*`TEACH` · ~961 words · ~6 min*
 
 > 🐞 Currency mangling in the lot-sale figures (item 17). Reconstructed from
 > arithmetic: hardware lot basis $7,500 → gain $17,500; exchange lot basis
@@ -16,83 +16,119 @@
 - Understand what cost basis is and why it unlocks every tax move
 - See how the same sale produces different tax bills depending on which lot you sell from
 - Reconstruct basis while records still exist
-- Never leave basis blank
+- Label every material lot verified, estimated for planning, or unproven
 
 ---
-One thing before we start this module, and I'll say it once. Everything in this module is built on US tax law. Brackets, Roth accounts, RMDs, wash-sale rules, state taxes. If you're outside the US, the way of thinking travels and the specific rules do not, so take these frameworks to a tax professional in your own country and let them map the containers.
 
-Real tax strategy works forward: act in the years your rate is low, and act before the government forces the timing. Every forward-looking move starts with one number being right.
+In today's lesson, we're going to cover cost basis, which is the record that makes every other tax decision in this module usable.
+
+Quick note before we start: this module is US-specific. The framework still helps outside the US, but the rules and reporting do not travel with it.
 
 ### What cost basis is
 
-Cost basis is what you paid for each lot of Bitcoin: the price, the date, and the amount.
+Cost basis is generally what you paid to acquire an asset, adjusted for the costs and events that the tax rules tell you to include.
 
-Your gain is the sale price minus that basis, and your tax is built on the gain. Without basis, you can't prove the gain was small.
+For a Bitcoin purchase, that normally means the dollars you paid for the Bitcoin plus acquisition costs that belong in basis. Your gain or loss is measured from the amount you receive when you dispose of it, after the adjustments that apply, minus the basis of the units you disposed of.
 
-Basis is tracked per lot, not for the whole stack. A lot is one purchase (the coins you bought on one day at one price). When you sell, you're selling out of a specific lot, and the tax follows that lot's price.
+Basis is tracked by units or lots, so one purchase can have a completely different cost and holding period from the next purchase.
 
 ### Same sale, two different tax bills
 
-The couple's 1.75 BTC, at an illustrative $100,000/coin, is worth $175,000. They paid $60,000, split across two lots:
+Let's run it on the couple.
 
-| Lot | Location | Quantity | Basis | Per coin |
-|---|---|---|---|---|
-| 1 | Hardware wallet | 1.5 BTC | $45,000 | $30,000 |
-| 2 | Exchange | 0.25 BTC | $15,000 | $60,000 |
+They hold 1.75 Bitcoin worth an illustrative $175,000. They acquired it in two lots.
 
-Same stack, two lots. Say they sell 0.25 BTC. That's $25,000 either way:
+Lot one is 1.5 Bitcoin with a total basis of $45,000, or $30,000 per coin.
 
-- **From the hardware wallet** ($30k/coin): basis $7,500, gain **$17,500**.
-- **From the exchange** ($60k/coin): basis $15,000, gain **$10,000**.
+Lot two is a quarter Bitcoin with a $15,000 basis, or $60,000 per coin.
 
-At the 15% long-term capital gains rate, that's a ~$1,125 difference on a sale they were making anyway.
+Now they sell a quarter Bitcoin for $25,000.
+
+If the identified units come from lot one, the basis is $7,500 and the gain is $17,500.
+
+If the identified units come from lot two, the basis is $15,000 and the gain is $10,000.
+
+The sale proceeds are the same, but the gain changes because the Bitcoin came from a different lot.
+
+That is why "I own 1.75 Bitcoin" is not enough information for a tax plan.
+
+### Specific identification is a record, not a retrospective choice
+
+For Bitcoin in self-custody, current IRS guidance lets you specifically identify the units you are disposing of when two things are true.
+
+First, no later than the date and time of the transaction, your books and records identify the particular units using enough information to distinguish them, such as acquisition date and time or acquisition price.
+
+Second, you keep records that establish those identified units were actually removed from that wallet.
+
+For Bitcoin held by a broker, the broker decides which identifiers it can accept. After 2025, the instruction generally has to reach the broker no later than the transaction, and you keep your own substantiation.
+
+So HIFO, FIFO, or any other lot rule is not a button you invent after the year is over. It is a documented instruction that has to satisfy the rule for the wallet or account involved.
+
+If specific identification fails, the current default is generally the earliest-acquired units of that asset in that wallet or account.
+
+### Transfers do not erase the history
+
+Moving Bitcoin between wallets you own is generally not a taxable disposition, apart from any Bitcoin used to pay the transaction fee.
+
+But the tax history still has to travel with the Bitcoin.
+
+The blockchain proves that an output moved. It does not prove what you originally paid, whether the acquisition was a purchase, income, gift, inheritance, mining, or something else, or which tax lot you intended to dispose of later.
+
+That is why the useful record connects three things: the acquisition record, the wallet or account movement, and the final disposition.
+
+### Reconstructing what is missing
+
+Start with the records that were created when the transactions happened.
+
+Download every exchange and brokerage export you can still access. Pull confirmations, old tax files, bank or card statements, email receipts, and wallet transaction history. Match withdrawals and deposits between your own accounts so a transfer is not mistaken for a sale or a new purchase.
+
+Then separate every unresolved item into one of three states.
+
+**Verified.** The source records support the acquisition date, quantity, and basis.
+
+**Estimated for planning.** You have evidence that narrows the range, but not enough to claim the number as settled. Orange Plan can use it for a projection as long as the uncertainty is visible.
+
+**Unproven.** You cannot substantiate a basis yet.
+
+The course used to say the IRS standard was simply "reasonable and documented." That was too broad. Documentation helps, but it does not create a general safe harbor that lets you make up a basis the return can claim.
+
+If a meaningful lot remains unproven, work through the evidence with a tax professional before filing a disposition from it.
+
+### Zero basis is a stress test, not an automatic legal answer
+
+For planning, a zero-basis assumption can show the conservative tax exposure if no basis is allowed.
+
+But do not confuse that stress test with a legal conclusion that the asset definitely has zero basis. And do not invent a number merely to avoid zero.
+
+So in the plan, label what is known, what is estimated, and what is still unproven.
 
 ### What clean basis unlocks
 
-Four moves become available:
+Once the records are clean, you can:
 
-- **Time your sales.** Choose low- or high-basis lots on purpose.
-- **Harvest losses.** Prove the loss and offset gains and income.
-- **Harvest gains.** Reset your basis higher in a low-tax year.
-- **Model the tax.** Know the real bill before you act.
-
-Without clean basis, all four are guesswork.
-
-### Rebuilding what's missing
-
-Almost nobody has clean records. Exchanges shut down, coins move through wallets, and old buys are older than any statement you can download.
-
-The path is the same every time:
-
-- Pull every record that exists from every exchange and wallet.
-- For the rest, build a reasonable estimate. Narrow the purchase window as tightly as you honestly can, use the price range from that window, and write down how you got there.
-- Convert a blank into a number you can defend.
-
-The IRS standard is "reasonable and documented," not "perfect." Your best estimate, as long as it's reasonable, is good.
-
-### Never leave basis blank
-
-⛔ **Never leave basis blank.**
-
-If there's no basis at all, the gain gets treated as the entire sale price.
-
-On the 0.25 BTC sale above: $10,000 of real gain becomes $25,000 of gain, because the whole sale price counts. At 15%, a $1,500 bill turns into $3,750. Purely for missing a record.
+- identify units before a sale;
+- see whether a loss actually exists;
+- model gain harvesting in a low-tax year;
+- compare selling, holding, gifting, or borrowing without guessing at the tax;
+- reconcile the app with Form 1099-DA, Form 8949, and your return.
 
 ### Your decision
 
-How far back you can reconstruct, and what you'll do about anything you can't.
+Which lots are verified, which are planning estimates, and which are still unproven.
 
-### Put it in Orange Plan
+### Put it in orange plan
 
-Strategy → Tax → cost basis. Enter what you have, and flag the lots you can't prove.
+Dashboard → Update Transactions for the history, then Strategy → Tax to review basis and modeled sales.
+
+Use the file, AI-assisted, or manual path that matches the records you have. A linked source appears only when the app has a supported investment source.
 
 ### You are done when
 
-Every lot has a basis you could show someone, or is flagged as unproven. No records means a basis of zero, which means tax on the entire sale price, so an unproven lot is a real number in your plan rather than a gap.
+Every material lot is labeled honestly, the available evidence is saved outside the app, and an unproven lot is visible as an unresolved tax item instead of being silently assigned a number.
 
 
 ## 5.2 Taxable, tax-deferred, and Roth: bracket windows and state taxes
-*`TEACH` · ~1,175 words · ~8 min*
+*`TEACH` · ~920 words · ~6 min*
 
 > ✅ **Law-set figure removed (2026-08-08).** This lesson used to speak the
 > ~$128,000 of 0% capital-gains room for a married couple. It is now read off
@@ -125,104 +161,110 @@ Every lot has a basis you could show someone, or is flagged as unproven. No reco
 
 ---
 
-Two things decide your federal tax bill: where your money sits, and when you act. A third dial sits on top of both: where you live when you act.
+In today's lesson, we're going to give each tax bucket a job, find the years when your rate may be lower, and build the roadmap the app will test.
 
-### Where your money sits: the three buckets
+### The three tax buckets
 
-Every dollar you own for retirement sits in one of three:
+The first bucket is taxable.
 
-| Bucket | Tax going in | Tax on growth | Tax on withdrawal | Forced withdrawals |
-|---|---|---|---|---|
-| **Taxable** | Already taxed | On gains, at cap-gains rates | On gains only | No |
-| **Tax-deferred** (Traditional IRA/401k) | Pre-tax | None for now | Ordinary income | Yes (RMDs at 73) |
-| **Roth** (IRA or 401k) | After-tax | None, ever | None, ever | No (Roth IRA) |
+This is your brokerage account, Bitcoin held personally, and other taxable property. There is no age restriction on using it. When you sell an appreciated asset, the gain is generally taxed under the capital-gain rules, and the result depends on basis, holding period, total income, state, and the units you identified.
 
-Every year, you get to choose which bucket the money comes from. That choice sets the rate you pay.
+The second bucket is tax-deferred.
 
-Go all-in on any one bucket and you remove your choices later. Even all-Roth (which sounds safe) leaves cheap tax-deferred dollars on the table.
+Traditional 401(k)s and traditional IRAs generally give you a tax benefit on the way in, then tax distributions as ordinary income later. They also come with required-distribution rules.
 
-### When you act: reading a tax bracket
+The third bucket is Roth.
 
-Your tax rate isn't fixed. It changes by life stage.
+Roth contributions go in after tax. Qualified Roth distributions are generally tax-free. That word qualified matters. A nonqualified withdrawal can expose earnings to income tax or an additional tax, and conversion amounts can have their own five-year clocks when withdrawn early.
 
-Your income gets sliced up, and each slice gets taxed at its own rate. Being in the 22% bracket doesn't mean you pay 22% on everything. It means the next dollar you earn gets taxed at 22%.
+Under current law, Roth IRAs and designated Roth plan accounts do not require lifetime distributions from the original owner.
 
-The space between where your income lands and where the next rate starts is your **room**. A measurable amount you can fill without moving into the next bracket.
+### The job of each bucket
 
-### Running the couple's bracket today
+Taxable money is the flexible bridge. It can fund years before retirement-account access, pay a Roth-conversion tax from outside the converted account, and create capital-gain planning opportunities.
 
-Gross income: $190,000. Bracket lines and standard deductions move every year. Run this with the current figures when you plan.
+Tax-deferred money is useful when the deduction today is worth more than the ordinary-income cost you expect later. The risk is letting the account grow into forced distributions that arrive on the government's schedule.
 
-| Step | Amount |
-|---|---|
-| Gross income | $190,000 |
-| Minus 401(k) pre-tax | -$12,000 |
-| Equals AGI | $178,000 |
-| Minus standard deduction (~$31,400 married) | -$31,400 |
-| Equals taxable income | ~$146,600 |
+Roth is the long-duration tax-free bucket when the rules for a qualified distribution are met. It is often the last bucket you want to exhaust, but that is a plan decision, not a universal withdrawal command.
 
-That's the 22% bracket, with ~$60,000 of room before the next one. They could add $60,000 of income and still pay 22¢ on the dollar.
+### Find the window
 
-### The bracket roadmap: three stages
+The tax window is the period when earned income falls but required distributions and other forced income have not yet started.
 
-Your income through retirement runs in three stages, and each one has a different amount of room in it.
+For an early retiree, it can begin when work ends. Social Security may start later. Required distributions start later still, at the applicable age for that person under current law.
 
-**Stage 1: Early retirement (paychecks stop).** Say they retire at 60. Paycheck stops. They're living off the taxable bucket, so reported income drops (often to the lowest it's ever been).
+For the 45-year-old couple in this course, current law points to age 75, not 73. A different birth year can produce a different applicable age, so read the current value in the app and IRS guidance rather than memorizing one age for everyone.
 
-Second thing in their favor: when they sell an asset, only the gain counts as income, not the whole sale. A big sale can produce a small amount of income.
+The window is useful because the household may control more of the income that fills it.
 
-They sell Bitcoin to fund $80,000 of spending. Only the gain counts: about $60,000 of realized gain that year.
+Possible moves include:
 
-The standard deduction and the 0% long-term capital gains bracket stack, giving a married couple a real 0% ceiling. **Read the current one off the app's Tax page rather than speaking it** — it moves every year, and this lesson outlives the tax year.
+- realizing long-term gains while room remains in a lower capital-gain band;
+- converting part of a traditional account to Roth;
+- drawing from traditional accounts before required distributions;
+- delaying a taxable sale or conversion when another year is cheaper.
 
-| Step | Amount |
-|---|---|
-| Zero-percent ceiling | the current one, off the Tax page |
-| Minus realized gain | -$60,000 |
-| Equals unused 0% room | ~$68,000 |
+### The bracket top is the starting point, not the answer
 
-They funded the whole year and paid $0 on those gains.
+A common shortcut is "fill the bracket and stop."
 
-**Stage 2: Pre-Social Security.** Still flexible. Benefits haven't started, nothing is forced. Keep filling those low brackets on purpose.
+I think that leaves out too many of the other costs that can change at the same time.
 
-**Stage 3: Social Security + forced withdrawals.** Benefits turn on at 67 (~$51,600/yr for the couple). RMDs stack at 73. Income jumps.
+A conversion or gain can also change:
 
-Hard deadline on the cheap years. Most people waste them because nobody told them the window existed.
+- how much of Social Security is taxable;
+- Marketplace premium tax credits before Medicare;
+- Medicare IRMAA later;
+- the Net Investment Income Tax;
+- state tax;
+- capital-gain stacking;
+- deductions, credits, and other income-based rules.
 
-The couple's window has ~$68,000/yr sitting empty.
+So I would not stop at the federal bracket. I would look at what the next dollar actually costs after every rule it touches.
 
-### Where you live: the state lever
+Orange Plan can model the federal, state, and plan-level result. The current-year return still belongs with the tax professional who can see the entire household.
 
-Named here, taught in the library, because it only becomes a real decision for some people.
+### Capital-gain room
 
-**What everybody needs:** when you sell, you owe federal tax, and then your state can tax that same gain again at its own rate. Most states tax a capital gain as ordinary income with no special long-term rate; a handful do not tax income at all. **The state that charges you is the one you are a resident of in the year you sell**, not the one you lived in when you bought. On a large retirement-year sale that runs into tens of thousands of dollars on one transaction, and unlike most moves in this module, it pays every year rather than once.
+Long-term capital gains have their own rate bands, but ordinary taxable income fills the stack first.
 
-> **Advanced Library → A5.3 "State taxes and relocation: what the lever is
-> actually worth"** if you are actually considering a move, or your Tax page
-> shows an unrealized gain large enough that the state rate would change what
-> you do. It carries the worked swing, how residency is actually determined,
-> and the sequencing that keeps a big sale right after a move from becoming an
-> audit. If moving is not on the table, the tax plan is complete without it.
+That means a household does not simply get a separate bucket of gains taxed at zero. The gain sits on top of the other taxable income, and only the portion that fits inside the current zero-rate band receives that rate.
 
+A federal zero rate also does not mean a zero total cost. State tax, ACA credits, NIIT, and other interactions can still move.
+
+### State tax is a second model
+
+State tax deserves its own line because residence is not just the address on the day of a sale.
+
+States can use domicile, statutory residency, part-year rules, source-income rules, community-property rules, and special treatment for trusts or businesses.
+
+The app can compare two state assumptions. It cannot prove that a move changed your legal domicile or that a particular state has no claim on a transaction.
+
+Treat the state comparison as a reason to ask a better question before a large move, not as a residency opinion.
+
+### The couple's roadmap
+
+The couple's working years are high-income years. Their first retirement years may be lower-income years. Social Security begins later, and required distributions later still.
+
+So their roadmap is:
+
+1. Use taxable assets as the bridge.
+2. Each year, model gains and Roth conversions together.
+3. Check healthcare and state effects before applying anything.
+4. Re-run after Social Security, Medicare, or required distributions begin.
+5. Keep Roth available for later flexibility rather than spending it by default.
 
 ### Your decision
 
-> 🔶 **F24 — ADDED BEAT, not new teaching.** 5.2 had *Put it in Orange Plan* and
-> *You are done when* but no *Your decision*, making it the one core lesson that
-> said what to do without naming what was being decided. The wording is lifted
-> from its own done-when line.
+What job each account has, and which years deserve a tax-window review.
 
-**Whether you are acting in this year's window, or passing on it.** A pass counts as done, provided you looked first and decided on purpose.
+### Put it in orange plan
 
-### Put it in Orange Plan
-
-Strategy → Tax → Moves this year. Model one sale and read the tax it produces.
+Strategy → Tax. Read the yearly roadmap, model one sale and one conversion, and keep them as previews until you deliberately apply the plan change.
 
 ### You are done when
 
-You know which bucket your money sits in and roughly in what proportion, and you have either identified your low-income window or established you don't have one yet. A deliberate pass on this year's window is a real outcome.
-
-Then watch the walkthrough below this video, where we model it in Orange Plan.
+You know what job each account has, you can point to the low-income years on the timeline, and you can explain what the next dollar actually costs before you decide how large the move should be.
 
 
 ## 5.3 Walkthrough: model it in Orange Plan

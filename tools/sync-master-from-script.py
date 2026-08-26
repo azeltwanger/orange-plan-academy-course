@@ -75,7 +75,7 @@ for num in nums:
     if start < 0:
         print(f'  !! {num}: not in {os.path.basename(mpath)}'); continue
     start += 1
-    nxt = re.search(r'\n## (?:A?\d+\.\d+|✂)|\n# Unit ', master[start + 5:])
+    nxt = re.search(r'\n## (?:A?\d+\.\d+|✂)|\n# Unit |\n# Advanced Module ', master[start + 5:])
     end = start + 5 + nxt.start() + 1 if nxt else len(master)
     section = master[start:end]
 

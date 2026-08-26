@@ -1,53 +1,89 @@
 TELEPROMPTER SCRIPT — segment A7.4
 A7.4 Wallet operations: UTXOs, dust, consolidation, and addresses
-~5 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~6 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+RESEARCH AUDIT: 2026-08-25 · see research/PRIMARY-SOURCE-REGISTER.md
 ============================================================
 
-In today's lesson, we're going to cover two operational things about moving Bitcoin that almost nobody explains, and both of them came from clients asking me directly.
+In today's lesson, we're going to cover the wallet operations that matter after the hardware and recovery process are working.
 
-== YOUR WALLET IS A STACK OF BILLS ==
+== YOUR BALANCE IS A SET OF OUTPUTS ==
 
-A client asked me what happens to all the small buys he'd made over the years. His worry was that a bunch of tiny purchases might end up stranded, and that's actually a real thing.
+Bitcoin does not maintain one account balance inside the protocol.
 
-Your wallet isn't a bucket with a balance in it. It's more like a wallet full of bills. Every time Bitcoin lands in your wallet, that deposit is its own separate chunk, and the technical name for one of those chunks is a UTXO, an unspent transaction output. Your balance is the sum of the bills, and when you spend, your wallet grabs one or more whole bills to cover the amount. You spend whole bills, not slices of them.
+A wallet tracks unspent transaction outputs, or UTXOs. Each incoming transaction can create one or more outputs the wallet may later spend as inputs.
 
-Now the part that costs money. Every chunk you spend adds to the fee, and that fee doesn't care how big the chunk is. So a very small deposit can become uneconomical to move, because the fee to spend it approaches or exceeds what it's worth. That's what people mean by dust.
+When you spend, the wallet selects enough inputs to fund the payment and usually creates change back to a new wallet-controlled output.
 
-If you've been buying small amounts regularly, you can end up with a wallet made of a hundred tiny chunks. Nothing is lost. But the day you go to move it all, you're paying to spend every one of those chunks at once, and if fees are high that day, it gets expensive.
+== WHY SMALL OUTPUTS MATTER ==
 
-== THE TWO FIXES ==
+Fees depend partly on how much transaction data has to be included.
 
-There are two fixes, one for going forward and one for what you already have.
+Spending many small inputs can require more data than spending one larger input.
 
-Going forward, transfer on a threshold rather than on a schedule. Instead of moving every small buy to cold storage the day it happens, let them accumulate on the exchange and move them in one transaction.
+That does not mean every small UTXO is protocol dust.
 
-My rule of thumb is about 0.01 to 0.02 Bitcoin as a minimum per transfer. Your smaller monthly buys accumulate on the exchange until they hit that threshold, and then they move in one transaction.
+Dust has a technical policy meaning tied to the cost of spending an output. Separately, an output can be economically unattractive to spend at a high fee rate even when it is not protocol dust.
 
-The reason behind the number is what to hold onto if fees or the price move a long way from where they are now: you want the fee to spend that chunk later to be a rounding error against the chunk, not a real bite out of it.
+The planning question is whether the fee to spend the output later would be material relative to the output.
 
-The trade-off is real, though, and worth saying out loud. Everything waiting for the threshold is sitting on an exchange, which is exactly the counterparty risk the custody module is about. So the threshold is a fee decision bounded by a custody decision. If the accumulating balance gets big enough to worry you, move it and pay the fee.
+== AUSTIN'S TRANSFER RULE ==
 
-For what you already hold, the fix is consolidation. You send those small chunks to yourself in one transaction, which combines them into one bigger chunk. Do it deliberately on a day when fees are low, not on the day you urgently need to move money. It's a chore for a quiet Sunday and an annual custody review item, not an emergency.
+Austin's rule of thumb is to accumulate small exchange purchases and transfer around 0.01 to 0.02 Bitcoin at a time rather than moving every small buy immediately.
 
-== ADDRESSES ARE PUBLIC ==
+That is not a Bitcoin rule and it is not a permanent threshold.
 
-The second thing is addresses. Another client was surprised to learn that if somebody knows one of your receiving addresses, they can look up the entire history of that address on the blockchain. Bitcoin's ledger is public. That's the whole design.
+Before using it, check:
 
-So if you use the same receiving address over and over, you've handed anyone who has it a running total of everything you've ever received there. That's not a theft risk directly. It's a privacy risk that becomes a personal safety question once somebody can tie an address to your name.
+- the current fee environment;
+- the amount exposed to the exchange while waiting;
+- withdrawal fees and minimums;
+- whether the future spend fee would still be a rounding error;
+- the household's counterparty-risk limit.
 
-The fix is easy. Use a fresh receiving address every time you receive. Modern wallets generate a new one automatically and it's usually the default, so mostly this is about not overriding it. And don't post an address publicly and then keep using it.
+If the exchange balance becomes larger than the household is willing to expose, move it even when the threshold has not been reached.
 
-This is also another reason to check the address on the device screen every single time. It should be a new one. If it isn't, find out why before you send.
+== CONSOLIDATION ==
+
+Consolidation spends several UTXOs to a new output controlled by the same wallet.
+
+It can reduce the number of inputs a later transaction needs, especially when performed during a low-fee period.
+
+It also has costs.
+
+Combining outputs can link activity that was previously less obviously related, reducing privacy. It creates an on-chain transaction and fee now. It can also produce a larger output that becomes a more obvious target for future coin selection.
+
+So consolidation is not automatic cleanup. It is a fee-versus-privacy decision.
+
+Do not consolidate in an emergency, during a high-fee spike, or merely because the wallet shows many rows.
+
+== ADDRESS USE ==
+
+Use a fresh receive address when the wallet provides one.
+
+Address reuse can make payments easier to link and can expose more of the wallet's activity to counterparties or observers.
+
+The wallet should verify the receive address on the trusted hardware display before a meaningful transfer.
+
+A descriptor or extended public key can reveal many addresses and wallet history. It cannot sign by itself, but it is privacy-sensitive and belongs in the recovery plan rather than in public notes.
+
+== LABELS AND COIN CONTROL ==
+
+Labeling acquisition source and purpose can help with tax records, privacy decisions, and future coin selection.
+
+Coin control is an advanced tool. Selecting the wrong output can break the intended tax identification, combine private clusters, or create inefficient change.
+
+Use it only when you understand the wallet's behavior and the tax record is made no later than the transaction.
 
 == YOUR DECISION ==
 
-Your decision here is your transfer threshold, and whether you have a consolidation chore waiting.
+The transfer threshold, whether consolidation is currently justified, and which privacy trade-off you accept.
 
 == HOMEWORK ==
 
-Your homework for this lesson is to:
+1. Open coin control or the wallet's UTXO view without changing anything.
+2. Identify very small outputs, labels, and repeated addresses.
+3. Estimate the fee to spend them at a normal and high fee rate.
+4. Decide whether to leave them, consolidate during a low-fee period, or change the future transfer threshold.
+5. Update the annual custody review with the decision.
 
-1. Open your wallet and look at how many separate chunks your balance is actually made of. Most wallets will show you this; some call it coin control.
-2. Write down your transfer threshold. Austin's rule of thumb is 0.01 to 0.02 Bitcoin as a minimum per transfer; check what fees are doing today and confirm that still leaves the fee as a rounding error against the chunk.
-3. If you're holding a pile of small chunks, put consolidation on your annual review as a low-fee-day chore.
-4. Confirm your wallet is generating a fresh receiving address each time, and that you haven't published one you keep reusing.
+You are done when the threshold is tied to current fees and counterparty exposure, and consolidation is treated as a privacy decision rather than housekeeping.

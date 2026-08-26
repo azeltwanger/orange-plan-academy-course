@@ -2,6 +2,7 @@ TELEPROMPTER SCRIPT — segment A7.2
 A7.2 What self-custody actually asks of you
 ~3 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
 SOURCE: MASTER-ADVANCED.md · preserves the existing custody-responsibility position
+RESEARCH AUDIT: 2026-08-25 · see research/PRIMARY-SOURCE-REGISTER.md
 ============================================================
 
 A client put this better than I ever have.
@@ -30,7 +31,7 @@ The second answer is that you want part of it. That is what collaborative custod
 
 The third answer is that you do not want the job right now. That is also a real answer. Taking responsibility you will not maintain is not more sovereign. It is just a new way to lose access.
 
-If you do take the job, being a little paranoid is appropriate. You should feel the weight. The goal is not fear. The goal is to build a process strong enough that you do not need to think about it every day.
+If you take the job, I think some caution is appropriate. You should feel the weight of it. Then build a process strong enough that you do not have to think about it every day.
 
 == YOUR DECISION ==
 

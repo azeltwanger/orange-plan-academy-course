@@ -73,7 +73,7 @@ So with two reports side by side, there are four lines to read in order, and the
 
 == THREE HANDOFFS ==
 
-You're also not the only reader. It's the agenda for a twenty-minute sit-down with your spouse, the tax pages plus the transaction export go to your CPA, and the access and estate pages go to your attorney. What matters in all three is that you're handing a professional a document rather than asking them to log into an app, and that's what lets three different people start from the same set of facts.
+This report is also something you can hand to other people. Use it as the agenda for a twenty-minute conversation with your spouse. Give the tax pages and transaction export to your CPA. Give the access and estate pages to your attorney. That way all three people can start from the same facts without needing to log into your app.
 
 You started this course with accounts scattered everywhere and a rough guess. You're finishing with a document your family can read, your CPA can act on, and next-year-you can be measured against. That finished document is what a financial plan actually is.
 

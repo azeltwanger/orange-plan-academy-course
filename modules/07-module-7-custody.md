@@ -3,7 +3,7 @@
 *Custody as operational protection: choose your level on the four-tier ladder, set up hardware with a proven recovery test, close single points of failure, and — when it fits — go advanced with passphrase, multisig, or collaborative custody.*
 
 ## 7.1 Choose the custody setup that matches your stack and family
-*`TEACH` · 2,041 words · ~13 min*
+*`TEACH` · ~871 words · ~6 min*
 
 **By the end of this lesson, you can:**
 
@@ -15,162 +15,117 @@
 
 ---
 
-Custody is more than where your Bitcoin sits. It covers whether you can reach it, whether anyone else can, and whether there's a process that still works when you're not around.
+In today's lesson, we're going to choose the custody setup you can actually maintain and your family can actually recover.
 
-It's different from inheritance. Inheritance is the legal transfer (wills, executor, who gets what). Module 8 covers that. This module secures access while you're alive and makes it recoverable if you're not.
+The four levels in this course are an Orange Plan framework. They are not a Bitcoin protocol standard and they are not a score.
 
-In 2022, Celsius customers watched a balance sit on a screen while withdrawals were frozen. Same at BlockFi and FTX. The number was theirs. The Bitcoin was not. A Bitcoin balance in someone else's system is a claim on their Bitcoin, not ownership of yours.
+The right level is the simplest setup that protects the amount at stake, survives the failures you care about, and still works when somebody besides you has to use it.
 
-### The five questions
+### The job of custody
 
-Custody comes down to five:
+Bitcoin exists on the network. Custody is control of the signing material that can authorize a spend.
 
-- Where is the Bitcoin held?
-- What type of custody are you using?
-- Who knows what to do?
-- What happens if you're unavailable?
-- Where are the single points of failure?
+Depending on the setup, that can involve:
 
-A typical Bitcoin household: he's 45, she's 43, two kids ages 10 and 12. They hold 1.5 BTC on a hardware wallet in a desk drawer, and 0.25 BTC on an exchange.
+- an institution's account and legal claim process;
+- one hardware wallet and its recovery material;
+- a wallet backup plus a passphrase;
+- multiple signing keys and a wallet policy or descriptor;
+- a collaborative provider and a documented provider-independent recovery path.
 
-- **Where:** they can answer cold. ✓
-- **What type:** one hardware wallet, one exchange account, no passphrase. ✓
-- **Who knows what to do:** he does. She's never touched the device. ✗
-- **What happens if he's unavailable:** nothing. ✗
-- **Single points of failure:** they've never asked. ✗
+Do not call every one of those things a seed. The backup standard matters.
 
-Two out of five. That's a normal Bitcoin household, not a careless one. The score turns a vague worry into three specific jobs.
+### Five questions before the level
 
-### Name the job before you pick the setup
+First: how much is at stake today, and what could it become under assumptions you would defend?
 
-Different jobs can call for different custody.
+Second: who depends on it?
 
-For the couple, the 1.5 BTC is long-term cold storage. It's the retirement stack and shouldn't move in a hurry. The 0.25 BTC on the exchange is the buying account — but it's also quietly doing a second job nobody assigned: it's what they'd reach for in an emergency. Different job, different custody answer, because an exchange can freeze an account in exactly the week they need it.
+Third: which loss worries you most—online account takeover, physical theft, backup loss, coercion, provider failure, incapacity, or death?
 
-Name the job, so one setup doesn't cover two jobs that need different things.
+Fourth: how much operational complexity will you actually maintain?
 
-### The one rule this module runs on
+Fifth: can somebody else follow the recovery process without improvising or learning Bitcoin during a crisis?
 
-**You document the process, never the secrets.**
+I would choose the simplest setup you can actually prove works.
 
-By "secrets" I mean the things that actually move Bitcoin: seed phrase (the words your whole wallet rebuilds from), private keys, passphrase, PIN. Anyone with one of those has your Bitcoin.
+### Level 1: hardened institution
 
-> ⚠ No seed phrases, no private keys, no passphrases, no PINs. In any app, document, photo, cloud note, or AI tool. Ever.
+Level 1 delegates signing control to a regulated or otherwise chosen institution.
 
-What you write down: who holds what, what type of setup it is, and what someone should do. Never the words that unlock it. You can share the document with your executor and store it safely, because nothing in it is worth stealing.
+Your job is account security, beneficiary and death-claim paperwork, withdrawal controls, and diversification of whatever counterparty exposure you keep.
 
-### Choosing your level
+The family recovery test is not a device restore. It is the institution's login-recovery and death-claim process.
 
-A custody level is how much protection a setup gives you and what it asks back: skill, maintenance, and what your family has to be able to do. The right level matches how much is at stake and who depends on it.
+Verify what documents the institution requires, who can make the claim, whether a beneficiary designation exists, how long the process can take, and what happens if the institution fails.
 
-The mistake is a mismatch, in either direction. Celsius customers had too little custody for the amount at stake. Others move a life-changing stack onto a hardware wallet they've never tested, which is more custody than their skill supports. Both cases: the setup doesn't match what's at stake.
+This level trades self-custody risk for counterparty and legal-claim risk. That can be a legitimate trade when it is deliberate.
 
-### The four levels
+### Level 2: single-signature hardware wallet
 
-**Level 1: Hardened exchange or broker.** Small stack, or still learning.
+Level 2 moves signing control into a hardware wallet and a compatible wallet setup.
 
-- Setup: strong password, app-based 2FA, secured email, withdrawal delays on.
-- The word is hardened, not neglected. A small stack on a locked-down exchange is legitimate.
+The recovery material may be a BIP39 mnemonic, another single backup, or a supported multi-share standard. Record the actual standard rather than assuming every device uses 12 or 24 words.
 
-**Level 2: Hardware wallet.** The default destination once a stack becomes meaningful.
+The hardware wallet is replaceable. The recovery material and any required passphrase or wallet information are the durable pieces.
 
-- Setup: seed stays offline, test transaction first, wipe-and-restore proven, and a backup medium matched to what's being protected.
-- **Backup medium is a tradeoff, not a rule.** Paper is cheap and burns. Steel survives fire and flood and costs more. Weigh it against the size of the stack and the hazards where the household actually lives — do not hand students "steel is required."
-- Removes freeze risk. Hands you maintenance instead.
+I think this is simple enough for a lot of households to maintain well. The risk is that one complete backup can authorize the wallet, and one missing required piece can also block recovery.
 
-**Level 3: The stack matters to more than just you.** The defining feature is that someone other than you has to be able to recover it, not any one technique.
+### Level 3: added separation
 
-- Setup: a hardened wallet, a documented process your spouse or executor can actually follow, backups that survive one loss, and an annual review.
-- **Split access is one way to get here, not the requirement.** A passphrase split, a sealed executor packet, or a well-documented single-signature setup with redundant backups can all clear this bar. Split access buys dual control; it does not by itself buy redundancy, and it adds a failure mode of its own when the family is confused or a holder is unreachable.
-- Pick the design your household can actually operate. Complexity nobody can execute is not a higher level.
+Level 3 adds another independent element, often a passphrase or another deliberately separated custody arrangement.
 
-**Level 4: Collaborative or DIY multisig.** For stacks where a single mistake is unacceptable.
+A BIP39 passphrase derives a different wallet. Every passphrase, including a typo, derives a valid wallet. That gives separation, but it also creates another thing that must be entered exactly and recovered.
 
-- Setup: professional support (collaborative) or full-DIY, coordination with trust and estate plan, family process actually tested.
-- Buys you a setup where one mistake no longer ends it.
+A passphrase is not multisig. The mnemonic and passphrase are both required to derive that wallet, but the protocol does not enforce two independent signers.
 
-### Every level is a trade
+This level only improves the plan when the new element has its own backup, its own location, and a tested family process.
 
-There is no custody setup without a trade-off. Each level buys one protection by handing you a different risk to manage:
+### Level 4: threshold signing
 
-| Level | What it buys | What it costs |
-|---|---|---|
-| 1 · Hardened exchange/ETF | Convenience, easy inheritance, no self-responsibility | Counterparty risk. The account can be frozen exactly when you need it |
-| 2 · Hardware wallet | Removes freeze risk. True ownership | Maintenance and self-responsibility. One seed is one point of failure |
-| 3 · Passphrase + split | Theft protection, survivable without you | More complexity. A lost passphrase is a permanent loss |
-| 4 · Multisig | No single mistake can end it | Highest complexity. Config-file dependence, a fee (collaborative) or heirs' complexity (DIY) |
+Level 4 uses a threshold policy such as 2-of-3 multisig, either independently or with a collaborative provider.
 
-The pattern: more sovereignty always means more responsibility, and more convenience always means more counterparty risk. You never eliminate risk, you choose which risks you hold and which you hand to someone else. That's why the level is matched to stakes and skill instead of picked on ideology.
+Two signing keys can authorize a spend and one cannot. Losing one key can be survivable.
 
-### One more question, if it applies to you
+The keys are not the whole recovery package. The family also needs the wallet policy or descriptor, script and derivation information, and compatible software or a provider-independent recovery process.
 
-Everything above is about *what type* of custody you use. A separate question asks how **concentrated** it is, and it only matters for some people, so name it rather than teach it.
+A descriptor cannot sign, but losing the policy can make reconstruction slow, uncertain, or dependent on a provider.
 
-> **Advanced Library → A7.3 "Concentration: one institution, one vendor, one
-> firmware"** if either is true: the custodial balance is big enough that
-> losing access for a few months would change your life, or every satoshi you
-> own sits behind one model of one device running one manufacturer's firmware.
-> If neither is true, the custody plan is complete without it.
+Collaborative custody is only provider-independent when the client truly holds enough keys to meet the threshold, has exported the policy data, and has tested recovery in compatible software without the provider.
 
-### Sizing it on a real household
+### Complexity can become the biggest risk
 
-The couple holds 1.5 BTC on a hardware wallet and 0.25 BTC on an exchange. At an illustrative $100,000/coin, the hardware wallet is $150,000 and the exchange is $25,000.
+A second device, passphrase, multisig, or provider can reduce one failure and create three new ones.
 
-The $25,000 is Level 1 money on a Level 1 setup. Honest match, as long as it's hardened.
+More pieces mean more backups, more updates, more inheritance instructions, and more ways for the written plan to drift from reality.
 
-The $150,000 is Level 3 money. His wife and two kids depend on it. Neither kid is a teenager yet.
-
-Compare against where it's sitting: Level 2, and Level 2 isn't finished (no proven wipe-and-restore, seed still on paper).
-
-Homework: finish Level 2 honestly, then add whatever makes it recoverable without him — that is what moves it to Level 3. Two jobs, in that order, and the second one has more than one right answer.
-
-### The app's tier
-
-Orange Plan runs three tiers keyed to estate size:
-
-| Tier | Net worth |
-|---|---|
-| **Foundation** | Under $500k |
-| **Substantial** | $500k to $2M |
-| **High Net Worth** | Above $2M |
-
-The tier filters the security checklist so a Foundation household isn't held to the hardware items a high-net-worth household is.
-
-**Two separate scales, with two separate inputs. Do not let one answer the other.**
-
-| | **Custody level** (1–4) | **App tier** (Foundation / Substantial / HNW) |
-|---|---|---|
-| Driven by | What the Bitcoin is for · how much is actually at risk · your technical ability · whether your family could recover it · estate complexity · liquidity needs | Estate net worth, and nothing else |
-| Decides | How you hold and hand off the coins | Which checklist items the app shows you |
-| Who sets it | You | The app |
-
-These do not move together, and the gap is where people get hurt. **A household with $400,000 of net worth and $350,000 of it in direct self-custodied Bitcoin lands in Foundation and never sees the hardware items.** They need a proven recovery process anyway. The Bitcoin does not care what tier the estate is in.
-
-⚠ **The tier-filtered checklist is a convenience, not a custody recommendation.** If your Bitcoin position is heavier than your estate tier implies, hold yourself to the standard the app isn't asking for.
-
-### Custody is not a purity test
-
-The right setup is one you can maintain, explain, and recover from. If your family can't actually use it, the advanced version isn't protecting anything.
-
-You'll hear people say real Bitcoiners self-custody everything, immediately. That claim is wrong. You move up a level by earning it, with skill and with need, not with ideology.
+A single-signature setup maintained and tested well can be safer than a multisig nobody can reconstruct.
 
 ### Your decision
 
-Two decisions. Your honest score with the job each pile is doing. And which level you're going to run, including whether your custodial Bitcoin should sit at more than one institution.
+Choose the level from the failure you are trying to remove and the process your household can operate.
 
-Match the level to what's at stake and what you can genuinely maintain, and remember a mismatch in either direction is the failure. Too little custody for the amount is the Celsius problem. Too much custody for your skill is the lost-seed problem.
+Then write down why that level fits your household.
 
-### Put it in Orange Plan
+"We use Level 2 because we can maintain one hardware-wallet recovery process and accept the single-backup control risk."
 
-Nothing in the app yet. This decision goes on your Family Custody Map, which the module walkthrough fills in.
+Or:
+
+"We use Level 4 because the amount justifies threshold signing and we have tested recovery without the provider."
+
+### Put it in orange plan
+
+Protect → Protection tier. Save the level, why it fits, and the next review trigger.
+
+Do not put a backup, seed, passphrase, PIN, private key, descriptor, or exact storage location into Orange Plan.
 
 ### You are done when
 
-You have an honest score on the five questions, a named job for each pile of Bitcoin, and the level you're going to run. A note is on your annual review to re-ask all of it at that year's balance, because the price moves and your setup doesn't.
+The level fits the amount and your family, you can explain the risk you accepted, and you have actually tested the recovery process instead of assuming it works.
 
 
 ## 7.2 Set up a hardware wallet and test recovery
-*`TEACH` · ~1,149 words · ~7 min*
+*`TEACH` · ~811 words · ~5 min*
 
 **By the end of this lesson, you can:**
 
@@ -181,93 +136,113 @@ You have an honest score on the five questions, a named job for each pile of Bit
 
 ---
 
-In today's lesson, we're going to cover the hardware wallet setup, and the recovery test that proves your backup actually works before serious money depends on it.
+In today's lesson, we're going to set up a hardware wallet and prove the recovery path without turning the test itself into the failure.
 
-Because a seed backup is only as good as your ability to actually restore from it. And most people have never tested that.
+This is the operational lesson. Use the exact manufacturer's current instructions for the device and firmware on the table.
 
-### Where your bitcoin actually lives
+### What the device does
 
-First: your Bitcoin isn't on the device.
+A hardware wallet stores signing keys and signs transactions in an environment designed to keep those keys away from the everyday computer or phone.
 
-When you set up a hardware wallet, it generates a seed phrase, 12 or 24 words, and every key to your Bitcoin is derived from those words. The device is just a safe place to use them. The device is replaceable. The seed is not.
+The Bitcoin is not inside the device. The device is replaceable.
 
-So if the device breaks, you rebuild the wallet on a new device from the seed, and nothing is lost. But if the seed is wrong, a broken device is the end of the stack.
+What recovers the wallet depends on the setup. That can include the wallet backup, a passphrase, the address or script type, derivation information, and the wallet policy or descriptor if you use multisig.
 
-And there's a detail that makes this sharper: most hardware wallets wipe themselves after a set number of wrong PIN entries. That's the right feature, because it stops a thief from guessing their way in. But it also means your entire stack effectively lives on the paper backup. The device can erase itself on a Tuesday afternoon, and that piece of paper becomes the only copy in existence.
+Do not assume one mnemonic restores every wallet in every device from every manufacturer.
 
-### The six-step setup
+### Start with a clean device
 
-The setup is 6 steps, and the order matters.
+Buy from the manufacturer or an authorized source you can verify.
 
-Step one: buy the device directly from the manufacturer. Never used, never from a third-party seller. A device someone else touched can arrive with a seed they already know, and then every coin you send it is already theirs.
+Follow the official authenticity and firmware checks. Never use recovery words or a PIN supplied in the box, on a card, or by another person.
 
-Step two: generate a brand-new wallet on the device itself. The seed gets created by the device, and it has never existed anywhere else in the world.
+The device should generate the backup during setup. Nobody legitimate asks you to type that backup into a website, chat, support form, or ordinary computer.
 
-Step three: write the seed down offline, and set a PIN.
+### Record the actual backup standard
 
-Step four: send a small test transaction to the wallet. Something like 0.01 Bitcoin, around $1,000. Small enough that losing it is survivable, big enough that you take it seriously.
+A common BIP39 backup can contain 12, 15, 18, 21, or 24 words. Other devices can use a different or multi-share standard.
 
-Step five, and this is where most people stop short: wipe the device. Factory reset it, on purpose, with that $1,000 sitting on it. I know that feels wrong. That's exactly why you do it.
+Write down what this device actually produced and which wallet it belongs to.
 
-Step six: restore from your written seed, and confirm the test transaction reappears.
+If a passphrase is enabled, the backup without the exact passphrase derives a different wallet. Record that fact in the no-secrets process map without putting the passphrase there.
 
-That wipe-and-restore proves three things at once. The seed was written down correctly. You know the procedure, and you learned it under calm conditions. And the backup actually works.
+### Verify the backup before moving a meaningful amount
 
-If the restore works, your real stack moves over and you've proven the backup. And if it fails, you found out with $1,000 at risk instead of $150,000. I think that's a pretty good trade for an afternoon of work.
+I would test it in this order.
 
-### The never list
+First, use the manufacturer's backup-check feature when one exists. That checks the recorded backup without destroying the working setup.
 
-The rules for the seed itself are short. The seed exists on paper or steel, offline, and nowhere else. Not in a photo, not in a password manager, not in a note app, because anything with a screen and a network connection can be read.
+Second, when practical, restore on a spare compatible device or approved recovery environment with only a small test amount at risk.
 
-And paper degrades and burns. For a meaningful stack, the seed goes on steel, and the backups live in separate locations. We'll cover the locations in the single-points-of-failure lesson.
+Third, use a destructive wipe-and-restore only after the backup has already been checked, the exact vendor procedure is open, and another working path or low-value test protects you from one typo becoming a loss.
 
-### One pointer before you start moving coin
+The old course made wiping the only device the default first proof. That was too aggressive.
 
-One thing to know before you start sending Bitcoin to this wallet, and then I'll point you at where it's taught properly.
+A recovery test should reduce risk, not temporarily create one live copy of everything you own.
 
-Every deposit into your wallet is its own separate chunk, and every chunk costs a fee to spend later. So a lot of very small transfers quietly raises what it costs to move your own Bitcoin down the road. If you're buying small amounts regularly, let them accumulate and transfer in fewer, larger chunks rather than moving every buy the day it happens.
+### Verify the wallet, not only the words
 
-That's the whole rule you need today. The advanced library has the full lesson on it, along with why you use a fresh receiving address every time. Worth watching once, before you've made a hundred small transfers rather than after.
+A successful recovery means more than the device accepting the backup.
 
-### If you're afraid to touch it
+Confirm that the recovered wallet produces the expected receive address or wallet fingerprint and can see the expected small test transaction.
 
-I want to talk to a specific person for a minute, because I run into them a lot. You bought the hardware wallet, you moved your Bitcoin onto it, and now you don't touch it. You don't plug it in, you don't update it, you don't check it, because you're scared that plugging it in is how you get robbed. A client told me almost exactly that: she doesn't plug it into anything, because she doesn't know how to keep it safe.
+For a passphrase wallet, test the exact passphrase and verify the intended wallet, because every different passphrase opens a valid but different wallet.
 
-If that's you, a hardware wallet is built for exactly this. The whole design is that your keys never leave the device. It doesn't hand them to your computer or your phone when you plug it in. That's the entire reason the thing exists. So plugging it into your normal computer is not the risk you think it is.
+For multisig, confirm the wallet policy or descriptor loads and that the intended threshold combinations can sign.
 
-There is one real threat to know about, and it's worth knowing precisely. There's malware that watches your clipboard and swaps the Bitcoin address you're sending to. You paste in your address, and what actually gets sent is somebody else's.
+### Receive with the trusted display
 
-The defense takes 10 seconds and it never fails: **read the address on the hardware wallet's own screen and confirm it matches what's on your computer.** The whole address, not just the first few characters. The device screen is the thing malware can't touch. That's why it has a screen.
+When receiving Bitcoin, generate the address in the wallet software and confirm the destination on the hardware device's trusted display.
 
-On firmware updates, I don't rush them, and I do eventually install them, because they often carry real security fixes. Being a little paranoid here isn't a bad instinct. Just don't let it turn into never.
+Do not approve an address that appears only on the computer or phone.
 
-### PIN versus seed phrase
+This reduces common malware risk. It is not a guarantee against every device, firmware, supply-chain, or human failure, which is why the setup source and recovery process still matter.
 
-And there's a distinction that resolves a fear I hear constantly: what if I die and nobody knows my PIN?
+### Backup storage
 
-Your PIN protects the device. That's all it does. If someone gets the physical device, the PIN is what stops them.
+Keep recovery material offline under the policy you chose.
 
-Your seed phrase IS your Bitcoin. It works in any hardware wallet from any manufacturer.
+Paper can be damaged. Metal can survive more physical hazards. Either can be copied by anyone who finds it.
 
-So if something happens to you and your family doesn't know your PIN, that's fine. They don't need it. They buy a new hardware wallet, restore from the seed phrase, and the Bitcoin is there. The PIN dies with the device and it doesn't matter.
+Separate redundant copies so one fire, flood, theft, or household conflict does not reach all of them.
 
-That also means the reverse is true, and it's the part to take seriously: **protecting the PIN is not protecting your Bitcoin.** The seed phrase is the thing that needs the real protection.
+Do not photograph the backup, email it, upload it, store it in a generic note, or enter it into an AI.
+
+A supported encrypted digital backup is a different design decision and must follow the exact wallet standard; the course default remains offline recovery material.
+
+### PIN, passphrase, and backup are different
+
+The PIN protects access to the device.
+
+The wallet backup recreates the signing material under a compatible recovery path.
+
+The passphrase, when used, selects a different derived wallet and must be recovered exactly.
+
+None of those should be treated as interchangeable.
+
+### Updates
+
+Install firmware and wallet-software updates only from official sources and only when the recovery path is already verified.
+
+Read the release and migration notes. Do not rush an update because an email or social post creates urgency.
 
 ### Your decision
 
-Whether your recovery actually works, which is not a thing you can decide by believing it.
+Which recovery proof this setup will use: manufacturer backup check, spare-device recovery, or a carefully staged destructive restore.
 
-### Put it in Orange Plan
+### Put it in orange plan
 
-Nothing to enter. This one happens on a device.
+Protect → Security checklist. Mark the recovery test complete only after the intended wallet was recovered and verified.
+
+Do not record any seed words, passphrases, PINs, private keys, or backup contents in the app.
 
 ### You are done when
 
-You have wiped and restored from your backup, on a device, and watched the balance come back. Until that has happened, you have a hardware wallet and a hope.
+The backup standard is known, the intended wallet was independently recovered or checked, the address/policy matched, and the test did not rely on the only working copy of a meaningful balance.
 
 
 ## 7.3 Single points of failure, account hardening, and scams
-*`TEACH` · ~1,025 words · ~7 min*
+*`TEACH` · ~589 words · ~4 min*
 
 > ✅ **Fixed in course:** stale hand-off promised "advanced custody" next — that
 > material lives in 7.1; now points at the external demo.
@@ -281,93 +256,96 @@ You have wiped and restored from your backup, on a device, and watched the balan
 
 ---
 
-In today's lesson, we're going to cover single points of failure, account hardening, and the scam rules. This is the lesson about closing the doors you didn't know were open.
+In today's lesson, we're going to find the one failure that can still take the whole setup and harden the online accounts around it.
 
-### Three shapes of a single point of failure
+### Find one failure at a time
 
-A single point of failure is anything that exists only once, where losing it means the Bitcoin is unreachable. And it comes in three shapes.
+A single point of failure is one person, device, backup, provider, email account, or location whose loss or compromise can stop recovery or authorize an unwanted spend.
 
-The first shape: the thing gets destroyed. A device, a backup.
+Do not create a list of 20 theoretical risks and fix none of them.
 
-The second shape: the thing is fine, but the person is unavailable, because only one person knows the process.
+Ask:
 
-And the third shape: you're fine, your Bitcoin is fine, and the custodian won't let you move it. An exchange freezes an account.
+- What one thing can authorize everything?
+- What one thing can permanently block recovery?
+- What one provider can freeze or impair every custodial holding?
+- What one email or phone number can reset every financial account?
 
-Most people count the devices and completely forget the custodians.
+Fix the largest one, test the new process, then repeat at the annual review.
 
-### Two ordinary tuesdays
+### Harden the email first
 
-Let me make this concrete with the couple. Their setup: one hardware wallet in a desk drawer, one paper seed backup in the same house, a quarter Bitcoin on an exchange protected by SMS two-factor, and a wife who has never restored a wallet.
+The primary email is often the reset path for exchanges, brokerages, banks, cloud accounts, and the plan itself.
 
-Now, two completely ordinary events.
+Use a unique password and a phishing-resistant authenticator where the provider supports one.
 
-The house floods. The device and the only seed backup are in the same building, so about $150,000 of Bitcoin goes out with the drywall. Two copies in one location were never really two copies.
+Passkeys and hardware security keys can be phishing-resistant when correctly deployed. Keep a backup key or recovery method in a separate location.
 
-Or he's hospitalized for 6 weeks. Nothing was stolen, nothing was lost, but nothing can move either. She can't sell a dollar of it, and she can't even tell anyone what exists.
+A time-based authenticator code is generally stronger than SMS, but a code you type into a phishing site can still be stolen in real time.
 
-No hackers involved in either one. The failure that actually loses Bitcoin is almost always just one thing without a backup.
+SMS is the last choice, not the standard.
 
-### The nine-question hunt
+### Harden every custodial account
 
-So the hunt is 9 questions, and for each one you ask: is there only one?
+For each exchange, brokerage, lender, and custodian:
 
-Only one device? Only one seed backup? Only one location? Only one person who knows everything? One weak exchange login? One heir with no idea what exists? A document that contradicts your beneficiary forms, which are the forms your bank and retirement accounts keep on file naming who gets the money? A passphrase nobody else can recover? And multisig keys all sitting in one place?
+- use a unique password;
+- use passkey or security key when supported, otherwise a strong authenticator method;
+- store recovery codes offline and separately;
+- turn on withdrawal allowlists, delays, or secondary approval when available;
+- review active sessions and trusted devices;
+- remove old phone numbers and unused recovery methods;
+- test the real account-recovery path without locking yourself out.
 
-The couple checks six of nine. And again, they're not careless. A normal setup collects only-ones on its own over the years, because nothing ever asked the question.
+Provider features change. The course names the control, not a button every provider promises to have.
 
-### The fix method
+### Recovery can be the back door
 
-The fix method matters as much as the list, because trying to fix all nine at once is how nothing gets fixed.
+A strong security key does not help if support will reset the account after a weak identity check.
 
-Step one: list your top three, ranked by what the loss would cost. Not by how easy each one is to fix. Step two: pick the one at the top. Step three: fix that one, and only that one. Step four: re-check and repeat.
+Ask what happens after the phone is lost, the email is inaccessible, or the owner dies.
 
-For the couple, the top item is the seed backup and the device sharing an address. The fix is a steel backup stored somewhere else. The in-laws' place, a safe deposit box, a second property. That's one afternoon of work.
+The recovery path should not be easier to attack than the login path.
 
-The next one is the hospital scenario, which is a person problem. She needs to have restored a wallet once, with a small amount, so the procedure lives in two heads instead of one.
+### Scams use urgency and authority
 
-And notice the pattern: every only-one turns into one of three things. A backup, a second location, or a second person who knows the process. Never the secrets. The process.
+The common scam asks you to act before you verify.
 
-### Account hardening
+"Your wallet is compromised."
 
-Now, account hardening, and I'll start with why I take this personally. A couple of years ago, someone called my bank pretending to be me and tried to move about $10,000. They didn't get it. But that's the day I moved my exchange and email logins onto physical security keys.
+"Move the Bitcoin now."
 
-In most real-world losses, nobody breaks the encryption on your Bitcoin. They log in as you.
+"Enter the backup to synchronize."
 
-The hardening order matters, so do it in this order.
+"Support needs remote access."
 
-First, secure your email account, before anything else. Your email is the master key, because every other account will reset its password to that inbox on request. If they get the email, they get everything downstream.
+When you get one of these messages, stop before you do anything.
 
-Second, a strong, unique password on every account.
+Stop. Close the message. Navigate to the provider through a known bookmark or official channel. Verify on another device or with another person. Never reveal recovery material.
 
-Third, app-based two-factor, not SMS, and turn the authenticator's cloud backup off.
+No legitimate support person needs the wallet backup, private key, passphrase, or PIN.
 
-Fourth, withdrawal delays and allowlists on at the exchange. And never click login links out of an email or a DM. Type the address yourself.
+### Physical and social exposure
 
-Why not SMS? Because of the SIM swap. Someone talks your carrier into moving your number onto their SIM, and from that moment, your texts arrive on their phone. A SIM swap takes the exchange and the email in one afternoon.
+Who knows the amount, location, or exact setup is also part of your custody risk.
 
-And one step better than the authenticator app: a hardware security key. A physical key is bound to the real site's address and checks it before signing. A lookalike phishing site simply doesn't get a response. That takes phishing off the table entirely, and it's the cheapest upgrade in this whole lesson.
+The more people who know the amount, location, or exact setup, the larger the coercion and social-engineering surface.
 
-### The scam rules
+The family needs the process. They do not all need every secret.
 
-The scam rules are short.
-
-If a call says your account is hacked, hang up and contact the provider yourself, through the app or the number on your card. And guaranteed returns are a scam. All of them. There's no exception waiting for you.
-
-The common thread in every scam is urgency. Every scam needs you to act before you think. So when something feels urgent, close the app and slow down. That one habit catches scams you've never even seen before, because it doesn't need to recognize the scam. It just needs to notice the pressure.
+Public content should discuss principles and test setups, never the real household's balance, locations, device identifiers, or recovery distribution.
 
 ### Your decision
 
-Your one most expensive only-one, and the fix with a date on it.
+The largest remaining single point of failure and the one hardening action with a date.
 
-### Put it in Orange Plan
+### Put it in orange plan
 
-Protect → Security checklist for the hardening items, and Needs attention for the next one.
+Protect → Security checklist. Record completion status only. Keep names, secrets, backup contents, and exact storage locations off the page.
 
 ### You are done when
 
-Your only-one list exists, the top item by cost of loss has a specific fix this week, and your account hardening is done: secured email, unique passwords, non-SMS two-factor, withdrawal delays on. One fix, not nine.
-
-Then watch the demo and the walkthrough below this video, where I set up a hardware wallet on screen and then we document your custody map in Orange Plan.
+The email and custodial accounts use the strongest practical authentication available, recovery paths are documented, and the largest remaining failure has a specific fix instead of a vague plan to be more secure.
 
 
 ## 7.4 External demo: hardware wallet setup + exchange hardening

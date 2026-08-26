@@ -1,92 +1,96 @@
 TELEPROMPTER SCRIPT — segment 7.3
 7.3 Single points of failure, account hardening, and scams
-~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~8 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+RESEARCH AUDIT: 2026-08-25 · see research/PRIMARY-SOURCE-REGISTER.md
 ============================================================
 
-In today's lesson, we're going to cover single points of failure, account hardening, and the scam rules. This is the lesson about closing the doors you didn't know were open.
+In today's lesson, we're going to find the one failure that can still take the whole setup and harden the online accounts around it.
 
-== THREE SHAPES OF A SINGLE POINT OF FAILURE ==
+== FIND ONE FAILURE AT A TIME ==
 
-A single point of failure is anything that exists only once, where losing it means the Bitcoin is unreachable. And it comes in three shapes.
+A single point of failure is one person, device, backup, provider, email account, or location whose loss or compromise can stop recovery or authorize an unwanted spend.
 
-The first shape: the thing gets destroyed. A device, a backup.
+Do not create a list of 20 theoretical risks and fix none of them.
 
-The second shape: the thing is fine, but the person is unavailable, because only one person knows the process.
+Ask:
 
-And the third shape: you're fine, your Bitcoin is fine, and the custodian won't let you move it. An exchange freezes an account.
+- What one thing can authorize everything?
+- What one thing can permanently block recovery?
+- What one provider can freeze or impair every custodial holding?
+- What one email or phone number can reset every financial account?
 
-Most people count the devices and completely forget the custodians.
+Fix the largest one, test the new process, then repeat at the annual review.
 
-== TWO ORDINARY TUESDAYS ==
+== HARDEN THE EMAIL FIRST ==
 
-Let me make this concrete with the couple. Their setup: one hardware wallet in a desk drawer, one paper seed backup in the same house, a quarter Bitcoin on an exchange protected by SMS two-factor, and a wife who has never restored a wallet.
+The primary email is often the reset path for exchanges, brokerages, banks, cloud accounts, and the plan itself.
 
-Now, two completely ordinary events.
+Use a unique password and a phishing-resistant authenticator where the provider supports one.
 
-The house floods. The device and the only seed backup are in the same building, so about $150,000 of Bitcoin goes out with the drywall. Two copies in one location were never really two copies.
+Passkeys and hardware security keys can be phishing-resistant when correctly deployed. Keep a backup key or recovery method in a separate location.
 
-Or he's hospitalized for 6 weeks. Nothing was stolen, nothing was lost, but nothing can move either. She can't sell a dollar of it, and she can't even tell anyone what exists.
+A time-based authenticator code is generally stronger than SMS, but a code you type into a phishing site can still be stolen in real time.
 
-No hackers involved in either one. The failure that actually loses Bitcoin is almost always just one thing without a backup.
+SMS is the last choice, not the standard.
 
-== THE NINE-QUESTION HUNT ==
+== HARDEN EVERY CUSTODIAL ACCOUNT ==
 
-So the hunt is 9 questions, and for each one you ask: is there only one?
+For each exchange, brokerage, lender, and custodian:
 
-Only one device? Only one seed backup? Only one location? Only one person who knows everything? One weak exchange login? One heir with no idea what exists? A document that contradicts your beneficiary forms, which are the forms your bank and retirement accounts keep on file naming who gets the money? A passphrase nobody else can recover? And multisig keys all sitting in one place?
+- use a unique password;
+- use passkey or security key when supported, otherwise a strong authenticator method;
+- store recovery codes offline and separately;
+- turn on withdrawal allowlists, delays, or secondary approval when available;
+- review active sessions and trusted devices;
+- remove old phone numbers and unused recovery methods;
+- test the real account-recovery path without locking yourself out.
 
-The couple checks six of nine. And again, they're not careless. A normal setup collects only-ones on its own over the years, because nothing ever asked the question.
+Provider features change. The course names the control, not a button every provider promises to have.
 
-== THE FIX METHOD ==
+== RECOVERY CAN BE THE BACK DOOR ==
 
-The fix method matters as much as the list, because trying to fix all nine at once is how nothing gets fixed.
+A strong security key does not help if support will reset the account after a weak identity check.
 
-Step one: list your top three, ranked by what the loss would cost. Not by how easy each one is to fix. Step two: pick the one at the top. Step three: fix that one, and only that one. Step four: re-check and repeat.
+Ask what happens after the phone is lost, the email is inaccessible, or the owner dies.
 
-For the couple, the top item is the seed backup and the device sharing an address. The fix is a steel backup stored somewhere else. The in-laws' place, a safe deposit box, a second property. That's one afternoon of work.
+The recovery path should not be easier to attack than the login path.
 
-The next one is the hospital scenario, which is a person problem. She needs to have restored a wallet once, with a small amount, so the procedure lives in two heads instead of one.
+== SCAMS USE URGENCY AND AUTHORITY ==
 
-And notice the pattern: every only-one turns into one of three things. A backup, a second location, or a second person who knows the process. Never the secrets. The process.
+The common scam asks you to act before you verify.
 
-== ACCOUNT HARDENING ==
+"Your wallet is compromised."
 
-Now, account hardening, and I'll start with why I take this personally. A couple of years ago, someone called my bank pretending to be me and tried to move about $10,000. They didn't get it. But that's the day I moved my exchange and email logins onto physical security keys.
+"Move the Bitcoin now."
 
-In most real-world losses, nobody breaks the encryption on your Bitcoin. They log in as you.
+"Enter the backup to synchronize."
 
-The hardening order matters, so do it in this order.
+"Support needs remote access."
 
-First, secure your email account, before anything else. Your email is the master key, because every other account will reset its password to that inbox on request. If they get the email, they get everything downstream.
+When you get one of these messages, stop before you do anything.
 
-Second, a strong, unique password on every account.
+Stop. Close the message. Navigate to the provider through a known bookmark or official channel. Verify on another device or with another person. Never reveal recovery material.
 
-Third, app-based two-factor, not SMS, and turn the authenticator's cloud backup off.
+No legitimate support person needs the wallet backup, private key, passphrase, or PIN.
 
-Fourth, withdrawal delays and allowlists on at the exchange. And never click login links out of an email or a DM. Type the address yourself.
+== PHYSICAL AND SOCIAL EXPOSURE ==
 
-Why not SMS? Because of the SIM swap. Someone talks your carrier into moving your number onto their SIM, and from that moment, your texts arrive on their phone. A SIM swap takes the exchange and the email in one afternoon.
+Who knows the amount, location, or exact setup is also part of your custody risk.
 
-And one step better than the authenticator app: a hardware security key. A physical key is bound to the real site's address and checks it before signing. A lookalike phishing site simply doesn't get a response. That takes phishing off the table entirely, and it's the cheapest upgrade in this whole lesson.
+The more people who know the amount, location, or exact setup, the larger the coercion and social-engineering surface.
 
-== THE SCAM RULES ==
+The family needs the process. They do not all need every secret.
 
-The scam rules are short.
-
-If a call says your account is hacked, hang up and contact the provider yourself, through the app or the number on your card. And guaranteed returns are a scam. All of them. There's no exception waiting for you.
-
-The common thread in every scam is urgency. Every scam needs you to act before you think. So when something feels urgent, close the app and slow down. That one habit catches scams you've never even seen before, because it doesn't need to recognize the scam. It just needs to notice the pressure.
+Public content should discuss principles and test setups, never the real household's balance, locations, device identifiers, or recovery distribution.
 
 == YOUR DECISION ==
 
-Your one most expensive only-one, and the fix with a date on it.
+The largest remaining single point of failure and the one hardening action with a date.
 
 == PUT IT IN ORANGE PLAN ==
 
-Protect → Security checklist for the hardening items, and Needs attention for the next one.
+Protect → Security checklist. Record completion status only. Keep names, secrets, backup contents, and exact storage locations off the page.
 
 == YOU ARE DONE WHEN ==
 
-Your only-one list exists, the top item by cost of loss has a specific fix this week, and your account hardening is done: secured email, unique passwords, non-SMS two-factor, withdrawal delays on. One fix, not nine.
-
-Then watch the demo and the walkthrough below this video, where I set up a hardware wallet on screen and then we document your custody map in Orange Plan.
+The email and custodial accounts use the strongest practical authentication available, recovery paths are documented, and the largest remaining failure has a specific fix instead of a vague plan to be more secure.
