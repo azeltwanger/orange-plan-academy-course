@@ -42,7 +42,7 @@ The second answer is that you want part of it. That is what collaborative custod
 
 The third answer is that you do not want the job right now. That is also a real answer. Taking responsibility you will not maintain is not more sovereign. It is just a new way to lose access.
 
-If you do take the job, being a little paranoid is appropriate. You should feel the weight. The goal is not fear. The goal is to build a process strong enough that you do not need to think about it every day.
+If you take the job, I think some caution is appropriate. You should feel the weight of it. Then build a process strong enough that you do not have to think about it every day.
 
 ### Your decision
 
@@ -126,11 +126,11 @@ Examples:
 - part self-custody and part institution;
 - separate email, authentication, and recovery paths for custodial accounts.
 
-The goal is not to collect devices. It is to prevent one flaw, provider, credential, household event, or process error from reaching everything.
+I would not add a second device or provider just to have more pieces. I would add it when one flaw, provider, credential, household event, or process error can still reach everything.
 
 ### Your decision
 
-Whether the current amount justifies a second institution or independent signing path—and whether the household can maintain it well.
+Whether the current amount justifies a second institution or independent signing path, and whether the household can maintain it well.
 
 ### Homework
 
@@ -259,7 +259,7 @@ You are done when the threshold is tied to current fees and counterparty exposur
 
 In today's lesson, we're going to compare three ways to add separation beyond a single-signature wallet: a passphrase, independent multisig, and collaborative multisig.
 
-The goal is not maximum complexity. It is removing a specific failure without creating a recovery process your family cannot operate.
+I would only add complexity when it removes a specific failure and your family can still operate the recovery process.
 
 ### Start with the two tests
 
@@ -313,7 +313,7 @@ The household also needs the wallet policy or descriptor and enough script, deri
 
 A descriptor can reveal wallet structure, public keys, and addresses. Protect it for privacy and back it up for availability.
 
-It cannot sign by itself.
+The descriptor helps reconstruct and watch the wallet, but it cannot sign a transaction by itself.
 
 One signing key stored with the descriptor is still one signing key in a 2-of-3 wallet. The old course incorrectly said that combination quietly created single-key control. It does not.
 
@@ -323,7 +323,7 @@ The policy or descriptor can be copied more freely than a signing secret because
 
 Keep redundant copies in places the recovery team can reach. Avoid storing the only policy copy inside one hardware wallet or only with one provider.
 
-The goal is that any intended two-key recovery team can reconstruct the wallet without guessing derivation paths or depending on one company.
+You are done when any two people who are supposed to recover the wallet can do it without guessing derivation paths or depending on one company.
 
 ### Key distribution
 

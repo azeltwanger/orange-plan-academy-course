@@ -122,7 +122,7 @@ Austin
 
 In today's lesson, we're going to walk through how to actually use the AI inside Orange Plan.
 
-The useful question is not everything the AI cannot do. It is how it can help you understand and improve the financial plan you are building.
+I want to focus this lesson on how the AI can help you understand and improve the financial plan you are building.
 
 ### Start with AI Review
 
@@ -155,7 +155,7 @@ The app does the calculations. The AI reads those results and explains them. Whe
 
 Inside Plan Guide, under **Market brief**, click **Run daily Bitcoin report**.
 
-The goal is to replace doomscrolling with one clean read that takes less than two minutes. It checks the parts of the Bitcoin market that are actually worth following:
+I use this so I can get one clean read of the market without checking five different places. It should take less than two minutes and cover the parts of the Bitcoin market that are actually useful for the plan:
 
 - the current price and the move over 24 hours, 7 days, 30 days, and one year
 - how far Bitcoin is from its prior all-time high
@@ -188,7 +188,7 @@ You can also ask it to find blind spots. A useful review may surface:
 - a decision that was previewed but never applied
 - a result that is stale because the inputs changed afterward
 
-The goal is not to have the AI make every decision for you. The goal is to understand what the plan is showing, what is missing, and which trade-off you are accepting before you act.
+I would not use the AI to make every decision for you. I would use it to understand what the plan is showing, find information that is missing, and think through the trade-off before you make the decision yourself.
 
 ### Use your preferred AI
 

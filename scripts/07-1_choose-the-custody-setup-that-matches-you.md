@@ -36,7 +36,7 @@ Fourth: how much operational complexity will you actually maintain?
 
 Fifth: can somebody else follow the recovery process without improvising or learning Bitcoin during a crisis?
 
-The answer is not the most impressive setup. It is the one you can prove.
+I would choose the simplest setup you can actually prove works.
 
 == LEVEL 1: HARDENED INSTITUTION ==
 
@@ -58,7 +58,7 @@ The recovery material may be a BIP39 mnemonic, another single backup, or a suppo
 
 The hardware wallet is replaceable. The recovery material and any required passphrase or wallet information are the durable pieces.
 
-This is simple enough for many households to maintain well. The trade-off is concentration: one sufficient backup can authorize the wallet, and one missing required element can block recovery.
+I think this is simple enough for a lot of households to maintain well. The risk is that one complete backup can authorize the wallet, and one missing required piece can also block recovery.
 
 == LEVEL 3: ADDED SEPARATION ==
 
@@ -110,4 +110,4 @@ Do not put a backup, seed, passphrase, PIN, private key, descriptor, or exact st
 
 == YOU ARE DONE WHEN ==
 
-The level matches today's amount and family, the trade-off is stated honestly, and the exact setup has a recovery test appropriate to it—not merely a belief that it works.
+The level fits the amount and your family, you can explain the risk you accepted, and you have actually tested the recovery process instead of assuming it works.

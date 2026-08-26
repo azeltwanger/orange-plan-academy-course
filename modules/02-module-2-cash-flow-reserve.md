@@ -241,14 +241,7 @@ Your reserve target is set **in months of spending**, the app shows how many mon
 > three contradicted the current dictation. College moved to its own optional
 > lesson at 2.4.
 >
-> 🔴 **FILMING BLOCKER (F20) — the 7-to-10-year band is unstated.** The dictation
-> names 0–1, 1–3, 3–7 and 10+. Nothing is said about 7 to 10. The retired table
-> closed that gap by running "no Bitcoin" through ten years; the new dictation
-> does not, so a cost seven and a half years out has no stated lane. **Austin
-> settles it in one sentence at the mic, and it has to be settled before this
-> lesson is filmed** — the lane table is on screen while he speaks. Not resolved
-> here: extending "no Bitcoin" to ten re-imposes the table he replaced, and
-> starting Bitcoin at seven loosens a rule he kept. See `AUTHORITY-FLAGS.md`.
+> ✅ **F20 RESOLVED BY AUSTIN, 2026-08-26.** Bitcoin can remain part of a funding plan five years out. The protected amount becomes less dependent on Bitcoin as the date approaches; no fixed percentage was invented. Source: `source-material/2026-08-26-f20-and-voice-pass.md`.
 
 **By the end of this lesson, you can:**
 
@@ -282,13 +275,14 @@ The lane depends on how far away the cost is. The further out it is, the more vo
 | Timeframe | Where the money sits | Not here |
 |---|---|---|
 | 0 to 1 year | High-yield savings, T-bills, CDs. Treat it like part of the reserve | Anything volatile |
-| 1 to 3 years | Short-term Treasuries, HYSA | Stocks, Bitcoin — not enough time to recover from a bad draw right before the bill |
-| 3 to 7 years | A balanced mix of stocks and bonds, or an I-Bond ladder | Bitcoin |
-| 10+ years | A planned Bitcoin sell schedule can start to make sense here | Cash — the drag over that long costs more than the volatility would |
+| 1 to 3 years | Short-term Treasuries, HYSA | Stocks or Bitcoin for the committed amount |
+| 3 to 5 years | Start moving the firmly committed portion into a less-volatile Bridge mix | Letting the whole commitment depend on Bitcoin |
+| 5 to 10 years | Bitcoin can remain part of the funding plan while the protected portion grows in Bridge | Automatically moving the entire future expense to cash at year 5 |
+| 10+ years | A planned Bitcoin sell schedule can fund a larger part of the cost | Holding the entire long-term target in cash |
 
-> 🔶 F20: the 7-to-10 band is not addressed in the dictation. Left as spoken.
+Bitcoin can remain in the Legacy funding source. The amount you cannot afford to miss moves into Bridge as the date gets closer. By the time the committed money is needed in one or two years, that amount should no longer depend on Bitcoin cooperating.
 
-For 10+ year costs, plan the sales into low-bracket years — the years when your income is small enough that the tax rate on those sales is low. Module 5 shows you how to find yours.
+For costs funded partly from Bitcoin, plan sales into low-bracket years when practical. Module 5 shows you how to find those years.
 
 ### Pre-funding versus paying from flow
 
@@ -412,15 +406,15 @@ That remaining net cost divides among six sources:
 5. A limited amount of student borrowing
 6. Whatever's left unfunded
 
-Not every family uses all six. **College does not have to be solved entirely with money you saved before freshman year.** A complete plan might be: the parents provide the existing 529, add a fixed amount from annual cash flow, the student applies for aid and works summers and takes a defined amount of federal loans, and Bitcoin covers part of the rest if the price and the tax situation work out.
+Not every family is going to use all six. A family might use the existing 529, add a fixed amount from annual cash flow, have the student apply for aid and work summers, set a limit on federal loans, and use Bitcoin for part of the remaining cost if the price and tax situation make sense. So college does not have to be solved entirely with money you saved before freshman year.
 
 That is a finished plan. It is not a failure because the 529 doesn't equal four years of sticker price.
 
 ### Where Bitcoin fits, and where it doesn't
 
-**The goal is not to stop buying Bitcoin for seven years because your child may go to college.**
+**I would not automatically pause Bitcoin purchases for seven years because your child may go to college.**
 
-The goal is that the amount you have *firmly promised* does not depend entirely on Bitcoin being at a favorable price on the exact day tuition is due.
+What I would do is protect the amount you have *firmly promised* so that portion does not depend entirely on Bitcoin being at a favorable price when tuition is due.
 
 Those are very different things, and the difference is most of this lesson. It moves over time:
 

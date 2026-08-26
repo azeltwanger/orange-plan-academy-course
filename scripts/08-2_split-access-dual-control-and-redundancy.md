@@ -6,9 +6,7 @@ RESEARCH AUDIT: 2026-08-25 · see research/PRIMARY-SOURCE-REGISTER.md
 
 In today's lesson, we're going to test whether one person can spend alone and whether one loss can permanently block recovery.
 
-Those are different failures.
-
-Dual control answers the first. Redundancy answers the second.
+These are two different questions. Dual control tells you whether one person can spend alone. Redundancy tells you whether one loss can stop recovery.
 
 == TEST ONE: CAN ONE PERSON SPEND ALONE? ==
 
@@ -108,9 +106,7 @@ Which of the two tests the setup passes, which one it fails, and whether the acc
 
 == PUT IT IN ORANGE PLAN ==
 
-Protect records the level, recovery-test status, and process completion.
-
-The secret distribution stays off-app.
+Protect records the level, recovery-test status, and process completion. Keep the seed, passphrase, key distribution, and exact storage locations out of the app.
 
 == YOU ARE DONE WHEN ==
 

@@ -11,11 +11,14 @@ The further out the cost, the more volatility that lane can tolerate, because th
 | Timeframe | Where the money sits | Not here |
 |---|---|---|
 | 0–1 year | HYSA, T-bills, CDs. Treat it like part of the reserve | Anything volatile |
-| 1–3 years | Short Treasuries, HYSA | Stocks, Bitcoin — not enough time to recover from a bad draw right before the bill |
-| 3–7 years | Balanced stocks/bonds, or an I-Bond ladder | Bitcoin |
-| 10+ years | A planned Bitcoin sell schedule can start to make sense here | Cash — the drag over that long costs more than the volatility would |
+| 1–3 years | Short Treasuries, HYSA | Stocks or Bitcoin for the committed amount |
+| 3–5 years | Start moving the firmly committed portion into a less-volatile Bridge mix | Letting the whole commitment depend on Bitcoin |
+| 5–10 years | Bitcoin can remain part of the funding plan while the protected portion grows in Bridge | Automatically moving the entire future expense to cash at year 5 |
+| 10+ years | A planned Bitcoin sell schedule can fund a larger part of the cost | Holding the entire long-term target in cash |
 
-For 10+ year costs, plan the sales into low-bracket years — the years your income is small enough that the tax rate on those sales is low. Module 5 shows you how to find yours.
+Bitcoin can remain in the Legacy funding source. The amount you cannot afford to miss moves into Bridge as the date gets closer. By the time the committed money is needed in one or two years, that amount should no longer depend on Bitcoin cooperating.
+
+For costs funded partly from Bitcoin, plan sales into low-bracket years when practical. Module 5 shows you how to find those years.
 
 ## Pre-fund vs pay from flow
 

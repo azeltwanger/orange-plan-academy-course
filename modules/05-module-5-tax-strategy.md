@@ -48,7 +48,7 @@ If the identified units come from lot one, the basis is $7,500 and the gain is $
 
 If the identified units come from lot two, the basis is $15,000 and the gain is $10,000.
 
-Same sale proceeds. Different identified units. Different gain.
+The sale proceeds are the same, but the gain changes because the Bitcoin came from a different lot.
 
 That is why "I own 1.75 Bitcoin" is not enough information for a tax plan.
 
@@ -78,7 +78,7 @@ That is why the useful record connects three things: the acquisition record, the
 
 ### Reconstructing what is missing
 
-Start with contemporaneous records.
+Start with the records that were created when the transactions happened.
 
 Download every exchange and brokerage export you can still access. Pull confirmations, old tax files, bank or card statements, email receipts, and wallet transaction history. Match withdrawals and deposits between your own accounts so a transfer is not mistaken for a sale or a new purchase.
 
@@ -100,7 +100,7 @@ For planning, a zero-basis assumption can show the conservative tax exposure if 
 
 But do not confuse that stress test with a legal conclusion that the asset definitely has zero basis. And do not invent a number merely to avoid zero.
 
-The honest plan labels what is known, what is estimated, and what is still unproven.
+So in the plan, label what is known, what is estimated, and what is still unproven.
 
 ### What clean basis unlocks
 
@@ -208,7 +208,7 @@ Possible moves include:
 
 A common shortcut is "fill the bracket and stop."
 
-That is too simple.
+I think that leaves out too many of the other costs that can change at the same time.
 
 A conversion or gain can also change:
 

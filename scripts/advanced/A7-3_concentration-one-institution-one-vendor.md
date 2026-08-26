@@ -56,11 +56,11 @@ Examples:
 - part self-custody and part institution;
 - separate email, authentication, and recovery paths for custodial accounts.
 
-The goal is not to collect devices. It is to prevent one flaw, provider, credential, household event, or process error from reaching everything.
+I would not add a second device or provider just to have more pieces. I would add it when one flaw, provider, credential, household event, or process error can still reach everything.
 
 == YOUR DECISION ==
 
-Whether the current amount justifies a second institution or independent signing path—and whether the household can maintain it well.
+Whether the current amount justifies a second institution or independent signing path, and whether the household can maintain it well.
 
 == HOMEWORK ==
 

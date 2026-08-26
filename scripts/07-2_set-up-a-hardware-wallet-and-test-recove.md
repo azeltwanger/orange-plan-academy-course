@@ -36,7 +36,7 @@ If a passphrase is enabled, the backup without the exact passphrase derives a di
 
 == VERIFY THE BACKUP BEFORE MOVING A MEANINGFUL AMOUNT ==
 
-Use this order.
+I would test it in this order.
 
 First, use the manufacturer's backup-check feature when one exists. That checks the recorded backup without destroying the working setup.
 
@@ -102,7 +102,7 @@ Which recovery proof this setup will use: manufacturer backup check, spare-devic
 
 Protect → Security checklist. Mark the recovery test complete only after the intended wallet was recovered and verified.
 
-Record no secrets in the app.
+Do not record any seed words, passphrases, PINs, private keys, or backup contents in the app.
 
 == YOU ARE DONE WHEN ==
 

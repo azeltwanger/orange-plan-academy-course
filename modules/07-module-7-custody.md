@@ -47,7 +47,7 @@ Fourth: how much operational complexity will you actually maintain?
 
 Fifth: can somebody else follow the recovery process without improvising or learning Bitcoin during a crisis?
 
-The answer is not the most impressive setup. It is the one you can prove.
+I would choose the simplest setup you can actually prove works.
 
 ### Level 1: hardened institution
 
@@ -69,7 +69,7 @@ The recovery material may be a BIP39 mnemonic, another single backup, or a suppo
 
 The hardware wallet is replaceable. The recovery material and any required passphrase or wallet information are the durable pieces.
 
-This is simple enough for many households to maintain well. The trade-off is concentration: one sufficient backup can authorize the wallet, and one missing required element can block recovery.
+I think this is simple enough for a lot of households to maintain well. The risk is that one complete backup can authorize the wallet, and one missing required piece can also block recovery.
 
 ### Level 3: added separation
 
@@ -121,7 +121,7 @@ Do not put a backup, seed, passphrase, PIN, private key, descriptor, or exact st
 
 ### You are done when
 
-The level matches today's amount and family, the trade-off is stated honestly, and the exact setup has a recovery test appropriate to it—not merely a belief that it works.
+The level fits the amount and your family, you can explain the risk you accepted, and you have actually tested the recovery process instead of assuming it works.
 
 
 ## 7.2 Set up a hardware wallet and test recovery
@@ -168,7 +168,7 @@ If a passphrase is enabled, the backup without the exact passphrase derives a di
 
 ### Verify the backup before moving a meaningful amount
 
-Use this order.
+I would test it in this order.
 
 First, use the manufacturer's backup-check feature when one exists. That checks the recorded backup without destroying the working setup.
 
@@ -234,7 +234,7 @@ Which recovery proof this setup will use: manufacturer backup check, spare-devic
 
 Protect → Security checklist. Mark the recovery test complete only after the intended wallet was recovered and verified.
 
-Record no secrets in the app.
+Do not record any seed words, passphrases, PINs, private keys, or backup contents in the app.
 
 ### You are done when
 
@@ -319,7 +319,7 @@ The common scam asks you to act before you verify.
 
 "Support needs remote access."
 
-The response is always the same.
+When you get one of these messages, stop before you do anything.
 
 Stop. Close the message. Navigate to the provider through a known bookmark or official channel. Verify on another device or with another person. Never reveal recovery material.
 
@@ -327,7 +327,7 @@ No legitimate support person needs the wallet backup, private key, passphrase, o
 
 ### Physical and social exposure
 
-Privacy is part of custody.
+Who knows the amount, location, or exact setup is also part of your custody risk.
 
 The more people who know the amount, location, or exact setup, the larger the coercion and social-engineering surface.
 

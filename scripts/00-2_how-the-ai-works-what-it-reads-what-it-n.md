@@ -6,7 +6,7 @@ SOURCE: source-material/2026-08-25-module-0-1-dictation.md · Austin direction, 
 
 In today's lesson, we're going to walk through how to actually use the AI inside Orange Plan.
 
-The useful question is not everything the AI cannot do. It's how it can help you understand and improve the financial plan you're building.
+I want to focus this lesson on how the AI can help you understand and improve the financial plan you're building.
 
 == START WITH AI REVIEW ==
 
@@ -38,7 +38,7 @@ The app does the calculations. The AI reads those results and explains them. Whe
 
 Inside Plan Guide, under Market brief, click Run daily Bitcoin report.
 
-The goal is to replace doomscrolling with one clean read that takes less than two minutes. It checks the parts of the Bitcoin market that are actually worth following.
+I use this so I can get one clean read of the market without checking five different places. It should take less than two minutes and cover the parts of the Bitcoin market that are actually useful for the plan.
 
 That includes the current price and the move over 24 hours, 7 days, 30 days, and one year; how far Bitcoin is from its prior all-time high; ETF flows; newly reported Bitcoin purchases or sales by public companies and how they paid for them; the most useful on-chain change for that day; futures and leverage when they matter; interest rates, the dollar, inflation data, and Federal Reserve expectations; and any material custody, regulation, exchange, mining, or industry news.
 
@@ -56,7 +56,7 @@ When you replace the rough onboarding estimate with your real accounts, ask what
 
 You can also ask it to find blind spots. A useful review may surface missing cost basis, an account with no clear timeframe, a future expense that isn't in the projection, a Social Security amount that's still a guess, a debt with an outdated rate, a decision that was previewed but never applied, or a result that's stale because the inputs changed afterward.
 
-The goal isn't to have the AI make every decision for you. The goal is to understand what the plan is showing, what is missing, and which trade-off you're accepting before you act.
+I would not use the AI to make every decision for you. I would use it to understand what the plan is showing, find information that is missing, and think through the trade-off before you make the decision yourself.
 
 == USE YOUR PREFERRED AI ==
 

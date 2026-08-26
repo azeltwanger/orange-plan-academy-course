@@ -19,7 +19,7 @@ The Academy is **two courses** in one space group:
 <!-- METRICS:START -->
 | | Lessons | Runtime |
 |---|---|---|
-| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **217 min (3.6 h)** |
+| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **218 min (3.6 h)** |
 | **Advanced Library** — optional, gated per lesson | 14 teach | 83 min |
 
 Plus 11 core screen captures (10 walkthroughs + 1 external demo),

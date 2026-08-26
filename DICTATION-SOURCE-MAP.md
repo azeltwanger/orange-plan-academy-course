@@ -58,3 +58,11 @@ Preserved positions include:
 ## Rule for future edits
 
 A script labelled `AUSTIN DICTATION` must link to a retained source or transcript. A script labelled `SPOKEN-PROSE VERSION` may preserve Austin's position and voice calibration, but it may never be presented as his original wording.
+
+## 2026-08-26 · Voice pass and five-year funding ruling
+
+**Source:** `source-material/2026-08-26-f20-and-voice-pass.md` plus the retained 0.2 / 1.1 / 1.2 dictation.
+
+The voice pass reviewed every core and Advanced teach script. It changed editor-shaped lines that sounded like slogans, clever reversals, compressed verdicts, or formal research prose. It did not rewrite Austin's actual dictation, walkthrough click paths, verified legal or tax qualifications, course structure, or unresolved F22 planning policy.
+
+F20 is now resolved narrowly: Bitcoin can remain part of a funding plan five years out; the firmly committed amount becomes less dependent on Bitcoin as the date approaches; no percentage was invented.

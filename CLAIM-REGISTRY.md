@@ -63,6 +63,7 @@ file itself all quote retired positions on purpose, and that is the record.
 | beneficiary-qualified-cp | file:MODULE-CHECKPOINTS.md | `generally controls instead of the will` | file | The checkpoint carried the flat version after every other layer had been qualified |
 | college-not-prepay | 2.4 | `(?i)not (a bill you prepay\|have to be solved entirely)` | master,script,lesson-text,module | College is a funding stack against a defined commitment, never a sticker price to pre-fund |
 | known-cost-rule | 2.3 | `(?i)does not automatically need to be fully funded` | master,script,lesson-text,module | A future expense needs a plan; it does not outrank Bitcoin accumulation by default. This is the AUSTIN-AUTHORITY worked example |
+| five-year-btc-funding | 2.3 | `(?i)Bitcoin can remain part of the funding plan` | master,script,lesson-text,module,visual | Austin's 2026-08-26 ruling; no fixed percentage is implied |
 | not-applicable-complete | file:MODULE-CHECKPOINTS.md | `(?i)not applicable` | file | "Not applicable is a completed line" is the rule that makes the checkpoint system work |
 
 ## MUST NOT — positions that were reverted

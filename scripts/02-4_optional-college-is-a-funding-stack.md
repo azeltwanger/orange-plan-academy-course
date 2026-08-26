@@ -38,7 +38,7 @@ Then that number gets divided among six sources: what's already in the 529, new 
 
 That third one is the one people forget. Cash flow while they're enrolled is a funding source, and for a lot of families it's a big one.
 
-Not every family uses all six. The point is that college does not have to be solved entirely with money you saved before freshman year. A complete plan might be: the parents provide the existing 529, add a fixed amount from annual cash flow, the student applies for aid and works summers and takes a defined amount of federal loans, and Bitcoin covers part of the rest if the price and the tax situation work out.
+Not every family is going to use all six. A family might use the existing 529, add a fixed amount from annual cash flow, have the student apply for aid and work summers, set a limit on federal loans, and use Bitcoin for part of the remaining cost if the price and tax situation make sense. So college does not have to be solved entirely with money you saved before freshman year.
 
 That is a finished plan. It is not a failure because the 529 doesn't equal four years of sticker price.
 
@@ -46,9 +46,9 @@ That is a finished plan. It is not a failure because the 529 doesn't equal four 
 
 Now the part that matters most for you.
 
-The goal is not to stop buying Bitcoin for seven years because your child may go to college.
+I would not automatically pause Bitcoin purchases for seven years because your child may go to college.
 
-The goal is to make sure the amount you have firmly promised does not depend entirely on Bitcoin being at a favorable price on the exact day tuition is due.
+What I would do is protect the amount you have firmly promised so that portion does not depend entirely on Bitcoin being at a favorable price when tuition is due.
 
 Those are very different things, and the difference is most of this lesson.
 

@@ -51,7 +51,7 @@ Possible moves include:
 
 A common shortcut is "fill the bracket and stop."
 
-That is too simple.
+I think that leaves out too many of the other costs that can change at the same time.
 
 A conversion or gain can also change:
 

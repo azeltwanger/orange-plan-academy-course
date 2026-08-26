@@ -159,7 +159,7 @@ That does not make the entire strategy tax-free.
 
 Interest accrues. The loan can be liquidated. A lender sale of collateral is a taxable disposition. Debt cancellation can create income. The lender and custody structure add risks that have nothing to do with the tax code.
 
-The tax comparison therefore cannot stop at "loan proceeds are not taxable."
+So I would not stop the tax comparison at "loan proceeds are not taxable."
 
 It has to include:
 
@@ -193,7 +193,7 @@ So an outright taxable Bitcoin holding may receive a basis adjustment under curr
 
 A common shortcut compares a 15% capital-gain rate with a 10% loan rate and picks the smaller number.
 
-That is the wrong comparison.
+I think that comparison leaves out how long you carry the loan and what happens if Bitcoin falls.
 
 The tax applies to the gain portion once. Interest applies to the loan balance over time, may compound, and may or may not be deductible. A forced sale can add tax later. The Bitcoin sold in path one and the Bitcoin pledged in path two also experience different future paths.
 

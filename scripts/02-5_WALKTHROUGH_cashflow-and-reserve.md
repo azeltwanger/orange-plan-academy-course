@@ -175,6 +175,6 @@ Before leaving the walkthrough, return to **Build Your Plan → Cash flow & rese
 
 **DO** Plan → Retirement → Life events → Add event.
 
-Add the dated expenses or income changes you genuinely expect. If there is nothing major coming, return to Build Your Plan and choose **Nothing major coming** rather than leaving the area ambiguous.
+Add the dated expenses or income changes you genuinely expect. For a cost five or more years away, say which part can still depend on Bitcoin and which part you have firmly committed to protect in Bridge as the date gets closer. If there is nothing major coming, return to Build Your Plan and choose **Nothing major coming** rather than leaving the area ambiguous.
 
-⚠ Life events are expected changes. Hypothetical questions stay in Scenarios.
+⚠ Life events are expected changes. Hypothetical questions stay in Scenarios. The life event holds the cost; Allocation holds the protected Bridge amount.

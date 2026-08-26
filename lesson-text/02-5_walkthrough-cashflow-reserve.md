@@ -18,4 +18,8 @@ Follow along with the video (~15 minutes). Have 2–3 months of transactions ava
 9. **AI review: Cash Flow & Reserve**: it reviews and explains; it doesn't decide.
 10. **AI review: spending calibration**: from Accounts → Spending tab, when synced spending disagrees with your Living number.
 
+## Future-cost handoff
+
+For a cost five or more years away, Bitcoin can remain part of the funding plan. Record the full expected cost as a life event, then identify the amount you have firmly committed to protect in Bridge as the date approaches. The life event and the funding container are two separate entries.
+
 **Done when:** positive surplus, every stream listed, Living ≠ paycheck, reserve basis on Bare-bones with no warning, shield on, reserve first in the waterfall.

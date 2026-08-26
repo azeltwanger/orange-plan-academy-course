@@ -67,7 +67,7 @@ The common scam asks you to act before you verify.
 
 "Support needs remote access."
 
-The response is always the same.
+When you get one of these messages, stop before you do anything.
 
 Stop. Close the message. Navigate to the provider through a known bookmark or official channel. Verify on another device or with another person. Never reveal recovery material.
 
@@ -75,7 +75,7 @@ No legitimate support person needs the wallet backup, private key, passphrase, o
 
 == PHYSICAL AND SOCIAL EXPOSURE ==
 
-Privacy is part of custody.
+Who knows the amount, location, or exact setup is also part of your custody risk.
 
 The more people who know the amount, location, or exact setup, the larger the coercion and social-engineering surface.
 

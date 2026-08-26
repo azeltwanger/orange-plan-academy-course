@@ -58,7 +58,7 @@ Privacy can improve because a trust instrument is not automatically filed like a
 
 An irrevocable trust can change ownership, control, estate inclusion, income taxation, creditor exposure, and basis.
 
-None of those results happens automatically.
+The trust only produces those results when the documents, funding, retained powers, and state law actually support them.
 
 The effect depends on:
 

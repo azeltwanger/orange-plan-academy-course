@@ -400,23 +400,16 @@ Not a reason to reject the proposal. A condition on accepting it.
 Raised while repairing the layer disagreements found in the repo audit. F20 and
 F21 are new. F22 supersedes F12. F23 records a structural consequence.
 
-### F20 · The 7-to-10-year funding lane is unstated
+### F20 ✅ RESOLVED · Bitcoin can remain part of funding five years out
 
-The rebuilt 2.3 dictation names four lanes: **0–1 · 1–3 · 3–7 · 10+**. Nothing is
-said about **7 to 10 years**.
+**Austin's ruling, 2026-08-26:** *"yes Bitcoin can remain part of funding 5 years out."*
 
-The retired table closed that gap by running "no Bitcoin" all the way through ten
-years. The new dictation narrows the explicit no-Bitcoin statement to 3–7, and
-picks up again at 10+. So a cost seven and a half years out currently has no
-stated lane.
+The course now treats five years as a transition rather than an automatic all-cash cutoff. Bitcoin may remain one source in the funding plan. The amount the household has firmly committed to and cannot afford to miss becomes less dependent on Bitcoin as the date approaches. By one to two years out, the committed amount should not depend on Bitcoin cooperating.
 
-**Not resolved here.** Extending "no Bitcoin" to ten would be re-imposing the
-table Austin replaced; starting the Bitcoin schedule at seven would be loosening
-a rule he kept. Both are planning judgments. The master, the lesson text and the
-`2-3_cost-lanes` visual all render the lanes exactly as spoken, with the gap
-visible.
+No fixed Bitcoin percentage was invented. Bitcoin can remain in Legacy while planned sales build the protected amount in Bridge. This resolves the 7-to-10-year gap without relabeling Bitcoin as a Bridge holding.
 
-**One sentence at the mic settles it.** Austin: what happens between 7 and 10?
+Source: `source-material/2026-08-26-f20-and-voice-pass.md`.
+
 
 ### F21 · An inserted section in 1.3 — "Where the numbers come from"
 

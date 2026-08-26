@@ -18,7 +18,6 @@ The old blanket CPA/custody/insurance/attorney **before recording** rule is reti
 
 ## Austin dictation still required
 
-- **F20:** the 7-to-10-year future-cost lane.
 - **F22:** the next-dollar default order, overrides, and deliberate-split rule.
 
 The prompts remain in `DICTATION-PICKUPS.md`.

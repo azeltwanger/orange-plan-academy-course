@@ -177,9 +177,7 @@ The executor has accepted, the provider-held beneficiary records were reviewed, 
 
 In today's lesson, we're going to test whether one person can spend alone and whether one loss can permanently block recovery.
 
-Those are different failures.
-
-Dual control answers the first. Redundancy answers the second.
+These are two different questions. Dual control tells you whether one person can spend alone. Redundancy tells you whether one loss can stop recovery.
 
 ### Test one: can one person spend alone?
 
@@ -279,9 +277,7 @@ Which of the two tests the setup passes, which one it fails, and whether the acc
 
 ### Put it in orange plan
 
-Protect records the level, recovery-test status, and process completion.
-
-The secret distribution stays off-app.
+Protect records the level, recovery-test status, and process completion. Keep the seed, passphrase, key distribution, and exact storage locations out of the app.
 
 ### You are done when
 
@@ -357,8 +353,6 @@ The heir letter points the family to that map.
 The executor packet explains the legal and tax order.
 
 The wallet-specific recovery instructions live in the controlled recovery package appropriate to the setup.
-
-Three documents, three jobs.
 
 ### The dead man's switch
 

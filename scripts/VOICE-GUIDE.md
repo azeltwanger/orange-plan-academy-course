@@ -17,6 +17,31 @@ Every script conversion is checked against this, not against "good writing."
 full lesson (2026-08-04). Every conversion matches THAT, not this guide's
 abstractions. When guide and dictation disagree, the dictation wins.
 
+## Additional calibration from the 2026-08-25 dictation
+
+Source: `source-material/2026-08-25-module-0-1-dictation.md`, reinforced by
+`source-material/2026-08-26-f20-and-voice-pass.md`.
+
+The newer dictation adds a five-part pattern that outranks polished prose:
+
+1. **Say what the thing means in plain language.** Austin explains cost basis as
+   the purchase history and price paid before using the tax term.
+2. **Explain why it changes the plan.** He connects the input to taxes,
+   retirement date, spending, or the decision downstream instead of announcing
+   that it is important.
+3. **Tell the viewer where the real information comes from.** Log in, check the
+   current rate, download the CSV, pull the pay stub, or open the employer plan.
+4. **Use a concrete example and then restate the decision.** Useful repetition
+   stays when the second version makes the action clearer.
+5. **Preserve optionality.** "If you'd rather gather it as you go, that's totally
+   fine" is Austin's voice. Do not turn a preferred workflow into a universal
+   command.
+
+Do not imitate transcription errors, false starts, repeated navigation, or math
+errors. The teach lesson explains the decision. The walkthrough performs the
+clicks. When the source itself asks whether a click path is duplicated, remove
+it from the teach lesson rather than reading the same instructions twice.
+
 ## Dictation-derived rules (diffed against the same content written by AI)
 
 - **Opener:** "In today's lesson, we're going to cover [thing]." Then optionally

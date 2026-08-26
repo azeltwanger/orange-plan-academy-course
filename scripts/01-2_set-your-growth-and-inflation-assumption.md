@@ -70,7 +70,7 @@ If we were to set Bitcoin's returns at a flat 40% forever, this might land their
 
 That's a difference of eight years from one input changing.
 
-This is why it's important to think through what you personally feel is a conservative and realistic way to model Bitcoin in the future. The goal isn't to choose the model that gives you the earliest date. The goal is to choose the model you can defend.
+This is why I think you need to choose a conservative and realistic way to model Bitcoin in the future. I would not choose the model just because it gives you the earliest retirement date. I would choose the one you could defend if you were explaining it to a family member or a friend.
 
 == THE FOUR BITCOIN MODELS ==
 

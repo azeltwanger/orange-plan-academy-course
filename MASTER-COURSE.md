@@ -13,7 +13,7 @@ then M1–M9) in course order. The optional library lives in `MASTER-ADVANCED.md
 <!-- METRICS:START -->
 | | Lessons | Runtime |
 |---|---|---|
-| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **217 min (3.6 h)** |
+| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **218 min (3.6 h)** |
 | **Advanced Library** — optional, gated per lesson | 14 teach | 83 min |
 
 Plus 11 core screen captures (10 walkthroughs + 1 external demo),
@@ -169,7 +169,7 @@ Austin
 
 In today's lesson, we're going to walk through how to actually use the AI inside Orange Plan.
 
-The useful question is not everything the AI cannot do. It is how it can help you understand and improve the financial plan you are building.
+I want to focus this lesson on how the AI can help you understand and improve the financial plan you are building.
 
 ### Start with AI Review
 
@@ -202,7 +202,7 @@ The app does the calculations. The AI reads those results and explains them. Whe
 
 Inside Plan Guide, under **Market brief**, click **Run daily Bitcoin report**.
 
-The goal is to replace doomscrolling with one clean read that takes less than two minutes. It checks the parts of the Bitcoin market that are actually worth following:
+I use this so I can get one clean read of the market without checking five different places. It should take less than two minutes and cover the parts of the Bitcoin market that are actually useful for the plan:
 
 - the current price and the move over 24 hours, 7 days, 30 days, and one year
 - how far Bitcoin is from its prior all-time high
@@ -235,7 +235,7 @@ You can also ask it to find blind spots. A useful review may surface:
 - a decision that was previewed but never applied
 - a result that is stale because the inputs changed afterward
 
-The goal is not to have the AI make every decision for you. The goal is to understand what the plan is showing, what is missing, and which trade-off you are accepting before you act.
+I would not use the AI to make every decision for you. I would use it to understand what the plan is showing, find information that is missing, and think through the trade-off before you make the decision yourself.
 
 ### Use your preferred AI
 
@@ -446,7 +446,7 @@ If we were to set Bitcoin's returns at a flat 40% forever, this might land their
 
 That is a difference of eight years from one input changing.
 
-This is why it is important to think through what you personally feel is a conservative and realistic way to model Bitcoin in the future. The goal is not to choose the model that gives you the earliest date. The goal is to choose the model you can defend.
+This is why I think you need to choose a conservative and realistic way to model Bitcoin in the future. I would not choose the model just because it gives you the earliest retirement date. I would choose the one you could defend if you were explaining it to a family member or a friend.
 
 ### The four Bitcoin models
 
@@ -1001,14 +1001,7 @@ Your reserve target is set **in months of spending**, the app shows how many mon
 > three contradicted the current dictation. College moved to its own optional
 > lesson at 2.4.
 >
-> 🔴 **FILMING BLOCKER (F20) — the 7-to-10-year band is unstated.** The dictation
-> names 0–1, 1–3, 3–7 and 10+. Nothing is said about 7 to 10. The retired table
-> closed that gap by running "no Bitcoin" through ten years; the new dictation
-> does not, so a cost seven and a half years out has no stated lane. **Austin
-> settles it in one sentence at the mic, and it has to be settled before this
-> lesson is filmed** — the lane table is on screen while he speaks. Not resolved
-> here: extending "no Bitcoin" to ten re-imposes the table he replaced, and
-> starting Bitcoin at seven loosens a rule he kept. See `AUTHORITY-FLAGS.md`.
+> ✅ **F20 RESOLVED BY AUSTIN, 2026-08-26.** Bitcoin can remain part of a funding plan five years out. The protected amount becomes less dependent on Bitcoin as the date approaches; no fixed percentage was invented. Source: `source-material/2026-08-26-f20-and-voice-pass.md`.
 
 **By the end of this lesson, you can:**
 
@@ -1042,13 +1035,14 @@ The lane depends on how far away the cost is. The further out it is, the more vo
 | Timeframe | Where the money sits | Not here |
 |---|---|---|
 | 0 to 1 year | High-yield savings, T-bills, CDs. Treat it like part of the reserve | Anything volatile |
-| 1 to 3 years | Short-term Treasuries, HYSA | Stocks, Bitcoin — not enough time to recover from a bad draw right before the bill |
-| 3 to 7 years | A balanced mix of stocks and bonds, or an I-Bond ladder | Bitcoin |
-| 10+ years | A planned Bitcoin sell schedule can start to make sense here | Cash — the drag over that long costs more than the volatility would |
+| 1 to 3 years | Short-term Treasuries, HYSA | Stocks or Bitcoin for the committed amount |
+| 3 to 5 years | Start moving the firmly committed portion into a less-volatile Bridge mix | Letting the whole commitment depend on Bitcoin |
+| 5 to 10 years | Bitcoin can remain part of the funding plan while the protected portion grows in Bridge | Automatically moving the entire future expense to cash at year 5 |
+| 10+ years | A planned Bitcoin sell schedule can fund a larger part of the cost | Holding the entire long-term target in cash |
 
-> 🔶 F20: the 7-to-10 band is not addressed in the dictation. Left as spoken.
+Bitcoin can remain in the Legacy funding source. The amount you cannot afford to miss moves into Bridge as the date gets closer. By the time the committed money is needed in one or two years, that amount should no longer depend on Bitcoin cooperating.
 
-For 10+ year costs, plan the sales into low-bracket years — the years when your income is small enough that the tax rate on those sales is low. Module 5 shows you how to find yours.
+For costs funded partly from Bitcoin, plan sales into low-bracket years when practical. Module 5 shows you how to find those years.
 
 ### Pre-funding versus paying from flow
 
@@ -1172,15 +1166,15 @@ That remaining net cost divides among six sources:
 5. A limited amount of student borrowing
 6. Whatever's left unfunded
 
-Not every family uses all six. **College does not have to be solved entirely with money you saved before freshman year.** A complete plan might be: the parents provide the existing 529, add a fixed amount from annual cash flow, the student applies for aid and works summers and takes a defined amount of federal loans, and Bitcoin covers part of the rest if the price and the tax situation work out.
+Not every family is going to use all six. A family might use the existing 529, add a fixed amount from annual cash flow, have the student apply for aid and work summers, set a limit on federal loans, and use Bitcoin for part of the remaining cost if the price and tax situation make sense. So college does not have to be solved entirely with money you saved before freshman year.
 
 That is a finished plan. It is not a failure because the 529 doesn't equal four years of sticker price.
 
 ### Where Bitcoin fits, and where it doesn't
 
-**The goal is not to stop buying Bitcoin for seven years because your child may go to college.**
+**I would not automatically pause Bitcoin purchases for seven years because your child may go to college.**
 
-The goal is that the amount you have *firmly promised* does not depend entirely on Bitcoin being at a favorable price on the exact day tuition is due.
+What I would do is protect the amount you have *firmly promised* so that portion does not depend entirely on Bitcoin being at a favorable price when tuition is due.
 
 Those are very different things, and the difference is most of this lesson. It moves over time:
 
@@ -2556,7 +2550,7 @@ If the identified units come from lot one, the basis is $7,500 and the gain is $
 
 If the identified units come from lot two, the basis is $15,000 and the gain is $10,000.
 
-Same sale proceeds. Different identified units. Different gain.
+The sale proceeds are the same, but the gain changes because the Bitcoin came from a different lot.
 
 That is why "I own 1.75 Bitcoin" is not enough information for a tax plan.
 
@@ -2586,7 +2580,7 @@ That is why the useful record connects three things: the acquisition record, the
 
 ### Reconstructing what is missing
 
-Start with contemporaneous records.
+Start with the records that were created when the transactions happened.
 
 Download every exchange and brokerage export you can still access. Pull confirmations, old tax files, bank or card statements, email receipts, and wallet transaction history. Match withdrawals and deposits between your own accounts so a transfer is not mistaken for a sale or a new purchase.
 
@@ -2608,7 +2602,7 @@ For planning, a zero-basis assumption can show the conservative tax exposure if 
 
 But do not confuse that stress test with a legal conclusion that the asset definitely has zero basis. And do not invent a number merely to avoid zero.
 
-The honest plan labels what is known, what is estimated, and what is still unproven.
+So in the plan, label what is known, what is estimated, and what is still unproven.
 
 ### What clean basis unlocks
 
@@ -2716,7 +2710,7 @@ Possible moves include:
 
 A common shortcut is "fill the bracket and stop."
 
-That is too simple.
+I think that leaves out too many of the other costs that can change at the same time.
 
 A conversion or gain can also change:
 
@@ -3660,7 +3654,7 @@ Fourth: how much operational complexity will you actually maintain?
 
 Fifth: can somebody else follow the recovery process without improvising or learning Bitcoin during a crisis?
 
-The answer is not the most impressive setup. It is the one you can prove.
+I would choose the simplest setup you can actually prove works.
 
 ### Level 1: hardened institution
 
@@ -3682,7 +3676,7 @@ The recovery material may be a BIP39 mnemonic, another single backup, or a suppo
 
 The hardware wallet is replaceable. The recovery material and any required passphrase or wallet information are the durable pieces.
 
-This is simple enough for many households to maintain well. The trade-off is concentration: one sufficient backup can authorize the wallet, and one missing required element can block recovery.
+I think this is simple enough for a lot of households to maintain well. The risk is that one complete backup can authorize the wallet, and one missing required piece can also block recovery.
 
 ### Level 3: added separation
 
@@ -3734,7 +3728,7 @@ Do not put a backup, seed, passphrase, PIN, private key, descriptor, or exact st
 
 ### You are done when
 
-The level matches today's amount and family, the trade-off is stated honestly, and the exact setup has a recovery test appropriate to it—not merely a belief that it works.
+The level fits the amount and your family, you can explain the risk you accepted, and you have actually tested the recovery process instead of assuming it works.
 
 
 ## 7.2 Set up a hardware wallet and test recovery
@@ -3781,7 +3775,7 @@ If a passphrase is enabled, the backup without the exact passphrase derives a di
 
 ### Verify the backup before moving a meaningful amount
 
-Use this order.
+I would test it in this order.
 
 First, use the manufacturer's backup-check feature when one exists. That checks the recorded backup without destroying the working setup.
 
@@ -3847,7 +3841,7 @@ Which recovery proof this setup will use: manufacturer backup check, spare-devic
 
 Protect → Security checklist. Mark the recovery test complete only after the intended wallet was recovered and verified.
 
-Record no secrets in the app.
+Do not record any seed words, passphrases, PINs, private keys, or backup contents in the app.
 
 ### You are done when
 
@@ -3932,7 +3926,7 @@ The common scam asks you to act before you verify.
 
 "Support needs remote access."
 
-The response is always the same.
+When you get one of these messages, stop before you do anything.
 
 Stop. Close the message. Navigate to the provider through a known bookmark or official channel. Verify on another device or with another person. Never reveal recovery material.
 
@@ -3940,7 +3934,7 @@ No legitimate support person needs the wallet backup, private key, passphrase, o
 
 ### Physical and social exposure
 
-Privacy is part of custody.
+Who knows the amount, location, or exact setup is also part of your custody risk.
 
 The more people who know the amount, location, or exact setup, the larger the coercion and social-engineering surface.
 
@@ -4431,9 +4425,7 @@ The executor has accepted, the provider-held beneficiary records were reviewed, 
 
 In today's lesson, we're going to test whether one person can spend alone and whether one loss can permanently block recovery.
 
-Those are different failures.
-
-Dual control answers the first. Redundancy answers the second.
+These are two different questions. Dual control tells you whether one person can spend alone. Redundancy tells you whether one loss can stop recovery.
 
 ### Test one: can one person spend alone?
 
@@ -4533,9 +4525,7 @@ Which of the two tests the setup passes, which one it fails, and whether the acc
 
 ### Put it in orange plan
 
-Protect records the level, recovery-test status, and process completion.
-
-The secret distribution stays off-app.
+Protect records the level, recovery-test status, and process completion. Keep the seed, passphrase, key distribution, and exact storage locations out of the app.
 
 ### You are done when
 
@@ -4611,8 +4601,6 @@ The heir letter points the family to that map.
 The executor packet explains the legal and tax order.
 
 The wallet-specific recovery instructions live in the controlled recovery package appropriate to the setup.
-
-Three documents, three jobs.
 
 ### The dead man's switch
 

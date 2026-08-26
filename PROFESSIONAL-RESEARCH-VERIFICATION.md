@@ -15,7 +15,7 @@
 - Unsafe or overstated claims removed from spoken, master, student, walkthrough, and generated module layers.
 - Blanket professional-before-recording gates replaced with targeted operational or publication signoffs.
 - Austin's original dictation source remains retained and unchanged.
-- F20 and F22 remain the only Austin dictation blockers.
+- F20 is resolved by Austin's five-year funding ruling. F22 remains the only Austin dictation blocker.
 
 ## Generation
 

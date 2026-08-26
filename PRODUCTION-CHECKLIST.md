@@ -6,7 +6,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 <!-- STATUS:START -->
 
-> **Status: NOT CLEARED FOR FILMING — 2 filming blockers.**
+> **Status: NOT CLEARED FOR FILMING — 1 filming blocker.**
 >
 > The word FINAL is generated, not typed. It appears only when the
 > filming list below is empty. Each line is a marker found in the layer
@@ -14,7 +14,6 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 >
 > ### 🔴 CORE FILMING BLOCKERS
 >
-> - **2.3** (F20) — `MASTER-COURSE.md`
 > - **4.3** (F22) — `MASTER-COURSE.md` · `scripts/04-3_order-your-contributions-which-account-g.md`
 >
 > ### 📋 PROFESSIONAL REVIEW GATES — outstanding
@@ -81,7 +80,7 @@ Work top to bottom, one module at a time. Per module: review scripts → film al
 
 ☐ 2.1 Find your surplus and your two spending numbers — 🎙 film (~11 min)
 ☐ 2.2 Size your cash reserve in months of spending — 🎙 film (~12 min)
-☐ 2.3 Fund a known future cost: the six questions — 🎙 film (~8 min)  🔴 BLOCKED — see status block above
+☐ 2.3 Fund a known future cost: the six questions — 🎙 film (~8 min)
 ☐ 2.4 Optional: college is a funding stack — 🎙 film (~8 min)
 ☐ 2.5 Walkthrough: build cash flow and reserve in Orange Plan — 🖥 capture
 ☐ Paste the Module 2 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")

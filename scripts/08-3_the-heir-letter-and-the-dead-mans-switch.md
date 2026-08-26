@@ -62,8 +62,6 @@ The executor packet explains the legal and tax order.
 
 The wallet-specific recovery instructions live in the controlled recovery package appropriate to the setup.
 
-Three documents, three jobs.
-
 == THE DEAD MAN'S SWITCH ==
 
 A dead man's switch can send a message after missed check-ins.

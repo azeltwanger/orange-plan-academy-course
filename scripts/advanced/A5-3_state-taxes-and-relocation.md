@@ -18,9 +18,7 @@ Do not freeze one example rate into the video. The current rate, deduction, cred
 
 == THE SALE DATE IS NOT THE WHOLE RESIDENCY TEST ==
 
-The course used to imply that the state where you live in the year of sale is the whole answer.
-
-It is not.
+The course used to imply that the state where you live in the year of sale is the whole answer. That leaves out a lot of the actual residency rules.
 
 States can look at domicile, statutory residency, days in the state, the location of a home, family and business ties, part-year residency, source income, community-property rules, and the ownership structure involved.
 
@@ -35,9 +33,7 @@ That makes the order important:
 
 == PRICE THE WHOLE MOVE ==
 
-State income tax is one line.
-
-Also price:
+Then I would price the rest of the move too:
 
 - housing and property tax;
 - insurance;

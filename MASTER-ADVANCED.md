@@ -606,7 +606,7 @@ That can be useful, but it is not a reason to time the market with taxes. The ta
 
 The course used to frame the decision as filling a bracket without spilling into the next one.
 
-That is only the first pass.
+I think that leaves out too many of the other costs that can change with the conversion.
 
 A conversion can also affect Marketplace credits, the taxable portion of Social Security, Medicare IRMAA, NIIT, capital-gain room, state tax, deductions, and credits.
 
@@ -812,9 +812,7 @@ Do not freeze one example rate into the video. The current rate, deduction, cred
 
 ### The sale date is not the whole residency test
 
-The course used to imply that the state where you live in the year of sale is the whole answer.
-
-It is not.
+The course used to imply that the state where you live in the year of sale is the whole answer. That leaves out a lot of the actual residency rules.
 
 States can look at domicile, statutory residency, days in the state, the location of a home, family and business ties, part-year residency, source income, community-property rules, and the ownership structure involved.
 
@@ -829,9 +827,7 @@ That makes the order important:
 
 ### Price the whole move
 
-State income tax is one line.
-
-Also price:
+Then I would price the rest of the move too:
 
 - housing and property tax;
 - insurance;
@@ -1024,7 +1020,7 @@ That does not make the entire strategy tax-free.
 
 Interest accrues. The loan can be liquidated. A lender sale of collateral is a taxable disposition. Debt cancellation can create income. The lender and custody structure add risks that have nothing to do with the tax code.
 
-The tax comparison therefore cannot stop at "loan proceeds are not taxable."
+So I would not stop the tax comparison at "loan proceeds are not taxable."
 
 It has to include:
 
@@ -1058,7 +1054,7 @@ So an outright taxable Bitcoin holding may receive a basis adjustment under curr
 
 A common shortcut compares a 15% capital-gain rate with a 10% loan rate and picks the smaller number.
 
-That is the wrong comparison.
+I think that comparison leaves out how long you carry the loan and what happens if Bitcoin falls.
 
 The tax applies to the gain portion once. Interest applies to the loan balance over time, may compound, and may or may not be deductible. A forced sale can add tax later. The Bitcoin sold in path one and the Bitcoin pledged in path two also experience different future paths.
 
@@ -1152,7 +1148,7 @@ The second answer is that you want part of it. That is what collaborative custod
 
 The third answer is that you do not want the job right now. That is also a real answer. Taking responsibility you will not maintain is not more sovereign. It is just a new way to lose access.
 
-If you do take the job, being a little paranoid is appropriate. You should feel the weight. The goal is not fear. The goal is to build a process strong enough that you do not need to think about it every day.
+If you take the job, I think some caution is appropriate. You should feel the weight of it. Then build a process strong enough that you do not have to think about it every day.
 
 ### Your decision
 
@@ -1236,11 +1232,11 @@ Examples:
 - part self-custody and part institution;
 - separate email, authentication, and recovery paths for custodial accounts.
 
-The goal is not to collect devices. It is to prevent one flaw, provider, credential, household event, or process error from reaching everything.
+I would not add a second device or provider just to have more pieces. I would add it when one flaw, provider, credential, household event, or process error can still reach everything.
 
 ### Your decision
 
-Whether the current amount justifies a second institution or independent signing path—and whether the household can maintain it well.
+Whether the current amount justifies a second institution or independent signing path, and whether the household can maintain it well.
 
 ### Homework
 
@@ -1369,7 +1365,7 @@ You are done when the threshold is tied to current fees and counterparty exposur
 
 In today's lesson, we're going to compare three ways to add separation beyond a single-signature wallet: a passphrase, independent multisig, and collaborative multisig.
 
-The goal is not maximum complexity. It is removing a specific failure without creating a recovery process your family cannot operate.
+I would only add complexity when it removes a specific failure and your family can still operate the recovery process.
 
 ### Start with the two tests
 
@@ -1423,7 +1419,7 @@ The household also needs the wallet policy or descriptor and enough script, deri
 
 A descriptor can reveal wallet structure, public keys, and addresses. Protect it for privacy and back it up for availability.
 
-It cannot sign by itself.
+The descriptor helps reconstruct and watch the wallet, but it cannot sign a transaction by itself.
 
 One signing key stored with the descriptor is still one signing key in a 2-of-3 wallet. The old course incorrectly said that combination quietly created single-key control. It does not.
 
@@ -1433,7 +1429,7 @@ The policy or descriptor can be copied more freely than a signing secret because
 
 Keep redundant copies in places the recovery team can reach. Avoid storing the only policy copy inside one hardware wallet or only with one provider.
 
-The goal is that any intended two-key recovery team can reconstruct the wallet without guessing derivation paths or depending on one company.
+You are done when any two people who are supposed to recover the wallet can do it without guessing derivation paths or depending on one company.
 
 ### Key distribution
 
@@ -1576,7 +1572,7 @@ Privacy can improve because a trust instrument is not automatically filed like a
 
 An irrevocable trust can change ownership, control, estate inclusion, income taxation, creditor exposure, and basis.
 
-None of those results happens automatically.
+The trust only produces those results when the documents, funding, retained powers, and state law actually support them.
 
 The effect depends on:
 
