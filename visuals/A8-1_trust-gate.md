@@ -1,24 +1,40 @@
-# A8.1 · Which trust, once the gate has fired
+# A8.1 · Name the problem before the trust type
 
 **Paste `00-STYLE.md` first, then this.**
 
 ## What it has to make obvious
-That the *whether* question was already answered upstream, and this frame only answers *which kind*. A viewer who has not run the core gate should be able to tell, from the picture alone, that they are in the wrong place.
+That estate-complexity triggers create an attorney question; they do not mechanically select a trust or place a household on an irrevocable path.
 
 ## The visual
-Left third — a compact, dimmed, clearly-upstream block labelled **THE GATE (lesson 8.5)**: nine small trigger chips and a four-step level ladder, with levels 1 and 2 marked "most households stop here — finished". This block is deliberately styled as a *reference to somewhere else*, not as something to interact with here. An arrow leaves it from levels 3–4 only.
+A three-stage decision frame.
 
-Right two-thirds — the fork this lesson actually teaches. The arrow arrives at four **sizing questions**, then splits into two outcome cards:
+### 1 · Conversation triggers
+A compact group of chips: minor/vulnerable beneficiary · blended family · business · multi-state property · incapacity · probate/privacy concern · advanced custody · possible estate tax · fiduciary expected to retain concentrated Bitcoin.
 
-- **Tax problem** → irrevocable side, captioned with its cost: control given up, permanently.
-- **Probate / privacy / succession problem** → revocable trust or a well-drafted will.
+One or more chips illuminate a banner: **ATTORNEY QUESTION EXISTS**. Do not tally the chips or assign a level from the count.
+
+### 2 · Name the actual problem
+Four problem cards:
+- incapacity / probate administration;
+- beneficiary or family-control problem;
+- estate-tax / basis problem;
+- concentrated-asset fiduciary / custody problem.
+
+### 3 · Coordinated answer
+Possible dated outcomes, all shown as valid:
+- core cleanup only;
+- funded revocable-trust discussion;
+- coordinated advanced trust + tax + custody planning;
+- no trust currently indicated.
+
+A bottom rail connects **LEGAL AUTHORITY**, **TAX / BASIS**, and **SIGNING POLICY**. No answer is complete until all three agree.
 
 ## Labels and data
-Upstream block, the nine core triggers: blended family · minor children · multiple heirs · business ownership · heavy Bitcoin concentration · probate or privacy concerns · incapacity planning · property in more than one state · an advanced custody setup somebody has to operate after you. Levels: 1 basic cleanup · 2 local estate plan · 3 trust or coordinated plan · 4 advanced estate, tax and custody planning.
+Revocable avoids probate only for properly titled/assigned assets · irrevocable does not automatically mean outside the estate or creditor-protected · one multisig key does not equal legal control · no universal Bitcoin diversification waiver.
 
-The four sizing questions: near or above the federal exemption? · state estate or inheritance tax? · most of the wealth in a fast-appreciating asset? · could future growth cross the line?
+For concentrated Bitcoin, show the attorney-tool menu as questions: express retention authority · diversification modification · directed trust · special trustee/protector · trustee selection · permitted consent/release procedures.
 
-⚠ **Never render the estate-tax exemption figure**, or any dollar threshold. ⚠ Do not draw a second tally or counting mechanic on the right side — one gate in the course, and it is not this lesson's.
+⚠ Never render a current estate-tax exemption, state threshold, or universal trust-cost figure.
 
 ## Motion
-The upstream block builds first and immediately dims, with levels 1–2 stamping "finished". Only then does the arrow leave from 3–4, the four questions appear, and one of the two outcome cards lights.
+Triggers illuminate the attorney-question banner. The viewer chooses the problem, then the possible outcomes appear without ranking. The three bottom rails lock only when legal, tax, and custody plans align.
