@@ -1,221 +1,336 @@
-# 4.5 · WALKTHROUGH — Route it
+# 4.5 · WALKTHROUGH — Route your surplus and investments
 
-**Screen capture · 11 steps · ~16 min**
+**Screen capture · 17 steps · ~24 min**
 
 > **DO** = click path · **SEE** = point at this · **⚠** = don't get this wrong
 > Narrate in your own words. Nothing here is scripted.
 >
-> **↺ NUMBER FLOW — recall the 1.3 frame once, early, then point at it by name.**
-> **CALCULATED FROM** the surplus Module 2 produced · **EDIT SOURCE** Cash Flow →
-> Routing · **THIS AFFECTS** every bucket balance, how far allocation drifts, and
-> the retirement date. This is the capture where "which account funds this?"
-> actually gets answered — say so.
+> **THE JOB OF THIS WALKTHROUGH:** take the surplus built in Module 2, subtract
+> the Reserve and extra-debt routes chosen in Modules 2 and 3, direct the amount
+> left into real contribution accounts, tell Orange Plan what each account buys,
+> and then make the same changes at the outside institutions that actually move
+> the money.
 
 ---
 
 ## Before you record
 
-- [ ] 401(k) owner has a **salary income source** entered (else Fill to match is disabled)
-- [ ] Contribution settings visible. A deficit demo is valid: rows remain editable while current routing reads $0
-- [ ] Conviction tier + target range from 4.1 written on a card
+- [ ] **F22 is settled.** The demo account amounts and priority order match Austin's final 4.3 next-dollar rule. Do not let the app's current row order silently become the planning philosophy.
+- [ ] Positive current surplus after taxes, living expenses, and minimum debt payments
+- [ ] Reserve has a target and a visible monthly route
+- [ ] At least one debt has an extra-payment route, or all debts deliberately remain on minimums
+- [ ] Demo accounts include the contribution destinations you want to show: 401(k), HSA, IRA, taxable brokerage or Bitcoin, and 529 only if it applies
+- [ ] The 401(k) owner has a salary income source and the real employer-match formula entered
+- [ ] Demo accounts contain at least one existing holding so **Current mix** and **Choose holdings** can be shown honestly
 - [ ] Clean browser, notifications off
 
 ---
 
-## □ 1 · Reality check on Dashboard
+# PART A — start with the amount that actually exists
 
-**DO** Dashboard → expand every account group
+## □ 1 · Read the real surplus
 
-**SEE** Sublines carry tax labels: Pre-Tax · Roth · HSA · Tax-Free · Real Estate
+**DO** Cash Flow → **This month**
 
-**DO** Stale quantity → three-dot → **Edit holding**
+**SEE** *"You have $X/mo left to put to work."*
 
-**DO** Flip the header **$ / ₿ toggle** → read net worth as a Bitcoin number → sit with it → flip back
+**SAY** This is the amount left after income, taxes, living expenses, and minimum debt payments. It is the starting pool, not automatically the amount that gets invested.
 
-**⚠** Everything downstream is decoration if the donut lies. Fix at the source.
-
-**⚠** Neither denomination is wrong. Both are honest. The toggle is app-wide.
+**⚠** A deficit reads *"Spending runs $X/mo ahead of income."* Current routing is $0. Reserve and contribution settings still save, but no money is available to move today.
 
 ---
 
-## □ 2 · What each account holds — the inventory read
+## □ 2 · Read all three waterfall claims
 
-**DO** Strategy → Allocation → scroll to **What each account holds**
+**DO** Cash Flow → **Routing · waterfall order**
 
-**SEE** Every account as a row, with the holdings inside it broken out by asset class: Bitcoin, stocks, bonds, real estate, cash, other
+**SEE** The current monthly flow in order:
 
-**DO** Read DOWN the columns, not across the rows. Those totals are the mix.
+1. **Cash reserve** — the saved monthly build amount while the reserve is below target
+2. **Extra debt** — the extra payments already chosen on the Debt page
+3. **Contributions** — the pool left after the first two claims
 
-**⚠** Say the two things only this view shows: an account is not one asset (a 401(k) is stocks AND bonds), and one asset spreads across accounts.
+**DO** Read the dollars on the right side of all three rows.
 
-**⚠ Layout note, say it out loud:** the timeframes section renders ABOVE this one. Summary at the top, detail below. Doing the work the first time, you start down here.
+**SAY** The contribution pool is calculated. Do not type the original surplus into every account. The number at Step 3 is the total those accounts can share this month.
 
----
+**⚠** Step 2 is managed on the Debt page and displayed here. It is one setting, not two unrelated numbers.
 
-## □ 3 · Three timeframes + badges
-
-**DO** Strategy → Allocation → **Funding your timeframes**
-
-**SEE** Three rows: **Reserve** (now) · **Bridge** (before 59½) · **Legacy** (long) — each badged **Funded** or **Behind**
-
-**SEE** Strip above: *"Assigned accounts · projected"* vs *"Projected values"* (= not sorted yet, the numbers are a preview)
-
-**⚠ A badge is information, not an order.** Say this plainly, because Behind *looks* like a command and it isn't one. It means the app compared what you've assigned against what you told it you'd need. It does not mean stop everything and fill that bucket before another dollar goes anywhere else.
-
-**⚠** Reserve Behind is the one closest to an instruction, because a thin reserve is what forces a sale at the worst possible moment. That's rung 1 for a reason. Bridge Behind and Legacy Behind are prompts to make a decision, not to drain the surplus into one row. Where the accounts naturally sit: Bridge → taxable, HSA, 529 · Legacy → retirement wrappers.
-
-**⚠** What Behind should actually trigger for a dated expense: decide **what you're really committing to provide**, what's already saved, what future cash flow covers, what could reasonably be financed, what might come from Bitcoin or other investments, and what portion has to stop depending on Bitcoin's price as the date gets close. That's the work. "Fill the bucket first" is not the work.
-
-**⚠ The classic misfit:** Reserve Behind + Legacy Funded = a volatile long-term asset doing bucket-1 work.
+**⚠** If Reserve uses the whole current surplus, Contributions correctly reads $0. You can still save the future contribution plan now.
 
 ---
 
-## □ 4 · Sort accounts into buckets
+# PART B — decide what the money is meant to own and when it is needed
 
-**DO** Funding your timeframes → **Assign accounts** → dialog *"Sort accounts into buckets"*
+## □ 3 · Verify the current portfolio
 
-**DO** Drag: cash → Reserve · earmarked brokerage/529 → Bridge · HSA → Bridge (or Legacy if used Roth-like) · 401(k)/IRA/Roth → Legacy · Bitcoin → Legacy
+**DO** Dashboard → expand each account group
 
-**SEE** Footer counter: *"N accounts still unsorted"* → **"All accounts sorted"**
+**SEE** Real accounts and holdings from Foundation. Fix a stale holding before using the mix as a routing input.
 
-**DO** **Done** → watch the Funded/Behind badges update live
+**DO** Flip the header **$ / ₿** toggle once, then return to dollars.
 
----
-
-## □ 5 · Save your target mix
-
-**DO** Allocation → Your target mix → **Edit targets / Set target mix**
-
-**SEE** Presets: Bitcoin-forward · Balanced · Conservative · Build your own
-
-**⚠** Pick the tier you can defend, not the one you want.
-
-**⚠** Must read **✓ 100% allocated** or it won't save.
-
-**DO** Set the **drift band** (*"Flag drift beyond ±_%"*, default ±5) → **Save target**
-
-**⚠** Pick a drift number you'd actually act on.
-
-**SEE** Note on screen: *"You don't assign accounts here…"* — the app records YOUR number, it doesn't prescribe one.
+**⚠** The routing plan compounds whatever is already entered. If the account or holding inventory is wrong, the projection will route new money into the wrong starting portfolio.
 
 ---
 
-## □ 6 · How the target gets used
+## □ 4 · Read what each account holds
 
-**DO** Stay on Your target mix
+**DO** Strategy → Allocation → **What each account holds**
 
-**⚠** New savings with no named holding route by this target. Change the target and the plan re-solves. The number you just saved runs the waterfall from tomorrow forward.
+**SEE** Each account row broken into Bitcoin, stocks, bonds, real estate, cash, and other.
 
----
-
-## □ 7 · Configure the 401(k) row — SLOW DOWN
-
-**DO** Cash Flow → Routing → Step 3 Contributions → 401(k) row
-
-**SEE** Mode pill: fixed / fill to match / max / leftover
-
-**DO** Mode → **Fill to match**
-
-**SEE** *"targets $X/yr"* · beside it the annual limit / *"· at annual limit"*
-
-**DO** Match fields: Match rate _% · up to _% of pay
-
-**SEE** *"captures $X/mo"*
-
-**⚠** Greyed *"Fill to match is off"* names the missing prerequisite — a salary source, or the match fields.
-
-**DO** Tax treatment: Traditional / Split / Roth
-
-**⚠** Two questions, in order: can it hold what I want to own → which wrapper treats it best.
-
-**DO** How it invests: Current mix / Set mix / Choose holdings (+ Add holding tags *"· new holding"*)
-
-**⚠** Missing account type → **+ Add account type** at the bottom.
-
-**DEFICIT CHECK** If current cash flow is negative, save a planned amount anyway. The row shows $0 routed now, preserves the target, and the projection can fund it in a later surplus year after earlier waterfall steps.
+**SAY** An account is a wrapper, not an asset. A 401(k) can contain several asset classes, and one asset can live in several account types.
 
 ---
 
-## □ 8 · Route with AI
+## □ 5 · Assign the three timeframes
 
-**DO** Routing section header → **Route with AI**
+**DO** Allocation → **Funding your timeframes** → **Assign accounts**
 
-**SEE** Message *"Route my next dollar"* · asks: current available amount, or test a different amount?
+**DO** Sort accounts into:
 
-**⚠** Worth running when you are comparing planned amounts, even if the current month routes $0. Keep the distinction clear: planned target versus money available now.
+- **Reserve** — money available now
+- **Bridge** — money for intermediate goals and the years before other income or accounts are available
+- **Legacy** — long-duration growth money
 
----
+**SEE** **Funded** or **Behind** update after the assignments save.
 
-## □ 9 · Compare in Scenarios
+**⚠** A Behind badge is information, not an automatic order to pour every dollar into one bucket.
 
-**DO** Scenarios → **Custom scenario** → save the current setup (lands under Your scenarios)
+**⚠** Bitcoin normally remains a Legacy holding. For a known cost five to ten years away, Bitcoin may still be part of the funding source, but the portion the household has firmly committed to provide should become less dependent on Bitcoin as the date approaches. The life event holds the cost; Bridge holds the protected amount; Bitcoin can remain the Legacy source until a planned sale moves dollars into Bridge.
 
-**DO** Run **What if... → Bear Market** (BTC −60%, stocks −40%, 3-yr recovery)
-
-**⚠** Ask the stress question on camera: could you sit through this and do nothing? If no, lower the target back in step 4 and re-run.
-
----
-
-## □ 10 · Review portfolio (AI)
-
-**DO** Strategy → Allocation → **Review portfolio** (page header)
-
-**SEE** Its question IS the module: *"What would force you to sell investments during a deep Bitcoin drawdown?"*
-
-**DO** Answer out loud
-
-**⚠** If the answer is "a lifestyle expense I forgot to fund," the fix is Reserve/Bridge, not the mix.
-
-**⚠** It won't tell you what your Bitcoin % should be.
+**⚠** Cash sitting in a ten-plus-year Legacy job loses purchasing power. A volatile asset expected to pay a fixed bill soon creates the opposite mismatch.
 
 ---
 
-## □ 11 · Confirm the record
+## □ 6 · Save the target mix and drift band
 
-**DO** Back to Your target mix
+**DO** Allocation → **Your target mix** → **Edit targets / Set target mix**
 
-**SEE** Target + drift band saved — your number, on the record
+**SEE** Presets plus Build your own.
 
-**SEE** Waterfall order Reserve → Extra debt → Contributions, running monthly
+**DO** Set the asset percentages → confirm **100% allocated** → set the drift band → **Save target**
+
+**SAY** This is the destination for the overall portfolio. The contribution rows later decide which account receives the money and what the new dollars buy inside that account.
+
+**⚠** A target is not an instruction to make a taxable sale today. New contributions can move the portfolio toward it gradually.
 
 ---
 
+# PART C — direct the contribution pool account by account
+
+## □ 7 · Return to the contribution pool
+
+**DO** Cash Flow → Routing → Step 3 **Contributions**
+
+**SEE** The amount available after Reserve and extra debt.
+
+**SAY** We now have all four decisions needed to route it: the amount available, the debt policy, the timeframe needs, and the target mix.
+
 ---
 
-## □ 7b · The three misfits, on their own screen
+## □ 8 · Add every destination that belongs in the plan
 
-*Moved out of the 3.2 teach lesson. These are point-at-the-screen beats, not
-teaching, so they belong here.*
+**DO** Under Contributions → **+ Add account type**
 
-**SEE** Point at each row and name the mistake it would be.
+**SEE** Available planning rows such as 401(k), spouse 401(k), 403(b), 457(b), Roth IRA, Traditional IRA, HSA, Solo 401(k), SEP IRA, SIMPLE IRA, 529, UTMA/UGMA, and taxable brokerage.
 
-**⚠ Bitcoin in the Bridge. Say the rule as a rule, with the number in it:** *"Bitcoin belongs in Legacy. If you're planning to spend your Bitcoin inside of 10 years, then either the bucket is wrong or the plan is wrong."*
+**⚠** **Add account type does not open an account.** It adds a contribution route to the model. The real account should already exist in Foundation, or the learner must open it with the outside provider separately.
 
-**⚠ Then give the why, because a number nobody can defend gets ignored.** A normal Bitcoin cycle is a 70 to 80% drawdown, and recovering from one has taken years, not months. The halving cycle runs about four years. Ten years is roughly two full cycles, which is enough room that no single drawdown can force your hand. Inside ten years you're betting on where you land in a cycle you don't control, with money you've already promised to somebody.
+**DO** Add only the account types the household can actually use.
 
-**⚠ Then head off the misread, in one line:** this is not "never sell Bitcoin before ten years." Module 6 has a 60-year-old selling Bitcoin to fund the year and that plan is right. The difference is **whether a date can force the sale.** A retiree with Reserve and Bridge funded sells from Legacy when it suits them and can wait out a bad year. Bridge money sitting in Bitcoin has a bill with a date on it and no such option. Same asset, opposite exposure.
+---
 
-**⚠ Cash in Legacy.** Cash has no place in a ten-plus-year bucket, because inflation eats it the whole time. A 401(k) sitting in a stable-value fund is exactly this: Bridge risk in a Legacy slot.
+## □ 9 · Set the contribution mode on every row
 
-**⚠ A Reserve that's too small in retirement.** Once you draw income instead of earning it, the Reserve's job becomes sequence-risk protection, not emergencies. It gets bigger, not smaller.
+**DO** Expand each active contribution row.
+
+**SEE** Non-taxable account modes:
+
+- **Custom $/mo** — a planned amount
+- **Fill to match** — calculates the employee contribution needed to capture the entered employer match
+- **Max** — uses the current annual limit shown by the app
+
+**SEE** Taxable brokerage modes:
+
+- **Leftover** — receives the contribution pool remaining after the fixed routes above it
+- **Fixed** — requests a set monthly amount, still capped by available surplus
+
+**DO** Apply Austin's 4.3 policy to the demo household and set the intended mode and amount on every active row.
+
+**⚠ PRODUCT/POLICY CHECK:** The current app processes active fixed contribution rows in the order displayed, then sends the remaining amount to taxable **Leftover**. If total requests exceed the Step 3 pool, later rows show **limited by available surplus**. Before filming, confirm the displayed order can represent the final F22 policy. If not, the app needs a priority or reorder control before this walkthrough is called final.
+
+**⚠** Do not use **Max** merely because the button exists. Max is an amount rule, not proof that the account is the best destination for this household.
+
+---
+
+## □ 10 · Configure the employer plan correctly
+
+**DO** Expand the 401(k), 403(b), or other supported employer-plan row.
+
+**DO** Enter:
+
+- employer match rate
+- match up to % of pay
+- contribution mode
+
+**SEE** **captures $X/mo** and the app's annual target.
+
+**⚠** If **Fill to match** is disabled, read the reason on screen. It needs a salary source for that owner and a complete match formula.
+
+**DO** Set **Tax treatment**: Traditional, Split, or Roth.
+
+**⚠** In the current app, this employee-deferral tax split is shared across 401(k), spouse 401(k), and 403(b) contributions. Employer match is modeled as Traditional. Say that plainly so the learner does not assume every row has an independent Roth setting.
+
+---
+
+## □ 11 · Tell each account how the new money invests
+
+**DO** Inside each contribution row → **How it invests**
+
+**SEE** Three choices:
+
+1. **Current mix** — new modeled contributions follow the holdings mix already in that account
+2. **Set mix** — choose Bitcoin, stocks, bonds, cash, and other percentages; they must total 100%
+3. **Choose holdings** — route percentages to eligible existing holdings, a named new security, or an asset bucket
+
+**DO** Demonstrate all three once, then leave the demo household on the decision that actually matches its plan.
+
+**⚠** **Choose holdings** is still a projection instruction. Adding a named security here does not buy it, create the brokerage position, or verify that the outside plan offers it.
+
+**⚠** A mix that does not total 100% does not save.
+
+**⚠** If an employer plan cannot hold the investment the learner wants, the available funds at that provider control the real implementation. The app route must be adjusted to something the account can actually buy.
+
+---
+
+## □ 12 · Reconcile requested amounts with the pool
+
+**DO** Collapse and read every active row from top to bottom.
+
+**SEE** On the right side of each row:
+
+- the amount actually routed this month
+- **limited by available surplus** when the request cannot be fully funded
+- taxable **Leftover** receiving the remainder
+
+**DO** Add the displayed routed amounts and compare them with the Step 3 Contributions total.
+
+**SAY** Every dollar in the contribution pool should now have one modeled destination. A capped row is not hidden; it tells you the plan is requesting more than current cash flow can support.
+
+**⚠** If the requests are larger than the pool, do not simply ignore the warning. Reduce an amount, change the priority, increase surplus, or deliberately accept that the later route starts only when future cash flow can support it.
+
+---
+
+# PART D — make the plan real outside Orange Plan
+
+## □ 13 · Translate the model into real instructions
+
+**SAY ON CAMERA:** Orange Plan does not move money, change payroll, open accounts, or place trades. It models what should happen. The household now has to create the same instructions at the institutions that actually hold the accounts.
+
+Use the appropriate outside action:
+
+| Route in Orange Plan | Real-world implementation |
+|---|---|
+| 401(k), 403(b), 457(b), payroll HSA | Change the payroll deferral percentage or dollar election with the employer or plan administrator |
+| IRA or taxable brokerage | Set a recurring bank transfer and recurring purchase, or a dated monthly manual purchase |
+| Bitcoin | Set a recurring exchange purchase or a monthly purchase process, plus the custody-transfer rule |
+| 529 | Set the recurring contribution at the state plan or provider |
+| Taxable **Leftover** | Use a monthly sweep after the month closes, or convert it to a conservative fixed recurring amount that the household can reliably fund |
+
+**DO** Show a simple implementation checklist with: account, app amount, provider instruction, investment, start date, and confirmation date.
+
+**⚠** The provider may ask for a percentage of pay rather than the app's monthly dollar amount. Convert the annual target using the household's pay schedule and then verify the first paycheck.
+
+**⚠** Do not film real account numbers, usernames, balances, or personal provider screens. Use a prepared sample or worksheet.
+
+---
+
+## □ 14 · Verify the first real month
+
+**DO** After the first payroll or recurring purchase posts: Dashboard → **Add transaction** / account holding update as appropriate.
+
+**SEE** The real account balance and holding move in the same direction as the saved contribution route.
+
+**DO** Return to Cash Flow → Contributions and compare planned versus what actually happened.
+
+**⚠** A plan setting is not proof that the money moved. The first posted contribution and purchase close the loop.
+
+**⚠** Payroll changes can take a pay cycle. Record the real effective date rather than pretending the first modeled month already happened.
+
+---
+
+# PART E — review and stress-test the finished routing plan
+
+## □ 15 · Route with AI
+
+**DO** Cash Flow → Routing header → **Route with AI**
+
+**SEE** It asks whether to use the current available amount or test a different amount.
+
+**DO** Ask it to review the saved routes against Reserve, debt, Bridge needs, target allocation, and tax wrappers.
+
+**⚠** It reviews the plan; it does not create payroll elections or decide Austin's F22 philosophy.
+
+---
+
+## □ 16 · Stress-test the result
+
+**DO** Scenarios → Custom scenario → save the contribution setup
+
+**DO** Run **Bear Market** or the current deep-drawdown scenario.
+
+**ASK ON CAMERA:** Would this routing plan force the household to stop a contribution, raid the reserve, or sell an investment during the drawdown?
+
+**DO** Strategy → Allocation → **Review portfolio** and answer its forced-sale question.
+
+**⚠** If a forgotten near-term cost is the problem, fix the Reserve or Bridge funding. Do not pretend a different target mix solves a missing cash-flow job.
+
+---
+
+## □ 17 · Confirm the record and the external actions
+
+**DO** Return to Cash Flow → Routing and Strategy → Allocation.
+
+**SEE** All of the following saved:
+
+- Reserve route
+- extra-debt route or deliberate minimum-only decision
+- contribution destinations and modes
+- employer-match inputs
+- employee-deferral tax treatment
+- how each account invests
+- target mix and drift band
+- account timeframe assignments
+
+**CHECK** The outside implementation list is also complete or has dated actions assigned.
+
+**⚠ BUILD YOUR PLAN GAP:** The current Allocation area can show complete after the timeframe assignments and target mix are saved. It does not independently prove that contribution routes or outside automations were completed. The course checkpoint below is the source of truth for this final implementation step until the app adds a dedicated contribution-routing task.
 
 ---
 
 ## □ WRAP — spot check off the screen
 
-- [ ] Donut matches reality
-- [ ] "All accounts sorted"
-- [ ] Every badge read and understood — **three Funded badges is not the finish line.** A Behind badge you have looked at and made a deliberate decision about is a finished item
-- [ ] Nothing Legacy-volatile parked in Bridge money
-- [ ] Mix at 100% with a band you'd act on
-- [ ] "captures $X/mo" shows the FULL match — anything less is free money left on the table
-- [ ] Bear Market survives, and an honest yes to the sit-still question
-
-**⚠** Land the close: the waterfall runs monthly from here. Your job is to fund it, the app does the routing.
+- [ ] The starting surplus is the real amount from Cash Flow
+- [ ] Reserve and extra-debt claims are visible before Contributions
+- [ ] Every usable contribution account has a deliberate mode and amount
+- [ ] The displayed routed amounts add to the Step 3 contribution pool
+- [ ] Any **limited by available surplus** row has been resolved or deliberately deferred
+- [ ] Taxable **Leftover** is understood as a model plus a real monthly-sweep process, not an automatic bank transfer
+- [ ] Every active row has a deliberate **How it invests** choice
+- [ ] Employer match and tax treatment are entered correctly
+- [ ] The target mix totals 100% and the drift band is one the household would act on
+- [ ] Accounts are assigned to Reserve, Bridge, and Legacy
+- [ ] Real payroll, transfer, and purchase instructions have been created outside Orange Plan or assigned a date and owner
+- [ ] The first posted contribution will be verified against the plan
+- [ ] The drawdown scenario does not expose an unfunded near-term need
 
 **END**
 
 <!-- PLAN-LIFECYCLE:MODULE-4 -->
 ### Build Your Plan handoff
 
-Allocation uses the real accounts and holdings entered in Foundation. Return to **Build Your Plan → Allocation** and confirm that the timeframe assignment and saved target mix reflect the decision you made in this module.
+Allocation uses the real accounts and holdings entered in Foundation, the surplus calculated in Cash Flow, and the extra-debt amounts chosen in Debt.
+
+Return to **Build Your Plan → Allocation** and confirm the timeframe assignment and target mix. Then complete the course-only implementation check that the app does not currently derive: every contribution route is set, every row says how it invests, and the matching payroll or recurring-transfer instructions are active outside Orange Plan.
