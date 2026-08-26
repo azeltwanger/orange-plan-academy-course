@@ -21,3 +21,11 @@ Course walkthroughs were reconciled against Orange Plan main `8ed57cbde2bf051c99
 - Current-year figures, laws, limits, premiums, and provider terms are checked at recording or publication time.
 
 There are no remaining structural course-flow blockers.
+
+## Final consistency pass
+
+- Updated Dashboard walkthrough language to the production **Add transaction** flow, including **Update my balance** versus **Keep my balance**.
+- Made the Week 3 Extra Debt rung explicitly provisional until Week 4 returns the final amount to Routing.
+- Corrected the remaining sequence-of-returns wording in the Austin Reserve script.
+- Replaced stale Advanced numbering, gate, source-map, claim-registry, college-authority, and research-verification documents.
+- Re-ran active-layer checks for module order, confidence timing, authorship labels, walkthrough separation, and retired copywriting headings.

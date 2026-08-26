@@ -1,66 +1,40 @@
-# The College-Funding Authority Rule
+# College-funding authority
 
-**Austin's dictated planning position, 2026-08-08. Governed by
-`AUSTIN-AUTHORITY.md` — this is a category-C judgment and it is his.**
+**Austin direction — 2026-08-26**
 
-Do not apply a conventional "fully fund the goal before investing" framework to
-college.
+The college lesson answers a family planning decision, not an account-sales question.
 
-1. College is a **shared funding plan**, not automatically a bill the parents
-   must fully prepay.
-2. **First define the parents' commitment:** a fixed dollar amount, a
-   percentage, an in-state public benchmark, tuition only, a number of years,
-   or another explicit promise.
-3. Estimate **net** cost after grants and scholarships, not only sticker price.
-4. Build the funding stack from: existing 529 assets · future 529 contributions
-   · grants and scholarships · current cash flow while the student is enrolled
-   · student work and earnings · a limited amount of student financing ·
-   Bitcoin or taxable-asset sales · and any remaining gap.
-5. **Do not assume the entire cost must be saved before enrollment.**
-6. **Do not tell a family to stop accumulating Bitcoin for years merely because
-   a college expense exists inside ten years.**
-7. The risk-management rule is narrower: *the near-term amount the parents have
-   firmly promised should not depend entirely on Bitcoin being at a favourable
-   price when the bill arrives.*
-8. As enrollment approaches, the family may secure one or two years of the
-   committed contribution while leaving later years flexible.
-9. Recalculate annually once the actual school, aid package, student work,
-   living arrangement and net price are known.
-10. A deliberate amount of **federal student debt** can be a valid part of the
-    plan. **Parent or private borrowing is a separate debt-policy decision.**
-11. A 529 is one source, not the strategy. Best suited to the portion the family
-    is reasonably confident will be spent on qualified education.
-12. Orange Plan should measure progress against the **parent commitment**, not
-    an assumed full sticker price.
+## Required decision order
 
-## The anti-rule, stated explicitly
+1. Define what the parent is actually committing to provide: a fixed amount, tuition only, an in-state benchmark, a percentage of net cost, a number of years, or another explicit promise.
+2. Estimate the likely cost of that commitment, not automatically the largest sticker price.
+3. List the funding sources: existing 529 assets, new 529 contributions, Bitcoin or other taxable investments, current cash flow while enrolled, grants and scholarships, student work, family help, and a bounded amount of student borrowing.
+4. Compare what is already available and projected with the commitment; the remaining gap needs a funding decision.
+5. Revisit the decision as the school, aid package, living arrangement, and enrollment date become real.
 
-> A college goal inside ten years does **not** automatically mean you stop
-> buying Bitcoin until the full projected cost is sitting in cash or a 529.
+## Bitcoin and 529 nuance
 
-## What an editor may still do
+- A 529 is one tax-advantaged education tool, not the automatic strategy.
+- The limited investment menu and qualified-use rules matter to a Bitcoiner.
+- When college is more than five years away, Bitcoin can remain a meaningful part of the savings plan.
+- As enrollment approaches, the portion the parent has firmly promised should become less dependent on Bitcoin being at a favorable price.
+- In the final year or two, the first year of the commitment should have a reliable source; later years can remain more flexible and be recalculated.
 
-Improve wording, verify law, check arithmetic, and flag trade-offs. **Not**
-convert this into a more conservative conventional rule.
+## One-third framework
+
+Roughly one-third saved beforehand, one-third paid from cash flow or investments while enrolled, and one-third covered by aid, student work, or loans can be a useful starting framework. It is **not** a universal rule and must not replace the family's actual commitment and capacity.
+
+## Borrowing boundary
+
+A bounded amount of federal student borrowing can be part of the plan. Parent and private borrowing are separate Debt-module decisions and should not be inserted into the college plan without testing the retirement and cash-flow effect.
+
+## Orange Plan implementation
+
+- `2.4` teaches the decision.
+- `2.5` adds the College life event using the parent's commitment and reads the current Education target, education-account value, projected cover, and gap.
+- Education contributions remain separate from the global Reserve / Bridge / Legacy bucket target.
+- The app helps quantify the plan; it does not decide the commitment or require a 529.
 
 ## Evergreen boundary
 
-Every number in this area is set by statute or moves annually: published and
-net prices, the 529 student-loan and Roth-rollover limits, federal loan
-ceilings, parent PLUS rules (changed 1 July 2026), and FAFSA asset treatment.
-
-**None of them is spoken in the video.** They live in `lesson-text/` and the
-app, where they can be corrected without a re-record. This is the same standard
-already applied to tax brackets, and it is the reason 2.3 says "they're in the
-lesson text" rather than reading figures aloud.
-
-## Where it is implemented
-
-- **Script 2.3** — "College is a funding stack, not a bill you prepay", the
-  six-source stack, where Bitcoin fits by time horizon, and financing as a
-  legitimate piece rather than a failure.
-- **`lesson-text/03-3`** — the same, plus every current figure, the 529
-  flexibility conditions, the aid checklist, and the verify-before-acting
-  warnings.
-- **Module 2 checkpoint** — completion is defined as naming your commitment and
-  its sources, explicitly *not* as the sticker price sitting in cash.
+Current tuition figures, FAFSA rules, 529 limits, rollover rules, and federal loan limits belong in maintained lesson text, the app, or a current source check—not in evergreen spoken video.

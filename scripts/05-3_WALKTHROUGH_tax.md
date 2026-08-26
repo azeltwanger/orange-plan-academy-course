@@ -11,7 +11,9 @@
 
 ## 1 · Import the history from the current transaction entry point
 
-**DO** Dashboard → **Update holdings / transactions** → downloaded file.
+**DO** Dashboard → **Add transaction** → choose the downloaded-file path.
+
+**CHOOSE** **Keep my balance** when the file is older history for a current balance already entered. Use **Update my balance** only when the imported activity should change what the account owns now.
 
 **SELECT** the account and whether the file contains all available history.
 

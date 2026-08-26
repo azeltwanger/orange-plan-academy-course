@@ -1,6 +1,6 @@
 # 3.3 · Build the contribution waterfall for every new dollar
 
-Now we have the amount available from Cash Flow, the reserve decision, the debt decision, the jobs for the money, and the target allocation.
+Now we have the amount available from Cash Flow, the Reserve decision, the jobs for the money, the target allocation, and whatever Extra Debt amount is currently saved. That debt amount is still provisional until Module 4.
 
 This lesson turns all of that into an order for the next dollar.
 
@@ -19,7 +19,7 @@ There is still nuance after the match. A stock-only 401(k), a plan with high fee
 
 The third claim is extra debt, but only when the strategy from the Debt module says it wins.
 
-Week 3 saves this rung provisionally because Debt is taught next. We are not inserting a generic "pay debt first" rule. We are carrying forward the specific extra-payment amount you already chose. If every debt is on minimums, this step is zero.
+Week 3 saves this rung provisionally because Debt is taught next. We are not inserting a generic "pay debt first" rule. For now, this rung uses the Extra Debt amount currently saved in the plan, which may be zero. Module 4 decides the final amount and then returns it to this waterfall.
 
 Then we reach the part of the waterfall that usually receives most of the investable surplus: is this a Bridge dollar or a Legacy dollar?
 
@@ -60,7 +60,7 @@ That gives us the complete waterfall:
 
 1. Reserve until the safety target is met.
 2. Capture the employer match.
-3. Pay the extra debt amount the Debt module selected.
+3. Use the current Extra Debt placeholder, then replace it with the final amount selected in Module 4.
 4. Route the rest to Bridge or Legacy based on the job.
 5. Apply the target allocation inside the chosen account.
 
@@ -73,7 +73,7 @@ A plan that says "invest two thousand dollars a month" but does not say when tha
 
 And Orange Plan cannot change the outside world for you. Saving a contribution plan in the app updates the projection. You still need to change the payroll election, automatic bank transfer, exchange purchase, or brokerage instruction that actually moves the money.
 
-In the walkthrough, I'll start with the surplus from Cash Flow, show the dollars already claimed by Reserve and extra debt, configure each contribution row, choose what each account buys, and then make a real-world implementation list for the elections and transfers that have to change outside Orange Plan.
+In the walkthrough, I'll start with the surplus from Cash Flow, show the dollars already claimed by Reserve and the current provisional Extra Debt amount, configure each contribution row, choose what each account buys, and then make a real-world implementation list for the elections and transfers that have to change outside Orange Plan.
 
 ## Apply it
 

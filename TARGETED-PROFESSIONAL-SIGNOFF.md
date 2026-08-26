@@ -47,7 +47,7 @@ There is no universal “custody professional” license. The evidence is theref
 
 1. Does the course correctly distinguish a wallet backup, passphrase, signing key, wallet policy/descriptor, and watch-only information?
 2. Does the recovery lesson avoid claiming universal BIP39 portability and use a safe test order: vendor backup check, spare-device restore, destructive reset only after validation?
-3. Does the passphrase lesson correctly explain that every passphrase derives a valid wallet and that Austin’s seven-word rule is an operational standard rather than a protocol minimum?
+3. Does the passphrase lesson correctly explain that every passphrase derives a valid wallet, exact entry is required, and no word count or construction method is presented as a universal protocol minimum?
 4. Does the multisig lesson correctly state the threshold, descriptor/policy requirement, and privacy implications without claiming that a descriptor can sign?
 5. Are the provider claims conditional on the actual key distribution, exported recovery data, compatible recovery software, and provider terms?
 6. Does the authentication order accurately distinguish phishing-resistant security keys/passkeys, TOTP, SMS, and recovery procedures?

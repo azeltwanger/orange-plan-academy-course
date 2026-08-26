@@ -441,11 +441,13 @@ In the Foundation walkthrough below this lesson, I'll show you how to replace th
 
 **SEE** Net worth and account totals update.
 
-## 5 · Explain Update Holdings versus transaction history
+## 5 · Explain Add transaction versus historical tax history
 
-**DO** Open the current **Update holdings / Update transactions** entry point from Dashboard.
+**DO** Dashboard → **Add transaction**.
 
-**SHOW** the available paths: linked activity when supported · downloaded CSV or spreadsheet · one manually entered purchase, sale, or transfer · AI-assisted description when present.
+**SEE** **Update my balance** for new activity that should change the current holding, and **Keep my balance** for older history that supports a balance already entered.
+
+**SHOW** the available paths after the intent choice: linked activity when supported · downloaded CSV or spreadsheet · one manually entered purchase, sale, or transfer · AI-assisted description when present.
 
 **SAY** Three jobs stay separate:
 
@@ -632,7 +634,7 @@ After this period, if you're not comfortable holding a large amount of cash, I t
 
 Before you pick and decide what your cash reserve is going to be, I think it's important to go through a scenario or situation. If Bitcoin were to drop 50% tomorrow, we go into a bear market, and your income got cut off for 6 months and it took you a while to find a new job: would you rather hold more cash now and be able to safely spend it through that period? Or would you be okay with taking the risk to sell some Bitcoin during that time, knowing that the price is down 50%, and just cut your spending more aggressively to your bare-bones spending?
 
-I don't think there's a wrong answer here. A lot of this, like I said, comes down to your risk tolerance. I think having at least 3 months of a reserve while you're working, and then 12 months once you go into retirement, can protect you against selling assets at the wrong time and prevent sequence-of-return risks in retirement.
+I don't think there's a wrong answer here. A lot of this, like I said, comes down to your risk tolerance. I think having at least 3 months of a reserve while you're working, and then 12 months once you go into retirement, can protect you against selling assets at the wrong time and reduce sequence-of-returns risk in retirement.
 
 Before the walkthrough, choose the number of months that fits your income stability, dependents, fixed costs, and comfort with selling during a drawdown. In the walkthrough, I'll show you where to enter the bare-bones monthly amount, select the Reserve basis and months, and choose the monthly build cap. Orange Plan calculates the target from those inputs and shows the gap; you do not type the target multiplication manually.
 
@@ -1005,7 +1007,7 @@ TELEPROMPTER SCRIPT — segment 3.3
 SOURCE: Allocation deck pages 8 and 9, Austin's slide order, and current Cash Flow contribution controls
 ============================================================
 
-Now we have the amount available from Cash Flow, the reserve decision, the debt decision, the jobs for the money, and the target allocation.
+Now we have the amount available from Cash Flow, the Reserve decision, the jobs for the money, the target allocation, and whatever Extra Debt amount is currently saved. That debt amount is still provisional until Module 4.
 
 This lesson turns all of that into an order for the next dollar.
 
@@ -1025,7 +1027,7 @@ There is still nuance after the match. A stock-only 401(k), a plan with high fee
 
 The third claim is extra debt, but only when the strategy from the Debt module says it wins.
 
-Week 3 saves this rung provisionally because Debt is taught next. We are not inserting a generic "pay debt first" rule. We are carrying forward the specific extra-payment amount you already chose. If every debt is on minimums, this step is zero.
+Week 3 saves this rung provisionally because Debt is taught next. We are not inserting a generic "pay debt first" rule. For now, this rung uses the Extra Debt amount currently saved in the plan, which may be zero. Module 4 decides the final amount and then returns it to this waterfall.
 
 Then we reach the part of the waterfall that usually receives most of the investable surplus: is this a Bridge dollar or a Legacy dollar?
 
@@ -1067,7 +1069,7 @@ That gives us the complete waterfall:
 
 1. Reserve until the safety target is met.
 2. Capture the employer match.
-3. Pay the extra debt amount the Debt module selected.
+3. Use the current Extra Debt placeholder, then replace it with the final amount selected in Module 4.
 4. Route the rest to Bridge or Legacy based on the job.
 5. Apply the target allocation inside the chosen account.
 
@@ -1080,7 +1082,7 @@ A plan that says "invest two thousand dollars a month" but does not say when tha
 
 And Orange Plan cannot change the outside world for you. Saving a contribution plan in the app updates the projection. You still need to change the payroll election, automatic bank transfer, exchange purchase, or brokerage instruction that actually moves the money.
 
-In the walkthrough, I'll start with the surplus from Cash Flow, show the dollars already claimed by Reserve and extra debt, configure each contribution row, choose what each account buys, and then make a real-world implementation list for the elections and transfers that have to change outside Orange Plan.
+In the walkthrough, I'll start with the surplus from Cash Flow, show the dollars already claimed by Reserve and the current provisional Extra Debt amount, configure each contribution row, choose what each account buys, and then make a real-world implementation list for the elections and transfers that have to change outside Orange Plan.
 
 ---
 
@@ -1636,7 +1638,9 @@ The tax walkthrough will show the current bucket balances, the conversion analys
 
 ## 1 · Import the history from the current transaction entry point
 
-**DO** Dashboard → **Update holdings / transactions** → downloaded file.
+**DO** Dashboard → **Add transaction** → choose the downloaded-file path.
+
+**CHOOSE** **Keep my balance** when the file is older history for a current balance already entered. Use **Update my balance** only when the imported activity should change what the account owns now.
 
 **SELECT** the account and whether the file contains all available history.
 

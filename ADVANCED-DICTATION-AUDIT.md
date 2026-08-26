@@ -1,92 +1,39 @@
 # Advanced Library dictation-readiness audit
 
-Generated after the finalization pass.
+**App reference for the rebuild:** `8ed57cbde2bf051c990ec5d1dcbf1178e98fa8d8`
 
-| Lesson | Script provenance | Words | Gate | Master | Script | Student text | Generated module | Homework |
-|---|---|---:|---|---|---|---|---|---|
-| **A1.1** · How Orange Plan models Bitcoin: fat tails, correlations, floors and caps | spoken-prose calibrated | 474 | yes | yes | yes | yes | yes | yes |
-| **A3.1** · Borrow against Bitcoin without getting liquidated | spoken-prose calibrated | 2,591 | yes | yes | yes | yes | yes | yes |
-| **A3.2** · The four ways debt can build wealth | spoken-prose calibrated | 1,342 | yes | yes | yes | yes | yes | yes |
-| **A4.1** · The price context check: naming the emotion before a big move | spoken-prose calibrated | 391 | yes | yes | yes | yes | yes | yes |
-| **A5.1** · RMD risk and Roth conversions | spoken-prose calibrated | 1,540 | yes | yes | yes | yes | yes | yes |
-| **A5.2** · Harvesting losses and gains | spoken-prose calibrated | 1,302 | yes | yes | yes | yes | yes | yes |
-| **A5.3** · State taxes and relocation: what the lever is actually worth | spoken-prose calibrated | 610 | yes | yes | yes | yes | yes | yes |
-| **A6.1** · Health insurance between retiring and Medicare | spoken-prose calibrated | 970 | yes | yes | yes | yes | yes | yes |
-| **A6.2** · Sell, borrow, or hold: funding a year of spending | spoken-prose calibrated | 1,285 | yes | yes | yes | yes | yes | yes |
-| **A7.2** · What self-custody actually asks of you | spoken-prose calibrated | 459 | yes | yes | yes | yes | yes | yes |
-| **A7.3** · Concentration: one institution, one vendor, one firmware | spoken-prose calibrated | 813 | yes | yes | yes | yes | yes | yes |
-| **A7.4** · Wallet operations: UTXOs, dust, consolidation, and addresses | spoken-prose calibrated | 825 | yes | yes | yes | yes | yes | yes |
-| **A7.1** · Advanced custody: passphrase, multisig, and collaborative | spoken-prose calibrated | 2,462 | yes | yes | yes | yes | yes | yes |
-| **A8.1** · Advanced: do you need a trust, and which one? | spoken-prose calibrated | 1,724 | yes | yes | yes | yes | yes | yes |
+Every Advanced lesson is optional, explicitly labeled **PRE-DICTATION FILMING DRAFT**, and attached to the restored core order. A clean draft is not represented as prior Austin speech.
 
-**Result:** 14 of 14 lessons have a protected script, gate, student text, generated module, and finish line.
-**Runtime:** 16,788 spoken words, about 108 minutes.
+| Lesson | Words | Publication gate | Script | Student text | Master / generated module |
+|---|---:|---|---|---|---|
+| **A1.1** · How Orange Plan models Bitcoin inside the confidence check | 432 | yes | yes | yes | yes |
+| **A3.1** · Use price context to name the emotion before a large Bitcoin move | 306 | yes | yes | yes | yes |
+| **A4.1** · Borrow against Bitcoin without turning a drawdown into liquidation | 551 | yes | yes | yes | yes |
+| **A4.2** · The four ways debt can strengthen a plan, and how each one fails | 349 | yes | yes | yes | yes |
+| **A5.1** · RMD pressure and Roth conversions across the low-income window | 457 | yes | yes | yes | yes |
+| **A5.2** · Harvest Bitcoin losses and gains without losing the tax story | 403 | yes | yes | yes | yes |
+| **A5.3** · State taxes and relocation: measure the lever before moving | 284 | yes | yes | yes | yes |
+| **A6.1** · Health coverage between retirement and Medicare | 441 | yes | yes | yes | yes |
+| **A6.2** · Sell, borrow, or hold when the plan needs a year of spending | 438 | yes | yes | yes | yes |
+| **A7.1** · Passphrase, collaborative custody, and DIY multisig | 457 | yes | yes | yes | yes |
+| **A7.2** · What self-custody actually asks of you | 218 | yes | yes | yes | yes |
+| **A7.3** · Avoid custody concentration in one institution, vendor, or failure path | 250 | yes | yes | yes | yes |
+| **A7.4** · UTXOs, dust, consolidation, and address use | 347 | yes | yes | yes | yes |
+| **A8.1** · Do you need a trust, and what job would it do? | 707 | yes | yes | yes | yes |
 
-## Repository gates
+## Result
 
-### PASS · Cross-references
+- **14 of 14** Advanced scripts present.
+- Restored numbering: A3 extends Allocation; A4 extends Debt.
+- All scripts carry a watcher condition or publication gate through the Advanced master and gate files.
+- All have synchronized script, student-text, master, and generated-module layers.
+- The old slop-adjudication ledger and its generated-architecture assumptions are retired.
+- Current rebuild verification: 28 core teach lessons, 10 core captures, 14 Advanced lessons, and 37 core visual cues.
 
-```text
-DEAD LESSON REFERENCE  —  0
+## Remaining gates
 
-MODULE NUMBER OUT OF RANGE  —  0
-
-WALKTHROUGH NAMING ANOTHER MODULE'S LESSON  —  0
-
-0 problems. Valid lessons: 53. Modules: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
-```
-
-### PASS · Layer parity
-
-```text
-NOTES (reported, do not fail)  —  0
-
-FAILURES  —  0
-
-53 lessons · 17 registry rules · 176 files scanned · 0 failures, 0 notes
-```
-
-### PASS · Slop scan
-
-```text
-40 candidates · 36 adjudicated in SLOP-ACCEPTED.md · 0 UNADJUDICATED
-```
-
-### PASS · Visual coverage
-
-```text
-visuals: 41 prompts covering 34 of 42 teach lessons
-
-ORPHAN  —  0
-
-H1 DRIFT  —  0
-
-GAP (lesson with no visual)  —  8
-  0.2  How to use Orange Plan AI
-  8.3  The heir letter and the dead man's switch
-  A1.1  How Orange Plan models Bitcoin: fat tails, correlations,
-  A4.1  The price context check: naming the emotion before a big
-  A5.3  State taxes and relocation: what the lever is actually w
-  A7.2  What self-custody actually asks of you
-  A7.3  Concentration: one institution, one vendor, one firmware
-  A7.4  Wallet operations: UTXOs, dust, consolidation, and addre
-```
-
-### PASS · Metrics freshness
-
-```text
-{
-  "core_n": 28,
-  "core_min": 242,
-  "core_h": 4.0,
-  "core_w": 37485,
-  "core_caps": 11,
-  "core_walkthroughs": 10,
-  "core_demos": 1,
-  "core_capture_sessions": 10,
-  "adv_n": 14,
-  "adv_min": 108,
-  "adv_w": 16788
-}
-STALE: none
-```
+- Austin dictates or reads the drafts and changes any judgment that is not his.
+- Tax examples receive targeted CPA or EA review before publication.
+- Device- and provider-specific custody footage is recorded only after exact operational verification.
+- Insurance contract mechanics receive licensed review.
+- State-specific estate and trust material receives attorney signoff.

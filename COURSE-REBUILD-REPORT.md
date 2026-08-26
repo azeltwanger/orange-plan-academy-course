@@ -25,3 +25,7 @@ Build Your Plan lists Debt before Allocation. The course teaches Allocation firs
 - Exact device, firmware, provider, and recovery process verified before setup-specific footage.
 - Licensed insurance professional reviews policy mechanics and contract-specific claims before publication.
 - State-licensed estate attorney reviews state-specific authority, trust, and executor material before publication.
+
+## Final consistency audit
+
+The production-facing layers now use the current Dashboard **Add transaction** flow, distinguish balance-changing activity from history-only imports, treat Extra Debt as provisional in Week 3, and use the restored Advanced numbering. Stale policy documents from the prior generated architecture were replaced rather than left as competing instructions.

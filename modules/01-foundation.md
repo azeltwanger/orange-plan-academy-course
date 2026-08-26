@@ -292,11 +292,13 @@ In the Foundation walkthrough below this lesson, I'll show you how to replace th
 
 **SEE** Net worth and account totals update.
 
-## 5 · Explain Update Holdings versus transaction history
+## 5 · Explain Add transaction versus historical tax history
 
-**DO** Open the current **Update holdings / Update transactions** entry point from Dashboard.
+**DO** Dashboard → **Add transaction**.
 
-**SHOW** the available paths: linked activity when supported · downloaded CSV or spreadsheet · one manually entered purchase, sale, or transfer · AI-assisted description when present.
+**SEE** **Update my balance** for new activity that should change the current holding, and **Keep my balance** for older history that supports a balance already entered.
+
+**SHOW** the available paths after the intent choice: linked activity when supported · downloaded CSV or spreadsheet · one manually entered purchase, sale, or transfer · AI-assisted description when present.
 
 **SAY** Three jobs stay separate:
 
