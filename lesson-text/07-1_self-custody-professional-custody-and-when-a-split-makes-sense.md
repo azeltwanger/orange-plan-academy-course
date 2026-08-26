@@ -1,6 +1,4 @@
-## 7.1 Self-custody, professional custody, and when a split makes sense
-
-*`TEACH` · ~7 min · PRE-DICTATION FILMING DRAFT*
+# 7.1 · Self-custody, professional custody, and when a split makes sense
 
 Most custody advice starts by asking, "What is the safest setup?"
 
@@ -28,8 +26,6 @@ And there is one rule for the entire module: document the process, never the sec
 
 No seed phrase, private key, passphrase, PIN, password, descriptor contents, or exact recovery location goes into Orange Plan, an heir letter, a cloud note, a photo, an email, or an AI tool. The plan can tell somebody what exists, who to call, and where the process starts. It should never become a treasure map.
 
-🎬 VISUAL — Four methods compared side by side: direct self-custody, collaborative multisig, institutional custody, intentional split. Each gets two rows: what it protects against and what you accept.
-
 The first decision is not the product. It is which risk you are trying to reduce.
 
 Direct self-custody protects against provider failure, frozen withdrawals, and loss of direct control. The trade-off is that recovery mistakes, physical security, and family continuity become your responsibility.
@@ -43,8 +39,6 @@ An intentional split protects against one method or one provider taking out the 
 A split is not automatically better. Every additional setup needs to solve a named risk. Otherwise it is just extra complexity.
 
 The next question is how much direct control matters to you.
-
-🎬 VISUAL — Three-position control preference: Non-negotiable · Important, not absolute · Support and simplicity matter more.
 
 For one person, direct control is non-negotiable. They want a meaningful amount that no institution can freeze.
 
@@ -69,8 +63,6 @@ I would classify each pool by rough scale instead of writing exact balances on a
 The decision changes when the amount becomes life-changing. A hardware wallet that felt reasonable when it held a smaller amount can eventually represent the family's entire financial future. Nothing about the device changed. What was at stake did.
 
 That is when concentration in one method becomes a risk of its own.
-
-🎬 VISUAL — The One-Failure Test: lost recovery material · frozen account · provider failure · home disaster · coercion · incapacity · family unable to execute.
 
 For every meaningful pool, run the One-Failure Test:
 
@@ -120,3 +112,18 @@ If collaborative multisig is the direction, that may be understanding the provid
 If an intentional split is the direction, write the job and maximum exposure for each bucket before moving anything.
 
 The next two lessons handle the operational work: proving a hardware-wallet recovery and fixing the largest remaining single point of failure. The Advanced Library goes deeper on passphrases, multisig, institutional custody, and concentration across providers.
+
+## Apply it
+
+Use `CUSTODY-DECISION-MAP.md` to record the decision without secrets, then complete walkthrough 7.5 to reflect the implementation status in Protect.
+
+## Module checkpoint
+
+- [ ] Custody direction is one method or an intentional split, chosen on purpose.
+- [ ] Direct-control preference and the risk being reduced are stated.
+- [ ] Every meaningful Bitcoin pool has a no-secrets job, scale, method, remaining failure, and family path.
+- [ ] Hardware recovery is proven or clearly outstanding.
+- [ ] The One-Failure Test identified the largest current weakness.
+- [ ] Important accounts and email are hardened.
+- [ ] No seed, key, passphrase, PIN, password, descriptor contents, or exact recovery location is stored in the app, map, or course notes.
+- [ ] An encrypted backup of the plan data exists.

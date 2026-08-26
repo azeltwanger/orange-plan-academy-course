@@ -1,51 +1,94 @@
 # 7.3 · Fix the single points of failure and harden the accounts
 
-The failures that lose Bitcoin are usually not somebody breaking the cryptography.
+Most Bitcoin losses are not somebody breaking the cryptography.
 
-They are one weak login, one backup, one location, one person who knows the process, or one rushed decision with no second check.
+They are one weak login, one backup, one location, one person who knows the process, one provider, or one rushed decision with no second check.
 
 I call these the "only one" problems.
 
-
-Go through the setup and look for the word one.
+Go through every meaningful Bitcoin pool and look for the word one.
 
 Only one hardware device.
 
-Only one seed backup.
+Only one recovery backup.
 
 Only one physical location.
 
 Only one person who understands what exists.
 
-Only one email account protecting every exchange login.
+Only one email account protecting every custodial login.
 
-Only one passphrase record, or no one else who even knows a passphrase is part of the recovery.
+Only one custody method protecting all of the life-changing Bitcoin.
 
-All multisig components stored in the same building.
+Only one institution holding all of the professionally custodied Bitcoin.
+
+Only one copy of the wallet policy or descriptor needed to reconstruct a multisig wallet.
+
+Only one family member who knows who to call.
 
 A legal document naming one person while the technical recovery process points to somebody else.
 
-You do not have to fix every item this week. Rank the top one to three by the damage they could cause, then fix the first one.
+The important addition is method and provider concentration.
 
-The fix may be a second location, a tested backup device, a second person who understands the process, a provider contact, or updated legal and beneficiary information. The answer depends on the setup. The rule is that no ordinary failure should erase every recovery path.
+A person can have several devices and backups and still have the entire plan depend on one method. They can also spread Bitcoin across two account names that rely on the same underlying custodian or recovery system.
 
-Account hardening is part of custody too.
+That is why I want you to test failure domains, not count objects.
 
-Use a strong, unique password for the email account and each exchange or financial institution. The email account comes first because it is often the reset path for everything else.
+Three keys in the same house are still exposed to one house fire.
 
-Use app-based two-factor authentication or a hardware security key rather than relying only on SMS when the provider supports it.
+Two devices using the same vendor, firmware path, and companion software may not be as independent as they look.
 
-Turn on withdrawal delays, allowlists, or additional approval steps when they fit the way you use the account.
+Two custodial accounts may still depend on the same underlying company.
 
-Save the institution's official contact method before you need it. Do not use the phone number, login link, or support account supplied in an urgent message.
+Redundancy means one event does not erase every recovery path. It does not mean buying more hardware until the diagram looks complicated.
+
+Use the rough scale from the first lesson: replaceable, meaningful, or life-changing.
+
+Then ask one question for each row in the custody map:
+
+If this entire row became inaccessible, would the financial plan still survive?
+
+A temporary problem with a replaceable amount is different from a failure that destroys the retirement plan or leaves the family unable to act.
+
+Run the test against:
+
+- lost or damaged recovery material;
+- a frozen institutional account;
+- a provider or vendor disappearing;
+- physical theft or coercion;
+- a home disaster;
+- your incapacity or death;
+- and the family being unable to execute the process.
+
+If one event materially damages the plan, that is the failure point to work on.
+
+You do not have to fix everything this week. Rank the top one to three by the damage they could cause, then fix the first one.
+
+The fix may be a second location, a proven backup device, another person who understands the process, a provider-independent recovery path, a second custody method, or a lower maximum exposure to one institution.
+
+The answer depends on the setup. The rule is that every added component must solve the failure you named.
+
+Account hardening is part of custody too, especially for institutional custody, exchanges, retirement accounts, and the email account that can reset them.
+
+Use a strong, unique password for the email account and every financial institution.
+
+Secure the email account first because it is often the master reset path.
+
+Use phishing-resistant hardware security keys or passkeys when the provider supports them. App-based two-factor authentication is still better than relying only on SMS.
+
+Turn on withdrawal delays, allowlists, additional approvals, or account-lock features when they fit the way the account is used.
+
+Review who the provider recognizes after death or incapacity. A hardened login is not a family recovery plan if nobody else can complete the legal process.
+
+Save the institution's official support path before you need it. Do not use the phone number, login link, or support account supplied in an urgent message.
 
 A few years ago, somebody called my bank pretending to be me and tried to move about ten thousand dollars. They did not get it, but it made the weakness very real. That is when I moved my email and important exchange logins to physical security keys.
 
-An authenticator app is good. A hardware key can add phishing resistance because it is bound to the real website instead of giving you a code that can be typed into a convincing fake page.
+An authenticator app is good. A hardware security key can add phishing resistance because it is bound to the real website instead of giving you a code that can be typed into a convincing fake page.
 
 Then there are the scam rules.
 
-Urgency is the biggest warning sign. Somebody says the account is being drained, the device is compromised, or the offer expires in ten minutes. The goal is to make you skip the normal verification process.
+Urgency is the biggest warning sign. Somebody says the account is being drained, the wallet is compromised, or the offer expires in ten minutes. The goal is to make you skip the verification process.
 
 No legitimate provider needs your seed phrase or private key.
 
@@ -53,21 +96,32 @@ No support agent needs you to move Bitcoin into a "safe" wallet they supplied.
 
 Guaranteed returns, send-one-get-two offers, and unsolicited recovery help are scams.
 
-If somebody claims the account is compromised, end the communication. Open the official app or type the known website yourself. Contact the provider through the method you already verified.
+If somebody claims an account is compromised, end the communication. Open the official app or type the known website yourself. Contact the provider through the method you already verified.
 
-The same pause applies to real security changes. Moving a large balance, changing a multisig setup, adding a passphrase, or replacing a device should not happen because you feel rushed.
+The same pause applies to real security changes. Moving a life-changing balance, changing a multisig setup, adding a passphrase, replacing a device, or changing institutional providers should not happen because you feel rushed.
 
-Before the walkthrough, identify the single most dangerous "only one" in your current setup. That is the item you are going to record and fix first. The app checklist is not the security itself. It is the map of what has and has not actually been done.
+Before the walkthrough, complete the custody map at a no-secrets level:
+
+- the job of each meaningful Bitcoin pool;
+- its rough share or scale;
+- how it is held;
+- what that method protects against;
+- the biggest remaining failure;
+- and the family recovery path.
+
+Then circle the one failure that could do the most damage. That becomes the next action. The app checklist is not the security itself. It is the honest record of what has and has not actually been done.
 
 ## Apply it
 
-Use walkthrough 7.4 to enter the decision and confirm what Orange Plan calculated.
+Use `CUSTODY-DECISION-MAP.md` to record the decision without secrets, then complete walkthrough 7.5 to reflect the implementation status in Protect.
 
 ## Module checkpoint
 
-- [ ] Custody level is chosen for the amount and household.
+- [ ] Custody direction is one method or an intentional split, chosen on purpose.
+- [ ] Direct-control preference and the risk being reduced are stated.
+- [ ] Every meaningful Bitcoin pool has a no-secrets job, scale, method, remaining failure, and family path.
 - [ ] Hardware recovery is proven or clearly outstanding.
-- [ ] The top single point of failure has an owner and deadline.
+- [ ] The One-Failure Test identified the largest current weakness.
 - [ ] Important accounts and email are hardened.
-- [ ] No seed, key, passphrase, or PIN is stored in the app or course notes.
+- [ ] No seed, key, passphrase, PIN, password, descriptor contents, or exact recovery location is stored in the app, map, or course notes.
 - [ ] An encrypted backup of the plan data exists.

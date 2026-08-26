@@ -76,10 +76,12 @@ App screens were rebuilt against Orange Plan main `8ed57cbde2bf051c990ec5d1dcbf1
 - Deterministic onboarding line versus 1,000 plan paths
 - 60 / 80 / 95 guardrails with ±10% cap
 
-## 7.1 · Choose a custody setup your household can recover
+## 7.1 · Self-custody, professional custody, and when a split makes sense
 
-- Five custody questions
-- Custody levels 1–4
+- Five-step custody decision
+- Direct self-custody / collaborative multisig / institutional custody / intentional split
+- Direct-control preference
+- Four readiness outcomes, not a wealth ladder
 
 ## 7.2 · Set up a hardware wallet and prove the recovery
 
@@ -87,7 +89,9 @@ App screens were rebuilt against Orange Plan main `8ed57cbde2bf051c990ec5d1dcbf1
 
 ## 7.3 · Fix the single points of failure and harden the accounts
 
-- The only-one single-points-of-failure list
+- Expanded only-one list, including one custody method and one institutional provider
+- Replaceable / meaningful / life-changing scale
+- One-Failure Test and plan-survival question
 
 ## 8.1 · Choose who is in charge and put the legal baseline in place
 

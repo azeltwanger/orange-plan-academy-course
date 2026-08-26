@@ -79,13 +79,15 @@
 
 ## Module 7 — Custody
 
-**You will build:** A tested custody process, one major failure point fixed, and a no-secrets checklist with an encrypted plan backup.
+**You will build:** A custody direction, a no-secrets map of the meaningful Bitcoin pools, a proven recovery path, and one major failure point fixed.
 
-- [ ] Custody level is chosen for the amount and household.
+- [ ] Custody direction is one method or an intentional split, chosen on purpose.
+- [ ] Direct-control preference and the risk being reduced are stated.
+- [ ] Every meaningful Bitcoin pool has a no-secrets job, scale, method, remaining failure, and family path.
 - [ ] Hardware recovery is proven or clearly outstanding.
-- [ ] The top single point of failure has an owner and deadline.
+- [ ] The One-Failure Test identified the largest current weakness.
 - [ ] Important accounts and email are hardened.
-- [ ] No seed, key, passphrase, or PIN is stored in the app or course notes.
+- [ ] No seed, key, passphrase, PIN, password, descriptor contents, or exact recovery location is stored in the app, map, or course notes.
 - [ ] An encrypted backup of the plan data exists.
 
 ## Module 8 — Estate + Inheritance

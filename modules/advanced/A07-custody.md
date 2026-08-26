@@ -1,43 +1,74 @@
 # Advanced Module 7 — Custody
 
-## A7.1 Passphrase, collaborative custody, and DIY multisig
+## A7.1 Compare passphrase, multisig, institutional custody, and an intentional split
 
-> **Gate.** Research complete. Verify exact devices, wallet software, descriptors, provider roles, and recovery procedures before any setup-specific footage.
+> **Gate.** Research complete. Verify exact devices, wallet software, descriptors, provider roles, institutional terms, and recovery procedures before any setup-specific footage.
 
-Advanced custody is only safer when the added complexity removes a real risk that the household understands.
+Advanced custody is not a ladder where every serious Bitcoiner eventually puts everything into the most complicated self-custody setup.
+
+It is a comparison of which failure you want each method to remove and which responsibilities you are willing to keep.
 
 A passphrase wallet uses a normal seed plus an additional passphrase to derive a different wallet. The passphrase is sometimes called a twenty-fifth word, but it does not have to be one word and it is not a second signature.
 
-Anyone with the seed and exact passphrase can control the wallet. A wrong passphrase can still produce a valid but different wallet, which makes recovery mistakes especially dangerous.
+Anyone with the seed and the exact passphrase can control the intended wallet. A wrong passphrase can still produce a valid but different wallet, which makes recovery mistakes especially dangerous.
 
-The benefit is that possession of the seed alone may not reveal the intended wallet. The risk is losing, mistyping, or failing to communicate the passphrase. Test the exact recovery with a trivial amount and store the recovery components according to a deliberate plan.
+What the passphrase changes is what possession of the seed alone can do. It does not remove seed loss, passphrase loss, coercion, physical security, or family-process risk.
 
-A two-of-three multisig wallet uses three keys and requires two valid signatures. One lost key does not necessarily destroy access, and one stolen key does not spend alone.
+Test the exact recovery with a trivial amount. The seed-only wallet, the intended passphrase wallet, and a mistyped passphrase can all look valid. The family process has to make the intended wallet unambiguous without placing the two secrets together.
 
-The wallet also depends on public configuration information: the keys or xpubs, threshold, script type, derivation paths, and related descriptor data. This configuration has no private spending key by itself, but it is essential to reconstructing the wallet correctly and can reveal privacy information.
+A two-of-three multisig wallet uses three signing keys and requires two valid signatures.
 
-Collaborative custody shares the operational burden with a provider. The customer may hold two keys while the provider holds one, or use another arrangement defined by the service. The provider may also retain the wallet configuration, help verify an executor, and guide recovery.
+One lost key does not necessarily destroy access, and one stolen key does not spend alone. That removes a single-key failure. It does not remove every single point of failure.
 
-The trade-off is dependence on the provider's continued operation, policies, identity checks, jurisdiction, security, fees, and privacy. Understand how to recover without the provider when the product claims that is possible.
+The wallet also depends on public configuration information: the keys or xpubs, threshold, script type, derivation paths, fingerprints, and related descriptor or wallet-policy data. That information cannot sign by itself, but it is important for reconstructing the intended wallet and can reveal privacy information.
+
+Collaborative multisig shares part of the operational burden with a provider. The customer may hold two keys while the provider holds one, or use another arrangement defined by the service. The provider may retain the wallet configuration, help verify an executor, and guide recovery.
+
+The trade-off is provider involvement, fees, identity checks, jurisdiction, privacy, and the risk that the service changes or disappears. Understand the provider-independent recovery path when the product claims one exists. Export the information and test it instead of relying on a marketing sentence.
 
 DIY multisig removes the provider but leaves every task with the household: device diversity, key generation, backups, descriptor storage, software compatibility, transaction signing, inheritance, and periodic testing.
 
-Device diversity can reduce one-vendor risk, but too many device types can also make the process harder to maintain. Each component should have a reason.
+Device diversity can reduce one-vendor risk. It can also make the process harder to maintain. Three different devices are not automatically safer if nobody can remember which software, cable, firmware, or signing order works ten years later.
 
-Compare the three setups on:
+Institutional custody is a different trade-off, not a beginner version of self-custody.
 
-- what one stolen component can do;
-- what one lost component does;
-- how many people and locations are required;
-- how recovery works after ten years;
-- how the family gets help;
-- what happens when a vendor or provider disappears;
-- ongoing cost and maintenance;
-- and whether the legal plan matches the technical control.
+The institution controls the keys and the withdrawal process. That can protect the household from personal key loss, technical mistakes, and a family being asked to execute a complex wallet recovery during a crisis. It may also provide statements, administrative support, beneficiaries, trust or estate procedures, and a legal or contractual path when access is disputed.
 
-Do not move a life-changing stack directly into a new advanced setup. Build a small test wallet, send and receive, replace or lose one component on purpose, recover it, and document the process without writing secrets into the documentation.
+The trade-off is counterparty risk, bankruptcy or operational risk, identity verification, withdrawal restrictions, jurisdiction, privacy, and less direct control. The account security and family process still matter. An institution does not remove risk; it transfers part of it.
 
-The safest setup is not the one with the most hardware. It is the simplest design that removes the household's actual failure points and can still be recovered by the people who will inherit the responsibility.
+An intentional split is an architecture rather than another custody product.
+
+The household may keep a directly controlled sovereign reserve, use collaborative multisig for a family-accessible pool, and hold retirement-account exposure through a professional custodian. The point is not equal thirds or maximum fragmentation. Each pool needs a job and each additional method needs to remove a named failure.
+
+The split becomes useful when one method, provider, device family, or person would otherwise threaten too much of the plan.
+
+It becomes harmful when the family now has several systems, vendors, passwords, devices, and recovery procedures that nobody can maintain.
+
+Compare every setup on the same questions:
+
+- What does one stolen component allow?
+- What does one lost component destroy?
+- Which provider, device, software, and location must still work?
+- How much direct control remains?
+- What support or legal process exists?
+- How does recovery work after ten years?
+- Can the family execute or get help?
+- What happens when the owner, provider, device, or law changes?
+- If the entire pool became inaccessible, would the financial plan survive?
+
+Use rough scale instead of putting exact balances into a custody worksheet: replaceable, meaningful, or life-changing.
+
+A single method can be appropriate for a replaceable or noncritical amount when recovery is proven and simplicity is valuable.
+
+A life-changing amount deserves a harder One-Failure Test. That does not automatically mean multisig. It means the household should be able to explain why no single failure can destroy too much of the plan.
+
+Do not move a life-changing stack directly into a new advanced setup.
+
+Build a small test wallet or account. Send and receive. Lose or replace one component on purpose when the process allows it. Recover it. Export the public recovery information. Test the provider-independent path when one is promised. Walk the family through the first call and the role each person has.
+
+Document the process without documenting the secrets.
+
+The safest architecture is not the one with the most hardware or the strongest ideological label. It is the simplest combination that removes the household's actual failure points, preserves the amount of direct control the household values, and can still be recovered by the people who inherit the responsibility.
 
 ---
 
@@ -45,50 +76,116 @@ The safest setup is not the one with the most hardware. It is the simplest desig
 
 > **Gate.** Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.
 
-Self-custody removes a financial institution from the spending decision. It does not remove responsibility. It moves the responsibility to you.
+Self-custody removes a financial institution from the spending decision. It does not remove trust or responsibility. It moves more of both onto you.
 
-You have to generate the keys safely, verify addresses, protect backups, maintain devices and software, understand fees, avoid scams, and leave a recovery process somebody else can use.
+You still rely on the device manufacturer, firmware, wallet software, random-number generation, the computer or phone used to coordinate a transaction, and your own ability to verify what is happening.
 
-That does not mean everybody should leave Bitcoin on an exchange. It means moving to self-custody should follow skill rather than identity.
+Your job is to generate keys safely, verify addresses on the trusted device, protect recovery material, maintain devices and software, understand fees, avoid scams, and leave a recovery process somebody else can use.
 
-Start with a small amount. Receive it, send part of it, verify the address on the device, wipe or check recovery using the correct vendor procedure, and prove the backup.
+That does not mean everybody should leave Bitcoin with an institution. It means moving into self-custody should follow skill and a real need for direct control rather than identity or pressure from somebody online.
 
-Then ask whether the setup can survive ordinary life: a lost phone, a failed device, a house fire, travel, incapacity, death, or simply forgetting a process after five years.
+Start with a trivial amount.
 
-Maintenance is part of the job. Firmware and wallet software change. Devices may become unsupported. A backup can be moved by somebody else. A passphrase can be forgotten. Multisig configuration can be lost.
+Receive it. Send part of it. Verify the address on the device. Use the correct vendor-supported backup check or recovery procedure. Prove that the backup restores the intended wallet.
 
-Schedule a yearly recovery exercise using a test wallet or a procedure that does not expose the live secrets. Review the locations, people, devices, and provider contacts.
+Then ask whether the setup survives ordinary life:
 
-Self-custody should create confidence, not constant fear. A smaller amount in a simple, tested setup is better than a large amount in a complex setup copied from somebody online.
+- a lost phone;
+- a failed device;
+- a house fire;
+- travel;
+- coercion;
+- incapacity;
+- death;
+- or simply forgetting the process after five years.
+
+Maintenance is part of the job. Firmware and wallet software change. Devices become unsupported. A backup can be moved or damaged. A passphrase can be forgotten. A multisig descriptor can be lost. A family member who once understood the process may no longer be available.
+
+Schedule a yearly recovery exercise using a test wallet or another procedure that does not expose live secrets. Review the locations, people, devices, software, and provider contacts.
+
+Self-custody should create confidence, not constant fear.
+
+A smaller amount in a simple, tested setup is better than a life-changing amount in a complex setup copied from somebody else. And keeping some professionally supported Bitcoin is not a failure of conviction when it solves a real family or operational risk.
+
+The question is not whether self-custody is morally better. The question is which risks you want to own directly and whether the household can keep owning them for decades.
 
 ---
 
-## A7.3 Avoid custody concentration in one institution, vendor, or failure path
+## A7.3 Run the One-Failure Test across methods and providers
 
 > **Gate.** Research complete. Verify provider and device facts before naming them; no vendor-specific recommendation is implied.
 
-Concentration risk is not only holding too much Bitcoin. It can also mean every recovery path depends on the same company, device family, software, location, or person.
+Concentration risk is not only holding too much Bitcoin.
 
-An institution can fail operationally, freeze withdrawals, change jurisdiction, or enter bankruptcy. A hardware-wallet vendor can ship a flawed update or disappear. A single wallet application can stop supporting an old format. A physical location can be destroyed. One family member can become unavailable.
+It can also mean every recovery path depends on the same company, custody method, device family, software, location, or person.
+
+An institution can fail operationally, freeze withdrawals, change jurisdiction, or enter bankruptcy.
+
+A hardware-wallet vendor can ship a flawed update or disappear.
+
+A wallet application can stop supporting an old format.
+
+A physical location can be destroyed.
+
+One family member can become unavailable.
+
+And one custody method can protect the entire life-changing stack even when there are several devices or accounts inside that method.
 
 List the dependencies for each meaningful Bitcoin pool:
 
+- the job of the Bitcoin;
+- rough scale: replaceable, meaningful, or life-changing;
 - who controls withdrawals;
 - which devices and software are required;
-- where the backups are;
-- where the public wallet configuration is;
+- where the recovery components are distributed;
+- where the public wallet policy or descriptor is retained;
 - which provider or institution must cooperate;
+- how the family gets help;
 - and who knows the process.
 
 Then look for correlated failure.
 
-Three keys in three envelopes are not independent if all three are in the same house. Two hardware devices are not full vendor diversity if they use the same secure element, firmware path, and companion software. Two exchanges are not independent if both rely on the same custodian.
+Three keys in three envelopes are not independent if all three are in the same house.
 
-Diversification also has a cost. More vendors and devices create more maintenance, more interfaces, and more ways for the family to get confused. The goal is not maximum fragmentation.
+Two hardware devices are not full vendor diversity if they rely on the same secure element, firmware path, and companion software.
 
-Use separate custody pools when they have separate jobs or when one failure would otherwise threaten the entire stack. Keep the recovery plan simple enough that every pool can be identified and maintained.
+Two exchanges are not independent if both rely on the same custodian.
 
-At the annual review, ask what one event could still affect everything. Fix the largest remaining shared dependency rather than adding complexity without a specific threat.
+A self-custody wallet and a collaborative multisig can still share a single person, location, or undocumented family process.
+
+The One-Failure Test is:
+
+> Could one lost recovery component, one frozen account, one provider failure, one home disaster, one coercion event, or the owner's incapacity materially damage the family's plan?
+
+Run that test against each life-changing pool and then against the architecture as a whole.
+
+A useful second question is:
+
+> If this entire pool became inaccessible, would the financial plan still survive?
+
+The answer does not have to be that every pool is perfectly replaceable. The goal is to know which loss would be catastrophic and whether that exposure is intentional.
+
+Separate custody pools can make sense when they have separate jobs or when one failure would otherwise threaten too much of the plan.
+
+For example, a household may keep a directly controlled sovereign reserve and use a professionally supported method for the family-accessible or retirement-account portion. That can preserve direct control without making the whole plan depend on one self-custody process.
+
+The opposite can also be true. A household that values simplicity and has a well-tested setup may be safer with one method than with four systems nobody can maintain.
+
+Diversification has a cost: more devices, more providers, more interfaces, more recovery documents, and more ways for the family to get confused.
+
+The goal is not maximum fragmentation.
+
+Every additional method has to solve a named risk. Set a maximum exposure to one provider or failure domain only when the household can explain what that limit protects against.
+
+At the annual review:
+
+1. Reclassify the pools by rough scale. A meaningful amount can become life-changing without the custody process changing.
+2. Check whether two supposedly separate pools still share a hidden provider, device, software, person, or location.
+3. Test one recovery path.
+4. Ask what one event could still affect everything.
+5. Fix the largest shared dependency before adding more complexity.
+
+A setup does not become safer merely because the diagram has more boxes. It becomes safer when a real failure can happen and the family plan still survives.
 
 ---
 

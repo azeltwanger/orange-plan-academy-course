@@ -1,6 +1,4 @@
-## 7.5 WALKTHROUGH — Document the custody decision and current status without storing secrets
-
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
+# 7.5 · WALKTHROUGH — Document the custody decision and current status without storing secrets
 
 **Screen capture · about 10 minutes**
 

@@ -1,6 +1,8 @@
-## A7.3 Run the One-Failure Test across methods and providers
-
-> **Gate.** Research complete. Verify provider and device facts before naming them; no vendor-specific recommendation is implied.
+ADVANCED TELEPROMPTER SCRIPT — segment A7.3
+A7.3 Run the One-Failure Test across methods and providers
+565 words · ~3.6 min at 155 wpm · PRE-DICTATION FILMING DRAFT
+PUBLICATION GATE: Research complete. Verify provider and device facts before naming them; no vendor-specific recommendation is implied.
+============================================================
 
 Concentration risk is not only holding too much Bitcoin.
 
@@ -73,5 +75,3 @@ At the annual review:
 5. Fix the largest shared dependency before adding more complexity.
 
 A setup does not become safer merely because the diagram has more boxes. It becomes safer when a real failure can happen and the family plan still survives.
-
----

@@ -17,7 +17,7 @@ This registry records the positions that must stay consistent across the active 
 | College | Start with the parent's commitment and funding sources. A 529 is one tool; the one-third framework is an option, not a rule. |
 | Contributions | Reserve, match, provisional Extra Debt, Bridge versus Legacy, then the target inside the account. Module 4 finalizes the debt claim. |
 | Tax | Loan proceeds are generally not income at origination; liquidation, sale, cancellation, or restructuring can create tax consequences. |
-| Custody | Document the process, never the secrets. No universal seed/passphrase/key split is taught. |
+| Custody | Document the process, never the secrets. No universal seed/passphrase/key split is taught. Custody methods are not a wealth ladder; institutional custody belongs in the trade-off comparison, and one method or provider belongs in the One-Failure Test. |
 | Estate | Legal authority and technical control are separate. Beneficiary and trust results depend on the governing documents and law. |
 | Professional scope | Research verifies general mechanics; taxpayer-, state-, contract-, provider-, and device-specific execution keeps a targeted external gate. |
 
@@ -32,6 +32,8 @@ This registry records the positions that must stay consistent across the active 
 - A generated draft presented as Austin's original words.
 - The repeated `YOUR DECISION / PUT IT IN ORANGE PLAN / YOU ARE DONE WHEN` architecture forced onto every teach lesson.
 - One universal Bitcoin allocation, loan amount, LTV, UTXO threshold, insurance amount, trust clause, or inheritance key split.
+- A custody wealth ladder that treats institutional custody as a beginner option or multisig as the automatic destination for a larger balance.
+- A claim that multisig has no remaining single point of failure; state the exact failure removed and what can still fail.
 - Flat claims that borrowing creates no taxable event, beneficiary forms always override every other rule, or every irrevocable trust removes assets from an estate.
 - Any seed phrase, key, passphrase, PIN, password, or exact recovery location in an app, worksheet, legal document, screenshot, or AI tool.
 

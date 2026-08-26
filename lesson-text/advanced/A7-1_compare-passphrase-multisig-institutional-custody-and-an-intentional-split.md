@@ -1,6 +1,4 @@
-## A7.1 Compare passphrase, multisig, institutional custody, and an intentional split
-
-> **Gate.** Research complete. Verify exact devices, wallet software, descriptors, provider roles, institutional terms, and recovery procedures before any setup-specific footage.
+# A7.1 · Compare passphrase, multisig, institutional custody, and an intentional split
 
 Advanced custody is not a ladder where every serious Bitcoiner eventually puts everything into the most complicated self-custody setup.
 
@@ -67,5 +65,3 @@ Build a small test wallet or account. Send and receive. Lose or replace one comp
 Document the process without documenting the secrets.
 
 The safest architecture is not the one with the most hardware or the strongest ideological label. It is the simplest combination that removes the household's actual failure points, preserves the amount of direct control the household values, and can still be recovered by the people who inherit the responsibility.
-
----

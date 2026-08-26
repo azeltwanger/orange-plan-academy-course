@@ -6,6 +6,7 @@
 - All 28 core teach lessons have either Austin dictation or a deck-anchored pre-dictation filming draft.
 - All 10 core walkthroughs / demos have a current implementation sheet.
 - All 14 Advanced lessons have been renumbered, rewritten as pre-dictation drafts, and attached to the correct core module.
+- Module 7 now uses a custody trade-off and One-Failure framework instead of a wealth ladder; institutional custody and intentional splits are treated as legitimate planning choices.
 - Slide concepts are mapped in `SCREEN-SHOOT-LIST.md` and appear as visual cues inside the teach scripts.
 - The first full confidence run now happens in Module 9 after the complete plan is built.
 
@@ -28,4 +29,5 @@ There are no remaining structural course-flow blockers.
 - Made the Week 3 Extra Debt rung explicitly provisional until Week 4 returns the final amount to Routing.
 - Corrected the remaining sequence-of-returns wording in the Austin Reserve script.
 - Replaced stale Advanced numbering, gate, source-map, claim-registry, college-authority, and research-verification documents.
+- Added the no-secrets Custody Decision Map and synchronized the revised core, Advanced, visual, checkpoint, and production layers.
 - Re-ran active-layer checks for module order, confidence timing, authorship labels, walkthrough separation, and retired copywriting headings.

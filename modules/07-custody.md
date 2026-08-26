@@ -1,76 +1,131 @@
 # Unit 8 · Module 7 — Custody
 
-*Choose a custody level, prove recovery, harden the accounts, and remove the largest single point of failure without storing secrets in the plan.*
+*Choose which custody risks to keep or transfer, prove every recovery path, and make sure one device, method, provider, or person cannot materially damage the family's plan.*
 
-**You will build:** A tested custody process, one major failure point fixed, and a no-secrets checklist with an encrypted plan backup.
+**You will build:** A custody direction, a no-secrets map of the meaningful Bitcoin pools, a proven recovery path, and one major failure point fixed.
 
-## 7.1 Choose a custody setup your household can recover
+## 7.1 Self-custody, professional custody, and when a split makes sense
 
-*`TEACH` · ~4.4 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~7 min · PRE-DICTATION FILMING DRAFT*
 
-Everything in the financial plan assumes the Bitcoin is still there and the right people can reach it.
+Most custody advice starts by asking, "What is the safest setup?"
 
-Custody is where that assumption becomes real.
+I think that is the wrong question, because every setup can fail.
 
-I want to separate custody from inheritance before we start. Custody is the operational side: where the Bitcoin is held, how access works, how recovery works, and what can fail. Estate planning is the legal side: who has authority and who receives the assets. They have to fit together, but they are not the same job.
+Self-custody protects you from a company freezing withdrawals, failing, or deciding when you can access your Bitcoin. But it makes you responsible for recovery, physical security, and leaving a process your family can follow.
 
-There is one rule for the entire module: document the process, never the secrets.
+Professional custody takes some of that burden off you and may give the family support, administration, and a legal or contractual process when something goes wrong. But you give up direct control and accept that an institution can delay or restrict access.
 
-No seed phrases, private keys, passphrases, PINs, or exact recovery information go into Orange Plan, an heir letter, a cloud note, a photo, an email, or an AI tool. The plan can tell somebody who to contact and what process exists. It should not become a treasure map.
+Multisig can make one lost key survivable. It also gives you more keys, more documentation, and more ways to build something the family does not understand.
 
-> **Visual:** Custody deck frame: where held, what type, who knows, what if unavailable, where are the single points of failure.
+There is no setup with no trade-offs.
 
-The first question is what job the Bitcoin has.
+The goal is to decide which risks you are willing to own and make sure one mistake, one provider, one device, or one bad day cannot destroy the family's plan.
 
-Bitcoin being held for near-term liquidity may sit in a different setup from the long-term family stack. Bitcoin inside an IRA or ETF has different access and counterparty risks from direct Bitcoin. Collateral posted to a lender has a completely different job again.
+Before we go farther, I want to separate custody from inheritance.
 
-One person can reasonably use more than one custody method because the coins are doing more than one job.
+Custody is the operational side: where the Bitcoin is held, who can move it, how recovery works, and what can fail.
 
-Then choose the level of responsibility that fits the amount and the household.
+Estate planning is the legal side: who has authority and who receives the asset.
 
-> **Visual:** Custody levels 1 through 4.
+They have to fit together, but they are not the same job.
 
-Level one is a hardened exchange or broker for a smaller or learning-stage amount. That still means a unique password, a secured email account, strong two-factor authentication, withdrawal protections, and a clear understanding that the institution controls the withdrawal process.
+And there is one rule for the entire module: document the process, never the secrets.
 
-Level two is direct ownership with a hardware wallet. The seed is created offline, the device is tested with a small amount, and recovery is proven before meaningful Bitcoin depends on it.
+No seed phrase, private key, passphrase, PIN, password, descriptor contents, or exact recovery location goes into Orange Plan, an heir letter, a cloud note, a photo, an email, or an AI tool. The plan can tell somebody what exists, who to call, and where the process starts. It should never become a treasure map.
 
-Level three is a larger family setup. This may use a passphrase, collaborative support, or another design that separates responsibilities and gives the household a realistic recovery path.
+> **Visual:** Four methods compared side by side: direct self-custody, collaborative multisig, institutional custody, intentional split. Each gets two rows: what it protects against and what you accept.
 
-Level four is a higher-value or more complex setup, often using multisig or professional collaborative custody, coordinated with the legal plan and tested with the people who may eventually use it.
+The first decision is not the product. It is which risk you are trying to reduce.
 
-The levels are not a status ladder. More complicated is not automatically safer.
+Direct self-custody protects against provider failure, frozen withdrawals, and loss of direct control. The trade-off is that recovery mistakes, physical security, and family continuity become your responsibility.
 
-A simple hardware-wallet setup that is tested, backed up, and understood can be safer than a multisig arrangement where nobody knows the wallet configuration or where the keys are.
+Collaborative multisig can make one lost key survivable and give the family a provider that understands the setup. The trade-off is more setup, more maintenance, fees, provider involvement, and a recovery process that still has to be understood.
 
-The right setup is the one you can maintain, explain, and recover from. It also has to be a setup your spouse, executor, or heirs can navigate with the help you planned for them.
+Institutional custody protects against personal key loss and some technical mistakes. It can also make administration simpler for a spouse, executor, or trustee. The trade-off is counterparty risk, withdrawal restrictions, identity checks, and less direct control.
 
-I would evaluate any custody method against five risks.
+An intentional split protects against one method or one provider taking out the entire plan. The trade-off is that the household now has more than one system to maintain and document.
 
-First, loss. What happens if the device, seed, login, or one location is destroyed?
+A split is not automatically better. Every additional setup needs to solve a named risk. Otherwise it is just extra complexity.
 
-Second, theft. What can an attacker do with one compromised component?
+The next question is how much direct control matters to you.
 
-Third, unavailability. What happens if you are alive but unable to act for a month or a year?
+> **Visual:** Three-position control preference: Non-negotiable · Important, not absolute · Support and simplicity matter more.
 
-Fourth, death. Do the legal authority and technical recovery process lead to the same people?
+For one person, direct control is non-negotiable. They want a meaningful amount that no institution can freeze.
 
-Fifth, complexity. How many steps, vendors, files, and assumptions have to remain correct for the next twenty years?
+For another person, direct control matters, but it is not absolute. They may want some Bitcoin they control directly and some professionally supported.
 
-The setup should have redundancy without accidentally giving one untrusted person everything needed to spend.
+For another household, support, recourse, and family simplicity matter more than controlling every key personally.
 
-And it should avoid concentration where possible. One institution, one hardware-wallet vendor, one firmware path, one physical location, or one person can all become a single point of failure when too much depends on them.
+None of those answers automatically tells you which product to use. It tells you which trade-off you are not willing to give up.
 
-You do not have to solve every advanced problem in this module. The core outcome is much simpler:
+Then name the job of each meaningful Bitcoin pool.
 
-- choose the custody level that fits the stack today;
-- make sure the current method is hardened;
-- prove the recovery that method requires;
-- identify the largest single point of failure;
-- and document the process without documenting the secrets.
+Bitcoin used for near-term liquidity has a different job from a long-term sovereign reserve. Bitcoin in a retirement account has a different recovery and legal path from direct Bitcoin. Bitcoin posted to a lender has a different failure path again.
 
-The advanced lesson compares passphrase, collaborative custody, and DIY multisig in more detail. The estate module coordinates the chosen setup with the executor and legal documents.
+One household can reasonably use more than one custody method because the Bitcoin is doing more than one job.
 
-In the walkthrough, we'll use Protect as a no-secrets checklist. We will record which protections are actually complete, identify the next single point of failure to fix, and create an encrypted backup of the plan itself.
+I would classify each pool by rough scale instead of writing exact balances on a sensitive document:
+
+- replaceable;
+- meaningful;
+- life-changing.
+
+The decision changes when the amount becomes life-changing. A hardware wallet that felt reasonable when it held a smaller amount can eventually represent the family's entire financial future. Nothing about the device changed. What was at stake did.
+
+That is when concentration in one method becomes a risk of its own.
+
+> **Visual:** The One-Failure Test: lost recovery material · frozen account · provider failure · home disaster · coercion · incapacity · family unable to execute.
+
+For every meaningful pool, run the One-Failure Test:
+
+Could one lost seed, one frozen account, one provider failure, one home disaster, one coercion event, or my incapacity materially damage the family's plan?
+
+If the answer is yes, the setup may be too concentrated.
+
+Notice what this does not say. It does not say every large balance belongs in multisig. It does not say institutional custody is only for beginners. It does not say every household needs three different setups.
+
+It says the architecture has to match the actual failure that matters.
+
+A single, well-run method can be enough when the amount is replaceable or not plan-critical, the recovery has been proven, the family dependency is limited, and simplicity is worth more than diversification.
+
+An intentional split starts to make more sense when the amount is life-changing, one method protects almost everything, the household values both direct control and support, and the family can maintain the additional complexity.
+
+I would use five steps to make the decision:
+
+1. Name the job of the Bitcoin.
+2. Name the failure you are protecting against.
+3. Decide how much direct control matters.
+4. Run the One-Failure Test.
+5. Choose the simplest architecture that passes.
+
+That last line matters. The goal is not the most advanced setup. It is the simplest setup that removes the household's real failure points and can still be maintained ten or twenty years from now.
+
+I would measure readiness with four outcomes instead of a wealth ladder:
+
+1. The accounts and recovery channels are secured.
+2. Any direct custody has been proven through a real recovery test.
+3. Family continuity exists: somebody besides you understands the process and knows who to call.
+4. Catastrophic concentration is removed: no single device, person, provider, method, or location can materially destroy the plan.
+
+A household can reach the fourth outcome with one strong method or a thoughtful combination. It does not mean graduating every coin into one increasingly complicated wallet.
+
+Before the next lesson, make one decision and one action.
+
+Choose the current custody direction: one method or an intentional split.
+
+Then name the first unfinished protection step for that direction.
+
+If direct self-custody is the direction, that may be proving recovery with a small test wallet.
+
+If an institutional bucket is part of the direction, that may be hardening the email account, adding phishing-resistant authentication, and reviewing the withdrawal and beneficiary process.
+
+If collaborative multisig is the direction, that may be understanding the provider-independent recovery path before moving meaningful funds.
+
+If an intentional split is the direction, write the job and maximum exposure for each bucket before moving anything.
+
+The next two lessons handle the operational work: proving a hardware-wallet recovery and fixing the largest remaining single point of failure. The Advanced Library goes deeper on passphrases, multisig, institutional custody, and concentration across providers.
 
 ---
 
@@ -129,55 +184,101 @@ The external demo will show the actual process using a throwaway wallet with no 
 
 ## 7.3 Fix the single points of failure and harden the accounts
 
-*`TEACH` · ~3.6 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~5 min · PRE-DICTATION FILMING DRAFT*
 
-The failures that lose Bitcoin are usually not somebody breaking the cryptography.
+Most Bitcoin losses are not somebody breaking the cryptography.
 
-They are one weak login, one backup, one location, one person who knows the process, or one rushed decision with no second check.
+They are one weak login, one backup, one location, one person who knows the process, one provider, or one rushed decision with no second check.
 
 I call these the "only one" problems.
 
-> **Visual:** Custody deck list: one device, one seed copy, one location, one weak login, one heir with no idea, one lost passphrase, all multisig keys together.
+> **Visual:** The expanded only-one list: device · recovery backup · location · person · email or login · custody method · institutional provider · family process · wallet configuration.
 
-Go through the setup and look for the word one.
+Go through every meaningful Bitcoin pool and look for the word one.
 
 Only one hardware device.
 
-Only one seed backup.
+Only one recovery backup.
 
 Only one physical location.
 
 Only one person who understands what exists.
 
-Only one email account protecting every exchange login.
+Only one email account protecting every custodial login.
 
-Only one passphrase record, or no one else who even knows a passphrase is part of the recovery.
+Only one custody method protecting all of the life-changing Bitcoin.
 
-All multisig components stored in the same building.
+Only one institution holding all of the professionally custodied Bitcoin.
+
+Only one copy of the wallet policy or descriptor needed to reconstruct a multisig wallet.
+
+Only one family member who knows who to call.
 
 A legal document naming one person while the technical recovery process points to somebody else.
 
-You do not have to fix every item this week. Rank the top one to three by the damage they could cause, then fix the first one.
+The important addition is method and provider concentration.
 
-The fix may be a second location, a tested backup device, a second person who understands the process, a provider contact, or updated legal and beneficiary information. The answer depends on the setup. The rule is that no ordinary failure should erase every recovery path.
+A person can have several devices and backups and still have the entire plan depend on one method. They can also spread Bitcoin across two account names that rely on the same underlying custodian or recovery system.
 
-Account hardening is part of custody too.
+That is why I want you to test failure domains, not count objects.
 
-Use a strong, unique password for the email account and each exchange or financial institution. The email account comes first because it is often the reset path for everything else.
+Three keys in the same house are still exposed to one house fire.
 
-Use app-based two-factor authentication or a hardware security key rather than relying only on SMS when the provider supports it.
+Two devices using the same vendor, firmware path, and companion software may not be as independent as they look.
 
-Turn on withdrawal delays, allowlists, or additional approval steps when they fit the way you use the account.
+Two custodial accounts may still depend on the same underlying company.
 
-Save the institution's official contact method before you need it. Do not use the phone number, login link, or support account supplied in an urgent message.
+Redundancy means one event does not erase every recovery path. It does not mean buying more hardware until the diagram looks complicated.
+
+Use the rough scale from the first lesson: replaceable, meaningful, or life-changing.
+
+Then ask one question for each row in the custody map:
+
+If this entire row became inaccessible, would the financial plan still survive?
+
+A temporary problem with a replaceable amount is different from a failure that destroys the retirement plan or leaves the family unable to act.
+
+> **Visual:** One-Failure Test card with seven events and one final question: “Would the plan survive?”
+
+Run the test against:
+
+- lost or damaged recovery material;
+- a frozen institutional account;
+- a provider or vendor disappearing;
+- physical theft or coercion;
+- a home disaster;
+- your incapacity or death;
+- and the family being unable to execute the process.
+
+If one event materially damages the plan, that is the failure point to work on.
+
+You do not have to fix everything this week. Rank the top one to three by the damage they could cause, then fix the first one.
+
+The fix may be a second location, a proven backup device, another person who understands the process, a provider-independent recovery path, a second custody method, or a lower maximum exposure to one institution.
+
+The answer depends on the setup. The rule is that every added component must solve the failure you named.
+
+Account hardening is part of custody too, especially for institutional custody, exchanges, retirement accounts, and the email account that can reset them.
+
+Use a strong, unique password for the email account and every financial institution.
+
+Secure the email account first because it is often the master reset path.
+
+Use phishing-resistant hardware security keys or passkeys when the provider supports them. App-based two-factor authentication is still better than relying only on SMS.
+
+Turn on withdrawal delays, allowlists, additional approvals, or account-lock features when they fit the way the account is used.
+
+Review who the provider recognizes after death or incapacity. A hardened login is not a family recovery plan if nobody else can complete the legal process.
+
+Save the institution's official support path before you need it. Do not use the phone number, login link, or support account supplied in an urgent message.
 
 A few years ago, somebody called my bank pretending to be me and tried to move about ten thousand dollars. They did not get it, but it made the weakness very real. That is when I moved my email and important exchange logins to physical security keys.
 
-An authenticator app is good. A hardware key can add phishing resistance because it is bound to the real website instead of giving you a code that can be typed into a convincing fake page.
+An authenticator app is good. A hardware security key can add phishing resistance because it is bound to the real website instead of giving you a code that can be typed into a convincing fake page.
 
 Then there are the scam rules.
 
-Urgency is the biggest warning sign. Somebody says the account is being drained, the device is compromised, or the offer expires in ten minutes. The goal is to make you skip the normal verification process.
+Urgency is the biggest warning sign. Somebody says the account is being drained, the wallet is compromised, or the offer expires in ten minutes. The goal is to make you skip the verification process.
 
 No legitimate provider needs your seed phrase or private key.
 
@@ -185,11 +286,20 @@ No support agent needs you to move Bitcoin into a "safe" wallet they supplied.
 
 Guaranteed returns, send-one-get-two offers, and unsolicited recovery help are scams.
 
-If somebody claims the account is compromised, end the communication. Open the official app or type the known website yourself. Contact the provider through the method you already verified.
+If somebody claims an account is compromised, end the communication. Open the official app or type the known website yourself. Contact the provider through the method you already verified.
 
-The same pause applies to real security changes. Moving a large balance, changing a multisig setup, adding a passphrase, or replacing a device should not happen because you feel rushed.
+The same pause applies to real security changes. Moving a life-changing balance, changing a multisig setup, adding a passphrase, replacing a device, or changing institutional providers should not happen because you feel rushed.
 
-Before the walkthrough, identify the single most dangerous "only one" in your current setup. That is the item you are going to record and fix first. The app checklist is not the security itself. It is the map of what has and has not actually been done.
+Before the walkthrough, complete the custody map at a no-secrets level:
+
+- the job of each meaningful Bitcoin pool;
+- its rough share or scale;
+- how it is held;
+- what that method protects against;
+- the biggest remaining failure;
+- and the family recovery path.
+
+Then circle the one failure that could do the most damage. That becomes the next action. The app checklist is not the security itself. It is the honest record of what has and has not actually been done.
 
 ---
 
@@ -286,54 +396,112 @@ Record in `DEVICE-DEMO-VERIFICATION.md`:
 - reviewer who checked raw footage for secrets.
 ---
 
-## 7.5 WALKTHROUGH — Document the custody status without storing secrets
+## 7.5 WALKTHROUGH — Document the custody decision and current status without storing secrets
 
 *`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
 
-**Screen capture · about 7 minutes**
+**Screen capture · about 10 minutes**
 
 ## Before recording
 
-- Hardware-wallet demo completed or clearly marked as still outstanding.
-- A chosen custody level.
+- The custody-direction decision from Lesson 7.1: one method or intentional split.
+- Direct-control preference stated: non-negotiable · important but not absolute · support and simplicity matter more.
+- Hardware-wallet recovery completed or clearly marked as still outstanding.
 - One real single point of failure to fix.
-- No secret material anywhere near the demo account or recording notes.
+- The no-secrets Custody Decision Map open beside the app.
+- No secret material anywhere near the demo account, worksheet, or recording notes.
 
-## 1 · Open Protect
+## 1 · State the custody direction before opening the checklist
+
+**DO** Show the no-secrets Custody Decision Map.
+
+**RECORD**:
+
+- one primary method or an intentional split;
+- how much direct control the household needs to retain;
+- the risk the architecture is meant to reduce;
+- and the first unfinished action.
+
+**SAY** The app checklist records implementation status. It does not decide that every larger balance should move into a more complicated self-custody setup.
+
+## 2 · Map the meaningful Bitcoin pools
+
+For each meaningful pool, record only:
+
+- the job of the Bitcoin;
+- rough share or scale: replaceable · meaningful · life-changing;
+- how it is held;
+- what that method protects against;
+- the biggest remaining failure;
+- and the family recovery path.
+
+**SHOW** at least two different jobs when the demo household uses them, such as directly controlled long-term Bitcoin and professionally custodied retirement-account exposure.
+
+**⚠** Do not record an exact balance when a rough share or scale is enough.
+
+**⚠** Do not record a seed, key, passphrase, PIN, descriptor contents, password, backup location, or exact recovery sequence.
+
+## 3 · Run the One-Failure Test
+
+For every life-changing row, ask:
+
+- What if the provider freezes or disappears?
+- What if the device and backup fail?
+- What if the home or storage location is compromised?
+- What if the owner is unavailable for six months?
+- What if the spouse or executor has to handle this without the owner?
+- Could one event materially damage the financial plan?
+
+**CIRCLE** the largest current failure.
+
+**SAY** More hardware is not the goal. Every extra method, provider, or device has to solve the failure we just named.
+
+## 4 · Open Protect
 
 **DO** Protect → readiness / security checklist.
 
 **SEE** current tier, checklist sections, and attention queue.
 
-**SAY** The app's tier is an implementation checklist. The household's custody level is the actual design decision from Lesson 7.1.
+**SAY** The app's tier determines which implementation items it asks about. The household's custody direction and risk trade-offs came from the decision map, not from a wealth ladder.
 
-## 2 · Complete the checklist honestly
+## 5 · Complete the checklist honestly
 
 **DO** Review Hardware · Distribution · Legal · Access-after-death or the current sections.
 
 **CHECK** only items that are true today.
 
-**⚠** A recovery-test item stays open until recovery was actually proven. Buying a hardware wallet does not complete it.
+**⚠** A recovery-test item stays open until the recovery was actually proven. Buying a hardware wallet does not complete it.
 
-**SAY** what is not being entered: no seed, passphrase, PIN, key, descriptor contents, or storage coordinates.
+**⚠** An institutional account is not "secure" merely because it exists. Email security, authentication, withdrawal protections, beneficiary or estate process, and provider concentration still matter.
 
-## 3 · Use the attention queue
+**SAY** what is not being entered: no seed, passphrase, PIN, key, descriptor contents, password, or storage coordinates.
+
+## 6 · Use the attention queue
 
 **SEE** the top incomplete essential.
 
-**CHOOSE** the largest current "only one" and state the fix and deadline.
+**COMPARE** it with the failure circled on the map.
+
+**CHOOSE** the next action, owner, and deadline.
+
+Examples:
+
+- Direct self-custody → prove recovery with a trivial test wallet.
+- Institutional custody → harden email, add phishing-resistant authentication, and document the provider's family process.
+- Collaborative multisig → verify provider-independent recovery and the wallet policy backup.
+- Intentional split → define the job and maximum exposure for each bucket before moving funds.
 
 **SAY** The goal is one meaningful reduction in risk, not checking every box for appearance.
 
-## 4 · Confirm the process contacts without secrets
+## 7 · Confirm process contacts without secrets
 
 **DO** Review the relevant contact / provider fields that store names or roles, not recovery material.
 
-**SAY** Who the household calls first and which provider or technical helper is part of the process.
+**SAY** Who the household calls first and which provider, technical helper, attorney, or executor is part of the process.
 
-**⚠** Estate authority and heir instructions are completed in Module 8.
+**⚠** Estate authority and heir instructions are completed in Module 8. This walkthrough only confirms that the operational path has a starting point.
 
-## 5 · Back up the plan itself
+## 8 · Back up the plan itself
 
 **DO** Settings → Data & Privacy → Backup & Restore.
 
@@ -343,18 +511,19 @@ Record in `DEVICE-DEMO-VERIFICATION.md`:
 
 **⚠** In Local Only mode, the export may be the only recovery path for the plan data.
 
-## 6 · Schedule the annual custody check
+## 9 · Schedule the annual custody check
 
 Record:
 
 - prove one recovery;
 - inspect backups and locations;
-- review device / software support;
-- re-scan shared dependencies;
-- refresh account security;
+- review device, software, institution, and provider support;
+- re-run the One-Failure Test across methods and providers;
+- refresh account and email security;
+- confirm the family knows the first call;
 - update the encrypted plan backup.
 
-## 7 · Close Custody
+## 10 · Close Custody
 
 **DO** Return to Build Your Plan / Protect status.
 
@@ -362,19 +531,46 @@ Record:
 
 ## Module 7 checkpoint
 
-- Custody level is chosen.
+- Custody direction is one method or an intentional split, chosen on purpose.
+- Direct-control preference and the risk being reduced are stated.
+- Every meaningful Bitcoin pool has a no-secrets job, scale, method, remaining failure, and family path.
 - Hardware recovery is proven or clearly outstanding.
-- Top single point of failure has an owner and deadline.
+- The One-Failure Test identified the largest current weakness.
 - Important accounts and email are hardened.
-- No secret is stored in Orange Plan or the course notes.
+- No secret is stored in Orange Plan, the worksheet, or the course notes.
 - Encrypted plan backup is saved.
+
 ---
 
 ## Module checkpoint
 
-- [ ] Custody level is chosen for the amount and household.
+- [ ] Custody direction is one method or an intentional split, chosen on purpose.
+- [ ] Direct-control preference and the risk being reduced are stated.
+- [ ] Every meaningful Bitcoin pool has a no-secrets job, scale, method, remaining failure, and family path.
 - [ ] Hardware recovery is proven or clearly outstanding.
-- [ ] The top single point of failure has an owner and deadline.
+- [ ] The One-Failure Test identified the largest current weakness.
 - [ ] Important accounts and email are hardened.
-- [ ] No seed, key, passphrase, or PIN is stored in the app or course notes.
+- [ ] No seed, key, passphrase, PIN, password, descriptor contents, or exact recovery location is stored in the app, map, or course notes.
 - [ ] An encrypted backup of the plan data exists.
+
+<!-- ADVANCED-GATE:START -->
+
+## Related advanced lessons
+
+**Your core plan is complete.** These are optional, and each one is
+worth watching only when its condition is true for you. Continue only if
+one of these describes your situation:
+
+- **A7.1 Compare passphrase, multisig, institutional custody, and an intentional split**
+  → *Research complete. Verify exact devices, wallet software, descriptors, provider roles, institutional terms, and recovery procedures before any setup-specific footage.*
+- **A7.2 What self-custody actually asks of you**
+  → *Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.*
+- **A7.3 Run the One-Failure Test across methods and providers**
+  → *Research complete. Verify provider and device facts before naming them; no vendor-specific recommendation is implied.*
+- **A7.4 UTXOs, dust, consolidation, and address use**
+  → *Research complete. Verify current wallet behavior and network fees before demonstrating; use a test wallet and never expose live addresses unnecessarily.*
+
+*Generated by `tools/build-module-gates.py` from the Gate line on each
+advanced lesson. Edit the condition there, not here.*
+
+<!-- ADVANCED-GATE:END -->
