@@ -1,34 +1,13 @@
 # Read your starting retirement date and the confidence number you will run later
 
-The onboarding age is a deterministic estimate from rough inputs and the growth model you selected. It is not the finished plan and it is not a Monte Carlo confidence result.
+The age shown during onboarding comes from **one deterministic projection** using the rough inputs and growth model selected during setup. Orange Plan checks different retirement ages and finds the earliest age where that projection can fund spending through the life-expectancy assumption.
 
-Orange Plan waits to show the confidence percentage because a precise score from rough data would create false precision.
+It is not an average of many paths, and onboarding does not run Monte Carlo or show a confidence percentage.
 
-After every Build Your Plan area is complete, Module 9 runs 1,000 market paths through the full plan. The confidence number is the share that funded the plan as written.
+After the full plan is built, Orange Plan runs 1,000 market paths using the real accounts, spending, debts, taxes, future expenses, contributions, and retirement-income decisions. The confidence number is the share of those modeled paths that funded the plan as written.
 
-You will also set a confidence target. The finished earliest retirement date is the first age that clears that target. The default is 80%.
+An 82% result means 820 of 1,000 modeled paths funded the entered plan. It does not mean there is a precisely measured 18% chance of going broke; the other paths may require an adjustment.
 
-- The date tells you when.
-- The confidence number tells you how sturdy that date is.
+## Before the walkthrough
 
-For any output, ask:
-
-1. What is it calculated from?
-2. Where is the source edited?
-3. What changes downstream?
-
-## Next
-
-The Foundation walkthrough enters personal details, real accounts, current holdings, and assumptions. It does not enter every other part of the plan or run the final confidence check.
-
-## Your decision
-
-Which rough onboarding input is most likely to change when the full plan is built.
-
-## Put it in Orange Plan
-
-Open **Build Your Plan → Foundation**. Do not run the full confidence check yet.
-
-## You are done when
-
-You can explain the difference between the onboarding estimate and the finished plan.
+Write down the onboarding age and the rough input most likely to change. Then open **Build Your Plan → Foundation** to replace the rough asset estimate with real accounts and current holdings and review the assumptions behind it.
