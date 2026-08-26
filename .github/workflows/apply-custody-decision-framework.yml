@@ -36,6 +36,12 @@ jobs:
           PY
           python3 custody-framework/apply.py
           python3 custody-framework/sync-modules.py
+          python3 - <<'PY'
+          from pathlib import Path
+          for name in ('FILM-ORDER.md', 'DICTATION-ORDER.md'):
+              p = Path(name)
+              p.write_text(p.read_text(encoding='utf-8').rstrip() + '\n', encoding='utf-8')
+          PY
 
       - name: Verify custody positions and layer parity
         run: |
