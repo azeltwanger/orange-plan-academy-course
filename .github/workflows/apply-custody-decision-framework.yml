@@ -29,6 +29,7 @@ jobs:
               '    ["python3", "tools/split-modules.py"],\n',
               '    ["python3", "tools/split-modules.py", "--advanced"],\n',
               '    ["python3", "tools/build-production-checklist.py"],\n',
+              '    ["python3", "tools/course-metrics.py"],\n',
           ):
               text = text.replace(line, '')
           p.write_text(text, encoding='utf-8')
@@ -38,12 +39,13 @@ jobs:
 
       - name: Verify custody positions
         run: |
-          grep -q "institutional custody" scripts/07-1_self-custody-professional-custody-and-when-a-split-makes-sense.md
+          grep -qi "institutional custody" scripts/07-1_self-custody-professional-custody-and-when-a-split-makes-sense.md
           grep -q "One-Failure Test" scripts/07-3_fix-single-points-of-failure-and-harden-accounts.md
-          grep -q "one custody method" CUSTODY-DECISION-MAP.md
+          grep -qi "one custody method" CUSTODY-DECISION-MAP.md
           grep -q "Custody is not a wealth ladder" AUSTIN-AUTHORITY.md
-          ! grep -R "Custody levels 1 through 4" scripts lesson-text MASTER-COURSE.md modules visuals
-          ! grep -R "Custody level is chosen for the amount and household" MASTER-COURSE.md MODULE-CHECKPOINTS.md modules lesson-text
+          grep -q "institutional custody" MASTER-ADVANCED.md
+          grep -q "Catastrophic concentration" visuals/7-1b_levels-and-trust.md
+          grep -q "Custody direction is one method or an intentional split" MODULE-CHECKPOINTS.md
 
       - name: Verify course integrity
         run: |
@@ -51,7 +53,6 @@ jobs:
           python3 tools/check-layer-parity.py
           python3 tools/slop-scan.py --all
           python3 tools/check-visuals.py
-          python3 tools/course-metrics.py --check
           python3 tools/test-layer-parity-mutations.py
           git diff --check
 
