@@ -18,6 +18,26 @@ jobs:
         with:
           ref: course-slide-deck-flow-reset
           fetch-depth: 0
+      - name: Restore the approved Week 3 and Week 4 numbering
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          path = Path('course-rebuild/core_b.py')
+          text = path.read_text(encoding='utf-8')
+          text = text.replace('    "3.1": {', '    "__DEBT__": {', 1)
+          text = text.replace('    "4.1": {', '    "3.1": {', 1)
+          text = text.replace('    "4.2": {', '    "3.2": {', 1)
+          text = text.replace('    "4.3": {', '    "3.3": {', 1)
+          text = text.replace('    "4.4": {', '    "3.4": {', 1)
+          text = text.replace('    "__DEBT__": {', '    "4.1": {', 1)
+          text = text.replace(
+              'This is why Debt comes before Allocation in the current course.',
+              'Week 3 saves this rung provisionally because Debt is taught next.',
+              1,
+          )
+          path.write_text(text, encoding='utf-8')
+          PY
       - name: Apply rebuild
         run: python3 course-rebuild/apply.py
       - name: Verify rebuilt course
