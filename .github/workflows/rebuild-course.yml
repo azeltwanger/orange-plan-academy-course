@@ -1,0 +1,31 @@
+name: Rebuild course from decks
+
+on:
+  push:
+    branches:
+      - course-slide-deck-flow-reset
+    paths:
+      - course-rebuild/RUN
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: course-slide-deck-flow-reset
+          fetch-depth: 0
+      - name: Apply rebuild
+        run: python3 course-rebuild/apply.py
+      - name: Verify
+        run: python3 course-rebuild/verify.py
+      - name: Commit
+        run: |
+          git config user.name "OpenAI Course Rebuild"
+          git config user.email "noreply@openai.com"
+          git add -A
+          git commit -m "Rebuild course for filming" || exit 0
+          git push origin HEAD:course-slide-deck-flow-reset
