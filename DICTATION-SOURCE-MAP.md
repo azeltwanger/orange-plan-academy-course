@@ -1,68 +1,43 @@
 # Dictation source map
 
-This file says which words came from Austin, what an editor changed, and where the original source lives. It exists so a future edit cannot call generated prose "dictation" or silently overwrite a planning position.
+This file distinguishes Austin's retained words from editorially prepared drafts.
 
-## Source record
+## Retained Austin dictation
 
-Original source: `source-material/2026-08-25-module-0-1-dictation.md`.
+### 0.1 · How to use this course
 
-The original is preserved as supplied. The live scripts are allowed to fix sequencing, grammar, app paths, and verified math, but the change has to be named here.
+Austin's original course orientation remains the spoken authority. The rebuild changed the module order to Week 3 Allocation and Week 4 Debt, added the current teach/walkthrough/Build Your Plan distinction, and added the US-versus-non-US boundary. Those changes are factual course-structure edits, not evidence that Austin dictated the new lines.
 
-## 0.1 · How to use this course
+### 1.1 · What to gather before you build the plan
 
-Austin's note was: **"Looks good in my voice for now."** The existing `AUSTIN DICTATION` script remains the authority. The 2026-08-25 lifecycle pass only changed references that became factually wrong after onboarding and Build Your Plan changed.
+Austin's gathering guidance remains the authority: verify debt rates, collect employer-benefit details, identify expected future events, and download old exchange and brokerage history. The editorial close now makes gathering separate from entering and sends each item to the module that owns it.
 
-## 0.2 · How to use Orange Plan AI
+### 1.2 · The three layers of a plan, and setting your assumptions
 
-**Source type:** Austin direction, not line-by-line dictation.
+Austin's baseline / life-event / scenario distinction and conservative-assumption position remain the authority. The inflation example was corrected mathematically, and the click path was removed from the teach lesson because the Foundation walkthrough owns it.
 
-Austin directed the lesson to focus on benefits and actual use: the buttons, useful prompts, the daily Bitcoin market report, asking questions as plan numbers update, finding missing considerations, and exporting a privacy-scrubbed file to a preferred AI. The rewritten script follows that brief. Privacy remains, but it no longer owns the lesson.
+### 2.2 · Size your cash reserve in months of spending
 
-**Editorial work:** app behavior was verified against the Orange Plan code. The script is labelled `SPOKEN-PROSE VERSION (calibrated)`, not `AUSTIN DICTATION`, because Austin gave the target and examples rather than a complete spoken script.
+Austin's Reserve-sizing lesson remains the authority. The close now hands implementation to the walkthrough and correctly states that Orange Plan calculates the target from the selected monthly basis and months.
 
-## 1.1 · What to gather before you build the plan
+## Austin direction, not line-by-line dictation
 
-**Source type:** Austin dictation, especially items 4 through 7.
+### 0.2 · How to use Orange Plan AI
 
-Preserved positions include:
+Austin directed the benefits, buttons, daily Bitcoin report, plan-review prompts, blind-spot use, and privacy-scrubbed export. The live script is therefore labeled PRE-DICTATION FILMING DRAFT rather than AUSTIN DICTATION.
 
-- log in and verify every debt balance and current rate
-- gather the actual employer-match formula, pension, deferred compensation, and stock-option information
-- begin thinking through expected future income and expenses
-- start cost-basis reconstruction now, download every exchange and brokerage CSV, and keep the files in one folder
-- gathering everything up front is easier, but gathering it module by module is also valid
+### Future-event and college decisions
 
-**Editorial work:** the live script separates gathering from entering. Foundation enters real accounts and holdings. Cash Flow enters income, spending, reserve, and life events. Debt enters loans. Tax reconstructs history and basis. No planning recommendation was replaced.
+Austin established that Bitcoin can remain part of funding more than five years out and that college planning starts with the parent commitment, not the 529 or full sticker price. The current 2.3 and 2.4 drafts implement those positions, including the optional one-third framework as an option rather than a rule.
 
-## 1.2 · The three layers of a plan, and setting your assumptions
+### Contribution waterfall
 
-**Source type:** Austin dictation.
+The old slide deck supplies the base order and reasoning. The current 3.3 draft treats Extra Debt as provisional until Module 4. Austin can refine the exact exceptions while dictating; there is no structural blocker and no generated exception is represented as his prior wording.
 
-Preserved positions include:
+## Every other teach lesson
 
-- baseline contains today's facts plus the assumptions used to project them
-- expected changes belong in life events
-- hypothetical questions belong in Scenarios
-- Orange Plan projects a retirement plan; it is not a forever coffee-category budgeting app
-- assumptions drive tax planning, contributions, retirement withdrawals, and other downstream decisions
-- lean conservative, use declining Bitcoin returns, take inflation seriously, and choose assumptions you could defend out loud
-- Power Law is Austin's preferred starting point; Moderate is the step down; Conservative is the more cautious choice
-- test a more bullish case as a scenario rather than rewriting the baseline to get a better answer
+Every other core and Advanced teach lesson is a PRE-DICTATION FILMING DRAFT rebuilt from the decks, current app, research, and Austin's known planning positions. It is prepared for a fast chronological dictation pass. It is not Austin-authored until he dictates or explicitly approves it.
 
-**Editorial work:**
+## Future-edit rule
 
-1. The preview/apply paragraph Austin called "tacked on" was removed from 1.2 and moved to the Retirement Income walkthrough, where the learner first needs it.
-2. The clicks for assumptions live in the Foundation walkthrough. The teach lesson names the decision and points forward rather than reading the same click path twice.
-3. The dictated 4% inflation example said roughly $105,000. Verified compounding is roughly $144,000 after 15 years on $80,000, so the live script corrects the math and preserves the teaching point.
-
-## Rule for future edits
-
-A script labelled `AUSTIN DICTATION` must link to a retained source or transcript. A script labelled `SPOKEN-PROSE VERSION` may preserve Austin's position and voice calibration, but it may never be presented as his original wording.
-
-## 2026-08-26 · Voice pass and five-year funding ruling
-
-**Source:** `source-material/2026-08-26-f20-and-voice-pass.md` plus the retained 0.2 / 1.1 / 1.2 dictation.
-
-The voice pass reviewed every core and Advanced teach script. It changed editor-shaped lines that sounded like slogans, clever reversals, compressed verdicts, or formal research prose. It did not rewrite Austin's actual dictation, walkthrough click paths, verified legal or tax qualifications, course structure, or unresolved F22 planning policy.
-
-F20 is now resolved narrowly: Bitcoin can remain part of a funding plan five years out; the firmly committed amount becomes less dependent on Bitcoin as the date approaches; no percentage was invented.
+A script may be labeled AUSTIN DICTATION only when a retained transcript or recording supports it. Editorial corrections may fix math, current app behavior, course order, safety, or professional scope, but they may not silently invent a planning recommendation and attribute it to Austin.

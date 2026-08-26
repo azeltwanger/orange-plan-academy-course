@@ -1,32 +1,18 @@
 # Advanced Library dictation order
 
-All 14 lessons have protected, spoken-ready teleprompter scripts. Work top to bottom in demand order. A professional-review label means the script is editorially prepared but should not be recorded or published past the stated gate.
+The numbering now follows the restored core order: Module 3 is Allocation; Module 4 is Debt. Every lesson is optional.
 
-**Before the first take:** read `ADVANCED-GATE-APPROVAL.md`. Gate copy is not spoken, but it controls who sees each lesson.
-
-| Order | Lesson | Runtime | Provenance | Production status |
-|---:|---|---:|---|---|
-| 1 | **A3.1** · Borrow against Bitcoin without getting liquidated | 16.7 min | spoken-prose calibrated | Ready to dictate |
-| 2 | **A6.1** · Health insurance between retiring and Medicare | 6.3 min | spoken-prose calibrated | Ready to dictate |
-| 3 | **A5.1** · RMD risk and Roth conversions | 9.9 min | spoken-prose calibrated | Research-complete; targeted CPA/EA signoff before publication |
-| 4 | **A7.1** · Advanced custody: passphrase, multisig, and collaborative | 15.9 min | spoken-prose calibrated | Research-complete; exact setup proof before device/provider-specific footage |
-| 5 | **A6.2** · Sell, borrow, or hold: funding a year of spending | 8.3 min | spoken-prose calibrated | Research-complete; targeted CPA/EA signoff before publication |
-| 6 | **A5.2** · Harvesting losses and gains | 8.4 min | spoken-prose calibrated | Research-complete; targeted CPA/EA signoff before publication |
-| 7 | **A7.2** · What self-custody actually asks of you | 3.0 min | spoken-prose calibrated | Research-complete; exact setup proof before device/provider-specific footage |
-| 8 | **A1.1** · How Orange Plan models Bitcoin: fat tails, correlations, floors and caps | 3.1 min | spoken-prose calibrated | Ready to dictate |
-| 9 | **A3.2** · The four ways debt can build wealth | 8.7 min | spoken-prose calibrated | Ready to dictate |
-| 10 | **A4.1** · The price context check: naming the emotion before a big move | 2.5 min | spoken-prose calibrated | Ready to dictate |
-| 11 | **A5.3** · State taxes and relocation: what the lever is actually worth | 3.9 min | spoken-prose calibrated | Research-complete; targeted CPA/EA signoff before publication |
-| 12 | **A7.3** · Concentration: one institution, one vendor, one firmware | 5.2 min | spoken-prose calibrated | Research-complete; exact setup proof before device/provider-specific footage |
-| 13 | **A7.4** · Wallet operations: UTXOs, dust, consolidation, and addresses | 5.3 min | spoken-prose calibrated | Research-complete; exact setup proof before device/provider-specific footage |
-| 14 | **A8.1** · Advanced: do you need a trust, and which one? | 11.1 min | spoken-prose calibrated | Research-complete; state-attorney signoff before publication |
-
-**Total:** 14 lessons · 16,788 words · about 108 minutes.
-
-## Recording rule
-
-Read the teleprompter script, not the master and not the student text. The master owns course structure and gates. Student text owns current figures and verification notes. The script owns what is spoken.
-
-## App-dependent lessons
-
-Before recording A3.1, A3.2, A5.1, A5.2, A6.1, A6.2, and A8.1, open the current Orange Plan screen named in the lesson. Do not read a label that is not visible in the current build.
+- **A1.1 · How Orange Plan models Bitcoin inside the confidence check** — Pre-dictation draft ready. Gate: Research complete. Record after the current Help & Methodology copy and production settings are checked against the same app commit used on camera.
+- **A3.1 · Use price context to name the emotion before a large Bitcoin move** — Pre-dictation draft ready. Gate: Ready after the current price-context data shown in the app is verified. This lesson is a decision check, not a market-timing system.
+- **A4.1 · Borrow against Bitcoin without turning a drawdown into liquidation** — Pre-dictation draft ready. Gate: Research complete. Verify the exact lender terms, margin-call rules, liquidation rules, custody model, and current app fields before recording any provider-specific example.
+- **A4.2 · The four ways debt can strengthen a plan, and how each one fails** — Pre-dictation draft ready. Gate: Ready as an educational mechanism lesson. Do not recommend a specific loan, lender, rate, or amount.
+- **A5.1 · RMD pressure and Roth conversions across the low-income window** — Pre-dictation draft ready. Gate: Research complete. Targeted CPA or EA review before publication; verify the current RMD age, brackets, Medicare rules, and healthcare interactions in the year of action.
+- **A5.2 · Harvest Bitcoin losses and gains without losing the tax story** — Pre-dictation draft ready. Gate: Research complete. Targeted CPA or EA review before publication; verify current digital-asset wash-sale treatment and lot-identification requirements before execution.
+- **A5.3 · State taxes and relocation: measure the lever before moving** — Pre-dictation draft ready. Gate: Research complete. Targeted CPA or state-tax attorney review before publication; verify both origin-state and destination-state residency rules.
+- **A6.1 · Health coverage between retirement and Medicare** — Pre-dictation draft ready. Gate: Verify all premiums, subsidy rules, membership terms, and HSA eligibility immediately before recording. CrowdHealth is personal experience and not insurance or a recommendation.
+- **A6.2 · Sell, borrow, or hold when the plan needs a year of spending** — Pre-dictation draft ready. Gate: Research complete. Targeted CPA or EA review before publication; verify lender terms and current basis-at-death law before relying on them.
+- **A7.1 · Passphrase, collaborative custody, and DIY multisig** — Pre-dictation draft ready. Gate: Research complete. Verify exact devices, wallet software, descriptors, provider roles, and recovery procedures before any setup-specific footage.
+- **A7.2 · What self-custody actually asks of you** — Pre-dictation draft ready. Gate: Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.
+- **A7.3 · Avoid custody concentration in one institution, vendor, or failure path** — Pre-dictation draft ready. Gate: Research complete. Verify provider and device facts before naming them; no vendor-specific recommendation is implied.
+- **A7.4 · UTXOs, dust, consolidation, and address use** — Pre-dictation draft ready. Gate: Research complete. Verify current wallet behavior and network fees before demonstrating; use a test wallet and never expose live addresses unnecessarily.
+- **A8.1 · Do you need a trust, and what job would it do?** — Pre-dictation draft ready. Gate: Research complete. State-licensed estate attorney signoff before publication; no template language or universal Bitcoin trust design is approved here.

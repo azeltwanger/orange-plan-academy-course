@@ -10,6 +10,10 @@ rough ideas, they are somewhat old."*
 
 ---
 
+## Named course-deck exception
+
+Austin later designated the original module slide decks as the authority for **teaching sequence, decisions, and visual logic**. They remain old for UI labels, product features, figures, and recommendations. The current production app owns implementation details, and Austin's dictation owns the final judgment and voice. Generic uploaded notes and provider material remain idea sources only.
+
 ## The rule
 
 Uploaded material is **a pool of ideas, not approved curriculum.**

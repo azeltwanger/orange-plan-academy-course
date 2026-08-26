@@ -1,145 +1,115 @@
-# Advanced gate approval
+# Advanced Library watcher gates
 
-These conditions decide who is told to watch or skip an Advanced lesson. They are producer-facing and are not read in the video. Austin's approval is required because a gate is a planning judgment, not a copy edit.
+These gates answer **who should watch each optional lesson**. They are not publication approvals. Professional, device, provider, and current-law publication gates remain in the script header and `TARGETED-PROFESSIONAL-SIGNOFF.md`.
 
-Mark each line **keep**, **change**, or **remove** before the Advanced Library is published in Circle. Dictation can proceed from the lesson script while this page is reviewed, except where a professional-review gate says not to record yet.
+Austin can mark each watcher gate **keep**, **change**, or **remove** while dictating. The core plan is complete without every Advanced lesson.
 
-## ☐ A1.1 · How Orange Plan models Bitcoin: fat tails, correlations, floors and caps
+## A1.1 · How Orange Plan models Bitcoin inside the confidence check
 
-> Watch this if either is true on your own screen: changing one assumption moved your Plan page's confidence number by more than 10 points and you want to know why, or you are about to hand your report to someone who will ask how the simulation works. If your number is stable and nobody is auditing it, core 1.3 already taught you to *read* it and your plan is complete without this. This lesson is how the number is *built*.
-
-Decision: ☐ Keep  ☐ Change  ☐ Remove
-
-Replacement, if any:
-
----
-
-## ☐ A3.1 · Borrow against Bitcoin without getting liquidated
-
-> Only if you are actually considering a Bitcoin-backed loan, or already hold one. If the answer is no, skip it. No is the common answer.
+Watch this when you want to audit how the confidence result is built, explain the methodology to a skeptical spouse or professional, or understand why a changed assumption moved the result. The core course already teaches how to read and use the number.
 
 Decision: ☐ Keep  ☐ Change  ☐ Remove
 
-Replacement, if any:
-
 ---
 
-## ☐ A3.2 · The four ways debt can build wealth
+## A3.1 · Use price context to name the emotion before a large Bitcoin move
 
-> Watch this if you are carrying debt you could pay off but are choosing not to, or you are weighing whether to. If every debt already has a job you can defend, your debt policy is complete without it.
+Watch this immediately before a large purchase, sale, allocation change, or other Bitcoin-heavy decision. It is a pause that identifies FOMO or fear; it is not a market-timing system.
 
 Decision: ☐ Keep  ☐ Change  ☐ Remove
 
-Replacement, if any:
-
 ---
 
-## ☐ A4.1 · The price context check: naming the emotion before a big move
+## A4.1 · Borrow against Bitcoin without turning a drawdown into liquidation
 
-> Watch this before any Bitcoin-heavy move: a large buy, selling to lock in gains, or taking a Bitcoin-backed loan. Your allocation decision is complete without it.
+Watch this only when you already have a Bitcoin-backed loan or are seriously considering one. A household with no such loan can skip it.
 
 Decision: ☐ Keep  ☐ Change  ☐ Remove
 
-Replacement, if any:
-
 ---
 
-## ☐ A5.1 · RMD risk and Roth conversions
+## A4.2 · The four ways debt can strengthen a plan, and how each one fails
 
-> Watch this only when all three are true on your own Tax page: you hold meaningful pre-tax retirement assets, you expect lower-income years before forced distributions begin, and you have a way to pay the conversion tax that is not the converted money. All three, not two. If Orange Plan does not show that combination, your core tax plan is complete without it.
+Watch this when you are deliberately carrying debt you could pay off, establishing credit before it is needed, or comparing strategic borrowing with paying cash. If every debt already has a job you can defend, the core Debt module is enough.
 
 Decision: ☐ Keep  ☐ Change  ☐ Remove
 
-Replacement, if any:
-
 ---
 
-## ☐ A5.2 · Harvesting losses and gains
+## A5.1 · RMD pressure and Roth conversions across the low-income window
 
-> Watch this if your Tax page shows either harvestable losses or unused 0% gains room this year. If it shows neither, there is nothing to harvest and your tax plan is complete.
+Watch this when you have meaningful pre-tax retirement assets and expect a lower-income period before required distributions or other income reduce your flexibility. The conversion tax must be supportable without weakening the plan.
 
 Decision: ☐ Keep  ☐ Change  ☐ Remove
 
-Replacement, if any:
-
 ---
 
-## ☐ A5.3 · State taxes and relocation: what the lever is actually worth
+## A5.2 · Harvest Bitcoin losses and gains without losing the tax story
 
-> Watch this if either is true: you are actually considering a move, or your Tax page shows an unrealized gain large enough that your state's rate would change what you do. If moving is not on the table, your tax plan is complete without this.
+Watch this when the Tax page shows a real loss candidate or low-effective-rate gain opportunity. If neither exists this year, there is no current harvesting decision.
 
 Decision: ☐ Keep  ☐ Change  ☐ Remove
 
-Replacement, if any:
-
 ---
 
-## ☐ A6.1 · Health insurance between retiring and Medicare
+## A5.3 · State taxes and relocation: measure the lever before moving
 
-> Watch this if your plan has you stopping work before 65. If your retirement date is 65 or later, Medicare starts when the paycheck stops and this does not apply to you.
+Watch this when a move is genuinely being considered or a large sale, conversion, or income event makes the state difference material. The lesson measures the lever; it does not establish domicile.
 
 Decision: ☐ Keep  ☐ Change  ☐ Remove
 
-Replacement, if any:
-
 ---
 
-## ☐ A6.2 · Sell, borrow, or hold: funding a year of spending
+## A6.1 · Health coverage between retirement and Medicare
 
-> Watch this once you are inside about five years of retiring, or already drawing income. It prices the three ways to fund a year against each other; before that, the withdrawal order in core is the decision that matters.
+Watch this when work is expected to stop before Medicare eligibility or when the household is comparing ACA, COBRA, a spouse plan, or a non-insurance alternative. Retiring after the healthcare bridge can make this optional.
 
 Decision: ☐ Keep  ☐ Change  ☐ Remove
 
-Replacement, if any:
-
 ---
 
-## ☐ A7.2 · What self-custody actually asks of you
+## A6.2 · Sell, borrow, or hold when the plan needs a year of spending
 
-> Optional throughout. Watch it if you are weighing whether you want the whole job of self-custody, or if the weight of it is what has been stopping you. Your custody plan is complete without it.
+Watch this when retirement withdrawals are close enough to require an operating decision—generally within several years of retirement or while already drawing. Earlier accumulators usually need the core withdrawal and Bridge framework first.
 
 Decision: ☐ Keep  ☐ Change  ☐ Remove
 
-Replacement, if any:
-
 ---
 
-## ☐ A7.3 · Concentration: one institution, one vendor, one firmware
+## A7.1 · Passphrase, collaborative custody, and DIY multisig
 
-> Watch this if either is true on your own screen: (1) your non-self-custodied Bitcoin sits at a single institution and losing access to it for a few months would change your life, or (2) every satoshi you own is behind one model of one device from one manufacturer. If neither is true, your custody plan is complete without this.
+Watch this when the current custody design has a meaningful one-loss or one-theft failure, the stack is large enough to justify more complexity, or the family needs guided recovery. Do not upgrade for status.
 
 Decision: ☐ Keep  ☐ Change  ☐ Remove
 
-Replacement, if any:
-
 ---
 
-## ☐ A7.4 · Wallet operations: UTXOs, dust, consolidation, and addresses
+## A7.2 · What self-custody actually asks of you
 
-> Watch this before you have made a hundred small transfers, not after. It applies if you buy Bitcoin regularly in small amounts, or if your wallet already shows a long list of separate chunks under coin control.
+Watch this when you are deciding whether to take on self-custody, or when the responsibility has been the reason you have delayed. A tested custody setup can be complete without this reflection lesson.
 
 Decision: ☐ Keep  ☐ Change  ☐ Remove
 
-Replacement, if any:
-
 ---
 
-## ☐ A7.1 · Advanced custody: passphrase, multisig, and collaborative
+## A7.3 · Avoid custody concentration in one institution, vendor, or failure path
 
-> Watch this if your custody setup fails one of the two access tests from the estate module: one person can spend alone, or one lost copy could permanently stop recovery. If your Level 2 design passes test two and you have accepted failing test one deliberately, your custody plan is complete.
+Watch this when a meaningful amount depends on one institution, one device family, one location, one software path, or one person. Skip it when the current design already has deliberate, maintainable independence.
 
 Decision: ☐ Keep  ☐ Change  ☐ Remove
 
-Replacement, if any:
-
 ---
 
-## ☐ A8.1 · Advanced: do you need a trust, and which one?
+## A7.4 · UTXOs, dust, consolidation, and address use
 
-> Watch this once the **core estate gate in 8.5** has lit up and put you at Level 3 or 4 — a trust or coordinated plan. This lesson does not re-run that gate; it explains the options after it fires. Most households run the gate in 8.5, get a no, and are finished.
+Watch this when you make frequent small withdrawals, the wallet has many separate outputs, or you are about to consolidate or use coin control. It is an operations lesson, not a requirement for every holder.
 
 Decision: ☐ Keep  ☐ Change  ☐ Remove
 
-Replacement, if any:
-
 ---
+
+## A8.1 · Do you need a trust, and what job would it do?
+
+Watch this when the baseline estate review identifies a real tax, probate, incapacity, beneficiary-control, creditor, or family-complexity reason for a trust conversation. Most households should be allowed to get a no and stop.
+
+Decision: ☐ Keep  ☐ Change  ☐ Remove

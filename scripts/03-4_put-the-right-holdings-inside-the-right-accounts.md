@@ -1,0 +1,57 @@
+TELEPROMPTER SCRIPT — segment 3.4
+3.4 Put the right holdings inside the right accounts
+578 words · ~3.7 min at 155 wpm · PRE-DICTATION FILMING DRAFT — rebuilt from Austin's decks, dictation, research, and current app
+SOURCE: Allocation deck pages 10 through 13 and current contribution allocation controls
+============================================================
+
+The contribution waterfall decides which account gets funded. Asset location decides what belongs inside each account.
+
+I think the easiest way to understand this is to separate two questions.
+
+First: can this account hold the investment you actually want?
+
+Second: if it can, is this the best tax and access wrapper for that investment?
+
+A perfect tax account is not useful for a Bitcoin dollar if the plan only offers a limited stock and bond menu and no Bitcoin ETF or brokerage window.
+
+🎬 VISUAL — Week 3 deck page 12: Direct Bitcoin, Bitcoin ETF, or no Bitcoin option.
+
+Direct Bitcoin gives you ownership and custody responsibility. A Bitcoin ETF may let you hold the exposure inside an IRA, brokerage account, or some employer plans without managing keys. Some accounts offer neither, which means the Bitcoin dollars need a different destination.
+
+After that filter, look at the tax treatment and the job.
+
+🎬 VISUAL — Week 3 deck page 10: Taxable / Tax-deferred / Tax-free.
+
+Taxable accounts are flexible. The money can be used before retirement age, which makes them important for the Bridge. Long-term gains may receive capital-gains treatment, and you maintain control over which lots are sold.
+
+Tax-deferred accounts such as a Traditional 401(k) or IRA can reduce taxable income today and let the money grow without current tax. Withdrawals are generally taxed as ordinary income later, and required distributions can reduce your control in retirement. These accounts are usually long-term money rather than near-term Bridge funding.
+
+Roth accounts use money that has already been taxed. Qualified withdrawals can come out tax-free, and the account gives high-growth assets a long runway without future tax on the growth. That makes Roth space valuable, but it does not mean Roth is always the correct contribution choice.
+
+Roth versus Traditional is a decision about when you pay the tax.
+
+If your current tax rate is low and you expect a higher rate later, paying now through Roth may be attractive.
+
+If your current rate is high and the deduction is valuable, Traditional may be more useful.
+
+A mix is often the answer because it creates options later. The exact split is one of the current-year questions to verify with a tax professional.
+
+There is also a difference between the target for the entire portfolio and the mix inside one account.
+
+Your overall target may be seventy percent Bitcoin and thirty percent other assets. That does not mean every account has to hold the same seventy-thirty mix. One account may hold the Bitcoin exposure, another may hold cash for the Reserve, and another may hold the assets that are available inside the employer plan.
+
+What matters is that the combined portfolio reaches the target and each account can perform its job.
+
+In Orange Plan, each contribution row can use the account's current mix, a set asset-class mix, or specific holdings. That lets the projection model new contributions without assuming every account buys the same thing.
+
+But saving a specific holding in the plan does not purchase it at the custodian. It tells the projection what you intend the new dollars to buy. You still make the actual trade or payroll election outside the app.
+
+Before the walkthrough, review every account and answer:
+
+- What job does this account have?
+- When might I need the money?
+- Can it hold the Bitcoin exposure or other asset I want?
+- Do I want to pay the tax now or later?
+- What should each new contribution buy?
+
+In the walkthrough, we'll apply those answers row by row and confirm that the contribution plan, account timeframes, and overall target are all describing the same strategy.

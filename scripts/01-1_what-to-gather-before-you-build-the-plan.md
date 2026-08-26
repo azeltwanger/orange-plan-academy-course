@@ -1,7 +1,7 @@
 TELEPROMPTER SCRIPT — segment 1.1
 1.1 What to gather before you build the plan
-~8 min at 155 wpm · AUSTIN DICTATION — revised for Build Your Plan
-SOURCE: source-material/2026-08-25-module-0-1-dictation.md · Austin dictation, revised only for current course sequence
+1,145 words · ~7.4 min at 155 wpm · AUSTIN DICTATION — cleaned only for current app flow, factual corrections, and walkthrough separation
+SOURCE: Austin dictation; current course order and current-app handoffs applied in the filming rebuild
 ============================================================
 
 In today's lesson, we're going to cover the documents and information that you're going to need to gather before you start building your full financial plan.
@@ -46,7 +46,9 @@ Foundation enters your personal details, real accounts, and current holdings.
 
 Cash Flow enters and verifies income, spending, the reserve, and expected life events.
 
-Debt enters every debt with its current balance, rate, and payment.
+Allocation assigns the major accounts to Reserve, Bridge, or Legacy, sets the target mix, and builds the contribution plan from the surplus.
+
+Debt enters every debt with its current balance, rate, and payment, decides the extra-payment amount, and then returns that amount to the contribution waterfall.
 
 Tax imports historical transactions and reconstructs cost basis.
 
@@ -56,14 +58,4 @@ Run Your Plan performs the first full 1,000-run confidence check after the plan 
 
 If you'd rather gather this information as you go through each step, that's totally fine. I just think it's easier to get everything in one place first so you're not tracking it down in the middle of every walkthrough.
 
-== YOUR DECISION ==
-
-What you're going to gather now, and what you're going to leave for the module that owns it.
-
-== PUT IT IN ORANGE PLAN ==
-
-Nothing yet. This lesson is the gathering step. The Foundation walkthrough uses your personal details, account list, and current holdings. Everything else stays in the folder until its module.
-
-== YOU ARE DONE WHEN ==
-
-You know where the information is, your real account list and current balances are ready for Foundation, and the income, spending, debt, employer-benefit, life-event, and cost-basis records are organized for the modules that follow.
+You do not need to enter any of this yet. Put the statements, exports, employer information, and rough future-event list in one place. In the Foundation walkthrough, we'll use the personal details, account list, and current holdings first. The rest stays in the folder until the module that teaches the decision and owns the data.
