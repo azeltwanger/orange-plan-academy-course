@@ -44,15 +44,23 @@ def expand_contractions(value: str) -> str:
     return value
 
 
+def colon_variant(value: str) -> str:
+    return value[:-1] + ":" if value.endswith(".") else value
+
+
 def replace_in_script_and_master(script: str, master: str, old: str, new: str, label: str) -> None:
     replace_exact(script, old, new, label + " · script")
 
     master_text = read(master)
-    candidates = [(old, new)]
-    expanded_old = expand_contractions(old)
-    expanded_new = expand_contractions(new)
-    if expanded_old != old or expanded_new != new:
-        candidates.append((expanded_old, expanded_new))
+    candidates = []
+    for master_old, master_new in [
+        (old, new),
+        (expand_contractions(old), expand_contractions(new)),
+        (colon_variant(old), colon_variant(new)),
+        (colon_variant(expand_contractions(old)), colon_variant(expand_contractions(new))),
+    ]:
+        if (master_old, master_new) not in candidates:
+            candidates.append((master_old, master_new))
 
     for master_old, master_new in candidates:
         count = master_text.count(master_old)
@@ -64,7 +72,7 @@ def replace_in_script_and_master(script: str, master: str, old: str, new: str, l
             raise RuntimeError(f"{label} · master: expected one match in {master}, found {count}")
 
     raise RuntimeError(
-        f"{label} · master: neither the spoken wording nor its expanded-contraction variant was found in {master}"
+        f"{label} · master: no exact, expanded-contraction, or terminal-colon variant was found in {master}"
     )
 '''
 
