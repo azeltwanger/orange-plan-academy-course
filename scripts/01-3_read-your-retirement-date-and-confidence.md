@@ -1,72 +1,33 @@
 TELEPROMPTER SCRIPT — segment 1.3
 1.3 Read your starting retirement date and the confidence number you will run later
-~7 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+~4 min at 155 wpm · DICTATION-READY WORKING DRAFT — NOT YET AUSTIN DICTATION
+APP VERIFIED: production main b0888802cbe3fd3769816c9f1352b424bd4bff1c
 ============================================================
 
-Onboarding gave you a starting retirement estimate. It did not give you the finished plan.
+In today's lesson, we're going to cover what the retirement age you saw at the end of onboarding actually means, because I don't want you to look at that number like Orange Plan already built your entire financial plan.
 
-That distinction matters because the number can look precise even though the inputs were intentionally rough. Onboarding only asked for enough to give you a useful first direction: age, income, spending, rough asset buckets, where most of the non-Bitcoin assets live, and the Bitcoin growth model you selected.
+Onboarding only asked you for enough information to give you a useful starting point. It has your age, income, spending, a rough amount of Bitcoin and other assets, where most of those assets are held, and the Bitcoin growth model you selected.
 
-It did not know every real account, your exact holdings, debts, future costs, cost basis, Social Security, withdrawal strategy, tax windows, or protection plan. Those are the parts the course and Build Your Plan guide add next.
+It does not have every real account and holding yet. It also does not have all of your debts, future expenses, cost basis, Social Security, withdrawal strategy, tax planning, or the other decisions we're going to build throughout the course.
 
-== WHAT THE ONBOARDING AGE MEANS ==
+So the age is useful, but it is still based on rough information.
 
-The age is a deterministic estimate. The app takes the numbers you entered, applies the selected growth model, and finds the earliest age where that one average projection can fund the spending target.
+The way the calculation works is pretty simple. Orange Plan takes that one set of inputs and assumptions, projects the plan year by year, and checks different retirement ages. It finds the earliest age where that projection can fund your spending through the life-expectancy assumption in the plan.
 
-It is useful because it immediately shows how much the growth assumption changes the answer. It is not a stress test, and it is not a promise.
+I would not call this an average projection, because there are not hundreds or thousands of different market paths being averaged together during onboarding. It is one projection using the growth and inflation assumptions you selected.
 
-Treat it as the first draft of the headline, not the finished answer.
+That is why changing the Bitcoin growth model can move the age so much. A more aggressive model is going to grow the balance faster and move the estimate earlier. A more conservative model is going to move it later.
 
-== WHY THERE IS NO CONFIDENCE NUMBER YET ==
+I still think this is useful because it quickly tells you whether retirement looks roughly close or far away, and it shows you how much the assumptions can change the answer. I just would not treat it like the final date yet.
 
-The app intentionally does not show a Monte Carlo confidence percentage during onboarding.
+You also are not going to see a confidence percentage during onboarding. That is intentional. Showing someone an 82% confidence number when the accounts and spending are still rough would make the result look much more precise than the information underneath it.
 
-A confidence number looks exact. Giving somebody a number like 82% from a few rough inputs would create false precision. It would also show the score before the person has the tools to improve it.
+After the full plan is built, Orange Plan is going to run it through 1,000 different market paths. Those paths are going to include the real balances, spending, debts, taxes, contributions, future life events, withdrawal strategy, and everything else that has been added to the plan.
 
-The first full confidence check belongs after the plan has been built.
+If 820 of those 1,000 paths fund the plan as written, the confidence number is 82%. That does not mean there is exactly an 18% chance that you go broke. It means 180 of the modeled paths would have required some kind of adjustment, like working longer, spending less, or changing another part of the plan.
 
-== WHAT THE CONFIDENCE CHECK DOES ==
+Later, you are also going to choose the confidence target you want the retirement date to meet. The finished earliest retirement date is going to be the first age that clears that target, not just the first age where this one deterministic projection works.
 
-At the end of the course, Orange Plan runs your full plan through 1,000 different market paths. Every path carries your real balances, income, spending, debts, taxes, contributions, life events, withdrawal order, and other saved plan decisions through the projection.
+For now, I would use the onboarding age as a starting point. Write down the age you saw, and then think about which rough input is most likely to change when we replace it with the real information. For most people that is going to be spending, the actual account balances, future expenses, or the growth assumptions.
 
-Some paths are calm. Some stack bad years together. The app counts how many of the 1,000 paths funded the plan as written.
-
-If 820 paths succeed, the confidence number is 82%. That does not mean there is an 18% chance you go broke. It means 180 of the 1,000 modeled paths did not fully fund the exact plan you gave it without an adjustment.
-
-== THE TARGET CHANGES THE EARLIEST DATE ==
-
-You will also set the confidence target that a retirement date has to clear. The default is 80%.
-
-Your finished earliest retirement date is not simply the first age where the average projection works. It is the first age where the 1,000-run check clears the confidence target you chose.
-
-The date tells you when. The confidence number tells you how sturdy that date is.
-
-An earlier date at 55% confidence can be a weaker plan than a later date at 80%.
-
-== WHERE EVERY NUMBER COMES FROM ==
-
-Every important output has three questions attached to it. What is it calculated from? Where do I edit the source? And what does it affect downstream?
-
-Your surplus comes from income minus taxes, living expenses, and debt payments. A life event becomes future spending in the year you set. A return assumption changes projected balances and every simulated path.
-
-The Build Your Plan guide points you to the page that owns each source. The walkthroughs show how to enter it. This keeps you from trying to fix an output by changing a calculated total somewhere else.
-
-== WHAT HAPPENS NEXT ==
-
-The next two videos replace the rough onboarding estimate with real Foundation data. You're going to enter your personal details, real accounts, and current holdings, and then review the assumptions the first estimate used.
-
-You are not going to enter income, debts, life events, Social Security, and tax history in the Foundation walkthrough. Those belong to the modules that teach what the numbers mean and how to verify them.
-
-And you are not going to run the full confidence check yet. Module 9 runs it after the plan is complete and then saves the first finished report.
-
-== YOUR DECISION ==
-
-Which part of the rough estimate is most likely to change when the real data is entered: the account balances, spending, debts, future costs, assumptions, or retirement income.
-
-== PUT IT IN ORANGE PLAN ==
-
-Open Build Your Plan and start with Foundation. Do not run the full confidence check yet.
-
-== YOU ARE DONE WHEN ==
-
-You can explain the difference between the onboarding estimate and the finished plan, and you know why the first 1,000-run confidence check waits until Module 9.
+Then use the Foundation walkthrough below this video to add your real accounts and current holdings and review the assumptions behind the estimate. We are not going to enter every other part of the plan or run the full confidence check in this module.
