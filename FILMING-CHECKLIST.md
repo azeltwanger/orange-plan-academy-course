@@ -1,111 +1,29 @@
-# ARCHIVED — Filming Checklist & Production Plan (historical)
+# Production checklist
 
-> ## ⛔ RETIRED AS A LIVE PRODUCTION SOURCE, 2026-08-08. DO NOT FILM FROM THIS FILE.
->
-> It is kept for history only. Every count, rule and instruction below is frozen
-> at the moment it was retired and **several were already wrong when it was**:
-> it said nine walkthroughs plus one demo when the measured count was eleven
-> captures; it seeded a contribution breakdown from the pre-rebuild waterfall;
-> it referred to a Module 10 that no longer exists; it told you to keep the
-> walkthrough hand-off at the end of *every* lesson, which contradicts the
-> current last-required-lesson-only rule; it still asked you to "decide the 2.3
-> rebuild" after 2.3 had been rebuilt; and it carried stale segment numbers such
-> as 10.4.
->
-> **Three generated documents replaced it, all built from the same lesson
-> manifest:**
->
-> | Use | File | Regenerate with |
-> |---|---|---|
-> | What to film, in what order, and what is blocked | `PRODUCTION-CHECKLIST.md` | `tools/build-production-checklist.py` |
-> | What to dictate, in what order, with runtimes | `DICTATION-ORDER.md` | `tools/build-dictation-order.py` |
-> | What to capture on screen, and the app state each needs | `SCREEN-SHOOT-LIST.md` | `tools/build-shoot-list.py` |
->
-> The one-time set-up that used to live in Phase 0 below is now the
-> **ONE-TIME SETUP** section of `PRODUCTION-CHECKLIST.md`. The metrics block was
-> removed from this file because a historical document must not carry live
-> numbers — that is exactly how it came to disagree with the README.
+## Before filming any lesson
 
----
+- [ ] Read the script status line: Austin dictation or pre-dictation filming draft.
+- [ ] Open the current production app when the lesson names an app behavior.
+- [ ] Confirm the visual cue in `SCREEN-SHOOT-LIST.md`.
+- [ ] Remove current figures from spoken video when they belong in lesson text or the app.
+- [ ] Confirm no click path is duplicated in the teach lesson.
 
-**Source of truth: `MASTER-COURSE.md` (core) and `MASTER-ADVANCED.md` (library).**
+## Professional gates
 
-*(Live metrics block removed on archiving. Current numbers are in `README.md`.)*
+- [ ] Targeted CPA or EA review before publishing current-year tax examples and execution guidance.
+- [ ] Exact device, firmware, provider, and recovery process verified before setup-specific footage.
+- [ ] Licensed insurance professional reviews policy mechanics and contract-specific claims before publication.
+- [ ] State-licensed estate attorney reviews state-specific authority, trust, and executor material before publication.
 
-⚠ Recording order lives in `DICTATION-ORDER.md`, which is **generated**. Run `python3 tools/build-dictation-order.py` before filming so you are not recording from an obsolete order.
+## Course flow checks
 
-Lesson types — this drives the whole shooting plan:
+- [ ] Week 2 is Cash Flow + Reserve.
+- [ ] Week 3 is Allocation + Next-Dollar.
+- [ ] Week 4 is Debt, followed by a return to Cash Flow Routing.
+- [ ] Module 1 enters only Foundation data.
+- [ ] Module 5 owns historical transactions and cost basis.
+- [ ] Module 9 runs the first full confidence check.
 
-| Type | Count | What it means on set |
-|---|---|---|
-| 🎙 Talking head (teleprompter) | 27 core + 8 advanced | Camera only. Batch these. |
-| 🖥 Screen share (walkthrough) | 9 core + 1 external demo | Screen recording with live narration. App state must be seeded first. **Film one continuous capture per module and decide the cut in the edit** — `✂ CUT POINT` markers on the sheets show where a split is safe. |
-| 🎙+🖥 Hybrid | 2, both in the Advanced Library | Teach section on camera, then an app section on screen. The cut point is the 🎥 marker in the master. The core course has no hybrids left; Modules 4 and 8's were retired in favour of whole-module walkthroughs. |
+## App reference
 
----
-
-## Phase 0 — Before you film anything (one-time prep)
-
-- [ ] **Seed the demo account with the couple's canonical numbers.** Every worked example on camera must match the app on screen. The fact sheet (all re-derived and verified 2026-07-30):
-  - Income $190,000/yr · taxes $40,000 · living $80,000 · debt service $22,000 ($1,850/mo)
-  - **Surplus $48,000/yr = $4,000/mo** (pre-routing — contributions are NOT subtracted)
-  - Waterfall: 401(k) $1,000 + HSA $300 + Roth $583 + Bitcoin/taxable **$2,117/mo**
-  - Debt: $280,000 mortgage @3.25% + $18,000 car @7% → DTA 40%, DTI ~12%
-  - Assets: $175k BTC (1.75 BTC) + $90k funds + $30k cash + $450k house = $745,000
-  - Retirement-era demo (Modules 6+): $80,000 spending · $120,000 reserve (18 mo) · **$600K taxable BTC · $400K traditional** · $200K Roth · SS $51,600/yr ($4,300/mo). ⚠ Taxable BTC is $600K, not $400K — 6.2 divides it by $80,000 to get ~7.5 years, and it must match the seeded demo on screen.
-- [x] **Evergreen numbers policy (replaces the old item 11).** The course must outlive the tax year, so: (1) never speak a law-set number (bracket, limit, exemption, RMD age) as a fact — the scripts are already written this way; (2) worked-example figures are tilde-marked snapshots with a "these move every year" frame — leave them, say the frame; (3) when a law number is on screen during capture, don't zoom or dwell, and refer to it as "the current number the app shows." The app updates with the law; the video doesn't have to.
-- [ ] **Decide the lesson renames** (item 20 — plain-language v2 titles are drafted and awaiting your go). Film with FINAL titles; renaming after filming means re-recording intros.
-- [ ] **Decide the 2.3 rebuild** (item 18 — Life-Events checklist redesign is spec'd, 3 questions open). If you're rebuilding it, do it before filming Module 2.
-- [x] **Retirement Income page push** — LANDED (commit 073fdf0, 2026-07-29). The retirement walkthrough's Step 5 and the sell-vs-borrow lesson's app pointer rewritten against the new UI and re-verified.
-- [ ] Set the app to a clean browser profile: no extensions, no bookmarks bar, notifications off, 1080p+ window.
-- [ ] Print the three toolkit PDFs (06 Heir Letter, 07 Family Custody Map, 08 Executor Packet) — they appear on camera in 7.5, 8.1, 8.3.
-
-## Phase 1 — Teleprompter prep (per lesson, ~10 min each)
-
-The master file is written to be read aloud, but strip these before loading the prompter:
-
-- [ ] Delete everything that isn't spoken: the `**By the end of this lesson**` outcomes block, all `⚠` production notes (those are FOR you, not BY you), tables, and the `*`TYPE`*` metadata line.
-- [ ] Tables become spoken lines. Rule of thumb: read the pattern, not the cells ("under 36 percent is healthy, over 43 is high-risk") and let the screen carry the full table.
-- [ ] Mark the hybrid cut point: everything after **"Now put it in the app"** moves to the screen-capture script.
-- [ ] Numbers: write them out the way you say them ("forty-eight thousand a year — four grand a month").
-- [ ] Keep the hand-off sentence at the end of each lesson — they're the course's connective tissue.
-
-## Phase 2 — Shooting order
-
-> ⚠ **This document no longer carries the running order or a per-lesson table.**
-> Both used to be hand-typed here, and both went stale the moment a lesson was
-> merged or trimmed — this file was still listing separate 3.1/3.2 allocation
-> lessons, five debt lessons, and an 11-module structure long after none of
-> that existed. **Filming from a stale order is a bigger risk than any amount
-> of extra runtime.**
->
-> The two production sources are generated from the masters and the scripts:
->
-> | Document | What it is | Regenerate with |
-> |---|---|---|
-> | **`DICTATION-ORDER.md`** | Every teach lesson in recording order, per module, with measured runtimes. Read top to bottom. | `python3 tools/build-dictation-order.py` |
-> | **`SCREEN-SHOOT-LIST.md`** | Every screen capture, its pre-flight, its beats, and its `✂ CUT POINT` markers. Flags any module with no sheet. | `python3 tools/build-shoot-list.py` |
->
-> **Run both before a shoot day.** If either one disagrees with what you are
-> about to record, the document is right and your memory is not.
-
-**Batch by setup, not by course order.** Same outfit and lighting within a module so any A-roll that cuts against screen capture matches.
-
-1. **Talking-head batches (camera days).** Film in course order within each day; the couple's story builds. `DICTATION-ORDER.md` gives the per-module minute totals to size a day against.
-2. **Screen-capture batches (app days).** App state carries forward, so capture in course order, and **film each module's capture in one continuous session** — the `✂ CUT POINT` markers let the edit split it later.
-3. **The external hardware-wallet demo needs physical props**, so it gets its own mini-shoot. It is the one capture that is not Orange Plan.
-
-## Recording hygiene
-
-- **File naming:** `M04-L2-A-take3.mp4` (module, lesson, A=camera/B=screen, take). Future-you in the edit bay will thank you.
-- **Teleprompter pace:** your natural ~155 wpm. If a lesson runs past ~8 prompter minutes, break at a `##` section heading and treat it as two segments.
-- **Flub protocol:** clap, 2-second pause, restart the paragraph. Never restart the lesson.
-- **Screen capture:** record at least 5 seconds of stillness before the first click and after the last — edit handles.
-- **Never on camera:** real account balances, real seed words (obviously), the plaintext backup-passphrase prompt (10.4 and 7.5 scripts already call this out — type it off-camera or use a visible throwaway).
-- **Don't speak numbers that age:** the estate exemption, current tax brackets, today's BTC price. The scripts are already written to point at the screen instead — trust them.
-
-## After each module is filmed
-
-- [ ] Check the box in Phase 3 above.
-- [ ] Note any place you deviated from the script — those edits go back into MASTER-COURSE.md so the doc stays the source of truth.
-- [ ] If the app UI changed since the script was audited (2026-07-30), flag it rather than improvising labels on camera — every UI string in the walkthroughs was verified against the codebase.
+- [ ] Recheck labels after `8ed57cbde2bf051c990ec5d1dcbf1178e98fa8d8` before screen capture.

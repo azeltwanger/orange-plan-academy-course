@@ -1,22 +1,8 @@
 TELEPROMPTER SCRIPT — segment 0.1
 0.1 How to use this course
-~8 min at 155 wpm · AUSTIN DICTATION — SPOKEN-PROSE VERSION
+1,387 words · ~8.9 min at 155 wpm · AUSTIN DICTATION — cleaned only for current app flow, factual corrections, and walkthrough separation
+SOURCE: Austin dictation; current course order and current-app handoffs applied in the filming rebuild
 ============================================================
-
->>> I CHANGED TWO THINGS IN YOUR DICTATION (your own flags). Say it your way. <<<
-
-1. The module list is now Start Here plus nine planning modules. Item 5 is
-   DEBT (it now comes before allocation, because the next-dollar waterfall
-   routes money to debt and you can't route to a decision you haven't made).
-   Item 6 is allocation. Scenarios and reading your finished plan folded into
-   item 9. RE-RECORD NEEDED on items 5, 6, 9 and the opening line — this
-   lesson is already on the re-record list.
-2. "10 to 15 minutes every month" -> "around five minutes every month."
-   Module 9 teaches the monthly pass as about five minutes, in the lesson, the
-   lesson text, and the module blurb. Five is the number the course defends.
-
-Nothing else in your dictation was touched.
-
 
 Welcome to the course. In this first lesson, I'm going to cover what this course is, what you're going to walk out with, and how to get the most out of it as you go through all these lessons.
 
@@ -54,8 +40,8 @@ The course is going to walk you through a Start Here module and then nine planni
 2. You'll review the return, inflation, and other assumptions the first estimate used.
 3. You'll learn how to read the retirement date and confidence number, but the first full confidence run happens after the plan is built in Module 9.
 4. I'll cover cash flow, which is your surplus, and how to protect it, and also future cash flow planning.
-5. Then debt, where every debt you have gets a job and you set the level of debt you won't go past.
-6. Then your investment plan, which is your allocation and where every next dollar goes.
+5. Then your investment plan, which is your allocation and where every next dollar goes.
+6. Then debt, where every debt gets a job and the extra-payment decision feeds back into that contribution plan.
 7. How to build a retirement paycheck. This is going to cover tax strategy and your retirement income planning, and ways to optimize this to reduce your tax liability.
 8. How you protect your plan with custody and estate planning and inheritance.
 9. How you finish and run the full plan, then keep it alive in around five minutes every month with one annual review, scenarios, and a yearly report.
@@ -90,23 +76,16 @@ Use this program as a way to:
 3. Show up to those professional conversations with licensed professionals prepared using all of your accurate data.
 4. Verify anything before you're about to act on anything, like tax moves or specific estate planning documents.
 
-Alright, and with that, thanks for being here, and I'll see you in the first lesson.
-
-============================================================
-NOT YET DICTATED — add this to the disclaimer section.
-Austin asked for a US vs non-US breakdown here (2026-08-07) so the course
-says it ONCE, up front, instead of re-disclaiming in every tax and estate
-lesson. Facts verified against the app; rewrite in your own words.
-============================================================
-
 == WHO THIS COURSE IS BUILT FOR ==
 
 One thing to get out of the way up front, so I only have to say it once.
 
-This course is built on US rules. Two whole modules run on US law and nothing else. The tax module is entirely US: brackets, Roth accounts, traditional accounts, RMDs, wash-sale rules, and state taxes. The estate module is the same: the executor role, the legal documents, probate, trusts, and the federal estate exemption. Parts of the retirement income module are US too, because Social Security, Medicare, and the healthcare bridge before 65 are all US programs. And the asset location lesson is about US account wrappers.
+The tax, estate, insurance, Social Security, Medicare, and retirement-account sections use US rules and examples. Those rules can change, and the legal and tax details are not portable from one country or state to another.
 
-Everything else in the course travels anywhere. Your reserve. Your allocation and the emotion gates. Debt ratios and loan-to-value. All of custody. How the retirement math works. Scenarios. The monthly and annual rhythms.
+The rest of the framework travels much better: cash flow, the Reserve, allocation, debt risk, custody, retirement math, scenarios, and the review process.
 
-Here's how the app itself handles this. Everything is modeled in US dollars, and the tax engine is US federal plus state. There's no country setting to switch. So if you're outside the US, your balances, your cash flow, your allocation, and your projections are all still accurate. The lines that assume US rules are the tax lines and the Social Security lines.
+Orange Plan now supports an international planning profile for the basic plan data, but the detailed tax calculations and the professional material in this course are still centered on the United States. If you live outside the US, build the current position, cash flow, allocation, retirement projection, and custody plan, then take the tax and estate decisions to qualified professionals in your country.
 
-So if you're outside the US, my advice is: build the whole plan, use every framework, and then take the tax and estate modules to a professional in your own country to map the containers. The way of thinking is the same everywhere. The rules aren't.
+The way of thinking can still be useful. The local rules have to be mapped correctly.
+
+Alright, and with that, thanks for being here, and I'll see you in the first lesson.

@@ -1,35 +1,27 @@
-TELEPROMPTER SCRIPT — segment A1.1
-A1.1 How Orange Plan models Bitcoin: fat tails, correlations, floors and caps
-~3 min at 155 wpm · SPOKEN-PROSE VERSION (calibrated)
+ADVANCED TELEPROMPTER SCRIPT — segment A1.1
+A1.1 How Orange Plan models Bitcoin inside the confidence check
+432 words · ~2.8 min at 155 wpm · PRE-DICTATION FILMING DRAFT
+PUBLICATION GATE: Research complete. Record after the current Help & Methodology copy and production settings are checked against the same app commit used on camera.
 ============================================================
 
-In today's lesson, we're going to open up the simulation behind your confidence number, because you shouldn't have to take a number on faith to trust it.
+The confidence number is only useful if the market paths are difficult enough to test the plan and honest enough not to flatter the Bitcoin assumption.
 
-== WHY BITCOIN NEEDS A FAT-TAILED MODEL ==
+Orange Plan does not treat Bitcoin like a generic stock with a slightly larger standard deviation. Bitcoin gets its own return process because the shape of its history is different.
 
-Most models out there assume returns follow a normal bell curve. And if you point one of those at Bitcoin, it's going to tell you that a year down 70% basically never happens. Anyone who's been in Bitcoin for more than a cycle knows that's wrong.
+The first difference is the tails. Extreme positive and negative years happen more often than a normal bell curve would suggest. A model built around a polite normal distribution can understate the very outcomes a Bitcoin holder cares about most.
 
-Bitcoin has had years down more than 70%, and it's had years where it tripled. Those extreme years show up in Bitcoin's history far more often than a bell curve would predict. That's what "fat tails" means — the extremes on both ends stay likely, instead of vanishing the way they do in a normal distribution.
+The second difference is asymmetry. Bitcoin has had very large upside years as well as deep drawdowns. The distribution needs to preserve the possibility of both rather than forcing the positive and negative sides into a perfectly symmetrical shape.
 
-So the engine uses a fat-tailed distribution for Bitcoin, calibrated to its actual return history. If you built a plan on a bell-curve model of Bitcoin, the plan would look sturdier than it actually is.
+The third difference is maturity. A larger asset should not be assumed to keep the same volatility forever. The model allows volatility to decline over time as Bitcoin grows, while still leaving room for difficult sequences.
 
-== VOLATILITY AND CORRELATIONS ==
+The fourth difference is correlation. Bitcoin, stocks, inflation, and interest-rate conditions are not independent in every bad year. The simulation links the major asset classes so a stress path can include several problems at once instead of conveniently offsetting each other every time.
 
-Every asset in the simulation gets its own volatility. Bitcoin runs at roughly 50%, easing toward 20% as it matures — which is about three times as far as stocks move in a typical year. And that, by the way, is exactly why a Bitcoin holder needs a bigger cash reserve than a stock holder does.
+The straight-line growth assumption still matters. If you enter an unrealistic return, the simulation cannot rescue the plan from a bad premise. What the calibration does is prevent the random paths from secretly adding another layer of optimism on top of the selected assumption. The median modeled result is checked against the deterministic projection under the same settings.
 
-The extremes are grounded in reality too. Bitcoin's single-year floor in the model is set just past its worst actual year, and there's a cap on the upside so the fat tail doesn't produce years that never happened.
+The comparison also uses matched paths. When you compare retiring at sixty with retiring at sixty-five, or selling with borrowing, both strategies are tested against the same market sequences. One strategy does not get easier weather by accident.
 
-The assets also don't run independently, because markets move together in the real world. Bitcoin and stocks are tied at a correlation of about 0.35 — they don't move in lockstep, but they tend to fall in the same years more often than not. And inflation runs negatively correlated with stocks, so in the paths where your costs rise, your balances tend to fall. Those relationships come from long-term capital market research.
+And the result is repeatable. With the same inputs and same saved settings, the confidence result should not jump around merely because you pressed the button twice. If it changes, a market value, plan input, or strategy changed.
 
-== WHAT THIS MEANS FOR YOUR NUMBER ==
+The important boundary is that this is still a model. Historical data cannot tell us the exact future distribution, and Bitcoin can behave outside the ranges anybody expected. Use the confidence result to compare decisions and find fragility, not as a promise that a specific percentage will occur.
 
-None of this makes the model right. It makes it honest about what it doesn't know, which is a different and more useful thing.
-
-A model that assumed Bitcoin behaved like a bond fund would hand you a confidence number that looked wonderful and meant nothing. What you're getting instead is a number built on the assumption that the extremes stay likely, because for Bitcoin, they have.
-
-== HOMEWORK ==
-
-Your homework for this lesson is to:
-
-1. Open your assumptions and confirm you could defend each one out loud. That's the standard, and it's the same standard the report's assumptions section is held to.
-2. If any of them came from wanting a better answer rather than from information, change it back.
+The current distributions, volatility schedule, correlations, and caps belong in Help & Methodology rather than being frozen into an evergreen recording. Before filming, open that page and verify that the explanation and the production engine still match.

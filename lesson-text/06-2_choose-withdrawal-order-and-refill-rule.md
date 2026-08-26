@@ -1,0 +1,73 @@
+# 6.2 · Choose the withdrawal order and the draw-and-refill rule
+
+Once we know the spending, income floor, gap, and Bridge years, we can decide where each year's paycheck comes from.
+
+A basic withdrawal order often starts with reliable income, then taxable assets, then tax-deferred accounts, with Roth protected for later.
+
+That is a useful default, but following it mechanically can create a tax problem.
+
+Imagine somebody retires early and spends only from taxable money for several years. Their ordinary taxable income may be very low, which feels efficient.
+
+Then the taxable account runs down. Now most of the spending has to come from the Traditional account as ordinary income, and required distributions may be getting closer.
+
+The household did not eliminate the tax. It left lower brackets unused and pushed more income into later years when the rate and other interactions may be worse.
+
+The better strategy is often tax-aware rather than strictly sequential.
+
+Use the reliable income first. Then look at the ordinary-income room that is available this year. A Traditional withdrawal or Roth conversion may intentionally use part of that room. Taxable lots can fund the rest of the spending, with the gain determined by basis rather than treating the entire withdrawal as income.
+
+The exact blend changes every year. It depends on spending, basis, account balances, Social Security, healthcare subsidies, Medicare, and the current tax rules. The ratio is an output from the plan, not a universal number somebody should copy.
+
+
+Now connect the withdrawal order to the three timeframes from Allocation.
+
+You spend from the Reserve. The Reserve is the cash account that turns an annual strategy into a stable monthly paycheck.
+
+The Bridge refills the Reserve. It is the accessible money that can cover the years before other accounts or income are available.
+
+Legacy, or the Forever bucket, is the long-term growth engine. It refills the Bridge when the plan and market conditions support it.
+
+The refill rule is more important than pretending you can predict the market.
+
+When the plan is healthy and the assets used for the refill are strong, top the Reserve and Bridge back toward their targets.
+
+When the portfolio is in a major drawdown, pause the refill and spend from the cash already set aside. The entire reason for holding the Reserve is to avoid selling volatile assets at low prices.
+
+If the Reserve approaches its hard floor, the household may still have to refill, reduce spending, use another account, or make a different funding decision. The rule is not "never sell down." The rule is that the plan responds before a cash shortage forces a bad decision.
+
+
+Different households can use different bucket sizes with the same rule.
+
+A more diversified household may use a larger Bridge and a smaller Reserve.
+
+A concentrated Bitcoin household may keep little conventional Bridge but hold a larger Reserve to ride through deep drawdowns.
+
+The machine is the same. The sizing changes with the allocation and risk tolerance.
+
+Bitcoin adds a second decision: sell, borrow, or hold.
+
+Selling is the cleanest. There is no lender, interest cost, margin call, or repayment problem. The tax depends on basis and the year of the sale.
+
+Borrowing can provide liquidity without an immediate sale, but it adds interest, counterparty risk, LTV risk, and the possibility of a forced liquidation. Loan proceeds are generally not income when the loan is created, but a later liquidation, forgiveness, or other event can have tax consequences. Borrowing works best when it is planned from strength, not used because the household is trapped.
+
+Holding keeps the long-term position untouched. That can be a valid core strategy when the Reserve, Bridge, other assets, or income can fund life without relying on a sale. It is not a complete strategy if the only answer to every cash need is a new loan.
+
+The tools can be mixed across years. A household may sell in a low-gain year, borrow a conservative amount during a strong period, and leave a core Bitcoin position untouched.
+
+The plan should tell you what each choice costs in taxes, interest, risk, and estate value. It should not decide which trade-off your family prefers.
+
+In the walkthrough, we'll compare the withdrawal settings, read the year-by-year sources of the paycheck, set the Reserve and refill behavior, and preview the sell-versus-borrow choices before anything is applied to the baseline plan.
+
+## Apply it
+
+Use walkthrough 6.4 to enter the decision and confirm what Orange Plan calculated.
+
+## Module checkpoint
+
+- [ ] Retirement spending, healthcare, and irregular costs are honest.
+- [ ] The income floor and portfolio-funded gap can be stated from memory.
+- [ ] Bridge years and accessible funding are verified.
+- [ ] Social Security timing was compared when material.
+- [ ] A withdrawal strategy is applied and understood.
+- [ ] Sell, borrow, or hold remains a preview unless intentionally applied.
+- [ ] The first full confidence run is deferred until Module 9.

@@ -1,29 +1,19 @@
-# What self-custody actually asks of you
+# A7.2 · What self-custody actually asks of you
 
-**Watch this if:** you are weighing whether you want the whole job of self-custody, or the weight of it is what has been stopping you. Your custody plan is complete without it.
+**Publication gate:** Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.
 
-## The job you are taking back
+Self-custody removes a financial institution from the spending decision. It does not remove responsibility. It moves the responsibility to you.
 
-Self-custody makes you both the point of failure and a potential attack vector. Bitcoin gives you the ability to take back a responsibility that institutions carry for most other assets.
+You have to generate the keys safely, verify addresses, protect backups, maintain devices and software, understand fees, avoid scams, and leave a recovery process somebody else can use.
 
-The whole job is more than owning a device. It includes protecting recovery material, testing recovery, maintaining the setup, finding new single points of failure, and making sure the family process works without you.
+That does not mean everybody should leave Bitcoin on an exchange. It means moving to self-custody should follow skill rather than identity.
 
-## Three honest answers
+Start with a small amount. Receive it, send part of it, verify the address on the device, wipe or check recovery using the correct vendor procedure, and prove the backup.
 
-- **The whole job:** you hold and maintain the complete process.
-- **Part of the job:** collaborative custody or a hardened institution carries part of the responsibility.
-- **Not right now:** a legitimate answer when you will not maintain the process safely.
+Then ask whether the setup can survive ordinary life: a lost phone, a failed device, a house fire, travel, incapacity, death, or simply forgetting a process after five years.
 
-More responsibility is not automatically safer. The setup has to match what the household can actually operate.
+Maintenance is part of the job. Firmware and wallet software change. Devices may become unsupported. A backup can be moved by somebody else. A passphrase can be forgotten. Multisig configuration can be lost.
 
-## Your decision
+Schedule a yearly recovery exercise using a test wallet or a procedure that does not expose the live secrets. Review the locations, people, devices, and provider contacts.
 
-**Whether you want the whole job, part of it, or none of it right now.**
-
-## Homework
-
-1. Write which custody responsibilities you will own and which you want help carrying.
-2. Name the recovery or maintenance task you must prove before moving more Bitcoin.
-3. Match the answer to the custody level from the core module.
-
-**Complete when:** the setup matches the responsibility you will actually maintain.
+Self-custody should create confidence, not constant fear. A smaller amount in a simple, tested setup is better than a large amount in a complex setup copied from somebody online.
