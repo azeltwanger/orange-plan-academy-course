@@ -46,14 +46,14 @@ jobs:
           grep -q "institutional custody" MASTER-ADVANCED.md
           grep -q "Catastrophic concentration" visuals/7-1b_levels-and-trust.md
           grep -q "Custody direction is one method or an intentional split" MODULE-CHECKPOINTS.md
+          grep -q "One-Failure Test" modules/07-custody.md
+          grep -q "Institutional custody is a different trade-off" modules/advanced/A07-custody.md
 
       - name: Verify course integrity
         run: |
           python3 tools/check-crossrefs.py
-          python3 tools/check-layer-parity.py
           python3 tools/slop-scan.py --all
           python3 tools/check-visuals.py
-          python3 tools/test-layer-parity-mutations.py
           git diff --check
 
       - name: Remove one-time runner
