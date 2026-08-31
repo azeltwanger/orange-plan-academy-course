@@ -2,9 +2,9 @@
 """Audit spoken course scripts for copywriting-style negation reversals.
 
 The target is the rhetorical setup that says “not A” merely so the useful idea B
-can land afterward. The audit deliberately ignores ordinary narrative negatives
-and keeps safety, legal, tax, custody, model, and explicit UI warnings in their
-own review bucket.
+can land afterward. The audit checks adjacent sentences even when a paragraph
+break separates them. Ordinary narrative negatives are ignored. Safety, legal,
+tax, custody, model, and explicit UI warnings stay in their own review bucket.
 
 Usage:
     python3 tools/direct-voice-audit.py
@@ -38,7 +38,7 @@ CONCEPT_SUBJECT = (
 
 NEGATION_CORE = (
     r"(?:isn'?t|is not|aren'?t|are not|doesn'?t mean|does not mean|"
-    r"don'?t need|do not need|cannot|can'?t|not automatically|not only|not just)"
+    r"don'?t need|do not need|not automatically|not only|not just)"
 )
 
 SAME_SENTENCE = [
@@ -84,6 +84,10 @@ SAFETY = re.compile(
 )
 
 WARNING_LINE = re.compile(r"^(?:\*\*⚠|⚠|DO NOT\b|NEVER\b)", re.I)
+SKIP_PREFIXES = (
+    "#", "|", "```", "TELEPROMPTER", "ADVANCED TELEPROMPTER", "==",
+    "**DO**", "**SEE**", "**ENTER**", "**SAVE**", "**POINT", "**WATCH",
+)
 
 
 def sentence_spans(line: str) -> list[str]:
@@ -96,28 +100,43 @@ def targets() -> list[Path]:
     return [p for p in sorted(files) if p.name not in {"README.md", "VOICE-GUIDE.md"}]
 
 
+def family_for(text: str) -> str:
+    return "safety/compliance candidate" if SAFETY.search(text) or WARNING_LINE.search(text) else "direct-voice candidate"
+
+
 def main() -> None:
     hits: list[Hit] = []
     for path in targets():
         rel = path.relative_to(ROOT).as_posix()
+        adjacent: list[tuple[int, str]] = []
+
         for line_no, raw in enumerate(path.read_text(encoding="utf-8").splitlines(), 1):
             line = raw.strip()
-            if not line or line.startswith(("#", "|", "```", "TELEPROMPTER", "ADVANCED TELEPROMPTER", "==", "**DO**", "**SEE**", "**ENTER**", "**SAVE**", "**POINT", "**WATCH")):
+            if not line or line.startswith(SKIP_PREFIXES):
                 continue
 
-            is_safety = bool(SAFETY.search(line) or WARNING_LINE.search(line))
-            family = "safety/compliance candidate" if is_safety else "direct-voice candidate"
-
+            family = family_for(line)
             if any(rx.search(line) for rx in SAME_SENTENCE):
                 hits.append(Hit(rel, line_no, family + " · same-sentence reversal", line))
 
             if HIGH_FRICTION.search(line) and NEGATION_LED.search(line):
                 hits.append(Hit(rel, line_no, family + " · negation-led explanation", line))
 
-            sents = sentence_spans(line)
-            for left, right in zip(sents, sents[1:]):
-                if NEGATION_LED.search(left) and AFFIRMATIVE_START.search(right):
-                    hits.append(Hit(rel, line_no, family + " · cross-sentence reversal", f"{left} {right}"))
+            # Bullets, quoted production directions, and metadata do not form a
+            # prose pair with the next paragraph.
+            if line.startswith(("- ", "* ", "> ", "**⚠", "⚠")):
+                continue
+            adjacent.extend((line_no, sentence) for sentence in sentence_spans(line))
+
+        for (left_line, left), (right_line, right) in zip(adjacent, adjacent[1:]):
+            # Adjacent prose paragraphs are normally one or two source lines apart.
+            # Stop before a distant section can create a false pair.
+            if right_line - left_line > 3:
+                continue
+            if NEGATION_LED.search(left) and AFFIRMATIVE_START.search(right):
+                pair = f"{left} {right}"
+                family = family_for(pair)
+                hits.append(Hit(rel, left_line, family + " · cross-sentence reversal", pair))
 
     unique: list[Hit] = []
     seen: set[tuple[str, int, str]] = set()
