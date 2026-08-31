@@ -48,10 +48,9 @@ V1 COURSE ALIGNMENT FAILURES
  - modules/09-module-9-finish-test-maintain.md:144: retired report route: final report assembles the whole plan into something the household and professionals can read. I woul
  - modules/09-module-9-finish-test-maintain.md:319: retired report route: Open Report. **READ**: 1. Position — does today's account and debt picture match reality?
  - modules/09-module-9-finish-test-maintain.md:252: retired apply/run language: Run confidence**. **SEE** 1,000 test runs complete against the full baseline. **SAY** This i
- - scripts/06-3_use-plan-confidence-and-guardrails-to-adjust-spending.md: missing fixed standard / `800 of 1,000`
  - visuals/6-3_guardrails.md: old 60/80/95 customer-facing guardrail sequence remains
 
-36 failures across 173 active files
+35 failures across 173 active files
 
 ```
 
@@ -348,7 +347,7 @@ NOTES (reported, do not fail)  —  108
 
 FAILURES  —  66
   [CLAIMS] V1-COUNT-6 (6.3)
-          MUST be present in every listed layer — master: FAIL · script: FAIL · lesson-text: FAIL · module: FAIL
+          MUST be present in every listed layer — master: FAIL · script: PASS · lesson-text: PASS · module: FAIL
   [CLAIMS] V1-GUARD-6 (6.3)
           MUST be present in every listed layer — master: PASS · script: PASS · lesson-text: PASS · module: PASS · visual: FAIL
   [CLAIMS] V1-NAV-9 (9.1)
@@ -572,7 +571,7 @@ A figure with no example framing. Say where it comes from, or drop it.
   "core_n": 28,
   "core_min": 154,
   "core_h": 2.6,
-  "core_w": 23935,
+  "core_w": 23934,
   "core_caps": 0,
   "core_walkthroughs": 0,
   "core_demos": 0,
