@@ -48,9 +48,8 @@ V1 COURSE ALIGNMENT FAILURES
  - modules/09-module-9-finish-test-maintain.md:144: retired report route: final report assembles the whole plan into something the household and professionals can read. I woul
  - modules/09-module-9-finish-test-maintain.md:319: retired report route: Open Report. **READ**: 1. Position — does today's account and debt picture match reality?
  - modules/09-module-9-finish-test-maintain.md:252: retired apply/run language: Run confidence**. **SEE** 1,000 test runs complete against the full baseline. **SAY** This i
- - visuals/6-3_guardrails.md: old 60/80/95 customer-facing guardrail sequence remains
 
-35 failures across 173 active files
+34 failures across 173 active files
 
 ```
 
@@ -475,7 +474,7 @@ FAILURES  —  66
   [CLAIMS] V1-NO-PLAN-GUIDE
           MUST NOT appear — modules/00-module-0-start-here.md:142  Before moving on, open the Plan Guide once from the page you're currentl
   [CLAIMS] V1-NO-CORE-6095 (6.3)
-          MUST NOT appear in any layer — found in master: "60 cut → 80 hold → 95" · module: "60 cut → 80 hold → 95" · visual: "60 / 80 / 95"
+          MUST NOT appear in any layer — found in master: "60 cut → 80 hold → 95" · module: "60 cut → 80 hold → 95"
   [CLAIMS] V1-NO-RECOMMENDATION-SETUP (3.1)
           MUST NOT appear in any layer — found in master: "The four paths on the screen are not recommendations" · module: "The four paths on the screen are not recommendations"
 
