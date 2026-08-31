@@ -32,7 +32,7 @@ The Daily Bitcoin Market Report gives you a quick read on the market without che
 
 I use the report for context. The final question is whether anything changed a rule in the plan. Most market days update the value of the assets without changing the strategy.
 
-Orange Plan also has an AI Strategy Review Export for people who prefer ChatGPT, Claude, or another AI. The file removes personal information that the outside AI does not need and gives it a structured summary of the plan. Review the export before uploading it, then use the same prompts from this lesson.
+Orange Plan also has an AI Strategy Review Export for people who prefer ChatGPT, Claude, or another AI. The file removes personal identifiers and gives the outside AI a structured summary of the plan. Review the export before uploading it, then use the same prompts from this lesson.
 
 Keep seed phrases, private keys, wallet backups, passphrases, PINs, passwords, Social Security numbers, full account numbers, and backup-file passwords out of every AI tool. Treat the encrypted Orange Plan backup as a restoration file and keep that out of AI tools too.
 

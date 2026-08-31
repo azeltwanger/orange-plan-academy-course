@@ -6,7 +6,7 @@
 
 ## 4.1 Decide what every debt should do
 
-*`TEACH` · ~6.7 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~6.6 min · PRE-DICTATION FILMING DRAFT*
 
 In today's lesson, we're going to build a debt strategy instead of just making a list of what you owe.
 
@@ -34,7 +34,7 @@ I treat the bands in the app as context, not commands. A household with two stab
 
 Now we can look at the actual debts.
 
-The interest rate matters, but it is not the only thing that matters. I would look at:
+Read the interest rate alongside:
 
 - the rate and whether it is fixed or variable;
 - the required payment;

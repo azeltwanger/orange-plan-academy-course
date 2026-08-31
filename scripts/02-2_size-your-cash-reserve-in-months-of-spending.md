@@ -6,7 +6,7 @@ SOURCE: Austin dictation; current course order and current-app handoffs applied 
 
 In today's lesson, we're going to cover how to size your cash reserve to your life. Let me start by showing you why this matters.
 
-In our example, we have a couple that's holding 1.75 Bitcoin. Back in 2022, during the bear market, Bitcoin dropped 77% from its peak. If they were to have something like a job loss during this window and they're not holding enough cash, but they still have bills like their mortgage that they have to pay, they're now stuck in a situation where they're selling Bitcoin at a 77% loss just to cover all of their bills and their mortgage.
+In our example, a couple holds 1.75 Bitcoin. During the 2022 bear market, Bitcoin fell 77% from its peak. A job loss during that drawdown, combined with too little cash and a mortgage that still has to be paid, can force the household to sell Bitcoin near the bottom to cover the bills.
 
 On the flip side of this, if you hold too much cash, you have the opposite problem. That money just sits there losing to inflation, and it's going to drag your returns over longer periods of time. What we're going to do in this lesson is find the right number for you in your life that's somewhere in the middle.
 
@@ -22,7 +22,7 @@ Once I get to the app in the walkthrough section, we'll have an opportunity to s
 
 == TARGET MONTHS ==
 
-The amount of months that you should hold depends on your specific situation. The table here that's on the screen is going to give you the range that you're going to fall in. If you have, for example, two stable incomes and you don't have any kids or people relying on you, you can start at about 3 months, and that's going to be the minimum. For most households, I would say 6 months is the baseline. If you have a single-income household, or if you're self-employed or if your pay is more variable, like in a sales job, you're going to want to shoot for 12 months or more.
+The amount of months that you should hold depends on your specific situation. The table here that's on the screen is going to give you the range that you're going to fall in. Two stable incomes with no dependents may support a starting target around three months. Six months is a more common baseline for a household with normal uncertainty. If you have a single-income household, or if you're self-employed or if your pay is more variable, like in a sales job, you're going to want to shoot for 12 months or more.
 
 After this, there are six factors that are going to move this number up or down inside this range. They all come down to 2 questions. How reliable is your income? And how difficult is it for you to shrink the amount of expenses that you have every month?
 
@@ -48,7 +48,7 @@ Let's say that we have a couple that's 67 years old. They're spending $80,000 a 
 
 Now, after several years into retirement, the risk of needing to sell assets at an inopportune time, and the impact that's going to have on your financial plan, is going to start to fade away. This is because research has shown that sequence-of-returns risk — which is the risk that your portfolio drops right after you retire — starts to go down after you hit 5 years retired.
 
-After this period, if you're not comfortable holding a large amount of cash, I think it can make sense to move your cash reserve down to something like 12 months if you're up at 18. A lot of this is just going to come down to what your risk tolerance is. If you don't like holding a lot of cash, then I think a floor for a cash reserve in retirement is going to be 12 months. These can go up to around 3 years if you're risk-averse and just feel better having a large cash position. We're going to get into, in later lessons, how you're going to go about refilling this cash reserve and when to do this.
+After this period, if you're not comfortable holding a large amount of cash, I think it can make sense to move your cash reserve down to something like 12 months if you're up at 18. A lot of this is just going to come down to what your risk tolerance is. For a Bitcoin-heavy retirement plan, I use roughly 12 months as the aggressive end of the Reserve range. A more risk-averse household may choose up to around three years of the spending gap. We're going to get into, in later lessons, how you're going to go about refilling this cash reserve and when to do this.
 
 == THE SCENARIO QUESTION ==
 

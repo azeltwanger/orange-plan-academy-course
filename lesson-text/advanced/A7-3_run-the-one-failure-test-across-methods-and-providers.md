@@ -72,4 +72,4 @@ At the annual review:
 4. Ask what one event could still affect everything.
 5. Fix the largest shared dependency before adding more complexity.
 
-A setup does not become safer merely because the diagram has more boxes. It becomes safer when a real failure can happen and the family plan still survives.
+A setup becomes safer when a real failure can happen and the family plan still survives. Extra boxes help only when they remove a named failure.

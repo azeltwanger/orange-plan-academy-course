@@ -32,7 +32,7 @@ No seed phrase, private key, passphrase, PIN, password, descriptor contents, or 
 
 🎬 VISUAL — Four methods compared side by side: direct self-custody, collaborative multisig, institutional custody, intentional split. Each gets two rows: what it protects against and what you accept.
 
-The first decision is not the product. It is which risk you are trying to reduce.
+Start by naming the risk you are trying to reduce.
 
 Direct self-custody protects against provider failure, frozen withdrawals, and loss of direct control. The trade-off is that recovery mistakes, physical security, and family continuity become your responsibility.
 
@@ -50,7 +50,7 @@ The next question is how much direct control matters to you.
 
 For one person, direct control is non-negotiable. They want a meaningful amount that no institution can freeze.
 
-For another person, direct control matters, but it is not absolute. They may want some Bitcoin they control directly and some professionally supported.
+Another person may want both directly controlled Bitcoin and a professionally supported portion.
 
 For another household, support, recourse, and family simplicity matter more than controlling every key personally.
 
@@ -80,7 +80,7 @@ Could one lost seed, one frozen account, one provider failure, one home disaster
 
 If the answer is yes, the setup may be too concentrated.
 
-Notice what this does not say. A large balance can use direct self-custody, collaborative multisig, institutional custody, or an intentional combination. The right architecture depends on the failures the household needs to survive.
+A large balance can use direct self-custody, collaborative multisig, institutional custody, or an intentional combination. The right architecture depends on the failures the household needs to survive.
 
 It says the architecture has to match the actual failure that matters.
 

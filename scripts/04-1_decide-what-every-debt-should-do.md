@@ -30,7 +30,7 @@ I treat the bands in the app as context, not commands. A household with two stab
 
 Now we can look at the actual debts.
 
-The interest rate matters, but it is not the only thing that matters. I would look at:
+Read the interest rate alongside:
 
 - the rate and whether it is fixed or variable;
 - the required payment;

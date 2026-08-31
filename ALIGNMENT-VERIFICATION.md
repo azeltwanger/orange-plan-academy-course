@@ -13,15 +13,11 @@ Branch: `course-v1-alignment-direct-voice`
 ## V1 product contract
 
 ```text
-V1 COURSE ALIGNMENT FAILURES
- - MASTER-COURSE.md:3081: normal-user confidence target: saved confidence target and retirement date, one tested scenario, yearly report, encrypted backup, and
- - modules/09-module-9-finish-test-maintain.md:5: normal-user confidence target: saved confidence target and retirement date, one tested scenario, yearly report, encrypted backup, and
-
-2 failures across 172 active files
+V1 course alignment passed across 172 active files
 
 ```
 
-**Exit:** `1`
+**Exit:** `0`
 
 ## Cross references
 
@@ -344,7 +340,7 @@ FAILURES  —  1
   [CLAIMS] V1-GUARD-6 (6.3)
           MUST be present in every listed layer — master: PASS · script: PASS · lesson-text: PASS · module: PASS · visual: FAIL
 
-52 lessons · 46 registry rules · 182 files scanned · 1 failures, 108 notes
+52 lessons · 46 registry rules · 183 files scanned · 1 failures, 108 notes
 
 ```
 
@@ -367,11 +363,11 @@ First use in course order. A hit means no definition cue in that sentence.
   M0   0.2  basis  It may point out an account with no holdings, an old debt rate, missing cost basis, a life event that has not 
   M0   0.2  seed phrase  Keep seed phrases, private keys, wallet backups, passphrases, PINs, passwords, Social Security numbers, full a
   M0   0.2  passphrase  Keep seed phrases, private keys, wallet backups, passphrases, PINs, passwords, Social Security numbers, full a
+  M1   1.1  the gap  We will handle the gaps honestly in the Tax module.
   M1   1.2  Roth conversion  The return assumptions can drastically change decisions about which accounts you contribute to, where you allo
   M1   1.3  income floor  Retirement Income adds the spending, income floor, Bridge, withdrawal order, and guardrail policy.
   M1   1.3  guardrail  Retirement Income adds the spending, income floor, Bridge, withdrawal order, and guardrail policy.
   M1   1.3  withdrawal order  Retirement Income adds the spending, income floor, Bridge, withdrawal order, and guardrail policy.
-  M2   2.2  the gap  Instead, this is going to cover the gap between what you spend and what's coming in from other income sources,
   M2   2.2  sequence risk  For retirement, I use 18 months as a planning default, because the first few years after you stop working are 
   M2   2.5  deficit  **SEE** The amount left to put to work, or the deficit.
   M3   3.2  taxable account  A taxable account can be Bridge or Legacy depending on what the money is for.
@@ -434,16 +430,16 @@ A figure with no example framing. Say where it comes from, or drop it.
 ```text
 {
   "core_n": 28,
-  "core_min": 154,
-  "core_h": 2.6,
-  "core_w": 23934,
+  "core_min": 152,
+  "core_h": 2.5,
+  "core_w": 23565,
   "core_caps": 0,
   "core_walkthroughs": 0,
   "core_demos": 0,
   "core_capture_sessions": 10,
   "adv_n": 14,
   "adv_min": 42,
-  "adv_w": 6490
+  "adv_w": 6434
 }
 stamped: README.md, MASTER-COURSE.md
 note: ['README.md: no METRICS block', 'MASTER-COURSE.md: no METRICS block']
@@ -455,9 +451,9 @@ note: ['README.md: no METRICS block', 'MASTER-COURSE.md: no METRICS block']
 ## Direct-voice audit
 
 ```text
-wrote DIRECT-VOICE-AUDIT.md: 10 ordinary, 7 safety/compliance candidates
+wrote DIRECT-VOICE-AUDIT.md: 1 ordinary, 1 safety/compliance candidates
 
 ```
 
-**Exit:** `0`
+**Exit:** `1`
 

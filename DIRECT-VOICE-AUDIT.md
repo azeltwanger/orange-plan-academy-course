@@ -5,9 +5,9 @@
 > safety/compliance bucket separately because the negative itself may be
 > the information the viewer needs.
 
-- **10** ordinary direct-voice candidates
-- **7** safety/compliance candidates
-- **17** total candidates across **13** files
+- **1** ordinary direct-voice candidates
+- **1** safety/compliance candidates
+- **2** total candidates across **2** files
 
 ## Editing rule
 
@@ -15,75 +15,12 @@ Say the useful fact first. Keep the negative only when removing it would
 make the viewer more likely to take an unsafe action or misunderstand a
 material boundary.
 
-## `scripts/02-2_size-your-cash-reserve-in-months-of-spending.md`
-
-- **L9 · direct-voice candidate · same-sentence reversal**
-  - In our example, we have a couple that's holding 1.75 Bitcoin. Back in 2022, during the bear market, Bitcoin dropped 77% from its peak. If they were to have something like a job loss during this window and they're not holding enough cash, but they still have bills like their mortgage that they have to pay, they're now stuck in a situation where they're selling Bitcoin at a 77% loss just to cover all of their bills and their mortgage.
-
-## `scripts/02-3_add-the-future-changes-your-plan-should-expect.md`
-
-- **L19 · direct-voice candidate · cross-sentence reversal**
-  - You do not need perfect information to add one. Use the best amount and date you can reasonably defend today, then update it as the event gets closer.
-
-## `scripts/03-3_build-the-contribution-waterfall-for-every-new-dollar.md`
-
-- **L11 · direct-voice candidate · cross-sentence reversal**
-  - Most people do not need another list of possible accounts. They need to know what happens to the next five hundred dollars after it hits the plan.
-- **L17 · direct-voice candidate · cross-sentence reversal**
-  - The reason it comes first is not that cash is the best long-term investment. It is that an empty reserve can turn the next emergency into credit-card debt or a forced Bitcoin sale.
-- **L27 · direct-voice candidate · cross-sentence reversal**
-  - We are not inserting a generic "pay debt first" rule. For now, this rung uses the Extra Debt amount currently saved in the plan, which may be zero.
-
-## `scripts/05-2_use-the-tax-buckets-and-low-income-window-on-purpose.md`
-
-- **L33 · safety/compliance candidate · cross-sentence reversal**
-  - The decision is not whether conversions are always good. It is whether paying a known rate now is likely to reduce lifetime tax or create useful flexibility later.
-- **L53 · safety/compliance candidate · cross-sentence reversal**
-  - The goal of this module is not to complete every tax move today. It is to leave with three things:
-
-## `scripts/07-1_self-custody-professional-custody-and-when-a-split-makes-sense.md`
-
-- **L35 · direct-voice candidate · cross-sentence reversal**
-  - The first decision is not the product. It is which risk you are trying to reduce.
-
 ## `scripts/07-2_set-up-a-hardware-wallet-and-prove-recovery.md`
 
 - **L40 · safety/compliance candidate · cross-sentence reversal**
-  - Redundancy is not simply making as many copies as possible. It is making sure one event cannot destroy every recovery path.
-
-## `scripts/07-3_fix-single-points-of-failure-and-harden-accounts.md`
-
-- **L93 · direct-voice candidate · same-sentence reversal**
-  - A few years ago, somebody called my bank pretending to be me and tried to move about ten thousand dollars. They did not get it, but it made the weakness very real. That is when I moved my email and important exchange logins to physical security keys.
-
-## `scripts/08-1_choose-who-is-in-charge-and-put-the-legal-baseline-in-place.md`
-
-- **L43 · safety/compliance candidate · cross-sentence reversal**
-  - I would start with the baseline even if the estate is not large. A simple plan that exists and is properly executed is more useful than an advanced trust design that never gets finished.
-
-## `scripts/advanced/A1-1_how-orange-plan-models-bitcoin.md`
-
-- **L30 · safety/compliance candidate · cross-sentence reversal**
-  - Historical data cannot reveal the exact future distribution. Use the simulation count to compare decisions, find fragility, and understand the plan's dependence on sequence.
-
-## `scripts/advanced/A6-1_health-coverage-before-medicare.md`
-
-- **L19 · safety/compliance candidate · cross-sentence reversal**
-  - It is not health insurance. It is a membership and crowdfunding arrangement with its own eligibility, member-responsibility, bill-negotiation, and funding rules.
+  - Redundancy makes sure one event cannot destroy every recovery path. Each additional copy or location should solve a specific failure.
 
 ## `scripts/advanced/A7-1_compare-passphrase-multisig-institutional-custody-and-an-intentional-split.md`
 
 - **L23 · direct-voice candidate · same-sentence reversal**
   - The wallet also depends on public configuration information: the keys or xpubs, threshold, script type, derivation paths, fingerprints, and related descriptor or wallet-policy data. That information cannot sign by itself, but it is important for reconstructing the intended wallet and can reveal privacy information.
-- **L71 · direct-voice candidate · cross-sentence reversal**
-  - The safest architecture is not the one with the most hardware or the strongest ideological label. It is the simplest combination that removes the household's actual failure points, preserves the amount of direct control the household values, and can still be recovered by the people who inherit the responsibility.
-
-## `scripts/advanced/A7-2_what-self-custody-asks-of-you.md`
-
-- **L38 · safety/compliance candidate · negation-led explanation**
-  - The question is not whether self-custody is morally better. The question is which risks you want to own directly and whether the household can keep owning them for decades.
-
-## `scripts/advanced/A8-1_do-you-need-a-trust.md`
-
-- **L13 · direct-voice candidate · cross-sentence reversal**
-  - The relevant number is not only today's net worth. It is what the estate may become under assumptions the household actually believes.

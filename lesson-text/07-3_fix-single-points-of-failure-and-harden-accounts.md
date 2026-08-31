@@ -62,7 +62,7 @@ Run the test against:
 
 If one event materially damages the plan, that is the failure point to work on.
 
-You do not have to fix everything this week. Rank the top one to three by the damage they could cause, then fix the first one.
+Rank the top one to three weaknesses by the damage they could cause, then fix the first one this week.
 
 The fix may be a second location, a proven backup device, another person who understands the process, a provider-independent recovery path, a second custody method, or a lower maximum exposure to one institution.
 
@@ -82,7 +82,7 @@ Review who the provider recognizes after death or incapacity. A hardened login i
 
 Save the institution's official support path before you need it. Do not use the phone number, login link, or support account supplied in an urgent message.
 
-A few years ago, somebody called my bank pretending to be me and tried to move about ten thousand dollars. They did not get it, but it made the weakness very real. That is when I moved my email and important exchange logins to physical security keys.
+A few years ago, somebody called my bank pretending to be me and tried to move about ten thousand dollars. The bank stopped the transfer, and the attempt made the weakness very real. That is when I moved my email and important exchange logins to physical security keys.
 
 An authenticator app is good. A hardware security key can add phishing resistance because it is bound to the real website instead of giving you a code that can be typed into a convincing fake page.
 
@@ -109,7 +109,7 @@ Before the walkthrough, complete the custody map at a no-secrets level:
 - the biggest remaining failure;
 - and the family recovery path.
 
-Then circle the one failure that could do the most damage. That becomes the next action. The app checklist is not the security itself. It is the honest record of what has and has not actually been done.
+Then circle the one failure that could do the most damage. That becomes the next action. The app checklist is the honest record of which security work has actually been completed and which action comes next.
 
 ## Apply it
 

@@ -18,7 +18,7 @@ Test the exact recovery with a trivial amount. The seed-only wallet, the intende
 
 A two-of-three multisig wallet uses three signing keys and requires two valid signatures.
 
-One lost key does not necessarily destroy access, and one stolen key does not spend alone. That removes a single-key failure. It does not remove every single point of failure.
+A two-of-three wallet can survive one lost key, and one stolen key cannot spend alone. That removes a single-key failure. It does not remove every single point of failure.
 
 The wallet also depends on public configuration information: the keys or xpubs, threshold, script type, derivation paths, fingerprints, and related descriptor or wallet-policy data. That information cannot sign by itself, but it is important for reconstructing the intended wallet and can reveal privacy information.
 
@@ -68,4 +68,4 @@ Build a small test wallet or account. Send and receive. Lose or replace one comp
 
 Document the process without documenting the secrets.
 
-The safest architecture is not the one with the most hardware or the strongest ideological label. It is the simplest combination that removes the household's actual failure points, preserves the amount of direct control the household values, and can still be recovered by the people who inherit the responsibility.
+The strongest architecture is the simplest combination that removes the household's actual failure points, preserves the amount of direct control the household values, and can still be recovered by the people who inherit the responsibility.

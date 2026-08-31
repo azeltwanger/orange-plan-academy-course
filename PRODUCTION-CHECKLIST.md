@@ -102,7 +102,7 @@
 ## ☐ MODULE 1 — FOUNDATION   ·   WAVE 1
 
 ☐ 1.1 What to gather before you build the plan — 🎙 film (~7 min)
-☐ 1.2 The three layers of a plan, and setting your assumptions — 🎙 film (~10 min)
+☐ 1.2 The three layers of a plan, and setting your assumptions — 🎙 film (~9 min)
 ☐ 1.3 What the onboarding retirement age actually means — 🎙 film (~4 min)
 ☐ 1.4 WALKTHROUGH — Replace the onboarding estimate with real Foundation data — 🖥 capture
 ☐ Paste the Module 1 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
@@ -110,8 +110,8 @@
 ## ☐ MODULE 2 — CASH FLOW + RESERVE   ·   WAVE 1
 
 ☐ 2.1 Find the surplus your plan can actually use — 🎙 film (~7 min)
-☐ 2.2 Size your cash reserve in months of spending — 🎙 film (~11 min)
-☐ 2.3 Add the future changes your plan should expect — 🎙 film (~5 min)
+☐ 2.2 Size your cash reserve in months of spending — 🎙 film (~10 min)
+☐ 2.3 Add the future changes your plan should expect — 🎙 film (~4 min)
 ☐ 2.4 Optional: decide how much college help you are actually funding — 🎙 film (~6 min)
 ☐ 2.5 WALKTHROUGH — Build cash flow, the Reserve, and expected life events — 🖥 capture
 ☐ Paste the Module 2 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
@@ -187,7 +187,7 @@
 ☐ 10. A5.3 State taxes and relocation: measure the lever before moving — 🎙 dictate/film (~2 min)
 ☐ 11. A7.3 Run the One-Failure Test across methods and providers — 🎙 dictate/film (~4 min)
 ☐ 12. A7.4 UTXOs, dust, consolidation, and address use — 🎙 dictate/film (~2 min)
-☐ 13. A8.1 Do you need a trust, and what job would it do? — 🎙 dictate/film (~5 min)
+☐ 13. A8.1 Do you need a trust, and what job would it do? — 🎙 dictate/film (~4 min)
 ☐ — A4.2 The four ways debt can strengthen a plan, and how each one fails — ⚠ missing from dictation order
 
 > ⚠ **Demand-order entries that match no advanced lesson: A3.2.** Fix `DEMAND` in `tools/build-production-checklist.py` — a name that does not resolve is silently dropped from the numbering.

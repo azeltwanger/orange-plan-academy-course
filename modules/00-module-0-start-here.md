@@ -6,7 +6,7 @@
 
 ## 0.1 How to use this course
 
-*`TEACH` · ~8.8 min · AUSTIN DICTATION*
+*`TEACH` · ~8.6 min · AUSTIN DICTATION*
 
 Welcome to the course. In this first lesson, I'm going to cover what this course is, what you're going to walk out with, and how to get the most out of it as you go through all these lessons.
 
@@ -67,7 +67,7 @@ Now, some of this information can be dense, and it can feel overwhelming if you 
 
 ### A quick disclaimer
 
-And a quick disclaimer: this is not designed to replace your tax advisor, estate planning attorney, or financial advisor. It's not financial advice. This is education as far as how I think about these concepts and how I would go about building a financial plan. It is on you to make your own financial decisions and then act on those, using the information that you've learned and what you feel like is best for your specific situation.
+And a quick disclaimer: this course is education about how I think through building a financial plan. You are responsible for your own financial decisions. Use a tax advisor, estate planning attorney, insurance professional, or financial advisor when your specific facts require licensed or current professional judgment.
 
 Specifically for taxes, insurance, or things like estate planning, these are areas where the details of your situation are going to change what the right answer is for you. These rules and decisions around estate planning can evolve and change as your level of assets goes up and different circumstances in your life might change.
 
@@ -97,7 +97,7 @@ Alright, and with that, thanks for being here, and I'll see you in the first les
 ---
 ## 0.2 How to use Orange Plan AI
 
-*`TEACH` · ~3.9 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~3.8 min · PRE-DICTATION FILMING DRAFT*
 
 So in this lesson, we're going to cover how I would use Ask while building and maintaining a financial plan.
 
@@ -127,7 +127,7 @@ The Daily Bitcoin Market Report gives you a quick read on the market without che
 
 I use the report for context. The final question is whether anything changed a rule in the plan. Most market days update the value of the assets without changing the strategy.
 
-Orange Plan also has an AI Strategy Review Export for people who prefer ChatGPT, Claude, or another AI. The file removes personal information that the outside AI does not need and gives it a structured summary of the plan. Review the export before uploading it, then use the same prompts from this lesson.
+Orange Plan also has an AI Strategy Review Export for people who prefer ChatGPT, Claude, or another AI. The file removes personal identifiers and gives the outside AI a structured summary of the plan. Review the export before uploading it, then use the same prompts from this lesson.
 
 Keep seed phrases, private keys, wallet backups, passphrases, PINs, passwords, Social Security numbers, full account numbers, and backup-file passwords out of every AI tool. Treat the encrypted Orange Plan backup as a restoration file and keep that out of AI tools too.
 

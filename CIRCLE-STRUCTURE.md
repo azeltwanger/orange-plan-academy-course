@@ -59,7 +59,7 @@ watched — watching is not the deliverable, a plan is.
 ### Lessons
 
 - **1.1 What to gather before you build the plan** — 🎙 ~7 min
-- **1.2 The three layers of a plan, and setting your assumptions** — 🎙 ~10 min
+- **1.2 The three layers of a plan, and setting your assumptions** — 🎙 ~9 min
 - **1.3 What the onboarding retirement age actually means** — 🎙 ~4 min
 - **1.4 WALKTHROUGH — Replace the onboarding estimate with real Foundation data** — 🖥 walkthrough
 
@@ -101,8 +101,8 @@ watched — watching is not the deliverable, a plan is.
 ### Lessons
 
 - **2.1 Find the surplus your plan can actually use** — 🎙 ~7 min
-- **2.2 Size your cash reserve in months of spending** — 🎙 ~11 min
-- **2.3 Add the future changes your plan should expect** — 🎙 ~5 min
+- **2.2 Size your cash reserve in months of spending** — 🎙 ~10 min
+- **2.3 Add the future changes your plan should expect** — 🎙 ~4 min
 - **2.4 Optional: decide how much college help you are actually funding** — 🎙 ~6 min · **OPTIONAL**
 - **2.5 WALKTHROUGH — Build cash flow, the Reserve, and expected life events** — 🖥 walkthrough
 

@@ -2,7 +2,7 @@
 
 ## A7.1 Compare passphrase, multisig, institutional custody, and an intentional split
 
-*`TEACH` · ~5.7 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~5.6 min · PRE-DICTATION FILMING DRAFT*
 
 > **Publication gate:** Research complete. Verify exact devices, wallet software, descriptors, provider roles, institutional terms, and recovery procedures before any setup-specific footage.
 
@@ -20,7 +20,7 @@ Test the exact recovery with a trivial amount. The seed-only wallet, the intende
 
 A two-of-three multisig wallet uses three signing keys and requires two valid signatures.
 
-One lost key does not necessarily destroy access, and one stolen key does not spend alone. That removes a single-key failure. It does not remove every single point of failure.
+A two-of-three wallet can survive one lost key, and one stolen key cannot spend alone. That removes a single-key failure. It does not remove every single point of failure.
 
 The wallet also depends on public configuration information: the keys or xpubs, threshold, script type, derivation paths, fingerprints, and related descriptor or wallet-policy data. That information cannot sign by itself, but it is important for reconstructing the intended wallet and can reveal privacy information.
 
@@ -70,7 +70,7 @@ Build a small test wallet or account. Send and receive. Lose or replace one comp
 
 Document the process without documenting the secrets.
 
-The safest architecture is not the one with the most hardware or the strongest ideological label. It is the simplest combination that removes the household's actual failure points, preserves the amount of direct control the household values, and can still be recovered by the people who inherit the responsibility.
+The strongest architecture is the simplest combination that removes the household's actual failure points, preserves the amount of direct control the household values, and can still be recovered by the people who inherit the responsibility.
 
 ---
 ## A7.2 What self-custody actually asks of you
@@ -104,13 +104,13 @@ Then ask whether the setup survives ordinary life:
 
 Maintenance is part of the job. Firmware and wallet software change. Devices become unsupported. A backup can be moved or damaged. A passphrase can be forgotten. A multisig descriptor can be lost. A family member who once understood the process may no longer be available.
 
-Schedule a yearly recovery exercise using a test wallet or another procedure that does not expose live secrets. Review the locations, people, devices, software, and provider contacts.
+Schedule a yearly recovery exercise using a test wallet or another safe procedure, then review the locations, people, devices, software, and provider contacts. Keep live secrets out of the exercise.
 
 Self-custody should create confidence, not constant fear.
 
 A smaller amount in a simple, tested setup is better than a life-changing amount in a complex setup copied from somebody else. And keeping some professionally supported Bitcoin is not a failure of conviction when it solves a real family or operational risk.
 
-The question is not whether self-custody is morally better. The question is which risks you want to own directly and whether the household can keep owning them for decades.
+Decide which risks you want to own directly and whether the household can keep owning them for decades. That is the useful self-custody question.
 
 ---
 ## A7.3 Run the One-Failure Test across methods and providers
@@ -189,7 +189,7 @@ At the annual review:
 4. Ask what one event could still affect everything.
 5. Fix the largest shared dependency before adding more complexity.
 
-A setup does not become safer merely because the diagram has more boxes. It becomes safer when a real failure can happen and the family plan still survives.
+A setup becomes safer when a real failure can happen and the family plan still survives. Extra boxes help only when they remove a named failure.
 
 ---
 ## A7.4 UTXOs, dust, consolidation, and address use

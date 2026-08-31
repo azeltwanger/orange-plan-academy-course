@@ -30,13 +30,13 @@ Taking 30 minutes to an hour now to gather all of this information can be a valu
 
 5. Your employer benefits. This is anything that your employer is going to contribute toward your retirement plan or your financial life. This includes the match on your 401(k), any pension you might have in retirement, deferred compensation, or stock compensation. There can be a few different ways employers do the match. It might be a set percentage, or it can be 50% of what you contribute up to 6% of your pay. A lot of the time these rules are listed inside your employer retirement account or benefits portal.
 
-6. Future life events. These are known costs or income changes that you might have coming up and that we're going to enter into your plan later. This includes things like paying for your kids' college, buying a new car, plans to sell your house and buy another one, or a future change to your income. There are not necessarily any documents that you need for this one. I think it's just important to start thinking about what might be coming up in the future.
+6. Future life events. These are known costs or income changes that you might have coming up and that we're going to enter into your plan later. This includes things like paying for your kids' college, buying a new car, plans to sell your house and buy another one, or a future change to your income. For future life events, start with a list of the income and expenses you reasonably expect. A statement usually is not required yet.
 
 7. Your cost basis. This is the most difficult one to track down, so I think it's important to start now. Cost basis is just a fancy way of saying your purchase history for the assets that you hold: what you bought, when you bought it, how much you bought, and what you paid.
 
 The app uses this information to model what your future tax liability might be. Knowing what prices you actually paid can give you a more accurate picture of what taxes you're going to owe and can help inform some of the decisions you're making when it comes to retirement planning.
 
-Your Bitcoin purchase history is going to live across the exchange accounts you use today and the ones you used in the past. Sometimes exchanges do not keep all of your history forever. If you cannot access all of it, that's okay.
+Your Bitcoin purchase history is going to live across the exchange accounts you use today and the ones you used in the past. Download every history file that is still available and make a note of any missing years or accounts. We will handle the gaps honestly in the Tax module.
 
 I think it's important to upload as much as you reasonably can. Go to your exchange accounts and download the CSV files that include your transaction history. This also applies to brokerage accounts. If you have a Fidelity account, for example, you can download the purchase history as an Excel or CSV file.
 
@@ -67,7 +67,7 @@ For now, put the statements, exports, employer information, and rough future-eve
 ---
 ## 1.2 The three layers of a plan, and setting your assumptions
 
-*`TEACH` · ~9.6 min · AUSTIN DICTATION*
+*`TEACH` · ~9.4 min · AUSTIN DICTATION*
 
 In today's lesson, we're going to cover how your retirement plan is going to be built out and the three different layers that go into how the app works and how your retirement plan is going to work.
 
@@ -99,7 +99,7 @@ These questions live somewhere separate in the app because when you start changi
 
 The Scenarios page lets you compare your current plan to different potential futures without changing the baseline underneath you.
 
-Don't feel like you need to constantly make changes to your baseline information just to test an idea. We want to get the information in the first layer right so we can make accurate comparisons with hypothetical futures in the third layer.
+Keep the baseline stable and accurate. Use Scenarios to compare hypothetical futures without changing the saved plan.
 
 To keep it simple, the truth and the assumptions used by the plan belong in your baseline and foundation. Expected changes that you have a high level of confidence will happen go into life events. Questions and comparisons about the future go into scenarios.
 
@@ -149,7 +149,7 @@ A declining growth curve is more honest than assuming a flat CAGR across a 30- o
 
 If you want to create your own returns, the advanced assumptions panel lets you build custom return windows for Bitcoin and the other assets in your plan.
 
-I personally like using power law as a model, although any model is only a tool for making a projection. It isn't a guarantee. Moderate is a step down if you want to be more conservative, and Conservative is there if you want to use a much lower growth path.
+I personally like using power law as a model, although any model is only a tool for making a projection. Treat every model as a planning tool. Moderate uses a lower growth path than Power Law, and Conservative steps down further.
 
 ### Inflation
 

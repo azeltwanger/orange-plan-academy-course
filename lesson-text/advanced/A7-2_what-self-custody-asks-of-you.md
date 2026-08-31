@@ -27,10 +27,10 @@ Then ask whether the setup survives ordinary life:
 
 Maintenance is part of the job. Firmware and wallet software change. Devices become unsupported. A backup can be moved or damaged. A passphrase can be forgotten. A multisig descriptor can be lost. A family member who once understood the process may no longer be available.
 
-Schedule a yearly recovery exercise using a test wallet or another procedure that does not expose live secrets. Review the locations, people, devices, software, and provider contacts.
+Schedule a yearly recovery exercise using a test wallet or another safe procedure, then review the locations, people, devices, software, and provider contacts. Keep live secrets out of the exercise.
 
 Self-custody should create confidence, not constant fear.
 
 A smaller amount in a simple, tested setup is better than a life-changing amount in a complex setup copied from somebody else. And keeping some professionally supported Bitcoin is not a failure of conviction when it solves a real family or operational risk.
 
-The question is not whether self-custody is morally better. The question is which risks you want to own directly and whether the household can keep owning them for decades.
+Decide which risks you want to own directly and whether the household can keep owning them for decades. That is the useful self-custody question.

@@ -26,7 +26,7 @@ The first thing I would do is list every income stream separately. That means ea
 
 Then we need the spending number. This is one of the easiest inputs to get wrong.
 
-Your spending is not your gross income. It is not the amount hitting the bank before taxes. And in Orange Plan, minimum debt payments are entered separately, so you do not want to count the same payment again inside living expenses.
+Enter after-tax living expenses as spending. Gross income and minimum debt payments have their own rows, which keeps the same dollars from being counted twice.
 
 What we want here is what your household normally spends on the actual life you live: housing, food, utilities, insurance, travel, subscriptions, and the rest of the day-to-day categories.
 

@@ -14,7 +14,7 @@ The major planning lever is modified adjusted gross income. In early retirement,
 
 That creates a tension with the tax plan. A conversion may reduce future RMD pressure but increase marketplace premiums by reducing a subsidy. A lower-conversion strategy may preserve the subsidy but leave more money in the Traditional account. Compare the total cost, not only the income-tax line.
 
-CrowdHealth is the path my family has used, but it needs to be described accurately. It is not health insurance. It is a membership and crowdfunding arrangement with its own eligibility, member-responsibility, bill-negotiation, and funding rules. There is no insurance contract guaranteeing every claim in the same way as regulated coverage.
+CrowdHealth is the path my family has used, but it needs to be described accurately. CrowdHealth is a membership and crowdfunding arrangement with its own eligibility, member-responsibility, bill-negotiation, and funding rules. It is not health insurance. There is no insurance contract guaranteeing every claim in the same way as regulated coverage.
 
 Use current, personal numbers in the recording: the membership cost, the marketplace alternative, and a real event from our experience. Then state clearly that another family can have a different result and that all terms must be verified directly.
 

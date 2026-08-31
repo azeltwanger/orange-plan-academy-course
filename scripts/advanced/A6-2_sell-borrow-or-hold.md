@@ -12,11 +12,11 @@ Selling is the simplest. The household receives cash, the gain or loss is report
 
 The cost is the tax, the loss of future upside on the Bitcoin sold, and any emotional difficulty with reducing the position.
 
-Borrowing keeps the collateral exposure at the beginning and generally does not create income merely because bona fide loan proceeds were received. The cost is interest, lender risk, LTV risk, collateral outside self-custody, and a repayment problem that still has to be solved.
+Borrowing keeps the collateral exposure and generally provides bona fide loan proceeds without income at origination. The trade-off is interest, lender risk, LTV risk, collateral outside self-custody, and a repayment problem that still has to be solved.
 
 A later forced liquidation is a sale and can create tax. A long bear market can also make refinancing or collateral top-ups harder exactly when the household has less flexibility.
 
-Holding means deciding that a core Bitcoin position is not a normal spending source. The Reserve, Bridge, income floor, and other accounts fund life while the core compounds or remains part of the estate.
+Holding assigns the core Bitcoin position a long-term or estate job. The Reserve, Bridge, income floor, and other accounts fund life while that core compounds.
 
 Under current federal rules, inherited property may receive a basis adjustment at death, but exceptions, ownership structure, estate inclusion, and future law matter. Do not build the entire plan around one sentence about a step-up without legal and tax review.
 

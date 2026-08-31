@@ -18,7 +18,7 @@ The major planning lever is modified adjusted gross income. In early retirement,
 
 That creates a tension with the tax plan. A conversion may reduce future RMD pressure but increase marketplace premiums by reducing a subsidy. A lower-conversion strategy may preserve the subsidy but leave more money in the Traditional account. Compare the total cost, not only the income-tax line.
 
-CrowdHealth is the path my family has used, but it needs to be described accurately. It is not health insurance. It is a membership and crowdfunding arrangement with its own eligibility, member-responsibility, bill-negotiation, and funding rules. There is no insurance contract guaranteeing every claim in the same way as regulated coverage.
+CrowdHealth is the path my family has used, but it needs to be described accurately. CrowdHealth is a membership and crowdfunding arrangement with its own eligibility, member-responsibility, bill-negotiation, and funding rules. It is not health insurance. There is no insurance contract guaranteeing every claim in the same way as regulated coverage.
 
 Use current, personal numbers in the recording: the membership cost, the marketplace alternative, and a real event from our experience. Then state clearly that another family can have a different result and that all terms must be verified directly.
 
@@ -41,7 +41,7 @@ Enter the chosen cost as part of retirement spending or as an expense event that
 ---
 ## A6.2 Sell, borrow, or hold when the plan needs a year of spending
 
-*`TEACH` · ~2.8 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~2.7 min · PRE-DICTATION FILMING DRAFT*
 
 > **Publication gate:** Research complete. Targeted CPA or EA review before publication; verify lender terms and current basis-at-death law before relying on them.
 
@@ -53,11 +53,11 @@ Selling is the simplest. The household receives cash, the gain or loss is report
 
 The cost is the tax, the loss of future upside on the Bitcoin sold, and any emotional difficulty with reducing the position.
 
-Borrowing keeps the collateral exposure at the beginning and generally does not create income merely because bona fide loan proceeds were received. The cost is interest, lender risk, LTV risk, collateral outside self-custody, and a repayment problem that still has to be solved.
+Borrowing keeps the collateral exposure and generally provides bona fide loan proceeds without income at origination. The trade-off is interest, lender risk, LTV risk, collateral outside self-custody, and a repayment problem that still has to be solved.
 
 A later forced liquidation is a sale and can create tax. A long bear market can also make refinancing or collateral top-ups harder exactly when the household has less flexibility.
 
-Holding means deciding that a core Bitcoin position is not a normal spending source. The Reserve, Bridge, income floor, and other accounts fund life while the core compounds or remains part of the estate.
+Holding assigns the core Bitcoin position a long-term or estate job. The Reserve, Bridge, income floor, and other accounts fund life while that core compounds.
 
 Under current federal rules, inherited property may receive a basis adjustment at death, but exceptions, ownership structure, estate inclusion, and future law matter. Do not build the entire plan around one sentence about a step-up without legal and tax review.
 

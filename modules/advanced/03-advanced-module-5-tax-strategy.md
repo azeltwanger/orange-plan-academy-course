@@ -2,13 +2,13 @@
 
 ## A5.1 RMD pressure and Roth conversions across the low-income window
 
-*`TEACH` · ~3.0 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~2.9 min · PRE-DICTATION FILMING DRAFT*
 
 > **Publication gate:** Research complete. Targeted CPA or EA review before publication; verify the current RMD age, brackets, Medicare rules, and healthcare interactions in the year of action.
 
 A large Traditional account can look like tax-free growth while it is accumulating. It is really tax deferred. The tax has not disappeared, and future required distributions can remove control over when the income appears.
 
-The required beginning age depends on current law and the owner's birth year, so do not build the strategy around one age from an old article. The planning issue is the same: money may be forced out later, on top of Social Security, pensions, and other income.
+Verify the required beginning age under current law for the owner's birth year. The planning issue is that required distributions may later stack on top of Social Security, pensions, and other income.
 
 For a high-growth asset, the pressure can build quickly. A large Traditional balance means the future tax bill is also compounding.
 
@@ -33,7 +33,7 @@ A conversion can affect:
 
 That means the true marginal cost of the next conversion dollar may be higher than the bracket printed on the tax table.
 
-An RMD itself generally cannot be converted. The required amount must first be distributed under the applicable rules, and any additional eligible amount can be considered separately. After-tax basis inside an IRA also changes the calculation and can trigger pro-rata treatment across the owner's IRAs.
+Distribute the required amount under the applicable rules first. Then consider a conversion of any additional eligible amount separately; the RMD itself generally is not convertible. After-tax basis inside an IRA also changes the calculation and can trigger pro-rata treatment across the owner's IRAs.
 
 Paying the conversion tax from outside cash can preserve more of the Roth amount, but that cash also has an opportunity cost. If paying the tax weakens the Reserve or forces another taxable sale, include that in the comparison.
 
@@ -64,11 +64,11 @@ The current federal wash-sale rule has historically applied to securities and no
 
 Economic-substance and related-party issues can matter too. A transaction should be real, documented, and completed in a way that supports the reported loss.
 
-For gain harvesting, remember that the zero-percent capital-gains bracket is not a separate empty bucket floating above the return. Long-term gains stack on top of ordinary taxable income. A conversion, salary, pension, or other gain can consume the same space.
+For gain harvesting, long-term gains stack on top of ordinary taxable income. That full stack determines how much room remains in the zero-percent capital-gains bracket. A conversion, salary, pension, or other gain can consume the same space.
 
 The benefit is a higher basis. If a lot with a large unrealized gain is realized at a low rate and reacquired, a later sale may create a smaller gain. But the current sale can affect state tax, healthcare subsidies, and other income-based thresholds.
 
-Do not harvest simply because the dashboard shows a candidate. Ask what the realized amount does to the entire year's tax picture and whether the new basis is likely to matter for future spending or estate plans.
+Use the dashboard candidate as a starting point. Then calculate what the realized amount does to the entire year's tax picture and whether the new basis matters for future spending or estate plans.
 
 Keep the trade confirmations, lot records, and methodology with the tax file. The Form 8949 export is a handoff, not a substitute for reviewing whether the transaction and identification were reported correctly.
 

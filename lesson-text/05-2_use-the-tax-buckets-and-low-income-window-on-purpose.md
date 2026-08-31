@@ -22,13 +22,13 @@ Later, Social Security, pensions, and required distributions can stack together 
 
 That middle period is the tax-planning window.
 
-A Roth conversion is one way to use it. You move money from a Traditional account into a Roth, recognize ordinary income now, and reduce the amount left to create future required distributions. The decision is not whether conversions are always good. It is whether paying a known rate now is likely to reduce lifetime tax or create useful flexibility later.
+A Roth conversion is one way to use it. You move money from a Traditional account into a Roth, recognize ordinary income now, and reduce the amount left to create future required distributions. Compare the known tax rate now with the expected lifetime tax and flexibility of leaving the money in the Traditional account.
 
 I would not simply "fill the bracket" based on one tax rate line. The true cost can include how the conversion interacts with capital gains, Social Security taxation, Medicare surcharges, health-insurance subsidies before Medicare, the net investment income tax, state tax, and deductions or credits.
 
 Use the app to model a range, then verify the exact current-year amount with a tax professional before execution.
 
-Intentional withdrawals from tax-deferred accounts can also reduce future pressure. A conversion is not the only way to use a low-income year. In some plans, spending from the Traditional account while the rate is low is simpler and still shrinks the future required-distribution problem.
+Intentional withdrawals from tax-deferred accounts can also reduce future pressure. A low-income year can support a Roth conversion or an intentional Traditional withdrawal. Both use lower brackets now and can reduce future required-distribution pressure.
 
 Bitcoin's volatility creates two other tools: loss harvesting and gain harvesting.
 
@@ -36,11 +36,11 @@ When a lot is below basis, realizing the loss may offset gains elsewhere and may
 
 Gain harvesting moves in the opposite direction. In a low-income year, you may intentionally realize a long-term gain, use available zero-percent or lower-rate capital-gains space, and reset the basis higher. Again, all income stacks together, so the correct amount is a calculation rather than a headline threshold copied from an article.
 
-State tax can be a large lever too. A large gain or conversion can produce very different results depending on residency. But changing the state on a tax form is not the same thing as changing domicile. A real move involves where you live, work, vote, hold property, spend time, and intend to remain. A move made around a major sale can receive extra scrutiny.
+State tax can be a large lever too. A large gain or conversion can produce very different results depending on residency. Domicile depends on the full pattern of where you live, work, vote, hold property, spend time, and intend to remain. A state entry on a tax form is only one piece of that record. A move made around a major sale can receive extra scrutiny.
 
 I would treat relocation as a life decision that can have a tax benefit, not a tax trick that happens to require a moving truck.
 
-The goal of this module is not to complete every tax move today. It is to leave with three things:
+Leave this module with three things:
 
 - clean enough basis to trust the model;
 - a view of the low-income years where action may be useful;

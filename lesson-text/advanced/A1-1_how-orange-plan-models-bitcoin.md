@@ -24,6 +24,6 @@ The result is repeatable. The same inputs and saved settings produce the same si
 
 The normal product uses the Orange Plan standard of 800 successful simulations out of 1,000. A custom standard belongs under Advanced model settings. Changing that standard changes which retirement date qualifies; it does not change the market paths or make the plan itself safer.
 
-Historical data cannot reveal the exact future distribution. Use the simulation count to compare decisions, find fragility, and understand the plan's dependence on sequence. Treat it as a model with documented assumptions.
+Use historical data to build a documented range of market paths, then use the simulation count to compare decisions, find fragility, and understand the plan's dependence on sequence. The exact future distribution remains unknown. Treat it as a model with documented assumptions.
 
 The current distributions, volatility schedule, correlations, caps, calibration tests, and through-age definition belong in Help & Methodology. Before recording, verify that the explanation and production engine still match the same app commit.

@@ -29,7 +29,7 @@
 
 **SEE** complete · partial · missing coverage and the list of unresolved holdings.
 
-**SAY** The app does not invent basis. Missing is a work item, not zero and not a supported estimate.
+**SAY** A missing basis field stays missing and becomes a reconstruction work item. Zero means an actual supported zero basis.
 
 **DO** Open one holding's lot editor from the current source path and show add / edit / delete.
 

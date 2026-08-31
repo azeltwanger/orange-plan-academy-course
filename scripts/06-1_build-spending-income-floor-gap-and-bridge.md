@@ -52,7 +52,7 @@ Count the years and look at the gap in each one. That is the amount the Bridge a
 
 Healthcare can create another large bridge before Medicare.
 
-The core course does not assume one solution. It may be COBRA for a short period, an ACA marketplace plan, a spouse's employer plan, a health-sharing arrangement, or another option. The important thing is pricing the actual path, including premiums and out-of-pocket exposure, and ending or changing the event when Medicare begins.
+The healthcare bridge may use COBRA for a short period, an ACA marketplace plan, a spouse's employer plan, a health-sharing arrangement, or another option. The important thing is pricing the actual path, including premiums and out-of-pocket exposure, and ending or changing the event when Medicare begins.
 
 The tax strategy and healthcare strategy also interact. Income from Roth conversions, Traditional withdrawals, and realized gains can affect marketplace subsidies. Compare conversion tax and healthcare subsidy effects together. The Advanced health-coverage lesson walks through that combined cost.
 

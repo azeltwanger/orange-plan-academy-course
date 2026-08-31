@@ -18,7 +18,7 @@
 
 **ENTER / REVIEW** the people and projected shares used by Orange Plan.
 
-**SAY** This planning screen does not update the legal beneficiary forms at the custodian or insurer. Those forms are checked separately and coordinated with the attorney.
+**SAY** Use this screen to coordinate the plan, then verify the legal beneficiary forms directly with the custodian or insurer and the attorney.
 
 ## 2 · Start the heir letter
 

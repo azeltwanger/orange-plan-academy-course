@@ -6,7 +6,7 @@
 
 ## 7.1 Self-custody, professional custody, and when a split makes sense
 
-*`TEACH` · ~7.8 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~7.6 min · PRE-DICTATION FILMING DRAFT*
 
 Most custody advice starts by asking, "What is the safest setup?"
 
@@ -36,7 +36,7 @@ No seed phrase, private key, passphrase, PIN, password, descriptor contents, or 
 
 > 🎬 **VISUAL — Four methods compared side by side: direct self-custody, collaborative multisig, institutional custody, intentional split. Each gets two rows: what it protects against and what you accept.**
 
-The first decision is not the product. It is which risk you are trying to reduce.
+Start by naming the risk you are trying to reduce.
 
 Direct self-custody protects against provider failure, frozen withdrawals, and loss of direct control. The trade-off is that recovery mistakes, physical security, and family continuity become your responsibility.
 
@@ -54,7 +54,7 @@ The next question is how much direct control matters to you.
 
 For one person, direct control is non-negotiable. They want a meaningful amount that no institution can freeze.
 
-For another person, direct control matters, but it is not absolute. They may want some Bitcoin they control directly and some professionally supported.
+Another person may want both directly controlled Bitcoin and a professionally supported portion.
 
 For another household, support, recourse, and family simplicity matter more than controlling every key personally.
 
@@ -84,7 +84,7 @@ Could one lost seed, one frozen account, one provider failure, one home disaster
 
 If the answer is yes, the setup may be too concentrated.
 
-Notice what this does not say. A large balance can use direct self-custody, collaborative multisig, institutional custody, or an intentional combination. The right architecture depends on the failures the household needs to survive.
+A large balance can use direct self-custody, collaborative multisig, institutional custody, or an intentional combination. The right architecture depends on the failures the household needs to survive.
 
 It says the architecture has to match the actual failure that matters.
 
@@ -130,7 +130,7 @@ The next two lessons handle the operational work: proving a hardware-wallet reco
 ---
 ## 7.2 Set up a hardware wallet and prove the recovery
 
-*`TEACH` · ~4.3 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.2 min · PRE-DICTATION FILMING DRAFT*
 
 The important test for a hardware wallet is not whether you wrote the recovery words down.
 
@@ -165,7 +165,7 @@ And always send a small transaction before moving a life-changing amount.
 
 The backup has to survive the risks that matter in your life. Paper can be damaged by fire, water, fading, or somebody throwing it away. A steel backup may make sense for meaningful long-term holdings. Multiple copies can reduce loss risk, but copies also increase the number of places that have to be secured.
 
-Separate locations protect against one fire or disaster. They can also create a theft or privacy problem if the locations are chosen poorly. Redundancy is not simply making as many copies as possible. It is making sure one event cannot destroy every recovery path.
+Separate locations protect against one fire or disaster. They can also create a theft or privacy problem if the locations are chosen poorly. Redundancy makes sure one event cannot destroy every recovery path. Each additional copy or location should solve a specific failure.
 
 A passphrase changes the recovery process. The seed alone restores a different wallet from the seed plus passphrase. A forgotten or mistyped passphrase can make the intended funds unreachable even when the seed is perfect. That setup needs its own small-value test and its own recovery documentation.
 
@@ -182,7 +182,7 @@ The external demo will show the actual process using a throwaway wallet with no 
 ---
 ## 7.3 Fix the single points of failure and harden the accounts
 
-*`TEACH` · ~6.2 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~6.1 min · PRE-DICTATION FILMING DRAFT*
 
 Most Bitcoin losses are not somebody breaking the cryptography.
 
@@ -250,7 +250,7 @@ Run the test against:
 
 If one event materially damages the plan, that is the failure point to work on.
 
-You do not have to fix everything this week. Rank the top one to three by the damage they could cause, then fix the first one.
+Rank the top one to three weaknesses by the damage they could cause, then fix the first one this week.
 
 The fix may be a second location, a proven backup device, another person who understands the process, a provider-independent recovery path, a second custody method, or a lower maximum exposure to one institution.
 
@@ -270,7 +270,7 @@ Review who the provider recognizes after death or incapacity. A hardened login i
 
 Save the institution's official support path before you need it. Do not use the phone number, login link, or support account supplied in an urgent message.
 
-A few years ago, somebody called my bank pretending to be me and tried to move about ten thousand dollars. They did not get it, but it made the weakness very real. That is when I moved my email and important exchange logins to physical security keys.
+A few years ago, somebody called my bank pretending to be me and tried to move about ten thousand dollars. The bank stopped the transfer, and the attempt made the weakness very real. That is when I moved my email and important exchange logins to physical security keys.
 
 An authenticator app is good. A hardware security key can add phishing resistance because it is bound to the real website instead of giving you a code that can be typed into a convincing fake page.
 
@@ -297,7 +297,7 @@ Before the walkthrough, complete the custody map at a no-secrets level:
 - the biggest remaining failure;
 - and the family recovery path.
 
-Then circle the one failure that could do the most damage. That becomes the next action. The app checklist is not the security itself. It is the honest record of what has and has not actually been done.
+Then circle the one failure that could do the most damage. That becomes the next action. The app checklist is the honest record of which security work has actually been completed and which action comes next.
 
 ---
 ## 7.4 DEMO — Hardware-wallet recovery and exchange hardening
@@ -453,7 +453,7 @@ For every life-changing row, ask:
 
 **CIRCLE** the largest current failure.
 
-**SAY** More hardware is not the goal. Every extra method, provider, or device has to solve the failure we just named.
+**SAY** Add a method, provider, or device only when it solves the failure we just named.
 
 ## 4 · Open Protect
 
@@ -471,7 +471,7 @@ For every life-changing row, ask:
 
 **⚠** A recovery-test item stays open until the recovery was actually proven. Buying a hardware wallet does not complete it.
 
-**⚠** An institutional account is not "secure" merely because it exists. Email security, authentication, withdrawal protections, beneficiary or estate process, and provider concentration still matter.
+**⚠** Review the email security, authentication, withdrawal protections, beneficiary or estate process, and provider concentration for every institutional account.
 
 **SAY** what is not being entered: no seed, passphrase, PIN, key, descriptor contents, password, or storage coordinates.
 

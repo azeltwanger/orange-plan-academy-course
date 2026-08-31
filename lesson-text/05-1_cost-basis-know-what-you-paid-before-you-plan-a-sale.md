@@ -23,11 +23,11 @@ The first job is to collect the records.
 
 Start with every exchange and brokerage you have used, including the old ones. Download the complete transaction history in CSV or spreadsheet form. Look for purchases, sales, fees, transfers, and any rewards or income that may have created basis.
 
-Transfers are where people get confused. Moving Bitcoin from an exchange to a hardware wallet usually does not create a new purchase price. The original lot history still follows the Bitcoin. If the transfer is imported as a new acquisition instead of being linked back to the original lot, the basis can become duplicated or lost.
+Transfers are where people get confused. The original acquisition date and basis follow Bitcoin when it moves between your own accounts. A transfer from an exchange to a hardware wallet generally keeps the same lot history. If the transfer is imported as a new acquisition instead of being linked back to the original lot, the basis can become duplicated or lost.
 
 The same issue appears when Bitcoin moves through several wallets. The blockchain can prove that the coins moved. The tax record still needs the original basis and the reason for the movement.
 
-If the full history does not exist, do not make up a precise number because it makes the report look complete. Gather everything you can document, narrow the missing purchase period as honestly as possible, keep notes on how the reconstruction was performed, and review uncertain treatment with a tax professional.
+When the full history is missing, gather everything you can document, narrow the purchase period as honestly as possible, keep notes on the reconstruction, and review uncertain treatment with a tax professional. Leave unsupported precision out of the record.
 
 The app should flag missing basis rather than silently invent it. A blank or incomplete record is a work item. It is not permission to assume the basis is zero, and it is not proof that any estimate will be accepted without support.
 

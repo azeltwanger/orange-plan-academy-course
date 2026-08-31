@@ -4,7 +4,7 @@
 
 A large Traditional account can look like tax-free growth while it is accumulating. It is really tax deferred. The tax has not disappeared, and future required distributions can remove control over when the income appears.
 
-The required beginning age depends on current law and the owner's birth year, so do not build the strategy around one age from an old article. The planning issue is the same: money may be forced out later, on top of Social Security, pensions, and other income.
+Verify the required beginning age under current law for the owner's birth year. The planning issue is that required distributions may later stack on top of Social Security, pensions, and other income.
 
 For a high-growth asset, the pressure can build quickly. A large Traditional balance means the future tax bill is also compounding.
 
@@ -29,7 +29,7 @@ A conversion can affect:
 
 That means the true marginal cost of the next conversion dollar may be higher than the bracket printed on the tax table.
 
-An RMD itself generally cannot be converted. The required amount must first be distributed under the applicable rules, and any additional eligible amount can be considered separately. After-tax basis inside an IRA also changes the calculation and can trigger pro-rata treatment across the owner's IRAs.
+Distribute the required amount under the applicable rules first. Then consider a conversion of any additional eligible amount separately; the RMD itself generally is not convertible. After-tax basis inside an IRA also changes the calculation and can trigger pro-rata treatment across the owner's IRAs.
 
 Paying the conversion tax from outside cash can preserve more of the Roth amount, but that cash also has an opportunity cost. If paying the tax weakens the Reserve or forces another taxable sale, include that in the comparison.
 

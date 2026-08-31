@@ -63,7 +63,7 @@
 
 **SEE** current versus target.
 
-**SAY** Saving the target does not order a taxable sale. New contributions can move the plan toward it.
+**SAY** Saving the target updates the plan. Use new contributions to move toward it unless a separate one-time shift is intentionally previewed and completed.
 
 🎬 CAPTURE the three-path visual in the edit: Reserve low volatility · Bridge moderate · Legacy high-volatility growth.
 
@@ -75,7 +75,7 @@
 
 **SEE** Education separately when college events or education accounts exist.
 
-**⚠** A bucket estimate is not a global guarantee that one contribution amount solves the entire retirement plan. Read the scope shown in the app.
+**⚠** Read the scope shown in the app. A bucket estimate applies to that funding job and timeframe.
 
 ## 6 · Add the actual contribution destinations
 

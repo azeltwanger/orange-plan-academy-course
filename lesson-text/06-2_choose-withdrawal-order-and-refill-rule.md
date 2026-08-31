@@ -10,7 +10,7 @@ Imagine somebody retires early and spends only from taxable money for several ye
 
 Then the taxable account runs down. Now most of the spending has to come from the Traditional account as ordinary income, and required distributions may be getting closer.
 
-The household did not eliminate the tax. It left lower brackets unused and pushed more income into later years when the rate and other interactions may be worse.
+The household left lower brackets unused and pushed more taxable income into later years, where rates and other interactions may be worse.
 
 The better strategy is often tax-aware rather than strictly sequential.
 

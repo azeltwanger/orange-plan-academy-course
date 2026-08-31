@@ -59,7 +59,7 @@ Now, some of this information can be dense, and it can feel overwhelming if you 
 
 ## A quick disclaimer
 
-And a quick disclaimer: this is not designed to replace your tax advisor, estate planning attorney, or financial advisor. It's not financial advice. This is education as far as how I think about these concepts and how I would go about building a financial plan. It is on you to make your own financial decisions and then act on those, using the information that you've learned and what you feel like is best for your specific situation.
+And a quick disclaimer: this course is education about how I think through building a financial plan. You are responsible for your own financial decisions. Use a tax advisor, estate planning attorney, insurance professional, or financial advisor when your specific facts require licensed or current professional judgment.
 
 Specifically for taxes, insurance, or things like estate planning, these are areas where the details of your situation are going to change what the right answer is for you. These rules and decisions around estate planning can evolve and change as your level of assets goes up and different circumstances in your life might change.
 

@@ -56,7 +56,7 @@ For every life-changing row, ask:
 
 **CIRCLE** the largest current failure.
 
-**SAY** More hardware is not the goal. Every extra method, provider, or device has to solve the failure we just named.
+**SAY** Add a method, provider, or device only when it solves the failure we just named.
 
 ## 4 · Open Protect
 
@@ -74,7 +74,7 @@ For every life-changing row, ask:
 
 **⚠** A recovery-test item stays open until the recovery was actually proven. Buying a hardware wallet does not complete it.
 
-**⚠** An institutional account is not "secure" merely because it exists. Email security, authentication, withdrawal protections, beneficiary or estate process, and provider concentration still matter.
+**⚠** Review the email security, authentication, withdrawal protections, beneficiary or estate process, and provider concentration for every institutional account.
 
 **SAY** what is not being entered: no seed, passphrase, PIN, key, descriptor contents, password, or storage coordinates.
 

@@ -36,7 +36,7 @@ What matters is that the combined portfolio reaches the target and each account 
 
 In Orange Plan, each contribution row can use the account's current mix, a set asset-class mix, or specific holdings. That lets the projection model new contributions without assuming every account buys the same thing.
 
-But saving a specific holding in the plan does not purchase it at the custodian. It tells the projection what you intend the new dollars to buy. You still make the actual trade or payroll election outside the app.
+Saving a specific holding tells the projection what the new dollars are intended to buy. Complete the actual purchase with the custodian. You still make the actual trade or payroll election outside the app.
 
 Before the walkthrough, review every account and answer:
 
