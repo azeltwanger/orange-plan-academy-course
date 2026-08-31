@@ -63,8 +63,55 @@ Before a large Bitcoin move, I would also check price context. Not because price
 By the end of this lesson, you should have a target or a target range you can defend using three things: your understanding of Bitcoin, the dollar loss in a major drawdown, and the support systems around the position.
 
 In the Allocation walkthrough, we'll compare the current mix with that target, run the drawdown against your actual plan, and save the target without assuming you need to make every trade today.
-
 ---
+
+So in this lesson, we're going to set a Bitcoin target the household can actually hold through a major drawdown.
+
+Your target comes from four things: how well you understand Bitcoin, the job it has in the plan, the volatility you have already lived through, and whether the rest of the financial plan can support the position.
+
+Conviction means you understand what you own well enough to keep following the plan when the price falls. A rising price can increase the position quickly, so the target still has to work when the market moves in the other direction.
+
+> 🎬 **VISUAL — Week 3 allocation deck, Bitcoin path: Foundation, Integration, Optimization, Sovereign.**
+
+The four paths describe where you are today. Use the description that matches your current understanding, experience, and support systems.
+
+Foundation is a smaller position while you are still learning. Bitcoin may be a hedge or an experiment, and the current account may be an exchange, brokerage, or ETF.
+
+Integration means Bitcoin has a defined role in the financial plan. You understand why you own it, it may replace some traditional growth exposure, and you are building the custody and tax knowledge around it.
+
+Optimization means Bitcoin is the main growth driver. You have already lived through real volatility, the position is intentional, and the Reserve, debt, taxes, account access, and custody are designed around it.
+
+Sovereign means Bitcoin is the primary long-term money in the plan. That position needs strong cash flow, enough accessible liquidity, a custody process the family can recover, and a retirement plan that can operate through a deep drawdown.
+
+Pick the description that is true today. The target should reflect the plan you can maintain now.
+
+Then translate the drawdown into dollars.
+
+> 🎬 **VISUAL — Week 3 deck page 7: net-worth hit if Bitcoin falls 75%.**
+
+If Bitcoin is 10% of the portfolio and falls 75% while everything else stays flat, the total portfolio falls about 7.5%.
+
+At 25% Bitcoin, the hit is about 19%.
+
+At 50% Bitcoin, the hit is about 37.5%.
+
+At 75% Bitcoin, more than half of the total portfolio value disappears on the statement.
+
+Use those numbers as a stress test. Put your own balance into it and calculate the dollar loss. Then ask what the household would actually do. Would you keep buying, hold, cut spending, add collateral to a loan, or feel pressure to sell?
+
+The household also has to keep operating while the asset is down. Check the Reserve, required debt payments, Bitcoin held with a lender, large purchases coming up, accessible Bridge money, and whether your spouse understands the expected volatility.
+
+The largest responsible position is the one the household can keep through a full drawdown without a forced sale or panic decision.
+
+A concentrated Bitcoin allocation can be intentional. It also gives the rest of the plan more work. The Reserve may need to be larger. Bridge money needs to stay accessible. Debt needs more room. Custody and family recovery need to handle a larger share of the family's wealth.
+
+Separate the target from an immediate trade. New contributions can move the portfolio toward the target over time. A one-time sale or shift has its own tax, timing, and risk decision.
+
+Price context helps identify the emotion around a large move. A sharp run-up usually adds urgency and overconfidence. A sharp drop usually adds fear and may also create a stronger expected entry. Cash flow, Reserve, debt, taxes, custody, and time horizon still decide whether the move fits the plan. The Advanced Library has the full price-context check.
+
+By the end of this lesson, you should have a target or range you can defend with three things: your understanding of Bitcoin, the dollar loss in a major drawdown, and the support systems around the position.
+
+In the Allocation walkthrough, we'll compare the current mix with that target, run the drawdown against the actual plan, and preview how contributions or a one-time shift would move the portfolio before anything is saved.
 
 ## 3.2 Give each dollar a job before choosing the investment
 
@@ -102,7 +149,7 @@ Bridge has a moderate-volatility job: grow while remaining flexible enough to fu
 
 Legacy has a long-term growth job: maximize the compounding runway and accept more volatility because the money has time.
 
-This does not mean every Bridge account needs a conventional stock-and-bond portfolio. A high-conviction Bitcoiner may keep more Bitcoin involved, especially when the need is still more than five years away. It means the portion that is firmly committed has to become less dependent on Bitcoin as the date gets close.
+A high-conviction Bitcoiner may keep more Bitcoin in the Bridge while the need is still more than five years away. Protect the firmly committed portion as the date gets close.
 
 The job comes before the asset label.
 
@@ -110,9 +157,9 @@ Now look at the accounts, because account type and asset type are different thin
 
 A Roth IRA is an account. Bitcoin, an ETF, stocks, bonds, and cash are holdings inside accounts.
 
-A taxable account can be Bridge or Legacy depending on what the money is for. A retirement account is usually Legacy because of the access rules, but an HSA may have a current healthcare job and a long-term investment job at the same time. A savings account is not automatically Reserve unless you have actually designated that cash for the reserve.
+A taxable account can be Bridge or Legacy depending on what the money is for. A retirement account is usually Legacy because of the access rules, but an HSA may have a current healthcare job and a long-term investment job at the same time. A savings account becomes Reserve when you designate that cash for the reserve job.
 
-The goal is not to classify every holding perfectly. It is to make sure the major accounts have jobs and that the investment inside each one is compatible with that job.
+Give the major accounts a job and make the holdings inside each one compatible with that job.
 
 This also explains why target allocation should come after the timeframe decision.
 
@@ -239,7 +286,7 @@ Taxable accounts are flexible. The money can be used before retirement age, whic
 
 Tax-deferred accounts such as a Traditional 401(k) or IRA can reduce taxable income today and let the money grow without current tax. Withdrawals are generally taxed as ordinary income later, and required distributions can reduce your control in retirement. These accounts are usually long-term money rather than near-term Bridge funding.
 
-Roth accounts use money that has already been taxed. Qualified withdrawals can come out tax-free, and the account gives high-growth assets a long runway without future tax on the growth. That makes Roth space valuable, but it does not mean Roth is always the correct contribution choice.
+Roth accounts use money that has already been taxed. Qualified withdrawals can come out tax-free, and the account gives high-growth assets a long runway without future tax on the growth. Roth space is valuable, and the contribution choice still depends on the current bracket, expected future bracket, access needs, and investment menu.
 
 Roth versus Traditional is a decision about when you pay the tax.
 
@@ -251,7 +298,7 @@ A mix is often the answer because it creates options later. The exact split is o
 
 There is also a difference between the target for the entire portfolio and the mix inside one account.
 
-Your overall target may be seventy percent Bitcoin and thirty percent other assets. That does not mean every account has to hold the same seventy-thirty mix. One account may hold the Bitcoin exposure, another may hold cash for the Reserve, and another may hold the assets that are available inside the employer plan.
+Your overall target may be 70% Bitcoin and 30% other assets while the account-level mixes differ. One account may hold the Bitcoin exposure, another may hold Reserve cash, and another may use the assets available inside the employer plan.
 
 What matters is that the combined portfolio reaches the target and each account can perform its job.
 
@@ -404,7 +451,7 @@ In the walkthrough, we'll apply those answers row by row and confirm that the co
 
 ## 11 · Stress-test the target
 
-**DO** Scenarios → use the Bear Market preset or a custom Bitcoin drawdown.
+**DO** Plan → Scenarios → use the Bear Market preset or a custom Bitcoin drawdown.
 
 **READ** the dollar loss, retirement-date change, and any Bridge or Reserve pressure.
 
@@ -425,7 +472,7 @@ Record on screen or paper:
 
 ## 13 · Close Allocation
 
-**DO** Build Your Plan → **Allocation**.
+**DO** Build & improve → **Allocation**.
 
 **SEE** account timeframes and target mix complete; allocation review recorded.
 
@@ -451,3 +498,19 @@ Record on screen or paper:
 - [ ] Each contribution row says what the money buys.
 - [ ] External payroll, transfer, and purchase changes are listed.
 - [ ] The extra-debt claim is clearly provisional until Module 4.
+
+<!-- ADVANCED-GATE:START -->
+
+## Related advanced lessons
+
+**Your core plan is complete.** These are optional, and each one is
+worth watching only when its condition is true for you. Continue only if
+one of these describes your situation:
+
+- **A3.1 Use price context to name the emotion before a large Bitcoin move**
+  → *Ready after the current price-context data shown in the app is verified. This lesson is a decision check, not a market-timing system.*
+
+*Generated by `tools/build-module-gates.py` from the Gate line on each
+advanced lesson. Edit the condition there, not here.*
+
+<!-- ADVANCED-GATE:END -->

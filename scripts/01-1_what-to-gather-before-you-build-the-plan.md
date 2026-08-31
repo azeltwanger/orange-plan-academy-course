@@ -6,7 +6,7 @@ SOURCE: Austin dictation; current course order and current-app handoffs applied 
 
 In today's lesson, we're going to cover the documents and information that you're going to need to gather before you start building your full financial plan.
 
-Onboarding only asked for enough information to give you a starting estimate. It did not add every real account, debt, life event, or tax record. The Build Your Plan guide is going to take you through those pieces in the right order, and each module walkthrough is going to enter the information that belongs to that part of the plan.
+Onboarding asked for enough information to give you a starting estimate. Build & improve takes you through the real accounts, debts, life events, and tax records in the order each module uses them.
 
 This part is extremely important because every decision that we make later is downstream from all of the information that goes into the model. Taking the extra time to be accurate up front is going to save you from making misguided decisions based off of guesswork or data that isn't up to date.
 
@@ -40,7 +40,7 @@ I would recommend pulling up all of the exchange accounts and brokerage accounts
 
 == WHEN EACH PART GETS ENTERED ==
 
-Gathering everything now does not mean entering everything in this module.
+We will enter each item in the module that owns it.
 
 Foundation enters your personal details, real accounts, and current holdings.
 
@@ -54,8 +54,8 @@ Tax imports historical transactions and reconstructs cost basis.
 
 Retirement Income enters retirement spending, Social Security, and the withdrawal strategy.
 
-Run Your Plan performs the first full 1,000-run confidence check after the plan is built.
+Module 9 confirms and saves the completed current simulation result after the core plan is built.
 
 If you'd rather gather this information as you go through each step, that's totally fine. I just think it's easier to get everything in one place first so you're not tracking it down in the middle of every walkthrough.
 
-You do not need to enter any of this yet. Put the statements, exports, employer information, and rough future-event list in one place. In the Foundation walkthrough, we'll use the personal details, account list, and current holdings first. The rest stays in the folder until the module that teaches the decision and owns the data.
+For now, put the statements, exports, employer information, and rough future-event list in one place. In the Foundation walkthrough, we'll use the personal details, account list, and current holdings first. The rest stays in the folder until the module that teaches the decision and owns the data.

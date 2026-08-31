@@ -28,7 +28,7 @@ The trade-off is provider involvement, fees, identity checks, jurisdiction, priv
 
 DIY multisig removes the provider but leaves every task with the household: device diversity, key generation, backups, descriptor storage, software compatibility, transaction signing, inheritance, and periodic testing.
 
-Device diversity can reduce one-vendor risk. It can also make the process harder to maintain. Three different devices are not automatically safer if nobody can remember which software, cable, firmware, or signing order works ten years later.
+Device diversity can reduce one-vendor risk. It can also make the process harder to maintain. Device diversity helps only when the family can maintain the software, firmware, cables, and signing process over time.
 
 Institutional custody is a different trade-off, not a beginner version of self-custody.
 
@@ -38,7 +38,7 @@ The trade-off is counterparty risk, bankruptcy or operational risk, identity ver
 
 An intentional split is an architecture rather than another custody product.
 
-The household may keep a directly controlled sovereign reserve, use collaborative multisig for a family-accessible pool, and hold retirement-account exposure through a professional custodian. The point is not equal thirds or maximum fragmentation. Each pool needs a job and each additional method needs to remove a named failure.
+The household may keep a directly controlled sovereign reserve, use collaborative multisig for a family-accessible pool, and hold retirement-account exposure through a professional custodian. Give each pool a job and use each additional method to remove a named failure.
 
 The split becomes useful when one method, provider, device family, or person would otherwise threaten too much of the plan.
 
@@ -60,7 +60,7 @@ Use rough scale instead of putting exact balances into a custody worksheet: repl
 
 A single method can be appropriate for a replaceable or noncritical amount when recovery is proven and simplicity is valuable.
 
-A life-changing amount deserves a harder One-Failure Test. That does not automatically mean multisig. It means the household should be able to explain why no single failure can destroy too much of the plan.
+A life-changing amount deserves a harder One-Failure Test. The household should be able to explain why no single failure can destroy too much of the plan before choosing direct custody, multisig, institutional custody, or a split.
 
 Do not move a life-changing stack directly into a new advanced setup.
 
@@ -76,13 +76,13 @@ The safest architecture is not the one with the most hardware or the strongest i
 
 > **Gate.** Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.
 
-Self-custody removes a financial institution from the spending decision. It does not remove trust or responsibility. It moves more of both onto you.
+Self-custody removes a financial institution from the spending decision. Self-custody moves more trust and responsibility onto you.
 
 You still rely on the device manufacturer, firmware, wallet software, random-number generation, the computer or phone used to coordinate a transaction, and your own ability to verify what is happening.
 
 Your job is to generate keys safely, verify addresses on the trusted device, protect recovery material, maintain devices and software, understand fees, avoid scams, and leave a recovery process somebody else can use.
 
-That does not mean everybody should leave Bitcoin with an institution. It means moving into self-custody should follow skill and a real need for direct control rather than identity or pressure from somebody online.
+Move into self-custody when the skill and need for direct control justify owning the operational risk. Identity and online pressure are poor reasons to take that responsibility.
 
 Start with a trivial amount.
 
@@ -163,7 +163,7 @@ A useful second question is:
 
 > If this entire pool became inaccessible, would the financial plan still survive?
 
-The answer does not have to be that every pool is perfectly replaceable. The goal is to know which loss would be catastrophic and whether that exposure is intentional.
+Identify which loss would be catastrophic and decide whether that exposure is intentional.
 
 Separate custody pools can make sense when they have separate jobs or when one failure would otherwise threaten too much of the plan.
 
@@ -173,7 +173,7 @@ The opposite can also be true. A household that values simplicity and has a well
 
 Diversification has a cost: more devices, more providers, more interfaces, more recovery documents, and more ways for the family to get confused.
 
-The goal is not maximum fragmentation.
+Use the fewest independent systems that remove the catastrophic failures.
 
 Every additional method has to solve a named risk. Set a maximum exposure to one provider or failure domain only when the household can explain what that limit protects against.
 
@@ -209,7 +209,7 @@ Coin control lets an experienced user choose which UTXOs are spent. It can help 
 
 Address reuse reduces privacy because multiple receipts become easy to associate. A modern wallet normally generates a new receive address from the same wallet for each payment. Verify the address on the trusted signing device before sharing it.
 
-Keep tax lots and UTXOs conceptually separate. One is an on-chain spendable output; the other is a tax-accounting record. A transaction can combine UTXOs from several tax lots, and moving Bitcoin does not automatically establish which tax lot was sold.
+Keep tax lots and UTXOs conceptually separate. One is an on-chain spendable output; the other is a tax-accounting record. A transaction can combine UTXOs from several tax lots. The tax records still need to identify which lot was disposed of.
 
 Review UTXO health at the annual custody check: too many tiny outputs, any consolidation worth planning, current fees, privacy implications, and whether the wallet and backup still reconstruct the same addresses.
 

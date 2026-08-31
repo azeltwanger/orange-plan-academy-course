@@ -28,13 +28,13 @@ That can include existing 529 money, new 529 contributions, Bitcoin or other tax
 
 🎬 VISUAL — Build the college funding stack from the bottom up: parent commitment, then sources. Do not show sticker price as the automatic parent target.
 
-A lot of conventional college planning starts with the 529. I do not think that should be automatic for a Bitcoiner.
+For a Bitcoiner, start with the family commitment and funding sources, then decide whether a 529 improves that plan.
 
 A 529 can give you tax advantages when the money is used for qualified education expenses. It also limits the investment menu, has rules around how the money is used, and may not give you the Bitcoin exposure you actually want.
 
 Bitcoin gives you more flexibility and, in my view, a stronger long-term growth asset. It also brings volatility, no education-specific tax shelter, and the risk that the price is down when tuition is due.
 
-For my own planning, if college is still more than five years away, I am comfortable using Bitcoin as a meaningful part of the savings plan instead of assuming every dollar has to go into a 529. That does not mean I would wait until freshman year and hope the price cooperates.
+For my own planning, if college is still more than five years away, I am comfortable using Bitcoin as a meaningful part of the savings plan. As the date gets closer, I would protect the first committed tuition payments so the family is not depending on the market at enrollment.
 
 As the date gets closer, I would revisit the commitment, the likely school cost, the aid picture, and the amount already available. Then I would start protecting the portion I have firmly promised.
 

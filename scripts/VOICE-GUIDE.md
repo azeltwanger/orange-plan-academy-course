@@ -449,3 +449,25 @@ of his own dictation.
 **The metrics that do discriminate are `chaining`, `article` and `Here's`.**
 Course-wide those run 5–24%, 12–35%, and 0.0–0.6 respectively. A script outside
 those bands is worth reading; one inside them is in register.
+
+## Direct affirmative rule — V1 filming pass
+
+Austin's preferred edit is to say the useful fact immediately. Delete the
+setup sentence when a paragraph uses this shape:
+
+- “This is not A. It is B.”
+- “The goal is not A. The goal is B.”
+- “Not because A, but because B.”
+- “A does not automatically mean B. C is the real answer.”
+
+Direct version:
+
+- “The four paths describe where you are today.”
+- “Bare-bones spending is the minimum the household can run on.”
+- “Give the major accounts a job and match the holdings to that job.”
+
+Keep a negative statement when the exclusion itself prevents a materially
+unsafe or incorrect decision: no secrets in an AI tool, CrowdHealth is not
+insurance, a simulation count is not a personal probability of ruin, and
+Orange Plan does not execute a trade or loan. State the boundary once, then
+move directly to the useful action.

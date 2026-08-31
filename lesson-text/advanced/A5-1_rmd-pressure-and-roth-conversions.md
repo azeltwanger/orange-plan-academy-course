@@ -12,7 +12,7 @@ The opportunity often appears after work ends and before the larger income sourc
 
 In those years, ordinary taxable income may be low. A Roth conversion deliberately recognizes income by moving money from a Traditional account to a Roth. The tax is paid now, the Traditional balance is reduced, and future qualified Roth withdrawals can be tax-free.
 
-The goal is not automatically to convert as much as possible. It is to compare the rate paid now with the expected lifetime cost of leaving the money in the Traditional account.
+Compare the rate paid now with the expected lifetime cost of leaving the money in the Traditional account, then choose the conversion range that uses the window well.
 
 Start with the ordinary-income brackets, but do not stop there.
 

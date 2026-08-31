@@ -14,7 +14,7 @@ For retirement, I use 18 months as a planning default, because the first few yea
 
 == THE FORMULA ==
 
-The formula that I'm using for sizing your emergency fund is: you're going to take your bare-bones essential spending, and then you're going to multiply that by whatever your target amount of months is for your reserve. By bare bones, this is not going to be what you normally spend in any given month. This is going to be the absolute minimum amount that you can spend and still get by.
+The formula that I'm using for sizing your emergency fund is: you're going to take your bare-bones essential spending, and then you're going to multiply that by whatever your target amount of months is for your reserve. Bare-bones spending is the absolute minimum amount you can spend in a month and still get by.
 
 The reason why we use this is that, for the floor, or your bare-bones spending, in a real emergency, this is the amount that you could cut back and still get by. If we were to size your emergency fund based off normal spending, you're oversizing your emergency fund and losing money to inflation. A smaller amount of cash is going to buy you more time in a worst-case scenario.
 
@@ -54,6 +54,6 @@ After this period, if you're not comfortable holding a large amount of cash, I t
 
 Before you pick and decide what your cash reserve is going to be, I think it's important to go through a scenario or situation. If Bitcoin were to drop 50% tomorrow, we go into a bear market, and your income got cut off for 6 months and it took you a while to find a new job: would you rather hold more cash now and be able to safely spend it through that period? Or would you be okay with taking the risk to sell some Bitcoin during that time, knowing that the price is down 50%, and just cut your spending more aggressively to your bare-bones spending?
 
-I don't think there's a wrong answer here. A lot of this, like I said, comes down to your risk tolerance. I think having at least 3 months of a reserve while you're working, and then 12 months once you go into retirement, can protect you against selling assets at the wrong time and reduce sequence-of-returns risk in retirement.
+Your risk tolerance sets the final number. I think having at least 3 months of a reserve while you're working, and then 12 months once you go into retirement, can protect you against selling assets at the wrong time and reduce sequence-of-returns risk in retirement.
 
 Before the walkthrough, choose the number of months that fits your income stability, dependents, fixed costs, and comfort with selling during a drawdown. In the walkthrough, I'll show you where to enter the bare-bones monthly amount, select the Reserve basis and months, and choose the monthly build cap. Orange Plan calculates the target from those inputs and shows the gap; you do not type the target multiplication manually.

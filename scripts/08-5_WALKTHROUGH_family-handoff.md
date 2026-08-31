@@ -2,6 +2,8 @@
 
 **Screen capture · about 12 minutes**
 
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
+
 ## Before recording
 
 - Primary executor and backup chosen; willingness confirmed when possible.
@@ -88,7 +90,7 @@ Using a no-secrets table, state:
 
 ## 8 · Close Protect
 
-**DO** Build Your Plan → Protect.
+**DO** Build & improve → Protect.
 
 **SEE** beneficiaries · heir letter · downloaded copy complete; outside legal, custody, and insurance actions remain visible in the production checklist.
 

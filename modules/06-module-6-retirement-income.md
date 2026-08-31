@@ -12,7 +12,7 @@ In today's lesson, we're going to define the three numbers that the retirement p
 
 Start with the spending number.
 
-This is not only the average of what you spend today. Retirement spending needs to include the life you actually expect to live in the early years, healthcare, and the irregular expenses that do not show up every month.
+Retirement spending includes the life you expect in the early years, healthcare, and irregular expenses along with the normal annual spending.
 
 I would separate the spending into a core amount and flexible spending.
 
@@ -28,7 +28,7 @@ Next, build the income floor.
 
 The income floor is the money expected to arrive before the portfolio has to provide anything. Social Security, a pension, recurring retirement income, and part-time work can all contribute.
 
-I would be careful with income that is not truly durable. A dividend is not guaranteed in the same way as Social Security or a pension. Rental income can be reliable but still has vacancies and repairs. The floor should be something you can defend.
+Use durable income for the floor. Social Security and pensions have different reliability than dividends or rental income, which can change with distributions, vacancies, and repairs.
 
 Now subtract the floor from spending.
 
@@ -58,7 +58,7 @@ Healthcare can create another large bridge before Medicare.
 
 The core course does not assume one solution. It may be COBRA for a short period, an ACA marketplace plan, a spouse's employer plan, a health-sharing arrangement, or another option. The important thing is pricing the actual path, including premiums and out-of-pocket exposure, and ending or changing the event when Medicare begins.
 
-The tax strategy and healthcare strategy also interact. Income from Roth conversions, Traditional withdrawals, and realized gains can affect marketplace subsidies. The lowest-tax conversion is not automatically the lowest total cost after healthcare. That comparison is covered in more detail in the Advanced health-insurance lesson.
+The tax strategy and healthcare strategy also interact. Income from Roth conversions, Traditional withdrawals, and realized gains can affect marketplace subsidies. Compare conversion tax and healthcare subsidy effects together. The Advanced health-coverage lesson walks through that combined cost.
 
 Social Security timing belongs inside the Bridge decision too.
 
@@ -129,7 +129,7 @@ Bitcoin adds a second decision: sell, borrow, or hold.
 
 Selling is the cleanest. There is no lender, interest cost, margin call, or repayment problem. The tax depends on basis and the year of the sale.
 
-Borrowing can provide liquidity without an immediate sale, but it adds interest, counterparty risk, LTV risk, and the possibility of a forced liquidation. Loan proceeds are generally not income when the loan is created, but a later liquidation, forgiveness, or other event can have tax consequences. Borrowing works best when it is planned from strength, not used because the household is trapped.
+Borrowing can provide liquidity while adding interest, counterparty risk, LTV risk, and forced-liquidation risk. Loan proceeds are generally outside income at origination; liquidation, forgiveness, or restructuring can create tax consequences. Plan the purpose, repayment source, and drawdown response while the household has room.
 
 Holding keeps the long-term position untouched. That can be a valid core strategy when the Reserve, Bridge, other assets, or income can fund life without relying on a sale. It is not a complete strategy if the only answer to every cash need is a new loan.
 
@@ -141,7 +141,7 @@ In the walkthrough, we'll compare the withdrawal settings, read the year-by-year
 
 ---
 
-## 6.3 Use plan confidence and guardrails to adjust spending
+## 6.3 Read the simulation result and use spending guardrails
 
 *`TEACH` · ~4.4 min · PRE-DICTATION FILMING DRAFT*
 
@@ -149,7 +149,7 @@ This lesson is where we move from one projected path to a range of different fut
 
 In Foundation, the onboarding retirement age came from one deterministic projection. It used the selected assumptions and found the earliest age where that single version of the plan lasted.
 
-The full confidence check is different.
+The full simulation test is different.
 
 Orange Plan runs the completed plan through 1,000 market paths. In every path, the plan still includes the income, taxes, debts, life events, contributions, retirement spending, withdrawal order, and other decisions you entered. The market sequence changes from one path to the next.
 
@@ -159,9 +159,9 @@ That does not mean there is an eighteen-percent chance you go broke.
 
 It means 180 of the modeled paths did not fully fund the exact plan as written without an adjustment. A real household would not usually keep spending the same amount for decades while the plan is clearly moving off track. That is what the guardrails are designed to solve.
 
-The confidence number is a stress test of the assumptions and the strategy. It is not a forecast of your life.
+The simulation count is a stress test of the assumptions and the strategy. It is not a forecast of your life.
 
-> **Visual:** 1,000 plan paths fading into a confidence ring. Label the deterministic onboarding line separately.
+> **Visual:** 1,000 plan paths fading into a simulation result. Label the deterministic onboarding line separately.
 
 The app also uses the same set of modeled paths when you compare strategies, so the comparison is fair. If the inputs and strategy do not change, the result is designed to be repeatable rather than jumping randomly every time you click the button.
 
@@ -173,7 +173,7 @@ There is no universal number that removes all uncertainty. The default target is
 
 And one hundred percent is not automatically the goal. A plan can become overly conservative by requiring so much margin that the household works longer or spends less than it needed to.
 
-The annual guardrails turn the confidence result into an operating rule.
+The annual guardrails turn the simulation result into an operating rule.
 
 The current default policy centers on an eighty-percent target.
 
@@ -197,9 +197,56 @@ The guardrails decide whether next year's spending should be lowered, held, or r
 
 The annual review also connects this result to the Reserve. If the plan is weak and spending is being reduced, you may pause a discretionary refill instead of selling assets into weakness. If the plan is healthy, refill the Reserve toward the target. If the Reserve is near its hard floor, the cash need has to be addressed even when markets are poor.
 
-Module 9 runs the first full confidence check after every Build Your Plan area is complete. This module teaches the rule and shows where the operating controls live without treating an unfinished plan as the final baseline.
-
+Module 9 runs the first full simulation test after every Build & improve area is complete. This module teaches the rule and shows where the operating controls live without treating an unfinished plan as the final baseline.
 ---
+
+So in this lesson, we're going to read the 1,000-simulation result and use the spending guardrails that turn it into an annual operating rule.
+
+Orange Plan runs the completed plan through 1,000 market paths. Every path still includes the income, taxes, debts, life events, contributions, retirement spending, withdrawal order, and other decisions in the saved plan. The market sequence changes from one path to the next.
+
+If the result is 790 of 1,000, the money lasted through the planning age in 790 modeled paths. In the other 210, the exact plan as written did not last through that age.
+
+The simulation count measures the saved plan under the selected assumptions. It is a stress test for comparing decisions, rather than a personal probability of ruin.
+
+> 🎬 **VISUAL — 1,000 plan paths ending in a large “790 of 1,000” count, with the through-age shown underneath.**
+
+The normal Orange Plan standard is 800 successful simulations out of 1,000. Orange Plan uses that fixed standard to calculate the earliest modeled retirement date. Normal users see one clear standard instead of another percentage control to manage.
+
+The planned retirement date remains separate. That is the date the household currently intends to use. The earliest modeled date is the first date that reaches the Orange Plan standard.
+
+Read the freshness state beside the result too. Preliminary means important facts remain. Current means the facts and calculation are up to date. Stale means a modeled fact changed after the last calculation. Unavailable means the calculation or required source data failed.
+
+The goal is a plan the household actually wants that reaches the Orange Plan standard. Pushing the count toward 1,000 can require working longer or spending less than the household values.
+
+Current versus Preview shows what a proposed decision changes. A later retirement date, lower spending, higher savings, a different allocation, a tax strategy, debt payoff, or borrowing strategy should show the exact count before and after, along with the other outcomes that materially moved.
+
+Save a change only after the comparison makes sense. The saved plan remains Current until the preview is intentionally accepted.
+
+The spending guardrails handle the annual operating decision after retirement.
+
+> 🎬 **VISUAL — Lower guardrail · Current portfolio · Upper guardrail on one horizontal line, followed by the annual review action.**
+
+Orange Plan shows three portfolio values for the current year:
+
+- the lower guardrail;
+- the current retirement-portfolio value;
+- the upper guardrail.
+
+When the current portfolio is between the two guardrails, the spending plan stays in place and the normal inflation policy applies.
+
+Falling below the lower guardrail opens a spending review. The review calculates a lower spending amount that moves the plan back toward the policy's risk standard.
+
+Rising above the upper guardrail opens the same review in the other direction. The household can preview a higher spending amount instead of under-spending indefinitely.
+
+Each guardrail level is year-specific. It uses the same remaining cash flows, taxes, income, debts, assumptions, and planning age as the saved plan. The annual spending adjustment remains capped at 10%, so a large change can take more than one annual review.
+
+The core screen should answer one question in plain language: are you within the guardrails, below the lower guardrail, or above the upper guardrail? The Advanced methodology can explain the internal probability boundaries and inverse calculation behind those portfolio levels.
+
+The annual review also checks the Reserve. A weak market and a lower spending review may call for pausing a discretionary refill instead of selling assets into weakness. A healthy plan can refill toward the target. A Reserve near its hard floor still needs attention because the household has bills regardless of the market.
+
+By the end of this lesson, you should be able to explain four things: how many of 1,000 simulations worked, the planning age used, whether the result is current, and whether the portfolio is inside its spending guardrails.
+
+In the Retirement Income walkthrough, we'll read the current result, compare one strategy in Preview, save the withdrawal decision, and show where the portfolio guardrails and annual spending review live. Module 9 confirms the completed current baseline after every area is finished.
 
 ## 6.4 WALKTHROUGH — Build the retirement paycheck
 
@@ -260,7 +307,7 @@ Module 9 runs the first full confidence check after every Build Your Plan area i
 
 ## 5 · Compare Social Security timing when it matters
 
-**DO** Scenarios → claim at an earlier age versus a later age using current presets or a custom scenario.
+**DO** Plan → Scenarios → claim at an earlier age versus a later age using current presets or a custom scenario.
 
 **READ** benefit size · Bridge withdrawals · taxes · Bitcoin / portfolio remaining.
 
@@ -310,13 +357,13 @@ Module 9 runs the first full confidence check after every Build Your Plan area i
 
 **POINT OUT** the confidence target choices and annual guardrail area.
 
-**SAY** Lesson 6.3 explained how this works. We are deliberately waiting to run and save the first full confidence result until Module 9, after every Build Your Plan area is complete.
+**SAY** Lesson 6.3 explained how this works. We are deliberately waiting to run and save the first full simulation result until Module 9, after every Build & improve area is complete.
 
 **⚠** Do not seed a placeholder result or read a percentage as final during this walkthrough.
 
 ## 10 · Close Retirement income
 
-**DO** Build Your Plan → **Retirement income**.
+**DO** Build & improve → **Retirement income**.
 
 **SEE** retirement age and spending · Social Security · withdrawal strategy complete.
 
@@ -331,12 +378,144 @@ Module 9 runs the first full confidence check after every Build Your Plan area i
 - The first full confidence run is explicitly deferred to Module 9.
 ---
 
-## Module checkpoint
+**Screen capture · about 18 minutes**
 
-- [ ] Retirement spending, healthcare, and irregular costs are honest.
-- [ ] The income floor and portfolio-funded gap can be stated from memory.
-- [ ] Bridge years and accessible funding are verified.
-- [ ] Social Security timing was compared when material.
-- [ ] A withdrawal strategy is applied and understood.
-- [ ] Sell, borrow, or hold remains a preview unless intentionally applied.
-- [ ] The first full confidence run is deferred until Module 9.
+> **V1 capture gate:** Verify final Retirement Income, Bitcoin Borrowing, guardrail, and Save-to-plan labels against the same Preview commit used for recording.
+
+## Before recording
+
+- Retirement spending decision from Lesson 6.1.
+- Current Social Security estimates and start ages.
+- Pension or other durable-income details.
+- Healthcare bridge estimate when retirement begins before Medicare.
+- Account timeframes and contribution plan from Module 3.
+- Tax-window work from Module 5.
+
+## 1 · Confirm retirement spending
+
+**DO** Plan → Build & improve → Retirement income.
+
+**ENTER / VERIFY** planned retirement date · baseline annual spending · healthcare · irregular costs.
+
+**SAY** Required debt payments remain modeled separately from living spending.
+
+**DO** Add large irregular costs as life events.
+
+## 2 · Add the healthcare bridge when needed
+
+**DO** Build & improve → Life events → Expense change.
+
+**ENTER** start at retirement · current annual premium or retained cost · duration until Medicare or the chosen transition date.
+
+**⚠** Use current quotes.
+
+## 3 · Build the income floor
+
+**DO** Retirement income → Social Security, pensions, and other durable income.
+
+**ENTER** each amount in the unit the field requests.
+
+**SEE** the income floor and year-by-year funding update.
+
+## 4 · Read the gap and Bridge years
+
+**DO** Open early retirement years in the year-by-year view.
+
+**SEE** spending need · durable income · portfolio-funded gap.
+
+**COUNT** the years before retirement-account access, Social Security, pension, or other income begins.
+
+**COMPARE** the gap with accounts assigned to Bridge.
+
+**SAY** The Bridge has to exist in money the household can actually access.
+
+## 5 · Compare Social Security timing when material
+
+**DO** Plan → Scenarios → compare an earlier and later claiming age.
+
+**READ** benefit size · Bridge withdrawals · taxes · Bitcoin or portfolio remaining.
+
+**SAY** Waiting produces a larger check and uses more portfolio money during the Bridge. Compare both sides on the same plan.
+
+## 6 · Preview the withdrawal strategy
+
+**DO** Retirement income → Withdrawal order / income strategy.
+
+**SHOW** account order and what is sold inside accounts as separate choices.
+
+**COMPARE** Current with a tax-aware, sequential, proportional, or custom Preview supported by the build.
+
+**SEE** simulation count · retirement dates · lifetime taxes · Bitcoin remaining · after-tax result.
+
+**DO** **Save to plan** only after the comparison is understood.
+
+**SAY** Current remains the saved strategy. Preview shows the proposed change until it is saved.
+
+## 7 · Read the Reserve / Bridge / Legacy draw-and-refill system
+
+**SEE** the Reserve, account timeframes, and annual refill status.
+
+**SAY** Spending comes from the Reserve. Bridge refills it. Legacy refills Bridge when the plan and market conditions support the move.
+
+**⚠** The annual rule supports the decision; it does not predict a good sale day.
+
+## 8 · Preview sell, borrow, or hold
+
+**DO** Plan → Build & improve → Bitcoin borrowing.
+
+**COMPARE** sell-only, bracket-aware, borrow-first, or custom strategies supported by the current build.
+
+**SEE** interest · debt · LTV · runway · Bitcoin at lender versus custody · taxes · simulation result · projected estate.
+
+**DO** **Save borrowing strategy to plan** only when the decision belongs in Current.
+
+**SAY** Orange Plan models the strategy. The actual sale, loan, collateral move, or repayment happens with the provider and gets recorded after completion.
+
+## 9 · Read the simulation result and spending guardrails
+
+**DO** Return to Retirement income / annual spending review.
+
+**SEE** simulations worked out of 1,000 · through-age · freshness state.
+
+**SEE** lower guardrail · current retirement portfolio · upper guardrail · status.
+
+**SAY** The Orange Plan standard is 800 of 1,000. The guardrail summary says whether an annual spending review is needed.
+
+**IF REVIEW NEEDED** Open the separate review, read Current versus Preview spending and the simulation result, then stop before saving unless the demo state is meant to show an actual annual decision.
+
+**SEE** the 10% annual adjustment cap and Reserve refill status where the final V1 build displays them.
+
+## 10 · Close Retirement income
+
+**DO** Plan → Build & improve → Retirement income.
+
+**SEE** planned date and spending · income floor · Bridge · Social Security · withdrawal strategy · simulation result · guardrail status complete.
+
+## Module 6 checkpoint
+
+- Retirement spending, healthcare, and irregular costs are honest.
+- The income floor and gap can be stated from memory.
+- Bridge years and accessible funding are verified.
+- Social Security timing was compared when material.
+- A withdrawal strategy was previewed and intentionally saved.
+- Sell, borrow, or hold remains Preview until intentionally saved.
+- The simulation result is read as a count with a truthful freshness state.
+- The portfolio guardrail status is understood.
+
+<!-- ADVANCED-GATE:START -->
+
+## Related advanced lessons
+
+**Your core plan is complete.** These are optional, and each one is
+worth watching only when its condition is true for you. Continue only if
+one of these describes your situation:
+
+- **A6.1 Health coverage between retirement and Medicare**
+  → *Verify all premiums, subsidy rules, membership terms, and HSA eligibility immediately before recording. CrowdHealth is personal experience and not insurance or a recommendation.*
+- **A6.2 Sell, borrow, or hold when the plan needs a year of spending**
+  → *Research complete. Targeted CPA or EA review before publication; verify lender terms and current basis-at-death law before relying on them.*
+
+*Generated by `tools/build-module-gates.py` from the Gate line on each
+advanced lesson. Edit the condition there, not here.*
+
+<!-- ADVANCED-GATE:END -->

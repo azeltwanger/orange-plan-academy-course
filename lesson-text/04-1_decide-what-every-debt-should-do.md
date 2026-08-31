@@ -10,7 +10,6 @@ Some people can carry a low-rate mortgage for thirty years and never think about
 
 If being debt-free is what lets you sleep, that is a valid answer. The important thing is knowing whether the debt is only annoying or whether it is actually making the plan fragile. Those are different problems.
 
-
 After tolerance, I use two basic lenses.
 
 Debt-to-income looks at the required monthly payments compared with income. This is the cash-flow lens. Can you keep making the payments if the market is bad? Does the debt leave enough room to build the reserve and keep investing? This ratio usually changes slowly because it is driven by payments and income.
@@ -42,7 +41,6 @@ A medium-rate auto or student loan belongs in the comparison zone. The rate may 
 
 And a variable-rate loan deserves more attention than the current rate alone suggests. The payment can change later, so I would model the higher-rate version before deciding it is harmless.
 
-
 There are three decisions people often collapse into one:
 
 1. whether to keep buying Bitcoin from monthly cash flow;
@@ -51,13 +49,13 @@ There are three decisions people often collapse into one:
 
 Those are not the same risk.
 
-You may reasonably keep a low-rate mortgage and continue accumulating Bitcoin. That does not automatically mean taking a new Bitcoin-backed loan to buy more is also reasonable. New leverage needs a much higher standard because it adds a new payment, a lender, and potentially forced-sale risk.
+Keeping existing low-rate debt and adding new leverage are separate decisions. A new Bitcoin-backed loan needs a higher standard because it adds a payment, a lender, and forced-sale risk.
 
 Bitcoin-backed loans also need their own operating rules: a purpose, a maximum starting LTV, margin and top-up thresholds, a repayment source, and a plan for a deep drawdown. That is covered in the Advanced Library and again in the retirement-income workbench. In the core lesson, the rule is simpler: do not let a loan create a forced Bitcoin sale in a normal bear market.
 
 This brings us to the debt ceiling.
 
-I do not mean one universal percentage that everybody copies. I mean the point where you would stop adding debt because either the monthly payments, the drawdown stress, or the amount tied to a lender has become more than your household can comfortably carry.
+Your debt ceiling is the point where monthly payments, drawdown stress, or the amount tied to a lender becomes more than the household can comfortably carry.
 
 The ceiling should be stated before a new borrowing opportunity appears. It is much easier to be conservative when Bitcoin is rising than after the price falls and the ratio has already moved against you.
 
@@ -79,7 +77,7 @@ Use walkthrough 4.2 to enter the decision and confirm what Orange Plan calculate
 
 ## Module checkpoint
 
-- [ ] Every active debt has a current balance, rate, and payment or loan-specific terms.
+- [ ] Every active debt has a current balance, rate, payment, and loan-specific terms.
 - [ ] You understand payment capacity and balance-sheet leverage as separate lenses.
 - [ ] Every debt has a job and a reason.
 - [ ] Any Bitcoin-backed loan has written operating triggers.

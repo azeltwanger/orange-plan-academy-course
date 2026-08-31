@@ -54,7 +54,7 @@ Bitcoin adds a second decision: sell, borrow, or hold.
 
 Selling is the cleanest. There is no lender, interest cost, margin call, or repayment problem. The tax depends on basis and the year of the sale.
 
-Borrowing can provide liquidity without an immediate sale, but it adds interest, counterparty risk, LTV risk, and the possibility of a forced liquidation. Loan proceeds are generally not income when the loan is created, but a later liquidation, forgiveness, or other event can have tax consequences. Borrowing works best when it is planned from strength, not used because the household is trapped.
+Borrowing can provide liquidity while adding interest, counterparty risk, LTV risk, and forced-liquidation risk. Loan proceeds are generally outside income at origination; liquidation, forgiveness, or restructuring can create tax consequences. Plan the purpose, repayment source, and drawdown response while the household has room.
 
 Holding keeps the long-term position untouched. That can be a valid core strategy when the Reserve, Bridge, other assets, or income can fund life without relying on a sale. It is not a complete strategy if the only answer to every cash need is a new loan.
 

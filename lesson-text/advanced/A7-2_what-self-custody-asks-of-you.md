@@ -1,12 +1,14 @@
 # A7.2 · What self-custody actually asks of you
 
-Self-custody removes a financial institution from the spending decision. It does not remove trust or responsibility. It moves more of both onto you.
+**Publication gate:** Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.
+
+Self-custody removes a financial institution from the spending decision. Self-custody moves more trust and responsibility onto you.
 
 You still rely on the device manufacturer, firmware, wallet software, random-number generation, the computer or phone used to coordinate a transaction, and your own ability to verify what is happening.
 
 Your job is to generate keys safely, verify addresses on the trusted device, protect recovery material, maintain devices and software, understand fees, avoid scams, and leave a recovery process somebody else can use.
 
-That does not mean everybody should leave Bitcoin with an institution. It means moving into self-custody should follow skill and a real need for direct control rather than identity or pressure from somebody online.
+Move into self-custody when the skill and need for direct control justify owning the operational risk. Identity and online pressure are poor reasons to take that responsibility.
 
 Start with a trivial amount.
 

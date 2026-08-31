@@ -1,10 +1,6 @@
-# 7.5 · Walkthrough — Document the custody decision and current status without storing secrets
+# 7.4 · DEMO — Hardware-wallet recovery and exchange hardening
 
-Use this walkthrough after making the custody decision in Lesson 7.1 and completing the operational work from Lessons 7.2–7.3.
-
-You will use the no-secrets Custody Decision Map to record the job, rough scale, method, remaining failure, and family path for each meaningful Bitcoin pool. Then Protect records which implementation items are actually complete.
-
-The walkthrough ends with one failure assigned to an owner and deadline, the annual custody review scheduled, and an encrypted backup of the Orange Plan data.
+Follow the walkthrough video and the matching Build & improve area. The implementation is complete when the real data and saved decision exist in Orange Plan.
 
 ## Module checkpoint
 

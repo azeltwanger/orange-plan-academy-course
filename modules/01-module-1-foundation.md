@@ -10,7 +10,7 @@
 
 In today's lesson, we're going to cover the documents and information that you're going to need to gather before you start building your full financial plan.
 
-Onboarding only asked for enough information to give you a starting estimate. It did not add every real account, debt, life event, or tax record. The Build Your Plan guide is going to take you through those pieces in the right order, and each module walkthrough is going to enter the information that belongs to that part of the plan.
+Onboarding asked for enough information to give you a starting estimate. Build & improve takes you through the real accounts, debts, life events, and tax records in the order each module uses them.
 
 This part is extremely important because every decision that we make later is downstream from all of the information that goes into the model. Taking the extra time to be accurate up front is going to save you from making misguided decisions based off of guesswork or data that isn't up to date.
 
@@ -44,7 +44,7 @@ I would recommend pulling up all of the exchange accounts and brokerage accounts
 
 ### When Each Part Gets Entered
 
-Gathering everything now does not mean entering everything in this module.
+We will enter each item in the module that owns it.
 
 Foundation enters your personal details, real accounts, and current holdings.
 
@@ -58,11 +58,11 @@ Tax imports historical transactions and reconstructs cost basis.
 
 Retirement Income enters retirement spending, Social Security, and the withdrawal strategy.
 
-Run Your Plan performs the first full 1,000-run confidence check after the plan is built.
+Module 9 confirms and saves the completed current simulation result after the core plan is built.
 
 If you'd rather gather this information as you go through each step, that's totally fine. I just think it's easier to get everything in one place first so you're not tracking it down in the middle of every walkthrough.
 
-You do not need to enter any of this yet. Put the statements, exports, employer information, and rough future-event list in one place. In the Foundation walkthrough, we'll use the personal details, account list, and current holdings first. The rest stays in the folder until the module that teaches the decision and owns the data.
+For now, put the statements, exports, employer information, and rough future-event list in one place. In the Foundation walkthrough, we'll use the personal details, account list, and current holdings first. The rest stays in the folder until the module that teaches the decision and owns the data.
 
 ---
 
@@ -86,7 +86,7 @@ That becomes the foundation that everything else is compared against.
 
 The second layer is future life events. These are things that you genuinely expect to happen in the future and that you can reasonably predict as a future expense or income change.
 
-They might not be happening now, but you have a high level of confidence that they're going to happen. Some examples are future college payments, how your spending might change in retirement, a new car you're planning to purchase, a house you're planning to purchase or sell, a future change in your job or income, or long-term care expenses later in retirement.
+These are future expenses or income changes you expect with a high level of confidence. Examples include college payments, retirement spending changes, a car or home purchase, a future job or income change, or long-term care expenses later in retirement.
 
 Adding these things to your plan gives the projection a more accurate picture of the amount of money you're going to need and what your realistic retirement date might be.
 
@@ -206,13 +206,13 @@ That is why the next step is not to keep changing the growth model until you get
 
 Foundation is going to replace the rough account values with your real accounts and current holdings. Cash Flow is going to verify your income, spending, usable surplus, reserve, and expected life events. Debt is going to add the real loan terms and the decision attached to each debt. Allocation is going to decide what your new dollars are for, which account they go into, and what they buy. The later modules build the tax strategy and retirement paycheck.
 
-Once the full plan is built, Orange Plan can run it through 1,000 different market paths. That is where the confidence result comes from.
+Once the full plan is built, Orange Plan can run it through 1,000 different market paths. That is where the simulation result comes from.
 
-The onboarding estimate and the confidence check answer different questions.
+The onboarding estimate and the simulation test answer different questions.
 
 The onboarding estimate asks: using this one set of assumptions, what is the earliest age where the projection lasts?
 
-The confidence check asks: when the full plan is run through 1,000 different market paths, how often does it still work as written?
+The simulation test asks: when the full plan is run through 1,000 different market paths, how often does it still work as written?
 
 That second question becomes much more useful after the information underneath it is complete. A precise confidence percentage based on rough onboarding data would look more trustworthy than it really is.
 
@@ -223,8 +223,40 @@ After the plan is built, you will also choose the confidence target the retireme
 The main thing I want you to take away from this lesson is that onboarding gave you a useful place to start. It did not finish the plan for you.
 
 In the Foundation walkthrough below this lesson, I'll show you how to replace the rough account estimates with your real accounts and holdings, verify the personal details behind the plan, and review the assumptions onboarding used. We are not going to enter every part of the financial plan in that walkthrough. Each later module enters the information it owns.
-
 ---
+
+So in this lesson, we're going to cover the retirement age from onboarding, the first simulation result, and how both change as the plan becomes more complete.
+
+Onboarding asks for a small amount of information so you can get a useful starting point quickly. It uses your age, income, spending, rough account values, Bitcoin holdings, and the growth model you selected.
+
+The onboarding age is a deterministic estimate. Orange Plan takes that one set of assumptions, projects it forward at different retirement ages, and finds the earliest age where that version of the plan lasts through the planning age.
+
+That estimate gives you direction before every account, debt, life event, tax record, and retirement-income decision has been entered. Treat it as the first answer from rough information.
+
+The Plan result adds a different question. Orange Plan runs the plan through 1,000 market paths and counts how many of them fund the plan as written through the planning age.
+
+A result of 790 of 1,000 means the money lasted through the planning age in 790 modeled paths. The normal Orange Plan standard is 800 of 1,000. Orange Plan uses that standard to calculate the earliest modeled retirement date for a normal user.
+
+The planned retirement date and the earliest modeled retirement date have different jobs. The planned date is the date you currently intend to use. The earliest modeled date is the first date that reaches the Orange Plan standard under the saved assumptions.
+
+The first result may be preliminary. Orange Plan uses four plain states:
+
+- Preliminary means important facts or accuracy details are still missing.
+- Current means the relevant facts and the calculation are up to date.
+- Stale means a modeled fact changed after the last calculation.
+- Unavailable means the calculation or required source data failed.
+
+Foundation replaces the rough account values with your real accounts and current holdings. Cash Flow verifies income, spending, taxes, debt payments, the Reserve, and expected life events. Allocation decides what the money is for and how new dollars get invested. Debt adds the real loan terms and the job assigned to each debt. Tax adds basis and the planning window. Retirement Income adds the spending, income floor, Bridge, withdrawal order, and guardrail policy. Protect completes the family side of the plan.
+
+Each completed area improves the information underneath the result. The age can move earlier or later as those inputs change. Better information produced a different answer.
+
+The first useful Plan result belongs in Foundation because it gives you something to read while the plan is still being built. Module 9 confirms the completed-plan baseline after the major facts and decisions are current.
+
+The Orange Plan standard stays fixed at 800 of 1,000 for normal users. A power user can change that standard under Advanced model settings, but the core course uses the same standard so the result stays easy to understand and compare.
+
+The main takeaway is simple: onboarding gives you a deterministic starting estimate. The simulation count shows how the fuller plan holds up across 1,000 market paths. Both become more useful as the information underneath them becomes accurate.
+
+In the Foundation walkthrough, I'll show you how to replace the rough account estimates with real accounts and holdings, review the assumptions, run or read the first preliminary Plan result, and see exactly which details could still change it.
 
 ## 1.4 WALKTHROUGH — Replace the onboarding estimate with real Foundation data
 
@@ -240,7 +272,7 @@ In the Foundation walkthrough below this lesson, I'll show you how to replace th
 - Complete the current short onboarding with rough values.
 - Use a demo account with no real accounts or holdings entered yet.
 - Have a real-looking statement list ready: account names, owners, current quantities, and cash balances.
-- Do not have a saved 1,000-path confidence receipt yet.
+- Do not have a saved 1,000-path simulation receipt yet.
 
 ## 1 · Orient the learner
 
@@ -250,11 +282,11 @@ In the Foundation walkthrough below this lesson, I'll show you how to replace th
 
 **SAY** It is the deterministic estimate from Lesson 1.3: rough inputs, one set of assumptions, not the finished confidence-based date.
 
-**DO** Open **Build Your Plan**.
+**DO** Open **Build & improve**.
 
 **SEE** The areas and the Foundation tasks.
 
-**SAY** Build Your Plan is the implementation roadmap. The course order teaches the decisions; each walkthrough returns here to complete the area that owns the data.
+**SAY** Build & improve is the implementation roadmap. The course order teaches the decisions; each walkthrough returns here to complete the area that owns the data.
 
 ## 2 · Verify personal details
 
@@ -332,7 +364,7 @@ In the Foundation walkthrough below this lesson, I'll show you how to replace th
 
 ## 8 · Close Foundation
 
-**DO** Return to **Build Your Plan → Foundation**.
+**DO** Return to **Build & improve → Foundation**.
 
 **SEE** Personal details, accounts, and holdings complete from the real data.
 
@@ -347,14 +379,147 @@ In the Foundation walkthrough below this lesson, I'll show you how to replace th
 - Current holdings match the source statements.
 - The learner knows how to add future activity without duplicating a transfer.
 - The assumptions were reviewed deliberately.
-- Build Your Plan shows Foundation complete.
+- Build & improve shows Foundation complete.
 ---
 
-## Module checkpoint
+**Screen capture · about 20 minutes**
 
-- [ ] Personal details are accurate.
-- [ ] Every real account and custody location is listed.
-- [ ] Current holdings match the source statements.
-- [ ] You know how new activity differs from historical tax reconstruction.
-- [ ] The growth and inflation assumptions were reviewed deliberately.
-- [ ] Build Your Plan shows Foundation complete.
+> **V1 capture gate:** The product route below follows the approved Home / Plan / Cash Flow / Protect architecture. Verify every final label and click path against the same Preview commit used for recording.
+> **DO** = action on screen · **SEE** = point at this result · **⚠** = avoid this mistake
+> Narrate naturally. This sheet is not a teleprompter.
+
+## Before recording
+
+- Complete the short onboarding with rough values.
+- Use a demo account with no real accounts or holdings entered yet.
+- Have a statement list ready: account names, owners, current quantities, and cash balances.
+- Start with the onboarding estimate and no completed current Plan receipt.
+
+## 1 · Orient the learner
+
+**DO** Land on Home after onboarding.
+
+**SEE** The current financial summary and the starting retirement estimate.
+
+**SAY** The onboarding age is the deterministic starting estimate from Lesson 1.3. The Plan result becomes more useful as real facts replace the rough inputs.
+
+**DO** Plan → **Build & improve**.
+
+**SEE** One next task by default and quiet **View all** access.
+
+**SAY** Build & improve is the implementation roadmap. The course teaches the decisions; each walkthrough opens the workspace that owns the data.
+
+## 2 · Verify household details
+
+**DO** Build & improve → Household basics / Plan details.
+
+**CHECK** date of birth or age · state or country · filing status · spouse details where applicable.
+
+**⚠** Fix the source field. Calculated tax and retirement totals update from that source.
+
+## 3 · Add the real accounts
+
+**DO** Home → Accounts → **Add account**.
+
+**ENTER** account type · recognizable name · owner.
+
+**SHOW** at least one cash account, one retirement or brokerage account, and the actual Bitcoin custody location: exchange, hardware wallet, collaborative custody, IRA, or ETF account.
+
+**SAY** The account is the container. Bitcoin, cash, funds, property, and other assets are holdings inside it.
+
+**DO** Point at **Link account** without waiting on a live connection.
+
+**SAY** Linking is optional. Manual entry and supported imports can produce the same honest current position.
+
+## 4 · Add current holdings
+
+**DO** Open an account → Holdings → **Add holding**.
+
+**ENTER** Bitcoin as quantity · stocks or funds as ticker and shares where supported · cash as the current balance · property or other assets with current value.
+
+**SEE** Home and account totals update.
+
+**⚠** Enter basis when it is already known. Module 5 reconstructs missing purchase history.
+
+## 5 · Explain activity, balance, and tax-detail coverage
+
+**DO** Open Account → Activity and Home → Activity.
+
+**SEE** recorded activity, source receipts, coverage or status language, and Needs Attention.
+
+**SAY** Orange Plan keeps three questions separate: what the account owns now, which activity has been recorded, and how much tax history or basis is supported.
+
+**SHOW** one exact purchase or sale receipt when the demo data supports it.
+
+**SHOW** one focused Needs Attention question for an ambiguous withdrawal, deposit, transfer, or correction.
+
+**SAY** Facts Orange Plan can prove are recorded with provenance. Anything it cannot prove waits for one plain answer.
+
+**⚠** An internal transfer preserves total quantity, acquisition date, and basis. Never represent it as a sale followed by a purchase.
+
+**⚠** Keep full historical tax reconstruction for Module 5.
+
+## 6 · Verify the current position
+
+**DO** Expand each account on Home and open the account detail when needed.
+
+**CHECK** owner · account type · quantity · current value · custody location.
+
+**SEE** net worth and Bitcoin share.
+
+**SAY** Fix any wrong total at the row or source that created it.
+
+## 7 · Review the baseline assumptions
+
+**DO** Plan → Build & improve → Advanced → Return assumptions.
+
+**CHECK** Bitcoin model · inflation · planning age · other asset assumptions.
+
+**OPTIONAL** Show custom return windows without building one.
+
+**SAY** Choose assumptions you can defend. Then use Scenarios for a different future instead of repeatedly changing the saved baseline.
+
+## 8 · Run or read the first Plan result
+
+**DO** Plan → Overview → calculate or refresh the result.
+
+**SEE** simulations worked out of 1,000 · through-age · planned retirement date · earliest modeled date · Preliminary / Current / Stale / Unavailable state.
+
+**SAY** The Orange Plan standard is 800 of 1,000. This first result may remain Preliminary while other Build & improve areas are unfinished.
+
+**POINT OUT** the concise provenance: accounts included, recalculation time, and details that could still change the result.
+
+## 9 · Close Foundation
+
+**DO** Return to Plan → Build & improve → Foundation / Get your first plan.
+
+**SEE** household basics, accounts, current holdings, assumptions review, and first result complete from real data.
+
+**SAY** Cash Flow owns income, living spending, taxes, debt payments, the Reserve, and expected life events. The later modules improve allocation, debt, tax, retirement income, and protection.
+
+## Foundation checkpoint
+
+- Household details are accurate.
+- Every real account and custody location is listed.
+- Current holdings match the source statements.
+- Balance, activity, and tax-detail coverage are understood separately.
+- Transfers cannot duplicate quantity or basis.
+- Assumptions were reviewed deliberately.
+- The first Plan result is visible with a truthful freshness state.
+- Build & improve shows Foundation complete.
+
+<!-- ADVANCED-GATE:START -->
+
+## Related advanced lessons
+
+**Your core plan is complete.** These are optional, and each one is
+worth watching only when its condition is true for you. Continue only if
+one of these describes your situation:
+
+- **A1.1 How Orange Plan models Bitcoin inside the simulation test**
+  → *Research complete. Record after the current Help & Methodology copy and production settings are checked against the same app commit used on camera.*
+
+*Generated by `tools/build-module-gates.py` from the Gate line on each
+advanced lesson. Edit the condition there, not here.*
+
+<!-- ADVANCED-GATE:END -->

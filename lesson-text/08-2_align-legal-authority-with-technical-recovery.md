@@ -20,7 +20,6 @@ A two-of-three wallet requires two valid signatures from the defined keys. One k
 
 The wallet descriptor or configuration records how the keys are combined, including the threshold and derivation information. Without the correct configuration, heirs may struggle to reconstruct the intended wallet even if they have key material.
 
-
 A collaborative custody provider may hold one key, a copy of the public wallet configuration, and an established recovery process. The value is not only the third key. It is also the support, identity-verification, continuity, and documented procedure. The trade-off is vendor dependence, fees, privacy considerations, and the need to understand what happens if the company changes or disappears.
 
 A DIY multisig arrangement removes the provider but moves every operational duty to the household. Key distribution, descriptors, device compatibility, replacement, inheritance, and recovery documentation all become your responsibility.
@@ -39,7 +38,7 @@ That is why I like separating roles on paper:
 - What stops one person from acting prematurely?
 - What happens if one person or provider is unavailable?
 
-The system should be tested at the process level while you are alive. You do not need to expose a real seed to the family. You can use a trivial-value test wallet or a documented tabletop exercise to confirm everybody knows the first call, the role they have, and the components that exist.
+The system should be tested at the process level while you are alive. Use a trivial-value test wallet or a documented tabletop exercise to confirm that everybody knows the first call, the role they have, and the components that exist. Keep real recovery secrets out of the exercise.
 
 The plan should also account for change. Hardware wallets fail. Providers merge or close. Executors age. Families move. A custody design that works today can become unusable if it is never reviewed.
 

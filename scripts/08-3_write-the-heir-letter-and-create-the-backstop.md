@@ -6,7 +6,7 @@ SOURCE: Estate deck heir-letter and dead-man-switch flow, updated for the no-sec
 
 The heir letter is the calm starting point your family receives when they are least prepared to solve a technical and financial problem.
 
-It is not the will. It is not the wallet backup. And it is not a list of passwords.
+The heir letter is a no-secrets orientation document for the family. And it is not a list of passwords.
 
 Its job is to answer the first practical questions:
 
@@ -42,7 +42,7 @@ Both need to be available outside the app. A letter that only exists behind your
 
 Then add a communication backstop.
 
-A dead-man switch or another scheduled delivery process can send the no-secrets letter if you fail to check in for a defined period. The purpose is not to release keys. It is to make sure somebody starts the process.
+A dead-man switch or another scheduled delivery process can send the no-secrets letter if you fail to check in for a defined period. The scheduled delivery makes sure somebody starts the documented process. It carries the no-secrets letter and never releases keys.
 
 🎬 VISUAL — Four-step communication flow: check in → missed window → waiting period → heir letter delivered.
 

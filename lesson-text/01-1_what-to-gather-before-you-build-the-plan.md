@@ -2,7 +2,7 @@
 
 In today's lesson, we're going to cover the documents and information that you're going to need to gather before you start building your full financial plan.
 
-Onboarding only asked for enough information to give you a starting estimate. It did not add every real account, debt, life event, or tax record. The Build Your Plan guide is going to take you through those pieces in the right order, and each module walkthrough is going to enter the information that belongs to that part of the plan.
+Onboarding asked for enough information to give you a starting estimate. Build & improve takes you through the real accounts, debts, life events, and tax records in the order each module uses them.
 
 This part is extremely important because every decision that we make later is downstream from all of the information that goes into the model. Taking the extra time to be accurate up front is going to save you from making misguided decisions based off of guesswork or data that isn't up to date.
 
@@ -10,7 +10,7 @@ Every number that comes out of your plan is only as good as what you put into it
 
 Taking 30 minutes to an hour now to gather all of this information can be a valuable exercise in getting organized. I know it can be a little bit of a pain, but it's definitely worth it.
 
-### What To Gather
+## What to gather
 
 1. Your income. You want recent pay stubs so you can verify what's coming in per period and what that adds up to every year. If you own a business, include every stream of income. If there are two earners, include both. This also includes things like rental income and recurring investment income.
 
@@ -34,9 +34,9 @@ I think it's important to upload as much as you reasonably can. Go to your excha
 
 I would recommend pulling up all of the exchange accounts and brokerage accounts that you have used in the past, downloading the files in one session, and saving them in one folder on your computer. We're going to come back to them in the Tax module, where the historical transactions and cost basis actually get entered and reviewed.
 
-### When Each Part Gets Entered
+## When each part gets entered
 
-Gathering everything now does not mean entering everything in this module.
+We will enter each item in the module that owns it.
 
 Foundation enters your personal details, real accounts, and current holdings.
 
@@ -50,11 +50,11 @@ Tax imports historical transactions and reconstructs cost basis.
 
 Retirement Income enters retirement spending, Social Security, and the withdrawal strategy.
 
-Run Your Plan performs the first full 1,000-run confidence check after the plan is built.
+Module 9 confirms and saves the completed current simulation result after the core plan is built.
 
 If you'd rather gather this information as you go through each step, that's totally fine. I just think it's easier to get everything in one place first so you're not tracking it down in the middle of every walkthrough.
 
-You do not need to enter any of this yet. Put the statements, exports, employer information, and rough future-event list in one place. In the Foundation walkthrough, we'll use the personal details, account list, and current holdings first. The rest stays in the folder until the module that teaches the decision and owns the data.
+For now, put the statements, exports, employer information, and rough future-event list in one place. In the Foundation walkthrough, we'll use the personal details, account list, and current holdings first. The rest stays in the folder until the module that teaches the decision and owns the data.
 
 ## Apply it
 
@@ -62,9 +62,11 @@ Use walkthrough 1.4 to enter the decision and confirm what Orange Plan calculate
 
 ## Module checkpoint
 
-- [ ] Personal details are accurate.
+- [ ] Household details are accurate.
 - [ ] Every real account and custody location is listed.
 - [ ] Current holdings match the source statements.
-- [ ] You know how new activity differs from historical tax reconstruction.
+- [ ] Balance, activity, and tax-detail coverage are understood separately.
 - [ ] The growth and inflation assumptions were reviewed deliberately.
-- [ ] Build Your Plan shows Foundation complete.
+- [ ] The simulation result is visible with a truthful freshness state.
+- [ ] Planned and earliest modeled retirement dates are understood separately.
+- [ ] Build & improve shows Foundation complete.

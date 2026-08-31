@@ -2,6 +2,8 @@
 
 **Screen capture · about 15 minutes**
 
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
+
 ## Before recording
 
 - Complete exchange and brokerage exports available.
@@ -73,7 +75,7 @@
 
 ## 7 · Compare the state scenario
 
-**DO** Scenarios → **Move to no-tax state** or the current state-change scenario.
+**DO** Plan → Scenarios → **Move to no-tax state** or the current state-change scenario.
 
 **READ** the change in taxes and the whole-plan result.
 
@@ -101,7 +103,7 @@ Save or list:
 
 ## 10 · Close Tax
 
-**DO** Build Your Plan → **Tax**.
+**DO** Build & improve → **Tax**.
 
 **SEE** the available history reviewed, and conversion / harvesting reviews intentionally completed or passed.
 

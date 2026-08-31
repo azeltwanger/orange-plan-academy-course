@@ -28,7 +28,7 @@ The trade-off is provider involvement, fees, identity checks, jurisdiction, priv
 
 DIY multisig removes the provider but leaves every task with the household: device diversity, key generation, backups, descriptor storage, software compatibility, transaction signing, inheritance, and periodic testing.
 
-Device diversity can reduce one-vendor risk. It can also make the process harder to maintain. Three different devices are not automatically safer if nobody can remember which software, cable, firmware, or signing order works ten years later.
+Device diversity can reduce one-vendor risk. It can also make the process harder to maintain. Device diversity helps only when the family can maintain the software, firmware, cables, and signing process over time.
 
 Institutional custody is a different trade-off, not a beginner version of self-custody.
 
@@ -38,7 +38,7 @@ The trade-off is counterparty risk, bankruptcy or operational risk, identity ver
 
 An intentional split is an architecture rather than another custody product.
 
-The household may keep a directly controlled sovereign reserve, use collaborative multisig for a family-accessible pool, and hold retirement-account exposure through a professional custodian. The point is not equal thirds or maximum fragmentation. Each pool needs a job and each additional method needs to remove a named failure.
+The household may keep a directly controlled sovereign reserve, use collaborative multisig for a family-accessible pool, and hold retirement-account exposure through a professional custodian. Give each pool a job and use each additional method to remove a named failure.
 
 The split becomes useful when one method, provider, device family, or person would otherwise threaten too much of the plan.
 
@@ -60,7 +60,7 @@ Use rough scale instead of putting exact balances into a custody worksheet: repl
 
 A single method can be appropriate for a replaceable or noncritical amount when recovery is proven and simplicity is valuable.
 
-A life-changing amount deserves a harder One-Failure Test. That does not automatically mean multisig. It means the household should be able to explain why no single failure can destroy too much of the plan.
+A life-changing amount deserves a harder One-Failure Test. The household should be able to explain why no single failure can destroy too much of the plan before choosing direct custody, multisig, institutional custody, or a split.
 
 Do not move a life-changing stack directly into a new advanced setup.
 

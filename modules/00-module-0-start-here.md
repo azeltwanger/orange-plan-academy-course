@@ -1,6 +1,6 @@
 # Unit 1 · Module 0 — Start Here
 
-*How the course works, how Orange Plan AI helps, and the line between teaching, walkthroughs, and Build Your Plan.*
+*How the course works, how Orange Plan AI helps, and the line between teaching, walkthroughs, and Build & improve.*
 
 **You will build:** Know the course sequence, the US-versus-non-US boundary, the AI tools, and the no-secrets rule.
 
@@ -22,8 +22,8 @@ By the end of this course, you're going to walk out with a plan that tells you:
 
 1. When you can stop working.
 2. What age.
-3. What level of confidence you can have in that plan.
-4. How many future scenarios your plan's going to hold up in.
+3. How many of 1,000 simulations fund the plan as written.
+4. Which market and life scenarios the plan can handle.
 5. When you want to retire.
 6. How much you can spend.
 
@@ -34,7 +34,7 @@ This plan is going to adjust with all of your assets. For example:
 3. When Bitcoin goes up in a bull market.
 4. When your spending drifts.
 
-Your date is also going to move with that confidence level. This is a living financial plan that you can check in with regularly. This is not a spreadsheet you're going to build and use once and not open again. This is built and designed for you to be able to constantly make updates and changes and know exactly where you are at any given time.
+Your planned retirement date and simulation result are going to move as the information changes. This is a living financial plan you can update regularly so you know where you stand at any given time.
 
 ### How The Course Is Structured
 
@@ -42,20 +42,20 @@ The course is going to walk you through a Start Here module and then nine planni
 
 1. You're going to start by replacing the rough onboarding estimate with your real personal details, accounts, and holdings.
 2. You'll review the return, inflation, and other assumptions the first estimate used.
-3. You'll learn how to read the retirement date and confidence number, but the first full confidence run happens after the plan is built in Module 9.
+3. You'll learn how to read the first preliminary simulation result. Module 9 saves the completed current baseline after the facts and major strategy decisions are in place.
 4. I'll cover cash flow, which is your surplus, and how to protect it, and also future cash flow planning.
 5. Then your investment plan, which is your allocation and where every next dollar goes.
 6. Then debt, where every debt gets a job and the extra-payment decision feeds back into that contribution plan.
-7. How to build a retirement paycheck. This is going to cover tax strategy and your retirement income planning, and ways to optimize this to reduce your tax liability.
+7. How to build a retirement paycheck. This is going to cover tax strategy and your retirement income planning, and ways to improve this and reduce your tax liability.
 8. How you protect your plan with custody and estate planning and inheritance.
-9. How you finish and run the full plan, then keep it alive in around five minutes every month with one annual review, scenarios, and a yearly report.
+9. How you finish and run the full plan, then keep it alive in around five minutes every month with one annual review, focused scenarios, and a yearly copy of Your Plan.
 
 Each module is going to cover two different types of lessons:
 
 1. A teach lesson like this one, where I'm just talking to the camera and explaining concepts to you. I'm going to include real-world examples to help make these concepts easier for you to understand.
 2. A walkthrough of me sharing my screen in the app, walking you through how to implement the things that you're learning step by step in your own financial plan.
 
-Build Your Plan is the checklist underneath both of them. The lesson helps you make the decision, the walkthrough shows you where it goes, and the task completes when the real data exists in the app.
+Build & improve is the roadmap underneath both of them. The lesson helps you make the decision, the walkthrough shows you where it goes, and the task completes when the real data exists in the app.
 
 Some of these modules are also going to include worksheets, and for some of the worksheets, it's going to include more sensitive information, like, for example, your custody map and an heir letter that are involved in the inheritance planning. I'd recommend printing those out and filling them out with a pen and paper instead of filling out the information on your computer.
 
@@ -106,7 +106,7 @@ I don't think the best use of it is opening a blank chat and asking a generic qu
 
 The orange AI Review button opens the Plan Guide. You can open it from anywhere in the app, and the first set of options changes depending on the page you're on.
 
-If you're on Cash Flow, it can help you check whether the income, spending, and surplus look believable. On Debt, it can review which loans are creating the most pressure or risk. On Allocation, it can look at your current holdings, your target, and the timeframes those accounts need to fund. On Tax, it can help you spot a conversion or harvesting question that is worth modeling before you take it to your CPA. On Retirement Income, it can help explain what is driving the date, the confidence result, or the amount the portfolio needs to provide.
+If you're on Cash Flow, it can help you check whether the income, spending, and surplus look believable. On Debt, it can review which loans are creating the most pressure or risk. On Allocation, it can look at your current holdings, your target, and the timeframes those accounts need to fund. On Tax, it can help you spot a conversion or harvesting question that is worth modeling before you take it to your CPA. On Retirement Income, it can help explain what is driving the date, the simulation result, or the amount the portfolio needs to provide.
 
 The app is still doing the calculations. The AI is there to help you read the output, question it, and think through the decision. I would use it more like a second set of eyes than somebody making the decision for you.
 
@@ -140,12 +140,38 @@ That export is not the same thing as your encrypted backup. The encrypted backup
 And there is one rule that applies to every AI, every export, and every part of this course: never enter a seed phrase, private key, wallet backup, passphrase, PIN, password, Social Security number, full account number, or backup-file password into an AI chat. The AI does not need any of those things to help with the plan.
 
 Before moving on, open the Plan Guide once from the page you're currently on. Run one review using your own numbers, open the daily Bitcoin report so you know where it lives, and locate the AI Strategy Review Export in Settings. After that, use the AI when you need help understanding the decision in front of you, not as another thing you have to check every day.
-
 ---
 
-## Module checkpoint
+So in this lesson, we're going to cover how I would use Ask while building and maintaining a financial plan.
 
-- [ ] You know the course is taught in order but implemented through the owning Build Your Plan area.
-- [ ] You know teach lessons make decisions and walkthroughs perform the clicks.
-- [ ] You have run one useful AI review and know where the daily report and AI export live.
-- [ ] You can state what never goes into an AI tool.
+Ask is available from the header throughout Orange Plan. It uses the page you are already viewing as context, so you can ask about the number or decision directly in front of you.
+
+On Home, I would use it to check whether the current accounts, holdings, activity, and debts look complete. On Cash Flow, I would ask whether the income, spending, taxes, debt payments, and amount left to save look believable. On Plan, I would ask what is driving the simulation result, the retirement dates, or a Current-versus-Preview comparison. On Protect, I would ask which unfinished item creates the largest family risk.
+
+Orange Plan still performs the calculations. Ask helps you understand the result, find missing information, compare trade-offs, and open the workspace where the real change gets modeled.
+
+Here are a few prompts I would use throughout the course:
+
+- Explain why this result changed.
+- Which three inputs are affecting this result the most?
+- What information looks missing, stale, or inconsistent?
+- Show me up to three realistic ways to improve this plan.
+- Compare Current and Preview in plain language.
+- What should I model before I take this question to my CPA, attorney, or insurance professional?
+- Take me to the page where I can review or change this.
+
+When Ask identifies a possible plan change, the decision moves into Current versus Preview. Read the exact before-and-after result, review the other outcomes that changed, and save it to the plan only when you actually want that decision in the baseline.
+
+Ask can also help you find unfinished work. It may point out an account with no holdings, an old debt rate, missing cost basis, a life event that has not been entered, a stale simulation result, or an unresolved item in Needs Attention.
+
+Linked activity follows the same rule. Orange Plan records the facts it can prove and keeps the receipt. Anything ambiguous becomes one focused question in Needs Attention. Ask can explain the question and take you to it; the accounting and reconciliation still happen in the account or activity workflow.
+
+The Daily Bitcoin Market Report gives you a quick read on the market without checking several sites. It can include the current price and recent change, distance from the prior high, ETF and public-company activity when it matters, leverage and futures conditions, the most useful on-chain change, and the larger macro or industry news.
+
+I use the report for context. The final question is whether anything changed a rule in the plan. Most market days update the value of the assets without changing the strategy.
+
+Orange Plan also has an AI Strategy Review Export for people who prefer ChatGPT, Claude, or another AI. The file removes personal information that the outside AI does not need and gives it a structured summary of the plan. Review the export before uploading it, then use the same prompts from this lesson.
+
+Keep seed phrases, private keys, wallet backups, passphrases, PINs, passwords, Social Security numbers, full account numbers, and backup-file passwords out of every AI tool. Treat the encrypted Orange Plan backup as a restoration file and keep that out of AI tools too.
+
+Before moving on, open Ask from the page you are currently reviewing and use one prompt tied to your own numbers. Then open the Daily Bitcoin Market Report and locate the AI Strategy Review Export. That is enough to know where these tools fit while you build the rest of the plan.

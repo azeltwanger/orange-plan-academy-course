@@ -1,7 +1,5 @@
 # 2.4 · Optional: decide how much college help you are actually funding
 
-**Optional.** Complete this lesson only when an education goal applies.
-
 This lesson is optional. It is for you if you have children, grandchildren, or another education goal you expect to help pay for. If that does not apply, skip it and go straight to the module walkthrough.
 
 The first college-planning question is not which account to open.
@@ -24,14 +22,13 @@ Third, list every funding source.
 
 That can include existing 529 money, new 529 contributions, Bitcoin or other taxable investments, cash flow while the student is enrolled, grants and scholarships, student work, family gifts, and a bounded amount of student borrowing.
 
-
-A lot of conventional college planning starts with the 529. I do not think that should be automatic for a Bitcoiner.
+For a Bitcoiner, start with the family commitment and funding sources, then decide whether a 529 improves that plan.
 
 A 529 can give you tax advantages when the money is used for qualified education expenses. It also limits the investment menu, has rules around how the money is used, and may not give you the Bitcoin exposure you actually want.
 
 Bitcoin gives you more flexibility and, in my view, a stronger long-term growth asset. It also brings volatility, no education-specific tax shelter, and the risk that the price is down when tuition is due.
 
-For my own planning, if college is still more than five years away, I am comfortable using Bitcoin as a meaningful part of the savings plan instead of assuming every dollar has to go into a 529. That does not mean I would wait until freshman year and hope the price cooperates.
+For my own planning, if college is still more than five years away, I am comfortable using Bitcoin as a meaningful part of the savings plan. As the date gets closer, I would protect the first committed tuition payments so the family is not depending on the market at enrollment.
 
 As the date gets closer, I would revisit the commitment, the likely school cost, the aid picture, and the amount already available. Then I would start protecting the portion I have firmly promised.
 
@@ -63,5 +60,5 @@ Use walkthrough 2.5 to enter the decision and confirm what Orange Plan calculate
 - [ ] The surplus is believable and sustainable.
 - [ ] Orange Plan calculated the Reserve target from the selected basis and months.
 - [ ] The monthly Reserve build amount is saved.
-- [ ] Expected life events are in the baseline and hypotheticals are in Scenarios.
+- [ ] Expected life events are in the baseline and hypotheticals are in Plan → Scenarios.
 - [ ] College funding has a commitment and source plan when it applies.

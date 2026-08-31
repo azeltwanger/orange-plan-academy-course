@@ -57,13 +57,13 @@ There are three decisions people often collapse into one:
 
 Those are not the same risk.
 
-You may reasonably keep a low-rate mortgage and continue accumulating Bitcoin. That does not automatically mean taking a new Bitcoin-backed loan to buy more is also reasonable. New leverage needs a much higher standard because it adds a new payment, a lender, and potentially forced-sale risk.
+Keeping existing low-rate debt and adding new leverage are separate decisions. A new Bitcoin-backed loan needs a higher standard because it adds a payment, a lender, and forced-sale risk.
 
 Bitcoin-backed loans also need their own operating rules: a purpose, a maximum starting LTV, margin and top-up thresholds, a repayment source, and a plan for a deep drawdown. That is covered in the Advanced Library and again in the retirement-income workbench. In the core lesson, the rule is simpler: do not let a loan create a forced Bitcoin sale in a normal bear market.
 
 This brings us to the debt ceiling.
 
-I do not mean one universal percentage that everybody copies. I mean the point where you would stop adding debt because either the monthly payments, the drawdown stress, or the amount tied to a lender has become more than your household can comfortably carry.
+Your debt ceiling is the point where monthly payments, drawdown stress, or the amount tied to a lender becomes more than the household can comfortably carry.
 
 The ceiling should be stated before a new borrowing opportunity appears. It is much easier to be conservative when Bitcoin is rising than after the price falls and the ratio has already moved against you.
 

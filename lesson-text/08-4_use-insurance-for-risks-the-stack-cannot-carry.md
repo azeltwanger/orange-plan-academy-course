@@ -28,7 +28,6 @@ Long-term care belongs on the later-life review. The cost is real, the products 
 
 Health coverage before Medicare is part of the Retirement Income bridge rather than this insurance audit. The same principle applies: price the actual options and the risk retained by the household.
 
-
 For each category, I would write down:
 
 - the risk being transferred;

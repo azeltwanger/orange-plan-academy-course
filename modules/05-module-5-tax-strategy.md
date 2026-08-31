@@ -35,13 +35,13 @@ Start with every exchange and brokerage you have used, including the old ones. D
 
 Transfers are where people get confused. Moving Bitcoin from an exchange to a hardware wallet usually does not create a new purchase price. The original lot history still follows the Bitcoin. If the transfer is imported as a new acquisition instead of being linked back to the original lot, the basis can become duplicated or lost.
 
-The same issue appears when Bitcoin moves through several wallets. The blockchain can show that the coins moved. It does not automatically tell a tax program what you originally paid or why the transfer happened.
+The same issue appears when Bitcoin moves through several wallets. The blockchain can prove that the coins moved. The tax record still needs the original basis and the reason for the movement.
 
 If the full history does not exist, do not make up a precise number because it makes the report look complete. Gather everything you can document, narrow the missing purchase period as honestly as possible, keep notes on how the reconstruction was performed, and review uncertain treatment with a tax professional.
 
 The app should flag missing basis rather than silently invent it. A blank or incomplete record is a work item. It is not permission to assume the basis is zero, and it is not proof that any estimate will be accepted without support.
 
-Specific identification also requires discipline. It is not enough to decide after the fact that the most favorable lot was sold. The records and the transaction process need to support which units were disposed of. When that is not possible, the applicable default ordering rules may control. This is one of the items to confirm with the custodian and your tax professional before a large sale.
+Specific identification requires records and a transaction process that support which units were disposed of at the time of the sale. Applicable default ordering rules may control when those records are missing. This is one of the items to confirm with the custodian and your tax professional before a large sale.
 
 Cost basis is tedious because it is infrastructure. You may spend a few hours cleaning it once, but the benefit follows every taxable decision after that.
 
@@ -54,7 +54,7 @@ I would organize the work in this order:
 5. Reconstruct only what can be supported, and document the method.
 6. Keep the records with the tax return and update the history as new transactions happen.
 
-The goal is not a beautiful dashboard. The goal is being able to answer a real question before money moves: if I sell this amount, which lot is being sold, what is the gain, and what tax range should I expect?
+The useful output is an answer before money moves: which lot is being sold, what is the gain, and what tax range should I expect?
 
 In the tax walkthrough, I'll show you how to import the available history, review the lots the app flags, see which holdings still need dates or prices, and create the export that makes the final tax decision easier to review with your CPA.
 
@@ -70,11 +70,11 @@ I think of the plan as having three tax buckets.
 
 > **Visual:** Tax deck: Taxable, Tax-deferred, Roth.
 
-Taxable money is flexible. You can generally access it whenever you need it. Investment gains may receive long-term capital-gains treatment when the holding-period rules are met, and there is a zero-percent federal long-term capital-gains bracket for some taxpayers. The important detail is that gains stack on top of the rest of your taxable income, so a low salary does not automatically mean an unlimited amount of gains will be taxed at zero.
+Taxable money is flexible. You can generally access it whenever you need it. Investment gains may receive long-term capital-gains treatment when the holding-period rules are met, and there is a zero-percent federal long-term capital-gains bracket for some taxpayers. Gains stack on top of the rest of taxable income, so the available 0% long-term capital-gains space is limited by the whole return.
 
 Tax-deferred money includes Traditional retirement accounts. Contributions may reduce taxable income today, and the investments can grow without current tax. Withdrawals are generally ordinary income later. Required minimum distributions eventually force money out based on the rules that apply to your birth year and account. The starting age has changed more than once, so the current rule should be verified instead of frozen into a video.
 
-Roth money has already been taxed before it goes in. Qualified withdrawals can come out tax-free, and Roth IRAs do not have lifetime required minimum distributions for the original owner under current law. That makes Roth space valuable for long-term growth, but it does not mean every dollar should automatically go there.
+Roth money has already been taxed before it goes in. Qualified withdrawals can come out tax-free, and Roth IRAs do not have lifetime required minimum distributions for the original owner under current law. Roth space is valuable for long-term growth. The right contribution mix still depends on the tax rate now, the expected rate later, and access needs.
 
 A mix of all three buckets gives you options. If all of the money is tax-deferred, the government may control more of the timing later. If all of it is Roth, you may have paid tax today at a rate that was unnecessarily high. If all of it is taxable, you lose some of the retirement-account shelter and may have less flexibility for tax-efficient rebalancing.
 
@@ -94,7 +94,7 @@ A Roth conversion is one way to use it. You move money from a Traditional accoun
 
 I would not simply "fill the bracket" based on one tax rate line. The true cost can include how the conversion interacts with capital gains, Social Security taxation, Medicare surcharges, health-insurance subsidies before Medicare, the net investment income tax, state tax, and deductions or credits.
 
-That does not make the strategy unusable. It means the app can model a range, and the exact current-year amount gets verified with a tax professional before execution.
+Use the app to model a range, then verify the exact current-year amount with a tax professional before execution.
 
 Intentional withdrawals from tax-deferred accounts can also reduce future pressure. A conversion is not the only way to use a low-income year. In some plans, spending from the Traditional account while the rate is low is simpler and still shrinks the future required-distribution problem.
 
@@ -197,7 +197,7 @@ The tax walkthrough will show the current bucket balances, the conversion analys
 
 ## 7 · Compare the state scenario
 
-**DO** Scenarios → **Move to no-tax state** or the current state-change scenario.
+**DO** Plan → Scenarios → **Move to no-tax state** or the current state-change scenario.
 
 **READ** the change in taxes and the whole-plan result.
 
@@ -225,7 +225,7 @@ Save or list:
 
 ## 10 · Close Tax
 
-**DO** Build Your Plan → **Tax**.
+**DO** Build & improve → **Tax**.
 
 **SEE** the available history reviewed, and conversion / harvesting reviews intentionally completed or passed.
 
@@ -247,3 +247,23 @@ Save or list:
 - [ ] A conversion or withdrawal range is modeled when relevant.
 - [ ] Harvesting candidates and the 8949 export are saved.
 - [ ] Current-year questions are ready before the calendar deadline.
+
+<!-- ADVANCED-GATE:START -->
+
+## Related advanced lessons
+
+**Your core plan is complete.** These are optional, and each one is
+worth watching only when its condition is true for you. Continue only if
+one of these describes your situation:
+
+- **A5.1 RMD pressure and Roth conversions across the low-income window**
+  → *Research complete. Targeted CPA or EA review before publication; verify the current RMD age, brackets, Medicare rules, and healthcare interactions in the year of action.*
+- **A5.2 Harvest Bitcoin losses and gains without losing the tax story**
+  → *Research complete. Targeted CPA or EA review before publication; verify current digital-asset wash-sale treatment and lot-identification requirements before execution.*
+- **A5.3 State taxes and relocation: measure the lever before moving**
+  → *Research complete. Targeted CPA or state-tax attorney review before publication; verify both origin-state and destination-state residency rules.*
+
+*Generated by `tools/build-module-gates.py` from the Gate line on each
+advanced lesson. Edit the condition there, not here.*
+
+<!-- ADVANCED-GATE:END -->

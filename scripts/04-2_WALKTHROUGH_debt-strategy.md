@@ -2,6 +2,8 @@
 
 **Screen capture · about 10 minutes**
 
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
+
 ## Before recording
 
 - Current statements for every debt: balance, rate, payment, term, fixed or variable.
@@ -69,7 +71,7 @@ For each row, choose or record:
 
 ## 7 · Compare the important alternative
 
-**DO** Scenarios → compare payoff versus keep-and-invest for the debt where the answer is genuinely close.
+**DO** Plan → Scenarios → compare payoff versus keep-and-invest for the debt where the answer is genuinely close.
 
 **READ** retirement date · confidence preview when available · taxes · liquidity · required payment · Bitcoin remaining.
 
@@ -85,7 +87,7 @@ For each row, choose or record:
 
 ## 9 · Close Debt
 
-**DO** Build Your Plan → **Debt**.
+**DO** Build & improve → **Debt**.
 
 **SEE** every active debt has the required current fields, or **I have no debts** is selected truthfully; strategy review recorded when applicable.
 

@@ -46,7 +46,7 @@ Two devices using the same vendor, firmware path, and companion software may not
 
 Two custodial accounts may still depend on the same underlying company.
 
-Redundancy means one event does not erase every recovery path. It does not mean buying more hardware until the diagram looks complicated.
+Redundancy gives the family another recovery path for the failure being addressed. Add equipment only when it solves that specific failure.
 
 Use the rough scale from the first lesson: replaceable, meaningful, or life-changing.
 

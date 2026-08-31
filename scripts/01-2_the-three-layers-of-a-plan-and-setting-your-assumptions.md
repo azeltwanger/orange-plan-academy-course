@@ -20,7 +20,7 @@ That becomes the foundation that everything else is compared against.
 
 The second layer is future life events. These are things that you genuinely expect to happen in the future and that you can reasonably predict as a future expense or income change.
 
-They might not be happening now, but you have a high level of confidence that they're going to happen. Some examples are future college payments, how your spending might change in retirement, a new car you're planning to purchase, a house you're planning to purchase or sell, a future change in your job or income, or long-term care expenses later in retirement.
+These are future expenses or income changes you expect with a high level of confidence. Examples include college payments, retirement spending changes, a car or home purchase, a future job or income change, or long-term care expenses later in retirement.
 
 Adding these things to your plan gives the projection a more accurate picture of the amount of money you're going to need and what your realistic retirement date might be.
 

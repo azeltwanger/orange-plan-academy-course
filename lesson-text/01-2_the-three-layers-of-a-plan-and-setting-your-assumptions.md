@@ -2,7 +2,7 @@
 
 In today's lesson, we're going to cover how your retirement plan is going to be built out and the three different layers that go into how the app works and how your retirement plan is going to work.
 
-### Layer One: Your Baseline And Foundation
+## Layer one: your baseline and foundation
 
 The first layer is your baseline. This includes all of the data and information that is true for your life right now: your current income, current spending, current assets, debts, and every other part of your financial life that is true today.
 
@@ -12,15 +12,15 @@ So the first layer has two parts: what is true now, and what assumptions the pla
 
 That becomes the foundation that everything else is compared against.
 
-### Layer Two: Future Life Events
+## Layer two: future life events
 
 The second layer is future life events. These are things that you genuinely expect to happen in the future and that you can reasonably predict as a future expense or income change.
 
-They might not be happening now, but you have a high level of confidence that they're going to happen. Some examples are future college payments, how your spending might change in retirement, a new car you're planning to purchase, a house you're planning to purchase or sell, a future change in your job or income, or long-term care expenses later in retirement.
+These are future expenses or income changes you expect with a high level of confidence. Examples include college payments, retirement spending changes, a car or home purchase, a future job or income change, or long-term care expenses later in retirement.
 
 Adding these things to your plan gives the projection a more accurate picture of the amount of money you're going to need and what your realistic retirement date might be.
 
-### Layer Three: Scenarios
+## Layer three: scenarios
 
 The third layer is scenarios. These are hypotheticals about the future.
 
@@ -34,7 +34,7 @@ Don't feel like you need to constantly make changes to your baseline information
 
 To keep it simple, the truth and the assumptions used by the plan belong in your baseline and foundation. Expected changes that you have a high level of confidence will happen go into life events. Questions and comparisons about the future go into scenarios.
 
-### Current Cash Flow Versus The Projection
+## Current cash flow versus the projection
 
 Orange Plan is meant to project what your future retirement plan might look like. It isn't mainly a current-day budgeting app.
 
@@ -42,7 +42,7 @@ You do have the ability to link or import your accounts on the Cash Flow page. T
 
 If you expect your spending, income, or job situation to change in the future, you can make that adjustment in the life-events section instead of rewriting what is true today.
 
-### Why The Assumptions Matter
+## Why the assumptions matter
 
 The assumptions that you make about the future are going to inform almost every other decision in your plan, including tax planning, which accounts you contribute to, how much you need to save, how you allocate your money, and how you take money out and live off Bitcoin and other assets in retirement.
 
@@ -50,7 +50,7 @@ Every projection and number in your plan is built on top of these inputs, so get
 
 The main inputs about the future include your investment returns, including Bitcoin, inflation, current and retirement spending, life expectancy, your savings rate before retirement, and future life events that change income or spending.
 
-### Lean Conservative
+## Lean conservative
 
 I think one of the most important things is to lean conservative when it comes to Bitcoin and other assets and what their returns are going to be.
 
@@ -58,7 +58,7 @@ If we make assumptions that are too optimistic, it's going to make you feel good
 
 Being conservative means you might be surprised to the upside and give yourself the ability to retire earlier or spend more. Being optimistic means that if you're wrong, the consequences can be working longer than you thought or not having the ability to spend what you really want to in retirement.
 
-### One Input Can Move The Date By Years
+## One input can move the date by years
 
 Let's say we have someone who is 45 years old. They're holding 1.75 Bitcoin and spending around $80,000 a year.
 
@@ -68,7 +68,7 @@ That's a difference of eight years from one input changing.
 
 This is why I think you need to choose a conservative and realistic way to model Bitcoin in the future. I would not choose the model just because it gives you the earliest retirement date. I would choose the one you could defend if you were explaining it to a family member or a friend.
 
-### The Four Bitcoin Models
+## The four bitcoin models
 
 The four main default settings in the app are Conservative, Moderate, Aggressive, and Power law.
 
@@ -82,7 +82,7 @@ If you want to create your own returns, the advanced assumptions panel lets you 
 
 I personally like using power law as a model, although any model is only a tool for making a projection. It isn't a guarantee. Moderate is a step down if you want to be more conservative, and Conservative is there if you want to use a much lower growth path.
 
-### Inflation
+## Inflation
 
 The next assumption is inflation.
 
@@ -90,13 +90,13 @@ If you're spending $80,000 a year today, at 3% inflation that same lifestyle cos
 
 The default in the app is 3%. Think through what you believe is realistic instead of leaving the default simply because it was already loaded.
 
-### The Other Assets
+## The other assets
 
 Orange Plan also has return assumptions for stocks, bonds, cash, and other assets. These begin with reasonable defaults, and you can revisit them later if you have a reason to use something more conservative or build a custom assumption.
 
 This is a personal decision. I think the numbers should be realistic and not emotion-driven.
 
-### How To Choose
+## How to choose
 
 1. Start conservative. If the plan works on a conservative assumption, the upside from Bitcoin or the other assets becomes a bonus.
 2. Use a declining Bitcoin return. A flat CAGR isn't realistic across a 30- or 40-year retirement plan.
@@ -114,9 +114,11 @@ Use walkthrough 1.4 to enter the decision and confirm what Orange Plan calculate
 
 ## Module checkpoint
 
-- [ ] Personal details are accurate.
+- [ ] Household details are accurate.
 - [ ] Every real account and custody location is listed.
 - [ ] Current holdings match the source statements.
-- [ ] You know how new activity differs from historical tax reconstruction.
+- [ ] Balance, activity, and tax-detail coverage are understood separately.
 - [ ] The growth and inflation assumptions were reviewed deliberately.
-- [ ] Build Your Plan shows Foundation complete.
+- [ ] The simulation result is visible with a truthful freshness state.
+- [ ] Planned and earliest modeled retirement dates are understood separately.
+- [ ] Build & improve shows Foundation complete.

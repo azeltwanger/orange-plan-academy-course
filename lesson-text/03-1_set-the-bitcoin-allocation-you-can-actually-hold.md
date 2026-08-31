@@ -1,58 +1,48 @@
 # 3.1 · Set the Bitcoin allocation you can actually hold
 
-In today's lesson, we're going to answer the question almost every Bitcoiner asks: how much Bitcoin should be in the plan?
+So in this lesson, we're going to set a Bitcoin target the household can actually hold through a major drawdown.
 
-I do not think the honest answer is a percentage I hand you.
+Your target comes from four things: how well you understand Bitcoin, the job it has in the plan, the volatility you have already lived through, and whether the rest of the financial plan can support the position.
 
-The amount you can responsibly hold depends on how well you understand Bitcoin, what role it has in your plan, how much volatility you have already lived through, and whether the rest of your financial life can support the position.
+Conviction means you understand what you own well enough to keep following the plan when the price falls. A rising price can increase the position quickly, so the target still has to work when the market moves in the other direction.
 
-The price going up is not conviction. Conviction is understanding what you own well enough that a major drawdown does not change the thesis or force a decision you were not prepared to make.
+The four paths describe where you are today. Use the description that matches your current understanding, experience, and support systems.
 
+Foundation is a smaller position while you are still learning. Bitcoin may be a hedge or an experiment, and the current account may be an exchange, brokerage, or ETF.
 
-The four paths on the screen are not recommendations. They are a way to describe where somebody actually is.
+Integration means Bitcoin has a defined role in the financial plan. You understand why you own it, it may replace some traditional growth exposure, and you are building the custody and tax knowledge around it.
 
-Foundation is a smaller position while you are still learning. Bitcoin is a hedge or an experiment, and the custody setup may still be an exchange or ETF.
+Optimization means Bitcoin is the main growth driver. You have already lived through real volatility, the position is intentional, and the Reserve, debt, taxes, account access, and custody are designed around it.
 
-Integration means Bitcoin is a real part of the financial plan. You understand why you own it, it may replace some of the traditional growth exposure, and you are starting to build custody skill.
+Sovereign means Bitcoin is the primary long-term money in the plan. That position needs strong cash flow, enough accessible liquidity, a custody process the family can recover, and a retirement plan that can operate through a deep drawdown.
 
-Optimization means Bitcoin is the main growth driver. You have already lived through real volatility, the position is intentional, and the reserve, debt, taxes, and custody are being designed around it.
+Pick the description that is true today. The target should reflect the plan you can maintain now.
 
-Sovereign means Bitcoin is the primary long-term money in the plan. At that level, the support systems matter even more: strong cash flow, enough liquidity, a custody process the family can recover, and a retirement plan that does not require panic-selling.
+Then translate the drawdown into dollars.
 
-The important question is which description is true today, not which one sounds most like the identity you want.
+If Bitcoin is 10% of the portfolio and falls 75% while everything else stays flat, the total portfolio falls about 7.5%.
 
-Then we run the stress test.
+At 25% Bitcoin, the hit is about 19%.
 
+At 50% Bitcoin, the hit is about 37.5%.
 
-Take the Bitcoin percentage and translate a large drawdown into dollars.
+At 75% Bitcoin, more than half of the total portfolio value disappears on the statement.
 
-If Bitcoin is ten percent of the portfolio and falls seventy-five percent while everything else stays flat, the total portfolio is down about seven and a half percent.
+Use those numbers as a stress test. Put your own balance into it and calculate the dollar loss. Then ask what the household would actually do. Would you keep buying, hold, cut spending, add collateral to a loan, or feel pressure to sell?
 
-At twenty-five percent Bitcoin, the hit is about nineteen percent.
+The household also has to keep operating while the asset is down. Check the Reserve, required debt payments, Bitcoin held with a lender, large purchases coming up, accessible Bridge money, and whether your spouse understands the expected volatility.
 
-At fifty percent Bitcoin, it is about thirty-seven and a half percent.
+The largest responsible position is the one the household can keep through a full drawdown without a forced sale or panic decision.
 
-At seventy-five percent Bitcoin, more than half of the total net worth disappears on the statement.
+A concentrated Bitcoin allocation can be intentional. It also gives the rest of the plan more work. The Reserve may need to be larger. Bridge money needs to stay accessible. Debt needs more room. Custody and family recovery need to handle a larger share of the family's wealth.
 
-Those are not forecasts. They are a way to make the emotional risk visible.
+Separate the target from an immediate trade. New contributions can move the portfolio toward the target over time. A one-time sale or shift has its own tax, timing, and risk decision.
 
-I want you to use your own number. What would the dollar loss be? What would it do to the retirement date? Would you keep buying, do nothing, cut spending, or feel pressure to sell?
+Price context helps identify the emotion around a large move. A sharp run-up usually adds urgency and overconfidence. A sharp drop usually adds fear and may also create a stronger expected entry. Cash flow, Reserve, debt, taxes, custody, and time horizon still decide whether the move fits the plan. The Advanced Library has the full price-context check.
 
-And I do not only mean whether you believe Bitcoin eventually recovers. Could the household continue operating while it is down? Is the reserve full? Are debt payments comfortable? Is any Bitcoin sitting with a lender? Is there a large purchase coming? Could your spouse live with the statement?
+By the end of this lesson, you should have a target or range you can defend with three things: your understanding of Bitcoin, the dollar loss in a major drawdown, and the support systems around the position.
 
-The largest position you can hold is the one you can keep through a full drawdown without a forced sale or a panic decision.
-
-That does not mean every concentrated position is wrong. A large Bitcoin allocation can be completely intentional. But concentration transfers work to the rest of the plan. The reserve may need to be larger. Bridge money needs to be accessible. Custody and family recovery need to be stronger. Debt needs more room.
-
-I would also separate a target from a trade you need to make today.
-
-If the current allocation is above or below the target, you do not automatically have to sell assets and create a tax bill. New contributions can move the portfolio toward the target over time. A one-time change is a separate tax and risk decision.
-
-Before a large Bitcoin move, I would also check price context. Not because price tells you what to do, but because it tells you which emotion is in the room. A sharp run-up can create urgency and overconfidence. A sharp drop can create fear or a genuine opportunity. The plan still has to support the move either way. The full price-context check is in the Advanced Library.
-
-By the end of this lesson, you should have a target or a target range you can defend using three things: your understanding of Bitcoin, the dollar loss in a major drawdown, and the support systems around the position.
-
-In the Allocation walkthrough, we'll compare the current mix with that target, run the drawdown against your actual plan, and save the target without assuming you need to make every trade today.
+In the Allocation walkthrough, we'll compare the current mix with that target, run the drawdown against the actual plan, and preview how contributions or a one-time shift would move the portfolio before anything is saved.
 
 ## Apply it
 

@@ -2,6 +2,8 @@
 
 **Screen capture · about 10 minutes**
 
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
+
 ## Before recording
 
 - The custody-direction decision from Lesson 7.1: one method or intentional split.
@@ -125,7 +127,7 @@ Record:
 
 ## 10 · Close Custody
 
-**DO** Return to Build Your Plan / Protect status.
+**DO** Return to Build & improve / Protect status.
 
 **SEE** the custody work represented honestly even when outside-device work remains.
 

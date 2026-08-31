@@ -31,13 +31,13 @@ Start with every exchange and brokerage you have used, including the old ones. D
 
 Transfers are where people get confused. Moving Bitcoin from an exchange to a hardware wallet usually does not create a new purchase price. The original lot history still follows the Bitcoin. If the transfer is imported as a new acquisition instead of being linked back to the original lot, the basis can become duplicated or lost.
 
-The same issue appears when Bitcoin moves through several wallets. The blockchain can show that the coins moved. It does not automatically tell a tax program what you originally paid or why the transfer happened.
+The same issue appears when Bitcoin moves through several wallets. The blockchain can prove that the coins moved. The tax record still needs the original basis and the reason for the movement.
 
 If the full history does not exist, do not make up a precise number because it makes the report look complete. Gather everything you can document, narrow the missing purchase period as honestly as possible, keep notes on how the reconstruction was performed, and review uncertain treatment with a tax professional.
 
 The app should flag missing basis rather than silently invent it. A blank or incomplete record is a work item. It is not permission to assume the basis is zero, and it is not proof that any estimate will be accepted without support.
 
-Specific identification also requires discipline. It is not enough to decide after the fact that the most favorable lot was sold. The records and the transaction process need to support which units were disposed of. When that is not possible, the applicable default ordering rules may control. This is one of the items to confirm with the custodian and your tax professional before a large sale.
+Specific identification requires records and a transaction process that support which units were disposed of at the time of the sale. Applicable default ordering rules may control when those records are missing. This is one of the items to confirm with the custodian and your tax professional before a large sale.
 
 Cost basis is tedious because it is infrastructure. You may spend a few hours cleaning it once, but the benefit follows every taxable decision after that.
 
@@ -50,6 +50,6 @@ I would organize the work in this order:
 5. Reconstruct only what can be supported, and document the method.
 6. Keep the records with the tax return and update the history as new transactions happen.
 
-The goal is not a beautiful dashboard. The goal is being able to answer a real question before money moves: if I sell this amount, which lot is being sold, what is the gain, and what tax range should I expect?
+The useful output is an answer before money moves: which lot is being sold, what is the gain, and what tax range should I expect?
 
 In the tax walkthrough, I'll show you how to import the available history, review the lots the app flags, see which holdings still need dates or prices, and create the export that makes the final tax decision easier to review with your CPA.

@@ -40,7 +40,7 @@ Two devices using the same vendor, firmware path, and companion software may not
 
 Two custodial accounts may still depend on the same underlying company.
 
-Redundancy means one event does not erase every recovery path. It does not mean buying more hardware until the diagram looks complicated.
+Redundancy gives the family another recovery path for the failure being addressed. Add equipment only when it solves that specific failure.
 
 Use the rough scale from the first lesson: replaceable, meaningful, or life-changing.
 
@@ -113,7 +113,7 @@ Then circle the one failure that could do the most damage. That becomes the next
 
 ## Apply it
 
-Use `CUSTODY-DECISION-MAP.md` to record the decision without secrets, then complete walkthrough 7.5 to reflect the implementation status in Protect.
+Use walkthrough 7.5 to enter the decision and confirm what Orange Plan calculated.
 
 ## Module checkpoint
 

@@ -38,9 +38,9 @@ I would use two or three real months if you have them. A rough number from memor
 
 From there, I like to go through the spending with three labels: Keep, Cut, and Reduce.
 
-Keep is anything essential or clearly worth what it costs. The goal is not to make your life miserable just to make a projection prettier.
+Keep anything essential or clearly worth what it costs. Look for spending that adds little value before touching the life you want to keep.
 
-Cut means it is not worth paying for at all. Unused subscriptions, recurring charges you forgot, or spending that is not buying much happiness or utility.
+Cut removes unused subscriptions, forgotten recurring charges, and spending that adds little happiness or utility.
 
 Reduce means you keep it but lower the ongoing cost. Insurance, phone plans, internet, memberships, or another recurring bill you have not compared in years.
 
@@ -52,7 +52,7 @@ And after the easy items, the biggest levers are usually housing, vehicles, and 
 
 There is one more number you need besides normal spending: your bare-bones spending.
 
-That is not the amount you want to live on. It is the minimum amount the household could run on during a job loss, a business slowdown, or a major Bitcoin drawdown. Housing, food, utilities, insurance, healthcare, minimum debt payments, and the other expenses that do not disappear just because the month is bad.
+Bare-bones spending is the minimum amount the household could run on during a job loss, a business slowdown, or a major Bitcoin drawdown. Housing, food, utilities, insurance, healthcare, minimum debt payments, and the other expenses that do not disappear just because the month is bad.
 
 Normal spending tells the plan what your life costs. Bare-bones spending tells you how much cash it takes to buy time in an emergency. The next lesson uses that second number to size the reserve.
 
@@ -70,7 +70,7 @@ I would rather start with a slightly lower number that can move automatically ev
 
 Check the timing too. If all of the bills clear before the second paycheck, the month can feel tight even when the annual math works. Moving due dates or scheduling transfers after bills clear can make the same surplus much easier to maintain.
 
-And check withholding. A large refund can mean part of your surplus was trapped in payroll all year. Owing a surprise tax bill can mean the apparent surplus was never yours. The goal is not a perfect refund. It is making sure the monthly number is honest.
+And check withholding. A large refund can mean part of your surplus was trapped in payroll all year. Owing a surprise tax bill can mean the apparent surplus was never yours. Set withholding so the monthly surplus reflects the taxes you actually expect to owe.
 
 Once the surplus is reliable, it creates a flywheel. You improve cash flow, route the money into the plan, build more assets and flexibility, and that flexibility can create a larger surplus later. What breaks the flywheel is lifestyle creep, panic-selling, or trying to speed it up with leverage before the foundation is ready.
 
@@ -92,7 +92,7 @@ For retirement, I use 18 months as a planning default, because the first few yea
 
 ### The Formula
 
-The formula that I'm using for sizing your emergency fund is: you're going to take your bare-bones essential spending, and then you're going to multiply that by whatever your target amount of months is for your reserve. By bare bones, this is not going to be what you normally spend in any given month. This is going to be the absolute minimum amount that you can spend and still get by.
+The formula that I'm using for sizing your emergency fund is: you're going to take your bare-bones essential spending, and then you're going to multiply that by whatever your target amount of months is for your reserve. Bare-bones spending is the absolute minimum amount you can spend in a month and still get by.
 
 The reason why we use this is that, for the floor, or your bare-bones spending, in a real emergency, this is the amount that you could cut back and still get by. If we were to size your emergency fund based off normal spending, you're oversizing your emergency fund and losing money to inflation. A smaller amount of cash is going to buy you more time in a worst-case scenario.
 
@@ -132,7 +132,7 @@ After this period, if you're not comfortable holding a large amount of cash, I t
 
 Before you pick and decide what your cash reserve is going to be, I think it's important to go through a scenario or situation. If Bitcoin were to drop 50% tomorrow, we go into a bear market, and your income got cut off for 6 months and it took you a while to find a new job: would you rather hold more cash now and be able to safely spend it through that period? Or would you be okay with taking the risk to sell some Bitcoin during that time, knowing that the price is down 50%, and just cut your spending more aggressively to your bare-bones spending?
 
-I don't think there's a wrong answer here. A lot of this, like I said, comes down to your risk tolerance. I think having at least 3 months of a reserve while you're working, and then 12 months once you go into retirement, can protect you against selling assets at the wrong time and reduce sequence-of-returns risk in retirement.
+Your risk tolerance sets the final number. I think having at least 3 months of a reserve while you're working, and then 12 months once you go into retirement, can protect you against selling assets at the wrong time and reduce sequence-of-returns risk in retirement.
 
 Before the walkthrough, choose the number of months that fits your income stability, dependents, fixed costs, and comfort with selling during a drawdown. In the walkthrough, I'll show you where to enter the bare-bones monthly amount, select the Reserve basis and months, and choose the monthly build cap. Orange Plan calculates the target from those inputs and shows the gap; you do not type the target multiplication manually.
 
@@ -175,13 +175,13 @@ Third, what amount are you actually committing the plan to fund? That can be dif
 
 Fourth, where might the money come from? Current cash flow, existing cash, taxable investments, Bitcoin, a dedicated account, financing, or a combination.
 
-That fourth question does not mean we are deciding the debt strategy in this lesson. It simply keeps us from acting as if every future purchase must be fully saved in cash today. The Debt module decides whether financing improves or weakens the plan. The Allocation module decides how new dollars are invested and which money needs to stay accessible.
+Keep the financing question open here. The Debt module decides whether financing improves or weakens the plan. The Allocation module decides how new dollars are invested and which money needs to stay accessible.
 
 The timing still matters, but I do not want to turn it into a rigid rule that says every expense at a certain year must use a certain asset.
 
 If the bill is coming in the next year or two and the amount is non-negotiable, it should not depend on Bitcoin being at a favorable price when the bill arrives.
 
-If the event is more than five years away, Bitcoin can remain part of the funding plan. I would not automatically move the entire future expense into cash at year five. The part you have firmly promised should become less dependent on Bitcoin as the date gets closer. The flexible portion can stay invested longer.
+If the event is more than five years away, Bitcoin can remain part of the funding plan. Start protecting the firmly promised portion as the date gets closer. The flexible portion can stay invested longer.
 
 That is the useful principle: the closer the event gets, the more certain the required funding needs to become. The exact path depends on the flexibility of the amount, the date, and the rest of your plan.
 
@@ -219,13 +219,13 @@ That can include existing 529 money, new 529 contributions, Bitcoin or other tax
 
 > **Visual:** Build the college funding stack from the bottom up: parent commitment, then sources. Do not show sticker price as the automatic parent target.
 
-A lot of conventional college planning starts with the 529. I do not think that should be automatic for a Bitcoiner.
+For a Bitcoiner, start with the family commitment and funding sources, then decide whether a 529 improves that plan.
 
 A 529 can give you tax advantages when the money is used for qualified education expenses. It also limits the investment menu, has rules around how the money is used, and may not give you the Bitcoin exposure you actually want.
 
 Bitcoin gives you more flexibility and, in my view, a stronger long-term growth asset. It also brings volatility, no education-specific tax shelter, and the risk that the price is down when tuition is due.
 
-For my own planning, if college is still more than five years away, I am comfortable using Bitcoin as a meaningful part of the savings plan instead of assuming every dollar has to go into a 529. That does not mean I would wait until freshman year and hope the price cooperates.
+For my own planning, if college is still more than five years away, I am comfortable using Bitcoin as a meaningful part of the savings plan. As the date gets closer, I would protect the first committed tuition payments so the family is not depending on the market at enrollment.
 
 As the date gets closer, I would revisit the commitment, the likely school cost, the aid picture, and the amount already available. Then I would start protecting the portion I have firmly promised.
 
@@ -298,7 +298,7 @@ In the walkthrough, I'll show you how to add the college event, connect the year
 
 **DO** Exclude one genuine one-time item using the current review control.
 
-**SAY** One unusual month does not automatically change the baseline. Look for a repeated difference or a permanent change.
+**SAY** Update the baseline after a repeated difference or a permanent change. Keep a genuine one-time month in the activity history.
 
 ## 5 · Set the Reserve
 
@@ -350,7 +350,7 @@ In the walkthrough, I'll show you how to add the college event, connect the year
 
 ## 9 · Close the area
 
-**DO** Return to **Build Your Plan → Cash flow**.
+**DO** Return to **Build & improve → Cash flow**.
 
 **SEE** Income · Living expenses · Reserve target · Life events complete, or **Nothing major coming** selected truthfully.
 

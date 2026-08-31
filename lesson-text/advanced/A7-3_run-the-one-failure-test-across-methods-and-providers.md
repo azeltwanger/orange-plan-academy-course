@@ -1,5 +1,7 @@
 # A7.3 · Run the One-Failure Test across methods and providers
 
+**Publication gate:** Research complete. Verify provider and device facts before naming them; no vendor-specific recommendation is implied.
+
 Concentration risk is not only holding too much Bitcoin.
 
 It can also mean every recovery path depends on the same company, custody method, device family, software, location, or person.
@@ -48,7 +50,7 @@ A useful second question is:
 
 > If this entire pool became inaccessible, would the financial plan still survive?
 
-The answer does not have to be that every pool is perfectly replaceable. The goal is to know which loss would be catastrophic and whether that exposure is intentional.
+Identify which loss would be catastrophic and decide whether that exposure is intentional.
 
 Separate custody pools can make sense when they have separate jobs or when one failure would otherwise threaten too much of the plan.
 
@@ -58,7 +60,7 @@ The opposite can also be true. A household that values simplicity and has a well
 
 Diversification has a cost: more devices, more providers, more interfaces, more recovery documents, and more ways for the family to get confused.
 
-The goal is not maximum fragmentation.
+Use the fewest independent systems that remove the catastrophic failures.
 
 Every additional method has to solve a named risk. Set a maximum exposure to one provider or failure domain only when the household can explain what that limit protects against.
 

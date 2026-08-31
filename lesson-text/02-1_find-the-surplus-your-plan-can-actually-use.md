@@ -6,7 +6,6 @@ I think this is where a financial plan becomes real. You can have a strong opini
 
 Bitcoin may be the asset that builds the wealth, but the surplus is the engine underneath it. It is what lets you keep buying through a drawdown, build a reserve, pay extra on a debt when that makes sense, and avoid getting forced to sell at the exact time you do not want to.
 
-
 Cash flow also changes jobs as your life changes.
 
 While you're working, income is usually higher than spending. The surplus fills the reserve and funds investments.
@@ -29,9 +28,9 @@ I would use two or three real months if you have them. A rough number from memor
 
 From there, I like to go through the spending with three labels: Keep, Cut, and Reduce.
 
-Keep is anything essential or clearly worth what it costs. The goal is not to make your life miserable just to make a projection prettier.
+Keep anything essential or clearly worth what it costs. Look for spending that adds little value before touching the life you want to keep.
 
-Cut means it is not worth paying for at all. Unused subscriptions, recurring charges you forgot, or spending that is not buying much happiness or utility.
+Cut removes unused subscriptions, forgotten recurring charges, and spending that adds little happiness or utility.
 
 Reduce means you keep it but lower the ongoing cost. Insurance, phone plans, internet, memberships, or another recurring bill you have not compared in years.
 
@@ -39,10 +38,9 @@ The best changes are usually boring and repeat every month. Saving forty dollars
 
 And after the easy items, the biggest levers are usually housing, vehicles, and location. Those are harder changes, but they move the surplus much more than finding another three-dollar subscription.
 
-
 There is one more number you need besides normal spending: your bare-bones spending.
 
-That is not the amount you want to live on. It is the minimum amount the household could run on during a job loss, a business slowdown, or a major Bitcoin drawdown. Housing, food, utilities, insurance, healthcare, minimum debt payments, and the other expenses that do not disappear just because the month is bad.
+Bare-bones spending is the minimum amount the household could run on during a job loss, a business slowdown, or a major Bitcoin drawdown. Housing, food, utilities, insurance, healthcare, minimum debt payments, and the other expenses that do not disappear just because the month is bad.
 
 Normal spending tells the plan what your life costs. Bare-bones spending tells you how much cash it takes to buy time in an emergency. The next lesson uses that second number to size the reserve.
 
@@ -60,7 +58,7 @@ I would rather start with a slightly lower number that can move automatically ev
 
 Check the timing too. If all of the bills clear before the second paycheck, the month can feel tight even when the annual math works. Moving due dates or scheduling transfers after bills clear can make the same surplus much easier to maintain.
 
-And check withholding. A large refund can mean part of your surplus was trapped in payroll all year. Owing a surprise tax bill can mean the apparent surplus was never yours. The goal is not a perfect refund. It is making sure the monthly number is honest.
+And check withholding. A large refund can mean part of your surplus was trapped in payroll all year. Owing a surprise tax bill can mean the apparent surplus was never yours. Set withholding so the monthly surplus reflects the taxes you actually expect to owe.
 
 Once the surplus is reliable, it creates a flywheel. You improve cash flow, route the money into the plan, build more assets and flexibility, and that flexibility can create a larger surplus later. What breaks the flywheel is lifestyle creep, panic-selling, or trying to speed it up with leverage before the foundation is ready.
 
@@ -76,5 +74,5 @@ Use walkthrough 2.5 to enter the decision and confirm what Orange Plan calculate
 - [ ] The surplus is believable and sustainable.
 - [ ] Orange Plan calculated the Reserve target from the selected basis and months.
 - [ ] The monthly Reserve build amount is saved.
-- [ ] Expected life events are in the baseline and hypotheticals are in Scenarios.
+- [ ] Expected life events are in the baseline and hypotheticals are in Plan → Scenarios.
 - [ ] College funding has a commitment and source plan when it applies.

@@ -6,7 +6,6 @@ This lesson turns all of that into an order for the next dollar.
 
 Most people do not need another list of possible accounts. They need to know what happens to the next five hundred dollars after it hits the plan.
 
-
 The first claim is the Reserve, if it is still short.
 
 The reason it comes first is not that cash is the best long-term investment. It is that an empty reserve can turn the next emergency into credit-card debt or a forced Bitcoin sale. Once the reserve is fully funded, this step drops to zero and the money flows past it.
@@ -22,7 +21,6 @@ The third claim is extra debt, but only when the strategy from the Debt module s
 Week 3 saves this rung provisionally because Debt is taught next. We are not inserting a generic "pay debt first" rule. For now, this rung uses the Extra Debt amount currently saved in the plan, which may be zero. Module 4 decides the final amount and then returns it to this waterfall.
 
 Then we reach the part of the waterfall that usually receives most of the investable surplus: is this a Bridge dollar or a Legacy dollar?
-
 
 A Bridge dollar needs to stay accessible. That usually points toward a taxable brokerage, direct Bitcoin, cash, or another flexible account rather than locking all of it inside retirement accounts.
 

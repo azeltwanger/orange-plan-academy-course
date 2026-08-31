@@ -1,8 +1,8 @@
 # 6.4 · WALKTHROUGH — Build the retirement paycheck
 
-**Screen capture · about 16 minutes**
+**Screen capture · about 18 minutes**
 
-> This module builds every retirement-income input and strategy. The first saved full 1,000-path confidence run waits until Module 9, after Custody and Estate are also intentionally complete.
+> **V1 capture gate:** Verify final Retirement Income, Bitcoin Borrowing, guardrail, and Save-to-plan labels against the same Preview commit used for recording.
 
 ## Before recording
 
@@ -15,105 +15,103 @@
 
 ## 1 · Confirm retirement spending
 
-**DO** Plan → Retirement → current spending and retirement-age controls.
+**DO** Plan → Build & improve → Retirement income.
 
-**ENTER / VERIFY** baseline annual spending.
+**ENTER / VERIFY** planned retirement date · baseline annual spending · healthcare · irregular costs.
 
-**SAY** The number includes the expected lifestyle and healthcare. Required debt payments remain modeled separately.
+**SAY** Required debt payments remain modeled separately from living spending.
 
-**DO** Add large irregular costs as life events rather than inflating every year.
+**DO** Add large irregular costs as life events.
 
 ## 2 · Add the healthcare bridge when needed
 
-**DO** Life events → Expense change.
+**DO** Build & improve → Life events → Expense change.
 
-**ENTER** start at retirement · current annual premium / retained cost · duration until Medicare or the chosen transition date.
+**ENTER** start at retirement · current annual premium or retained cost · duration until Medicare or the chosen transition date.
 
-**⚠** Use current quotes. Do not reuse a premium from a recorded lesson.
+**⚠** Use current quotes.
 
 ## 3 · Build the income floor
 
-**DO** Planning profile / retirement benefits → Social Security and start age.
+**DO** Retirement income → Social Security, pensions, and other durable income.
 
-**ENTER** monthly benefit in the field that expects a monthly number.
+**ENTER** each amount in the unit the field requests.
 
-**ADD** spouse benefit · pension · other durable income using the current owning controls.
-
-**SEE** the floor in the Income chart and year-by-year detail.
+**SEE** the income floor and year-by-year funding update.
 
 ## 4 · Read the gap and Bridge years
 
-**DO** Plan → Income → Income Blueprint → click early retirement years.
+**DO** Open early retirement years in the year-by-year view.
 
-**SEE** spending need · durable income / floor · portfolio-funded gap.
+**SEE** spending need · durable income · portfolio-funded gap.
 
 **COUNT** the years before retirement-account access, Social Security, pension, or other income begins.
 
-**COMPARE** the gap with the accounts assigned to Bridge.
+**COMPARE** the gap with accounts assigned to Bridge.
 
-**⚠** A funded total portfolio can still have an access problem. The Bridge must exist in money the household can actually use.
+**SAY** The Bridge has to exist in money the household can actually access.
 
-## 5 · Compare Social Security timing when it matters
+## 5 · Compare Social Security timing when material
 
-**DO** Scenarios → claim at an earlier age versus a later age using current presets or a custom scenario.
+**DO** Plan → Scenarios → compare an earlier and later claiming age.
 
-**READ** benefit size · Bridge withdrawals · taxes · Bitcoin / portfolio remaining.
+**READ** benefit size · Bridge withdrawals · taxes · Bitcoin or portfolio remaining.
 
-**SAY** The larger check is not the only result. Waiting has a portfolio cost during the Bridge.
+**SAY** Waiting produces a larger check and uses more portfolio money during the Bridge. Compare both sides on the same plan.
 
-## 6 · Set the withdrawal strategy
+## 6 · Preview the withdrawal strategy
 
-**DO** Income Blueprint → Withdrawal order / income strategy.
+**DO** Retirement income → Withdrawal order / income strategy.
 
-**SHOW** account order and what is sold inside accounts as separate controls.
+**SHOW** account order and what is sold inside accounts as separate choices.
 
-**COMPARE** sequential with the current tax-aware or blended option.
+**COMPARE** Current with a tax-aware, sequential, proportional, or custom Preview supported by the build.
 
-**SEE** lifetime taxes · Bitcoin remaining · after-tax result update in preview.
+**SEE** simulation count · retirement dates · lifetime taxes · Bitcoin remaining · after-tax result.
 
-**SAY** Strict taxable-first can waste low ordinary-income brackets. Tax-aware uses the current year's mix instead of waiting for a later cliff.
+**DO** **Save to plan** only after the comparison is understood.
 
-**DO** Apply the chosen strategy only after the comparison is understood.
-
-**⚠** A preview is not the baseline until Apply is used. Revert removes the draft.
+**SAY** Current remains the saved strategy. Preview shows the proposed change until it is saved.
 
 ## 7 · Read the Reserve / Bridge / Legacy draw-and-refill system
 
-**SEE** the cash / Reserve buffer and the account timeframes.
+**SEE** the Reserve, account timeframes, and annual refill status.
 
-**SAY** Spending comes from the Reserve. Bridge refills it. Legacy refills Bridge when the plan and market conditions support it.
+**SAY** Spending comes from the Reserve. Bridge refills it. Legacy refills Bridge when the plan and market conditions support the move.
 
-**SHOW** where the annual update or refill status will appear once the operating plan is active.
-
-**⚠** Do not claim the app predicts a good sale day. The rule is an annual operating decision, not market timing.
+**⚠** The annual rule supports the decision; it does not predict a good sale day.
 
 ## 8 · Preview sell, borrow, or hold
 
-**DO** Retirement Borrowing / Bitcoin-backed loans workbench.
+**DO** Plan → Build & improve → Bitcoin borrowing.
 
-**COMPARE** sell-only / bracket-aware / borrow-first / custom options that exist in the current build.
+**COMPARE** sell-only, bracket-aware, borrow-first, or custom strategies supported by the current build.
 
-**SEE** interest · debt · Bitcoin at lender versus custody · after-tax result / projected legacy.
+**SEE** interest · debt · LTV · runway · Bitcoin at lender versus custody · taxes · simulation result · projected estate.
 
-**TOGGLE** step-up or estate assumptions only as a model, with current-law caveat.
+**DO** **Save borrowing strategy to plan** only when the decision belongs in Current.
 
-**⚠** Nothing changes until Apply. Verify lender terms and tax treatment outside the app before applying a borrowing strategy.
+**SAY** Orange Plan models the strategy. The actual sale, loan, collateral move, or repayment happens with the provider and gets recorded after completion.
 
-## 9 · Show, but do not complete, the confidence operating plan
+## 9 · Read the simulation result and spending guardrails
 
-**DO** Open the Retirement operating plan / What you can spend section.
+**DO** Return to Retirement income / annual spending review.
 
-**POINT OUT** the confidence target choices and annual guardrail area.
+**SEE** simulations worked out of 1,000 · through-age · freshness state.
 
-**SAY** Lesson 6.3 explained how this works. We are deliberately waiting to run and save the first full confidence result until Module 9, after every Build Your Plan area is complete.
+**SEE** lower guardrail · current retirement portfolio · upper guardrail · status.
 
-**⚠** Do not seed a placeholder result or read a percentage as final during this walkthrough.
+**SAY** The Orange Plan standard is 800 of 1,000. The guardrail summary says whether an annual spending review is needed.
+
+**IF REVIEW NEEDED** Open the separate review, read Current versus Preview spending and the simulation result, then stop before saving unless the demo state is meant to show an actual annual decision.
+
+**SEE** the 10% annual adjustment cap and Reserve refill status where the final V1 build displays them.
 
 ## 10 · Close Retirement income
 
-**DO** Build Your Plan → **Retirement income**.
+**DO** Plan → Build & improve → Retirement income.
 
-**SEE** retirement age and spending · Social Security · withdrawal strategy complete.
+**SEE** planned date and spending · income floor · Bridge · Social Security · withdrawal strategy · simulation result · guardrail status complete.
 
 ## Module 6 checkpoint
 
@@ -121,6 +119,7 @@
 - The income floor and gap can be stated from memory.
 - Bridge years and accessible funding are verified.
 - Social Security timing was compared when material.
-- A withdrawal order is applied and understood.
-- Sell / borrow / hold remains a preview unless intentionally applied.
-- The first full confidence run is explicitly deferred to Module 9.
+- A withdrawal strategy was previewed and intentionally saved.
+- Sell, borrow, or hold remains Preview until intentionally saved.
+- The simulation result is read as a count with a truthful freshness state.
+- The portfolio guardrail status is understood.

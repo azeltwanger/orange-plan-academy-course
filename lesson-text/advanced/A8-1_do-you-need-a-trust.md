@@ -38,7 +38,7 @@ Do not assume one sentence waiving the prudent-investor rule solves every concen
 
 Custody design is part of the legal design.
 
-A trustee holding one key in a two-of-three wallet does not automatically have control, but the other key holders, descriptor, provider, and legal authority determine what the arrangement actually does. A trustee holding a seed and passphrase may have full technical control even if the paperwork describes a different intention.
+One trustee key in a two-of-three wallet lacks unilateral technical control. The other key holders, descriptor, provider, and legal authority determine the full arrangement. A trustee holding both a seed and passphrase may have full technical control even when the paperwork describes a different intention.
 
 The legal ownership, tax treatment, and practical key control must tell the same story.
 

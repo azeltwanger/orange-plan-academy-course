@@ -8,7 +8,6 @@ Most people skip that step. They generate a wallet, write the words down, send t
 
 I want the first test to happen while the wallet contains only a small amount and you are calm.
 
-
 The general process is:
 
 1. Buy the device from the manufacturer or another source the manufacturer explicitly supports. Inspect the packaging and follow the vendor's current verification instructions.
@@ -48,13 +47,15 @@ The external demo will show the actual process using a throwaway wallet with no 
 
 ## Apply it
 
-Use walkthrough 7.4 to enter the decision and confirm what Orange Plan calculated.
+Use walkthrough 7.5 to enter the decision and confirm what Orange Plan calculated.
 
 ## Module checkpoint
 
-- [ ] Custody level is chosen for the amount and household.
+- [ ] Custody direction is one method or an intentional split, chosen on purpose.
+- [ ] Direct-control preference and the risk being reduced are stated.
+- [ ] Every meaningful Bitcoin pool has a no-secrets job, scale, method, remaining failure, and family path.
 - [ ] Hardware recovery is proven or clearly outstanding.
-- [ ] The top single point of failure has an owner and deadline.
+- [ ] The One-Failure Test identified the largest current weakness.
 - [ ] Important accounts and email are hardened.
-- [ ] No seed, key, passphrase, or PIN is stored in the app or course notes.
+- [ ] No seed, key, passphrase, PIN, password, descriptor contents, or exact recovery location is stored in the app, map, or course notes.
 - [ ] An encrypted backup of the plan data exists.

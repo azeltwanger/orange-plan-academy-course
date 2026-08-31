@@ -18,7 +18,6 @@ Pick for the job, not for who would be flattered to be asked. Then ask the perso
 
 A nontechnical executor can still be a good executor. They do not have to know how to recover a wallet personally. They need a clear process, the right legal authority, and a named technical or custody contact when the setup requires one.
 
-
 The baseline legal work usually includes four areas.
 
 A will directs how probate assets should be handled and names important roles. It does not control every asset automatically.
@@ -37,7 +36,7 @@ A will cannot move Bitcoin if nobody can recover the wallet. A seed phrase does 
 
 I would start with the baseline even if the estate is not large. A simple plan that exists and is properly executed is more useful than an advanced trust design that never gets finished.
 
-Trusts are an advanced decision. They may be useful for probate avoidance, incapacity planning, family control, asset protection, tax planning, or a complicated family situation. They are not automatically required because somebody owns Bitcoin, and a revocable trust is not automatically an estate-tax solution.
+Trusts are an advanced decision used for jobs such as probate avoidance, incapacity planning, family control, asset protection, tax planning, or a complicated family situation. Bitcoin ownership by itself does not establish the need, and a revocable trust generally serves different jobs from estate-tax planning.
 
 If the baseline is straightforward, a local estate-planning attorney who is willing to coordinate with the custody process may be enough.
 

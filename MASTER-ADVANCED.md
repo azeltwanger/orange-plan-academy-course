@@ -4,11 +4,11 @@ Every lesson is optional and gated by the condition or professional review state
 
 # Advanced Module 1 — Foundation
 
-## A1.1 How Orange Plan models Bitcoin inside the confidence check
+## A1.1 How Orange Plan models Bitcoin inside the simulation test
 
 > **Gate.** Research complete. Record after the current Help & Methodology copy and production settings are checked against the same app commit used on camera.
 
-The confidence number is only useful if the market paths are difficult enough to test the plan and honest enough not to flatter the Bitcoin assumption.
+The simulation count is only useful if the market paths are difficult enough to test the plan and honest enough not to flatter the Bitcoin assumption.
 
 Orange Plan does not treat Bitcoin like a generic stock with a slightly larger standard deviation. Bitcoin gets its own return process because the shape of its history is different.
 
@@ -24,13 +24,38 @@ The straight-line growth assumption still matters. If you enter an unrealistic r
 
 The comparison also uses matched paths. When you compare retiring at sixty with retiring at sixty-five, or selling with borrowing, both strategies are tested against the same market sequences. One strategy does not get easier weather by accident.
 
-And the result is repeatable. With the same inputs and same saved settings, the confidence result should not jump around merely because you pressed the button twice. If it changes, a market value, plan input, or strategy changed.
+And the result is repeatable. With the same inputs and same saved settings, the simulation result should not jump around merely because you pressed the button twice. If it changes, a market value, plan input, or strategy changed.
 
-The important boundary is that this is still a model. Historical data cannot tell us the exact future distribution, and Bitcoin can behave outside the ranges anybody expected. Use the confidence result to compare decisions and find fragility, not as a promise that a specific percentage will occur.
+The important boundary is that this is still a model. Historical data cannot tell us the exact future distribution, and Bitcoin can behave outside the ranges anybody expected. Use the simulation result to compare decisions and find fragility, not as a promise that a specific percentage will occur.
 
 The current distributions, volatility schedule, correlations, and caps belong in Help & Methodology rather than being frozen into an evergreen recording. Before filming, open that page and verify that the explanation and the production engine still match.
-
 ---
+
+So in this lesson, we're going to cover how Orange Plan creates the Bitcoin market paths behind the 1,000-simulation result.
+
+A useful simulation needs difficult market paths and a return process that matches the type of asset being modeled.
+
+Orange Plan gives Bitcoin its own return process because Bitcoin's historical return shape differs from a generic stock.
+
+The first difference is the tails. Extreme positive and negative years have occurred more often than a normal bell curve would suggest. A polite normal distribution can understate the outcomes a Bitcoin holder most needs to test.
+
+The second difference is asymmetry. Bitcoin has had very large upside years along with deep drawdowns. The model preserves room for both sides instead of forcing them into a perfectly symmetrical shape.
+
+The third difference is maturity. The volatility schedule can decline as Bitcoin grows, while difficult sequences remain possible. A larger asset requires more capital to move by the same percentage.
+
+The fourth difference is correlation. Bitcoin, stocks, inflation, and interest-rate conditions can become difficult at the same time. The simulation links major assets and economic variables so a stress path can contain several problems together.
+
+The straight-line growth assumption still controls the long-run premise. An unrealistic return assumption produces an unrealistic plan. Calibration keeps the random paths from adding another hidden layer of optimism: the median modeled result is checked against the deterministic projection under the same settings.
+
+Strategy comparisons use matched paths. Retiring at 60 and retiring at 65 face the same 1,000 market sequences. Selling and borrowing face the same sequences too. The comparison changes the decision while holding the weather constant.
+
+The result is repeatable. The same inputs and saved settings produce the same simulation count. A changed result points to a changed market value, plan fact, assumption, or strategy.
+
+The normal product uses the Orange Plan standard of 800 successful simulations out of 1,000. A custom standard belongs under Advanced model settings. Changing that standard changes which retirement date qualifies; it does not change the market paths or make the plan itself safer.
+
+Historical data cannot reveal the exact future distribution. Use the simulation count to compare decisions, find fragility, and understand the plan's dependence on sequence. Treat it as a model with documented assumptions.
+
+The current distributions, volatility schedule, correlations, caps, calibration tests, and through-age definition belong in Help & Methodology. Before recording, verify that the explanation and production engine still match the same app commit.
 
 # Advanced Module 3 — Allocation + Next-Dollar
 
@@ -155,7 +180,7 @@ The opportunity often appears after work ends and before the larger income sourc
 
 In those years, ordinary taxable income may be low. A Roth conversion deliberately recognizes income by moving money from a Traditional account to a Roth. The tax is paid now, the Traditional balance is reduced, and future qualified Roth withdrawals can be tax-free.
 
-The goal is not automatically to convert as much as possible. It is to compare the rate paid now with the expected lifetime cost of leaving the money in the Traditional account.
+Compare the rate paid now with the expected lifetime cost of leaving the money in the Traditional account, then choose the conversion range that uses the window well.
 
 Start with the ordinary-income brackets, but do not stop there.
 
@@ -236,7 +261,7 @@ States may look at domicile, days present, homes, work, business activity, famil
 
 A large transaction soon after departure can attract attention. Plan the move and the sale in the correct order, preserve evidence, and understand any part-year or sourcing rules.
 
-The lifestyle cost belongs in the comparison too. Family, healthcare, housing, work, community, travel, and climate can be worth more than the tax difference. A move that saves tax but makes life worse is not automatically an optimization.
+The lifestyle cost belongs in the comparison too. Family, healthcare, housing, work, community, travel, and climate can be worth more than the tax difference. Include the lifestyle cost beside the tax savings. The move needs to improve the full plan and the life attached to it.
 
 Use Scenarios to compare the plan under the destination state, including the effect on future taxes and the retirement date. Then take the actual transaction, dates, properties, business ties, and intended move to professionals who understand both states.
 
@@ -350,7 +375,7 @@ The trade-off is provider involvement, fees, identity checks, jurisdiction, priv
 
 DIY multisig removes the provider but leaves every task with the household: device diversity, key generation, backups, descriptor storage, software compatibility, transaction signing, inheritance, and periodic testing.
 
-Device diversity can reduce one-vendor risk. It can also make the process harder to maintain. Three different devices are not automatically safer if nobody can remember which software, cable, firmware, or signing order works ten years later.
+Device diversity can reduce one-vendor risk. It can also make the process harder to maintain. Device diversity helps only when the family can maintain the software, firmware, cables, and signing process over time.
 
 Institutional custody is a different trade-off, not a beginner version of self-custody.
 
@@ -360,7 +385,7 @@ The trade-off is counterparty risk, bankruptcy or operational risk, identity ver
 
 An intentional split is an architecture rather than another custody product.
 
-The household may keep a directly controlled sovereign reserve, use collaborative multisig for a family-accessible pool, and hold retirement-account exposure through a professional custodian. The point is not equal thirds or maximum fragmentation. Each pool needs a job and each additional method needs to remove a named failure.
+The household may keep a directly controlled sovereign reserve, use collaborative multisig for a family-accessible pool, and hold retirement-account exposure through a professional custodian. Give each pool a job and use each additional method to remove a named failure.
 
 The split becomes useful when one method, provider, device family, or person would otherwise threaten too much of the plan.
 
@@ -382,7 +407,7 @@ Use rough scale instead of putting exact balances into a custody worksheet: repl
 
 A single method can be appropriate for a replaceable or noncritical amount when recovery is proven and simplicity is valuable.
 
-A life-changing amount deserves a harder One-Failure Test. That does not automatically mean multisig. It means the household should be able to explain why no single failure can destroy too much of the plan.
+A life-changing amount deserves a harder One-Failure Test. The household should be able to explain why no single failure can destroy too much of the plan before choosing direct custody, multisig, institutional custody, or a split.
 
 Do not move a life-changing stack directly into a new advanced setup.
 
@@ -398,13 +423,13 @@ The safest architecture is not the one with the most hardware or the strongest i
 
 > **Gate.** Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.
 
-Self-custody removes a financial institution from the spending decision. It does not remove trust or responsibility. It moves more of both onto you.
+Self-custody removes a financial institution from the spending decision. Self-custody moves more trust and responsibility onto you.
 
 You still rely on the device manufacturer, firmware, wallet software, random-number generation, the computer or phone used to coordinate a transaction, and your own ability to verify what is happening.
 
 Your job is to generate keys safely, verify addresses on the trusted device, protect recovery material, maintain devices and software, understand fees, avoid scams, and leave a recovery process somebody else can use.
 
-That does not mean everybody should leave Bitcoin with an institution. It means moving into self-custody should follow skill and a real need for direct control rather than identity or pressure from somebody online.
+Move into self-custody when the skill and need for direct control justify owning the operational risk. Identity and online pressure are poor reasons to take that responsibility.
 
 Start with a trivial amount.
 
@@ -485,7 +510,7 @@ A useful second question is:
 
 > If this entire pool became inaccessible, would the financial plan still survive?
 
-The answer does not have to be that every pool is perfectly replaceable. The goal is to know which loss would be catastrophic and whether that exposure is intentional.
+Identify which loss would be catastrophic and decide whether that exposure is intentional.
 
 Separate custody pools can make sense when they have separate jobs or when one failure would otherwise threaten too much of the plan.
 
@@ -495,7 +520,7 @@ The opposite can also be true. A household that values simplicity and has a well
 
 Diversification has a cost: more devices, more providers, more interfaces, more recovery documents, and more ways for the family to get confused.
 
-The goal is not maximum fragmentation.
+Use the fewest independent systems that remove the catastrophic failures.
 
 Every additional method has to solve a named risk. Set a maximum exposure to one provider or failure domain only when the household can explain what that limit protects against.
 
@@ -531,7 +556,7 @@ Coin control lets an experienced user choose which UTXOs are spent. It can help 
 
 Address reuse reduces privacy because multiple receipts become easy to associate. A modern wallet normally generates a new receive address from the same wallet for each payment. Verify the address on the trusted signing device before sharing it.
 
-Keep tax lots and UTXOs conceptually separate. One is an on-chain spendable output; the other is a tax-accounting record. A transaction can combine UTXOs from several tax lots, and moving Bitcoin does not automatically establish which tax lot was sold.
+Keep tax lots and UTXOs conceptually separate. One is an on-chain spendable output; the other is a tax-accounting record. A transaction can combine UTXOs from several tax lots. The tax records still need to identify which lot was disposed of.
 
 Review UTXO health at the annual custody check: too many tiny outputs, any consolidation worth planning, current fees, privacy implications, and whether the wallet and backup still reconstruct the same addresses.
 
@@ -579,7 +604,7 @@ Do not assume one sentence waiving the prudent-investor rule solves every concen
 
 Custody design is part of the legal design.
 
-A trustee holding one key in a two-of-three wallet does not automatically have control, but the other key holders, descriptor, provider, and legal authority determine what the arrangement actually does. A trustee holding a seed and passphrase may have full technical control even if the paperwork describes a different intention.
+One trustee key in a two-of-three wallet lacks unilateral technical control. The other key holders, descriptor, provider, and legal authority determine the full arrangement. A trustee holding both a seed and passphrase may have full technical control even when the paperwork describes a different intention.
 
 The legal ownership, tax treatment, and practical key control must tell the same story.
 

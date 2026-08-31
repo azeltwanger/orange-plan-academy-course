@@ -2,6 +2,8 @@
 
 **Screen capture · about 18 minutes**
 
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
+
 ## Before recording
 
 - Have two or three months of categorized transactions available when possible.
@@ -45,7 +47,7 @@
 
 **DO** Exclude one genuine one-time item using the current review control.
 
-**SAY** One unusual month does not automatically change the baseline. Look for a repeated difference or a permanent change.
+**SAY** Update the baseline after a repeated difference or a permanent change. Keep a genuine one-time month in the activity history.
 
 ## 5 · Set the Reserve
 
@@ -97,7 +99,7 @@
 
 ## 9 · Close the area
 
-**DO** Return to **Build Your Plan → Cash flow**.
+**DO** Return to **Build & improve → Cash flow**.
 
 **SEE** Income · Living expenses · Reserve target · Life events complete, or **Nothing major coming** selected truthfully.
 

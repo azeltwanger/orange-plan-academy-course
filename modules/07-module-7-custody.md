@@ -46,7 +46,7 @@ Institutional custody protects against personal key loss and some technical mist
 
 An intentional split protects against one method or one provider taking out the entire plan. The trade-off is that the household now has more than one system to maintain and document.
 
-A split is not automatically better. Every additional setup needs to solve a named risk. Otherwise it is just extra complexity.
+Use a split when each additional setup solves a named risk the family can maintain.
 
 The next question is how much direct control matters to you.
 
@@ -84,7 +84,7 @@ Could one lost seed, one frozen account, one provider failure, one home disaster
 
 If the answer is yes, the setup may be too concentrated.
 
-Notice what this does not say. It does not say every large balance belongs in multisig. It does not say institutional custody is only for beginners. It does not say every household needs three different setups.
+Notice what this does not say. A large balance can use direct self-custody, collaborative multisig, institutional custody, or an intentional combination. The right architecture depends on the failures the household needs to survive.
 
 It says the architecture has to match the actual failure that matters.
 
@@ -100,7 +100,7 @@ I would use five steps to make the decision:
 4. Run the One-Failure Test.
 5. Choose the simplest architecture that passes.
 
-That last line matters. The goal is not the most advanced setup. It is the simplest setup that removes the household's real failure points and can still be maintained ten or twenty years from now.
+Choose the simplest setup that removes the household's real failure points and can still be maintained ten or twenty years from now.
 
 I would measure readiness with four outcomes instead of a wealth ladder:
 
@@ -109,7 +109,7 @@ I would measure readiness with four outcomes instead of a wealth ladder:
 3. Family continuity exists: somebody besides you understands the process and knows who to call.
 4. Catastrophic concentration is removed: no single device, person, provider, method, or location can materially destroy the plan.
 
-A household can reach the fourth outcome with one strong method or a thoughtful combination. It does not mean graduating every coin into one increasingly complicated wallet.
+A household can reach the fourth outcome with one strong method or a thoughtful combination that removes catastrophic concentration.
 
 Before the next lesson, make one decision and one action.
 
@@ -228,7 +228,7 @@ Two devices using the same vendor, firmware path, and companion software may not
 
 Two custodial accounts may still depend on the same underlying company.
 
-Redundancy means one event does not erase every recovery path. It does not mean buying more hardware until the diagram looks complicated.
+Redundancy gives the family another recovery path for the failure being addressed. Add equipment only when it solves that specific failure.
 
 Use the rough scale from the first lesson: replaceable, meaningful, or life-changing.
 
@@ -525,7 +525,7 @@ Record:
 
 ## 10 · Close Custody
 
-**DO** Return to Build Your Plan / Protect status.
+**DO** Return to Build & improve / Protect status.
 
 **SEE** the custody work represented honestly even when outside-device work remains.
 

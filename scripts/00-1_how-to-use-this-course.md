@@ -18,8 +18,8 @@ By the end of this course, you're going to walk out with a plan that tells you:
 
 1. When you can stop working.
 2. What age.
-3. What level of confidence you can have in that plan.
-4. How many future scenarios your plan's going to hold up in.
+3. How many of 1,000 simulations fund the plan as written.
+4. Which market and life scenarios the plan can handle.
 5. When you want to retire.
 6. How much you can spend.
 
@@ -30,7 +30,7 @@ This plan is going to adjust with all of your assets. For example:
 3. When Bitcoin goes up in a bull market.
 4. When your spending drifts.
 
-Your date is also going to move with that confidence level. This is a living financial plan that you can check in with regularly. This is not a spreadsheet you're going to build and use once and not open again. This is built and designed for you to be able to constantly make updates and changes and know exactly where you are at any given time.
+Your planned retirement date and simulation result are going to move as the information changes. This is a living financial plan you can update regularly so you know where you stand at any given time.
 
 == HOW THE COURSE IS STRUCTURED ==
 
@@ -38,20 +38,20 @@ The course is going to walk you through a Start Here module and then nine planni
 
 1. You're going to start by replacing the rough onboarding estimate with your real personal details, accounts, and holdings.
 2. You'll review the return, inflation, and other assumptions the first estimate used.
-3. You'll learn how to read the retirement date and confidence number, but the first full confidence run happens after the plan is built in Module 9.
+3. You'll learn how to read the first preliminary simulation result. Module 9 saves the completed current baseline after the facts and major strategy decisions are in place.
 4. I'll cover cash flow, which is your surplus, and how to protect it, and also future cash flow planning.
 5. Then your investment plan, which is your allocation and where every next dollar goes.
 6. Then debt, where every debt gets a job and the extra-payment decision feeds back into that contribution plan.
-7. How to build a retirement paycheck. This is going to cover tax strategy and your retirement income planning, and ways to optimize this to reduce your tax liability.
+7. How to build a retirement paycheck. This is going to cover tax strategy and your retirement income planning, and ways to improve this and reduce your tax liability.
 8. How you protect your plan with custody and estate planning and inheritance.
-9. How you finish and run the full plan, then keep it alive in around five minutes every month with one annual review, scenarios, and a yearly report.
+9. How you finish and run the full plan, then keep it alive in around five minutes every month with one annual review, focused scenarios, and a yearly copy of Your Plan.
 
 Each module is going to cover two different types of lessons:
 
 1. A teach lesson like this one, where I'm just talking to the camera and explaining concepts to you. I'm going to include real-world examples to help make these concepts easier for you to understand.
 2. A walkthrough of me sharing my screen in the app, walking you through how to implement the things that you're learning step by step in your own financial plan.
 
-Build Your Plan is the checklist underneath both of them. The lesson helps you make the decision, the walkthrough shows you where it goes, and the task completes when the real data exists in the app.
+Build & improve is the roadmap underneath both of them. The lesson helps you make the decision, the walkthrough shows you where it goes, and the task completes when the real data exists in the app.
 
 Some of these modules are also going to include worksheets, and for some of the worksheets, it's going to include more sensitive information, like, for example, your custody map and an heir letter that are involved in the inheritance planning. I'd recommend printing those out and filling them out with a pen and paper instead of filling out the information on your computer.
 

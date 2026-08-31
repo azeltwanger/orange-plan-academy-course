@@ -37,13 +37,13 @@ Third, what amount are you actually committing the plan to fund? That can be dif
 
 Fourth, where might the money come from? Current cash flow, existing cash, taxable investments, Bitcoin, a dedicated account, financing, or a combination.
 
-That fourth question does not mean we are deciding the debt strategy in this lesson. It simply keeps us from acting as if every future purchase must be fully saved in cash today. The Debt module decides whether financing improves or weakens the plan. The Allocation module decides how new dollars are invested and which money needs to stay accessible.
+Keep the financing question open here. The Debt module decides whether financing improves or weakens the plan. The Allocation module decides how new dollars are invested and which money needs to stay accessible.
 
 The timing still matters, but I do not want to turn it into a rigid rule that says every expense at a certain year must use a certain asset.
 
 If the bill is coming in the next year or two and the amount is non-negotiable, it should not depend on Bitcoin being at a favorable price when the bill arrives.
 
-If the event is more than five years away, Bitcoin can remain part of the funding plan. I would not automatically move the entire future expense into cash at year five. The part you have firmly promised should become less dependent on Bitcoin as the date gets closer. The flexible portion can stay invested longer.
+If the event is more than five years away, Bitcoin can remain part of the funding plan. Start protecting the firmly promised portion as the date gets closer. The flexible portion can stay invested longer.
 
 That is the useful principle: the closer the event gets, the more certain the required funding needs to become. The exact path depends on the flexibility of the amount, the date, and the rest of your plan.
 

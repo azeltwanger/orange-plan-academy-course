@@ -2,6 +2,8 @@
 
 **Screen capture · about 22 minutes**
 
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
+
 > This is Week 3. Debt strategy is taught in Week 4. Use the current Extra debt amount as entered today, then explicitly return to Routing after the Debt module if that amount changes.
 
 ## Before recording
@@ -129,7 +131,7 @@
 
 ## 11 · Stress-test the target
 
-**DO** Scenarios → use the Bear Market preset or a custom Bitcoin drawdown.
+**DO** Plan → Scenarios → use the Bear Market preset or a custom Bitcoin drawdown.
 
 **READ** the dollar loss, retirement-date change, and any Bridge or Reserve pressure.
 
@@ -150,7 +152,7 @@ Record on screen or paper:
 
 ## 13 · Close Allocation
 
-**DO** Build Your Plan → **Allocation**.
+**DO** Build & improve → **Allocation**.
 
 **SEE** account timeframes and target mix complete; allocation review recorded.
 

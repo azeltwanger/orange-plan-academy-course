@@ -1,15 +1,15 @@
-# 1.3 · What the confidence number actually counts
+# 1.3 · What the simulation count actually measures
 
 **Paste `00-STYLE.md` first, then this.**
 
 ## What it has to make obvious
-That confidence is a count of paths, not a probability of ruin.
+The result is a count of modeled paths and includes the planning age and freshness state.
 
 ## The visual
-1,000 thin translucent lines fanning right from a single point, most rising, some falling. A neutral horizontal 'plan funded' line. Lines finishing above it in good green, below in risk red. A counter reads '820 of 1,000 funded'.
+1,000 thin translucent paths fan right from one starting point. A counter reads **790 of 1,000 simulations worked**. Beneath it: **Money lasted through age 95**. A small state label cycles through Preliminary → Current → Stale → Unavailable, ending on Current.
 
 ## Labels and data
-820 / 1,000. Do not label the failures 'failure' — label them 'needed an adjustment'.
+Use 790 / 1,000 as an illustration. Show the Orange Plan standard separately as **800 of 1,000**. Keep planned retirement date and earliest modeled date as two different labels.
 
 ## Motion
-Lines draw left to right over ~2s, then the ones below the line dim and the counter ticks up to 820.
+Paths draw left to right, the count builds to 790, the through-age appears, then the freshness state settles on Current.
