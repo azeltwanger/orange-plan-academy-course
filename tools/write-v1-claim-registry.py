@@ -57,12 +57,33 @@ product language does not return.
 
 | id | lesson | pattern | layers | unless | why |
 |---|---|---|---|---|---|
-| V1-NO-TARGET | `*` | `(?:choose\|set\|select\|saved\|saving\|point out).{0,50}confidence target\|confidence target choices\|target confidence` |  |  | Normal users do not choose the standard. |
-| V1-NO-FIRST-WAIT | `*` | `first (?:saved )?full.{0,50}confidence\|first full 1,000-path confidence\|first full confidence run` |  |  | Foundation may show a preliminary simulation result. |
-| V1-NO-OLD-NAV | `*` | `Build Your Plan\|Strategy →\|Account menu → Report\|Open Report\|Report → Print` |  |  | Retired navigation and artifact paths stay out of active layers. |
-| V1-NO-APPLY | `*` | `Apply to plan\|apply to plan\|Run confidence\|run confidence` |  |  | V1 uses Preview, Save to plan, and recalculate. |
-| V1-NO-PLAN-GUIDE | `*` | `Plan Guide\|orange AI Review button` |  |  | Ask replaced the old product framing. |
-| V1-NO-RING | `*` | `confidence ring\|confidence number` |  |  | Customer teaching leads with a simulation count. |
+| V1-NO-TARGET-1 | `1.3` | `(?:choose\|set\|select\|saved\|saving\|point out).{0,50}confidence target\|confidence target choices\|target confidence` | master, script, lesson-text, module |  | Foundation does not ask a normal user to choose the standard. |
+| V1-NO-TARGET-6 | `6.3` | `(?:choose\|set\|select\|saved\|saving\|point out).{0,50}confidence target\|confidence target choices\|target confidence` | master, script, lesson-text, module, visual |  | The core retirement lesson uses the fixed standard. |
+| V1-NO-TARGET-64 | `6.4` | `(?:choose\|set\|select\|saved\|saving\|point out).{0,50}confidence target\|confidence target choices\|target confidence` | master, script, lesson-text, module |  | The walkthrough reads the standard instead of choosing it. |
+| V1-NO-TARGET-92 | `9.2` | `(?:choose\|set\|select\|saved\|saving\|point out).{0,50}confidence target\|confidence target choices\|target confidence` | master, script, lesson-text, module |  | The final review uses the Orange Plan standard. |
+| V1-NO-TARGET-93 | `9.3` | `(?:choose\|set\|select\|saved\|saving\|point out).{0,50}confidence target\|confidence target choices\|target confidence` | master, script, lesson-text, module |  | The final walkthrough uses the Orange Plan standard. |
+| V1-NO-FIRST-WAIT-01 | `0.1` | `first (?:saved )?full.{0,50}confidence\|first full 1,000-path confidence\|first full confidence run` | master, script, lesson-text, module |  | The first useful Plan result can be preliminary. |
+| V1-NO-FIRST-WAIT-13 | `1.3` | `first (?:saved )?full.{0,50}confidence\|first full 1,000-path confidence\|first full confidence run` | master, script, lesson-text, module |  | Foundation explains the preliminary result. |
+| V1-NO-FIRST-WAIT-63 | `6.3` | `first (?:saved )?full.{0,50}confidence\|first full 1,000-path confidence\|first full confidence run` | master, script, lesson-text, module |  | Retirement Income builds on an existing result. |
+| V1-NO-FIRST-WAIT-92 | `9.2` | `first (?:saved )?full.{0,50}confidence\|first full 1,000-path confidence\|first full confidence run` | master, script, lesson-text, module |  | Module 9 confirms the completed baseline. |
+| V1-NO-OLD-NAV-02 | `0.2` | `Build Your Plan\|Strategy →\|Account menu → Report\|Open Report\|Report → Print\|Plan Guide\|orange AI Review button` | master, script, lesson-text, module |  | Ask and the V1 shell replace the old framing. |
+| V1-NO-OLD-NAV-14 | `1.4` | `Build Your Plan\|Strategy →\|Account menu → Report\|Open Report\|Report → Print` | master, script, lesson-text, module |  | Foundation follows the V1 shell. |
+| V1-NO-OLD-NAV-25 | `2.5` | `Build Your Plan\|Strategy →\|Account menu → Report\|Open Report\|Report → Print` | master, script, lesson-text, module |  | Cash Flow follows the V1 shell. |
+| V1-NO-OLD-NAV-35 | `3.5` | `Build Your Plan\|Strategy →\|Account menu → Report\|Open Report\|Report → Print` | master, script, lesson-text, module |  | Allocation follows the V1 shell. |
+| V1-NO-OLD-NAV-42 | `4.2` | `Build Your Plan\|Strategy →\|Account menu → Report\|Open Report\|Report → Print` | master, script, lesson-text, module |  | Debt follows the V1 shell. |
+| V1-NO-OLD-NAV-53 | `5.3` | `Build Your Plan\|Strategy →\|Account menu → Report\|Open Report\|Report → Print` | master, script, lesson-text, module |  | Tax follows the V1 shell. |
+| V1-NO-OLD-NAV-64 | `6.4` | `Build Your Plan\|Strategy →\|Account menu → Report\|Open Report\|Report → Print` | master, script, lesson-text, module |  | Retirement Income follows the V1 shell. |
+| V1-NO-OLD-NAV-75 | `7.5` | `Build Your Plan\|Strategy →\|Account menu → Report\|Open Report\|Report → Print` | master, script, lesson-text, module |  | Protect follows the V1 shell. |
+| V1-NO-OLD-NAV-85 | `8.5` | `Build Your Plan\|Strategy →\|Account menu → Report\|Open Report\|Report → Print` | master, script, lesson-text, module |  | Family handoff follows the V1 shell. |
+| V1-NO-OLD-NAV-93 | `9.3` | `Build Your Plan\|Strategy →\|Account menu → Report\|Open Report\|Report → Print` | master, script, lesson-text, module |  | The capstone follows the V1 shell. |
+| V1-NO-APPLY-35 | `3.5` | `Apply to plan\|apply to plan\|Run confidence\|run confidence` | master, script, lesson-text, module |  | Allocation uses Preview and Save to plan. |
+| V1-NO-APPLY-53 | `5.3` | `Apply to plan\|apply to plan\|Run confidence\|run confidence` | master, script, lesson-text, module |  | Tax uses Preview and Save to plan. |
+| V1-NO-APPLY-64 | `6.4` | `Apply to plan\|apply to plan\|Run confidence\|run confidence` | master, script, lesson-text, module |  | Retirement Income uses Preview and Save to plan. |
+| V1-NO-APPLY-92 | `9.2` | `Apply to plan\|apply to plan\|Run confidence\|run confidence` | master, script, lesson-text, module |  | Scenarios use Current versus Preview. |
+| V1-NO-APPLY-93 | `9.3` | `Apply to plan\|apply to plan\|Run confidence\|run confidence` | master, script, lesson-text, module |  | The capstone uses Current versus Preview. |
+| V1-NO-RING-13 | `1.3` | `confidence ring\|confidence number` | master, script, lesson-text, module, visual |  | Foundation leads with a simulation count. |
+| V1-NO-RING-63 | `6.3` | `confidence ring\|confidence number` | master, script, lesson-text, module, visual |  | Retirement Income leads with a simulation count. |
+| V1-NO-RING-92 | `9.2` | `confidence ring\|confidence number` | master, script, lesson-text, module, visual |  | The final review leads with a simulation count. |
 | V1-NO-CORE-6095 | `6.3` | `60.{0,20}80.{0,20}95` | master, script, lesson-text, module, visual |  | The core guardrail view uses portfolio levels. |
 | V1-NO-RECOMMENDATION-SETUP | `3.1` | `The four paths on the screen are not recommendations` | master, script, lesson-text, module |  | The lesson says the affirmative fact directly. |
 
