@@ -5,6 +5,8 @@
 ## What it has to make obvious
 The central result is a count, and the annual spending decision comes from portfolio guardrail levels.
 
+The core reading order is: **lower guardrail → current retirement portfolio → upper guardrail**.
+
 ## The visual
 Top: **790 of 1,000 simulations worked** with **Money lasted through age 95** and a Current state label.
 
