@@ -92,8 +92,33 @@ PASSED
   ok  claim V1-ASK-VISUAL (0.2): visual: PASS
   ok  claim V1-ACTIVITY-1 (1.4): master: PASS · script: PASS · module: PASS
   ok  claim V1-TRANSFER-1 (1.4): master: PASS · script: PASS · module: PASS
-  ok  claim V1-NO-PLAN-GUIDE: correctly absent
-  ok  claim V1-NO-RING: correctly absent
+  ok  claim V1-NO-TARGET-1 (1.3): correctly absent from every layer
+  ok  claim V1-NO-TARGET-6 (6.3): correctly absent from every layer
+  ok  claim V1-NO-TARGET-64 (6.4): correctly absent from every layer
+  ok  claim V1-NO-TARGET-92 (9.2): correctly absent from every layer
+  ok  claim V1-NO-TARGET-93 (9.3): correctly absent from every layer
+  ok  claim V1-NO-FIRST-WAIT-01 (0.1): correctly absent from every layer
+  ok  claim V1-NO-FIRST-WAIT-13 (1.3): correctly absent from every layer
+  ok  claim V1-NO-FIRST-WAIT-63 (6.3): correctly absent from every layer
+  ok  claim V1-NO-FIRST-WAIT-92 (9.2): correctly absent from every layer
+  ok  claim V1-NO-OLD-NAV-02 (0.2): correctly absent from every layer
+  ok  claim V1-NO-OLD-NAV-14 (1.4): correctly absent from every layer
+  ok  claim V1-NO-OLD-NAV-25 (2.5): correctly absent from every layer
+  ok  claim V1-NO-OLD-NAV-35 (3.5): correctly absent from every layer
+  ok  claim V1-NO-OLD-NAV-42 (4.2): correctly absent from every layer
+  ok  claim V1-NO-OLD-NAV-53 (5.3): correctly absent from every layer
+  ok  claim V1-NO-OLD-NAV-64 (6.4): correctly absent from every layer
+  ok  claim V1-NO-OLD-NAV-75 (7.5): correctly absent from every layer
+  ok  claim V1-NO-OLD-NAV-85 (8.5): correctly absent from every layer
+  ok  claim V1-NO-OLD-NAV-93 (9.3): correctly absent from every layer
+  ok  claim V1-NO-APPLY-35 (3.5): correctly absent from every layer
+  ok  claim V1-NO-APPLY-53 (5.3): correctly absent from every layer
+  ok  claim V1-NO-APPLY-64 (6.4): correctly absent from every layer
+  ok  claim V1-NO-APPLY-92 (9.2): correctly absent from every layer
+  ok  claim V1-NO-APPLY-93 (9.3): correctly absent from every layer
+  ok  claim V1-NO-RING-13 (1.3): correctly absent from every layer
+  ok  claim V1-NO-RING-63 (6.3): correctly absent from every layer
+  ok  claim V1-NO-RING-92 (9.2): correctly absent from every layer
   ok  claim V1-NO-CORE-6095 (6.3): correctly absent from every layer
   ok  claim V1-NO-RECOMMENDATION-SETUP (3.1): correctly absent from every layer
 
@@ -315,31 +340,11 @@ NOTES (reported, do not fail)  —  108
   [BEATS] 9.3 WALKTHROUGH — Finish, test, review, and 
           no "YOU ARE DONE WHEN" in any layer — lesson does not close with the three beats, so it contributes nothing to its checkpoint
 
-FAILURES  —  11
+FAILURES  —  1
   [CLAIMS] V1-GUARD-6 (6.3)
           MUST be present in every listed layer — master: PASS · script: PASS · lesson-text: PASS · module: PASS · visual: FAIL
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./MASTER-COURSE.md:3081  You will build: A completed baseline, saved confidence target and retire
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — modules/09-module-9-finish-test-maintain.md:5  You will build: A completed baseline, saved confidence target and retire
-  [CLAIMS] V1-NO-FIRST-WAIT
-          MUST NOT appear — ./COURSE-REBUILD-REPORT.md:15  - Preserved deterministic onboarding and delayed the first full confiden
-  [CLAIMS] V1-NO-FIRST-WAIT
-          MUST NOT appear — ./PRE-DICTATION-RESET-STATUS.md:5  The reset restored Module 3 Allocation and Module 4 Debt, rebuilt future
-  [CLAIMS] V1-NO-FIRST-WAIT
-          MUST NOT appear — ./PROFESSIONAL-RESEARCH-VERIFICATION.md:22  - The first full 1,000-path confidence result is saved in Module 9 after
-  [CLAIMS] V1-NO-OLD-NAV
-          MUST NOT appear — ./COURSE-REBUILD-REPORT.md:8  - Kept Build Your Plan as the implementation roadmap without forcing its
-  [CLAIMS] V1-NO-OLD-NAV
-          MUST NOT appear — ./COURSE-REBUILD-REPORT.md:22  Build Your Plan lists Debt before Allocation. The course teaches Allocat
-  [CLAIMS] V1-NO-OLD-NAV
-          MUST NOT appear — ./DICTATION-SOURCE-MAP.md:9  Austin's original course orientation remains the spoken authority. The r
-  [CLAIMS] V1-NO-OLD-NAV
-          MUST NOT appear — ./SLIDE-DECK-AUTHORITY.md:15  Build Your Plan remains the implementation roadmap even when its card or
-  [CLAIMS] V1-NO-APPLY
-          MUST NOT appear — ./COURSE-LIFECYCLE-REVISION-REPORT.md:9  - Full 1,000-run confidence check moved to Module 9.
 
-52 lessons · 25 registry rules · 182 files scanned · 11 failures, 108 notes
+52 lessons · 46 registry rules · 182 files scanned · 1 failures, 108 notes
 
 ```
 
