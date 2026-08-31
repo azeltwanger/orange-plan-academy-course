@@ -5,9 +5,9 @@
 > safety/compliance bucket separately because the negative itself may be
 > the information the viewer needs.
 
-- **0** ordinary direct-voice candidates
-- **1** safety/compliance candidates
-- **1** total candidates across **1** files
+- **2** ordinary direct-voice candidates
+- **2** safety/compliance candidates
+- **4** total candidates across **4** files
 
 ## Editing rule
 
@@ -15,7 +15,22 @@ Say the useful fact first. Keep the negative only when removing it would
 make the viewer more likely to take an unsafe action or misunderstand a
 material boundary.
 
-## `scripts/07-2_set-up-a-hardware-wallet-and-prove-recovery.md`
+## `scripts/03-2_give-each-dollar-a-job-before-choosing-the-investment.md`
 
-- **L40 · safety/compliance candidate · cross-sentence reversal**
-  - Redundancy makes sure one event cannot destroy every recovery path. Each additional copy or location should solve a specific failure.
+- **L25 · direct-voice candidate · cross-sentence reversal**
+  - I think those are useful for understanding the pattern, but they are not rigid account rules. The current app makes the retirement access question more specific: Reserve is available now, Bridge is the money needed before age fifty-nine and a half, and Legacy is the money for after that point.
+
+## `scripts/06-2_choose-withdrawal-order-and-refill-rule.md`
+
+- **L59 · safety/compliance candidate · cross-sentence reversal**
+  - It is not a complete strategy if the only answer to every cash need is a new loan. The tools can be mixed across years.
+
+## `scripts/08-1_choose-who-is-in-charge-and-put-the-legal-baseline-in-place.md`
+
+- **L31 · safety/compliance candidate · cross-sentence reversal**
+  - That authority generally ends at death, which is why it is not a replacement for the executor or trustee role. A healthcare directive covers medical decisions and wishes.
+
+## `scripts/advanced/A8-1_do-you-need-a-trust.md`
+
+- **L7 · direct-voice candidate · cross-sentence reversal**
+  - It is not an automatic upgrade because the estate owns Bitcoin. Start with the triggers.
