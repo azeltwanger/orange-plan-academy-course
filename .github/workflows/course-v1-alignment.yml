@@ -46,6 +46,7 @@ jobs:
           python3 tools/build-dictation-order.py
           python3 tools/build-film-order.py
           python3 tools/build-shoot-list.py
+          python3 tools/write-production-checklist-template.py
           python3 tools/build-production-checklist.py
           python3 tools/build-circle-structure.py
           python3 tools/direct-voice-audit.py
@@ -80,7 +81,8 @@ jobs:
             tools/sync-lesson-text.py \
             tools/direct-voice-audit.py \
             tools/check-v1-course-alignment.py \
-            tools/write-v1-claim-registry.py
+            tools/write-v1-claim-registry.py \
+            tools/write-production-checklist-template.py
           run_check "V1 product contract" python3 tools/check-v1-course-alignment.py
           run_check "Cross references" python3 tools/check-crossrefs.py
           run_check "Visual references" python3 tools/check-visuals.py
