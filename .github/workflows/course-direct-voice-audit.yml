@@ -1,9 +1,6 @@
 name: Course direct-voice audit
 
 on:
-  push:
-    branches:
-      - course-v1-alignment-direct-voice
   workflow_dispatch:
 
 permissions:
@@ -11,7 +8,6 @@ permissions:
 
 jobs:
   audit:
-    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
