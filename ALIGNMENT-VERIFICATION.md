@@ -77,6 +77,7 @@ PASSED
   ok  claim V1-DATES-1 (1.3): master: PASS · script: PASS · lesson-text: PASS · module: PASS
   ok  claim V1-DIRECT-1 (3.1): master: PASS · script: PASS · lesson-text: PASS · module: PASS
   ok  claim V1-COUNT-6 (6.3): master: PASS · script: PASS · lesson-text: PASS · module: PASS
+  ok  claim V1-GUARD-6 (6.3): master: PASS · script: PASS · lesson-text: PASS · module: PASS · visual: PASS
   ok  claim V1-HOME-9 (9.1): master: PASS · script: PASS · lesson-text: PASS · module: PASS
   ok  claim V1-CASHFLOW-9 (9.1): master: PASS · script: PASS · lesson-text: PASS · module: PASS
   ok  claim V1-PLAN-9 (9.1): master: PASS · script: PASS · lesson-text: PASS · module: PASS
@@ -336,15 +337,13 @@ NOTES (reported, do not fail)  —  108
   [BEATS] 9.3 WALKTHROUGH — Finish, test, review, and 
           no "YOU ARE DONE WHEN" in any layer — lesson does not close with the three beats, so it contributes nothing to its checkpoint
 
-FAILURES  —  1
-  [CLAIMS] V1-GUARD-6 (6.3)
-          MUST be present in every listed layer — master: PASS · script: PASS · lesson-text: PASS · module: PASS · visual: FAIL
+FAILURES  —  0
 
-52 lessons · 46 registry rules · 183 files scanned · 1 failures, 108 notes
+52 lessons · 46 registry rules · 183 files scanned · 0 failures, 108 notes
 
 ```
 
-**Exit:** `1`
+**Exit:** `0`
 
 ## Cold read
 
