@@ -5,9 +5,9 @@
 > safety/compliance bucket separately because the negative itself may be
 > the information the viewer needs.
 
-- **1** ordinary direct-voice candidates
+- **0** ordinary direct-voice candidates
 - **1** safety/compliance candidates
-- **2** total candidates across **2** files
+- **1** total candidates across **1** files
 
 ## Editing rule
 
@@ -19,8 +19,3 @@ material boundary.
 
 - **L40 · safety/compliance candidate · cross-sentence reversal**
   - Redundancy makes sure one event cannot destroy every recovery path. Each additional copy or location should solve a specific failure.
-
-## `scripts/advanced/A7-1_compare-passphrase-multisig-institutional-custody-and-an-intentional-split.md`
-
-- **L23 · direct-voice candidate · same-sentence reversal**
-  - The wallet also depends on public configuration information: the keys or xpubs, threshold, script type, derivation paths, fingerprints, and related descriptor or wallet-policy data. That information cannot sign by itself, but it is important for reconstructing the intended wallet and can reveal privacy information.

@@ -439,7 +439,7 @@ A figure with no example framing. Say where it comes from, or drop it.
   "core_capture_sessions": 10,
   "adv_n": 14,
   "adv_min": 42,
-  "adv_w": 6434
+  "adv_w": 6448
 }
 stamped: README.md, MASTER-COURSE.md
 note: ['README.md: no METRICS block', 'MASTER-COURSE.md: no METRICS block']
@@ -451,9 +451,9 @@ note: ['README.md: no METRICS block', 'MASTER-COURSE.md: no METRICS block']
 ## Direct-voice audit
 
 ```text
-wrote DIRECT-VOICE-AUDIT.md: 1 ordinary, 1 safety/compliance candidates
+wrote DIRECT-VOICE-AUDIT.md: 0 ordinary, 1 safety/compliance candidates
 
 ```
 
-**Exit:** `1`
+**Exit:** `0`
 
