@@ -455,7 +455,7 @@ note: ['README.md: no METRICS block', 'MASTER-COURSE.md: no METRICS block']
 ## Direct-voice audit
 
 ```text
-wrote DIRECT-VOICE-AUDIT.md: 31 ordinary, 58 safety/compliance candidates
+wrote DIRECT-VOICE-AUDIT.md: 10 ordinary, 7 safety/compliance candidates
 
 ```
 
