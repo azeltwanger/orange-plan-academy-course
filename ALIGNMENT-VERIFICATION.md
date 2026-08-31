@@ -49,7 +49,7 @@ V1 COURSE ALIGNMENT FAILURES
  - modules/09-module-9-finish-test-maintain.md:319: retired report route: Open Report. **READ**: 1. Position — does today's account and debt picture match reality?
  - modules/09-module-9-finish-test-maintain.md:252: retired apply/run language: Run confidence**. **SEE** 1,000 test runs complete against the full baseline. **SAY** This i
 
-34 failures across 173 active files
+34 failures across 172 active files
 
 ```
 
@@ -76,8 +76,7 @@ WALKTHROUGH NAMING ANOTHER MODULE'S LESSON  —  0
 ```text
 visuals: 42 prompts covering 35 of 52 teach lessons
 
-ORPHAN  —  1
-  9-2c_current-vs-preview.md: filename does not encode a lesson number
+ORPHAN  —  0
 
 H1 DRIFT  —  0
 
@@ -102,7 +101,7 @@ GAP (lesson with no visual)  —  17
 
 ```
 
-**Exit:** `1`
+**Exit:** `0`
 
 ## Layer parity
 
@@ -471,7 +470,7 @@ FAILURES  —  65
   [CLAIMS] V1-NO-RECOMMENDATION-SETUP (3.1)
           MUST NOT appear in any layer — found in master: "The four paths on the screen are not recommendations" · module: "The four paths on the screen are not recommendations"
 
-52 lessons · 21 registry rules · 185 files scanned · 65 failures, 108 notes
+52 lessons · 21 registry rules · 184 files scanned · 65 failures, 108 notes
 
 ```
 
