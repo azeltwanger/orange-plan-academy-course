@@ -1,0 +1,103 @@
+name: Apply V1 course alignment and direct-language pass
+
+on:
+  push:
+    branches:
+      - course-v1-alignment-direct-language
+    paths:
+      - alignment-pass/RUN
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: course-v1-alignment-direct-language
+          fetch-depth: 0
+
+      - name: Apply alignment pass
+        run: python3 alignment-pass/apply.py
+
+      - name: Verify V1 teaching contracts
+        run: |
+          python3 - <<'PY'
+          from pathlib import Path
+
+          required = {
+              'scripts/00-2_how-to-use-orange-plan-ai.md': [
+                  'Ask is a second set of eyes',
+                  'Any proposed planning change belongs in Preview',
+              ],
+              'scripts/01-3_what-the-onboarding-retirement-age-actually-means.md': [
+                  'The normal Orange Plan standard is 800 successful simulations out of 1,000',
+                  'Preliminary', 'Current', 'Stale', 'Unavailable',
+                  'planned retirement date', 'earliest modeled retirement date',
+              ],
+              'scripts/06-3_use-plan-confidence-and-guardrails-to-adjust-spending.md': [
+                  'lower guardrail', 'current retirement-portfolio value', 'upper guardrail',
+                  '800 successful simulations out of 1,000',
+              ],
+              'scripts/09-1_keep-the-plan-current-without-rebuilding-it.md': [
+                  'Home', 'Cash Flow', 'Plan', 'Protect', 'Needs Attention',
+              ],
+              'scripts/09-2_test-decisions-and-read-the-finished-plan.md': [
+                  'Current is the saved plan', 'Preview is the proposed change', 'Your Plan',
+              ],
+              'scripts/03-1_set-the-bitcoin-allocation-you-can-actually-hold.md': [
+                  'Use the four paths to identify where you are today.',
+              ],
+              'DIRECT-LANGUAGE-AUDIT.md': ['affirmative-first'],
+              'V1-COURSE-ALIGNMENT.md': ['Substantive rewrites'],
+          }
+          for name, phrases in required.items():
+              path = Path(name)
+              assert path.exists(), name
+              text = path.read_text(encoding='utf-8')
+              for phrase in phrases:
+                  assert phrase.lower() in text.lower(), f'{name}: missing {phrase}'
+
+          active = '\n'.join(
+              p.read_text(encoding='utf-8')
+              for p in Path('scripts').rglob('*.md')
+              if p.name not in {'README.md', 'VOICE-GUIDE.md'}
+          )
+          forbidden = [
+              'The four paths on the screen are not recommendations',
+              'choose the confidence target',
+              'Choose the confidence target',
+              '60 cut → 80 hold → 95 raise',
+              'the first full confidence run happens after the plan is built in Module 9',
+          ]
+          for phrase in forbidden:
+              assert phrase.lower() not in active.lower(), phrase
+
+          for path in Path('scripts').glob('*WALKTHROUGH*.md'):
+              text = path.read_text(encoding='utf-8')
+              assert 'V1 FILMING HOLD' in text, path
+          PY
+
+      - name: Verify references and formatting
+        run: |
+          python3 tools/check-crossrefs.py
+          git diff --check
+
+      - name: Remove one-time runner
+        run: |
+          rm -rf alignment-pass
+          rm -f .github/workflows/apply-v1-course-alignment.yml
+
+      - name: Commit completed alignment pass
+        run: |
+          git config user.name "OpenAI Course Alignment Pass"
+          git config user.email "noreply@openai.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Align course to V1 and lead with the point"
+          git push origin HEAD:course-v1-alignment-direct-language
