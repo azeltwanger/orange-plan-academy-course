@@ -76,18 +76,15 @@ WALKTHROUGH NAMING ANOTHER MODULE'S LESSON  —  0
 ```text
 visuals: 42 prompts covering 35 of 52 teach lessons
 
-ORPHAN  —  3
-  4-4_asset-location.md: 4.4 is not a teach lesson in either master
+ORPHAN  —  1
   9-2c_current-vs-preview.md: filename does not encode a lesson number
-  A3-2_four-plays.md: A3.2 is not a teach lesson in either master
 
 H1 DRIFT  —  0
 
-GAP (lesson with no visual)  —  19
+GAP (lesson with no visual)  —  17
   1.4  WALKTHROUGH — Replace the onboarding estimate with real 
   2.5  WALKTHROUGH — Build cash flow, the Reserve, and expected
   3.2  Give each dollar a job before choosing the investment
-  3.4  Put the right holdings inside the right accounts
   3.5  WALKTHROUGH — Route the investable surplus
   5.3  WALKTHROUGH — Reconcile basis and model the tax window
   6.4  WALKTHROUGH — Build the retirement paycheck
@@ -98,7 +95,6 @@ GAP (lesson with no visual)  —  19
   9.3  WALKTHROUGH — Finish, test, review, and save the plan
   A1.1  How Orange Plan models Bitcoin inside the simulation tes
   A4.1  Borrow against Bitcoin without turning a drawdown into l
-  A4.2  The four ways debt can strengthen a plan, and how each o
   A5.3  State taxes and relocation: measure the lever before mov
   A7.2  What self-custody actually asks of you
   A7.3  Run the One-Failure Test across methods and providers
