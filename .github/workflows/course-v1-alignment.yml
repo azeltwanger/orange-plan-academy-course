@@ -36,7 +36,7 @@ jobs:
       - name: Synchronize active course layers
         run: |
           set -euo pipefail
-          python3 tools/sync-walkthroughs-to-master.py 1.4 6.4 9.3
+          python3 tools/rebuild-masters-from-scripts.py
           python3 tools/write-v1-claim-registry.py
           python3 tools/sync-lesson-text.py
           python3 tools/build-module-gates.py
@@ -49,7 +49,6 @@ jobs:
           python3 tools/write-production-checklist-template.py
           python3 tools/build-production-checklist.py
           python3 tools/build-circle-structure.py
-          python3 tools/direct-voice-audit.py
 
       - name: Run verification suite
         id: verify
@@ -57,7 +56,8 @@ jobs:
         shell: bash
         run: |
           set +e
-          report="ALIGNMENT-VERIFICATION.md"
+          rm -f ALIGNMENT-VERIFICATION.md DIRECT-VOICE-AUDIT.md
+          report="/tmp/ALIGNMENT-VERIFICATION.md"
           printf '# V1 course alignment verification\n\n' > "$report"
           printf 'Branch: `course-v1-alignment-direct-voice`\n\n' >> "$report"
           overall=0
@@ -77,6 +77,7 @@ jobs:
           run_check "Python compilation" python3 -m py_compile \
             tools/apply-v1-alignment-direct-voice.py \
             tools/preflight-v1-alignment.py \
+            tools/rebuild-masters-from-scripts.py \
             tools/sync-walkthroughs-to-master.py \
             tools/sync-lesson-text.py \
             tools/direct-voice-audit.py \
@@ -91,6 +92,7 @@ jobs:
           run_check "Course metrics" python3 tools/course-metrics.py
           run_check "Direct-voice audit" python3 tools/direct-voice-audit.py
 
+          cp "$report" ALIGNMENT-VERIFICATION.md
           exit $overall
 
       - name: Commit aligned course and verification report
