@@ -14,7 +14,7 @@ The simulation count measures the saved plan under the selected assumptions. It 
 
 🎬 VISUAL — 1,000 plan paths ending in a large “790 of 1,000” count, with the through-age shown underneath.
 
-The normal Orange Plan standard is 800 successful simulations out of 1,000. Orange Plan uses that fixed standard to calculate the earliest modeled retirement date. Normal users see one clear standard instead of another percentage control to manage.
+The normal Orange Plan standard is 800 of 1,000 successful simulations. Orange Plan uses that fixed standard to calculate the earliest modeled retirement date. Normal users see one clear standard instead of another percentage control to manage.
 
 The planned retirement date remains separate. That is the date the household currently intends to use. The earliest modeled date is the first date that reaches the Orange Plan standard.
 
