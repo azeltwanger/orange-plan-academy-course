@@ -6,64 +6,7 @@
 
 ## 3.1 Set the Bitcoin allocation you can actually hold
 
-*`TEACH` · ~4.7 min · PRE-DICTATION FILMING DRAFT*
-
-In today's lesson, we're going to answer the question almost every Bitcoiner asks: how much Bitcoin should be in the plan?
-
-I do not think the honest answer is a percentage I hand you.
-
-The amount you can responsibly hold depends on how well you understand Bitcoin, what role it has in your plan, how much volatility you have already lived through, and whether the rest of your financial life can support the position.
-
-The price going up is not conviction. Conviction is understanding what you own well enough that a major drawdown does not change the thesis or force a decision you were not prepared to make.
-
-> **Visual:** Week 3 allocation deck, Bitcoin path: Foundation, Integration, Optimization, Sovereign.
-
-The four paths on the screen are not recommendations. They are a way to describe where somebody actually is.
-
-Foundation is a smaller position while you are still learning. Bitcoin is a hedge or an experiment, and the custody setup may still be an exchange or ETF.
-
-Integration means Bitcoin is a real part of the financial plan. You understand why you own it, it may replace some of the traditional growth exposure, and you are starting to build custody skill.
-
-Optimization means Bitcoin is the main growth driver. You have already lived through real volatility, the position is intentional, and the reserve, debt, taxes, and custody are being designed around it.
-
-Sovereign means Bitcoin is the primary long-term money in the plan. At that level, the support systems matter even more: strong cash flow, enough liquidity, a custody process the family can recover, and a retirement plan that does not require panic-selling.
-
-The important question is which description is true today, not which one sounds most like the identity you want.
-
-Then we run the stress test.
-
-> **Visual:** Week 3 deck page 7: net-worth hit if Bitcoin falls 75%.
-
-Take the Bitcoin percentage and translate a large drawdown into dollars.
-
-If Bitcoin is ten percent of the portfolio and falls seventy-five percent while everything else stays flat, the total portfolio is down about seven and a half percent.
-
-At twenty-five percent Bitcoin, the hit is about nineteen percent.
-
-At fifty percent Bitcoin, it is about thirty-seven and a half percent.
-
-At seventy-five percent Bitcoin, more than half of the total net worth disappears on the statement.
-
-Those are not forecasts. They are a way to make the emotional risk visible.
-
-I want you to use your own number. What would the dollar loss be? What would it do to the retirement date? Would you keep buying, do nothing, cut spending, or feel pressure to sell?
-
-And I do not only mean whether you believe Bitcoin eventually recovers. Could the household continue operating while it is down? Is the reserve full? Are debt payments comfortable? Is any Bitcoin sitting with a lender? Is there a large purchase coming? Could your spouse live with the statement?
-
-The largest position you can hold is the one you can keep through a full drawdown without a forced sale or a panic decision.
-
-That does not mean every concentrated position is wrong. A large Bitcoin allocation can be completely intentional. But concentration transfers work to the rest of the plan. The reserve may need to be larger. Bridge money needs to be accessible. Custody and family recovery need to be stronger. Debt needs more room.
-
-I would also separate a target from a trade you need to make today.
-
-If the current allocation is above or below the target, you do not automatically have to sell assets and create a tax bill. New contributions can move the portfolio toward the target over time. A one-time change is a separate tax and risk decision.
-
-Before a large Bitcoin move, I would also check price context. Not because price tells you what to do, but because it tells you which emotion is in the room. A sharp run-up can create urgency and overconfidence. A sharp drop can create fear or a genuine opportunity. The plan still has to support the move either way. The full price-context check is in the Advanced Library.
-
-By the end of this lesson, you should have a target or a target range you can defend using three things: your understanding of Bitcoin, the dollar loss in a major drawdown, and the support systems around the position.
-
-In the Allocation walkthrough, we'll compare the current mix with that target, run the drawdown against your actual plan, and save the target without assuming you need to make every trade today.
----
+*`TEACH` · ~4.3 min · PRE-DICTATION FILMING DRAFT*
 
 So in this lesson, we're going to set a Bitcoin target the household can actually hold through a major drawdown.
 
@@ -113,15 +56,16 @@ By the end of this lesson, you should have a target or range you can defend with
 
 In the Allocation walkthrough, we'll compare the current mix with that target, run the drawdown against the actual plan, and preview how contributions or a one-time shift would move the portfolio before anything is saved.
 
+---
 ## 3.2 Give each dollar a job before choosing the investment
 
-*`TEACH` · ~4.7 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.6 min · PRE-DICTATION FILMING DRAFT*
 
 Before we decide which account gets the next dollar, we need to decide what the dollar is for.
 
 This is one of the most useful ideas in the entire plan because the same investment can be reasonable for one job and completely wrong for another.
 
-> **Visual:** Week 3 deck page 5: Reserve, Bridge, Forever by timeframe and job.
+> 🎬 **VISUAL — Week 3 deck page 5: Reserve, Bridge, Forever by timeframe and job.**
 
 The first job is Reserve.
 
@@ -141,7 +85,7 @@ The current app makes the retirement access question more specific: Reserve is a
 
 The principle is the same in both versions: match the volatility to the job each dollar has to do.
 
-> **Visual:** Week 3 deck page 6: low-volatility Reserve, moderate Bridge, high-volatility Forever.
+> 🎬 **VISUAL — Week 3 deck page 6: low-volatility Reserve, moderate Bridge, high-volatility Forever.**
 
 Reserve has a low-volatility job: protect and stay liquid.
 
@@ -176,10 +120,9 @@ If you cannot answer that, the account does not have a job yet.
 In the walkthrough, I'll show you how to assign accounts to the three timeframes, check what each account currently holds, and save the target mix that the new contribution plan will work toward.
 
 ---
-
 ## 3.3 Build the contribution waterfall for every new dollar
 
-*`TEACH` · ~5.8 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~6.1 min · PRE-DICTATION FILMING DRAFT*
 
 Now we have the amount available from Cash Flow, the Reserve decision, the jobs for the money, the target allocation, and whatever Extra Debt amount is currently saved. That debt amount is still provisional until Module 4.
 
@@ -187,7 +130,7 @@ This lesson turns all of that into an order for the next dollar.
 
 Most people do not need another list of possible accounts. They need to know what happens to the next five hundred dollars after it hits the plan.
 
-> **Visual:** Week 3 deck page 8: the five-step contribution waterfall.
+> 🎬 **VISUAL — Week 3 deck page 8: the five-step contribution waterfall.**
 
 The first claim is the Reserve, if it is still short.
 
@@ -205,7 +148,7 @@ Week 3 saves this rung provisionally because Debt is taught next. We are not ins
 
 Then we reach the part of the waterfall that usually receives most of the investable surplus: is this a Bridge dollar or a Legacy dollar?
 
-> **Visual:** Week 3 deck page 9: Bridge path versus Forever path.
+> 🎬 **VISUAL — Week 3 deck page 9: Bridge path versus Forever path.**
 
 A Bridge dollar needs to stay accessible. That usually points toward a taxable brokerage, direct Bitcoin, cash, or another flexible account rather than locking all of it inside retirement accounts.
 
@@ -259,10 +202,9 @@ And Orange Plan cannot change the outside world for you. Saving a contribution p
 In the walkthrough, I'll start with the surplus from Cash Flow, show the dollars already claimed by Reserve and the current provisional Extra Debt amount, configure each contribution row, choose what each account buys, and then make a real-world implementation list for the elections and transfers that have to change outside Orange Plan.
 
 ---
-
 ## 3.4 Put the right holdings inside the right accounts
 
-*`TEACH` · ~3.7 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~3.9 min · PRE-DICTATION FILMING DRAFT*
 
 The contribution waterfall decides which account gets funded. Asset location decides what belongs inside each account.
 
@@ -274,13 +216,13 @@ Second: if it can, is this the best tax and access wrapper for that investment?
 
 A perfect tax account is not useful for a Bitcoin dollar if the plan only offers a limited stock and bond menu and no Bitcoin ETF or brokerage window.
 
-> **Visual:** Week 3 deck page 12: Direct Bitcoin, Bitcoin ETF, or no Bitcoin option.
+> 🎬 **VISUAL — Week 3 deck page 12: Direct Bitcoin, Bitcoin ETF, or no Bitcoin option.**
 
 Direct Bitcoin gives you ownership and custody responsibility. A Bitcoin ETF may let you hold the exposure inside an IRA, brokerage account, or some employer plans without managing keys. Some accounts offer neither, which means the Bitcoin dollars need a different destination.
 
 After that filter, look at the tax treatment and the job.
 
-> **Visual:** Week 3 deck page 10: Taxable / Tax-deferred / Tax-free.
+> 🎬 **VISUAL — Week 3 deck page 10: Taxable / Tax-deferred / Tax-free.**
 
 Taxable accounts are flexible. The money can be used before retirement age, which makes them important for the Bridge. Long-term gains may receive capital-gains treatment, and you maintain control over which lots are sold.
 
@@ -317,12 +259,13 @@ Before the walkthrough, review every account and answer:
 In the walkthrough, we'll apply those answers row by row and confirm that the contribution plan, account timeframes, and overall target are all describing the same strategy.
 
 ---
-
 ## 3.5 WALKTHROUGH — Route the investable surplus
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
+*`WALKTHROUGH` · ~22 min · IMPLEMENTATION SHEET*
 
 **Screen capture · about 22 minutes**
+
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
 
 > This is Week 3. Debt strategy is taught in Week 4. Use the current Extra debt amount as entered today, then explicitly return to Routing after the Debt module if that amount changes.
 
@@ -487,17 +430,8 @@ Record on screen or paper:
 - Contribution destinations, amounts, tax treatment, and holdings are saved.
 - External payroll, transfer, and purchase changes are listed.
 - Extra debt is clearly marked provisional until Week 4.
+
 ---
-
-## Module checkpoint
-
-- [ ] The Bitcoin target survives the dollar drawdown test.
-- [ ] Major accounts have Reserve, Bridge, or Legacy jobs.
-- [ ] The target mix and drift band are saved.
-- [ ] The employer match and contribution destinations are modeled correctly.
-- [ ] Each contribution row says what the money buys.
-- [ ] External payroll, transfer, and purchase changes are listed.
-- [ ] The extra-debt claim is clearly provisional until Module 4.
 
 <!-- ADVANCED-GATE:START -->
 
@@ -508,7 +442,7 @@ worth watching only when its condition is true for you. Continue only if
 one of these describes your situation:
 
 - **A3.1 Use price context to name the emotion before a large Bitcoin move**
-  → *Ready after the current price-context data shown in the app is verified. This lesson is a decision check, not a market-timing system.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 *Generated by `tools/build-module-gates.py` from the Gate line on each
 advanced lesson. Edit the condition there, not here.*

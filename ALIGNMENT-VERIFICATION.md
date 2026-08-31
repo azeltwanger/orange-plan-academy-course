@@ -14,42 +14,10 @@ Branch: `course-v1-alignment-direct-voice`
 
 ```text
 V1 COURSE ALIGNMENT FAILURES
- - MASTER-COURSE.md:426: normal-user confidence target: choose the confidence target the retirement date has to meet. The finished earliest date is the first date t
- - MASTER-COURSE.md:2277: normal-user confidence target: choose the confidence target a retirement date has to meet. A higher target usually requires a later date, l
- - MASTER-COURSE.md:2465: normal-user confidence target: POINT OUT** the confidence target choices and annual guardrail area. **SAY** Lesson 6.3 explained how this works
- - MASTER-COURSE.md:3578: normal-user confidence target: saved confidence target and retirement date, one tested scenario, yearly report, encrypted backup, and
- - MASTER-COURSE.md:3715: normal-user confidence target: Choose the confidence target the retirement date has to clear, read the earliest date, and save the run. The
- - MASTER-COURSE.md:3831: normal-user confidence target: Choose the confidence target and read the earliest date **DO** Set the target confidence using the current
- - MASTER-COURSE.md:3833: normal-user confidence target: target confidence using the current control. **SEE** earliest retirement date at that target. *
- - MASTER-COURSE.md:2364: first useful result waits until Module 9: first saved full 1,000-path confidence run waits until Module 9, after Custody and Estate are also intentionally compl
- - MASTER-COURSE.md:2485: first useful result waits until Module 9: first full confidence run is explicitly deferred to Module 9. --- **Screen capture · about 18 minute
- - MASTER-COURSE.md:3717: retired report route: final report assembles the whole plan into something the household and professionals can read. I woul
- - MASTER-COURSE.md:3892: retired report route: Open Report. **READ**: 1. Position — does today's account and debt picture match reality?
- - MASTER-COURSE.md:3825: retired apply/run language: Run confidence**. **SEE** 1,000 test runs complete against the full baseline. **SAY** This i
- - MASTER-COURSE.md:134: retired AI framing: orange AI Review button opens the Plan Guide. You can open it from anywhere in the app, and the first s
- - MASTER-COURSE.md:134: retired AI framing: Plan Guide. You can open it from anywhere in the app, and the first set of options changes
- - MASTER-COURSE.md:151: retired AI framing: Plan Guide. I use this as a quick way to understand what is happening without checking a b
- - MASTER-COURSE.md:169: retired AI framing: Plan Guide once from the page you're currently on. Run one review using your own numbers,
- - MASTER-COURSE.md:1127: user example reversal: The four paths on the screen are not recommendations. They are a way to describe where somebody actually is. Foundation is a smalle
- - modules/00-module-0-start-here.md:107: retired AI framing: orange AI Review button opens the Plan Guide. You can open it from anywhere in the app, and the first s
- - modules/00-module-0-start-here.md:107: retired AI framing: Plan Guide. You can open it from anywhere in the app, and the first set of options changes
- - modules/00-module-0-start-here.md:124: retired AI framing: Plan Guide. I use this as a quick way to understand what is happening without checking a b
- - modules/00-module-0-start-here.md:142: retired AI framing: Plan Guide once from the page you're currently on. Run one review using your own numbers,
- - modules/01-module-1-foundation.md:221: normal-user confidence target: choose the confidence target the retirement date has to meet. The finished earliest date is the first date t
- - modules/03-module-3-allocation-next-dollar.md:21: user example reversal: The four paths on the screen are not recommendations. They are a way to describe where somebody actually is. Foundation is a smalle
- - modules/06-module-6-retirement-income.md:170: normal-user confidence target: choose the confidence target a retirement date has to meet. A higher target usually requires a later date, l
- - modules/06-module-6-retirement-income.md:358: normal-user confidence target: POINT OUT** the confidence target choices and annual guardrail area. **SAY** Lesson 6.3 explained how this works
- - modules/06-module-6-retirement-income.md:257: first useful result waits until Module 9: first saved full 1,000-path confidence run waits until Module 9, after Custody and Estate are also intentionally compl
- - modules/06-module-6-retirement-income.md:378: first useful result waits until Module 9: first full confidence run is explicitly deferred to Module 9. --- **Screen capture · about 18 minute
+ - MASTER-COURSE.md:3081: normal-user confidence target: saved confidence target and retirement date, one tested scenario, yearly report, encrypted backup, and
  - modules/09-module-9-finish-test-maintain.md:5: normal-user confidence target: saved confidence target and retirement date, one tested scenario, yearly report, encrypted backup, and
- - modules/09-module-9-finish-test-maintain.md:142: normal-user confidence target: Choose the confidence target the retirement date has to clear, read the earliest date, and save the run. The
- - modules/09-module-9-finish-test-maintain.md:258: normal-user confidence target: Choose the confidence target and read the earliest date **DO** Set the target confidence using the current
- - modules/09-module-9-finish-test-maintain.md:260: normal-user confidence target: target confidence using the current control. **SEE** earliest retirement date at that target. *
- - modules/09-module-9-finish-test-maintain.md:144: retired report route: final report assembles the whole plan into something the household and professionals can read. I woul
- - modules/09-module-9-finish-test-maintain.md:319: retired report route: Open Report. **READ**: 1. Position — does today's account and debt picture match reality?
- - modules/09-module-9-finish-test-maintain.md:252: retired apply/run language: Run confidence**. **SEE** 1,000 test runs complete against the full baseline. **SAY** This i
 
-34 failures across 172 active files
+2 failures across 172 active files
 
 ```
 
@@ -112,6 +80,7 @@ PASSED
   ok  claim V1-FRESH-1 (1.3): master: PASS · script: PASS · lesson-text: PASS · module: PASS · visual: PASS
   ok  claim V1-DATES-1 (1.3): master: PASS · script: PASS · lesson-text: PASS · module: PASS
   ok  claim V1-DIRECT-1 (3.1): master: PASS · script: PASS · lesson-text: PASS · module: PASS
+  ok  claim V1-COUNT-6 (6.3): master: PASS · script: PASS · lesson-text: PASS · module: PASS
   ok  claim V1-HOME-9 (9.1): master: PASS · script: PASS · lesson-text: PASS · module: PASS
   ok  claim V1-CASHFLOW-9 (9.1): master: PASS · script: PASS · lesson-text: PASS · module: PASS
   ok  claim V1-PLAN-9 (9.1): master: PASS · script: PASS · lesson-text: PASS · module: PASS
@@ -123,7 +92,10 @@ PASSED
   ok  claim V1-ASK-VISUAL (0.2): visual: PASS
   ok  claim V1-ACTIVITY-1 (1.4): master: PASS · script: PASS · module: PASS
   ok  claim V1-TRANSFER-1 (1.4): master: PASS · script: PASS · module: PASS
+  ok  claim V1-NO-PLAN-GUIDE: correctly absent
   ok  claim V1-NO-RING: correctly absent
+  ok  claim V1-NO-CORE-6095 (6.3): correctly absent from every layer
+  ok  claim V1-NO-RECOMMENDATION-SETUP (3.1): correctly absent from every layer
 
 NOTES (reported, do not fail)  —  108
   [BEATS] 1.1 What to gather before you build the plan
@@ -343,81 +315,19 @@ NOTES (reported, do not fail)  —  108
   [BEATS] 9.3 WALKTHROUGH — Finish, test, review, and 
           no "YOU ARE DONE WHEN" in any layer — lesson does not close with the three beats, so it contributes nothing to its checkpoint
 
-FAILURES  —  64
-  [CLAIMS] V1-COUNT-6 (6.3)
-          MUST be present in every listed layer — master: FAIL · script: PASS · lesson-text: PASS · module: FAIL
+FAILURES  —  11
   [CLAIMS] V1-GUARD-6 (6.3)
           MUST be present in every listed layer — master: PASS · script: PASS · lesson-text: PASS · module: PASS · visual: FAIL
   [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:17  - MASTER-COURSE.md:426: normal-user confidence target: choose the confid
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:18  - MASTER-COURSE.md:2277: normal-user confidence target: choose the confi
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:19  - MASTER-COURSE.md:2465: normal-user confidence target: POINT OUT the co
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:20  - MASTER-COURSE.md:3578: normal-user confidence target: saved confidence
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:22  - MASTER-COURSE.md:3831: normal-user confidence target: Choose the confi
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:23  - MASTER-COURSE.md:3833: normal-user confidence target: target confidenc
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:38  - modules/01-module-1-foundation.md:221: normal-user confidence target: 
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:40  - modules/06-module-6-retirement-income.md:170: normal-user confidence t
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:41  - modules/06-module-6-retirement-income.md:358: normal-user confidence t
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:44  - modules/09-module-9-finish-test-maintain.md:5: normal-user confidence 
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:46  - modules/09-module-9-finish-test-maintain.md:258: normal-user confidenc
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:47  - modules/09-module-9-finish-test-maintain.md:260: normal-user confidenc
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./MASTER-COURSE.md:426  After the plan is built, you will also choose the confidence target the 
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./MASTER-COURSE.md:2277  You choose the confidence target a retirement date has to meet. A higher
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./MASTER-COURSE.md:2465  POINT OUT the confidence target choices and annual guardrail area.
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./MASTER-COURSE.md:3578  You will build: A completed baseline, saved confidence target and retire
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — ./MASTER-COURSE.md:3833  DO Set the target confidence using the current control.
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — modules/01-module-1-foundation.md:221  After the plan is built, you will also choose the confidence target the 
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — modules/06-module-6-retirement-income.md:170  You choose the confidence target a retirement date has to meet. A higher
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — modules/06-module-6-retirement-income.md:358  POINT OUT the confidence target choices and annual guardrail area.
+          MUST NOT appear — ./MASTER-COURSE.md:3081  You will build: A completed baseline, saved confidence target and retire
   [CLAIMS] V1-NO-TARGET
           MUST NOT appear — modules/09-module-9-finish-test-maintain.md:5  You will build: A completed baseline, saved confidence target and retire
-  [CLAIMS] V1-NO-TARGET
-          MUST NOT appear — modules/09-module-9-finish-test-maintain.md:260  DO Set the target confidence using the current control.
-  [CLAIMS] V1-NO-FIRST-WAIT
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:24  - MASTER-COURSE.md:2364: first useful result waits until Module 9: first
-  [CLAIMS] V1-NO-FIRST-WAIT
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:25  - MASTER-COURSE.md:2485: first useful result waits until Module 9: first
-  [CLAIMS] V1-NO-FIRST-WAIT
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:42  - modules/06-module-6-retirement-income.md:257: first useful result wait
-  [CLAIMS] V1-NO-FIRST-WAIT
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:43  - modules/06-module-6-retirement-income.md:378: first useful result wait
   [CLAIMS] V1-NO-FIRST-WAIT
           MUST NOT appear — ./COURSE-REBUILD-REPORT.md:15  - Preserved deterministic onboarding and delayed the first full confiden
-  [CLAIMS] V1-NO-FIRST-WAIT
-          MUST NOT appear — ./MASTER-COURSE.md:2364  > This module builds every retirement-income input and strategy. The fir
-  [CLAIMS] V1-NO-FIRST-WAIT
-          MUST NOT appear — ./MASTER-COURSE.md:2485  - The first full confidence run is explicitly deferred to Module 9.
   [CLAIMS] V1-NO-FIRST-WAIT
           MUST NOT appear — ./PRE-DICTATION-RESET-STATUS.md:5  The reset restored Module 3 Allocation and Module 4 Debt, rebuilt future
   [CLAIMS] V1-NO-FIRST-WAIT
           MUST NOT appear — ./PROFESSIONAL-RESEARCH-VERIFICATION.md:22  - The first full 1,000-path confidence result is saved in Module 9 after
-  [CLAIMS] V1-NO-FIRST-WAIT
-          MUST NOT appear — modules/06-module-6-retirement-income.md:257  > This module builds every retirement-income input and strategy. The fir
-  [CLAIMS] V1-NO-FIRST-WAIT
-          MUST NOT appear — modules/06-module-6-retirement-income.md:378  - The first full confidence run is explicitly deferred to Module 9.
-  [CLAIMS] V1-NO-OLD-NAV
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:27  - MASTER-COURSE.md:3892: retired report route: Open Report. READ: 1. Pos
-  [CLAIMS] V1-NO-OLD-NAV
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:49  - modules/09-module-9-finish-test-maintain.md:319: retired report route:
   [CLAIMS] V1-NO-OLD-NAV
           MUST NOT appear — ./COURSE-REBUILD-REPORT.md:8  - Kept Build Your Plan as the implementation roadmap without forcing its
   [CLAIMS] V1-NO-OLD-NAV
@@ -425,55 +335,11 @@ FAILURES  —  64
   [CLAIMS] V1-NO-OLD-NAV
           MUST NOT appear — ./DICTATION-SOURCE-MAP.md:9  Austin's original course orientation remains the spoken authority. The r
   [CLAIMS] V1-NO-OLD-NAV
-          MUST NOT appear — ./MASTER-COURSE.md:3892  DO Open Report.
-  [CLAIMS] V1-NO-OLD-NAV
           MUST NOT appear — ./SLIDE-DECK-AUTHORITY.md:15  Build Your Plan remains the implementation roadmap even when its card or
-  [CLAIMS] V1-NO-OLD-NAV
-          MUST NOT appear — modules/09-module-9-finish-test-maintain.md:319  DO Open Report.
-  [CLAIMS] V1-NO-APPLY
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:28  - MASTER-COURSE.md:3825: retired apply/run language: Run confidence. SEE
-  [CLAIMS] V1-NO-APPLY
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:50  - modules/09-module-9-finish-test-maintain.md:252: retired apply/run lan
   [CLAIMS] V1-NO-APPLY
           MUST NOT appear — ./COURSE-LIFECYCLE-REVISION-REPORT.md:9  - Full 1,000-run confidence check moved to Module 9.
-  [CLAIMS] V1-NO-APPLY
-          MUST NOT appear — ./MASTER-COURSE.md:3825  DO Build & improve → Run your plan / Plan page → Run confidence.
-  [CLAIMS] V1-NO-APPLY
-          MUST NOT appear — modules/09-module-9-finish-test-maintain.md:252  DO Build & improve → Run your plan / Plan page → Run confidence.
-  [CLAIMS] V1-NO-PLAN-GUIDE
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:29  - MASTER-COURSE.md:134: retired AI framing: orange AI Review button open
-  [CLAIMS] V1-NO-PLAN-GUIDE
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:30  - MASTER-COURSE.md:134: retired AI framing: Plan Guide. You can open it 
-  [CLAIMS] V1-NO-PLAN-GUIDE
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:31  - MASTER-COURSE.md:151: retired AI framing: Plan Guide. I use this as a 
-  [CLAIMS] V1-NO-PLAN-GUIDE
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:32  - MASTER-COURSE.md:169: retired AI framing: Plan Guide once from the pag
-  [CLAIMS] V1-NO-PLAN-GUIDE
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:34  - modules/00-module-0-start-here.md:107: retired AI framing: orange AI R
-  [CLAIMS] V1-NO-PLAN-GUIDE
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:35  - modules/00-module-0-start-here.md:107: retired AI framing: Plan Guide.
-  [CLAIMS] V1-NO-PLAN-GUIDE
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:36  - modules/00-module-0-start-here.md:124: retired AI framing: Plan Guide.
-  [CLAIMS] V1-NO-PLAN-GUIDE
-          MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:37  - modules/00-module-0-start-here.md:142: retired AI framing: Plan Guide 
-  [CLAIMS] V1-NO-PLAN-GUIDE
-          MUST NOT appear — ./MASTER-COURSE.md:134  The orange AI Review button opens the Plan Guide. You can open it from a
-  [CLAIMS] V1-NO-PLAN-GUIDE
-          MUST NOT appear — ./MASTER-COURSE.md:151  There is also a daily Bitcoin market report inside the Plan Guide. I use
-  [CLAIMS] V1-NO-PLAN-GUIDE
-          MUST NOT appear — ./MASTER-COURSE.md:169  Before moving on, open the Plan Guide once from the page you're currentl
-  [CLAIMS] V1-NO-PLAN-GUIDE
-          MUST NOT appear — modules/00-module-0-start-here.md:107  The orange AI Review button opens the Plan Guide. You can open it from a
-  [CLAIMS] V1-NO-PLAN-GUIDE
-          MUST NOT appear — modules/00-module-0-start-here.md:124  There is also a daily Bitcoin market report inside the Plan Guide. I use
-  [CLAIMS] V1-NO-PLAN-GUIDE
-          MUST NOT appear — modules/00-module-0-start-here.md:142  Before moving on, open the Plan Guide once from the page you're currentl
-  [CLAIMS] V1-NO-CORE-6095 (6.3)
-          MUST NOT appear in any layer — found in master: "60 cut → 80 hold → 95" · module: "60 cut → 80 hold → 95"
-  [CLAIMS] V1-NO-RECOMMENDATION-SETUP (3.1)
-          MUST NOT appear in any layer — found in master: "The four paths on the screen are not recommendations" · module: "The four paths on the screen are not recommendations"
 
-52 lessons · 25 registry rules · 184 files scanned · 64 failures, 108 notes
+52 lessons · 25 registry rules · 182 files scanned · 11 failures, 108 notes
 
 ```
 

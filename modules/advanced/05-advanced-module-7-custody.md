@@ -2,7 +2,9 @@
 
 ## A7.1 Compare passphrase, multisig, institutional custody, and an intentional split
 
-> **Gate.** Research complete. Verify exact devices, wallet software, descriptors, provider roles, institutional terms, and recovery procedures before any setup-specific footage.
+*`TEACH` · ~5.7 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Verify exact devices, wallet software, descriptors, provider roles, institutional terms, and recovery procedures before any setup-specific footage.
 
 Advanced custody is not a ladder where every serious Bitcoiner eventually puts everything into the most complicated self-custody setup.
 
@@ -71,10 +73,11 @@ Document the process without documenting the secrets.
 The safest architecture is not the one with the most hardware or the strongest ideological label. It is the simplest combination that removes the household's actual failure points, preserves the amount of direct control the household values, and can still be recovered by the people who inherit the responsibility.
 
 ---
-
 ## A7.2 What self-custody actually asks of you
 
-> **Gate.** Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.
+*`TEACH` · ~2.1 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.
 
 Self-custody removes a financial institution from the spending decision. Self-custody moves more trust and responsibility onto you.
 
@@ -110,10 +113,11 @@ A smaller amount in a simple, tested setup is better than a life-changing amount
 The question is not whether self-custody is morally better. The question is which risks you want to own directly and whether the household can keep owning them for decades.
 
 ---
-
 ## A7.3 Run the One-Failure Test across methods and providers
 
-> **Gate.** Research complete. Verify provider and device facts before naming them; no vendor-specific recommendation is implied.
+*`TEACH` · ~3.6 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Verify provider and device facts before naming them; no vendor-specific recommendation is implied.
 
 Concentration risk is not only holding too much Bitcoin.
 
@@ -188,10 +192,11 @@ At the annual review:
 A setup does not become safer merely because the diagram has more boxes. It becomes safer when a real failure can happen and the family plan still survives.
 
 ---
-
 ## A7.4 UTXOs, dust, consolidation, and address use
 
-> **Gate.** Research complete. Verify current wallet behavior and network fees before demonstrating; use a test wallet and never expose live addresses unnecessarily.
+*`TEACH` · ~2.2 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Verify current wallet behavior and network fees before demonstrating; use a test wallet and never expose live addresses unnecessarily.
 
 A Bitcoin wallet balance is made of individual unspent transaction outputs, or UTXOs. They are closer to separate bills in a wallet than one bank-account balance.
 

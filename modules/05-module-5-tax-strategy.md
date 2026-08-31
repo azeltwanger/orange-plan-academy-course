@@ -6,7 +6,7 @@
 
 ## 5.1 Cost basis: know what you paid before you plan a sale
 
-*`TEACH` · ~4.4 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.3 min · PRE-DICTATION FILMING DRAFT*
 
 In today's lesson, we're going to cover cost basis, which is just a technical way of saying what you paid for each investment you own.
 
@@ -14,7 +14,7 @@ This is the first tax lesson for a reason. If the purchase history is wrong, eve
 
 For Bitcoin, the basis belongs to individual lots. A lot is one purchase or another acquisition with its own date, amount, and cost.
 
-> **Visual:** Tax deck lot table: three Bitcoin purchases with different dates and basis amounts.
+> 🎬 **VISUAL — Tax deck lot table: three Bitcoin purchases with different dates and basis amounts.**
 
 Let's say you bought Bitcoin at three very different prices. You later sell the same amount of Bitcoin. The tax result can change depending on which lot you can properly identify as the one that was sold.
 
@@ -59,16 +59,15 @@ The useful output is an answer before money moves: which lot is being sold, what
 In the tax walkthrough, I'll show you how to import the available history, review the lots the app flags, see which holdings still need dates or prices, and create the export that makes the final tax decision easier to review with your CPA.
 
 ---
-
 ## 5.2 Use the tax buckets and the low-income window on purpose
 
-*`TEACH` · ~5.6 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~5.8 min · PRE-DICTATION FILMING DRAFT*
 
 Once the cost basis is usable, the next question is where the money sits and when the tax is going to be paid.
 
 I think of the plan as having three tax buckets.
 
-> **Visual:** Tax deck: Taxable, Tax-deferred, Roth.
+> 🎬 **VISUAL — Tax deck: Taxable, Tax-deferred, Roth.**
 
 Taxable money is flexible. You can generally access it whenever you need it. Investment gains may receive long-term capital-gains treatment when the holding-period rules are met, and there is a zero-percent federal long-term capital-gains bracket for some taxpayers. Gains stack on top of the rest of taxable income, so the available 0% long-term capital-gains space is limited by the whole return.
 
@@ -80,7 +79,7 @@ A mix of all three buckets gives you options. If all of the money is tax-deferre
 
 The biggest opportunity often appears between the last paycheck and the start of larger fixed income sources.
 
-> **Visual:** Tax deck bracket roadmap: working years, early retirement window, Social Security and RMD years.
+> 🎬 **VISUAL — Tax deck bracket roadmap: working years, early retirement window, Social Security and RMD years.**
 
 While somebody is working, wages may already fill the lower tax brackets.
 
@@ -104,7 +103,7 @@ When a lot is below basis, realizing the loss may offset gains elsewhere and may
 
 Gain harvesting moves in the opposite direction. In a low-income year, you may intentionally realize a long-term gain, use available zero-percent or lower-rate capital-gains space, and reset the basis higher. Again, all income stacks together, so the correct amount is a calculation rather than a headline threshold copied from an article.
 
-> **Visual:** Tax deck: losses on dips, gains in low brackets.
+> 🎬 **VISUAL — Tax deck: losses on dips, gains in low brackets.**
 
 State tax can be a large lever too. A large gain or conversion can produce very different results depending on residency. But changing the state on a tax form is not the same thing as changing domicile. A real move involves where you live, work, vote, hold property, spend time, and intend to remain. A move made around a major sale can receive extra scrutiny.
 
@@ -119,12 +118,13 @@ The goal of this module is not to complete every tax move today. It is to leave 
 The tax walkthrough will show the current bucket balances, the conversion analysis, the lot-level harvesting view, and the state comparison that exists in the app. We will keep the model and the execution separate: Orange Plan helps you see the opportunity; the current-year return and professional review decide what gets filed.
 
 ---
-
 ## 5.3 WALKTHROUGH — Reconcile basis and model the tax window
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
+*`WALKTHROUGH` · ~15 min · IMPLEMENTATION SHEET*
 
 **Screen capture · about 15 minutes**
+
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
 
 ## Before recording
 
@@ -237,16 +237,8 @@ Save or list:
 - A conversion or withdrawal range is modeled, not executed blindly.
 - Harvesting candidates and the 8949 export are saved.
 - The professional questions are ready before the calendar deadline.
+
 ---
-
-## Module checkpoint
-
-- [ ] Missing basis is visible and never silently invented.
-- [ ] Transfers and duplicate imports are reconciled.
-- [ ] The taxable, tax-deferred, and Roth mix is understood.
-- [ ] A conversion or withdrawal range is modeled when relevant.
-- [ ] Harvesting candidates and the 8949 export are saved.
-- [ ] Current-year questions are ready before the calendar deadline.
 
 <!-- ADVANCED-GATE:START -->
 
@@ -257,11 +249,11 @@ worth watching only when its condition is true for you. Continue only if
 one of these describes your situation:
 
 - **A5.1 RMD pressure and Roth conversions across the low-income window**
-  → *Research complete. Targeted CPA or EA review before publication; verify the current RMD age, brackets, Medicare rules, and healthcare interactions in the year of action.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A5.2 Harvest Bitcoin losses and gains without losing the tax story**
-  → *Research complete. Targeted CPA or EA review before publication; verify current digital-asset wash-sale treatment and lot-identification requirements before execution.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A5.3 State taxes and relocation: measure the lever before moving**
-  → *Research complete. Targeted CPA or state-tax attorney review before publication; verify both origin-state and destination-state residency rules.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 *Generated by `tools/build-module-gates.py` from the Gate line on each
 advanced lesson. Edit the condition there, not here.*

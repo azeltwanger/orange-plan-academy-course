@@ -6,30 +6,9 @@ Every lesson is optional and gated by the condition or professional review state
 
 ## A1.1 How Orange Plan models Bitcoin inside the simulation test
 
-> **Gate.** Research complete. Record after the current Help & Methodology copy and production settings are checked against the same app commit used on camera.
+*`TEACH` · ~2.6 min · PRE-DICTATION FILMING DRAFT*
 
-The simulation count is only useful if the market paths are difficult enough to test the plan and honest enough not to flatter the Bitcoin assumption.
-
-Orange Plan does not treat Bitcoin like a generic stock with a slightly larger standard deviation. Bitcoin gets its own return process because the shape of its history is different.
-
-The first difference is the tails. Extreme positive and negative years happen more often than a normal bell curve would suggest. A model built around a polite normal distribution can understate the very outcomes a Bitcoin holder cares about most.
-
-The second difference is asymmetry. Bitcoin has had very large upside years as well as deep drawdowns. The distribution needs to preserve the possibility of both rather than forcing the positive and negative sides into a perfectly symmetrical shape.
-
-The third difference is maturity. A larger asset should not be assumed to keep the same volatility forever. The model allows volatility to decline over time as Bitcoin grows, while still leaving room for difficult sequences.
-
-The fourth difference is correlation. Bitcoin, stocks, inflation, and interest-rate conditions are not independent in every bad year. The simulation links the major asset classes so a stress path can include several problems at once instead of conveniently offsetting each other every time.
-
-The straight-line growth assumption still matters. If you enter an unrealistic return, the simulation cannot rescue the plan from a bad premise. What the calibration does is prevent the random paths from secretly adding another layer of optimism on top of the selected assumption. The median modeled result is checked against the deterministic projection under the same settings.
-
-The comparison also uses matched paths. When you compare retiring at sixty with retiring at sixty-five, or selling with borrowing, both strategies are tested against the same market sequences. One strategy does not get easier weather by accident.
-
-And the result is repeatable. With the same inputs and same saved settings, the simulation result should not jump around merely because you pressed the button twice. If it changes, a market value, plan input, or strategy changed.
-
-The important boundary is that this is still a model. Historical data cannot tell us the exact future distribution, and Bitcoin can behave outside the ranges anybody expected. Use the simulation result to compare decisions and find fragility, not as a promise that a specific percentage will occur.
-
-The current distributions, volatility schedule, correlations, and caps belong in Help & Methodology rather than being frozen into an evergreen recording. Before filming, open that page and verify that the explanation and the production engine still match.
----
+> **Publication gate:** Research complete. Record after Help & Methodology, production settings, and the exact simulation engine are checked against the same app commit used on camera.
 
 So in this lesson, we're going to cover how Orange Plan creates the Bitcoin market paths behind the 1,000-simulation result.
 
@@ -57,11 +36,14 @@ Historical data cannot reveal the exact future distribution. Use the simulation 
 
 The current distributions, volatility schedule, correlations, caps, calibration tests, and through-age definition belong in Help & Methodology. Before recording, verify that the explanation and production engine still match the same app commit.
 
+---
 # Advanced Module 3 — Allocation + Next-Dollar
 
 ## A3.1 Use price context to name the emotion before a large Bitcoin move
 
-> **Gate.** Ready after the current price-context data shown in the app is verified. This lesson is a decision check, not a market-timing system.
+*`TEACH` · ~2.0 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Ready after the current price-context data shown in the app is verified. This lesson is a decision check, not a market-timing system.
 
 Price context does not tell you whether to buy or sell. It tells you what emotion is most likely influencing the decision.
 
@@ -86,12 +68,13 @@ Then return to the plan. A large purchase needs a real surplus and a Reserve. A 
 The price context never replaces those decisions. It simply makes the emotional environment visible before it drives them.
 
 ---
-
 # Advanced Module 4 — Debt Strategy
 
 ## A4.1 Borrow against Bitcoin without turning a drawdown into liquidation
 
-> **Gate.** Research complete. Verify the exact lender terms, margin-call rules, liquidation rules, custody model, and current app fields before recording any provider-specific example.
+*`TEACH` · ~3.6 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Verify the exact lender terms, margin-call rules, liquidation rules, custody model, and current app fields before recording any provider-specific example.
 
 A Bitcoin-backed loan can create liquidity without selling the collateral at the start. It can also turn an ordinary Bitcoin drawdown into a forced sale if the loan is too large or the operating plan is vague.
 
@@ -133,10 +116,11 @@ A strong version starts with a low LTV, a durable repayment source, collateral o
 Use the app to model the lender-versus-custody chart, the fall-to-trigger prices, interest cost, and estate impact. The app can show the trade-off. It cannot make the contract safer than the actual lender terms.
 
 ---
-
 ## A4.2 The four ways debt can strengthen a plan, and how each one fails
 
-> **Gate.** Ready as an educational mechanism lesson. Do not recommend a specific loan, lender, rate, or amount.
+*`TEACH` · ~2.3 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Ready as an educational mechanism lesson. Do not recommend a specific loan, lender, rate, or amount.
 
 Debt is useful when it gives the plan more flexibility or growth than the risk it adds. The mechanism matters more than whether the debt sounds good or bad.
 
@@ -163,12 +147,13 @@ Compare the full alternatives. Paying cash may create taxes or remove liquidity.
 The planning question is not whether debt can build wealth. It can. The question is whether this specific debt improves the whole plan after the payment, taxes, downside, and behavior are included.
 
 ---
-
 # Advanced Module 5 — Tax Strategy
 
 ## A5.1 RMD pressure and Roth conversions across the low-income window
 
-> **Gate.** Research complete. Targeted CPA or EA review before publication; verify the current RMD age, brackets, Medicare rules, and healthcare interactions in the year of action.
+*`TEACH` · ~3.0 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Targeted CPA or EA review before publication; verify the current RMD age, brackets, Medicare rules, and healthcare interactions in the year of action.
 
 A large Traditional account can look like tax-free growth while it is accumulating. It is really tax deferred. The tax has not disappeared, and future required distributions can remove control over when the income appears.
 
@@ -208,10 +193,11 @@ The app can model a multi-year conversion schedule and show future required-dist
 The question to ask is not simply, "How much can I convert?" It is, "How much ordinary-income room is actually worth using this year after every interaction is included?"
 
 ---
-
 ## A5.2 Harvest Bitcoin losses and gains without losing the tax story
 
-> **Gate.** Research complete. Targeted CPA or EA review before publication; verify current digital-asset wash-sale treatment and lot-identification requirements before execution.
+*`TEACH` · ~2.6 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Targeted CPA or EA review before publication; verify current digital-asset wash-sale treatment and lot-identification requirements before execution.
 
 Bitcoin's volatility can create tax opportunities in both directions.
 
@@ -244,10 +230,11 @@ The planning questions are:
 - What must be verified under current law before the trade?
 
 ---
-
 ## A5.3 State taxes and relocation: measure the lever before moving
 
-> **Gate.** Research complete. Targeted CPA or state-tax attorney review before publication; verify both origin-state and destination-state residency rules.
+*`TEACH` · ~1.9 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Targeted CPA or state-tax attorney review before publication; verify both origin-state and destination-state residency rules.
 
 State tax can materially change the cost of a large Bitcoin sale, Roth conversion, or business-income year.
 
@@ -268,12 +255,13 @@ Use Scenarios to compare the plan under the destination state, including the eff
 Treat relocation as a real life decision that may create a large tax benefit, not a tax trick with a moving truck.
 
 ---
-
 # Advanced Module 6 — Retirement Income
 
 ## A6.1 Health coverage between retirement and Medicare
 
-> **Gate.** Verify all premiums, subsidy rules, membership terms, and HSA eligibility immediately before recording. CrowdHealth is personal experience and not insurance or a recommendation.
+*`TEACH` · ~2.9 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Verify all premiums, subsidy rules, membership terms, and HSA eligibility immediately before recording. CrowdHealth is personal experience and not insurance or a recommendation.
 
 Retiring before Medicare can create a healthcare bridge that lasts for years. The number is large enough to move the retirement date, so it needs to be priced rather than left as a fear.
 
@@ -308,10 +296,11 @@ Build a side-by-side bridge:
 Enter the chosen cost as part of retirement spending or as an expense event that ends or changes at Medicare. Review it every year because premiums, subsidies, and membership terms change.
 
 ---
-
 ## A6.2 Sell, borrow, or hold when the plan needs a year of spending
 
-> **Gate.** Research complete. Targeted CPA or EA review before publication; verify lender terms and current basis-at-death law before relying on them.
+*`TEACH` · ~2.8 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Targeted CPA or EA review before publication; verify lender terms and current basis-at-death law before relying on them.
 
 A Bitcoin-heavy retirement plan can fund a year of spending by selling, borrowing, using other assets, or leaving a core position untouched while the Reserve and Bridge do the work.
 
@@ -344,12 +333,13 @@ The weak version is choosing "never sell" first and forcing every future need in
 Use the Loans workbench as a sandbox. Nothing should change in the baseline until the strategy has been previewed, the lender terms are verified, and the household can explain how the debt gets repaid if Bitcoin does not cooperate.
 
 ---
-
 # Advanced Module 7 — Custody
 
 ## A7.1 Compare passphrase, multisig, institutional custody, and an intentional split
 
-> **Gate.** Research complete. Verify exact devices, wallet software, descriptors, provider roles, institutional terms, and recovery procedures before any setup-specific footage.
+*`TEACH` · ~5.7 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Verify exact devices, wallet software, descriptors, provider roles, institutional terms, and recovery procedures before any setup-specific footage.
 
 Advanced custody is not a ladder where every serious Bitcoiner eventually puts everything into the most complicated self-custody setup.
 
@@ -418,10 +408,11 @@ Document the process without documenting the secrets.
 The safest architecture is not the one with the most hardware or the strongest ideological label. It is the simplest combination that removes the household's actual failure points, preserves the amount of direct control the household values, and can still be recovered by the people who inherit the responsibility.
 
 ---
-
 ## A7.2 What self-custody actually asks of you
 
-> **Gate.** Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.
+*`TEACH` · ~2.1 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.
 
 Self-custody removes a financial institution from the spending decision. Self-custody moves more trust and responsibility onto you.
 
@@ -457,10 +448,11 @@ A smaller amount in a simple, tested setup is better than a life-changing amount
 The question is not whether self-custody is morally better. The question is which risks you want to own directly and whether the household can keep owning them for decades.
 
 ---
-
 ## A7.3 Run the One-Failure Test across methods and providers
 
-> **Gate.** Research complete. Verify provider and device facts before naming them; no vendor-specific recommendation is implied.
+*`TEACH` · ~3.6 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Verify provider and device facts before naming them; no vendor-specific recommendation is implied.
 
 Concentration risk is not only holding too much Bitcoin.
 
@@ -535,10 +527,11 @@ At the annual review:
 A setup does not become safer merely because the diagram has more boxes. It becomes safer when a real failure can happen and the family plan still survives.
 
 ---
-
 ## A7.4 UTXOs, dust, consolidation, and address use
 
-> **Gate.** Research complete. Verify current wallet behavior and network fees before demonstrating; use a test wallet and never expose live addresses unnecessarily.
+*`TEACH` · ~2.2 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Verify current wallet behavior and network fees before demonstrating; use a test wallet and never expose live addresses unnecessarily.
 
 A Bitcoin wallet balance is made of individual unspent transaction outputs, or UTXOs. They are closer to separate bills in a wallet than one bank-account balance.
 
@@ -561,12 +554,13 @@ Keep tax lots and UTXOs conceptually separate. One is an on-chain spendable outp
 Review UTXO health at the annual custody check: too many tiny outputs, any consolidation worth planning, current fees, privacy implications, and whether the wallet and backup still reconstruct the same addresses.
 
 ---
-
 # Advanced Module 8 — Estate + Inheritance
 
 ## A8.1 Do you need a trust, and what job would it do?
 
-> **Gate.** Research complete. State-licensed estate attorney signoff before publication; no template language or universal Bitcoin trust design is approved here.
+*`TEACH` · ~4.6 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. State-licensed estate attorney signoff before publication; no template language or universal Bitcoin trust design is approved here.
 
 A trust is a tool for a specific legal or family job. It is not an automatic upgrade because the estate owns Bitcoin.
 

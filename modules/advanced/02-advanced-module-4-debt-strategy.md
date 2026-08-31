@@ -2,7 +2,9 @@
 
 ## A4.1 Borrow against Bitcoin without turning a drawdown into liquidation
 
-> **Gate.** Research complete. Verify the exact lender terms, margin-call rules, liquidation rules, custody model, and current app fields before recording any provider-specific example.
+*`TEACH` · ~3.6 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Verify the exact lender terms, margin-call rules, liquidation rules, custody model, and current app fields before recording any provider-specific example.
 
 A Bitcoin-backed loan can create liquidity without selling the collateral at the start. It can also turn an ordinary Bitcoin drawdown into a forced sale if the loan is too large or the operating plan is vague.
 
@@ -44,10 +46,11 @@ A strong version starts with a low LTV, a durable repayment source, collateral o
 Use the app to model the lender-versus-custody chart, the fall-to-trigger prices, interest cost, and estate impact. The app can show the trade-off. It cannot make the contract safer than the actual lender terms.
 
 ---
-
 ## A4.2 The four ways debt can strengthen a plan, and how each one fails
 
-> **Gate.** Ready as an educational mechanism lesson. Do not recommend a specific loan, lender, rate, or amount.
+*`TEACH` · ~2.3 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Ready as an educational mechanism lesson. Do not recommend a specific loan, lender, rate, or amount.
 
 Debt is useful when it gives the plan more flexibility or growth than the risk it adds. The mechanism matters more than whether the debt sounds good or bad.
 

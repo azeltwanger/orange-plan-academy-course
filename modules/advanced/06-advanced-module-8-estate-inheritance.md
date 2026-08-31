@@ -2,7 +2,9 @@
 
 ## A8.1 Do you need a trust, and what job would it do?
 
-> **Gate.** Research complete. State-licensed estate attorney signoff before publication; no template language or universal Bitcoin trust design is approved here.
+*`TEACH` · ~4.6 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. State-licensed estate attorney signoff before publication; no template language or universal Bitcoin trust design is approved here.
 
 A trust is a tool for a specific legal or family job. It is not an automatic upgrade because the estate owns Bitcoin.
 

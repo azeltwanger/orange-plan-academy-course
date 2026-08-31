@@ -6,7 +6,7 @@
 
 ## 8.1 Choose who is in charge and put the legal baseline in place
 
-*`TEACH` · ~4.9 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~5.0 min · PRE-DICTATION FILMING DRAFT*
 
 The custody module made sure the Bitcoin can be reached. Estate planning makes sure the right person has the legal authority to act and the family knows where to start.
 
@@ -26,7 +26,7 @@ Pick for the job, not for who would be flattered to be asked. Then ask the perso
 
 A nontechnical executor can still be a good executor. They do not have to know how to recover a wallet personally. They need a clear process, the right legal authority, and a named technical or custody contact when the setup requires one.
 
-> **Visual:** Estate deck: Capable / Available / Trustworthy, with professional executor as the alternative.
+> 🎬 **VISUAL — Estate deck: Capable / Available / Trustworthy, with professional executor as the alternative.**
 
 The baseline legal work usually includes four areas.
 
@@ -66,10 +66,9 @@ Before moving on, choose the primary person and backup you would trust to run th
 The next lesson connects that legal layer to the technical custody setup without pretending there is one universal way to split seeds, passphrases, or keys.
 
 ---
-
 ## 8.2 Align legal authority with the technical recovery path
 
-*`TEACH` · ~4.5 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.7 min · PRE-DICTATION FILMING DRAFT*
 
 This lesson is about making sure the legal plan and the custody plan lead to the same outcome.
 
@@ -91,7 +90,7 @@ A two-of-three wallet requires two valid signatures from the defined keys. One k
 
 The wallet descriptor or configuration records how the keys are combined, including the threshold and derivation information. Without the correct configuration, heirs may struggle to reconstruct the intended wallet even if they have key material.
 
-> **Visual:** Two separate diagrams: passphrase single-sig and 2-of-3 multisig. Show what each component can and cannot do. Do not label a passphrase as a second signer.
+> 🎬 **VISUAL — Two separate diagrams: passphrase single-sig and 2-of-3 multisig. Show what each component can and cannot do. Do not label a passphrase as a second signer.**
 
 A collaborative custody provider may hold one key, a copy of the public wallet configuration, and an established recovery process. The value is not only the third key. It is also the support, identity-verification, continuity, and documented procedure. The trade-off is vendor dependence, fees, privacy considerations, and the need to understand what happens if the company changes or disappears.
 
@@ -120,10 +119,9 @@ The deliverable is not a diagram that looks sophisticated. It is a tested path w
 The heir letter in the next lesson tells the family how to start without disclosing the components themselves.
 
 ---
-
 ## 8.3 Write the heir letter and create the communication backstop
 
-*`TEACH` · ~3.7 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.0 min · PRE-DICTATION FILMING DRAFT*
 
 The heir letter is the calm starting point your family receives when they are least prepared to solve a technical and financial problem.
 
@@ -149,7 +147,7 @@ Do not start liquidating accounts before the executor and tax professionals unde
 
 Do not assume the person who knows technology is the person with legal authority.
 
-> **Visual:** Estate deck heir-letter slide: include list on one side, never-include list on the other.
+> 🎬 **VISUAL — Estate deck heir-letter slide: include list on one side, never-include list on the other.**
 
 The letter should never contain seed phrases, private keys, passphrases, PINs, passwords, backup-file passwords, exact storage coordinates, or the complete recovery path.
 
@@ -165,7 +163,7 @@ Then add a communication backstop.
 
 A dead-man switch or another scheduled delivery process can send the no-secrets letter if you fail to check in for a defined period. The scheduled delivery makes sure somebody starts the documented process. It carries the no-secrets letter and never releases keys.
 
-> **Visual:** Four-step communication flow: check in → missed window → waiting period → heir letter delivered.
+> 🎬 **VISUAL — Four-step communication flow: check in → missed window → waiting period → heir letter delivered.**
 
 The cadence has to balance false alarms with delay. Orange Plan uses a ninety-day check-in as the current default. Whatever system you use, test the recipients, the waiting period, and the message.
 
@@ -182,10 +180,9 @@ The finish line for this lesson is a letter that tells the family the first call
 The walkthrough will start the letter in Protect, confirm beneficiaries, enable the switch when Cloud mode is being used, download the document, and record the remaining outside-the-app actions.
 
 ---
-
 ## 8.4 Use insurance for the risks the current stack cannot carry
 
-*`TEACH` · ~4.6 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.8 min · PRE-DICTATION FILMING DRAFT*
 
 Insurance exists for the risks that would break the plan before the assets are large enough to absorb them.
 
@@ -215,7 +212,7 @@ Long-term care belongs on the later-life review. The cost is real, the products 
 
 Health coverage before Medicare is part of the Retirement Income bridge rather than this insurance audit. The same principle applies: price the actual options and the risk retained by the household.
 
-> **Visual:** Insurance coverage audit: Risk / current coverage / what the stack can absorb / remaining gap / next review date.
+> 🎬 **VISUAL — Insurance coverage audit: Risk / current coverage / what the stack can absorb / remaining gap / next review date.**
 
 For each category, I would write down:
 
@@ -235,12 +232,13 @@ Orange Plan does not currently replace a policy inventory or quote comparison. U
 The finish line is not buying more insurance. It is knowing which risks the reserve and stack can carry, which risks still need a policy, and when each coverage will be reviewed again.
 
 ---
-
 ## 8.5 WALKTHROUGH — Build the family handoff in Protect
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
+*`WALKTHROUGH` · ~12 min · IMPLEMENTATION SHEET*
 
 **Screen capture · about 12 minutes**
+
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
 
 ## Before recording
 
@@ -341,16 +339,8 @@ Using a no-secrets table, state:
 - Communication backstop is armed and tested when applicable.
 - Legal authority and technical recovery are mapped together.
 - Insurance gaps are documented for licensed review.
+
 ---
-
-## Module checkpoint
-
-- [ ] Executor and backup are chosen and contacted.
-- [ ] Baseline legal documents and beneficiary forms have a clear status.
-- [ ] Legal authority and technical recovery are mapped together.
-- [ ] Heir letter and executor packet contain no secrets.
-- [ ] The communication backstop is armed and tested when applicable.
-- [ ] Insurance gaps are documented for licensed review.
 
 <!-- ADVANCED-GATE:START -->
 
@@ -361,7 +351,7 @@ worth watching only when its condition is true for you. Continue only if
 one of these describes your situation:
 
 - **A8.1 Do you need a trust, and what job would it do?**
-  → *Research complete. State-licensed estate attorney signoff before publication; no template language or universal Bitcoin trust design is approved here.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 *Generated by `tools/build-module-gates.py` from the Gate line on each
 advanced lesson. Edit the condition there, not here.*

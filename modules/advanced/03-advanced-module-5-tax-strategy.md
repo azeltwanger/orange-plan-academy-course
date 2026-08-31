@@ -2,7 +2,9 @@
 
 ## A5.1 RMD pressure and Roth conversions across the low-income window
 
-> **Gate.** Research complete. Targeted CPA or EA review before publication; verify the current RMD age, brackets, Medicare rules, and healthcare interactions in the year of action.
+*`TEACH` · ~3.0 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Targeted CPA or EA review before publication; verify the current RMD age, brackets, Medicare rules, and healthcare interactions in the year of action.
 
 A large Traditional account can look like tax-free growth while it is accumulating. It is really tax deferred. The tax has not disappeared, and future required distributions can remove control over when the income appears.
 
@@ -42,10 +44,11 @@ The app can model a multi-year conversion schedule and show future required-dist
 The question to ask is not simply, "How much can I convert?" It is, "How much ordinary-income room is actually worth using this year after every interaction is included?"
 
 ---
-
 ## A5.2 Harvest Bitcoin losses and gains without losing the tax story
 
-> **Gate.** Research complete. Targeted CPA or EA review before publication; verify current digital-asset wash-sale treatment and lot-identification requirements before execution.
+*`TEACH` · ~2.6 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Targeted CPA or EA review before publication; verify current digital-asset wash-sale treatment and lot-identification requirements before execution.
 
 Bitcoin's volatility can create tax opportunities in both directions.
 
@@ -78,10 +81,11 @@ The planning questions are:
 - What must be verified under current law before the trade?
 
 ---
-
 ## A5.3 State taxes and relocation: measure the lever before moving
 
-> **Gate.** Research complete. Targeted CPA or state-tax attorney review before publication; verify both origin-state and destination-state residency rules.
+*`TEACH` · ~1.9 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Targeted CPA or state-tax attorney review before publication; verify both origin-state and destination-state residency rules.
 
 State tax can materially change the cost of a large Bitcoin sale, Roth conversion, or business-income year.
 

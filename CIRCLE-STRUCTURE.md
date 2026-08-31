@@ -85,7 +85,7 @@ watched — watching is not the deliverable, a plan is.
 watching only when its condition is true for you:
 
 - **A1.1 How Orange Plan models Bitcoin inside the simulation test**
-  → *Research complete. Record after the current Help & Methodology copy and production settings are checked against the same app commit used on camera.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 ---
 
@@ -173,7 +173,7 @@ watched — watching is not the deliverable, a plan is.
 watching only when its condition is true for you:
 
 - **A3.1 Use price context to name the emotion before a large Bitcoin move**
-  → *Ready after the current price-context data shown in the app is verified. This lesson is a decision check, not a market-timing system.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 ---
 
@@ -211,9 +211,9 @@ watched — watching is not the deliverable, a plan is.
 watching only when its condition is true for you:
 
 - **A4.1 Borrow against Bitcoin without turning a drawdown into liquidation**
-  → *Research complete. Verify the exact lender terms, margin-call rules, liquidation rules, custody model, and current app fields before recording any provider-specific example.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A4.2 The four ways debt can strengthen a plan, and how each one fails**
-  → *Ready as an educational mechanism lesson. Do not recommend a specific loan, lender, rate, or amount.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 ---
 
@@ -252,11 +252,11 @@ watched — watching is not the deliverable, a plan is.
 watching only when its condition is true for you:
 
 - **A5.1 RMD pressure and Roth conversions across the low-income window**
-  → *Research complete. Targeted CPA or EA review before publication; verify the current RMD age, brackets, Medicare rules, and healthcare interactions in the year of action.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A5.2 Harvest Bitcoin losses and gains without losing the tax story**
-  → *Research complete. Targeted CPA or EA review before publication; verify current digital-asset wash-sale treatment and lot-identification requirements before execution.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A5.3 State taxes and relocation: measure the lever before moving**
-  → *Research complete. Targeted CPA or state-tax attorney review before publication; verify both origin-state and destination-state residency rules.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 ---
 
@@ -298,9 +298,9 @@ watched — watching is not the deliverable, a plan is.
 watching only when its condition is true for you:
 
 - **A6.1 Health coverage between retirement and Medicare**
-  → *Verify all premiums, subsidy rules, membership terms, and HSA eligibility immediately before recording. CrowdHealth is personal experience and not insurance or a recommendation.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A6.2 Sell, borrow, or hold when the plan needs a year of spending**
-  → *Research complete. Targeted CPA or EA review before publication; verify lender terms and current basis-at-death law before relying on them.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 ---
 
@@ -343,13 +343,13 @@ watched — watching is not the deliverable, a plan is.
 watching only when its condition is true for you:
 
 - **A7.1 Compare passphrase, multisig, institutional custody, and an intentional split**
-  → *Research complete. Verify exact devices, wallet software, descriptors, provider roles, institutional terms, and recovery procedures before any setup-specific footage.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A7.2 What self-custody actually asks of you**
-  → *Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A7.3 Run the One-Failure Test across methods and providers**
-  → *Research complete. Verify provider and device facts before naming them; no vendor-specific recommendation is implied.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A7.4 UTXOs, dust, consolidation, and address use**
-  → *Research complete. Verify current wallet behavior and network fees before demonstrating; use a test wallet and never expose live addresses unnecessarily.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 ---
 
@@ -390,7 +390,7 @@ watched — watching is not the deliverable, a plan is.
 watching only when its condition is true for you:
 
 - **A8.1 Do you need a trust, and what job would it do?**
-  → *Research complete. State-licensed estate attorney signoff before publication; no template language or universal Bitcoin trust design is approved here.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 ---
 

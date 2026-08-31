@@ -6,7 +6,7 @@
 
 ## 7.1 Self-custody, professional custody, and when a split makes sense
 
-*`TEACH` · ~7 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~7.8 min · PRE-DICTATION FILMING DRAFT*
 
 Most custody advice starts by asking, "What is the safest setup?"
 
@@ -34,7 +34,7 @@ And there is one rule for the entire module: document the process, never the sec
 
 No seed phrase, private key, passphrase, PIN, password, descriptor contents, or exact recovery location goes into Orange Plan, an heir letter, a cloud note, a photo, an email, or an AI tool. The plan can tell somebody what exists, who to call, and where the process starts. It should never become a treasure map.
 
-> **Visual:** Four methods compared side by side: direct self-custody, collaborative multisig, institutional custody, intentional split. Each gets two rows: what it protects against and what you accept.
+> 🎬 **VISUAL — Four methods compared side by side: direct self-custody, collaborative multisig, institutional custody, intentional split. Each gets two rows: what it protects against and what you accept.**
 
 The first decision is not the product. It is which risk you are trying to reduce.
 
@@ -50,7 +50,7 @@ Use a split when each additional setup solves a named risk the family can mainta
 
 The next question is how much direct control matters to you.
 
-> **Visual:** Three-position control preference: Non-negotiable · Important, not absolute · Support and simplicity matter more.
+> 🎬 **VISUAL — Three-position control preference: Non-negotiable · Important, not absolute · Support and simplicity matter more.**
 
 For one person, direct control is non-negotiable. They want a meaningful amount that no institution can freeze.
 
@@ -76,7 +76,7 @@ The decision changes when the amount becomes life-changing. A hardware wallet th
 
 That is when concentration in one method becomes a risk of its own.
 
-> **Visual:** The One-Failure Test: lost recovery material · frozen account · provider failure · home disaster · coercion · incapacity · family unable to execute.
+> 🎬 **VISUAL — The One-Failure Test: lost recovery material · frozen account · provider failure · home disaster · coercion · incapacity · family unable to execute.**
 
 For every meaningful pool, run the One-Failure Test:
 
@@ -128,10 +128,9 @@ If an intentional split is the direction, write the job and maximum exposure for
 The next two lessons handle the operational work: proving a hardware-wallet recovery and fixing the largest remaining single point of failure. The Advanced Library goes deeper on passphrases, multisig, institutional custody, and concentration across providers.
 
 ---
-
 ## 7.2 Set up a hardware wallet and prove the recovery
 
-*`TEACH` · ~4.2 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.3 min · PRE-DICTATION FILMING DRAFT*
 
 The important test for a hardware wallet is not whether you wrote the recovery words down.
 
@@ -141,7 +140,7 @@ Most people skip that step. They generate a wallet, write the words down, send t
 
 I want the first test to happen while the wallet contains only a small amount and you are calm.
 
-> **Visual:** Hardware-wallet six-step sequence. Never display real seed words.
+> 🎬 **VISUAL — Hardware-wallet six-step sequence. Never display real seed words.**
 
 The general process is:
 
@@ -181,10 +180,9 @@ For this core lesson, the finish line is straightforward: you have a device-spec
 The external demo will show the actual process using a throwaway wallet with no meaningful funds. Do not film or display a real seed, real PIN, or real family recovery setup.
 
 ---
-
 ## 7.3 Fix the single points of failure and harden the accounts
 
-*`TEACH` · ~5 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~6.2 min · PRE-DICTATION FILMING DRAFT*
 
 Most Bitcoin losses are not somebody breaking the cryptography.
 
@@ -192,7 +190,7 @@ They are one weak login, one backup, one location, one person who knows the proc
 
 I call these the "only one" problems.
 
-> **Visual:** The expanded only-one list: device · recovery backup · location · person · email or login · custody method · institutional provider · family process · wallet configuration.
+> 🎬 **VISUAL — The expanded only-one list: device · recovery backup · location · person · email or login · custody method · institutional provider · family process · wallet configuration.**
 
 Go through every meaningful Bitcoin pool and look for the word one.
 
@@ -238,7 +236,7 @@ If this entire row became inaccessible, would the financial plan still survive?
 
 A temporary problem with a replaceable amount is different from a failure that destroys the retirement plan or leaves the family unable to act.
 
-> **Visual:** One-Failure Test card with seven events and one final question: “Would the plan survive?”
+> 🎬 **VISUAL — One-Failure Test card with seven events and one final question: “Would the plan survive?”**
 
 Run the test against:
 
@@ -302,10 +300,9 @@ Before the walkthrough, complete the custody map at a no-secrets level:
 Then circle the one failure that could do the most damage. That becomes the next action. The app checklist is not the security itself. It is the honest record of what has and has not actually been done.
 
 ---
-
 ## 7.4 DEMO — Hardware-wallet recovery and exchange hardening
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
+*`DEMO` · ~3 min · IMPLEMENTATION SHEET*
 
 **External screen / device recording · about 12 minutes**
 
@@ -394,13 +391,15 @@ Record in `DEVICE-DEMO-VERIFICATION.md`:
 - recovery method used;
 - test-wallet amount;
 - reviewer who checked raw footage for secrets.
----
 
+---
 ## 7.5 WALKTHROUGH — Document the custody decision and current status without storing secrets
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
+*`WALKTHROUGH` · ~10 min · IMPLEMENTATION SHEET*
 
 **Screen capture · about 10 minutes**
+
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
 
 ## Before recording
 
@@ -542,17 +541,6 @@ Record:
 
 ---
 
-## Module checkpoint
-
-- [ ] Custody direction is one method or an intentional split, chosen on purpose.
-- [ ] Direct-control preference and the risk being reduced are stated.
-- [ ] Every meaningful Bitcoin pool has a no-secrets job, scale, method, remaining failure, and family path.
-- [ ] Hardware recovery is proven or clearly outstanding.
-- [ ] The One-Failure Test identified the largest current weakness.
-- [ ] Important accounts and email are hardened.
-- [ ] No seed, key, passphrase, PIN, password, descriptor contents, or exact recovery location is stored in the app, map, or course notes.
-- [ ] An encrypted backup of the plan data exists.
-
 <!-- ADVANCED-GATE:START -->
 
 ## Related advanced lessons
@@ -562,13 +550,13 @@ worth watching only when its condition is true for you. Continue only if
 one of these describes your situation:
 
 - **A7.1 Compare passphrase, multisig, institutional custody, and an intentional split**
-  → *Research complete. Verify exact devices, wallet software, descriptors, provider roles, institutional terms, and recovery procedures before any setup-specific footage.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A7.2 What self-custody actually asks of you**
-  → *Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A7.3 Run the One-Failure Test across methods and providers**
-  → *Research complete. Verify provider and device facts before naming them; no vendor-specific recommendation is implied.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A7.4 UTXOs, dust, consolidation, and address use**
-  → *Research complete. Verify current wallet behavior and network fees before demonstrating; use a test wallet and never expose live addresses unnecessarily.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 *Generated by `tools/build-module-gates.py` from the Gate line on each
 advanced lesson. Edit the condition there, not here.*

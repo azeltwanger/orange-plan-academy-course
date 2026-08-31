@@ -2,7 +2,9 @@
 
 ## A6.1 Health coverage between retirement and Medicare
 
-> **Gate.** Verify all premiums, subsidy rules, membership terms, and HSA eligibility immediately before recording. CrowdHealth is personal experience and not insurance or a recommendation.
+*`TEACH` · ~2.9 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Verify all premiums, subsidy rules, membership terms, and HSA eligibility immediately before recording. CrowdHealth is personal experience and not insurance or a recommendation.
 
 Retiring before Medicare can create a healthcare bridge that lasts for years. The number is large enough to move the retirement date, so it needs to be priced rather than left as a fear.
 
@@ -37,10 +39,11 @@ Build a side-by-side bridge:
 Enter the chosen cost as part of retirement spending or as an expense event that ends or changes at Medicare. Review it every year because premiums, subsidies, and membership terms change.
 
 ---
-
 ## A6.2 Sell, borrow, or hold when the plan needs a year of spending
 
-> **Gate.** Research complete. Targeted CPA or EA review before publication; verify lender terms and current basis-at-death law before relying on them.
+*`TEACH` · ~2.8 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Targeted CPA or EA review before publication; verify lender terms and current basis-at-death law before relying on them.
 
 A Bitcoin-heavy retirement plan can fund a year of spending by selling, borrowing, using other assets, or leaving a core position untouched while the Reserve and Bridge do the work.
 

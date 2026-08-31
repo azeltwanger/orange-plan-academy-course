@@ -2,7 +2,9 @@
 
 ## A3.1 Use price context to name the emotion before a large Bitcoin move
 
-> **Gate.** Ready after the current price-context data shown in the app is verified. This lesson is a decision check, not a market-timing system.
+*`TEACH` · ~2.0 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Ready after the current price-context data shown in the app is verified. This lesson is a decision check, not a market-timing system.
 
 Price context does not tell you whether to buy or sell. It tells you what emotion is most likely influencing the decision.
 

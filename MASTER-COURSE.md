@@ -33,17 +33,17 @@ The first full 1,000-path simulation result is saved in Module 9, after the full
 
 ## 0.1 How to use this course
 
-*`TEACH` · ~8.9 min · AUSTIN DICTATION*
+*`TEACH` · ~8.8 min · AUSTIN DICTATION*
 
 Welcome to the course. In this first lesson, I'm going to cover what this course is, what you're going to walk out with, and how to get the most out of it as you go through all these lessons.
 
-### Why I Built This
+### Why i built this
 
 The reason why I made this is that it took me four years of holding Bitcoin before I realized that I was missing something. I figured Bitcoin was the investment side of my plan, but what I didn't have was a financial plan where I could see everything in one place.
 
 My background is in financial planning, and I knew from my background in that world that there are lots of variables that you have to solve to really get an accurate idea of where you stand today and what your retirement picture looks like. I built this system that does it for you. It's going to model every income, expense, debt, asset, life event, and future tax liability that you might have. It gives you the ability to run simulations on how likely your plan is to succeed. It tells you how much you can spend, and this system has given me a level of confidence around my family's finances that I hadn't felt since finding Bitcoin. This course is the roadmap that walks you through how to build yours step by step.
 
-### What You'Re Going To Walk Out With
+### What you're going to walk out with
 
 By the end of this course, you're going to walk out with a plan that tells you:
 
@@ -63,7 +63,7 @@ This plan is going to adjust with all of your assets. For example:
 
 Your planned retirement date and simulation result are going to move as the information changes. This is a living financial plan you can update regularly so you know where you stand at any given time.
 
-### How The Course Is Structured
+### How the course is structured
 
 The course is going to walk you through a Start Here module and then nine planning modules, and they're all in the order that I would take a real client through if I was working with you one-on-one.
 
@@ -86,13 +86,13 @@ Build & improve is the roadmap underneath both of them. The lesson helps you mak
 
 Some of these modules are also going to include worksheets, and for some of the worksheets, it's going to include more sensitive information, like, for example, your custody map and an heir letter that are involved in the inheritance planning. I'd recommend printing those out and filling them out with a pen and paper instead of filling out the information on your computer.
 
-### How To Work Through It
+### How to work through it
 
 Also, I'd recommend going in order the first time from top to bottom. After that, you can come back to just refresh yourself on any lessons that you want to brush up on or use to focus on a specific part of your plan.
 
 Now, some of this information can be dense, and it can feel overwhelming if you feel like you need to do all this at once. I think doing a module a week is a good place to start. That way, you can watch the lessons, learn what you need to do, watch the walkthrough as far as how to implement it, and then implement that part of your plan. Each one is designed to help guide you to a decision or an action, and the plan is going to build on itself one piece at a time as you go through each lesson.
 
-### A Quick Disclaimer
+### A quick disclaimer
 
 And a quick disclaimer: this is not designed to replace your tax advisor, estate planning attorney, or financial advisor. It's not financial advice. This is education as far as how I think about these concepts and how I would go about building a financial plan. It is on you to make your own financial decisions and then act on those, using the information that you've learned and what you feel like is best for your specific situation.
 
@@ -107,7 +107,7 @@ Use this program as a way to:
 3. Show up to those professional conversations with licensed professionals prepared using all of your accurate data.
 4. Verify anything before you're about to act on anything, like tax moves or specific estate planning documents.
 
-### Who This Course Is Built For
+### Who this course is built for
 
 One thing to get out of the way up front, so I only have to say it once.
 
@@ -122,52 +122,9 @@ The way of thinking can still be useful. The local rules have to be mapped corre
 Alright, and with that, thanks for being here, and I'll see you in the first lesson.
 
 ---
-
 ## 0.2 How to use Orange Plan AI
 
-*`TEACH` · ~5.6 min · PRE-DICTATION FILMING DRAFT*
-
-In today's lesson, I'm going to show you how I would actually use the AI inside Orange Plan while you're building and maintaining your financial plan.
-
-I don't think the best use of it is opening a blank chat and asking a generic question like, "What should I do with my money?" The useful part is that the AI can look at the section of the plan you're already working on, read the numbers the app calculated, and help you understand what those numbers mean or what you may be missing.
-
-The orange AI Review button opens the Plan Guide. You can open it from anywhere in the app, and the first set of options changes depending on the page you're on.
-
-If you're on Cash Flow, it can help you check whether the income, spending, and surplus look believable. On Debt, it can review which loans are creating the most pressure or risk. On Allocation, it can look at your current holdings, your target, and the timeframes those accounts need to fund. On Tax, it can help you spot a conversion or harvesting question that is worth modeling before you take it to your CPA. On Retirement Income, it can help explain what is driving the date, the simulation result, or the amount the portfolio needs to provide.
-
-The app is still doing the calculations. The AI is there to help you read the output, question it, and think through the decision. I would use it more like a second set of eyes than somebody making the decision for you.
-
-A few prompts I think are useful throughout the course are:
-
-- What changed after the numbers I just updated?
-- Which three inputs are affecting this result the most?
-- What information looks missing, stale, or inconsistent?
-- What am I not thinking about before I make this decision?
-- Compare these two choices and explain the trade-offs in plain language.
-- What should I model before I take this question to my CPA, attorney, or insurance professional?
-
-That last one is important. The AI can help you show up to a professional conversation with the right numbers and a much better question. It should not pretend to replace the person who has to apply current tax law, read an insurance contract, or draft a legal document for your state.
-
-There is also a daily Bitcoin market report inside the Plan Guide. I use this as a quick way to understand what is happening without checking a bunch of different sites.
-
-> **Visual:** Open the daily Bitcoin report and scroll slowly through the sections.
-
-It gives you the current price and recent price changes, how far Bitcoin is from its prior high, ETF and public-company activity when it matters, leverage and futures data when those are relevant, the most useful on-chain change, and the larger macro or industry news that could actually matter. It should also separate information that sounds important from information that would genuinely change the planning read.
-
-The report is not a trading signal. The more useful question at the end is whether anything that happened today changes what you need to do in the plan. Most days, it should not. Staying informed and changing your strategy are two different things.
-
-The AI becomes more valuable as the plan gets more complete. After you replace the onboarding estimates with your real holdings, ask what changed. After you enter the real spending number, ask whether anything else in the plan now looks inconsistent. After you add debts, ask what could create a forced sale in a Bitcoin drawdown. After you set a target allocation, ask whether your reserve, Bridge funding, and custody can support it.
-
-It is also good at finding unfinished work. It may notice an account with no holdings, a debt with an old rate, a life event that is missing from the future cash flow, cost basis that still needs to be reconstructed, or a preview that was never applied to the baseline plan.
-
-You can use another AI too. In Settings under Data and Privacy, Orange Plan has an AI Strategy Review Export. That file is designed to give ChatGPT, Claude, or another AI a useful summary of the plan without including the personal information it does not need. Review the export before you upload it, then ask the same kinds of questions you would ask inside the app.
-
-That export is not the same thing as your encrypted backup. The encrypted backup exists to restore the plan and should never be uploaded to an AI tool.
-
-And there is one rule that applies to every AI, every export, and every part of this course: never enter a seed phrase, private key, wallet backup, passphrase, PIN, password, Social Security number, full account number, or backup-file password into an AI chat. The AI does not need any of those things to help with the plan.
-
-Before moving on, open the Plan Guide once from the page you're currently on. Run one review using your own numbers, open the daily Bitcoin report so you know where it lives, and locate the AI Strategy Review Export in Settings. After that, use the AI when you need help understanding the decision in front of you, not as another thing you have to check every day.
----
+*`TEACH` · ~3.9 min · PRE-DICTATION FILMING DRAFT*
 
 So in this lesson, we're going to cover how I would use Ask while building and maintaining a financial plan.
 
@@ -203,6 +160,7 @@ Keep seed phrases, private keys, wallet backups, passphrases, PINs, passwords, S
 
 Before moving on, open Ask from the page you are currently reviewing and use one prompt tied to your own numbers. Then open the Daily Bitcoin Market Report and locate the AI Strategy Review Export. That is enough to know where these tools fit while you build the rest of the plan.
 
+---
 # Unit 2 · Module 1 — Foundation
 
 *Replace the rough onboarding estimate with real personal details, accounts, current holdings, and assumptions you can defend.*
@@ -211,7 +169,7 @@ Before moving on, open Ask from the page you are currently reviewing and use one
 
 ## 1.1 What to gather before you build the plan
 
-*`TEACH` · ~7.4 min · AUSTIN DICTATION*
+*`TEACH` · ~7.2 min · AUSTIN DICTATION*
 
 In today's lesson, we're going to cover the documents and information that you're going to need to gather before you start building your full financial plan.
 
@@ -223,7 +181,7 @@ Every number that comes out of your plan is only as good as what you put into it
 
 Taking 30 minutes to an hour now to gather all of this information can be a valuable exercise in getting organized. I know it can be a little bit of a pain, but it's definitely worth it.
 
-### What To Gather
+### What to gather
 
 1. Your income. You want recent pay stubs so you can verify what's coming in per period and what that adds up to every year. If you own a business, include every stream of income. If there are two earners, include both. This also includes things like rental income and recurring investment income.
 
@@ -247,7 +205,7 @@ I think it's important to upload as much as you reasonably can. Go to your excha
 
 I would recommend pulling up all of the exchange accounts and brokerage accounts that you have used in the past, downloading the files in one session, and saving them in one folder on your computer. We're going to come back to them in the Tax module, where the historical transactions and cost basis actually get entered and reviewed.
 
-### When Each Part Gets Entered
+### When each part gets entered
 
 We will enter each item in the module that owns it.
 
@@ -270,14 +228,13 @@ If you'd rather gather this information as you go through each step, that's tota
 For now, put the statements, exports, employer information, and rough future-event list in one place. In the Foundation walkthrough, we'll use the personal details, account list, and current holdings first. The rest stays in the folder until the module that teaches the decision and owns the data.
 
 ---
-
 ## 1.2 The three layers of a plan, and setting your assumptions
 
-*`TEACH` · ~9.7 min · AUSTIN DICTATION*
+*`TEACH` · ~9.6 min · AUSTIN DICTATION*
 
 In today's lesson, we're going to cover how your retirement plan is going to be built out and the three different layers that go into how the app works and how your retirement plan is going to work.
 
-### Layer One: Your Baseline And Foundation
+### Layer one: your baseline and foundation
 
 The first layer is your baseline. This includes all of the data and information that is true for your life right now: your current income, current spending, current assets, debts, and every other part of your financial life that is true today.
 
@@ -287,7 +244,7 @@ So the first layer has two parts: what is true now, and what assumptions the pla
 
 That becomes the foundation that everything else is compared against.
 
-### Layer Two: Future Life Events
+### Layer two: future life events
 
 The second layer is future life events. These are things that you genuinely expect to happen in the future and that you can reasonably predict as a future expense or income change.
 
@@ -295,7 +252,7 @@ These are future expenses or income changes you expect with a high level of conf
 
 Adding these things to your plan gives the projection a more accurate picture of the amount of money you're going to need and what your realistic retirement date might be.
 
-### Layer Three: Scenarios
+### Layer three: scenarios
 
 The third layer is scenarios. These are hypotheticals about the future.
 
@@ -309,7 +266,7 @@ Don't feel like you need to constantly make changes to your baseline information
 
 To keep it simple, the truth and the assumptions used by the plan belong in your baseline and foundation. Expected changes that you have a high level of confidence will happen go into life events. Questions and comparisons about the future go into scenarios.
 
-### Current Cash Flow Versus The Projection
+### Current cash flow versus the projection
 
 Orange Plan is meant to project what your future retirement plan might look like. It isn't mainly a current-day budgeting app.
 
@@ -317,7 +274,7 @@ You do have the ability to link or import your accounts on the Cash Flow page. T
 
 If you expect your spending, income, or job situation to change in the future, you can make that adjustment in the life-events section instead of rewriting what is true today.
 
-### Why The Assumptions Matter
+### Why the assumptions matter
 
 The assumptions that you make about the future are going to inform almost every other decision in your plan, including tax planning, which accounts you contribute to, how much you need to save, how you allocate your money, and how you take money out and live off Bitcoin and other assets in retirement.
 
@@ -325,7 +282,7 @@ Every projection and number in your plan is built on top of these inputs, so get
 
 The main inputs about the future include your investment returns, including Bitcoin, inflation, current and retirement spending, life expectancy, your savings rate before retirement, and future life events that change income or spending.
 
-### Lean Conservative
+### Lean conservative
 
 I think one of the most important things is to lean conservative when it comes to Bitcoin and other assets and what their returns are going to be.
 
@@ -333,7 +290,7 @@ If we make assumptions that are too optimistic, it's going to make you feel good
 
 Being conservative means you might be surprised to the upside and give yourself the ability to retire earlier or spend more. Being optimistic means that if you're wrong, the consequences can be working longer than you thought or not having the ability to spend what you really want to in retirement.
 
-### One Input Can Move The Date By Years
+### One input can move the date by years
 
 Let's say we have someone who is 45 years old. They're holding 1.75 Bitcoin and spending around $80,000 a year.
 
@@ -343,7 +300,7 @@ That's a difference of eight years from one input changing.
 
 This is why I think you need to choose a conservative and realistic way to model Bitcoin in the future. I would not choose the model just because it gives you the earliest retirement date. I would choose the one you could defend if you were explaining it to a family member or a friend.
 
-### The Four Bitcoin Models
+### The four bitcoin models
 
 The four main default settings in the app are Conservative, Moderate, Aggressive, and Power law.
 
@@ -365,13 +322,13 @@ If you're spending $80,000 a year today, at 3% inflation that same lifestyle cos
 
 The default in the app is 3%. Think through what you believe is realistic instead of leaving the default simply because it was already loaded.
 
-### The Other Assets
+### The other assets
 
 Orange Plan also has return assumptions for stocks, bonds, cash, and other assets. These begin with reasonable defaults, and you can revisit them later if you have a reason to use something more conservative or build a custom assumption.
 
 This is a personal decision. I think the numbers should be realistic and not emotion-driven.
 
-### How To Choose
+### How to choose
 
 1. Start conservative. If the plan works on a conservative assumption, the upside from Bitcoin or the other assets becomes a bonus.
 2. Use a declining Bitcoin return. A flat CAGR isn't realistic across a 30- or 40-year retirement plan.
@@ -384,51 +341,9 @@ The return assumptions can drastically change decisions about which accounts you
 Before the walkthrough, choose the growth model and inflation assumption you would actually defend, not the pair that produces the earliest date. In the Foundation walkthrough, I'll show you where to review what onboarding selected, where the custom assumptions live, and how to save the baseline once without repeating the click path in this lesson.
 
 ---
-
 ## 1.3 What the onboarding retirement age actually means
 
-*`TEACH` · ~4.6 min · PRE-DICTATION FILMING DRAFT*
-
-In today's lesson, we're going to cover the retirement age you saw at the end of onboarding, what that number actually means, and why it is only the starting point for the plan.
-
-Onboarding only asked you for a small amount of information. It used your age, income, spending, rough account values, Bitcoin holdings, and the growth model you selected to give you a first estimate.
-
-That is useful because you can get a direction without spending an hour entering every account and every detail before you see anything. But the number can look more complete than it really is, so I want to explain exactly what the app is doing.
-
-The onboarding age comes from one set of assumptions. Orange Plan projects those assumptions forward at different retirement ages and finds the earliest age where that version of the plan lasts through the life-expectancy setting.
-
-There are not 1,000 different market paths being averaged together during onboarding. It is one deterministic projection using the rough numbers and the growth model you selected.
-
-So I would think about the onboarding age as a first estimate of what might be possible if those inputs are reasonably close. It is not your finished retirement date, and it is not a promise that the plan is going to work exactly that way.
-
-The reason it is still helpful is that it gives you something concrete to work from. It also shows you how much the growth assumption can move the result. A more conservative Bitcoin model will usually move the age later. A more aggressive model will usually move it earlier.
-
-But the growth model is only one part of the final answer.
-
-The onboarding estimate does not yet have every real account and holding. It does not know all of your debts, expected future expenses, retirement income, Social Security, cost basis, withdrawal order, or tax strategy. Those are the parts we're going to build through the course.
-
-That is why the next step is not to keep changing the growth model until you get the age you want. The next step is to replace the rough estimate with the information that is actually true.
-
-Foundation is going to replace the rough account values with your real accounts and current holdings. Cash Flow is going to verify your income, spending, usable surplus, reserve, and expected life events. Debt is going to add the real loan terms and the decision attached to each debt. Allocation is going to decide what your new dollars are for, which account they go into, and what they buy. The later modules build the tax strategy and retirement paycheck.
-
-Once the full plan is built, Orange Plan can run it through 1,000 different market paths. That is where the simulation result comes from.
-
-The onboarding estimate and the simulation test answer different questions.
-
-The onboarding estimate asks: using this one set of assumptions, what is the earliest age where the projection lasts?
-
-The simulation test asks: when the full plan is run through 1,000 different market paths, how often does it still work as written?
-
-That second question becomes much more useful after the information underneath it is complete. A precise confidence percentage based on rough onboarding data would look more trustworthy than it really is.
-
-As you enter the real data, the age may move earlier or later. That is not the app changing its mind. It means the model is using better information.
-
-After the plan is built, you will also choose the confidence target the retirement date has to meet. The finished earliest date is the first date that clears that target, not just the first date where the single deterministic projection works.
-
-The main thing I want you to take away from this lesson is that onboarding gave you a useful place to start. It did not finish the plan for you.
-
-In the Foundation walkthrough below this lesson, I'll show you how to replace the rough account estimates with your real accounts and holdings, verify the personal details behind the plan, and review the assumptions onboarding used. We are not going to enter every part of the financial plan in that walkthrough. Each later module enters the information it owns.
----
+*`TEACH` · ~3.6 min · PRE-DICTATION FILMING DRAFT*
 
 So in this lesson, we're going to cover the retirement age from onboarding, the first simulation result, and how both change as the plan becomes more complete.
 
@@ -463,129 +378,10 @@ The main takeaway is simple: onboarding gives you a deterministic starting estim
 
 In the Foundation walkthrough, I'll show you how to replace the rough account estimates with real accounts and holdings, review the assumptions, run or read the first preliminary Plan result, and see exactly which details could still change it.
 
+---
 ## 1.4 WALKTHROUGH — Replace the onboarding estimate with real Foundation data
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
-
-**Screen capture · about 20 minutes**
-
-> **DO** = action on screen · **SEE** = point at this result · **⚠** = avoid this mistake
-> Narrate naturally. This sheet is not a teleprompter.
-
-## Before recording
-
-- Complete the current short onboarding with rough values.
-- Use a demo account with no real accounts or holdings entered yet.
-- Have a real-looking statement list ready: account names, owners, current quantities, and cash balances.
-- Do not have a saved 1,000-path simulation receipt yet.
-
-## 1 · Orient the learner
-
-**DO** Land on Dashboard after onboarding.
-
-**SEE** The starting retirement estimate.
-
-**SAY** It is the deterministic estimate from Lesson 1.3: rough inputs, one set of assumptions, not the finished confidence-based date.
-
-**DO** Open **Build & improve**.
-
-**SEE** The areas and the Foundation tasks.
-
-**SAY** Build & improve is the implementation roadmap. The course order teaches the decisions; each walkthrough returns here to complete the area that owns the data.
-
-## 2 · Verify personal details
-
-**DO** Foundation → **Set up personal details** → Planning profile.
-
-**CHECK** date of birth or age · state or country · filing status · spouse details where applicable.
-
-**⚠** Fix the source field. Do not edit a downstream tax or retirement total to compensate for a wrong profile input.
-
-## 3 · Add the real accounts
-
-**DO** Dashboard → **Add Account**.
-
-**ENTER** account type · recognizable account name · owner.
-
-**SHOW** at least one cash account, one retirement or brokerage account, and the actual Bitcoin custody location: exchange, hardware wallet, collaborative custody, IRA, or ETF account.
-
-**⚠** The account is the container. Bitcoin, cash, ETFs, and other assets are holdings inside the account.
-
-**DO** Point at **Link accounts** without waiting on a live connection.
-
-**SAY** Linking is optional. Manual entry and imports are valid; the goal is an honest current position.
-
-## 4 · Add current holdings
-
-**DO** Open an account → **Add holding**.
-
-**ENTER** Bitcoin as quantity · stocks or funds as ticker and shares where supported · cash as the current balance · property or other assets with the current value.
-
-**SEE** The Add holding form now starts on the asset type that fits the account when the app can infer it.
-
-**⚠** Enter basis only when it is already known. Foundation is not where years of purchase history are reconstructed.
-
-**DO** Repeat quickly for the remaining demo accounts.
-
-**SEE** Net worth and account totals update.
-
-## 5 · Explain Add transaction versus historical tax history
-
-**DO** Dashboard → **Add transaction**.
-
-**SEE** **Update my balance** for new activity that should change the current holding, and **Keep my balance** for older history that supports a balance already entered.
-
-**SHOW** the available paths after the intent choice: linked activity when supported · downloaded CSV or spreadsheet · one manually entered purchase, sale, or transfer · AI-assisted description when present.
-
-**SAY** Three jobs stay separate:
-
-1. Foundation records what each account owns now.
-2. Tax records what was paid and when.
-3. Maintenance records activity after the plan is built.
-
-**⚠** A transfer between the learner's own accounts changes location, not the total amount owned. Do not import it as both a sale and a new purchase.
-
-**⚠** Do not import the full historical tax record in this walkthrough. Module 5 owns that work.
-
-## 6 · Verify the current position
-
-**DO** Expand every account group on Dashboard.
-
-**CHECK** owner · account type · quantity · current value · custody location.
-
-**SEE** Net worth and Bitcoin share.
-
-**SAY** If the total is wrong, fix the row that created it. Calculated totals are not inputs.
-
-## 7 · Review the baseline assumptions
-
-**DO** Open the Plan assumptions control from the current Retirement page.
-
-**CHECK** Bitcoin model · inflation · life expectancy · other asset assumptions.
-
-**OPTIONAL** Show where custom return windows live without building one.
-
-**⚠** Review only. Do not change the assumption repeatedly to chase a preferred retirement age.
-
-## 8 · Close Foundation
-
-**DO** Return to **Build & improve → Foundation**.
-
-**SEE** Personal details, accounts, and holdings complete from the real data.
-
-**IF OPEN** Read the exact missing line and fix it on the owning page.
-
-**SAY** Income, living expenses, Reserve settings, and expected life events belong to Module 2. Allocation, debt, tax history, Social Security, and withdrawal strategy come later.
-
-## Foundation checkpoint
-
-- Personal details are accurate.
-- Every real account and custody location is listed.
-- Current holdings match the source statements.
-- The learner knows how to add future activity without duplicating a transfer.
-- The assumptions were reviewed deliberately.
-- Build & improve shows Foundation complete.
----
+*`WALKTHROUGH` · ~20 min · IMPLEMENTATION SHEET*
 
 **Screen capture · about 20 minutes**
 
@@ -713,6 +509,8 @@ In the Foundation walkthrough, I'll show you how to replace the rough account es
 - The first Plan result is visible with a truthful freshness state.
 - Build & improve shows Foundation complete.
 
+---
+
 <!-- ADVANCED-GATE:START -->
 
 ## Related advanced lessons
@@ -722,7 +520,7 @@ worth watching only when its condition is true for you. Continue only if
 one of these describes your situation:
 
 - **A1.1 How Orange Plan models Bitcoin inside the simulation test**
-  → *Research complete. Record after the current Help & Methodology copy and production settings are checked against the same app commit used on camera.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 *Generated by `tools/build-module-gates.py` from the Gate line on each
 advanced lesson. Edit the condition there, not here.*
@@ -736,7 +534,7 @@ advanced lesson. Edit the condition there, not here.*
 
 ## 2.1 Find the surplus your plan can actually use
 
-*`TEACH` · ~6.6 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~6.7 min · PRE-DICTATION FILMING DRAFT*
 
 In today's lesson, we're going to figure out the amount of money your plan can actually put to work every month.
 
@@ -744,7 +542,7 @@ I think this is where a financial plan becomes real. You can have a strong opini
 
 Bitcoin may be the asset that builds the wealth, but the surplus is the engine underneath it. It is what lets you keep buying through a drawdown, build a reserve, pay extra on a debt when that makes sense, and avoid getting forced to sell at the exact time you do not want to.
 
-> **Visual:** Cash Flow by Stage from the Week 2 deck: Working → Approaching → Retired.
+> 🎬 **VISUAL — Cash Flow by Stage from the Week 2 deck: Working → Approaching → Retired.**
 
 Cash flow also changes jobs as your life changes.
 
@@ -778,7 +576,7 @@ The best changes are usually boring and repeat every month. Saving forty dollars
 
 And after the easy items, the biggest levers are usually housing, vehicles, and location. Those are harder changes, but they move the surplus much more than finding another three-dollar subscription.
 
-> **Visual:** Keep / Cut / Reduce cards, followed by the housing / car / location appendix slide.
+> 🎬 **VISUAL — Keep / Cut / Reduce cards, followed by the housing / car / location appendix slide.**
 
 There is one more number you need besides normal spending: your bare-bones spending.
 
@@ -807,10 +605,9 @@ Once the surplus is reliable, it creates a flywheel. You improve cash flow, rout
 In the walkthrough for this module, I'll show you where income and living expenses go, how to compare the plan to real transactions, and how to read the surplus Orange Plan calculates. Then we'll use your bare-bones number and reserve decision from the next lesson to build the first part of the routing plan.
 
 ---
-
 ## 2.2 Size your cash reserve in months of spending
 
-*`TEACH` · ~11.0 min · AUSTIN DICTATION*
+*`TEACH` · ~10.7 min · AUSTIN DICTATION*
 
 In today's lesson, we're going to cover how to size your cash reserve to your life. Let me start by showing you why this matters.
 
@@ -820,7 +617,7 @@ On the flip side of this, if you hold too much cash, you have the opposite probl
 
 For retirement, I use 18 months as a planning default, because the first few years after you stop working are when sequence risk is most dangerous. It's not a prediction of how long the next Bitcoin recovery takes.
 
-### The Formula
+### The formula
 
 The formula that I'm using for sizing your emergency fund is: you're going to take your bare-bones essential spending, and then you're going to multiply that by whatever your target amount of months is for your reserve. Bare-bones spending is the absolute minimum amount you can spend in a month and still get by.
 
@@ -828,7 +625,7 @@ The reason why we use this is that, for the floor, or your bare-bones spending, 
 
 Once I get to the app in the walkthrough section, we'll have an opportunity to set what your bare-bones spending is, what your reserve size is going to be, and how you're going to start building a plan and allocating money towards this reserve.
 
-### Target Months
+### Target months
 
 The amount of months that you should hold depends on your specific situation. The table here that's on the screen is going to give you the range that you're going to fall in. If you have, for example, two stable incomes and you don't have any kids or people relying on you, you can start at about 3 months, and that's going to be the minimum. For most households, I would say 6 months is the baseline. If you have a single-income household, or if you're self-employed or if your pay is more variable, like in a sales job, you're going to want to shoot for 12 months or more.
 
@@ -838,7 +635,7 @@ Things like variable pay, commissions, or contract work are going to push this n
 
 Now, when you combine all these factors together for your life, what you're really estimating is how long you could go without a paycheck. Your reserve needs to be able to protect your family from selling Bitcoin or other assets at the wrong time, and give you the ability to survive during this period without a significant amount of stress on your household.
 
-### The Couple'S Reserve
+### The couple's reserve
 
 Let's walk through an example. Let's say that we have a couple. They're going to be starting at the six-month baseline. They have two stable W-2 incomes, and because of this, we can take 2 months off. Now they're down to around four. They have two kids, so we'll add a month back, and they're at five.
 
@@ -846,7 +643,7 @@ They have a $280,000 mortgage that has to get paid whether they have income or n
 
 So 6 months, times their $5,000 floor spending, their bare-bones spending — this is about a $30,000 reserve target that they're going to set. They already have $30,000 in cash, so they're fully funded. Now their job is just to protect that money so that nothing else, like a vacation or something else, tempts them to dip into that money. It's going to be set aside in a separate account, just emergency fund cash that you're not going to touch.
 
-### The Reserve Changes Jobs In Retirement
+### The reserve changes jobs in retirement
 
 Now, your reserve is going to change as you move into retirement. While you're working, the purpose of the reserve is to replace a lost paycheck and protect you against losing your income and having large unexpected expenses come up. When we shift into retirement, there's not a paycheck to replace.
 
@@ -858,7 +655,7 @@ Now, after several years into retirement, the risk of needing to sell assets at 
 
 After this period, if you're not comfortable holding a large amount of cash, I think it can make sense to move your cash reserve down to something like 12 months if you're up at 18. A lot of this is just going to come down to what your risk tolerance is. If you don't like holding a lot of cash, then I think a floor for a cash reserve in retirement is going to be 12 months. These can go up to around 3 years if you're risk-averse and just feel better having a large cash position. We're going to get into, in later lessons, how you're going to go about refilling this cash reserve and when to do this.
 
-### The Scenario Question
+### The scenario question
 
 Before you pick and decide what your cash reserve is going to be, I think it's important to go through a scenario or situation. If Bitcoin were to drop 50% tomorrow, we go into a bear market, and your income got cut off for 6 months and it took you a while to find a new job: would you rather hold more cash now and be able to safely spend it through that period? Or would you be okay with taking the risk to sell some Bitcoin during that time, knowing that the price is down 50%, and just cut your spending more aggressively to your bare-bones spending?
 
@@ -867,10 +664,9 @@ Your risk tolerance sets the final number. I think having at least 3 months of a
 Before the walkthrough, choose the number of months that fits your income stability, dependents, fixed costs, and comfort with selling during a drawdown. In the walkthrough, I'll show you where to enter the bare-bones monthly amount, select the Reserve basis and months, and choose the monthly build cap. Orange Plan calculates the target from those inputs and shows the gap; you do not type the target multiplication manually.
 
 ---
-
 ## 2.3 Add the future changes your plan should expect
 
-*`TEACH` · ~4.7 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.5 min · PRE-DICTATION FILMING DRAFT*
 
 In today's lesson, we're going to cover the future changes that should already be part of your baseline plan.
 
@@ -893,7 +689,7 @@ I would start by making a list in four groups:
 - family commitments, such as college, support for parents, a wedding, or a gift;
 - retirement changes, including healthcare before Medicare, higher travel spending early, or long-term care later.
 
-> **Visual:** Foundation life-events slide: retirement target, college, income changes, home purchase or sale, large expenses, legacy or family support.
+> 🎬 **VISUAL — Foundation life-events slide: retirement target, college, income changes, home purchase or sale, large expenses, legacy or family support.**
 
 For each one, ask four practical questions.
 
@@ -920,10 +716,9 @@ College is the clearest example, so it gets the next optional lesson. The amount
 In the module walkthrough, I'll show you how to add an expected income or expense event, choose whether it repeats, and see how it changes the future projection. We'll also keep the funding decision separate from the event itself: the life event tells Orange Plan what the future costs; Cash Flow, Debt, and Allocation determine how you prepare for it.
 
 ---
-
 ## 2.4 Optional: decide how much college help you are actually funding
 
-*`TEACH` · ~5.8 min · PRE-DICTATION FILMING DRAFT · OPTIONAL*
+*`TEACH` · ~5.9 min · PRE-DICTATION FILMING DRAFT*
 
 This lesson is optional. It is for you if you have children, grandchildren, or another education goal you expect to help pay for. If that does not apply, skip it and go straight to the module walkthrough.
 
@@ -947,7 +742,7 @@ Third, list every funding source.
 
 That can include existing 529 money, new 529 contributions, Bitcoin or other taxable investments, cash flow while the student is enrolled, grants and scholarships, student work, family gifts, and a bounded amount of student borrowing.
 
-> **Visual:** Build the college funding stack from the bottom up: parent commitment, then sources. Do not show sticker price as the automatic parent target.
+> 🎬 **VISUAL — Build the college funding stack from the bottom up: parent commitment, then sources. Do not show sticker price as the automatic parent target.**
 
 For a Bitcoiner, start with the family commitment and funding sources, then decide whether a 529 improves that plan.
 
@@ -978,12 +773,13 @@ After you choose the commitment, compare it with what is already saved and what 
 In the walkthrough, I'll show you how to add the college event, connect the years and amount to the plan, read the Education target and gap, and add a 529 contribution if that is part of your decision. The important thing before the clicks is that you can say, in one sentence, how much you are helping with and which sources are expected to pay for it.
 
 ---
-
 ## 2.5 WALKTHROUGH — Build cash flow, the Reserve, and expected life events
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
+*`WALKTHROUGH` · ~18 min · IMPLEMENTATION SHEET*
 
 **Screen capture · about 18 minutes**
+
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
 
 ## Before recording
 
@@ -1092,18 +888,8 @@ In the walkthrough, I'll show you how to add the college event, connect the year
 - The Reserve funding pace is saved.
 - Expected life events are in the baseline; hypotheticals are not.
 - The learner knows Module 3 decides where the investable surplus goes.
+
 ---
-
-## Module checkpoint
-
-- [ ] Normal spending and bare-bones spending are separate.
-- [ ] The surplus is believable and sustainable.
-- [ ] Orange Plan calculated the Reserve target from the selected basis and months.
-- [ ] The monthly Reserve build amount is saved.
-- [ ] Expected life events are in the baseline and hypotheticals are in Scenarios.
-- [ ] College funding has a commitment and source plan when it applies.
-
-
 # Unit 4 · Module 3 — Allocation + Next-Dollar
 
 *Choose the Bitcoin allocation you can hold, assign every major account a job, and direct the investable surplus into the right accounts and holdings.*
@@ -1112,64 +898,7 @@ In the walkthrough, I'll show you how to add the college event, connect the year
 
 ## 3.1 Set the Bitcoin allocation you can actually hold
 
-*`TEACH` · ~4.7 min · PRE-DICTATION FILMING DRAFT*
-
-In today's lesson, we're going to answer the question almost every Bitcoiner asks: how much Bitcoin should be in the plan?
-
-I do not think the honest answer is a percentage I hand you.
-
-The amount you can responsibly hold depends on how well you understand Bitcoin, what role it has in your plan, how much volatility you have already lived through, and whether the rest of your financial life can support the position.
-
-The price going up is not conviction. Conviction is understanding what you own well enough that a major drawdown does not change the thesis or force a decision you were not prepared to make.
-
-> **Visual:** Week 3 allocation deck, Bitcoin path: Foundation, Integration, Optimization, Sovereign.
-
-The four paths on the screen are not recommendations. They are a way to describe where somebody actually is.
-
-Foundation is a smaller position while you are still learning. Bitcoin is a hedge or an experiment, and the custody setup may still be an exchange or ETF.
-
-Integration means Bitcoin is a real part of the financial plan. You understand why you own it, it may replace some of the traditional growth exposure, and you are starting to build custody skill.
-
-Optimization means Bitcoin is the main growth driver. You have already lived through real volatility, the position is intentional, and the reserve, debt, taxes, and custody are being designed around it.
-
-Sovereign means Bitcoin is the primary long-term money in the plan. At that level, the support systems matter even more: strong cash flow, enough liquidity, a custody process the family can recover, and a retirement plan that does not require panic-selling.
-
-The important question is which description is true today, not which one sounds most like the identity you want.
-
-Then we run the stress test.
-
-> **Visual:** Week 3 deck page 7: net-worth hit if Bitcoin falls 75%.
-
-Take the Bitcoin percentage and translate a large drawdown into dollars.
-
-If Bitcoin is ten percent of the portfolio and falls seventy-five percent while everything else stays flat, the total portfolio is down about seven and a half percent.
-
-At twenty-five percent Bitcoin, the hit is about nineteen percent.
-
-At fifty percent Bitcoin, it is about thirty-seven and a half percent.
-
-At seventy-five percent Bitcoin, more than half of the total net worth disappears on the statement.
-
-Those are not forecasts. They are a way to make the emotional risk visible.
-
-I want you to use your own number. What would the dollar loss be? What would it do to the retirement date? Would you keep buying, do nothing, cut spending, or feel pressure to sell?
-
-And I do not only mean whether you believe Bitcoin eventually recovers. Could the household continue operating while it is down? Is the reserve full? Are debt payments comfortable? Is any Bitcoin sitting with a lender? Is there a large purchase coming? Could your spouse live with the statement?
-
-The largest position you can hold is the one you can keep through a full drawdown without a forced sale or a panic decision.
-
-That does not mean every concentrated position is wrong. A large Bitcoin allocation can be completely intentional. But concentration transfers work to the rest of the plan. The reserve may need to be larger. Bridge money needs to be accessible. Custody and family recovery need to be stronger. Debt needs more room.
-
-I would also separate a target from a trade you need to make today.
-
-If the current allocation is above or below the target, you do not automatically have to sell assets and create a tax bill. New contributions can move the portfolio toward the target over time. A one-time change is a separate tax and risk decision.
-
-Before a large Bitcoin move, I would also check price context. Not because price tells you what to do, but because it tells you which emotion is in the room. A sharp run-up can create urgency and overconfidence. A sharp drop can create fear or a genuine opportunity. The plan still has to support the move either way. The full price-context check is in the Advanced Library.
-
-By the end of this lesson, you should have a target or a target range you can defend using three things: your understanding of Bitcoin, the dollar loss in a major drawdown, and the support systems around the position.
-
-In the Allocation walkthrough, we'll compare the current mix with that target, run the drawdown against your actual plan, and save the target without assuming you need to make every trade today.
----
+*`TEACH` · ~4.3 min · PRE-DICTATION FILMING DRAFT*
 
 So in this lesson, we're going to set a Bitcoin target the household can actually hold through a major drawdown.
 
@@ -1219,15 +948,16 @@ By the end of this lesson, you should have a target or range you can defend with
 
 In the Allocation walkthrough, we'll compare the current mix with that target, run the drawdown against the actual plan, and preview how contributions or a one-time shift would move the portfolio before anything is saved.
 
+---
 ## 3.2 Give each dollar a job before choosing the investment
 
-*`TEACH` · ~4.7 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.6 min · PRE-DICTATION FILMING DRAFT*
 
 Before we decide which account gets the next dollar, we need to decide what the dollar is for.
 
 This is one of the most useful ideas in the entire plan because the same investment can be reasonable for one job and completely wrong for another.
 
-> **Visual:** Week 3 deck page 5: Reserve, Bridge, Forever by timeframe and job.
+> 🎬 **VISUAL — Week 3 deck page 5: Reserve, Bridge, Forever by timeframe and job.**
 
 The first job is Reserve.
 
@@ -1247,7 +977,7 @@ The current app makes the retirement access question more specific: Reserve is a
 
 The principle is the same in both versions: match the volatility to the job each dollar has to do.
 
-> **Visual:** Week 3 deck page 6: low-volatility Reserve, moderate Bridge, high-volatility Forever.
+> 🎬 **VISUAL — Week 3 deck page 6: low-volatility Reserve, moderate Bridge, high-volatility Forever.**
 
 Reserve has a low-volatility job: protect and stay liquid.
 
@@ -1282,10 +1012,9 @@ If you cannot answer that, the account does not have a job yet.
 In the walkthrough, I'll show you how to assign accounts to the three timeframes, check what each account currently holds, and save the target mix that the new contribution plan will work toward.
 
 ---
-
 ## 3.3 Build the contribution waterfall for every new dollar
 
-*`TEACH` · ~5.8 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~6.1 min · PRE-DICTATION FILMING DRAFT*
 
 Now we have the amount available from Cash Flow, the Reserve decision, the jobs for the money, the target allocation, and whatever Extra Debt amount is currently saved. That debt amount is still provisional until Module 4.
 
@@ -1293,7 +1022,7 @@ This lesson turns all of that into an order for the next dollar.
 
 Most people do not need another list of possible accounts. They need to know what happens to the next five hundred dollars after it hits the plan.
 
-> **Visual:** Week 3 deck page 8: the five-step contribution waterfall.
+> 🎬 **VISUAL — Week 3 deck page 8: the five-step contribution waterfall.**
 
 The first claim is the Reserve, if it is still short.
 
@@ -1311,7 +1040,7 @@ Week 3 saves this rung provisionally because Debt is taught next. We are not ins
 
 Then we reach the part of the waterfall that usually receives most of the investable surplus: is this a Bridge dollar or a Legacy dollar?
 
-> **Visual:** Week 3 deck page 9: Bridge path versus Forever path.
+> 🎬 **VISUAL — Week 3 deck page 9: Bridge path versus Forever path.**
 
 A Bridge dollar needs to stay accessible. That usually points toward a taxable brokerage, direct Bitcoin, cash, or another flexible account rather than locking all of it inside retirement accounts.
 
@@ -1365,10 +1094,9 @@ And Orange Plan cannot change the outside world for you. Saving a contribution p
 In the walkthrough, I'll start with the surplus from Cash Flow, show the dollars already claimed by Reserve and the current provisional Extra Debt amount, configure each contribution row, choose what each account buys, and then make a real-world implementation list for the elections and transfers that have to change outside Orange Plan.
 
 ---
-
 ## 3.4 Put the right holdings inside the right accounts
 
-*`TEACH` · ~3.7 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~3.9 min · PRE-DICTATION FILMING DRAFT*
 
 The contribution waterfall decides which account gets funded. Asset location decides what belongs inside each account.
 
@@ -1380,13 +1108,13 @@ Second: if it can, is this the best tax and access wrapper for that investment?
 
 A perfect tax account is not useful for a Bitcoin dollar if the plan only offers a limited stock and bond menu and no Bitcoin ETF or brokerage window.
 
-> **Visual:** Week 3 deck page 12: Direct Bitcoin, Bitcoin ETF, or no Bitcoin option.
+> 🎬 **VISUAL — Week 3 deck page 12: Direct Bitcoin, Bitcoin ETF, or no Bitcoin option.**
 
 Direct Bitcoin gives you ownership and custody responsibility. A Bitcoin ETF may let you hold the exposure inside an IRA, brokerage account, or some employer plans without managing keys. Some accounts offer neither, which means the Bitcoin dollars need a different destination.
 
 After that filter, look at the tax treatment and the job.
 
-> **Visual:** Week 3 deck page 10: Taxable / Tax-deferred / Tax-free.
+> 🎬 **VISUAL — Week 3 deck page 10: Taxable / Tax-deferred / Tax-free.**
 
 Taxable accounts are flexible. The money can be used before retirement age, which makes them important for the Bridge. Long-term gains may receive capital-gains treatment, and you maintain control over which lots are sold.
 
@@ -1423,12 +1151,13 @@ Before the walkthrough, review every account and answer:
 In the walkthrough, we'll apply those answers row by row and confirm that the contribution plan, account timeframes, and overall target are all describing the same strategy.
 
 ---
-
 ## 3.5 WALKTHROUGH — Route the investable surplus
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
+*`WALKTHROUGH` · ~22 min · IMPLEMENTATION SHEET*
 
 **Screen capture · about 22 minutes**
+
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
 
 > This is Week 3. Debt strategy is taught in Week 4. Use the current Extra debt amount as entered today, then explicitly return to Routing after the Debt module if that amount changes.
 
@@ -1593,17 +1322,8 @@ Record on screen or paper:
 - Contribution destinations, amounts, tax treatment, and holdings are saved.
 - External payroll, transfer, and purchase changes are listed.
 - Extra debt is clearly marked provisional until Week 4.
+
 ---
-
-## Module checkpoint
-
-- [ ] The Bitcoin target survives the dollar drawdown test.
-- [ ] Major accounts have Reserve, Bridge, or Legacy jobs.
-- [ ] The target mix and drift band are saved.
-- [ ] The employer match and contribution destinations are modeled correctly.
-- [ ] Each contribution row says what the money buys.
-- [ ] External payroll, transfer, and purchase changes are listed.
-- [ ] The extra-debt claim is clearly provisional until Module 4.
 
 <!-- ADVANCED-GATE:START -->
 
@@ -1614,7 +1334,7 @@ worth watching only when its condition is true for you. Continue only if
 one of these describes your situation:
 
 - **A3.1 Use price context to name the emotion before a large Bitcoin move**
-  → *Ready after the current price-context data shown in the app is verified. This lesson is a decision check, not a market-timing system.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 *Generated by `tools/build-module-gates.py` from the Gate line on each
 advanced lesson. Edit the condition there, not here.*
@@ -1628,7 +1348,7 @@ advanced lesson. Edit the condition there, not here.*
 
 ## 4.1 Decide what every debt should do
 
-*`TEACH` · ~6.6 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~6.7 min · PRE-DICTATION FILMING DRAFT*
 
 In today's lesson, we're going to build a debt strategy instead of just making a list of what you owe.
 
@@ -1640,7 +1360,7 @@ Some people can carry a low-rate mortgage for thirty years and never think about
 
 If being debt-free is what lets you sleep, that is a valid answer. The important thing is knowing whether the debt is only annoying or whether it is actually making the plan fragile. Those are different problems.
 
-> **Visual:** Debt tolerance slide: math sets a range; psychology decides where you sit inside it.
+> 🎬 **VISUAL — Debt tolerance slide: math sets a range; psychology decides where you sit inside it.**
 
 After tolerance, I use two basic lenses.
 
@@ -1673,7 +1393,7 @@ A medium-rate auto or student loan belongs in the comparison zone. The rate may 
 
 And a variable-rate loan deserves more attention than the current rate alone suggests. The payment can change later, so I would model the higher-rate version before deciding it is harmless.
 
-> **Visual:** Debt ledger with three example rows: high-rate card, medium-rate auto loan, low-rate mortgage. Put the job beside each one.
+> 🎬 **VISUAL — Debt ledger with three example rows: high-rate card, medium-rate auto loan, low-rate mortgage. Put the job beside each one.**
 
 There are three decisions people often collapse into one:
 
@@ -1706,12 +1426,13 @@ The reason matters more than the dropdown. If the reason changes, the job can ch
 In the walkthrough below, I'll show you how to enter every debt with the current balance, rate, and payment, read the two debt ratios, see the stress information for a Bitcoin-backed loan when one exists, and assign the monthly extra-payment amount that will later appear in the contribution waterfall.
 
 ---
-
 ## 4.2 WALKTHROUGH — Give every debt a job and update the waterfall
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
+*`WALKTHROUGH` · ~10 min · IMPLEMENTATION SHEET*
 
 **Screen capture · about 10 minutes**
+
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
 
 ## Before recording
 
@@ -1808,16 +1529,8 @@ For each row, choose or record:
 - Extra debt is reflected in Cash Flow Routing.
 - The contribution plan was rechecked after that change.
 - Any Bitcoin-backed loan has written operating triggers outside the app.
+
 ---
-
-## Module checkpoint
-
-- [ ] Every active debt has a current balance, rate, and payment or loan-specific terms.
-- [ ] You understand payment capacity and balance-sheet leverage as separate lenses.
-- [ ] Every debt has a job and a reason.
-- [ ] Any Bitcoin-backed loan has written operating triggers.
-- [ ] Extra debt is reflected in Cash Flow Routing.
-- [ ] The contribution plan was rechecked after the debt decision.
 
 <!-- ADVANCED-GATE:START -->
 
@@ -1828,9 +1541,9 @@ worth watching only when its condition is true for you. Continue only if
 one of these describes your situation:
 
 - **A4.1 Borrow against Bitcoin without turning a drawdown into liquidation**
-  → *Research complete. Verify the exact lender terms, margin-call rules, liquidation rules, custody model, and current app fields before recording any provider-specific example.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A4.2 The four ways debt can strengthen a plan, and how each one fails**
-  → *Ready as an educational mechanism lesson. Do not recommend a specific loan, lender, rate, or amount.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 *Generated by `tools/build-module-gates.py` from the Gate line on each
 advanced lesson. Edit the condition there, not here.*
@@ -1844,7 +1557,7 @@ advanced lesson. Edit the condition there, not here.*
 
 ## 5.1 Cost basis: know what you paid before you plan a sale
 
-*`TEACH` · ~4.4 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.3 min · PRE-DICTATION FILMING DRAFT*
 
 In today's lesson, we're going to cover cost basis, which is just a technical way of saying what you paid for each investment you own.
 
@@ -1852,7 +1565,7 @@ This is the first tax lesson for a reason. If the purchase history is wrong, eve
 
 For Bitcoin, the basis belongs to individual lots. A lot is one purchase or another acquisition with its own date, amount, and cost.
 
-> **Visual:** Tax deck lot table: three Bitcoin purchases with different dates and basis amounts.
+> 🎬 **VISUAL — Tax deck lot table: three Bitcoin purchases with different dates and basis amounts.**
 
 Let's say you bought Bitcoin at three very different prices. You later sell the same amount of Bitcoin. The tax result can change depending on which lot you can properly identify as the one that was sold.
 
@@ -1897,16 +1610,15 @@ The useful output is an answer before money moves: which lot is being sold, what
 In the tax walkthrough, I'll show you how to import the available history, review the lots the app flags, see which holdings still need dates or prices, and create the export that makes the final tax decision easier to review with your CPA.
 
 ---
-
 ## 5.2 Use the tax buckets and the low-income window on purpose
 
-*`TEACH` · ~5.6 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~5.8 min · PRE-DICTATION FILMING DRAFT*
 
 Once the cost basis is usable, the next question is where the money sits and when the tax is going to be paid.
 
 I think of the plan as having three tax buckets.
 
-> **Visual:** Tax deck: Taxable, Tax-deferred, Roth.
+> 🎬 **VISUAL — Tax deck: Taxable, Tax-deferred, Roth.**
 
 Taxable money is flexible. You can generally access it whenever you need it. Investment gains may receive long-term capital-gains treatment when the holding-period rules are met, and there is a zero-percent federal long-term capital-gains bracket for some taxpayers. Gains stack on top of the rest of taxable income, so the available 0% long-term capital-gains space is limited by the whole return.
 
@@ -1918,7 +1630,7 @@ A mix of all three buckets gives you options. If all of the money is tax-deferre
 
 The biggest opportunity often appears between the last paycheck and the start of larger fixed income sources.
 
-> **Visual:** Tax deck bracket roadmap: working years, early retirement window, Social Security and RMD years.
+> 🎬 **VISUAL — Tax deck bracket roadmap: working years, early retirement window, Social Security and RMD years.**
 
 While somebody is working, wages may already fill the lower tax brackets.
 
@@ -1942,7 +1654,7 @@ When a lot is below basis, realizing the loss may offset gains elsewhere and may
 
 Gain harvesting moves in the opposite direction. In a low-income year, you may intentionally realize a long-term gain, use available zero-percent or lower-rate capital-gains space, and reset the basis higher. Again, all income stacks together, so the correct amount is a calculation rather than a headline threshold copied from an article.
 
-> **Visual:** Tax deck: losses on dips, gains in low brackets.
+> 🎬 **VISUAL — Tax deck: losses on dips, gains in low brackets.**
 
 State tax can be a large lever too. A large gain or conversion can produce very different results depending on residency. But changing the state on a tax form is not the same thing as changing domicile. A real move involves where you live, work, vote, hold property, spend time, and intend to remain. A move made around a major sale can receive extra scrutiny.
 
@@ -1957,12 +1669,13 @@ The goal of this module is not to complete every tax move today. It is to leave 
 The tax walkthrough will show the current bucket balances, the conversion analysis, the lot-level harvesting view, and the state comparison that exists in the app. We will keep the model and the execution separate: Orange Plan helps you see the opportunity; the current-year return and professional review decide what gets filed.
 
 ---
-
 ## 5.3 WALKTHROUGH — Reconcile basis and model the tax window
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
+*`WALKTHROUGH` · ~15 min · IMPLEMENTATION SHEET*
 
 **Screen capture · about 15 minutes**
+
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
 
 ## Before recording
 
@@ -2075,16 +1788,8 @@ Save or list:
 - A conversion or withdrawal range is modeled, not executed blindly.
 - Harvesting candidates and the 8949 export are saved.
 - The professional questions are ready before the calendar deadline.
+
 ---
-
-## Module checkpoint
-
-- [ ] Missing basis is visible and never silently invented.
-- [ ] Transfers and duplicate imports are reconciled.
-- [ ] The taxable, tax-deferred, and Roth mix is understood.
-- [ ] A conversion or withdrawal range is modeled when relevant.
-- [ ] Harvesting candidates and the 8949 export are saved.
-- [ ] Current-year questions are ready before the calendar deadline.
 
 <!-- ADVANCED-GATE:START -->
 
@@ -2095,11 +1800,11 @@ worth watching only when its condition is true for you. Continue only if
 one of these describes your situation:
 
 - **A5.1 RMD pressure and Roth conversions across the low-income window**
-  → *Research complete. Targeted CPA or EA review before publication; verify the current RMD age, brackets, Medicare rules, and healthcare interactions in the year of action.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A5.2 Harvest Bitcoin losses and gains without losing the tax story**
-  → *Research complete. Targeted CPA or EA review before publication; verify current digital-asset wash-sale treatment and lot-identification requirements before execution.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A5.3 State taxes and relocation: measure the lever before moving**
-  → *Research complete. Targeted CPA or state-tax attorney review before publication; verify both origin-state and destination-state residency rules.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 *Generated by `tools/build-module-gates.py` from the Gate line on each
 advanced lesson. Edit the condition there, not here.*
@@ -2113,7 +1818,7 @@ advanced lesson. Edit the condition there, not here.*
 
 ## 6.1 Build the spending number, income floor, gap, and Bridge
 
-*`TEACH` · ~4.5 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.4 min · PRE-DICTATION FILMING DRAFT*
 
 In today's lesson, we're going to define the three numbers that the retirement paycheck has to solve: spending, the income floor, and the gap.
 
@@ -2129,7 +1834,7 @@ Flexible spending is travel, gifts, hobbies, and the parts of the lifestyle that
 
 Then add the large expected items as life events rather than pretending every year is identical. A vehicle, home project, family support, or another large cost can make one retirement year much more expensive than the next.
 
-> **Visual:** Retirement Income deck page 3: baseline, flexible, healthcare, one-time needs.
+> 🎬 **VISUAL — Retirement Income deck page 3: baseline, flexible, healthcare, one-time needs.**
 
 Next, build the income floor.
 
@@ -2145,7 +1850,7 @@ If the household plans to spend one hundred thousand dollars and reliable income
 
 That gap is much more useful than a generic withdrawal rate because it changes over time.
 
-> **Visual:** Retirement Income deck annual cash-flow table.
+> 🎬 **VISUAL — Retirement Income deck annual cash-flow table.**
 
 The first retirement years may have no Social Security or pension yet, so the portfolio covers almost the entire spending amount.
 
@@ -2181,10 +1886,9 @@ By the end of this lesson, I want you to know:
 In the walkthrough, we'll put those numbers on the Income page, read the year-by-year gap, and confirm whether the accounts assigned to Bridge can actually cover the years before the rest of the plan becomes available.
 
 ---
-
 ## 6.2 Choose the withdrawal order and the draw-and-refill rule
 
-*`TEACH` · ~4.6 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.7 min · PRE-DICTATION FILMING DRAFT*
 
 Once we know the spending, income floor, gap, and Bridge years, we can decide where each year's paycheck comes from.
 
@@ -2204,7 +1908,7 @@ Use the reliable income first. Then look at the ordinary-income room that is ava
 
 The exact blend changes every year. It depends on spending, basis, account balances, Social Security, healthcare subsidies, Medicare, and the current tax rules. The ratio is an output from the plan, not a universal number somebody should copy.
 
-> **Visual:** Retirement Income deck income waterfall, then show a blended tax-aware version beside the strict order.
+> 🎬 **VISUAL — Retirement Income deck income waterfall, then show a blended tax-aware version beside the strict order.**
 
 Now connect the withdrawal order to the three timeframes from Allocation.
 
@@ -2222,7 +1926,7 @@ When the portfolio is in a major drawdown, pause the refill and spend from the c
 
 If the Reserve approaches its hard floor, the household may still have to refill, reduce spending, use another account, or make a different funding decision. The rule is not "never sell down." The rule is that the plan responds before a cash shortage forces a bad decision.
 
-> **Visual:** Retirement Income deck page 9: Reserve ← Bridge ← Forever, refill on strength.
+> 🎬 **VISUAL — Retirement Income deck page 9: Reserve ← Bridge ← Forever, refill on strength.**
 
 Different households can use different bucket sizes with the same rule.
 
@@ -2247,65 +1951,9 @@ The plan should tell you what each choice costs in taxes, interest, risk, and es
 In the walkthrough, we'll compare the withdrawal settings, read the year-by-year sources of the paycheck, set the Reserve and refill behavior, and preview the sell-versus-borrow choices before anything is applied to the baseline plan.
 
 ---
-
 ## 6.3 Read the simulation result and use spending guardrails
 
-*`TEACH` · ~4.4 min · PRE-DICTATION FILMING DRAFT*
-
-This lesson is where we move from one projected path to a range of different futures.
-
-In Foundation, the onboarding retirement age came from one deterministic projection. It used the selected assumptions and found the earliest age where that single version of the plan lasted.
-
-The full simulation test is different.
-
-Orange Plan runs the completed plan through 1,000 market paths. In every path, the plan still includes the income, taxes, debts, life events, contributions, retirement spending, withdrawal order, and other decisions you entered. The market sequence changes from one path to the next.
-
-If the plan succeeds in 820 of the 1,000 runs, the result is eighty-two percent.
-
-That does not mean there is an eighteen-percent chance you go broke.
-
-It means 180 of the modeled paths did not fully fund the exact plan as written without an adjustment. A real household would not usually keep spending the same amount for decades while the plan is clearly moving off track. That is what the guardrails are designed to solve.
-
-The simulation count is a stress test of the assumptions and the strategy. It is not a forecast of your life.
-
-> **Visual:** 1,000 plan paths fading into a simulation result. Label the deterministic onboarding line separately.
-
-The app also uses the same set of modeled paths when you compare strategies, so the comparison is fair. If the inputs and strategy do not change, the result is designed to be repeatable rather than jumping randomly every time you click the button.
-
-Bitcoin receives different return and volatility treatment from a generic stock or bond. The exact distributions, correlations, tails, and calibration are documented in the methodology and covered in the Advanced modeling lesson. The core point is that the simulation is trying to include difficult sequences, not only a smooth average return.
-
-You choose the confidence target a retirement date has to meet. A higher target usually requires a later date, lower spending, more savings, or another change. A lower target accepts more modeled paths where the plan would need an adjustment.
-
-There is no universal number that removes all uncertainty. The default target is a planning choice, not a guarantee.
-
-And one hundred percent is not automatically the goal. A plan can become overly conservative by requiring so much margin that the household works longer or spends less than it needed to.
-
-The annual guardrails turn the simulation result into an operating rule.
-
-The current default policy centers on an eighty-percent target.
-
-When confidence falls to the lower trigger around sixty percent, the plan recommends reducing the spending target toward the eighty-percent center.
-
-When confidence stays between the triggers, the plan keeps the strategy and applies the normal inflation adjustment.
-
-When confidence rises to the upper trigger around ninety-five percent, the plan creates room to raise spending toward the center instead of allowing the household to under-spend forever.
-
-Each annual correction is capped at ten percent. A large change may take more than one annual review to fully re-center. That cap prevents the retirement paycheck from swinging wildly from one year to the next.
-
-> **Visual:** Guardrail line: 60 cut → 80 hold → 95 raise, with ±10% annual cap.
-
-The upper guardrail is as important as the lower one. Most retirement planning only tells people when to cut. A useful plan also gives permission to spend more when the margin has become larger than the household needs.
-
-The confidence target and the annual guardrails have related numbers but different jobs.
-
-The target decides whether a retirement date or spending plan is acceptable when you set it.
-
-The guardrails decide whether next year's spending should be lowered, held, or raised after the plan is updated.
-
-The annual review also connects this result to the Reserve. If the plan is weak and spending is being reduced, you may pause a discretionary refill instead of selling assets into weakness. If the plan is healthy, refill the Reserve toward the target. If the Reserve is near its hard floor, the cash need has to be addressed even when markets are poor.
-
-Module 9 runs the first full simulation test after every Build & improve area is complete. This module teaches the rule and shows where the operating controls live without treating an unfinished plan as the final baseline.
----
+*`TEACH` · ~4.5 min · PRE-DICTATION FILMING DRAFT*
 
 So in this lesson, we're going to read the 1,000-simulation result and use the spending guardrails that turn it into an annual operating rule.
 
@@ -2317,7 +1965,7 @@ The simulation count measures the saved plan under the selected assumptions. It 
 
 > 🎬 **VISUAL — 1,000 plan paths ending in a large “790 of 1,000” count, with the through-age shown underneath.**
 
-The normal Orange Plan standard is 800 successful simulations out of 1,000. Orange Plan uses that fixed standard to calculate the earliest modeled retirement date. Normal users see one clear standard instead of another percentage control to manage.
+The normal Orange Plan standard is 800 of 1,000 successful simulations. Orange Plan uses that fixed standard to calculate the earliest modeled retirement date. Normal users see one clear standard instead of another percentage control to manage.
 
 The planned retirement date remains separate. That is the date the household currently intends to use. The earliest modeled date is the first date that reaches the Orange Plan standard.
 
@@ -2355,135 +2003,10 @@ By the end of this lesson, you should be able to explain four things: how many o
 
 In the Retirement Income walkthrough, we'll read the current result, compare one strategy in Preview, save the withdrawal decision, and show where the portfolio guardrails and annual spending review live. Module 9 confirms the completed current baseline after every area is finished.
 
+---
 ## 6.4 WALKTHROUGH — Build the retirement paycheck
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
-
-**Screen capture · about 16 minutes**
-
-> This module builds every retirement-income input and strategy. The first saved full 1,000-path confidence run waits until Module 9, after Custody and Estate are also intentionally complete.
-
-## Before recording
-
-- Retirement spending decision from Lesson 6.1.
-- Current Social Security estimates and start ages.
-- Pension or other durable-income details.
-- Healthcare bridge estimate when retirement begins before Medicare.
-- Account timeframes and contribution plan from Module 3.
-- Tax-window work from Module 5.
-
-## 1 · Confirm retirement spending
-
-**DO** Plan → Retirement → current spending and retirement-age controls.
-
-**ENTER / VERIFY** baseline annual spending.
-
-**SAY** The number includes the expected lifestyle and healthcare. Required debt payments remain modeled separately.
-
-**DO** Add large irregular costs as life events rather than inflating every year.
-
-## 2 · Add the healthcare bridge when needed
-
-**DO** Life events → Expense change.
-
-**ENTER** start at retirement · current annual premium / retained cost · duration until Medicare or the chosen transition date.
-
-**⚠** Use current quotes. Do not reuse a premium from a recorded lesson.
-
-## 3 · Build the income floor
-
-**DO** Planning profile / retirement benefits → Social Security and start age.
-
-**ENTER** monthly benefit in the field that expects a monthly number.
-
-**ADD** spouse benefit · pension · other durable income using the current owning controls.
-
-**SEE** the floor in the Income chart and year-by-year detail.
-
-## 4 · Read the gap and Bridge years
-
-**DO** Plan → Income → Income Blueprint → click early retirement years.
-
-**SEE** spending need · durable income / floor · portfolio-funded gap.
-
-**COUNT** the years before retirement-account access, Social Security, pension, or other income begins.
-
-**COMPARE** the gap with the accounts assigned to Bridge.
-
-**⚠** A funded total portfolio can still have an access problem. The Bridge must exist in money the household can actually use.
-
-## 5 · Compare Social Security timing when it matters
-
-**DO** Plan → Scenarios → claim at an earlier age versus a later age using current presets or a custom scenario.
-
-**READ** benefit size · Bridge withdrawals · taxes · Bitcoin / portfolio remaining.
-
-**SAY** The larger check is not the only result. Waiting has a portfolio cost during the Bridge.
-
-## 6 · Set the withdrawal strategy
-
-**DO** Income Blueprint → Withdrawal order / income strategy.
-
-**SHOW** account order and what is sold inside accounts as separate controls.
-
-**COMPARE** sequential with the current tax-aware or blended option.
-
-**SEE** lifetime taxes · Bitcoin remaining · after-tax result update in preview.
-
-**SAY** Strict taxable-first can waste low ordinary-income brackets. Tax-aware uses the current year's mix instead of waiting for a later cliff.
-
-**DO** Apply the chosen strategy only after the comparison is understood.
-
-**⚠** A preview is not the baseline until Apply is used. Revert removes the draft.
-
-## 7 · Read the Reserve / Bridge / Legacy draw-and-refill system
-
-**SEE** the cash / Reserve buffer and the account timeframes.
-
-**SAY** Spending comes from the Reserve. Bridge refills it. Legacy refills Bridge when the plan and market conditions support it.
-
-**SHOW** where the annual update or refill status will appear once the operating plan is active.
-
-**⚠** Do not claim the app predicts a good sale day. The rule is an annual operating decision, not market timing.
-
-## 8 · Preview sell, borrow, or hold
-
-**DO** Retirement Borrowing / Bitcoin-backed loans workbench.
-
-**COMPARE** sell-only / bracket-aware / borrow-first / custom options that exist in the current build.
-
-**SEE** interest · debt · Bitcoin at lender versus custody · after-tax result / projected legacy.
-
-**TOGGLE** step-up or estate assumptions only as a model, with current-law caveat.
-
-**⚠** Nothing changes until Apply. Verify lender terms and tax treatment outside the app before applying a borrowing strategy.
-
-## 9 · Show, but do not complete, the confidence operating plan
-
-**DO** Open the Retirement operating plan / What you can spend section.
-
-**POINT OUT** the confidence target choices and annual guardrail area.
-
-**SAY** Lesson 6.3 explained how this works. We are deliberately waiting to run and save the first full simulation result until Module 9, after every Build & improve area is complete.
-
-**⚠** Do not seed a placeholder result or read a percentage as final during this walkthrough.
-
-## 10 · Close Retirement income
-
-**DO** Build & improve → **Retirement income**.
-
-**SEE** retirement age and spending · Social Security · withdrawal strategy complete.
-
-## Module 6 checkpoint
-
-- Retirement spending, healthcare, and irregular costs are honest.
-- The income floor and gap can be stated from memory.
-- Bridge years and accessible funding are verified.
-- Social Security timing was compared when material.
-- A withdrawal order is applied and understood.
-- Sell / borrow / hold remains a preview unless intentionally applied.
-- The first full confidence run is explicitly deferred to Module 9.
----
+*`WALKTHROUGH` · ~18 min · IMPLEMENTATION SHEET*
 
 **Screen capture · about 18 minutes**
 
@@ -2609,6 +2132,8 @@ In the Retirement Income walkthrough, we'll read the current result, compare one
 - The simulation result is read as a count with a truthful freshness state.
 - The portfolio guardrail status is understood.
 
+---
+
 <!-- ADVANCED-GATE:START -->
 
 ## Related advanced lessons
@@ -2618,9 +2143,9 @@ worth watching only when its condition is true for you. Continue only if
 one of these describes your situation:
 
 - **A6.1 Health coverage between retirement and Medicare**
-  → *Verify all premiums, subsidy rules, membership terms, and HSA eligibility immediately before recording. CrowdHealth is personal experience and not insurance or a recommendation.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A6.2 Sell, borrow, or hold when the plan needs a year of spending**
-  → *Research complete. Targeted CPA or EA review before publication; verify lender terms and current basis-at-death law before relying on them.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 *Generated by `tools/build-module-gates.py` from the Gate line on each
 advanced lesson. Edit the condition there, not here.*
@@ -2634,7 +2159,7 @@ advanced lesson. Edit the condition there, not here.*
 
 ## 7.1 Self-custody, professional custody, and when a split makes sense
 
-*`TEACH` · ~7 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~7.8 min · PRE-DICTATION FILMING DRAFT*
 
 Most custody advice starts by asking, "What is the safest setup?"
 
@@ -2662,7 +2187,7 @@ And there is one rule for the entire module: document the process, never the sec
 
 No seed phrase, private key, passphrase, PIN, password, descriptor contents, or exact recovery location goes into Orange Plan, an heir letter, a cloud note, a photo, an email, or an AI tool. The plan can tell somebody what exists, who to call, and where the process starts. It should never become a treasure map.
 
-> **Visual:** Four methods compared side by side: direct self-custody, collaborative multisig, institutional custody, intentional split. Each gets two rows: what it protects against and what you accept.
+> 🎬 **VISUAL — Four methods compared side by side: direct self-custody, collaborative multisig, institutional custody, intentional split. Each gets two rows: what it protects against and what you accept.**
 
 The first decision is not the product. It is which risk you are trying to reduce.
 
@@ -2678,7 +2203,7 @@ Use a split when each additional setup solves a named risk the family can mainta
 
 The next question is how much direct control matters to you.
 
-> **Visual:** Three-position control preference: Non-negotiable · Important, not absolute · Support and simplicity matter more.
+> 🎬 **VISUAL — Three-position control preference: Non-negotiable · Important, not absolute · Support and simplicity matter more.**
 
 For one person, direct control is non-negotiable. They want a meaningful amount that no institution can freeze.
 
@@ -2704,7 +2229,7 @@ The decision changes when the amount becomes life-changing. A hardware wallet th
 
 That is when concentration in one method becomes a risk of its own.
 
-> **Visual:** The One-Failure Test: lost recovery material · frozen account · provider failure · home disaster · coercion · incapacity · family unable to execute.
+> 🎬 **VISUAL — The One-Failure Test: lost recovery material · frozen account · provider failure · home disaster · coercion · incapacity · family unable to execute.**
 
 For every meaningful pool, run the One-Failure Test:
 
@@ -2756,10 +2281,9 @@ If an intentional split is the direction, write the job and maximum exposure for
 The next two lessons handle the operational work: proving a hardware-wallet recovery and fixing the largest remaining single point of failure. The Advanced Library goes deeper on passphrases, multisig, institutional custody, and concentration across providers.
 
 ---
-
 ## 7.2 Set up a hardware wallet and prove the recovery
 
-*`TEACH` · ~4.2 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.3 min · PRE-DICTATION FILMING DRAFT*
 
 The important test for a hardware wallet is not whether you wrote the recovery words down.
 
@@ -2769,7 +2293,7 @@ Most people skip that step. They generate a wallet, write the words down, send t
 
 I want the first test to happen while the wallet contains only a small amount and you are calm.
 
-> **Visual:** Hardware-wallet six-step sequence. Never display real seed words.
+> 🎬 **VISUAL — Hardware-wallet six-step sequence. Never display real seed words.**
 
 The general process is:
 
@@ -2809,10 +2333,9 @@ For this core lesson, the finish line is straightforward: you have a device-spec
 The external demo will show the actual process using a throwaway wallet with no meaningful funds. Do not film or display a real seed, real PIN, or real family recovery setup.
 
 ---
-
 ## 7.3 Fix the single points of failure and harden the accounts
 
-*`TEACH` · ~5 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~6.2 min · PRE-DICTATION FILMING DRAFT*
 
 Most Bitcoin losses are not somebody breaking the cryptography.
 
@@ -2820,7 +2343,7 @@ They are one weak login, one backup, one location, one person who knows the proc
 
 I call these the "only one" problems.
 
-> **Visual:** The expanded only-one list: device · recovery backup · location · person · email or login · custody method · institutional provider · family process · wallet configuration.
+> 🎬 **VISUAL — The expanded only-one list: device · recovery backup · location · person · email or login · custody method · institutional provider · family process · wallet configuration.**
 
 Go through every meaningful Bitcoin pool and look for the word one.
 
@@ -2866,7 +2389,7 @@ If this entire row became inaccessible, would the financial plan still survive?
 
 A temporary problem with a replaceable amount is different from a failure that destroys the retirement plan or leaves the family unable to act.
 
-> **Visual:** One-Failure Test card with seven events and one final question: “Would the plan survive?”
+> 🎬 **VISUAL — One-Failure Test card with seven events and one final question: “Would the plan survive?”**
 
 Run the test against:
 
@@ -2930,10 +2453,9 @@ Before the walkthrough, complete the custody map at a no-secrets level:
 Then circle the one failure that could do the most damage. That becomes the next action. The app checklist is not the security itself. It is the honest record of what has and has not actually been done.
 
 ---
-
 ## 7.4 DEMO — Hardware-wallet recovery and exchange hardening
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
+*`DEMO` · ~3 min · IMPLEMENTATION SHEET*
 
 **External screen / device recording · about 12 minutes**
 
@@ -3022,13 +2544,15 @@ Record in `DEVICE-DEMO-VERIFICATION.md`:
 - recovery method used;
 - test-wallet amount;
 - reviewer who checked raw footage for secrets.
----
 
+---
 ## 7.5 WALKTHROUGH — Document the custody decision and current status without storing secrets
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
+*`WALKTHROUGH` · ~10 min · IMPLEMENTATION SHEET*
 
 **Screen capture · about 10 minutes**
+
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
 
 ## Before recording
 
@@ -3170,17 +2694,6 @@ Record:
 
 ---
 
-## Module checkpoint
-
-- [ ] Custody direction is one method or an intentional split, chosen on purpose.
-- [ ] Direct-control preference and the risk being reduced are stated.
-- [ ] Every meaningful Bitcoin pool has a no-secrets job, scale, method, remaining failure, and family path.
-- [ ] Hardware recovery is proven or clearly outstanding.
-- [ ] The One-Failure Test identified the largest current weakness.
-- [ ] Important accounts and email are hardened.
-- [ ] No seed, key, passphrase, PIN, password, descriptor contents, or exact recovery location is stored in the app, map, or course notes.
-- [ ] An encrypted backup of the plan data exists.
-
 <!-- ADVANCED-GATE:START -->
 
 ## Related advanced lessons
@@ -3190,13 +2703,13 @@ worth watching only when its condition is true for you. Continue only if
 one of these describes your situation:
 
 - **A7.1 Compare passphrase, multisig, institutional custody, and an intentional split**
-  → *Research complete. Verify exact devices, wallet software, descriptors, provider roles, institutional terms, and recovery procedures before any setup-specific footage.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A7.2 What self-custody actually asks of you**
-  → *Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A7.3 Run the One-Failure Test across methods and providers**
-  → *Research complete. Verify provider and device facts before naming them; no vendor-specific recommendation is implied.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 - **A7.4 UTXOs, dust, consolidation, and address use**
-  → *Research complete. Verify current wallet behavior and network fees before demonstrating; use a test wallet and never expose live addresses unnecessarily.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 *Generated by `tools/build-module-gates.py` from the Gate line on each
 advanced lesson. Edit the condition there, not here.*
@@ -3210,7 +2723,7 @@ advanced lesson. Edit the condition there, not here.*
 
 ## 8.1 Choose who is in charge and put the legal baseline in place
 
-*`TEACH` · ~4.9 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~5.0 min · PRE-DICTATION FILMING DRAFT*
 
 The custody module made sure the Bitcoin can be reached. Estate planning makes sure the right person has the legal authority to act and the family knows where to start.
 
@@ -3230,7 +2743,7 @@ Pick for the job, not for who would be flattered to be asked. Then ask the perso
 
 A nontechnical executor can still be a good executor. They do not have to know how to recover a wallet personally. They need a clear process, the right legal authority, and a named technical or custody contact when the setup requires one.
 
-> **Visual:** Estate deck: Capable / Available / Trustworthy, with professional executor as the alternative.
+> 🎬 **VISUAL — Estate deck: Capable / Available / Trustworthy, with professional executor as the alternative.**
 
 The baseline legal work usually includes four areas.
 
@@ -3270,10 +2783,9 @@ Before moving on, choose the primary person and backup you would trust to run th
 The next lesson connects that legal layer to the technical custody setup without pretending there is one universal way to split seeds, passphrases, or keys.
 
 ---
-
 ## 8.2 Align legal authority with the technical recovery path
 
-*`TEACH` · ~4.5 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.7 min · PRE-DICTATION FILMING DRAFT*
 
 This lesson is about making sure the legal plan and the custody plan lead to the same outcome.
 
@@ -3295,7 +2807,7 @@ A two-of-three wallet requires two valid signatures from the defined keys. One k
 
 The wallet descriptor or configuration records how the keys are combined, including the threshold and derivation information. Without the correct configuration, heirs may struggle to reconstruct the intended wallet even if they have key material.
 
-> **Visual:** Two separate diagrams: passphrase single-sig and 2-of-3 multisig. Show what each component can and cannot do. Do not label a passphrase as a second signer.
+> 🎬 **VISUAL — Two separate diagrams: passphrase single-sig and 2-of-3 multisig. Show what each component can and cannot do. Do not label a passphrase as a second signer.**
 
 A collaborative custody provider may hold one key, a copy of the public wallet configuration, and an established recovery process. The value is not only the third key. It is also the support, identity-verification, continuity, and documented procedure. The trade-off is vendor dependence, fees, privacy considerations, and the need to understand what happens if the company changes or disappears.
 
@@ -3324,10 +2836,9 @@ The deliverable is not a diagram that looks sophisticated. It is a tested path w
 The heir letter in the next lesson tells the family how to start without disclosing the components themselves.
 
 ---
-
 ## 8.3 Write the heir letter and create the communication backstop
 
-*`TEACH` · ~3.7 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.0 min · PRE-DICTATION FILMING DRAFT*
 
 The heir letter is the calm starting point your family receives when they are least prepared to solve a technical and financial problem.
 
@@ -3353,7 +2864,7 @@ Do not start liquidating accounts before the executor and tax professionals unde
 
 Do not assume the person who knows technology is the person with legal authority.
 
-> **Visual:** Estate deck heir-letter slide: include list on one side, never-include list on the other.
+> 🎬 **VISUAL — Estate deck heir-letter slide: include list on one side, never-include list on the other.**
 
 The letter should never contain seed phrases, private keys, passphrases, PINs, passwords, backup-file passwords, exact storage coordinates, or the complete recovery path.
 
@@ -3369,7 +2880,7 @@ Then add a communication backstop.
 
 A dead-man switch or another scheduled delivery process can send the no-secrets letter if you fail to check in for a defined period. The scheduled delivery makes sure somebody starts the documented process. It carries the no-secrets letter and never releases keys.
 
-> **Visual:** Four-step communication flow: check in → missed window → waiting period → heir letter delivered.
+> 🎬 **VISUAL — Four-step communication flow: check in → missed window → waiting period → heir letter delivered.**
 
 The cadence has to balance false alarms with delay. Orange Plan uses a ninety-day check-in as the current default. Whatever system you use, test the recipients, the waiting period, and the message.
 
@@ -3386,10 +2897,9 @@ The finish line for this lesson is a letter that tells the family the first call
 The walkthrough will start the letter in Protect, confirm beneficiaries, enable the switch when Cloud mode is being used, download the document, and record the remaining outside-the-app actions.
 
 ---
-
 ## 8.4 Use insurance for the risks the current stack cannot carry
 
-*`TEACH` · ~4.6 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.8 min · PRE-DICTATION FILMING DRAFT*
 
 Insurance exists for the risks that would break the plan before the assets are large enough to absorb them.
 
@@ -3419,7 +2929,7 @@ Long-term care belongs on the later-life review. The cost is real, the products 
 
 Health coverage before Medicare is part of the Retirement Income bridge rather than this insurance audit. The same principle applies: price the actual options and the risk retained by the household.
 
-> **Visual:** Insurance coverage audit: Risk / current coverage / what the stack can absorb / remaining gap / next review date.
+> 🎬 **VISUAL — Insurance coverage audit: Risk / current coverage / what the stack can absorb / remaining gap / next review date.**
 
 For each category, I would write down:
 
@@ -3439,12 +2949,13 @@ Orange Plan does not currently replace a policy inventory or quote comparison. U
 The finish line is not buying more insurance. It is knowing which risks the reserve and stack can carry, which risks still need a policy, and when each coverage will be reviewed again.
 
 ---
-
 ## 8.5 WALKTHROUGH — Build the family handoff in Protect
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
+*`WALKTHROUGH` · ~12 min · IMPLEMENTATION SHEET*
 
 **Screen capture · about 12 minutes**
+
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
 
 ## Before recording
 
@@ -3545,16 +3056,8 @@ Using a no-secrets table, state:
 - Communication backstop is armed and tested when applicable.
 - Legal authority and technical recovery are mapped together.
 - Insurance gaps are documented for licensed review.
+
 ---
-
-## Module checkpoint
-
-- [ ] Executor and backup are chosen and contacted.
-- [ ] Baseline legal documents and beneficiary forms have a clear status.
-- [ ] Legal authority and technical recovery are mapped together.
-- [ ] Heir letter and executor packet contain no secrets.
-- [ ] The communication backstop is armed and tested when applicable.
-- [ ] Insurance gaps are documented for licensed review.
 
 <!-- ADVANCED-GATE:START -->
 
@@ -3565,7 +3068,7 @@ worth watching only when its condition is true for you. Continue only if
 one of these describes your situation:
 
 - **A8.1 Do you need a trust, and what job would it do?**
-  → *Research complete. State-licensed estate attorney signoff before publication; no template language or universal Bitcoin trust design is approved here.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 *Generated by `tools/build-module-gates.py` from the Gate line on each
 advanced lesson. Edit the condition there, not here.*
@@ -3579,64 +3082,7 @@ advanced lesson. Edit the condition there, not here.*
 
 ## 9.1 Keep the plan current without rebuilding it every month
 
-*`TEACH` · ~4.1 min · PRE-DICTATION FILMING DRAFT*
-
-A financial plan usually dies from neglect or from being changed so often that nobody trusts it anymore.
-
-Maintenance is the middle ground.
-
-You are not rebuilding the strategy every month. You are keeping the facts current so the decisions you already made are still being tested against reality.
-
-I use two rhythms: a short monthly pass and a more complete annual review.
-
-The monthly pass should take around five minutes in a quiet month.
-
-I would check four categories.
-
-First, money movement: purchases, sales, contributions, withdrawals, transfers, and loan changes that are not already reflected in linked accounts.
-
-Second, income and spending: a raise, a business change, a new recurring expense, or a spending level that has actually moved enough to change the plan.
-
-Third, life events: something expected happened, changed date, changed amount, or is no longer likely.
-
-Fourth, assumptions and targets: only when the facts or your honest long-term view changed. The Bitcoin price moving this week is not, by itself, a reason to rewrite the return assumptions.
-
-The current app separates updating holdings from reconstructing old purchase history.
-
-A new purchase, sale, or transfer updates what an account owns today. Cost basis and older transaction history can be added or corrected in the Tax workflow without changing the current balance twice.
-
-That distinction matters. The monthly pass keeps the current portfolio accurate. The tax module maintains the evidence behind taxable lots.
-
-> **Visual:** Monthly loop: This month → update activity → verify spending → review open Build & improve tasks → choose 1–3 actions.
-
-After entering the changes, verify the spending against the plan. One unusual month does not always justify a new baseline. Look for a repeated difference or a permanent change.
-
-Then choose no more than one to three actions.
-
-A long review list feels productive but usually creates unfinished work. A short list that gets completed every month compounds.
-
-A quiet month is a successful review. If nothing material changed, update what needs updating and stop.
-
-The annual review is where the whole strategy gets reconsidered.
-
-I would walk the plan in the same order it was built:
-
-- Cash Flow and Reserve: Is spending still realistic? Is the reserve target right? For retirees, run the guardrail and refill review.
-- Allocation: Is the current mix near the target? Can the household still tolerate the dollar loss in a major Bitcoin drawdown? Are the account timeframes still correct?
-- Debt: Does every debt still have the same job? Are the rates current? Is any Bitcoin-backed loan too close to a forced-sale level?
-- Tax: Is basis current? Is there a harvesting, conversion, or state decision that must happen before year-end?
-- Retirement Income: Did spending, Social Security timing, healthcare, or the withdrawal plan change?
-- Custody: Prove one recovery, inspect the backups, and fix the largest new single point of failure.
-- Estate and Insurance: Are the executor, beneficiaries, heir letter, switch recipients, and coverage gaps still current?
-
-This is also where Build & improve is useful after the initial course. An open or incomplete area tells you which source data or decision needs attention. The checklist should be derived from the real data where possible, not used as a substitute for entering it.
-
-The app should not train you to react to every red candle. Market prices update the values and may affect real risks such as LTV or taxes, but the strategy changes when a rule or life input changes.
-
-A large drawdown may create a real action if a loan reaches a trigger, the retirement guardrail is breached, or the Reserve is near its floor. In those cases you are following a rule that was set beforehand, not redesigning the plan because the news is loud.
-
-Before the next lesson, choose the day of the month for the short review and the month for the annual review. Put both on the calendar. The app stores the plan; the calendar protects the habit.
----
+*`TEACH` · ~3.5 min · PRE-DICTATION FILMING DRAFT*
 
 So in this lesson, we're going to build the monthly and annual review rhythm that keeps the plan current.
 
@@ -3678,71 +3124,10 @@ Recalculate the plan after the facts are current. Save a new copy of Your Plan a
 
 Before moving on, choose the day of the month for the short review and the month for the annual review. The app stores the plan. The calendar protects the habit.
 
+---
 ## 9.2 Test decisions separately and read Your Plan like a planner
 
-*`TEACH` · ~4.1 min · PRE-DICTATION FILMING DRAFT*
-
-The completed baseline is the plan you are currently using. Scenarios are where you ask questions without corrupting that baseline.
-
-That separation is important.
-
-If you change the retirement age, return assumptions, home purchase, or withdrawal strategy directly in the baseline every time you are curious, you lose the answer to what the actual plan is.
-
-A scenario should have one clear question.
-
-What happens if I retire three years earlier?
-
-What happens if Bitcoin returns are lower than the baseline?
-
-What happens if we move to another state?
-
-What happens if we pay off this debt instead of investing the extra amount?
-
-What happens if Social Security starts at sixty-two instead of seventy?
-
-Change only the inputs needed to answer the question, compare the result with the baseline, and decide whether the evidence is strong enough to change the real plan.
-
-> **Visual:** Baseline on the left, one named scenario on the right, with changed inputs highlighted.
-
-A useful comparison looks at more than the headline retirement date.
-
-Read the change in confidence, taxes, accessible Bridge money, spending flexibility, debt risk, estate value, and any new failure point. A scenario that improves one number may weaken the rest of the plan.
-
-When a scenario wins, apply the decision deliberately and document what changed. When it does not, keep it as evidence or delete it. Do not leave several unnamed versions and forget which one is real.
-
-After every Build & improve area is intentionally complete, run the first full 1,000-path simulation test. This is the point where the simulation result is testing the full plan rather than a rough onboarding estimate or an unfinished strategy.
-
-Choose the confidence target the retirement date has to clear, read the earliest date, and save the run. Then test the most important assumption or decision in Scenarios.
-
-The final report assembles the whole plan into something the household and professionals can read.
-
-I would read it in four passes: position, trajectory, risk, and actions.
-
-Position asks where you stand today. Does the net worth, Bitcoin amount, account ownership, and debt match reality? If the position is wrong, stop and fix the source before trusting anything later.
-
-Trajectory asks where the plan is headed. Read the retirement date and simulation result together. Then read the spending plan and how retirement gets funded. A date without the confidence and cash-flow story is incomplete.
-
-Risk asks what could break the plan. Look at alternate Bitcoin paths, sequence risk, the Reserve and Bridge, debt and LTV, taxes, and the protection work. The question is not which chart looks best. It is whether the household would still have a workable response.
-
-Actions are the one to three next steps. A plan review that ends with thirty vague tasks is not finished.
-
-> **Visual:** Report reading order: Position → Trajectory → Risk → Actions.
-
-The assumptions and methodology belong at the end because they explain what every output rests on. You should be able to defend the major return, inflation, spending, longevity, and tax inputs in plain language. If you cannot, change the source and regenerate the report.
-
-Save one report PDF each year after the annual review, with the year in the filename.
-
-The second report is where the artifact becomes powerful. Compare four things with the prior year:
-
-- net worth and the Bitcoin share;
-- the retirement date and confidence target;
-- the spending range or operating target;
-- and whether last year's one to three actions were completed.
-
-Use the report as the agenda for the family conversation. Give the tax pages and lot export to the CPA. Give the protection and custody summary to the estate attorney without including secrets. The point is that these people can review a coherent plan without needing your app login.
-
-You started the course with scattered accounts and a rough estimate. The final walkthrough closes every open area, runs the full simulation test, tests one decision, reads the report in this order, and saves the first yearly PDF.
----
+*`TEACH` · ~3.9 min · PRE-DICTATION FILMING DRAFT*
 
 So in this lesson, we're going to test one decision without disturbing the saved plan and then read Your Plan in the order a planner would.
 
@@ -3794,137 +3179,10 @@ Use Your Plan as the agenda for the family conversation. Give the relevant tax p
 
 You started the course with scattered accounts and a rough estimate. The final walkthrough makes every area current, recalculates the plan, tests one decision, reads Your Plan in this order, and saves the first yearly PDF.
 
+---
 ## 9.3 WALKTHROUGH — Finish, test, review, and save the plan
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
-
-**Screen capture · about 20 minutes**
-
-## Before recording
-
-- Every prior module completed on the demo plan.
-- Current holdings, cash flow, debts, allocation, tax history, retirement income, beneficiaries, and heir letter entered.
-- No existing full simulation receipt, or a clean way to show the first completed run.
-- One meaningful scenario question prepared.
-- Calendar open for monthly and annual review dates.
-
-## 1 · Close every Build & improve area intentionally
-
-**DO** Open Build & improve.
-
-**WALK** Foundation · Cash flow · Allocation · Debt · Tax · Retirement income · Protect.
-
-**SEE** complete, truthfully not applicable, or a precise missing-data line.
-
-**FIX** any open source input before running confidence.
-
-**SAY** Watching the course did not complete the plan. The real data and applied decisions did.
-
-## 2 · Run the first full simulation test
-
-**DO** Build & improve → Run your plan / Plan page → **Run confidence**.
-
-**SEE** 1,000 test runs complete against the full baseline.
-
-**SAY** This is the first simulation result we treat as the finished-plan baseline. Onboarding used one deterministic estimate; this run includes the completed plan across many market paths.
-
-## 3 · Choose the confidence target and read the earliest date
-
-**DO** Set the target confidence using the current control.
-
-**SEE** earliest retirement date at that target.
-
-**READ** date and confidence together.
-
-**SAY** A lower target can produce an earlier but more adjustable plan. A higher target usually asks for more time, savings, or lower spending. One hundred percent is not automatically the objective.
-
-**SAVE / CONFIRM** the target and receipt.
-
-## 4 · Set the retirement operating target
-
-**DO** Income → Retirement operating plan / What you can spend.
-
-**CHOOSE** the starting spending target at the selected confidence policy.
-
-**SEE** the annual 60 / 80 / 95 guardrail logic and ten-percent cap.
-
-**SAVE** the starting target.
-
-**SAY** The confidence target sets the plan. The guardrails adjust it in later annual reviews.
-
-## 5 · Run one clean scenario
-
-**DO** Plan → Scenarios → create or select one question.
-
-**CHANGE** only the inputs needed.
-
-**COMPARE** retirement date · confidence · taxes · accessible money · debt / LTV · estate or Bitcoin remaining.
-
-**DECIDE** apply to baseline, keep as evidence, or delete.
-
-**⚠** Do not leave the learner with unnamed scenario copies and no clear baseline.
-
-## 6 · Run the five-minute monthly pass
-
-Start a visible timer.
-
-**DO** Cash Flow → This month · enter one recent purchase or transfer · verify spending · review open attention items · choose one to three actions.
-
-**STOP** the timer.
-
-**SAY** Most months are quieter. No material change is a successful review.
-
-## 7 · Walk the annual review
-
-Visit one screen per area:
-
-- Cash Flow / Income: spending, guardrail, Reserve refill.
-- Allocation: current versus target and drawdown tolerance.
-- Debt: jobs, rates, and LTV triggers.
-- Tax: basis, harvest room, conversion window before year-end.
-- Custody: prove one recovery and fix the largest shared dependency.
-- Estate / Insurance: beneficiaries, letter, executor, switch, coverage gaps.
-
-**APPLY** the annual retirement update only when the demo state makes it due and the result is understood.
-
-## 8 · Read the report in planner order
-
-**DO** Open Report.
-
-**READ**:
-
-1. Position — does today's account and debt picture match reality?
-2. Trajectory — retirement date, confidence, spending, and funding.
-3. Risk — alternate paths, taxes, debt, custody, and protection.
-4. Actions — one to three next steps.
-
-**CHECK** assumptions and methodology at the end.
-
-## 9 · Save the yearly artifacts
-
-**DO** Print / Save report as PDF with the year in the filename.
-
-**DO** Settings → Backup & Restore → create a fresh encrypted plan export.
-
-**SAY** Report = readable annual snapshot. Encrypted export = recovery file for the app data. Neither is a Bitcoin wallet backup.
-
-## 10 · Schedule the rhythm
-
-**DO** Calendar → recurring monthly review and annual review.
-
-**RECORD** tax review before year-end and custody / estate check within the annual session.
-
-## Final checkpoint
-
-- Every Build & improve area is intentionally complete.
-- First full 1,000-path simulation result is saved.
-- Confidence target and earliest date are understood together.
-- Retirement operating target and guardrail policy are saved.
-- One scenario was tested without corrupting the baseline.
-- Monthly and annual review dates are on the calendar.
-- Report PDF and encrypted backup are saved.
-- One to three next actions are clear.
----
+*`WALKTHROUGH` · ~22 min · IMPLEMENTATION SHEET*
 
 **Screen capture · about 22 minutes**
 
@@ -4057,3 +3315,4 @@ Start a visible timer.
 - Your Plan PDF and encrypted backup are saved.
 - One to three next actions are clear.
 
+---

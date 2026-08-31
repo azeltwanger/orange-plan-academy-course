@@ -6,7 +6,7 @@
 
 ## 1.1 What to gather before you build the plan
 
-*`TEACH` · ~7.4 min · AUSTIN DICTATION*
+*`TEACH` · ~7.2 min · AUSTIN DICTATION*
 
 In today's lesson, we're going to cover the documents and information that you're going to need to gather before you start building your full financial plan.
 
@@ -18,7 +18,7 @@ Every number that comes out of your plan is only as good as what you put into it
 
 Taking 30 minutes to an hour now to gather all of this information can be a valuable exercise in getting organized. I know it can be a little bit of a pain, but it's definitely worth it.
 
-### What To Gather
+### What to gather
 
 1. Your income. You want recent pay stubs so you can verify what's coming in per period and what that adds up to every year. If you own a business, include every stream of income. If there are two earners, include both. This also includes things like rental income and recurring investment income.
 
@@ -42,7 +42,7 @@ I think it's important to upload as much as you reasonably can. Go to your excha
 
 I would recommend pulling up all of the exchange accounts and brokerage accounts that you have used in the past, downloading the files in one session, and saving them in one folder on your computer. We're going to come back to them in the Tax module, where the historical transactions and cost basis actually get entered and reviewed.
 
-### When Each Part Gets Entered
+### When each part gets entered
 
 We will enter each item in the module that owns it.
 
@@ -65,14 +65,13 @@ If you'd rather gather this information as you go through each step, that's tota
 For now, put the statements, exports, employer information, and rough future-event list in one place. In the Foundation walkthrough, we'll use the personal details, account list, and current holdings first. The rest stays in the folder until the module that teaches the decision and owns the data.
 
 ---
-
 ## 1.2 The three layers of a plan, and setting your assumptions
 
-*`TEACH` · ~9.7 min · AUSTIN DICTATION*
+*`TEACH` · ~9.6 min · AUSTIN DICTATION*
 
 In today's lesson, we're going to cover how your retirement plan is going to be built out and the three different layers that go into how the app works and how your retirement plan is going to work.
 
-### Layer One: Your Baseline And Foundation
+### Layer one: your baseline and foundation
 
 The first layer is your baseline. This includes all of the data and information that is true for your life right now: your current income, current spending, current assets, debts, and every other part of your financial life that is true today.
 
@@ -82,7 +81,7 @@ So the first layer has two parts: what is true now, and what assumptions the pla
 
 That becomes the foundation that everything else is compared against.
 
-### Layer Two: Future Life Events
+### Layer two: future life events
 
 The second layer is future life events. These are things that you genuinely expect to happen in the future and that you can reasonably predict as a future expense or income change.
 
@@ -90,7 +89,7 @@ These are future expenses or income changes you expect with a high level of conf
 
 Adding these things to your plan gives the projection a more accurate picture of the amount of money you're going to need and what your realistic retirement date might be.
 
-### Layer Three: Scenarios
+### Layer three: scenarios
 
 The third layer is scenarios. These are hypotheticals about the future.
 
@@ -104,7 +103,7 @@ Don't feel like you need to constantly make changes to your baseline information
 
 To keep it simple, the truth and the assumptions used by the plan belong in your baseline and foundation. Expected changes that you have a high level of confidence will happen go into life events. Questions and comparisons about the future go into scenarios.
 
-### Current Cash Flow Versus The Projection
+### Current cash flow versus the projection
 
 Orange Plan is meant to project what your future retirement plan might look like. It isn't mainly a current-day budgeting app.
 
@@ -112,7 +111,7 @@ You do have the ability to link or import your accounts on the Cash Flow page. T
 
 If you expect your spending, income, or job situation to change in the future, you can make that adjustment in the life-events section instead of rewriting what is true today.
 
-### Why The Assumptions Matter
+### Why the assumptions matter
 
 The assumptions that you make about the future are going to inform almost every other decision in your plan, including tax planning, which accounts you contribute to, how much you need to save, how you allocate your money, and how you take money out and live off Bitcoin and other assets in retirement.
 
@@ -120,7 +119,7 @@ Every projection and number in your plan is built on top of these inputs, so get
 
 The main inputs about the future include your investment returns, including Bitcoin, inflation, current and retirement spending, life expectancy, your savings rate before retirement, and future life events that change income or spending.
 
-### Lean Conservative
+### Lean conservative
 
 I think one of the most important things is to lean conservative when it comes to Bitcoin and other assets and what their returns are going to be.
 
@@ -128,7 +127,7 @@ If we make assumptions that are too optimistic, it's going to make you feel good
 
 Being conservative means you might be surprised to the upside and give yourself the ability to retire earlier or spend more. Being optimistic means that if you're wrong, the consequences can be working longer than you thought or not having the ability to spend what you really want to in retirement.
 
-### One Input Can Move The Date By Years
+### One input can move the date by years
 
 Let's say we have someone who is 45 years old. They're holding 1.75 Bitcoin and spending around $80,000 a year.
 
@@ -138,7 +137,7 @@ That's a difference of eight years from one input changing.
 
 This is why I think you need to choose a conservative and realistic way to model Bitcoin in the future. I would not choose the model just because it gives you the earliest retirement date. I would choose the one you could defend if you were explaining it to a family member or a friend.
 
-### The Four Bitcoin Models
+### The four bitcoin models
 
 The four main default settings in the app are Conservative, Moderate, Aggressive, and Power law.
 
@@ -160,13 +159,13 @@ If you're spending $80,000 a year today, at 3% inflation that same lifestyle cos
 
 The default in the app is 3%. Think through what you believe is realistic instead of leaving the default simply because it was already loaded.
 
-### The Other Assets
+### The other assets
 
 Orange Plan also has return assumptions for stocks, bonds, cash, and other assets. These begin with reasonable defaults, and you can revisit them later if you have a reason to use something more conservative or build a custom assumption.
 
 This is a personal decision. I think the numbers should be realistic and not emotion-driven.
 
-### How To Choose
+### How to choose
 
 1. Start conservative. If the plan works on a conservative assumption, the upside from Bitcoin or the other assets becomes a bonus.
 2. Use a declining Bitcoin return. A flat CAGR isn't realistic across a 30- or 40-year retirement plan.
@@ -179,51 +178,9 @@ The return assumptions can drastically change decisions about which accounts you
 Before the walkthrough, choose the growth model and inflation assumption you would actually defend, not the pair that produces the earliest date. In the Foundation walkthrough, I'll show you where to review what onboarding selected, where the custom assumptions live, and how to save the baseline once without repeating the click path in this lesson.
 
 ---
-
 ## 1.3 What the onboarding retirement age actually means
 
-*`TEACH` · ~4.6 min · PRE-DICTATION FILMING DRAFT*
-
-In today's lesson, we're going to cover the retirement age you saw at the end of onboarding, what that number actually means, and why it is only the starting point for the plan.
-
-Onboarding only asked you for a small amount of information. It used your age, income, spending, rough account values, Bitcoin holdings, and the growth model you selected to give you a first estimate.
-
-That is useful because you can get a direction without spending an hour entering every account and every detail before you see anything. But the number can look more complete than it really is, so I want to explain exactly what the app is doing.
-
-The onboarding age comes from one set of assumptions. Orange Plan projects those assumptions forward at different retirement ages and finds the earliest age where that version of the plan lasts through the life-expectancy setting.
-
-There are not 1,000 different market paths being averaged together during onboarding. It is one deterministic projection using the rough numbers and the growth model you selected.
-
-So I would think about the onboarding age as a first estimate of what might be possible if those inputs are reasonably close. It is not your finished retirement date, and it is not a promise that the plan is going to work exactly that way.
-
-The reason it is still helpful is that it gives you something concrete to work from. It also shows you how much the growth assumption can move the result. A more conservative Bitcoin model will usually move the age later. A more aggressive model will usually move it earlier.
-
-But the growth model is only one part of the final answer.
-
-The onboarding estimate does not yet have every real account and holding. It does not know all of your debts, expected future expenses, retirement income, Social Security, cost basis, withdrawal order, or tax strategy. Those are the parts we're going to build through the course.
-
-That is why the next step is not to keep changing the growth model until you get the age you want. The next step is to replace the rough estimate with the information that is actually true.
-
-Foundation is going to replace the rough account values with your real accounts and current holdings. Cash Flow is going to verify your income, spending, usable surplus, reserve, and expected life events. Debt is going to add the real loan terms and the decision attached to each debt. Allocation is going to decide what your new dollars are for, which account they go into, and what they buy. The later modules build the tax strategy and retirement paycheck.
-
-Once the full plan is built, Orange Plan can run it through 1,000 different market paths. That is where the simulation result comes from.
-
-The onboarding estimate and the simulation test answer different questions.
-
-The onboarding estimate asks: using this one set of assumptions, what is the earliest age where the projection lasts?
-
-The simulation test asks: when the full plan is run through 1,000 different market paths, how often does it still work as written?
-
-That second question becomes much more useful after the information underneath it is complete. A precise confidence percentage based on rough onboarding data would look more trustworthy than it really is.
-
-As you enter the real data, the age may move earlier or later. That is not the app changing its mind. It means the model is using better information.
-
-After the plan is built, you will also choose the confidence target the retirement date has to meet. The finished earliest date is the first date that clears that target, not just the first date where the single deterministic projection works.
-
-The main thing I want you to take away from this lesson is that onboarding gave you a useful place to start. It did not finish the plan for you.
-
-In the Foundation walkthrough below this lesson, I'll show you how to replace the rough account estimates with your real accounts and holdings, verify the personal details behind the plan, and review the assumptions onboarding used. We are not going to enter every part of the financial plan in that walkthrough. Each later module enters the information it owns.
----
+*`TEACH` · ~3.6 min · PRE-DICTATION FILMING DRAFT*
 
 So in this lesson, we're going to cover the retirement age from onboarding, the first simulation result, and how both change as the plan becomes more complete.
 
@@ -258,129 +215,10 @@ The main takeaway is simple: onboarding gives you a deterministic starting estim
 
 In the Foundation walkthrough, I'll show you how to replace the rough account estimates with real accounts and holdings, review the assumptions, run or read the first preliminary Plan result, and see exactly which details could still change it.
 
+---
 ## 1.4 WALKTHROUGH — Replace the onboarding estimate with real Foundation data
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
-
-**Screen capture · about 20 minutes**
-
-> **DO** = action on screen · **SEE** = point at this result · **⚠** = avoid this mistake
-> Narrate naturally. This sheet is not a teleprompter.
-
-## Before recording
-
-- Complete the current short onboarding with rough values.
-- Use a demo account with no real accounts or holdings entered yet.
-- Have a real-looking statement list ready: account names, owners, current quantities, and cash balances.
-- Do not have a saved 1,000-path simulation receipt yet.
-
-## 1 · Orient the learner
-
-**DO** Land on Dashboard after onboarding.
-
-**SEE** The starting retirement estimate.
-
-**SAY** It is the deterministic estimate from Lesson 1.3: rough inputs, one set of assumptions, not the finished confidence-based date.
-
-**DO** Open **Build & improve**.
-
-**SEE** The areas and the Foundation tasks.
-
-**SAY** Build & improve is the implementation roadmap. The course order teaches the decisions; each walkthrough returns here to complete the area that owns the data.
-
-## 2 · Verify personal details
-
-**DO** Foundation → **Set up personal details** → Planning profile.
-
-**CHECK** date of birth or age · state or country · filing status · spouse details where applicable.
-
-**⚠** Fix the source field. Do not edit a downstream tax or retirement total to compensate for a wrong profile input.
-
-## 3 · Add the real accounts
-
-**DO** Dashboard → **Add Account**.
-
-**ENTER** account type · recognizable account name · owner.
-
-**SHOW** at least one cash account, one retirement or brokerage account, and the actual Bitcoin custody location: exchange, hardware wallet, collaborative custody, IRA, or ETF account.
-
-**⚠** The account is the container. Bitcoin, cash, ETFs, and other assets are holdings inside the account.
-
-**DO** Point at **Link accounts** without waiting on a live connection.
-
-**SAY** Linking is optional. Manual entry and imports are valid; the goal is an honest current position.
-
-## 4 · Add current holdings
-
-**DO** Open an account → **Add holding**.
-
-**ENTER** Bitcoin as quantity · stocks or funds as ticker and shares where supported · cash as the current balance · property or other assets with the current value.
-
-**SEE** The Add holding form now starts on the asset type that fits the account when the app can infer it.
-
-**⚠** Enter basis only when it is already known. Foundation is not where years of purchase history are reconstructed.
-
-**DO** Repeat quickly for the remaining demo accounts.
-
-**SEE** Net worth and account totals update.
-
-## 5 · Explain Add transaction versus historical tax history
-
-**DO** Dashboard → **Add transaction**.
-
-**SEE** **Update my balance** for new activity that should change the current holding, and **Keep my balance** for older history that supports a balance already entered.
-
-**SHOW** the available paths after the intent choice: linked activity when supported · downloaded CSV or spreadsheet · one manually entered purchase, sale, or transfer · AI-assisted description when present.
-
-**SAY** Three jobs stay separate:
-
-1. Foundation records what each account owns now.
-2. Tax records what was paid and when.
-3. Maintenance records activity after the plan is built.
-
-**⚠** A transfer between the learner's own accounts changes location, not the total amount owned. Do not import it as both a sale and a new purchase.
-
-**⚠** Do not import the full historical tax record in this walkthrough. Module 5 owns that work.
-
-## 6 · Verify the current position
-
-**DO** Expand every account group on Dashboard.
-
-**CHECK** owner · account type · quantity · current value · custody location.
-
-**SEE** Net worth and Bitcoin share.
-
-**SAY** If the total is wrong, fix the row that created it. Calculated totals are not inputs.
-
-## 7 · Review the baseline assumptions
-
-**DO** Open the Plan assumptions control from the current Retirement page.
-
-**CHECK** Bitcoin model · inflation · life expectancy · other asset assumptions.
-
-**OPTIONAL** Show where custom return windows live without building one.
-
-**⚠** Review only. Do not change the assumption repeatedly to chase a preferred retirement age.
-
-## 8 · Close Foundation
-
-**DO** Return to **Build & improve → Foundation**.
-
-**SEE** Personal details, accounts, and holdings complete from the real data.
-
-**IF OPEN** Read the exact missing line and fix it on the owning page.
-
-**SAY** Income, living expenses, Reserve settings, and expected life events belong to Module 2. Allocation, debt, tax history, Social Security, and withdrawal strategy come later.
-
-## Foundation checkpoint
-
-- Personal details are accurate.
-- Every real account and custody location is listed.
-- Current holdings match the source statements.
-- The learner knows how to add future activity without duplicating a transfer.
-- The assumptions were reviewed deliberately.
-- Build & improve shows Foundation complete.
----
+*`WALKTHROUGH` · ~20 min · IMPLEMENTATION SHEET*
 
 **Screen capture · about 20 minutes**
 
@@ -508,6 +346,8 @@ In the Foundation walkthrough, I'll show you how to replace the rough account es
 - The first Plan result is visible with a truthful freshness state.
 - Build & improve shows Foundation complete.
 
+---
+
 <!-- ADVANCED-GATE:START -->
 
 ## Related advanced lessons
@@ -517,7 +357,7 @@ worth watching only when its condition is true for you. Continue only if
 one of these describes your situation:
 
 - **A1.1 How Orange Plan models Bitcoin inside the simulation test**
-  → *Research complete. Record after the current Help & Methodology copy and production settings are checked against the same app commit used on camera.*
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
 
 *Generated by `tools/build-module-gates.py` from the Gate line on each
 advanced lesson. Edit the condition there, not here.*
