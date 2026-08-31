@@ -35,7 +35,11 @@ product language does not return.
 | V1-DIRECT-1 | `3.1` | `The four paths describe where you are today` | master, script, lesson-text, module | The allocation framework is stated directly. |
 | V1-COUNT-6 | `6.3` | `800 of 1,000` | master, script, lesson-text, module | Retirement Income uses the same normal standard. |
 | V1-GUARD-6 | `6.3` | `lower guardrail.{0,240}current retirement.{0,240}upper guardrail` | master, script, lesson-text, module, visual | Core guardrails use portfolio levels. |
-| V1-NAV-9 | `9.1` | `Home.{0,240}Cash Flow.{0,240}Plan.{0,240}Protect` | master, script, lesson-text, module, visual | Maintenance follows the permanent navigation. |
+| V1-HOME-9 | `9.1` | `Home answers` | master, script, lesson-text, module | Home owns the current financial truth review. |
+| V1-CASHFLOW-9 | `9.1` | `Cash Flow answers` | master, script, lesson-text, module | Cash Flow owns the monthly system review. |
+| V1-PLAN-9 | `9.1` | `Plan answers` | master, script, lesson-text, module | Plan owns the future-plan review. |
+| V1-PROTECT-9 | `9.1` | `Protect answers` | master, script, lesson-text, module | Protect owns family execution. |
+| V1-NAV-VISUAL-9 | `9.1` | `Home.{0,500}Cash Flow.{0,500}Plan.{0,500}Protect` | visual | The annual-lap graphic follows the four destinations. |
 | V1-CVP-9 | `9.2` | `Current versus Preview` | master, script, lesson-text, module, visual | Proposed decisions remain separate until saved. |
 | V1-YOURPLAN-9 | `9.2` | `Your Plan` | master, script, lesson-text, module, visual | The final artifact uses the V1 name and role. |
 | V1-ASK-0 | `0.2` | `Ask is available from the header` | master, script, lesson-text, module | Ask is a global contextual utility. |

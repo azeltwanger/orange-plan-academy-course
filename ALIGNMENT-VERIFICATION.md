@@ -112,6 +112,11 @@ PASSED
   ok  claim V1-FRESH-1 (1.3): master: PASS · script: PASS · lesson-text: PASS · module: PASS · visual: PASS
   ok  claim V1-DATES-1 (1.3): master: PASS · script: PASS · lesson-text: PASS · module: PASS
   ok  claim V1-DIRECT-1 (3.1): master: PASS · script: PASS · lesson-text: PASS · module: PASS
+  ok  claim V1-HOME-9 (9.1): master: PASS · script: PASS · lesson-text: PASS · module: PASS
+  ok  claim V1-CASHFLOW-9 (9.1): master: PASS · script: PASS · lesson-text: PASS · module: PASS
+  ok  claim V1-PLAN-9 (9.1): master: PASS · script: PASS · lesson-text: PASS · module: PASS
+  ok  claim V1-PROTECT-9 (9.1): master: PASS · script: PASS · lesson-text: PASS · module: PASS
+  ok  claim V1-NAV-VISUAL-9 (9.1): visual: PASS
   ok  claim V1-CVP-9 (9.2): master: PASS · script: PASS · lesson-text: PASS · module: PASS · visual: PASS
   ok  claim V1-YOURPLAN-9 (9.2): master: PASS · script: PASS · lesson-text: PASS · module: PASS · visual: PASS
   ok  claim V1-ASK-0 (0.2): master: PASS · script: PASS · lesson-text: PASS · module: PASS
@@ -338,13 +343,11 @@ NOTES (reported, do not fail)  —  108
   [BEATS] 9.3 WALKTHROUGH — Finish, test, review, and 
           no "YOU ARE DONE WHEN" in any layer — lesson does not close with the three beats, so it contributes nothing to its checkpoint
 
-FAILURES  —  65
+FAILURES  —  64
   [CLAIMS] V1-COUNT-6 (6.3)
           MUST be present in every listed layer — master: FAIL · script: PASS · lesson-text: PASS · module: FAIL
   [CLAIMS] V1-GUARD-6 (6.3)
           MUST be present in every listed layer — master: PASS · script: PASS · lesson-text: PASS · module: PASS · visual: FAIL
-  [CLAIMS] V1-NAV-9 (9.1)
-          MUST be present in every listed layer — master: PASS · script: PASS · lesson-text: FAIL · module: PASS · visual: PASS
   [CLAIMS] V1-NO-TARGET
           MUST NOT appear — ./ALIGNMENT-VERIFICATION.md:17  - MASTER-COURSE.md:426: normal-user confidence target: choose the confid
   [CLAIMS] V1-NO-TARGET
@@ -470,7 +473,7 @@ FAILURES  —  65
   [CLAIMS] V1-NO-RECOMMENDATION-SETUP (3.1)
           MUST NOT appear in any layer — found in master: "The four paths on the screen are not recommendations" · module: "The four paths on the screen are not recommendations"
 
-52 lessons · 21 registry rules · 184 files scanned · 65 failures, 108 notes
+52 lessons · 25 registry rules · 184 files scanned · 64 failures, 108 notes
 
 ```
 
