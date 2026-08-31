@@ -4,9 +4,7 @@ A8.1 Do you need a trust, and what job would it do?
 PUBLICATION GATE: Research complete. State-licensed estate attorney signoff before publication; no template language or universal Bitcoin trust design is approved here.
 ============================================================
 
-A trust is a tool for a specific legal or family job. It is not an automatic upgrade because the estate owns Bitcoin.
-
-Start with the triggers.
+A trust is a tool for a specific legal or family job. Start with the triggers that give a trust a specific job. Bitcoin ownership by itself does not establish the need.
 
 A trust conversation becomes more useful when the estate may face federal or state estate tax, the family is blended or includes minor or special-needs beneficiaries, the owner wants to control timing or conditions of distributions, incapacity planning matters, privacy or probate avoidance is important, or creditor and divorce risks need to be considered.
 

@@ -187,7 +187,7 @@
 ☐ 10. A5.3 State taxes and relocation: measure the lever before moving — 🎙 dictate/film (~2 min)
 ☐ 11. A7.3 Run the One-Failure Test across methods and providers — 🎙 dictate/film (~4 min)
 ☐ 12. A7.4 UTXOs, dust, consolidation, and address use — 🎙 dictate/film (~2 min)
-☐ 13. A8.1 Do you need a trust, and what job would it do? — 🎙 dictate/film (~4 min)
+☐ 13. A8.1 Do you need a trust, and what job would it do? — 🎙 dictate/film (~5 min)
 ☐ — A4.2 The four ways debt can strengthen a plan, and how each one fails — ⚠ missing from dictation order
 
 > ⚠ **Demand-order entries that match no advanced lesson: A3.2.** Fix `DEMAND` in `tools/build-production-checklist.py` — a name that does not resolve is silently dropped from the numbering.

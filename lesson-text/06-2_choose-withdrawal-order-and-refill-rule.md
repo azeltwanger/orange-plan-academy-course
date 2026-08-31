@@ -48,9 +48,7 @@ Selling is the cleanest. There is no lender, interest cost, margin call, or repa
 
 Borrowing can provide liquidity while adding interest, counterparty risk, LTV risk, and forced-liquidation risk. Loan proceeds are generally outside income at origination; liquidation, forgiveness, or restructuring can create tax consequences. Plan the purpose, repayment source, and drawdown response while the household has room.
 
-Holding keeps the long-term position untouched. That can be a valid core strategy when the Reserve, Bridge, other assets, or income can fund life without relying on a sale. It is not a complete strategy if the only answer to every cash need is a new loan.
-
-The tools can be mixed across years. A household may sell in a low-gain year, borrow a conservative amount during a strong period, and leave a core Bitcoin position untouched.
+Holding keeps the long-term position untouched. That can be a valid core strategy when the Reserve, Bridge, other assets, or income can fund life without relying on a sale. A sustainable strategy can mix withdrawals, sales, and borrowing across years. Using a new loan for every cash need compounds interest, lender, and repayment risk. A household may sell in a low-gain year, borrow a conservative amount during a strong period, and leave a core Bitcoin position untouched.
 
 The plan should tell you what each choice costs in taxes, interest, risk, and estate value. It should not decide which trade-off your family prefers.
 

@@ -22,7 +22,7 @@ The baseline legal work usually includes four areas.
 
 A will directs how probate assets should be handled and names important roles. It does not control every asset automatically.
 
-A financial power of attorney can give somebody authority to handle financial matters while you are alive but unable to act. That authority generally ends at death, which is why it is not a replacement for the executor or trustee role.
+A financial power of attorney can give somebody authority to handle financial matters while you are alive but unable to act. A power of attorney generally ends at death. The executor or trustee role takes over then.
 
 A healthcare directive covers medical decisions and wishes.
 

@@ -79,7 +79,7 @@ The third job is Forever. Orange Plan labels this timeframe Legacy. I use the wo
 
 This is the money with the most time to recover from a drawdown, so it can hold the highest-growth and highest-volatility assets in the plan.
 
-The old slide uses rough time horizons of zero to three years, four to ten years, and ten years or more. I think those are useful for understanding the pattern, but they are not rigid account rules.
+The old slide uses rough time horizons of zero to three years, four to ten years, and ten years or more. Those ranges help explain the pattern.
 
 The current app makes the retirement access question more specific: Reserve is available now, Bridge is the money needed before age fifty-nine and a half, and Legacy is the money for after that point. A future home purchase or college event can also create a Bridge need even when retirement is farther away.
 
