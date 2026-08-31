@@ -33,6 +33,7 @@ jobs:
             echo "V1 source transformation already applied"
           fi
           python3 tools/apply-direct-voice-pass-2.py
+          python3 tools/apply-direct-voice-final.py
 
       - name: Synchronize active course layers
         run: |
@@ -79,6 +80,7 @@ jobs:
           run_check "Python compilation" python3 -m py_compile \
             tools/apply-v1-alignment-direct-voice.py \
             tools/apply-direct-voice-pass-2.py \
+            tools/apply-direct-voice-final.py \
             tools/preflight-v1-alignment.py \
             tools/rebuild-masters-from-scripts.py \
             tools/update-v1-unit-intros.py \
