@@ -76,19 +76,17 @@ WALKTHROUGH NAMING ANOTHER MODULE'S LESSON  —  0
 ```text
 visuals: 42 prompts covering 35 of 52 teach lessons
 
-ORPHAN  —  4
-  4-3_contribution-waterfall.md: 4.3 is not a teach lesson in either master
+ORPHAN  —  3
   4-4_asset-location.md: 4.4 is not a teach lesson in either master
   9-2c_current-vs-preview.md: filename does not encode a lesson number
   A3-2_four-plays.md: A3.2 is not a teach lesson in either master
 
 H1 DRIFT  —  0
 
-GAP (lesson with no visual)  —  20
+GAP (lesson with no visual)  —  19
   1.4  WALKTHROUGH — Replace the onboarding estimate with real 
   2.5  WALKTHROUGH — Build cash flow, the Reserve, and expected
   3.2  Give each dollar a job before choosing the investment
-  3.3  Build the contribution waterfall for every new dollar
   3.4  Put the right holdings inside the right accounts
   3.5  WALKTHROUGH — Route the investable surplus
   5.3  WALKTHROUGH — Reconcile basis and model the tax window
