@@ -1,8 +1,6 @@
 # 7.3 · Fix the single points of failure and harden the accounts
 
-Most Bitcoin losses are not somebody breaking the cryptography.
-
-They are one weak login, one backup, one location, one person who knows the process, one provider, or one rushed decision with no second check.
+Most Bitcoin losses come from one weak login, one backup, one location, one person who knows the process, one provider, or one rushed decision with no second check.
 
 I call these the "only one" problems.
 
@@ -32,7 +30,7 @@ The important addition is method and provider concentration.
 
 A person can have several devices and backups and still have the entire plan depend on one method. They can also spread Bitcoin across two account names that rely on the same underlying custodian or recovery system.
 
-That is why I want you to test failure domains, not count objects.
+Test whether the backups are independent across failure domains.
 
 Three keys in the same house are still exposed to one house fire.
 
@@ -88,7 +86,7 @@ An authenticator app is good. A hardware security key can add phishing resistanc
 
 Then there are the scam rules.
 
-Urgency is the biggest warning sign. Somebody says the account is being drained, the wallet is compromised, or the offer expires in ten minutes. The goal is to make you skip the verification process.
+Urgency is the biggest warning sign. Somebody says the account is being drained, the wallet is compromised, or the offer expires in ten minutes. The pressure is designed to make you skip the verification process.
 
 No legitimate provider needs your seed phrase or private key.
 

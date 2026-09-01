@@ -14,7 +14,7 @@ In those years, ordinary taxable income may be low. A Roth conversion deliberate
 
 Compare the rate paid now with the expected lifetime cost of leaving the money in the Traditional account, then choose the conversion range that uses the window well.
 
-Start with the ordinary-income brackets, but do not stop there.
+Start with the ordinary-income brackets, then include capital gains, Social Security, Medicare, healthcare subsidies, state tax, deductions, and credits.
 
 A conversion can affect:
 
@@ -37,4 +37,4 @@ Intentional Traditional withdrawals can be another solution. A household that ne
 
 The app can model a multi-year conversion schedule and show future required-distribution pressure, but the displayed amount is a planning model. Before acting, bring the year-by-year output, the other expected income, health-coverage situation, and available tax-payment cash to the tax professional.
 
-The question to ask is not simply, "How much can I convert?" It is, "How much ordinary-income room is actually worth using this year after every interaction is included?"
+Ask, "How much ordinary-income room is actually worth using this year after every interaction is included?"

@@ -36,7 +36,7 @@ To keep it simple, the truth and the assumptions used by the plan belong in your
 
 ## Current cash flow versus the projection
 
-Orange Plan is meant to project what your future retirement plan might look like. It isn't mainly a current-day budgeting app.
+Orange Plan is meant to project what your future retirement plan might look like. Orange Plan is a forward-looking retirement planning tool.
 
 You do have the ability to link or import your accounts on the Cash Flow page. That gives you an up-to-date baseline of what your spending and cash flow look like today. The projection then carries that current pattern forward.
 
@@ -66,7 +66,7 @@ If we were to set Bitcoin's returns at a flat 40% forever, this might land their
 
 That's a difference of eight years from one input changing.
 
-This is why I think you need to choose a conservative and realistic way to model Bitcoin in the future. I would not choose the model just because it gives you the earliest retirement date. I would choose the one you could defend if you were explaining it to a family member or a friend.
+This is why I think you need to choose a conservative and realistic way to model Bitcoin in the future. Choose the model you could defend even when another preset gives you an earlier retirement date. I would choose the one you could defend if you were explaining it to a family member or a friend.
 
 ## The four bitcoin models
 
@@ -88,25 +88,25 @@ The next assumption is inflation.
 
 If you're spending $80,000 a year today, at 3% inflation that same lifestyle costs about $125,000 a year 15 years from now. At 4%, it's about $144,000. That's roughly $20,000 more every year from moving the assumption one percentage point.
 
-The default in the app is 3%. Think through what you believe is realistic instead of leaving the default simply because it was already loaded.
+The default in the app is 3%. Think through what you believe is realistic, then choose the preset or custom model that matches it.
 
 ## The other assets
 
 Orange Plan also has return assumptions for stocks, bonds, cash, and other assets. These begin with reasonable defaults, and you can revisit them later if you have a reason to use something more conservative or build a custom assumption.
 
-This is a personal decision. I think the numbers should be realistic and not emotion-driven.
+This is a personal decision. Use numbers that are realistic and grounded in how you actually expect the future to unfold.
 
 ## How to choose
 
 1. Start conservative. If the plan works on a conservative assumption, the upside from Bitcoin or the other assets becomes a bonus.
-2. Use a declining Bitcoin return. A flat CAGR isn't realistic across a 30- or 40-year retirement plan.
+2. Use a declining Bitcoin return. Use a declining growth model across a 30- or 40-year retirement plan.
 3. Take inflation seriously. Think through whether 3% is enough for the plan you want to run.
 4. Pick assumptions that you can live with if the future turns out worse than expected.
 5. Later, test a bullish or more conservative scenario without changing the baseline.
 
 The return assumptions can drastically change decisions about which accounts you contribute to, where you allocate money, Roth conversions, and how you live off Bitcoin in retirement. That's why we set the baseline model first and use scenarios for the alternatives.
 
-Before the walkthrough, choose the growth model and inflation assumption you would actually defend, not the pair that produces the earliest date. In the Foundation walkthrough, I'll show you where to review what onboarding selected, where the custom assumptions live, and how to save the baseline once without repeating the click path in this lesson.
+Before the walkthrough, choose the growth model and inflation assumption you would actually defend if you were explaining the plan to your family. In the Foundation walkthrough, I'll show you where to review what onboarding selected, where the custom assumptions live, and how to save the baseline once without repeating the click path in this lesson.
 
 ## Apply it
 

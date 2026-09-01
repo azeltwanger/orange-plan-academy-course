@@ -1,10 +1,10 @@
 ADVANCED TELEPROMPTER SCRIPT — segment A7.3
 A7.3 Run the One-Failure Test across methods and providers
-565 words · ~3.6 min at 155 wpm · PRE-DICTATION FILMING DRAFT
+580 words · ~3.7 min at 155 wpm · PRE-DICTATION FILMING DRAFT
 PUBLICATION GATE: Research complete. Verify provider and device facts before naming them; no vendor-specific recommendation is implied.
 ============================================================
 
-Concentration risk is not only holding too much Bitcoin.
+Concentration risk also comes from depending on one device, one vendor, one custodian, one recovery method, one location, or one person.
 
 It can also mean every recovery path depends on the same company, custody method, device family, software, location, or person.
 
@@ -34,11 +34,11 @@ List the dependencies for each meaningful Bitcoin pool:
 
 Then look for correlated failure.
 
-Three keys in three envelopes are not independent if all three are in the same house.
+Three keys in three envelopes are still exposed to the same house fire when all three are stored in one house.
 
-Two hardware devices are not full vendor diversity if they rely on the same secure element, firmware path, and companion software.
+Two hardware devices share a vendor failure domain when they rely on the same secure element, firmware path, and companion software.
 
-Two exchanges are not independent if both rely on the same custodian.
+Two exchanges share a custody failure domain when both rely on the same custodian.
 
 A self-custody wallet and a collaborative multisig can still share a single person, location, or undocumented family process.
 
@@ -68,7 +68,7 @@ Every additional method has to solve a named risk. Set a maximum exposure to one
 
 At the annual review:
 
-1. Reclassify the pools by rough scale. A meaningful amount can become life-changing without the custody process changing.
+1. Reclassify the pools by rough scale. As the balance grows from meaningful to life-changing, rerun the One-Failure Test even if the custody process has stayed the same.
 2. Check whether two supposedly separate pools still share a hidden provider, device, software, person, or location.
 3. Test one recovery path.
 4. Ask what one event could still affect everything.

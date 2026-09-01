@@ -10,7 +10,7 @@
 
 In today's lesson, we're going to figure out the amount of money your plan can actually put to work every month.
 
-I think this is where a financial plan becomes real. You can have a strong opinion about Bitcoin, taxes, retirement accounts, or borrowing, but none of those decisions can use more money than your cash flow produces.
+Cash flow is where a financial plan becomes usable. Every decision about Bitcoin, taxes, retirement accounts, or borrowing is limited by the amount your cash flow produces.
 
 Bitcoin may be the asset that builds the wealth, but the surplus is the engine underneath it. It is what lets you keep buying through a drawdown, build a reserve, pay extra on a debt when that makes sense, and avoid getting forced to sell at the exact time you do not want to.
 
@@ -52,9 +52,15 @@ And after the easy items, the biggest levers are usually housing, vehicles, and 
 
 There is one more number you need besides normal spending: your bare-bones spending.
 
-Bare-bones spending is the minimum amount the household could run on during a job loss, a business slowdown, or a major Bitcoin drawdown. Housing, food, utilities, insurance, healthcare, minimum debt payments, and the other expenses that do not disappear just because the month is bad.
+This is the monthly amount your household could run on during a stressful or unexpected situation, like:
 
-Normal spending tells the plan what your life costs. Bare-bones spending tells you how much cash it takes to buy time in an emergency. The next lesson uses that second number to size the reserve.
+- losing a job;
+- your business slowing down;
+- Bitcoin going through a major drawdown at the same time a car repair, medical bill, or another large one-time expense comes up.
+
+Include the essential bills that would still need to be paid: housing, food, utilities, insurance, healthcare, and minimum debt payments.
+
+Normal spending tells the plan what your life costs. Bare-bones spending tells you how much cash it takes to buy time when something goes wrong. The next lesson uses that number to size the reserve.
 
 Now we can calculate the usable surplus:
 
@@ -62,7 +68,9 @@ Income, minus taxes, minus living expenses, minus required debt payments.
 
 What is left is the pool the plan has available for the reserve, extra debt, and contributions.
 
-I would not count a retirement contribution as an expense in this calculation. A contribution is a decision about where the surplus goes. We are going to make that decision in the Allocation and Next-Dollar module.
+Treat retirement contributions as a use of the surplus.
+
+The Allocation and Next-Dollar module decides where that money goes.
 
 The last part is choosing a surplus you can actually rely on. The mathematical average may say you have four thousand dollars left, but if every third month has a large irregular bill, routing all four thousand is going to create stress and reversals.
 
@@ -79,7 +87,7 @@ In the walkthrough for this module, I'll show you where income and living expens
 ---
 ## 2.2 Size your cash reserve in months of spending
 
-*`TEACH` · ~10.4 min · AUSTIN DICTATION*
+*`TEACH` · ~9.8 min · AUSTIN DICTATION*
 
 In today's lesson, we're going to cover how to size your cash reserve to your life. Let me start by showing you why this matters.
 
@@ -87,13 +95,13 @@ In our example, a couple holds 1.75 Bitcoin. During the 2022 bear market, Bitcoi
 
 On the flip side of this, if you hold too much cash, you have the opposite problem. That money just sits there losing to inflation, and it's going to drag your returns over longer periods of time. What we're going to do in this lesson is find the right number for you in your life that's somewhere in the middle.
 
-For retirement, I use 18 months as a planning default, because the first few years after you stop working are when sequence risk is most dangerous. It's not a prediction of how long the next Bitcoin recovery takes.
+For retirement, I use 18 months as a planning default because the first few years after you stop working are when sequence risk is most dangerous. That reserve gives the household time to cover spending during a bad market.
 
 ### The formula
 
 The formula that I'm using for sizing your emergency fund is: you're going to take your bare-bones essential spending, and then you're going to multiply that by whatever your target amount of months is for your reserve. Bare-bones spending is the absolute minimum amount you can spend in a month and still get by.
 
-The reason why we use this is that, for the floor, or your bare-bones spending, in a real emergency, this is the amount that you could cut back and still get by. If we were to size your emergency fund based off normal spending, you're oversizing your emergency fund and losing money to inflation. A smaller amount of cash is going to buy you more time in a worst-case scenario.
+Bare-bones spending is the monthly amount the household could run on during an emergency. Using that number keeps the reserve focused on the essential bills and lets each dollar of cash buy more time.
 
 Once I get to the app in the walkthrough section, we'll have an opportunity to set what your bare-bones spending is, what your reserve size is going to be, and how you're going to start building a plan and allocating money towards this reserve.
 
@@ -117,9 +125,9 @@ So 6 months, times their $5,000 floor spending, their bare-bones spending — th
 
 ### The reserve changes jobs in retirement
 
-Now, your reserve is going to change as you move into retirement. While you're working, the purpose of the reserve is to replace a lost paycheck and protect you against losing your income and having large unexpected expenses come up. When we shift into retirement, there's not a paycheck to replace.
+Your reserve changes jobs as you move into retirement. While you're working, it replaces a lost paycheck and covers large unexpected expenses.
 
-Instead, this is going to cover the gap between what you spend and what's coming in from other income sources, like Social Security or, if you have one, a pension. The purpose of your reserve in retirement is there so that a bear market doesn't force you to sell Bitcoin to cover your expenses at the wrong time.
+In retirement, it covers the gap between what you spend and what comes in from Social Security, a pension, or other reliable income. That cash lets you keep paying the bills through a bear market and wait for the plan to support the next sale or refill.
 
 Let's say that we have a couple that's 67 years old. They're spending $80,000 a year, and they're getting about $51,600 from Social Security, so this is going to leave a gap of around $2,400 a month. The baseline in retirement is 18 months of that gap, so their target is going to come out to around $43,000 that they're going to want in a reserve. They went from $30,000 while working, up to $120,000 in the early retirement years when the portfolio funds all of it, and then to $43,000 once Social Security is covering part of the spending. They're spending the same amount of money, but the target is about 40% larger, because the reserve is now doing a different job, and they're going to be spending the money that they need to live off of from their reserve.
 
@@ -129,16 +137,16 @@ After this period, if you're not comfortable holding a large amount of cash, I t
 
 ### The scenario question
 
-Before you pick and decide what your cash reserve is going to be, I think it's important to go through a scenario or situation. If Bitcoin were to drop 50% tomorrow, we go into a bear market, and your income got cut off for 6 months and it took you a while to find a new job: would you rather hold more cash now and be able to safely spend it through that period? Or would you be okay with taking the risk to sell some Bitcoin during that time, knowing that the price is down 50%, and just cut your spending more aggressively to your bare-bones spending?
+Before you choose the reserve, run this scenario. If Bitcoin were to drop 50% tomorrow, we go into a bear market, and your income got cut off for 6 months and it took you a while to find a new job: would you rather hold more cash now and be able to safely spend it through that period? Or would you be okay with taking the risk to sell some Bitcoin during that time, knowing that the price is down 50%, and just cut your spending more aggressively to your bare-bones spending?
 
 Your risk tolerance sets the final number. I think having at least 3 months of a reserve while you're working, and then 12 months once you go into retirement, can protect you against selling assets at the wrong time and reduce sequence-of-returns risk in retirement.
 
-Before the walkthrough, choose the number of months that fits your income stability, dependents, fixed costs, and comfort with selling during a drawdown. In the walkthrough, I'll show you where to enter the bare-bones monthly amount, select the Reserve basis and months, and choose the monthly build cap. Orange Plan calculates the target from those inputs and shows the gap; you do not type the target multiplication manually.
+Before the walkthrough, choose the number of months that fits your income stability, dependents, fixed costs, and comfort with selling during a drawdown. In the walkthrough, I'll show you where to enter the bare-bones monthly amount, select the Reserve basis and months, and choose the monthly build cap. Orange Plan calculates the target and gap automatically from the monthly amount and number of months.
 
 ---
 ## 2.3 Add the future changes your plan should expect
 
-*`TEACH` · ~4.3 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.2 min · PRE-DICTATION FILMING DRAFT*
 
 In today's lesson, we're going to cover the future changes that should already be part of your baseline plan.
 
@@ -175,9 +183,9 @@ Fourth, where might the money come from? Current cash flow, existing cash, taxab
 
 Keep the financing question open here. The Debt module decides whether financing improves or weakens the plan. The Allocation module decides how new dollars are invested and which money needs to stay accessible.
 
-The timing still matters, but I do not want to turn it into a rigid rule that says every expense at a certain year must use a certain asset.
+Use the timing as a guide, then choose the funding source based on the amount, flexibility, and risk the household can carry.
 
-If the bill is coming in the next year or two and the amount is non-negotiable, it should not depend on Bitcoin being at a favorable price when the bill arrives.
+For a bill due in the next year or two, protect the committed amount in cash or another reliable source before the due date.
 
 If the event is more than five years away, Bitcoin can remain part of the funding plan. Start protecting the firmly promised portion as the date gets closer. The flexible portion can stay invested longer.
 
@@ -190,13 +198,11 @@ In the module walkthrough, I'll show you how to add an expected income or expens
 ---
 ## 2.4 Optional: decide how much college help you are actually funding
 
-*`TEACH` · ~6.0 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~5.8 min · PRE-DICTATION FILMING DRAFT*
 
 This lesson is optional. It is for you if you have children, grandchildren, or another education goal you expect to help pay for. If that does not apply, skip it and go straight to the module walkthrough.
 
-The first college-planning question is not which account to open.
-
-It is how much you are actually committing to help with.
+Start by deciding how much you are actually committing to help with.
 
 That may be four years of in-state tuition. It may be tuition only, a fixed dollar amount per child, a percentage of the final net cost, or whatever a specific savings account plus a set amount of cash flow can support.
 
@@ -208,7 +214,7 @@ So I would build the decision in this order.
 
 First, choose the commitment. What do you want your child to be able to count on from you?
 
-Second, estimate the likely cost of that commitment. Use the type of school you are realistically planning for today, current tuition and living costs, and a reasonable inflation assumption. This is an estimate that gets updated, not a contract with a school that has not been chosen yet.
+Second, estimate the likely cost of that commitment. Use the type of school you are realistically planning for today, current tuition and living costs, and a reasonable inflation assumption. Update this estimate as the school choice, aid package, and actual costs become clearer.
 
 Third, list every funding source.
 
@@ -218,11 +224,11 @@ That can include existing 529 money, new 529 contributions, Bitcoin or other tax
 
 For a Bitcoiner, start with the family commitment and funding sources, then decide whether a 529 improves that plan.
 
-A 529 can give you tax advantages when the money is used for qualified education expenses. It also limits the investment menu, has rules around how the money is used, and may not give you the Bitcoin exposure you actually want.
+A 529 can give you tax advantages when the money is used for qualified education expenses. The trade-off is a limited investment menu, qualified-use rules, and often no direct Bitcoin exposure.
 
 Bitcoin gives you more flexibility and, in my view, a stronger long-term growth asset. It also brings volatility, no education-specific tax shelter, and the risk that the price is down when tuition is due.
 
-For my own planning, if college is still more than five years away, I am comfortable using Bitcoin as a meaningful part of the savings plan. As the date gets closer, I would protect the first committed tuition payments so the family is not depending on the market at enrollment.
+For my own planning, if college is still more than five years away, I am comfortable using Bitcoin as a meaningful part of the savings plan. As the date gets closer, protect the first committed tuition payments in reliable funding before enrollment.
 
 As the date gets closer, I would revisit the commitment, the likely school cost, the aid picture, and the amount already available. Then I would start protecting the portion I have firmly promised.
 
@@ -234,11 +240,11 @@ The student can participate too. Work, scholarships, grants, and a reasonable am
 
 You may have heard the one-third idea: roughly one-third saved beforehand, one-third paid from current cash flow or investments while the student is enrolled, and one-third handled through aid, student work, or loans.
 
-I think that can be a useful starting framework because it reminds you there are several funding sources. I would not treat it as a rule. One family may want to cover the entire commitment. Another may have a strong retirement plan but limited current savings. Another may have a child choosing a much less expensive path.
+That can be a useful starting framework because it reminds you there are several funding sources. Adapt it to the family's actual commitment and resources. One family may want to cover the entire commitment. Another may have a strong retirement plan but limited current savings. Another may have a child choosing a much less expensive path.
 
-The plan should reflect the decision you actually made, not a generic percentage.
+Build the plan around the family's actual commitment and funding sources.
 
-Orange Plan can help with the numbers. The college life event establishes the amount and the years the plan is expected to fund. Education accounts and contribution rows show what is already set aside and what is still being added. The plan can compare those resources with the commitment and show the remaining amount the broader plan must cover. It does not decide the family commitment for you, and education contributions stay separate from the broader Reserve, Bridge, and Legacy savings target.
+Orange Plan can help with the numbers. The college life event establishes the amount and the years the plan is expected to fund. Education accounts and contribution rows show what is already set aside and what is still being added. The plan can compare those resources with the commitment and show the remaining amount the broader plan must cover. The family chooses the commitment. Orange Plan quantifies it, while education contributions stay separate from the broader Reserve, Bridge, and Legacy savings target.
 
 After you choose the commitment, compare it with what is already saved and what the current projection may provide. The remaining amount is the part that needs a funding decision. Some of it may become a monthly 529 contribution. Some may remain part of the Bitcoin plan. Some may be paid from future income.
 

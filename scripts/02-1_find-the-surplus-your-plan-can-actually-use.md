@@ -1,12 +1,12 @@
 TELEPROMPTER SCRIPT — segment 2.1
 2.1 Find the surplus your plan can actually use
-1,024 words · ~6.6 min at 155 wpm · PRE-DICTATION FILMING DRAFT — rebuilt from Austin's decks, dictation, research, and current app
+1,018 words · ~6.6 min at 155 wpm · PRE-DICTATION FILMING DRAFT — rebuilt from Austin's decks, dictation, research, and current app
 SOURCE: Cash Flow + Reserve deck and Module 2 detailed outline, updated for current Cash Flow page
 ============================================================
 
 In today's lesson, we're going to figure out the amount of money your plan can actually put to work every month.
 
-I think this is where a financial plan becomes real. You can have a strong opinion about Bitcoin, taxes, retirement accounts, or borrowing, but none of those decisions can use more money than your cash flow produces.
+Cash flow is where a financial plan becomes usable. Every decision about Bitcoin, taxes, retirement accounts, or borrowing is limited by the amount your cash flow produces.
 
 Bitcoin may be the asset that builds the wealth, but the surplus is the engine underneath it. It is what lets you keep buying through a drawdown, build a reserve, pay extra on a debt when that makes sense, and avoid getting forced to sell at the exact time you do not want to.
 
@@ -48,9 +48,15 @@ And after the easy items, the biggest levers are usually housing, vehicles, and 
 
 There is one more number you need besides normal spending: your bare-bones spending.
 
-Bare-bones spending is the minimum amount the household could run on during a job loss, a business slowdown, or a major Bitcoin drawdown. Housing, food, utilities, insurance, healthcare, minimum debt payments, and the other expenses that do not disappear just because the month is bad.
+This is the monthly amount your household could run on during a stressful or unexpected situation, like:
 
-Normal spending tells the plan what your life costs. Bare-bones spending tells you how much cash it takes to buy time in an emergency. The next lesson uses that second number to size the reserve.
+- losing a job;
+- your business slowing down;
+- Bitcoin going through a major drawdown at the same time a car repair, medical bill, or another large one-time expense comes up.
+
+Include the essential bills that would still need to be paid: housing, food, utilities, insurance, healthcare, and minimum debt payments.
+
+Normal spending tells the plan what your life costs. Bare-bones spending tells you how much cash it takes to buy time when something goes wrong. The next lesson uses that number to size the reserve.
 
 Now we can calculate the usable surplus:
 
@@ -58,7 +64,9 @@ Income, minus taxes, minus living expenses, minus required debt payments.
 
 What is left is the pool the plan has available for the reserve, extra debt, and contributions.
 
-I would not count a retirement contribution as an expense in this calculation. A contribution is a decision about where the surplus goes. We are going to make that decision in the Allocation and Next-Dollar module.
+Treat retirement contributions as a use of the surplus.
+
+The Allocation and Next-Dollar module decides where that money goes.
 
 The last part is choosing a surplus you can actually rely on. The mathematical average may say you have four thousand dollars left, but if every third month has a large irregular bill, routing all four thousand is going to create stress and reversals.
 

@@ -26,7 +26,7 @@ A Bridge dollar needs to stay accessible. That usually points toward a taxable b
 
 A Legacy dollar has a much longer job. That is where tax-advantaged accounts become more valuable, because the money can compound for years without needing to be touched.
 
-The old deck shows a useful long-term path of HSA, IRA, then 401(k). I would treat that as a comparison order, not a law.
+The old deck shows a useful long-term path of HSA, IRA, then 401(k). Use that order as a starting comparison and adjust it when the household's Bridge, taxes, or debt priorities change.
 
 An HSA can be extremely valuable when you are eligible because it can receive pre-tax money, grow tax-free, and come out tax-free for qualified medical expenses. But eligibility and investment menus matter.
 
@@ -67,7 +67,7 @@ The waterfall also needs two versions written down:
 - what changes now, while the reserve may still be filling;
 - what changes after the reserve is full.
 
-A plan that says "invest two thousand dollars a month" but does not say when that starts or which account gets it is not implemented yet.
+An implemented contribution plan names the monthly amount, the start date, and the account that receives it.
 
 Saving the contribution plan updates the projection. Then change the payroll election, automatic bank transfer, exchange purchase, or brokerage instruction that actually moves the money.
 

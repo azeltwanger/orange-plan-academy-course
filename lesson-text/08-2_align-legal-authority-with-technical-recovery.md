@@ -2,13 +2,9 @@
 
 This lesson is about making sure the legal plan and the custody plan lead to the same outcome.
 
-I do not want to give you one universal formula such as "the heirs hold the seed and the executor holds the passphrase." That can work in a carefully designed and tested plan, but it can also create new failure points or give the wrong person practical control.
+Use one governing principle for every custody design: the legally authorized people need a complete, tested recovery path while no unnecessary person can act alone. The exact structure changes with the custody method, the people involved, the legal roles, and what each component can actually do.
 
-The right structure depends on the custody method, the people involved, the legal roles, and what each component can actually do.
-
-Start with the principle: no unnecessary person should hold enough information or authority to act alone, but the family must still have a complete, tested recovery path when the proper conditions are met.
-
-With ordinary single-signature custody, anyone who obtains the seed can usually recover that wallet. If a BIP39 passphrase is also used, the seed without the exact passphrase opens a different wallet. A passphrase is another secret that must be recovered exactly. It does not create a second signer or legal dual control.
+With ordinary single-signature custody, anyone who obtains the seed can usually recover that wallet. If a BIP39 passphrase is also used, the seed without the exact passphrase opens a different wallet. A passphrase is another secret that must be recovered exactly. Multisig is what creates multiple signers and operational separation.
 
 Splitting those two objects between people can reduce one-person access in some designs, but it can also mean one lost memory, one unavailable person, or one family dispute locks everybody out. It should only be used when the full recovery has been tested and the attorney understands who has legal authority to combine the components.
 
@@ -18,7 +14,7 @@ With multisig, the structure is different.
 
 A two-of-three wallet requires two valid signatures from the defined keys. A two-of-three wallet can create operational separation because one key alone cannot spend. The descriptor or wallet configuration, identity process, legal authority, and people remain part of the recovery plan.
 
-The wallet descriptor or configuration records how the keys are combined, including the threshold and derivation information. Without the correct configuration, heirs may struggle to reconstruct the intended wallet even if they have key material.
+The wallet descriptor or configuration records how the keys are combined, including the threshold and derivation information. Heirs need the correct wallet configuration as well as the key material to reconstruct the intended wallet.
 
 A collaborative custody provider may hold one key, a copy of the public wallet configuration, and an established recovery process. A collaborative provider can add support, identity verification, continuity, a documented procedure, and a third key. The trade-off is vendor dependence, fees, privacy considerations, and the need to understand what happens if the company changes or disappears.
 
@@ -26,7 +22,7 @@ A DIY multisig arrangement removes the provider but moves every operational duty
 
 The legal role also needs to be clear.
 
-An executor, trustee, spouse, beneficiary, and technical helper may all be different people. The person with a key may not be the person legally entitled to direct a transaction. The person with legal authority may not be technically capable of signing one.
+An executor, trustee, spouse, beneficiary, and technical helper may all be different people. Legal authority and signing capability can belong to different people.
 
 That is why I like separating roles on paper:
 
@@ -40,11 +36,11 @@ That is why I like separating roles on paper:
 
 The system should be tested at the process level while you are alive. Use a trivial-value test wallet or a documented tabletop exercise to confirm that everybody knows the first call, the role they have, and the components that exist. Keep real recovery secrets out of the exercise.
 
-The plan should also account for change. Hardware wallets fail. Providers merge or close. Executors age. Families move. A custody design that works today can become unusable if it is never reviewed.
+The plan should also account for change. Hardware wallets fail. Providers merge or close. Executors age. Families move. Review the custody design as devices, providers, and people change.
 
 The deliverable is a tested path where the legally authorized people can recover the asset, one ordinary failure does not destroy the plan, and no secret is stored in the app or legal documents.
 
-The heir letter in the next lesson tells the family how to start without disclosing the components themselves.
+The heir letter in the next lesson gives the family the safe starting instructions while the recovery components remain separate.
 
 ## Apply it
 

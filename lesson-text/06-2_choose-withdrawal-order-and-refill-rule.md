@@ -12,11 +12,11 @@ Then the taxable account runs down. Now most of the spending has to come from th
 
 The household left lower brackets unused and pushed more taxable income into later years, where rates and other interactions may be worse.
 
-The better strategy is often tax-aware rather than strictly sequential.
+A tax-aware strategy can use low ordinary-income brackets on purpose while taxable lots fund the rest of the spending.
 
 Use the reliable income first. Then look at the ordinary-income room that is available this year. A Traditional withdrawal or Roth conversion may intentionally use part of that room. Taxable lots can fund the rest of the spending, with the gain determined by basis rather than treating the entire withdrawal as income.
 
-The exact blend changes every year. It depends on spending, basis, account balances, Social Security, healthcare subsidies, Medicare, and the current tax rules. The ratio is an output from the plan, not a universal number somebody should copy.
+The exact blend changes every year. It depends on spending, basis, account balances, Social Security, healthcare subsidies, Medicare, and the current tax rules. Let the plan produce the blend from spending, basis, account balances, Social Security, healthcare, and current tax rules.
 
 Now connect the withdrawal order to the three timeframes from Allocation.
 
@@ -32,7 +32,7 @@ When the plan is healthy and the assets used for the refill are strong, top the 
 
 When the portfolio is in a major drawdown, pause the refill and spend from the cash already set aside. The entire reason for holding the Reserve is to avoid selling volatile assets at low prices.
 
-If the Reserve approaches its hard floor, the household may still have to refill, reduce spending, use another account, or make a different funding decision. The rule is not "never sell down." The rule is that the plan responds before a cash shortage forces a bad decision.
+If the Reserve approaches its hard floor, respond before a cash shortage forces a bad decision. The response may be a refill, lower spending, another account, or a controlled sale.
 
 Different households can use different bucket sizes with the same rule.
 
@@ -50,7 +50,7 @@ Borrowing can provide liquidity while adding interest, counterparty risk, LTV ri
 
 Holding keeps the long-term position untouched. That can be a valid core strategy when the Reserve, Bridge, other assets, or income can fund life without relying on a sale. A sustainable strategy can mix withdrawals, sales, and borrowing across years. Using a new loan for every cash need compounds interest, lender, and repayment risk. A household may sell in a low-gain year, borrow a conservative amount during a strong period, and leave a core Bitcoin position untouched.
 
-The plan should tell you what each choice costs in taxes, interest, risk, and estate value. It should not decide which trade-off your family prefers.
+The plan should tell you what each choice costs in taxes, interest, risk, and estate value. The family chooses the trade-off after seeing the taxes, interest, risk, and estate impact.
 
 In the walkthrough, we'll compare the withdrawal settings, read the year-by-year sources of the paycheck, set the Reserve and refill behavior, and preview the sell-versus-borrow choices before anything is applied to the baseline plan.
 

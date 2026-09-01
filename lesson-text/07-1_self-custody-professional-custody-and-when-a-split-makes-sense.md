@@ -12,9 +12,9 @@ Professional custody takes some of that burden off you and may give the family s
 
 Multisig can make one lost key survivable. It also gives you more keys, more documentation, and more ways to build something the family does not understand.
 
-There is no setup with no trade-offs.
+Every setup comes with trade-offs.
 
-The goal is to decide which risks you are willing to own and make sure one mistake, one provider, one device, or one bad day cannot destroy the family's plan.
+Choose the risks you are willing to own, then make sure one mistake, one provider, one device, or one bad day cannot destroy the family's plan.
 
 Before we go farther, I want to separate custody from inheritance.
 
@@ -22,7 +22,7 @@ Custody is the operational side: where the Bitcoin is held, who can move it, how
 
 Estate planning is the legal side: who has authority and who receives the asset.
 
-They have to fit together, but they are not the same job.
+Custody handles operational access. Estate planning handles legal authority and transfer.
 
 And there is one rule for the entire module: document the process, never the secrets.
 
@@ -48,7 +48,7 @@ Another person may want both directly controlled Bitcoin and a professionally su
 
 For another household, support, recourse, and family simplicity matter more than controlling every key personally.
 
-None of those answers automatically tells you which product to use. It tells you which trade-off you are not willing to give up.
+Those answers narrow the trade-offs and show which protection the household insists on preserving.
 
 Then name the job of each meaningful Bitcoin pool.
 
@@ -62,7 +62,7 @@ I would classify each pool by rough scale instead of writing exact balances on a
 - meaningful;
 - life-changing.
 
-The decision changes when the amount becomes life-changing. A hardware wallet that felt reasonable when it held a smaller amount can eventually represent the family's entire financial future. Nothing about the device changed. What was at stake did.
+The decision changes when the amount becomes life-changing. A hardware wallet that felt reasonable when it held a smaller amount can eventually represent the family's entire financial future. The device stayed the same while the amount at stake became life-changing.
 
 That is when concentration in one method becomes a risk of its own.
 
@@ -90,7 +90,7 @@ I would use five steps to make the decision:
 
 Choose the simplest setup that removes the household's real failure points and can still be maintained ten or twenty years from now.
 
-I would measure readiness with four outcomes instead of a wealth ladder:
+I would measure readiness with four outcomes:
 
 1. The accounts and recovery channels are secured.
 2. Any direct custody has been proven through a real recovery test.

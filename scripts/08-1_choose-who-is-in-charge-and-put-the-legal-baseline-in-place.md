@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 8.1
 8.1 Choose who is in charge and put the legal baseline in place
-754 words · ~4.9 min at 155 wpm · PRE-DICTATION FILMING DRAFT — rebuilt from Austin's decks, dictation, research, and current app
+759 words · ~4.9 min at 155 wpm · PRE-DICTATION FILMING DRAFT — rebuilt from Austin's decks, dictation, research, and current app
 SOURCE: Estate deck, detailed Module 8 outline, and the state-law research audit
 ============================================================
 
@@ -18,7 +18,7 @@ Availability means they have the time and willingness. Somebody can be trustwort
 
 Trust means they will act in good faith when the family is under pressure.
 
-Pick for the job, not for who would be flattered to be asked. Then ask the person. An executor who has never heard about the role is not part of a working plan yet.
+Pick for capability, availability, and trust. Then ask the primary person and backup to accept the role before you rely on them in the plan.
 
 A nontechnical executor can still be a good executor. Give the executor a clear process, the right legal authority, and a named technical or custody contact when the setup requires one. The executor can coordinate the recovery without personally being the wallet expert.
 
@@ -26,7 +26,7 @@ A nontechnical executor can still be a good executor. Give the executor a clear 
 
 The baseline legal work usually includes four areas.
 
-A will directs how probate assets should be handled and names important roles. It does not control every asset automatically.
+A will directs how probate assets should be handled and names important roles. Beneficiary forms, jointly owned assets, and trust-owned assets follow their own legal paths.
 
 A financial power of attorney can give somebody authority to handle financial matters while you are alive but unable to act. A power of attorney generally ends at death. The executor or trustee role takes over then.
 
@@ -59,4 +59,4 @@ Trustee duties and the authority to hold a concentrated asset depend on the gove
 
 Before moving on, choose the primary person and backup you would trust to run the process. Confirm whether they are willing. Then list which of the baseline documents and beneficiary reviews are already complete and which still need an appointment.
 
-The next lesson connects that legal layer to the technical custody setup without pretending there is one universal way to split seeds, passphrases, or keys.
+The next lesson connects that legal layer to the technical custody setup and shows how the design changes with single-sig, passphrase, multisig, or institutional custody.

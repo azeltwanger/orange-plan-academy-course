@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 2.2
 2.2 Size your cash reserve in months of spending
-1,700 words · ~11.0 min at 155 wpm · AUSTIN DICTATION — cleaned only for current app flow, factual corrections, and walkthrough separation
+1,518 words · ~9.8 min at 155 wpm · AUSTIN DICTATION — cleaned only for current app flow, factual corrections, and walkthrough separation
 SOURCE: Austin dictation; current course order and current-app handoffs applied in the filming rebuild
 ============================================================
 
@@ -10,13 +10,13 @@ In our example, a couple holds 1.75 Bitcoin. During the 2022 bear market, Bitcoi
 
 On the flip side of this, if you hold too much cash, you have the opposite problem. That money just sits there losing to inflation, and it's going to drag your returns over longer periods of time. What we're going to do in this lesson is find the right number for you in your life that's somewhere in the middle.
 
-For retirement, I use 18 months as a planning default, because the first few years after you stop working are when sequence risk is most dangerous. It's not a prediction of how long the next Bitcoin recovery takes.
+For retirement, I use 18 months as a planning default because the first few years after you stop working are when sequence risk is most dangerous. That reserve gives the household time to cover spending during a bad market.
 
 == THE FORMULA ==
 
 The formula that I'm using for sizing your emergency fund is: you're going to take your bare-bones essential spending, and then you're going to multiply that by whatever your target amount of months is for your reserve. Bare-bones spending is the absolute minimum amount you can spend in a month and still get by.
 
-The reason why we use this is that, for the floor, or your bare-bones spending, in a real emergency, this is the amount that you could cut back and still get by. If we were to size your emergency fund based off normal spending, you're oversizing your emergency fund and losing money to inflation. A smaller amount of cash is going to buy you more time in a worst-case scenario.
+Bare-bones spending is the monthly amount the household could run on during an emergency. Using that number keeps the reserve focused on the essential bills and lets each dollar of cash buy more time.
 
 Once I get to the app in the walkthrough section, we'll have an opportunity to set what your bare-bones spending is, what your reserve size is going to be, and how you're going to start building a plan and allocating money towards this reserve.
 
@@ -40,9 +40,9 @@ So 6 months, times their $5,000 floor spending, their bare-bones spending — th
 
 == THE RESERVE CHANGES JOBS IN RETIREMENT ==
 
-Now, your reserve is going to change as you move into retirement. While you're working, the purpose of the reserve is to replace a lost paycheck and protect you against losing your income and having large unexpected expenses come up. When we shift into retirement, there's not a paycheck to replace.
+Your reserve changes jobs as you move into retirement. While you're working, it replaces a lost paycheck and covers large unexpected expenses.
 
-Instead, this is going to cover the gap between what you spend and what's coming in from other income sources, like Social Security or, if you have one, a pension. The purpose of your reserve in retirement is there so that a bear market doesn't force you to sell Bitcoin to cover your expenses at the wrong time.
+In retirement, it covers the gap between what you spend and what comes in from Social Security, a pension, or other reliable income. That cash lets you keep paying the bills through a bear market and wait for the plan to support the next sale or refill.
 
 Let's say that we have a couple that's 67 years old. They're spending $80,000 a year, and they're getting about $51,600 from Social Security, so this is going to leave a gap of around $2,400 a month. The baseline in retirement is 18 months of that gap, so their target is going to come out to around $43,000 that they're going to want in a reserve. They went from $30,000 while working, up to $120,000 in the early retirement years when the portfolio funds all of it, and then to $43,000 once Social Security is covering part of the spending. They're spending the same amount of money, but the target is about 40% larger, because the reserve is now doing a different job, and they're going to be spending the money that they need to live off of from their reserve.
 
@@ -52,8 +52,8 @@ After this period, if you're not comfortable holding a large amount of cash, I t
 
 == THE SCENARIO QUESTION ==
 
-Before you pick and decide what your cash reserve is going to be, I think it's important to go through a scenario or situation. If Bitcoin were to drop 50% tomorrow, we go into a bear market, and your income got cut off for 6 months and it took you a while to find a new job: would you rather hold more cash now and be able to safely spend it through that period? Or would you be okay with taking the risk to sell some Bitcoin during that time, knowing that the price is down 50%, and just cut your spending more aggressively to your bare-bones spending?
+Before you choose the reserve, run this scenario. If Bitcoin were to drop 50% tomorrow, we go into a bear market, and your income got cut off for 6 months and it took you a while to find a new job: would you rather hold more cash now and be able to safely spend it through that period? Or would you be okay with taking the risk to sell some Bitcoin during that time, knowing that the price is down 50%, and just cut your spending more aggressively to your bare-bones spending?
 
 Your risk tolerance sets the final number. I think having at least 3 months of a reserve while you're working, and then 12 months once you go into retirement, can protect you against selling assets at the wrong time and reduce sequence-of-returns risk in retirement.
 
-Before the walkthrough, choose the number of months that fits your income stability, dependents, fixed costs, and comfort with selling during a drawdown. In the walkthrough, I'll show you where to enter the bare-bones monthly amount, select the Reserve basis and months, and choose the monthly build cap. Orange Plan calculates the target from those inputs and shows the gap; you do not type the target multiplication manually.
+Before the walkthrough, choose the number of months that fits your income stability, dependents, fixed costs, and comfort with selling during a drawdown. In the walkthrough, I'll show you where to enter the bare-bones monthly amount, select the Reserve basis and months, and choose the monthly build cap. Orange Plan calculates the target and gap automatically from the monthly amount and number of months.

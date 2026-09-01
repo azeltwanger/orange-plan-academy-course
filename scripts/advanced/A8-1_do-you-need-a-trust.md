@@ -1,18 +1,18 @@
 ADVANCED TELEPROMPTER SCRIPT — segment A8.1
 A8.1 Do you need a trust, and what job would it do?
-707 words · ~4.6 min at 155 wpm · PRE-DICTATION FILMING DRAFT
+719 words · ~4.6 min at 155 wpm · PRE-DICTATION FILMING DRAFT
 PUBLICATION GATE: Research complete. State-licensed estate attorney signoff before publication; no template language or universal Bitcoin trust design is approved here.
 ============================================================
 
-A trust is a tool for a specific legal or family job. Start with the triggers that give a trust a specific job. Bitcoin ownership by itself does not establish the need.
+A trust is a tool for a specific legal or family job. Start with the triggers that give a trust a specific job. The need for a trust comes from the legal, tax, control, probate, creditor, and family jobs it must solve.
 
 A trust conversation becomes more useful when the estate may face federal or state estate tax, the family is blended or includes minor or special-needs beneficiaries, the owner wants to control timing or conditions of distributions, incapacity planning matters, privacy or probate avoidance is important, or creditor and divorce risks need to be considered.
 
 A large, fast-growing Bitcoin position can also move an estate into a different planning category over time. Use both today's net worth and the projected estate under assumptions the household actually believes.
 
-Few triggers can mean the baseline will, powers, beneficiary work, and custody plan are enough. That is a successful answer, not a failure to use an advanced tool.
+Few triggers can mean the baseline will, powers, beneficiary work, and custody plan are enough. Stopping at the legal baseline is a successful answer when no additional trust job exists.
 
-A revocable living trust generally lets the person retain control and change the arrangement during life. It can help with probate avoidance for properly titled assets, privacy, and continuity during incapacity. Because the owner retains broad control, it usually does not remove the assets from the taxable estate or create broad creditor protection by itself.
+A revocable living trust generally lets the person retain control and change the arrangement during life. It can help with probate avoidance for properly titled assets, privacy, and continuity during incapacity. A revocable trust usually keeps the assets in the taxable estate and offers limited creditor protection because the owner retains broad control.
 
 An irrevocable trust can transfer control and beneficial interests under terms that are harder or impossible to change. Depending on the design and law, it may move future appreciation outside the taxable estate, protect assets, or control distributions. The trade-off is real loss of control, administrative work, tax-return complexity, and possible loss of a basis adjustment or other tax attributes depending on the structure.
 
@@ -34,7 +34,7 @@ What happens if the trustee believes holding concentrated Bitcoin violates fiduc
 
 Trustees are generally subject to duties of prudence, loyalty, impartiality, and administration under the governing law and document. Diversification is often a default expectation, but how that duty can be changed or applied depends on the state and the exact trust language.
 
-A concentrated-Bitcoin trust needs complete investment authority, concentration language, risk disclosures, delegation, custody powers, valuation process, and successor-trustee instructions drafted for the governing state. One waiver sentence cannot carry all of those jobs.
+A concentrated-Bitcoin trust needs complete investment authority, concentration language, risk disclosures, delegation, custody powers, valuation process, and successor-trustee instructions drafted for the governing state. The full trust language has to address investment authority, trustee duties, custody, fees, taxes, and distributions together.
 
 Custody design is part of the legal design.
 
@@ -56,4 +56,4 @@ The questions to ask are:
 - How do the trustee and custody keys work together?
 - What happens when the trustee, provider, device, law, or family changes?
 
-Fund the trust after the transfer, control, tax outcome, and custody process are clear enough to execute. It should not create a legal document that depends on a custody process nobody can execute.
+Fund the trust after the transfer, control, tax outcome, and custody process are clear enough to execute. The legal document and custody process must be executable by the named people under stress.

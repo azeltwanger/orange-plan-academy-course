@@ -8,7 +8,7 @@ Loss harvesting realizes a loss when a lot is worth less than its documented bas
 
 Gain harvesting intentionally realizes a long-term gain in a year where the effective tax cost is low, then resets the basis higher for future sales.
 
-Both strategies begin with clean lots. Without the date, amount, basis, and supported identification method, the app cannot tell you which loss or gain is actually being realized.
+Both strategies begin with clean lots. The app needs the date, amount, basis, and supported identification method to determine which loss or gain is being realized.
 
 For a loss harvest, compare the current value with basis lot by lot. Then include trading fees, spreads, custody movement, and any effect on the holding period of the replacement position.
 
@@ -22,7 +22,7 @@ The benefit is a higher basis. If a lot with a large unrealized gain is realized
 
 Use the lot-level candidate list in Tax strategy as a starting point. Then calculate what the realized amount does to the entire year's tax picture and whether the new basis matters for future spending or estate plans.
 
-Keep the trade confirmations, lot records, and methodology with the tax file. The Form 8949 export is a handoff, not a substitute for reviewing whether the transaction and identification were reported correctly.
+Keep the trade confirmations, lot records, and methodology with the tax file. Use the Form 8949 export as the CPA handoff, then verify that the transaction and identification were reported correctly.
 
 The planning questions are:
 

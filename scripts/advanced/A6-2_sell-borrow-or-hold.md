@@ -1,12 +1,12 @@
 ADVANCED TELEPROMPTER SCRIPT — segment A6.2
 A6.2 Sell, borrow, or hold when the plan needs a year of spending
-438 words · ~2.8 min at 155 wpm · PRE-DICTATION FILMING DRAFT
+423 words · ~2.7 min at 155 wpm · PRE-DICTATION FILMING DRAFT
 PUBLICATION GATE: Research complete. Targeted CPA or EA review before publication; verify lender terms and current basis-at-death law before relying on them.
 ============================================================
 
 A Bitcoin-heavy retirement plan can fund a year of spending by selling, borrowing, using other assets, or leaving a core position untouched while the Reserve and Bridge do the work.
 
-These are tools, not moral positions.
+Treat selling, borrowing, and holding as tools with different costs and risks.
 
 Selling is the simplest. The household receives cash, the gain or loss is reported using the lot basis, and there is no lender or repayment obligation. Selling can be especially attractive in a low-income year where part of the long-term gain may fall into a lower federal bracket.
 
@@ -18,7 +18,7 @@ A later forced liquidation is a sale and can create tax. A long bear market can 
 
 Holding assigns the core Bitcoin position a long-term or estate job. The Reserve, Bridge, income floor, and other accounts fund life while that core compounds.
 
-Under current federal rules, inherited property may receive a basis adjustment at death, but exceptions, ownership structure, estate inclusion, and future law matter. Do not build the entire plan around one sentence about a step-up without legal and tax review.
+Under current federal rules, inherited property may receive a basis adjustment at death, but exceptions, ownership structure, estate inclusion, and future law matter. Build the estate assumption from current law and professional review, then test how sensitive the plan is to a different outcome.
 
 Compare the tools on the same year of spending.
 
@@ -32,4 +32,4 @@ The best plan may mix the tools. A household can sell high-basis lots in a low-t
 
 The weak version is choosing "never sell" first and forcing every future need into a loan. The decision should come after the tax, risk, cash-flow, and family-comfort comparison.
 
-Use the Loans workbench as a sandbox. Nothing should change in the baseline until the strategy has been previewed, the lender terms are verified, and the household can explain how the debt gets repaid if Bitcoin does not cooperate.
+Use the Loans workbench as a sandbox. Keep the strategy in Preview until the lender terms are verified and the household can explain repayment under a bad Bitcoin path.

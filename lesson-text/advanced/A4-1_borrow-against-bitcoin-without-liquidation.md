@@ -10,7 +10,7 @@ If the loan is fifty thousand dollars and the posted Bitcoin is worth two hundre
 
 As Bitcoin falls, the collateral value falls and the LTV rises even when the loan balance does not change.
 
-The lender may have a margin-call or top-up level, a liquidation level, or an automatic collateral process. Those terms are contractual and can differ materially. Read the actual agreement rather than assuming one lender works like another.
+The lender may have a margin-call or top-up level, a liquidation level, or an automatic collateral process. Those terms are contractual and can differ materially. Read the actual agreement and record that lender's specific thresholds, fees, and remedies.
 
 Translate today's LTV into the Bitcoin price and percentage decline that reaches each trigger.
 
@@ -33,10 +33,10 @@ Separate the loan collateral from the emergency Reserve. Separate the resources 
 
 Counterparty risk matters even when the LTV is conservative. Understand rehypothecation, bankruptcy treatment, withdrawal or collateral-release rules, jurisdiction, insurance claims, and what happens if the lender changes terms or stops operating.
 
-The tax pitch needs nuance too. A bona fide loan generally provides proceeds without income at origination. A later liquidation sells collateral and may create a taxable gain or loss. Forgiveness or another restructuring can create different consequences. The phrase "borrow and never pay tax" is not a complete plan.
+The tax pitch needs nuance too. A bona fide loan generally provides proceeds without income at origination. A later liquidation sells collateral and may create a taxable gain or loss. Forgiveness or another restructuring can create different consequences. A complete borrow-versus-sell plan includes interest, liquidation risk, repayment, counterparty risk, and the tax consequences of every exit path.
 
 New borrowing to buy more Bitcoin needs a higher standard than keeping an existing low-rate mortgage. You are adding leverage to the same asset that secures the loan. A price decline hurts the investment and the collateral ratio at the same time.
 
 A strong version starts with a low LTV, a durable repayment source, collateral outside the loan, clear triggers, and proceeds serving a specific job. A weak version begins because the household is short of cash and assumes the next bull market will solve repayment.
 
-Use the app to model the lender-versus-custody chart, the fall-to-trigger prices, interest cost, and estate impact. The app can show the trade-off. It cannot make the contract safer than the actual lender terms.
+Use the app to model the lender-versus-custody chart, the fall-to-trigger prices, interest cost, and estate impact. The app can show the trade-off. The model is only as safe as the actual lender terms entered into it.

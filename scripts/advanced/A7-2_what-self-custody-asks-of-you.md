@@ -1,6 +1,6 @@
 ADVANCED TELEPROMPTER SCRIPT — segment A7.2
 A7.2 What self-custody actually asks of you
-342 words · ~2.2 min at 155 wpm · PRE-DICTATION FILMING DRAFT
+333 words · ~2.1 min at 155 wpm · PRE-DICTATION FILMING DRAFT
 PUBLICATION GATE: Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.
 ============================================================
 
@@ -31,8 +31,8 @@ Maintenance is part of the job. Firmware and wallet software change. Devices bec
 
 Schedule a yearly recovery exercise using a test wallet or another safe procedure, then review the locations, people, devices, software, and provider contacts. Keep live secrets out of the exercise.
 
-Self-custody should create confidence, not constant fear.
+A sustainable self-custody setup should leave the household confident in the recovery process.
 
-A smaller amount in a simple, tested setup is better than a life-changing amount in a complex setup copied from somebody else. And keeping some professionally supported Bitcoin is not a failure of conviction when it solves a real family or operational risk.
+A smaller amount in a simple, tested setup is better than a life-changing amount in a complex setup copied from somebody else. Professionally supported custody can be a deliberate way to solve family or operational risk while preserving direct control over another portion.
 
 Decide which risks you want to own directly and whether the household can keep owning them for decades. That is the useful self-custody question.

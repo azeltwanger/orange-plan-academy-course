@@ -59,7 +59,7 @@ watched — watching is not the deliverable, a plan is.
 ### Lessons
 
 - **1.1 What to gather before you build the plan** — 🎙 ~7 min
-- **1.2 The three layers of a plan, and setting your assumptions** — 🎙 ~9 min
+- **1.2 The three layers of a plan, and setting your assumptions** — 🎙 ~10 min
 - **1.3 What the onboarding retirement age actually means** — 🎙 ~4 min
 - **1.4 WALKTHROUGH — Replace the onboarding estimate with real Foundation data** — 🖥 walkthrough
 
@@ -188,7 +188,7 @@ watched — watching is not the deliverable, a plan is.
 
 ### Lessons
 
-- **4.1 Decide what every debt should do** — 🎙 ~7 min
+- **4.1 Decide what every debt should do** — 🎙 ~6 min
 - **4.2 WALKTHROUGH — Give every debt a job and update the waterfall** — 🖥 walkthrough
 
 ### ✅ Checkpoint — paste at the bottom of the module page
@@ -273,7 +273,7 @@ watched — watching is not the deliverable, a plan is.
 
 - **6.1 Build the spending number, income floor, gap, and Bridge** — 🎙 ~4 min
 - **6.2 Choose the withdrawal order and the draw-and-refill rule** — 🎙 ~5 min
-- **6.3 Read the simulation result and use spending guardrails** — 🎙 ~4 min
+- **6.3 Read the simulation result and use spending guardrails** — 🎙 ~5 min
 - **6.4 WALKTHROUGH — Build the retirement paycheck** — 🖥 walkthrough
 
 ### ✅ Checkpoint — paste at the bottom of the module page
@@ -365,7 +365,7 @@ watched — watching is not the deliverable, a plan is.
 ### Lessons
 
 - **8.1 Choose who is in charge and put the legal baseline in place** — 🎙 ~5 min
-- **8.2 Align legal authority with the technical recovery path** — 🎙 ~5 min
+- **8.2 Align legal authority with the technical recovery path** — 🎙 ~4 min
 - **8.3 Write the heir letter and create the communication backstop** — 🎙 ~4 min
 - **8.4 Use insurance for the risks the current stack cannot carry** — 🎙 ~5 min
 - **8.5 WALKTHROUGH — Build the family handoff in Protect** — 🖥 walkthrough

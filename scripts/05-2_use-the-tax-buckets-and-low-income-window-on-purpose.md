@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 5.2
 5.2 Use the tax buckets and the low-income window on purpose
-873 words · ~5.6 min at 155 wpm · PRE-DICTATION FILMING DRAFT — rebuilt from Austin's decks, dictation, research, and current app
+853 words · ~5.5 min at 155 wpm · PRE-DICTATION FILMING DRAFT — rebuilt from Austin's decks, dictation, research, and current app
 SOURCE: Tax deck lessons 2 through 5, current Tax Center capabilities, and primary-source tax review
 ============================================================
 
@@ -12,7 +12,7 @@ I think of the plan as having three tax buckets.
 
 Taxable money is flexible. You can generally access it whenever you need it. Investment gains may receive long-term capital-gains treatment when the holding-period rules are met, and there is a zero-percent federal long-term capital-gains bracket for some taxpayers. Gains stack on top of the rest of taxable income, so the available 0% long-term capital-gains space is limited by the whole return.
 
-Tax-deferred money includes Traditional retirement accounts. Contributions may reduce taxable income today, and the investments can grow without current tax. Withdrawals are generally ordinary income later. Required minimum distributions eventually force money out based on the rules that apply to your birth year and account. The starting age has changed more than once, so the current rule should be verified instead of frozen into a video.
+Tax-deferred money includes Traditional retirement accounts. Contributions may reduce taxable income today, and the investments can grow without current tax. Withdrawals are generally ordinary income later. Required minimum distributions eventually force money out based on the rules that apply to your birth year and account. Verify the current starting age before recording or acting because the rule has changed more than once.
 
 Roth money has already been taxed before it goes in. Qualified withdrawals can come out tax-free, and Roth IRAs do not have lifetime required minimum distributions for the original owner under current law. Roth space is valuable for long-term growth. The right contribution mix still depends on the tax rate now, the expected rate later, and access needs.
 
@@ -32,7 +32,7 @@ That middle period is the tax-planning window.
 
 A Roth conversion is one way to use it. You move money from a Traditional account into a Roth, recognize ordinary income now, and reduce the amount left to create future required distributions. Compare the known tax rate now with the expected lifetime tax and flexibility of leaving the money in the Traditional account.
 
-I would not simply "fill the bracket" based on one tax rate line. The true cost can include how the conversion interacts with capital gains, Social Security taxation, Medicare surcharges, health-insurance subsidies before Medicare, the net investment income tax, state tax, and deductions or credits.
+Model the entire tax stack before choosing a conversion amount. The true cost can include how the conversion interacts with capital gains, Social Security taxation, Medicare surcharges, health-insurance subsidies before Medicare, the net investment income tax, state tax, and deductions or credits.
 
 Use the app to model a range, then verify the exact current-year amount with a tax professional before execution.
 
@@ -48,7 +48,7 @@ Gain harvesting moves in the opposite direction. In a low-income year, you may i
 
 State tax can be a large lever too. A large gain or conversion can produce very different results depending on residency. Domicile depends on the full pattern of where you live, work, vote, hold property, spend time, and intend to remain. A state entry on a tax form is only one piece of that record. A move made around a major sale can receive extra scrutiny.
 
-I would treat relocation as a life decision that can have a tax benefit, not a tax trick that happens to require a moving truck.
+Treat relocation as a real life decision and measure the tax benefit inside the full plan.
 
 Leave this module with three things:
 

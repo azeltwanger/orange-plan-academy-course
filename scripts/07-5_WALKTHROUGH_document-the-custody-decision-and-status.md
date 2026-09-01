@@ -24,7 +24,7 @@
 - the risk the architecture is meant to reduce;
 - and the first unfinished action.
 
-**SAY** The app checklist records implementation status. It does not decide that every larger balance should move into a more complicated self-custody setup.
+**SAY** The app checklist records implementation status. The decision map records the household's chosen architecture and the risk it is meant to reduce.
 
 ## 2 · Map the meaningful Bitcoin pools
 
@@ -72,7 +72,7 @@ For every life-changing row, ask:
 
 **CHECK** only items that are true today.
 
-**⚠** A recovery-test item stays open until the recovery was actually proven. Buying a hardware wallet does not complete it.
+**⚠** A recovery-test item stays open until the recovery was actually proven. Mark recovery complete only after a real recovery test.
 
 **⚠** Review the email security, authentication, withdrawal protections, beneficiary or estate process, and provider concentration for every institutional account.
 
@@ -93,7 +93,7 @@ Examples:
 - Collaborative multisig → verify provider-independent recovery and the wallet policy backup.
 - Intentional split → define the job and maximum exposure for each bucket before moving funds.
 
-**SAY** The goal is one meaningful reduction in risk, not checking every box for appearance.
+**SAY** Use the checklist to make one meaningful reduction in risk at a time.
 
 ## 7 · Confirm process contacts without secrets
 

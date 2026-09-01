@@ -1,6 +1,6 @@
 TELEPROMPTER SCRIPT — segment 2.3
 2.3 Add the future changes your plan should expect
-725 words · ~4.7 min at 155 wpm · PRE-DICTATION FILMING DRAFT — rebuilt from Austin's decks, dictation, research, and current app
+653 words · ~4.2 min at 155 wpm · PRE-DICTATION FILMING DRAFT — rebuilt from Austin's decks, dictation, research, and current app
 SOURCE: Foundation and Cash Flow decks; Austin clarification that this lesson is life-event planning, not a universal funding-lane doctrine
 ============================================================
 
@@ -39,9 +39,9 @@ Fourth, where might the money come from? Current cash flow, existing cash, taxab
 
 Keep the financing question open here. The Debt module decides whether financing improves or weakens the plan. The Allocation module decides how new dollars are invested and which money needs to stay accessible.
 
-The timing still matters, but I do not want to turn it into a rigid rule that says every expense at a certain year must use a certain asset.
+Use the timing as a guide, then choose the funding source based on the amount, flexibility, and risk the household can carry.
 
-If the bill is coming in the next year or two and the amount is non-negotiable, it should not depend on Bitcoin being at a favorable price when the bill arrives.
+For a bill due in the next year or two, protect the committed amount in cash or another reliable source before the due date.
 
 If the event is more than five years away, Bitcoin can remain part of the funding plan. Start protecting the firmly promised portion as the date gets closer. The flexible portion can stay invested longer.
 
