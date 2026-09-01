@@ -12,7 +12,9 @@
 
 ## 1 · Enter and verify every debt
 
-**DO** Debt page → **Add debt** or edit each existing row.
+**DO** Home → Debt to confirm current monitoring, then Plan → Build & improve → Improve strategy → **Debt and leverage**.
+
+**DO** **Add debt** or edit each existing row in the canonical Debt workspace.
 
 **ENTER** balance · current rate · required payment · term or payoff information.
 
@@ -65,7 +67,7 @@ For each row, choose or record:
 
 **SEE** Step 2 **Extra debt** now reflects the Debt-page decisions and reduces the contribution pool by the same amount.
 
-**⚠** Managed on Debt, displayed on Cash Flow: one plan, not two settings.
+**⚠** Managed in Debt and leverage, displayed on Cash Flow: one plan, not two settings.
 
 **DO** Recheck the contribution rows that follow. Confirm which account is limited, which amount begins after payoff, or whether the split still makes sense.
 
@@ -73,21 +75,21 @@ For each row, choose or record:
 
 **DO** Plan → Scenarios → compare payoff versus keep-and-invest for the debt where the answer is genuinely close.
 
-**READ** retirement date · confidence preview when available · taxes · liquidity · required payment · Bitcoin remaining.
+**READ** retirement date · simulation-count preview when available · taxes · liquidity · required payment · Bitcoin remaining.
 
 **SAY** A scenario informs the job. It does not override a household's real tolerance or lender contract.
 
 ## 8 · AI review
 
-**DO** Debt → Review Debt Strategy.
+**DO** Open **Ask** from the header while Debt and leverage is on screen.
 
 **ASK** for the largest current fragility, any stale loan input, and what would change the job assigned to each debt.
 
-**⚠** Run after the jobs are entered. The AI reviews the strategy; it does not approve a loan.
+**⚠** Run this after the jobs are entered. Ask reviews the strategy; it does not approve a loan.
 
 ## 9 · Close Debt
 
-**DO** Build & improve → **Debt**.
+**DO** Plan → Build & improve → Improve strategy → **Debt and leverage**.
 
 **SEE** every active debt has the required current fields, or **I have no debts** is selected truthfully; strategy review recorded when applicable.
 
