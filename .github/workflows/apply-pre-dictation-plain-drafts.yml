@@ -1,0 +1,58 @@
+name: Apply pre-dictation plain-draft pass
+
+on:
+  push:
+    branches:
+      - course-pre-dictation-plain-drafts
+    paths:
+      - pre-dictation-pass/RUN
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: course-pre-dictation-plain-drafts
+          fetch-depth: 0
+
+      - name: Convert non-dictated scripts to plain speaking drafts
+        run: python3 pre-dictation-pass/apply.py
+
+      - name: Regenerate dependent course files
+        run: |
+          python3 tools/build-module-gates.py
+          python3 tools/build-scripts.py
+          python3 tools/build-scripts.py --advanced
+          python3 tools/split-modules.py
+          python3 tools/split-modules.py --advanced
+          python3 tools/build-onefile.py
+          python3 tools/build-circle-structure.py
+          python3 tools/build-dictation-order.py
+          python3 tools/build-film-order.py
+          python3 tools/build-shoot-list.py
+          python3 tools/build-production-checklist.py
+          python3 tools/course-metrics.py
+
+      - name: Verify plain drafts and course integrity
+        run: python3 pre-dictation-pass/verify.py
+
+      - name: Remove one-time workflow and runners
+        run: |
+          rm -rf pre-dictation-pass
+          rm -f .github/workflows/apply-pre-dictation-plain-drafts.yml
+
+      - name: Commit final pass
+        run: |
+          git config user.name "OpenAI Pre-Dictation Pass"
+          git config user.email "noreply@openai.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "Convert generated scripts into plain pre-dictation drafts"
+          git push origin HEAD:course-pre-dictation-plain-drafts
