@@ -30,6 +30,37 @@ jobs:
       - name: Apply human-reviewed direct-language corrections
         run: |
           set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          p = Path('tools/apply-final-direct-language-sweep.py')
+          text = p.read_text(encoding='utf-8')
+          old = '''def replace_once(path: Path, old: str, new: str) -> None:
+              text = path.read_text(encoding="utf-8")
+              count = text.count(old)
+              if count != 1:
+                  raise RuntimeError(f"{path.relative_to(ROOT)} expected one match, found {count}: {old[:90]!r}")
+              path.write_text(text.replace(old, new, 1), encoding="utf-8")
+          '''
+          new = '''def replace_once(path: Path, old: str, new: str) -> None:
+              text = path.read_text(encoding="utf-8")
+              count = text.count(old)
+              if count == 1:
+                  path.write_text(text.replace(old, new, 1), encoding="utf-8")
+                  return
+              pattern = re.compile(r"\\s+".join(re.escape(part) for part in re.split(r"\\s+", old.strip())))
+              matches = list(pattern.finditer(text))
+              if len(matches) != 1:
+                  raise RuntimeError(
+                      f"{path.relative_to(ROOT)} expected one whitespace-normalized match, "
+                      f"found {len(matches)}: {old[:90]!r}"
+                  )
+              match = matches[0]
+              path.write_text(text[:match.start()] + new + text[match.end():], encoding="utf-8")
+          '''
+          if text.count(old) != 1:
+              raise SystemExit('expected replace_once implementation once')
+          p.write_text(text.replace(old, new, 1), encoding='utf-8')
+          PY
           python3 tools/apply-final-direct-language-sweep.py
 
       - name: Regenerate every derived Academy layer
