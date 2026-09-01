@@ -1,0 +1,90 @@
+name: Apply full course audit
+
+on:
+  push:
+    branches:
+      - course-v1-full-lesson-audit
+    paths:
+      - .review/apply-source-patch
+
+permissions:
+  contents: write
+
+jobs:
+  apply:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: course-v1-full-lesson-audit
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Reconstruct and apply reviewed source patch
+        run: |
+          set -euo pipefail
+          cat .review/source-patch.part* > /tmp/full-course-source.patch.xz.b64
+          echo '2b0e97a5bcf7d0f91e0b86465b5456e678b9df02409ff772113702e5d34b8b21  /tmp/full-course-source.patch.xz.b64' | sha256sum -c -
+          base64 -d /tmp/full-course-source.patch.xz.b64 | xz -d > /tmp/full-course-source.patch
+          echo '2096aaff2bd31cd64467c622dd6c63cdfa43c36864298e68fda7dc91a86df643  /tmp/full-course-source.patch' | sha256sum -c -
+          git apply --check /tmp/full-course-source.patch
+          git apply /tmp/full-course-source.patch
+
+      - name: Remove temporary review transport
+        run: |
+          rm -f .review/source-patch.part*
+          rm -f .review/export-trigger .review/apply-source-patch
+          rm -f .github/workflows/export-course-review-bundle.yml
+          rm -f .github/workflows/apply-full-course-audit.yml
+          rmdir .review 2>/dev/null || true
+
+      - name: Regenerate every derived course layer
+        run: |
+          set -euo pipefail
+          python3 tools/rebuild-masters-from-scripts.py
+          python3 tools/write-v1-claim-registry.py
+          python3 tools/sync-lesson-text.py
+          python3 tools/build-module-gates.py
+          python3 tools/split-modules.py
+          python3 tools/split-modules.py --advanced
+          python3 tools/build-onefile.py
+          python3 tools/build-dictation-order.py
+          python3 tools/build-film-order.py
+          python3 tools/build-shoot-list.py
+          python3 tools/write-production-checklist-template.py
+          python3 tools/build-production-checklist.py
+          python3 tools/build-circle-structure.py
+          python3 tools/direct-voice-audit.py --fail-ordinary
+          python3 tools/course-metrics.py
+
+      - name: Verify the complete course
+        run: |
+          set -euo pipefail
+          python3 -m py_compile \
+            tools/rebuild-masters-from-scripts.py \
+            tools/sync-lesson-text.py \
+            tools/direct-voice-audit.py \
+            tools/check-v1-course-alignment.py \
+            tools/write-v1-claim-registry.py \
+            tools/write-production-checklist-template.py \
+            tools/build-dictation-order.py \
+            tools/course-metrics.py
+          python3 tools/check-v1-course-alignment.py
+          python3 tools/check-crossrefs.py
+          python3 tools/check-visuals.py
+          python3 tools/check-layer-parity.py -v
+          python3 tools/cold-read-audit.py
+          python3 tools/course-metrics.py --check
+          git diff --check
+
+      - name: Commit the completed 52-lesson audit
+        run: |
+          set -euo pipefail
+          git config user.name 'OpenAI Course Audit'
+          git config user.email 'noreply@openai.com'
+          git add -A
+          git commit -m 'Complete all 52 lesson audits and V1 alignment'
+          git push origin HEAD:course-v1-full-lesson-audit
