@@ -1,0 +1,119 @@
+name: Course V1 alignment
+
+on:
+  push:
+    branches:
+      - course-v1-alignment-direct-voice
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  align:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: course-v1-alignment-direct-voice
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Apply source transformations
+        run: |
+          set -euo pipefail
+          if [[ ! -f V1-COURSE-ALIGNMENT.md ]]; then
+            python3 tools/preflight-v1-alignment.py
+            python3 tools/apply-v1-alignment-direct-voice.py
+          else
+            echo "V1 source transformation already applied"
+          fi
+          python3 tools/apply-direct-voice-pass-2.py
+          python3 tools/apply-direct-voice-final.py
+
+      - name: Synchronize active course layers
+        run: |
+          set -euo pipefail
+          python3 tools/rebuild-masters-from-scripts.py
+          python3 tools/update-v1-unit-intros.py
+          python3 tools/write-v1-claim-registry.py
+          python3 tools/sync-lesson-text.py
+          python3 tools/build-module-gates.py
+          python3 tools/split-modules.py
+          python3 tools/split-modules.py --advanced
+          python3 tools/build-onefile.py
+          python3 tools/build-dictation-order.py
+          python3 tools/build-film-order.py
+          python3 tools/build-shoot-list.py
+          python3 tools/write-production-checklist-template.py
+          python3 tools/build-production-checklist.py
+          python3 tools/build-circle-structure.py
+
+      - name: Run verification suite
+        id: verify
+        continue-on-error: true
+        shell: bash
+        run: |
+          set +e
+          rm -f ALIGNMENT-VERIFICATION.md DIRECT-VOICE-AUDIT.md
+          report="/tmp/ALIGNMENT-VERIFICATION.md"
+          printf '# V1 course alignment verification\n\n' > "$report"
+          printf 'Branch: `course-v1-alignment-direct-voice`\n\n' >> "$report"
+          overall=0
+
+          run_check() {
+            name="$1"
+            shift
+            printf '## %s\n\n```text\n' "$name" >> "$report"
+            "$@" >> "$report" 2>&1
+            status=$?
+            printf '\n```\n\n**Exit:** `%s`\n\n' "$status" >> "$report"
+            if [[ $status -ne 0 ]]; then
+              overall=1
+            fi
+          }
+
+          run_check "Python compilation" python3 -m py_compile \
+            tools/apply-v1-alignment-direct-voice.py \
+            tools/apply-direct-voice-pass-2.py \
+            tools/apply-direct-voice-final.py \
+            tools/preflight-v1-alignment.py \
+            tools/rebuild-masters-from-scripts.py \
+            tools/update-v1-unit-intros.py \
+            tools/sync-walkthroughs-to-master.py \
+            tools/sync-lesson-text.py \
+            tools/direct-voice-audit.py \
+            tools/check-v1-course-alignment.py \
+            tools/write-v1-claim-registry.py \
+            tools/write-production-checklist-template.py
+          run_check "V1 product contract" python3 tools/check-v1-course-alignment.py
+          run_check "Cross references" python3 tools/check-crossrefs.py
+          run_check "Visual references" python3 tools/check-visuals.py
+          run_check "Layer parity" python3 tools/check-layer-parity.py -v
+          run_check "Cold read" python3 tools/cold-read-audit.py
+          run_check "Course metrics" python3 tools/course-metrics.py
+          run_check "Direct-voice audit" python3 tools/direct-voice-audit.py --fail-ordinary
+
+          cp "$report" ALIGNMENT-VERIFICATION.md
+          exit $overall
+
+      - name: Commit aligned course and verification report
+        if: always()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No course changes to commit"
+          else
+            git commit -m "Align course with Orange Plan V1 and direct voice"
+            git push origin HEAD:course-v1-alignment-direct-voice
+          fi
+
+      - name: Preserve failing verification status
+        if: steps.verify.outcome == 'failure'
+        run: exit 1

@@ -4,8 +4,7 @@
 The production scripts are the spoken authority. Student text uses the same
 lesson body without filming cues, followed by the module's implementation handoff
 and completion checklist. Advanced lessons retain their publication gate and do
-not receive a core-module checkpoint. Canonical output names stay stable so
-existing course links survive script-label changes.
+not receive a core-module checkpoint.
 """
 from __future__ import annotations
 
@@ -57,9 +56,12 @@ def script_parts(path: Path) -> tuple[str, str, str | None, bool]:
         for line in lines[:10]:
             if line.startswith("PUBLICATION GATE:"):
                 gate = line.split(":", 1)[1].strip()
+        divider = next(i for i, line in enumerate(lines) if set(line.strip()) == {"="})
+        body = "\n".join(lines[divider + 1:]).strip()
         return num, title, gate, advanced
 
-    first, _, _ = text.partition("\n")
+    # Walkthroughs and demos open with '# 1.4 · TITLE'.
+    first, _, body = text.partition("\n")
     match = re.match(r"^#\s+(A?\d+\.\d+)\s+·\s+(.+)$", first.strip())
     if not match:
         raise ValueError(f"Cannot parse title from {path}")
@@ -79,7 +81,8 @@ def clean_body(body: str) -> str:
             continue
         out.append(line.rstrip())
     text = "\n".join(out)
-    return re.sub(r"\n{3,}", "\n\n", text).strip()
+    text = re.sub(r"\n{3,}", "\n\n", text).strip()
+    return text
 
 
 def core_lesson_text(path: Path, num: str, title: str, body: str,
@@ -118,11 +121,6 @@ def advanced_lesson_text(num: str, title: str, body: str, gate: str | None) -> s
     return "\n".join(parts).rstrip() + "\n"
 
 
-def output_name(path: Path) -> str:
-    name = path.name.replace("WALKTHROUGH", "walkthrough").replace("DEMO", "demo")
-    return name.replace("_walkthrough_", "_walkthrough-").replace("_demo_", "_demo-")
-
-
 def main() -> None:
     checkpoints = parse_checkpoints()
     core_files = sorted(Path(p) for p in glob.glob(str(ROOT / "scripts" / "*.md")))
@@ -145,7 +143,7 @@ def main() -> None:
 
         outdir = ROOT / "lesson-text" / ("advanced" if advanced else "")
         outdir.mkdir(parents=True, exist_ok=True)
-        outpath = outdir / output_name(path)
+        outpath = outdir / path.name.replace("WALKTHROUGH", "walkthrough").replace("DEMO", "demo")
         if advanced:
             rendered = advanced_lesson_text(num, title, body, gate)
         else:
@@ -153,6 +151,7 @@ def main() -> None:
         outpath.write_text(rendered, encoding="utf-8")
         written.add(outpath)
 
+    # A generated directory mirrors scripts. Remove stale renamed copies.
     for directory in (ROOT / "lesson-text", ROOT / "lesson-text" / "advanced"):
         for path in directory.glob("*.md"):
             if path not in written:

@@ -3,8 +3,7 @@
 
 The scripts are the spoken/capture authority. Unit introductions remain in the
 masters; lesson bodies, titles, runtimes, and active gates come from scripts.
-The durable V1 preambles are normalized on every run so stale product framing
-cannot survive above the first lesson.
+This removes stale duplicate prose left by older one-way sync tools.
 """
 from __future__ import annotations
 
@@ -15,42 +14,6 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 DIVIDER = "=" * 60
-
-CORE_PREAMBLE = """# Orange Plan Academy — filming master
-
-**Aligned to the committed Orange Plan V1 product contracts in PR #227.** Exact walkthrough routes, labels, and screen hierarchy are verified against the same approved Preview commit used on camera.
-
-This master uses the following authority order:
-
-1. Austin's dictation for voice, examples, and planning judgment.
-2. Austin's slide decks for teaching sequence and required visuals.
-3. Committed Orange Plan V1 product contracts for customer-facing concepts and ownership.
-4. The final approved V1 Preview commit for walkthrough labels, routes, and on-screen behavior.
-5. Primary-source research for factual accuracy.
-6. Older generated scripts only as disposable reference.
-
-A script labeled **AUSTIN DICTATION** preserves Austin's words with only factual, app-flow, or walkthrough-separation edits. A script labeled **PRE-DICTATION FILMING DRAFT** is editorially prepared to make dictation and filming fast, but it does not become Austin-authored merely because it passes automated checks.
-
-The teach lesson explains the concept and helps the student make a decision. The walkthrough performs the clicks, shows what the app calculates, and returns to Build & improve. The app's Build & improve panel may list tasks in a different order; the course intentionally teaches **Module 3 Allocation + Next-Dollar** before **Module 4 Debt**, then returns the final Extra Debt amount to the contribution waterfall.
-
-Foundation reads the first preliminary Plan result. Module 9 confirms the completed current baseline after the major facts and strategy decisions are in place.
-
-## Professional publication gates
-
-- Targeted CPA or EA review before publishing current-year tax examples and execution guidance.
-- Exact device, firmware, provider, and recovery process verified before setup-specific footage.
-- Licensed insurance professional reviews policy mechanics and contract-specific claims before publication.
-- State-licensed estate attorney reviews state-specific authority, trust, and executor material before publication.
-
----
-
-"""
-
-ADVANCED_PREAMBLE = """# Orange Plan Academy — Advanced Library
-
-The Advanced Library extends the core course under the same Orange Plan V1 product contracts. Every lesson is optional and keeps the condition or professional review stated at the top. Exact app paths and provider-specific mechanics are verified against the same approved Preview or provider version used on camera.
-
-"""
 
 
 @dataclass
@@ -128,6 +91,7 @@ def carry_markers(old_section: str) -> list[str]:
     )
     for pattern in patterns:
         markers.extend(m.group(0).rstrip() for m in re.finditer(pattern, old_section, re.M | re.I))
+    # Preserve order while removing duplicates.
     return list(dict.fromkeys(markers))
 
 
@@ -145,17 +109,8 @@ def render(lesson: Lesson, markers: list[str]) -> str:
     return "\n".join(lines)
 
 
-def normalize_preamble(master: str, advanced: bool) -> str:
-    marker = "# Advanced Module " if advanced else "# Unit "
-    index = master.find(marker)
-    if index < 0:
-        raise RuntimeError(f"Cannot find first module marker: {marker}")
-    preamble = ADVANCED_PREAMBLE if advanced else CORE_PREAMBLE
-    return preamble + master[index:]
-
-
-def rebuild(master_path: Path, lessons: dict[str, Lesson], advanced: bool) -> None:
-    master = normalize_preamble(master_path.read_text(encoding="utf-8"), advanced)
+def rebuild(master_path: Path, lessons: dict[str, Lesson]) -> None:
+    master = master_path.read_text(encoding="utf-8")
     sections = list(re.finditer(r"^## (A?\d+\.\d+) .+$", master, re.M))
     found: set[str] = set()
     for match in reversed(sections):
@@ -177,8 +132,8 @@ def rebuild(master_path: Path, lessons: dict[str, Lesson], advanced: bool) -> No
 
 
 def main() -> None:
-    rebuild(ROOT / "MASTER-COURSE.md", script_lessons(False), False)
-    rebuild(ROOT / "MASTER-ADVANCED.md", script_lessons(True), True)
+    rebuild(ROOT / "MASTER-COURSE.md", script_lessons(False))
+    rebuild(ROOT / "MASTER-ADVANCED.md", script_lessons(True))
 
 
 if __name__ == "__main__":

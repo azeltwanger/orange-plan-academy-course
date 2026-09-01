@@ -1,0 +1,32 @@
+name: Course direct-voice audit
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: course-v1-alignment-direct-voice
+          fetch-depth: 0
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Generate audit
+        run: python3 tools/direct-voice-audit.py
+      - name: Commit audit report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add DIRECT-VOICE-AUDIT.md
+          if git diff --cached --quiet; then
+            echo "Audit report unchanged"
+          else
+            git commit -m "docs(course): generate direct-voice audit"
+            git push origin HEAD:course-v1-alignment-direct-voice
+          fi

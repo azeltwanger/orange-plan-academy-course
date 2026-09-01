@@ -48,15 +48,9 @@ And after the easy items, the biggest levers are usually housing, vehicles, and 
 
 There is one more number you need besides normal spending: your bare-bones spending.
 
-Your bare-bones spending is what your household could run on during a stressful or unexpected period, such as:
+Bare-bones spending is the minimum amount the household could run on during a job loss, a business slowdown, or a major Bitcoin drawdown. Housing, food, utilities, insurance, healthcare, minimum debt payments, and the other expenses that do not disappear just because the month is bad.
 
-- a job loss;
-- a slowdown in your business; or
-- a major Bitcoin drawdown at the same time you need cash for a car repair, a medical bill, or another large one-time expense.
-
-Include the bills that still have to be paid: housing, food, utilities, insurance, healthcare, minimum debt payments, and any other essential expense.
-
-Normal spending tells the plan what your life usually costs. We use bare-bones spending to size the reserve in the next lesson.
+Normal spending tells the plan what your life costs. Bare-bones spending tells you how much cash it takes to buy time in an emergency. The next lesson uses that second number to size the reserve.
 
 Now we can calculate the usable surplus:
 

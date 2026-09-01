@@ -1,0 +1,30 @@
+name: Export course review bundle
+
+on:
+  push:
+    branches:
+      - course-v1-alignment-direct-voice
+    paths:
+      - .review/export-trigger
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: course-v1-alignment-direct-voice
+          fetch-depth: 1
+
+      - name: Package repository for full lesson audit
+        uses: actions/upload-artifact@v4
+        with:
+          name: course-review-bundle
+          path: |
+            .
+            !.git/**
+          include-hidden-files: true
+          retention-days: 1
