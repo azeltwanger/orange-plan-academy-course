@@ -43,7 +43,7 @@
 
 ## 4 · Read the spending guardrails
 
-**DO** Plan → Retirement income / annual spending review.
+**DO** Plan → Build & improve → Improve strategy → Retirement income → annual spending review.
 
 **SEE** lower guardrail · current retirement portfolio · upper guardrail · status.
 
