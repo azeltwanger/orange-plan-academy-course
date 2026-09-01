@@ -33,11 +33,11 @@
 
 ## 2 · Verify the current setup
 
-**DO** Dashboard → expand each account.
+**DO** Home → expand each account.
 
 **CHECK** current holdings and owners.
 
-**DO** Strategy / Allocation → **What each account holds** or the current account breakdown.
+**DO** Plan → Build & improve → Improve strategy → Allocation → **What each account holds** or the current account breakdown.
 
 **SAY** The account is the wrapper; the holding is what the money owns.
 
@@ -152,7 +152,7 @@ Record on screen or paper:
 
 ## 13 · Close Allocation
 
-**DO** Build & improve → **Allocation**.
+**DO** Plan → Build & improve → Improve strategy → **Allocation**.
 
 **SEE** account timeframes and target mix complete; allocation review recorded.
 
