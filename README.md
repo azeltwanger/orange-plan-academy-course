@@ -2,6 +2,10 @@
 
 The canonical production files are in `scripts/`. Start with `FINALIZATION-STATUS.md`.
 
+<!-- METRICS:START -->
+Course metrics are regenerated from the canonical scripts.
+<!-- METRICS:END -->
+
 ## Current course order
 
 Start Here → Foundation → Cash Flow + Reserve → Allocation + Next-Dollar → Debt → Tax → Retirement Income → Custody → Estate + Inheritance → Finish, Test + Maintain.
