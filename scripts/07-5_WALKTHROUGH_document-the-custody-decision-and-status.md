@@ -105,7 +105,7 @@ Examples:
 
 ## 8 · Back up the plan itself
 
-**DO** Settings → Data & Privacy → Backup & Restore.
+**DO** Profile → Settings → Data and privacy → **Backup & Restore**.
 
 **CREATE** an encrypted export.
 
@@ -127,9 +127,9 @@ Record:
 
 ## 10 · Close Custody
 
-**DO** Return to Build & improve / Protect status.
+**DO** Return to Protect.
 
-**SEE** the custody work represented honestly even when outside-device work remains.
+**SEE** the custody decision, readiness, and next action represented honestly even when outside-device work remains.
 
 ## Module 7 checkpoint
 
