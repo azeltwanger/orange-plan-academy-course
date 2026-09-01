@@ -43,8 +43,12 @@ for i, (title, start, lessons) in enumerate(units):
     end = units[i + 1][1] if i + 1 < len(units) else len(master)
     for lm in re.finditer(r'^## (\d+\.\d+) (.+)$', master[start:end], re.M):
         num, t = lm.group(1), lm.group(2)
-        screen = (t.lower().startswith('walkthrough')
-                  or t.lower().startswith('external demo'))
+        lowered = t.lower()
+        screen = (
+            lowered.startswith('walkthrough')
+            or lowered.startswith('external demo')
+            or lowered.startswith('demo')
+        )
         lessons.append((num, t, screen))
 
 
@@ -114,7 +118,8 @@ for title, _, lessons in units:
     ]
     for num, t, screen in lessons:
         if screen:
-            kind = 'DEMO' if t.lower().startswith('external') else 'WALKTHROUGH'
+            lowered = t.lower()
+            kind = 'DEMO' if lowered.startswith(('external demo', 'demo')) else 'WALKTHROUGH'
             out.append(f'| {num} | *{t}* | — {kind}, narrated off the sheet |')
         else:
             r = runtime.get(num)
