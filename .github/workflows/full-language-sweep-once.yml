@@ -31,7 +31,7 @@ jobs:
         run: |
           set -euo pipefail
           python3 tools/full-language-sweep.py
-          grep -q 'Lessons scanned: **52**' FULL-LANGUAGE-SWEEP.md
+          grep -Fq -- 'Lessons scanned: **52**' FULL-LANGUAGE-SWEEP.md
 
       - name: Commit the review inventory
         run: |
