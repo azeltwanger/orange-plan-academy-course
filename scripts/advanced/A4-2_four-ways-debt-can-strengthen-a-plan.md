@@ -26,4 +26,4 @@ Every use needs the defensive foundation first: a Reserve, manageable required p
 
 Compare the full alternatives. Paying cash may create taxes or remove liquidity. Borrowing may preserve assets but add interest and fragility. Doing nothing may keep flexibility but delay the goal.
 
-Debt can build wealth. The planning question is whether the specific debt makes this household stronger or more fragile. The question is whether this specific debt improves the whole plan after the payment, taxes, downside, and behavior are included.
+Debt can build wealth when the specific loan improves the whole plan after the payment, taxes, downside, and household behavior are included. That is the test.
