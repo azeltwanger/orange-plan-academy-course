@@ -3,7 +3,7 @@ name: Export course review bundle
 on:
   push:
     branches:
-      - course-v1-alignment-direct-voice
+      - course-v1-full-lesson-audit
     paths:
       - .review/export-trigger
 
@@ -16,7 +16,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: course-v1-alignment-direct-voice
+          ref: course-v1-full-lesson-audit
           fetch-depth: 1
 
       - name: Package repository for full lesson audit
