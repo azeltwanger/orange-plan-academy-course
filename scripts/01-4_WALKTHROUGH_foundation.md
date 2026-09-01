@@ -37,7 +37,7 @@
 
 ## 3 · Add the real accounts
 
-**DO** Home → Accounts → **Add account**.
+**DO** Home → the account section → **Add account**.
 
 **ENTER** account type · recognizable name · owner.
 
