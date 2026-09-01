@@ -18,7 +18,7 @@ Some people can carry a low-rate mortgage for thirty years and never think about
 
 If being debt-free is what lets you sleep, that is a valid answer. The important thing is knowing whether the debt is only annoying or whether it is actually making the plan fragile. Those are different problems.
 
-> **Visual:** Debt tolerance slide: math sets a range; psychology decides where you sit inside it.
+> 🎬 **VISUAL — Debt tolerance slide: math sets a range; psychology decides where you sit inside it.**
 
 After tolerance, I use two basic lenses.
 
@@ -34,7 +34,7 @@ I treat the bands in the app as context, not commands. A household with two stab
 
 Now we can look at the actual debts.
 
-The interest rate matters, but it is not the only thing that matters. I would look at:
+Read the interest rate alongside:
 
 - the rate and whether it is fixed or variable;
 - the required payment;
@@ -51,7 +51,7 @@ A medium-rate auto or student loan belongs in the comparison zone. The rate may 
 
 And a variable-rate loan deserves more attention than the current rate alone suggests. The payment can change later, so I would model the higher-rate version before deciding it is harmless.
 
-> **Visual:** Debt ledger with three example rows: high-rate card, medium-rate auto loan, low-rate mortgage. Put the job beside each one.
+> 🎬 **VISUAL — Debt ledger with three example rows: high-rate card, medium-rate auto loan, low-rate mortgage. Put the job beside each one.**
 
 There are three decisions people often collapse into one:
 
@@ -61,13 +61,13 @@ There are three decisions people often collapse into one:
 
 Those are not the same risk.
 
-You may reasonably keep a low-rate mortgage and continue accumulating Bitcoin. That does not automatically mean taking a new Bitcoin-backed loan to buy more is also reasonable. New leverage needs a much higher standard because it adds a new payment, a lender, and potentially forced-sale risk.
+Keeping existing low-rate debt and adding new leverage are separate decisions. A new Bitcoin-backed loan needs a higher standard because it adds a payment, a lender, and forced-sale risk.
 
 Bitcoin-backed loans also need their own operating rules: a purpose, a maximum starting LTV, margin and top-up thresholds, a repayment source, and a plan for a deep drawdown. That is covered in the Advanced Library and again in the retirement-income workbench. In the core lesson, the rule is simpler: do not let a loan create a forced Bitcoin sale in a normal bear market.
 
 This brings us to the debt ceiling.
 
-I do not mean one universal percentage that everybody copies. I mean the point where you would stop adding debt because either the monthly payments, the drawdown stress, or the amount tied to a lender has become more than your household can comfortably carry.
+Your debt ceiling is the point where monthly payments, drawdown stress, or the amount tied to a lender becomes more than the household can comfortably carry.
 
 The ceiling should be stated before a new borrowing opportunity appears. It is much easier to be conservative when Bitcoin is rising than after the price falls and the ratio has already moved against you.
 
@@ -84,12 +84,13 @@ The reason matters more than the dropdown. If the reason changes, the job can ch
 In the walkthrough below, I'll show you how to enter every debt with the current balance, rate, and payment, read the two debt ratios, see the stress information for a Bitcoin-backed loan when one exists, and assign the monthly extra-payment amount that will later appear in the contribution waterfall.
 
 ---
-
 ## 4.2 WALKTHROUGH — Give every debt a job and update the waterfall
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
+*`WALKTHROUGH` · ~10 min · IMPLEMENTATION SHEET*
 
 **Screen capture · about 10 minutes**
+
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
 
 ## Before recording
 
@@ -99,7 +100,9 @@ In the walkthrough below, I'll show you how to enter every debt with the current
 
 ## 1 · Enter and verify every debt
 
-**DO** Debt page → **Add debt** or edit each existing row.
+**DO** Home → Debt to confirm current monitoring, then Plan → Build & improve → Improve strategy → **Debt and leverage**.
+
+**DO** **Add debt** or edit each existing row in the canonical Debt workspace.
 
 **ENTER** balance · current rate · required payment · term or payoff information.
 
@@ -152,29 +155,29 @@ For each row, choose or record:
 
 **SEE** Step 2 **Extra debt** now reflects the Debt-page decisions and reduces the contribution pool by the same amount.
 
-**⚠** Managed on Debt, displayed on Cash Flow: one plan, not two settings.
+**⚠** Managed in Debt and leverage, displayed on Cash Flow: one plan, not two settings.
 
 **DO** Recheck the contribution rows that follow. Confirm which account is limited, which amount begins after payoff, or whether the split still makes sense.
 
 ## 7 · Compare the important alternative
 
-**DO** Scenarios → compare payoff versus keep-and-invest for the debt where the answer is genuinely close.
+**DO** Plan → Scenarios → compare payoff versus keep-and-invest for the debt where the answer is genuinely close.
 
-**READ** retirement date · confidence preview when available · taxes · liquidity · required payment · Bitcoin remaining.
+**READ** retirement date · simulation-count preview when available · taxes · liquidity · required payment · Bitcoin remaining.
 
 **SAY** A scenario informs the job. It does not override a household's real tolerance or lender contract.
 
 ## 8 · AI review
 
-**DO** Debt → Review Debt Strategy.
+**DO** Open **Ask** from the header while Debt and leverage is on screen.
 
 **ASK** for the largest current fragility, any stale loan input, and what would change the job assigned to each debt.
 
-**⚠** Run after the jobs are entered. The AI reviews the strategy; it does not approve a loan.
+**⚠** Run this after the jobs are entered. Ask reviews the strategy; it does not approve a loan.
 
 ## 9 · Close Debt
 
-**DO** Build Your Plan → **Debt**.
+**DO** Plan → Build & improve → Improve strategy → **Debt and leverage**.
 
 **SEE** every active debt has the required current fields, or **I have no debts** is selected truthfully; strategy review recorded when applicable.
 
@@ -186,13 +189,23 @@ For each row, choose or record:
 - Extra debt is reflected in Cash Flow Routing.
 - The contribution plan was rechecked after that change.
 - Any Bitcoin-backed loan has written operating triggers outside the app.
+
 ---
 
-## Module checkpoint
+<!-- ADVANCED-GATE:START -->
 
-- [ ] Every active debt has a current balance, rate, and payment or loan-specific terms.
-- [ ] You understand payment capacity and balance-sheet leverage as separate lenses.
-- [ ] Every debt has a job and a reason.
-- [ ] Any Bitcoin-backed loan has written operating triggers.
-- [ ] Extra debt is reflected in Cash Flow Routing.
-- [ ] The contribution plan was rechecked after the debt decision.
+## Related advanced lessons
+
+**Your core plan is complete.** These are optional, and each one is
+worth watching only when its condition is true for you. Continue only if
+one of these describes your situation:
+
+- **A4.1 Borrow against Bitcoin without turning a drawdown into liquidation**
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
+- **A4.2 The four ways debt can strengthen a plan, and how each one fails**
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
+
+*Generated by `tools/build-module-gates.py` from the Gate line on each
+advanced lesson. Edit the condition there, not here.*
+
+<!-- ADVANCED-GATE:END -->

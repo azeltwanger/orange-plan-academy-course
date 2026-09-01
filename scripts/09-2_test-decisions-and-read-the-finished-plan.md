@@ -1,66 +1,55 @@
 TELEPROMPTER SCRIPT — segment 9.2
-9.2 Test decisions separately and read the finished plan like a planner
-639 words · ~4.1 min at 155 wpm · PRE-DICTATION FILMING DRAFT — rebuilt from Austin's decks, dictation, research, and current app
-SOURCE: Archived plan-review deck, Maintenance capstone, and current Scenarios and Report flows
+9.2 Test decisions separately and read Your Plan like a planner
+595 words · ~3.8 min at 155 wpm · PRE-DICTATION FILMING DRAFT — Orange Plan V1 aligned and direct-voice reviewed
+SOURCE: PR #227 Scenarios, Current versus Preview, Your Plan, count-first result, and freshness contracts
 ============================================================
 
-The completed baseline is the plan you are currently using. Scenarios are where you ask questions without corrupting that baseline.
+So in this lesson, we're going to test one decision without disturbing the saved plan and then read Your Plan in the order a planner would.
 
-That separation is important.
+The saved plan is Current. Scenarios test a focused question against that baseline.
 
-If you change the retirement age, return assumptions, home purchase, or withdrawal strategy directly in the baseline every time you are curious, you lose the answer to what the actual plan is.
-
-A scenario should have one clear question.
+Ask one question at a time:
 
 What happens if I retire three years earlier?
 
-What happens if Bitcoin returns are lower than the baseline?
+What happens if Bitcoin returns are lower than the saved assumption?
 
 What happens if we move to another state?
 
 What happens if we pay off this debt instead of investing the extra amount?
 
-What happens if Social Security starts at sixty-two instead of seventy?
+What happens if Social Security starts at 62 instead of 70?
 
-Change only the inputs needed to answer the question, compare the result with the baseline, and decide whether the evidence is strong enough to change the real plan.
+Change only the inputs needed to answer the question. Orange Plan shows the differences between the saved plan and the scenario by default.
 
-🎬 VISUAL — Baseline on the left, one named scenario on the right, with changed inputs highlighted.
+A useful comparison includes the simulation count, planned and earliest modeled retirement dates, spending, taxes, accessible Bridge money, debt and LTV risk, Bitcoin remaining, and estate value when those outputs materially change.
 
-A useful comparison looks at more than the headline retirement date.
+A scenario that wins becomes a Preview of the plan change. Read the exact before-and-after result, confirm which inputs changed, and save it to the plan only when the decision belongs in the baseline. Otherwise keep the scenario as evidence or delete it.
 
-Read the change in confidence, taxes, accessible Bridge money, spending flexibility, debt risk, estate value, and any new failure point. A scenario that improves one number may weaken the rest of the plan.
+🎬 VISUAL — Saved plan on the left, one scenario in the middle, Current versus Preview on the right with changed outputs highlighted.
 
-When a scenario wins, apply the decision deliberately and document what changed. When it does not, keep it as evidence or delete it. Do not leave several unnamed versions and forget which one is real.
+After every Build & improve area is intentionally complete, recalculate the completed plan. Read how many of 1,000 simulations worked, the through-age, the planned retirement date, the earliest modeled date at the 800-of-1,000 Orange Plan standard, and the freshness state.
 
-After every Build Your Plan area is intentionally complete, run the first full 1,000-path confidence check. This is the point where the confidence result is testing the full plan rather than a rough onboarding estimate or an unfinished strategy.
+Then open Your Plan.
 
-Choose the confidence target the retirement date has to clear, read the earliest date, and save the run. Then test the most important assumption or decision in Scenarios.
-
-The final report assembles the whole plan into something the household and professionals can read.
+Your Plan is a read-only document generated from the saved plan. It supports PDF, printing, and sharing. Fix any wrong information in the owning workspace, recalculate, and generate the document again.
 
 I would read it in four passes: position, trajectory, risk, and actions.
 
-Position asks where you stand today. Does the net worth, Bitcoin amount, account ownership, and debt match reality? If the position is wrong, stop and fix the source before trusting anything later.
+Position asks where you stand today. Check the accounts, Bitcoin amount, ownership, cash, and debts. A wrong position stops the review because every downstream result depends on it.
 
-Trajectory asks where the plan is headed. Read the retirement date and confidence result together. Then read the spending plan and how retirement gets funded. A date without the confidence and cash-flow story is incomplete.
+Trajectory asks where the plan is headed. Read the simulation count, planning age, planned retirement date, earliest modeled date, spending plan, and retirement funding together. The freshness label tells you whether those results can be trusted today.
 
-Risk asks what could break the plan. Look at alternate Bitcoin paths, sequence risk, the Reserve and Bridge, debt and LTV, taxes, and the protection work. The question is not which chart looks best. It is whether the household would still have a workable response.
+Risk asks what could break the plan. Review alternate Bitcoin paths, sequence risk, Reserve and Bridge funding, debt and LTV, taxes, custody, and family protection. The useful question is whether the household has a workable response.
 
-Actions are the one to three next steps. A plan review that ends with thirty vague tasks is not finished.
+Actions are the one to three next steps. Each action should have an owner and a realistic time to completion.
 
-🎬 VISUAL — Report reading order: Position → Trajectory → Risk → Actions.
+🎬 VISUAL — Your Plan reading order: Position → Trajectory → Risk → Actions.
 
-The assumptions and methodology belong at the end because they explain what every output rests on. You should be able to defend the major return, inflation, spending, longevity, and tax inputs in plain language. If you cannot, change the source and regenerate the report.
+The assumptions and methodology explain what the outputs rest on. You should be able to defend the major return, inflation, spending, longevity, and tax inputs in plain language.
 
-Save one report PDF each year after the annual review, with the year in the filename.
+Save one copy of Your Plan after each annual review with the year in the filename. The second copy creates the comparison that matters. Review net worth and Bitcoin share, simulation count and retirement dates, spending and guardrail status, and whether last year's actions were completed.
 
-The second report is where the artifact becomes powerful. Compare four things with the prior year:
+Use Your Plan as the agenda for the family conversation. Give the relevant tax pages and lot export to the CPA. Give the no-secrets protection and custody summary to the estate attorney. These people can review a coherent plan without needing the household's app login.
 
-- net worth and the Bitcoin share;
-- the retirement date and confidence target;
-- the spending range or operating target;
-- and whether last year's one to three actions were completed.
-
-Use the report as the agenda for the family conversation. Give the tax pages and lot export to the CPA. Give the protection and custody summary to the estate attorney without including secrets. The point is that these people can review a coherent plan without needing your app login.
-
-You started the course with scattered accounts and a rough estimate. The final walkthrough closes every open area, runs the full confidence check, tests one decision, reads the report in this order, and saves the first yearly PDF.
+You started the course with scattered accounts and a rough estimate. The final walkthrough makes every area current, recalculates the plan, tests one decision, reads Your Plan in this order, and saves the first yearly PDF.

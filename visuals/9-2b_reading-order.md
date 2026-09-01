@@ -1,15 +1,17 @@
-# 9.2 · How a planner reads a plan
+# 9.2 · How a planner reads Your Plan
 
 **Paste `00-STYLE.md` first, then this.**
 
 ## What it has to make obvious
-That there's an order, and it isn't the page order.
+Your Plan is read through four questions, with result freshness checked before conclusions are trusted.
 
 ## The visual
-Four numbered stages in a ring: position, trajectory, risk, actions. Beside it, a faded page-order list showing the report's actual section order, with arrows demonstrating the jump.
+Four numbered stages in a straight sequence: Position → Trajectory → Risk → Actions. A small Current / Preliminary / Stale / Unavailable stamp sits above Trajectory.
+
+Beside it, show a read-only Your Plan document with arrows from its sections into the four stages.
 
 ## Labels and data
-Position → trajectory → risk → actions. Show that position is section five in the document.
+Position: current accounts and debts. Trajectory: simulation count, through-age, planned date, earliest modeled date, spending and funding. Risk: scenarios, taxes, debt, custody, protection. Actions: one to three steps.
 
 ## Motion
-The reading path draws over the page-order list, visibly jumping out of sequence.
+The freshness stamp appears first, then the four-stage reading path draws across the document.

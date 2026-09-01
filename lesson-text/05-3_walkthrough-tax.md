@@ -1,6 +1,6 @@
 # 5.3 · WALKTHROUGH — Reconcile basis and model the tax window
 
-Follow the walkthrough video and the matching Build Your Plan area. The implementation is complete when the real data and applied decision exist in Orange Plan.
+Follow the walkthrough video and the matching Build & improve area. The implementation is complete when the real data and saved decision exist in Orange Plan.
 
 ## Module checkpoint
 

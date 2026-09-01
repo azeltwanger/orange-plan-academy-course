@@ -1,10 +1,10 @@
 # 8.3 · Write the heir letter and create the communication backstop
 
-The heir letter is the calm starting point your family receives when they are least prepared to solve a technical and financial problem.
+The heir letter is the calm, no-secrets starting point your family receives when they are least prepared to solve a technical and financial problem.
 
-It is not the will. It is not the wallet backup. And it is not a list of passwords.
+It gives them the first call to make, the first documents to find, and the first mistakes to avoid.
 
-Its job is to answer the first practical questions:
+It should answer these practical questions:
 
 - Who should I call first?
 - What types of accounts and assets exist?
@@ -24,7 +24,6 @@ Do not start liquidating accounts before the executor and tax professionals unde
 
 Do not assume the person who knows technology is the person with legal authority.
 
-
 The letter should never contain seed phrases, private keys, passphrases, PINs, passwords, backup-file passwords, exact storage coordinates, or the complete recovery path.
 
 It can say that a hardware-wallet process exists, that a collaborative provider should be contacted, or that the executor packet identifies the professionals and document locations. It should point to the process without containing the power to move the asset.
@@ -37,12 +36,11 @@ Both need to be available outside the app. A letter that only exists behind your
 
 Then add a communication backstop.
 
-A dead-man switch or another scheduled delivery process can send the no-secrets letter if you fail to check in for a defined period. The purpose is not to release keys. It is to make sure somebody starts the process.
-
+A dead-man switch or another scheduled delivery process can send the no-secrets letter if you fail to check in for a defined period. The scheduled delivery makes sure somebody starts the documented process. It carries the no-secrets letter and never releases keys.
 
 The cadence has to balance false alarms with delay. Orange Plan uses a ninety-day check-in as the current default. Whatever system you use, test the recipients, the waiting period, and the message.
 
-A dead-man switch is not a substitute for the will, power of attorney, beneficiary forms, custody recovery, or a real conversation with the family. It is a backup communication layer.
+A dead-man switch is a backup communication layer. The will, power of attorney, beneficiary forms, tested custody recovery, and family conversation still carry their own jobs.
 
 I would also have the family conversation while you can answer questions.
 

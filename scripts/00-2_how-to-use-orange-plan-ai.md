@@ -1,46 +1,39 @@
 TELEPROMPTER SCRIPT — segment 0.2
 0.2 How to use Orange Plan AI
-870 words · ~5.6 min at 155 wpm · PRE-DICTATION FILMING DRAFT — rebuilt from Austin's decks, dictation, research, and current app
-SOURCE: Austin direction from 2026-08-25; current-app behavior verified for the filming rebuild
+599 words · ~3.9 min at 155 wpm · PRE-DICTATION FILMING DRAFT — Orange Plan V1 aligned and direct-voice reviewed
+SOURCE: PR #227 product direction for Ask, Current versus Preview, Needs Attention, and the V1 shell; Austin's 0.2 direction
 ============================================================
 
-In today's lesson, I'm going to show you how I would actually use the AI inside Orange Plan while you're building and maintaining your financial plan.
+So in this lesson, we're going to cover how I would use Ask while building and maintaining a financial plan.
 
-I don't think the best use of it is opening a blank chat and asking a generic question like, "What should I do with my money?" The useful part is that the AI can look at the section of the plan you're already working on, read the numbers the app calculated, and help you understand what those numbers mean or what you may be missing.
+Ask is available from the header throughout Orange Plan. It uses the page you are already viewing as context, so you can ask about the number or decision directly in front of you.
 
-The orange AI Review button opens the Plan Guide. You can open it from anywhere in the app, and the first set of options changes depending on the page you're on.
+On Home, I would use it to check whether the current accounts, holdings, activity, and debts look complete. On Cash Flow, I would ask whether the income, spending, taxes, debt payments, and amount left to save look believable. On Plan, I would ask what is driving the simulation result, the retirement dates, or a Current-versus-Preview comparison. On Protect, I would ask which unfinished item creates the largest family risk.
 
-If you're on Cash Flow, it can help you check whether the income, spending, and surplus look believable. On Debt, it can review which loans are creating the most pressure or risk. On Allocation, it can look at your current holdings, your target, and the timeframes those accounts need to fund. On Tax, it can help you spot a conversion or harvesting question that is worth modeling before you take it to your CPA. On Retirement Income, it can help explain what is driving the date, the confidence result, or the amount the portfolio needs to provide.
+Orange Plan still performs the calculations. Ask helps you understand the result, find missing information, compare trade-offs, and open the workspace where the real change gets modeled.
 
-The app is still doing the calculations. The AI is there to help you read the output, question it, and think through the decision. I would use it more like a second set of eyes than somebody making the decision for you.
+Here are a few prompts I would use throughout the course:
 
-A few prompts I think are useful throughout the course are:
-
-- What changed after the numbers I just updated?
+- Explain why this result changed.
 - Which three inputs are affecting this result the most?
 - What information looks missing, stale, or inconsistent?
-- What am I not thinking about before I make this decision?
-- Compare these two choices and explain the trade-offs in plain language.
+- Show me up to three realistic ways to improve this plan.
+- Compare Current and Preview in plain language.
 - What should I model before I take this question to my CPA, attorney, or insurance professional?
+- Take me to the page where I can review or change this.
 
-That last one is important. The AI can help you show up to a professional conversation with the right numbers and a much better question. It should not pretend to replace the person who has to apply current tax law, read an insurance contract, or draft a legal document for your state.
+When Ask identifies a possible plan change, the decision moves into Current versus Preview. Read the exact before-and-after result, review the other outcomes that changed, and save it to the plan only when you actually want that decision in the baseline.
 
-There is also a daily Bitcoin market report inside the Plan Guide. I use this as a quick way to understand what is happening without checking a bunch of different sites.
+Ask can also help you find unfinished work. It may point out an account with no holdings, an old debt rate, missing cost basis, a life event that has not been entered, a stale simulation result, or an unresolved item in Needs Attention.
 
-🎬 VISUAL — Open the daily Bitcoin report and scroll slowly through the sections.
+Linked activity follows the same rule. Orange Plan records the facts it can prove and keeps the receipt. Anything ambiguous becomes one focused question in Needs Attention. Ask can explain the question and take you to it; the accounting and reconciliation still happen in the account or activity workflow.
 
-It gives you the current price and recent price changes, how far Bitcoin is from its prior high, ETF and public-company activity when it matters, leverage and futures data when those are relevant, the most useful on-chain change, and the larger macro or industry news that could actually matter. It should also separate information that sounds important from information that would genuinely change the planning read.
+The Daily Bitcoin Market Report gives you a quick read on the market without checking several sites. It can include the current price and recent change, distance from the prior high, ETF and public-company activity when it matters, leverage and futures conditions, the most useful on-chain change, and the larger macro or industry news.
 
-The report is not a trading signal. The more useful question at the end is whether anything that happened today changes what you need to do in the plan. Most days, it should not. Staying informed and changing your strategy are two different things.
+I use the report for context. The final question is whether anything changed a rule in the plan. Most market days update the value of the assets without changing the strategy.
 
-The AI becomes more valuable as the plan gets more complete. After you replace the onboarding estimates with your real holdings, ask what changed. After you enter the real spending number, ask whether anything else in the plan now looks inconsistent. After you add debts, ask what could create a forced sale in a Bitcoin drawdown. After you set a target allocation, ask whether your reserve, Bridge funding, and custody can support it.
+Orange Plan also has an AI Strategy Review Export for people who prefer ChatGPT, Claude, or another AI. The file removes personal identifiers and gives the outside AI a structured summary of the plan. Review the export before uploading it, then use the same prompts from this lesson.
 
-It is also good at finding unfinished work. It may notice an account with no holdings, a debt with an old rate, a life event that is missing from the future cash flow, cost basis that still needs to be reconstructed, or a preview that was never applied to the baseline plan.
+Keep seed phrases, private keys, wallet backups, passphrases, PINs, passwords, Social Security numbers, full account numbers, and backup-file passwords out of every AI tool. Treat the encrypted Orange Plan backup as a restoration file and keep that out of AI tools too.
 
-You can use another AI too. In Settings under Data and Privacy, Orange Plan has an AI Strategy Review Export. That file is designed to give ChatGPT, Claude, or another AI a useful summary of the plan without including the personal information it does not need. Review the export before you upload it, then ask the same kinds of questions you would ask inside the app.
-
-That export is not the same thing as your encrypted backup. The encrypted backup exists to restore the plan and should never be uploaded to an AI tool.
-
-And there is one rule that applies to every AI, every export, and every part of this course: never enter a seed phrase, private key, wallet backup, passphrase, PIN, password, Social Security number, full account number, or backup-file password into an AI chat. The AI does not need any of those things to help with the plan.
-
-Before moving on, open the Plan Guide once from the page you're currently on. Run one review using your own numbers, open the daily Bitcoin report so you know where it lives, and locate the AI Strategy Review Export in Settings. After that, use the AI when you need help understanding the decision in front of you, not as another thing you have to check every day.
+Before moving on, open Ask from the page you are currently reviewing and use one prompt tied to your own numbers. Then open the Daily Bitcoin Market Report and locate the AI Strategy Review Export. That is enough to know where these tools fit while you build the rest of the plan.

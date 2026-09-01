@@ -2,6 +2,8 @@
 
 **Screen capture · about 10 minutes**
 
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
+
 ## Before recording
 
 - The custody-direction decision from Lesson 7.1: one method or intentional split.
@@ -54,7 +56,7 @@ For every life-changing row, ask:
 
 **CIRCLE** the largest current failure.
 
-**SAY** More hardware is not the goal. Every extra method, provider, or device has to solve the failure we just named.
+**SAY** Add a method, provider, or device only when it solves the failure we just named.
 
 ## 4 · Open Protect
 
@@ -72,7 +74,7 @@ For every life-changing row, ask:
 
 **⚠** A recovery-test item stays open until the recovery was actually proven. Buying a hardware wallet does not complete it.
 
-**⚠** An institutional account is not "secure" merely because it exists. Email security, authentication, withdrawal protections, beneficiary or estate process, and provider concentration still matter.
+**⚠** Review the email security, authentication, withdrawal protections, beneficiary or estate process, and provider concentration for every institutional account.
 
 **SAY** what is not being entered: no seed, passphrase, PIN, key, descriptor contents, password, or storage coordinates.
 
@@ -103,7 +105,7 @@ Examples:
 
 ## 8 · Back up the plan itself
 
-**DO** Settings → Data & Privacy → Backup & Restore.
+**DO** Profile → Settings → Data and privacy → **Backup & Restore**.
 
 **CREATE** an encrypted export.
 
@@ -125,9 +127,9 @@ Record:
 
 ## 10 · Close Custody
 
-**DO** Return to Build Your Plan / Protect status.
+**DO** Return to Protect.
 
-**SEE** the custody work represented honestly even when outside-device work remains.
+**SEE** the custody decision, readiness, and next action represented honestly even when outside-device work remains.
 
 ## Module 7 checkpoint
 

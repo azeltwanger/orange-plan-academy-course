@@ -4,25 +4,23 @@ Now we have the amount available from Cash Flow, the Reserve decision, the jobs 
 
 This lesson turns all of that into an order for the next dollar.
 
-Most people do not need another list of possible accounts. They need to know what happens to the next five hundred dollars after it hits the plan.
-
+The useful answer is where the next five hundred dollars goes after it enters the plan.
 
 The first claim is the Reserve, if it is still short.
 
-The reason it comes first is not that cash is the best long-term investment. It is that an empty reserve can turn the next emergency into credit-card debt or a forced Bitcoin sale. Once the reserve is fully funded, this step drops to zero and the money flows past it.
+The Reserve comes first because an empty Reserve can turn the next emergency into credit-card debt or a forced Bitcoin sale. Once the reserve is fully funded, this step drops to zero and the money flows past it.
 
 The second claim is the employer match, when one is available.
 
 The match is part of your compensation. You normally want to contribute enough to receive the full amount before deciding where the rest goes. Skipping it means leaving money the employer was prepared to contribute.
 
-There is still nuance after the match. A stock-only 401(k), a plan with high fees, and an account that cannot hold the Bitcoin exposure you want may not deserve every additional dollar. Capture the match first, then compare the rest honestly.
+There is still nuance after the match. Capture the match first. Then compare additional 401(k) contributions with the other destinations using the fees, investment menu, access rules, and Bitcoin exposure available inside the plan.
 
 The third claim is extra debt, but only when the strategy from the Debt module says it wins.
 
-Week 3 saves this rung provisionally because Debt is taught next. We are not inserting a generic "pay debt first" rule. For now, this rung uses the Extra Debt amount currently saved in the plan, which may be zero. Module 4 decides the final amount and then returns it to this waterfall.
+Week 3 saves this rung provisionally because Debt is taught next. This rung uses the current Extra Debt amount as a placeholder, which may be zero. Module 4 decides the final amount and returns it to this waterfall.
 
 Then we reach the part of the waterfall that usually receives most of the investable surplus: is this a Bridge dollar or a Legacy dollar?
-
 
 A Bridge dollar needs to stay accessible. That usually points toward a taxable brokerage, direct Bitcoin, cash, or another flexible account rather than locking all of it inside retirement accounts.
 
@@ -50,7 +48,7 @@ If the plan is stock-only and the household has high Bitcoin conviction, contrib
 
 If the current tax bracket is unusually high, a Traditional contribution may be more valuable this year. If the bracket is low, Roth or taxable flexibility may be more useful.
 
-If two jobs are both underfunded, splitting the dollar is not indecision. It can be the correct answer. For example, part of the monthly surplus may build the pre-retirement Bridge while the rest captures long-term tax-free growth.
+Splitting the dollar can fund two underfunded jobs at the same time. For example, part of the monthly surplus may build the pre-retirement Bridge while the rest captures long-term tax-free growth.
 
 The last step is easy to miss: after choosing the account, decide what the contribution buys inside the account.
 
@@ -71,7 +69,7 @@ The waterfall also needs two versions written down:
 
 A plan that says "invest two thousand dollars a month" but does not say when that starts or which account gets it is not implemented yet.
 
-And Orange Plan cannot change the outside world for you. Saving a contribution plan in the app updates the projection. You still need to change the payroll election, automatic bank transfer, exchange purchase, or brokerage instruction that actually moves the money.
+Saving the contribution plan updates the projection. Then change the payroll election, automatic bank transfer, exchange purchase, or brokerage instruction that actually moves the money.
 
 In the walkthrough, I'll start with the surplus from Cash Flow, show the dollars already claimed by Reserve and the current provisional Extra Debt amount, configure each contribution row, choose what each account buys, and then make a real-world implementation list for the elections and transfers that have to change outside Orange Plan.
 

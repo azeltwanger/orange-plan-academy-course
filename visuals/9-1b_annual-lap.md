@@ -1,15 +1,19 @@
-# 9.1 · The six-area annual lap
+# 9.1 · The four-destination annual lap
 
 **Paste `00-STYLE.md` first, then this.**
 
 ## What it has to make obvious
-That the yearly review is a fixed route, about 40 seconds a screen.
+The annual review follows the same four destinations the customer uses all year.
 
 ## The visual
-Six stations arranged as a circuit with a start and finish. Each station labelled with its area and the one question it answers. A finish card reads 'output: 1-3 actions'.
+Four stations arranged as a circuit:
 
-## Labels and data
-Spending and reserve · allocation · debt and LTV · tax · custody · estate.
+- Home — Is the current financial picture true?
+- Cash Flow — Is the monthly system working?
+- Plan — Does the future still work?
+- Protect — Could the family carry it out?
+
+A finish card reads: **Recalculate · Save Your Plan · 1–3 actions**.
 
 ## Motion
-A marker travels the circuit, each station lighting as it passes, ending on the 1-3 actions card.
+A marker moves Home → Cash Flow → Plan → Protect and finishes on the yearly artifacts and action card.

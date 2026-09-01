@@ -1,20 +1,8 @@
 #!/usr/bin/env python3
 """Regenerate SCREEN-SHOOT-LIST.md from the capture sheets in scripts/.
 
-The shoot list used to be a hand-maintained copy of the walkthrough sheets,
-which is why it drifted — it still named segments 8.7, 9.5-B, 11.2 and 11.4
-after those were merged or moved. Now it is an INDEX over the sheets, so the
-sheet is the only place a beat is written down.
-
-What it reads: every scripts/*WALKTHROUGH*.md and *DEMO*.md sheet —
-  '# 10.3 · WALKTHROUGH — title'      the segment
-  '**Screen capture · ...**'          the capture estimate line
-  '- [ ] ...' under '## Before you record'   pre-flight
-  '## □ A1 · step title'              the beats
-  '### ✂ CUT POINT n'                 where the edit may split
-
-It also checks the sheets against MASTER-COURSE.md and flags any walkthrough
-lesson in the master that has no sheet yet.
+The shoot list is an index over the canonical walkthrough and demo sheets. The
+sheet is the only place a capture beat is written down.
 
 Run:  python3 tools/build-shoot-list.py
 """
@@ -24,109 +12,112 @@ root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sd = os.path.join(root, 'scripts')
 master = open(os.path.join(root, 'MASTER-COURSE.md'), encoding='utf-8').read()
 
-sheets = sorted(f for f in os.listdir(sd)
-                if f.endswith('.md') and ('WALKTHROUGH' in f or 'DEMO' in f))
+sheets = sorted(
+    f for f in os.listdir(sd)
+    if f.endswith('.md') and ('WALKTHROUGH' in f or 'DEMO' in f)
+)
 
-out = ['# Screen-Share Shoot List — capture run sheet', '',
-       '> **GENERATED** from the capture sheets in `scripts/`. Do not edit this',
-       '> file: edit the sheet, then run `python3 tools/build-shoot-list.py`.',
-       '> The sheet beside your keyboard is the sheet in `scripts/`; this is the',
-       '> order to shoot them in and what each one needs staged first.', '']
+out = [
+    '# Screen-Share Shoot List — capture run sheet', '',
+    '> **GENERATED** from the capture sheets in `scripts/`. Do not edit this',
+    '> file: edit the sheet, then run `python3 tools/build-shoot-list.py`.',
+    '> The sheet beside your keyboard is the sheet in `scripts/`; this is the',
+    '> order to shoot them in and what each one needs staged first.', '',
+]
 
-body, total, gaps = [], 0, []
+body, total, gaps = [], 0.0, []
 for f in sheets:
-    t = open(os.path.join(sd, f), encoding='utf-8').read()
-    title = t.split('\n', 1)[0].lstrip('# ').strip()
-    # Sheets label themselves differently: walkthroughs say "Screen capture",
-    # the external hardware-wallet demo says "External screen record". Matching
-    # only the first left the demo rendering as a blank "** · sheet" line.
-    meta = next((l.strip() for l in t.split('\n')[:8]
-                 if l.startswith('**') and re.search(
-                     r'screen (capture|record)|capture|demo', l, re.I)), '')
-    mins = re.findall(r'~(\d+)\s*min', meta)
-    if mins:
-        total += int(mins[-1])
+    text = open(os.path.join(sd, f), encoding='utf-8').read()
+    title = text.split('\n', 1)[0].lstrip('# ').strip()
+    meta = next(
+        (
+            line.strip()
+            for line in text.split('\n')[:8]
+            if line.startswith('**')
+            and re.search(r'about\s+\d+(?:\.\d+)?\s+minutes?', line, re.I)
+        ),
+        '',
+    )
+    minutes = re.search(r'about\s+(\d+(?:\.\d+)?)\s+minutes?', meta, re.I)
+    if minutes:
+        total += float(minutes.group(1))
+
     pre = []
-    if '## Before you record' in t:
-        block = t.split('## Before you record', 1)[1].split('\n## ', 1)[0]
-        pre = [l.strip() for l in block.split('\n') if l.strip().startswith('- [ ]')]
-    steps = re.findall(r'^## □ (.+)$', t, re.M)
-    cuts = re.findall(r'^#+ (✂ CUT POINT.*)$', t, re.M)
+    if '## Before you record' in text:
+        block = text.split('## Before you record', 1)[1].split('\n## ', 1)[0]
+        pre = [line.strip() for line in block.split('\n') if line.strip().startswith('- [ ]')]
+
+    steps = re.findall(r'^## □ (.+)$', text, re.M)
+    cuts = re.findall(r'^#+ (✂ CUT POINT.*)$', text, re.M)
 
     body += [f'## ☐ {title}', '', f'*{meta.strip("*")}*  ·  sheet: `scripts/{f}`', '']
     if cuts:
-        body += ['**Cut points in this capture:** ' + ' · '.join(f'**{c}**' for c in cuts), '']
+        body += ['**Cut points in this capture:** ' + ' · '.join(f'**{cut}**' for cut in cuts), '']
     if pre:
         body += ['**Stage this first:**'] + pre + ['']
     if steps:
         body += ['**Beats:**']
-        body += [f'{i}. ☐ {s}' for i, s in enumerate(steps, 1)]
+        body += [f'{i}. ☐ {step}' for i, step in enumerate(steps, 1)]
         body += ['']
     body += ['---', '']
 
-# any walkthrough/demo lesson in the master with no sheet?
-# A sheet may cover MORE THAN ONE lesson: Module 1's onboarding and baseline
-# captures are filmed as one continuous session and split at a cut point, so
-# that sheet's H1 reads "1.4 + 1.5 · WALKTHROUGH — …". Taking only the first
-# token reported 1.5 as an un-sheeted gap forever. Collect every lesson number
-# in the H1 up to the '·' instead.
 have = set()
 for f in sheets:
     h1 = open(os.path.join(sd, f), encoding='utf-8').read().split('\n', 1)[0]
     have |= set(re.findall(r'A?\d+\.\d+', h1.split('·')[0]))
-for m in re.finditer(r'^## (\d+\.\d+) ((?:Walkthrough|External demo).+)$', master, re.M):
-    if m.group(1) not in have:
-        gaps.append(f'{m.group(1)} {m.group(2)}')
 
-# A module with teach lessons but no capture at all is the more dangerous gap:
-# nothing in the master points at the missing sheet, so it can't be caught above.
-units = [(m.group(1), m.start()) for m in re.finditer(r'^# Unit \d+ · (.+)$', master, re.M)]
+for match in re.finditer(r'^## (\d+\.\d+) ((?:WALKTHROUGH|DEMO).+)$', master, re.M | re.I):
+    if match.group(1) not in have:
+        gaps.append(f'{match.group(1)} {match.group(2)}')
+
+units = [(match.group(1), match.start()) for match in re.finditer(r'^# Unit \d+ · (.+)$', master, re.M)]
 for i, (name, start) in enumerate(units):
     end = units[i + 1][1] if i + 1 < len(units) else len(master)
     if 'Start Here' in name:
-        continue                       # intentionally talking-head only
+        continue
     nums = re.findall(r'^## (\d+)\.\d+ ', master[start:end], re.M)
-    if nums and not any(n in {h.split('.')[0] for h in have} for n in nums):
+    if nums and not any(num in {item.split('.')[0] for item in have} for num in nums):
         gaps.append(f'{name} — NO capture of any kind')
 
-# A teach script can carry its own embedded '🎥 SCREEN SHARE (segment X-B)'
-# block. Those predate the one-capture-per-module decision, and a block whose
-# segment has no sheet is invisible: the script tells Austin to look for a
-# capture that was never listed, let alone shot. Flag every orphan.
 for sub in ('', 'advanced'):
-    d = os.path.join(sd, sub)
-    if not os.path.isdir(d):
+    directory = os.path.join(sd, sub)
+    if not os.path.isdir(directory):
         continue
-    for f in sorted(x for x in os.listdir(d) if x.endswith('.md')):
+    for f in sorted(name for name in os.listdir(directory) if name.endswith('.md')):
         if 'WALKTHROUGH' in f or 'DEMO' in f:
             continue
-        t = open(os.path.join(d, f), encoding='utf-8').read()
-        for seg in re.findall(r'🎥 SCREEN SHARE \(segment ([^)]+)\)', t):
-            gaps.append(f'{seg} — embedded screen-share block in '
-                        f'scripts/{sub + "/" if sub else ""}{f}, no capture sheet')
+        text = open(os.path.join(directory, f), encoding='utf-8').read()
+        for segment in re.findall(r'🎥 SCREEN SHARE \(segment ([^)]+)\)', text):
+            gaps.append(
+                f'{segment} — embedded screen-share block in '
+                f'scripts/{sub + "/" if sub else ""}{f}, no capture sheet'
+            )
 
-# Sessions and lessons are NOT the same number, and conflating them is what put
-# "9 walkthroughs + 1 external demo" in the README while the metrics block said
-# 11. One sheet can cover two lessons (Module 1 is filmed once and cut in two),
-# so state both counts and let nothing downstream have to guess.
-out += [f'**{len(sheets)} capture sessions, covering {len(have)} capture lessons '
-        f'· ~{total} min of raw capture.**', '',
-        'A session is one continuous recording. Where a sheet names more than one',
-        'lesson, it is filmed once and the edit splits it at the cut point.', '',
-        'Seed the demo account with the couple\'s canonical numbers before the',
-        'first segment (ONE-TIME SETUP in PRODUCTION-CHECKLIST.md). Clean browser',
-        'profile, notifications off, 5 seconds of stillness before the first click',
-        'and after the last.', '',
-        '**Evergreen rule:** never zoom on or read out a law-set number (brackets,',
-        'limits, exemptions). Call it "the current number the app shows" and move on.', '',
-        '**Film each module\'s capture in ONE continuous session.** App state builds',
-        'forward and restarting is where the retakes come from. Where a sheet has',
-        '`✂ CUT POINT` markers, the edit can split it into several videos later.', '']
+raw_minutes = int(total) if total.is_integer() else round(total, 1)
+out += [
+    f'**{len(sheets)} capture sessions, covering {len(have)} capture lessons '
+    f'· ~{raw_minutes} min of raw capture.**', '',
+    'A session is one continuous recording. Where a sheet names more than one',
+    'lesson, it is filmed once and the edit splits it at the cut point.', '',
+    'Seed the demo account with the couple\'s canonical numbers before the',
+    'first segment (ONE-TIME SETUP in PRODUCTION-CHECKLIST.md). Clean browser',
+    'profile, notifications off, 5 seconds of stillness before the first click',
+    'and after the last.', '',
+    '**Evergreen rule:** never zoom on or read out a law-set number (brackets,',
+    'limits, exemptions). Call it "the current number the app shows" and move on.', '',
+    '**Film each module\'s capture in ONE continuous session.** App state builds',
+    'forward and restarting is where the retakes come from. Where a sheet has',
+    '`✂ CUT POINT` markers, the edit can split it into several videos later.', '',
+]
 if gaps:
-    out += ['> ⚠ **No capture sheet yet:** ' + ' · '.join(gaps) +
-            '. These cannot be filmed until a sheet exists.', '']
+    out += [
+        '> ⚠ **No capture sheet yet:** ' + ' · '.join(gaps)
+        + '. These cannot be filmed until a sheet exists.', ''
+    ]
 out += ['---', ''] + body
 
 open(os.path.join(root, 'SCREEN-SHOOT-LIST.md'), 'w', encoding='utf-8').write('\n'.join(out))
-print(f'SCREEN-SHOOT-LIST.md regenerated — {len(sheets)} captures, ~{total} min'
-      + (f'; {len(gaps)} missing sheet(s): {gaps}' if gaps else ''))
+print(
+    f'SCREEN-SHOOT-LIST.md regenerated — {len(sheets)} captures, ~{raw_minutes} min'
+    + (f'; {len(gaps)} missing sheet(s): {gaps}' if gaps else '')
+)

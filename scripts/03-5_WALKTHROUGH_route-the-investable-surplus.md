@@ -2,6 +2,8 @@
 
 **Screen capture · about 22 minutes**
 
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
+
 > This is Week 3. Debt strategy is taught in Week 4. Use the current Extra debt amount as entered today, then explicitly return to Routing after the Debt module if that amount changes.
 
 ## Before recording
@@ -31,11 +33,11 @@
 
 ## 2 · Verify the current setup
 
-**DO** Dashboard → expand each account.
+**DO** Home → expand each account.
 
 **CHECK** current holdings and owners.
 
-**DO** Strategy / Allocation → **What each account holds** or the current account breakdown.
+**DO** Plan → Build & improve → Improve strategy → Allocation → **What each account holds** or the current account breakdown.
 
 **SAY** The account is the wrapper; the holding is what the money owns.
 
@@ -61,7 +63,7 @@
 
 **SEE** current versus target.
 
-**SAY** Saving the target does not order a taxable sale. New contributions can move the plan toward it.
+**SAY** Saving the target updates the plan. Use new contributions to move toward it unless a separate one-time shift is intentionally previewed and completed.
 
 🎬 CAPTURE the three-path visual in the edit: Reserve low volatility · Bridge moderate · Legacy high-volatility growth.
 
@@ -73,7 +75,7 @@
 
 **SEE** Education separately when college events or education accounts exist.
 
-**⚠** A bucket estimate is not a global guarantee that one contribution amount solves the entire retirement plan. Read the scope shown in the app.
+**⚠** Read the scope shown in the app. A bucket estimate applies to that funding job and timeframe.
 
 ## 6 · Add the actual contribution destinations
 
@@ -129,7 +131,7 @@
 
 ## 11 · Stress-test the target
 
-**DO** Scenarios → use the Bear Market preset or a custom Bitcoin drawdown.
+**DO** Plan → Scenarios → use the Bear Market preset or a custom Bitcoin drawdown.
 
 **READ** the dollar loss, retirement-date change, and any Bridge or Reserve pressure.
 
@@ -150,7 +152,7 @@ Record on screen or paper:
 
 ## 13 · Close Allocation
 
-**DO** Build Your Plan → **Allocation**.
+**DO** Plan → Build & improve → Improve strategy → **Allocation**.
 
 **SEE** account timeframes and target mix complete; allocation review recorded.
 

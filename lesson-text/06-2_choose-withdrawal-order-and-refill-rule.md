@@ -10,14 +10,13 @@ Imagine somebody retires early and spends only from taxable money for several ye
 
 Then the taxable account runs down. Now most of the spending has to come from the Traditional account as ordinary income, and required distributions may be getting closer.
 
-The household did not eliminate the tax. It left lower brackets unused and pushed more income into later years when the rate and other interactions may be worse.
+The household left lower brackets unused and pushed more taxable income into later years, where rates and other interactions may be worse.
 
 The better strategy is often tax-aware rather than strictly sequential.
 
 Use the reliable income first. Then look at the ordinary-income room that is available this year. A Traditional withdrawal or Roth conversion may intentionally use part of that room. Taxable lots can fund the rest of the spending, with the gain determined by basis rather than treating the entire withdrawal as income.
 
 The exact blend changes every year. It depends on spending, basis, account balances, Social Security, healthcare subsidies, Medicare, and the current tax rules. The ratio is an output from the plan, not a universal number somebody should copy.
-
 
 Now connect the withdrawal order to the three timeframes from Allocation.
 
@@ -35,7 +34,6 @@ When the portfolio is in a major drawdown, pause the refill and spend from the c
 
 If the Reserve approaches its hard floor, the household may still have to refill, reduce spending, use another account, or make a different funding decision. The rule is not "never sell down." The rule is that the plan responds before a cash shortage forces a bad decision.
 
-
 Different households can use different bucket sizes with the same rule.
 
 A more diversified household may use a larger Bridge and a smaller Reserve.
@@ -48,11 +46,9 @@ Bitcoin adds a second decision: sell, borrow, or hold.
 
 Selling is the cleanest. There is no lender, interest cost, margin call, or repayment problem. The tax depends on basis and the year of the sale.
 
-Borrowing can provide liquidity without an immediate sale, but it adds interest, counterparty risk, LTV risk, and the possibility of a forced liquidation. Loan proceeds are generally not income when the loan is created, but a later liquidation, forgiveness, or other event can have tax consequences. Borrowing works best when it is planned from strength, not used because the household is trapped.
+Borrowing can provide liquidity while adding interest, counterparty risk, LTV risk, and forced-liquidation risk. Loan proceeds are generally outside income at origination; liquidation, forgiveness, or restructuring can create tax consequences. Plan the purpose, repayment source, and drawdown response while the household has room.
 
-Holding keeps the long-term position untouched. That can be a valid core strategy when the Reserve, Bridge, other assets, or income can fund life without relying on a sale. It is not a complete strategy if the only answer to every cash need is a new loan.
-
-The tools can be mixed across years. A household may sell in a low-gain year, borrow a conservative amount during a strong period, and leave a core Bitcoin position untouched.
+Holding keeps the long-term position untouched. That can be a valid core strategy when the Reserve, Bridge, other assets, or income can fund life without relying on a sale. A sustainable strategy can mix withdrawals, sales, and borrowing across years. Using a new loan for every cash need compounds interest, lender, and repayment risk. A household may sell in a low-gain year, borrow a conservative amount during a strong period, and leave a core Bitcoin position untouched.
 
 The plan should tell you what each choice costs in taxes, interest, risk, and estate value. It should not decide which trade-off your family prefers.
 
@@ -68,6 +64,7 @@ Use walkthrough 6.4 to enter the decision and confirm what Orange Plan calculate
 - [ ] The income floor and portfolio-funded gap can be stated from memory.
 - [ ] Bridge years and accessible funding are verified.
 - [ ] Social Security timing was compared when material.
-- [ ] A withdrawal strategy is applied and understood.
-- [ ] Sell, borrow, or hold remains a preview unless intentionally applied.
-- [ ] The first full confidence run is deferred until Module 9.
+- [ ] A withdrawal strategy was previewed and intentionally saved.
+- [ ] Sell, borrow, or hold remains Preview until intentionally saved.
+- [ ] The simulation result is read as a count with a truthful freshness state.
+- [ ] Lower, current, and upper portfolio guardrails are understood.

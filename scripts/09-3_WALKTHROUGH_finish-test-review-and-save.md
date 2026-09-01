@@ -1,128 +1,132 @@
 # 9.3 · WALKTHROUGH — Finish, test, review, and save the plan
 
-**Screen capture · about 20 minutes**
+**Screen capture · about 22 minutes**
+
+> **V1 capture gate:** Verify the final Home, Plan, Cash Flow, Protect, Ask, Your Plan, Current-versus-Preview, and Settings labels against the same Preview commit used for recording.
 
 ## Before recording
 
 - Every prior module completed on the demo plan.
-- Current holdings, cash flow, debts, allocation, tax history, retirement income, beneficiaries, and heir letter entered.
-- No existing full confidence receipt, or a clean way to show the first completed run.
+- Current accounts, activity, cash flow, debts, allocation, tax history, retirement income, beneficiaries, custody map, and heir letter entered.
 - One meaningful scenario question prepared.
 - Calendar open for monthly and annual review dates.
 
-## 1 · Close every Build Your Plan area intentionally
+## 1 · Close every Build & improve area intentionally
 
-**DO** Open Build Your Plan.
+**DO** Plan → Build & improve → View all.
 
-**WALK** Foundation · Cash flow · Allocation · Debt · Tax · Retirement income · Protect.
+**WALK** Get your first plan · Improve accuracy · Improve strategy · Advanced where used.
 
-**SEE** complete, truthfully not applicable, or a precise missing-data line.
+**SEE** complete, truthfully not applicable, or one precise missing-data line.
 
-**FIX** any open source input before running confidence.
+**FIX** open source facts before recalculating.
 
-**SAY** Watching the course did not complete the plan. The real data and applied decisions did.
+**SAY** The plan is complete when the real data and saved decisions exist.
 
-## 2 · Run the first full confidence check
+## 2 · Recalculate the completed plan
 
-**DO** Build Your Plan → Run your plan / Plan page → **Run confidence**.
+**DO** Plan → Overview → calculate / refresh.
 
-**SEE** 1,000 test runs complete against the full baseline.
+**SEE** the full 1,000 simulations complete.
 
-**SAY** This is the first confidence result we treat as the finished-plan baseline. Onboarding used one deterministic estimate; this run includes the completed plan across many market paths.
+**READ** simulations worked out of 1,000 · through-age · Current freshness state · provenance.
 
-## 3 · Choose the confidence target and read the earliest date
+**SAY** This is the completed-plan baseline. Earlier results were useful while the plan was being built; this one uses the finished core data and saved strategy.
 
-**DO** Set the target confidence using the current control.
+## 3 · Read both retirement dates
 
-**SEE** earliest retirement date at that target.
+**SEE** planned retirement date and earliest modeled retirement date.
 
-**READ** date and confidence together.
+**SAY** The earliest modeled date is the first date that reaches the Orange Plan standard of 800 successful simulations out of 1,000. The planned date is the household's saved intention.
 
-**SAY** A lower target can produce an earlier but more adjustable plan. A higher target usually asks for more time, savings, or lower spending. One hundred percent is not automatically the objective.
+**⚠** Normal users do not choose another standard here. Custom standards live under Advanced model settings.
 
-**SAVE / CONFIRM** the target and receipt.
+## 4 · Read the spending guardrails
 
-## 4 · Set the retirement operating target
+**DO** Plan → Build & improve → Improve strategy → Retirement income → annual spending review.
 
-**DO** Income → Retirement operating plan / What you can spend.
+**SEE** lower guardrail · current retirement portfolio · upper guardrail · status.
 
-**CHOOSE** the starting spending target at the selected confidence policy.
+**IF INSIDE** Confirm that no spending review is needed.
 
-**SEE** the annual 60 / 80 / 95 guardrail logic and ten-percent cap.
+**IF OUTSIDE** Open the separate review and read Current versus Preview spending, simulation count, and the 10% annual cap before saving.
 
-**SAVE** the starting target.
+**SEE** Reserve refill status.
 
-**SAY** The confidence target sets the plan. The guardrails adjust it in later annual reviews.
+## 5 · Run one focused scenario
 
-## 5 · Run one clean scenario
-
-**DO** Scenarios → create or select one question.
+**DO** Plan → Scenarios → answer **What do you want to test?**
 
 **CHANGE** only the inputs needed.
 
-**COMPARE** retirement date · confidence · taxes · accessible money · debt / LTV · estate or Bitcoin remaining.
+**COMPARE** saved plan with no more than two scenarios at once.
 
-**DECIDE** apply to baseline, keep as evidence, or delete.
+**READ** simulation count · retirement dates · spending · taxes · accessible money · debt / LTV · Bitcoin or estate value when material.
 
-**⚠** Do not leave the learner with unnamed scenario copies and no clear baseline.
+**MOVE** the winning decision into Current versus Preview.
+
+**DECIDE** Save to plan, keep the scenario as evidence, or delete it.
 
 ## 6 · Run the five-minute monthly pass
 
 Start a visible timer.
 
-**DO** Cash Flow → This month · enter one recent purchase or transfer · verify spending · review open attention items · choose one to three actions.
+**DO** Home → Needs Attention and recent Activity.
 
-**STOP** the timer.
+**REVIEW** one exact receipt and one focused unresolved question when available.
 
-**SAY** Most months are quieter. No material change is a successful review.
+**DO** Cash Flow → This month → verify spending and the Reserve.
 
-## 7 · Walk the annual review
+**CHOOSE** one to three actions and stop the timer.
 
-Visit one screen per area:
+**SAY** A quiet month is a successful review.
 
-- Cash Flow / Income: spending, guardrail, Reserve refill.
-- Allocation: current versus target and drawdown tolerance.
-- Debt: jobs, rates, and LTV triggers.
-- Tax: basis, harvest room, conversion window before year-end.
-- Custody: prove one recovery and fix the largest shared dependency.
-- Estate / Insurance: beneficiaries, letter, executor, switch, coverage gaps.
+## 7 · Walk the annual four-destination review
 
-**APPLY** the annual retirement update only when the demo state makes it due and the result is understood.
+**HOME** Accounts, holdings, activity, debts, source coverage, Needs Attention.
 
-## 8 · Read the report in planner order
+**CASH FLOW** Income, living spending, taxes, debt payments, Reserve, saving and routing.
 
-**DO** Open Report.
+**PLAN** Simulation result, retirement dates, allocation, tax, retirement income, debt strategy, borrowing, one scenario.
+
+**PROTECT** Beneficiaries, custody and access, recovery, heir instructions, trusted people, dead-man switch, legal and estate readiness.
+
+**APPLY** an annual spending or strategy update only when the demo state makes it due and the comparison is understood.
+
+## 8 · Read Your Plan in planner order
+
+**DO** Plan → **View full plan** or Profile → **Your plan**.
 
 **READ**:
 
 1. Position — does today's account and debt picture match reality?
-2. Trajectory — retirement date, confidence, spending, and funding.
+2. Trajectory — simulation count, planning age, retirement dates, spending, and funding.
 3. Risk — alternate paths, taxes, debt, custody, and protection.
 4. Actions — one to three next steps.
 
-**CHECK** assumptions and methodology at the end.
+**CHECK** result freshness, assumptions, and methodology.
 
 ## 9 · Save the yearly artifacts
 
-**DO** Print / Save report as PDF with the year in the filename.
+**DO** Print / Save Your Plan as PDF with the year in the filename.
 
-**DO** Settings → Backup & Restore → create a fresh encrypted plan export.
+**DO** Profile → Settings → Data and privacy → Backup & Restore → create a fresh encrypted plan export.
 
-**SAY** Report = readable annual snapshot. Encrypted export = recovery file for the app data. Neither is a Bitcoin wallet backup.
+**SAY** Your Plan is the readable annual document. The encrypted export restores the app data. A Bitcoin wallet backup is a separate object.
 
 ## 10 · Schedule the rhythm
 
 **DO** Calendar → recurring monthly review and annual review.
 
-**RECORD** tax review before year-end and custody / estate check within the annual session.
+**RECORD** the tax review before year-end and custody / estate check inside the annual session.
 
 ## Final checkpoint
 
-- Every Build Your Plan area is intentionally complete.
-- First full 1,000-path confidence result is saved.
-- Confidence target and earliest date are understood together.
-- Retirement operating target and guardrail policy are saved.
-- One scenario was tested without corrupting the baseline.
+- Every Build & improve area is intentionally complete.
+- The completed 1,000-simulation result is Current.
+- Planned and earliest modeled retirement dates are understood separately.
+- Portfolio guardrail status and annual-review rule are understood.
+- One scenario was tested and any winning decision moved through Current versus Preview.
 - Monthly and annual review dates are on the calendar.
-- Report PDF and encrypted backup are saved.
+- Your Plan PDF and encrypted backup are saved.
 - One to three next actions are clear.

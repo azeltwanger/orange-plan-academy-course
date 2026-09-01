@@ -1,56 +1,48 @@
-# 6.3 · Use plan confidence and guardrails to adjust spending
+# 6.3 · Read the simulation result and use spending guardrails
 
-This lesson is where we move from one projected path to a range of different futures.
+So in this lesson, we're going to read the 1,000-simulation result and use the spending guardrails that turn it into an annual operating rule.
 
-In Foundation, the onboarding retirement age came from one deterministic projection. It used the selected assumptions and found the earliest age where that single version of the plan lasted.
+Orange Plan runs the completed plan through 1,000 market paths. Every path still includes the income, taxes, debts, life events, contributions, retirement spending, withdrawal order, and other decisions in the saved plan. The market sequence changes from one path to the next.
 
-The full confidence check is different.
+If the result is 790 of 1,000, the money lasted through the planning age in 790 modeled paths. In the other 210, the exact plan as written did not last through that age.
 
-Orange Plan runs the completed plan through 1,000 market paths. In every path, the plan still includes the income, taxes, debts, life events, contributions, retirement spending, withdrawal order, and other decisions you entered. The market sequence changes from one path to the next.
+The simulation count measures the saved plan under the selected assumptions. It is a stress test for comparing decisions, rather than a personal probability of ruin.
 
-If the plan succeeds in 820 of the 1,000 runs, the result is eighty-two percent.
+The normal Orange Plan standard is 800 of 1,000 successful simulations. Orange Plan uses that fixed standard to calculate the earliest modeled retirement date. Normal users see one clear standard instead of another percentage control to manage.
 
-That does not mean there is an eighteen-percent chance you go broke.
+The planned retirement date remains separate. That is the date the household currently intends to use. The earliest modeled date is the first date that reaches the Orange Plan standard.
 
-It means 180 of the modeled paths did not fully fund the exact plan as written without an adjustment. A real household would not usually keep spending the same amount for decades while the plan is clearly moving off track. That is what the guardrails are designed to solve.
+Read the freshness state beside the result too. Preliminary means important facts remain. Current means the facts and calculation are up to date. Stale means a modeled fact changed after the last calculation. Unavailable means the calculation or required source data failed.
 
-The confidence number is a stress test of the assumptions and the strategy. It is not a forecast of your life.
+The goal is a plan the household actually wants that reaches the Orange Plan standard. Pushing the count toward 1,000 can require working longer or spending less than the household values.
 
+Current versus Preview shows what a proposed decision changes. A later retirement date, lower spending, higher savings, a different allocation, a tax strategy, debt payoff, or borrowing strategy should show the exact count before and after, along with the other outcomes that materially moved.
 
-The app also uses the same set of modeled paths when you compare strategies, so the comparison is fair. If the inputs and strategy do not change, the result is designed to be repeatable rather than jumping randomly every time you click the button.
+Save a change only after the comparison makes sense. The saved plan remains Current until the preview is intentionally accepted.
 
-Bitcoin receives different return and volatility treatment from a generic stock or bond. The exact distributions, correlations, tails, and calibration are documented in the methodology and covered in the Advanced modeling lesson. The core point is that the simulation is trying to include difficult sequences, not only a smooth average return.
+The spending guardrails handle the annual operating decision after retirement.
 
-You choose the confidence target a retirement date has to meet. A higher target usually requires a later date, lower spending, more savings, or another change. A lower target accepts more modeled paths where the plan would need an adjustment.
+Orange Plan shows three portfolio values for the current year:
 
-There is no universal number that removes all uncertainty. The default target is a planning choice, not a guarantee.
+- the lower guardrail;
+- the current retirement-portfolio value;
+- the upper guardrail.
 
-And one hundred percent is not automatically the goal. A plan can become overly conservative by requiring so much margin that the household works longer or spends less than it needed to.
+When the current portfolio is between the two guardrails, the spending plan stays in place and the normal inflation policy applies.
 
-The annual guardrails turn the confidence result into an operating rule.
+Falling below the lower guardrail opens a spending review. The review calculates a lower spending amount that moves the plan back toward the policy's risk standard.
 
-The current default policy centers on an eighty-percent target.
+Rising above the upper guardrail opens the same review in the other direction. The household can preview a higher spending amount instead of under-spending indefinitely.
 
-When confidence falls to the lower trigger around sixty percent, the plan recommends reducing the spending target toward the eighty-percent center.
+Each guardrail level is year-specific. It uses the same remaining cash flows, taxes, income, debts, assumptions, and planning age as the saved plan. The annual spending adjustment remains capped at 10%, so a large change can take more than one annual review.
 
-When confidence stays between the triggers, the plan keeps the strategy and applies the normal inflation adjustment.
+The core screen should answer one question in plain language: are you within the guardrails, below the lower guardrail, or above the upper guardrail? The Advanced methodology can explain the internal probability boundaries and inverse calculation behind those portfolio levels.
 
-When confidence rises to the upper trigger around ninety-five percent, the plan creates room to raise spending toward the center instead of allowing the household to under-spend forever.
+The annual review also checks the Reserve. A weak market and a lower spending review may call for pausing a discretionary refill instead of selling assets into weakness. A healthy plan can refill toward the target. A Reserve near its hard floor still needs attention because the household has bills regardless of the market.
 
-Each annual correction is capped at ten percent. A large change may take more than one annual review to fully re-center. That cap prevents the retirement paycheck from swinging wildly from one year to the next.
+By the end of this lesson, you should be able to explain four things: how many of 1,000 simulations worked, the planning age used, whether the result is current, and whether the portfolio is inside its spending guardrails.
 
-
-The upper guardrail is as important as the lower one. Most retirement planning only tells people when to cut. A useful plan also gives permission to spend more when the margin has become larger than the household needs.
-
-The confidence target and the annual guardrails have related numbers but different jobs.
-
-The target decides whether a retirement date or spending plan is acceptable when you set it.
-
-The guardrails decide whether next year's spending should be lowered, held, or raised after the plan is updated.
-
-The annual review also connects this result to the Reserve. If the plan is weak and spending is being reduced, you may pause a discretionary refill instead of selling assets into weakness. If the plan is healthy, refill the Reserve toward the target. If the Reserve is near its hard floor, the cash need has to be addressed even when markets are poor.
-
-Module 9 runs the first full confidence check after every Build Your Plan area is complete. This module teaches the rule and shows where the operating controls live without treating an unfinished plan as the final baseline.
+In the Retirement Income walkthrough, we'll read the current result, compare one strategy in Preview, save the withdrawal decision, and show where the portfolio guardrails and annual spending review live. Module 9 confirms the completed current baseline after every area is finished.
 
 ## Apply it
 
@@ -62,6 +54,7 @@ Use walkthrough 6.4 to enter the decision and confirm what Orange Plan calculate
 - [ ] The income floor and portfolio-funded gap can be stated from memory.
 - [ ] Bridge years and accessible funding are verified.
 - [ ] Social Security timing was compared when material.
-- [ ] A withdrawal strategy is applied and understood.
-- [ ] Sell, borrow, or hold remains a preview unless intentionally applied.
-- [ ] The first full confidence run is deferred until Module 9.
+- [ ] A withdrawal strategy was previewed and intentionally saved.
+- [ ] Sell, borrow, or hold remains Preview until intentionally saved.
+- [ ] The simulation result is read as a count with a truthful freshness state.
+- [ ] Lower, current, and upper portfolio guardrails are understood.

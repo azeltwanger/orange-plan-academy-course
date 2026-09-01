@@ -24,15 +24,15 @@ Trust means they will act in good faith when the family is under pressure.
 
 Pick for the job, not for who would be flattered to be asked. Then ask the person. An executor who has never heard about the role is not part of a working plan yet.
 
-A nontechnical executor can still be a good executor. They do not have to know how to recover a wallet personally. They need a clear process, the right legal authority, and a named technical or custody contact when the setup requires one.
+A nontechnical executor can still be a good executor. Give the executor a clear process, the right legal authority, and a named technical or custody contact when the setup requires one. The executor can coordinate the recovery without personally being the wallet expert.
 
-> **Visual:** Estate deck: Capable / Available / Trustworthy, with professional executor as the alternative.
+> 🎬 **VISUAL — Estate deck: Capable / Available / Trustworthy, with professional executor as the alternative.**
 
 The baseline legal work usually includes four areas.
 
 A will directs how probate assets should be handled and names important roles. It does not control every asset automatically.
 
-A financial power of attorney can give somebody authority to handle financial matters while you are alive but unable to act. That authority generally ends at death, which is why it is not a replacement for the executor or trustee role.
+A financial power of attorney can give somebody authority to handle financial matters while you are alive but unable to act. A power of attorney generally ends at death. The executor or trustee role takes over then.
 
 A healthcare directive covers medical decisions and wishes.
 
@@ -42,11 +42,11 @@ Digital-asset authority matters too. A document can name an executor without nec
 
 The documents and the custody process have to match.
 
-A will cannot move Bitcoin if nobody can recover the wallet. A seed phrase does not give somebody lawful authority to take the asset. Legal authority and technical capability are two separate layers, and the plan needs both.
+The plan needs both legal authority and technical capability. The will identifies who may act; the tested custody process makes the Bitcoin recoverable by the authorized people.
 
-I would start with the baseline even if the estate is not large. A simple plan that exists and is properly executed is more useful than an advanced trust design that never gets finished.
+Start with the legal baseline at every asset level. A simple plan that exists and is properly executed is more useful than an advanced trust design that never gets finished.
 
-Trusts are an advanced decision. They may be useful for probate avoidance, incapacity planning, family control, asset protection, tax planning, or a complicated family situation. They are not automatically required because somebody owns Bitcoin, and a revocable trust is not automatically an estate-tax solution.
+Trusts are an advanced decision used for jobs such as probate avoidance, incapacity planning, family control, asset protection, tax planning, or a complicated family situation. Bitcoin ownership by itself does not establish the need, and a revocable trust generally serves different jobs from estate-tax planning.
 
 If the baseline is straightforward, a local estate-planning attorney who is willing to coordinate with the custody process may be enough.
 
@@ -59,17 +59,16 @@ When interviewing the attorney, I would ask:
 - What state-specific signing, witnessing, or probate rules apply?
 - If a trust may hold concentrated Bitcoin, how will the trustee's duties and the investment language be handled under this state's law?
 
-That last question is not solved by copying one waiver sentence from the internet. Trustee duties and the ability to hold a concentrated asset depend on the governing law, the trust language, and the facts. That is an attorney drafting issue.
+Trustee duties and the authority to hold a concentrated asset depend on the governing law, the complete trust language, and the facts. Have the attorney draft the full authority instead of copying one waiver sentence from the internet. That is an attorney drafting issue.
 
 Before moving on, choose the primary person and backup you would trust to run the process. Confirm whether they are willing. Then list which of the baseline documents and beneficiary reviews are already complete and which still need an appointment.
 
 The next lesson connects that legal layer to the technical custody setup without pretending there is one universal way to split seeds, passphrases, or keys.
 
 ---
-
 ## 8.2 Align legal authority with the technical recovery path
 
-*`TEACH` · ~4.5 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.7 min · PRE-DICTATION FILMING DRAFT*
 
 This lesson is about making sure the legal plan and the custody plan lead to the same outcome.
 
@@ -79,7 +78,7 @@ The right structure depends on the custody method, the people involved, the lega
 
 Start with the principle: no unnecessary person should hold enough information or authority to act alone, but the family must still have a complete, tested recovery path when the proper conditions are met.
 
-With ordinary single-signature custody, anyone who obtains the seed can usually recover that wallet. If a BIP39 passphrase is also used, the seed without the exact passphrase opens a different wallet. The passphrase is not a second signer and it does not create legal dual control. It is another secret that must be recovered exactly.
+With ordinary single-signature custody, anyone who obtains the seed can usually recover that wallet. If a BIP39 passphrase is also used, the seed without the exact passphrase opens a different wallet. A passphrase is another secret that must be recovered exactly. It does not create a second signer or legal dual control.
 
 Splitting those two objects between people can reduce one-person access in some designs, but it can also mean one lost memory, one unavailable person, or one family dispute locks everybody out. It should only be used when the full recovery has been tested and the attorney understands who has legal authority to combine the components.
 
@@ -87,13 +86,13 @@ Do not split a recovery phrase itself into arbitrary word groups and hand the pi
 
 With multisig, the structure is different.
 
-A two-of-three wallet requires two valid signatures from the defined keys. One key alone cannot spend. That can create real operational separation, but the keys are not the entire recovery plan.
+A two-of-three wallet requires two valid signatures from the defined keys. A two-of-three wallet can create operational separation because one key alone cannot spend. The descriptor or wallet configuration, identity process, legal authority, and people remain part of the recovery plan.
 
 The wallet descriptor or configuration records how the keys are combined, including the threshold and derivation information. Without the correct configuration, heirs may struggle to reconstruct the intended wallet even if they have key material.
 
-> **Visual:** Two separate diagrams: passphrase single-sig and 2-of-3 multisig. Show what each component can and cannot do. Do not label a passphrase as a second signer.
+> 🎬 **VISUAL — Two separate diagrams: passphrase single-sig and 2-of-3 multisig. Show what each component can and cannot do. Do not label a passphrase as a second signer.**
 
-A collaborative custody provider may hold one key, a copy of the public wallet configuration, and an established recovery process. The value is not only the third key. It is also the support, identity-verification, continuity, and documented procedure. The trade-off is vendor dependence, fees, privacy considerations, and the need to understand what happens if the company changes or disappears.
+A collaborative custody provider may hold one key, a copy of the public wallet configuration, and an established recovery process. A collaborative provider can add support, identity verification, continuity, a documented procedure, and a third key. The trade-off is vendor dependence, fees, privacy considerations, and the need to understand what happens if the company changes or disappears.
 
 A DIY multisig arrangement removes the provider but moves every operational duty to the household. Key distribution, descriptors, device compatibility, replacement, inheritance, and recovery documentation all become your responsibility.
 
@@ -111,25 +110,24 @@ That is why I like separating roles on paper:
 - What stops one person from acting prematurely?
 - What happens if one person or provider is unavailable?
 
-The system should be tested at the process level while you are alive. You do not need to expose a real seed to the family. You can use a trivial-value test wallet or a documented tabletop exercise to confirm everybody knows the first call, the role they have, and the components that exist.
+The system should be tested at the process level while you are alive. Use a trivial-value test wallet or a documented tabletop exercise to confirm that everybody knows the first call, the role they have, and the components that exist. Keep real recovery secrets out of the exercise.
 
 The plan should also account for change. Hardware wallets fail. Providers merge or close. Executors age. Families move. A custody design that works today can become unusable if it is never reviewed.
 
-The deliverable is not a diagram that looks sophisticated. It is a tested path where the legally authorized people can recover the asset, one ordinary failure does not destroy the plan, and no secret is stored in the app or legal documents.
+The deliverable is a tested path where the legally authorized people can recover the asset, one ordinary failure does not destroy the plan, and no secret is stored in the app or legal documents.
 
 The heir letter in the next lesson tells the family how to start without disclosing the components themselves.
 
 ---
-
 ## 8.3 Write the heir letter and create the communication backstop
 
-*`TEACH` · ~3.7 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.0 min · PRE-DICTATION FILMING DRAFT*
 
-The heir letter is the calm starting point your family receives when they are least prepared to solve a technical and financial problem.
+The heir letter is the calm, no-secrets starting point your family receives when they are least prepared to solve a technical and financial problem.
 
-It is not the will. It is not the wallet backup. And it is not a list of passwords.
+It gives them the first call to make, the first documents to find, and the first mistakes to avoid.
 
-Its job is to answer the first practical questions:
+It should answer these practical questions:
 
 - Who should I call first?
 - What types of accounts and assets exist?
@@ -149,7 +147,7 @@ Do not start liquidating accounts before the executor and tax professionals unde
 
 Do not assume the person who knows technology is the person with legal authority.
 
-> **Visual:** Estate deck heir-letter slide: include list on one side, never-include list on the other.
+> 🎬 **VISUAL — Estate deck heir-letter slide: include list on one side, never-include list on the other.**
 
 The letter should never contain seed phrases, private keys, passphrases, PINs, passwords, backup-file passwords, exact storage coordinates, or the complete recovery path.
 
@@ -163,13 +161,13 @@ Both need to be available outside the app. A letter that only exists behind your
 
 Then add a communication backstop.
 
-A dead-man switch or another scheduled delivery process can send the no-secrets letter if you fail to check in for a defined period. The purpose is not to release keys. It is to make sure somebody starts the process.
+A dead-man switch or another scheduled delivery process can send the no-secrets letter if you fail to check in for a defined period. The scheduled delivery makes sure somebody starts the documented process. It carries the no-secrets letter and never releases keys.
 
-> **Visual:** Four-step communication flow: check in → missed window → waiting period → heir letter delivered.
+> 🎬 **VISUAL — Four-step communication flow: check in → missed window → waiting period → heir letter delivered.**
 
 The cadence has to balance false alarms with delay. Orange Plan uses a ninety-day check-in as the current default. Whatever system you use, test the recipients, the waiting period, and the message.
 
-A dead-man switch is not a substitute for the will, power of attorney, beneficiary forms, custody recovery, or a real conversation with the family. It is a backup communication layer.
+A dead-man switch is a backup communication layer. The will, power of attorney, beneficiary forms, tested custody recovery, and family conversation still carry their own jobs.
 
 I would also have the family conversation while you can answer questions.
 
@@ -182,10 +180,9 @@ The finish line for this lesson is a letter that tells the family the first call
 The walkthrough will start the letter in Protect, confirm beneficiaries, enable the switch when Cloud mode is being used, download the document, and record the remaining outside-the-app actions.
 
 ---
-
 ## 8.4 Use insurance for the risks the current stack cannot carry
 
-*`TEACH` · ~4.6 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.7 min · PRE-DICTATION FILMING DRAFT*
 
 Insurance exists for the risks that would break the plan before the assets are large enough to absorb them.
 
@@ -209,13 +206,13 @@ A long disability can stop the paycheck and the monthly surplus at the same time
 
 The contract language matters: own-occupation versus any-occupation definitions, waiting periods, benefit periods, exclusions, and how bonuses or self-employment income are treated. This is where the actual policy and a licensed professional matter more than a generic rule.
 
-Umbrella coverage is excess liability protection above the required underlying home and auto limits. It can help protect the balance sheet from a large liability claim and defense costs. It does not cover every loss and it does not replace the underlying policies. Review the exclusions and required base limits rather than assuming the word umbrella means everything is covered.
+Umbrella coverage is excess liability protection above the required underlying home and auto limits. It can help protect the balance sheet from a large liability claim and defense costs. Umbrella coverage sits above the underlying policies and follows its own exclusions and required base limits. Read those terms before deciding which liability gaps it covers.
 
 Long-term care belongs on the later-life review. The cost is real, the products and pricing are imperfect, and a sufficiently large plan may choose to self-insure. The decision depends on health, family support, desired care, state rules, and the size of the assets available later. It is worth revisiting in the years when coverage is still available, not waiting until care is already needed.
 
 Health coverage before Medicare is part of the Retirement Income bridge rather than this insurance audit. The same principle applies: price the actual options and the risk retained by the household.
 
-> **Visual:** Insurance coverage audit: Risk / current coverage / what the stack can absorb / remaining gap / next review date.
+> 🎬 **VISUAL — Insurance coverage audit: Risk / current coverage / what the stack can absorb / remaining gap / next review date.**
 
 For each category, I would write down:
 
@@ -228,19 +225,20 @@ For each category, I would write down:
 
 Beneficiary forms are part of the review. A policy can be perfectly sized and still pay the wrong person if the designation is stale.
 
-Do not cancel coverage only because Bitcoin rose during one market cycle. Reassess it using the full plan, the debts, the dependents, and the amount the household could reliably spend from the assets after taxes and market risk.
+Reassess coverage using the full plan, debts, dependents, and the amount the household could reliably spend from the assets after taxes and market risk. One Bitcoin market cycle is too narrow to establish that the family can self-insure the risk.
 
-Orange Plan does not currently replace a policy inventory or quote comparison. Use the coverage-audit worksheet as the system of record and bring the gaps to a licensed insurance professional. The professional review should confirm policy mechanics, exclusions, and whether the proposed amount and term match the actual household.
+Use the coverage-audit worksheet as the current system of record for policies and quote comparisons, then bring the gaps to a licensed insurance professional. The professional review should confirm policy mechanics, exclusions, and whether the proposed amount and term match the actual household.
 
-The finish line is not buying more insurance. It is knowing which risks the reserve and stack can carry, which risks still need a policy, and when each coverage will be reviewed again.
+Finish with a clear list of which risks the Reserve and stack can carry, which risks still need a policy, and when each coverage will be reviewed again.
 
 ---
-
 ## 8.5 WALKTHROUGH — Build the family handoff in Protect
 
-*`WALKTHROUGH / DEMO` · narrate from the DO / SEE / ⚠ sheet*
+*`WALKTHROUGH` · ~12 min · IMPLEMENTATION SHEET*
 
 **Screen capture · about 12 minutes**
+
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
 
 ## Before recording
 
@@ -256,7 +254,7 @@ The finish line is not buying more insurance. It is knowing which risks the rese
 
 **ENTER / REVIEW** the people and projected shares used by Orange Plan.
 
-**SAY** This planning screen does not update the legal beneficiary forms at the custodian or insurer. Those forms are checked separately and coordinated with the attorney.
+**SAY** Use this screen to coordinate the plan, then verify the legal beneficiary forms directly with the custodian or insurer and the attorney.
 
 ## 2 · Start the heir letter
 
@@ -268,7 +266,7 @@ The finish line is not buying more insurance. It is knowing which risks the rese
 
 **⚠** Never enter seeds, keys, passphrases, PINs, passwords, exact recovery steps, or storage coordinates.
 
-**OPTIONAL** Show Draft with AI only after restating the no-secrets rule. Review every generated line.
+**OPTIONAL** Open **Ask** from the header and use it to review whether the no-secrets letter is missing a contact, warning, or next step. Keep every change in the heir-letter workspace and review every line.
 
 ## 3 · Download and place the document
 
@@ -328,7 +326,7 @@ Using a no-secrets table, state:
 
 ## 8 · Close Protect
 
-**DO** Build Your Plan → Protect.
+**DO** Return to Protect.
 
 **SEE** beneficiaries · heir letter · downloaded copy complete; outside legal, custody, and insurance actions remain visible in the production checklist.
 
@@ -341,13 +339,21 @@ Using a no-secrets table, state:
 - Communication backstop is armed and tested when applicable.
 - Legal authority and technical recovery are mapped together.
 - Insurance gaps are documented for licensed review.
+
 ---
 
-## Module checkpoint
+<!-- ADVANCED-GATE:START -->
 
-- [ ] Executor and backup are chosen and contacted.
-- [ ] Baseline legal documents and beneficiary forms have a clear status.
-- [ ] Legal authority and technical recovery are mapped together.
-- [ ] Heir letter and executor packet contain no secrets.
-- [ ] The communication backstop is armed and tested when applicable.
-- [ ] Insurance gaps are documented for licensed review.
+## Related advanced lessons
+
+**Your core plan is complete.** These are optional, and each one is
+worth watching only when its condition is true for you. Continue only if
+one of these describes your situation:
+
+- **A8.1 Do you need a trust, and what job would it do?**
+  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
+
+*Generated by `tools/build-module-gates.py` from the Gate line on each
+advanced lesson. Edit the condition there, not here.*
+
+<!-- ADVANCED-GATE:END -->

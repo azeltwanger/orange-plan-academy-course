@@ -14,7 +14,7 @@ States may look at domicile, days present, homes, work, business activity, famil
 
 A large transaction soon after departure can attract attention. Plan the move and the sale in the correct order, preserve evidence, and understand any part-year or sourcing rules.
 
-The lifestyle cost belongs in the comparison too. Family, healthcare, housing, work, community, travel, and climate can be worth more than the tax difference. A move that saves tax but makes life worse is not automatically an optimization.
+The lifestyle cost belongs in the comparison too. Family, healthcare, housing, work, community, travel, and climate can be worth more than the tax difference. Include the lifestyle cost beside the tax savings. The move needs to improve the full plan and the life attached to it.
 
 Use Scenarios to compare the plan under the destination state, including the effect on future taxes and the retirement date. Then take the actual transaction, dates, properties, business ties, and intended move to professionals who understand both states.
 

@@ -1,44 +1,37 @@
 # 1.3 · What the onboarding retirement age actually means
 
-In today's lesson, we're going to cover the retirement age you saw at the end of onboarding, what that number actually means, and why it is only the starting point for the plan.
+So in this lesson, we're going to cover the retirement age from onboarding, the first simulation result, and how both change as the plan becomes more complete.
 
-Onboarding only asked you for a small amount of information. It used your age, income, spending, rough account values, Bitcoin holdings, and the growth model you selected to give you a first estimate.
+Onboarding asks for a small amount of information so you can get a useful starting point quickly. It uses your age, income, spending, rough account values, Bitcoin holdings, and the growth model you selected.
 
-That is useful because you can get a direction without spending an hour entering every account and every detail before you see anything. But the number can look more complete than it really is, so I want to explain exactly what the app is doing.
+The onboarding age is a deterministic estimate. Orange Plan takes that one set of assumptions, projects it forward at different retirement ages, and finds the earliest age where that version of the plan lasts through the planning age.
 
-The onboarding age comes from one set of assumptions. Orange Plan projects those assumptions forward at different retirement ages and finds the earliest age where that version of the plan lasts through the life-expectancy setting.
+That estimate gives you direction before every account, debt, life event, tax record, and retirement-income decision has been entered. Treat it as the first answer from rough information.
 
-There are not 1,000 different market paths being averaged together during onboarding. It is one deterministic projection using the rough numbers and the growth model you selected.
+The Plan result adds a different question. Orange Plan runs the plan through 1,000 market paths and counts how many of them fund the plan as written through the planning age.
 
-So I would think about the onboarding age as a first estimate of what might be possible if those inputs are reasonably close. It is not your finished retirement date, and it is not a promise that the plan is going to work exactly that way.
+A result of 790 of 1,000 means the money lasted through the planning age in 790 modeled paths. The normal Orange Plan standard is 800 of 1,000. Orange Plan uses that standard to calculate the earliest modeled retirement date for a normal user.
 
-The reason it is still helpful is that it gives you something concrete to work from. It also shows you how much the growth assumption can move the result. A more conservative Bitcoin model will usually move the age later. A more aggressive model will usually move it earlier.
+The planned retirement date and the earliest modeled retirement date have different jobs. The planned date is the date you currently intend to use. The earliest modeled date is the first date that reaches the Orange Plan standard under the saved assumptions.
 
-But the growth model is only one part of the final answer.
+The first result may be preliminary. Orange Plan uses four plain states:
 
-The onboarding estimate does not yet have every real account and holding. It does not know all of your debts, expected future expenses, retirement income, Social Security, cost basis, withdrawal order, or tax strategy. Those are the parts we're going to build through the course.
+- Preliminary means important facts or accuracy details are still missing.
+- Current means the relevant facts and the calculation are up to date.
+- Stale means a modeled fact changed after the last calculation.
+- Unavailable means the calculation or required source data failed.
 
-That is why the next step is not to keep changing the growth model until you get the age you want. The next step is to replace the rough estimate with the information that is actually true.
+Foundation replaces the rough account values with your real accounts and current holdings. Cash Flow verifies income, spending, taxes, debt payments, the Reserve, and expected life events. Allocation decides what the money is for and how new dollars get invested. Debt adds the real loan terms and the job assigned to each debt. Tax adds basis and the planning window. Retirement Income adds the spending, income floor, Bridge, withdrawal order, and guardrail policy. Protect completes the family side of the plan.
 
-Foundation is going to replace the rough account values with your real accounts and current holdings. Cash Flow is going to verify your income, spending, usable surplus, reserve, and expected life events. Debt is going to add the real loan terms and the decision attached to each debt. Allocation is going to decide what your new dollars are for, which account they go into, and what they buy. The later modules build the tax strategy and retirement paycheck.
+Each completed area improves the information underneath the result. The age can move earlier or later as those inputs change. Better information can produce a different answer.
 
-Once the full plan is built, Orange Plan can run it through 1,000 different market paths. That is where the confidence result comes from.
+The first useful Plan result belongs in Foundation because it gives you something to read while the plan is still being built. Module 9 confirms the completed-plan baseline after the major facts and decisions are current.
 
-The onboarding estimate and the confidence check answer different questions.
+The Orange Plan standard stays fixed at 800 of 1,000 for normal users. A power user can change that standard under Advanced model settings, but the core course uses the same standard so the result stays easy to understand and compare.
 
-The onboarding estimate asks: using this one set of assumptions, what is the earliest age where the projection lasts?
+The main takeaway is simple: onboarding gives you a deterministic starting estimate. The simulation count shows how the fuller plan holds up across 1,000 market paths. Both become more useful as the information underneath them becomes accurate.
 
-The confidence check asks: when the full plan is run through 1,000 different market paths, how often does it still work as written?
-
-That second question becomes much more useful after the information underneath it is complete. A precise confidence percentage based on rough onboarding data would look more trustworthy than it really is.
-
-As you enter the real data, the age may move earlier or later. That is not the app changing its mind. It means the model is using better information.
-
-After the plan is built, you will also choose the confidence target the retirement date has to meet. The finished earliest date is the first date that clears that target, not just the first date where the single deterministic projection works.
-
-The main thing I want you to take away from this lesson is that onboarding gave you a useful place to start. It did not finish the plan for you.
-
-In the Foundation walkthrough below this lesson, I'll show you how to replace the rough account estimates with your real accounts and holdings, verify the personal details behind the plan, and review the assumptions onboarding used. We are not going to enter every part of the financial plan in that walkthrough. Each later module enters the information it owns.
+In the Foundation walkthrough, I'll show you how to replace the rough account estimates with real accounts and holdings, review the assumptions, run or read the first preliminary Plan result, and see exactly which details could still change it.
 
 ## Apply it
 
@@ -46,9 +39,11 @@ Use walkthrough 1.4 to enter the decision and confirm what Orange Plan calculate
 
 ## Module checkpoint
 
-- [ ] Personal details are accurate.
+- [ ] Household details are accurate.
 - [ ] Every real account and custody location is listed.
 - [ ] Current holdings match the source statements.
-- [ ] You know how new activity differs from historical tax reconstruction.
+- [ ] Balance, activity, and tax-detail coverage are understood separately.
 - [ ] The growth and inflation assumptions were reviewed deliberately.
-- [ ] Build Your Plan shows Foundation complete.
+- [ ] The simulation result is visible with a truthful freshness state.
+- [ ] Planned and earliest modeled retirement dates are understood separately.
+- [ ] Build & improve shows Foundation complete.

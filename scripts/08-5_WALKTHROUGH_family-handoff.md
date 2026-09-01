@@ -2,6 +2,8 @@
 
 **Screen capture · about 12 minutes**
 
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
+
 ## Before recording
 
 - Primary executor and backup chosen; willingness confirmed when possible.
@@ -16,7 +18,7 @@
 
 **ENTER / REVIEW** the people and projected shares used by Orange Plan.
 
-**SAY** This planning screen does not update the legal beneficiary forms at the custodian or insurer. Those forms are checked separately and coordinated with the attorney.
+**SAY** Use this screen to coordinate the plan, then verify the legal beneficiary forms directly with the custodian or insurer and the attorney.
 
 ## 2 · Start the heir letter
 
@@ -28,7 +30,7 @@
 
 **⚠** Never enter seeds, keys, passphrases, PINs, passwords, exact recovery steps, or storage coordinates.
 
-**OPTIONAL** Show Draft with AI only after restating the no-secrets rule. Review every generated line.
+**OPTIONAL** Open **Ask** from the header and use it to review whether the no-secrets letter is missing a contact, warning, or next step. Keep every change in the heir-letter workspace and review every line.
 
 ## 3 · Download and place the document
 
@@ -88,7 +90,7 @@ Using a no-secrets table, state:
 
 ## 8 · Close Protect
 
-**DO** Build Your Plan → Protect.
+**DO** Return to Protect.
 
 **SEE** beneficiaries · heir letter · downloaded copy complete; outside legal, custody, and insurance actions remain visible in the production checklist.
 

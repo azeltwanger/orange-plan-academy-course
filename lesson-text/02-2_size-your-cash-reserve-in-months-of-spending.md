@@ -2,23 +2,23 @@
 
 In today's lesson, we're going to cover how to size your cash reserve to your life. Let me start by showing you why this matters.
 
-In our example, we have a couple that's holding 1.75 Bitcoin. Back in 2022, during the bear market, Bitcoin dropped 77% from its peak. If they were to have something like a job loss during this window and they're not holding enough cash, but they still have bills like their mortgage that they have to pay, they're now stuck in a situation where they're selling Bitcoin at a 77% loss just to cover all of their bills and their mortgage.
+In our example, a couple holds 1.75 Bitcoin. During the 2022 bear market, Bitcoin fell 77% from its peak. A job loss during that drawdown, combined with too little cash and a mortgage that still has to be paid, can force the household to sell Bitcoin near the bottom to cover the bills.
 
 On the flip side of this, if you hold too much cash, you have the opposite problem. That money just sits there losing to inflation, and it's going to drag your returns over longer periods of time. What we're going to do in this lesson is find the right number for you in your life that's somewhere in the middle.
 
 For retirement, I use 18 months as a planning default, because the first few years after you stop working are when sequence risk is most dangerous. It's not a prediction of how long the next Bitcoin recovery takes.
 
-### The Formula
+## The formula
 
-The formula that I'm using for sizing your emergency fund is: you're going to take your bare-bones essential spending, and then you're going to multiply that by whatever your target amount of months is for your reserve. By bare bones, this is not going to be what you normally spend in any given month. This is going to be the absolute minimum amount that you can spend and still get by.
+The formula that I'm using for sizing your emergency fund is: you're going to take your bare-bones essential spending, and then you're going to multiply that by whatever your target amount of months is for your reserve. Bare-bones spending is the absolute minimum amount you can spend in a month and still get by.
 
 The reason why we use this is that, for the floor, or your bare-bones spending, in a real emergency, this is the amount that you could cut back and still get by. If we were to size your emergency fund based off normal spending, you're oversizing your emergency fund and losing money to inflation. A smaller amount of cash is going to buy you more time in a worst-case scenario.
 
 Once I get to the app in the walkthrough section, we'll have an opportunity to set what your bare-bones spending is, what your reserve size is going to be, and how you're going to start building a plan and allocating money towards this reserve.
 
-### Target Months
+## Target months
 
-The amount of months that you should hold depends on your specific situation. The table here that's on the screen is going to give you the range that you're going to fall in. If you have, for example, two stable incomes and you don't have any kids or people relying on you, you can start at about 3 months, and that's going to be the minimum. For most households, I would say 6 months is the baseline. If you have a single-income household, or if you're self-employed or if your pay is more variable, like in a sales job, you're going to want to shoot for 12 months or more.
+The amount of months that you should hold depends on your specific situation. The table here that's on the screen is going to give you the range that you're going to fall in. Two stable incomes with no dependents may support a starting target around three months. Six months is a more common baseline for a household with normal uncertainty. If you have a single-income household, or if you're self-employed or if your pay is more variable, like in a sales job, you're going to want to shoot for 12 months or more.
 
 After this, there are six factors that are going to move this number up or down inside this range. They all come down to 2 questions. How reliable is your income? And how difficult is it for you to shrink the amount of expenses that you have every month?
 
@@ -26,7 +26,7 @@ Things like variable pay, commissions, or contract work are going to push this n
 
 Now, when you combine all these factors together for your life, what you're really estimating is how long you could go without a paycheck. Your reserve needs to be able to protect your family from selling Bitcoin or other assets at the wrong time, and give you the ability to survive during this period without a significant amount of stress on your household.
 
-### The Couple'S Reserve
+## The couple's reserve
 
 Let's walk through an example. Let's say that we have a couple. They're going to be starting at the six-month baseline. They have two stable W-2 incomes, and because of this, we can take 2 months off. Now they're down to around four. They have two kids, so we'll add a month back, and they're at five.
 
@@ -34,7 +34,7 @@ They have a $280,000 mortgage that has to get paid whether they have income or n
 
 So 6 months, times their $5,000 floor spending, their bare-bones spending — this is about a $30,000 reserve target that they're going to set. They already have $30,000 in cash, so they're fully funded. Now their job is just to protect that money so that nothing else, like a vacation or something else, tempts them to dip into that money. It's going to be set aside in a separate account, just emergency fund cash that you're not going to touch.
 
-### The Reserve Changes Jobs In Retirement
+## The reserve changes jobs in retirement
 
 Now, your reserve is going to change as you move into retirement. While you're working, the purpose of the reserve is to replace a lost paycheck and protect you against losing your income and having large unexpected expenses come up. When we shift into retirement, there's not a paycheck to replace.
 
@@ -44,13 +44,13 @@ Let's say that we have a couple that's 67 years old. They're spending $80,000 a 
 
 Now, after several years into retirement, the risk of needing to sell assets at an inopportune time, and the impact that's going to have on your financial plan, is going to start to fade away. This is because research has shown that sequence-of-returns risk — which is the risk that your portfolio drops right after you retire — starts to go down after you hit 5 years retired.
 
-After this period, if you're not comfortable holding a large amount of cash, I think it can make sense to move your cash reserve down to something like 12 months if you're up at 18. A lot of this is just going to come down to what your risk tolerance is. If you don't like holding a lot of cash, then I think a floor for a cash reserve in retirement is going to be 12 months. These can go up to around 3 years if you're risk-averse and just feel better having a large cash position. We're going to get into, in later lessons, how you're going to go about refilling this cash reserve and when to do this.
+After this period, if you're not comfortable holding a large amount of cash, I think it can make sense to move your cash reserve down to something like 12 months if you're up at 18. A lot of this is just going to come down to what your risk tolerance is. For a Bitcoin-heavy retirement plan, I use roughly 12 months as the aggressive end of the Reserve range. A more risk-averse household may choose up to around three years of the spending gap. We're going to get into, in later lessons, how you're going to go about refilling this cash reserve and when to do this.
 
-### The Scenario Question
+## The scenario question
 
 Before you pick and decide what your cash reserve is going to be, I think it's important to go through a scenario or situation. If Bitcoin were to drop 50% tomorrow, we go into a bear market, and your income got cut off for 6 months and it took you a while to find a new job: would you rather hold more cash now and be able to safely spend it through that period? Or would you be okay with taking the risk to sell some Bitcoin during that time, knowing that the price is down 50%, and just cut your spending more aggressively to your bare-bones spending?
 
-I don't think there's a wrong answer here. A lot of this, like I said, comes down to your risk tolerance. I think having at least 3 months of a reserve while you're working, and then 12 months once you go into retirement, can protect you against selling assets at the wrong time and reduce sequence-of-returns risk in retirement.
+Your risk tolerance sets the final number. I think having at least 3 months of a reserve while you're working, and then 12 months once you go into retirement, can protect you against selling assets at the wrong time and reduce sequence-of-returns risk in retirement.
 
 Before the walkthrough, choose the number of months that fits your income stability, dependents, fixed costs, and comfort with selling during a drawdown. In the walkthrough, I'll show you where to enter the bare-bones monthly amount, select the Reserve basis and months, and choose the monthly build cap. Orange Plan calculates the target from those inputs and shows the gap; you do not type the target multiplication manually.
 
@@ -64,5 +64,5 @@ Use walkthrough 2.5 to enter the decision and confirm what Orange Plan calculate
 - [ ] The surplus is believable and sustainable.
 - [ ] Orange Plan calculated the Reserve target from the selected basis and months.
 - [ ] The monthly Reserve build amount is saved.
-- [ ] Expected life events are in the baseline and hypotheticals are in Scenarios.
+- [ ] Expected life events are in the baseline and hypotheticals are in Plan → Scenarios.
 - [ ] College funding has a commitment and source plan when it applies.

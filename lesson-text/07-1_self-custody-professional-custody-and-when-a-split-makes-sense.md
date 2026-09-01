@@ -2,7 +2,9 @@
 
 Most custody advice starts by asking, "What is the safest setup?"
 
-I think that is the wrong question, because every setup can fail.
+I start with a different question: Which failure are you trying to survive?
+
+Every setup protects you from one risk by making you responsible for another.
 
 Self-custody protects you from a company freezing withdrawals, failing, or deciding when you can access your Bitcoin. But it makes you responsible for recovery, physical security, and leaving a process your family can follow.
 
@@ -26,7 +28,7 @@ And there is one rule for the entire module: document the process, never the sec
 
 No seed phrase, private key, passphrase, PIN, password, descriptor contents, or exact recovery location goes into Orange Plan, an heir letter, a cloud note, a photo, an email, or an AI tool. The plan can tell somebody what exists, who to call, and where the process starts. It should never become a treasure map.
 
-The first decision is not the product. It is which risk you are trying to reduce.
+Start by naming the risk you are trying to reduce.
 
 Direct self-custody protects against provider failure, frozen withdrawals, and loss of direct control. The trade-off is that recovery mistakes, physical security, and family continuity become your responsibility.
 
@@ -36,13 +38,13 @@ Institutional custody protects against personal key loss and some technical mist
 
 An intentional split protects against one method or one provider taking out the entire plan. The trade-off is that the household now has more than one system to maintain and document.
 
-A split is not automatically better. Every additional setup needs to solve a named risk. Otherwise it is just extra complexity.
+Use a split when each additional setup solves a named risk the family can maintain.
 
 The next question is how much direct control matters to you.
 
 For one person, direct control is non-negotiable. They want a meaningful amount that no institution can freeze.
 
-For another person, direct control matters, but it is not absolute. They may want some Bitcoin they control directly and some professionally supported.
+Another person may want both directly controlled Bitcoin and a professionally supported portion.
 
 For another household, support, recourse, and family simplicity matter more than controlling every key personally.
 
@@ -70,9 +72,9 @@ Could one lost seed, one frozen account, one provider failure, one home disaster
 
 If the answer is yes, the setup may be too concentrated.
 
-Notice what this does not say. It does not say every large balance belongs in multisig. It does not say institutional custody is only for beginners. It does not say every household needs three different setups.
+A large balance can use direct self-custody, collaborative multisig, institutional custody, or an intentional combination. The right architecture depends on the failures the household needs to survive.
 
-It says the architecture has to match the actual failure that matters.
+The architecture has to match the failure that matters.
 
 A single, well-run method can be enough when the amount is replaceable or not plan-critical, the recovery has been proven, the family dependency is limited, and simplicity is worth more than diversification.
 
@@ -86,7 +88,7 @@ I would use five steps to make the decision:
 4. Run the One-Failure Test.
 5. Choose the simplest architecture that passes.
 
-That last line matters. The goal is not the most advanced setup. It is the simplest setup that removes the household's real failure points and can still be maintained ten or twenty years from now.
+Choose the simplest setup that removes the household's real failure points and can still be maintained ten or twenty years from now.
 
 I would measure readiness with four outcomes instead of a wealth ladder:
 
@@ -95,7 +97,7 @@ I would measure readiness with four outcomes instead of a wealth ladder:
 3. Family continuity exists: somebody besides you understands the process and knows who to call.
 4. Catastrophic concentration is removed: no single device, person, provider, method, or location can materially destroy the plan.
 
-A household can reach the fourth outcome with one strong method or a thoughtful combination. It does not mean graduating every coin into one increasingly complicated wallet.
+A household can reach the fourth outcome with one strong method or a thoughtful combination that removes catastrophic concentration.
 
 Before the next lesson, make one decision and one action.
 
@@ -115,7 +117,7 @@ The next two lessons handle the operational work: proving a hardware-wallet reco
 
 ## Apply it
 
-Use `CUSTODY-DECISION-MAP.md` to record the decision without secrets, then complete walkthrough 7.5 to reflect the implementation status in Protect.
+Use walkthrough 7.5 to enter the decision and confirm what Orange Plan calculated.
 
 ## Module checkpoint
 

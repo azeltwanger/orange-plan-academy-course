@@ -4,7 +4,6 @@ Before we decide which account gets the next dollar, we need to decide what the 
 
 This is one of the most useful ideas in the entire plan because the same investment can be reasonable for one job and completely wrong for another.
 
-
 The first job is Reserve.
 
 This is money you may need now. It protects the household, covers emergencies, and keeps a bad month from becoming a Bitcoin sale. The job is liquidity and stability, so the money cannot be doing something that regularly falls fifty or seventy percent.
@@ -17,12 +16,11 @@ The third job is Forever. Orange Plan labels this timeframe Legacy. I use the wo
 
 This is the money with the most time to recover from a drawdown, so it can hold the highest-growth and highest-volatility assets in the plan.
 
-The old slide uses rough time horizons of zero to three years, four to ten years, and ten years or more. I think those are useful for understanding the pattern, but they are not rigid account rules.
+The old slide uses rough time horizons of zero to three years, four to ten years, and ten years or more. Those ranges help explain the pattern.
 
 The current app makes the retirement access question more specific: Reserve is available now, Bridge is the money needed before age fifty-nine and a half, and Legacy is the money for after that point. A future home purchase or college event can also create a Bridge need even when retirement is farther away.
 
 The principle is the same in both versions: match the volatility to the job each dollar has to do.
-
 
 Reserve has a low-volatility job: protect and stay liquid.
 
@@ -30,7 +28,7 @@ Bridge has a moderate-volatility job: grow while remaining flexible enough to fu
 
 Legacy has a long-term growth job: maximize the compounding runway and accept more volatility because the money has time.
 
-This does not mean every Bridge account needs a conventional stock-and-bond portfolio. A high-conviction Bitcoiner may keep more Bitcoin involved, especially when the need is still more than five years away. It means the portion that is firmly committed has to become less dependent on Bitcoin as the date gets close.
+A high-conviction Bitcoiner may keep more Bitcoin in the Bridge while the need is still more than five years away. Protect the firmly committed portion as the date gets close.
 
 The job comes before the asset label.
 
@@ -38,9 +36,9 @@ Now look at the accounts, because account type and asset type are different thin
 
 A Roth IRA is an account. Bitcoin, an ETF, stocks, bonds, and cash are holdings inside accounts.
 
-A taxable account can be Bridge or Legacy depending on what the money is for. A retirement account is usually Legacy because of the access rules, but an HSA may have a current healthcare job and a long-term investment job at the same time. A savings account is not automatically Reserve unless you have actually designated that cash for the reserve.
+A taxable account can be Bridge or Legacy depending on what the money is for. A retirement account is usually Legacy because of the access rules, but an HSA may have a current healthcare job and a long-term investment job at the same time. A savings account becomes Reserve when you designate that cash for the reserve job.
 
-The goal is not to classify every holding perfectly. It is to make sure the major accounts have jobs and that the investment inside each one is compatible with that job.
+Give the major accounts a job and make the holdings inside each one compatible with that job.
 
 This also explains why target allocation should come after the timeframe decision.
 

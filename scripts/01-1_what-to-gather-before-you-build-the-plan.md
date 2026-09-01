@@ -6,7 +6,7 @@ SOURCE: Austin dictation; current course order and current-app handoffs applied 
 
 In today's lesson, we're going to cover the documents and information that you're going to need to gather before you start building your full financial plan.
 
-Onboarding only asked for enough information to give you a starting estimate. It did not add every real account, debt, life event, or tax record. The Build Your Plan guide is going to take you through those pieces in the right order, and each module walkthrough is going to enter the information that belongs to that part of the plan.
+Onboarding asked for enough information to give you a starting estimate. Build & improve takes you through the real accounts, debts, life events, and tax records in the order each module uses them.
 
 This part is extremely important because every decision that we make later is downstream from all of the information that goes into the model. Taking the extra time to be accurate up front is going to save you from making misguided decisions based off of guesswork or data that isn't up to date.
 
@@ -26,13 +26,13 @@ Taking 30 minutes to an hour now to gather all of this information can be a valu
 
 5. Your employer benefits. This is anything that your employer is going to contribute toward your retirement plan or your financial life. This includes the match on your 401(k), any pension you might have in retirement, deferred compensation, or stock compensation. There can be a few different ways employers do the match. It might be a set percentage, or it can be 50% of what you contribute up to 6% of your pay. A lot of the time these rules are listed inside your employer retirement account or benefits portal.
 
-6. Future life events. These are known costs or income changes that you might have coming up and that we're going to enter into your plan later. This includes things like paying for your kids' college, buying a new car, plans to sell your house and buy another one, or a future change to your income. There are not necessarily any documents that you need for this one. I think it's just important to start thinking about what might be coming up in the future.
+6. Future life events. These are known costs or income changes that you might have coming up and that we're going to enter into your plan later. This includes things like paying for your kids' college, buying a new car, plans to sell your house and buy another one, or a future change to your income. For future life events, start with a list of the income and expenses you reasonably expect. A statement usually is not required yet.
 
 7. Your cost basis. This is the most difficult one to track down, so I think it's important to start now. Cost basis is just a fancy way of saying your purchase history for the assets that you hold: what you bought, when you bought it, how much you bought, and what you paid.
 
 The app uses this information to model what your future tax liability might be. Knowing what prices you actually paid can give you a more accurate picture of what taxes you're going to owe and can help inform some of the decisions you're making when it comes to retirement planning.
 
-Your Bitcoin purchase history is going to live across the exchange accounts you use today and the ones you used in the past. Sometimes exchanges do not keep all of your history forever. If you cannot access all of it, that's okay.
+Your Bitcoin purchase history is going to live across the exchange accounts you use today and the ones you used in the past. Download every history file that is still available and make a note of any missing years or accounts. We will handle the gaps honestly in the Tax module.
 
 I think it's important to upload as much as you reasonably can. Go to your exchange accounts and download the CSV files that include your transaction history. This also applies to brokerage accounts. If you have a Fidelity account, for example, you can download the purchase history as an Excel or CSV file.
 
@@ -40,7 +40,7 @@ I would recommend pulling up all of the exchange accounts and brokerage accounts
 
 == WHEN EACH PART GETS ENTERED ==
 
-Gathering everything now does not mean entering everything in this module.
+We will enter each item in the module that owns it.
 
 Foundation enters your personal details, real accounts, and current holdings.
 
@@ -54,8 +54,8 @@ Tax imports historical transactions and reconstructs cost basis.
 
 Retirement Income enters retirement spending, Social Security, and the withdrawal strategy.
 
-Run Your Plan performs the first full 1,000-run confidence check after the plan is built.
+Module 9 confirms and saves the completed current simulation result after the core plan is built.
 
 If you'd rather gather this information as you go through each step, that's totally fine. I just think it's easier to get everything in one place first so you're not tracking it down in the middle of every walkthrough.
 
-You do not need to enter any of this yet. Put the statements, exports, employer information, and rough future-event list in one place. In the Foundation walkthrough, we'll use the personal details, account list, and current holdings first. The rest stays in the folder until the module that teaches the decision and owns the data.
+For now, put the statements, exports, employer information, and rough future-event list in one place. In the Foundation walkthrough, we'll use the personal details, account list, and current holdings first. The rest stays in the folder until the module that teaches the decision and owns the data.

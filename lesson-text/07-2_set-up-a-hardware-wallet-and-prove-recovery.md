@@ -8,7 +8,6 @@ Most people skip that step. They generate a wallet, write the words down, send t
 
 I want the first test to happen while the wallet contains only a small amount and you are calm.
 
-
 The general process is:
 
 1. Buy the device from the manufacturer or another source the manufacturer explicitly supports. Inspect the packaging and follow the vendor's current verification instructions.
@@ -32,7 +31,7 @@ And always send a small transaction before moving a life-changing amount.
 
 The backup has to survive the risks that matter in your life. Paper can be damaged by fire, water, fading, or somebody throwing it away. A steel backup may make sense for meaningful long-term holdings. Multiple copies can reduce loss risk, but copies also increase the number of places that have to be secured.
 
-Separate locations protect against one fire or disaster. They can also create a theft or privacy problem if the locations are chosen poorly. Redundancy is not simply making as many copies as possible. It is making sure one event cannot destroy every recovery path.
+Separate locations protect against one fire or disaster. They can also create a theft or privacy problem if the locations are chosen poorly. Redundancy makes sure one event cannot destroy every recovery path. Each additional copy or location should solve a specific failure.
 
 A passphrase changes the recovery process. The seed alone restores a different wallet from the seed plus passphrase. A forgotten or mistyped passphrase can make the intended funds unreachable even when the seed is perfect. That setup needs its own small-value test and its own recovery documentation.
 
@@ -48,13 +47,15 @@ The external demo will show the actual process using a throwaway wallet with no 
 
 ## Apply it
 
-Use walkthrough 7.4 to enter the decision and confirm what Orange Plan calculated.
+Use walkthrough 7.5 to enter the decision and confirm what Orange Plan calculated.
 
 ## Module checkpoint
 
-- [ ] Custody level is chosen for the amount and household.
+- [ ] Custody direction is one method or an intentional split, chosen on purpose.
+- [ ] Direct-control preference and the risk being reduced are stated.
+- [ ] Every meaningful Bitcoin pool has a no-secrets job, scale, method, remaining failure, and family path.
 - [ ] Hardware recovery is proven or clearly outstanding.
-- [ ] The top single point of failure has an owner and deadline.
+- [ ] The One-Failure Test identified the largest current weakness.
 - [ ] Important accounts and email are hardened.
-- [ ] No seed, key, passphrase, or PIN is stored in the app or course notes.
+- [ ] No seed, key, passphrase, PIN, password, descriptor contents, or exact recovery location is stored in the app, map, or course notes.
 - [ ] An encrypted backup of the plan data exists.

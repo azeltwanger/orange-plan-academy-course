@@ -28,13 +28,13 @@ That can include existing 529 money, new 529 contributions, Bitcoin or other tax
 
 🎬 VISUAL — Build the college funding stack from the bottom up: parent commitment, then sources. Do not show sticker price as the automatic parent target.
 
-A lot of conventional college planning starts with the 529. I do not think that should be automatic for a Bitcoiner.
+For a Bitcoiner, start with the family commitment and funding sources, then decide whether a 529 improves that plan.
 
 A 529 can give you tax advantages when the money is used for qualified education expenses. It also limits the investment menu, has rules around how the money is used, and may not give you the Bitcoin exposure you actually want.
 
 Bitcoin gives you more flexibility and, in my view, a stronger long-term growth asset. It also brings volatility, no education-specific tax shelter, and the risk that the price is down when tuition is due.
 
-For my own planning, if college is still more than five years away, I am comfortable using Bitcoin as a meaningful part of the savings plan instead of assuming every dollar has to go into a 529. That does not mean I would wait until freshman year and hope the price cooperates.
+For my own planning, if college is still more than five years away, I am comfortable using Bitcoin as a meaningful part of the savings plan. As the date gets closer, I would protect the first committed tuition payments so the family is not depending on the market at enrollment.
 
 As the date gets closer, I would revisit the commitment, the likely school cost, the aid picture, and the amount already available. Then I would start protecting the portion I have firmly promised.
 
@@ -50,8 +50,8 @@ I think that can be a useful starting framework because it reminds you there are
 
 The plan should reflect the decision you actually made, not a generic percentage.
 
-Orange Plan can help with the numbers. The college life event establishes the amount and the years the plan is expected to fund. The Education section can show the education target, what is already in education accounts, the remaining gap, and how the current plan is projected to cover it. It does not decide the family commitment for you, and education contributions stay separate from the broader Reserve, Bridge, and Legacy savings target.
+Orange Plan can help with the numbers. The college life event establishes the amount and the years the plan is expected to fund. Education accounts and contribution rows show what is already set aside and what is still being added. The plan can compare those resources with the commitment and show the remaining amount the broader plan must cover. It does not decide the family commitment for you, and education contributions stay separate from the broader Reserve, Bridge, and Legacy savings target.
 
 After you choose the commitment, compare it with what is already saved and what the current projection may provide. The remaining amount is the part that needs a funding decision. Some of it may become a monthly 529 contribution. Some may remain part of the Bitcoin plan. Some may be paid from future income.
 
-In the walkthrough, I'll show you how to add the college event, connect the years and amount to the plan, read the Education target and gap, and add a 529 contribution if that is part of your decision. The important thing before the clicks is that you can say, in one sentence, how much you are helping with and which sources are expected to pay for it.
+In the walkthrough, I'll show you how to add the college event, connect the years and amount to the plan, read the current education coverage and remaining gap where the final V1 build displays them, and add a 529 contribution if that is part of your decision. The important thing before the clicks is that you can say, in one sentence, how much you are helping with and which sources are expected to pay for it.

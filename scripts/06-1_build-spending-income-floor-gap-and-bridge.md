@@ -8,7 +8,7 @@ In today's lesson, we're going to define the three numbers that the retirement p
 
 Start with the spending number.
 
-This is not only the average of what you spend today. Retirement spending needs to include the life you actually expect to live in the early years, healthcare, and the irregular expenses that do not show up every month.
+Retirement spending includes the life you expect in the early years, healthcare, and irregular expenses along with the normal annual spending.
 
 I would separate the spending into a core amount and flexible spending.
 
@@ -24,7 +24,7 @@ Next, build the income floor.
 
 The income floor is the money expected to arrive before the portfolio has to provide anything. Social Security, a pension, recurring retirement income, and part-time work can all contribute.
 
-I would be careful with income that is not truly durable. A dividend is not guaranteed in the same way as Social Security or a pension. Rental income can be reliable but still has vacancies and repairs. The floor should be something you can defend.
+Use durable income for the floor. Social Security and pensions have different reliability than dividends or rental income, which can change with distributions, vacancies, and repairs.
 
 Now subtract the floor from spending.
 
@@ -52,9 +52,9 @@ Count the years and look at the gap in each one. That is the amount the Bridge a
 
 Healthcare can create another large bridge before Medicare.
 
-The core course does not assume one solution. It may be COBRA for a short period, an ACA marketplace plan, a spouse's employer plan, a health-sharing arrangement, or another option. The important thing is pricing the actual path, including premiums and out-of-pocket exposure, and ending or changing the event when Medicare begins.
+The healthcare bridge may use COBRA for a short period, an ACA marketplace plan, a spouse's employer plan, a health-sharing arrangement, or another option. The important thing is pricing the actual path, including premiums and out-of-pocket exposure, and ending or changing the event when Medicare begins.
 
-The tax strategy and healthcare strategy also interact. Income from Roth conversions, Traditional withdrawals, and realized gains can affect marketplace subsidies. The lowest-tax conversion is not automatically the lowest total cost after healthcare. That comparison is covered in more detail in the Advanced health-insurance lesson.
+The tax strategy and healthcare strategy also interact. Income from Roth conversions, Traditional withdrawals, and realized gains can affect marketplace subsidies. Compare conversion tax and healthcare subsidy effects together. The Advanced health-coverage lesson walks through that combined cost.
 
 Social Security timing belongs inside the Bridge decision too.
 

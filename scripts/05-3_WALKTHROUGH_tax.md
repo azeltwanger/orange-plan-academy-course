@@ -2,6 +2,8 @@
 
 **Screen capture · about 15 minutes**
 
+> **V1 capture gate:** Verify the final label and click path against the same approved Preview commit used for recording.
+
 ## Before recording
 
 - Complete exchange and brokerage exports available.
@@ -9,9 +11,9 @@
 - Last year's return or a current-year income estimate for the professional handoff.
 - Use US-only framing once; do not repeat a disclaimer on every screen.
 
-## 1 · Import the history from the current transaction entry point
+## 1 · Import the history from the current activity entry point
 
-**DO** Dashboard → **Add transaction** → choose the downloaded-file path.
+**DO** Home → Activity, or open the owning account → Activity → use the current **Add / Import activity** action.
 
 **CHOOSE** **Keep my balance** when the file is older history for a current balance already entered. Use **Update my balance** only when the imported activity should change what the account owns now.
 
@@ -23,11 +25,11 @@
 
 ## 2 · Review tax-lot coverage
 
-**DO** Tax → Tax lots → **View all lots**.
+**DO** Plan → Build & improve → Improve strategy → **Tax strategy** → Tax lots → **View all lots**.
 
 **SEE** complete · partial · missing coverage and the list of unresolved holdings.
 
-**SAY** The app does not invent basis. Missing is a work item, not zero and not a supported estimate.
+**SAY** A missing basis field stays missing and becomes a reconstruction work item. Zero means an actual supported zero basis.
 
 **DO** Open one holding's lot editor from the current source path and show add / edit / delete.
 
@@ -49,7 +51,7 @@
 
 ## 5 · Model a Roth conversion
 
-**DO** Tax → current-year moves → Roth conversion → compare strategies.
+**DO** Tax strategy → current-year moves → Roth conversion → compare strategies.
 
 **SEE** conversion amount · tax cost · after-tax outcome · future Traditional balance / required-distribution pressure.
 
@@ -73,7 +75,7 @@
 
 ## 7 · Compare the state scenario
 
-**DO** Scenarios → **Move to no-tax state** or the current state-change scenario.
+**DO** Plan → Scenarios → **Move to no-tax state** or the current state-change scenario.
 
 **READ** the change in taxes and the whole-plan result.
 
@@ -81,7 +83,7 @@
 
 ## 8 · Run the tax review
 
-**DO** Tax → **Review Tax Strategy**.
+**DO** Open **Ask** from the header while Tax strategy is on screen.
 
 **ANSWER** whether a sale, inheritance, business event, healthcare subsidy, or other tax item is missing from the model.
 
@@ -101,7 +103,7 @@ Save or list:
 
 ## 10 · Close Tax
 
-**DO** Build Your Plan → **Tax**.
+**DO** Plan → Build & improve → Improve strategy → **Tax strategy**.
 
 **SEE** the available history reviewed, and conversion / harvesting reviews intentionally completed or passed.
 

@@ -16,11 +16,11 @@ The current federal wash-sale rule has historically applied to securities and no
 
 Economic-substance and related-party issues can matter too. A transaction should be real, documented, and completed in a way that supports the reported loss.
 
-For gain harvesting, remember that the zero-percent capital-gains bracket is not a separate empty bucket floating above the return. Long-term gains stack on top of ordinary taxable income. A conversion, salary, pension, or other gain can consume the same space.
+For gain harvesting, long-term gains stack on top of ordinary taxable income. That full stack determines how much room remains in the zero-percent capital-gains bracket. A conversion, salary, pension, or other gain can consume the same space.
 
 The benefit is a higher basis. If a lot with a large unrealized gain is realized at a low rate and reacquired, a later sale may create a smaller gain. But the current sale can affect state tax, healthcare subsidies, and other income-based thresholds.
 
-Do not harvest simply because the dashboard shows a candidate. Ask what the realized amount does to the entire year's tax picture and whether the new basis is likely to matter for future spending or estate plans.
+Use the lot-level candidate list in Tax strategy as a starting point. Then calculate what the realized amount does to the entire year's tax picture and whether the new basis matters for future spending or estate plans.
 
 Keep the trade confirmations, lot records, and methodology with the tax file. The Form 8949 export is a handoff, not a substitute for reviewing whether the transaction and identification were reported correctly.
 

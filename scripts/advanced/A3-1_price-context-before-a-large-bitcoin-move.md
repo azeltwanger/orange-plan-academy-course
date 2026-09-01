@@ -4,7 +4,7 @@ A3.1 Use price context to name the emotion before a large Bitcoin move
 PUBLICATION GATE: Ready after the current price-context data shown in the app is verified. This lesson is a decision check, not a market-timing system.
 ============================================================
 
-Price context does not tell you whether to buy or sell. It tells you what emotion is most likely influencing the decision.
+Price context identifies the emotion most likely influencing the decision. The full plan still decides whether a buy, sale, or borrowing move is supportable.
 
 Before a large Bitcoin purchase, allocation change, or loan, compare the current price with several timeframes: a few months ago, one year ago, and several years ago.
 

@@ -1,44 +1,51 @@
 # Orange Plan Academy — Advanced Library
 
-Every lesson is optional and gated by the condition or professional review stated at the top. These drafts were rebuilt to extend the core course rather than create a competing course sequence.
+The Advanced Library extends the core course under the same Orange Plan V1 product contracts. Every lesson is optional and keeps the condition or professional review stated at the top. Exact app paths and provider-specific mechanics are verified against the same approved Preview or provider version used on camera.
 
 # Advanced Module 1 — Foundation
 
-## A1.1 How Orange Plan models Bitcoin inside the confidence check
+## A1.1 How Orange Plan models Bitcoin inside the simulation test
 
-> **Gate.** Research complete. Record after the current Help & Methodology copy and production settings are checked against the same app commit used on camera.
+*`TEACH` · ~2.7 min · PRE-DICTATION FILMING DRAFT*
 
-The confidence number is only useful if the market paths are difficult enough to test the plan and honest enough not to flatter the Bitcoin assumption.
+> **Publication gate:** Research complete. Record after Help & Methodology, production settings, and the exact simulation engine are checked against the same app commit used on camera.
 
-Orange Plan does not treat Bitcoin like a generic stock with a slightly larger standard deviation. Bitcoin gets its own return process because the shape of its history is different.
+So in this lesson, we're going to cover how Orange Plan creates the Bitcoin market paths behind the 1,000-simulation result.
 
-The first difference is the tails. Extreme positive and negative years happen more often than a normal bell curve would suggest. A model built around a polite normal distribution can understate the very outcomes a Bitcoin holder cares about most.
+A useful simulation needs difficult market paths and a return process that matches the type of asset being modeled.
 
-The second difference is asymmetry. Bitcoin has had very large upside years as well as deep drawdowns. The distribution needs to preserve the possibility of both rather than forcing the positive and negative sides into a perfectly symmetrical shape.
+Orange Plan gives Bitcoin its own return process because Bitcoin's historical return shape differs from a generic stock.
 
-The third difference is maturity. A larger asset should not be assumed to keep the same volatility forever. The model allows volatility to decline over time as Bitcoin grows, while still leaving room for difficult sequences.
+The first difference is the tails. Extreme positive and negative years have occurred more often than a normal bell curve would suggest. A polite normal distribution can understate the outcomes a Bitcoin holder most needs to test.
 
-The fourth difference is correlation. Bitcoin, stocks, inflation, and interest-rate conditions are not independent in every bad year. The simulation links the major asset classes so a stress path can include several problems at once instead of conveniently offsetting each other every time.
+The second difference is asymmetry. Bitcoin has had very large upside years along with deep drawdowns. The model preserves room for both sides instead of forcing them into a perfectly symmetrical shape.
 
-The straight-line growth assumption still matters. If you enter an unrealistic return, the simulation cannot rescue the plan from a bad premise. What the calibration does is prevent the random paths from secretly adding another layer of optimism on top of the selected assumption. The median modeled result is checked against the deterministic projection under the same settings.
+The third difference is maturity. The volatility schedule can decline as Bitcoin grows, while difficult sequences remain possible. A larger asset requires more capital to move by the same percentage.
 
-The comparison also uses matched paths. When you compare retiring at sixty with retiring at sixty-five, or selling with borrowing, both strategies are tested against the same market sequences. One strategy does not get easier weather by accident.
+The fourth difference is correlation. Bitcoin, stocks, inflation, and interest-rate conditions can become difficult at the same time. The simulation links major assets and economic variables so a stress path can contain several problems together.
 
-And the result is repeatable. With the same inputs and same saved settings, the confidence result should not jump around merely because you pressed the button twice. If it changes, a market value, plan input, or strategy changed.
+The straight-line growth assumption still controls the long-run premise. An unrealistic return assumption produces an unrealistic plan. Calibration keeps the random paths from adding another hidden layer of optimism: the median modeled result is checked against the deterministic projection under the same settings.
 
-The important boundary is that this is still a model. Historical data cannot tell us the exact future distribution, and Bitcoin can behave outside the ranges anybody expected. Use the confidence result to compare decisions and find fragility, not as a promise that a specific percentage will occur.
+Strategy comparisons use matched paths. Retiring at 60 and retiring at 65 face the same 1,000 market sequences. Selling and borrowing face the same sequences too. The comparison changes the decision while holding the weather constant.
 
-The current distributions, volatility schedule, correlations, and caps belong in Help & Methodology rather than being frozen into an evergreen recording. Before filming, open that page and verify that the explanation and the production engine still match.
+The result is repeatable. The same inputs and saved settings produce the same simulation count. A changed result points to a changed market value, plan fact, assumption, or strategy.
+
+The normal product uses the Orange Plan standard of 800 successful simulations out of 1,000. A custom standard belongs under Advanced model settings. Changing that standard changes which retirement date qualifies; it does not change the market paths or make the plan itself safer.
+
+Use historical data to build a documented range of market paths, then use the simulation count to compare decisions, find fragility, and understand the plan's dependence on sequence. The exact future distribution remains unknown. Treat it as a model with documented assumptions.
+
+The current distributions, volatility schedule, correlations, caps, calibration tests, and through-age definition belong in Help & Methodology. Before recording, verify that the explanation and production engine still match the same app commit.
 
 ---
-
 # Advanced Module 3 — Allocation + Next-Dollar
 
 ## A3.1 Use price context to name the emotion before a large Bitcoin move
 
-> **Gate.** Ready after the current price-context data shown in the app is verified. This lesson is a decision check, not a market-timing system.
+*`TEACH` · ~2.0 min · PRE-DICTATION FILMING DRAFT*
 
-Price context does not tell you whether to buy or sell. It tells you what emotion is most likely influencing the decision.
+> **Publication gate:** Ready after the current price-context data shown in the app is verified. This lesson is a decision check, not a market-timing system.
+
+Price context identifies the emotion most likely influencing the decision. The full plan still decides whether a buy, sale, or borrowing move is supportable.
 
 Before a large Bitcoin purchase, allocation change, or loan, compare the current price with several timeframes: a few months ago, one year ago, and several years ago.
 
@@ -61,12 +68,13 @@ Then return to the plan. A large purchase needs a real surplus and a Reserve. A 
 The price context never replaces those decisions. It simply makes the emotional environment visible before it drives them.
 
 ---
-
 # Advanced Module 4 — Debt Strategy
 
 ## A4.1 Borrow against Bitcoin without turning a drawdown into liquidation
 
-> **Gate.** Research complete. Verify the exact lender terms, margin-call rules, liquidation rules, custody model, and current app fields before recording any provider-specific example.
+*`TEACH` · ~3.6 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Verify the exact lender terms, margin-call rules, liquidation rules, custody model, and current app fields before recording any provider-specific example.
 
 A Bitcoin-backed loan can create liquidity without selling the collateral at the start. It can also turn an ordinary Bitcoin drawdown into a forced sale if the loan is too large or the operating plan is vague.
 
@@ -78,9 +86,9 @@ As Bitcoin falls, the collateral value falls and the LTV rises even when the loa
 
 The lender may have a margin-call or top-up level, a liquidation level, or an automatic collateral process. Those terms are contractual and can differ materially. Read the actual agreement rather than assuming one lender works like another.
 
-The useful question is not only today's LTV. It is how far Bitcoin can fall before each trigger.
+Translate today's LTV into the Bitcoin price and percentage decline that reaches each trigger.
 
-For a simple example with an eighty-percent liquidation line, a twenty-five-percent starting LTV has much more room than a fifty-percent starting LTV. The relationship is not linear. Starting twice as high can remove most of the crash cushion.
+For a simple example with an eighty-percent liquidation line, a twenty-five-percent starting LTV has much more room than a fifty-percent starting LTV. The crash cushion shrinks nonlinearly as the starting LTV rises. Starting twice as high can remove most of the room before liquidation.
 
 Model the price at the margin call and liquidation line in dollars. A percentage can feel abstract. A statement that the loan becomes critical at a specific Bitcoin price is much easier to monitor.
 
@@ -95,11 +103,11 @@ Then build the operating rules before taking the loan:
 - How often is the position checked, and who checks it if you are unavailable?
 - What conditions mean no new borrowing?
 
-Separate the loan collateral from the emergency Reserve. Bitcoin held for an automatic top-up is not the same thing as cash available to pay living expenses. And collateral held by a lender is not the same thing as Bitcoin in your own custody.
+Separate the loan collateral from the emergency Reserve. Separate the resources by job: automatic top-up Bitcoin protects the loan, cash pays living expenses, and collateral at the lender carries different access and counterparty risk from Bitcoin in your own custody.
 
 Counterparty risk matters even when the LTV is conservative. Understand rehypothecation, bankruptcy treatment, withdrawal or collateral-release rules, jurisdiction, insurance claims, and what happens if the lender changes terms or stops operating.
 
-The tax pitch needs nuance too. Loan proceeds generally are not income when a bona fide loan is created. A later liquidation is a sale of collateral and may create a taxable gain or loss. Forgiveness or another restructuring can create different consequences. The phrase "borrow and never pay tax" is not a complete plan.
+The tax pitch needs nuance too. A bona fide loan generally provides proceeds without income at origination. A later liquidation sells collateral and may create a taxable gain or loss. Forgiveness or another restructuring can create different consequences. The phrase "borrow and never pay tax" is not a complete plan.
 
 New borrowing to buy more Bitcoin needs a higher standard than keeping an existing low-rate mortgage. You are adding leverage to the same asset that secures the loan. A price decline hurts the investment and the collateral ratio at the same time.
 
@@ -108,10 +116,11 @@ A strong version starts with a low LTV, a durable repayment source, collateral o
 Use the app to model the lender-versus-custody chart, the fall-to-trigger prices, interest cost, and estate impact. The app can show the trade-off. It cannot make the contract safer than the actual lender terms.
 
 ---
-
 ## A4.2 The four ways debt can strengthen a plan, and how each one fails
 
-> **Gate.** Ready as an educational mechanism lesson. Do not recommend a specific loan, lender, rate, or amount.
+*`TEACH` · ~2.2 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Ready as an educational mechanism lesson. Do not recommend a specific loan, lender, rate, or amount.
 
 Debt is useful when it gives the plan more flexibility or growth than the risk it adds. The mechanism matters more than whether the debt sounds good or bad.
 
@@ -135,19 +144,20 @@ Every use needs the defensive foundation first: a Reserve, manageable required p
 
 Compare the full alternatives. Paying cash may create taxes or remove liquidity. Borrowing may preserve assets but add interest and fragility. Doing nothing may keep flexibility but delay the goal.
 
-The planning question is not whether debt can build wealth. It can. The question is whether this specific debt improves the whole plan after the payment, taxes, downside, and behavior are included.
+Debt can build wealth when the specific loan improves the whole plan after the payment, taxes, downside, and household behavior are included. That is the test.
 
 ---
-
 # Advanced Module 5 — Tax Strategy
 
 ## A5.1 RMD pressure and Roth conversions across the low-income window
 
-> **Gate.** Research complete. Targeted CPA or EA review before publication; verify the current RMD age, brackets, Medicare rules, and healthcare interactions in the year of action.
+*`TEACH` · ~2.9 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Targeted CPA or EA review before publication; verify the current RMD age, brackets, Medicare rules, and healthcare interactions in the year of action.
 
 A large Traditional account can look like tax-free growth while it is accumulating. It is really tax deferred. The tax has not disappeared, and future required distributions can remove control over when the income appears.
 
-The required beginning age depends on current law and the owner's birth year, so do not build the strategy around one age from an old article. The planning issue is the same: money may be forced out later, on top of Social Security, pensions, and other income.
+Verify the required beginning age under current law for the owner's birth year. The planning issue is that required distributions may later stack on top of Social Security, pensions, and other income.
 
 For a high-growth asset, the pressure can build quickly. A large Traditional balance means the future tax bill is also compounding.
 
@@ -155,7 +165,7 @@ The opportunity often appears after work ends and before the larger income sourc
 
 In those years, ordinary taxable income may be low. A Roth conversion deliberately recognizes income by moving money from a Traditional account to a Roth. The tax is paid now, the Traditional balance is reduced, and future qualified Roth withdrawals can be tax-free.
 
-The goal is not automatically to convert as much as possible. It is to compare the rate paid now with the expected lifetime cost of leaving the money in the Traditional account.
+Compare the rate paid now with the expected lifetime cost of leaving the money in the Traditional account, then choose the conversion range that uses the window well.
 
 Start with the ordinary-income brackets, but do not stop there.
 
@@ -172,7 +182,7 @@ A conversion can affect:
 
 That means the true marginal cost of the next conversion dollar may be higher than the bracket printed on the tax table.
 
-An RMD itself generally cannot be converted. The required amount must first be distributed under the applicable rules, and any additional eligible amount can be considered separately. After-tax basis inside an IRA also changes the calculation and can trigger pro-rata treatment across the owner's IRAs.
+Distribute the required amount under the applicable rules first. Then consider a conversion of any additional eligible amount separately; the RMD itself generally is not convertible. After-tax basis inside an IRA also changes the calculation and can trigger pro-rata treatment across the owner's IRAs.
 
 Paying the conversion tax from outside cash can preserve more of the Roth amount, but that cash also has an opportunity cost. If paying the tax weakens the Reserve or forces another taxable sale, include that in the comparison.
 
@@ -183,10 +193,11 @@ The app can model a multi-year conversion schedule and show future required-dist
 The question to ask is not simply, "How much can I convert?" It is, "How much ordinary-income room is actually worth using this year after every interaction is included?"
 
 ---
-
 ## A5.2 Harvest Bitcoin losses and gains without losing the tax story
 
-> **Gate.** Research complete. Targeted CPA or EA review before publication; verify current digital-asset wash-sale treatment and lot-identification requirements before execution.
+*`TEACH` · ~2.6 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Targeted CPA or EA review before publication; verify current digital-asset wash-sale treatment and lot-identification requirements before execution.
 
 Bitcoin's volatility can create tax opportunities in both directions.
 
@@ -202,11 +213,11 @@ The current federal wash-sale rule has historically applied to securities and no
 
 Economic-substance and related-party issues can matter too. A transaction should be real, documented, and completed in a way that supports the reported loss.
 
-For gain harvesting, remember that the zero-percent capital-gains bracket is not a separate empty bucket floating above the return. Long-term gains stack on top of ordinary taxable income. A conversion, salary, pension, or other gain can consume the same space.
+For gain harvesting, long-term gains stack on top of ordinary taxable income. That full stack determines how much room remains in the zero-percent capital-gains bracket. A conversion, salary, pension, or other gain can consume the same space.
 
 The benefit is a higher basis. If a lot with a large unrealized gain is realized at a low rate and reacquired, a later sale may create a smaller gain. But the current sale can affect state tax, healthcare subsidies, and other income-based thresholds.
 
-Do not harvest simply because the dashboard shows a candidate. Ask what the realized amount does to the entire year's tax picture and whether the new basis is likely to matter for future spending or estate plans.
+Use the lot-level candidate list in Tax strategy as a starting point. Then calculate what the realized amount does to the entire year's tax picture and whether the new basis matters for future spending or estate plans.
 
 Keep the trade confirmations, lot records, and methodology with the tax file. The Form 8949 export is a handoff, not a substitute for reviewing whether the transaction and identification were reported correctly.
 
@@ -219,10 +230,11 @@ The planning questions are:
 - What must be verified under current law before the trade?
 
 ---
-
 ## A5.3 State taxes and relocation: measure the lever before moving
 
-> **Gate.** Research complete. Targeted CPA or state-tax attorney review before publication; verify both origin-state and destination-state residency rules.
+*`TEACH` · ~1.9 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Targeted CPA or state-tax attorney review before publication; verify both origin-state and destination-state residency rules.
 
 State tax can materially change the cost of a large Bitcoin sale, Roth conversion, or business-income year.
 
@@ -236,19 +248,20 @@ States may look at domicile, days present, homes, work, business activity, famil
 
 A large transaction soon after departure can attract attention. Plan the move and the sale in the correct order, preserve evidence, and understand any part-year or sourcing rules.
 
-The lifestyle cost belongs in the comparison too. Family, healthcare, housing, work, community, travel, and climate can be worth more than the tax difference. A move that saves tax but makes life worse is not automatically an optimization.
+The lifestyle cost belongs in the comparison too. Family, healthcare, housing, work, community, travel, and climate can be worth more than the tax difference. Include the lifestyle cost beside the tax savings. The move needs to improve the full plan and the life attached to it.
 
 Use Scenarios to compare the plan under the destination state, including the effect on future taxes and the retirement date. Then take the actual transaction, dates, properties, business ties, and intended move to professionals who understand both states.
 
 Treat relocation as a real life decision that may create a large tax benefit, not a tax trick with a moving truck.
 
 ---
-
 # Advanced Module 6 — Retirement Income
 
 ## A6.1 Health coverage between retirement and Medicare
 
-> **Gate.** Verify all premiums, subsidy rules, membership terms, and HSA eligibility immediately before recording. CrowdHealth is personal experience and not insurance or a recommendation.
+*`TEACH` · ~2.9 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Verify all premiums, subsidy rules, membership terms, and HSA eligibility immediately before recording. CrowdHealth is personal experience and not insurance or a recommendation.
 
 Retiring before Medicare can create a healthcare bridge that lasts for years. The number is large enough to move the retirement date, so it needs to be priced rather than left as a fear.
 
@@ -262,7 +275,7 @@ The major planning lever is modified adjusted gross income. In early retirement,
 
 That creates a tension with the tax plan. A conversion may reduce future RMD pressure but increase marketplace premiums by reducing a subsidy. A lower-conversion strategy may preserve the subsidy but leave more money in the Traditional account. Compare the total cost, not only the income-tax line.
 
-CrowdHealth is the path my family has used, but it needs to be described accurately. It is not health insurance. It is a membership and crowdfunding arrangement with its own eligibility, member-responsibility, bill-negotiation, and funding rules. There is no insurance contract guaranteeing every claim in the same way as regulated coverage.
+CrowdHealth is the path my family has used, but it needs to be described accurately. CrowdHealth is a membership and crowdfunding arrangement with its own eligibility, member-responsibility, bill-negotiation, and funding rules. It is not health insurance. There is no insurance contract guaranteeing every claim in the same way as regulated coverage.
 
 Use current, personal numbers in the recording: the membership cost, the marketplace alternative, and a real event from our experience. Then state clearly that another family can have a different result and that all terms must be verified directly.
 
@@ -283,10 +296,11 @@ Build a side-by-side bridge:
 Enter the chosen cost as part of retirement spending or as an expense event that ends or changes at Medicare. Review it every year because premiums, subsidies, and membership terms change.
 
 ---
-
 ## A6.2 Sell, borrow, or hold when the plan needs a year of spending
 
-> **Gate.** Research complete. Targeted CPA or EA review before publication; verify lender terms and current basis-at-death law before relying on them.
+*`TEACH` · ~2.7 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Targeted CPA or EA review before publication; verify lender terms and current basis-at-death law before relying on them.
 
 A Bitcoin-heavy retirement plan can fund a year of spending by selling, borrowing, using other assets, or leaving a core position untouched while the Reserve and Bridge do the work.
 
@@ -296,11 +310,11 @@ Selling is the simplest. The household receives cash, the gain or loss is report
 
 The cost is the tax, the loss of future upside on the Bitcoin sold, and any emotional difficulty with reducing the position.
 
-Borrowing keeps the collateral exposure at the beginning and generally does not create income merely because bona fide loan proceeds were received. The cost is interest, lender risk, LTV risk, collateral outside self-custody, and a repayment problem that still has to be solved.
+Borrowing keeps the collateral exposure and generally provides bona fide loan proceeds without income at origination. The trade-off is interest, lender risk, LTV risk, collateral outside self-custody, and a repayment problem that still has to be solved.
 
 A later forced liquidation is a sale and can create tax. A long bear market can also make refinancing or collateral top-ups harder exactly when the household has less flexibility.
 
-Holding means deciding that a core Bitcoin position is not a normal spending source. The Reserve, Bridge, income floor, and other accounts fund life while the core compounds or remains part of the estate.
+Holding assigns the core Bitcoin position a long-term or estate job. The Reserve, Bridge, income floor, and other accounts fund life while that core compounds.
 
 Under current federal rules, inherited property may receive a basis adjustment at death, but exceptions, ownership structure, estate inclusion, and future law matter. Do not build the entire plan around one sentence about a step-up without legal and tax review.
 
@@ -319,52 +333,49 @@ The weak version is choosing "never sell" first and forcing every future need in
 Use the Loans workbench as a sandbox. Nothing should change in the baseline until the strategy has been previewed, the lender terms are verified, and the household can explain how the debt gets repaid if Bitcoin does not cooperate.
 
 ---
-
 # Advanced Module 7 — Custody
 
 ## A7.1 Compare passphrase, multisig, institutional custody, and an intentional split
 
-> **Gate.** Research complete. Verify exact devices, wallet software, descriptors, provider roles, institutional terms, and recovery procedures before any setup-specific footage.
+*`TEACH` · ~5.7 min · PRE-DICTATION FILMING DRAFT*
 
-Advanced custody is not a ladder where every serious Bitcoiner eventually puts everything into the most complicated self-custody setup.
+> **Publication gate:** Research complete. Verify exact devices, wallet software, descriptors, provider roles, institutional terms, and recovery procedures before any setup-specific footage.
 
-It is a comparison of which failure you want each method to remove and which responsibilities you are willing to keep.
+Advanced custody compares the failure each method removes with the responsibility the household keeps.
 
-A passphrase wallet uses a normal seed plus an additional passphrase to derive a different wallet. The passphrase is sometimes called a twenty-fifth word, but it does not have to be one word and it is not a second signature.
+A serious Bitcoiner may use passphrase single-sig, collaborative multisig, DIY multisig, institutional custody, or an intentional split. The right answer depends on the amount at stake, the direct control the household values, and the recovery process the family can maintain.
+
+A passphrase wallet uses a normal seed plus an additional passphrase to derive a different wallet. People sometimes call the passphrase a twenty-fifth word, although it can be a longer phrase. It remains a separate secret rather than a second signature.
 
 Anyone with the seed and the exact passphrase can control the intended wallet. A wrong passphrase can still produce a valid but different wallet, which makes recovery mistakes especially dangerous.
 
-What the passphrase changes is what possession of the seed alone can do. It does not remove seed loss, passphrase loss, coercion, physical security, or family-process risk.
+The passphrase changes what possession of the seed alone can do. The remaining risks include seed loss, passphrase loss, coercion, physical security, and a family process that cannot identify the intended wallet.
 
-Test the exact recovery with a trivial amount. The seed-only wallet, the intended passphrase wallet, and a mistyped passphrase can all look valid. The family process has to make the intended wallet unambiguous without placing the two secrets together.
+Test the exact recovery with a trivial amount. The seed-only wallet, the intended passphrase wallet, and a mistyped passphrase can all look valid. The family process has to make the intended wallet unambiguous while keeping the two secrets separated.
 
 A two-of-three multisig wallet uses three signing keys and requires two valid signatures.
 
-One lost key does not necessarily destroy access, and one stolen key does not spend alone. That removes a single-key failure. It does not remove every single point of failure.
+A two-of-three wallet can survive one lost key, and one stolen key cannot spend alone. That removes a single-key failure. The wallet can still depend on the configuration, key distribution, devices, software, locations, provider support, and family process.
 
-The wallet also depends on public configuration information: the keys or xpubs, threshold, script type, derivation paths, fingerprints, and related descriptor or wallet-policy data. That information cannot sign by itself, but it is important for reconstructing the intended wallet and can reveal privacy information.
+The wallet also depends on public configuration information: the keys or xpubs, threshold, script type, derivation paths, fingerprints, and related descriptor or wallet-policy data. This information is required to reconstruct the intended wallet and can reveal privacy details. It has no signing power on its own.
 
 Collaborative multisig shares part of the operational burden with a provider. The customer may hold two keys while the provider holds one, or use another arrangement defined by the service. The provider may retain the wallet configuration, help verify an executor, and guide recovery.
 
-The trade-off is provider involvement, fees, identity checks, jurisdiction, privacy, and the risk that the service changes or disappears. Understand the provider-independent recovery path when the product claims one exists. Export the information and test it instead of relying on a marketing sentence.
+That support comes with provider involvement, fees, identity checks, jurisdiction, privacy trade-offs, and the risk that the service changes or disappears. Verify the provider-independent recovery path when the product claims one exists. Export the required information and test it before meaningful money depends on it.
 
-DIY multisig removes the provider but leaves every task with the household: device diversity, key generation, backups, descriptor storage, software compatibility, transaction signing, inheritance, and periodic testing.
+DIY multisig gives the household full responsibility for device diversity, key generation, backups, descriptor storage, software compatibility, transaction signing, inheritance, and periodic testing.
 
-Device diversity can reduce one-vendor risk. It can also make the process harder to maintain. Three different devices are not automatically safer if nobody can remember which software, cable, firmware, or signing order works ten years later.
+Device diversity can reduce one-vendor risk and increase maintenance. It helps only when the family can maintain the software, firmware, cables, and signing process over time.
 
-Institutional custody is a different trade-off, not a beginner version of self-custody.
+Institutional custody transfers key management and the withdrawal process to an institution. That can protect the household from personal key loss, technical mistakes, and a family being asked to execute a complex wallet recovery during a crisis. It may also provide statements, administrative support, beneficiaries, trust or estate procedures, and a legal or contractual path when access is disputed.
 
-The institution controls the keys and the withdrawal process. That can protect the household from personal key loss, technical mistakes, and a family being asked to execute a complex wallet recovery during a crisis. It may also provide statements, administrative support, beneficiaries, trust or estate procedures, and a legal or contractual path when access is disputed.
+The household accepts counterparty risk, bankruptcy or operational risk, identity verification, withdrawal restrictions, jurisdiction, privacy trade-offs, and less direct control. The account security and family process still matter. The institution transfers part of the operational risk and adds a different set of dependencies.
 
-The trade-off is counterparty risk, bankruptcy or operational risk, identity verification, withdrawal restrictions, jurisdiction, privacy, and less direct control. The account security and family process still matter. An institution does not remove risk; it transfers part of it.
+An intentional split assigns different Bitcoin pools to different failure domains.
 
-An intentional split is an architecture rather than another custody product.
+The household may keep a directly controlled sovereign reserve, use collaborative multisig for a family-accessible pool, and hold retirement-account exposure through a professional custodian. Give each pool a job and use each additional method to remove a named failure.
 
-The household may keep a directly controlled sovereign reserve, use collaborative multisig for a family-accessible pool, and hold retirement-account exposure through a professional custodian. The point is not equal thirds or maximum fragmentation. Each pool needs a job and each additional method needs to remove a named failure.
-
-The split becomes useful when one method, provider, device family, or person would otherwise threaten too much of the plan.
-
-It becomes harmful when the family now has several systems, vendors, passwords, devices, and recovery procedures that nobody can maintain.
+A split is useful when one method, provider, device family, or person would otherwise threaten too much of the plan. It becomes harmful when the family has several systems, vendors, passwords, devices, and recovery procedures that nobody can maintain.
 
 Compare every setup on the same questions:
 
@@ -380,31 +391,30 @@ Compare every setup on the same questions:
 
 Use rough scale instead of putting exact balances into a custody worksheet: replaceable, meaningful, or life-changing.
 
-A single method can be appropriate for a replaceable or noncritical amount when recovery is proven and simplicity is valuable.
+A single method can fit a replaceable or noncritical amount when recovery is proven and simplicity is valuable.
 
-A life-changing amount deserves a harder One-Failure Test. That does not automatically mean multisig. It means the household should be able to explain why no single failure can destroy too much of the plan.
+A life-changing amount deserves a harder One-Failure Test. The household should be able to explain why no single failure can destroy too much of the plan before choosing direct custody, multisig, institutional custody, or a split.
 
-Do not move a life-changing stack directly into a new advanced setup.
+Test a new advanced setup with a trivial amount before moving a life-changing stack. Send and receive. Lose or replace one component on purpose when the process allows it. Recover it. Export the public recovery information. Test the provider-independent path when one is promised. Walk the family through the first call and the role each person has.
 
-Build a small test wallet or account. Send and receive. Lose or replace one component on purpose when the process allows it. Recover it. Export the public recovery information. Test the provider-independent path when one is promised. Walk the family through the first call and the role each person has.
+Document the process and keep the secrets out of the documentation.
 
-Document the process without documenting the secrets.
-
-The safest architecture is not the one with the most hardware or the strongest ideological label. It is the simplest combination that removes the household's actual failure points, preserves the amount of direct control the household values, and can still be recovered by the people who inherit the responsibility.
+The strongest architecture is the simplest combination that removes the household's actual failure points, preserves the amount of direct control the household values, and can still be recovered by the people who inherit the responsibility.
 
 ---
-
 ## A7.2 What self-custody actually asks of you
 
-> **Gate.** Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.
+*`TEACH` · ~2.1 min · PRE-DICTATION FILMING DRAFT*
 
-Self-custody removes a financial institution from the spending decision. It does not remove trust or responsibility. It moves more of both onto you.
+> **Publication gate:** Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.
+
+Self-custody removes a financial institution from the spending decision. Self-custody moves more trust and responsibility onto you.
 
 You still rely on the device manufacturer, firmware, wallet software, random-number generation, the computer or phone used to coordinate a transaction, and your own ability to verify what is happening.
 
 Your job is to generate keys safely, verify addresses on the trusted device, protect recovery material, maintain devices and software, understand fees, avoid scams, and leave a recovery process somebody else can use.
 
-That does not mean everybody should leave Bitcoin with an institution. It means moving into self-custody should follow skill and a real need for direct control rather than identity or pressure from somebody online.
+Move into self-custody when the skill and need for direct control justify owning the operational risk. Identity and online pressure are poor reasons to take that responsibility.
 
 Start with a trivial amount.
 
@@ -423,19 +433,20 @@ Then ask whether the setup survives ordinary life:
 
 Maintenance is part of the job. Firmware and wallet software change. Devices become unsupported. A backup can be moved or damaged. A passphrase can be forgotten. A multisig descriptor can be lost. A family member who once understood the process may no longer be available.
 
-Schedule a yearly recovery exercise using a test wallet or another procedure that does not expose live secrets. Review the locations, people, devices, software, and provider contacts.
+Schedule a yearly recovery exercise using a test wallet or another safe procedure, then review the locations, people, devices, software, and provider contacts. Keep live secrets out of the exercise.
 
 Self-custody should create confidence, not constant fear.
 
 A smaller amount in a simple, tested setup is better than a life-changing amount in a complex setup copied from somebody else. And keeping some professionally supported Bitcoin is not a failure of conviction when it solves a real family or operational risk.
 
-The question is not whether self-custody is morally better. The question is which risks you want to own directly and whether the household can keep owning them for decades.
+Decide which risks you want to own directly and whether the household can keep owning them for decades. That is the useful self-custody question.
 
 ---
-
 ## A7.3 Run the One-Failure Test across methods and providers
 
-> **Gate.** Research complete. Verify provider and device facts before naming them; no vendor-specific recommendation is implied.
+*`TEACH` · ~3.6 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Verify provider and device facts before naming them; no vendor-specific recommendation is implied.
 
 Concentration risk is not only holding too much Bitcoin.
 
@@ -485,7 +496,7 @@ A useful second question is:
 
 > If this entire pool became inaccessible, would the financial plan still survive?
 
-The answer does not have to be that every pool is perfectly replaceable. The goal is to know which loss would be catastrophic and whether that exposure is intentional.
+Identify which loss would be catastrophic and decide whether that exposure is intentional.
 
 Separate custody pools can make sense when they have separate jobs or when one failure would otherwise threaten too much of the plan.
 
@@ -495,7 +506,7 @@ The opposite can also be true. A household that values simplicity and has a well
 
 Diversification has a cost: more devices, more providers, more interfaces, more recovery documents, and more ways for the family to get confused.
 
-The goal is not maximum fragmentation.
+Use the fewest independent systems that remove the catastrophic failures.
 
 Every additional method has to solve a named risk. Set a maximum exposure to one provider or failure domain only when the household can explain what that limit protects against.
 
@@ -507,13 +518,14 @@ At the annual review:
 4. Ask what one event could still affect everything.
 5. Fix the largest shared dependency before adding more complexity.
 
-A setup does not become safer merely because the diagram has more boxes. It becomes safer when a real failure can happen and the family plan still survives.
+A setup becomes safer when a real failure can happen and the family plan still survives. Extra boxes help only when they remove a named failure.
 
 ---
-
 ## A7.4 UTXOs, dust, consolidation, and address use
 
-> **Gate.** Research complete. Verify current wallet behavior and network fees before demonstrating; use a test wallet and never expose live addresses unnecessarily.
+*`TEACH` · ~2.2 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Verify current wallet behavior and network fees before demonstrating; use a test wallet and never expose live addresses unnecessarily.
 
 A Bitcoin wallet balance is made of individual unspent transaction outputs, or UTXOs. They are closer to separate bills in a wallet than one bank-account balance.
 
@@ -531,25 +543,24 @@ Coin control lets an experienced user choose which UTXOs are spent. It can help 
 
 Address reuse reduces privacy because multiple receipts become easy to associate. A modern wallet normally generates a new receive address from the same wallet for each payment. Verify the address on the trusted signing device before sharing it.
 
-Keep tax lots and UTXOs conceptually separate. One is an on-chain spendable output; the other is a tax-accounting record. A transaction can combine UTXOs from several tax lots, and moving Bitcoin does not automatically establish which tax lot was sold.
+Keep tax lots and UTXOs conceptually separate. One is an on-chain spendable output; the other is a tax-accounting record. A transaction can combine UTXOs from several tax lots. The tax records still need to identify which lot was disposed of.
 
 Review UTXO health at the annual custody check: too many tiny outputs, any consolidation worth planning, current fees, privacy implications, and whether the wallet and backup still reconstruct the same addresses.
 
 ---
-
 # Advanced Module 8 — Estate + Inheritance
 
 ## A8.1 Do you need a trust, and what job would it do?
 
-> **Gate.** Research complete. State-licensed estate attorney signoff before publication; no template language or universal Bitcoin trust design is approved here.
+*`TEACH` · ~4.5 min · PRE-DICTATION FILMING DRAFT*
 
-A trust is a tool for a specific legal or family job. It is not an automatic upgrade because the estate owns Bitcoin.
+> **Publication gate:** Research complete. State-licensed estate attorney signoff before publication; no template language or universal Bitcoin trust design is approved here.
 
-Start with the triggers.
+A trust is a tool for a specific legal or family job. Start with the triggers that give a trust a specific job. Bitcoin ownership by itself does not establish the need.
 
 A trust conversation becomes more useful when the estate may face federal or state estate tax, the family is blended or includes minor or special-needs beneficiaries, the owner wants to control timing or conditions of distributions, incapacity planning matters, privacy or probate avoidance is important, or creditor and divorce risks need to be considered.
 
-A large, fast-growing Bitcoin position can also move an estate into a different planning category over time. The relevant number is not only today's net worth. It is what the estate may become under assumptions the household actually believes.
+A large, fast-growing Bitcoin position can also move an estate into a different planning category over time. Use both today's net worth and the projected estate under assumptions the household actually believes.
 
 Few triggers can mean the baseline will, powers, beneficiary work, and custody plan are enough. That is a successful answer, not a failure to use an advanced tool.
 
@@ -575,17 +586,17 @@ What happens if the trustee believes holding concentrated Bitcoin violates fiduc
 
 Trustees are generally subject to duties of prudence, loyalty, impartiality, and administration under the governing law and document. Diversification is often a default expectation, but how that duty can be changed or applied depends on the state and the exact trust language.
 
-Do not assume one sentence waiving the prudent-investor rule solves every concentrated-Bitcoin trust. The attorney needs to draft the investment authority, concentration language, risk disclosures, delegation, custody powers, valuation process, and successor-trustee instructions for the governing state.
+A concentrated-Bitcoin trust needs complete investment authority, concentration language, risk disclosures, delegation, custody powers, valuation process, and successor-trustee instructions drafted for the governing state. One waiver sentence cannot carry all of those jobs.
 
 Custody design is part of the legal design.
 
-A trustee holding one key in a two-of-three wallet does not automatically have control, but the other key holders, descriptor, provider, and legal authority determine what the arrangement actually does. A trustee holding a seed and passphrase may have full technical control even if the paperwork describes a different intention.
+One trustee key in a two-of-three wallet lacks unilateral technical control. The other key holders, descriptor, provider, and legal authority determine the full arrangement. A trustee holding both a seed and passphrase may have full technical control even when the paperwork describes a different intention.
 
 The legal ownership, tax treatment, and practical key control must tell the same story.
 
 Funding the trust can create gift, income-tax, reporting, basis, or transfer issues. Moving an asset into a revocable trust is different from making a completed gift to an irrevocable trust. The treatment also changes based on grantor-trust status, retained powers, beneficiaries, jurisdiction, and whether the asset is included in the estate.
 
-Use the app to project terminal estate values under several defensible Bitcoin assumptions. Compare the projected estate with current federal and state exposure, but do not hard-code one exemption into a video. Then bring the report, custody map, family goals, and current ownership structure to an attorney and tax professional.
+Use the app to project terminal estate values under several defensible Bitcoin assumptions. Compare the projected estate with current federal and state exposure using the current exemption figures, then bring the report, custody map, family goals, and ownership structure to an attorney and tax professional. Keep the changing exemption figure out of the recorded video.
 
 The questions to ask are:
 
@@ -597,6 +608,6 @@ The questions to ask are:
 - How do the trustee and custody keys work together?
 - What happens when the trustee, provider, device, law, or family changes?
 
-If the answers are vague, the plan is not ready to fund. A trust should make the transfer, control, or tax outcome clearer. It should not create a legal document that depends on a custody process nobody can execute.
+Fund the trust after the transfer, control, tax outcome, and custody process are clear enough to execute. It should not create a legal document that depends on a custody process nobody can execute.
 
 ---

@@ -2,11 +2,13 @@
 
 ## A5.1 RMD pressure and Roth conversions across the low-income window
 
-> **Gate.** Research complete. Targeted CPA or EA review before publication; verify the current RMD age, brackets, Medicare rules, and healthcare interactions in the year of action.
+*`TEACH` · ~2.9 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Targeted CPA or EA review before publication; verify the current RMD age, brackets, Medicare rules, and healthcare interactions in the year of action.
 
 A large Traditional account can look like tax-free growth while it is accumulating. It is really tax deferred. The tax has not disappeared, and future required distributions can remove control over when the income appears.
 
-The required beginning age depends on current law and the owner's birth year, so do not build the strategy around one age from an old article. The planning issue is the same: money may be forced out later, on top of Social Security, pensions, and other income.
+Verify the required beginning age under current law for the owner's birth year. The planning issue is that required distributions may later stack on top of Social Security, pensions, and other income.
 
 For a high-growth asset, the pressure can build quickly. A large Traditional balance means the future tax bill is also compounding.
 
@@ -14,7 +16,7 @@ The opportunity often appears after work ends and before the larger income sourc
 
 In those years, ordinary taxable income may be low. A Roth conversion deliberately recognizes income by moving money from a Traditional account to a Roth. The tax is paid now, the Traditional balance is reduced, and future qualified Roth withdrawals can be tax-free.
 
-The goal is not automatically to convert as much as possible. It is to compare the rate paid now with the expected lifetime cost of leaving the money in the Traditional account.
+Compare the rate paid now with the expected lifetime cost of leaving the money in the Traditional account, then choose the conversion range that uses the window well.
 
 Start with the ordinary-income brackets, but do not stop there.
 
@@ -31,7 +33,7 @@ A conversion can affect:
 
 That means the true marginal cost of the next conversion dollar may be higher than the bracket printed on the tax table.
 
-An RMD itself generally cannot be converted. The required amount must first be distributed under the applicable rules, and any additional eligible amount can be considered separately. After-tax basis inside an IRA also changes the calculation and can trigger pro-rata treatment across the owner's IRAs.
+Distribute the required amount under the applicable rules first. Then consider a conversion of any additional eligible amount separately; the RMD itself generally is not convertible. After-tax basis inside an IRA also changes the calculation and can trigger pro-rata treatment across the owner's IRAs.
 
 Paying the conversion tax from outside cash can preserve more of the Roth amount, but that cash also has an opportunity cost. If paying the tax weakens the Reserve or forces another taxable sale, include that in the comparison.
 
@@ -42,10 +44,11 @@ The app can model a multi-year conversion schedule and show future required-dist
 The question to ask is not simply, "How much can I convert?" It is, "How much ordinary-income room is actually worth using this year after every interaction is included?"
 
 ---
-
 ## A5.2 Harvest Bitcoin losses and gains without losing the tax story
 
-> **Gate.** Research complete. Targeted CPA or EA review before publication; verify current digital-asset wash-sale treatment and lot-identification requirements before execution.
+*`TEACH` · ~2.6 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Targeted CPA or EA review before publication; verify current digital-asset wash-sale treatment and lot-identification requirements before execution.
 
 Bitcoin's volatility can create tax opportunities in both directions.
 
@@ -61,11 +64,11 @@ The current federal wash-sale rule has historically applied to securities and no
 
 Economic-substance and related-party issues can matter too. A transaction should be real, documented, and completed in a way that supports the reported loss.
 
-For gain harvesting, remember that the zero-percent capital-gains bracket is not a separate empty bucket floating above the return. Long-term gains stack on top of ordinary taxable income. A conversion, salary, pension, or other gain can consume the same space.
+For gain harvesting, long-term gains stack on top of ordinary taxable income. That full stack determines how much room remains in the zero-percent capital-gains bracket. A conversion, salary, pension, or other gain can consume the same space.
 
 The benefit is a higher basis. If a lot with a large unrealized gain is realized at a low rate and reacquired, a later sale may create a smaller gain. But the current sale can affect state tax, healthcare subsidies, and other income-based thresholds.
 
-Do not harvest simply because the dashboard shows a candidate. Ask what the realized amount does to the entire year's tax picture and whether the new basis is likely to matter for future spending or estate plans.
+Use the lot-level candidate list in Tax strategy as a starting point. Then calculate what the realized amount does to the entire year's tax picture and whether the new basis matters for future spending or estate plans.
 
 Keep the trade confirmations, lot records, and methodology with the tax file. The Form 8949 export is a handoff, not a substitute for reviewing whether the transaction and identification were reported correctly.
 
@@ -78,10 +81,11 @@ The planning questions are:
 - What must be verified under current law before the trade?
 
 ---
-
 ## A5.3 State taxes and relocation: measure the lever before moving
 
-> **Gate.** Research complete. Targeted CPA or state-tax attorney review before publication; verify both origin-state and destination-state residency rules.
+*`TEACH` · ~1.9 min · PRE-DICTATION FILMING DRAFT*
+
+> **Publication gate:** Research complete. Targeted CPA or state-tax attorney review before publication; verify both origin-state and destination-state residency rules.
 
 State tax can materially change the cost of a large Bitcoin sale, Roth conversion, or business-income year.
 
@@ -95,7 +99,7 @@ States may look at domicile, days present, homes, work, business activity, famil
 
 A large transaction soon after departure can attract attention. Plan the move and the sale in the correct order, preserve evidence, and understand any part-year or sourcing rules.
 
-The lifestyle cost belongs in the comparison too. Family, healthcare, housing, work, community, travel, and climate can be worth more than the tax difference. A move that saves tax but makes life worse is not automatically an optimization.
+The lifestyle cost belongs in the comparison too. Family, healthcare, housing, work, community, travel, and climate can be worth more than the tax difference. Include the lifestyle cost beside the tax savings. The move needs to improve the full plan and the life attached to it.
 
 Use Scenarios to compare the plan under the destination state, including the effect on future taxes and the retirement date. Then take the actual transaction, dates, properties, business ties, and intended move to professionals who understand both states.
 

@@ -16,14 +16,13 @@ Trust means they will act in good faith when the family is under pressure.
 
 Pick for the job, not for who would be flattered to be asked. Then ask the person. An executor who has never heard about the role is not part of a working plan yet.
 
-A nontechnical executor can still be a good executor. They do not have to know how to recover a wallet personally. They need a clear process, the right legal authority, and a named technical or custody contact when the setup requires one.
-
+A nontechnical executor can still be a good executor. Give the executor a clear process, the right legal authority, and a named technical or custody contact when the setup requires one. The executor can coordinate the recovery without personally being the wallet expert.
 
 The baseline legal work usually includes four areas.
 
 A will directs how probate assets should be handled and names important roles. It does not control every asset automatically.
 
-A financial power of attorney can give somebody authority to handle financial matters while you are alive but unable to act. That authority generally ends at death, which is why it is not a replacement for the executor or trustee role.
+A financial power of attorney can give somebody authority to handle financial matters while you are alive but unable to act. A power of attorney generally ends at death. The executor or trustee role takes over then.
 
 A healthcare directive covers medical decisions and wishes.
 
@@ -33,11 +32,11 @@ Digital-asset authority matters too. A document can name an executor without nec
 
 The documents and the custody process have to match.
 
-A will cannot move Bitcoin if nobody can recover the wallet. A seed phrase does not give somebody lawful authority to take the asset. Legal authority and technical capability are two separate layers, and the plan needs both.
+The plan needs both legal authority and technical capability. The will identifies who may act; the tested custody process makes the Bitcoin recoverable by the authorized people.
 
-I would start with the baseline even if the estate is not large. A simple plan that exists and is properly executed is more useful than an advanced trust design that never gets finished.
+Start with the legal baseline at every asset level. A simple plan that exists and is properly executed is more useful than an advanced trust design that never gets finished.
 
-Trusts are an advanced decision. They may be useful for probate avoidance, incapacity planning, family control, asset protection, tax planning, or a complicated family situation. They are not automatically required because somebody owns Bitcoin, and a revocable trust is not automatically an estate-tax solution.
+Trusts are an advanced decision used for jobs such as probate avoidance, incapacity planning, family control, asset protection, tax planning, or a complicated family situation. Bitcoin ownership by itself does not establish the need, and a revocable trust generally serves different jobs from estate-tax planning.
 
 If the baseline is straightforward, a local estate-planning attorney who is willing to coordinate with the custody process may be enough.
 
@@ -50,7 +49,7 @@ When interviewing the attorney, I would ask:
 - What state-specific signing, witnessing, or probate rules apply?
 - If a trust may hold concentrated Bitcoin, how will the trustee's duties and the investment language be handled under this state's law?
 
-That last question is not solved by copying one waiver sentence from the internet. Trustee duties and the ability to hold a concentrated asset depend on the governing law, the trust language, and the facts. That is an attorney drafting issue.
+Trustee duties and the authority to hold a concentrated asset depend on the governing law, the complete trust language, and the facts. Have the attorney draft the full authority instead of copying one waiver sentence from the internet. That is an attorney drafting issue.
 
 Before moving on, choose the primary person and backup you would trust to run the process. Confirm whether they are willing. Then list which of the baseline documents and beneficiary reviews are already complete and which still need an appointment.
 

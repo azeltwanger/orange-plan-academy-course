@@ -1,59 +1,40 @@
 # 9.1 · Keep the plan current without rebuilding it every month
 
-A financial plan usually dies from neglect or from being changed so often that nobody trusts it anymore.
+So in this lesson, we're going to build the monthly and annual review rhythm that keeps the plan current.
 
-Maintenance is the middle ground.
+Maintenance updates the facts as life changes and revisits strategy on a schedule. The decisions from the course stay in place until a material fact or a planned review gives you a reason to change them.
 
-You are not rebuilding the strategy every month. You are keeping the facts current so the decisions you already made are still being tested against reality.
-
-I use two rhythms: a short monthly pass and a more complete annual review.
+I use two rhythms: a short monthly pass and a full annual review.
 
 The monthly pass should take around five minutes in a quiet month.
 
-I would check four categories.
+Start on Home. Review Needs Attention, recent activity, account balances, holdings, and debt monitoring. Orange Plan records exact purchases, sales, and uniquely proven internal transfers when the source and account mapping support them. Ambiguous withdrawals, deposits, transfers, corrections, or unsupported activity become one focused question in Needs Attention.
 
-First, money movement: purchases, sales, contributions, withdrawals, transfers, and loan changes that are not already reflected in linked accounts.
+Balance and holdings, recorded activity, and tax details are three separate truths. A linked account can have a fresh balance while some activity or cost basis still needs work. Read each status for the job it actually covers.
 
-Second, income and spending: a raise, a business change, a new recurring expense, or a spending level that has actually moved enough to change the plan.
+Then open Cash Flow. Check income, living spending, taxes, required debt payments, the amount available to save, and the Reserve. One unusual month usually stays in the activity history. A repeated difference or permanent change updates the baseline.
 
-Third, life events: something expected happened, changed date, changed amount, or is no longer likely.
+Open Plan when a modeled fact changed. Recalculate the result and read the freshness state. A price update can move current values and real risks such as LTV or taxes. A strategy change still needs a reason tied to the plan.
 
-Fourth, assumptions and targets: only when the facts or your honest long-term view changed. The Bitcoin price moving this week is not, by itself, a reason to rewrite the return assumptions.
+Choose no more than one to three actions. A short list that gets completed is the useful output of the review.
 
-The current app separates updating holdings from reconstructing old purchase history.
+A quiet month is a successful review. Update the few facts that changed and stop.
 
-A new purchase, sale, or transfer updates what an account owns today. Cost basis and older transaction history can be added or corrected in the Tax workflow without changing the current balance twice.
+The annual review is a four-destination lap.
 
-That distinction matters. The monthly pass keeps the current portfolio accurate. The tax module maintains the evidence behind taxable lots.
+Home answers whether the current financial picture is true. Review the accounts, holdings, activity, debts, source coverage, and unresolved attention items.
 
+Cash Flow answers whether the monthly system is working. Review income, living spending, taxes, debt payments, the Reserve, and contribution routing.
 
-After entering the changes, verify the spending against the plan. One unusual month does not always justify a new baseline. Look for a repeated difference or a permanent change.
+Plan answers whether the future still works. Read the simulation count and freshness, planned retirement date, earliest modeled date, allocation, tax strategy, retirement income, debt strategy, Bitcoin borrowing, and one important scenario. Any proposed strategy change stays in Preview until you save it.
 
-Then choose no more than one to three actions.
+Protect answers whether the family can carry out the plan. Review beneficiaries, custody and access, recovery, heir instructions, trusted people, the dead-man switch, legal readiness, and the plan packet.
 
-A long review list feels productive but usually creates unfinished work. A short list that gets completed every month compounds.
+Run the tax portion before year-end while there is still time to act. Prove one custody recovery, re-run the One-Failure Test, and confirm that the executor, beneficiaries, heir letter, and trusted contacts still fit.
 
-A quiet month is a successful review. If nothing material changed, update what needs updating and stop.
+Recalculate the plan after the facts are current. Save a new copy of Your Plan and a fresh encrypted backup. Then put the next monthly and annual review dates on the calendar.
 
-The annual review is where the whole strategy gets reconsidered.
-
-I would walk the plan in the same order it was built:
-
-- Cash Flow and Reserve: Is spending still realistic? Is the reserve target right? For retirees, run the guardrail and refill review.
-- Allocation: Is the current mix near the target? Can the household still tolerate the dollar loss in a major Bitcoin drawdown? Are the account timeframes still correct?
-- Debt: Does every debt still have the same job? Are the rates current? Is any Bitcoin-backed loan too close to a forced-sale level?
-- Tax: Is basis current? Is there a harvesting, conversion, or state decision that must happen before year-end?
-- Retirement Income: Did spending, Social Security timing, healthcare, or the withdrawal plan change?
-- Custody: Prove one recovery, inspect the backups, and fix the largest new single point of failure.
-- Estate and Insurance: Are the executor, beneficiaries, heir letter, switch recipients, and coverage gaps still current?
-
-This is also where Build Your Plan is useful after the initial course. An open or incomplete area tells you which source data or decision needs attention. The checklist should be derived from the real data where possible, not used as a substitute for entering it.
-
-The app should not train you to react to every red candle. Market prices update the values and may affect real risks such as LTV or taxes, but the strategy changes when a rule or life input changes.
-
-A large drawdown may create a real action if a loan reaches a trigger, the retirement guardrail is breached, or the Reserve is near its floor. In those cases you are following a rule that was set beforehand, not redesigning the plan because the news is loud.
-
-Before the next lesson, choose the day of the month for the short review and the month for the annual review. Put both on the calendar. The app stores the plan; the calendar protects the habit.
+Before moving on, choose the day of the month for the short review and the month for the annual review. The app stores the plan. The calendar protects the habit.
 
 ## Apply it
 
@@ -61,11 +42,13 @@ Use walkthrough 9.3 to enter the decision and confirm what Orange Plan calculate
 
 ## Module checkpoint
 
-- [ ] Every Build Your Plan area is intentionally complete.
-- [ ] The first full 1,000-path confidence result is saved.
-- [ ] The confidence target and earliest date are understood together.
-- [ ] The retirement operating target and guardrail policy are saved.
-- [ ] One scenario was tested without corrupting the baseline.
+- [ ] Every Build & improve area is intentionally complete.
+- [ ] The completed 1,000-simulation result is Current.
+- [ ] The result states how many simulations worked and the through-age.
+- [ ] Planned and earliest modeled retirement dates are understood separately.
+- [ ] The Orange Plan standard of 800 of 1,000 is understood.
+- [ ] Portfolio guardrail status and the annual spending-review rule are understood.
+- [ ] One scenario was tested and any winning decision moved through Current versus Preview.
 - [ ] Monthly and annual review dates are on the calendar.
-- [ ] The yearly report and encrypted backup are saved.
+- [ ] Your Plan PDF and encrypted backup are saved.
 - [ ] Only one to three next actions remain.

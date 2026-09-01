@@ -1,61 +1,45 @@
 TELEPROMPTER SCRIPT — segment 9.1
 9.1 Keep the plan current without rebuilding it every month
-632 words · ~4.1 min at 155 wpm · PRE-DICTATION FILMING DRAFT — rebuilt from Austin's decks, dictation, research, and current app
-SOURCE: Maintenance deck, current transaction and Build Your Plan flows, and Austin's five-minute review rule
+547 words · ~3.5 min at 155 wpm · PRE-DICTATION FILMING DRAFT — Orange Plan V1 aligned and direct-voice reviewed
+SOURCE: V1 Home, Cash Flow, Plan, Protect ownership; Slice 1 account/activity continuity; Austin's five-minute review rule
 ============================================================
 
-A financial plan usually dies from neglect or from being changed so often that nobody trusts it anymore.
+So in this lesson, we're going to build the monthly and annual review rhythm that keeps the plan current.
 
-Maintenance is the middle ground.
+Maintenance updates the facts as life changes and revisits strategy on a schedule. The decisions from the course stay in place until a material fact or a planned review gives you a reason to change them.
 
-You are not rebuilding the strategy every month. You are keeping the facts current so the decisions you already made are still being tested against reality.
-
-I use two rhythms: a short monthly pass and a more complete annual review.
+I use two rhythms: a short monthly pass and a full annual review.
 
 The monthly pass should take around five minutes in a quiet month.
 
-I would check four categories.
+Start on Home. Review Needs Attention, recent activity, account balances, holdings, and debt monitoring. Orange Plan records exact purchases, sales, and uniquely proven internal transfers when the source and account mapping support them. Ambiguous withdrawals, deposits, transfers, corrections, or unsupported activity become one focused question in Needs Attention.
 
-First, money movement: purchases, sales, contributions, withdrawals, transfers, and loan changes that are not already reflected in linked accounts.
+Balance and holdings, recorded activity, and tax details are three separate truths. A linked account can have a fresh balance while some activity or cost basis still needs work. Read each status for the job it actually covers.
 
-Second, income and spending: a raise, a business change, a new recurring expense, or a spending level that has actually moved enough to change the plan.
+Then open Cash Flow. Check income, living spending, taxes, required debt payments, the amount available to save, and the Reserve. One unusual month usually stays in the activity history. A repeated difference or permanent change updates the baseline.
 
-Third, life events: something expected happened, changed date, changed amount, or is no longer likely.
+Open Plan when a modeled fact changed. Recalculate the result and read the freshness state. A price update can move current values and real risks such as LTV or taxes. A strategy change still needs a reason tied to the plan.
 
-Fourth, assumptions and targets: only when the facts or your honest long-term view changed. The Bitcoin price moving this week is not, by itself, a reason to rewrite the return assumptions.
+Choose no more than one to three actions. A short list that gets completed is the useful output of the review.
 
-The current app separates updating holdings from reconstructing old purchase history.
+A quiet month is a successful review. Update the few facts that changed and stop.
 
-A new purchase, sale, or transfer updates what an account owns today. Cost basis and older transaction history can be added or corrected in the Tax workflow without changing the current balance twice.
+🎬 VISUAL — Monthly loop: Home → Cash Flow → Plan only when a modeled fact changed → one to three actions.
 
-That distinction matters. The monthly pass keeps the current portfolio accurate. The tax module maintains the evidence behind taxable lots.
+The annual review is a four-destination lap.
 
-🎬 VISUAL — Monthly loop: This month → update activity → verify spending → review open Build Your Plan tasks → choose 1–3 actions.
+Home answers whether the current financial picture is true. Review the accounts, holdings, activity, debts, source coverage, and unresolved attention items.
 
-After entering the changes, verify the spending against the plan. One unusual month does not always justify a new baseline. Look for a repeated difference or a permanent change.
+Cash Flow answers whether the monthly system is working. Review income, living spending, taxes, debt payments, the Reserve, and contribution routing.
 
-Then choose no more than one to three actions.
+Plan answers whether the future still works. Read the simulation count and freshness, planned retirement date, earliest modeled date, allocation, tax strategy, retirement income, debt strategy, Bitcoin borrowing, and one important scenario. Any proposed strategy change stays in Preview until you save it.
 
-A long review list feels productive but usually creates unfinished work. A short list that gets completed every month compounds.
+Protect answers whether the family can carry out the plan. Review beneficiaries, custody and access, recovery, heir instructions, trusted people, the dead-man switch, legal readiness, and the plan packet.
 
-A quiet month is a successful review. If nothing material changed, update what needs updating and stop.
+🎬 VISUAL — Four-stop annual lap: Home → Cash Flow → Plan → Protect, ending with one to three actions and a fresh copy of Your Plan.
 
-The annual review is where the whole strategy gets reconsidered.
+Run the tax portion before year-end while there is still time to act. Prove one custody recovery, re-run the One-Failure Test, and confirm that the executor, beneficiaries, heir letter, and trusted contacts still fit.
 
-I would walk the plan in the same order it was built:
+Recalculate the plan after the facts are current. Save a new copy of Your Plan and a fresh encrypted backup. Then put the next monthly and annual review dates on the calendar.
 
-- Cash Flow and Reserve: Is spending still realistic? Is the reserve target right? For retirees, run the guardrail and refill review.
-- Allocation: Is the current mix near the target? Can the household still tolerate the dollar loss in a major Bitcoin drawdown? Are the account timeframes still correct?
-- Debt: Does every debt still have the same job? Are the rates current? Is any Bitcoin-backed loan too close to a forced-sale level?
-- Tax: Is basis current? Is there a harvesting, conversion, or state decision that must happen before year-end?
-- Retirement Income: Did spending, Social Security timing, healthcare, or the withdrawal plan change?
-- Custody: Prove one recovery, inspect the backups, and fix the largest new single point of failure.
-- Estate and Insurance: Are the executor, beneficiaries, heir letter, switch recipients, and coverage gaps still current?
-
-This is also where Build Your Plan is useful after the initial course. An open or incomplete area tells you which source data or decision needs attention. The checklist should be derived from the real data where possible, not used as a substitute for entering it.
-
-The app should not train you to react to every red candle. Market prices update the values and may affect real risks such as LTV or taxes, but the strategy changes when a rule or life input changes.
-
-A large drawdown may create a real action if a loan reaches a trigger, the retirement guardrail is breached, or the Reserve is near its floor. In those cases you are following a rule that was set beforehand, not redesigning the plan because the news is loud.
-
-Before the next lesson, choose the day of the month for the short review and the month for the annual review. Put both on the calendar. The app stores the plan; the calendar protects the habit.
+Before moving on, choose the day of the month for the short review and the month for the annual review. The app stores the plan. The calendar protects the habit.

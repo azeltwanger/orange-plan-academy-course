@@ -14,9 +14,9 @@ As Bitcoin falls, the collateral value falls and the LTV rises even when the loa
 
 The lender may have a margin-call or top-up level, a liquidation level, or an automatic collateral process. Those terms are contractual and can differ materially. Read the actual agreement rather than assuming one lender works like another.
 
-The useful question is not only today's LTV. It is how far Bitcoin can fall before each trigger.
+Translate today's LTV into the Bitcoin price and percentage decline that reaches each trigger.
 
-For a simple example with an eighty-percent liquidation line, a twenty-five-percent starting LTV has much more room than a fifty-percent starting LTV. The relationship is not linear. Starting twice as high can remove most of the crash cushion.
+For a simple example with an eighty-percent liquidation line, a twenty-five-percent starting LTV has much more room than a fifty-percent starting LTV. The crash cushion shrinks nonlinearly as the starting LTV rises. Starting twice as high can remove most of the room before liquidation.
 
 Model the price at the margin call and liquidation line in dollars. A percentage can feel abstract. A statement that the loan becomes critical at a specific Bitcoin price is much easier to monitor.
 
@@ -31,11 +31,11 @@ Then build the operating rules before taking the loan:
 - How often is the position checked, and who checks it if you are unavailable?
 - What conditions mean no new borrowing?
 
-Separate the loan collateral from the emergency Reserve. Bitcoin held for an automatic top-up is not the same thing as cash available to pay living expenses. And collateral held by a lender is not the same thing as Bitcoin in your own custody.
+Separate the loan collateral from the emergency Reserve. Separate the resources by job: automatic top-up Bitcoin protects the loan, cash pays living expenses, and collateral at the lender carries different access and counterparty risk from Bitcoin in your own custody.
 
 Counterparty risk matters even when the LTV is conservative. Understand rehypothecation, bankruptcy treatment, withdrawal or collateral-release rules, jurisdiction, insurance claims, and what happens if the lender changes terms or stops operating.
 
-The tax pitch needs nuance too. Loan proceeds generally are not income when a bona fide loan is created. A later liquidation is a sale of collateral and may create a taxable gain or loss. Forgiveness or another restructuring can create different consequences. The phrase "borrow and never pay tax" is not a complete plan.
+The tax pitch needs nuance too. A bona fide loan generally provides proceeds without income at origination. A later liquidation sells collateral and may create a taxable gain or loss. Forgiveness or another restructuring can create different consequences. The phrase "borrow and never pay tax" is not a complete plan.
 
 New borrowing to buy more Bitcoin needs a higher standard than keeping an existing low-rate mortgage. You are adding leverage to the same asset that secures the loan. A price decline hurts the investment and the collateral ratio at the same time.
 

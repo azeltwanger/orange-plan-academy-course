@@ -2,23 +2,25 @@
 
 ## Module 0 — Start Here
 
-**You will build:** Know the course sequence, the US-versus-non-US boundary, the AI tools, and the no-secrets rule.
+**You will build:** Know the course sequence, the US-versus-non-US boundary, the Ask tools, and the no-secrets rule.
 
-- [ ] You know the course is taught in order but implemented through the owning Build Your Plan area.
+- [ ] You know the course is taught in order and implemented through the owning Build & improve area.
 - [ ] You know teach lessons make decisions and walkthroughs perform the clicks.
-- [ ] You have run one useful AI review and know where the daily report and AI export live.
-- [ ] You can state what never goes into an AI tool.
+- [ ] You have used one helpful Ask prompt and know the Daily Bitcoin Market Report and AI export.
+- [ ] You can state what stays out of every AI tool.
 
 ## Module 1 — Foundation
 
-**You will build:** An honest current position and a reviewed baseline model.
+**You will build:** An honest current position, reviewed assumptions, and a first preliminary Plan result.
 
-- [ ] Personal details are accurate.
+- [ ] Household details are accurate.
 - [ ] Every real account and custody location is listed.
 - [ ] Current holdings match the source statements.
-- [ ] You know how new activity differs from historical tax reconstruction.
+- [ ] Balance, activity, and tax-detail coverage are understood separately.
 - [ ] The growth and inflation assumptions were reviewed deliberately.
-- [ ] Build Your Plan shows Foundation complete.
+- [ ] The simulation result is visible with a truthful freshness state.
+- [ ] Planned and earliest modeled retirement dates are understood separately.
+- [ ] Build & improve shows Foundation complete.
 
 ## Module 2 — Cash Flow + Reserve
 
@@ -28,7 +30,7 @@
 - [ ] The surplus is believable and sustainable.
 - [ ] Orange Plan calculated the Reserve target from the selected basis and months.
 - [ ] The monthly Reserve build amount is saved.
-- [ ] Expected life events are in the baseline and hypotheticals are in Scenarios.
+- [ ] Expected life events are in the baseline and hypotheticals are in Plan → Scenarios.
 - [ ] College funding has a commitment and source plan when it applies.
 
 ## Module 3 — Allocation + Next-Dollar
@@ -47,7 +49,7 @@
 
 **You will build:** Current debt terms, a job for every debt, and a final extra-payment amount reflected in Cash Flow Routing.
 
-- [ ] Every active debt has a current balance, rate, and payment or loan-specific terms.
+- [ ] Every active debt has a current balance, rate, payment, and loan-specific terms.
 - [ ] You understand payment capacity and balance-sheet leverage as separate lenses.
 - [ ] Every debt has a job and a reason.
 - [ ] Any Bitcoin-backed loan has written operating triggers.
@@ -67,15 +69,16 @@
 
 ## Module 6 — Retirement Income
 
-**You will build:** A retirement paycheck strategy with accessible Bridge funding and an applied withdrawal order.
+**You will build:** A retirement paycheck strategy with accessible Bridge funding, a saved withdrawal order, and understood spending guardrails.
 
 - [ ] Retirement spending, healthcare, and irregular costs are honest.
 - [ ] The income floor and portfolio-funded gap can be stated from memory.
 - [ ] Bridge years and accessible funding are verified.
 - [ ] Social Security timing was compared when material.
-- [ ] A withdrawal strategy is applied and understood.
-- [ ] Sell, borrow, or hold remains a preview unless intentionally applied.
-- [ ] The first full confidence run is deferred until Module 9.
+- [ ] A withdrawal strategy was previewed and intentionally saved.
+- [ ] Sell, borrow, or hold remains Preview until intentionally saved.
+- [ ] The simulation result is read as a count with a truthful freshness state.
+- [ ] Lower, current, and upper portfolio guardrails are understood.
 
 ## Module 7 — Custody
 
@@ -103,13 +106,15 @@
 
 ## Module 9 — Finish, Test + Maintain
 
-**You will build:** A completed baseline, saved confidence target and retirement date, one tested scenario, yearly report, encrypted backup, and review calendar.
+**You will build:** A completed current baseline, one tested scenario, yearly copy of Your Plan, encrypted backup, and review calendar.
 
-- [ ] Every Build Your Plan area is intentionally complete.
-- [ ] The first full 1,000-path confidence result is saved.
-- [ ] The confidence target and earliest date are understood together.
-- [ ] The retirement operating target and guardrail policy are saved.
-- [ ] One scenario was tested without corrupting the baseline.
+- [ ] Every Build & improve area is intentionally complete.
+- [ ] The completed 1,000-simulation result is Current.
+- [ ] The result states how many simulations worked and the through-age.
+- [ ] Planned and earliest modeled retirement dates are understood separately.
+- [ ] The Orange Plan standard of 800 of 1,000 is understood.
+- [ ] Portfolio guardrail status and the annual spending-review rule are understood.
+- [ ] One scenario was tested and any winning decision moved through Current versus Preview.
 - [ ] Monthly and annual review dates are on the calendar.
-- [ ] The yearly report and encrypted backup are saved.
+- [ ] Your Plan PDF and encrypted backup are saved.
 - [ ] Only one to three next actions remain.
