@@ -205,7 +205,7 @@ The first result may be preliminary. Orange Plan uses four plain states:
 
 Foundation replaces the rough account values with your real accounts and current holdings. Cash Flow verifies income, spending, taxes, debt payments, the Reserve, and expected life events. Allocation decides what the money is for and how new dollars get invested. Debt adds the real loan terms and the job assigned to each debt. Tax adds basis and the planning window. Retirement Income adds the spending, income floor, Bridge, withdrawal order, and guardrail policy. Protect completes the family side of the plan.
 
-Each completed area improves the information underneath the result. The age can move earlier or later as those inputs change. Better information produced a different answer.
+Each completed area improves the information underneath the result. The age can move earlier or later as those inputs change. Better information can produce a different answer.
 
 The first useful Plan result belongs in Foundation because it gives you something to read while the plan is still being built. Module 9 confirms the completed-plan baseline after the major facts and decisions are current.
 
@@ -257,7 +257,7 @@ In the Foundation walkthrough, I'll show you how to replace the rough account es
 
 ## 3 · Add the real accounts
 
-**DO** Home → Accounts → **Add account**.
+**DO** Home → the account section → **Add account**.
 
 **ENTER** account type · recognizable name · owner.
 

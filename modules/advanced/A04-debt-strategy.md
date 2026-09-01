@@ -48,7 +48,7 @@ Use the app to model the lender-versus-custody chart, the fall-to-trigger prices
 ---
 ## A4.2 The four ways debt can strengthen a plan, and how each one fails
 
-*`TEACH` · ~2.3 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~2.2 min · PRE-DICTATION FILMING DRAFT*
 
 > **Publication gate:** Ready as an educational mechanism lesson. Do not recommend a specific loan, lender, rate, or amount.
 
@@ -74,6 +74,6 @@ Every use needs the defensive foundation first: a Reserve, manageable required p
 
 Compare the full alternatives. Paying cash may create taxes or remove liquidity. Borrowing may preserve assets but add interest and fragility. Doing nothing may keep flexibility but delay the goal.
 
-Debt can build wealth. The planning question is whether the specific debt makes this household stronger or more fragile. The question is whether this specific debt improves the whole plan after the payment, taxes, downside, and behavior are included.
+Debt can build wealth when the specific loan improves the whole plan after the payment, taxes, downside, and household behavior are included. That is the test.
 
 ---

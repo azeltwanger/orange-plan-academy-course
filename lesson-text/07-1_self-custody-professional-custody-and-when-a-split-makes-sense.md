@@ -2,7 +2,9 @@
 
 Most custody advice starts by asking, "What is the safest setup?"
 
-I think that is the wrong question, because every setup can fail.
+I start with a different question: Which failure are you trying to survive?
+
+Every setup protects you from one risk by making you responsible for another.
 
 Self-custody protects you from a company freezing withdrawals, failing, or deciding when you can access your Bitcoin. But it makes you responsible for recovery, physical security, and leaving a process your family can follow.
 
@@ -72,7 +74,7 @@ If the answer is yes, the setup may be too concentrated.
 
 A large balance can use direct self-custody, collaborative multisig, institutional custody, or an intentional combination. The right architecture depends on the failures the household needs to survive.
 
-It says the architecture has to match the actual failure that matters.
+The architecture has to match the failure that matters.
 
 A single, well-run method can be enough when the amount is replaceable or not plan-critical, the recovery has been proven, the family dependency is limited, and simplicity is worth more than diversification.
 

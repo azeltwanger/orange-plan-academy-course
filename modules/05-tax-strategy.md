@@ -133,9 +133,9 @@ The tax walkthrough will show the current bucket balances, the conversion analys
 - Last year's return or a current-year income estimate for the professional handoff.
 - Use US-only framing once; do not repeat a disclaimer on every screen.
 
-## 1 · Import the history from the current transaction entry point
+## 1 · Import the history from the current activity entry point
 
-**DO** Dashboard → **Add transaction** → choose the downloaded-file path.
+**DO** Home → Activity, or open the owning account → Activity → use the current **Add / Import activity** action.
 
 **CHOOSE** **Keep my balance** when the file is older history for a current balance already entered. Use **Update my balance** only when the imported activity should change what the account owns now.
 
@@ -147,7 +147,7 @@ The tax walkthrough will show the current bucket balances, the conversion analys
 
 ## 2 · Review tax-lot coverage
 
-**DO** Tax → Tax lots → **View all lots**.
+**DO** Plan → Build & improve → Improve strategy → **Tax strategy** → Tax lots → **View all lots**.
 
 **SEE** complete · partial · missing coverage and the list of unresolved holdings.
 
@@ -173,7 +173,7 @@ The tax walkthrough will show the current bucket balances, the conversion analys
 
 ## 5 · Model a Roth conversion
 
-**DO** Tax → current-year moves → Roth conversion → compare strategies.
+**DO** Tax strategy → current-year moves → Roth conversion → compare strategies.
 
 **SEE** conversion amount · tax cost · after-tax outcome · future Traditional balance / required-distribution pressure.
 
@@ -205,7 +205,7 @@ The tax walkthrough will show the current bucket balances, the conversion analys
 
 ## 8 · Run the tax review
 
-**DO** Tax → **Review Tax Strategy**.
+**DO** Open **Ask** from the header while Tax strategy is on screen.
 
 **ANSWER** whether a sale, inheritance, business event, healthcare subsidy, or other tax item is missing from the model.
 
@@ -225,7 +225,7 @@ Save or list:
 
 ## 10 · Close Tax
 
-**DO** Build & improve → **Tax**.
+**DO** Plan → Build & improve → Improve strategy → **Tax strategy**.
 
 **SEE** the available history reviewed, and conversion / harvesting reviews intentionally completed or passed.
 

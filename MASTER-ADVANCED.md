@@ -1,6 +1,6 @@
 # Orange Plan Academy — Advanced Library
 
-Every lesson is optional and gated by the condition or professional review stated at the top. These drafts were rebuilt to extend the core course rather than create a competing course sequence.
+The Advanced Library extends the core course under the same Orange Plan V1 product contracts. Every lesson is optional and keeps the condition or professional review stated at the top. Exact app paths and provider-specific mechanics are verified against the same approved Preview or provider version used on camera.
 
 # Advanced Module 1 — Foundation
 
@@ -118,7 +118,7 @@ Use the app to model the lender-versus-custody chart, the fall-to-trigger prices
 ---
 ## A4.2 The four ways debt can strengthen a plan, and how each one fails
 
-*`TEACH` · ~2.3 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~2.2 min · PRE-DICTATION FILMING DRAFT*
 
 > **Publication gate:** Ready as an educational mechanism lesson. Do not recommend a specific loan, lender, rate, or amount.
 
@@ -144,7 +144,7 @@ Every use needs the defensive foundation first: a Reserve, manageable required p
 
 Compare the full alternatives. Paying cash may create taxes or remove liquidity. Borrowing may preserve assets but add interest and fragility. Doing nothing may keep flexibility but delay the goal.
 
-Debt can build wealth. The planning question is whether the specific debt makes this household stronger or more fragile. The question is whether this specific debt improves the whole plan after the payment, taxes, downside, and behavior are included.
+Debt can build wealth when the specific loan improves the whole plan after the payment, taxes, downside, and household behavior are included. That is the test.
 
 ---
 # Advanced Module 5 — Tax Strategy
@@ -217,7 +217,7 @@ For gain harvesting, long-term gains stack on top of ordinary taxable income. Th
 
 The benefit is a higher basis. If a lot with a large unrealized gain is realized at a low rate and reacquired, a later sale may create a smaller gain. But the current sale can affect state tax, healthcare subsidies, and other income-based thresholds.
 
-Use the dashboard candidate as a starting point. Then calculate what the realized amount does to the entire year's tax picture and whether the new basis matters for future spending or estate plans.
+Use the lot-level candidate list in Tax strategy as a starting point. Then calculate what the realized amount does to the entire year's tax picture and whether the new basis matters for future spending or estate plans.
 
 Keep the trade confirmations, lot records, and methodology with the tax file. The Form 8949 export is a handoff, not a substitute for reviewing whether the transaction and identification were reported correctly.
 

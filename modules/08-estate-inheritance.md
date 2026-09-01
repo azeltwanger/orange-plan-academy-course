@@ -123,11 +123,11 @@ The heir letter in the next lesson tells the family how to start without disclos
 
 *`TEACH` · ~4.0 min · PRE-DICTATION FILMING DRAFT*
 
-The heir letter is the calm starting point your family receives when they are least prepared to solve a technical and financial problem.
+The heir letter is the calm, no-secrets starting point your family receives when they are least prepared to solve a technical and financial problem.
 
-The heir letter is a no-secrets orientation document for the family. And it is not a list of passwords.
+It gives them the first call to make, the first documents to find, and the first mistakes to avoid.
 
-Its job is to answer the first practical questions:
+It should answer these practical questions:
 
 - Who should I call first?
 - What types of accounts and assets exist?
@@ -266,7 +266,7 @@ Finish with a clear list of which risks the Reserve and stack can carry, which r
 
 **⚠** Never enter seeds, keys, passphrases, PINs, passwords, exact recovery steps, or storage coordinates.
 
-**OPTIONAL** Show Draft with AI only after restating the no-secrets rule. Review every generated line.
+**OPTIONAL** Open **Ask** from the header and use it to review whether the no-secrets letter is missing a contact, warning, or next step. Keep every change in the heir-letter workspace and review every line.
 
 ## 3 · Download and place the document
 
@@ -326,7 +326,7 @@ Using a no-secrets table, state:
 
 ## 8 · Close Protect
 
-**DO** Build & improve → Protect.
+**DO** Return to Protect.
 
 **SEE** beneficiaries · heir letter · downloaded copy complete; outside legal, custody, and insurance actions remain visible in the production checklist.
 

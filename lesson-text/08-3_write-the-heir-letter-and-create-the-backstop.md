@@ -1,10 +1,10 @@
 # 8.3 · Write the heir letter and create the communication backstop
 
-The heir letter is the calm starting point your family receives when they are least prepared to solve a technical and financial problem.
+The heir letter is the calm, no-secrets starting point your family receives when they are least prepared to solve a technical and financial problem.
 
-The heir letter is a no-secrets orientation document for the family. And it is not a list of passwords.
+It gives them the first call to make, the first documents to find, and the first mistakes to avoid.
 
-Its job is to answer the first practical questions:
+It should answer these practical questions:
 
 - Who should I call first?
 - What types of accounts and assets exist?

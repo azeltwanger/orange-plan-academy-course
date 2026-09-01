@@ -209,7 +209,7 @@ In the Retirement Income walkthrough, we'll read the current result, compare one
 
 ## 1 · Confirm retirement spending
 
-**DO** Plan → Build & improve → Retirement income.
+**DO** Plan → Build & improve → Improve strategy → **Retirement income**.
 
 **ENTER / VERIFY** planned retirement date · baseline annual spending · healthcare · irregular costs.
 
@@ -219,7 +219,7 @@ In the Retirement Income walkthrough, we'll read the current result, compare one
 
 ## 2 · Add the healthcare bridge when needed
 
-**DO** Build & improve → Life events → Expense change.
+**DO** Plan → Build & improve → Improve accuracy → Life events → **Expense change**.
 
 **ENTER** start at retirement · current annual premium or retained cost · duration until Medicare or the chosen transition date.
 
@@ -277,7 +277,7 @@ In the Retirement Income walkthrough, we'll read the current result, compare one
 
 ## 8 · Preview sell, borrow, or hold
 
-**DO** Plan → Build & improve → Bitcoin borrowing.
+**DO** Plan → Build & improve → Improve strategy → **Bitcoin borrowing**.
 
 **COMPARE** sell-only, bracket-aware, borrow-first, or custom strategies supported by the current build.
 
@@ -303,7 +303,7 @@ In the Retirement Income walkthrough, we'll read the current result, compare one
 
 ## 10 · Close Retirement income
 
-**DO** Plan → Build & improve → Retirement income.
+**DO** Plan → Build & improve → Improve strategy → **Retirement income**.
 
 **SEE** planned date and spending · income floor · Bridge · Social Security · withdrawal strategy · simulation result · guardrail status complete.
 

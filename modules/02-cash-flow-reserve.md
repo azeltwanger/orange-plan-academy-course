@@ -190,7 +190,7 @@ In the module walkthrough, I'll show you how to add an expected income or expens
 ---
 ## 2.4 Optional: decide how much college help you are actually funding
 
-*`TEACH` · ~5.9 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~6.0 min · PRE-DICTATION FILMING DRAFT*
 
 This lesson is optional. It is for you if you have children, grandchildren, or another education goal you expect to help pay for. If that does not apply, skip it and go straight to the module walkthrough.
 
@@ -238,11 +238,11 @@ I think that can be a useful starting framework because it reminds you there are
 
 The plan should reflect the decision you actually made, not a generic percentage.
 
-Orange Plan can help with the numbers. The college life event establishes the amount and the years the plan is expected to fund. The Education section can show the education target, what is already in education accounts, the remaining gap, and how the current plan is projected to cover it. It does not decide the family commitment for you, and education contributions stay separate from the broader Reserve, Bridge, and Legacy savings target.
+Orange Plan can help with the numbers. The college life event establishes the amount and the years the plan is expected to fund. Education accounts and contribution rows show what is already set aside and what is still being added. The plan can compare those resources with the commitment and show the remaining amount the broader plan must cover. It does not decide the family commitment for you, and education contributions stay separate from the broader Reserve, Bridge, and Legacy savings target.
 
 After you choose the commitment, compare it with what is already saved and what the current projection may provide. The remaining amount is the part that needs a funding decision. Some of it may become a monthly 529 contribution. Some may remain part of the Bitcoin plan. Some may be paid from future income.
 
-In the walkthrough, I'll show you how to add the college event, connect the years and amount to the plan, read the Education target and gap, and add a 529 contribution if that is part of your decision. The important thing before the clicks is that you can say, in one sentence, how much you are helping with and which sources are expected to pay for it.
+In the walkthrough, I'll show you how to add the college event, connect the years and amount to the plan, read the current education coverage and remaining gap where the final V1 build displays them, and add a 529 contribution if that is part of your decision. The important thing before the clicks is that you can say, in one sentence, how much you are helping with and which sources are expected to pay for it.
 
 ---
 ## 2.5 WALKTHROUGH — Build cash flow, the Reserve, and expected life events
@@ -308,7 +308,7 @@ In the walkthrough, I'll show you how to add the college event, connect the year
 
 **⚠** The learner does not calculate and type the target amount manually.
 
-**DO** Dashboard → exact cash holding → **Add shield / designate emergency fund** using the current holding action.
+**DO** Home → open the exact cash holding → **Add shield / designate emergency fund** using the current holding action.
 
 **SAY** The shield tells the plan which cash is spoken for; it does not create new cash.
 
@@ -324,7 +324,7 @@ In the walkthrough, I'll show you how to add the college event, connect the year
 
 ## 7 · Add expected life events
 
-**DO** Plan → Retirement → Life events → **Add event**.
+**DO** Plan → Build & improve → Improve accuracy → Life events → **Add event**.
 
 **ENTER** event type · amount · age or year · duration or recurrence when applicable.
 
@@ -340,7 +340,7 @@ In the walkthrough, I'll show you how to add the college event, connect the year
 
 **DO** Add a College event with the parent's actual commitment, not the full sticker price by default.
 
-**SEE** The Education target, current education-account amount, projected coverage, and remaining gap where the current app displays them.
+**SEE** The education commitment, current education-account amount, projected coverage, and remaining gap where the final V1 build displays them.
 
 **DO** Add or review a 529 contribution only when it is part of the chosen funding mix.
 
@@ -348,9 +348,9 @@ In the walkthrough, I'll show you how to add the college event, connect the year
 
 ## 9 · Close the area
 
-**DO** Return to **Build & improve → Cash flow**.
+**DO** Return to Plan → **Build & improve → View all**.
 
-**SEE** Income · Living expenses · Reserve target · Life events complete, or **Nothing major coming** selected truthfully.
+**SEE** Income and spending · Cash reserve · Detailed cash flow · Life events complete, or **Nothing major coming** selected truthfully.
 
 ## Module 2 checkpoint
 

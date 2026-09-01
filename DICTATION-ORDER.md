@@ -68,7 +68,7 @@ Work chronologically. The generated prose is a clean starting draft, not a claim
 | 2.1 | Find the surplus your plan can actually use | 6.6 |
 | 2.2 | Size your cash reserve in months of spending | 10.4 |
 | 2.3 | Add the future changes your plan should expect | 4.3 |
-| 2.4 | Optional: decide how much college help you are actually funding | 5.9 |
+| 2.4 | Optional: decide how much college help you are actually funding | 6.0 |
 | 2.5 | *WALKTHROUGH — Build cash flow, the Reserve, and expected life events* | — WALKTHROUGH, narrated off the sheet |
 
 ### Module 3 — Allocation + Next-Dollar · 18 min
@@ -109,7 +109,7 @@ Work chronologically. The generated prose is a clean starting draft, not a claim
 
 | # | Lesson | min |
 |---|---|---|
-| 7.1 | Self-custody, professional custody, and when a split makes sense | 7.6 |
+| 7.1 | Self-custody, professional custody, and when a split makes sense | 7.7 |
 | 7.2 | Set up a hardware wallet and prove the recovery | 4.2 |
 | 7.3 | Fix the single points of failure and harden the accounts | 6.1 |
 | 7.4 | DEMO — Hardware-wallet recovery and exchange hardening | 2.9 |
