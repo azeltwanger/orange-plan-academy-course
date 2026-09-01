@@ -2,7 +2,7 @@
 
 ## A5.1 RMD pressure and Roth conversions across the low-income window
 
-*`TEACH` · ~2.9 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~2.8 min · PRE-DICTATION FILMING DRAFT*
 
 > **Publication gate:** Research complete. Targeted CPA or EA review before publication; verify the current RMD age, brackets, Medicare rules, and healthcare interactions in the year of action.
 
@@ -18,7 +18,7 @@ In those years, ordinary taxable income may be low. A Roth conversion deliberate
 
 Compare the rate paid now with the expected lifetime cost of leaving the money in the Traditional account, then choose the conversion range that uses the window well.
 
-Start with the ordinary-income brackets, but do not stop there.
+Start with the ordinary-income brackets, then include capital gains, Social Security, Medicare, healthcare subsidies, state tax, deductions, and credits.
 
 A conversion can affect:
 
@@ -41,7 +41,7 @@ Intentional Traditional withdrawals can be another solution. A household that ne
 
 The app can model a multi-year conversion schedule and show future required-distribution pressure, but the displayed amount is a planning model. Before acting, bring the year-by-year output, the other expected income, health-coverage situation, and available tax-payment cash to the tax professional.
 
-The question to ask is not simply, "How much can I convert?" It is, "How much ordinary-income room is actually worth using this year after every interaction is included?"
+Ask, "How much ordinary-income room is actually worth using this year after every interaction is included?"
 
 ---
 ## A5.2 Harvest Bitcoin losses and gains without losing the tax story
@@ -56,7 +56,7 @@ Loss harvesting realizes a loss when a lot is worth less than its documented bas
 
 Gain harvesting intentionally realizes a long-term gain in a year where the effective tax cost is low, then resets the basis higher for future sales.
 
-Both strategies begin with clean lots. Without the date, amount, basis, and supported identification method, the app cannot tell you which loss or gain is actually being realized.
+Both strategies begin with clean lots. The app needs the date, amount, basis, and supported identification method to determine which loss or gain is being realized.
 
 For a loss harvest, compare the current value with basis lot by lot. Then include trading fees, spreads, custody movement, and any effect on the holding period of the replacement position.
 
@@ -70,7 +70,7 @@ The benefit is a higher basis. If a lot with a large unrealized gain is realized
 
 Use the lot-level candidate list in Tax strategy as a starting point. Then calculate what the realized amount does to the entire year's tax picture and whether the new basis matters for future spending or estate plans.
 
-Keep the trade confirmations, lot records, and methodology with the tax file. The Form 8949 export is a handoff, not a substitute for reviewing whether the transaction and identification were reported correctly.
+Keep the trade confirmations, lot records, and methodology with the tax file. Use the Form 8949 export as the CPA handoff, then verify that the transaction and identification were reported correctly.
 
 The planning questions are:
 
@@ -93,7 +93,7 @@ The first step is measuring the actual event. A state difference on ordinary inc
 
 Then model the timing. Saving tax on one large sale is different from saving tax on income every year. The recurring benefit can compound, but only if the move is real and the household actually stays.
 
-Residency is not created by editing the state field in the app or changing a mailing address.
+Residency depends on the full pattern of where you live, work, own property, vote, spend time, and intend to remain.
 
 States may look at domicile, days present, homes, work, business activity, family location, driver's license, voting, professional relationships, and where the person intends to remain. A taxpayer can also remain taxable on income sourced to the old state after moving.
 
@@ -103,6 +103,6 @@ The lifestyle cost belongs in the comparison too. Family, healthcare, housing, w
 
 Use Scenarios to compare the plan under the destination state, including the effect on future taxes and the retirement date. Then take the actual transaction, dates, properties, business ties, and intended move to professionals who understand both states.
 
-Treat relocation as a real life decision that may create a large tax benefit, not a tax trick with a moving truck.
+Treat relocation as a real life decision and measure the potential tax benefit inside the full plan.
 
 ---

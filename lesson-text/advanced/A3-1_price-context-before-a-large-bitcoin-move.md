@@ -10,7 +10,7 @@ A price that has risen quickly creates urgency. The story feels obvious, the ris
 
 A price that has fallen sharply creates the opposite reaction. The thesis feels less certain, losses feel permanent, and a move that was considered reasonable at a higher price suddenly feels impossible. A lower price can also create a genuine opportunity, but only if the cash flow, Reserve, debt, custody, and time horizon can support it.
 
-The context check is a pause, not a signal.
+Use the context check as a pause before making the decision.
 
 Ask:
 
@@ -20,6 +20,6 @@ Ask:
 - Would I make the same decision if the chart were hidden and I only saw the cash-flow, tax, and risk trade-offs?
 - What happens if the price moves another fifty percent against me after I act?
 
-Then return to the plan. A large purchase needs a real surplus and a Reserve. A larger allocation needs a drawdown result the household can hold. A loan needs a conservative LTV, a repayment source, and room for a deep drop. A sale needs a reason tied to spending, taxes, or risk rather than relief from the current emotion.
+Then return to the plan. A large purchase needs a real surplus and a Reserve. A larger allocation needs a drawdown result the household can hold. A loan needs a conservative LTV, a repayment source, and room for a deep drop. Tie a sale to spending, taxes, or risk and state that reason before acting.
 
-The price context never replaces those decisions. It simply makes the emotional environment visible before it drives them.
+Cash flow, the Reserve, debt, taxes, custody, and time horizon still make the decision. It simply makes the emotional environment visible before it drives them.

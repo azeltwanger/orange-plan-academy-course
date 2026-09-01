@@ -50,7 +50,7 @@ The tax strategy and healthcare strategy also interact. Income from Roth convers
 
 Social Security timing belongs inside the Bridge decision too.
 
-Waiting can increase the monthly benefit, but waiting also means the portfolio funds more of the gap in the meantime. Claiming earlier may reduce pressure on the portfolio or avoid selling more Bitcoin during a weak market. Claiming later may provide a larger durable floor for life. The correct answer comes from comparing the full plan, not repeating "always wait" or "always claim early."
+Waiting can increase the monthly benefit, but waiting also means the portfolio funds more of the gap in the meantime. Claiming earlier may reduce pressure on the portfolio or avoid selling more Bitcoin during a weak market. Claiming later may provide a larger durable floor for life. Compare the full plan at several claiming ages and choose the trade-off that fits the Bridge, taxes, and household priorities.
 
 By the end of this lesson, I want you to know:
 

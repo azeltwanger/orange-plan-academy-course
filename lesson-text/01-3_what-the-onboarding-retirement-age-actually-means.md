@@ -29,7 +29,7 @@ The first useful Plan result belongs in Foundation because it gives you somethin
 
 The Orange Plan standard stays fixed at 800 of 1,000 for normal users. A power user can change that standard under Advanced model settings, but the core course uses the same standard so the result stays easy to understand and compare.
 
-The main takeaway is simple: onboarding gives you a deterministic starting estimate. The simulation count shows how the fuller plan holds up across 1,000 market paths. Both become more useful as the information underneath them becomes accurate.
+Onboarding gives you a deterministic starting estimate. The simulation count shows how the fuller plan holds up across 1,000 market paths. Both become more useful as the information underneath them becomes accurate.
 
 In the Foundation walkthrough, I'll show you how to replace the rough account estimates with real accounts and holdings, review the assumptions, run or read the first preliminary Plan result, and see exactly which details could still change it.
 

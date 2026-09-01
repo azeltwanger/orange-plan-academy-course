@@ -6,7 +6,7 @@
 
 ## 7.1 Self-custody, professional custody, and when a split makes sense
 
-*`TEACH` · ~7.7 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~7.6 min · PRE-DICTATION FILMING DRAFT*
 
 Most custody advice starts by asking, "What is the safest setup?"
 
@@ -20,9 +20,9 @@ Professional custody takes some of that burden off you and may give the family s
 
 Multisig can make one lost key survivable. It also gives you more keys, more documentation, and more ways to build something the family does not understand.
 
-There is no setup with no trade-offs.
+Every setup comes with trade-offs.
 
-The goal is to decide which risks you are willing to own and make sure one mistake, one provider, one device, or one bad day cannot destroy the family's plan.
+Choose the risks you are willing to own, then make sure one mistake, one provider, one device, or one bad day cannot destroy the family's plan.
 
 Before we go farther, I want to separate custody from inheritance.
 
@@ -30,7 +30,7 @@ Custody is the operational side: where the Bitcoin is held, who can move it, how
 
 Estate planning is the legal side: who has authority and who receives the asset.
 
-They have to fit together, but they are not the same job.
+Custody handles operational access. Estate planning handles legal authority and transfer.
 
 And there is one rule for the entire module: document the process, never the secrets.
 
@@ -60,7 +60,7 @@ Another person may want both directly controlled Bitcoin and a professionally su
 
 For another household, support, recourse, and family simplicity matter more than controlling every key personally.
 
-None of those answers automatically tells you which product to use. It tells you which trade-off you are not willing to give up.
+Those answers narrow the trade-offs and show which protection the household insists on preserving.
 
 Then name the job of each meaningful Bitcoin pool.
 
@@ -74,7 +74,7 @@ I would classify each pool by rough scale instead of writing exact balances on a
 - meaningful;
 - life-changing.
 
-The decision changes when the amount becomes life-changing. A hardware wallet that felt reasonable when it held a smaller amount can eventually represent the family's entire financial future. Nothing about the device changed. What was at stake did.
+The decision changes when the amount becomes life-changing. A hardware wallet that felt reasonable when it held a smaller amount can eventually represent the family's entire financial future. The device stayed the same while the amount at stake became life-changing.
 
 That is when concentration in one method becomes a risk of its own.
 
@@ -104,7 +104,7 @@ I would use five steps to make the decision:
 
 Choose the simplest setup that removes the household's real failure points and can still be maintained ten or twenty years from now.
 
-I would measure readiness with four outcomes instead of a wealth ladder:
+I would measure readiness with four outcomes:
 
 1. The accounts and recovery channels are secured.
 2. Any direct custody has been proven through a real recovery test.
@@ -132,11 +132,9 @@ The next two lessons handle the operational work: proving a hardware-wallet reco
 ---
 ## 7.2 Set up a hardware wallet and prove the recovery
 
-*`TEACH` · ~4.2 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.1 min · PRE-DICTATION FILMING DRAFT*
 
-The important test for a hardware wallet is not whether you wrote the recovery words down.
-
-It is whether you can restore the wallet from the backup before a meaningful amount of Bitcoin depends on it.
+The important hardware-wallet test is whether you can restore the wallet from the backup before a meaningful amount of Bitcoin depends on it.
 
 Most people skip that step. They generate a wallet, write the words down, send the Bitcoin, and hope the backup works. The first real recovery test then happens on the worst possible day.
 
@@ -153,9 +151,9 @@ The general process is:
 5. Use the vendor's verified recovery-check procedure or, when appropriate for the exact device, wipe and restore the test wallet.
 6. Confirm the same wallet and test funds reappear before sending a meaningful balance.
 
-The exact button sequence depends on the device and firmware. That is why the filmed demo has to use the actual hardware and current instructions rather than a generic script pretending every wallet works the same way.
+The exact button sequence depends on the device and firmware, so the filmed demo uses the actual hardware and current vendor instructions.
 
-There are a few rules that do not change.
+The safety rules stay the same across devices.
 
 Never type recovery words into a computer, phone, ordinary website, photo, cloud document, or AI chat.
 
@@ -175,7 +173,7 @@ Multisig adds another dependency: the wallet descriptor or configuration that ex
 
 There is also a practical issue with moving Bitcoin into cold storage: transaction size and UTXOs.
 
-Every withdrawal can create a separate spendable output. A large number of tiny withdrawals can become expensive or awkward to spend later when network fees are high. I would not turn this into one permanent Bitcoin threshold because the dollar value and fee market change. The useful rule is to avoid creating a pile of uneconomic outputs and review consolidation when fees are low. The Advanced wallet-operations lesson covers the details.
+Every withdrawal can create a separate spendable output. A large number of tiny withdrawals can become expensive or awkward to spend later when network fees are high. Set the withdrawal threshold from the current dollar value, fee market, and the size of the outputs you are creating. The useful rule is to avoid creating a pile of uneconomic outputs and review consolidation when fees are low. The Advanced wallet-operations lesson covers the details.
 
 For this core lesson, the finish line is straightforward: you have a device-specific recovery process you personally tested with a trivial amount, the backup is stored offline, and the address and transaction checks were performed on the trusted device.
 
@@ -186,9 +184,7 @@ The external demo will show the actual process using a throwaway wallet with no 
 
 *`TEACH` · ~6.1 min · PRE-DICTATION FILMING DRAFT*
 
-Most Bitcoin losses are not somebody breaking the cryptography.
-
-They are one weak login, one backup, one location, one person who knows the process, one provider, or one rushed decision with no second check.
+Most Bitcoin losses come from one weak login, one backup, one location, one person who knows the process, one provider, or one rushed decision with no second check.
 
 I call these the "only one" problems.
 
@@ -220,7 +216,7 @@ The important addition is method and provider concentration.
 
 A person can have several devices and backups and still have the entire plan depend on one method. They can also spread Bitcoin across two account names that rely on the same underlying custodian or recovery system.
 
-That is why I want you to test failure domains, not count objects.
+Test whether the backups are independent across failure domains.
 
 Three keys in the same house are still exposed to one house fire.
 
@@ -278,7 +274,7 @@ An authenticator app is good. A hardware security key can add phishing resistanc
 
 Then there are the scam rules.
 
-Urgency is the biggest warning sign. Somebody says the account is being drained, the wallet is compromised, or the offer expires in ten minutes. The goal is to make you skip the verification process.
+Urgency is the biggest warning sign. Somebody says the account is being drained, the wallet is compromised, or the offer expires in ten minutes. The pressure is designed to make you skip the verification process.
 
 No legitimate provider needs your seed phrase or private key.
 
@@ -423,7 +419,7 @@ Record in `DEVICE-DEMO-VERIFICATION.md`:
 - the risk the architecture is meant to reduce;
 - and the first unfinished action.
 
-**SAY** The app checklist records implementation status. It does not decide that every larger balance should move into a more complicated self-custody setup.
+**SAY** The app checklist records implementation status. The decision map records the household's chosen architecture and the risk it is meant to reduce.
 
 ## 2 · Map the meaningful Bitcoin pools
 
@@ -471,7 +467,7 @@ For every life-changing row, ask:
 
 **CHECK** only items that are true today.
 
-**⚠** A recovery-test item stays open until the recovery was actually proven. Buying a hardware wallet does not complete it.
+**⚠** A recovery-test item stays open until the recovery was actually proven. Mark recovery complete only after a real recovery test.
 
 **⚠** Review the email security, authentication, withdrawal protections, beneficiary or estate process, and provider concentration for every institutional account.
 
@@ -492,7 +488,7 @@ Examples:
 - Collaborative multisig → verify provider-independent recovery and the wallet policy backup.
 - Intentional split → define the job and maximum exposure for each bucket before moving funds.
 
-**SAY** The goal is one meaningful reduction in risk, not checking every box for appearance.
+**SAY** Use the checklist to make one meaningful reduction in risk at a time.
 
 ## 7 · Confirm process contacts without secrets
 

@@ -25,7 +25,7 @@
 2. Extra debt
 3. Contributions
 
-**SAY** Contributions is the amount left after the earlier claims. It is not a second surplus.
+**SAY** Contributions is the amount left after the earlier claims. It is the same surplus after the earlier claims.
 
 **⚠** If the Reserve uses all of the current surplus, Contributions can correctly show zero today. The future contribution plan can still be saved for the point when the Reserve is full.
 
@@ -83,7 +83,7 @@
 
 **ADD** only accounts the household can use: 401(k), 403(b), IRA, Roth IRA, HSA, Solo 401(k), SEP, taxable, 529, and others as applicable.
 
-**⚠** Adding a row models a contribution. It does not open the outside account.
+**⚠** Adding a row models a contribution. The outside account still has to be opened with the provider.
 
 ## 7 · Capture the employer match
 

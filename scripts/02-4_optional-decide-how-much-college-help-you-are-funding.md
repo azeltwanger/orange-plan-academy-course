@@ -1,14 +1,12 @@
 TELEPROMPTER SCRIPT — segment 2.4
 2.4 Optional: decide how much college help you are actually funding
-895 words · ~5.8 min at 155 wpm · PRE-DICTATION FILMING DRAFT — rebuilt from Austin's decks, dictation, research, and current app
+900 words · ~5.8 min at 155 wpm · PRE-DICTATION FILMING DRAFT — rebuilt from Austin's decks, dictation, research, and current app
 SOURCE: Austin college-planning direction, current Education target behavior, and the optional college material from the old deck
 ============================================================
 
 This lesson is optional. It is for you if you have children, grandchildren, or another education goal you expect to help pay for. If that does not apply, skip it and go straight to the module walkthrough.
 
-The first college-planning question is not which account to open.
-
-It is how much you are actually committing to help with.
+Start by deciding how much you are actually committing to help with.
 
 That may be four years of in-state tuition. It may be tuition only, a fixed dollar amount per child, a percentage of the final net cost, or whatever a specific savings account plus a set amount of cash flow can support.
 
@@ -20,7 +18,7 @@ So I would build the decision in this order.
 
 First, choose the commitment. What do you want your child to be able to count on from you?
 
-Second, estimate the likely cost of that commitment. Use the type of school you are realistically planning for today, current tuition and living costs, and a reasonable inflation assumption. This is an estimate that gets updated, not a contract with a school that has not been chosen yet.
+Second, estimate the likely cost of that commitment. Use the type of school you are realistically planning for today, current tuition and living costs, and a reasonable inflation assumption. Update this estimate as the school choice, aid package, and actual costs become clearer.
 
 Third, list every funding source.
 
@@ -30,11 +28,11 @@ That can include existing 529 money, new 529 contributions, Bitcoin or other tax
 
 For a Bitcoiner, start with the family commitment and funding sources, then decide whether a 529 improves that plan.
 
-A 529 can give you tax advantages when the money is used for qualified education expenses. It also limits the investment menu, has rules around how the money is used, and may not give you the Bitcoin exposure you actually want.
+A 529 can give you tax advantages when the money is used for qualified education expenses. The trade-off is a limited investment menu, qualified-use rules, and often no direct Bitcoin exposure.
 
 Bitcoin gives you more flexibility and, in my view, a stronger long-term growth asset. It also brings volatility, no education-specific tax shelter, and the risk that the price is down when tuition is due.
 
-For my own planning, if college is still more than five years away, I am comfortable using Bitcoin as a meaningful part of the savings plan. As the date gets closer, I would protect the first committed tuition payments so the family is not depending on the market at enrollment.
+For my own planning, if college is still more than five years away, I am comfortable using Bitcoin as a meaningful part of the savings plan. As the date gets closer, protect the first committed tuition payments in reliable funding before enrollment.
 
 As the date gets closer, I would revisit the commitment, the likely school cost, the aid picture, and the amount already available. Then I would start protecting the portion I have firmly promised.
 
@@ -46,11 +44,11 @@ The student can participate too. Work, scholarships, grants, and a reasonable am
 
 You may have heard the one-third idea: roughly one-third saved beforehand, one-third paid from current cash flow or investments while the student is enrolled, and one-third handled through aid, student work, or loans.
 
-I think that can be a useful starting framework because it reminds you there are several funding sources. I would not treat it as a rule. One family may want to cover the entire commitment. Another may have a strong retirement plan but limited current savings. Another may have a child choosing a much less expensive path.
+That can be a useful starting framework because it reminds you there are several funding sources. Adapt it to the family's actual commitment and resources. One family may want to cover the entire commitment. Another may have a strong retirement plan but limited current savings. Another may have a child choosing a much less expensive path.
 
-The plan should reflect the decision you actually made, not a generic percentage.
+Build the plan around the family's actual commitment and funding sources.
 
-Orange Plan can help with the numbers. The college life event establishes the amount and the years the plan is expected to fund. Education accounts and contribution rows show what is already set aside and what is still being added. The plan can compare those resources with the commitment and show the remaining amount the broader plan must cover. It does not decide the family commitment for you, and education contributions stay separate from the broader Reserve, Bridge, and Legacy savings target.
+Orange Plan can help with the numbers. The college life event establishes the amount and the years the plan is expected to fund. Education accounts and contribution rows show what is already set aside and what is still being added. The plan can compare those resources with the commitment and show the remaining amount the broader plan must cover. The family chooses the commitment. Orange Plan quantifies it, while education contributions stay separate from the broader Reserve, Bridge, and Legacy savings target.
 
 After you choose the commitment, compare it with what is already saved and what the current projection may provide. The remaining amount is the part that needs a funding decision. Some of it may become a monthly 529 contribution. Some may remain part of the Bitcoin plan. Some may be paid from future income.
 

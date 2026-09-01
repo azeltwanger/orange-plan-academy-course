@@ -5,7 +5,7 @@ The canonical production files are in `scripts/`. Start with `FINALIZATION-STATU
 <!-- METRICS:START -->
 | | Lessons | Runtime |
 |---|---|---|
-| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **152 min (2.5 h)** |
+| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **150 min (2.5 h)** |
 | **Advanced Library** — optional, gated per lesson | 14 teach | 42 min |
 
 Plus 10 core screen captures (9 walkthroughs + 1 external demo),

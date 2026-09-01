@@ -102,7 +102,7 @@
 ## ☐ MODULE 1 — FOUNDATION   ·   WAVE 1
 
 ☐ 1.1 What to gather before you build the plan — 🎙 film (~7 min)
-☐ 1.2 The three layers of a plan, and setting your assumptions — 🎙 film (~9 min)
+☐ 1.2 The three layers of a plan, and setting your assumptions — 🎙 film (~10 min)
 ☐ 1.3 What the onboarding retirement age actually means — 🎙 film (~4 min)
 ☐ 1.4 WALKTHROUGH — Replace the onboarding estimate with real Foundation data — 🖥 capture
 ☐ Paste the Module 1 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
@@ -127,7 +127,7 @@
 
 ## ☐ MODULE 4 — DEBT STRATEGY   ·   WAVE 1
 
-☐ 4.1 Decide what every debt should do — 🎙 film (~7 min)
+☐ 4.1 Decide what every debt should do — 🎙 film (~6 min)
 ☐ 4.2 WALKTHROUGH — Give every debt a job and update the waterfall — 🖥 capture
 ☐ Paste the Module 4 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
 
@@ -142,7 +142,7 @@
 
 ☐ 6.1 Build the spending number, income floor, gap, and Bridge — 🎙 film (~4 min)
 ☐ 6.2 Choose the withdrawal order and the draw-and-refill rule — 🎙 film (~5 min)
-☐ 6.3 Read the simulation result and use spending guardrails — 🎙 film (~4 min)
+☐ 6.3 Read the simulation result and use spending guardrails — 🎙 film (~5 min)
 ☐ 6.4 WALKTHROUGH — Build the retirement paycheck — 🖥 capture
 ☐ Paste the Module 6 checkpoint into Circle (top: "By the end…", bottom: "Complete when…")
 
@@ -158,7 +158,7 @@
 ## ☐ MODULE 8 — ESTATE + INHERITANCE   ·   WAVE 2
 
 ☐ 8.1 Choose who is in charge and put the legal baseline in place — 🎙 film (~5 min)
-☐ 8.2 Align legal authority with the technical recovery path — 🎙 film (~5 min)
+☐ 8.2 Align legal authority with the technical recovery path — 🎙 film (~4 min)
 ☐ 8.3 Write the heir letter and create the communication backstop — 🎙 film (~4 min)
 ☐ 8.4 Use insurance for the risks the current stack cannot carry — 🎙 film (~5 min)
 ☐ 8.5 WALKTHROUGH — Build the family handoff in Protect — 🖥 capture

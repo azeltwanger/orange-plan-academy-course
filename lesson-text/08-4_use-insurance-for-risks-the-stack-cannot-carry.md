@@ -2,7 +2,7 @@
 
 Insurance exists for the risks that would break the plan before the assets are large enough to absorb them.
 
-The reserve already self-insures smaller problems. A repair, a deductible, or a short income interruption should not require a complicated policy if the cash buffer can handle it.
+Use the reserve for repairs, deductibles, and short income interruptions that the cash buffer can absorb.
 
 Insurance is for the larger gap between what the family would need and what the current assets could provide.
 
@@ -20,13 +20,13 @@ Disability coverage protects the income while you are alive.
 
 A long disability can stop the paycheck and the monthly surplus at the same time, while healthcare and other costs continue. Employer coverage may replace only part of the income, may have a dollar cap, may be taxable depending on who paid the premium, and may use a definition of disability that becomes harder to qualify for over time.
 
-The contract language matters: own-occupation versus any-occupation definitions, waiting periods, benefit periods, exclusions, and how bonuses or self-employment income are treated. This is where the actual policy and a licensed professional matter more than a generic rule.
+The contract language matters: own-occupation versus any-occupation definitions, waiting periods, benefit periods, exclusions, and how bonuses or self-employment income are treated. Review the actual policy with a licensed professional because those terms drive the result.
 
 Umbrella coverage is excess liability protection above the required underlying home and auto limits. It can help protect the balance sheet from a large liability claim and defense costs. Umbrella coverage sits above the underlying policies and follows its own exclusions and required base limits. Read those terms before deciding which liability gaps it covers.
 
-Long-term care belongs on the later-life review. The cost is real, the products and pricing are imperfect, and a sufficiently large plan may choose to self-insure. The decision depends on health, family support, desired care, state rules, and the size of the assets available later. It is worth revisiting in the years when coverage is still available, not waiting until care is already needed.
+Long-term care belongs on the later-life review. The cost is real, the products and pricing are imperfect, and a sufficiently large plan may choose to self-insure. The decision depends on health, family support, desired care, state rules, and the size of the assets available later. Revisit long-term-care coverage while the household still has practical options, usually during the later working years.
 
-Health coverage before Medicare is part of the Retirement Income bridge rather than this insurance audit. The same principle applies: price the actual options and the risk retained by the household.
+Handle health coverage before Medicare inside the Retirement Income bridge. The same principle applies: price the actual options and the risk retained by the household.
 
 For each category, I would write down:
 

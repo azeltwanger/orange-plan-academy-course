@@ -8,7 +8,7 @@ First: can this account hold the investment you actually want?
 
 Second: if it can, is this the best tax and access wrapper for that investment?
 
-A perfect tax account is not useful for a Bitcoin dollar if the plan only offers a limited stock and bond menu and no Bitcoin ETF or brokerage window.
+The account has to hold the asset the plan actually calls for. A limited stock-and-bond menu may send the Bitcoin dollars to a different account.
 
 Direct Bitcoin gives you ownership and custody responsibility. A Bitcoin ETF may let you hold the exposure inside an IRA, brokerage account, or some employer plans without managing keys. Some accounts offer neither, which means the Bitcoin dollars need a different destination.
 
@@ -16,7 +16,7 @@ After that filter, look at the tax treatment and the job.
 
 Taxable accounts are flexible. The money can be used before retirement age, which makes them important for the Bridge. Long-term gains may receive capital-gains treatment, and you maintain control over which lots are sold.
 
-Tax-deferred accounts such as a Traditional 401(k) or IRA can reduce taxable income today and let the money grow without current tax. Withdrawals are generally taxed as ordinary income later, and required distributions can reduce your control in retirement. These accounts are usually long-term money rather than near-term Bridge funding.
+Tax-deferred accounts such as a Traditional 401(k) or IRA can reduce taxable income today and let the money grow without current tax. Withdrawals are generally taxed as ordinary income later, and required distributions can reduce your control in retirement. Use these accounts for long-term retirement money and keep near-term Bridge funding accessible.
 
 Roth accounts use money that has already been taxed. Qualified withdrawals can come out tax-free, and the account gives high-growth assets a long runway without future tax on the growth. Roth space is valuable, and the contribution choice still depends on the current bracket, expected future bracket, access needs, and investment menu.
 

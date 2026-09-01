@@ -1,12 +1,10 @@
 TELEPROMPTER SCRIPT — segment 7.2
 7.2 Set up a hardware wallet and prove the recovery
-647 words · ~4.2 min at 155 wpm · PRE-DICTATION FILMING DRAFT — rebuilt from Austin's decks, dictation, research, and current app
+630 words · ~4.1 min at 155 wpm · PRE-DICTATION FILMING DRAFT — rebuilt from Austin's decks, dictation, research, and current app
 SOURCE: Custody hardware-wallet deck and device-verification research; exact filming process remains device-specific
 ============================================================
 
-The important test for a hardware wallet is not whether you wrote the recovery words down.
-
-It is whether you can restore the wallet from the backup before a meaningful amount of Bitcoin depends on it.
+The important hardware-wallet test is whether you can restore the wallet from the backup before a meaningful amount of Bitcoin depends on it.
 
 Most people skip that step. They generate a wallet, write the words down, send the Bitcoin, and hope the backup works. The first real recovery test then happens on the worst possible day.
 
@@ -23,9 +21,9 @@ The general process is:
 5. Use the vendor's verified recovery-check procedure or, when appropriate for the exact device, wipe and restore the test wallet.
 6. Confirm the same wallet and test funds reappear before sending a meaningful balance.
 
-The exact button sequence depends on the device and firmware. That is why the filmed demo has to use the actual hardware and current instructions rather than a generic script pretending every wallet works the same way.
+The exact button sequence depends on the device and firmware, so the filmed demo uses the actual hardware and current vendor instructions.
 
-There are a few rules that do not change.
+The safety rules stay the same across devices.
 
 Never type recovery words into a computer, phone, ordinary website, photo, cloud document, or AI chat.
 
@@ -45,7 +43,7 @@ Multisig adds another dependency: the wallet descriptor or configuration that ex
 
 There is also a practical issue with moving Bitcoin into cold storage: transaction size and UTXOs.
 
-Every withdrawal can create a separate spendable output. A large number of tiny withdrawals can become expensive or awkward to spend later when network fees are high. I would not turn this into one permanent Bitcoin threshold because the dollar value and fee market change. The useful rule is to avoid creating a pile of uneconomic outputs and review consolidation when fees are low. The Advanced wallet-operations lesson covers the details.
+Every withdrawal can create a separate spendable output. A large number of tiny withdrawals can become expensive or awkward to spend later when network fees are high. Set the withdrawal threshold from the current dollar value, fee market, and the size of the outputs you are creating. The useful rule is to avoid creating a pile of uneconomic outputs and review consolidation when fees are low. The Advanced wallet-operations lesson covers the details.
 
 For this core lesson, the finish line is straightforward: you have a device-specific recovery process you personally tested with a trivial amount, the backup is stored offline, and the address and transaction checks were performed on the trusted device.
 

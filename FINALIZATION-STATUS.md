@@ -7,7 +7,7 @@
 - All 10 core walkthroughs / demos have an implementation sheet.
 - All 14 Advanced lessons remain attached to the correct core module.
 - The course now matches the Orange Plan V1 product contracts for Home / Plan / Cash Flow / Protect, Build & improve, Scenarios, Ask, Current versus Preview, Your Plan, account activity, the fixed 800-of-1,000 standard, result freshness, and portfolio guardrails.
-- The direct-voice audit now catches same-sentence and cross-sentence “not A, but B” copywriting structures. Reviewed ordinary candidates were rewritten around the affirmative fact; necessary safety, legal, tax, and custody boundaries remain.
+- Every canonical core and Advanced lesson was included in an exhaustive 52-lesson language inventory. Ordinary negative setup and copywriting reversals were rewritten around the affirmative fact; necessary safety, legal, tax, model, and custody boundaries remain direct.
 - Module 7 continues to use the custody trade-off and One-Failure framework.
 - Slide concepts remain edit graphics and B-roll cues; Austin can record the camera-facing scripts without presenting a slide deck.
 

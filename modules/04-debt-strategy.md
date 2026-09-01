@@ -6,9 +6,9 @@
 
 ## 4.1 Decide what every debt should do
 
-*`TEACH` · ~6.6 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~6.5 min · PRE-DICTATION FILMING DRAFT*
 
-In today's lesson, we're going to build a debt strategy instead of just making a list of what you owe.
+In today's lesson, we're going to decide what each debt should do inside the plan.
 
 The module is finished when every debt has a job. That job may be to keep making the minimum payment, pay extra, refinance, consolidate, pay it off, or simply monitor it. The answer can be different for every row.
 
@@ -26,11 +26,11 @@ Debt-to-income looks at the required monthly payments compared with income. This
 
 Debt-to-assets compares the total debt with the assets on the balance sheet. This is the leverage lens. For a Bitcoiner, it can move dramatically even when the debt balance never changes, because the asset side moves with Bitcoin's price.
 
-That is why I would not look at today's debt-to-assets ratio and assume it is permanent. I want to know what it looks like after a major drawdown too.
+Recalculate debt-to-assets after a major Bitcoin drawdown before deciding how much leverage the household can carry.
 
-The two ratios answer different questions. Debt-to-income tells you whether the household can carry the payments. Debt-to-assets tells you how leveraged the balance sheet is. A strong answer on one does not cancel a weak answer on the other.
+The two ratios answer different questions. Debt-to-income tells you whether the household can carry the payments. Debt-to-assets tells you how leveraged the balance sheet is. Use both answers together; payment capacity and balance-sheet leverage can point in different directions.
 
-I treat the bands in the app as context, not commands. A household with two stable salaries, a full reserve, and flexible spending can handle more than a household with one variable income and high fixed costs. The correct range is the one that still works in the bad version of your life, not only the current one.
+Use the bands in the app as context for setting the household's range. A household with two stable salaries, a full reserve, and flexible spending can handle more than a household with one variable income and high fixed costs. Choose the range that still works after income falls, fixed costs rise, or Bitcoin goes through a major drawdown.
 
 Now we can look at the actual debts.
 
@@ -47,7 +47,7 @@ A high-rate credit card is usually a clear problem because the guaranteed cost i
 
 A low-rate fixed mortgage is a different decision. Paying it off gives you a guaranteed return equal to the rate and removes the payment. Keeping it preserves liquidity and leaves the capital available for a job you may value more. The payment burden and your tolerance can flip the answer either way.
 
-A medium-rate auto or student loan belongs in the comparison zone. The rate may be a drag, but the payment may or may not be the thing holding the plan back. I would compare the benefit of paying it faster with the benefit of filling the reserve, capturing an employer match, or funding accessible money for an early retirement.
+A medium-rate auto or student loan belongs in the comparison zone. The rate may be a drag, while the payment pressure determines whether it is the current bottleneck. I would compare the benefit of paying it faster with the benefit of filling the reserve, capturing an employer match, or funding accessible money for an early retirement.
 
 And a variable-rate loan deserves more attention than the current rate alone suggests. The payment can change later, so I would model the higher-rate version before deciding it is harmless.
 
@@ -59,7 +59,7 @@ There are three decisions people often collapse into one:
 2. whether to pay an existing debt faster;
 3. whether to add new debt or leverage to buy Bitcoin.
 
-Those are not the same risk.
+Evaluate each decision separately.
 
 Keeping existing low-rate debt and adding new leverage are separate decisions. A new Bitcoin-backed loan needs a higher standard because it adds a payment, a lender, and forced-sale risk.
 
@@ -76,7 +76,7 @@ For each debt, write one sentence:
 - Keep the minimum because the rate is low and the payment is comfortable.
 - Pay an extra amount because this is the current bottleneck.
 - Refinance because the variable rate or payment creates risk.
-- Pay it off because the guaranteed cost and stress are not worth carrying.
+- Pay it off because removing the guaranteed cost and stress improves the plan.
 - Monitor because the balance is secured by an asset and the risk changes with the market.
 
 The reason matters more than the dropdown. If the reason changes, the job can change at the annual review.

@@ -8,7 +8,7 @@ The first step is measuring the actual event. A state difference on ordinary inc
 
 Then model the timing. Saving tax on one large sale is different from saving tax on income every year. The recurring benefit can compound, but only if the move is real and the household actually stays.
 
-Residency is not created by editing the state field in the app or changing a mailing address.
+Residency depends on the full pattern of where you live, work, own property, vote, spend time, and intend to remain.
 
 States may look at domicile, days present, homes, work, business activity, family location, driver's license, voting, professional relationships, and where the person intends to remain. A taxpayer can also remain taxable on income sourced to the old state after moving.
 
@@ -18,4 +18,4 @@ The lifestyle cost belongs in the comparison too. Family, healthcare, housing, w
 
 Use Scenarios to compare the plan under the destination state, including the effect on future taxes and the retirement date. Then take the actual transaction, dates, properties, business ties, and intended move to professionals who understand both states.
 
-Treat relocation as a real life decision that may create a large tax benefit, not a tax trick with a moving truck.
+Treat relocation as a real life decision and measure the potential tax benefit inside the full plan.

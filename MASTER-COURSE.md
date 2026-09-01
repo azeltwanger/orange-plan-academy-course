@@ -5,7 +5,7 @@
 <!-- METRICS:START -->
 | | Lessons | Runtime |
 |---|---|---|
-| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **152 min (2.5 h)** |
+| **Core** — Build Your Bitcoin Financial Plan (required) | 28 teach | **150 min (2.5 h)** |
 | **Advanced Library** — optional, gated per lesson | 14 teach | 42 min |
 
 Plus 10 core screen captures (9 walkthroughs + 1 external demo),
@@ -245,7 +245,7 @@ For now, put the statements, exports, employer information, and rough future-eve
 ---
 ## 1.2 The three layers of a plan, and setting your assumptions
 
-*`TEACH` · ~9.4 min · AUSTIN DICTATION*
+*`TEACH` · ~9.5 min · AUSTIN DICTATION*
 
 In today's lesson, we're going to cover how your retirement plan is going to be built out and the three different layers that go into how the app works and how your retirement plan is going to work.
 
@@ -283,7 +283,7 @@ To keep it simple, the truth and the assumptions used by the plan belong in your
 
 ### Current cash flow versus the projection
 
-Orange Plan is meant to project what your future retirement plan might look like. It isn't mainly a current-day budgeting app.
+Orange Plan is meant to project what your future retirement plan might look like. Orange Plan is a forward-looking retirement planning tool.
 
 You do have the ability to link or import your accounts on the Cash Flow page. That gives you an up-to-date baseline of what your spending and cash flow look like today. The projection then carries that current pattern forward.
 
@@ -313,7 +313,7 @@ If we were to set Bitcoin's returns at a flat 40% forever, this might land their
 
 That's a difference of eight years from one input changing.
 
-This is why I think you need to choose a conservative and realistic way to model Bitcoin in the future. I would not choose the model just because it gives you the earliest retirement date. I would choose the one you could defend if you were explaining it to a family member or a friend.
+This is why I think you need to choose a conservative and realistic way to model Bitcoin in the future. Choose the model you could defend even when another preset gives you an earlier retirement date. I would choose the one you could defend if you were explaining it to a family member or a friend.
 
 ### The four bitcoin models
 
@@ -335,25 +335,25 @@ The next assumption is inflation.
 
 If you're spending $80,000 a year today, at 3% inflation that same lifestyle costs about $125,000 a year 15 years from now. At 4%, it's about $144,000. That's roughly $20,000 more every year from moving the assumption one percentage point.
 
-The default in the app is 3%. Think through what you believe is realistic instead of leaving the default simply because it was already loaded.
+The default in the app is 3%. Think through what you believe is realistic, then choose the preset or custom model that matches it.
 
 ### The other assets
 
 Orange Plan also has return assumptions for stocks, bonds, cash, and other assets. These begin with reasonable defaults, and you can revisit them later if you have a reason to use something more conservative or build a custom assumption.
 
-This is a personal decision. I think the numbers should be realistic and not emotion-driven.
+This is a personal decision. Use numbers that are realistic and grounded in how you actually expect the future to unfold.
 
 ### How to choose
 
 1. Start conservative. If the plan works on a conservative assumption, the upside from Bitcoin or the other assets becomes a bonus.
-2. Use a declining Bitcoin return. A flat CAGR isn't realistic across a 30- or 40-year retirement plan.
+2. Use a declining Bitcoin return. Use a declining growth model across a 30- or 40-year retirement plan.
 3. Take inflation seriously. Think through whether 3% is enough for the plan you want to run.
 4. Pick assumptions that you can live with if the future turns out worse than expected.
 5. Later, test a bullish or more conservative scenario without changing the baseline.
 
 The return assumptions can drastically change decisions about which accounts you contribute to, where you allocate money, Roth conversions, and how you live off Bitcoin in retirement. That's why we set the baseline model first and use scenarios for the alternatives.
 
-Before the walkthrough, choose the growth model and inflation assumption you would actually defend, not the pair that produces the earliest date. In the Foundation walkthrough, I'll show you where to review what onboarding selected, where the custom assumptions live, and how to save the baseline once without repeating the click path in this lesson.
+Before the walkthrough, choose the growth model and inflation assumption you would actually defend if you were explaining the plan to your family. In the Foundation walkthrough, I'll show you where to review what onboarding selected, where the custom assumptions live, and how to save the baseline once without repeating the click path in this lesson.
 
 ---
 ## 1.3 What the onboarding retirement age actually means
@@ -389,7 +389,7 @@ The first useful Plan result belongs in Foundation because it gives you somethin
 
 The Orange Plan standard stays fixed at 800 of 1,000 for normal users. A power user can change that standard under Advanced model settings, but the core course uses the same standard so the result stays easy to understand and compare.
 
-The main takeaway is simple: onboarding gives you a deterministic starting estimate. The simulation count shows how the fuller plan holds up across 1,000 market paths. Both become more useful as the information underneath them becomes accurate.
+Onboarding gives you a deterministic starting estimate. The simulation count shows how the fuller plan holds up across 1,000 market paths. Both become more useful as the information underneath them becomes accurate.
 
 In the Foundation walkthrough, I'll show you how to replace the rough account estimates with real accounts and holdings, review the assumptions, run or read the first preliminary Plan result, and see exactly which details could still change it.
 
@@ -553,7 +553,7 @@ advanced lesson. Edit the condition there, not here.*
 
 In today's lesson, we're going to figure out the amount of money your plan can actually put to work every month.
 
-I think this is where a financial plan becomes real. You can have a strong opinion about Bitcoin, taxes, retirement accounts, or borrowing, but none of those decisions can use more money than your cash flow produces.
+Cash flow is where a financial plan becomes usable. Every decision about Bitcoin, taxes, retirement accounts, or borrowing is limited by the amount your cash flow produces.
 
 Bitcoin may be the asset that builds the wealth, but the surplus is the engine underneath it. It is what lets you keep buying through a drawdown, build a reserve, pay extra on a debt when that makes sense, and avoid getting forced to sell at the exact time you do not want to.
 
@@ -595,9 +595,15 @@ And after the easy items, the biggest levers are usually housing, vehicles, and 
 
 There is one more number you need besides normal spending: your bare-bones spending.
 
-Bare-bones spending is the minimum amount the household could run on during a job loss, a business slowdown, or a major Bitcoin drawdown. Housing, food, utilities, insurance, healthcare, minimum debt payments, and the other expenses that do not disappear just because the month is bad.
+This is the monthly amount your household could run on during a stressful or unexpected situation, like:
 
-Normal spending tells the plan what your life costs. Bare-bones spending tells you how much cash it takes to buy time in an emergency. The next lesson uses that second number to size the reserve.
+- losing a job;
+- your business slowing down;
+- Bitcoin going through a major drawdown at the same time a car repair, medical bill, or another large one-time expense comes up.
+
+Include the essential bills that would still need to be paid: housing, food, utilities, insurance, healthcare, and minimum debt payments.
+
+Normal spending tells the plan what your life costs. Bare-bones spending tells you how much cash it takes to buy time when something goes wrong. The next lesson uses that number to size the reserve.
 
 Now we can calculate the usable surplus:
 
@@ -605,7 +611,9 @@ Income, minus taxes, minus living expenses, minus required debt payments.
 
 What is left is the pool the plan has available for the reserve, extra debt, and contributions.
 
-I would not count a retirement contribution as an expense in this calculation. A contribution is a decision about where the surplus goes. We are going to make that decision in the Allocation and Next-Dollar module.
+Treat retirement contributions as a use of the surplus.
+
+The Allocation and Next-Dollar module decides where that money goes.
 
 The last part is choosing a surplus you can actually rely on. The mathematical average may say you have four thousand dollars left, but if every third month has a large irregular bill, routing all four thousand is going to create stress and reversals.
 
@@ -622,7 +630,7 @@ In the walkthrough for this module, I'll show you where income and living expens
 ---
 ## 2.2 Size your cash reserve in months of spending
 
-*`TEACH` · ~10.4 min · AUSTIN DICTATION*
+*`TEACH` · ~9.8 min · AUSTIN DICTATION*
 
 In today's lesson, we're going to cover how to size your cash reserve to your life. Let me start by showing you why this matters.
 
@@ -630,13 +638,13 @@ In our example, a couple holds 1.75 Bitcoin. During the 2022 bear market, Bitcoi
 
 On the flip side of this, if you hold too much cash, you have the opposite problem. That money just sits there losing to inflation, and it's going to drag your returns over longer periods of time. What we're going to do in this lesson is find the right number for you in your life that's somewhere in the middle.
 
-For retirement, I use 18 months as a planning default, because the first few years after you stop working are when sequence risk is most dangerous. It's not a prediction of how long the next Bitcoin recovery takes.
+For retirement, I use 18 months as a planning default because the first few years after you stop working are when sequence risk is most dangerous. That reserve gives the household time to cover spending during a bad market.
 
 ### The formula
 
 The formula that I'm using for sizing your emergency fund is: you're going to take your bare-bones essential spending, and then you're going to multiply that by whatever your target amount of months is for your reserve. Bare-bones spending is the absolute minimum amount you can spend in a month and still get by.
 
-The reason why we use this is that, for the floor, or your bare-bones spending, in a real emergency, this is the amount that you could cut back and still get by. If we were to size your emergency fund based off normal spending, you're oversizing your emergency fund and losing money to inflation. A smaller amount of cash is going to buy you more time in a worst-case scenario.
+Bare-bones spending is the monthly amount the household could run on during an emergency. Using that number keeps the reserve focused on the essential bills and lets each dollar of cash buy more time.
 
 Once I get to the app in the walkthrough section, we'll have an opportunity to set what your bare-bones spending is, what your reserve size is going to be, and how you're going to start building a plan and allocating money towards this reserve.
 
@@ -660,9 +668,9 @@ So 6 months, times their $5,000 floor spending, their bare-bones spending — th
 
 ### The reserve changes jobs in retirement
 
-Now, your reserve is going to change as you move into retirement. While you're working, the purpose of the reserve is to replace a lost paycheck and protect you against losing your income and having large unexpected expenses come up. When we shift into retirement, there's not a paycheck to replace.
+Your reserve changes jobs as you move into retirement. While you're working, it replaces a lost paycheck and covers large unexpected expenses.
 
-Instead, this is going to cover the gap between what you spend and what's coming in from other income sources, like Social Security or, if you have one, a pension. The purpose of your reserve in retirement is there so that a bear market doesn't force you to sell Bitcoin to cover your expenses at the wrong time.
+In retirement, it covers the gap between what you spend and what comes in from Social Security, a pension, or other reliable income. That cash lets you keep paying the bills through a bear market and wait for the plan to support the next sale or refill.
 
 Let's say that we have a couple that's 67 years old. They're spending $80,000 a year, and they're getting about $51,600 from Social Security, so this is going to leave a gap of around $2,400 a month. The baseline in retirement is 18 months of that gap, so their target is going to come out to around $43,000 that they're going to want in a reserve. They went from $30,000 while working, up to $120,000 in the early retirement years when the portfolio funds all of it, and then to $43,000 once Social Security is covering part of the spending. They're spending the same amount of money, but the target is about 40% larger, because the reserve is now doing a different job, and they're going to be spending the money that they need to live off of from their reserve.
 
@@ -672,16 +680,16 @@ After this period, if you're not comfortable holding a large amount of cash, I t
 
 ### The scenario question
 
-Before you pick and decide what your cash reserve is going to be, I think it's important to go through a scenario or situation. If Bitcoin were to drop 50% tomorrow, we go into a bear market, and your income got cut off for 6 months and it took you a while to find a new job: would you rather hold more cash now and be able to safely spend it through that period? Or would you be okay with taking the risk to sell some Bitcoin during that time, knowing that the price is down 50%, and just cut your spending more aggressively to your bare-bones spending?
+Before you choose the reserve, run this scenario. If Bitcoin were to drop 50% tomorrow, we go into a bear market, and your income got cut off for 6 months and it took you a while to find a new job: would you rather hold more cash now and be able to safely spend it through that period? Or would you be okay with taking the risk to sell some Bitcoin during that time, knowing that the price is down 50%, and just cut your spending more aggressively to your bare-bones spending?
 
 Your risk tolerance sets the final number. I think having at least 3 months of a reserve while you're working, and then 12 months once you go into retirement, can protect you against selling assets at the wrong time and reduce sequence-of-returns risk in retirement.
 
-Before the walkthrough, choose the number of months that fits your income stability, dependents, fixed costs, and comfort with selling during a drawdown. In the walkthrough, I'll show you where to enter the bare-bones monthly amount, select the Reserve basis and months, and choose the monthly build cap. Orange Plan calculates the target from those inputs and shows the gap; you do not type the target multiplication manually.
+Before the walkthrough, choose the number of months that fits your income stability, dependents, fixed costs, and comfort with selling during a drawdown. In the walkthrough, I'll show you where to enter the bare-bones monthly amount, select the Reserve basis and months, and choose the monthly build cap. Orange Plan calculates the target and gap automatically from the monthly amount and number of months.
 
 ---
 ## 2.3 Add the future changes your plan should expect
 
-*`TEACH` · ~4.3 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.2 min · PRE-DICTATION FILMING DRAFT*
 
 In today's lesson, we're going to cover the future changes that should already be part of your baseline plan.
 
@@ -718,9 +726,9 @@ Fourth, where might the money come from? Current cash flow, existing cash, taxab
 
 Keep the financing question open here. The Debt module decides whether financing improves or weakens the plan. The Allocation module decides how new dollars are invested and which money needs to stay accessible.
 
-The timing still matters, but I do not want to turn it into a rigid rule that says every expense at a certain year must use a certain asset.
+Use the timing as a guide, then choose the funding source based on the amount, flexibility, and risk the household can carry.
 
-If the bill is coming in the next year or two and the amount is non-negotiable, it should not depend on Bitcoin being at a favorable price when the bill arrives.
+For a bill due in the next year or two, protect the committed amount in cash or another reliable source before the due date.
 
 If the event is more than five years away, Bitcoin can remain part of the funding plan. Start protecting the firmly promised portion as the date gets closer. The flexible portion can stay invested longer.
 
@@ -733,13 +741,11 @@ In the module walkthrough, I'll show you how to add an expected income or expens
 ---
 ## 2.4 Optional: decide how much college help you are actually funding
 
-*`TEACH` · ~6.0 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~5.8 min · PRE-DICTATION FILMING DRAFT*
 
 This lesson is optional. It is for you if you have children, grandchildren, or another education goal you expect to help pay for. If that does not apply, skip it and go straight to the module walkthrough.
 
-The first college-planning question is not which account to open.
-
-It is how much you are actually committing to help with.
+Start by deciding how much you are actually committing to help with.
 
 That may be four years of in-state tuition. It may be tuition only, a fixed dollar amount per child, a percentage of the final net cost, or whatever a specific savings account plus a set amount of cash flow can support.
 
@@ -751,7 +757,7 @@ So I would build the decision in this order.
 
 First, choose the commitment. What do you want your child to be able to count on from you?
 
-Second, estimate the likely cost of that commitment. Use the type of school you are realistically planning for today, current tuition and living costs, and a reasonable inflation assumption. This is an estimate that gets updated, not a contract with a school that has not been chosen yet.
+Second, estimate the likely cost of that commitment. Use the type of school you are realistically planning for today, current tuition and living costs, and a reasonable inflation assumption. Update this estimate as the school choice, aid package, and actual costs become clearer.
 
 Third, list every funding source.
 
@@ -761,11 +767,11 @@ That can include existing 529 money, new 529 contributions, Bitcoin or other tax
 
 For a Bitcoiner, start with the family commitment and funding sources, then decide whether a 529 improves that plan.
 
-A 529 can give you tax advantages when the money is used for qualified education expenses. It also limits the investment menu, has rules around how the money is used, and may not give you the Bitcoin exposure you actually want.
+A 529 can give you tax advantages when the money is used for qualified education expenses. The trade-off is a limited investment menu, qualified-use rules, and often no direct Bitcoin exposure.
 
 Bitcoin gives you more flexibility and, in my view, a stronger long-term growth asset. It also brings volatility, no education-specific tax shelter, and the risk that the price is down when tuition is due.
 
-For my own planning, if college is still more than five years away, I am comfortable using Bitcoin as a meaningful part of the savings plan. As the date gets closer, I would protect the first committed tuition payments so the family is not depending on the market at enrollment.
+For my own planning, if college is still more than five years away, I am comfortable using Bitcoin as a meaningful part of the savings plan. As the date gets closer, protect the first committed tuition payments in reliable funding before enrollment.
 
 As the date gets closer, I would revisit the commitment, the likely school cost, the aid picture, and the amount already available. Then I would start protecting the portion I have firmly promised.
 
@@ -777,11 +783,11 @@ The student can participate too. Work, scholarships, grants, and a reasonable am
 
 You may have heard the one-third idea: roughly one-third saved beforehand, one-third paid from current cash flow or investments while the student is enrolled, and one-third handled through aid, student work, or loans.
 
-I think that can be a useful starting framework because it reminds you there are several funding sources. I would not treat it as a rule. One family may want to cover the entire commitment. Another may have a strong retirement plan but limited current savings. Another may have a child choosing a much less expensive path.
+That can be a useful starting framework because it reminds you there are several funding sources. Adapt it to the family's actual commitment and resources. One family may want to cover the entire commitment. Another may have a strong retirement plan but limited current savings. Another may have a child choosing a much less expensive path.
 
-The plan should reflect the decision you actually made, not a generic percentage.
+Build the plan around the family's actual commitment and funding sources.
 
-Orange Plan can help with the numbers. The college life event establishes the amount and the years the plan is expected to fund. Education accounts and contribution rows show what is already set aside and what is still being added. The plan can compare those resources with the commitment and show the remaining amount the broader plan must cover. It does not decide the family commitment for you, and education contributions stay separate from the broader Reserve, Bridge, and Legacy savings target.
+Orange Plan can help with the numbers. The college life event establishes the amount and the years the plan is expected to fund. Education accounts and contribution rows show what is already set aside and what is still being added. The plan can compare those resources with the commitment and show the remaining amount the broader plan must cover. The family chooses the commitment. Orange Plan quantifies it, while education contributions stay separate from the broader Reserve, Bridge, and Legacy savings target.
 
 After you choose the commitment, compare it with what is already saved and what the current projection may provide. The remaining amount is the part that needs a funding decision. Some of it may become a monthly 529 contribution. Some may remain part of the Bitcoin plan. Some may be paid from future income.
 
@@ -1061,7 +1067,7 @@ A Bridge dollar needs to stay accessible. That usually points toward a taxable b
 
 A Legacy dollar has a much longer job. That is where tax-advantaged accounts become more valuable, because the money can compound for years without needing to be touched.
 
-The old deck shows a useful long-term path of HSA, IRA, then 401(k). I would treat that as a comparison order, not a law.
+The old deck shows a useful long-term path of HSA, IRA, then 401(k). Use that order as a starting comparison and adjust it when the household's Bridge, taxes, or debt priorities change.
 
 An HSA can be extremely valuable when you are eligible because it can receive pre-tax money, grow tax-free, and come out tax-free for qualified medical expenses. But eligibility and investment menus matter.
 
@@ -1102,7 +1108,7 @@ The waterfall also needs two versions written down:
 - what changes now, while the reserve may still be filling;
 - what changes after the reserve is full.
 
-A plan that says "invest two thousand dollars a month" but does not say when that starts or which account gets it is not implemented yet.
+An implemented contribution plan names the monthly amount, the start date, and the account that receives it.
 
 Saving the contribution plan updates the projection. Then change the payroll election, automatic bank transfer, exchange purchase, or brokerage instruction that actually moves the money.
 
@@ -1121,7 +1127,7 @@ First: can this account hold the investment you actually want?
 
 Second: if it can, is this the best tax and access wrapper for that investment?
 
-A perfect tax account is not useful for a Bitcoin dollar if the plan only offers a limited stock and bond menu and no Bitcoin ETF or brokerage window.
+The account has to hold the asset the plan actually calls for. A limited stock-and-bond menu may send the Bitcoin dollars to a different account.
 
 > 🎬 **VISUAL — Week 3 deck page 12: Direct Bitcoin, Bitcoin ETF, or no Bitcoin option.**
 
@@ -1133,7 +1139,7 @@ After that filter, look at the tax treatment and the job.
 
 Taxable accounts are flexible. The money can be used before retirement age, which makes them important for the Bridge. Long-term gains may receive capital-gains treatment, and you maintain control over which lots are sold.
 
-Tax-deferred accounts such as a Traditional 401(k) or IRA can reduce taxable income today and let the money grow without current tax. Withdrawals are generally taxed as ordinary income later, and required distributions can reduce your control in retirement. These accounts are usually long-term money rather than near-term Bridge funding.
+Tax-deferred accounts such as a Traditional 401(k) or IRA can reduce taxable income today and let the money grow without current tax. Withdrawals are generally taxed as ordinary income later, and required distributions can reduce your control in retirement. Use these accounts for long-term retirement money and keep near-term Bridge funding accessible.
 
 Roth accounts use money that has already been taxed. Qualified withdrawals can come out tax-free, and the account gives high-growth assets a long runway without future tax on the growth. Roth space is valuable, and the contribution choice still depends on the current bracket, expected future bracket, access needs, and investment menu.
 
@@ -1195,7 +1201,7 @@ In the walkthrough, we'll apply those answers row by row and confirm that the co
 2. Extra debt
 3. Contributions
 
-**SAY** Contributions is the amount left after the earlier claims. It is not a second surplus.
+**SAY** Contributions is the amount left after the earlier claims. It is the same surplus after the earlier claims.
 
 **⚠** If the Reserve uses all of the current surplus, Contributions can correctly show zero today. The future contribution plan can still be saved for the point when the Reserve is full.
 
@@ -1253,7 +1259,7 @@ In the walkthrough, we'll apply those answers row by row and confirm that the co
 
 **ADD** only accounts the household can use: 401(k), 403(b), IRA, Roth IRA, HSA, Solo 401(k), SEP, taxable, 529, and others as applicable.
 
-**⚠** Adding a row models a contribution. It does not open the outside account.
+**⚠** Adding a row models a contribution. The outside account still has to be opened with the provider.
 
 ## 7 · Capture the employer match
 
@@ -1363,9 +1369,9 @@ advanced lesson. Edit the condition there, not here.*
 
 ## 4.1 Decide what every debt should do
 
-*`TEACH` · ~6.6 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~6.5 min · PRE-DICTATION FILMING DRAFT*
 
-In today's lesson, we're going to build a debt strategy instead of just making a list of what you owe.
+In today's lesson, we're going to decide what each debt should do inside the plan.
 
 The module is finished when every debt has a job. That job may be to keep making the minimum payment, pay extra, refinance, consolidate, pay it off, or simply monitor it. The answer can be different for every row.
 
@@ -1383,11 +1389,11 @@ Debt-to-income looks at the required monthly payments compared with income. This
 
 Debt-to-assets compares the total debt with the assets on the balance sheet. This is the leverage lens. For a Bitcoiner, it can move dramatically even when the debt balance never changes, because the asset side moves with Bitcoin's price.
 
-That is why I would not look at today's debt-to-assets ratio and assume it is permanent. I want to know what it looks like after a major drawdown too.
+Recalculate debt-to-assets after a major Bitcoin drawdown before deciding how much leverage the household can carry.
 
-The two ratios answer different questions. Debt-to-income tells you whether the household can carry the payments. Debt-to-assets tells you how leveraged the balance sheet is. A strong answer on one does not cancel a weak answer on the other.
+The two ratios answer different questions. Debt-to-income tells you whether the household can carry the payments. Debt-to-assets tells you how leveraged the balance sheet is. Use both answers together; payment capacity and balance-sheet leverage can point in different directions.
 
-I treat the bands in the app as context, not commands. A household with two stable salaries, a full reserve, and flexible spending can handle more than a household with one variable income and high fixed costs. The correct range is the one that still works in the bad version of your life, not only the current one.
+Use the bands in the app as context for setting the household's range. A household with two stable salaries, a full reserve, and flexible spending can handle more than a household with one variable income and high fixed costs. Choose the range that still works after income falls, fixed costs rise, or Bitcoin goes through a major drawdown.
 
 Now we can look at the actual debts.
 
@@ -1404,7 +1410,7 @@ A high-rate credit card is usually a clear problem because the guaranteed cost i
 
 A low-rate fixed mortgage is a different decision. Paying it off gives you a guaranteed return equal to the rate and removes the payment. Keeping it preserves liquidity and leaves the capital available for a job you may value more. The payment burden and your tolerance can flip the answer either way.
 
-A medium-rate auto or student loan belongs in the comparison zone. The rate may be a drag, but the payment may or may not be the thing holding the plan back. I would compare the benefit of paying it faster with the benefit of filling the reserve, capturing an employer match, or funding accessible money for an early retirement.
+A medium-rate auto or student loan belongs in the comparison zone. The rate may be a drag, while the payment pressure determines whether it is the current bottleneck. I would compare the benefit of paying it faster with the benefit of filling the reserve, capturing an employer match, or funding accessible money for an early retirement.
 
 And a variable-rate loan deserves more attention than the current rate alone suggests. The payment can change later, so I would model the higher-rate version before deciding it is harmless.
 
@@ -1416,7 +1422,7 @@ There are three decisions people often collapse into one:
 2. whether to pay an existing debt faster;
 3. whether to add new debt or leverage to buy Bitcoin.
 
-Those are not the same risk.
+Evaluate each decision separately.
 
 Keeping existing low-rate debt and adding new leverage are separate decisions. A new Bitcoin-backed loan needs a higher standard because it adds a payment, a lender, and forced-sale risk.
 
@@ -1433,7 +1439,7 @@ For each debt, write one sentence:
 - Keep the minimum because the rate is low and the payment is comfortable.
 - Pay an extra amount because this is the current bottleneck.
 - Refinance because the variable rate or payment creates risk.
-- Pay it off because the guaranteed cost and stress are not worth carrying.
+- Pay it off because removing the guaranteed cost and stress improves the plan.
 - Monitor because the balance is secured by an asset and the risk changes with the market.
 
 The reason matters more than the dropdown. If the reason changes, the job can change at the annual review.
@@ -1629,7 +1635,7 @@ In the tax walkthrough, I'll show you how to import the available history, revie
 ---
 ## 5.2 Use the tax buckets and the low-income window on purpose
 
-*`TEACH` · ~5.6 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~5.5 min · PRE-DICTATION FILMING DRAFT*
 
 Once the cost basis is usable, the next question is where the money sits and when the tax is going to be paid.
 
@@ -1639,7 +1645,7 @@ I think of the plan as having three tax buckets.
 
 Taxable money is flexible. You can generally access it whenever you need it. Investment gains may receive long-term capital-gains treatment when the holding-period rules are met, and there is a zero-percent federal long-term capital-gains bracket for some taxpayers. Gains stack on top of the rest of taxable income, so the available 0% long-term capital-gains space is limited by the whole return.
 
-Tax-deferred money includes Traditional retirement accounts. Contributions may reduce taxable income today, and the investments can grow without current tax. Withdrawals are generally ordinary income later. Required minimum distributions eventually force money out based on the rules that apply to your birth year and account. The starting age has changed more than once, so the current rule should be verified instead of frozen into a video.
+Tax-deferred money includes Traditional retirement accounts. Contributions may reduce taxable income today, and the investments can grow without current tax. Withdrawals are generally ordinary income later. Required minimum distributions eventually force money out based on the rules that apply to your birth year and account. Verify the current starting age before recording or acting because the rule has changed more than once.
 
 Roth money has already been taxed before it goes in. Qualified withdrawals can come out tax-free, and Roth IRAs do not have lifetime required minimum distributions for the original owner under current law. Roth space is valuable for long-term growth. The right contribution mix still depends on the tax rate now, the expected rate later, and access needs.
 
@@ -1659,7 +1665,7 @@ That middle period is the tax-planning window.
 
 A Roth conversion is one way to use it. You move money from a Traditional account into a Roth, recognize ordinary income now, and reduce the amount left to create future required distributions. Compare the known tax rate now with the expected lifetime tax and flexibility of leaving the money in the Traditional account.
 
-I would not simply "fill the bracket" based on one tax rate line. The true cost can include how the conversion interacts with capital gains, Social Security taxation, Medicare surcharges, health-insurance subsidies before Medicare, the net investment income tax, state tax, and deductions or credits.
+Model the entire tax stack before choosing a conversion amount. The true cost can include how the conversion interacts with capital gains, Social Security taxation, Medicare surcharges, health-insurance subsidies before Medicare, the net investment income tax, state tax, and deductions or credits.
 
 Use the app to model a range, then verify the exact current-year amount with a tax professional before execution.
 
@@ -1675,7 +1681,7 @@ Gain harvesting moves in the opposite direction. In a low-income year, you may i
 
 State tax can be a large lever too. A large gain or conversion can produce very different results depending on residency. Domicile depends on the full pattern of where you live, work, vote, hold property, spend time, and intend to remain. A state entry on a tax form is only one piece of that record. A move made around a major sale can receive extra scrutiny.
 
-I would treat relocation as a life decision that can have a tax benefit, not a tax trick that happens to require a moving truck.
+Treat relocation as a real life decision and measure the tax benefit inside the full plan.
 
 Leave this module with three things:
 
@@ -1891,7 +1897,7 @@ The tax strategy and healthcare strategy also interact. Income from Roth convers
 
 Social Security timing belongs inside the Bridge decision too.
 
-Waiting can increase the monthly benefit, but waiting also means the portfolio funds more of the gap in the meantime. Claiming earlier may reduce pressure on the portfolio or avoid selling more Bitcoin during a weak market. Claiming later may provide a larger durable floor for life. The correct answer comes from comparing the full plan, not repeating "always wait" or "always claim early."
+Waiting can increase the monthly benefit, but waiting also means the portfolio funds more of the gap in the meantime. Claiming earlier may reduce pressure on the portfolio or avoid selling more Bitcoin during a weak market. Claiming later may provide a larger durable floor for life. Compare the full plan at several claiming ages and choose the trade-off that fits the Bridge, taxes, and household priorities.
 
 By the end of this lesson, I want you to know:
 
@@ -1919,11 +1925,11 @@ Then the taxable account runs down. Now most of the spending has to come from th
 
 The household left lower brackets unused and pushed more taxable income into later years, where rates and other interactions may be worse.
 
-The better strategy is often tax-aware rather than strictly sequential.
+A tax-aware strategy can use low ordinary-income brackets on purpose while taxable lots fund the rest of the spending.
 
 Use the reliable income first. Then look at the ordinary-income room that is available this year. A Traditional withdrawal or Roth conversion may intentionally use part of that room. Taxable lots can fund the rest of the spending, with the gain determined by basis rather than treating the entire withdrawal as income.
 
-The exact blend changes every year. It depends on spending, basis, account balances, Social Security, healthcare subsidies, Medicare, and the current tax rules. The ratio is an output from the plan, not a universal number somebody should copy.
+The exact blend changes every year. It depends on spending, basis, account balances, Social Security, healthcare subsidies, Medicare, and the current tax rules. Let the plan produce the blend from spending, basis, account balances, Social Security, healthcare, and current tax rules.
 
 > 🎬 **VISUAL — Retirement Income deck income waterfall, then show a blended tax-aware version beside the strict order.**
 
@@ -1941,7 +1947,7 @@ When the plan is healthy and the assets used for the refill are strong, top the 
 
 When the portfolio is in a major drawdown, pause the refill and spend from the cash already set aside. The entire reason for holding the Reserve is to avoid selling volatile assets at low prices.
 
-If the Reserve approaches its hard floor, the household may still have to refill, reduce spending, use another account, or make a different funding decision. The rule is not "never sell down." The rule is that the plan responds before a cash shortage forces a bad decision.
+If the Reserve approaches its hard floor, respond before a cash shortage forces a bad decision. The response may be a refill, lower spending, another account, or a controlled sale.
 
 > 🎬 **VISUAL — Retirement Income deck page 9: Reserve ← Bridge ← Forever, refill on strength.**
 
@@ -1961,7 +1967,7 @@ Borrowing can provide liquidity while adding interest, counterparty risk, LTV ri
 
 Holding keeps the long-term position untouched. That can be a valid core strategy when the Reserve, Bridge, other assets, or income can fund life without relying on a sale. A sustainable strategy can mix withdrawals, sales, and borrowing across years. Using a new loan for every cash need compounds interest, lender, and repayment risk. A household may sell in a low-gain year, borrow a conservative amount during a strong period, and leave a core Bitcoin position untouched.
 
-The plan should tell you what each choice costs in taxes, interest, risk, and estate value. It should not decide which trade-off your family prefers.
+The plan should tell you what each choice costs in taxes, interest, risk, and estate value. The family chooses the trade-off after seeing the taxes, interest, risk, and estate impact.
 
 In the walkthrough, we'll compare the withdrawal settings, read the year-by-year sources of the paycheck, set the Reserve and refill behavior, and preview the sell-versus-borrow choices before anything is applied to the baseline plan.
 
@@ -1976,17 +1982,17 @@ Orange Plan runs the completed plan through 1,000 market paths. Every path still
 
 If the result is 790 of 1,000, the money lasted through the planning age in 790 modeled paths. In the other 210, the exact plan as written did not last through that age.
 
-The simulation count measures the saved plan under the selected assumptions. It is a stress test for comparing decisions, rather than a personal probability of ruin.
+The simulation count measures the saved plan under the selected assumptions. Use it as a stress test for comparing decisions. It describes modeled paths under the selected assumptions, not your personal chance of ruin.
 
 > 🎬 **VISUAL — 1,000 plan paths ending in a large “790 of 1,000” count, with the through-age shown underneath.**
 
-The normal Orange Plan standard is 800 of 1,000 successful simulations. Orange Plan uses that fixed standard to calculate the earliest modeled retirement date. Normal users see one clear standard instead of another percentage control to manage.
+The normal Orange Plan standard is 800 of 1,000 successful simulations. Orange Plan uses that fixed standard to calculate the earliest modeled retirement date. That fixed standard keeps the core result consistent across every plan.
 
 The planned retirement date remains separate. That is the date the household currently intends to use. The earliest modeled date is the first date that reaches the Orange Plan standard.
 
 Read the freshness state beside the result too. Preliminary means important facts remain. Current means the facts and calculation are up to date. Stale means a modeled fact changed after the last calculation. Unavailable means the calculation or required source data failed.
 
-The goal is a plan the household actually wants that reaches the Orange Plan standard. Pushing the count toward 1,000 can require working longer or spending less than the household values.
+Build the spending level the household actually wants, then confirm it reaches the Orange Plan standard. Pushing the count toward 1,000 can require working longer or spending less than the household values.
 
 Current versus Preview shows what a proposed decision changes. A later retirement date, lower spending, higher savings, a different allocation, a tax strategy, debt payoff, or borrowing strategy should show the exact count before and after, along with the other outcomes that materially moved.
 
@@ -2006,13 +2012,13 @@ When the current portfolio is between the two guardrails, the spending plan stay
 
 Falling below the lower guardrail opens a spending review. The review calculates a lower spending amount that moves the plan back toward the policy's risk standard.
 
-Rising above the upper guardrail opens the same review in the other direction. The household can preview a higher spending amount instead of under-spending indefinitely.
+Rising above the upper guardrail opens a review of a higher spending amount, giving the household permission to use more of the plan when the math supports it.
 
 Each guardrail level is year-specific. It uses the same remaining cash flows, taxes, income, debts, assumptions, and planning age as the saved plan. The annual spending adjustment remains capped at 10%, so a large change can take more than one annual review.
 
 The core screen should answer one question in plain language: are you within the guardrails, below the lower guardrail, or above the upper guardrail? The Advanced methodology can explain the internal probability boundaries and inverse calculation behind those portfolio levels.
 
-The annual review also checks the Reserve. A weak market and a lower spending review may call for pausing a discretionary refill instead of selling assets into weakness. A healthy plan can refill toward the target. A Reserve near its hard floor still needs attention because the household has bills regardless of the market.
+The annual review also checks the Reserve. During a weak market, the annual review may pause a discretionary refill and use the cash already set aside. A healthy plan can refill toward the target. A Reserve near its hard floor still needs attention because the household has bills regardless of the market.
 
 By the end of this lesson, you should be able to explain four things: how many of 1,000 simulations worked, the planning age used, whether the result is current, and whether the portfolio is inside its spending guardrails.
 
@@ -2174,7 +2180,7 @@ advanced lesson. Edit the condition there, not here.*
 
 ## 7.1 Self-custody, professional custody, and when a split makes sense
 
-*`TEACH` · ~7.7 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~7.6 min · PRE-DICTATION FILMING DRAFT*
 
 Most custody advice starts by asking, "What is the safest setup?"
 
@@ -2188,9 +2194,9 @@ Professional custody takes some of that burden off you and may give the family s
 
 Multisig can make one lost key survivable. It also gives you more keys, more documentation, and more ways to build something the family does not understand.
 
-There is no setup with no trade-offs.
+Every setup comes with trade-offs.
 
-The goal is to decide which risks you are willing to own and make sure one mistake, one provider, one device, or one bad day cannot destroy the family's plan.
+Choose the risks you are willing to own, then make sure one mistake, one provider, one device, or one bad day cannot destroy the family's plan.
 
 Before we go farther, I want to separate custody from inheritance.
 
@@ -2198,7 +2204,7 @@ Custody is the operational side: where the Bitcoin is held, who can move it, how
 
 Estate planning is the legal side: who has authority and who receives the asset.
 
-They have to fit together, but they are not the same job.
+Custody handles operational access. Estate planning handles legal authority and transfer.
 
 And there is one rule for the entire module: document the process, never the secrets.
 
@@ -2228,7 +2234,7 @@ Another person may want both directly controlled Bitcoin and a professionally su
 
 For another household, support, recourse, and family simplicity matter more than controlling every key personally.
 
-None of those answers automatically tells you which product to use. It tells you which trade-off you are not willing to give up.
+Those answers narrow the trade-offs and show which protection the household insists on preserving.
 
 Then name the job of each meaningful Bitcoin pool.
 
@@ -2242,7 +2248,7 @@ I would classify each pool by rough scale instead of writing exact balances on a
 - meaningful;
 - life-changing.
 
-The decision changes when the amount becomes life-changing. A hardware wallet that felt reasonable when it held a smaller amount can eventually represent the family's entire financial future. Nothing about the device changed. What was at stake did.
+The decision changes when the amount becomes life-changing. A hardware wallet that felt reasonable when it held a smaller amount can eventually represent the family's entire financial future. The device stayed the same while the amount at stake became life-changing.
 
 That is when concentration in one method becomes a risk of its own.
 
@@ -2272,7 +2278,7 @@ I would use five steps to make the decision:
 
 Choose the simplest setup that removes the household's real failure points and can still be maintained ten or twenty years from now.
 
-I would measure readiness with four outcomes instead of a wealth ladder:
+I would measure readiness with four outcomes:
 
 1. The accounts and recovery channels are secured.
 2. Any direct custody has been proven through a real recovery test.
@@ -2300,11 +2306,9 @@ The next two lessons handle the operational work: proving a hardware-wallet reco
 ---
 ## 7.2 Set up a hardware wallet and prove the recovery
 
-*`TEACH` · ~4.2 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.1 min · PRE-DICTATION FILMING DRAFT*
 
-The important test for a hardware wallet is not whether you wrote the recovery words down.
-
-It is whether you can restore the wallet from the backup before a meaningful amount of Bitcoin depends on it.
+The important hardware-wallet test is whether you can restore the wallet from the backup before a meaningful amount of Bitcoin depends on it.
 
 Most people skip that step. They generate a wallet, write the words down, send the Bitcoin, and hope the backup works. The first real recovery test then happens on the worst possible day.
 
@@ -2321,9 +2325,9 @@ The general process is:
 5. Use the vendor's verified recovery-check procedure or, when appropriate for the exact device, wipe and restore the test wallet.
 6. Confirm the same wallet and test funds reappear before sending a meaningful balance.
 
-The exact button sequence depends on the device and firmware. That is why the filmed demo has to use the actual hardware and current instructions rather than a generic script pretending every wallet works the same way.
+The exact button sequence depends on the device and firmware, so the filmed demo uses the actual hardware and current vendor instructions.
 
-There are a few rules that do not change.
+The safety rules stay the same across devices.
 
 Never type recovery words into a computer, phone, ordinary website, photo, cloud document, or AI chat.
 
@@ -2343,7 +2347,7 @@ Multisig adds another dependency: the wallet descriptor or configuration that ex
 
 There is also a practical issue with moving Bitcoin into cold storage: transaction size and UTXOs.
 
-Every withdrawal can create a separate spendable output. A large number of tiny withdrawals can become expensive or awkward to spend later when network fees are high. I would not turn this into one permanent Bitcoin threshold because the dollar value and fee market change. The useful rule is to avoid creating a pile of uneconomic outputs and review consolidation when fees are low. The Advanced wallet-operations lesson covers the details.
+Every withdrawal can create a separate spendable output. A large number of tiny withdrawals can become expensive or awkward to spend later when network fees are high. Set the withdrawal threshold from the current dollar value, fee market, and the size of the outputs you are creating. The useful rule is to avoid creating a pile of uneconomic outputs and review consolidation when fees are low. The Advanced wallet-operations lesson covers the details.
 
 For this core lesson, the finish line is straightforward: you have a device-specific recovery process you personally tested with a trivial amount, the backup is stored offline, and the address and transaction checks were performed on the trusted device.
 
@@ -2354,9 +2358,7 @@ The external demo will show the actual process using a throwaway wallet with no 
 
 *`TEACH` · ~6.1 min · PRE-DICTATION FILMING DRAFT*
 
-Most Bitcoin losses are not somebody breaking the cryptography.
-
-They are one weak login, one backup, one location, one person who knows the process, one provider, or one rushed decision with no second check.
+Most Bitcoin losses come from one weak login, one backup, one location, one person who knows the process, one provider, or one rushed decision with no second check.
 
 I call these the "only one" problems.
 
@@ -2388,7 +2390,7 @@ The important addition is method and provider concentration.
 
 A person can have several devices and backups and still have the entire plan depend on one method. They can also spread Bitcoin across two account names that rely on the same underlying custodian or recovery system.
 
-That is why I want you to test failure domains, not count objects.
+Test whether the backups are independent across failure domains.
 
 Three keys in the same house are still exposed to one house fire.
 
@@ -2446,7 +2448,7 @@ An authenticator app is good. A hardware security key can add phishing resistanc
 
 Then there are the scam rules.
 
-Urgency is the biggest warning sign. Somebody says the account is being drained, the wallet is compromised, or the offer expires in ten minutes. The goal is to make you skip the verification process.
+Urgency is the biggest warning sign. Somebody says the account is being drained, the wallet is compromised, or the offer expires in ten minutes. The pressure is designed to make you skip the verification process.
 
 No legitimate provider needs your seed phrase or private key.
 
@@ -2591,7 +2593,7 @@ Record in `DEVICE-DEMO-VERIFICATION.md`:
 - the risk the architecture is meant to reduce;
 - and the first unfinished action.
 
-**SAY** The app checklist records implementation status. It does not decide that every larger balance should move into a more complicated self-custody setup.
+**SAY** The app checklist records implementation status. The decision map records the household's chosen architecture and the risk it is meant to reduce.
 
 ## 2 · Map the meaningful Bitcoin pools
 
@@ -2639,7 +2641,7 @@ For every life-changing row, ask:
 
 **CHECK** only items that are true today.
 
-**⚠** A recovery-test item stays open until the recovery was actually proven. Buying a hardware wallet does not complete it.
+**⚠** A recovery-test item stays open until the recovery was actually proven. Mark recovery complete only after a real recovery test.
 
 **⚠** Review the email security, authentication, withdrawal protections, beneficiary or estate process, and provider concentration for every institutional account.
 
@@ -2660,7 +2662,7 @@ Examples:
 - Collaborative multisig → verify provider-independent recovery and the wallet policy backup.
 - Intentional split → define the job and maximum exposure for each bucket before moving funds.
 
-**SAY** The goal is one meaningful reduction in risk, not checking every box for appearance.
+**SAY** Use the checklist to make one meaningful reduction in risk at a time.
 
 ## 7 · Confirm process contacts without secrets
 
@@ -2756,7 +2758,7 @@ Availability means they have the time and willingness. Somebody can be trustwort
 
 Trust means they will act in good faith when the family is under pressure.
 
-Pick for the job, not for who would be flattered to be asked. Then ask the person. An executor who has never heard about the role is not part of a working plan yet.
+Pick for capability, availability, and trust. Then ask the primary person and backup to accept the role before you rely on them in the plan.
 
 A nontechnical executor can still be a good executor. Give the executor a clear process, the right legal authority, and a named technical or custody contact when the setup requires one. The executor can coordinate the recovery without personally being the wallet expert.
 
@@ -2764,7 +2766,7 @@ A nontechnical executor can still be a good executor. Give the executor a clear 
 
 The baseline legal work usually includes four areas.
 
-A will directs how probate assets should be handled and names important roles. It does not control every asset automatically.
+A will directs how probate assets should be handled and names important roles. Beneficiary forms, jointly owned assets, and trust-owned assets follow their own legal paths.
 
 A financial power of attorney can give somebody authority to handle financial matters while you are alive but unable to act. A power of attorney generally ends at death. The executor or trustee role takes over then.
 
@@ -2797,22 +2799,18 @@ Trustee duties and the authority to hold a concentrated asset depend on the gove
 
 Before moving on, choose the primary person and backup you would trust to run the process. Confirm whether they are willing. Then list which of the baseline documents and beneficiary reviews are already complete and which still need an appointment.
 
-The next lesson connects that legal layer to the technical custody setup without pretending there is one universal way to split seeds, passphrases, or keys.
+The next lesson connects that legal layer to the technical custody setup and shows how the design changes with single-sig, passphrase, multisig, or institutional custody.
 
 ---
 ## 8.2 Align legal authority with the technical recovery path
 
-*`TEACH` · ~4.7 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.1 min · PRE-DICTATION FILMING DRAFT*
 
 This lesson is about making sure the legal plan and the custody plan lead to the same outcome.
 
-I do not want to give you one universal formula such as "the heirs hold the seed and the executor holds the passphrase." That can work in a carefully designed and tested plan, but it can also create new failure points or give the wrong person practical control.
+Use one governing principle for every custody design: the legally authorized people need a complete, tested recovery path while no unnecessary person can act alone. The exact structure changes with the custody method, the people involved, the legal roles, and what each component can actually do.
 
-The right structure depends on the custody method, the people involved, the legal roles, and what each component can actually do.
-
-Start with the principle: no unnecessary person should hold enough information or authority to act alone, but the family must still have a complete, tested recovery path when the proper conditions are met.
-
-With ordinary single-signature custody, anyone who obtains the seed can usually recover that wallet. If a BIP39 passphrase is also used, the seed without the exact passphrase opens a different wallet. A passphrase is another secret that must be recovered exactly. It does not create a second signer or legal dual control.
+With ordinary single-signature custody, anyone who obtains the seed can usually recover that wallet. If a BIP39 passphrase is also used, the seed without the exact passphrase opens a different wallet. A passphrase is another secret that must be recovered exactly. Multisig is what creates multiple signers and operational separation.
 
 Splitting those two objects between people can reduce one-person access in some designs, but it can also mean one lost memory, one unavailable person, or one family dispute locks everybody out. It should only be used when the full recovery has been tested and the attorney understands who has legal authority to combine the components.
 
@@ -2822,7 +2820,7 @@ With multisig, the structure is different.
 
 A two-of-three wallet requires two valid signatures from the defined keys. A two-of-three wallet can create operational separation because one key alone cannot spend. The descriptor or wallet configuration, identity process, legal authority, and people remain part of the recovery plan.
 
-The wallet descriptor or configuration records how the keys are combined, including the threshold and derivation information. Without the correct configuration, heirs may struggle to reconstruct the intended wallet even if they have key material.
+The wallet descriptor or configuration records how the keys are combined, including the threshold and derivation information. Heirs need the correct wallet configuration as well as the key material to reconstruct the intended wallet.
 
 > 🎬 **VISUAL — Two separate diagrams: passphrase single-sig and 2-of-3 multisig. Show what each component can and cannot do. Do not label a passphrase as a second signer.**
 
@@ -2832,7 +2830,7 @@ A DIY multisig arrangement removes the provider but moves every operational duty
 
 The legal role also needs to be clear.
 
-An executor, trustee, spouse, beneficiary, and technical helper may all be different people. The person with a key may not be the person legally entitled to direct a transaction. The person with legal authority may not be technically capable of signing one.
+An executor, trustee, spouse, beneficiary, and technical helper may all be different people. Legal authority and signing capability can belong to different people.
 
 That is why I like separating roles on paper:
 
@@ -2846,11 +2844,11 @@ That is why I like separating roles on paper:
 
 The system should be tested at the process level while you are alive. Use a trivial-value test wallet or a documented tabletop exercise to confirm that everybody knows the first call, the role they have, and the components that exist. Keep real recovery secrets out of the exercise.
 
-The plan should also account for change. Hardware wallets fail. Providers merge or close. Executors age. Families move. A custody design that works today can become unusable if it is never reviewed.
+The plan should also account for change. Hardware wallets fail. Providers merge or close. Executors age. Families move. Review the custody design as devices, providers, and people change.
 
 The deliverable is a tested path where the legally authorized people can recover the asset, one ordinary failure does not destroy the plan, and no secret is stored in the app or legal documents.
 
-The heir letter in the next lesson tells the family how to start without disclosing the components themselves.
+The heir letter in the next lesson gives the family the safe starting instructions while the recovery components remain separate.
 
 ---
 ## 8.3 Write the heir letter and create the communication backstop
@@ -2916,11 +2914,11 @@ The walkthrough will start the letter in Protect, confirm beneficiaries, enable 
 ---
 ## 8.4 Use insurance for the risks the current stack cannot carry
 
-*`TEACH` · ~4.7 min · PRE-DICTATION FILMING DRAFT*
+*`TEACH` · ~4.5 min · PRE-DICTATION FILMING DRAFT*
 
 Insurance exists for the risks that would break the plan before the assets are large enough to absorb them.
 
-The reserve already self-insures smaller problems. A repair, a deductible, or a short income interruption should not require a complicated policy if the cash buffer can handle it.
+Use the reserve for repairs, deductibles, and short income interruptions that the cash buffer can absorb.
 
 Insurance is for the larger gap between what the family would need and what the current assets could provide.
 
@@ -2938,13 +2936,13 @@ Disability coverage protects the income while you are alive.
 
 A long disability can stop the paycheck and the monthly surplus at the same time, while healthcare and other costs continue. Employer coverage may replace only part of the income, may have a dollar cap, may be taxable depending on who paid the premium, and may use a definition of disability that becomes harder to qualify for over time.
 
-The contract language matters: own-occupation versus any-occupation definitions, waiting periods, benefit periods, exclusions, and how bonuses or self-employment income are treated. This is where the actual policy and a licensed professional matter more than a generic rule.
+The contract language matters: own-occupation versus any-occupation definitions, waiting periods, benefit periods, exclusions, and how bonuses or self-employment income are treated. Review the actual policy with a licensed professional because those terms drive the result.
 
 Umbrella coverage is excess liability protection above the required underlying home and auto limits. It can help protect the balance sheet from a large liability claim and defense costs. Umbrella coverage sits above the underlying policies and follows its own exclusions and required base limits. Read those terms before deciding which liability gaps it covers.
 
-Long-term care belongs on the later-life review. The cost is real, the products and pricing are imperfect, and a sufficiently large plan may choose to self-insure. The decision depends on health, family support, desired care, state rules, and the size of the assets available later. It is worth revisiting in the years when coverage is still available, not waiting until care is already needed.
+Long-term care belongs on the later-life review. The cost is real, the products and pricing are imperfect, and a sufficiently large plan may choose to self-insure. The decision depends on health, family support, desired care, state rules, and the size of the assets available later. Revisit long-term-care coverage while the household still has practical options, usually during the later working years.
 
-Health coverage before Medicare is part of the Retirement Income bridge rather than this insurance audit. The same principle applies: price the actual options and the risk retained by the household.
+Handle health coverage before Medicare inside the Retirement Income bridge. The same principle applies: price the actual options and the risk retained by the household.
 
 > 🎬 **VISUAL — Insurance coverage audit: Risk / current coverage / what the stack can absorb / remaining gap / next review date.**
 
