@@ -5,7 +5,7 @@
 > The sheet beside your keyboard is the sheet in `scripts/`; this is the
 > order to shoot them in and what each one needs staged first.
 
-**10 capture sessions, covering 10 capture lessons · ~0 min of raw capture.**
+**10 capture sessions, covering 10 capture lessons · ~159 min of raw capture.**
 
 A session is one continuous recording. Where a sheet names more than one
 lesson, it is filmed once and the edit splits it at the cut point.
@@ -62,7 +62,7 @@ forward and restarting is where the retakes come from. Where a sheet has
 
 ## ☐ 7.4 · DEMO — Hardware-wallet recovery and exchange hardening
 
-**  ·  sheet: `scripts/07-4_DEMO_hardware-wallet-and-exchange-hardening.md`
+*External screen / device recording · about 12 minutes*  ·  sheet: `scripts/07-4_DEMO_hardware-wallet-and-exchange-hardening.md`
 
 ---
 
