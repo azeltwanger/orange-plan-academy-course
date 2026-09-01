@@ -59,7 +59,7 @@
 
 **⚠** The learner does not calculate and type the target amount manually.
 
-**DO** Dashboard → exact cash holding → **Add shield / designate emergency fund** using the current holding action.
+**DO** Home → open the exact cash holding → **Add shield / designate emergency fund** using the current holding action.
 
 **SAY** The shield tells the plan which cash is spoken for; it does not create new cash.
 
@@ -75,7 +75,7 @@
 
 ## 7 · Add expected life events
 
-**DO** Plan → Retirement → Life events → **Add event**.
+**DO** Plan → Build & improve → Improve accuracy → Life events → **Add event**.
 
 **ENTER** event type · amount · age or year · duration or recurrence when applicable.
 
@@ -91,7 +91,7 @@
 
 **DO** Add a College event with the parent's actual commitment, not the full sticker price by default.
 
-**SEE** The Education target, current education-account amount, projected coverage, and remaining gap where the current app displays them.
+**SEE** The education commitment, current education-account amount, projected coverage, and remaining gap where the final V1 build displays them.
 
 **DO** Add or review a 529 contribution only when it is part of the chosen funding mix.
 
@@ -99,9 +99,9 @@
 
 ## 9 · Close the area
 
-**DO** Return to **Build & improve → Cash flow**.
+**DO** Return to Plan → **Build & improve → View all**.
 
-**SEE** Income · Living expenses · Reserve target · Life events complete, or **Nothing major coming** selected truthfully.
+**SEE** Income and spending · Cash reserve · Detailed cash flow · Life events complete, or **Nothing major coming** selected truthfully.
 
 ## Module 2 checkpoint
 
