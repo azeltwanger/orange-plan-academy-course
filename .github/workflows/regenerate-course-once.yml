@@ -1,17 +1,21 @@
-name: Apply full course audit
+name: Regenerate and verify Academy course once
 
 on:
   push:
     branches:
       - course-v1-full-lesson-audit
     paths:
-      - .review/apply-source-patch
+      - .course-regeneration-trigger
 
 permissions:
   contents: write
 
+env:
+  PYTHONDONTWRITEBYTECODE: "1"
+  PYTHONPYCACHEPREFIX: /tmp/orange-plan-academy-pycache
+
 jobs:
-  apply:
+  regenerate:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -21,25 +25,7 @@ jobs:
 
       - uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
-
-      - name: Reconstruct and apply reviewed source patch
-        run: |
-          set -euo pipefail
-          cat .review/source-patch.part* > /tmp/full-course-source.patch.xz.b64
-          echo '2b0e97a5bcf7d0f91e0b86465b5456e678b9df02409ff772113702e5d34b8b21  /tmp/full-course-source.patch.xz.b64' | sha256sum -c -
-          base64 -d /tmp/full-course-source.patch.xz.b64 | xz -d > /tmp/full-course-source.patch
-          echo '2096aaff2bd31cd64467c622dd6c63cdfa43c36864298e68fda7dc91a86df643  /tmp/full-course-source.patch' | sha256sum -c -
-          git apply --check /tmp/full-course-source.patch
-          git apply /tmp/full-course-source.patch
-
-      - name: Remove temporary review transport
-        run: |
-          rm -f .review/source-patch.part*
-          rm -f .review/export-trigger .review/apply-source-patch
-          rm -f .github/workflows/export-course-review-bundle.yml
-          rm -f .github/workflows/apply-full-course-audit.yml
-          rmdir .review 2>/dev/null || true
+          python-version: "3.12"
 
       - name: Regenerate every derived course layer
         run: |
@@ -60,7 +46,7 @@ jobs:
           python3 tools/direct-voice-audit.py --fail-ordinary
           python3 tools/course-metrics.py
 
-      - name: Verify the complete course
+      - name: Verify the complete 52-lesson course
         run: |
           set -euo pipefail
           python3 -m py_compile \
@@ -79,12 +65,21 @@ jobs:
           python3 tools/cold-read-audit.py
           python3 tools/course-metrics.py --check
           git diff --check
+          test "$(find scripts -maxdepth 1 -type f -name '*.md' ! -name 'README.md' ! -name 'VOICE-GUIDE.md' | wc -l)" -eq 38
+          test "$(find scripts/advanced -maxdepth 1 -type f -name 'A*.md' | wc -l)" -eq 14
+          if find . -type d -name __pycache__ -o -type f -name '*.pyc' | grep -q .; then
+            echo 'Tracked or generated Python cache artifacts remain.' >&2
+            exit 1
+          fi
 
-      - name: Commit the completed 52-lesson audit
+      - name: Commit only after every check passes
         run: |
           set -euo pipefail
+          rm -f .course-regeneration-trigger
+          rm -f .github/workflows/regenerate-course-once.yml
           git config user.name 'OpenAI Course Audit'
           git config user.email 'noreply@openai.com'
           git add -A
-          git commit -m 'Complete all 52 lesson audits and V1 alignment'
+          git diff --cached --quiet && { echo 'No regenerated changes to commit.'; exit 1; }
+          git commit -m 'Finalize all 52 Academy lessons for dictation'
           git push origin HEAD:course-v1-full-lesson-audit
