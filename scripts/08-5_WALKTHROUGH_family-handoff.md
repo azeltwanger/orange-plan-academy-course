@@ -30,7 +30,7 @@
 
 **⚠** Never enter seeds, keys, passphrases, PINs, passwords, exact recovery steps, or storage coordinates.
 
-**OPTIONAL** Show Draft with AI only after restating the no-secrets rule. Review every generated line.
+**OPTIONAL** Open **Ask** from the header and use it to review whether the no-secrets letter is missing a contact, warning, or next step. Keep every change in the heir-letter workspace and review every line.
 
 ## 3 · Download and place the document
 
@@ -90,7 +90,7 @@ Using a no-secrets table, state:
 
 ## 8 · Close Protect
 
-**DO** Build & improve → Protect.
+**DO** Return to Protect.
 
 **SEE** beneficiaries · heir letter · downloaded copy complete; outside legal, custody, and insurance actions remain visible in the production checklist.
 
