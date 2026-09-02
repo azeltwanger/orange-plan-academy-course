@@ -1,0 +1,32 @@
+name: Export Academy source-coverage worktree
+
+on:
+  push:
+    branches:
+      - course-source-coverage-rebuild
+    paths:
+      - .source-coverage-export-trigger
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: course-source-coverage-rebuild
+          fetch-depth: 0
+
+      - name: Package current branch
+        run: |
+          set -euo pipefail
+          rm -rf .git
+          zip -qr academy-worktree.zip . -x 'academy-worktree.zip'
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: academy-source-coverage-worktree
+          path: academy-worktree.zip
+          retention-days: 2
