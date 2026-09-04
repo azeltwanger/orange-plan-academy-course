@@ -1,6 +1,6 @@
 # Orange Plan Academy — guided plan-building architecture
 
-**Status:** working architecture for the source-rich course recut. Canonical lesson scripts remain unchanged until the course map and owner decisions below are accepted.
+**Status:** owner direction locked for the V2 course recut. Canonical V1 scripts remain available as source material while the new guided-build scripts are drafted and reviewed on this branch.
 
 ## The governing promise
 
@@ -15,6 +15,23 @@ Orange Plan calculates the plan. Academy tells the member:
 
 The course should feel like the human teaching layer for **Plan → Build & improve**: one next task, one primary decision, enough depth to make it well, and a clear finished checkpoint.
 
+The course may be as long as needed to fulfill the promised result. Runtime is an output of complete teaching, not a constraint imposed before the curriculum is built.
+
+## Audience
+
+The primary member is a **high-conviction Bitcoin household, roughly age 30–60, with the center of gravity around 35–55**, building toward a work-optional life or earlier retirement.
+
+The member may have:
+
+- meaningful direct Bitcoin or Bitcoin ETF exposure;
+- several taxable and retirement accounts;
+- a spouse or family who understands less about the plan;
+- a mortgage, consumer debt, business debt, or access to home equity;
+- a desire to keep accumulating Bitcoin without making the household fragile;
+- questions about taxes, account access, retirement income, custody, inheritance, and strategic borrowing.
+
+The course respects Bitcoin conviction. Its job is to build the cash flow, liquidity, debt, tax, account-access, custody, and family systems that can support the position the household wants to hold.
+
 ## Source and authority order
 
 1. Austin's newest explicit decisions and dictation.
@@ -26,11 +43,11 @@ The course should feel like the human teaching layer for **Plan → Build & impr
 7. The older course master as supplemental detail only.
 8. Generated prose only where the stronger sources leave a real teaching gap.
 
-Old navigation, old labels, old confidence presentation, and old product behavior never survive merely because they appear in a deck or master file.
+Old navigation, old labels, old confidence presentation, old product behavior, and an old lesson order never survive merely because they appear in a deck or master file.
 
 ## Course shape
 
-The public experience is **Start Here plus ten guided working sessions**, not a library of disconnected financial-planning lectures. Each working session may contain several short concept videos, one worked example, and one implementation session.
+The public experience is **Start Here plus ten guided working sessions**, not a library of disconnected financial-planning lectures. Each working session may contain several short concept videos, one continuing worked example, one implementation session, and one finished checkpoint.
 
 ### Phase 1 — Get the numbers true
 
@@ -74,29 +91,91 @@ The public experience is **Start Here plus ten guided working sessions**, not a 
 
 **Finished when:** the monthly surplus is believable, the Reserve has a target and pace, and expected changes are reflected in the baseline.
 
-#### 3. Give every debt a job
+#### 3. Build the debt and leverage plan
+
+Debt is a major Bitcoin-first planning topic. The core session teaches both defense and offense: how to keep debt from making the household fragile and how strong households can use financing intentionally.
 
 **Decision flow:**
 
-1. Verify balances, rates, required payments, terms, and collateral.
-2. Separate debt tolerance from debt fragility.
-3. Read debt-to-income and debt-to-assets.
-4. Stress the balance sheet after a Bitcoin drawdown.
-5. Assign each debt: minimum, extra, refinance, consolidate, pay off, or monitor.
-6. Set the extra-debt claim against the monthly surplus.
-7. Move detailed Bitcoin-backed borrowing mechanics to Advanced while preserving the core risk comparison.
+1. Inventory each debt and credit facility:
+   - balance;
+   - rate and whether it is fixed or variable;
+   - required payment;
+   - payoff or reset date;
+   - collateral;
+   - tax treatment where relevant;
+   - unused access, such as a HELOC or line of credit.
+2. Separate emotional debt tolerance from financial fragility.
+3. Read debt-to-income as the monthly-payment lens.
+4. Read debt-to-assets as the balance-sheet leverage lens.
+5. Recalculate leverage after a major Bitcoin drawdown instead of judging it only at today's price.
+6. Classify the current debt by job:
+   - consumption already incurred;
+   - housing;
+   - education;
+   - business or productive capacity;
+   - liquidity bridge;
+   - asset acquisition;
+   - Bitcoin-backed liquidity;
+   - unused optional access.
+7. Compare the defensive choices:
+   - keep the minimum;
+   - pay extra;
+   - refinance;
+   - consolidate;
+   - restructure;
+   - pay off;
+   - monitor.
+8. Teach the strategic uses of debt:
+   - preserve liquidity rather than paying cash for everything;
+   - keep low-rate debt when the capital has a more valuable job;
+   - finance a large purchase without disrupting the entire plan;
+   - use home equity, an HELOC, an HEI, a business loan, a securities-backed line, a retirement-plan loan, or Bitcoin-backed borrowing only after comparing the different risks;
+   - acquire a productive or appreciating asset, including Bitcoin, when the household can carry the payment and survive the downside;
+   - establish access while income and credit are strong without treating available credit as money that must be used.
+9. Show the failure mechanisms:
+   - payment pressure;
+   - variable-rate resets;
+   - collateral calls or forced liquidation;
+   - home or business collateral exposure;
+   - lender and counterparty risk;
+   - borrowing to solve a cash-flow deficit;
+   - financing an asset with no repayment plan;
+   - increasing leverage because a rising Bitcoin price temporarily made the ratios look safer.
+10. Set the household leverage rules:
+    - acceptable monthly payment burden;
+    - current and stressed debt-to-assets range;
+    - amount of home, securities, or Bitcoin collateral the household is willing to place with a lender;
+    - repayment source;
+    - no-go conditions;
+    - review cadence.
+11. Assign every debt and available credit line one job, one reason, and one next action.
+12. Feed the final extra-debt amount into Cash Flow before the contribution waterfall is called complete.
 
-**Finished when:** every debt has one job, one reason, and an amount reflected in the cash-flow plan.
+**Core versus Advanced:** the core course teaches the comparison, the household leverage ceiling, the financing choices, and the failure mechanisms. Advanced lessons carry provider-specific terms, detailed Bitcoin-loan thresholds, exact liquidation calculations, contract review, and specialized implementation.
+
+**Finished when:** every debt and credit facility has a job, every strategic borrowing idea has a purpose and repayment path, the stressed leverage is understood, and the extra-debt claim is reflected in Cash Flow.
 
 #### 4. Build the allocation and next-dollar plan
 
-The slide-deck flow controls this working session.
+The slide-deck flow controls this working session. The teaching is presented one decision at a time so a beginner can follow it without having to understand every account and tax rule at once.
 
 **Decision flow:**
 
-1. Review the current setup: accounts, holdings, contribution destinations, tax treatment, and timeframe jobs.
+1. Review the current setup:
+   - accounts;
+   - holdings inside each account;
+   - current contribution destinations;
+   - account ownership;
+   - tax treatment;
+   - timeframe jobs;
+   - obvious mismatches.
 2. Set the whole-plan target allocation, including the Bitcoin drawdown test.
-3. Assign money by timeframe: Reserve / available now, before 59½, and after 59½.
+3. Assign money by timeframe:
+   - Reserve / available now;
+   - before 59½;
+   - after 59½;
+   - specific life events when they need a separate funding decision.
 4. Build the contribution waterfall:
    - Reserve at the chosen pace;
    - employer match when available;
@@ -104,17 +183,38 @@ The slide-deck flow controls this working session.
    - remaining dollars by timeframe;
    - account choice;
    - holdings inside the account.
-5. Choose the account wrapper: taxable, Traditional, Roth, HSA, education, direct Bitcoin, or another available account.
-6. Choose Traditional, Roth, or a mix.
+5. Choose the account wrapper:
+   - taxable brokerage;
+   - direct Bitcoin;
+   - Traditional 401(k) or IRA;
+   - Roth 401(k) or IRA;
+   - HSA;
+   - education account;
+   - another available employer or business account.
+6. Choose Traditional, Roth, or a mix by comparing:
+   - current tax rate;
+   - expected future tax rate;
+   - current cash-flow value of the deduction;
+   - future RMD pressure;
+   - access needs;
+   - the investment menu;
+   - whether the desired Bitcoin exposure is available.
 7. Choose the holdings inside each account.
 8. Confirm four separate layers:
    - whole-plan asset allocation;
-   - timeframe allocation;
-   - account allocation and tax location;
+   - allocation by timeframe;
+   - allocation by account type and tax treatment;
    - specific holdings inside each account.
-9. Preview the target and create the outside execution list: payroll elections, transfers, account openings, and recurring purchases.
+9. Confirm that the combined household portfolio reaches the target even when individual accounts hold different mixes.
+10. Preview the target and create the outside execution list:
+    - payroll elections;
+    - Traditional or Roth election;
+    - recurring transfers;
+    - account openings;
+    - recurring Bitcoin purchases;
+    - investment changes inside each receiving account.
 
-**Finished when:** every new dollar has a route, every receiving account has a job and tax treatment, and every contribution has an intended holding.
+**Finished when:** every new dollar has a route, every receiving account has a job and tax treatment, every contribution has an intended holding, and the member has a short list of actions to complete outside Orange Plan.
 
 #### 5. Build the tax strategy
 
@@ -215,6 +315,36 @@ This is the deepest core working session.
 
 **Finished when:** the member can explain where the household stands, where it is headed, what could break the plan, and what happens next.
 
+## Continuing fictional household
+
+The entire core course uses one fictional composite household with enough variety to demonstrate the real decisions faced by the target audience.
+
+The household includes:
+
+- two adults in their early-to-mid 40s;
+- two children;
+- one stable W-2 income and one variable or self-employed income;
+- a work-optional goal before age 59½;
+- normal and bare-bones spending;
+- a cash Reserve;
+- direct Bitcoin in self-custody;
+- professionally custodied Bitcoin or Bitcoin exposure;
+- a taxable brokerage account;
+- a Traditional employer plan with a match;
+- a Roth account;
+- a Traditional IRA;
+- an HSA;
+- a 529;
+- a primary residence;
+- a low-rate fixed mortgage;
+- a variable-rate home-equity balance or line;
+- one high-rate consumer debt;
+- one medium-rate installment debt;
+- future college, vehicle, and home-project decisions;
+- a potential strategic financing decision used only as a modeled comparison.
+
+The household is fictional. No real client or Austin-family numbers, medical history, custody details, or identifying information are used.
+
 ## Standard working-session format
 
 Every session uses the same six-part pattern:
@@ -226,6 +356,8 @@ Every session uses the same six-part pattern:
 5. **Read what changed:** explain the result, accuracy change, and Current-versus-Preview status.
 6. **Done when:** three to five factual completion checks.
 
+A concept video earns its place only when the member needs that concept to make the next decision. The course does not add lectures merely to increase runtime.
+
 ## Production format
 
 - Concept videos are conversational talking-head lessons supported by editor graphics from the decks.
@@ -235,14 +367,26 @@ Every session uses the same six-part pattern:
 - The same fictional household is used through the entire course; short de-identified client examples show how different facts change the answer.
 - Core lessons build the plan. Advanced lessons explain specialized methods and implementation risk.
 
-## Proposed core / Advanced boundary
+## Healthcare education policy
+
+Healthcare before Medicare remains core for early retirees because it can materially change the work-optional date and the retirement cash-flow plan.
+
+The lesson is professional education about the available categories, trade-offs, cost structure, tax interactions, and questions to verify. It does **not** use Austin's family medical experience or personal healthcare story.
+
+Any current premium, subsidy, membership, eligibility, pre-existing-condition, network, HSA, COBRA, Medicare, or provider term is verified near recording and labeled as time-sensitive. The durable lesson teaches the comparison process rather than endorsing one provider.
+
+## Core / Advanced boundary
 
 ### Core
 
 - first Plan result;
 - assumptions and scenarios;
 - cash flow and Reserve;
-- debt jobs and basic Bitcoin-backed-loan risk;
+- debt jobs, debt-to-income, debt-to-assets, stressed leverage, and strategic financing comparisons;
+- large-purchase financing choices;
+- home equity as one option with explicit household-collateral risk;
+- financing a productive or appreciating asset, including Bitcoin, as an educational comparison;
+- basic Bitcoin-backed-loan and forced-sale risk;
 - whole-plan allocation;
 - timeframes and account access;
 - contribution waterfall;
@@ -262,7 +406,9 @@ Every session uses the same six-part pattern:
 ### Advanced
 
 - custom return and volatility modeling;
-- detailed Bitcoin-backed-loan thresholds and operating rules;
+- provider-specific or contract-specific debt products;
+- exact Bitcoin-backed-loan thresholds and operating rules;
+- detailed margin, securities-backed-line, HEI, 401(k)-loan, and business-loan implementation;
 - 72(t) / SEPP;
 - execution-level Roth conversion schedules;
 - harvesting execution and current-law mechanics;
@@ -271,24 +417,59 @@ Every session uses the same six-part pattern:
 - passphrase and multisig implementation;
 - trusts and specialized estate structures.
 
-## Owner decisions needed before canonical scripts are recut
+## Locked owner decisions
 
-Recommended defaults are shown in bold.
+1. **Primary member:** high-conviction Bitcoin household, broadly age 30–60, centered around age 35–55, building toward a work-optional life or early retirement.
+2. **Continuing household:** fictional composite with enough account, holding, debt, tax, family, and custody variety to demonstrate the full process. No real client or Austin-family facts.
+3. **Visible structure:** Start Here plus Sessions 1–10, presented as guided working sessions rather than a subject library. Short lessons remain inside each session for filming and editing.
+4. **Sequence:** Debt and leverage are completed before the contribution waterfall is finalized.
+5. **Allocation:** the slide-deck sequence is the default: review the current setup → set the whole-plan target → assign timeframes → build the waterfall → choose account and tax treatment → choose holdings → create the outside execution list.
+6. **Debt:** strategic debt is a full core planning topic, including debt-to-assets, leverage, debt types, large purchases, home equity, creative financing, and financing assets. The teaching remains educational and risk-based rather than product or lender recommendations.
+7. **Timeframe language:** teach Reserve, Bridge, and long-term money in plain English and map them to available now, before 59½, and after 59½. “Forever” is not an app label.
+8. **Core boundary:** college funding remains optional; healthcare before Medicare stays core for early retirees; sell-versus-borrow stays core; detailed product implementation and trusts stay Advanced.
+9. **Healthcare:** professional education only. Do not use Austin's family healthcare story.
+10. **Runtime:** no hard 150-minute cap. Include as much teaching as needed to produce the promised finished plan, while keeping each video focused and useful.
+11. **Filming gate:** Austin may dictate durable concept lessons as they are accepted. Exact app walkthroughs wait for the corresponding redesign surface to be approved and stable.
 
-1. **Primary member:** **a high-conviction Bitcoin household, roughly 35–55, building toward work-optional life or early retirement.** Other life stages remain supported through branches and examples.
-2. **Continuing demo household:** **a fictional married composite with two incomes, two children, a mortgage, employer plan, Roth account, taxable Bitcoin, taxable brokerage, 529, one high-rate debt, and a goal before 59½.** No real client or Austin-family numbers.
-3. **Visible structure:** **keep Start Here plus Modules 1–10, but present each module as one guided working session rather than a subject library.** Short lessons remain inside each session for filming and editing.
-4. **Sequence:** **Debt strategy is completed before the final contribution waterfall.** Allocation education may begin earlier, but no contribution plan is called finished until the extra-debt claim is known.
-5. **Timeframe language:** **teach Reserve, Bridge, and long-term money in plain English; map them once to the app's current labels: available now, before 59½, and after 59½.** Retire “Forever” as an app label unless Austin wants it as a teaching phrase.
-6. **Core boundary:** **college funding remains optional; healthcare before Medicare stays core for early retirees; sell-versus-borrow stays core while loan mechanics move to Advanced; trusts remain Advanced.**
-7. **Runtime:** **no hard 150-minute cap. Aim for roughly 4–5 hours of core teaching plus separate implementation sessions, with every video earning its place.**
-8. **Filming gate:** **Austin may dictate durable concept lessons as they are accepted. Exact app walkthroughs wait for the corresponding redesign surface to be approved and stable.**
+## First implementation slices
 
-## First build slice after owner decisions
+### Slice A — Foundation / first working plan
 
-1. Recut Start Here and Session 1 around the first working plan.
-2. Recut Session 4 Allocation as the structural stress test because it must connect the slide flow, debt decision, account access, Roth/Traditional choice, and holdings per account.
-3. Review both slices for voice, beginner clarity, product alignment, and finished checkpoints.
-4. Apply the accepted pattern to the remaining sessions.
+Recut Start Here and Session 1 around the actual first-plan experience:
+
+- what the member gathers;
+- what goes into current facts, assumptions, life events, and scenarios;
+- when the member enters accounts, holdings, debts, income, spending, and retirement inputs;
+- how the first result is read;
+- what makes it Preliminary versus Current;
+- the exact Foundation completion checkpoint.
+
+### Slice B — Debt and leverage
+
+Build the defensive and strategic debt sequence before Allocation is finalized:
+
+- tolerance and cash-flow pressure;
+- debt-to-income;
+- debt-to-assets and Bitcoin drawdown drift;
+- debt types and jobs;
+- payoff / keep / refinance / restructure decisions;
+- large-purchase and home-equity comparisons;
+- financing productive or appreciating assets;
+- household leverage rules;
+- one guided Orange Plan working session.
+
+### Slice C — Allocation / next dollar
+
+Build the approved step-by-step Allocation sequence as the structural stress test:
+
+- current setup;
+- whole-plan target;
+- timeframe jobs;
+- contribution waterfall;
+- account wrapper;
+- Roth versus Traditional;
+- holdings by account;
+- outside execution list;
+- one guided Orange Plan working session.
 
 No existing Austin dictation is discarded. It is moved into the step where it helps the member make or implement the decision.
