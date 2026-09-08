@@ -230,6 +230,16 @@
       "check": "25 percent initial LTV fixed-debt drop to 80",
       "value": 0.6875,
       "status": "PASS"
+    },
+    {
+      "check": "reserve after hypothetical project",
+      "value": 2000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "same sale gain illustration",
+      "value": 4000.0,
+      "status": "PASS"
     }
   ],
   "current_dta_percent": 22.269539078156313,
