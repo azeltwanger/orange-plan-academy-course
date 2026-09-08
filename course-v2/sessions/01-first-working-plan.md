@@ -1,0 +1,216 @@
+# Session 1 — Build the first working plan
+
+Playback: teach 1.1–1.2, complete the account chapters of W01; teach 1.3–1.4, complete its income and assumption chapters; teach 1.5, read the result together. The minimum plan is completed before optional tax-history reconstruction. Existing users review their saved records instead of entering them again.
+
+## 1.1 — Decide what belongs in your saved plan
+Kind: teach
+Gate: OWNER_REVIEW
+Sources: DICTATION, FOUNDATION, MASTER, APP
+
+### Read aloud
+
+In this session, we are going to turn the information scattered across your accounts into one working financial plan. Start by separating what is true now, what you expect to change, and what you are only considering.
+
+What is true now includes your accounts, current holdings, income, spending, debts, and household details. These are the facts the plan starts from. Use a recent statement, pay stub, or account record wherever possible. When something is an estimate, keep track of what you estimated and when you will check it.
+
+Your saved plan also needs assumptions about the future. That includes investment returns, inflation, income growth, and how long the plan should last. An assumption is a choice about how to model the future. You can have accurate balances and still need to think carefully about the assumptions applied to them.
+
+Expected life events belong in the saved plan when they represent what you genuinely intend or reasonably expect. A child starting college, a vehicle replacement, a planned move, a pension beginning, or one spouse reducing work can materially change the future cash flow. The amount or date may still be estimated. That uncertainty belongs beside the event rather than disappearing from the plan.
+
+Scenarios are for possibilities you are weighing. Retiring three years earlier, buying a more expensive house, borrowing to buy more Bitcoin, or testing lower investment returns are useful questions. Keep them separate while you compare them. Once the household chooses a different plan, the relevant change can be reviewed and saved deliberately.
+
+For Alex and Morgan, the mortgage they already have is a current fact. College support they intend to provide is an expected expense. A larger renovation they are still discussing is a scenario. A Bitcoin return preset is an assumption used by the model. Each has a different place because each represents a different kind of information.
+
+Here is why that distinction matters. Suppose you lower income in the saved plan to see what a career change would look like, then forget to put it back. Later you change the retirement age for a second experiment. Now the result combines two possibilities you may never have intended to adopt. Keeping those experiments separate gives every comparison a stable starting point.
+
+The same care applies when an expected event becomes reality. If a future event says school spending ends next year, and it ends today, update the current spending and remove or revise the future change. Otherwise the plan can subtract the same expense twice. The event lesson will show that full lifecycle.
+
+For this first session, gather the essentials in one private folder. Recent account statements, pay records, a spending reference, debt statements, employer benefits, and any purchase history you already have. Write down the known future expenses that come to mind. You can gather information as you go; having it together simply makes the working session easier.
+
+Your source folder may include confidential documents. Keep the originals private. The course examples use invented records, and the app only needs the fields required for the task. There is no reason to share logins or Bitcoin recovery information with anyone teaching you to enter an account.
+
+We will build the first plan from the available information, then improve the parts that affect the next decision. A current account value can support a balance-sheet review even while the purchase history remains incomplete. A tax-sensitive sale requires more detail. Use the information for the job it can actually support.
+
+Before continuing, take one decision you are considering and classify it. Is it a fact, an expected change, an assumption, or a what-if? That simple habit will keep the plan understandable as we add the rest.
+
+### Production notes
+
+Preserve Austin's baseline/expected-events/scenarios framing. Use three panels with assumptions nested in the saved plan; avoid four competing technical systems. Graphic: existing mortgage / expected college / possible renovation. Explain unknown data without suggesting fabricated precision. W01 owns every click.
+
+### Member checkpoint
+
+- Gather or locate the records needed for the first plan.
+- Classify one expected event and one hypothetical change.
+- Keep uncertainties visible rather than substituting unsupported values.
+
+## 1.2 — Add accounts and show what each one owns
+Kind: teach
+Gate: APP_CAPTURE
+Sources: DICTATION, FOUNDATION, ALLOCATION, APP
+
+### Read aloud
+
+An account tells us where something is held and the rules around it. A holding tells us what the money actually owns. We need both.
+
+A Roth IRA is an account. The Bitcoin fund, stock fund, or cash inside it is the holding. A hardware wallet describes a custody arrangement. The Bitcoin associated with that wallet is the asset. Once those two ideas are clear, entering the portfolio becomes much easier.
+
+Start with an account list. Include checking and savings, brokerage accounts, each person's retirement accounts, education and health accounts where applicable, direct Bitcoin, and any other meaningful assets. Keep ownership straight. Two spouses can have accounts at the same institution with different tax treatment and different access rules.
+
+Alex and Morgan have a checking account, a reserve account, a taxable brokerage account, retirement accounts, and direct Bitcoin held in two ways. We will introduce them in groups. The first goal is to get the current picture right, not to decide what every account should hold in the future.
+
+For each account, confirm the current total and the holdings that explain it. A linked account may provide both automatically, or it may only provide a total. Read what the connection actually supplied. A reported investment-account balance with no holdings does not mean the entire account is cash. It means the holdings still need to be identified.
+
+That distinction matters for a Bitcoin-heavy plan. A retirement account invested in a spot Bitcoin ETF and one invested in a stock index can have the same dollar value today but very different modeled behavior. Give the plan the actual investment, or retain an honest unknown until you can check.
+
+You can establish an existing holding from its current quantity or current value using the supported entry path. That is different from recording a purchase that happened today. We will not create a fake transaction just to make an account show a balance.
+
+Purchase details are another layer. The amount paid and acquisition date matter for taxable gains. They may come from an exchange export, brokerage history, or other reliable records. A missing date remains missing. A missing cost basis remains unknown. We will work on those records in Tax, and we will keep tax-sensitive results qualified until they are supported.
+
+For a retirement account, current investments still matter for allocation and projections. A complete history of every trade inside a Roth IRA is not a prerequisite to identifying what the account currently owns. The account's tax rules and any contribution or distribution records that matter are separate from pretending every internal trade has the same tax role as a taxable sale.
+
+Transfers deserve particular care. Suppose Bitcoin was bought at an exchange and later moved to self-custody. It is the same Bitcoin moving between locations. The purchase belongs where it happened; the transfer connects the original history to the destination. Entering a second purchase at the wallet would make the record tell the wrong story.
+
+The same issue appears when adding older activity to an already current linked balance. History helps explain the holdings. It must not increase the household's Bitcoin a second time. In the working session we will show the difference between establishing what exists and adding information about how it got there.
+
+Before leaving an account, compare the total against its statement. Check that the holdings add up, the owner and tax treatment are right, and the same assets are not listed twice. For direct Bitcoin, record the quantity and a non-secret account name. Recovery words, private keys, passphrases, and exact backup locations stay out of the app and the recording.
+
+The account chapters come next. We will use a manual example, a linked example, and an account whose reported total needs investment details. After those chapters, you should know what the household owns and which details remain to be checked. Allocation decisions come later, once this picture is reliable.
+
+### Production notes
+
+D54–D65 gate. Show Add investment for a balance-only investment account, not Add a purchase. Never convert an unknown total into cash or an unsupported zero basis. Spot ETF remains a security, direct Bitcoin remains Bitcoin. Show only supported adapters and workflows on the filmed build. No real account numbers or credentials.
+
+### Member checkpoint
+
+- Account ownership and tax treatment are checked.
+- Current holdings explain each total, or a specific unknown is recorded.
+- History and balance are reconciled without double counting.
+
+## 1.3 — Enter income, spending, debts, and the retirement starting point
+Kind: teach
+Gate: APP_CAPTURE
+Sources: FOUNDATION, CASHFLOW, DICTATION, APP
+
+### Read aloud
+
+Now we need to show how money moves through the household. This is the information that connects today's assets to the future plan.
+
+Begin with income by person and source. Salary, self-employment, pension income, rent, and other recurring income may have different taxes, timing, and reliability. Keep the source clear. A business deposit is not automatically household income available to spend; business expenses, taxes, and retained working capital may still have claims on it.
+
+For a pay stub, identify gross pay, taxes withheld, benefits, and retirement contributions. The amount deposited in the bank is what remains after those deductions. It is useful for checking reality, but entering that deposit as gross income and subtracting the same deductions again would understate what is available.
+
+For a self-employed person, distinguish revenue, business expenses, profit, and money distributed to the household. Use the amount and treatment that match the app's income field. When a business expense has already reduced the income entered, do not also subtract it as a household expense. We will use an explicit cash-flow bridge in the next session to check these relationships.
+
+Next, enter everyday living spending. Food, utilities, insurance, transport, subscriptions, and other normal household costs belong here. Debt payments, investment contributions, transfers between your own accounts, and estimated income-tax payments need their own treatment. The purpose is to count every real use of cash once.
+
+Credit cards can make this confusing. Buying groceries on a card is spending. Paying the card later settles that purchase. Counting both as living spending doubles the groceries. An existing financed card balance, interest, and the required repayment still need to be reflected correctly in the debt and cash-flow records.
+
+Use a believable normal month for the first pass. A short history can help you start, but it may miss annual insurance, holidays, or other irregular costs. In Cash Flow we will choose a fuller reference period and distinguish normal spending from one-time events. You are choosing a starting value that will be checked, rather than spending days perfecting categories before seeing a plan.
+
+Enter current debts with the balance, rate, required payment, and relevant term. Include the mortgage, auto loan, student debt, cards, home-equity borrowing, business obligations that the household carries, and any Bitcoin-backed loan. Verify the rate from the lender rather than relying on memory. A variable rate may have changed.
+
+At this stage, record the existing arrangement. Extra payments or a new borrowing idea are later strategy decisions. That keeps the first plan from mixing current facts with an unreviewed proposal.
+
+Retirement needs a starting point too. Choose the date you currently intend to stop or reduce work and a reasonable spending estimate for that period. Each spouse can have a different work timeline. Include the big costs that are already clear, and note the items still needing work, especially healthcare and housing.
+
+Social Security and pensions have their own amounts and start dates. Use the actual estimate or statement when available. An expected pension without survivor information or an unverified Social Security amount is an item to complete, not permission to assume it covers the gap.
+
+For Alex and Morgan, the initial goal is work optional at Alex's age fifty-two. That is a household preference, not a result the software has proved. Their retirement spending and future income will be refined later. We keep the intended date visible so every later decision can be compared against the life they are trying to build.
+
+In the next working-session chapters we will enter these facts and reconcile the monthly cash flow. Finish by asking whether the amount left over resembles what actually happens in the bank. A large unexplained difference is worth fixing before deciding where the next dollar should go.
+
+### Production notes
+
+Use the fictional fixture's cash-flow convention, including employee contributions and business loan treatment. Do not present an assumed tax provision as an engine-computed tax bill. W01 owns first debt entry; W03 revisits the same records rather than re-entering them. Required benefit facts can remain marked for follow-up.
+
+### Member checkpoint
+
+- Income fields match their gross/net and business/household meaning.
+- Living costs, debt, taxes, and contributions are each counted once.
+- Planned retirement timing and initial spending are recorded as choices.
+
+## 1.4 — Choose assumptions you can explain
+Kind: teach
+Gate: OWNER_REVIEW
+Sources: DICTATION, FOUNDATION, APP, MASTER
+
+### Read aloud
+
+Once the starting facts are in place, the plan needs a set of assumptions. These are the rules used to project the future: investment growth, inflation, future income, spending changes, and the length of the plan.
+
+Small changes can have a large effect over decades. That is why I want you to understand the assumptions before you attach too much meaning to a retirement date.
+
+Start with Bitcoin. A high return assumption can make almost any contribution plan look strong. It can bring the modeled retirement date forward and make borrowing look easier to repay. The useful question is whether the household could still operate if Bitcoin grows more slowly, spends years below a prior high, or falls near the point when you need to use it.
+
+Choose the baseline you can defend, then test a less favorable version. You are allowed to have strong conviction in Bitcoin. The planning task is to separate that conviction from a cash requirement that must be met on a particular date.
+
+A declining growth model lets the assumed return change over time. It may use faster growth in an earlier period and lower growth later. That can be a more useful way to express a long-horizon belief than carrying one large percentage through every remaining decade. It is still an assumption, not a law that adoption or price must follow.
+
+For a simple illustration, ten thousand dollars growing at ten percent for ten years becomes about twenty-six thousand dollars before tax. At twenty percent it becomes about sixty-two thousand. Those are arithmetic examples, not forecasts. The starting amount is identical; the assumed path changes the answer dramatically. Long retirement projections magnify that effect.
+
+Inflation changes the spending side. A lifestyle that costs one hundred thousand dollars today costs about one hundred thirty-four thousand in ten years at three percent annual inflation. Check whether an input is in today's dollars or future dollars before typing it. Entering an already inflated expense into a field that will inflate it again can overstate the need.
+
+Income growth should be considered separately from investment growth. A salary, a variable business income, and a pension may not rise in the same way. A future raise you expect at a particular date may belong as an income change rather than an aggressive annual growth assumption applied forever.
+
+The planning horizon matters as well. Funding life through age ninety-five asks more of the assets than ending the model at eighty-five. Use a horizon that gives the household a reasonable longevity margin, and remember that a couple must consider the surviving spouse too.
+
+Check asset classification before using custom return overrides. Direct Bitcoin and a recognized spot Bitcoin fund can represent similar market exposure while retaining different account and custody rules. A Bitcoin-related company is still a company. Debt, dilution, operating results, and its market valuation affect the investment. A leveraged or inverse fund has another structure again. Giving every Bitcoin-related ticker the spot-Bitcoin model would hide those differences.
+
+Most members can begin with a supported preset and make a small number of deliberate choices. Advanced periods, correlations, volatility, and holding overrides are available for a specific modeling reason. You do not need to become a simulation engineer to build the first plan.
+
+When you test a different assumption, keep track of what changed. Changing returns, inflation, spending, and retirement age at the same time makes the comparison difficult to interpret. Start with one meaningful difference, read its effect, then build a combined stress case later.
+
+In the working session, we will read the active assumptions, explain their units, and compare one less favorable version. The saved plan changes only when the reviewed choice is saved. Leave this lesson able to name the return model, inflation assumption, and end age you are using, plus the assumption you are least certain about. That uncertainty tells us what to test next.
+
+### Production notes
+
+Graphics: growth comparison and inflation example; values rounded and explicitly hypothetical. Preserve Austin's preference for realistic, defensible assumptions, not blanket claims about future Bitcoin returns. APP first-layer presets and overrides must match the accepted release; no historical preset numbers stated as current. No unsupported historical return claim.
+
+### Member checkpoint
+
+- Explain the active growth model, inflation, and horizon.
+- Check today's-dollar versus future-dollar inputs.
+- Name one less favorable assumption to test separately.
+
+## 1.5 — Read the first answer and choose the next improvement
+Kind: teach
+Gate: APP_CAPTURE
+Sources: FOUNDATION, APP, DICTATION, REVIEW
+
+### Read aloud
+
+The first result is useful when you understand what it is answering. We are going to read the retirement timing, the modeled chance of success when available, and the information still missing underneath them.
+
+Your planned retirement date is the date you selected. It describes what you currently intend. An earliest modeled retirement date is calculated from the active plan and its test standard. These can be different. Editing a spending amount should not quietly become a decision to retire at a different age.
+
+A starting estimate may use one deterministic projection. That means one set of assumptions is played forward. It can show the basic relationship among your assets, saving, spending, and timing before the fuller simulation result is available. It is useful direction from the inputs supplied so far.
+
+The full simulation asks a different question. Orange Plan runs the plan through a set of modeled market paths. The income, spending, debts, taxes, events, and strategy remain part of the plan while the market sequence varies. A result is available only after the required information and calculation support it.
+
+For illustration, suppose the screen shows a seventy-nine percent chance of success, with seven hundred ninety of one thousand simulations lasting through age ninety-five underneath. In seven hundred ninety modeled paths, the money lasted through that horizon under the rules tested. In the other paths, the plan as modeled did not fund the entire horizon. That is a meaningful warning to examine the plan, not a prediction of the exact outcome your family will experience.
+
+The percentage is the headline. The count and ending age explain it. Both depend on assumptions and on the simulation's design. Changing the growth model, spending, account access, or withdrawal rules can change what is being tested. The number is most useful when those inputs are understood.
+
+The normal Orange Plan standard for the earliest modeled date is eight hundred successful paths out of one thousand. A different standard belongs in the advanced settings. Raising or lowering the standard changes which date qualifies; it does not make an individual market path more favorable.
+
+Now read whether the result is current. An earlier result can remain visible while a newly saved change is being processed. Important missing details can also make a result preliminary. A fresh account balance and a fresh full Plan calculation are different things. The status and explanation should tell you which information the result actually uses.
+
+When a saved fact becomes more accurate, the result may get better or worse. Adding an omitted loan can move retirement later. Correcting overstated spending can move it earlier. Both changes improve the information. Accuracy is not measured by whether the percentage rises.
+
+Once the important facts are trustworthy, compare the decisions you control. Saving more, changing spending, choosing a later date, improving account access, or reviewing taxes may help. Each has a cost or trade-off. A larger loan might raise a modeled outcome while adding lender and liquidation risk the headline does not fully summarize. Read the whole comparison.
+
+A lower result also needs a practical next step. Start by checking the inputs that could explain it. Then test one realistic change. Avoid solving a shortfall simply by assuming Bitcoin grows faster. You want a household decision you would actually carry out.
+
+In the result chapter, we will point to the planned date, the calculated date, the percentage and its supporting count, the horizon, and the most important unfinished detail. We will not invent a success rate for the fictional household; we will use the result produced by the approved build when it is recorded.
+
+Foundation is finished when the first honest plan exists and you can explain what could still change it. You can now move into Cash Flow with a starting point to improve, rather than a number you have to defend at all costs.
+
+### Production notes
+
+D16 percent-first. APP_CAPTURE: verify deterministic-to-full-result transition on recorded build; no fake probability on onboarding. Never claim failure means only a spending adjustment. Retain prior result while updating, do not narrate a Recalculate button for the redesign. No numerical demo forecast is approved in the fixture. Use actual captured calculation and freeze its inputs/commit in the capture receipt.
+
+### Member checkpoint
+
+- Distinguish planned and calculated retirement timing.
+- Explain percentage, simulation count, horizon, and freshness.
+- Identify the next accuracy task or one realistic decision to compare.
