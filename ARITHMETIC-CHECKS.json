@@ -350,6 +350,81 @@
       "check": "80 percent Bitcoin group isolated 70 percent decline",
       "value": 0.56,
       "status": "PASS"
+    },
+    {
+      "check": "timeframe example near-term assigned",
+      "value": 50000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "timeframe example Bridge assigned",
+      "value": 100000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "timeframe example long-runway assigned",
+      "value": 350000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "timeframe example counted once",
+      "value": 500000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "timeframe example Bitcoin dollars",
+      "value": 300000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "timeframe example Bitcoin weight",
+      "value": 0.6,
+      "status": "PASS"
+    },
+    {
+      "check": "timeframe example stocks dollars",
+      "value": 120000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "timeframe example stocks weight",
+      "value": 0.24,
+      "status": "PASS"
+    },
+    {
+      "check": "timeframe example cash dollars",
+      "value": 80000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "timeframe example cash weight",
+      "value": 0.16,
+      "status": "PASS"
+    },
+    {
+      "check": "timeframe alternate total unchanged",
+      "value": 500000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "timeframe alternate Bitcoin weight",
+      "value": 0.46,
+      "status": "PASS"
+    },
+    {
+      "check": "timeframe alternate stock weight",
+      "value": 0.38,
+      "status": "PASS"
+    },
+    {
+      "check": "timeframe alternate cash unchanged",
+      "value": 80000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "timeframe isolated long-runway reallocation",
+      "value": 70000.0,
+      "status": "PASS"
     }
   ],
   "current_dta_percent": 22.269539078156313,

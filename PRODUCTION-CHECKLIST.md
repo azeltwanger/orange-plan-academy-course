@@ -23,8 +23,8 @@ The earlier course-wide pass was rejected for voice and teaching clarity. Only t
 | 3.5 | [Compare financing on equal terms](scripts/03-5_compare-financing-on-equal-terms.md) | Replacement written; voice review pending | Pending | LENDING_REVIEW |
 | 3.6 | [Write the rules before using leverage](scripts/03-6_write-the-rules-before-using-leverage.md) | Replacement written; voice review pending | Pending | LENDING_REVIEW |
 | 4.1 | [Read the same portfolio in four useful ways](scripts/04-1_read-the-same-portfolio-in-four-useful-ways.md) | Replacement written; voice review pending | Pending | OWNER_REVIEW |
-| 4.2 | [Set a Bitcoin target the household can hold](scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md) | Replacement written; voice review pending | Pending | OWNER_REVIEW |
-| 4.3 | [Match the money to when you will use it](scripts/04-3_match-the-money-to-when-you-will-use-it.md) | Replacement written; voice review pending | Pending | TAX_REVIEW |
+| 4.2 | [Find your Bitcoin path](scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md) | Replacement written; voice review pending | Pending | OWNER_REVIEW |
+| 4.3 | [Size your positions by when you will use the money](scripts/04-3_match-the-money-to-when-you-will-use-it.md) | Replacement written; voice review pending | Pending | TAX_REVIEW |
 | 4.4 | [Build the contribution waterfall from one pool](scripts/04-4_build-the-contribution-waterfall-from-one-pool.md) | Replacement written; voice review pending | Pending | OWNER_REVIEW |
 | 4.5 | [Choose the account that can do the job](scripts/04-5_choose-the-account-that-can-do-the-job.md) | Replacement written; voice review pending | Pending | TAX_REVIEW |
 | 4.6 | [Choose Traditional, Roth, or a deliberate mix](scripts/04-6_choose-traditional-roth-or-a-deliberate-mix.md) | Replacement written; voice review pending | Pending | TAX_REVIEW |

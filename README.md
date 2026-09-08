@@ -2,6 +2,8 @@
 
 **Teaching repair is in progress. The earlier course-wide pass did not meet Austin's standard for natural, direct teaching.** Lesson 2.3 (Reserve) is the accepted reference. Full replacement drafts for 2.1, 2.2, 2.4 and 2.5, all six Debt lessons (3.1–3.6), and all seven Allocation lessons (4.1–4.7), plus matching W02–W04 narration, are ready for voice/judgment review. Other sessions and the conditional Advanced library still need individual repair—not just final approval of the old prose.
 
+**Current section: Allocation, still under owner review.** The latest correction makes 4.2 the four Bitcoin paths and 4.3 the actual timeframe-sizing method; W04 and the final contribution instructions follow the same sequence. We are not advancing to Tax before finishing this section.
+
 The newest replacement session is [Allocation and the next dollar](modules/04.md), following [Debt](modules/03.md) and [Cash Flow, Reserve and Life Events](modules/02.md). Use the [Core reading order](DICTATION-ORDER.md) for clean spoken copies. The [production checklist](PRODUCTION-CHECKLIST.md) distinguishes the accepted reference, replacement drafts and unrepaired components.
 
 | Work | Start here |

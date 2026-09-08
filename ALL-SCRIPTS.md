@@ -1084,133 +1084,123 @@ The goal isn't to make every account look the same or to make the chart prettier
 
 If nothing needs changing, that's useful too. You don't have to move money just because we're reviewing it.
 
-In the working chapter, we'll look at the same portfolio from these four angles and identify what deserves attention first. Then we'll choose the Bitcoin target with the rest of the household in view.
+In the working chapter, we'll look at the same portfolio from these four angles and identify what deserves attention first. Then we'll decide the role Bitcoin should play and size the positions for the different years when the money will be used.
 
 ---
 
-## 4.2 — Set a Bitcoin target the household can hold
+## 4.2 — Find your Bitcoin path
 
-How much of your portfolio do you want in Bitcoin?
+Before we choose percentages, let's decide what role you want Bitcoin to play in your plan.
 
-I wouldn't answer that from the price alone. I would start with why you own it, how well you understand it, and whether the rest of your financial life lets you keep the position through a difficult period.
+Some people want a small position because they're still learning. Others see it as their main long-term investment. Both need a plan, but they aren't trying to build the same portfolio.
 
-Those are connected questions, but they aren't the same thing. You can believe strongly in Bitcoin and still have a bill due next month. More conviction doesn't extend the due date. The plan needs to make room for both.
+I use four Bitcoin paths to help explain that difference: Foundation, Integration, Optimization, and Sovereign. They describe how you're using Bitcoin, not how much money you have or how successful an investor you are.
 
-You may also discover that your current percentage wasn't a decision you made recently. Bitcoin rose, and it became a much larger part of the portfolio. Or you've been contributing through work for years and your Bitcoin position is smaller than you intended. Start by deciding whether the current mix reflects what you want now.
+Foundation is the starting point. You're interested, but you haven't decided that Bitcoin should carry a major part of your financial future.
 
-The four Bitcoin paths in the course can help you describe that choice.
+In the slide, I show an illustrative range of 1% to 5%. The position gives you a reason to learn: why Bitcoin exists, what you actually own, and how to buy and hold it. The rest of the portfolio is still doing most of the work. There is no need to make a large commitment before you understand why you're making it.
 
-Foundation is someone still learning. Bitcoin may be a small position they're using to understand the asset, the volatility, and how to hold it. There's no need to make it the center of the household plan before they can explain why they own it.
+Integration means you've decided Bitcoin belongs in the plan alongside your other investments. The example range is 10% to 20%.
 
-Integration is someone who has decided Bitcoin belongs alongside their other investments. They're connecting it to their saving and future spending instead of treating it as an unrelated trade.
+At this point, ask what Bitcoin is adding or replacing. Maybe it becomes part of the growth allocation that was previously all stock funds. You aren't simply adding another investment without looking at the combined portfolio. You're deciding that some of the money you were already investing should now have Bitcoin exposure.
 
-Optimization is a larger role. Bitcoin may be the main growth asset, so cash flow, account access, taxes and custody all need to support it. A weak year in Bitcoin now matters to much more of the household.
+Optimization is a larger role, illustrated at 25% to 50%. You understand the thesis and want Bitcoin to be a major source of long-term growth.
 
-Sovereign describes someone who sees Bitcoin as the main place to hold long-term purchasing power. They may care deeply about direct control. Their planning work is making sure bills, obligations and family needs can still be met while that long-term position remains invested.
+The question becomes how the other pieces support that choice. Which money still needs to stay accessible? Which accounts can hold the investments you want? What does the household need to understand about the plan? Bitcoin isn't a separate experiment anymore. It is part of how you intend to fund your future.
 
-These aren't grades, and you don't have to keep moving toward the last one. Use the description that fits how you think today. Then test an actual amount. The label isn't a substitute for seeing what a decline would mean in dollars.
+Sovereign is the most Bitcoin-centered path, illustrated at 50% or more. You see Bitcoin as the main place to hold long-term purchasing power, rather than a small addition to a conventional portfolio.
 
-Take a simple example. If half a portfolio is Bitcoin and Bitcoin falls 70%, that removes 35% of the whole portfolio, assuming everything else stays unchanged. If 80% of the portfolio is Bitcoin, the same Bitcoin decline removes 56% of the whole portfolio.
+That still leaves jobs for other money. Cash can pay an approaching bill without requiring a Bitcoin sale. Other investments may have a role you deliberately want to keep. A Bitcoin-first plan doesn't require every account, or every dollar, to look the same.
 
-The Bitcoin move is identical. The household experience is not.
+These ranges are examples to help with the conversation. They aren't cutoffs you have to fit inside, and the last path isn't a destination everyone needs to reach. Learning more doesn't obligate you to increase the position.
 
-Now look at Alex and Morgan. Their current Bitcoin exposure in our allocation group is $728,000. A 70% decline would take about $510,000 off that value. The group as a whole would fall from about $1.3 million to about $797,000 if the other assets didn't move.
+Use the same group of assets we reviewed in the last lesson when you discuss a percentage. A share of your investment portfolio is different from a share of net worth that includes your home. And these aren't instructions to put the same percentage into each account.
 
-Pause there. Could they keep paying the bills without selling because of that decline?
+Your current allocation may not describe your intended role. Bitcoin may have risen until it became a much larger position than you originally chose. Or you may want it to play a larger role while most new savings still buy the investments you selected years ago.
 
-Maybe the income continues, the Reserve covers an interruption, and no major expense depends on selling at that moment. That gives them a different decision from someone who needs a large withdrawal right away or has collateral near a lender's action point.
+Start by putting that intention into words. “I'm learning with a small position.” “I want Bitcoin alongside my stock investments.” Or, “I want it to be the main long-term holding, with other money available for the things it shouldn't have to fund on short notice.”
 
-We aren't assuming the other assets will stay flat in a real downturn. Stocks could fall too. Business income could weaken. We've separated the Bitcoin move to understand what that part alone would do, then we can test the other pressures together.
+The position also needs a holding and recovery arrangement you understand. We'll work through custody later; choosing a path here doesn't prescribe a particular wallet or require you to replace every fund with directly held Bitcoin.
 
-Think about the time afterward as well. It isn't enough to say you could look at a lower balance for one day. Could you keep following the plan if the price stayed below what you expected for several years?
+For now, choose the description that best fits what you believe and what you want the investment to do. You don't need a final percentage yet.
 
-Look at the expenses coming during that time. Which ones are flexible? Which still need to be paid? Would you need more cash, a different contribution pace, or another way to fund them? A long horizon is helpful only when you can actually leave the money invested for that long.
-
-Your reaction matters too. How have you behaved during previous declines? Have you held a meaningful dollar amount through one, or mostly imagined what you would do? There's no shame in discovering that a larger position feels different from a small one. It's better to recognize that before a difficult market forces the conversation.
-
-Bring your spouse into it when the consequences are shared. You may be comfortable with a drawdown because you understand the plan behind it. If they only see half a million dollars disappear from the statement, they may be making the decision from a very different picture. Explain how the household would still function, not just why you expect Bitcoin to recover.
-
-With that context, choose a target you can explain.
-
-For the course comparison, we're testing 60% Bitcoin, 34% stocks and 6% cash within the same group of assets. That's an example of a complete mix, not a recommended portfolio for everyone watching.
-
-Compare the target with the current mix before saving it. Does it ask the household to carry more volatility? Does the dollar cash amount still fit the Reserve and other commitments? Are the investments available in the accounts you intend to use?
-
-A cash percentage needs that dollar check. Six percent of a large portfolio can be very different from six percent of a small one. We already sized the Reserve from the job it needs to do. Don't replace that calculation with a percentage simply because the percentages add up neatly.
-
-You might keep the current Bitcoin target and change the support around it—for example, build accessible money before increasing the position. You might decide a smaller target better fits the next few years. Or the current position may be smaller than you intend and the household has room to add over time.
-
-The important part is the reason. A higher Bitcoin allocation doesn't automatically improve the plan, and a lower one isn't automatically more appropriate for every household.
-
-Also separate choosing a target from making a trade today. We may be able to move toward it with future contributions, or use an account whose investments are already due for review. A taxable sale needs its own cost and access comparison. We'll finish that implementation decision at the end of the session.
-
-For now, record the target you're considering, the assets it applies to, and what lets you hold it through the difficult case. Note the life change that would make you revisit it. Losing an income or getting closer to needing the money can change the decision even when your belief in Bitcoin hasn't changed.
-
-Let's look at the current mix and the proposed target together. Then we'll examine which money needs to be available first.
+Next, we'll divide the money by when you expect to use it. That is how we turn “I want a Bitcoin-heavy plan” into actual position sizes—without treating money for next year's bills like money you can leave invested for twenty years.
 
 ---
 
-## 4.3 — Match the money to when you will use it
+## 4.3 — Size your positions by when you will use the money
 
-You can have enough money in total and still have a problem with when you can use it.
+You can have the same belief in Bitcoin and make different investment choices for money you'll need next year and money you won't need for twenty years.
 
-That's especially important if you want to stop working well before the usual retirement ages. A large retirement-account balance may help fund the later years. It doesn't, by itself, explain how you'll pay for the years between your last paycheck and access to that money.
+That's what we're going to work through here. We chose the role Bitcoin should play in the last lesson. Now we need to decide how much of each part of your money should be invested in it.
 
-In this lesson, we're going to ask two questions about each part of the portfolio: when do you expect to spend it, and can the account provide it then?
+Rather than start with one percentage for everything, start with the jobs the money has to do. What needs to be available soon? What will you use over the middle years? And what can stay invested much longer?
 
-Start with the money you need now.
+I use Reserve, Bridge, and Forever to describe those timeframes. The slide shows roughly zero to three years, four to ten years, and ten years or more. Those are useful starting points, not lines where an investment suddenly becomes safe. And they don't mean everyone needs three years of expenses in an emergency fund.
 
-Checking needs enough to cover the bill cycle. The Reserve is there for an interruption or unexpected need. We already worked out that target and which existing money counts toward it. We're reading the same decision here, not setting up a second reserve.
+For the near-term money, bring forward the Reserve decision you've already made. Add any known near-term commitments that aren't part of that Reserve, without counting the same money twice.
 
-Those dollars need to be usable when the problem happens. You may still own an investment after a price decline, but that doesn't mean it will provide the same amount of spending money. That's why we separated accessible cash from the longer-term Bitcoin position.
+If you've promised a down payment next year, for example, those dollars have a deadline. They aren't available for a long-term Bitcoin position as well. Set aside the amount you genuinely need, then decide what the other money can do.
 
-Next, look at the first years after work changes or stops.
+We aren't choosing the Reserve again in this lesson. We're using that decision to avoid giving the same money a conflicting investment job.
 
-Alex would like work to become optional at fifty-two. Age fifty-nine and a half is about seven and a half years later. What supports the household during that period?
+The Bridge is the part with a use approaching, but not an immediate bill. It could support the first years after you reduce work, or a planned expense several years away.
 
-Morgan has a separate timeline. When Alex reaches 52, Morgan would be about 50, given their two-year age difference. We cannot use Alex's age as the access date for Morgan's accounts, or assume Morgan stops working at the same time just because Alex does.
+This is usually where the sizing decision needs the most thought. You still want growth, but you don't necessarily have the freedom to leave the entire amount invested through a long weak period.
 
-Some income may continue. There may be personally held Bitcoin, taxable investments, or cash they plan to use. Identify those resources and the other jobs they already have. Then compare what they can provide with the costs during those years.
+Take a planned purchase in five years. Could you delay it? Would you accept a smaller purchase? Would income or another identified resource cover part of it? Those answers help distinguish the amount that must be available from the part where you're willing to accept a less certain outcome.
 
-For the Reeds, the group of taxable accounts includes money for current bills and the Reserve. It also includes longer-term investments. Calling that entire group accessible does not make all of it spare money for early retirement. We still have to preserve the amount needed for each commitment.
+Then build the investment mix around that distinction. A fixed payment with no backup needs a different funding choice from a flexible goal. Bitcoin can be part of a Bridge allocation, but the size needs to fit what you are prepared to change if the money isn't worth what you expected.
 
-A taxable account can be useful here because it isn't tied to retirement-age withdrawal rules. But usable does not mean tax-free. A sale can create a gain, and the market value before a sale isn't necessarily the cash left afterward.
+That is more useful than saying either “five years is too short for any Bitcoin” or “five years is plenty, so put it all there.” Neither statement has looked at the commitment.
 
-Age 59½ is an important landmark, not an absolute lock on every retirement dollar.
+Forever is the long-runway money. It may support later retirement or wealth you intend to leave to family. If earlier needs have their own funding, you have more room to choose investments for long-term growth here.
 
-For example, regular Roth IRA contributions come out before conversions and earnings under the ordering rules. That can make the contribution portion more accessible than people expect. It doesn't mean the whole Roth balance is available on the same terms, and a Roth workplace account isn't identical to a Roth IRA.
+This is where a high-conviction Bitcoin holder may choose the largest Bitcoin position. That doesn't require someone on the Foundation or Integration path to make the same choice. Time gives the investment longer to work; it doesn't tell everyone what to believe or guarantee the result.
 
-Some workplace-plan distributions after qualifying separation, governmental 457(b) distributions, and structured periodic payments can also have different early-distribution treatment. Each route has conditions. We'll review the relevant one before relying on it for the retirement paycheck. An exception to an additional tax also doesn't necessarily remove ordinary income tax or make a workplace plan permit the withdrawal.
+And retirement is not one deadline for the entire portfolio. When you stop working, some money may be needed that year, while another part won't be spent for decades. You can prepare the first payments without treating every retirement dollar as short-term money.
 
-For now, keep the distinction simple. Money with a verified access route can play a role. An account whose access you haven't checked is still a question, not proof that all the early years are funded.
+Let's put numbers to this so you can see how different position sizes become one household allocation.
 
-Then look at money intended for later retirement.
+This is a separate, simplified example, not Alex and Morgan's balance sheet. Imagine $500,000 of financial assets. For this exercise, $50,000 is assigned to the Reserve and known near-term costs, $100,000 to the Bridge, and $350,000 to the long-runway portion.
 
-When the earlier years have a credible source, the later money has more time to remain invested. That can make a retirement account useful for assets you intend to hold for a long period. It doesn't mean you must keep everything there in the same investment forever. As a withdrawal gets closer, its job changes.
+Those amounts are assumptions for the example. In your own plan, they need to come from your spending, expected income, commitments, and the money already assigned—not a standard split applied to every household.
 
-You can think of the investment horizons as Reserve, Bridge, and Forever. Reserve is short-term protection. Bridge is money with an approaching use that still needs flexibility. Forever is the long-runway portion for later retirement or family wealth.
+We're leaving the $50,000 near-term amount in cash. It has a spending job, not a Bitcoin growth target.
 
-The original horizon examples are roughly zero to three years, four to ten years, and ten years or more. They help you think about time to use the money. They are not required account boundaries, and they do not mean you need three years of living expenses in the emergency reserve.
+For the $100,000 Bridge, suppose the household chooses to keep $30,000 available for the first planned payments from that part of the money. That leaves $70,000 to invest for its later uses. We're comparing $20,000 in Bitcoin and $50,000 in stocks there.
 
-Don't confuse those horizons with the before-and-after-59½ question. A taxable account can hold an investment you won't use for twenty years. A retirement account can hold cash for a permitted withdrawal next year. One question is about the investment's time to work; the other is about the account's access rules.
+The Bridge mix is now 20% Bitcoin, 50% stocks, and 30% cash. This household is testing a smaller Bitcoin role for those middle years while relying more heavily on it for the longer run. The stock portion still has market risk. Calling it something other than Bitcoin doesn't make it stable cash.
 
-Now add the commitments we put on the timeline.
+For the $350,000 long-runway portion, we'll compare 80% Bitcoin and 20% stocks. That gives us $280,000 of Bitcoin and $70,000 of stocks there.
 
-College, a vehicle, or a home purchase may need money before retirement begins. An HSA may be intended for healthcare. An education account has its own use and beneficiary rules. They shouldn't quietly become general retirement resources while the expenses they were meant to cover are left unfunded.
+Now add the dollars. The two Bitcoin positions are $20,000 and $280,000. Together they are $300,000 out of the $500,000 total: 60% Bitcoin across this example portfolio.
 
-For each commitment, ask how fixed the amount and date are. If you could delay a purchase or spend less, you have more room to accept uncertainty. If the bill must be paid in full on one date, you need a more dependable source for that amount.
+The combined stock position is $120,000, or 24%, and cash is $80,000, or 16%. All the money is counted once. Some cash covers near-term jobs; some sits within the Bridge for its own upcoming payments.
 
-This doesn't mean every future expense needs to be in cash today. Bitcoin may be part of a longer-term funding plan. But as the spending date approaches, come back to how the first bill gets paid if the price is down. The plan needs an answer beyond hoping the market is favorable that month.
+Notice how we reached that 60% Bitcoin allocation. We didn't put 60% into every account. We used no Bitcoin for the near-term money, a smaller position in the Bridge, and a larger position for the long run. The household percentage is the result of those choices.
 
-What does this mean for the next contribution?
+Now compare changing only the long-runway Bitcoin position from 80% to 60%, putting the difference into stocks. That portion would hold $210,000 of Bitcoin instead of $280,000. With the $20,000 in the Bridge unchanged, total Bitcoin becomes $230,000, or 46% of the portfolio.
 
-Suppose the later retirement years appear well provided for, but the first years after work stops need more accessible money. Another contribution to a retirement account may offer a tax benefit without addressing the gap you're trying to close. Building the taxable account can be the more useful comparison.
+We can now describe the actual choice: whether another $70,000 of the long-runway money should be in Bitcoin rather than stocks. The near-term cash and Bridge haven't changed. That's a much clearer discussion than picking a new overall percentage without knowing which money would move.
 
-For another household, early access may already be covered and the larger need is later retirement. The next contribution could reasonably go the other way. Two people with the same Bitcoin conviction can need different account destinations.
+These mixes aren't recommendations for every person at those timeframes. They show how to build and compare a target. The cash amounts still need to cover the intended payments, and the investments need to fit your conviction and the uncertainty you're accepting.
 
-We'll use the plan to check those needs rather than assume the total balance settles them. A rough annual gap multiplied by years can help orient you, but the actual funding changes with income, taxes, inflation, investment returns and the events along the way. Retirement Income will take us through that year by year.
+After choosing a mix, check the difficult case against the spending dates. If the investments are down, which payment gets made from available cash, which needs a sale, and which could be delayed? We've already covered what a drawdown is. Here we're checking the funding plan we've just built, not repeating the warning.
 
-For this step, point to the resources for today's needs, the early years, later retirement, and any dedicated commitment. Identify the first part that doesn't yet have a credible source. That is the information we need before deciding where new money should go.
+You might find that you need more reliable funding for an approaching expense. Or you might find that money has been sitting in cash even though it has no near-term job and you would rather invest it for the long run. Allocation can reveal either mismatch; it isn't only an exercise in reducing Bitcoin.
+
+Then check the accounts that hold the money. Time to use it and permission to withdraw it are different questions. A taxable account can hold a twenty-year investment. A retirement account can hold cash for a permitted withdrawal next year. We'll work through the account choices and relevant access rules in Lesson 4.5.
+
+Don't count healthcare or education money toward a different goal while leaving the original commitment unfunded. And assigning a purpose in the plan doesn't create another account balance or make an unavailable withdrawal possible.
+
+For Alex and Morgan, we still have to connect their actual spending years to the money that will fund them before calling an allocation suitable. The course's 60% Bitcoin, 34% stocks, and 6% cash mix remains a comparison. It is not the 60/24/16 result from the separate example, and matching its Bitcoin percentage doesn't prove the rest of it fits.
+
+For your own decision, identify the amount assigned to each timeframe, choose the investments for those jobs, and add up the combined exposure. Check the earliest payment, the account access, and what you are willing to change. Then keep the target or revise the specific part that doesn't work.
+
+A target is still different from a trade. We will decide how to approach it through contributions or changes to existing holdings after we choose the accounts.
+
+The next lesson answers how much new money can go toward these jobs now, and which destination changes after a debt is paid off or the Reserve reaches its target.
 
 ---
 
@@ -1428,7 +1418,7 @@ Those are different actions. Changing what the next payroll contribution buys us
 
 I would compare redirecting new money before selling an appreciated taxable holding just to bring a percentage back in line. A sale might still be useful, but it needs a reason worth its tax and other costs.
 
-For the current example, a 60% Bitcoin target corresponds to $784,200 of the $1,307,000 group. Current Bitcoin exposure is $728,000. The difference is $56,200.
+Back with Alex and Morgan, the separate 60/34/6 comparison uses their $1,307,000 group. It isn't the $500,000 timeframe illustration from Lesson 4.3. Their 60% Bitcoin comparison corresponds to $784,200. Current Bitcoin exposure is $728,000. The difference is $56,200.
 
 That shows the direction of the comparison. It isn't an instruction to buy $56,200 today.
 
@@ -1464,7 +1454,9 @@ Then verify the first result. Did the payroll deduction change? Did the contribu
 
 Saving the intention in Orange Plan is not the same as placing a trade. While a change is only being considered, keep it as a comparison. Once you adopt it, record the plan; once it actually happens, make sure the current facts agree.
 
-To finish the session, you should be able to follow one contribution from the available money, to its purpose, to the account, and finally to the investment. Then explain how it fits with the other accounts and what changes after the next funding milestone.
+To finish the session, check each contribution you're planning—not just one example. Does it have an affordable amount, a job and timeframe, a receiving account, and an investment instruction? Then check the combined holdings against the target you chose.
+
+Be clear about what changes now, what waits for a debt payoff or a funded Reserve, and what can stay as it is. A contribution that starts later still needs its own condition and funding source. You can leave an outside action pending, but it should be a specific action, not an investment decision we never finished.
 
 If the amounts don't fit, return to the contribution decision. If the account can't hold the investment, return to the account choice. If a sale is needed and the tax is unknown, that is a specific item for the next session—not a reason to invent the missing purchase history.
 

@@ -195,29 +195,29 @@
       "path": "scripts/04-1_read-the-same-portfolio-in-four-useful-ways.md",
       "gate": "OWNER_REVIEW",
       "sources": "ALLOCATION, ALLOCATION_DECK, OWNER, APP",
-      "words": 976,
-      "spoken_sha256": "a71db25dce361a8b01dbc4f0a58dfed3c1db00e95c74bec02bac8bbace692b7a",
-      "source_sha256": "7eb158418eaddeb3c7c5c2386aec777a45c1781190313f936790bab4f6850cda"
+      "words": 984,
+      "spoken_sha256": "8b3f2ae2e2448e8578f6ff1bcb93caa95ad85e0c0da2a3e38f97c63747cc3f29",
+      "source_sha256": "9705f6373d4f4b026e3cc2022c5edc359aaaf698a3e71014f58654479157ab7b"
     },
     {
       "id": "4.2",
-      "title": "Set a Bitcoin target the household can hold",
+      "title": "Find your Bitcoin path",
       "path": "scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md",
       "gate": "OWNER_REVIEW",
       "sources": "ALLOCATION, ALLOCATION_DECK, BRAIN, OWNER",
-      "words": 1093,
-      "spoken_sha256": "defbc8c812d9d39a0a22bd7dc9e048c23d8fe94cd10e5393d005969667515665",
-      "source_sha256": "ed60f3487c8fd34e70cf144f2c04726d5f69ec6d821048104c11836fae8c62c4"
+      "words": 667,
+      "spoken_sha256": "250f91eaee89a7c80ca522104e0d02839ad6832b7bf619b5d6673559165437d9",
+      "source_sha256": "1e40e43f845290b67f02412d21dd1b3b897a9ce932edb0e2ba4b33951ee1a021"
     },
     {
       "id": "4.3",
-      "title": "Match the money to when you will use it",
+      "title": "Size your positions by when you will use the money",
       "path": "scripts/04-3_match-the-money-to-when-you-will-use-it.md",
       "gate": "TAX_REVIEW",
-      "sources": "ALLOCATION, ALLOCATION_DECK, OWNER, APP, PRIMARY",
-      "words": 1107,
-      "spoken_sha256": "6389b8057b2c25e3f2068eccf78adaa5293e1015488deb8c503e9b7beb15e99e",
-      "source_sha256": "0faaf8f8696a63fecbebc1fca046179c68d8c1a8e0e2a029d05a3bbcc8f99500"
+      "sources": "ALLOCATION, ALLOCATION_DECK, BRAIN, OWNER, APP, PRIMARY",
+      "words": 1392,
+      "spoken_sha256": "f96f8616b3d7e53314487f8c6f1124fc2096778c993653f5a0c691c47371f6de",
+      "source_sha256": "b4db7e9a731432ba4c1c6d6264146ee85b5fe740bfeaae93ea46b640c0d49e31"
     },
     {
       "id": "4.4",
@@ -255,9 +255,9 @@
       "path": "scripts/04-7_tell-each-account-what-to-buy-and-finish-the-outside-actions.md",
       "gate": "APP_CAPTURE",
       "sources": "ALLOCATION, ALLOCATION_DECK, OWNER, APP",
-      "words": 1287,
-      "spoken_sha256": "05f437f54f70ae0095f66db87085256be43a1bf2d9827e0060fd5253afc478c7",
-      "source_sha256": "c5508252f5794efa1b7b25041c8081748f56bb8be89593410eecf45d9a9213a5"
+      "words": 1353,
+      "spoken_sha256": "c5d52e0d450afd2cf5cb8f152bf12445780198d5ed9389d3dd0a78b9966e2c2f",
+      "source_sha256": "377eeae6ae55b567c100e01c1b6dacc22760471a39ed6815cfcccf5474deda19"
     },
     {
       "id": "5.1",
@@ -707,7 +707,7 @@
       "sources": "ALLOCATION, ALLOCATION_DECK, OWNER, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "2620100dc552b6cd1195cad2ca3543859ddce35940ae38c18be0e366eb681091"
+      "source_sha256": "38027209d5a717a232c016b00cf0d97ba95dbd20de04b587d028bd694249834a"
     },
     {
       "id": "W05",

@@ -88,11 +88,11 @@ Then W03 chapters 5–6.
 
 Then W04 chapters 1.
 
-**4.2 — [Set a Bitcoin target the household can hold](scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md)**
+**4.2 — [Find your Bitcoin path](scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md)**
 
 Then W04 chapters 2.
 
-**4.3 — [Match the money to when you will use it](scripts/04-3_match-the-money-to-when-you-will-use-it.md)**
+**4.3 — [Size your positions by when you will use the money](scripts/04-3_match-the-money-to-when-you-will-use-it.md)**
 
 Then W04 chapters 3.
 
