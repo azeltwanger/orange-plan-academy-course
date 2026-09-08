@@ -290,6 +290,66 @@
       "check": "fixed debt 50 percent LTV after collateral halves",
       "value": 1.0,
       "status": "PASS"
+    },
+    {
+      "check": "Allocation taxable subset includes bills and reserve",
+      "value": 575000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "Allocation retirement subset is not unrestricted cash",
+      "value": 732000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "Allocation native Bitcoin value",
+      "value": 410000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "Allocation spot-fund exposure remains a security",
+      "value": 318000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "two differently sized Alex accounts total",
+      "value": 555000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "two Alex accounts combined spot-fund exposure",
+      "value": 239000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "Allocation hypothetical target cash dollars",
+      "value": 78420.0,
+      "status": "PASS"
+    },
+    {
+      "check": "Allocation group after isolated Bitcoin decline",
+      "value": 797400.0,
+      "status": "PASS"
+    },
+    {
+      "check": "same-budget Traditional after illustrative 30 percent tax",
+      "value": 1400.0,
+      "status": "PASS"
+    },
+    {
+      "check": "same-budget Traditional after illustrative 10 percent tax",
+      "value": 1800.0,
+      "status": "PASS"
+    },
+    {
+      "check": "half-Bitcoin group isolated 70 percent decline",
+      "value": 0.35,
+      "status": "PASS"
+    },
+    {
+      "check": "80 percent Bitcoin group isolated 70 percent decline",
+      "value": 0.56,
+      "status": "PASS"
     }
   ],
   "current_dta_percent": 22.269539078156313,

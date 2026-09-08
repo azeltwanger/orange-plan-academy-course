@@ -36,7 +36,7 @@ They end in the same place in this simplified example.
 
 That helps us identify what changes the answer. It isn't growth alone. Change the tax treatment, the resources committed, or what happens to the tax saving, and the result can change.
 
-Keep the same starting example, but use a 30% tax rate on the Traditional withdrawal. The $2,000 leaves $1,400 after tax, compared with the Roth's $1,600. At a 10% withdrawal rate of tax, Traditional leaves $1,800 instead.
+Keep the same starting example, but use a 30% tax rate on the Traditional withdrawal. The $2,000 leaves $1,400 after tax, compared with the Roth's $1,600. If the tax on that withdrawal is 10%, Traditional leaves $1,800 instead.
 
 The relevant tax rate now compared with later makes a difference. The amount an investment grows can make those differences larger in dollars, but it doesn't remove the need to compare them.
 
@@ -78,7 +78,7 @@ Record the election you're considering and why, or the specific tax question tha
 
 Build the existing equal-pretax example slowly, not as a table shown all at once: $1,000 earnings; Traditional $1,000 contribution; Roth $800 after hypothetical 20% tax. Both investments double; Traditional $2,000 before tax → $1,600 after 20%; Roth $1,600 after a qualified withdrawal. Then change only Traditional's assumed future tax to 30% ($1,400) or 10% ($1,800). No year, return forecast or real Reed bracket is supplied.
 
-For the spoken phrase '10% withdrawal rate of tax', the screen must say '10% tax on the withdrawal', never portfolio withdrawal rate. This is a tax comparison, not a retirement spending-rate lesson. Compare same economic resources, with any tax saving invested or spent explicitly accounted for. Do not ignore tax paid outside an equal-dollar Roth contribution.
+The 10% and 30% figures are tax rates applied to the withdrawal, not portfolio spending rates. Compare same economic resources, with any tax saving invested or spent explicitly accounted for. Do not ignore tax paid outside an equal-dollar Roth contribution.
 
 ### Production notes
 

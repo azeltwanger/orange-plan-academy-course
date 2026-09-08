@@ -1,27 +1,53 @@
-Choose the account after you know what the dollar needs to do. When will you need access, are you eligible to contribute, can it hold the investment you intend to buy, and are its tax benefits and costs useful for that job?
+Once you know what the next dollar is for, you can choose an account. Start there—not with a list of every tax-advantaged account you could possibly open.
 
-For long-term dollars after an employer match, the waterfall shows HSA, then IRA, then additional workplace-plan contributions. Here is the reasoning behind that comparison. An eligible HSA can combine a contribution tax benefit with tax-free qualified medical spending. An IRA can give you a broader investment menu and more control over costs. The workplace plan may offer more contribution room and the convenience of payroll saving.
+The question is which account can do the job. Can you use the money when needed? Are you eligible to contribute? Can it hold the investment you intend to buy? And are the tax treatment and costs useful enough to justify it?
 
-Your actual menu and needs can change the order. A low-cost workplace plan with the investment you want may be more useful than an expensive IRA arrangement. Money needed for early retirement may need to go to a taxable account while the long-term accounts are already on track. Check the job first, then the wrapper's benefits.
+An account may be excellent for one purpose and a poor fit for another. There isn't a single best account for every dollar in the household.
 
-A taxable account is flexible for general spending and early retirement. Personally held Bitcoin also belongs in the taxable planning picture. Sales can realize gains or losses, and income-producing holdings can create current tax. That flexibility can be valuable even when another account offers a tax benefit.
+Let's start with money you may need before retirement accounts are easy to use.
 
-An employer retirement plan may provide a match, payroll convenience, and tax advantages. The menu and fees vary. Some plans offer only a short list of funds; some allow a brokerage window or Bitcoin fund. Check the actual plan before assuming it can hold your preferred investment.
+A taxable brokerage account can hold investments without tying ordinary access to a retirement age. Personally held Bitcoin also sits in the taxable part of the planning picture. You can keep money invested for a long time or use it sooner, subject to the actual investment and any restrictions on it.
 
-An IRA may offer a broader menu, but contribution eligibility, deduction rules, and annual limits still matter. A self-directed arrangement for direct Bitcoin adds custody, administrator, and prohibited-transaction considerations. Holding Bitcoin directly inside a retirement structure does not mean the coins can be moved into your personal wallet for unrestricted use.
+That flexibility has value. It can help fund an early retirement or a major expense without requiring a retirement-account exception. But sales and investment income can create tax, so we need to consider the amount available after that cost.
 
-An HSA can be useful for qualified medical spending when you are eligible to contribute. Its tax treatment is attractive, but the money still has a healthcare job and documentation requirements. The investment menu may also be limited. A 529 has education rules and a specific beneficiary purpose. Neither is simply another unrestricted brokerage account.
+For a household with ample retirement savings and too little accessible money, this may be where another contribution is most useful. You don't have to exhaust every tax-advantaged opportunity first when doing so leaves the years you want to fund without a source.
 
-For self-employed members, a Solo 401(k), SEP, or another business plan can provide additional choices. The correct plan depends on the business, employees, income definition, and contribution rules. Someone contributing to more than one arrangement must check the combined limits that apply. Do not add up each account's advertised maximum as though every limit were independent.
+Now look at the workplace retirement plan.
 
-Now ask whether the account can hold the desired asset. A tax-advantaged wrapper holding an investment you do not intend to own may be less useful than it first appears. At the same time, a strong employer match can make the first contribution worthwhile even when the menu is limited. Compare those facts together rather than treating the tax wrapper or the asset as the only decision.
+It may offer a match, convenient payroll saving and investments at reasonable cost. We already checked the match formula. Beyond that, look at the actual investment list and fees. Some plans offer a short menu; others offer broader choices or a brokerage window.
 
-The Reed illustration assigns retirement investments to Alex's employer plan and includes the fictional match formula. The actual investment menu still needs to be confirmed before we treat a particular fund as available. Their taxable assets can support earlier years, the HSA has a healthcare job, and education money has a separate commitment. Those purposes are why we compare the accounts; the names alone do not decide the answer.
+Don't assume a particular Bitcoin fund is available just because you can buy it in another brokerage account. Check the plan itself. And don't assume the plan is useless if it has no Bitcoin choice. It may be a good place for the stock exposure you want while another account holds Bitcoin. We are building one household portfolio, not demanding that every account do every job.
 
-A younger member might have only a workplace plan and direct Bitcoin. A member close to retirement may have ample tax-deferred wealth and a shortage of accessible taxable money. The right new account or contribution can differ even when both people have the same Bitcoin conviction.
+An IRA can provide another route for retirement money. Depending on the custodian, it may offer more investment choice than the workplace plan. That can make it worth comparing after the match, especially when the workplace menu is limited or expensive.
 
-Look for a simple arrangement that covers the jobs. More accounts create more statements, beneficiaries, passwords, fees, and maintenance. An account earns its place when it solves a funding, tax, investment-access, or custody need.
+But an open IRA doesn't automatically mean a new contribution is allowed or deductible. Check compensation, income, workplace coverage, contribution limits and the tax year involved. A Traditional IRA deduction can be limited, and direct Roth IRA contributions have income conditions. We will compare Traditional and Roth in the next lesson.
 
-Finally, check the actual availability before treating the contribution as implemented. Opening an account, changing an employer election, and transferring cash happen with the provider. The app can model the account and intended contribution, but the external setup still needs completion.
+If you're looking at direct Bitcoin inside a retirement arrangement, understand who administers the account, who controls the keys, and what transactions are permitted. It isn't simply a personal wallet with an IRA label. The retirement structure still governs how you contribute, transfer or distribute the assets. That setup deserves its own careful review before anything moves.
 
-For each contribution, record the receiving account and why it fits the job. If the account or investment is not yet available, name the check or outside opening step. We will decide the tax election and actual investment next, rather than opening several accounts just because they appear in the example.
+An HSA is another account that can be valuable when you're eligible to contribute.
+
+It can provide a tax benefit for contributions and tax-free use for qualified medical expenses. That can support healthcare now or build money for later medical costs, depending on the plan. Your health coverage and other eligibility conditions matter, and records of qualified use matter too.
+
+Then check the investment options. A tax benefit doesn't mean the account can hold the asset you want. You may still decide to use the HSA for investments that fit its menu and hold Bitcoin elsewhere. Or you may need to compare the value of the HSA contribution with an accessible Bitcoin contribution. The tax benefit, access and investment choice belong in the same discussion.
+
+The course's longer-term sequence looks at HSA, IRA and additional workplace contributions. Here's the thinking: the HSA may offer particularly useful treatment for qualified healthcare; an IRA may give you more control of the investment menu; and a workplace plan may provide additional contribution room and payroll convenience.
+
+Those are reasons to compare, not reasons to ignore your actual accounts. A good workplace plan could move ahead of an expensive IRA arrangement. A family not eligible for HSA contributions skips that option. A need for accessible money can change the destination before the retirement sequence is finished.
+
+An education account has another purpose. We already asked what college help the household intends to provide. A 529 can be worth comparing for that commitment, with its qualified-use rules and investment menu. It isn't automatically the place for money you may need for general retirement spending.
+
+Self-employed members have additional plan choices, such as a Solo 401(k), SEP or another business arrangement. The right comparison depends on the business, any employees, the income used for the calculation and the plan's rules. Don't add together every advertised maximum as though contributions across multiple arrangements never interact.
+
+You don't need to understand every business-plan variation to finish this lesson. Identify whether one applies and what needs checking before relying on its contribution amount. The conditional advanced work can handle the details without making everyone open the same accounts.
+
+For Alex and Morgan, the fictional workplace plan includes a match and permits the investment access described in their example. That establishes the teaching setup; it isn't evidence that your own employer offers the same thing. Their personal Bitcoin and taxable brokerage money can support access before later retirement, while the healthcare and education accounts have separate commitments.
+
+We haven't yet proved how much each future period needs from each account. That's why we're choosing a destination based on an identified job and then testing it, not copying the entire example household's account list.
+
+More accounts aren't automatically better. Each adds records, beneficiaries, fees or maintenance. If an account you already have can do the job at acceptable cost, a new one may add little. An account earns its place when it solves an access, tax, investment or custody need you actually have.
+
+For each contribution, choose the receiving account and explain why it fits. If a menu, fee or eligibility fact is missing, write that specific check down. Don't fill the gap by assuming the most favorable version.
+
+Then confirm what has to happen outside Orange Plan. You may need to open the account, complete an employer election or arrange funding. Recording a proposed contribution doesn't perform those actions.
+
+In the working chapter, we'll compare the accounts relevant to the current decision. After that, we'll settle the tax treatment and what the money should buy.

@@ -24,7 +24,7 @@ Those dollars need to be usable when the problem happens. You may still own an i
 
 Next, look at the first years after work changes or stops.
 
-Alex would like work to become optional at 52. Age 59½ is about seven and a half years later. What supports the household during that period?
+Alex would like work to become optional at fifty-two. Age fifty-nine and a half is about seven and a half years later. What supports the household during that period?
 
 Morgan has a separate timeline. When Alex reaches 52, Morgan would be about 50, given their two-year age difference. We cannot use Alex's age as the access date for Morgan's accounts, or assume Morgan stops working at the same time just because Alex does.
 

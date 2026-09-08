@@ -22,13 +22,13 @@ Read chronologically. Edit the canonical script when dictating; `teleprompter/` 
 | 3.4 · Decide whether new financing improves the plan | [Read](teleprompter/core/3-4.txt) | [Edit](scripts/03-4_decide-whether-new-financing-improves-the-plan.md) | 1222 | LENDING_REVIEW |
 | 3.5 · Compare financing on equal terms | [Read](teleprompter/core/3-5.txt) | [Edit](scripts/03-5_compare-financing-on-equal-terms.md) | 1553 | LENDING_REVIEW |
 | 3.6 · Write the rules before using leverage | [Read](teleprompter/core/3-6.txt) | [Edit](scripts/03-6_write-the-rules-before-using-leverage.md) | 1124 | LENDING_REVIEW |
-| 4.1 · Read the same portfolio in four useful ways | [Read](teleprompter/core/4-1.txt) | [Edit](scripts/04-1_read-the-same-portfolio-in-four-useful-ways.md) | 593 | OWNER_REVIEW |
-| 4.2 · Set a Bitcoin target the household can hold | [Read](teleprompter/core/4-2.txt) | [Edit](scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md) | 825 | OWNER_REVIEW |
-| 4.3 · Match the money to when you will use it | [Read](teleprompter/core/4-3.txt) | [Edit](scripts/04-3_match-the-money-to-when-you-will-use-it.md) | 807 | TAX_REVIEW |
-| 4.4 · Build the contribution waterfall from one pool | [Read](teleprompter/core/4-4.txt) | [Edit](scripts/04-4_build-the-contribution-waterfall-from-one-pool.md) | 626 | OWNER_REVIEW |
-| 4.5 · Choose the account that can do the job | [Read](teleprompter/core/4-5.txt) | [Edit](scripts/04-5_choose-the-account-that-can-do-the-job.md) | 728 | TAX_REVIEW |
-| 4.6 · Choose Traditional, Roth, or a deliberate mix | [Read](teleprompter/core/4-6.txt) | [Edit](scripts/04-6_choose-traditional-roth-or-a-deliberate-mix.md) | 635 | TAX_REVIEW |
-| 4.7 · Tell each account what to buy and finish the outside actions | [Read](teleprompter/core/4-7.txt) | [Edit](scripts/04-7_tell-each-account-what-to-buy-and-finish-the-outside-actions.md) | 943 | APP_CAPTURE |
+| 4.1 · Read the same portfolio in four useful ways | [Read](teleprompter/core/4-1.txt) | [Edit](scripts/04-1_read-the-same-portfolio-in-four-useful-ways.md) | 976 | OWNER_REVIEW |
+| 4.2 · Set a Bitcoin target the household can hold | [Read](teleprompter/core/4-2.txt) | [Edit](scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md) | 1093 | OWNER_REVIEW |
+| 4.3 · Match the money to when you will use it | [Read](teleprompter/core/4-3.txt) | [Edit](scripts/04-3_match-the-money-to-when-you-will-use-it.md) | 1107 | TAX_REVIEW |
+| 4.4 · Build the contribution waterfall from one pool | [Read](teleprompter/core/4-4.txt) | [Edit](scripts/04-4_build-the-contribution-waterfall-from-one-pool.md) | 1009 | OWNER_REVIEW |
+| 4.5 · Choose the account that can do the job | [Read](teleprompter/core/4-5.txt) | [Edit](scripts/04-5_choose-the-account-that-can-do-the-job.md) | 1102 | TAX_REVIEW |
+| 4.6 · Choose Traditional, Roth, or a deliberate mix | [Read](teleprompter/core/4-6.txt) | [Edit](scripts/04-6_choose-traditional-roth-or-a-deliberate-mix.md) | 1131 | TAX_REVIEW |
+| 4.7 · Tell each account what to buy and finish the outside actions | [Read](teleprompter/core/4-7.txt) | [Edit](scripts/04-7_tell-each-account-what-to-buy-and-finish-the-outside-actions.md) | 1287 | APP_CAPTURE |
 | 5.1 · Understand what a sale would realize | [Read](teleprompter/core/5-1.txt) | [Edit](scripts/05-1_understand-what-a-sale-would-realize.md) | 593 | TAX_REVIEW |
 | 5.2 · Repair purchase history without inventing it | [Read](teleprompter/core/5-2.txt) | [Edit](scripts/05-2_repair-purchase-history-without-inventing-it.md) | 605 | TAX_REVIEW |
 | 5.3 · Find the years when your tax choices have the most room | [Read](teleprompter/core/5-3.txt) | [Edit](scripts/05-3_find-the-years-when-your-tax-choices-have-the-most-room.md) | 608 | TAX_REVIEW |

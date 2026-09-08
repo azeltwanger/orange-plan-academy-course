@@ -195,9 +195,9 @@
       "path": "scripts/04-1_read-the-same-portfolio-in-four-useful-ways.md",
       "gate": "OWNER_REVIEW",
       "sources": "ALLOCATION, ALLOCATION_DECK, OWNER, APP",
-      "words": 593,
-      "spoken_sha256": "2cd422e364180800709e7a783d5dcda2ba63d7f6fba6a4314c8da13b81a87aba",
-      "source_sha256": "cb8a99aecb37c64837c9e0cc1ae79ff64136741f170798a21ee1daedafb40b03"
+      "words": 976,
+      "spoken_sha256": "a71db25dce361a8b01dbc4f0a58dfed3c1db00e95c74bec02bac8bbace692b7a",
+      "source_sha256": "7eb158418eaddeb3c7c5c2386aec777a45c1781190313f936790bab4f6850cda"
     },
     {
       "id": "4.2",
@@ -205,9 +205,9 @@
       "path": "scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md",
       "gate": "OWNER_REVIEW",
       "sources": "ALLOCATION, ALLOCATION_DECK, BRAIN, OWNER",
-      "words": 825,
-      "spoken_sha256": "2b44a95d9be0913549be6caf322c1dbe71dd98d8f302b67746db98409899ca7b",
-      "source_sha256": "8bb4378853e02627ede84138577f320b3c2f1711d766c942e1ff02be2e72b48d"
+      "words": 1093,
+      "spoken_sha256": "defbc8c812d9d39a0a22bd7dc9e048c23d8fe94cd10e5393d005969667515665",
+      "source_sha256": "ed60f3487c8fd34e70cf144f2c04726d5f69ec6d821048104c11836fae8c62c4"
     },
     {
       "id": "4.3",
@@ -215,9 +215,9 @@
       "path": "scripts/04-3_match-the-money-to-when-you-will-use-it.md",
       "gate": "TAX_REVIEW",
       "sources": "ALLOCATION, ALLOCATION_DECK, OWNER, APP, PRIMARY",
-      "words": 807,
-      "spoken_sha256": "aa5288ee1c99b403a5bc404fe33b7cc34e4e1b3c4c4c95de1bd3484a78080140",
-      "source_sha256": "b72244a23de89641af6be58e6374632d1e06029ed63d6e0103fa87851a2dad62"
+      "words": 1107,
+      "spoken_sha256": "6389b8057b2c25e3f2068eccf78adaa5293e1015488deb8c503e9b7beb15e99e",
+      "source_sha256": "0faaf8f8696a63fecbebc1fca046179c68d8c1a8e0e2a029d05a3bbcc8f99500"
     },
     {
       "id": "4.4",
@@ -225,9 +225,9 @@
       "path": "scripts/04-4_build-the-contribution-waterfall-from-one-pool.md",
       "gate": "OWNER_REVIEW",
       "sources": "ALLOCATION, ALLOCATION_DECK, CASHFLOW, DEBT, OWNER, APP",
-      "words": 626,
-      "spoken_sha256": "9c8138370f87c614e1e1082e1c4470ae7f12c2b0f7b9091bc1efc69bb42c5aae",
-      "source_sha256": "b2362217f107d83ed58264fb8b244e4055a7e5f0ca67d0259f5ee313f87a225e"
+      "words": 1009,
+      "spoken_sha256": "d0b80d890196fab5e783d94e2b28e6dabcabaf137525d853efc72f4749f83607",
+      "source_sha256": "366a462d75e46e88ddf0d8619d4b2e05e2622dc986bdd315d3f3c80ae589f0f3"
     },
     {
       "id": "4.5",
@@ -235,9 +235,9 @@
       "path": "scripts/04-5_choose-the-account-that-can-do-the-job.md",
       "gate": "TAX_REVIEW",
       "sources": "ALLOCATION, ALLOCATION_DECK, PRIMARY, APP",
-      "words": 728,
-      "spoken_sha256": "5235f0c76890f106d318fbf4b8198cea9a7beb2c4aa3532873645e7d33238a32",
-      "source_sha256": "d8d8162dacb916ad65a3350822a2eebbdc5cac05e30a53e6e927d5b4fbcce1f7"
+      "words": 1102,
+      "spoken_sha256": "a041431bb0ca438c418de2011890481e7e0048aebd458fe45942cc104a17ec09",
+      "source_sha256": "e1c1d76d8cea8fa3893f2cc41e4ddf11f12b84a837a052301c11133ed99633d9"
     },
     {
       "id": "4.6",
@@ -245,9 +245,9 @@
       "path": "scripts/04-6_choose-traditional-roth-or-a-deliberate-mix.md",
       "gate": "TAX_REVIEW",
       "sources": "ALLOCATION, ALLOCATION_DECK, TAX, PRIMARY, OWNER",
-      "words": 635,
-      "spoken_sha256": "6b27508d474000e94dfdf26ede1ebcac343486a133d707fe89f5db78a211ad24",
-      "source_sha256": "8353e5cb23c3cb6604128e4b287d6a84d9b147e4f19a970869598403027787ff"
+      "words": 1131,
+      "spoken_sha256": "e28b704f684892c570925c5e74bc10cf028d3759cff2a0f06d5a75f4395a6e05",
+      "source_sha256": "79bab01b3ccc1c0cc03c2e0a7dea6738721776004a2e632e714adec3e5475aa3"
     },
     {
       "id": "4.7",
@@ -255,9 +255,9 @@
       "path": "scripts/04-7_tell-each-account-what-to-buy-and-finish-the-outside-actions.md",
       "gate": "APP_CAPTURE",
       "sources": "ALLOCATION, ALLOCATION_DECK, OWNER, APP",
-      "words": 943,
-      "spoken_sha256": "1bb5aa5729af5dec8777a64d9bba7153d8ce0ea6d20e7ba17cd1a0d319c46984",
-      "source_sha256": "1b27f637421189e038170e4638d99dd630d011ba69e8fd93c83a523f76410f8b"
+      "words": 1287,
+      "spoken_sha256": "05f437f54f70ae0095f66db87085256be43a1bf2d9827e0060fd5253afc478c7",
+      "source_sha256": "c5508252f5794efa1b7b25041c8081748f56bb8be89593410eecf45d9a9213a5"
     },
     {
       "id": "5.1",
@@ -707,7 +707,7 @@
       "sources": "ALLOCATION, ALLOCATION_DECK, OWNER, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "98af0d02f94584ca27c959e987937979302a853a909640e151f3498cafdd34f6"
+      "source_sha256": "2620100dc552b6cd1195cad2ca3543859ddce35940ae38c18be0e366eb681091"
     },
     {
       "id": "W05",

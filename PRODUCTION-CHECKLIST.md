@@ -22,13 +22,13 @@ The earlier course-wide pass was rejected for voice and teaching clarity. Only t
 | 3.4 | [Decide whether new financing improves the plan](scripts/03-4_decide-whether-new-financing-improves-the-plan.md) | Replacement written; voice review pending | Pending | LENDING_REVIEW |
 | 3.5 | [Compare financing on equal terms](scripts/03-5_compare-financing-on-equal-terms.md) | Replacement written; voice review pending | Pending | LENDING_REVIEW |
 | 3.6 | [Write the rules before using leverage](scripts/03-6_write-the-rules-before-using-leverage.md) | Replacement written; voice review pending | Pending | LENDING_REVIEW |
-| 4.1 | [Read the same portfolio in four useful ways](scripts/04-1_read-the-same-portfolio-in-four-useful-ways.md) | Needs individual teaching/voice repair | Pending | OWNER_REVIEW |
-| 4.2 | [Set a Bitcoin target the household can hold](scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md) | Needs individual teaching/voice repair | Pending | OWNER_REVIEW |
-| 4.3 | [Match the money to when you will use it](scripts/04-3_match-the-money-to-when-you-will-use-it.md) | Needs individual teaching/voice repair | Pending | TAX_REVIEW |
-| 4.4 | [Build the contribution waterfall from one pool](scripts/04-4_build-the-contribution-waterfall-from-one-pool.md) | Needs individual teaching/voice repair | Pending | OWNER_REVIEW |
-| 4.5 | [Choose the account that can do the job](scripts/04-5_choose-the-account-that-can-do-the-job.md) | Needs individual teaching/voice repair | Pending | TAX_REVIEW |
-| 4.6 | [Choose Traditional, Roth, or a deliberate mix](scripts/04-6_choose-traditional-roth-or-a-deliberate-mix.md) | Needs individual teaching/voice repair | Pending | TAX_REVIEW |
-| 4.7 | [Tell each account what to buy and finish the outside actions](scripts/04-7_tell-each-account-what-to-buy-and-finish-the-outside-actions.md) | Needs individual teaching/voice repair | Pending | APP_CAPTURE |
+| 4.1 | [Read the same portfolio in four useful ways](scripts/04-1_read-the-same-portfolio-in-four-useful-ways.md) | Replacement written; voice review pending | Pending | OWNER_REVIEW |
+| 4.2 | [Set a Bitcoin target the household can hold](scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md) | Replacement written; voice review pending | Pending | OWNER_REVIEW |
+| 4.3 | [Match the money to when you will use it](scripts/04-3_match-the-money-to-when-you-will-use-it.md) | Replacement written; voice review pending | Pending | TAX_REVIEW |
+| 4.4 | [Build the contribution waterfall from one pool](scripts/04-4_build-the-contribution-waterfall-from-one-pool.md) | Replacement written; voice review pending | Pending | OWNER_REVIEW |
+| 4.5 | [Choose the account that can do the job](scripts/04-5_choose-the-account-that-can-do-the-job.md) | Replacement written; voice review pending | Pending | TAX_REVIEW |
+| 4.6 | [Choose Traditional, Roth, or a deliberate mix](scripts/04-6_choose-traditional-roth-or-a-deliberate-mix.md) | Replacement written; voice review pending | Pending | TAX_REVIEW |
+| 4.7 | [Tell each account what to buy and finish the outside actions](scripts/04-7_tell-each-account-what-to-buy-and-finish-the-outside-actions.md) | Replacement written; voice review pending | Pending | APP_CAPTURE |
 | 5.1 | [Understand what a sale would realize](scripts/05-1_understand-what-a-sale-would-realize.md) | Needs individual teaching/voice repair | Pending | TAX_REVIEW |
 | 5.2 | [Repair purchase history without inventing it](scripts/05-2_repair-purchase-history-without-inventing-it.md) | Needs individual teaching/voice repair | Pending | TAX_REVIEW |
 | 5.3 | [Find the years when your tax choices have the most room](scripts/05-3_find-the-years-when-your-tax-choices-have-the-most-room.md) | Needs individual teaching/voice repair | Pending | TAX_REVIEW |
@@ -73,7 +73,7 @@ The earlier course-wide pass was rejected for voice and teaching clarity. Only t
 | W01 | [Build the first working plan](scripts/working/W01_build-the-first-working-plan.md) | Needs individual teaching/voice repair | Pending | APP_CAPTURE |
 | W02 | [Verify cash flow, set the Reserve, and add expected events](scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md) | Narration revised; review and capture pending | Pending | APP_CAPTURE |
 | W03 | [Set debt jobs and test one financing decision](scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md) | Narration revised; review and capture pending | Pending | APP_CAPTURE |
-| W04 | [Route contributions into usable accounts and intended holdings](scripts/working/W04_route-contributions-into-usable-accounts-and-intended-holdings.md) | Needs individual teaching/voice repair | Pending | APP_CAPTURE |
+| W04 | [Route contributions into usable accounts and intended holdings](scripts/working/W04_route-contributions-into-usable-accounts-and-intended-holdings.md) | Narration revised; review and capture pending | Pending | APP_CAPTURE |
 | W05 | [Reconcile tax records and prepare one useful comparison](scripts/working/W05_reconcile-tax-records-and-prepare-one-useful-comparison.md) | Needs individual teaching/voice repair | Pending | APP_CAPTURE |
 | W06 | [Build and test the retirement paycheck](scripts/working/W06_build-and-test-the-retirement-paycheck.md) | Needs individual teaching/voice repair | Pending | APP_CAPTURE |
 | W07 | [Document the custody choice and actual recovery status](scripts/working/W07_document-the-custody-choice-and-actual-recovery-status.md) | Needs individual teaching/voice repair | Pending | APP_CAPTURE |

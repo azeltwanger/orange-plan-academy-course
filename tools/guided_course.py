@@ -185,6 +185,21 @@ def arithmetic(root: Path) -> dict:
     eq('separate generic interest-only monthly payment',generic_principal*monthly_rate,D('133.33333333333333'))
     eq('separate generic interest-only five-year interest',generic_principal*monthly_rate*months,8000)
     eq('fixed debt 50 percent LTV after collateral halves',D('.5')/D('.5'),1)
+    taxable_general=sum(num(x['value']) for x in a if x['general_portfolio'] and x['tax']=='taxable')
+    eq('Allocation taxable subset includes bills and reserve',taxable_general,575000)
+    eq('Allocation retirement subset is not unrestricted cash',general-taxable_general,732000)
+    direct_value=sum(num(x.get('holdings',{}).get('bitcoin',0)) for x in a)
+    eq('Allocation native Bitcoin value',direct_value,410000)
+    eq('Allocation spot-fund exposure remains a security',bitcoin-direct_value,318000)
+    pair=[x for x in a if x['id'] in ('alex_traditional_401k','alex_roth_ira')]
+    eq('two differently sized Alex accounts total',sum(num(x['value']) for x in pair),555000)
+    eq('two Alex accounts combined spot-fund exposure',sum(num(x['holdings']['bitcoin_spot_fund']) for x in pair),239000)
+    eq('Allocation hypothetical target cash dollars',general*num(f['target_example']['cash']),78420)
+    eq('Allocation group after isolated Bitcoin decline',general-bitcoin*num(f['stress']['bitcoin_decline']),797400)
+    eq('same-budget Traditional after illustrative 30 percent tax',D(1000)*2*(1-D('.3')),1400)
+    eq('same-budget Traditional after illustrative 10 percent tax',D(1000)*2*(1-D('.1')),1800)
+    eq('half-Bitcoin group isolated 70 percent decline',D('.5')*D('.7'),D('.35'))
+    eq('80 percent Bitcoin group isolated 70 percent decline',D('.8')*D('.7'),D('.56'))
     return {'scope':'Arithmetic teaching checks only; no retirement forecast, tax opinion, lender assurance or model acceptance.', 'checks':asserts,'current_dta_percent':float(debt/assets*100),'partial_stress_dta_percent':float(debt/stressed*100)}
 
 CLEANUP_PIN = 'a7be495e670078cd44ea4e0792538b0eaa32dd95'

@@ -18,7 +18,7 @@ Start with the household target, but don't copy the same percentages into every 
 
 A 60% Bitcoin target for the portfolio doesn't mean the checking account should be 60% Bitcoin. It doesn't mean every retirement account needs the same mix either. We want the combined investments to support the target while each account does its particular job.
 
-Look at two of Alex's accounts. In the example, his workplace plan is 70% stocks and 30% Bitcoin-fund exposure. His Roth IRA is 20% stocks and 80% Bitcoin-fund exposure.
+Look at two of Alex's accounts. In the example, his workplace plan is seventy percent stocks and thirty percent Bitcoin-fund exposure. His Roth IRA is twenty percent stocks and eighty percent Bitcoin-fund exposure.
 
 Those percentages are different, and that's fine. Add the actual dollar holdings across accounts to see the household mix. Don't average the two percentages as though the accounts were the same size. The workplace account is much larger, so a percentage point there represents more money.
 
@@ -46,7 +46,7 @@ We have already assigned the current available cash to the Reserve and extra car
 
 We can prepare what happens after the card is gone, though.
 
-The future illustration releases $1,605 a month from the payments that end, while the $500 Reserve contribution continues. One route to compare is $1,000 toward personally held Bitcoin and $605 toward a broad stock fund in the taxable brokerage account.
+The future illustration releases $1,605 a month from the payments that end, while the $500 Reserve contribution continues. One route to compare is one thousand dollars toward personally held Bitcoin and six hundred five dollars toward a broad stock fund in the taxable brokerage account.
 
 Both build accessible investments. Together they use the $1,605 once. Alex's payroll saving and the employer contribution continue separately in this comparison.
 
