@@ -77,39 +77,39 @@ A decision, a saved choice and an outside action are separate states. Funding a 
 
 ## 3.1 — Measure the payment pressure you actually carry
 
-- Verify required payments, variable terms, and guarantees.
-- Read DTI alongside after-tax cash flow.
-- Identify the obligation that becomes difficult first after an income interruption.
+- Verify each required payment separately from any extra payment and identify what reduces principal.
+- Read the illustrative DTI alongside actual cash available, not as permission for another loan.
+- Identify the obligation and funding gap that need attention if income weakens or a payment changes.
 
 ## 3.2 — Measure leverage before and after a drawdown
 
-- Distinguish gross assets, net worth, spendable assets, and collateral.
-- Record current and stressed DTA and relevant LTV.
-- Identify the contract-specific event that can force action.
+- Distinguish assets, net worth, usable cash, household DTA, loan-specific LTV and the share of Bitcoin pledged.
+- Explain why debt can become more burdensome without a new loan, including a prolonged weak period.
+- Identify the actual contract event and accessible response resources rather than relying on a reassuring household total.
 
 ## 3.3 — Give every existing debt a job
 
-- Assign one job and reason to every existing debt.
-- Name review triggers for monitored debts.
-- Return the affordable extra-payment total to Cash Flow.
+- Assign each existing debt an action, reason and review point instead of relying on its balance or rate alone.
+- Distinguish required, extra and total payments and fit the proposed extra total beside Reserve funding.
+- Explain what keeping debt preserves, what payoff changes, and when genuinely released payments become available for a new decision.
 
 ## 3.4 — Decide whether new financing improves the plan
 
-- Separate the proposed uses of borrowed money.
-- Identify repayment that survives underperformance.
-- Compare borrowing with a smaller purchase, cash, sale, or delay.
+- Separate keeping current debt from adding new financing and identify the purpose of each proposed use.
+- Explain what borrowing preserves or enables, how it is repaid, and what happens if the expected benefit is delayed or smaller.
+- Decide whether the proposal merits a full comparison, a smaller version, a delay or no new borrowing.
 
 ## 3.5 — Compare financing on equal terms
 
-- Compare the same need across funding sources.
-- Read principal repayment as well as the initial payment.
-- Record unsupported contract terms and obtain their review before execution.
+- Compare the same purpose and timing, with cash remaining and other commitments visible.
+- Explain the payment, fees, principal/settlement still owed later, collateral and permitted use.
+- Identify the weaker-case response and any missing contract or tax analysis before choosing or executing financing.
 
 ## 3.6 — Write the rules before using leverage
 
-- Define purpose, repayment, limits, triggers, maturity, and monitoring owner.
-- Set a limit on additional collateral and provider concentration.
-- Finalize the extra-debt claim before Allocation routes the remainder.
+- Explain purpose, maximum obligation, payment funding, principal exit and the dates that can change the plan.
+- Choose an actionable review point, named response resources, exposure limit, monitoring owner and backup where relevant.
+- Keep the current affordable extra-payment claim separate from proposed loans and money released only after payoff; carry that claim into Allocation.
 
 ## 4.1 — Read the same portfolio in four useful ways
 
@@ -411,7 +411,7 @@ The member can follow current cash flow, explain the spending estimate and selec
 
 ## W03 — Set debt jobs and test one financing decision
 
-Every current obligation has verified terms and one job. Proposed borrowing stays in Scenarios; an existing loan remains Debt; recurring retirement borrowing belongs in retirement strategy. W04 receives the final affordable extra-debt claim.
+The member can explain the payments, household leverage and any lender-specific exposure; give each existing debt a reasoned job; compare one potential financing decision; and describe a repayment/response plan. Current extra payments fit the same cash flow as the Reserve. Unchosen loans, future payoff money, missing terms, actual lender actions and recording evidence remain distinct. Allocation receives the real current claim, not a second version of the surplus.
 
 ## W04 — Route contributions into usable accounts and intended holdings
 

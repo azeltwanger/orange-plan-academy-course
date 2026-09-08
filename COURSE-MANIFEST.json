@@ -135,9 +135,9 @@
       "path": "scripts/03-1_measure-the-payment-pressure-you-actually-carry.md",
       "gate": "OWNER_REVIEW",
       "sources": "DEBT, BRAIN, CLIENT_THEMES, APP",
-      "words": 616,
-      "spoken_sha256": "3fe8aeed225df45b537c4c3bc435cdcfe53b52113216fc30ac399f6fc44a2301",
-      "source_sha256": "75db847dd88aefe0a46f9c09fdec5b79ca857d80d5393e53ad6731a21a5d145a"
+      "words": 1109,
+      "spoken_sha256": "a3abe5f19607c9f64d9f23aff556c43f852070a32827f6193e381e2239ca3ef2",
+      "source_sha256": "03429764483e4d5d4ae5947fa7dd25c629933175f9b2cf4c865d0f904752ba55"
     },
     {
       "id": "3.2",
@@ -145,9 +145,9 @@
       "path": "scripts/03-2_measure-leverage-before-and-after-a-drawdown.md",
       "gate": "OWNER_REVIEW",
       "sources": "DEBT, BRAIN, APP, PRIMARY",
-      "words": 725,
-      "spoken_sha256": "252f4de4244975d01475d6be23640813f5d2843458e855143856878e60be88de",
-      "source_sha256": "6270391e39970310364e8c57167a9ebf2315f39b72ed38e67dcb11b0045ff4ea"
+      "words": 1131,
+      "spoken_sha256": "de7fcdfc2cf3a12d6cc4b3de48c0db62d4422f1af69e4f14c5d6580ab9292fd0",
+      "source_sha256": "d4d60d2bb0097b285e1feec6fe36d39016bb7bed4cee38343449de9809d682fe"
     },
     {
       "id": "3.3",
@@ -155,9 +155,9 @@
       "path": "scripts/03-3_give-every-existing-debt-a-job.md",
       "gate": "OWNER_REVIEW",
       "sources": "DEBT, BRAIN, CLIENT_THEMES",
-      "words": 688,
-      "spoken_sha256": "e8fbdb74508f01eb48df43b72112cf2363eff5125366c51bc7f8b21be3c34238",
-      "source_sha256": "fa3a499811aa9b907f9c8638f40186aa997e052941f969f94bdd96b91c4838db"
+      "words": 1365,
+      "spoken_sha256": "954f58797dfaa87c832dab6b38ef0c798a12e9d9066c569be30e107361210a87",
+      "source_sha256": "9548e6be5329d42bd6270b97f66e4878939c6694399d2e0a0a25767b75a74fb6"
     },
     {
       "id": "3.4",
@@ -165,9 +165,9 @@
       "path": "scripts/03-4_decide-whether-new-financing-improves-the-plan.md",
       "gate": "LENDING_REVIEW",
       "sources": "DEBT, BRAIN, OWNER, CLIENT_THEMES, PRIMARY",
-      "words": 685,
-      "spoken_sha256": "7405d0ecfe67e3ec4e9c64c5bad917e096368582ee74903a95342255bbec987e",
-      "source_sha256": "f0163964a3b587022071b6782fc9d2ca07c699cb19a18d6760736f8e4968a846"
+      "words": 1222,
+      "spoken_sha256": "ee1cd206391e226fb0d2065753affacfe5389124d99bea0977ca026b0759b85d",
+      "source_sha256": "ff4ac769deaca1f68c80b183d5fe248ea4ab87810eead700f0ec43406220ae21"
     },
     {
       "id": "3.5",
@@ -175,9 +175,9 @@
       "path": "scripts/03-5_compare-financing-on-equal-terms.md",
       "gate": "LENDING_REVIEW",
       "sources": "DEBT, OWNER, BRAIN, PRIMARY",
-      "words": 697,
-      "spoken_sha256": "ae8b710fa9077aeac3f851b159fa2fa1e3b06531fc02c4de173d8f071045d46a",
-      "source_sha256": "8d70e6ef6d19b037e5c1d12744388ae76257102917841c75063b6b511db0f587"
+      "words": 1553,
+      "spoken_sha256": "79f3d9a536b515d45f247b0b2a63943a99684b208bc89ca8314b40c573635037",
+      "source_sha256": "712cc4d326e55747b94f635955db6f1f1e2b50224dc0678785df5e739fc5b93b"
     },
     {
       "id": "3.6",
@@ -185,9 +185,9 @@
       "path": "scripts/03-6_write-the-rules-before-using-leverage.md",
       "gate": "LENDING_REVIEW",
       "sources": "DEBT, BRAIN, OWNER, APP",
-      "words": 652,
-      "spoken_sha256": "458163263a3cd7cf85a747003bb2205112d4ddd4c3456b4f4f1ef7a8b98d8c9f",
-      "source_sha256": "57400c0df1f1756baec3e239a4133f82c6ff5729b1b8aa1aac6ebb45a418cbaa"
+      "words": 1124,
+      "spoken_sha256": "71c34ff1fce69baf536754e10e5355d4ad9824d58446f5752ee70385006b6b6b",
+      "source_sha256": "bc4e81dcf8035fbac94f2ef9a804c7e9b7da0f621d86e2008d75efeedff590ac"
     },
     {
       "id": "4.1",
@@ -697,7 +697,7 @@
       "sources": "DEBT, OWNER, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "7aa101c9575fa6603a1af5eb7957c303603e09b558aa127267bb96be789875c5"
+      "source_sha256": "09af8bf03758b0ff652eebacc2ad208001963abd294c239930492b64e2b1c418"
     },
     {
       "id": "W04",

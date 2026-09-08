@@ -92,6 +92,8 @@ The original source's four debt labels are retained as organizing language witho
 
 Call excerpts were used for the distinction between a minimum and an extra payment, the release of cash only after payoff, mortgage comfort versus other debt, and checking an interest-only maturity. Old client rates, balances, predictions, product recommendations and app behavior are not reused. CFPB's early-payment guidance confirms that contractual terms and fees must be checked: https://www.consumerfinance.gov/ask-cfpb/can-i-prepay-my-loan-at-any-time-without-penalty-en-843/ . Read September 8, 2026. The mortgage payment's principal/interest/escrow detail is not supplied; W03 must verify it before claiming payment relief. W03 chapter 3 retains actual amortization, billing, date and save/readback checks.
 
+Additional mechanism reference, read September 8, 2026: Chase mortgage recast explanation, https://www.chase.com/personal/mortgage/education/managing-your-mortgage/what-is-mortgage-recast . This supports the distinction between principal reduction and a recalculated payment; eligibility and lender terms vary. It is not a recommendation to use that lender.
+
 ### Member checkpoint
 
 - Assign each existing debt an action, reason and review point instead of relying on its balance or rate alone.

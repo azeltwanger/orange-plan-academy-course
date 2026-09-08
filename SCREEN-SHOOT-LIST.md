@@ -20,7 +20,7 @@ The member can follow current cash flow, explain the spending estimate and selec
 
 [Run sheet and cues](scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md)
 
-Every current obligation has verified terms and one job. Proposed borrowing stays in Scenarios; an existing loan remains Debt; recurring retirement borrowing belongs in retirement strategy. W04 receives the final affordable extra-debt claim.
+The member can explain the payments, household leverage and any lender-specific exposure; give each existing debt a reasoned job; compare one potential financing decision; and describe a repayment/response plan. Current extra payments fit the same cash flow as the Reserve. Unchosen loans, future payoff money, missing terms, actual lender actions and recording evidence remain distinct. Allocation receives the real current claim, not a second version of the surplus.
 
 ## W04 — Route contributions into usable accounts and intended holdings
 

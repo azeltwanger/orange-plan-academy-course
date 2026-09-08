@@ -250,6 +250,46 @@
       "check": "generic recurring bill full-year saving",
       "value": 480.0,
       "status": "PASS"
+    },
+    {
+      "check": "required debt service annualized",
+      "value": 40100.0,
+      "status": "PASS"
+    },
+    {
+      "check": "rough card first-month interest before fees or new charges",
+      "value": 235.125,
+      "status": "PASS"
+    },
+    {
+      "check": "rough card principal portion of illustrated minimum",
+      "value": 169.875,
+      "status": "PASS"
+    },
+    {
+      "check": "separate generic amortizing monthly payment",
+      "value": 405.5278857682737,
+      "status": "PASS"
+    },
+    {
+      "check": "separate generic amortizing total interest",
+      "value": 4331.673146096419,
+      "status": "PASS"
+    },
+    {
+      "check": "separate generic interest-only monthly payment",
+      "value": 133.33333333333334,
+      "status": "PASS"
+    },
+    {
+      "check": "separate generic interest-only five-year interest",
+      "value": 8000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "fixed debt 50 percent LTV after collateral halves",
+      "value": 1.0,
+      "status": "PASS"
     }
   ],
   "current_dta_percent": 22.269539078156313,

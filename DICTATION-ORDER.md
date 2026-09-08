@@ -16,12 +16,12 @@ Read chronologically. Edit the canonical script when dictating; `teleprompter/` 
 | 2.3 · Size the Reserve for the job it has to do | [Read](teleprompter/core/2-3.txt) | [Edit](scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md) | 1139 | OWNER_REVIEW |
 | 2.4 · Put future changes on the timeline | [Read](teleprompter/core/2-4.txt) | [Edit](scripts/02-4_put-future-changes-on-the-timeline.md) | 1449 | APP_CAPTURE |
 | 2.5 · Decide how much college help you will provide | [Read](teleprompter/core/2-5.txt) | [Edit](scripts/02-5_decide-how-much-college-help-you-will-provide.md) | 1436 | TAX_REVIEW |
-| 3.1 · Measure the payment pressure you actually carry | [Read](teleprompter/core/3-1.txt) | [Edit](scripts/03-1_measure-the-payment-pressure-you-actually-carry.md) | 616 | OWNER_REVIEW |
-| 3.2 · Measure leverage before and after a drawdown | [Read](teleprompter/core/3-2.txt) | [Edit](scripts/03-2_measure-leverage-before-and-after-a-drawdown.md) | 725 | OWNER_REVIEW |
-| 3.3 · Give every existing debt a job | [Read](teleprompter/core/3-3.txt) | [Edit](scripts/03-3_give-every-existing-debt-a-job.md) | 688 | OWNER_REVIEW |
-| 3.4 · Decide whether new financing improves the plan | [Read](teleprompter/core/3-4.txt) | [Edit](scripts/03-4_decide-whether-new-financing-improves-the-plan.md) | 685 | LENDING_REVIEW |
-| 3.5 · Compare financing on equal terms | [Read](teleprompter/core/3-5.txt) | [Edit](scripts/03-5_compare-financing-on-equal-terms.md) | 697 | LENDING_REVIEW |
-| 3.6 · Write the rules before using leverage | [Read](teleprompter/core/3-6.txt) | [Edit](scripts/03-6_write-the-rules-before-using-leverage.md) | 652 | LENDING_REVIEW |
+| 3.1 · Measure the payment pressure you actually carry | [Read](teleprompter/core/3-1.txt) | [Edit](scripts/03-1_measure-the-payment-pressure-you-actually-carry.md) | 1109 | OWNER_REVIEW |
+| 3.2 · Measure leverage before and after a drawdown | [Read](teleprompter/core/3-2.txt) | [Edit](scripts/03-2_measure-leverage-before-and-after-a-drawdown.md) | 1131 | OWNER_REVIEW |
+| 3.3 · Give every existing debt a job | [Read](teleprompter/core/3-3.txt) | [Edit](scripts/03-3_give-every-existing-debt-a-job.md) | 1365 | OWNER_REVIEW |
+| 3.4 · Decide whether new financing improves the plan | [Read](teleprompter/core/3-4.txt) | [Edit](scripts/03-4_decide-whether-new-financing-improves-the-plan.md) | 1222 | LENDING_REVIEW |
+| 3.5 · Compare financing on equal terms | [Read](teleprompter/core/3-5.txt) | [Edit](scripts/03-5_compare-financing-on-equal-terms.md) | 1553 | LENDING_REVIEW |
+| 3.6 · Write the rules before using leverage | [Read](teleprompter/core/3-6.txt) | [Edit](scripts/03-6_write-the-rules-before-using-leverage.md) | 1124 | LENDING_REVIEW |
 | 4.1 · Read the same portfolio in four useful ways | [Read](teleprompter/core/4-1.txt) | [Edit](scripts/04-1_read-the-same-portfolio-in-four-useful-ways.md) | 593 | OWNER_REVIEW |
 | 4.2 · Set a Bitcoin target the household can hold | [Read](teleprompter/core/4-2.txt) | [Edit](scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md) | 825 | OWNER_REVIEW |
 | 4.3 · Match the money to when you will use it | [Read](teleprompter/core/4-3.txt) | [Edit](scripts/04-3_match-the-money-to-when-you-will-use-it.md) | 807 | TAX_REVIEW |

@@ -100,6 +100,8 @@ Narrow primary checks read September 8, 2026, separate from Austin's teaching fr
 
 W03 chapter 4 must keep unsupported contract terms in the existing reviewed worksheet, explain the limitation and hold any dependent conclusion. Do not simulate a missing feature, force a shared-appreciation contract into a zero-rate loan, or use invented basis. Detailed lender/account operating work stays in the conditional Advanced lessons, whose teaching repair remains pending.
 
+Additional tax mechanism references, read September 8, 2026: IRS Topic 505, https://www.irs.gov/taxtopics/tc505 ; IRS Publication 550 (allocation of interest by use of loan proceeds, not collateral), https://www.irs.gov/publications/p550 ; IRS Topic 431 on canceled debt, https://www.irs.gov/taxtopics/tc431 . These checks are separate from Austin's planning judgment and do not establish a real household's deduction, liability or eligibility.
+
 ### Member checkpoint
 
 - Compare the same purpose and timing, with cash remaining and other commitments visible.

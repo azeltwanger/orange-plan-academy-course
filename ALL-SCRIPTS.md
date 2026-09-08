@@ -622,185 +622,409 @@ Let's work through that commitment in the plan. Then we'll return to Debt and fi
 
 ## 3.1 — Measure the payment pressure you actually carry
 
-A debt can look small next to your assets and still make the monthly bills difficult. We'll start with the payments the household has to make, then look at the interest and the risk behind each obligation.
+Before we decide which debts to pay down, let's look at what they ask of you every month. We need to know the payments you have to make, what could change those payments, and whether the household can keep up during a difficult period.
 
-Your tolerance matters. Some people are comfortable carrying a fixed mortgage for decades. Others value the relief of having fewer obligations. That preference is part of the decision. It sits alongside the financial question: can the household keep making the payments during a bad year?
+You might be comfortable with your mortgage and uncomfortable with a much smaller credit-card balance. That isn't necessarily inconsistent. The rate, payment, and reason for carrying the debt can be very different.
 
-List the current balance, required payment, rate, remaining term, and collateral for each debt. Identify variable rates, interest-only periods, balloons, and any personal guarantee. These details explain more than the balance alone.
+We're going to separate those differences rather than decide that all debt is good or all debt is bad. You can choose to carry some debt and pay off other debt. You can also choose to become debt-free. What matters is understanding what the choice does for your household and what you give up to make it.
 
-Debt-to-income compares required monthly debt payments with gross monthly income. In the Reed example, required payments are about three thousand three hundred forty-two dollars. Gross monthly income is about nineteen thousand four hundred seventeen. That gives a debt-to-income ratio of roughly seventeen percent.
+Start with the debts we entered in the first working plan. Review those records instead of adding them again. Pull up the lender's statement and check the balance, rate, and required payment.
 
-The Reeds' required debt service is about thirty-three hundred forty-two dollars a month. Against gross income, the ratio can look manageable. But their original cash-flow example leaves only five hundred dollars after the listed costs and employee contribution. A comfortable-looking ratio is not five hundred dollars of extra room for another loan payment.
+I would check the rate rather than rely on what you remember paying. A variable rate can change. An introductory offer can end. And the amount you usually send might include an extra payment that the lender doesn't require.
 
-Ask what happens if Morgan's variable income falls. Which payment still arrives, what can change, and how long can available cash cover the difference? That question tells us more about the next debt decision than a lender's approval limit.
+Keep the required payment and the extra amount separate. One is an obligation you need to cover. The other is a decision about how quickly you want the balance to come down. We'll decide those extra amounts later in this session.
 
-This is why I would read the ratio and the monthly surplus together. A lender's qualification standard serves the lender's process. Your planning standard also has to account for future saving, family needs, variable income, and how comfortable you are carrying the obligation.
+Now look at what the payment actually does.
 
-Now test income pressure. If Morgan's business income stops for a period, the required debts do not stop with it. Some living costs may be reduced, and the Reserve may bridge the interruption, but the size and duration of the shortfall need to be visible. A business owner should also consider working capital and the possibility that a personal guarantee connects a business problem to the household.
+On a loan that pays down over time, part of the payment covers interest and part reduces the amount you owe. That amount owed is the principal. As you make payments, the balance comes down according to the loan's terms.
 
-Look at the debts individually. The high-rate card is a small part of the Reed balance sheet but a costly recurring obligation. The mortgage is much larger, yet its fixed rate and long payment schedule may make it less urgent. The HELOC has a relatively low interest-only payment today, but that payment does not substantially reduce principal and can change with the rate or repayment phase.
+An interest-only payment works differently. It can keep the loan current without paying down the principal.
 
-A lower monthly payment can help, but check how it was achieved. Extending the term may lower the payment while increasing total interest. An interest-only period may postpone the larger obligation. Moving unsecured balances onto the home may reduce the rate while changing what is at risk.
+Alex and Morgan's home-equity line is a useful example. They owe $46,000, and we're using an 8% rate in the illustration. Interest alone is about $307 a month. If they pay only that interest, without adding to or reducing the balance, they still owe the $46,000 afterward.
 
-For every debt, ask what happens if the rate rises, income falls, or the asset you intended to sell is worth less than expected. These events can occur together. The aim is to see which obligation would force a decision first.
+So the monthly payment looks relatively small. But it hasn't answered how they will repay the borrowed money.
 
-Then separate the action from the feeling. You may choose to pay off a manageable loan because the relief is worth the lost liquidity. You may choose to keep a low-rate debt because accessible money has a more useful job. Both choices should be made with the effect on cash flow and the rest of the plan visible.
+Find out when that arrangement changes. Does the interest-only period end? Does the lender then require payments that pay down the balance? Or is a large amount due at once? That last arrangement is often called a balloon payment. You need the date and the amount, not just the payment you're making today.
 
-For each existing debt, confirm the required payment, what can change it, and the income or cash that supports it. Name the first obligation that becomes difficult in the weaker-income case. We will decide what to do with the debt after we understand that pressure.
+Do the same check for what secures the loan. With a mortgage or home-equity loan, your home is involved. With an auto loan, it may be the vehicle. A business loan may involve equipment and a personal guarantee, which can make you responsible beyond the business itself. Don't assume the business is the only thing exposed; check what you agreed to.
+
+Once the individual payments are right, add them together.
+
+For Alex and Morgan, the listed required payments total about $3,342 a month. Their gross household income is about $19,417. Dividing those payments by that income gives us roughly 17%.
+
+This is the debt-to-income ratio, often shortened to DTI. It tells us how much of their income, before taxes and other deductions, is being used for the debt payments in this example.
+
+It doesn't tell us how much is left to spend.
+
+Remember their original cash flow. After taxes, living costs, required debt payments, and Alex's existing retirement contribution, they had $500 remaining. Those are the same debts and the same income. The ratio looks fairly low, yet there isn't a large amount of spare cash waiting for another loan payment.
+
+That's why I would look at the ratio and the actual monthly money together. The ratio helps describe the debt. Cash flow tells us whether the payments fit alongside the rest of their life.
+
+You may see a lender or calculator use a particular ratio as a limit. Different loans can use different definitions and qualification standards. Being approved doesn't mean the payment leaves enough room for the reserve, the family spending you value, or the investing you want to do.
+
+Now ask what happens when the income is less reliable than that average suggests.
+
+Morgan's business income varies. Suppose it stops for a period. We wouldn't leave the full income in the calculation and conclude that the payments are still easy to cover. We'd look at the income that continues, the bills that remain, and the cash available for the difference.
+
+Some spending could pause. Extra investing or extra debt payments might slow. The lender's required payment is still due unless the arrangement itself changes.
+
+This is where the reserve decision comes back in. Could the household keep providing for the family while the income is interrupted? How long could it do that without needing a new loan or an investment sale at a bad time?
+
+Use the essential-spending number carefully. In our Reserve example, the $7,200 already includes required debt payments. Adding the full debt-payment total again would count them twice. We want the actual cash need, not a larger number created by mixing two different spending definitions.
+
+You don't need to guess a tax bill for the weaker-income case. Review what would really change. Some costs may fall, others may not, and a business may still need operating cash even when it is bringing in less. We will use the supported numbers in the walkthrough rather than assume every outflow stays exactly the same.
+
+Also ask what happens if the payment itself rises. A variable rate or the end of an interest-only period can change what the same balance costs to carry. You don't have to borrow another dollar for that pressure to increase.
+
+If you're close to retirement, look beyond the paycheck you have today. A payment that fits while both people are working may feel different after one income stops. The debt doesn't have to be gone before retirement, but the income or withdrawals that will support it need to be in the plan.
+
+For now, don't try to solve every debt at once. Identify the payment you are least comfortable supporting and explain why. It might be expensive interest, a coming repayment date, a risk to the family home, or simply too much dependence on one income.
+
+In the working chapter, we'll verify the terms and follow the payments back to cash flow. After that, we'll look at what you owe compared with what you own—and how that picture changes when Bitcoin falls. Then we can make the payoff decisions with both sides in view.
 
 ---
 
 ## 3.2 — Measure leverage before and after a drawdown
 
-Next, compare what you owe with what backs it. We need to separate the household's overall debt, the monthly payments, and any particular asset a lender can act against. Those are related risks, but one percentage cannot describe all of them.
+You can have the same debt today that you had six months ago and still be in a very different position. If the assets behind that debt have fallen in value, you have less room to deal with the obligation—even though you haven't borrowed more.
 
-Use total debt divided by gross assets. Keep the denominator clear. Net worth is assets minus debts; it is a different number. Also separate the full balance sheet from the investments available to fund retirement. A home or an education account can be an asset without being freely available for next month's spending.
+That's what we're going to look at here. We checked the monthly payments in the last lesson. Now we want to understand what you owe compared with what you own, and what changes during a drawdown.
 
-Our frozen teaching balance sheet gives Alex and Morgan about one million nine hundred ninety-six thousand dollars of assets and four hundred forty-four thousand five hundred dollars of debt. Their debt-to-assets ratio is about twenty-two percent. Their net worth is about one million five hundred fifty-two thousand dollars.
+Start with the total value of the assets included in your balance sheet. Then compare the total debt with that number. Debt divided by assets gives us the debt-to-assets ratio.
 
-Now apply a deliberately severe scenario. Bitcoin exposure falls seventy percent, the selected stock holdings fall thirty percent, and the home value falls twenty percent. We hold the other listed assets and debt balances unchanged for this simple stress calculation. Gross assets fall to about one million two hundred seventeen thousand dollars. Debt-to-assets rises to roughly thirty-seven percent.
+Use the assets before subtracting debt. Net worth is what remains after that subtraction, so it answers a different question.
 
-The household did not take another loan. The ratio changed because the assets fell. That is why a balance sheet can feel comfortable after a rally and much more leveraged after a decline.
+For Alex and Morgan, our example includes just under $2 million in assets and $444,500 in debt. That puts debt at about 22% of the included assets. Subtracting the debt leaves about $1.55 million of net worth.
 
-Use the same idea on your own numbers, with assumptions clearly labeled. A stress case is a test of the plan, not a statement that those exact declines will happen together. You can also test a long period of low returns, higher loan costs, and reduced income. A household may survive a short crash yet struggle with several years of payments and slow recovery.
+Those totals help us see the overall position. But they don't mean there is $1.55 million available to pay a bill tomorrow.
 
-Secured borrowing needs another lens: loan-to-value, or LTV. Divide the loan balance by the value of the specific collateral. The household debt-to-assets ratio and a lender's collateral ratio can tell very different stories. A household with a valuable home can still have a Bitcoin-backed loan close to its liquidation threshold.
+Their home is part of that value. So are retirement accounts and money set aside for education and healthcare. Those assets have different access rules and other jobs. A home can make the balance sheet stronger without being a source of cash you can use quickly.
 
-For an illustration, assume a contract liquidates at eighty percent LTV and the debt balance stays constant. A loan starting at fifty percent LTV reaches that threshold after a thirty-seven-and-a-half-percent decline in collateral value. A loan starting at twenty-five percent reaches it after a sixty-eight-and-three-quarter-percent decline. Interest, fees, collateral rules, and price timing can reduce that room. These are simplified calculations using invented contract terms.
+Our example also leaves out the value of vehicles and business equipment, while including their debts. That makes it a simplified teaching balance sheet, not a complete appraisal of everything the family owns. In your own plan, check what the total includes before drawing a conclusion from the percentage.
 
-Also distinguish LTV from the share of your Bitcoin placed with a lender. Pledging twenty percent of your total Bitcoin does not mean the loan has twenty percent LTV. One measure describes how much of the stack is exposed to that arrangement; the other describes the debt against the pledged portion.
+Now let's change the asset values without changing the debt.
 
-Different collateral has different failure mechanisms. A conventional mortgage generally does not operate like a Bitcoin margin loan merely because the house price declines. A HELOC may be reduced or frozen under its terms, and payments remain due. A securities-backed arrangement may demand more collateral or sell securities. Read the actual contract rather than applying one lender's thresholds to every type of debt.
+In the stress example, Bitcoin exposure falls 70%, the selected stock holdings fall 30%, and the home falls 20%. These are hypothetical declines we're using to test the position, not a prediction.
 
-The useful result is a set of boundaries you understand: payment capacity, current and stressed debt-to-assets, collateral-specific exposure, and available resources for a response. A lower ratio can still hide inaccessible assets or correlated income. A higher ratio may be manageable under some conditions but needs to be justified by the whole plan.
+The included assets fall from just under $2 million to about $1.22 million. The debt is still $444,500. That same debt now represents about 37% of the assets instead of 22%.
 
-We'll read the current balance sheet and the same balance sheet under the stated stress. Then we'll look separately at any collateralized loan. If most of the household's remaining wealth is in a house or restricted account, a reassuring total does not mean those assets can meet a fast collateral demand.
+They didn't borrow more. The assets got smaller.
 
-The decision is whether the household still has room to respond in the bad version: cash to pay, acceptable collateral available, or a controlled way to reduce the obligation. A lower starting LTV creates more price room under the example's fixed terms; it does not guarantee that room lasts or that the lender is safe.
+This is why a debt level can feel comfortable after Bitcoin has risen and much less comfortable after it has fallen. During a rally, the percentage gets lower and it can look as though you've created room for another loan. But borrowing until the ratio is back where it started uses up some of the protection that the rally gave you.
 
-Keep the current ratio, the stressed ratio, and any loan-specific threshold with the assets actually available to respond. Explain the difference in ordinary language before using the figures to justify more debt. Next we'll give each existing obligation a job.
+I wouldn't treat a lower ratio after a price increase as an instruction to borrow more. First ask what the existing debt would look like after another decline, and whether taking on more would still leave the household able to respond.
+
+The reverse matters too. A higher debt-to-assets ratio after a decline doesn't automatically mean you should sell Bitcoin immediately. Go back to the payments, available cash, and actual loan terms. Can you continue carrying the debt, or is there a specific event that could force action?
+
+The stress example we've just used is deliberately limited. It holds the education and health accounts unchanged, and it doesn't estimate the value of the omitted business or vehicles. A complete household stress test would need those details too. Use this calculation to understand the mechanism; don't mistake it for proof that we have tested every bad outcome.
+
+A fast price decline is also not the only difficult case. You might handle a brief drop but struggle if returns stay weak for several years while interest and payments continue. Or business income could weaken at the same time as investments. That's why we need more than today's asset total.
+
+For a loan secured by Bitcoin or securities, there is another calculation to read separately: loan-to-value, or LTV.
+
+This compares that particular loan with the value of the collateral pledged for it. It does not use everything the household owns.
+
+Suppose a Bitcoin-backed loan begins at 50% LTV. The loan is half the value of the pledged Bitcoin. If the collateral then loses half its value and the loan balance hasn't changed, the debt equals the entire remaining collateral value. LTV is now 100%.
+
+The lender may have the right to sell the collateral well before that point. You need the actual terms for the loan you're considering.
+
+For the course illustration, we're using a hypothetical liquidation threshold of 80%. With a fixed debt balance, a loan starting at 50% LTV reaches that line after a 37.5% decline in collateral value. Starting at 25% gives it more room: about a 68.75% decline reaches the same line.
+
+Notice what the numbers describe. They are price declines to the assumed liquidation threshold. They are not percentage-point gaps between two LTV readings, and they don't tell us when a lender will first contact you. A warning or collateral call can have a different trigger.
+
+Interest or fees added to the balance can also reduce that room. So can changes to what the lender accepts as collateral or how it values it. Read the actual agreement rather than borrow the 80% figure from this example.
+
+There is another percentage people sometimes mix up with LTV: how much of their total Bitcoin they have pledged.
+
+Putting 20% of your Bitcoin with a lender doesn't mean the loan has 20% LTV. One figure tells you how much of your Bitcoin is exposed to that arrangement. The other tells you how large the loan is compared with that pledged portion. You need to understand both.
+
+A strong household balance sheet doesn't override the lender's calculation. You might have plenty of home equity while a Bitcoin-backed loan is close to its action threshold. The lender needs the response allowed by the agreement, not a list of valuable assets you can't access in time.
+
+Different loans also behave differently. A conventional mortgage isn't normally subject to a Bitcoin-style margin call just because the home price falls. A home-equity line can lose available borrowing capacity under its terms. A securities-backed loan may allow a collateral demand or sale. Don't apply one loan's rules to all three.
+
+So when you review debt, keep the questions separate. Can the household make the payments? How much debt is there compared with the assets? And could a particular lender force an earlier decision because of the collateral?
+
+For the working chapter, we'll read today's position, apply the stated stress, and look separately at any collateral-backed loan. The result we want is an explanation of where the pressure would come from and what resources would actually be available to deal with it. That gives us a much better basis for deciding which debt to reduce and which debt we may be comfortable keeping.
 
 ---
 
 ## 3.3 — Give every existing debt a job
 
-For each debt, we're choosing what to do next: keep the required payment, pay extra, refinance or restructure, pay it off, or monitor a specific change. The answer should reflect what that debt costs and what paying it down would do to the rest of the household.
+Now that we understand the payments and the risk behind them, we're going to decide what to do with each debt. Not just which debt has the highest balance, but which one deserves the next dollar and which ones you're comfortable continuing to carry.
 
-Start with the clearest problem. High recurring interest can consume money that would otherwise build the Reserve or buy assets. In the Reed example, the card rate is twenty-point-nine percent. That is a substantial cost for a household with limited monthly room. A stronger Bitcoin return is a possibility; the card interest is a contractual obligation while the balance remains.
+For a Bitcoin household, this can be a frustrating decision. Money used to pay down a loan is money you aren't using to buy more Bitcoin. You may believe Bitcoin will do very well over the time you would otherwise carry that loan.
 
-Paying extra can improve both future cash flow and the balance sheet. It also uses cash today. Check whether accelerating payoff would leave the household unable to handle a predictable bill or an income interruption. The right pace can split available money between near-term protection and the expensive debt.
+That expectation belongs in the comparison. But it isn't the only question. We also need to know what the debt costs while you wait, whether the payments fit, and whether paying it down would leave you short of accessible cash.
 
-The low-rate mortgage is a different comparison. Extra principal saves future interest, but it moves liquid money into home equity. Accessing that equity later may require a sale or a new loan on terms that are not available today. Keeping the mortgage can preserve flexibility when the payment is affordable and the retained capital has a defined job.
+Let's start with the clearest problem in Alex and Morgan's example: the credit card.
 
-Paying off a debt is often described as a return equal to the rate. More precisely, it avoids the contractual interest and any relevant costs on the principal paid down. Tax deductions, fees, and the payment structure can change the after-tax comparison. Use the actual terms, especially when comparing it with an uncertain investment return.
+They owe $13,500 at 20.9%, with an illustrated current minimum payment of $405. That is a very different decision from their low-rate mortgage.
 
-Refinancing means replacing the debt with another arrangement. Compare the rate, closing costs, new term, total interest, and what secures the replacement. A lower payment is helpful only when the household understands whether the balance will be carried for longer.
+To see why, take a rough monthly interest calculation. At that balance and rate, one month of interest is about $235. If they send $405, only about $170 is left to reduce principal, assuming no new purchases or fees. A real statement uses its own daily balances and billing rules, but the example shows why making a payment isn't the same as reducing the balance by the full payment.
 
-Consolidation can simplify several obligations. It can also turn unsecured debt into a claim on the home or another important asset. Consider whether the old accounts will stay paid down. If spending creates new card balances after consolidation, the household may finish with the new secured loan and the original problem again.
+Continuing to carry expensive interest uses money that could otherwise go toward the family, the reserve, or investments. I would make that a priority rather than assume a strong Bitcoin return will take care of it later.
 
-Restructuring focuses on the payment shape. A business loan may need a different amortization schedule or an honest plan for a balloon. An interest-only facility needs a principal-repayment plan. “We will refinance later” is uncertain until the household knows what happens if refinancing is unavailable.
+The next question is the pace. How much extra can they send without creating another cash problem?
 
-Monitoring is an active job when the risk changes with the market or the contract. State the trigger: a rate reset, an LTV level, lower income, a maturity date, or a change in the purpose of the borrowing. Give someone responsibility for checking it at a cadence appropriate to that risk.
+We've already compared their reduced-spending plan. It leaves $1,700 after the listed costs and Alex's existing retirement contribution. The course example assigns $500 to the reserve and $1,200 to an extra card payment.
 
-In the Reeds' reduced-spending example, Alex's employee contribution is already accounted for. Of the seventeen hundred dollars then available, five hundred goes toward the reserve and twelve hundred is the extra card payment. Required debt payments were deducted earlier. This phase uses the available money once; there isn't another investment contribution left over.
+The card's required $405 was accounted for before we got to that $1,700. So adding $1,200 means a total card payment of $1,605 for the month in this illustration. We aren't finding another $405 inside the remaining cash, and we aren't adding $1,200 on top of money that has already gone somewhere else.
 
-Your household may choose a different split. I'd put more weight on accessible cash when dependents or reliance on one income mean the family could not cover essentials after an interruption without borrowing more. Required payments still need to be made. Building cash faster can mean slower extra debt repayment and more interest, so revisit that trade-off as the cushion improves.
+That extra payment can make the balance fall faster. We'll read the actual payoff comparison in the walkthrough rather than guess the month it ends.
 
-That is a variation in the decision, not a change to the Reeds' two-income example or a rule that every parent should fund the full reserve before paying extra on debt.
+There is a reason we're also building the reserve while expensive debt remains. Paying the card down faster is useful, but we don't want the family to have no cash left when something goes wrong and immediately need to borrow again.
 
-Once the card is gone, its required payment and the extra payment create room for another decision. The plan should show that available cash, and the household should deliberately assign it. It is not automatically permission to increase spending or borrow again.
+I'd give accessible cash more weight when a household has dependents or relies on one income, especially if essential bills would otherwise depend on getting another loan after that income stops. Required payments still need to be covered. What changes is how much extra goes to debt while the cash cushion is thin.
 
-Record the job, reason, extra-payment amount if any, and review trigger for each debt. Add the extra payments together and check them against the reserve claim and the same available cash. Allocation starts with what is genuinely left, not another version of the surplus.
+That can mean more interest for a while. It's a trade-off, not free protection. Revisit the pace as the reserve improves instead of leaving a temporary slower payoff in place forever. Dependents alone don't settle it; the cash already available and any reliable income that would continue matter too.
+
+Now compare the mortgage.
+
+Alex and Morgan owe $318,000 at a fixed 3.25% in our example. It's by far the larger balance, but that doesn't automatically make it the most urgent use of extra money.
+
+Paying it down avoids future interest on the principal repaid. It also moves cash into home equity. To use that money again, they may need to sell the house or qualify for a new loan. Neither is the same as having the cash available now.
+
+Keeping that mortgage can be reasonable when the payment fits and the money retained has a useful purpose. That might be building liquidity or investing for a longer-term goal. It doesn't mean every low-rate mortgage should be kept, regardless of the household.
+
+Ask what paying it off would improve. Would it make retirement spending easier to support? Would the household be more comfortable with fewer required payments? Then ask what money would be used and what else that money was meant to do.
+
+Also check whether an extra payment reduces the required monthly payment or simply shortens the time until payoff. Don't assume a smaller balance means next month's bill is smaller. And when a mortgage ends, property taxes, insurance, and upkeep don't disappear with it. We will compare the actual costs that change.
+
+If being debt-free matters to you, that's a real preference. You don't have to keep a loan just because a projection shows more wealth when you invest instead. But make the choice knowing what it does to liquidity and the other parts of the plan, rather than treating the interest rate as the entire answer.
+
+The debts in the middle take more thought.
+
+The Reeds' auto loan is at 6.7%, with a $600 monthly payment. Their equipment loan is at 7.4%, with a $480 payment. It would be easy to rank those rates and stop there. I'd also look at how each payment affects the household, how soon the debt can end, and what the asset is doing for them.
+
+For equipment, is the business producing enough cash after its other needs to support the loan? For the car, would clearing the payment meaningfully improve monthly flexibility? In either case, what would you have to give up to pay it off now?
+
+Those questions could lead to keeping the required payments for a period, paying extra, or asking whether different terms would help. A decision to keep paying as agreed can be deliberate. It doesn't have to mean you've ignored the debt.
+
+The home-equity line needs a different kind of attention. Its current interest-only payment does not pay off the $46,000 balance. Alongside the rate, I would want to know when the payment arrangement changes and how the principal will be repaid.
+
+Leaving it interest-only for now needs a reason and a later repayment plan. “We'll deal with it when Bitcoin goes up” leaves too much unanswered. What happens if that takes longer than expected or the lender won't extend the loan?
+
+Refinancing may be worth comparing for a debt like this, or for another expensive payment. That means replacing the existing arrangement with a new one. Read the fees, term, rate, and collateral—not only the lower monthly payment.
+
+Consolidation combines debts into one arrangement. It can simplify the bills, but it hasn't solved the problem if the old card balances build up again. And moving card debt onto a home-secured loan changes what is at risk. We'll examine those funding structures in the next two lessons.
+
+You may find it helpful to organize debts as Eliminate, Evaluate, Strategic, or Monitor. The labels help you start the discussion. They don't make the decision for you. An expensive card may be something to eliminate; a low-rate mortgage may be worth keeping strategically; a variable or collateral-backed loan needs monitoring even when its current rate looks acceptable.
+
+For each one, write the actual next action. Keep the required payment, pay an extra amount, compare refinancing, arrange a payoff, or monitor a named risk. Then write why and what would make you revisit it. “Monitor” needs a date or a trigger; it isn't a way to leave a difficult choice blank.
+
+Once a debt is paid off, decide what happens to the money it used.
+
+In the course's card example, the $405 required payment and $1,200 extra payment would together release $1,605, if those were still the amounts being paid at payoff. That is future room, not money available today. The other expenses and contributions still count, and the amount released needs checking against the payments that actually ended.
+
+For now, add up the extra payments you're considering and put them beside the reserve contribution. Can the same cash flow support both? If not, choose a different pace rather than leave two conflicting instructions in the plan.
+
+Let's give each existing debt a clear job. Then we'll look at a separate question: whether taking on new financing would improve the plan at all.
 
 ---
 
 ## 3.4 — Decide whether new financing improves the plan
 
-Borrowing can preserve liquidity, bring forward a useful purchase, or help finance a productive asset. It can also turn an optional idea into a required payment. Start with what the money will do and how the debt gets repaid if that idea underperforms.
+Keeping a loan you already have and taking out a new loan are two different decisions. You might be happy to keep a low fixed-rate mortgage without wanting to add another payment or put more of your assets behind new debt.
 
-Start by naming the job. A temporary cash bridge until a known payment arrives is different from a loan used to buy an asset expected to appreciate. A mortgage that supports a home the family intends to live in is different from a recurring loan used to cover spending that exceeds income.
+In this lesson, we're going to decide whether financing is worth considering for something you want to do. Before comparing lenders, start with the purpose. What would the money let you do, and why would borrowing be better than using cash, selling an investment, doing something smaller, or waiting?
 
-Preserving liquidity can be valuable. Paying cash for a necessary vehicle may remove a payment but leave too little available for other needs. Financing part of the purchase may preserve a buffer. Compare that benefit with interest, fees, the new payment, the vehicle's value, and the ability to repay early. A smaller purchase or a delay should remain in the comparison.
+Debt can have a useful role. Businesses sometimes keep debt because the money they retain can support growth or day-to-day operations. A household can also have a reason to keep money available rather than use all of it to pay for something immediately.
 
-Keeping inexpensive existing debt can also let capital perform another job. The key difference is that the investment return is uncertain while the loan has payment dates. A long-term expected return above the borrowing rate does not pay next month's bill. The household needs an income or liquidity plan through the periods when the asset underperforms.
+But a household isn't just a business balance sheet. It has bills, dependents, and a life the money needs to support. We want to understand the benefit of the borrowing and whether the family can carry it when the outcome is less favorable than expected.
 
-Productive assets add another question: does the asset produce enough cash to support the financing? For equipment or a business, examine operating costs, maintenance, taxes, working capital, and a weaker sales period. Revenue is not the same as cash available for debt service. A personal guarantee can connect business failure to family assets.
+One possible benefit is liquidity: keeping money accessible.
 
-For an appreciating asset such as Bitcoin, the repayment source usually comes from somewhere else until you sell or refinance. State that source before borrowing. Test a deep immediate drawdown and a long flat market. Buying more Bitcoin with debt can increase upside, but it also increases the amount the household must support when the asset is worth less.
+Suppose you need a vehicle and could pay cash. That removes the need for a loan, but look at what it leaves in the bank. If paying cash would use most of the reserve, the decision isn't only about avoiding interest. It's also about how you will handle the next problem after the purchase.
 
-Home equity is one possible source. A HELOC or home-equity loan makes the home part of the risk chain. That matters even when the rate is lower than an unsecured alternative. Consider the combined housing debt, changing payments, rate resets, and what happens if income weakens at the same time as the investment.
+Financing part of it could preserve more cash. In return, you accept interest, fees, and payments. We need to see whether those payments fit without forcing you to spend down the reserve anyway. A smaller vehicle or a later purchase belongs in that comparison too.
 
-An unused line can provide options, but availability can change. Treat it as contingent access rather than the same thing as cash already in the Reserve. Fees and terms may apply even before it is used. Establishing access is a separate decision from drawing it.
+The retained cash needs a purpose. Borrowing to preserve a reserve and then investing that entire reserve in Bitcoin are not the same plan. In the second version, you have kept the debt but changed the protection you said the borrowing was supposed to preserve.
 
-Seller financing or an equipment-finance arrangement may better match the purchase being made. Read balloon terms, security interests, guarantees, default remedies, and prepayment rules. A creative structure still has economics. A delayed obligation can be easy to overlook precisely because there is little cash due today.
+Another reason to keep or use debt is the opportunity to earn more on the money than the debt costs.
 
-A home-equity investment or shared-appreciation contract can also have little or no monthly payment. That does not make it free money. The eventual settlement can depend on the property's value, contractual adjustments, fees, and an agreed share of appreciation. Compare several future house values and the actual exit date before accepting that obligation.
+You may believe your long-term Bitcoin return will exceed the interest on a loan. That's one reason a high-conviction household might prefer to keep an affordable loan and invest instead of paying it down early.
 
-Alex and Morgan are considering a renovation and the possibility of buying more Bitcoin. Keep those decisions separate. The renovation has a household benefit and a cost; the Bitcoin purchase adds investment exposure. Combining both uses into one home-equity loan would not make either easier to evaluate.
+The important word is expected. The investment return isn't arriving on the same schedule as the loan payment.
 
-For each, I would compare the full proposal with a smaller purchase and a delay. Then ask whether repayment has a credible source that survives disappointment. A business purchase should be supported by cash left after operating needs, not simply by the purchase price you hope someone will pay for the business later. A Bitcoin purchase needs a plan for debt payments during a long weak market.
+Bitcoin could do well over several years and still be worth much less next month. The loan still needs support during that period. So ask where the payments come from while you wait, and how long you could keep making them without relying on a sale at a price you don't like.
 
-Write the purpose, amount, repayment source, and downside for the borrowing you are considering. Keep it as a comparison until those answers and the cash flow make sense together. Choosing no new debt, a smaller purchase, or a later date finishes this decision just as clearly as selecting a loan.
+If the income and cash are there, that may be a trade-off you're willing to make. If the household is already short every month, a higher assumed return hasn't solved the immediate problem.
+
+Borrowing can also let you avoid selling an appreciated investment today. That can postpone realizing a gain from that sale. But we still need to compare the interest, fees, collateral risk, and eventual repayment with the cost of selling.
+
+Avoiding a sale now is not the same as making the tax disappear forever. If you later sell to repay the loan, the sale still needs to be considered. We will build the fuller sell-versus-borrow comparison in the retirement-income session. Here, the useful question is whether preserving the asset is worth the new obligation.
+
+A purchase that produces income adds another consideration.
+
+You might finance equipment, a business, or another productive asset because you expect it to help generate cash. Start with the money left after the costs of operating it, not the total sales you hope it will produce.
+
+Would that cash cover the payment? What if the equipment needs a repair, a customer pays late, or sales are lower than planned? You may need working capital as well as money for the purchase. Using every available dollar for the down payment can leave the new activity short of cash before it has had time to work.
+
+Also find out who is responsible if it fails. A personal guarantee can bring the obligation back to the household. The fact that the money went into a business doesn't necessarily limit the consequences to that business.
+
+Buying an asset you expect to appreciate is different from buying one that produces current cash flow.
+
+If you borrow to buy Bitcoin, the Bitcoin itself doesn't provide the dollars for the loan payment merely because you own it. The repayment has to come from income, other resources, a sale, or another financing arrangement. State which one you are relying on.
+
+Then test what happens when the price disappoints. Can you continue paying through a long flat market? If the loan is secured by the Bitcoin, could a lender act before the recovery you're expecting? If the home secures the borrowing instead, what happens to the household when investment performance and income both weaken?
+
+That is not an argument that every form of borrowing has the same risk. It is the reason to understand the structure before deciding that a favorable expected return makes the loan useful.
+
+A temporary cash gap can be another legitimate reason to compare financing. Perhaps money is expected from a known event after a bill is due. The expected receipt gives you a possible repayment source.
+
+Check how certain the amount and date really are. What would you do if the payment arrived late or was smaller? A temporary bridge needs a way to end. Repeatedly borrowing to cover a continuing gap between income and spending is a different problem.
+
+Access to credit can be worth understanding before you need it urgently. That doesn't mean you have to draw it. Read the fees and conditions, including anything that could reduce or remove the access. An unused line is an option under an agreement, not cash already available in your reserve.
+
+Now bring the proposed borrowing back to your actual plan.
+
+Alex and Morgan are considering a renovation and also the possibility of buying more Bitcoin. We should evaluate those uses separately. The renovation has a household benefit they would weigh against its cost. The Bitcoin purchase changes their investment exposure. Combining both in one loan would not answer whether either is worth doing.
+
+For each proposal, keep the smaller version and the decision to wait visible. You don't have to choose between the largest purchase financed today and giving up the idea forever.
+
+You might decide the renovation matters, but not at the cost of carrying another payment while the reserve and card still need attention. You might decide a business purchase is worth analyzing because it has a credible source of repayment. Those are different conclusions from the same planning process.
+
+Before moving to the next lesson, be able to explain what the money is for, what borrowing preserves or makes possible, and how the obligation will be repaid if the result is disappointing. If you can't yet explain one of those, name what you need to find out.
+
+Then we can compare the actual financing choices. We will look at cash used now, the payments, the balance still owed later, and what is exposed—not simply pick the offer with the smallest monthly number.
 
 ---
 
 ## 3.5 — Compare financing on equal terms
 
-A fair financing comparison pays for the same thing on the same date. Then we compare what leaves the household now, what must be paid later, and what is at risk if the plan does not work out.
+A financing offer can look attractive because of the monthly payment. But a small payment doesn't tell you how much the arrangement costs, how long you will carry it, or what you still owe at the end.
 
-Suppose the Reeds are comparing a thirty-thousand-dollar project. Their current reserve assignment is thirty-two thousand. Paying the entire project from that money would leave two thousand assigned to the reserve, before any other change. The project might matter to them, but that cash is already doing an important job.
+We're going to compare the ways to fund the same need. Keep the purchase and the date the same at first. Then look at what each option asks of the household now and later.
 
-Financing preserves more cash initially but adds a payment or later settlement. Their reduced-spending phase already assigns the available surplus to the reserve and card. Before adopting another payment, we need to see which real spending or saving decision makes room for it. For this phase, keeping the project hypothetical, making it smaller, or delaying it is a useful result of the comparison.
+For the course example, suppose Alex and Morgan are comparing a $30,000 project. Start with paying cash.
 
-For every option, write the upfront cash used, the monthly payment, the total expected cost, the collateral at risk, and the repayment or settlement date. Include fees. A zero-interest promotional offer with deferred interest or a financing discount built into the purchase price needs its own careful comparison.
+They have $32,000 assigned to the reserve. Taking the full project cost from that money would leave $2,000 there. We have avoided a new loan, but we've also used money that was supposed to keep the household going through an interruption.
 
-Use both a payment view and a balance-sheet view. A twenty-thousand-dollar loan at eight percent over five years has a payment of roughly four hundred six dollars a month in a simple fully amortizing example with no fees. An interest-only version starts around one hundred thirty-three dollars a month, but the twenty-thousand-dollar principal remains. The smaller payment has not removed the cost of repaying principal.
+That consequence belongs in the comparison. “We have enough in the account” is not the same as “we can use it without affecting anything else.” They might have another resource available, but we need to identify it and its other commitments rather than assume every account balance is spare cash.
 
-A cash-out refinance can affect the entire old mortgage balance, not just the new dollars. Replacing a low fixed rate on a large balance to access a smaller amount of cash can be expensive. Compare the whole new schedule with the existing mortgage plus the alternative funding source.
+Selling an investment is another option. In a taxable account, look at the gain and any tax associated with the sale. The amount sold may need to be larger than the $30,000 needed for the project. It depends on the actual purchase history and the household's tax situation; we shouldn't make up a tax cost to finish the example.
 
-A securities-backed line and a margin loan also differ. A non-purpose securities-backed line generally cannot be used to buy or trade securities. A margin account has its own permitted uses and maintenance requirements. A lender can have rights to change requirements, demand repayment, or sell collateral. Do not assume a loan advertised against investments is a general-purpose way to buy more investments.
+Financing may leave more money in those accounts at the start. Now put the new payment beside the cash flow.
 
-Retirement-plan loans have another set of rules. They depend on the employer plan, available limits, repayment arrangements, and what happens when employment ends or repayment fails. The money may be out of the market while borrowed, and payroll repayment can affect new contributions. The fact that interest may be credited back to the account does not remove the opportunity cost or tax consequences of failure.
+In the reduced-spending example, the available $1,700 is already being compared as $500 for the reserve and $1,200 for extra card payments. Another loan payment needs room. Which spending amount, contribution, or project choice would change to make that possible?
 
-Bitcoin-backed borrowing exchanges an immediate sale for a secured obligation. Read the initial collateral requirement, ongoing interest, margin or top-up rules, liquidation process, and who controls the Bitcoin. Ask how much of the total stack becomes dependent on the lender. A low current LTV does not eliminate counterparty risk.
+For this phase of their plan, keeping the project as a possibility or doing it later can be the useful result. We don't need a loan to win the comparison.
 
-Tax treatment depends on the transaction and use of proceeds. Loan proceeds generally create an obligation rather than ordinary income at origination, but liquidation, cancellation, restructuring, and the eventual asset sale can have tax consequences. Interest deductibility is not established merely because an asset secures the loan. The use and applicable rules need professional review.
+Now let's examine why the structure of a loan matters, using a separate simple illustration.
 
-Now run the bad version. Income falls, variable rates rise, and the purchased asset or collateral declines. Can the payment still be made? Could a lender force a sale before the household's expected recovery? Does repayment rely on another loan? Which alternative leaves the family able to keep following the plan?
+Suppose you borrow $20,000 at 8% and repay it over five years, with no fees. A fully amortizing loan would require about $406 a month. Fully amortizing just means the scheduled payments pay off the balance by the end, assuming the terms and payments are followed.
 
-The payment is only part of the comparison. Check the principal still owed, the date it comes due, the assets pledged, and the terms that can change. When a special contract has a future settlement the ordinary loan calculation does not represent, have that settlement analyzed separately. A simple payment figure should not hide the rest of the agreement.
+An interest-only version at the same rate would cost about $133 a month while the balance stays at $20,000.
 
-Choose the version whose full cost and downside you understand, or decide not to proceed. Record the cash left afterward, payment, remaining obligation, repayment source, and any contract question still requiring review. A proposed loan is not an application, an approval, or an executed agreement.
+Why is the payment so much lower?
+
+Because you haven't been paying back the $20,000 as you go. After five years of interest-only payments, that principal is still owed. You need to have it available or have a workable way to repay it at the agreed time.
+
+In the amortizing example, total interest is about $4,332 over five years. In the interest-only example, keeping the full balance for all five years costs $8,000 in interest, and you still need to repay the original $20,000. Those are simplified examples, not loan offers. They show why we need the ending balance beside the payment.
+
+Interest-only can have a purpose. It might preserve cash during a period when that money has a useful job. But the benefit comes with a later obligation. Compare what you actually do with the money retained and how you will pay the principal—not just the payment that looks easier today.
+
+When you compare offers, include the fees and check whether they are paid upfront or added to the amount owed. Look at the rate, how it can change, the payment schedule, and the cost of ending the loan early. A zero-interest promotion also needs its full terms reviewed; an introductory label doesn't explain what happens when the promotional period ends.
+
+Different funding sources bring different questions. You only need to investigate the ones that fit your decision, but I want you to recognize what makes them different.
+
+With a conventional personal, auto, or equipment loan, start with the repayment schedule and what secures it. A longer term can make the payment smaller while keeping you in debt longer. A lower payment may still be useful; just understand how much comes from a better rate and how much comes from spreading repayment over more time.
+
+For a home-equity loan or line, your home is part of the agreement. A line may have a period when you can draw money and a later period when the balance must be repaid. The rate and payment can change, and access to further borrowing can be reduced under the terms. Read those parts before treating unused capacity as your fallback.
+
+A cash-out refinance is different from keeping the existing mortgage and adding a separate loan. It can replace the old mortgage itself. That means the new rate may apply to a much larger balance than the extra cash you wanted.
+
+For someone with a low fixed mortgage rate, compare the full new mortgage with the old mortgage plus the alternative funding arrangement. Looking only at the new cash misses the cost of changing the financing you already had.
+
+Seller financing or equipment financing can make a purchase possible without a conventional bank loan. The seller or financing company may let you pay over time. Look for a large final payment, restrictions on the asset, personal guarantees, and what happens if the business or purchase underperforms. A smaller amount due today can be paired with a larger amount due later.
+
+You may also encounter a home-equity investment or shared-appreciation contract. It can provide money without a regular monthly payment, in exchange for an obligation linked to the home and the contract's settlement formula.
+
+Don't force that into an ordinary interest-rate comparison. Ask what you would have to pay if the house rose, stayed flat, or fell, and what ends the agreement. The adjustment rules, fees, valuation and timing can matter. Someone needs to work through the actual settlement, especially if the payment will eventually require a sale or new financing.
+
+A line backed by a securities account needs another check: what are you allowed to use the money for?
+
+A non-purpose securities-backed line generally cannot be used to buy or trade securities. It isn't interchangeable with a margin loan. Both can involve collateral requirements and forced sales, but their permitted uses and terms differ. A familiar brokerage name doesn't mean every loan against the account works the same way. Don't assume another intended investment purchase is permitted without checking the agreement.
+
+A loan from an employer retirement plan has its own rules as well. First check whether the plan allows it, then the repayment terms and what happens when employment ends. Failure to repay can produce a taxable distribution and possibly additional tax.
+
+Even when interest goes back into the retirement account, the arrangement isn't cost-free. The borrowed amount is no longer invested in the same way, payments need room in cash flow, and the effect on ongoing retirement saving matters. “I'm paying myself interest” doesn't answer all of those questions.
+
+With Bitcoin-backed borrowing, read both the money and the custody side. How much Bitcoin must be pledged? Who controls it? What can trigger a request for more collateral or a sale? How much of the total Bitcoin position would become dependent on this lender?
+
+A lower starting LTV gives more price room under the terms we've illustrated. It does not tell you that the provider is safe or that you will always have time to respond. We will turn the actual repayment and response decisions into written rules in the next lesson.
+
+Unsecured borrowing avoids pledging a particular asset under that loan. It doesn't remove the debt or the consequences of failing to repay. This is why I wouldn't rank all of these choices from safest to riskiest based only on their names. Look at the payment, contract rights, collateral and household together.
+
+Tax treatment needs to fit the actual transaction too. Keeping an investment avoids selling it at that moment, but later sales, collateral liquidation or forgiven debt can have consequences. Whether interest is deductible depends on the use of the money and the applicable rules, not simply which asset secured the loan. Bring that specific question to the tax review before relying on a benefit.
+
+Once you understand an option, look at the disappointing version. Income comes in lower. A variable rate rises. The investment or collateral is worth less. The loan you expected to use for refinancing isn't available.
+
+What happens next? Can you continue paying, repay from another identified resource, reduce the purchase, or choose not to proceed? The comparison needs a response the household could actually carry out, not just a favorable ending balance.
+
+In the walkthrough, we will take one relevant financing option and put it beside cash or a sale, with the smaller-project or delay choice still visible. We will read the cash left afterward, payments, principal still owed, and repayment source. Any important term the app doesn't represent needs separate analysis before we rely on the result.
+
+You finish this step with a choice you can explain—or a specific contract question that needs answering before a choice is possible. Comparing an offer doesn't mean you have applied, qualified, or agreed to borrow. Now let's write down the conditions you would need to keep following if you chose to use it.
 
 ---
 
 ## 3.6 — Write the rules before using leverage
 
-Write the borrowing rules before the loan or the market puts you under pressure. Someone else should be able to read them and understand the purpose, the payment source, and when the household needs to act.
+Before taking on a loan, I would write down how you intend to carry it and how you will get out of it. Not because every debt needs a complicated policy, but because the decision is easier to make before a payment problem or market decline puts you under pressure.
 
-Start with permitted purposes. A short liquidity bridge, a business purchase, and buying Bitcoin may deserve different limits. Define what the facility may be used for and what it may never be used for. Available credit does not need to become a recurring source for ordinary spending.
+Start with the loan you're actually considering. If you're not planning to borrow, you can use the same questions to check an existing obligation. You don't need to take on new debt to finish this session.
 
-Then state the maximum obligation the household is willing to carry. Use monthly payment pressure, current and stressed leverage, and collateral exposure together. A single ratio cannot capture all three. Set the amount low enough that the repayment source remains credible after the scenario you consider unacceptable.
+First, write what the money is for and the most you're prepared to borrow for that purpose.
 
-For a collateralized loan, distinguish the lender's action threshold from your own review threshold. Waiting until the lender is allowed to liquidate leaves very little room to respond. Your threshold should give time to consider repayment, additional collateral, a controlled sale, or a smaller obligation. The appropriate numbers come from the actual contract and your available resources.
+A line may allow a larger amount than you intend to use. That doesn't make the unused amount part of the plan. If you later want to use it for something else, review that decision separately rather than assume the original approval covers every future purchase.
 
-Additional collateral also needs a limit. A promise to keep adding Bitcoin can eventually place far more of the family's holdings with a lender than originally intended. Decide how much exposure to that lender or method is acceptable, and which assets must remain available for other jobs.
+Set the amount from what the household can support, not only from what a lender will offer. Go back to the monthly payment, the stressed asset picture, and any collateral risk. A number that works on one measure can still be uncomfortable on another.
 
-Repayment should be specific. Salary over a defined period, cash already expected from a documented event, business cash flow after operating costs, or a planned asset sale are different sources. A hoped-for price rally is less dependable than a payment already scheduled. Refinancing remains uncertain until the new arrangement is actually available.
+Next, write how the payments will be made and how the principal will eventually be repaid.
 
-Put the dates that can change the obligation on the timeline: a rate reset, the end of an interest-only period, and a balloon or final repayment. Work backward from those dates. If the plan needs a sale or refinancing, leave time to assess it rather than assume a new loan will be available on the last day.
+Those may be different answers. You could cover monthly interest from income while planning to repay the principal from a sale. In that case, the sale has an amount and a deadline. What happens if you receive less than expected, or it takes longer?
 
-Choose the monitoring cadence for the actual risk. A conventional amortizing loan may fit the normal monthly review. A volatile-collateral loan can require more frequent alerts and attention. The annual course review is not sufficient monitoring for a fast-moving margin or liquidation risk.
+“We'll refinance” is something to investigate, not a complete fallback. You may be able to replace the loan, but the new lender, terms and approval still need to exist when you need them. Check what the household would do if they don't.
 
-Write down who is responsible and what happens if that person is unavailable. The spouse or trusted person does not need every detail of the model, but they need to know that an active obligation exists, whom to contact, and where the safe instructions begin. This connects the debt plan to the family-handoff session.
+This matters for a home-equity line with an interest-only period, a business loan with a large final payment, or any short-term borrowing against an asset you intend to hold for years. The life of the loan and the time you hope to own the asset can be very different.
 
-Finally, define no-go conditions. These might include an unfunded essential expense, a repayment plan that depends entirely on a new loan, an unclear contract, insufficient time to respond to collateral calls, or a spouse who would be exposed to a risk they have not agreed to carry.
+Put the important dates where you will see them. When does a rate reset? When does the payment change? When must the principal be repaid? Work backward from those dates so you have time to compare the options before the last payment is due.
 
-For Alex and Morgan, the current plan first addresses the high-rate card and the reserve shortfall. They can still compare strategic borrowing to understand the options. The comparison does not require them to add a loan now. Their saved baseline has no Bitcoin-backed loan unless and until an actual or deliberately adopted modeled strategy is entered in the correct place.
+Now decide what would make you act earlier.
 
-In the closing working-session chapter, we will record the chosen job for each debt, the extra-payment total, and the rules for any active or proposed facility. A possible future loan remains in Scenarios. An existing loan stays in Debt. Borrowing across retirement belongs with the retirement-funding strategy.
+For a household relying on variable income, that might be a loss of a major source of work or cash falling below the amount needed for essential bills. The response could be pausing extra investments, reducing optional spending, or reviewing the debt before the next payment becomes difficult.
 
-Read the rules aloud: this is what the debt is for, this is how we pay it, this is how much collateral or provider exposure we accept, and this is who responds when a trigger is reached. Keep the extra-debt amount tied to Cash Flow. With those choices recorded, we can decide what the remaining money should buy.
+A collateral-backed loan may need a more specific response point. The lender has thresholds or rights under the agreement. Your own review point should come before the situation you are trying to avoid—not simply repeat the liquidation number as though it were a comfortable limit.
+
+But don't stop at picking a percentage. What will you actually do when you reach it?
+
+You might repay part of the loan, add eligible collateral, arrange a controlled sale, or reduce the obligation in another permitted way. Identify the resource that would make that response possible. Money reserved for taxes or essential bills isn't automatically spare repayment money.
+
+Adding collateral needs its own limit. It can improve the current LTV while putting more of your assets into the same lending arrangement. If your only rule is to keep adding Bitcoin whenever the price falls, you could end up pledging much more of the family's holdings than you originally intended.
+
+Decide how much additional exposure you would accept and which resources need to remain available for other jobs. Then decide what you would do if that limit is reached. An unlimited promise to protect one loan can weaken the rest of the plan.
+
+Consider the time it takes to respond as well. An account balance isn't useful for a fast collateral demand if you can't move the money when it's needed. Market gaps, transfer delays, lender discretion and outages can leave less time than a smooth projection suggests.
+
+Monitoring helps you notice a problem. It doesn't guarantee you can prevent a forced sale. That is a reason to leave room in the original borrowing decision, not a reason to assume an alert makes a larger loan safe.
+
+Choose a review routine that fits the debt. A regular loan payment can be checked during the household's normal monthly review. A loan backed by a volatile asset may need much closer attention and lender alerts. Waiting for the annual plan review isn't a sufficient way to manage a rapidly changing collateral position.
+
+Write down who is responsible for that attention. Then think about what happens when that person is unavailable.
+
+Your spouse or trusted person should know that the obligation exists, where the safe instructions begin, and whom to contact. They don't need wallet recovery information written into this document. They do need enough context to recognize that a time-sensitive lending issue should not sit unread for a week. We'll connect that to the family handoff later in the course.
+
+Finally, write the conditions under which you would not proceed—or would reduce the plan before using it.
+
+An essential bill without funding is one. So is an agreement you don't understand, a principal repayment that depends entirely on another unapproved loan, or a response that requires money you cannot access. A household member who shares the consequences but hasn't agreed to the risk is another reason to stop and talk.
+
+For Alex and Morgan, the current decisions still need to support the reserve and the high-rate card. Their source balance sheet has no Bitcoin-backed loan. We can compare a borrowing idea without turning it into a new obligation just to complete a lesson.
+
+Read your own proposed rules back in ordinary language. What is this loan for? Where do the payments come from? How does it end? What would make you act earlier, and what money or collateral would you use? Someone reading the plan should be able to find those answers without guessing what you intended.
+
+Then bring the current debt decisions back to Cash Flow. Required payments have already been counted. The extra payments need to fit beside the reserve amount and the other commitments. Keep any proposed new loan separate until you deliberately choose it, and don't start using money that becomes available only after a future payoff.
+
+That is the handoff to Allocation. We know what the household needs to keep accessible and what extra debt payments are taking from the available money. Now we can decide what the remainder should buy—and how the next contribution changes once a debt is actually gone.
 
 ---
 

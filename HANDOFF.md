@@ -6,7 +6,7 @@ Austin rejected the bulk source-led prose after reading it. The accepted model i
 
 Full replacements: 2.1 (the previously prepared Cash Flow reading copy), 2.2 (Keep / Cut / Reduce), 2.4 (expected Life Events and funding), 2.5 (optional parent education commitment). W02 chapters 1–3 and 6–7 now contain the matching spoken explanations. The Reserve summaries and seven-beat recording block are unchanged. Duplicate abbreviated W02 cues are removed.
 
-Every other canonical script is unchanged except its status line, which now says individual repair is still needed. The existing generator regenerates reading copies and no longer labels every lesson Reviewed. No new quality-scoring framework or competing master is created.
+That Session 2 repair also corrected the status line in then-unrepaired scripts. The subsequent Debt repair replaces 3.1–3.6 and W03 only; all other canonical bytes, including all of Session 2 and the Reserve, remain unchanged. The existing generator regenerates reading copies and no longer labels every lesson Reviewed. No new quality-scoring framework or competing master is created.
 
 ## Sources and limits
 
@@ -16,8 +16,20 @@ The original college comparison is retained: $80,000 parent commitment, $29,000 
 
 Older categorical age/timeframe rules and historical app routes are not silently reinstated. The current accepted Reserve direction and latest course scope control those conflicts. Tax/legal/provider details still require their existing review; this is not a fresh outside-research audit.
 
+## Debt replacement — Session 3 and W03
+
+Six full explanations now work through required versus extra payments, interest-only principal, DTI versus spendable cash, current and stressed DTA, loan-specific LTV, each existing debt's job, financing purpose, equal-purpose financing comparisons, and the repayment/response rules. W03 has one narrated recording plan for each of its six existing chapters. Its former duplicate short-cue and summary versions are removed.
+
+Teaching sources actually consulted were relevant text and speaker-note passages from `OrangePlan-Week4-Debt-Strategy.pptx`, the older detailed Debt outline, the Global Brain debt playbook, and original March 17 / April 8 call dialogue. These establish the strategic uses of debt, debt tolerance, rate versus household capacity, required/extra-payment confusion, released cash after payoff, and the need to check an interest-only maturity. No raw private dialogue, names, client amounts, personal investment assurances or old app behavior are committed. Full-deck visual inspection and original audio listening are not claimed.
+
+Source distinctions are explicit. The older deck and outline use different ratio bands; neither is a universal safety rule in the current course. The deck's margin-call wording differs from its liquidation graphic; the current 80% example is hypothetical liquidation only, with warning/call triggers separately checked. Its universal structure ladder, unsecured-no-forced-sale claim and interest-only superiority are not reinstated over the current Core's contract/repayment analysis. The owner's later liquidity judgment qualifies categorical card-first language. Historical STRC/reserve and confident-return recommendations in the calls are not imported over the accepted Reserve framework. No new personal rule is attributed to Austin to resolve these differences.
+
+The fictional source data remains unchanged. New arithmetic explanations derive from its card balance/rate/minimum, and from the existing separate $20,000, 8%, five-year repayment illustration. Approximate card interest is not a daily-billing statement; hypothetical amortization is not a quote or Reed payoff forecast. The $30,000 project stays a separate comparison. No new security, tax basis, model result, maturity, lender threshold, current offer or household debt job is invented. Other non-card debt choices are comparisons until a reviewed fictional decision is supplied.
+
+Narrow outside checks were limited to CFPB DTI/HELOC/loan-comparison/home-equity-contract mechanisms, FINRA SBLOC restrictions and collateral rights, IRS plan loans/use-of-proceeds/canceled debt, and a lender's explanation of mortgage recasting. The URLs are in production notes, not spoken narration. They support those mechanisms, not current loan pricing, suitability, guaranteed outcomes or professional sign-off. Material product and contract inputs still wait for the actual demonstration.
+
 ## Next
 
-Continue with Debt, one complete lesson and its matching working chapter at a time. Preserve the larger strategic-debt scope. Do not stop at changing the introduction or finish while retaining an unexplained middle. The opening sessions and the remaining Core/Advanced/practical components still need the same individual repair. Do not claim background execution or another whole-course completion.
+Continue with Allocation and W04, one complete lesson and its matching working chapter at a time. Keep the Debt replacement and the accepted Reserve reasoning intact; the conditional Advanced debt lessons still need their own individual repair. Do not stop at changing the introduction or finish while retaining an unexplained middle. The opening sessions and the remaining Core/Advanced/practical components still need the same individual repair. Do not claim background execution or another whole-course completion.
 
 Use existing `scripts/`, regenerate current reading copies, and keep review drafts visible in GitHub as requested. Do not change the app or record its unfinished screens. Check actual branch/PR state before writes, preserve source/fixture/capture bytes and historical recovery, and remove temporary authoring helpers before integration. A merge for reading is not Austin's approval of every line.
