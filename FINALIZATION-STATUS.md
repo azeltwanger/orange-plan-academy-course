@@ -15,15 +15,15 @@ The prior structural checks passed, but that did not establish teaching quality.
 | W02 chapters 1–3 and 6–7 | Corresponding narration and demonstration plan rewritten; exact screens, inputs, outputs and save behavior await verification. |
 | 3.1–3.6 | All six Debt explanations have full individual replacements; voice/judgment review is still pending. |
 | W03 chapters 1–6 | Matching narration and one recording plan per chapter replace the duplicate short cues. Actual contract inputs, app behavior and results remain unverified. |
-| 4.1–4.7 | Seven full Allocation replacements written; integrated voice/judgment review remains pending. |
-| W04 chapters 1–8 | One narrated recording plan per chapter; exact account, tax, calculation and save behavior remain pending. |
+| 4.1–4.7 | Current section under review. Owner feedback on redundant 4.2 led to a concise four-path lesson, a full timeframe-sizing 4.3 and aligned section handoffs. Owner acceptance remains open. |
+| W04 chapters 1–8 | Sequence aligned to role → sizing → target → contributions → account/election → purchases. Final account/app results and recording remain unverified. |
 | All other Core and Advanced lessons, and W01/W05–W10/D07 | Individual teaching/voice repair still needed. Their prose and status headers were not changed by the Allocation repair. |
 
 The 51/15/11 inventory, course sequence, member documents and source household remain unchanged. A longer script, a passed check or a new status label does not establish that a learner can follow it.
 
 ## Review and continuing work
 
-Read the clean spoken copies and the paired demonstration together. Check whether the explanation reflects Austin's judgment, explains the missing reasoning and leaves the member able to make the choice. Keep the next work in existing scripts rather than create another outline or workbook. Next is Tax and W05; the opening sessions, conditional Advanced lessons and all other unrepaired components also remain on the repair list.
+Read the clean spoken copies and the paired demonstration together. Check whether the explanation reflects Austin's judgment, explains the missing reasoning and leaves the member able to make the choice. Keep the next work in existing scripts rather than create another outline or workbook. Finish the current Allocation section with Austin before moving to Tax and W05. The opening sessions, conditional Advanced lessons and all other unrepaired components also remain on the repair list. A written section needs a coherent decision chain and paired walkthrough, not merely every file touched.
 
 ## App and device recording
 

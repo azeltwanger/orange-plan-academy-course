@@ -26,7 +26,7 @@ Those are different actions. Changing what the next payroll contribution buys us
 
 I would compare redirecting new money before selling an appreciated taxable holding just to bring a percentage back in line. A sale might still be useful, but it needs a reason worth its tax and other costs.
 
-For the current example, a 60% Bitcoin target corresponds to $784,200 of the $1,307,000 group. Current Bitcoin exposure is $728,000. The difference is $56,200.
+Back with Alex and Morgan, the separate 60/34/6 comparison uses their $1,307,000 group. It isn't the $500,000 timeframe illustration from Lesson 4.3. Their 60% Bitcoin comparison corresponds to $784,200. Current Bitcoin exposure is $728,000. The difference is $56,200.
 
 That shows the direction of the comparison. It isn't an instruction to buy $56,200 today.
 
@@ -62,7 +62,9 @@ Then verify the first result. Did the payroll deduction change? Did the contribu
 
 Saving the intention in Orange Plan is not the same as placing a trade. While a change is only being considered, keep it as a comparison. Once you adopt it, record the plan; once it actually happens, make sure the current facts agree.
 
-To finish the session, you should be able to follow one contribution from the available money, to its purpose, to the account, and finally to the investment. Then explain how it fits with the other accounts and what changes after the next funding milestone.
+To finish the session, check each contribution you're planning—not just one example. Does it have an affordable amount, a job and timeframe, a receiving account, and an investment instruction? Then check the combined holdings against the target you chose.
+
+Be clear about what changes now, what waits for a debt payoff or a funded Reserve, and what can stay as it is. A contribution that starts later still needs its own condition and funding source. You can leave an outside action pending, but it should be a specific action, not an investment decision we never finished.
 
 If the amounts don't fit, return to the contribution decision. If the account can't hold the investment, return to the account choice. If a sale is needed and the tax is unknown, that is a specific item for the next session—not a reason to invent the missing purchase history.
 

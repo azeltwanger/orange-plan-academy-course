@@ -117,17 +117,17 @@ A decision, a saved choice and an outside action are separate states. Funding a 
 - Identify which assets are included and why before comparing percentages.
 - Name a relevant mismatch in access, intended use or current purchases—or explain why the setup can stay as it is.
 
-## 4.2 — Set a Bitcoin target the household can hold
+## 4.2 — Find your Bitcoin path
 
-- Choose a target or comparison with a defined portfolio scope and explain why it fits the household.
-- Translate the Bitcoin decline into dollars and describe the funding and behavioral response during a long weak period.
-- Separate adopting a target from executing a trade and name a reason to review the choice later.
+- Describe the intended role of Bitcoin using the four paths without treating a range as a required allocation.
+- Distinguish that intention from today's percentage, price movement or a per-account investment instruction.
+- Carry the chosen role into the timeframe sizing exercise; do not finalize a target or trade before it.
 
-## 4.3 — Match the money to when you will use it
+## 4.3 — Size your positions by when you will use the money
 
-- Explain when money is intended to be used and separately whether the account can provide it then.
-- Keep current cash, early retirement, later retirement and dedicated commitments from claiming the same dollars.
-- Identify the funding need that should influence the next contribution and the access question still needing verification.
+- Assign existing money to distinct spending jobs/timeframes without counting the same dollars twice.
+- Choose and explain position sizes within those jobs, then calculate the combined dollar-weighted target; do not copy one percentage into every account.
+- Compare one specific sizing change, check upcoming funding and usable account access, and separate the target decision from implementation.
 
 ## 4.4 — Build the contribution waterfall from one pool
 
@@ -415,7 +415,7 @@ The member can explain the payments, household leverage and any lender-specific 
 
 ## W04 — Route contributions into usable accounts and intended holdings
 
-The member can explain the portfolio and target, identify which money is for earlier and later needs, reconcile the contribution amounts, select usable accounts and tax treatment, and state what each contribution buys. The household target, account mixes and new-money instructions are distinct but consistent. Outside execution and future conditions remain visible. No completed app run, tax review, provider action, recording or learner outcome is certified by this written plan.
+The member can start with the current portfolio, state Bitcoin's intended role, size positions for the spending jobs, combine them into a target, fit current contributions, choose usable accounts and tax treatment, and finish each investment instruction. The four-path orientation does not prematurely save a target. The drawdown check validates the chosen funding once rather than replacing the sizing method. The household target, account mixes and new-money instructions are distinct but consistent. Outside execution and future conditions remain visible. No completed app run, tax review, provider action, recording or learner outcome is certified by this written plan.
 
 ## W05 — Reconcile tax records and prepare one useful comparison
 

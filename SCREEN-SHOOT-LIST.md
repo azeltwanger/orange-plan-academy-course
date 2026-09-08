@@ -26,7 +26,7 @@ The member can explain the payments, household leverage and any lender-specific 
 
 [Run sheet and cues](scripts/working/W04_route-contributions-into-usable-accounts-and-intended-holdings.md)
 
-The member can explain the portfolio and target, identify which money is for earlier and later needs, reconcile the contribution amounts, select usable accounts and tax treatment, and state what each contribution buys. The household target, account mixes and new-money instructions are distinct but consistent. Outside execution and future conditions remain visible. No completed app run, tax review, provider action, recording or learner outcome is certified by this written plan.
+The member can start with the current portfolio, state Bitcoin's intended role, size positions for the spending jobs, combine them into a target, fit current contributions, choose usable accounts and tax treatment, and finish each investment instruction. The four-path orientation does not prematurely save a target. The drawdown check validates the chosen funding once rather than replacing the sizing method. The household target, account mixes and new-money instructions are distinct but consistent. Outside execution and future conditions remain visible. No completed app run, tax review, provider action, recording or learner outcome is certified by this written plan.
 
 ## W05 — Reconcile tax records and prepare one useful comparison
 

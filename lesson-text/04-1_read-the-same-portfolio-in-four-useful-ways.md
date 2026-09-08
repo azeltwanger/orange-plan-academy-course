@@ -64,7 +64,7 @@ The goal isn't to make every account look the same or to make the chart prettier
 
 If nothing needs changing, that's useful too. You don't have to move money just because we're reviewing it.
 
-In the working chapter, we'll look at the same portfolio from these four angles and identify what deserves attention first. Then we'll choose the Bitcoin target with the rest of the household in view.
+In the working chapter, we'll look at the same portfolio from these four angles and identify what deserves attention first. Then we'll decide the role Bitcoin should play and size the positions for the different years when the money will be used.
 
 ### Visual notes — not spoken
 

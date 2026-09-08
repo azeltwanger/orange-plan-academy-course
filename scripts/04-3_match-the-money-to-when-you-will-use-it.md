@@ -1,91 +1,116 @@
-# 4.3 — Match the money to when you will use it
+# 4.3 — Size your positions by when you will use the money
 
-Status: TEACHING_REWRITE_REVIEW — individual spoken replacement using the accepted Reserve reference. Integrated wording awaits Austin's voice/judgment review; app recording remains separate.
-Adapted source: Accounts + Allocation time-horizon teaching, Global Brain early-retirement funding and older Module 4A; current access distinctions retained.
-App references: exact account assignment and year-by-year funding require the approved build and reviewed inputs.
+Status: TEACHING_REWRITE_REVIEW — full replacement after Austin identified the missing timeframe-sizing step. This lesson completes the allocation method before account selection. Voice/judgment and actual app review remain open.
+Adapted source: Accounts + Allocation deck Steps 3–5; older protocol's conviction across timeframes; current dedicated-use and access distinctions. New round-number example is labeled separately from the Reeds.
+App references: timeframe calculations are teaching illustrations, not evidence of a per-bucket target editor or an engine-generated recommendation.
 
 Kind: teach
 Gate: TAX_REVIEW
-Sources: ALLOCATION, ALLOCATION_DECK, OWNER, APP, PRIMARY
+Sources: ALLOCATION, ALLOCATION_DECK, BRAIN, OWNER, APP, PRIMARY
 
 ### Read aloud
 
-You can have enough money in total and still have a problem with when you can use it.
+You can have the same belief in Bitcoin and make different investment choices for money you'll need next year and money you won't need for twenty years.
 
-That's especially important if you want to stop working well before the usual retirement ages. A large retirement-account balance may help fund the later years. It doesn't, by itself, explain how you'll pay for the years between your last paycheck and access to that money.
+That's what we're going to work through here. We chose the role Bitcoin should play in the last lesson. Now we need to decide how much of each part of your money should be invested in it.
 
-In this lesson, we're going to ask two questions about each part of the portfolio: when do you expect to spend it, and can the account provide it then?
+Rather than start with one percentage for everything, start with the jobs the money has to do. What needs to be available soon? What will you use over the middle years? And what can stay invested much longer?
 
-Start with the money you need now.
+I use Reserve, Bridge, and Forever to describe those timeframes. The slide shows roughly zero to three years, four to ten years, and ten years or more. Those are useful starting points, not lines where an investment suddenly becomes safe. And they don't mean everyone needs three years of expenses in an emergency fund.
 
-Checking needs enough to cover the bill cycle. The Reserve is there for an interruption or unexpected need. We already worked out that target and which existing money counts toward it. We're reading the same decision here, not setting up a second reserve.
+For the near-term money, bring forward the Reserve decision you've already made. Add any known near-term commitments that aren't part of that Reserve, without counting the same money twice.
 
-Those dollars need to be usable when the problem happens. You may still own an investment after a price decline, but that doesn't mean it will provide the same amount of spending money. That's why we separated accessible cash from the longer-term Bitcoin position.
+If you've promised a down payment next year, for example, those dollars have a deadline. They aren't available for a long-term Bitcoin position as well. Set aside the amount you genuinely need, then decide what the other money can do.
 
-Next, look at the first years after work changes or stops.
+We aren't choosing the Reserve again in this lesson. We're using that decision to avoid giving the same money a conflicting investment job.
 
-Alex would like work to become optional at fifty-two. Age fifty-nine and a half is about seven and a half years later. What supports the household during that period?
+The Bridge is the part with a use approaching, but not an immediate bill. It could support the first years after you reduce work, or a planned expense several years away.
 
-Morgan has a separate timeline. When Alex reaches 52, Morgan would be about 50, given their two-year age difference. We cannot use Alex's age as the access date for Morgan's accounts, or assume Morgan stops working at the same time just because Alex does.
+This is usually where the sizing decision needs the most thought. You still want growth, but you don't necessarily have the freedom to leave the entire amount invested through a long weak period.
 
-Some income may continue. There may be personally held Bitcoin, taxable investments, or cash they plan to use. Identify those resources and the other jobs they already have. Then compare what they can provide with the costs during those years.
+Take a planned purchase in five years. Could you delay it? Would you accept a smaller purchase? Would income or another identified resource cover part of it? Those answers help distinguish the amount that must be available from the part where you're willing to accept a less certain outcome.
 
-For the Reeds, the group of taxable accounts includes money for current bills and the Reserve. It also includes longer-term investments. Calling that entire group accessible does not make all of it spare money for early retirement. We still have to preserve the amount needed for each commitment.
+Then build the investment mix around that distinction. A fixed payment with no backup needs a different funding choice from a flexible goal. Bitcoin can be part of a Bridge allocation, but the size needs to fit what you are prepared to change if the money isn't worth what you expected.
 
-A taxable account can be useful here because it isn't tied to retirement-age withdrawal rules. But usable does not mean tax-free. A sale can create a gain, and the market value before a sale isn't necessarily the cash left afterward.
+That is more useful than saying either “five years is too short for any Bitcoin” or “five years is plenty, so put it all there.” Neither statement has looked at the commitment.
 
-Age 59½ is an important landmark, not an absolute lock on every retirement dollar.
+Forever is the long-runway money. It may support later retirement or wealth you intend to leave to family. If earlier needs have their own funding, you have more room to choose investments for long-term growth here.
 
-For example, regular Roth IRA contributions come out before conversions and earnings under the ordering rules. That can make the contribution portion more accessible than people expect. It doesn't mean the whole Roth balance is available on the same terms, and a Roth workplace account isn't identical to a Roth IRA.
+This is where a high-conviction Bitcoin holder may choose the largest Bitcoin position. That doesn't require someone on the Foundation or Integration path to make the same choice. Time gives the investment longer to work; it doesn't tell everyone what to believe or guarantee the result.
 
-Some workplace-plan distributions after qualifying separation, governmental 457(b) distributions, and structured periodic payments can also have different early-distribution treatment. Each route has conditions. We'll review the relevant one before relying on it for the retirement paycheck. An exception to an additional tax also doesn't necessarily remove ordinary income tax or make a workplace plan permit the withdrawal.
+And retirement is not one deadline for the entire portfolio. When you stop working, some money may be needed that year, while another part won't be spent for decades. You can prepare the first payments without treating every retirement dollar as short-term money.
 
-For now, keep the distinction simple. Money with a verified access route can play a role. An account whose access you haven't checked is still a question, not proof that all the early years are funded.
+Let's put numbers to this so you can see how different position sizes become one household allocation.
 
-Then look at money intended for later retirement.
+This is a separate, simplified example, not Alex and Morgan's balance sheet. Imagine $500,000 of financial assets. For this exercise, $50,000 is assigned to the Reserve and known near-term costs, $100,000 to the Bridge, and $350,000 to the long-runway portion.
 
-When the earlier years have a credible source, the later money has more time to remain invested. That can make a retirement account useful for assets you intend to hold for a long period. It doesn't mean you must keep everything there in the same investment forever. As a withdrawal gets closer, its job changes.
+Those amounts are assumptions for the example. In your own plan, they need to come from your spending, expected income, commitments, and the money already assigned—not a standard split applied to every household.
 
-You can think of the investment horizons as Reserve, Bridge, and Forever. Reserve is short-term protection. Bridge is money with an approaching use that still needs flexibility. Forever is the long-runway portion for later retirement or family wealth.
+We're leaving the $50,000 near-term amount in cash. It has a spending job, not a Bitcoin growth target.
 
-The original horizon examples are roughly zero to three years, four to ten years, and ten years or more. They help you think about time to use the money. They are not required account boundaries, and they do not mean you need three years of living expenses in the emergency reserve.
+For the $100,000 Bridge, suppose the household chooses to keep $30,000 available for the first planned payments from that part of the money. That leaves $70,000 to invest for its later uses. We're comparing $20,000 in Bitcoin and $50,000 in stocks there.
 
-Don't confuse those horizons with the before-and-after-59½ question. A taxable account can hold an investment you won't use for twenty years. A retirement account can hold cash for a permitted withdrawal next year. One question is about the investment's time to work; the other is about the account's access rules.
+The Bridge mix is now 20% Bitcoin, 50% stocks, and 30% cash. This household is testing a smaller Bitcoin role for those middle years while relying more heavily on it for the longer run. The stock portion still has market risk. Calling it something other than Bitcoin doesn't make it stable cash.
 
-Now add the commitments we put on the timeline.
+For the $350,000 long-runway portion, we'll compare 80% Bitcoin and 20% stocks. That gives us $280,000 of Bitcoin and $70,000 of stocks there.
 
-College, a vehicle, or a home purchase may need money before retirement begins. An HSA may be intended for healthcare. An education account has its own use and beneficiary rules. They shouldn't quietly become general retirement resources while the expenses they were meant to cover are left unfunded.
+Now add the dollars. The two Bitcoin positions are $20,000 and $280,000. Together they are $300,000 out of the $500,000 total: 60% Bitcoin across this example portfolio.
 
-For each commitment, ask how fixed the amount and date are. If you could delay a purchase or spend less, you have more room to accept uncertainty. If the bill must be paid in full on one date, you need a more dependable source for that amount.
+The combined stock position is $120,000, or 24%, and cash is $80,000, or 16%. All the money is counted once. Some cash covers near-term jobs; some sits within the Bridge for its own upcoming payments.
 
-This doesn't mean every future expense needs to be in cash today. Bitcoin may be part of a longer-term funding plan. But as the spending date approaches, come back to how the first bill gets paid if the price is down. The plan needs an answer beyond hoping the market is favorable that month.
+Notice how we reached that 60% Bitcoin allocation. We didn't put 60% into every account. We used no Bitcoin for the near-term money, a smaller position in the Bridge, and a larger position for the long run. The household percentage is the result of those choices.
 
-What does this mean for the next contribution?
+Now compare changing only the long-runway Bitcoin position from 80% to 60%, putting the difference into stocks. That portion would hold $210,000 of Bitcoin instead of $280,000. With the $20,000 in the Bridge unchanged, total Bitcoin becomes $230,000, or 46% of the portfolio.
 
-Suppose the later retirement years appear well provided for, but the first years after work stops need more accessible money. Another contribution to a retirement account may offer a tax benefit without addressing the gap you're trying to close. Building the taxable account can be the more useful comparison.
+We can now describe the actual choice: whether another $70,000 of the long-runway money should be in Bitcoin rather than stocks. The near-term cash and Bridge haven't changed. That's a much clearer discussion than picking a new overall percentage without knowing which money would move.
 
-For another household, early access may already be covered and the larger need is later retirement. The next contribution could reasonably go the other way. Two people with the same Bitcoin conviction can need different account destinations.
+These mixes aren't recommendations for every person at those timeframes. They show how to build and compare a target. The cash amounts still need to cover the intended payments, and the investments need to fit your conviction and the uncertainty you're accepting.
 
-We'll use the plan to check those needs rather than assume the total balance settles them. A rough annual gap multiplied by years can help orient you, but the actual funding changes with income, taxes, inflation, investment returns and the events along the way. Retirement Income will take us through that year by year.
+After choosing a mix, check the difficult case against the spending dates. If the investments are down, which payment gets made from available cash, which needs a sale, and which could be delayed? We've already covered what a drawdown is. Here we're checking the funding plan we've just built, not repeating the warning.
 
-For this step, point to the resources for today's needs, the early years, later retirement, and any dedicated commitment. Identify the first part that doesn't yet have a credible source. That is the information we need before deciding where new money should go.
+You might find that you need more reliable funding for an approaching expense. Or you might find that money has been sitting in cash even though it has no near-term job and you would rather invest it for the long run. Allocation can reveal either mismatch; it isn't only an exercise in reducing Bitcoin.
+
+Then check the accounts that hold the money. Time to use it and permission to withdraw it are different questions. A taxable account can hold a twenty-year investment. A retirement account can hold cash for a permitted withdrawal next year. We'll work through the account choices and relevant access rules in Lesson 4.5.
+
+Don't count healthcare or education money toward a different goal while leaving the original commitment unfunded. And assigning a purpose in the plan doesn't create another account balance or make an unavailable withdrawal possible.
+
+For Alex and Morgan, we still have to connect their actual spending years to the money that will fund them before calling an allocation suitable. The course's 60% Bitcoin, 34% stocks, and 6% cash mix remains a comparison. It is not the 60/24/16 result from the separate example, and matching its Bitcoin percentage doesn't prove the rest of it fits.
+
+For your own decision, identify the amount assigned to each timeframe, choose the investments for those jobs, and add up the combined exposure. Check the earliest payment, the account access, and what you are willing to change. Then keep the target or revise the specific part that doesn't work.
+
+A target is still different from a trade. We will decide how to approach it through contributions or changes to existing holdings after we choose the accounts.
+
+The next lesson answers how much new money can go toward these jobs now, and which destination changes after a debt is paid off or the Reserve reaches its target.
 
 ### Visual notes — not spoken
 
-Show each adult's own timeline and the relevant account access points. Alex 44/Morgan 42 and Alex's preferred 52 are source facts; exact dates, Morgan's retirement decision and full funding outputs are not. The relative 52-to-59½ gap is 7.5 years, not a verified modeled retirement date.
+Follow the original deck sequence: Step 3, sort dollars by time of use; Step 4, choose volatility/positions for each job; Step 5, test the resulting funding choice once. Put the amounts and mixes on screen as they enter the explanation, not an entire spreadsheet at the start.
 
-Keep investment horizons Reserve/Bridge/Forever visually separate from the app's prospective Now/Before 59½/After 59½ access view. Do not draw new balances for each lens. Taxable accounts total $575,000 in the teaching fixture, including existing bills/Reserve money; retirement accounts in the general subset total $732,000. HSA/education remain dedicated. These totals are not certificates of spendability or funding sufficiency.
+The separate round-number example must be labeled throughout: MECHANICS ONLY — NOT REED / NOT AN APP RESULT / NOT RECOMMENDED WEIGHTS. Scope is $500,000 of unlevered example financial assets; no borrowing, tax or fee calculation. It assumes the job amounts are already chosen and does not certify their adequacy.
+
+| Timeframe/job | Amount assigned | Bitcoin | Stocks | Cash |
+|---|---:|---:|---:|---:|
+| Reserve and identified near-term needs | $50,000 | $0 | $0 | $50,000 |
+| Bridge | $100,000 | $20,000 | $50,000 | $30,000 |
+| Long runway / Forever | $350,000 | $280,000 | $70,000 | $0 |
+| Combined illustration | $500,000 | $300,000 (60%) | $120,000 (24%) | $80,000 (16%) |
+
+Second comparison changes only long-runway weights to 60% Bitcoin / 40% stocks: long BTC $210,000; long stocks $140,000; total BTC $230,000 (46%); total stocks $190,000 (38%); cash unchanged $80,000 (16%). It reallocates $70,000 within the long-runway group. Do not average the three group percentages or present these values as trades already performed. Taxes/costs of implementing a change belong to the actual plan comparison.
+
+The Reed fixture stays $1,307,000 / $728,000 Bitcoin exposure, with its separate 60/34/6 target marked hypothetical. Do not infer any Reed timeframe balances, account allocation or target approval from this generic example. Reserve target $43,200 and current assignment $32,000 remain unchanged.
 
 ### Production notes
 
-The older deck grouped HSA and education with Bridge; the current course already distinguishes dedicated uses from unrestricted early-retirement funds. This rewrite keeps that current distinction and explains it rather than silently changing the original source. It also preserves the original horizon examples without turning them into mandatory allocation bands. Global Brain asks for plain language about years before retirement accounts are easy to use, not jargon in place of an explanation.
+The prior version spent most of its time on early-account access and did not teach the deck's actual timeframe-to-position-sizing step. This version moves the final target comparison after the sizing exercise. It does not reopen the Reserve or repeat the Debt stress arithmetic. The 4.2 paths establish intention, not a target saved before 4.3.
 
-Narrow outside checks read September 8, 2026: IRS Publication 590-B, https://www.irs.gov/publications/p590b (regular contributions, conversion and earnings ordering; qualified distribution conditions); IRS early-distribution exceptions, https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-exceptions-to-tax-on-early-distributions ; IRS Publication 969, https://www.irs.gov/publications/p969 (qualified medical use). These support account mechanics, not a personal access recommendation or professional sign-off. Check actual plan terms and applicable exceptions before modeling reliance on withdrawals. Do not transfer Roth IRA ordering to a Roth workplace account. Existing TAX_REVIEW remains.
+The original deck's 0–3 / 4–10 / 10+ lanes are orientation aids, not automatic asset/account restrictions. Its association of HSA/college balances with Bridge is not permission for unrestricted early retirement. Keep dedicated-use and access rules in 4.5; relevant detailed withdrawal routes remain in Retirement Income. Longer time does not guarantee recovery or eliminate permanent loss. Do not restore the older outline's guarantee that a drawdown can never force a sale.
 
-W04 chapter 3 must verify actual account assignment, any partial allocation, event attribution and year funding. No unsupported automatic bucket transfer, independent Goals ledger or unprovided early-access strategy is invented. Uncertain source information remains a named capture requirement.
+New $500,000 example amounts and percentages are proposed editorial teaching assumptions. They illustrate weighting and a controlled comparison, not an owner-approved allocation rule or an estimate for a real client. Narrow mechanism reference checked September 8, 2026: SEC Investor.gov, Asset Allocation and Diversification, https://www.investor.gov/introduction-investing/getting-started/asset-allocation . It supports time horizon and risk capacity as allocation inputs, not these Bitcoin weights or a suitability conclusion.
+
+W04 chapter 3 uses a clearly separate graphic for the arithmetic and then checks the actual plan's existing sources and intended uses. Do not invent per-timeframe target controls, a second ledger, automatic account assignments or an engine-derived target. Only an explicitly adopted fictional decision with sufficient inputs can be saved during a final app recording. Existing TAX_REVIEW covers reliance on account access and implementation; no new tax mechanism is taught here.
 
 ### Member checkpoint
 
-- Explain when money is intended to be used and separately whether the account can provide it then.
-- Keep current cash, early retirement, later retirement and dedicated commitments from claiming the same dollars.
-- Identify the funding need that should influence the next contribution and the access question still needing verification.
+- Assign existing money to distinct spending jobs/timeframes without counting the same dollars twice.
+- Choose and explain position sizes within those jobs, then calculate the combined dollar-weighted target; do not copy one percentage into every account.
+- Compare one specific sizing change, check upcoming funding and usable account access, and separate the target decision from implementation.

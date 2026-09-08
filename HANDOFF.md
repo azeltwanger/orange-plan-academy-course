@@ -44,8 +44,32 @@ Narrow outside checks, separate from the user-derived teaching framework, used c
 
 The existing generator and arithmetic checks are extended only for amounts actually discussed; no new writing-quality framework is added. A passed check verifies arithmetic/synchronization/preservation, not Austin's approval or learner comprehension. All Session 2/3 scripts and W02/W03, original dictation, fixture, toolkit, capture receipts and cleanup history remain protected.
 
+## Allocation section-level correction — finish the decision before moving on
+
+Austin identified that 4.2 repeated drawdown tolerance while the more useful sizing-by-timeframe step was missing. He asked to finish each section rather than proceed through more script batches. The earlier statement that the Allocation replacement was ready to leave for Tax is superseded.
+
+Actual correction: 4.2 now uses the four paths to establish Bitcoin's intended role. The deck's illustrative percentage bands are visible without becoming mandatory ranges or automatic suitability classifications. 4.3 now owns assigning money to timeframes, sizing the holdings, combining the dollar-weighted target, and testing the resulting spending funding once. Early-access mechanics no longer occupy the bulk of that explanation; their feasibility check stays with account choice and detailed retirement instruction. W04 follows the same sequence, with no target save in chapter 2 and the actual target comparison only after sizing in chapter 3. The 4.1 ending and 4.7 return-to-example/finish are aligned.
+
+All seven current lessons and the whole W04 sequence were read for distinct work, not just isolated word quality. 4.4, 4.5 and 4.6 retain their existing narration because the amount, account and tax-election decisions are different jobs. No blanket reapproval of those drafts is asserted.
+
+| Lesson | Distinct job | Original deck anchor |
+|---|---|---|
+| 4.1 | Read current exposure and identify a mismatch | Step 1 |
+| 4.2 | State the intended Bitcoin role | Step 2 |
+| 4.3 | Size by timeframe, combine into a target and check funding | Steps 3–5 |
+| 4.4 | Fit current contributions and future changes into actual cash flow | Step 6 |
+| 4.5 | Select an eligible, usable account with the needed menu | Steps 7 and 9 |
+| 4.6 | Compare tax election using the same economic budget | Step 8 |
+| 4.7 | Specify purchases and finish each current/future outside instruction | Step 10 |
+
+The original Accounts + Allocation deck's relevant slide text and speaker notes were reread in sequence; the older protocol explicitly supports sizing Bitcoin differently across Bridge and Forever. This is not a claim of original audio listening or complete visual deck inspection. The current wording, examples and latest owner direction take precedence over historical interface claims and categorical guarantees. No real client story or data is introduced.
+
+The new $500,000 illustration is separate from the Reed fixture: $50,000 near-term cash; $100,000 Bridge at 20/50/30; $350,000 long-runway at 80/20/0; aggregate 60/24/16. A second comparison changes only long-runway to 60/40/0, producing aggregate 46/38/16. These are proposed example assumptions demonstrating the method, not a recommendation or an approved Reed decision. The existing Reed 60/34/6 target and future contribution illustration remain explicitly separate. The existing arithmetic checker verifies the new sums; no new quality-scoring framework is added.
+
+A narrow SEC Investor.gov check supports the horizon/allocation mechanism, not the example weights. Final tax/access, app and recording evidence remains separate. All other sessions, source-material, fixture, toolkit, capture records and historical cleanup are preserved.
+
 ## Next
 
-Continue with Tax and W05, one complete lesson and its matching working chapter at a time. Keep the Allocation, Debt and Cash Flow replacements and accepted Reserve reasoning intact; the conditional Advanced lessons still need their own individual repair. Do not stop at changing the introduction or finish while retaining an unexplained middle. The opening sessions and the remaining Core/Advanced/practical components still need the same individual repair. Do not claim background execution or another whole-course completion.
+Keep Allocation as the current section until the owner is satisfied with this complete teaching-and-walkthrough sequence. Do not start Tax merely because the script files have been rewritten. Each subsequent section needs its own deck-based decision chain, an actual worked explanation, and matching walkthrough before it is presented as ready for owner review. Writing, owner acceptance and filming remain different states. This does not require another course-architecture reset or new workbook. The earlier sessions and conditional Advanced library still retain their stated review/repair needs. No background continuation or whole-course completion is claimed.
 
 Use existing `scripts/`, regenerate current reading copies, and keep review drafts visible in GitHub as requested. Do not change the app or record its unfinished screens. Check actual branch/PR state before writes, preserve source/fixture/capture bytes and historical recovery, and remove temporary authoring helpers before integration. A merge for reading is not Austin's approval of every line.

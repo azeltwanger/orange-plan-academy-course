@@ -200,6 +200,23 @@ def arithmetic(root: Path) -> dict:
     eq('same-budget Traditional after illustrative 10 percent tax',D(1000)*2*(1-D('.1')),1800)
     eq('half-Bitcoin group isolated 70 percent decline',D('.5')*D('.7'),D('.35'))
     eq('80 percent Bitcoin group isolated 70 percent decline',D('.8')*D('.7'),D('.56'))
+    # Separate 4.3 sizing illustration: never mutate or calibrate the Reed fixture.
+    near=(D(0),D(0),D(50000)); bridge=(D(20000),D(50000),D(30000)); long=(D(280000),D(70000),D(0))
+    eq('timeframe example near-term assigned',sum(near),50000)
+    eq('timeframe example Bridge assigned',sum(bridge),100000)
+    eq('timeframe example long-runway assigned',sum(long),350000)
+    combined=tuple(near[i]+bridge[i]+long[i] for i in range(3))
+    eq('timeframe example counted once',sum(combined),500000)
+    for i,(asset,amount,weight) in enumerate([('Bitcoin',300000,'.60'),('stocks',120000,'.24'),('cash',80000,'.16')]):
+        eq('timeframe example '+asset+' dollars',combined[i],amount)
+        eq('timeframe example '+asset+' weight',combined[i]/sum(combined),D(weight))
+    revised_long=(D(210000),D(140000),D(0))
+    revised=tuple(near[i]+bridge[i]+revised_long[i] for i in range(3))
+    eq('timeframe alternate total unchanged',sum(revised),500000)
+    eq('timeframe alternate Bitcoin weight',revised[0]/sum(revised),D('.46'))
+    eq('timeframe alternate stock weight',revised[1]/sum(revised),D('.38'))
+    eq('timeframe alternate cash unchanged',revised[2],80000)
+    eq('timeframe isolated long-runway reallocation',long[0]-revised_long[0],70000)
     return {'scope':'Arithmetic teaching checks only; no retirement forecast, tax opinion, lender assurance or model acceptance.', 'checks':asserts,'current_dta_percent':float(debt/assets*100),'partial_stress_dta_percent':float(debt/stressed*100)}
 
 CLEANUP_PIN = 'a7be495e670078cd44ea4e0792538b0eaa32dd95'
