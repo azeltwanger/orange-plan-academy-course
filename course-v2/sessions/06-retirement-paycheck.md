@@ -1,0 +1,333 @@
+# Session 6 — Build the retirement paycheck
+
+Eight connected decisions replace the compressed three-lesson module. Each W06 chapter reads the affected years and sources of cash. The fictional future spending examples are planning assumptions, not outputs of an unrun Orange Plan projection.
+
+## 6.1 — Define spending, reliable income, and the gap
+Kind: teach
+Gate: OWNER_REVIEW
+Sources: RETIREMENT, RETIREMENT_DECK, BRAIN, MASTER
+
+### Read aloud
+
+A retirement date becomes useful when you can explain how the household pays for life after that date. Start with the spending, the income arriving independently of asset sales, and the gap the portfolio must cover.
+
+Build retirement spending from the life you actually expect. Some work-related costs may end. Travel, hobbies, family support, healthcare, and projects may increase. Separate essential spending from the flexible part you could change during a difficult period. A plan built on a lifestyle you would never choose is not a useful target.
+
+Keep irregular needs visible. The roof, a vehicle, helping a child, and a major home repair can make one year much more expensive than the next. Put a specific expected event on the timeline instead of assuming every retirement year is identical. Avoid counting an event once in annual spending and again as a separate expense.
+
+For a teaching example, Alex and Morgan consider ninety-six thousand dollars a year of everyday retirement spending plus twelve thousand for healthcare. That is one hundred eight thousand of lifestyle and healthcare spending in today's dollars. Taxes, remaining debt payments, and separate events still need to be included where applicable. Those categories must not disappear just because the first spending number looks manageable.
+
+Now build the income floor. Social Security, pensions, and other durable income can cover part of the need. Rental, business, part-time, dividend, and interest income can also help, but their reliability and costs differ. Rental receipts before repairs and vacancies are not the same as dependable household cash. A high distribution yield can also include risks or return of capital that deserve separate analysis.
+
+List each income source by person, amount, start date, end date where relevant, tax treatment, and inflation behavior. A pension without a cost-of-living adjustment loses purchasing power over time. A survivor election can change both the payment now and what remains for the spouse later.
+
+Subtract reliable income from the spending need using a consistent tax convention. If the household has one hundred eight thousand of lifestyle and healthcare costs and forty thousand of gross reliable income, the first rough gap is sixty-eight thousand before accounting for taxes, debt, and separate events. That rough subtraction orients you. The full model must include the other cash needs and income taxation.
+
+The gap changes over time. Before Social Security or a pension starts, the portfolio may fund almost everything. Later the income floor rises and the gap may shrink. A debt payoff can reduce it. Healthcare transitions, a spouse's work, and major expenses can change it again.
+
+This is why a single withdrawal percentage is not the entire retirement plan. Two households with the same portfolio can have very different gaps, access rules, and future income. The question is which assets fund which years under the life each household expects.
+
+For the Reed household, we will keep their proposed work-optional date separate from the date the model calculates. We will also model each spouse's timeline rather than treating the younger spouse as though every age-based event happens at the same time.
+
+In the working-session chapter, read the first retirement year, a year when reliable income begins, and a later year. Explain the spending, taxes, debt, income, and portfolio draw in each one. If a large withdrawal seems surprising, open the year detail and find the actual cause.
+
+Finish with a realistic spending target, a list of income sources and dates, and an initial year-by-year gap. The next steps show whether the right accounts are available to fund it.
+
+### Production notes
+
+Use the retirement deck's year-by-year cash-flow table. The $108,000/$40,000/$68,000 example is explicitly before tax/debt/events reconciliation. Never mix a net spending number with gross income and call the difference the final withdrawal. No fake engine output or pension estimate.
+
+### Member checkpoint
+
+- Separate core, flexible, healthcare, debt, taxes, and event costs without duplication.
+- Identify income reliability and start dates by person.
+- Explain why the portfolio gap changes across retirement years.
+
+## 6.2 — Fund the years before accounts and benefits become available
+Kind: teach
+Gate: TAX_REVIEW
+Sources: RETIREMENT, ALLOCATION, PRIMARY, APP
+
+### Read aloud
+
+Early retirement creates several overlapping timelines. The last paycheck, retirement-account access, Social Security, pensions, and Medicare may all begin or end at different ages.
+
+Start by drawing those dates for each person. Alex's proposed work-optional age is fifty-two. That creates about seven and a half years before he reaches fifty-nine and a half. Morgan is two years younger, so the same calendar year puts Morgan at a different access point. Their healthcare and benefit timelines also differ.
+
+The bridge is the money that covers the gap between those dates. It is an intended funding job, not a separate investment product. Taxable brokerage assets, cash, and direct Bitcoin can support it, subject to their value and tax consequences. Some retirement resources may also be available under specific rules.
+
+A rough estimate multiplies the annual gap by the number of years. Eight years at sixty thousand dollars is four hundred eighty thousand before inflation, investment returns, tax changes, and events. That calculation tells you the scale. The actual funding plan needs the year-by-year model because income starts, debts end, prices change, and accounts become available over time.
+
+Check access before assuming a retirement balance can fund the early years. Many withdrawals before fifty-nine and a half can create an additional tax unless an exception applies. Exceptions are specific to the account and circumstances. A useful planning question is, “Which of my actual dollars are available, under which rule, in this year?”
+
+Regular Roth IRA contributions have distribution ordering rules distinct from conversion amounts and earnings. A conversion can have its own early-distribution timing rule. A Roth workplace plan has different mechanics from a Roth IRA. Keep the records that support the amount you intend to access.
+
+The workplace-plan separation exception often called the Rule of 55 can matter for eligible distributions from the relevant plan after qualifying separation. It does not simply turn every IRA into accessible money at fifty-five. A rollover can change the available route, so verify the plan and separation facts before moving assets.
+
+Governmental 457(b) arrangements also have distinct rules. Substantially equal periodic payments can provide another route but create a long, rigid commitment with consequences if modified improperly. These methods belong in a professional-reviewed access plan, not a quick assumption that every account unlocks early.
+
+Social Security timing changes the gap as well. Starting earlier provides income sooner, generally at a lower monthly retirement benefit. Delaying can provide a larger later benefit, with delayed retirement credits ending at seventy. Compare the cost of funding the waiting years with the value of the later income, health and longevity considerations, and the surviving spouse's situation.
+
+For a Bitcoin household, reducing sales during the bridge can be valuable. It is still only one part of the decision. An optimistic return assumption should not erase the value of a durable later income floor. Likewise, a general rule to wait should not ignore an unaffordable early gap.
+
+In the working session, inspect every year where the household needs money before a new resource begins. Identify the actual account, tax treatment, and access condition. A plan can have enough total wealth and still need a different contribution strategy today to make those early years workable.
+
+You are finished when each bridge year has a plausible funding path and any special access method has a named verification step. That information returns to Allocation whenever accessible money needs more attention.
+
+### Production notes
+
+IRS early-distribution exception table and Publication 590-B govern access. SSA sources govern claiming; do not claim all benefit types follow identical delayed-credit rules. Avoid calling all retirement assets locked until 59½. Tax professional review precedes execution of Rule of 55, conversion access, or SEPP.
+
+### Member checkpoint
+
+- Draw each person's access and benefit dates.
+- Map the early gap to actually available resources.
+- Verify any exception before relying on it or rolling the account elsewhere.
+
+## 6.3 — Price healthcare before leaving employer coverage
+Kind: teach
+Gate: HEALTH_REVIEW
+Sources: RETIREMENT, OWNER, PRIMARY, BRAIN
+
+### Read aloud
+
+Healthcare deserves a specific plan before the paycheck stops. Price the available paths and the risk each one leaves with the household.
+
+Start with when existing coverage ends and who still needs coverage afterward. One spouse may remain employed. One may reach Medicare before the other. Children may remain on the household plan for a period. Build the timeline by person rather than assigning one family cost indefinitely.
+
+Employer coverage through a spouse may be an option. COBRA can sometimes continue the prior employer arrangement for a limited period, often at a substantially higher household cost because the employer subsidy is no longer there. Eligibility, duration, premiums, and enrollment deadlines must be checked for the actual situation.
+
+An individual marketplace plan is another route. Compare premiums, deductible, out-of-pocket exposure, provider network, prescriptions, and the services the household expects to use. Metal categories describe cost-sharing structure, not a ranking of medical quality. A low premium can come with larger costs when care is needed.
+
+Income can change the net premium. Marketplace assistance depends on household information and the rules for the coverage year. Realized capital gains, taxable retirement withdrawals, and Roth conversions can affect the income calculation. Spending cash or selling high-basis assets can produce a different taxable-income result from taking the same cash amount out of a Traditional account.
+
+This connects healthcare directly to the tax window. A conversion that looks attractive at one tax rate may also reduce assistance or create repayment of advance credits. Compare the total incremental cost. Do not assume the assistance rules from a prior year still apply, and update the income estimate when the real plan changes.
+
+HSA eligibility is another separate check. The coverage must meet the applicable rules, and other coverage or Medicare enrollment can affect contributions. Current law can change which plans qualify. An existing HSA may still be used for eligible expenses under its rules even when you are no longer eligible to make new contributions.
+
+Some Bitcoin households also consider non-insurance arrangements such as medical crowdfunding or health-sharing programs. CrowdHealth is one example. Read the current member guide. These arrangements are not the same as an insurance contract, and funding of a bill is not guaranteed in the same way as covered benefits under an insurance policy. The member may remain responsible for the bill.
+
+Compare pre-existing-condition treatment, waiting periods, prescriptions, exclusions, administrative work, negotiation, and what happens during a major ongoing medical need. Ask how you would obtain coverage later if the arrangement no longer fits. A lower monthly contribution is only part of the decision.
+
+We are not using a personal family story or assuming one option is best for the audience. The course's job is to make the options and trade-offs understandable. Verify current terms directly and discuss insurance-specific questions with an appropriately licensed professional.
+
+For Alex and Morgan, create an annual comparison for each realistic path. Include expected premiums or membership costs, a normal-use estimate, and a high-cost-year exposure. Then model the years before each spouse's Medicare transition. Keep uncertain assistance and non-guaranteed funding visible rather than treating them as assured income.
+
+Medicare does not mean healthcare spending becomes zero. Enrollment timing, premiums, supplemental choices, prescriptions, and out-of-pocket costs still need a plan. Review enrollment requirements separately from when you claim Social Security.
+
+The working-session chapter enters the selected planning cost and timing, then compares any income-sensitive tax strategy alongside it. Finish with a coverage path, a cost range, a transition date, and the questions that must be answered before leaving current coverage. That turns an open-ended concern into a decision you can evaluate.
+
+### Production notes
+
+Professional education only; no Austin-family medical anecdote. Verify 2026 PTC rules, income limits, advance-credit reconciliation, HSA Notice 2026-05, coverage eligibility, COBRA facts, and current CrowdHealth guide. Retire old claims that nearly everyone avoids sticker price or that every program caps the household's total exposure. Do not hardcode provider prices.
+
+### Member checkpoint
+
+- Price at least the realistic available coverage paths.
+- Compare normal-year and high-cost-year exposure and income effects.
+- Confirm transition and enrollment requirements before ending coverage.
+
+## 6.4 — Choose account withdrawals and asset sales separately
+Kind: teach
+Gate: TAX_REVIEW
+Sources: RETIREMENT, RETIREMENT_DECK, TAX, APP, PRIMARY
+
+### Read aloud
+
+Now decide where the retirement cash comes from. There are two related choices: which account provides the money and which investment is sold inside that account.
+
+The account determines access and tax treatment. The holding determines market exposure and, in a taxable account, the gain or loss associated with the units sold. A Traditional IRA holding a Bitcoin fund and a taxable wallet holding Bitcoin may give similar market exposure but create different tax consequences when used for spending.
+
+Start with reliable income. Then identify the remaining cash need after taxes, debt, and events are accounted for. Determine which accounts can legally and practically fund that year. After choosing the account mix, decide which assets or lots provide the cash.
+
+A simple order might use taxable assets first, Traditional later, and Roth last. That can be a useful starting point, but following it mechanically can leave low ordinary-income years unused and concentrate taxable withdrawals later.
+
+Suppose a retiree spends from taxable money for years while a large Traditional balance keeps growing. Later, Social Security and required distributions begin. The household may have less control over the amount of ordinary income. An intentional Traditional withdrawal or conversion during an earlier low-income year may be worth comparing.
+
+A blended approach can use part of an ordinary-income bracket and fund the rest with taxable sales or qualified Roth money. The blend changes the gain recognized, current tax, remaining account balances, and future flexibility. It should be evaluated year by year instead of copied as one universal ratio.
+
+For an illustration, consider a twenty-thousand-dollar cash need. A fully taxable Traditional withdrawal generally adds twenty thousand of ordinary income before grossing up for any tax funding. A twenty-thousand-dollar taxable sale with sixteen thousand of basis creates four thousand of gain. A qualified Roth withdrawal has another treatment. The cash need is the same, but the amount and type of taxable income differ.
+
+The first twenty thousand withdrawn may not be enough to fund twenty thousand of spending plus the tax caused by that withdrawal. Read the model's tax and cash reconciliation rather than assuming gross withdrawal equals spendable money.
+
+Keep conversion funding separate too. A conversion can shift wealth between tax treatments without providing the household's spending cash. Its tax may need an additional sale or withdrawal. Counting the conversion as both Roth saving and available spending would overstate the plan's resources.
+
+Asset sale order deserves its own review. A concentrated household may prefer using other assets before Bitcoin. That preference should be tested against taxes, access, concentration, and later funding. Preserving every Bitcoin unit may require a trade-off the household does not actually want, while selling some in a favorable tax situation may be a practical choice.
+
+The Reed example compares the existing withdrawal order with a tax-aware blend while keeping spending and market assumptions consistent. We will read the first retirement year and a later required-distribution year. Any claimed benefit must come from the model, and any unsupported access or tax assumption must remain visible.
+
+In the working session, choose the supported account and asset priorities, preview one alternative, and inspect the actual sources of cash. Finish able to say which account funds the next retirement dollar, what is sold, and what tax or access rule applies. The Reserve then turns that annual strategy into a manageable payment routine.
+
+### Production notes
+
+Preserve strict-order tax-trap diagram from Retirement deck, updated to explain conditional comparison. Avoid asserting the engine optimizes the blend automatically. Cash need versus gross withdrawal versus conversion are three separate flows. Tax review before recording.
+
+### Member checkpoint
+
+- Separate account withdrawal priority from asset or lot sale priority.
+- Reconcile spending cash, tax funding, and conversions.
+- Compare one supported blend with the current strategy and read later effects.
+
+## 6.5 — Use the Reserve through a difficult market
+Kind: teach
+Gate: OWNER_REVIEW
+Sources: RETIREMENT, RETIREMENT_DECK, CASHFLOW, APP
+
+### Read aloud
+
+In retirement, the Reserve can help fund the spending gap while the portfolio is under pressure. Its job is connected to sequence risk: the order in which returns and withdrawals happen.
+
+Use a simple two-year example. Start with one million dollars and withdraw fifty thousand at the beginning of each year. In the first sequence, the investment falls twenty percent in year one and rises twenty-five percent in year two. After the first withdrawal and decline, seven hundred sixty thousand remains. After the second withdrawal and the rebound, the ending value is eight hundred eighty-seven thousand five hundred.
+
+Reverse the same returns. Withdraw fifty thousand, gain twenty-five percent, withdraw another fifty thousand, then lose twenty percent. The ending value is nine hundred ten thousand. The returns are the same, the total withdrawals are the same, and the order changes the result. This simplified example ignores taxes and uses a fixed withdrawal timing so the mechanism is visible.
+
+When you withdraw during a decline, fewer units remain for the recovery. A larger early spending gap and a concentrated volatile asset can make that problem more important. Strong average returns across a long period do not erase the effect of needing money near the beginning.
+
+The Reserve creates another source of cash for the near-term gap. Choose its retirement size from the spending and reliable income it needs to bridge, the portfolio's volatility, and the household's willingness to adjust. It may differ from the working-life reserve because the lost-paycheck problem has become an ongoing asset-funding problem.
+
+If the relevant monthly portfolio-funded gap were six thousand dollars, twelve months would be seventy-two thousand. Eighteen months would be one hundred eight thousand. These are sizing illustrations, not recommendations. Check taxes, debt, and income timing before deciding which monthly gap the reserve should cover.
+
+A refill rule matters as much as the target. You need to decide when the reserve is used, when assets refill it, which assets provide the refill, and what happens near the hard floor. The strategy should fit the spending policy and available accounts.
+
+During a weak period, it may be reasonable to pause a discretionary refill and use cash already set aside. But a falling market cannot become a permanent instruction never to sell. If cash approaches the floor, the household still needs a funding decision: lower flexible spending, use another source, make a controlled sale, or reconsider the plan.
+
+A strong market also does not require an automatic sale regardless of taxes or needs. Review the target, the upcoming gap, the current allocation, and the consequences of replenishing cash. Refill enough to serve the job rather than making cash a constantly expanding holding with no purpose.
+
+The old Reserve, Bridge, and long-term diagram is useful for explaining the flow. Its arrows represent funding decisions, not three accounts that automatically refill each other without tax, access, or market consequences. The actual assets and account rules still determine what can happen.
+
+In the working session, read the chosen reserve policy alongside the annual withdrawal plan. Show the current cash available, the target, the floor, and a weak-market year. Use the supported model's behavior; if the desired refill rule is not implemented, document that limitation rather than promising the simulation used it.
+
+Finish able to explain how the next year of spending gets funded and what would cause you to change the refill decision. That is a practical operating rule the household can use when the market is uncomfortable.
+
+### Production notes
+
+Exact sequence example tested in fixture: beginning-of-year withdrawals, -20%/+25% versus +25%/-20%. No unsupported minimum reserve rule or claim it removes all sequence risk. APP refill-model gaps and guardrail inverse-calculation gates remain explicit in capture instructions.
+
+### Member checkpoint
+
+- Explain sequence risk with withdrawals, not average returns alone.
+- Size the reserve from a clearly defined retirement gap.
+- Name refill sources, review conditions, and a response near the floor.
+
+## 6.6 — Compare selling, borrowing, and using other resources
+Kind: teach
+Gate: TAX_LENDING_REVIEW
+Sources: RETIREMENT, DEBT, BRAIN, OWNER, APP, PRIMARY
+
+### Read aloud
+
+A Bitcoin-first retirement plan can use sales, borrowing, other assets, and reliable income in different combinations. The comparison should start with a specific cash need and show both the benefit and the risk of each funding method.
+
+Selling converts part of the position into spendable cash. The tax depends on the units sold, supported basis, holding period, other income, and current rules. It removes future upside on the units sold, but it also avoids adding a lender and a repayment obligation.
+
+Borrowing may preserve more Bitcoin initially and avoid a sale at that point. It adds interest, collateral requirements, lender exposure, and a repayment problem. The household may still sell later to repay, or face liquidation under the contract. Deferring a taxable sale does not make the entire lifetime funding path tax-free.
+
+Using another account can preserve Bitcoin too. That alternative may be simpler than borrowing, but its taxes, access, and effect on later years need to be read. Holding Bitcoin unchanged is only a complete strategy when another credible resource funds the spending.
+
+For a small tax-sensitive example, suppose a taxable sale would realize twenty thousand dollars of gain. The tax cost depends on the household's situation. Compare the actual estimated tax with the cumulative interest, fees, risk, and eventual exit of a loan. A low-gain sale in a low-tax year can be less costly than expected. A large low-basis sale in a high-income year may make borrowing worth evaluating, provided the household can support the risk.
+
+Borrowing repeatedly through retirement compounds the question. Interest may increase the balance, more collateral may be required, and the lender's terms may change. A plan that assumes perpetual refinancing needs to show what happens when refinancing is unavailable or Bitcoin remains weak for several years.
+
+Read the share of Bitcoin at the lender as well as LTV. A loan can be comfortable against its collateral and still place more of the family's wealth with one counterparty than the household wants. The simulation may model collateral mechanics without assigning a reliable probability to lender failure. That unmodeled risk still belongs in the decision.
+
+The app distinguishes three contexts. Existing loans are monitored in Debt. A possible future loan can be tested in Scenarios. A multi-year retirement borrowing policy belongs in the retirement-funding strategy. Keep those separate so a test does not appear as an actual liability and an actual loan does not disappear when a scenario is discarded.
+
+A hybrid strategy may sell within a chosen tax limit and borrow after that. Other supported approaches may use sales, borrowing, or custom phases. Read what the strategy actually does in the affected years. The name alone does not explain the amount, timing, collateral, or repayment assumption.
+
+An initial-LTV default is simply a model input. It is not a safety recommendation. Test the amount and collateral you intend to use against the actual contract, an immediate drawdown, higher rates, and a long weak period. Include the household rules written in the Debt session.
+
+For the Reed household, the comparison keeps spending, timing, and market assumptions consistent while changing the funding strategy. Read chance of success, Bitcoin sold or retained, loan balances, interest, collateral exposure, and any forced-sale behavior the engine actually models. A higher headline percentage does not automatically make the more leveraged option better.
+
+Finish with the funding approach you understand and are willing to operate. The household's preference for retaining Bitcoin is a legitimate input. It still needs a repayment, liquidity, and counterparty plan strong enough to support it.
+
+### Production notes
+
+D63: first decision layer, assumptions receipt, deeper year detail; preserve all modeled variables. Hybrid language is Sell within your tax limit, then borrow. Accepted future initial LTV 50% is never safe/optimal/recommended. Do not fabricate Monte Carlo liquidation frequency or counterparty-loss probabilities. No direct loan execution.
+
+### Member checkpoint
+
+- Compare the same cash need across funding choices.
+- Read tax cost, interest, collateral, provider exposure, and eventual repayment.
+- State which risks the household accepts and which remain unmodeled.
+
+## 6.7 — Use simulations to compare the plan, not chase a score
+Kind: teach
+Gate: APP_CAPTURE
+Sources: RETIREMENT, FOUNDATION, APP, BRAIN
+
+### Read aloud
+
+Now that the retirement funding choices are in place, the simulation result has a more complete plan to test. Read it with the assumptions and the spending rules beside it.
+
+A displayed eighty-two percent chance of success means the modeled plan succeeded in that share of the simulated paths, under the tested rules and horizon. The exact successful count underneath explains the result. It is not a guarantee and it is not a measurement of every risk the family could face.
+
+The simulation can include important parts of the plan, but it cannot make an unsupported input reliable. A wrong spending number, omitted debt, missing basis, or assumed account access can produce a precise-looking answer to the wrong question. Check the current facts and calculation status before comparing strategies.
+
+A failed simulated path means the plan under the rules tested did not fund the entire modeled horizon. It does not tell you the exact date or outcome your real household will experience. It also should not be casually redefined as only needing a harmless spending adjustment. The response is to understand what made those paths difficult and what realistic changes you could make.
+
+Compare one decision at a time when learning what drives the result. Hold the assumptions and other choices constant, then test a spending change, a later retirement date, a contribution change, or a funding strategy. Read the effect on the cash flow and risk, not just the percentage.
+
+Then test combinations that could happen together. A difficult first market period, a healthcare cost, and reduced part-time income can overlap. A household that can tolerate each one separately may struggle with the combined version. Use the scenario tools for a specific question and keep the saved plan intact until a choice is adopted.
+
+The result should also be understood alongside an earliest modeled retirement date and the planned date. The standard used to calculate the earliest date is a test threshold, not a recommendation that everyone should retire as soon as the threshold is crossed. The decision includes lifestyle, flexibility, work, family, and risks outside the model.
+
+A higher result can require a cost the household does not value. Working much longer or planning a permanently austere lifestyle may improve the simulation while undermining the reason for building the plan. Conversely, increasing assumed returns may improve the number without improving the household's ability to respond.
+
+For the Reed example, we will compare a limited set of meaningful alternatives. One may retain current spending and work longer. Another may reduce flexible spending temporarily. A third may change the mix of funding sources. Each comparison needs the same baseline and a clear list of changed inputs.
+
+Read the years that explain the difference. Is the early access gap smaller? Are taxes lower in one period and higher later? Is borrowing adding a future repayment burden? Does one version leave a cash shortfall before a benefit starts? Those explanations make the result actionable.
+
+The working session will capture actual model outputs from the approved release. We will not assign a fictional success rate simply to make the case end well. If the chosen example remains below the standard, that is a valid teaching outcome: identify the issue and compare a realistic change.
+
+Finish able to explain the percentage, the count, the horizon, the important assumptions, and one trade-off behind the preferred version. That is the skill you need to use the result confidently without treating it as a promise.
+
+### Production notes
+
+Percent first, exact count beneath. No fake before/after success or retirement age for the fixture. Methodology limitations include unmodeled provider failure and uncertain inputs. Do not claim determinism/fair-race behavior beyond verified engine support. W06 capture must preserve inputs and build identity.
+
+### Member checkpoint
+
+- Read the result with its horizon, assumptions, and freshness.
+- Compare one realistic choice and inspect the affected years.
+- Explain the cost or risk accepted for the preferred result.
+
+## 6.8 — Turn the retirement plan into an annual spending decision
+Kind: teach
+Gate: APP_CAPTURE
+Sources: RETIREMENT, RETIREMENT_DECK, MAINTENANCE, APP
+
+### Read aloud
+
+The retirement plan needs a routine for deciding whether spending should stay the same, decrease, or increase. Spending guardrails are a way to organize that review around the plan rather than the emotion of the latest market move.
+
+Keep two numbers separate. Your planned spending is the amount the household intends to use. A portfolio guardrail is a level that prompts a review of that spending. The lower and upper portfolio levels are not themselves spending amounts.
+
+In the redesigned presentation, the standing view is meant to show the lower guardrail, the current eligible portfolio value, and the upper guardrail. When a relevant threshold is crossed, you review the plan and a proposed spending change separately. The actual thresholds must come from the validated policy and portfolio definition used by the app.
+
+A review begins with current facts. Check spending, income, debts, taxes, life events, account values, and the cash available for the coming year. A lower portfolio value with unchanged needs is a different situation from a lower value combined with a paid-off mortgage or new pension income.
+
+Then read the proposed adjustment. How much spending changes, whether inflation is applied, what the annual limit permits, and what the change does to the plan. A cap can mean the proposed adjustment only moves partway toward the policy's target. Do not assume every review immediately returns the plan to one exact success percentage.
+
+Flexible spending helps make a response practical. A planned reduction in travel or gifts is easier to use when the household identified it before a difficult year. Essential spending still needs funding. A policy that calls for a cut the family cannot make needs to be tested before retirement.
+
+An upper guardrail can support a review of higher spending. The household may decide to use more for travel, family, giving, or another priority when the plan supports it. It can also choose to retain more margin. The review should explain the opportunity without automatically changing the saved spending amount.
+
+Connect the spending decision to the Reserve. A lower spending plan may reduce the near-term gap. A refill can still require a taxable sale or another funding source. A weak market may justify using existing cash, while a reserve near its floor requires a concrete response. Read both rules together rather than treating the reserve as an unlimited substitute for a withdrawal plan.
+
+Some risks require attention before the annual review. A collateralized loan near a contractual threshold, an unexpected income loss, or a major medical or family event can require an immediate decision. The annual rhythm is for deliberate routine review; it does not postpone time-sensitive obligations.
+
+For Alex and Morgan, the final working-session chapter will read the available guardrail policy, explain the current status, and compare one annual decision without silently applying it. If the redesign's portfolio-level thresholds are not implemented and validated in the release being recorded, we will hold that screen capture rather than relabel older probability controls as dollar guardrails.
+
+Close with a retirement operating summary: the planned spending, reliable income, portfolio gap, account and asset funding order, reserve policy, borrowing rules if any, and the review date. Someone else should be able to read it and understand how next year's bills get paid.
+
+That is the result of this session. You have moved from a retirement date to a funding process, with a way to respond when life and markets differ from the original assumptions.
+
+### Production notes
+
+This lesson is explicitly APP_CAPTURE-gated. Exact portfolio thresholds require the inverse-search/denominator validation in the current contract; no assumption that they already ship. Do not freeze old 40/80/99 or mechanically relabel 60/80/95 as portfolio dollars. Annual change limits and inflation behavior must match the accepted engine. Keep standing thresholds separate from a proposed next-year spending amount.
+
+### Member checkpoint
+
+- Distinguish portfolio review thresholds from spending amounts.
+- Read a proposed annual change and its limits before saving.
+- Complete an operating summary and define exceptions to the annual cadence.
