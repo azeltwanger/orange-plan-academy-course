@@ -26,6 +26,7 @@ jobs:
         run: |
           set -euo pipefail
           test "$(git rev-parse HEAD)" = "$EXPECTED_HEAD"
+          python tools/_cleanup_inventory_fix.py
           python tools/_cleanup_course_repo.py
           python tools/guided_course.py build
           python tools/guided_course.py check
@@ -37,7 +38,7 @@ jobs:
           from pathlib import Path
           root=Path.cwd(); r=json.loads((root/'production/repository-cleanup.json').read_text())
           deleted=set(filter(None,subprocess.check_output(['git','diff','--name-only','--diff-filter=D','HEAD'],text=True).splitlines()))
-          assert deleted=={x['path'] for x in r['retired_files']}|{'tools/_cleanup_course_repo.py'},'Unexpected deletion scope'
+          assert deleted=={x['path'] for x in r['retired_files']}|{'tools/_cleanup_course_repo.py','tools/_cleanup_inventory_fix.py'},'Unexpected deletion scope'
           assert not (root/'.github/workflows/sync-source-led-script-pass.yml').exists()
           assert 'contents: read' in (root/'.github/workflows/verify-course.yml').read_text()
           assert 'contents: write' not in (root/'.github/workflows/verify-course.yml').read_text()
