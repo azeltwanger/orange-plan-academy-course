@@ -12,7 +12,7 @@ The household can explain its current position, initial monthly cash flow, assum
 
 [Run sheet and cues](scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md)
 
-The spending basis and available pool are believable. The reserve has a target, eligible sources, gap, and pace. Expected events have timing and a funding explanation; possibilities remain separate. College is optional and does not own the required next-session handoff.
+The spending basis and available pool are believable. The reserve has a target, eligible sources, gap, and proposed pace. The member can explain when access to cash matters more than faster extra-debt repayment and what would trigger reviewing the pace. The proposed reserve amount carries into Debt and Allocation without being spent twice. Expected events have timing and a funding explanation; possibilities remain separate. College is optional and does not own the required next-session handoff. No wallet recovery, financial transfer, capture, or outside action is certified by the run sheet.
 
 ## W03 — Set debt jobs and test one financing decision
 

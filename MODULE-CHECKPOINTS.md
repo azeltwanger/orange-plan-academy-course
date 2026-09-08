@@ -58,9 +58,10 @@ A decision, a saved choice and an outside action are separate states. Funding a 
 
 ## 2.3 — Size the Reserve for the job it has to do
 
-- State the essential monthly basis and what it includes.
-- Choose target months and eligible accessible sources.
-- Distinguish target, amount funded, gap, and monthly pace.
+- Explain the essential spending basis, chosen months, target, eligible existing funds and gap.
+- Compare a funding pace with the same cash flow used for debt and other commitments.
+- Explain when dependents or reliance on one income would make faster cash funding worth slower extra-debt repayment.
+- Keep required payments funded; carry the proposed reserve amount into the Debt session before finalizing contributions and outside transfers.
 
 ## 2.4 — Put future changes on the timeline
 
@@ -404,7 +405,7 @@ The household can explain its current position, initial monthly cash flow, assum
 
 ## W02 — Verify cash flow, set the Reserve, and add expected events
 
-The spending basis and available pool are believable. The reserve has a target, eligible sources, gap, and pace. Expected events have timing and a funding explanation; possibilities remain separate. College is optional and does not own the required next-session handoff.
+The spending basis and available pool are believable. The reserve has a target, eligible sources, gap, and proposed pace. The member can explain when access to cash matters more than faster extra-debt repayment and what would trigger reviewing the pace. The proposed reserve amount carries into Debt and Allocation without being spent twice. Expected events have timing and a funding explanation; possibilities remain separate. College is optional and does not own the required next-session handoff. No wallet recovery, financial transfer, capture, or outside action is certified by the run sheet.
 
 ## W03 — Set debt jobs and test one financing decision
 

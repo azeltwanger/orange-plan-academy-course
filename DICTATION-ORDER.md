@@ -13,7 +13,7 @@ Read chronologically. Edit the canonical script when dictating; `teleprompter/` 
 | 1.5 · Read the first answer and choose the next improvement | [Read](teleprompter/core/1-5.txt) | [Edit](scripts/01-5_read-the-first-answer-and-choose-the-next-improvement.md) | 643 | APP_CAPTURE |
 | 2.1 · Find the amount your plan actually has available | [Read](teleprompter/core/2-1.txt) | [Edit](scripts/02-1_find-the-amount-your-plan-actually-has-available.md) | 601 | OWNER_REVIEW |
 | 2.2 · Free up money without cutting the life you value | [Read](teleprompter/core/2-2.txt) | [Edit](scripts/02-2_free-up-money-without-cutting-the-life-you-value.md) | 582 | OWNER_REVIEW |
-| 2.3 · Size the Reserve for the job it has to do | [Read](teleprompter/core/2-3.txt) | [Edit](scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md) | 618 | OWNER_REVIEW |
+| 2.3 · Size the Reserve for the job it has to do | [Read](teleprompter/core/2-3.txt) | [Edit](scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md) | 1139 | OWNER_REVIEW |
 | 2.4 · Put future changes on the timeline | [Read](teleprompter/core/2-4.txt) | [Edit](scripts/02-4_put-future-changes-on-the-timeline.md) | 596 | APP_CAPTURE |
 | 2.5 · Decide how much college help you will provide | [Read](teleprompter/core/2-5.txt) | [Edit](scripts/02-5_decide-how-much-college-help-you-will-provide.md) | 849 | TAX_REVIEW |
 | 3.1 · Measure the payment pressure you actually carry | [Read](teleprompter/core/3-1.txt) | [Edit](scripts/03-1_measure-the-payment-pressure-you-actually-carry.md) | 582 | OWNER_REVIEW |

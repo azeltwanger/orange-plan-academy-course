@@ -444,49 +444,117 @@ Use Keep/Cut/Reduce and the large-cost levers from the deck. The $1,200 reductio
 
 # 2.3 — Size the Reserve for the job it has to do
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
-Adapted source: `course-v2/sessions/02-cash-flow-reserve-and-life-events.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: PRE_DICTATION — reference example and teaching approach accepted by Austin; funding-pace judgment supplied September 8, 2026. The integrated prose is an edited script, not a verbatim prior recording. Final filming and publication checks remain separate.
+Adapted source: accepted Reserve teaching pilot and `source-material/2026-09-08-reserve-reference-approval.md`; earlier canonical lesson retained in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: teach
 Gate: OWNER_REVIEW
-Sources: CASHFLOW, DICTATION, APP
+Sources: CASHFLOW, DICTATION, OWNER, APP
 
 ### Read aloud
 
-The Reserve gives the household time when something goes wrong. For a Bitcoin-heavy plan, that can mean paying the bills through a market decline instead of needing to sell immediately.
+In this lesson, we're going to work out how much cash you want available when something goes wrong, how much you already have, and how you're going to close any gap.
 
-Start with your bare-bones monthly spending. This is the amount your household could run on during a stressful or unexpected situation, like losing a job, your business slowing down, or Bitcoin going through a major drawdown at the same time a car repair or medical bill comes up.
+When you believe in Bitcoin, holding cash can be frustrating. You look at that money and think about what you could be buying instead. But think about what happens if your income stops while Bitcoin is down. Your bills still need to be paid. A reserve gives you a cushion so an unexpected expense or a lost paycheck doesn't immediately become a decision to sell an investment.
 
-Include the essential costs that remain: housing, food, utilities, insurance, healthcare, and required debt payments. Be clear about which payments the number includes. If the reserve worksheet already includes minimum debt payments, you do not add them again when calculating the target.
+The amount should fit the problem you're trying to cover. More cash isn't automatically better. We want enough accessible money to handle a difficult period without leaving more out of the long-term plan than the household needs.
 
-Normal spending describes the life you usually live. Bare-bones spending describes the temporary level you could maintain when preserving cash matters. Both should be honest. A floor so low that your family could never follow it gives a false sense of protection.
+Start with your bare-bones monthly spending. This is what your household could realistically run on during a job loss, a business slowdown, or another stressful period.
 
-Multiply the monthly amount by the number of months you choose. In our example, Alex and Morgan's essential monthly outflow is seventy-two hundred dollars, including their required household debt service. Six months is forty-three thousand two hundred dollars. They have thirty-two thousand assigned to the Reserve, leaving an eleven-thousand-two-hundred-dollar gap.
+Include housing, food, utilities, insurance, healthcare, and required debt payments. Some spending could pause temporarily. Other costs are going to continue whether the market is up or down.
 
-Six months is an example, not the answer for every household. Consider how stable the income is, how long replacing it could take, how many people depend on it, healthcare exposure, fixed payments, and the alternatives available during a bad year. A business owner with variable income may choose more runway than a household with two independent, reliable paychecks. Two salaries in the same industry may be less independent than they appear.
+This number can be different from your normal spending. We're not pretending you will live at this reduced level forever. We're asking what you could maintain while you get through the interruption.
 
-Also consider what could happen at the same time. A large Bitcoin position, a variable-rate loan, and income tied to the market can all weaken together. The Reserve is most useful when it remains accessible under the conditions you are testing.
+Check what the number includes. If you've already included your minimum debt payments, don't add them again. And don't make the budget so lean that your family couldn't actually follow it.
 
-Now decide what counts. Cash in a usable savings account can serve the reserve role. Money already committed to a near-term tax bill or purchase has another job. Retirement-restricted assets, pledged collateral, and a credit line that can be reduced are not automatically equivalent to available reserve cash. A holding's job and its asset type are separate: assigning something to the Reserve does not make a volatile investment stable.
+Next, decide how many months you want that money to cover.
 
-You can assign only part of an account where that reflects reality. Keep enough operating cash for the normal bill cycle, then identify the amount genuinely available for emergencies. The same dollars should not fully fund the Reserve and a vehicle purchase at the same time.
+Three, six, and twelve months or more are starting points for comparison. They aren't automatic answers. A household with two very stable incomes and no dependents has a different decision from someone supporting a family on variable business income.
 
-While you are working, the Reserve helps cover lost income and unexpected costs. In retirement, its main job shifts toward covering the gap between spending and reliable income during a difficult market. We will calculate that retirement gap later. A retiree with meaningful Social Security or a pension may need a different amount than someone funding almost everything from assets.
+Think about how long replacing lost income could take. Would another income continue? Are both jobs exposed to the same slowdown? How many people depend on the money, and how much of the monthly spending is difficult to change?
 
-Choose a funding pace as well as a target. In the Reed example, five hundred dollars a month toward an eleven-thousand-two-hundred-dollar gap takes a little over twenty-two months, before interest or withdrawals. That may be acceptable alongside urgent debt reduction, or it may be too slow for their risks. Compare the pace instead of treating a saved target as a funded reserve.
+More income uncertainty, a longer job search, dependents, and higher fixed bills are reasons to compare more time. When income is reliable and the reserve already fits the household's needs, continuing to add cash may not be the most useful next step.
 
-In the working session, I will show you how to enter the monthly basis and target months, identify what counts toward the Reserve, and review the target and gap. Orange Plan performs the supported calculation from those inputs. You will leave with a number, a reason for it, and a funding pace you can actually sustain.
+Also think about what could happen together. A business slowdown and a Bitcoin decline don't have to take turns. We want the reserve to remain usable in the situation we're planning for.
+
+For Alex and Morgan, our fictional household, we're testing six months of essential spending. Their essential monthly amount is $7,200, including required household debt payments. That puts the target at $43,200.
+
+Six months is the comparison used in this example. The calculation doesn't tell us that six is the right number for every household. The reason for choosing the months matters just as much as the multiplication.
+
+Now look at what they already have available for this job.
+
+Alex and Morgan have $32,000 assigned to their reserve. Against the target we're testing, that leaves an $11,200 gap.
+
+We haven't added another asset. This is existing money, with a job attached to it.
+
+Don't automatically count every dollar in checking. Some of that money may be needed for this month's bills. Money already set aside for a tax payment or a planned purchase has another job too. The same dollars can't fully cover both commitments.
+
+Check access as well as the balance. An investment you cannot readily use, Bitcoin pledged to a lender, or a credit line that might be reduced is different from cash you can use when needed. Calling a volatile investment your reserve doesn't change how its price behaves.
+
+You might decide that only part of an account belongs to the reserve. What matters is how much is genuinely available after its other commitments.
+
+Next, connect the gap to the monthly cash flow we worked through earlier.
+
+At $500 a month, Alex and Morgan's $11,200 gap represents a little over twenty-two months of contributions, before interest or withdrawals. That's almost two years. Seeing the timeline gives them another decision: are they comfortable carrying the current gap for that long?
+
+They are also working on expensive debt. We need to compare how quickly to build the reserve with the money being used for that debt. We cannot assign the same monthly surplus to both.
+
+I'd put more weight on accessible cash when there are dependents or the household relies on one income. If that income stops, they still need to pay the bills and provide for the family. I wouldn't build the plan around being able to borrow more at that point.
+
+For that household, it may make sense to build the reserve faster and put less toward extra debt payments for a while. Required payments still need to be made. The trade-off is that the expensive debt stays outstanding longer, so we need to revisit the pace as the cash cushion improves.
+
+Having dependents doesn't decide the answer by itself. Look at the cash already available, whether another reliable income would continue, and how long the family could cover essentials without more borrowing. Those are the facts that can make liquidity more important than faster debt repayment.
+
+The $500 pace belongs to the course's reduced-spending example. It isn't proof that the household has made the spending changes or set up a transfer. A faster funding pace also needs a real source of money. Writing a larger amount in the plan doesn't create that money.
+
+If the full target feels too far away, identify a smaller milestone to reach first. Keep the full gap visible. Reaching the first milestone and fully funding the reserve are different things.
+
+We'll settle the competing debt decisions in the next session, then finish the contribution plan. For now, record the reserve pace you're considering and the reason for it.
+
+While you're working, you're generally filling the reserve from available cash flow. As retirement approaches, you may need to prepare the cash before the paycheck stops. Once retired, the reserve helps cover the gap between spending and reliable income during a difficult market.
+
+We'll work through that retirement gap and the refill decision in the retirement-income session. Don't assume the working-years target and funding method carry over unchanged.
+
+For this step, you should be able to explain your target, why you chose it, what money counts, and the pace you're considering for the gap. You don't have to have the entire amount saved today. You do need to know what remains unfinished.
+
+When the funding choice is settled, the real-world step is arranging the transfer from the right account at a time that fits the bill cycle. Recording the plan and setting up that transfer are separate actions.
+
+Let's work through the numbers and record the reserve decision.
+
+### Visual notes — not spoken
+
+Reuse the concepts and visual sequence in the Cash Flow + Reserve deck. Keep the established visual sequence.
+
+| Moment | Show | Production note |
+|---|---|---|
+| Essential spending | Bare-bones essentials, including required payments | Keep normal spending distinct. No second debt-payment addition. |
+| Months | The existing income stability, dependents, healthcare, fixed-cost, and job-replacement factors | The deck's three/six/twelve-plus comparisons are starting points, not a universal rule. No invented score selects months. |
+| Target and gap | $7,200 × 6 = $43,200; $32,000 assigned; $11,200 gap | Label the Reed numbers as fictional teaching arithmetic. These are not captured app results. |
+| Funding pace | $11,200 ÷ $500 = 22.4 contribution-months | No interest or withdrawals. Not a calendar funding-date forecast. Let the graphic carry exact arithmetic. |
+| Reserve versus extra debt | Dependents; reliance on one income; available cash; essentials covered without further borrowing | A conditional comparison, not a universal reserve-first rule. Required payments continue. No new minimum target or changed Reed contribution. |
+| Life stage | Working: fill; approaching retirement: prepare; retired: draw and refill | Reuse the stage distinction without asserting that every retiree has zero earned income or that an automated refill rule ships. |
+
+Keep exact numbers visible long enough to follow. The spoken explanation does not need to recite every label on every visual.
 
 ### Production notes
 
-Preserve Austin's bare-bones examples. Reserve is a role, not a second asset or a shield. Current redesign owner is Cash Flow → Cash reserve. Existing source amounts: $7,200 × 6 = $43,200; $43,200 − $32,000 = $11,200; $11,200 / $500 = 22.4 months. Do not count the checking balance automatically. Retirement reserve is revisited in 6.5. No claim the reserve eliminates every possible forced sale.
+Teaching reference accepted in the course continuation chat; source-led script pass authorized by PR #13 comment 5587966112. New funding-pace wording faithfully edits the owner's supplied judgment; it is not claimed as exact dictation. The rest follows the accepted pilot, with its navigation headings omitted from read-aloud text. Final voice read-through, current factual checks and actual app capture are distinct from this reference acceptance.
+
+Source continuity: Cash Flow + Reserve deck; Austin Global Brain V18.8 and Master Protocol Outline v3 as mapped in the accepted pilot; permitted private call explanation used only in the already reviewed pilot. No raw transcript or identifying client fact is added. The canonical predecessor at ec021e3a0368a0955ab689551602104e426350a6 supplies the unchanged Reed arithmetic and debt-counting convention. The original reviewed pilot SHA-256 is 7eabd0844c90e0f5234bb2dde2be94705f91dd20f396c42b0fb138f847086c9d.
+
+The Reeds have one stable W-2 and one variable self-employed income; do not call them a single-income household. The single-income discussion is a general comparison. Keep $500 per month toward the Reserve and $1,200 extra card payment in the original reduced-spending illustration unless a separately labeled comparison is deliberately introduced. No fixed emergency threshold, new account balance, new debt payment or forecast is authorized here.
+
+The three/six/twelve-plus comparisons and intermediate milestone come from the accepted pilot. They are not app-generated recommendations or universal requirements. More available credit alone is not proof of protection. Minimum payments and extra principal are separate. Keep the cost of slower debt reduction visible.
+
+Illustrations remain $7,200 × 6 = $43,200; $43,200 − $32,000 = $11,200; $11,200 / $500 = 22.4 contribution-months before interest or withdrawals. No engine or calendar funding-date result is invented. Cash reserve remains a role for existing money. No promise that it eliminates every forced sale. Exact navigation, fields, partial designation, displayed calculations and save/reload proof are reserved for W02 after validation of the redesigned build.
 
 ### Member checkpoint
 
-- State the essential monthly basis and what it includes.
-- Choose target months and eligible accessible sources.
-- Distinguish target, amount funded, gap, and monthly pace.
+- Explain the essential spending basis, chosen months, target, eligible existing funds and gap.
+- Compare a funding pace with the same cash flow used for debt and other commitments.
+- Explain when dependents or reliance on one income would make faster cash funding worth slower extra-debt repayment.
+- Keep required payments funded; carry the proposed reserve amount into the Debt session before finalizing contributions and outside transfers.
 
 ---
 

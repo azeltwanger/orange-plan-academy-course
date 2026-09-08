@@ -104,10 +104,10 @@
       "title": "Size the Reserve for the job it has to do",
       "path": "scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md",
       "gate": "OWNER_REVIEW",
-      "sources": "CASHFLOW, DICTATION, APP",
-      "words": 618,
-      "spoken_sha256": "9d6fa27a93e5cb891e5cf6870c5e5a583bce9e6082aa3e8f84ecf207876d436b",
-      "source_sha256": "4d621fdecfe0db6486db70b2146fa79d5106895ea7c1aaf84e17f62ca0ec4eec"
+      "sources": "CASHFLOW, DICTATION, OWNER, APP",
+      "words": 1139,
+      "spoken_sha256": "7544e9376a1264268a720af0ebacba00cda68f9cc95d2ecd383428e618fbddde",
+      "source_sha256": "acd2369ac4bc7933865ba6f4c7d492444df364f64ed5dca589422dae329a3c40"
     },
     {
       "id": "2.4",
@@ -684,10 +684,10 @@
       "title": "Verify cash flow, set the Reserve, and add expected events",
       "path": "scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md",
       "gate": "APP_CAPTURE",
-      "sources": "CASHFLOW, DICTATION, APP",
+      "sources": "CASHFLOW, DICTATION, OWNER, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "540338c59db64ac058b27bd9b21170b87b7f2b5db813791ea3bb83d3f1a0eb24"
+      "source_sha256": "e67acfa035ea3565df6eb5ce4e55a74ad38cfe334796fc79f966b77e7cdee947"
     },
     {
       "id": "W03",
