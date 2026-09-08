@@ -1,8 +1,8 @@
 # 3.1 — Measure the payment pressure you actually carry
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/03-debt-and-leverage.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
+Status: TEACHING_REWRITE_REVIEW — individual spoken replacement using the accepted Reserve approach. New wording awaits Austin's voice/judgment review; no recording or publication approval is implied.
+Adapted source: original Debt Strategy deck, Austin's debt playbook and original call explanations; unchanged Reed teaching fixture. Specific source distinctions are recorded in HANDOFF.md.
+App references: teaching is separate from final navigation, payment schedules and saved results.
 
 Kind: teach
 Gate: OWNER_REVIEW
@@ -10,46 +10,82 @@ Sources: DEBT, BRAIN, CLIENT_THEMES, APP
 
 ### Read aloud
 
-A debt can look small next to your assets and still make the monthly bills difficult. We'll start with the payments the household has to make, then look at the interest and the risk behind each obligation.
+Before we decide which debts to pay down, let's look at what they ask of you every month. We need to know the payments you have to make, what could change those payments, and whether the household can keep up during a difficult period.
 
-Your tolerance matters. Some people are comfortable carrying a fixed mortgage for decades. Others value the relief of having fewer obligations. That preference is part of the decision. It sits alongside the financial question: can the household keep making the payments during a bad year?
+You might be comfortable with your mortgage and uncomfortable with a much smaller credit-card balance. That isn't necessarily inconsistent. The rate, payment, and reason for carrying the debt can be very different.
 
-List the current balance, required payment, rate, remaining term, and collateral for each debt. Identify variable rates, interest-only periods, balloons, and any personal guarantee. These details explain more than the balance alone.
+We're going to separate those differences rather than decide that all debt is good or all debt is bad. You can choose to carry some debt and pay off other debt. You can also choose to become debt-free. What matters is understanding what the choice does for your household and what you give up to make it.
 
-Debt-to-income compares required monthly debt payments with gross monthly income. In the Reed example, required payments are about three thousand three hundred forty-two dollars. Gross monthly income is about nineteen thousand four hundred seventeen. That gives a debt-to-income ratio of roughly seventeen percent.
+Start with the debts we entered in the first working plan. Review those records instead of adding them again. Pull up the lender's statement and check the balance, rate, and required payment.
 
-The Reeds' required debt service is about thirty-three hundred forty-two dollars a month. Against gross income, the ratio can look manageable. But their original cash-flow example leaves only five hundred dollars after the listed costs and employee contribution. A comfortable-looking ratio is not five hundred dollars of extra room for another loan payment.
+I would check the rate rather than rely on what you remember paying. A variable rate can change. An introductory offer can end. And the amount you usually send might include an extra payment that the lender doesn't require.
 
-Ask what happens if Morgan's variable income falls. Which payment still arrives, what can change, and how long can available cash cover the difference? That question tells us more about the next debt decision than a lender's approval limit.
+Keep the required payment and the extra amount separate. One is an obligation you need to cover. The other is a decision about how quickly you want the balance to come down. We'll decide those extra amounts later in this session.
 
-This is why I would read the ratio and the monthly surplus together. A lender's qualification standard serves the lender's process. Your planning standard also has to account for future saving, family needs, variable income, and how comfortable you are carrying the obligation.
+Now look at what the payment actually does.
 
-Now test income pressure. If Morgan's business income stops for a period, the required debts do not stop with it. Some living costs may be reduced, and the Reserve may bridge the interruption, but the size and duration of the shortfall need to be visible. A business owner should also consider working capital and the possibility that a personal guarantee connects a business problem to the household.
+On a loan that pays down over time, part of the payment covers interest and part reduces the amount you owe. That amount owed is the principal. As you make payments, the balance comes down according to the loan's terms.
 
-Look at the debts individually. The high-rate card is a small part of the Reed balance sheet but a costly recurring obligation. The mortgage is much larger, yet its fixed rate and long payment schedule may make it less urgent. The HELOC has a relatively low interest-only payment today, but that payment does not substantially reduce principal and can change with the rate or repayment phase.
+An interest-only payment works differently. It can keep the loan current without paying down the principal.
 
-A lower monthly payment can help, but check how it was achieved. Extending the term may lower the payment while increasing total interest. An interest-only period may postpone the larger obligation. Moving unsecured balances onto the home may reduce the rate while changing what is at risk.
+Alex and Morgan's home-equity line is a useful example. They owe $46,000, and we're using an 8% rate in the illustration. Interest alone is about $307 a month. If they pay only that interest, without adding to or reducing the balance, they still owe the $46,000 afterward.
 
-For every debt, ask what happens if the rate rises, income falls, or the asset you intended to sell is worth less than expected. These events can occur together. The aim is to see which obligation would force a decision first.
+So the monthly payment looks relatively small. But it hasn't answered how they will repay the borrowed money.
 
-Then separate the action from the feeling. You may choose to pay off a manageable loan because the relief is worth the lost liquidity. You may choose to keep a low-rate debt because accessible money has a more useful job. Both choices should be made with the effect on cash flow and the rest of the plan visible.
+Find out when that arrangement changes. Does the interest-only period end? Does the lender then require payments that pay down the balance? Or is a large amount due at once? That last arrangement is often called a balloon payment. You need the date and the amount, not just the payment you're making today.
 
-For each existing debt, confirm the required payment, what can change it, and the income or cash that supports it. Name the first obligation that becomes difficult in the weaker-income case. We will decide what to do with the debt after we understand that pressure.
+Do the same check for what secures the loan. With a mortgage or home-equity loan, your home is involved. With an auto loan, it may be the vehicle. A business loan may involve equipment and a personal guarantee, which can make you responsible beyond the business itself. Don't assume the business is the only thing exposed; check what you agreed to.
+
+Once the individual payments are right, add them together.
+
+For Alex and Morgan, the listed required payments total about $3,342 a month. Their gross household income is about $19,417. Dividing those payments by that income gives us roughly 17%.
+
+This is the debt-to-income ratio, often shortened to DTI. It tells us how much of their income, before taxes and other deductions, is being used for the debt payments in this example.
+
+It doesn't tell us how much is left to spend.
+
+Remember their original cash flow. After taxes, living costs, required debt payments, and Alex's existing retirement contribution, they had $500 remaining. Those are the same debts and the same income. The ratio looks fairly low, yet there isn't a large amount of spare cash waiting for another loan payment.
+
+That's why I would look at the ratio and the actual monthly money together. The ratio helps describe the debt. Cash flow tells us whether the payments fit alongside the rest of their life.
+
+You may see a lender or calculator use a particular ratio as a limit. Different loans can use different definitions and qualification standards. Being approved doesn't mean the payment leaves enough room for the reserve, the family spending you value, or the investing you want to do.
+
+Now ask what happens when the income is less reliable than that average suggests.
+
+Morgan's business income varies. Suppose it stops for a period. We wouldn't leave the full income in the calculation and conclude that the payments are still easy to cover. We'd look at the income that continues, the bills that remain, and the cash available for the difference.
+
+Some spending could pause. Extra investing or extra debt payments might slow. The lender's required payment is still due unless the arrangement itself changes.
+
+This is where the reserve decision comes back in. Could the household keep providing for the family while the income is interrupted? How long could it do that without needing a new loan or an investment sale at a bad time?
+
+Use the essential-spending number carefully. In our Reserve example, the $7,200 already includes required debt payments. Adding the full debt-payment total again would count them twice. We want the actual cash need, not a larger number created by mixing two different spending definitions.
+
+You don't need to guess a tax bill for the weaker-income case. Review what would really change. Some costs may fall, others may not, and a business may still need operating cash even when it is bringing in less. We will use the supported numbers in the walkthrough rather than assume every outflow stays exactly the same.
+
+Also ask what happens if the payment itself rises. A variable rate or the end of an interest-only period can change what the same balance costs to carry. You don't have to borrow another dollar for that pressure to increase.
+
+If you're close to retirement, look beyond the paycheck you have today. A payment that fits while both people are working may feel different after one income stops. The debt doesn't have to be gone before retirement, but the income or withdrawals that will support it need to be in the plan.
+
+For now, don't try to solve every debt at once. Identify the payment you are least comfortable supporting and explain why. It might be expensive interest, a coming repayment date, a risk to the family home, or simply too much dependence on one income.
+
+In the working chapter, we'll verify the terms and follow the payments back to cash flow. After that, we'll look at what you owe compared with what you own—and how that picture changes when Bitcoin falls. Then we can make the payoff decisions with both sides in view.
+
+### Visual notes — not spoken
+
+Reuse the original Debt Strategy inventory and two-ratio concepts, but introduce the monthly-payment view first. Show balance / required payment / optional extra separately. For the interest-only example, show $46,000 × 8% / 12 = $306.67, then the unchanged principal. No maturity or payoff date is supplied by the fixture.
+
+Reveal $3,341.67 required payments / $19,416.67 gross monthly income ≈ 17.21%, then place the original $500 remaining cash beside it. These are different measures, not competing calculations. Label this the course's illustrative debt-service convention, not a mortgage-underwriting result. The fixture does not break mortgage escrow into components. Do not invent that breakdown or remove continuing insurance/property-tax costs when later showing a payoff.
 
 ### Production notes
 
-Example DTI uses gross income and debt service only, not tax/living costs. Round 17.21% to 17%. Do not label illustrative ratios lender approvals or universal safe ranges. Household business income is defined before the equipment-loan service shown here to avoid counting it twice.
+The original deck and debt playbook supply payment pressure, personal tolerance, fixed/variable distinctions and the need to read both ratios. Private call excerpts supply the explanations of required versus extra payments and the learner's question about an interest-only balance still having an end date. No client facts, quotations or historical interface behavior are reproduced.
+
+Keep W01's original cash flow distinct from the later reduced-spending comparison. Preserve the Reserve's conditional liquidity judgment and its inclusion of required payments. Unused credit is not an asset. DTI is not a universally safe borrowing allowance, and a low household ratio does not settle collateral risk.
+
+Narrow mechanism checks, separate from Austin's framework: CFPB, What is a debt-to-income ratio? https://www.consumerfinance.gov/ask-cfpb/what-is-a-debt-to-income-ratio-en-1791/ ; CFPB, What is a home equity line of credit? https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-equity-line-of-credit-heloc-en-107/ . Read September 8, 2026. These confirm definitions and repayment/variable-rate distinctions, not the suitability of the fictional or a real household's debt. W03 chapter 1 retains final field, payment, save/readback and tax/income mapping checks.
 
 ### Member checkpoint
 
-- Verify required payments, variable terms, and guarantees.
-- Read DTI alongside after-tax cash flow.
-- Identify the obligation that becomes difficult first after an income interruption.
-
-### Source-led visual and teaching notes — not spoken
-
-Show required payments and the original $500 remaining amount together. Keep DTI based on gross income separate from actual available household cash. Show a variable-income interruption as a labeled test, not a changed Reed fact.
-
-Editorial reason: Turn DTI into a usable payment-pressure test without presenting it as a borrowing limit.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+- Verify each required payment separately from any extra payment and identify what reduces principal.
+- Read the illustrative DTI alongside actual cash available, not as permission for another loan.
+- Identify the obligation and funding gap that need attention if income weakens or a payment changes.

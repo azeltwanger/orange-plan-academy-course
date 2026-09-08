@@ -173,6 +173,18 @@ def arithmetic(root: Path) -> dict:
     eq('same sale gain illustration',D(20000)-D(16000),4000)
     eq('generic annual premium monthly allowance',D(1200)/12,100)
     eq('generic recurring bill full-year saving',D(40)*12,480)
+    eq('required debt service annualized',pay*12,40100)
+    card=next(x for x in debts if x['id']=='card')
+    first_interest=num(card['balance'])*num(card['apr'])/12
+    eq('rough card first-month interest before fees or new charges',first_interest,D('235.125'))
+    eq('rough card principal portion of illustrated minimum',num(card['monthly_payment'])-first_interest,D('169.875'))
+    generic_principal=D(20000); monthly_rate=D('.08')/12; months=60
+    generic_payment=generic_principal*monthly_rate/(1-(1+monthly_rate)**(-months))
+    eq('separate generic amortizing monthly payment',generic_payment,D('405.52788576827365'))
+    eq('separate generic amortizing total interest',generic_payment*months-generic_principal,D('4331.673146096419'))
+    eq('separate generic interest-only monthly payment',generic_principal*monthly_rate,D('133.33333333333333'))
+    eq('separate generic interest-only five-year interest',generic_principal*monthly_rate*months,8000)
+    eq('fixed debt 50 percent LTV after collateral halves',D('.5')/D('.5'),1)
     return {'scope':'Arithmetic teaching checks only; no retirement forecast, tax opinion, lender assurance or model acceptance.', 'checks':asserts,'current_dta_percent':float(debt/assets*100),'partial_stress_dta_percent':float(debt/stressed*100)}
 
 CLEANUP_PIN = 'a7be495e670078cd44ea4e0792538b0eaa32dd95'

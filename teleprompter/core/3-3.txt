@@ -1,27 +1,69 @@
-For each debt, we're choosing what to do next: keep the required payment, pay extra, refinance or restructure, pay it off, or monitor a specific change. The answer should reflect what that debt costs and what paying it down would do to the rest of the household.
+Now that we understand the payments and the risk behind them, we're going to decide what to do with each debt. Not just which debt has the highest balance, but which one deserves the next dollar and which ones you're comfortable continuing to carry.
 
-Start with the clearest problem. High recurring interest can consume money that would otherwise build the Reserve or buy assets. In the Reed example, the card rate is twenty-point-nine percent. That is a substantial cost for a household with limited monthly room. A stronger Bitcoin return is a possibility; the card interest is a contractual obligation while the balance remains.
+For a Bitcoin household, this can be a frustrating decision. Money used to pay down a loan is money you aren't using to buy more Bitcoin. You may believe Bitcoin will do very well over the time you would otherwise carry that loan.
 
-Paying extra can improve both future cash flow and the balance sheet. It also uses cash today. Check whether accelerating payoff would leave the household unable to handle a predictable bill or an income interruption. The right pace can split available money between near-term protection and the expensive debt.
+That expectation belongs in the comparison. But it isn't the only question. We also need to know what the debt costs while you wait, whether the payments fit, and whether paying it down would leave you short of accessible cash.
 
-The low-rate mortgage is a different comparison. Extra principal saves future interest, but it moves liquid money into home equity. Accessing that equity later may require a sale or a new loan on terms that are not available today. Keeping the mortgage can preserve flexibility when the payment is affordable and the retained capital has a defined job.
+Let's start with the clearest problem in Alex and Morgan's example: the credit card.
 
-Paying off a debt is often described as a return equal to the rate. More precisely, it avoids the contractual interest and any relevant costs on the principal paid down. Tax deductions, fees, and the payment structure can change the after-tax comparison. Use the actual terms, especially when comparing it with an uncertain investment return.
+They owe $13,500 at 20.9%, with an illustrated current minimum payment of $405. That is a very different decision from their low-rate mortgage.
 
-Refinancing means replacing the debt with another arrangement. Compare the rate, closing costs, new term, total interest, and what secures the replacement. A lower payment is helpful only when the household understands whether the balance will be carried for longer.
+To see why, take a rough monthly interest calculation. At that balance and rate, one month of interest is about $235. If they send $405, only about $170 is left to reduce principal, assuming no new purchases or fees. A real statement uses its own daily balances and billing rules, but the example shows why making a payment isn't the same as reducing the balance by the full payment.
 
-Consolidation can simplify several obligations. It can also turn unsecured debt into a claim on the home or another important asset. Consider whether the old accounts will stay paid down. If spending creates new card balances after consolidation, the household may finish with the new secured loan and the original problem again.
+Continuing to carry expensive interest uses money that could otherwise go toward the family, the reserve, or investments. I would make that a priority rather than assume a strong Bitcoin return will take care of it later.
 
-Restructuring focuses on the payment shape. A business loan may need a different amortization schedule or an honest plan for a balloon. An interest-only facility needs a principal-repayment plan. “We will refinance later” is uncertain until the household knows what happens if refinancing is unavailable.
+The next question is the pace. How much extra can they send without creating another cash problem?
 
-Monitoring is an active job when the risk changes with the market or the contract. State the trigger: a rate reset, an LTV level, lower income, a maturity date, or a change in the purpose of the borrowing. Give someone responsibility for checking it at a cadence appropriate to that risk.
+We've already compared their reduced-spending plan. It leaves $1,700 after the listed costs and Alex's existing retirement contribution. The course example assigns $500 to the reserve and $1,200 to an extra card payment.
 
-In the Reeds' reduced-spending example, Alex's employee contribution is already accounted for. Of the seventeen hundred dollars then available, five hundred goes toward the reserve and twelve hundred is the extra card payment. Required debt payments were deducted earlier. This phase uses the available money once; there isn't another investment contribution left over.
+The card's required $405 was accounted for before we got to that $1,700. So adding $1,200 means a total card payment of $1,605 for the month in this illustration. We aren't finding another $405 inside the remaining cash, and we aren't adding $1,200 on top of money that has already gone somewhere else.
 
-Your household may choose a different split. I'd put more weight on accessible cash when dependents or reliance on one income mean the family could not cover essentials after an interruption without borrowing more. Required payments still need to be made. Building cash faster can mean slower extra debt repayment and more interest, so revisit that trade-off as the cushion improves.
+That extra payment can make the balance fall faster. We'll read the actual payoff comparison in the walkthrough rather than guess the month it ends.
 
-That is a variation in the decision, not a change to the Reeds' two-income example or a rule that every parent should fund the full reserve before paying extra on debt.
+There is a reason we're also building the reserve while expensive debt remains. Paying the card down faster is useful, but we don't want the family to have no cash left when something goes wrong and immediately need to borrow again.
 
-Once the card is gone, its required payment and the extra payment create room for another decision. The plan should show that available cash, and the household should deliberately assign it. It is not automatically permission to increase spending or borrow again.
+I'd give accessible cash more weight when a household has dependents or relies on one income, especially if essential bills would otherwise depend on getting another loan after that income stops. Required payments still need to be covered. What changes is how much extra goes to debt while the cash cushion is thin.
 
-Record the job, reason, extra-payment amount if any, and review trigger for each debt. Add the extra payments together and check them against the reserve claim and the same available cash. Allocation starts with what is genuinely left, not another version of the surplus.
+That can mean more interest for a while. It's a trade-off, not free protection. Revisit the pace as the reserve improves instead of leaving a temporary slower payoff in place forever. Dependents alone don't settle it; the cash already available and any reliable income that would continue matter too.
+
+Now compare the mortgage.
+
+Alex and Morgan owe $318,000 at a fixed 3.25% in our example. It's by far the larger balance, but that doesn't automatically make it the most urgent use of extra money.
+
+Paying it down avoids future interest on the principal repaid. It also moves cash into home equity. To use that money again, they may need to sell the house or qualify for a new loan. Neither is the same as having the cash available now.
+
+Keeping that mortgage can be reasonable when the payment fits and the money retained has a useful purpose. That might be building liquidity or investing for a longer-term goal. It doesn't mean every low-rate mortgage should be kept, regardless of the household.
+
+Ask what paying it off would improve. Would it make retirement spending easier to support? Would the household be more comfortable with fewer required payments? Then ask what money would be used and what else that money was meant to do.
+
+Also check whether an extra payment reduces the required monthly payment or simply shortens the time until payoff. Don't assume a smaller balance means next month's bill is smaller. And when a mortgage ends, property taxes, insurance, and upkeep don't disappear with it. We will compare the actual costs that change.
+
+If being debt-free matters to you, that's a real preference. You don't have to keep a loan just because a projection shows more wealth when you invest instead. But make the choice knowing what it does to liquidity and the other parts of the plan, rather than treating the interest rate as the entire answer.
+
+The debts in the middle take more thought.
+
+The Reeds' auto loan is at 6.7%, with a $600 monthly payment. Their equipment loan is at 7.4%, with a $480 payment. It would be easy to rank those rates and stop there. I'd also look at how each payment affects the household, how soon the debt can end, and what the asset is doing for them.
+
+For equipment, is the business producing enough cash after its other needs to support the loan? For the car, would clearing the payment meaningfully improve monthly flexibility? In either case, what would you have to give up to pay it off now?
+
+Those questions could lead to keeping the required payments for a period, paying extra, or asking whether different terms would help. A decision to keep paying as agreed can be deliberate. It doesn't have to mean you've ignored the debt.
+
+The home-equity line needs a different kind of attention. Its current interest-only payment does not pay off the $46,000 balance. Alongside the rate, I would want to know when the payment arrangement changes and how the principal will be repaid.
+
+Leaving it interest-only for now needs a reason and a later repayment plan. “We'll deal with it when Bitcoin goes up” leaves too much unanswered. What happens if that takes longer than expected or the lender won't extend the loan?
+
+Refinancing may be worth comparing for a debt like this, or for another expensive payment. That means replacing the existing arrangement with a new one. Read the fees, term, rate, and collateral—not only the lower monthly payment.
+
+Consolidation combines debts into one arrangement. It can simplify the bills, but it hasn't solved the problem if the old card balances build up again. And moving card debt onto a home-secured loan changes what is at risk. We'll examine those funding structures in the next two lessons.
+
+You may find it helpful to organize debts as Eliminate, Evaluate, Strategic, or Monitor. The labels help you start the discussion. They don't make the decision for you. An expensive card may be something to eliminate; a low-rate mortgage may be worth keeping strategically; a variable or collateral-backed loan needs monitoring even when its current rate looks acceptable.
+
+For each one, write the actual next action. Keep the required payment, pay an extra amount, compare refinancing, arrange a payoff, or monitor a named risk. Then write why and what would make you revisit it. “Monitor” needs a date or a trigger; it isn't a way to leave a difficult choice blank.
+
+Once a debt is paid off, decide what happens to the money it used.
+
+In the course's card example, the $405 required payment and $1,200 extra payment would together release $1,605, if those were still the amounts being paid at payoff. That is future room, not money available today. The other expenses and contributions still count, and the amount released needs checking against the payments that actually ended.
+
+For now, add up the extra payments you're considering and put them beside the reserve contribution. Can the same cash flow support both? If not, choose a different pace rather than leave two conflicting instructions in the plan.
+
+Let's give each existing debt a clear job. Then we'll look at a separate question: whether taking on new financing would improve the plan at all.

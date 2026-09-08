@@ -16,12 +16,12 @@ The earlier course-wide pass was rejected for voice and teaching clarity. Only t
 | 2.3 | [Size the Reserve for the job it has to do](scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md) | Accepted teaching reference; filming separate | Reference accepted; filming separate | OWNER_REVIEW |
 | 2.4 | [Put future changes on the timeline](scripts/02-4_put-future-changes-on-the-timeline.md) | Replacement written; voice review pending | Pending | APP_CAPTURE |
 | 2.5 | [Decide how much college help you will provide](scripts/02-5_decide-how-much-college-help-you-will-provide.md) | Replacement written; voice review pending | Pending | TAX_REVIEW |
-| 3.1 | [Measure the payment pressure you actually carry](scripts/03-1_measure-the-payment-pressure-you-actually-carry.md) | Needs individual teaching/voice repair | Pending | OWNER_REVIEW |
-| 3.2 | [Measure leverage before and after a drawdown](scripts/03-2_measure-leverage-before-and-after-a-drawdown.md) | Needs individual teaching/voice repair | Pending | OWNER_REVIEW |
-| 3.3 | [Give every existing debt a job](scripts/03-3_give-every-existing-debt-a-job.md) | Needs individual teaching/voice repair | Pending | OWNER_REVIEW |
-| 3.4 | [Decide whether new financing improves the plan](scripts/03-4_decide-whether-new-financing-improves-the-plan.md) | Needs individual teaching/voice repair | Pending | LENDING_REVIEW |
-| 3.5 | [Compare financing on equal terms](scripts/03-5_compare-financing-on-equal-terms.md) | Needs individual teaching/voice repair | Pending | LENDING_REVIEW |
-| 3.6 | [Write the rules before using leverage](scripts/03-6_write-the-rules-before-using-leverage.md) | Needs individual teaching/voice repair | Pending | LENDING_REVIEW |
+| 3.1 | [Measure the payment pressure you actually carry](scripts/03-1_measure-the-payment-pressure-you-actually-carry.md) | Replacement written; voice review pending | Pending | OWNER_REVIEW |
+| 3.2 | [Measure leverage before and after a drawdown](scripts/03-2_measure-leverage-before-and-after-a-drawdown.md) | Replacement written; voice review pending | Pending | OWNER_REVIEW |
+| 3.3 | [Give every existing debt a job](scripts/03-3_give-every-existing-debt-a-job.md) | Replacement written; voice review pending | Pending | OWNER_REVIEW |
+| 3.4 | [Decide whether new financing improves the plan](scripts/03-4_decide-whether-new-financing-improves-the-plan.md) | Replacement written; voice review pending | Pending | LENDING_REVIEW |
+| 3.5 | [Compare financing on equal terms](scripts/03-5_compare-financing-on-equal-terms.md) | Replacement written; voice review pending | Pending | LENDING_REVIEW |
+| 3.6 | [Write the rules before using leverage](scripts/03-6_write-the-rules-before-using-leverage.md) | Replacement written; voice review pending | Pending | LENDING_REVIEW |
 | 4.1 | [Read the same portfolio in four useful ways](scripts/04-1_read-the-same-portfolio-in-four-useful-ways.md) | Needs individual teaching/voice repair | Pending | OWNER_REVIEW |
 | 4.2 | [Set a Bitcoin target the household can hold](scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md) | Needs individual teaching/voice repair | Pending | OWNER_REVIEW |
 | 4.3 | [Match the money to when you will use it](scripts/04-3_match-the-money-to-when-you-will-use-it.md) | Needs individual teaching/voice repair | Pending | TAX_REVIEW |
@@ -72,7 +72,7 @@ The earlier course-wide pass was rejected for voice and teaching clarity. Only t
 | A8.1 | [Decide whether a trust has a job in the plan](scripts/advanced/A8-1_decide-whether-a-trust-has-a-job-in-the-plan.md) | Needs individual teaching/voice repair | Pending | ESTATE_TAX_REVIEW |
 | W01 | [Build the first working plan](scripts/working/W01_build-the-first-working-plan.md) | Needs individual teaching/voice repair | Pending | APP_CAPTURE |
 | W02 | [Verify cash flow, set the Reserve, and add expected events](scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md) | Narration revised; review and capture pending | Pending | APP_CAPTURE |
-| W03 | [Set debt jobs and test one financing decision](scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md) | Needs individual teaching/voice repair | Pending | APP_CAPTURE |
+| W03 | [Set debt jobs and test one financing decision](scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md) | Narration revised; review and capture pending | Pending | APP_CAPTURE |
 | W04 | [Route contributions into usable accounts and intended holdings](scripts/working/W04_route-contributions-into-usable-accounts-and-intended-holdings.md) | Needs individual teaching/voice repair | Pending | APP_CAPTURE |
 | W05 | [Reconcile tax records and prepare one useful comparison](scripts/working/W05_reconcile-tax-records-and-prepare-one-useful-comparison.md) | Needs individual teaching/voice repair | Pending | APP_CAPTURE |
 | W06 | [Build and test the retirement paycheck](scripts/working/W06_build-and-test-the-retirement-paycheck.md) | Needs individual teaching/voice repair | Pending | APP_CAPTURE |
