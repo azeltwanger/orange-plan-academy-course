@@ -1,947 +1,288 @@
 # Session 4 — Build the allocation and next-dollar plan
 
-**Status:** PRE-DICTATION FILMING DRAFT  
-**Audience:** every member; especially households still directing monthly surplus and households with money spread across several account types  
-**Source basis:** Austin's 15-slide Contributions, Accounts, and Allocation deck; detailed Allocation breakdown; prior dictation; de-identified coaching questions; the fictional Reed household; current Orange Plan Allocation and contribution-routing contracts  
-**Recording boundary:** durable teaching may be dictated after acceptance; exact app routes, labels, and screenshots wait for the approved redesign surface
+The slide-deck decision flow controls this session: review the current setup → decide the job and target → route available money → choose the account and tax treatment → choose holdings → implement. Seven teaching clips pair with chaptered W04; the member builds the same plan after each short group of decisions.
 
-## What the member builds
+## 4.1 — Read the same portfolio in four useful ways
+Kind: teach
+Gate: OWNER_REVIEW
+Sources: ALLOCATION, ALLOCATION_DECK, OWNER, APP
 
-By the end of this session, the member will have:
+### Read aloud
 
-- a clear picture of the current accounts and holdings;
-- one whole-plan target allocation that survives a Bitcoin drawdown test;
-- every major account assigned to an available-now, before-59½, after-59½, or specific-event job;
-- a contribution waterfall for the monthly surplus;
-- an account destination for every contribution;
-- a Traditional, Roth, or split decision where applicable;
-- intended holdings inside every receiving account;
-- a short external action list for payroll, transfers, purchases, and account openings.
+Before changing anything, read what the household owns. We are going to look at the same portfolio through four views: asset class, timeframe, account and tax treatment, and the holdings inside each account.
 
-## The session flow
+Asset class answers what the money is exposed to. Bitcoin, stocks, cash, and other assets can respond differently to markets and inflation. Combine the holdings across accounts to see the total exposure. Direct Bitcoin and a spot Bitcoin ETF may appear in different account categories while both contribute to the household's Bitcoin market exposure.
 
-The Allocation deck provides the learner path:
+A Bitcoin-related company needs separate treatment. Its shares depend on the company, financing, business decisions, and market valuation as well as Bitcoin. A leveraged or futures-based product has another structure. Counting all of them as interchangeable Bitcoin would make the allocation look simpler than the actual risk.
 
-1. Review the current setup.
-2. Decide what new dollars are for.
-3. Build the contribution waterfall.
-4. Place those dollars in the right account.
-5. Update the contribution plan.
+The timeframe view asks when the money is intended to be used. Some is available for current needs and the Reserve. Some supports early-retirement years before fifty-nine and a half. Some is primarily for later retirement. An education account or another dedicated pool may have a separate event-specific job.
 
-The concepts are taught in that order. A beginner does not need to solve asset allocation, tax treatment, account access, and specific holdings in one jump.
+Account and tax treatment answers which rules apply. Taxable brokerage money, Traditional retirement money, Roth money, an HSA, and a 529 have different tax and access rules. Direct Bitcoin held personally is generally part of the taxable asset picture; self-custody describes who controls it, not a new tax treatment. Bitcoin inside a retirement structure has that structure's rules as well as its custody arrangement.
 
----
+Finally, look inside each account. A 401(k) can hold stock funds, a Bitcoin fund where available, cash, or other investments. “Roth IRA” tells us the wrapper, not the investment. This fourth view catches an account whose contribution is still buying an old default holding even though the household's overall plan has changed.
 
-# 4.1 — Read the current setup in four different ways
+For the Reed household, our teaching portfolio includes one million three hundred seven thousand dollars of general financial assets. We exclude the home, the dedicated education account, and the healthcare-designated HSA from this particular target denominator. Those assets remain on the full balance sheet and retain their own jobs. The definition matters more than the label.
 
-**Target runtime:** 5–7 minutes  
-**Member decision:** What exists now, and where is the first obvious mismatch?
+Within that illustrative general portfolio, Bitcoin exposure is seven hundred twenty-eight thousand dollars, stocks are five hundred four thousand, and cash or short-term Treasury exposure is seventy-five thousand. Bitcoin is about fifty-six percent. That combines direct holdings with the identified spot-fund exposure rather than looking only at the hardware wallet.
 
-## Opening
+The total does not tell us whether the plan is well positioned. They could have enough assets overall and too little accessible before retirement-account access. They could have reserve cash counted in two places. They could have a reasonable Bitcoin target while new payroll contributions keep buying something else.
 
-Before changing the allocation, read the current setup.
+That is why we make one table before setting a target. Each account gets an owner, tax treatment, current holdings, intended job, and current contribution. We also identify any restricted or pledged money. The same dollar appears once in the total, even though we examine it through several views.
 
-Most people know the names of their accounts. Fewer can explain:
+In the working-session chapter, we will inspect the current portfolio and name one or two mismatches. We will not trade simply because a chart is imperfect. First understand what exists. Then the remaining lessons decide what should change and how to implement it.
 
-- what the household owns across all accounts;
-- which money is available before retirement age;
-- which tax treatment the money has;
-- what each account is actually invested in.
+### Production notes
 
-Those are four different views of the same portfolio.
+Visual: four views of one portfolio, not four additive buckets. Use fixed fixture denominator $1,307,000 and scope explanation. Actual app Current/Target must share its eligible denominator; if different from the teaching subset, reconcile explicitly. Direct custody is not a tax wrapper. Do not imply home equity, 529, or HSA are unrestricted retirement cash.
 
-## View 1 — Whole-plan asset allocation
+### Member checkpoint
 
-Combine every account and ask:
+- Read all four views of the same assets.
+- Define the denominator before comparing percentages.
+- Identify an actual mismatch in access, holdings, or intended use.
 
-> What percentage of the investable portfolio is Bitcoin, stocks, cash, real estate, and other assets?
+## 4.2 — Set a Bitcoin target the household can hold
+Kind: teach
+Gate: OWNER_REVIEW
+Sources: ALLOCATION, ALLOCATION_DECK, BRAIN, OWNER
 
-This is the household's total economic exposure. It should include direct Bitcoin, Bitcoin held with a custodian, and Bitcoin ETF exposure rather than reviewing each one in isolation.
+### Read aloud
 
-## View 2 — Allocation by timeframe
+Your Bitcoin target should fit what you understand, the role Bitcoin has in the plan, and the household's ability to keep the position through a difficult market.
 
-Ask when the money is expected to be used:
+The original deck describes different Bitcoin paths, from someone still learning to someone using Bitcoin as the main long-term asset. Use those descriptions to recognize your current understanding and experience. They are not recommended percentages or a ladder that requires every member to keep increasing exposure.
 
-- available now or held as the Reserve;
-- needed before age 59½;
-- primarily needed after age 59½;
-- dedicated to a specific life event such as college.
+A high-conviction household can intentionally hold a large Bitcoin position. That choice gives cash flow, the Reserve, debt, account access, custody, and family understanding more work to do. The target should be supported by those systems rather than justified only by an expected return.
 
-A taxable account can be before-59½ money or long-term money. The account label does not decide the job.
+Translate a decline into dollars. In a simple example with other assets unchanged, a portfolio that is half Bitcoin falls thirty-five percent if Bitcoin falls seventy percent. A portfolio that is eighty percent Bitcoin falls fifty-six percent from that Bitcoin decline alone. Other assets can fall too, and borrowing can make the effect on net worth larger.
 
-## View 3 — Allocation by account type and tax treatment
+For the Reed teaching portfolio, current Bitcoin exposure is seven hundred twenty-eight thousand dollars. A seventy-percent decline removes five hundred nine thousand six hundred dollars from that portion. The general portfolio falls from one million three hundred seven thousand to seven hundred ninety-seven thousand four hundred before any change in the other assets. That is about a thirty-nine-percent decline in this defined portfolio.
 
-Group the money by wrapper:
+Look at the dollar amount and ask what the household would actually do. Could required payments continue? Could the Reserve cover a job interruption? Is a near-term vehicle or tuition payment depending on selling Bitcoin at a favorable price? Is any Bitcoin pledged to a lender? Would your spouse understand why the plan still calls for holding it?
 
-- taxable;
-- tax-deferred Traditional;
-- Roth;
-- HSA;
-- education;
-- direct Bitcoin or another special-purpose structure.
+Also test a slow recovery. The issue may be less about one bad statement and more about making several years of spending or payments while the asset remains below the price you expected. A long investment horizon helps only when the household can leave the investment in place for that horizon.
 
-This view shows whether the household has flexibility across future tax environments and access windows.
+Choose a target or range you can defend under those conditions. The Reed example can compare sixty percent Bitcoin, thirty-four percent stocks, and six percent cash within the same teaching denominator. That is a hypothetical choice for demonstrating the process. It is not a recommended allocation for the audience, and a higher Bitcoin target is not automatically an improved plan.
 
-## View 4 — Holdings inside each account
+A target describes the intended mix. It does not require one large trade today. You may move toward it with new contributions, redirect payroll investments, let a temporary cash need pass, or compare a later tax-aware shift. A taxable sale and an internal retirement-account trade have different consequences even when they move the same allocation percentage.
 
-Open each account and ask:
+Use price context to recognize emotion around a large change. A strong rally can create urgency to buy more; a sharp decline can create fear or interest in adding. The household's cash needs, debt limits, timeline, and ability to hold still determine whether the change is supportable. Price alone does not establish affordability.
 
-> What does this account actually own?
+The working-session chapter compares the current and proposed target using the same included assets. We will review the dollar drawdown, the effect on the plan where the engine supports it, and the practical actions needed. Keep an ambitious alternative in Scenarios until it is a choice the household genuinely intends to adopt.
 
-A 401(k) is an account, not an investment. A Roth IRA is an account, not an asset class. The holdings may be a Bitcoin ETF, broad stock funds, cash, bonds, individual stocks, or something else.
+Finish with a target, a reason, and the stress case you used. You should be able to explain why the allocation fits your life, including the parts of the plan that let you keep it when the price is much lower.
 
-## Continuing household
+### Production notes
 
-Alex and Morgan have:
+Use the deck's dollar drawdown visual with 70% labeled hypothetical severe test, not a guaranteed recurring event. Show $728,000 × 70% = $509,600. Do not say behavior causes a specific unsupported percentage of returns. Preserve chosen Bitcoin conviction without implying a wealth/custody graduation ladder.
 
-- direct Bitcoin in self-custody;
-- Bitcoin with a professional custodian;
-- Bitcoin ETF exposure in a Roth IRA;
-- broad stocks in a taxable brokerage;
-- a Traditional 401(k) with a brokerage window;
-- a Solo 401(k), Traditional IRA, HSA, and 529;
-- cash split between checking and the Reserve.
+### Member checkpoint
 
-They may be close to the intended whole-plan Bitcoin target while still having account-level problems:
+- State a target or range and its portfolio scope.
+- Translate a severe drawdown into dollars.
+- Explain what supports holding the position through a long weak period.
 
-- too little accessible money before age 59½;
-- a Traditional account holding the fastest-growing assets without a tax plan;
-- a 401(k) contribution going into a default fund that no longer matches the target;
-- a Reserve sitting inside an account meant for long-term growth;
-- a 529 mixed into the general retirement target even though it has a separate job.
+## 4.3 — Match the money to when you will use it
+Kind: teach
+Gate: TAX_REVIEW
+Sources: ALLOCATION, ALLOCATION_DECK, OWNER, APP, PRIMARY
 
-## Member action
+### Read aloud
 
-Create one current-state table:
+Now give the assets a job on the timeline. This is where the allocation becomes connected to the life you want to fund.
 
-| Account | Owner | Tax treatment | Timeframe / job | Current holdings | Current contribution |
-|---|---|---|---|---|---:|
-|  |  |  |  |  |  |
+Begin with money needed now: operating cash and the Reserve. It needs to remain usable when an ordinary bill or unexpected expense arrives. The reserve assignment comes from the Cash Flow work we already completed. We are reading the same money here, not creating a second reserve.
 
-Then create one whole-plan summary:
+Next identify money needed before age fifty-nine and a half. This is the early-retirement access question. A household can have substantial retirement savings and still need a plan for the years between the last paycheck and usable retirement distributions. Taxable cash, brokerage investments, and personally held Bitcoin may play that role.
 
-| Asset class | Current share |
-|---|---:|
-| Bitcoin |  |
-| Stocks |  |
-| Cash / Reserve |  |
-| Real estate or other |  |
+Then identify the longer-term retirement money. Accounts intended for later years can have a different investment horizon because earlier needs are funded elsewhere. That gives long-term assets room to remain invested, subject to the actual tax and access rules.
 
-## Visual
+Age fifty-nine and a half is a useful planning landmark, but it is not an absolute lock on every retirement dollar. Regular Roth IRA contributions, certain workplace-plan distributions after qualifying separation, governmental 457(b) distributions, and carefully structured periodic payments can have different rules. Each has conditions. We will examine the relevant access route before relying on it in a retirement paycheck.
 
-Use four stacked lenses over the same household portfolio:
+The tax wrapper and the intended job are related but different. A taxable brokerage account can fund early retirement or remain invested for much later. An HSA may support qualified medical expenses under its own rules. A 529 is dedicated education money, not automatically a general early-retirement bridge.
 
-1. Asset class.
-2. Timeframe.
-3. Account and tax treatment.
-4. Holdings inside the account.
+Now add the timing of specific events. A tuition payment due in five years and general spending at age seventy need different planning even if both are in the same taxable account. Mark the commitment and avoid assigning the same dollars to both needs.
 
-## Done when
+The slide deck uses low-, moderate-, and high-volatility paths to show how the job influences the investment. Use that as a reasoning tool rather than a rigid rule that every dollar at a particular year must be sold out of Bitcoin. The amount, timing flexibility, other resources, and consequence of being short can change the decision.
 
-- Every major account is listed.
-- Every account has an owner and tax treatment.
-- Every account's current holdings are visible.
-- The household knows the total Bitcoin exposure across all wrappers.
-- One or two obvious mismatches are named before any target is changed.
+For example, some Bitcoin may remain part of a college plan more than five years away. As the committed tuition payments get closer, the household can protect the near-term amount and review later years separately. A flexible family contribution can carry a different risk from a contractual bill that must be paid on one date.
 
----
+For Alex and Morgan, the work-optional target at fifty-two creates about seven and a half years before Alex reaches fifty-nine and a half. Morgan has a separate age and access timeline. Their taxable assets and direct Bitcoin need to be evaluated against those years, not simply compared with the total retirement-account balance.
 
-# 4.2 — Set the whole-plan Bitcoin target the household can actually hold
+A rough first estimate can multiply the annual gap by the number of years. It is only an orientation. The actual plan should account for taxes, changing income, inflation, investment returns, events, and each person's access dates. We will read the year-by-year funding in Retirement Income.
 
-**Target runtime:** 6–8 minutes  
-**Member decision:** What total allocation or range can the household hold through a major drawdown without breaking the plan?
+In this working-session chapter, assign the broad jobs and look for an obvious shortfall. Keep the home, education money, healthcare money, and pledged assets visible with their limitations. Finish knowing which pool supports current needs, which funds early access, and which can remain invested for later life. That tells us where a new dollar may be most useful.
 
-## Opening
+### Production notes
 
-Set the target for the whole household before deciding what each account buys.
+App funding rows: Now / Before 59½ / After 59½. These are not identical to the old 0–3 / 4–10 / 10+ volatility horizons. IRS early-distribution and Roth ordering references apply. Use a partial account assignment only when supported. Do not invent engine attribution from a life event to an account.
 
-The target is supported by five systems:
+### Member checkpoint
 
-1. understanding of Bitcoin;
-2. time horizon;
-3. cash flow and Reserve;
-4. debt and collateral exposure;
-5. custody and family readiness.
+- Identify current, early-access, later-retirement, and dedicated-event money.
+- Record access restrictions and relevant exceptions for verification.
+- Locate the first actual funding need before choosing an account for new money.
 
-A high-conviction position can be intentional. The rest of the plan has to support it.
+## 4.4 — Build the contribution waterfall from one pool
+Kind: teach
+Gate: OWNER_REVIEW
+Sources: ALLOCATION, ALLOCATION_DECK, CASHFLOW, DEBT, OWNER, APP
 
-## The dollar drawdown test
+### Read aloud
 
-Use a Bitcoin drawdown large enough to make the decision real.
+The contribution waterfall gives each new dollar a destination. It starts with the amount actually available and the needs you have already identified.
 
-For a simple first calculation, hold the other assets flat:
+We have chosen the Reserve target and funding pace. We have reviewed required debt payments and decided whether any extra payment is warranted. We have also identified the employer match and the difference between money needed before and after retirement-account access. Now those decisions have to fit inside one cash-flow pool.
 
-> Bitcoin share × Bitcoin decline = approximate whole-portfolio decline caused by Bitcoin
+The deck's order is a useful starting comparison: protect essential liquidity, consider the employer match, apply the extra-debt decision, then route the remainder by timeframe and account. Several claims may be funded together. An immediate essential shortfall can outrank an attractive investment benefit. Once the household has breathing room, an available match deserves careful attention before routing past it.
 
-Examples:
+Read the match formula precisely. In the fictional employer plan, Alex receives fifty cents for each employee dollar up to six percent of pay. On a one-hundred-fifty-five-thousand-dollar salary, the employee contribution needed for that illustrated match is ninety-three hundred dollars a year, or seven hundred seventy-five a month. The employer adds forty-six hundred fifty a year, or three hundred eighty-seven dollars and fifty cents a month.
 
-- 25% Bitcoin and a 70% decline creates about a 17.5% portfolio decline from Bitcoin.
-- 50% Bitcoin creates about a 35% decline.
-- 65% Bitcoin creates about a 45.5% decline.
-- 80% Bitcoin creates about a 56% decline.
+That is valuable, but check vesting, plan terms, and the available investments. After the match, additional dollars may have a better job in accessible taxable money, an HSA, an IRA, or another account. Before rejecting the employer plan because of its menu, find out whether it provides the Bitcoin exposure or brokerage access you want. Availability must be verified for that specific plan.
 
-Now turn the percentage into dollars.
+Use the Reed cash-flow bridge. After the adopted twelve-hundred-dollar reduction in living costs, twenty-four hundred seventy-five dollars is available before employee contributions. Seven hundred seventy-five goes to the employer plan. Five hundred funds the Reserve. Twelve hundred is the extra card payment. That totals twenty-four hundred seventy-five. There is no remaining household surplus in that phase, even though the employer separately adds the match.
 
-Ask:
+A zero remaining amount is a useful answer. It tells the household that another recurring investment requires a real change, not an optimistic row in the plan.
 
-- Could the household keep making every payment?
-- Would a vehicle, college bill, medical cost, or home repair create a forced sale?
-- Is Bitcoin pledged to a lender?
-- Could both spouses hold the position?
-- Would the custody system still feel appropriate at the lower price and higher future value?
+The waterfall can change over time. Once the card is paid off, its required four-hundred-five-dollar payment ends, and the twelve-hundred-dollar extra payment can be reassigned. Holding the other assumptions constant, that creates sixteen hundred five dollars of new room. Once the Reserve reaches its chosen target, its five-hundred-dollar build contribution can also be reconsidered. The actual amounts should be checked against the updated plan and real cash flow at that time.
 
-## Current target versus immediate trade
+This is how the future contribution plan stays connected to today's constraints. You can define what starts later without pretending the money is available now. Likewise, a raise or an income reduction needs an effective date and a revised amount.
 
-A target does not require one large trade today.
+When two timeframes need money, splitting the remainder can be sensible. The early-retirement account may need part while longer-term tax-advantaged saving continues. The split should come from the funding needs, taxes, investment menu, and target mix, rather than a universal percentage.
 
-The household can move toward the target through:
+In the working session, we will confirm the available pool, review the current contribution claims, and enter only the supported current and future routing. Orange Plan models the intended saving. It does not change a payroll election or place a recurring purchase for you.
 
-- future contributions;
-- redirected payroll;
-- recurring purchases;
-- maturing cash needs;
-- a later tax-aware shift.
+Finish by explaining where the next five hundred dollars would go today, and what would change that answer. That is a usable rule you can return to when the Reserve fills, a debt ends, or your income changes.
 
-A one-time sale or purchase has its own tax, timing, and risk decision. Keep it separate from the target itself.
+### Production notes
 
-## Continuing household
+Show the deck waterfall and a second line for employer money. Reconcile the one pool exactly. Do not mechanically promise the app processes match before every extra-debt claim; course reasoning and the supported cash-flow engine must be reconciled on camera. Verify future start/stop controls; use a documented future action when the UI cannot encode the rule.
 
-Alex and Morgan are high-conviction Bitcoin holders. Their current portfolio is already concentrated.
+### Member checkpoint
 
-They test several whole-plan targets against:
+- All household claims fit one available pool.
+- Employer match is calculated separately from spendable cash.
+- State current routing and the conditions that change it later.
 
-- the Reserve still being below its final target;
-- the variable HELOC;
-- the work-optional date before 59½;
-- upcoming college and vehicle costs;
-- different comfort levels between spouses;
-- the desire to keep some Bitcoin outside any single provider or account wrapper.
+## 4.5 — Choose the account that can do the job
+Kind: teach
+Gate: TAX_REVIEW
+Sources: ALLOCATION, ALLOCATION_DECK, PRIMARY, APP
 
-The target they save is the one they can explain and hold. A larger allocation can remain in Scenarios until the support systems are stronger.
+### Read aloud
 
-## Member action
+Once the dollar's job is clear, choose an account that can perform it. Start with access, eligibility, available investments, tax treatment, and cost.
 
-Write the target as either:
+A taxable account is flexible for general spending and early retirement. Personally held Bitcoin also belongs in the taxable planning picture. Sales can realize gains or losses, and income-producing holdings can create current tax. That flexibility can be valuable even when another account offers a tax benefit.
 
-- one percentage; or
-- a range with a review band.
+An employer retirement plan may provide a match, payroll convenience, and tax advantages. The menu and fees vary. Some plans offer only a short list of funds; some allow a brokerage window or Bitcoin fund. Check the actual plan before assuming it can hold your preferred investment.
 
-Then complete this sentence:
+An IRA may offer a broader menu, but contribution eligibility, deduction rules, and annual limits still matter. A self-directed arrangement for direct Bitcoin adds custody, administrator, and prohibited-transaction considerations. Holding Bitcoin directly inside a retirement structure does not mean the coins can be moved into your personal wallet for unrestricted use.
 
-> We can hold this target through a major drawdown because our Reserve, debt, accessible money, custody, and household understanding support it.
+An HSA can be useful for qualified medical spending when you are eligible to contribute. Its tax treatment is attractive, but the money still has a healthcare job and documentation requirements. The investment menu may also be limited. A 529 has education rules and a specific beneficiary purpose. Neither is simply another unrestricted brokerage account.
 
-If the sentence is not true, lower the target or strengthen the missing support system.
+For self-employed members, a Solo 401(k), SEP, or another business plan can provide additional choices. The correct plan depends on the business, employees, income definition, and contribution rules. Someone contributing to more than one arrangement must check the combined limits that apply. Do not add up each account's advertised maximum as though every limit were independent.
 
-## Visual
+Now ask whether the account can hold the desired asset. A tax-advantaged wrapper holding an investment you do not intend to own may be less useful than it first appears. At the same time, a strong employer match can make the first contribution worthwhile even when the menu is limited. Compare those facts together rather than treating the tax wrapper or the asset as the only decision.
 
-Use the deck's Bitcoin-path and drawdown graphics, updated so the paths describe current readiness rather than prescribe fixed allocation bands.
+For Alex and Morgan, the employer plan captures a match and offers a verified spot-Bitcoin fund through the fictional menu. The taxable account and direct Bitcoin can help fund earlier years. The HSA is assigned to healthcare, and the 529 to education. Their accounts have different jobs even though several can own similar investments.
 
-## Done when
+A younger member might have only a workplace plan and direct Bitcoin. A member close to retirement may have ample tax-deferred wealth and a shortage of accessible taxable money. The right new account or contribution can differ even when both people have the same Bitcoin conviction.
 
-- Total Bitcoin exposure is measured across every account.
-- The dollar loss from a major drawdown is visible.
-- The household can identify what could force a sale.
-- Both spouses understand the target.
-- The saved target is separate from any immediate transaction.
+Look for a simple arrangement that covers the jobs. More accounts create more statements, beneficiaries, passwords, fees, and maintenance. An account earns its place when it solves a funding, tax, investment-access, or custody need.
 
----
+Finally, check the actual availability before treating the contribution as implemented. Opening an account, changing an employer election, and transferring cash happen with the provider. The app can model the account and intended contribution, but the external setup still needs completion.
 
-# 4.3 — Assign every major pool of money to a timeframe and job
+In the working-session chapter, select the destination for each current contribution and identify any account that needs to be opened or verified. Then we will decide the tax treatment and what the money will actually buy inside it.
 
-**Target runtime:** 6–8 minutes  
-**Member decision:** Which money is available now, needed before 59½, needed after 59½, or dedicated to a specific event?
+### Production notes
 
-## Opening
+Keep Roth/Traditional detail for 4.6. Verify contribution eligibility, aggregate limits, HSA eligibility including current-law changes, plan investment access, and retirement custody restrictions. Do not prescribe an HSA→IRA→401(k) order as universal. No branded provider recommendation is required.
 
-The same asset can be appropriate for one job and dangerous for another.
+### Member checkpoint
 
-Start with when the money may be needed. Then choose how much volatility and how much access that job can tolerate.
+- Match access, eligibility, investment menu, and tax treatment to the job.
+- Verify the account is actually available and usable.
+- Record the outside opening or payroll action separately.
 
-## Job 1 — Available now and the Reserve
+## 4.6 — Choose Traditional, Roth, or a deliberate mix
+Kind: teach
+Gate: TAX_REVIEW
+Sources: ALLOCATION, ALLOCATION_DECK, TAX, PRIMARY, OWNER
 
-This money protects the household from a short-term cash need.
+### Read aloud
 
-Its job is reliability and access. It covers the bare-bones household during an income disruption and gives the household time during a market drawdown.
+Traditional versus Roth is a choice about when income tax is paid. The right comparison starts with the tax benefit available today and the tax treatment expected when the money is used.
 
-## Job 2 — Before age 59½
+A deductible Traditional contribution can reduce taxable income now. The account grows under its retirement tax rules, and taxable withdrawals generally create ordinary income later. A Roth contribution uses money already subject to tax; qualified withdrawals can be tax-free. Eligibility, contribution rules, and distribution conditions still apply.
 
-This is accessible Bridge money for:
+Compare the same economic starting point. Suppose you have one thousand dollars of pretax earnings available to save, and the relevant tax rate is twenty percent. A deductible Traditional contribution can put the full thousand into the account. A Roth contribution from the same earnings puts eight hundred in after the tax.
 
-- the first years after leaving work;
-- large expected purchases;
-- income gaps;
-- healthcare before other benefits begin;
-- flexibility before retirement accounts are easily available.
+Now suppose both investments double. Traditional holds two thousand before withdrawal tax. At the same twenty-percent withdrawal rate, it leaves sixteen hundred. Roth holds sixteen hundred and, assuming the withdrawal is qualified, also leaves sixteen hundred. The higher growth did not by itself make one tax treatment superior.
 
-Taxable accounts often serve this job, but the exact holdings can still include growth assets when the timing and amount are flexible.
+Change the future tax rate and the answer changes. At thirty percent, the Traditional withdrawal leaves fourteen hundred. At ten percent, it leaves eighteen hundred. The Roth amount in this simplified example remains sixteen hundred. These are teaching assumptions that isolate the timing of tax; they are not your actual bracket calculation.
 
-## Job 3 — After age 59½
+For Bitcoin holders, growth inside a Roth can be valuable. Growth inside Traditional can also magnify future taxable distributions. But the initial deduction, what you do with the tax savings, and the rate on future withdrawals still matter. Comparing the same dollar contribution to both accounts while ignoring the tax paid outside the Roth can make the comparison misleading.
 
-This is long-term retirement money with more time and different account-access rules.
+Look at the household's timeline. A high current marginal rate followed by lower-income early-retirement years can favor using a deduction now and considering conversions or withdrawals later. A low current rate, substantial future taxable income, or a desire for tax-free flexibility can favor Roth. Future tax law and income are uncertain, which is one reason a deliberate mix can be useful.
 
-Traditional, Roth, employer, and HSA assets may belong here depending on the household's tax plan and expected use.
+Required distributions from Traditional accounts may reduce control later. Social Security, pensions, healthcare subsidies, and Medicare premiums can also change the effective cost of an additional withdrawal or conversion. We will examine those interactions in Tax and Retirement Income rather than deciding from one bracket label alone.
 
-## Job 4 — Specific life events
+Current cash flow matters too. Switching an employee contribution from Traditional to Roth may lower take-home pay if the contribution amount stays the same. Recheck the monthly pool so the change does not quietly take money from the Reserve or create a card balance.
 
-College, a home purchase, a vehicle, business capital, or family support may need a separate funding decision.
+Access also matters. A Roth IRA has ordering rules for contributions, conversions, and earnings. A Roth workplace plan is not identical to a Roth IRA. A rollover or early withdrawal can change the available path. Do not rely on a broad statement that all Roth money is freely accessible.
 
-The event should show:
+For the Reed household, we will compare Traditional, Roth, and a split using the same contribution goal and a clearly stated tax assumption. The example does not need to declare one permanent winner. It needs to show which current and future facts would make the household choose differently.
 
-- timing;
-- committed amount;
-- flexible amount;
-- dedicated account or source;
-- what happens if the market is down.
+In the working-session chapter, review the available tax-treatment choice, its effect on cash flow, and any planning comparison the app supports. Record the intended election, then confirm it with the employer or custodian. Revisit the decision when income, employment, or the retirement timeline changes.
 
-## The Bitcoin five-year nuance
+### Production notes
 
-A five-year horizon does not automatically remove Bitcoin from the funding plan.
+Equal-pretax-budget example is mandatory: 1000→2000→1600 Traditional; 800→1600 Roth at equal 20% rates. Include limitations for marginal/effective rates, eligibility, tax-savings reinvestment, and qualified withdrawals. Never teach Bitcoin growth alone as proof Roth always wins. Professional tax review before final tax-specific recording.
 
-Bitcoin may remain part of a longer-horizon event when:
+### Member checkpoint
 
-- the timing is flexible;
-- the amount is partly discretionary;
-- another funding source exists;
-- the household is willing to reduce or delay the expense;
-- the committed first payments are protected as the date approaches.
+- Compare equal pretax resources and the relevant tax rates.
+- Check effects on current cash flow and future access.
+- Choose a provisional election or a specific question for tax review.
 
-As a fixed due date gets closer, move the committed amount into a funding source that can meet the obligation even after a Bitcoin drawdown. The remaining flexible portion can keep a different risk profile.
+## 4.7 — Tell each account what to buy and finish the outside actions
+Kind: teach
+Gate: APP_CAPTURE
+Sources: ALLOCATION, ALLOCATION_DECK, OWNER, APP
 
-## Continuing household
+### Read aloud
 
-Alex and Morgan classify:
+The final step is choosing what each contribution buys. A contribution amount and an account destination are not enough if the money lands in cash or an old investment election that does not match the plan.
 
-- high-yield savings as available-now Reserve;
-- taxable brokerage and part of direct Bitcoin as before-59½ Bridge assets;
-- 401(k), IRAs, and part of the HSA as after-59½ assets;
-- the 529 as dedicated college funding;
-- the first expected college payments as a committed event that will be protected before enrollment;
-- the optional renovation as a scenario until the household commits.
+Separate the household target from each account's holdings. A sixty-percent Bitcoin target for a defined portfolio does not require every account to be sixty percent Bitcoin. One account may hold direct Bitcoin, another a spot Bitcoin fund, and an employer account may hold the stock exposure. The combined holdings are what have to reconcile with the target and the funding jobs.
 
-## Member action
+Use the same principle for cash. Some cash supports the normal bill cycle, some is assigned to the Reserve, and some may be waiting for an upcoming purchase. Identify the job without counting the same dollars several times. A target cash percentage also needs to be checked against the actual dollar reserve requirement.
 
-Assign each major account or holding:
+In the Reed teaching portfolio, a hypothetical sixty-percent Bitcoin target corresponds to seven hundred eighty-four thousand two hundred dollars at today's frozen denominator. Current Bitcoin exposure is seven hundred twenty-eight thousand. The difference is fifty-six thousand two hundred dollars. That gap does not mean the household should place that trade today. It simply makes the direction visible.
 
-| Account / holding | Primary job | Needed when | Flexible or committed? | What if Bitcoin is down? |
-|---|---|---|---|---|
-|  |  |  |  |  |
+New contributions can move the mix over time. Prices also move, so a contribution plan should be reviewed against the current target rather than treated as a promise that a fixed purchase schedule reaches an exact percentage. If the current cash-flow waterfall has no unassigned money, the investment change may need to wait until a debt ends or another real source becomes available.
 
-## Visual
+For every receiving account, decide whether new money should follow the current mix, a selected asset-class mix, or specific supported holdings. Those choices describe different levels of precision. A broad asset-class plan may be enough while you confirm the provider's menu. A specific holding needs an actual available investment and correct classification.
 
-Use three main lanes:
+Compare fees, investment structure, custody, and access as well as the tax wrapper. Direct Bitcoin gives you direct asset control with operational responsibilities. A spot Bitcoin fund provides exposure through a security and its provider structure. Leveraged funds, futures funds, covered-call products, and Bitcoin-related companies should be evaluated on their own terms. A familiar Bitcoin label does not make their return and risk the same.
 
-- Available now.
-- Before 59½.
-- After 59½.
+A current-state correction is different from a strategy change. If the account already owns a fund and the record is wrong, correct the fact. If you intend to redirect future purchases, that is a choice. If you are only considering a new allocation, keep it in Preview or Scenarios until adopted.
 
-Show specific life events as dated markers connected to their funding sources.
+The working session will review the overall mix, account jobs, contribution amounts, tax treatment, and intended holdings together. Then we will create the outside action list. It might include changing Alex's payroll election, verifying a brokerage-window fund, opening an account, updating an automatic transfer, or changing a recurring Bitcoin purchase.
 
-## Done when
+Put a date and an owner beside each outside action. After it happens, verify the provider statement or confirmation and keep the plan's actual records current. A saved intention should not masquerade as an executed trade.
 
-- Every major account has a primary job.
-- Before-59½ funding is visible.
-- Dedicated event money is separated from general retirement funding.
-- The household knows which committed amounts cannot depend on a favorable Bitcoin price.
-- The target allocation can now be applied to the correct jobs.
+Close with three checks. Does every contribution fit the available cash flow? Can each account hold what the plan says it will buy? Do the combined holdings support the target and the timeframe needs? If one answer is uncertain, record the specific follow-up rather than adding more accounts or assumptions to hide it.
 
----
+You now have an allocation and next-dollar plan: what the household owns, what it is working toward, what each new dollar does, and which real-world actions make it happen. That is the part you return to after a raise, a paid-off debt, a filled Reserve, or a change in the life you are funding.
 
-# 4.4 — Build the contribution waterfall from one monthly surplus
+### Production notes
 
-**Target runtime:** 7–9 minutes  
-**Member decision:** Where does the next dollar go, in what order, and when does the order change?
+Show the four-lens table filled, then the outside action list. No fabricated exact routing recommendation from the app; engine output required. $1,307,000 × 60% = $784,200; gap to current $728,000 = $56,200. Check cash target against Reserve need. Preserve real securities classification and account/custody distinctions. W04 must finish with receipts and external actions, not a fake success-rate improvement.
 
-## Opening
+### Member checkpoint
 
-The household has one monthly surplus. The waterfall gives that same pool of money an order.
-
-The teaching order is:
-
-1. Reserve, while it is still needed.
-2. Employer match, when available.
-3. Extra debt, when Session 3 says payoff wins.
-4. Route the remaining money by timeframe.
-5. Choose the account.
-6. Choose what the account buys.
-
-This is a decision framework. Several claims can receive money at the same time when the household deliberately splits the surplus.
-
-## Step 1 — Reserve
-
-Fund the Reserve at the pace chosen in Session 2.
-
-The Reserve does not have to consume every dollar until it is full. A household can choose a monthly build cap when it still wants to capture a match, reduce high-rate debt, or continue a smaller long-term contribution.
-
-## Step 2 — Employer match
-
-Calculate the employee contribution required to receive the full match.
-
-Then ask:
-
-- What is the immediate match value?
-- Does the plan offer Traditional, Roth, or both?
-- Can the account hold the desired Bitcoin exposure through a fund or brokerage window?
-- How accessible is the money before 59½?
-
-The match is usually a high-priority use of the first retirement-contribution dollars. The investment menu and access rules determine what happens after it.
-
-## Step 3 — Extra debt
-
-Use the exact monthly extra amount decided in Session 3.
-
-Do not invent a debt payment merely to complete the waterfall. If the strategy says minimum only, this step may be zero. If the high-rate debt is the current bottleneck, it may receive a large share temporarily.
-
-## Step 4 — Remaining money by timeframe
-
-Ask which area is behind:
-
-- available-now safety;
-- before-59½ Bridge;
-- after-59½ retirement;
-- a dedicated life event.
-
-If two areas are behind, split the remaining dollar intentionally.
-
-## Continuing household
-
-Assume the verified monthly surplus is $5,000 for this teaching example.
-
-A temporary waterfall could be:
-
-1. $1,200 to build the Reserve.
-2. Enough to Alex's employer plan to receive the full match.
-3. $1,500 extra to eliminate the high-rate card.
-4. Split the remaining amount between accessible Bridge funding and long-term retirement funding.
-
-When the card is gone, that $1,500 automatically needs a new job. When the Reserve reaches target, the $1,200 also becomes available. The future-state waterfall should be written now so the freed cash does not disappear into spending.
-
-## The waterfall changes at known triggers
-
-Revisit it after:
-
-- the Reserve reaches target;
-- a debt is paid off;
-- income changes;
-- employer benefits change;
-- a child, move, or large life event changes the funding needs;
-- the work-optional date changes;
-- a major account becomes available or unavailable.
-
-## Member action
-
-Build two versions:
-
-### Current waterfall
-
-What happens to the next dollar now?
-
-### Future waterfall
-
-What happens after the current temporary claim, such as Reserve building or card payoff, is finished?
-
-## Visual
-
-Use the waterfall graphic with the reason beside each step:
-
-- Reserve — protect the plan.
-- Employer match — capture available compensation.
-- Extra debt — remove the current guaranteed drag when the strategy wins.
-- Timeframe — fund the job that is behind.
-- Account — choose access and tax treatment.
-- Holding — buy the intended asset.
-
-## Done when
-
-- The same monthly surplus is used once.
-- Reserve, match, and extra debt use explicit amounts or rules.
-- The remaining money is assigned by timeframe.
-- The household has both a current and future-state waterfall.
-- No contribution is finalized without an account and intended holding.
-
----
-
-# 4.5 — Choose the account wrapper for each contribution
-
-**Target runtime:** 7–9 minutes  
-**Member decision:** Which account best matches the dollar's job, access need, tax treatment, employer benefit, and investment menu?
-
-## Opening
-
-The account is the wrapper. The holding is what the money owns.
-
-Choose the job first, then the wrapper, then the holding.
-
-## The account questions
-
-For every contribution, ask:
-
-1. When might the money be needed?
-2. Is an employer match available?
-3. Does the account offer the asset the plan calls for?
-4. Is the household trying to reduce taxable income today or create tax-free flexibility later?
-5. Does the account have contribution, withdrawal, employment, or qualified-use restrictions?
-6. Who owns it and what happens if employment or the family situation changes?
-
-## Taxable brokerage or direct Bitcoin account
-
-Strengths:
-
-- flexible access;
-- useful before 59½;
-- lot-level control when records support it;
-- direct Bitcoin can provide direct ownership and custody.
-
-Trade-offs:
-
-- taxable gains, income, or distributions;
-- direct custody and family-recovery responsibility;
-- no up-front retirement contribution deduction.
-
-## Employer plan
-
-Strengths:
-
-- employer match;
-- payroll automation;
-- potential current tax benefit or Roth option;
-- creditor and plan protections that depend on the plan and law.
-
-Trade-offs:
-
-- investment-menu limits;
-- access rules;
-- plan fees;
-- employer and plan-administrator processes.
-
-Check for a Bitcoin ETF or self-directed brokerage window before assuming the account cannot support the desired exposure.
-
-## IRA and Roth IRA
-
-Strengths:
-
-- broader investment choice than many employer plans;
-- Traditional or Roth tax treatment;
-- useful for consolidation and long-term tax planning.
-
-Trade-offs:
-
-- contribution and withdrawal rules;
-- no employer match;
-- custodian and investment-menu limits;
-- direct Bitcoin IRA structures add custody, fee, and prohibited-transaction questions.
-
-## HSA
-
-The HSA has a healthcare job and can also become a long-term account when eligibility and cash flow support investing it.
-
-The household must decide whether to spend from it now, save receipts, invest it, or keep part liquid for expected healthcare costs. Current eligibility and qualified-expense rules require verification.
-
-## Education account
-
-Use an education account for the portion intentionally committed to qualified education funding. Keep it separate from the general retirement target so the member can see whether the family or the student is expected to fund each share.
-
-## Continuing household
-
-Alex and Morgan use:
-
-- the taxable brokerage and direct Bitcoin for before-59½ flexibility;
-- Alex's 401(k) to capture the match;
-- the Roth IRA for long-term tax-free exposure;
-- the Traditional accounts as part of a later low-income tax plan;
-- the HSA for healthcare and long-term flexibility;
-- the 529 only for the committed college portion.
-
-## Member action
-
-Complete this row for every active contribution:
-
-| Monthly contribution | Job / timeframe | Account | Why this wrapper | Can it hold the intended asset? |
-|---:|---|---|---|---|
-|  |  |  |  |  |
-
-## Done when
-
-- Every contribution has an account destination.
-- Access before 59½ is deliberately funded.
-- Employer match is captured or intentionally declined with a stated reason.
-- The account can hold the intended investment.
-- Education and healthcare accounts keep their specific jobs.
-
----
-
-# 4.6 — Choose Traditional, Roth, or a mix
-
-**Target runtime:** 6–8 minutes  
-**Member decision:** Pay the tax now, later, or use both buckets?
-
-## Opening
-
-Traditional versus Roth is a decision about when the household pays income tax on the retirement contribution and future withdrawal.
-
-The asset inside the account is a separate decision.
-
-## Traditional
-
-A Traditional contribution may reduce taxable income today, depending on the account and household eligibility. The money grows tax-deferred, and withdrawals are generally ordinary income later.
-
-Traditional may be attractive when:
-
-- the current marginal rate is high;
-- the deduction improves current cash flow;
-- the household expects lower-income years later;
-- a future conversion or intentional withdrawal plan exists.
-
-The trade-off is future taxable income and potential required distributions under then-current law.
-
-## Roth
-
-A Roth contribution uses money that has already been taxed. Qualified withdrawals can be tax-free under then-current rules.
-
-Roth may be attractive when:
-
-- the current rate is relatively low;
-- the household expects higher rates or higher taxable income later;
-- high-growth assets have a long runway;
-- future tax-free flexibility is valuable;
-- the household can absorb the current tax cost.
-
-## A mix
-
-A split can be useful when the future tax answer is uncertain.
-
-Multiple tax buckets give the retirement plan more control over:
-
-- annual taxable income;
-- capital gains;
-- healthcare subsidies;
-- Medicare-related thresholds;
-- future required distributions;
-- estate and beneficiary outcomes.
-
-## The questions that change the answer
-
-- What is the current marginal rate?
-- What lower-income window may exist after work ends?
-- How large could the Traditional balance become?
-- Can the household pay today's tax without weakening the Reserve or Bridge?
-- Does the employer match go into a specific tax treatment?
-- Does the account offer the intended Bitcoin or other holding?
-- Is current cash flow more valuable than future tax flexibility?
-
-## Continuing household
-
-Alex is in a higher earning year and values part of the current deduction. Morgan's variable income creates years when Roth contributions or conversions may be more attractive.
-
-The fictional plan tests:
-
-- all Traditional;
-- all Roth;
-- a split contribution;
-- Traditional contributions now followed by conversions during the early-retirement window.
-
-The household uses Current versus Preview to see the lifetime tax, cash-flow, retirement, and RMD effects before saving the decision.
-
-## Member action
-
-Choose Traditional, Roth, or split for each supported contribution. Record the reason in one sentence and list any CPA question that could change the choice.
-
-## Visual
-
-A timeline:
-
-- Today: tax paid or deduction received.
-- Growth years.
-- Retirement withdrawal: taxable or qualified tax-free.
-- Low-income window and future RMD pressure.
-
-## Done when
-
-- Tax treatment is selected for every supported contribution.
-- The household understands the current cash-flow effect.
-- The future low-income window has been considered.
-- The choice can be revisited without changing the asset target.
-- Exact current-law questions are listed for the CPA.
-
----
-
-# 4.7 — Choose the holdings inside each account
-
-**Target runtime:** 7–9 minutes  
-**Member decision:** What should each receiving account actually buy so the combined portfolio reaches the target?
-
-## Opening
-
-A 65% whole-plan Bitcoin target does not require every account to hold 65% Bitcoin.
-
-Individual accounts can hold very different mixes while the combined household portfolio reaches the target.
-
-## Start with the whole-plan target
-
-The target may include:
-
-- Bitcoin;
-- stocks;
-- cash;
-- bonds or short-term fixed income;
-- real estate;
-- other assets the plan actually models.
-
-Now use each account for the job it can perform well.
-
-## Direct Bitcoin versus Bitcoin ETF exposure
-
-Direct Bitcoin provides direct ownership and creates custody, recovery, and inheritance responsibilities.
-
-A Bitcoin ETF may provide exposure inside a brokerage, IRA, or employer plan without direct key management. It introduces the fund, custodian, account, and market structure into the ownership chain.
-
-A household can intentionally use both when each solves a different job.
-
-## Tax placement
-
-Consider:
-
-- assets that create current taxable interest or distributions;
-- assets expected to grow primarily through price appreciation;
-- high-growth assets inside Roth space;
-- assets needed for near-term liquidity;
-- taxable lots where future sale flexibility matters;
-- account menus that force a practical compromise.
-
-Do not chase a theoretically perfect placement that makes the plan hard to maintain. Fix the obvious mismatches first.
-
-## Three ways a contribution can invest
-
-Where supported, a contribution may follow:
-
-1. **Current mix** — new money follows what the account already owns.
-2. **Set asset-class mix** — new money follows a saved percentage across asset classes.
-3. **Specific holdings** — new money is intended for named funds, stocks, cash vehicles, or Bitcoin exposure.
-
-The app models the intention. The actual payroll election, exchange purchase, or custodian trade still happens outside Orange Plan.
-
-## Continuing household
-
-A possible fictional implementation:
-
-- Direct Bitcoin account: direct Bitcoin only, serving part of the before-59½ and long-term allocation.
-- Professional custody account: Bitcoin held under a separate custody method to reduce one-method concentration.
-- Alex 401(k): contribution captures the match; holdings use a combination of broad stock funds and the available Bitcoin ETF.
-- Roth IRA: long-horizon Bitcoin ETF and other high-growth exposure.
-- Traditional IRA and Solo 401(k): holdings selected with the later conversion and withdrawal plan in mind.
-- HSA: a liquid healthcare portion plus long-term investments.
-- Taxable brokerage: flexible Bridge assets and any non-Bitcoin exposure needed to balance the whole-plan target.
-- 529: the education-plan menu, separate from the household retirement allocation.
-
-This is an example of coordination, not a model portfolio for the member to copy.
-
-## Member action
-
-For every receiving account, complete:
-
-| Account | Job | Contribution amount | Tax treatment | Intended holding(s) | Whole-plan target supported |
-|---|---|---:|---|---|---|
-|  |  |  |  |  |  |
-
-Then total the holdings across all accounts and confirm that the household target is reached.
-
-## Visual
-
-Show the same target built through different account mixes:
-
-- whole plan at the top;
-- account wrappers in the middle;
-- specific holdings at the bottom.
-
-## Done when
-
-- Every active account's holdings are known.
-- Every new contribution has an intended investment.
-- Direct Bitcoin and ETF exposure are both counted in total Bitcoin.
-- The combined accounts reach the whole-plan target.
-- The member knows which actual trades or payroll elections remain outside the app.
-
----
-
-# 4.8 — Guided working session: route the next dollar in Orange Plan
-
-**Format:** replaceable Orange Plan walkthrough  
-**Estimated capture:** 25–35 minutes  
-**Capture gate:** verify every route, label, editor, calculation, and Current-versus-Preview result against the approved redesign commit used for filming
-
-## Before the member starts
-
-Have available:
-
-- the verified monthly surplus from Session 2;
-- the final extra-debt amount from Session 3;
-- Reserve target and monthly build pace;
-- employer match formula and plan menu;
-- every major account and holding;
-- the whole-plan Bitcoin target or range;
-- the dollar drawdown result;
-- expected before-59½ and after-59½ funding needs;
-- current payroll, automatic-transfer, and recurring-purchase settings.
-
-## Step 1 — Review the current setup
-
-From Home and the canonical account detail surfaces, verify:
-
-- account owner;
-- tax treatment;
-- current balance;
-- current holdings;
-- current contribution;
-- data freshness or Needs Attention.
-
-Open the Allocation workspace through Plan → Build & improve → Improve strategy.
-
-Read the current portfolio by:
-
-- asset class;
-- timeframe;
-- account type / tax treatment;
-- specific holdings.
-
-## Step 2 — Set the whole-plan target
-
-Open the target editor.
-
-Enter the intended asset-class percentages and the acceptable drift or range where supported.
-
-Use the approved Bitcoin drawdown scenario. Read:
-
-- dollar loss;
-- portfolio decline;
-- Reserve pressure;
-- debt and collateral pressure;
-- retirement timing;
-- chance of success, with the simulation count beneath it.
-
-Keep the target in Preview until the household can hold the result.
-
-## Step 3 — Assign timeframe jobs
-
-Assign the major accounts and holdings to:
-
-- available now / Reserve;
-- before 59½;
-- after 59½;
-- dedicated life events where supported.
-
-Read whether each funding area is on track or behind.
-
-## Step 4 — Build the current waterfall
-
-Open Cash Flow contribution routing.
-
-Use the one verified monthly surplus.
-
-Enter or confirm:
-
-1. Reserve funding pace.
-2. Employer-plan contribution required for the match.
-3. Extra debt from Session 3.
-4. Remaining contribution amount.
-
-Show what happens when the requested amounts exceed the available surplus. The same dollar cannot be counted twice.
-
-## Step 5 — Build the future waterfall
-
-Create the rule for:
-
-- after the high-rate debt is gone;
-- after the Reserve reaches target;
-- after another known temporary claim ends.
-
-Record where the newly freed amount goes next.
-
-## Step 6 — Choose account destinations
-
-For each contribution row, choose the account based on:
-
-- timeframe;
-- access;
-- employer match;
-- tax treatment;
-- investment menu;
-- special-purpose job.
-
-Add an account only when it is genuinely part of the plan. Orange Plan can model the intended account; the member still opens it with the provider.
-
-## Step 7 — Choose Traditional, Roth, or split
-
-For supported employer contributions, compare the tax treatment in Current versus Preview.
-
-Read:
-
-- current take-home or tax effect;
-- lifetime tax impact where shown;
-- future Traditional and Roth balances;
-- RMD or low-income-window effect;
-- retirement timing and chance of success.
-
-Save only the decision the household intends to use.
-
-## Step 8 — Tell each account what the contribution buys
-
-For several different account types, show the supported choices:
-
-- current mix;
-- set asset-class mix;
-- specific holdings.
-
-Confirm that a holding entered for the projection still requires the actual purchase outside the app.
-
-## Step 9 — Reconcile the combined target
-
-Return to the whole-plan Allocation view.
-
-Confirm:
-
-- total Bitcoin across direct, custodial, and ETF exposure;
-- stocks, cash, and other assets;
-- timeframe funding;
-- tax-location mix;
-- account-level intended holdings;
-- current versus target drift.
-
-## Step 10 — Create the outside execution list
-
-The member leaves with no more than five concrete items:
-
-- change payroll contribution;
-- choose Traditional, Roth, or split with the employer;
-- update an investment election;
-- establish a recurring bank, brokerage, or Bitcoin transfer;
-- open or consolidate an account;
-- make an intentional one-time shift after tax review;
-- protect the first committed life-event payment.
-
-## Step 11 — Close the session
-
-Return to Build & improve and confirm the Allocation / contribution-routing task is complete under the final product language.
-
-Read what changed in the Plan:
-
-- target allocation;
-- monthly saving destinations;
-- before-59½ and after-59½ funding;
-- tax treatment;
-- intended holdings;
-- retirement timing;
-- chance of success;
-- any remaining Needs Attention item.
-
-## Session checkpoint
-
-The session is complete when:
-
-- the whole-plan target survives the drawdown test;
-- every major account has a timeframe job;
-- current and future contribution waterfalls are written;
-- the employer match is modeled correctly;
-- the final extra-debt claim is included;
-- every contribution has an account, tax treatment, and intended holding;
-- the combined accounts reach the household target;
-- the member has a short outside execution list;
-- the saved plan contains only decisions the household actually intends to follow.
+- Every contribution has an amount, account, tax treatment, and intended investment.
+- Combined holdings and timeframe jobs are reconciled.
+- External elections, purchases, and transfers have separate completion evidence.
