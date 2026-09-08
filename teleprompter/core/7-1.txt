@@ -1,0 +1,27 @@
+Choose how to hold each meaningful part of the Bitcoin by the job it serves and the failure you want to protect against. Direct control, professional support, family access and lender exposure can matter differently for different parts of the plan.
+
+Then ask what you are trying to protect against. Losing a recovery backup, a provider freezing access, a home disaster, incapacity, a dishonest helper, and family members being unable to carry out the process are different failures. The custody choice should solve the failures that matter to this household.
+
+Direct self-custody gives you control of the signing keys. That reduces dependence on a company to authorize access. You also take responsibility for backup, recovery, physical security, transaction verification, and a process that still works when you are unavailable.
+
+An institutional custodian takes on some operational responsibilities and may provide support, administration, and a documented legal process for the family. In return, you depend on its security, financial condition, withdrawal rules, legal obligations, and ability to serve you. Read the actual ownership and custody agreement rather than assuming every provider holds assets in the same way.
+
+Collaborative multisig can divide signing authority and provide professional support. In a two-of-three arrangement, two valid signers are required under the wallet's policy. One lost key may be survivable, but the household still needs the wallet configuration, accessible remaining keys, and a tested process. The provider's role depends on the actual key distribution and agreement.
+
+An intentional split uses more than one method because different portions have different jobs or because one failure would otherwise affect too much of the plan. It adds maintenance. An extra account earns its place when it removes a meaningful dependence the household can actually manage.
+
+How much direct control matters is a personal decision. Some households want a meaningful amount no institution can restrict. Others value support and family administration more. You can combine those preferences instead of asking one custody method to do every job.
+
+For Alex and Morgan, distinguish the directly controlled Bitcoin, the professionally custodied pool, and the Bitcoin-fund exposure in retirement accounts. Each has a different access and recovery process. A brokerage fund is not recovered from hardware-wallet words, and an account at a professional provider is not the same as holding the keys yourself.
+
+Now test one absence: the usual operator cannot help. Which method still gives the family a safe, legitimate starting path? That question may support an intentional split or professional help, but adding another method is useful only if it reduces a meaningful dependence the household can maintain.
+
+Now run the One-Failure Test. Could one device, backup, person, provider, location, or account-recovery process materially damage the family's financial plan? If so, name the failure and compare the simplest way to reduce it.
+
+Two providers are not independent merely because the apps have different names. They may share a custodian or another important dependency. Several backups in one house share a location risk. A complex setup also creates risk if only one person knows how it works.
+
+The amount at stake changes the consequences. A setup that was adequate for a replaceable balance may need review when it represents the household's retirement. That does not automatically require multisig or another account. It requires a fresh look at what a single failure could do and whether the recovery process is adequate.
+
+Choose the current direction before moving funds. State the job of each pool, the control preference, the main protection gained, and the risk retained. Then identify the first unfinished action. It may be proving a backup, reviewing the provider agreement, hardening access, or simplifying a process the family cannot follow.
+
+Choose the direction for each pool and one next protection action. Explain the control gained, the new responsibility, and the risk retained. We will prove the relevant recovery process before treating the setup as ready for meaningful money.

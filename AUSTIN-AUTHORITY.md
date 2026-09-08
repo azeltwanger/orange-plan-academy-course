@@ -1,11 +1,9 @@
-# Austin authority
+# Current course authority
 
-Austin's dictation controls spoken voice, examples, and planning judgment. Factual corrections, current-app corrections, and safe professional boundaries may be applied without disguising new planning opinions as Austin's words.
+Use Austin's newest explicit decisions and dictation first. Accepted app contracts govern product terminology and required behavior; actual validated captures establish what ships. The Academy promise governs the finished outcome. Slide decks govern the teaching concepts and decision sequence, with documented corrections for outdated rules. Coaching calls supply real questions and explanatory detail without becoming public client examples. Current primary verification governs changeable facts. The older master is supplemental.
 
-The four currently dictated core scripts are 0.1, 1.1, 1.2, and 2.2. Every other core and advanced teach script is explicitly labeled as a pre-dictation filming draft.
+The approved spine is Start Here plus ten guided sessions. Cash flow precedes debt decisions; debt claims are finalized before contribution routing. Allocation explains the current position, whole-household target, horizon, waterfall, wrapper, Traditional/Roth choice and holdings. Strategic debt is core. The example household is fictional. Healthcare contains no family medical anecdote. Custody is a trade-off and continuity decision, not a wealth ladder. Bitcoin can remain part of five-plus-year funding with explicit committed needs and fallback planning.
 
-The slide decks control the teaching sequence. The current production app controls the walkthrough. Build Your Plan controls whether implementation is actually complete.
+Keep direct explanations. Remove rhetorical “not this, but that” openings when the positive explanation works. Preserve factual distinctions and necessary warnings; do not remove a safety condition to satisfy a style scan. Define unfamiliar financial concepts, show a worked example and finish with a decision or checkpoint.
 
-No universal college split, contribution priority exception, loan amount, Bitcoin allocation, insurance amount, trust clause, or custody-key split may be invented and attributed to Austin.
-
-Custody is not a wealth ladder. Institutional custody and an intentional split can be legitimate planning choices; no custody method is prescribed solely by balance, sophistication, or status.
+The new canonical files are complete pre-dictation drafts. Their editorial status is not Austin's voice approval, licensed sign-off, app validation or launch approval. Preserve the source files and history; never call invented connective wording prior dictation.

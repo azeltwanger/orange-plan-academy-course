@@ -1,85 +1,71 @@
-# Screen-Share Shoot List — capture run sheet
+# Screen and device production list
 
-> **GENERATED** from the capture sheets in `scripts/`. Do not edit this
-> file: edit the sheet, then run `python3 tools/build-shoot-list.py`.
-> The sheet beside your keyboard is the sheet in `scripts/`; this is the
-> order to shoot them in and what each one needs staged first.
+All eleven practical recordings remain unapproved until a matching entry in CAPTURE-RECEIPTS.md is completed. Each source includes the run sheet, evidence checks and spoken cues.
 
-**10 capture sessions, covering 10 capture lessons · ~159 min of raw capture.**
+## W01 — Build the first working plan
 
-A session is one continuous recording. Where a sheet names more than one
-lesson, it is filmed once and the edit splits it at the cut point.
+[Run sheet and cues](scripts/working/W01_build-the-first-working-plan.md)
 
-Seed the demo account with the couple's canonical numbers before the
-first segment (ONE-TIME SETUP in PRODUCTION-CHECKLIST.md). Clean browser
-profile, notifications off, 5 seconds of stillness before the first click
-and after the last.
+Ask the member to explain, without repeating the whole course: what the household owns; how the monthly money is accounted for; which retirement date is a choice; which assumptions drive the result; where funding comes from in one relevant year; and the next check or comparison. Unfinished purchase details remain explicit and do not become invented zeroes. An unresolved prerequisite or unavailable full result is not marked complete.
 
-**Evergreen rule:** never zoom on or read out a law-set number (brackets,
-limits, exemptions). Call it "the current number the app shows" and move on.
+Proceed to W02 to verify spending more fully and choose reserve funding. Keep the accepted Reserve chapters there unchanged. This run sheet does not certify an engine run, usable release, actual save, completed transfer, recording or launch.
 
-**Film each module's capture in ONE continuous session.** App state builds
-forward and restarting is where the retakes come from. Where a sheet has
-`✂ CUT POINT` markers, the edit can split it into several videos later.
+## W02 — Verify cash flow, set the Reserve, and add expected events
 
----
+[Run sheet and cues](scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md)
 
-## ☐ 1.4 · WALKTHROUGH — Replace the onboarding estimate with real Foundation data
+The spending basis and available pool are believable. The reserve has a target, eligible sources, gap, and proposed pace. The member can explain when access to cash matters more than faster extra-debt repayment and what would trigger reviewing the pace. The proposed reserve amount carries into Debt and Allocation without being spent twice. Expected events have timing and a funding explanation; possibilities remain separate. College is optional and does not own the required next-session handoff. No wallet recovery, financial transfer, capture, or outside action is certified by the run sheet.
 
-*Screen capture · about 20 minutes*  ·  sheet: `scripts/01-4_WALKTHROUGH_foundation.md`
+## W03 — Set debt jobs and test one financing decision
 
----
+[Run sheet and cues](scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md)
 
-## ☐ 2.5 · WALKTHROUGH — Build cash flow, the Reserve, and expected life events
+Every current obligation has verified terms and one job. Proposed borrowing stays in Scenarios; an existing loan remains Debt; recurring retirement borrowing belongs in retirement strategy. W04 receives the final affordable extra-debt claim.
 
-*Screen capture · about 18 minutes*  ·  sheet: `scripts/02-5_WALKTHROUGH_cash-flow-reserve-life-events.md`
+## W04 — Route contributions into usable accounts and intended holdings
 
----
+[Run sheet and cues](scripts/working/W04_route-contributions-into-usable-accounts-and-intended-holdings.md)
 
-## ☐ 3.5 · WALKTHROUGH — Route the investable surplus
+All contribution claims fit available money. Every receiving account has a usable tax/access role and intended investment. The target and timeframe needs reconcile. Outside actions have separate proof of completion.
 
-*Screen capture · about 22 minutes*  ·  sheet: `scripts/03-5_WALKTHROUGH_route-the-investable-surplus.md`
+## W05 — Reconcile tax records and prepare one useful comparison
 
----
+[Run sheet and cues](scripts/working/W05_reconcile-tax-records-and-prepare-one-useful-comparison.md)
 
-## ☐ 4.2 · WALKTHROUGH — Give every debt a job and update the waterfall
+Purchase-detail gaps are honest, duplicate/transfer handling preserves the position, and one relevant tax comparison has a professional handoff. Uncertain execution or filing facts remain gated.
 
-*Screen capture · about 10 minutes*  ·  sheet: `scripts/04-2_WALKTHROUGH_debt-strategy.md`
+## W06 — Build and test the retirement paycheck
 
----
+[Run sheet and cues](scripts/working/W06_build-and-test-the-retirement-paycheck.md)
 
-## ☐ 5.3 · WALKTHROUGH — Reconcile basis and model the tax window
+The household can explain spending, floor, gap, account access, withdrawals, reserve behavior, borrowing risk, and the annual review. Capture remains held for any unsupported financial behavior; a roadmap document is not proof of release capability.
 
-*Screen capture · about 15 minutes*  ·  sheet: `scripts/05-3_WALKTHROUGH_tax.md`
+## W07 — Document the custody choice and actual recovery status
 
----
+[Run sheet and cues](scripts/working/W07_document-the-custody-choice-and-actual-recovery-status.md)
 
-## ☐ 6.4 · WALKTHROUGH — Build the retirement paycheck
+The method is intentional, dependencies are named, recovery status is truthful, and one next action has an owner. No seed, private key, passphrase, descriptor contents, xpub, password, or location exposed.
 
-*Screen capture · about 18 minutes*  ·  sheet: `scripts/06-4_WALKTHROUGH_retirement-paycheck.md`
+## D07 — Prove a wallet backup with a safe test setup
 
----
+[Run sheet and cues](scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md)
 
-## ☐ 7.4 · DEMO — Hardware-wallet recovery and exchange hardening
+A successful small-value recovery of the intended wallet is demonstrated under the exact reviewed procedure. The production export contains no usable key material or sensitive recovery metadata. Without actual hardware proof, this demonstration remains unfilmed and unapproved.
 
-*External screen / device recording · about 12 minutes*  ·  sheet: `scripts/07-4_DEMO_hardware-wallet-and-exchange-hardening.md`
+## W08 — Build and rehearse the family handoff
 
----
+[Run sheet and cues](scripts/working/W08_build-and-rehearse-the-family-handoff.md)
 
-## ☐ 7.5 · WALKTHROUGH — Document the custody decision and current status without storing secrets
+The family can identify the first contact and actions; legal, insurance, and technical holds remain visible. Letter generation does not complete legal authority, recovery, delivery, or policy review.
 
-*Screen capture · about 10 minutes*  ·  sheet: `scripts/07-5_WALKTHROUGH_document-the-custody-decision-and-status.md`
+## W09 — Complete a monthly review and an annual review
 
----
+[Run sheet and cues](scripts/working/W09_complete-a-monthly-review-and-an-annual-review.md)
 
-## ☐ 8.5 · WALKTHROUGH — Build the family handoff in Protect
+A quiet month stays short, a material change is handled honestly, and the annual plan has a complete review path. No automatic reassignment of a paid-off debt payment is presumed.
 
-*Screen capture · about 12 minutes*  ·  sheet: `scripts/08-5_WALKTHROUGH_family-handoff.md`
+## W10 — Read, explain, and save the finished plan
 
----
+[Run sheet and cues](scripts/working/W10_read-explain-and-save-the-finished-plan.md)
 
-## ☐ 9.3 · WALKTHROUGH — Finish, test, review, and save the plan
-
-*Screen capture · about 22 minutes*  ·  sheet: `scripts/09-3_WALKTHROUGH_finish-test-review-and-save.md`
-
----
+The learner can explain where the household stands, how new money is used, how retirement is funded, what could change the answer, who starts the family process, and what happens next. Watching videos alone does not satisfy the practical completion checks.

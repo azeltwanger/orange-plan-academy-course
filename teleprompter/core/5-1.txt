@@ -1,0 +1,23 @@
+Before comparing the tax cost of a sale, separate the cash you receive from the gain you realize. The purchase history helps explain that difference, and the units properly identified for sale can change it.
+
+For Bitcoin, each acquisition can create a lot with its own quantity, acquisition date, and basis. The records need to explain which units were acquired and which were later disposed of. A current market value tells you what the holding is worth today. It does not tell you the taxable gain.
+
+Use the example from the tax deck. One purchase was a quarter of a Bitcoin at fifty-eight thousand dollars per coin, for fourteen thousand five hundred dollars. Another was half a Bitcoin at sixteen thousand per coin, for eight thousand dollars. A third was two-tenths at fifty-two thousand, for ten thousand four hundred dollars. For this simplified example, we leave fees out and identify that assumption explicitly.
+
+Now sell two-tenths of a Bitcoin at the hypothetical price on screen. Every version produces twenty thousand dollars of proceeds before fees. The table shows the allocated basis and gain from each of the three purchases. The gains range from eighty-four hundred to sixteen thousand eight hundred.
+
+The sale amount has not changed. What changed is the cost of the units identified as sold. You can use that comparison before selling, but only for units and an identification process the records actually support. The smallest displayed gain does not prove the real sale can use that lot.
+
+The amount sold and cash received are identical. The gain differs because the acquisition cost differs. Holding period can also affect treatment. Fees, adjustments, and the actual identification rules have to be included for a real transaction.
+
+That makes basis useful before selling. You can compare which sale funds the need with the expected tax cost, which records are missing, and whether a low-income year creates an opportunity. A high-basis lot may reduce tax today; using it also leaves different lots for later. The full plan determines which trade-off is useful.
+
+Transfers between your own accounts require continuity. Moving Bitcoin from an exchange to self-custody does not by itself create a new purchase at the transfer-date market price. Preserve the original acquisition history and known basis through the movement. Otherwise a record can show a gain that never occurred, lose the original cost, or count the same Bitcoin twice.
+
+A linked balance and a transaction history are different kinds of evidence. Adding older records to explain the current position should not increase the position again. Likewise, importing a withdrawal does not prove a sale. It may be a transfer that still needs its destination identified.
+
+Lot selection also needs a process. An app setting such as highest-in-first-out is not a substitute for satisfying applicable identification rules. The supported records, account or wallet, broker process, transaction timing, and current-year rules all matter. Decide how identification will be documented before the sale, not months later when choosing the lowest tax number.
+
+For now, collect the purchase date, quantity, amount paid, known fees, and transfer history you can substantiate. Keep uncertain details visibly uncertain. A blank cost basis is a record problem to resolve, not evidence that the asset was acquired for free.
+
+Choose a holding you may need to use and identify the records required to explain its sale. You should be able to distinguish proceeds, basis, gain, and holding period. We will resolve missing history before relying on it for the tax-sensitive decision, while continuing the planning work that does not depend on it.

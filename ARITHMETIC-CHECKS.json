@@ -1,0 +1,247 @@
+{
+  "scope": "Arithmetic teaching checks only; no retirement forecast, tax opinion, lender assurance or model acceptance.",
+  "checks": [
+    {
+      "check": "starting pool before employee contribution",
+      "value": 1275.0,
+      "status": "PASS"
+    },
+    {
+      "check": "employee contribution",
+      "value": 775.0,
+      "status": "PASS"
+    },
+    {
+      "check": "separate employer match",
+      "value": 387.5,
+      "status": "PASS"
+    },
+    {
+      "check": "starting unassigned monthly cash",
+      "value": 500.0,
+      "status": "PASS"
+    },
+    {
+      "check": "adopted reduced-spending pool",
+      "value": 2475.0,
+      "status": "PASS"
+    },
+    {
+      "check": "funded waterfall residual",
+      "value": 3e-24,
+      "status": "PASS"
+    },
+    {
+      "check": "checking holdings sum",
+      "value": 18000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "reserve holdings sum",
+      "value": 32000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "taxable_brokerage holdings sum",
+      "value": 115000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "direct_bitcoin holdings sum",
+      "value": 340000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "direct_bitcoin fixed-price value",
+      "value": 340000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "custodied_bitcoin holdings sum",
+      "value": 70000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "custodied_bitcoin fixed-price value",
+      "value": 70000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "alex_traditional_401k holdings sum",
+      "value": 410000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "morgan_solo_401k holdings sum",
+      "value": 95000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "alex_roth_ira holdings sum",
+      "value": 145000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "morgan_traditional_ira holdings sum",
+      "value": 82000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "included balance-sheet assets",
+      "value": 1996000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "total debt",
+      "value": 444500.0,
+      "status": "PASS"
+    },
+    {
+      "check": "scoped net worth",
+      "value": 1551500.0,
+      "status": "PASS"
+    },
+    {
+      "check": "general portfolio",
+      "value": 1307000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "Bitcoin exposure",
+      "value": 728000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "stock exposure",
+      "value": 504000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "cash and Treasury teaching category",
+      "value": 75000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "Bitcoin-only stress loss",
+      "value": 509600.0,
+      "status": "PASS"
+    },
+    {
+      "check": "partial combined-stress assets",
+      "value": 1217200.0,
+      "status": "PASS"
+    },
+    {
+      "check": "target sums to one",
+      "value": 1.0,
+      "status": "PASS"
+    },
+    {
+      "check": "target Bitcoin difference",
+      "value": 56200.0,
+      "status": "PASS"
+    },
+    {
+      "check": "reserve target",
+      "value": 43200.0,
+      "status": "PASS"
+    },
+    {
+      "check": "reserve gap",
+      "value": 11200.0,
+      "status": "PASS"
+    },
+    {
+      "check": "reserve build months before interest",
+      "value": 22.4,
+      "status": "PASS"
+    },
+    {
+      "check": "education assignment once",
+      "value": 58000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "college pre-funding gap",
+      "value": 51000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "flat-cost zero-growth benchmark",
+      "value": 850.0,
+      "status": "PASS"
+    },
+    {
+      "check": "future routing sum",
+      "value": 1605.0,
+      "status": "PASS"
+    },
+    {
+      "check": "card payoff releases",
+      "value": 1605.0,
+      "status": "PASS"
+    },
+    {
+      "check": "illustrative sale proceeds",
+      "value": 20000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "sale gain using lot 1",
+      "value": 8400.0,
+      "status": "PASS"
+    },
+    {
+      "check": "sale gain using lot 2",
+      "value": 16800.0,
+      "status": "PASS"
+    },
+    {
+      "check": "sale gain using lot 3",
+      "value": 9600.0,
+      "status": "PASS"
+    },
+    {
+      "check": "sequence down then up",
+      "value": 887500.0,
+      "status": "PASS"
+    },
+    {
+      "check": "sequence up then down",
+      "value": 910000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "equal pretax Traditional end",
+      "value": 1600.0,
+      "status": "PASS"
+    },
+    {
+      "check": "equal pretax Roth end",
+      "value": 1600.0,
+      "status": "PASS"
+    },
+    {
+      "check": "50 percent initial LTV fixed-debt drop to 80",
+      "value": 0.375,
+      "status": "PASS"
+    },
+    {
+      "check": "25 percent initial LTV fixed-debt drop to 80",
+      "value": 0.6875,
+      "status": "PASS"
+    },
+    {
+      "check": "reserve after hypothetical project",
+      "value": 2000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "same sale gain illustration",
+      "value": 4000.0,
+      "status": "PASS"
+    }
+  ],
+  "current_dta_percent": 22.269539078156313,
+  "partial_stress_dta_percent": 36.51823858034834
+}

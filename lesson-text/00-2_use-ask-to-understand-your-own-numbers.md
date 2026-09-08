@@ -1,0 +1,65 @@
+# 0.2 — Use Ask to understand your own numbers
+
+Status: SOURCE_LED_REVIEW — revised using the accepted Reserve reference; integrated wording awaits Austin's review.
+Adapted source: `course-v2/sessions/00-start-here.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`, Austin's August 25 AI direction, and the sources identified in `delivery/source-led-batch-01.md`.
+App references: accepted redesign direction; Ask and optional feature inserts retain APP_CAPTURE.
+
+Kind: teach
+Gate: APP_CAPTURE
+Sources: DICTATION, APP, LANDING
+
+### Read aloud
+
+As you build your plan, you'll have questions about the numbers you're seeing. Maybe the amount left to invest looks higher than what you actually have. Maybe the retirement date looks much earlier than you expected. Ask is there to help you work through that question.
+
+I would start with the number you're trying to understand, rather than asking it to optimize your entire financial life at once.
+
+On cash flow, a useful question is, "Walk me from my income to the amount left to save. Show me what's being subtracted." Then follow that explanation back to the numbers in the plan. Can you see the income, the spending, the taxes, the debt payments, and the contributions it is talking about?
+
+That last step matters. You want to understand where the number comes from well enough that you can return next month and follow it again. An answer that sounds reassuring but doesn't explain the calculation hasn't finished the job.
+
+We'll use Alex and Morgan's original cash flow as an example. After the costs and employee contribution in that illustration, they have five hundred dollars left. Before deciding how to use it, I would ask, "What has already come out before this five hundred dollars? Is the employee contribution included?"
+
+Their employer's contribution is additional retirement money. It isn't money they can spend on the bills. We will check that distinction in the plan rather than accept a second, different total from the assistant.
+
+You can also use a question to find what deserves attention. Try, "Which missing information could change this decision the most? Explain why." A missing loan payment might be important to today's cash flow. An old Bitcoin purchase date matters to a different question. Ask for that distinction so you don't spend the whole session cleaning up something unrelated to the choice in front of you.
+
+When the numbers are clear, use Ask to help frame a comparison. "What should I compare before deciding whether to pay extra on this debt?" Or, "What changes if I put this contribution in a retirement account instead of keeping it accessible?"
+
+I also like asking what I might be overlooking: "What would make this choice less useful than it looks? Which assumption is doing the most work?" That is more helpful than asking the assistant to agree with the option you already prefer.
+
+Then look at the actual modeled comparison. Check the amount, the timing, what stayed the same, and what else would have to change. A written explanation and a calculation have different jobs. The explanation helps you understand the choice; the plan is where you verify its effect. A proposed change still needs your decision before it becomes the plan you intend to follow.
+
+For a tax or legal question, use the discussion to get prepared. For example, "Summarize the facts and questions I should take to my CPA about this conversion." The useful output is a focused question with the relevant information behind it, not permission to carry out a transaction without checking your circumstances.
+
+Market context has a different purpose. Read when the information was checked and where it came from. Then ask whether it changes a planning decision, a payment risk, or an assumption you need to review. A move in Bitcoin's price can matter, but a news headline by itself isn't a reason to rewrite every part of the plan.
+
+Be deliberate about what you share. A summary for an outside AI tool and a backup used to restore the whole plan are different files. Review any file before uploading it elsewhere. Even when names and account identifiers have been removed, the financial details can still be sensitive.
+
+Wallet recovery words, private keys, passphrases, PINs, passwords, and account credentials do not belong in a planning prompt. You don't need them to explain cash flow or compare retirement choices.
+
+For now, choose one question about a number or decision you care about. We'll use the populated example in the working session so you can see the question, the explanation, and the underlying number together. The finish line is being able to explain the answer yourself and knowing the next thing to check or compare.
+
+### Visual notes — not spoken
+
+Use prompt cards, one at a time: explain a number; identify missing information; frame a comparison; challenge a preferred choice; prepare a professional question. Keep the actual result beside its relevant source rows during W01 chapter 10. Do not stage an AI reply or a calculated result. No recreated app interface is needed for the concept take.
+
+### Screen-dependent inserts — record only after verification
+
+**Market report insert, paired with W01 chapter 10:** "The daily Bitcoin market report is a quick way to see the market information collected for this report. Start with its date and sources. We will read the price changes and the other developments it actually covers, then ask whether anything needs attention in the plan. You don't need to turn every market update into a trade."
+
+**Outside-AI summary insert, paired with W01 chapter 10:** "This is the planning-summary export for an outside AI review. Before sharing it, open the file and check what it contains. Share only what the question needs. Keep the restoration backup separate."
+
+These are prepared narration, not claims of verified availability. The exact entry point, coverage, permissions, file contents and privacy behavior must be shown in the approved build. If an expected feature is absent, hold its insert and report the course/offer gap. Do not silently weaken the promise, invent a replacement, or present a prototype as shipped.
+
+### Production notes
+
+Source ledger: `delivery/source-led-batch-01.md`. Preserve Austin's benefits-first request; keep the privacy explanation proportional and practical. The five-hundred-dollar example is the unchanged original Reed cash-flow arithmetic under its illustrative tax provision, not a new engine result. The private call's learner confusion motivates tracing the number; no client dialogue or identifying facts are reproduced.
+
+APP_CAPTURE remains for the complete lesson. General prompt habits can be rehearsed now; any claim that Ask reads context, routes changes, or provides particular exports must match the actual demonstration. Do not claim the assistant computes authoritative projections, automatically saves a strategy, has every prior result in context, or guarantees anonymization.
+
+### Member checkpoint
+
+- Ask one focused question about a number or choice.
+- Trace the answer to the actual input or calculation and explain it in your own words.
+- Identify one next check or comparison while keeping sensitive records private.

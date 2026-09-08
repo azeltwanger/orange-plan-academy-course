@@ -1,0 +1,22 @@
+name: Verify current Academy course
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Check current course and member documents
+        run: |
+          python tools/guided_course.py check
+          python tools/guided_course.py test
+          python -m unittest discover -s tests -p test_member_deliverables.py -v
+          python tools/guided_course.py history
+          git diff --exit-code
