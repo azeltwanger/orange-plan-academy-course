@@ -1,0 +1,110 @@
+[
+  {
+    "file": "course-v2/sessions/04-allocation-and-next-dollar.md",
+    "old": "The original deck describes different Bitcoin paths, from someone still learning to someone using Bitcoin as the main long-term asset. Use those descriptions to recognize your current understanding and experience. They are not recommended percentages or a ladder that requires every member to keep increasing exposure.",
+    "new": "The four Bitcoin paths describe how Bitcoin fits into someone's financial life.\n\nFoundation is someone who is still learning. Bitcoin is a small part of the picture, and the immediate work is understanding what they own, how it behaves, and how to keep it secure.\n\nIntegration is someone who has decided Bitcoin belongs in the plan alongside other investments. They can explain why they own it and are starting to connect the position to their savings, accounts, and future spending.\n\nOptimization is someone using Bitcoin as a main growth asset. Account access, taxes, cash reserves, and custody become important parts of supporting that position. They need to know what happens to the entire household when Bitcoin has a difficult year.\n\nSovereign describes someone who treats Bitcoin as the main place to store long-term purchasing power. Direct control may matter deeply to them. Their planning work is making sure everyday bills, debt, taxes, and family needs can be handled while that long-term position stays invested.\n\nRecognize where you are today, including how you have actually behaved through a drawdown. More education may strengthen your conviction. A new child, an approaching retirement date, or a less stable income may change the amount you can comfortably support. The dollar test comes next.",
+    "reason": "Explain all four source-deck paths instead of referring to an unexplained visual."
+  },
+  {
+    "file": "course-v2/sessions/04-allocation-and-next-dollar.md",
+    "old": "The slide deck uses low-, moderate-, and high-volatility paths to show how the job influences the investment. Use that as a reasoning tool rather than a rigid rule that every dollar at a particular year must be sold out of Bitcoin. The amount, timing flexibility, other resources, and consequence of being short can change the decision.",
+    "new": "Use the Reserve, Bridge, and Forever picture to think about the investment horizon as well.\n\nReserve is the low-volatility path. The original zero-to-three-year range illustrates money that needs to stay liquid and dependable. An emergency fund is sized in months of essential spending; this range does not mean every household needs three years of expenses in cash.\n\nBridge is the middle path. The four-to-ten-year range illustrates money with time to grow, but with an approaching use. The mix depends on how fixed that date and amount are. Someone buying a house on a signed contract needs a more dependable source than someone considering a flexible purchase several years away.\n\nForever is the long-term path, illustrated as ten years or more. When earlier needs are covered, this money has more time to remain invested through volatility. It may support later retirement, family wealth, or a legacy.\n\nThose investment horizons answer when a particular dollar will be spent. Before and after fifty-nine and a half answer a separate account-access question. A taxable account can contain Forever money. A retirement account can contain cash for an upcoming permitted withdrawal. Look at both questions before choosing the holding.\n\nFor each amount, ask when you need it, how flexible the date is, what other resources could cover it, and what being short would mean. That is how you decide how much volatility belongs in that job.",
+    "reason": "Restore the complete timeframe visual and distinguish investment horizon from account access."
+  },
+  {
+    "file": "course-v2/sessions/04-allocation-and-next-dollar.md",
+    "old": "The deck's order is a useful starting comparison: protect essential liquidity, consider the employer match, apply the extra-debt decision, then route the remainder by timeframe and account.",
+    "new": "Work through the same order each time: protect essential liquidity, consider the employer match, apply the extra-debt decision, then route the remainder by timeframe and account.",
+    "reason": "Remove source-document narration from spoken instruction."
+  },
+  {
+    "file": "course-v2/sessions/04-allocation-and-next-dollar.md",
+    "old": "Once the dollar's job is clear, choose an account that can perform it. Start with access, eligibility, available investments, tax treatment, and cost.",
+    "new": "Once the dollar's job is clear, choose an account that can perform it. Start with access, eligibility, available investments, tax treatment, and cost.\n\nFor long-term dollars after an employer match, the waterfall shows HSA, then IRA, then additional workplace-plan contributions. Here is the reasoning behind that comparison. An eligible HSA can combine a contribution tax benefit with tax-free qualified medical spending. An IRA can give you a broader investment menu and more control over costs. The workplace plan may offer more contribution room and the convenience of payroll saving.\n\nYour actual menu and needs can change the order. A low-cost workplace plan with the investment you want may be more useful than an expensive IRA arrangement. Money needed for early retirement may need to go to a taxable account while the long-term accounts are already on track. Check the job first, then the wrapper's benefits.",
+    "reason": "Explain the HSA / IRA / additional 401(k) branch instead of presenting unexplained account ordering."
+  },
+  {
+    "file": "course-v2/sessions/02-cash-flow-reserve-and-life-events.md",
+    "old": "In the Reed example, the existing education account already has a specific job. We keep it separate from the general retirement portfolio. We then compare the family commitment with that account and the other sources they are willing to use. If there is a gap, we can change the saving pace, the commitment, the timing of other spending, or the funding mix.",
+    "new": "Let's work through the saving gap. Alex and Morgan have fifty-eight thousand dollars in education savings for two children. First confirm which beneficiary each account serves. For this illustration, they set aside twenty-nine thousand for the older child's plan and preserve the other twenty-nine thousand for the younger child. That is a planning assignment; any actual account or beneficiary change needs its own review.\n\nSuppose they want their entire eighty-thousand-dollar commitment ready when the older child starts college in five years. Eighty thousand minus twenty-nine thousand leaves fifty-one thousand. Spread that over sixty months and the rough saving benchmark is eight hundred fifty dollars a month.\n\nThat calculation holds costs flat and gives the savings no investment growth. It is a first comparison, not a projection of tuition or Bitcoin. Next include the cost increase you expect, the timing of each year's payment, the investments already held, taxes where relevant, and any income they intend to use during college. Run a weaker investment outcome as well. Each change should have an understandable effect on the remaining gap.\n\nNow connect the amount to cash flow. During their reserve-building and extra-card-payment phase, Alex and Morgan already assigned every available dollar. Adding an eight-hundred-fifty-dollar college line would overcommit that same money. They have to change another claim, choose a smaller parental commitment, use an identified existing resource, or begin a different saving pace after the card is paid off. The later start also leaves fewer months to save, so the amount needs to be recalculated.\n\nThis is why the college decision belongs in the full household plan. You are deciding how much help you can fund alongside retirement and other commitments, and making that expectation clear to your child.",
+    "reason": "Add a fully reconciled college savings-gap example, two-child allocation, timing limits and affordability check."
+  },
+  {
+    "file": "course-v2/sessions/02-cash-flow-reserve-and-life-events.md",
+    "old": "A separate worksheet can make the family decision explicit without claiming the software has optimized every college choice.",
+    "new": "The college worksheet walks through the same commitment, resources, shortfall, and saving-pace calculation. Use it alongside the plan to make the family decision explicit.",
+    "reason": "Give the learner an actual companion worksheet instead of a generic capability disclaimer."
+  },
+  {
+    "file": "course-v2/sessions/04-allocation-and-next-dollar.md",
+    "old": "Use the same principle for cash. Some cash supports the normal bill cycle, some is assigned to the Reserve, and some may be waiting for an upcoming purchase.",
+    "new": "Look at two accounts from the example. Alex's four-hundred-ten-thousand-dollar Traditional 401(k) holds two hundred eighty-seven thousand in stock funds and one hundred twenty-three thousand in a spot Bitcoin fund. That account is seventy percent stocks and thirty percent Bitcoin exposure. His one-hundred-forty-five-thousand-dollar Roth IRA holds twenty-nine thousand in stock funds and one hundred sixteen thousand in a spot Bitcoin fund: twenty percent stocks and eighty percent Bitcoin exposure.\n\nThe personally held Bitcoin is a different pool, with its own access and custody. The cash accounts have another job. Add the actual holdings across all the included accounts to get the household mix. Giving every account the same percentage would ignore what the other accounts already provide.\n\nAsset location adds the tax question. Interest and some distributions can create a tax bill while money stays invested in a taxable account. A retirement wrapper changes when that tax is paid. Qualified Roth growth can be valuable for long-term assets, while accessible taxable money may be essential for the early years. Compare the expected tax drag, the investment's risk, and when the household needs the money. Moving an existing taxable holding can itself create a sale and a tax bill, so changing future contributions may be the simpler first comparison.\n\nUse the same principle for cash. Some cash supports the normal bill cycle, some is assigned to the Reserve, and some may be waiting for an upcoming purchase.",
+    "reason": "Work through actual holdings per account and teach asset location with account access and transaction costs."
+  },
+  {
+    "file": "course-v2/sessions/04-allocation-and-next-dollar.md",
+    "old": "For every receiving account, decide whether new money should follow the current mix, a selected asset-class mix, or specific supported holdings.",
+    "new": "Once the card is paid off, the example frees up sixteen hundred five dollars a month while the five-hundred-dollar reserve contribution continues. As a comparison, they could direct one thousand of that new room to personally held Bitcoin and six hundred five to a broad stock fund in a taxable brokerage account. Both support accessible money, and together they use exactly the newly available amount. The existing payroll contribution and employer match remain separate.\n\nThat is an illustrative route to test against their funding needs and current holdings. It is not an engine recommendation or money available during the earlier card-payoff phase. The account destination tells us where it lands; the investment election tells us what it buys.\n\nFor every receiving account, decide whether new money should follow the current mix, a selected asset-class mix, or specific supported holdings.",
+    "reason": "Finish the waterfall with an affordable future account-and-holding routing example."
+  },
+  {
+    "file": "course-v2/sessions/06-retirement-paycheck.md",
+    "old": "We are not using a personal family story or assuming one option is best for the audience. The course's job is to make the options and trade-offs understandable. Verify current terms directly and discuss insurance-specific questions with an appropriately licensed professional.",
+    "new": "Get the current terms in writing and compare them with the risks your household is willing and able to carry. Discuss the insurance-specific questions with an appropriately licensed professional before ending coverage you still need.",
+    "reason": "Remove production instruction about personal medical stories from the read-aloud script."
+  },
+  {
+    "file": "course-v2/sessions/06-retirement-paycheck.md",
+    "old": "For Alex and Morgan, the final working-session chapter will read the available guardrail policy, explain the current status, and compare one annual decision without silently applying it. If the redesign's portfolio-level thresholds are not implemented and validated in the release being recorded, we will hold that screen capture rather than relabel older probability controls as dollar guardrails.",
+    "new": "In the final working-session chapter, we will read the guardrail status, compare an annual spending choice, and look at how the proposed amount affects the coming year's funding. The spending decision stays a preview until the household chooses to save it.",
+    "reason": "Keep implementation/capture holds in production notes, not student narration."
+  },
+  {
+    "file": "course-v2/sessions/07-custody.md",
+    "old": "An encrypted Orange Plan export has a separate job. It may help restore financial-plan data when the supported restore process is available and verified. It is not a Bitcoin wallet backup. Keep the export password and restoration instructions protected, and never assume the existence of an export proves that every restoration feature in a changing release works.",
+    "new": "Keep the financial-plan backup separate from the Bitcoin recovery backup. One restores planning records; the other is part of recovering access to the Bitcoin. Protect the plan-export password and test the documented restore process before relying on it. A file you have never tested leaves an unanswered recovery question.",
+    "reason": "Replace release-engineering language with a practical distinction and restore test."
+  },
+  {
+    "file": "course-v2/sessions/07-custody.md",
+    "old": "In the working session, we will document the non-secret plan in Protect using only the fields the release supports. External tasks remain in the action list.",
+    "new": "In the working session, we will document the non-secret plan in Protect. External tasks remain in the action list.",
+    "reason": "Move capability testing out of spoken copy; keep existing capture gate."
+  },
+  {
+    "file": "course-v2/sessions/09-maintenance.md",
+    "old": "We will follow the canonical owner for the record, review the resulting Plan state, and keep the proposed strategy separate until saved.",
+    "new": "We will update the account or income record where it belongs, review the resulting plan, and keep a proposed strategy separate until saved.",
+    "reason": "Remove internal canonical-owner terminology from narration."
+  },
+  {
+    "file": "course-v2/advanced/02-access-custody-and-estate.md",
+    "old": "The demonstration is gated to the specific wallet and version. It will show the concept with a safe test setup, not reveal real addresses or secret material. You may conclude that no consolidation is necessary now.",
+    "new": "The separate demonstration uses a small test setup. Match any procedure to your own wallet and backup method before using it. You may conclude that no consolidation is necessary now.",
+    "reason": "Move production gating out of the advanced UTXO narration."
+  },
+  {
+    "file": "course-v2/advanced/02-access-custody-and-estate.md",
+    "old": "A diagram in an old deck is not enough to implement one, and a Bitcoin return assumption must not be treated as assured funding of the obligations.",
+    "new": "The attorney and tax professional need to test the proposed funding and obligations under less favorable outcomes, including lower Bitcoin returns.",
+    "reason": "Replace reference to an old deck with the actual professional decision."
+  },
+  {
+    "file": "course-v2/sessions/00-start-here.md",
+    "old": "This is education for making and reviewing your own decisions. Current tax treatment, legal documents, insurance contracts, and lending terms need verification for your situation before you act.",
+    "new": "This is education for making and reviewing your own decisions. The account and tax lessons use United States rules. Outside the United States, use the planning process with account, tax, and legal guidance for your own country. Current tax treatment, legal documents, insurance contracts, and lending terms need verification for your situation before you act.",
+    "reason": "Retain explicit jurisdiction scope once in the orientation."
+  },
+  {
+    "file": "course-v2/DEMO-HOUSEHOLD.md",
+    "old": "- Morgan self-employed gross income: $78,000, variable by year",
+    "new": "- Morgan income: $78,000 after ordinary business operating costs, before the equipment-loan payments modeled separately; variable by year. This is not gross business revenue or a verified tax-return profit figure.",
+    "reason": "Correct the narrative fixture to match its existing JSON cash-flow convention."
+  },
+  {
+    "file": "course-v2/sessions/06-retirement-paycheck.md",
+    "old": "The old Reserve, Bridge, and long-term diagram is useful",
+    "new": "The Reserve, Bridge, and long-term funding diagram is useful",
+    "reason": "Remove legacy-document narration while preserving the underlying teaching."
+  }
+]
