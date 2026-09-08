@@ -1,6 +1,6 @@
 # 6.4 — Choose account withdrawals and asset sales separately
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/06-retirement-paycheck.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: RETIREMENT, RETIREMENT_DECK, TAX, APP, PRIMARY
 
 ### Read aloud
 
-Now decide where the retirement cash comes from. There are two related choices: which account provides the money and which investment is sold inside that account.
+For the next retirement dollar, choose both the account that supplies it and the investment sold inside that account. The account affects access and tax treatment; the investment affects exposure and, where relevant, the gain realized.
 
 The account determines access and tax treatment. The holding determines market exposure and, in a taxable account, the gain or loss associated with the units sold. A Traditional IRA holding a Bitcoin fund and a taxable wallet holding Bitcoin may give similar market exposure but create different tax consequences when used for spending.
 
@@ -22,7 +22,9 @@ Suppose a retiree spends from taxable money for years while a large Traditional 
 
 A blended approach can use part of an ordinary-income bracket and fund the rest with taxable sales or qualified Roth money. The blend changes the gain recognized, current tax, remaining account balances, and future flexibility. It should be evaluated year by year instead of copied as one universal ratio.
 
-For an illustration, consider a twenty-thousand-dollar cash need. A fully taxable Traditional withdrawal generally adds twenty thousand of ordinary income before grossing up for any tax funding. A twenty-thousand-dollar taxable sale with sixteen thousand of basis creates four thousand of gain. A qualified Roth withdrawal has another treatment. The cash need is the same, but the amount and type of taxable income differ.
+The comparison on screen begins with the same twenty-thousand-dollar cash amount. A fully taxable Traditional withdrawal adds twenty thousand of ordinary income. A taxable sale with sixteen thousand of basis creates four thousand of gain before adjustments. A qualified Roth withdrawal has different treatment. Those are three different tax stories behind the same initial amount of cash.
+
+Now ask how much reaches the household after any tax funding. Twenty thousand withdrawn is not necessarily enough for twenty thousand of spending plus the resulting tax. Follow the full cash reconciliation before comparing which route is cheaper.
 
 The first twenty thousand withdrawn may not be enough to fund twenty thousand of spending plus the tax caused by that withdrawal. Read the model's tax and cash reconciliation rather than assuming gross withdrawal equals spendable money.
 
@@ -30,9 +32,9 @@ Keep conversion funding separate too. A conversion can shift wealth between tax 
 
 Asset sale order deserves its own review. A concentrated household may prefer using other assets before Bitcoin. That preference should be tested against taxes, access, concentration, and later funding. Preserving every Bitcoin unit may require a trade-off the household does not actually want, while selling some in a favorable tax situation may be a practical choice.
 
-The Reed example compares the existing withdrawal order with a tax-aware blend while keeping spending and market assumptions consistent. We will read the first retirement year and a later required-distribution year. Any claimed benefit must come from the model, and any unsupported access or tax assumption must remain visible.
+For the Reeds, we'll compare the current account order with an intentional blend while holding the spending and market assumptions constant. Read an early retirement year and a later distribution year. What did the household pay now, what remained invested in each account, and what changed later? We are looking for a useful trade-off, not a universal instruction to empty every taxable account first.
 
-In the working session, choose the supported account and asset priorities, preview one alternative, and inspect the actual sources of cash. Finish able to say which account funds the next retirement dollar, what is sold, and what tax or access rule applies. The Reserve then turns that annual strategy into a manageable payment routine.
+Explain which account supplies the next cash need, which investment or lot is sold, and how the tax is funded. Keep conversions separate from spending cash. Save only the funding approach you understand, then coordinate any special access or tax execution with the appropriate professional.
 
 ### Production notes
 
@@ -43,3 +45,11 @@ Preserve strict-order tax-trap diagram from Retirement deck, updated to explain 
 - Separate account withdrawal priority from asset or lot sale priority.
 - Reconcile spending cash, tax funding, and conversions.
 - Compare one supported blend with the current strategy and read later effects.
+
+### Source-led visual and teaching notes — not spoken
+
+Account source and asset sale are separate rows. Preserve the $20,000 / $16,000 / $4,000 illustration; follow gross cash through tax to household spending. Comparison uses the same baseline and horizon, with no invented after-tax advantage.
+
+Editorial reason: Make account-versus-asset priority follow through to spendable cash and a real comparison.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

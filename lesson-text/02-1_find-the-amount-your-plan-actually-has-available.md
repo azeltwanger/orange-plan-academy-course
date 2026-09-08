@@ -1,6 +1,6 @@
 # 2.1 — Find the amount your plan actually has available
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/02-cash-flow-reserve-and-life-events.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: CASHFLOW, DICTATION, CLIENT_THEMES, APP
 
 ### Read aloud
 
-This session starts with one number: the amount the household actually has available after its normal obligations. That number funds the Reserve, extra debt payments, and new investments.
+Before we give another dollar to the reserve, debt, or investments, let's find out how much is actually available. We need an amount you can explain from the records, and a payment schedule that doesn't leave you short when the bills arrive.
 
 Work from the income you entered in Foundation and reconcile it to a normal month. Gross income comes first. Then account for taxes, other payroll deductions, everyday living costs, and required debt payments. Employee retirement contributions are another use of household money. Employer contributions are an additional benefit, not cash available to spend.
 
@@ -30,7 +30,9 @@ Separate recurring costs from genuinely one-time costs. An annual premium is irr
 
 Variable income deserves a slower look. One strong business month does not establish the amount you can commit every month. Use a supportable baseline and a separate rule for excess income when it arrives. Also account for the taxes and operating cash that have to stay with the business.
 
-The working-session chapter takes the Reed household from gross income to the bank balance and then does the same reconciliation in your plan. When the numbers differ, trace the difference to an actual category. You are done when you can explain the monthly pool in plain language and it broadly matches the household's real experience.
+We'll follow the money from income to what remains, then check it against the account you pay bills from. If the plan shows a surplus but that balance keeps falling or the card balance keeps growing, stop and find the difference before setting up another contribution. An annual bill, a payroll deduction, or a payment counted twice can change the answer.
+
+Keep the spending basis, the amount genuinely available, and any unresolved difference together. You should be able to explain what has already come out before you assign the remaining money. Next we'll look for changes you would actually be willing to make.
 
 ### Production notes
 
@@ -41,3 +43,11 @@ Use DEMO-HOUSEHOLD cash-flow convention exactly. Tax provision is hypothetical, 
 - Reconcile gross income, deductions, taxes, living costs, debt, and contributions.
 - Choose and explain the spending reference period.
 - Identify a sustainable available pool or an honest deficit.
+
+### Source-led visual and teaching notes — not spoken
+
+Reveal the original Reed cash-flow bridge one row at a time. Keep employee contributions inside household outflow and employer money outside spendable surplus. Put a simple bill/payday timeline beside the monthly average; do not invent a Reed pay schedule.
+
+Editorial reason: Connect monthly arithmetic to bank reconciliation and payment timing before new commitments.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

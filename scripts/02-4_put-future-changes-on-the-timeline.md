@@ -1,6 +1,6 @@
 # 2.4 — Put future changes on the timeline
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/02-cash-flow-reserve-and-life-events.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: CASHFLOW, FOUNDATION, DICTATION, CLIENT_THEMES, APP
 
 ### Read aloud
 
-A normal month is only the starting point. Your plan also needs the changes you expect over the years: a vehicle, college support, a move, time away from work, a pension, or a change in retirement spending.
+Think of one expense or income change you already expect. What happens, when does it happen, how much money is involved, and where will that money come from? Those four answers turn a vague future concern into something you can include in the plan.
 
 For each event, answer four questions. What is happening? When? How much money changes hands? How will it be funded? Start there before getting into the finer details.
 
@@ -32,7 +32,9 @@ As the event gets closer, revisit the committed amount. Protect the money that m
 
 When an event happens, update the actual records and retire or revise the planned version. A purchase becomes an owned asset or actual spending. A loan becomes a real debt. An income change becomes the current income baseline. Keep a future event only for changes that remain ahead.
 
-The working session will build one expected expense, one income change, and one hypothetical purchase. We will read the affected year and the source of funding. Finish when each meaningful event has a date, an amount, a status, and a funding explanation you understand.
+We'll put one expected expense and one income change on the timeline, then compare a possibility separately. For each, look at the affected year and follow the cash. A vehicle price, its down payment, the loan proceeds, and later payments must fit together; the price is not an extra expense on top of all of those flows. The same check applies when a home is sold or an old loan is paid off.
+
+Record one expected change with its amount, timing, and funding explanation. Keep any uncertain estimate visible. When the event happens, check the actual records and retire or revise the future entry so the same change isn't counted again. A possibility you haven't chosen stays a comparison.
 
 ### Production notes
 
@@ -43,3 +45,11 @@ Use Life events, not a separate Goals system. Exact home/mortgage/event behavior
 - Enter the expected change with correct timing and recurrence.
 - Name the funding source and any associated debt or tax effect.
 - Keep possibilities separate and update events when they become actual facts.
+
+### Source-led visual and teaching notes — not spoken
+
+Use the Foundation timeline: expected vehicle / expected income change / possible renovation. Highlight the affected year, then show planned → actual as one lifecycle. Exact amounts and dates require the reviewed fictional capture extension.
+
+Editorial reason: Connect each event to a complete funding story and its eventual actual record.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

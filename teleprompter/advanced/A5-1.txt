@@ -1,4 +1,4 @@
-A multi-year conversion plan should compare after-tax resources over time, not simply add up the conversions or future tax savings.
+A multi-year conversion plan should leave the household better positioned after the relevant costs, not merely display a larger total of future taxes avoided. Start with the unchanged plan and compare a limited schedule against the same spending and assumptions.
 
 Start with the unchanged plan. Record expected income, spending, taxable-account resources, healthcare years, Social Security, required distributions, and the Traditional and Roth balances. Then choose a bounded conversion schedule to compare against it.
 
@@ -14,4 +14,6 @@ Stress the tax and return assumptions. A strategy based on a large future rate i
 
 The app may model the strategy, but the execution needs current-year verification. Confirm which account may be converted, whether a required distribution must be handled first, any nondeductible basis, the tax-payment method, and the custodian's procedure. Keep planned amounts separate from completed records.
 
-The useful output is a range and a review rule rather than an unchangeable promise to convert the same amount for ten years. Revisit with actual income and current law before each year's transaction. Return to the core plan with the selected strategy and a clear professional handoff.
+The core example separates a thirty-thousand-dollar conversion from six thousand of hypothetical additional tax. Repeat that separation in every modeled year. If the proposed schedule uses the cash that was supporting the early-retirement bridge or reserve, that is part of its cost. Compare a smaller schedule and no added conversion before treating the future Roth balance as the deciding result.
+
+Choose a range and review rule, with a clear source for each year's tax. Revisit the actual amount using current income and rules before execution. Return to the core tax and withdrawal plan with the comparison understood, not an unchangeable promise to convert for a decade.

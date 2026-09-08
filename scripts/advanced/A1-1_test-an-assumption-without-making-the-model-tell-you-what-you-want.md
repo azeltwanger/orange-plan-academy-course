@@ -1,6 +1,6 @@
 # A1.1 — Test an assumption without making the model tell you what you want
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/advanced/01-modeling-financing-and-tax.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -11,7 +11,7 @@ Use when: a preset or holding-specific assumption materially changes a decision.
 
 ### Read aloud
 
-Use this lesson when the standard assumption choices do not express the question you are trying to test. Start by writing that question. “What happens if Bitcoin's growth slows after the first decade?” is specific enough to model. “How do I get the earliest retirement date?” invites the wrong experiment.
+Use an advanced assumption when it answers a specific question the normal starting choices do not express. Write that question first. Then change one thing so you can explain what caused the different result.
 
 Separate expected growth from uncertainty around the path. Two models can have similar long-term growth and very different drawdowns or sequences. A deterministic projection applies one path. A simulation samples paths under its distribution, correlation, and other rules. Those design choices matter alongside the return assumption you choose.
 
@@ -25,7 +25,9 @@ For the Reed household, test one slower-growth alternative and inspect the first
 
 Record the model, the reason for using it, the most important limitation, and a less favorable comparison. Use the current methodology documentation to understand what the engine actually tests. Avoid claiming a simulation proves risks it does not model, such as a lender's failure probability.
 
-Return to the core plan with one defensible baseline and a saved sensitivity test. Advanced settings should make the decision more transparent, not create a collection of hidden adjustments you cannot explain next year.
+For the Reeds, an early year and a later year can reveal whether the chosen declining path says what they thought it said. Keep their spending, contributions and intended retirement timing fixed while comparing slower growth. Then inspect the first difficult funding year. The useful result is knowing which household decision depends on that assumption—not finding enough hidden adjustments to produce a preferred date.
+
+Return to the main plan with a starting model you can explain, one useful comparison, and the limitation that matters most. If the comparison answers the question, stop. More settings do not automatically make the plan more reliable.
 
 ### Production notes
 
@@ -36,3 +38,17 @@ Use APP model/methodology as sole source for actual implementation. No unsupport
 - State the modeling question and one changed assumption.
 - Compare the same plan under a less favorable path.
 - Record the baseline, sensitivity, and limitations.
+
+### Source-led visual and teaching notes — not spoken
+
+Show the written question, one changed assumption, unchanged household choices, and the affected funding year. Actual rates, methodology and outputs require the approved build.
+
+Editorial reason: Make advanced modeling a bounded sensitivity question with a clear return to the core plan.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+
+### Advanced demonstration plan — not spoken
+
+Prepare the current saved assumptions and one reviewed lower-growth alternative. Show the early/later rates, compare the same household inputs, and inspect the funding year that explains the difference. Verify exact custom-period/override controls, unchanged baseline and result identity before recording. Do not manufacture volatility, correlation, replay or provider-failure claims. Return to 1.4 and 6.7.
+
+Use this with the linked core working chapters; it does not create another required lesson or claim an app/device test was performed. Record precise controls and actual outcomes only after the relevant gate is met.

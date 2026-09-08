@@ -1,6 +1,6 @@
-Now that the retirement funding choices are in place, the simulation result has a more complete plan to test. Read it with the assumptions and the spending rules beside it.
+Use the simulation to compare choices you might actually make. Start with the spending, timeline, assumptions and rules being tested, then read what the result tells you—and what it does not answer.
 
-A displayed eighty-two percent chance of success means the modeled plan succeeded in that share of the simulated paths, under the tested rules and horizon. The exact successful count underneath explains the result. It is not a guarantee and it is not a measurement of every risk the family could face.
+For an illustration, eighty-two percent means eighty-two percent of the modeled paths funded the plan under the stated rules and horizon. Read the exact count and ending age with it. This is an explanation of a result, not an approved result for the Reeds and not a measurement of every risk the family could face.
 
 The simulation can include important parts of the plan, but it cannot make an unsupported input reliable. A wrong spending number, omitted debt, missing basis, or assumed account access can produce a precise-looking answer to the wrong question. Check the current facts and calculation status before comparing strategies.
 
@@ -18,6 +18,6 @@ For the Reed example, we will compare a limited set of meaningful alternatives. 
 
 Read the years that explain the difference. Is the early access gap smaller? Are taxes lower in one period and higher later? Is borrowing adding a future repayment burden? Does one version leave a cash shortfall before a benefit starts? Those explanations make the result actionable.
 
-The working session will capture actual model outputs from the approved release. We will not assign a fictional success rate simply to make the case end well. If the chosen example remains below the standard, that is a valid teaching outcome: identify the issue and compare a realistic change.
+We'll compare the actual results and then inspect the years that explain the difference. If the preferred retirement date does not meet the standard, that is useful information. Compare a change the household could carry out rather than adjusting assumptions until the example looks successful.
 
-Finish able to explain the percentage, the count, the horizon, the important assumptions, and one trade-off behind the preferred version. That is the skill you need to use the result confidently without treating it as a promise.
+Explain one comparison in a sentence: what changed, what improved or worsened, and what it costs the household. Keep the version you intend to follow distinct from the alternatives. Next we'll turn the chosen retirement plan into a spending-review routine.

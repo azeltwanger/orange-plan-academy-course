@@ -1,4 +1,4 @@
-Your tax rate can change over the course of retirement. The opportunity is often in the years between full employment income and the later income sources that fill more of the tax return.
+Look for the years when the type and amount of taxable income change. Those years may give you a choice about when to recognize a gain, use Traditional money, or consider a conversion. First identify the opportunity; then decide whether using it improves the plan.
 
 Start with the three broad tax treatments. A taxable account can produce capital gains, interest, dividends, and other taxable items depending on what it owns and what you do. Traditional retirement withdrawals generally create ordinary income to the extent they are taxable. Qualified Roth withdrawals can provide spending money without adding that same taxable income.
 
@@ -6,7 +6,9 @@ The account balance alone does not tell you the tax cost of using it. A twenty-t
 
 Now place the major income sources on a timeline. Employment may end. Part-time work may continue. A pension begins. Social Security starts for each spouse. Required distributions eventually apply to relevant retirement accounts. The same planned spending can be funded in different ways at different ages.
 
-For Alex and Morgan, stopping full-time work before retirement-account access creates both a funding challenge and a possible lower-income period. Their Traditional balances may continue growing while taxable assets fund the earlier years. That makes the timing of withdrawals and possible conversions worth examining.
+For Alex and Morgan, earlier retirement could create a period between employment and later income sources. Their taxable assets may fund some of those years while Traditional balances remain invested. We need to see the actual income timeline and access rules before calling that period a useful tax window.
+
+The comparison is not automatically 'convert as much as possible.' It may be an intentional withdrawal for spending, a measured conversion with separate tax funding, a gain realization, or leaving the room unused. The next lesson compares those choices.
 
 A low-income period is not automatically a zero-tax period. Realized gains, dividends, business income, retirement distributions, and conversions can fill it. State rules, deductions, credits, healthcare subsidies, and Medicare premium effects may also change the cost of adding income.
 
@@ -20,4 +22,4 @@ A state move belongs in the same broader picture. Lower taxes may help, but hous
 
 In the working session, read the years with employment, the years before later income begins, and the years with required distributions. Identify the lowest-income stretch and the information needed to evaluate it. The next lesson will compare ways to use it.
 
-Your output is one sentence: “These are the years when a tax decision may be valuable, and this is the decision worth modeling.” That is more useful than a general goal to pay less tax. It gives the household and the CPA a place to start.
+Point to one year or period and say which decision is worth testing, what other income could use the same room, and what information still needs checking. That is a focused starting point for the model and the CPA, rather than a general instruction to pay less tax.

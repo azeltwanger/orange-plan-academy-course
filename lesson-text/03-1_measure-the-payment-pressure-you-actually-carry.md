@@ -1,6 +1,6 @@
 # 3.1 — Measure the payment pressure you actually carry
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/03-debt-and-leverage.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: DEBT, BRAIN, CLIENT_THEMES, APP
 
 ### Read aloud
 
-We are going to decide what each debt should do inside the plan. Start with how the payments affect the household before comparing an interest rate with an investment return.
+A debt can look small next to your assets and still make the monthly bills difficult. We'll start with the payments the household has to make, then look at the interest and the risk behind each obligation.
 
 Your tolerance matters. Some people are comfortable carrying a fixed mortgage for decades. Others value the relief of having fewer obligations. That preference is part of the decision. It sits alongside the financial question: can the household keep making the payments during a bad year?
 
@@ -18,7 +18,9 @@ List the current balance, required payment, rate, remaining term, and collateral
 
 Debt-to-income compares required monthly debt payments with gross monthly income. In the Reed example, required payments are about three thousand three hundred forty-two dollars. Gross monthly income is about nineteen thousand four hundred seventeen. That gives a debt-to-income ratio of roughly seventeen percent.
 
-That ratio looks modest, but the household still has only five hundred dollars left after the original living costs, tax provision, and employee retirement contribution. Gross income has other claims against it. A borrowing ratio is one lens; the actual after-tax cash-flow budget tells you how much room the household has left.
+The Reeds' required debt service is about thirty-three hundred forty-two dollars a month. Against gross income, the ratio can look manageable. But their original cash-flow example leaves only five hundred dollars after the listed costs and employee contribution. A comfortable-looking ratio is not five hundred dollars of extra room for another loan payment.
+
+Ask what happens if Morgan's variable income falls. Which payment still arrives, what can change, and how long can available cash cover the difference? That question tells us more about the next debt decision than a lender's approval limit.
 
 This is why I would read the ratio and the monthly surplus together. A lender's qualification standard serves the lender's process. Your planning standard also has to account for future saving, family needs, variable income, and how comfortable you are carrying the obligation.
 
@@ -32,7 +34,7 @@ For every debt, ask what happens if the rate rises, income falls, or the asset y
 
 Then separate the action from the feeling. You may choose to pay off a manageable loan because the relief is worth the lost liquidity. You may choose to keep a low-rate debt because accessible money has a more useful job. Both choices should be made with the effect on cash flow and the rest of the plan visible.
 
-In the first Debt chapter, we will check the existing terms and payments rather than creating the debts a second time. Finish with a current payment total, the debts most sensitive to change, and a clear view of what the household could carry after an income setback. That gives the next lesson a realistic foundation for measuring leverage.
+For each existing debt, confirm the required payment, what can change it, and the income or cash that supports it. Name the first obligation that becomes difficult in the weaker-income case. We will decide what to do with the debt after we understand that pressure.
 
 ### Production notes
 
@@ -43,3 +45,11 @@ Example DTI uses gross income and debt service only, not tax/living costs. Round
 - Verify required payments, variable terms, and guarantees.
 - Read DTI alongside after-tax cash flow.
 - Identify the obligation that becomes difficult first after an income interruption.
+
+### Source-led visual and teaching notes — not spoken
+
+Show required payments and the original $500 remaining amount together. Keep DTI based on gross income separate from actual available household cash. Show a variable-income interruption as a labeled test, not a changed Reed fact.
+
+Editorial reason: Turn DTI into a usable payment-pressure test without presenting it as a borrowing limit.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

@@ -1,8 +1,8 @@
 # 1.3 — Enter income, spending, debts, and the retirement starting point
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
-Adapted source: `course-v2/sessions/01-first-working-plan.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
+Status: SOURCE_LED_REVIEW — revised using the accepted Reserve reference; integrated wording awaits Austin's review.
+Adapted source: `course-v2/sessions/01-first-working-plan.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`, original debt/employer-benefit dictation, and the sources identified in `delivery/source-led-batch-01.md`.
+App references: income mapping, debt records and result behavior retain APP_CAPTURE.
 
 Kind: teach
 Gate: APP_CAPTURE
@@ -10,38 +10,54 @@ Sources: FOUNDATION, CASHFLOW, DICTATION, APP
 
 ### Read aloud
 
-Now we need to show how money moves through the household. This is the information that connects today's assets to the future plan.
+Now we're going to connect what you own to the money coming in and going out. The question is how much the household actually has available after the bills and current commitments.
 
-Begin with income by person and source. Salary, self-employment, pension income, rent, and other recurring income may have different taxes, timing, and reliability. Keep the source clear. A business deposit is not automatically household income available to spend; business expenses, taxes, and retained working capital may still have claims on it.
+Start with income by person and source. Salary, business income, rent, a pension, and other recurring income can have different timing and treatment. Make clear what each amount represents before you enter it.
 
-For a pay stub, identify gross pay, taxes withheld, benefits, and retirement contributions. The amount deposited in the bank is what remains after those deductions. It is useful for checking reality, but entering that deposit as gross income and subtracting the same deductions again would understate what is available.
+A pay stub is a good example. It shows gross pay before deductions, then taxes, benefits, and retirement contributions, and finally the amount deposited in your bank. If you enter that deposit as gross income and subtract the deductions again, the plan will show too little money available. The deposit is useful for checking the answer, but it is not interchangeable with gross pay.
 
-For a self-employed person, distinguish revenue, business expenses, profit, and money distributed to the household. Use the amount and treatment that match the app's income field. When a business expense has already reduced the income entered, do not also subtract it as a household expense. We will use an explicit cash-flow bridge in the next session to check these relationships.
+For business income, ask what has already been taken out. Revenue is not automatically household spending money. Ordinary business costs may already be deducted from the income you're using, while taxes, debt payments, or money kept in the business may still need attention. The important thing is to count each claim on the money once.
 
-Next, enter everyday living spending. Food, utilities, insurance, transport, subscriptions, and other normal household costs belong here. Debt payments, investment contributions, transfers between your own accounts, and estimated income-tax payments need their own treatment. The purpose is to count every real use of cash once.
+Morgan's income in our example is after ordinary business operating expenses but before the equipment-loan payment we show separately. That's why you will still see that payment in the cash-flow explanation. Your own records may be organized differently, so don't copy that treatment without understanding what your income number includes.
 
-Credit cards can make this confusing. Buying groceries on a card is spending. Paying the card later settles that purchase. Counting both as living spending doubles the groceries. An existing financed card balance, interest, and the required repayment still need to be reflected correctly in the debt and cash-flow records.
+Next, get a believable starting number for everyday spending. Use actual records rather than the amount you would like to spend. Include the costs that recur through the year, even when they don't appear every month. Annual bills, holidays, or other irregular spending can make a quiet month's statement misleading. We will do a fuller spending review in the next session.
 
-Use a believable normal month for the first pass. A short history can help you start, but it may miss annual insurance, holidays, or other irregular costs. In Cash Flow we will choose a fuller reference period and distinguish normal spending from one-time events. You are choosing a starting value that will be checked, rather than spending days perfecting categories before seeing a plan.
+Keep debt payments, income-tax payments, investment contributions and transfers separate from the living-spending number when those amounts are already accounted for elsewhere. Credit cards are a common place to count something twice. The groceries were spending when you bought them. Paying the card later is not another set of groceries. An older financed balance and its required repayment still need to appear in the debt picture.
 
-Enter current debts with the balance, rate, required payment, and relevant term. Include the mortgage, auto loan, student debt, cards, home-equity borrowing, business obligations that the household carries, and any Bitcoin-backed loan. Verify the rate from the lender rather than relying on memory. A variable rate may have changed.
+For each existing debt, check the current balance, interest rate, required payment, and relevant term. I would look at the lender's record rather than use the rate in your head. Include the mortgage, car loan, cards, a home-equity line you've drawn, and any other obligation the household is carrying. A variable rate may be different from the last time you checked.
 
-At this stage, record the existing arrangement. Extra payments or a new borrowing idea are later strategy decisions. That keeps the first plan from mixing current facts with an unreviewed proposal.
+At this point we're recording the arrangement that exists. Deciding to pay extra or take out a new loan comes later. The first plan should not quietly include a borrowing idea you haven't chosen.
 
-Retirement needs a starting point too. Choose the date you currently intend to stop or reduce work and a reasonable spending estimate for that period. Each spouse can have a different work timeline. Include the big costs that are already clear, and note the items still needing work, especially healthcare and housing.
+Your employer benefits also belong here. Look up the actual match formula. An employer might match a percentage of what you contribute, up to a limit based on pay. That is different from contributing the same amount as you regardless of what you put in.
 
-Social Security and pensions have their own amounts and start dates. Use the actual estimate or statement when available. An expected pension without survivor information or an unverified Social Security amount is an item to complete, not permission to assume it covers the gap.
+In the Reed example, Alex earns a hundred fifty-five thousand dollars a year and contributes six percent. That is seven hundred seventy-five dollars a month from the household's pay. Their fictional employer contributes half of that under the stated match formula: three hundred eighty-seven dollars and fifty cents. Keep those separate. The employee contribution uses household money; the employer contribution adds retirement money, not cash for this month's bills.
 
-For Alex and Morgan, the initial goal is work optional at Alex's age fifty-two. That is a household preference, not a result the software has proved. Their retirement spending and future income will be refined later. We keep the intended date visible so every later decision can be compared against the life they are trying to build.
+Look at the example on screen. Start with the combined income, subtract the illustrative tax provision, normal living costs and required debt service, and there is twelve hundred seventy-five dollars left before Alex's contribution. After that contribution, five hundred remains.
 
-In the next working-session chapters we will enter these facts and reconcile the monthly cash flow. Finish by asking whether the amount left over resembles what actually happens in the bank. A large unexplained difference is worth fixing before deciding where the next dollar should go.
+The four-thousand-dollar monthly tax provision in this example is a teaching assumption. It is not a tax bill the app has calculated. We will distinguish payments set aside for taxes from the actual modeled tax liability in the working session.
+
+That five hundred is the original picture. The larger amount available after a spending change belongs to a later example. We haven't made that change yet. Before we choose where new money goes, we need to know whether this starting picture resembles what actually happens in the bank.
+
+Retirement needs a starting point as well. What do you currently intend: stop work, reduce your hours, or change the kind of work you do? Each person can have a different timeline. Choose an initial spending estimate for that life and note the costs that need more work, such as healthcare or housing.
+
+Use actual Social Security or pension estimates when you have them, with the relevant person and start date. Don't assume an unverified benefit fills the gap. For Alex, fifty-two is the preferred work-optional age. We have not proved it works by entering it.
+
+After the working chapters, you should be able to follow the monthly money and explain the starting retirement choices. If the plan says you have a large surplus that you never see, check what is missing or counted differently before assigning it to investments. That is the useful next step, even when it makes the first result less exciting.
+
+### Visual notes — not spoken
+
+Reveal the cash-flow bridge one line at a time: $19,416.67 income; $4,000 hypothetical tax provision; $10,800 original living costs; $3,341.67 required debt service; $1,275 before employee contribution; $775 employee contribution; $500 remaining. Place the $387.50 employer match alongside the retirement account, outside spendable surplus. Values are rounded for display only. Do not mingle this with reduced living costs of $9,600 or the later $1,700 available pool.
+
+Use a generic pay-stub diagram with no invented Reed withholding or benefits. Use a separate timeline for each adult, showing only the preferred age already established. Exact birthdays, benefits and model dates are not supplied by the source fixture.
 
 ### Production notes
 
-Use the fictional fixture's cash-flow convention, including employee contributions and business loan treatment. Do not present an assumed tax provision as an engine-computed tax bill. W01 owns first debt entry; W03 revisits the same records rather than re-entering them. Required benefit facts can remain marked for follow-up.
+Source ledger: `delivery/source-led-batch-01.md`. The numeric example is unchanged source arithmetic, not an actual app forecast, payroll computation or tax result. W01 chapter 6 must explicitly reconcile the app's tax and income conventions; a different legitimate result is explained, not forced to match $500 through hidden overrides. Business cash flow is not silently treated as verified tax-return profit. Required debt records are entered once and revisited in W03.
+
+W01 chapter 7 must resolve the fictional capture inputs for spouse timelines, retirement spending, healthcare, benefits and horizon before a full result is claimed. The source's $96,000/$12,000/$40,000 retirement illustration is not automatically adopted. Detailed account, tax and benefit execution guidance remains subject to the relevant later reviews. Keep precise control names in the walkthrough notes.
 
 ### Member checkpoint
 
-- Income fields match their gross/net and business/household meaning.
-- Living costs, debt, taxes, and contributions are each counted once.
-- Planned retirement timing and initial spending are recorded as choices.
+- Explain what income includes and trace the available cash without duplicate deductions.
+- Verify existing debts and distinguish employee contributions from employer money.
+- Record intended retirement timing and initial spending, with specific missing benefit or cost information identified.

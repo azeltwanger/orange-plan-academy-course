@@ -1,4 +1,4 @@
-Debt can do useful work when the purpose is clear and the household can carry the obligation. This lesson looks at preserving liquidity, financing a large purchase, and acquiring an asset without assuming that borrowing is automatically the better path.
+Borrowing can preserve liquidity, bring forward a useful purchase, or help finance a productive asset. It can also turn an optional idea into a required payment. Start with what the money will do and how the debt gets repaid if that idea underperforms.
 
 Start by naming the job. A temporary cash bridge until a known payment arrives is different from a loan used to buy an asset expected to appreciate. A mortgage that supports a home the family intends to live in is different from a recurring loan used to cover spending that exceeds income.
 
@@ -18,6 +18,8 @@ Seller financing or an equipment-finance arrangement may better match the purcha
 
 A home-equity investment or shared-appreciation contract can also have little or no monthly payment. That does not make it free money. The eventual settlement can depend on the property's value, contractual adjustments, fees, and an agreed share of appreciation. Compare several future house values and the actual exit date before accepting that obligation.
 
-Alex and Morgan have two possible decisions: a renovation and buying additional Bitcoin. Combining them into one large home-equity loan would obscure the purpose of each use. We will compare the renovation separately and keep the additional Bitcoin purchase as its own scenario. One may be worth financing while the other remains funded only from future surplus.
+Alex and Morgan are considering a renovation and the possibility of buying more Bitcoin. Keep those decisions separate. The renovation has a household benefit and a cost; the Bitcoin purchase adds investment exposure. Combining both uses into one home-equity loan would not make either easier to evaluate.
 
-Finish by writing the purpose, repayment source, downside, and exit for any new borrowing you are considering. Choosing no new debt is a complete decision. The course gives you the comparison so the answer comes from the plan rather than enthusiasm for or against leverage.
+For each, I would compare the full proposal with a smaller purchase and a delay. Then ask whether repayment has a credible source that survives disappointment. A business purchase should be supported by cash left after operating needs, not simply by the purchase price you hope someone will pay for the business later. A Bitcoin purchase needs a plan for debt payments during a long weak market.
+
+Write the purpose, amount, repayment source, and downside for the borrowing you are considering. Keep it as a comparison until those answers and the cash flow make sense together. Choosing no new debt, a smaller purchase, or a later date finishes this decision just as clearly as selecting a loan.

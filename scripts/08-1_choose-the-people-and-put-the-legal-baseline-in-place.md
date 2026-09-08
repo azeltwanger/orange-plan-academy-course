@@ -1,6 +1,6 @@
 # 8.1 — Choose the people and put the legal baseline in place
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/08-family-handoff.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: ESTATE, ESTATE_DECK, OWNER, PRIMARY
 
 ### Read aloud
 
-A family plan needs people who know their roles and documents that give the appropriate authority. Start with incapacity and death as two different situations.
+Start with the people who would help during incapacity or after death, then check what authority lets them act. Those situations can involve different roles and documents. A name written in the course worksheet does not create the legal authority.
 
 During incapacity, someone may need authority to handle financial decisions while you are alive. A properly prepared financial power of attorney can address that role under the applicable law. Healthcare decisions may require a healthcare agent and advance directive. After death, authority follows the estate, trust, beneficiary, and account processes that apply.
 
@@ -20,7 +20,9 @@ Choose for trust, capability, availability, and willingness. The person best at 
 
 Ask the primary person and a backup to accept the role. Explain the scope at a high level. Someone who has never heard about the assignment is not yet part of a practical handoff. Confirm how they would contact the attorney or other professional when needed.
 
-For Alex and Morgan, the first task is reviewing who would make decisions if one spouse were unavailable and who would coordinate after a death. They also need to consider guardianship nominations for the children where appropriate. Those decisions belong with an attorney who understands their jurisdiction and family circumstances.
+For Alex and Morgan, ask two separate questions: who handles ordinary financial decisions if one spouse cannot act, and who coordinates the estate after a death? Confirm the intended primary and backup people are willing, then take the roles, ownership and children’s needs to the attorney.
+
+A capable technical helper may support the process without being the executor, trustee, or financial agent. Choose for the actual job rather than assume the person most comfortable with Bitcoin should control every part of the handoff.
 
 The baseline documents may include a will, financial power of attorney, healthcare directive, and the account-specific beneficiary designations. A trust may be useful when it solves a defined job, but it is not a prerequisite for every Bitcoin household. The advanced trust lesson explains how to prepare that question.
 
@@ -34,7 +36,7 @@ Life changes create review triggers: marriage, divorce, a child, a move, a death
 
 In the working session, we will list the roles, confirm the status of the documents and beneficiary forms, and identify the missing professional action. We will not fill a legal gap with a guessed clause or an app checkbox.
 
-Finish knowing who is supposed to act, whether they have agreed, what document or account process supports their role, and which review remains. The next step connects that legal authority to the actual custody methods you chose.
+List the intended primary and backup roles, whether each person has agreed, and the document or institutional process still to confirm. Check beneficiary designations directly instead of assuming a will changes them. Keep the attorney's specific next task beside each legal gap.
 
 ### Production notes
 
@@ -45,3 +47,11 @@ State-licensed attorney review required for jurisdiction-specific claims or inst
 - Choose primary and backup people and ask them to accept.
 - Review the status of legal documents and account beneficiary forms.
 - Record the specific attorney or tax question needed to close each gap.
+
+### Source-led visual and teaching notes — not spoken
+
+Incapacity and death as two columns, with primary/backup willingness and document status. Link the Executor Packet to the legal-document inventory without presenting it as a will, power of attorney or appointment.
+
+Editorial reason: Make role selection practical while preserving the distinction between nomination, appointment and technical help.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

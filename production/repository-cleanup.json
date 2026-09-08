@@ -1,0 +1,1459 @@
+{
+  "schema_version": 1,
+  "history_commit": "a7be495e670078cd44ea4e0792538b0eaa32dd95",
+  "reason": "Owner requested removal of obsolete course files; history and original sources retained. No branch/history deletion or force reset.",
+  "retired_files": [
+    {
+      "path": "archive/LEGAL-REVIEW-PACKET-pre-research-2026-08-25.md",
+      "sha256": "818e096d7bd92f3b36a5300960f2515e658da6bf13b7bcdb17bec2092f07be7f",
+      "git_blob": "739c157715485ee17094fea8abebb9e43eab657a"
+    },
+    {
+      "path": "archive/pre-guided-promotion/ADVANCED-DICTATION-AUDIT.md",
+      "sha256": "7486149aaeeac04453a80204f57758779dc104469656e4d2b5e19430722c9b5d",
+      "git_blob": "c8b305283938d6fdf43e5eebf8edfb25a3abc72c"
+    },
+    {
+      "path": "archive/pre-guided-promotion/ADVANCED-DICTATION-ORDER.md",
+      "sha256": "9b2b3f0ae7222292b7563de9748b6dec8eaf99419850cae06175249b51a6b541",
+      "git_blob": "791ee9a016207d812e7f2d68fe0eae8247cbc4ad"
+    },
+    {
+      "path": "archive/pre-guided-promotion/ADVANCED-GATE-APPROVAL.md",
+      "sha256": "be80fd6eb8ccacddb705d25e01e27241ea01abbd70ad3544b6ac13678d927416",
+      "git_blob": "28a660ec756b34b90a7fa6bd4bd05b6bd1a337d2"
+    },
+    {
+      "path": "archive/pre-guided-promotion/AI-FACTS.md",
+      "sha256": "d242c21bc367c3b9e67fc1d99cfb9b1e45904c9d553c4535cb2e8946d4ae9c35",
+      "git_blob": "6e64f1534ed9be3db7823c1162dce47b8ae129c9"
+    },
+    {
+      "path": "archive/pre-guided-promotion/ALIGNMENT-VERIFICATION.md",
+      "sha256": "93a3c70a71fccea9503fbb1dbc345b1d221c03416e8c2554de26c2cc23d29f84",
+      "git_blob": "7b8369cff575bf16386a467b1a9eea1740de10b0"
+    },
+    {
+      "path": "archive/pre-guided-promotion/ALL-SCRIPTS.md",
+      "sha256": "100ea1f33e16181878be0eb8e88da809a66c8f72f0b4e22e5a62b41b70776548",
+      "git_blob": "040b790f0ca84156fc50b2397bd9cf35d7d3f499"
+    },
+    {
+      "path": "archive/pre-guided-promotion/ARCHIVE-NOT-FOR-RECORDING.md",
+      "sha256": "85c8f194846a3af80c13c0be602da7a4f04fa2712f8b117fa545e13b42fc9688",
+      "git_blob": "94571eca6b19dec0659603577eee19bf3248a737"
+    },
+    {
+      "path": "archive/pre-guided-promotion/AUSTIN-AUTHORITY.md",
+      "sha256": "b5ad5a13b155c36242eb1889f71d76b1338df20c60932718279afaf4b26d58fa",
+      "git_blob": "30fad9deedbab218842641161fb13c5cf44bfbe1"
+    },
+    {
+      "path": "archive/pre-guided-promotion/AUSTIN-VOICE-PASS-REPORT.md",
+      "sha256": "111c5ae69c769b52b79c225582622b40d21cde6999b88b836ec7c3661050e76a",
+      "git_blob": "e9a2a158c48306bfd90104b69c1f030b7ee6d1e9"
+    },
+    {
+      "path": "archive/pre-guided-promotion/AUTHORITY-FLAGS.md",
+      "sha256": "3e156c29d8832b1507f448605648db6e2c3040b75c3ffacf5245f87f6df90c21",
+      "git_blob": "9bc85542d42aa99ed6a4861a21d8f3062b81267c"
+    },
+    {
+      "path": "archive/pre-guided-promotion/CIRCLE-STRUCTURE.md",
+      "sha256": "45f3dd8a8c6fcf1cfd2376cfdaaad043e58e668379a099ff4e747f533712abce",
+      "git_blob": "867bab7cce02be7f8946e15dae12666ae5e88cc9"
+    },
+    {
+      "path": "archive/pre-guided-promotion/CLAIM-REGISTRY.md",
+      "sha256": "c629c074c8a0f80ac31f34c3a86f567fd27d13084a554d7a004db89af7801b4c",
+      "git_blob": "c0a23684201c2cbde601323b80b7d402a7c45376"
+    },
+    {
+      "path": "archive/pre-guided-promotion/COLLEGE-FUNDING-AUTHORITY.md",
+      "sha256": "023f1c9efafd4169b3173c521d6532b74778d8010bb805efa082af508f80c02a",
+      "git_blob": "53afb5e8baf417da142b6a390b27516f1d0fae8b"
+    },
+    {
+      "path": "archive/pre-guided-promotion/COURSE-ARCHITECTURE-V2.md",
+      "sha256": "43a977c3bcd9fe05bd0d9a18de9f649e351ae056947da9a4d4da708ed9ae70aa",
+      "git_blob": "20a5ae6cc0dd118039ac9a09e64fdff786747409"
+    },
+    {
+      "path": "archive/pre-guided-promotion/COURSE-IMPROVEMENT-ANALYSIS.md",
+      "sha256": "2d86ade6f3a82644a35246ad9b8de82fd89aa89680b6834b537fb140b70146e0",
+      "git_blob": "15bf8c582f354a916c90db1921f5bd6d7edeea82"
+    },
+    {
+      "path": "archive/pre-guided-promotion/COURSE-LEGAL-COPY.md",
+      "sha256": "b63f1e2017d4381236a7ed24b77ca1e43a24d6f2f57aedff4b1618fb6559cd21",
+      "git_blob": "de5dffd2cf369f982350841e501f0be2eeb1387f"
+    },
+    {
+      "path": "archive/pre-guided-promotion/COURSE-LIFECYCLE-REVISION-REPORT.md",
+      "sha256": "a7985cc7ad19dc66b8104da2f4b86d465ef4f4e081f7b36e20918fb75fd0c414",
+      "git_blob": "b6798c5db85407a5b8fd18fd13fa272bd1d1d35a"
+    },
+    {
+      "path": "archive/pre-guided-promotion/COURSE-REBUILD-REPORT.md",
+      "sha256": "741a440ba15509202a2d318a65082624abcb9a448d415305a70bfd00fac8a9a2",
+      "git_blob": "43ce41d066a13c7086d5f62ccb788e19e9fc4ed4"
+    },
+    {
+      "path": "archive/pre-guided-promotion/CUSTODY-DECISION-MAP.md",
+      "sha256": "eed8c872a7be5bc57e29514449561682acea5af25fdeef145e33d04e09d809b7",
+      "git_blob": "3b7caa69679520f99ac8f91caeb9be5c9130fa70"
+    },
+    {
+      "path": "archive/pre-guided-promotion/DICTATION-ORDER.md",
+      "sha256": "a04e2dda140a9604dc732d55dff0e4115567b6d9d8f2a6d01bbaeb5609dc1f32",
+      "git_blob": "fd689d663ab4eae39c29afa710ba9b4f6a1e1332"
+    },
+    {
+      "path": "archive/pre-guided-promotion/DICTATION-PICKUPS.md",
+      "sha256": "cef0fa86e6239fdc5afa35867312c9d40f4fb4cdce1867aafc59f4be5e41ad96",
+      "git_blob": "cb6c14e2aa345d72455757e66b61c81133083cae"
+    },
+    {
+      "path": "archive/pre-guided-promotion/DICTATION-SOURCE-MAP.md",
+      "sha256": "463984650ddc548219d9da602e52a3377e8dd4f143cb1739b1dfedc8ddac91b7",
+      "git_blob": "3afd218bb3db583f3eb8a2028373297663c48474"
+    },
+    {
+      "path": "archive/pre-guided-promotion/DIRECT-VOICE-AUDIT.md",
+      "sha256": "9165427988976dde0d7508cf8e48ef4f419417a10af92a759fde740820a55553",
+      "git_blob": "aa530ff8ee3d97da8f39fef8bf0f0cc84f861d16"
+    },
+    {
+      "path": "archive/pre-guided-promotion/EVIDENCE-LOOP.md",
+      "sha256": "c0be457942efa66b0ba49455305456f88783b925899e23d0923a822594cc2464",
+      "git_blob": "1cbb6562620d13427128a077ea2ed8f6b1052bf7"
+    },
+    {
+      "path": "archive/pre-guided-promotion/FAQ-AND-AI-BACKLOG.md",
+      "sha256": "a70caeb201f981998f70dbcbbe459e5babfb35d137ee4e17b53522a0af87ee44",
+      "git_blob": "29cbe0164959e3e3b0250ac7e838fdab075b79fd"
+    },
+    {
+      "path": "archive/pre-guided-promotion/FILM-ORDER.md",
+      "sha256": "37417b015efe1bc6661b521df7b6be877d042dc341032115b17af582aa05aeef",
+      "git_blob": "72044b1b2ccea2ce1d07c9ff07dfab58ce515d6c"
+    },
+    {
+      "path": "archive/pre-guided-promotion/FILMING-CHECKLIST.md",
+      "sha256": "9ed27c30fde9381f94df5f8863ff6251120aa1efe57b696936a6b1f9d7fdf383",
+      "git_blob": "7fd5f1ef90ded81ec956e765264afd3ef8ea847c"
+    },
+    {
+      "path": "archive/pre-guided-promotion/FINALIZATION-STATUS.md",
+      "sha256": "d88ae86b94476aee4175a933178186263eb5ff3525ba6ef0fabcccd584ec52b7",
+      "git_blob": "a8ea1e46b47d416ab217181395ffbbb4420ce2a4"
+    },
+    {
+      "path": "archive/pre-guided-promotion/HANDOFF.md",
+      "sha256": "3743edb5ece190f7b5f0a3ecbc86ca3d75f74879dfd5a8c9277b523ec1ce8a28",
+      "git_blob": "f33a7afc6a3ef1f7f09bef450004529f9a0a0ec1"
+    },
+    {
+      "path": "archive/pre-guided-promotion/LEGAL-REVIEW-PACKET.md",
+      "sha256": "cf539357e9ac04c1cb2539055910e6001d48dff076ec66a1a866c01c4f9debe9",
+      "git_blob": "cef6e0f171b0f0a9ccf6dc74b1bc345ef837394f"
+    },
+    {
+      "path": "archive/pre-guided-promotion/MASTER-ADVANCED.md",
+      "sha256": "db1ecc7ea6cce28b5855e8f3fb6b1124ceb8f9f52e2fe02ce92528d4347175fc",
+      "git_blob": "c4850a92872fff4d2a992a570a00920ea867e607"
+    },
+    {
+      "path": "archive/pre-guided-promotion/MASTER-COURSE.md",
+      "sha256": "92373972928b248a7f774e25c71a45dec0950bc6c061ff2dd4df7e6620dc262f",
+      "git_blob": "fedb4de41690e59288837b5ea8611329f1f5035f"
+    },
+    {
+      "path": "archive/pre-guided-promotion/MODULE-CHECKPOINTS.md",
+      "sha256": "2ba455279e1b518b2378cf923e48f30c5db9a063de9260ac2d76cb93bde692ae",
+      "git_blob": "f96fdbba64b96a624aabae418a9334d26d839e82"
+    },
+    {
+      "path": "archive/pre-guided-promotion/PRE-DICTATION-RESET-STATUS.md",
+      "sha256": "f1422a91389a983a5cb530933f1f8b463739888e7294e37a36e5fff6317dc0d0",
+      "git_blob": "db66ad1a213b26954fa52ffa88b441a62595ddcf"
+    },
+    {
+      "path": "archive/pre-guided-promotion/PRODUCTION-CHECKLIST.md",
+      "sha256": "4d82cd6debba53a168e7e5ba7bce7d022c33baab4533e36b3d60861c009ad634",
+      "git_blob": "09c1c4beaf1f197296e9829845c2ce9573ca02a5"
+    },
+    {
+      "path": "archive/pre-guided-promotion/PROFESSIONAL-RESEARCH-AUDIT.md",
+      "sha256": "08f2ebe01565844d87a16934046b22f264f2a84b7ae24c7677fa5211e6f9e9c4",
+      "git_blob": "e5d2e1198f59ec304c2ebf16eefed1ec679819ad"
+    },
+    {
+      "path": "archive/pre-guided-promotion/PROFESSIONAL-RESEARCH-VERIFICATION.md",
+      "sha256": "ace2f4cdfdbb5cae92eb4891d0788136722d0d3868748dbaf62cf76e94ce9068",
+      "git_blob": "853e70b93987e94cb3ac843dd2afe8158d393e41"
+    },
+    {
+      "path": "archive/pre-guided-promotion/README.md",
+      "sha256": "bc371a190189db9a951db252d1dd37debcb2f40b1156a1d7a4f232573b1d6ee8",
+      "git_blob": "bd6c73c95091c92c2e292a2becaad3e05ec1bfe9"
+    },
+    {
+      "path": "archive/pre-guided-promotion/SCREEN-SHOOT-LIST.md",
+      "sha256": "c0880cb81c3d6ccf2df426308d461bde91c5772e028aa4a628e3ffc397574121",
+      "git_blob": "3e6e20ec0f90433461b4aa88620ac263fee881cc"
+    },
+    {
+      "path": "archive/pre-guided-promotion/SLIDE-DECK-AUTHORITY.md",
+      "sha256": "c35fd801fe80e4c70dbdefc56bdb86656c4a45908d884a2b58451447aee4cd95",
+      "git_blob": "80c3a35c4ce252562eee68b0b54e30e3c1e4075d"
+    },
+    {
+      "path": "archive/pre-guided-promotion/SOURCE-MATERIAL-POLICY.md",
+      "sha256": "5c80131a2bce276b2711922e17622b294a72cad618f6fb5345434e7cfa20ab1d",
+      "git_blob": "c3af8f4376de688e965571ae2c51d33117f05747"
+    },
+    {
+      "path": "archive/pre-guided-promotion/TARGETED-PROFESSIONAL-SIGNOFF.md",
+      "sha256": "76c0b0e4556eb0410a41a5c369a84784daa36510cb5fd29f785c4c94aa2efc0d",
+      "git_blob": "838c99eb772d97ed49887389f5c6a9ce09df3da0"
+    },
+    {
+      "path": "archive/pre-guided-promotion/USABILITY-TEST-M1-M3.md",
+      "sha256": "d93a2517e69fe04ccbd7ef130ec6dfde41ea331db9c7221b245f885e41d7c541",
+      "git_blob": "cf8f30f36b5ade6512dbcf24f1321558a8b5c519"
+    },
+    {
+      "path": "archive/pre-guided-promotion/V1-COURSE-ALIGNMENT.md",
+      "sha256": "4c38af696285b2dc248e41d34b3a0b93f9e047332e9324592529e89a6e1d96bc",
+      "git_blob": "f96e593a593e9fd135e010799f3e0a9da23dcf26"
+    },
+    {
+      "path": "archive/pre-guided-promotion/alignment-pass/README.md",
+      "sha256": "a6864eb339b0e1f6e00d75293a8840abf069a2c0fe82e6e53af6ac099793c1d5",
+      "git_blob": "3602361dafeea2cbec159128f5166a8428c0795c"
+    },
+    {
+      "path": "archive/pre-guided-promotion/course-v2/DEMO-HOUSEHOLD.md",
+      "sha256": "b8b130ebf9d6e00b2ad7460e14e807be2b573f5268f06a7e24ea6c8f0a7ba5b4",
+      "git_blob": "1c0109bf751e48df4f2e9572d7304fa3152640b5"
+    },
+    {
+      "path": "archive/pre-guided-promotion/course-v2/README.md",
+      "sha256": "dff865793b4b8f53126e2eef6c2ab9594c97b2c4fcbfbe2fb3f8117a974d95b3",
+      "git_blob": "68a47574fbd00898dca981b023ecf75d677fb465"
+    },
+    {
+      "path": "archive/pre-guided-promotion/course-v2/WALKTHROUGHS.md",
+      "sha256": "cd981a7f06d064cc96463f164db01b7b0bb68fae14c0c23fad011378dc3ad2e4",
+      "git_blob": "ed6aaa4c04ecf9addaecd80ea4c1a89b7800aa36"
+    },
+    {
+      "path": "archive/pre-guided-promotion/course-v2/advanced/01-modeling-financing-and-tax.md",
+      "sha256": "66516cc7cadf24b0dd23d274289de0ded445eeb081d581faf061b1da9fedfe00",
+      "git_blob": "5560fb7c611becccc53a74c7b89e44c70b2206f5"
+    },
+    {
+      "path": "archive/pre-guided-promotion/course-v2/advanced/02-access-custody-and-estate.md",
+      "sha256": "75570b229d7ec0ffaf6fb3973f432482887b493484e8862557b11be352758b59",
+      "git_blob": "b07ad2c5ccd2b8456cf9dcce7884faa1b51f3091"
+    },
+    {
+      "path": "archive/pre-guided-promotion/course-v2/demo-household.json",
+      "sha256": "a70d99fef1d68feb12ed9056575bd06d763437e4a7092d6a0e4647eedabbe10c",
+      "git_blob": "e8bef47ddd017d6991dd2ffc7af33917b0bc2f64"
+    },
+    {
+      "path": "archive/pre-guided-promotion/course-v2/sessions/00-start-here.md",
+      "sha256": "bd7dd5263f92aa2bf30db0d810ab3986fb516457641bed78d9039ae42daf4b4a",
+      "git_blob": "a89ff0789a70b144cdc9593accc257b39c622062"
+    },
+    {
+      "path": "archive/pre-guided-promotion/course-v2/sessions/01-first-working-plan.md",
+      "sha256": "faaad5956ea3979515f9a9c99543451ed24fd8e8b040696988af2606aca28d98",
+      "git_blob": "d978d21fc2c24f9bfc806535aa53d18982e4bda2"
+    },
+    {
+      "path": "archive/pre-guided-promotion/course-v2/sessions/02-cash-flow-reserve-and-life-events.md",
+      "sha256": "5a1b096974fc91e49eec84fe4b2e2c5bdc5d88b7f7c481a92fac4f1d61c3adce",
+      "git_blob": "5910f2646266a70e048af3d74ebc677daa30f546"
+    },
+    {
+      "path": "archive/pre-guided-promotion/course-v2/sessions/03-debt-and-leverage.md",
+      "sha256": "18e1cb191364bff423754b9967c002b54aabc906ad644bf12b6f88959923e229",
+      "git_blob": "a7101fa12f7e065e49d9f5f2f7d29ba0d2183a3f"
+    },
+    {
+      "path": "archive/pre-guided-promotion/course-v2/sessions/04-allocation-and-next-dollar.md",
+      "sha256": "4320784df50ae95f763249ea3c02bbcc8fd94a00caeb220d746c0429073067e0",
+      "git_blob": "50cc064f19f93405a4fadc1941d78352e4bf1484"
+    },
+    {
+      "path": "archive/pre-guided-promotion/course-v2/sessions/05-tax-strategy.md",
+      "sha256": "27648d6e457740e18893b4c09e05e5e8418762c88b0358e4cc74285f09743f40",
+      "git_blob": "4bbe22035046d85ca8715cdaabc129063228eb91"
+    },
+    {
+      "path": "archive/pre-guided-promotion/course-v2/sessions/06-retirement-paycheck.md",
+      "sha256": "7b948145293bc0a7b93d4283002ff66197843b13988f50e9e6d45b7fe20b7808",
+      "git_blob": "8c5a02a789d29cd9f97eefae18d0762dd4db9062"
+    },
+    {
+      "path": "archive/pre-guided-promotion/course-v2/sessions/07-custody.md",
+      "sha256": "157dc7d0f1fbf370a85a7a0625c591e325308361265041c658f8edafb235c116",
+      "git_blob": "36cffce4b681bd62ee43e2188a726eb70ff054fe"
+    },
+    {
+      "path": "archive/pre-guided-promotion/course-v2/sessions/08-family-handoff.md",
+      "sha256": "c801f0215e18ad4b0e5cdfbc8aff585bd781b516c662124eb1740533889b5032",
+      "git_blob": "4d540d8679dc80ea3183a5174b429adb2ff4a066"
+    },
+    {
+      "path": "archive/pre-guided-promotion/course-v2/sessions/09-maintenance.md",
+      "sha256": "25440bd07a31796262aeb208bbe9ce48192970a8f018699b01715de2e3fd951b",
+      "git_blob": "2ceed8eb1f4f143f23533df53ca982bcfe4cfafb"
+    },
+    {
+      "path": "archive/pre-guided-promotion/course-v2/sessions/10-read-and-share-your-plan.md",
+      "sha256": "639663dcfe4efdbb9e49dd3865a5ea7f5641aa0098ae60ad7cbe4e28fa7df148",
+      "git_blob": "4518fd57cf3225b756818771bad81f9df929c8ea"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/00-1_how-to-use-this-course.md",
+      "sha256": "e8ecdf30ddb680b592d1f9a180bea246151b9ee8ae4a190e1e3b4092e5fce883",
+      "git_blob": "9af55acebe1df64299b439d38c71e4e82265cfb7"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/00-2_how-to-use-orange-plan-ai.md",
+      "sha256": "c80bb4299689b231c811c1f89468e3a07d15ae8ee4db9d3f74b124d71587dcb0",
+      "git_blob": "405932c85a147f8622c19effcb3a987b474025a2"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/01-1_what-to-gather-before-you-build-the-plan.md",
+      "sha256": "6c7b7b2ce897d27d42a24500d89d6db4665012e4638a41768a466f332ebf7759",
+      "git_blob": "3b3d9cdc3de119452b2046ece09beb3036d7c733"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/01-2_the-three-layers-of-a-plan-and-setting-your-assumptions.md",
+      "sha256": "487d85f2f2a1f4c6a64db9c8d45321295857c22440bafe20ed8c5a54bfec3150",
+      "git_blob": "fca56de4714e11fc11c71966ba922e7d116e61b9"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/01-3_what-the-onboarding-retirement-age-actually-means.md",
+      "sha256": "38e4dccc9400a26e1f380521c8a21044bc167b6cac63ecf266d6b746b43729e9",
+      "git_blob": "88f084e0740227e07249e82a16da9e064fe40822"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/01-4_walkthrough-foundation.md",
+      "sha256": "1c760019f39bcfabbda4655d43ba132f31969d89efa6fe1fb4b7cfb11c7ef4df",
+      "git_blob": "fff3ec2c2554052901c15afb60dd30a97f6851ff"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/02-1_find-the-surplus-your-plan-can-actually-use.md",
+      "sha256": "841dbba2c3229620d32d88fe948cfade2e199b0c24073830f70f2eea5ed8f923",
+      "git_blob": "3e11f80920912362dfc85bf965db329f22af06be"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/02-2_size-your-cash-reserve-in-months-of-spending.md",
+      "sha256": "0080e7ed182cbca37f6a2995e41ee3b31b405327d6a49721d12c1415f407d75b",
+      "git_blob": "9d0c61eb2ee2cda777298c1114a83e9d8761bd52"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/02-3_add-the-future-changes-your-plan-should-expect.md",
+      "sha256": "10512ffe0b24816e413b48e018e6daf7c677f897b24dcb56ef34c67e159b9a47",
+      "git_blob": "26712c52a931bb25e6744f224ccbe79a6fd96254"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/02-4_optional-decide-how-much-college-help-you-are-funding.md",
+      "sha256": "1c5269ad80ec58b1d99c3be1a7eee22c93cc5f7e9ced9106ed3ce3cc25eceff5",
+      "git_blob": "29df2de3157b0e5d36fddede52555f56908063ab"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/02-5_walkthrough-cash-flow-reserve-life-events.md",
+      "sha256": "f231c84632f27606eed54b07173bd6fbe2b9eb63412cc2aecc63a02aa70fe3c4",
+      "git_blob": "91e1db34a15348d418b23cdb3f9ed7da8c3a9066"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/03-1_set-the-bitcoin-allocation-you-can-actually-hold.md",
+      "sha256": "a137181f568dbeb419f16e0f8b62ed8041e490733e7243fc73658ad8369d00d3",
+      "git_blob": "58ef758158cc971da4616a5b5816ef52f78883d6"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/03-2_give-each-dollar-a-job-before-choosing-the-investment.md",
+      "sha256": "7075979869db3cbab93f66dd6443f1e0cd6a8af789528c6c22403507551921e7",
+      "git_blob": "0284cd274b5a4fdd40e51a29136a40201afd48f0"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/03-3_build-the-contribution-waterfall-for-every-new-dollar.md",
+      "sha256": "cc1aeb85111335d38ccb9698a6a0d295a3da63303be1381dc195f48bb9629243",
+      "git_blob": "42a980b86e91ba6db8738ff124c5ec6cfb3627ff"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/03-4_put-the-right-holdings-inside-the-right-accounts.md",
+      "sha256": "12ccde6b08007259a255f72b3c17054ff4aa159fa25e9359031411a18e22fb95",
+      "git_blob": "6d1435999495977495fac67233eb69ba29f35285"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/03-5_walkthrough-route-the-investable-surplus.md",
+      "sha256": "4c5ef04739733cf978681709b6ddae7f67ae947884bc9acda014954af3148428",
+      "git_blob": "a25a76a37e85f57fdf7c282ad0be9bfdc6ca8e76"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/04-1_decide-what-every-debt-should-do.md",
+      "sha256": "92209afece79fc4256c868edfc3a28af7104ebbdf6e5539cfcff48c7025e9e83",
+      "git_blob": "907a4835cffd99b39b9a69780f794b46af99eb06"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/04-2_walkthrough-debt-strategy.md",
+      "sha256": "bc5a7d1197941a0aaa9e88fbe914b9529979f5084ed2c8d39a488233ee1c36ec",
+      "git_blob": "c94928cdfd8556ac7892f94267a7582dd988860b"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/05-1_cost-basis-know-what-you-paid-before-you-plan-a-sale.md",
+      "sha256": "feaa359b51e01b444e582cd5ac3cf32fe6d4abd27dca59d70719fc04bb83d209",
+      "git_blob": "55a5b07058a1472c0ac181c67d1edbd812d3c66c"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/05-2_use-the-tax-buckets-and-low-income-window-on-purpose.md",
+      "sha256": "288d4c88e41c7051aed066be3980aa0fc6a45944ff8f4331ba406c9d35efdd94",
+      "git_blob": "c69d1e03b2eac1693384b39043b439107d2c13ef"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/05-3_walkthrough-tax.md",
+      "sha256": "b913bf1ac77871718b1236fa2edc8793466320ad036f0bd2483c7462611cb2ce",
+      "git_blob": "a12c24322d969cc73ec9811dc2da42ec41c864de"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/06-1_build-spending-income-floor-gap-and-bridge.md",
+      "sha256": "c5fdf99179a7d9bf73d81ec54f1cd0a4bc814e3968a56aaf1923cd6d880f1786",
+      "git_blob": "ba0f78d285e50ae9a3096dcfa488830ff1cf3876"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/06-2_choose-withdrawal-order-and-refill-rule.md",
+      "sha256": "395f344c2af8454233769172c0efc2736d4e6afafcbf58315eeda04502e2b286",
+      "git_blob": "4bcf99e647dd7f0a5e64163d66635daeb552197d"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/06-3_use-plan-confidence-and-guardrails-to-adjust-spending.md",
+      "sha256": "d1b17a45b8251927a91ae8f2d776053b875bfb43aaea711a5ac93a9d90f1a112",
+      "git_blob": "53d30a99323166fb03c5122ac55f592d651304c6"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/06-4_walkthrough-retirement-paycheck.md",
+      "sha256": "3d82d3e90dabed6fc44becf8dbc779a07540d7e84571caeab3502729ddd705f1",
+      "git_blob": "936a637df8d5ca674830265e7f7cd6f3d2e1a59d"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/07-1_self-custody-professional-custody-and-when-a-split-makes-sense.md",
+      "sha256": "35c714f29f9d1edfb47a206a0b263670fc4fa7b1a686d15866fc809c30249b26",
+      "git_blob": "bc5ee955b7296e857680ba4bd0816fab1bb1da24"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/07-2_set-up-a-hardware-wallet-and-prove-recovery.md",
+      "sha256": "cc66107da5aad22699eddf85eb9e3603eb5e834b1fe9491bf69bbbfc5f3865cc",
+      "git_blob": "75402b22b3a22e00146c5944e143538de746fcfd"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/07-3_fix-single-points-of-failure-and-harden-accounts.md",
+      "sha256": "1a18b4487bccf0ec6df6e3e2e6a4ab167bcade86bf22b6acc8af14ca50e2d944",
+      "git_blob": "ca742c679b81fbb6bc0bcd53e1fab6890e6945b5"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/07-4_demo-hardware-wallet-and-exchange-hardening.md",
+      "sha256": "16ae21efde7a81d3398e8a30feeb733bd96e91a2d576558b3b8ed68eda883d21",
+      "git_blob": "04592fcd97b76356a6334e4853cfd7a24354bb8a"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/07-5_walkthrough-document-the-custody-decision-and-status.md",
+      "sha256": "b74f4ab688b186e4307a3d1ed306cdc1611186d0d5d2ddb637924bdfbd903bff",
+      "git_blob": "493aae1c6e53fe4fdd6a461d99662bc904ff2405"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/08-1_choose-who-is-in-charge-and-put-the-legal-baseline-in-place.md",
+      "sha256": "11dd2e9edf8b25ae44acbd3e9f9306911d64313e3c56e377f0aad91cb893d858",
+      "git_blob": "5f00137e37438d228c200ca38a3d9dd0f7002874"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/08-2_align-legal-authority-with-technical-recovery.md",
+      "sha256": "7a0d864bf38f1f85bbee92c4a98a4b1bfb8e9dd5327a26e23843a38def17fc2c",
+      "git_blob": "fcca46b2fc271e83a20ae57d74d3c73133f1cb93"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/08-3_write-the-heir-letter-and-create-the-backstop.md",
+      "sha256": "555c9c77d873f7ba1510948fa24bf43736b7171aa1419348ba093ac08af03815",
+      "git_blob": "2719f24355ce41c4b0393b3dc14e050e706961c1"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/08-4_use-insurance-for-risks-the-stack-cannot-carry.md",
+      "sha256": "baf827157ec7c4f76bd3aa465f5b65865a6493c05bb2c611bd8b4b3456d49567",
+      "git_blob": "38c0564cb4324b3a2386a0679bd39f5a6f4c70f3"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/08-5_walkthrough-family-handoff.md",
+      "sha256": "1137c7b6a5dee3d75ed2a241712a1a862d819b4708d3f5e412cdf0c7c3f5bfea",
+      "git_blob": "c80ce095775374addc703a9eb944f4c4831455f3"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/09-1_keep-the-plan-current-without-rebuilding-it.md",
+      "sha256": "968865ad40300e65dbf0d5e6c4c6cbb145b2ae977efcd685a74294cc0e0753f0",
+      "git_blob": "11a57b3b85650a3916126a17dd81373b1f8ebbab"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/09-2_test-decisions-and-read-the-finished-plan.md",
+      "sha256": "f6edabf5240fe2fef98bf20adae36da2c2dc698703e15770be52456760c4227b",
+      "git_blob": "5c20b4ac8e54cbaccc6cc3dd8bc2962c7fa4ab38"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/09-3_walkthrough-finish-test-review-and-save.md",
+      "sha256": "3f0039a2cdd827b4190b1130f2da29127a68eaeffae7a6f994121d53d24c7bed",
+      "git_blob": "c189bf573410207c73b2675155f6e0b69c933f34"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/advanced/A1-1_how-orange-plan-models-bitcoin.md",
+      "sha256": "9de655f56fb3c31578aa5516dd88ab1d9bde2e53faec2178b9fccb2ffc466262",
+      "git_blob": "f28a4ad2f446aadee09e2c3da9b165047094fcea"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/advanced/A3-1_price-context-before-a-large-bitcoin-move.md",
+      "sha256": "b24d306d67536a090fc7a83492b0d8b0d3359151f3ec760a95405f56983a81cc",
+      "git_blob": "5ce6a63c208b8b17822d242224640ad2ec93a3e3"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/advanced/A4-1_borrow-against-bitcoin-without-liquidation.md",
+      "sha256": "bedc2528f914b24f85762648e34811439bc260551657fbfa484b6c17f4a74296",
+      "git_blob": "bcbbe3b6c816c15ab18d5438fcaaac310af64727"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/advanced/A4-2_four-ways-debt-can-strengthen-a-plan.md",
+      "sha256": "54c5f01ef3781882f9b725525e1364f3e7dfa8644f0882864afa00e486c257c9",
+      "git_blob": "63436a09d58d66b8ba5f3178efaf7334cc3fc3d4"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/advanced/A5-1_rmd-pressure-and-roth-conversions.md",
+      "sha256": "a8237a68996e8bc63fd2445abac6c86912b10a31abaf29958f9edfc941203179",
+      "git_blob": "c12f2259812028ba1e34a953028e398106efc6d2"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/advanced/A5-2_harvest-bitcoin-losses-and-gains.md",
+      "sha256": "f6edf0e67c38388c88050b752f61a1018da0a32d512e80661c95fad5050b4c1e",
+      "git_blob": "30fb2cf138bdeaba90b26a254277a809739c4f89"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/advanced/A5-3_state-taxes-and-relocation.md",
+      "sha256": "9dd27a69af267b580b339f4982c55624fa4d30cc7dda36e14c49b46d726a121b",
+      "git_blob": "88e61801fa79a3a14c0663780e4b2cf98cfd31d6"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/advanced/A6-1_health-coverage-before-medicare.md",
+      "sha256": "4b640317535fbe0f92bb2749ee9980662d2ec09cdb4c13185623b44e05f5a2d2",
+      "git_blob": "e30cb763ae0f7f6f9056effbc8e4f5529bf0c2c0"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/advanced/A6-2_sell-borrow-or-hold.md",
+      "sha256": "cc6a7de7c0189f3279936e75555f4c960d051d1967f1d4432b15040b9f44a048",
+      "git_blob": "6a919925571905b36a05b8dd55ceecf89df468f9"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/advanced/A7-1_compare-passphrase-multisig-institutional-custody-and-an-intentional-split.md",
+      "sha256": "1881dcd975e6e07e4d0cf591cebe396d1192a8020f11e8986599ef7d2f4a3d8c",
+      "git_blob": "fa326f09515e1004ca2f8cf0e348be17165059b7"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/advanced/A7-2_what-self-custody-asks-of-you.md",
+      "sha256": "db186872848e8716e85beb85f3eb89670d73d702b2076e908e1f470be0f81b1c",
+      "git_blob": "b0764502931b168c632b46100e3354cb9eb681c8"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/advanced/A7-3_run-the-one-failure-test-across-methods-and-providers.md",
+      "sha256": "01d736382c8ecc55ca6a4a6c71cc36bb6af89cbf8bd03a75963a00d0c78f7671",
+      "git_blob": "7944cf11c45489dc9be25368297748981e0ec467"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/advanced/A7-4_utxos-dust-consolidation-and-addresses.md",
+      "sha256": "939b3cee6e7490542995a82a67cd90847d14f0b6b1009708f087b7c84b0116d2",
+      "git_blob": "4b42f202a2a170b75c42b6cd4d7414e1621093f0"
+    },
+    {
+      "path": "archive/pre-guided-promotion/lesson-text/advanced/A8-1_do-you-need-a-trust.md",
+      "sha256": "3236ba8cb3b64f9f10ad208c31e414582d68486c0fd630d84297ec15581f6ea6",
+      "git_blob": "d78d5123c34c89925a31045b041405316f858269"
+    },
+    {
+      "path": "archive/pre-guided-promotion/modules/00-start-here.md",
+      "sha256": "b2ef0b3704e347ebd578d293c6351d0d88186b5019c0e343c0c60f30b32013f5",
+      "git_blob": "6a0c69c2467513de68e30765635d6dd196c4d3ed"
+    },
+    {
+      "path": "archive/pre-guided-promotion/modules/01-foundation.md",
+      "sha256": "653ae11c70ac4b952667e775f9232c562f0a9b30b19af842aaaf36e8b0a1bc36",
+      "git_blob": "aec133de4751fe81113328a29cb2b1394af5f1c7"
+    },
+    {
+      "path": "archive/pre-guided-promotion/modules/02-cash-flow-reserve.md",
+      "sha256": "911a606c7d66a64cce7b201508e4fd8a3069d756d1ec1e1773d6288103ed89e3",
+      "git_blob": "effda1725166c671607dbeb5b0427ba2634c79fa"
+    },
+    {
+      "path": "archive/pre-guided-promotion/modules/03-allocation-next-dollar.md",
+      "sha256": "e87a59a347322479ea1d43b36d8937170b4be1726887f1c839345d9c1205d804",
+      "git_blob": "7b27be7df9b271c37a86a30da9a6303346b9bd42"
+    },
+    {
+      "path": "archive/pre-guided-promotion/modules/04-debt-strategy.md",
+      "sha256": "37c528aa66d479a512c300b8602eb25b15d90e51d7bd8257118f3a4aaa572af2",
+      "git_blob": "2f2306e6cfecb5d5952385edbc68831783797fb5"
+    },
+    {
+      "path": "archive/pre-guided-promotion/modules/05-tax-strategy.md",
+      "sha256": "afa5ad48bb30d9ec0c9ca543f5b43ac3400d355538bbf2f19d8b3e8fbe1d60cf",
+      "git_blob": "793b2271c5e964e44723c433aeb13172c6489643"
+    },
+    {
+      "path": "archive/pre-guided-promotion/modules/06-retirement-income.md",
+      "sha256": "5cd20e8ab23de279f8e0707e774e082d3e4543810c16f1c37ade78ea1399f005",
+      "git_blob": "9fe89e4dd1026122dc7fefe3be1842daf4e91e85"
+    },
+    {
+      "path": "archive/pre-guided-promotion/modules/07-custody.md",
+      "sha256": "0f027d9070ad2a13319726f5c85c5a13a3c75fca3bf665205cd7f9d63c511d97",
+      "git_blob": "6530bdf58782664c7d09692f5096086ea8d8ffe1"
+    },
+    {
+      "path": "archive/pre-guided-promotion/modules/08-estate-inheritance.md",
+      "sha256": "d2f359d111bc1a7e77cbfa2b88c117c9aa30b8633035c2a61d87062677095987",
+      "git_blob": "d68f1bdca8392a5c8e5cede477c890df7b0271f2"
+    },
+    {
+      "path": "archive/pre-guided-promotion/modules/09-finish-test-maintain.md",
+      "sha256": "9747903afb5bc8bb8c80efd6a4236ed0ffcc42fd7bfe4a6d2008790a4cb0c586",
+      "git_blob": "6c2d00eb6d2a8f73b5cfb65cd04760139ccb7a61"
+    },
+    {
+      "path": "archive/pre-guided-promotion/modules/advanced/A01-foundation.md",
+      "sha256": "29ca1b3f0b6da1a50b37040238e277adc82a706d72facb9122bc5e9296efb82a",
+      "git_blob": "58bf36023ca865b68449766ebf569a3e8d5aea67"
+    },
+    {
+      "path": "archive/pre-guided-promotion/modules/advanced/A03-allocation-next-dollar.md",
+      "sha256": "3f92ba2e5917a9904a85ca92dcfa6b37bb676e7347949d14a204b955270c6070",
+      "git_blob": "95322113f820a39c1920815c9bc94846ef91881a"
+    },
+    {
+      "path": "archive/pre-guided-promotion/modules/advanced/A04-debt-strategy.md",
+      "sha256": "4b331dea58c98692d706a26548108ffe321dc647bae76dd89aa975d0cb363a49",
+      "git_blob": "d366498be1a153a00d9207c52b3642de44936268"
+    },
+    {
+      "path": "archive/pre-guided-promotion/modules/advanced/A05-tax-strategy.md",
+      "sha256": "6f518d93cdd5489435c44f6aa74d5b917fbd854f53804034e29431c0ed26728e",
+      "git_blob": "0d645bd6de507ef45bcd1310f628e28619cb1f2d"
+    },
+    {
+      "path": "archive/pre-guided-promotion/modules/advanced/A06-retirement-income.md",
+      "sha256": "047ada019e8a23c01a68ee5f1f5db1d8e5a9d160e931346fe185fb8497122c9b",
+      "git_blob": "f3e61d7dcab36896e26b1813044d714c6f2ce4a5"
+    },
+    {
+      "path": "archive/pre-guided-promotion/modules/advanced/A07-custody.md",
+      "sha256": "c4b09051447de1ce6a3a7c4c68ae16d5d40c42015433c88c8ad988535556c55a",
+      "git_blob": "3e5a0569d6e17ce817d0d3c1c8e0868a4b5131d5"
+    },
+    {
+      "path": "archive/pre-guided-promotion/modules/advanced/A08-estate-inheritance.md",
+      "sha256": "606660ac682851ec6aa129d7dfa852a4181f5760d9cf2465c942faa4a1429c73",
+      "git_blob": "ea261ed310a58349fb78f741da109ffaccd953f4"
+    },
+    {
+      "path": "archive/pre-guided-promotion/research/PRIMARY-SOURCE-REGISTER.md",
+      "sha256": "06ca4d00298a8f499ee86042448272d7ddf39fbd13f0b42285f91c3b78077d93",
+      "git_blob": "74eef96a7aabdbecf5ea2758096597ca87625dcf"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/00-1_how-to-use-this-course.md",
+      "sha256": "8d7395b9b60c96e033d9809457c7a55db9b7f6ccb47d1d5ae66563db24228c86",
+      "git_blob": "b0856eb661e6ece598d6d7b41618ca9b5308a3fe"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/00-2_how-to-use-orange-plan-ai.md",
+      "sha256": "124df36b7199f50ddb51690286c7033ef9759f64b44e1c2d3e6f834e8bf43080",
+      "git_blob": "ddb2aaab7bc0b85e8882280ba1426afebedc4a0c"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/01-1_what-to-gather-before-you-build-the-plan.md",
+      "sha256": "56fd13f1c97ab64a2e27ff345bb9f5d81fdd67899a0133885db2cd6d6cb1c8b4",
+      "git_blob": "e56ea2f1ee03fb5ead7b1dc175b86fd7ea173a3e"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/01-2_the-three-layers-of-a-plan-and-setting-your-assumptions.md",
+      "sha256": "e614a9427e29399d83becbe0381f470b7892193cb71750896e286123ca3ce0f7",
+      "git_blob": "713b6c5c0b8e3eaae455f7e590b1a00641123cd7"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/01-3_what-the-onboarding-retirement-age-actually-means.md",
+      "sha256": "f2276ee8058a72c510fd7776cbeb4a8009ca0e505883b43f64906bfbb0c165e4",
+      "git_blob": "656b3a5ef3e894f77e240b7ce0b06936b3e27a5b"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/01-4_WALKTHROUGH_foundation.md",
+      "sha256": "a1e46076362c643b50016592414db0a8154dc1fb14c62589e9810e79e965e7d5",
+      "git_blob": "2a4644b039bf63695d84e3c7d208bb7f1c0ac049"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/02-1_find-the-surplus-your-plan-can-actually-use.md",
+      "sha256": "99a1b1181a1219770568c467c25236e31b483a52d02d307ffa49a37ddd0aa23b",
+      "git_blob": "aa4e5d52bc4bd147f66fd143505ac74928f871d7"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/02-2_size-your-cash-reserve-in-months-of-spending.md",
+      "sha256": "116731b938165ded719d2b506a988a43475c6f2ffef54e3372ff8862dc177391",
+      "git_blob": "3c6e856ca5a2db606788ddf6fea0ac7805d5f682"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/02-3_add-the-future-changes-your-plan-should-expect.md",
+      "sha256": "bf73a44c2e4517835ca18a8682006d82c802186910d810564dd951e44e1bbef4",
+      "git_blob": "4b082331faa1caba7039ab901d72e454fe87ccb6"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/02-4_optional-decide-how-much-college-help-you-are-funding.md",
+      "sha256": "2d9ee9f9a349a3ae1c747c57c4da89e714496473dcaca0a1a89f8816ce745bca",
+      "git_blob": "81def8a68b6f7479f4c332341f9a9653bcb9444f"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/02-5_WALKTHROUGH_cash-flow-reserve-life-events.md",
+      "sha256": "476f753644841fa1680466e4ccfba7f6dbed42477da9e822ca9183a5590cc0ae",
+      "git_blob": "f5c18232300860584c44ca8a6428df4b01c8ed2b"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/03-1_set-the-bitcoin-allocation-you-can-actually-hold.md",
+      "sha256": "84eb88e1efd3c93a039e19f814a650f302e0f471dfd7cf5d201242ce81a9b60a",
+      "git_blob": "02fd92ea888949350b3f347bcbb94b482d96542a"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/03-2_give-each-dollar-a-job-before-choosing-the-investment.md",
+      "sha256": "7101303d1dd67c4af4e7d040bc8ec453abf2eadd7cf34cbcd9f0d7bb11ea5da3",
+      "git_blob": "d42afe29d88aa75d60f08305e5cd9895a7ceb6c5"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/03-3_build-the-contribution-waterfall-for-every-new-dollar.md",
+      "sha256": "0639d85cfcbfad539fada052e12ba9aecca9eaf55004c6caac4785b6bbb3ed3b",
+      "git_blob": "baa077800c035892360f6c7c0ec93c892bc7cbcd"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/03-4_put-the-right-holdings-inside-the-right-accounts.md",
+      "sha256": "4a9ba69f946d4a72246658000e3316c487cbe2ac115cf981d98e8e4e03c61640",
+      "git_blob": "a35e13c7d7d5bb937ef01a06d87bddb81db2cf1f"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/03-5_WALKTHROUGH_route-the-investable-surplus.md",
+      "sha256": "48ebdf0694ee0ba77e9874c338f95fa03ca3a529a3adb50f9c08cdf0ea099740",
+      "git_blob": "b665aadc6881314f54ad64ffbd15a093d3181796"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/04-1_decide-what-every-debt-should-do.md",
+      "sha256": "9decd9d3b94df4fcae7f1ca64738e39f3447ff653de0fd931ba0a322cdb0bdf9",
+      "git_blob": "7a162051ce04a6bba844097c72c7cffcf9956cf6"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/04-2_WALKTHROUGH_debt-strategy.md",
+      "sha256": "38e0d979a08551aa92205d4fb175e5aa1ede9dcb1a9973f815a26e59e358ada3",
+      "git_blob": "51210cf49ed225316f78b77ba13b6405845cef3b"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/05-1_cost-basis-know-what-you-paid-before-you-plan-a-sale.md",
+      "sha256": "b1bb137a74d6c7edb2157f57c6107dc5f5229980191585ba9778336829471cda",
+      "git_blob": "f6b925f109d0bb28a6a8e3a22da4411345a414cb"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/05-2_use-the-tax-buckets-and-low-income-window-on-purpose.md",
+      "sha256": "783255d021580176edd41338e1064b30334de8abdba91f82f76d07abd9e6f97f",
+      "git_blob": "5f61ec55da8bd3c0e5effde2cfc158811d6af771"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/05-3_WALKTHROUGH_tax.md",
+      "sha256": "4c86815d720b85f5815a9e8d3a7ef7c90f5bb209f86c1de65dcc352fb969754e",
+      "git_blob": "686ba90a3ddd6eda0ec1c771cfa0174da3b632ce"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/06-1_build-spending-income-floor-gap-and-bridge.md",
+      "sha256": "43f5131d6e0c9c2bef7ae24f02e901559cf21b701c92c4f48c3c190bcb0efb8a",
+      "git_blob": "c4f4fffcd2f74bc94bbc3bdcdfc8824cbce2f692"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/06-2_choose-withdrawal-order-and-refill-rule.md",
+      "sha256": "8c205befb6e0f620ca461154e1d42ebce74a5b7301ee78c0caa73c685871e5b0",
+      "git_blob": "48a29fd867079da0ec823b393783afad9bc06c38"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/06-3_use-plan-confidence-and-guardrails-to-adjust-spending.md",
+      "sha256": "add2423dd2a603c86dbb08a2592fc6364765b1683e4a6822933ea51eec4deff3",
+      "git_blob": "f65313998a7a1e5cf73e4eafdcf3dc23b7187ba2"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/06-4_WALKTHROUGH_retirement-paycheck.md",
+      "sha256": "0fe53bdc0a2c72d8ddcd93e5c33b7a10f18467774339ea39e33c07b39af61869",
+      "git_blob": "e380333dcda6ab1abda646dfdd55c7faed3dad95"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/07-1_self-custody-professional-custody-and-when-a-split-makes-sense.md",
+      "sha256": "450bc0847fe7e024a375b56c003420f822c23f0fa5968f8456cf36aa27b4a9ed",
+      "git_blob": "f6fe78a679d5477e667c107df7964da4e5eedfba"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/07-2_set-up-a-hardware-wallet-and-prove-recovery.md",
+      "sha256": "4f124299803fad31075113df8c3f50dc45ffd0a6c5ee5514a8b6fc48af8a8344",
+      "git_blob": "9e149a0f43cb5569778cfa508fcc11dcf563c49b"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/07-3_fix-single-points-of-failure-and-harden-accounts.md",
+      "sha256": "7752e3d88e0eb751a5f02eeaa3e10554592c176e5e7ed5f72432afb01a401980",
+      "git_blob": "59962ad87cbae7ab0b36630ebdd771baebb65729"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/07-4_DEMO_hardware-wallet-and-exchange-hardening.md",
+      "sha256": "71bca9a2e587d1581da33af294cbab9fa860b6aaf26cf1256c7fceaa3adbfa84",
+      "git_blob": "4277a3ff629758fc6e1204ba283d223dd98f9c02"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/07-5_WALKTHROUGH_document-the-custody-decision-and-status.md",
+      "sha256": "243609ae28ece2172c7e903ba48822fd5b00a84bcc5eb9c2528bc22aee817e77",
+      "git_blob": "6c50ddcfd0f31e01ebc2e7045ee23c68ac353d74"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/08-1_choose-who-is-in-charge-and-put-the-legal-baseline-in-place.md",
+      "sha256": "4c42263859eeb6b982d0db87426c8a5b42ee98ab4fd95ee570d96fe9f39f6e43",
+      "git_blob": "a650944f7931ab8d7fea20dbc313f97418a9816c"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/08-2_align-legal-authority-with-technical-recovery.md",
+      "sha256": "a42fe04b003253957caf76c0e4e508be27231462d4a6238c59217b62c510b900",
+      "git_blob": "627aec05d0c4045675d8cbb5e14f8b6f8ff8999a"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/08-3_write-the-heir-letter-and-create-the-backstop.md",
+      "sha256": "bc7c185d81755b931cbce0fcd6126077f37612a28750c5457f8409d09f407172",
+      "git_blob": "af878a5815fff62a5df4c5bdb919fa92ddc83df4"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/08-4_use-insurance-for-risks-the-stack-cannot-carry.md",
+      "sha256": "2cf946bd3ff77fd45b6b8161c89b5355515aa7ffe302600f9a4bc11a17c5bd66",
+      "git_blob": "43dc16841aa75b504b9d8edc4ccf3479b3e1ce45"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/08-5_WALKTHROUGH_family-handoff.md",
+      "sha256": "78b3784e92cb5008b1c6b9a2a2b7ed027547a96e1529df4812a2234acdeee763",
+      "git_blob": "58cf967881ee393ca8eb65314263e6334acc00f0"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/09-1_keep-the-plan-current-without-rebuilding-it.md",
+      "sha256": "f868480081aeac80443f8b769b7b9f8cc3bf7ac73acb0694b3ec86f06661c4c2",
+      "git_blob": "b8a82d18da736888ab297089fcfa2ea47bd948d1"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/09-2_test-decisions-and-read-the-finished-plan.md",
+      "sha256": "ae2b4ed3e132e384dedf2c6303714fa7966161b230d93e5e702663241497ce4e",
+      "git_blob": "20ba3e2de31e86c56bcaec2d58b65d9e44dd52f6"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/09-3_WALKTHROUGH_finish-test-review-and-save.md",
+      "sha256": "2887fc0d986d852c0096fde955ea1a7738204b62ccf77fab9af63ce218190b56",
+      "git_blob": "6fbd429641560e14ee1d5e1fb397e29f21dac42f"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/README.md",
+      "sha256": "a1335b7795ade47fa9ade78df10df115cd3dca95257457f8a65c442472480108",
+      "git_blob": "81940169db03f1cb4d3ae9ead1ab8d1fe6643697"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/VOICE-GUIDE.md",
+      "sha256": "b7e055c125e08312575cdf89b03d46670c06f06f5f563f2506d1b25a2aa3f3ec",
+      "git_blob": "c4e746107e9429c09c16d76253584fd850309b81"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/advanced/A1-1_how-orange-plan-models-bitcoin.md",
+      "sha256": "99ec9c7de006205a306013f9be70847afe66a231fc818ddb51d1abd008b48a62",
+      "git_blob": "bc818267679e9f2f5d6ff254481231bad3206431"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/advanced/A3-1_price-context-before-a-large-bitcoin-move.md",
+      "sha256": "ac2a05759a07c392d6d7bb17d10590fb5376cedb7c2181800e56bfd14f5065f1",
+      "git_blob": "8e9f8c77b582b9aef1f37f1651cb59ce7cf592fb"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/advanced/A4-1_borrow-against-bitcoin-without-liquidation.md",
+      "sha256": "9d5fa7ac567b57e96eb23147689f5ac19971cc0cfe9a05cfa7c2662cfc0132da",
+      "git_blob": "d2e81138191631850c9565148b5c50739b8baf6a"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/advanced/A4-2_four-ways-debt-can-strengthen-a-plan.md",
+      "sha256": "71ada09f8729c29ad6435aeec06f46abc3d72fd3afdc6534654f8fe83c6c6712",
+      "git_blob": "1997bb8162ba7f634b4ff6376908e0d6aa94d968"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/advanced/A5-1_rmd-pressure-and-roth-conversions.md",
+      "sha256": "e028cbd32cfcc9660fe0c9d78658eaf60d1c4f4affd2e7165ecb61aec1bf431e",
+      "git_blob": "b6c3a1b659d57cb0e769403add5f89df12984ab7"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/advanced/A5-2_harvest-bitcoin-losses-and-gains.md",
+      "sha256": "a0fe9f3c1fa809b328f33a26e0b5ec5fa696051a6bdaf53938ec972000608c72",
+      "git_blob": "fb922cc522430d0ac90d5e1c50bfbdc580d2a2f7"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/advanced/A5-3_state-taxes-and-relocation.md",
+      "sha256": "d714b98bdb13ea2629481e75a9b6b9039ab27c1bd205eb42baee0fe2a920be45",
+      "git_blob": "d7b3633c4bfe9b9e2013e4cee1d585efb9624a07"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/advanced/A6-1_health-coverage-before-medicare.md",
+      "sha256": "3758a1941610205fc13c1f7d2b9a7cfe49750cbafa3d0756be293f595e0843dc",
+      "git_blob": "65f7fbd3186dcd5f66e2ec83499038c764f53c1c"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/advanced/A6-2_sell-borrow-or-hold.md",
+      "sha256": "ff596e71f1cb114b6ac5e4788d9c74e9ed81a5faade4ee9526a60dc5c9e02373",
+      "git_blob": "281dad2c4518140af9e4fd2785ddf2923abd431b"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/advanced/A7-1_compare-passphrase-multisig-institutional-custody-and-an-intentional-split.md",
+      "sha256": "a06c324f0604cedf6bc43ddc0d5817357f70fd787ae166ce8c366c2eddaf8437",
+      "git_blob": "75f03105ebe9fcf82c9912792520b3c45febb632"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/advanced/A7-2_what-self-custody-asks-of-you.md",
+      "sha256": "6248871d0adffb75dc617557eaf45c0c2e49c4d4b5774b5b8706089711a66d2b",
+      "git_blob": "969ec6aa2f5e91be22f65dd1694d1f9c429cba18"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/advanced/A7-3_run-the-one-failure-test-across-methods-and-providers.md",
+      "sha256": "60a5d3ea103c1a6485901f1af222c884cc83a33184f9ed8dc53e2ebdea1bf13b",
+      "git_blob": "2e38bdf29a323eeb6e7df2914617350b354d32f0"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/advanced/A7-4_utxos-dust-consolidation-and-addresses.md",
+      "sha256": "f9840981803be99d4742f6d9ce25ae30ee039952064f2758c1514fb4194463f3",
+      "git_blob": "f18b25ead5bf8f58bdb14586769c67425e3a8e9a"
+    },
+    {
+      "path": "archive/pre-guided-promotion/scripts/advanced/A8-1_do-you-need-a-trust.md",
+      "sha256": "fd535c722c6095c29a2e09d855748de8d589d032bbb6aed4380126f61d3739e7",
+      "git_blob": "4c2a28ba03d8651c44b283d0a9f01f66848082dc"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/apply-onefile.py",
+      "sha256": "805cc21cba132f2b1a3626c95c7d6c944838ba956c3b3939569d760738f34d3a",
+      "git_blob": "f5b985141c4181e9c4fde0f140ae6f13a6c47265"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/build-circle-structure.py",
+      "sha256": "ef8ecd951685d29549cd297e83e7439166e2f9540896cf6411b38017e6e7080b",
+      "git_blob": "29f4496aaa92dac8011d4d7cc7282d18d4a7f1b0"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/build-dictation-order.py",
+      "sha256": "59b812f820660b8d215f566817f883e7982336f22c1e4707414591f0564ed562",
+      "git_blob": "a27b703a408b51468af9fe65bb62727d552d8dbf"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/build-film-order.py",
+      "sha256": "45e546b2561ae44e3d26bf85405dcd2a809f5aa36423e1d00bae32e0b38698b8",
+      "git_blob": "90ebc620311cdeca64d36cf9d097899d08173d5a"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/build-module-gates.py",
+      "sha256": "8aa79d08068bbf81d55221e78fb6a2a3520e5a406ced50e39376f6edc08b846b",
+      "git_blob": "46235da6538992e5730afed5bd6151741a8ec246"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/build-onefile.py",
+      "sha256": "1badefef2e1a38ab5103079de8b7a870fd08cf5d04b3910b81368b0726905f8a",
+      "git_blob": "4827c178b0a10f75afbfc3d8f69837c0bfb57ce5"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/build-production-checklist.py",
+      "sha256": "5fb4d0ffd161f4bf627b7448f095f9f1bfb699a0a17a4d13488deac0eab9a051",
+      "git_blob": "8def423aa174472b79b0e96dd73f31c3fd6e2362"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/build-scripts.py",
+      "sha256": "4052b50468d482e4abfba918eb6d933e077da3c3bd536052896aa0fd52b23f7b",
+      "git_blob": "a9f6e0589b3df69085dc1ef64c5e57742b67ac88"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/build-shoot-list.py",
+      "sha256": "57d9da0a3d1c010aad0925aa10c010239fbaf7ce8aeffe413f3ad3155c3090c6",
+      "git_blob": "6e30828f0128536596e87ba00c7921a67409a842"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/check-crossrefs.py",
+      "sha256": "fe0a8c93c7054a52ac2588038be7c50d57b27af934d4d8165012c6ca8bfa0f47",
+      "git_blob": "3e8f2dcc9e91afeb795c8872fcc7968898207b64"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/check-layer-parity.py",
+      "sha256": "47d4c9595724ad424bfc3557b5d0436b741d4a71c351331b6e3c4137ba43ecba",
+      "git_blob": "d697dd0d69b2fb72dbcf990d346a2d2915d365f6"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/check-v1-course-alignment.py",
+      "sha256": "c2a9e1ff6ee649cb53fd851c2d08cfbf9fbbe112c503e29bf29a595eb8e01f6a",
+      "git_blob": "d0e43531b124ddeb8389d248ab43b97125b75fe3"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/check-visuals.py",
+      "sha256": "12212bd9d4566bce9499e6b5a72f4e705bbc65d9e2b785b994f4dd7579b8c100",
+      "git_blob": "fa18ba10277b0a0f1d543d6b9817c85619645f4f"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/cold-read-audit.py",
+      "sha256": "dcfc7adcae097cd6b198622b9ee18d56fecd40c102570af056de2567eab4edf6",
+      "git_blob": "cdb6c8501282506760c1e723c61fc69f8b88800a"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/course-metrics.py",
+      "sha256": "da1a2dbea523fcefd9951632d68e822077f25cbc3c849a5d7bd4ca818ff5d023",
+      "git_blob": "d3310122cc78603dca081e18283bd6dd0a523e5c"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/direct-voice-audit.py",
+      "sha256": "ce05253ee9976660c0252c9653c60a96a4366a8e73f2fadae318b2b965d3dfd3",
+      "git_blob": "71cad60c699f9d5148fe613295cfaea0ee127287"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/fp.py",
+      "sha256": "47d1752135b86cc9371dbf5f03eb637ebd4de8b9fda081751c4c39277e87e7fe",
+      "git_blob": "7b6f78ec1375718241e3e77fc328ef887f541a40"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/rebuild-masters-from-scripts.py",
+      "sha256": "757adf5b223c586f8eb25b58833ad799aa2847a349a5fcf38e0cf45cb8ff91a6",
+      "git_blob": "62ca1faec4eb91e26f108c84465c5aeb8101d016"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/slop-scan.py",
+      "sha256": "a31a0a5f880ded6c3436373a91a018e458ee40953aa2965bb9e37063d0711adf",
+      "git_blob": "56b379ac4dc0c86402db09a882daf5052a562671"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/split-modules.py",
+      "sha256": "25414c28bf67b920164466bbe02744cdd2f433cc209e00da7903c2b814ab71fe",
+      "git_blob": "cd32ce3aac71bcc581d4e54e5f1b3623b733bc57"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/sync-lesson-text.py",
+      "sha256": "18adae6195de5e0719c54e6644408c0b574a5650e135461ae10252d63c43a203",
+      "git_blob": "22f82753be31fa4515068feef5eb8e83eff978bc"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/sync-master-from-script.py",
+      "sha256": "ec6c9693975ff2b4e0026e490a6f95bebb9ac6b07d58eb2920ac7c7776f72fd7",
+      "git_blob": "4bf752007dab77b0cfe0a27ba481247d226dddf5"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/test-layer-parity-mutations.py",
+      "sha256": "a030ed2521ce2d84c175f10a056cf4e16153edc6d41f3977a7629b5b33604076",
+      "git_blob": "179111ae07384ed2f237f994cd1d64596eb99bb9"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/voice-compare.py",
+      "sha256": "f1b453255d1edf15ecb542d8ed2cffe145ee4d9fd4ab517be5bec1ac398dca0a",
+      "git_blob": "5dbc66ff7f7ff9d3a6fa8f0a689c8d93cad7dd9f"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/write-production-checklist-template.py",
+      "sha256": "30f967db3262f6324c8615e0f554c312d92f3167401f2ff4e716d3e6c688ff2f",
+      "git_blob": "4d4de7b778d3f04c7219377a7d5ec81649da2e4d"
+    },
+    {
+      "path": "archive/pre-guided-promotion/tools/write-v1-claim-registry.py",
+      "sha256": "7cefc8ad42bf3aae3c3466efba71d85a3dadf1eea5a78703d3b1fa3d86d282bc",
+      "git_blob": "13672e7ee97ffdb27182db923c00ed3b096536d1"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/0-1_course-map.md",
+      "sha256": "dcdeef5089a4b1f00a544cc40ac7df8d77b6fb6724040e2a235ac1753f8072b0",
+      "git_blob": "fcc80def7c59fe6ed164903073ad9b6aac9df4cb"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/0-2_ask.md",
+      "sha256": "f258efb1e26fe58562fac8baee5fc01169bf2d8edec83743f2579c617a4b2af9",
+      "git_blob": "fcdccb7275bba49c7e5d0175b0a52bf86adc55d1"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/00-STYLE.md",
+      "sha256": "8e579f6ee0647742aa0b1aa27fd152ee84e35d3d5a7caa213985ea0a3db0f20e",
+      "git_blob": "7906bf22448f11ba461a6b3659fc48171d201876"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/1-1_what-to-gather.md",
+      "sha256": "6cb5c3bb55a612fe5e504984398bef9395b6f59238fa9f91385562e12fece17f",
+      "git_blob": "6730612b8956116b88a1e284f52d52f06b47282c"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/1-2_one-input-two-futures.md",
+      "sha256": "0b28a16f62b287c1ab30c058b4f58cd870d229927e604db6959353bbeacafa76",
+      "git_blob": "ec28700ff512b4b8a5ad265c0b1d1db1f01a5143"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/1-3a_thousand-paths.md",
+      "sha256": "90cd5f258c722143bf2becf6e7a41a638445772fc12d6a245aea584810f8e041",
+      "git_blob": "63412c15b1693b7c567eb71fdee4afa4edc8b2a2"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/1-3b_number-flow.md",
+      "sha256": "0e89e9db8bdce0a3fbcdce3d584de628c9f079902de07482295d96dc208a74c4",
+      "git_blob": "f9bfa98304c8b318c0688efb5c14460bc20cfe04"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/2-1_surplus-waterfall.md",
+      "sha256": "34b6c146e3d4f90674ae411a15c4030d1e8a56b93a80ef9703b4fd34bf8cb34a",
+      "git_blob": "ca719d312a314dc3c4f3828a861c2ae58e7509b2"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/2-2_reserve-formula.md",
+      "sha256": "a3dbf5068ee82351631f0804f03f08206c0c21ffa91a80dddbf3c61d6440d931",
+      "git_blob": "3a4e217fc4f8f094360c493c4cd07b6b4e711ff3"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/2-3_cost-lanes.md",
+      "sha256": "1ba80808740c97f72a85f84ba93a5c85c01a0b23bffeab82002cea0b9a49afc9",
+      "git_blob": "02b19f9aa4206eb4986e6b15225d10ccbceb1873"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/2-4_funding-stack.md",
+      "sha256": "af44ded627396fc6d52d8e3e6d5014f541a4bfda2de7f4b641feb1842903c6e1",
+      "git_blob": "bb522c722c12fe207b5b1de02979100565d196ff"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/3-1a_two-ratios.md",
+      "sha256": "6422f4e47b0b137a954b1307631e0da7214c9c5456d598b9d42800e15a4e8f60",
+      "git_blob": "20d1f2864af5310b3f527d7831bd836a936d0790"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/3-1b_debt-jobs.md",
+      "sha256": "77927249ead6f2e42fb8a8e672ce2134ffda9398ffe3e8955649e15ac3320154",
+      "git_blob": "db9b4121a58cb91ed89fb3177e0335a11783c217"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/3-3_contribution-waterfall.md",
+      "sha256": "5feecbcdf0d7eda76adfa81623bddd20f736411bfc91875e8ab138bc351bf359",
+      "git_blob": "e99cbc9ea330133916553f5effc6019bcd72edcd"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/3-4_asset-location.md",
+      "sha256": "8a67dab707a09daeedc4361d26793e95488fc7371df09f2620a36490e59acddc",
+      "git_blob": "787eedc79d69e3e7b50b2a42a58d98fc61d3d097"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/4-1a_four-tiers.md",
+      "sha256": "8f85641e0bf1625fe7abc7ffa8de95a23d39eb348b53e009aca4caa91bb7fbff",
+      "git_blob": "8027688f49bf7048ec4ac04dafba0f24c383bd5e"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/4-1b_drawdown-math.md",
+      "sha256": "60002b9f0133d9630e3b1e68d7677dfca10d46a2aed8ee754e0061be626ef517",
+      "git_blob": "55a2cd226d4ea7a4cc055500006ee8661a2225e2"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/4-2_three-buckets.md",
+      "sha256": "f9ee9a3c2a072c56e092cdb24c9e408e3a789bfa977b156e7265bb2794c0f791",
+      "git_blob": "1bdd3afe1f08f04fecc392cfebf6422346d08b5e"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/5-1_two-lots.md",
+      "sha256": "c48d3e765b6c4649b1de97292f796d2ce6a94819e9efb6635182d64753da6064",
+      "git_blob": "f79536f102caeffaebb1a4e665b8c70f89b1fe30"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/5-2_bracket-roadmap.md",
+      "sha256": "b68551ceda2fe78579a0f30eb75f709ff21897ffad35c292ae7c79efc919bd25",
+      "git_blob": "87d2e1b5931cb08f54c01c1569c71696ea595982"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/6-1_gap-and-bridge.md",
+      "sha256": "c56a499e78504c3f4f0f0ea1f0653e76b3a1c42d150d43a38fda0877d1dff479",
+      "git_blob": "c09d0b0b949823be7791d27e63a7e82187f3cdb3"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/6-2_draw-and-refill.md",
+      "sha256": "650374c69f4c824e635e9877347212f9d2f7b17abdc31798128f3c470909306e",
+      "git_blob": "8f5ef3c4c2878cd39fc9536a0a51ca577f08f690"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/6-3_guardrails.md",
+      "sha256": "93dc453e09571527b58a70133a5680e1e2fa84a4333c184ee5b3c8f1fb47c2d6",
+      "git_blob": "cabec6448a8864a39d3c8f2ab7bbb236edab5c3f"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/7-1a_five-questions.md",
+      "sha256": "f0bac810fe9ef01256d5f1db0c8f9fb392b4628a0cd25a20bdc5830498b744ad",
+      "git_blob": "db8a297e363e2925651943940e1130418ee814f4"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/7-1b_levels-and-trust.md",
+      "sha256": "18b8c8e48f1ac26907ae79c1a683b13aa32138cd28daa6b1297570d68687db20",
+      "git_blob": "77f638097df000f8f7d83afd9d19ecc99441d327"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/7-2_recovery-test.md",
+      "sha256": "bce242243401df1a8fe052c2d95e5d694b9d5678b443457039484a4ab5c1acbf",
+      "git_blob": "fb11973e66e49397c36c38296e04fe772891e1ba"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/7-3_only-one.md",
+      "sha256": "cfd45f743c38da41272c8f774785d2e93c85fd979e25627c19f0ede3391e9b2a",
+      "git_blob": "72c872646496e879e0cfbcd37e52307101051084"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/8-1_form-generally-controls.md",
+      "sha256": "9ebc0f6b133fdfd682768f7a0cc48673034076914243bed3c783ade6b1fbed40",
+      "git_blob": "35e09b654d8df0845757b448e5c48c76248cd8e0"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/8-2_split-and-switch.md",
+      "sha256": "24c3e8f84d7927f8c9f838081667d17e7aa3a32aaa226faa5b616e86aaa94231",
+      "git_blob": "4e44b8e558258bb36006872e6a1a256fc8776a31"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/8-4_self-insure-line.md",
+      "sha256": "b8d6253c90999ce89499ad7e417b4889ea03d89043eb9e223760c1a18def778c",
+      "git_blob": "53462835fbcadf9b31ead1d6f21b7020252223ad"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/9-1a_two-rhythms.md",
+      "sha256": "7b73e40c9457ade4990afaa20753fab5d2ffc4557abf3fd40a8e31ecaf555070",
+      "git_blob": "d3b0deeac3eeb3dff35d67645a4ac44e3dae6511"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/9-1b_annual-lap.md",
+      "sha256": "f515a158f6852a2b354968e5581c11be17e22c589ec0ebcc56003b906b09124e",
+      "git_blob": "b51a87245e20bc9b0d48ad663ae0bce9b679feed"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/9-2a_stress-vs-choice.md",
+      "sha256": "42a68e125317c8567014a60deb947dd8fb3476fe1dbaf03d83d0aec882d32e08",
+      "git_blob": "bbb869dc60176e57b4ece5661de3c95bf38c24f2"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/9-2b_reading-order.md",
+      "sha256": "91ab413fed808b88b6808cc9144fe0c97e987b6f9987db6c42b17d4f65a4e2a3",
+      "git_blob": "d3e2ed849d414c33c62f80b791ca7b61e79091d3"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/A3-1a_ltv-drift.md",
+      "sha256": "f4b874bfe04fad1856f996930444ae6d15066b381197ce3d62e24b62946390dd",
+      "git_blob": "8afa21d6d3dce38fbcc33aa216326e1bb4189e1f"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/A3-1b_three-lines.md",
+      "sha256": "898cc6de82a469621a8bcfe95f9213305946a6207c5358fd79c668982dd2801b",
+      "git_blob": "f89324769bf84ebd2a0156a02ae68386e2dcfeb0"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/A4-2_four-plays.md",
+      "sha256": "21584fbd817dc3f9bc835cce64d71b074841a308f94242ab2496f3a190301492",
+      "git_blob": "eb2a750ab7822393088ca725f7283ada282e8b7f"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/A5-1_rmd-spike.md",
+      "sha256": "01c7fcc9d5cfe258c5a70adbf2c1cfaec77584e34262186e6b374d8ad1780265",
+      "git_blob": "4ffe47c8ce19ad1db6aee1524942017ac0133c4e"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/A5-2_harvest-room.md",
+      "sha256": "9cf5db226b0a28bad9934dc14cfe759ba9b86efb7b9857a8e8b088463efc34f7",
+      "git_blob": "43f54203a4308cdda5d9c2f3cb4e17f6e25341eb"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/A6-1_healthcare-bridge.md",
+      "sha256": "48cfa97b093e8e2c221402adec4b6e45286f5133d80b74c64257da75ce538b45",
+      "git_blob": "8a50775ab4463163d597f8fb3dce9d0868469c4c"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/A6-2_sell-borrow-hold.md",
+      "sha256": "27dada0786977f395aa0ea4aa864de66185672b9ae714717283833c7d92619fd",
+      "git_blob": "35ad7d099c10d761411a62869690eac0da88342f"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/A7-1_passphrase-multisig.md",
+      "sha256": "fbec25cbe44b7484f83fc694b4040cfc433290645bfe786d0ff9ff55c7d487a8",
+      "git_blob": "74013d82000d911dd14e27043ea21c429d36c410"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/A8-1_trust-gate.md",
+      "sha256": "f21d0652bee5a69cac32f29ff394d35aa6aa03adc5910a970c7afebbe4302370",
+      "git_blob": "3c96bf2d86f6639bdba5046d85c0b40460d6fffa"
+    },
+    {
+      "path": "archive/pre-guided-promotion/visuals/README.md",
+      "sha256": "f47c82961317c5a522e95d386ddc76ed7662ba2c38599d4fedab85aee8983a09",
+      "git_blob": "5d618c71d615ffeb554651c87803b87325e85fbc"
+    },
+    {
+      "path": "course-v2/README.md",
+      "sha256": "867f4e25e55ffb29757bd13db93b60107a291acd29df1d3894eb825f6dc3b93f",
+      "git_blob": "aaa672acfdf12abd4f00130e8ef9558710ecb73d"
+    },
+    {
+      "path": "tools/guided-support.json",
+      "sha256": "544b4c058b3e73d2fba598d9c5aea24ff4b3e07916ca5b403e8c6adcc9c3c48c",
+      "git_blob": "550d567cf3179052ceb88aad51e99a5e2ea5b7c1"
+    },
+    {
+      "path": "tools/editorial-amendments.json",
+      "sha256": "f0f1b51e34a1d099ba38e1f733ef8fd2601e81d021c885ca66207fd0c9897c4d",
+      "git_blob": "2e3bb7436f98c9e4842c443d5c1bfdb027f2d4ce"
+    },
+    {
+      "path": ".github/workflows/export-guided-review.yml",
+      "sha256": "1f213df5ee87cf9a918b690d8ed2f9033141117c600d458c9a9f13afd9ff8a97",
+      "git_blob": "245db6a09c9b0ff2aa05f7fe1a269ac17a583f05"
+    },
+    {
+      "path": ".github/workflows/finish-guided-course.yml",
+      "sha256": "2c9b99927e77f26bb533e143550245b13bca8d44cd741c975ab73f5938ee5e88",
+      "git_blob": "8dd336ebd422ca117ce6624262f427004b3323f2"
+    },
+    {
+      "path": ".github/workflows/member-deliverables.yml",
+      "sha256": "bf00d41a4924b47b5c459e3ca11fe9ba867147cdad2a426546db6c4412ed2369",
+      "git_blob": "b975ea7cf2966101bf79b37c0e4eaf62e51c72e4"
+    },
+    {
+      "path": ".github/workflows/sync-source-led-script-pass.yml",
+      "sha256": "c359b0672b1c93a5a3b616dfbeb75ea94024f2ad7f43efcb4c5a131ee2fe18e5",
+      "git_blob": "a72b07d405f3c187941566f5eeb86a107ac57e43"
+    }
+  ],
+  "retained_source_copies": [
+    {
+      "old_path": "archive/pre-guided-promotion/scripts/00-1_how-to-use-this-course.md",
+      "path": "source-material/historical-dictation/00-1_how-to-use-this-course.md",
+      "sha256": "8d7395b9b60c96e033d9809457c7a55db9b7f6ccb47d1d5ae66563db24228c86",
+      "git_blob": "b0856eb661e6ece598d6d7b41618ca9b5308a3fe"
+    },
+    {
+      "old_path": "archive/pre-guided-promotion/scripts/01-1_what-to-gather-before-you-build-the-plan.md",
+      "path": "source-material/historical-dictation/01-1_what-to-gather-before-you-build-the-plan.md",
+      "sha256": "56fd13f1c97ab64a2e27ff345bb9f5d81fdd67899a0133885db2cd6d6cb1c8b4",
+      "git_blob": "e56ea2f1ee03fb5ead7b1dc175b86fd7ea173a3e"
+    },
+    {
+      "old_path": "archive/pre-guided-promotion/scripts/01-2_the-three-layers-of-a-plan-and-setting-your-assumptions.md",
+      "path": "source-material/historical-dictation/01-2_the-three-layers-of-a-plan-and-setting-your-assumptions.md",
+      "sha256": "e614a9427e29399d83becbe0381f470b7892193cb71750896e286123ca3ce0f7",
+      "git_blob": "713b6c5c0b8e3eaae455f7e590b1a00641123cd7"
+    },
+    {
+      "old_path": "archive/pre-guided-promotion/scripts/02-2_size-your-cash-reserve-in-months-of-spending.md",
+      "path": "source-material/historical-dictation/02-2_size-your-cash-reserve-in-months-of-spending.md",
+      "sha256": "116731b938165ded719d2b506a988a43475c6f2ffef54e3372ff8862dc177391",
+      "git_blob": "3c6e856ca5a2db606788ddf6fea0ac7805d5f682"
+    }
+  ],
+  "original_source_hashes": {
+    "source-material/2026-09-08-reserve-reference-approval.md": "8ae6c71285dc495f0cc62658e6433bc4c7513e84484e39410a3b0da8aa20b703",
+    "source-material/2026-08-25-module-0-1-dictation.md": "2a082eb75ea478620c635ad445e8acd84d99c35beeb9f72eded35090d2d23c92",
+    "source-material/2026-08-26-custody-decision-framework.md": "510baba3b18bb9e9160c92e3c44d319cf3423a07b1c07ce963fa8c4745ee02b4",
+    "source-material/2026-08-26-f20-and-voice-pass.md": "94669d460cb7d18ace7ecb7f5a5af251863a6937c0ee884d7ca3db1cb9eed2f6"
+  },
+  "protected_course_hashes": {
+    "scripts/07-3_harden-accounts-and-remove-the-largest-shared-failure.md": "83f82152093af5d2e5365be63753e92f19828f0bb8a3316f1c5742ac76a189d6",
+    "scripts/01-4_choose-assumptions-you-can-explain.md": "fad0fae4a4e23e4fda69bcbe1edf89a526729da305d8c969b03e6076e3db5d76",
+    "scripts/03-4_decide-whether-new-financing-improves-the-plan.md": "40d41db9b725693a6e5bf59bb97174e515f001f10dba50e934db178a99a7b07d",
+    "scripts/02-2_free-up-money-without-cutting-the-life-you-value.md": "e14a417c882bc43fa90b95b2e71942251d44f1a6ad959b960b9aa91f102cc754",
+    "scripts/02-1_find-the-amount-your-plan-actually-has-available.md": "7b266cbb36e24f2409edfc934984ec6857e3605125e4251fb713b12f030acf86",
+    "scripts/03-6_write-the-rules-before-using-leverage.md": "d9bdba312d0a2ea039f1c33c9c5f6246a623f76fb11c72ddfbcc767e8cc462d1",
+    "scripts/07-2_prove-recovery-before-meaningful-money-depends-on-it.md": "9bb5e12c2fdf9c49e4f123b7d8b306378c59f7f5697a51d94f45f1ef0f285684",
+    "scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md": "acd2369ac4bc7933865ba6f4c7d492444df364f64ed5dca589422dae329a3c40",
+    "scripts/06-7_use-simulations-to-compare-the-plan-not-chase-a-score.md": "8facf661bebb435ea8356c3a5acd0613423c73030f0472215fa87e37acda631d",
+    "scripts/03-5_compare-financing-on-equal-terms.md": "6182a839802514a6696e0bd2216bf39743799b534060bb8976b866e28e30f668",
+    "scripts/08-1_choose-the-people-and-put-the-legal-baseline-in-place.md": "7894ab95a6d8e3c31b827fcaf8ab2da4c7a574c1c7eb7ac39f243f443179a67a",
+    "scripts/05-4_compare-conversions-with-intentional-withdrawals.md": "d7213f2caf4daa7500481766c01e14d92cb0f40d03c812595a4616c663ed331c",
+    "scripts/09-1_keep-a-quiet-month-simple.md": "d77c86acff711f8988ecdda5de67c561b6222d527bb0842938c913b6ae5e019a",
+    "scripts/04-1_read-the-same-portfolio-in-four-useful-ways.md": "32744f948af02a7ac49b4e2bc34d7e3cd8c8f4fe9c5596ab168e6e2decc598e4",
+    "scripts/10-2_explain-the-plan-and-hand-off-the-next-decisions.md": "1313ef7db9f69e4e4903385707773aeee87f8beef964c1c45c4f931acb937692",
+    "scripts/06-3_price-healthcare-before-leaving-employer-coverage.md": "3c38e5169739104f489963d93863b56d49c50d0af7a574cb420f855190173d26",
+    "scripts/04-4_build-the-contribution-waterfall-from-one-pool.md": "6b14ba6b1ac2422b25cb4d8c7a73cf5cb7aefeeb1a40928e0a9d3fe91f1b82d3",
+    "scripts/08-2_connect-legal-authority-with-the-actual-recovery-process.md": "a0d15f5125e72c0442ca9d24b34f9fe318cc1c02245fb6345ca4bfd6e7c2981f",
+    "scripts/03-2_measure-leverage-before-and-after-a-drawdown.md": "952a87136e6609aee68b4d47b355e9ca197d1ba85fbbc2675baef982b9c23810",
+    "scripts/06-1_define-spending-reliable-income-and-the-gap.md": "d0bfba30d1a169a5dc44956bfe94bedc32f4a05907458bc61afbde43e7ac8a24",
+    "scripts/05-3_find-the-years-when-your-tax-choices-have-the-most-room.md": "8c454e05877d8359373da42c25c678c2fbecd47d9230121db9c8f33d34e1db51",
+    "scripts/02-5_decide-how-much-college-help-you-will-provide.md": "d505bbd1c5403c37345cc042c880ed55676d8de2c2fc9e7fc2cd533e233e4cfe",
+    "scripts/03-1_measure-the-payment-pressure-you-actually-carry.md": "b9d2699e6e6249dd7e258369243c081f7b3000cfe5f7db64b8f7742bc65e8835",
+    "scripts/05-5_turn-tax-opportunities-into-an-execution-checklist.md": "ee08aa8aa33793adbc73a2d35c0a0826d1b2825005904ed6d685ff9f84c76a83",
+    "scripts/06-8_turn-the-retirement-plan-into-an-annual-spending-decision.md": "2c588f26f20aa5291e1bc76d12241723d7497d17a7b4bc43ec24d73de24d3b17",
+    "scripts/05-2_repair-purchase-history-without-inventing-it.md": "a27f40fe60e25d06b954671e73a1df1cd83bbaa7db3ee92ea70cdc6b2ca0b2f6",
+    "scripts/04-3_match-the-money-to-when-you-will-use-it.md": "063e702fa39655fa0f3437eadadb34a6a705d8f2bb0d4eb905f812c4e3f47770",
+    "scripts/06-6_compare-selling-borrowing-and-using-other-resources.md": "e71abe5af07b1a13aab28c51912e4d1a5412b8cd381f5290ca7a3f6e2a3c846e",
+    "scripts/05-1_understand-what-a-sale-would-realize.md": "a9528c0d1da5c2de3ebba19cf4a1c9f1cf628c334785bfa91a398612429b26cd",
+    "scripts/08-4_identify-the-risks-you-will-transfer-or-carry.md": "a63fbc35d021a08c59a4400be42d228af18f358062e7dc2ab18a95c5543b14e0",
+    "scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md": "eb2be28f92c75a011cb6840f253c05f92902f4a38f05ab232090b83c77ab70ad",
+    "scripts/01-3_enter-income-spending-debts-and-the-retirement-starting-point.md": "689972028e87e8ec88337f25f90d2072163043b2bb3657a7cb7fc3875c646b48",
+    "scripts/04-6_choose-traditional-roth-or-a-deliberate-mix.md": "e542474a21d7c5fcd6fa6a674e01d1218dfdbdb7f5479ded9574b340df0acd6e",
+    "scripts/01-1_decide-what-belongs-in-your-saved-plan.md": "01040b085b04bea16681a546baa5f8eec84d8f4f9d160aa6393e1c88d702a75a",
+    "scripts/06-2_fund-the-years-before-accounts-and-benefits-become-available.md": "ec95f42578bbb5742e18c2f5d174a0e79a7b72d7a844e50e4d5e69b65b415d4d",
+    "scripts/09-3_handle-a-life-change-or-a-number-that-does-not-reconcile.md": "b5e54869b0ff5830b931391203a2098187a1e7f28302660967d98c47952b1d13",
+    "scripts/08-3_write-and-test-the-first-instructions-your-family-will-receive.md": "ef316256e3f9662efbd7238647ec8d3dc9adb05f7172eb5b8537dcda9dd62524",
+    "scripts/07-1_choose-who-controls-each-part-of-the-bitcoin.md": "76ca5972a79e610e3c4a0f0be973816493b6a4c7fa695fc11ee49447332085d5",
+    "scripts/01-2_add-accounts-and-show-what-each-one-owns.md": "3bf167bcf0fdcbdbf12449af68ef8b8b42fe75d7b0a0dba5613c71f01cb8741e",
+    "scripts/04-5_choose-the-account-that-can-do-the-job.md": "fe1c9642679a3226e01f33f247e50450b4215a3bba423ed904f619b945587e83",
+    "scripts/02-4_put-future-changes-on-the-timeline.md": "e878d0e0d09b5816e6093c32fb8b15570cab7616118cb003954e0657d87343c9",
+    "scripts/00-2_use-ask-to-understand-your-own-numbers.md": "4f9e2650ed4f32ca501087fdeaeb254cfae08bf872cb2d3796553083840bccb7",
+    "scripts/03-3_give-every-existing-debt-a-job.md": "4c9fca4c015a1c8ac0120cda39ff19ac95610adb8d8773fc88a4748a86addff1",
+    "scripts/00-1_build-a-plan-you-can-use.md": "7643b362cb48528f80c71561758ee1e447c1efdaaed7c64bd1576d9208eab1e5",
+    "scripts/07-4_record-a-usable-custody-plan-without-exposing-secrets.md": "845d4a74e93b9eab2feb1b6a85cb9ac32766cf3926ca97785a64e4a6354120db",
+    "scripts/06-4_choose-account-withdrawals-and-asset-sales-separately.md": "effa68cba23a6b9026a8aead90b2ac1a9c2ac5f154e498d0a568959d17256e02",
+    "scripts/09-2_review-the-whole-plan-once-a-year.md": "edc8e4dc4782255fac12167098a05b0d883d97bb91c3f990cd8c14ccf1bf2f79",
+    "scripts/06-5_use-the-reserve-through-a-difficult-market.md": "2e712253d81b8a324072d54ae788950f3f70e06f295e40ac6bf0d8d030390576",
+    "scripts/01-5_read-the-first-answer-and-choose-the-next-improvement.md": "7181e5422d0a56190d3a5201d80de0da68a8e855eca9328753938ef67b8b5bcd",
+    "scripts/04-7_tell-each-account-what-to-buy-and-finish-the-outside-actions.md": "474aaa91d4d9bcf3b9ebd150efbb2fad9f17c14310db10a011d9d38aed54db38",
+    "scripts/10-1_read-the-completed-plan-in-a-useful-order.md": "0cb36bed9968293e3f971f7dc8ae69b27a0157f8c538ffed970b61f35176e7a3",
+    "scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md": "486265504cc9ff8102c6119f4060d37336a0f361f013892b9759ee1bd81f8405",
+    "scripts/advanced/A7-2_decide-which-custody-responsibilities-the-household-can-maintain.md": "d300261112e5402ad513a39a992014513a757e119c26715adf6b44cc770aed5b",
+    "scripts/advanced/A7-1_compare-passphrase-multisig-and-professional-support.md": "b5c4b99688fe3ecd3ed0a00c88797dce3794b29be7057819bf705218b6ecc71f",
+    "scripts/advanced/A7-3_test-correlated-failures-across-providers-and-methods.md": "13d24c3eae91415157bf2e7a0f2ccb2fa8b1b8c23c7b4c392a8b06cb2598af22",
+    "scripts/advanced/A7-4_understand-utxos-before-consolidating-coins.md": "37590bb784b5388d47416f4ae5e58607925aa815f0edc2d436ff57b2c175ffcb",
+    "scripts/advanced/A5-3_evaluate-a-state-move-as-a-household-decision.md": "6df1906ce263212216bd8584c88f696df3931091bed03d1f653d0be5d484223c",
+    "scripts/advanced/A5-1_build-a-multi-year-conversion-comparison.md": "b5fdd0bb8ea465c3437cdaaa980f3c2a0094e69053e51e0b6838965ee264e107",
+    "scripts/advanced/A8-1_decide-whether-a-trust-has-a-job-in-the-plan.md": "710d83c1dbbe778b48d5d3189626ed465273d4bb1e5ea53c7d25c484c8f8a39e",
+    "scripts/advanced/A1-1_test-an-assumption-without-making-the-model-tell-you-what-you-want.md": "da4735b9f033bc72011fdd2ac690277810a95edac080ecebb08cac923d267875",
+    "scripts/advanced/A6-1_compare-healthcare-and-tax-decisions-in-the-same-year.md": "e16f021040eb1ffd622b813597a18a594903d311f792bd2c691b280514c3c451",
+    "scripts/advanced/A5-2_prepare-a-harvesting-transaction-that-matches-the-tax-record.md": "e2155e39cbc08930be39490811e27be8ef5ba78db99108132f4e699743e90358",
+    "scripts/advanced/A3-1_build-a-bitcoin-loan-operating-sheet-from-the-actual-contract.md": "394cd004d3cb91f029abb08f047bd1db91dade1aa07b7f7ba98669f8c3e623b9",
+    "scripts/advanced/A6-2_test-a-multi-year-sell-versus-borrow-strategy.md": "fc34ec818932816fd040ef2acc707ee41ad9980923038849c4daf3a0745b61b4",
+    "scripts/advanced/A6-3_verify-an-early-retirement-account-access-route.md": "329665fb50a3ca9ac2b9c4d76f0404404069b5d54ff7cc4cf593379f8d8b0e4a",
+    "scripts/advanced/A4-1_check-price-context-before-a-large-allocation-change.md": "cf2b00063d9555df37ac2020d734d5c0c4c7e8321be219971caf4a4a154b46c1",
+    "scripts/working/W07_document-the-custody-choice-and-actual-recovery-status.md": "22d4b94138499a49fa4e511cec4a40d3aa62e41a9b14fe43bd2567a57ea9b967",
+    "scripts/working/W05_reconcile-tax-records-and-prepare-one-useful-comparison.md": "ae1398eb118c315d671c4258ca26aea344318e0c65d580b362105125791fb09e",
+    "scripts/working/W04_route-contributions-into-usable-accounts-and-intended-holdings.md": "fb020f3f37694f0683d49ef525700034de500464c5ed9e2987c85872ff89704a",
+    "scripts/working/W01_build-the-first-working-plan.md": "5b065c73f7fb15823b42a395fc37a665577b4e604857b7643dca90698777718f",
+    "scripts/working/W09_complete-a-monthly-review-and-an-annual-review.md": "94ea09f5dd6897a10da40354a3789c8b4ca30d942d841a0ed03d0aff60acb049",
+    "scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md": "be79b34b9a7b244b37640d6e1e405c59f382da6ad6ee930f457b979d1d423278",
+    "scripts/working/W08_build-and-rehearse-the-family-handoff.md": "9c8cff6036f1514895208762176854832a77d63ae7b8d7bfcba8bc672ca44ac6",
+    "scripts/working/W06_build-and-test-the-retirement-paycheck.md": "522bd718b4fd564bb4e4669af48a7f8f7dd3b3c22f7bbfa37861db2875a8ffef",
+    "scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md": "f4fa018c193944b39a837e2b371a157db63583633d15e8ed9dcdbfd0a07e37ab",
+    "scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md": "7720d0612c029a8f618f05a039d13a9b29b3650379a0b1c7344a5d05e9e3b008",
+    "scripts/working/W10_read-explain-and-save-the-finished-plan.md": "ea0d7ba487f7d1b624be55b9e4cbc061357cb44b9e17ba8deee23ae583c0e57e",
+    "fixtures/REED-HOUSEHOLD.md": "df6e2de91d4c375bb98961f3c5ad9f9323a5ecae4caaa412c7cd883e8bb7a280",
+    "fixtures/reed-household.json": "18238bdc211e9683567bf27bb8e50590440c88b3128804f995c972891e444c9b",
+    "toolkit/01-first-plan.md": "6127ee78a5e24e1df7e3c268220da7991d94f21de28ae2cb41a310180b8f4d48",
+    "toolkit/02-cash-flow-reserve.md": "6394c495cf080585ef3be14b0c93887f9902354c49e51fbece12656abee5202d",
+    "toolkit/03-life-events-college.md": "f825758a314e1e6b5a8424149bc9064aa33b26bea86bac393437d0aa4cbe64d5",
+    "toolkit/05-allocation.md": "15c487888fa65c6c03e5f23a8c778ba512ed8462c92b6f088f66307f6a96d6e0",
+    "toolkit/08-custody-family.md": "0a0622a4005fbda21c129a69c6aac50754147bc6f2afdab0035a66390591210e",
+    "toolkit/07-retirement.md": "7efb1457172bab261f4c155a52940772a7ef478b5f3dbb843c990bf8c5031f14",
+    "toolkit/04-debt-financing.md": "99836445afea07d283ee74c59e4c544734e993c430186d0e2d92448377a1eda4",
+    "toolkit/06-tax.md": "d7be12f7cdf74c137e10071b57405edeb1026819bb1e838dc26aa1b5d86b9ad0",
+    "toolkit/09-maintenance-capstone.md": "ef318691ad46580ef4c6c577ceee3a38d731d2c771a252dcf93f9c3b8d66a202",
+    "toolkit/README.md": "e7fc8e56c9cd289925192516e596e461df7aa076be5699c975d9443b227fa3f9",
+    "toolkit/deliverables/heir-letter.md": "8b75230fd7dbfdd0d39872db5873cc3739b44592c19263885e557eadf4992551",
+    "toolkit/deliverables/executor-packet.md": "5e6ff9d10da2c272491e84e6adb8e195e6028f532cd60d4f1660afee5836c2dc",
+    "toolkit/deliverables/household-plan-summary.md": "b339679918426de8271fcb41b112d7a5eb81f618fef5b1733ebbee90b4745533",
+    "toolkit/deliverables/family-custody-map.md": "4f13c7e1fd735b5756caf63a15ad8cd7c4dd590c71da708c2ab603f2d80512e4",
+    "toolkit/deliverables/insurance-coverage-audit.md": "b72b5efef3a94d85e05e8c6c3a4a5c8d6ad8f8c2f4eef69c97f1b0a6b014a99c",
+    "toolkit/deliverables/annual-plan-refresh.md": "0df44533e97bedcb5b5b0e4b74f81a23f294419276ae96c2fdd7a4b1794de800",
+    "toolkit/deliverables/README.md": "5d9f2a9a1a4963ea3afc46019c36de226d35e5190cedc579c44f25e4a76a52c4",
+    "PROMOTION-RECORD.json": "33eebbcdd7e88f8faaae9653396c7b8e09296ad402941eab8758ae7e315650f0"
+  },
+  "retired_count": 264
+}

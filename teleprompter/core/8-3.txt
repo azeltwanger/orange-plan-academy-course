@@ -1,4 +1,4 @@
-The first instructions should help the family slow down, find the right people, and start the documented process. They should be useful to someone who understands less about Bitcoin and the financial plan than you do.
+Write the instructions for the person who knows less about the plan than you do. They need to know who to contact first, how to verify that contact, and what not to do while they are under pressure.
 
 Write the first call clearly. Name the person or professional, their role, and a safe way to verify the contact. Then identify the account and asset categories that exist, the location of the legal documents at an appropriate level, and the process for finding the protected instructions.
 
@@ -14,10 +14,12 @@ Make the information available through a path that does not depend entirely on y
 
 A scheduled-delivery or missed-check-in system can provide a communication backstop. Verify the recipients, waiting periods, delivery conditions, and what happens during a false alarm. It should deliver non-secret direction rather than release signing keys. Availability and features depend on the actual service or app release.
 
-For Alex and Morgan, the test is simple. Give Morgan a sample letter and ask, “What would you do first? How would you confirm this contact is genuine? What would you avoid doing?” If the answer is unclear, improve the instructions before adding more pages.
+For the Reeds, put the Heir Letter beside the filled fictional example and the Executor Packet. The letter starts the process; the packet organizes the follow-up. Give the first page to a nontechnical reader and ask what they would do first and how they would check the contact.
+
+If the reader starts hunting for recovery words or thinks the document authorizes a sale, revise the instructions. Shorter is useful only when the next step is still clear. Add the missing connection before adding more background about Bitcoin.
 
 Test the delivery method with a harmless sample. Confirm the message arrives, can be opened, and is recognized. An untested system is still an assumption. Record when it was tested and what needs to be reviewed after a change of address, email, provider, or family role.
 
-In the working session, we will prepare a non-secret letter, export or place it through the supported process, and identify the outside document and delivery tasks. We will not mark a legal or recovery process complete merely because the letter was generated.
+We'll prepare the non-secret letter and packet, identify a safe placement method, and test a harmless delivery. Generating or exporting a document is separate from confirming the intended person received it, can open it, and understands it. Keep legal review and actual recovery proof as their own work.
 
-Finish with instructions a family member can follow, a packet that can be found, and a tested way to start the right process. Keep it short enough to be usable in a difficult moment, with deeper detail available to the people who actually need it.
+Finish with a findable starting page, a verified first contact, and a reader who can explain the first safe action. Keep the deeper records available to the people who need them, while all signing secrets and exact recovery locations remain in the separately protected process.

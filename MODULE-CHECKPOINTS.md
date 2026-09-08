@@ -4,45 +4,45 @@ A decision, a saved choice and an outside action are separate states. Funding a 
 
 ## 0.1 — Build a plan you can use
 
-- Know the next session and the plan output it produces.
-- Have a private source folder or know where the first statements are.
-- Understand that a modeled decision and an outside action have separate completion states.
+- Name the personal question the plan should help answer.
+- Follow the teaching and matching working chapter in order rather than watching all instructions first.
+- Distinguish a recorded decision, a funded goal, and an outside action.
 
 ## 0.2 — Use Ask to understand your own numbers
 
-- Ask one question tied to a real number or decision.
-- Locate the calculation or input behind the explanation.
-- Know how to keep sensitive records and restoration backups out of outside AI tools.
+- Ask one focused question about a number or choice.
+- Trace the answer to the actual input or calculation and explain it in your own words.
+- Identify one next check or comparison while keeping sensitive records private.
 
 ## 1.1 — Decide what belongs in your saved plan
 
-- Gather or locate the records needed for the first plan.
-- Classify one expected event and one hypothetical change.
-- Keep uncertainties visible rather than substituting unsupported values.
+- Locate the source records for the first plan and list important expected changes.
+- Explain how a current fact, an assumption, an expected event and a scenario relate without creating four competing plans.
+- Keep missing information visible and identify what it affects.
 
 ## 1.2 — Add accounts and show what each one owns
 
-- Account ownership and tax treatment are checked.
-- Current holdings explain each total, or a specific unknown is recorded.
-- History and balance are reconciled without double counting.
+- Review each account's owner, type and current total without creating duplicates.
+- Explain the total with supported holdings or identify exactly what remains unknown.
+- Keep current positions, purchases, and transfers distinct; preserve private recovery material.
 
 ## 1.3 — Enter income, spending, debts, and the retirement starting point
 
-- Income fields match their gross/net and business/household meaning.
-- Living costs, debt, taxes, and contributions are each counted once.
-- Planned retirement timing and initial spending are recorded as choices.
+- Explain what income includes and trace the available cash without duplicate deductions.
+- Verify existing debts and distinguish employee contributions from employer money.
+- Record intended retirement timing and initial spending, with specific missing benefit or cost information identified.
 
 ## 1.4 — Choose assumptions you can explain
 
-- Explain the active growth model, inflation, and horizon.
-- Check today's-dollar versus future-dollar inputs.
-- Name one less favorable assumption to test separately.
+- Explain the chosen growth model, inflation basis and household horizon.
+- Distinguish an assumption change from a real change to income, saving or spending.
+- Identify one less-favorable comparison and when an optimistic comparison would answer a useful planning question.
 
 ## 1.5 — Read the first answer and choose the next improvement
 
-- Distinguish planned and calculated retirement timing.
-- Explain percentage, simulation count, horizon, and freshness.
-- Identify the next accuracy task or one realistic decision to compare.
+- Distinguish intended retirement timing from a calculated qualifying date.
+- Explain the result's percentage, count, horizon, inputs and freshness.
+- Trace one meaningful year to its funding sources and select one next accuracy check or realistic comparison.
 
 ## 2.1 — Find the amount your plan actually has available
 
@@ -58,9 +58,10 @@ A decision, a saved choice and an outside action are separate states. Funding a 
 
 ## 2.3 — Size the Reserve for the job it has to do
 
-- State the essential monthly basis and what it includes.
-- Choose target months and eligible accessible sources.
-- Distinguish target, amount funded, gap, and monthly pace.
+- Explain the essential spending basis, chosen months, target, eligible existing funds and gap.
+- Compare a funding pace with the same cash flow used for debt and other commitments.
+- Explain when dependents or reliance on one income would make faster cash funding worth slower extra-debt repayment.
+- Keep required payments funded; carry the proposed reserve amount into the Debt session before finalizing contributions and outside transfers.
 
 ## 2.4 — Put future changes on the timeline
 
@@ -400,11 +401,13 @@ A decision, a saved choice and an outside action are separate states. Funding a 
 
 ## W01 — Build the first working plan
 
-The household can explain its current position, initial monthly cash flow, assumptions, first result, and the one missing detail most likely to change the next decision. No duplicate accounts, fabricated lots, or assumed outcomes. Proceed to W02 for spending verification and Reserve choices.
+Ask the member to explain, without repeating the whole course: what the household owns; how the monthly money is accounted for; which retirement date is a choice; which assumptions drive the result; where funding comes from in one relevant year; and the next check or comparison. Unfinished purchase details remain explicit and do not become invented zeroes. An unresolved prerequisite or unavailable full result is not marked complete.
+
+Proceed to W02 to verify spending more fully and choose reserve funding. Keep the accepted Reserve chapters there unchanged. This run sheet does not certify an engine run, usable release, actual save, completed transfer, recording or launch.
 
 ## W02 — Verify cash flow, set the Reserve, and add expected events
 
-The spending basis and available pool are believable. The reserve has a target, eligible sources, gap, and pace. Expected events have timing and a funding explanation; possibilities remain separate. College is optional and does not own the required next-session handoff.
+The spending basis and available pool are believable. The reserve has a target, eligible sources, gap, and proposed pace. The member can explain when access to cash matters more than faster extra-debt repayment and what would trigger reviewing the pace. The proposed reserve amount carries into Debt and Allocation without being spent twice. Expected events have timing and a funding explanation; possibilities remain separate. College is optional and does not own the required next-session handoff. No wallet recovery, financial transfer, capture, or outside action is certified by the run sheet.
 
 ## W03 — Set debt jobs and test one financing decision
 

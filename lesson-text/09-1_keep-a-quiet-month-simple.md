@@ -1,6 +1,6 @@
 # 9.1 — Keep a quiet month simple
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/09-maintenance.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: MAINTENANCE, MAINTENANCE_DECK, CLIENT_THEMES, APP
 
 ### Read aloud
 
-A monthly review keeps the facts current and catches the few things that need attention. In a quiet month, the process should be short. You are checking what changed rather than reconsidering the entire strategy.
+In a quiet month, check what changed and what needs attention, then stop. You do not need to reconsider every strategy just because you opened the plan or Bitcoin moved.
 
 Start with the current financial picture. Do the account balances and holdings look reasonable? Is an important connection waiting on the provider or asking to reconnect? Did a purchase, sale, payment, or transfer happen that needs to be recorded? Use the account's own update information to understand what is automatic and what still depends on you.
 
@@ -26,13 +26,15 @@ Review the near-term timeline. A planned vehicle, tuition payment, tax bill, or 
 
 A saved financial fact can cause the Plan result to update. The account values and the full result may have different as-of times. Read the state rather than treating an earlier result as if it already includes the latest change. A strategy change still needs its own comparison and decision.
 
-For Alex and Morgan, a normal month might mean confirming income, noticing that the card balance declined as expected, checking that the reserve transfer happened, and recording a Bitcoin transfer if needed. It does not require choosing a new Bitcoin target because the market had a loud week.
+For Alex and Morgan, a quiet month could mean checking that income arrived, the required and extra card payments were made, and the reserve transfer actually happened. Those are confirmations of the current plan. A price change by itself is not a new contribution or a transfer to record.
+
+If a number does not agree, expand that one part of the review. Read the source and its date before adding a correction. A current balance and complete old purchase history are different things; work on the gap that affects the next decision.
 
 Keep the output small. Choose up to three meaningful actions, with a responsible person and date. If everything important is current and no decision is due, you can finish the review. A healthy plan does not need an invented task to prove you looked at it.
 
 Some months will take longer. A broken connection, inconsistent quantity, major purchase, or family change needs more than a quick check. The useful habit is returning to the same short sequence and expanding only where something actually requires it.
 
-In the working session, we will complete a quiet-month example and one material exception. Finish knowing how to check the accounts, cash flow, upcoming events, and current Plan state, then stop with a manageable action list.
+End with no action when everything material is current, or with up to three clear next steps. Give a real exception the time it needs. The routine is useful because you can repeat it and explain what changed, not because every month fits a promised number of minutes.
 
 ### Production notes
 
@@ -43,3 +45,11 @@ W09 uses supported Add or update and Needs Attention flows. D54 purchase-details
 - Verify current account facts, cash flow, and near-term events.
 - Resolve or assign the material exception without duplicating records.
 - End with zero to three useful actions.
+
+### Source-led visual and teaching notes — not spoken
+
+A quiet-month pass followed by one exception. Distinguish price update, unit change, transfer and history repair. Show the task's actual outcome; no fake healthy-state task or invented Recalculate control.
+
+Editorial reason: Keep maintenance lightweight while preserving truthful account updates and material exceptions.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

@@ -1,27 +1,35 @@
-# Orange Plan Academy — guided course
+# Orange Plan Academy
 
-**Start with [the dictation order](DICTATION-ORDER.md).** The current course has 51 core teaching clips, 15 conditional Advanced clips, ten app working sessions and one device demonstration. Debt is Session 3; Allocation is Session 4.
+**The written source-led course pass is complete. Start with [the Core reading order](DICTATION-ORDER.md).** Integrated wording still needs Austin's final voice/judgment review. Exact app footage, device tests and professional reviews remain separate from the written scripts. Nothing here implies a launch or merge.
 
-The reviewed lessons are now in **`scripts/`**, not the former `course-v2/` workspace. [ALL-SCRIPTS.md](ALL-SCRIPTS.md) is the complete read-aloud copy. [MASTER-COURSE.md](MASTER-COURSE.md) includes production notes and checkpoints. [FILM-ORDER.md](FILM-ORDER.md) places the replaceable working-session chapters between the explanations that prepare them.
+| Work | Start here |
+|---|---|
+| Read and review the teaching | [Core](DICTATION-ORDER.md) · [Conditional Advanced](ADVANCED-DICTATION-ORDER.md) |
+| Prepare the paired demonstrations | [Learning and filming order](FILM-ORDER.md) |
+| Read the entire course | [Spoken text](ALL-SCRIPTS.md) · [Core with notes](MASTER-COURSE.md) · [Advanced with notes](MASTER-ADVANCED.md) |
+| Use the member documents | [Toolkit](toolkit/README.md) · [Six named deliverables](toolkit/deliverables/README.md) |
+| See what remains before publication | [Current status](FINALIZATION-STATUS.md) · [Capture evidence](CAPTURE-RECEIPTS.md) |
 
-**Current status: ready for Austin's dictation and editorial approval.** This is not a claim of final recording, professional sign-off, or app-capture approval. The [remaining gates](FINALIZATION-STATUS.md) are explicit. This branch's content does not prove a merge to `main`.
+The current course is **51 core clips**, including optional college, **15 conditional Advanced clips**, **ten app working sessions** and **one device demonstration**. Keep the approved Start Here plus ten-session sequence. Debt is Session 3 and Allocation is Session 4. There is no arbitrary 150-minute cap.
 
-[Advanced dictation](ADVANCED-DICTATION-ORDER.md) · [Member worksheets](toolkit/README.md) · [Visual/edit map](visuals/GUIDED-EDIT-MAP.md) · [Capture receipts](CAPTURE-RECEIPTS.md) · [App alignment](V1-COURSE-ALIGNMENT.md) · [Landing alignment](LANDING-PAGE-ALIGNMENT.md).
+## One editing source
 
-## Edit one source
-
-Dictation edits go into the matching canonical file under `scripts/`. Read-aloud material goes only under `### Read aloud`; directions and qualifications for the editor stay in `### Production notes`. Never edit a generated teleprompter copy and assume the change reached the source.
+Edit `scripts/` only. Narration lives under `### Read aloud`; visual, production and screen-dependent notes are not spoken. `teleprompter/`, `lesson-text/`, `modules/`, the reading orders and masters are generated copies of those same scripts, not competing versions.
 
 ```sh
 python tools/guided_course.py build
 python tools/guided_course.py check
 python tools/guided_course.py test
+python -m unittest discover -s tests -p test_member_deliverables.py -v
+python tools/guided_course.py history
 ```
 
-These commands synchronize and check the reading copies, masters, member playback order and production lists. They do not run the financial engine, access customer accounts or deploy anything.
+The first four commands verify content structure, synchronization, arithmetic and member materials. The last verifies removed historical files from Git and requires full repository history. Normal CI is read-only; there is no retained one-shot migration or branch-writing workflow.
 
-## Preserved sources
+## Original material and old versions
 
-Original permitted dictation remains in `source-material/`. The preceding scripts, masters, tools, supporting records and full grouped guided draft are preserved under `archive/pre-guided-promotion/`. Historical files are not recording instructions. [PROMOTION-RECORD.json](PROMOTION-RECORD.json) records their hashes and the exact amendments.
+Original supplied dictation remains unchanged in `source-material/`. Four verified historical dictation-containing scripts are retained in its clearly marked historical subfolder. Obsolete outlines, generated scripts, superseded migration files and old workflows have been removed from the current tree, not from Git history. [Recovery instructions](ARCHIVE-RECOVERY.md) and [the exact manifest](production/repository-cleanup.json) preserve access. Do not use historical material as a current recording order.
 
-Raw client calls, private financial records, secrets and font files are not included in this course promotion.
+[What changed in the completed pass](delivery/source-led-completion.md) · [App alignment](V1-COURSE-ALIGNMENT.md) · [Landing-page corrections](LANDING-PAGE-ALIGNMENT.md) · [Sources](PRIMARY-SOURCES.md).
+
+Raw client transcripts, identifying financial records, wallet secrets, credentials and font files stay out of the repository. The approved Reserve explanation and its conditional liquidity judgment remain intact.

@@ -1,6 +1,6 @@
 # A5.1 — Build a multi-year conversion comparison
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/advanced/01-modeling-financing-and-tax.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -11,7 +11,7 @@ Use when: a meaningful Traditional balance and a plausible lower-income window m
 
 ### Read aloud
 
-A multi-year conversion plan should compare after-tax resources over time, not simply add up the conversions or future tax savings.
+A multi-year conversion plan should leave the household better positioned after the relevant costs, not merely display a larger total of future taxes avoided. Start with the unchanged plan and compare a limited schedule against the same spending and assumptions.
 
 Start with the unchanged plan. Record expected income, spending, taxable-account resources, healthcare years, Social Security, required distributions, and the Traditional and Roth balances. Then choose a bounded conversion schedule to compare against it.
 
@@ -27,7 +27,9 @@ Stress the tax and return assumptions. A strategy based on a large future rate i
 
 The app may model the strategy, but the execution needs current-year verification. Confirm which account may be converted, whether a required distribution must be handled first, any nondeductible basis, the tax-payment method, and the custodian's procedure. Keep planned amounts separate from completed records.
 
-The useful output is a range and a review rule rather than an unchangeable promise to convert the same amount for ten years. Revisit with actual income and current law before each year's transaction. Return to the core plan with the selected strategy and a clear professional handoff.
+The core example separates a thirty-thousand-dollar conversion from six thousand of hypothetical additional tax. Repeat that separation in every modeled year. If the proposed schedule uses the cash that was supporting the early-retirement bridge or reserve, that is part of its cost. Compare a smaller schedule and no added conversion before treating the future Roth balance as the deciding result.
+
+Choose a range and review rule, with a clear source for each year's tax. Revisit the actual amount using current income and rules before execution. Return to the core tax and withdrawal plan with the comparison understood, not an unchangeable promise to convert for a decade.
 
 ### Production notes
 
@@ -38,3 +40,17 @@ IRS Pub590-B/RMD and current tax interaction sources. No assumption all conversi
 - Compare bounded schedules against unchanged spending and assumptions.
 - Include tax funding and opportunity cost.
 - Verify each actual year's amount before execution.
+
+### Source-led visual and teaching notes — not spoken
+
+Same-date after-tax resources, immediate cash used, access-year funding, and later ordinary income. Keep the $30,000/$6,000 example labeled hypothetical rather than an actual Reed tax result.
+
+Editorial reason: Make conversion schedules account for tax funding and early-year liquidity, not only lifetime tax totals.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+
+### Advanced demonstration plan — not spoken
+
+Prepare no-added-conversion, modest annual, and larger early alternatives from the same verified inputs. Read cash used for tax, the early-access years, later distributions and after-tax resources at matching dates. Record unmodeled beneficiary or healthcare effects separately. Planned and completed conversions stay distinct. Return to 5.4 and 6.4.
+
+Use this with the linked core working chapters; it does not create another required lesson or claim an app/device test was performed. Record precise controls and actual outcomes only after the relevant gate is met.

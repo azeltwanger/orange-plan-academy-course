@@ -1,4 +1,4 @@
-Multiple accounts do not automatically create independent protection. Trace the dependencies behind each method.
+Two accounts are only useful protection against a failure when that failure does not take out both. Trace the shared provider, recovery channel, location and person behind each method before calling the arrangement independent.
 
 Two exchanges may rely on the same custodian. Two devices may share a software path. Several backups can be stored in one disaster zone. Different accounts may all be recoverable through the same email and phone. A family can have many documents and still depend on one person to interpret them.
 
@@ -14,4 +14,6 @@ A lender is another custody exposure. A loan can be modest relative to total wea
 
 The outcome is a short list of meaningful changes: separate a recovery dependence, reduce a provider concentration, prove an independent recovery path, or simplify a process. No system eliminates every risk. The objective is to know which failures remain and keep any one of them from unnecessarily controlling the whole plan.
 
-Return to Protect with the completed non-secret map, the tested path, and the next review trigger. Revisit when the balance becomes materially larger or a provider, person, or device changes.
+For example, adding a second provider does little for a recovery problem when both logins depend on the same unavailable email and phone. Fixing that dependency may be more useful than adding a third account. Likewise, separate brands may share a custodian. Verify the actual arrangement before deciding which portion of the plan is protected from that failure.
+
+Return with the shared failure you identified, the targeted change, and the way its independence will be tested. Keep sensitive locations and complete recovery routes outside the ordinary map. More accounts are justified when they reduce a meaningful consequence the family can still manage.

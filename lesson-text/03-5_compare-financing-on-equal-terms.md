@@ -1,6 +1,6 @@
 # 3.5 — Compare financing on equal terms
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/03-debt-and-leverage.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,9 +10,11 @@ Sources: DEBT, OWNER, BRAIN, PRIMARY
 
 ### Read aloud
 
-To compare financing fairly, hold the underlying need constant. Use the same purchase amount and date, then show how each source changes cash, debt, taxes, and risk.
+A fair financing comparison pays for the same thing on the same date. Then we compare what leaves the household now, what must be paid later, and what is at risk if the plan does not work out.
 
-Suppose the Reed household is considering a thirty-thousand-dollar project. Paying from the Reserve would reduce immediately available cash by thirty thousand. Financing preserves more cash at the start but creates payments and a remaining balance. Selling an investment converts part of the portfolio into the spending money and may create tax. Delaying the project keeps the resources available while postponing its benefit.
+Suppose the Reeds are comparing a thirty-thousand-dollar project. Their current reserve assignment is thirty-two thousand. Paying the entire project from that money would leave two thousand assigned to the reserve, before any other change. The project might matter to them, but that cash is already doing an important job.
+
+Financing preserves more cash initially but adds a payment or later settlement. Their reduced-spending phase already assigns the available surplus to the reserve and card. Before adopting another payment, we need to see which real spending or saving decision makes room for it. For this phase, keeping the project hypothetical, making it smaller, or delaying it is a useful result of the comparison.
 
 For every option, write the upfront cash used, the monthly payment, the total expected cost, the collateral at risk, and the repayment or settlement date. Include fees. A zero-interest promotional offer with deferred interest or a financing discount built into the purchase price needs its own careful comparison.
 
@@ -30,9 +32,9 @@ Tax treatment depends on the transaction and use of proceeds. Loan proceeds gene
 
 Now run the bad version. Income falls, variable rates rise, and the purchased asset or collateral declines. Can the payment still be made? Could a lender force a sale before the household's expected recovery? Does repayment rely on another loan? Which alternative leaves the family able to keep following the plan?
 
-The working-session comparison will model only the structures Orange Plan actually supports. Where a contract has terms the model cannot represent, keep the external comparison and the limitation explicit. A generic loan field should not make a complex agreement look fully analyzed.
+The payment is only part of the comparison. Check the principal still owed, the date it comes due, the assets pledged, and the terms that can change. When a special contract has a future settlement the ordinary loan calculation does not represent, have that settlement analyzed separately. A simple payment figure should not hide the rest of the agreement.
 
-The answer may be a combination: some cash, a smaller project, and limited financing with a clear payoff source. Save the proposed strategy only after understanding both the benefit and the additional obligation. The actual loan arrangement still happens outside Orange Plan.
+Choose the version whose full cost and downside you understand, or decide not to proceed. Record the cash left afterward, payment, remaining obligation, repayment source, and any contract question still requiring review. A proposed loan is not an application, an approval, or an executed agreement.
 
 ### Production notes
 
@@ -43,3 +45,11 @@ Worked amortization is illustrative, not a quote. Verify with fixture test. Mand
 - Compare the same need across funding sources.
 - Read principal repayment as well as the initial payment.
 - Record unsupported contract terms and obtain their review before execution.
+
+### Source-led visual and teaching notes — not spoken
+
+Project comparison uses $30,000 throughout; reserve-funded version $32,000 − $30,000 = $2,000. Keep the separate $20,000 / 8% / five-year amortizing-versus-interest-only illustration visibly separate from that project. Include ending principal as a column.
+
+Editorial reason: Complete a concrete liquidity/affordability comparison while retaining full financing-contract distinctions.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

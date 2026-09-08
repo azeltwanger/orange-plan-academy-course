@@ -1,6 +1,6 @@
 # 6.2 — Fund the years before accounts and benefits become available
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/06-retirement-paycheck.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: RETIREMENT, ALLOCATION, PRIMARY, APP
 
 ### Read aloud
 
-Early retirement creates several overlapping timelines. The last paycheck, retirement-account access, Social Security, pensions, and Medicare may all begin or end at different ages.
+For early retirement, having enough total wealth and being able to use the right money at the right time are separate questions. Let's map the years between the last paycheck and each account or benefit becoming available.
 
 Start by drawing those dates for each person. Alex's proposed work-optional age is fifty-two. That creates about seven and a half years before he reaches fifty-nine and a half. Morgan is two years younger, so the same calendar year puts Morgan at a different access point. Their healthcare and benefit timelines also differ.
 
@@ -28,11 +28,11 @@ Governmental 457(b) arrangements also have distinct rules. Substantially equal p
 
 Social Security timing changes the gap as well. Starting earlier provides income sooner, generally at a lower monthly retirement benefit. Delaying can provide a larger later benefit, with delayed retirement credits ending at seventy. Compare the cost of funding the waiting years with the value of the later income, health and longevity considerations, and the surviving spouse's situation.
 
-For a Bitcoin household, reducing sales during the bridge can be valuable. It is still only one part of the decision. An optimistic return assumption should not erase the value of a durable later income floor. Likewise, a general rule to wait should not ignore an unaffordable early gap.
+For a Bitcoin household, preserving more of the position during the early years can matter. But compare that preference with the cash cost of waiting for later income and the value of the later benefit. A plan to wait is incomplete when those early years have no credible funding source. A plan to claim earlier also needs to explain the smaller later income and the survivor implications. The actual household's dates and estimates decide which comparison is useful.
 
-In the working session, inspect every year where the household needs money before a new resource begins. Identify the actual account, tax treatment, and access condition. A plan can have enough total wealth and still need a different contribution strategy today to make those early years workable.
+We'll choose one early year and identify the account, cash amount, tax treatment and access rule supplying it. Then follow the years until the next income or access change. When a year has no credible source, return to contribution routing, spending, timing, or a professionally verified access option. Don't fill the gap with the total of an account that cannot yet fund it.
 
-You are finished when each bridge year has a plausible funding path and any special access method has a named verification step. That information returns to Allocation whenever accessible money needs more attention.
+Point to a funding source for every bridge year and name any special-access condition that still needs verification. Keep the two spouses' timelines separate. The useful result is a bridge the household can explain and execute, not simply a large enough balance on a later date.
 
 ### Production notes
 
@@ -43,3 +43,11 @@ IRS early-distribution exception table and Publication 590-B govern access. SSA 
 - Draw each person's access and benefit dates.
 - Map the early gap to actually available resources.
 - Verify any exception before relying on it or rolling the account elsewhere.
+
+### Source-led visual and teaching notes — not spoken
+
+Two-person access timeline: Alex's preferred 52 to 59½ spans about 7½ years; Morgan's dates differ. Retain the separate eight-year/$60,000 rough scale illustration as hypothetical, not an engine forecast. Show access routes by actual account, not one universal lock/unlock icon.
+
+Editorial reason: Connect early-access mechanics to an actionable missing-year decision and balanced benefit-timing comparison.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

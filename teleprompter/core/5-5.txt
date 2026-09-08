@@ -1,10 +1,10 @@
-Tax planning becomes useful when a specific action can be evaluated before the deadline. Harvesting losses, realizing gains in a lower-tax year, and completing a conversion each need accurate records and a clear execution process.
+Choose the tax action worth evaluating before its deadline. Then connect the proposed transaction to the records, verification, and outside steps needed to carry it out correctly. A possible opportunity is not a completed trade.
 
 Loss harvesting realizes a loss by disposing of an investment below its supported basis. The loss may offset gains and, subject to the applicable rules, some other income or future gains. A carryforward remains part of the tax record until used. The benefit depends on what the loss can offset and what exposure remains afterward.
 
 Gain harvesting deliberately realizes a gain in a year when the tax cost may be favorable. Reacquiring exposure can establish new basis in the replacement acquisition. The household still needs to evaluate fees, price movement, identification, other income, state tax, and any benefit changes. A zero-percent federal capital-gain rate does not guarantee a zero total cost.
 
-For example, selling a position for twenty thousand dollars with sixteen thousand of supported basis realizes four thousand of gain. Whether realizing that gain is useful depends on the current year's income and the rest of the plan. It is the four-thousand-dollar gain, not the full twenty thousand of proceeds, that begins this part of the income analysis.
+For example, a twenty-thousand-dollar sale with sixteen thousand of supported basis realizes four thousand of gain before other adjustments. Start the tax comparison with that gain and the rest of the year's income, not with the entire sale treated as taxable income. A conversion or a late business-income change could use the same tax room. Check them together before acting.
 
 Stocks, funds, and direct digital assets can have different rules. A spot Bitcoin fund remains a security; its tax treatment is not automatically the same as personally held Bitcoin. Replacement purchases and applicable wash-sale rules must be checked for the actual asset and current year. Do not turn an older Bitcoin tax practice into a permanent promise that an immediate sale and repurchase will always produce the intended deduction.
 
@@ -18,6 +18,6 @@ For a state move or a large financing-related sale, add the relevant legal or co
 
 Your year-end review should happen while time remains to act. Gather the current realized gains and losses, carryforwards, expected remaining income, proposed conversions, distributions, and any relevant healthcare information. Then choose the few opportunities worth evaluating. Deliberately passing on an opportunity can be the correct outcome.
 
-The working session ends with a tax packet: the relevant lot or transaction export, a summary of the proposed strategy, its assumptions and unresolved issues, and the questions for the CPA. Orange Plan's tax-data export is information for review and filing preparation. It is not a filed return or a guarantee that the data is complete.
+We'll finish with the relevant records and one clear professional question. For example: 'Here is the holding and the proposed sale. Here are the lots we can substantiate, the other income expected this year, and the replacement exposure we are considering. What needs to be confirmed before we act?' A tax-data export supports that review and filing preparation; it is not the filed return or proof the records are complete.
 
-You are finished when you know which action is worth considering, what must be verified before it happens, and how the completed action will be recorded. That is the process that makes tax planning repeatable instead of a last-minute scramble.
+Record whether you will pursue the opportunity, change its amount, or pass. Keep the prerequisite checks and deadline visible. After a transaction, reconcile the actual confirmation, remaining lots, and tax reporting so next year's plan starts from the real record.

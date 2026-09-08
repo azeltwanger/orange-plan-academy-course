@@ -1,6 +1,6 @@
 # A5.2 — Prepare a harvesting transaction that matches the tax record
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/advanced/01-modeling-financing-and-tax.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -11,7 +11,7 @@ Use when: an actual taxable holding presents a gain- or loss-harvesting candidat
 
 ### Read aloud
 
-Begin with a specific holding and supported lots. A harvesting idea becomes actionable only when the units, tax treatment, and execution process can be documented.
+Start with a real candidate holding and the records that support its lots. A harvesting idea is ready to evaluate when you know the units, the identification process, the rest of the year's income, and what exposure you will have afterward.
 
 For a loss, compare current proceeds with adjusted basis and include transaction costs. Identify which existing gains or future tax items the loss may offset. The tax value depends on the actual return and carryforward situation, not simply the size of the loss shown on screen.
 
@@ -27,7 +27,9 @@ An outside transfer to prepare for a trade may also need to preserve history. Av
 
 For the Reed example, use the three-lot illustration to compare the gain produced by the same sale amount. Then stop before execution and build the evidence checklist. The lowest theoretical tax result is not useful if the records and custodian process do not support it.
 
-Save the transaction documentation with the tax file and reconcile it to the filed return. Carryforwards and basis adjustments need continuity into the next year. Return to the core tax plan with a completed record or a clearly pending action, not a proposed trade labeled as finished.
+In the three-lot example, selling the same amount produces different gains. That comparison is useful only for units you can actually identify under the applicable rules. If the lowest-gain result depends on an unsupported purchase record or a process the custodian cannot carry out, resolve that first or compare an eligible alternative. The best-looking row is not an execution instruction.
+
+Return with either a verified proposed action or a deliberate decision to pass, then record only what actually happens. Preserve the confirmation, remaining-lot continuity and tax-reporting reconciliation. A planning choice made after the sale does not by itself establish that the required identification occurred in time.
 
 ### Production notes
 
@@ -38,3 +40,17 @@ Verify current digital-asset identification relief, including IRS Notice2026-20 
 - Verify actual lots, identification, costs, and replacement exposure.
 - Separate model, execution, and record stages.
 - Reconcile the result with tax reporting and next-year continuity.
+
+### Source-led visual and teaching notes — not spoken
+
+Three-lot comparison alongside evidence, identification timing, replacement exposure and costs. Show proposed → reviewed → external execution → confirmed record; no claimed legal approval from an app dropdown.
+
+Editorial reason: Connect the theoretical harvesting benefit to an eligible transaction and actual record.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+
+### Advanced demonstration plan — not spoken
+
+Use the existing fictional lot example and one explicitly unknown purchase detail. Compare the sale, review applicable current identification/replacement rules, and prepare the evidence packet. Show a synthetic post-transaction record only as a labeled demonstration; no actual trade. Check repeated history does not add holdings. Return to 5.1–5.2 and 5.5.
+
+Use this with the linked core working chapters; it does not create another required lesson or claim an app/device test was performed. Record precise controls and actual outcomes only after the relevant gate is met.

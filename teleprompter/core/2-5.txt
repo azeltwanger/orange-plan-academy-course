@@ -1,4 +1,4 @@
-College planning starts with the amount of help you intend to provide. That is a family decision before it is an investment-account decision.
+Start with what you intend to contribute to college, not the largest number on a college-cost website. The decision is what help your household will provide, when it will be needed, and what you are prepared to change to fund it.
 
 You might commit to a fixed dollar amount, a percentage of an in-state public-school cost, tuition only, or a contribution that depends on the child's choices and the family's resources. Housing, travel, fees, and graduate school can change the total. Be specific about what the commitment includes.
 
@@ -26,6 +26,8 @@ Now connect the amount to cash flow. During their reserve-building and extra-car
 
 This is why the college decision belongs in the full household plan. You are deciding how much help you can fund alongside retirement and other commitments, and making that expectation clear to your child.
 
-The app may model education events and dedicated accounts, but the family still chooses the commitment. In the working-session chapter, use only the education funding and savings calculations the current build actually supports. The college worksheet walks through the same commitment, resources, shortfall, and saving-pace calculation. Use it alongside the plan to make the family decision explicit.
+We'll work from the commitment to the money already assigned, then calculate the remaining gap and a saving pace. For the oldest child in our flat-cost, zero-growth example, that benchmark is eight hundred fifty dollars a month. Now put it beside the same cash flow used for the reserve and debt. In the reduced-spending phase, that money is already fully assigned. College cannot quietly claim another eight hundred fifty.
 
-Write the commitment in one sentence, list the funding sources, and set the next review date. That gives your child a clearer expectation and gives the retirement plan a real number to work with.
+They could revise the commitment, change other spending or contributions, use a different genuinely available resource, or plan a later start. A later start leaves fewer months, so the saving pace has to be recalculated. The useful decision is which trade-off they actually accept.
+
+Finish with the family commitment, assigned resources, remaining gap, and an affordable funding decision—or a specific choice still to resolve. Tell the child what is and isn't being promised. No children or no planned education support is also a complete answer; continue to the next required session without adding a goal that doesn't belong in your life.

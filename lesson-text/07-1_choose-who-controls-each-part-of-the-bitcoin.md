@@ -1,6 +1,6 @@
 # 7.1 — Choose who controls each part of the Bitcoin
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/07-custody.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: CUSTODY, DICTATION, BRAIN, OWNER, PRIMARY
 
 ### Read aloud
 
-Start by naming the job of each meaningful Bitcoin holding. Long-term money you want to control directly, retirement-account exposure, near-term liquidity, and collateral for a loan have different requirements.
+Choose how to hold each meaningful part of the Bitcoin by the job it serves and the failure you want to protect against. Direct control, professional support, family access and lender exposure can matter differently for different parts of the plan.
 
 Then ask what you are trying to protect against. Losing a recovery backup, a provider freezing access, a home disaster, incapacity, a dishonest helper, and family members being unable to carry out the process are different failures. The custody choice should solve the failures that matter to this household.
 
@@ -24,7 +24,9 @@ An intentional split uses more than one method because different portions have d
 
 How much direct control matters is a personal decision. Some households want a meaningful amount no institution can restrict. Others value support and family administration more. You can combine those preferences instead of asking one custody method to do every job.
 
-For Alex and Morgan, direct Bitcoin and professionally custodied Bitcoin are separate pools. They also have a spot Bitcoin fund in retirement accounts. The fund gives market exposure through a security; it does not give them the same direct control of underlying Bitcoin as their own keys. The account wrapper, investment, and custody method each need to be understood.
+For Alex and Morgan, distinguish the directly controlled Bitcoin, the professionally custodied pool, and the Bitcoin-fund exposure in retirement accounts. Each has a different access and recovery process. A brokerage fund is not recovered from hardware-wallet words, and an account at a professional provider is not the same as holding the keys yourself.
+
+Now test one absence: the usual operator cannot help. Which method still gives the family a safe, legitimate starting path? That question may support an intentional split or professional help, but adding another method is useful only if it reduces a meaningful dependence the household can maintain.
 
 Now run the One-Failure Test. Could one device, backup, person, provider, location, or account-recovery process materially damage the family's financial plan? If so, name the failure and compare the simplest way to reduce it.
 
@@ -34,7 +36,7 @@ The amount at stake changes the consequences. A setup that was adequate for a re
 
 Choose the current direction before moving funds. State the job of each pool, the control preference, the main protection gained, and the risk retained. Then identify the first unfinished action. It may be proving a backup, reviewing the provider agreement, hardening access, or simplifying a process the family cannot follow.
 
-The next lessons turn that decision into operational proof and a safe record. The goal is a setup the household can maintain, explain, and recover under the conditions that actually matter.
+Choose the direction for each pool and one next protection action. Explain the control gained, the new responsibility, and the risk retained. We will prove the relevant recovery process before treating the setup as ready for meaningful money.
 
 ### Production notes
 
@@ -45,3 +47,11 @@ Use four-method comparison and the One-Failure Test. Do not present a provider o
 - Assign a custody job and control preference to each meaningful pool.
 - Name the remaining failure each method creates.
 - Choose one architecture and one next protection action.
+
+### Source-led visual and teaching notes — not spoken
+
+Four-method trade-off table, followed by the One-Failure Test. Use asset/job/control/recovery/support columns, no wealth ladder or compulsory multisig threshold. The Reed methods are categories, not endorsements of a provider.
+
+Editorial reason: Use the household-absence case to turn custody comparisons into an intentional choice.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

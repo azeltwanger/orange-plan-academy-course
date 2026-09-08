@@ -1,6 +1,6 @@
 # W05 — Reconcile tax records and prepare one useful comparison
 
-Status: CAPTURE_HOLD — reviewed run sheet and narration cues; no recording approved.
+Status: CAPTURE_HOLD — complete written recording plan prepared; exact build/procedure, actual results, tests and footage remain unverified.
 Adapted source: `course-v2/WALKTHROUGHS.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -23,6 +23,72 @@ Sources: TAX, TAX_DECK, APP, PRIMARY
 **Chapter 5, after 5.5:** review one harvesting candidate or deliberately pass. Read current law/identification checks, then show planned → external execution → actual record stages. No proposed conversion or trade is labeled completed.
 
 **Chapter 6:** download FORM8949 TAX DATA using the supported CSV export. Review coverage and package the proposed strategy, records, uncertainties, and exact CPA questions. No filed-form or filing-completeness claim.
+
+### Source-led recording detail — not spoken
+
+Use synthetic purchase records and a separately reviewed tax-year scenario. Record calculations as calculations and professional/transaction work as pending until actually performed. Do not publish private tax files.
+
+**Chapter 1**
+
+Prepare and demonstrate: Read the three-lot table for the same 0.2 BTC sale and $20,000 proceeds. Compare $8,400/$16,800/$9,600 gains with their allocated bases.
+
+Reusable narration: “The cash received is the same. The cost of the units identified for sale changes the gain. Now check which units and identification process the records actually support.”
+
+Final screen/procedure insert: Known quantity, basis, date/holding period, fee convention, current identification rules and applicable custody location. No legal conclusion from an app ordering setting.
+
+Member finish: Distinguish proceeds from taxable gain and name any evidence needed before a sale.
+
+**Chapter 2**
+
+Prepare and demonstrate: Upload one accepted source example, review an overlap, a transfer and a missing purchase detail. Compare the current position before and after adding evidence.
+
+Reusable narration: “History explains what is already here. It should not add the same Bitcoin twice or turn an unknown purchase into a known zero cost.”
+
+Final screen/procedure insert: Certified adapter or supported guided mapping, reconciliation and actual receipt; no sale/repurchase substitutes or universal source-coverage claim.
+
+Member finish: Current holdings stay nonduplicative and missing facts have a prioritized evidence task.
+
+**Chapter 3**
+
+Prepare and demonstrate: Read employment, lower-income years, benefits and later required distributions. Compare income types rather than treating all spending proceeds as income.
+
+Reusable narration: “This is the period worth investigating. What else uses the same tax room, and which decision should we compare?”
+
+Final screen/procedure insert: Actual tax roadmap, jurisdiction/year, relevant account access, separate withholding and liability.
+
+Member finish: One specific tax-window comparison is identified with its unresolved facts.
+
+**Chapter 4**
+
+Prepare and demonstrate: Compare Current with a bounded conversion and an accessible spending withdrawal where relevant. Show conversion money, tax-payment source and household spending separately, then after-tax resources at matching future dates.
+
+Reusable narration: “This money moved into Roth treatment. It does not also pay the bills. The additional tax uses a separate resource, so read that cost with the future benefit.”
+
+Final screen/procedure insert: Real incremental tax, liquidity, opportunity cost, healthcare/RMD effects only as modeled; label external review. No invented Reed conversion result.
+
+Member finish: Choose a comparison to pursue, reduce or reject; planned and actual conversions remain distinct.
+
+**Chapter 5**
+
+Prepare and demonstrate: Evaluate one gain/loss-harvesting candidate or deliberately pass. Prepare identification, replacement exposure, current income and deadline checks before any actual transaction.
+
+Reusable narration: “We have a possible opportunity. Verification, outside execution and recording are separate stages.”
+
+Final screen/procedure insert: Actual year and asset rules, costs, carryforward evidence and custodian process. A proposed action is never displayed as executed.
+
+Member finish: The candidate has prerequisites and a next step, or a documented reason to pass.
+
+**Chapter 6**
+
+Prepare and demonstrate: Produce the supported FORM 8949 TAX DATA CSV, inspect coverage and package the relevant records, assumptions and exact CPA question.
+
+Reusable narration: “This is data for review and filing preparation. It is not the filed return, and a successful export does not prove every record is complete.”
+
+Final screen/procedure insert: Actual export schema, values, gaps and safe handling; no file sent or professional approval claimed.
+
+Member finish: The packet supports one useful professional conversation and preserves next-year continuity.
+
+The existing run sheet and these chapter details describe the same recording. No actual model result, provider/device operation, legal authority, listener test or publication approval is established by this written preparation. Any absent promised behavior remains held and reported; it is not silently replaced with a fabricated screen.
 
 ### Readback and finish
 

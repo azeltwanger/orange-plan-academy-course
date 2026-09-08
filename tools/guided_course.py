@@ -1,14 +1,14 @@
 #!/usr/bin/env python3
 """Build the guided Academy from canonical scripts. Standard library only.
 
-promote: one-time, exact-input migration; preserves all prior active material.
+history: verify retired files against the pinned Git history (full checkout required).
 build: derive reading copies, orders and manifests from scripts (never reverse).
 check: check structure, arithmetic, links and byte-for-byte derived-file parity.
 test: prove missing lessons, stale copies and fixture changes are rejected.
 No network, app, credential, financial-account, or deployment operations.
 """
 from __future__ import annotations
-import argparse, hashlib, json, re, shutil, tempfile
+import argparse, hashlib, json, re, shutil, tempfile, subprocess
 from pathlib import Path
 from decimal import Decimal as D
 
@@ -45,59 +45,6 @@ def script_path(lid: str, title: str) -> str:
     if lid.startswith('A'): return f'scripts/advanced/{lid.replace(".","-")}_{slug}.md'
     if lid.startswith(('W','D')): return f'scripts/working/{lid}_{slug}.md'
     m,n=lid.split('.'); return f'scripts/{int(m):02d}-{n}_{slug}.md'
-
-def promote(root: Path) -> None:
-    if (root/'COURSE-MANIFEST.json').exists(): raise ValueError('Already promoted; edit scripts/ and use build/check.')
-    spec=load_json(root/'tools/guided-support.json')
-    texts={}
-    for path,expected in spec['input_hashes'].items():
-        data=(root/path).read_bytes()
-        if digest(data)!=expected: raise ValueError(f'Source changed; review before promotion: {path}')
-        texts[path]=data.decode('utf-8')
-    amendments=load_json(root/'tools/editorial-amendments.json')
-    for a in amendments:
-        if texts[a['file']].count(a['old'])!=1: raise ValueError('Ambiguous amendment: '+a['reason'])
-        texts[a['file']]=texts[a['file']].replace(a['old'],a['new'])
-    archive=root/'archive/pre-guided-promotion'
-    archive.mkdir(parents=True,exist_ok=False)
-    old=[]
-    for p in list(root.glob('*.md')):
-        old.append((p,archive/p.name))
-    for directory in ['scripts','modules','lesson-text','visuals','alignment-pass','research']:
-        p=root/directory
-        if p.exists(): old.extend((f,archive/f.relative_to(root)) for f in p.rglob('*') if f.is_file())
-    keep={'guided_course.py','guided-support.json','editorial-amendments.json'}
-    old.extend((p,archive/'tools'/p.name) for p in (root/'tools').glob('*') if p.is_file() and p.name not in keep)
-    old.extend((p,archive/p.relative_to(root)) for p in (root/'course-v2').rglob('*') if p.is_file())
-    preservation=[]
-    for p,dest in old:
-        preservation.append({'old_path':str(p.relative_to(root)),'archive_path':str(dest.relative_to(root)),'sha256':digest(p.read_bytes())})
-        dest.parent.mkdir(parents=True,exist_ok=True); shutil.move(str(p),str(dest))
-    # Empty legacy directories are harmless, but no old active files remain.
-    for path,text in texts.items():
-        if '/sessions/' not in path and '/advanced/' not in path and not path.endswith('WALKTHROUGHS.md'): continue
-        for heading,body in blocks(text):
-            lid,title=heading.split(' — ',1)
-            header=f'# {heading}\n\nStatus: PRE_DICTATION — editorial review complete; Austin approval pending.\n'
-            header+=f'Adapted source: `{path}` at `{SOURCE_SHA}`.\n'
-            header+='App references: accepted redesign direction; final screen behavior requires capture evidence.\n\n'
-            if lid in PRACTICAL_IDS:
-                header=header.replace('PRE_DICTATION — editorial review complete; Austin approval pending.','CAPTURE_HOLD — reviewed run sheet and narration cues; no recording approved.')
-                body+='\n### Spoken cues (use with the matching chapters)\n\n'
-                for i,cue in enumerate(spec['narration'][lid],1): body+=f'**Chapter {i}.** {cue}\n\n'
-            write(root,script_path(lid,title),header+body.strip())
-    fixture=json.loads(texts['course-v2/demo-household.json'])
-    fixture['scope_notice']='Simplified teaching balance sheet. Vehicle/equipment/business values are omitted; related debts remain included. This is not a complete household valuation or a calibrated app fixture.'
-    fixture['education_example']={'combined_resources':58000,'oldest_assignment':29000,'younger_assignment':29000,'annual_parent_commitment':20000,'years_supported':4,'months_to_prefund':60,'growth_assumed':0,'cost_inflation_assumed':0,'scope':'Arithmetic benchmark only. Actual account beneficiaries, inflation, tax, timing, returns and future cash flow require review. No immediate $850 surplus is asserted.'}
-    fixture['future_routing_example']={'available_after_card':1605,'personally_held_bitcoin':1000,'taxable_stock_fund':605,'scope':'Illustrative future comparison, not an engine recommendation or current contribution.'}
-    write(root,'fixtures/reed-household.json',json.dumps(fixture,indent=2,ensure_ascii=False))
-    write(root,'fixtures/REED-HOUSEHOLD.md',texts['course-v2/DEMO-HOUSEHOLD.md']+'\n\n## Calculation scope\n\n'+fixture['scope_notice']+' See `reed-household.json` for the exact holdings, payment conventions and explicitly hypothetical examples. The JSON controls arithmetic when the prose is abbreviated.\n')
-    write(root,'archive/pre-guided-promotion/ARCHIVE-NOT-FOR-RECORDING.md','# Historical material\n\nThese files preserve the preceding course, including prior dictation. They are not the recording order. Start at the repository README and DICTATION-ORDER.md.\n')
-    write(root,'PROMOTION-RECORD.json',json.dumps({'source_commit':SOURCE_SHA,'app_contract_commit':APP_SHA,'inputs':spec['input_hashes'],'preserved':preservation,'amendments':[{'file':a['file'],'reason':a['reason']} for a in amendments]},indent=2))
-    for path,content in spec['documents'].items(): write(root,path,content)
-    write(root,'course-v2/README.md','# Guided draft workspace retired\n\nThe reviewed course is now canonical in `scripts/`. Begin with `../DICTATION-ORDER.md`. The exact former grouped source is preserved in `../archive/pre-guided-promotion/course-v2/`. Do not regenerate active scripts from this historical workspace.\n')
-    build(root)
-    check(root)
 
 def catalog(root: Path) -> list[dict]:
     records={}
@@ -213,7 +160,41 @@ def arithmetic(root: Path) -> dict:
     eq('equal pretax Traditional end',D(1000)*2*D('.8'),1600);eq('equal pretax Roth end',D(1000)*D('.8')*2,1600)
     eq('50 percent initial LTV fixed-debt drop to 80',1-D('.5')/D('.8'),D('.375'))
     eq('25 percent initial LTV fixed-debt drop to 80',1-D('.25')/D('.8'),D('.6875'))
+    eq('reserve after hypothetical project',D(32000)-D(30000),2000)
+    eq('same sale gain illustration',D(20000)-D(16000),4000)
     return {'scope':'Arithmetic teaching checks only; no retirement forecast, tax opinion, lender assurance or model acceptance.', 'checks':asserts,'current_dta_percent':float(debt/assets*100),'partial_stress_dta_percent':float(debt/stressed*100)}
+
+CLEANUP_PIN = 'a7be495e670078cd44ea4e0792538b0eaa32dd95'
+
+def preservation(root: Path) -> dict:
+    recovery=load_json(root/'production/repository-cleanup.json')
+    if recovery.get('history_commit')!=CLEANUP_PIN: raise ValueError('Unexpected history pin')
+    retired=recovery['retired_files']; by={r['path']:r for r in retired}
+    if len(by)!=len(retired) or recovery['retired_count']!=len(retired): raise ValueError('Invalid cleanup inventory')
+    if digest(json.dumps(retired,sort_keys=True,separators=(',',':')).encode())!='45a3bf61d7913417597bc9063c3663b2c3ba66a3e22dba4459aef4796c3bb8ba': raise ValueError('Historical recovery inventory changed')
+    old=load_json(root/'PROMOTION-RECORD.json')
+    for row in old['preserved']:
+        stored=by.get(row['archive_path'])
+        if not stored or stored['sha256']!=row['sha256']: raise ValueError('Missing historical preservation record')
+    for row in retired:
+        p=Path(row['path'])
+        if p.is_absolute() or '..' in p.parts: raise ValueError('Unsafe recovery path')
+        if (root/p).exists(): raise ValueError('Obsolete file restored into current tree: '+str(p))
+        if not re.fullmatch('[0-9a-f]{64}',row['sha256']) or not re.fullmatch('[0-9a-f]{40}',row['git_blob']): raise ValueError('Invalid recovery hash')
+    for row in recovery['retained_source_copies']:
+        data=(root/row['path']).read_bytes()
+        if digest(data)!=row['sha256'] or by[row['old_path']]['sha256']!=row['sha256']: raise ValueError('Historical dictation copy changed')
+    for path,expected in recovery['original_source_hashes'].items():
+        if digest((root/path).read_bytes())!=expected: raise ValueError('Original dictation changed: '+path)
+    return recovery
+
+def history(root: Path) -> None:
+    recovery=preservation(root)
+    for row in recovery['retired_files']:
+        data=subprocess.check_output(['git','show',CLEANUP_PIN+':'+row['path']],cwd=root)
+        git_hash=hashlib.sha1(b'blob '+str(len(data)).encode()+b'\0'+data).hexdigest()
+        if digest(data)!=row['sha256'] or git_hash!=row['git_blob']: raise ValueError('Historical recovery mismatch: '+row['path'])
+    print('PASS: recovered and byte-verified',len(recovery['retired_files']),'retired files from pinned Git history; original dictation retained.')
 
 def check(root: Path) -> None:
     expected=outputs(root)
@@ -222,8 +203,7 @@ def check(root: Path) -> None:
     actual=arithmetic(root)
     if load_json(root/'ARITHMETIC-CHECKS.json')!=actual: raise ValueError('Stale arithmetic report')
     record=load_json(root/'PROMOTION-RECORD.json')
-    for row in record['preserved']:
-        if digest((root/row['archive_path']).read_bytes())!=row['sha256']: raise ValueError('Historical material changed: '+row['archive_path'])
+    preservation(root)
     alltext='\n'.join(x['read'] for x in catalog(root))
     for phrase in ['Foundation','Integration','Optimization','Sovereign','eight hundred fifty','six hundred five','seventy percent stocks','fifty-nine and a half']:
         if phrase not in alltext: raise ValueError('Required teaching missing: '+phrase)
@@ -231,7 +211,7 @@ def check(root: Path) -> None:
         for link in re.findall(r'\]\(([^)]+)\)',(root/path).read_text()):
             if '://' in link or link.startswith('#'):continue
             if not (root/Path(path).parent/link.split('#')[0]).exists():raise ValueError(f'Broken link in {path}: {link}')
-    print(f'PASS: {len(ALL_IDS)} components; {len(expected)} synchronized outputs; {len(actual["checks"])} arithmetic checks; {len(record["preserved"])} preserved files.')
+    print(f'PASS: {len(ALL_IDS)} components; {len(expected)} synchronized outputs; {len(actual["checks"])} arithmetic checks; {len(record["preserved"])} historical preservation records (Git recovery checked separately).')
 
 def tests(root: Path) -> None:
     check(root)
@@ -261,9 +241,21 @@ def tests(root: Path) -> None:
         else:raise ValueError('Teleprompter mutation escaped')
         p.write_bytes(old)
         check(copy)
+        p=copy/'production/repository-cleanup.json'; saved=p.read_bytes(); broken=load_json(p)
+        removed=broken['retired_files'].pop(0); broken['retired_count']-=1; p.write_text(json.dumps(broken))
+        try: preservation(copy)
+        except (ValueError, KeyError): print('PASS mutation: missing history recovery entry')
+        else: raise ValueError('Recovery-entry mutation escaped')
+        p.write_bytes(saved)
+        retained=load_json(p)['retained_source_copies'][0]['path']; q=copy/retained; saved_source=q.read_bytes(); q.write_bytes(saved_source+b'changed')
+        try: preservation(copy)
+        except ValueError: print('PASS mutation: changed historical dictation copy')
+        else: raise ValueError('Source-copy mutation escaped')
+        q.write_bytes(saved_source)
+        check(copy)
 
 if __name__=='__main__':
     parser=argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('command',choices=['promote','build','check','test'])
+    parser.add_argument('command',choices=['build','check','test','history'])
     args=parser.parse_args()
-    {'promote':promote,'build':build,'check':check,'test':tests}[args.command](ROOT)
+    {'build':build,'check':check,'test':tests,'history':history}[args.command](ROOT)

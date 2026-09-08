@@ -1,6 +1,6 @@
 # 3.3 — Give every existing debt a job
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/03-debt-and-leverage.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: DEBT, BRAIN, CLIENT_THEMES
 
 ### Read aloud
 
-Now give each existing debt one job and one reason. You may keep the minimum payment, pay extra, refinance, consolidate, restructure, pay it off, or monitor it under specific conditions.
+For each debt, we're choosing what to do next: keep the required payment, pay extra, refinance or restructure, pay it off, or monitor a specific change. The answer should reflect what that debt costs and what paying it down would do to the rest of the household.
 
 Start with the clearest problem. High recurring interest can consume money that would otherwise build the Reserve or buy assets. In the Reed example, the card rate is twenty-point-nine percent. That is a substantial cost for a household with limited monthly room. A stronger Bitcoin return is a possibility; the card interest is a contractual obligation while the balance remains.
 
@@ -28,11 +28,15 @@ Restructuring focuses on the payment shape. A business loan may need a different
 
 Monitoring is an active job when the risk changes with the market or the contract. State the trigger: a rate reset, an LTV level, lower income, a maturity date, or a change in the purpose of the borrowing. Give someone responsibility for checking it at a cadence appropriate to that risk.
 
-The Reed teaching plan directs twelve hundred dollars of extra monthly cash to the card while continuing five hundred toward the Reserve. This assumes their spending reduction has actually been adopted. Alex's existing match contribution is already included separately. We will calculate payoff from the actual interest and payment schedule in the app; we will not invent a payoff date for the example.
+In the Reeds' reduced-spending example, Alex's employee contribution is already accounted for. Of the seventeen hundred dollars then available, five hundred goes toward the reserve and twelve hundred is the extra card payment. Required debt payments were deducted earlier. This phase uses the available money once; there isn't another investment contribution left over.
+
+Your household may choose a different split. I'd put more weight on accessible cash when dependents or reliance on one income mean the family could not cover essentials after an interruption without borrowing more. Required payments still need to be made. Building cash faster can mean slower extra debt repayment and more interest, so revisit that trade-off as the cushion improves.
+
+That is a variation in the decision, not a change to the Reeds' two-income example or a rule that every parent should fund the full reserve before paying extra on debt.
 
 Once the card is gone, its required payment and the extra payment create room for another decision. The plan should show that available cash, and the household should deliberately assign it. It is not automatically permission to increase spending or borrow again.
 
-Before the next lesson, write one sentence per debt: what you will do, why, and what would cause a review. Keep buying Bitcoin, paying an existing loan faster, and adding a new loan as separate decisions. A household can keep a cheap mortgage, eliminate a costly card, continue some accumulation, and decline new leverage at the same time.
+Record the job, reason, extra-payment amount if any, and review trigger for each debt. Add the extra payments together and check them against the reserve claim and the same available cash. Allocation starts with what is genuinely left, not another version of the surplus.
 
 ### Production notes
 
@@ -43,3 +47,11 @@ Tie $1,200 extra and $500 Reserve to the adopted reduced-spending fixture, not t
 - Assign one job and reason to every existing debt.
 - Name review triggers for monitored debts.
 - Return the affordable extra-payment total to Cash Flow.
+
+### Source-led visual and teaching notes — not spoken
+
+Show required payments already deducted, then $500 reserve + $1,200 extra card = $1,700. Beside it, a nonnumeric single-income/dependent variation changes the pace, not the requirement to keep bills covered.
+
+Editorial reason: Carry Austin's newly approved liquidity judgment directly into the competing extra-debt decision.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

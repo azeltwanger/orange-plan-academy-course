@@ -1,9 +1,9 @@
-# Academy handoff
+# Current course handoff
 
-Repository: `azeltwanger/orange-plan-academy-course`. Work belongs to Academy PR #13 / `course-guided-build-recut`; this document grants no merge or deployment authority.
+The source-led written pass covers the full current Core, conditional Advanced and paired practical plans. Start at README.md, then DICTATION-ORDER.md and FILM-ORDER.md. Detailed editorial completion is in delivery/source-led-completion.md; the remaining filming/professional/member gates are in FINALIZATION-STATUS.md.
 
-Canonical source is `scripts/`. Begin with DICTATION-ORDER.md; use FILM-ORDER.md to insert each working-session chapter. The source revision used for the guided promotion is `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`; the later `d1e1a3bcd3601cd41595ab172a0a69e0e7434d28` added only a source-export workflow. App contract alignment is pinned to `dccf0fedaeef6bd767c20fb9af0fe74f1cd4454f` in the separate Orange Plan repository.
+Active work remains Academy Draft PR #15 on `course-source-led-script-pass-20260908`, stacked on the member-deliverables branch from PR #14. PR #13 retains the accepted course architecture. Do not reset or merge any of these as a side effect of reviewing text. Exact tested heads and Actions evidence are in the PR conversation, not an assumed static SHA in this handoff.
 
-After dictation, update only the relevant script, then run build, check and test with `tools/guided_course.py`. Do not run archived generators or copy the old subject-led course back over the guided scripts. Do not call a review, payment, recovery, trade or capture completed without its actual evidence.
+Original dictation, unique retained historical source copies and Git recovery are documented in ARCHIVE-RECOVERY.md. No obsolete master should be promoted over canonical scripts. Update scripts, regenerate, verify, then read the affected text in context.
 
-Before any app filming, reread PR #227 and the applicable current contracts; fill CAPTURE-RECEIPTS.md using the actual released behavior. Keep raw client materials private. The source hash archive is deliberate and must remain unchanged.
+Next work is final voice review and approved-build/device recording preparation, not another unfinished editorial batch. Real saved demo outputs, safe recovery tests, professional review, listener/member pilot and verified support operations still need their own evidence.

@@ -1,6 +1,6 @@
 # 5.4 — Compare conversions with intentional withdrawals
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/05-tax-strategy.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: TAX, TAX_DECK, RETIREMENT, PRIMARY, APP
 
 ### Read aloud
 
-A Roth conversion moves money from a Traditional retirement arrangement into Roth treatment. The taxable portion is included in income in the conversion year. The purpose is to compare paying that tax now with the treatment and flexibility you expect later.
+A conversion, a spending withdrawal, and leaving the account alone are three different choices. We'll compare them using the same life we are trying to fund, including the cash needed to pay any additional tax.
 
 A large Traditional balance can create future required distributions. Growth increases the wealth available, but it can also increase future taxable withdrawals. The applicable starting age and distribution rules depend on the account, birth year, employment situation, and other conditions. Use the rules that apply to the person rather than one age repeated throughout a video.
 
@@ -18,7 +18,9 @@ The conversion is one tool. An intentional Traditional withdrawal used for spend
 
 Keep a conversion separate from spending. If thirty thousand dollars is converted, that thirty thousand generally moves to the Roth account; it is not also available to pay the household's living costs. Any conversion tax needs a funding source. Spending money, conversion money, and tax money must be shown distinctly.
 
-For a simple example, assume an additional thirty-thousand-dollar conversion creates six thousand dollars of incremental tax under the selected hypothetical tax circumstances. The household must compare the benefit of the Roth position with the six thousand dollars used today and what that money would otherwise do. The actual tax is not obtained by multiplying the entire conversion by a convenient bracket when the income spans rates or changes other benefits.
+In the simple example on screen, converting thirty thousand dollars creates six thousand of additional tax under the stated hypothetical circumstances. The thirty thousand goes into Roth treatment; it does not also pay living expenses. The six thousand needs a separate source.
+
+Before accepting the conversion, ask what those tax dollars were doing. If they were supporting essential liquidity, using them has a consequence the tax-savings line alone will not show. Compare a smaller conversion, an accessible Traditional withdrawal for spending, and no change. A more comfortable future Roth balance is not enough reason to leave the current household short of cash.
 
 A conversion can reduce future taxes and still leave less after-tax wealth under some assumptions. It can also improve flexibility or future outcomes even when the immediate tax bill is uncomfortable. Compare after-tax resources, current liquidity, future withdrawals, healthcare effects, RMDs, and the intended beneficiaries. Lifetime tax savings alone cannot decide.
 
@@ -32,7 +34,7 @@ A planned conversion schedule in Orange Plan remains a strategy. A completed con
 
 In the working session, compare a bounded change and read the after-tax result alongside the cash cost. Save the planning choice only after understanding it, then prepare the CPA question before any execution. You may decide to convert a smaller amount, use a withdrawal instead, wait, or do nothing this year.
 
-Finish knowing the proposed amount or range, the tax-payment source, the years affected, and the facts the CPA must verify. That is a complete planning decision even while the actual conversion remains pending.
+Keep the amount or range, the separate tax-payment source, the years affected, and the professional questions together. You may decide to convert less, use a withdrawal instead, wait, or do nothing this year. A planned schedule remains a plan until the actual transaction and its records confirm what happened.
 
 ### Production notes
 
@@ -43,3 +45,11 @@ Use total after-tax wealth as primary product comparison per D48, with immediate
 - Compare conversion, spending withdrawal, and no-change alternatives.
 - Fund the incremental tax separately and review after-tax resources.
 - Separate a planned schedule from completed conversion records.
+
+### Source-led visual and teaching notes — not spoken
+
+Three distinct flows: spending cash, conversion transfer, and tax payment. Compare current liquidity and total after-tax resources at the same future dates. The $30,000/$6,000 illustration is not a computed Reed result or a tax-rate recommendation.
+
+Editorial reason: Carry the liquidity trade-off into conversions and make the alternatives visible on equal terms.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

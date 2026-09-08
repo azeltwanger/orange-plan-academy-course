@@ -1,6 +1,6 @@
 # 8.4 — Identify the risks you will transfer or carry
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/08-family-handoff.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: ESTATE, ESTATE_DECK, RETIREMENT, PRIMARY
 
 ### Read aloud
 
-Insurance planning starts with the financial loss the household would struggle to carry. The Reserve handles some smaller shocks. Larger losses can require a different combination of coverage, assets, and contingency planning.
+Which financial losses could your household carry, and which would disrupt the plan? Start there, then review the coverage you already have before considering another product.
 
 Start with life insurance. If one person dies, what income disappears and what costs remain? Include debt, childcare, education commitments, final expenses, taxes, and the surviving household's spending. Also account for survivor benefits, the spouse's income, existing coverage, and assets that are actually available.
 
@@ -26,13 +26,15 @@ Later-life care can place a substantial burden on family and assets. Options may
 
 Healthcare before Medicare was addressed in the retirement-paycheck session. Keep that coverage choice connected to this broader risk review without duplicating the same costs. Non-insurance alternatives need their own clear treatment of the financial risk the household retains.
 
-For Alex and Morgan, the worksheet begins with existing policies and employer benefits. They identify what would happen if either income stopped, one spouse died, a large liability claim occurred, or long-term care became necessary. They then list the gaps and questions for the appropriate professional. They do not buy one of every policy just to fill a checklist.
+For Alex and Morgan, open the insurance coverage audit and start with the existing policies and employer benefits. Choose one risk, such as the loss of an income, and compare the remaining household need with the benefit the actual contract would provide. A headline replacement percentage is not enough when a cap, waiting period, exclusion or tax treatment changes what arrives.
+
+Classify the result as covered and checked, intentionally retained, or needing review. That prevents the exercise from turning into a shopping list for one of every insurance product.
 
 Be careful when replacing coverage. The new arrangement must be reviewed and effective before an existing policy is canceled when continuous protection is needed. Health, age, underwriting, exclusions, and waiting periods can make an apparently simple replacement difficult or irreversible.
 
 The app may record parts of the protection plan, but the policy contract governs the coverage. Store the necessary non-secret summary and contact information where the family can start the process. Keep original policy documents privately available.
 
-Finish with a short risk decision for each material category: covered and verified, intentionally retained, or requiring a specific review. That gives the household a practical protection plan rather than a list of products it feels pressured to buy.
+Keep each material risk, the coverage or assets intended to meet it, and the specific unresolved contract question. Take the real policy information privately to the licensed professional. When continuous protection is needed, verify the replacement is effective before canceling the coverage you already rely on.
 
 ### Production notes
 
@@ -43,3 +45,11 @@ Licensed insurance review required for contract mechanics and the worksheet. No 
 - Inventory current coverage and the risks the household retains.
 - Identify material gaps and contract questions.
 - Verify replacement coverage before canceling an arrangement needed for continuity.
+
+### Source-led visual and teaching notes — not spoken
+
+Use the standalone insurance coverage audit and its filled fictional example. Show income need versus actual benefit terms, not a universal salary multiple. Keep the $40,000 × ten-year scale example explicitly before inflation, returns and a full needs analysis.
+
+Editorial reason: Make the insurance deliverable a risk decision with policy evidence, not generic product coverage.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

@@ -1,6 +1,6 @@
 # Dictation and editorial provenance
 
-The original permitted sources in `source-material/` remain unchanged. The prior active scripts are also preserved byte-for-byte under `archive/pre-guided-promotion/scripts/`. New connecting explanations and the fictional examples require Austin's approval; word count or an editorial check does not make them dictated material.
+The original permitted sources in `source-material/` remain unchanged. The prior active scripts are preserved in the pinned Git history described in `ARCHIVE-RECOVERY.md`; four verified historical dictation-containing scripts also remain as byte-identical copies in `source-material/historical-dictation/`. New connecting explanations and the fictional examples require Austin's approval; word count or an editorial check does not make them dictated material.
 
 | Existing source / decision | Current home | Treatment |
 |---|---|---|
