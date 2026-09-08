@@ -66,6 +66,15 @@ def catalog(root: Path) -> list[dict]:
     if set(records)!=set(ALL_IDS): raise ValueError('Lesson set differs: '+str(set(records)^set(ALL_IDS)))
     return [records[x] for x in ALL_IDS]
 
+def review_state(row: dict) -> str:
+    if row['id'] == '2.3':
+        return 'Accepted teaching reference; filming separate'
+    if 'Status: TEACHING_REWRITE_REVIEW' in row['text']:
+        return 'Replacement written; voice review pending'
+    if 'Status: WALKTHROUGH_REWRITE_REVIEW' in row['text']:
+        return 'Narration revised; review and capture pending'
+    return 'Needs individual teaching/voice repair'
+
 def outputs(root: Path) -> dict[str,str]:
     rows=catalog(root); by={r['id']:r for r in rows}; result={}
     manifest={'canonical':'scripts/','source_commit':SOURCE_SHA,'app_contract_commit':APP_SHA,'counts':{'core':51,'advanced':15,'working_sessions':10,'device_demos':1},'lessons':[{k:v for k,v in r.items() if k not in ('read','text','checkpoint')} for r in rows]}
@@ -100,7 +109,7 @@ def outputs(root: Path) -> dict[str,str]:
     result['CIRCLE-STRUCTURE.md']=film.replace('# Learning and filming order','# Member playback structure',1)
     result['SCREEN-SHOOT-LIST.md']='# Screen and device production list\n\nAll eleven practical recordings remain unapproved until a matching entry in CAPTURE-RECEIPTS.md is completed. Each source includes the run sheet, evidence checks and spoken cues.\n\n'+''.join(f"## {x} — {by[x]['title']}\n\n[Run sheet and cues]({by[x]['path']})\n\n{by[x]['checkpoint']}\n\n" for x in PRACTICAL_IDS)
     result['MODULE-CHECKPOINTS.md']='# Member completion checks\n\nA decision, a saved choice and an outside action are separate states. Funding a reserve or obtaining legal documents can remain an honest dated action; do not label it complete prematurely.\n\n'+''.join(f"## {x} — {by[x]['title']}\n\n{by[x]['checkpoint']}\n\n" for x in ALL_IDS)
-    result['PRODUCTION-CHECKLIST.md']='# Production checklist\n\nEditorial pass completed over every listed script. Owner dictation/approval, professional review and capture evidence are separate. No professional sign-off or successful app/device run is asserted by these files.\n\n| ID | Script | Text review | Austin approval | Remaining publication gate |\n|---|---|---|---|---|\n'+''.join(f"| {r['id']} | [{r['title']}]({r['path']}) | Reviewed | Pending | {r['gate']} |\n" for r in rows)
+    result['PRODUCTION-CHECKLIST.md']='# Production checklist\n\nThe earlier course-wide pass was rejected for voice and teaching clarity. Only the Reserve is the accepted reference; replacement drafts and unrepaired components are distinguished below. Recording and professional review remain separate. No professional sign-off or successful app/device run is asserted by these files.\n\n| ID | Script | Text review | Austin approval | Remaining publication gate |\n|---|---|---|---|---|\n'+''.join(f"| {r['id']} | [{r['title']}]({r['path']}) | {review_state(r)} | {'Reference accepted; filming separate' if r['id']=='2.3' else 'Pending'} | {r['gate']} |\n" for r in rows)
     total=sum(r['words'] for r in rows if r['id'] in CORE_IDS)
     adv=sum(r['words'] for r in rows if r['id'] in ADV_IDS)
     result['COURSE-METRICS.md']=f'# Current course inventory\n\n51 core teaching clips, including one optional college lesson; 15 conditional Advanced clips; 10 app working sessions; 1 external device demonstration.\n\nCore spoken draft: {total:,} whitespace-delimited words. Advanced: {adv:,}. Approximate narration only at 150 words/minute: {total/150:.0f} core minutes and {adv/150:.0f} Advanced minutes. These are reading estimates, not promised runtimes; working sessions and pauses are additional.\n'
@@ -162,6 +171,8 @@ def arithmetic(root: Path) -> dict:
     eq('25 percent initial LTV fixed-debt drop to 80',1-D('.25')/D('.8'),D('.6875'))
     eq('reserve after hypothetical project',D(32000)-D(30000),2000)
     eq('same sale gain illustration',D(20000)-D(16000),4000)
+    eq('generic annual premium monthly allowance',D(1200)/12,100)
+    eq('generic recurring bill full-year saving',D(40)*12,480)
     return {'scope':'Arithmetic teaching checks only; no retirement forecast, tax opinion, lender assurance or model acceptance.', 'checks':asserts,'current_dta_percent':float(debt/assets*100),'partial_stress_dta_percent':float(debt/stressed*100)}
 
 CLEANUP_PIN = 'a7be495e670078cd44ea4e0792538b0eaa32dd95'

@@ -4,7 +4,7 @@ Generated from canonical `scripts/`. New prose is a pre-dictation draft, not a c
 
 # A1.1 — Test an assumption without making the model tell you what you want
 
-Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
+Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/advanced/01-modeling-financing-and-tax.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -61,7 +61,7 @@ Use this with the linked core working chapters; it does not create another requi
 
 # A3.1 — Build a Bitcoin-loan operating sheet from the actual contract
 
-Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
+Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/advanced/01-modeling-financing-and-tax.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -120,7 +120,7 @@ Use this with the linked core working chapters; it does not create another requi
 
 # A3.2 — Compare financing terms that a simple payment hides
 
-Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
+Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/advanced/01-modeling-financing-and-tax.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -181,7 +181,7 @@ Use this with the linked core working chapters; it does not create another requi
 
 # A4.1 — Check price context before a large allocation change
 
-Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
+Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/advanced/01-modeling-financing-and-tax.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -240,7 +240,7 @@ Use this with the linked core working chapters; it does not create another requi
 
 # A5.1 — Build a multi-year conversion comparison
 
-Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
+Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/advanced/01-modeling-financing-and-tax.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -299,7 +299,7 @@ Use this with the linked core working chapters; it does not create another requi
 
 # A5.2 — Prepare a harvesting transaction that matches the tax record
 
-Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
+Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/advanced/01-modeling-financing-and-tax.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -358,7 +358,7 @@ Use this with the linked core working chapters; it does not create another requi
 
 # A5.3 — Evaluate a state move as a household decision
 
-Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
+Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/advanced/01-modeling-financing-and-tax.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -415,7 +415,7 @@ Use this with the linked core working chapters; it does not create another requi
 
 # A6.1 — Compare healthcare and tax decisions in the same year
 
-Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
+Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/advanced/02-access-custody-and-estate.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -474,7 +474,7 @@ Use this with the linked core working chapters; it does not create another requi
 
 # A6.2 — Test a multi-year sell-versus-borrow strategy
 
-Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
+Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/advanced/02-access-custody-and-estate.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -533,7 +533,7 @@ Use this with the linked core working chapters; it does not create another requi
 
 # A6.3 — Verify an early-retirement account-access route
 
-Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
+Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/advanced/02-access-custody-and-estate.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -594,7 +594,7 @@ Use this with the linked core working chapters; it does not create another requi
 
 # A7.1 — Compare passphrase, multisig, and professional support
 
-Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
+Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/advanced/02-access-custody-and-estate.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -653,7 +653,7 @@ Use this with the linked core working chapters; it does not create another requi
 
 # A7.2 — Decide which custody responsibilities the household can maintain
 
-Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
+Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/advanced/02-access-custody-and-estate.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -710,7 +710,7 @@ Use this with the linked core working chapters; it does not create another requi
 
 # A7.3 — Test correlated failures across providers and methods
 
-Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
+Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/advanced/02-access-custody-and-estate.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -769,7 +769,7 @@ Use this with the linked core working chapters; it does not create another requi
 
 # A7.4 — Understand UTXOs before consolidating coins
 
-Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
+Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/advanced/02-access-custody-and-estate.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -828,7 +828,7 @@ Use this with the linked core working chapters; it does not create another requi
 
 # A8.1 — Decide whether a trust has a job in the plan
 
-Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
+Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/advanced/02-access-custody-and-estate.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 

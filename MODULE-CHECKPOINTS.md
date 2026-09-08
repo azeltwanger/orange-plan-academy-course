@@ -46,15 +46,15 @@ A decision, a saved choice and an outside action are separate states. Funding a 
 
 ## 2.1 — Find the amount your plan actually has available
 
-- Reconcile gross income, deductions, taxes, living costs, debt, and contributions.
-- Choose and explain the spending reference period.
-- Identify a sustainable available pool or an honest deficit.
+- Trace income through deductions, spending, required payments and existing contributions.
+- Explain the spending period, annual bills and the difference between a purchase and its settlement.
+- Identify a reliable available amount or a specific shortfall, and account for bill/payday timing before adding transfers.
 
 ## 2.2 — Free up money without cutting the life you value
 
-- Choose one to three recurring changes with actual start dates.
-- Separate genuine savings from tax-payment timing.
-- Assign the freed money only after it becomes available.
+- Choose one to three changes based on the value and complete cost of what would change.
+- Record the old cost, proposed cost, outside action and expected start; verify the actual saving afterward.
+- Keep ordinary spending distinct from emergency spending, and carry only supportable freed money into Reserve and Debt.
 
 ## 2.3 — Size the Reserve for the job it has to do
 
@@ -65,15 +65,15 @@ A decision, a saved choice and an outside action are separate states. Funding a 
 
 ## 2.4 — Put future changes on the timeline
 
-- Enter the expected change with correct timing and recurrence.
-- Name the funding source and any associated debt or tax effect.
-- Keep possibilities separate and update events when they become actual facts.
+- Describe one expected expense or income change with timing, amount, recurrence and dollar convention.
+- Explain whether it uses income, prior saving, investments or financing and what that requires elsewhere.
+- Keep an unchosen possibility separate and reconcile a planned event once it becomes part of the current facts.
 
 ## 2.5 — Decide how much college help you will provide
 
-- State the family commitment and what it covers.
-- Identify each source, shortfall, and realistic fallback.
-- Set a review point before the first committed payment becomes near-term.
+- State what the parent commitment covers and which resources count for each child.
+- Explain the gap and the assumptions behind the saving pace, including when saving starts and when bills arrive.
+- Fit the proposed contribution beside existing priorities or name the trade-off still unresolved; communicate and review the commitment.
 
 ## 3.1 — Measure the payment pressure you actually carry
 
@@ -407,7 +407,7 @@ Proceed to W02 to verify spending more fully and choose reserve funding. Keep th
 
 ## W02 — Verify cash flow, set the Reserve, and add expected events
 
-The spending basis and available pool are believable. The reserve has a target, eligible sources, gap, and proposed pace. The member can explain when access to cash matters more than faster extra-debt repayment and what would trigger reviewing the pace. The proposed reserve amount carries into Debt and Allocation without being spent twice. Expected events have timing and a funding explanation; possibilities remain separate. College is optional and does not own the required next-session handoff. No wallet recovery, financial transfer, capture, or outside action is certified by the run sheet.
+The member can follow current cash flow, explain the spending estimate and select a change they would make. The accepted Reserve decision stays connected to the same money used for debt and contributions. Expected events include their funding implications, not only their dates. Optional college compares the parent commitment with actual resources and the existing claims on cash flow. An open decision, uncertain result or outside action stays visible rather than being marked complete.
 
 ## W03 — Set debt jobs and test one financing decision
 

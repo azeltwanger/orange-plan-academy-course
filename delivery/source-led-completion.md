@@ -1,5 +1,7 @@
 # Source-led course completion
 
+> Superseded completion claim: Austin rejected the resulting course-wide prose for voice, natural delivery and instructional clarity. This file records earlier edits, not current teaching acceptance. See FINALIZATION-STATUS.md and HANDOFF.md for the individual repair work.
+
 ## What is complete
 
 The remaining 43 core explanations, all 15 conditional Advanced explanations, nine app working-session plans and the device demonstration plan received this targeted source-led editorial pass. Earlier 0.1–0.2, 1.1–1.5, W01 and the approved Reserve reference remain preserved. This completes the written editorial pass across the current 51 core, 15 Advanced and 11 practical components. It is not Austin's blanket voice approval, a successful student pilot, an app/device recording or launch readiness.

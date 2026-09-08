@@ -1,6 +1,6 @@
 # W01 — Build the first working plan
 
-Status: CAPTURE_HOLD — source-led recording plan prepared; final build, complete fictional inputs, actual results and recording remain unverified.
+Status: WALKTHROUGH_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/WALKTHROUGHS.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`, with the opening-session teaching pass described in `delivery/source-led-batch-01.md`.
 App references: accepted redesign direction for preparation only; no exact control or financial result is approved by this run sheet.
 

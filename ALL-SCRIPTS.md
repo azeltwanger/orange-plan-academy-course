@@ -254,57 +254,145 @@ That gives us a useful reason to move into Cash Flow. We're going to verify the 
 
 ## 2.1 — Find the amount your plan actually has available
 
-Before we give another dollar to the reserve, debt, or investments, let's find out how much is actually available. We need an amount you can explain from the records, and a payment schedule that doesn't leave you short when the bills arrive.
+In this lesson, we're going to work out how much money you have available for your reserve, extra debt payments, and investing. We entered a starting estimate when we built the first plan. Now we're going to check whether that estimate matches what's actually happening with your money.
 
-Work from the income you entered in Foundation and reconcile it to a normal month. Gross income comes first. Then account for taxes, other payroll deductions, everyday living costs, and required debt payments. Employee retirement contributions are another use of household money. Employer contributions are an additional benefit, not cash available to spend.
+You might look at your income and think you should be saving more than you are. But then the end of the month comes, and there's less in checking than you expected. Before we decide how much to invest, we need to understand where that difference is coming from.
 
-The important part is choosing a consistent starting point. You can explain the cash flow from gross income, or you can reconcile from the bank deposits after payroll deductions. Both can be useful. The same employee contribution cannot be deducted in both versions and then taken out a third time in the contribution plan.
+Some of the money may already be going into retirement accounts or savings. You might have a bill that only comes a few times a year. Or your spending might be higher than the number you entered. We want to find the reason rather than build the rest of your plan around money that isn't really available.
 
-For Alex and Morgan, our teaching example uses gross household income of about nineteen thousand four hundred seventeen dollars a month. We set aside four thousand for a fictional tax provision. That is an assumption for the example, not a tax calculation or a recommendation. Everyday living spending is ten thousand eight hundred. Required debt payments total about three thousand three hundred forty-two.
+Start with your income. Look at each source separately so you know how much comes in, when it arrives, and how reliable it is.
 
-That leaves twelve hundred seventy-five dollars before employee investment contributions. Alex contributes seven hundred seventy-five dollars to the employer plan to receive the full illustrated match. The employer adds three hundred eighty-seven dollars and fifty cents to the retirement account. The household has five hundred dollars left after Alex's contribution. It cannot spend the employer match on groceries or count it as another five hundred dollars of surplus.
+For a paycheck, take a look at your pay stub. Your gross pay is what you earn before anything is taken out. The amount deposited into your bank account is your take-home pay, after the deductions shown on that stub.
 
-This is a fairly tight month for a household with substantial assets. The account balances do not pay the bills automatically. We will improve the cash flow before pretending there is enough surplus to fund every goal at once.
+Taxes, health insurance, and a retirement contribution might already have come out before the money reaches checking. Those amounts help explain the difference between what you earn and what you have available to spend.
 
-Now compare the model with the bank. If your balances are consistently falling while the plan shows a large surplus, investigate. You may have missed annual expenses, taxes on business income, payroll deductions, card payments on an old financed balance, or an investment transfer. Sometimes the income entered is revenue rather than profit. Sometimes ordinary spending is simply higher than the initial estimate.
+This matters when we check the plan. If we start from gross income, we need to account for those deductions. If we're looking at the deposit in your bank account, they have already happened. Subtracting them from that deposit again would make it look as though you have less money than you do.
 
-Use a reference period that represents your life. A twelve-month average captures more annual costs. A typical-month estimate can be useful when a few extraordinary transactions distort the average. A recent three-month trend may better reflect a permanent change. A manual amount is reasonable when it is supported by records and an explanation. Know which method the plan is using.
+The same question helps with business income: what has already been paid, and what still needs to come out?
 
-Separate recurring costs from genuinely one-time costs. An annual premium is irregular during the year but recurring over the years. A vehicle purchase is a distinct event. You can annualize the premium into everyday spending and model the vehicle separately. Counting both a monthly vehicle fund and the full purchase from the same available money needs careful treatment so the plan does not duplicate the expense or the funding.
+Sales are not all available for your household to spend. The business may need money for operating costs, taxes, or a loan payment. Look at what the income number actually includes so we don't leave out a cost or subtract something that's already been paid. Morgan's income in our example is after ordinary business operating costs, but the equipment-loan payment is still shown separately.
 
-Variable income deserves a slower look. One strong business month does not establish the amount you can commit every month. Use a supportable baseline and a separate rule for excess income when it arrives. Also account for the taxes and operating cash that have to stay with the business.
+Next, look at your spending. I would use your bank and card records rather than try to remember a normal month. We need the amount your life currently costs, before deciding what you might change.
 
-We'll follow the money from income to what remains, then check it against the account you pay bills from. If the plan shows a surplus but that balance keeps falling or the card balance keeps growing, stop and find the difference before setting up another contribution. An annual bill, a payroll deduction, or a payment counted twice can change the answer.
+Review more than one month. A full year can help you catch costs that are easy to forget, such as annual insurance, gifts, or expenses around the holidays. Those bills still need money even though they don't show up every time you open a statement.
 
-Keep the spending basis, the amount genuinely available, and any unresolved difference together. You should be able to explain what has already come out before you assign the remaining money. Next we'll look for changes you would actually be willing to make.
+Say your car insurance costs $1,200 a year and you pay it all at once. That uses the equivalent of $100 a month. You could leave it out of eleven months and then feel like the twelfth month ruined your savings plan. Or you could account for it throughout the year and have the money ready when it's due.
+
+An average also needs some judgment. If your spending recently changed in a way you expect to continue, the past year may no longer describe your life. Perhaps you moved or a recurring payment ended. Use the newer records to understand the change, but still check for annual bills that haven't come around yet.
+
+And don't remove an expense just because it was large. Ask whether it is likely to happen again. A one-time renovation is different from an annual premium. We will put major future purchases on the timeline later, so they stay in the plan without being treated as something you buy every month.
+
+As you review the records, watch how money moves between your accounts.
+
+Suppose you buy groceries with your credit card and then pay the card from checking. The groceries are spending. Paying the card settles that purchase; it isn't another grocery expense. If we add up both transactions as new spending, we've counted the same cost twice.
+
+An older card balance you're still paying off is different. That repayment needs room in your cash flow too. We'll keep it with the existing debts and their required payments rather than confuse it with this month's purchases.
+
+Transfers to savings or an investment account also use money from checking, but they aren't the same thing as spending it on your lifestyle. Keep track of those transfers separately. You may be saving more than you realized, and we need to know what has already been assigned before we decide what the remaining money can do.
+
+Let's bring this together with Alex and Morgan's starting numbers.
+
+They earn about $19,417 a month between the two of them. For this example, we're allowing $4,000 a month for taxes. That is an assumption we're using to explain the cash flow, not a tax bill we've calculated for them.
+
+Their normal living expenses are $10,800, and their required debt payments are about $3,342. After those amounts, they have $1,275 left before Alex's retirement contribution.
+
+Alex contributes $775 a month through work. Subtract that, and the amount left for their other priorities is $500.
+
+So they are already investing. The $500 is what's left after that contribution, not the total amount they are saving. His employer also adds money to the retirement account, but that doesn't give them more cash to pay bills or put into their reserve.
+
+For a household with their income and assets, $500 might be less than you expected. That's useful to see. It tells us how much room they actually have before we start talking about faster debt payments or new contributions. We haven't made the spending changes we'll compare in the next lesson yet.
+
+Now check whether this picture makes sense against the accounts they use.
+
+If you expect money to be left over each month, where does it go? It may accumulate in checking, move into savings, or go toward something you haven't included. Look across a few months and account for those movements. A balance taken just before a paycheck arrives can look very different from the balance just after it, even when the monthly totals are right.
+
+If checking keeps falling or an unpaid card balance keeps growing, I would find out why before adding another regular investment transfer. Go back to the income, deductions, spending, and existing transfers. For example, money you set aside for a future tax bill may still show up in savings, but it isn't available for another investment. Once you find the difference, correct the part of the plan it belongs to.
+
+The timing matters too. You may earn enough over the month but still be short when a bill is due.
+
+Before setting up a transfer, look at when your pay arrives and when the larger bills leave. You might need to keep more money in checking between paydays, move a transfer to later in the month, or ask whether a bill's due date can change. Money you need for the bills before the next paycheck isn't spare money just because it's sitting in the account today.
+
+Variable income adds another decision. How much could you keep setting aside during a quieter month, without having to pull it back?
+
+I wouldn't use your best business month to answer that. Look at the range of income you've actually had and what expenses continue through the slower periods. You could choose a regular amount that fits those periods, then decide what to do with extra income after it arrives and the associated costs and taxes are covered. That lets a good month help the plan without making every month depend on one.
+
+If you're retired, the review is still useful, but the question may be different. You're looking at how much of your spending is covered by income such as a pension or Social Security, and how much needs to come from investments. We'll work through those withdrawals in the retirement-income session. There doesn't have to be money left over from a paycheck for this exercise to matter.
+
+For now, get the current picture right. Know what's coming in, what has already come out, and how much remains for the next decision. If you find a shortfall, keep it visible. It gives us something specific to work on.
+
+You don't have to decide where every remaining dollar will go in this lesson. First we need an amount you can explain and a sense of whether it is reliable. Let's work through that with the records in front of us. Then we'll look at the spending changes you would actually be willing to make, before deciding how quickly to fund the reserve or pay extra on debt.
 
 ---
 
 ## 2.2 — Free up money without cutting the life you value
 
-Where could you free up money without cutting something you value? I would start with spending you would be happy to change, then examine the larger commitments only when the improvement is worth what you give up.
+In the last lesson, we worked out how much money is actually left after your spending and existing commitments. Now we're going to look for changes that could give you more room, without cutting the parts of your life you care about.
 
-Use three decisions: keep, cut, or reduce. Keep the expense when it supports the life you want or meets a real obligation. Cut it when it provides little value. Reduce it when you still want the service but could get the same result for less.
+I don't think the goal here is to make your spending as low as possible. You could make almost any plan look better by taking out vacations, hobbies, and everything else you enjoy. But then you've built a plan for a life you don't want to live.
 
-Start with recurring decisions. An unused subscription, a phone plan, insurance you have not reviewed, bank fees, or interest on a carried card balance can repeat for years. A one-time phone call that reduces a bill by forty dollars a month creates four hundred eighty dollars a year of room. There is no investment assumption in that calculation.
+What I want to find is money you're spending without getting much out of it. Or something you still want, but could pay less for. Those are changes you can benefit from now and keep benefiting from without making the same decision every day.
 
-Then look at the large fixed costs. Housing, transport, location, and the way the household earns income can change the plan more than a long list of tiny purchases. These decisions take more thought because they affect the family. Compare them with the actual benefit, rather than assuming the cheapest version is automatically the best life.
+Start with the spending records you just reviewed. We're going to use three choices: Keep, Cut, or Reduce.
 
-For Alex and Morgan, we will test the twelve-hundred-dollar monthly spending reduction used in the course example. Their normal living costs move from ten thousand eight hundred to ninety-six hundred. After the existing costs and Alex's employee contribution, the available amount rises from five hundred to seventeen hundred. That is a different version of their cash flow, not money we have discovered in the original budget.
+Keep means the expense is necessary or worth the money to you. It stays for now.
 
-Before using the larger amount, they need to identify which changes produce it and when those changes take effect. Until then, the extra twelve hundred is a proposal. The later reserve and card-payoff example depends on that reduction actually being sustainable.
+That includes the obvious things, like housing and groceries. It can also include something you enjoy. Maybe there's an activity you do with your kids every week, or a membership you use regularly. You don't need to justify keeping it just because it isn't essential. The question is whether you're getting enough value from it to choose it over another use of that money.
 
-That change is a teaching scenario until the household actually chooses and implements it. A planned cancellation does not make a bill disappear today. Once the change is real, the current spending baseline can be updated. This distinction prevents the plan from depending on savings that never reach the bank.
+Cut means you would be comfortable getting rid of the expense entirely.
 
-Income can be a larger lever than cutting. A raise, a different role, a better business margin, or additional work may create room. Include the costs of earning that money, the taxes, and the time it takes. A second income stream that consumes every evening has a different value from a recurring improvement in an existing business.
+Look for something you're still paying for but no longer use. A subscription you forgot about is an easy example. Canceling it doesn't take something meaningful out of your life. You're simply no longer paying for it.
 
-Tax withholding can also explain a mismatch in cash flow. Withholding is money paid toward a tax bill. Changing it changes when the money leaves the paycheck, not the underlying tax liability. A large refund may indicate timing that could be reviewed. Reducing withholding without checking the expected liability can create an unfunded bill instead of genuine savings. Have the appropriate tax review before changing the election.
+Other cuts take more thought. You might notice purchases you wouldn't make again, or spending that has grown without a deliberate decision. Ask yourself whether you would choose that expense today. If the answer is no, that's somewhere to start.
 
-The next step is deciding what receives the freed money. A useful change can disappear into new spending unless you assign it a destination. We will use the Reserve, debt strategy, and contribution plan to make that destination clear. When a debt is paid off or a reserve target is reached, the next destination should be revisited deliberately.
+Reduce means you want to keep something, but change what you're paying or how often you use it.
 
-For a Bitcoin household, recurring saving matters because it gives you a way to accumulate through ordinary market conditions without needing one perfect entry. The amount you can invest still depends on the household staying operational. Cash needs, interest costs, and future bills remain part of the plan.
+You don't have to stop eating out entirely to spend less on it. You could choose fewer meals out and keep the ones you really enjoy. With phone or internet service, you might be able to switch plans without giving up anything you use. Start by checking what you're paying for and what the alternative actually includes.
 
-Choose the next change you are willing to make and give it an amount, an owner, and a date. After it happens, check the real saving and update the plan. Keep a worthwhile part of your life on purpose rather than cutting it only to produce a better-looking projection.
+Insurance takes a little more care. A lower premium could be a better price, or it could mean less coverage and a larger bill for you when something goes wrong. Compare the coverage and deductibles as well as the monthly price. The saving needs to be worth any extra cost you're agreeing to carry.
+
+For a simple example, reducing a recurring bill by $40 a month frees up $480 over a full year. There's no investment return in that calculation. It's money that would otherwise have left your account, provided the lower cost continues and you haven't added another expense to replace it.
+
+That is why I would look at recurring bills before spending hours trying to squeeze a few dollars out of every purchase. You make the change once, and it can keep helping the cash flow. Check for switching fees or an introductory price that ends soon, so you know how much you will really save.
+
+Once you've found those easier changes, look at the larger commitments.
+
+Housing, transportation, and where you live can make a much bigger difference. They're also decisions that affect your family, your time, and your daily life. They deserve more than a quick instruction to spend less.
+
+For example, moving somewhere cheaper might lower the housing bill, but add a longer commute or move you away from people who help with the kids. A less expensive car might reduce a payment, but selling the current one could require cash to clear the loan. Compare the whole change, not just the bill that gets smaller.
+
+You might decide the improvement is worth it. You might decide to keep what you have and accept a slower pace toward another goal. Both are choices you can make deliberately. We will use the plan to understand the difference rather than assume the cheapest option is the right one.
+
+Let's bring this back to Alex and Morgan.
+
+Their original living spending is $10,800 a month. With the other costs and Alex's retirement contribution already accounted for, they have $500 left. We're going to compare reducing that living spending by $1,200 a month, bringing it down to $9,600.
+
+If everything else stays the same, that gives them $1,700 for their other priorities instead of $500. They haven't increased their income or changed an investment assumption. They would be keeping more of the money they already earn.
+
+But the reduction needs an explanation. Where is that $1,200 coming from?
+
+The example gives us the amount to compare, not a list of actual bills they have canceled. Before relying on it, they need changes they would genuinely make and a date when those changes begin. For your household, work from the expenses you chose to cut or reduce. Don't start with a saving you want and assume the spending will somehow adjust around it.
+
+There is also a difference between cutting a bill and spending less through a change in habits. A canceled subscription has a fairly clear saving. Spending less on shopping or meals out may take a few months to establish. Use an amount you think you can maintain, then check it against what happens.
+
+Some changes won't start immediately. You might have a contract to finish or a renewal coming up. Keep the current cost in the starting picture until it changes, and include the future reduction at the time you expect it. We will work through those dated changes in Life Events.
+
+Your normal spending after this review should still describe a life you are willing to live. It is different from the bare-bones number we'll use to size the reserve. You might temporarily pause a family trip or a hobby during an income interruption without deciding to remove it from every future year of your plan.
+
+You can also improve cash flow through income. I don't want this exercise to become an endless search for smaller expenses when a different role, a raise, or a better business margin could do more.
+
+Look at what the additional income would leave you after its costs. More work may come with childcare, travel, business expenses, or less time at home. A proposed raise also isn't income you have today. Compare the change, but don't commit the money before it is reasonably available.
+
+One other item worth reviewing is money withheld from your paycheck for taxes. A larger paycheck after a withholding change is not necessarily a tax saving. You may simply be paying less toward the same bill during the year. Check the expected tax obligation before treating the difference as money you can invest. We don't want to improve this month's cash flow by leaving a later tax payment unfunded.
+
+Once you settle on a spending change, give the freed money a destination. Otherwise, it is easy for it to get absorbed into something else without you noticing.
+
+We haven't decided all those destinations yet. The next lesson works out the reserve need, then Debt helps us weigh extra payments against that cash. After that, we'll finish where the remaining contributions go. For Alex and Morgan, the later reserve-and-card example uses the larger $1,700 amount. It only works if the spending reduction is part of the plan they actually follow.
+
+For now, choose one to three changes you're willing to make. Record the old cost, the expected new cost, and what you have to do to make the difference real. Cancel the service, request the quote, change the plan, or agree on a different spending amount with your household.
+
+Then check what changed. A smaller saving that you can keep is more useful than a large reduction that only exists in the projection.
+
+Let's compare those choices and see how much room they would give you. Then we'll work out how much of that room the reserve needs.
 
 ---
 
@@ -382,69 +470,153 @@ Let's work through the numbers and record the reserve decision.
 
 ## 2.4 — Put future changes on the timeline
 
-Think of one expense or income change you already expect. What happens, when does it happen, how much money is involved, and where will that money come from? Those four answers turn a vague future concern into something you can include in the plan.
+So far, we've worked from what your income and spending look like today. Now we're going to add the changes you already expect, so the plan doesn't assume the rest of your life looks exactly like this month.
 
-For each event, answer four questions. What is happening? When? How much money changes hands? How will it be funded? Start there before getting into the finer details.
+You might be planning to replace a car, help with college, reduce your hours at work, or move to a different house. Some of those changes use money. Some free up money. Either way, we want to include them at the time they are expected to happen.
 
-A one-time expense and a recurring change behave differently. A thirty-thousand-dollar vehicle purchase happens once. A six-hundred-dollar monthly payment lasts for a defined period. A permanent reduction in school spending changes every later month. Give the model the right shape as well as the right amount.
+You don't have to predict everything. Start with the changes you already know matter. An estimate you can explain is a useful starting point; leaving out an expected expense altogether can make the plan look easier than the life you're trying to fund.
 
-Use the same dollar convention as the input. If the event asks for today's cost and applies inflation, enter today's cost. If it asks for the expected amount at the future date, use that future amount. Check the label rather than applying inflation twice. Keep a note of the assumption behind a rough estimate.
+Let's take one event at a time. What is changing, when does it happen, and how much does it change the money coming in or going out? Then we'll look at how it gets funded.
 
-Alex and Morgan expect a vehicle replacement in three years. They are also considering a renovation in two years. The vehicle belongs in the baseline when it is part of the household's actual plan. The size of the renovation is still being weighed, so we can compare it in Scenarios. A larger project should not reduce their saved retirement outlook until they decide to adopt it.
+First, decide whether the event belongs in the plan you intend to follow or in a comparison.
 
-Funding matters. The money might come from future cash flow, a dedicated account, a taxable sale, or financing. A cash expense needs available money at that date. Financing reduces the immediate cash requirement but adds a debt, interest, and future payments. A taxable sale may require more gross proceeds than the spending amount once tax is included.
+Alex and Morgan expect to replace a vehicle in about three years. They are also considering a renovation in two years. The vehicle is something they intend to prepare for. The renovation is still a decision. They want to see what it would mean before committing to it.
 
-A home purchase is a good example of why the pieces must stay separate. The house becomes an asset. The down payment and closing costs require cash. The mortgage becomes a liability and a payment. Insurance, maintenance, property taxes, and utilities affect recurring spending. Entering the full house price as a cash expense and also entering a mortgage-funded purchase can count the need twice.
+That's the distinction between an expected Life Event and a scenario. Include the vehicle in the plan they are building toward. Compare the renovation separately until they decide to do it. A cost isn't optional just because it is inconvenient for the projection, but an idea isn't a commitment just because you've tried the numbers.
 
-For a house sale, gross value is not the same as spendable proceeds. The mortgage, selling costs, taxes where applicable, and replacement housing all matter. Treat the equity as a possible funding source only when the sale or another supported access path is actually modeled.
+Next, describe the change accurately.
 
-Now think about flexibility. A bill due next month has very little room for a market recovery. A family commitment five or more years away may allow Bitcoin to remain part of the funding plan when the timing, amount, and backup resources support it. The deadline alone does not decide the asset. The consequence of being short and the household's ability to respond matter too.
+A purchase happens once. A recurring expense continues. A change in income starts at a particular point and may stop again later. Those need different treatment.
 
-As the event gets closer, revisit the committed amount. Protect the money that must be available while allowing flexible, longer-term money to keep its intended job. A future expense needs a review point, especially when its funding depends on a volatile asset.
+For a simple illustration, paying $30,000 in cash for a car is a one-time cost. It doesn't mean you spend an extra $30,000 every year. Financing a car is different: some money may leave now as a down payment, and the loan payments continue afterward. This is not a vehicle quote for Alex and Morgan. It's a way to see why the amount alone doesn't explain the event.
 
-When an event happens, update the actual records and retire or revise the planned version. A purchase becomes an owned asset or actual spending. A loan becomes a real debt. An income change becomes the current income baseline. Keep a future event only for changes that remain ahead.
+The same applies when a cost ends. A recurring expense stopping next year should affect the months after it stops, not make your current spending look lower before it happens. A temporary expense should also have an end rather than continuing for the rest of the plan.
 
-We'll put one expected expense and one income change on the timeline, then compare a possibility separately. For each, look at the affected year and follow the cash. A vehicle price, its down payment, the loan proceeds, and later payments must fit together; the price is not an extra expense on top of all of those flows. The same check applies when a home is sold or an old loan is paid off.
+For income, think through both people in the household. One person might reduce their hours while the other keeps working. Or you might expect a temporary break followed by different work. Describe the income change you actually intend, rather than use one retirement date to stand in for everything.
 
-Record one expected change with its amount, timing, and funding explanation. Keep any uncertain estimate visible. When the event happens, check the actual records and retire or revise the future entry so the same change isn't counted again. A possibility you haven't chosen stays a comparison.
+Be clear about the dollars you are entering too. Are you estimating what something costs today, or what you expect to pay at the future date?
+
+If the plan takes a today's-dollar estimate and increases it for inflation, don't increase it yourself first and then have the plan do it again. We'll check the wording of the input in the walkthrough. For a rough estimate, keep a note of what it is based on so you can update it when you have better information.
+
+Now comes the part that's easy to miss: where will the money come from?
+
+Adding an expense to the timeline tells the plan that money will be needed. It does not, by itself, mean you've started saving for it. It also doesn't establish that a particular account has enough money available on that date.
+
+You might pay it from income when the time comes. That can work when the amount fits alongside the other bills and commitments in that period. Look at what will still be left, rather than assuming future income can cover both the event and all the contributions you are making now.
+
+For a larger cost, you may want to set money aside ahead of time. In that case, there are two connected parts: the amount you save before the event and the amount you spend when it happens. The saving uses some of your available cash flow along the way. When you later spend that saved money, you're using the balance you've built, not paying for the same purchase a second time out of income.
+
+You could instead plan to use existing investments. Then we need to know which money is available and what else it was supposed to fund. Selling from a taxable account may also create a tax cost, so the amount you need to sell can be different from the amount you need for the purchase.
+
+Borrowing is another comparison. It can reduce how much cash you need up front, but it adds a repayment obligation. We will work through the financing decisions in Debt. Here, make sure the purchase, the borrowed money, and the payments describe one transaction. Don't add a fully cash-funded purchase and then add loan payments as though the entire purchase still came from your own cash.
+
+A home move needs that same care, just with more pieces.
+
+If you're selling a house, its market value isn't all money you can spend. The mortgage still needs to be paid off, and there can be selling costs and taxes to consider. What remains may help fund the next home, but it isn't automatically available for another goal too.
+
+For the new home, look at the cash needed to buy it, any new mortgage, and the ongoing cost of living there. The mortgage payment is only part of that cost. Insurance, property taxes, utilities, and maintenance may change as well. If the move is meant to improve cash flow, those are part of checking whether it really does.
+
+You don't need to finish a property or loan analysis in this lesson. You do need to recognize the connected changes so we can include them in the comparison instead of treating a move as one isolated dollar amount.
+
+Then look at how much flexibility you have.
+
+Could you delay the purchase? Spend less? Use a different source of money? A cost with a fixed deadline and very little flexibility creates a different decision from something you could move back a year without much harm.
+
+That matters when Bitcoin is part of the funding plan. You may be comfortable keeping money invested for an expense several years away. But suppose Bitcoin is down when the bill arrives. Would you still make the purchase, sell something else, use income, or delay it?
+
+The more important it is that the full amount be there on a particular date, the less I would want that payment to depend on a favorable market at exactly the right time. That doesn't mean every future goal has to sit in cash today. It means you need a funding choice that fits the commitment, and a time to review it as the date gets closer.
+
+In the walkthrough, we'll add one expected expense and one income change. Then we'll open the affected period and follow the money. Did the expense appear when intended? What income was available? Did the plan need a withdrawal, and what account supplied it? How did that leave the household positioned afterward?
+
+That is more useful than only looking at whether the retirement date moved. A plan may still show the same retirement timing while asking you to sell an investment or take on a payment you wouldn't be comfortable with.
+
+Finally, remember to update an event when it happens.
+
+Suppose you planned for a recurring bill to end, and it has now ended. Your current spending should reflect that. Check the old future entry as well, so the projection doesn't reduce spending again for a change already included in today's numbers. The same idea applies to a purchase that's now an owned asset or a proposed loan that's now a real debt.
+
+For this step, choose an expected change and record its amount, timing, and funding explanation. Keep estimates visible, and put possibilities you haven't chosen in the comparison instead. You can add more as you work through the plan; you don't need a perfect list of every expense you will ever face.
+
+We'll give college its own example in the optional lesson because it involves several years and often more than one child. Otherwise, your next required session is Debt, where we'll settle the existing payments and any financing you're considering.
+
+Let's put the first expected change on the timeline and see what it asks of the rest of the plan.
 
 ---
 
 ## 2.5 — Decide how much college help you will provide
 
-Start with what you intend to contribute to college, not the largest number on a college-cost website. The decision is what help your household will provide, when it will be needed, and what you are prepared to change to fund it.
+In this lesson, we're going to work out what help you intend to provide for college and how that fits alongside the rest of your plan.
 
-You might commit to a fixed dollar amount, a percentage of an in-state public-school cost, tuition only, or a contribution that depends on the child's choices and the family's resources. Housing, travel, fees, and graduate school can change the total. Be specific about what the commitment includes.
+This lesson is optional. If you don't expect to fund education, you can move on to Debt. You don't need to add a goal just because it appears in the course.
 
-Use real cost information from the schools being considered and their net-price estimates where available. Published tuition alone is an incomplete picture, and estimated aid is not guaranteed. Begin with a range while the school is uncertain, then update it as choices and aid become clearer.
+For a parent who does want to help, I would start with the commitment, not the account.
 
-For an illustration, suppose the household commits to twenty thousand dollars a year for four years, in today's dollars. That is an eighty-thousand-dollar commitment before inflation. It is not the entire cost of every college and it is not a recommendation. It simply gives the plan a defined family obligation to fund.
+It's easy to jump straight to, "Should I open a 529 or buy Bitcoin for my kids?" Before we can compare those choices, we need to know what the money is supposed to cover and when it will be needed.
 
-Next identify the sources. An existing 529 balance, ongoing saving, future household cash flow, taxable investments, scholarships, the student's earnings, or borrowing may each cover part of the cost. Count each source once. Two children also create overlapping years, so read the household's combined annual need rather than treating each college plan in isolation.
+Saying you want to help with college could mean very different things. You might intend to pay tuition at an in-state public school, cover a fixed amount each year, or contribute what you can while expecting your child to cover the rest. Housing, meals, fees, travel, and extra years of study can change what that promise costs.
 
-A 529 can offer tax benefits for qualified education use, and state rules may add other benefits or consequences. It also has an investment menu and rules about eligible use. Check the particular plan. Owning a 529 does not automatically give you the Bitcoin exposure you want, and tax benefits do not settle the asset decision by themselves.
+Be specific enough that you and your child would understand the same promise. Paying tuition is different from paying every expense, and a fixed dollar contribution is different from covering whatever a chosen school charges.
 
-For a high-conviction Bitcoin household, some college funding may remain in Bitcoin while the need is sufficiently far away and the family has flexibility. The plan has to show what happens if the value is much lower when tuition begins. Would you reduce the commitment, use current income, sell another asset, change the school choice, or take on debt? A fallback that depends on an unlimited student loan is not a complete answer.
+You can start with an estimate while your child is young. Use actual school cost information and net-price estimates where available, then update it as the choices become clearer. Don't assume published tuition is the entire bill, or that estimated aid is already guaranteed.
 
-As enrollment approaches, protect the committed payments that must be made on time. You do not have to move every long-term family asset into cash at once. You do need a reliable source for the near-term bill and a review process for the following years.
+For Alex and Morgan, we'll compare a commitment of $20,000 a year for four years for the older child, measured in today's dollars. That is $80,000 before allowing for future cost increases. It isn't a claim about what every college costs. It is the amount of help we are testing in their plan.
 
-You may have heard a one-third framework: save one-third, fund one-third from cash flow or investments at the time, and borrow one-third. It is a way to start a conversation about several sources. It does not prove that the split is affordable or that the student can borrow the required amount. Student and parent loans have different borrowers, limits, and consequences. Evaluate the expected repayment burden and current program terms before relying on them.
+Next, look at what is already available for that commitment.
 
-Let's work through the saving gap. Alex and Morgan have fifty-eight thousand dollars in education savings for two children. First confirm which beneficiary each account serves. For this illustration, they set aside twenty-nine thousand for the older child's plan and preserve the other twenty-nine thousand for the younger child. That is a planning assignment; any actual account or beneficiary change needs its own review.
+Alex and Morgan have $58,000 in education savings for two children. For this illustration, we're assigning $29,000 to the older child's plan and preserving $29,000 for the younger child. We haven't created any new money or changed an actual account's beneficiary. We are deciding which part of the existing total we are counting toward each child's need.
 
-Suppose they want their entire eighty-thousand-dollar commitment ready when the older child starts college in five years. Eighty thousand minus twenty-nine thousand leaves fifty-one thousand. Spread that over sixty months and the rough saving benchmark is eight hundred fifty dollars a month.
+That distinction matters. If they compare the older child's $80,000 commitment with the entire $58,000 balance, the gap looks smaller. But then the same money isn't still there for the younger child. Start with the actual account ownership and beneficiaries, then make sure the family totals only count the money once.
 
-That calculation holds costs flat and gives the savings no investment growth. It is a first comparison, not a projection of tuition or Bitcoin. Next include the cost increase you expect, the timing of each year's payment, the investments already held, taxes where relevant, and any income they intend to use during college. Run a weaker investment outcome as well. Each change should have an understandable effect on the remaining gap.
+For the older child, $80,000 minus the $29,000 assigned leaves $51,000 to fund.
 
-Now connect the amount to cash flow. During their reserve-building and extra-card-payment phase, Alex and Morgan already assigned every available dollar. Adding an eight-hundred-fifty-dollar college line would overcommit that same money. They have to change another claim, choose a smaller parental commitment, use an identified existing resource, or begin a different saving pace after the card is paid off. The later start also leaves fewer months to save, so the amount needs to be recalculated.
+How quickly would they need to close that gap?
 
-This is why the college decision belongs in the full household plan. You are deciding how much help you can fund alongside retirement and other commitments, and making that expectation clear to your child.
+Suppose they want the full amount ready when college starts in five years. There are sixty months to work with. With no investment growth and no increase in costs, that $51,000 gap works out to eight hundred fifty dollars a month.
 
-We'll work from the commitment to the money already assigned, then calculate the remaining gap and a saving pace. For the oldest child in our flat-cost, zero-growth example, that benchmark is eight hundred fifty dollars a month. Now put it beside the same cash flow used for the reserve and debt. In the reduced-spending phase, that money is already fully assigned. College cannot quietly claim another eight hundred fifty.
+That's a useful first number. It tells them the size of the commitment they are considering. It does not tell them what tuition will actually cost, what Bitcoin will return, or which account to use.
 
-They could revise the commitment, change other spending or contributions, use a different genuinely available resource, or plan a later start. A later start leaves fewer months, so the saving pace has to be recalculated. The useful decision is which trade-off they actually accept.
+It also depends on wanting the whole amount available at the start. The college bills arrive over four years, so the household could choose to fund some of them from income during those years instead. That changes the saving required now, but it also commits future income that may have had another job.
 
-Finish with the family commitment, assigned resources, remaining gap, and an affordable funding decision—or a specific choice still to resolve. Tell the child what is and isn't being promised. No children or no planned education support is also a complete answer; continue to the next required session without adding a goal that doesn't belong in your life.
+Look at that timing in the full plan. Will both parents still be working? Will another child be in college at the same time? Does this overlap with the years when you want to reduce work or start taking money out of investments?
+
+An income you plan to stop earning can't also be the answer to how you will pay tuition.
+
+Now put the $850 beside Alex and Morgan's current priorities.
+
+In the reduced-spending example, they have $1,700 available after the costs and Alex's existing employee contribution. The later funding example puts $500 toward the reserve and $1,200 toward extra card payments. That uses the full amount.
+
+There isn't another $850 available just because we've calculated a college gap.
+
+This is where they need to make a choice. They could change what they intend to contribute, change another use of the money, identify an existing resource that really is available, or start a different saving pace later. Each changes something else in the plan.
+
+For example, waiting until the card is paid off could free money for education. But it also leaves fewer months before college starts. Recalculate the gap and the time remaining at that point. Don't keep the original $850 amount as though they had been saving it all along.
+
+You can combine sources too. Some help might come from existing education savings, some from future income, and some from investments. The student's earnings, confirmed aid, or borrowing could cover part of the wider cost. Just be clear about what is the parent's commitment and what still needs another source.
+
+You may have heard of saving one-third, paying one-third from cash flow, and borrowing one-third. That can start a conversation about combining sources. It doesn't establish that those proportions work for your household. The income has to be there, and the borrowing needs an actual borrower, available terms, and a realistic repayment plan.
+
+A student loan and a parent loan do not leave the obligation with the same person. Before using either to fill the gap, look at who will owe the money and what those payments would ask of them afterward. "We'll borrow whatever is left" isn't enough to settle the funding decision.
+
+Once the commitment and sources are clearer, account choice becomes more useful.
+
+A 529 is designed for education saving and can provide tax benefits for qualified use. It also has rules about how the money is used and an investment menu to understand. Check the particular plan and current tax treatment before choosing it for the benefit alone. Having an education account doesn't tell us what investments it actually holds.
+
+Money held outside an education account can offer more flexibility over its purpose, but the investment, access, and possible tax costs still matter. If a taxable investment is going to pay a bill, look at the cash left after any tax on the sale, not just its market value.
+
+For a Bitcoin household, I wouldn't rule out using Bitcoin for education simply because the goal is college. With a longer horizon and some flexibility, you may decide it fits part of the plan. The question is whether you can still meet the commitment if the price is much lower when the money is needed.
+
+Would you use another account? Continue working? Reduce the amount you contribute or choose a less expensive option? Think through what you would actually do. Don't count on your child's plans being flexible after you've told them the money will definitely be there.
+
+As enrollment gets closer, separate the payments that must be available soon from money intended for later years. You don't have to move every family investment at once. You do need to know how the first bill will be paid, then come back to the next year's need before it becomes urgent.
+
+We will use the timeline to compare those funding choices. Start with the cost and the money already assigned, then look at contributions and the years when the bills arrive. Add the growth and cost assumptions deliberately, and test a weaker investment outcome rather than only the result you hope for.
+
+When you read the result, ask what had to happen to make it work. Did the plan use the education savings? Did it also need money from another account? Were you still earning the income it relied on? We will check the actual funding shown in the walkthrough, not assume that adding a college event automatically created a saving plan.
+
+You may come out of the comparison comfortable with the original commitment. You may decide a smaller amount is more realistic. Or you may have one specific trade-off to settle with your household. That's useful progress, provided you don't call the goal funded while that choice is still open.
+
+For this step, record what you intend to contribute, which money counts toward it, and how you plan to cover the remaining gap. Make the expectation clear to your child, and choose when you will review it as costs, school choices, and the family situation change.
+
+Let's work through that commitment in the plan. Then we'll return to Debt and finish weighing the claims on the money available today.
 
 ---
 

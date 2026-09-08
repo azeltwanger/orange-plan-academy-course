@@ -1,8 +1,8 @@
 # 2.5 — Decide how much college help you will provide
 
-Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
-Adapted source: `course-v2/sessions/02-cash-flow-reserve-and-life-events.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
+Status: TEACHING_REWRITE_REVIEW — full spoken replacement after Austin's rejection of the bulk pass. New wording awaits voice/judgment review; it is not prior dictation or filming approval.
+Adapted source: original materials identified below and the unchanged Reserve reference in Lesson 2.3. Prior drafts remain in Git history.
+App references: concepts prepared independently of screen layout; exact behavior and outputs remain unverified until capture.
 
 Kind: optional
 Gate: TAX_REVIEW
@@ -10,54 +10,94 @@ Sources: CASHFLOW, ALLOCATION, OWNER, PRIMARY
 
 ### Read aloud
 
-Start with what you intend to contribute to college, not the largest number on a college-cost website. The decision is what help your household will provide, when it will be needed, and what you are prepared to change to fund it.
+In this lesson, we're going to work out what help you intend to provide for college and how that fits alongside the rest of your plan.
 
-You might commit to a fixed dollar amount, a percentage of an in-state public-school cost, tuition only, or a contribution that depends on the child's choices and the family's resources. Housing, travel, fees, and graduate school can change the total. Be specific about what the commitment includes.
+This lesson is optional. If you don't expect to fund education, you can move on to Debt. You don't need to add a goal just because it appears in the course.
 
-Use real cost information from the schools being considered and their net-price estimates where available. Published tuition alone is an incomplete picture, and estimated aid is not guaranteed. Begin with a range while the school is uncertain, then update it as choices and aid become clearer.
+For a parent who does want to help, I would start with the commitment, not the account.
 
-For an illustration, suppose the household commits to twenty thousand dollars a year for four years, in today's dollars. That is an eighty-thousand-dollar commitment before inflation. It is not the entire cost of every college and it is not a recommendation. It simply gives the plan a defined family obligation to fund.
+It's easy to jump straight to, "Should I open a 529 or buy Bitcoin for my kids?" Before we can compare those choices, we need to know what the money is supposed to cover and when it will be needed.
 
-Next identify the sources. An existing 529 balance, ongoing saving, future household cash flow, taxable investments, scholarships, the student's earnings, or borrowing may each cover part of the cost. Count each source once. Two children also create overlapping years, so read the household's combined annual need rather than treating each college plan in isolation.
+Saying you want to help with college could mean very different things. You might intend to pay tuition at an in-state public school, cover a fixed amount each year, or contribute what you can while expecting your child to cover the rest. Housing, meals, fees, travel, and extra years of study can change what that promise costs.
 
-A 529 can offer tax benefits for qualified education use, and state rules may add other benefits or consequences. It also has an investment menu and rules about eligible use. Check the particular plan. Owning a 529 does not automatically give you the Bitcoin exposure you want, and tax benefits do not settle the asset decision by themselves.
+Be specific enough that you and your child would understand the same promise. Paying tuition is different from paying every expense, and a fixed dollar contribution is different from covering whatever a chosen school charges.
 
-For a high-conviction Bitcoin household, some college funding may remain in Bitcoin while the need is sufficiently far away and the family has flexibility. The plan has to show what happens if the value is much lower when tuition begins. Would you reduce the commitment, use current income, sell another asset, change the school choice, or take on debt? A fallback that depends on an unlimited student loan is not a complete answer.
+You can start with an estimate while your child is young. Use actual school cost information and net-price estimates where available, then update it as the choices become clearer. Don't assume published tuition is the entire bill, or that estimated aid is already guaranteed.
 
-As enrollment approaches, protect the committed payments that must be made on time. You do not have to move every long-term family asset into cash at once. You do need a reliable source for the near-term bill and a review process for the following years.
+For Alex and Morgan, we'll compare a commitment of $20,000 a year for four years for the older child, measured in today's dollars. That is $80,000 before allowing for future cost increases. It isn't a claim about what every college costs. It is the amount of help we are testing in their plan.
 
-You may have heard a one-third framework: save one-third, fund one-third from cash flow or investments at the time, and borrow one-third. It is a way to start a conversation about several sources. It does not prove that the split is affordable or that the student can borrow the required amount. Student and parent loans have different borrowers, limits, and consequences. Evaluate the expected repayment burden and current program terms before relying on them.
+Next, look at what is already available for that commitment.
 
-Let's work through the saving gap. Alex and Morgan have fifty-eight thousand dollars in education savings for two children. First confirm which beneficiary each account serves. For this illustration, they set aside twenty-nine thousand for the older child's plan and preserve the other twenty-nine thousand for the younger child. That is a planning assignment; any actual account or beneficiary change needs its own review.
+Alex and Morgan have $58,000 in education savings for two children. For this illustration, we're assigning $29,000 to the older child's plan and preserving $29,000 for the younger child. We haven't created any new money or changed an actual account's beneficiary. We are deciding which part of the existing total we are counting toward each child's need.
 
-Suppose they want their entire eighty-thousand-dollar commitment ready when the older child starts college in five years. Eighty thousand minus twenty-nine thousand leaves fifty-one thousand. Spread that over sixty months and the rough saving benchmark is eight hundred fifty dollars a month.
+That distinction matters. If they compare the older child's $80,000 commitment with the entire $58,000 balance, the gap looks smaller. But then the same money isn't still there for the younger child. Start with the actual account ownership and beneficiaries, then make sure the family totals only count the money once.
 
-That calculation holds costs flat and gives the savings no investment growth. It is a first comparison, not a projection of tuition or Bitcoin. Next include the cost increase you expect, the timing of each year's payment, the investments already held, taxes where relevant, and any income they intend to use during college. Run a weaker investment outcome as well. Each change should have an understandable effect on the remaining gap.
+For the older child, $80,000 minus the $29,000 assigned leaves $51,000 to fund.
 
-Now connect the amount to cash flow. During their reserve-building and extra-card-payment phase, Alex and Morgan already assigned every available dollar. Adding an eight-hundred-fifty-dollar college line would overcommit that same money. They have to change another claim, choose a smaller parental commitment, use an identified existing resource, or begin a different saving pace after the card is paid off. The later start also leaves fewer months to save, so the amount needs to be recalculated.
+How quickly would they need to close that gap?
 
-This is why the college decision belongs in the full household plan. You are deciding how much help you can fund alongside retirement and other commitments, and making that expectation clear to your child.
+Suppose they want the full amount ready when college starts in five years. There are sixty months to work with. With no investment growth and no increase in costs, that $51,000 gap works out to eight hundred fifty dollars a month.
 
-We'll work from the commitment to the money already assigned, then calculate the remaining gap and a saving pace. For the oldest child in our flat-cost, zero-growth example, that benchmark is eight hundred fifty dollars a month. Now put it beside the same cash flow used for the reserve and debt. In the reduced-spending phase, that money is already fully assigned. College cannot quietly claim another eight hundred fifty.
+That's a useful first number. It tells them the size of the commitment they are considering. It does not tell them what tuition will actually cost, what Bitcoin will return, or which account to use.
 
-They could revise the commitment, change other spending or contributions, use a different genuinely available resource, or plan a later start. A later start leaves fewer months, so the saving pace has to be recalculated. The useful decision is which trade-off they actually accept.
+It also depends on wanting the whole amount available at the start. The college bills arrive over four years, so the household could choose to fund some of them from income during those years instead. That changes the saving required now, but it also commits future income that may have had another job.
 
-Finish with the family commitment, assigned resources, remaining gap, and an affordable funding decision—or a specific choice still to resolve. Tell the child what is and isn't being promised. No children or no planned education support is also a complete answer; continue to the next required session without adding a goal that doesn't belong in your life.
+Look at that timing in the full plan. Will both parents still be working? Will another child be in college at the same time? Does this overlap with the years when you want to reduce work or start taking money out of investments?
+
+An income you plan to stop earning can't also be the answer to how you will pay tuition.
+
+Now put the $850 beside Alex and Morgan's current priorities.
+
+In the reduced-spending example, they have $1,700 available after the costs and Alex's existing employee contribution. The later funding example puts $500 toward the reserve and $1,200 toward extra card payments. That uses the full amount.
+
+There isn't another $850 available just because we've calculated a college gap.
+
+This is where they need to make a choice. They could change what they intend to contribute, change another use of the money, identify an existing resource that really is available, or start a different saving pace later. Each changes something else in the plan.
+
+For example, waiting until the card is paid off could free money for education. But it also leaves fewer months before college starts. Recalculate the gap and the time remaining at that point. Don't keep the original $850 amount as though they had been saving it all along.
+
+You can combine sources too. Some help might come from existing education savings, some from future income, and some from investments. The student's earnings, confirmed aid, or borrowing could cover part of the wider cost. Just be clear about what is the parent's commitment and what still needs another source.
+
+You may have heard of saving one-third, paying one-third from cash flow, and borrowing one-third. That can start a conversation about combining sources. It doesn't establish that those proportions work for your household. The income has to be there, and the borrowing needs an actual borrower, available terms, and a realistic repayment plan.
+
+A student loan and a parent loan do not leave the obligation with the same person. Before using either to fill the gap, look at who will owe the money and what those payments would ask of them afterward. "We'll borrow whatever is left" isn't enough to settle the funding decision.
+
+Once the commitment and sources are clearer, account choice becomes more useful.
+
+A 529 is designed for education saving and can provide tax benefits for qualified use. It also has rules about how the money is used and an investment menu to understand. Check the particular plan and current tax treatment before choosing it for the benefit alone. Having an education account doesn't tell us what investments it actually holds.
+
+Money held outside an education account can offer more flexibility over its purpose, but the investment, access, and possible tax costs still matter. If a taxable investment is going to pay a bill, look at the cash left after any tax on the sale, not just its market value.
+
+For a Bitcoin household, I wouldn't rule out using Bitcoin for education simply because the goal is college. With a longer horizon and some flexibility, you may decide it fits part of the plan. The question is whether you can still meet the commitment if the price is much lower when the money is needed.
+
+Would you use another account? Continue working? Reduce the amount you contribute or choose a less expensive option? Think through what you would actually do. Don't count on your child's plans being flexible after you've told them the money will definitely be there.
+
+As enrollment gets closer, separate the payments that must be available soon from money intended for later years. You don't have to move every family investment at once. You do need to know how the first bill will be paid, then come back to the next year's need before it becomes urgent.
+
+We will use the timeline to compare those funding choices. Start with the cost and the money already assigned, then look at contributions and the years when the bills arrive. Add the growth and cost assumptions deliberately, and test a weaker investment outcome rather than only the result you hope for.
+
+When you read the result, ask what had to happen to make it work. Did the plan use the education savings? Did it also need money from another account? Were you still earning the income it relied on? We will check the actual funding shown in the walkthrough, not assume that adding a college event automatically created a saving plan.
+
+You may come out of the comparison comfortable with the original commitment. You may decide a smaller amount is more realistic. Or you may have one specific trade-off to settle with your household. That's useful progress, provided you don't call the goal funded while that choice is still open.
+
+For this step, record what you intend to contribute, which money counts toward it, and how you plan to cover the remaining gap. Make the expectation clear to your child, and choose when you will review it as costs, school choices, and the family situation change.
+
+Let's work through that commitment in the plan. Then we'll return to Debt and finish weighing the claims on the money available today.
+
+### Visual notes — not spoken
+
+Show the parent commitment before the account menu. The source comparison is $20,000 × 4 years = $80,000 in today's dollars; $58,000 total education resources assigned once as $29,000 for each child. For the older child: $80,000 − $29,000 = $51,000; $51,000 / 60 months = $850. Mark the benchmark flat-cost, zero-growth and fully ready at the start, not a tuition/Bitcoin forecast.
+
+Put that proposed $850 beside the same reduced-spending $1,700 pool already claimed by $500 Reserve and $1,200 extra card payments. Show the conflict, not a saved extra contribution. Then show the four tuition years on the household timeline with actual future income only when supplied by the reviewed capture extension. Distinguish a planning assignment from account ownership or a beneficiary change.
 
 ### Production notes
 
-Optional lesson. Preserve user approval that Bitcoin may fund five-plus-year needs; avoid universal 529 or asset-cutoff advice. Verify qualified expenses, current state benefits, student/parent loan limits, and beneficiary rules before publication. Use Federal Student Aid and IRS/SEC primary references. W02 must distinguish engine-supported education funding from an external planning worksheet.
+This preserves the optional college scope and existing current-script/fixture comparisons rather than reinstating the old outline's fixed under-five-year exclusion or its generalized 529 rules. One-third funding is a conversation starting point only. No new loan limit, tax benefit amount, aid award, security, beneficiary change or return path is supplied. Current plan/qualified-use/loan/access details retain targeted review. W02 chapter 7 must distinguish actual supported funding results from the external benchmark. Private call material supports checking where funding comes from, not a claim about current automatic 529 routing. No family or member outcome is invented.
+
+Source context and current repair progress are in `HANDOFF.md` and `FINALIZATION-STATUS.md`. The rejected course-wide pass is not evidence of voice quality. These are source-based edits and clearly labeled illustrative reasoning, not a fresh independent financial or professional audit.
 
 ### Member checkpoint
 
-- State the family commitment and what it covers.
-- Identify each source, shortfall, and realistic fallback.
-- Set a review point before the first committed payment becomes near-term.
-
-### Source-led visual and teaching notes — not spoken
-
-Commitment → assigned resources → gap → monthly benchmark → affordability. Keep the $58,000 total split once between the children. Put the $850 benchmark beside, not on top of, the already exhausted $1,700 current pool.
-
-Editorial reason: Make the optional college lesson resolve competing funding claims rather than promise an unfunded contribution.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+- State what the parent commitment covers and which resources count for each child.
+- Explain the gap and the assumptions behind the saving pace, including when saving starts and when bills arrive.
+- Fit the proposed contribution beside existing priorities or name the trade-off still unresolved; communicate and review the commitment.

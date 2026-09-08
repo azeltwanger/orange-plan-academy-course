@@ -1,8 +1,8 @@
 # 2.1 — Find the amount your plan actually has available
 
-Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
-Adapted source: `course-v2/sessions/02-cash-flow-reserve-and-life-events.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
+Status: TEACHING_REWRITE_REVIEW — full spoken replacement after Austin's rejection of the bulk pass. New wording awaits voice/judgment review; it is not prior dictation or filming approval.
+Adapted source: original materials identified below and the unchanged Reserve reference in Lesson 2.3. Prior drafts remain in Git history.
+App references: concepts prepared independently of screen layout; exact behavior and outputs remain unverified until capture.
 
 Kind: teach
 Gate: OWNER_REVIEW
@@ -10,44 +10,88 @@ Sources: CASHFLOW, DICTATION, CLIENT_THEMES, APP
 
 ### Read aloud
 
-Before we give another dollar to the reserve, debt, or investments, let's find out how much is actually available. We need an amount you can explain from the records, and a payment schedule that doesn't leave you short when the bills arrive.
+In this lesson, we're going to work out how much money you have available for your reserve, extra debt payments, and investing. We entered a starting estimate when we built the first plan. Now we're going to check whether that estimate matches what's actually happening with your money.
 
-Work from the income you entered in Foundation and reconcile it to a normal month. Gross income comes first. Then account for taxes, other payroll deductions, everyday living costs, and required debt payments. Employee retirement contributions are another use of household money. Employer contributions are an additional benefit, not cash available to spend.
+You might look at your income and think you should be saving more than you are. But then the end of the month comes, and there's less in checking than you expected. Before we decide how much to invest, we need to understand where that difference is coming from.
 
-The important part is choosing a consistent starting point. You can explain the cash flow from gross income, or you can reconcile from the bank deposits after payroll deductions. Both can be useful. The same employee contribution cannot be deducted in both versions and then taken out a third time in the contribution plan.
+Some of the money may already be going into retirement accounts or savings. You might have a bill that only comes a few times a year. Or your spending might be higher than the number you entered. We want to find the reason rather than build the rest of your plan around money that isn't really available.
 
-For Alex and Morgan, our teaching example uses gross household income of about nineteen thousand four hundred seventeen dollars a month. We set aside four thousand for a fictional tax provision. That is an assumption for the example, not a tax calculation or a recommendation. Everyday living spending is ten thousand eight hundred. Required debt payments total about three thousand three hundred forty-two.
+Start with your income. Look at each source separately so you know how much comes in, when it arrives, and how reliable it is.
 
-That leaves twelve hundred seventy-five dollars before employee investment contributions. Alex contributes seven hundred seventy-five dollars to the employer plan to receive the full illustrated match. The employer adds three hundred eighty-seven dollars and fifty cents to the retirement account. The household has five hundred dollars left after Alex's contribution. It cannot spend the employer match on groceries or count it as another five hundred dollars of surplus.
+For a paycheck, take a look at your pay stub. Your gross pay is what you earn before anything is taken out. The amount deposited into your bank account is your take-home pay, after the deductions shown on that stub.
 
-This is a fairly tight month for a household with substantial assets. The account balances do not pay the bills automatically. We will improve the cash flow before pretending there is enough surplus to fund every goal at once.
+Taxes, health insurance, and a retirement contribution might already have come out before the money reaches checking. Those amounts help explain the difference between what you earn and what you have available to spend.
 
-Now compare the model with the bank. If your balances are consistently falling while the plan shows a large surplus, investigate. You may have missed annual expenses, taxes on business income, payroll deductions, card payments on an old financed balance, or an investment transfer. Sometimes the income entered is revenue rather than profit. Sometimes ordinary spending is simply higher than the initial estimate.
+This matters when we check the plan. If we start from gross income, we need to account for those deductions. If we're looking at the deposit in your bank account, they have already happened. Subtracting them from that deposit again would make it look as though you have less money than you do.
 
-Use a reference period that represents your life. A twelve-month average captures more annual costs. A typical-month estimate can be useful when a few extraordinary transactions distort the average. A recent three-month trend may better reflect a permanent change. A manual amount is reasonable when it is supported by records and an explanation. Know which method the plan is using.
+The same question helps with business income: what has already been paid, and what still needs to come out?
 
-Separate recurring costs from genuinely one-time costs. An annual premium is irregular during the year but recurring over the years. A vehicle purchase is a distinct event. You can annualize the premium into everyday spending and model the vehicle separately. Counting both a monthly vehicle fund and the full purchase from the same available money needs careful treatment so the plan does not duplicate the expense or the funding.
+Sales are not all available for your household to spend. The business may need money for operating costs, taxes, or a loan payment. Look at what the income number actually includes so we don't leave out a cost or subtract something that's already been paid. Morgan's income in our example is after ordinary business operating costs, but the equipment-loan payment is still shown separately.
 
-Variable income deserves a slower look. One strong business month does not establish the amount you can commit every month. Use a supportable baseline and a separate rule for excess income when it arrives. Also account for the taxes and operating cash that have to stay with the business.
+Next, look at your spending. I would use your bank and card records rather than try to remember a normal month. We need the amount your life currently costs, before deciding what you might change.
 
-We'll follow the money from income to what remains, then check it against the account you pay bills from. If the plan shows a surplus but that balance keeps falling or the card balance keeps growing, stop and find the difference before setting up another contribution. An annual bill, a payroll deduction, or a payment counted twice can change the answer.
+Review more than one month. A full year can help you catch costs that are easy to forget, such as annual insurance, gifts, or expenses around the holidays. Those bills still need money even though they don't show up every time you open a statement.
 
-Keep the spending basis, the amount genuinely available, and any unresolved difference together. You should be able to explain what has already come out before you assign the remaining money. Next we'll look for changes you would actually be willing to make.
+Say your car insurance costs $1,200 a year and you pay it all at once. That uses the equivalent of $100 a month. You could leave it out of eleven months and then feel like the twelfth month ruined your savings plan. Or you could account for it throughout the year and have the money ready when it's due.
+
+An average also needs some judgment. If your spending recently changed in a way you expect to continue, the past year may no longer describe your life. Perhaps you moved or a recurring payment ended. Use the newer records to understand the change, but still check for annual bills that haven't come around yet.
+
+And don't remove an expense just because it was large. Ask whether it is likely to happen again. A one-time renovation is different from an annual premium. We will put major future purchases on the timeline later, so they stay in the plan without being treated as something you buy every month.
+
+As you review the records, watch how money moves between your accounts.
+
+Suppose you buy groceries with your credit card and then pay the card from checking. The groceries are spending. Paying the card settles that purchase; it isn't another grocery expense. If we add up both transactions as new spending, we've counted the same cost twice.
+
+An older card balance you're still paying off is different. That repayment needs room in your cash flow too. We'll keep it with the existing debts and their required payments rather than confuse it with this month's purchases.
+
+Transfers to savings or an investment account also use money from checking, but they aren't the same thing as spending it on your lifestyle. Keep track of those transfers separately. You may be saving more than you realized, and we need to know what has already been assigned before we decide what the remaining money can do.
+
+Let's bring this together with Alex and Morgan's starting numbers.
+
+They earn about $19,417 a month between the two of them. For this example, we're allowing $4,000 a month for taxes. That is an assumption we're using to explain the cash flow, not a tax bill we've calculated for them.
+
+Their normal living expenses are $10,800, and their required debt payments are about $3,342. After those amounts, they have $1,275 left before Alex's retirement contribution.
+
+Alex contributes $775 a month through work. Subtract that, and the amount left for their other priorities is $500.
+
+So they are already investing. The $500 is what's left after that contribution, not the total amount they are saving. His employer also adds money to the retirement account, but that doesn't give them more cash to pay bills or put into their reserve.
+
+For a household with their income and assets, $500 might be less than you expected. That's useful to see. It tells us how much room they actually have before we start talking about faster debt payments or new contributions. We haven't made the spending changes we'll compare in the next lesson yet.
+
+Now check whether this picture makes sense against the accounts they use.
+
+If you expect money to be left over each month, where does it go? It may accumulate in checking, move into savings, or go toward something you haven't included. Look across a few months and account for those movements. A balance taken just before a paycheck arrives can look very different from the balance just after it, even when the monthly totals are right.
+
+If checking keeps falling or an unpaid card balance keeps growing, I would find out why before adding another regular investment transfer. Go back to the income, deductions, spending, and existing transfers. For example, money you set aside for a future tax bill may still show up in savings, but it isn't available for another investment. Once you find the difference, correct the part of the plan it belongs to.
+
+The timing matters too. You may earn enough over the month but still be short when a bill is due.
+
+Before setting up a transfer, look at when your pay arrives and when the larger bills leave. You might need to keep more money in checking between paydays, move a transfer to later in the month, or ask whether a bill's due date can change. Money you need for the bills before the next paycheck isn't spare money just because it's sitting in the account today.
+
+Variable income adds another decision. How much could you keep setting aside during a quieter month, without having to pull it back?
+
+I wouldn't use your best business month to answer that. Look at the range of income you've actually had and what expenses continue through the slower periods. You could choose a regular amount that fits those periods, then decide what to do with extra income after it arrives and the associated costs and taxes are covered. That lets a good month help the plan without making every month depend on one.
+
+If you're retired, the review is still useful, but the question may be different. You're looking at how much of your spending is covered by income such as a pension or Social Security, and how much needs to come from investments. We'll work through those withdrawals in the retirement-income session. There doesn't have to be money left over from a paycheck for this exercise to matter.
+
+For now, get the current picture right. Know what's coming in, what has already come out, and how much remains for the next decision. If you find a shortfall, keep it visible. It gives us something specific to work on.
+
+You don't have to decide where every remaining dollar will go in this lesson. First we need an amount you can explain and a sense of whether it is reliable. Let's work through that with the records in front of us. Then we'll look at the spending changes you would actually be willing to make, before deciding how quickly to fund the reserve or pay extra on debt.
+
+### Visual notes — not spoken
+
+Use the existing Cash Flow + Reserve deck's income and usable-surplus sequence. Reveal the original Reed calculation one row at a time: $19,416.67 gross, $4,000 hypothetical tax provision, $10,800 living, $3,341.67 required debt service, $1,275 before Alex's contribution, $775 employee contribution, $500 remaining. Show $387.50 employer money separately. Round only for display. Do not show the reduced-spending example yet.
+
+Use a separate generic graphic for the $1,200 annual premium / 12 = $100 monthly allowance. It is new editorial arithmetic, not an added Reed bill. A pay-stub diagram, ordinary card purchase plus settlement, and bill/payday timeline should carry the visual explanation. No client records or invented Reed pay dates.
 
 ### Production notes
 
-Use DEMO-HOUSEHOLD cash-flow convention exactly. Tax provision is hypothetical, not model output. Business income in the fixture is after operating costs but before the equipment-loan debt service shown separately. Do not confuse household DTI gross income with cash available after taxes. W02 uses current Cash Flow owners and Verify Spending; no budgeting caricature or unnecessary category work.
+The full replacement previously supplied as Cash_Flow_2_1_Read_Aloud.md is integrated here, not treated as approved dictation. Keep the actual source figures and original-versus-reduced cash flow separate. W02 chapters 1–2 provide the corresponding narration; exact spending-source coverage, classifications and income/tax mapping await the approved build. The source's tax provision is not a computed liability. Do not force an app output to match this arithmetic with an unexplained override.
+
+Source context and current repair progress are in `HANDOFF.md` and `FINALIZATION-STATUS.md`. The rejected course-wide pass is not evidence of voice quality. These are source-based edits and clearly labeled illustrative reasoning, not a fresh independent financial or professional audit.
 
 ### Member checkpoint
 
-- Reconcile gross income, deductions, taxes, living costs, debt, and contributions.
-- Choose and explain the spending reference period.
-- Identify a sustainable available pool or an honest deficit.
-
-### Source-led visual and teaching notes — not spoken
-
-Reveal the original Reed cash-flow bridge one row at a time. Keep employee contributions inside household outflow and employer money outside spendable surplus. Put a simple bill/payday timeline beside the monthly average; do not invent a Reed pay schedule.
-
-Editorial reason: Connect monthly arithmetic to bank reconciliation and payment timing before new commitments.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+- Trace income through deductions, spending, required payments and existing contributions.
+- Explain the spending period, annual bills and the difference between a purchase and its settlement.
+- Identify a reliable available amount or a specific shortfall, and account for bill/payday timing before adding transfers.

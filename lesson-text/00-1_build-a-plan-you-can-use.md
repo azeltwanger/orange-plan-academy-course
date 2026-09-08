@@ -1,6 +1,6 @@
 # 0.1 — Build a plan you can use
 
-Status: SOURCE_LED_REVIEW — revised using the accepted Reserve reference; integrated wording awaits Austin's review.
+Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/sessions/00-start-here.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`, preserved orientation dictation, and the sources identified in `delivery/source-led-batch-01.md`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
