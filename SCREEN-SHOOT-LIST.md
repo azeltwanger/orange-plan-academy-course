@@ -14,7 +14,7 @@ Proceed to W02 to verify spending more fully and choose reserve funding. Keep th
 
 [Run sheet and cues](scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md)
 
-The spending basis and available pool are believable. The reserve has a target, eligible sources, gap, and proposed pace. The member can explain when access to cash matters more than faster extra-debt repayment and what would trigger reviewing the pace. The proposed reserve amount carries into Debt and Allocation without being spent twice. Expected events have timing and a funding explanation; possibilities remain separate. College is optional and does not own the required next-session handoff. No wallet recovery, financial transfer, capture, or outside action is certified by the run sheet.
+The member can follow current cash flow, explain the spending estimate and select a change they would make. The accepted Reserve decision stays connected to the same money used for debt and contributions. Expected events include their funding implications, not only their dates. Optional college compares the parent commitment with actual resources and the existing claims on cash flow. An open decision, uncertain result or outside action stays visible rather than being marked complete.
 
 ## W03 — Set debt jobs and test one financing decision
 

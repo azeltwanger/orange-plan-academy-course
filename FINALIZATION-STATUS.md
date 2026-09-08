@@ -1,29 +1,34 @@
-# Course status: written pass complete; recording evidence still open
+# Course status: individual teaching repair in progress
 
-## Written work completed
+## Why the course is not marked complete
 
-All 51 core explanations and 15 conditional Advanced explanations have received the source-led editorial pass. The ten working-session plans and separate device demonstration include the relevant example inputs, action/interpretation, reusable narration, build/procedure-specific inserts and member finish. Original dictation, the fictional source data, the accepted Reserve reference and the six member deliverables are preserved. Detailed changes are in delivery/source-led-completion.md.
+After reading the September 8 course-wide pass, Austin said the scripts were hard to follow, did not use his voice, had repetitive sentence rhythm, and were confusing rather than direct and educational. He supplied the Reserve lesson as the better reference and asked for the same level of care across the scripts and walkthroughs.
 
-This is completion of the **written editorial and recording-plan pass**, not blanket voice approval, filmed content or proven student outcomes. Useful existing passages were retained and specific teaching gaps were edited; not every sentence needed replacement.
+The prior structural checks passed, but that did not establish teaching quality. Earlier completion notices are superseded. Do not treat this as a light polish of already accepted narration.
 
-## Austin's review
+## Current repair progress
 
-Read chronologically from DICTATION-ORDER.md and the conditional Advanced order. Check whether the wording and judgment are yours and whether the learner can make the intended choice. The course structure and teaching approach are already accepted; no further architecture reset is needed. The Reserve pilot's reference approval does not automatically approve all later wording.
+| Components | Current state |
+|---|---|
+| 2.3 and the accepted Reserve sections of W02 | Reference preserved without changes. Acceptance of the reference is not recording approval. |
+| 2.1, 2.2, 2.4, 2.5 | Full spoken replacements written; integrated wording awaits Austin's voice/judgment review. |
+| W02 chapters 1–3 and 6–7 | Corresponding narration and demonstration plan rewritten; exact screens, inputs, outputs and save behavior await verification. |
+| All other Core and Advanced lessons, and W01/W03–W10/D07 | Individual teaching/voice repair still needed. Their substantive prose was not rewritten by this batch; only the misleading status header was corrected. |
 
-## App and device recordings
+The 51/15/11 inventory, course sequence, member documents and source household remain unchanged. A longer script, a passed check or a new status label does not establish that a learner can follow it.
 
-Record app screens only against the approved redesign. Complete the fictional capture inputs and use the actual saved plan, results and save/reload evidence. Exact navigation, source coverage, holdings/history reconciliation, tax and withdrawal outputs, annual guardrails, Ask, communication and exports remain capture-dependent. Missing promised behavior remains held and reported, not fabricated or silently excused.
+## Review and continuing work
 
-D07 and device-specific footage require the exact manufacturer/model, firmware, backup standard, current official procedure and safe small-value test. A practice-wallet recovery does not prove the backup for a different funded holding. Do not reset a funded primary wallet as a first test or show usable secrets.
+Read the clean spoken copies and the paired demonstration together. Check whether the explanation reflects Austin's judgment, explains the missing reasoning and leaves the member able to make the choice. Keep the next work in existing scripts rather than create another outline or workbook. Next is Debt; the opening sessions and all other unrepaired components also remain on the repair list.
 
-## Professional and member proof
+## App and device recording
 
-Targeted tax, account-access, healthcare, lending, legal/estate and insurance reviews remain necessary before publishing their execution-specific content. Primary references support mechanisms, not licensed sign-off. Real agreements, quotes, program eligibility and provider/device capabilities need verification at use.
+Use the approved redesign for exact navigation, source coverage, holdings/history handling, calculations, guardrails, Ask, exports and save/reload. Complete the fictional input gaps and record actual results. Missing promised behavior remains held and reported, not simulated. D07 requires the exact official device/setup procedure and safe recovery proof; a practice wallet does not prove another funded wallet's backup. No recording is approved by this batch.
 
-The family/listener rehearsal, member pilot and correction of observed difficulties remain open until performed. The prepared Plan Clinic/community/annual-refresh setup material does not establish an operating service. Pricing, access terms, support cadence and launch cutover are not approved by this edit.
+## Professional and member evidence
 
-## Repository cleanup
+Tax, account access, healthcare, lending, legal/estate and insurance execution still require their targeted reviews. Source-based editing here is not a new independent professional verification. Family/listener rehearsal, member pilot and actual support operations remain open until separately demonstrated. No pricing, terms, platform rollout or launch approval is implied.
 
-Obsolete working-tree versions and one-shot tools/workflows are retired. Original supplied dictation remains unchanged; historical dictation-containing scripts are copied byte-for-byte and the rest is recoverable from the pinned Git history. ARCHIVE-RECOVERY.md and production/repository-cleanup.json explain and verify the boundary.
+## Repository state
 
-All work remains on the draft course branch. No app repository, hosted record, financial transaction, provider connection, runtime setting, Production, course rollout or merge was changed.
+The preceding working draft was published to main through PR #16 for Austin to read. New replacements remain explicitly review drafts even when integrated for that same purpose. Live merge/check identities belong in the repair PR conversation. Cleanup and pinned historical recovery stay intact. No app-repository, hosted-data, provider, wallet, financial, runtime or Production work is part of this repair.

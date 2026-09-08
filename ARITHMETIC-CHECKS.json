@@ -240,6 +240,16 @@
       "check": "same sale gain illustration",
       "value": 4000.0,
       "status": "PASS"
+    },
+    {
+      "check": "generic annual premium monthly allowance",
+      "value": 100.0,
+      "status": "PASS"
+    },
+    {
+      "check": "generic recurring bill full-year saving",
+      "value": 480.0,
+      "status": "PASS"
     }
   ],
   "current_dta_percent": 22.269539078156313,

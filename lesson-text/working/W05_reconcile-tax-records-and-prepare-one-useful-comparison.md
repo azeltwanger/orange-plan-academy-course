@@ -1,6 +1,6 @@
 # W05 — Reconcile tax records and prepare one useful comparison
 
-Status: CAPTURE_HOLD — complete written recording plan prepared; exact build/procedure, actual results, tests and footage remain unverified.
+Status: WALKTHROUGH_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
 Adapted source: `course-v2/WALKTHROUGHS.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 

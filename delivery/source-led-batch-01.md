@@ -1,5 +1,7 @@
 # Source-led batch 01 — Start Here and First Working Plan
 
+> Superseded completion claim: Austin rejected the resulting course-wide prose for voice, natural delivery and instructional clarity. This file records earlier edits, not current teaching acceptance. See FINALIZATION-STATUS.md and HANDOFF.md for the individual repair work.
+
 ## Status and scope
 
 Seven canonical teaching scripts (0.1, 0.2, 1.1–1.5) and W01's ten existing chapters are revised against the accepted Reserve reference. This is an editorial teaching/recording-plan pass, not another outline or a filming verdict. Integrated new wording remains for Austin's voice and judgment review. Reference acceptance does not approve every new line automatically.
