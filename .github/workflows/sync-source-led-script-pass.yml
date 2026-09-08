@@ -1,4 +1,4 @@
-name: Synchronize source-led script pass
+name: Retire obsolete Academy files with verified Git recovery
 on:
   pull_request:
     types: [opened, synchronize, reopened]
@@ -9,7 +9,7 @@ concurrency:
   group: academy-source-led-script-pass
   cancel-in-progress: false
 jobs:
-  synchronize:
+  cleanup:
     if: github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.head.ref == 'course-source-led-script-pass-20260908'
     runs-on: ubuntu-latest
     timeout-minutes: 5
@@ -22,47 +22,34 @@ jobs:
           ref: ${{ github.event.pull_request.head.sha }}
           fetch-depth: 0
           persist-credentials: false
-      - name: Apply reviewed text and regenerate existing reading copies
+      - name: Clean obsolete files and verify preservation
         run: |
           set -euo pipefail
           test "$(git rev-parse HEAD)" = "$EXPECTED_HEAD"
-          if test -f tools/_completion_anchor_patch.py; then
-            python tools/_completion_anchor_patch.py
-          fi
-          if test -f tools/_complete_source_led.py; then
-            python tools/_complete_source_led.py
-          fi
+          python tools/_cleanup_course_repo.py
           python tools/guided_course.py build
           python tools/guided_course.py check
           python tools/guided_course.py test
           python -m unittest discover -s tests -p test_member_deliverables.py -v
+          python tools/guided_course.py history
           python - <<'PY'
-          import importlib.util, subprocess
+          import json, subprocess
           from pathlib import Path
-          root=Path.cwd()
-          spec=importlib.util.spec_from_file_location('guided_course',root/'tools/guided_course.py')
-          g=importlib.util.module_from_spec(spec);spec.loader.exec_module(g)
-          temporary={'tools/_complete_source_led.py','tools/_completion_edits_02_05.json','tools/_completion_edits_06_10.json','tools/_completion_edits_advanced.json','tools/_completion_working.json','tools/_completion_anchor_patch.py'}
-          changed=set(filter(None,subprocess.check_output(['git','diff','--name-only','HEAD'],text=True).splitlines()))
-          untracked=set(filter(None,subprocess.check_output(['git','ls-files','--others','--exclude-standard'],text=True).splitlines()))
-          allowed=set(g.outputs(root))|{'ARITHMETIC-CHECKS.json','PRIMARY-SOURCES.md','delivery/source-led-completion.md'}|{r['path'] for r in g.catalog(root)}|temporary
-          assert changed|untracked <= allowed,'Unexpected file change'
+          root=Path.cwd(); r=json.loads((root/'production/repository-cleanup.json').read_text())
           deleted=set(filter(None,subprocess.check_output(['git','diff','--name-only','--diff-filter=D','HEAD'],text=True).splitlines()))
-          assert deleted<=temporary,'Unexpected deletion'
-          print('Reviewed text/generated scope verified:',len(changed|untracked),'files')
+          assert deleted=={x['path'] for x in r['retired_files']}|{'tools/_cleanup_course_repo.py'},'Unexpected deletion scope'
+          assert not (root/'.github/workflows/sync-source-led-script-pass.yml').exists()
+          assert 'contents: read' in (root/'.github/workflows/verify-course.yml').read_text()
+          assert 'contents: write' not in (root/'.github/workflows/verify-course.yml').read_text()
+          print('Verified deletion scope:',len(deleted),'files; no retained writer workflow.')
           PY
-      - name: Commit verified course edits to dedicated branch only
+      - name: Commit verified cleanup to dedicated course branch only
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
-          if test -z "$(git status --porcelain)"; then
-            echo 'Course already synchronized.'
-            git rev-parse HEAD
-            exit 0
-          fi
           git add -A
-          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Complete remaining source-led teaching and recording plans'
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Remove obsolete course versions and retire one-shot workflows; retain verified source history'
           cat > "$RUNNER_TEMP/academy-askpass.sh" <<'SH'
           #!/bin/sh
           case "$1" in
@@ -78,7 +65,7 @@ jobs:
           test "$remote_head" = "$EXPECTED_HEAD"
           git push origin "HEAD:refs/heads/$TARGET_BRANCH"
           python tools/guided_course.py check
-          python -m unittest discover -s tests -p test_member_deliverables.py -v
+          python tools/guided_course.py history
           git diff --exit-code
           git rev-parse HEAD
           git rev-parse 'HEAD^{tree}'
