@@ -1,9 +1,3 @@
-# Orange Plan Academy V2
+# Guided draft workspace retired
 
-This directory contains the guided plan-building course drafted under `COURSE-ARCHITECTURE-V2.md`.
-
-These are pre-dictation filming drafts. Existing Austin dictation remains the voice authority. Exact app walkthrough routes and labels remain provisional until the owning redesign surface is stable.
-
-Every session ends with a decision, an Orange Plan implementation step, a read of what changed, an outside action list, and a factual completion checkpoint.
-
-The first script slices are Debt and leverage, Allocation and the next dollar, and the first working plan.
+The reviewed course is now canonical in `scripts/`. Begin with `../DICTATION-ORDER.md`. The exact former grouped source is preserved in `../archive/pre-guided-promotion/course-v2/`. Do not regenerate active scripts from this historical workspace.

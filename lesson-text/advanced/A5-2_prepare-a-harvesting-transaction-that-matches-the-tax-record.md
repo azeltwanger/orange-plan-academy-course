@@ -1,0 +1,40 @@
+# A5.2 — Prepare a harvesting transaction that matches the tax record
+
+Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Adapted source: `course-v2/advanced/01-modeling-financing-and-tax.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+App references: accepted redesign direction; final screen behavior requires capture evidence.
+
+Kind: advanced
+Gate: TAX_REVIEW
+Sources: TAX, PRIMARY, APP
+Use when: an actual taxable holding presents a gain- or loss-harvesting candidate.
+
+### Read aloud
+
+Begin with a specific holding and supported lots. A harvesting idea becomes actionable only when the units, tax treatment, and execution process can be documented.
+
+For a loss, compare current proceeds with adjusted basis and include transaction costs. Identify which existing gains or future tax items the loss may offset. The tax value depends on the actual return and carryforward situation, not simply the size of the loss shown on screen.
+
+For a gain, estimate the amount realized and the effect on the full year's taxable income. A favorable federal capital-gain rate can still come with state tax or other income-related costs. A conversion or unexpected business income can use the same planned tax room.
+
+Verify the identification rules that apply to the asset, account or wallet, custodian, and year. Broker-held digital assets can have different reporting and transitional provisions from assets in an unhosted wallet. Do not assume a software lot-selection preference alone satisfies the requirements.
+
+Replacement exposure needs a separate check. Securities are subject to wash-sale rules under their applicable conditions. Personally held Bitcoin should not be treated as though every stock rule applies identically, but neither should an older crypto-tax article be treated as permanent permission for a particular transaction. Obtain current tax review of the actual sale and any repurchase.
+
+Keep the order clear: model the opportunity, verify the proposed transaction, execute with the provider, then record what actually happened. The recorded proceeds, fees, quantity, identified units, and date should match the confirmation. Reconcile remaining lots and realized activity afterward.
+
+An outside transfer to prepare for a trade may also need to preserve history. Avoid importing the same purchase again at the destination. A network fee and an acquisition cost need their correct supported treatment rather than being hidden by changing quantity until totals match.
+
+For the Reed example, use the three-lot illustration to compare the gain produced by the same sale amount. Then stop before execution and build the evidence checklist. The lowest theoretical tax result is not useful if the records and custodian process do not support it.
+
+Save the transaction documentation with the tax file and reconcile it to the filed return. Carryforwards and basis adjustments need continuity into the next year. Return to the core tax plan with a completed record or a clearly pending action, not a proposed trade labeled as finished.
+
+### Production notes
+
+Verify current digital-asset identification relief, including IRS Notice2026-20 where applicable. No universal spot-BTC immediate-repurchase safe-harbor claim. FORM8949 data export is not the filed form. Return to 5.1–5.2 and 5.5.
+
+### Member checkpoint
+
+- Verify actual lots, identification, costs, and replacement exposure.
+- Separate model, execution, and record stages.
+- Reconcile the result with tax reporting and next-year continuity.

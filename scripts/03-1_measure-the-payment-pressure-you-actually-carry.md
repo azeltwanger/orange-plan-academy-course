@@ -1,0 +1,45 @@
+# 3.1 — Measure the payment pressure you actually carry
+
+Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Adapted source: `course-v2/sessions/03-debt-and-leverage.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+App references: accepted redesign direction; final screen behavior requires capture evidence.
+
+Kind: teach
+Gate: OWNER_REVIEW
+Sources: DEBT, BRAIN, CLIENT_THEMES, APP
+
+### Read aloud
+
+We are going to decide what each debt should do inside the plan. Start with how the payments affect the household before comparing an interest rate with an investment return.
+
+Your tolerance matters. Some people are comfortable carrying a fixed mortgage for decades. Others value the relief of having fewer obligations. That preference is part of the decision. It sits alongside the financial question: can the household keep making the payments during a bad year?
+
+List the current balance, required payment, rate, remaining term, and collateral for each debt. Identify variable rates, interest-only periods, balloons, and any personal guarantee. These details explain more than the balance alone.
+
+Debt-to-income compares required monthly debt payments with gross monthly income. In the Reed example, required payments are about three thousand three hundred forty-two dollars. Gross monthly income is about nineteen thousand four hundred seventeen. That gives a debt-to-income ratio of roughly seventeen percent.
+
+That ratio looks modest, but the household still has only five hundred dollars left after the original living costs, tax provision, and employee retirement contribution. Gross income has other claims against it. A borrowing ratio is one lens; the actual after-tax cash-flow budget tells you how much room the household has left.
+
+This is why I would read the ratio and the monthly surplus together. A lender's qualification standard serves the lender's process. Your planning standard also has to account for future saving, family needs, variable income, and how comfortable you are carrying the obligation.
+
+Now test income pressure. If Morgan's business income stops for a period, the required debts do not stop with it. Some living costs may be reduced, and the Reserve may bridge the interruption, but the size and duration of the shortfall need to be visible. A business owner should also consider working capital and the possibility that a personal guarantee connects a business problem to the household.
+
+Look at the debts individually. The high-rate card is a small part of the Reed balance sheet but a costly recurring obligation. The mortgage is much larger, yet its fixed rate and long payment schedule may make it less urgent. The HELOC has a relatively low interest-only payment today, but that payment does not substantially reduce principal and can change with the rate or repayment phase.
+
+A lower monthly payment can help, but check how it was achieved. Extending the term may lower the payment while increasing total interest. An interest-only period may postpone the larger obligation. Moving unsecured balances onto the home may reduce the rate while changing what is at risk.
+
+For every debt, ask what happens if the rate rises, income falls, or the asset you intended to sell is worth less than expected. These events can occur together. The aim is to see which obligation would force a decision first.
+
+Then separate the action from the feeling. You may choose to pay off a manageable loan because the relief is worth the lost liquidity. You may choose to keep a low-rate debt because accessible money has a more useful job. Both choices should be made with the effect on cash flow and the rest of the plan visible.
+
+In the first Debt chapter, we will check the existing terms and payments rather than creating the debts a second time. Finish with a current payment total, the debts most sensitive to change, and a clear view of what the household could carry after an income setback. That gives the next lesson a realistic foundation for measuring leverage.
+
+### Production notes
+
+Example DTI uses gross income and debt service only, not tax/living costs. Round 17.21% to 17%. Do not label illustrative ratios lender approvals or universal safe ranges. Household business income is defined before the equipment-loan service shown here to avoid counting it twice.
+
+### Member checkpoint
+
+- Verify required payments, variable terms, and guarantees.
+- Read DTI alongside after-tax cash flow.
+- Identify the obligation that becomes difficult first after an income interruption.

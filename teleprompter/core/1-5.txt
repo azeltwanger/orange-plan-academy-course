@@ -1,0 +1,25 @@
+The first result is useful when you understand what it is answering. We are going to read the retirement timing, the modeled chance of success when available, and the information still missing underneath them.
+
+Your planned retirement date is the date you selected. It describes what you currently intend. An earliest modeled retirement date is calculated from the active plan and its test standard. These can be different. Editing a spending amount should not quietly become a decision to retire at a different age.
+
+A starting estimate may use one deterministic projection. That means one set of assumptions is played forward. It can show the basic relationship among your assets, saving, spending, and timing before the fuller simulation result is available. It is useful direction from the inputs supplied so far.
+
+The full simulation asks a different question. Orange Plan runs the plan through a set of modeled market paths. The income, spending, debts, taxes, events, and strategy remain part of the plan while the market sequence varies. A result is available only after the required information and calculation support it.
+
+For illustration, suppose the screen shows a seventy-nine percent chance of success, with seven hundred ninety of one thousand simulations lasting through age ninety-five underneath. In seven hundred ninety modeled paths, the money lasted through that horizon under the rules tested. In the other paths, the plan as modeled did not fund the entire horizon. That is a meaningful warning to examine the plan, not a prediction of the exact outcome your family will experience.
+
+The percentage is the headline. The count and ending age explain it. Both depend on assumptions and on the simulation's design. Changing the growth model, spending, account access, or withdrawal rules can change what is being tested. The number is most useful when those inputs are understood.
+
+The normal Orange Plan standard for the earliest modeled date is eight hundred successful paths out of one thousand. A different standard belongs in the advanced settings. Raising or lowering the standard changes which date qualifies; it does not make an individual market path more favorable.
+
+Now read whether the result is current. An earlier result can remain visible while a newly saved change is being processed. Important missing details can also make a result preliminary. A fresh account balance and a fresh full Plan calculation are different things. The status and explanation should tell you which information the result actually uses.
+
+When a saved fact becomes more accurate, the result may get better or worse. Adding an omitted loan can move retirement later. Correcting overstated spending can move it earlier. Both changes improve the information. Accuracy is not measured by whether the percentage rises.
+
+Once the important facts are trustworthy, compare the decisions you control. Saving more, changing spending, choosing a later date, improving account access, or reviewing taxes may help. Each has a cost or trade-off. A larger loan might raise a modeled outcome while adding lender and liquidation risk the headline does not fully summarize. Read the whole comparison.
+
+A lower result also needs a practical next step. Start by checking the inputs that could explain it. Then test one realistic change. Avoid solving a shortfall simply by assuming Bitcoin grows faster. You want a household decision you would actually carry out.
+
+In the result chapter, we will point to the planned date, the calculated date, the percentage and its supporting count, the horizon, and the most important unfinished detail. We will not invent a success rate for the fictional household; we will use the result produced by the approved build when it is recorded.
+
+Foundation is finished when the first honest plan exists and you can explain what could still change it. You can now move into Cash Flow with a starting point to improve, rather than a number you have to defend at all costs.

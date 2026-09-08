@@ -1,434 +1,243 @@
-# Circle structure — paste-ready course build
+# Member playback structure
 
-> **GENERATED** by `tools/build-circle-structure.py`. Do not hand-edit:
-> edit the master, `MODULE-CHECKPOINTS.md`, or the advanced Gate line, then
-> regenerate. A hand-typed copy of any of this is what went stale in the
-> README, the shoot list, the dictation order and the film order.
+Concept clips may be recorded as talking head with graphics added in editing. App chapters are separate, replaceable recordings. The member watches the relevant explanation, completes its working chapter, and continues. No requirement to show the original slide deck live.
 
-Build the space group in this order. Each module below is one Circle
-section; each numbered row is one lesson inside it.
+## Session 0 — Start here
 
-**Four things every module page needs, in this order:** what you will build
-· the lessons · the checkpoint · the optional next levels. That order is the
-answer to the four stalls the client calls found — *does this apply to me*,
-*is this required*, *am I finished*, *what do I do next*.
+**0.1 — [Build a plan you can use](scripts/00-1_build-a-plan-you-can-use.md)**
 
----
+Orientation; no app entry required.
 
-## Module 0 — Start Here
+**0.2 — [Use Ask to understand your own numbers](scripts/00-2_use-ask-to-understand-your-own-numbers.md)**
 
-### 📦 What you will build
+The Ask demonstration follows the populated first plan in W01 chapter 10.
 
-**Know the course sequence, the US-versus-non-US boundary, the Ask tools, and the no-secrets rule.**
+## Session 1 — First working plan
 
-The module is complete when this exists. Not when the videos are
-watched — watching is not the deliverable, a plan is.
+**1.1 — [Decide what belongs in your saved plan](scripts/01-1_decide-what-belongs-in-your-saved-plan.md)**
 
-### Lessons
+Then W01 chapters 1.
 
-- **0.1 How to use this course** — 🎙 ~9 min
-- **0.2 How to use Orange Plan AI** — 🎙 ~4 min
+**1.2 — [Add accounts and show what each one owns](scripts/01-2_add-accounts-and-show-what-each-one-owns.md)**
 
-### ✅ Checkpoint — paste at the bottom of the module page
+Then W01 chapters 2–5.
 
-**You are done when:**
+**1.3 — [Enter income, spending, debts, and the retirement starting point](scripts/01-3_enter-income-spending-debts-and-the-retirement-starting-point.md)**
 
-- [ ] You know the course is taught in order and implemented through the owning Build & improve area.
-- [ ] You know teach lessons make decisions and walkthroughs perform the clicks.
-- [ ] You have used one helpful Ask prompt and know the Daily Bitcoin Market Report and AI export.
-- [ ] You can state what stays out of every AI tool.
+Then W01 chapters 6–7.
 
-> **"Not applicable" is a completed line, not a skipped one.** A
-> household the line was never about completes it by saying so.
+**1.4 — [Choose assumptions you can explain](scripts/01-4_choose-assumptions-you-can-explain.md)**
 
-### 🔓 Optional next levels
+Then W01 chapters 8.
 
-*None for this module. The core lessons are the whole of it.*
+**1.5 — [Read the first answer and choose the next improvement](scripts/01-5_read-the-first-answer-and-choose-the-next-improvement.md)**
 
----
+Then W01 chapters 9–10.
 
-## Module 1 — Foundation
+## Session 2 — Cash flow, reserve and life events
 
-### 📦 What you will build
+**2.1 — [Find the amount your plan actually has available](scripts/02-1_find-the-amount-your-plan-actually-has-available.md)**
 
-**An honest current position, reviewed assumptions, and a first preliminary Plan result.**
+Then W02 chapters 1–2.
 
-The module is complete when this exists. Not when the videos are
-watched — watching is not the deliverable, a plan is.
+**2.2 — [Free up money without cutting the life you value](scripts/02-2_free-up-money-without-cutting-the-life-you-value.md)**
 
-### Lessons
+Then W02 chapters 3.
 
-- **1.1 What to gather before you build the plan** — 🎙 ~7 min
-- **1.2 The three layers of a plan, and setting your assumptions** — 🎙 ~10 min
-- **1.3 What the onboarding retirement age actually means** — 🎙 ~4 min
-- **1.4 WALKTHROUGH — Replace the onboarding estimate with real Foundation data** — 🖥 walkthrough
+**2.3 — [Size the Reserve for the job it has to do](scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md)**
 
-### ✅ Checkpoint — paste at the bottom of the module page
+Then W02 chapters 4–5.
 
-**You are done when:**
+**2.4 — [Put future changes on the timeline](scripts/02-4_put-future-changes-on-the-timeline.md)**
 
-- [ ] Household details are accurate.
-- [ ] Every real account and custody location is listed.
-- [ ] Current holdings match the source statements.
-- [ ] Balance, activity, and tax-detail coverage are understood separately.
-- [ ] The growth and inflation assumptions were reviewed deliberately.
-- [ ] The simulation result is visible with a truthful freshness state.
-- [ ] Planned and earliest modeled retirement dates are understood separately.
-- [ ] Build & improve shows Foundation complete.
+Then W02 chapters 6.
 
-> **"Not applicable" is a completed line, not a skipped one.** A
-> household the line was never about completes it by saying so.
+**2.5 — [Decide how much college help you will provide](scripts/02-5_decide-how-much-college-help-you-will-provide.md)**
 
-### 🔓 Optional next levels
+Then W02 chapters 7 (optional).
 
-**Your core plan is complete without any of these.** Each one is worth
-watching only when its condition is true for you:
+## Session 3 — Debt and leverage
 
-- **A1.1 How Orange Plan models Bitcoin inside the simulation test**
-  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
+**3.1 — [Measure the payment pressure you actually carry](scripts/03-1_measure-the-payment-pressure-you-actually-carry.md)**
 
----
+Then W03 chapters 1.
 
-## Module 2 — Cash Flow + Reserve
+**3.2 — [Measure leverage before and after a drawdown](scripts/03-2_measure-leverage-before-and-after-a-drawdown.md)**
 
-### 📦 What you will build
+Then W03 chapters 2.
 
-**A believable monthly surplus, a funded-or-funding Reserve, and expected life events in the baseline.**
+**3.3 — [Give every existing debt a job](scripts/03-3_give-every-existing-debt-a-job.md)**
 
-The module is complete when this exists. Not when the videos are
-watched — watching is not the deliverable, a plan is.
+Then W03 chapters 3.
 
-### Lessons
+**3.4 — [Decide whether new financing improves the plan](scripts/03-4_decide-whether-new-financing-improves-the-plan.md)**
 
-- **2.1 Find the surplus your plan can actually use** — 🎙 ~7 min
-- **2.2 Size your cash reserve in months of spending** — 🎙 ~10 min
-- **2.3 Add the future changes your plan should expect** — 🎙 ~4 min
-- **2.4 Optional: decide how much college help you are actually funding** — 🎙 ~6 min · **OPTIONAL**
-- **2.5 WALKTHROUGH — Build cash flow, the Reserve, and expected life events** — 🖥 walkthrough
+Then prepare the financing comparison; continue through 3.5 before W03 chapter 4.
 
-> ### ⭕ Optional in this module: decide how much college help you are actually funding
->
-> **Complete 2.4 only if it applies to you.** If it does not, your
-> Module 2 plan is complete without it, and nothing later in the
-> course depends on it.
+**3.5 — [Compare financing on equal terms](scripts/03-5_compare-financing-on-equal-terms.md)**
 
-*Paste that callout directly above the lesson in Circle, so a student
-decides before watching rather than seven minutes in.*
+Then W03 chapters 4.
 
-### ✅ Checkpoint — paste at the bottom of the module page
+**3.6 — [Write the rules before using leverage](scripts/03-6_write-the-rules-before-using-leverage.md)**
 
-**You are done when:**
+Then W03 chapters 5–6.
 
-- [ ] Normal spending and bare-bones spending are separate.
-- [ ] The surplus is believable and sustainable.
-- [ ] Orange Plan calculated the Reserve target from the selected basis and months.
-- [ ] The monthly Reserve build amount is saved.
-- [ ] Expected life events are in the baseline and hypotheticals are in Plan → Scenarios.
-- [ ] College funding has a commitment and source plan when it applies.
+## Session 4 — Allocation and the next dollar
 
-> **"Not applicable" is a completed line, not a skipped one.** A
-> household the line was never about completes it by saying so.
+**4.1 — [Read the same portfolio in four useful ways](scripts/04-1_read-the-same-portfolio-in-four-useful-ways.md)**
 
-### 🔓 Optional next levels
+Then W04 chapters 1.
 
-*None for this module. The core lessons are the whole of it.*
+**4.2 — [Set a Bitcoin target the household can hold](scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md)**
 
----
+Then W04 chapters 2.
 
-## Module 3 — Allocation + Next-Dollar
+**4.3 — [Match the money to when you will use it](scripts/04-3_match-the-money-to-when-you-will-use-it.md)**
 
-### 📦 What you will build
+Then W04 chapters 3.
 
-**A target allocation, account timeframes, and a contribution plan for what changes now and after the Reserve is full.**
+**4.4 — [Build the contribution waterfall from one pool](scripts/04-4_build-the-contribution-waterfall-from-one-pool.md)**
 
-The module is complete when this exists. Not when the videos are
-watched — watching is not the deliverable, a plan is.
+Then W04 chapters 4.
 
-### Lessons
+**4.5 — [Choose the account that can do the job](scripts/04-5_choose-the-account-that-can-do-the-job.md)**
 
-- **3.1 Set the Bitcoin allocation you can actually hold** — 🎙 ~4 min
-- **3.2 Give each dollar a job before choosing the investment** — 🎙 ~5 min
-- **3.3 Build the contribution waterfall for every new dollar** — 🎙 ~6 min
-- **3.4 Put the right holdings inside the right accounts** — 🎙 ~4 min
-- **3.5 WALKTHROUGH — Route the investable surplus** — 🖥 walkthrough
+Then W04 chapters 5.
 
-### ✅ Checkpoint — paste at the bottom of the module page
+**4.6 — [Choose Traditional, Roth, or a deliberate mix](scripts/04-6_choose-traditional-roth-or-a-deliberate-mix.md)**
 
-**You are done when:**
+Then W04 chapters 6.
 
-- [ ] The Bitcoin target survives the dollar drawdown test.
-- [ ] Major accounts have Reserve, Bridge, or Legacy jobs.
-- [ ] The target mix and drift band are saved.
-- [ ] The employer match and contribution destinations are modeled correctly.
-- [ ] Each contribution row says what the money buys.
-- [ ] External payroll, transfer, and purchase changes are listed.
-- [ ] The extra-debt claim is clearly provisional until Module 4.
+**4.7 — [Tell each account what to buy and finish the outside actions](scripts/04-7_tell-each-account-what-to-buy-and-finish-the-outside-actions.md)**
 
-> **"Not applicable" is a completed line, not a skipped one.** A
-> household the line was never about completes it by saying so.
+Then W04 chapters 7–8.
 
-### 🔓 Optional next levels
+## Session 5 — Tax strategy
 
-**Your core plan is complete without any of these.** Each one is worth
-watching only when its condition is true for you:
+**5.1 — [Understand what a sale would realize](scripts/05-1_understand-what-a-sale-would-realize.md)**
 
-- **A3.1 Use price context to name the emotion before a large Bitcoin move**
-  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
+Then W05 chapters 1.
 
----
+**5.2 — [Repair purchase history without inventing it](scripts/05-2_repair-purchase-history-without-inventing-it.md)**
 
-## Module 4 — Debt Strategy
+Then W05 chapters 2.
 
-### 📦 What you will build
+**5.3 — [Find the years when your tax choices have the most room](scripts/05-3_find-the-years-when-your-tax-choices-have-the-most-room.md)**
 
-**Current debt terms, a job for every debt, and a final extra-payment amount reflected in Cash Flow Routing.**
+Then W05 chapters 3.
 
-The module is complete when this exists. Not when the videos are
-watched — watching is not the deliverable, a plan is.
+**5.4 — [Compare conversions with intentional withdrawals](scripts/05-4_compare-conversions-with-intentional-withdrawals.md)**
 
-### Lessons
+Then W05 chapters 4.
 
-- **4.1 Decide what every debt should do** — 🎙 ~6 min
-- **4.2 WALKTHROUGH — Give every debt a job and update the waterfall** — 🖥 walkthrough
+**5.5 — [Turn tax opportunities into an execution checklist](scripts/05-5_turn-tax-opportunities-into-an-execution-checklist.md)**
 
-### ✅ Checkpoint — paste at the bottom of the module page
+Then W05 chapters 5–6.
 
-**You are done when:**
+## Session 6 — Retirement paycheck
 
-- [ ] Every active debt has a current balance, rate, payment, and loan-specific terms.
-- [ ] You understand payment capacity and balance-sheet leverage as separate lenses.
-- [ ] Every debt has a job and a reason.
-- [ ] Any Bitcoin-backed loan has written operating triggers.
-- [ ] Extra debt is reflected in Cash Flow Routing.
-- [ ] The contribution plan was rechecked after the debt decision.
+**6.1 — [Define spending, reliable income, and the gap](scripts/06-1_define-spending-reliable-income-and-the-gap.md)**
 
-> **"Not applicable" is a completed line, not a skipped one.** A
-> household the line was never about completes it by saying so.
+Then W06 chapters 1.
 
-### 🔓 Optional next levels
+**6.2 — [Fund the years before accounts and benefits become available](scripts/06-2_fund-the-years-before-accounts-and-benefits-become-available.md)**
 
-**Your core plan is complete without any of these.** Each one is worth
-watching only when its condition is true for you:
+Then W06 chapters 2.
 
-- **A4.1 Borrow against Bitcoin without turning a drawdown into liquidation**
-  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
-- **A4.2 The four ways debt can strengthen a plan, and how each one fails**
-  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
+**6.3 — [Price healthcare before leaving employer coverage](scripts/06-3_price-healthcare-before-leaving-employer-coverage.md)**
 
----
+Then W06 chapters 3.
 
-## Module 5 — Tax Strategy
+**6.4 — [Choose account withdrawals and asset sales separately](scripts/06-4_choose-account-withdrawals-and-asset-sales-separately.md)**
 
-### 📦 What you will build
+Then W06 chapters 4.
 
-**Usable lot history, a tax-window roadmap, and a professional handoff packet.**
+**6.5 — [Use the Reserve through a difficult market](scripts/06-5_use-the-reserve-through-a-difficult-market.md)**
 
-The module is complete when this exists. Not when the videos are
-watched — watching is not the deliverable, a plan is.
+Then W06 chapters 5.
 
-### Lessons
+**6.6 — [Compare selling, borrowing, and using other resources](scripts/06-6_compare-selling-borrowing-and-using-other-resources.md)**
 
-- **5.1 Cost basis: know what you paid before you plan a sale** — 🎙 ~4 min
-- **5.2 Use the tax buckets and the low-income window on purpose** — 🎙 ~6 min
-- **5.3 WALKTHROUGH — Reconcile basis and model the tax window** — 🖥 walkthrough
+Then W06 chapters 6.
 
-### ✅ Checkpoint — paste at the bottom of the module page
+**6.7 — [Use simulations to compare the plan, not chase a score](scripts/06-7_use-simulations-to-compare-the-plan-not-chase-a-score.md)**
 
-**You are done when:**
+Then W06 chapters 7.
 
-- [ ] Missing basis is visible and never silently invented.
-- [ ] Transfers and duplicate imports are reconciled.
-- [ ] The taxable, tax-deferred, and Roth mix is understood.
-- [ ] A conversion or withdrawal range is modeled when relevant.
-- [ ] Harvesting candidates and the 8949 export are saved.
-- [ ] Current-year questions are ready before the calendar deadline.
+**6.8 — [Turn the retirement plan into an annual spending decision](scripts/06-8_turn-the-retirement-plan-into-an-annual-spending-decision.md)**
 
-> **"Not applicable" is a completed line, not a skipped one.** A
-> household the line was never about completes it by saying so.
+Then W06 chapters 8.
 
-### 🔓 Optional next levels
+## Session 7 — Custody
 
-**Your core plan is complete without any of these.** Each one is worth
-watching only when its condition is true for you:
+**7.1 — [Choose who controls each part of the Bitcoin](scripts/07-1_choose-who-controls-each-part-of-the-bitcoin.md)**
 
-- **A5.1 RMD pressure and Roth conversions across the low-income window**
-  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
-- **A5.2 Harvest Bitcoin losses and gains without losing the tax story**
-  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
-- **A5.3 State taxes and relocation: measure the lever before moving**
-  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
+Then W07 chapters 1.
 
----
+**7.2 — [Prove recovery before meaningful money depends on it](scripts/07-2_prove-recovery-before-meaningful-money-depends-on-it.md)**
 
-## Module 6 — Retirement Income
+Then D07 then W07 chapters 2.
 
-### 📦 What you will build
+**7.3 — [Harden accounts and remove the largest shared failure](scripts/07-3_harden-accounts-and-remove-the-largest-shared-failure.md)**
 
-**A retirement paycheck strategy with accessible Bridge funding, a saved withdrawal order, and understood spending guardrails.**
+Then W07 chapters 3.
 
-The module is complete when this exists. Not when the videos are
-watched — watching is not the deliverable, a plan is.
+**7.4 — [Record a usable custody plan without exposing secrets](scripts/07-4_record-a-usable-custody-plan-without-exposing-secrets.md)**
 
-### Lessons
+Then W07 chapters 4.
 
-- **6.1 Build the spending number, income floor, gap, and Bridge** — 🎙 ~4 min
-- **6.2 Choose the withdrawal order and the draw-and-refill rule** — 🎙 ~5 min
-- **6.3 Read the simulation result and use spending guardrails** — 🎙 ~5 min
-- **6.4 WALKTHROUGH — Build the retirement paycheck** — 🖥 walkthrough
+## Session 8 — Family handoff
 
-### ✅ Checkpoint — paste at the bottom of the module page
+**8.1 — [Choose the people and put the legal baseline in place](scripts/08-1_choose-the-people-and-put-the-legal-baseline-in-place.md)**
 
-**You are done when:**
+Then W08 chapters 1.
 
-- [ ] Retirement spending, healthcare, and irregular costs are honest.
-- [ ] The income floor and portfolio-funded gap can be stated from memory.
-- [ ] Bridge years and accessible funding are verified.
-- [ ] Social Security timing was compared when material.
-- [ ] A withdrawal strategy was previewed and intentionally saved.
-- [ ] Sell, borrow, or hold remains Preview until intentionally saved.
-- [ ] The simulation result is read as a count with a truthful freshness state.
-- [ ] Lower, current, and upper portfolio guardrails are understood.
+**8.2 — [Connect legal authority with the actual recovery process](scripts/08-2_connect-legal-authority-with-the-actual-recovery-process.md)**
 
-> **"Not applicable" is a completed line, not a skipped one.** A
-> household the line was never about completes it by saying so.
+Then W08 chapters 2.
 
-### 🔓 Optional next levels
+**8.3 — [Write and test the first instructions your family will receive](scripts/08-3_write-and-test-the-first-instructions-your-family-will-receive.md)**
 
-**Your core plan is complete without any of these.** Each one is worth
-watching only when its condition is true for you:
+Then W08 chapters 3–4.
 
-- **A6.1 Health coverage between retirement and Medicare**
-  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
-- **A6.2 Sell, borrow, or hold when the plan needs a year of spending**
-  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
+**8.4 — [Identify the risks you will transfer or carry](scripts/08-4_identify-the-risks-you-will-transfer-or-carry.md)**
 
----
+Then W08 chapters 5.
 
-## Module 7 — Custody
+## Session 9 — Maintenance
 
-### 📦 What you will build
+**9.1 — [Keep a quiet month simple](scripts/09-1_keep-a-quiet-month-simple.md)**
 
-**A custody direction, a no-secrets map of the meaningful Bitcoin pools, a proven recovery path, and one major failure point fixed.**
+Then W09 chapters 1–2.
 
-The module is complete when this exists. Not when the videos are
-watched — watching is not the deliverable, a plan is.
+**9.2 — [Review the whole plan once a year](scripts/09-2_review-the-whole-plan-once-a-year.md)**
 
-### Lessons
+Then W09 chapters 3.
 
-- **7.1 Self-custody, professional custody, and when a split makes sense** — 🎙 ~8 min
-- **7.2 Set up a hardware wallet and prove the recovery** — 🎙 ~4 min
-- **7.3 Fix the single points of failure and harden the accounts** — 🎙 ~6 min
-- **7.4 DEMO — Hardware-wallet recovery and exchange hardening** — 🎙 ~3 min
-- **7.5 WALKTHROUGH — Document the custody decision and current status without storing secrets** — 🖥 walkthrough
+**9.3 — [Handle a life change or a number that does not reconcile](scripts/09-3_handle-a-life-change-or-a-number-that-does-not-reconcile.md)**
 
-### ✅ Checkpoint — paste at the bottom of the module page
+Then W09 chapters 4–5.
 
-**You are done when:**
+## Session 10 — Read and share your plan
 
-- [ ] Custody direction is one method or an intentional split, chosen on purpose.
-- [ ] Direct-control preference and the risk being reduced are stated.
-- [ ] Every meaningful Bitcoin pool has a no-secrets job, scale, method, remaining failure, and family path.
-- [ ] Hardware recovery is proven or clearly outstanding.
-- [ ] The One-Failure Test identified the largest current weakness.
-- [ ] Important accounts and email are hardened.
-- [ ] No seed, key, passphrase, PIN, password, descriptor contents, or exact recovery location is stored in the app, map, or course notes.
-- [ ] An encrypted backup of the plan data exists.
+**10.1 — [Read the completed plan in a useful order](scripts/10-1_read-the-completed-plan-in-a-useful-order.md)**
 
-> **"Not applicable" is a completed line, not a skipped one.** A
-> household the line was never about completes it by saying so.
+Then W10 chapters 1–2.
 
-### 🔓 Optional next levels
+**10.2 — [Explain the plan and hand off the next decisions](scripts/10-2_explain-the-plan-and-hand-off-the-next-decisions.md)**
 
-**Your core plan is complete without any of these.** Each one is worth
-watching only when its condition is true for you:
+Then W10 chapters 3–5.
 
-- **A7.1 Compare passphrase, multisig, institutional custody, and an intentional split**
-  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
-- **A7.2 What self-custody actually asks of you**
-  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
-- **A7.3 Run the One-Failure Test across methods and providers**
-  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
-- **A7.4 UTXOs, dust, consolidation, and address use**
-  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
+## Working-session files
 
----
-
-## Module 8 — Estate + Inheritance
-
-### 📦 What you will build
-
-**An executor path, legal-document plan, no-secrets heir letter and packet, communication backstop, and insurance gap audit.**
-
-The module is complete when this exists. Not when the videos are
-watched — watching is not the deliverable, a plan is.
-
-### Lessons
-
-- **8.1 Choose who is in charge and put the legal baseline in place** — 🎙 ~5 min
-- **8.2 Align legal authority with the technical recovery path** — 🎙 ~4 min
-- **8.3 Write the heir letter and create the communication backstop** — 🎙 ~4 min
-- **8.4 Use insurance for the risks the current stack cannot carry** — 🎙 ~5 min
-- **8.5 WALKTHROUGH — Build the family handoff in Protect** — 🖥 walkthrough
-
-### ✅ Checkpoint — paste at the bottom of the module page
-
-**You are done when:**
-
-- [ ] Executor and backup are chosen and contacted.
-- [ ] Baseline legal documents and beneficiary forms have a clear status.
-- [ ] Legal authority and technical recovery are mapped together.
-- [ ] Heir letter and executor packet contain no secrets.
-- [ ] The communication backstop is armed and tested when applicable.
-- [ ] Insurance gaps are documented for licensed review.
-
-> **"Not applicable" is a completed line, not a skipped one.** A
-> household the line was never about completes it by saying so.
-
-### 🔓 Optional next levels
-
-**Your core plan is complete without any of these.** Each one is worth
-watching only when its condition is true for you:
-
-- **A8.1 Do you need a trust, and what job would it do?**
-  → *(no gate condition set — add one to MASTER-ADVANCED.md)*
-
----
-
-## Module 9 — Finish, Test + Maintain
-
-### 📦 What you will build
-
-**A completed current baseline, one tested scenario, yearly copy of Your Plan, encrypted backup, and review calendar.**
-
-The module is complete when this exists. Not when the videos are
-watched — watching is not the deliverable, a plan is.
-
-### Lessons
-
-- **9.1 Keep the plan current without rebuilding it every month** — 🎙 ~4 min
-- **9.2 Test decisions separately and read Your Plan like a planner** — 🎙 ~4 min
-- **9.3 WALKTHROUGH — Finish, test, review, and save the plan** — 🖥 walkthrough
-
-### ✅ Checkpoint — paste at the bottom of the module page
-
-**You are done when:**
-
-- [ ] Every Build & improve area is intentionally complete.
-- [ ] The completed 1,000-simulation result is Current.
-- [ ] The result states how many simulations worked and the through-age.
-- [ ] Planned and earliest modeled retirement dates are understood separately.
-- [ ] The Orange Plan standard of 800 of 1,000 is understood.
-- [ ] Portfolio guardrail status and the annual spending-review rule are understood.
-- [ ] One scenario was tested and any winning decision moved through Current versus Preview.
-- [ ] Monthly and annual review dates are on the calendar.
-- [ ] Your Plan PDF and encrypted backup are saved.
-- [ ] Only one to three next actions remain.
-
-> **"Not applicable" is a completed line, not a skipped one.** A
-> household the line was never about completes it by saying so.
-
-### 🔓 Optional next levels
-
-*None for this module. The core lessons are the whole of it.*
-
----
+- [W01 — Build the first working plan](scripts/working/W01_build-the-first-working-plan.md) — CAPTURE HOLD
+- [W02 — Verify cash flow, set the Reserve, and add expected events](scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md) — CAPTURE HOLD
+- [W03 — Set debt jobs and test one financing decision](scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md) — CAPTURE HOLD
+- [W04 — Route contributions into usable accounts and intended holdings](scripts/working/W04_route-contributions-into-usable-accounts-and-intended-holdings.md) — CAPTURE HOLD
+- [W05 — Reconcile tax records and prepare one useful comparison](scripts/working/W05_reconcile-tax-records-and-prepare-one-useful-comparison.md) — CAPTURE HOLD
+- [W06 — Build and test the retirement paycheck](scripts/working/W06_build-and-test-the-retirement-paycheck.md) — CAPTURE HOLD
+- [W07 — Document the custody choice and actual recovery status](scripts/working/W07_document-the-custody-choice-and-actual-recovery-status.md) — CAPTURE HOLD
+- [D07 — Prove a wallet backup with a safe test setup](scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md) — CAPTURE HOLD
+- [W08 — Build and rehearse the family handoff](scripts/working/W08_build-and-rehearse-the-family-handoff.md) — CAPTURE HOLD
+- [W09 — Complete a monthly review and an annual review](scripts/working/W09_complete-a-monthly-review-and-an-annual-review.md) — CAPTURE HOLD
+- [W10 — Read, explain, and save the finished plan](scripts/working/W10_read-explain-and-save-the-finished-plan.md) — CAPTURE HOLD

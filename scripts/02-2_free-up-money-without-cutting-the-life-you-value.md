@@ -1,0 +1,43 @@
+# 2.2 — Free up money without cutting the life you value
+
+Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Adapted source: `course-v2/sessions/02-cash-flow-reserve-and-life-events.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+App references: accepted redesign direction; final screen behavior requires capture evidence.
+
+Kind: teach
+Gate: OWNER_REVIEW
+Sources: CASHFLOW, MASTER, CLIENT_THEMES
+
+### Read aloud
+
+Once you know what a normal month costs, look for money that could do a more useful job. Some spending is essential. Some is worth every dollar to you. Some continues because you have not looked at it recently.
+
+Use three decisions: keep, cut, or reduce. Keep the expense when it supports the life you want or meets a real obligation. Cut it when it provides little value. Reduce it when you still want the service but could get the same result for less.
+
+Start with recurring decisions. An unused subscription, a phone plan, insurance you have not reviewed, bank fees, or interest on a carried card balance can repeat for years. A one-time phone call that reduces a bill by forty dollars a month creates four hundred eighty dollars a year of room. There is no investment assumption in that calculation.
+
+Then look at the large fixed costs. Housing, transport, location, and the way the household earns income can change the plan more than a long list of tiny purchases. These decisions take more thought because they affect the family. Compare them with the actual benefit, rather than assuming the cheapest version is automatically the best life.
+
+For the Reed example, we will test twelve hundred dollars a month of lower everyday spending. Some comes from recurring bills and some from a deliberate change in flexible spending. That raises the available pool before employee contributions from twelve hundred seventy-five to twenty-four hundred seventy-five dollars. After the existing seven hundred seventy-five employee contribution, seventeen hundred remains for the Reserve and extra debt.
+
+That change is a teaching scenario until the household actually chooses and implements it. A planned cancellation does not make a bill disappear today. Once the change is real, the current spending baseline can be updated. This distinction prevents the plan from depending on savings that never reach the bank.
+
+Income can be a larger lever than cutting. A raise, a different role, a better business margin, or additional work may create room. Include the costs of earning that money, the taxes, and the time it takes. A second income stream that consumes every evening has a different value from a recurring improvement in an existing business.
+
+Tax withholding can also explain a mismatch in cash flow. Withholding is money paid toward a tax bill. Changing it changes when the money leaves the paycheck, not the underlying tax liability. A large refund may indicate timing that could be reviewed. Reducing withholding without checking the expected liability can create an unfunded bill instead of genuine savings. Have the appropriate tax review before changing the election.
+
+The next step is deciding what receives the freed money. A useful change can disappear into new spending unless you assign it a destination. We will use the Reserve, debt strategy, and contribution plan to make that destination clear. When a debt is paid off or a reserve target is reached, the next destination should be revisited deliberately.
+
+For a Bitcoin household, recurring saving matters because it gives you a way to accumulate through ordinary market conditions without needing one perfect entry. The amount you can invest still depends on the household staying operational. Cash needs, interest costs, and future bills remain part of the plan.
+
+Choose one to three changes worth making. Write the expected monthly effect, when it starts, and what action makes it real. Then check the next statement. The useful result is money that actually becomes available and has a chosen job.
+
+### Production notes
+
+Use Keep/Cut/Reduce and the large-cost levers from the deck. The $1,200 reduction is an explicitly invented scenario, not a claim from a real client. Preserve the difference between a modeled saving and an actual canceled or reduced bill. Do not imply every household can easily cut this amount.
+
+### Member checkpoint
+
+- Choose one to three recurring changes with actual start dates.
+- Separate genuine savings from tax-payment timing.
+- Assign the freed money only after it becomes available.

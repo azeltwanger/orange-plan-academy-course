@@ -1,0 +1,25 @@
+An account tells us where something is held and the rules around it. A holding tells us what the money actually owns. We need both.
+
+A Roth IRA is an account. The Bitcoin fund, stock fund, or cash inside it is the holding. A hardware wallet describes a custody arrangement. The Bitcoin associated with that wallet is the asset. Once those two ideas are clear, entering the portfolio becomes much easier.
+
+Start with an account list. Include checking and savings, brokerage accounts, each person's retirement accounts, education and health accounts where applicable, direct Bitcoin, and any other meaningful assets. Keep ownership straight. Two spouses can have accounts at the same institution with different tax treatment and different access rules.
+
+Alex and Morgan have a checking account, a reserve account, a taxable brokerage account, retirement accounts, and direct Bitcoin held in two ways. We will introduce them in groups. The first goal is to get the current picture right, not to decide what every account should hold in the future.
+
+For each account, confirm the current total and the holdings that explain it. A linked account may provide both automatically, or it may only provide a total. Read what the connection actually supplied. A reported investment-account balance with no holdings does not mean the entire account is cash. It means the holdings still need to be identified.
+
+That distinction matters for a Bitcoin-heavy plan. A retirement account invested in a spot Bitcoin ETF and one invested in a stock index can have the same dollar value today but very different modeled behavior. Give the plan the actual investment, or retain an honest unknown until you can check.
+
+You can establish an existing holding from its current quantity or current value using the supported entry path. That is different from recording a purchase that happened today. We will not create a fake transaction just to make an account show a balance.
+
+Purchase details are another layer. The amount paid and acquisition date matter for taxable gains. They may come from an exchange export, brokerage history, or other reliable records. A missing date remains missing. A missing cost basis remains unknown. We will work on those records in Tax, and we will keep tax-sensitive results qualified until they are supported.
+
+For a retirement account, current investments still matter for allocation and projections. A complete history of every trade inside a Roth IRA is not a prerequisite to identifying what the account currently owns. The account's tax rules and any contribution or distribution records that matter are separate from pretending every internal trade has the same tax role as a taxable sale.
+
+Transfers deserve particular care. Suppose Bitcoin was bought at an exchange and later moved to self-custody. It is the same Bitcoin moving between locations. The purchase belongs where it happened; the transfer connects the original history to the destination. Entering a second purchase at the wallet would make the record tell the wrong story.
+
+The same issue appears when adding older activity to an already current linked balance. History helps explain the holdings. It must not increase the household's Bitcoin a second time. In the working session we will show the difference between establishing what exists and adding information about how it got there.
+
+Before leaving an account, compare the total against its statement. Check that the holdings add up, the owner and tax treatment are right, and the same assets are not listed twice. For direct Bitcoin, record the quantity and a non-secret account name. Recovery words, private keys, passphrases, and exact backup locations stay out of the app and the recording.
+
+The account chapters come next. We will use a manual example, a linked example, and an account whose reported total needs investment details. After those chapters, you should know what the household owns and which details remain to be checked. Allocation decisions come later, once this picture is reliable.

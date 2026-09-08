@@ -1,0 +1,43 @@
+# 9.3 — Handle a life change or a number that does not reconcile
+
+Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Adapted source: `course-v2/sessions/09-maintenance.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+App references: accepted redesign direction; final screen behavior requires capture evidence.
+
+Kind: teach
+Gate: APP_CAPTURE
+Sources: MAINTENANCE, FOUNDATION, CLIENT_THEMES, APP
+
+### Read aloud
+
+A material change deserves attention when it happens. Waiting for the annual review can leave the household using a plan that no longer represents its situation.
+
+An income loss, a new debt, a large medical cost, a move, a death, an inheritance, or a major purchase can change both the current position and future cash flow. Start with the facts that actually changed. Then separate the immediate cash decision from the longer-term strategy review.
+
+Suppose the Reed household's variable income falls. The first questions are whether the bills remain covered, how much reserve is available, and which discretionary claims can change. After the immediate position is clear, they can compare revised contributions, debt payments, spending, and the work-optional date.
+
+An unexpected windfall also needs a deliberate process. Confirm the amount, ownership, tax treatment, and timing before treating it as money available to invest. A future inheritance remains uncertain until the relevant facts support it. Adding a large optimistic event can otherwise make a weak plan appear funded.
+
+When a number looks wrong, trace it to its source. A total can differ because the account is stale, an investment is unpriced, history was imported twice, a transfer has not been matched, or the full Plan result uses an older input set. Each explanation has a different resolution.
+
+Avoid creating a purchase, sale, or cash balance simply to make the total look right. Preserve what is known and answer the specific unresolved question. If you do not know whether an exchange withdrawal was a transfer or a disposal, the record should remain uncertain until the evidence supports the treatment.
+
+Read the outcome of the correction. Did current quantity change? Did purchase details improve? Did ownership change? Did the plan need to update? A receipt should help you understand the effect rather than hide it behind a generic success message.
+
+Optional historical work can sometimes be deferred when it does not affect the current decision. A critical balance or ownership problem needs more care. Snoozing an issue is different from resolving it, and removing an account from the plan changes what the result includes.
+
+Once the facts are corrected, decide whether the strategy still fits. A lower balance alone does not necessarily justify changing the allocation. A lower balance combined with a new near-term cash need can create a real funding problem. The decision comes from the household's circumstances, not from the urge to restore a prior chart.
+
+Preserve a before-and-after explanation for consequential changes. Write the source fact, the decision made, and the outside action required. This helps you and your spouse understand the plan later and gives a professional reviewer the context behind the numbers.
+
+In the working session, we will show one income change and one account discrepancy. We will update the account or income record where it belongs, review the resulting plan, and keep a proposed strategy separate until saved. Finish when the plan tells the updated truth and the next action is clear.
+
+### Production notes
+
+D38 guided recovery: known facts → missing decision → relevant resolution → receipt. Do not teach raw reconciliation machinery or destructive balancing entries. No credentials or live client records. An inherited asset may require tax/legal verification before its use is modeled definitively.
+
+### Member checkpoint
+
+- Correct the factual change at its source.
+- Separate resolution from snoozing and actual facts from new strategy.
+- Record the consequence and one next action.

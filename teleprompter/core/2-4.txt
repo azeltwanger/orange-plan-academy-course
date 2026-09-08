@@ -1,0 +1,23 @@
+A normal month is only the starting point. Your plan also needs the changes you expect over the years: a vehicle, college support, a move, time away from work, a pension, or a change in retirement spending.
+
+For each event, answer four questions. What is happening? When? How much money changes hands? How will it be funded? Start there before getting into the finer details.
+
+A one-time expense and a recurring change behave differently. A thirty-thousand-dollar vehicle purchase happens once. A six-hundred-dollar monthly payment lasts for a defined period. A permanent reduction in school spending changes every later month. Give the model the right shape as well as the right amount.
+
+Use the same dollar convention as the input. If the event asks for today's cost and applies inflation, enter today's cost. If it asks for the expected amount at the future date, use that future amount. Check the label rather than applying inflation twice. Keep a note of the assumption behind a rough estimate.
+
+Alex and Morgan expect a vehicle replacement in three years. They are also considering a renovation in two years. The vehicle belongs in the baseline when it is part of the household's actual plan. The size of the renovation is still being weighed, so we can compare it in Scenarios. A larger project should not reduce their saved retirement outlook until they decide to adopt it.
+
+Funding matters. The money might come from future cash flow, a dedicated account, a taxable sale, or financing. A cash expense needs available money at that date. Financing reduces the immediate cash requirement but adds a debt, interest, and future payments. A taxable sale may require more gross proceeds than the spending amount once tax is included.
+
+A home purchase is a good example of why the pieces must stay separate. The house becomes an asset. The down payment and closing costs require cash. The mortgage becomes a liability and a payment. Insurance, maintenance, property taxes, and utilities affect recurring spending. Entering the full house price as a cash expense and also entering a mortgage-funded purchase can count the need twice.
+
+For a house sale, gross value is not the same as spendable proceeds. The mortgage, selling costs, taxes where applicable, and replacement housing all matter. Treat the equity as a possible funding source only when the sale or another supported access path is actually modeled.
+
+Now think about flexibility. A bill due next month has very little room for a market recovery. A family commitment five or more years away may allow Bitcoin to remain part of the funding plan when the timing, amount, and backup resources support it. The deadline alone does not decide the asset. The consequence of being short and the household's ability to respond matter too.
+
+As the event gets closer, revisit the committed amount. Protect the money that must be available while allowing flexible, longer-term money to keep its intended job. A future expense needs a review point, especially when its funding depends on a volatile asset.
+
+When an event happens, update the actual records and retire or revise the planned version. A purchase becomes an owned asset or actual spending. A loan becomes a real debt. An income change becomes the current income baseline. Keep a future event only for changes that remain ahead.
+
+The working session will build one expected expense, one income change, and one hypothetical purchase. We will read the affected year and the source of funding. Finish when each meaningful event has a date, an amount, a status, and a funding explanation you understand.

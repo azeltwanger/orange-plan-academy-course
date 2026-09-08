@@ -1,0 +1,1374 @@
+{
+  "source_commit": "2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b",
+  "app_contract_commit": "dccf0fedaeef6bd767c20fb9af0fe74f1cd4454f",
+  "inputs": {
+    "course-v2/DEMO-HOUSEHOLD.md": "b8b130ebf9d6e00b2ad7460e14e807be2b573f5268f06a7e24ea6c8f0a7ba5b4",
+    "course-v2/README.md": "dff865793b4b8f53126e2eef6c2ab9594c97b2c4fcbfbe2fb3f8117a974d95b3",
+    "course-v2/WALKTHROUGHS.md": "cd981a7f06d064cc96463f164db01b7b0bb68fae14c0c23fad011378dc3ad2e4",
+    "course-v2/advanced/01-modeling-financing-and-tax.md": "66516cc7cadf24b0dd23d274289de0ded445eeb081d581faf061b1da9fedfe00",
+    "course-v2/advanced/02-access-custody-and-estate.md": "75570b229d7ec0ffaf6fb3973f432482887b493484e8862557b11be352758b59",
+    "course-v2/demo-household.json": "a70d99fef1d68feb12ed9056575bd06d763437e4a7092d6a0e4647eedabbe10c",
+    "course-v2/sessions/00-start-here.md": "bd7dd5263f92aa2bf30db0d810ab3986fb516457641bed78d9039ae42daf4b4a",
+    "course-v2/sessions/01-first-working-plan.md": "faaad5956ea3979515f9a9c99543451ed24fd8e8b040696988af2606aca28d98",
+    "course-v2/sessions/02-cash-flow-reserve-and-life-events.md": "5a1b096974fc91e49eec84fe4b2e2c5bdc5d88b7f7c481a92fac4f1d61c3adce",
+    "course-v2/sessions/03-debt-and-leverage.md": "18e1cb191364bff423754b9967c002b54aabc906ad644bf12b6f88959923e229",
+    "course-v2/sessions/04-allocation-and-next-dollar.md": "4320784df50ae95f763249ea3c02bbcc8fd94a00caeb220d746c0429073067e0",
+    "course-v2/sessions/05-tax-strategy.md": "27648d6e457740e18893b4c09e05e5e8418762c88b0358e4cc74285f09743f40",
+    "course-v2/sessions/06-retirement-paycheck.md": "7b948145293bc0a7b93d4283002ff66197843b13988f50e9e6d45b7fe20b7808",
+    "course-v2/sessions/07-custody.md": "157dc7d0f1fbf370a85a7a0625c591e325308361265041c658f8edafb235c116",
+    "course-v2/sessions/08-family-handoff.md": "c801f0215e18ad4b0e5cdfbc8aff585bd781b516c662124eb1740533889b5032",
+    "course-v2/sessions/09-maintenance.md": "25440bd07a31796262aeb208bbe9ce48192970a8f018699b01715de2e3fd951b",
+    "course-v2/sessions/10-read-and-share-your-plan.md": "639663dcfe4efdbb9e49dd3865a5ea7f5641aa0098ae60ad7cbe4e28fa7df148"
+  },
+  "preserved": [
+    {
+      "old_path": "ADVANCED-DICTATION-AUDIT.md",
+      "archive_path": "archive/pre-guided-promotion/ADVANCED-DICTATION-AUDIT.md",
+      "sha256": "7486149aaeeac04453a80204f57758779dc104469656e4d2b5e19430722c9b5d"
+    },
+    {
+      "old_path": "V1-COURSE-ALIGNMENT.md",
+      "archive_path": "archive/pre-guided-promotion/V1-COURSE-ALIGNMENT.md",
+      "sha256": "4c38af696285b2dc248e41d34b3a0b93f9e047332e9324592529e89a6e1d96bc"
+    },
+    {
+      "old_path": "COURSE-LEGAL-COPY.md",
+      "archive_path": "archive/pre-guided-promotion/COURSE-LEGAL-COPY.md",
+      "sha256": "b63f1e2017d4381236a7ed24b77ca1e43a24d6f2f57aedff4b1618fb6559cd21"
+    },
+    {
+      "old_path": "TARGETED-PROFESSIONAL-SIGNOFF.md",
+      "archive_path": "archive/pre-guided-promotion/TARGETED-PROFESSIONAL-SIGNOFF.md",
+      "sha256": "76c0b0e4556eb0410a41a5c369a84784daa36510cb5fd29f785c4c94aa2efc0d"
+    },
+    {
+      "old_path": "FILM-ORDER.md",
+      "archive_path": "archive/pre-guided-promotion/FILM-ORDER.md",
+      "sha256": "37417b015efe1bc6661b521df7b6be877d042dc341032115b17af582aa05aeef"
+    },
+    {
+      "old_path": "DICTATION-SOURCE-MAP.md",
+      "archive_path": "archive/pre-guided-promotion/DICTATION-SOURCE-MAP.md",
+      "sha256": "463984650ddc548219d9da602e52a3377e8dd4f143cb1739b1dfedc8ddac91b7"
+    },
+    {
+      "old_path": "FINALIZATION-STATUS.md",
+      "archive_path": "archive/pre-guided-promotion/FINALIZATION-STATUS.md",
+      "sha256": "d88ae86b94476aee4175a933178186263eb5ff3525ba6ef0fabcccd584ec52b7"
+    },
+    {
+      "old_path": "CUSTODY-DECISION-MAP.md",
+      "archive_path": "archive/pre-guided-promotion/CUSTODY-DECISION-MAP.md",
+      "sha256": "eed8c872a7be5bc57e29514449561682acea5af25fdeef145e33d04e09d809b7"
+    },
+    {
+      "old_path": "DIRECT-VOICE-AUDIT.md",
+      "archive_path": "archive/pre-guided-promotion/DIRECT-VOICE-AUDIT.md",
+      "sha256": "9165427988976dde0d7508cf8e48ef4f419417a10af92a759fde740820a55553"
+    },
+    {
+      "old_path": "COURSE-LIFECYCLE-REVISION-REPORT.md",
+      "archive_path": "archive/pre-guided-promotion/COURSE-LIFECYCLE-REVISION-REPORT.md",
+      "sha256": "a7985cc7ad19dc66b8104da2f4b86d465ef4f4e081f7b36e20918fb75fd0c414"
+    },
+    {
+      "old_path": "CIRCLE-STRUCTURE.md",
+      "archive_path": "archive/pre-guided-promotion/CIRCLE-STRUCTURE.md",
+      "sha256": "45f3dd8a8c6fcf1cfd2376cfdaaad043e58e668379a099ff4e747f533712abce"
+    },
+    {
+      "old_path": "EVIDENCE-LOOP.md",
+      "archive_path": "archive/pre-guided-promotion/EVIDENCE-LOOP.md",
+      "sha256": "c0be457942efa66b0ba49455305456f88783b925899e23d0923a822594cc2464"
+    },
+    {
+      "old_path": "COURSE-IMPROVEMENT-ANALYSIS.md",
+      "archive_path": "archive/pre-guided-promotion/COURSE-IMPROVEMENT-ANALYSIS.md",
+      "sha256": "2d86ade6f3a82644a35246ad9b8de82fd89aa89680b6834b537fb140b70146e0"
+    },
+    {
+      "old_path": "COLLEGE-FUNDING-AUTHORITY.md",
+      "archive_path": "archive/pre-guided-promotion/COLLEGE-FUNDING-AUTHORITY.md",
+      "sha256": "023f1c9efafd4169b3173c521d6532b74778d8010bb805efa082af508f80c02a"
+    },
+    {
+      "old_path": "LEGAL-REVIEW-PACKET.md",
+      "archive_path": "archive/pre-guided-promotion/LEGAL-REVIEW-PACKET.md",
+      "sha256": "cf539357e9ac04c1cb2539055910e6001d48dff076ec66a1a866c01c4f9debe9"
+    },
+    {
+      "old_path": "MASTER-ADVANCED.md",
+      "archive_path": "archive/pre-guided-promotion/MASTER-ADVANCED.md",
+      "sha256": "db1ecc7ea6cce28b5855e8f3fb6b1124ceb8f9f52e2fe02ce92528d4347175fc"
+    },
+    {
+      "old_path": "ALIGNMENT-VERIFICATION.md",
+      "archive_path": "archive/pre-guided-promotion/ALIGNMENT-VERIFICATION.md",
+      "sha256": "93a3c70a71fccea9503fbb1dbc345b1d221c03416e8c2554de26c2cc23d29f84"
+    },
+    {
+      "old_path": "AI-FACTS.md",
+      "archive_path": "archive/pre-guided-promotion/AI-FACTS.md",
+      "sha256": "d242c21bc367c3b9e67fc1d99cfb9b1e45904c9d553c4535cb2e8946d4ae9c35"
+    },
+    {
+      "old_path": "AUTHORITY-FLAGS.md",
+      "archive_path": "archive/pre-guided-promotion/AUTHORITY-FLAGS.md",
+      "sha256": "3e156c29d8832b1507f448605648db6e2c3040b75c3ffacf5245f87f6df90c21"
+    },
+    {
+      "old_path": "DICTATION-ORDER.md",
+      "archive_path": "archive/pre-guided-promotion/DICTATION-ORDER.md",
+      "sha256": "a04e2dda140a9604dc732d55dff0e4115567b6d9d8f2a6d01bbaeb5609dc1f32"
+    },
+    {
+      "old_path": "MODULE-CHECKPOINTS.md",
+      "archive_path": "archive/pre-guided-promotion/MODULE-CHECKPOINTS.md",
+      "sha256": "2ba455279e1b518b2378cf923e48f30c5db9a063de9260ac2d76cb93bde692ae"
+    },
+    {
+      "old_path": "USABILITY-TEST-M1-M3.md",
+      "archive_path": "archive/pre-guided-promotion/USABILITY-TEST-M1-M3.md",
+      "sha256": "d93a2517e69fe04ccbd7ef130ec6dfde41ea331db9c7221b245f885e41d7c541"
+    },
+    {
+      "old_path": "AUSTIN-AUTHORITY.md",
+      "archive_path": "archive/pre-guided-promotion/AUSTIN-AUTHORITY.md",
+      "sha256": "b5ad5a13b155c36242eb1889f71d76b1338df20c60932718279afaf4b26d58fa"
+    },
+    {
+      "old_path": "COURSE-REBUILD-REPORT.md",
+      "archive_path": "archive/pre-guided-promotion/COURSE-REBUILD-REPORT.md",
+      "sha256": "741a440ba15509202a2d318a65082624abcb9a448d415305a70bfd00fac8a9a2"
+    },
+    {
+      "old_path": "PROFESSIONAL-RESEARCH-AUDIT.md",
+      "archive_path": "archive/pre-guided-promotion/PROFESSIONAL-RESEARCH-AUDIT.md",
+      "sha256": "08f2ebe01565844d87a16934046b22f264f2a84b7ae24c7677fa5211e6f9e9c4"
+    },
+    {
+      "old_path": "FAQ-AND-AI-BACKLOG.md",
+      "archive_path": "archive/pre-guided-promotion/FAQ-AND-AI-BACKLOG.md",
+      "sha256": "a70caeb201f981998f70dbcbbe459e5babfb35d137ee4e17b53522a0af87ee44"
+    },
+    {
+      "old_path": "PRE-DICTATION-RESET-STATUS.md",
+      "archive_path": "archive/pre-guided-promotion/PRE-DICTATION-RESET-STATUS.md",
+      "sha256": "f1422a91389a983a5cb530933f1f8b463739888e7294e37a36e5fff6317dc0d0"
+    },
+    {
+      "old_path": "ADVANCED-GATE-APPROVAL.md",
+      "archive_path": "archive/pre-guided-promotion/ADVANCED-GATE-APPROVAL.md",
+      "sha256": "be80fd6eb8ccacddb705d25e01e27241ea01abbd70ad3544b6ac13678d927416"
+    },
+    {
+      "old_path": "FILMING-CHECKLIST.md",
+      "archive_path": "archive/pre-guided-promotion/FILMING-CHECKLIST.md",
+      "sha256": "9ed27c30fde9381f94df5f8863ff6251120aa1efe57b696936a6b1f9d7fdf383"
+    },
+    {
+      "old_path": "PRODUCTION-CHECKLIST.md",
+      "archive_path": "archive/pre-guided-promotion/PRODUCTION-CHECKLIST.md",
+      "sha256": "4d82cd6debba53a168e7e5ba7bce7d022c33baab4533e36b3d60861c009ad634"
+    },
+    {
+      "old_path": "README.md",
+      "archive_path": "archive/pre-guided-promotion/README.md",
+      "sha256": "bc371a190189db9a951db252d1dd37debcb2f40b1156a1d7a4f232573b1d6ee8"
+    },
+    {
+      "old_path": "ALL-SCRIPTS.md",
+      "archive_path": "archive/pre-guided-promotion/ALL-SCRIPTS.md",
+      "sha256": "100ea1f33e16181878be0eb8e88da809a66c8f72f0b4e22e5a62b41b70776548"
+    },
+    {
+      "old_path": "DICTATION-PICKUPS.md",
+      "archive_path": "archive/pre-guided-promotion/DICTATION-PICKUPS.md",
+      "sha256": "cef0fa86e6239fdc5afa35867312c9d40f4fb4cdce1867aafc59f4be5e41ad96"
+    },
+    {
+      "old_path": "HANDOFF.md",
+      "archive_path": "archive/pre-guided-promotion/HANDOFF.md",
+      "sha256": "3743edb5ece190f7b5f0a3ecbc86ca3d75f74879dfd5a8c9277b523ec1ce8a28"
+    },
+    {
+      "old_path": "SLIDE-DECK-AUTHORITY.md",
+      "archive_path": "archive/pre-guided-promotion/SLIDE-DECK-AUTHORITY.md",
+      "sha256": "c35fd801fe80e4c70dbdefc56bdb86656c4a45908d884a2b58451447aee4cd95"
+    },
+    {
+      "old_path": "PROFESSIONAL-RESEARCH-VERIFICATION.md",
+      "archive_path": "archive/pre-guided-promotion/PROFESSIONAL-RESEARCH-VERIFICATION.md",
+      "sha256": "ace2f4cdfdbb5cae92eb4891d0788136722d0d3868748dbaf62cf76e94ce9068"
+    },
+    {
+      "old_path": "AUSTIN-VOICE-PASS-REPORT.md",
+      "archive_path": "archive/pre-guided-promotion/AUSTIN-VOICE-PASS-REPORT.md",
+      "sha256": "111c5ae69c769b52b79c225582622b40d21cde6999b88b836ec7c3661050e76a"
+    },
+    {
+      "old_path": "MASTER-COURSE.md",
+      "archive_path": "archive/pre-guided-promotion/MASTER-COURSE.md",
+      "sha256": "92373972928b248a7f774e25c71a45dec0950bc6c061ff2dd4df7e6620dc262f"
+    },
+    {
+      "old_path": "COURSE-ARCHITECTURE-V2.md",
+      "archive_path": "archive/pre-guided-promotion/COURSE-ARCHITECTURE-V2.md",
+      "sha256": "43a977c3bcd9fe05bd0d9a18de9f649e351ae056947da9a4d4da708ed9ae70aa"
+    },
+    {
+      "old_path": "CLAIM-REGISTRY.md",
+      "archive_path": "archive/pre-guided-promotion/CLAIM-REGISTRY.md",
+      "sha256": "c629c074c8a0f80ac31f34c3a86f567fd27d13084a554d7a004db89af7801b4c"
+    },
+    {
+      "old_path": "SCREEN-SHOOT-LIST.md",
+      "archive_path": "archive/pre-guided-promotion/SCREEN-SHOOT-LIST.md",
+      "sha256": "c0880cb81c3d6ccf2df426308d461bde91c5772e028aa4a628e3ffc397574121"
+    },
+    {
+      "old_path": "SOURCE-MATERIAL-POLICY.md",
+      "archive_path": "archive/pre-guided-promotion/SOURCE-MATERIAL-POLICY.md",
+      "sha256": "5c80131a2bce276b2711922e17622b294a72cad618f6fb5345434e7cfa20ab1d"
+    },
+    {
+      "old_path": "ADVANCED-DICTATION-ORDER.md",
+      "archive_path": "archive/pre-guided-promotion/ADVANCED-DICTATION-ORDER.md",
+      "sha256": "9b2b3f0ae7222292b7563de9748b6dec8eaf99419850cae06175249b51a6b541"
+    },
+    {
+      "old_path": "scripts/00-2_how-to-use-orange-plan-ai.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/00-2_how-to-use-orange-plan-ai.md",
+      "sha256": "124df36b7199f50ddb51690286c7033ef9759f64b44e1c2d3e6f834e8bf43080"
+    },
+    {
+      "old_path": "scripts/07-3_fix-single-points-of-failure-and-harden-accounts.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/07-3_fix-single-points-of-failure-and-harden-accounts.md",
+      "sha256": "7752e3d88e0eb751a5f02eeaa3e10554592c176e5e7ed5f72432afb01a401980"
+    },
+    {
+      "old_path": "scripts/07-2_set-up-a-hardware-wallet-and-prove-recovery.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/07-2_set-up-a-hardware-wallet-and-prove-recovery.md",
+      "sha256": "4f124299803fad31075113df8c3f50dc45ffd0a6c5ee5514a8b6fc48af8a8344"
+    },
+    {
+      "old_path": "scripts/08-4_use-insurance-for-risks-the-stack-cannot-carry.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/08-4_use-insurance-for-risks-the-stack-cannot-carry.md",
+      "sha256": "2cf946bd3ff77fd45b6b8161c89b5355515aa7ffe302600f9a4bc11a17c5bd66"
+    },
+    {
+      "old_path": "scripts/VOICE-GUIDE.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/VOICE-GUIDE.md",
+      "sha256": "b7e055c125e08312575cdf89b03d46670c06f06f5f563f2506d1b25a2aa3f3ec"
+    },
+    {
+      "old_path": "scripts/01-1_what-to-gather-before-you-build-the-plan.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/01-1_what-to-gather-before-you-build-the-plan.md",
+      "sha256": "56fd13f1c97ab64a2e27ff345bb9f5d81fdd67899a0133885db2cd6d6cb1c8b4"
+    },
+    {
+      "old_path": "scripts/03-4_put-the-right-holdings-inside-the-right-accounts.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/03-4_put-the-right-holdings-inside-the-right-accounts.md",
+      "sha256": "4a9ba69f946d4a72246658000e3316c487cbe2ac115cf981d98e8e4e03c61640"
+    },
+    {
+      "old_path": "scripts/05-1_cost-basis-know-what-you-paid-before-you-plan-a-sale.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/05-1_cost-basis-know-what-you-paid-before-you-plan-a-sale.md",
+      "sha256": "b1bb137a74d6c7edb2157f57c6107dc5f5229980191585ba9778336829471cda"
+    },
+    {
+      "old_path": "scripts/01-3_what-the-onboarding-retirement-age-actually-means.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/01-3_what-the-onboarding-retirement-age-actually-means.md",
+      "sha256": "f2276ee8058a72c510fd7776cbeb4a8009ca0e505883b43f64906bfbb0c165e4"
+    },
+    {
+      "old_path": "scripts/03-2_give-each-dollar-a-job-before-choosing-the-investment.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/03-2_give-each-dollar-a-job-before-choosing-the-investment.md",
+      "sha256": "7101303d1dd67c4af4e7d040bc8ec453abf2eadd7cf34cbcd9f0d7bb11ea5da3"
+    },
+    {
+      "old_path": "scripts/08-1_choose-who-is-in-charge-and-put-the-legal-baseline-in-place.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/08-1_choose-who-is-in-charge-and-put-the-legal-baseline-in-place.md",
+      "sha256": "4c42263859eeb6b982d0db87426c8a5b42ee98ab4fd95ee570d96fe9f39f6e43"
+    },
+    {
+      "old_path": "scripts/06-3_use-plan-confidence-and-guardrails-to-adjust-spending.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/06-3_use-plan-confidence-and-guardrails-to-adjust-spending.md",
+      "sha256": "add2423dd2a603c86dbb08a2592fc6364765b1683e4a6822933ea51eec4deff3"
+    },
+    {
+      "old_path": "scripts/03-5_WALKTHROUGH_route-the-investable-surplus.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/03-5_WALKTHROUGH_route-the-investable-surplus.md",
+      "sha256": "48ebdf0694ee0ba77e9874c338f95fa03ca3a529a3adb50f9c08cdf0ea099740"
+    },
+    {
+      "old_path": "scripts/06-4_WALKTHROUGH_retirement-paycheck.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/06-4_WALKTHROUGH_retirement-paycheck.md",
+      "sha256": "0fe53bdc0a2c72d8ddcd93e5c33b7a10f18467774339ea39e33c07b39af61869"
+    },
+    {
+      "old_path": "scripts/07-4_DEMO_hardware-wallet-and-exchange-hardening.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/07-4_DEMO_hardware-wallet-and-exchange-hardening.md",
+      "sha256": "71bca9a2e587d1581da33af294cbab9fa860b6aaf26cf1256c7fceaa3adbfa84"
+    },
+    {
+      "old_path": "scripts/04-1_decide-what-every-debt-should-do.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/04-1_decide-what-every-debt-should-do.md",
+      "sha256": "9decd9d3b94df4fcae7f1ca64738e39f3447ff653de0fd931ba0a322cdb0bdf9"
+    },
+    {
+      "old_path": "scripts/02-5_WALKTHROUGH_cash-flow-reserve-life-events.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/02-5_WALKTHROUGH_cash-flow-reserve-life-events.md",
+      "sha256": "476f753644841fa1680466e4ccfba7f6dbed42477da9e822ca9183a5590cc0ae"
+    },
+    {
+      "old_path": "scripts/01-2_the-three-layers-of-a-plan-and-setting-your-assumptions.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/01-2_the-three-layers-of-a-plan-and-setting-your-assumptions.md",
+      "sha256": "e614a9427e29399d83becbe0381f470b7892193cb71750896e286123ca3ce0f7"
+    },
+    {
+      "old_path": "scripts/08-5_WALKTHROUGH_family-handoff.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/08-5_WALKTHROUGH_family-handoff.md",
+      "sha256": "78b3784e92cb5008b1c6b9a2a2b7ed027547a96e1529df4812a2234acdeee763"
+    },
+    {
+      "old_path": "scripts/09-2_test-decisions-and-read-the-finished-plan.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/09-2_test-decisions-and-read-the-finished-plan.md",
+      "sha256": "ae2b4ed3e132e384dedf2c6303714fa7966161b230d93e5e702663241497ce4e"
+    },
+    {
+      "old_path": "scripts/07-1_self-custody-professional-custody-and-when-a-split-makes-sense.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/07-1_self-custody-professional-custody-and-when-a-split-makes-sense.md",
+      "sha256": "450bc0847fe7e024a375b56c003420f822c23f0fa5968f8456cf36aa27b4a9ed"
+    },
+    {
+      "old_path": "scripts/06-2_choose-withdrawal-order-and-refill-rule.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/06-2_choose-withdrawal-order-and-refill-rule.md",
+      "sha256": "8c205befb6e0f620ca461154e1d42ebce74a5b7301ee78c0caa73c685871e5b0"
+    },
+    {
+      "old_path": "scripts/02-1_find-the-surplus-your-plan-can-actually-use.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/02-1_find-the-surplus-your-plan-can-actually-use.md",
+      "sha256": "99a1b1181a1219770568c467c25236e31b483a52d02d307ffa49a37ddd0aa23b"
+    },
+    {
+      "old_path": "scripts/01-4_WALKTHROUGH_foundation.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/01-4_WALKTHROUGH_foundation.md",
+      "sha256": "a1e46076362c643b50016592414db0a8154dc1fb14c62589e9810e79e965e7d5"
+    },
+    {
+      "old_path": "scripts/07-5_WALKTHROUGH_document-the-custody-decision-and-status.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/07-5_WALKTHROUGH_document-the-custody-decision-and-status.md",
+      "sha256": "243609ae28ece2172c7e903ba48822fd5b00a84bcc5eb9c2528bc22aee817e77"
+    },
+    {
+      "old_path": "scripts/02-2_size-your-cash-reserve-in-months-of-spending.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/02-2_size-your-cash-reserve-in-months-of-spending.md",
+      "sha256": "116731b938165ded719d2b506a988a43475c6f2ffef54e3372ff8862dc177391"
+    },
+    {
+      "old_path": "scripts/README.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/README.md",
+      "sha256": "a1335b7795ade47fa9ade78df10df115cd3dca95257457f8a65c442472480108"
+    },
+    {
+      "old_path": "scripts/08-3_write-the-heir-letter-and-create-the-backstop.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/08-3_write-the-heir-letter-and-create-the-backstop.md",
+      "sha256": "bc7c185d81755b931cbce0fcd6126077f37612a28750c5457f8409d09f407172"
+    },
+    {
+      "old_path": "scripts/09-3_WALKTHROUGH_finish-test-review-and-save.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/09-3_WALKTHROUGH_finish-test-review-and-save.md",
+      "sha256": "2887fc0d986d852c0096fde955ea1a7738204b62ccf77fab9af63ce218190b56"
+    },
+    {
+      "old_path": "scripts/02-4_optional-decide-how-much-college-help-you-are-funding.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/02-4_optional-decide-how-much-college-help-you-are-funding.md",
+      "sha256": "2d9ee9f9a349a3ae1c747c57c4da89e714496473dcaca0a1a89f8816ce745bca"
+    },
+    {
+      "old_path": "scripts/00-1_how-to-use-this-course.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/00-1_how-to-use-this-course.md",
+      "sha256": "8d7395b9b60c96e033d9809457c7a55db9b7f6ccb47d1d5ae66563db24228c86"
+    },
+    {
+      "old_path": "scripts/09-1_keep-the-plan-current-without-rebuilding-it.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/09-1_keep-the-plan-current-without-rebuilding-it.md",
+      "sha256": "f868480081aeac80443f8b769b7b9f8cc3bf7ac73acb0694b3ec86f06661c4c2"
+    },
+    {
+      "old_path": "scripts/03-3_build-the-contribution-waterfall-for-every-new-dollar.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/03-3_build-the-contribution-waterfall-for-every-new-dollar.md",
+      "sha256": "0639d85cfcbfad539fada052e12ba9aecca9eaf55004c6caac4785b6bbb3ed3b"
+    },
+    {
+      "old_path": "scripts/05-3_WALKTHROUGH_tax.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/05-3_WALKTHROUGH_tax.md",
+      "sha256": "4c86815d720b85f5815a9e8d3a7ef7c90f5bb209f86c1de65dcc352fb969754e"
+    },
+    {
+      "old_path": "scripts/03-1_set-the-bitcoin-allocation-you-can-actually-hold.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/03-1_set-the-bitcoin-allocation-you-can-actually-hold.md",
+      "sha256": "84eb88e1efd3c93a039e19f814a650f302e0f471dfd7cf5d201242ce81a9b60a"
+    },
+    {
+      "old_path": "scripts/02-3_add-the-future-changes-your-plan-should-expect.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/02-3_add-the-future-changes-your-plan-should-expect.md",
+      "sha256": "bf73a44c2e4517835ca18a8682006d82c802186910d810564dd951e44e1bbef4"
+    },
+    {
+      "old_path": "scripts/04-2_WALKTHROUGH_debt-strategy.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/04-2_WALKTHROUGH_debt-strategy.md",
+      "sha256": "38e0d979a08551aa92205d4fb175e5aa1ede9dcb1a9973f815a26e59e358ada3"
+    },
+    {
+      "old_path": "scripts/06-1_build-spending-income-floor-gap-and-bridge.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/06-1_build-spending-income-floor-gap-and-bridge.md",
+      "sha256": "43f5131d6e0c9c2bef7ae24f02e901559cf21b701c92c4f48c3c190bcb0efb8a"
+    },
+    {
+      "old_path": "scripts/08-2_align-legal-authority-with-technical-recovery.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/08-2_align-legal-authority-with-technical-recovery.md",
+      "sha256": "a42fe04b003253957caf76c0e4e508be27231462d4a6238c59217b62c510b900"
+    },
+    {
+      "old_path": "scripts/05-2_use-the-tax-buckets-and-low-income-window-on-purpose.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/05-2_use-the-tax-buckets-and-low-income-window-on-purpose.md",
+      "sha256": "783255d021580176edd41338e1064b30334de8abdba91f82f76d07abd9e6f97f"
+    },
+    {
+      "old_path": "scripts/advanced/A4-1_borrow-against-bitcoin-without-liquidation.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/advanced/A4-1_borrow-against-bitcoin-without-liquidation.md",
+      "sha256": "9d5fa7ac567b57e96eb23147689f5ac19971cc0cfe9a05cfa7c2662cfc0132da"
+    },
+    {
+      "old_path": "scripts/advanced/A7-1_compare-passphrase-multisig-institutional-custody-and-an-intentional-split.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/advanced/A7-1_compare-passphrase-multisig-institutional-custody-and-an-intentional-split.md",
+      "sha256": "a06c324f0604cedf6bc43ddc0d5817357f70fd787ae166ce8c366c2eddaf8437"
+    },
+    {
+      "old_path": "scripts/advanced/A6-1_health-coverage-before-medicare.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/advanced/A6-1_health-coverage-before-medicare.md",
+      "sha256": "3758a1941610205fc13c1f7d2b9a7cfe49750cbafa3d0756be293f595e0843dc"
+    },
+    {
+      "old_path": "scripts/advanced/A7-4_utxos-dust-consolidation-and-addresses.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/advanced/A7-4_utxos-dust-consolidation-and-addresses.md",
+      "sha256": "f9840981803be99d4742f6d9ce25ae30ee039952064f2758c1514fb4194463f3"
+    },
+    {
+      "old_path": "scripts/advanced/A1-1_how-orange-plan-models-bitcoin.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/advanced/A1-1_how-orange-plan-models-bitcoin.md",
+      "sha256": "99ec9c7de006205a306013f9be70847afe66a231fc818ddb51d1abd008b48a62"
+    },
+    {
+      "old_path": "scripts/advanced/A8-1_do-you-need-a-trust.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/advanced/A8-1_do-you-need-a-trust.md",
+      "sha256": "fd535c722c6095c29a2e09d855748de8d589d032bbb6aed4380126f61d3739e7"
+    },
+    {
+      "old_path": "scripts/advanced/A6-2_sell-borrow-or-hold.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/advanced/A6-2_sell-borrow-or-hold.md",
+      "sha256": "ff596e71f1cb114b6ac5e4788d9c74e9ed81a5faade4ee9526a60dc5c9e02373"
+    },
+    {
+      "old_path": "scripts/advanced/A3-1_price-context-before-a-large-bitcoin-move.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/advanced/A3-1_price-context-before-a-large-bitcoin-move.md",
+      "sha256": "ac2a05759a07c392d6d7bb17d10590fb5376cedb7c2181800e56bfd14f5065f1"
+    },
+    {
+      "old_path": "scripts/advanced/A5-1_rmd-pressure-and-roth-conversions.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/advanced/A5-1_rmd-pressure-and-roth-conversions.md",
+      "sha256": "e028cbd32cfcc9660fe0c9d78658eaf60d1c4f4affd2e7165ecb61aec1bf431e"
+    },
+    {
+      "old_path": "scripts/advanced/A4-2_four-ways-debt-can-strengthen-a-plan.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/advanced/A4-2_four-ways-debt-can-strengthen-a-plan.md",
+      "sha256": "71ada09f8729c29ad6435aeec06f46abc3d72fd3afdc6534654f8fe83c6c6712"
+    },
+    {
+      "old_path": "scripts/advanced/A5-3_state-taxes-and-relocation.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/advanced/A5-3_state-taxes-and-relocation.md",
+      "sha256": "d714b98bdb13ea2629481e75a9b6b9039ab27c1bd205eb42baee0fe2a920be45"
+    },
+    {
+      "old_path": "scripts/advanced/A7-2_what-self-custody-asks-of-you.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/advanced/A7-2_what-self-custody-asks-of-you.md",
+      "sha256": "6248871d0adffb75dc617557eaf45c0c2e49c4d4b5774b5b8706089711a66d2b"
+    },
+    {
+      "old_path": "scripts/advanced/A7-3_run-the-one-failure-test-across-methods-and-providers.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/advanced/A7-3_run-the-one-failure-test-across-methods-and-providers.md",
+      "sha256": "60a5d3ea103c1a6485901f1af222c884cc83a33184f9ed8dc53e2ebdea1bf13b"
+    },
+    {
+      "old_path": "scripts/advanced/A5-2_harvest-bitcoin-losses-and-gains.md",
+      "archive_path": "archive/pre-guided-promotion/scripts/advanced/A5-2_harvest-bitcoin-losses-and-gains.md",
+      "sha256": "a0fe9f3c1fa809b328f33a26e0b5ec5fa696051a6bdaf53938ec972000608c72"
+    },
+    {
+      "old_path": "modules/07-custody.md",
+      "archive_path": "archive/pre-guided-promotion/modules/07-custody.md",
+      "sha256": "0f027d9070ad2a13319726f5c85c5a13a3c75fca3bf665205cd7f9d63c511d97"
+    },
+    {
+      "old_path": "modules/09-finish-test-maintain.md",
+      "archive_path": "archive/pre-guided-promotion/modules/09-finish-test-maintain.md",
+      "sha256": "9747903afb5bc8bb8c80efd6a4236ed0ffcc42fd7bfe4a6d2008790a4cb0c586"
+    },
+    {
+      "old_path": "modules/02-cash-flow-reserve.md",
+      "archive_path": "archive/pre-guided-promotion/modules/02-cash-flow-reserve.md",
+      "sha256": "911a606c7d66a64cce7b201508e4fd8a3069d756d1ec1e1773d6288103ed89e3"
+    },
+    {
+      "old_path": "modules/04-debt-strategy.md",
+      "archive_path": "archive/pre-guided-promotion/modules/04-debt-strategy.md",
+      "sha256": "37c528aa66d479a512c300b8602eb25b15d90e51d7bd8257118f3a4aaa572af2"
+    },
+    {
+      "old_path": "modules/01-foundation.md",
+      "archive_path": "archive/pre-guided-promotion/modules/01-foundation.md",
+      "sha256": "653ae11c70ac4b952667e775f9232c562f0a9b30b19af842aaaf36e8b0a1bc36"
+    },
+    {
+      "old_path": "modules/06-retirement-income.md",
+      "archive_path": "archive/pre-guided-promotion/modules/06-retirement-income.md",
+      "sha256": "5cd20e8ab23de279f8e0707e774e082d3e4543810c16f1c37ade78ea1399f005"
+    },
+    {
+      "old_path": "modules/05-tax-strategy.md",
+      "archive_path": "archive/pre-guided-promotion/modules/05-tax-strategy.md",
+      "sha256": "afa5ad48bb30d9ec0c9ca543f5b43ac3400d355538bbf2f19d8b3e8fbe1d60cf"
+    },
+    {
+      "old_path": "modules/00-start-here.md",
+      "archive_path": "archive/pre-guided-promotion/modules/00-start-here.md",
+      "sha256": "b2ef0b3704e347ebd578d293c6351d0d88186b5019c0e343c0c60f30b32013f5"
+    },
+    {
+      "old_path": "modules/03-allocation-next-dollar.md",
+      "archive_path": "archive/pre-guided-promotion/modules/03-allocation-next-dollar.md",
+      "sha256": "e87a59a347322479ea1d43b36d8937170b4be1726887f1c839345d9c1205d804"
+    },
+    {
+      "old_path": "modules/08-estate-inheritance.md",
+      "archive_path": "archive/pre-guided-promotion/modules/08-estate-inheritance.md",
+      "sha256": "d2f359d111bc1a7e77cbfa2b88c117c9aa30b8633035c2a61d87062677095987"
+    },
+    {
+      "old_path": "modules/advanced/A01-foundation.md",
+      "archive_path": "archive/pre-guided-promotion/modules/advanced/A01-foundation.md",
+      "sha256": "29ca1b3f0b6da1a50b37040238e277adc82a706d72facb9122bc5e9296efb82a"
+    },
+    {
+      "old_path": "modules/advanced/A03-allocation-next-dollar.md",
+      "archive_path": "archive/pre-guided-promotion/modules/advanced/A03-allocation-next-dollar.md",
+      "sha256": "3f92ba2e5917a9904a85ca92dcfa6b37bb676e7347949d14a204b955270c6070"
+    },
+    {
+      "old_path": "modules/advanced/A04-debt-strategy.md",
+      "archive_path": "archive/pre-guided-promotion/modules/advanced/A04-debt-strategy.md",
+      "sha256": "4b331dea58c98692d706a26548108ffe321dc647bae76dd89aa975d0cb363a49"
+    },
+    {
+      "old_path": "modules/advanced/A05-tax-strategy.md",
+      "archive_path": "archive/pre-guided-promotion/modules/advanced/A05-tax-strategy.md",
+      "sha256": "6f518d93cdd5489435c44f6aa74d5b917fbd854f53804034e29431c0ed26728e"
+    },
+    {
+      "old_path": "modules/advanced/A08-estate-inheritance.md",
+      "archive_path": "archive/pre-guided-promotion/modules/advanced/A08-estate-inheritance.md",
+      "sha256": "606660ac682851ec6aa129d7dfa852a4181f5760d9cf2465c942faa4a1429c73"
+    },
+    {
+      "old_path": "modules/advanced/A07-custody.md",
+      "archive_path": "archive/pre-guided-promotion/modules/advanced/A07-custody.md",
+      "sha256": "c4b09051447de1ce6a3a7c4c68ae16d5d40c42015433c88c8ad988535556c55a"
+    },
+    {
+      "old_path": "modules/advanced/A06-retirement-income.md",
+      "archive_path": "archive/pre-guided-promotion/modules/advanced/A06-retirement-income.md",
+      "sha256": "047ada019e8a23c01a68ee5f1f5db1d8e5a9d160e931346fe185fb8497122c9b"
+    },
+    {
+      "old_path": "lesson-text/00-2_how-to-use-orange-plan-ai.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/00-2_how-to-use-orange-plan-ai.md",
+      "sha256": "c80bb4299689b231c811c1f89468e3a07d15ae8ee4db9d3f74b124d71587dcb0"
+    },
+    {
+      "old_path": "lesson-text/07-3_fix-single-points-of-failure-and-harden-accounts.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/07-3_fix-single-points-of-failure-and-harden-accounts.md",
+      "sha256": "1a18b4487bccf0ec6df6e3e2e6a4ab167bcade86bf22b6acc8af14ca50e2d944"
+    },
+    {
+      "old_path": "lesson-text/02-5_walkthrough-cash-flow-reserve-life-events.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/02-5_walkthrough-cash-flow-reserve-life-events.md",
+      "sha256": "f231c84632f27606eed54b07173bd6fbe2b9eb63412cc2aecc63a02aa70fe3c4"
+    },
+    {
+      "old_path": "lesson-text/07-2_set-up-a-hardware-wallet-and-prove-recovery.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/07-2_set-up-a-hardware-wallet-and-prove-recovery.md",
+      "sha256": "cc66107da5aad22699eddf85eb9e3603eb5e834b1fe9491bf69bbbfc5f3865cc"
+    },
+    {
+      "old_path": "lesson-text/08-4_use-insurance-for-risks-the-stack-cannot-carry.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/08-4_use-insurance-for-risks-the-stack-cannot-carry.md",
+      "sha256": "baf827157ec7c4f76bd3aa465f5b65865a6493c05bb2c611bd8b4b3456d49567"
+    },
+    {
+      "old_path": "lesson-text/01-1_what-to-gather-before-you-build-the-plan.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/01-1_what-to-gather-before-you-build-the-plan.md",
+      "sha256": "6c7b7b2ce897d27d42a24500d89d6db4665012e4638a41768a466f332ebf7759"
+    },
+    {
+      "old_path": "lesson-text/07-5_walkthrough-document-the-custody-decision-and-status.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/07-5_walkthrough-document-the-custody-decision-and-status.md",
+      "sha256": "b74f4ab688b186e4307a3d1ed306cdc1611186d0d5d2ddb637924bdfbd903bff"
+    },
+    {
+      "old_path": "lesson-text/03-4_put-the-right-holdings-inside-the-right-accounts.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/03-4_put-the-right-holdings-inside-the-right-accounts.md",
+      "sha256": "12ccde6b08007259a255f72b3c17054ff4aa159fa25e9359031411a18e22fb95"
+    },
+    {
+      "old_path": "lesson-text/05-1_cost-basis-know-what-you-paid-before-you-plan-a-sale.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/05-1_cost-basis-know-what-you-paid-before-you-plan-a-sale.md",
+      "sha256": "feaa359b51e01b444e582cd5ac3cf32fe6d4abd27dca59d70719fc04bb83d209"
+    },
+    {
+      "old_path": "lesson-text/01-3_what-the-onboarding-retirement-age-actually-means.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/01-3_what-the-onboarding-retirement-age-actually-means.md",
+      "sha256": "38e4dccc9400a26e1f380521c8a21044bc167b6cac63ecf266d6b746b43729e9"
+    },
+    {
+      "old_path": "lesson-text/04-2_walkthrough-debt-strategy.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/04-2_walkthrough-debt-strategy.md",
+      "sha256": "bc5a7d1197941a0aaa9e88fbe914b9529979f5084ed2c8d39a488233ee1c36ec"
+    },
+    {
+      "old_path": "lesson-text/03-2_give-each-dollar-a-job-before-choosing-the-investment.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/03-2_give-each-dollar-a-job-before-choosing-the-investment.md",
+      "sha256": "7075979869db3cbab93f66dd6443f1e0cd6a8af789528c6c22403507551921e7"
+    },
+    {
+      "old_path": "lesson-text/08-1_choose-who-is-in-charge-and-put-the-legal-baseline-in-place.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/08-1_choose-who-is-in-charge-and-put-the-legal-baseline-in-place.md",
+      "sha256": "11dd2e9edf8b25ae44acbd3e9f9306911d64313e3c56e377f0aad91cb893d858"
+    },
+    {
+      "old_path": "lesson-text/06-3_use-plan-confidence-and-guardrails-to-adjust-spending.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/06-3_use-plan-confidence-and-guardrails-to-adjust-spending.md",
+      "sha256": "d1b17a45b8251927a91ae8f2d776053b875bfb43aaea711a5ac93a9d90f1a112"
+    },
+    {
+      "old_path": "lesson-text/07-4_demo-hardware-wallet-and-exchange-hardening.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/07-4_demo-hardware-wallet-and-exchange-hardening.md",
+      "sha256": "16ae21efde7a81d3398e8a30feeb733bd96e91a2d576558b3b8ed68eda883d21"
+    },
+    {
+      "old_path": "lesson-text/05-3_walkthrough-tax.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/05-3_walkthrough-tax.md",
+      "sha256": "b913bf1ac77871718b1236fa2edc8793466320ad036f0bd2483c7462611cb2ce"
+    },
+    {
+      "old_path": "lesson-text/04-1_decide-what-every-debt-should-do.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/04-1_decide-what-every-debt-should-do.md",
+      "sha256": "92209afece79fc4256c868edfc3a28af7104ebbdf6e5539cfcff48c7025e9e83"
+    },
+    {
+      "old_path": "lesson-text/01-4_walkthrough-foundation.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/01-4_walkthrough-foundation.md",
+      "sha256": "1c760019f39bcfabbda4655d43ba132f31969d89efa6fe1fb4b7cfb11c7ef4df"
+    },
+    {
+      "old_path": "lesson-text/01-2_the-three-layers-of-a-plan-and-setting-your-assumptions.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/01-2_the-three-layers-of-a-plan-and-setting-your-assumptions.md",
+      "sha256": "487d85f2f2a1f4c6a64db9c8d45321295857c22440bafe20ed8c5a54bfec3150"
+    },
+    {
+      "old_path": "lesson-text/03-5_walkthrough-route-the-investable-surplus.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/03-5_walkthrough-route-the-investable-surplus.md",
+      "sha256": "4c5ef04739733cf978681709b6ddae7f67ae947884bc9acda014954af3148428"
+    },
+    {
+      "old_path": "lesson-text/09-3_walkthrough-finish-test-review-and-save.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/09-3_walkthrough-finish-test-review-and-save.md",
+      "sha256": "3f0039a2cdd827b4190b1130f2da29127a68eaeffae7a6f994121d53d24c7bed"
+    },
+    {
+      "old_path": "lesson-text/09-2_test-decisions-and-read-the-finished-plan.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/09-2_test-decisions-and-read-the-finished-plan.md",
+      "sha256": "f6edabf5240fe2fef98bf20adae36da2c2dc698703e15770be52456760c4227b"
+    },
+    {
+      "old_path": "lesson-text/07-1_self-custody-professional-custody-and-when-a-split-makes-sense.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/07-1_self-custody-professional-custody-and-when-a-split-makes-sense.md",
+      "sha256": "35c714f29f9d1edfb47a206a0b263670fc4fa7b1a686d15866fc809c30249b26"
+    },
+    {
+      "old_path": "lesson-text/06-4_walkthrough-retirement-paycheck.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/06-4_walkthrough-retirement-paycheck.md",
+      "sha256": "3d82d3e90dabed6fc44becf8dbc779a07540d7e84571caeab3502729ddd705f1"
+    },
+    {
+      "old_path": "lesson-text/06-2_choose-withdrawal-order-and-refill-rule.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/06-2_choose-withdrawal-order-and-refill-rule.md",
+      "sha256": "395f344c2af8454233769172c0efc2736d4e6afafcbf58315eeda04502e2b286"
+    },
+    {
+      "old_path": "lesson-text/02-1_find-the-surplus-your-plan-can-actually-use.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/02-1_find-the-surplus-your-plan-can-actually-use.md",
+      "sha256": "841dbba2c3229620d32d88fe948cfade2e199b0c24073830f70f2eea5ed8f923"
+    },
+    {
+      "old_path": "lesson-text/02-2_size-your-cash-reserve-in-months-of-spending.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/02-2_size-your-cash-reserve-in-months-of-spending.md",
+      "sha256": "0080e7ed182cbca37f6a2995e41ee3b31b405327d6a49721d12c1415f407d75b"
+    },
+    {
+      "old_path": "lesson-text/08-5_walkthrough-family-handoff.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/08-5_walkthrough-family-handoff.md",
+      "sha256": "1137c7b6a5dee3d75ed2a241712a1a862d819b4708d3f5e412cdf0c7c3f5bfea"
+    },
+    {
+      "old_path": "lesson-text/08-3_write-the-heir-letter-and-create-the-backstop.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/08-3_write-the-heir-letter-and-create-the-backstop.md",
+      "sha256": "555c9c77d873f7ba1510948fa24bf43736b7171aa1419348ba093ac08af03815"
+    },
+    {
+      "old_path": "lesson-text/02-4_optional-decide-how-much-college-help-you-are-funding.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/02-4_optional-decide-how-much-college-help-you-are-funding.md",
+      "sha256": "1c5269ad80ec58b1d99c3be1a7eee22c93cc5f7e9ced9106ed3ce3cc25eceff5"
+    },
+    {
+      "old_path": "lesson-text/00-1_how-to-use-this-course.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/00-1_how-to-use-this-course.md",
+      "sha256": "e8ecdf30ddb680b592d1f9a180bea246151b9ee8ae4a190e1e3b4092e5fce883"
+    },
+    {
+      "old_path": "lesson-text/09-1_keep-the-plan-current-without-rebuilding-it.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/09-1_keep-the-plan-current-without-rebuilding-it.md",
+      "sha256": "968865ad40300e65dbf0d5e6c4c6cbb145b2ae977efcd685a74294cc0e0753f0"
+    },
+    {
+      "old_path": "lesson-text/03-3_build-the-contribution-waterfall-for-every-new-dollar.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/03-3_build-the-contribution-waterfall-for-every-new-dollar.md",
+      "sha256": "cc1aeb85111335d38ccb9698a6a0d295a3da63303be1381dc195f48bb9629243"
+    },
+    {
+      "old_path": "lesson-text/03-1_set-the-bitcoin-allocation-you-can-actually-hold.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/03-1_set-the-bitcoin-allocation-you-can-actually-hold.md",
+      "sha256": "a137181f568dbeb419f16e0f8b62ed8041e490733e7243fc73658ad8369d00d3"
+    },
+    {
+      "old_path": "lesson-text/02-3_add-the-future-changes-your-plan-should-expect.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/02-3_add-the-future-changes-your-plan-should-expect.md",
+      "sha256": "10512ffe0b24816e413b48e018e6daf7c677f897b24dcb56ef34c67e159b9a47"
+    },
+    {
+      "old_path": "lesson-text/06-1_build-spending-income-floor-gap-and-bridge.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/06-1_build-spending-income-floor-gap-and-bridge.md",
+      "sha256": "c5fdf99179a7d9bf73d81ec54f1cd0a4bc814e3968a56aaf1923cd6d880f1786"
+    },
+    {
+      "old_path": "lesson-text/08-2_align-legal-authority-with-technical-recovery.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/08-2_align-legal-authority-with-technical-recovery.md",
+      "sha256": "7a0d864bf38f1f85bbee92c4a98a4b1bfb8e9dd5327a26e23843a38def17fc2c"
+    },
+    {
+      "old_path": "lesson-text/05-2_use-the-tax-buckets-and-low-income-window-on-purpose.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/05-2_use-the-tax-buckets-and-low-income-window-on-purpose.md",
+      "sha256": "288d4c88e41c7051aed066be3980aa0fc6a45944ff8f4331ba406c9d35efdd94"
+    },
+    {
+      "old_path": "lesson-text/advanced/A4-1_borrow-against-bitcoin-without-liquidation.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/advanced/A4-1_borrow-against-bitcoin-without-liquidation.md",
+      "sha256": "bedc2528f914b24f85762648e34811439bc260551657fbfa484b6c17f4a74296"
+    },
+    {
+      "old_path": "lesson-text/advanced/A7-1_compare-passphrase-multisig-institutional-custody-and-an-intentional-split.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/advanced/A7-1_compare-passphrase-multisig-institutional-custody-and-an-intentional-split.md",
+      "sha256": "1881dcd975e6e07e4d0cf591cebe396d1192a8020f11e8986599ef7d2f4a3d8c"
+    },
+    {
+      "old_path": "lesson-text/advanced/A6-1_health-coverage-before-medicare.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/advanced/A6-1_health-coverage-before-medicare.md",
+      "sha256": "4b640317535fbe0f92bb2749ee9980662d2ec09cdb4c13185623b44e05f5a2d2"
+    },
+    {
+      "old_path": "lesson-text/advanced/A7-4_utxos-dust-consolidation-and-addresses.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/advanced/A7-4_utxos-dust-consolidation-and-addresses.md",
+      "sha256": "939b3cee6e7490542995a82a67cd90847d14f0b6b1009708f087b7c84b0116d2"
+    },
+    {
+      "old_path": "lesson-text/advanced/A1-1_how-orange-plan-models-bitcoin.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/advanced/A1-1_how-orange-plan-models-bitcoin.md",
+      "sha256": "9de655f56fb3c31578aa5516dd88ab1d9bde2e53faec2178b9fccb2ffc466262"
+    },
+    {
+      "old_path": "lesson-text/advanced/A8-1_do-you-need-a-trust.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/advanced/A8-1_do-you-need-a-trust.md",
+      "sha256": "3236ba8cb3b64f9f10ad208c31e414582d68486c0fd630d84297ec15581f6ea6"
+    },
+    {
+      "old_path": "lesson-text/advanced/A6-2_sell-borrow-or-hold.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/advanced/A6-2_sell-borrow-or-hold.md",
+      "sha256": "cc6a7de7c0189f3279936e75555f4c960d051d1967f1d4432b15040b9f44a048"
+    },
+    {
+      "old_path": "lesson-text/advanced/A3-1_price-context-before-a-large-bitcoin-move.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/advanced/A3-1_price-context-before-a-large-bitcoin-move.md",
+      "sha256": "b24d306d67536a090fc7a83492b0d8b0d3359151f3ec760a95405f56983a81cc"
+    },
+    {
+      "old_path": "lesson-text/advanced/A5-1_rmd-pressure-and-roth-conversions.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/advanced/A5-1_rmd-pressure-and-roth-conversions.md",
+      "sha256": "a8237a68996e8bc63fd2445abac6c86912b10a31abaf29958f9edfc941203179"
+    },
+    {
+      "old_path": "lesson-text/advanced/A4-2_four-ways-debt-can-strengthen-a-plan.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/advanced/A4-2_four-ways-debt-can-strengthen-a-plan.md",
+      "sha256": "54c5f01ef3781882f9b725525e1364f3e7dfa8644f0882864afa00e486c257c9"
+    },
+    {
+      "old_path": "lesson-text/advanced/A5-3_state-taxes-and-relocation.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/advanced/A5-3_state-taxes-and-relocation.md",
+      "sha256": "9dd27a69af267b580b339f4982c55624fa4d30cc7dda36e14c49b46d726a121b"
+    },
+    {
+      "old_path": "lesson-text/advanced/A7-2_what-self-custody-asks-of-you.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/advanced/A7-2_what-self-custody-asks-of-you.md",
+      "sha256": "db186872848e8716e85beb85f3eb89670d73d702b2076e908e1f470be0f81b1c"
+    },
+    {
+      "old_path": "lesson-text/advanced/A7-3_run-the-one-failure-test-across-methods-and-providers.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/advanced/A7-3_run-the-one-failure-test-across-methods-and-providers.md",
+      "sha256": "01d736382c8ecc55ca6a4a6c71cc36bb6af89cbf8bd03a75963a00d0c78f7671"
+    },
+    {
+      "old_path": "lesson-text/advanced/A5-2_harvest-bitcoin-losses-and-gains.md",
+      "archive_path": "archive/pre-guided-promotion/lesson-text/advanced/A5-2_harvest-bitcoin-losses-and-gains.md",
+      "sha256": "f6edf0e67c38388c88050b752f61a1018da0a32d512e80661c95fad5050b4c1e"
+    },
+    {
+      "old_path": "visuals/3-1a_two-ratios.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/3-1a_two-ratios.md",
+      "sha256": "6422f4e47b0b137a954b1307631e0da7214c9c5456d598b9d42800e15a4e8f60"
+    },
+    {
+      "old_path": "visuals/4-1b_drawdown-math.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/4-1b_drawdown-math.md",
+      "sha256": "60002b9f0133d9630e3b1e68d7677dfca10d46a2aed8ee754e0061be626ef517"
+    },
+    {
+      "old_path": "visuals/A6-1_healthcare-bridge.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/A6-1_healthcare-bridge.md",
+      "sha256": "48cfa97b093e8e2c221402adec4b6e45286f5133d80b74c64257da75ce538b45"
+    },
+    {
+      "old_path": "visuals/7-1a_five-questions.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/7-1a_five-questions.md",
+      "sha256": "f0bac810fe9ef01256d5f1db0c8f9fb392b4628a0cd25a20bdc5830498b744ad"
+    },
+    {
+      "old_path": "visuals/7-3_only-one.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/7-3_only-one.md",
+      "sha256": "cfd45f743c38da41272c8f774785d2e93c85fd979e25627c19f0ede3391e9b2a"
+    },
+    {
+      "old_path": "visuals/5-2_bracket-roadmap.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/5-2_bracket-roadmap.md",
+      "sha256": "b68551ceda2fe78579a0f30eb75f709ff21897ffad35c292ae7c79efc919bd25"
+    },
+    {
+      "old_path": "visuals/00-STYLE.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/00-STYLE.md",
+      "sha256": "8e579f6ee0647742aa0b1aa27fd152ee84e35d3d5a7caa213985ea0a3db0f20e"
+    },
+    {
+      "old_path": "visuals/A4-2_four-plays.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/A4-2_four-plays.md",
+      "sha256": "21584fbd817dc3f9bc835cce64d71b074841a308f94242ab2496f3a190301492"
+    },
+    {
+      "old_path": "visuals/3-1b_debt-jobs.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/3-1b_debt-jobs.md",
+      "sha256": "77927249ead6f2e42fb8a8e672ce2134ffda9398ffe3e8955649e15ac3320154"
+    },
+    {
+      "old_path": "visuals/9-2a_stress-vs-choice.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/9-2a_stress-vs-choice.md",
+      "sha256": "42a68e125317c8567014a60deb947dd8fb3476fe1dbaf03d83d0aec882d32e08"
+    },
+    {
+      "old_path": "visuals/6-3_guardrails.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/6-3_guardrails.md",
+      "sha256": "93dc453e09571527b58a70133a5680e1e2fa84a4333c184ee5b3c8f1fb47c2d6"
+    },
+    {
+      "old_path": "visuals/2-4_funding-stack.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/2-4_funding-stack.md",
+      "sha256": "af44ded627396fc6d52d8e3e6d5014f541a4bfda2de7f4b641feb1842903c6e1"
+    },
+    {
+      "old_path": "visuals/1-2_one-input-two-futures.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/1-2_one-input-two-futures.md",
+      "sha256": "0b28a16f62b287c1ab30c058b4f58cd870d229927e604db6959353bbeacafa76"
+    },
+    {
+      "old_path": "visuals/6-1_gap-and-bridge.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/6-1_gap-and-bridge.md",
+      "sha256": "c56a499e78504c3f4f0f0ea1f0653e76b3a1c42d150d43a38fda0877d1dff479"
+    },
+    {
+      "old_path": "visuals/A7-1_passphrase-multisig.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/A7-1_passphrase-multisig.md",
+      "sha256": "fbec25cbe44b7484f83fc694b4040cfc433290645bfe786d0ff9ff55c7d487a8"
+    },
+    {
+      "old_path": "visuals/2-2_reserve-formula.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/2-2_reserve-formula.md",
+      "sha256": "a3dbf5068ee82351631f0804f03f08206c0c21ffa91a80dddbf3c61d6440d931"
+    },
+    {
+      "old_path": "visuals/A5-2_harvest-room.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/A5-2_harvest-room.md",
+      "sha256": "9cf5db226b0a28bad9934dc14cfe759ba9b86efb7b9857a8e8b088463efc34f7"
+    },
+    {
+      "old_path": "visuals/1-1_what-to-gather.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/1-1_what-to-gather.md",
+      "sha256": "6cb5c3bb55a612fe5e504984398bef9395b6f59238fa9f91385562e12fece17f"
+    },
+    {
+      "old_path": "visuals/0-2_ask.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/0-2_ask.md",
+      "sha256": "f258efb1e26fe58562fac8baee5fc01169bf2d8edec83743f2579c617a4b2af9"
+    },
+    {
+      "old_path": "visuals/3-3_contribution-waterfall.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/3-3_contribution-waterfall.md",
+      "sha256": "5feecbcdf0d7eda76adfa81623bddd20f736411bfc91875e8ab138bc351bf359"
+    },
+    {
+      "old_path": "visuals/9-2b_reading-order.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/9-2b_reading-order.md",
+      "sha256": "91ab413fed808b88b6808cc9144fe0c97e987b6f9987db6c42b17d4f65a4e2a3"
+    },
+    {
+      "old_path": "visuals/9-1a_two-rhythms.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/9-1a_two-rhythms.md",
+      "sha256": "7b73e40c9457ade4990afaa20753fab5d2ffc4557abf3fd40a8e31ecaf555070"
+    },
+    {
+      "old_path": "visuals/8-2_split-and-switch.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/8-2_split-and-switch.md",
+      "sha256": "24c3e8f84d7927f8c9f838081667d17e7aa3a32aaa226faa5b616e86aaa94231"
+    },
+    {
+      "old_path": "visuals/8-1_form-generally-controls.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/8-1_form-generally-controls.md",
+      "sha256": "9ebc0f6b133fdfd682768f7a0cc48673034076914243bed3c783ade6b1fbed40"
+    },
+    {
+      "old_path": "visuals/8-4_self-insure-line.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/8-4_self-insure-line.md",
+      "sha256": "b8d6253c90999ce89499ad7e417b4889ea03d89043eb9e223760c1a18def778c"
+    },
+    {
+      "old_path": "visuals/6-2_draw-and-refill.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/6-2_draw-and-refill.md",
+      "sha256": "650374c69f4c824e635e9877347212f9d2f7b17abdc31798128f3c470909306e"
+    },
+    {
+      "old_path": "visuals/A5-1_rmd-spike.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/A5-1_rmd-spike.md",
+      "sha256": "01c7fcc9d5cfe258c5a70adbf2c1cfaec77584e34262186e6b374d8ad1780265"
+    },
+    {
+      "old_path": "visuals/7-1b_levels-and-trust.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/7-1b_levels-and-trust.md",
+      "sha256": "18b8c8e48f1ac26907ae79c1a683b13aa32138cd28daa6b1297570d68687db20"
+    },
+    {
+      "old_path": "visuals/2-3_cost-lanes.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/2-3_cost-lanes.md",
+      "sha256": "1ba80808740c97f72a85f84ba93a5c85c01a0b23bffeab82002cea0b9a49afc9"
+    },
+    {
+      "old_path": "visuals/9-1b_annual-lap.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/9-1b_annual-lap.md",
+      "sha256": "f515a158f6852a2b354968e5581c11be17e22c589ec0ebcc56003b906b09124e"
+    },
+    {
+      "old_path": "visuals/4-2_three-buckets.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/4-2_three-buckets.md",
+      "sha256": "f9ee9a3c2a072c56e092cdb24c9e408e3a789bfa977b156e7265bb2794c0f791"
+    },
+    {
+      "old_path": "visuals/5-1_two-lots.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/5-1_two-lots.md",
+      "sha256": "c48d3e765b6c4649b1de97292f796d2ce6a94819e9efb6635182d64753da6064"
+    },
+    {
+      "old_path": "visuals/2-1_surplus-waterfall.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/2-1_surplus-waterfall.md",
+      "sha256": "34b6c146e3d4f90674ae411a15c4030d1e8a56b93a80ef9703b4fd34bf8cb34a"
+    },
+    {
+      "old_path": "visuals/4-1a_four-tiers.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/4-1a_four-tiers.md",
+      "sha256": "8f85641e0bf1625fe7abc7ffa8de95a23d39eb348b53e009aca4caa91bb7fbff"
+    },
+    {
+      "old_path": "visuals/3-4_asset-location.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/3-4_asset-location.md",
+      "sha256": "8a67dab707a09daeedc4361d26793e95488fc7371df09f2620a36490e59acddc"
+    },
+    {
+      "old_path": "visuals/README.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/README.md",
+      "sha256": "f47c82961317c5a522e95d386ddc76ed7662ba2c38599d4fedab85aee8983a09"
+    },
+    {
+      "old_path": "visuals/1-3b_number-flow.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/1-3b_number-flow.md",
+      "sha256": "0e89e9db8bdce0a3fbcdce3d584de628c9f079902de07482295d96dc208a74c4"
+    },
+    {
+      "old_path": "visuals/A8-1_trust-gate.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/A8-1_trust-gate.md",
+      "sha256": "f21d0652bee5a69cac32f29ff394d35aa6aa03adc5910a970c7afebbe4302370"
+    },
+    {
+      "old_path": "visuals/1-3a_thousand-paths.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/1-3a_thousand-paths.md",
+      "sha256": "90cd5f258c722143bf2becf6e7a41a638445772fc12d6a245aea584810f8e041"
+    },
+    {
+      "old_path": "visuals/0-1_course-map.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/0-1_course-map.md",
+      "sha256": "dcdeef5089a4b1f00a544cc40ac7df8d77b6fb6724040e2a235ac1753f8072b0"
+    },
+    {
+      "old_path": "visuals/7-2_recovery-test.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/7-2_recovery-test.md",
+      "sha256": "bce242243401df1a8fe052c2d95e5d694b9d5678b443457039484a4ab5c1acbf"
+    },
+    {
+      "old_path": "visuals/A6-2_sell-borrow-hold.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/A6-2_sell-borrow-hold.md",
+      "sha256": "27dada0786977f395aa0ea4aa864de66185672b9ae714717283833c7d92619fd"
+    },
+    {
+      "old_path": "visuals/A3-1b_three-lines.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/A3-1b_three-lines.md",
+      "sha256": "898cc6de82a469621a8bcfe95f9213305946a6207c5358fd79c668982dd2801b"
+    },
+    {
+      "old_path": "visuals/A3-1a_ltv-drift.md",
+      "archive_path": "archive/pre-guided-promotion/visuals/A3-1a_ltv-drift.md",
+      "sha256": "f4b874bfe04fad1856f996930444ae6d15066b381197ce3d62e24b62946390dd"
+    },
+    {
+      "old_path": "alignment-pass/README.md",
+      "archive_path": "archive/pre-guided-promotion/alignment-pass/README.md",
+      "sha256": "a6864eb339b0e1f6e00d75293a8840abf069a2c0fe82e6e53af6ac099793c1d5"
+    },
+    {
+      "old_path": "research/PRIMARY-SOURCE-REGISTER.md",
+      "archive_path": "archive/pre-guided-promotion/research/PRIMARY-SOURCE-REGISTER.md",
+      "sha256": "06ca4d00298a8f499ee86042448272d7ddf39fbd13f0b42285f91c3b78077d93"
+    },
+    {
+      "old_path": "tools/build-circle-structure.py",
+      "archive_path": "archive/pre-guided-promotion/tools/build-circle-structure.py",
+      "sha256": "ef8ecd951685d29549cd297e83e7439166e2f9540896cf6411b38017e6e7080b"
+    },
+    {
+      "old_path": "tools/voice-compare.py",
+      "archive_path": "archive/pre-guided-promotion/tools/voice-compare.py",
+      "sha256": "f1b453255d1edf15ecb542d8ed2cffe145ee4d9fd4ab517be5bec1ac398dca0a"
+    },
+    {
+      "old_path": "tools/slop-scan.py",
+      "archive_path": "archive/pre-guided-promotion/tools/slop-scan.py",
+      "sha256": "a31a0a5f880ded6c3436373a91a018e458ee40953aa2965bb9e37063d0711adf"
+    },
+    {
+      "old_path": "tools/course-metrics.py",
+      "archive_path": "archive/pre-guided-promotion/tools/course-metrics.py",
+      "sha256": "da1a2dbea523fcefd9951632d68e822077f25cbc3c849a5d7bd4ca818ff5d023"
+    },
+    {
+      "old_path": "tools/build-module-gates.py",
+      "archive_path": "archive/pre-guided-promotion/tools/build-module-gates.py",
+      "sha256": "8aa79d08068bbf81d55221e78fb6a2a3520e5a406ced50e39376f6edc08b846b"
+    },
+    {
+      "old_path": "tools/check-crossrefs.py",
+      "archive_path": "archive/pre-guided-promotion/tools/check-crossrefs.py",
+      "sha256": "fe0a8c93c7054a52ac2588038be7c50d57b27af934d4d8165012c6ca8bfa0f47"
+    },
+    {
+      "old_path": "tools/rebuild-masters-from-scripts.py",
+      "archive_path": "archive/pre-guided-promotion/tools/rebuild-masters-from-scripts.py",
+      "sha256": "757adf5b223c586f8eb25b58833ad799aa2847a349a5fcf38e0cf45cb8ff91a6"
+    },
+    {
+      "old_path": "tools/write-v1-claim-registry.py",
+      "archive_path": "archive/pre-guided-promotion/tools/write-v1-claim-registry.py",
+      "sha256": "7cefc8ad42bf3aae3c3466efba71d85a3dadf1eea5a78703d3b1fa3d86d282bc"
+    },
+    {
+      "old_path": "tools/sync-master-from-script.py",
+      "archive_path": "archive/pre-guided-promotion/tools/sync-master-from-script.py",
+      "sha256": "ec6c9693975ff2b4e0026e490a6f95bebb9ac6b07d58eb2920ac7c7776f72fd7"
+    },
+    {
+      "old_path": "tools/split-modules.py",
+      "archive_path": "archive/pre-guided-promotion/tools/split-modules.py",
+      "sha256": "25414c28bf67b920164466bbe02744cdd2f433cc209e00da7903c2b814ab71fe"
+    },
+    {
+      "old_path": "tools/build-dictation-order.py",
+      "archive_path": "archive/pre-guided-promotion/tools/build-dictation-order.py",
+      "sha256": "59b812f820660b8d215f566817f883e7982336f22c1e4707414591f0564ed562"
+    },
+    {
+      "old_path": "tools/direct-voice-audit.py",
+      "archive_path": "archive/pre-guided-promotion/tools/direct-voice-audit.py",
+      "sha256": "ce05253ee9976660c0252c9653c60a96a4366a8e73f2fadae318b2b965d3dfd3"
+    },
+    {
+      "old_path": "tools/cold-read-audit.py",
+      "archive_path": "archive/pre-guided-promotion/tools/cold-read-audit.py",
+      "sha256": "dcfc7adcae097cd6b198622b9ee18d56fecd40c102570af056de2567eab4edf6"
+    },
+    {
+      "old_path": "tools/sync-lesson-text.py",
+      "archive_path": "archive/pre-guided-promotion/tools/sync-lesson-text.py",
+      "sha256": "18adae6195de5e0719c54e6644408c0b574a5650e135461ae10252d63c43a203"
+    },
+    {
+      "old_path": "tools/build-production-checklist.py",
+      "archive_path": "archive/pre-guided-promotion/tools/build-production-checklist.py",
+      "sha256": "5fb4d0ffd161f4bf627b7448f095f9f1bfb699a0a17a4d13488deac0eab9a051"
+    },
+    {
+      "old_path": "tools/fp.py",
+      "archive_path": "archive/pre-guided-promotion/tools/fp.py",
+      "sha256": "47d1752135b86cc9371dbf5f03eb637ebd4de8b9fda081751c4c39277e87e7fe"
+    },
+    {
+      "old_path": "tools/check-v1-course-alignment.py",
+      "archive_path": "archive/pre-guided-promotion/tools/check-v1-course-alignment.py",
+      "sha256": "c2a9e1ff6ee649cb53fd851c2d08cfbf9fbbe112c503e29bf29a595eb8e01f6a"
+    },
+    {
+      "old_path": "tools/build-shoot-list.py",
+      "archive_path": "archive/pre-guided-promotion/tools/build-shoot-list.py",
+      "sha256": "57d9da0a3d1c010aad0925aa10c010239fbaf7ce8aeffe413f3ad3155c3090c6"
+    },
+    {
+      "old_path": "tools/check-visuals.py",
+      "archive_path": "archive/pre-guided-promotion/tools/check-visuals.py",
+      "sha256": "12212bd9d4566bce9499e6b5a72f4e705bbc65d9e2b785b994f4dd7579b8c100"
+    },
+    {
+      "old_path": "tools/build-scripts.py",
+      "archive_path": "archive/pre-guided-promotion/tools/build-scripts.py",
+      "sha256": "4052b50468d482e4abfba918eb6d933e077da3c3bd536052896aa0fd52b23f7b"
+    },
+    {
+      "old_path": "tools/check-layer-parity.py",
+      "archive_path": "archive/pre-guided-promotion/tools/check-layer-parity.py",
+      "sha256": "47d4c9595724ad424bfc3557b5d0436b741d4a71c351331b6e3c4137ba43ecba"
+    },
+    {
+      "old_path": "tools/apply-onefile.py",
+      "archive_path": "archive/pre-guided-promotion/tools/apply-onefile.py",
+      "sha256": "805cc21cba132f2b1a3626c95c7d6c944838ba956c3b3939569d760738f34d3a"
+    },
+    {
+      "old_path": "tools/write-production-checklist-template.py",
+      "archive_path": "archive/pre-guided-promotion/tools/write-production-checklist-template.py",
+      "sha256": "30f967db3262f6324c8615e0f554c312d92f3167401f2ff4e716d3e6c688ff2f"
+    },
+    {
+      "old_path": "tools/test-layer-parity-mutations.py",
+      "archive_path": "archive/pre-guided-promotion/tools/test-layer-parity-mutations.py",
+      "sha256": "a030ed2521ce2d84c175f10a056cf4e16153edc6d41f3977a7629b5b33604076"
+    },
+    {
+      "old_path": "tools/build-film-order.py",
+      "archive_path": "archive/pre-guided-promotion/tools/build-film-order.py",
+      "sha256": "45e546b2561ae44e3d26bf85405dcd2a809f5aa36423e1d00bae32e0b38698b8"
+    },
+    {
+      "old_path": "tools/build-onefile.py",
+      "archive_path": "archive/pre-guided-promotion/tools/build-onefile.py",
+      "sha256": "1badefef2e1a38ab5103079de8b7a870fd08cf5d04b3910b81368b0726905f8a"
+    },
+    {
+      "old_path": "course-v2/WALKTHROUGHS.md",
+      "archive_path": "archive/pre-guided-promotion/course-v2/WALKTHROUGHS.md",
+      "sha256": "cd981a7f06d064cc96463f164db01b7b0bb68fae14c0c23fad011378dc3ad2e4"
+    },
+    {
+      "old_path": "course-v2/DEMO-HOUSEHOLD.md",
+      "archive_path": "archive/pre-guided-promotion/course-v2/DEMO-HOUSEHOLD.md",
+      "sha256": "b8b130ebf9d6e00b2ad7460e14e807be2b573f5268f06a7e24ea6c8f0a7ba5b4"
+    },
+    {
+      "old_path": "course-v2/demo-household.json",
+      "archive_path": "archive/pre-guided-promotion/course-v2/demo-household.json",
+      "sha256": "a70d99fef1d68feb12ed9056575bd06d763437e4a7092d6a0e4647eedabbe10c"
+    },
+    {
+      "old_path": "course-v2/README.md",
+      "archive_path": "archive/pre-guided-promotion/course-v2/README.md",
+      "sha256": "dff865793b4b8f53126e2eef6c2ab9594c97b2c4fcbfbe2fb3f8117a974d95b3"
+    },
+    {
+      "old_path": "course-v2/sessions/06-retirement-paycheck.md",
+      "archive_path": "archive/pre-guided-promotion/course-v2/sessions/06-retirement-paycheck.md",
+      "sha256": "7b948145293bc0a7b93d4283002ff66197843b13988f50e9e6d45b7fe20b7808"
+    },
+    {
+      "old_path": "course-v2/sessions/07-custody.md",
+      "archive_path": "archive/pre-guided-promotion/course-v2/sessions/07-custody.md",
+      "sha256": "157dc7d0f1fbf370a85a7a0625c591e325308361265041c658f8edafb235c116"
+    },
+    {
+      "old_path": "course-v2/sessions/02-cash-flow-reserve-and-life-events.md",
+      "archive_path": "archive/pre-guided-promotion/course-v2/sessions/02-cash-flow-reserve-and-life-events.md",
+      "sha256": "5a1b096974fc91e49eec84fe4b2e2c5bdc5d88b7f7c481a92fac4f1d61c3adce"
+    },
+    {
+      "old_path": "course-v2/sessions/03-debt-and-leverage.md",
+      "archive_path": "archive/pre-guided-promotion/course-v2/sessions/03-debt-and-leverage.md",
+      "sha256": "18e1cb191364bff423754b9967c002b54aabc906ad644bf12b6f88959923e229"
+    },
+    {
+      "old_path": "course-v2/sessions/04-allocation-and-next-dollar.md",
+      "archive_path": "archive/pre-guided-promotion/course-v2/sessions/04-allocation-and-next-dollar.md",
+      "sha256": "4320784df50ae95f763249ea3c02bbcc8fd94a00caeb220d746c0429073067e0"
+    },
+    {
+      "old_path": "course-v2/sessions/09-maintenance.md",
+      "archive_path": "archive/pre-guided-promotion/course-v2/sessions/09-maintenance.md",
+      "sha256": "25440bd07a31796262aeb208bbe9ce48192970a8f018699b01715de2e3fd951b"
+    },
+    {
+      "old_path": "course-v2/sessions/01-first-working-plan.md",
+      "archive_path": "archive/pre-guided-promotion/course-v2/sessions/01-first-working-plan.md",
+      "sha256": "faaad5956ea3979515f9a9c99543451ed24fd8e8b040696988af2606aca28d98"
+    },
+    {
+      "old_path": "course-v2/sessions/05-tax-strategy.md",
+      "archive_path": "archive/pre-guided-promotion/course-v2/sessions/05-tax-strategy.md",
+      "sha256": "27648d6e457740e18893b4c09e05e5e8418762c88b0358e4cc74285f09743f40"
+    },
+    {
+      "old_path": "course-v2/sessions/00-start-here.md",
+      "archive_path": "archive/pre-guided-promotion/course-v2/sessions/00-start-here.md",
+      "sha256": "bd7dd5263f92aa2bf30db0d810ab3986fb516457641bed78d9039ae42daf4b4a"
+    },
+    {
+      "old_path": "course-v2/sessions/08-family-handoff.md",
+      "archive_path": "archive/pre-guided-promotion/course-v2/sessions/08-family-handoff.md",
+      "sha256": "c801f0215e18ad4b0e5cdfbc8aff585bd781b516c662124eb1740533889b5032"
+    },
+    {
+      "old_path": "course-v2/sessions/10-read-and-share-your-plan.md",
+      "archive_path": "archive/pre-guided-promotion/course-v2/sessions/10-read-and-share-your-plan.md",
+      "sha256": "639663dcfe4efdbb9e49dd3865a5ea7f5641aa0098ae60ad7cbe4e28fa7df148"
+    },
+    {
+      "old_path": "course-v2/advanced/02-access-custody-and-estate.md",
+      "archive_path": "archive/pre-guided-promotion/course-v2/advanced/02-access-custody-and-estate.md",
+      "sha256": "75570b229d7ec0ffaf6fb3973f432482887b493484e8862557b11be352758b59"
+    },
+    {
+      "old_path": "course-v2/advanced/01-modeling-financing-and-tax.md",
+      "archive_path": "archive/pre-guided-promotion/course-v2/advanced/01-modeling-financing-and-tax.md",
+      "sha256": "66516cc7cadf24b0dd23d274289de0ded445eeb081d581faf061b1da9fedfe00"
+    }
+  ],
+  "amendments": [
+    {
+      "file": "course-v2/sessions/04-allocation-and-next-dollar.md",
+      "reason": "Explain all four source-deck paths instead of referring to an unexplained visual."
+    },
+    {
+      "file": "course-v2/sessions/04-allocation-and-next-dollar.md",
+      "reason": "Restore the complete timeframe visual and distinguish investment horizon from account access."
+    },
+    {
+      "file": "course-v2/sessions/04-allocation-and-next-dollar.md",
+      "reason": "Remove source-document narration from spoken instruction."
+    },
+    {
+      "file": "course-v2/sessions/04-allocation-and-next-dollar.md",
+      "reason": "Explain the HSA / IRA / additional 401(k) branch instead of presenting unexplained account ordering."
+    },
+    {
+      "file": "course-v2/sessions/02-cash-flow-reserve-and-life-events.md",
+      "reason": "Add a fully reconciled college savings-gap example, two-child allocation, timing limits and affordability check."
+    },
+    {
+      "file": "course-v2/sessions/02-cash-flow-reserve-and-life-events.md",
+      "reason": "Give the learner an actual companion worksheet instead of a generic capability disclaimer."
+    },
+    {
+      "file": "course-v2/sessions/04-allocation-and-next-dollar.md",
+      "reason": "Work through actual holdings per account and teach asset location with account access and transaction costs."
+    },
+    {
+      "file": "course-v2/sessions/04-allocation-and-next-dollar.md",
+      "reason": "Finish the waterfall with an affordable future account-and-holding routing example."
+    },
+    {
+      "file": "course-v2/sessions/06-retirement-paycheck.md",
+      "reason": "Remove production instruction about personal medical stories from the read-aloud script."
+    },
+    {
+      "file": "course-v2/sessions/06-retirement-paycheck.md",
+      "reason": "Keep implementation/capture holds in production notes, not student narration."
+    },
+    {
+      "file": "course-v2/sessions/07-custody.md",
+      "reason": "Replace release-engineering language with a practical distinction and restore test."
+    },
+    {
+      "file": "course-v2/sessions/07-custody.md",
+      "reason": "Move capability testing out of spoken copy; keep existing capture gate."
+    },
+    {
+      "file": "course-v2/sessions/09-maintenance.md",
+      "reason": "Remove internal canonical-owner terminology from narration."
+    },
+    {
+      "file": "course-v2/advanced/02-access-custody-and-estate.md",
+      "reason": "Move production gating out of the advanced UTXO narration."
+    },
+    {
+      "file": "course-v2/advanced/02-access-custody-and-estate.md",
+      "reason": "Replace reference to an old deck with the actual professional decision."
+    },
+    {
+      "file": "course-v2/sessions/00-start-here.md",
+      "reason": "Retain explicit jurisdiction scope once in the orientation."
+    },
+    {
+      "file": "course-v2/DEMO-HOUSEHOLD.md",
+      "reason": "Correct the narrative fixture to match its existing JSON cash-flow convention."
+    },
+    {
+      "file": "course-v2/sessions/06-retirement-paycheck.md",
+      "reason": "Remove legacy-document narration while preserving the underlying teaching."
+    }
+  ]
+}

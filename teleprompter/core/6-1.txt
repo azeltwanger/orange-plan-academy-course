@@ -1,0 +1,23 @@
+A retirement date becomes useful when you can explain how the household pays for life after that date. Start with the spending, the income arriving independently of asset sales, and the gap the portfolio must cover.
+
+Build retirement spending from the life you actually expect. Some work-related costs may end. Travel, hobbies, family support, healthcare, and projects may increase. Separate essential spending from the flexible part you could change during a difficult period. A plan built on a lifestyle you would never choose is not a useful target.
+
+Keep irregular needs visible. The roof, a vehicle, helping a child, and a major home repair can make one year much more expensive than the next. Put a specific expected event on the timeline instead of assuming every retirement year is identical. Avoid counting an event once in annual spending and again as a separate expense.
+
+For a teaching example, Alex and Morgan consider ninety-six thousand dollars a year of everyday retirement spending plus twelve thousand for healthcare. That is one hundred eight thousand of lifestyle and healthcare spending in today's dollars. Taxes, remaining debt payments, and separate events still need to be included where applicable. Those categories must not disappear just because the first spending number looks manageable.
+
+Now build the income floor. Social Security, pensions, and other durable income can cover part of the need. Rental, business, part-time, dividend, and interest income can also help, but their reliability and costs differ. Rental receipts before repairs and vacancies are not the same as dependable household cash. A high distribution yield can also include risks or return of capital that deserve separate analysis.
+
+List each income source by person, amount, start date, end date where relevant, tax treatment, and inflation behavior. A pension without a cost-of-living adjustment loses purchasing power over time. A survivor election can change both the payment now and what remains for the spouse later.
+
+Subtract reliable income from the spending need using a consistent tax convention. If the household has one hundred eight thousand of lifestyle and healthcare costs and forty thousand of gross reliable income, the first rough gap is sixty-eight thousand before accounting for taxes, debt, and separate events. That rough subtraction orients you. The full model must include the other cash needs and income taxation.
+
+The gap changes over time. Before Social Security or a pension starts, the portfolio may fund almost everything. Later the income floor rises and the gap may shrink. A debt payoff can reduce it. Healthcare transitions, a spouse's work, and major expenses can change it again.
+
+This is why a single withdrawal percentage is not the entire retirement plan. Two households with the same portfolio can have very different gaps, access rules, and future income. The question is which assets fund which years under the life each household expects.
+
+For the Reed household, we will keep their proposed work-optional date separate from the date the model calculates. We will also model each spouse's timeline rather than treating the younger spouse as though every age-based event happens at the same time.
+
+In the working-session chapter, read the first retirement year, a year when reliable income begins, and a later year. Explain the spending, taxes, debt, income, and portfolio draw in each one. If a large withdrawal seems surprising, open the year detail and find the actual cause.
+
+Finish with a realistic spending target, a list of income sources and dates, and an initial year-by-year gap. The next steps show whether the right accounts are available to fund it.

@@ -1,0 +1,45 @@
+# 6.4 — Choose account withdrawals and asset sales separately
+
+Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Adapted source: `course-v2/sessions/06-retirement-paycheck.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+App references: accepted redesign direction; final screen behavior requires capture evidence.
+
+Kind: teach
+Gate: TAX_REVIEW
+Sources: RETIREMENT, RETIREMENT_DECK, TAX, APP, PRIMARY
+
+### Read aloud
+
+Now decide where the retirement cash comes from. There are two related choices: which account provides the money and which investment is sold inside that account.
+
+The account determines access and tax treatment. The holding determines market exposure and, in a taxable account, the gain or loss associated with the units sold. A Traditional IRA holding a Bitcoin fund and a taxable wallet holding Bitcoin may give similar market exposure but create different tax consequences when used for spending.
+
+Start with reliable income. Then identify the remaining cash need after taxes, debt, and events are accounted for. Determine which accounts can legally and practically fund that year. After choosing the account mix, decide which assets or lots provide the cash.
+
+A simple order might use taxable assets first, Traditional later, and Roth last. That can be a useful starting point, but following it mechanically can leave low ordinary-income years unused and concentrate taxable withdrawals later.
+
+Suppose a retiree spends from taxable money for years while a large Traditional balance keeps growing. Later, Social Security and required distributions begin. The household may have less control over the amount of ordinary income. An intentional Traditional withdrawal or conversion during an earlier low-income year may be worth comparing.
+
+A blended approach can use part of an ordinary-income bracket and fund the rest with taxable sales or qualified Roth money. The blend changes the gain recognized, current tax, remaining account balances, and future flexibility. It should be evaluated year by year instead of copied as one universal ratio.
+
+For an illustration, consider a twenty-thousand-dollar cash need. A fully taxable Traditional withdrawal generally adds twenty thousand of ordinary income before grossing up for any tax funding. A twenty-thousand-dollar taxable sale with sixteen thousand of basis creates four thousand of gain. A qualified Roth withdrawal has another treatment. The cash need is the same, but the amount and type of taxable income differ.
+
+The first twenty thousand withdrawn may not be enough to fund twenty thousand of spending plus the tax caused by that withdrawal. Read the model's tax and cash reconciliation rather than assuming gross withdrawal equals spendable money.
+
+Keep conversion funding separate too. A conversion can shift wealth between tax treatments without providing the household's spending cash. Its tax may need an additional sale or withdrawal. Counting the conversion as both Roth saving and available spending would overstate the plan's resources.
+
+Asset sale order deserves its own review. A concentrated household may prefer using other assets before Bitcoin. That preference should be tested against taxes, access, concentration, and later funding. Preserving every Bitcoin unit may require a trade-off the household does not actually want, while selling some in a favorable tax situation may be a practical choice.
+
+The Reed example compares the existing withdrawal order with a tax-aware blend while keeping spending and market assumptions consistent. We will read the first retirement year and a later required-distribution year. Any claimed benefit must come from the model, and any unsupported access or tax assumption must remain visible.
+
+In the working session, choose the supported account and asset priorities, preview one alternative, and inspect the actual sources of cash. Finish able to say which account funds the next retirement dollar, what is sold, and what tax or access rule applies. The Reserve then turns that annual strategy into a manageable payment routine.
+
+### Production notes
+
+Preserve strict-order tax-trap diagram from Retirement deck, updated to explain conditional comparison. Avoid asserting the engine optimizes the blend automatically. Cash need versus gross withdrawal versus conversion are three separate flows. Tax review before recording.
+
+### Member checkpoint
+
+- Separate account withdrawal priority from asset or lot sale priority.
+- Reconcile spending cash, tax funding, and conversions.
+- Compare one supported blend with the current strategy and read later effects.

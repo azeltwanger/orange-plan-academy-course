@@ -1,0 +1,45 @@
+# 6.6 — Compare selling, borrowing, and using other resources
+
+Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Adapted source: `course-v2/sessions/06-retirement-paycheck.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+App references: accepted redesign direction; final screen behavior requires capture evidence.
+
+Kind: teach
+Gate: TAX_LENDING_REVIEW
+Sources: RETIREMENT, DEBT, BRAIN, OWNER, APP, PRIMARY
+
+### Read aloud
+
+A Bitcoin-first retirement plan can use sales, borrowing, other assets, and reliable income in different combinations. The comparison should start with a specific cash need and show both the benefit and the risk of each funding method.
+
+Selling converts part of the position into spendable cash. The tax depends on the units sold, supported basis, holding period, other income, and current rules. It removes future upside on the units sold, but it also avoids adding a lender and a repayment obligation.
+
+Borrowing may preserve more Bitcoin initially and avoid a sale at that point. It adds interest, collateral requirements, lender exposure, and a repayment problem. The household may still sell later to repay, or face liquidation under the contract. Deferring a taxable sale does not make the entire lifetime funding path tax-free.
+
+Using another account can preserve Bitcoin too. That alternative may be simpler than borrowing, but its taxes, access, and effect on later years need to be read. Holding Bitcoin unchanged is only a complete strategy when another credible resource funds the spending.
+
+For a small tax-sensitive example, suppose a taxable sale would realize twenty thousand dollars of gain. The tax cost depends on the household's situation. Compare the actual estimated tax with the cumulative interest, fees, risk, and eventual exit of a loan. A low-gain sale in a low-tax year can be less costly than expected. A large low-basis sale in a high-income year may make borrowing worth evaluating, provided the household can support the risk.
+
+Borrowing repeatedly through retirement compounds the question. Interest may increase the balance, more collateral may be required, and the lender's terms may change. A plan that assumes perpetual refinancing needs to show what happens when refinancing is unavailable or Bitcoin remains weak for several years.
+
+Read the share of Bitcoin at the lender as well as LTV. A loan can be comfortable against its collateral and still place more of the family's wealth with one counterparty than the household wants. The simulation may model collateral mechanics without assigning a reliable probability to lender failure. That unmodeled risk still belongs in the decision.
+
+The app distinguishes three contexts. Existing loans are monitored in Debt. A possible future loan can be tested in Scenarios. A multi-year retirement borrowing policy belongs in the retirement-funding strategy. Keep those separate so a test does not appear as an actual liability and an actual loan does not disappear when a scenario is discarded.
+
+A hybrid strategy may sell within a chosen tax limit and borrow after that. Other supported approaches may use sales, borrowing, or custom phases. Read what the strategy actually does in the affected years. The name alone does not explain the amount, timing, collateral, or repayment assumption.
+
+An initial-LTV default is simply a model input. It is not a safety recommendation. Test the amount and collateral you intend to use against the actual contract, an immediate drawdown, higher rates, and a long weak period. Include the household rules written in the Debt session.
+
+For the Reed household, the comparison keeps spending, timing, and market assumptions consistent while changing the funding strategy. Read chance of success, Bitcoin sold or retained, loan balances, interest, collateral exposure, and any forced-sale behavior the engine actually models. A higher headline percentage does not automatically make the more leveraged option better.
+
+Finish with the funding approach you understand and are willing to operate. The household's preference for retaining Bitcoin is a legitimate input. It still needs a repayment, liquidity, and counterparty plan strong enough to support it.
+
+### Production notes
+
+D63: first decision layer, assumptions receipt, deeper year detail; preserve all modeled variables. Hybrid language is Sell within your tax limit, then borrow. Accepted future initial LTV 50% is never safe/optimal/recommended. Do not fabricate Monte Carlo liquidation frequency or counterparty-loss probabilities. No direct loan execution.
+
+### Member checkpoint
+
+- Compare the same cash need across funding choices.
+- Read tax cost, interest, collateral, provider exposure, and eventual repayment.
+- State which risks the household accepts and which remain unmodeled.

@@ -1,18 +1,23 @@
-# Advanced Library dictation order
+# Advanced dictation order
 
-The numbering now follows the restored core order: Module 3 is Allocation; Module 4 is Debt. Every lesson is optional.
+Read chronologically. Edit the canonical script when dictating; `teleprompter/` and masters are generated copies. Every clip remains an Austin-approval draft. A listed publication gate does not prevent dictating its durable explanation. Final product-dependent, tax, legal, insurance and device content requires the evidence described in FINALIZATION-STATUS.md.
 
-- **A1.1 · How Orange Plan models Bitcoin inside the confidence check** — Pre-dictation draft ready. Gate: Research complete. Record after the current Help & Methodology copy and production settings are checked against the same app commit used on camera.
-- **A3.1 · Use price context to name the emotion before a large Bitcoin move** — Pre-dictation draft ready. Gate: Ready after the current price-context data shown in the app is verified. This lesson is a decision check, not a market-timing system.
-- **A4.1 · Borrow against Bitcoin without turning a drawdown into liquidation** — Pre-dictation draft ready. Gate: Research complete. Verify the exact lender terms, margin-call rules, liquidation rules, custody model, and current app fields before recording any provider-specific example.
-- **A4.2 · The four ways debt can strengthen a plan, and how each one fails** — Pre-dictation draft ready. Gate: Ready as an educational mechanism lesson. Do not recommend a specific loan, lender, rate, or amount.
-- **A5.1 · RMD pressure and Roth conversions across the low-income window** — Pre-dictation draft ready. Gate: Research complete. Targeted CPA or EA review before publication; verify the current RMD age, brackets, Medicare rules, and healthcare interactions in the year of action.
-- **A5.2 · Harvest Bitcoin losses and gains without losing the tax story** — Pre-dictation draft ready. Gate: Research complete. Targeted CPA or EA review before publication; verify current digital-asset wash-sale treatment and lot-identification requirements before execution.
-- **A5.3 · State taxes and relocation: measure the lever before moving** — Pre-dictation draft ready. Gate: Research complete. Targeted CPA or state-tax attorney review before publication; verify both origin-state and destination-state residency rules.
-- **A6.1 · Health coverage between retirement and Medicare** — Pre-dictation draft ready. Gate: Verify all premiums, subsidy rules, membership terms, and HSA eligibility immediately before recording. CrowdHealth is personal experience and not insurance or a recommendation.
-- **A6.2 · Sell, borrow, or hold when the plan needs a year of spending** — Pre-dictation draft ready. Gate: Research complete. Targeted CPA or EA review before publication; verify lender terms and current basis-at-death law before relying on them.
-- **A7.1 · Passphrase, collaborative custody, and DIY multisig** — Pre-dictation draft ready. Gate: Research complete. Verify exact devices, wallet software, descriptors, provider roles, and recovery procedures before any setup-specific footage.
-- **A7.2 · What self-custody actually asks of you** — Pre-dictation draft ready. Gate: Research complete. Record as an operational-responsibility lesson; verify any named device or vendor behavior before mentioning it.
-- **A7.3 · Avoid custody concentration in one institution, vendor, or failure path** — Pre-dictation draft ready. Gate: Research complete. Verify provider and device facts before naming them; no vendor-specific recommendation is implied.
-- **A7.4 · UTXOs, dust, consolidation, and address use** — Pre-dictation draft ready. Gate: Research complete. Verify current wallet behavior and network fees before demonstrating; use a test wallet and never expose live addresses unnecessarily.
-- **A8.1 · Do you need a trust, and what job would it do?** — Pre-dictation draft ready. Gate: Research complete. State-licensed estate attorney signoff before publication; no template language or universal Bitcoin trust design is approved here.
+| Lesson | Read-aloud copy | Canonical script | Words | Publication gate |
+|---|---|---|---:|---|
+| A1.1 · Test an assumption without making the model tell you what you want | [Read](teleprompter/advanced/A1-1.txt) | [Edit](scripts/advanced/A1-1_test-an-assumption-without-making-the-model-tell-you-what-you-want.md) | 378 | APP_CAPTURE |
+| A3.1 · Build a Bitcoin-loan operating sheet from the actual contract | [Read](teleprompter/advanced/A3-1.txt) | [Edit](scripts/advanced/A3-1_build-a-bitcoin-loan-operating-sheet-from-the-actual-contract.md) | 359 | TAX_LENDING_REVIEW |
+| A3.2 · Compare financing terms that a simple payment hides | [Read](teleprompter/advanced/A3-2.txt) | [Edit](scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md) | 417 | LENDING_REVIEW |
+| A4.1 · Check price context before a large allocation change | [Read](teleprompter/advanced/A4-1.txt) | [Edit](scripts/advanced/A4-1_check-price-context-before-a-large-allocation-change.md) | 391 | OWNER_REVIEW |
+| A5.1 · Build a multi-year conversion comparison | [Read](teleprompter/advanced/A5-1.txt) | [Edit](scripts/advanced/A5-1_build-a-multi-year-conversion-comparison.md) | 360 | TAX_REVIEW |
+| A5.2 · Prepare a harvesting transaction that matches the tax record | [Read](teleprompter/advanced/A5-2.txt) | [Edit](scripts/advanced/A5-2_prepare-a-harvesting-transaction-that-matches-the-tax-record.md) | 391 | TAX_REVIEW |
+| A5.3 · Evaluate a state move as a household decision | [Read](teleprompter/advanced/A5-3.txt) | [Edit](scripts/advanced/A5-3_evaluate-a-state-move-as-a-household-decision.md) | 318 | TAX_ESTATE_REVIEW |
+| A6.1 · Compare healthcare and tax decisions in the same year | [Read](teleprompter/advanced/A6-1.txt) | [Edit](scripts/advanced/A6-1_compare-healthcare-and-tax-decisions-in-the-same-year.md) | 375 | HEALTH_TAX_REVIEW |
+| A6.2 · Test a multi-year sell-versus-borrow strategy | [Read](teleprompter/advanced/A6-2.txt) | [Edit](scripts/advanced/A6-2_test-a-multi-year-sell-versus-borrow-strategy.md) | 378 | TAX_LENDING_REVIEW |
+| A6.3 · Verify an early-retirement account-access route | [Read](teleprompter/advanced/A6-3.txt) | [Edit](scripts/advanced/A6-3_verify-an-early-retirement-account-access-route.md) | 411 | TAX_REVIEW |
+| A7.1 · Compare passphrase, multisig, and professional support | [Read](teleprompter/advanced/A7-1.txt) | [Edit](scripts/advanced/A7-1_compare-passphrase-multisig-and-professional-support.md) | 338 | DEVICE_CUSTODY_REVIEW |
+| A7.2 · Decide which custody responsibilities the household can maintain | [Read](teleprompter/advanced/A7-2.txt) | [Edit](scripts/advanced/A7-2_decide-which-custody-responsibilities-the-household-can-maintain.md) | 331 | CUSTODY_REVIEW |
+| A7.3 · Test correlated failures across providers and methods | [Read](teleprompter/advanced/A7-3.txt) | [Edit](scripts/advanced/A7-3_test-correlated-failures-across-providers-and-methods.md) | 363 | CUSTODY_REVIEW |
+| A7.4 · Understand UTXOs before consolidating coins | [Read](teleprompter/advanced/A7-4.txt) | [Edit](scripts/advanced/A7-4_understand-utxos-before-consolidating-coins.md) | 363 | DEVICE_CAPTURE |
+| A8.1 · Decide whether a trust has a job in the plan | [Read](teleprompter/advanced/A8-1.txt) | [Edit](scripts/advanced/A8-1_decide-whether-a-trust-has-a-job-in-the-plan.md) | 383 | ESTATE_TAX_REVIEW |
+
+The core has 51 clips (including optional college); the conditional Advanced library has 15. Working sessions and the device demonstration are listed separately in FILM-ORDER.md.

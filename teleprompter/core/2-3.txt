@@ -1,0 +1,23 @@
+The Reserve gives the household time when something goes wrong. For a Bitcoin-heavy plan, that can mean paying the bills through a market decline instead of needing to sell immediately.
+
+Start with your bare-bones monthly spending. This is the amount your household could run on during a stressful or unexpected situation, like losing a job, your business slowing down, or Bitcoin going through a major drawdown at the same time a car repair or medical bill comes up.
+
+Include the essential costs that remain: housing, food, utilities, insurance, healthcare, and required debt payments. Be clear about which payments the number includes. If the reserve worksheet already includes minimum debt payments, you do not add them again when calculating the target.
+
+Normal spending describes the life you usually live. Bare-bones spending describes the temporary level you could maintain when preserving cash matters. Both should be honest. A floor so low that your family could never follow it gives a false sense of protection.
+
+Multiply the monthly amount by the number of months you choose. In our example, Alex and Morgan's essential monthly outflow is seventy-two hundred dollars, including their required household debt service. Six months is forty-three thousand two hundred dollars. They have thirty-two thousand assigned to the Reserve, leaving an eleven-thousand-two-hundred-dollar gap.
+
+Six months is an example, not the answer for every household. Consider how stable the income is, how long replacing it could take, how many people depend on it, healthcare exposure, fixed payments, and the alternatives available during a bad year. A business owner with variable income may choose more runway than a household with two independent, reliable paychecks. Two salaries in the same industry may be less independent than they appear.
+
+Also consider what could happen at the same time. A large Bitcoin position, a variable-rate loan, and income tied to the market can all weaken together. The Reserve is most useful when it remains accessible under the conditions you are testing.
+
+Now decide what counts. Cash in a usable savings account can serve the reserve role. Money already committed to a near-term tax bill or purchase has another job. Retirement-restricted assets, pledged collateral, and a credit line that can be reduced are not automatically equivalent to available reserve cash. A holding's job and its asset type are separate: assigning something to the Reserve does not make a volatile investment stable.
+
+You can assign only part of an account where that reflects reality. Keep enough operating cash for the normal bill cycle, then identify the amount genuinely available for emergencies. The same dollars should not fully fund the Reserve and a vehicle purchase at the same time.
+
+While you are working, the Reserve helps cover lost income and unexpected costs. In retirement, its main job shifts toward covering the gap between spending and reliable income during a difficult market. We will calculate that retirement gap later. A retiree with meaningful Social Security or a pension may need a different amount than someone funding almost everything from assets.
+
+Choose a funding pace as well as a target. In the Reed example, five hundred dollars a month toward an eleven-thousand-two-hundred-dollar gap takes a little over twenty-two months, before interest or withdrawals. That may be acceptable alongside urgent debt reduction, or it may be too slow for their risks. Compare the pace instead of treating a saved target as a funded reserve.
+
+In the working session, I will show you how to enter the monthly basis and target months, identify what counts toward the Reserve, and review the target and gap. Orange Plan performs the supported calculation from those inputs. You will leave with a number, a reason for it, and a funding pace you can actually sustain.

@@ -1,0 +1,45 @@
+# 5.4 — Compare conversions with intentional withdrawals
+
+Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Adapted source: `course-v2/sessions/05-tax-strategy.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+App references: accepted redesign direction; final screen behavior requires capture evidence.
+
+Kind: teach
+Gate: TAX_REVIEW
+Sources: TAX, TAX_DECK, RETIREMENT, PRIMARY, APP
+
+### Read aloud
+
+A Roth conversion moves money from a Traditional retirement arrangement into Roth treatment. The taxable portion is included in income in the conversion year. The purpose is to compare paying that tax now with the treatment and flexibility you expect later.
+
+A large Traditional balance can create future required distributions. Growth increases the wealth available, but it can also increase future taxable withdrawals. The applicable starting age and distribution rules depend on the account, birth year, employment situation, and other conditions. Use the rules that apply to the person rather than one age repeated throughout a video.
+
+The conversion is one tool. An intentional Traditional withdrawal used for spending can also reduce the future balance. It may use an available tax bracket while funding a real need. Before age fifty-nine and a half, access rules and exceptions become part of that comparison.
+
+Keep a conversion separate from spending. If thirty thousand dollars is converted, that thirty thousand generally moves to the Roth account; it is not also available to pay the household's living costs. Any conversion tax needs a funding source. Spending money, conversion money, and tax money must be shown distinctly.
+
+For a simple example, assume an additional thirty-thousand-dollar conversion creates six thousand dollars of incremental tax under the selected hypothetical tax circumstances. The household must compare the benefit of the Roth position with the six thousand dollars used today and what that money would otherwise do. The actual tax is not obtained by multiplying the entire conversion by a convenient bracket when the income spans rates or changes other benefits.
+
+A conversion can reduce future taxes and still leave less after-tax wealth under some assumptions. It can also improve flexibility or future outcomes even when the immediate tax bill is uncomfortable. Compare after-tax resources, current liquidity, future withdrawals, healthcare effects, RMDs, and the intended beneficiaries. Lifetime tax savings alone cannot decide.
+
+For Alex and Morgan, the first comparison keeps spending and the retirement timeline constant. One version follows the current withdrawal plan. Another deliberately uses Traditional withdrawals where accessible. A third includes a measured conversion schedule with a separate tax-payment source. Then we examine the immediate cost and the later years.
+
+The lowest-income year is not always the best year for the largest conversion. A conversion can affect marketplace premium assistance, taxation of Social Security, Medicare premium adjustments in a later period, state tax, and other provisions. It can also consume cash needed to keep Bitcoin through a drawdown.
+
+Qualified Roth treatment has rules. Conversion amounts and earnings do not all share the same early-access treatment. Required distributions generally cannot simply be converted in place of satisfying the distribution requirement. These are reasons to verify the execution plan before moving money.
+
+A planned conversion schedule in Orange Plan remains a strategy. A completed conversion is an actual transaction record supported by the custodian's confirmation and tax documents. Recording completion should not create another planned conversion for the same amount, and moving a holding between accounts should not be used to hide the taxable event.
+
+In the working session, compare a bounded change and read the after-tax result alongside the cash cost. Save the planning choice only after understanding it, then prepare the CPA question before any execution. You may decide to convert a smaller amount, use a withdrawal instead, wait, or do nothing this year.
+
+Finish knowing the proposed amount or range, the tax-payment source, the years affected, and the facts the CPA must verify. That is a complete planning decision even while the actual conversion remains pending.
+
+### Production notes
+
+Use total after-tax wealth as primary product comparison per D48, with immediate tax/opportunity cost/RMD/healthcare context. Hypothetical $30,000/$6,000 is not a computed Reed tax result. IRS qualified distributions, conversion ordering, and RMD rules require professional verification before recording. Preserve planned/completed/transfer separation.
+
+### Member checkpoint
+
+- Compare conversion, spending withdrawal, and no-change alternatives.
+- Fund the incremental tax separately and review after-tax resources.
+- Separate a planned schedule from completed conversion records.
