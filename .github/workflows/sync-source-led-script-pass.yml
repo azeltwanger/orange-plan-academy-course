@@ -1,0 +1,81 @@
+name: Synchronize source-led script pass
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+    branches: [course-member-deliverables-20260908-ec021e3]
+permissions:
+  contents: write
+concurrency:
+  group: academy-source-led-script-pass
+  cancel-in-progress: false
+jobs:
+  synchronize:
+    if: github.event.pull_request.head.repo.full_name == github.repository && github.event.pull_request.head.ref == 'course-source-led-script-pass-20260908'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      EXPECTED_HEAD: ${{ github.event.pull_request.head.sha }}
+      TARGET_BRANCH: course-source-led-script-pass-20260908
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: ${{ github.event.pull_request.head.sha }}
+          fetch-depth: 1
+          persist-credentials: false
+      - name: Regenerate existing course reading copies and run existing checks
+        run: |
+          test "$(git rev-parse HEAD)" = "$EXPECTED_HEAD"
+          python tools/guided_course.py build
+          python tools/guided_course.py check
+          python tools/guided_course.py test
+          python -m unittest discover -s tests -p test_member_deliverables.py -v
+          python - <<'PY'
+          import importlib.util, subprocess
+          from pathlib import Path
+          root = Path.cwd()
+          spec = importlib.util.spec_from_file_location('guided_course', root/'tools/guided_course.py')
+          module = importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(module)
+          allowed = set(module.outputs(root)) | {'ARITHMETIC-CHECKS.json'}
+          changed = set(filter(None, subprocess.check_output(['git','diff','--name-only','HEAD'], text=True).splitlines()))
+          assert changed <= allowed, 'Unexpected non-generated tracked-file mutation'
+          deleted = subprocess.check_output(['git','diff','--name-only','--diff-filter=D','HEAD'], text=True).strip()
+          assert not deleted, 'Unexpected deletion'
+          print('Generated-only change scope verified:', len(changed), 'files')
+          PY
+      - name: Commit generated copies only to the dedicated course branch
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          if git diff --quiet; then
+            echo 'Generated layers already synchronized.'
+            git rev-parse HEAD
+            exit 0
+          fi
+          python - <<'PY'
+          import subprocess
+          paths = subprocess.check_output(['git','diff','--name-only','-z','HEAD']).decode().split('\0')
+          for path in filter(None, paths):
+              subprocess.run(['git','add','--',path],check=True)
+          PY
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Regenerate reading copies for accepted Reserve reference'
+          cat > "$RUNNER_TEMP/academy-askpass.sh" <<'SH'
+          #!/bin/sh
+          case "$1" in
+            *Username*) printf '%s\n' 'x-access-token' ;;
+            *Password*) printf '%s\n' "$GH_TOKEN" ;;
+          esac
+          SH
+          chmod 700 "$RUNNER_TEMP/academy-askpass.sh"
+          export GIT_ASKPASS="$RUNNER_TEMP/academy-askpass.sh"
+          export GIT_TERMINAL_PROMPT=0
+          trap 'rm -f "$RUNNER_TEMP/academy-askpass.sh"' EXIT
+          remote_head="$(git ls-remote origin "refs/heads/$TARGET_BRANCH" | cut -f1)"
+          test "$remote_head" = "$EXPECTED_HEAD"
+          git push origin "HEAD:refs/heads/$TARGET_BRANCH"
+          python tools/guided_course.py check
+          python -m unittest discover -s tests -p test_member_deliverables.py -v
+          git diff --exit-code
+          git rev-parse HEAD
+          git rev-parse 'HEAD^{tree}'
