@@ -25,8 +25,29 @@ jobs:
         run: |
           set -euo pipefail
           test "$(git rev-parse HEAD)" = "$GITHUB_SHA"
-          test "$(git rev-parse HEAD^)" = '3e54ae3fe2249d588e29d74646c9fae01d1655f9'
+          test "$(git rev-parse HEAD^)" = 'adc33ea217ddf857fe2e928a210ed4f118ca75f9'
           test "$(git hash-object scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md)" = '2c107a394a93cc877c73f011dfe37fb5ad3d94b1'
+          python - <<'PY'
+          from pathlib import Path
+          edits = {
+              'scripts/04-7_tell-each-account-what-to-buy-and-finish-the-outside-actions.md': [
+                  ('One route to compare is $1,000 toward personally held Bitcoin and $605 toward a broad stock fund in the taxable brokerage account.', 'One route to compare is one thousand dollars toward personally held Bitcoin and six hundred five dollars toward a broad stock fund in the taxable brokerage account.'),
+                  ('his workplace plan is 70% stocks and 30% Bitcoin-fund exposure.', 'his workplace plan is seventy percent stocks and thirty percent Bitcoin-fund exposure.'),
+                  ('His Roth IRA is 20% stocks and 80% Bitcoin-fund exposure.', 'His Roth IRA is twenty percent stocks and eighty percent Bitcoin-fund exposure.'),
+              ],
+              'scripts/04-3_match-the-money-to-when-you-will-use-it.md': [
+                  ('Alex would like work to become optional at 52. Age 59½ is about seven and a half years later.', 'Alex would like work to become optional at fifty-two. Age fifty-nine and a half is about seven and a half years later.'),
+              ],
+          }
+          for name, pairs in edits.items():
+              p = Path(name)
+              text = p.read_text()
+              for old, new in pairs:
+                  if text.count(old) != 1:
+                      raise ValueError('Unexpected source for spoken-number correction')
+                  text = text.replace(old, new, 1)
+              p.write_text(text, encoding='utf-8')
+          PY
           python tools/_prepare_session04_repair.py
           python -m py_compile tools/guided_course.py
           python tools/guided_course.py build
