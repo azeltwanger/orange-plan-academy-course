@@ -1,8 +1,8 @@
 # 3.6 — Write the rules before using leverage
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/03-debt-and-leverage.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
+Status: TEACHING_REWRITE_REVIEW — individual spoken replacement using the accepted Reserve approach. New wording awaits Austin's voice/judgment review; no recording or publication approval is implied.
+Adapted source: Austin debt playbook, accepted Core operating-rule scope and Reserve liquidity judgment; original sources recorded in HANDOFF.md.
+App references: written rules do not establish alerts, automations, lender action times or actual saved execution.
 
 Kind: teach
 Gate: LENDING_REVIEW
@@ -10,46 +10,76 @@ Sources: DEBT, BRAIN, OWNER, APP
 
 ### Read aloud
 
-Write the borrowing rules before the loan or the market puts you under pressure. Someone else should be able to read them and understand the purpose, the payment source, and when the household needs to act.
+Before taking on a loan, I would write down how you intend to carry it and how you will get out of it. Not because every debt needs a complicated policy, but because the decision is easier to make before a payment problem or market decline puts you under pressure.
 
-Start with permitted purposes. A short liquidity bridge, a business purchase, and buying Bitcoin may deserve different limits. Define what the facility may be used for and what it may never be used for. Available credit does not need to become a recurring source for ordinary spending.
+Start with the loan you're actually considering. If you're not planning to borrow, you can use the same questions to check an existing obligation. You don't need to take on new debt to finish this session.
 
-Then state the maximum obligation the household is willing to carry. Use monthly payment pressure, current and stressed leverage, and collateral exposure together. A single ratio cannot capture all three. Set the amount low enough that the repayment source remains credible after the scenario you consider unacceptable.
+First, write what the money is for and the most you're prepared to borrow for that purpose.
 
-For a collateralized loan, distinguish the lender's action threshold from your own review threshold. Waiting until the lender is allowed to liquidate leaves very little room to respond. Your threshold should give time to consider repayment, additional collateral, a controlled sale, or a smaller obligation. The appropriate numbers come from the actual contract and your available resources.
+A line may allow a larger amount than you intend to use. That doesn't make the unused amount part of the plan. If you later want to use it for something else, review that decision separately rather than assume the original approval covers every future purchase.
 
-Additional collateral also needs a limit. A promise to keep adding Bitcoin can eventually place far more of the family's holdings with a lender than originally intended. Decide how much exposure to that lender or method is acceptable, and which assets must remain available for other jobs.
+Set the amount from what the household can support, not only from what a lender will offer. Go back to the monthly payment, the stressed asset picture, and any collateral risk. A number that works on one measure can still be uncomfortable on another.
 
-Repayment should be specific. Salary over a defined period, cash already expected from a documented event, business cash flow after operating costs, or a planned asset sale are different sources. A hoped-for price rally is less dependable than a payment already scheduled. Refinancing remains uncertain until the new arrangement is actually available.
+Next, write how the payments will be made and how the principal will eventually be repaid.
 
-Put the dates that can change the obligation on the timeline: a rate reset, the end of an interest-only period, and a balloon or final repayment. Work backward from those dates. If the plan needs a sale or refinancing, leave time to assess it rather than assume a new loan will be available on the last day.
+Those may be different answers. You could cover monthly interest from income while planning to repay the principal from a sale. In that case, the sale has an amount and a deadline. What happens if you receive less than expected, or it takes longer?
 
-Choose the monitoring cadence for the actual risk. A conventional amortizing loan may fit the normal monthly review. A volatile-collateral loan can require more frequent alerts and attention. The annual course review is not sufficient monitoring for a fast-moving margin or liquidation risk.
+“We'll refinance” is something to investigate, not a complete fallback. You may be able to replace the loan, but the new lender, terms and approval still need to exist when you need them. Check what the household would do if they don't.
 
-Write down who is responsible and what happens if that person is unavailable. The spouse or trusted person does not need every detail of the model, but they need to know that an active obligation exists, whom to contact, and where the safe instructions begin. This connects the debt plan to the family-handoff session.
+This matters for a home-equity line with an interest-only period, a business loan with a large final payment, or any short-term borrowing against an asset you intend to hold for years. The life of the loan and the time you hope to own the asset can be very different.
 
-Finally, define no-go conditions. These might include an unfunded essential expense, a repayment plan that depends entirely on a new loan, an unclear contract, insufficient time to respond to collateral calls, or a spouse who would be exposed to a risk they have not agreed to carry.
+Put the important dates where you will see them. When does a rate reset? When does the payment change? When must the principal be repaid? Work backward from those dates so you have time to compare the options before the last payment is due.
 
-For Alex and Morgan, the current plan first addresses the high-rate card and the reserve shortfall. They can still compare strategic borrowing to understand the options. The comparison does not require them to add a loan now. Their saved baseline has no Bitcoin-backed loan unless and until an actual or deliberately adopted modeled strategy is entered in the correct place.
+Now decide what would make you act earlier.
 
-In the closing working-session chapter, we will record the chosen job for each debt, the extra-payment total, and the rules for any active or proposed facility. A possible future loan remains in Scenarios. An existing loan stays in Debt. Borrowing across retirement belongs with the retirement-funding strategy.
+For a household relying on variable income, that might be a loss of a major source of work or cash falling below the amount needed for essential bills. The response could be pausing extra investments, reducing optional spending, or reviewing the debt before the next payment becomes difficult.
 
-Read the rules aloud: this is what the debt is for, this is how we pay it, this is how much collateral or provider exposure we accept, and this is who responds when a trigger is reached. Keep the extra-debt amount tied to Cash Flow. With those choices recorded, we can decide what the remaining money should buy.
+A collateral-backed loan may need a more specific response point. The lender has thresholds or rights under the agreement. Your own review point should come before the situation you are trying to avoid—not simply repeat the liquidation number as though it were a comfortable limit.
+
+But don't stop at picking a percentage. What will you actually do when you reach it?
+
+You might repay part of the loan, add eligible collateral, arrange a controlled sale, or reduce the obligation in another permitted way. Identify the resource that would make that response possible. Money reserved for taxes or essential bills isn't automatically spare repayment money.
+
+Adding collateral needs its own limit. It can improve the current LTV while putting more of your assets into the same lending arrangement. If your only rule is to keep adding Bitcoin whenever the price falls, you could end up pledging much more of the family's holdings than you originally intended.
+
+Decide how much additional exposure you would accept and which resources need to remain available for other jobs. Then decide what you would do if that limit is reached. An unlimited promise to protect one loan can weaken the rest of the plan.
+
+Consider the time it takes to respond as well. An account balance isn't useful for a fast collateral demand if you can't move the money when it's needed. Market gaps, transfer delays, lender discretion and outages can leave less time than a smooth projection suggests.
+
+Monitoring helps you notice a problem. It doesn't guarantee you can prevent a forced sale. That is a reason to leave room in the original borrowing decision, not a reason to assume an alert makes a larger loan safe.
+
+Choose a review routine that fits the debt. A regular loan payment can be checked during the household's normal monthly review. A loan backed by a volatile asset may need much closer attention and lender alerts. Waiting for the annual plan review isn't a sufficient way to manage a rapidly changing collateral position.
+
+Write down who is responsible for that attention. Then think about what happens when that person is unavailable.
+
+Your spouse or trusted person should know that the obligation exists, where the safe instructions begin, and whom to contact. They don't need wallet recovery information written into this document. They do need enough context to recognize that a time-sensitive lending issue should not sit unread for a week. We'll connect that to the family handoff later in the course.
+
+Finally, write the conditions under which you would not proceed—or would reduce the plan before using it.
+
+An essential bill without funding is one. So is an agreement you don't understand, a principal repayment that depends entirely on another unapproved loan, or a response that requires money you cannot access. A household member who shares the consequences but hasn't agreed to the risk is another reason to stop and talk.
+
+For Alex and Morgan, the current decisions still need to support the reserve and the high-rate card. Their source balance sheet has no Bitcoin-backed loan. We can compare a borrowing idea without turning it into a new obligation just to complete a lesson.
+
+Read your own proposed rules back in ordinary language. What is this loan for? Where do the payments come from? How does it end? What would make you act earlier, and what money or collateral would you use? Someone reading the plan should be able to find those answers without guessing what you intended.
+
+Then bring the current debt decisions back to Cash Flow. Required payments have already been counted. The extra payments need to fit beside the reserve amount and the other commitments. Keep any proposed new loan separate until you deliberately choose it, and don't start using money that becomes available only after a future payoff.
+
+That is the handoff to Allocation. We know what the household needs to keep accessible and what extra debt payments are taking from the available money. Now we can decide what the remainder should buy—and how the next contribution changes once a debt is actually gone.
+
+### Visual notes — not spoken
+
+Use the existing debt/financing worksheet rather than add a new member workbook. Reveal purpose and amount, monthly funding, principal exit, relevant dates, personal action point, actual lender rights, response resources, maximum additional collateral, operator and backup as the explanation reaches each one. For a plain fixed loan, don't imply the member needs a Bitcoin collateral-monitoring setup.
+
+Use a response example with no invented LTV threshold: action point reached → named available resource → response time → remaining exposure/household cash. Show a limit on further collateral separately from the current LTV. Record actual contract numbers only when verified; no automatic app monitoring or safe default is implied.
 
 ### Production notes
 
-No universal leverage limits or provider promises. Do not label the app's accepted future 50% initial-LTV default safe, recommended, or optimal. Separate existing loan, hypothetical loan, and multi-year retirement strategy. Use current contract-specific terms at capture and preserve any capability limitation.
+The debt playbook supplies purpose, repayment, top-up/repay/no-go rules, maturity, monitoring and concentration. The accepted Reserve judgment keeps essentials funded and does not assume more credit will be available after an income interruption. No new fixed debt, cash or collateral limit is selected for the Reeds or members. W03 chapters 5–6 complete the written decision and the same-money handoff.
+
+The source's lifetime/retirement borrowing strategy remains in the retirement-income session, not silently activated by this lesson. Existing debts stay current facts; unchosen borrowing remains a comparison. Detailed A3.1/A3.2 instruction remains separately marked for repair. Targeted lending review, actual contract rights, approved app behavior and recordings remain open. No alert, operating sheet, test or financial result is claimed to have been performed by drafting this text.
 
 ### Member checkpoint
 
-- Define purpose, repayment, limits, triggers, maturity, and monitoring owner.
-- Set a limit on additional collateral and provider concentration.
-- Finalize the extra-debt claim before Allocation routes the remainder.
-
-### Source-led visual and teaching notes — not spoken
-
-A single loan operating sheet with purpose, payments, principal exit, personal review point, contractual action point, maximum additional collateral, primary operator and backup. Dates are explicit only when verified from the relevant contract.
-
-Editorial reason: Turn the risk list into an operating decision and a clean handoff to contribution routing.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+- Explain purpose, maximum obligation, payment funding, principal exit and the dates that can change the plan.
+- Choose an actionable review point, named response resources, exposure limit, monitoring owner and backup where relevant.
+- Keep the current affordable extra-payment claim separate from proposed loans and money released only after payoff; carry that claim into Allocation.

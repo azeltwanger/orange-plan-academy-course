@@ -1,8 +1,8 @@
 # 3.5 — Compare financing on equal terms
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/03-debt-and-leverage.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
+Status: TEACHING_REWRITE_REVIEW — individual spoken replacement using the accepted Reserve approach. New wording awaits Austin's voice/judgment review; no recording or publication approval is implied.
+Adapted source: current Core same-project and repayment examples; original strategic-debt scope and teaching sources recorded in HANDOFF.md.
+App references: actual offers, contract-specific modeling and outputs require separate verification.
 
 Kind: teach
 Gate: LENDING_REVIEW
@@ -10,46 +10,98 @@ Sources: DEBT, OWNER, BRAIN, PRIMARY
 
 ### Read aloud
 
-A fair financing comparison pays for the same thing on the same date. Then we compare what leaves the household now, what must be paid later, and what is at risk if the plan does not work out.
+A financing offer can look attractive because of the monthly payment. But a small payment doesn't tell you how much the arrangement costs, how long you will carry it, or what you still owe at the end.
 
-Suppose the Reeds are comparing a thirty-thousand-dollar project. Their current reserve assignment is thirty-two thousand. Paying the entire project from that money would leave two thousand assigned to the reserve, before any other change. The project might matter to them, but that cash is already doing an important job.
+We're going to compare the ways to fund the same need. Keep the purchase and the date the same at first. Then look at what each option asks of the household now and later.
 
-Financing preserves more cash initially but adds a payment or later settlement. Their reduced-spending phase already assigns the available surplus to the reserve and card. Before adopting another payment, we need to see which real spending or saving decision makes room for it. For this phase, keeping the project hypothetical, making it smaller, or delaying it is a useful result of the comparison.
+For the course example, suppose Alex and Morgan are comparing a $30,000 project. Start with paying cash.
 
-For every option, write the upfront cash used, the monthly payment, the total expected cost, the collateral at risk, and the repayment or settlement date. Include fees. A zero-interest promotional offer with deferred interest or a financing discount built into the purchase price needs its own careful comparison.
+They have $32,000 assigned to the reserve. Taking the full project cost from that money would leave $2,000 there. We have avoided a new loan, but we've also used money that was supposed to keep the household going through an interruption.
 
-Use both a payment view and a balance-sheet view. A twenty-thousand-dollar loan at eight percent over five years has a payment of roughly four hundred six dollars a month in a simple fully amortizing example with no fees. An interest-only version starts around one hundred thirty-three dollars a month, but the twenty-thousand-dollar principal remains. The smaller payment has not removed the cost of repaying principal.
+That consequence belongs in the comparison. “We have enough in the account” is not the same as “we can use it without affecting anything else.” They might have another resource available, but we need to identify it and its other commitments rather than assume every account balance is spare cash.
 
-A cash-out refinance can affect the entire old mortgage balance, not just the new dollars. Replacing a low fixed rate on a large balance to access a smaller amount of cash can be expensive. Compare the whole new schedule with the existing mortgage plus the alternative funding source.
+Selling an investment is another option. In a taxable account, look at the gain and any tax associated with the sale. The amount sold may need to be larger than the $30,000 needed for the project. It depends on the actual purchase history and the household's tax situation; we shouldn't make up a tax cost to finish the example.
 
-A securities-backed line and a margin loan also differ. A non-purpose securities-backed line generally cannot be used to buy or trade securities. A margin account has its own permitted uses and maintenance requirements. A lender can have rights to change requirements, demand repayment, or sell collateral. Do not assume a loan advertised against investments is a general-purpose way to buy more investments.
+Financing may leave more money in those accounts at the start. Now put the new payment beside the cash flow.
 
-Retirement-plan loans have another set of rules. They depend on the employer plan, available limits, repayment arrangements, and what happens when employment ends or repayment fails. The money may be out of the market while borrowed, and payroll repayment can affect new contributions. The fact that interest may be credited back to the account does not remove the opportunity cost or tax consequences of failure.
+In the reduced-spending example, the available $1,700 is already being compared as $500 for the reserve and $1,200 for extra card payments. Another loan payment needs room. Which spending amount, contribution, or project choice would change to make that possible?
 
-Bitcoin-backed borrowing exchanges an immediate sale for a secured obligation. Read the initial collateral requirement, ongoing interest, margin or top-up rules, liquidation process, and who controls the Bitcoin. Ask how much of the total stack becomes dependent on the lender. A low current LTV does not eliminate counterparty risk.
+For this phase of their plan, keeping the project as a possibility or doing it later can be the useful result. We don't need a loan to win the comparison.
 
-Tax treatment depends on the transaction and use of proceeds. Loan proceeds generally create an obligation rather than ordinary income at origination, but liquidation, cancellation, restructuring, and the eventual asset sale can have tax consequences. Interest deductibility is not established merely because an asset secures the loan. The use and applicable rules need professional review.
+Now let's examine why the structure of a loan matters, using a separate simple illustration.
 
-Now run the bad version. Income falls, variable rates rise, and the purchased asset or collateral declines. Can the payment still be made? Could a lender force a sale before the household's expected recovery? Does repayment rely on another loan? Which alternative leaves the family able to keep following the plan?
+Suppose you borrow $20,000 at 8% and repay it over five years, with no fees. A fully amortizing loan would require about $406 a month. Fully amortizing just means the scheduled payments pay off the balance by the end, assuming the terms and payments are followed.
 
-The payment is only part of the comparison. Check the principal still owed, the date it comes due, the assets pledged, and the terms that can change. When a special contract has a future settlement the ordinary loan calculation does not represent, have that settlement analyzed separately. A simple payment figure should not hide the rest of the agreement.
+An interest-only version at the same rate would cost about $133 a month while the balance stays at $20,000.
 
-Choose the version whose full cost and downside you understand, or decide not to proceed. Record the cash left afterward, payment, remaining obligation, repayment source, and any contract question still requiring review. A proposed loan is not an application, an approval, or an executed agreement.
+Why is the payment so much lower?
+
+Because you haven't been paying back the $20,000 as you go. After five years of interest-only payments, that principal is still owed. You need to have it available or have a workable way to repay it at the agreed time.
+
+In the amortizing example, total interest is about $4,332 over five years. In the interest-only example, keeping the full balance for all five years costs $8,000 in interest, and you still need to repay the original $20,000. Those are simplified examples, not loan offers. They show why we need the ending balance beside the payment.
+
+Interest-only can have a purpose. It might preserve cash during a period when that money has a useful job. But the benefit comes with a later obligation. Compare what you actually do with the money retained and how you will pay the principal—not just the payment that looks easier today.
+
+When you compare offers, include the fees and check whether they are paid upfront or added to the amount owed. Look at the rate, how it can change, the payment schedule, and the cost of ending the loan early. A zero-interest promotion also needs its full terms reviewed; an introductory label doesn't explain what happens when the promotional period ends.
+
+Different funding sources bring different questions. You only need to investigate the ones that fit your decision, but I want you to recognize what makes them different.
+
+With a conventional personal, auto, or equipment loan, start with the repayment schedule and what secures it. A longer term can make the payment smaller while keeping you in debt longer. A lower payment may still be useful; just understand how much comes from a better rate and how much comes from spreading repayment over more time.
+
+For a home-equity loan or line, your home is part of the agreement. A line may have a period when you can draw money and a later period when the balance must be repaid. The rate and payment can change, and access to further borrowing can be reduced under the terms. Read those parts before treating unused capacity as your fallback.
+
+A cash-out refinance is different from keeping the existing mortgage and adding a separate loan. It can replace the old mortgage itself. That means the new rate may apply to a much larger balance than the extra cash you wanted.
+
+For someone with a low fixed mortgage rate, compare the full new mortgage with the old mortgage plus the alternative funding arrangement. Looking only at the new cash misses the cost of changing the financing you already had.
+
+Seller financing or equipment financing can make a purchase possible without a conventional bank loan. The seller or financing company may let you pay over time. Look for a large final payment, restrictions on the asset, personal guarantees, and what happens if the business or purchase underperforms. A smaller amount due today can be paired with a larger amount due later.
+
+You may also encounter a home-equity investment or shared-appreciation contract. It can provide money without a regular monthly payment, in exchange for an obligation linked to the home and the contract's settlement formula.
+
+Don't force that into an ordinary interest-rate comparison. Ask what you would have to pay if the house rose, stayed flat, or fell, and what ends the agreement. The adjustment rules, fees, valuation and timing can matter. Someone needs to work through the actual settlement, especially if the payment will eventually require a sale or new financing.
+
+A line backed by a securities account needs another check: what are you allowed to use the money for?
+
+A non-purpose securities-backed line generally cannot be used to buy or trade securities. It isn't interchangeable with a margin loan. Both can involve collateral requirements and forced sales, but their permitted uses and terms differ. A familiar brokerage name doesn't mean every loan against the account works the same way. Don't assume another intended investment purchase is permitted without checking the agreement.
+
+A loan from an employer retirement plan has its own rules as well. First check whether the plan allows it, then the repayment terms and what happens when employment ends. Failure to repay can produce a taxable distribution and possibly additional tax.
+
+Even when interest goes back into the retirement account, the arrangement isn't cost-free. The borrowed amount is no longer invested in the same way, payments need room in cash flow, and the effect on ongoing retirement saving matters. “I'm paying myself interest” doesn't answer all of those questions.
+
+With Bitcoin-backed borrowing, read both the money and the custody side. How much Bitcoin must be pledged? Who controls it? What can trigger a request for more collateral or a sale? How much of the total Bitcoin position would become dependent on this lender?
+
+A lower starting LTV gives more price room under the terms we've illustrated. It does not tell you that the provider is safe or that you will always have time to respond. We will turn the actual repayment and response decisions into written rules in the next lesson.
+
+Unsecured borrowing avoids pledging a particular asset under that loan. It doesn't remove the debt or the consequences of failing to repay. This is why I wouldn't rank all of these choices from safest to riskiest based only on their names. Look at the payment, contract rights, collateral and household together.
+
+Tax treatment needs to fit the actual transaction too. Keeping an investment avoids selling it at that moment, but later sales, collateral liquidation or forgiven debt can have consequences. Whether interest is deductible depends on the use of the money and the applicable rules, not simply which asset secured the loan. Bring that specific question to the tax review before relying on a benefit.
+
+Once you understand an option, look at the disappointing version. Income comes in lower. A variable rate rises. The investment or collateral is worth less. The loan you expected to use for refinancing isn't available.
+
+What happens next? Can you continue paying, repay from another identified resource, reduce the purchase, or choose not to proceed? The comparison needs a response the household could actually carry out, not just a favorable ending balance.
+
+In the walkthrough, we will take one relevant financing option and put it beside cash or a sale, with the smaller-project or delay choice still visible. We will read the cash left afterward, payments, principal still owed, and repayment source. Any important term the app doesn't represent needs separate analysis before we rely on the result.
+
+You finish this step with a choice you can explain—or a specific contract question that needs answering before a choice is possible. Comparing an offer doesn't mean you have applied, qualified, or agreed to borrow. Now let's write down the conditions you would need to keep following if you chose to use it.
+
+### Visual notes — not spoken
+
+Keep the $30,000 project comparison separate from the $20,000 repayment illustration. Project cash option: $32,000 assigned Reserve − $30,000 = $2,000; other resource availability and tax are not assumed. The $1,700 reduced cash-flow pool is already claimed in the existing Reserve/card comparison.
+
+For the separate repayment graphic, use principal $20,000; fixed nominal annual rate 8%; monthly rate 0.08/12; 60 end-of-month payments; no fees. Payment = P*r/(1-(1+r)^(-60)) = $405.527885768…; total interest $4,331.673146… before display rounding. Interest-only payment $133.333…; 60 months' interest $8,000; ending principal $20,000. Show ending principal prominently. Neither is a Reed loan quote or an engine result.
+
+Introduce funding structures in small groups, with only the relevant distinguishing term on screen. A comparison row needs upfront cash, fees, payments, rate changes, ending balance/settlement, collateral and permitted use. Do not present a universal safest/cheapest ladder or pretend every contract can be modeled in the app.
 
 ### Production notes
 
-Worked amortization is illustrative, not a quote. Verify with fixture test. Mandatory distinctions: SBLOC non-purpose restriction, margin callability, home-equity contractual settlement, retirement-plan loan default/separation, tax use-of-proceeds. Do not claim the app models every creative-financing structure.
+Preserve all accepted Core distinctions: conventional/personal/auto/equipment financing; HELOC/home-equity loan; whole-balance cash-out refinancing; seller finance; shared-appreciation settlement; non-purpose SBLOC versus margin; plan loans; Bitcoin-backed lending; tax use-of-proceeds. The new explanation expands the already-present repayment calculation rather than inventing a favorable loan proposal.
+
+Narrow primary checks read September 8, 2026, separate from Austin's teaching framework: CFPB comparison beyond monthly payment, https://www.consumerfinance.gov/ask-cfpb/how-do-i-compare-auto-loan-offers-what-should-i-look-at-besides-the-monthly-payment-en-753/ ; CFPB HELOC, https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-equity-line-of-credit-heloc-en-107/ ; CFPB home-equity contract overview, https://www.consumerfinance.gov/data-research/research-reports/issue-spotlight-home-equity-contracts-market-overview/ ; FINRA SBLOC, https://www.finra.org/investors/insights/securities-backed-lines-credit ; IRS plan loans, https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-loans . Exact loan, tax, notice and collateral rights still need transaction-specific review; these references are not blanket professional approval. No rate quote, tax saving, loan eligibility or asset classification is certified.
+
+W03 chapter 4 must keep unsupported contract terms in the existing reviewed worksheet, explain the limitation and hold any dependent conclusion. Do not simulate a missing feature, force a shared-appreciation contract into a zero-rate loan, or use invented basis. Detailed lender/account operating work stays in the conditional Advanced lessons, whose teaching repair remains pending.
 
 ### Member checkpoint
 
-- Compare the same need across funding sources.
-- Read principal repayment as well as the initial payment.
-- Record unsupported contract terms and obtain their review before execution.
-
-### Source-led visual and teaching notes — not spoken
-
-Project comparison uses $30,000 throughout; reserve-funded version $32,000 − $30,000 = $2,000. Keep the separate $20,000 / 8% / five-year amortizing-versus-interest-only illustration visibly separate from that project. Include ending principal as a column.
-
-Editorial reason: Complete a concrete liquidity/affordability comparison while retaining full financing-contract distinctions.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+- Compare the same purpose and timing, with cash remaining and other commitments visible.
+- Explain the payment, fees, principal/settlement still owed later, collateral and permitted use.
+- Identify the weaker-case response and any missing contract or tax analysis before choosing or executing financing.
