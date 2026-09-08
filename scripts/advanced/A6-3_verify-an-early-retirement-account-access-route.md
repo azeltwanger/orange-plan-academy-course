@@ -1,6 +1,6 @@
 # A6.3 — Verify an early-retirement account-access route
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/advanced/02-access-custody-and-estate.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -11,7 +11,7 @@ Use when: taxable assets alone do not cover early years or a special access rule
 
 ### Read aloud
 
-Start with the amount and year you need to fund. Then identify the exact account and the rule that could make it available. Early access is an account-specific planning problem.
+Before relying on early retirement money, identify the exact account, year and access rule. The question is not whether an exception exists somewhere; it is whether your planned distribution qualifies and remains workable afterward.
 
 Regular Roth IRA contributions have distribution-ordering treatment different from conversion amounts and earnings. Keep the contribution and conversion records needed to support the amount you plan to use. A five-year rule for a conversion and the requirements for a qualified Roth distribution are related concepts with different jobs.
 
@@ -29,7 +29,9 @@ For Alex and Morgan, first price the actual gap and test whether contribution ro
 
 The planning sheet should identify the account, expected distribution, tax treatment, exception relied on, evidence required, and actions that would invalidate the plan. Have a qualified tax professional verify it before the first distribution or rollover.
 
-Return to the retirement-paycheck plan with the approved access assumptions and a recordkeeping process. A technically possible exception is useful only when the household can execute and maintain it correctly.
+A rollover illustrates why the order matters. A workplace-plan access route can be useful for a particular separation date, while moving that money to an IRA can change the route. Review the bridge before submitting the rollover. For a rigid periodic-payment arrangement, also ask whether the household can maintain the required schedule when spending or markets change. Technical eligibility is only part of a usable plan.
+
+Return with the amount, timing, exact account, evidence and conditions for the chosen access path. Have the tax professional verify it before the first dependent distribution or rollover. Keep each spouse's records separate and name the actions that could invalidate the plan.
 
 ### Production notes
 
@@ -40,3 +42,17 @@ IRS Pub590-B, early-distribution exception chart, and SEPP guidance. No individu
 - Identify the exact account, amount, year, and access rule.
 - Verify rollover and ongoing-compliance consequences.
 - Obtain review before any distribution dependent on an exception.
+
+### Source-led visual and teaching notes — not spoken
+
+Account / person / year / amount / rule / evidence / invalidating action. Keep regular Roth contributions, conversions and earnings separate; no single unlock icon for all retirement accounts.
+
+Editorial reason: Make early-access rules a verified account-specific action sequence, especially before a rollover.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+
+### Advanced demonstration plan — not spoken
+
+Inspect one bridge year and the actual account intended to fund it. Review the distribution route, tax treatment and ongoing obligations, then compare the same need with accessible taxable resources. Use no individualized SEPP output without complete inputs and professional review. Return to 6.2 and 4.3.
+
+Use this with the linked core working chapters; it does not create another required lesson or claim an app/device test was performed. Record precise controls and actual outcomes only after the relevant gate is met.

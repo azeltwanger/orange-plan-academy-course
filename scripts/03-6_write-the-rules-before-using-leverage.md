@@ -1,6 +1,6 @@
 # 3.6 — Write the rules before using leverage
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/03-debt-and-leverage.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: DEBT, BRAIN, OWNER, APP
 
 ### Read aloud
 
-A borrowing plan needs rules that can be followed when conditions are worse than they are today. Write them while you have time and alternatives.
+Write the borrowing rules before the loan or the market puts you under pressure. Someone else should be able to read them and understand the purpose, the payment source, and when the household needs to act.
 
 Start with permitted purposes. A short liquidity bridge, a business purchase, and buying Bitcoin may deserve different limits. Define what the facility may be used for and what it may never be used for. Available credit does not need to become a recurring source for ordinary spending.
 
@@ -22,7 +22,7 @@ Additional collateral also needs a limit. A promise to keep adding Bitcoin can e
 
 Repayment should be specific. Salary over a defined period, cash already expected from a documented event, business cash flow after operating costs, or a planned asset sale are different sources. A hoped-for price rally is less dependable than a payment already scheduled. Refinancing remains uncertain until the new arrangement is actually available.
 
-Give the plan a maturity review. Know when a rate changes, an interest-only period ends, or a balloon becomes due. Those dates belong on the timeline well before they arrive. A loan can be manageable today and difficult at the next reset.
+Put the dates that can change the obligation on the timeline: a rate reset, the end of an interest-only period, and a balloon or final repayment. Work backward from those dates. If the plan needs a sale or refinancing, leave time to assess it rather than assume a new loan will be available on the last day.
 
 Choose the monitoring cadence for the actual risk. A conventional amortizing loan may fit the normal monthly review. A volatile-collateral loan can require more frequent alerts and attention. The annual course review is not sufficient monitoring for a fast-moving margin or liquidation risk.
 
@@ -34,7 +34,7 @@ For Alex and Morgan, the current plan first addresses the high-rate card and the
 
 In the closing working-session chapter, we will record the chosen job for each debt, the extra-payment total, and the rules for any active or proposed facility. A possible future loan remains in Scenarios. An existing loan stays in Debt. Borrowing across retirement belongs with the retirement-funding strategy.
 
-You are done when every obligation has a purpose, a repayment source, a review trigger, and someone responsible. That is what lets debt become a deliberate planning tool rather than a decision you have to improvise during a market decline.
+Read the rules aloud: this is what the debt is for, this is how we pay it, this is how much collateral or provider exposure we accept, and this is who responds when a trigger is reached. Keep the extra-debt amount tied to Cash Flow. With those choices recorded, we can decide what the remaining money should buy.
 
 ### Production notes
 
@@ -45,3 +45,11 @@ No universal leverage limits or provider promises. Do not label the app's accept
 - Define purpose, repayment, limits, triggers, maturity, and monitoring owner.
 - Set a limit on additional collateral and provider concentration.
 - Finalize the extra-debt claim before Allocation routes the remainder.
+
+### Source-led visual and teaching notes — not spoken
+
+A single loan operating sheet with purpose, payments, principal exit, personal review point, contractual action point, maximum additional collateral, primary operator and backup. Dates are explicit only when verified from the relevant contract.
+
+Editorial reason: Turn the risk list into an operating decision and a clean handoff to contribution routing.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

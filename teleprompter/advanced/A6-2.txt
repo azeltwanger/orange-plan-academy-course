@@ -1,4 +1,4 @@
-A retirement borrowing strategy needs to be evaluated across many years. Preserving more Bitcoin in the first year is only one part of the outcome.
+A borrowing strategy that preserves Bitcoin this year still has to fund later spending and repay the debt. Follow the policy through difficult years and the exit, not just the first year's retained balance.
 
 Hold the spending, retirement timing, and market assumptions constant. Compare the current funding plan with the proposed policy. Read the annual cash need, sales, loans, interest, debt balance, collateral, and eventual repayment. Include the years after a weak market, not only the years when price growth easily covers the debt.
 
@@ -14,4 +14,6 @@ Estate assumptions deserve particular caution. Inherited basis, the taxable esta
 
 For the Reed household, a borrowing scenario must preserve the current reserve and early-access needs and must not silently create an actual loan record. If the family eventually adopts a policy, it moves through the supported Preview and save flow. An executed loan is recorded separately with its real terms.
 
-Return to Retirement Income with one chosen funding policy, an explicit explanation of the additional risks, and a review rule. A decision to use limited sales and decline recurring borrowing can be just as complete as choosing a carefully bounded loan strategy.
+For the Reeds, compare the same household spending under sales, another available funding source, and the proposed borrowing policy. Inspect a year after weak returns. Has interest added to the loan, is more Bitcoin pledged, and what resource is still available to respond? A favorable final balance can hide a difficult period the household would have had to survive first.
+
+Return with one funding policy, its repayment and estate assumptions, the risks not measured by the simulation, and a review rule. Declining recurring borrowing is a complete decision. No strategy is established by the phrase 'never sell' when its later obligations remain unexplained.

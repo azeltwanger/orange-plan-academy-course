@@ -1,6 +1,6 @@
 # A3.2 — Compare financing terms that a simple payment hides
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/advanced/01-modeling-financing-and-tax.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -11,7 +11,7 @@ Use when: a large purchase, business acquisition, or home-equity offer has compl
 
 ### Read aloud
 
-A complex financing offer needs a cash-flow schedule and an exit calculation. The starting payment is only one line.
+A small starting payment can hide a large later obligation. Compare the whole schedule and exit before choosing a complex financing offer, including what changes when the interest-only period or promotional terms end.
 
 Begin with the same purchase price, amount financed, and date across alternatives. Record cash paid at closing, recurring payments, fees, principal remaining each year, and any balloon or settlement. Then identify what happens after a rate reset or the end of an interest-only period.
 
@@ -29,7 +29,9 @@ For the Reed renovation comparison, include a smaller project and a delay alongs
 
 Use Orange Plan only for the terms its engine can faithfully represent. Keep a separate reviewed schedule for an unsupported balloon, contingent settlement, or other contract feature. Do not substitute a normal amortizing loan and call the full agreement modeled.
 
-Return to the core plan with the total obligation, the collateral exposure, a credible repayment path, and a decision on whether the complexity is worth it. The simplest acceptable financing can be more useful than an arrangement whose economics the household cannot explain.
+Use the earlier interest-only illustration as a check. The lower monthly payment does not remove the twenty-thousand-dollar principal. If the intended repayment is refinancing, ask what the household does when a lender declines. For the Reeds' renovation, keeping the project smaller or waiting can be a better fit for the current cash flow than accepting a payment shape they cannot explain through its final settlement.
+
+Return with the cash used now, payments, remaining principal or contingent settlement, collateral, and a credible exit. Keep any term the model cannot represent in a separately reviewed comparison. An unusual structure earns its place only when its benefit is worth the cost and added responsibility.
 
 ### Production notes
 
@@ -40,3 +42,17 @@ CFPB HELOC/home-equity-contract and FINRA SBLOC/margin sources. No financing pro
 - Compare full schedules and exit obligations.
 - Verify use restrictions, guarantees, and reset/default provisions.
 - Label unmodeled terms and obtain contract review.
+
+### Source-led visual and teaching notes — not spoken
+
+Full financing schedule, not just monthly payment: upfront cash, annual payments, principal remaining, reset and exit. Keep the $20,000 illustration distinct from the $30,000 renovation comparison.
+
+Editorial reason: Use the unpaid-principal question to make complex financing a complete decision.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+
+### Advanced demonstration plan — not spoken
+
+Compare the same purpose and date across the actual candidate structures, plus smaller/delay. Inspect a reset and final settlement, and test a refused refinance. Show unsupported home-equity-contract or balloon terms in a labeled external schedule rather than fake app fields. Contract and tax review precede execution. Return to 3.5–3.6.
+
+Use this with the linked core working chapters; it does not create another required lesson or claim an app/device test was performed. Record precise controls and actual outcomes only after the relevant gate is met.

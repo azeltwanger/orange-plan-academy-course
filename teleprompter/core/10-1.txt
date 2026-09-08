@@ -1,10 +1,10 @@
-The completed plan should help you answer four questions. Where do we stand? Where are we headed? What could change the answer? What are we doing next?
+Read the finished working plan in the order you would explain it to your household: where we stand, how the money supports the life we want, what could change the answer, and what we are doing next.
 
 Start with the current position. Read the accounts, assets, debts, and net worth. Check which assets are included in the retirement-funding picture and which have a separate job. A home, education account, or pledged Bitcoin position should not quietly become unrestricted cash because it appears in a total.
 
 Then explain the monthly system. What does the household normally spend? What is available after taxes and required obligations? How much is assigned to the Reserve, extra debt, and new investment? Which employer contributions are additional benefits rather than spendable household income?
 
-For Alex and Morgan, that explanation connects the first account inventory to the spending change, the card-payoff plan, and the contribution waterfall. The numbers should reconcile across those views. A discrepancy is something to resolve, not a detail to skip because the retirement chart looks attractive.
+For Alex and Morgan, the explanation needs to identify which phase it describes. The original cash flow, the reduced-spending/card-payoff phase, and the later contribution route are different states. The household summary must match the saved plan being read. It cannot combine today's debt with money available only after payoff or use a proposed spending reduction as an accomplished fact.
 
 Next read the trajectory. State the planned retirement date, the earliest modeled date, the chance-of-success result, and the horizon used. Identify the active assumptions. Explain the early-retirement gap and the income or account-access changes that reduce it later.
 
@@ -20,6 +20,6 @@ Finish with the next actions. Choose the few that matter now and distinguish a s
 
 The report should adapt to the household. Someone with no borrowing strategy does not need a chapter full of irrelevant loan controls. A member without children does not need a college obligation added merely because the demonstration household has one. Use the sections that explain the actual plan.
 
-In the working session, we will read the supported Your Plan output in this order and compare it with the underlying records. Save the annual readable copy and note its date and assumptions. The encrypted app-data backup has a different restoration purpose and stays separately protected.
+We'll read the actual plan alongside the Household Plan Summary and its filled example. Trace the important numbers back to the records and the same calculation. If a result is still provisional or a material fact is missing, say what remains open and which decision depends on it. A polished report does not settle an unanswered funding question.
 
-You are done when the report reads like your household's decisions, not a stack of unfamiliar numbers. The final lesson checks whether you can explain those decisions to someone else.
+Save a dated readable plan and summary that explain the same facts, choices and limitations. Keep the restoration backup separate. The final check is whether you can tell another person how this plan works without narrating every line of a chart.

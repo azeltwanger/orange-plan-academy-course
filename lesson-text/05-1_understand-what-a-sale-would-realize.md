@@ -1,6 +1,6 @@
 # 5.1 — Understand what a sale would realize
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/05-tax-strategy.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,13 +10,15 @@ Sources: TAX, TAX_DECK, DICTATION, PRIMARY
 
 ### Read aloud
 
-The first tax question is what you paid for the investment you might sell. That is the starting point for understanding the gain or loss.
+Before comparing the tax cost of a sale, separate the cash you receive from the gain you realize. The purchase history helps explain that difference, and the units properly identified for sale can change it.
 
 For Bitcoin, each acquisition can create a lot with its own quantity, acquisition date, and basis. The records need to explain which units were acquired and which were later disposed of. A current market value tells you what the holding is worth today. It does not tell you the taxable gain.
 
 Use the example from the tax deck. One purchase was a quarter of a Bitcoin at fifty-eight thousand dollars per coin, for fourteen thousand five hundred dollars. Another was half a Bitcoin at sixteen thousand per coin, for eight thousand dollars. A third was two-tenths at fifty-two thousand, for ten thousand four hundred dollars. For this simplified example, we leave fees out and identify that assumption explicitly.
 
-Now suppose you sell two-tenths of a Bitcoin at a teaching price of one hundred thousand dollars per coin. The proceeds are twenty thousand dollars. If the units properly identified as sold come from the first lot, their allocated basis is eleven thousand six hundred and the gain is eighty-four hundred. From the second lot, the basis is thirty-two hundred and the gain is sixteen thousand eight hundred. From the third, the basis is ten thousand four hundred and the gain is ninety-six hundred.
+Now sell two-tenths of a Bitcoin at the hypothetical price on screen. Every version produces twenty thousand dollars of proceeds before fees. The table shows the allocated basis and gain from each of the three purchases. The gains range from eighty-four hundred to sixteen thousand eight hundred.
+
+The sale amount has not changed. What changed is the cost of the units identified as sold. You can use that comparison before selling, but only for units and an identification process the records actually support. The smallest displayed gain does not prove the real sale can use that lot.
 
 The amount sold and cash received are identical. The gain differs because the acquisition cost differs. Holding period can also affect treatment. Fees, adjustments, and the actual identification rules have to be included for a real transaction.
 
@@ -30,7 +32,7 @@ Lot selection also needs a process. An app setting such as highest-in-first-out 
 
 For now, collect the purchase date, quantity, amount paid, known fees, and transfer history you can substantiate. Keep uncertain details visibly uncertain. A blank cost basis is a record problem to resolve, not evidence that the asset was acquired for free.
 
-In the working session we will inspect a small set of lots, compare the gain on a hypothetical sale, and trace one transfer. Finish able to explain why proceeds and taxable gain are different. That skill will help with retirement withdrawals, harvesting, and the decision to sell or borrow.
+Choose a holding you may need to use and identify the records required to explain its sale. You should be able to distinguish proceeds, basis, gain, and holding period. We will resolve missing history before relying on it for the tax-sensitive decision, while continuing the planning work that does not depend on it.
 
 ### Production notes
 
@@ -41,3 +43,11 @@ Original three-lot deck example retained. All sale prices are hypothetical and t
 - Explain proceeds, allocated basis, gain, and holding period.
 - Trace an own-account transfer without resetting acquisition history.
 - Identify the records and process needed before an actual lot-specific sale.
+
+### Source-led visual and teaching notes — not spoken
+
+Use the original three-lot table with the same 0.2 BTC sale and $20,000 proceeds: basis $11,600 / $3,200 / $10,400; gain $8,400 / $16,800 / $9,600. Fees are omitted only in this labeled illustration. No fabricated acquisition dates or claim the lowest-gain lot is automatically legal to select.
+
+Editorial reason: Reduce the recital of arithmetic while connecting lot comparison to a supported actual decision.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

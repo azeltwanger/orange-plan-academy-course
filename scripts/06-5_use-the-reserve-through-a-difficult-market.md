@@ -1,6 +1,6 @@
 # 6.5 — Use the Reserve through a difficult market
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/06-retirement-paycheck.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: RETIREMENT, RETIREMENT_DECK, CASHFLOW, APP
 
 ### Read aloud
 
-In retirement, the Reserve can help fund the spending gap while the portfolio is under pressure. Its job is connected to sequence risk: the order in which returns and withdrawals happen.
+The retirement reserve gives you another source of cash when selling investments would be uncomfortable. To use it well, decide how much gap it covers, what refills it, and what you will do if the weak market lasts longer than the cash.
 
 Use a simple two-year example. Start with one million dollars and withdraw fifty thousand at the beginning of each year. In the first sequence, the investment falls twenty percent in year one and rises twenty-five percent in year two. After the first withdrawal and decline, seven hundred sixty thousand remains. After the second withdrawal and the rebound, the ending value is eight hundred eighty-seven thousand five hundred.
 
@@ -24,15 +24,15 @@ If the relevant monthly portfolio-funded gap were six thousand dollars, twelve m
 
 A refill rule matters as much as the target. You need to decide when the reserve is used, when assets refill it, which assets provide the refill, and what happens near the hard floor. The strategy should fit the spending policy and available accounts.
 
-During a weak period, it may be reasonable to pause a discretionary refill and use cash already set aside. But a falling market cannot become a permanent instruction never to sell. If cash approaches the floor, the household still needs a funding decision: lower flexible spending, use another source, make a controlled sale, or reconsider the plan.
+During a weak period, it may be reasonable to use cash already set aside and postpone a discretionary refill. But follow the cash balance forward. What would happen if the market stayed weak until the reserve approached its floor? Name the response before reaching that point: reduce flexible spending, use another credible source, make a controlled sale, or change the plan. A cash buffer buys time; it does not remove the need to fund the next bill.
 
 A strong market also does not require an automatic sale regardless of taxes or needs. Review the target, the upcoming gap, the current allocation, and the consequences of replenishing cash. Refill enough to serve the job rather than making cash a constantly expanding holding with no purpose.
 
 The Reserve, Bridge, and long-term funding diagram is useful for explaining the flow. Its arrows represent funding decisions, not three accounts that automatically refill each other without tax, access, or market consequences. The actual assets and account rules still determine what can happen.
 
-In the working session, read the chosen reserve policy alongside the annual withdrawal plan. Show the current cash available, the target, the floor, and a weak-market year. Use the supported model's behavior; if the desired refill rule is not implemented, document that limitation rather than promising the simulation used it.
+We'll put the reserve decision beside the annual withdrawal plan and inspect a weak-market year. Identify the cash available, the target, the floor, and the money that would refill it. Then check that the funding is counted once. A transfer into the reserve changes the location or job of money; it doesn't create another portfolio balance.
 
-Finish able to explain how the next year of spending gets funded and what would cause you to change the refill decision. That is a practical operating rule the household can use when the market is uncomfortable.
+Explain how the coming year's gap is funded, when you would refill the reserve, and what changes near its floor. Keep that rule connected to spending and account access. We will compare sales, borrowing and other resources next, using the same cash need.
 
 ### Production notes
 
@@ -43,3 +43,11 @@ Exact sequence example tested in fixture: beginning-of-year withdrawals, -20%/+2
 - Explain sequence risk with withdrawals, not average returns alone.
 - Size the reserve from a clearly defined retirement gap.
 - Name refill sources, review conditions, and a response near the floor.
+
+### Source-led visual and teaching notes — not spoken
+
+Retain the exact two-year sequence graphic with beginning-of-year $50,000 withdrawals and $887,500 versus $910,000 endings. Show reserve funding source → cash reserve → spending; no automatic refill arrows or duplicate assets. The $6,000 monthly-gap sizing examples remain separate illustrations.
+
+Editorial reason: Complete the reserve operating choice with an explicit long-weak-market response and nonduplicative funding.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

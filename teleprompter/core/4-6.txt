@@ -1,4 +1,4 @@
-Traditional versus Roth is a choice about when income tax is paid. The right comparison starts with the tax benefit available today and the tax treatment expected when the money is used.
+Traditional versus Roth is a decision about paying income tax now or later. To compare it fairly, start with the same pretax money and follow what is left after the relevant taxes—not just which account shows the larger balance.
 
 A deductible Traditional contribution can reduce taxable income now. The account grows under its retirement tax rules, and taxable withdrawals generally create ordinary income later. A Roth contribution uses money already subject to tax; qualified withdrawals can be tax-free. Eligibility, contribution rules, and distribution conditions still apply.
 
@@ -18,6 +18,8 @@ Current cash flow matters too. Switching an employee contribution from Tradition
 
 Access also matters. A Roth IRA has ordering rules for contributions, conversions, and earnings. A Roth workplace plan is not identical to a Roth IRA. A rollover or early withdrawal can change the available path. Do not rely on a broad statement that all Roth money is freely accessible.
 
-For the Reed household, we will compare Traditional, Roth, and a split using the same contribution goal and a clearly stated tax assumption. The example does not need to declare one permanent winner. It needs to show which current and future facts would make the household choose differently.
+For the Reeds, the next step is to compare the current election with Roth or a split using the same economic budget and clearly stated tax assumptions. Their current tax election and exact tax effect are not established by the account label. We will not choose a permanent winner before those facts are entered.
 
-In the working-session chapter, review the available tax-treatment choice, its effect on cash flow, and any planning comparison the app supports. Record the intended election, then confirm it with the employer or custodian. Revisit the decision when income, employment, or the retirement timeline changes.
+A useful answer explains both ends: what happens to take-home pay now and what income or flexibility the household expects later. If a change leaves less cash today, that reduction has to fit alongside the reserve and debt choices already made.
+
+Record the election you intend to use and the reason, or the one tax question preventing the choice. Confirm it with payroll or the custodian before treating it as implemented. Revisit it when income, retirement timing, or the expected tax picture changes.

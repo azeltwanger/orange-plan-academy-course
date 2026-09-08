@@ -1,6 +1,6 @@
 # 7.2 — Prove recovery before meaningful money depends on it
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/07-custody.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: CUSTODY, DICTATION, PRIMARY
 
 ### Read aloud
 
-A backup becomes useful when you know what it restores and have proved the process. The first recovery attempt should happen under calm conditions, using a small test arrangement rather than the family's only funded wallet.
+Before meaningful money depends on a backup, prove what it restores. Practice in a separate small test setup and follow the official procedure for your actual wallet. A calm test should answer a specific recovery question without putting the main holding at risk.
 
 A hardware wallet is a signing device. Your Bitcoin is recorded on the network; the device protects the information used to authorize transactions. Losing the device can be recoverable when the correct backup and required wallet information remain available. Losing the only usable recovery material can be a very different problem.
 
@@ -28,11 +28,13 @@ A passphrase requires special care. It is an additional exact input that can cre
 
 For multisig, test the intended signing threshold and retain the wallet policy or configuration information needed for recovery. Having enough seed backups is not automatically proof that heirs can reconstruct the correct wallet. The recovery plan must include compatible tools and the information required by that particular setup.
 
-For Alex and Morgan, the direct-custody pool remains a documented open action until the test succeeds. The account can be listed in Orange Plan without pretending recovery is proven. Once the test is complete, they record that it was tested and the next review date, while the secret material stays outside the financial-planning app.
+For Alex and Morgan, a successful practice-wallet recovery proves that practice procedure on that setup. It does not automatically prove the backup of a different, already funded wallet. Keep the direct-custody pool's status open until the relevant recovery material and method have been safely verified.
+
+Use the appropriate non-destructive backup check or professionally reviewed recovery process for the actual setup. Record what was tested and what remains untested, without storing the secret material in the financial-planning app.
 
 The separate device demonstration shows this process on the exact hardware, firmware, and backup method used for filming. Follow the official instructions for your own setup. Stop when a step differs materially from what is shown rather than improvising with funded assets.
 
-You are finished when you have verified what information is required, proved recovery using the safe test procedure, and made the process maintainable. Buying a device and writing down words are preparation. The evidence that matters is a successful recovery of the intended wallet.
+Be able to explain which backup, any additional secret or configuration, and which compatible procedure are needed for the intended wallet. Record only the test actually completed and its scope. When a step differs from the demonstration, stop and consult the official instructions rather than improvise with funded assets.
 
 ### Production notes
 
@@ -43,3 +45,11 @@ D07 exact-device gate: official instructions, authenticity, backup standard, fir
 - Identify the complete recovery information for the actual setup.
 - Validate the backup before any destructive test.
 - Record a successful small-value recovery and the next review date.
+
+### Source-led visual and teaching notes — not spoken
+
+Practice setup versus actual holding: make the scope of proof visible. Retain device/PIN/recovery-backup/passphrase distinctions. Show only non-secret checks and the intended recovered test wallet; sensitive material stays off camera.
+
+Editorial reason: Prevent a practice test from being misrepresented as proof of a different funded wallet's recovery.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

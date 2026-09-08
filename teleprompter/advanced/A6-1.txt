@@ -1,4 +1,4 @@
-The income number used for healthcare assistance is not always the same as the cash the household spends. That distinction can make the tax and coverage decisions interact.
+A tax move can change the cost of healthcare in the same year or a later one. Compare the full effect using one consistent income picture before deciding how much to withdraw or convert.
 
 A taxable sale can provide spending cash while only the gain enters the relevant income calculation. A taxable Traditional withdrawal or Roth conversion can add much more income for the same amount of cash moving. Qualified Roth distributions and cash already held have different treatment. Use the current rules for the specific program.
 
@@ -14,4 +14,6 @@ HSA contributions need a separate eligibility check. Current law, the actual cov
 
 A non-insurance option should be compared with clear retained risk. Its lower scheduled payment is not equivalent to an insurance policy's covered-benefit obligation. Review current terms, exclusions, and the household's ability to carry unfunded costs.
 
-Return to the core plan with a realistic coverage cost, the correct dates for each person, and a tax decision reviewed under the same assumptions. Before leaving existing coverage or executing a material conversion, verify the current quotes, eligibility, enrollment deadlines, and tax interactions with the appropriate professionals.
+Suppose you are comparing a conversion with leaving the account alone. Read the additional income tax, then the change in net coverage cost under the current program rules. If assistance falls, that difference belongs in the same comparison. You may still choose the conversion for a useful future benefit, but the immediate cost is larger than the income-tax line alone. No particular reduction in assistance is assumed until the actual household and year are calculated.
+
+Return to the core plan with coverage dates and costs that agree with the tax assumptions, plus the enrollment and execution checks still needed. Verify current quotes and eligibility before leaving existing coverage. Do not build the decision on a prior year's subsidy or HSA rule without checking it.

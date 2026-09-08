@@ -1,6 +1,6 @@
 # 2.2 — Free up money without cutting the life you value
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/02-cash-flow-reserve-and-life-events.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: CASHFLOW, MASTER, CLIENT_THEMES
 
 ### Read aloud
 
-Once you know what a normal month costs, look for money that could do a more useful job. Some spending is essential. Some is worth every dollar to you. Some continues because you have not looked at it recently.
+Where could you free up money without cutting something you value? I would start with spending you would be happy to change, then examine the larger commitments only when the improvement is worth what you give up.
 
 Use three decisions: keep, cut, or reduce. Keep the expense when it supports the life you want or meets a real obligation. Cut it when it provides little value. Reduce it when you still want the service but could get the same result for less.
 
@@ -18,7 +18,9 @@ Start with recurring decisions. An unused subscription, a phone plan, insurance 
 
 Then look at the large fixed costs. Housing, transport, location, and the way the household earns income can change the plan more than a long list of tiny purchases. These decisions take more thought because they affect the family. Compare them with the actual benefit, rather than assuming the cheapest version is automatically the best life.
 
-For the Reed example, we will test twelve hundred dollars a month of lower everyday spending. Some comes from recurring bills and some from a deliberate change in flexible spending. That raises the available pool before employee contributions from twelve hundred seventy-five to twenty-four hundred seventy-five dollars. After the existing seven hundred seventy-five employee contribution, seventeen hundred remains for the Reserve and extra debt.
+For Alex and Morgan, we will test the twelve-hundred-dollar monthly spending reduction used in the course example. Their normal living costs move from ten thousand eight hundred to ninety-six hundred. After the existing costs and Alex's employee contribution, the available amount rises from five hundred to seventeen hundred. That is a different version of their cash flow, not money we have discovered in the original budget.
+
+Before using the larger amount, they need to identify which changes produce it and when those changes take effect. Until then, the extra twelve hundred is a proposal. The later reserve and card-payoff example depends on that reduction actually being sustainable.
 
 That change is a teaching scenario until the household actually chooses and implements it. A planned cancellation does not make a bill disappear today. Once the change is real, the current spending baseline can be updated. This distinction prevents the plan from depending on savings that never reach the bank.
 
@@ -30,7 +32,7 @@ The next step is deciding what receives the freed money. A useful change can dis
 
 For a Bitcoin household, recurring saving matters because it gives you a way to accumulate through ordinary market conditions without needing one perfect entry. The amount you can invest still depends on the household staying operational. Cash needs, interest costs, and future bills remain part of the plan.
 
-Choose one to three changes worth making. Write the expected monthly effect, when it starts, and what action makes it real. Then check the next statement. The useful result is money that actually becomes available and has a chosen job.
+Choose the next change you are willing to make and give it an amount, an owner, and a date. After it happens, check the real saving and update the plan. Keep a worthwhile part of your life on purpose rather than cutting it only to produce a better-looking projection.
 
 ### Production notes
 
@@ -41,3 +43,11 @@ Use Keep/Cut/Reduce and the large-cost levers from the deck. The $1,200 reductio
 - Choose one to three recurring changes with actual start dates.
 - Separate genuine savings from tax-payment timing.
 - Assign the freed money only after it becomes available.
+
+### Source-led visual and teaching notes — not spoken
+
+Keep / Cut / Reduce beside an original-versus-proposed cash-flow comparison. Show $500 → $1,700 only after the explicitly proposed $1,200 reduction. Show the outside action that would make a recurring saving real.
+
+Editorial reason: Make the spending improvement a real decision with implementation and an honest effective date.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

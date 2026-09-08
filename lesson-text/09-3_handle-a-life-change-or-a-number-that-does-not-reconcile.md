@@ -1,6 +1,6 @@
 # 9.3 — Handle a life change or a number that does not reconcile
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/09-maintenance.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,11 +10,13 @@ Sources: MAINTENANCE, FOUNDATION, CLIENT_THEMES, APP
 
 ### Read aloud
 
-A material change deserves attention when it happens. Waiting for the annual review can leave the household using a plan that no longer represents its situation.
+When life changes, handle the immediate cash need first, update the relevant facts, and then decide whether the strategy should change. When a number looks wrong, trace it to its source before trying to repair the result.
 
 An income loss, a new debt, a large medical cost, a move, a death, an inheritance, or a major purchase can change both the current position and future cash flow. Start with the facts that actually changed. Then separate the immediate cash decision from the longer-term strategy review.
 
-Suppose the Reed household's variable income falls. The first questions are whether the bills remain covered, how much reserve is available, and which discretionary claims can change. After the immediate position is clear, they can compare revised contributions, debt payments, spending, and the work-optional date.
+Suppose the Reeds' variable income falls. First check essential bills, required debt payments and available cash. Then identify which flexible spending, extra debt payments or contributions can change. A household with dependents and no other reliable income may put more weight on retaining liquidity during that interruption.
+
+Keep the income loss as the factual change. A different contribution route or later work-optional date is a response to compare. Changing both silently would make it hard to understand what caused the new result.
 
 An unexpected windfall also needs a deliberate process. Confirm the amount, ownership, tax treatment, and timing before treating it as money available to invest. A future inheritance remains uncertain until the relevant facts support it. Adding a large optimistic event can otherwise make a weak plan appear funded.
 
@@ -30,7 +32,7 @@ Once the facts are corrected, decide whether the strategy still fits. A lower ba
 
 Preserve a before-and-after explanation for consequential changes. Write the source fact, the decision made, and the outside action required. This helps you and your spouse understand the plan later and gives a professional reviewer the context behind the numbers.
 
-In the working session, we will show one income change and one account discrepancy. We will update the account or income record where it belongs, review the resulting plan, and keep a proposed strategy separate until saved. Finish when the plan tells the updated truth and the next action is clear.
+Record the source fact, the correction or decision, its effect, and the next outside action. An unresolved question stays unresolved; snoozing it or hiding an account does not settle it. Return to the ordinary review only after the updated plan describes the situation you actually have.
 
 ### Production notes
 
@@ -41,3 +43,11 @@ D38 guided recovery: known facts → missing decision → relevant resolution �
 - Correct the factual change at its source.
 - Separate resolution from snoozing and actual facts from new strategy.
 - Record the consequence and one next action.
+
+### Source-led visual and teaching notes — not spoken
+
+Known fact → immediate funding issue → source correction → strategy comparison → receipt and next action. Use one income interruption and one synthetic account discrepancy. No balancing purchase, fake cash, backdated inheritance or invented tax basis.
+
+Editorial reason: Connect the event-response process to the approved liquidity judgment and traceable factual correction.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

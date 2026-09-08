@@ -1,4 +1,4 @@
-Choose a custody arrangement the household can maintain during ordinary life and under stress. Technical capability today is only part of that decision.
+Decide which custody responsibilities you and your household can realistically maintain. The right arrangement needs to work during ordinary life and when the person most comfortable with the technology is unavailable.
 
 List the recurring responsibilities. Maintaining backups, checking provider changes, verifying addresses, managing authentication, updating devices, testing recovery, and keeping the family process current all take attention. A procedure you are unlikely to repeat should not be the only protection for life-changing assets.
 
@@ -12,4 +12,6 @@ Use small test operations to find gaps. Can you verify a destination? Restore th
 
 If the work is excessive, simplify. Fewer independently maintained methods may be better than a large collection of accounts and backups with unclear ownership. Professional support can be a deliberate choice when it solves a real operational need, subject to its own risks.
 
-Finish with the responsibilities you will own, the ones a provider or professional will handle, and the way you will verify they remain covered. Return to the core custody choice with a process the household will actually use.
+Suppose one member of the household is comfortable operating the wallet and the other prefers a documented process with professional help. The handoff can respect both. The second person needs to recognize the first safe action and the right contact; they do not need every secret or technical detail in the opening letter. Check that the designated support actually provides the role you are relying on.
+
+Return with responsibilities assigned, a backup starting path, and a test that shows what still needs work. Simplify or add appropriate support when a critical responsibility has no reliable owner. Professional help is a deliberate trade-off, not a claim that operational or counterparty risk disappears.

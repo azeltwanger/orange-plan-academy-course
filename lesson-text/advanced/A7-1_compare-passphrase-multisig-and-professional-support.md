@@ -1,6 +1,6 @@
 # A7.1 — Compare passphrase, multisig, and professional support
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/advanced/02-access-custody-and-estate.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -11,7 +11,7 @@ Use when: the basic custody arrangement leaves a named failure that another arch
 
 ### Read aloud
 
-Begin with the failure you want to address. A passphrase, multisig, and professional custody solve different problems and create different responsibilities.
+Choose a more advanced custody arrangement only after naming the failure it needs to address. A passphrase, multisig, professional custody and collaborative support solve different problems and require different recovery information.
 
 A passphrase changes the wallet derived from the recovery material. It adds another exact secret to preserve. A wrong passphrase can produce a different valid wallet, which makes testing and documentation important. It does not create a second cryptographic signer or a legal approval process.
 
@@ -27,7 +27,9 @@ Use a non-secret comparison table: protection gained, new failure introduced, re
 
 Before moving meaningful funds, conduct a small-value test using current vendor instructions. Verify the complete recovery path, not merely the ability to sign one transaction today. Involve the professional needed for the actual arrangement.
 
-Return to the core custody map with the simplest architecture that meets the household's requirements and can be maintained over time. A complex setup that only one person understands has not solved the family problem.
+Test the proposed improvement under the failure you named. If a component or provider is unavailable, can the remaining resources recover the intended wallet under that actual setup? A second device is not automatically a second signer, and a passphrase is not a substitute for a tested threshold policy. Adding complexity helps only when the household can still maintain and recover the arrangement.
+
+Return with the simplest method that meets the household's control and continuity needs, the risk it still retains, and the exact safe test required. Keep configuration and secrets in the protected recovery process, not the ordinary family worksheet.
 
 ### Production notes
 
@@ -38,3 +40,17 @@ Exact BIP39/passphrase and multisig configuration claims need current primary ve
 - Name the failure each proposed architecture addresses.
 - Test the complete recovery path and dependencies.
 - Document the non-secret choice and retained risks.
+
+### Source-led visual and teaching notes — not spoken
+
+Protection gained / new responsibility / failure retained / recovery requirements / family starting path. No secret strings, descriptor contents or universal passphrase-split design.
+
+Editorial reason: Evaluate advanced custody against a specific unavailable-component case rather than complexity or wealth level.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+
+### Advanced demonstration plan — not spoken
+
+Compare the actual methods using public specifications and the relevant provider agreement. Rehearse the non-secret absence path and separately verify the claimed signing/recovery combinations on a safe test setup. A practice test does not certify a different funded wallet. Return to 7.1–7.2 and 8.2.
+
+Use this with the linked core working chapters; it does not create another required lesson or claim an app/device test was performed. Record precise controls and actual outcomes only after the relevant gate is met.

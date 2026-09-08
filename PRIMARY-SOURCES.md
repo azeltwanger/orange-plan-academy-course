@@ -29,3 +29,23 @@ Editorial verification date: 2026-09-07. Research checks mechanisms and flags cu
 Verify the actual year's tax, credits, required distributions, deductions, wash-sale/identification rules, benefit eligibility and account facts. IRS documents do not authorize a recommended allocation, tax-basis reconstruction method or exact conversion amount. State residency, trusts, fiduciary duties, beneficiary documents and insurance coverage require appropriate jurisdictional/contract review. Wallet configuration and device-specific recovery need current official documentation and an independent test of the exact setup.
 
 The course deliberately avoids unsupported universal tax-free borrowing, automatic positive spreads, guaranteed Bitcoin recovery, no-risk custody or no-forced-sale claims. The numerical examples are arithmetic illustrations, independently checked in ARITHMETIC-CHECKS.json; they are not calibrated financial-model results.
+
+## Source-led completion: targeted rechecks — 2026-09-08
+
+This is targeted primary-source verification of the distinctions preserved in the edit, not a blanket legal/tax/device sign-off. No new provider quote, current market price or modeled household result is certified. Recheck at recording/execution.
+
+- IRS 2026-15 IRB, Notice 2026-20: eligible 2026 broker-held digital-asset identification relief is conditional; it does not make any app ordering setting automatically compliant. https://www.irs.gov/irb/2026-15_IRB
+- IRS Publication 590-B: Roth contribution/conversion/earnings ordering and distinct clocks; actual distribution facts matter. https://www.irs.gov/publications/p590b
+- IRS early-distribution exception table: IRA versus employer-plan exceptions, qualifying separation and governmental 457(b) distinctions. https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-exceptions-to-tax-on-early-distributions
+- IRS SEPP guidance: rigid duration/method and improper-modification consequences require account-specific review. https://www.irs.gov/retirement-plans/substantially-equal-periodic-payments
+- IRS 2026-02 IRB, Notice 2026-5: current HSA coverage changes; no assumption every high-deductible or low-premium plan qualifies. https://www.irs.gov/irb/2026-02_IRB
+- IRS premium-tax-credit FAQ: use coverage-year income/eligibility and current advance-credit reconciliation, not a prior year's expanded terms. https://www.irs.gov/affordable-care-act/individuals-and-families/questions-and-answers-on-the-premium-tax-credit
+- FINRA SBLOC guidance: non-purpose use restrictions, variable rates, collateral changes and demand/forced-sale risk. https://www.finra.org/investors/insights/securities-backed-lines-credit
+- CFPB HELOC guidance: draw/repayment terms, rate and credit-availability conditions. https://www.consumerfinance.gov/ask-cfpb/what-is-a-home-equity-line-of-credit-heloc-en-107/
+- CFPB home-equity-contract overview: contingent future settlements can remain even with no monthly payment. https://www.consumerfinance.gov/data-research/research-reports/issue-spotlight-home-equity-contracts-market-overview/
+- Bitcoin developer block-chain guide and Bitcoin fee guide: UTXOs, spending and transaction size/fee-rate distinction; no current fee or universal dust threshold adopted. https://developer.bitcoin.org/devguide/block_chain.html and https://bitcoin.org/fees/
+- Trezor passphrase explanation: an exact different passphrase can lead to a different valid wallet; this is semantic verification, not approval of a device or recovery demonstration. https://trezor.io/guides/backups-recovery/advanced-wallets/what-is-a-passphrase
+- Microsoft primary passkey documentation: phishing-resistant, relying-party-bound credentials; no guarantee against every takeover or weak recovery path. https://learn.microsoft.com/en-us/entra/identity/authentication/concept-authentication-passwordless
+- NAIC disability consumer guidance: definition, limits, offsets, waiting period and duration differ by policy. No standard replacement percentage or waiting period is prescribed in the script. https://content.naic.org/article/consumer-insight-simplifying-complications-disability-insurance
+
+Estate authority, trust design, actual insurance contracts, loan agreements, program eligibility and manufacturer/model-specific recovery remain subject to their existing targeted professional/device gates. Historical provider claims in source decks are not treated as current endorsements.

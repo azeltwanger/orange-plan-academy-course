@@ -1,4 +1,4 @@
-A trust should solve an identifiable legal or family problem. Start with the job before choosing a structure.
+Start with the legal or family job a trust would solve. Owning Bitcoin by itself does not tell you which trust to use, and signing a trust document does not complete the account and custody work needed to make it useful.
 
 The household may want continuity during incapacity, coordinated administration, privacy, a distribution arrangement for children, management for a vulnerable beneficiary, or planning for tax or creditor concerns. Each objective requires different analysis. Simply owning Bitcoin does not identify which trust, if any, is appropriate.
 
@@ -14,4 +14,6 @@ The trust also needs to be funded and coordinated with the other assets. Signing
 
 For Alex and Morgan, the initial question is whether their legal baseline and beneficiary arrangements solve the family needs. If a trust adds a useful job, they prepare the ownership inventory, intended beneficiaries, desired control, custody methods, and questions for the attorney. If no additional job exists, completing the baseline is a valid outcome.
 
-Return to the family-handoff plan with a professional-reviewed decision, any funding or beneficiary actions, and an operational process matched to the documents. The course worksheet organizes the conversation; the attorney creates and reviews the legal arrangement.
+Compare the proposed trust with the simpler baseline. If the need is a clear beneficiary designation and a usable family starting process, identify what extra job the trust adds. If the need is continuing management or controlled distributions for a child or vulnerable beneficiary, explain that specific objective to the attorney. The custody and successor arrangements then need to support the actual legal design, not a generic Bitcoin clause.
+
+Return with a professionally reviewed decision, the funding or beneficiary actions it requires, and the people responsible for operating it. Keep revocability, tax classification, legal control and practical signing authority distinct. The worksheet organizes the conversation; it does not create or validate the trust.

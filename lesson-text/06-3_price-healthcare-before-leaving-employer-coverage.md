@@ -1,6 +1,6 @@
 # 6.3 — Price healthcare before leaving employer coverage
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/06-retirement-paycheck.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: RETIREMENT, OWNER, PRIMARY, BRAIN
 
 ### Read aloud
 
-Healthcare deserves a specific plan before the paycheck stops. Price the available paths and the risk each one leaves with the household.
+Before leaving employer coverage, find out what the replacement would cost and what risk the household would still carry. We need a real coverage path for each person, including the years when spouses reach Medicare at different times.
 
 Start with when existing coverage ends and who still needs coverage afterward. One spouse may remain employed. One may reach Medicare before the other. Children may remain on the household plan for a period. Build the timeline by person rather than assigning one family cost indefinitely.
 
@@ -30,11 +30,13 @@ Compare pre-existing-condition treatment, waiting periods, prescriptions, exclus
 
 Get the current terms in writing and compare them with the risks your household is willing and able to carry. Discuss the insurance-specific questions with an appropriately licensed professional before ending coverage you still need.
 
-For Alex and Morgan, create an annual comparison for each realistic path. Include expected premiums or membership costs, a normal-use estimate, and a high-cost-year exposure. Then model the years before each spouse's Medicare transition. Keep uncertain assistance and non-guaranteed funding visible rather than treating them as assured income.
+For Alex and Morgan, compare only the paths actually available for the relevant year. Put the scheduled premium or membership cost beside expected out-of-pocket costs and a high-cost-year test. Then list important exclusions, provider access, prescriptions and transition requirements. A smaller monthly amount does not settle the choice when it leaves a much larger uncovered bill or a doctor outside the arrangement.
+
+Use the same income assumptions as the tax comparison. A conversion or realized gain that changes assistance can change the true cost of the coverage. The model, current quote and program rules need to describe the same household and year.
 
 Medicare does not mean healthcare spending becomes zero. Enrollment timing, premiums, supplemental choices, prescriptions, and out-of-pocket costs still need a plan. Review enrollment requirements separately from when you claim Social Security.
 
-The working-session chapter enters the selected planning cost and timing, then compares any income-sensitive tax strategy alongside it. Finish with a coverage path, a cost range, a transition date, and the questions that must be answered before leaving current coverage. That turns an open-ended concern into a decision you can evaluate.
+Keep the chosen planning path, annual cost range, dates, and the questions to resolve before ending existing coverage. Use current written terms and appropriate licensed guidance. A lower projected healthcare line is useful only when it corresponds to a coverage arrangement the household can actually obtain and maintain.
 
 ### Production notes
 
@@ -45,3 +47,11 @@ Professional education only; no Austin-family medical anecdote. Verify 2026 PTC 
 - Price at least the realistic available coverage paths.
 - Compare normal-year and high-cost-year exposure and income effects.
 - Confirm transition and enrollment requirements before ending coverage.
+
+### Source-led visual and teaching notes — not spoken
+
+Normal-year and high-cost-year comparison for realistic alternatives, plus each person's transition timeline. No invented quotes, eligibility approvals or universal cap on a non-insurance arrangement. Keep assistance contingent on current rules and actual income.
+
+Editorial reason: Replace an option survey with a decision table linking coverage, retained risk and the tax year.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

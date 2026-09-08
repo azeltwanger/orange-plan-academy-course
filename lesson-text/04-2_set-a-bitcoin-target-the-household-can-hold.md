@@ -1,6 +1,6 @@
 # 4.2 — Set a Bitcoin target the household can hold
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/04-allocation-and-next-dollar.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: ALLOCATION, ALLOCATION_DECK, BRAIN, OWNER
 
 ### Read aloud
 
-Your Bitcoin target should fit what you understand, the role Bitcoin has in the plan, and the household's ability to keep the position through a difficult market.
+The target is the amount of Bitcoin you intend to support through your household plan, including a difficult market. Your conviction matters. So do the bills, debt, income, and time you have before you need the money.
 
 The four Bitcoin paths describe how Bitcoin fits into someone's financial life.
 
@@ -28,7 +28,9 @@ A high-conviction household can intentionally hold a large Bitcoin position. Tha
 
 Translate a decline into dollars. In a simple example with other assets unchanged, a portfolio that is half Bitcoin falls thirty-five percent if Bitcoin falls seventy percent. A portfolio that is eighty percent Bitcoin falls fifty-six percent from that Bitcoin decline alone. Other assets can fall too, and borrowing can make the effect on net worth larger.
 
-For the Reed teaching portfolio, current Bitcoin exposure is seven hundred twenty-eight thousand dollars. A seventy-percent decline removes five hundred nine thousand six hundred dollars from that portion. The general portfolio falls from one million three hundred seven thousand to seven hundred ninety-seven thousand four hundred before any change in the other assets. That is about a thirty-nine-percent decline in this defined portfolio.
+The Reeds have seven hundred twenty-eight thousand dollars of Bitcoin exposure in the allocation group we are using. In the severe example on screen, a seventy-percent Bitcoin decline removes about five hundred ten thousand dollars. That is roughly a thirty-nine-percent decline in this whole group even before other assets change.
+
+Pause on the dollar loss. Would they need to sell because an essential payment is unfunded, or would they have time and other resources? If the household could not keep its obligations covered, the next step is to change the funding or the target before relying on the plan—not simply say that Bitcoin eventually recovers.
 
 Look at the dollar amount and ask what the household would actually do. Could required payments continue? Could the Reserve cover a job interruption? Is a near-term vehicle or tuition payment depending on selling Bitcoin at a favorable price? Is any Bitcoin pledged to a lender? Would your spouse understand why the plan still calls for holding it?
 
@@ -40,9 +42,9 @@ A target describes the intended mix. It does not require one large trade today. 
 
 Use price context to recognize emotion around a large change. A strong rally can create urgency to buy more; a sharp decline can create fear or interest in adding. The household's cash needs, debt limits, timeline, and ability to hold still determine whether the change is supportable. Price alone does not establish affordability.
 
-The working-session chapter compares the current and proposed target using the same included assets. We will review the dollar drawdown, the effect on the plan where the engine supports it, and the practical actions needed. Keep an ambitious alternative in Scenarios until it is a choice the household genuinely intends to adopt.
+We'll compare the current mix with the target using the same assets. Read the dollar stress and the funding needs together. Then decide whether to keep the current target, test a different one, or improve the cash and access that support it. Choosing the target is separate from deciding whether a trade is needed today.
 
-Finish with a target, a reason, and the stress case you used. You should be able to explain why the allocation fits your life, including the parts of the plan that let you keep it when the price is much lower.
+Keep the target, the reason, and the difficult case you used. You should be able to explain what lets the household hold that position through a long weak period, and which change in your life would make you review it.
 
 ### Production notes
 
@@ -53,3 +55,11 @@ Use the deck's dollar drawdown visual with 70% labeled hypothetical severe test,
 - State a target or range and its portfolio scope.
 - Translate a severe drawdown into dollars.
 - Explain what supports holding the position through a long weak period.
+
+### Source-led visual and teaching notes — not spoken
+
+Retain Foundation / Integration / Optimization / Sovereign as descriptions, not mandated allocation ranges. Dollar-stress graphic: $728,000 × 70% = $509,600; group remaining $797,400. The 60/34/6 alternative is explicitly illustrative, not a recommended allocation or app output.
+
+Editorial reason: Make the stress test a household funding decision without removing the original conviction framework.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

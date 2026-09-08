@@ -1,6 +1,6 @@
 # 4.4 — Build the contribution waterfall from one pool
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/04-allocation-and-next-dollar.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: ALLOCATION, ALLOCATION_DECK, CASHFLOW, DEBT, OWNER, APP
 
 ### Read aloud
 
-The contribution waterfall gives each new dollar a destination. It starts with the amount actually available and the needs you have already identified.
+We now have several claims on the same money: the reserve, employee contributions, extra debt payments, and investments. The contribution plan is where those choices have to fit together. A priority list is useful only if the amounts can actually be funded.
 
 We have chosen the Reserve target and funding pace. We have reviewed required debt payments and decided whether any extra payment is warranted. We have also identified the employer match and the difference between money needed before and after retirement-account access. Now those decisions have to fit inside one cash-flow pool.
 
@@ -20,7 +20,9 @@ Read the match formula precisely. In the fictional employer plan, Alex receives 
 
 That is valuable, but check vesting, plan terms, and the available investments. After the match, additional dollars may have a better job in accessible taxable money, an HSA, an IRA, or another account. Before rejecting the employer plan because of its menu, find out whether it provides the Bitcoin exposure or brokerage access you want. Availability must be verified for that specific plan.
 
-Use the Reed cash-flow bridge. After the adopted twelve-hundred-dollar reduction in living costs, twenty-four hundred seventy-five dollars is available before employee contributions. Seven hundred seventy-five goes to the employer plan. Five hundred funds the Reserve. Twelve hundred is the extra card payment. That totals twenty-four hundred seventy-five. There is no remaining household surplus in that phase, even though the employer separately adds the match.
+Look at the Reeds' reduced-spending phase. The screen starts with twenty-four hundred seventy-five dollars before Alex's employee contribution. The employee contribution, reserve funding, and extra card payment use all of it. The employer's match is shown separately as additional retirement money.
+
+There is no extra household investment contribution to add in this phase. That is the decision the arithmetic supports. Another contribution would require changing one of those claims or creating a real increase in the money available.
 
 A zero remaining amount is a useful answer. It tells the household that another recurring investment requires a real change, not an optimistic row in the plan.
 
@@ -32,7 +34,7 @@ When two timeframes need money, splitting the remainder can be sensible. The ear
 
 In the working session, we will confirm the available pool, review the current contribution claims, and enter only the supported current and future routing. Orange Plan models the intended saving. It does not change a payroll election or place a recurring purchase for you.
 
-Finish by explaining where the next five hundred dollars would go today, and what would change that answer. That is a usable rule you can return to when the Reserve fills, a debt ends, or your income changes.
+Explain where the next available dollar goes now and what event changes that answer. Keep current routing separate from the plan for after a debt is paid off or the reserve is funded. The next step is choosing an account that can perform the job.
 
 ### Production notes
 
@@ -43,3 +45,11 @@ Show the deck waterfall and a second line for employer money. Reconcile the one 
 - All household claims fit one available pool.
 - Employer match is calculated separately from spendable cash.
 - State current routing and the conditions that change it later.
+
+### Source-led visual and teaching notes — not spoken
+
+Preserve the deck's waterfall with exact $775 employee + $500 reserve + $1,200 extra debt = $2,475. Employer $387.50 stays separate. Show the future $1,605 released only after actual card payoff, not as current spendable money.
+
+Editorial reason: Resolve the current zero-surplus phase and distinguish future routing from present affordability.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

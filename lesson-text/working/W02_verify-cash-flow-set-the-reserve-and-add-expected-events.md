@@ -44,6 +44,62 @@ Record this segment separately from Lesson 2.3. The objective and reusable expla
 
 **Accepted direction, not an exact click script:** Cash Flow owns Cash reserve; eligible existing money receives the job. Verify the final route, labels, partial assignment, contribution owner, saved values and freshness. Keep all unresolved conditions here in production notes, not inside learner narration. Do not simulate absent functionality or substitute worksheet arithmetic for a claimed app result.
 
+### Source-led recording detail — not spoken
+
+The accepted Reserve chapters 4–5 and their seven-beat plan remain unchanged. These additions finish the surrounding cash-flow and life-event chapters. Record each segment separately; the reusable explanation is prepared, while exact screens and outcomes require the approved build.
+
+**Chapter 1**
+
+Prepare and demonstrate: Start from W01's original cash flow, not the reduced-spending state. Reveal income, tax-payment provision, living costs, required debt and employee contribution one row at a time. Employer match is additional retirement money.
+
+Reusable narration: “Before assigning the next dollar, check what has already come out. The amount left should be something we can follow back to the records.”
+
+Final screen/procedure insert: Actual gross/net income mapping, business-payment treatment, tax payments versus liability, source freshness and household contribution totals. A real engine tax result is not forced to match the illustrative $4,000 provision.
+
+Member finish: Explain the original $500 remaining amount or reconcile the actual modeled difference without invented balancing entries.
+
+**Chapter 2**
+
+Prepare and demonstrate: Review the available spending period and one annual cost, one one-time cost, a credit-card settlement/transfer, and an uncertain transaction. Compare a representative estimate with the actual bill/payday cycle.
+
+Reusable narration: “An unusual month can distort the average, but an annual bill still needs money. Let's decide which costs the future plan should carry.”
+
+Final screen/procedure insert: Supported source coverage and spending-method choices; actual exclusion and correction receipts. No simulated transaction feed or unsupported category control.
+
+Member finish: Record the chosen spending basis, what it includes, and one specific uncertainty to resolve.
+
+**Chapter 3**
+
+Prepare and demonstrate: Preview the $1,200 living-cost reduction: $10,800 to $9,600; $500 to $1,700 remaining after the employee contribution. Identify the real cancellations, negotiations or habit changes required before adoption.
+
+Reusable narration: “This larger amount depends on a change. We haven't found extra money in the original budget. Here is what the household would have to do to make it real.”
+
+Final screen/procedure insert: Current versus proposed amounts, effective date, save/reload and resulting Plan freshness. Exact category reductions require the fictional capture extension; do not fabricate their provenance.
+
+Member finish: The original and reduced states are separately named, and the outside spending action remains honest.
+
+**Chapter 6**
+
+Prepare and demonstrate: Enter one expected vehicle need and income change using the reviewed fictional dates and amounts. Compare a possible renovation separately. Follow purchase price, financing, payment and funding through the affected year, then rehearse the event becoming actual.
+
+Reusable narration: “The event needs an amount, a date and a funding source. When it happens, the real records and future entry need to tell the same story once.”
+
+Final screen/procedure insert: Life-event ownership, recurrence, current/future-dollar units, associated debt, preview/save and planned-to-actual handling. No invented vehicle quote, date or automatic lifecycle behavior.
+
+Member finish: The expected event has a clear funding explanation, while the unchosen renovation remains a what-if.
+
+**Chapter 7 — optional**
+
+Prepare and demonstrate: Use $58,000 education resources assigned $29,000 per child. For the oldest, $20,000 for four years leaves $51,000 over 60 months, or the labeled $850 flat-cost zero-growth benchmark. Put it beside the already fully routed reduced cash flow.
+
+Reusable narration: “The benchmark tells us the scale of the gap. It doesn't create another eight hundred fifty dollars. We need to change a commitment, a funding source, or the timing.”
+
+Final screen/procedure insert: Actual account owner/beneficiary and access; supported event/account attribution and funding calculation. External benchmark stays separate from an app result. No use of the same education money twice.
+
+Member finish: Choose an affordable plan or name the unresolved trade-off; no college obligation is added for a member it does not apply to.
+
+The existing run sheet and these chapter details describe the same recording. No actual model result, provider/device operation, legal authority, listener test or publication approval is established by this written preparation. Any absent promised behavior remains held and reported; it is not silently replaced with a fabricated screen.
+
 ### Readback and finish
 
 The spending basis and available pool are believable. The reserve has a target, eligible sources, gap, and proposed pace. The member can explain when access to cash matters more than faster extra-debt repayment and what would trigger reviewing the pace. The proposed reserve amount carries into Debt and Allocation without being spent twice. Expected events have timing and a funding explanation; possibilities remain separate. College is optional and does not own the required next-session handoff. No wallet recovery, financial transfer, capture, or outside action is certified by the run sheet.

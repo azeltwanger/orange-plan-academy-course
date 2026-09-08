@@ -1,6 +1,6 @@
 # 10.2 — Explain the plan and hand off the next decisions
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/10-read-and-share-your-plan.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: REVIEW, CLIENT_THEMES, LANDING, OWNER
 
 ### Read aloud
 
-The final test is whether another person can understand how the plan works. You do not need to teach them every financial-planning concept. You need to explain the decisions the household has made and what happens next.
+The final test is explaining the household's decisions to someone who was not there while you built the plan. You do not need to teach them everything you know. They need to understand how life is funded, what requires attention, and how to start the family process if you are unavailable.
 
 Start with where you stand. “These are our accounts, these are the debts, and this is the money available for current needs.” Then explain where the next dollar goes. “We are funding the Reserve at this pace, paying this debt faster, and investing through these accounts.” Give the reason, not just the percentage.
 
@@ -26,7 +26,9 @@ Professional handoffs have a different purpose. For the CPA, provide the relevan
 
 Keep each handoff focused. “Please review whether this conversion amount and tax-payment source make sense with our healthcare year” is more useful than “Please check everything.” The professional can request additional information when needed.
 
-The Reed household will finish with a one-page explanation and a short action list. Their remaining actions may include verifying a plan investment option, completing a legal review, or finishing a recovery test. A plan can be useful while those tasks are being completed, provided the record does not pretend the underlying work is done.
+The Reeds' finished explanation should use the verified saved plan and the Household Plan Summary. The current fictional examples show how to write it; they do not prove that every app result, legal review or recovery test is complete. Keep those items honestly open until the corresponding work has happened.
+
+Give the listener one concrete question at a time: where does next month's money come from, what changes when a benefit begins, and who do you contact first if the usual operator is unavailable? Revise the part they cannot explain before adding more pages.
 
 Schedule the next monthly and annual reviews. Keep a dated copy so you can compare the plan next year and see why it changed. Some differences will come from markets. Others will come from better information or deliberate choices. That history helps the household stay consistent without clinging to outdated assumptions.
 
@@ -34,7 +36,7 @@ At the beginning of the course, your information may have been scattered across 
 
 Finish by explaining your own plan in ordinary language. Where we stand. When work could become optional under these assumptions. How the money is positioned. How retirement gets funded. What could change the answer. Who helps if we are unavailable. What we are doing next.
 
-Those answers are the finished result. Keep the process, update the facts as life changes, and use the plan to make the next decision deliberately.
+Keep the explanation, the next one to three priorities and the review schedule. An outside action can remain pending when its consequence and next step are clear. Use the plan again when a real decision comes up; the course has done its job when you can follow that process without needing someone else to assemble the answer for you.
 
 ### Production notes
 
@@ -45,3 +47,11 @@ Use a rehearsal with the fictional household or an explicitly consented tester; 
 - Explain the seven household questions without reading technical labels.
 - Have the listener repeat the first action in an absence scenario.
 - Prepare focused professional questions and schedule the next review.
+
+### Source-led visual and teaching notes — not spoken
+
+Short household explanation, listener teach-back, and focused professional handoffs. Use the actual completed example only after verification; no claimed pilot result before a consented test. One to three priorities do not mean only three total unfinished actions exist.
+
+Editorial reason: Finish with demonstrated understanding and precise completion language, not a motivational or guaranteed outcome.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

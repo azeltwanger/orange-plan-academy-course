@@ -1,4 +1,4 @@
-A state move can change taxes, but the decision also changes housing, healthcare, work, family access, and the cost of daily life. Compare those together.
+Evaluate a state move as a household decision. Taxes can be an important benefit, but housing, work, healthcare, family and the cost of moving still have to fit the life you intend to live.
 
 Start with the reason for moving and the realistic locations. Then build the cost difference: housing, property and other taxes, insurance, transport, healthcare, moving expenses, and any income changes. A lower income-tax rate can be offset by higher costs elsewhere.
 
@@ -12,4 +12,6 @@ Estate documents, healthcare directives, insurance policies, business registrati
 
 Use the model to identify whether the financial difference is meaningful enough to pursue. Then gather the actual rules and implementation requirements. The scenario is a planning comparison; it is not proof of legal residency or a filed tax position.
 
-Finish with the full household reason for the move, a realistic cost comparison, and the questions for the relevant professionals. Return to the core life-event plan only when the date and intention are sufficiently real to include.
+Before a large Bitcoin sale near a possible move, separate two questions. Does moving improve the household's overall situation? And what do the actual residency and source-income rules mean for the proposed transaction? A favorable address in a scenario does not answer the second question. The household needs the intention, timing and evidence reviewed for both jurisdictions.
+
+Return with a full cost comparison and a specific professional question about the real circumstances. Keep the move hypothetical while it remains an idea. Once the timing and intention support an expected event, record it without treating the app entry as proof of residency or tax treatment.

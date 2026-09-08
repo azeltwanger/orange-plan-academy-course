@@ -1,6 +1,6 @@
 # 6.7 — Use simulations to compare the plan, not chase a score
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/06-retirement-paycheck.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,9 +10,9 @@ Sources: RETIREMENT, FOUNDATION, APP, BRAIN
 
 ### Read aloud
 
-Now that the retirement funding choices are in place, the simulation result has a more complete plan to test. Read it with the assumptions and the spending rules beside it.
+Use the simulation to compare choices you might actually make. Start with the spending, timeline, assumptions and rules being tested, then read what the result tells you—and what it does not answer.
 
-A displayed eighty-two percent chance of success means the modeled plan succeeded in that share of the simulated paths, under the tested rules and horizon. The exact successful count underneath explains the result. It is not a guarantee and it is not a measurement of every risk the family could face.
+For an illustration, eighty-two percent means eighty-two percent of the modeled paths funded the plan under the stated rules and horizon. Read the exact count and ending age with it. This is an explanation of a result, not an approved result for the Reeds and not a measurement of every risk the family could face.
 
 The simulation can include important parts of the plan, but it cannot make an unsupported input reliable. A wrong spending number, omitted debt, missing basis, or assumed account access can produce a precise-looking answer to the wrong question. Check the current facts and calculation status before comparing strategies.
 
@@ -30,9 +30,9 @@ For the Reed example, we will compare a limited set of meaningful alternatives. 
 
 Read the years that explain the difference. Is the early access gap smaller? Are taxes lower in one period and higher later? Is borrowing adding a future repayment burden? Does one version leave a cash shortfall before a benefit starts? Those explanations make the result actionable.
 
-The working session will capture actual model outputs from the approved release. We will not assign a fictional success rate simply to make the case end well. If the chosen example remains below the standard, that is a valid teaching outcome: identify the issue and compare a realistic change.
+We'll compare the actual results and then inspect the years that explain the difference. If the preferred retirement date does not meet the standard, that is useful information. Compare a change the household could carry out rather than adjusting assumptions until the example looks successful.
 
-Finish able to explain the percentage, the count, the horizon, the important assumptions, and one trade-off behind the preferred version. That is the skill you need to use the result confidently without treating it as a promise.
+Explain one comparison in a sentence: what changed, what improved or worsened, and what it costs the household. Keep the version you intend to follow distinct from the alternatives. Next we'll turn the chosen retirement plan into a spending-review routine.
 
 ### Production notes
 
@@ -43,3 +43,11 @@ Percent first, exact count beneath. No fake before/after success or retirement a
 - Read the result with its horizon, assumptions, and freshness.
 - Compare one realistic choice and inspect the affected years.
 - Explain the cost or risk accepted for the preferred result.
+
+### Source-led visual and teaching notes — not spoken
+
+Current versus one meaningful change, with changed and unchanged inputs visible. Link the percentage and count to the same calculation and the year detail that explains it. Keep illustrations outside recreated app screens.
+
+Editorial reason: Make a score comparison end in a choice with a visible cost, rather than an attractive headline.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.

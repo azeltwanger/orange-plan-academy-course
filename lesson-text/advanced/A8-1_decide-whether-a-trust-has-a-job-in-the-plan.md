@@ -1,6 +1,6 @@
 # A8.1 — Decide whether a trust has a job in the plan
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/advanced/02-access-custody-and-estate.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -11,7 +11,7 @@ Use when: probate, incapacity, beneficiaries, tax, control, or a complex asset c
 
 ### Read aloud
 
-A trust should solve an identifiable legal or family problem. Start with the job before choosing a structure.
+Start with the legal or family job a trust would solve. Owning Bitcoin by itself does not tell you which trust to use, and signing a trust document does not complete the account and custody work needed to make it useful.
 
 The household may want continuity during incapacity, coordinated administration, privacy, a distribution arrangement for children, management for a vulnerable beneficiary, or planning for tax or creditor concerns. Each objective requires different analysis. Simply owning Bitcoin does not identify which trust, if any, is appropriate.
 
@@ -27,7 +27,9 @@ The trust also needs to be funded and coordinated with the other assets. Signing
 
 For Alex and Morgan, the initial question is whether their legal baseline and beneficiary arrangements solve the family needs. If a trust adds a useful job, they prepare the ownership inventory, intended beneficiaries, desired control, custody methods, and questions for the attorney. If no additional job exists, completing the baseline is a valid outcome.
 
-Return to the family-handoff plan with a professional-reviewed decision, any funding or beneficiary actions, and an operational process matched to the documents. The course worksheet organizes the conversation; the attorney creates and reviews the legal arrangement.
+Compare the proposed trust with the simpler baseline. If the need is a clear beneficiary designation and a usable family starting process, identify what extra job the trust adds. If the need is continuing management or controlled distributions for a child or vulnerable beneficiary, explain that specific objective to the attorney. The custody and successor arrangements then need to support the actual legal design, not a generic Bitcoin clause.
+
+Return with a professionally reviewed decision, the funding or beneficiary actions it requires, and the people responsible for operating it. Keep revocability, tax classification, legal control and practical signing authority distinct. The worksheet organizes the conversation; it does not create or validate the trust.
 
 ### Production notes
 
@@ -38,3 +40,17 @@ Revocable/irrevocable and grantor/non-grantor are separate classifications. Lega
 - Name the legal or family job a trust would solve.
 - Review control, tax, funding, beneficiary, and custody consequences.
 - Complete the professional and outside implementation steps honestly.
+
+### Source-led visual and teaching notes — not spoken
+
+Problem → simpler baseline → proposed trust job → legal design → funding/beneficiary actions → custody and successor process. No generic tax-savings result, creditor shield or fixed Bitcoin-concentration waiver.
+
+Editorial reason: Compare a trust with the existing baseline and follow a useful structure through actual funding and operation.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+
+### Advanced demonstration plan — not spoken
+
+Use the non-secret ownership inventory and intended beneficiary/continuity goals. Prepare focused attorney and tax questions, then identify account, title, beneficiary and recovery changes requiring execution. No drafted legal clauses, named tax structure recommendation or assumed provider acceptance. Return to 8.1–8.3.
+
+Use this with the linked core working chapters; it does not create another required lesson or claim an app/device test was performed. Record precise controls and actual outcomes only after the relevant gate is met.

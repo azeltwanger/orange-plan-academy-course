@@ -1,6 +1,6 @@
 # 3.2 — Measure leverage before and after a drawdown
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
+Status: SOURCE_LED_REVIEW — source-based editorial pass complete; integrated wording awaits Austin's voice/judgment review. Publication gates remain open.
 Adapted source: `course-v2/sessions/03-debt-and-leverage.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: DEBT, BRAIN, APP, PRIMARY
 
 ### Read aloud
 
-Debt-to-assets shows how much debt sits against the household's asset base. For a Bitcoin household, that ratio can change quickly even when the loan balances barely move.
+Next, compare what you owe with what backs it. We need to separate the household's overall debt, the monthly payments, and any particular asset a lender can act against. Those are related risks, but one percentage cannot describe all of them.
 
 Use total debt divided by gross assets. Keep the denominator clear. Net worth is assets minus debts; it is a different number. Also separate the full balance sheet from the investments available to fund retirement. A home or an education account can be an asset without being freely available for next month's spending.
 
@@ -32,7 +32,11 @@ Different collateral has different failure mechanisms. A conventional mortgage g
 
 The useful result is a set of boundaries you understand: payment capacity, current and stressed debt-to-assets, collateral-specific exposure, and available resources for a response. A lower ratio can still hide inaccessible assets or correlated income. A higher ratio may be manageable under some conditions but needs to be justified by the whole plan.
 
-In the working session, record the chosen stress assumptions and the resulting ratios. Keep them beside the current view. The borrowing decision should make sense in both pictures.
+We'll read the current balance sheet and the same balance sheet under the stated stress. Then we'll look separately at any collateralized loan. If most of the household's remaining wealth is in a house or restricted account, a reassuring total does not mean those assets can meet a fast collateral demand.
+
+The decision is whether the household still has room to respond in the bad version: cash to pay, acceptable collateral available, or a controlled way to reduce the obligation. A lower starting LTV creates more price room under the example's fixed terms; it does not guarantee that room lasts or that the lender is safe.
+
+Keep the current ratio, the stressed ratio, and any loan-specific threshold with the assets actually available to respond. Explain the difference in ordinary language before using the figures to justify more debt. Next we'll give each existing obligation a job.
 
 ### Production notes
 
@@ -43,3 +47,11 @@ Use fixture-derived totals, not the old ungrounded $640,000 loss. The stress den
 - Distinguish gross assets, net worth, spendable assets, and collateral.
 - Record current and stressed DTA and relevant LTV.
 - Identify the contract-specific event that can force action.
+
+### Source-led visual and teaching notes — not spoken
+
+Three separate views: required monthly payments; debt ÷ included gross assets; a loan's debt ÷ its own collateral. Label the Reed stress partial and hypothetical; omitted business/vehicle values remain omitted. Never present 80% as every lender's liquidation rule.
+
+Editorial reason: Distinguish stress capacity from operational liquidity and lender-specific action thresholds.
+
+See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
