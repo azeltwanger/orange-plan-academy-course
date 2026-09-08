@@ -1,0 +1,25 @@
+name: Export frozen Academy review snapshot
+on:
+  push:
+    branches: [course-finish-review-20260907]
+    paths: [.github/workflows/export-frozen-course-review.yml]
+permissions:
+  contents: read
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: bf390a374c53651a0a3993ee2c7fd3c3a6da2391
+          persist-credentials: false
+      - name: Package exact reviewed source
+        run: |
+          set -euo pipefail
+          test "$(git rev-parse HEAD)" = "bf390a374c53651a0a3993ee2c7fd3c3a6da2391"
+          git archive --format=zip --output=academy-review-source.zip HEAD
+      - uses: actions/upload-artifact@v4
+        with:
+          name: academy-frozen-review-bf390a
+          path: academy-review-source.zip
+          retention-days: 3
