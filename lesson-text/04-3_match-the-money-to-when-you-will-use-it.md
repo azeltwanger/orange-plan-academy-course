@@ -1,8 +1,8 @@
 # 4.3 — Match the money to when you will use it
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/04-allocation-and-next-dollar.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
+Status: TEACHING_REWRITE_REVIEW — individual spoken replacement using the accepted Reserve reference. Integrated wording awaits Austin's voice/judgment review; app recording remains separate.
+Adapted source: Accounts + Allocation time-horizon teaching, Global Brain early-retirement funding and older Module 4A; current access distinctions retained.
+App references: exact account assignment and year-by-year funding require the approved build and reviewed inputs.
 
 Kind: teach
 Gate: TAX_REVIEW
@@ -10,56 +10,82 @@ Sources: ALLOCATION, ALLOCATION_DECK, OWNER, APP, PRIMARY
 
 ### Read aloud
 
-Now ask when each part of the money will be used and whether the account can provide it then. An investment can have plenty of time to grow but still sit in an account whose access rules do not fit your retirement date.
+You can have enough money in total and still have a problem with when you can use it.
 
-Begin with money needed now: operating cash and the Reserve. It needs to remain usable when an ordinary bill or unexpected expense arrives. The reserve assignment comes from the Cash Flow work we already completed. We are reading the same money here, not creating a second reserve.
+That's especially important if you want to stop working well before the usual retirement ages. A large retirement-account balance may help fund the later years. It doesn't, by itself, explain how you'll pay for the years between your last paycheck and access to that money.
 
-Next identify money needed before age fifty-nine and a half. This is the early-retirement access question. A household can have substantial retirement savings and still need a plan for the years between the last paycheck and usable retirement distributions. Taxable cash, brokerage investments, and personally held Bitcoin may play that role.
+In this lesson, we're going to ask two questions about each part of the portfolio: when do you expect to spend it, and can the account provide it then?
 
-Then identify the longer-term retirement money. Accounts intended for later years can have a different investment horizon because earlier needs are funded elsewhere. That gives long-term assets room to remain invested, subject to the actual tax and access rules.
+Start with the money you need now.
 
-Age fifty-nine and a half is a useful planning landmark, but it is not an absolute lock on every retirement dollar. Regular Roth IRA contributions, certain workplace-plan distributions after qualifying separation, governmental 457(b) distributions, and carefully structured periodic payments can have different rules. Each has conditions. We will examine the relevant access route before relying on it in a retirement paycheck.
+Checking needs enough to cover the bill cycle. The Reserve is there for an interruption or unexpected need. We already worked out that target and which existing money counts toward it. We're reading the same decision here, not setting up a second reserve.
 
-The tax wrapper and the intended job are related but different. A taxable brokerage account can fund early retirement or remain invested for much later. An HSA may support qualified medical expenses under its own rules. A 529 is dedicated education money, not automatically a general early-retirement bridge.
+Those dollars need to be usable when the problem happens. You may still own an investment after a price decline, but that doesn't mean it will provide the same amount of spending money. That's why we separated accessible cash from the longer-term Bitcoin position.
 
-Now add the timing of specific events. A tuition payment due in five years and general spending at age seventy need different planning even if both are in the same taxable account. Mark the commitment and avoid assigning the same dollars to both needs.
+Next, look at the first years after work changes or stops.
 
-Use the Reserve, Bridge, and Forever picture to think about the investment horizon as well.
+Alex would like work to become optional at fifty-two. Age fifty-nine and a half is about seven and a half years later. What supports the household during that period?
 
-Reserve is the low-volatility path. The original zero-to-three-year range illustrates money that needs to stay liquid and dependable. An emergency fund is sized in months of essential spending; this range does not mean every household needs three years of expenses in cash.
+Morgan has a separate timeline. When Alex reaches 52, Morgan would be about 50, given their two-year age difference. We cannot use Alex's age as the access date for Morgan's accounts, or assume Morgan stops working at the same time just because Alex does.
 
-Bridge is the middle path. The four-to-ten-year range illustrates money with time to grow, but with an approaching use. The mix depends on how fixed that date and amount are. Someone buying a house on a signed contract needs a more dependable source than someone considering a flexible purchase several years away.
+Some income may continue. There may be personally held Bitcoin, taxable investments, or cash they plan to use. Identify those resources and the other jobs they already have. Then compare what they can provide with the costs during those years.
 
-Forever is the long-term path, illustrated as ten years or more. When earlier needs are covered, this money has more time to remain invested through volatility. It may support later retirement, family wealth, or a legacy.
+For the Reeds, the group of taxable accounts includes money for current bills and the Reserve. It also includes longer-term investments. Calling that entire group accessible does not make all of it spare money for early retirement. We still have to preserve the amount needed for each commitment.
 
-Those investment horizons answer when a particular dollar will be spent. Before and after fifty-nine and a half answer a separate account-access question. A taxable account can contain Forever money. A retirement account can contain cash for an upcoming permitted withdrawal. Look at both questions before choosing the holding.
+A taxable account can be useful here because it isn't tied to retirement-age withdrawal rules. But usable does not mean tax-free. A sale can create a gain, and the market value before a sale isn't necessarily the cash left afterward.
 
-For each amount, ask when you need it, how flexible the date is, what other resources could cover it, and what being short would mean. That is how you decide how much volatility belongs in that job.
+Age 59½ is an important landmark, not an absolute lock on every retirement dollar.
 
-For example, some Bitcoin may remain part of a college plan more than five years away. As the committed tuition payments get closer, the household can protect the near-term amount and review later years separately. A flexible family contribution can carry a different risk from a contractual bill that must be paid on one date.
+For example, regular Roth IRA contributions come out before conversions and earnings under the ordering rules. That can make the contribution portion more accessible than people expect. It doesn't mean the whole Roth balance is available on the same terms, and a Roth workplace account isn't identical to a Roth IRA.
 
-Alex's preferred work-optional age of fifty-two leaves about seven and a half years before he reaches fifty-nine and a half. Morgan has a separate timeline. First look at which resources could fund those early years; don't answer the question with the combined total of every retirement account.
+Some workplace-plan distributions after qualifying separation, governmental 457(b) distributions, and structured periodic payments can also have different early-distribution treatment. Each route has conditions. We'll review the relevant one before relying on it for the retirement paycheck. An exception to an additional tax also doesn't necessarily remove ordinary income tax or make a workplace plan permit the withdrawal.
 
-Then ask whether today's contributions need to build that accessible pool. A household with later retirement well covered may need its next dollar in a different place from a household whose early years are already funded. The relevant account-access rules still have to be checked before relying on a withdrawal.
+For now, keep the distinction simple. Money with a verified access route can play a role. An account whose access you haven't checked is still a question, not proof that all the early years are funded.
 
-A rough first estimate can multiply the annual gap by the number of years. It is only an orientation. The actual plan should account for taxes, changing income, inflation, investment returns, events, and each person's access dates. We will read the year-by-year funding in Retirement Income.
+Then look at money intended for later retirement.
 
-Point to the resources for current needs, early retirement, later retirement, and dedicated commitments. Identify the first year or job that lacks a credible funding source. That gap helps decide the destination of new money; the retirement-income session will test the year-by-year funding in detail.
+When the earlier years have a credible source, the later money has more time to remain invested. That can make a retirement account useful for assets you intend to hold for a long period. It doesn't mean you must keep everything there in the same investment forever. As a withdrawal gets closer, its job changes.
+
+You can think of the investment horizons as Reserve, Bridge, and Forever. Reserve is short-term protection. Bridge is money with an approaching use that still needs flexibility. Forever is the long-runway portion for later retirement or family wealth.
+
+The original horizon examples are roughly zero to three years, four to ten years, and ten years or more. They help you think about time to use the money. They are not required account boundaries, and they do not mean you need three years of living expenses in the emergency reserve.
+
+Don't confuse those horizons with the before-and-after-59½ question. A taxable account can hold an investment you won't use for twenty years. A retirement account can hold cash for a permitted withdrawal next year. One question is about the investment's time to work; the other is about the account's access rules.
+
+Now add the commitments we put on the timeline.
+
+College, a vehicle, or a home purchase may need money before retirement begins. An HSA may be intended for healthcare. An education account has its own use and beneficiary rules. They shouldn't quietly become general retirement resources while the expenses they were meant to cover are left unfunded.
+
+For each commitment, ask how fixed the amount and date are. If you could delay a purchase or spend less, you have more room to accept uncertainty. If the bill must be paid in full on one date, you need a more dependable source for that amount.
+
+This doesn't mean every future expense needs to be in cash today. Bitcoin may be part of a longer-term funding plan. But as the spending date approaches, come back to how the first bill gets paid if the price is down. The plan needs an answer beyond hoping the market is favorable that month.
+
+What does this mean for the next contribution?
+
+Suppose the later retirement years appear well provided for, but the first years after work stops need more accessible money. Another contribution to a retirement account may offer a tax benefit without addressing the gap you're trying to close. Building the taxable account can be the more useful comparison.
+
+For another household, early access may already be covered and the larger need is later retirement. The next contribution could reasonably go the other way. Two people with the same Bitcoin conviction can need different account destinations.
+
+We'll use the plan to check those needs rather than assume the total balance settles them. A rough annual gap multiplied by years can help orient you, but the actual funding changes with income, taxes, inflation, investment returns and the events along the way. Retirement Income will take us through that year by year.
+
+For this step, point to the resources for today's needs, the early years, later retirement, and any dedicated commitment. Identify the first part that doesn't yet have a credible source. That is the information we need before deciding where new money should go.
+
+### Visual notes — not spoken
+
+Show each adult's own timeline and the relevant account access points. Alex 44/Morgan 42 and Alex's preferred 52 are source facts; exact dates, Morgan's retirement decision and full funding outputs are not. The relative 52-to-59½ gap is 7.5 years, not a verified modeled retirement date.
+
+Keep investment horizons Reserve/Bridge/Forever visually separate from the app's prospective Now/Before 59½/After 59½ access view. Do not draw new balances for each lens. Taxable accounts total $575,000 in the teaching fixture, including existing bills/Reserve money; retirement accounts in the general subset total $732,000. HSA/education remain dedicated. These totals are not certificates of spendability or funding sufficiency.
 
 ### Production notes
 
-App funding rows: Now / Before 59½ / After 59½. These are not identical to the old 0–3 / 4–10 / 10+ volatility horizons. IRS early-distribution and Roth ordering references apply. Use a partial account assignment only when supported. Do not invent engine attribution from a life event to an account.
+The older deck grouped HSA and education with Bridge; the current course already distinguishes dedicated uses from unrestricted early-retirement funds. This rewrite keeps that current distinction and explains it rather than silently changing the original source. It also preserves the original horizon examples without turning them into mandatory allocation bands. Global Brain asks for plain language about years before retirement accounts are easy to use, not jargon in place of an explanation.
+
+Narrow outside checks read September 8, 2026: IRS Publication 590-B, https://www.irs.gov/publications/p590b (regular contributions, conversion and earnings ordering; qualified distribution conditions); IRS early-distribution exceptions, https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-exceptions-to-tax-on-early-distributions ; IRS Publication 969, https://www.irs.gov/publications/p969 (qualified medical use). These support account mechanics, not a personal access recommendation or professional sign-off. Check actual plan terms and applicable exceptions before modeling reliance on withdrawals. Do not transfer Roth IRA ordering to a Roth workplace account. Existing TAX_REVIEW remains.
+
+W04 chapter 3 must verify actual account assignment, any partial allocation, event attribution and year funding. No unsupported automatic bucket transfer, independent Goals ledger or unprovided early-access strategy is invented. Uncertain source information remains a named capture requirement.
 
 ### Member checkpoint
 
-- Identify current, early-access, later-retirement, and dedicated-event money.
-- Record access restrictions and relevant exceptions for verification.
-- Locate the first actual funding need before choosing an account for new money.
-
-### Source-led visual and teaching notes — not spoken
-
-Keep Reserve / Bridge / Forever investment horizons separate from the Now / Before 59½ / After 59½ access view. Show each spouse's timeline and the same account serving one or several defined jobs without counting its dollars twice.
-
-Editorial reason: Translate the two timeline concepts into the next contribution decision, preserving early-access exceptions.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+- Explain when money is intended to be used and separately whether the account can provide it then.
+- Keep current cash, early retirement, later retirement and dedicated commitments from claiming the same dollars.
+- Identify the funding need that should influence the next contribution and the access question still needing verification.

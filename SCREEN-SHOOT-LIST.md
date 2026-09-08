@@ -26,7 +26,7 @@ The member can explain the payments, household leverage and any lender-specific 
 
 [Run sheet and cues](scripts/working/W04_route-contributions-into-usable-accounts-and-intended-holdings.md)
 
-All contribution claims fit available money. Every receiving account has a usable tax/access role and intended investment. The target and timeframe needs reconcile. Outside actions have separate proof of completion.
+The member can explain the portfolio and target, identify which money is for earlier and later needs, reconcile the contribution amounts, select usable accounts and tax treatment, and state what each contribution buys. The household target, account mixes and new-money instructions are distinct but consistent. Outside execution and future conditions remain visible. No completed app run, tax review, provider action, recording or learner outcome is certified by this written plan.
 
 ## W05 — Reconcile tax records and prepare one useful comparison
 

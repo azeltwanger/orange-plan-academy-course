@@ -113,45 +113,45 @@ A decision, a saved choice and an outside action are separate states. Funding a 
 
 ## 4.1 — Read the same portfolio in four useful ways
 
-- Read all four views of the same assets.
-- Define the denominator before comparing percentages.
-- Identify an actual mismatch in access, holdings, or intended use.
+- Explain overall exposure without confusing account balances with their contents or fund exposure with native Bitcoin.
+- Identify which assets are included and why before comparing percentages.
+- Name a relevant mismatch in access, intended use or current purchases—or explain why the setup can stay as it is.
 
 ## 4.2 — Set a Bitcoin target the household can hold
 
-- State a target or range and its portfolio scope.
-- Translate a severe drawdown into dollars.
-- Explain what supports holding the position through a long weak period.
+- Choose a target or comparison with a defined portfolio scope and explain why it fits the household.
+- Translate the Bitcoin decline into dollars and describe the funding and behavioral response during a long weak period.
+- Separate adopting a target from executing a trade and name a reason to review the choice later.
 
 ## 4.3 — Match the money to when you will use it
 
-- Identify current, early-access, later-retirement, and dedicated-event money.
-- Record access restrictions and relevant exceptions for verification.
-- Locate the first actual funding need before choosing an account for new money.
+- Explain when money is intended to be used and separately whether the account can provide it then.
+- Keep current cash, early retirement, later retirement and dedicated commitments from claiming the same dollars.
+- Identify the funding need that should influence the next contribution and the access question still needing verification.
 
 ## 4.4 — Build the contribution waterfall from one pool
 
-- All household claims fit one available pool.
-- Employer match is calculated separately from spendable cash.
-- State current routing and the conditions that change it later.
+- Reconcile employee contributions, Reserve funding and extra debt against one current available amount.
+- Keep employer money separate and explain why each destination is receiving money now.
+- Identify the event that changes future routing and recheck the amount then rather than spend it early.
 
 ## 4.5 — Choose the account that can do the job
 
-- Match access, eligibility, investment menu, and tax treatment to the job.
-- Verify the account is actually available and usable.
-- Record the outside opening or payroll action separately.
+- Match a contribution's purpose with usable access, eligibility, investment menu, tax treatment and cost.
+- Choose a relevant existing or proposed account without copying every account from the example.
+- Identify the exact missing fact or outside setup step before treating the destination as ready.
 
 ## 4.6 — Choose Traditional, Roth, or a deliberate mix
 
-- Compare equal pretax resources and the relevant tax rates.
-- Check effects on current cash flow and future access.
-- Choose a provisional election or a specific question for tax review.
+- Compare Traditional and Roth from the same economic starting point and explain why the relevant tax rates matter.
+- Separate new contributions from conversions and check current take-home cash and future access.
+- Choose a reasoned provisional election or specific professional question, with payroll execution still distinct.
 
 ## 4.7 — Tell each account what to buy and finish the outside actions
 
-- Every contribution has an amount, account, tax treatment, and intended investment.
-- Combined holdings and timeframe jobs are reconciled.
-- External elections, purchases, and transfers have separate completion evidence.
+- Explain each contribution's affordable amount, purpose, receiving account, tax treatment and intended investment.
+- Reconcile different account mixes with the household target without assuming every account or new dollar must match the same percentages.
+- Distinguish planned changes from real payroll/transfer/purchase instructions and verify implementation from outside confirmations.
 
 ## 5.1 — Understand what a sale would realize
 
@@ -415,7 +415,7 @@ The member can explain the payments, household leverage and any lender-specific 
 
 ## W04 — Route contributions into usable accounts and intended holdings
 
-All contribution claims fit available money. Every receiving account has a usable tax/access role and intended investment. The target and timeframe needs reconcile. Outside actions have separate proof of completion.
+The member can explain the portfolio and target, identify which money is for earlier and later needs, reconcile the contribution amounts, select usable accounts and tax treatment, and state what each contribution buys. The household target, account mixes and new-money instructions are distinct but consistent. Outside execution and future conditions remain visible. No completed app run, tax review, provider action, recording or learner outcome is certified by this written plan.
 
 ## W05 — Reconcile tax records and prepare one useful comparison
 

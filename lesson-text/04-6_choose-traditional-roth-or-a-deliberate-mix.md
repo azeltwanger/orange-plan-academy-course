@@ -1,8 +1,8 @@
 # 4.6 — Choose Traditional, Roth, or a deliberate mix
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/04-allocation-and-next-dollar.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
+Status: TEACHING_REWRITE_REVIEW — individual spoken replacement using the accepted Reserve reference. Integrated wording awaits Austin's voice/judgment review; app recording remains separate.
+Adapted source: original Roth/Traditional deck explanation, Global Brain contribution-versus-conversion distinction and the current equal-budget example.
+App references: actual tax elections and household cash-flow effects require verified inputs; no Reed election is inferred from an account label.
 
 Kind: teach
 Gate: TAX_REVIEW
@@ -10,46 +10,86 @@ Sources: ALLOCATION, ALLOCATION_DECK, TAX, PRIMARY, OWNER
 
 ### Read aloud
 
-Traditional versus Roth is a decision about paying income tax now or later. To compare it fairly, start with the same pretax money and follow what is left after the relevant taxes—not just which account shows the larger balance.
+When your account gives you a Traditional or Roth choice, you're deciding when to pay income tax on that retirement money: now or later.
 
-A deductible Traditional contribution can reduce taxable income now. The account grows under its retirement tax rules, and taxable withdrawals generally create ordinary income later. A Roth contribution uses money already subject to tax; qualified withdrawals can be tax-free. Eligibility, contribution rules, and distribution conditions still apply.
+For a Bitcoin holder, Roth can sound like the obvious answer. If you expect the investment to grow substantially, being able to make qualified withdrawals without another income-tax bill is attractive.
 
-Compare the same economic starting point. Suppose you have one thousand dollars of pretax earnings available to save, and the relevant tax rate is twenty percent. A deductible Traditional contribution can put the full thousand into the account. A Roth contribution from the same earnings puts eight hundred in after the tax.
+But we need to compare both sides. Traditional may let you put more money to work today because of the current tax benefit. What that money eventually provides depends on the tax when it comes out, as well as what you did with the benefit going in.
 
-Now suppose both investments double. Traditional holds two thousand before withdrawal tax. At the same twenty-percent withdrawal rate, it leaves sixteen hundred. Roth holds sixteen hundred and, assuming the withdrawal is qualified, also leaves sixteen hundred. The higher growth did not by itself make one tax treatment superior.
+Let's work through a small example before applying it to the household.
 
-Change the future tax rate and the answer changes. At thirty percent, the Traditional withdrawal leaves fourteen hundred. At ten percent, it leaves eighteen hundred. The Roth amount in this simplified example remains sixteen hundred. These are teaching assumptions that isolate the timing of tax; they are not your actual bracket calculation.
+Suppose you have $1,000 of earnings, before income tax, available for retirement saving. We're using a simple 20% tax rate for this example. It isn't an actual tax bracket calculation for Alex and Morgan.
 
-For Bitcoin holders, growth inside a Roth can be valuable. Growth inside Traditional can also magnify future taxable distributions. But the initial deduction, what you do with the tax savings, and the rate on future withdrawals still matter. Comparing the same dollar contribution to both accounts while ignoring the tax paid outside the Roth can make the comparison misleading.
+With a fully deductible or pre-tax Traditional contribution, the full $1,000 goes into the retirement account. You haven't paid that income tax yet.
 
-Look at the household's timeline. A high current marginal rate followed by lower-income early-retirement years can favor using a deduction now and considering conversions or withdrawals later. A low current rate, substantial future taxable income, or a desire for tax-free flexibility can favor Roth. Future tax law and income are uncertain, which is one reason a deliberate mix can be useful.
+With Roth, pay the $200 tax first. The same $1,000 of earnings leaves $800 to contribute.
 
-Required distributions from Traditional accounts may reduce control later. Social Security, pensions, healthcare subsidies, and Medicare premiums can also change the effective cost of an additional withdrawal or conversion. We will examine those interactions in Tax and Retirement Income rather than deciding from one bracket label alone.
+So we begin with $1,000 in Traditional or $800 in Roth—not $1,000 in both. If you put $1,000 in the Roth as well, you need additional money to cover the tax. That can be a valid choice, but it would be a different starting budget.
 
-Current cash flow matters too. Switching an employee contribution from Traditional to Roth may lower take-home pay if the contribution amount stays the same. Recheck the monthly pool so the change does not quietly take money from the Reserve or create a card balance.
+Now suppose both investments double.
 
-Access also matters. A Roth IRA has ordering rules for contributions, conversions, and earnings. A Roth workplace plan is not identical to a Roth IRA. A rollover or early withdrawal can change the available path. Do not rely on a broad statement that all Roth money is freely accessible.
+Traditional has $2,000 before withdrawal tax. Roth has $1,600. The Traditional balance is larger, but we're not finished comparing what you can spend.
 
-For the Reeds, the next step is to compare the current election with Roth or a split using the same economic budget and clearly stated tax assumptions. Their current tax election and exact tax effect are not established by the account label. We will not choose a permanent winner before those facts are entered.
+At the same 20% tax rate on the Traditional withdrawal, $400 goes to tax. That leaves $1,600. The Roth also leaves $1,600, assuming the withdrawal is qualified.
 
-A useful answer explains both ends: what happens to take-home pay now and what income or flexibility the household expects later. If a change leaves less cash today, that reduction has to fit alongside the reserve and debt choices already made.
+They end in the same place in this simplified example.
 
-Record the election you intend to use and the reason, or the one tax question preventing the choice. Confirm it with payroll or the custodian before treating it as implemented. Revisit it when income, retirement timing, or the expected tax picture changes.
+That helps us identify what changes the answer. It isn't growth alone. Change the tax treatment, the resources committed, or what happens to the tax saving, and the result can change.
+
+Keep the same starting example, but use a 30% tax rate on the Traditional withdrawal. The $2,000 leaves $1,400 after tax, compared with the Roth's $1,600. If the tax on that withdrawal is 10%, Traditional leaves $1,800 instead.
+
+The relevant tax rate now compared with later makes a difference. The amount an investment grows can make those differences larger in dollars, but it doesn't remove the need to compare them.
+
+Your real tax return isn't one flat rate. We need the tax saved by the particular contribution now and the tax caused by withdrawals later, considering the other income in those years. Using the household's average tax rate for every additional dollar can give the wrong comparison.
+
+Start with today's situation. Is the deduction available, and how valuable would it be? An account called Traditional doesn't guarantee a full IRA deduction. Check the rules that apply to the account and household.
+
+Then look at when you expect to use the money. A period of lower income after work stops may offer room for withdrawals or conversions at a lower tax cost. A pension, other taxable income, or large required distributions later could make the picture different.
+
+That's one reason I wouldn't decide solely from “I'll be retired, so I'll pay less tax.” Look at the income the plan expects in those years. For a Bitcoin-heavy Traditional account, strong growth could create a much larger balance that eventually produces taxable distributions. That deserves attention, not an assumption that every retired year has a low rate.
+
+On the other hand, I wouldn't dismiss a valuable deduction today simply because Bitcoin could grow a lot. If the plan can use the money later at a lower tax cost, or has a useful conversion window, Traditional can be worth comparing.
+
+A conversion is a separate decision. It moves existing retirement money into Roth treatment under the applicable rules. Choosing Roth for new payroll contributions doesn't convert the Traditional money already in the account. We will work through conversions in the tax session, including the cash needed for any tax.
+
+Roth also offers useful flexibility. Qualified withdrawals can avoid adding taxable income when you need spending money. Under current rules, Roth IRAs and designated Roth workplace accounts don't require distributions during the original owner's lifetime, although beneficiaries have their own rules.
+
+Traditional required distributions can reduce your control later. Other interactions—such as Social Security taxation or income-related healthcare costs—can change the full cost of an additional withdrawal. We'll look at those in Tax and Retirement Income rather than assume the bracket alone captures everything.
+
+Those future benefits still have to be affordable today.
+
+Suppose you keep the same payroll contribution amount but switch it from pre-tax Traditional to Roth. More of your pay is now subject to income tax, so take-home pay may be lower. That difference needs to fit beside the Reserve, debt payments and other contributions.
+
+For Alex and Morgan, we cannot change the election and simply assume the same $1,700 remains available for the Reserve and extra card payment. We need to check the actual effect. Their current $775 employee contribution tells us the amount being saved; it doesn't establish the tax election or the final tax cost.
+
+This is also why the way you use Traditional tax savings matters. If the saving is invested, it belongs in the comparison. If it gets spent, the household has used it for today's life instead of adding it to future resources. Neither should be hidden when comparing outcomes.
+
+You don't have to make an all-or-nothing choice for the rest of your working life. A deliberate mix can provide different sources to use later and avoid putting the entire decision on one forecast of future tax rates. The split should have a reason, not just be half and half because you're uncertain.
+
+For example, a lower tax cost today and substantial expected future taxable income can make Roth more attractive. A valuable current deduction and credible lower-income years can make Traditional more attractive. When both have a job, compare a mix that keeps the current cash flow workable.
+
+Don't confuse Roth tax treatment with unrestricted access. Regular Roth IRA contributions, conversions and earnings have different rules, and workplace Roth money follows its plan's distribution rules. We will use the actual access route when building the retirement paycheck.
+
+In the working chapter, we'll compare the current election with the alternatives using a consistent saving budget. Then we'll check both ends: what happens to money available today, and what kind of retirement money the contribution builds.
+
+Record the election you're considering and why, or the specific tax question that needs answering first. Confirm eligibility and the change with payroll or the custodian before treating it as implemented. Revisit the choice when income, retirement timing or the expected tax picture changes.
+
+### Visual notes — not spoken
+
+Build the existing equal-pretax example slowly, not as a table shown all at once: $1,000 earnings; Traditional $1,000 contribution; Roth $800 after hypothetical 20% tax. Both investments double; Traditional $2,000 before tax → $1,600 after 20%; Roth $1,600 after a qualified withdrawal. Then change only Traditional's assumed future tax to 30% ($1,400) or 10% ($1,800). No year, return forecast or real Reed bracket is supplied.
+
+The 10% and 30% figures are tax rates applied to the withdrawal, not portfolio spending rates. Compare same economic resources, with any tax saving invested or spent explicitly accounted for. Do not ignore tax paid outside an equal-dollar Roth contribution.
 
 ### Production notes
 
-Equal-pretax-budget example is mandatory: 1000→2000→1600 Traditional; 800→1600 Roth at equal 20% rates. Include limitations for marginal/effective rates, eligibility, tax-savings reinvestment, and qualified withdrawals. Never teach Bitcoin growth alone as proof Roth always wins. Professional tax review before final tax-specific recording.
+The older deck says choose when to pay tax and notes that a mix may fit. Global Brain explicitly separates contributions from conversions and says both current deduction and future income matter. The current script already requires the equal-budget comparison and rejects growth alone as proof Roth always wins. Those are preserved, not new reversals attributed to Austin. Any older master with a universal Roth preference is coverage history, not this edit's governing rule.
+
+Narrow outside references read September 8, 2026: IRS Roth accounts, https://www.irs.gov/retirement-plans/roth-acct-in-your-retirement-plan ; IRA deduction limits, https://www.irs.gov/retirement-plans/ira-deduction-limits ; required distributions, https://www.irs.gov/retirement-plans/plan-participant-employee/retirement-topics-required-minimum-distributions-rmds ; Publication 590-B, https://www.irs.gov/publications/p590b . Use current guidance: some older IRS comparison pages still show superseded workplace-Roth RMD language or prior-year limits. No such old limits or RMD statement is carried into this script. These checks establish narrow mechanics only, not full tax-model or professional approval.
+
+TAX_REVIEW remains for recording. W04 chapter 6 must resolve the actual current election, jurisdiction, effective tax effect and same-budget comparison before any saved choice or improved outcome is claimed. Employer match terms and taxable effects are verified separately. No deduction, conversion amount, tax saving or permanent winning election is invented for the Reeds.
 
 ### Member checkpoint
 
-- Compare equal pretax resources and the relevant tax rates.
-- Check effects on current cash flow and future access.
-- Choose a provisional election or a specific question for tax review.
-
-### Source-led visual and teaching notes — not spoken
-
-Keep the equal-pretax $1,000 example intact: Traditional $1,000 → $2,000 → $1,600 at 20%; Roth $800 → $1,600 qualified. Show 10% and 30% future-rate alternatives as hypothetical, not Reed brackets. Put take-home-pay effects beside the comparison.
-
-Editorial reason: Connect the existing fair-tax comparison to current affordability without fabricating the Reed election.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+- Compare Traditional and Roth from the same economic starting point and explain why the relevant tax rates matter.
+- Separate new contributions from conversions and check current take-home cash and future access.
+- Choose a reasoned provisional election or specific professional question, with payroll execution still distinct.
