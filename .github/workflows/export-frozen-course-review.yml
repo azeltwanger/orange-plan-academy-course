@@ -11,15 +11,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          ref: bf390a374c53651a0a3993ee2c7fd3c3a6da2391
+          ref: 2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b
           persist-credentials: false
       - name: Package exact reviewed source
         run: |
           set -euo pipefail
-          test "$(git rev-parse HEAD)" = "bf390a374c53651a0a3993ee2c7fd3c3a6da2391"
+          test "$(git rev-parse HEAD)" = "2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b"
           git archive --format=zip --output=academy-review-source.zip HEAD
       - uses: actions/upload-artifact@v4
         with:
-          name: academy-frozen-review-bf390a
+          name: academy-frozen-review-2343e6
           path: academy-review-source.zip
           retention-days: 3
