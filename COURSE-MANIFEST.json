@@ -15,9 +15,9 @@
       "path": "scripts/00-1_build-a-plan-you-can-use.md",
       "gate": "OWNER_REVIEW",
       "sources": "DICTATION, MASTER, LANDING, OWNER",
-      "words": 725,
-      "spoken_sha256": "9d5c7186f28545bc97d21090a3a247fd46fe84231e8e21885e410e571835144c",
-      "source_sha256": "26b887b6bc0e0a6f65d7e7530fe662219804727090fcfc8bf5c4af3f194c562f"
+      "words": 763,
+      "spoken_sha256": "2362b84600535962405c66dfbb117758c7ee18f2ce32031ea3dba3eda89cf0f1",
+      "source_sha256": "7643b362cb48528f80c71561758ee1e447c1efdaaed7c64bd1576d9208eab1e5"
     },
     {
       "id": "0.2",
@@ -25,9 +25,9 @@
       "path": "scripts/00-2_use-ask-to-understand-your-own-numbers.md",
       "gate": "APP_CAPTURE",
       "sources": "DICTATION, APP, LANDING",
-      "words": 648,
-      "spoken_sha256": "3da72af61b0a950232948f1bf767d08e65e1f3779ad1281d6dcf946cce838ebc",
-      "source_sha256": "b1d0355db419ab0371ee1d2fca4f7b2f5de1b098db785e1d7fee65e206545780"
+      "words": 700,
+      "spoken_sha256": "4167ebd77984f648f45a6b878a676f7aa63ce0e69a94dae603b9504473436514",
+      "source_sha256": "4f9e2650ed4f32ca501087fdeaeb254cfae08bf872cb2d3796553083840bccb7"
     },
     {
       "id": "1.1",
@@ -35,9 +35,9 @@
       "path": "scripts/01-1_decide-what-belongs-in-your-saved-plan.md",
       "gate": "OWNER_REVIEW",
       "sources": "DICTATION, FOUNDATION, MASTER, APP",
-      "words": 616,
-      "spoken_sha256": "38d723d963b35f9e2f2fda9cdfa1ab0067fd5326b9e03f691369fd9c19c90ecf",
-      "source_sha256": "7a74ee41dcbdb034593a31f6825b18e21c0e3f7a0bec1d4d4e9ba46088b59455"
+      "words": 689,
+      "spoken_sha256": "0d321b9c28d06e2b72baadb9a73f8d63449300090a0482789cf2a1cae02f2448",
+      "source_sha256": "01040b085b04bea16681a546baa5f8eec84d8f4f9d160aa6393e1c88d702a75a"
     },
     {
       "id": "1.2",
@@ -45,9 +45,9 @@
       "path": "scripts/01-2_add-accounts-and-show-what-each-one-owns.md",
       "gate": "APP_CAPTURE",
       "sources": "DICTATION, FOUNDATION, ALLOCATION, APP",
-      "words": 650,
-      "spoken_sha256": "192d3b218e47d08b6f4294529b7ab7275f3a6f3ecca8cf651a016ab06666e2d3",
-      "source_sha256": "09fd7172b798510998a467ba8d50d1f0cebfc5c2d649ab2f9c7a13c78d211f6d"
+      "words": 781,
+      "spoken_sha256": "f5a7f43e9590aca99b9938b0bff9f28e5a29d3d2337735f4806ca133d58dcbaf",
+      "source_sha256": "3bf167bcf0fdcbdbf12449af68ef8b8b42fe75d7b0a0dba5613c71f01cb8741e"
     },
     {
       "id": "1.3",
@@ -55,9 +55,9 @@
       "path": "scripts/01-3_enter-income-spending-debts-and-the-retirement-starting-point.md",
       "gate": "APP_CAPTURE",
       "sources": "FOUNDATION, CASHFLOW, DICTATION, APP",
-      "words": 621,
-      "spoken_sha256": "9b95ab214a170bb2d0c2520f064bb3c1dce86b2e286d362cdffae0c8f6955935",
-      "source_sha256": "0f7c7be304e2fcef0b6de26a9a63534da9bd8dfe2b1d5a95ebd1634bd4a0a6b4"
+      "words": 853,
+      "spoken_sha256": "7472751b292c80df518c05cb94e2ab3068eb9239386e2a9978555928081f7bf6",
+      "source_sha256": "689972028e87e8ec88337f25f90d2072163043b2bb3657a7cb7fc3875c646b48"
     },
     {
       "id": "1.4",
@@ -65,9 +65,9 @@
       "path": "scripts/01-4_choose-assumptions-you-can-explain.md",
       "gate": "OWNER_REVIEW",
       "sources": "DICTATION, FOUNDATION, APP, MASTER",
-      "words": 648,
-      "spoken_sha256": "a76464ea028da46dd6373c8be421d0bb7930e7cee177d5f46698c2fe0aea813b",
-      "source_sha256": "69e304598f3395be992834848432f75dff159028ad3cce55c56d93fffef65f59"
+      "words": 827,
+      "spoken_sha256": "d541fdac10c121c0dac5f00597b6dc7cb3fdaa5b2e3ea4f1fc63c1af5bd7fffb",
+      "source_sha256": "fad0fae4a4e23e4fda69bcbe1edf89a526729da305d8c969b03e6076e3db5d76"
     },
     {
       "id": "1.5",
@@ -75,9 +75,9 @@
       "path": "scripts/01-5_read-the-first-answer-and-choose-the-next-improvement.md",
       "gate": "APP_CAPTURE",
       "sources": "FOUNDATION, APP, DICTATION, REVIEW",
-      "words": 643,
-      "spoken_sha256": "95b2eb4ea01e07d6e4bf0354a697bd44978202fbaa5cfe440ad22b224deff8bf",
-      "source_sha256": "1919361c7fb1abfe17eb4564691abe4395594089f54e7ce58af3a6929848009a"
+      "words": 820,
+      "spoken_sha256": "c9fb931b2e96a702d679d9dd09488c9a10a3a4ab7e2f67f107a74f6ff5b9fbf4",
+      "source_sha256": "7181e5422d0a56190d3a5201d80de0da68a8e855eca9328753938ef67b8b5bcd"
     },
     {
       "id": "2.1",
@@ -677,7 +677,7 @@
       "sources": "FOUNDATION, DICTATION, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "4ee0b65c4f9f1432aab531f76b6d061faea6f3250e618532ceaa6fc82b531074"
+      "source_sha256": "5b065c73f7fb15823b42a395fc37a665577b4e604857b7643dca90698777718f"
     },
     {
       "id": "W02",

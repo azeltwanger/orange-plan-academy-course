@@ -1,8 +1,8 @@
 # 1.2 — Add accounts and show what each one owns
 
-Status: PRE_DICTATION — editorial review complete; Austin approval pending.
-Adapted source: `course-v2/sessions/01-first-working-plan.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
+Status: SOURCE_LED_REVIEW — revised using the accepted Reserve reference; integrated wording awaits Austin's review.
+Adapted source: `course-v2/sessions/01-first-working-plan.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`, original account-gathering explanations, and the sources identified in `delivery/source-led-batch-01.md`.
+App references: D54/D65 concepts; entry, source coverage and history behavior retain APP_CAPTURE.
 
 Kind: teach
 Gate: APP_CAPTURE
@@ -10,38 +10,52 @@ Sources: DICTATION, FOUNDATION, ALLOCATION, APP
 
 ### Read aloud
 
-An account tells us where something is held and the rules around it. A holding tells us what the money actually owns. We need both.
+The question for this lesson is simple: what do you own today, and where is it held?
 
-A Roth IRA is an account. The Bitcoin fund, stock fund, or cash inside it is the holding. A hardware wallet describes a custody arrangement. The Bitcoin associated with that wallet is the asset. Once those two ideas are clear, entering the portfolio becomes much easier.
+There are two parts to the answer. An account tells us who owns it and the rules around it. The holdings tell us what is inside. A Roth IRA is an account. The stock fund, Bitcoin fund, or cash inside it is what the account owns.
 
-Start with an account list. Include checking and savings, brokerage accounts, each person's retirement accounts, education and health accounts where applicable, direct Bitcoin, and any other meaningful assets. Keep ownership straight. Two spouses can have accounts at the same institution with different tax treatment and different access rules.
+You can have two accounts worth the same amount with very different investments and tax treatment. That is why a total by itself isn't the complete picture.
 
-Alex and Morgan have a checking account, a reserve account, a taxable brokerage account, retirement accounts, and direct Bitcoin held in two ways. We will introduce them in groups. The first goal is to get the current picture right, not to decide what every account should hold in the future.
+Start with a list of your accounts. Include checking and savings, brokerage and retirement accounts, and education or health accounts that apply to you. Include direct Bitcoin and other meaningful assets too. Keep each person's ownership clear, even when several accounts are at the same institution.
 
-For each account, confirm the current total and the holdings that explain it. A linked account may provide both automatically, or it may only provide a total. Read what the connection actually supplied. A reported investment-account balance with no holdings does not mean the entire account is cash. It means the holdings still need to be identified.
+If you've already entered an account, review it instead of adding it again. We want one current picture, not a new set of accounts every time you work through the course.
 
-That distinction matters for a Bitcoin-heavy plan. A retirement account invested in a spot Bitcoin ETF and one invested in a stock index can have the same dollar value today but very different modeled behavior. Give the plan the actual investment, or retain an honest unknown until you can check.
+Let's look at Alex's Roth IRA. It is worth a hundred forty-five thousand dollars in our fictional example. Inside it, there is a hundred sixteen thousand of exposure through a spot Bitcoin fund and twenty-nine thousand in stocks. Those amounts explain the account total. They are not another hundred forty-five thousand to add on top.
 
-You can establish an existing holding from its current quantity or current value using the supported entry path. That is different from recording a purchase that happened today. We will not create a fake transaction just to make an account show a balance.
+For your own account, look at the investments on its statement. Check the name, the quantity when you know it, and the current value. Don't guess the share count or select a familiar ticker just because it seems close. A current value can tell us something useful while a different detail still needs checking.
 
-Purchase details are another layer. The amount paid and acquisition date matter for taxable gains. They may come from an exchange export, brokerage history, or other reliable records. A missing date remains missing. A missing cost basis remains unknown. We will work on those records in Tax, and we will keep tax-sensitive results qualified until they are supported.
+A connection to an institution can also provide only part of the picture. It may report the account balance without identifying the investments. That does not make the account cash. It means we still need to know what the balance is invested in.
 
-For a retirement account, current investments still matter for allocation and projections. A complete history of every trade inside a Roth IRA is not a prerequisite to identifying what the account currently owns. The account's tax rules and any contribution or distribution records that matter are separate from pretending every internal trade has the same tax role as a taxable sale.
+I would rather see an honest missing detail than a precise-looking number that is wrong. Check what the source actually supplied: a balance, investments, activity, purchase details, or some combination. We'll read that information in the walkthrough rather than assume everything arrived because an account is connected.
 
-Transfers deserve particular care. Suppose Bitcoin was bought at an exchange and later moved to self-custody. It is the same Bitcoin moving between locations. The purchase belongs where it happened; the transfer connects the original history to the destination. Entering a second purchase at the wallet would make the record tell the wrong story.
+There is also a difference between identifying what you hold and recording how you bought it. If you already own the investment, entering that position is not a purchase happening today. We should not invent a purchase, date, or price just to get it into the plan.
 
-The same issue appears when adding older activity to an already current linked balance. History helps explain the holdings. It must not increase the household's Bitcoin a second time. In the working session we will show the difference between establishing what exists and adding information about how it got there.
+Purchase history tells a separate part of the story. What you paid helps establish cost basis, which matters when we look at taxable gains. The acquisition date matters too. Gather the available records from exchanges and brokerages you used, including older accounts. Keep the files together so we can review them in the tax session. Missing history stays missing until you can support it; it does not become a known zero cost.
 
-Before leaving an account, compare the total against its statement. Check that the holdings add up, the owner and tax treatment are right, and the same assets are not listed twice. For direct Bitcoin, record the quantity and a non-secret account name. Recovery words, private keys, passphrases, and exact backup locations stay out of the app and the recording.
+For a retirement account, we still need to know the current investments. You do not have to reconstruct every trade inside a Roth IRA just to identify today's holdings. Contribution and distribution records can matter for other questions, but that is different from treating every internal trade as a taxable-account sale.
 
-The account chapters come next. We will use a manual example, a linked example, and an account whose reported total needs investment details. After those chapters, you should know what the household owns and which details remain to be checked. Allocation decisions come later, once this picture is reliable.
+Direct Bitcoin adds a custody question. A hardware wallet describes how you control access. The Bitcoin is the asset. Use a clear, non-secret name for the custody location and check the quantity. A Bitcoin fund remains a security in its account; it is not a balance of native Bitcoin you can withdraw from a hardware wallet.
+
+Suppose you bought Bitcoin on an exchange and later moved it to your own wallet. The transfer moved the Bitcoin; it did not create another purchase or another holding of the same coins. The purchase history should explain the current position, not count it a second time. The same applies when you add old activity to an account whose current total is already correct.
+
+We'll walk through a cash account, an investment account, and a direct-Bitcoin example. We'll also look at an investment-account total that still needs its holdings explained. The exact entry steps are in that recording, so you can follow them while looking at your own statement.
+
+Before leaving each account, check three things: does the total agree with the record, do the investments explain it, and are the owner and account type correct? Where something is missing, name the specific detail to find. We are establishing what you have today; deciding what you should hold next comes in Allocation.
+
+Keep recovery words, private keys, passphrases, PINs, account passwords and exact backup locations out of the app and course materials. They are not needed for this inventory.
+
+### Visual notes — not spoken
+
+Use the original Foundation core-input checklist and the account-versus-holding concept from the Allocation material. Show Alex's Roth IRA total once, with $116,000 spot-fund exposure + $29,000 stocks = $145,000 inside the same boundary. This is the source's asset-class example, not verified fund tickers or quantities. Show a generic account-total-only card labeled investments still to identify, not cash. Show a single position moving between two custody locations; do not use a purchase animation twice.
 
 ### Production notes
 
-D54–D65 gate. Show Add investment for a balance-only investment account, not Add a purchase. Never convert an unknown total into cash or an unsupported zero basis. Spot ETF remains a security, direct Bitcoin remains Bitcoin. Show only supported adapters and workflows on the filmed build. No real account numbers or credentials.
+Source ledger: `delivery/source-led-batch-01.md`. The source fixture has broad asset categories, not verified security names, so the recording must use the approved Estimated mix representation or a separately reviewed fictional capture extension. Do not label category totals as an exact normalized holdings collection. Preserve the account total once, genuine confirmed cash separately, and the unresolved remainder as unknown.
+
+W01 chapters 2–5 contain entry, capability, D65 composition, and transfer/history proof. Exact Add investments/Add a purchase labels, current-value versus quantity entry, accepted classifications, and source reconciliation remain gated. Unknown date and basis are not invented; no direct-Bitcoin quantity is assigned to ETF exposure. Do not promise a complete import history or fix source gaps by manufacturing transactions. Targeted factual review remains for any tax/access execution material added later.
 
 ### Member checkpoint
 
-- Account ownership and tax treatment are checked.
-- Current holdings explain each total, or a specific unknown is recorded.
-- History and balance are reconciled without double counting.
+- Review each account's owner, type and current total without creating duplicates.
+- Explain the total with supported holdings or identify exactly what remains unknown.
+- Keep current positions, purchases, and transfers distinct; preserve private recovery material.

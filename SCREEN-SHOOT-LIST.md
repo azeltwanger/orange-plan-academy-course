@@ -6,7 +6,9 @@ All eleven practical recordings remain unapproved until a matching entry in CAPT
 
 [Run sheet and cues](scripts/working/W01_build-the-first-working-plan.md)
 
-The household can explain its current position, initial monthly cash flow, assumptions, first result, and the one missing detail most likely to change the next decision. No duplicate accounts, fabricated lots, or assumed outcomes. Proceed to W02 for spending verification and Reserve choices.
+Ask the member to explain, without repeating the whole course: what the household owns; how the monthly money is accounted for; which retirement date is a choice; which assumptions drive the result; where funding comes from in one relevant year; and the next check or comparison. Unfinished purchase details remain explicit and do not become invented zeroes. An unresolved prerequisite or unavailable full result is not marked complete.
+
+Proceed to W02 to verify spending more fully and choose reserve funding. Keep the accepted Reserve chapters there unchanged. This run sheet does not certify an engine run, usable release, actual save, completed transfer, recording or launch.
 
 ## W02 — Verify cash flow, set the Reserve, and add expected events
 

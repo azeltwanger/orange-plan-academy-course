@@ -4,13 +4,13 @@ Read chronologically. Edit the canonical script when dictating; `teleprompter/` 
 
 | Lesson | Read-aloud copy | Canonical script | Words | Publication gate |
 |---|---|---|---:|---|
-| 0.1 · Build a plan you can use | [Read](teleprompter/core/0-1.txt) | [Edit](scripts/00-1_build-a-plan-you-can-use.md) | 725 | OWNER_REVIEW |
-| 0.2 · Use Ask to understand your own numbers | [Read](teleprompter/core/0-2.txt) | [Edit](scripts/00-2_use-ask-to-understand-your-own-numbers.md) | 648 | APP_CAPTURE |
-| 1.1 · Decide what belongs in your saved plan | [Read](teleprompter/core/1-1.txt) | [Edit](scripts/01-1_decide-what-belongs-in-your-saved-plan.md) | 616 | OWNER_REVIEW |
-| 1.2 · Add accounts and show what each one owns | [Read](teleprompter/core/1-2.txt) | [Edit](scripts/01-2_add-accounts-and-show-what-each-one-owns.md) | 650 | APP_CAPTURE |
-| 1.3 · Enter income, spending, debts, and the retirement starting point | [Read](teleprompter/core/1-3.txt) | [Edit](scripts/01-3_enter-income-spending-debts-and-the-retirement-starting-point.md) | 621 | APP_CAPTURE |
-| 1.4 · Choose assumptions you can explain | [Read](teleprompter/core/1-4.txt) | [Edit](scripts/01-4_choose-assumptions-you-can-explain.md) | 648 | OWNER_REVIEW |
-| 1.5 · Read the first answer and choose the next improvement | [Read](teleprompter/core/1-5.txt) | [Edit](scripts/01-5_read-the-first-answer-and-choose-the-next-improvement.md) | 643 | APP_CAPTURE |
+| 0.1 · Build a plan you can use | [Read](teleprompter/core/0-1.txt) | [Edit](scripts/00-1_build-a-plan-you-can-use.md) | 763 | OWNER_REVIEW |
+| 0.2 · Use Ask to understand your own numbers | [Read](teleprompter/core/0-2.txt) | [Edit](scripts/00-2_use-ask-to-understand-your-own-numbers.md) | 700 | APP_CAPTURE |
+| 1.1 · Decide what belongs in your saved plan | [Read](teleprompter/core/1-1.txt) | [Edit](scripts/01-1_decide-what-belongs-in-your-saved-plan.md) | 689 | OWNER_REVIEW |
+| 1.2 · Add accounts and show what each one owns | [Read](teleprompter/core/1-2.txt) | [Edit](scripts/01-2_add-accounts-and-show-what-each-one-owns.md) | 781 | APP_CAPTURE |
+| 1.3 · Enter income, spending, debts, and the retirement starting point | [Read](teleprompter/core/1-3.txt) | [Edit](scripts/01-3_enter-income-spending-debts-and-the-retirement-starting-point.md) | 853 | APP_CAPTURE |
+| 1.4 · Choose assumptions you can explain | [Read](teleprompter/core/1-4.txt) | [Edit](scripts/01-4_choose-assumptions-you-can-explain.md) | 827 | OWNER_REVIEW |
+| 1.5 · Read the first answer and choose the next improvement | [Read](teleprompter/core/1-5.txt) | [Edit](scripts/01-5_read-the-first-answer-and-choose-the-next-improvement.md) | 820 | APP_CAPTURE |
 | 2.1 · Find the amount your plan actually has available | [Read](teleprompter/core/2-1.txt) | [Edit](scripts/02-1_find-the-amount-your-plan-actually-has-available.md) | 601 | OWNER_REVIEW |
 | 2.2 · Free up money without cutting the life you value | [Read](teleprompter/core/2-2.txt) | [Edit](scripts/02-2_free-up-money-without-cutting-the-life-you-value.md) | 582 | OWNER_REVIEW |
 | 2.3 · Size the Reserve for the job it has to do | [Read](teleprompter/core/2-3.txt) | [Edit](scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md) | 1139 | OWNER_REVIEW |
