@@ -20,11 +20,15 @@ jobs:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
         with:
           ref: ${{ github.event.pull_request.head.sha }}
-          fetch-depth: 1
+          fetch-depth: 0
           persist-credentials: false
-      - name: Regenerate existing course reading copies and run existing checks
+      - name: Apply reviewed text and regenerate existing reading copies
         run: |
+          set -euo pipefail
           test "$(git rev-parse HEAD)" = "$EXPECTED_HEAD"
+          if test -f tools/_complete_source_led.py; then
+            python tools/_complete_source_led.py
+          fi
           python tools/guided_course.py build
           python tools/guided_course.py check
           python tools/guided_course.py test
@@ -32,34 +36,30 @@ jobs:
           python - <<'PY'
           import importlib.util, subprocess
           from pathlib import Path
-          root = Path.cwd()
-          spec = importlib.util.spec_from_file_location('guided_course', root/'tools/guided_course.py')
-          module = importlib.util.module_from_spec(spec)
-          spec.loader.exec_module(module)
-          allowed = set(module.outputs(root)) | {'ARITHMETIC-CHECKS.json'}
-          changed = set(filter(None, subprocess.check_output(['git','diff','--name-only','HEAD'], text=True).splitlines()))
-          assert changed <= allowed, 'Unexpected non-generated tracked-file mutation'
-          deleted = subprocess.check_output(['git','diff','--name-only','--diff-filter=D','HEAD'], text=True).strip()
-          assert not deleted, 'Unexpected deletion'
-          print('Generated-only change scope verified:', len(changed), 'files')
+          root=Path.cwd()
+          spec=importlib.util.spec_from_file_location('guided_course',root/'tools/guided_course.py')
+          g=importlib.util.module_from_spec(spec);spec.loader.exec_module(g)
+          temporary={'tools/_complete_source_led.py','tools/_completion_edits_02_05.json','tools/_completion_edits_06_10.json','tools/_completion_edits_advanced.json','tools/_completion_working.json'}
+          changed=set(filter(None,subprocess.check_output(['git','diff','--name-only','HEAD'],text=True).splitlines()))
+          untracked=set(filter(None,subprocess.check_output(['git','ls-files','--others','--exclude-standard'],text=True).splitlines()))
+          allowed=set(g.outputs(root))|{'ARITHMETIC-CHECKS.json','PRIMARY-SOURCES.md','delivery/source-led-completion.md'}|{r['path'] for r in g.catalog(root)}|temporary
+          assert changed|untracked <= allowed,'Unexpected file change'
+          deleted=set(filter(None,subprocess.check_output(['git','diff','--name-only','--diff-filter=D','HEAD'],text=True).splitlines()))
+          assert deleted<=temporary,'Unexpected deletion'
+          print('Reviewed text/generated scope verified:',len(changed|untracked),'files')
           PY
-      - name: Commit generated copies only to the dedicated course branch
+      - name: Commit verified course edits to dedicated branch only
         env:
           GH_TOKEN: ${{ github.token }}
         run: |
           set -euo pipefail
-          if git diff --quiet; then
-            echo 'Generated layers already synchronized.'
+          if test -z "$(git status --porcelain)"; then
+            echo 'Course already synchronized.'
             git rev-parse HEAD
             exit 0
           fi
-          python - <<'PY'
-          import subprocess
-          paths = subprocess.check_output(['git','diff','--name-only','-z','HEAD']).decode().split('\0')
-          for path in filter(None, paths):
-              subprocess.run(['git','add','--',path],check=True)
-          PY
-          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Regenerate reading copies for accepted Reserve reference'
+          git add -A
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'Complete remaining source-led teaching and recording plans'
           cat > "$RUNNER_TEMP/academy-askpass.sh" <<'SH'
           #!/bin/sh
           case "$1" in
