@@ -26,6 +26,9 @@ jobs:
         run: |
           set -euo pipefail
           test "$(git rev-parse HEAD)" = "$EXPECTED_HEAD"
+          if test -f tools/_completion_anchor_patch.py; then
+            python tools/_completion_anchor_patch.py
+          fi
           if test -f tools/_complete_source_led.py; then
             python tools/_complete_source_led.py
           fi
@@ -39,7 +42,7 @@ jobs:
           root=Path.cwd()
           spec=importlib.util.spec_from_file_location('guided_course',root/'tools/guided_course.py')
           g=importlib.util.module_from_spec(spec);spec.loader.exec_module(g)
-          temporary={'tools/_complete_source_led.py','tools/_completion_edits_02_05.json','tools/_completion_edits_06_10.json','tools/_completion_edits_advanced.json','tools/_completion_working.json'}
+          temporary={'tools/_complete_source_led.py','tools/_completion_edits_02_05.json','tools/_completion_edits_06_10.json','tools/_completion_edits_advanced.json','tools/_completion_working.json','tools/_completion_anchor_patch.py'}
           changed=set(filter(None,subprocess.check_output(['git','diff','--name-only','HEAD'],text=True).splitlines()))
           untracked=set(filter(None,subprocess.check_output(['git','ls-files','--others','--exclude-standard'],text=True).splitlines()))
           allowed=set(g.outputs(root))|{'ARITHMETIC-CHECKS.json','PRIMARY-SOURCES.md','delivery/source-led-completion.md'}|{r['path'] for r in g.catalog(root)}|temporary
