@@ -1,0 +1,64 @@
+name: Polish spoken scripts for recording before graphics
+on:
+  push:
+    branches: [course-recording-scripts-first-20260909]
+    paths: [.github/workflows/_recording-pass.yml]
+permissions:
+  contents: read
+concurrency:
+  group: academy-recording-scripts-first-20260909
+  cancel-in-progress: false
+jobs:
+  prepare:
+    if: github.repository == 'azeltwanger/orange-plan-academy-course' && github.ref == 'refs/heads/course-recording-scripts-first-20260909'
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+      - name: Apply the literal recording edit and verify the course
+        shell: bash
+        run: |
+          set -euo pipefail
+          test "$(git rev-parse HEAD)" = "$GITHUB_SHA"
+          test "$(git rev-parse HEAD^)" = 'c4c55601dfdaa893343623a75f478cbbfef120ad'
+          python -m py_compile tools/_recording_edits.py tools/_recording_pass.py
+          python tools/_recording_pass.py apply --root "$GITHUB_WORKSPACE"
+          python tools/guided_course.py build
+          python tools/guided_course.py check
+          python tools/guided_course.py test
+          python -m unittest discover -s tests -p test_member_deliverables.py -v
+          python tools/guided_course.py history
+          test -z "$(git diff c4c55601dfdaa893343623a75f478cbbfef120ad --name-only -- source-material fixtures toolkit tests CAPTURE-RECEIPTS.md PROMOTION-RECORD.json production scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md scripts/working tools/guided_course.py delivery/professional-topic-review.md)"
+      - name: Remove temporary integration files and update only the review branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          cp tools/_recording_pass.py /tmp/recording-pass-export.py
+          rm tools/_recording_edits.py tools/_recording_pass.py .github/workflows/_recording-pass.yml
+          test -z "$(git diff c4c55601dfdaa893343623a75f478cbbfef120ad --name-only -- .github tools)"
+          git add -A
+          git diff --cached --check
+          git fetch origin refs/heads/course-recording-scripts-first-20260909
+          test "$(git rev-parse FETCH_HEAD)" = "$GITHUB_SHA"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Polish recording narration and make scripts the production starting point'
+          git push origin HEAD:refs/heads/course-recording-scripts-first-20260909
+          test "$(git ls-remote origin refs/heads/course-recording-scripts-first-20260909 | cut -f1)" = "$(git rev-parse HEAD)"
+          python tools/guided_course.py check
+          git diff --exit-code
+          git rev-parse HEAD
+          git rev-parse HEAD^{tree}
+      - name: Export the clean spoken scripts with walkthroughs kept separate
+        run: python /tmp/recording-pass-export.py export --root "$GITHUB_WORKSPACE" --out /tmp/recording-export
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: Orange-Plan-Recording-Scripts
+          path: /tmp/recording-export
+          if-no-files-found: error
+          retention-days: 30
