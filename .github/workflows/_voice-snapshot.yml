@@ -1,0 +1,32 @@
+name: Snapshot course for voice edit
+on:
+  push:
+    branches: [course-voice-only-20260909]
+    paths: [.github/workflows/_voice-snapshot.yml]
+permissions:
+  contents: read
+jobs:
+  snapshot:
+    if: github.repository == 'azeltwanger/orange-plan-academy-course'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: f9cf0c9fa48a29622708b18891edde99ead26db3
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Save tracked source and recovery history
+        run: |
+          set -eu
+          mkdir -p /tmp/voice-source
+          git archive --format=tar HEAD > /tmp/voice-source/source.tar
+          git bundle create /tmp/voice-source/history.bundle --all HEAD
+          git rev-parse HEAD > /tmp/voice-source/COMMIT.txt
+          sha256sum /tmp/voice-source/source.tar /tmp/voice-source/history.bundle > /tmp/voice-source/SHA256.txt
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: Academy-Voice-Source
+          path: /tmp/voice-source
+          retention-days: 2
+          if-no-files-found: error
