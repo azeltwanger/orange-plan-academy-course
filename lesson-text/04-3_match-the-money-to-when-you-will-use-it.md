@@ -1,6 +1,6 @@
 # 4.3 — Build the rest of the portfolio around your life
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: timeframe calculations are teaching illustrations, not evidence of a per-bucket target editor or an engine-generated recommendation.
 
@@ -46,7 +46,7 @@ So don't put a bond fund in the near-term column merely because it isn't a stock
 
 Property or a business can also be part of the picture. Separate the value you own from the cash it can provide. Rent before repairs, debt service, and vacancies is not the amount available for your household. Your home isn't available to pay retirement expenses unless the plan includes a workable way to use its value.
 
-You don't need every asset category. Each one should earn its place by doing something you want the portfolio to do. More categories can also mean more costs and more work.
+You don't need every type of investment. Choose one because it provides something you need, and count the cost and work it adds.
 
 Let's use one simple example to turn that into amounts. This is a separate teaching household, not the Reeds.
 
@@ -68,7 +68,7 @@ That adds $100,000 to the cash job. With Bitcoin held at the same $500,000, ther
 
 The reason is not that every retiree needs 20% cash. This household chose to have those payments available. Keeping more in cash means less is invested for growth, so we need to test what that changes later. Choosing only the first year's payment in cash would produce a different trade-off.
 
-This is the position-sizing decision. Identify what must be funded, choose what uncertainty you are willing to accept for the remaining money, and compare the specific dollars affected. We are not claiming a formula discovers one perfect portfolio.
+That is how we choose the amounts. Start with the bills and commitments, then compare the uncertainty you're willing to accept with the remaining money. There won't be one perfect portfolio for every household.
 
 Before accepting the mix, follow the first spending need. Which account provides it? What happens if the investments are down? Does the cash cover what you said it covers, or have two commitments claimed it? If the answer fails, revise that part of the plan rather than add a reassuring label.
 
@@ -76,9 +76,9 @@ The long-runway portion also changes as time passes. Retirement is not one deadl
 
 Then add the dollar positions to see the household mix. Don't average percentages from accounts of different sizes, and don't put the household percentage into every account. An account for a near-term bill may hold no Bitcoin even when Bitcoin is half the overall portfolio.
 
-For your own plan, write the purpose beside each major holding and the amount it needs. Choose the relevant investments, compare a meaningful alternative, and identify any product detail still to confirm. You should be able to explain the non-Bitcoin portion as clearly as the Bitcoin position.
+Write the purpose and amount beside each part of your portfolio. Choose the investments for those jobs and compare the alternative you're seriously considering. Check any product details you still need before making a purchase.
 
-The target gives us a direction. The remaining lessons make it practical: how much new money is available, which account receives it, and what the contribution buys. A change to existing holdings comes with its own tax and trading costs; we will not treat choosing a target as an instruction to trade today.
+Next we'll work out how the available contributions move you toward that mix. Changing existing holdings may also make sense, but a sale has its own tax and trading costs to compare first.
 
 ### Visual and source notes — not spoken
 

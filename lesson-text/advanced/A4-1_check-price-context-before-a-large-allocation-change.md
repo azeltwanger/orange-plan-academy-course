@@ -1,13 +1,16 @@
 # A4.1 — Check price context before a large allocation change
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: OWNER_REVIEW
 Sources: ALLOCATION, BRAIN, CLIENT_THEMES
-Use when: a large proposed Bitcoin purchase or sale is being driven by recent price action.
+Use when: You are about to make a large investment purchase, sale, or allocation change and need to choose its timing.
+After lesson: 4.7
+Complete before: Complete before the large transaction; routine funded contributions do not need this detour.
+Return to: W04 chapters 7–8, then lesson 5.1
 
 ### Read aloud
 
@@ -33,9 +36,9 @@ Market indicators and valuation models can provide context. Record what the indi
 
 For the Reeds, a better-looking entry does not create cash on top of the Reserve and extra-card claims. A loan to enlarge the purchase is another decision, with its own repayment and downside—not a small adjustment to timing.
 
-Before acting, write the affordable amount, purpose, implementation pace and the fact that would justify changing the plan. That may be a new cash need or a different allocation decision. It should not be an explanation assembled afterward to excuse an impulsive trade.
+Write down the amount you can afford, the reason for the purchase or sale, and the pace you've chosen. Also note what would change that decision—a new cash need or a revised allocation, for example.
 
-Return to the ordinary contribution plan when the large decision is settled. The purpose of this check is a deliberate transaction, not constant market monitoring.
+Once the large transaction is settled, return to the ordinary contribution plan. You don't need to repeat this price review every payday.
 
 ### Visual and source notes — not spoken
 

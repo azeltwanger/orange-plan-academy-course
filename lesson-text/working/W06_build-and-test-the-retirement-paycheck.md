@@ -8,6 +8,12 @@ Kind: capture
 Gate: APP_CAPTURE
 Sources: RETIREMENT, RETIREMENT_DECK, APP, PRIMARY
 
+### For your situation — recording route, not spoken
+
+- After 6.3, [A6.1](../advanced/A6-1_compare-healthcare-and-tax-decisions-in-the-same-year.md): A withdrawal, gain, or conversion could change the cost or eligibility of healthcare coverage. Complete before adopting the affected income and coverage plan. Return to W06 chapter 3, then lesson 6.4.
+- After 6.6, [A6.2](../advanced/A6-2_test-a-multi-year-sell-versus-borrow-strategy.md): You are considering borrowing in more than one year to fund retirement spending. Complete before relying on recurring borrowing, not after the first loan. Return to W06 chapter 6, then lesson 6.7.
+- After 6.2, [A6.3](../advanced/A6-3_verify-an-early-retirement-account-access-route.md): Your plan relies on using retirement-account money before 59½. Complete before counting on the access route or making a rollover that could change it. Return to W06 chapter 2, then lesson 6.3.
+
 ### Run sheet
 
 Complete the fictional capture extension before running the approved engine: as-of and each person's timeline, spending adoption, income/benefits, coverage, tax treatment, debt schedules, account access and return assumptions. Retain the original fixture untouched. There is no predetermined success percentage or retirement age. Individual chapter recordings need the actual input/result identity and approved behavior.
@@ -22,7 +28,7 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 “Start with what has to be paid, then the income already arriving. The rough subtraction helps us get oriented. This fuller view includes the costs it left out. Now identify exactly what the portfolio has to provide in this year.”
 
-“Move to the year when the next income source begins. The account balance did not suddenly become a different portfolio; the job we are asking it to do changed.”
+“Now open the year this income begins. How much less do investments need to provide, after updating taxes and the other costs?”
 
 **Verify before recording:** Verify gross/net units, tax gross-up, deductions already counted, income reliability, investment distribution treatment, person dates and same input/result receipt. No imaginary benefit, adoption of generic tax figures or double-counted withholding. Complete capture input decisions first.
 
@@ -34,7 +40,7 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Narration:**
 
-“Which source pays for this period before later income begins? The total assets are not enough of an answer. Point to the account and the rule that makes it usable. If we wait for the benefit, show the extra funding needed before it starts as well as the later income it provides.”
+“Which account pays for these early years, and can you use it at that time? If the benefit starts later, compare the extra withdrawals needed before it begins with the income it provides afterward.”
 
 **Verify before recording:** Verify individual SSA/pension estimates, earnings record, dollar convention and survivor/spousal effects where supported. Early access requires exact account/separation/Roth ordering/457/SEPP conditions. No universal claiming age or assumption all retirement dollars unlock together. Unmodeled benefits remain separately reviewed.
 

@@ -122,9 +122,22 @@ class MemberDeliverables(unittest.TestCase):
                 if not target.startswith(('https:', 'http:', '#')):
                     self.assertTrue((path.parent / target.split('#')[0]).resolve().is_file(), (path, target))
 
-    def test_existing_inventory_is_preserved(self):
-        counts = json.loads(read('COURSE-MANIFEST.json'))['counts']
-        self.assertEqual(counts, {'core':51, 'advanced':15, 'working_sessions':10, 'device_demos':1})
+    def test_inventory_and_authorized_custody_merge(self):
+        manifest = json.loads(read('COURSE-MANIFEST.json'))
+        self.assertEqual(manifest['counts'], {'core':51, 'advanced':14, 'working_sessions':10, 'device_demos':1})
+        ids = {row['id'] for row in manifest['lessons']}
+        self.assertEqual(len(ids), 76)
+        self.assertNotIn('A7.2', ids)
+        self.assertEqual(len(manifest['member_order']), 65)
+        self.assertEqual(len(set(manifest['member_order'])), 65)
+        merged = manifest['merged_lessons']
+        self.assertEqual(len(merged), 1)
+        self.assertEqual(merged[0]['id'], 'A7.2')
+        self.assertEqual(merged[0]['source_commit'], 'f6392a6341c23c557e605506dab3530b67efa146')
+        self.assertEqual(merged[0]['blob'], '0443c4640a4f4b431429eab204f5fe9dc0b67413')
+        self.assertEqual(merged[0]['destinations'], ['7.1', '7.4', 'W07'])
+        self.assertTrue(set(merged[0]['destinations']).issubset(ids))
+        self.assertFalse((ROOT / merged[0]['path']).exists())
 
 
 if __name__ == '__main__':

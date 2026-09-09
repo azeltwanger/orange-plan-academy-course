@@ -1,6 +1,6 @@
 # 10.1 — Read the completed plan in a useful order
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -32,19 +32,23 @@ A single positive headline cannot replace those funding explanations. Conversely
 
 Review the operating choices next. How will the Reserve be used and refilled? How is spending reconsidered? How would a loan be repaid or reduced? What would make the household act before the scheduled review?
 
-Then confirm protection and family continuity. The map should match the assets and accounts. Recovery evidence should describe the setup actually checked. The legal documents, beneficiaries and family contacts should agree with the intended ownership and roles.
+Check that the custody map matches the holdings and that recovery records describe the setup actually tested. Confirm that the legal documents, beneficiaries, and family contacts still reflect the intended ownership and roles.
 
 Finally, read the outstanding actions. Some may be ordinary implementation: change payroll, open an account, confirm a purchase, or arrange a review. Others may block a major decision, such as an unresolved access route or missing basis for an intended sale. Don't label the entire plan implemented while a blocking question is still open.
 
-In the walkthrough, we'll read the actual saved example and its documents in this order, with no borrowed landing-page numbers or invented model results. The purpose is to demonstrate how the pieces fit, including the honest remaining tasks.
+Let's read the current plan and its documents in that order. Check the numbers against the accounts and funding years, then identify the actions still to complete.
 
-Return to the question you wrote at the start of the course. Your answer should now include a reason: what supports the life you want, what you need to do next, and what would change the plan. That is much more useful than having a number you cannot explain.
+Return to the question you wrote at the start. Can you explain what supports the life you want, what needs to change, and what you'll do next?
 
 ### Visual and source notes — not spoken
 
 Currentcoursefinalreview andsourcehousehold continuity. No landingconfidence/date borrowed or invented Reedresult. Trace actualcriticalyearsandonesavedplan; distinguish blockingquestionsfromdatednonblockingoutsideactions. Reportfactualhonestyandlearnerunderstanding notsoftwaretestonly.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+In the walkthrough, we'll read the actual saved example and its documents in this order, with no borrowed landing-page numbers or invented model results. The purpose is to demonstrate how the pieces fit, including the honest remaining tasks.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 

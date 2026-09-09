@@ -1,19 +1,22 @@
-# A3.1 — Build a Bitcoin-loan operating sheet from the actual contract
+# A3.1 — Plan how to manage a Bitcoin-backed loan
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: TAX_LENDING_REVIEW
 Sources: DEBT, BRAIN, PRIMARY, APP
-Use when: a real or seriously considered Bitcoin-backed loan needs operating rules.
+Use when: You have, or are seriously considering, a Bitcoin-backed loan.
+After lesson: 3.6
+Complete before: Complete before borrowing or relying on a collateral-response plan.
+Return to: W03 chapters 5–6, then lesson 4.1
 
 ### Read aloud
 
 A low starting loan-to-value ratio can stop describing the loan you actually have. Interest accumulates, collateral changes, and the lender's agreement still governs what happens.
 
-This lesson turns a specific Bitcoin-loan contract into an operating sheet. We already covered whether borrowing fits the plan. Now we need numbers and actions someone can use.
+Have the loan agreement ready. We'll put its balance, dates, and response rules on one sheet so you know what to monitor and what to do.
 
 Read the full balance, not just the original principal. Record interest treatment, fees, maturity, collateral quantity, price source and the actual warning, collateral-call and liquidation provisions. Those are separate contract events. A notice is not a promised grace period unless the agreement actually provides it.
 
@@ -37,7 +40,7 @@ Add the operational failure case too. A provider interruption can affect access 
 
 Finally, name the person monitoring the sheet and the backup person who knows the first steps. Keep secrets out of it. The sheet should point to verified contacts and safe instructions, not contain private keys or complete recovery material.
 
-Before borrowing or changing collateral, verify the actual contract and tax treatment with the relevant professionals. The completed sheet explains the obligation, thresholds, dates, response resources and limits. It is not proof that the lender will always allow time to act.
+Review the actual contract and tax treatment before borrowing or changing collateral. Check that the sheet includes the full balance, relevant dates and thresholds, and the cash or collateral for each response. The lender's rights still depend on the agreement; the sheet doesn't guarantee time to act.
 
 ### Visual and source notes — not spoken
 

@@ -1,5 +1,7 @@
 # Teaching revision — source and editorial record
 
+> Revision history: the original complete-draft counts below describe the earlier pass. The latest approved structure and spoken-language edit are recorded in the final section, One main path and spoken-language cleanup. Current counts and routes are in the reading order and manifest.
+
 ## Scope and owner direction
 
 This pass implements Austin's explicit request to finish all written lessons and paired demonstrations using Problem → Explanation → Example → Solution. The structure is behind the teaching; it is not a requirement for identical headings, lengths or sentence rhythms. The program's existing sequence is retained. The whole-portfolio question in Allocation is answered before contribution and account implementation.
@@ -85,3 +87,24 @@ Checked September 8, 2026 for specific mechanisms, not household suitability or 
 ## Evidence boundary
 
 The fixed fixture, original source-material, toolkit, capture receipts, tests and historical-recovery manifest are unchanged. No app repository, hosted data, provider account, wallet, financial operation, runtime flag, service entitlement, pricing, student launch or Production deployment is changed. Actual build/test/merge identities are recorded in the PR handoff after they exist, not predicted in advance.
+
+
+## One main path and spoken-language cleanup
+
+Following Austin’s acceptance, the member structure is one main path with For your situation lessons at their relevant decisions. Each has a concrete use condition, completion timing and return to the working chapter. The existing separate index is a reference view, not a second or higher-level course. The core/advanced file paths remain technical identifiers for stable links.
+
+A7.2 was genuinely redundant with the core custody discussion. Its distinctive task assignment, operator willingness, backup responsibility, safe practice, simplification and support-cost reasoning were integrated into 7.1. The uncoached operator-absence rehearsal, actual gaps and agreement of contacts were incorporated into 7.4 and W07 using the existing custody map. No responsibility worksheet or second map was added. The original script is recoverable from commit `f6392a6341c23c557e605506dab3530b67efa146`, blob `0443c4640a4f4b431429eab204f5fe9dc0b67413`; the existing history command now verifies that additional merged source. The old 264-entry historical-cleanup manifest remains unchanged.
+
+The language pass makes 154 individually selected paragraph replacements or deletions across all 64 surviving non-Reserve teaching scripts. 17 passages containing production/evidence instructions are retained in production notes rather than read aloud. Examples include removing “the fixture does not establish,” “without inventing a completed recovery test,” “the approved build,” and instructions not to borrow landing-page results from narration. Those evidence constraints still apply to production. Hypothetical examples remain identified; necessary account, tax, custody and execution qualifications are not treated as filler.
+
+The edit replaces abstract directions and repeated lesson-completion speeches with specific actions. Several titles become plainer; the main explanations and calculations stay. This is not a global ban on words such as actual or evidence, a length target, or a quality score. The original voice reference supplies directness and progression only, not its rates, retirement formula or assurances.
+
+Current active counts are 50 shared-path lessons, one college lesson for the relevant household, 14 other situational lessons, ten app working sessions and one device demonstration. The accepted Reserve, the entire W02 and the safe D07 procedure are byte-identical. Original financial data, member documents, source files and capture receipts are unchanged. No new outside financial research, individual recommendation or price claim is made in this copyedit.
+
+The course-level approval and real-world evidence boundaries above remain. Actual run, candidate and merge identities are posted only after they are verified in the PR conversation.
+
+
+The initial run correctly rejected the old 15-lesson inventory expectation after the approved merge removed A7.2. The updated inventory test expects 14, verifies 76 distinct components and 65 unique teaching entries, and checks the exact source commit, blob, absence of the duplicate, and retained destinations. Other member-document tests and the original historical-recovery inventory are unchanged. No test was skipped.
+
+
+Final read-through corrected the two remaining spoken references to “the Advanced lesson” and “the core lesson” so they name the actual preceding or related lesson instead. No financial explanation changed.

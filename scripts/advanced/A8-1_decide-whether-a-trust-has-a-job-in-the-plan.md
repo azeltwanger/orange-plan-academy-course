@@ -1,13 +1,16 @@
 # A8.1 — Decide whether a trust has a job in the plan
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: ESTATE_TAX_REVIEW
 Sources: ESTATE, ESTATE_DECK, PRIMARY, OWNER
-Use when: probate, incapacity, beneficiaries, tax, control, or a complex asset creates a specific trust question.
+Use when: A trust may help with a specific family, management, or estate objective.
+After lesson: 8.1
+Complete before: Complete before choosing or funding the arrangement, with attorney and tax review.
+Return to: W08 chapter 1, then lesson 8.2
 
 ### Read aloud
 
@@ -33,17 +36,21 @@ Then finish funding and coordination. Signing a document doesn't automatically r
 
 Use the ownership inventory and custody map with the attorney. Identify which accounts belong to the trust, which use a beneficiary process, and which stay outside. Confirm the custodian or provider can actually implement the intended arrangement.
 
-For the Reeds, the source doesn't establish a particular trust, estate size requiring a structure, or legal instrument ready to sign. The teaching example organizes the questions. It should not invent a trust recommendation to make the course appear more complete.
+A household's Bitcoin holdings alone don't tell us which trust, if any, it needs. Start with the family objective and review the actual people, assets, and legal circumstances with the attorney.
 
-The finished decision is either a reasoned simpler baseline or a professionally designed trust with its specific purpose, people, funding and operating actions. Record who will finish each step and how completion will be confirmed.
+Decide whether the baseline documents meet the need or a trust adds a specific benefit. If you proceed with a trust, identify who completes the legal work, funds it, and coordinates beneficiaries and custody. Confirm those steps rather than stop at signing the document.
 
-Return to the family packet with the result. The reader should find the actual authority and starting process, not an impressive structure name that never became part of the household's real arrangements.
+Update the family packet with the resulting authority and starting instructions.
 
 ### Visual and source notes — not spoken
 
 Estate framework preserves revocable/irrevocable separately from grantor/non-grantor, trust purpose and actual funding. Charitable lead structures remain specialized professional questions, not return-driven recommendations. State law, beneficiary treatment, tax and provider implementation require actual review. No legal instrument, Bitcoin waiver or guaranteed estate-tax savings is drafted.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For the Reeds, the source doesn't establish a particular trust, estate size requiring a structure, or legal instrument ready to sign. The teaching example organizes the questions. It should not invent a trust recommendation to make the course appear more complete.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 

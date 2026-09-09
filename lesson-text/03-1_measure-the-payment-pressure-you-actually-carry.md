@@ -1,6 +1,6 @@
 # 3.1 — Measure the payment pressure you actually carry
 
-Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original Debt Strategy deck, Austin's debt playbook and original call explanations; unchanged Reed teaching fixture. Specific source distinctions are recorded in HANDOFF.md.
 App references: teaching is separate from final navigation, payment schedules and saved results.
 
@@ -60,7 +60,7 @@ This is where the reserve decision comes back in. Could the household keep provi
 
 Use the essential-spending number carefully. In our Reserve example, the $7,200 already includes required debt payments. Adding the full debt-payment total again would count them twice. We want the actual cash need, not a larger number created by mixing two different spending definitions.
 
-You don't need to guess a tax bill for the weaker-income case. Review what would really change. Some costs may fall, others may not, and a business may still need operating cash even when it is bringing in less. We will use the supported numbers in the walkthrough rather than assume every outflow stays exactly the same.
+Check what would change along with the lower income. Taxes and some costs may fall; other bills will continue. The business may still need operating cash. Use those changes when comparing how much the household would be short.
 
 Also ask what happens if the payment itself rises. A variable rate or the end of an interest-only period can change what the same balance costs to carry. You don't have to borrow another dollar for that pressure to increase.
 
@@ -68,7 +68,7 @@ If you're close to retirement, look beyond the paycheck you have today. A paymen
 
 For now, don't try to solve every debt at once. Identify the payment you are least comfortable supporting and explain why. It might be expensive interest, a coming repayment date, a risk to the family home, or simply too much dependence on one income.
 
-In the working chapter, we'll verify the terms and follow the payments back to cash flow. After that, we'll look at what you owe compared with what you own—and how that picture changes when Bitcoin falls. Then we can make the payoff decisions with both sides in view.
+Let's check the loan terms and put the payments beside cash flow. Then we'll look at what you owe compared with what you own, including what happens when Bitcoin falls.
 
 ### Visual notes — not spoken
 

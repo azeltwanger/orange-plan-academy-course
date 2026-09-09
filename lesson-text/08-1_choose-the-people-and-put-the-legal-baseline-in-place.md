@@ -1,6 +1,6 @@
-# 8.1 — Choose the people and put the legal baseline in place
+# 8.1 — Choose who can act for your family
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -30,19 +30,23 @@ An old draft in a folder is not proof a document was properly executed. A nomina
 
 Beneficiary designations deserve a separate check. Some accounts and policies transfer through their own beneficiary or ownership rules rather than following the will in the way you expect. Compare primary and contingent beneficiaries with the intended estate plan and get discrepancies reviewed.
 
-For Alex and Morgan, having children and several account types makes that coordination important. We are not writing them a trust or selecting a guardian in this example. We are identifying the choices and documents that need to agree.
+Alex and Morgan need their children's arrangements and their different account types to agree with their wishes. The guardian, legal documents, and beneficiaries each need a deliberate decision.
 
 Take one account and ask: who owns it today, who is intended to receive it, and which record or process carries that intention? If those answers conflict, you have a specific question for the attorney or provider.
 
-Then choose the highest-impact unfinished action. It might be appointing the right backup person, updating a beneficiary, locating an executed document, or arranging legal review. Give it an owner and a date.
+Start with the most important gap: a missing backup person, an outdated beneficiary, an executed document you can't find, or a legal question. Assign the action and a date.
 
-You do not need every optional structure to finish this step. You need a coherent set of people, documents, and account instructions appropriate to your household. The next lesson tests whether those people can actually use that authority with the assets they would need to manage.
+If a trust may solve a particular family need, use the trust lesson to prepare that discussion with the attorney. Otherwise, keep working with the documents and account instructions your household needs. Next we'll connect the legal authority with practical access.
 
 ### Visual and source notes — not spoken
 
 Estate deck basicroles/documents/beneficiaries and currentlegalboundaries. CFPB POA and trust definitions checked;jurisdiction-specific execution/authority remainattorneyreview. Nominatedexecutor≠currentlyappointed;beneficiarydesignation≠will;trustfundingmatters. No draftedlegalinstrument,chosenReedguardianorautomatictrustrecommendation.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For Alex and Morgan, having children and several account types makes that coordination important. We are not writing them a trust or selecting a guardian in this example. We are identifying the choices and documents that need to agree.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 

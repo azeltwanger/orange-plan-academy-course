@@ -1,6 +1,6 @@
-# 4.4 — Build the contribution waterfall from one pool
+# 4.4 — Decide where the next dollar goes
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: actual current/future contribution support and payroll effects require final verification.
 
@@ -22,7 +22,7 @@ There is no additional monthly household investment to assign in this phase.
 
 That does not mean they have stopped investing. Alex's contribution continues, and the employer adds $387.50 under the fictional match formula. Employer money belongs in the retirement-saving total, not in the cash available for another transfer.
 
-This is the contribution waterfall: an order for the next dollar, with actual amounts behind it.
+The contribution waterfall is simply the order you want new money to follow, with an amount for each destination.
 
 If essential liquidity is missing, use the pace chosen in the Reserve lesson. Check the employer match when available, then carry through the chosen extra-debt amount. Any remainder goes toward the funding need identified in Allocation. The order is a starting framework, not a requirement to fully finish each item before any money reaches the next.
 
@@ -42,9 +42,9 @@ The Reserve reaching its target is another condition. Its build contribution can
 
 You can use the same order for a bonus or a strong business month. Allow for its taxes and commitments, then choose the use of the actual remainder. A good month does not require a permanent transfer that future quieter months cannot support.
 
-Finish with today's destinations and the event that changes each later destination. Put the amounts together and confirm they fit. If they don't, make the trade-off explicitly. A plan with two instructions claiming the same money isn't finished.
+Put today's contribution amounts together and check that the cash flow covers them. Then write down what changes after a debt payoff or the Reserve reaches its target.
 
-Next, choose the receiving account for the investment money—not every possible account, just the ones that fit the jobs you identified.
+Next we'll choose the account for the money you're investing.
 
 ### Visual and source notes — not spoken
 

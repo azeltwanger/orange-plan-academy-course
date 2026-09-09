@@ -1,17 +1,20 @@
 # A1.1 — Test an assumption without making the model tell you what you want
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: APP_CAPTURE
 Sources: FOUNDATION, BRAIN, APP, PRIMARY
-Use when: a preset or holding-specific assumption materially changes a decision.
+Use when: You need custom assumptions or a holding-specific model to answer a planning question.
+After lesson: 1.4
+Complete before: Complete before relying on the custom assumption or override.
+Return to: W01 chapter 8, then lesson 1.5
 
 ### Read aloud
 
-Use this lesson when the normal assumptions cannot express a question that matters to your decision. More settings are not automatically a better model. We need to know what one additional choice helps you understand.
+Use this lesson when you need to test an assumption the normal settings don't express. Start with the question you want the comparison to answer.
 
 Suppose the plan supports your preferred retirement date under the current Bitcoin path, but you want to know what happens when growth slows earlier. State that question before touching the inputs.
 
@@ -33,7 +36,7 @@ After the first controlled test, a combined stress can be useful. Lower returns 
 
 Keep a receipt of the inputs and result identity. Without it, you can end up comparing an old baseline with a new scenario and attribute the difference to the wrong setting.
 
-The solution is a starting model you can explain, a relevant sensitivity comparison, and the household decision affected by it. Return to the core plan when that question is answered. This advanced work should reduce a specific uncertainty, not become a permanent search for more favorable assumptions.
+Keep the starting assumptions and the comparison, then note which planning decision changes under the different result. Return to your plan when that question is answered.
 
 ### Visual and source notes — not spoken
 

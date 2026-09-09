@@ -4,10 +4,94 @@
   "app_contract_commit": "dccf0fedaeef6bd767c20fb9af0fe74f1cd4454f",
   "counts": {
     "core": 51,
-    "advanced": 15,
+    "advanced": 14,
     "working_sessions": 10,
     "device_demos": 1
   },
+  "member_labels": {
+    "core": "Main path (includes the conditional college lesson)",
+    "advanced": "For your situation"
+  },
+  "member_order": [
+    "0.1",
+    "0.2",
+    "1.1",
+    "1.2",
+    "1.3",
+    "1.4",
+    "A1.1",
+    "1.5",
+    "2.1",
+    "2.2",
+    "2.3",
+    "2.4",
+    "2.5",
+    "3.1",
+    "3.2",
+    "3.3",
+    "3.4",
+    "3.5",
+    "A3.2",
+    "3.6",
+    "A3.1",
+    "4.1",
+    "4.2",
+    "4.3",
+    "4.4",
+    "4.5",
+    "4.6",
+    "4.7",
+    "A4.1",
+    "5.1",
+    "5.2",
+    "5.3",
+    "A5.3",
+    "5.4",
+    "A5.1",
+    "5.5",
+    "A5.2",
+    "6.1",
+    "6.2",
+    "A6.3",
+    "6.3",
+    "A6.1",
+    "6.4",
+    "6.5",
+    "6.6",
+    "A6.2",
+    "6.7",
+    "6.8",
+    "7.1",
+    "A7.1",
+    "7.2",
+    "A7.4",
+    "7.3",
+    "7.4",
+    "A7.3",
+    "8.1",
+    "A8.1",
+    "8.2",
+    "8.3",
+    "8.4",
+    "9.1",
+    "9.2",
+    "9.3",
+    "10.1",
+    "10.2"
+  ],
+  "merged_lessons": [
+    {
+      "id": "A7.2",
+      "path": "scripts/advanced/A7-2_decide-which-custody-responsibilities-the-household-can-maintain.md",
+      "source_commit": "f6392a6341c23c557e605506dab3530b67efa146",
+      "blob": "0443c4640a4f4b431429eab204f5fe9dc0b67413",
+      "destinations": [
+        "7.1",
+        "7.4",
+        "W07"
+      ]
+    }
+  ],
   "lessons": [
     {
       "id": "0.1",
@@ -15,9 +99,10 @@
       "path": "scripts/00-1_build-a-plan-you-can-use.md",
       "gate": "OWNER_REVIEW",
       "sources": "DICTATION, MASTER, LANDING, OWNER",
-      "words": 593,
-      "spoken_sha256": "a648da80bf29b1c6e138f2bd04a2d46105c771b23c9d6b4973ce2c1a08657750",
-      "source_sha256": "9fa75d22e723535c2fc1431fef02e3dc5a56eebb1abb9cd66eb5a22c8ee9ca55"
+      "words": 591,
+      "spoken_sha256": "b5aace6bce53203b7a11e2ae3c1059d418a3895fefe44e2b3bc35786ec2ccbf5",
+      "source_sha256": "93a4ef8dfb08f940ef0ee990c1df313d69b3865f298e21a5e4c63b3a95437773",
+      "member_group": "Main path"
     },
     {
       "id": "0.2",
@@ -25,9 +110,10 @@
       "path": "scripts/00-2_use-ask-to-understand-your-own-numbers.md",
       "gate": "APP_CAPTURE",
       "sources": "DICTATION, APP, LANDING",
-      "words": 586,
-      "spoken_sha256": "1f48401197bab5ab45ddc191c55bb1792b70dcf13c9e958c2d43cc8f3beead38",
-      "source_sha256": "ea9a03cb2f46962e423bce30cf464340147398cc0656a2bca3fa82c4d5bf513d"
+      "words": 553,
+      "spoken_sha256": "ccf4290d14acb3bfafba29ede82b25b398cd045c083a79c5dc1887294c7975e1",
+      "source_sha256": "f9d8c17292655553a24f629969a5872b8b46d28d1d506d55fce07f8c8dec9dd7",
+      "member_group": "Main path"
     },
     {
       "id": "1.1",
@@ -35,9 +121,10 @@
       "path": "scripts/01-1_decide-what-belongs-in-your-saved-plan.md",
       "gate": "OWNER_REVIEW",
       "sources": "DICTATION, FOUNDATION, MASTER, APP",
-      "words": 535,
-      "spoken_sha256": "af000b1d2bdb6cba968413ce9ba06595dfb5634cbbcd16c452d2cd501219402d",
-      "source_sha256": "2ece6fb0f5c1f12cb6a07da7f9f6fe4dbba4810b8ac68292cd4edcfaddbe5bc4"
+      "words": 547,
+      "spoken_sha256": "66f960bd13310b0adcec2064eea1734ed10a94e55e38abf0c20e185d0915ce27",
+      "source_sha256": "36546c843b43a1658a926032107dc7af9f55efc0a681046f3fb59f0b20b694cf",
+      "member_group": "Main path"
     },
     {
       "id": "1.2",
@@ -45,9 +132,10 @@
       "path": "scripts/01-2_add-accounts-and-show-what-each-one-owns.md",
       "gate": "APP_CAPTURE",
       "sources": "DICTATION, FOUNDATION, ALLOCATION, APP",
-      "words": 709,
-      "spoken_sha256": "bd528879400cb4559b0088ceb0b1006cb47043d8d176237bec62118a88036db0",
-      "source_sha256": "5d8587a379dafbd1b5917bc2aa7b0cb15802cccdb38674b31c512bb7b4ce68e5"
+      "words": 692,
+      "spoken_sha256": "34d4a6b9f1d87e57d4b10737a78c3a2f745d56436b7d6a7b545c04566652ce05",
+      "source_sha256": "3d6256a88bd7f963a310b994ce8604c980b895efe1a0f5f49751bf01ea926209",
+      "member_group": "Main path"
     },
     {
       "id": "1.3",
@@ -55,9 +143,10 @@
       "path": "scripts/01-3_enter-income-spending-debts-and-the-retirement-starting-point.md",
       "gate": "APP_CAPTURE",
       "sources": "FOUNDATION, CASHFLOW, DICTATION, APP",
-      "words": 654,
-      "spoken_sha256": "724d98c4e73a5122500d3444b524df9a6395768d8318f45cd70189dfd8b0025e",
-      "source_sha256": "3e2b39648e680be0ba3889414819ef6421e78ea283246fb89b0657002b032989"
+      "words": 635,
+      "spoken_sha256": "63273da2e6eb20e25a0d22ed320806ac4e21435ff7b2d3bdf5e759a3c775c16d",
+      "source_sha256": "a44749c901cd784434741eb0974842d36480ab93b3edc69259910b93c4b99007",
+      "member_group": "Main path"
     },
     {
       "id": "1.4",
@@ -65,9 +154,10 @@
       "path": "scripts/01-4_choose-assumptions-you-can-explain.md",
       "gate": "OWNER_REVIEW",
       "sources": "DICTATION, FOUNDATION, APP, MASTER",
-      "words": 648,
-      "spoken_sha256": "2ea4d7f3dd4bf7118c45721ff04072693c0ce185ced008c2b15710e391d0d37a",
-      "source_sha256": "74e981cf62a649b7eba1d5ba954a2bb9646af9c81e012e9c9102f85dc4d915ae"
+      "words": 644,
+      "spoken_sha256": "7de6350487733209213b6879defe2a746f28026f76018192cde12faad0d4665d",
+      "source_sha256": "0535c2900faf3509a9512e9bb953df98deeaff2f6f9e65a9478b5d2cc251ddd8",
+      "member_group": "Main path"
     },
     {
       "id": "1.5",
@@ -75,9 +165,10 @@
       "path": "scripts/01-5_read-the-first-answer-and-choose-the-next-improvement.md",
       "gate": "APP_CAPTURE",
       "sources": "FOUNDATION, APP, DICTATION, REVIEW",
-      "words": 619,
-      "spoken_sha256": "8bb68f8be34772322fe20d51bbac7417f836576205362ef7c8059beba2cb1d42",
-      "source_sha256": "328a5900ace8b1c5c0919928a5ab6eb28615d7abb78699ff120cf3a9bd099ef2"
+      "words": 595,
+      "spoken_sha256": "319126389936b6ffda9a2cbf6f919d4f692d1b1ce53fb93be44eeca4b25bc3eb",
+      "source_sha256": "077f03cd645b5f7de93046934b318de33348549ae93fdd1835029edd65a8c7b0",
+      "member_group": "Main path"
     },
     {
       "id": "2.1",
@@ -85,9 +176,10 @@
       "path": "scripts/02-1_find-the-amount-your-plan-actually-has-available.md",
       "gate": "OWNER_REVIEW",
       "sources": "CASHFLOW, DICTATION, CLIENT_THEMES, APP",
-      "words": 1474,
-      "spoken_sha256": "ce19f4bd2177faaf4cd022babe151e3af580fa442482cb76a4954632738e5f31",
-      "source_sha256": "36423e851a289459843801e5c46ecee8c976fdece3e31140bd02ebe1c1e88982"
+      "words": 1448,
+      "spoken_sha256": "b605a14ce4a711aea7f2848b8195b39031bbff3eec7a4468ccc8968b8f68f545",
+      "source_sha256": "d7481ec91746a4bf27a13a4f78eacffdcfdc75f447b3b9c880d0ec93022575b6",
+      "member_group": "Main path"
     },
     {
       "id": "2.2",
@@ -95,9 +187,10 @@
       "path": "scripts/02-2_free-up-money-without-cutting-the-life-you-value.md",
       "gate": "OWNER_REVIEW",
       "sources": "CASHFLOW, MASTER, CLIENT_THEMES",
-      "words": 1365,
-      "spoken_sha256": "3d1cefe49cf8adef4f2d137b3e1a22bb2c4bee6c130c59db8c5945a67933b0be",
-      "source_sha256": "349ce9b4b52da6f2db8c4ab3173a025ddfd09463b195fd996119a1ee2874fdd6"
+      "words": 1353,
+      "spoken_sha256": "3e2f5f0dd8f474a2ccdff921028914a2ec179fc9ea08be3e976677ecbb07a9b5",
+      "source_sha256": "99f62418120d4db9e0bbe703957cff70b27b3d28e492eb61be5aa36c14257fcd",
+      "member_group": "Main path"
     },
     {
       "id": "2.3",
@@ -107,7 +200,8 @@
       "sources": "CASHFLOW, DICTATION, OWNER, APP",
       "words": 1139,
       "spoken_sha256": "7544e9376a1264268a720af0ebacba00cda68f9cc95d2ecd383428e618fbddde",
-      "source_sha256": "acd2369ac4bc7933865ba6f4c7d492444df364f64ed5dca589422dae329a3c40"
+      "source_sha256": "acd2369ac4bc7933865ba6f4c7d492444df364f64ed5dca589422dae329a3c40",
+      "member_group": "Main path"
     },
     {
       "id": "2.4",
@@ -115,9 +209,10 @@
       "path": "scripts/02-4_put-future-changes-on-the-timeline.md",
       "gate": "APP_CAPTURE",
       "sources": "CASHFLOW, FOUNDATION, DICTATION, CLIENT_THEMES, APP",
-      "words": 1449,
-      "spoken_sha256": "946ff15e52566c50d546940c94bdcae1b309d31454d4f2eb76d4364271a89cf0",
-      "source_sha256": "89bed26addd6f28dc733552e40e3c13151ef889944bffd3dae1b82b4b902e5ff"
+      "words": 1440,
+      "spoken_sha256": "36ca24d50306676b3e1e3791a1f48d32272e07c3c2040e5a71af870c50b8af7c",
+      "source_sha256": "c7048ef7c9e00c9a9d53907c183fe4bda5ee7aa18d53e57da2c9f5dcbd7f4b58",
+      "member_group": "Main path"
     },
     {
       "id": "2.5",
@@ -125,9 +220,10 @@
       "path": "scripts/02-5_decide-how-much-college-help-you-will-provide.md",
       "gate": "TAX_REVIEW",
       "sources": "CASHFLOW, ALLOCATION, OWNER, PRIMARY",
-      "words": 1436,
-      "spoken_sha256": "feec0deaf0568bcacec5378392d62d6521f4bca2c16f65f2f73e09ebed94ead8",
-      "source_sha256": "12417f9d1045c278d91c43b7ef4efc75da2897d2e711b152a898074a5dfc03f0"
+      "words": 1409,
+      "spoken_sha256": "2906fe1e01cbe8f1aedeb6f1ee49307cfcd4e5aa56b99b90b3938c0e30ef50b4",
+      "source_sha256": "b2ca8a30575d0c970b3b6d3519185b6172d8025ff510fba3ede52f2e2f5bdd67",
+      "member_group": "For your situation"
     },
     {
       "id": "3.1",
@@ -135,9 +231,10 @@
       "path": "scripts/03-1_measure-the-payment-pressure-you-actually-carry.md",
       "gate": "OWNER_REVIEW",
       "sources": "DEBT, BRAIN, CLIENT_THEMES, APP",
-      "words": 1109,
-      "spoken_sha256": "a3abe5f19607c9f64d9f23aff556c43f852070a32827f6193e381e2239ca3ef2",
-      "source_sha256": "add1278bef6292365bebba6cbd624ccff993237d58cd2e5c9e1c9f135b2e8bd0"
+      "words": 1072,
+      "spoken_sha256": "422d2ac760e9db422b487c5bf384e1e57de39fd5f5616751a54db81141d43ba8",
+      "source_sha256": "8487dde3c7c7e0cebb951a856c0653a8030f6da453ccd5b92b015f4996bd7672",
+      "member_group": "Main path"
     },
     {
       "id": "3.2",
@@ -145,9 +242,10 @@
       "path": "scripts/03-2_measure-leverage-before-and-after-a-drawdown.md",
       "gate": "OWNER_REVIEW",
       "sources": "DEBT, BRAIN, APP, PRIMARY",
-      "words": 1131,
-      "spoken_sha256": "de7fcdfc2cf3a12d6cc4b3de48c0db62d4422f1af69e4f14c5d6580ab9292fd0",
-      "source_sha256": "fd2c7ddc98451f63d327664f69e090bac9c50fb0e3717568b96bd43fba463dc5"
+      "words": 1102,
+      "spoken_sha256": "1508f22aebc5f72d7e9ad54d121ee2fa06f4a04411a53274a263aa336fe7de33",
+      "source_sha256": "d73cac7244fad19e7d7479207d0d8640562a163ad5924dff22cc20271d316d4f",
+      "member_group": "Main path"
     },
     {
       "id": "3.3",
@@ -155,9 +253,10 @@
       "path": "scripts/03-3_give-every-existing-debt-a-job.md",
       "gate": "OWNER_REVIEW",
       "sources": "DEBT, BRAIN, CLIENT_THEMES",
-      "words": 1291,
-      "spoken_sha256": "6eb84c7020e3a2f5916adce4b00dd86c41db5da692ee1c9100297392e4b592c0",
-      "source_sha256": "1b4fee6ca96c91bbfb4a84e32ad0d3a684f689a6c1042f55299eadd19b070391"
+      "words": 1257,
+      "spoken_sha256": "9f52da4081aaa7b8d0a4c5b39e5ffd694d38ba7112233322c7cf5f5410d2d963",
+      "source_sha256": "9273920b8cd76238d738a3373a6467b6ce0ac43cf270e53b1eed58f243d663e9",
+      "member_group": "Main path"
     },
     {
       "id": "3.4",
@@ -165,9 +264,10 @@
       "path": "scripts/03-4_decide-whether-new-financing-improves-the-plan.md",
       "gate": "LENDING_REVIEW",
       "sources": "DEBT, BRAIN, OWNER, CLIENT_THEMES, PRIMARY",
-      "words": 1222,
-      "spoken_sha256": "ee1cd206391e226fb0d2065753affacfe5389124d99bea0977ca026b0759b85d",
-      "source_sha256": "31d50f7c4cad8cd1aee7981002dc3627edcee74b5df6e1c5b76e3ff2c42a4245"
+      "words": 1191,
+      "spoken_sha256": "546495960dde76a86d8af865383356647f1ded99504513e3e74a7013e7bea0be",
+      "source_sha256": "cf8e301321232e4cd576ba7e94fd8c508417770de319dbd3631b628bc7ad90f5",
+      "member_group": "Main path"
     },
     {
       "id": "3.5",
@@ -175,9 +275,10 @@
       "path": "scripts/03-5_compare-financing-on-equal-terms.md",
       "gate": "LENDING_REVIEW",
       "sources": "DEBT, OWNER, BRAIN, PRIMARY",
-      "words": 1553,
-      "spoken_sha256": "79f3d9a536b515d45f247b0b2a63943a99684b208bc89ca8314b40c573635037",
-      "source_sha256": "6e0f814c88750d5c89d93e1a2e9009cad4c7dd253a0daf4225037d84e0ef43a8"
+      "words": 1530,
+      "spoken_sha256": "77a6f7ee79cba51e280058b013583d183ac6e8c16cc94919a45dc44010f7fab8",
+      "source_sha256": "04a56bfda7bd5eacd2f85f3d9793820a2299750f203b0ff7919f01812f8413d5",
+      "member_group": "Main path"
     },
     {
       "id": "3.6",
@@ -185,9 +286,10 @@
       "path": "scripts/03-6_write-the-rules-before-using-leverage.md",
       "gate": "LENDING_REVIEW",
       "sources": "DEBT, BRAIN, OWNER, APP",
-      "words": 1124,
-      "spoken_sha256": "71c34ff1fce69baf536754e10e5355d4ad9824d58446f5752ee70385006b6b6b",
-      "source_sha256": "38969ec625605108e6c8211e3b8275a9a77dedb96e7192501b5e30351b76b7b4"
+      "words": 1080,
+      "spoken_sha256": "f8930334b87def0864be402e99ac42192699d4b8df4730fab706f4b31d6ae4b3",
+      "source_sha256": "68feb0abb224546c2351a5e6a49c15a767eeb1c0d070a5994bcd5980e449cb95",
+      "member_group": "Main path"
     },
     {
       "id": "4.1",
@@ -195,9 +297,10 @@
       "path": "scripts/04-1_read-the-same-portfolio-in-four-useful-ways.md",
       "gate": "OWNER_REVIEW",
       "sources": "ALLOCATION, ALLOCATION_DECK, OWNER, APP",
-      "words": 596,
-      "spoken_sha256": "f6108b8ebd815cdb31bec4b5689cb92f7e24e8919f70164138ed1fe0a01909f4",
-      "source_sha256": "a0e7b9876e12ff53a1c93736cb666b6a22aae3335a61f14c8d38debc3c4cdd8e"
+      "words": 556,
+      "spoken_sha256": "c6aa1292bfcf3056157b540848fa4e41dfc889649681f40ff0f833dc6186e317",
+      "source_sha256": "c85650c921eec0eb3456c655747bd334294ace43d9919479d0c70502a87c4926",
+      "member_group": "Main path"
     },
     {
       "id": "4.2",
@@ -205,9 +308,10 @@
       "path": "scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md",
       "gate": "OWNER_REVIEW",
       "sources": "ALLOCATION, ALLOCATION_DECK, BRAIN, OWNER",
-      "words": 511,
-      "spoken_sha256": "cde6e56708ece5e09229705670a48969746c403b85c291f855c2dca4ac1a36ab",
-      "source_sha256": "d1ad686b8198a60907fd707d4ffcb1f70ad596ed9d53bfb4bdcf23d1ab81a718"
+      "words": 500,
+      "spoken_sha256": "786e2de0da70d57a3067637fbc437d25dcdbbb13efb88789028f75a0ee57ae4a",
+      "source_sha256": "ee765f48a9bb8dd81f5285457ddcf1fed30fa8f8717a2d9d9f254983e8aed88b",
+      "member_group": "Main path"
     },
     {
       "id": "4.3",
@@ -215,19 +319,21 @@
       "path": "scripts/04-3_match-the-money-to-when-you-will-use-it.md",
       "gate": "TAX_REVIEW",
       "sources": "ALLOCATION, ALLOCATION_DECK, BRAIN, OWNER, APP, PRIMARY",
-      "words": 1435,
-      "spoken_sha256": "6ed6c9f720aa83fa1ecca000ddb2150b455a42ac64935a9720a4419cf0d809ed",
-      "source_sha256": "b3d429bbfb3e732e3c9745ffbd114a87b1379b250717b2c13ff9333d52dbcc8e"
+      "words": 1391,
+      "spoken_sha256": "9330a3cad507737eefe67f14b73330310dd4aa1bf1ed20558d455ef57386df15",
+      "source_sha256": "ede17733aaca9cf103267000adbeaa1394382f14b5cebd66b90ffa6fd40cc11c",
+      "member_group": "Main path"
     },
     {
       "id": "4.4",
-      "title": "Build the contribution waterfall from one pool",
+      "title": "Decide where the next dollar goes",
       "path": "scripts/04-4_build-the-contribution-waterfall-from-one-pool.md",
       "gate": "OWNER_REVIEW",
       "sources": "ALLOCATION, ALLOCATION_DECK, CASHFLOW, DEBT, OWNER, APP",
-      "words": 614,
-      "spoken_sha256": "cc8ab4e52171aac9c4de4528d96068f4ed27c15616136ba9bd2f60e4c37e0693",
-      "source_sha256": "a5ada52bcb3d7b5ff2425125908fb9d8056bc46c253dfd170455fcebaab849e2"
+      "words": 596,
+      "spoken_sha256": "2ec951b4002f0e616eeb5ced9404e315b2a07d3acc2823fc7cfb3b95728722da",
+      "source_sha256": "d7b2d5944aa8c58cf201c30ab52b943e0a667e441c7096f3ea06d0970e48e9fe",
+      "member_group": "Main path"
     },
     {
       "id": "4.5",
@@ -235,9 +341,10 @@
       "path": "scripts/04-5_choose-the-account-that-can-do-the-job.md",
       "gate": "TAX_REVIEW",
       "sources": "ALLOCATION, ALLOCATION_DECK, PRIMARY, APP",
-      "words": 891,
-      "spoken_sha256": "33e9170dd026a9364e320705804bf6e8af28a2eb245b3f3ff99106a078fba45d",
-      "source_sha256": "5086d2e0a996a29ce8637b29430e28d88c02339bd8ea0b01319cc6baf4963b67"
+      "words": 877,
+      "spoken_sha256": "66264b07da169a8b16747c6919baf1004491cf562999175c5226652bcef497d6",
+      "source_sha256": "48b36a209c77d485b489cb5e8f62261807e114611044753a568e516e58bf98ee",
+      "member_group": "Main path"
     },
     {
       "id": "4.6",
@@ -245,19 +352,21 @@
       "path": "scripts/04-6_choose-traditional-roth-or-a-deliberate-mix.md",
       "gate": "TAX_REVIEW",
       "sources": "ALLOCATION, ALLOCATION_DECK, TAX, PRIMARY, OWNER",
-      "words": 706,
-      "spoken_sha256": "b2a129a06d5c162304f35eab1cf1e88f3f60480718ef6037fd5fca3d0dad6fbd",
-      "source_sha256": "2d01b498d3ce2babd7533dbd4556546f9ac7fe3a2f05b48ee4bd9b44feab7d02"
+      "words": 676,
+      "spoken_sha256": "30e03222f0291cfb2e9a39ac037de4fe8ca663aa08df95f2293684c87723cd46",
+      "source_sha256": "7a487a25b7f9c79d7fe7bc34c749e623b1e46611c062446fd9fae24b84fa3f3f",
+      "member_group": "Main path"
     },
     {
       "id": "4.7",
-      "title": "Tell each account what to buy and finish the outside actions",
+      "title": "Set up contributions and investment purchases",
       "path": "scripts/04-7_tell-each-account-what-to-buy-and-finish-the-outside-actions.md",
       "gate": "APP_CAPTURE",
       "sources": "ALLOCATION, ALLOCATION_DECK, OWNER, APP",
-      "words": 833,
-      "spoken_sha256": "53be91581cb5269a7455d190a1a47204d3755bdc1859c0de1437ac65c27ad2fe",
-      "source_sha256": "bd9298fdd8f30a1701c910c5dbc1ee1da07763ad43686bce0918b5d4c3256498"
+      "words": 809,
+      "spoken_sha256": "339b9731a8796b78cc1c22dcd2356eaa3e5eba7a831ddf612c562937dda0a6fc",
+      "source_sha256": "b232fee02ca32cfe115fef17df7d4c2f0ea074bde0bafa7da5efddbfb03b9c7e",
+      "member_group": "Main path"
     },
     {
       "id": "5.1",
@@ -265,19 +374,21 @@
       "path": "scripts/05-1_understand-what-a-sale-would-realize.md",
       "gate": "TAX_REVIEW",
       "sources": "TAX, TAX_DECK, DICTATION, PRIMARY",
-      "words": 608,
-      "spoken_sha256": "80e25ed10efb08dd996d97336091ac427cdc39f7a307ed670c6986c66cf6d8a7",
-      "source_sha256": "a935fa085a3663bf8777630906baf29683be71735547e0dc94ae31d960455ba4"
+      "words": 566,
+      "spoken_sha256": "b828b504607c5db8bbf559508413214d65f24d406a6638c49953d77479deb9c6",
+      "source_sha256": "fe5e275da22300173d138b0687e3148f42dcb7ce89985f53685fe63db3ffec1f",
+      "member_group": "Main path"
     },
     {
       "id": "5.2",
-      "title": "Repair purchase history without inventing it",
+      "title": "Rebuild the purchase records you need",
       "path": "scripts/05-2_repair-purchase-history-without-inventing-it.md",
       "gate": "TAX_REVIEW",
       "sources": "TAX, DICTATION, CLIENT_THEMES, APP, PRIMARY",
-      "words": 725,
-      "spoken_sha256": "c3ee6c5ca5714b778989f4eb407b63fb3808750c1f96ee72f0a71b32757f97ca",
-      "source_sha256": "667f01426f6094805d85997c44f41e4c8bd41476f48deb3d0e642936980ac3da"
+      "words": 705,
+      "spoken_sha256": "66fdec5189d92a3ce51df1d9967612e69042ff01ebe8c6988d65214176d98ecd",
+      "source_sha256": "db988541d460cc64114512535dd9499edee1a65f462bd9a19ba9cf7b82dcd371",
+      "member_group": "Main path"
     },
     {
       "id": "5.3",
@@ -285,9 +396,10 @@
       "path": "scripts/05-3_find-the-years-when-your-tax-choices-have-the-most-room.md",
       "gate": "TAX_REVIEW",
       "sources": "TAX, TAX_DECK, BRAIN, PRIMARY",
-      "words": 704,
-      "spoken_sha256": "522a79daf046c4c151846edb391df55a61885e69f6e41bb74dfc29231ad3418b",
-      "source_sha256": "f9d5f868740666eab29f7d524ae57bf2943611c25e8d462cb375668f3095f241"
+      "words": 657,
+      "spoken_sha256": "1601e8c763002af304fc36fbc3603df130ecd308249a8d4b7eb72ecfefd0c56b",
+      "source_sha256": "cb210732310100232a57686474a5f75b61db67f371061d18297d417b00c2eca7",
+      "member_group": "Main path"
     },
     {
       "id": "5.4",
@@ -295,19 +407,21 @@
       "path": "scripts/05-4_compare-conversions-with-intentional-withdrawals.md",
       "gate": "TAX_REVIEW",
       "sources": "TAX, TAX_DECK, RETIREMENT, PRIMARY, APP",
-      "words": 809,
-      "spoken_sha256": "c082f16676ba5ccf22571b9e9aba48ae3b44cf671e654ca9ad8a45c27c9fddf8",
-      "source_sha256": "6c21739de89eaf7be183e666fe9f5ca15a074cb794c003e3134b4773ee8522d2"
+      "words": 787,
+      "spoken_sha256": "384b47b55695159ef5a76f472eb57bd3d5b885718f47a5636d821869955705ab",
+      "source_sha256": "1bd9ac2c1ad13007703c261f3cc88c58c68f201edfa867d52d9bb67389653fb7",
+      "member_group": "Main path"
     },
     {
       "id": "5.5",
-      "title": "Turn tax opportunities into an execution checklist",
+      "title": "Choose this year's tax actions",
       "path": "scripts/05-5_turn-tax-opportunities-into-an-execution-checklist.md",
       "gate": "TAX_REVIEW",
       "sources": "TAX, TAX_DECK, BRAIN, PRIMARY, APP",
-      "words": 709,
-      "spoken_sha256": "3b737011c2afd910eaa1773ef8d1ceeda4c4c0f0df3152e8eb73277469f6140c",
-      "source_sha256": "21b9a7bf27099aefb244397443606c9e023d20510bb58b048d9faceb2514a91c"
+      "words": 688,
+      "spoken_sha256": "6db37a860a177e8d910255f13a6ab15fb600272242be1c29000a16421e527725",
+      "source_sha256": "b16e117e4ebc350babc280bda71cd378fb3085afa6e741cc9dd054b8e3293a3c",
+      "member_group": "Main path"
     },
     {
       "id": "6.1",
@@ -315,9 +429,10 @@
       "path": "scripts/06-1_define-spending-reliable-income-and-the-gap.md",
       "gate": "OWNER_REVIEW",
       "sources": "RETIREMENT, RETIREMENT_DECK, BRAIN, MASTER",
-      "words": 667,
-      "spoken_sha256": "cbeaae612cbc3fba38e73d6c5ada72e61feb8d4f242470df25a6d9c8c357317f",
-      "source_sha256": "a851313d02f3165c2fcde808b0578e23f1cfe0368277023eb8c5e2b2c1fd9b9d"
+      "words": 641,
+      "spoken_sha256": "35e096ed3700f5d1c6195e0c4a54b142026124db76b7bf8fd801f8f2501a4f55",
+      "source_sha256": "ae855181f7a7885e168963a3421f584afc132fe0a4d0b4213a3cd39e59a3122a",
+      "member_group": "Main path"
     },
     {
       "id": "6.2",
@@ -325,9 +440,10 @@
       "path": "scripts/06-2_fund-the-years-before-accounts-and-benefits-become-available.md",
       "gate": "TAX_REVIEW",
       "sources": "RETIREMENT, ALLOCATION, PRIMARY, APP",
-      "words": 675,
-      "spoken_sha256": "af54f321834b8ea7b3e03df97422dec9e4bf9c7711260c655dc2f7001e720077",
-      "source_sha256": "289484ee8d3b7b00798e7c7a9e671b793c9465d67dc81cb3520c0bedf3232bc6"
+      "words": 665,
+      "spoken_sha256": "c4425e65eafcd5170055f0873343d772a028cdd34c80a90308cb4976685feb83",
+      "source_sha256": "335fbd2d690d32b9ecb2cff61c858e019b0f23d1972942463221a9a371141491",
+      "member_group": "Main path"
     },
     {
       "id": "6.3",
@@ -335,9 +451,10 @@
       "path": "scripts/06-3_price-healthcare-before-leaving-employer-coverage.md",
       "gate": "HEALTH_REVIEW",
       "sources": "RETIREMENT, OWNER, PRIMARY, BRAIN",
-      "words": 684,
-      "spoken_sha256": "9a82174cf3903229786068aed82be2f5176347b873565597c609c0a4da76234f",
-      "source_sha256": "68c02756b835eadccd329184b5a2eada3a86500555ee80330c5894adcf313543"
+      "words": 669,
+      "spoken_sha256": "34a20314b86db1e0013b045a565c89e6fc19e6a79b5876a7921b6c82cd7b13fb",
+      "source_sha256": "b8d67e32381cfdc5569098c6d896eee7f310afc2d2332d39c91bea4943c6600c",
+      "member_group": "Main path"
     },
     {
       "id": "6.4",
@@ -345,9 +462,10 @@
       "path": "scripts/06-4_choose-account-withdrawals-and-asset-sales-separately.md",
       "gate": "TAX_REVIEW",
       "sources": "RETIREMENT, RETIREMENT_DECK, TAX, APP, PRIMARY",
-      "words": 644,
-      "spoken_sha256": "3014e386ed5343edafc591148d9e2cc0b85b31a93d3118cc144cba9fe1e0ceb0",
-      "source_sha256": "c4fb5fdc3e7900426dff49b741d37b41a56724d5d5a39e62d31a424729be6cd9"
+      "words": 614,
+      "spoken_sha256": "401b8c63327644a526dfb6a8802cd42074bd8a773e66c9cec6084dd8271d094f",
+      "source_sha256": "1767e8cc9c180697a8e7d2bb17b840d9ac061a6af4c173d8f1d5efc2cce3083f",
+      "member_group": "Main path"
     },
     {
       "id": "6.5",
@@ -355,9 +473,10 @@
       "path": "scripts/06-5_use-the-reserve-through-a-difficult-market.md",
       "gate": "OWNER_REVIEW",
       "sources": "RETIREMENT, RETIREMENT_DECK, CASHFLOW, APP",
-      "words": 696,
-      "spoken_sha256": "48253d552c7ed80c477617fd2be00fbb7fa82d589ea656837384e8a24f09a0cf",
-      "source_sha256": "75e3311bbac11b69edf08f6bcaacef9a7dec203b6d26d51bbe68d49e121c230a"
+      "words": 674,
+      "spoken_sha256": "181bb237539d6f428daf065e086fc7e8d18547fed171603e239e521414895e22",
+      "source_sha256": "d7d796dff3246db815f611a4c7bc9704a9b83c47a8c316b243be63b93b2e24d7",
+      "member_group": "Main path"
     },
     {
       "id": "6.6",
@@ -365,9 +484,10 @@
       "path": "scripts/06-6_compare-selling-borrowing-and-using-other-resources.md",
       "gate": "TAX_LENDING_REVIEW",
       "sources": "RETIREMENT, DEBT, BRAIN, OWNER, APP, PRIMARY",
-      "words": 675,
-      "spoken_sha256": "bee7fd990d98f3f480d6d41c08cfb8ea7c1aa02450b0fb89ec78f7c040896e1a",
-      "source_sha256": "149f42d752045774a03a914b54aaa919da7d5bfa38afd8fc43b47be1873b9a6e"
+      "words": 650,
+      "spoken_sha256": "f5ad099201048ac8aa59159287ce4d0517ab7b28bb7ea1492d897c4702ba124e",
+      "source_sha256": "67779310487c04fc14a401a4d828b69b50c26672dadf59bfb4e0c5630e88d86f",
+      "member_group": "Main path"
     },
     {
       "id": "6.7",
@@ -375,19 +495,21 @@
       "path": "scripts/06-7_use-simulations-to-compare-the-plan-not-chase-a-score.md",
       "gate": "APP_CAPTURE",
       "sources": "RETIREMENT, FOUNDATION, APP, BRAIN",
-      "words": 625,
-      "spoken_sha256": "915ddfb87b1bccec1a2386204116bd0e4b343fd71623327c65081227232bb7d1",
-      "source_sha256": "576096e33d098457bb5937d99d5601105a81541f44a77813819749914a938070"
+      "words": 575,
+      "spoken_sha256": "3ade391a1b5d87b24f00668825bd3fb743565e86c63a0567fc88dcbf1a1000f4",
+      "source_sha256": "3f80370c5b8e894dcf192ebecc4fe14e82cb0b3eb9e4be0e7710690315b0dc49",
+      "member_group": "Main path"
     },
     {
       "id": "6.8",
-      "title": "Turn the retirement plan into an annual spending decision",
+      "title": "Decide what to spend next year",
       "path": "scripts/06-8_turn-the-retirement-plan-into-an-annual-spending-decision.md",
       "gate": "APP_CAPTURE",
       "sources": "RETIREMENT, RETIREMENT_DECK, MAINTENANCE, APP",
-      "words": 612,
-      "spoken_sha256": "0e7a32bb56bf44d9e74b101ddd5f894c3af42cb266d203fe9db94e633a17b6e1",
-      "source_sha256": "be64937aac7e0eb95441d871898ce5ce63bc05133aed831b12cf12dfd73ddda3"
+      "words": 561,
+      "spoken_sha256": "ba56bf03150e4d6cd5850bf7d69c0466f5501fc06fe091f82aec2ab87a371ebf",
+      "source_sha256": "081ae8ba950d69721bd57cad8b4e395184e36c5c3f6623cd63da433cb867c416",
+      "member_group": "Main path"
     },
     {
       "id": "7.1",
@@ -395,9 +517,10 @@
       "path": "scripts/07-1_choose-who-controls-each-part-of-the-bitcoin.md",
       "gate": "CUSTODY_REVIEW",
       "sources": "CUSTODY, DICTATION, BRAIN, OWNER, PRIMARY",
-      "words": 611,
-      "spoken_sha256": "706609e2f7ab23c85b6257160406054f982d7bbbfa30875cdb2851c53ad06f7a",
-      "source_sha256": "3c33a9e01cabbc0526936967fb2b515b4b555f8c9e6ce48218190cb2803958c2"
+      "words": 746,
+      "spoken_sha256": "c049d480e00538d1d8167ee825c0989a1b7da9f90089e34243b1eeb065d82bcb",
+      "source_sha256": "99e8eb38cb64a8c6fb7259ffa878683194e82ce3fd9d7d0b683645a07649d169",
+      "member_group": "Main path"
     },
     {
       "id": "7.2",
@@ -405,39 +528,43 @@
       "path": "scripts/07-2_prove-recovery-before-meaningful-money-depends-on-it.md",
       "gate": "DEVICE_CAPTURE",
       "sources": "CUSTODY, DICTATION, PRIMARY",
-      "words": 635,
-      "spoken_sha256": "251a2aa7299557b41703247e37839c1626ec24e997527a5923a1aa02c2aaf95f",
-      "source_sha256": "c5d154b7684f457f2c9430944e8ebcad87d6539519d56639a05eeaf6eee8e760"
+      "words": 593,
+      "spoken_sha256": "86c5a150b050679c1e9654ea5099d3b3ae708d71a1d1bb49386a545c5ed1a98c",
+      "source_sha256": "782f647d0cab6da62dbfd965c5ea56274025614bbd4edcf47a171fd59b5636f3",
+      "member_group": "Main path"
     },
     {
       "id": "7.3",
-      "title": "Harden accounts and remove the largest shared failure",
+      "title": "Secure your accounts",
       "path": "scripts/07-3_harden-accounts-and-remove-the-largest-shared-failure.md",
       "gate": "CUSTODY_REVIEW",
       "sources": "CUSTODY, DICTATION, PRIMARY, CLIENT_THEMES",
-      "words": 611,
-      "spoken_sha256": "2226d758017886d71eb613833ecb41653748f915eeaf4de9fd3f7dcc2451d468",
-      "source_sha256": "73f9e76832676a9230526b06edbdb460bd935f25ae51bf918d5d276d63930fb2"
+      "words": 596,
+      "spoken_sha256": "95ffe6ee4d061d94ae60d46ff7151816dfd2c877330e2ab91783f2881f0528b3",
+      "source_sha256": "f0eb897967d4b3ae53bf92a9e3a3892e3f6660a6a59375f2b991321a53db874e",
+      "member_group": "Main path"
     },
     {
       "id": "7.4",
-      "title": "Record a usable custody plan without exposing secrets",
+      "title": "Make the family custody map",
       "path": "scripts/07-4_record-a-usable-custody-plan-without-exposing-secrets.md",
       "gate": "APP_CAPTURE",
       "sources": "CUSTODY, OWNER, APP, MAINTENANCE",
-      "words": 530,
-      "spoken_sha256": "a455fbb117bd28609170f3eedf5130333bfd35eeea1d3e362522d1985681e1bc",
-      "source_sha256": "021d9d0714af1445d5535efc619f1823c3e55ee1750eff9686a9b15a4d1111b9"
+      "words": 536,
+      "spoken_sha256": "ad437813e31259af4101821d32a349bff1687364db763dc2a71649d7b1030470",
+      "source_sha256": "d4951bcf51ad9a8943a9517a44437c23e6f5bbbf9f15ba31b7bf491052351eff",
+      "member_group": "Main path"
     },
     {
       "id": "8.1",
-      "title": "Choose the people and put the legal baseline in place",
+      "title": "Choose who can act for your family",
       "path": "scripts/08-1_choose-the-people-and-put-the-legal-baseline-in-place.md",
       "gate": "ESTATE_REVIEW",
       "sources": "ESTATE, ESTATE_DECK, OWNER, PRIMARY",
-      "words": 523,
-      "spoken_sha256": "f814d3a5baf11088e2d83c1886ba1a9c3b117fdb40e78f8f9bca916c29ebb615",
-      "source_sha256": "f7801ead3f8e221ad4c8e84d7fb78e13c3cd5fe00665554a1234431d674fb0da"
+      "words": 504,
+      "spoken_sha256": "78827f0dae7a83ca393156ca471d869cd7817883e916e975e3e9ebe32ea226f5",
+      "source_sha256": "2c62d20e2413afc000cf8caa3fb72ad960cef23f6c75bcf8ec3925752c27a27a",
+      "member_group": "Main path"
     },
     {
       "id": "8.2",
@@ -445,19 +572,21 @@
       "path": "scripts/08-2_connect-legal-authority-with-the-actual-recovery-process.md",
       "gate": "ESTATE_CUSTODY_REVIEW",
       "sources": "ESTATE, CUSTODY, DICTATION, PRIMARY",
-      "words": 560,
-      "spoken_sha256": "374c1a0a220128713d6da3e54c9f0910d1a208580177242aa70da024dd4b6838",
-      "source_sha256": "4dfdae6642bc55a204440869769d04b804547a2dfe554f6d2f01f43fad3f3d17"
+      "words": 566,
+      "spoken_sha256": "2881c42dfd9bfdc89075f82b2b0ab8ad4cf30cc4c1c6c5402d40a86d38e2dd91",
+      "source_sha256": "91f77932b3e64deb3193487e1c8182f3fbede3eaa3e997c0bd52429bbe401940",
+      "member_group": "Main path"
     },
     {
       "id": "8.3",
-      "title": "Write and test the first instructions your family will receive",
+      "title": "Write your family's first instructions",
       "path": "scripts/08-3_write-and-test-the-first-instructions-your-family-will-receive.md",
       "gate": "ESTATE_REVIEW",
       "sources": "ESTATE, ESTATE_DECK, DICTATION, OWNER, APP",
-      "words": 617,
-      "spoken_sha256": "e77c4095cfed92091882ecf668106f4b3087e4807269036eff00047ddff5ed09",
-      "source_sha256": "f4463fec32d3359befe7922d9548e99248126ba8174dc3244b6cdd1794f4fe6e"
+      "words": 580,
+      "spoken_sha256": "3e4a8a51e4ee64b5b017b93f70841f7dbfa519d822be545de70fb3e6517712aa",
+      "source_sha256": "bd1fedb22080b997efe7e638a6e9faae3a6c61d20f0549be18cca47564edce57",
+      "member_group": "Main path"
     },
     {
       "id": "8.4",
@@ -465,9 +594,10 @@
       "path": "scripts/08-4_identify-the-risks-you-will-transfer-or-carry.md",
       "gate": "INSURANCE_REVIEW",
       "sources": "ESTATE, ESTATE_DECK, RETIREMENT, PRIMARY",
-      "words": 600,
-      "spoken_sha256": "31266963ab19f9a29371201016bd9a2f5471793204930eae09fed90fb57b5056",
-      "source_sha256": "205813eeb1376d4aabce5bd873a5384d4c4d543a3e6c59c7179b58327a375388"
+      "words": 548,
+      "spoken_sha256": "036a105e2b702f43025bf13f8ccf026938e80f033b678e411f9c2b422a75e2e7",
+      "source_sha256": "dd9e28e9784d9e744acf440f15dc8b100072540671b07b2fd15589179619812e",
+      "member_group": "Main path"
     },
     {
       "id": "9.1",
@@ -475,9 +605,10 @@
       "path": "scripts/09-1_keep-a-quiet-month-simple.md",
       "gate": "APP_CAPTURE",
       "sources": "MAINTENANCE, MAINTENANCE_DECK, CLIENT_THEMES, APP",
-      "words": 528,
-      "spoken_sha256": "9199be451349bd28978b8b1a406727e085d8f464720a1feb3520d01d8e68d481",
-      "source_sha256": "e6841fca18c15f605cd0110eea216145e801726c1245bb8b277359e8adffea9d"
+      "words": 503,
+      "spoken_sha256": "e73b05a7efc8241295b96a3fa9907d679572916e4e9a6fd5a5257dd6fa0720f3",
+      "source_sha256": "9265bd7d28fe29284d9e8f214e236ff3dd8bbc2aa1eddff99d026e5681bd6494",
+      "member_group": "Main path"
     },
     {
       "id": "9.2",
@@ -485,9 +616,10 @@
       "path": "scripts/09-2_review-the-whole-plan-once-a-year.md",
       "gate": "APP_CAPTURE",
       "sources": "MAINTENANCE, MAINTENANCE_DECK, RETIREMENT, REVIEW, APP",
-      "words": 571,
-      "spoken_sha256": "675c210d06ad901069f86d64e6f88a17339169092683c664a5f6b3b1191da125",
-      "source_sha256": "120cb05b1808538ff4df8a37bff31479d1d206d8c4523eb1727c31d46de8a36f"
+      "words": 559,
+      "spoken_sha256": "267fb666790bb559cb1ae7cdda1698854cbb03446293caafdf5709aff560f57f",
+      "source_sha256": "f20c3d1ba043046359f76b4f670be977eb0cf5b49ef43045576b29b301b002b9",
+      "member_group": "Main path"
     },
     {
       "id": "9.3",
@@ -495,9 +627,10 @@
       "path": "scripts/09-3_handle-a-life-change-or-a-number-that-does-not-reconcile.md",
       "gate": "APP_CAPTURE",
       "sources": "MAINTENANCE, FOUNDATION, CLIENT_THEMES, APP",
-      "words": 539,
-      "spoken_sha256": "00524b8f666e3983bdda9b28f2c0ffb89a444b43e5ad783113098238120ff55d",
-      "source_sha256": "18f73c9846828487ccef7ccb73cc8e0d7b25c921903e45e82083c18678a644f7"
+      "words": 511,
+      "spoken_sha256": "ca59cc4519de739f9cf871383475fcea30ee4f6a0fced8053d81c04c34a1206e",
+      "source_sha256": "40d6d6a73dce5c9fc8721a6db017f4bff62bfe6a2afb324fb6d2a03ed9d70e3b",
+      "member_group": "Main path"
     },
     {
       "id": "10.1",
@@ -505,19 +638,21 @@
       "path": "scripts/10-1_read-the-completed-plan-in-a-useful-order.md",
       "gate": "APP_CAPTURE",
       "sources": "REVIEW, MAINTENANCE, MASTER, LANDING, APP",
-      "words": 580,
-      "spoken_sha256": "e5ca319ec80895f64c9745f02084c8ffe46c36736702747df61cf7d077dc2f80",
-      "source_sha256": "74b1d14dd78f73a7d50421647c2824e968d3e798b67823415e6d6743f8482b2a"
+      "words": 543,
+      "spoken_sha256": "76c3744f537170b6fac1510c2e96c2eceddfa6d4f3abe8925155e4bc020cd715",
+      "source_sha256": "9a083cfb87ee9c4929f1357f1513ee0e62aa02385f6ed6127c08e0dc0ac798f0",
+      "member_group": "Main path"
     },
     {
       "id": "10.2",
-      "title": "Explain the plan and hand off the next decisions",
+      "title": "Explain your plan and set the next actions",
       "path": "scripts/10-2_explain-the-plan-and-hand-off-the-next-decisions.md",
       "gate": "OWNER_REVIEW",
       "sources": "REVIEW, CLIENT_THEMES, LANDING, OWNER",
-      "words": 566,
-      "spoken_sha256": "4e97eb419ba7c3bf955928f20146c872efee983d846f9f58350822ba16fdcab5",
-      "source_sha256": "4272201bd8d67ecafe0ffccde80b0b30745a3684f2f9bf189232c12917d576e7"
+      "words": 533,
+      "spoken_sha256": "a2ed1bdd2f11e20c2d2d8cd62d638f04b708836ec827a984a1720653492e6055",
+      "source_sha256": "56c5c1f8375bee9e3730125dd7f2e928bda0efdd2276b7439d70501f77b99b32",
+      "member_group": "Main path"
     },
     {
       "id": "A1.1",
@@ -525,19 +660,33 @@
       "path": "scripts/advanced/A1-1_test-an-assumption-without-making-the-model-tell-you-what-you-want.md",
       "gate": "APP_CAPTURE",
       "sources": "FOUNDATION, BRAIN, APP, PRIMARY",
-      "words": 471,
-      "spoken_sha256": "7935eecc1d0f9a700d0771eead05c099ab0687ad4c48c25429cc34ea7159eae6",
-      "source_sha256": "fd0c537c36658785a9e455d751a6bf11056f31d8f768fae305a283a848845d47"
+      "words": 440,
+      "spoken_sha256": "b139e67b4e1b546cf894bc2d780a0d8c43c75ae8484694995e3d365216257af9",
+      "source_sha256": "a433d84907f9aa827a1dd303d5b2f593819f65bf1b49c0d9784611ee63064cbc",
+      "member_route": {
+        "after": "1.4",
+        "when": "You need custom assumptions or a holding-specific model to answer a planning question.",
+        "before": "Complete before relying on the custom assumption or override.",
+        "return": "W01 chapter 8, then lesson 1.5"
+      },
+      "member_group": "For your situation"
     },
     {
       "id": "A3.1",
-      "title": "Build a Bitcoin-loan operating sheet from the actual contract",
+      "title": "Plan how to manage a Bitcoin-backed loan",
       "path": "scripts/advanced/A3-1_build-a-bitcoin-loan-operating-sheet-from-the-actual-contract.md",
       "gate": "TAX_LENDING_REVIEW",
       "sources": "DEBT, BRAIN, PRIMARY, APP",
-      "words": 495,
-      "spoken_sha256": "487af84f6d98520fca49f3886eb1e6e434f991a6355f8d5505d1f227361220ea",
-      "source_sha256": "d63547b380c57f29e7cd07a096a9df84b3e128135977551570bf5aa8057f272f"
+      "words": 499,
+      "spoken_sha256": "a3dee20d978ad066fa29de1d44fdb65e4cdb5a589815e02ec6990227146577b4",
+      "source_sha256": "65a896764efdf4e8c2261e0e92605d91a9d654c22208518be2a08620c6e2558a",
+      "member_route": {
+        "after": "3.6",
+        "when": "You have, or are seriously considering, a Bitcoin-backed loan.",
+        "before": "Complete before borrowing or relying on a collateral-response plan.",
+        "return": "W03 chapters 5–6, then lesson 4.1"
+      },
+      "member_group": "For your situation"
     },
     {
       "id": "A3.2",
@@ -545,9 +694,16 @@
       "path": "scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md",
       "gate": "LENDING_REVIEW",
       "sources": "DEBT, OWNER, PRIMARY",
-      "words": 545,
-      "spoken_sha256": "9749f2a5b8a75dd4c22e20830fda8b42c91a046e39540cb2586d8be67bf3a130",
-      "source_sha256": "cfa6b6fb1ba1153d7dbb1d2587e083a142bc645bc30615b6f7ef37d9338bb58a"
+      "words": 528,
+      "spoken_sha256": "f59265434c99c9107f96e08ae0447a1a745fdce5d4fbaba015a1591a9c78f3ba",
+      "source_sha256": "362b807800421931c3ab28e3132ff670893cc8139f9f71004564d61e40b3aa68",
+      "member_route": {
+        "after": "3.5",
+        "when": "A financing option includes a balloon, changing payment phases, shared appreciation, or another unusual contract term.",
+        "before": "Complete before choosing that financing or relying on its modeled cost.",
+        "return": "W03 chapter 4, then lesson 3.6"
+      },
+      "member_group": "For your situation"
     },
     {
       "id": "A4.1",
@@ -555,9 +711,16 @@
       "path": "scripts/advanced/A4-1_check-price-context-before-a-large-allocation-change.md",
       "gate": "OWNER_REVIEW",
       "sources": "ALLOCATION, BRAIN, CLIENT_THEMES",
-      "words": 466,
-      "spoken_sha256": "ef938ffd88da9015e7146f8d58ff25e51d5040fce5f1eac691f0ad3078a5a7c9",
-      "source_sha256": "dabd8a67ef2ba1af63ca7859dc2d6d943c7fa2e5ac978f23a5807e1c8e3480d1"
+      "words": 455,
+      "spoken_sha256": "121d6a9068ecbd070ff8ebf045408ce4d42c00f76603da9bfe3a1fc54decbfb7",
+      "source_sha256": "1a4cac72d795183d459e46871cc2d0cfc17e29b75274728b853d263ba989dfd3",
+      "member_route": {
+        "after": "4.7",
+        "when": "You are about to make a large investment purchase, sale, or allocation change and need to choose its timing.",
+        "before": "Complete before the large transaction; routine funded contributions do not need this detour.",
+        "return": "W04 chapters 7–8, then lesson 5.1"
+      },
+      "member_group": "For your situation"
     },
     {
       "id": "A5.1",
@@ -565,9 +728,16 @@
       "path": "scripts/advanced/A5-1_build-a-multi-year-conversion-comparison.md",
       "gate": "TAX_REVIEW",
       "sources": "TAX, RETIREMENT, PRIMARY, APP",
-      "words": 514,
-      "spoken_sha256": "3b4a843a2a44c1ed742c2a2d0eb92e32d5a8468bc0ed67807c0cccb5f41a2dc7",
-      "source_sha256": "5d580c78a79f480ea11c37f257f25408cbc37b4174562d240461ddc9f036ff60"
+      "words": 510,
+      "spoken_sha256": "48d1f5b90a760f97ecab2f50567619477083d5fa75a9eae240d199b7a5baf28f",
+      "source_sha256": "f1089d38a9113627c633eb4efa8e4e8d96d9bdeaba810a106cba818202053b96",
+      "member_route": {
+        "after": "5.4",
+        "when": "You are considering Roth conversions across several years.",
+        "before": "Complete before relying on a multi-year conversion schedule.",
+        "return": "W05 chapter 4, then lesson 5.5"
+      },
+      "member_group": "For your situation"
     },
     {
       "id": "A5.2",
@@ -575,19 +745,33 @@
       "path": "scripts/advanced/A5-2_prepare-a-harvesting-transaction-that-matches-the-tax-record.md",
       "gate": "TAX_REVIEW",
       "sources": "TAX, PRIMARY, APP",
-      "words": 455,
-      "spoken_sha256": "a3dfc02366b8dfd02ef0b1829e648868fa9733f8334ac395a2529f44533c3a13",
-      "source_sha256": "65d79f89ddb7c2a80997b608761572ab33ae1a423343cb766f1a32b9ba6cc6c6"
+      "words": 454,
+      "spoken_sha256": "f7a692be7795c4764959ef6cb062ef9dd68b33714d6ecca06ee70e4c1984260b",
+      "source_sha256": "5c82ee4d02c7db65375bc924fd72302c9c787bf772b3097763bfbc84bfa80766",
+      "member_route": {
+        "after": "5.5",
+        "when": "You intend to harvest a gain or loss through a specific sale.",
+        "before": "Complete before executing the harvesting transaction.",
+        "return": "W05 chapters 5–6, then lesson 6.1"
+      },
+      "member_group": "For your situation"
     },
     {
       "id": "A5.3",
-      "title": "Evaluate a state move as a household decision",
+      "title": "Compare the full cost of moving states",
       "path": "scripts/advanced/A5-3_evaluate-a-state-move-as-a-household-decision.md",
       "gate": "TAX_ESTATE_REVIEW",
       "sources": "TAX, ESTATE, PRIMARY",
-      "words": 459,
-      "spoken_sha256": "afb2ab954935a35f874b392bf0bd36123d17067dfe6af7b4ebb1e4fed7659f2c",
-      "source_sha256": "7c398a7e6f967f50002ddb3165ca00dec5bb427e58b4aa59d600ec9cd5ba7fae"
+      "words": 443,
+      "spoken_sha256": "d79d7b54731c8e4a98427f9433690e1488769c4e84c7e74deaa5a8e059cf7fd1",
+      "source_sha256": "9b5964760b6f158dc6336944145bce727e833f951b63360b5ac1e5c4ee8d61db",
+      "member_route": {
+        "after": "5.3",
+        "when": "A possible state move could affect your spending or the tax on a planned sale or withdrawal.",
+        "before": "Complete before relying on the move’s tax treatment; residency still needs professional review.",
+        "return": "W05 chapter 3, then lesson 5.4"
+      },
+      "member_group": "For your situation"
     },
     {
       "id": "A6.1",
@@ -595,9 +779,16 @@
       "path": "scripts/advanced/A6-1_compare-healthcare-and-tax-decisions-in-the-same-year.md",
       "gate": "HEALTH_TAX_REVIEW",
       "sources": "RETIREMENT, TAX, PRIMARY, OWNER",
-      "words": 562,
-      "spoken_sha256": "2d4dd1e268d7a5b98ff71355a04a57cd1230da856f516e235064c1a6b32a6a70",
-      "source_sha256": "5d5a9ef7d18e3b351c088af16247cb94e7536264da72c10400d3da027d81b358"
+      "words": 523,
+      "spoken_sha256": "1608c0ad4b97aaec5448c8752480efd808934a54fad4be20be4ef510aacdc37b",
+      "source_sha256": "18ef756d872d44bd892c5d202a35b1d10f454f855349fb9979b72161772e9649",
+      "member_route": {
+        "after": "6.3",
+        "when": "A withdrawal, gain, or conversion could change the cost or eligibility of healthcare coverage.",
+        "before": "Complete before adopting the affected income and coverage plan.",
+        "return": "W06 chapter 3, then lesson 6.4"
+      },
+      "member_group": "For your situation"
     },
     {
       "id": "A6.2",
@@ -605,19 +796,33 @@
       "path": "scripts/advanced/A6-2_test-a-multi-year-sell-versus-borrow-strategy.md",
       "gate": "TAX_LENDING_REVIEW",
       "sources": "RETIREMENT, DEBT, APP, PRIMARY",
-      "words": 572,
-      "spoken_sha256": "f3503f2da9c16119381e7504ed4878c6cf7f9a6efa1cd578ceea1c70d61c8ba5",
-      "source_sha256": "8f11ec7844e7c166eb9c7ca5ea97bb67e185ee9966fa2793ab3a7f65a431bc23"
+      "words": 559,
+      "spoken_sha256": "0e0417cab2bf4fb15152f76a8323cf025ad68cc8109b080396f3ab50d7b49e17",
+      "source_sha256": "7d8842b230d1da52092e4af34e2a102ac6ef462152eb9cb9ca8ba4293d7f2dad",
+      "member_route": {
+        "after": "6.6",
+        "when": "You are considering borrowing in more than one year to fund retirement spending.",
+        "before": "Complete before relying on recurring borrowing, not after the first loan.",
+        "return": "W06 chapter 6, then lesson 6.7"
+      },
+      "member_group": "For your situation"
     },
     {
       "id": "A6.3",
-      "title": "Verify an early-retirement account-access route",
+      "title": "Check access to retirement accounts before 59½",
       "path": "scripts/advanced/A6-3_verify-an-early-retirement-account-access-route.md",
       "gate": "TAX_REVIEW",
       "sources": "RETIREMENT, TAX, PRIMARY",
-      "words": 588,
-      "spoken_sha256": "043b76e76e13935337f58c0b2049fb9a561ad30ee18478c6b2e9a652026f7e06",
-      "source_sha256": "b253202ac950562471e09e1bdd614435e441ffe153dce87d660d48f79142fca9"
+      "words": 592,
+      "spoken_sha256": "4f25e535383fd3a73926f9ea78c712e82bf6b03fba73b192be5dc7ab284ad4b3",
+      "source_sha256": "2fb53d19bae5d42772489835abd3bc01f5a736a0e3b19b84959d0e11801eb79e",
+      "member_route": {
+        "after": "6.2",
+        "when": "Your plan relies on using retirement-account money before 59½.",
+        "before": "Complete before counting on the access route or making a rollover that could change it.",
+        "return": "W06 chapter 2, then lesson 6.3"
+      },
+      "member_group": "For your situation"
     },
     {
       "id": "A7.1",
@@ -625,29 +830,33 @@
       "path": "scripts/advanced/A7-1_compare-passphrase-multisig-and-professional-support.md",
       "gate": "DEVICE_CUSTODY_REVIEW",
       "sources": "CUSTODY, DICTATION, PRIMARY, OWNER",
-      "words": 531,
-      "spoken_sha256": "f20cb83c9d9f6271a61c87ec10003ee6106938c4bee1250ae8426f2d3ffc7cde",
-      "source_sha256": "e2163948d1dfb027b46e557a749295c89abec5498b8031c4658c50138d45300d"
-    },
-    {
-      "id": "A7.2",
-      "title": "Decide which custody responsibilities the household can maintain",
-      "path": "scripts/advanced/A7-2_decide-which-custody-responsibilities-the-household-can-maintain.md",
-      "gate": "CUSTODY_REVIEW",
-      "sources": "CUSTODY, BRAIN, CLIENT_THEMES",
-      "words": 502,
-      "spoken_sha256": "6ca6c20df2b17081148de0899245fd5edd14e63d99c1ebc4fe431da65ba9b24f",
-      "source_sha256": "a2e23c99044a9d137f09a3771289ede3ea7292e03652eecb9dffc8eda7a9b7fa"
+      "words": 520,
+      "spoken_sha256": "1951d90407ff3b260bb15cdabd7d1f7c1e0333408a25e837fa79a093108133d8",
+      "source_sha256": "7f121647115c9770186ae65ca60fb4d6d9cf141598234bef17850728f2889fee",
+      "member_route": {
+        "after": "7.1",
+        "when": "You are choosing or changing a passphrase, multisig, or professionally supported custody arrangement.",
+        "before": "Complete before moving meaningful funds into the new arrangement.",
+        "return": "W07 chapter 1, then lesson 7.2 and its safe recovery work"
+      },
+      "member_group": "For your situation"
     },
     {
       "id": "A7.3",
-      "title": "Test correlated failures across providers and methods",
+      "title": "Check what your custody arrangements share",
       "path": "scripts/advanced/A7-3_test-correlated-failures-across-providers-and-methods.md",
       "gate": "CUSTODY_REVIEW",
       "sources": "CUSTODY, BRAIN, PRIMARY",
-      "words": 514,
-      "spoken_sha256": "987bb2b5d1978dd0a569c39948f95921392765ca92ff3fc2a3835375ddecfe9f",
-      "source_sha256": "2142a32069f11889b36d35f0431f66833e44ce1f81a46134b908dc07712c6d36"
+      "words": 503,
+      "spoken_sha256": "02770d93190cfb8f6022f662e4ab45fa878256516e53aeb7785991aa093b40bf",
+      "source_sha256": "fc57c597cb04c18792370de1181be5660f99f981ef4f2262682cba198f8a2335",
+      "member_route": {
+        "after": "7.4",
+        "when": "Several providers, wallets, people, or recovery routes may share a failure that affects important holdings.",
+        "before": "Complete before treating those holdings as independent protection.",
+        "return": "W07 chapter 4, then lesson 8.1"
+      },
+      "member_group": "For your situation"
     },
     {
       "id": "A7.4",
@@ -655,9 +864,16 @@
       "path": "scripts/advanced/A7-4_understand-utxos-before-consolidating-coins.md",
       "gate": "DEVICE_CAPTURE",
       "sources": "CUSTODY, PRIMARY",
-      "words": 543,
-      "spoken_sha256": "cecf2dc3295bad730bfbd77827bb446c0f19b82d20582e5aab774a4400d6cc28",
-      "source_sha256": "b6a46c1eec53fc9a214a2ba2105fe6efee56f1d9f292d52fe9bc393dd55121e4"
+      "words": 531,
+      "spoken_sha256": "564a4cb5aaac690b3de56c5ceaff8b75b32a2344923ea1dd2697a1f5febabcaa",
+      "source_sha256": "3f526a03d29889c4b8d3804e4a2b6373b42615c0891a3a9f4877b0bac7c2f417",
+      "member_route": {
+        "after": "7.2",
+        "when": "You are considering consolidating Bitcoin outputs or selecting outputs manually for a transaction.",
+        "before": "Complete before that wallet transaction; it is not a requirement to consolidate.",
+        "return": "Finish the relevant safe wallet work, then lesson 7.3"
+      },
+      "member_group": "For your situation"
     },
     {
       "id": "A8.1",
@@ -665,9 +881,16 @@
       "path": "scripts/advanced/A8-1_decide-whether-a-trust-has-a-job-in-the-plan.md",
       "gate": "ESTATE_TAX_REVIEW",
       "sources": "ESTATE, ESTATE_DECK, PRIMARY, OWNER",
-      "words": 511,
-      "spoken_sha256": "2d25e7dd275faf4906cc52fa8be5d757ecf74336ee536ecddecd75dcec3b8309",
-      "source_sha256": "dba5f1f67642b0b46ebea5c9fa9fb627f4d3b627573257ddf70109cb0c5ff21e"
+      "words": 489,
+      "spoken_sha256": "38558ca766bf1e307eb2d2e978d8eb454c5293b38e580a06bcb59aec019e3132",
+      "source_sha256": "8fcbbda43e788be158b52c7615a025d7253dc4badb5f6124a29f085f726999dd",
+      "member_route": {
+        "after": "8.1",
+        "when": "A trust may help with a specific family, management, or estate objective.",
+        "before": "Complete before choosing or funding the arrangement, with attorney and tax review.",
+        "return": "W08 chapter 1, then lesson 8.2"
+      },
+      "member_group": "For your situation"
     },
     {
       "id": "W01",
@@ -677,7 +900,8 @@
       "sources": "FOUNDATION, DICTATION, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "0a6d6ec8b09407847a9b02479bc7813f1ef7b993c2d19f0d6ce2d65413ed7868"
+      "source_sha256": "804be802f3f1be63c10341bc34ef65ddfe628ee9e1e84b65763c97eda4c5f61a",
+      "member_group": "Walkthrough"
     },
     {
       "id": "W02",
@@ -687,7 +911,8 @@
       "sources": "CASHFLOW, DICTATION, OWNER, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "89113d92de60787c8c8740fd9a129ea221c501c43e6c38fd5e3bcc991bc1db33"
+      "source_sha256": "89113d92de60787c8c8740fd9a129ea221c501c43e6c38fd5e3bcc991bc1db33",
+      "member_group": "Walkthrough"
     },
     {
       "id": "W03",
@@ -697,7 +922,8 @@
       "sources": "DEBT, OWNER, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "09af8bf03758b0ff652eebacc2ad208001963abd294c239930492b64e2b1c418"
+      "source_sha256": "20cab909d7e37bf08f0ff4f40e552577695ec17a08bb26965baa335dc6d0b304",
+      "member_group": "Walkthrough"
     },
     {
       "id": "W04",
@@ -707,7 +933,8 @@
       "sources": "ALLOCATION, ALLOCATION_DECK, OWNER, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "bb1c75925fcf6f0ec4f36d1f0d386ed64d54a9a18bce091b71cc499876bffc62"
+      "source_sha256": "d699cc0cb622e0353e691a33aa5289121fc996c4156c71472a23246557e16b33",
+      "member_group": "Walkthrough"
     },
     {
       "id": "W05",
@@ -717,7 +944,8 @@
       "sources": "TAX, TAX_DECK, APP, PRIMARY",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "168ac0dfb865bdfb78ed6cc1f8cb1cffca99b11e045cd3e73c93edee5eda85d5"
+      "source_sha256": "962396faa1058a22ccbe1efc3d8e79600ee161eb72cda1ca4b4ba93831ce4861",
+      "member_group": "Walkthrough"
     },
     {
       "id": "W06",
@@ -727,7 +955,8 @@
       "sources": "RETIREMENT, RETIREMENT_DECK, APP, PRIMARY",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "bbc4c1a60823bf8e7ea466782cf85f22c451b66d78052c56da1b2ec79bb49c28"
+      "source_sha256": "2f329ee6f14019ed55f3615a8a2489ba8a53342b0b796a19c0d69004237b8c7b",
+      "member_group": "Walkthrough"
     },
     {
       "id": "W07",
@@ -737,7 +966,8 @@
       "sources": "CUSTODY, OWNER, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "1bbba20cdf041748d5c0c7f2c64e2d51b0a082695cc440ad512ee775c58281b3"
+      "source_sha256": "f0dff0663e98082645355773521c0934e1f678778e0598f5eac5fff4d1b35f4c",
+      "member_group": "Walkthrough"
     },
     {
       "id": "D07",
@@ -747,7 +977,8 @@
       "sources": "CUSTODY, PRIMARY",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "d6d3c952667f25383b19a9b8151a0c099f8a2bf257fcbf67c8263d1edbb28fa2"
+      "source_sha256": "d6d3c952667f25383b19a9b8151a0c099f8a2bf257fcbf67c8263d1edbb28fa2",
+      "member_group": "Walkthrough"
     },
     {
       "id": "W08",
@@ -757,7 +988,8 @@
       "sources": "ESTATE, CUSTODY, APP, PRIMARY",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "f1b7e597f5ca9c49ffc457bdf36d4210cbf341762cefce40deef35ba6afacc60"
+      "source_sha256": "961229c896398eb4885e2bcf23358c1b698b53df5e1f1ce8a4b3b7decf823e98",
+      "member_group": "Walkthrough"
     },
     {
       "id": "W09",
@@ -767,7 +999,8 @@
       "sources": "MAINTENANCE, MAINTENANCE_DECK, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "cbe54292fc178982b390841e6fd94673ebefa47a44ff600997f018c9eabe830c"
+      "source_sha256": "4d99217d05ff3b7532307af498bd38fe3beb4a3d6f962ae24703f23555082d98",
+      "member_group": "Walkthrough"
     },
     {
       "id": "W10",
@@ -777,7 +1010,8 @@
       "sources": "REVIEW, LANDING, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "a30efbbce4871c9f97971edc101c6c3629c568d52c5826ce7cb0f8f8d14c536e"
+      "source_sha256": "efb1df45f29aad96afe5c0a42e036e8ce57e7d71b1afd6370271d8c3d466f139",
+      "member_group": "Walkthrough"
     }
   ]
 }

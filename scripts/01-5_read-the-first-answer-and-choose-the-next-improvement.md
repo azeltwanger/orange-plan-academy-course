@@ -1,6 +1,6 @@
 # 1.5 — Read the first answer and choose the next improvement
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: starting-result transition, full simulations and freshness retain APP_CAPTURE.
 
@@ -38,9 +38,9 @@ Change one decision at a time so you can explain the difference. More saving use
 
 If the first answer is strong, don't invent problems to keep optimizing. Explain what supports it and identify the limitation that still matters. If it is weak, find the biggest fixable issue instead of jumping straight to higher Bitcoin returns.
 
-The first working plan is finished when you can explain your intended timing, what the current calculation says, the assumptions behind it, and the next important check. You don't need every later strategy finalized yet. You do need an honest starting point.
+Before moving on, explain what the plan says about your preferred date and which assumption or input needs the next check. The later strategies can wait until we have this starting picture right.
 
-Our next section verifies the spending and available money. That gives us something concrete to improve before choosing the Reserve, debt payments, and contributions. We are going to build on this picture—not replace it with a result we hope is true.
+Next we'll check the spending and money available each month. That gives us the amount we can use for the Reserve, debt payments, and new investments.
 
 ### Visual and source notes — not spoken
 

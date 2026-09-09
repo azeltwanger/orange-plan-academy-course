@@ -1,13 +1,16 @@
 # A5.2 — Prepare a harvesting transaction that matches the tax record
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: TAX_REVIEW
 Sources: TAX, PRIMARY, APP
-Use when: an actual taxable holding presents a gain- or loss-harvesting candidate.
+Use when: You intend to harvest a gain or loss through a specific sale.
+After lesson: 5.5
+Complete before: Complete before executing the harvesting transaction.
+Return to: W05 chapters 5–6, then lesson 6.1
 
 ### Read aloud
 
@@ -27,13 +30,13 @@ For a loss harvest, check the replacement exposure before placing the sale. Auto
 
 For a gain harvest, update the rest of the year's income. A conversion or business-income change can consume the same favorable room. Federal gain treatment alone doesn't establish the full state, healthcare or other income-sensitive cost.
 
-Then work through the operational sequence: reviewed proposal, necessary identification, external execution, confirmation, and reconciliation. If funds move between your own wallets beforehand, preserve their history rather than create a new purchase at the destination.
+Before the sale, complete the review and required identification. Afterward, keep the confirmation and reconcile the units, proceeds, and remaining holdings. If you first move coins between your own wallets, keep their purchase history attached; the transfer is not a new purchase.
 
 After the trade, match the actual units, time, proceeds, fees and selected history with the confirmation. Verify the remaining lots and current holding quantity. A tax report should explain the position left over, not just the realized result.
 
 Keep a small transaction packet with the source evidence and reason for the decision. It supports the professional review and reporting. An export labeled tax data is not a filed return, and it doesn't establish that every classification was correct.
 
-The outcome can be a verified proposed transaction or a decision to pass because the expected benefit isn't worth the cost or unresolved evidence. In either case, you have finished the evaluation instead of leaving an attractive but unexecutable row in the plan.
+Proceed only when the units, tax treatment, and instructions are supported. You may decide the benefit isn't worth the costs or remaining uncertainty. Record that decision rather than leave the trade waiting without a reason.
 
 ### Visual and source notes — not spoken
 

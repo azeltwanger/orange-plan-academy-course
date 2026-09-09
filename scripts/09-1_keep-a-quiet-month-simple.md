@@ -1,6 +1,6 @@
 # 9.1 — Keep a quiet month simple
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -32,13 +32,13 @@ Read the result's date and status after updating. Make sure it includes the chan
 
 Then choose the action, if one is needed. Fix an incomplete purchase instruction. Gather a missing statement. Recheck the affordability of an upcoming expense. Keep it specific and small enough to finish.
 
-You don't need to manufacture three tasks. One useful correction—or none—can be the right monthly outcome.
+Some months need one correction. Others need none.
 
 For loans or other time-sensitive obligations, follow their own monitoring schedule. A collateral issue cannot wait for the monthly review just because this is the usual household routine. The debt operating rules still apply.
 
-In the walkthrough, we'll complete an ordinary update, verify the records and result, and finish with the actual next action. We will also show the quiet-month case so the process doesn't teach unnecessary tinkering.
+Let's do an ordinary monthly review. Check the changes and whether they require an action. If everything is current and the plan still fits, you can stop.
 
-Keep the latest plan backup or supported export in its private place and date the update. Then stop. The thorough review comes once a year, when you revisit how the pieces fit together.
+Date the update and keep the latest plan backup privately. The annual review is when we'll revisit how all the decisions fit together.
 
 ### Visual and source notes — not spoken
 

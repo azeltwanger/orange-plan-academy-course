@@ -1,6 +1,6 @@
 # 3.6 — Write the rules before using leverage
 
-Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: Austin debt playbook, accepted Core operating-rule scope and Reserve liquidity judgment; original sources recorded in HANDOFF.md.
 App references: written rules do not establish alerts, automations, lender action times or actual saved execution.
 
@@ -58,13 +58,13 @@ Finally, write the conditions under which you would not proceed—or would reduc
 
 An essential bill without funding is one. So is an agreement you don't understand, a principal repayment that depends entirely on another unapproved loan, or a response that requires money you cannot access. A household member who shares the consequences but hasn't agreed to the risk is another reason to stop and talk.
 
-For Alex and Morgan, the current decisions still need to support the reserve and the high-rate card. Their source balance sheet has no Bitcoin-backed loan. We can compare a borrowing idea without turning it into a new obligation just to complete a lesson.
+For Alex and Morgan, the Reserve and high-rate card still need funding. They haven't taken out a Bitcoin-backed loan. We can compare borrowing without adding it to the plan they've chosen.
 
-Read your own proposed rules back in ordinary language. What is this loan for? Where do the payments come from? How does it end? What would make you act earlier, and what money or collateral would you use? Someone reading the plan should be able to find those answers without guessing what you intended.
+Read your instructions back. What is the loan for? Where do the payments come from? How does it end? What would make you act earlier, and which cash or collateral would you use? Someone helping you should be able to find those answers.
 
 Then bring the current debt decisions back to Cash Flow. Required payments have already been counted. The extra payments need to fit beside the reserve amount and the other commitments. Keep any proposed new loan separate until you deliberately choose it, and don't start using money that becomes available only after a future payoff.
 
-That is the handoff to Allocation. We know what the household needs to keep accessible and what extra debt payments are taking from the available money. Now we can decide what the remainder should buy—and how the next contribution changes once a debt is actually gone.
+Allocation starts with the money left after these decisions. We'll choose what it buys now and what changes when a debt is actually paid off.
 
 ### Visual notes — not spoken
 
@@ -73,6 +73,10 @@ Use the existing debt/financing worksheet rather than add a new member workbook.
 Use a response example with no invented LTV threshold: action point reached → named available resource → response time → remaining exposure/household cash. Show a limit on further collateral separately from the current LTV. Record actual contract numbers only when verified; no automatic app monitoring or safe default is implied.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For Alex and Morgan, the current decisions still need to support the reserve and the high-rate card. Their source balance sheet has no Bitcoin-backed loan. We can compare a borrowing idea without turning it into a new obligation just to complete a lesson.
 
 The debt playbook supplies purpose, repayment, top-up/repay/no-go rules, maturity, monitoring and concentration. The accepted Reserve judgment keeps essentials funded and does not assume more credit will be available after an income interruption. No new fixed debt, cash or collateral limit is selected for the Reeds or members. W03 chapters 5–6 complete the written decision and the same-money handoff.
 

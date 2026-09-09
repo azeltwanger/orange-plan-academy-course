@@ -1,6 +1,6 @@
-# 5.2 — Repair purchase history without inventing it
+# 5.2 — Rebuild the purchase records you need
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -44,15 +44,19 @@ Provider tax reporting is useful evidence, not proof every history detail is com
 
 Once one holding reconciles, preserve the supporting files and the explanation of any correction. Then move to the next relevant holding. This makes the task manageable and gives your tax professional a traceable record instead of a pile of disconnected downloads.
 
-In the walkthrough, we'll review one purchase-and-transfer chain, identify the difference between today's position and its history, and show the corrected result without adding the assets again. The exact import and editing steps depend on the approved build.
+Let's follow one purchase through a transfer and check that the records explain the Bitcoin still held. Adding the history should not add another copy of the asset.
 
-You are finished with this step when the history needed for the next decision is supported, or when you can name the precise missing evidence and who will help resolve it. You can keep planning from the known balances. You should not execute a tax-sensitive sale based on a basis you cannot substantiate.
+Keep the supporting records for the sale you're considering. If something is missing, identify the record and who can help find it. You can continue planning from the known balance, but don't rely on a tax estimate whose purchase cost you can't support.
 
 ### Visual and source notes — not spoken
 
 Tax deck Step 1 operational reconstruction, not a repeat of 1.2 inventory. Generic 0.1 BTC purchase/transfer has no fees only to isolate the mechanism; not a new Reed record. Ownership changes and actual fees need proper review. IRS Jan 28, 2026 digital-asset reporting reminder confirms some statements lack full basis; a report is not completeness proof. Capture must show evidence improving history without duplicating current quantity.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+In the walkthrough, we'll review one purchase-and-transfer chain, identify the difference between today's position and its history, and show the corrected result without adding the assets again. The exact import and editing steps depend on the approved build.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 

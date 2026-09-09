@@ -1,6 +1,6 @@
 # 7.2 — Prove recovery before meaningful money depends on it
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -36,17 +36,21 @@ Store backups so the failures you're concerned about don't take all copies at on
 
 After a successful test, record only the evidence that is safe to keep in the planning record: which setup was tested, the type of test, date, outcome, and what still needs checking. Don't record the recovery material itself.
 
-For the Reeds, “wallet recorded” and “recovery verified” remain separate statuses. Their fixture tells us what they hold. It doesn't establish that anyone restored a wallet or that Morgan can follow the process.
+Keep recovery status beside each holding. Having a wallet listed doesn't tell the family whether its backup has been checked.
 
-The working chapter should finish with an honest status. Either the relevant check was completed safely and its scope is clear, or there is a named next step before more money relies on the setup. Watching the demonstration is not recovery proof for your wallet.
+Record the check that actually succeeded and which wallet it covered. If you couldn't complete it safely, leave the reason and the next step. Watching someone else's recovery doesn't verify your own backup.
 
-That is the practical benefit of this lesson: you know what you would need after device loss and have a safe way to verify it, instead of discovering the missing piece when the device is already gone.
+You should know what you would need after losing the device and which part of that recovery still needs checking.
 
 ### Visual and source notes — not spoken
 
 Preserve D07 safepractice versusactualwallet distinction. Current officialTrezor guides on walletbackups, Checkbackup, passphrase and troubleshooting checked; exactdevice/format/firmware procedure is still a captureprecondition. Never genericwipe fundedwallet, sharesecrets, assumecheckprovesfullpassphrase/multisig,or claimpracticecertifiesdifferentfundedwallet. Metadataonlyproofandstopconditions retained. A validwordlist≠intendedwallet.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For the Reeds, “wallet recorded” and “recovery verified” remain separate statuses. Their fixture tells us what they hold. It doesn't establish that anyone restored a wallet or that Morgan can follow the process.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 

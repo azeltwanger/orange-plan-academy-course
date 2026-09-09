@@ -1,6 +1,6 @@
 # 5.3 — Find the years when your tax choices have the most room
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -38,11 +38,11 @@ A common trap is minimizing tax every year in isolation. A household can spend t
 
 That doesn't prove an earlier conversion is right. It tells us which comparison could be useful. We want to see whether paying some tax earlier improves after-tax resources or flexibility enough to justify its current cost.
 
-State taxes can change the timeline as well. A planned move may affect the cost of a future withdrawal or sale. The move also changes housing, work, family, healthcare, and legal residency questions. We will not treat editing a state in the app as establishing where a person is legally taxed. The Advanced state-move lesson handles that complete comparison when it applies.
+A planned move may change the tax on a future sale or withdrawal. It also changes housing, work, healthcare, and the legal residency question. If you're considering a move, use the state-move lesson to compare those effects together. Changing a state in the app doesn't establish where you're legally taxed.
 
-In the working chapter, mark the years of employment, the years when each benefit begins, and the later distribution years. Then pick one period worth testing and one transaction that might use it.
+Mark when employment ends, when each benefit begins, and when required distributions apply. Choose the period where a different withdrawal or conversion could help.
 
-You should finish with a concrete question, such as: “During these lower-income years, should we use some Traditional money instead of funding everything from taxable investments?” That is a question the model and your tax professional can help answer. “How do I pay less tax?” is too broad to guide the next decision.
+For example: "During these lower-income years, should we use some Traditional money instead of paying for everything from taxable investments?" That's the comparison we'll work through next.
 
 ### Visual and source notes — not spoken
 

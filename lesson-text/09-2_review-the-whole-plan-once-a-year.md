@@ -1,6 +1,6 @@
 # 9.2 — Review the whole plan once a year
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -36,7 +36,7 @@ After reviewing the areas, read the updated plan as one whole. Are the same doll
 
 Choose only the changes you intend to adopt. For each outside action, record who is responsible and when it will be done. Keep the previous dated version so you can explain what changed and why.
 
-An annual review can end with most decisions unchanged. Record that they were reviewed, the few actions that matter, and the next review date. That is a maintained plan, not an unfinished redesign.
+Record what you reviewed, the changes you chose, and the next review date. Most of the plan may stay the same.
 
 ### Visual and source notes — not spoken
 

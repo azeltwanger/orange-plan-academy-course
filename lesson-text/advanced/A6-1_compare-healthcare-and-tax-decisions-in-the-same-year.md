@@ -1,13 +1,16 @@
 # A6.1 — Compare healthcare and tax decisions in the same year
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: HEALTH_TAX_REVIEW
 Sources: RETIREMENT, TAX, PRIMARY, OWNER
-Use when: early-retirement income choices affect coverage assistance or Medicare premiums.
+Use when: A withdrawal, gain, or conversion could change the cost or eligibility of healthcare coverage.
+After lesson: 6.3
+Complete before: Complete before adopting the affected income and coverage plan.
+Return to: W06 chapter 3, then lesson 6.4
 
 ### Read aloud
 
@@ -23,7 +26,7 @@ Here is a separate illustration of the combined-cost calculation. Suppose a $10,
 
 Now suppose the same conversion increases the household's net coverage cost by $1,500 under the applicable program calculation. The immediate combined cost is $3,500, or 35% of the amount converted.
 
-Those are invented amounts, not an actual subsidy estimate or tax bracket. The point is to include both effects before deciding whether the conversion is attractive. A smaller conversion may avoid some of the additional cost. A larger one may still be worthwhile for another reason. We need the complete comparison to judge it.
+Those are hypothetical amounts to show the calculation, not a subsidy estimate or tax bracket. Compare the combined cost before deciding whether to convert. A smaller amount may change the result; a larger one needs a reason worth its added cost.
 
 For Marketplace coverage, verify the current year's eligibility and assistance rules, household size, coverage options and income estimate. Update the estimate when actual circumstances change and understand how advance assistance will be reconciled. Do not assume last year's rules continue unchanged.
 
@@ -37,7 +40,7 @@ Then follow the cash. Where will the additional tax and premium cost come from? 
 
 Use the app only for effects it actually calculates. A verified outside coverage calculation may need to sit beside the model result. Label it clearly rather than assume an unmodeled subsidy remained unchanged.
 
-Finish with one coordinated choice for the year: coverage, the considered withdrawal or conversion, its complete current cost, and the next enrollment or tax action. Obtain the relevant professional and provider confirmation before giving up coverage or executing a transaction that relies on the estimate. Return that same choice to the retirement plan so healthcare and taxes no longer describe two different income pictures.
+Choose the coverage and the withdrawal or conversion together, using their combined cost. Confirm the enrollment, eligibility, and tax details before giving up coverage or making the transaction. Enter the same income and costs in the retirement plan.
 
 ### Visual and source notes — not spoken
 

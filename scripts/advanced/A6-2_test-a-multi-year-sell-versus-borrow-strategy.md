@@ -1,13 +1,16 @@
 # A6.2 — Test a multi-year sell-versus-borrow strategy
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: TAX_LENDING_REVIEW
 Sources: RETIREMENT, DEBT, APP, PRIMARY
-Use when: recurring retirement borrowing is a serious alternative to asset sales.
+Use when: You are considering borrowing in more than one year to fund retirement spending.
+After lesson: 6.6
+Complete before: Complete before relying on recurring borrowing, not after the first loan.
+Return to: W06 chapter 6, then lesson 6.7
 
 ### Read aloud
 
@@ -37,15 +40,19 @@ Estate assumptions deserve particular care. Debt does not disappear because the 
 
 Provider failure and interrupted access may not be represented in the simulation. Record those limits separately. A favorable chance-of-success output is not a probability that a lender will remain solvent or honor a hoped-for extension.
 
-For the Reeds, this remains a comparison unless a borrowing policy is deliberately adopted. Their source does not contain a Bitcoin-backed loan. A modeled policy and an executed loan record are not the same thing.
+Keep a borrowing proposal separate until you choose it. Alex and Morgan do not already have a Bitcoin-backed loan, so we are testing a possible strategy rather than reading an existing obligation.
 
-Finish with the preferred funding policy, its debt and collateral path, its exit, and the conditions that would make you stop adding debt. Declining recurring borrowing is a complete result. The point is to know whether the household can carry the policy, not whether one year's sale was avoided.
+Choose the funding approach after reading the debt, collateral, and repayment path. Write down when you would stop adding debt or reduce it. You may decide recurring borrowing asks more of the household than you are willing to carry.
 
 ### Visual and source notes — not spoken
 
 Existing recurring-retirement-borrowing scope. New generic beginning-of-year loans of $20,000 with end-of-year simple 10% capitalization: year 1 $22,000; year 2 ($22,000+$20,000)*1.10=$46,200; total spending $40,000 and interest $6,200. This is not a lender rate quote, actual accrual method or adopted Reed loan. Preserve supported D63 behavior, contract risks, same net spending and after-tax comparison; no estate-tax guarantee.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For the Reeds, this remains a comparison unless a borrowing policy is deliberately adopted. Their source does not contain a Bitcoin-backed loan. A modeled policy and an executed loan record are not the same thing.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 

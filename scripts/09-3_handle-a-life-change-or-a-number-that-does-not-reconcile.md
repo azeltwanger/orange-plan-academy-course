@@ -1,6 +1,6 @@
 # 9.3 — Handle a life change or a number that does not reconcile
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -34,9 +34,9 @@ Don't make several compensating edits to recover a preferred percentage. That ca
 
 If the issue affects a time-sensitive bill, loan threshold or tax deadline, address that practical obligation through the proper channel while the planning discrepancy is being resolved. An app investigation doesn't extend a contract or filing deadline.
 
-The final check is whether the facts, adopted strategy, future events and outside instructions now agree. If they don't, keep the unresolved item visible and avoid executing a decision that depends on it.
+Check that the accounts, spending, future events, and contribution instructions now agree. Keep any remaining issue visible, and don't take an action that depends on an unresolved answer.
 
-This is how the plan stays trustworthy: not by never changing, but by making each change understandable. Next we'll read the completed plan in the order that matters to the household and explain it without needing to narrate every screen.
+Next we'll read the plan as a whole and explain the decisions without walking through every screen.
 
 ### Visual and source notes — not spoken
 

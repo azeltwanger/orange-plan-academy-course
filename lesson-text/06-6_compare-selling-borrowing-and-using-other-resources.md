@@ -1,6 +1,6 @@
 # 6.6 — Compare selling, borrowing, and using other resources
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -12,7 +12,7 @@ Sources: RETIREMENT, DEBT, BRAIN, OWNER, APP, PRIMARY
 
 When you need spending money, you may prefer not to sell Bitcoin. That preference gives us a comparison to make—not a source of cash by itself.
 
-The bill still needs a payer. It might be covered by income, existing cash, another investment sale, a Bitcoin sale, or borrowing. Let's compare what each leaves behind.
+Start with the bill and the money available: income, cash, another investment, a Bitcoin sale, or borrowing. We'll compare what each costs and what it leaves behind.
 
 Start with the same spending need and the same date. A sale needs to provide the cash after its tax and fees. Borrowing needs to provide the same usable amount after loan costs. Comparing gross sale proceeds with net borrowed cash would not be an equal starting point.
 
@@ -38,17 +38,21 @@ Sometimes the best comparison is spending less or postponing a discretionary exp
 
 Tax timing matters, but avoiding a sale today does not guarantee avoiding it forever. A later sale to repay the loan, lender liquidation, or a change in the agreement can have consequences. Include the intended exit instead of ending the comparison while debt is still outstanding.
 
-For Alex and Morgan, new borrowing remains a scenario unless deliberately chosen. The existing source does not contain a Bitcoin-backed loan. We won't create one just to make the course demonstrate a strategy.
+Alex and Morgan haven't taken out a Bitcoin-backed loan. We'll compare borrowing separately from the plan they're currently following.
 
-In the working chapter, compare the same net spending across sale, another available source, and a relevant borrowing option. Read the first year, a weak period, and the exit. Keep contract features the app cannot represent in the separately reviewed analysis.
+Compare the same after-tax spending amount through a sale, another available source, and a loan you're considering. Look at the first year, a weak period, and repayment. Analyze any contract terms the app cannot represent separately.
 
-The result should be a rule you can explain: when a sale is acceptable, when another source is preferable, and what would have to be true before borrowing is considered. Preserving Bitcoin is one objective. Keeping the retirement plan workable is the reason for the comparison.
+Choose when you would sell, use another account, or consider borrowing. If you intend to borrow repeatedly for retirement spending, complete the multi-year borrowing lesson before relying on that strategy. It follows the debt from one year's spending into the next.
 
 ### Visual and source notes — not spoken
 
 Retirement sell/borrow/hold framework applies priorDebt mechanics to netspendingandmulti-year exit. Newillustrative20kloan10%simpleone-year=>2kinterest or22kdebt;notratequote/newReeddebt. Preserve repayment/top-up/concentration/contract/pricepathchecks and sameaftertaxneed. No never-sell promise or totalnetworth hiding lender-specific liquidation. Appunsupportedcontracts remainseparate reviewedanalysis.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For Alex and Morgan, new borrowing remains a scenario unless deliberately chosen. The existing source does not contain a Bitcoin-backed loan. We won't create one just to make the course demonstrate a strategy.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 

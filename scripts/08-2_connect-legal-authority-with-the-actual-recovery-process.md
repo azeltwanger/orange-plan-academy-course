@@ -1,6 +1,6 @@
 # 8.2 — Connect legal authority with the actual recovery process
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -38,7 +38,7 @@ When the answer is unclear, fix that connection. Perhaps the provider hasn't con
 
 A family that expects to sell Bitcoin still needs this process. The goal is an orderly, authorized decision, not convincing a grieving spouse to preserve your exact portfolio. Build instructions that remain useful when the heir's preferences differ.
 
-You finish when the authority, access route, support contact and immediate cash needs connect for the assets that matter. The next lesson puts those first actions into a letter and packet the family can actually use.
+For each important asset, identify who is authorized, how they begin, and whom they can ask for help. Check how the family pays immediate bills while a longer process is underway. Then we'll put those first steps into the letter and packet.
 
 ### Visual and source notes — not spoken
 

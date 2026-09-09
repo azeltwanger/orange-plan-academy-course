@@ -1,6 +1,6 @@
-# 8.3 — Write and test the first instructions your family will receive
+# 8.3 — Write your family's first instructions
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -34,19 +34,23 @@ Now test delivery, not just wording. Can the intended person find the letter whe
 
 Any check-in or delayed-notification service is only an additional communication layer. It needs consent, reliable contact details, a false-alarm process and a test of what is actually delivered. It doesn't replace legal authority or safe custody, and it should not automatically distribute secrets.
 
-For a rehearsal, use a harmless test message and an authorized recipient. Do not stage a real death notice or send sensitive instructions to someone without agreement. If the app has not demonstrated that delivery feature, keep it as an outside task rather than pretend the test occurred.
+Agree on a harmless test message with the recipient before trying a notification service. Check that it arrives and that they can open it. Never use a false emergency or send recovery secrets as part of the test.
 
 Read the first page with the person who would use it. Ask them to describe the first action back to you. Then ask what they would do if the primary contact didn't answer. Their hesitation tells you where the explanation is missing.
 
-Fix the missing step before adding more pages. The useful outcome is a findable starting point and an understandable path to help.
+Fix the step they couldn't follow, then try it again.
 
-For this section's working chapter, prepare the letter and packet, connect them to the existing custody map, and complete the no-secrets rehearsal. Record what was understood and which outside legal or provider action is still needed. The family should know where to begin without being handed unrestricted access to everything.
+Complete your Heir Letter and Executor Packet and connect them to the custody map. Read the first steps with the intended person. Keep any legal or provider question on the action list until it's answered.
 
 ### Visual and source notes — not spoken
 
 Existing HeirLetter/ExecutorPacket examplesandnonssecret deliverystructure. Quoted paragraph is NEW illustrativeletterlanguage forlegal/familyadaptation,notlegaladviceorapprovedReedprocess. No privateclientfacts. Delivery/check-in remainsoptionalproof-requiredactualcapability;harmlessconsentedtestonly;nosecretsorfalseemergencysent.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For a rehearsal, use a harmless test message and an authorized recipient. Do not stage a real death notice or send sensitive instructions to someone without agreement. If the app has not demonstrated that delivery feature, keep it as an outside task rather than pretend the test occurred.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 

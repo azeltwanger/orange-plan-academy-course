@@ -24,8 +24,8 @@ Assumption sensitivity deserves a separate comparison. Hold the household choice
 
 You also don't have to optimize to 100%. That can mean giving up spending or working longer for a margin the household may not choose. The appropriate confidence target is a preference to test alongside flexibility and consequences, not a universal promise of safety.
 
-For the Reeds, use the verified saved example and its actual result. Compare one relevant change, read the same date and input identity, and explain what improved and what was given up. The source fixture does not supply a success rate we need to reproduce.
+Let's change one decision in the example plan. Check that the comparison uses the same starting facts and includes the change, then explain what improved and what the household gave up.
 
-At the end, choose the plan or comparison you prefer and record why. A clear reason could be, “This version supports the spending we value while leaving these practical adjustments available.” Or the result may show a specific gap that needs work before retirement.
+Choose the version you would actually follow and write down why. If it still falls short, name what needs to change before retirement.
 
-The next lesson turns the chosen approach into an annual spending review. That's how the plan stays useful when the actual path differs from the one you originally expected.
+Next we'll turn that choice into a review of what to spend each year.

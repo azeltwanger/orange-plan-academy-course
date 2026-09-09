@@ -1,6 +1,6 @@
-# 5.5 — Turn tax opportunities into an execution checklist
+# 5.5 — Choose this year's tax actions
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -28,7 +28,7 @@ A replacement also raises a legal question. Stock and securities wash-sale rules
 
 So decide the intended exposure and verify the actual replacement before executing. A software button labeled tax-loss harvesting doesn't establish that the transaction qualifies.
 
-Identification is another step to complete in time. Which units are being sold, where are they held, and what documentation makes that selection valid for the transaction date? Broker and unhosted-wallet rules can differ, and temporary relief can change by year. The Advanced lesson goes through a transaction packet when you need it.
+Identification is another step to complete in time. Which units are being sold, where are they held, and what documentation makes that selection valid for the transaction date? Broker and unhosted-wallet rules can differ, and temporary relief can change by year. The harvesting-transaction lesson takes you through the records and instructions before a sale.
 
 Now combine the proposed action with the rest of the year. A conversion, realized gain, bonus, business-income change, or required distribution can use the same income room. Don't review each one as though the others aren't happening.
 
@@ -36,13 +36,13 @@ Prepare one working estimate of the year's income, realized gains and losses, ve
 
 For a conversion, include the source of the additional tax payment. Withholding and estimated payments affect cash flow and the amount still due; they don't reduce the underlying tax simply because more was paid early. For a large taxable sale, include the basis evidence and how much spendable cash the sale needs to provide.
 
-Choose one or two actions worth pursuing now, with their prerequisites and deadlines. The rest can wait when a later year or better information is more useful. Declining a small tax opportunity that creates disproportionate complexity is a decision, not unfinished homework.
+Choose the actions worth taking this year and note what must be checked before each deadline. Leave a small opportunity alone when the added work or cost outweighs the benefit.
 
 After a transaction, reconcile what actually happened. Keep the confirmation, units, proceeds, fees, identification evidence and remaining lots. Compare the reporting with the filed return and resolve differences. A tax-data export supports the process; it is not the filed return or proof that every input was correct.
 
 Your final tax handoff should sound like this: “Here is the proposed transaction, the evidence for its basis, the rest of the income expected this year, and the source of any tax payment. Here is the specific issue we need confirmed before acting.”
 
-That is a usable next step. You haven't delegated an unexplained decision to a checklist; you understand the purpose and the trade-off. Next, Retirement Income puts the available sources together into the money that will pay the bills.
+Before making a harvesting trade, use the transaction lesson to prepare the identification and replacement checks. Otherwise, continue to Retirement Income, where we'll put the spending sources together.
 
 ### Visual and source notes — not spoken
 

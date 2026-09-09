@@ -1,6 +1,6 @@
 # 4.6 — Choose Traditional, Roth, or a deliberate mix
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: actual tax elections and household cash-flow effects require verified inputs; no Reed election is inferred from an account label.
 
@@ -32,13 +32,13 @@ That tells us what matters in the simple comparison: the tax benefit on today's 
 
 Your real life isn't one constant bracket. You may contribute during high-income working years and withdraw during a lower-income period. Or future pensions, Social Security, business income and required distributions may leave you facing substantial taxable income later. Those changes are why we use the timeline rather than assume retirement always means lower tax.
 
-Look at the tax affecting the dollars being contributed or withdrawn, not only an average tax rate across the whole return. Other income, deductions, credits and healthcare effects can change the cost of the next dollar. A professional-reviewed calculation may differ from the bracket you recognize by name.
+Look at the tax on the dollars you're contributing or withdrawing, rather than the average across your whole return. Other income, deductions, credits, and healthcare effects can change that cost. Check the full calculation with your tax professional.
 
 Roth also provides flexibility when qualified withdrawals do not add taxable income. That may help when another income-sensitive decision matters. Traditional may let you keep more current cash available or invest a larger amount for the same take-home cost. Compare those jobs, not just the final account balances.
 
 A mix can be deliberate. You may want some tax benefit today and some money with qualified Roth treatment later. There isn't a rule that every contribution has to use the same election forever.
 
-Check what happens to the current budget when changing the election. Alex's example contribution is $775 a month. The fixture doesn't establish its payroll tax election. If a switch to Roth leaves less take-home pay while the nominal contribution remains $775, that difference needs to come from somewhere. The Reserve and card instructions cannot silently spend money that no longer reaches the household.
+Check the paycheck as well. Suppose Alex keeps contributing $775 a month but changes a deductible Traditional contribution to Roth. He may take home less, even though the same amount reaches the retirement account. That difference needs to come from somewhere. This is a comparison, not a statement about his current election.
 
 You could compare equal contribution amounts, but show the different current cost. Or compare equal household cost, with different amounts entering the accounts. Either can answer a useful question. Don't call them the same comparison.
 
@@ -48,13 +48,17 @@ This lesson is about new contributions. Moving an existing Traditional balance i
 
 For the next contribution, choose the election or mix that fits the current cost and intended later use. Then test its effect on the rest of the cash flow. Write down the reason and the life or tax change that would make you review it.
 
-A tax decision is useful when you can explain both the benefit and what pays for it. Once that is clear, we can finish what the money actually buys.
+Check that the remaining cash still covers the Reserve and debt payments. Then we can finish what the contribution buys.
 
 ### Visual and source notes — not spoken
 
 Deck Step 8 and existing same-economic-budget example. Preserve qualified Roth and assumed deductible Traditional conditions. Exact arithmetic: 1000T versus800R, both double; T after20%=1600,after30%=1400,after10%=1800. Growth alone does not establish superiority. Reconcile payroll cash impact before carrying Reserve/debt amounts forward. Contributions, conversions, IRA and workplace distribution rules stay distinct.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+Check what happens to the current budget when changing the election. Alex's example contribution is $775 a month. The fixture doesn't establish its payroll tax election. If a switch to Roth leaves less take-home pay while the nominal contribution remains $775, that difference needs to come from somewhere. The Reserve and card instructions cannot silently spend money that no longer reaches the household.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 

@@ -1,13 +1,16 @@
-# A6.3 — Verify an early-retirement account-access route
+# A6.3 — Check access to retirement accounts before 59½
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: TAX_REVIEW
 Sources: RETIREMENT, TAX, PRIMARY
-Use when: taxable assets alone do not cover early years or a special access rule may improve the plan.
+Use when: Your plan relies on using retirement-account money before 59½.
+After lesson: 6.2
+Complete before: Complete before counting on the access route or making a rollover that could change it.
+Return to: W06 chapter 2, then lesson 6.3
 
 ### Read aloud
 
@@ -39,7 +42,7 @@ For Alex and Morgan, review each spouse separately. Alex's age doesn't unlock Mo
 
 Finish a short access record: account, person, expected amount and date, tax treatment, exception relied on, supporting evidence, and actions that could invalidate the plan. Have the relevant tax professional and provider verify it before the rollover or withdrawal.
 
-The solution isn't knowing that early-access rules exist. It is having a route that applies to the actual money and remains workable after you begin using it.
+Confirm that the access route applies to this account, this person, and these dates before relying on the withdrawal. Then return to the retirement timeline and check the years it funds.
 
 ### Visual and source notes — not spoken
 

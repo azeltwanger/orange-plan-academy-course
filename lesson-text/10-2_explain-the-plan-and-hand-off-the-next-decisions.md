@@ -1,6 +1,6 @@
-# 10.2 — Explain the plan and hand off the next decisions
+# 10.2 — Explain your plan and set the next actions
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -34,9 +34,9 @@ Keep future actions tied to their condition. “Redirect this payment after payo
 
 Set the next monthly and annual reviews, with any urgent loan or other monitoring handled separately. You don't have to keep watching the course to keep the plan alive. Use the relevant section again when that decision changes.
 
-The finish line is not certainty about markets. It is an understandable plan, practical instructions, and a way to respond when reality differs from the original assumptions. You should know what is settled, what still needs help, and where to begin tomorrow.
+Before putting the plan away, make sure you know which decisions are settled, what still needs help, and the first action you'll take.
 
-That is the value of putting the decisions together. Instead of asking whether every spare dollar should go into Bitcoin, you can ask which choice best supports the life you are building—and use the plan to compare it.
+When a new question comes up—whether to spend, save more, pay down debt, or change work—you now have a plan to test it against.
 
 ### Visual and source notes — not spoken
 

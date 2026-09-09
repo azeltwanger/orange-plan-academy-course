@@ -1,25 +1,21 @@
-# Course status — complete written draft; approval and capture remain separate
+# Course status — one main path, written drafts under review
 
-## Written deliverable
+The approved structure is one complete main path with For your situation lessons beside the relevant decision. The extra work is required when the member’s chosen strategy depends on it, not because the member identifies as advanced. Each placement includes when to use it, what must be completed before relying on it, and where to return.
 
-All 51 Core clips, 15 conditional Advanced clips, ten app working sessions and the device demonstration have complete written teaching or paired narration for review. This pass finishes the requested problem → explanation → example → solution treatment across the existing course rather than leaving later sections under an indefinite repair promise.
+There are 65 active teaching lessons: 50 shared-path lessons, the conditional college lesson, and 14 other situational lessons. A7.2 is merged into 7.1, 7.4 and W07. Ten app working sessions and the device demonstration remain. The internal identifiers and surviving file paths are stable.
 
-40 Core and all 15 Advanced scripts are full replacements. Nine previously repaired Core explanations are retained after continuity review; 3.3 is shortened where it repeats the Reserve explanation. Accepted 2.3 is byte-identical. Nine practical files are replaced with one chapter sequence each; the already-detailed W02 and W03 are byte-identical. Generated reading copies are rebuilt from those canonical sources.
+## This editorial pass
 
-The new Allocation lesson explains the whole portfolio, including the non-Bitcoin holdings, instead of offering another drawdown-tolerance lecture. The separate examples show where amounts come from and why a choice changes. Tax now completes an opportunity-cost comparison; Retirement uses first-result literacy instead of redefining simulations. Protection, family documents and maintenance finish actual actions without inventing their completion.
+The 64 surviving teaching scripts other than the accepted Reserve receive individually selected paragraph edits. The explanations, mathematical examples, account distinctions and trade-offs are retained; this is not another full rewrite or a uniform shortening exercise. Production commentary is moved to production notes instead of being read to members. Useful responsibility assignment and rehearsal work from A7.2 is integrated, not discarded.
 
-## What has not been established
+The Reserve script, W02 including its accepted Reserve block, and the exact safe D07 run sheet are unchanged. Other walkthrough changes tighten selected speech, route applicable extra lessons before the relevant decisions, and integrate the custody-responsibility exercise into W07. Non-spoken safety and verification requirements remain.
 
-**Austin approval:** The Reserve is the accepted reference. New or retained integrated wording still needs the owner's voice/judgment review. A complete draft is not evidence that Austin already dictated or approved every line.
+## Still needs evidence
 
-**App and device evidence:** Final navigation, field semantics, actual model outputs, source coverage, save/reload, Ask, reports/exports, family communication and device procedures require the approved build and real capture receipts. The fixed household is not a calibrated saved engine result. Complete its separately reviewed capture extension; never invent results to satisfy a script.
+Austin has not approved every new line. Read the section and paired walkthrough together and correct the specific voice or judgment issue in the canonical script. No word count, automated check or new navigation establishes learner comprehension.
 
-**Professional review:** Tax, account access, healthcare, lending, insurance and legal/estate execution require the relevant current and transaction-specific checks. Primary-source mechanism research in this editorial pass is not personalized advice or professional sign-off.
+Actual approved-build inputs, calculations, account/source behavior, Ask, exports, save/reload and communication features remain recording prerequisites. Device demonstrations require the exact current procedure, a safe authorized test and actual scoped evidence. The fixed fictional household is not an already-calibrated engine result.
 
-**Learner evidence:** No cold-member completion, listener rehearsal, wallet recovery or full paid program pilot is claimed merely because the instructions exist. Test whether a member can explain and complete the decisions without the author filling every gap. Annual-price and renewal value are not validated by word counts or software tests.
+Professional tax, access, lending, coverage, insurance and estate review remains separate. This pass edits the supplied course; it does not introduce a new financial research conclusion, current rate, tax rule or product recommendation. The retirement video remains a voice/structure reference only.
 
-**Production:** Visual directions are prepared; finished graphics, edited video, course-platform publication and actual support operations are not certified. Screen footage can be completed separately without reopening every durable explanation, unless product semantics materially change.
-
-## Repository boundary
-
-Main contains review material under the owner's request to read the current scripts. No app repository, hosted account, runtime flag, provider, wallet, financial operation, legal filing, commercial term, Production deployment or student release is changed. Original sources, the fixture, toolkit, capture receipts and historical cleanup remain preserved. Exact run/head/merge evidence is posted after verification in the implementation PR.
+The main-path structure is applied to repository reading and playback instructions, not a live course-platform configuration. Student release, pricing, service operations and renewal value are not validated or changed. Original sources, fixture, toolkit and capture records are preserved. The inventory test is updated specifically for the authorized A7.2 merge and checks its exact source and destinations; other member tests are unchanged. Exact implementation and verification evidence belongs in the PR handoff.

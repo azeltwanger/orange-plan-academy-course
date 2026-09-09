@@ -1,6 +1,6 @@
-# 4.7 — Tell each account what to buy and finish the outside actions
+# 4.7 — Set up contributions and investment purchases
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: actual investment elections, comparison/saving and outside execution remain distinct.
 
@@ -40,7 +40,7 @@ That split is a teaching comparison, not a recommendation or a transfer already 
 
 A contribution mix may also differ from the portfolio target. You might direct more of the next dollar toward an underweight holding. Prices and the total portfolio change along the way, so don't promise an exact date to reach the target by dividing today's gap by a fixed monthly contribution.
 
-Now finish the instructions. For each contribution, identify the amount, source, start condition, receiving account, tax election where relevant, and investment it should buy. A broad asset category is a planning choice; a verified fund or security is an executable instruction. Don't pretend a category label supplies the product details.
+For each contribution, write the amount, where it comes from, when it starts, the receiving account, and what it buys. Include the tax election where it applies. If you chose a category such as stocks, you still need to select and check the actual investment before arranging the purchase.
 
 Check what the selected product owns, how it is managed, its costs, and any material overlap with other holdings. A spot Bitcoin fund is not a leveraged fund, a covered-call strategy, or shares in a Bitcoin-related company. A stock allocation isn't automatically a concentrated technology bet.
 
@@ -48,9 +48,9 @@ For payroll, confirm both the contribution election and the investments purchase
 
 Then verify the first result with the provider. Did the right amount arrive? Did it buy what you intended? Money left in cash might be correct for a spending job, or it might show an unfinished purchase instruction. Read it in context.
 
-To finish Allocation, follow every proposed current contribution through that chain. Keep future contributions tied to their real start conditions. Record which existing holdings stay, which change, and why. The whole portfolio should now be understandable—not just its Bitcoin percentage.
+Check each contribution from the source account through to the purchase. Keep future transfers tied to their start dates or conditions, and record which existing holdings you're keeping or changing.
 
-The Tax section takes up any sale or conversion whose cost needs more work. An unresolved basis question belongs there; it doesn't justify inventing a purchase record to finish a trade.
+Next is Tax. Before making a sale, we'll check the purchase history and compare what you would owe.
 
 ### Visual and source notes — not spoken
 

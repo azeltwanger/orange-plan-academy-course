@@ -1,6 +1,6 @@
 # 4.1 — Understand the portfolio you already own
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: use the approved redesign for actual views, included assets and save behavior.
 
@@ -38,11 +38,11 @@ Finally, check what current contributions buy. The place money goes and the inve
 
 For this review, identify the mismatch that matters most. Is cash waiting with no near-term purpose? Is an approaching expense relying on an investment you don't want to sell? Is your workplace account buying something you no longer intend to own?
 
-No mismatch is a valid finding too. Reviewing a portfolio doesn't require a trade.
+You may find that the holdings already fit. Keep them; this review doesn't require a trade.
 
-By the end of this section, you should be able to explain the entire mix: the Bitcoin position, the other investments, the cash, and how they support your life. We will take the decisions in order. First establish Bitcoin's intended role. Then choose what the remaining money needs to provide, decide the amounts, and work through accounts and contribution instructions.
+We'll build the whole mix from here: Bitcoin, the other investments, and the cash needed for spending. Then we'll decide where contributions go and what they buy.
 
-In this first working chapter, read the current holdings and identify one question to resolve. Keep that question beside the portfolio as we build the target.
+Look through your current holdings and write down the question you most need to answer about them.
 
 ### Visual and source notes — not spoken
 

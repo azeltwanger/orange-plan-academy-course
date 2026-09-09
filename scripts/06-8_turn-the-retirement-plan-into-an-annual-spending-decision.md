@@ -1,6 +1,6 @@
-# 6.8 — Turn the retirement plan into an annual spending decision
+# 6.8 — Decide what to spend next year
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -34,11 +34,11 @@ Connect the spending choice with the Reserve refill. A weak year may support spe
 
 Some events require attention before the annual review. An income loss, a large medical expense, a family change, or a loan nearing a contractual threshold can need a response now. A yearly rhythm is not a reason to postpone a time-sensitive obligation.
 
-For the annual working chapter, start with Current, read the policy status, compare next year's amount, and follow the resulting income and withdrawals. Then decide whether to adopt it. Keep the comparison separate until the household chooses it.
+Start with the current plan and compare next year's spending. Check what it requires from income and investments before saving the amount you choose.
 
-Finish the retirement section with a short operating explanation: what you're planning to spend, which income arrives, which accounts supply the gap, how the Reserve is used and refilled, any borrowing rules, and the next review date.
+Write down next year's spending, the income you expect, the accounts covering the gap, and the Reserve refill. Add any borrowing instructions and the next review date.
 
-Someone should be able to use that explanation to answer how next year's bills get paid. That is the point of the system. It gives you a way to respond to changes without needing a new retirement philosophy every time the market moves.
+Read it back as the answer to one question: how will we pay next year's bills?
 
 ### Visual and source notes — not spoken
 

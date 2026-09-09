@@ -24,6 +24,6 @@ Estate assumptions deserve particular care. Debt does not disappear because the 
 
 Provider failure and interrupted access may not be represented in the simulation. Record those limits separately. A favorable chance-of-success output is not a probability that a lender will remain solvent or honor a hoped-for extension.
 
-For the Reeds, this remains a comparison unless a borrowing policy is deliberately adopted. Their source does not contain a Bitcoin-backed loan. A modeled policy and an executed loan record are not the same thing.
+Keep a borrowing proposal separate until you choose it. Alex and Morgan do not already have a Bitcoin-backed loan, so we are testing a possible strategy rather than reading an existing obligation.
 
-Finish with the preferred funding policy, its debt and collateral path, its exit, and the conditions that would make you stop adding debt. Declining recurring borrowing is a complete result. The point is to know whether the household can carry the policy, not whether one year's sale was avoided.
+Choose the funding approach after reading the debt, collateral, and repayment path. Write down when you would stop adding debt or reduce it. You may decide recurring borrowing asks more of the household than you are willing to carry.

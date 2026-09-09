@@ -1,6 +1,6 @@
 # 1.4 — Choose assumptions you can explain
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: model choices and exact preset paths require final build verification; no current preset rate is asserted.
 
@@ -40,7 +40,7 @@ If the plan is short in the early years under slower growth, that points to a re
 
 A more optimistic comparison can be useful too. Strong growth may change future tax or account decisions. The point isn't to choose whichever result feels best; it's to understand which decision depends on which assumption.
 
-Finally, check that the model treats the actual investments appropriately. A Bitcoin fund, a company that owns Bitcoin, and a leveraged product are not interchangeable. A return override should not make a company's debt or a fund's structure disappear. The advanced lesson handles that when it applies.
+Check how the model treats the investments you own. A Bitcoin fund, a company that owns Bitcoin, and a leveraged product can behave differently. If you're changing assumptions for a particular holding, use the lesson on testing assumptions before relying on that result.
 
 Before continuing, be able to say what growth path, inflation basis, and horizon your starting plan uses—and why. Keep one less-favorable comparison beside it. Now the first result will mean something: it answers a question under assumptions you deliberately chose.
 

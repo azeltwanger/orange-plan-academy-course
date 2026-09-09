@@ -1,6 +1,6 @@
 # 1.2 — Add accounts and show what each one owns
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: D54/D65 concepts; entry, source coverage and history behavior retain APP_CAPTURE.
 
@@ -38,11 +38,11 @@ A transfer needs the same care. Buying Bitcoin on an exchange and moving it to y
 
 Collect the old exchange and brokerage records you already have, but don't make this lesson an attempt to repair your entire tax history. Tax will give that work its own sequence. For a Roth account, you don't have to reconstruct every internal trade just to identify today's holdings. Contribution, conversion, and distribution records have separate jobs when access or tax treatment matters.
 
-Before leaving an account, check three things. Does the total agree with its source? Do the investments explain that total? Are the owner and account type right?
+Before leaving an account, compare its balance with the statement. Do the investments add up to that balance? Are the owner and account type right?
 
-Where the answer is no, name the specific missing detail. “Find the holdings statement for this account” is a task you can complete. “Fix all my financial data” isn't much of a starting point.
+If something is missing, write down the record you need—for example, the latest holdings statement for this account.
 
-The walkthrough will show a cash account, an investment account, and direct Bitcoin, including the incomplete-information case. Use your own statements alongside it. The finish is an honest current inventory. Choosing what you should own next comes in Allocation.
+Have your statements ready. We'll enter a cash account, an investment account, and direct Bitcoin, and work through what to do when some information is missing. We're recording what you own now. Allocation will help you decide what to change.
 
 Wallet recovery words and account credentials are not part of that inventory. Keep them out of the app, the notes, and anything you share for help.
 

@@ -8,6 +8,12 @@ Kind: capture
 Gate: APP_CAPTURE
 Sources: CUSTODY, OWNER, APP
 
+### For your situation — recording route, not spoken
+
+- After 7.1, [A7.1](../advanced/A7-1_compare-passphrase-multisig-and-professional-support.md): You are choosing or changing a passphrase, multisig, or professionally supported custody arrangement. Complete before moving meaningful funds into the new arrangement. Return to W07 chapter 1, then lesson 7.2 and its safe recovery work.
+- After 7.4, [A7.3](../advanced/A7-3_test-correlated-failures-across-providers-and-methods.md): Several providers, wallets, people, or recovery routes may share a failure that affects important holdings. Complete before treating those holdings as independent protection. Return to W07 chapter 4, then lesson 8.1.
+- After 7.2, [A7.4](../advanced/A7-4_understand-utxos-before-consolidating-coins.md): You are considering consolidating Bitcoin outputs or selecting outputs manually for a transaction. Complete before that wallet transaction; it is not a requirement to consolidate. Return to Finish the relevant safe wallet work, then lesson 7.3.
+
 ### Run sheet
 
 Use existing member deliverables and the unchanged fictional account inventory. Protect records non-secret facts and status, not recovery keys or an untested assurance. Architecture decisions, actual tests and user competence must be evidenced separately.
@@ -24,7 +30,13 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Verify before recording:** Verify actual supported Protect fields and current owner/account facts. No invented provider rights, insurance, wealth-tier recommendation or independent recovery claim. Dedicated account and fund rules remain distinct.
 
-**Member finish:** An intentional direction for every meaningful holding and a specific first protection action.
+**Responsibility check — show and discuss:** Use the existing custody map to assign the ordinary tasks and a backup: address verification, secure sign-in and recovery access, appropriate device/software updates, provider changes and current family instructions. Ask who is willing to do each task and where suitable help is needed. Practice technical steps only on the separately reviewed safe setup; do not risk funded holdings.
+
+**Narration:**
+
+“Who will keep each part working, and who can help when that person is unavailable? Ask them before assigning the role. If an ordinary task is too difficult to repeat reliably, simplify it, practice it safely, or arrange suitable help.”
+
+**Member finish:** An intentional arrangement, agreed operating responsibilities and backups, and the first protection action.
 
 #### Chapter 2 — Record actual recovery evidence
 
@@ -60,7 +72,9 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Verify before recording:** Verify actual read/export/restore scope separately. No exact secret storage, complete signing route or fabricated listener outcome. Qualified legal authority and operational help remain separate.
 
-**Member finish:** A usable dated map and truthful protection status with the relevant family starting process.
+**Rehearsal detail — not spoken:** Fold the former A7.2 operator-absent exercise into this existing chapter. Let a consented helper attempt the non-secret first steps without coaching each response; verify the primary and backup contacts have agreed, record any missing instruction, correct it and repeat the affected step. No actual transfer, credential guessing, impersonation or legal authority is inferred from the exercise.
+
+**Member finish:** A dated custody map the intended helper can use, with actual rehearsal evidence or clearly recorded gaps and agreed tasks.
 
 ### Readback and finish
 

@@ -1,6 +1,6 @@
 # 2.5 — Decide how much college help you will provide
 
-Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original materials identified below and the unchanged Reserve reference in Lesson 2.3. Prior drafts remain in Git history.
 App references: concepts prepared independently of screen layout; exact behavior and outputs remain unverified until capture.
 
@@ -78,9 +78,9 @@ We will use the timeline to compare those funding choices. Start with the cost a
 
 When you read the result, ask what had to happen to make it work. Did the plan use the education savings? Did it also need money from another account? Were you still earning the income it relied on? We will check the actual funding shown in the walkthrough, not assume that adding a college event automatically created a saving plan.
 
-You may come out of the comparison comfortable with the original commitment. You may decide a smaller amount is more realistic. Or you may have one specific trade-off to settle with your household. That's useful progress, provided you don't call the goal funded while that choice is still open.
+After the comparison, decide whether to keep the commitment, reduce it, or change another use of the money. If you haven't settled that trade-off, leave the funding gap visible.
 
-For this step, record what you intend to contribute, which money counts toward it, and how you plan to cover the remaining gap. Make the expectation clear to your child, and choose when you will review it as costs, school choices, and the family situation change.
+Write down what you intend to contribute, which money is already set aside, and how you'll fund the rest. Explain that commitment to your child and choose a time to review it as costs and school choices become clearer.
 
 Let's work through that commitment in the plan. Then we'll return to Debt and finish weighing the claims on the money available today.
 

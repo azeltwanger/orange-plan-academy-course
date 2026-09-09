@@ -1,10 +1,12 @@
-# Core course
+# Main course — teaching and production notes
 
-Generated from canonical `scripts/`. New prose is a pre-dictation draft, not a claim Austin already said it. Production notes and member checkpoints are not spoken.
+Generated from `scripts/`. Spoken text is under Read aloud; production notes and checkpoints are not narration. Owner review and actual app/device recording remain separate.
+
+The main path includes one conditional college lesson. Related situation-specific lessons are placed in the reading and playback orders where their decisions arise.
 
 # 0.1 — Build a plan you can use
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -22,7 +24,7 @@ Those are the questions we're going to answer in this program.
 
 It took me four years of holding Bitcoin to realize what I was missing. I had an investment strategy, but I didn't have a financial plan where I could see everything in one place. Buying an asset and understanding how it will support your life are different things.
 
-We'll build that connection one step at a time. You'll see me explain a decision, work through an example, and then complete the corresponding step in your own plan. By the end, the decisions should fit together rather than live in separate spreadsheets or in your head.
+We'll work through one decision at a time. I'll explain it, show you an example, and then help you do the same in your plan. Each section builds on the one before it.
 
 Start with what you want the money to make possible. You might want to retire, reduce your hours, change careers, or spend more time with your family. Give that goal an initial date and spending amount. We need something specific to test, not a date we have to make the numbers approve.
 
@@ -34,9 +36,9 @@ First, we'll get a believable starting picture. Then we'll establish what money 
 
 For example, choosing to invest more only helps if the cash flow supports it. Choosing a Roth account only solves the problem when that account fits the purpose and access you need. That's why the order matters. Each section uses a decision you've already made.
 
-Work through the teaching and its matching walkthrough together. Pause and do the step before continuing. You can take a section a week or a different pace that fits your life. The goal is a completed decision, not a completed playlist.
+Watch each lesson, then do the matching walkthrough before moving on. Some lessons are marked For your situation. Read the question beside them: when your plan uses that strategy, complete the lesson before relying on it. Otherwise, carry on with the main path. Take a section a week or use a pace that fits your life.
 
-Some actions take longer. A reserve can take months to fund. A legal document needs an attorney and proper execution. You can record the decision and the next action without pretending the outside work has happened. We will keep that distinction visible once, then use it throughout the course.
+Some work will take longer than the lesson. You can choose a reserve target today even though funding it takes months. Legal documents may need an attorney. Write down the next action and when you'll do it, so those decisions don't get lost as you continue.
 
 This is financial education, not individual investment, tax, or legal advice. You make the decisions, with qualified help where execution requires it. The account and tax examples use US rules. The broader process can travel; those rules do not automatically apply in another country.
 
@@ -62,7 +64,7 @@ State the personal question, initial timing and lifestyle the plan should test; 
 
 # 0.2 — Use Ask to understand your own numbers
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; Ask and optional feature inserts retain APP_CAPTURE.
 
@@ -86,11 +88,11 @@ Use that pattern for other questions too. “Why is this retirement year more ex
 
 An explanation that sounds confident but uses a different date, balance, or assumption hasn't finished the job. Follow it back to the input or result. If it cannot show the connection, keep the question open rather than changing the plan to match the answer.
 
-Once you understand the current picture, ask for a comparison. For debt, that might be, “What should I compare before making an extra payment?” For an account, “What changes if this money goes into retirement saving rather than staying available for the earlier years?”
+Once the number makes sense, ask about the decision. For debt, try, "What changes if I pay an extra amount each month?" For an account, ask, "Will I be able to use this money in the years I need it?" Then check the relevant comparison in the plan.
 
 You can challenge your preferred answer as well. Ask what would make the choice less useful than it first appears. That helps you notice a tax cost, an access problem, or a payment you're assuming will be easy to make.
 
-Then check the actual comparison in the plan. Written reasoning and a modeled result have different jobs. The explanation helps you understand; the calculation shows the effect of the inputs being tested. Neither automatically adopts a change for you.
+Read the calculation alongside the explanation. Has the comparison changed the inputs you intended? You still decide whether to save that change.
 
 For a professional question, use Ask to organize the facts. “Here is the conversion we're considering, the year, and where the tax money would come from. What should we verify with the CPA?” That is a focused handoff, not a substitute for the review.
 
@@ -98,7 +100,7 @@ Market information has a different purpose. Check its date and sources. Then ask
 
 Be deliberate about sharing files. A summary for an outside AI review is different from a backup intended to restore the plan. Read the file before sending it elsewhere. Removing a name does not make every financial detail non-sensitive. Recovery words, private keys, passphrases, PINs, and account credentials never belong in a planning question.
 
-In the demonstration, we'll use a populated plan and ask one question about a number already on screen. We'll compare the response with the source rows and decide the next step. The useful finish is simple: you can explain the number yourself and know whether to correct a fact, compare a choice, or ask for specific help.
+Let's ask about one number in the plan and check the answer against the rows behind it. When you can explain the number yourself, decide whether it needs correcting or whether you're ready to compare a change.
 
 ### Visual and source notes — not spoken
 
@@ -126,7 +128,7 @@ Trace one answer to an actual input or result and choose the next check or compa
 
 # 1.1 — Decide what belongs in your saved plan
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; exact routes belong in W01.
 
@@ -158,7 +160,7 @@ For now, gather recent account statements, debt statements, income records, a sp
 
 Some information will be incomplete. Mark what you know, what you're estimating, and what you still need to find. A missing purchase date doesn't stop you from identifying an account's current value. It can stop you from treating the tax cost of selling it as settled. The consequence of the missing fact determines its priority.
 
-Before continuing, take one change you're considering and classify it. Does it describe today, something you expect to happen, or something you want to test? Then name one assumption behind your future picture.
+Take one change you're considering. Does it describe today, something you expect to happen, or something you only want to test? Put it in the right place. Then note the assumption you're least sure about so we can check it when we read the result.
 
 That gives us a starting plan we can return to. In the next chapter, we'll begin with the accounts you already have—not an account setup you think you are supposed to copy.
 
@@ -180,7 +182,7 @@ Classify one current fact, one expected event and one what-if; keep assumptions 
 
 # 1.2 — Add accounts and show what each one owns
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: D54/D65 concepts; entry, source coverage and history behavior retain APP_CAPTURE.
 
@@ -218,11 +220,11 @@ A transfer needs the same care. Buying Bitcoin on an exchange and moving it to y
 
 Collect the old exchange and brokerage records you already have, but don't make this lesson an attempt to repair your entire tax history. Tax will give that work its own sequence. For a Roth account, you don't have to reconstruct every internal trade just to identify today's holdings. Contribution, conversion, and distribution records have separate jobs when access or tax treatment matters.
 
-Before leaving an account, check three things. Does the total agree with its source? Do the investments explain that total? Are the owner and account type right?
+Before leaving an account, compare its balance with the statement. Do the investments add up to that balance? Are the owner and account type right?
 
-Where the answer is no, name the specific missing detail. “Find the holdings statement for this account” is a task you can complete. “Fix all my financial data” isn't much of a starting point.
+If something is missing, write down the record you need—for example, the latest holdings statement for this account.
 
-The walkthrough will show a cash account, an investment account, and direct Bitcoin, including the incomplete-information case. Use your own statements alongside it. The finish is an honest current inventory. Choosing what you should own next comes in Allocation.
+Have your statements ready. We'll enter a cash account, an investment account, and direct Bitcoin, and work through what to do when some information is missing. We're recording what you own now. Allocation will help you decide what to change.
 
 Wallet recovery words and account credentials are not part of that inventory. Keep them out of the app, the notes, and anything you share for help.
 
@@ -244,7 +246,7 @@ Reconcile each account once with its holdings, owner and type; identify the exac
 
 # 1.3 — Enter income, spending, debts, and the retirement starting point
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: income mapping, debt records and result behavior retain APP_CAPTURE.
 
@@ -274,7 +276,7 @@ Here is the original cash-flow bridge on screen. After the income, illustrative 
 
 That is the figure we're starting from. It doesn't mean they're only saving $500; the employee contribution is already invested. It also doesn't include the spending reduction we'll consider later.
 
-The example allows $4,000 a month for taxes. That is a teaching provision, not a calculated Reed tax liability. In the app demonstration, we'll check how the actual income and tax inputs are represented. The statement and the model need to reconcile; we won't hide a difference by inventing an expense.
+We're allowing $4,000 a month for taxes in this example. That's an assumption, not their calculated tax bill. When checking your own cash flow, compare the income and tax figures with your records. If they don't agree, find out why before assigning the money that's left.
 
 Now give the retirement calculation a question to answer. When do you want to reduce or stop work, and what would that life cost?
 
@@ -284,13 +286,17 @@ Start a retirement-spending estimate based on the life you expect. Some work cos
 
 Use actual Social Security or pension estimates when you have them, attached to the right person and start date. Don't insert an assumed benefit to fill a shortfall. An unverified income source is a question to answer, not funding you can rely on yet.
 
-The first pass is finished when you can explain the money coming in, the costs and contributions already committed, and the retirement life you are asking the plan to test. If the available amount looks nothing like your bank experience, keep that mismatch visible for Cash Flow. A less exciting result based on honest numbers is a much better starting point.
+Check that you can follow income through the costs and contributions already committed, and that the retirement date and spending describe the life you want to test. If the remaining money doesn't match what you see in your accounts, keep that question for the Cash Flow review.
 
 ### Visual and source notes — not spoken
 
 Visual: original cash bridge, round for speech only; $19,416.67 gross − $4,000 teaching provision − $10,800 living − $3,341.67 required debt = $1,275 before employee contribution; $775 employee leaves $500. Employer $387.50 stays separate. Source mortgage escrow, payroll election, tax mapping and exact timelines remain unresolved capture facts, not defaults silently adopted.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+The example allows $4,000 a month for taxes. That is a teaching provision, not a calculated Reed tax liability. In the app demonstration, we'll check how the actual income and tax inputs are represented. The statement and the model need to reconcile; we won't hide a difference by inventing an expense.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
@@ -304,7 +310,7 @@ Explain current income, costs and existing contributions, and record the initial
 
 # 1.4 — Choose assumptions you can explain
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: model choices and exact preset paths require final build verification; no current preset rate is asserted.
 
@@ -344,7 +350,7 @@ If the plan is short in the early years under slower growth, that points to a re
 
 A more optimistic comparison can be useful too. Strong growth may change future tax or account decisions. The point isn't to choose whichever result feels best; it's to understand which decision depends on which assumption.
 
-Finally, check that the model treats the actual investments appropriately. A Bitcoin fund, a company that owns Bitcoin, and a leveraged product are not interchangeable. A return override should not make a company's debt or a fund's structure disappear. The advanced lesson handles that when it applies.
+Check how the model treats the investments you own. A Bitcoin fund, a company that owns Bitcoin, and a leveraged product can behave differently. If you're changing assumptions for a particular holding, use the lesson on testing assumptions before relying on that result.
 
 Before continuing, be able to say what growth path, inflation basis, and horizon your starting plan uses—and why. Keep one less-favorable comparison beside it. Now the first result will mean something: it answers a question under assumptions you deliberately chose.
 
@@ -366,7 +372,7 @@ Explain the starting model, dollar convention and horizon; compare one weaker pa
 
 # 1.5 — Read the first answer and choose the next improvement
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: starting-result transition, full simulations and freshness retain APP_CAPTURE.
 
@@ -404,9 +410,9 @@ Change one decision at a time so you can explain the difference. More saving use
 
 If the first answer is strong, don't invent problems to keep optimizing. Explain what supports it and identify the limitation that still matters. If it is weak, find the biggest fixable issue instead of jumping straight to higher Bitcoin returns.
 
-The first working plan is finished when you can explain your intended timing, what the current calculation says, the assumptions behind it, and the next important check. You don't need every later strategy finalized yet. You do need an honest starting point.
+Before moving on, explain what the plan says about your preferred date and which assumption or input needs the next check. The later strategies can wait until we have this starting picture right.
 
-Our next section verifies the spending and available money. That gives us something concrete to improve before choosing the Reserve, debt payments, and contributions. We are going to build on this picture—not replace it with a result we hope is true.
+Next we'll check the spending and money available each month. That gives us the amount we can use for the Reserve, debt payments, and new investments.
 
 ### Visual and source notes — not spoken
 
@@ -432,7 +438,7 @@ Read the actual current result, trace one funding year, and identify the next ac
 
 # 2.1 — Find the amount your plan actually has available
 
-Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original materials identified below and the unchanged Reserve reference in Lesson 2.3. Prior drafts remain in Git history.
 App references: concepts prepared independently of screen layout; exact behavior and outputs remain unverified until capture.
 
@@ -508,7 +514,7 @@ If you're retired, the review is still useful, but the question may be different
 
 For now, get the current picture right. Know what's coming in, what has already come out, and how much remains for the next decision. If you find a shortfall, keep it visible. It gives us something specific to work on.
 
-You don't have to decide where every remaining dollar will go in this lesson. First we need an amount you can explain and a sense of whether it is reliable. Let's work through that with the records in front of us. Then we'll look at the spending changes you would actually be willing to make, before deciding how quickly to fund the reserve or pay extra on debt.
+You don't need to assign the remaining money yet. First make sure you can explain where it comes from and whether it will be there regularly. Let's check the records, then look at the spending changes you'd actually be willing to make.
 
 ### Visual notes — not spoken
 
@@ -532,7 +538,7 @@ Source context and current repair progress are in `HANDOFF.md` and `FINALIZATION
 
 # 2.2 — Free up money without cutting the life you value
 
-Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original materials identified below and the unchanged Reserve reference in Lesson 2.3. Prior drafts remain in Git history.
 App references: concepts prepared independently of screen layout; exact behavior and outputs remain unverified until capture.
 
@@ -586,7 +592,7 @@ If everything else stays the same, that gives them $1,700 for their other priori
 
 But the reduction needs an explanation. Where is that $1,200 coming from?
 
-The example gives us the amount to compare, not a list of actual bills they have canceled. Before relying on it, they need changes they would genuinely make and a date when those changes begin. For your household, work from the expenses you chose to cut or reduce. Don't start with a saving you want and assume the spending will somehow adjust around it.
+We're testing a $1,200 reduction; we haven't established which bills would make that possible. Before Alex and Morgan rely on it, they need to choose the changes and when they begin. Do the same with your expenses rather than start with a saving you want and hope the budget adjusts around it.
 
 There is also a difference between cutting a bill and spending less through a change in habits. A canceled subscription has a fairly clear saving. Spending less on shopping or meals out may take a few months to establish. Use an amount you think you can maintain, then check it against what happens.
 
@@ -606,7 +612,7 @@ We haven't decided all those destinations yet. The next lesson works out the res
 
 For now, choose one to three changes you're willing to make. Record the old cost, the expected new cost, and what you have to do to make the difference real. Cancel the service, request the quote, change the plan, or agree on a different spending amount with your household.
 
-Then check what changed. A smaller saving that you can keep is more useful than a large reduction that only exists in the projection.
+After making the change, compare what you expected to save with what actually stayed in the account. Use that amount in the next decision.
 
 Let's compare those choices and see how much room they would give you. Then we'll work out how much of that room the reserve needs.
 
@@ -748,7 +754,7 @@ Illustrations remain $7,200 × 6 = $43,200; $43,200 − $32,000 = $11,200; $11,2
 
 # 2.4 — Put future changes on the timeline
 
-Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original materials identified below and the unchanged Reserve reference in Lesson 2.3. Prior drafts remain in Git history.
 App references: concepts prepared independently of screen layout; exact behavior and outputs remain unverified until capture.
 
@@ -814,7 +820,7 @@ That matters when Bitcoin is part of the funding plan. You may be comfortable ke
 
 The more important it is that the full amount be there on a particular date, the less I would want that payment to depend on a favorable market at exactly the right time. That doesn't mean every future goal has to sit in cash today. It means you need a funding choice that fits the commitment, and a time to review it as the date gets closer.
 
-In the walkthrough, we'll add one expected expense and one income change. Then we'll open the affected period and follow the money. Did the expense appear when intended? What income was available? Did the plan need a withdrawal, and what account supplied it? How did that leave the household positioned afterward?
+Let's add one expected expense and one income change, then open the period they affect. Did the expense appear when intended? What income was available, and which account covered the rest? Check what remains afterward, not just whether the retirement date moved.
 
 That is more useful than only looking at whether the retirement date moved. A plan may still show the same retirement timing while asking you to sell an investment or take on a payment you wouldn't be comfortable with.
 
@@ -850,7 +856,7 @@ Source context and current repair progress are in `HANDOFF.md` and `FINALIZATION
 
 # 2.5 — Decide how much college help you will provide
 
-Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original materials identified below and the unchanged Reserve reference in Lesson 2.3. Prior drafts remain in Git history.
 App references: concepts prepared independently of screen layout; exact behavior and outputs remain unverified until capture.
 
@@ -928,9 +934,9 @@ We will use the timeline to compare those funding choices. Start with the cost a
 
 When you read the result, ask what had to happen to make it work. Did the plan use the education savings? Did it also need money from another account? Were you still earning the income it relied on? We will check the actual funding shown in the walkthrough, not assume that adding a college event automatically created a saving plan.
 
-You may come out of the comparison comfortable with the original commitment. You may decide a smaller amount is more realistic. Or you may have one specific trade-off to settle with your household. That's useful progress, provided you don't call the goal funded while that choice is still open.
+After the comparison, decide whether to keep the commitment, reduce it, or change another use of the money. If you haven't settled that trade-off, leave the funding gap visible.
 
-For this step, record what you intend to contribute, which money counts toward it, and how you plan to cover the remaining gap. Make the expectation clear to your child, and choose when you will review it as costs, school choices, and the family situation change.
+Write down what you intend to contribute, which money is already set aside, and how you'll fund the rest. Explain that commitment to your child and choose a time to review it as costs and school choices become clearer.
 
 Let's work through that commitment in the plan. Then we'll return to Debt and finish weighing the claims on the money available today.
 
@@ -956,7 +962,7 @@ Source context and current repair progress are in `HANDOFF.md` and `FINALIZATION
 
 # 3.1 — Measure the payment pressure you actually carry
 
-Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original Debt Strategy deck, Austin's debt playbook and original call explanations; unchanged Reed teaching fixture. Specific source distinctions are recorded in HANDOFF.md.
 App references: teaching is separate from final navigation, payment schedules and saved results.
 
@@ -1016,7 +1022,7 @@ This is where the reserve decision comes back in. Could the household keep provi
 
 Use the essential-spending number carefully. In our Reserve example, the $7,200 already includes required debt payments. Adding the full debt-payment total again would count them twice. We want the actual cash need, not a larger number created by mixing two different spending definitions.
 
-You don't need to guess a tax bill for the weaker-income case. Review what would really change. Some costs may fall, others may not, and a business may still need operating cash even when it is bringing in less. We will use the supported numbers in the walkthrough rather than assume every outflow stays exactly the same.
+Check what would change along with the lower income. Taxes and some costs may fall; other bills will continue. The business may still need operating cash. Use those changes when comparing how much the household would be short.
 
 Also ask what happens if the payment itself rises. A variable rate or the end of an interest-only period can change what the same balance costs to carry. You don't have to borrow another dollar for that pressure to increase.
 
@@ -1024,7 +1030,7 @@ If you're close to retirement, look beyond the paycheck you have today. A paymen
 
 For now, don't try to solve every debt at once. Identify the payment you are least comfortable supporting and explain why. It might be expensive interest, a coming repayment date, a risk to the family home, or simply too much dependence on one income.
 
-In the working chapter, we'll verify the terms and follow the payments back to cash flow. After that, we'll look at what you owe compared with what you own—and how that picture changes when Bitcoin falls. Then we can make the payoff decisions with both sides in view.
+Let's check the loan terms and put the payments beside cash flow. Then we'll look at what you owe compared with what you own, including what happens when Bitcoin falls.
 
 ### Visual notes — not spoken
 
@@ -1050,7 +1056,7 @@ Narrow mechanism checks, separate from Austin's framework: CFPB, What is a debt-
 
 # 3.2 — Measure leverage before and after a drawdown
 
-Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original Debt Strategy two-ratio, drift and LTV teaching; current course distinctions and unchanged Reed fixture.
 App references: ratios and arithmetic graphics are not verified app outputs or lender terms.
 
@@ -1118,7 +1124,7 @@ Different loans also behave differently. A conventional mortgage isn't normally 
 
 So when you review debt, keep the questions separate. Can the household make the payments? How much debt is there compared with the assets? And could a particular lender force an earlier decision because of the collateral?
 
-For the working chapter, we'll read today's position, apply the stated stress, and look separately at any collateral-backed loan. The result we want is an explanation of where the pressure would come from and what resources would actually be available to deal with it. That gives us a much better basis for deciding which debt to reduce and which debt we may be comfortable keeping.
+Let's compare the current balance sheet with the declines we've described. Then check any collateral-backed loan separately. Identify which payment or lender requirement would need attention and the cash or assets you could use to respond.
 
 ### Visual notes — not spoken
 
@@ -1142,7 +1148,7 @@ The source does not supply a complete household stress forecast, an existing Ree
 
 # 3.3 — Give every existing debt a job
 
-Status: TEACHING_REWRITE_REVIEW — existing individual explanation retained with a targeted redundancy cut. The prior Reserve decision is applied without reteaching it; voice review remains open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: Austin debt playbook, original Debt Strategy deck/outline and call explanations; accepted liquidity judgment and unchanged Reed fixture.
 App references: extra-payment entries, interest schedules and payoff results require the approved build.
 
@@ -1172,7 +1178,7 @@ We've already compared their reduced-spending plan. It leaves $1,700 after the l
 
 The card's required $405 was accounted for before we got to that $1,700. So adding $1,200 means a total card payment of $1,605 for the month in this illustration. We aren't finding another $405 inside the remaining cash, and we aren't adding $1,200 on top of money that has already gone somewhere else.
 
-That extra payment can make the balance fall faster. We'll read the actual payoff comparison in the walkthrough rather than guess the month it ends.
+Now we can compare how much faster the card is paid off and how much interest the extra payment avoids.
 
 Bring forward the liquidity decision from the Reserve lesson. If the cash cushion is too thin to support the family during an income interruption, more of the available money may need to build it before accelerating the card. Required payments continue. The cost is more interest for a while, so revisit the split as the cushion improves. We are applying that choice here, not setting a second reserve policy.
 
@@ -1208,13 +1214,13 @@ Consolidation combines debts into one arrangement. It can simplify the bills, bu
 
 You may find it helpful to organize debts as Eliminate, Evaluate, Strategic, or Monitor. The labels help you start the discussion. They don't make the decision for you. An expensive card may be something to eliminate; a low-rate mortgage may be worth keeping strategically; a variable or collateral-backed loan needs monitoring even when its current rate looks acceptable.
 
-For each one, write the actual next action. Keep the required payment, pay an extra amount, compare refinancing, arrange a payoff, or monitor a named risk. Then write why and what would make you revisit it. “Monitor” needs a date or a trigger; it isn't a way to leave a difficult choice blank.
+For each debt, decide what happens next: continue the required payment, pay extra, compare refinancing, or arrange a payoff. If you're monitoring it, write down the date or change that calls for action.
 
 Once a debt is paid off, decide what happens to the money it used.
 
 In the course's card example, the $405 required payment and $1,200 extra payment would together release $1,605, if those were still the amounts being paid at payoff. That is future room, not money available today. The other expenses and contributions still count, and the amount released needs checking against the payments that actually ended.
 
-For now, add up the extra payments you're considering and put them beside the reserve contribution. Can the same cash flow support both? If not, choose a different pace rather than leave two conflicting instructions in the plan.
+Add up the extra payments you've chosen and put them beside the Reserve contribution. If the available cash can't cover both, change the amounts before setting up the payments.
 
 Let's give each existing debt a clear job. Then we'll look at a separate question: whether taking on new financing would improve the plan at all.
 
@@ -1242,7 +1248,7 @@ Additional mechanism reference, read September 8, 2026: Chase mortgage recast ex
 
 # 3.4 — Decide whether new financing improves the plan
 
-Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original Debt Strategy benefits and tolerance teaching; Austin debt playbook; accepted Core financing scope.
 App references: this lesson prepares a decision, not a loan application or a claim of current product support.
 
@@ -1312,9 +1318,9 @@ For each proposal, keep the smaller version and the decision to wait visible. Yo
 
 You might decide the renovation matters, but not at the cost of carrying another payment while the reserve and card still need attention. You might decide a business purchase is worth analyzing because it has a credible source of repayment. Those are different conclusions from the same planning process.
 
-Before moving to the next lesson, be able to explain what the money is for, what borrowing preserves or makes possible, and how the obligation will be repaid if the result is disappointing. If you can't yet explain one of those, name what you need to find out.
+For the loan you're considering, write down its purpose, what borrowing lets you keep or do, and how you would repay it if the result disappoints. Find any missing answer before choosing a lender.
 
-Then we can compare the actual financing choices. We will look at cash used now, the payments, the balance still owed later, and what is exposed—not simply pick the offer with the smallest monthly number.
+Next we'll compare the financing choices: cash needed now, payments, what remains owed, and which assets secure it.
 
 ### Visual notes — not spoken
 
@@ -1338,7 +1344,7 @@ The older deck's blanket structure ladder is not adopted. Its blanket interest-o
 
 # 3.5 — Compare financing on equal terms
 
-Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: current Core same-project and repayment examples; original strategic-debt scope and teaching sources recorded in HANDOFF.md.
 App references: actual offers, contract-specific modeling and outputs require separate verification.
 
@@ -1418,9 +1424,9 @@ Once you understand an option, look at the disappointing version. Income comes i
 
 What happens next? Can you continue paying, repay from another identified resource, reduce the purchase, or choose not to proceed? The comparison needs a response the household could actually carry out, not just a favorable ending balance.
 
-In the walkthrough, we will take one relevant financing option and put it beside cash or a sale, with the smaller-project or delay choice still visible. We will read the cash left afterward, payments, principal still owed, and repayment source. Any important term the app doesn't represent needs separate analysis before we rely on the result.
+Let's compare one relevant financing option with paying cash or selling an investment. Keep a smaller project or a delay beside them. For each version, check the cash left, the payments, the balance still owed, and how you repay it. Any important contract term the app doesn't represent needs separate analysis.
 
-You finish this step with a choice you can explain—or a specific contract question that needs answering before a choice is possible. Comparing an offer doesn't mean you have applied, qualified, or agreed to borrow. Now let's write down the conditions you would need to keep following if you chose to use it.
+Choose the option that fits, or get the specific contract question answered before choosing. Comparing an offer doesn't mean you've applied or qualified. Next we'll write the repayment and response rules you'd need to follow.
 
 ### Visual notes — not spoken
 
@@ -1450,7 +1456,7 @@ Additional tax mechanism references, read September 8, 2026: IRS Topic 505, http
 
 # 3.6 — Write the rules before using leverage
 
-Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: Austin debt playbook, accepted Core operating-rule scope and Reserve liquidity judgment; original sources recorded in HANDOFF.md.
 App references: written rules do not establish alerts, automations, lender action times or actual saved execution.
 
@@ -1508,13 +1514,13 @@ Finally, write the conditions under which you would not proceed—or would reduc
 
 An essential bill without funding is one. So is an agreement you don't understand, a principal repayment that depends entirely on another unapproved loan, or a response that requires money you cannot access. A household member who shares the consequences but hasn't agreed to the risk is another reason to stop and talk.
 
-For Alex and Morgan, the current decisions still need to support the reserve and the high-rate card. Their source balance sheet has no Bitcoin-backed loan. We can compare a borrowing idea without turning it into a new obligation just to complete a lesson.
+For Alex and Morgan, the Reserve and high-rate card still need funding. They haven't taken out a Bitcoin-backed loan. We can compare borrowing without adding it to the plan they've chosen.
 
-Read your own proposed rules back in ordinary language. What is this loan for? Where do the payments come from? How does it end? What would make you act earlier, and what money or collateral would you use? Someone reading the plan should be able to find those answers without guessing what you intended.
+Read your instructions back. What is the loan for? Where do the payments come from? How does it end? What would make you act earlier, and which cash or collateral would you use? Someone helping you should be able to find those answers.
 
 Then bring the current debt decisions back to Cash Flow. Required payments have already been counted. The extra payments need to fit beside the reserve amount and the other commitments. Keep any proposed new loan separate until you deliberately choose it, and don't start using money that becomes available only after a future payoff.
 
-That is the handoff to Allocation. We know what the household needs to keep accessible and what extra debt payments are taking from the available money. Now we can decide what the remainder should buy—and how the next contribution changes once a debt is actually gone.
+Allocation starts with the money left after these decisions. We'll choose what it buys now and what changes when a debt is actually paid off.
 
 ### Visual notes — not spoken
 
@@ -1523,6 +1529,10 @@ Use the existing debt/financing worksheet rather than add a new member workbook.
 Use a response example with no invented LTV threshold: action point reached → named available resource → response time → remaining exposure/household cash. Show a limit on further collateral separately from the current LTV. Record actual contract numbers only when verified; no automatic app monitoring or safe default is implied.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For Alex and Morgan, the current decisions still need to support the reserve and the high-rate card. Their source balance sheet has no Bitcoin-backed loan. We can compare a borrowing idea without turning it into a new obligation just to complete a lesson.
 
 The debt playbook supplies purpose, repayment, top-up/repay/no-go rules, maturity, monitoring and concentration. The accepted Reserve judgment keeps essentials funded and does not assume more credit will be available after an income interruption. No new fixed debt, cash or collateral limit is selected for the Reeds or members. W03 chapters 5–6 complete the written decision and the same-money handoff.
 
@@ -1538,7 +1548,7 @@ The source's lifetime/retirement borrowing strategy remains in the retirement-in
 
 # 4.1 — Understand the portfolio you already own
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: use the approved redesign for actual views, included assets and save behavior.
 
@@ -1576,11 +1586,11 @@ Finally, check what current contributions buy. The place money goes and the inve
 
 For this review, identify the mismatch that matters most. Is cash waiting with no near-term purpose? Is an approaching expense relying on an investment you don't want to sell? Is your workplace account buying something you no longer intend to own?
 
-No mismatch is a valid finding too. Reviewing a portfolio doesn't require a trade.
+You may find that the holdings already fit. Keep them; this review doesn't require a trade.
 
-By the end of this section, you should be able to explain the entire mix: the Bitcoin position, the other investments, the cash, and how they support your life. We will take the decisions in order. First establish Bitcoin's intended role. Then choose what the remaining money needs to provide, decide the amounts, and work through accounts and contribution instructions.
+We'll build the whole mix from here: Bitcoin, the other investments, and the cash needed for spending. Then we'll decide where contributions go and what they buy.
 
-In this first working chapter, read the current holdings and identify one question to resolve. Keep that question beside the portfolio as we build the target.
+Look through your current holdings and write down the question you most need to answer about them.
 
 ### Visual and source notes — not spoken
 
@@ -1600,7 +1610,7 @@ Explain the included current portfolio and identify a mismatch in purpose or pur
 
 # 4.2 — Choose the role Bitcoin plays in your plan
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: no target save or investment order is required to choose a descriptive path.
 
@@ -1636,7 +1646,7 @@ Discuss that intention with anyone sharing the consequences. Your spouse doesn't
 
 For now, write the role you want Bitcoin to have and a starting percentage or range to test. You may decide to keep today's position. You may have a reason to increase or decrease it over time.
 
-We aren't saving a final target yet. In the next lesson, the spending needs and the other investments may show that your starting idea needs adjusting. That is useful information, not a failure of conviction.
+Keep that percentage as a starting point. The cash you need and the other investments you choose may change it in the next lesson.
 
 Let's take the question many Bitcoin holders have: “I'm comfortable with 50% Bitcoin. What should I do with the other half?” We'll build that answer from what the money needs to provide.
 
@@ -1658,7 +1668,7 @@ State Bitcoin's intended role and a starting range to test without treating a pa
 
 # 4.3 — Build the rest of the portfolio around your life
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: timeframe calculations are teaching illustrations, not evidence of a per-bucket target editor or an engine-generated recommendation.
 
@@ -1704,7 +1714,7 @@ So don't put a bond fund in the near-term column merely because it isn't a stock
 
 Property or a business can also be part of the picture. Separate the value you own from the cash it can provide. Rent before repairs, debt service, and vacancies is not the amount available for your household. Your home isn't available to pay retirement expenses unless the plan includes a workable way to use its value.
 
-You don't need every asset category. Each one should earn its place by doing something you want the portfolio to do. More categories can also mean more costs and more work.
+You don't need every type of investment. Choose one because it provides something you need, and count the cost and work it adds.
 
 Let's use one simple example to turn that into amounts. This is a separate teaching household, not the Reeds.
 
@@ -1726,7 +1736,7 @@ That adds $100,000 to the cash job. With Bitcoin held at the same $500,000, ther
 
 The reason is not that every retiree needs 20% cash. This household chose to have those payments available. Keeping more in cash means less is invested for growth, so we need to test what that changes later. Choosing only the first year's payment in cash would produce a different trade-off.
 
-This is the position-sizing decision. Identify what must be funded, choose what uncertainty you are willing to accept for the remaining money, and compare the specific dollars affected. We are not claiming a formula discovers one perfect portfolio.
+That is how we choose the amounts. Start with the bills and commitments, then compare the uncertainty you're willing to accept with the remaining money. There won't be one perfect portfolio for every household.
 
 Before accepting the mix, follow the first spending need. Which account provides it? What happens if the investments are down? Does the cash cover what you said it covers, or have two commitments claimed it? If the answer fails, revise that part of the plan rather than add a reassuring label.
 
@@ -1734,9 +1744,9 @@ The long-runway portion also changes as time passes. Retirement is not one deadl
 
 Then add the dollar positions to see the household mix. Don't average percentages from accounts of different sizes, and don't put the household percentage into every account. An account for a near-term bill may hold no Bitcoin even when Bitcoin is half the overall portfolio.
 
-For your own plan, write the purpose beside each major holding and the amount it needs. Choose the relevant investments, compare a meaningful alternative, and identify any product detail still to confirm. You should be able to explain the non-Bitcoin portion as clearly as the Bitcoin position.
+Write the purpose and amount beside each part of your portfolio. Choose the investments for those jobs and compare the alternative you're seriously considering. Check any product details you still need before making a purchase.
 
-The target gives us a direction. The remaining lessons make it practical: how much new money is available, which account receives it, and what the contribution buys. A change to existing holdings comes with its own tax and trading costs; we will not treat choosing a target as an instruction to trade today.
+Next we'll work out how the available contributions move you toward that mix. Changing existing holdings may also make sense, but a sale has its own tax and trading costs to compare first.
 
 ### Visual and source notes — not spoken
 
@@ -1754,9 +1764,9 @@ Build the whole proposed portfolio: identify funded jobs, choose the relevant in
 
 ---
 
-# 4.4 — Build the contribution waterfall from one pool
+# 4.4 — Decide where the next dollar goes
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: actual current/future contribution support and payroll effects require final verification.
 
@@ -1778,7 +1788,7 @@ There is no additional monthly household investment to assign in this phase.
 
 That does not mean they have stopped investing. Alex's contribution continues, and the employer adds $387.50 under the fictional match formula. Employer money belongs in the retirement-saving total, not in the cash available for another transfer.
 
-This is the contribution waterfall: an order for the next dollar, with actual amounts behind it.
+The contribution waterfall is simply the order you want new money to follow, with an amount for each destination.
 
 If essential liquidity is missing, use the pace chosen in the Reserve lesson. Check the employer match when available, then carry through the chosen extra-debt amount. Any remainder goes toward the funding need identified in Allocation. The order is a starting framework, not a requirement to fully finish each item before any money reaches the next.
 
@@ -1798,9 +1808,9 @@ The Reserve reaching its target is another condition. Its build contribution can
 
 You can use the same order for a bonus or a strong business month. Allow for its taxes and commitments, then choose the use of the actual remainder. A good month does not require a permanent transfer that future quieter months cannot support.
 
-Finish with today's destinations and the event that changes each later destination. Put the amounts together and confirm they fit. If they don't, make the trade-off explicitly. A plan with two instructions claiming the same money isn't finished.
+Put today's contribution amounts together and check that the cash flow covers them. Then write down what changes after a debt payoff or the Reserve reaches its target.
 
-Next, choose the receiving account for the investment money—not every possible account, just the ones that fit the jobs you identified.
+Next we'll choose the account for the money you're investing.
 
 ### Visual and source notes — not spoken
 
@@ -1820,7 +1830,7 @@ Reconcile all current destinations to one available amount and tie later routing
 
 # 4.5 — Choose the account that can do the job
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: provider availability, investment menus and contribution eligibility remain verification tasks.
 
@@ -1832,7 +1842,7 @@ Sources: ALLOCATION, ALLOCATION_DECK, PRIMARY, APP
 
 You can choose a good investment and put it in an account that doesn't fit when you need the money. You can also choose an account for its tax benefit and discover it cannot hold the investment you intended to buy.
 
-We want both parts to work. The account needs to fit the purpose, and its investment menu needs to support the portfolio.
+Start with when you'll need the money. Then check whether the account lets you use it then and offers the investments you intend to buy.
 
 Start with the contribution's job. Is it intended for an early work transition, a later retirement year, or a dedicated expense such as healthcare? Then compare the accounts actually available to you.
 
@@ -1842,7 +1852,7 @@ That flexibility can be the point. If later retirement looks funded but the firs
 
 For later money, a workplace plan can provide payroll convenience, contribution room, and a match. We already reviewed the match. Now check the investments, costs, and access rules. A plan with a limited menu may still hold the stock exposure you want while another account holds Bitcoin.
 
-Alex's workplace account illustrates that arrangement. It holds seventy percent stocks and thirty percent Bitcoin-fund exposure in the source example. His Roth IRA has a different mix. They don't need every account to look identical for the overall portfolio to make sense.
+Alex's workplace account in our example holds seventy percent stocks and thirty percent Bitcoin-fund exposure. His Roth IRA has a different mix. The accounts can hold different proportions and still work together toward the household target.
 
 The fictional workplace plan permits the example's Bitcoin-fund access. Your employer may not. Confirm the menu before routing money there for a purchase it cannot make.
 
@@ -1866,9 +1876,9 @@ You don't need to learn every account variation to complete your contribution pl
 
 Then check access independently of timeframe. A taxable account can hold a twenty-year investment. A retirement account can hold cash for a permitted withdrawal soon. Age fifty-nine and a half is an important landmark, not a universal statement that every retirement dollar is locked until then. Special routes need their own conditions verified; Retirement Income handles that where it applies.
 
-Finish each contribution with a receiving account, a reason it fits, and any specific missing fact. “Check whether this fund is on the employer menu” is useful. “Research retirement accounts” is too broad.
+Choose the account for each contribution and confirm the detail it depends on. For example, check that the intended fund is available in the employer plan before directing money there to buy it.
 
-When an existing account does the job at acceptable cost, keep it in the comparison. More accounts mean more records and maintenance. A new account earns its place by solving a need—not by making the plan look sophisticated.
+An existing account may already do the job at an acceptable cost. Opening another one adds records and maintenance, so be clear about what it would improve.
 
 Next we'll settle the tax election. That decision can change the money left in your paycheck, so it needs to fit the same contribution budget.
 
@@ -1890,7 +1900,7 @@ Select a receiving account with verified access, eligibility, menu and cost or o
 
 # 4.6 — Choose Traditional, Roth, or a deliberate mix
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: actual tax elections and household cash-flow effects require verified inputs; no Reed election is inferred from an account label.
 
@@ -1922,13 +1932,13 @@ That tells us what matters in the simple comparison: the tax benefit on today's 
 
 Your real life isn't one constant bracket. You may contribute during high-income working years and withdraw during a lower-income period. Or future pensions, Social Security, business income and required distributions may leave you facing substantial taxable income later. Those changes are why we use the timeline rather than assume retirement always means lower tax.
 
-Look at the tax affecting the dollars being contributed or withdrawn, not only an average tax rate across the whole return. Other income, deductions, credits and healthcare effects can change the cost of the next dollar. A professional-reviewed calculation may differ from the bracket you recognize by name.
+Look at the tax on the dollars you're contributing or withdrawing, rather than the average across your whole return. Other income, deductions, credits, and healthcare effects can change that cost. Check the full calculation with your tax professional.
 
 Roth also provides flexibility when qualified withdrawals do not add taxable income. That may help when another income-sensitive decision matters. Traditional may let you keep more current cash available or invest a larger amount for the same take-home cost. Compare those jobs, not just the final account balances.
 
 A mix can be deliberate. You may want some tax benefit today and some money with qualified Roth treatment later. There isn't a rule that every contribution has to use the same election forever.
 
-Check what happens to the current budget when changing the election. Alex's example contribution is $775 a month. The fixture doesn't establish its payroll tax election. If a switch to Roth leaves less take-home pay while the nominal contribution remains $775, that difference needs to come from somewhere. The Reserve and card instructions cannot silently spend money that no longer reaches the household.
+Check the paycheck as well. Suppose Alex keeps contributing $775 a month but changes a deductible Traditional contribution to Roth. He may take home less, even though the same amount reaches the retirement account. That difference needs to come from somewhere. This is a comparison, not a statement about his current election.
 
 You could compare equal contribution amounts, but show the different current cost. Or compare equal household cost, with different amounts entering the accounts. Either can answer a useful question. Don't call them the same comparison.
 
@@ -1938,13 +1948,17 @@ This lesson is about new contributions. Moving an existing Traditional balance i
 
 For the next contribution, choose the election or mix that fits the current cost and intended later use. Then test its effect on the rest of the cash flow. Write down the reason and the life or tax change that would make you review it.
 
-A tax decision is useful when you can explain both the benefit and what pays for it. Once that is clear, we can finish what the money actually buys.
+Check that the remaining cash still covers the Reserve and debt payments. Then we can finish what the contribution buys.
 
 ### Visual and source notes — not spoken
 
 Deck Step 8 and existing same-economic-budget example. Preserve qualified Roth and assumed deductible Traditional conditions. Exact arithmetic: 1000T versus800R, both double; T after20%=1600,after30%=1400,after10%=1800. Growth alone does not establish superiority. Reconcile payroll cash impact before carrying Reserve/debt amounts forward. Contributions, conversions, IRA and workplace distribution rules stay distinct.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+Check what happens to the current budget when changing the election. Alex's example contribution is $775 a month. The fixture doesn't establish its payroll tax election. If a switch to Roth leaves less take-home pay while the nominal contribution remains $775, that difference needs to come from somewhere. The Reserve and card instructions cannot silently spend money that no longer reaches the household.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
@@ -1956,9 +1970,9 @@ Explain today's economic cost and later tax purpose of the chosen contribution e
 
 ---
 
-# 4.7 — Tell each account what to buy and finish the outside actions
+# 4.7 — Set up contributions and investment purchases
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: actual investment elections, comparison/saving and outside execution remain distinct.
 
@@ -1998,7 +2012,7 @@ That split is a teaching comparison, not a recommendation or a transfer already 
 
 A contribution mix may also differ from the portfolio target. You might direct more of the next dollar toward an underweight holding. Prices and the total portfolio change along the way, so don't promise an exact date to reach the target by dividing today's gap by a fixed monthly contribution.
 
-Now finish the instructions. For each contribution, identify the amount, source, start condition, receiving account, tax election where relevant, and investment it should buy. A broad asset category is a planning choice; a verified fund or security is an executable instruction. Don't pretend a category label supplies the product details.
+For each contribution, write the amount, where it comes from, when it starts, the receiving account, and what it buys. Include the tax election where it applies. If you chose a category such as stocks, you still need to select and check the actual investment before arranging the purchase.
 
 Check what the selected product owns, how it is managed, its costs, and any material overlap with other holdings. A spot Bitcoin fund is not a leveraged fund, a covered-call strategy, or shares in a Bitcoin-related company. A stock allocation isn't automatically a concentrated technology bet.
 
@@ -2006,9 +2020,9 @@ For payroll, confirm both the contribution election and the investments purchase
 
 Then verify the first result with the provider. Did the right amount arrive? Did it buy what you intended? Money left in cash might be correct for a spending job, or it might show an unfinished purchase instruction. Read it in context.
 
-To finish Allocation, follow every proposed current contribution through that chain. Keep future contributions tied to their real start conditions. Record which existing holdings stay, which change, and why. The whole portfolio should now be understandable—not just its Bitcoin percentage.
+Check each contribution from the source account through to the purchase. Keep future transfers tied to their start dates or conditions, and record which existing holdings you're keeping or changing.
 
-The Tax section takes up any sale or conversion whose cost needs more work. An unresolved basis question belongs there; it doesn't justify inventing a purchase record to finish a trade.
+Next is Tax. Before making a sale, we'll check the purchase history and compare what you would owe.
 
 ### Visual and source notes — not spoken
 
@@ -2028,7 +2042,7 @@ Specify each current and conditional future contribution through account and int
 
 # 5.1 — Understand what a sale would realize
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -2068,11 +2082,9 @@ A high-basis lot can reduce the gain realized today, but that does not make it t
 
 Account type changes the calculation too. Selling an investment inside a retirement account is not generally the same tax event as selling personally held Bitcoin. The distribution from the retirement account has its own rules. A Roth or Traditional label should not be ignored when a tax tool presents a list of trades.
 
-For this first tax lesson, stay with one proposed taxable sale. Identify its amount, the units that could legally be selected, their supported basis, and the gain before any tax estimate. Then compare the after-tax cash available for the purpose you chose.
+Choose one sale you're considering. How much cash should it provide? Which units could you sell, what did they cost, and what gain would that realize? Then estimate the tax to see how much cash you would keep.
 
-If the history is clean, you have the starting information for a useful comparison. If it isn't, the next lesson gives you a way to repair the records without turning the process into an endless search through every account.
-
-The goal is not to memorize every lot-method name. It is to understand what your sale realizes and what evidence is needed before you act.
+If you have the records, you can make that comparison. If the history is incomplete, the next lesson shows how to repair the part you need.
 
 ### Visual and source notes — not spoken
 
@@ -2090,9 +2102,9 @@ Explain sale proceeds, supported basis and realized gain separately; choose the 
 
 ---
 
-# 5.2 — Repair purchase history without inventing it
+# 5.2 — Rebuild the purchase records you need
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -2136,15 +2148,19 @@ Provider tax reporting is useful evidence, not proof every history detail is com
 
 Once one holding reconciles, preserve the supporting files and the explanation of any correction. Then move to the next relevant holding. This makes the task manageable and gives your tax professional a traceable record instead of a pile of disconnected downloads.
 
-In the walkthrough, we'll review one purchase-and-transfer chain, identify the difference between today's position and its history, and show the corrected result without adding the assets again. The exact import and editing steps depend on the approved build.
+Let's follow one purchase through a transfer and check that the records explain the Bitcoin still held. Adding the history should not add another copy of the asset.
 
-You are finished with this step when the history needed for the next decision is supported, or when you can name the precise missing evidence and who will help resolve it. You can keep planning from the known balances. You should not execute a tax-sensitive sale based on a basis you cannot substantiate.
+Keep the supporting records for the sale you're considering. If something is missing, identify the record and who can help find it. You can continue planning from the known balance, but don't rely on a tax estimate whose purchase cost you can't support.
 
 ### Visual and source notes — not spoken
 
 Tax deck Step 1 operational reconstruction, not a repeat of 1.2 inventory. Generic 0.1 BTC purchase/transfer has no fees only to isolate the mechanism; not a new Reed record. Ownership changes and actual fees need proper review. IRS Jan 28, 2026 digital-asset reporting reminder confirms some statements lack full basis; a report is not completeness proof. Capture must show evidence improving history without duplicating current quantity.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+In the walkthrough, we'll review one purchase-and-transfer chain, identify the difference between today's position and its history, and show the corrected result without adding the assets again. The exact import and editing steps depend on the approved build.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
@@ -2158,7 +2174,7 @@ Reconcile one relevant acquisition/transfer/disposal history to the remaining po
 
 # 5.3 — Find the years when your tax choices have the most room
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -2196,11 +2212,11 @@ A common trap is minimizing tax every year in isolation. A household can spend t
 
 That doesn't prove an earlier conversion is right. It tells us which comparison could be useful. We want to see whether paying some tax earlier improves after-tax resources or flexibility enough to justify its current cost.
 
-State taxes can change the timeline as well. A planned move may affect the cost of a future withdrawal or sale. The move also changes housing, work, family, healthcare, and legal residency questions. We will not treat editing a state in the app as establishing where a person is legally taxed. The Advanced state-move lesson handles that complete comparison when it applies.
+A planned move may change the tax on a future sale or withdrawal. It also changes housing, work, healthcare, and the legal residency question. If you're considering a move, use the state-move lesson to compare those effects together. Changing a state in the app doesn't establish where you're legally taxed.
 
-In the working chapter, mark the years of employment, the years when each benefit begins, and the later distribution years. Then pick one period worth testing and one transaction that might use it.
+Mark when employment ends, when each benefit begins, and when required distributions apply. Choose the period where a different withdrawal or conversion could help.
 
-You should finish with a concrete question, such as: “During these lower-income years, should we use some Traditional money instead of funding everything from taxable investments?” That is a question the model and your tax professional can help answer. “How do I pay less tax?” is too broad to guide the next decision.
+For example: "During these lower-income years, should we use some Traditional money instead of paying for everything from taxable investments?" That's the comparison we'll work through next.
 
 ### Visual and source notes — not spoken
 
@@ -2220,7 +2236,7 @@ Identify an actual income window and the specific withdrawal, gain or conversion
 
 # 5.4 — Compare conversions with intentional withdrawals
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -2230,7 +2246,7 @@ Sources: TAX, TAX_DECK, RETIREMENT, PRIMARY, APP
 
 ### Read aloud
 
-A growing Traditional retirement account can be good news for your wealth and still create a future tax problem. When more of the money eventually has to come out as taxable income, you may have less control over the annual tax bill.
+As a Traditional account grows, more money may eventually need to come out as taxable income. Let's compare whether using a lower-income year for a conversion would help—and what paying that tax now would cost.
 
 A Roth conversion is one way to address that. But “more money in Roth” is not enough reason to convert. We need to compare what the conversion costs now with what it changes later.
 
@@ -2270,9 +2286,9 @@ Required distributions have to be handled under their own rules; the amount requ
 
 Also understand that a completed Roth conversion generally cannot be undone by recharacterizing it back to Traditional under current rules. A speculative choice based only on an expected market rebound deserves careful review before moving the money.
 
-The solution is a specific plan for the year or period: the amount or range worth comparing, the source of the tax money, the after-tax benefit being sought, and the conditions that would make you change it. “No conversion this year” can be the completed decision when its cost doesn't fit.
+Choose an amount or range to compare, identify the account that pays the tax, and check what you expect to gain later. You may decide not to convert this year because the cost doesn't fit.
 
-In the walkthrough, we'll keep spending cash, conversion money, and tax funding visible together. Once the choice is reviewed, execution happens with the custodian and the tax records. A proposed schedule remains a plan until the actual confirmation shows what happened.
+We'll keep the spending money, conversion, and tax payment visible together. Review the amount before submitting it to the custodian, then keep the confirmation and tax records. For a schedule spanning several years, use the multi-year conversion lesson before settling the amounts.
 
 ### Visual and source notes — not spoken
 
@@ -2290,9 +2306,9 @@ Compare no change, spending withdrawal and conversion on consistent funding assu
 
 ---
 
-# 5.5 — Turn tax opportunities into an execution checklist
+# 5.5 — Choose this year's tax actions
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -2320,7 +2336,7 @@ A replacement also raises a legal question. Stock and securities wash-sale rules
 
 So decide the intended exposure and verify the actual replacement before executing. A software button labeled tax-loss harvesting doesn't establish that the transaction qualifies.
 
-Identification is another step to complete in time. Which units are being sold, where are they held, and what documentation makes that selection valid for the transaction date? Broker and unhosted-wallet rules can differ, and temporary relief can change by year. The Advanced lesson goes through a transaction packet when you need it.
+Identification is another step to complete in time. Which units are being sold, where are they held, and what documentation makes that selection valid for the transaction date? Broker and unhosted-wallet rules can differ, and temporary relief can change by year. The harvesting-transaction lesson takes you through the records and instructions before a sale.
 
 Now combine the proposed action with the rest of the year. A conversion, realized gain, bonus, business-income change, or required distribution can use the same income room. Don't review each one as though the others aren't happening.
 
@@ -2328,13 +2344,13 @@ Prepare one working estimate of the year's income, realized gains and losses, ve
 
 For a conversion, include the source of the additional tax payment. Withholding and estimated payments affect cash flow and the amount still due; they don't reduce the underlying tax simply because more was paid early. For a large taxable sale, include the basis evidence and how much spendable cash the sale needs to provide.
 
-Choose one or two actions worth pursuing now, with their prerequisites and deadlines. The rest can wait when a later year or better information is more useful. Declining a small tax opportunity that creates disproportionate complexity is a decision, not unfinished homework.
+Choose the actions worth taking this year and note what must be checked before each deadline. Leave a small opportunity alone when the added work or cost outweighs the benefit.
 
 After a transaction, reconcile what actually happened. Keep the confirmation, units, proceeds, fees, identification evidence and remaining lots. Compare the reporting with the filed return and resolve differences. A tax-data export supports the process; it is not the filed return or proof that every input was correct.
 
 Your final tax handoff should sound like this: “Here is the proposed transaction, the evidence for its basis, the rest of the income expected this year, and the source of any tax payment. Here is the specific issue we need confirmed before acting.”
 
-That is a usable next step. You haven't delegated an unexplained decision to a checklist; you understand the purpose and the trade-off. Next, Retirement Income puts the available sources together into the money that will pay the bills.
+Before making a harvesting trade, use the transaction lesson to prepare the identification and replacement checks. Otherwise, continue to Retirement Income, where we'll put the spending sources together.
 
 ### Visual and source notes — not spoken
 
@@ -2354,7 +2370,7 @@ Choose the relevant current action or deliberate pass, prepare a specific profes
 
 # 6.1 — Define spending, reliable income, and the gap
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -2380,7 +2396,7 @@ That subtraction is useful, but it isn't yet the final withdrawal amount. We hav
 
 Here is a separate extension purely to explain that reconciliation. Suppose total tax for the period is estimated at $12,000 and an additional $6,000 of debt payments has not been counted in the living figure. Total outflow becomes $126,000. With the same $40,000 of gross income, the remaining cash need is $86,000.
 
-Those added figures are hypothetical, not a calculated Reed plan. They show why we shouldn't call the rough $68,000 difference an after-tax paycheck. If the withdrawal itself changes taxes, the final model must solve that relationship too.
+These added figures are assumptions for this example. They show why the rough $68,000 gap is not necessarily the withdrawal you need. If withdrawing more also raises the tax bill, include that change in the calculation.
 
 Use one consistent convention. Start with gross income and include the complete tax outflow, or clearly reconcile the deposits and tax already withheld. Don't subtract withholding and then subtract the entire same tax bill again.
 
@@ -2396,9 +2412,9 @@ That's the shape to look for in the year-by-year view. The gap can be large just
 
 You may discover that the intended life costs more than the starting estimate. Don't fix that by leaving healthcare or a payment out. Decide whether the spending, timing, or funding needs to change.
 
-In the walkthrough, we'll build one complete year: income on one side, all costs on the other, and the portfolio contribution that closes the gap. Then we'll look at the next year where something changes.
+Let's put one year's income on one side and all its costs on the other. Find what investments need to provide, then look at the next year when income or spending changes.
 
-Keep those three numbers in view. We now know what the retirement paycheck needs to accomplish. Next we will identify which accounts can provide it during the early years, before later income and access changes arrive.
+Next we'll identify which accounts can supply that money during the early retirement years.
 
 ### Visual and source notes — not spoken
 
@@ -2418,7 +2434,7 @@ Reconcile a complete retirement year into gross income, all cash costs and the p
 
 # 6.2 — Fund the years before accounts and benefits become available
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -2440,7 +2456,7 @@ Begin with any income that continues. Then identify cash and taxable investments
 
 Now review any retirement-account access you intend to use. Age 59½ is important, but it is not an absolute lock on all retirement money. Regular Roth IRA contributions, qualifying workplace-plan separation rules, certain governmental 457(b) distributions, and structured periodic payments can have different treatment.
 
-Each has conditions. Permission to withdraw, ordinary income tax, and an exception to additional early-distribution tax are separate questions. A plan may not allow the withdrawal you expect even when a tax exception exists. The Advanced access lesson verifies a route before we rely on it.
+Check the conditions for the route you intend to use. The account must allow the withdrawal, and ordinary income tax can still apply even when an early-distribution penalty does not. If your plan depends on using retirement money before 59½, complete the account-access lesson before counting on it.
 
 For the first comparison, use only access you can support. An exception you vaguely remember isn't a funding source.
 
@@ -2460,7 +2476,7 @@ If the early years are short, compare the decision that addresses them. That mig
 
 If the gap is adequately funded, don't keep sending every new dollar to it by habit. The longer-term accounts and tax decisions may deserve attention again. The funding need should guide the contribution, not an unchanging account rule.
 
-The working chapter finishes with a timeline you can explain: when work changes, which source funds each part of the gap, when benefits start, and what access still needs confirmation. Then we'll complete healthcare, one of the most important costs that changes when you leave an employer.
+Put the work changes, benefit dates, and planned withdrawals on the timeline. For each gap, identify the income or account that covers it and confirm the access you need. Then we'll add the healthcare changes.
 
 ### Visual and source notes — not spoken
 
@@ -2480,7 +2496,7 @@ Identify the resource funding each early-retirement interval, the benefit/access
 
 # 6.3 — Price healthcare before leaving employer coverage
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -2502,7 +2518,7 @@ A lower premium can be useful when the coverage fits. It can also mean more cost
 
 For a simple budgeting example, one arrangement might have $12,000 of annual premiums and $3,000 of expected additional costs. That is $15,000 for the ordinary-year estimate. Another might have $8,000 of premiums and $8,000 of expected additional costs: $16,000 despite its lower premium.
 
-Those are invented budgeting amounts, not quotes or descriptions of actual policies. The point is to add the costs before comparing. Then replace expected costs with the actual policy's difficult-year obligations and exclusions. We need to know how that larger bill gets funded too.
+Those are hypothetical costs, not policy quotes. They show why we add premiums and other expenses before choosing. Now check the actual policy's exclusions and what a difficult year could cost, then identify the money that would cover it.
 
 Medical needs matter. Check the clinicians, facilities, prescriptions, and services you expect to use. A plan that is cheaper but excludes something important may not solve the household's problem.
 
@@ -2522,9 +2538,9 @@ Medicare also does not make healthcare free. Budget the relevant premiums, suppl
 
 For a couple, one person may enter Medicare while the other still needs different coverage. Model those periods separately rather than switch the entire household at the older spouse's birthday.
 
-In the working chapter, list the available pre-Medicare choices and compare their ordinary- and difficult-year costs. Record the selected direction or the exact quote or eligibility question still needed. Then enter the transition dates and test the effect on the first retirement years.
+Compare your available coverage options, including an ordinary year and a difficult one. Check the coverage start and end dates before relying on them. If a withdrawal or conversion changes the cost of coverage, complete the healthcare-and-tax comparison before finalizing that year's plan.
 
-The solution is not one universal healthcare number. It is a funded path through the coverage changes, with an identified source for the costs the household still carries.
+Enter the coverage costs for each period and identify how you'll pay the expenses that remain your responsibility.
 
 ### Visual and source notes — not spoken
 
@@ -2544,7 +2560,7 @@ Choose a verified coverage direction and normal/difficult-year budget with funde
 
 # 6.4 — Choose account withdrawals and asset sales separately
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -2582,17 +2598,21 @@ Also distinguish distributions already paid in cash from holdings you need to se
 
 For each meaningful retirement year, follow the chain. What income arrives? What spending and tax remain? Which account supplies the withdrawal? Which asset supplies the cash? What is left afterward?
 
-Alex and Morgan's final demonstration will need their actual adopted spending, income dates, access and tax inputs to answer those questions. The source's rough income example doesn't establish the full strategy. We will read the verified result rather than give them a favorable ending in advance.
+Let's follow the withdrawals in the example plan through the first retirement year and a later tax year. Read the spending, income, and tax assumptions alongside the accounts paying for them.
 
-You may find a simple order already works. Keep it when it meets the purpose. A blend earns its place when the improvement is worth the added decisions and records.
+Keep a simple order when it funds the spending and the tax result fits. Use a blend when the improvement is worth the extra decisions and recordkeeping.
 
-Finish this step with an account-funding rule, an asset preference within it, and the years when a deliberate exception is useful. The next lesson explains how to handle a difficult market sequence without assuming those sales always happen at convenient prices.
+Record which accounts fund spending, what they sell, and the years when you'll use a different approach. Next we'll see what happens when the market declines early in retirement.
 
 ### Visual and source notes — not spoken
 
 Retirement deck waterfall and detailed bracket-trap explanation, corrected current scope: required distributions are mandatory, not last resort. The new work uses tax concepts from5ratherthanreteaching them. Accountorder≠assetsaleorder; netspending≠grosswithdrawal; dividendcash accounted once. Actual blend, account access, tax and funding attribution await verified inputs. Do not claim untouched Bitcoin, Rothalwayslast,or an optimal universal withdrawal order.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+Alex and Morgan's final demonstration will need their actual adopted spending, income dates, access and tax inputs to answer those questions. The source's rough income example doesn't establish the full strategy. We will read the verified result rather than give them a favorable ending in advance.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
@@ -2606,7 +2626,7 @@ Explain the chosen account order or blend, the assets sold inside it, and the ef
 
 # 6.5 — Use the Reserve through a difficult market
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -2652,9 +2672,9 @@ In a steady or stronger period, refilling toward the target may be reasonable. C
 
 For the annual review, read spending and reserve together. A lower spending choice may reduce the cash need. A higher choice can require a larger withdrawal or refill. They should not be two independent instructions that claim the same money.
 
-The walkthrough will show the simple two-year sequence first, then the reserve choice in the actual retirement plan. We'll look at a weak period and a refill decision, keeping the cash inside the portfolio and the model's limitations visible.
+Let's compare the two-year example, then look at the retirement Reserve. In a weak year, how much cash remains, and what would you do as it approaches the floor?
 
-Write the operating rule in ordinary language: the amount of cash you're preparing, what it covers, when you review it, and what happens as it runs down. That gives the household a response it can follow without needing to predict the next market move.
+Write down how much cash you're preparing, what it covers, when you'll review it, and how you will refill it. Include the response you'd use if markets stayed weak longer than hoped.
 
 ### Visual and source notes — not spoken
 
@@ -2674,7 +2694,7 @@ Explain the sequence example and record a finite Reserve-use/refill rule with a 
 
 # 6.6 — Compare selling, borrowing, and using other resources
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -2686,7 +2706,7 @@ Sources: RETIREMENT, DEBT, BRAIN, OWNER, APP, PRIMARY
 
 When you need spending money, you may prefer not to sell Bitcoin. That preference gives us a comparison to make—not a source of cash by itself.
 
-The bill still needs a payer. It might be covered by income, existing cash, another investment sale, a Bitcoin sale, or borrowing. Let's compare what each leaves behind.
+Start with the bill and the money available: income, cash, another investment, a Bitcoin sale, or borrowing. We'll compare what each costs and what it leaves behind.
 
 Start with the same spending need and the same date. A sale needs to provide the cash after its tax and fees. Borrowing needs to provide the same usable amount after loan costs. Comparing gross sale proceeds with net borrowed cash would not be an equal starting point.
 
@@ -2712,17 +2732,21 @@ Sometimes the best comparison is spending less or postponing a discretionary exp
 
 Tax timing matters, but avoiding a sale today does not guarantee avoiding it forever. A later sale to repay the loan, lender liquidation, or a change in the agreement can have consequences. Include the intended exit instead of ending the comparison while debt is still outstanding.
 
-For Alex and Morgan, new borrowing remains a scenario unless deliberately chosen. The existing source does not contain a Bitcoin-backed loan. We won't create one just to make the course demonstrate a strategy.
+Alex and Morgan haven't taken out a Bitcoin-backed loan. We'll compare borrowing separately from the plan they're currently following.
 
-In the working chapter, compare the same net spending across sale, another available source, and a relevant borrowing option. Read the first year, a weak period, and the exit. Keep contract features the app cannot represent in the separately reviewed analysis.
+Compare the same after-tax spending amount through a sale, another available source, and a loan you're considering. Look at the first year, a weak period, and repayment. Analyze any contract terms the app cannot represent separately.
 
-The result should be a rule you can explain: when a sale is acceptable, when another source is preferable, and what would have to be true before borrowing is considered. Preserving Bitcoin is one objective. Keeping the retirement plan workable is the reason for the comparison.
+Choose when you would sell, use another account, or consider borrowing. If you intend to borrow repeatedly for retirement spending, complete the multi-year borrowing lesson before relying on that strategy. It follows the debt from one year's spending into the next.
 
 ### Visual and source notes — not spoken
 
 Retirement sell/borrow/hold framework applies priorDebt mechanics to netspendingandmulti-year exit. Newillustrative20kloan10%simpleone-year=>2kinterest or22kdebt;notratequote/newReeddebt. Preserve repayment/top-up/concentration/contract/pricepathchecks and sameaftertaxneed. No never-sell promise or totalnetworth hiding lender-specific liquidation. Appunsupportedcontracts remainseparate reviewedanalysis.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For Alex and Morgan, new borrowing remains a scenario unless deliberately chosen. The existing source does not contain a Bitcoin-backed loan. We won't create one just to make the course demonstrate a strategy.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
@@ -2736,7 +2760,7 @@ Compare equal net spending through sale, other available resources and borrowing
 
 # 6.7 — Use simulations to compare the plan, not chase a score
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -2772,17 +2796,21 @@ Assumption sensitivity deserves a separate comparison. Hold the household choice
 
 You also don't have to optimize to 100%. That can mean giving up spending or working longer for a margin the household may not choose. The appropriate confidence target is a preference to test alongside flexibility and consequences, not a universal promise of safety.
 
-For the Reeds, use the verified saved example and its actual result. Compare one relevant change, read the same date and input identity, and explain what improved and what was given up. The source fixture does not supply a success rate we need to reproduce.
+Let's change one decision in the example plan. Check that the comparison uses the same starting facts and includes the change, then explain what improved and what the household gave up.
 
-At the end, choose the plan or comparison you prefer and record why. A clear reason could be, “This version supports the spending we value while leaving these practical adjustments available.” Or the result may show a specific gap that needs work before retirement.
+Choose the version you would actually follow and write down why. If it still falls short, name what needs to change before retirement.
 
-The next lesson turns the chosen approach into an annual spending review. That's how the plan stays useful when the actual path differs from the one you originally expected.
+Next we'll turn that choice into a review of what to spend each year.
 
 ### Visual and source notes — not spoken
 
 Use1.5resultliteracy rather than repeatpercentdefinition. Compareoneactualdate/spending/strategy trade-off; examinefundingfailures and feasiblechanges. Exactsimulationmethodology/defaultsuccessstandard,customstress availabilityand receipts require approvedbuild; no syntheticriskscoresorclientoutcomes. Price/custody/provider/taxlaw notall represented. Confidence target remains householdpreference.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For the Reeds, use the verified saved example and its actual result. Compare one relevant change, read the same date and input identity, and explain what improved and what was given up. The source fixture does not supply a success rate we need to reproduce.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
@@ -2794,9 +2822,9 @@ Select a preferred modeled alternative with its real-life trade-off and a practi
 
 ---
 
-# 6.8 — Turn the retirement plan into an annual spending decision
+# 6.8 — Decide what to spend next year
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -2830,11 +2858,11 @@ Connect the spending choice with the Reserve refill. A weak year may support spe
 
 Some events require attention before the annual review. An income loss, a large medical expense, a family change, or a loan nearing a contractual threshold can need a response now. A yearly rhythm is not a reason to postpone a time-sensitive obligation.
 
-For the annual working chapter, start with Current, read the policy status, compare next year's amount, and follow the resulting income and withdrawals. Then decide whether to adopt it. Keep the comparison separate until the household chooses it.
+Start with the current plan and compare next year's spending. Check what it requires from income and investments before saving the amount you choose.
 
-Finish the retirement section with a short operating explanation: what you're planning to spend, which income arrives, which accounts supply the gap, how the Reserve is used and refilled, any borrowing rules, and the next review date.
+Write down next year's spending, the income you expect, the accounts covering the gap, and the Reserve refill. Add any borrowing instructions and the next review date.
 
-Someone should be able to use that explanation to answer how next year's bills get paid. That is the point of the system. It gives you a way to respond to changes without needing a new retirement philosophy every time the market moves.
+Read it back as the answer to one question: how will we pay next year's bills?
 
 ### Visual and source notes — not spoken
 
@@ -2854,7 +2882,7 @@ Record next year's considered spending, funding, Reserve decision and review tim
 
 # 7.1 — Choose who controls each part of the Bitcoin
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -2864,7 +2892,7 @@ Sources: CUSTODY, DICTATION, BRAIN, OWNER, PRIMARY
 
 ### Read aloud
 
-You can have a retirement plan that works on paper and still lose access to the asset it depends on. Custody is how we make the Bitcoin position usable, recoverable, and manageable for the household.
+Who controls your Bitcoin, and how would you get access if something went wrong? That's what we're deciding here. The arrangement needs to work for you now and for the people who may need to help later.
 
 The question isn't, “Which setup looks most advanced?” It is, “Which responsibilities am I willing to carry, and what happens when one part fails?”
 
@@ -2884,25 +2912,37 @@ Then state how important direct control is to you. For some people, retaining me
 
 Here is a useful comparison. Two households hold the same amount. One has a well-understood direct-custody setup, proven recovery, and another person capable of following the process. The other has one operator and a family that would have no idea where to begin.
 
-The second household doesn't necessarily need a more complicated wallet. Its immediate problem may be dependence on one person. Professional support, a simpler arrangement, or a carefully designed split could address that problem more directly than adding keys nobody else understands.
+For the second household, the immediate problem is that everything depends on one person. A simpler setup, professional support, or a split between methods may help more than adding keys the family doesn't know how to use.
+
+Before choosing, list what the setup asks someone to do: verify receiving addresses, maintain secure sign-in and backup access, follow appropriate device and software updates, review provider changes, check the recovery instructions, and keep the family contact list current. Assign a person and a backup for each task. Use the existing custody map rather than create another set of instructions.
+
+Check the tasks on an appropriate practice setup. If an important step keeps getting skipped or needs an explanation every time, simplify the process, practice it, or arrange suitable help. Follow the current official procedure; don't test this by risking the funded wallet.
+
+Compare the cost of help with the work it takes off the household. Paying a provider may be worthwhile for a particular gap, but it adds dependence on that provider. Doing it yourself saves fees only if you can maintain the responsibility. Ask the people involved what they are willing to do.
 
 Now run the one-failure test. What if the provider disappears? The device is lost? The home is inaccessible? The usual operator is unavailable for six months? Which of those events could interrupt or destroy too much of the plan?
 
 Look at shared dependencies. Two devices using the same backup are not independent wallets. Two companies may depend on the same underlying custodian. Several recovery items kept together can fail in the same fire or theft.
 
-You don't have to eliminate every conceivable risk. Find the failure with the greatest consequence and choose a manageable improvement. The safest-looking arrangement on a diagram is not useful if the family cannot operate it.
+Start with the failure that would affect the most important part of the plan. Choose a change the household can actually maintain.
 
-For Alex and Morgan, we will review the actual direct and professionally held Bitcoin in the example without inventing a completed recovery test. We will also keep Bitcoin-fund exposure in retirement accounts separate; its family access relies on the account process, not the wallet backup for personally held coins.
+Let's look at where Alex and Morgan hold their Bitcoin. For each holding, check how they access it and whether they've tested the recovery process. The Bitcoin funds in their retirement accounts follow the account's access and beneficiary process, not the backup for their personal wallet.
 
-Finish with a custody direction and the first unfinished protection step. That might be verifying a backup, securing a provider account, making the non-secret family instructions usable, or comparing professional support for a specific portion.
+Choose the arrangement and the first improvement it needs. That might be a backup check, stronger account security, clearer family instructions, or professional help with a specific portion.
 
-Don't move everything during this discussion. Choose the direction first, prepare and test the destination, and verify the legal and operational process before meaningful money depends on it. The next lesson explains what recovery proof actually means.
+Before moving meaningful money, prepare and test the destination and check its legal and operating requirements. If you're choosing between a passphrase, multisig, or professional support, work through that comparison first. Next we'll look at how to check a wallet backup safely.
 
 ### Visual and source notes — not spoken
 
-Custody deck trade-offs and latest August26 owner-source correction govern over old wealth ladder. Institutional custody is not inferior bydefinition;splitrequiresnamedriskandmaintainability. No client$1mstoryoractualReedrecovery invented. Visualthree methods+architecturechoices;testperson/provider/location/key/configfailures. Support/recourse/insurance are contract-specific. Advanced7.1–7.3 own detailedcomparisons.
+Custody deck trade-offs and latest August26 owner-source correction govern over old wealth ladder. Institutional custody is not inferior bydefinition;splitrequiresnamedriskandmaintainability. No client$1mstoryoractualReedrecovery invented. Visualthree methods+architecturechoices;testperson/provider/location/key/configfailures. Support/recourse/insurance are contract-specific. The related architecture and shared-dependency lessons provide their distinct situational comparisons; former A7.2 is merged here and into 7.4/W07.
 
 ### Production notes
+
+**A7.2 folded into this section:** operating-task assignment, willingness and backup responsibility, safe practice of ordinary tasks, recognizing a need to simplify, and the cost/support trade-off are now taught here. The absence rehearsal and agreement of contacts are in 7.4 and W07. No separate responsibility worksheet or extra lesson is required. The original is pinned in MERGED_LESSON in the generator.
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For Alex and Morgan, we will review the actual direct and professionally held Bitcoin in the example without inventing a completed recovery test. We will also keep Bitcoin-fund exposure in retirement accounts separate; its family access relies on the account process, not the wallet backup for personally held coins.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
@@ -2916,7 +2956,7 @@ Choose a custody direction that addresses the named failure and identify the fir
 
 # 7.2 — Prove recovery before meaningful money depends on it
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -2952,17 +2992,21 @@ Store backups so the failures you're concerned about don't take all copies at on
 
 After a successful test, record only the evidence that is safe to keep in the planning record: which setup was tested, the type of test, date, outcome, and what still needs checking. Don't record the recovery material itself.
 
-For the Reeds, “wallet recorded” and “recovery verified” remain separate statuses. Their fixture tells us what they hold. It doesn't establish that anyone restored a wallet or that Morgan can follow the process.
+Keep recovery status beside each holding. Having a wallet listed doesn't tell the family whether its backup has been checked.
 
-The working chapter should finish with an honest status. Either the relevant check was completed safely and its scope is clear, or there is a named next step before more money relies on the setup. Watching the demonstration is not recovery proof for your wallet.
+Record the check that actually succeeded and which wallet it covered. If you couldn't complete it safely, leave the reason and the next step. Watching someone else's recovery doesn't verify your own backup.
 
-That is the practical benefit of this lesson: you know what you would need after device loss and have a safe way to verify it, instead of discovering the missing piece when the device is already gone.
+You should know what you would need after losing the device and which part of that recovery still needs checking.
 
 ### Visual and source notes — not spoken
 
 Preserve D07 safepractice versusactualwallet distinction. Current officialTrezor guides on walletbackups, Checkbackup, passphrase and troubleshooting checked; exactdevice/format/firmware procedure is still a captureprecondition. Never genericwipe fundedwallet, sharesecrets, assumecheckprovesfullpassphrase/multisig,or claimpracticecertifiesdifferentfundedwallet. Metadataonlyproofandstopconditions retained. A validwordlist≠intendedwallet.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For the Reeds, “wallet recorded” and “recovery verified” remain separate statuses. Their fixture tells us what they hold. It doesn't establish that anyone restored a wallet or that Morgan can follow the process.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
@@ -2974,9 +3018,9 @@ Record the exact scope and result of an appropriate safe recovery check, or a sp
 
 ---
 
-# 7.3 — Harden accounts and remove the largest shared failure
+# 7.3 — Secure your accounts
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -3012,15 +3056,19 @@ Choose one important account and complete the hardening before moving on. Confir
 
 Then apply the same check to the other accounts the family depends on. You don't need a weekly rebuild of every security setting. You need a known configuration, a review rhythm, and a response when a device, provider, or household role changes.
 
-For this chapter, the demonstration will use an authorized example account and show the outcome without exposing credentials or recovery codes. Provider screens change, so final instructions must match the actual version.
+Use the provider's current instructions to check the sign-in method, backup access, and notifications. Keep credentials and recovery codes out of anything you share for help.
 
-Finish knowing how to sign in securely, how to recover legitimate access, and how to verify a warning without following the attacker's instructions. Next we will turn the whole arrangement into a map another person can understand.
+Confirm that you can sign in, recover legitimate access, and verify an urgent warning without following the sender's links. Next we'll put the arrangements into the family map.
 
 ### Visual and source notes — not spoken
 
 CISA phishing-resistant MFA/currentsecurity-key guidance supports mechanism;not absoluteaccountorproviderprotection. Synthetic/provider-authorizeddemonstrationonly. Registerbackupandtestbefore removingsoleworkingfactor. No secretvalues,credentials,liveclientaccountsorattack simulation. Walletdevice≠loginauthenticator. Fix prose article independentlyverified if needed.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For this chapter, the demonstration will use an authorized example account and show the outcome without exposing credentials or recovery codes. Provider screens change, so final instructions must match the actual version.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
@@ -3032,9 +3080,9 @@ Complete and verify the applicable account-hardening and backup-access steps, an
 
 ---
 
-# 7.4 — Record a usable custody plan without exposing secrets
+# 7.4 — Make the family custody map
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -3062,15 +3110,15 @@ A technical helper and a legally authorized person may be different. Knowing how
 
 Use honest status language. “Backup exists” is different from “backup checked.” “Practice recovery succeeded” is different from “this funded setup has been verified.” “Provider contacted” is different from “family access process confirmed.” Record what actually happened.
 
-Then test the map with one absence scenario. Suppose the usual operator is unavailable for six months. Ask the backup person to explain where they start and which accounts or obligations need timely attention. Don't ask them to reveal secrets or move money for the rehearsal.
+Ask the backup person to try the instructions as though you're unavailable for six months. Let them explain where they'd start, whom they'd contact, and which obligations need attention. Don't answer every question for them; the part they can't follow is what needs fixing. This is a rehearsal, with no secrets revealed and no money moved.
 
-If they cannot distinguish the personal wallet from the retirement fund, fix the labels. If they cannot find the professional contact, fix that step. If every answer requires calling the unavailable person, the map has exposed the problem it was meant to find.
+If they confuse the personal wallet with the retirement fund, change the labels. If they can't find the professional contact, fix that step. Check that the contact has agreed to help, and write down what happens if the first person doesn't answer.
 
 Keep the map short enough to use, with the detailed protected instructions maintained separately. Extra pages are not an improvement when they hide the first action.
 
 Also plan for a family member who does not want to keep the same Bitcoin allocation. They need a safe, lawful path to review or liquidate it, not a document that works only if they adopt your conviction. We can protect against rushed mistakes without requiring the heir to become a Bitcoin expert.
 
-Finish by storing a current dated map, telling the relevant people where the safe starting point is, and assigning any unfinished protection task. Then review it when custody, people, or account ownership changes.
+Date the map and make sure the relevant people know where to start. Assign each unfinished task to someone and review it when custody, ownership, or the people involved change.
 
 The next section makes sure the legal authority and family documents agree with this operational picture. A workable custody setup and a workable inheritance plan need each other.
 
@@ -3079,6 +3127,8 @@ The next section makes sure the legal authority and family documents agree with 
 Use existing FamilyCustodyMap, notanotherworkbook. Preserveownership,custodymethod,providerandlegalroutes,scopeofrecoveryproof,operatorbackup,andprivacy ofxpub/configmetadata. Mainmapscontainno secretsorexactsecretlocations. A familyintenttoliquidate is legitimate;noforcedconvictionstory. Tabletopnoactualtransfer.
 
 ### Production notes
+
+**A7.2 rehearsal integration:** use the existing custody map. The helper must consent to the role; let them attempt the non-secret starting steps without coaching every answer, record the actual gap, correct it and try again. No successful rehearsal is claimed by writing this instruction.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
@@ -3090,9 +3140,9 @@ Produce a dated no-secrets map and have the backup person explain the legitimate
 
 ---
 
-# 8.1 — Choose the people and put the legal baseline in place
+# 8.1 — Choose who can act for your family
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -3122,19 +3172,23 @@ An old draft in a folder is not proof a document was properly executed. A nomina
 
 Beneficiary designations deserve a separate check. Some accounts and policies transfer through their own beneficiary or ownership rules rather than following the will in the way you expect. Compare primary and contingent beneficiaries with the intended estate plan and get discrepancies reviewed.
 
-For Alex and Morgan, having children and several account types makes that coordination important. We are not writing them a trust or selecting a guardian in this example. We are identifying the choices and documents that need to agree.
+Alex and Morgan need their children's arrangements and their different account types to agree with their wishes. The guardian, legal documents, and beneficiaries each need a deliberate decision.
 
 Take one account and ask: who owns it today, who is intended to receive it, and which record or process carries that intention? If those answers conflict, you have a specific question for the attorney or provider.
 
-Then choose the highest-impact unfinished action. It might be appointing the right backup person, updating a beneficiary, locating an executed document, or arranging legal review. Give it an owner and a date.
+Start with the most important gap: a missing backup person, an outdated beneficiary, an executed document you can't find, or a legal question. Assign the action and a date.
 
-You do not need every optional structure to finish this step. You need a coherent set of people, documents, and account instructions appropriate to your household. The next lesson tests whether those people can actually use that authority with the assets they would need to manage.
+If a trust may solve a particular family need, use the trust lesson to prepare that discussion with the attorney. Otherwise, keep working with the documents and account instructions your household needs. Next we'll connect the legal authority with practical access.
 
 ### Visual and source notes — not spoken
 
 Estate deck basicroles/documents/beneficiaries and currentlegalboundaries. CFPB POA and trust definitions checked;jurisdiction-specific execution/authority remainattorneyreview. Nominatedexecutor≠currentlyappointed;beneficiarydesignation≠will;trustfundingmatters. No draftedlegalinstrument,chosenReedguardianorautomatictrustrecommendation.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For Alex and Morgan, having children and several account types makes that coordination important. We are not writing them a trust or selecting a guardian in this example. We are identifying the choices and documents that need to agree.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
@@ -3148,7 +3202,7 @@ Align intended people, backups, executed-document status, ownership and benefici
 
 # 8.2 — Connect legal authority with the actual recovery process
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -3186,7 +3240,7 @@ When the answer is unclear, fix that connection. Perhaps the provider hasn't con
 
 A family that expects to sell Bitcoin still needs this process. The goal is an orderly, authorized decision, not convincing a grieving spouse to preserve your exact portfolio. Build instructions that remain useful when the heir's preferences differ.
 
-You finish when the authority, access route, support contact and immediate cash needs connect for the assets that matter. The next lesson puts those first actions into a letter and packet the family can actually use.
+For each important asset, identify who is authorized, how they begin, and whom they can ask for help. Check how the family pays immediate bills while a longer process is underway. Then we'll put those first steps into the letter and packet.
 
 ### Visual and source notes — not spoken
 
@@ -3204,9 +3258,9 @@ Connect lawful authority, operational access, immediate cash needs and technical
 
 ---
 
-# 8.3 — Write and test the first instructions your family will receive
+# 8.3 — Write your family's first instructions
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -3240,19 +3294,23 @@ Now test delivery, not just wording. Can the intended person find the letter whe
 
 Any check-in or delayed-notification service is only an additional communication layer. It needs consent, reliable contact details, a false-alarm process and a test of what is actually delivered. It doesn't replace legal authority or safe custody, and it should not automatically distribute secrets.
 
-For a rehearsal, use a harmless test message and an authorized recipient. Do not stage a real death notice or send sensitive instructions to someone without agreement. If the app has not demonstrated that delivery feature, keep it as an outside task rather than pretend the test occurred.
+Agree on a harmless test message with the recipient before trying a notification service. Check that it arrives and that they can open it. Never use a false emergency or send recovery secrets as part of the test.
 
 Read the first page with the person who would use it. Ask them to describe the first action back to you. Then ask what they would do if the primary contact didn't answer. Their hesitation tells you where the explanation is missing.
 
-Fix the missing step before adding more pages. The useful outcome is a findable starting point and an understandable path to help.
+Fix the step they couldn't follow, then try it again.
 
-For this section's working chapter, prepare the letter and packet, connect them to the existing custody map, and complete the no-secrets rehearsal. Record what was understood and which outside legal or provider action is still needed. The family should know where to begin without being handed unrestricted access to everything.
+Complete your Heir Letter and Executor Packet and connect them to the custody map. Read the first steps with the intended person. Keep any legal or provider question on the action list until it's answered.
 
 ### Visual and source notes — not spoken
 
 Existing HeirLetter/ExecutorPacket examplesandnonssecret deliverystructure. Quoted paragraph is NEW illustrativeletterlanguage forlegal/familyadaptation,notlegaladviceorapprovedReedprocess. No privateclientfacts. Delivery/check-in remainsoptionalproof-requiredactualcapability;harmlessconsentedtestonly;nosecretsorfalseemergencysent.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For a rehearsal, use a harmless test message and an authorized recipient. Do not stage a real death notice or send sensitive instructions to someone without agreement. If the app has not demonstrated that delivery feature, keep it as an outside task rather than pretend the test occurred.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
@@ -3266,7 +3324,7 @@ Complete the Heir Letter and Executor Packet, verify they can be found, and rehe
 
 # 8.4 — Identify the risks you will transfer or carry
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -3276,7 +3334,7 @@ Sources: ESTATE, ESTATE_DECK, RETIREMENT, PRIMARY
 
 ### Read aloud
 
-Insurance is meant to keep a large setback from forcing the rest of the financial plan to absorb a cost it cannot comfortably carry. The useful question isn't how many policies you own. It is which loss would leave the household without a workable response.
+Which loss could the household not comfortably pay for? Start there, then check what your existing insurance would cover.
 
 Start with the risk, then review the protection already in place.
 
@@ -3304,15 +3362,19 @@ Then identify the most important gap. “Confirm whether this benefit continues 
 
 When comparing a replacement, keep existing protection until the new arrangement is actually approved and in force, unless a qualified review establishes a deliberate different plan. A quote or application isn't coverage.
 
-For Alex and Morgan, the lesson gives us the process, not invented policy details or insurability. Their actual audit stays open where the source does not supply coverage evidence.
+Use your actual policy documents for the audit. When a benefit or exclusion is unclear, ask the insurer or a qualified professional before counting on the coverage.
 
-The section is finished when the household understands the risks it is keeping, the ones transferred through actual coverage, and the specific gaps being addressed. Bring premiums and any retained cash needs back into the financial plan. Insurance should protect that plan, not sit in a separate folder nobody checks.
+Record the gaps you're addressing and the costs you've chosen to carry yourself. Put premiums and any cash set aside for those costs into the plan.
 
 ### Visual and source notes — not spoken
 
 Estate/insuranceauditandGlobalBrain risk-gap framework. Generic40k×10=400k is scale-only withall omittedfactorsnamed,notcoverageadviceorReedpolicy. NAICconsumerinsuranceguideindex supports expertpolicyreview;actualtermscontrol. Medicare/noncoveredcarecurrentverification required. Preserveexistingprotectionuntilnewcoverageeffective;noinsurabilityorquote invented.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For Alex and Morgan, the lesson gives us the process, not invented policy details or insurability. Their actual audit stays open where the source does not supply coverage evidence.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
@@ -3326,7 +3388,7 @@ Identify actual coverage, retained risk and the most important gap; verify any r
 
 # 9.1 — Keep a quiet month simple
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -3358,13 +3420,13 @@ Read the result's date and status after updating. Make sure it includes the chan
 
 Then choose the action, if one is needed. Fix an incomplete purchase instruction. Gather a missing statement. Recheck the affordability of an upcoming expense. Keep it specific and small enough to finish.
 
-You don't need to manufacture three tasks. One useful correction—or none—can be the right monthly outcome.
+Some months need one correction. Others need none.
 
 For loans or other time-sensitive obligations, follow their own monitoring schedule. A collateral issue cannot wait for the monthly review just because this is the usual household routine. The debt operating rules still apply.
 
-In the walkthrough, we'll complete an ordinary update, verify the records and result, and finish with the actual next action. We will also show the quiet-month case so the process doesn't teach unnecessary tinkering.
+Let's do an ordinary monthly review. Check the changes and whether they require an action. If everything is current and the plan still fits, you can stop.
 
-Keep the latest plan backup or supported export in its private place and date the update. Then stop. The thorough review comes once a year, when you revisit how the pieces fit together.
+Date the update and keep the latest plan backup privately. The annual review is when we'll revisit how all the decisions fit together.
 
 ### Visual and source notes — not spoken
 
@@ -3384,7 +3446,7 @@ Complete the actual monthly changes, verify current result identity and select o
 
 # 9.2 — Review the whole plan once a year
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -3420,7 +3482,7 @@ After reviewing the areas, read the updated plan as one whole. Are the same doll
 
 Choose only the changes you intend to adopt. For each outside action, record who is responsible and when it will be done. Keep the previous dated version so you can explain what changed and why.
 
-An annual review can end with most decisions unchanged. Record that they were reviewed, the few actions that matter, and the next review date. That is a maintained plan, not an unfinished redesign.
+Record what you reviewed, the changes you chose, and the next review date. Most of the plan may stay the same.
 
 ### Visual and source notes — not spoken
 
@@ -3440,7 +3502,7 @@ Complete the six-area Annual Plan Refresh, adopt only intended changes, and assi
 
 # 9.3 — Handle a life change or a number that does not reconcile
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -3474,9 +3536,9 @@ Don't make several compensating edits to recover a preferred percentage. That ca
 
 If the issue affects a time-sensitive bill, loan threshold or tax deadline, address that practical obligation through the proper channel while the planning discrepancy is being resolved. An app investigation doesn't extend a contract or filing deadline.
 
-The final check is whether the facts, adopted strategy, future events and outside instructions now agree. If they don't, keep the unresolved item visible and avoid executing a decision that depends on it.
+Check that the accounts, spending, future events, and contribution instructions now agree. Keep any remaining issue visible, and don't take an action that depends on an unresolved answer.
 
-This is how the plan stays trustworthy: not by never changing, but by making each change understandable. Next we'll read the completed plan in the order that matters to the household and explain it without needing to narrate every screen.
+Next we'll read the plan as a whole and explain the decisions without walking through every screen.
 
 ### Visual and source notes — not spoken
 
@@ -3496,7 +3558,7 @@ Classify and resolve one material change or discrepancy through supported facts,
 
 # 10.1 — Read the completed plan in a useful order
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -3528,19 +3590,23 @@ A single positive headline cannot replace those funding explanations. Conversely
 
 Review the operating choices next. How will the Reserve be used and refilled? How is spending reconsidered? How would a loan be repaid or reduced? What would make the household act before the scheduled review?
 
-Then confirm protection and family continuity. The map should match the assets and accounts. Recovery evidence should describe the setup actually checked. The legal documents, beneficiaries and family contacts should agree with the intended ownership and roles.
+Check that the custody map matches the holdings and that recovery records describe the setup actually tested. Confirm that the legal documents, beneficiaries, and family contacts still reflect the intended ownership and roles.
 
 Finally, read the outstanding actions. Some may be ordinary implementation: change payroll, open an account, confirm a purchase, or arrange a review. Others may block a major decision, such as an unresolved access route or missing basis for an intended sale. Don't label the entire plan implemented while a blocking question is still open.
 
-In the walkthrough, we'll read the actual saved example and its documents in this order, with no borrowed landing-page numbers or invented model results. The purpose is to demonstrate how the pieces fit, including the honest remaining tasks.
+Let's read the current plan and its documents in that order. Check the numbers against the accounts and funding years, then identify the actions still to complete.
 
-Return to the question you wrote at the start of the course. Your answer should now include a reason: what supports the life you want, what you need to do next, and what would change the plan. That is much more useful than having a number you cannot explain.
+Return to the question you wrote at the start. Can you explain what supports the life you want, what needs to change, and what you'll do next?
 
 ### Visual and source notes — not spoken
 
 Currentcoursefinalreview andsourcehousehold continuity. No landingconfidence/date borrowed or invented Reedresult. Trace actualcriticalyearsandonesavedplan; distinguish blockingquestionsfromdatednonblockingoutsideactions. Reportfactualhonestyandlearnerunderstanding notsoftwaretestonly.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+In the walkthrough, we'll read the actual saved example and its documents in this order, with no borrowed landing-page numbers or invented model results. The purpose is to demonstrate how the pieces fit, including the honest remaining tasks.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
@@ -3552,9 +3618,9 @@ Read one coherent saved plan from life goal through current contributions, criti
 
 ---
 
-# 10.2 — Explain the plan and hand off the next decisions
+# 10.2 — Explain your plan and set the next actions
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -3588,9 +3654,9 @@ Keep future actions tied to their condition. “Redirect this payment after payo
 
 Set the next monthly and annual reviews, with any urgent loan or other monitoring handled separately. You don't have to keep watching the course to keep the plan alive. Use the relevant section again when that decision changes.
 
-The finish line is not certainty about markets. It is an understandable plan, practical instructions, and a way to respond when reality differs from the original assumptions. You should know what is settled, what still needs help, and where to begin tomorrow.
+Before putting the plan away, make sure you know which decisions are settled, what still needs help, and the first action you'll take.
 
-That is the value of putting the decisions together. Instead of asking whether every spare dollar should go into Bitcoin, you can ask which choice best supports the life you are building—and use the plan to compare it.
+When a new question comes up—whether to spend, save more, pay down debt, or change work—you now have a plan to test it against.
 
 ### Visual and source notes — not spoken
 

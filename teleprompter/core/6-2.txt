@@ -10,7 +10,7 @@ Begin with any income that continues. Then identify cash and taxable investments
 
 Now review any retirement-account access you intend to use. Age 59½ is important, but it is not an absolute lock on all retirement money. Regular Roth IRA contributions, qualifying workplace-plan separation rules, certain governmental 457(b) distributions, and structured periodic payments can have different treatment.
 
-Each has conditions. Permission to withdraw, ordinary income tax, and an exception to additional early-distribution tax are separate questions. A plan may not allow the withdrawal you expect even when a tax exception exists. The Advanced access lesson verifies a route before we rely on it.
+Check the conditions for the route you intend to use. The account must allow the withdrawal, and ordinary income tax can still apply even when an early-distribution penalty does not. If your plan depends on using retirement money before 59½, complete the account-access lesson before counting on it.
 
 For the first comparison, use only access you can support. An exception you vaguely remember isn't a funding source.
 
@@ -30,4 +30,4 @@ If the early years are short, compare the decision that addresses them. That mig
 
 If the gap is adequately funded, don't keep sending every new dollar to it by habit. The longer-term accounts and tax decisions may deserve attention again. The funding need should guide the contribution, not an unchanging account rule.
 
-The working chapter finishes with a timeline you can explain: when work changes, which source funds each part of the gap, when benefits start, and what access still needs confirmation. Then we'll complete healthcare, one of the most important costs that changes when you leave an employer.
+Put the work changes, benefit dates, and planned withdrawals on the timeline. For each gap, identify the income or account that covers it and confirm the access you need. Then we'll add the healthcare changes.
