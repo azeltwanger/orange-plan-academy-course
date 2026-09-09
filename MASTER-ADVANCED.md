@@ -280,7 +280,7 @@ A conversion can make sense this year and be too expensive next year. A multi-ye
 
 Start with the unchanged plan. Mark employment income, healthcare coverage, benefits, required distributions and the resources funding the early years. Then choose a limited schedule to compare.
 
-The core lesson explained conversion tax and its funding source. Here we will look at increments and changing years.
+We already worked through the tax on a conversion and where the tax money comes from. Here we'll compare different amounts over several years.
 
 For a separate illustrative tax calculation, suppose converting the first $20,000 adds $4,000 of current cost. Converting another $20,000 adds $6,000 more. The first portion costs 20%; the second costs 30%. Together, a $40,000 conversion costs $10,000, or 25% on average.
 

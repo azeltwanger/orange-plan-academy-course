@@ -418,9 +418,9 @@
       "path": "scripts/05-5_turn-tax-opportunities-into-an-execution-checklist.md",
       "gate": "TAX_REVIEW",
       "sources": "TAX, TAX_DECK, BRAIN, PRIMARY, APP",
-      "words": 687,
-      "spoken_sha256": "57e28772978006a3be3c036323723539b934ee12a8d8f413c083f2e90b4ca4bd",
-      "source_sha256": "6045dedf4cbdb36a277dd3ba478a18205a20e4048bbe840b4faefab0533675fd",
+      "words": 688,
+      "spoken_sha256": "6db37a860a177e8d910255f13a6ab15fb600272242be1c29000a16421e527725",
+      "source_sha256": "b16e117e4ebc350babc280bda71cd378fb3085afa6e741cc9dd054b8e3293a3c",
       "member_group": "Main path"
     },
     {
@@ -728,9 +728,9 @@
       "path": "scripts/advanced/A5-1_build-a-multi-year-conversion-comparison.md",
       "gate": "TAX_REVIEW",
       "sources": "TAX, RETIREMENT, PRIMARY, APP",
-      "words": 505,
-      "spoken_sha256": "de0e0dafbe11b1461e47c238c61df370b45b4ee1385400e5df7fb4faa638b3d6",
-      "source_sha256": "cb6b851db3d6e3fa0d0d869bf2cfefb53f8903dcaf041f4b33e755f2856fc49e",
+      "words": 510,
+      "spoken_sha256": "48d1f5b90a760f97ecab2f50567619477083d5fa75a9eae240d199b7a5baf28f",
+      "source_sha256": "f1089d38a9113627c633eb4efa8e4e8d96d9bdeaba810a106cba818202053b96",
       "member_route": {
         "after": "5.4",
         "when": "You are considering Roth conversions across several years.",

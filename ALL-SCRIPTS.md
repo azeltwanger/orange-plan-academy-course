@@ -1676,7 +1676,7 @@ A conversion can make sense this year and be too expensive next year. A multi-ye
 
 Start with the unchanged plan. Mark employment income, healthcare coverage, benefits, required distributions and the resources funding the early years. Then choose a limited schedule to compare.
 
-The core lesson explained conversion tax and its funding source. Here we will look at increments and changing years.
+We already worked through the tax on a conversion and where the tax money comes from. Here we'll compare different amounts over several years.
 
 For a separate illustrative tax calculation, suppose converting the first $20,000 adds $4,000 of current cost. Converting another $20,000 adds $6,000 more. The first portion costs 20%; the second costs 30%. Together, a $40,000 conversion costs $10,000, or 25% on average.
 
@@ -1720,7 +1720,7 @@ A replacement also raises a legal question. Stock and securities wash-sale rules
 
 So decide the intended exposure and verify the actual replacement before executing. A software button labeled tax-loss harvesting doesn't establish that the transaction qualifies.
 
-Identification is another step to complete in time. Which units are being sold, where are they held, and what documentation makes that selection valid for the transaction date? Broker and unhosted-wallet rules can differ, and temporary relief can change by year. The Advanced lesson goes through a transaction packet when you need it.
+Identification is another step to complete in time. Which units are being sold, where are they held, and what documentation makes that selection valid for the transaction date? Broker and unhosted-wallet rules can differ, and temporary relief can change by year. The harvesting-transaction lesson takes you through the records and instructions before a sale.
 
 Now combine the proposed action with the rest of the year. A conversion, realized gain, bonus, business-income change, or required distribution can use the same income room. Don't review each one as though the others aren't happening.
 
