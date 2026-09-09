@@ -31,21 +31,6 @@
     "6.8",
     "10.2"
   ],
-  "practice_lesson_ids": [
-    "1.5",
-    "2.1",
-    "3.3",
-    "4.3",
-    "4.7",
-    "5.1",
-    "5.4",
-    "6.3",
-    "6.8",
-    "7.4",
-    "8.3",
-    "9.3",
-    "10.2"
-  ],
   "walkthrough_ids": [
     "W01",
     "W03",
@@ -65,5 +50,30 @@
   "inventory_teaching": 65,
   "inventory_practical": 11,
   "post_export_definition_corrections": 1,
-  "post_export_correction": "6.3 separates the provider network from coverage of a service; no policy or technical safeguard removed."
+  "post_export_correction": "6.3 separates the provider network from coverage of a service; no policy or technical safeguard removed.",
+  "historical_practice_lesson_ids": [
+    "1.5",
+    "2.1",
+    "3.3",
+    "4.3",
+    "4.7",
+    "5.1",
+    "5.4",
+    "6.3",
+    "6.8",
+    "7.4",
+    "8.3",
+    "9.3",
+    "10.2"
+  ],
+  "active_practice_lesson_ids": [],
+  "owner_correction": {
+    "base": "26be5dbabbfcfa0c95d9bcead8a41684abcf8f76",
+    "direction": "Remove separate homework; the member applies teaching in their own Orange Plan plan.",
+    "removed_exercise_blocks": 13,
+    "removed_walkthrough_detours": 9,
+    "keep": "Plain-language explanations, instructor worked examples, technical safeguards and actual implementation tasks.",
+    "capstone": "Review the own saved plan and next actions; no listener exam or submission.",
+    "internal_checks": "Historical arithmetic identities remain internal, never member homework."
+  }
 }

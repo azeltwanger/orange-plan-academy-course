@@ -1,6 +1,6 @@
 # 4.7 — Set up contributions and investment purchases
 
-Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
+Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: actual investment elections, comparison/saving and outside execution remain distinct.
 
@@ -65,29 +65,4 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 
 ### Member checkpoint
 
-
-Specify each current and conditional future contribution through account and intended investment; record outside instructions and how completion will be confirmed.
-
-#### Try a different case
-
-These are practice facts, not another part of the Reeds' plan. Use a calculator as needed. Try the question before opening the reasoning.
-
-You have $300 a month available for a new investment. The money is intended for a work break in three years. A taxable account permits access for that use. You have not verified any early-withdrawal route from your retirement account. A card payment may free another $200 later, but the card is not paid off yet.
-
-**Your question:** Explain what can be planned now, which access question is unresolved, and whether a $500 transfer is affordable today.
-
-<details>
-<summary>Check the reasoning</summary>
-
-Only $300 is currently available. The possible $200 belongs to a later phase. Compare a receiving account with access for the work break; do not treat an unverified retirement-account exception as available funding. This is not a rule that all retirement money is locked up. Verify the particular route before relying on it. Choosing an account also does not choose the investment or complete a purchase.
-
-</details>
-
-<details>
-<summary>Now change one circumstance</summary>
-
-The work break is canceled and this new saving is now intended for much later retirement. Revisit the account comparison, including eligibility, tax treatment, costs and investment choices. The earlier taxable-account preference need not remain the best choice for the changed job.
-
-</details>
-
-**Use your own plan:** For each current contribution, state the source, amount, start condition, receiving account and intended investment. Explain why the account and investment fit the time you need the money. Check a future payment before activating the extra transfer.
+Review your contribution plan in Orange Plan. Check the amount available now, the receiving account and what each contribution should buy. Keep future contributions tied to the event that frees up their money. Finish any required payroll, transfer or purchase instruction with the actual provider; saving a plan does not execute it.

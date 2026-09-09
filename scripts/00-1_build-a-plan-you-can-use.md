@@ -1,6 +1,6 @@
 # 0.1 — Build a plan you can use
 
-Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
+Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -21,7 +21,7 @@ It took me four years of holding Bitcoin to realize what I was missing. I had an
 
 We'll work through one decision at a time. I'll explain the choices and show why a household might prefer one. Then you'll compare the choices that fit your life. Your answer does not have to match the example.
 
-Use a calculator and pause when you need to. This is not a test of mental math. What matters is knowing which numbers to use, what the result means, and what you would do with it.
+Keep Orange Plan open as you work through the course. The walkthroughs show you how to use your own numbers, read the results and make the decision. Pause when you need to; you do not need to do the calculations in your head.
 
 Start with what you want the money to make possible. You might want to retire, reduce your hours, change careers, or spend more time with your family. Give that goal an initial date and spending amount. We need something specific to test, not a date we have to make the numbers approve.
 
@@ -33,7 +33,7 @@ First, we'll get a believable starting picture. Then we'll work out what money i
 
 For example, choosing to invest more only helps if the cash flow supports it. Choosing a Roth account only solves the problem when that account fits the purpose and access you need. That's why the order matters. Each section uses a decision you've already made.
 
-Watch each lesson, then do the matching walkthrough before moving on. Some lessons are marked For your situation. Read the question beside them: when your plan uses that strategy, complete the lesson before relying on it. Otherwise, carry on with the main path. Take a section a week or use a pace that fits your life.
+Watch the lesson, follow the walkthrough, and apply it to your own plan in Orange Plan. Some lessons are marked For your situation. Read the question beside them: when your plan uses that strategy, complete the lesson before relying on it. Otherwise, carry on with the main path. Go at a pace that fits your life.
 
 Some work will take longer than the lesson. You can choose a reserve target today even though funding it takes months. Legal documents may need an attorney. Write down the next action and when you'll do it, so those decisions don't get lost as you continue.
 

@@ -1,6 +1,6 @@
 # 4.3 — Build the rest of the portfolio around your life
 
-Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
+Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: timeframe calculations are teaching illustrations, not evidence of a per-bucket target editor or an engine-generated recommendation.
 
@@ -97,29 +97,4 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 
 ### Member checkpoint
 
-
-Build the whole proposed portfolio: identify funded jobs, choose the relevant investment types and amounts with reasons, compare an alternative, and check the first actual spending need.
-
-#### Try a different case
-
-These are practice facts, not another part of the Reeds' plan. Use a calculator as needed. Try the question before opening the reasoning.
-
-A separate practice household has $400,000 of financial assets. It wants to test $200,000 in Bitcoin. It has already chosen a $30,000 Reserve and a separate $10,000 purchase next year, both funded from these assets. It expects not to use the remaining money for at least twelve years and wants broad ownership of businesses alongside Bitcoin.
-
-**Your question:** Find the cash amount and the amount left for long-term investments. Explain why broad stock funds are a relevant choice for the remaining job. Do not use the sample course percentages as the reason.
-
-<details>
-<summary>Check the reasoning</summary>
-
-$30,000 plus $10,000 is $40,000 for the stated cash jobs. $400,000 minus $200,000 minus $40,000 leaves $160,000. That gives 50% Bitcoin, 10% cash and 40% remaining. Broad stock funds fit the stated wish for business ownership without picking only a few companies; compare actual holdings, costs and overlap before choosing a fund. Other investments can be reasonable when the purpose or preferences differ. This is not a recommended allocation.
-
-</details>
-
-<details>
-<summary>Now change one circumstance</summary>
-
-Now the household chooses to have another $60,000 available in cash for separate retirement payments. It keeps the same Bitcoin amount for this comparison. Cash becomes $100,000 and the other long-term money becomes $100,000: 50%, 25% and 25%. It cannot keep the original $160,000 investment and count the same $60,000 as new cash. Explain what keeping more cash gives up. The Bitcoin amount can also be revisited when the total plan does not fit.
-
-</details>
-
-**Use your own plan:** Use your own spending jobs and investment preferences. Compare two relevant arrangements and explain why you prefer one. Timeframes are uses of money, not a requirement to open three accounts or use the same mix in every account.
+Use your own holdings and spending dates to build the portfolio in Orange Plan. Work out what the Bitcoin and non-Bitcoin money needs to provide, then compare the investments and amounts that fit those uses. Keep your current mix when it already fits; change it when the comparison gives you a reason. Timeframes do not require separate accounts or the same mix in every account.

@@ -185,13 +185,6 @@ This is one replacement recording plan, not a summary plus an alternate cue set.
 
 Preserve the accepted Reserve lesson and all of W02, the Reed source fixture, member toolkit, original dictation, capture register and historical cleanup. This run sheet does not prove an app calculation, a signed loan, a provider/device operation, legal authority, learner comprehension or publication readiness. Final recording needs the approved build and real evidence for the behavior shown.
 
+### Application in the member's own plan — production guidance
 
-### Apply the lesson with different facts — production guidance
-
-After chapter 3, have the member fit their own Reserve and extra-debt choices into the same available amount. The 3.3 practice case tests the arithmetic first. Do not grade the choice by whether its split matches the Reeds.
-
-Use the existing Member checkpoint in the linked teaching script; no second workbook is needed. Let the learner attempt the question before showing its explanation. A valid alternative needs a reason and workable funding, not the example household's settings. Do not record a simulated attempt as a real member outcome.
-
-Prepared narration cue: “Before we copy any numbers, explain the choice you are making. Which facts in your situation matter? Compare the alternative you would actually consider, then read what it changes.”
-
-Primary checkpoint: [3.3](../../scripts/03-3_give-every-existing-debt-a-job.md). The app's actual fields, results, access and saved-state behavior retain their existing checks.
+Use the member's own debts, current cash flow and chosen Reserve pace. Apply the existing comparisons only when a financing choice is relevant. The work is making a funded repayment choice in their plan, not reproducing the Reeds' split or passing a separate arithmetic test.

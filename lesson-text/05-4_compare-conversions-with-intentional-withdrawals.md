@@ -1,6 +1,6 @@
 # 5.4 — Compare conversions with intentional withdrawals
 
-Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
+Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -73,29 +73,4 @@ September 8, 2026: P04; S2, S8. Verify Form 8606 definitions/year-end values per
 
 ### Member checkpoint
 
-
-Compare no change, spending withdrawal and conversion on consistent funding assumptions; record a considered amount/range and tax source or a reason to decline.
-
-#### Try a different case
-
-These are practice facts, not another part of the Reeds' plan. Use a calculator as needed. Try the question before opening the reasoning.
-
-Use the lesson’s simplified $30,000 conversion with $6,000 of additional tax paid from separate assets. The comparison without a conversion keeps those separate assets invested. All other assumptions remain as stated in the lesson.
-
-**Your question:** Explain why comparing only the final Roth and Traditional balances is incomplete. Then identify the current money used for tax.
-
-<details>
-<summary>Check the reasoning</summary>
-
-The tax-payment assets have a cost too: the no-conversion version keeps them and their later growth. Compare total after-tax resources and usable early money, not just the bigger Roth account. Equal assumed tax rates in the simplified doubling example produce equal total spendable amounts; that is not a prediction that real strategies always tie.
-
-</details>
-
-<details>
-<summary>Now change one circumstance</summary>
-
-Now only $4,000 is available for additional tax after other commitments. The assumed $6,000 bill is $2,000 short. A smaller conversion, waiting or another genuinely available source needs comparing. Do not guess a new conversion amount by scaling a real tax bill without recalculating it; marginal rates and other effects can change.
-
-</details>
-
-**Use your own plan:** Compare no conversion and a manageable proposed amount using the same life and assumptions. Name the tax source, what using it gives up and what could make a different amount preferable. The correct conclusion can be no conversion.
+When a conversion is relevant, compare it with your current plan in Orange Plan while keeping the same spending and investment assumptions. Check the money paying the tax, the cash left for the early years and what each version leaves later. Compare a smaller conversion when useful. Keep the current plan if the change does not help or a needed fact is still missing.

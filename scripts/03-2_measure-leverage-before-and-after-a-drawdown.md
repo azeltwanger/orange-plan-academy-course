@@ -1,6 +1,6 @@
 # 3.2 — Measure leverage before and after a drawdown
 
-Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
+Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
 Adapted source: original Debt Strategy two-ratio, drift and LTV teaching; current course distinctions and unchanged Reed fixture.
 App references: ratios and arithmetic graphics are not verified app outputs or lender terms.
 

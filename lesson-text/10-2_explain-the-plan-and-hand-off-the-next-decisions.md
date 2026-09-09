@@ -1,6 +1,6 @@
 # 10.2 — Explain your plan and set the next actions
 
-Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
+Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -11,23 +11,19 @@ Sources: REVIEW, CLIENT_THEMES, LANDING, OWNER
 ### Read aloud
 
 
-A financial plan becomes more useful when you can explain it to someone else without opening every calculation. That is the final exercise.
+Your plan is now in Orange Plan. Let's finish by checking what you'll do next and how you'll keep it useful.
 
-Choose the person who needs to understand it: a spouse, a trusted helper, or the professional reviewing a particular decision. They don't all need the same level of detail, but they should be able to find the part relevant to them.
+Start with the life you're planning for. Does the saved plan reflect when you want to reduce work, what you want to spend, and the other commitments you intend to fund?
 
-Start with what the plan is for. “We want to reduce work at this point and support this kind of spending.” Then explain what funds that life and what the result depends on.
+Look at the money available now and the years when the funding changes. Use your own amounts. Check that the next contribution goes to the account and investment you chose, and that future contributions begin only when their money becomes available.
 
-You might say, “The early years use these accessible accounts while later income begins. This cash is for the Reserve and approaching payments. These investments are for the longer run. Here is the contribution we are making now, and here is what changes when the debt ends.” Use your own decisions and amounts, not a script memorized from the example. The reason matters: which need does the choice meet, and what do you give up to make it?
+If something is unclear, open that part of the plan. A withdrawal should have a source. A proposed change should show what it improves and what you give up. You may find that your current choice still fits. There is no need to change it just to finish a lesson.
 
-Then explain the difficult case. What would you do if income stopped or investments disappointed? Which spending could change? What cannot be delayed? Which rule calls for attention? The listener doesn't need to share every market opinion to understand the household response.
+When you share finances with someone, use the Household Plan Summary to discuss the decisions that affect both of you. Show what funds the early years, why you chose the investment mix, and which spending could change during a difficult period. You don't have to walk through every calculation.
 
-Ask them to explain the next action back to you. Don't settle for “that makes sense.” Can they identify which account receives the contribution, how next year's spending is funded, or where the family instructions begin?
+For anyone who needs to help manage the household, make the relevant starting instructions easy to find. The family handoff section already covers those arrangements; this is not a second rehearsal or another document to complete.
 
-Then change one fact in the conversation. Suppose work ends earlier, a new bill arrives, or someone no longer wants the current investment mix. Ask which part of the plan needs another look and what two choices you would compare. You don't have to decide immediately; you should know how to begin.
-
-Their question can reveal a useful gap. If they ask where a payment comes from, show the source. If they confuse a future contribution with money available now, correct the timeline. If they can't find the family contact, improve the document rather than give another lecture about custody.
-
-Use the existing Household Plan Summary for that conversation. Keep the supporting calculations nearby, but don't make the summary a copy of every table. It should guide someone into the detail when a question needs it.
+Use the existing summary when sharing is useful. Keep the details in Orange Plan rather than copy every table into a separate explanation.
 
 Share selectively. A professional reviewing a conversion needs the relevant income and account facts. A family member beginning an emergency process needs the safe instructions and contacts. Neither normally needs wallet recovery secrets in an ordinary planning document. Review an export before sending it, and distinguish a summary from a restoration backup.
 
@@ -43,7 +39,7 @@ When a new question comes up—whether to spend, save more, pay down debt, or ch
 
 ### Visual and source notes — not spoken
 
-Originalvideo deliveryproblem→workthrough→useanswer only, nofinancialformulasborrowed. Actual teach-backbylistener remainsunperformeduntilrecorded. Use existing summaryandactionlist; no newworkbook, serviceentitlement,unlimitedsupportor3kvalueclaim. Verifyprivacybeforeexport and current/futureoutsideexecution.
+The video supplies delivery structure only, not financial formulas. Finish in the member's own saved plan. Sharing is for an actual household or professional purpose, not an oral assessment or completion gate. Use existing materials only; retain privacy and actual-execution distinctions.
 
 ### Production notes
 
@@ -53,29 +49,4 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 
 ### Member checkpoint
 
-
-Have the relevant listener explain the next action, fix any gap, share only appropriate information, and record implementation evidence and review dates.
-
-#### Try a different case
-
-These are practice facts, not another part of the Reeds' plan. Use a calculator as needed. Try the question before opening the reasoning.
-
-Consider stopping work one year earlier than in your current plan. This is only an idea to compare, not an instruction to retire.
-
-**Your question:** Without copying the Reeds, explain which inputs change, what stays fixed for the first comparison, and where the extra year’s spending would come from.
-
-<details>
-<summary>Check the reasoning</summary>
-
-Change the intended work and income timing for the right person, keep spending and investment assumptions fixed first, and inspect the affected funding years. Additional withdrawals and fewer contributions may change the result. No retirement result can be invented from this prompt. Identify the actual source and any access or tax condition before calling the extra year funded.
-
-</details>
-
-<details>
-<summary>Now change one circumstance</summary>
-
-Now suppose only one partner reduces work while the other continues. Do not end both incomes. Recheck the household gap and compare the specific choices it affects, not every strategy at once.
-
-</details>
-
-**Use your own plan:** Explain one preference in your own plan, the fact that supports it, a realistic alternative and the circumstance that would make you revisit it. Different plans are acceptable. A missing consequential fact is a specific question to resolve—not evidence the plan works.
+Review your saved plan and settle the next real action. Keep current and future contributions separate, identify anything still needing confirmation, and set the next review. Share the relevant summary when someone needs it. There is no separate case to solve, explanation to submit, community post or course approval required.

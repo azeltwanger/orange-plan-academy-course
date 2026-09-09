@@ -116,13 +116,6 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 
 This file replaces the prior duplicate summary/detail/cue sets with one chapter sequence. Original sources, the fixed household, member documents and the capture register remain unchanged. No real recording, provider action or learner result is certified.
 
+### Application in the member's own plan — production guidance
 
-### Apply the lesson with different facts — production guidance
-
-Use the 5.1 practice case after the first sale explanation. Before finalizing chapter 4, ask the 5.4 tax-funding question and require the no-conversion resources to remain visible. Professional verification supports the specific transaction; it is not the learner's answer to the entire decision.
-
-Use the existing Member checkpoint in the linked teaching script; no second workbook is needed. Let the learner attempt the question before showing its explanation. A valid alternative needs a reason and workable funding, not the example household's settings. Do not record a simulated attempt as a real member outcome.
-
-Prepared narration cue: “Before we copy any numbers, explain the choice you are making. Which facts in your situation matter? Compare the alternative you would actually consider, then read what it changes.”
-
-Primary checkpoint: [5.1](../../scripts/05-1_understand-what-a-sale-would-realize.md). The app's actual fields, results, access and saved-state behavior retain their existing checks.
+Go directly from the explanation to the member's records and the sale, withdrawal or conversion relevant to their plan. Keep current tax funding and later resources visible in the actual comparison. Missing consequential facts remain specific tasks; professional confirmation must not replace teaching the comparison. No practice sale or case worksheet is required.

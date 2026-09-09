@@ -16,7 +16,7 @@ It took me four years of holding Bitcoin to realize what I was missing. I had an
 
 We'll work through one decision at a time. I'll explain the choices and show why a household might prefer one. Then you'll compare the choices that fit your life. Your answer does not have to match the example.
 
-Use a calculator and pause when you need to. This is not a test of mental math. What matters is knowing which numbers to use, what the result means, and what you would do with it.
+Keep Orange Plan open as you work through the course. The walkthroughs show you how to use your own numbers, read the results and make the decision. Pause when you need to; you do not need to do the calculations in your head.
 
 Start with what you want the money to make possible. You might want to retire, reduce your hours, change careers, or spend more time with your family. Give that goal an initial date and spending amount. We need something specific to test, not a date we have to make the numbers approve.
 
@@ -28,7 +28,7 @@ First, we'll get a believable starting picture. Then we'll work out what money i
 
 For example, choosing to invest more only helps if the cash flow supports it. Choosing a Roth account only solves the problem when that account fits the purpose and access you need. That's why the order matters. Each section uses a decision you've already made.
 
-Watch each lesson, then do the matching walkthrough before moving on. Some lessons are marked For your situation. Read the question beside them: when your plan uses that strategy, complete the lesson before relying on it. Otherwise, carry on with the main path. Take a section a week or use a pace that fits your life.
+Watch the lesson, follow the walkthrough, and apply it to your own plan in Orange Plan. Some lessons are marked For your situation. Read the question beside them: when your plan uses that strategy, complete the lesson before relying on it. Otherwise, carry on with the main path. Go at a pace that fits your life.
 
 Some work will take longer than the lesson. You can choose a reserve target today even though funding it takes months. Legal documents may need an attorney. Write down the next action and when you'll do it, so those decisions don't get lost as you continue.
 
@@ -2772,23 +2772,19 @@ Return to the question you wrote at the start. Can you explain what supports the
 
 ## 10.2 — Explain your plan and set the next actions
 
-A financial plan becomes more useful when you can explain it to someone else without opening every calculation. That is the final exercise.
+Your plan is now in Orange Plan. Let's finish by checking what you'll do next and how you'll keep it useful.
 
-Choose the person who needs to understand it: a spouse, a trusted helper, or the professional reviewing a particular decision. They don't all need the same level of detail, but they should be able to find the part relevant to them.
+Start with the life you're planning for. Does the saved plan reflect when you want to reduce work, what you want to spend, and the other commitments you intend to fund?
 
-Start with what the plan is for. “We want to reduce work at this point and support this kind of spending.” Then explain what funds that life and what the result depends on.
+Look at the money available now and the years when the funding changes. Use your own amounts. Check that the next contribution goes to the account and investment you chose, and that future contributions begin only when their money becomes available.
 
-You might say, “The early years use these accessible accounts while later income begins. This cash is for the Reserve and approaching payments. These investments are for the longer run. Here is the contribution we are making now, and here is what changes when the debt ends.” Use your own decisions and amounts, not a script memorized from the example. The reason matters: which need does the choice meet, and what do you give up to make it?
+If something is unclear, open that part of the plan. A withdrawal should have a source. A proposed change should show what it improves and what you give up. You may find that your current choice still fits. There is no need to change it just to finish a lesson.
 
-Then explain the difficult case. What would you do if income stopped or investments disappointed? Which spending could change? What cannot be delayed? Which rule calls for attention? The listener doesn't need to share every market opinion to understand the household response.
+When you share finances with someone, use the Household Plan Summary to discuss the decisions that affect both of you. Show what funds the early years, why you chose the investment mix, and which spending could change during a difficult period. You don't have to walk through every calculation.
 
-Ask them to explain the next action back to you. Don't settle for “that makes sense.” Can they identify which account receives the contribution, how next year's spending is funded, or where the family instructions begin?
+For anyone who needs to help manage the household, make the relevant starting instructions easy to find. The family handoff section already covers those arrangements; this is not a second rehearsal or another document to complete.
 
-Then change one fact in the conversation. Suppose work ends earlier, a new bill arrives, or someone no longer wants the current investment mix. Ask which part of the plan needs another look and what two choices you would compare. You don't have to decide immediately; you should know how to begin.
-
-Their question can reveal a useful gap. If they ask where a payment comes from, show the source. If they confuse a future contribution with money available now, correct the timeline. If they can't find the family contact, improve the document rather than give another lecture about custody.
-
-Use the existing Household Plan Summary for that conversation. Keep the supporting calculations nearby, but don't make the summary a copy of every table. It should guide someone into the detail when a question needs it.
+Use the existing summary when sharing is useful. Keep the details in Orange Plan rather than copy every table into a separate explanation.
 
 Share selectively. A professional reviewing a conversion needs the relevant income and account facts. A family member beginning an emergency process needs the safe instructions and contacts. Neither normally needs wallet recovery secrets in an ordinary planning document. Review an export before sending it, and distinguish a summary from a restoration backup.
 
