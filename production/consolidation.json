@@ -1,0 +1,899 @@
+{
+  "schema_version": 1,
+  "base_commit": "c4c55601dfdaa893343623a75f478cbbfef120ad",
+  "owner_direction": "25 main recordings and 8 situation-specific recordings; script-first; no slides or homework; keep accepted Reserve unchanged; teach decisions using the member's plan.",
+  "pending_script_only_package_sha256": "a49e710455fe6996315c272f3f0ff450c9835fdf5d4017feeb1691b96ad3eaa0",
+  "main_ids": [
+    "0.1",
+    "1.2",
+    "1.4",
+    "1.5",
+    "2.1",
+    "2.3",
+    "2.4",
+    "3.1",
+    "3.4",
+    "3.6",
+    "4.3",
+    "4.5",
+    "4.7",
+    "5.1",
+    "5.4",
+    "6.1",
+    "6.3",
+    "6.6",
+    "6.8",
+    "7.1",
+    "7.2",
+    "8.1",
+    "8.4",
+    "9.1",
+    "10.1"
+  ],
+  "situation_ids": [
+    "2.5",
+    "A3.1",
+    "A3.2",
+    "A5.1",
+    "A5.2",
+    "A6.3",
+    "A7.1",
+    "A8.1"
+  ],
+  "walkthrough_ids": [
+    "W01",
+    "W02",
+    "W03",
+    "W04",
+    "W05",
+    "W06",
+    "W07",
+    "D07",
+    "W08",
+    "W09",
+    "W10"
+  ],
+  "chapter_routes": {
+    "0.1": "Orientation; begin your own plan",
+    "1.2": "W01 chapters 1–7",
+    "1.4": "W01 chapter 8",
+    "1.5": "W01 chapters 9–10, including Ask when available",
+    "2.1": "W02 chapters 1–3",
+    "2.3": "W02 chapters 4–5",
+    "2.4": "W02 chapter 6",
+    "3.1": "W03 chapters 1 and 3",
+    "3.4": "W03 chapter 4",
+    "3.6": "W03 chapters 2 and 5–6",
+    "4.3": "W04 chapters 1–3",
+    "4.5": "W04 chapters 5–6",
+    "4.7": "W04 chapters 4 and 7–8",
+    "5.1": "W05 chapter 1; chapter 2 only when records need repair",
+    "5.4": "W05 chapters 3–4; chapters 5–6 for a relevant transaction",
+    "6.1": "W06 chapters 1–2 and 4",
+    "6.3": "W06 chapter 3",
+    "6.6": "W06 chapter 6",
+    "6.8": "W06 chapters 5 and 7–8",
+    "7.1": "W07 chapter 1",
+    "7.2": "W07 chapters 2–3 and D07 only for the applicable safe setup",
+    "8.1": "W07 chapter 4 and W08 chapters 1–4",
+    "8.4": "W08 chapter 5",
+    "9.1": "W09 chapters 1–5",
+    "10.1": "W10 chapters 1–5"
+  },
+  "reference_files": {
+    "A1.1": "reference/custom-assumptions.md",
+    "A5.3": "reference/state-move.md",
+    "A7.4": "reference/bitcoin-output-management.md"
+  },
+  "baseline_words": {
+    "main": 39097,
+    "situations": 8718
+  },
+  "mapping": [
+    {
+      "old_id": "0.1",
+      "old_title": "Build a plan you can use",
+      "old_path": "scripts/00-1_build-a-plan-you-can-use.md",
+      "source_sha256": "9dba74e88830696ab36c23353315b20a9b403466b1a7304ea7d59ce33cf9d4a8",
+      "spoken_sha256": "46f224a980eec99b90ac6c36aa8013367916b7c41083ba70018ae99f74fe94fd",
+      "latest_delivered_source_sha256": "6d6b5a3771f78b68dac86e803d2d9364318ca453f8da30582125e6f25cc4a971",
+      "destinations": [
+        "0.1"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "0.2",
+      "old_title": "Use Ask to understand your own numbers",
+      "old_path": "scripts/00-2_use-ask-to-understand-your-own-numbers.md",
+      "source_sha256": "f9d8c17292655553a24f629969a5872b8b46d28d1d506d55fce07f8c8dec9dd7",
+      "spoken_sha256": "ccf4290d14acb3bfafba29ede82b25b398cd045c083a79c5dc1887294c7975e1",
+      "latest_delivered_source_sha256": "155792e1ff9b04fd125b304047010cbeb0e1d44f9233fb4923d18bb422cc1c14",
+      "destinations": [
+        "1.5"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "1.1",
+      "old_title": "Decide what belongs in your saved plan",
+      "old_path": "scripts/01-1_decide-what-belongs-in-your-saved-plan.md",
+      "source_sha256": "36546c843b43a1658a926032107dc7af9f55efc0a681046f3fb59f0b20b694cf",
+      "spoken_sha256": "66f960bd13310b0adcec2064eea1734ed10a94e55e38abf0c20e185d0915ce27",
+      "latest_delivered_source_sha256": "8a4eed24909c668bff48838c1cf78cb4a39446c195219688fa781811a44754f0",
+      "destinations": [
+        "0.1",
+        "1.2"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "1.2",
+      "old_title": "Add accounts and show what each one owns",
+      "old_path": "scripts/01-2_add-accounts-and-show-what-each-one-owns.md",
+      "source_sha256": "5d76c81577b0b13b8772be521699fa11293a0acb054428befa83f4f29910b77e",
+      "spoken_sha256": "c81163346d35bb9bcc10b7c8f2a47e49380770898c3ba92774c823ca89879015",
+      "latest_delivered_source_sha256": "0128e87228cc34d31b04cdfe2f16210a65f0c8e3824f33dacd4d816b31814c4e",
+      "destinations": [
+        "1.2"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "1.3",
+      "old_title": "Enter income, spending, debts, and the retirement starting point",
+      "old_path": "scripts/01-3_enter-income-spending-debts-and-the-retirement-starting-point.md",
+      "source_sha256": "f4dd0ddf8a0205ab8f896f0b013d9afe7ac152823177d6313d6009f3e78f0a5f",
+      "spoken_sha256": "1f8940552fa634fef01fcee655a5c54f5fbb040efba560d41ca4f9ff72d8d651",
+      "latest_delivered_source_sha256": "7906cbee08387aa384879deb9286fb8ec45f2c2d3ce757602645e1e1012f2164",
+      "destinations": [
+        "1.2"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "1.4",
+      "old_title": "Choose assumptions you can explain",
+      "old_path": "scripts/01-4_choose-assumptions-you-can-explain.md",
+      "source_sha256": "baa26576f3026307a4cb037d4ce2bdd4d243aca55d745d6fdf9af3baba537d80",
+      "spoken_sha256": "23465e0b86479960aa00d27cfb4c5161897525fe64d6f1896bc03556e321e63e",
+      "latest_delivered_source_sha256": "469e122e90701058bd09a1937e7a1864f9a593cf3aba49edd7bdbae0fafa0906",
+      "destinations": [
+        "1.4"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "1.5",
+      "old_title": "Read the first answer and choose the next improvement",
+      "old_path": "scripts/01-5_read-the-first-answer-and-choose-the-next-improvement.md",
+      "source_sha256": "84f1d12d7a0cebde352e71a20599923f8ce5e875d2c1ff815f617a24d5f3fef6",
+      "spoken_sha256": "b50cd536d2eefada7e80bb00c804f4a4844e7fc92f05e1bd3cb321654b947009",
+      "latest_delivered_source_sha256": "b4b7bf573760397889050fc3f3682b9d9e7b580b6556c3d063526191049c0f62",
+      "destinations": [
+        "1.5"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "2.1",
+      "old_title": "Find the amount your plan actually has available",
+      "old_path": "scripts/02-1_find-the-amount-your-plan-actually-has-available.md",
+      "source_sha256": "9ee3aa94688c0b00d482fed2bed2c0c07e09ca65114c4330d32c8d4a6e610f2d",
+      "spoken_sha256": "b605a14ce4a711aea7f2848b8195b39031bbff3eec7a4468ccc8968b8f68f545",
+      "latest_delivered_source_sha256": "1b5d11be0918492af3564794c41dbe3e7d109b7ed5b91e8c6342543b48e6895c",
+      "destinations": [
+        "2.1"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "2.2",
+      "old_title": "Free up money without cutting the life you value",
+      "old_path": "scripts/02-2_free-up-money-without-cutting-the-life-you-value.md",
+      "source_sha256": "99f62418120d4db9e0bbe703957cff70b27b3d28e492eb61be5aa36c14257fcd",
+      "spoken_sha256": "3e2f5f0dd8f474a2ccdff921028914a2ec179fc9ea08be3e976677ecbb07a9b5",
+      "latest_delivered_source_sha256": "99f62418120d4db9e0bbe703957cff70b27b3d28e492eb61be5aa36c14257fcd",
+      "destinations": [
+        "2.1"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "2.3",
+      "old_title": "Size the Reserve for the job it has to do",
+      "old_path": "scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md",
+      "source_sha256": "acd2369ac4bc7933865ba6f4c7d492444df364f64ed5dca589422dae329a3c40",
+      "spoken_sha256": "7544e9376a1264268a720af0ebacba00cda68f9cc95d2ecd383428e618fbddde",
+      "latest_delivered_source_sha256": "acd2369ac4bc7933865ba6f4c7d492444df364f64ed5dca589422dae329a3c40",
+      "destinations": [
+        "2.3"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "2.4",
+      "old_title": "Put future changes on the timeline",
+      "old_path": "scripts/02-4_put-future-changes-on-the-timeline.md",
+      "source_sha256": "a20969009f8cb5e1a0d10900bc11a25a8414112e194f7fa7c2d79a0503e244ec",
+      "spoken_sha256": "e6b5160056b16b97bc91389ecbe5f3cdb0bdabab5a00ce8cc4de4917efca35f8",
+      "latest_delivered_source_sha256": "98e78135cd41363652f4c687aef7c6ec6d6f522aa30550914cee3e34c8dd3f2c",
+      "destinations": [
+        "2.4"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "2.5",
+      "old_title": "Decide how much college help you will provide",
+      "old_path": "scripts/02-5_decide-how-much-college-help-you-will-provide.md",
+      "source_sha256": "d75fcbe00d0cd3d40250f75605517c1d88b4e636567e247d9edb98433b15b40f",
+      "spoken_sha256": "9cea82ffb8e337b91ad197c486fbb97d92899d274e85062aa09a45d3e530637d",
+      "latest_delivered_source_sha256": "059ccbe63ecc66fa0061c527bd5c0e43f5e4aa557bc00590c4e4307f65576176",
+      "destinations": [
+        "2.5"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "3.1",
+      "old_title": "Measure the payment pressure you actually carry",
+      "old_path": "scripts/03-1_measure-the-payment-pressure-you-actually-carry.md",
+      "source_sha256": "8487dde3c7c7e0cebb951a856c0653a8030f6da453ccd5b92b015f4996bd7672",
+      "spoken_sha256": "422d2ac760e9db422b487c5bf384e1e57de39fd5f5616751a54db81141d43ba8",
+      "latest_delivered_source_sha256": "8487dde3c7c7e0cebb951a856c0653a8030f6da453ccd5b92b015f4996bd7672",
+      "destinations": [
+        "3.1"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "3.2",
+      "old_title": "Measure leverage before and after a drawdown",
+      "old_path": "scripts/03-2_measure-leverage-before-and-after-a-drawdown.md",
+      "source_sha256": "a92f7d8c7912de6911f6f5b9570cdd1f2e488610bb54f162e023ed7678305191",
+      "spoken_sha256": "692d414868f0726e09f5a3c10b9e89e134cb44b0a47cf496b0d8e5cbe9bc6a53",
+      "latest_delivered_source_sha256": "a92f7d8c7912de6911f6f5b9570cdd1f2e488610bb54f162e023ed7678305191",
+      "destinations": [
+        "3.6"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "3.3",
+      "old_title": "Give every existing debt a job",
+      "old_path": "scripts/03-3_give-every-existing-debt-a-job.md",
+      "source_sha256": "d9081d74009426300c7fe7ad2f7c2cf43bdc2ab0b2c78f960add2ada56e10054",
+      "spoken_sha256": "9f52da4081aaa7b8d0a4c5b39e5ffd694d38ba7112233322c7cf5f5410d2d963",
+      "latest_delivered_source_sha256": "d9081d74009426300c7fe7ad2f7c2cf43bdc2ab0b2c78f960add2ada56e10054",
+      "destinations": [
+        "3.1"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "3.4",
+      "old_title": "Decide whether new financing improves the plan",
+      "old_path": "scripts/03-4_decide-whether-new-financing-improves-the-plan.md",
+      "source_sha256": "cf8e301321232e4cd576ba7e94fd8c508417770de319dbd3631b628bc7ad90f5",
+      "spoken_sha256": "546495960dde76a86d8af865383356647f1ded99504513e3e74a7013e7bea0be",
+      "latest_delivered_source_sha256": "cf8e301321232e4cd576ba7e94fd8c508417770de319dbd3631b628bc7ad90f5",
+      "destinations": [
+        "3.4"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "3.5",
+      "old_title": "Compare financing on equal terms",
+      "old_path": "scripts/03-5_compare-financing-on-equal-terms.md",
+      "source_sha256": "c9ef106365c608c3794f0b161b5634e25f07c26578cae43efcb4e9510bb41fd8",
+      "spoken_sha256": "a320e3f57a34cda892318c24f78ae40e2b7b8934785b2b374625b755d2e5c02e",
+      "latest_delivered_source_sha256": "c9ef106365c608c3794f0b161b5634e25f07c26578cae43efcb4e9510bb41fd8",
+      "destinations": [
+        "3.4"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "3.6",
+      "old_title": "Write the rules before using leverage",
+      "old_path": "scripts/03-6_write-the-rules-before-using-leverage.md",
+      "source_sha256": "68feb0abb224546c2351a5e6a49c15a767eeb1c0d070a5994bcd5980e449cb95",
+      "spoken_sha256": "f8930334b87def0864be402e99ac42192699d4b8df4730fab706f4b31d6ae4b3",
+      "latest_delivered_source_sha256": "68feb0abb224546c2351a5e6a49c15a767eeb1c0d070a5994bcd5980e449cb95",
+      "destinations": [
+        "3.6"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "4.1",
+      "old_title": "Understand the portfolio you already own",
+      "old_path": "scripts/04-1_read-the-same-portfolio-in-four-useful-ways.md",
+      "source_sha256": "e61a0bb51dd1f98bff11698c2f2129a093b9b883ce4ce38d102ee377887b4bf8",
+      "spoken_sha256": "bdbe240d90ccf055b6e161685ceed80dd4abe0cbfbd7880a4e65166eac88b8a2",
+      "latest_delivered_source_sha256": "5e1e4c0f481678bd49b482b00c3b9a5c0952b8fa748df9acab4dbfffc20b3fac",
+      "destinations": [
+        "4.3"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "4.2",
+      "old_title": "Choose the role Bitcoin plays in your plan",
+      "old_path": "scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md",
+      "source_sha256": "ee765f48a9bb8dd81f5285457ddcf1fed30fa8f8717a2d9d9f254983e8aed88b",
+      "spoken_sha256": "786e2de0da70d57a3067637fbc437d25dcdbbb13efb88789028f75a0ee57ae4a",
+      "latest_delivered_source_sha256": "7c5003bf846bf9e716bad9308ebb2ec3701ba0d2841e9a58765f24b76b1ecbd9",
+      "destinations": [
+        "4.3"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "4.3",
+      "old_title": "Build the rest of the portfolio around your life",
+      "old_path": "scripts/04-3_match-the-money-to-when-you-will-use-it.md",
+      "source_sha256": "c2df1b875bf3fbe42c5798e12b4d0f91ac032df7aa404ec161a46fd6c7aa2504",
+      "spoken_sha256": "83b95f6b8c352fc7065b464c36bbaec90c587b6e1172d0b22bb1a147a907701d",
+      "latest_delivered_source_sha256": "e0a11175fe3ba6d784bac5e60c9d76d81da7c176b988a8138889919490389754",
+      "destinations": [
+        "4.3"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "4.4",
+      "old_title": "Decide where the next dollar goes",
+      "old_path": "scripts/04-4_build-the-contribution-waterfall-from-one-pool.md",
+      "source_sha256": "fccbe56ea91f4337910cbc6bbda485b256951d88c2adc99bf16edaf8d2ab6ce6",
+      "spoken_sha256": "9e0e204552f13a1b0e6a600af3e3c442aee172d49d450d70cf0a9f35117dc0e2",
+      "latest_delivered_source_sha256": "737ca49a9a793a90bdf6f73b885e47903b2b73cded90f5184bede9bbdc8874a7",
+      "destinations": [
+        "4.7"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "4.5",
+      "old_title": "Choose the account that can do the job",
+      "old_path": "scripts/04-5_choose-the-account-that-can-do-the-job.md",
+      "source_sha256": "583b397729c49df90c11ede9926989916f00f582a5d47499dc05e5950a804761",
+      "spoken_sha256": "1f98fa012fbb9257ab25183f7061b10d7d485dbd2582aef168fb4f3e03eb045e",
+      "latest_delivered_source_sha256": "e104c4c51282dd69f4e316221ec15b211260abdac11bbabfe520cf3e5e5cb5af",
+      "destinations": [
+        "4.5"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "4.6",
+      "old_title": "Choose Traditional, Roth, or a deliberate mix",
+      "old_path": "scripts/04-6_choose-traditional-roth-or-a-deliberate-mix.md",
+      "source_sha256": "c1daf9755b98bfd0c305857718aee03ab6486c66bf3895c4b9f8310c2aed2118",
+      "spoken_sha256": "89067a39166a2368d5b98046a9abf3c852a47af46c0c236d8eb981cd3d3ac710",
+      "latest_delivered_source_sha256": "33a1aad88f6483249da2965319b9ef30b64b7f5341f936a5b29e4b987c1d9acb",
+      "destinations": [
+        "4.5"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "4.7",
+      "old_title": "Set up contributions and investment purchases",
+      "old_path": "scripts/04-7_tell-each-account-what-to-buy-and-finish-the-outside-actions.md",
+      "source_sha256": "3d912948de6d9ffa9ed2bcfb451a3ca07de7d13608557f3b076c3fb2a06367e0",
+      "spoken_sha256": "5e8c78180b7ce7f48ad0795c0af0fee82c348aff32793cc0d52229abaa711ae3",
+      "latest_delivered_source_sha256": "7f7f7ad3b2907b6251d21269e9f6c9f0eec8de3f493c868b1f84bc3bbec19449",
+      "destinations": [
+        "4.7"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "5.1",
+      "old_title": "Understand what a sale would realize",
+      "old_path": "scripts/05-1_understand-what-a-sale-would-realize.md",
+      "source_sha256": "cb3c96c76079e96461c96b4b77e60fb8246dcb4c94757fe53c27cee9ac6b1c83",
+      "spoken_sha256": "c2b2044ded9b3173d263ccd8800308d2e1e12e0e9a0b9c04b04de4bb22c15b8d",
+      "latest_delivered_source_sha256": "8745f9275385410d5a4336e525b05b4335ef58c7173b4aeaa91ee3b5319a8eb1",
+      "destinations": [
+        "5.1"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "5.2",
+      "old_title": "Rebuild the purchase records you need",
+      "old_path": "scripts/05-2_repair-purchase-history-without-inventing-it.md",
+      "source_sha256": "20b539d796064bb4fd52cff8e5137e9c0c1bfda19d2f4f903ba980f9cac1b0e8",
+      "spoken_sha256": "90494b8d4e4fd19758d2a3078294a689d1827ffcba42eeaed9a3f615db9b6023",
+      "latest_delivered_source_sha256": "20b539d796064bb4fd52cff8e5137e9c0c1bfda19d2f4f903ba980f9cac1b0e8",
+      "destinations": [
+        "5.1",
+        "A5.2"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "5.3",
+      "old_title": "Find the years when your tax choices have the most room",
+      "old_path": "scripts/05-3_find-the-years-when-your-tax-choices-have-the-most-room.md",
+      "source_sha256": "915e857deecb3bd6d56fa295bab385af732a496806be7101a56bd0cf413e7e79",
+      "spoken_sha256": "d06ba158c27f959b00af5e56d7728fec00d51ff4c8015b1ba46d2c1001511f92",
+      "latest_delivered_source_sha256": "c6431289750070c275b7ef12f47199190fbcc908cc2329ae7e39a44e4ca67d0b",
+      "destinations": [
+        "5.4"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "5.4",
+      "old_title": "Compare conversions with intentional withdrawals",
+      "old_path": "scripts/05-4_compare-conversions-with-intentional-withdrawals.md",
+      "source_sha256": "fa84360d34f1a6d63b6b78f7d01a465c7600a40fa4253715d1db5f367263fa1e",
+      "spoken_sha256": "c4975cd54f69799c0589011ac76ce491f58e66359f83e740cd73b0177563cbb6",
+      "latest_delivered_source_sha256": "ba1d822ec07aabca15e0ddb3d03a14a874610ecea4a9ace082a536a2135928bc",
+      "destinations": [
+        "5.4"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "5.5",
+      "old_title": "Choose this year's tax actions",
+      "old_path": "scripts/05-5_turn-tax-opportunities-into-an-execution-checklist.md",
+      "source_sha256": "461696ae83ee88faefdcfc2c39c19f0e62bac91fe85c4915f409bdad47319dc4",
+      "spoken_sha256": "d5a7d11cf9a15a39f214674636ecb3519f2728c8517db8027aa615e0414e7cc2",
+      "latest_delivered_source_sha256": "461696ae83ee88faefdcfc2c39c19f0e62bac91fe85c4915f409bdad47319dc4",
+      "destinations": [
+        "5.1",
+        "5.4",
+        "A5.2"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "6.1",
+      "old_title": "Define spending, reliable income, and the gap",
+      "old_path": "scripts/06-1_define-spending-reliable-income-and-the-gap.md",
+      "source_sha256": "382646d43b2245807af3da3f25bc69a7baaa3203a95f9a733a6cdc5e3f8f3960",
+      "spoken_sha256": "ab8d0db8965d4aab6c9c02d31eaa96b2d9fcc14c686ec2773bea71f8dc12d429",
+      "latest_delivered_source_sha256": "0d0d54836450cadf09f235a267fec12005cd3ebf92770a64975dd479f9dd3630",
+      "destinations": [
+        "6.1"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "6.2",
+      "old_title": "Fund the years before accounts and benefits become available",
+      "old_path": "scripts/06-2_fund-the-years-before-accounts-and-benefits-become-available.md",
+      "source_sha256": "fed63fdeee5196eb0529937a2e4b40979b51e5f681dddd771b075f8a8bd965ed",
+      "spoken_sha256": "f6646f793047da542f61feeede1d1f5c25f078d560b9a90df153d9b9505754a4",
+      "latest_delivered_source_sha256": "fed63fdeee5196eb0529937a2e4b40979b51e5f681dddd771b075f8a8bd965ed",
+      "destinations": [
+        "6.1"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "6.3",
+      "old_title": "Price healthcare before leaving employer coverage",
+      "old_path": "scripts/06-3_price-healthcare-before-leaving-employer-coverage.md",
+      "source_sha256": "c3ce6c81fc1be391d670d3fa56e612199c90e16e40f377d8efcf0134c63000db",
+      "spoken_sha256": "0bf72033fa0e1faf3fae8af0248185edc2adf64589d105e3549bafb0284351bc",
+      "latest_delivered_source_sha256": "c3ce6c81fc1be391d670d3fa56e612199c90e16e40f377d8efcf0134c63000db",
+      "destinations": [
+        "6.3"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "6.4",
+      "old_title": "Choose account withdrawals and asset sales separately",
+      "old_path": "scripts/06-4_choose-account-withdrawals-and-asset-sales-separately.md",
+      "source_sha256": "ac39cbdd8ce205c6effaf115cd475b42eb061f48988454d8efd25d176ded3c4a",
+      "spoken_sha256": "6edde00ae0b88d776b07a5f57d2ad16c1463b0f4e23c649285ed246a90149369",
+      "latest_delivered_source_sha256": "000e7f821f48a61365cb5c75dc5296a4af58dee74901b3e85c885a420e0885a1",
+      "destinations": [
+        "6.1"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "6.5",
+      "old_title": "Use the Reserve through a difficult market",
+      "old_path": "scripts/06-5_use-the-reserve-through-a-difficult-market.md",
+      "source_sha256": "d7d796dff3246db815f611a4c7bc9704a9b83c47a8c316b243be63b93b2e24d7",
+      "spoken_sha256": "181bb237539d6f428daf065e086fc7e8d18547fed171603e239e521414895e22",
+      "latest_delivered_source_sha256": "d7d796dff3246db815f611a4c7bc9704a9b83c47a8c316b243be63b93b2e24d7",
+      "destinations": [
+        "6.8"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "6.6",
+      "old_title": "Compare selling, borrowing, and using other resources",
+      "old_path": "scripts/06-6_compare-selling-borrowing-and-using-other-resources.md",
+      "source_sha256": "67779310487c04fc14a401a4d828b69b50c26672dadf59bfb4e0c5630e88d86f",
+      "spoken_sha256": "f5ad099201048ac8aa59159287ce4d0517ab7b28bb7ea1492d897c4702ba124e",
+      "latest_delivered_source_sha256": "bc58ec4e67d03818d4e28960574bec43882ba45736421b1879600b3646b259d8",
+      "destinations": [
+        "6.6"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "6.7",
+      "old_title": "Use simulations to compare the plan, not chase a score",
+      "old_path": "scripts/06-7_use-simulations-to-compare-the-plan-not-chase-a-score.md",
+      "source_sha256": "2c8bbcffd66cbf7c1c0c520ebaacc23b03664024307f3795ed6bd9820d7bceb7",
+      "spoken_sha256": "1e4ffe19b181db87b8be84825bb41c9e85f9df938aa4e3224ecb3d6dcd09e68a",
+      "latest_delivered_source_sha256": "029c3afafc3e2b9730635e97a7e2b11664bf28549ab440ce8b8826caef5a247b",
+      "destinations": [
+        "1.5",
+        "6.8"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "6.8",
+      "old_title": "Decide what to spend next year",
+      "old_path": "scripts/06-8_turn-the-retirement-plan-into-an-annual-spending-decision.md",
+      "source_sha256": "8ce02dcd3355bb6bf5d343053fc3298754d85c8f6d2f628a1300c1fcaa50221d",
+      "spoken_sha256": "f71d0b8106e2673a4c49a56465a58ee14fcba2e24c2c0e684f99282e7d05697f",
+      "latest_delivered_source_sha256": "435a91b69809973e75353975fce6f3b5d5d0413d71abfa9270cb3d2eb56a083f",
+      "destinations": [
+        "6.8"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "7.1",
+      "old_title": "Choose who controls each part of the Bitcoin",
+      "old_path": "scripts/07-1_choose-who-controls-each-part-of-the-bitcoin.md",
+      "source_sha256": "99e8eb38cb64a8c6fb7259ffa878683194e82ce3fd9d7d0b683645a07649d169",
+      "spoken_sha256": "c049d480e00538d1d8167ee825c0989a1b7da9f90089e34243b1eeb065d82bcb",
+      "latest_delivered_source_sha256": "99e8eb38cb64a8c6fb7259ffa878683194e82ce3fd9d7d0b683645a07649d169",
+      "destinations": [
+        "7.1"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "7.2",
+      "old_title": "Prove recovery before meaningful money depends on it",
+      "old_path": "scripts/07-2_prove-recovery-before-meaningful-money-depends-on-it.md",
+      "source_sha256": "782f647d0cab6da62dbfd965c5ea56274025614bbd4edcf47a171fd59b5636f3",
+      "spoken_sha256": "86c5a150b050679c1e9654ea5099d3b3ae708d71a1d1bb49386a545c5ed1a98c",
+      "latest_delivered_source_sha256": "ab787bdccd99ab9bbeb7c9721ce2f32f6e46d4be86f13fe28bcc8af943fdc7e5",
+      "destinations": [
+        "7.2"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "7.3",
+      "old_title": "Secure your accounts",
+      "old_path": "scripts/07-3_harden-accounts-and-remove-the-largest-shared-failure.md",
+      "source_sha256": "f0eb897967d4b3ae53bf92a9e3a3892e3f6660a6a59375f2b991321a53db874e",
+      "spoken_sha256": "95ffe6ee4d061d94ae60d46ff7151816dfd2c877330e2ab91783f2881f0528b3",
+      "latest_delivered_source_sha256": "f0eb897967d4b3ae53bf92a9e3a3892e3f6660a6a59375f2b991321a53db874e",
+      "destinations": [
+        "7.2"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "7.4",
+      "old_title": "Make the family custody map",
+      "old_path": "scripts/07-4_record-a-usable-custody-plan-without-exposing-secrets.md",
+      "source_sha256": "4c691b84108ba55c342adbb4386a26a9223d842f43e0837e8a164dd341d165a9",
+      "spoken_sha256": "ad437813e31259af4101821d32a349bff1687364db763dc2a71649d7b1030470",
+      "latest_delivered_source_sha256": "4c691b84108ba55c342adbb4386a26a9223d842f43e0837e8a164dd341d165a9",
+      "destinations": [
+        "7.1",
+        "8.1"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "8.1",
+      "old_title": "Choose who can act for your family",
+      "old_path": "scripts/08-1_choose-the-people-and-put-the-legal-baseline-in-place.md",
+      "source_sha256": "480c04f6f0c291fb59a1dae907f405009eb594755b5433c61dd98b7ff462a90b",
+      "spoken_sha256": "be58449f8101ccd569fde37181657b5e025eb984a706146dcb7337646b69a2f6",
+      "latest_delivered_source_sha256": "4efdbac74f0644e651fe75ab24c101a3566efc99a03249348f975a701f2f22b8",
+      "destinations": [
+        "8.1"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "8.2",
+      "old_title": "Connect legal authority with the actual recovery process",
+      "old_path": "scripts/08-2_connect-legal-authority-with-the-actual-recovery-process.md",
+      "source_sha256": "91f77932b3e64deb3193487e1c8182f3fbede3eaa3e997c0bd52429bbe401940",
+      "spoken_sha256": "2881c42dfd9bfdc89075f82b2b0ab8ad4cf30cc4c1c6c5402d40a86d38e2dd91",
+      "latest_delivered_source_sha256": "91f77932b3e64deb3193487e1c8182f3fbede3eaa3e997c0bd52429bbe401940",
+      "destinations": [
+        "8.1"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "8.3",
+      "old_title": "Write your family's first instructions",
+      "old_path": "scripts/08-3_write-and-test-the-first-instructions-your-family-will-receive.md",
+      "source_sha256": "12efd0326def6d6faf6e22f4d65acbeef19e88e62fc9af74a742da5bf1bf07c6",
+      "spoken_sha256": "3e4a8a51e4ee64b5b017b93f70841f7dbfa519d822be545de70fb3e6517712aa",
+      "latest_delivered_source_sha256": "12efd0326def6d6faf6e22f4d65acbeef19e88e62fc9af74a742da5bf1bf07c6",
+      "destinations": [
+        "8.1"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "8.4",
+      "old_title": "Identify the risks you will transfer or carry",
+      "old_path": "scripts/08-4_identify-the-risks-you-will-transfer-or-carry.md",
+      "source_sha256": "dd9e28e9784d9e744acf440f15dc8b100072540671b07b2fd15589179619812e",
+      "spoken_sha256": "036a105e2b702f43025bf13f8ccf026938e80f033b678e411f9c2b422a75e2e7",
+      "latest_delivered_source_sha256": "dd9e28e9784d9e744acf440f15dc8b100072540671b07b2fd15589179619812e",
+      "destinations": [
+        "8.4"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "9.1",
+      "old_title": "Keep a quiet month simple",
+      "old_path": "scripts/09-1_keep-a-quiet-month-simple.md",
+      "source_sha256": "9265bd7d28fe29284d9e8f214e236ff3dd8bbc2aa1eddff99d026e5681bd6494",
+      "spoken_sha256": "e73b05a7efc8241295b96a3fa9907d679572916e4e9a6fd5a5257dd6fa0720f3",
+      "latest_delivered_source_sha256": "2f7e2395e592562db71c2233ed584203d49250523c6d0546d1c66138ef649b17",
+      "destinations": [
+        "9.1"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "9.2",
+      "old_title": "Review the whole plan once a year",
+      "old_path": "scripts/09-2_review-the-whole-plan-once-a-year.md",
+      "source_sha256": "f20c3d1ba043046359f76b4f670be977eb0cf5b49ef43045576b29b301b002b9",
+      "spoken_sha256": "267fb666790bb559cb1ae7cdda1698854cbb03446293caafdf5709aff560f57f",
+      "latest_delivered_source_sha256": "f20c3d1ba043046359f76b4f670be977eb0cf5b49ef43045576b29b301b002b9",
+      "destinations": [
+        "9.1"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "9.3",
+      "old_title": "Handle a life change or a number that does not reconcile",
+      "old_path": "scripts/09-3_handle-a-life-change-or-a-number-that-does-not-reconcile.md",
+      "source_sha256": "45acad8d60f30d1fa35e05d5a6f0ff338dda79bda7e262368271aba8ef5fb3a1",
+      "spoken_sha256": "ca59cc4519de739f9cf871383475fcea30ee4f6a0fced8053d81c04c34a1206e",
+      "latest_delivered_source_sha256": "9b834ce8be81e8fb5e2e222d982d2353c18259ab3ffabd91c7212dd97cd350c1",
+      "destinations": [
+        "9.1"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "10.1",
+      "old_title": "Read the completed plan in a useful order",
+      "old_path": "scripts/10-1_read-the-completed-plan-in-a-useful-order.md",
+      "source_sha256": "9a083cfb87ee9c4929f1357f1513ee0e62aa02385f6ed6127c08e0dc0ac798f0",
+      "spoken_sha256": "76c3744f537170b6fac1510c2e96c2eceddfa6d4f3abe8925155e4bc020cd715",
+      "latest_delivered_source_sha256": "cdcc8e3560ed0a27818d17ea90a02a6cd6e14a147f68c880ed28454485910591",
+      "destinations": [
+        "10.1"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "10.2",
+      "old_title": "Explain your plan and set the next actions",
+      "old_path": "scripts/10-2_explain-the-plan-and-hand-off-the-next-decisions.md",
+      "source_sha256": "e8327d09c18308b98196164ea5e32824d85c52ef7613aa48d5f81033ae3dd85a",
+      "spoken_sha256": "bd1bca3cf737b010b98c346a4a7e2f0c2d69be7394c277df1adf1a2e12f7c4d6",
+      "latest_delivered_source_sha256": "e8327d09c18308b98196164ea5e32824d85c52ef7613aa48d5f81033ae3dd85a",
+      "destinations": [
+        "10.1"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "A1.1",
+      "old_title": "Test an assumption without making the model tell you what you want",
+      "old_path": "scripts/advanced/A1-1_test-an-assumption-without-making-the-model-tell-you-what-you-want.md",
+      "source_sha256": "9dc267a0199bccf548db7884161b3472bfc3a22bff609ab048c41451d67a1741",
+      "spoken_sha256": "b0720b4b33927c9186a08b696fc1ba82b748b64ab367feefa02f6abd072e30b1",
+      "latest_delivered_source_sha256": "374ec2a6066e067442691f9722aa973f14ecda2a290e9f714789659ebe669206",
+      "destinations": [
+        "1.4",
+        "reference/custom-assumptions.md"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "A3.1",
+      "old_title": "Plan how to manage a Bitcoin-backed loan",
+      "old_path": "scripts/advanced/A3-1_build-a-bitcoin-loan-operating-sheet-from-the-actual-contract.md",
+      "source_sha256": "65a896764efdf4e8c2261e0e92605d91a9d654c22208518be2a08620c6e2558a",
+      "spoken_sha256": "a3dee20d978ad066fa29de1d44fdb65e4cdb5a589815e02ec6990227146577b4",
+      "latest_delivered_source_sha256": "65a896764efdf4e8c2261e0e92605d91a9d654c22208518be2a08620c6e2558a",
+      "destinations": [
+        "A3.1"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "A3.2",
+      "old_title": "Compare financing terms that a simple payment hides",
+      "old_path": "scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md",
+      "source_sha256": "362b807800421931c3ab28e3132ff670893cc8139f9f71004564d61e40b3aa68",
+      "spoken_sha256": "f59265434c99c9107f96e08ae0447a1a745fdce5d4fbaba015a1591a9c78f3ba",
+      "latest_delivered_source_sha256": "a4375975810dafd12d98acb9b45ca6728820d9d5598867a2bc7446aeb8a0c189",
+      "destinations": [
+        "A3.2"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "A4.1",
+      "old_title": "Check price context before a large allocation change",
+      "old_path": "scripts/advanced/A4-1_check-price-context-before-a-large-allocation-change.md",
+      "source_sha256": "1a4cac72d795183d459e46871cc2d0cfc17e29b75274728b853d263ba989dfd3",
+      "spoken_sha256": "121d6a9068ecbd070ff8ebf045408ce4d42c00f76603da9bfe3a1fc54decbfb7",
+      "latest_delivered_source_sha256": "06d7feb091f08e0561138a0857b0fdd63f8d66fb252db0b9feb60f8ba22796ba",
+      "destinations": [
+        "4.7"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "A5.1",
+      "old_title": "Build a multi-year conversion comparison",
+      "old_path": "scripts/advanced/A5-1_build-a-multi-year-conversion-comparison.md",
+      "source_sha256": "f1089d38a9113627c633eb4efa8e4e8d96d9bdeaba810a106cba818202053b96",
+      "spoken_sha256": "48d1f5b90a760f97ecab2f50567619477083d5fa75a9eae240d199b7a5baf28f",
+      "latest_delivered_source_sha256": "9646f2ab9a85855d89413c3240106eda20cbf882e5b4d3504e3aa404b5ce8d3f",
+      "destinations": [
+        "A5.1"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "A5.2",
+      "old_title": "Prepare a harvesting transaction that matches the tax record",
+      "old_path": "scripts/advanced/A5-2_prepare-a-harvesting-transaction-that-matches-the-tax-record.md",
+      "source_sha256": "e73fc883f13281098f04fdd18fb7fac6dbbe55aaabdd3924f44a9643da9137d4",
+      "spoken_sha256": "7270ed57158220d76ed6412f649b5d93919fcffd22ca1e483622429e72b37cd2",
+      "latest_delivered_source_sha256": "3c38ab102f345db8f5f14c306c8d056838ab421ea901ff8f5375aa0ad30f8d5f",
+      "destinations": [
+        "A5.2"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "A5.3",
+      "old_title": "Compare the full cost of moving states",
+      "old_path": "scripts/advanced/A5-3_evaluate-a-state-move-as-a-household-decision.md",
+      "source_sha256": "9b5964760b6f158dc6336944145bce727e833f951b63360b5ac1e5c4ee8d61db",
+      "spoken_sha256": "d79d7b54731c8e4a98427f9433690e1488769c4e84c7e74deaa5a8e059cf7fd1",
+      "latest_delivered_source_sha256": "9b5964760b6f158dc6336944145bce727e833f951b63360b5ac1e5c4ee8d61db",
+      "destinations": [
+        "reference/state-move.md"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "A6.1",
+      "old_title": "Compare healthcare and tax decisions in the same year",
+      "old_path": "scripts/advanced/A6-1_compare-healthcare-and-tax-decisions-in-the-same-year.md",
+      "source_sha256": "4654606fdf64aebbe8e09e57c3f7a61883ae487248244eed6445aac4d5411134",
+      "spoken_sha256": "9cad761cba27af009ed88f67c634755f229e1df26bd2131555982466f0fe1ba0",
+      "latest_delivered_source_sha256": "4654606fdf64aebbe8e09e57c3f7a61883ae487248244eed6445aac4d5411134",
+      "destinations": [
+        "6.3"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "A6.2",
+      "old_title": "Test a multi-year sell-versus-borrow strategy",
+      "old_path": "scripts/advanced/A6-2_test-a-multi-year-sell-versus-borrow-strategy.md",
+      "source_sha256": "7d8842b230d1da52092e4af34e2a102ac6ef462152eb9cb9ca8ba4293d7f2dad",
+      "spoken_sha256": "0e0417cab2bf4fb15152f76a8323cf025ad68cc8109b080396f3ab50d7b49e17",
+      "latest_delivered_source_sha256": "7d8842b230d1da52092e4af34e2a102ac6ef462152eb9cb9ca8ba4293d7f2dad",
+      "destinations": [
+        "A3.1"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "A6.3",
+      "old_title": "Check access to retirement accounts before 59½",
+      "old_path": "scripts/advanced/A6-3_verify-an-early-retirement-account-access-route.md",
+      "source_sha256": "ba0067ad0afa35d01750f57abb6773f145f603ae3dbd77e564c24414cd320c8d",
+      "spoken_sha256": "beaab2023019982b9d2fd02ec681a11680b58be0f32d2d99b2bc57cbc39a5755",
+      "latest_delivered_source_sha256": "a310a6d8d6432c18452ec74d4b36ed7e901b9391e3d08a3d3e4549a24239214a",
+      "destinations": [
+        "A6.3"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "A7.1",
+      "old_title": "Compare passphrase, multisig, and professional support",
+      "old_path": "scripts/advanced/A7-1_compare-passphrase-multisig-and-professional-support.md",
+      "source_sha256": "7f121647115c9770186ae65ca60fb4d6d9cf141598234bef17850728f2889fee",
+      "spoken_sha256": "1951d90407ff3b260bb15cdabd7d1f7c1e0333408a25e837fa79a093108133d8",
+      "latest_delivered_source_sha256": "7f121647115c9770186ae65ca60fb4d6d9cf141598234bef17850728f2889fee",
+      "destinations": [
+        "A7.1"
+      ],
+      "retired_active_file": false
+    },
+    {
+      "old_id": "A7.3",
+      "old_title": "Check what your custody arrangements share",
+      "old_path": "scripts/advanced/A7-3_test-correlated-failures-across-providers-and-methods.md",
+      "source_sha256": "fc57c597cb04c18792370de1181be5660f99f981ef4f2262682cba198f8a2335",
+      "spoken_sha256": "02770d93190cfb8f6022f662e4ab45fa878256516e53aeb7785991aa093b40bf",
+      "latest_delivered_source_sha256": "38aeb323241c086b7d2c4adec2cc3ac5cc4a8d5261904672fee1383d6c1df1d3",
+      "destinations": [
+        "7.1",
+        "A7.1"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "A7.4",
+      "old_title": "Understand UTXOs before consolidating coins",
+      "old_path": "scripts/advanced/A7-4_understand-utxos-before-consolidating-coins.md",
+      "source_sha256": "48a650b17d9265d1ee39f3b648ae0590c26bcf15df30f9bbe510f67896cd14d6",
+      "spoken_sha256": "bd83e1921aa2c0389e9b75ea8ebfe92854156ab97a1ece25f4f75dac786c779d",
+      "latest_delivered_source_sha256": "f34dc9565df605b1c5adc50767db070410dd5b013135d9e933b8f2eae7b0ebb1",
+      "destinations": [
+        "reference/bitcoin-output-management.md"
+      ],
+      "retired_active_file": true
+    },
+    {
+      "old_id": "A8.1",
+      "old_title": "Decide whether a trust has a job in the plan",
+      "old_path": "scripts/advanced/A8-1_decide-whether-a-trust-has-a-job-in-the-plan.md",
+      "source_sha256": "8fcbbda43e788be158b52c7615a025d7253dc4badb5f6124a29f085f726999dd",
+      "spoken_sha256": "38558ca766bf1e307eb2d2e978d8eb454c5293b38e580a06bcb59aec019e3132",
+      "latest_delivered_source_sha256": "8fcbbda43e788be158b52c7615a025d7253dc4badb5f6124a29f085f726999dd",
+      "destinations": [
+        "A8.1"
+      ],
+      "retired_active_file": false
+    }
+  ],
+  "protected": {
+    "scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md": "acd2369ac4bc7933865ba6f4c7d492444df364f64ed5dca589422dae329a3c40",
+    "scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md": "89113d92de60787c8c8740fd9a129ea221c501c43e6c38fd5e3bcc991bc1db33",
+    "scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md": "d6d3c952667f25383b19a9b8151a0c099f8a2bf257fcbf67c8263d1edbb28fa2"
+  },
+  "new_illustration": {
+    "lesson": "A3.1",
+    "type": "explicit hypothetical extension of existing loan mechanics",
+    "first_principal": 25000,
+    "annual_simple_capitalization": 0.12,
+    "year_1_end": 28000,
+    "year_2_begin_additional_draw": 25000,
+    "year_2_end": 59360,
+    "total_cash_received": 50000,
+    "total_added_interest": 9360,
+    "not_a_contract_or_quote": true
+  }
+}

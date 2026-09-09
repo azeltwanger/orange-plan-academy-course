@@ -1,34 +1,29 @@
-# 10.1 — Read the completed plan in a useful order
+# 10.1 — Read your completed plan and finish the next actions
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
-
+Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
 Kind: teach
-Gate: APP_CAPTURE
-Sources: REVIEW, MAINTENANCE, MASTER, LANDING, APP
+Gate: APP_CAPTURE, OWNER_REVIEW
+Sources: APP, CLIENT_THEMES, LANDING, MAINTENANCE, MASTER, OWNER, REVIEW
 
 ### Read aloud
 
 You've worked through the accounts, cash flow, investments, taxes, retirement income and protection. Now the question is whether those decisions describe one plan you can use.
 
-Open the Household Plan Summary and the current saved result. We are not looking for a perfect-looking report. We are checking that the plan answers your original question and that the important pieces agree.
-
 Begin with the life. What does work optional or retirement mean for this household? When would it begin, and what spending is it intended to support? A date without that context doesn't tell another person what has been planned.
 
-Then read the current answer under the chosen assumptions. Keep the intended date, calculated result, confidence target and horizon separate. Explain what is supported, what is sensitive, and what still needs to change when the preferred date does not work.
+Check the result against the retirement date you want, the confidence target, and the number of years you're planning to fund. Keep the assumptions beside that result. Which parts of the plan work, which depend heavily on an assumption, and what needs to change if your preferred date doesn't work?
 
-Don't hide a shortfall in the closing presentation. Finding it and choosing a response is valuable. The plan should give you clarity about what to do, not just permission to repeat an optimistic number.
+A shortfall is useful information. Finding it gives you a chance to change something before the money is needed. Keep it visible rather than replace it with a more optimistic assumption.
 
 Next, follow the money available today. Do the employee contribution, Reserve funding, extra debt and investment instructions fit the same cash flow? Is employer money counted separately? Has a future debt-payoff contribution started only when the payment actually ends?
 
-For the Reeds, the original $500 remaining and the reduced-spending $1,700 are different states. A final summary cannot combine the higher surplus with the original spending or spend the future $1,605 payoff release today. Use the version actually chosen.
+The Reeds started with $500 available. Their spending-reduction comparison leaves $1,700. The plan needs to use the spending that goes with the amount they've chosen. And the future $1,605 from ending the card payments is not available today. Check your own plan for that same timing issue.
 
 Now read the whole portfolio. Explain the Bitcoin position and what the other holdings provide. Which money is available soon, which supports the early retirement years, and which can stay invested longer? Show why the amounts and accounts fit those jobs rather than simply naming a target percentage.
 
 Then open the first retirement year. Identify income, complete spending, taxes, withdrawals and the source accounts. Move to the next meaningful change: a benefit begins, a major expense arrives, or an account-access rule changes. Trace that year too.
 
-A single positive headline cannot replace those funding explanations. Conversely, you don't need to study every row in the final presentation when the important transitions and the limitations are clear.
+Focus on the years where the funding changes. You don't need to recite every calculation, but you do need to know where the money for those years comes from and what could disrupt it.
 
 Review the operating choices next. How will the Reserve be used and refilled? How is spending reconsidered? How would a loan be repaid or reduced? What would make the household act before the scheduled review?
 
@@ -36,24 +31,38 @@ Check that the custody map matches the holdings and that recovery records descri
 
 Finally, read the outstanding actions. Some may be ordinary implementation: change payroll, open an account, confirm a purchase, or arrange a review. Others may block a major decision, such as an unresolved access route or missing basis for an intended sale. Don't label the entire plan implemented while a blocking question is still open.
 
-Let's read the current plan and its documents in that order. Check the numbers against the accounts and funding years, then identify the actions still to complete.
+When you share finances with someone, use the Household Plan Summary to discuss the decisions that affect both of you. Show what funds the early years, why you chose the investment mix, and which spending could change during a difficult period. You don't have to walk through every calculation.
 
-Return to the question you wrote at the start. Can you explain what supports the life you want, what needs to change, and what you'll do next?
+For anyone who needs to help manage the household, make the relevant starting instructions easy to find. The family handoff section already covers those arrangements; this is not a second rehearsal or another document to complete.
 
-### Visual and source notes — not spoken
+Use the existing summary when sharing is useful. Keep the details in Orange Plan rather than copy every table into a separate explanation.
+
+Share selectively. A professional reviewing a conversion needs the relevant income and account facts. A family member beginning an emergency process needs the safe instructions and contacts. Neither normally needs wallet recovery secrets in an ordinary planning document. Review an export before sending it, and distinguish a summary from a restoration backup.
+
+Now finish the action list. For each current action, name the person, date and evidence that will show it happened. A payroll confirmation, an actual purchase record or an executed legal document has a different meaning from a note that says planned.
+
+Keep future actions tied to their condition. “Redirect this payment after payoff” is not an instruction to spend money early. Put the review where you will find it when the condition occurs.
+
+Set the next monthly and annual reviews, with any urgent loan or other monitoring handled separately. You don't have to keep watching the course to keep the plan alive. Use the relevant section again when that decision changes.
+
+Before putting the plan away, make sure you know which decisions are settled, what still needs help, and the first action you'll take.
+
+When a new question comes up—whether to spend, save more, pay down debt, or change work—you now have a plan to test it against.
+
+### Source and production notes — not spoken
+
+Source-led condensation of lessons 10.1, 10.2. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../delivery/consolidation.md](../delivery/consolidation.md) and the source hashes in [../production/consolidation.json](../production/consolidation.json).
+
+Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
+
+#### Retained 10.1 — Visual and source notes — not spoken
 
 Currentcoursefinalreview andsourcehousehold continuity. No landingconfidence/date borrowed or invented Reedresult. Trace actualcriticalyearsandonesavedplan; distinguish blockingquestionsfromdatednonblockingoutsideactions. Reportfactualhonestyandlearnerunderstanding notsoftwaretestonly.
 
-### Production notes
+#### Retained 10.2 — Visual and source notes — not spoken
 
-**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
-
-In the walkthrough, we'll read the actual saved example and its documents in this order, with no borrowed landing-page numbers or invented model results. The purpose is to demonstrate how the pieces fit, including the honest remaining tasks.
-
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
-
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+The video supplies delivery structure only, not financial formulas. Finish in the member's own saved plan. Sharing is for an actual household or professional purpose, not an oral assessment or completion gate. Use existing materials only; retain privacy and actual-execution distinctions.
 
 ### Member checkpoint
 
-Read one coherent saved plan from life goal through current contributions, critical retirement years, protection and specific remaining actions.
+Read the plan’s key choices and limits, resolve the highest-priority unfinished action, and keep the current non-secret household summary available.

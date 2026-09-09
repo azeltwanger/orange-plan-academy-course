@@ -1,6 +1,6 @@
-# A1.1 — Test an assumption without making the model tell you what you want
+# Task reference — Test an assumption without making the model tell you what you want
 
-Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
+Status: TASK_REFERENCE — not a launch recording or required member assignment.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -19,7 +19,7 @@ Use this lesson when you need to test an assumption the normal settings don't ex
 
 Suppose the plan supports your preferred retirement date under the current Bitcoin path, but you want to know what happens when growth slows earlier. State that question before touching the inputs.
 
-Keep the household's spending, dates, contributions and accounts unchanged. Then compare a supported slower path. Read one early year and one later year so you can see whether the path actually represents what you intended.
+Keep spending, dates, contributions, and accounts unchanged. Compare a slower-growth version using the model's available settings. Check an early year and a later year to make sure the change matches what you intended to test.
 
 A flat annual return, a declining schedule and a power-law path can produce similar averages while describing different years. The label is less important than the sequence it creates for the money you intend to spend.
 
@@ -31,11 +31,11 @@ For example, more money available before work stops may address an early shortfa
 
 Holding-specific overrides need the same discipline. A spot Bitcoin fund can track a Bitcoin exposure model while remaining a security for custody and tax. A company associated with Bitcoin has business and financing effects too. A leveraged or distribution-focused fund has a structure that a simple Bitcoin growth override may not represent.
 
-If the engine cannot represent an important feature, label the limitation. Do not make the feature disappear by selecting the return you hoped the security would earn. A separate analysis or a simpler comparison may be more honest than a detailed-looking but inappropriate override.
+If the model doesn't account for an important feature of an investment, keep that limitation clear. Choosing a different return doesn't make the missing feature part of the calculation. Use a separate analysis or a simpler comparison when that better answers the question.
 
 After the first controlled test, a combined stress can be useful. Lower returns and a later income start may occur together. Name both changes so the comparison is understood as a combined scenario, not evidence of which one caused the result.
 
-Keep a receipt of the inputs and result identity. Without it, you can end up comparing an old baseline with a new scenario and attribute the difference to the wrong setting.
+Check the inputs and calculation date for both versions. Make sure the new result includes your change and starts from the same household facts. Otherwise, you may mistake an unrelated update for the effect of the choice you're testing.
 
 Keep the starting assumptions and the comparison, then note which planning decision changes under the different result. Return to your plan when that question is answered.
 

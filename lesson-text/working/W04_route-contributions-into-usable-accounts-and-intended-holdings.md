@@ -10,7 +10,7 @@ Sources: ALLOCATION, ALLOCATION_DECK, OWNER, APP
 
 ### For your situation — recording route, not spoken
 
-- After 4.7, [A4.1](../advanced/A4-1_check-price-context-before-a-large-allocation-change.md): You are about to make a large investment purchase, sale, or allocation change and need to choose its timing. Complete before the large transaction; routine funded contributions do not need this detour. Return to W04 chapters 7–8, then lesson 5.1.
+- After 4.7, [A4.1](../04-7_tell-each-account-what-to-buy-and-finish-the-outside-actions.md): You are about to make a large investment purchase, sale, or allocation change and need to choose its timing. Complete before the large transaction; routine funded contributions do not need this detour. Return to W04 chapters 7–8, then lesson 5.1.
 
 ### Run sheet
 

@@ -820,6 +820,21 @@
       "check": "practice unchanged transfer shortage",
       "value": 400.0,
       "status": "PASS"
+    },
+    {
+      "check": "consolidated recurring loan second opening",
+      "value": 53000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "consolidated recurring loan second ending",
+      "value": 59360.0,
+      "status": "PASS"
+    },
+    {
+      "check": "consolidated recurring loan added interest",
+      "value": 9360.0,
+      "status": "PASS"
     }
   ],
   "current_dta_percent": 22.269539078156313,

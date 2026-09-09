@@ -1,8 +1,6 @@
-A conversion can make sense this year and be too expensive next year. A multi-year strategy needs to use the actual income windows rather than repeat the same amount until the end of the chart.
+A conversion can make sense this year and cost too much next year. Compare the amounts year by year, using the income you expect in each one, rather than repeat one amount throughout retirement.
 
 Start with the unchanged plan. Mark employment income, healthcare coverage, benefits, required distributions and the resources funding the early years. Then choose a limited schedule to compare.
-
-We already worked through the tax on a conversion and where the tax money comes from. Here we'll compare different amounts over several years.
 
 For a separate illustrative tax calculation, suppose converting the first $20,000 adds $4,000 of current cost. Converting another $20,000 adds $6,000 more. The first portion costs 20%; the second costs 30%. Together, a $40,000 conversion costs $10,000, or 25% on average.
 

@@ -1,10 +1,30 @@
-A tax-harvesting comparison is not ready for execution just because a spreadsheet found the smallest gain. The units must exist, the selection must be valid, and the resulting record must match what actually happened.
+Choosing the smallest gain in a calculation isn't enough to prepare a sale. You need the records for the units, a valid way to identify the ones being sold, and a record of what actually happens.
 
-Use this lesson when you have a specific candidate sale. Begin with the account or wallet, quantity, supported basis, holding period and intended exposure afterward.
+Start with the sale you're considering: which account or wallet holds the investment, how much you would sell, its documented cost basis, how long you've held it, and what you intend to own afterward.
 
 The course's three-lot example produces $8,400, $16,800 or $9,600 of gain from the same $20,000 sale. Those are alternatives only to the extent the relevant units can actually be identified and sold under the applicable rules.
 
-Suppose the lowest-gain row depends on a missing purchase confirmation. Don't choose it and hope the record appears later. Resolve the evidence or compare an alternative whose basis and identification can be supported.
+Suppose the lot with the smallest gain is missing its purchase confirmation. Find the evidence before relying on that cost. Or compare a lot whose cost and identification you can document. Don't assume the missing record will turn up after the sale.
+
+When the purchase history is missing, work back from the holding you're considering selling.
+
+Gather the original exports, trade confirmations, statements, and wallet activity you already have. Keep untouched copies. They are evidence, not something to overwrite each time an import produces a different answer.
+
+Then put the events in order. Which entries show a purchase? Which show a sale? Which simply move your assets from one place to another?
+
+Here's a simple example with fees left out so the relationship is clear. You buy 0.1 Bitcoin on an exchange and later move that 0.1 to your own wallet. The exchange shows a withdrawal. The wallet shows a receipt.
+
+If an import treats the wallet receipt as a new purchase, it may invent a second position or a new basis. If it treats the exchange withdrawal as a sale without evidence, it may invent a taxable event. Follow the records across both sides before deciding what happened.
+
+Now compare the reconstructed quantity with what you actually hold. Do the purchases, sales, and transfers explain the remaining units? A difference could be a missing transaction, a fee, duplicate history, or a record that belongs to another account. Investigate the cause instead of adding a balancing purchase to make the total agree.
+
+When a transfer includes a fee, record the fee under the actual rules and supported evidence. The simple no-fee example doesn't settle the treatment of a real network or transaction cost.
+
+A bank payment can help establish that money went to an exchange. It may not, by itself, identify the quantity, price, fee, and time of the Bitcoin purchase. Use corroborating evidence rather than turning one incomplete record into a precise tax lot.
+
+Pay attention to ownership changes too. A transfer between your own wallets is different from receiving a gift or an inheritance. Those can have different basis and documentation rules. Name the type of event and obtain the evidence for it; don't treat every receipt as an ordinary purchase.
+
+Next, check past sales against the filed tax record. Units you already sold should not still appear as available to sell. If a tax loss was left over to use in a later year, that's a loss carryforward. Verify the amount still available from the returns and later activity; an old screenshot of a falling investment isn't enough.
 
 Now prepare the identification before the required deadline. The actual asset, location, custodian and transaction year determine the rules. Broker-held digital assets and an unhosted wallet can have different procedures. Temporary relief in a particular year is not permanent permission to reconstruct any preferred lot choice after the sale.
 

@@ -1,37 +1,33 @@
-# 1.2 — Add accounts and show what each one owns
+# 1.2 — Put your starting numbers in one place
 
-Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: D54/D65 concepts; entry, source coverage and history behavior retain APP_CAPTURE.
-
+Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
 Kind: teach
-Gate: APP_CAPTURE
-Sources: DICTATION, FOUNDATION, ALLOCATION, APP
+Gate: APP_CAPTURE, OWNER_REVIEW
+Sources: ALLOCATION, APP, CASHFLOW, DICTATION, FOUNDATION, MASTER
 
 ### Read aloud
 
-
 You might know the balance of every account and still not know what your household is invested in. One account says “Roth IRA.” Another says “401(k).” Your Bitcoin wallet shows a quantity. Those labels describe different parts of the picture.
-
-We need to record the account and what it owns. Then we can add the investments together without counting any money twice.
-
-An account tells us who owns the money and the rules around it. A holding is the investment inside. An IRA is an individual retirement account. A 401(k) is a workplace retirement plan. You can copy the account type from your statement; you don't need to choose a new type now. A Roth IRA can hold stocks, a Bitcoin fund, cash, or other permitted investments. Its name doesn't tell us which investments you have.
 
 Let's look at Alex's Roth IRA. The example account is worth $145,000. It contains $116,000 of spot Bitcoin-fund exposure and $29,000 in stocks.
 
 Those amounts add up to the $145,000. They are not additional assets on top of the account balance. Think of the account as the container and the investments as its contents.
 
+Before we add the accounts, separate what is true today from what you're testing. The Reeds' existing mortgage is a fact. College support they intend to provide is an expected expense. The renovation they're debating is a scenario. Keep that comparison separate until they choose it.
+
+For now, gather recent account statements, debt statements, income records, a spending reference, and employer benefits. Keep them together in a private folder. Add a short list of expected changes. You don't need a second spreadsheet that recreates every record; you need a reliable place to check a number when a question comes up.
+
+An account tells us who owns the money and the rules around it. A holding is the investment inside. An IRA is an individual retirement account. A 401(k) is a workplace retirement plan. You can copy the account type from your statement; you don't need to choose a new type now. A Roth IRA can hold stocks, a Bitcoin fund, cash, or other permitted investments. Its name doesn't tell us which investments you have.
+
 Start with your account list. Include bank accounts, taxable investments, retirement plans, and any health or education accounts that apply. Keep each person's ownership clear, even when several accounts are at the same institution. If an account is already entered, review it instead of creating another copy.
 
 Then open the statement and identify the investments. Use the actual name, quantity when known, and current value. Don't choose a familiar ticker just because it seems close to an unfamiliar investment. The plan needs to describe what you own, not the nearest thing on a menu.
 
-Sometimes the only reliable information is the total and a rough mix. That is still useful, provided the uncertainty stays visible. An estimated mix is different from a verified list of securities. We will use the supported entry method that matches the information available.
+Sometimes you only know the total and a rough investment mix. Start there, with the mix clearly marked as an estimate. Don't turn a rough percentage into a list of specific investments you haven't checked.
 
 A connection to a provider can be incomplete too. It may supply the account balance without the investments or older purchase history. That does not mean the balance is cash. It means part of the picture still needs explaining. Read what actually arrived rather than assuming “connected” means every detail is complete.
 
 For Bitcoin itself, record how much you own and where you control or access it. That's the custody arrangement. Use a clear name for the location, without private recovery information. A spot Bitcoin fund is different: you own shares in a fund that holds Bitcoin. Those shares give you Bitcoin price exposure, but they are not coins you can recover with your personal wallet backup. Later we'll add the dollar amounts when reviewing your investment mix.
-
-Now separate today's position from the history behind it.
 
 Suppose you already own Bitcoin that was purchased years ago. Entering the current holding is not a purchase today. We shouldn't create a date and price just to make the balance appear. The current position tells us what you have. Purchase history tells us how you acquired it and helps with later tax questions.
 
@@ -41,22 +37,52 @@ Collect the old exchange and brokerage records you already have, but don't make 
 
 Before leaving an account, compare its balance with the statement. Do the investments add up to that balance? Are the owner and account type right?
 
-If something is missing, write down the record you need—for example, the latest holdings statement for this account.
+Next, connect the income to the spending and contributions it already supports.
 
-Have your statements ready. We'll enter a cash account, an investment account, and direct Bitcoin, and work through what to do when some information is missing. We're recording what you own now. Allocation will help you decide what to change.
+Start with each person's income. Identify the source, amount, and timing. Gross pay means pay before taxes and other deductions. Take-home pay is what remains after those amounts come out. Match the number to the field being filled. Your bank deposit is already take-home money; subtracting its payroll deductions again would count them twice.
 
-Wallet recovery words and account credentials are not part of that inventory. Keep them out of the app, the notes, and anything you share for help.
+For a business, first ask what has already come out of the amount you're using. Sales, profit, and cash available to the household are different. Morgan's example income is after ordinary operating costs but before the equipment-loan payment shown separately. Your records may use a different convention. Follow what your number includes.
 
-### Visual and source notes — not spoken
+Next, enter a starting living-spending amount from actual records. Don't use the amount you wish you spent. Note annual bills or a recent change that could make a single month misleading. In Cash Flow we'll work out how those belong in the estimate.
+
+Keep required debt payments in their own debt records when the plan counts them there. Verify the current balance, rate, and payment from the lender. The mortgage you already have belongs in this picture. A loan you're considering does not become current debt because you want to compare it.
+
+Then look at money already going into investments. A payroll retirement contribution uses household pay before the remainder reaches checking. An employer match adds retirement money, but it isn't cash the family can spend.
+
+Alex earns $155,000 a year and puts 6% into his workplace plan. Six percent means six dollars out of each hundred. On a calculator, $155,000 times 0.06 is $9,300 a year. Divide by twelve, and that is $775 a month. The employer's formula adds another $387.50 a month. Keep his money and the employer's money separate.
+
+Let's follow the money. With their current living costs and required debt payments, and $4,000 a month allowed for taxes, the Reeds have $1,275 left before Alex's retirement contribution. Subtract his $775 contribution, and $500 remains for other priorities.
+
+That is the figure we're starting from. It doesn't mean they're only saving $500; the employee contribution is already invested. It also doesn't include the spending reduction we'll consider later.
+
+The tax amount in that example is an assumption, not a calculated tax bill. For your own cash flow, compare the income and tax figures with your records. If they don't agree, find out why before assigning the money that's left.
+
+Alex would like work to be optional at 52. Entering that age records the intention. It doesn't establish that the plan can fund it. Morgan has a separate work timeline; one person's retirement date should not silently end both incomes.
+
+You don't have to know your final retirement budget yet. Start with what your life costs now. Subtract costs you expect to stop and add costs you expect to begin. Some work costs may disappear; travel, healthcare, or family support may increase. Keep an uncertain amount marked as an estimate rather than use zero. We will check and improve this first budget as we go.
+
+Use actual Social Security or pension estimates when you have them, attached to the right person and start date. Don't insert an assumed benefit to fill a shortfall. An unverified income source is a question to answer, not funding you can rely on yet.
+
+That gives you the starting picture: what you own and owe, what comes in and goes out, and the retirement date and spending you want to test. Check an amount you aren't sure of rather than invent a precise answer. Keep wallet recovery words and account credentials out of this inventory.
+
+### Source and production notes — not spoken
+
+Source-led condensation of lessons 1.1, 1.2, 1.3. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../delivery/consolidation.md](../delivery/consolidation.md) and the source hashes in [../production/consolidation.json](../production/consolidation.json).
+
+Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
+
+#### Retained 1.1 — Visual and source notes — not spoken
+
+Visual: existing mortgage / expected college / possible renovation, with assumptions beside the saved starting picture. Uses original August 25 dictation and Foundation steps 1–3. Do not claim current editor behavior from old decks.
+
+#### Retained 1.2 — Visual and source notes — not spoken
 
 Visual: $116,000 spot-fund exposure + $29,000 stocks inside one $145,000 account boundary. These are fixture categories, not invented exact tickers. D65 exact-position versus Estimated mix and history/transfer handling remain build-specific. Retain all original no-secrets and source-coverage safeguards.
 
-### Production notes
+#### Retained 1.3 — Visual and source notes — not spoken
 
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
-
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+Visual: original cash bridge, round for speech only; $19,416.67 gross − $4,000 teaching provision − $10,800 living − $3,341.67 required debt = $1,275 before employee contribution; $775 employee leaves $500. Employer $387.50 stays separate. Source mortgage escrow, payroll election, tax mapping and exact timelines remain unresolved capture facts, not defaults silently adopted.
 
 ### Member checkpoint
 
-Reconcile each account once with its holdings, owner and type; identify the exact missing record.
+Reconcile accounts, holdings, owners, debts and starting dates once. Keep missing source information visible rather than inventing it.

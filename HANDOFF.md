@@ -1,38 +1,25 @@
-# Current handoff — member path and spoken-language cleanup
+# Current handoff — 25 main / 8 situation-specific scripts
 
-## Current continuation — the member's own plan is the application
+Austin approved shortening the 65-script course into 25 main recordings and eight additional recordings for particular situations. The consolidation is implemented in the canonical scripts and generated reading views. The latest unpushed script-only package is superseded, not left as a second current version.
 
-Austin explicitly rejected the added exercises and homework. Keep the plain-language explanations and instructor-led examples; remove the separate practice households, answer reveals and changed-facts assignments from the member experience. After teaching, go directly to the member's own decision in Orange Plan.
+**Workflow:** record narration first; graphics and text are added after the recording. No slides to review or present. Teaching helps members make decisions using their own circumstances. Application is their Orange Plan, not homework or another practice household.
 
-The thirteen practice blocks are removed from the existing checkpoints. Each now points to the relevant work in the member's actual plan. Nine practical plans no longer detour into a practice case. The final review uses the saved plan and next real actions; it does not require a listener exam, made-up circumstance, written justification, community post or approval to proceed.
+## Delivered
 
-Do not replace the removed work with a new workbook or another checklist outside Orange Plan. Use existing member materials only where they do an actual job, such as family instructions. Actual wallet recovery, account security, legal authority and provider instructions still require their appropriate real-world steps; they cannot be certified merely by editing a plan.
+32 reviewed recording drafts, using condensed or retained source teaching, and the unchanged accepted Reserve. Main-path order and related app chapters are mapped in FILM-ORDER.md. College, Bitcoin-loan management including repeated borrowing, unusual financing, multi-year conversions, tax-sensitive sales, early account access, more involved custody, and trusts are the eight conditional recordings.
 
-The [editorial review](delivery/decision-learning-review.md) keeps the useful beginner-language findings and makes the removed exercise layer historical. The previous PR and commit retain that history; there is no current exercise library. Internal arithmetic checks can remain, but are not assigned to members. Testing should follow a member applying the teaching to their own app plan and identify where the explanation or software blocks progress. No real-user success or sixth-grade accessibility claim is established by this edit.
+The former custom-assumption, state-move and UTXO instructions are retained as narrowly relevant task references. They are not extra launch videos or required reading for unrelated members. Missing-record preparation is part of the tax-sensitive-sale route rather than a compulsory standalone lecture. Ask is introduced with first-result interpretation. The family map and authority/instructions are one connected handoff.
 
-The accepted Reserve, W02, D07, source materials, fixed fixture, toolkit, source-based technical review and existing tests/capture holds remain unchanged. No app behavior, financial assumption, product preference, provider action or course-platform release is changed.
+## Preserve
 
-### Earlier completed passes, retained as history
+Accepted Reserve file, fixed source household, original source-material, member toolkit, D07, W02, technical-review packet and the existing capture-evidence register are unchanged. Their real limitations remain. The map records all 65 source scripts at pinned commit `c4c55601dfdaa893343623a75f478cbbfef120ad`, plus hashes of the later delivered wording. Prior active files are retired into Git history rather than copied into a new archive of competing scripts.
 
-**Source-based technical review — September 8, 2026:** The tax, account-access, healthcare, lending, custody and estate/insurance topic check is documented in [the review packet](delivery/professional-topic-review.md). Sixteen bounded edits clarify ten lessons, with paired recording checks. The factual desk review is complete; licensed sign-off, actual app/device evidence and service-scope classification are not claimed. Existing publication gates remain unchanged.
+The prior A7.2 merge is still recoverable; its current content destinations are 7.1, 8.1 and W07. The historical original destinations remain recorded too.
 
-Austin accepted one main learning path with situation-specific lessons placed where the decision occurs, and asked for an AI-slop pass. This implements that decision without another curriculum reset or importing the retirement video’s financial assumptions.
+## Checks and remaining evidence
 
-## Actual changes
+Generation, counts, source mapping, internal links, arithmetic, mutation rejection and historical recovery must pass on the exact candidate before normal merge. The old lesson-count assertions change only to the explicitly authorized inventory; the member-document and financial-source tests remain. Three arithmetic checks cover the labeled extension of the existing $25,000 / 12% loan example into a second $25,000 draw. It is not a quote or an actual Reed loan.
 
-- The reading order, section files, combined spoken copy, playback/filming order and reference index now use Main path and For your situation. Each additional lesson owns its use condition, parent lesson, prerequisite timing and return route in its canonical metadata. No separate advanced progression is required.
-- A7.2’s distinct operating tasks, agreed responsibility/backup, maintainability and support-cost discussion are in 7.1. Its uncoached absence rehearsal and contact agreement are in 7.4/W07. The duplicate script and its two generated copies are removed; the exact source commit/blob is pinned and verified.
-- All 64 surviving non-Reserve teaching scripts received individually authored paragraph edits: 154 selected replacements/deletions, with 17 producer/evidence passages retained outside spoken text. Existing reasoning, numbers and useful qualifications remain. This is a copyedit, not a claim every script was rewritten from scratch or approved.
-- Selected walkthrough narration is tightened. Applicable extra-lesson reminders are in the relevant run sheets, and W07 includes the merged responsibility work. D07 and W02 remain byte-identical. The accepted 2.3 remains byte-identical.
+Read the recording text as speech. The example should establish the issue early and carry the explanation; a contrast is retained only when it changes the decision. Do not reopen a whole course redesign to fix a sentence. Do not cut a consequential tax/access/security condition merely to meet a word quota.
 
-The course now has 65 active teaching lessons: 50 shared-path lessons, one conditional college lesson and 14 additional situational lessons, plus 11 practical files. Internal A IDs and surviving paths are stable for references. The former A7.2 is recoverable at `f6392a6341c23c557e605506dab3530b67efa146` with blob `0443c4640a4f4b431429eab204f5fe9dc0b67413`.
-
-## Scope and review
-
-No new financial principles, product preferences, legal conclusions, formula assumptions or source household facts were introduced. Original source-material, fixture, toolkit, capture register and the original 264-file recovery inventory are unchanged. The one inventory test now expects 14 situational lessons and verifies the exact authorized A7.2 merge and its destinations; all other member-material tests are unchanged. This pass uses the actual current scripts and the owner-supplied speaking reference, not a new complete deck/audio audit.
-
-The temporary authoring scripts and branch-writing workflow must be removed before integration. Read-only CI must pass on the cleaned candidate and the exact head must be checked before normal merge for owner reading. No force push, history rewrite, branch deletion or app/financial/Production operation is part of this work.
-
-## What remains
-
-Owner read-through and specific wording/judgment corrections; actual approved-build and device demonstrations; relevant professional review; and a real member’s ability to complete and explain the decisions. Do not confuse the written pass, a GitHub merge or structural test with proof of those outcomes. There is no promise of unattended continuation or changed student access.
+Current app behavior, actual calculated results, safe device tests, licensed sign-off, student release and recorded runtime are not established by this manuscript. The production map carries those specific remaining tasks without assigning more work to students.

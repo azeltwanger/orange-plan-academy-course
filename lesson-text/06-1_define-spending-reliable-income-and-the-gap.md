@@ -1,19 +1,13 @@
-# 6.1 — Define spending, reliable income, and the gap
+# 6.1 — Build the retirement paycheck across the important years
 
-Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
-
+Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
 Kind: teach
-Gate: OWNER_REVIEW
-Sources: RETIREMENT, RETIREMENT_DECK, BRAIN, MASTER
+Gate: OWNER_REVIEW, TAX_REVIEW
+Sources: ALLOCATION, APP, BRAIN, MASTER, PRIMARY, RETIREMENT, RETIREMENT_DECK, TAX
 
 ### Read aloud
 
-
 A large retirement balance doesn't tell you how next month's bills get paid after your paycheck stops. You need to know how much your life costs, which income continues, and what the portfolio has to provide.
-
-Those are the three numbers we will start with: spending, income, and the gap.
 
 Use the life you actually want in retirement. Begin with the spending review you've already completed, then change the costs that really change when work stops. Commuting may fall. Travel or hobbies may rise. Healthcare may move from an employer deduction to a bill you pay directly.
 
@@ -21,11 +15,11 @@ Keep essential and flexible spending visible. That doesn't mean you plan to cut 
 
 Add known irregular costs at the right dates rather than pretend retirement is the same month repeated forever. A roof, vehicle, family gift, or college commitment can make one year meaningfully different.
 
-Start the example with $96,000 of living costs and $12,000 for healthcare. That adds up to $108,000. There is also $40,000 of income before tax. Subtract it, and the rough gap is $68,000. Keep that number in view while we add the costs not counted yet.
+For a separate hypothetical household, start with $96,000 of living costs and $12,000 for healthcare. Together, that's $108,000. There is also $40,000 of income before tax. Subtract that income, and the rough gap is $68,000. But we still need to include any costs those amounts leave out.
 
 That subtraction is useful, but it isn't yet the final withdrawal amount. We have compared gross income with only part of the cash outflow. Taxes, required debt, and other costs can change what the portfolio has to supply.
 
-Here is a separate extension purely to explain that reconciliation. Suppose total tax for the period is estimated at $12,000 and an additional $6,000 of debt payments has not been counted in the living figure. Total outflow becomes $126,000. With the same $40,000 of gross income, the remaining cash need is $86,000.
+Let's add two hypothetical costs to that example: $12,000 of total tax for the year and $6,000 of debt payments that weren't included in the living costs. Add those to the $108,000, and total costs become $126,000. Subtract the same $40,000 of income. The gap is now $86,000.
 
 These added figures are assumptions for this example. They show why the rough $68,000 gap is not necessarily the withdrawal you need. If withdrawing more also raises the tax bill, include that change in the calculation.
 
@@ -39,24 +33,68 @@ Investment distributions need care too. If dividends are already included in the
 
 For a couple, keep each person's income and dates separate. Alex's intended retirement date doesn't automatically end Morgan's work or start both people's benefits. The largest portfolio gap may occur in the years before later income begins.
 
-That's the shape to look for in the year-by-year view. The gap can be large just after work stops, then smaller after a pension or Social Security starts. A single average across retirement can hide the years that need the most support.
+Alex would like work to be optional at 52. The usual age-59½ landmark is seven and a half years later. Morgan is two years younger and has a separate timeline. We can't assume Alex's age makes Morgan's retirement accounts available on the same terms.
 
-You may discover that the intended life costs more than the starting estimate. Don't fix that by leaving healthcare or a payment out. Decide whether the spending, timing, or funding needs to change.
+Begin with any income that continues. Then identify cash and taxable investments assigned to these years. Some taxable money may already belong to the Reserve, a purchase, or education. Count the part genuinely available for the retirement gap, not the entire account total.
 
-Let's put one year's income on one side and all its costs on the other. Find what investments need to provide, then look at the next year when income or spending changes.
+Now review any retirement-account access you intend to use. Age 59½ is important, but it is not an absolute lock on all retirement money. Regular Roth IRA contributions, qualifying workplace-plan separation rules, certain governmental 457(b) distributions, and structured periodic payments can have different treatment.
 
-Next we'll identify which accounts can supply that money during the early retirement years.
+Check the conditions for the route you intend to use. The account must allow the withdrawal, and ordinary income tax can still apply even when an early-distribution penalty does not. If your plan depends on using retirement money before 59½, complete the account-access lesson before counting on it.
 
-### Visual and source notes — not spoken
+Then look at the benefit dates. Stopping work and claiming Social Security do not have to happen together. Claiming earlier can bring income into the gap sooner; waiting may provide a larger later benefit under the rules. The cost of waiting is the additional support required before it starts.
+
+For your own Social Security retirement benefit, delayed retirement credits stop at 70. Waiting past that age does not earn more of those credits. Spousal and survivor benefits follow different rules.
+
+Use your actual earnings record and estimates, and review the household rather than only one person's payment. Spousal and survivor benefits, age differences, continuing work and pension choices can change the comparison. A single break-even age doesn't answer every family's needs.
+
+Be clear about inflation conventions. A benefit estimate in today's dollars should not be treated as an already inflated future payment and increased again. Match the source estimate with the model's input convention.
+
+Now compare your resources across the whole gap, year by year. Start with the first withdrawal. Look at the balance remaining, the next year's need, and the date another income or access route becomes available. A rough annual gap multiplied by years is only an orientation; returns, taxes, events and timing affect the actual path.
+
+If the early years are short, compare the decision that addresses them. That might be directing more current saving into accessible accounts, reducing work gradually, changing a commitment, or verifying a legitimate access route. More saving in a later account is not automatically the fix.
+
+Once you know the spending gap, you still need to decide where the money comes from. “Take it from investments” leaves two decisions unfinished: which account provides it, and what gets sold inside that account?
+
+Start with income that arrives for spending. Then meet required distributions or other obligations under their actual rules. Required distributions aren't something to leave until a preferred account order happens to reach them.
+
+After that, choose the accounts that supply the remaining gap. A taxable account, Traditional account and qualified Roth withdrawal can provide different after-tax cash from the same gross amount.
+
+Then choose the assets or lots used inside the selected account. The account order and the sale order are related, but they aren't the same setting. You could withdraw from a Traditional account while selling a stock fund inside it. You could sell personally held Bitcoin in taxable custody and use its cash for spending. Each has a different tax and recordkeeping path.
+
+An account order says which account you intend to use first and which follows. A blend uses more than one account for the same year's spending. Neither is best just because it has a name. Compare whether it supplies the cash you need, what tax it creates, and what money it leaves for later.
+
+One option is a deliberate blend during the earlier period. Some spending can come from Traditional, with the rest from taxable resources. Or a separate conversion may use part of the income window while spending has its own source. We already explained that tax trade-off; here we see how it changes the paycheck.
+
+Keep the same lifestyle in both comparisons. Read current tax, cash available, account balances remaining and the later-year result. A blend that lowers future tax but leaves essential early funding short isn't automatically an improvement.
+
+You may prefer to use other assets for spending before selling Bitcoin. Test how long those assets would last. If they don't cover the period you need, compare a Bitcoin sale, a spending change, or another source that's actually available. The preference alone doesn't fund the gap.
+
+Keep a simple order when it funds the spending and the tax result fits. Use a blend when the improvement is worth the extra decisions and recordkeeping.
+
+Open the first retirement year in your plan. Follow income, total costs, the remaining gap, the account funding it and what that account sells. Repeat that check when work, benefits or access changes. Those are the points where your paycheck may need a different source.
+
+### Source and production notes — not spoken
+
+Source-led condensation of lessons 6.1, 6.2, 6.4. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../delivery/consolidation.md](../delivery/consolidation.md) and the source hashes in [../production/consolidation.json](../production/consolidation.json).
+
+Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
+
+#### Retained 6.1 — Visual and source notes — not spoken
 
 Retirement deck Steps1–4; explain spending/floor/gap through one cash reconciliation. Source96k living+12khealth=108k and40kgross=>68k remain rough arithmetic, not adopted Reed forecast. New explicitly separate extension adds12khypotheticaltotaltax+6kdebt not already counted=>126koutflow;minus40k=86kneed. It is not an engine tax solution; tax-dependent withdrawals must be solved in actual model. Show income reliability and separate spouse dates. Do not duplicate reinvested distributions or withholding.
 
-### Production notes
+#### Retained 6.2 — Visual and source notes — not spoken
 
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+Retirement deck bridge/benefit timing and current qualified-access scope. Preserve Alex52-to59½7.5years, Morganownage. Do not carry the video's universal taxable-only gap or permanent lockup. SSA estimates/earnings, survivor/spousal effects and current plan permissions must support each income/access route. Hypothetical40kgross benefit effect holds costs constant only to explain direction; actualtax updates. W06 must trace every material interval rather than assume a total balance funds it.
 
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+#### Retained 6.2 — Source-based technical check — not spoken
+
+September 8, 2026: P06; S11. Own-benefit delayed credits do not continue past 70. Separate current household, survivor, pension, Medicare and access rules. See [the technical review](../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
+
+#### Retained 6.4 — Visual and source notes — not spoken
+
+Retirement deck waterfall and detailed bracket-trap explanation, corrected current scope: required distributions are mandatory, not last resort. The new work uses tax concepts from5ratherthanreteaching them. Accountorder≠assetsaleorder; netspending≠grosswithdrawal; dividendcash accounted once. Actual blend, account access, tax and funding attribution await verified inputs. Do not claim untouched Bitcoin, Rothalwayslast,or an optimal universal withdrawal order.
 
 ### Member checkpoint
 
-Reconcile a complete retirement year into gross income, all cash costs and the portfolio-funded gap.
+Build the spending and income timeline for each spouse, then show which accessible resources fund each retirement period and the remaining gap.

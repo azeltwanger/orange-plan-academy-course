@@ -7,3 +7,9 @@ The approved spine is Start Here plus ten guided sessions. Cash flow precedes de
 Keep direct explanations. Remove rhetorical “not this, but that” openings when the positive explanation works. Preserve factual distinctions and necessary warnings; do not remove a safety condition to satisfy a style scan. Define unfamiliar financial concepts, show a worked example and finish with a decision or checkpoint.
 
 The new canonical files are complete pre-dictation drafts. Their editorial status is not Austin's voice approval, licensed sign-off, app validation or launch approval. Preserve the source files and history; never call invented connective wording prior dictation.
+
+## Latest owner direction — September 9, 2026
+
+Consolidate to 25 main recordings and eight For your situation recordings. These counts exclude separately captured app/device segments. Record scripts first; text and graphics are edited afterward. Do not require slides, homework, extra practice portfolios, submissions or student presentations. The exercise is applying the teaching to the member's own Orange Plan.
+
+Problem, proof/example and solution should make the decision understandable. Bring the useful example earlier; cut repeated explanations rather than pile on more information. Keep a changed circumstance only when it demonstrates a different decision. Do not import financial assumptions from the YouTube delivery references. The accepted Reserve remains unchanged.

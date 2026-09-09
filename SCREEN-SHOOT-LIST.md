@@ -1,6 +1,6 @@
-# Screen and device production list
+# Separate app and device capture
 
-Use the route in FILM-ORDER.md. Applicable situation-specific instruction comes before relying on the strategy or executing its dependent action. All practical recordings still require actual evidence in CAPTURE-RECEIPTS.md.
+The 33 teaching scripts are separate from these ten working sessions and one device demonstration. Use FILM-ORDER.md for the current grouping. Existing capture evidence is still required; no screen, result or operation is staged to match a script.
 
 ## W01 — Build the first working plan
 

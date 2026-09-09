@@ -1,5 +1,9 @@
-# Current course inventory
+# Consolidated course
 
-51 main-path teaching files include one conditional college lesson: 50 shared-path lessons plus college when relevant. There are 14 additional For your situation lessons placed within their sections, ten app working sessions and one device demonstration. Total active teaching lessons: 65. A7.2 has been merged, not hidden in a second course.
+25 main teaching scripts, eight For your situation scripts. Ten app working-session files and one device demonstration remain separate production work.
 
-Main-path spoken text including college: 40,472 words. Situation-specific text: 7,259 words. Approximate narration at 150 words/minute: 270 and 48 minutes respectively. These are reading estimates, not promised runtimes or proof of value; walkthroughs and pauses are additional. Members do not need every situation-specific lesson.
+Main narration: 27,713 words, compared with 39,097 in the prior owner-delivered 50-script main path: 29.1% shorter. Situational narration: 5,588 words. Total: 33,301, compared with 47,815 across the prior 65 scripts.
+
+At an illustrative 140 words/minute, the main text is about 198 minutes; situational text adds about 40 minutes if every extra were used. These are estimates from written words, not measured runtime, including no pauses or app footage. Do not publish a runtime promise before recording.
+
+The earlier planning target was approximately 22,000–25,000 main words. This draft is longer because some combined decisions retain their technical conditions; it still reduces total narration rather than only renaming files. Lesson count alone is not a comprehension or value claim.

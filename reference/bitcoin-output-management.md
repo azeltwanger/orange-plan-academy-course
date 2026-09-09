@@ -1,6 +1,6 @@
-# A7.4 — Understand UTXOs before consolidating coins
+# Task reference — Understand UTXOs before consolidating coins
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: TASK_REFERENCE — not a launch recording or required member assignment.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -36,11 +36,11 @@ There isn't a permanent dollar or Bitcoin cutoff for useful consolidation. An ou
 
 Before transacting, verify the wallet setup and recovery status. Use the correct network and the trusted device process to confirm the destination. A self-transfer still sends real funds and deserves the same address and fee checks as another payment.
 
-Preserve the ownership and purchase history in the records. Moving coins to your own new output does not automatically mean you acquired the Bitcoin again at today's price. Real transaction-fee treatment needs the appropriate supported tax handling rather than an invented balancing purchase.
+Keep the purchase history when you move coins between your own outputs. The move doesn't turn them into a new purchase at today's price. Keep the actual fee records too, and use the tax treatment that applies to the transaction. Don't invent a purchase to make the balances match.
 
 Coin control selects transaction outputs; it does not, by itself, establish which tax lots you have legally identified. A consolidation can combine several purchase histories into one output. Keep the acquisition records and any required timely identification alongside the transaction history.
 
-The demonstration uses a separate small-value setup. It shows the available outputs, actual preview and privacy comparison without publishing sensitive addresses or recovery material. Match the procedure to the exact wallet and software before using it with your own holdings.
+We'll demonstrate output selection and the fee preview using a separate small-value wallet. The walkthrough also compares the privacy effects. Before doing this with your own holdings, use the procedure for your exact wallet and software. Keep recovery material and sensitive wallet details private.
 
 Compare the fee paid now, the possible saving on a later payment, and the privacy cost. Consolidate only the outputs that fit your purpose—or leave them alone when a transaction wouldn't improve the situation.
 
@@ -62,7 +62,7 @@ The demonstration is a prepared instruction, not evidence that the app, device, 
 
 ### Source-based technical check — not spoken
 
-September 8, 2026: P10; S7, S26. This is a cross-check between output selection and tax identification; not a claim that each output is a unique tax lot or that a self-transfer resets basis. Preserve metadata privacy and the actual device procedure. See [the technical review](../../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
+September 8, 2026: P10; S7, S26. This is a cross-check between output selection and tax identification; not a claim that each output is a unique tax lot or that a self-transfer resets basis. Preserve metadata privacy and the actual device procedure. See [the technical review](../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 

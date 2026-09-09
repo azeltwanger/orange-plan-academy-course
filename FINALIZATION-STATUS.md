@@ -1,25 +1,23 @@
-# Course status — one main path, written drafts under review
+# Status — consolidated scripts for recording review
 
-**Member application — September 9, 2026:** The separate thirteen practice cases and answer checks have been removed at Austin's direction. The clearer explanations remain. Members learn from the teaching, follow the walkthrough and apply the decision to their own plan in Orange Plan. No separate homework, quiz, required post, submitted explanation or course approval step is part of that flow. [Editorial record](delivery/decision-learning-review.md). Actual app and learner evidence still require real use.
+The written consolidation is complete: **25 main scripts plus eight situation-specific scripts**. The 32 other recording drafts use condensed or retained source teaching; the accepted Reserve is byte-identical. The former 65 teaching topics are accounted for in `production/consolidation.json`. Thirty-two old files are retired from the active script and generated reading trees, not hidden as another required course.
 
-**Source-based technical review — September 8, 2026:** The tax, account-access, healthcare, lending, custody and estate/insurance topic check is documented in [the review packet](delivery/professional-topic-review.md). Sixteen bounded edits clarify ten lessons, with paired recording checks. The factual desk review is complete; licensed sign-off, actual app/device evidence and service-scope classification are not claimed. Existing publication gates remain unchanged.
+The main recordings retain the sequence: get started and build the first plan; cash flow and Reserve; debt; allocation and contributions; tax; retirement income; custody; family protection; maintenance and final review. Consecutive lessons that were working toward one decision now form one explanation. New introductions and repeated recaps are cut rather than concatenated.
 
-The approved structure is one complete main path with For your situation lessons beside the relevant decision. The extra work is required when the member’s chosen strategy depends on it, not because the member identifies as advanced. Each placement includes when to use it, what must be completed before relying on it, and where to return.
+The work uses the existing source-led technical corrections and the most recent owner-delivered script-only drafts. YouTube materials guide delivery only; their financial formulas and guarantees are not imported. Examples stay illustrative, with the actual Reeds' source data unchanged. The one new numerical extension in the Bitcoin-loan lesson is explicitly hypothetical and arithmetically checked, not a new contract or source fact.
 
-There are 65 active teaching lessons: 50 shared-path lessons, the conditional college lesson, and 14 other situational lessons. A7.2 is merged into 7.1, 7.4 and W07. Ten app working sessions and the device demonstration remain. The internal identifiers and surviving file paths are stable.
+## Member flow
 
-## This editorial pass
+Learn the decision, follow the app walkthrough, and apply it to your own plan. No separate homework, quiz, practice portfolio, submitted explanation, required post or instructor permission step. Real outside implementation such as payroll, provider, safe recovery or legal execution still requires the actual action; recording an intention does not perform it.
 
-The 64 surviving teaching scripts other than the accepted Reserve receive individually selected paragraph edits. The explanations, mathematical examples, account distinctions and trade-offs are retained; this is not another full rewrite or a uniform shortening exercise. Production commentary is moved to production notes instead of being read to members. Useful responsibility assignment and rehearsal work from A7.2 is integrated, not discarded.
+## Production flow
 
-The Reserve script, W02 including its accepted Reserve block, and the exact safe D07 run sheet are unchanged. Other walkthrough changes tighten selected speech, route applicable extra lessons before the relevant decisions, and integrate the custody-responsibility exercise into W07. Non-spoken safety and verification requirements remain.
+**Scripts → Austin records → text and graphics in editing.** No slide-deck prerequisite. Ten app working files and one device demonstration are kept as separate capture work, with their updated placement in FILM-ORDER.md. W02 and D07 retain their exact bytes and safety content; the new map supersedes their old lesson labels without claiming their behavior is verified.
 
-## Still needs evidence
+The previous capture register remains an unchanged evidence record. Current script IDs and chapter groupings are mapped in FILM-ORDER.md; removed IDs are historical labels, not more recordings. No hold has been marked passed by this edit.
 
-Austin has not approved every new line. Read the section and paired walkthrough together and correct the specific voice or judgment issue in the canonical script. No word count, automated check or new navigation establishes learner comprehension.
+## What remains
 
-Actual approved-build inputs, calculations, account/source behavior, Ask, exports, save/reload and communication features remain recording prerequisites. Device demonstrations require the exact current procedure, a safe authorized test and actual scoped evidence. The fixed fictional household is not an already-calibrated engine result.
+Austin's final spoken read-through and any specific voice/judgment corrections, actual recording, and later editing. Product-dependent teaching and walkthrough footage need the relevant approved build, inputs and real results. Device instructions need the exact safe procedure and scoped evidence. Targeted transaction, account, coverage or legal facts still need their applicable review.
 
-Professional tax, access, lending, coverage, insurance and estate review remains separate. This pass edits the supplied course; it does not introduce a new financial research conclusion, current rate, tax rule or product recommendation. The retirement video remains a voice/structure reference only.
-
-The main-path structure is applied to repository reading and playback instructions, not a live course-platform configuration. Student release, pricing, service operations and renewal value are not validated or changed. Original sources, fixture, toolkit and capture records are preserved. The inventory test is updated specifically for the authorized A7.2 merge and checks its exact source and destinations; other member tests are unchanged. Exact implementation and verification evidence belongs in the PR handoff.
+No new person has independently taken this course or built a plan during this pass. Source-based editing and software checks do not establish a sixth-grade reading certification, learner outcome, $3,000 value claim or released course-platform experience. Current references and the technical report retain their actual review dates; no new licensed approval is claimed.
