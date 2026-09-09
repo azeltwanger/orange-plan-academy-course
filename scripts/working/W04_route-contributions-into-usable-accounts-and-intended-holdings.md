@@ -133,3 +133,14 @@ The uploaded retirement YouTube script supplies delivery and progression only: a
 Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 This file replaces the prior duplicate summary/detail/cue sets with one chapter sequence. Original sources, the fixed household, member documents and the capture register remain unchanged. No real recording, provider action or learner result is certified.
+
+
+### Apply the lesson with different facts — production guidance
+
+After chapter 3, use the changed-facts 4.3 practice case before returning to the member's portfolio. Ask what the non-Bitcoin money is for and why the selected investments fit. At chapters 7–8 use the 4.7 exercise to separate current contributions, later money, account access and the actual purchase.
+
+Use the existing Member checkpoint in the linked teaching script; no second workbook is needed. Let the learner attempt the question before showing its explanation. A valid alternative needs a reason and workable funding, not the example household's settings. Do not record a simulated attempt as a real member outcome.
+
+Prepared narration cue: “Before we copy any numbers, explain the choice you are making. Which facts in your situation matter? Compare the alternative you would actually consider, then read what it changes.”
+
+Primary checkpoint: [4.3](../../scripts/04-3_match-the-money-to-when-you-will-use-it.md). The app's actual fields, results, access and saved-state behavior retain their existing checks.

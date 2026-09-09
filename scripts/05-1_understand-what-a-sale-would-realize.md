@@ -1,6 +1,6 @@
 # 5.1 — Understand what a sale would realize
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,13 +10,16 @@ Sources: TAX, TAX_DECK, DICTATION, PRIMARY
 
 ### Read aloud
 
+
 You may want to sell some Bitcoin to fund a purchase, build cash, or begin retirement. Before deciding how much to sell, you need to know how much of that sale is a taxable gain.
 
 The sale amount and the gain are not the same thing.
 
-Cost basis is the amount used to measure what the investment cost you, with the adjustments required for that asset and transaction. For a straightforward purchase, start with the purchase record. A lot is simply a group of units acquired together. Different purchases can have different basis and holding periods.
+Start with what the investment cost you. The tax record calls the amount used in the gain calculation your cost basis. Purchase costs, fees and other required adjustments can affect it, so use the records. A tax lot is a group of units acquired together. Different purchases can have different costs and purchase dates.
 
-Let's use the lots in the course example. One purchase was at $58,000 per Bitcoin, another at $16,000, and another at $52,000. Suppose we are comparing a sale of 0.2 Bitcoin at the example price of $100,000 per coin, ignoring fees for the illustration.
+For the simplest example, suppose an investment sells for $20,000 and its supported basis is $16,000. Subtract the $16,000 from the $20,000: the gain is $4,000 before fees or other adjustments. The sale money is called proceeds. The proceeds, gain and tax bill are three different numbers.
+
+Now let's use the lots in the course example. One purchase was at $58,000 per Bitcoin, another at $16,000, and another at $52,000. Suppose we are comparing a sale of 0.2 Bitcoin at the example price of $100,000 per coin, ignoring fees for the illustration.
 
 The sale brings in $20,000 in every version. What changes is the basis of the units sold.
 
@@ -29,8 +32,6 @@ Using the $52,000 purchase gives $10,400 of basis and a $9,600 gain.
 Same Bitcoin price. Same amount sold. Different gains.
 
 That is why the purchase history matters before a tax-sensitive sale. But none of those gain amounts is the tax bill. The bill also depends on the holding period, other income, current tax rules, and the household's situation.
-
-For another simple example, selling an investment for $20,000 with $16,000 of supported basis produces a $4,000 gain before fees or adjustments. Treating the entire $20,000 as taxable gain would exaggerate the cost of using that money.
 
 The opposite mistake is treating missing basis as a known zero. A missing record means we don't know the cost yet. It does not prove the entire sale is gain. We need evidence before relying on the tax calculation.
 
@@ -56,4 +57,29 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 
 ### Member checkpoint
 
+
 Explain sale proceeds, supported basis and realized gain separately; choose the evidence needed for one proposed sale.
+
+#### Try a different case
+
+These are practice facts, not another part of the Reeds' plan. Use a calculator as needed. Try the question before opening the reasoning.
+
+You are comparing a sale for $8,000. Supported records give the units being sold a $5,000 basis. Ignore fees only for this arithmetic exercise. No tax rate, other income or holding period is supplied.
+
+**Your question:** Find the gain. Can you determine the tax bill from those two numbers alone?
+
+<details>
+<summary>Check the reasoning</summary>
+
+$8,000 minus $5,000 gives a $3,000 gain. It is not a $3,000 tax bill, and the full $8,000 is not all gain. The tax calculation still needs the relevant income, holding period, account treatment and rules. You have completed the gain calculation, not the entire tax decision.
+
+</details>
+
+<details>
+<summary>Now change one circumstance</summary>
+
+The purchase record is missing instead. Do not set basis to zero to get an answer. Identify the missing history and avoid relying on an unsupported tax cost, while continuing with the facts you do know.
+
+</details>
+
+**Use your own plan:** For a sale you are considering, separate proceeds, supported basis, gain, estimated tax and cash left for the intended use. Identify exactly which unknown would change the comparison.

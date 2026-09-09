@@ -1,6 +1,6 @@
 # 4.7 — Set up contributions and investment purchases
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: actual investment elections, comparison/saving and outside execution remain distinct.
 
@@ -9,6 +9,7 @@ Gate: APP_CAPTURE
 Sources: ALLOCATION, ALLOCATION_DECK, OWNER, APP
 
 ### Read aloud
+
 
 Sending money to an investment account doesn't always mean it has been invested. A transfer may arrive as cash. A retirement contribution may follow an old election. The last step is connecting the amount, the account, and the actual purchase.
 
@@ -38,7 +39,7 @@ For the future card-payoff example, $1,605 could become available when the payme
 
 That split is a teaching comparison, not a recommendation or a transfer already running. If another commitment needs part of the released money, change the split. Check the actual cash flow at payoff before beginning it.
 
-A contribution mix may also differ from the portfolio target. You might direct more of the next dollar toward an underweight holding. Prices and the total portfolio change along the way, so don't promise an exact date to reach the target by dividing today's gap by a fixed monthly contribution.
+What the next contribution buys may differ from the final mix you want. If you own less of one investment than your target calls for, new money can go toward that gap. Prices and the rest of the portfolio change too, so dividing today's gap by a monthly contribution won't tell you the exact date you'll reach the target.
 
 For each contribution, write the amount, where it comes from, when it starts, the receiving account, and what it buys. Include the tax election where it applies. If you chose a category such as stocks, you still need to select and check the actual investment before arranging the purchase.
 
@@ -64,4 +65,29 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 
 ### Member checkpoint
 
+
 Specify each current and conditional future contribution through account and intended investment; record outside instructions and how completion will be confirmed.
+
+#### Try a different case
+
+These are practice facts, not another part of the Reeds' plan. Use a calculator as needed. Try the question before opening the reasoning.
+
+You have $300 a month available for a new investment. The money is intended for a work break in three years. A taxable account permits access for that use. You have not verified any early-withdrawal route from your retirement account. A card payment may free another $200 later, but the card is not paid off yet.
+
+**Your question:** Explain what can be planned now, which access question is unresolved, and whether a $500 transfer is affordable today.
+
+<details>
+<summary>Check the reasoning</summary>
+
+Only $300 is currently available. The possible $200 belongs to a later phase. Compare a receiving account with access for the work break; do not treat an unverified retirement-account exception as available funding. This is not a rule that all retirement money is locked up. Verify the particular route before relying on it. Choosing an account also does not choose the investment or complete a purchase.
+
+</details>
+
+<details>
+<summary>Now change one circumstance</summary>
+
+The work break is canceled and this new saving is now intended for much later retirement. Revisit the account comparison, including eligibility, tax treatment, costs and investment choices. The earlier taxable-account preference need not remain the best choice for the changed job.
+
+</details>
+
+**Use your own plan:** For each current contribution, state the source, amount, start condition, receiving account and intended investment. Explain why the account and investment fit the time you need the money. Check a future payment before activating the extra transfer.

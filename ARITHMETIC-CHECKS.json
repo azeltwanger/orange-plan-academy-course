@@ -665,6 +665,161 @@
       "check": "hypothetical fee higher rate",
       "value": 10000.0,
       "status": "PASS"
+    },
+    {
+      "check": "learning percentage annual contribution",
+      "value": 9300.0,
+      "status": "PASS"
+    },
+    {
+      "check": "learning contribution monthly step",
+      "value": 775.0,
+      "status": "PASS"
+    },
+    {
+      "check": "learning hypothetical LTV threshold",
+      "value": 0.8,
+      "status": "PASS"
+    },
+    {
+      "check": "learning hypothetical collateral price fall",
+      "value": 0.375,
+      "status": "PASS"
+    },
+    {
+      "check": "learning toy tax first layer",
+      "value": 1000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "learning toy tax next layer",
+      "value": 200.0,
+      "status": "PASS"
+    },
+    {
+      "check": "learning toy tax total not actual brackets",
+      "value": 1200.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice annual allowance",
+      "value": 100.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice cash available deposit already after payroll saving",
+      "value": 1400.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice remove duplicate annual allowance",
+      "value": 1500.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice debt proposal exceeds budget",
+      "value": 200.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice debt after reserve",
+      "value": 700.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice more reserve leaves less extra debt",
+      "value": 400.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice portfolio initial cash",
+      "value": 40000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice portfolio remaining",
+      "value": 160000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice portfolio changed cash",
+      "value": 100000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice portfolio changed remainder",
+      "value": 100000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice portfolio changed other weight",
+      "value": 0.25,
+      "status": "PASS"
+    },
+    {
+      "check": "practice later contribution not yet available",
+      "value": 200.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice sale gain not tax",
+      "value": 3000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice conversion tax cash shortage",
+      "value": 2000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice coverage A",
+      "value": 10000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice coverage B",
+      "value": 11000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice retirement annual gap",
+      "value": 48000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice retirement monthly gap",
+      "value": 4000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice retirement finite cash months",
+      "value": 18.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice retirement changed annual gap",
+      "value": 36000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice retirement changed monthly gap",
+      "value": 3000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice retirement changed cash months",
+      "value": 24.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice changed income available",
+      "value": 100.0,
+      "status": "PASS"
+    },
+    {
+      "check": "practice unchanged transfer shortage",
+      "value": 400.0,
+      "status": "PASS"
     }
   ],
   "current_dta_percent": 22.269539078156313,

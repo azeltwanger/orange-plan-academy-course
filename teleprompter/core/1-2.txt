@@ -2,7 +2,7 @@ You might know the balance of every account and still not know what your househo
 
 We need to record the account and what it owns. Then we can add the investments together without counting any money twice.
 
-An account tells us who owns the money and the rules around it. A holding is the investment inside. A Roth IRA can hold stocks, a Bitcoin fund, cash, or other permitted investments. Knowing the account's name doesn't tell us which one you have.
+An account tells us who owns the money and the rules around it. A holding is the investment inside. An IRA is an individual retirement account. A 401(k) is a workplace retirement plan. You can copy the account type from your statement; you don't need to choose a new type now. A Roth IRA can hold stocks, a Bitcoin fund, cash, or other permitted investments. Its name doesn't tell us which investments you have.
 
 Let's look at Alex's Roth IRA. The example account is worth $145,000. It contains $116,000 of spot Bitcoin-fund exposure and $29,000 in stocks.
 
@@ -16,7 +16,7 @@ Sometimes the only reliable information is the total and a rough mix. That is st
 
 A connection to a provider can be incomplete too. It may supply the account balance without the investments or older purchase history. That does not mean the balance is cash. It means part of the picture still needs explaining. Read what actually arrived rather than assuming “connected” means every detail is complete.
 
-Direct Bitcoin has a quantity and a custody location. The wallet describes how you control or access it; Bitcoin is the asset. Keep a clear, non-secret name for each location. A spot Bitcoin fund remains a security in its account. Its dollar exposure can be combined with other Bitcoin exposure later, but it isn't native Bitcoin you can recover using a hardware-wallet backup.
+For Bitcoin itself, record how much you own and where you control or access it. That's the custody arrangement. Use a clear name for the location, without private recovery information. A spot Bitcoin fund is different: you own shares in a fund that holds Bitcoin. Those shares give you Bitcoin price exposure, but they are not coins you can recover with your personal wallet backup. Later we'll add the dollar amounts when reviewing your investment mix.
 
 Now separate today's position from the history behind it.
 

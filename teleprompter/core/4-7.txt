@@ -26,7 +26,7 @@ For the future card-payoff example, $1,605 could become available when the payme
 
 That split is a teaching comparison, not a recommendation or a transfer already running. If another commitment needs part of the released money, change the split. Check the actual cash flow at payoff before beginning it.
 
-A contribution mix may also differ from the portfolio target. You might direct more of the next dollar toward an underweight holding. Prices and the total portfolio change along the way, so don't promise an exact date to reach the target by dividing today's gap by a fixed monthly contribution.
+What the next contribution buys may differ from the final mix you want. If you own less of one investment than your target calls for, new money can go toward that gap. Prices and the rest of the portfolio change too, so dividing today's gap by a monthly contribution won't tell you the exact date you'll reach the target.
 
 For each contribution, write the amount, where it comes from, when it starts, the receiving account, and what it buys. Include the tax election where it applies. If you chose a category such as stocks, you still need to select and check the actual investment before arranging the purchase.
 

@@ -1,6 +1,6 @@
 # 2.5 — Decide how much college help you will provide
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original materials identified below and the unchanged Reserve reference in Lesson 2.3. Prior drafts remain in Git history.
 App references: concepts prepared independently of screen layout; exact behavior and outputs remain unverified until capture.
 
@@ -10,13 +10,14 @@ Sources: CASHFLOW, ALLOCATION, OWNER, PRIMARY
 
 ### Read aloud
 
+
 In this lesson, we're going to work out what help you intend to provide for college and how that fits alongside the rest of your plan.
 
 This lesson is optional. If you don't expect to fund education, you can move on to Debt. You don't need to add a goal just because it appears in the course.
 
 For a parent who does want to help, I would start with the commitment, not the account.
 
-It's easy to jump straight to, "Should I open a 529 or buy Bitcoin for my kids?" Before we can compare those choices, we need to know what the money is supposed to cover and when it will be needed.
+It's easy to jump straight to, "Should I open a 529 or buy Bitcoin for my kids?" A 529 is an education savings account with rules and possible tax benefits. Before comparing the accounts or investments, decide what help you want to provide and when the money will be needed.
 
 Saying you want to help with college could mean very different things. You might intend to pay tuition at an in-state public school, cover a fixed amount each year, or contribute what you can while expecting your child to cover the rest. Housing, meals, fees, travel, and extra years of study can change what that promise costs.
 

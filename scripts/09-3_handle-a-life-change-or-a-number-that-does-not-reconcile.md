@@ -1,6 +1,6 @@
 # 9.3 — Handle a life change or a number that does not reconcile
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -50,4 +50,29 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 
 ### Member checkpoint
 
+
 Classify and resolve one material change or discrepancy through supported facts, then verify the downstream plan without hiding uncertainty.
+
+#### Try a different case
+
+These are practice facts, not another part of the Reeds' plan. Use a calculator as needed. Try the question before opening the reasoning.
+
+Your checked budget had $500 a month available after bills and existing commitments. Take-home income now falls by $400, and the other costs stay the same. The old $500 investment transfer is still scheduled.
+
+**Your question:** What fact needs updating, how much is now available, and which choice needs review?
+
+<details>
+<summary>Check the reasoning</summary>
+
+$100 is now available. Leaving the $500 transfer unchanged would require another $400 from somewhere. Update the real income, then compare the transfer and other flexible choices. Essential bills and required payments still count. A higher assumed Bitcoin return does not replace this month’s missing cash.
+
+</details>
+
+<details>
+<summary>Now change one circumstance</summary>
+
+The income change is only a job you are thinking about, not a change that happened. Keep it in a scenario until chosen. Current facts and a proposed response are different. A quiet month with no material change can end with no strategy edit.
+
+</details>
+
+**Use your own plan:** Classify one actual change or unexplained number in your own plan. Find its source, make the supported correction or comparison, and explain what it changes downstream.

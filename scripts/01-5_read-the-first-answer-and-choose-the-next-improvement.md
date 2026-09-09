@@ -1,6 +1,6 @@
 # 1.5 — Read the first answer and choose the next improvement
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: starting-result transition, full simulations and freshness retain APP_CAPTURE.
 
@@ -10,15 +10,16 @@ Sources: FOUNDATION, APP, DICTATION, REVIEW
 
 ### Read aloud
 
+
 You've entered the numbers, and now the plan gives you a retirement result. What should you do with it?
 
 Start by checking what question it answered. Which retirement date is being tested? What spending does that date support? How long does the money need to last?
 
 The date you selected is your intention. A calculated earliest date answers a different question: when does the modeled plan meet the standard being used? Entering 52 for Alex doesn't make 52 a supported result.
 
-There can also be a difference between a starting projection and a full simulation. A single projected path shows what happens under one sequence of assumptions. A simulation tests many modeled paths. They are related views, but they don't give the same information.
+A projection follows one possible future using the assumptions in the plan. A simulation tests many possible futures built from the model's rules. In one, investments do well early. In another, they struggle. The question is whether each tested future can fund the planned spending through the end of the plan.
 
-Here is how to read a simulation percentage. Suppose 790 out of 1,000 modeled paths fund the spending through age 95. That is 79%. The other 210 paths do not fund the full horizon under the tested rules.
+Suppose 790 out of 1,000 test futures cover the planned spending through age 95. That is 79%: 790 divided by 1,000, then multiplied by 100. The other 210 do not cover the full period under those rules. When a result is called a confidence level, find out exactly what counted as success in that calculation.
 
 That is a separate teaching illustration, not a result for the Reeds. It isn't a prediction that precisely one outcome will happen to your family, and the unsuccessful paths aren't automatically harmless cases needing a tiny adjustment. We need to understand what made the funding difficult.
 
@@ -38,7 +39,7 @@ Change one decision at a time so you can explain the difference. More saving use
 
 If the first answer is strong, don't invent problems to keep optimizing. Explain what supports it and identify the limitation that still matters. If it is weak, find the biggest fixable issue instead of jumping straight to higher Bitcoin returns.
 
-Before moving on, explain what the plan says about your preferred date and which assumption or input needs the next check. The later strategies can wait until we have this starting picture right.
+Before moving on, explain what the plan says about the date you want. Pick one input to verify or one real choice to compare. If the facts are right and you prefer the current plan, keeping it is a decision too. You don't need to change something just because an example did.
 
 Next we'll check the spending and money available each month. That gives us the amount we can use for the Reserve, debt payments, and new investments.
 
@@ -60,4 +61,29 @@ Keep this insert separate until the accepted build confirms the standard and its
 
 ### Member checkpoint
 
+
 Read the actual current result, trace one funding year, and identify the next accuracy check or realistic decision.
+
+#### Try a different case
+
+These are practice facts, not another part of the Reeds' plan. Use a calculator as needed. Try the question before opening the reasoning.
+
+You want to stop work at 55. A friend says to enter a higher investment return until the plan approves 55.
+
+**Your question:** Explain what would change in that comparison and what would not. Then choose a real choice worth testing instead.
+
+<details>
+<summary>Check the reasoning</summary>
+
+A higher return changes the assumed future, not the money saved or the life funded today. After checking the facts, a real comparison might change saving, spending or work timing. Keep the other inputs the same first so you can explain the effect. No particular retirement age or confidence result is the required answer.
+
+</details>
+
+<details>
+<summary>Now change one circumstance</summary>
+
+Suppose the plan already supports your intended life under the assumptions you chose. Do you have to change the plan? No. Keeping it can be a reasoned decision; note what assumption or event you will review.
+
+</details>
+
+**Use your own plan:** Use your intended date and spending. State the current answer, one assumption behind it, and either the next comparison or your reason to keep the plan.

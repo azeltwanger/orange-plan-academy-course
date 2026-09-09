@@ -1,6 +1,6 @@
 # 4.4 — Decide where the next dollar goes
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: actual current/future contribution support and payroll effects require final verification.
 
@@ -10,11 +10,12 @@ Sources: ALLOCATION, ALLOCATION_DECK, CASHFLOW, DEBT, OWNER, APP
 
 ### Read aloud
 
+
 A portfolio target tells you what you want to own. It doesn't tell you how much money is available to buy it this month.
 
 You might want to fund the Reserve, pay off a card, capture the employer match, and buy more Bitcoin. All four can be worthwhile. The contribution plan tells us which can happen now and which needs to wait.
 
-Start from the cash flow we've already checked. Bring forward the existing employee contribution and the Reserve and extra-debt decisions. We are not reopening those lessons. We are putting their amounts on the same page.
+Start with the cash flow you've checked. Put the existing payroll contribution, Reserve funding and extra debt payments on the same page. The next investment must fit alongside them.
 
 For Alex and Morgan's reduced-spending example, $2,475 remains after the listed costs but before Alex's employee contribution. His $775 leaves $1,700. The $500 Reserve contribution and $1,200 extra card payment use it all.
 
@@ -30,7 +31,7 @@ For example, the Reeds are building cash and paying extra on the card at the sam
 
 When a match is relevant, read the formula. Alex contributes 6% of a $155,000 salary. The employer matches half of that under the example's terms. It is not another 6% of salary. Check vesting too—the conditions for keeping the employer contribution—before assuming every dollar is immediately yours.
 
-For the remaining money, ask which part of the plan needs it. If the years before retirement-account access are short, an accessible destination may help more than another later-retirement contribution. When those years are covered and the goal is much later, the tax-advantaged choices may be more useful.
+For any money left, ask which part of the plan is not funded yet. If you don't have enough available for the years before you can use retirement accounts, adding to an accessible account may help more. If those early years are funded and this money is for later, compare the retirement-account choices. We are looking for a shortage of usable money, not simply counting how many years there are.
 
 The deck's longer-term sequence compares HSA, IRA, then additional workplace saving. We'll examine why and when that changes in the account lesson. It doesn't mean maxing every retirement account before building the money that supports the life you want sooner.
 

@@ -1,6 +1,6 @@
 # 6.3 — Price healthcare before leaving employer coverage
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,13 +10,16 @@ Sources: RETIREMENT, OWNER, PRIMARY, BRAIN
 
 ### Read aloud
 
+
 Leaving a job can also mean leaving the health coverage behind. A retirement plan isn't ready for that transition if healthcare is represented by a guess or by the payroll amount you used to see while employed.
 
 We need a coverage path and a budget for the period before Medicare, then a separate plan for the transition into it.
 
 Start with what is actually available. That could include a spouse's employer plan, continuation coverage, a Marketplace plan, or another arrangement for which you qualify. Identify when the current coverage ends and when the replacement can begin. Don't leave a gap between two dates that only looked close on the calendar.
 
-Then compare the full cost, not just the monthly premium. Look at deductibles, copayments, coinsurance, network, prescriptions, and the out-of-pocket protection that applies. The out-of-pocket maximum may not cover every type of expense or out-of-network service.
+Then compare the full cost. The premium is what you pay to keep the coverage. The deductible is the amount you pay for services subject to it before the plan starts paying its share. A copayment is a set charge for care; coinsurance is a percentage of the covered cost you pay. The network is the group of doctors, facilities and other providers that have an agreement with the plan. Check your doctors and needed services separately.
+
+Read the out-of-pocket limit too. It does not necessarily include premiums, services the plan excludes, or every out-of-network cost. Use the actual policy to see what remains your responsibility.
 
 A lower premium can be useful when the coverage fits. It can also mean more cost when care is needed. Ask what a normal year and a difficult year would require from the household.
 
@@ -66,4 +69,29 @@ September 8, 2026: P07; S4, S12. Verify the normal eight-month Part B window and
 
 ### Member checkpoint
 
+
 Choose a verified coverage direction and normal/difficult-year budget with funded transitions, or a precise prerequisite before leaving coverage.
+
+#### Try a different case
+
+These are practice facts, not another part of the Reeds' plan. Use a calculator as needed. Try the question before opening the reasoning.
+
+Two imaginary coverage choices have the following ordinary-year estimates. A: $6,000 of premiums plus $4,000 of other costs. B: $4,000 of premiums plus $7,000 of other costs. These are practice numbers, not policy quotes.
+
+**Your question:** Compare the totals. Is the lower-premium choice automatically less expensive or the better coverage?
+
+<details>
+<summary>Check the reasoning</summary>
+
+A totals $10,000; B totals $11,000. The lower premium does not establish the lower complete cost. The totals still do not establish which policy fits: check covered care, network, limits, dates and the household’s difficult-year cash need.
+
+</details>
+
+<details>
+<summary>Now change one circumstance</summary>
+
+A excludes a medicine the household needs. The earlier ordinary-year estimate no longer settles the comparison. Check the actual uncovered cost and alternatives before selecting coverage. Do not change the estimate to preserve the first answer.
+
+</details>
+
+**Use your own plan:** Compare the actual coverage you can obtain and fund. Explain the ordinary-year cost, the important retained risk and the dates when each person’s coverage changes.

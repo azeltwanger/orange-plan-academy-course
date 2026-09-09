@@ -1,6 +1,6 @@
 # 8.3 — Write your family's first instructions
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -58,4 +58,29 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 
 ### Member checkpoint
 
+
 Complete the Heir Letter and Executor Packet, verify they can be found, and rehearse first actions with consent and no secret exposure.
+
+#### Try a different case
+
+These are practice facts, not another part of the Reeds' plan. Use a calculator as needed. Try the question before opening the reasoning.
+
+A family helper knows how to use a Bitcoin wallet, but it has not been established that the helper has authority to use the owner’s assets. The family can find a collection of documents but not a clear first contact.
+
+**Your question:** Explain what the starting letter should help them do. Does technical skill or possession of a login settle legal authority?
+
+<details>
+<summary>Check the reasoning</summary>
+
+The first page should direct the reader to the appropriate authorized person and legitimate provider or technical process. Technical ability and account credentials do not create legal authority. Confirm the role for incapacity separately from the role after death; use the existing documents and professional contact to resolve the specific authority question.
+
+</details>
+
+<details>
+<summary>Now change one circumstance</summary>
+
+The first contact is unavailable. The packet needs an agreed backup route the family can find, not an instruction to guess passwords or send recovery words to someone offering help.
+
+</details>
+
+**Use your own plan:** Ask a consenting person to explain the first steps from your safe instructions. Correct the unclear step. Do not send sensitive files or claim a successful rehearsal until it actually happens.

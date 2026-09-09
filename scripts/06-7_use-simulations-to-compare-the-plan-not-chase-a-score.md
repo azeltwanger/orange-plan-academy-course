@@ -1,6 +1,6 @@
 # 6.7 — Use simulations to compare the plan, not chase a score
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -9,6 +9,7 @@ Gate: APP_CAPTURE
 Sources: RETIREMENT, FOUNDATION, APP, BRAIN
 
 ### Read aloud
+
 
 Once the funding plan is assembled, use simulations to compare a decision—not to chase the highest percentage on the screen.
 
@@ -26,13 +27,13 @@ Now compare spending. A higher amount may reduce modeled success while supportin
 
 Look inside the paths or relevant years the tool actually makes available. Where does funding become difficult? Is it an early account-access issue, a large event, a prolonged weak market, tax pressure or the size of spending itself? The response should address that cause.
 
-An early funding failure is different from an unfavorable long-run terminal balance. A plan that would need a reduction the household cannot make should not be called comfortable simply because most paths work.
+Running short soon after you stop work is different from ending the plan with less money than you hoped. Find when the shortfall occurs and what the household would have to change. An adjustment you cannot actually make does not solve the problem.
 
 Use the stress comparison to test the operating rules too. Does the reserve run down? What happens near its floor? Does the proposed annual spending change leave essential bills covered? When borrowing is involved, can the contract force action outside the simulation's financial assumptions?
 
 The simulation is not a probability estimate for every risk in life. It doesn't certify the custodian, guarantee tax law, or prove that a lender will allow the planned response. Keep those other checks where they belong rather than let a favorable score replace them.
 
-Assumption sensitivity deserves a separate comparison. Hold the household choices fixed and test a less favorable return path that the app supports. If the plan works only under a very optimistic model, make that dependence explicit before acting. Don't silently reduce volatility or raise returns to recover a desired result.
+Also test how much the answer depends on the assumed investment returns. Hold the household choices fixed and test a less favorable return path that the app supports. If the plan works only under a very optimistic model, make that dependence explicit before acting. Don't silently reduce volatility or raise returns to recover a desired result.
 
 You also don't have to optimize to 100%. That can mean giving up spending or working longer for a margin the household may not choose. The appropriate confidence target is a preference to test alongside flexibility and consequences, not a universal promise of safety.
 

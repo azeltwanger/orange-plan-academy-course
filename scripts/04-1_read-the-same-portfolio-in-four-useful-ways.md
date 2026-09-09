@@ -1,6 +1,6 @@
 # 4.1 — Understand the portfolio you already own
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: use the approved redesign for actual views, included assets and save behavior.
 
@@ -10,13 +10,14 @@ Sources: ALLOCATION, ALLOCATION_DECK, OWNER, APP
 
 ### Read aloud
 
+
 You may already know what percentage you want in Bitcoin. But that leaves another question: what should the rest of your portfolio do?
 
 Some of it might be cash you need soon. Some might be stock funds inside a retirement plan. You may own property or a business as well. Before changing anything, let's understand the portfolio you actually have.
 
 We're going to build from that picture, not start with a model portfolio and tell every household to copy it.
 
-First, add up what you own across accounts. Looking only at your wallet can understate your Bitcoin exposure when retirement accounts hold Bitcoin funds too.
+Your portfolio is the group of investments we're reviewing. Add up what you own across its accounts. Bitcoin exposure means the amount whose value is tied to Bitcoin. Looking only at your wallet misses that exposure when retirement accounts also hold Bitcoin funds.
 
 For Alex and Morgan, the investments we're using in this allocation example total about $1.3 million. They have $410,000 of direct Bitcoin value and $318,000 of spot Bitcoin-fund exposure in retirement accounts. Together, that is $728,000—about 56% of this group of assets.
 

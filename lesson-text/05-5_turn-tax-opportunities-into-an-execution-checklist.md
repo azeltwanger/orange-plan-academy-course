@@ -1,6 +1,6 @@
 # 5.5 — Choose this year's tax actions
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,11 +10,12 @@ Sources: TAX, TAX_DECK, BRAIN, PRIMARY, APP
 
 ### Read aloud
 
+
 Once you've identified a tax opportunity, how do you turn it into a useful action without creating a different problem?
 
 Start with the purpose. Are you trying to realize a loss, use a favorable gain year, convert some retirement money, or fund spending at an acceptable cost? The transaction should serve that purpose—not happen just because the account is down or a deadline is approaching.
 
-Let's compare gain harvesting and loss harvesting. Both involve realizing something that was previously only a change in value, but they solve different problems.
+In these examples, harvesting means choosing to sell so a gain or loss becomes part of the tax record. Before the sale, it was a change in what the investment was worth. Gain harvesting and loss harvesting do different jobs; neither means the gain or loss itself is your tax bill.
 
 Suppose an investment is worth $20,000 and has $16,000 of supported basis. A sale realizes a $4,000 gain before adjustments. In a year when that gain receives favorable tax treatment, intentionally realizing it may be worth comparing. If exposure is reacquired, the new purchase has its own basis and holding period.
 

@@ -1,6 +1,6 @@
 # 5.2 — Rebuild the purchase records you need
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -9,6 +9,7 @@ Gate: TAX_REVIEW
 Sources: TAX, DICTATION, CLIENT_THEMES, APP, PRIMARY
 
 ### Read aloud
+
 
 What do you do when you own the Bitcoin but the purchase history is scattered across old exchanges and wallets?
 
@@ -36,7 +37,7 @@ A bank payment can help establish that money went to an exchange. It may not, by
 
 Pay attention to ownership changes too. A transfer between your own wallets is different from receiving a gift or an inheritance. Those can have different basis and documentation rules. Name the type of event and obtain the evidence for it; don't treat every receipt as an ordinary purchase.
 
-Then reconcile prior disposals with the filed tax record. The units already sold should not still appear as available lots. A loss carryforward needs support from the return and intervening activity, not merely an old screenshot showing a loss.
+Next, check past sales against the filed tax record. Units you already sold should not still appear as available to sell. If a tax loss was left over to use in a later year, that's a loss carryforward. Verify the amount still available from the returns and later activity; an old screenshot of a falling investment isn't enough.
 
 Tax software can help organize the work, but its output still needs checking. Ask what the import supplied, how transfers were matched, which method was used, and where an assumption filled a gap. A report with many decimal places can still be built on the wrong transaction type.
 

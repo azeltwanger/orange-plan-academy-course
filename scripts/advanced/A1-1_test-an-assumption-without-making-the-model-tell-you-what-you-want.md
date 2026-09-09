@@ -1,6 +1,6 @@
 # A1.1 — Test an assumption without making the model tell you what you want
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -14,6 +14,7 @@ Return to: W01 chapter 8, then lesson 1.5
 
 ### Read aloud
 
+
 Use this lesson when you need to test an assumption the normal settings don't express. Start with the question you want the comparison to answer.
 
 Suppose the plan supports your preferred retirement date under the current Bitcoin path, but you want to know what happens when growth slows earlier. State that question before touching the inputs.
@@ -22,7 +23,7 @@ Keep the household's spending, dates, contributions and accounts unchanged. Then
 
 A flat annual return, a declining schedule and a power-law path can produce similar averages while describing different years. The label is less important than the sequence it creates for the money you intend to spend.
 
-Expected growth is also different from uncertainty around it. A model's volatility, correlations and distribution assumptions affect the range and sequence of outcomes. Don't reduce uncertainty simply to make a desired retirement date pass. Use the current methodology to understand which controls are available and what they change.
+Expected growth is different from the range of possible results. Volatility describes how much returns swing. Correlation describes how investments move in relation to each other. The model also makes choices about how often it tests small and extreme changes. Those choices affect the outcomes. Don't make the test easier just to approve a retirement date. Check what the model actually supports before changing those assumptions.
 
 Now inspect the consequence. Does the slower path create an early funding gap, a larger later withdrawal, or a different taxable account balance? That tells you which household decision is sensitive to the assumption.
 

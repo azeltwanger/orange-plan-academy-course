@@ -1,6 +1,6 @@
 # 2.4 — Put future changes on the timeline
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original materials identified below and the unchanged Reserve reference in Lesson 2.3. Prior drafts remain in Git history.
 App references: concepts prepared independently of screen layout; exact behavior and outputs remain unverified until capture.
 
@@ -9,6 +9,7 @@ Gate: APP_CAPTURE
 Sources: CASHFLOW, FOUNDATION, DICTATION, CLIENT_THEMES, APP
 
 ### Read aloud
+
 
 So far, we've worked from what your income and spending look like today. Now we're going to add the changes you already expect, so the plan doesn't assume the rest of your life looks exactly like this month.
 
@@ -68,7 +69,7 @@ The more important it is that the full amount be there on a particular date, the
 
 Let's add one expected expense and one income change, then open the period they affect. Did the expense appear when intended? What income was available, and which account covered the rest? Check what remains afterward, not just whether the retirement date moved.
 
-That is more useful than only looking at whether the retirement date moved. A plan may still show the same retirement timing while asking you to sell an investment or take on a payment you wouldn't be comfortable with.
+The retirement date might stay the same even though funding the purchase requires a sale or a loan you wouldn't choose. Read that trade-off before deciding.
 
 Finally, remember to update an event when it happens.
 

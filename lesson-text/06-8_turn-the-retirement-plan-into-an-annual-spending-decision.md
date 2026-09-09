@@ -1,6 +1,6 @@
 # 6.8 — Decide what to spend next year
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,11 +10,12 @@ Sources: RETIREMENT, RETIREMENT_DECK, MAINTENANCE, APP
 
 ### Read aloud
 
+
 After retiring, how do you decide whether to keep spending the same amount, cut back, or spend more?
 
 Without a review rule, it is easy to react to every market move—or never adjust at all because the original projection looked good. We want a repeatable decision based on the plan and the life it needs to fund.
 
-Start with the spending policy you have chosen and the current, updated plan. A standing guardrail is a condition that calls for review. A proposed spending amount is the choice being considered for the coming year. Those are different things.
+Start with the updated plan and the spending rule you chose. A guardrail tells you when to review that rule. It might be a change in the portfolio's value or in the model's confidence result. The amount you decide to spend next year is a separate choice. First notice the reason to review; then work out what, if anything, to change.
 
 If the app expresses a guardrail as a portfolio value, that value is a review threshold. It is not money you can spend. If the policy uses confidence triggers, read what the triggers mean under that policy. Don't relabel a percentage as a dollar threshold without the actual calculation.
 
@@ -52,4 +53,29 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 
 ### Member checkpoint
 
+
 Record next year's considered spending, funding, Reserve decision and review timing, distinguishing the proposal from the standing guardrails.
+
+#### Try a different case
+
+These are practice facts, not another part of the Reeds' plan. Use a calculator as needed. Try the question before opening the reasoning.
+
+A separate retirement practice case has $72,000 of annual cash costs, including an assumed complete tax estimate and all required payments. Reliable gross income is $24,000. It has $72,000 of cash assigned only to the remaining spending gap. Hold returns, interest, taxes and other costs fixed for this arithmetic exercise.
+
+**Your question:** Find the annual and monthly gap. How many months would the cash cover at that pace, before any refill? Does the cash remove the need for a longer-term funding plan?
+
+<details>
+<summary>Check the reasoning</summary>
+
+The annual gap is $48,000: $72,000 minus $24,000. That is $4,000 a month. $72,000 divided by $4,000 is eighteen months. The cash is a finite part of the existing assets, not extra wealth and not proof of lifetime funding. State the source and decision for the next refill.
+
+</details>
+
+<details>
+<summary>Now change one circumstance</summary>
+
+Reliable gross income rises to $36,000, with the stated costs held fixed just for this exercise. The gap becomes $36,000 a year or $3,000 a month, so the same cash covers twenty-four months. In the actual plan, update taxes and other linked costs too. The Reserve’s job depends on the spending gap, not a copied percentage of assets.
+
+</details>
+
+**Use your own plan:** Read your next year’s spending, income, investment withdrawals and cash together. Explain the choice, the next review point and a workable response if the planned adjustment cannot cover essential bills.

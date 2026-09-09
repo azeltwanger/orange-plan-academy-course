@@ -1,6 +1,6 @@
 # 4.5 — Choose the account that can do the job
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: provider availability, investment menus and contribution eligibility remain verification tasks.
 
@@ -10,11 +10,10 @@ Sources: ALLOCATION, ALLOCATION_DECK, PRIMARY, APP
 
 ### Read aloud
 
+
 You can choose a good investment and put it in an account that doesn't fit when you need the money. You can also choose an account for its tax benefit and discover it cannot hold the investment you intended to buy.
 
-Start with when you'll need the money. Then check whether the account lets you use it then and offers the investments you intend to buy.
-
-Start with the contribution's job. Is it intended for an early work transition, a later retirement year, or a dedicated expense such as healthcare? Then compare the accounts actually available to you.
+Begin with the job of this new saving, which we call a contribution. Is it for an early work change, later retirement, or a specific cost such as healthcare? Compare the accounts you could actually use. Can you get the money when needed? Can the account hold the investment? What costs and tax rules go with it?
 
 A taxable brokerage account provides investment access without making ordinary withdrawals depend on reaching a retirement age. Personally held Bitcoin belongs to that taxable planning picture too. A sale may have a tax cost, but an early-retirement account-access exception is not normally needed just to use your taxable investments.
 
@@ -32,7 +31,7 @@ For self-directed Bitcoin retirement arrangements, account administration and cu
 
 For an IRA, don't use the Bitcoin as collateral for a personal loan or sell your personally owned Bitcoin to your own IRA. Those transactions can trigger distributions or loss of IRA tax treatment. Direct control does not turn retirement assets into unrestricted personal property.
 
-An HSA can be attractive when you are eligible to contribute and the money has a healthcare role. It can combine favorable contribution treatment with tax-free use for qualified medical expenses. You need the coverage eligibility and the records supporting qualified use, not just an account with HSA in its name.
+An HSA is a health savings account. If you qualify to contribute, it can give tax benefits when saving and when paying qualified medical expenses—expenses that meet the tax rules. First check whether your coverage makes you eligible, and keep the records for the medical costs you plan to pay from it.
 
 For tax-free reimbursement, the medical expense must qualify, have been incurred after the HSA was established, and not already have been reimbursed or deducted. After 65, nonmedical withdrawals are still income-taxable, but the additional 20% tax no longer applies. The account is not limited to medical spending forever.
 

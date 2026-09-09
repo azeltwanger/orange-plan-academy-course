@@ -2,7 +2,7 @@ After retiring, how do you decide whether to keep spending the same amount, cut 
 
 Without a review rule, it is easy to react to every market move—or never adjust at all because the original projection looked good. We want a repeatable decision based on the plan and the life it needs to fund.
 
-Start with the spending policy you have chosen and the current, updated plan. A standing guardrail is a condition that calls for review. A proposed spending amount is the choice being considered for the coming year. Those are different things.
+Start with the updated plan and the spending rule you chose. A guardrail tells you when to review that rule. It might be a change in the portfolio's value or in the model's confidence result. The amount you decide to spend next year is a separate choice. First notice the reason to review; then work out what, if anything, to change.
 
 If the app expresses a guardrail as a portfolio value, that value is a review threshold. It is not money you can spend. If the policy uses confidence triggers, read what the triggers mean under that policy. Don't relabel a percentage as a dollar threshold without the actual calculation.
 

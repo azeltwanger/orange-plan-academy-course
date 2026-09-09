@@ -1,6 +1,6 @@
 # 1.4 — Choose assumptions you can explain
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: model choices and exact preset paths require final build verification; no current preset rate is asserted.
 
@@ -9,6 +9,7 @@ Gate: OWNER_REVIEW
 Sources: DICTATION, FOUNDATION, APP, MASTER
 
 ### Read aloud
+
 
 You can move a retirement date earlier in a calculator without saving another dollar. Increase the return assumption, and the future balance grows. The result looks better immediately.
 
@@ -42,7 +43,9 @@ A more optimistic comparison can be useful too. Strong growth may change future 
 
 Check how the model treats the investments you own. A Bitcoin fund, a company that owns Bitcoin, and a leveraged product can behave differently. If you're changing assumptions for a particular holding, use the lesson on testing assumptions before relying on that result.
 
-Before continuing, be able to say what growth path, inflation basis, and horizon your starting plan uses—and why. Keep one less-favorable comparison beside it. Now the first result will mean something: it answers a question under assumptions you deliberately chose.
+Before continuing, explain three things: how the investments are assumed to grow, how rising prices affect spending, and how many years the plan needs to cover. That last period is the planning horizon.
+
+You are not being asked to predict the right return. Start with a model you understand, then compare a slower-growth version. If the answer changes, identify the choice it affects—saving, spending, or work timing. Choosing that response is the decision you control.
 
 ### Visual and source notes — not spoken
 

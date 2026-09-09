@@ -1,6 +1,6 @@
 # 3.2 — Measure leverage before and after a drawdown
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original Debt Strategy two-ratio, drift and LTV teaching; current course distinctions and unchanged Reed fixture.
 App references: ratios and arithmetic graphics are not verified app outputs or lender terms.
 
@@ -10,11 +10,12 @@ Sources: DEBT, BRAIN, APP, PRIMARY
 
 ### Read aloud
 
+
 You can have the same debt today that you had six months ago and still be in a very different position. If the assets behind that debt have fallen in value, you have less room to deal with the obligation—even though you haven't borrowed more.
 
 That's what we're going to look at here. We checked the monthly payments in the last lesson. Now we want to understand what you owe compared with what you own, and what changes during a drawdown.
 
-Start with the total value of the assets included in your balance sheet. Then compare the total debt with that number. Debt divided by assets gives us the debt-to-assets ratio.
+Your assets are the things you own that have value. Your debts are what you owe. A balance sheet lists both. Divide the debt by the value of the assets, then multiply by 100 to get the percentage. That is the debt-to-assets ratio.
 
 Use the assets before subtracting debt. Net worth is what remains after that subtraction, so it answers a different question.
 
@@ -52,7 +53,9 @@ Suppose a Bitcoin-backed loan begins at 50% LTV. The loan is half the value of t
 
 The lender may have the right to sell the collateral well before that point. You need the actual terms for the loan you're considering.
 
-For the course illustration, we're using a hypothetical liquidation threshold of 80%. With a fixed debt balance, a loan starting at 50% LTV reaches that line after a 37.5% decline in collateral value. Starting at 25% gives it more room: about a 68.75% decline reaches the same line.
+For this example, suppose the lender can sell the collateral at 80% LTV. Picture $50,000 owed against $100,000 of collateral. If that collateral falls to $62,500, the loan is now 80% of its value: $50,000 divided by $62,500. The collateral fell $37,500 from the starting $100,000—a 37.5% decline. The loan balance didn't change.
+
+Starting at 25% LTV gives more room: a 68.75% decline reaches the same assumed 80% line when the debt stays fixed. These are made-up contract terms to explain the math, not a lender's current offer.
 
 Notice what the numbers describe. They are price declines to the assumed liquidation threshold. They are not percentage-point gaps between two LTV readings, and they don't tell us when a lender will first contact you. A warning or collateral call can have a different trigger.
 

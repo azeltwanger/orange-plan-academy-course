@@ -1,6 +1,6 @@
 # 4.6 — Choose Traditional, Roth, or a deliberate mix
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: actual tax elections and household cash-flow effects require verified inputs; no Reed election is inferred from an account label.
 
@@ -10,9 +10,10 @@ Sources: ALLOCATION, ALLOCATION_DECK, TAX, PRIMARY, OWNER
 
 ### Read aloud
 
+
 Should you pay income tax before investing the money, or when you use it later? That's the basic Traditional-versus-Roth decision.
 
-A Roth balance can look attractive because qualified withdrawals are tax-free. A Traditional contribution can look attractive because it may reduce taxable income now. To compare them fairly, we need to account for the tax on both sides.
+A withdrawal is money you take out of an account. Qualified means the withdrawal meets the rules for that account's tax benefit; it does not mean every withdrawal from that account is tax-free. Roth can provide tax-free qualified withdrawals. Traditional may reduce the income taxed now. Let's count the tax on both sides before choosing.
 
 Let's start with the same $1,000 of pretax earnings and a hypothetical 20% tax rate. We're assuming a deductible Traditional contribution and no other complications for this illustration.
 

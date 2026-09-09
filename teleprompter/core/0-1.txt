@@ -6,7 +6,9 @@ Those are the questions we're going to answer in this program.
 
 It took me four years of holding Bitcoin to realize what I was missing. I had an investment strategy, but I didn't have a financial plan where I could see everything in one place. Buying an asset and understanding how it will support your life are different things.
 
-We'll work through one decision at a time. I'll explain it, show you an example, and then help you do the same in your plan. Each section builds on the one before it.
+We'll work through one decision at a time. I'll explain the choices and show why a household might prefer one. Then you'll compare the choices that fit your life. Your answer does not have to match the example.
+
+Use a calculator and pause when you need to. This is not a test of mental math. What matters is knowing which numbers to use, what the result means, and what you would do with it.
 
 Start with what you want the money to make possible. You might want to retire, reduce your hours, change careers, or spend more time with your family. Give that goal an initial date and spending amount. We need something specific to test, not a date we have to make the numbers approve.
 
@@ -14,7 +16,7 @@ Our example household is Alex and Morgan Reed. They're fictional, and we'll use 
 
 We won't put their whole financial life on screen at once. We'll bring in the information needed for each decision. Your account list may be much simpler. Follow the reasoning, not the number of accounts they have.
 
-First, we'll get a believable starting picture. Then we'll establish what money is available, size the reserve, and decide what to do with debt. Allocation turns those decisions into a portfolio and contribution plan. Tax and retirement income explain how the money can eventually reach your bank account. Custody, family instructions, and maintenance make the plan usable beyond today.
+First, we'll get a believable starting picture. Then we'll work out what money is available, how much cash to keep for problems, and what to do with debt. Allocation means choosing your investment mix. That section helps you choose what to own and where new savings go. After that, we'll work out how the money can pay for retirement, how to protect access to your Bitcoin, and how to keep the plan useful as life changes.
 
 For example, choosing to invest more only helps if the cash flow supports it. Choosing a Roth account only solves the problem when that account fits the purpose and access you need. That's why the order matters. Each section uses a decision you've already made.
 
