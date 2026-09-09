@@ -150,13 +150,6 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 
 This file replaces the prior duplicate summary/detail/cue sets with one chapter sequence. Original sources, the fixed household, member documents and the capture register remain unchanged. No real recording, provider action or learner result is certified.
 
+### Application in the member's own plan — production guidance
 
-### Apply the lesson with different facts — production guidance
-
-After chapter 9, let the member explain a starting result and choose one comparison without supplying the example's settings. Use the 1.5 practice prompt first if the distinction between changing an assumption and changing a household decision is unclear.
-
-Use the existing Member checkpoint in the linked teaching script; no second workbook is needed. Let the learner attempt the question before showing its explanation. A valid alternative needs a reason and workable funding, not the example household's settings. Do not record a simulated attempt as a real member outcome.
-
-Prepared narration cue: “Before we copy any numbers, explain the choice you are making. Which facts in your situation matter? Compare the alternative you would actually consider, then read what it changes.”
-
-Primary checkpoint: [1.5](../../scripts/01-5_read-the-first-answer-and-choose-the-next-improvement.md). The app's actual fields, results, access and saved-state behavior retain their existing checks.
+Use the member's own information throughout the existing setup and result review. Show how to find the source of a surprising number and how to compare a real question without silently replacing Current. Continue when the relevant step is understood and completed; do not insert a second household, quiz or answer-reveal task.

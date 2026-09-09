@@ -136,13 +136,6 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 
 This file replaces the prior duplicate summary/detail/cue sets with one chapter sequence. Original sources, the fixed household, member documents and the capture register remain unchanged. No real recording, provider action or learner result is certified.
 
+### Application in the member's own plan — production guidance
 
-### Apply the lesson with different facts — production guidance
-
-Use the 6.3 cost comparison where coverage is discussed, then the 6.8 spending-gap practice at the annual review. The member must explain the actual source, finite cash and what changes under different income. Use their own figures only after the approved build represents the relevant facts; no exercise number is an engine result.
-
-Use the existing Member checkpoint in the linked teaching script; no second workbook is needed. Let the learner attempt the question before showing its explanation. A valid alternative needs a reason and workable funding, not the example household's settings. Do not record a simulated attempt as a real member outcome.
-
-Prepared narration cue: “Before we copy any numbers, explain the choice you are making. Which facts in your situation matter? Compare the alternative you would actually consider, then read what it changes.”
-
-Primary checkpoint: [6.8](../../scripts/06-8_turn-the-retirement-plan-into-an-annual-spending-decision.md). The app's actual fields, results, access and saved-state behavior retain their existing checks.
+Build the member's own retirement paycheck from their spending, income, accounts and coverage dates. Use the actual supported result to compare relevant changes and finish the spending/Reserve decision. Do not insert fictional homework or a score to pass. Unsupported healthcare or contract effects stay clearly separate from app outputs.

@@ -1,6 +1,6 @@
 # 3.3 — Give every existing debt a job
 
-Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
+Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
 Adapted source: Austin debt playbook, original Debt Strategy deck/outline and call explanations; accepted liquidity judgment and unchanged Reed fixture.
 App references: extra-payment entries, interest schedules and payoff results require the approved build.
 
@@ -92,31 +92,4 @@ Additional mechanism reference, read September 8, 2026: Chase mortgage recast ex
 
 ### Member checkpoint
 
-
-- Assign each existing debt an action, reason and review point instead of relying on its balance or rate alone.
-- Distinguish required, extra and total payments and fit the proposed extra total beside Reserve funding.
-- Explain what keeping debt preserves, what payoff changes, and when genuinely released payments become available for a new decision.
-
-#### Try a different case
-
-These are practice facts, not another part of the Reeds' plan. Use a calculator as needed. Try the question before opening the reasoning.
-
-A practice household has $1,000 a month left after required debt payments and its existing payroll saving. Its current working choice is $300 to the Reserve. Someone proposes another $900 for extra debt payments.
-
-**Your question:** Does that fit? Show the amount available for extra debt if the $300 Reserve contribution stays.
-
-<details>
-<summary>Check the reasoning</summary>
-
-$300 plus $900 is $1,200, which is $200 more than the available $1,000. Keeping $300 for the Reserve leaves $700 for extra debt. That $700 is a budget limit under these facts, not the recommended payment for every household. Required payments were already counted.
-
-</details>
-
-<details>
-<summary>Now change one circumstance</summary>
-
-The household then chooses $600 for the Reserve because of its income risk and available cash. That leaves $400 for extra debt. Explain the benefit of more cash and the cost of slower debt repayment. Another supported split is acceptable; it needs a household reason and must fit the money available.
-
-</details>
-
-**Use your own plan:** Put your intended extra debt payments beside your chosen Reserve contribution. Explain why you prefer that split, then name the event that would make you review it.
+Review each of your debts and choose whether to keep the required payment, pay extra, or compare a change. Check the total extra payments against the money left after the Reserve contribution you chose. Only redirect a payment once it has actually ended.

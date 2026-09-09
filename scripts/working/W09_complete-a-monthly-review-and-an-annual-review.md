@@ -86,13 +86,6 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 
 This file replaces the prior duplicate summary/detail/cue sets with one chapter sequence. Original sources, the fixed household, member documents and the capture register remain unchanged. No real recording, provider action or learner result is certified.
 
+### Application in the member's own plan — production guidance
 
-### Apply the lesson with different facts — production guidance
-
-Use the 9.3 changed-income case to separate current facts, proposed responses and hypothetical events. A different example investment return is not a solution to an actual cash shortfall. Then repeat the decision with the member's relevant facts.
-
-Use the existing Member checkpoint in the linked teaching script; no second workbook is needed. Let the learner attempt the question before showing its explanation. A valid alternative needs a reason and workable funding, not the example household's settings. Do not record a simulated attempt as a real member outcome.
-
-Prepared narration cue: “Before we copy any numbers, explain the choice you are making. Which facts in your situation matter? Compare the alternative you would actually consider, then read what it changes.”
-
-Primary checkpoint: [9.3](../../scripts/09-3_handle-a-life-change-or-a-number-that-does-not-reconcile.md). The app's actual fields, results, access and saved-state behavior retain their existing checks.
+Use an actual change or discrepancy when one exists. Otherwise demonstrate the ordinary review and leave the strategy unchanged. Do not manufacture a scenario for completion or ask the member to submit an explanation. The saved plan and necessary outside actions are the work.

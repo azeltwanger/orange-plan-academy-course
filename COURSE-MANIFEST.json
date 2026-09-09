@@ -99,9 +99,9 @@
       "path": "scripts/00-1_build-a-plan-you-can-use.md",
       "gate": "OWNER_REVIEW",
       "sources": "DICTATION, MASTER, LANDING, OWNER",
-      "words": 649,
-      "spoken_sha256": "fb7fcebb68d4ac6ea3482096a2334a2045fc8f9e6f95716b4ee0c0cf4b256fa5",
-      "source_sha256": "aa42accfcf4bff1451fab48bb04b5ed04452311e85d366030840fd73d61463bb",
+      "words": 656,
+      "spoken_sha256": "46f224a980eec99b90ac6c36aa8013367916b7c41083ba70018ae99f74fe94fd",
+      "source_sha256": "9dba74e88830696ab36c23353315b20a9b403466b1a7304ea7d59ce33cf9d4a8",
       "member_group": "Main path"
     },
     {
@@ -134,7 +134,7 @@
       "sources": "DICTATION, FOUNDATION, ALLOCATION, APP",
       "words": 735,
       "spoken_sha256": "c81163346d35bb9bcc10b7c8f2a47e49380770898c3ba92774c823ca89879015",
-      "source_sha256": "a66969683c3f8e5e5b0ce3dd1c7eade04267338a5947ec0735d944e9feb94d3a",
+      "source_sha256": "5d76c81577b0b13b8772be521699fa11293a0acb054428befa83f4f29910b77e",
       "member_group": "Main path"
     },
     {
@@ -145,7 +145,7 @@
       "sources": "FOUNDATION, CASHFLOW, DICTATION, APP",
       "words": 684,
       "spoken_sha256": "1f8940552fa634fef01fcee655a5c54f5fbb040efba560d41ca4f9ff72d8d651",
-      "source_sha256": "fc118ac19ee849a3409819a14f5601b6621b0f940be14159a820cfef62e89d25",
+      "source_sha256": "f4dd0ddf8a0205ab8f896f0b013d9afe7ac152823177d6313d6009f3e78f0a5f",
       "member_group": "Main path"
     },
     {
@@ -156,7 +156,7 @@
       "sources": "DICTATION, FOUNDATION, APP, MASTER",
       "words": 679,
       "spoken_sha256": "23465e0b86479960aa00d27cfb4c5161897525fe64d6f1896bc03556e321e63e",
-      "source_sha256": "86194ddf8a6f6649d4d22fc65c9cb4ace04b8864f8194d2a6f5fc2af5c06abd5",
+      "source_sha256": "baa26576f3026307a4cb037d4ce2bdd4d243aca55d745d6fdf9af3baba537d80",
       "member_group": "Main path"
     },
     {
@@ -167,7 +167,7 @@
       "sources": "FOUNDATION, APP, DICTATION, REVIEW",
       "words": 639,
       "spoken_sha256": "b50cd536d2eefada7e80bb00c804f4a4844e7fc92f05e1bd3cb321654b947009",
-      "source_sha256": "3c11acb17b920d06edab892be6b1bcbcf3359d77a1d334e9b1f2bce275439fec",
+      "source_sha256": "84f1d12d7a0cebde352e71a20599923f8ce5e875d2c1ff815f617a24d5f3fef6",
       "member_group": "Main path"
     },
     {
@@ -178,7 +178,7 @@
       "sources": "CASHFLOW, DICTATION, CLIENT_THEMES, APP",
       "words": 1448,
       "spoken_sha256": "b605a14ce4a711aea7f2848b8195b39031bbff3eec7a4468ccc8968b8f68f545",
-      "source_sha256": "fa82d02732d6866b5017524bc980597cc685ad56f389db46195fe0deb9efa78b",
+      "source_sha256": "9ee3aa94688c0b00d482fed2bed2c0c07e09ca65114c4330d32c8d4a6e610f2d",
       "member_group": "Main path"
     },
     {
@@ -211,7 +211,7 @@
       "sources": "CASHFLOW, FOUNDATION, DICTATION, CLIENT_THEMES, APP",
       "words": 1427,
       "spoken_sha256": "e6b5160056b16b97bc91389ecbe5f3cdb0bdabab5a00ce8cc4de4917efca35f8",
-      "source_sha256": "4843eb22b6e0e8d617f7baee8807fdfab388b999f3293fd71bb44cb472d90679",
+      "source_sha256": "a20969009f8cb5e1a0d10900bc11a25a8414112e194f7fa7c2d79a0503e244ec",
       "member_group": "Main path"
     },
     {
@@ -222,7 +222,7 @@
       "sources": "CASHFLOW, ALLOCATION, OWNER, PRIMARY",
       "words": 1419,
       "spoken_sha256": "9cea82ffb8e337b91ad197c486fbb97d92899d274e85062aa09a45d3e530637d",
-      "source_sha256": "4351dc52b7ce912c7c11414470cdca7ff911517e8a52e08b761bb16600f24122",
+      "source_sha256": "d75fcbe00d0cd3d40250f75605517c1d88b4e636567e247d9edb98433b15b40f",
       "member_group": "For your situation"
     },
     {
@@ -244,7 +244,7 @@
       "sources": "DEBT, BRAIN, APP, PRIMARY",
       "words": 1155,
       "spoken_sha256": "692d414868f0726e09f5a3c10b9e89e134cb44b0a47cf496b0d8e5cbe9bc6a53",
-      "source_sha256": "42ef6b20a6c3c3d9b57e3df0d284eaa3e4344feb40fe5bc5f086885af183f56c",
+      "source_sha256": "a92f7d8c7912de6911f6f5b9570cdd1f2e488610bb54f162e023ed7678305191",
       "member_group": "Main path"
     },
     {
@@ -255,7 +255,7 @@
       "sources": "DEBT, BRAIN, CLIENT_THEMES",
       "words": 1257,
       "spoken_sha256": "9f52da4081aaa7b8d0a4c5b39e5ffd694d38ba7112233322c7cf5f5410d2d963",
-      "source_sha256": "86ca9db64d7b96b81c4d64020273d6d57d91ec71418474951e5728801c8a54e9",
+      "source_sha256": "d9081d74009426300c7fe7ad2f7c2cf43bdc2ab0b2c78f960add2ada56e10054",
       "member_group": "Main path"
     },
     {
@@ -277,7 +277,7 @@
       "sources": "DEBT, OWNER, BRAIN, PRIMARY",
       "words": 1565,
       "spoken_sha256": "a320e3f57a34cda892318c24f78ae40e2b7b8934785b2b374625b755d2e5c02e",
-      "source_sha256": "7a13ead6f3f0c6587c89abfdce6816595bfa9dca8fdfc40703362462eead0823",
+      "source_sha256": "c9ef106365c608c3794f0b161b5634e25f07c26578cae43efcb4e9510bb41fd8",
       "member_group": "Main path"
     },
     {
@@ -299,7 +299,7 @@
       "sources": "ALLOCATION, ALLOCATION_DECK, OWNER, APP",
       "words": 574,
       "spoken_sha256": "bdbe240d90ccf055b6e161685ceed80dd4abe0cbfbd7880a4e65166eac88b8a2",
-      "source_sha256": "a5f1208e6988aa04e5462c12fea84a7b1f04ee2f96994c74afc340eb862717c1",
+      "source_sha256": "e61a0bb51dd1f98bff11698c2f2129a093b9b883ce4ce38d102ee377887b4bf8",
       "member_group": "Main path"
     },
     {
@@ -321,7 +321,7 @@
       "sources": "ALLOCATION, ALLOCATION_DECK, BRAIN, OWNER, APP, PRIMARY",
       "words": 1514,
       "spoken_sha256": "83b95f6b8c352fc7065b464c36bbaec90c587b6e1172d0b22bb1a147a907701d",
-      "source_sha256": "afe057f0eb48c0709fcedfeee93b4cdc19ff2ad0feaf2f550de6b6b63453921a",
+      "source_sha256": "c2df1b875bf3fbe42c5798e12b4d0f91ac032df7aa404ec161a46fd6c7aa2504",
       "member_group": "Main path"
     },
     {
@@ -332,7 +332,7 @@
       "sources": "ALLOCATION, ALLOCATION_DECK, CASHFLOW, DEBT, OWNER, APP",
       "words": 612,
       "spoken_sha256": "9e0e204552f13a1b0e6a600af3e3c442aee172d49d450d70cf0a9f35117dc0e2",
-      "source_sha256": "929328132eb7279dd105b74eb26fc8c557bfd951dc62a1b1fc1444257cc614ce",
+      "source_sha256": "fccbe56ea91f4337910cbc6bbda485b256951d88c2adc99bf16edaf8d2ab6ce6",
       "member_group": "Main path"
     },
     {
@@ -343,7 +343,7 @@
       "sources": "ALLOCATION, ALLOCATION_DECK, PRIMARY, APP",
       "words": 970,
       "spoken_sha256": "1f98fa012fbb9257ab25183f7061b10d7d485dbd2582aef168fb4f3e03eb045e",
-      "source_sha256": "a00dbec03ec03dab86bdab9be8f918d8be35544e44e28ac2e1f3b056c3c66087",
+      "source_sha256": "583b397729c49df90c11ede9926989916f00f582a5d47499dc05e5950a804761",
       "member_group": "Main path"
     },
     {
@@ -354,7 +354,7 @@
       "sources": "ALLOCATION, ALLOCATION_DECK, TAX, PRIMARY, OWNER",
       "words": 741,
       "spoken_sha256": "89067a39166a2368d5b98046a9abf3c852a47af46c0c236d8eb981cd3d3ac710",
-      "source_sha256": "8dc013bcb4ba51cdb4b11c1544c9128cd957ebb2e5e9aac57b3df7a78505cd28",
+      "source_sha256": "c1daf9755b98bfd0c305857718aee03ab6486c66bf3895c4b9f8310c2aed2118",
       "member_group": "Main path"
     },
     {
@@ -365,7 +365,7 @@
       "sources": "ALLOCATION, ALLOCATION_DECK, OWNER, APP",
       "words": 818,
       "spoken_sha256": "5e8c78180b7ce7f48ad0795c0af0fee82c348aff32793cc0d52229abaa711ae3",
-      "source_sha256": "8132668637b15b07aa26f33e0c4571e4da029ecc2aa6408ac678ae8c32c45d0a",
+      "source_sha256": "3d912948de6d9ffa9ed2bcfb451a3ca07de7d13608557f3b076c3fb2a06367e0",
       "member_group": "Main path"
     },
     {
@@ -376,7 +376,7 @@
       "sources": "TAX, TAX_DECK, DICTATION, PRIMARY",
       "words": 581,
       "spoken_sha256": "c2b2044ded9b3173d263ccd8800308d2e1e12e0e9a0b9c04b04de4bb22c15b8d",
-      "source_sha256": "8427985bcb5cb6fbf5c0e9b441bf09a7fc3de27da93266ed39f16fdad4217778",
+      "source_sha256": "cb3c96c76079e96461c96b4b77e60fb8246dcb4c94757fe53c27cee9ac6b1c83",
       "member_group": "Main path"
     },
     {
@@ -387,7 +387,7 @@
       "sources": "TAX, DICTATION, CLIENT_THEMES, APP, PRIMARY",
       "words": 724,
       "spoken_sha256": "90494b8d4e4fd19758d2a3078294a689d1827ffcba42eeaed9a3f615db9b6023",
-      "source_sha256": "f81b9c8449f2ee6b73959dd0b9a5cd092e7abb9e0f58937588c9404ff4caf03b",
+      "source_sha256": "20b539d796064bb4fd52cff8e5137e9c0c1bfda19d2f4f903ba980f9cac1b0e8",
       "member_group": "Main path"
     },
     {
@@ -398,7 +398,7 @@
       "sources": "TAX, TAX_DECK, BRAIN, PRIMARY",
       "words": 713,
       "spoken_sha256": "d06ba158c27f959b00af5e56d7728fec00d51ff4c8015b1ba46d2c1001511f92",
-      "source_sha256": "7ba1411e8b6a51a40689c2dc4ac0eba54c5b8da106900d93658287e83492cdf1",
+      "source_sha256": "915e857deecb3bd6d56fa295bab385af732a496806be7101a56bd0cf413e7e79",
       "member_group": "Main path"
     },
     {
@@ -409,7 +409,7 @@
       "sources": "TAX, TAX_DECK, RETIREMENT, PRIMARY, APP",
       "words": 875,
       "spoken_sha256": "c4975cd54f69799c0589011ac76ce491f58e66359f83e740cd73b0177563cbb6",
-      "source_sha256": "3dab3873318b803c31cef6089be63d083cf1d64d50c18962c2e8881a936ff445",
+      "source_sha256": "fa84360d34f1a6d63b6b78f7d01a465c7600a40fa4253715d1db5f367263fa1e",
       "member_group": "Main path"
     },
     {
@@ -420,7 +420,7 @@
       "sources": "TAX, TAX_DECK, BRAIN, PRIMARY, APP",
       "words": 715,
       "spoken_sha256": "d5a7d11cf9a15a39f214674636ecb3519f2728c8517db8027aa615e0414e7cc2",
-      "source_sha256": "a0dc51f1ebb1bb394d56fe11c0e466ca4894fd8f214c48835f0bc064d7fb8c34",
+      "source_sha256": "461696ae83ee88faefdcfc2c39c19f0e62bac91fe85c4915f409bdad47319dc4",
       "member_group": "Main path"
     },
     {
@@ -431,7 +431,7 @@
       "sources": "RETIREMENT, RETIREMENT_DECK, BRAIN, MASTER",
       "words": 652,
       "spoken_sha256": "ab8d0db8965d4aab6c9c02d31eaa96b2d9fcc14c686ec2773bea71f8dc12d429",
-      "source_sha256": "fe4fc97b7385e9e962f7dbe251c69dcb6bffebc7f00a123099331dd28adb61f4",
+      "source_sha256": "382646d43b2245807af3da3f25bc69a7baaa3203a95f9a733a6cdc5e3f8f3960",
       "member_group": "Main path"
     },
     {
@@ -453,7 +453,7 @@
       "sources": "RETIREMENT, OWNER, PRIMARY, BRAIN",
       "words": 807,
       "spoken_sha256": "0bf72033fa0e1faf3fae8af0248185edc2adf64589d105e3549bafb0284351bc",
-      "source_sha256": "192941591884dd3cdafbc417a7272d3c39251b1e802b68b6586895f2338da90b",
+      "source_sha256": "c3ce6c81fc1be391d670d3fa56e612199c90e16e40f377d8efcf0134c63000db",
       "member_group": "Main path"
     },
     {
@@ -464,7 +464,7 @@
       "sources": "RETIREMENT, RETIREMENT_DECK, TAX, APP, PRIMARY",
       "words": 636,
       "spoken_sha256": "6edde00ae0b88d776b07a5f57d2ad16c1463b0f4e23c649285ed246a90149369",
-      "source_sha256": "da1793165a59b6996d7d8d0dad7829f0b2aa0b185efff6da98f3a9d1198a24ed",
+      "source_sha256": "ac39cbdd8ce205c6effaf115cd475b42eb061f48988454d8efd25d176ded3c4a",
       "member_group": "Main path"
     },
     {
@@ -497,7 +497,7 @@
       "sources": "RETIREMENT, FOUNDATION, APP, BRAIN",
       "words": 591,
       "spoken_sha256": "1e4ffe19b181db87b8be84825bb41c9e85f9df938aa4e3224ecb3d6dcd09e68a",
-      "source_sha256": "b7369547ce423bbec849b8554b513be61ade41bc1dda964a1ce2c11e2648dfed",
+      "source_sha256": "2c8bbcffd66cbf7c1c0c520ebaacc23b03664024307f3795ed6bd9820d7bceb7",
       "member_group": "Main path"
     },
     {
@@ -508,7 +508,7 @@
       "sources": "RETIREMENT, RETIREMENT_DECK, MAINTENANCE, APP",
       "words": 582,
       "spoken_sha256": "f71d0b8106e2673a4c49a56465a58ee14fcba2e24c2c0e684f99282e7d05697f",
-      "source_sha256": "acbf912c3852a154154b5445940e3b72a71c1398778aabdfe34207bf8c107396",
+      "source_sha256": "8ce02dcd3355bb6bf5d343053fc3298754d85c8f6d2f628a1300c1fcaa50221d",
       "member_group": "Main path"
     },
     {
@@ -552,7 +552,7 @@
       "sources": "CUSTODY, OWNER, APP, MAINTENANCE",
       "words": 536,
       "spoken_sha256": "ad437813e31259af4101821d32a349bff1687364db763dc2a71649d7b1030470",
-      "source_sha256": "7398a7e5cfbe1f1129260f46b1d84354670b65ad3bf1e077cd69d6dcdab95770",
+      "source_sha256": "4c691b84108ba55c342adbb4386a26a9223d842f43e0837e8a164dd341d165a9",
       "member_group": "Main path"
     },
     {
@@ -585,7 +585,7 @@
       "sources": "ESTATE, ESTATE_DECK, DICTATION, OWNER, APP",
       "words": 580,
       "spoken_sha256": "3e4a8a51e4ee64b5b017b93f70841f7dbfa519d822be545de70fb3e6517712aa",
-      "source_sha256": "5ee1b37b5375a0ea8337bd4dfd61af8aae090231ed5fbc348603294e95b56baf",
+      "source_sha256": "12efd0326def6d6faf6e22f4d65acbeef19e88e62fc9af74a742da5bf1bf07c6",
       "member_group": "Main path"
     },
     {
@@ -629,7 +629,7 @@
       "sources": "MAINTENANCE, FOUNDATION, CLIENT_THEMES, APP",
       "words": 511,
       "spoken_sha256": "ca59cc4519de739f9cf871383475fcea30ee4f6a0fced8053d81c04c34a1206e",
-      "source_sha256": "c2624a1a7358d15165a38cd8c454a9451e4ee11dde855cdeb6992efc0367282c",
+      "source_sha256": "45acad8d60f30d1fa35e05d5a6f0ff338dda79bda7e262368271aba8ef5fb3a1",
       "member_group": "Main path"
     },
     {
@@ -649,9 +649,9 @@
       "path": "scripts/10-2_explain-the-plan-and-hand-off-the-next-decisions.md",
       "gate": "OWNER_REVIEW",
       "sources": "REVIEW, CLIENT_THEMES, LANDING, OWNER",
-      "words": 600,
-      "spoken_sha256": "054bbb4b242004a88c8281a31a21f704d47f9352799339b088b47b9f62657547",
-      "source_sha256": "3663e20bdc87375e537131d87ec43df66b15d81ecd07be5eea9b71737c158cba",
+      "words": 462,
+      "spoken_sha256": "bd1bca3cf737b010b98c346a4a7e2f0c2d69be7394c277df1adf1a2e12f7c4d6",
+      "source_sha256": "e8327d09c18308b98196164ea5e32824d85c52ef7613aa48d5f81033ae3dd85a",
       "member_group": "Main path"
     },
     {
@@ -662,7 +662,7 @@
       "sources": "FOUNDATION, BRAIN, APP, PRIMARY",
       "words": 458,
       "spoken_sha256": "b0720b4b33927c9186a08b696fc1ba82b748b64ab367feefa02f6abd072e30b1",
-      "source_sha256": "9010b151971d68c05995f7ac98af6a02da6ffccc860990a000702acc006f6fc7",
+      "source_sha256": "9dc267a0199bccf548db7884161b3472bfc3a22bff609ab048c41451d67a1741",
       "member_route": {
         "after": "1.4",
         "when": "You need custom assumptions or a holding-specific model to answer a planning question.",
@@ -900,7 +900,7 @@
       "sources": "FOUNDATION, DICTATION, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "2bdee2f528efbf4e78223791cde6dea92c44e27ea35a2d5ebca52494f6482258",
+      "source_sha256": "11f25d5022a632ee050f098d17de8d026dac5d7c873ecc619884ccee0ddab8a1",
       "member_group": "Walkthrough"
     },
     {
@@ -922,7 +922,7 @@
       "sources": "DEBT, OWNER, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "a35948885e943c42a7708d205d4521628894a118557c8d0c3390ecf49cc13f5c",
+      "source_sha256": "ed7979434135dc6bff2449396d92767a4a01f53026a9560d24433c38af493951",
       "member_group": "Walkthrough"
     },
     {
@@ -933,7 +933,7 @@
       "sources": "ALLOCATION, ALLOCATION_DECK, OWNER, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "22e16f221598a546c5f33f2663906c02a986a9c1220480bfe0bc44f931eba568",
+      "source_sha256": "486137a2e3a81c446aa5946c3ca203f41d65a195473e744af41ee21fe43371c3",
       "member_group": "Walkthrough"
     },
     {
@@ -944,7 +944,7 @@
       "sources": "TAX, TAX_DECK, APP, PRIMARY",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "127c5e068e21f7bb91c2479358eeb28cafe3eda926e0afa814288992a652ce28",
+      "source_sha256": "bdcb9b6d18f74b745cc777f1ff9ee8cec1236f68ebb3549feb15585bc703ca9e",
       "member_group": "Walkthrough"
     },
     {
@@ -955,7 +955,7 @@
       "sources": "RETIREMENT, RETIREMENT_DECK, APP, PRIMARY",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "d5ae4f70f3bfd02ddebcfc44daa7bc14244080968c699fb63e9eb89ee19a7188",
+      "source_sha256": "e340f58bd9c923ae3a78025558a9e88dc3e9ff50b9a57a77075c7a5e6e8587ba",
       "member_group": "Walkthrough"
     },
     {
@@ -966,7 +966,7 @@
       "sources": "CUSTODY, OWNER, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "e2a57b74ca49f4fde1be53c61fa77082f86c61a8d7762454a3275e6fe31a5cf6",
+      "source_sha256": "b5500e0fbe7489451999fc623c2132790d4ff840a4f3a4047c29e4a9f3f6328b",
       "member_group": "Walkthrough"
     },
     {
@@ -988,7 +988,7 @@
       "sources": "ESTATE, CUSTODY, APP, PRIMARY",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "08cb1b94fc0f8dcaaba2251a34029ecafe30d5afbc6d5b8d211472d2ca68f17a",
+      "source_sha256": "b21659935fe06bcf6980269f557b5f88c6e18ca4a77f625dafc41e90ebe1c9e3",
       "member_group": "Walkthrough"
     },
     {
@@ -999,7 +999,7 @@
       "sources": "MAINTENANCE, MAINTENANCE_DECK, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "61e392a678984f7a36f857ef0ed02197f77de84ffba406054a1215344f72d674",
+      "source_sha256": "6960d44f610a0ca15bdbddda0464deb66392b4c4d8c884078cb4267a43bdad97",
       "member_group": "Walkthrough"
     },
     {
@@ -1010,7 +1010,7 @@
       "sources": "REVIEW, LANDING, APP",
       "words": 0,
       "spoken_sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
-      "source_sha256": "78b6dfe27ad5369917061f1915b74b38bb2e5e6c4d4a235182ddc476fc03742b",
+      "source_sha256": "6077e089a03aeaac1e92a309d12a4cd45e842b54371bdaa5fa0adba344dcbfdd",
       "member_group": "Walkthrough"
     }
   ]

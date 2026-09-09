@@ -88,13 +88,6 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 
 This file replaces the prior duplicate summary/detail/cue sets with one chapter sequence. Original sources, the fixed household, member documents and the capture register remain unchanged. No real recording, provider action or learner result is certified.
 
+### Application in the member's own plan — production guidance
 
-### Apply the lesson with different facts — production guidance
-
-Use the 7.4 no-secrets practice to check that the member distinguishes a practice recovery, actual-wallet proof and a family starting map. The correct next action can be obtaining a safe, scoped check. No wallet operation is authorized by the exercise.
-
-Use the existing Member checkpoint in the linked teaching script; no second workbook is needed. Let the learner attempt the question before showing its explanation. A valid alternative needs a reason and workable funding, not the example household's settings. Do not record a simulated attempt as a real member outcome.
-
-Prepared narration cue: “Before we copy any numbers, explain the choice you are making. Which facts in your situation matter? Compare the alternative you would actually consider, then read what it changes.”
-
-Primary checkpoint: [7.4](../../scripts/07-4_record-a-usable-custody-plan-without-exposing-secrets.md). The app's actual fields, results, access and saved-state behavior retain their existing checks.
+Apply the custody explanation to the member's actual arrangements and existing map. Preserve the scoped safe-recovery and security requirements. Remove the extra no-secrets case quiz; an actual check needed to protect the household is implementation, not an academic assignment.

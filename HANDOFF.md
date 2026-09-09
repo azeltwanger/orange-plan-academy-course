@@ -1,12 +1,16 @@
 # Current handoff — member path and spoken-language cleanup
 
-## Current continuation — decision learning, not copying the example
+## Current continuation — the member's own plan is the application
 
-Austin asked to move forward with teaching how to decide and to simulate an adult beginner at roughly a sixth-grade reading level. This pass changes specific explanations, adds thirteen practice cases with reasoning checks and changed circumstances in existing Member checkpoints, and connects nine practical plans to their use. The first-pass facts and the answer checks are clearly authored, not a transcript of real participants. No simulated result is entered as member validation or app evidence.
+Austin explicitly rejected the added exercises and homework. Keep the plain-language explanations and instructor-led examples; remove the separate practice households, answer reveals and changed-facts assignments from the member experience. After teaching, go directly to the member's own decision in Orange Plan.
 
-The [decision-learning review](delivery/decision-learning-review.md) records scope, concerns, exact case assumptions, source checks and remaining limitations. It does not reset the course or add a workbook. Different justified choices, including keeping the current plan, are acceptable. The accepted Reserve, W02, D07, original sources, fixed fixture, toolkit, technical review sections and existing capture register stay unchanged. The YouTube script remains a delivery reference only; no return, withdrawal, tax or account-lockup formula is imported.
+The thirteen practice blocks are removed from the existing checkpoints. Each now points to the relevant work in the member's actual plan. Nine practical plans no longer detour into a practice case. The final review uses the saved plan and next real actions; it does not require a listener exam, made-up circumstance, written justification, community post or approval to proceed.
 
-Read the revised section and its Member checkpoint together. Explanations should supply the reasoning before a task asks the member to apply it. Hidden-answer questions in the reading artifact are practice, not a certification exam. When tested with actual learners later, record assistance and errors rather than infer understanding from matching a sample allocation. Actual app routes, financial calculations, safe device procedures and owner voice approval remain separate.
+Do not replace the removed work with a new workbook or another checklist outside Orange Plan. Use existing member materials only where they do an actual job, such as family instructions. Actual wallet recovery, account security, legal authority and provider instructions still require their appropriate real-world steps; they cannot be certified merely by editing a plan.
+
+The [editorial review](delivery/decision-learning-review.md) keeps the useful beginner-language findings and makes the removed exercise layer historical. The previous PR and commit retain that history; there is no current exercise library. Internal arithmetic checks can remain, but are not assigned to members. Testing should follow a member applying the teaching to their own app plan and identify where the explanation or software blocks progress. No real-user success or sixth-grade accessibility claim is established by this edit.
+
+The accepted Reserve, W02, D07, source materials, fixed fixture, toolkit, source-based technical review and existing tests/capture holds remain unchanged. No app behavior, financial assumption, product preference, provider action or course-platform release is changed.
 
 ### Earlier completed passes, retained as history
 

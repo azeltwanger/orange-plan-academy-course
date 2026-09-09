@@ -1,6 +1,6 @@
 # 5.3 — Find the years when your tax choices have the most room
 
-Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
+Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 

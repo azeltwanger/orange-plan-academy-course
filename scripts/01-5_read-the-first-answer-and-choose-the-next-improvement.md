@@ -1,6 +1,6 @@
 # 1.5 — Read the first answer and choose the next improvement
 
-Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
+Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: starting-result transition, full simulations and freshness retain APP_CAPTURE.
 
@@ -61,29 +61,4 @@ Keep this insert separate until the accepted build confirms the standard and its
 
 ### Member checkpoint
 
-
-Read the actual current result, trace one funding year, and identify the next accuracy check or realistic decision.
-
-#### Try a different case
-
-These are practice facts, not another part of the Reeds' plan. Use a calculator as needed. Try the question before opening the reasoning.
-
-You want to stop work at 55. A friend says to enter a higher investment return until the plan approves 55.
-
-**Your question:** Explain what would change in that comparison and what would not. Then choose a real choice worth testing instead.
-
-<details>
-<summary>Check the reasoning</summary>
-
-A higher return changes the assumed future, not the money saved or the life funded today. After checking the facts, a real comparison might change saving, spending or work timing. Keep the other inputs the same first so you can explain the effect. No particular retirement age or confidence result is the required answer.
-
-</details>
-
-<details>
-<summary>Now change one circumstance</summary>
-
-Suppose the plan already supports your intended life under the assumptions you chose. Do you have to change the plan? No. Keeping it can be a reasoned decision; note what assumption or event you will review.
-
-</details>
-
-**Use your own plan:** Use your intended date and spending. State the current answer, one assumption behind it, and either the next comparison or your reason to keep the plan.
+Open your current result in Orange Plan and look at the first year you expect to stop or reduce work. Check where the spending money comes from. If a figure is wrong, correct its source; if you want to test a different choice, compare it without replacing your current plan first.

@@ -1,6 +1,6 @@
 # 6.3 — Price healthcare before leaving employer coverage
 
-Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
+Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -69,29 +69,4 @@ September 8, 2026: P07; S4, S12. Verify the normal eight-month Part B window and
 
 ### Member checkpoint
 
-
-Choose a verified coverage direction and normal/difficult-year budget with funded transitions, or a precise prerequisite before leaving coverage.
-
-#### Try a different case
-
-These are practice facts, not another part of the Reeds' plan. Use a calculator as needed. Try the question before opening the reasoning.
-
-Two imaginary coverage choices have the following ordinary-year estimates. A: $6,000 of premiums plus $4,000 of other costs. B: $4,000 of premiums plus $7,000 of other costs. These are practice numbers, not policy quotes.
-
-**Your question:** Compare the totals. Is the lower-premium choice automatically less expensive or the better coverage?
-
-<details>
-<summary>Check the reasoning</summary>
-
-A totals $10,000; B totals $11,000. The lower premium does not establish the lower complete cost. The totals still do not establish which policy fits: check covered care, network, limits, dates and the household’s difficult-year cash need.
-
-</details>
-
-<details>
-<summary>Now change one circumstance</summary>
-
-A excludes a medicine the household needs. The earlier ordinary-year estimate no longer settles the comparison. Check the actual uncovered cost and alternatives before selecting coverage. Do not change the estimate to preserve the first answer.
-
-</details>
-
-**Use your own plan:** Compare the actual coverage you can obtain and fund. Explain the ordinary-year cost, the important retained risk and the dates when each person’s coverage changes.
+Use the coverage options actually available to you to update healthcare costs and dates in your plan. Compare premiums, other likely costs and a difficult year's potential bills. Check that the household has money for the costs it would still carry. Exact coverage, enrollment and any calculation the app does not support need their actual source, not an invented app result.

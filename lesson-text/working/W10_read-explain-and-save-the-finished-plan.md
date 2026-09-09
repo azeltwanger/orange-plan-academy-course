@@ -10,7 +10,7 @@ Sources: REVIEW, LANDING, APP
 
 ### Run sheet
 
-This capstone requires one actual engine-backed saved fictional plan and its matching documents. Do not combine convenient numbers from different examples. A listener rehearsal, outside implementation, legal review and capture receipt must actually happen before recorded as successful.
+This capstone requires one actual engine-backed saved fictional plan and its matching documents. Do not combine convenient numbers from different examples. Outside implementation, legal review and capture evidence must exist before recorded as successful. No listener test is required to complete the course.
 
 Record chapters separately after their paired lessons. Only the paragraphs labeled Narration are prepared speech. Teaching graphics stay outside app screens. Read actual values and state changes during recording; do not substitute a staged output or unsupported feature.
 
@@ -38,17 +38,17 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Member finish:** Explain critical transitions and the most important sensitivity or remaining gap.
 
-#### Chapter 3 — Have the listener explain the plan back
+#### Chapter 3 — Finish the plan and share only when useful
 
-**Show and do:** With 10.2, use an explicitly consented nontechnical listener. Present the short household explanation, then ask for next-period funding, the next action and the safe family starting process. Revise the actual point of confusion.
+**Show and do:** With 10.2, open the member's saved plan and existing summary. Review the next contribution, the first retirement funding period and the next real action. Resolve an actual question in the relevant view rather than introduce an invented scenario. Show the summary for a spouse or helper only when sharing serves that household.
 
 **Narration:**
 
-“You do not need every technical detail. Tell me where the next spending money comes from and which action happens first. If that is unclear, we need to improve the explanation—not ask you to memorize more terminology.”
+“Use your own plan here. Check where the next contribution goes and what will pay the bills when work changes. If a number doesn't make sense, open the part that produced it. Then settle the next action. You don't need to copy the example's choices or write a separate explanation.”
 
-**Verify before recording:** Record an actual rehearsal, not claimed member validation from a script or test. No private client footage, secrets or staged perfect comprehension.
+**Verify before recording:** Use actual supported views and the matching saved result. Do not claim a real learner completed the plan from this prepared recording. Sharing is optional and requires appropriate consent and privacy; no test score, submission or instructor approval is added.
 
-**Member finish:** The listener can use the explanation, or the observed gap is corrected and retested.
+**Member finish:** The member has reviewed their own plan and identified the next real action. The relevant summary can be shared when needed.
 
 #### Chapter 4 — Prepare the specific professional handoffs
 
@@ -86,13 +86,6 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 
 This file replaces the prior duplicate summary/detail/cue sets with one chapter sequence. Original sources, the fixed household, member documents and the capture register remain unchanged. No real recording, provider action or learner result is certified.
 
+### Application in the member's own plan — production guidance
 
-### Apply the lesson with different facts — production guidance
-
-Use the 10.2 earlier-work-change question as a transfer check. Ask the member to explain how they would begin a new decision, not repeat a remembered allocation or score. Record actual uncertainty; a simulated answer does not certify the member or the plan.
-
-Use the existing Member checkpoint in the linked teaching script; no second workbook is needed. Let the learner attempt the question before showing its explanation. A valid alternative needs a reason and workable funding, not the example household's settings. Do not record a simulated attempt as a real member outcome.
-
-Prepared narration cue: “Before we copy any numbers, explain the choice you are making. Which facts in your situation matter? Compare the alternative you would actually consider, then read what it changes.”
-
-Primary checkpoint: [10.2](../../scripts/10-2_explain-the-plan-and-hand-off-the-next-decisions.md). The app's actual fields, results, access and saved-state behavior retain their existing checks.
+Finish by reviewing the member's own saved plan, unresolved facts and next actions. Sharing a relevant summary is useful when another person needs it, not a mandatory oral test. No invented new circumstance, submitted answer, homework or approval gate is added. Actual provider, legal and wallet actions still need their own evidence.

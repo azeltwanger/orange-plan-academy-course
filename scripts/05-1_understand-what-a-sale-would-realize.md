@@ -1,6 +1,6 @@
 # 5.1 — Understand what a sale would realize
 
-Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
+Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -57,29 +57,4 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 
 ### Member checkpoint
 
-
-Explain sale proceeds, supported basis and realized gain separately; choose the evidence needed for one proposed sale.
-
-#### Try a different case
-
-These are practice facts, not another part of the Reeds' plan. Use a calculator as needed. Try the question before opening the reasoning.
-
-You are comparing a sale for $8,000. Supported records give the units being sold a $5,000 basis. Ignore fees only for this arithmetic exercise. No tax rate, other income or holding period is supplied.
-
-**Your question:** Find the gain. Can you determine the tax bill from those two numbers alone?
-
-<details>
-<summary>Check the reasoning</summary>
-
-$8,000 minus $5,000 gives a $3,000 gain. It is not a $3,000 tax bill, and the full $8,000 is not all gain. The tax calculation still needs the relevant income, holding period, account treatment and rules. You have completed the gain calculation, not the entire tax decision.
-
-</details>
-
-<details>
-<summary>Now change one circumstance</summary>
-
-The purchase record is missing instead. Do not set basis to zero to get an answer. Identify the missing history and avoid relying on an unsupported tax cost, while continuing with the facts you do know.
-
-</details>
-
-**Use your own plan:** For a sale you are considering, separate proceeds, supported basis, gain, estimated tax and cash left for the intended use. Identify exactly which unknown would change the comparison.
+When a taxable sale is relevant to your plan, compare its proceeds, supported purchase cost and resulting gain in Orange Plan. Keep the gain separate from the estimated tax and the cash available afterward. Leave missing purchase information unresolved rather than filling it with zero.

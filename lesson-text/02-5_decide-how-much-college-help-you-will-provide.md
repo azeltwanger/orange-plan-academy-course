@@ -1,6 +1,6 @@
 # 2.5 — Decide how much college help you will provide
 
-Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
+Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
 Adapted source: original materials identified below and the unchanged Reserve reference in Lesson 2.3. Prior drafts remain in Git history.
 App references: concepts prepared independently of screen layout; exact behavior and outputs remain unverified until capture.
 
