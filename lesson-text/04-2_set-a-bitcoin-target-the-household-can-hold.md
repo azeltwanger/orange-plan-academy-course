@@ -1,6 +1,6 @@
 # 4.2 — Choose the role Bitcoin plays in your plan
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: no target save or investment order is required to choose a descriptive path.
 
@@ -36,7 +36,7 @@ Discuss that intention with anyone sharing the consequences. Your spouse doesn't
 
 For now, write the role you want Bitcoin to have and a starting percentage or range to test. You may decide to keep today's position. You may have a reason to increase or decrease it over time.
 
-We aren't saving a final target yet. In the next lesson, the spending needs and the other investments may show that your starting idea needs adjusting. That is useful information, not a failure of conviction.
+Keep that percentage as a starting point. The cash you need and the other investments you choose may change it in the next lesson.
 
 Let's take the question many Bitcoin holders have: “I'm comfortable with 50% Bitcoin. What should I do with the other half?” We'll build that answer from what the money needs to provide.
 

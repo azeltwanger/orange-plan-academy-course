@@ -1,6 +1,6 @@
 # 8.4 — Identify the risks you will transfer or carry
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: ESTATE, ESTATE_DECK, RETIREMENT, PRIMARY
 
 ### Read aloud
 
-Insurance is meant to keep a large setback from forcing the rest of the financial plan to absorb a cost it cannot comfortably carry. The useful question isn't how many policies you own. It is which loss would leave the household without a workable response.
+Which loss could the household not comfortably pay for? Start there, then check what your existing insurance would cover.
 
 Start with the risk, then review the protection already in place.
 
@@ -38,15 +38,19 @@ Then identify the most important gap. “Confirm whether this benefit continues 
 
 When comparing a replacement, keep existing protection until the new arrangement is actually approved and in force, unless a qualified review establishes a deliberate different plan. A quote or application isn't coverage.
 
-For Alex and Morgan, the lesson gives us the process, not invented policy details or insurability. Their actual audit stays open where the source does not supply coverage evidence.
+Use your actual policy documents for the audit. When a benefit or exclusion is unclear, ask the insurer or a qualified professional before counting on the coverage.
 
-The section is finished when the household understands the risks it is keeping, the ones transferred through actual coverage, and the specific gaps being addressed. Bring premiums and any retained cash needs back into the financial plan. Insurance should protect that plan, not sit in a separate folder nobody checks.
+Record the gaps you're addressing and the costs you've chosen to carry yourself. Put premiums and any cash set aside for those costs into the plan.
 
 ### Visual and source notes — not spoken
 
 Estate/insuranceauditandGlobalBrain risk-gap framework. Generic40k×10=400k is scale-only withall omittedfactorsnamed,notcoverageadviceorReedpolicy. NAICconsumerinsuranceguideindex supports expertpolicyreview;actualtermscontrol. Medicare/noncoveredcarecurrentverification required. Preserveexistingprotectionuntilnewcoverageeffective;noinsurabilityorquote invented.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For Alex and Morgan, the lesson gives us the process, not invented policy details or insurability. Their actual audit stays open where the source does not supply coverage evidence.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 

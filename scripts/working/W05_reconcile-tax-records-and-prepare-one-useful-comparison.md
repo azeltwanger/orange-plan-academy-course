@@ -8,6 +8,12 @@ Kind: capture
 Gate: APP_CAPTURE
 Sources: TAX, TAX_DECK, APP, PRIMARY
 
+### For your situation — recording route, not spoken
+
+- After 5.4, [A5.1](../advanced/A5-1_build-a-multi-year-conversion-comparison.md): You are considering Roth conversions across several years. Complete before relying on a multi-year conversion schedule. Return to W05 chapter 4, then lesson 5.5.
+- After 5.5, [A5.2](../advanced/A5-2_prepare-a-harvesting-transaction-that-matches-the-tax-record.md): You intend to harvest a gain or loss through a specific sale. Complete before executing the harvesting transaction. Return to W05 chapters 5–6, then lesson 6.1.
+- After 5.3, [A5.3](../advanced/A5-3_evaluate-a-state-move-as-a-household-decision.md): A possible state move could affect your spending or the tax on a planned sale or withdrawal. Complete before relying on the move’s tax treatment; residency still needs professional review. Return to W05 chapter 3, then lesson 5.4.
+
 ### Run sheet
 
 Use the unchanged source lot example plus reviewed synthetic acquisition/transfer/overlap records and a separate fictional tax-year extension. No real client tax records or transactions. The new conversion opportunity-cost and gain/loss graphics are labeled educational assumptions, not engine outputs. Preserve supported account-activity, identification and tax-data export boundaries.
@@ -86,7 +92,7 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Narration:**
 
-“This export supports preparation and review. It is not the filed return, and exporting successfully does not prove every record is complete. Here is the question we want answered, the evidence behind it, and the part still needing verification.”
+“Give the tax professional the relevant records and the question you need answered. Check what this export includes and what is missing. It is tax data for preparation and review, not a filed return.”
 
 **Verify before recording:** Verify exact export schema and values, missing records, safe handling and next-year lot continuity. No message sent, tax return filed or professional approval implied. Actual financial/tax records stay private.
 

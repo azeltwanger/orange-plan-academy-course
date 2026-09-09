@@ -1,6 +1,6 @@
 # 3.5 — Compare financing on equal terms
 
-Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: current Core same-project and repayment examples; original strategic-debt scope and teaching sources recorded in HANDOFF.md.
 App references: actual offers, contract-specific modeling and outputs require separate verification.
 
@@ -80,9 +80,9 @@ Once you understand an option, look at the disappointing version. Income comes i
 
 What happens next? Can you continue paying, repay from another identified resource, reduce the purchase, or choose not to proceed? The comparison needs a response the household could actually carry out, not just a favorable ending balance.
 
-In the walkthrough, we will take one relevant financing option and put it beside cash or a sale, with the smaller-project or delay choice still visible. We will read the cash left afterward, payments, principal still owed, and repayment source. Any important term the app doesn't represent needs separate analysis before we rely on the result.
+Let's compare one relevant financing option with paying cash or selling an investment. Keep a smaller project or a delay beside them. For each version, check the cash left, the payments, the balance still owed, and how you repay it. Any important contract term the app doesn't represent needs separate analysis.
 
-You finish this step with a choice you can explain—or a specific contract question that needs answering before a choice is possible. Comparing an offer doesn't mean you have applied, qualified, or agreed to borrow. Now let's write down the conditions you would need to keep following if you chose to use it.
+Choose the option that fits, or get the specific contract question answered before choosing. Comparing an offer doesn't mean you've applied or qualified. Next we'll write the repayment and response rules you'd need to follow.
 
 ### Visual notes — not spoken
 

@@ -14,7 +14,7 @@ That subtraction is useful, but it isn't yet the final withdrawal amount. We hav
 
 Here is a separate extension purely to explain that reconciliation. Suppose total tax for the period is estimated at $12,000 and an additional $6,000 of debt payments has not been counted in the living figure. Total outflow becomes $126,000. With the same $40,000 of gross income, the remaining cash need is $86,000.
 
-Those added figures are hypothetical, not a calculated Reed plan. They show why we shouldn't call the rough $68,000 difference an after-tax paycheck. If the withdrawal itself changes taxes, the final model must solve that relationship too.
+These added figures are assumptions for this example. They show why the rough $68,000 gap is not necessarily the withdrawal you need. If withdrawing more also raises the tax bill, include that change in the calculation.
 
 Use one consistent convention. Start with gross income and include the complete tax outflow, or clearly reconcile the deposits and tax already withheld. Don't subtract withholding and then subtract the entire same tax bill again.
 
@@ -30,6 +30,6 @@ That's the shape to look for in the year-by-year view. The gap can be large just
 
 You may discover that the intended life costs more than the starting estimate. Don't fix that by leaving healthcare or a payment out. Decide whether the spending, timing, or funding needs to change.
 
-In the walkthrough, we'll build one complete year: income on one side, all costs on the other, and the portfolio contribution that closes the gap. Then we'll look at the next year where something changes.
+Let's put one year's income on one side and all its costs on the other. Find what investments need to provide, then look at the next year when income or spending changes.
 
-Keep those three numbers in view. We now know what the retirement paycheck needs to accomplish. Next we will identify which accounts can provide it during the early years, before later income and access changes arrive.
+Next we'll identify which accounts can supply that money during the early retirement years.

@@ -1,13 +1,16 @@
-# A5.3 — Evaluate a state move as a household decision
+# A5.3 — Compare the full cost of moving states
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: TAX_ESTATE_REVIEW
 Sources: TAX, ESTATE, PRIMARY
-Use when: the household is genuinely considering moving or has income/assets tied to multiple states.
+Use when: A possible state move could affect your spending or the tax on a planned sale or withdrawal.
+After lesson: 5.3
+Complete before: Complete before relying on the move’s tax treatment; residency still needs professional review.
+Return to: W05 chapter 3, then lesson 5.4
 
 ### Read aloud
 
@@ -29,15 +32,19 @@ The financial scenario should include the expected effective date and all materi
 
 Review the other arrangements affected by the move. Estate documents, healthcare directives, insurance, business registrations and provider services may need attention. A lower income tax does not compensate for a coverage gap or a legal document no longer suited to the household.
 
-In the demonstration, compare current and proposed household cash flow, include moving costs, then isolate the transaction-specific residency question. Use actual current jurisdictional research only when the locations are known. There is no reason to invent a state-specific threshold for a generic example.
+Let's compare the household's costs before and after the move, including the moving expense. Then identify the sale or withdrawal whose tax treatment depends on residency and take that timing question to a professional familiar with both states.
 
-Finish with the full life-and-cost comparison and a focused professional question about timing and residency. The decision may be to move, wait, or stay. Each is complete when the reason is understood and the plan reflects the actual intention.
+Decide whether the move fits the life you want as well as the costs. Keep any residency or income-source question unresolved until the relevant facts have been reviewed.
 
 ### Visual and source notes — not spoken
 
 Newgeneric10ktaxsaving−8kothercost=2krecurring;20kmovecostnotguaranteedbreakeven. Noactualstatepairresearchedorclaimed. Jurisdictionfactsandprofessionalreviewprecedereliance. Nochangeofaddressshortcuts.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+In the demonstration, compare current and proposed household cash flow, include moving costs, then isolate the transaction-specific residency question. Use actual current jurisdictional research only when the locations are known. There is no reason to invent a state-specific threshold for a generic example.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 

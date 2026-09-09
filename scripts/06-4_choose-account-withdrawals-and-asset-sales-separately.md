@@ -1,6 +1,6 @@
 # 6.4 — Choose account withdrawals and asset sales separately
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -38,17 +38,21 @@ Also distinguish distributions already paid in cash from holdings you need to se
 
 For each meaningful retirement year, follow the chain. What income arrives? What spending and tax remain? Which account supplies the withdrawal? Which asset supplies the cash? What is left afterward?
 
-Alex and Morgan's final demonstration will need their actual adopted spending, income dates, access and tax inputs to answer those questions. The source's rough income example doesn't establish the full strategy. We will read the verified result rather than give them a favorable ending in advance.
+Let's follow the withdrawals in the example plan through the first retirement year and a later tax year. Read the spending, income, and tax assumptions alongside the accounts paying for them.
 
-You may find a simple order already works. Keep it when it meets the purpose. A blend earns its place when the improvement is worth the added decisions and records.
+Keep a simple order when it funds the spending and the tax result fits. Use a blend when the improvement is worth the extra decisions and recordkeeping.
 
-Finish this step with an account-funding rule, an asset preference within it, and the years when a deliberate exception is useful. The next lesson explains how to handle a difficult market sequence without assuming those sales always happen at convenient prices.
+Record which accounts fund spending, what they sell, and the years when you'll use a different approach. Next we'll see what happens when the market declines early in retirement.
 
 ### Visual and source notes — not spoken
 
 Retirement deck waterfall and detailed bracket-trap explanation, corrected current scope: required distributions are mandatory, not last resort. The new work uses tax concepts from5ratherthanreteaching them. Accountorder≠assetsaleorder; netspending≠grosswithdrawal; dividendcash accounted once. Actual blend, account access, tax and funding attribution await verified inputs. Do not claim untouched Bitcoin, Rothalwayslast,or an optimal universal withdrawal order.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+Alex and Morgan's final demonstration will need their actual adopted spending, income dates, access and tax inputs to answer those questions. The source's rough income example doesn't establish the full strategy. We will read the verified result rather than give them a favorable ending in advance.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 

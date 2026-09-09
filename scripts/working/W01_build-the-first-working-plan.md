@@ -8,6 +8,10 @@ Kind: capture
 Gate: APP_CAPTURE
 Sources: FOUNDATION, DICTATION, APP
 
+### For your situation — recording route, not spoken
+
+- After 1.4, [A1.1](../advanced/A1-1_test-an-assumption-without-making-the-model-tell-you-what-you-want.md): You need custom assumptions or a holding-specific model to answer a planning question. Complete before relying on the custom assumption or override. Return to W01 chapter 8, then lesson 1.5.
+
 ### Run sheet
 
 Use the unchanged Reed fixture plus a separately reviewed capture extension for missing dates, tax jurisdiction and mapping, debt schedules, benefits, payroll election, security identities and event details. Never treat software defaults as source facts. Record each chapter after its paired lesson using an isolated, authorized demo environment. No hosted write or live provider operation is authorized by this manuscript.
@@ -44,7 +48,7 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Narration:**
 
-“A connection can supply part of the picture. This source has provided the balance. Now check whether it also supplied the investments and history. If it did not identify the holdings, that money is not automatically cash. We know exactly which part still needs attention.”
+“The connection supplied this balance. Did it also identify the investments and purchase history? If the holdings are missing, don't call the balance cash. Check the statement to find what belongs inside the account.”
 
 **Verify before recording:** Verify actual capability receipt and freshness; do not infer Fully synced from the institution name. No real client credentials, provider connection or paid refresh is authorized by this writing.
 

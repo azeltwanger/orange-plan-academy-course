@@ -1,6 +1,6 @@
 # 0.2 — Use Ask to understand your own numbers
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; Ask and optional feature inserts retain APP_CAPTURE.
 
@@ -24,11 +24,11 @@ Use that pattern for other questions too. “Why is this retirement year more ex
 
 An explanation that sounds confident but uses a different date, balance, or assumption hasn't finished the job. Follow it back to the input or result. If it cannot show the connection, keep the question open rather than changing the plan to match the answer.
 
-Once you understand the current picture, ask for a comparison. For debt, that might be, “What should I compare before making an extra payment?” For an account, “What changes if this money goes into retirement saving rather than staying available for the earlier years?”
+Once the number makes sense, ask about the decision. For debt, try, "What changes if I pay an extra amount each month?" For an account, ask, "Will I be able to use this money in the years I need it?" Then check the relevant comparison in the plan.
 
 You can challenge your preferred answer as well. Ask what would make the choice less useful than it first appears. That helps you notice a tax cost, an access problem, or a payment you're assuming will be easy to make.
 
-Then check the actual comparison in the plan. Written reasoning and a modeled result have different jobs. The explanation helps you understand; the calculation shows the effect of the inputs being tested. Neither automatically adopts a change for you.
+Read the calculation alongside the explanation. Has the comparison changed the inputs you intended? You still decide whether to save that change.
 
 For a professional question, use Ask to organize the facts. “Here is the conversion we're considering, the year, and where the tax money would come from. What should we verify with the CPA?” That is a focused handoff, not a substitute for the review.
 
@@ -36,7 +36,7 @@ Market information has a different purpose. Check its date and sources. Then ask
 
 Be deliberate about sharing files. A summary for an outside AI review is different from a backup intended to restore the plan. Read the file before sending it elsewhere. Removing a name does not make every financial detail non-sensitive. Recovery words, private keys, passphrases, PINs, and account credentials never belong in a planning question.
 
-In the demonstration, we'll use a populated plan and ask one question about a number already on screen. We'll compare the response with the source rows and decide the next step. The useful finish is simple: you can explain the number yourself and know whether to correct a fact, compare a choice, or ask for specific help.
+Let's ask about one number in the plan and check the answer against the rows behind it. When you can explain the number yourself, decide whether it needs correcting or whether you're ready to compare a change.
 
 ### Visual and source notes — not spoken
 

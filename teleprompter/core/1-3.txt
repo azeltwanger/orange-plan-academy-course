@@ -18,7 +18,7 @@ Here is the original cash-flow bridge on screen. After the income, illustrative 
 
 That is the figure we're starting from. It doesn't mean they're only saving $500; the employee contribution is already invested. It also doesn't include the spending reduction we'll consider later.
 
-The example allows $4,000 a month for taxes. That is a teaching provision, not a calculated Reed tax liability. In the app demonstration, we'll check how the actual income and tax inputs are represented. The statement and the model need to reconcile; we won't hide a difference by inventing an expense.
+We're allowing $4,000 a month for taxes in this example. That's an assumption, not their calculated tax bill. When checking your own cash flow, compare the income and tax figures with your records. If they don't agree, find out why before assigning the money that's left.
 
 Now give the retirement calculation a question to answer. When do you want to reduce or stop work, and what would that life cost?
 
@@ -28,4 +28,4 @@ Start a retirement-spending estimate based on the life you expect. Some work cos
 
 Use actual Social Security or pension estimates when you have them, attached to the right person and start date. Don't insert an assumed benefit to fill a shortfall. An unverified income source is a question to answer, not funding you can rely on yet.
 
-The first pass is finished when you can explain the money coming in, the costs and contributions already committed, and the retirement life you are asking the plan to test. If the available amount looks nothing like your bank experience, keep that mismatch visible for Cash Flow. A less exciting result based on honest numbers is a much better starting point.
+Check that you can follow income through the costs and contributions already committed, and that the retirement date and spending describe the life you want to test. If the remaining money doesn't match what you see in your accounts, keep that question for the Cash Flow review.

@@ -1,6 +1,6 @@
 # 5.4 — Compare conversions with intentional withdrawals
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: TAX, TAX_DECK, RETIREMENT, PRIMARY, APP
 
 ### Read aloud
 
-A growing Traditional retirement account can be good news for your wealth and still create a future tax problem. When more of the money eventually has to come out as taxable income, you may have less control over the annual tax bill.
+As a Traditional account grows, more money may eventually need to come out as taxable income. Let's compare whether using a lower-income year for a conversion would help—and what paying that tax now would cost.
 
 A Roth conversion is one way to address that. But “more money in Roth” is not enough reason to convert. We need to compare what the conversion costs now with what it changes later.
 
@@ -50,9 +50,9 @@ Required distributions have to be handled under their own rules; the amount requ
 
 Also understand that a completed Roth conversion generally cannot be undone by recharacterizing it back to Traditional under current rules. A speculative choice based only on an expected market rebound deserves careful review before moving the money.
 
-The solution is a specific plan for the year or period: the amount or range worth comparing, the source of the tax money, the after-tax benefit being sought, and the conditions that would make you change it. “No conversion this year” can be the completed decision when its cost doesn't fit.
+Choose an amount or range to compare, identify the account that pays the tax, and check what you expect to gain later. You may decide not to convert this year because the cost doesn't fit.
 
-In the walkthrough, we'll keep spending cash, conversion money, and tax funding visible together. Once the choice is reviewed, execution happens with the custodian and the tax records. A proposed schedule remains a plan until the actual confirmation shows what happened.
+We'll keep the spending money, conversion, and tax payment visible together. Review the amount before submitting it to the custodian, then keep the confirmation and tax records. For a schedule spanning several years, use the multi-year conversion lesson before settling the amounts.
 
 ### Visual and source notes — not spoken
 

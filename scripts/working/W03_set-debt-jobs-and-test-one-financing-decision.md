@@ -8,6 +8,11 @@ Kind: capture
 Gate: APP_CAPTURE
 Sources: DEBT, OWNER, APP
 
+### For your situation — recording route, not spoken
+
+- After 3.6, [A3.1](../advanced/A3-1_build-a-bitcoin-loan-operating-sheet-from-the-actual-contract.md): You have, or are seriously considering, a Bitcoin-backed loan. Complete before borrowing or relying on a collateral-response plan. Return to W03 chapters 5–6, then lesson 4.1.
+- After 3.5, [A3.2](../advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md): A financing option includes a balloon, changing payment phases, shared appreciation, or another unusual contract term. Complete before choosing that financing or relying on its modeled cost. Return to W03 chapter 4, then lesson 3.6.
+
 ### Run sheet
 
 Use the existing W01 debts. For current-payment pressure, identify the original cash-flow state. For the Reserve/extra-card comparison, use the explicitly named reduced-spending state from W02. Do not blend the original $500 available cash with the later $1,700 available amount or activate future post-card contributions early.

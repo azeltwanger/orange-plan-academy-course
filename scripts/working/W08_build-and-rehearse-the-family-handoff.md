@@ -8,6 +8,10 @@ Kind: capture
 Gate: APP_CAPTURE
 Sources: ESTATE, CUSTODY, APP, PRIMARY
 
+### For your situation — recording route, not spoken
+
+- After 8.1, [A8.1](../advanced/A8-1_decide-whether-a-trust-has-a-job-in-the-plan.md): A trust may help with a specific family, management, or estate objective. Complete before choosing or funding the arrangement, with attorney and tax review. Return to W08 chapter 1, then lesson 8.2.
+
 ### Run sheet
 
 Use the existing Heir Letter, Executor Packet, Family Custody Map and insurance audit. These organize a household decision; they are not legal instruments or professional approvals. Actual people, communications and account/legal changes require consent and appropriate verification.
@@ -44,7 +48,7 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Narration:**
 
-“The letter gets the reader started. The packet supports the follow-up. Let's read the first page without my explanation: whom would you contact, how would you verify the contact, and what should not be rushed? Fix the confusing sentence before adding another page.”
+“Read the first page without my help. Whom would you contact, and how would you check that you have the right person? If a step is unclear, let's fix it and try again.”
 
 **Verify before recording:** Actual finding/opening and teach-back required before success status. Keep keys, secrets and detailed protected storage out. No unperformed delivery, attorney review or fictional client test asserted.
 

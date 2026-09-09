@@ -1,21 +1,26 @@
-# Advanced library
+# For your situation — collected teaching notes
 
-Generated from canonical `scripts/`. New prose is a pre-dictation draft, not a claim Austin already said it. Production notes and member checkpoints are not spoken.
+Generated from `scripts/`. Spoken text is under Read aloud; production notes and checkpoints are not narration. Owner review and actual app/device recording remain separate.
+
+This is a reference index, not a second course or a higher level. The A-prefixed IDs and filename are retained for existing links. Use a lesson when its stated situation applies, then return to the indicated walkthrough.
 
 # A1.1 — Test an assumption without making the model tell you what you want
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: APP_CAPTURE
 Sources: FOUNDATION, BRAIN, APP, PRIMARY
-Use when: a preset or holding-specific assumption materially changes a decision.
+Use when: You need custom assumptions or a holding-specific model to answer a planning question.
+After lesson: 1.4
+Complete before: Complete before relying on the custom assumption or override.
+Return to: W01 chapter 8, then lesson 1.5
 
 ### Read aloud
 
-Use this lesson when the normal assumptions cannot express a question that matters to your decision. More settings are not automatically a better model. We need to know what one additional choice helps you understand.
+Use this lesson when you need to test an assumption the normal settings don't express. Start with the question you want the comparison to answer.
 
 Suppose the plan supports your preferred retirement date under the current Bitcoin path, but you want to know what happens when growth slows earlier. State that question before touching the inputs.
 
@@ -37,7 +42,7 @@ After the first controlled test, a combined stress can be useful. Lower returns 
 
 Keep a receipt of the inputs and result identity. Without it, you can end up comparing an old baseline with a new scenario and attribute the difference to the wrong setting.
 
-The solution is a starting model you can explain, a relevant sensitivity comparison, and the household decision affected by it. Return to the core plan when that question is answered. This advanced work should reduce a specific uncertainty, not become a permanent search for more favorable assumptions.
+Keep the starting assumptions and the comparison, then note which planning decision changes under the different result. Return to your plan when that question is answered.
 
 ### Visual and source notes — not spoken
 
@@ -61,22 +66,25 @@ Answer one modeling question through a supported controlled comparison and retur
 
 ---
 
-# A3.1 — Build a Bitcoin-loan operating sheet from the actual contract
+# A3.1 — Plan how to manage a Bitcoin-backed loan
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: TAX_LENDING_REVIEW
 Sources: DEBT, BRAIN, PRIMARY, APP
-Use when: a real or seriously considered Bitcoin-backed loan needs operating rules.
+Use when: You have, or are seriously considering, a Bitcoin-backed loan.
+After lesson: 3.6
+Complete before: Complete before borrowing or relying on a collateral-response plan.
+Return to: W03 chapters 5–6, then lesson 4.1
 
 ### Read aloud
 
 A low starting loan-to-value ratio can stop describing the loan you actually have. Interest accumulates, collateral changes, and the lender's agreement still governs what happens.
 
-This lesson turns a specific Bitcoin-loan contract into an operating sheet. We already covered whether borrowing fits the plan. Now we need numbers and actions someone can use.
+Have the loan agreement ready. We'll put its balance, dates, and response rules on one sheet so you know what to monitor and what to do.
 
 Read the full balance, not just the original principal. Record interest treatment, fees, maturity, collateral quantity, price source and the actual warning, collateral-call and liquidation provisions. Those are separate contract events. A notice is not a promised grace period unless the agreement actually provides it.
 
@@ -100,7 +108,7 @@ Add the operational failure case too. A provider interruption can affect access 
 
 Finally, name the person monitoring the sheet and the backup person who knows the first steps. Keep secrets out of it. The sheet should point to verified contacts and safe instructions, not contain private keys or complete recovery material.
 
-Before borrowing or changing collateral, verify the actual contract and tax treatment with the relevant professionals. The completed sheet explains the obligation, thresholds, dates, response resources and limits. It is not proof that the lender will always allow time to act.
+Review the actual contract and tax treatment before borrowing or changing collateral. Check that the sheet includes the full balance, relevant dates and thresholds, and the cash or collateral for each response. The lender's rights still depend on the agreement; the sheet doesn't guarantee time to act.
 
 ### Visual and source notes — not spoken
 
@@ -126,14 +134,17 @@ Complete the contract-derived operating sheet with actual full balance, threshol
 
 # A3.2 — Compare financing terms that a simple payment hides
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: LENDING_REVIEW
 Sources: DEBT, OWNER, PRIMARY
-Use when: a large purchase, business acquisition, or home-equity offer has complex terms.
+Use when: A financing option includes a balloon, changing payment phases, shared appreciation, or another unusual contract term.
+After lesson: 3.5
+Complete before: Complete before choosing that financing or relying on its modeled cost.
+Return to: W03 chapter 4, then lesson 3.6
 
 ### Read aloud
 
@@ -161,7 +172,7 @@ For the Reeds' project illustration, keep a smaller project and a delay alongsid
 
 When a term isn't supported in Orange Plan, keep the actual schedule in the existing reviewed comparison worksheet. Don't replace it with a conventional loan and describe the whole agreement as modeled. Read the unsupported obligation alongside any app result before drawing a conclusion.
 
-Finish with a comparison that answers what is paid now, what continues, what remains owed, what is exposed and how it ends. Then decide whether the benefit is worth that complete obligation. An unresolved contract term is a specific prerequisite, not a detail to ignore because the starting payment looks attractive.
+Read the comparison from the first payment through the final settlement. What do you pay, what remains owed, and how does the household fund it? Get any missing contract answer before choosing the offer.
 
 ### Visual and source notes — not spoken
 
@@ -187,14 +198,17 @@ Explain all payment phases and final settlement under a weaker case before choos
 
 # A4.1 — Check price context before a large allocation change
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: OWNER_REVIEW
 Sources: ALLOCATION, BRAIN, CLIENT_THEMES
-Use when: a large proposed Bitcoin purchase or sale is being driven by recent price action.
+Use when: You are about to make a large investment purchase, sale, or allocation change and need to choose its timing.
+After lesson: 4.7
+Complete before: Complete before the large transaction; routine funded contributions do not need this detour.
+Return to: W04 chapters 7–8, then lesson 5.1
 
 ### Read aloud
 
@@ -220,9 +234,9 @@ Market indicators and valuation models can provide context. Record what the indi
 
 For the Reeds, a better-looking entry does not create cash on top of the Reserve and extra-card claims. A loan to enlarge the purchase is another decision, with its own repayment and downside—not a small adjustment to timing.
 
-Before acting, write the affordable amount, purpose, implementation pace and the fact that would justify changing the plan. That may be a new cash need or a different allocation decision. It should not be an explanation assembled afterward to excuse an impulsive trade.
+Write down the amount you can afford, the reason for the purchase or sale, and the pace you've chosen. Also note what would change that decision—a new cash need or a revised allocation, for example.
 
-Return to the ordinary contribution plan when the large decision is settled. The purpose of this check is a deliberate transaction, not constant market monitoring.
+Once the large transaction is settled, return to the ordinary contribution plan. You don't need to repeat this price review every payday.
 
 ### Visual and source notes — not spoken
 
@@ -248,14 +262,17 @@ Choose a deliberate affordable implementation pace, knowing both directions of t
 
 # A5.1 — Build a multi-year conversion comparison
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: TAX_REVIEW
 Sources: TAX, RETIREMENT, PRIMARY, APP
-Use when: a meaningful Traditional balance and a plausible lower-income window make conversions relevant.
+Use when: You are considering Roth conversions across several years.
+After lesson: 5.4
+Complete before: Complete before relying on a multi-year conversion schedule.
+Return to: W05 chapter 4, then lesson 5.5
 
 ### Read aloud
 
@@ -283,7 +300,7 @@ A market decline may let the same conversion dollars move more units. That can b
 
 Before execution in each actual year, verify income, deductible and nondeductible amounts, required distributions, healthcare effects and the custodian process. The proposal is a review range and rule, not a permanent promise to convert an unchanged amount for ten years.
 
-Finish with the preferred bounded schedule, why it improves the plan under the tested assumptions, and the information that will determine the real amount for the next transaction. Return that amount to the tax and retirement funding records so the same cash is not committed twice.
+Choose the schedule you prefer and record the assumptions that make it worthwhile. Before the next conversion, update the current-year figures and confirm the actual amount. Include the tax payment in the same cash-flow plan as spending.
 
 ### Visual and source notes — not spoken
 
@@ -309,14 +326,17 @@ Select a bounded conversion schedule with after-tax and liquidity justification 
 
 # A5.2 — Prepare a harvesting transaction that matches the tax record
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: TAX_REVIEW
 Sources: TAX, PRIMARY, APP
-Use when: an actual taxable holding presents a gain- or loss-harvesting candidate.
+Use when: You intend to harvest a gain or loss through a specific sale.
+After lesson: 5.5
+Complete before: Complete before executing the harvesting transaction.
+Return to: W05 chapters 5–6, then lesson 6.1
 
 ### Read aloud
 
@@ -336,13 +356,13 @@ For a loss harvest, check the replacement exposure before placing the sale. Auto
 
 For a gain harvest, update the rest of the year's income. A conversion or business-income change can consume the same favorable room. Federal gain treatment alone doesn't establish the full state, healthcare or other income-sensitive cost.
 
-Then work through the operational sequence: reviewed proposal, necessary identification, external execution, confirmation, and reconciliation. If funds move between your own wallets beforehand, preserve their history rather than create a new purchase at the destination.
+Before the sale, complete the review and required identification. Afterward, keep the confirmation and reconcile the units, proceeds, and remaining holdings. If you first move coins between your own wallets, keep their purchase history attached; the transfer is not a new purchase.
 
 After the trade, match the actual units, time, proceeds, fees and selected history with the confirmation. Verify the remaining lots and current holding quantity. A tax report should explain the position left over, not just the realized result.
 
 Keep a small transaction packet with the source evidence and reason for the decision. It supports the professional review and reporting. An export labeled tax data is not a filed return, and it doesn't establish that every classification was correct.
 
-The outcome can be a verified proposed transaction or a decision to pass because the expected benefit isn't worth the cost or unresolved evidence. In either case, you have finished the evaluation instead of leaving an attractive but unexecutable row in the plan.
+Proceed only when the units, tax treatment, and instructions are supported. You may decide the benefit isn't worth the costs or remaining uncertainty. Record that decision rather than leave the trade waiting without a reason.
 
 ### Visual and source notes — not spoken
 
@@ -366,16 +386,19 @@ Prepare an eligible transaction packet with timely identification, replacement r
 
 ---
 
-# A5.3 — Evaluate a state move as a household decision
+# A5.3 — Compare the full cost of moving states
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: TAX_ESTATE_REVIEW
 Sources: TAX, ESTATE, PRIMARY
-Use when: the household is genuinely considering moving or has income/assets tied to multiple states.
+Use when: A possible state move could affect your spending or the tax on a planned sale or withdrawal.
+After lesson: 5.3
+Complete before: Complete before relying on the move’s tax treatment; residency still needs professional review.
+Return to: W05 chapter 3, then lesson 5.4
 
 ### Read aloud
 
@@ -397,15 +420,19 @@ The financial scenario should include the expected effective date and all materi
 
 Review the other arrangements affected by the move. Estate documents, healthcare directives, insurance, business registrations and provider services may need attention. A lower income tax does not compensate for a coverage gap or a legal document no longer suited to the household.
 
-In the demonstration, compare current and proposed household cash flow, include moving costs, then isolate the transaction-specific residency question. Use actual current jurisdictional research only when the locations are known. There is no reason to invent a state-specific threshold for a generic example.
+Let's compare the household's costs before and after the move, including the moving expense. Then identify the sale or withdrawal whose tax treatment depends on residency and take that timing question to a professional familiar with both states.
 
-Finish with the full life-and-cost comparison and a focused professional question about timing and residency. The decision may be to move, wait, or stay. Each is complete when the reason is understood and the plan reflects the actual intention.
+Decide whether the move fits the life you want as well as the costs. Keep any residency or income-source question unresolved until the relevant facts have been reviewed.
 
 ### Visual and source notes — not spoken
 
 Newgeneric10ktaxsaving−8kothercost=2krecurring;20kmovecostnotguaranteedbreakeven. Noactualstatepairresearchedorclaimed. Jurisdictionfactsandprofessionalreviewprecedereliance. Nochangeofaddressshortcuts.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+In the demonstration, compare current and proposed household cash flow, include moving costs, then isolate the transaction-specific residency question. Use actual current jurisdictional research only when the locations are known. There is no reason to invent a state-specific threshold for a generic example.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
@@ -425,14 +452,17 @@ Compare complete household costs and life effects, then obtain specific two-juri
 
 # A6.1 — Compare healthcare and tax decisions in the same year
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: HEALTH_TAX_REVIEW
 Sources: RETIREMENT, TAX, PRIMARY, OWNER
-Use when: early-retirement income choices affect coverage assistance or Medicare premiums.
+Use when: A withdrawal, gain, or conversion could change the cost or eligibility of healthcare coverage.
+After lesson: 6.3
+Complete before: Complete before adopting the affected income and coverage plan.
+Return to: W06 chapter 3, then lesson 6.4
 
 ### Read aloud
 
@@ -448,7 +478,7 @@ Here is a separate illustration of the combined-cost calculation. Suppose a $10,
 
 Now suppose the same conversion increases the household's net coverage cost by $1,500 under the applicable program calculation. The immediate combined cost is $3,500, or 35% of the amount converted.
 
-Those are invented amounts, not an actual subsidy estimate or tax bracket. The point is to include both effects before deciding whether the conversion is attractive. A smaller conversion may avoid some of the additional cost. A larger one may still be worthwhile for another reason. We need the complete comparison to judge it.
+Those are hypothetical amounts to show the calculation, not a subsidy estimate or tax bracket. Compare the combined cost before deciding whether to convert. A smaller amount may change the result; a larger one needs a reason worth its added cost.
 
 For Marketplace coverage, verify the current year's eligibility and assistance rules, household size, coverage options and income estimate. Update the estimate when actual circumstances change and understand how advance assistance will be reconciled. Do not assume last year's rules continue unchanged.
 
@@ -462,7 +492,7 @@ Then follow the cash. Where will the additional tax and premium cost come from? 
 
 Use the app only for effects it actually calculates. A verified outside coverage calculation may need to sit beside the model result. Label it clearly rather than assume an unmodeled subsidy remained unchanged.
 
-Finish with one coordinated choice for the year: coverage, the considered withdrawal or conversion, its complete current cost, and the next enrollment or tax action. Obtain the relevant professional and provider confirmation before giving up coverage or executing a transaction that relies on the estimate. Return that same choice to the retirement plan so healthcare and taxes no longer describe two different income pictures.
+Choose the coverage and the withdrawal or conversion together, using their combined cost. Confirm the enrollment, eligibility, and tax details before giving up coverage or making the transaction. Enter the same income and costs in the retirement plan.
 
 ### Visual and source notes — not spoken
 
@@ -488,14 +518,17 @@ Choose a coordinated income/coverage proposal using the complete current cost an
 
 # A6.2 — Test a multi-year sell-versus-borrow strategy
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: TAX_LENDING_REVIEW
 Sources: RETIREMENT, DEBT, APP, PRIMARY
-Use when: recurring retirement borrowing is a serious alternative to asset sales.
+Use when: You are considering borrowing in more than one year to fund retirement spending.
+After lesson: 6.6
+Complete before: Complete before relying on recurring borrowing, not after the first loan.
+Return to: W06 chapter 6, then lesson 6.7
 
 ### Read aloud
 
@@ -525,15 +558,19 @@ Estate assumptions deserve particular care. Debt does not disappear because the 
 
 Provider failure and interrupted access may not be represented in the simulation. Record those limits separately. A favorable chance-of-success output is not a probability that a lender will remain solvent or honor a hoped-for extension.
 
-For the Reeds, this remains a comparison unless a borrowing policy is deliberately adopted. Their source does not contain a Bitcoin-backed loan. A modeled policy and an executed loan record are not the same thing.
+Keep a borrowing proposal separate until you choose it. Alex and Morgan do not already have a Bitcoin-backed loan, so we are testing a possible strategy rather than reading an existing obligation.
 
-Finish with the preferred funding policy, its debt and collateral path, its exit, and the conditions that would make you stop adding debt. Declining recurring borrowing is a complete result. The point is to know whether the household can carry the policy, not whether one year's sale was avoided.
+Choose the funding approach after reading the debt, collateral, and repayment path. Write down when you would stop adding debt or reduce it. You may decide recurring borrowing asks more of the household than you are willing to carry.
 
 ### Visual and source notes — not spoken
 
 Existing recurring-retirement-borrowing scope. New generic beginning-of-year loans of $20,000 with end-of-year simple 10% capitalization: year 1 $22,000; year 2 ($22,000+$20,000)*1.10=$46,200; total spending $40,000 and interest $6,200. This is not a lender rate quote, actual accrual method or adopted Reed loan. Preserve supported D63 behavior, contract risks, same net spending and after-tax comparison; no estate-tax guarantee.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For the Reeds, this remains a comparison unless a borrowing policy is deliberately adopted. Their source does not contain a Bitcoin-backed loan. A modeled policy and an executed loan record are not the same thing.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
@@ -551,16 +588,19 @@ Explain the multi-year debt and collateral path, exit and after-tax trade-off, w
 
 ---
 
-# A6.3 — Verify an early-retirement account-access route
+# A6.3 — Check access to retirement accounts before 59½
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: TAX_REVIEW
 Sources: RETIREMENT, TAX, PRIMARY
-Use when: taxable assets alone do not cover early years or a special access rule may improve the plan.
+Use when: Your plan relies on using retirement-account money before 59½.
+After lesson: 6.2
+Complete before: Complete before counting on the access route or making a rollover that could change it.
+Return to: W06 chapter 2, then lesson 6.3
 
 ### Read aloud
 
@@ -592,7 +632,7 @@ For Alex and Morgan, review each spouse separately. Alex's age doesn't unlock Mo
 
 Finish a short access record: account, person, expected amount and date, tax treatment, exception relied on, supporting evidence, and actions that could invalidate the plan. Have the relevant tax professional and provider verify it before the rollover or withdrawal.
 
-The solution isn't knowing that early-access rules exist. It is having a route that applies to the actual money and remains workable after you begin using it.
+Confirm that the access route applies to this account, this person, and these dates before relying on the withdrawal. Then return to the retirement timeline and check the years it funds.
 
 ### Visual and source notes — not spoken
 
@@ -618,14 +658,17 @@ Verify an account- and person-specific access route, dates, evidence and invalid
 
 # A7.1 — Compare passphrase, multisig, and professional support
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: DEVICE_CUSTODY_REVIEW
 Sources: CUSTODY, DICTATION, PRIMARY, OWNER
-Use when: the basic custody arrangement leaves a named failure that another architecture may address.
+Use when: You are choosing or changing a passphrase, multisig, or professionally supported custody arrangement.
+After lesson: 7.1
+Complete before: Complete before moving meaningful funds into the new arrangement.
+Return to: W07 chapter 1, then lesson 7.2 and its safe recovery work
 
 ### Read aloud
 
@@ -645,7 +688,7 @@ Institutional custody assigns more of the operational work to a provider. It may
 
 Let's compare the problems. If theft of one backup is the concern, a correctly maintained passphrase or threshold arrangement may address it differently. If the concern is that the family cannot operate an elaborate process, adding another secret may make the situation worse. Support or simplification may solve the actual problem more directly.
 
-An intentional split can combine direct control for one portion and support for another. Choose the portion by its job and the consequence of failure, not because every advanced user needs a certain number of methods. Each method adds maintenance.
+A split can keep direct control over one portion and professional support for another. Choose the portions by what they're for and the consequence of a problem with either method. Each additional arrangement needs maintaining.
 
 Before moving meaningful funds, test the proposed improvement against the named failure. Can the intended wallet be recovered when one key, device or provider is missing? Is the configuration available through the protected process? Does the person responsible know how to start?
 
@@ -653,7 +696,7 @@ Use current official instructions and a separate small-value setup for learning.
 
 Keep secret material and sensitive configurations out of ordinary course notes. The comparison should document protection gained, responsibility added, risks retained, cost and the family route—not publish a complete recovery kit.
 
-Return with the simplest arrangement that satisfies the household's control and continuity needs, plus the specific safe test still required. More complexity is useful only when it addresses a meaningful failure and can still be maintained.
+Choose the arrangement that fits your control and family-access needs, and identify the safe test still required. If the added complexity doesn't solve a meaningful problem, keep the simpler setup.
 
 ### Visual and source notes — not spoken
 
@@ -677,77 +720,19 @@ Choose a custody architecture for a named failure and verify the complete safe r
 
 ---
 
-# A7.2 — Decide which custody responsibilities the household can maintain
+# A7.3 — Check what your custody arrangements share
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
-Gate: CUSTODY_REVIEW
-Sources: CUSTODY, BRAIN, CLIENT_THEMES
-Use when: the household is uncertain whether a custody arrangement fits its actual capability and time.
-
-### Read aloud
-
-A custody arrangement can be technically sound and still be a poor fit for the people who have to use it. The missing piece is often not another device. It is time, practice, or someone able to take over.
-
-This lesson checks whether the household can maintain the responsibilities it has chosen.
-
-List the tasks that actually recur: keeping recovery information current, verifying addresses, maintaining secure sign-in, checking provider changes, following device updates appropriately, and keeping the family process usable. Separate tasks you can do yourself from those needing qualified help.
-
-Then assign the person responsible and a backup. “We both know about Bitcoin” is not the same as knowing who checks an expiring security key, a provider change or a recovery instruction.
-
-Consider a generic household with one enthusiastic operator and a spouse who wants a clear starting process but not ongoing technical responsibility. A system requiring both to maintain several complex wallets may not fit them. A simpler direct-custody arrangement with a verified helper, professional support for part of the assets, or another deliberately chosen architecture may be more maintainable.
-
-That doesn't mean the spouse must learn nothing. They should understand which accounts exist, where the safe instructions begin, whom to contact, and which information not to share. The technical and legal roles can remain separate.
-
-Now test the everyday tasks on an appropriate training setup. Can the operator verify the receiving destination through the trusted device process? Can they distinguish a legitimate backup check from a support message asking for secrets? Can they recognize that a passphrase mismatch might open the wrong wallet?
-
-Use the mistakes as design information. If someone repeatedly skips an important step under pressure, don't assume a more elaborate setup will correct the habit. Simplify the procedure, practice it, or assign that task to suitable support.
-
-Next test an absence. The normal operator is unavailable for six months. Give the backup person the non-secret starting document and ask them to explain the first steps. Don't coach every answer. Their question shows where the instructions or responsibilities are incomplete.
-
-The first action might be contacting the person with legal authority, finding the provider process, or asking the designated technical helper to assist. It should not require guessing passwords, acting as the owner online, or accepting an unsolicited recovery offer.
-
-Review the cost of support honestly. A fee may be worthwhile if it reduces a consequential operating gap. It does not automatically make the provider risk disappear. Likewise, doing everything yourself may save fees while asking more of the household's time and continuity.
-
-Choose the arrangement the household can maintain during ordinary life and stress. Document the task, person, backup and verification—not merely an intended level of technical sophistication.
-
-The working exercise finishes with an actual responsibility map and a recorded practice gap or result. A failed rehearsal is useful because it identifies what to fix before meaningful funds depend on that person. Return to the core custody map once the responsibilities and starting process are clear.
-
-### Visual and source notes — not spoken
-
-The generic two-person skill/preference example is editorial, not a claimed fact about Alex and Morgan or a private client. Demonstrate maintainability through actual consented rehearsals, not a self-rated risk quiz or unperformed success claim. Legal and technical roles remain distinct. No mandatory professional provider or arbitrary wealth tier.
-
-### Production notes
-
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
-
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
-
-### Demonstration plan — not spoken
-
-Walk the existing task map with a consented helper; run an operator-absent tabletop with no transfers or secrets. Narration: “Show me where you would begin without calling the unavailable person. The step that is unclear is the next thing we need to fix.” Record actual questions, not a staged claim of competence.
-
-The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
-
-### Member checkpoint
-
-Assign operating tasks and backups and complete a no-secrets absence rehearsal, recording actual gaps rather than assumed competence.
-
----
-
-# A7.3 — Test correlated failures across providers and methods
-
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
-
-Kind: advanced
+Kind: conditional
 Gate: CUSTODY_REVIEW
 Sources: CUSTODY, BRAIN, PRIMARY
-Use when: several accounts or custody methods appear diversified but may share dependencies.
+Use when: Several providers, wallets, people, or recovery routes may share a failure that affects important holdings.
+After lesson: 7.4
+Complete before: Complete before treating those holdings as independent protection.
+Return to: W07 chapter 4, then lesson 8.1
 
 ### Read aloud
 
@@ -775,9 +760,9 @@ Once you find the shared failure, make a targeted change. That may mean separati
 
 More accounts aren't the goal. A change earns its place when it reduces the consequence of a named failure without creating an unmaintainable arrangement.
 
-In the demonstration, we'll cross out one dependency on a non-secret example map and identify what still works. Actual independence remains a claim to verify through the relevant documents and safe tests.
+On the custody map, cross out one provider or recovery route and identify what still works. Check the documents and appropriate safe tests before treating the remaining arrangements as independent.
 
-Finish with the failure identified, the affected portion, the improvement chosen and the evidence needed to confirm it. Then update the existing custody map rather than create another version the family has to reconcile.
+Record the shared failure, the holdings affected, and the change you've chosen. Update the existing custody map and verify the improvement before relying on it.
 
 ### Visual and source notes — not spoken
 
@@ -803,14 +788,17 @@ Identify a shared dependency, its affected exposure and a targeted change with e
 
 # A7.4 — Understand UTXOs before consolidating coins
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: DEVICE_CAPTURE
 Sources: CUSTODY, PRIMARY
-Use when: the household has many small Bitcoin receipts or is considering consolidation or coin control.
+Use when: You are considering consolidating Bitcoin outputs or selecting outputs manually for a transaction.
+After lesson: 7.2
+Complete before: Complete before that wallet transaction; it is not a requirement to consolidate.
+Return to: Finish the relevant safe wallet work, then lesson 7.3
 
 ### Read aloud
 
@@ -824,7 +812,7 @@ Virtual bytes are a measure used for that size. Satoshis are small units of Bitc
 
 For an arithmetic example, a preview of 500 virtual bytes at 2 satoshis per virtual byte gives a fee of 1,000 satoshis. At 20 satoshis per virtual byte, that same size costs 10,000 satoshis.
 
-Those are invented previews, not today's fees or the size of every wallet transaction. The wallet and script type, inputs and outputs determine the real size. They show why both size and the fee rate matter.
+Those are hypothetical fee calculations, not today's rates. The wallet, script type, inputs, and outputs determine the size of your transaction. Read both its size and fee rate in the preview.
 
 Spending many small outputs can require more transaction data than spending fewer larger outputs. Consolidation combines selected outputs into fewer outputs you control. That can reduce the input work needed for a later payment, but you pay a fee now to do it.
 
@@ -840,7 +828,7 @@ Preserve the ownership and purchase history in the records. Moving coins to your
 
 The demonstration uses a separate small-value setup. It shows the available outputs, actual preview and privacy comparison without publishing sensitive addresses or recovery material. Match the procedure to the exact wallet and software before using it with your own holdings.
 
-The solution may be a selective consolidation, a different input choice, or no transaction now. You should be able to explain the fee paid today, the possible later benefit and the privacy cost. More wallet activity is not a completion requirement.
+Compare the fee paid now, the possible saving on a later payment, and the privacy cost. Consolidate only the outputs that fit your purpose—or leave them alone when a transaction wouldn't improve the situation.
 
 ### Visual and source notes — not spoken
 
@@ -866,14 +854,17 @@ Choose a justified consolidation, coin-control action or deliberate pass after r
 
 # A8.1 — Decide whether a trust has a job in the plan
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: ESTATE_TAX_REVIEW
 Sources: ESTATE, ESTATE_DECK, PRIMARY, OWNER
-Use when: probate, incapacity, beneficiaries, tax, control, or a complex asset creates a specific trust question.
+Use when: A trust may help with a specific family, management, or estate objective.
+After lesson: 8.1
+Complete before: Complete before choosing or funding the arrangement, with attorney and tax review.
+Return to: W08 chapter 1, then lesson 8.2
 
 ### Read aloud
 
@@ -899,17 +890,21 @@ Then finish funding and coordination. Signing a document doesn't automatically r
 
 Use the ownership inventory and custody map with the attorney. Identify which accounts belong to the trust, which use a beneficiary process, and which stay outside. Confirm the custodian or provider can actually implement the intended arrangement.
 
-For the Reeds, the source doesn't establish a particular trust, estate size requiring a structure, or legal instrument ready to sign. The teaching example organizes the questions. It should not invent a trust recommendation to make the course appear more complete.
+A household's Bitcoin holdings alone don't tell us which trust, if any, it needs. Start with the family objective and review the actual people, assets, and legal circumstances with the attorney.
 
-The finished decision is either a reasoned simpler baseline or a professionally designed trust with its specific purpose, people, funding and operating actions. Record who will finish each step and how completion will be confirmed.
+Decide whether the baseline documents meet the need or a trust adds a specific benefit. If you proceed with a trust, identify who completes the legal work, funds it, and coordinates beneficiaries and custody. Confirm those steps rather than stop at signing the document.
 
-Return to the family packet with the result. The reader should find the actual authority and starting process, not an impressive structure name that never became part of the household's real arrangements.
+Update the family packet with the resulting authority and starting instructions.
 
 ### Visual and source notes — not spoken
 
 Estate framework preserves revocable/irrevocable separately from grantor/non-grantor, trust purpose and actual funding. Charitable lead structures remain specialized professional questions, not return-driven recommendations. State law, beneficiary treatment, tax and provider implementation require actual review. No legal instrument, Bitcoin waiver or guaranteed estate-tax savings is drafted.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For the Reeds, the source doesn't establish a particular trust, estate size requiring a structure, or legal instrument ready to sign. The teaching example organizes the questions. It should not invent a trust recommendation to make the course appear more complete.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 

@@ -1,6 +1,6 @@
 # 3.3 — Give every existing debt a job
 
-Status: TEACHING_REWRITE_REVIEW — existing individual explanation retained with a targeted redundancy cut. The prior Reserve decision is applied without reteaching it; voice review remains open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: Austin debt playbook, original Debt Strategy deck/outline and call explanations; accepted liquidity judgment and unchanged Reed fixture.
 App references: extra-payment entries, interest schedules and payoff results require the approved build.
 
@@ -30,7 +30,7 @@ We've already compared their reduced-spending plan. It leaves $1,700 after the l
 
 The card's required $405 was accounted for before we got to that $1,700. So adding $1,200 means a total card payment of $1,605 for the month in this illustration. We aren't finding another $405 inside the remaining cash, and we aren't adding $1,200 on top of money that has already gone somewhere else.
 
-That extra payment can make the balance fall faster. We'll read the actual payoff comparison in the walkthrough rather than guess the month it ends.
+Now we can compare how much faster the card is paid off and how much interest the extra payment avoids.
 
 Bring forward the liquidity decision from the Reserve lesson. If the cash cushion is too thin to support the family during an income interruption, more of the available money may need to build it before accelerating the card. Required payments continue. The cost is more interest for a while, so revisit the split as the cushion improves. We are applying that choice here, not setting a second reserve policy.
 
@@ -66,13 +66,13 @@ Consolidation combines debts into one arrangement. It can simplify the bills, bu
 
 You may find it helpful to organize debts as Eliminate, Evaluate, Strategic, or Monitor. The labels help you start the discussion. They don't make the decision for you. An expensive card may be something to eliminate; a low-rate mortgage may be worth keeping strategically; a variable or collateral-backed loan needs monitoring even when its current rate looks acceptable.
 
-For each one, write the actual next action. Keep the required payment, pay an extra amount, compare refinancing, arrange a payoff, or monitor a named risk. Then write why and what would make you revisit it. “Monitor” needs a date or a trigger; it isn't a way to leave a difficult choice blank.
+For each debt, decide what happens next: continue the required payment, pay extra, compare refinancing, or arrange a payoff. If you're monitoring it, write down the date or change that calls for action.
 
 Once a debt is paid off, decide what happens to the money it used.
 
 In the course's card example, the $405 required payment and $1,200 extra payment would together release $1,605, if those were still the amounts being paid at payoff. That is future room, not money available today. The other expenses and contributions still count, and the amount released needs checking against the payments that actually ended.
 
-For now, add up the extra payments you're considering and put them beside the reserve contribution. Can the same cash flow support both? If not, choose a different pace rather than leave two conflicting instructions in the plan.
+Add up the extra payments you've chosen and put them beside the Reserve contribution. If the available cash can't cover both, change the amounts before setting up the payments.
 
 Let's give each existing debt a clear job. Then we'll look at a separate question: whether taking on new financing would improve the plan at all.
 

@@ -1,6 +1,6 @@
 # 3.2 — Measure leverage before and after a drawdown
 
-Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original Debt Strategy two-ratio, drift and LTV teaching; current course distinctions and unchanged Reed fixture.
 App references: ratios and arithmetic graphics are not verified app outputs or lender terms.
 
@@ -68,7 +68,7 @@ Different loans also behave differently. A conventional mortgage isn't normally 
 
 So when you review debt, keep the questions separate. Can the household make the payments? How much debt is there compared with the assets? And could a particular lender force an earlier decision because of the collateral?
 
-For the working chapter, we'll read today's position, apply the stated stress, and look separately at any collateral-backed loan. The result we want is an explanation of where the pressure would come from and what resources would actually be available to deal with it. That gives us a much better basis for deciding which debt to reduce and which debt we may be comfortable keeping.
+Let's compare the current balance sheet with the declines we've described. Then check any collateral-backed loan separately. Identify which payment or lender requirement would need attention and the cash or assets you could use to respond.
 
 ### Visual notes — not spoken
 

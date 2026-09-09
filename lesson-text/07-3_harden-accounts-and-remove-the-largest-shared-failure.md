@@ -1,6 +1,6 @@
-# 7.3 — Harden accounts and remove the largest shared failure
+# 7.3 — Secure your accounts
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -36,15 +36,19 @@ Choose one important account and complete the hardening before moving on. Confir
 
 Then apply the same check to the other accounts the family depends on. You don't need a weekly rebuild of every security setting. You need a known configuration, a review rhythm, and a response when a device, provider, or household role changes.
 
-For this chapter, the demonstration will use an authorized example account and show the outcome without exposing credentials or recovery codes. Provider screens change, so final instructions must match the actual version.
+Use the provider's current instructions to check the sign-in method, backup access, and notifications. Keep credentials and recovery codes out of anything you share for help.
 
-Finish knowing how to sign in securely, how to recover legitimate access, and how to verify a warning without following the attacker's instructions. Next we will turn the whole arrangement into a map another person can understand.
+Confirm that you can sign in, recover legitimate access, and verify an urgent warning without following the sender's links. Next we'll put the arrangements into the family map.
 
 ### Visual and source notes — not spoken
 
 CISA phishing-resistant MFA/currentsecurity-key guidance supports mechanism;not absoluteaccountorproviderprotection. Synthetic/provider-authorizeddemonstrationonly. Registerbackupandtestbefore removingsoleworkingfactor. No secretvalues,credentials,liveclientaccountsorattack simulation. Walletdevice≠loginauthenticator. Fix prose article independentlyverified if needed.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For this chapter, the demonstration will use an authorized example account and show the outcome without exposing credentials or recovery codes. Provider screens change, so final instructions must match the actual version.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 

@@ -20,7 +20,7 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Narration:**
 
-“Every statement here needs to describe the same plan. Start with the life it is funding, then trace the important numbers back to their source. A result is useful when you can explain what supports it and what still needs to change.”
+“Start with the life you want to fund. Check the important numbers against the accounts and the years they pay for. Which part works as intended, and what still needs changing?”
 
 **Verify before recording:** Verify actual report and exact source/result identity. No original/reduced/post-card state mixing, landing-page placeholder, assumed approval or unverified model outcome.
 
@@ -68,7 +68,7 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Narration:**
 
-“This is the plan we intend to follow. These actions are completed, these still need doing, and these begin only after their condition occurs. The next review starts with these reasons intact, not with a blank page.”
+“Record what you have completed and what you still need to do. Keep future transfers tied to the date or event that makes their money available. Save the reasons too, so you know what to review next time.”
 
 **Verify before recording:** Verify actual save/reload/export/restore scope and remaining approvals. No fixed three-task maximum or video-watched equals completed plan. Student release and actual execution are separate authorizations.
 

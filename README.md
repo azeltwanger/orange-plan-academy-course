@@ -1,26 +1,25 @@
 # Orange Plan Academy
 
-**The written teaching and paired walkthrough pass is complete for review.** The course now follows a recognized problem through explanation and a worked example to a usable decision. The accepted Reserve lesson is unchanged. Owner voice approval, real app/device footage, targeted professional checks and learner evidence are still separate.
+## [Start reading the course](DICTATION-ORDER.md)
 
-## Read the course
+Follow one main path, completing the matching walkthrough as you go. **For your situation** lessons appear beside the decisions they support. Read the condition: if your plan relies on that strategy, complete its lesson before using it. Otherwise continue. These are not basic and advanced versions of the program.
 
-| Reading task | Open |
+| What you need | Open |
 |---|---|
-| Clean Core scripts, in order | [Core reading order](DICTATION-ORDER.md) |
-| All spoken text in one document | [ALL-SCRIPTS](ALL-SCRIPTS.md) |
-| Conditional advanced teaching | [Advanced reading order](ADVANCED-DICTATION-ORDER.md) |
-| Whole-portfolio Allocation section | [Session 4](modules/04.md) |
-| Paired application and filming sequence | [Learning and filming order](FILM-ORDER.md) |
-| Existing member materials | [Toolkit](toolkit/README.md) · [Named deliverables](toolkit/deliverables/README.md) |
-| Actual scope and unfinished evidence | [Current status](FINALIZATION-STATUS.md) · [Production checklist](PRODUCTION-CHECKLIST.md) |
+| Main path and related lessons | [Course reading order](DICTATION-ORDER.md) |
+| All spoken text, in learning order | [ALL-SCRIPTS](ALL-SCRIPTS.md) |
+| Find a particular situation again | [For your situation index](ADVANCED-DICTATION-ORDER.md) |
+| Teaching paired with application | [Learning and filming order](FILM-ORDER.md) |
+| Existing member documents | [Toolkit](toolkit/README.md) · [Named deliverables](toolkit/deliverables/README.md) |
+| Current review and recording status | [Status](FINALIZATION-STATUS.md) · [Production checklist](PRODUCTION-CHECKLIST.md) |
 
-There are 51 Core teaching clips (including optional college), 15 conditional Advanced lessons, ten app working sessions and one device demonstration. This is one course, not a set of competing outlines. The Advanced lessons are used when relevant; every member is not required to watch every variation.
+There are 50 shared-path teaching lessons, one college lesson when relevant, and 14 additional situation-specific lessons placed within the sections: 65 teaching lessons in all. Ten app working sessions and one device demonstration provide the paired application. The former A7.2 custody-responsibility lesson is folded into 7.1, 7.4 and W07 rather than repeated as another video.
 
-The 40 new Core replacements and all 15 new Advanced replacements are integrated into the existing scripts. Nine previously repaired full Core explanations are retained; 3.3 receives a targeted repetition cut; 2.3 remains the accepted reference. Nine practical files are rewritten into one narrated chapter plan each. The already-detailed W02 and W03 are retained unchanged. All have been checked for their place in the connected learning sequence, not presented as new rewrites merely because a status changed.
+The spoken-language edit removes repetitive conclusions, abstract task descriptions and production commentary while retaining the explanations, examples and practical qualifications. The accepted Reserve script is unchanged. This remains a draft for Austin’s integrated voice and judgment review, not an assertion that a learner has completed it or that recordings are ready.
 
-## Edit one source
+## One editing source
 
-Edit `scripts/`. Only `### Read aloud` is spoken in a teaching clip. The teleprompter files, modules, lesson text and masters are generated reading views. Visual/production notes, references and member checkpoints are not narration. The uploaded YouTube video supplies teaching structure only, not its return assumptions or retirement formulas.
+Edit `scripts/`. Read-aloud sections are spoken; production notes and checkpoints are not. The indexes, teleprompter files, modules and masters are generated from the same scripts. Internal `core`/`advanced` paths and A-prefixed IDs remain for stable links, not as member-facing difficulty levels. Each additional lesson owns its condition, parent lesson and return instructions in its canonical metadata.
 
 ```sh
 python tools/guided_course.py build
@@ -30,12 +29,10 @@ python -m unittest discover -s tests -p test_member_deliverables.py -v
 python tools/guided_course.py history
 ```
 
-These commands verify structure, arithmetic, synchronization and preservation. They do not prove teaching quality, owner approval, a student outcome or release readiness. Historical recovery needs a full checkout.
+The checks verify structure, routes, arithmetic, synchronization and preservation—not writing quality or student results. History verification needs a full Git checkout.
 
-## Sources, review and repository cleanup
+Original dictation, the fixed household, toolkit, capture evidence and the previous repository cleanup remain unchanged. The retired A7.2 source is pinned in the generator’s merged-lesson record and verified alongside the previous historical recovery checks. No new duplicate archive or course master was added.
 
-[Source and revision record](delivery/teaching-revision.md) distinguishes original teaching, new illustrative reasoning and narrow primary-source checks. [Current handoff](HANDOFF.md) records what is finished in writing and what still needs real evidence.
+[Current handoff](HANDOFF.md) · [Source and editorial record](delivery/teaching-revision.md) · [Historical recovery](ARCHIVE-RECOVERY.md).
 
-Original dictation in `source-material/`, the fixed household, toolkit and capture records remain unchanged. Obsolete working versions remain retired, with [pinned recovery](ARCHIVE-RECOVERY.md) and the existing [hash manifest](production/repository-cleanup.json). No temporary authoring helper or branch-writing workflow should remain at merge.
-
-Publication to main is for Austin to read. No app deployment, provider operation, financial transaction, pricing change or student launch is implied. Do not place real client records, credentials or signing secrets in this repository.
+Publishing these files to main is for owner reading. It does not deploy Orange Plan, change pricing or access, publish the course to students, or perform financial, provider, wallet or legal actions.

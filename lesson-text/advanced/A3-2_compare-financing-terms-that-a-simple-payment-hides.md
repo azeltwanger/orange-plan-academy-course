@@ -1,13 +1,16 @@
 # A3.2 — Compare financing terms that a simple payment hides
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: LENDING_REVIEW
 Sources: DEBT, OWNER, PRIMARY
-Use when: a large purchase, business acquisition, or home-equity offer has complex terms.
+Use when: A financing option includes a balloon, changing payment phases, shared appreciation, or another unusual contract term.
+After lesson: 3.5
+Complete before: Complete before choosing that financing or relying on its modeled cost.
+Return to: W03 chapter 4, then lesson 3.6
 
 ### Read aloud
 
@@ -35,7 +38,7 @@ For the Reeds' project illustration, keep a smaller project and a delay alongsid
 
 When a term isn't supported in Orange Plan, keep the actual schedule in the existing reviewed comparison worksheet. Don't replace it with a conventional loan and describe the whole agreement as modeled. Read the unsupported obligation alongside any app result before drawing a conclusion.
 
-Finish with a comparison that answers what is paid now, what continues, what remains owed, what is exposed and how it ends. Then decide whether the benefit is worth that complete obligation. An unresolved contract term is a specific prerequisite, not a detail to ignore because the starting payment looks attractive.
+Read the comparison from the first payment through the final settlement. What do you pay, what remains owed, and how does the household fund it? Get any missing contract answer before choosing the offer.
 
 ### Visual and source notes — not spoken
 

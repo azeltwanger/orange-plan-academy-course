@@ -1,6 +1,6 @@
 # 2.1 — Find the amount your plan actually has available
 
-Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original materials identified below and the unchanged Reserve reference in Lesson 2.3. Prior drafts remain in Git history.
 App references: concepts prepared independently of screen layout; exact behavior and outputs remain unverified until capture.
 
@@ -76,7 +76,7 @@ If you're retired, the review is still useful, but the question may be different
 
 For now, get the current picture right. Know what's coming in, what has already come out, and how much remains for the next decision. If you find a shortfall, keep it visible. It gives us something specific to work on.
 
-You don't have to decide where every remaining dollar will go in this lesson. First we need an amount you can explain and a sense of whether it is reliable. Let's work through that with the records in front of us. Then we'll look at the spending changes you would actually be willing to make, before deciding how quickly to fund the reserve or pay extra on debt.
+You don't need to assign the remaining money yet. First make sure you can explain where it comes from and whether it will be there regularly. Let's check the records, then look at the spending changes you'd actually be willing to make.
 
 ### Visual notes — not spoken
 

@@ -1,13 +1,16 @@
 # A7.4 — Understand UTXOs before consolidating coins
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: DEVICE_CAPTURE
 Sources: CUSTODY, PRIMARY
-Use when: the household has many small Bitcoin receipts or is considering consolidation or coin control.
+Use when: You are considering consolidating Bitcoin outputs or selecting outputs manually for a transaction.
+After lesson: 7.2
+Complete before: Complete before that wallet transaction; it is not a requirement to consolidate.
+Return to: Finish the relevant safe wallet work, then lesson 7.3
 
 ### Read aloud
 
@@ -21,7 +24,7 @@ Virtual bytes are a measure used for that size. Satoshis are small units of Bitc
 
 For an arithmetic example, a preview of 500 virtual bytes at 2 satoshis per virtual byte gives a fee of 1,000 satoshis. At 20 satoshis per virtual byte, that same size costs 10,000 satoshis.
 
-Those are invented previews, not today's fees or the size of every wallet transaction. The wallet and script type, inputs and outputs determine the real size. They show why both size and the fee rate matter.
+Those are hypothetical fee calculations, not today's rates. The wallet, script type, inputs, and outputs determine the size of your transaction. Read both its size and fee rate in the preview.
 
 Spending many small outputs can require more transaction data than spending fewer larger outputs. Consolidation combines selected outputs into fewer outputs you control. That can reduce the input work needed for a later payment, but you pay a fee now to do it.
 
@@ -37,7 +40,7 @@ Preserve the ownership and purchase history in the records. Moving coins to your
 
 The demonstration uses a separate small-value setup. It shows the available outputs, actual preview and privacy comparison without publishing sensitive addresses or recovery material. Match the procedure to the exact wallet and software before using it with your own holdings.
 
-The solution may be a selective consolidation, a different input choice, or no transaction now. You should be able to explain the fee paid today, the possible later benefit and the privacy cost. More wallet activity is not a completion requirement.
+Compare the fee paid now, the possible saving on a later payment, and the privacy cost. Consolidate only the outputs that fit your purpose—or leave them alone when a transaction wouldn't improve the situation.
 
 ### Visual and source notes — not spoken
 

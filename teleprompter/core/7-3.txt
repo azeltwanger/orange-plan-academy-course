@@ -24,6 +24,6 @@ Choose one important account and complete the hardening before moving on. Confir
 
 Then apply the same check to the other accounts the family depends on. You don't need a weekly rebuild of every security setting. You need a known configuration, a review rhythm, and a response when a device, provider, or household role changes.
 
-For this chapter, the demonstration will use an authorized example account and show the outcome without exposing credentials or recovery codes. Provider screens change, so final instructions must match the actual version.
+Use the provider's current instructions to check the sign-in method, backup access, and notifications. Keep credentials and recovery codes out of anything you share for help.
 
-Finish knowing how to sign in securely, how to recover legitimate access, and how to verify a warning without following the attacker's instructions. Next we will turn the whole arrangement into a map another person can understand.
+Confirm that you can sign in, recover legitimate access, and verify an urgent warning without following the sender's links. Next we'll put the arrangements into the family map.

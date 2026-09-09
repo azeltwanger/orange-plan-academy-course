@@ -1,13 +1,16 @@
 # A7.1 — Compare passphrase, multisig, and professional support
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: DEVICE_CUSTODY_REVIEW
 Sources: CUSTODY, DICTATION, PRIMARY, OWNER
-Use when: the basic custody arrangement leaves a named failure that another architecture may address.
+Use when: You are choosing or changing a passphrase, multisig, or professionally supported custody arrangement.
+After lesson: 7.1
+Complete before: Complete before moving meaningful funds into the new arrangement.
+Return to: W07 chapter 1, then lesson 7.2 and its safe recovery work
 
 ### Read aloud
 
@@ -27,7 +30,7 @@ Institutional custody assigns more of the operational work to a provider. It may
 
 Let's compare the problems. If theft of one backup is the concern, a correctly maintained passphrase or threshold arrangement may address it differently. If the concern is that the family cannot operate an elaborate process, adding another secret may make the situation worse. Support or simplification may solve the actual problem more directly.
 
-An intentional split can combine direct control for one portion and support for another. Choose the portion by its job and the consequence of failure, not because every advanced user needs a certain number of methods. Each method adds maintenance.
+A split can keep direct control over one portion and professional support for another. Choose the portions by what they're for and the consequence of a problem with either method. Each additional arrangement needs maintaining.
 
 Before moving meaningful funds, test the proposed improvement against the named failure. Can the intended wallet be recovered when one key, device or provider is missing? Is the configuration available through the protected process? Does the person responsible know how to start?
 
@@ -35,7 +38,7 @@ Use current official instructions and a separate small-value setup for learning.
 
 Keep secret material and sensitive configurations out of ordinary course notes. The comparison should document protection gained, responsibility added, risks retained, cost and the family route—not publish a complete recovery kit.
 
-Return with the simplest arrangement that satisfies the household's control and continuity needs, plus the specific safe test still required. More complexity is useful only when it addresses a meaningful failure and can still be maintained.
+Choose the arrangement that fits your control and family-access needs, and identify the safe test still required. If the added complexity doesn't solve a meaningful problem, keep the simpler setup.
 
 ### Visual and source notes — not spoken
 

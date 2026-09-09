@@ -1,6 +1,6 @@
 # 1.3 — Enter income, spending, debts, and the retirement starting point
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: income mapping, debt records and result behavior retain APP_CAPTURE.
 
@@ -30,7 +30,7 @@ Here is the original cash-flow bridge on screen. After the income, illustrative 
 
 That is the figure we're starting from. It doesn't mean they're only saving $500; the employee contribution is already invested. It also doesn't include the spending reduction we'll consider later.
 
-The example allows $4,000 a month for taxes. That is a teaching provision, not a calculated Reed tax liability. In the app demonstration, we'll check how the actual income and tax inputs are represented. The statement and the model need to reconcile; we won't hide a difference by inventing an expense.
+We're allowing $4,000 a month for taxes in this example. That's an assumption, not their calculated tax bill. When checking your own cash flow, compare the income and tax figures with your records. If they don't agree, find out why before assigning the money that's left.
 
 Now give the retirement calculation a question to answer. When do you want to reduce or stop work, and what would that life cost?
 
@@ -40,13 +40,17 @@ Start a retirement-spending estimate based on the life you expect. Some work cos
 
 Use actual Social Security or pension estimates when you have them, attached to the right person and start date. Don't insert an assumed benefit to fill a shortfall. An unverified income source is a question to answer, not funding you can rely on yet.
 
-The first pass is finished when you can explain the money coming in, the costs and contributions already committed, and the retirement life you are asking the plan to test. If the available amount looks nothing like your bank experience, keep that mismatch visible for Cash Flow. A less exciting result based on honest numbers is a much better starting point.
+Check that you can follow income through the costs and contributions already committed, and that the retirement date and spending describe the life you want to test. If the remaining money doesn't match what you see in your accounts, keep that question for the Cash Flow review.
 
 ### Visual and source notes — not spoken
 
 Visual: original cash bridge, round for speech only; $19,416.67 gross − $4,000 teaching provision − $10,800 living − $3,341.67 required debt = $1,275 before employee contribution; $775 employee leaves $500. Employer $387.50 stays separate. Source mortgage escrow, payroll election, tax mapping and exact timelines remain unresolved capture facts, not defaults silently adopted.
 
 ### Production notes
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+The example allows $4,000 a month for taxes. That is a teaching provision, not a calculated Reed tax liability. In the app demonstration, we'll check how the actual income and tax inputs are represented. The statement and the model need to reconcile; we won't hide a difference by inventing an expense.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 

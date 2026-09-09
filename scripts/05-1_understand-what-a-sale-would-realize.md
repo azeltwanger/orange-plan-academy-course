@@ -1,6 +1,6 @@
 # 5.1 — Understand what a sale would realize
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -40,11 +40,9 @@ A high-basis lot can reduce the gain realized today, but that does not make it t
 
 Account type changes the calculation too. Selling an investment inside a retirement account is not generally the same tax event as selling personally held Bitcoin. The distribution from the retirement account has its own rules. A Roth or Traditional label should not be ignored when a tax tool presents a list of trades.
 
-For this first tax lesson, stay with one proposed taxable sale. Identify its amount, the units that could legally be selected, their supported basis, and the gain before any tax estimate. Then compare the after-tax cash available for the purpose you chose.
+Choose one sale you're considering. How much cash should it provide? Which units could you sell, what did they cost, and what gain would that realize? Then estimate the tax to see how much cash you would keep.
 
-If the history is clean, you have the starting information for a useful comparison. If it isn't, the next lesson gives you a way to repair the records without turning the process into an endless search through every account.
-
-The goal is not to memorize every lot-method name. It is to understand what your sale realizes and what evidence is needed before you act.
+If you have the records, you can make that comparison. If the history is incomplete, the next lesson shows how to repair the part you need.
 
 ### Visual and source notes — not spoken
 

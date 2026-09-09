@@ -1,6 +1,6 @@
 # 7.1 — Choose who controls each part of the Bitcoin
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,7 +10,7 @@ Sources: CUSTODY, DICTATION, BRAIN, OWNER, PRIMARY
 
 ### Read aloud
 
-You can have a retirement plan that works on paper and still lose access to the asset it depends on. Custody is how we make the Bitcoin position usable, recoverable, and manageable for the household.
+Who controls your Bitcoin, and how would you get access if something went wrong? That's what we're deciding here. The arrangement needs to work for you now and for the people who may need to help later.
 
 The question isn't, “Which setup looks most advanced?” It is, “Which responsibilities am I willing to carry, and what happens when one part fails?”
 
@@ -30,25 +30,37 @@ Then state how important direct control is to you. For some people, retaining me
 
 Here is a useful comparison. Two households hold the same amount. One has a well-understood direct-custody setup, proven recovery, and another person capable of following the process. The other has one operator and a family that would have no idea where to begin.
 
-The second household doesn't necessarily need a more complicated wallet. Its immediate problem may be dependence on one person. Professional support, a simpler arrangement, or a carefully designed split could address that problem more directly than adding keys nobody else understands.
+For the second household, the immediate problem is that everything depends on one person. A simpler setup, professional support, or a split between methods may help more than adding keys the family doesn't know how to use.
+
+Before choosing, list what the setup asks someone to do: verify receiving addresses, maintain secure sign-in and backup access, follow appropriate device and software updates, review provider changes, check the recovery instructions, and keep the family contact list current. Assign a person and a backup for each task. Use the existing custody map rather than create another set of instructions.
+
+Check the tasks on an appropriate practice setup. If an important step keeps getting skipped or needs an explanation every time, simplify the process, practice it, or arrange suitable help. Follow the current official procedure; don't test this by risking the funded wallet.
+
+Compare the cost of help with the work it takes off the household. Paying a provider may be worthwhile for a particular gap, but it adds dependence on that provider. Doing it yourself saves fees only if you can maintain the responsibility. Ask the people involved what they are willing to do.
 
 Now run the one-failure test. What if the provider disappears? The device is lost? The home is inaccessible? The usual operator is unavailable for six months? Which of those events could interrupt or destroy too much of the plan?
 
 Look at shared dependencies. Two devices using the same backup are not independent wallets. Two companies may depend on the same underlying custodian. Several recovery items kept together can fail in the same fire or theft.
 
-You don't have to eliminate every conceivable risk. Find the failure with the greatest consequence and choose a manageable improvement. The safest-looking arrangement on a diagram is not useful if the family cannot operate it.
+Start with the failure that would affect the most important part of the plan. Choose a change the household can actually maintain.
 
-For Alex and Morgan, we will review the actual direct and professionally held Bitcoin in the example without inventing a completed recovery test. We will also keep Bitcoin-fund exposure in retirement accounts separate; its family access relies on the account process, not the wallet backup for personally held coins.
+Let's look at where Alex and Morgan hold their Bitcoin. For each holding, check how they access it and whether they've tested the recovery process. The Bitcoin funds in their retirement accounts follow the account's access and beneficiary process, not the backup for their personal wallet.
 
-Finish with a custody direction and the first unfinished protection step. That might be verifying a backup, securing a provider account, making the non-secret family instructions usable, or comparing professional support for a specific portion.
+Choose the arrangement and the first improvement it needs. That might be a backup check, stronger account security, clearer family instructions, or professional help with a specific portion.
 
-Don't move everything during this discussion. Choose the direction first, prepare and test the destination, and verify the legal and operational process before meaningful money depends on it. The next lesson explains what recovery proof actually means.
+Before moving meaningful money, prepare and test the destination and check its legal and operating requirements. If you're choosing between a passphrase, multisig, or professional support, work through that comparison first. Next we'll look at how to check a wallet backup safely.
 
 ### Visual and source notes — not spoken
 
-Custody deck trade-offs and latest August26 owner-source correction govern over old wealth ladder. Institutional custody is not inferior bydefinition;splitrequiresnamedriskandmaintainability. No client$1mstoryoractualReedrecovery invented. Visualthree methods+architecturechoices;testperson/provider/location/key/configfailures. Support/recourse/insurance are contract-specific. Advanced7.1–7.3 own detailedcomparisons.
+Custody deck trade-offs and latest August26 owner-source correction govern over old wealth ladder. Institutional custody is not inferior bydefinition;splitrequiresnamedriskandmaintainability. No client$1mstoryoractualReedrecovery invented. Visualthree methods+architecturechoices;testperson/provider/location/key/configfailures. Support/recourse/insurance are contract-specific. The related architecture and shared-dependency lessons provide their distinct situational comparisons; former A7.2 is merged here and into 7.4/W07.
 
 ### Production notes
+
+**A7.2 folded into this section:** operating-task assignment, willingness and backup responsibility, safe practice of ordinary tasks, recognizing a need to simplify, and the cost/support trade-off are now taught here. The absence rehearsal and agreement of contacts are in 7.4 and W07. No separate responsibility worksheet or extra lesson is required. The original is pinned in MERGED_LESSON in the generator.
+
+**Moved out of narration in the language pass:** The following source wording records production/evidence limits, not instructions to read to members. Its substantive limits remain in force.
+
+For Alex and Morgan, we will review the actual direct and professionally held Bitcoin in the example without inventing a completed recovery test. We will also keep Bitcoin-fund exposure in retirement accounts separate; its family access relies on the account process, not the wallet backup for personally held coins.
 
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 

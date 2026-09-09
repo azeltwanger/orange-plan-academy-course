@@ -1,6 +1,6 @@
 # 1.1 — Decide what belongs in your saved plan
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; exact routes belong in W01.
 
@@ -32,7 +32,7 @@ For now, gather recent account statements, debt statements, income records, a sp
 
 Some information will be incomplete. Mark what you know, what you're estimating, and what you still need to find. A missing purchase date doesn't stop you from identifying an account's current value. It can stop you from treating the tax cost of selling it as settled. The consequence of the missing fact determines its priority.
 
-Before continuing, take one change you're considering and classify it. Does it describe today, something you expect to happen, or something you want to test? Then name one assumption behind your future picture.
+Take one change you're considering. Does it describe today, something you expect to happen, or something you only want to test? Put it in the right place. Then note the assumption you're least sure about so we can check it when we read the result.
 
 That gives us a starting plan we can return to. In the next chapter, we'll begin with the accounts you already have—not an account setup you think you are supposed to copy.
 

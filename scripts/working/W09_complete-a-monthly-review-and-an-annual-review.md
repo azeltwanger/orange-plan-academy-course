@@ -68,7 +68,7 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Narration:**
 
-“Next year starts from this record: what we chose, why, and what remains to be done. The readable summary helps us review the decisions. The backup has a different job, and its restore process needs its own verification.”
+“Save this summary so the next review starts with the decisions and reasons in front of you. Keep the plan backup separately and check that its restore process works before relying on it.”
 
 **Verify before recording:** Actual export, save/reload and restore capability verified separately. A written reminder is not a calendar event or a completed outside action. No sensitive file sent or old version left as the current instruction.
 

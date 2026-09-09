@@ -22,6 +22,6 @@ Once you find the shared failure, make a targeted change. That may mean separati
 
 More accounts aren't the goal. A change earns its place when it reduces the consequence of a named failure without creating an unmaintainable arrangement.
 
-In the demonstration, we'll cross out one dependency on a non-secret example map and identify what still works. Actual independence remains a claim to verify through the relevant documents and safe tests.
+On the custody map, cross out one provider or recovery route and identify what still works. Check the documents and appropriate safe tests before treating the remaining arrangements as independent.
 
-Finish with the failure identified, the affected portion, the improvement chosen and the evidence needed to confirm it. Then update the existing custody map rather than create another version the family has to reconcile.
+Record the shared failure, the holdings affected, and the change you've chosen. Update the existing custody map and verify the improvement before relying on it.

@@ -22,10 +22,10 @@ Now test delivery, not just wording. Can the intended person find the letter whe
 
 Any check-in or delayed-notification service is only an additional communication layer. It needs consent, reliable contact details, a false-alarm process and a test of what is actually delivered. It doesn't replace legal authority or safe custody, and it should not automatically distribute secrets.
 
-For a rehearsal, use a harmless test message and an authorized recipient. Do not stage a real death notice or send sensitive instructions to someone without agreement. If the app has not demonstrated that delivery feature, keep it as an outside task rather than pretend the test occurred.
+Agree on a harmless test message with the recipient before trying a notification service. Check that it arrives and that they can open it. Never use a false emergency or send recovery secrets as part of the test.
 
 Read the first page with the person who would use it. Ask them to describe the first action back to you. Then ask what they would do if the primary contact didn't answer. Their hesitation tells you where the explanation is missing.
 
-Fix the missing step before adding more pages. The useful outcome is a findable starting point and an understandable path to help.
+Fix the step they couldn't follow, then try it again.
 
-For this section's working chapter, prepare the letter and packet, connect them to the existing custody map, and complete the no-secrets rehearsal. Record what was understood and which outside legal or provider action is still needed. The family should know where to begin without being handed unrestricted access to everything.
+Complete your Heir Letter and Executor Packet and connect them to the custody map. Read the first steps with the intended person. Keep any legal or provider question on the action list until it's answered.

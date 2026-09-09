@@ -1,6 +1,6 @@
 # 6.5 — Use the Reserve through a difficult market
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -46,9 +46,9 @@ In a steady or stronger period, refilling toward the target may be reasonable. C
 
 For the annual review, read spending and reserve together. A lower spending choice may reduce the cash need. A higher choice can require a larger withdrawal or refill. They should not be two independent instructions that claim the same money.
 
-The walkthrough will show the simple two-year sequence first, then the reserve choice in the actual retirement plan. We'll look at a weak period and a refill decision, keeping the cash inside the portfolio and the model's limitations visible.
+Let's compare the two-year example, then look at the retirement Reserve. In a weak year, how much cash remains, and what would you do as it approaches the floor?
 
-Write the operating rule in ordinary language: the amount of cash you're preparing, what it covers, when you review it, and what happens as it runs down. That gives the household a response it can follow without needing to predict the next market move.
+Write down how much cash you're preparing, what it covers, when you'll review it, and how you will refill it. Include the response you'd use if markets stayed weak longer than hoped.
 
 ### Visual and source notes — not spoken
 

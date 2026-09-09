@@ -1,6 +1,6 @@
 # 6.3 — Price healthcare before leaving employer coverage
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -22,7 +22,7 @@ A lower premium can be useful when the coverage fits. It can also mean more cost
 
 For a simple budgeting example, one arrangement might have $12,000 of annual premiums and $3,000 of expected additional costs. That is $15,000 for the ordinary-year estimate. Another might have $8,000 of premiums and $8,000 of expected additional costs: $16,000 despite its lower premium.
 
-Those are invented budgeting amounts, not quotes or descriptions of actual policies. The point is to add the costs before comparing. Then replace expected costs with the actual policy's difficult-year obligations and exclusions. We need to know how that larger bill gets funded too.
+Those are hypothetical costs, not policy quotes. They show why we add premiums and other expenses before choosing. Now check the actual policy's exclusions and what a difficult year could cost, then identify the money that would cover it.
 
 Medical needs matter. Check the clinicians, facilities, prescriptions, and services you expect to use. A plan that is cheaper but excludes something important may not solve the household's problem.
 
@@ -42,9 +42,9 @@ Medicare also does not make healthcare free. Budget the relevant premiums, suppl
 
 For a couple, one person may enter Medicare while the other still needs different coverage. Model those periods separately rather than switch the entire household at the older spouse's birthday.
 
-In the working chapter, list the available pre-Medicare choices and compare their ordinary- and difficult-year costs. Record the selected direction or the exact quote or eligibility question still needed. Then enter the transition dates and test the effect on the first retirement years.
+Compare your available coverage options, including an ordinary year and a difficult one. Check the coverage start and end dates before relying on them. If a withdrawal or conversion changes the cost of coverage, complete the healthcare-and-tax comparison before finalizing that year's plan.
 
-The solution is not one universal healthcare number. It is a funded path through the coverage changes, with an identified source for the costs the household still carries.
+Enter the coverage costs for each period and identify how you'll pay the expenses that remain your responsibility.
 
 ### Visual and source notes — not spoken
 

@@ -1,13 +1,16 @@
-# A7.3 — Test correlated failures across providers and methods
+# A7.3 — Check what your custody arrangements share
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: CUSTODY_REVIEW
 Sources: CUSTODY, BRAIN, PRIMARY
-Use when: several accounts or custody methods appear diversified but may share dependencies.
+Use when: Several providers, wallets, people, or recovery routes may share a failure that affects important holdings.
+After lesson: 7.4
+Complete before: Complete before treating those holdings as independent protection.
+Return to: W07 chapter 4, then lesson 8.1
 
 ### Read aloud
 
@@ -35,9 +38,9 @@ Once you find the shared failure, make a targeted change. That may mean separati
 
 More accounts aren't the goal. A change earns its place when it reduces the consequence of a named failure without creating an unmaintainable arrangement.
 
-In the demonstration, we'll cross out one dependency on a non-secret example map and identify what still works. Actual independence remains a claim to verify through the relevant documents and safe tests.
+On the custody map, cross out one provider or recovery route and identify what still works. Check the documents and appropriate safe tests before treating the remaining arrangements as independent.
 
-Finish with the failure identified, the affected portion, the improvement chosen and the evidence needed to confirm it. Then update the existing custody map rather than create another version the family has to reconcile.
+Record the shared failure, the holdings affected, and the change you've chosen. Update the existing custody map and verify the improvement before relying on it.
 
 ### Visual and source notes — not spoken
 

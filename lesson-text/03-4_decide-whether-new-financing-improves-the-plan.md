@@ -1,6 +1,6 @@
 # 3.4 — Decide whether new financing improves the plan
 
-Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original Debt Strategy benefits and tolerance teaching; Austin debt playbook; accepted Core financing scope.
 App references: this lesson prepares a decision, not a loan application or a claim of current product support.
 
@@ -70,9 +70,9 @@ For each proposal, keep the smaller version and the decision to wait visible. Yo
 
 You might decide the renovation matters, but not at the cost of carrying another payment while the reserve and card still need attention. You might decide a business purchase is worth analyzing because it has a credible source of repayment. Those are different conclusions from the same planning process.
 
-Before moving to the next lesson, be able to explain what the money is for, what borrowing preserves or makes possible, and how the obligation will be repaid if the result is disappointing. If you can't yet explain one of those, name what you need to find out.
+For the loan you're considering, write down its purpose, what borrowing lets you keep or do, and how you would repay it if the result disappoints. Find any missing answer before choosing a lender.
 
-Then we can compare the actual financing choices. We will look at cash used now, the payments, the balance still owed later, and what is exposed—not simply pick the offer with the smallest monthly number.
+Next we'll compare the financing choices: cash needed now, payments, what remains owed, and which assets secure it.
 
 ### Visual notes — not spoken
 

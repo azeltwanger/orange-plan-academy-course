@@ -8,6 +8,10 @@ Kind: capture
 Gate: APP_CAPTURE
 Sources: ALLOCATION, ALLOCATION_DECK, OWNER, APP
 
+### For your situation — recording route, not spoken
+
+- After 4.7, [A4.1](../advanced/A4-1_check-price-context-before-a-large-allocation-change.md): You are about to make a large investment purchase, sale, or allocation change and need to choose its timing. Complete before the large transaction; routine funded contributions do not need this detour. Return to W04 chapters 7–8, then lesson 5.1.
+
 ### Run sheet
 
 Carry forward W01 facts and the named reduced-spending W02/W03 comparison. Do not recreate accounts, revise the accepted Reserve, invent available cash or silently adopt a loan. The whole-portfolio illustration is separate from the unchanged Reeds. Actual account/target/contribution support and results must be verified on the approved redesign.
@@ -44,7 +48,7 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Narration:**
 
-“First we found the dollars needed for actual commitments. That produced the cash amount. Then we chose what the remaining long-term money should provide. The stock allocation is a choice to own businesses alongside Bitcoin, not an automatic destination for every spare dollar.”
+“The Reserve and purchase need this amount in cash. That is where the cash percentage came from. This household chose stocks for the remaining long-term money because it wanted business ownership alongside Bitcoin.”
 
 “Now add two separate $50,000 retirement payments that this household wants available in cash. Keeping Bitcoin unchanged leaves less for stocks. Their conviction stayed the same; the spending job changed. Which version better fits the life they intend, and what growth exposure are they giving up?”
 
@@ -106,7 +110,7 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Narration:**
 
-“Changing the contribution and changing what it buys may be two instructions. When the first contribution happens, check both. Did the money reach the intended account, and did it buy the investment? The confirmation is what lets us update the plan from an intention to something actually done.”
+“Check both instructions when the first contribution arrives. Did the right amount reach the account, and did it buy the intended investment? If it is still cash, check whether the purchase instruction is missing.”
 
 **Verify before recording:** Verify all applicable instructions, not merely one sample. No live trade, bank transfer, payroll change or provider receipt is fabricated. Operational cash retains its job. Save and source/readback reflect the same chosen plan; a tax-sensitive sale with missing history goes to W05, not a made-up record.
 

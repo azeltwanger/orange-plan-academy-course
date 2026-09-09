@@ -1,13 +1,16 @@
 # A5.1 — Build a multi-year conversion comparison
 
-Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
-Kind: advanced
+Kind: conditional
 Gate: TAX_REVIEW
 Sources: TAX, RETIREMENT, PRIMARY, APP
-Use when: a meaningful Traditional balance and a plausible lower-income window make conversions relevant.
+Use when: You are considering Roth conversions across several years.
+After lesson: 5.4
+Complete before: Complete before relying on a multi-year conversion schedule.
+Return to: W05 chapter 4, then lesson 5.5
 
 ### Read aloud
 
@@ -35,7 +38,7 @@ A market decline may let the same conversion dollars move more units. That can b
 
 Before execution in each actual year, verify income, deductible and nondeductible amounts, required distributions, healthcare effects and the custodian process. The proposal is a review range and rule, not a permanent promise to convert an unchanged amount for ten years.
 
-Finish with the preferred bounded schedule, why it improves the plan under the tested assumptions, and the information that will determine the real amount for the next transaction. Return that amount to the tax and retirement funding records so the same cash is not committed twice.
+Choose the schedule you prefer and record the assumptions that make it worthwhile. Before the next conversion, update the current-year figures and confirm the actual amount. Include the tax payment in the same cash-flow plan as spending.
 
 ### Visual and source notes — not spoken
 

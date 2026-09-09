@@ -24,8 +24,8 @@ Store backups so the failures you're concerned about don't take all copies at on
 
 After a successful test, record only the evidence that is safe to keep in the planning record: which setup was tested, the type of test, date, outcome, and what still needs checking. Don't record the recovery material itself.
 
-For the Reeds, “wallet recorded” and “recovery verified” remain separate statuses. Their fixture tells us what they hold. It doesn't establish that anyone restored a wallet or that Morgan can follow the process.
+Keep recovery status beside each holding. Having a wallet listed doesn't tell the family whether its backup has been checked.
 
-The working chapter should finish with an honest status. Either the relevant check was completed safely and its scope is clear, or there is a named next step before more money relies on the setup. Watching the demonstration is not recovery proof for your wallet.
+Record the check that actually succeeded and which wallet it covered. If you couldn't complete it safely, leave the reason and the next step. Watching someone else's recovery doesn't verify your own backup.
 
-That is the practical benefit of this lesson: you know what you would need after device loss and have a safe way to verify it, instead of discovering the missing piece when the device is already gone.
+You should know what you would need after losing the device and which part of that recovery still needs checking.
