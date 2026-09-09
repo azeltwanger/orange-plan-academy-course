@@ -1,4 +1,4 @@
-name: Prepare decision-learning and simulated beginner review
+name: Verify decision-learning definition and retire authoring files
 on:
   push:
     branches: [course-decision-learning-20260909]
@@ -20,44 +20,83 @@ jobs:
         with:
           ref: ${{ github.sha }}
           fetch-depth: 0
-      - name: Apply the bounded authored learning edit
+      - name: Final definition precision check and regenerated sources
         shell: bash
         run: |
           set -euo pipefail
           test "$(git rev-parse HEAD)" = "$GITHUB_SHA"
-          test "$(git rev-parse HEAD^)" = '0f26cbd5556664776531b50ff11735ae5860c8b0'
-          python -m py_compile tools/_beginner_learning_edits.py tools/_beginner_learning_practice.py tools/_apply_beginner_learning_review.py
-          python tools/_apply_beginner_learning_review.py apply
-          python -m py_compile tools/guided_course.py
+          test "$(git rev-parse HEAD^)" = 'e3551f7fd5ecc67fe320c4929290d8f422c1574f'
+          python - <<'PY'
+          from pathlib import Path
+          import json, subprocess, runpy
+          root=Path('.')
+          target=root/'scripts/06-3_price-healthcare-before-leaving-employer-coverage.md'
+          before='Check which doctors and services the plan covers, called its network.'
+          after='The network is the group of doctors, facilities and other providers that have an agreement with the plan. Check your doctors and needed services separately.'
+          text=target.read_text()
+          assert text.count(before)==1
+          target.write_text(text.replace(before,after,1))
+          p=root/'delivery/decision-learning-changes.json'
+          data=json.loads(p.read_text())
+          data['post_export_definition_corrections']=1
+          data['post_export_correction']='6.3 separates the provider network from coverage of a service; no policy or technical safeguard removed.'
+          p.write_text(json.dumps(data,indent=2)+'\n')
+          p=root/'delivery/decision-learning-review.md'
+          text=p.read_text()
+          anchor='- Investor.gov, Exchange-Traded Products Providing Exposure to Bitcoin and Ether:'
+          assert text.count(anchor)==1
+          text=text.replace(anchor,'- HealthCare.gov network definition: https://www.healthcare.gov/glossary/network/ . Final export review clarified that the provider network is not the same thing as which services are covered.\n'+anchor,1)
+          p.write_text(text)
+          tool=runpy.run_path('tools/guided_course.py')
+          for r in tool['catalog'](root):
+              prior=subprocess.check_output(['git','show','0f26cbd5556664776531b50ff11735ae5860c8b0:'+r['path']]).decode()
+              section=tool['section'](prior,'Source-based technical check — not spoken')
+              assert not section or tool['section'](r['text'],'Source-based technical check — not spoken')==section
+          PY
           python tools/guided_course.py build
           python tools/guided_course.py check
           python tools/guided_course.py test
           python -m unittest discover -s tests -p test_member_deliverables.py -v
           python tools/guided_course.py history
-      - name: Preserve evidence and publish only to the dedicated review branch
+          python tools/_apply_beginner_learning_review.py export /tmp/decision-learning-review
+      - name: Retire temporary files and publish the cleaned candidate
         shell: bash
         run: |
           set -euo pipefail
           test -z "$(git diff 0f26cbd5556664776531b50ff11735ae5860c8b0 --name-only -- source-material fixtures toolkit tests CAPTURE-RECEIPTS.md PROMOTION-RECORD.json production delivery/professional-topic-review.md scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md)"
-          git add scripts lesson-text teleprompter modules README.md FINALIZATION-STATUS.md HANDOFF.md delivery/decision-learning-review.md delivery/decision-learning-changes.json tools/guided_course.py COURSE-MANIFEST.json MASTER-COURSE.md MASTER-ADVANCED.md ALL-SCRIPTS.md DICTATION-ORDER.md ADVANCED-DICTATION-ORDER.md FILM-ORDER.md CIRCLE-STRUCTURE.md SCREEN-SHOOT-LIST.md MODULE-CHECKPOINTS.md PRODUCTION-CHECKLIST.md COURSE-METRICS.md ARITHMETIC-CHECKS.json
-          test -z "$(git diff --cached --name-only -- .github source-material fixtures toolkit tests CAPTURE-RECEIPTS.md PROMOTION-RECORD.json production)"
+          rm tools/_beginner_learning_edits.py tools/_beginner_learning_practice.py tools/_apply_beginner_learning_review.py .github/workflows/_beginner-learning-author.yml
+          git add -u
           git diff --cached --check
+          python - <<'PY'
+          import subprocess
+          allowed={'.github/workflows/_beginner-learning-author.yml','tools/_beginner_learning_edits.py','tools/_beginner_learning_practice.py','tools/_apply_beginner_learning_review.py','scripts/06-3_price-healthcare-before-leaving-employer-coverage.md','lesson-text/06-3_price-healthcare-before-leaving-employer-coverage.md','teleprompter/core/6-3.txt','modules/06.md','COURSE-MANIFEST.json','MASTER-COURSE.md','ALL-SCRIPTS.md','COURSE-METRICS.md','delivery/decision-learning-review.md','delivery/decision-learning-changes.json'}
+          changed=set(subprocess.check_output(['git','diff','--cached','--name-only']).decode().splitlines())
+          assert changed <= allowed, sorted(changed-allowed)
+          assert set(subprocess.check_output(['git','diff','--cached','--diff-filter=D','--name-only']).decode().splitlines())=={'.github/workflows/_beginner-learning-author.yml','tools/_beginner_learning_edits.py','tools/_beginner_learning_practice.py','tools/_apply_beginner_learning_review.py'}
+          PY
           git fetch origin refs/heads/course-decision-learning-20260909
           test "$(git rev-parse FETCH_HEAD)" = "$GITHUB_SHA"
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Add decision-learning practice and targeted beginner explanations without claiming learner validation'
+          git commit -m 'Clarify network definition and remove temporary decision-learning authoring files'
           git push origin HEAD:refs/heads/course-decision-learning-20260909
           test "$(git ls-remote origin refs/heads/course-decision-learning-20260909 | cut -f1)" = "$(git rev-parse HEAD)"
           python tools/guided_course.py check
           git diff --exit-code
           git rev-parse HEAD
           git rev-parse HEAD^{tree}
-      - name: Export source-matched review files for inspection
-        run: python tools/_apply_beginner_learning_review.py export /tmp/decision-learning-review
+          python - <<'PY'
+          from pathlib import Path
+          import json, subprocess
+          p=Path('/tmp/decision-learning-review/REVIEW-DATA.json')
+          d=json.loads(p.read_text())
+          d['identity']['commit']=subprocess.check_output(['git','rev-parse','HEAD']).decode().strip()
+          d['identity']['tree']=subprocess.check_output(['git','rev-parse','HEAD^{tree}']).decode().strip()
+          p.write_text(json.dumps(d,indent=2,ensure_ascii=False))
+          PY
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
-          name: Orange-Plan-Decision-Learning-Review
+          name: Orange-Plan-Decision-Learning-Final
           path: /tmp/decision-learning-review
           if-no-files-found: error
           retention-days: 30
