@@ -1,23 +1,29 @@
-At the annual retirement review, decide what the household can spend next year and how it will be funded. Guardrails help identify when that spending needs attention, but the household still has to understand and choose the response.
+After retiring, how do you decide whether to keep spending the same amount, cut back, or spend more?
 
-Keep two numbers separate. Your planned spending is the amount the household intends to use. A portfolio guardrail is a level that prompts a review of that spending. The lower and upper portfolio levels are not themselves spending amounts.
+Without a review rule, it is easy to react to every market move—or never adjust at all because the original projection looked good. We want a repeatable decision based on the plan and the life it needs to fund.
 
-The portfolio levels tell you when to review. The proposed spending amount tells you what you might change. A lower guardrail is not an instruction to spend that amount or sell the portfolio down to that level. First understand what crossed the threshold, then read the spending decision separately.
+Start with the spending policy you have chosen and the current, updated plan. A standing guardrail is a condition that calls for review. A proposed spending amount is the choice being considered for the coming year. Those are different things.
 
-A review begins with current facts. Check spending, income, debts, taxes, life events, account values, and the cash available for the coming year. A lower portfolio value with unchanged needs is a different situation from a lower value combined with a paid-off mortgage or new pension income.
+If the app expresses a guardrail as a portfolio value, that value is a review threshold. It is not money you can spend. If the policy uses confidence triggers, read what the triggers mean under that policy. Don't relabel a percentage as a dollar threshold without the actual calculation.
 
-Read the proposed amount alongside inflation, the annual change limit, and the effect on the coming year's funding. A cap can mean the adjustment moves only partway toward the policy's target. Saving a capped adjustment and immediately repeating it is not a way to bypass the annual limit. Use the actual policy's review and exception rules.
+The durable idea is straightforward. Within the range where the policy does not call for a correction, you may continue with the scheduled review and inflation treatment. Outside it, compare the proposed adjustment and what it means for next year's funding.
 
-Flexible spending helps make a response practical. A planned reduction in travel or gifts is easier to use when the household identified it before a difficult year. Essential spending still needs funding. A policy that calls for a cut the family cannot make needs to be tested before retirement.
+An annual change limit can mean the proposal moves only partway toward a target. It doesn't make repeated saves a way to take several annual adjustments in one sitting. Use the actual policy's rules and the actual comparison shown.
 
-An upper guardrail can support a review of higher spending. The household may decide to use more for travel, family, giving, or another priority when the plan supports it. It can also choose to retain more margin. The review should explain the opportunity without automatically changing the saved spending amount.
+Let's make a spending change concrete. Suppose a separate illustrative household plans $100,000 and is considering $95,000 next year. That is a $5,000 reduction. Before accepting it, identify which spending changes.
 
-Connect the spending decision to the Reserve. A lower spending plan may reduce the near-term gap. A refill can still require a taxable sale or another funding source. A weak market may justify using existing cash, while a reserve near its floor requires a concrete response. Read both rules together rather than treating the reserve as an unlimited substitute for a withdrawal plan.
+If $5,000 can come from a trip the household is willing to postpone, the adjustment may be practical. If the entire budget is essential bills, the same numerical reduction isn't a solution. The plan needs another response, such as a different income source, funding choice, or work decision.
 
-Some risks require attention before the annual review. A collateralized loan near a contractual threshold, an unexpected income loss, or a major medical or family event can require an immediate decision. The annual rhythm is for deliberate routine review; it does not postpone time-sensitive obligations.
+Now look at the cash flow. A smaller spending amount may reduce the withdrawal and the Reserve requirement. Taxes can change too. Recalculate the funding rather than assume the full $5,000 translates directly into one particular investment sale.
 
-In the final working-session chapter, we will read the guardrail status, compare an annual spending choice, and look at how the proposed amount affects the coming year's funding. The spending decision stays a preview until the household chooses to save it.
+An upper review point can open a different discussion: is there room to spend more on something you value? The household may choose the proposed increase, a smaller increase, or keep more margin. A strong portfolio isn't an instruction to invent a new expense, but it shouldn't leave someone permanently afraid to use a plan that supports their goals.
 
-Close with a retirement operating summary: the planned spending, reliable income, portfolio gap, account and asset funding order, reserve policy, borrowing rules if any, and the review date. Someone else should be able to read it and understand how next year's bills get paid.
+Connect the spending choice with the Reserve refill. A weak year may support spending existing cash while it remains above the chosen floor. A refill may require a sale and tax. Read the two decisions together so the same cash isn't used for both spending and a second imaginary refill.
 
-Finish with next year's intended spending, its income and portfolio sources, the reserve/refill decision, and the next review date. Name the events that deserve earlier attention, especially a contractual loan threshold or lost income. Someone else should be able to use that summary to explain how the bills get paid.
+Some events require attention before the annual review. An income loss, a large medical expense, a family change, or a loan nearing a contractual threshold can need a response now. A yearly rhythm is not a reason to postpone a time-sensitive obligation.
+
+For the annual working chapter, start with Current, read the policy status, compare next year's amount, and follow the resulting income and withdrawals. Then decide whether to adopt it. Keep the comparison separate until the household chooses it.
+
+Finish the retirement section with a short operating explanation: what you're planning to spend, which income arrives, which accounts supply the gap, how the Reserve is used and refilled, any borrowing rules, and the next review date.
+
+Someone should be able to use that explanation to answer how next year's bills get paid. That is the point of the system. It gives you a way to respond to changes without needing a new retirement philosophy every time the market moves.

@@ -1,19 +1,27 @@
-Take the actual loan agreement and turn it into an operating sheet. Someone should be able to use it to see what is owed, what could trigger action, and how the household would respond without assuming another lender will rescue the plan.
+A low starting loan-to-value ratio can stop describing the loan you actually have. Interest accumulates, collateral changes, and the lender's agreement still governs what happens.
 
-Record the loan amount, collateral quantity, interest rate, how interest is paid or added, fees, maturity, and repayment terms. Add the lender's margin, top-up, and liquidation rules exactly as written. The price source, timing, notice process, and discretion to act can matter during a rapid move.
+This lesson turns a specific Bitcoin-loan contract into an operating sheet. We already covered whether borrowing fits the plan. Now we need numbers and actions someone can use.
 
-Calculate loan-to-value from the full debt balance and collateral value. Interest that accrues into the loan raises the numerator even when Bitcoin's price stays unchanged.
+Read the full balance, not just the original principal. Record interest treatment, fees, maturity, collateral quantity, price source and the actual warning, collateral-call and liquidation provisions. Those are separate contract events. A notice is not a promised grace period unless the agreement actually provides it.
 
-For illustration, a twenty-five-thousand-dollar loan against one hundred thousand of collateral starts at twenty-five percent LTV. If twelve percent interest is added for one year in a simplified annual calculation, debt becomes twenty-eight thousand. If collateral value then falls to fifty thousand, LTV is fifty-six percent. The original starting LTV is no longer the relevant measure.
+Use the source's simple illustration. A $25,000 loan against $100,000 of collateral starts at 25% LTV. If 12% interest is added for one year using a simplified annual calculation, the debt becomes $28,000.
 
-With an illustrative eighty-percent liquidation line, twenty-eight thousand of debt reaches that line when collateral is worth thirty-five thousand. That is a sixty-five-percent decline from the original collateral value, before any additional fees or interest. Use the actual contract and accrual method for a real loan.
+Now suppose the collateral is worth $50,000. LTV is $28,000 divided by $50,000, or 56%. The original 25% is no longer the relevant number.
 
-Set a personal review level before the contractual action level. Name the response resources: cash repayment, additional collateral, a controlled sale, or another verified source. Give additional collateral its own exposure limit so protecting one loan does not unintentionally move the entire stack to a lender.
+With a purely hypothetical 80% liquidation line, $28,000 of debt reaches that line at $35,000 of collateral. That is a 65% decline from the original $100,000 value, before further interest or fees. Actual accrual and contract terms can change the result.
 
-Stress an immediate crash, a long flat period, a rate increase, and a refinancing refusal. Consider an interruption in access to the lender or collateral as a separate operational risk. A favorable modeled price path does not certify the counterparty.
+Next, choose a personal review point before the event you're trying to avoid. Don't call the review point safe; explain what action it initiates.
 
-Record the maximum total Bitcoin exposure to the arrangement and who can respond when the usual operator is unavailable. Alerts help, but they do not guarantee enough time to act or prevent contractually permitted liquidation.
+For an arithmetic example, suppose you were considering returning this $28,000 loan and $50,000 collateral position to 50% LTV. Repaying $3,000 would leave $25,000 against $50,000. Adding $6,000 of eligible collateral would leave $28,000 against $56,000. Both reach 50% in that simplified instant.
 
-Look again at the illustration: interest raises the original twenty-five-thousand-dollar loan to twenty-eight thousand. Against fifty thousand of collateral, that is fifty-six percent LTV. The original twenty-five-percent starting ratio no longer describes the situation. Now ask which response resources remain genuinely available. Cash already assigned to essential bills is not automatically spare repayment money, and adding collateral has its own limit on lender exposure.
+They are not the same household decision. Repayment uses cash and reduces debt. Adding collateral leaves the debt and puts more assets into the lending arrangement. The response needs money or eligible collateral actually available, and the ratio could move again before the action completes.
 
-Keep the real terms, personal review point, contractual action point, response resources and backup operator together. Recheck the sheet as interest, collateral or terms change. An alert and a low starting ratio are useful information; neither is a guarantee that the loan cannot be liquidated or access interrupted.
+Write the limit on further collateral separately. Protecting one loan should not automatically expose the entire Bitcoin position. If that limit is reached, identify the alternative response before the crisis.
+
+Then test the principal exit. If repayment depends on refinancing, what happens when a new loan is unavailable? If it depends on a sale, include the timing, price and tax uncertainty. A long flat market can be difficult even without an immediate liquidation event.
+
+Add the operational failure case too. A provider interruption can affect access even when LTV is low. Confirm the actual rights, custody structure and available response; the simulation doesn't supply a counterparty guarantee.
+
+Finally, name the person monitoring the sheet and the backup person who knows the first steps. Keep secrets out of it. The sheet should point to verified contacts and safe instructions, not contain private keys or complete recovery material.
+
+Before borrowing or changing collateral, verify the actual contract and tax treatment with the relevant professionals. The completed sheet explains the obligation, thresholds, dates, response resources and limits. It is not proof that the lender will always allow time to act.

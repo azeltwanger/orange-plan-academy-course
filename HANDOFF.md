@@ -1,75 +1,25 @@
-# Current course handoff — repair the teaching, not the architecture
+# Current course handoff — complete written teaching pass
 
-Austin rejected the bulk source-led prose after reading it. The accepted model is the complete Reserve explanation he supplied, including the conditional single-income/dependent liquidity judgment. Keep that lesson unchanged. Earlier claims that the entire written course was complete are superseded.
+Austin asked to finish all lessons and walkthroughs using the accepted Problem → Explanation → Example → Solution approach. The YouTube retirement script is a reference for simplicity and progression only. The accepted Reserve explanation, including the conditional liquidity judgment, remains unchanged.
 
-## Actual work in this repair
+## Delivered in writing
 
-Full replacements: 2.1 (the previously prepared Cash Flow reading copy), 2.2 (Keep / Cut / Reduce), 2.4 (expected Life Events and funding), 2.5 (optional parent education commitment). W02 chapters 1–3 and 6–7 now contain the matching spoken explanations. The Reserve summaries and seven-beat recording block are unchanged. Duplicate abbreviated W02 cues are removed.
+The existing 51 Core / 15 Advanced / 11 practical inventory is retained. There are 40 full Core replacements and 15 full Advanced replacements, nine retained individual Core explanations, a targeted repetition cut in 3.3, and the unchanged accepted 2.3. Nine practical files now contain one fully paired chapter plan each; W02 and W03 remain byte-identical because their existing detailed plans already perform their distinct jobs. Clean reading views are regenerated from `scripts/`.
 
-That Session 2 repair also corrected the status line in then-unrepaired scripts. The subsequent Debt repair replaced 3.1–3.6 and W03. The current Allocation repair replaces 4.1–4.7 and W04 only; all other canonical bytes, including all of Sessions 2 and 3 and the Reserve, remain unchanged. The existing generator regenerates reading copies and no longer labels every lesson Reviewed. No new quality-scoring framework or competing master is created.
+Allocation now answers what the non-Bitcoin money should do and why cash, stock exposure, suitable bonds or existing property/business interests can serve different jobs. The new $1m example derives its cash from stated commitments and explains the long-runway choice. It is not a prescribed portfolio or a Reed fixture extension.
 
-## Sources and limits
+The Tax conversion lesson includes the current cost and the money that otherwise stayed invested, alongside the withdrawal alternative. Retirement follows a complete cash need through access, coverage, account/asset funding, sequence, sale/borrowing and the annual spending decision. Custody and Family connect operational ability, legal authority, no-secrets records and actual scoped evidence. Maintenance does not restart the whole course each month. Advanced work has a specific conditional application and its own demonstration rather than a repeated Core introduction.
 
-The current cash-flow fixture and prior lesson scopes remain. Original Cash Flow + Reserve slide text and notes supply income reliability, Keep / Cut / Reduce, usable surplus and transfer timing. Retrieved Global Brain passages supply worthwhile spending and recurring savings. The older Module 2 framework supplies larger-cost and withholding topics. August 25 dictation and private April 21 call passages supply the habit of explaining an input, then checking its effect and actual funding. The private material informs teaching patterns only; no names, raw quotations or client amounts are committed. No original audio listening or full visual review of every slide is claimed.
+See [the source and revision record](delivery/teaching-revision.md) for exact source handling, new illustrations and section-level repetition decisions. No private transcript, identifying client amount or original audio-listening claim is introduced. Earlier blanket completion claims remain historical, not evidence of teaching acceptance.
 
-The original college comparison is retained: $80,000 parent commitment, $29,000 assigned to the older child, $51,000 gap and $850/month under flat-cost/zero-growth/full-pre-funding assumptions. No new return, aid, tax result, security, owner/beneficiary decision or saving start date is supplied. The separate $1,200 annual bill/$100 monthly and $40 monthly/$480 yearly illustrations are editorial arithmetic, not extra Reed facts.
+## Preserve these boundaries
 
-Older categorical age/timeframe rules and historical app routes are not silently reinstated. The current accepted Reserve direction and latest course scope control those conflicts. Tax/legal/provider details still require their existing review; this is not a fresh outside-research audit.
+Do not copy the video's 8% withdrawal assumption, multipliers, return path, price forecasts, universal account lockup or tax thresholds into this course. Do not change the accepted Reserve, fixture, original dictation, toolkit, capture register or pinned recovery inventory. Historical versions remain in Git; no old alternate master is restored.
 
-## Debt replacement — Session 3 and W03
+Current facts, assumptions, expected events, scenarios, selected strategy and actual outside execution remain distinguishable. A new example does not silently establish a Reed decision, available security, tax result, policy quote or device proof. An app feature is described as demonstrated only after actual approved-build evidence.
 
-Six full explanations now work through required versus extra payments, interest-only principal, DTI versus spendable cash, current and stressed DTA, loan-specific LTV, each existing debt's job, financing purpose, equal-purpose financing comparisons, and the repayment/response rules. W03 has one narrated recording plan for each of its six existing chapters. Its former duplicate short-cue and summary versions are removed.
+## What happens after this written pass
 
-Teaching sources actually consulted were relevant text and speaker-note passages from `OrangePlan-Week4-Debt-Strategy.pptx`, the older detailed Debt outline, the Global Brain debt playbook, and original March 17 / April 8 call dialogue. These establish the strategic uses of debt, debt tolerance, rate versus household capacity, required/extra-payment confusion, released cash after payoff, and the need to check an interest-only maturity. No raw private dialogue, names, client amounts, personal investment assurances or old app behavior are committed. Full-deck visual inspection and original audio listening are not claimed.
+There is no next unstarted manuscript batch in this scope. Review the clean course section by section for Austin's integrated voice and judgment, record corrections in the canonical files, and test the actual decision with an appropriate learner. Finish precise screen/procedure inserts and real outputs when the relevant redesign is ready. Material product-semantic changes reopen the affected explanation, not a blanket curriculum redesign.
 
-Source distinctions are explicit. The older deck and outline use different ratio bands; neither is a universal safety rule in the current course. The deck's margin-call wording differs from its liquidation graphic; the current 80% example is hypothetical liquidation only, with warning/call triggers separately checked. Its universal structure ladder, unsecured-no-forced-sale claim and interest-only superiority are not reinstated over the current Core's contract/repayment analysis. The owner's later liquidity judgment qualifies categorical card-first language. Historical STRC/reserve and confident-return recommendations in the calls are not imported over the accepted Reserve framework. No new personal rule is attributed to Austin to resolve these differences.
-
-The fictional source data remains unchanged. New arithmetic explanations derive from its card balance/rate/minimum, and from the existing separate $20,000, 8%, five-year repayment illustration. Approximate card interest is not a daily-billing statement; hypothetical amortization is not a quote or Reed payoff forecast. The $30,000 project stays a separate comparison. No new security, tax basis, model result, maturity, lender threshold, current offer or household debt job is invented. Other non-card debt choices are comparisons until a reviewed fictional decision is supplied.
-
-Narrow outside checks were limited to CFPB DTI/HELOC/loan-comparison/home-equity-contract mechanisms, FINRA SBLOC restrictions and collateral rights, IRS plan loans/use-of-proceeds/canceled debt, and a lender's explanation of mortgage recasting. The URLs are in production notes, not spoken narration. They support those mechanisms, not current loan pricing, suitability, guaranteed outcomes or professional sign-off. Material product and contract inputs still wait for the actual demonstration.
-
-## Allocation replacement — Session 4 and W04
-
-Seven complete spoken replacements now connect current exposure, a reasoned Bitcoin target, intended use and account access, the affordable contribution sequence, relevant account choice, Traditional/Roth tax timing and the actual investment instruction. W04 has one narrated recording plan for each of its eight existing chapters, replacing the old duplicate summaries and short cues. Nothing in this pass marks an app result, account configuration or outside trade complete.
-
-Source work used retrieved text and speaker-note excerpts from `OrangePlan-Week3-Accounts-Allocation.pptx`, the Global Brain V18.8 allocation/account/contribution reasoning, the older protocol Module 4A/4B framework and the current canonical lessons/fixture. The current user-provided Reserve remains the voice/teaching reference. This pass did not read a complete original call or listen to original audio, and it did not inspect every slide visually. Private search snippets and older generated masters were not treated as fresh voice evidence. Generic explanations about old fund elections, uninvested transfers or different household needs are editorial examples, not client facts.
-
-The existing source distinctions are stated explicitly rather than silently blended. The deck's named Bitcoin paths remain, while its indicative percentages are not imposed as mandatory ranges over the current course. Reserve/Bridge/Forever spending horizons remain different from age-based account access. HSA/education money retains its qualified/dedicated job instead of becoming unrestricted early-retirement cash. The current Debt-before-Allocation order and owner liquidity judgment remain. HSA→IRA→additional workplace contributions is a conditional longer-term comparison, not a requirement to finish every tax shelter before building accessible money.
-
-The current same-budget Traditional/Roth example is preserved and explained step by step: $1,000 pretax resources, $1,000 Traditional or $800 Roth after 20% tax, both doubling, then $1,600 spendable at equal rates. The 10%/30% future-tax variants change that result; high growth alone does not establish a universal winner. New contributions remain separate from conversions. Actual Reed payroll tax treatment is still unknown and may change the available cash when compared. No favorable tax rate or permanent election is invented.
-
-The unchanged $1,307,000 allocation subset, $728,000 total Bitcoin exposure, 60/34/6 target comparison and future-only $1,000/$605 route are used throughout. The newly explicit $575,000 taxable and $732,000 retirement subtotals are sums of the original fixture, not certificates of access or sufficiency. Different account sizes require dollar-weighted exposure. A target gap is not an order, and a new contribution also changes the portfolio total. Current Reserve/debt/employee claims still use the same available money once.
-
-Narrow outside checks, separate from the user-derived teaching framework, used current IRS retirement/Roth/RMD/vesting, IRA contribution/deduction/distribution, HSA and business-plan references. Publication 550 supports investment-income and sale mechanics. The expanded-HSA notice and current original-owner Roth RMD guidance were checked so older eligibility or workplace-Roth statements were not silently repeated. Production notes identify the URLs. No current dollar contribution limit, provider menu, tax saving, product recommendation or professional sign-off is asserted. An unavailable DOL page was not used as evidence; the retrieved IRS vesting reference supplies that limited mechanism check instead.
-
-The existing generator and arithmetic checks are extended only for amounts actually discussed; no new writing-quality framework is added. A passed check verifies arithmetic/synchronization/preservation, not Austin's approval or learner comprehension. All Session 2/3 scripts and W02/W03, original dictation, fixture, toolkit, capture receipts and cleanup history remain protected.
-
-## Allocation section-level correction — finish the decision before moving on
-
-Austin identified that 4.2 repeated drawdown tolerance while the more useful sizing-by-timeframe step was missing. He asked to finish each section rather than proceed through more script batches. The earlier statement that the Allocation replacement was ready to leave for Tax is superseded.
-
-Actual correction: 4.2 now uses the four paths to establish Bitcoin's intended role. The deck's illustrative percentage bands are visible without becoming mandatory ranges or automatic suitability classifications. 4.3 now owns assigning money to timeframes, sizing the holdings, combining the dollar-weighted target, and testing the resulting spending funding once. Early-access mechanics no longer occupy the bulk of that explanation; their feasibility check stays with account choice and detailed retirement instruction. W04 follows the same sequence, with no target save in chapter 2 and the actual target comparison only after sizing in chapter 3. The 4.1 ending and 4.7 return-to-example/finish are aligned.
-
-All seven current lessons and the whole W04 sequence were read for distinct work, not just isolated word quality. 4.4, 4.5 and 4.6 retain their existing narration because the amount, account and tax-election decisions are different jobs. No blanket reapproval of those drafts is asserted.
-
-| Lesson | Distinct job | Original deck anchor |
-|---|---|---|
-| 4.1 | Read current exposure and identify a mismatch | Step 1 |
-| 4.2 | State the intended Bitcoin role | Step 2 |
-| 4.3 | Size by timeframe, combine into a target and check funding | Steps 3–5 |
-| 4.4 | Fit current contributions and future changes into actual cash flow | Step 6 |
-| 4.5 | Select an eligible, usable account with the needed menu | Steps 7 and 9 |
-| 4.6 | Compare tax election using the same economic budget | Step 8 |
-| 4.7 | Specify purchases and finish each current/future outside instruction | Step 10 |
-
-The original Accounts + Allocation deck's relevant slide text and speaker notes were reread in sequence; the older protocol explicitly supports sizing Bitcoin differently across Bridge and Forever. This is not a claim of original audio listening or complete visual deck inspection. The current wording, examples and latest owner direction take precedence over historical interface claims and categorical guarantees. No real client story or data is introduced.
-
-The new $500,000 illustration is separate from the Reed fixture: $50,000 near-term cash; $100,000 Bridge at 20/50/30; $350,000 long-runway at 80/20/0; aggregate 60/24/16. A second comparison changes only long-runway to 60/40/0, producing aggregate 46/38/16. These are proposed example assumptions demonstrating the method, not a recommendation or an approved Reed decision. The existing Reed 60/34/6 target and future contribution illustration remain explicitly separate. The existing arithmetic checker verifies the new sums; no new quality-scoring framework is added.
-
-A narrow SEC Investor.gov check supports the horizon/allocation mechanism, not the example weights. Final tax/access, app and recording evidence remains separate. All other sessions, source-material, fixture, toolkit, capture records and historical cleanup are preserved.
-
-## Next
-
-Keep Allocation as the current section until the owner is satisfied with this complete teaching-and-walkthrough sequence. Do not start Tax merely because the script files have been rewritten. Each subsequent section needs its own deck-based decision chain, an actual worked explanation, and matching walkthrough before it is presented as ready for owner review. Writing, owner acceptance and filming remain different states. This does not require another course-architecture reset or new workbook. The earlier sessions and conditional Advanced library still retain their stated review/repair needs. No background continuation or whole-course completion is claimed.
-
-Use existing `scripts/`, regenerate current reading copies, and keep review drafts visible in GitHub as requested. Do not change the app or record its unfinished screens. Check actual branch/PR state before writes, preserve source/fixture/capture bytes and historical recovery, and remove temporary authoring helpers before integration. A merge for reading is not Austin's approval of every line.
+Written preparation, owner acceptance, professional review, actual capture and student release remain separate states. The implementation PR records the actual checks and remote identities after they run. The temporary integration modules and write workflow must be removed before main integration. No unattended continuation, app/financial operation, changed entitlement or validated annual price is implied.

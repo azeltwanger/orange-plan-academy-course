@@ -1,7 +1,7 @@
 # 1.1 — Decide what belongs in your saved plan
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/01-first-working-plan.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`, Austin's baseline/life-events/scenarios dictation, and the sources identified in `delivery/source-led-batch-01.md`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; exact routes belong in W01.
 
 Kind: teach
@@ -10,48 +10,42 @@ Sources: DICTATION, FOUNDATION, MASTER, APP
 
 ### Read aloud
 
-We're going to build the first version of your plan. Before we start entering numbers, I want to separate three things: your starting picture, the changes you genuinely expect, and the possibilities you're only considering.
+A plan gets confusing when today's facts and tomorrow's possibilities are mixed together. You try a renovation, a different job, and an earlier retirement date. Later you open the result and can't remember which version of your life it describes.
 
-Your starting picture is what is true about your financial life today. Your current income, spending, assets, debts, and household. We'll use statements and records to check those numbers rather than rely on what we remember.
+Before entering more numbers, let's keep three things separate: your starting picture, the changes you expect, and the possibilities you're still considering.
 
-Alongside those facts, the plan needs assumptions about the future. What growth will we assume for investments? What inflation will we use? How long does the money need to last? Those assumptions belong with the plan you are building from, but they are not facts about what will happen. We'll choose them deliberately in a later lesson.
+The starting picture is what is true today. What do you own? What do you owe? What income comes in, and what does your life cost? Use the records you have rather than the version you hope will be true next year.
 
-The second part is future life events. These are changes you genuinely expect or intend to make. Maybe you plan to help with college, replace a car, sell a house, or reduce your work hours. Those events belong in the future picture even though the spending or income hasn't changed today.
+The plan also needs assumptions about the future. Investment growth and inflation aren't facts you can pull from a statement. They're choices about what to test. They belong with the saved plan, clearly recognized as assumptions. We'll choose them in Lesson 1.4.
 
-You don't need a perfect estimate to recognize an expense that matters. Record what you know about its amount and timing, and make clear what still needs checking. Leaving an expected cost out entirely can make the plan look easier than the life you intend to live.
+Expected life events are changes you genuinely intend or expect. A vehicle replacement, college support, or reducing work hours belongs in the future picture when it's part of the life you are building toward. An uncertain amount can start as an estimate, with a note about what needs checking.
 
-The third part is scenarios. These are questions. What would happen if you retired three years earlier? Bought a bigger house? Borrowed to buy more Bitcoin? Or earned less than you expect?
+A scenario is a question you have not settled. What would happen if you bought the larger house? Took a career break? Borrowed to buy more Bitcoin? You need to see the effect before treating it as a commitment.
 
-Keep those possibilities separate while you compare them. The current plan gives you something stable to compare against. You change it deliberately when your facts change or you choose a different path, rather than every time you try an idea.
+Here is the difference for the Reeds. Their existing mortgage is a fact. College support they intend to provide is an expected expense. The renovation they're debating is a scenario. The investment-growth model used to project the accounts is an assumption.
 
-Let's use Alex and Morgan. The mortgage they already owe is a current fact. College support they intend to provide is an expected future cost. A larger renovation they're still debating is a scenario. The return model they use to project their investments is an assumption within their saved plan.
+The renovation may eventually become part of the plan. Until they choose it, they need a comparison that leaves the original picture intact. Otherwise, the next retirement result might include a purchase they have never agreed to make.
 
-The renovation is a useful test of this distinction. They may decide it is worth doing. Until then, they need to see what it would mean for the plan without treating the spending and borrowing as something already agreed to.
+The same idea applies when an event becomes real. If a future reduction in spending has now happened, today's spending needs to reflect it. The future event then needs checking so it doesn't reduce the cost a second time. We'll handle the full event setup in Cash Flow.
 
-Here's the problem we're avoiding. You lower your income to try a career change, then change the retirement age to try something else. Later you look at the result and forget that both experiments are still in there. The number no longer describes either your current life or one clearly defined alternative.
+For now, gather recent account statements, debt statements, income records, a spending reference, and employer benefits. Keep them together in a private folder. Add a short list of expected changes. You don't need a second spreadsheet that recreates every record; you need a reliable place to check a number when a question comes up.
 
-The same care applies when an expected event becomes real. Once a planned spending change has happened, the current numbers and the future event need to agree. Otherwise you can subtract the same expense twice. We'll handle the full event setup and review in the life-events lesson.
+Some information will be incomplete. Mark what you know, what you're estimating, and what you still need to find. A missing purchase date doesn't stop you from identifying an account's current value. It can stop you from treating the tax cost of selling it as settled. The consequence of the missing fact determines its priority.
 
-For the first working session, I would get the source information together in one private folder. Recent statements, income records, a spending reference, current debt information, employer benefits, and whatever purchase history you already have. Start a short list of expected changes too. You can gather records as we go; doing it together simply reduces the time spent searching later.
+Before continuing, take one change you're considering and classify it. Does it describe today, something you expect to happen, or something you want to test? Then name one assumption behind your future picture.
 
-You do not need to share that folder with the course. Keep the originals and your logins private. We'll enter the relevant financial information, not the credentials used to reach it.
+That gives us a starting plan we can return to. In the next chapter, we'll begin with the accounts you already have—not an account setup you think you are supposed to copy.
 
-Some details will take longer to confirm. Keep track of what is known, estimated, and missing, then use that information for the decisions it can support. You can review what an account is worth while you locate its purchase history. You should not treat the tax cost of selling it as settled while that history is unknown.
+### Visual and source notes — not spoken
 
-Before we move on, classify one change you have in mind. Does it describe today, an expected event, or a what-if? Then name one assumption behind the plan. That is enough structure to keep the next steps understandable. In the working chapter, we'll find the first task and start building from your current position.
-
-### Visual notes — not spoken
-
-Retain the Foundation deck's baseline, life-event and scenario concepts. Show three simple panels, with assumptions visibly inside the saved-plan starting picture rather than a fourth competing system. Use existing mortgage / expected college / possible renovation, then move only the renovation into the hypothetical comparison. No fabricated dates or event costs.
+Visual: existing mortgage / expected college / possible renovation, with assumptions beside the saved starting picture. Uses original August 25 dictation and Foundation steps 1–3. Do not claim current editor behavior from old decks.
 
 ### Production notes
 
-Source ledger: `delivery/source-led-batch-01.md`. Preserve Austin's explicit instruction to group assumptions with baseline, not to label assumptions as known truth. The generic course-planning phrasing does not verify any save behavior. W01 chapter 1 introduces the accepted navigation; W02 chapter 6 completes exact life-event mechanics. Do not repeat click paths in the teaching.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
-The private-folder method preserves original dictation. The revised order follows the accepted current course rather than restoring the older deck's session count or its completed three-scenario run at this early step.
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 ### Member checkpoint
 
-- Locate the source records for the first plan and list important expected changes.
-- Explain how a current fact, an assumption, an expected event and a scenario relate without creating four competing plans.
-- Keep missing information visible and identify what it affects.
+Classify one current fact, one expected event and one what-if; keep assumptions and missing evidence visible.

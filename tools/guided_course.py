@@ -69,6 +69,8 @@ def catalog(root: Path) -> list[dict]:
 def review_state(row: dict) -> str:
     if row['id'] == '2.3':
         return 'Accepted teaching reference; filming separate'
+    if 'Status: TEACHING_RETAINED_REVIEW' in row['text']:
+        return 'Individual explanation retained; voice review pending'
     if 'Status: TEACHING_REWRITE_REVIEW' in row['text']:
         return 'Replacement written; voice review pending'
     if 'Status: WALKTHROUGH_REWRITE_REVIEW' in row['text']:
@@ -109,7 +111,7 @@ def outputs(root: Path) -> dict[str,str]:
     result['CIRCLE-STRUCTURE.md']=film.replace('# Learning and filming order','# Member playback structure',1)
     result['SCREEN-SHOOT-LIST.md']='# Screen and device production list\n\nAll eleven practical recordings remain unapproved until a matching entry in CAPTURE-RECEIPTS.md is completed. Each source includes the run sheet, evidence checks and spoken cues.\n\n'+''.join(f"## {x} — {by[x]['title']}\n\n[Run sheet and cues]({by[x]['path']})\n\n{by[x]['checkpoint']}\n\n" for x in PRACTICAL_IDS)
     result['MODULE-CHECKPOINTS.md']='# Member completion checks\n\nA decision, a saved choice and an outside action are separate states. Funding a reserve or obtaining legal documents can remain an honest dated action; do not label it complete prematurely.\n\n'+''.join(f"## {x} — {by[x]['title']}\n\n{by[x]['checkpoint']}\n\n" for x in ALL_IDS)
-    result['PRODUCTION-CHECKLIST.md']='# Production checklist\n\nThe earlier course-wide pass was rejected for voice and teaching clarity. Only the Reserve is the accepted reference; replacement drafts and unrepaired components are distinguished below. Recording and professional review remain separate. No professional sign-off or successful app/device run is asserted by these files.\n\n| ID | Script | Text review | Austin approval | Remaining publication gate |\n|---|---|---|---|---|\n'+''.join(f"| {r['id']} | [{r['title']}]({r['path']}) | {review_state(r)} | {'Reference accepted; filming separate' if r['id']=='2.3' else 'Pending'} | {r['gate']} |\n" for r in rows)
+    result['PRODUCTION-CHECKLIST.md']='# Production checklist\n\nThe written teaching and paired demonstration pass now covers every component. The Reserve remains the accepted reference; all other integrated wording remains for Austin\'s review. New replacements and retained individual explanations are distinguished below. Written preparation, recording, professional review and actual learner evidence remain separate. No professional sign-off or successful app/device run is asserted by these files.\n\n| ID | Script | Text review | Austin approval | Remaining publication gate |\n|---|---|---|---|---|\n'+''.join(f"| {r['id']} | [{r['title']}]({r['path']}) | {review_state(r)} | {'Reference accepted; filming separate' if r['id']=='2.3' else 'Pending'} | {r['gate']} |\n" for r in rows)
     total=sum(r['words'] for r in rows if r['id'] in CORE_IDS)
     adv=sum(r['words'] for r in rows if r['id'] in ADV_IDS)
     result['COURSE-METRICS.md']=f'# Current course inventory\n\n51 core teaching clips, including one optional college lesson; 15 conditional Advanced clips; 10 app working sessions; 1 external device demonstration.\n\nCore spoken draft: {total:,} whitespace-delimited words. Advanced: {adv:,}. Approximate narration only at 150 words/minute: {total/150:.0f} core minutes and {adv/150:.0f} Advanced minutes. These are reading estimates, not promised runtimes; working sessions and pauses are additional.\n'
@@ -217,6 +219,54 @@ def arithmetic(root: Path) -> dict:
     eq('timeframe alternate stock weight',revised[1]/sum(revised),D('.38'))
     eq('timeframe alternate cash unchanged',revised[2],80000)
     eq('timeframe isolated long-runway reallocation',long[0]-revised_long[0],70000)
+    # New explicitly hypothetical teaching mechanisms; not Reed inputs or engine outputs.
+    eq('whole portfolio cash jobs',D(60000)+40000,100000)
+    eq('whole portfolio longer runway residual',D(1000000)-500000-100000,400000)
+    eq('whole portfolio initial Bitcoin weight',D(500000)/1000000,D('.5'))
+    eq('whole portfolio initial stock weight',D(400000)/1000000,D('.4'))
+    eq('whole portfolio initial cash weight',D(100000)/1000000,D('.1'))
+    eq('additional two-year cash choice',D(50000)*2,100000)
+    eq('whole portfolio revised stock amount',D(1000000)-500000-200000,300000)
+    eq('whole portfolio revised cash weight',D(200000)/1000000,D('.2'))
+    eq('conversion example qualified Roth ending',D(30000)*2,60000)
+    eq('no conversion example outside ending',D(6000)*2,12000)
+    for rate,want in [(D('.2'),60000),(D('.3'),54000),(D('.1'),66000)]:
+        eq('conversion comparison total after '+str(rate),D(30000)*2*(1-rate)+D(6000)*2,want)
+    eq('generic harvest gain',D(20000)-16000,4000)
+    eq('generic harvest loss',D(16000)-20000,-4000)
+    eq('retirement rough example before other costs',D(96000)+12000-40000,68000)
+    eq('separate complete cash-outflow example',D(96000)+12000+12000+6000,126000)
+    eq('separate complete portfolio gap example',D(126000)-40000,86000)
+    eq('coverage ordinary year A',D(12000)+3000,15000)
+    eq('coverage ordinary year B',D(8000)+8000,16000)
+    eq('sequence example ending difference',D(910000)-887500,22500)
+    eq('same sequence no withdrawal both orders',D(1000000)*D('.8')*D('1.25'),1000000)
+    eq('one-year simple interest illustration',D(20000)*D('.1'),2000)
+    eq('one-year capitalized debt illustration',D(20000)*D('1.1'),22000)
+    eq('practical annual spending reduction example',D(100000)-95000,5000)
+    eq('insurance gap scale only',D(40000)*10,400000)
+    eq('advanced annual debt example',D(25000)*D('1.12'),28000)
+    eq('advanced debt against lower collateral',D(28000)/50000,D('.56'))
+    eq('hypothetical liquidation collateral',D(28000)/D('.8'),35000)
+    eq('hypothetical liquidation price decline',1-D(35000)/100000,D('.65'))
+    eq('repayment response illustration',D(28000-3000)/50000,D('.5'))
+    eq('additional collateral response illustration',D(28000)/(50000+6000),D('.5'))
+    eq('lump sum units example',D(20000)/100000,D('.2'))
+    eq('staged declining price units example',D(10000)/100000+D(10000)/50000,D('.3'))
+    eq('staged rising price units example',D(10000)/100000+D(10000)/200000,D('.15'))
+    eq('incremental conversion first cost',D(4000)/20000,D('.2'))
+    eq('incremental conversion next cost',D(6000)/20000,D('.3'))
+    eq('incremental conversion combined average',D(4000+6000)/40000,D('.25'))
+    eq('move recurring improvement illustration',D(10000)-8000,2000)
+    eq('health tax combined cost illustration',D(2000)+1500,3500)
+    eq('health tax combined rate illustration',D(3500)/10000,D('.35'))
+    eq('recurring loan second year ending',(D(22000)+20000)*D('1.1'),46200)
+    eq('recurring loan two-year accumulated interest',D(46200)-40000,6200)
+    eq('SEPP birthday example age54 duration',D('59.5')-54,D('5.5'))
+    eq('SEPP birthday example age58 later end',D(58)+5,63)
+    eq('shared custodian exposure not loss probability',D('.3')+D('.3'),D('.6'))
+    eq('hypothetical fee lower rate',D(500)*2,1000)
+    eq('hypothetical fee higher rate',D(500)*20,10000)
     return {'scope':'Arithmetic teaching checks only; no retirement forecast, tax opinion, lender assurance or model acceptance.', 'checks':asserts,'current_dta_percent':float(debt/assets*100),'partial_stress_dta_percent':float(debt/stressed*100)}
 
 CLEANUP_PIN = 'a7be495e670078cd44ea4e0792538b0eaa32dd95'

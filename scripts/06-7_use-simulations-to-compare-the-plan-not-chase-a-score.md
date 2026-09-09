@@ -1,7 +1,7 @@
 # 6.7 — Use simulations to compare the plan, not chase a score
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/06-retirement-paycheck.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: teach
@@ -10,44 +10,48 @@ Sources: RETIREMENT, FOUNDATION, APP, BRAIN
 
 ### Read aloud
 
-Use the simulation to compare choices you might actually make. Start with the spending, timeline, assumptions and rules being tested, then read what the result tells you—and what it does not answer.
+Once the funding plan is assembled, use simulations to compare a decision—not to chase the highest percentage on the screen.
 
-For an illustration, eighty-two percent means eighty-two percent of the modeled paths funded the plan under the stated rules and horizon. Read the exact count and ending age with it. This is an explanation of a result, not an approved result for the Reeds and not a measurement of every risk the family could face.
+We already learned how to read the percentage, count and horizon in the first working plan. Now the useful question is what changes when you test a different life or strategy.
 
-The simulation can include important parts of the plan, but it cannot make an unsupported input reliable. A wrong spending number, omitted debt, missing basis, or assumed account access can produce a precise-looking answer to the wrong question. Check the current facts and calculation status before comparing strategies.
+Start with the plan you intend to follow. Keep its spending, work dates, contributions, taxes and investment assumptions together. Then name the decision you are testing.
 
-A failed simulated path means the plan under the rules tested did not fund the entire modeled horizon. It does not tell you the exact date or outcome your real household will experience. It also should not be casually redefined as only needing a harmless spending adjustment. The response is to understand what made those paths difficult and what realistic changes you could make.
+Perhaps you want to spend more while the children are still at home. Perhaps you want to reduce work earlier. Or the first retirement years depend too heavily on one taxable account. Those are meaningful questions with a trade-off to inspect.
 
-Compare one decision at a time when learning what drives the result. Hold the assumptions and other choices constant, then test a spending change, a later retirement date, a contribution change, or a funding strategy. Read the effect on the cash flow and risk, not just the percentage.
+Change one thing first. If you lower spending, delay retirement, increase returns and change the withdrawal order together, you may get a stronger result without knowing which change mattered. A controlled comparison teaches you something you can use.
 
-Then test combinations that could happen together. A difficult first market period, a healthcare cost, and reduced part-time income can overlap. A household that can tolerate each one separately may struggle with the combined version. Use the scenario tools for a specific question and keep the saved plan intact until a choice is adopted.
+Suppose a household compares two retirement dates using the same spending and assumptions. The later date might allow additional contributions and fewer withdrawal years. The improvement has a real cost: more time working. That is what the household is deciding, not whether a larger percentage is inherently better.
 
-The result should also be understood alongside an earliest modeled retirement date and the planned date. The standard used to calculate the earliest date is a test threshold, not a recommendation that everyone should retire as soon as the threshold is crossed. The decision includes lifestyle, flexibility, work, family, and risks outside the model.
+Now compare spending. A higher amount may reduce modeled success while supporting a life the household values more. A lower amount may improve the result but be unrealistic for essential needs. Read the dollars and the practical adjustment required, not only the score.
 
-A higher result can require a cost the household does not value. Working much longer or planning a permanently austere lifestyle may improve the simulation while undermining the reason for building the plan. Conversely, increasing assumed returns may improve the number without improving the household's ability to respond.
+Look inside the paths or relevant years the tool actually makes available. Where does funding become difficult? Is it an early account-access issue, a large event, a prolonged weak market, tax pressure or the size of spending itself? The response should address that cause.
 
-For the Reed example, we will compare a limited set of meaningful alternatives. One may retain current spending and work longer. Another may reduce flexible spending temporarily. A third may change the mix of funding sources. Each comparison needs the same baseline and a clear list of changed inputs.
+An early funding failure is different from an unfavorable long-run terminal balance. A plan that would need a reduction the household cannot make should not be called comfortable simply because most paths work.
 
-Read the years that explain the difference. Is the early access gap smaller? Are taxes lower in one period and higher later? Is borrowing adding a future repayment burden? Does one version leave a cash shortfall before a benefit starts? Those explanations make the result actionable.
+Use the stress comparison to test the operating rules too. Does the reserve run down? What happens near its floor? Does the proposed annual spending change leave essential bills covered? When borrowing is involved, can the contract force action outside the simulation's financial assumptions?
 
-We'll compare the actual results and then inspect the years that explain the difference. If the preferred retirement date does not meet the standard, that is useful information. Compare a change the household could carry out rather than adjusting assumptions until the example looks successful.
+The simulation is not a probability estimate for every risk in life. It doesn't certify the custodian, guarantee tax law, or prove that a lender will allow the planned response. Keep those other checks where they belong rather than let a favorable score replace them.
 
-Explain one comparison in a sentence: what changed, what improved or worsened, and what it costs the household. Keep the version you intend to follow distinct from the alternatives. Next we'll turn the chosen retirement plan into a spending-review routine.
+Assumption sensitivity deserves a separate comparison. Hold the household choices fixed and test a less favorable return path that the app supports. If the plan works only under a very optimistic model, make that dependence explicit before acting. Don't silently reduce volatility or raise returns to recover a desired result.
+
+You also don't have to optimize to 100%. That can mean giving up spending or working longer for a margin the household may not choose. The appropriate confidence target is a preference to test alongside flexibility and consequences, not a universal promise of safety.
+
+For the Reeds, use the verified saved example and its actual result. Compare one relevant change, read the same date and input identity, and explain what improved and what was given up. The source fixture does not supply a success rate we need to reproduce.
+
+At the end, choose the plan or comparison you prefer and record why. A clear reason could be, “This version supports the spending we value while leaving these practical adjustments available.” Or the result may show a specific gap that needs work before retirement.
+
+The next lesson turns the chosen approach into an annual spending review. That's how the plan stays useful when the actual path differs from the one you originally expected.
+
+### Visual and source notes — not spoken
+
+Use1.5resultliteracy rather than repeatpercentdefinition. Compareoneactualdate/spending/strategy trade-off; examinefundingfailures and feasiblechanges. Exactsimulationmethodology/defaultsuccessstandard,customstress availabilityand receipts require approvedbuild; no syntheticriskscoresorclientoutcomes. Price/custody/provider/taxlaw notall represented. Confidence target remains householdpreference.
 
 ### Production notes
 
-Percent first, exact count beneath. No fake before/after success or retirement age for the fixture. Methodology limitations include unmodeled provider failure and uncertain inputs. Do not claim determinism/fair-race behavior beyond verified engine support. W06 capture must preserve inputs and build identity.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 ### Member checkpoint
 
-- Read the result with its horizon, assumptions, and freshness.
-- Compare one realistic choice and inspect the affected years.
-- Explain the cost or risk accepted for the preferred result.
-
-### Source-led visual and teaching notes — not spoken
-
-Current versus one meaningful change, with changed and unchanged inputs visible. Link the percentage and count to the same calculation and the year detail that explains it. Keep illustrations outside recreated app screens.
-
-Editorial reason: Make a score comparison end in a choice with a visible cost, rather than an attractive headline.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+Select a preferred modeled alternative with its real-life trade-off and a practicable response to the difficult paths.

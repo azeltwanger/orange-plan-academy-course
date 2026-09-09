@@ -1,19 +1,27 @@
-Two accounts are only useful protection against a failure when that failure does not take out both. Trace the shared provider, recovery channel, location and person behind each method before calling the arrangement independent.
+Having several accounts can feel like diversification, but one shared dependency may still affect all of them. We need to know whether the arrangement is independent where it matters—not just whether it has different logos.
 
-Two exchanges may rely on the same custodian. Two devices may share a software path. Several backups can be stored in one disaster zone. Different accounts may all be recoverable through the same email and phone. A family can have many documents and still depend on one person to interpret them.
+Start with the custody map. For each significant portion, identify the provider, underlying custodian when known, keys or signing policy, recovery channel, location category and responsible person. Keep precise locations and sensitive details in the protected process, not this review copy.
 
-Draw a simple dependency map. For each meaningful pool, identify the provider, signing method, recovery material, authentication channel, location category, and person who starts the process. Keep exact sensitive details in the separate protected system.
+Then remove one dependency at a time. What becomes unavailable if an email account is lost? If a provider stops serving customers? If a location is inaccessible? If the main operator is absent?
 
-Then test one failure at a time. What becomes unavailable if the email is lost? If one provider stops serving customers? If a device and its nearby backup are destroyed? If the operator is absent? Which remaining resources actually restore access, and how has that been verified?
+Here is a simple example. A household places 30% with provider A and 30% with provider B. Suppose verified documents show both depend on the same underlying custodian. A problem at that custodian can affect 60% of the position, even though there are two provider names.
 
-Also test combinations that plausibly occur together. A home disaster may affect devices, paper records, and communication access. A provider event may affect several branded services. A family emergency may reduce the time and expertise available to solve a technical problem.
+That 60% is an exposure calculation, not a prediction that all of it will be lost. The actual rights, segregation, recovery and failure determine the consequence. We are identifying how much shares the same dependency.
 
-For Alex and Morgan, an intentional split should reduce exposure to the failures they care about. It should not merely create another login or move Bitcoin between two services sharing the same underlying dependence. The amount assigned to each method should reflect both its job and the consequence of failure.
+The remaining 40% might be directly controlled. It is independent of that custodian only if its keys and recovery path really are separate and usable. A label saying self-custody does not prove the household can recover it after the same event.
 
-A lender is another custody exposure. A loan can be modest relative to total wealth while a large share of the Bitcoin is held as collateral. Record that dependence in the same family risk picture rather than isolating it in a separate borrowing spreadsheet.
+Authentication is another common link. Two accounts may both rely on one email and phone for recovery. Adding a third account with the same recovery dependence won't solve the problem. A verified independent recovery route may be the better improvement.
 
-The outcome is a short list of meaningful changes: separate a recovery dependence, reduce a provider concentration, prove an independent recovery path, or simplify a process. No system eliminates every risk. The objective is to know which failures remain and keep any one of them from unnecessarily controlling the whole plan.
+Physical storage can create a similar concentration. A device, backup and written instructions in one location may all become unavailable together. Separate copies can help with that event, but their security and legitimate family access still need attention.
 
-For example, adding a second provider does little for a recovery problem when both logins depend on the same unavailable email and phone. Fixing that dependency may be more useful than adding a third account. Likewise, separate brands may share a custodian. Verify the actual arrangement before deciding which portion of the plan is protected from that failure.
+Test a plausible combination too. A family emergency can remove the normal operator and reduce the available time to solve a technical issue. A local disaster can affect documents, devices and communication. The response must fit that combined circumstance, not only a tidy one-component diagram.
 
-Return with the shared failure you identified, the targeted change, and the way its independence will be tested. Keep sensitive locations and complete recovery routes outside the ordinary map. More accounts are justified when they reduce a meaningful consequence the family can still manage.
+Include lender-held collateral in this picture. A loan might be modest relative to net worth while a large portion of Bitcoin depends on the lender. Don't review that custody exposure only in the borrowing spreadsheet.
+
+Once you find the shared failure, make a targeted change. That may mean separating recovery, reducing a provider exposure, proving a provider-independent signing path, or simplifying a process so a second person can use it.
+
+More accounts aren't the goal. A change earns its place when it reduces the consequence of a named failure without creating an unmaintainable arrangement.
+
+In the demonstration, we'll cross out one dependency on a non-secret example map and identify what still works. Actual independence remains a claim to verify through the relevant documents and safe tests.
+
+Finish with the failure identified, the affected portion, the improvement chosen and the evidence needed to confirm it. Then update the existing custody map rather than create another version the family has to reconcile.

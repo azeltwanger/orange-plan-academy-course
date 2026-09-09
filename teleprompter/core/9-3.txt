@@ -1,23 +1,27 @@
-When life changes, handle the immediate cash need first, update the relevant facts, and then decide whether the strategy should change. When a number looks wrong, trace it to its source before trying to repair the result.
+What should you do when something important changes between reviews—or when the app shows a number you can't explain?
 
-An income loss, a new debt, a large medical cost, a move, a death, an inheritance, or a major purchase can change both the current position and future cash flow. Start with the facts that actually changed. Then separate the immediate cash decision from the longer-term strategy review.
+Start by distinguishing a real-life change from a data problem and an idea you are only considering. They lead to different actions.
 
-Suppose the Reeds' variable income falls. First check essential bills, required debt payments and available cash. Then identify which flexible spending, extra debt payments or contributions can change. A household with dependents and no other reliable income may put more weight on retaining liquidity during that interruption.
+A job loss is a changed fact. A missing account balance is a record to repair. A possible career break is a scenario. If you treat all three as a reason to edit every strategy setting, the plan quickly becomes impossible to follow.
 
-Keep the income loss as the factual change. A different contribution route or later work-optional date is a response to compare. Changing both silently would make it hard to understand what caused the new result.
+For a real change, identify the input it affects and the date it begins. Then read the first period that depends on it.
 
-An unexpected windfall also needs a deliberate process. Confirm the amount, ownership, tax treatment, and timing before treating it as money available to invest. A future inheritance remains uncertain until the relevant facts support it. Adding a large optimistic event can otherwise make a weak plan appear funded.
+Suppose household income falls. Update the actual source and its timing, then check bills, required payments, the Reserve and extra contributions. The immediate response may be to pause optional transfers while keeping essentials funded. Don't wait for the annual review to acknowledge that the old surplus is gone.
 
-When a number looks wrong, trace it to its source. A total can differ because the account is stale, an investment is unpriced, history was imported twice, a transfer has not been matched, or the full Plan result uses an older input set. Each explanation has a different resolution.
+For an unexpected result, trace it before changing the plan. Which input, date, account, tax assumption or funding rule produced the number? Is the calculation current? Did an expense appear twice, or did a future event remain after the change became part of today's spending?
 
-Avoid creating a purchase, sale, or cash balance simply to make the total look right. Preserve what is known and answer the specific unresolved question. If you do not know whether an exchange withdrawal was a transfer or a disposal, the record should remain uncertain until the evidence supports the treatment.
+Take a transfer as an example. Money moved between your own accounts should not increase household wealth. If the destination appears without the source reduction, the problem may be duplicate or incomplete records—not an investment gain. Repair the supported facts rather than leave the higher total because the retirement result looks better.
 
-Read the outcome of the correction. Did current quantity change? Did purchase details improve? Did ownership change? Did the plan need to update? A receipt should help you understand the effect rather than hide it behind a generic success message.
+A tax result that differs from your expectation needs the same discipline. Read the income and sale basis before editing a rate. It may be a real consequence, a missing record, or something requiring professional or product support. You don't need to pretend you know which until the evidence makes it clear.
 
-Optional historical work can sometimes be deferred when it does not affect the current decision. A critical balance or ownership problem needs more care. Snoozing an issue is different from resolving it, and removing an account from the plan changes what the result includes.
+When the change is only an idea, compare it separately. Record what would change and what stays fixed. After reading the effect, decide whether to adopt it. A saved baseline should describe what you intend to follow, not every possibility you have ever tried.
 
-Once the facts are corrected, decide whether the strategy still fits. A lower balance alone does not necessarily justify changing the allocation. A lower balance combined with a new near-term cash need can create a real funding problem. The decision comes from the household's circumstances, not from the urge to restore a prior chart.
+When asking for help, make the question easy to investigate. State the result you expected, the result you saw, the relevant date and input, and the decision it blocks. Share only the information the question needs. A full unredacted backup or wallet secret is not a normal support attachment.
 
-Preserve a before-and-after explanation for consequential changes. Write the source fact, the decision made, and the outside action required. This helps you and your spouse understand the plan later and gives a professional reviewer the context behind the numbers.
+Don't make several compensating edits to recover a preferred percentage. That can hide the original error and introduce more. Keep a before-and-after record of the one correction, then check the downstream result.
 
-Record the source fact, the correction or decision, its effect, and the next outside action. An unresolved question stays unresolved; snoozing it or hiding an account does not settle it. Return to the ordinary review only after the updated plan describes the situation you actually have.
+If the issue affects a time-sensitive bill, loan threshold or tax deadline, address that practical obligation through the proper channel while the planning discrepancy is being resolved. An app investigation doesn't extend a contract or filing deadline.
+
+The final check is whether the facts, adopted strategy, future events and outside instructions now agree. If they don't, keep the unresolved item visible and avoid executing a decision that depends on it.
+
+This is how the plan stays trustworthy: not by never changing, but by making each change understandable. Next we'll read the completed plan in the order that matters to the household and explain it without needing to narrate every screen.

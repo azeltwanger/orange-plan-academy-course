@@ -1,7 +1,7 @@
 # A3.2 — Compare financing terms that a simple payment hides
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/advanced/01-modeling-financing-and-tax.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: advanced
@@ -11,48 +11,48 @@ Use when: a large purchase, business acquisition, or home-equity offer has compl
 
 ### Read aloud
 
-A small starting payment can hide a large later obligation. Compare the whole schedule and exit before choosing a complex financing offer, including what changes when the interest-only period or promotional terms end.
+Two offers can have similar starting payments and very different final obligations. This lesson is for a financing proposal with terms a simple monthly-payment comparison does not capture.
 
-Begin with the same purchase price, amount financed, and date across alternatives. Record cash paid at closing, recurring payments, fees, principal remaining each year, and any balloon or settlement. Then identify what happens after a rate reset or the end of an interest-only period.
+Put the purchase price, cash needed and date at the top. Keep those the same across alternatives. Then build the schedule from closing through the exit.
 
-For a cash-out refinance, compare the cost on the entire replacement mortgage with keeping the old mortgage and funding only the new need another way. A lower advertised rate on one small alternative is not meaningful if the comparison ignores a large old balance being repriced.
+Record cash paid upfront, fees, interest rate and resets, each payment phase, principal remaining, and any final balloon or contingent settlement. The last row is not optional. It is where some of the most important cost can be hiding.
 
-For seller financing, read the security interest, guarantees, default remedies, payment schedule, and final balloon. For business debt, test the cash available after payroll, working capital, maintenance, taxes, and ordinary operating costs. A projected sale of the business is a different repayment source from recurring cash flow.
+The earlier interest-only example makes the point. Paying interest on $20,000 for five years leaves the $20,000 principal outstanding. If the planned exit is another loan, add the case where refinancing is declined. The payment schedule hasn't become workable until the household has an acceptable response.
 
-A home-equity investment can have a settlement tied to future home value or appreciation, with contractual adjustments and fees. Run low, middle, and high future home values at the actual settlement date. Check what happens on sale, refinancing, death, or failure to maintain required conditions. No monthly payment does not mean there is no future obligation.
+For a cash-out refinance, compare the entire replacement mortgage. A household might want a relatively small amount of new cash but have to reprice a much larger existing balance. Compare that with keeping the old mortgage and financing only the new need separately.
 
-Securities-backed credit also requires a purpose check. Non-purpose lines generally restrict using proceeds to buy securities. Margin arrangements have different rules and can expose holdings to rapid maintenance changes or sale. Verify the actual agreement before using a source for an investment purchase.
+A seller-financed purchase may use a low starting payment and a large balance due later. Read the security interest, guarantees, restrictions and default remedies. For a business purchase, compare the debt service with cash after payroll, operating needs, maintenance and taxes—not with sales alone.
 
-Retirement-plan loans depend on plan-specific availability and repayment rules. Evaluate employment changes, missed payments, potential tax consequences, and the effect on contribution capacity. The fact that some interest returns to the account does not eliminate those costs.
+A home-equity investment or shared-appreciation agreement needs its actual settlement formula. It is not a zero-rate loan just because no monthly interest payment appears. Calculate what would be owed under lower, unchanged and higher home values at the relevant dates. Include valuation adjustments, fees, sale or refinancing triggers and other conditions from the contract.
 
-For the Reed renovation comparison, include a smaller project and a delay alongside financing. For an additional Bitcoin purchase, run that investment as a separate decision. A loan that is reasonable for an essential project may still be inappropriate for speculative expansion.
+Then ask where the settlement money comes from. A favorable-looking paper gain doesn't provide cash unless a sale or another funded route is available. The agreement may influence when you can move or refinance, which belongs in the life comparison.
 
-Use Orange Plan only for the terms its engine can faithfully represent. Keep a separate reviewed schedule for an unsupported balloon, contingent settlement, or other contract feature. Do not substitute a normal amortizing loan and call the full agreement modeled.
+Securities-backed credit adds a use restriction check. A non-purpose line generally cannot fund purchases or trading of securities; a margin loan is a different arrangement. Neither should be substituted for the other simply because both use an investment account as collateral.
 
-Use the earlier interest-only illustration as a check. The lower monthly payment does not remove the twenty-thousand-dollar principal. If the intended repayment is refinancing, ask what the household does when a lender declines. For the Reeds' renovation, keeping the project smaller or waiting can be a better fit for the current cash flow than accepting a payment shape they cannot explain through its final settlement.
+Retirement-plan loans add employment and plan-rule consequences. Read what happens if the job ends or payments fail, and how repayment affects other saving. Interest returning to the plan doesn't make the lost flexibility and investment exposure irrelevant.
 
-Return with the cash used now, payments, remaining principal or contingent settlement, collateral, and a credible exit. Keep any term the model cannot represent in a separately reviewed comparison. An unusual structure earns its place only when its benefit is worth the cost and added responsibility.
+For the Reeds' project illustration, keep a smaller project and a delay alongside financing. The current Reserve and extra-card plan already uses the available cash. Unless a new source or a changed commitment is identified, another payment is not funded. Leaving the project unchosen is a reasoned outcome—not a failed financing exercise.
+
+When a term isn't supported in Orange Plan, keep the actual schedule in the existing reviewed comparison worksheet. Don't replace it with a conventional loan and describe the whole agreement as modeled. Read the unsupported obligation alongside any app result before drawing a conclusion.
+
+Finish with a comparison that answers what is paid now, what continues, what remains owed, what is exposed and how it ends. Then decide whether the benefit is worth that complete obligation. An unresolved contract term is a specific prerequisite, not a detail to ignore because the starting payment looks attractive.
+
+### Visual and source notes — not spoken
+
+Existingadvancedcontractscope;nowfullschedule/exit/refinancingrefusal isjobnotrepeatingCoremenu. HELOC/HEI/SBLOC/planloan mechanism references remaininprimarysourceindex; actuallegalagreementcontrol. No unsupportedapp modeling or producthierarchy.
 
 ### Production notes
 
-CFPB HELOC/home-equity-contract and FINRA SBLOC/margin sources. No financing product recommendation or approval promise. Do not add a fake app capability for HEI, seller-financed business, or contingent settlements. Return to 3.5–3.6.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Demonstration plan — not spoken
+
+Build one reviewed offer from closing to finalsettlement,comparekeepingexistingfinance,andshowrefinanceunavailable. Narration: “The small payment ends here. This is what is still owed. Show the source that pays it.” Unsupportedterms useexistingexternalworksheetnotfakefields.
+
+The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
 
 ### Member checkpoint
 
-- Compare full schedules and exit obligations.
-- Verify use restrictions, guarantees, and reset/default provisions.
-- Label unmodeled terms and obtain contract review.
-
-### Source-led visual and teaching notes — not spoken
-
-Full financing schedule, not just monthly payment: upfront cash, annual payments, principal remaining, reset and exit. Keep the $20,000 illustration distinct from the $30,000 renovation comparison.
-
-Editorial reason: Use the unpaid-principal question to make complex financing a complete decision.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
-
-### Advanced demonstration plan — not spoken
-
-Compare the same purpose and date across the actual candidate structures, plus smaller/delay. Inspect a reset and final settlement, and test a refused refinance. Show unsupported home-equity-contract or balloon terms in a labeled external schedule rather than fake app fields. Contract and tax review precede execution. Return to 3.5–3.6.
-
-Use this with the linked core working chapters; it does not create another required lesson or claim an app/device test was performed. Record precise controls and actual outcomes only after the relevant gate is met.
+Explain all payment phases and final settlement under a weaker case before choosing the complex financing proposal.

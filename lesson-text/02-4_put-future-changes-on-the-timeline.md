@@ -1,6 +1,6 @@
 # 2.4 — Put future changes on the timeline
 
-Status: TEACHING_REWRITE_REVIEW — full spoken replacement after Austin's rejection of the bulk pass. New wording awaits voice/judgment review; it is not prior dictation or filming approval.
+Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
 Adapted source: original materials identified below and the unchanged Reserve reference in Lesson 2.3. Prior drafts remain in Git history.
 App references: concepts prepared independently of screen layout; exact behavior and outputs remain unverified until capture.
 

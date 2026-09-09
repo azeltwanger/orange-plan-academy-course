@@ -1,7 +1,7 @@
 # 8.2 — Connect legal authority with the actual recovery process
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/08-family-handoff.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: teach
@@ -10,46 +10,46 @@ Sources: ESTATE, CUSTODY, DICTATION, PRIMARY
 
 ### Read aloud
 
-The person entitled to act needs a process they can actually use. The person who can help with the technology also needs to understand the limits of that role. This lesson connects those two sides for each asset.
+A person can have legal authority and still not know how to begin with a Bitcoin wallet. Another person can know how the wallet works and have no legal authority to use it.
 
-Start with each asset's actual arrangement. Personally held Bitcoin, Bitcoin in a retirement account, a brokerage fund, an institutional custody account, and a trust-owned wallet can have different ownership and recovery paths. One set of instructions should not assume all of them work like a hardware wallet.
+The family plan has to connect both sides without giving unnecessary access to everyone involved.
 
-For direct single-signature custody, whoever has the required signing information may be able to move the Bitcoin. That practical ability is separate from legal entitlement. The handoff needs to manage access without leaving the legitimate process incomplete.
+Start with one absence scenario. Suppose the normal operator is alive but unable to manage the household for several months. Bills continue, a loan may need monitoring, and someone may need information from a financial institution.
 
-A passphrase is an additional secret used to derive a wallet. It does not turn a single-signature wallet into two legal signers. Dividing recovery words and a passphrase between people can introduce dependence on both components, but the suitability of that arrangement depends on the full design, secure storage, exact recovery, and legal roles. It is one possible design to review, not a universal inheritance rule.
+Identify the person authorized under the relevant documents and the provider's process. Then identify the technical support they may need. These could be different people working together.
 
-Multisig uses a defined signing threshold. A two-of-three wallet can require two valid keys, together with the configuration needed to identify and use the intended wallet. Decide who controls each signing capability, which combinations can act, how backups are held, and what happens when a person or provider is unavailable.
+A trusted contact on an account can be useful when the institution is concerned about exploitation or can't reach the owner. It does not automatically give that contact authority to trade or withdraw money. Verify the actual role before relying on it.
 
-A provider can help with recovery or administration, but its exact role must be verified. Can the household recover without it? Which documents does it require after incapacity or death? Does it provide technical support only, or does it control assets under an institutional arrangement? What changes if the provider stops operating?
+Now take the death scenario. The process changes. A power of attorney is not the continuing authority for administering the deceased person's estate. A beneficiary, trustee, or estate representative may act through different procedures, depending on the asset and jurisdiction.
 
-For brokerage and retirement accounts, the institution's beneficiary and estate process governs the account access. Possessing a password is not a substitute for completing that process. Give the family the correct contact and documents rather than instructions to impersonate the owner.
+Don't leave the instruction “use my login.” The provider may require proof of identity, legal status, and specific documents. An authorized person should use the correct process rather than impersonate the owner or improvise around access controls.
 
-For Alex and Morgan, take one custody-map row at a time. Identify the legal owner, the person authorized to direct the process in the relevant situation, the provider or helper, and the first safe step. Keep an unanswered legal or recovery question visible; do not fill it with a password or an instruction to impersonate the owner.
+Direct Bitcoin introduces a practical requirement in addition to authority. The person responsible needs a lawful route to the required keys and configuration, with appropriate technical help. A will by itself does not recreate a missing backup. A backup by itself does not settle who owns the assets.
 
-Then test the row during incapacity and after death. If the legal role is clear but the instructions are inaccessible, improve the access process. If someone can technically move the Bitcoin but has no authority, resolve the legal design rather than assume possession settles ownership.
+Let's use the map from Custody. For a retirement account holding a Bitcoin fund, the family starts with the custodian and the beneficiary process. For personally held Bitcoin, it starts with the designated legal and operational roles and the protected recovery procedure. For a collateral-backed position, loan obligations and lender rights need attention as well.
 
-Then test the table under a simple scenario. Alex is unavailable for six months. Can Morgan identify the assets, contact the right professionals, and arrange ordinary household cash flow without improvising access to every Bitcoin holding? Next test a death scenario, where different legal steps apply.
+Those are different workflows. The map should point to the right one, not direct every helper to the same recovery words.
 
-Look for a circular dependency. The instructions may be behind a login controlled by the unavailable person. The password manager may depend on the same lost device as the email. The only technical helper may have moved or lost contact. These are practical failures you can identify before anyone is under stress.
+Ask what money is available while a longer process is underway. Immediate household bills should not depend on a complicated recovery being completed that day. Check the legally available cash and payment arrangements in the actual household plan rather than assume every joint or individual account can be used in the same way.
 
-Digital-account authority also deserves legal review. Providers may have online legacy settings and terms governing disclosure of information. Applicable state law and consent documents can affect what a fiduciary may receive. Technical possession of credentials and lawful access are not interchangeable.
+Then rehearse the first steps with no real transfers. Give the helper the safe starting document and ask whom they would contact, what authority that person needs, and which item is urgent. The exercise should reveal a missing contact or document before an emergency does.
 
-For every meaningful pool, point to the authorized role and a usable starting path, with the remaining professional verification identified. The family should not have to infer the process from account passwords or wallet vocabulary. The next lesson turns that path into the first instructions they receive.
+When the answer is unclear, fix that connection. Perhaps the provider hasn't confirmed its requirements. Perhaps the attorney and technical helper have never discussed the arrangement. Put that specific coordination task on the list.
+
+A family that expects to sell Bitcoin still needs this process. The goal is an orderly, authorized decision, not convincing a grieving spouse to preserve your exact portfolio. Build instructions that remain useful when the heir's preferences differ.
+
+You finish when the authority, access route, support contact and immediate cash needs connect for the assets that matter. The next lesson puts those first actions into a letter and packet the family can actually use.
+
+### Visual and source notes — not spoken
+
+Estateauthority pluscustodyoperationalaccess;incapacityversusdeathseparate. PrimaryCFPB trustedcontact/POA guidance;actualdeathauthority/providerrequirements dependonlawanddocuments. Neveruseownerloginasdefault or bypasssecurity;technicalhelpernotlegalowner. Immediatecashlegallyaccessiblemustbechecked. Read existing source framework notguaranteeallassetsavailable.
 
 ### Production notes
 
-Retire the old universal heirs-hold-seed/executor-holds-passphrase instruction. No universal trustee concentration waiver. Explain descriptor/policy as sensitive recovery metadata without claiming it signs. Review digital-account consent against applicable law and provider terms; no instruction to bypass access controls.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 ### Member checkpoint
 
-- Match each asset's legal owner and authorized role to its real recovery method.
-- Identify incomplete or circular dependencies.
-- Prepare specific legal and technical questions without storing secrets.
-
-### Source-led visual and teaching notes — not spoken
-
-Legal owner / authorized role / operational helper / first safe step / open verification. Use one direct-custody row and one institutional row. No universal heirs-hold-seed/executor-holds-passphrase design or bypass of provider procedures.
-
-Editorial reason: Turn legal-versus-operational distinctions into an absence test with a targeted correction.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+Connect lawful authority, operational access, immediate cash needs and technical help for incapacity and death separately.

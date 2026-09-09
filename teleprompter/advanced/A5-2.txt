@@ -1,19 +1,23 @@
-Start with a real candidate holding and the records that support its lots. A harvesting idea is ready to evaluate when you know the units, the identification process, the rest of the year's income, and what exposure you will have afterward.
+A tax-harvesting comparison is not ready for execution just because a spreadsheet found the smallest gain. The units must exist, the selection must be valid, and the resulting record must match what actually happened.
 
-For a loss, compare current proceeds with adjusted basis and include transaction costs. Identify which existing gains or future tax items the loss may offset. The tax value depends on the actual return and carryforward situation, not simply the size of the loss shown on screen.
+Use this lesson when you have a specific candidate sale. Begin with the account or wallet, quantity, supported basis, holding period and intended exposure afterward.
 
-For a gain, estimate the amount realized and the effect on the full year's taxable income. A favorable federal capital-gain rate can still come with state tax or other income-related costs. A conversion or unexpected business income can use the same planned tax room.
+The course's three-lot example produces $8,400, $16,800 or $9,600 of gain from the same $20,000 sale. Those are alternatives only to the extent the relevant units can actually be identified and sold under the applicable rules.
 
-Verify the identification rules that apply to the asset, account or wallet, custodian, and year. Broker-held digital assets can have different reporting and transitional provisions from assets in an unhosted wallet. Do not assume a software lot-selection preference alone satisfies the requirements.
+Suppose the lowest-gain row depends on a missing purchase confirmation. Don't choose it and hope the record appears later. Resolve the evidence or compare an alternative whose basis and identification can be supported.
 
-Replacement exposure needs a separate check. Securities are subject to wash-sale rules under their applicable conditions. Personally held Bitcoin should not be treated as though every stock rule applies identically, but neither should an older crypto-tax article be treated as permanent permission for a particular transaction. Obtain current tax review of the actual sale and any repurchase.
+Now prepare the identification before the required deadline. The actual asset, location, custodian and transaction year determine the rules. Broker-held digital assets and an unhosted wallet can have different procedures. Temporary relief in a particular year is not permanent permission to reconstruct any preferred lot choice after the sale.
 
-Keep the order clear: model the opportunity, verify the proposed transaction, execute with the provider, then record what actually happened. The recorded proceeds, fees, quantity, identified units, and date should match the confirmation. Reconcile remaining lots and realized activity afterward.
+A planning app's selection is not automatically an instruction received by a broker or a legally adequate record. Keep the evidence of the actual instruction or contemporaneous identification required for the transaction.
 
-An outside transfer to prepare for a trade may also need to preserve history. Avoid importing the same purchase again at the destination. A network fee and an acquisition cost need their correct supported treatment rather than being hidden by changing quantity until totals match.
+For a loss harvest, check the replacement exposure before placing the sale. Automatic purchases, reinvestment, another account and a spouse's relevant activity can affect a securities wash-sale analysis. Don't assume a Bitcoin fund and directly held Bitcoin have identical treatment. Obtain current review of the actual transaction rather than repeat an old crypto-tax shortcut.
 
-For the Reed example, use the three-lot illustration to compare the gain produced by the same sale amount. Then stop before execution and build the evidence checklist. The lowest theoretical tax result is not useful if the records and custodian process do not support it.
+For a gain harvest, update the rest of the year's income. A conversion or business-income change can consume the same favorable room. Federal gain treatment alone doesn't establish the full state, healthcare or other income-sensitive cost.
 
-In the three-lot example, selling the same amount produces different gains. That comparison is useful only for units you can actually identify under the applicable rules. If the lowest-gain result depends on an unsupported purchase record or a process the custodian cannot carry out, resolve that first or compare an eligible alternative. The best-looking row is not an execution instruction.
+Then work through the operational sequence: reviewed proposal, necessary identification, external execution, confirmation, and reconciliation. If funds move between your own wallets beforehand, preserve their history rather than create a new purchase at the destination.
 
-Return with either a verified proposed action or a deliberate decision to pass, then record only what actually happens. Preserve the confirmation, remaining-lot continuity and tax-reporting reconciliation. A planning choice made after the sale does not by itself establish that the required identification occurred in time.
+After the trade, match the actual units, time, proceeds, fees and selected history with the confirmation. Verify the remaining lots and current holding quantity. A tax report should explain the position left over, not just the realized result.
+
+Keep a small transaction packet with the source evidence and reason for the decision. It supports the professional review and reporting. An export labeled tax data is not a filed return, and it doesn't establish that every classification was correct.
+
+The outcome can be a verified proposed transaction or a decision to pass because the expected benefit isn't worth the cost or unresolved evidence. In either case, you have finished the evaluation instead of leaving an attractive but unexecutable row in the plan.

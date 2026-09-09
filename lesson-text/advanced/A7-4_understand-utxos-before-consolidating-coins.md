@@ -1,7 +1,7 @@
 # A7.4 — Understand UTXOs before consolidating coins
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/advanced/02-access-custody-and-estate.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: advanced
@@ -11,46 +11,50 @@ Use when: the household has many small Bitcoin receipts or is considering consol
 
 ### Read aloud
 
-Before consolidating Bitcoin, understand what you are combining and why. A balance can be made of many unspent outputs. Spending more inputs can affect transaction size, fees and privacy, even when the total Bitcoin sent is the same.
+Your Bitcoin balance may look like one number, but the wallet can spend it using several separate unspent transaction outputs, usually called UTXOs. Understanding that helps when fees, privacy or many small receipts become a real issue.
 
-Transaction fees depend primarily on the transaction's data weight and the fee rate, not simply on the dollar amount being sent. Spending many small outputs can require more transaction data than spending one larger output of the same total value.
+You don't need to manage every output by hand for ordinary use. This lesson is for a consolidation or coin-control decision with a specific purpose.
 
-That matters for frequent small withdrawals or long histories of small receipts. A balance may be worth holding, yet parts can be expensive to spend when fees are high. There is no permanent dollar or Bitcoin threshold that is correct in every fee environment.
+Think of the wallet's spendable balance as separate pieces created by earlier transactions. A new transaction selects pieces as inputs and creates new outputs, including change when appropriate. The fee depends on the transaction's data size and the selected fee rate—not simply how many dollars you are sending.
 
-Consolidation spends several outputs into fewer outputs you control. It can reduce the number of inputs needed later, but it also has a fee today and privacy consequences. Combining outputs can link them on the public transaction graph. Coin control can help manage which outputs are combined when the wallet supports it.
+Virtual bytes are a measure used for that size. Satoshis are small units of Bitcoin. A fee rate in satoshis per virtual byte lets you compare how much the selected transaction would pay.
 
-First identify the purpose. Are you reducing future spending complexity, preparing for a planned transaction, or responding to a fee concern? Then check current fee conditions, wallet support, backup status, and the privacy trade-off. Consolidating everything because a course mentioned it is not a useful rule.
+For an arithmetic example, a preview of 500 virtual bytes at 2 satoshis per virtual byte gives a fee of 1,000 satoshis. At 20 satoshis per virtual byte, that same size costs 10,000 satoshis.
 
-Use the correct network and verify the destination through the trusted device process. A transaction to yourself still needs careful review. Confirm that the wallet and tax records preserve the movement and any relevant fee treatment without inventing a new purchase at the current price.
+Those are invented previews, not today's fees or the size of every wallet transaction. The wallet and script type, inputs and outputs determine the real size. They show why both size and the fee rate matter.
 
-For multisig or other wallet types, input size and recovery requirements can differ. Use the actual wallet's current documentation and test with a small value where appropriate. Avoid manually following a procedure written for a different script type or device.
+Spending many small outputs can require more transaction data than spending fewer larger outputs. Consolidation combines selected outputs into fewer outputs you control. That can reduce the input work needed for a later payment, but you pay a fee now to do it.
 
-The separate demonstration uses a small test setup. Match any procedure to your own wallet and backup method before using it. You may conclude that no consolidation is necessary now.
+Privacy changes too. Combining outputs can reveal a common-control link between histories that were previously separate. Don't consolidate everything by default just because the fee looks low. A future convenience can come with a link you cannot undo on the public transaction record.
 
-Use the wallet's fee preview and coin selection to compare a proposed transaction with fewer inputs. The useful question is whether paying a fee now and linking those outputs is worth the possible later simplification. Current fee conditions can change, and the actual size depends on the wallet and transaction. A course example cannot supply a permanent consolidation threshold for your holdings.
+Coin control, when supported, lets you choose which outputs to spend. First identify why you are doing that: preparing for a particular payment, reducing future complexity, or keeping sources separate. Then compare the actual preview with the wallet's ordinary selection.
 
-Return with a deliberate decision to consolidate or leave the outputs alone, the fee/privacy trade-off understood, and a verified safe transaction process. Match any procedure to your own wallet and backup method. More wallet activity is not itself an improvement.
+There isn't a permanent dollar or Bitcoin cutoff for useful consolidation. An output's cost to spend depends on the fee environment and transaction type. A quoted dust threshold from a different script or policy isn't a universal minimum for every wallet.
+
+Before transacting, verify the wallet setup and recovery status. Use the correct network and the trusted device process to confirm the destination. A self-transfer still sends real funds and deserves the same address and fee checks as another payment.
+
+Preserve the ownership and purchase history in the records. Moving coins to your own new output does not automatically mean you acquired the Bitcoin again at today's price. Real transaction-fee treatment needs the appropriate supported tax handling rather than an invented balancing purchase.
+
+The demonstration uses a separate small-value setup. It shows the available outputs, actual preview and privacy comparison without publishing sensitive addresses or recovery material. Match the procedure to the exact wallet and software before using it with your own holdings.
+
+The solution may be a selective consolidation, a different input choice, or no transaction now. You should be able to explain the fee paid today, the possible later benefit and the privacy cost. More wallet activity is not a completion requirement.
+
+### Visual and source notes — not spoken
+
+Current Trezor coin-control and UTXO documentation and COLDCARD UTXO management support input, fee and privacy mechanisms; no universal dust value carried into narration. New hypothetical 500 vB at 2 or 20 sat/vB gives 1,000 or 10,000 sats. Actual size depends on wallet/script and inputs/outputs. No live fee quote, specific address, real secret, blanket consolidation or tax-basis reset. Device capture remains gated.
 
 ### Production notes
 
-Use Bitcoin developer documentation and current wallet-specific coin-control instructions. No universal dust cutoff, fee quote, address publication, or secret display. Tax treatment of network fees requires applicable review. Return to 7.2–7.4.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Demonstration plan — not spoken
+
+Use an approved practice wallet to inspect actual output selection and fee preview; show the generic multiplication separately. Narration: “This is the fee for this transaction shape. Consolidating may simplify a later payment, but it spends fees now and links these outputs.” No broadcast until explicitly authorized and exact procedure verified; no sensitive identifiers filmed.
+
+The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
 
 ### Member checkpoint
 
-- Explain output count, fee weight, and consolidation trade-offs.
-- Verify wallet support and recovery before transacting.
-- Consolidate only for a defined purpose under a safe current procedure.
-
-### Source-led visual and teaching notes — not spoken
-
-Generic inputs → recipient/change outputs and a fee-preview comparison; no actual wallet address or live fee quote. Distinguish a self-transfer from a new purchase in tax history.
-
-Editorial reason: Make coin consolidation a conditional maintenance decision with fee and privacy consequences.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
-
-### Advanced demonstration plan — not spoken
-
-On the separately approved test setup, inspect output selection and the actual fee preview without revealing sensitive identifiers. Compare input counts, explain privacy links and verify the destination on the trusted device. No transaction until the exact wallet procedure and recovery status are reviewed. Return to 7.2–7.4.
-
-Use this with the linked core working chapters; it does not create another required lesson or claim an app/device test was performed. Record precise controls and actual outcomes only after the relevant gate is met.
+Choose a justified consolidation, coin-control action or deliberate pass after reading the actual fee/privacy trade-off and safe procedure.

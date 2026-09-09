@@ -1,7 +1,7 @@
-# 4.1 — Read the same portfolio in four useful ways
+# 4.1 — Understand the portfolio you already own
 
-Status: TEACHING_REWRITE_REVIEW — individual spoken replacement using the accepted Reserve reference. Integrated wording awaits Austin's voice/judgment review; app recording remains separate.
-Adapted source: original Accounts + Allocation deck, Global Brain allocation playbook, older account-placement framework and the current course scope. New connective wording is editorial, not prior dictation.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: use the approved redesign for actual views, included assets and save behavior.
 
 Kind: teach
@@ -10,76 +10,50 @@ Sources: ALLOCATION, ALLOCATION_DECK, OWNER, APP
 
 ### Read aloud
 
-Before we decide what to buy next, let's look at what you already own. We want to know how much Bitcoin exposure you have across all your accounts, what the other money is doing, and whether those accounts fit the life you're planning.
+You may already know what percentage you want in Bitcoin. But that leaves another question: what should the rest of your portfolio do?
 
-You may have built the portfolio a little at a time. A retirement plan through work, an IRA from an old job, some Bitcoin you bought on an exchange, and money in the bank. Each decision may have made sense when you made it. Now we're going to look at them together.
+Some of it might be cash you need soon. Some might be stock funds inside a retirement plan. You may own property or a business as well. Before changing anything, let's understand the portfolio you actually have.
 
-There are four useful ways to read that picture. What are you invested in? When do you expect to use the money? What rules come with the account? And what does that account actually hold?
+We're going to build from that picture, not start with a model portfolio and tell every household to copy it.
 
-These are different questions about the same money. We're not creating four new balances to add together.
+First, add up what you own across accounts. Looking only at your wallet can understate your Bitcoin exposure when retirement accounts hold Bitcoin funds too.
 
-Start with the investments. Add up the exposure across accounts rather than look only at where you bought it.
+For Alex and Morgan, the investments we're using in this allocation example total about $1.3 million. They have $410,000 of direct Bitcoin value and $318,000 of spot Bitcoin-fund exposure in retirement accounts. Together, that is $728,000—about 56% of this group of assets.
 
-Suppose you hold Bitcoin in your own wallet and a spot Bitcoin fund inside an IRA. They aren't the same arrangement, but both contribute to your exposure to Bitcoin's price. Looking only at the wallet would miss part of the position.
+That isn't the number of coins they control directly. The fund is still a security in its account. We combine its dollar exposure when looking at the investment mix and keep its ownership and custody arrangements separate.
 
-For Alex and Morgan, the financial assets we're using for this allocation example total about $1.3 million. Their personally held and professionally custodied Bitcoin is worth $410,000 at the frozen teaching price. They also have $318,000 of spot Bitcoin-fund exposure in retirement accounts.
+Check what is included in the percentage. Here we're leaving out the home and dedicated education and health accounts. Those haven't disappeared from the family's balance sheet. They have other jobs, so they aren't included in this particular target comparison.
 
-Together, that's $728,000 of Bitcoin exposure—about 56% of this group of assets. The wallet balances alone would give them a very different impression.
+You could measure Bitcoin against all assets, net worth, or a defined investment portfolio and get three different percentages. Choose the group that answers your question and keep it the same when comparing today with your target.
 
-Don't turn that combined dollar exposure into a number of coins they personally control. The fund is still a security held in its account. It gives them a different way to hold exposure, with different fees, access, and custody arrangements.
+Now look at the non-Bitcoin holdings. Do you know why each one is there?
 
-The same care applies to a company associated with Bitcoin. Owning its shares isn't identical to owning Bitcoin. The company has its own business and financing decisions, and the share price reflects those too. We want the portfolio record to describe what you actually own, not put everything with Bitcoin in its name into one interchangeable category.
+Maybe your workplace account still holds the fund selected when you started the job. Maybe an investment fits your plan well, even though you haven't thought about it recently. Or money may be sitting in a brokerage account because a transfer happened but a purchase did not. Those are possibilities to check, not reasons to move every account.
 
-Next, check which assets are included in the percentage.
+Open one account and look inside. Alex's Roth IRA is worth $145,000. Its $116,000 of Bitcoin-fund exposure and $29,000 of stocks explain that total. We already established how to count accounts in the first session; here we're asking whether those holdings serve the intended purpose.
 
-Our allocation example leaves out the Reeds' home and the money specifically set aside in education and health accounts. Those assets haven't disappeared. They are still on the balance sheet, with other jobs. We're simply looking at a defined group when we compare the investment mix.
+Then ask when you expect to use the money. A retirement account may hold investments for much later. A taxable account may include money for both an approaching purchase and a long-term goal. The account name doesn't tell you when every dollar will be spent.
 
-That matters when you read two different percentages. Bitcoin as a share of your entire net worth isn't the same calculation as Bitcoin as a share of these financial assets. Neither number is useful unless you know what it includes. When we compare Current and Target later, both need to use the same group.
+Finally, check what current contributions buy. The place money goes and the investment it buys can be separate instructions. You may want to keep the account and change only its future purchases.
 
-Now look at when the money is needed.
+For this review, identify the mismatch that matters most. Is cash waiting with no near-term purpose? Is an approaching expense relying on an investment you don't want to sell? Is your workplace account buying something you no longer intend to own?
 
-Some of their cash is there for this month's bills. Some is assigned to the Reserve. Some investments may fund the first years after work stops, while other money can remain invested much longer.
+No mismatch is a valid finding too. Reviewing a portfolio doesn't require a trade.
 
-A large total doesn't answer those timing questions. You could have plenty saved for later retirement and still be short of money you can use in the first few years. Or you could be counting the same cash toward a renovation and an emergency cushion.
+By the end of this section, you should be able to explain the entire mix: the Bitcoin position, the other investments, the cash, and how they support your life. We will take the decisions in order. First establish Bitcoin's intended role. Then choose what the remaining money needs to provide, decide the amounts, and work through accounts and contribution instructions.
 
-We'll work through those uses in detail in Lesson 4.3. For now, notice what each account is supposed to help fund. An account with no clear purpose may need a decision before it needs another contribution.
+In this first working chapter, read the current holdings and identify one question to resolve. Keep that question beside the portfolio as we build the target.
 
-The third view is the account's tax and access rules.
+### Visual and source notes — not spoken
 
-A taxable brokerage account, a Traditional retirement account, and a Roth account can hold similar investments while treating contributions and withdrawals differently. An HSA or education account has another set of conditions. The account name tells you something important, but it doesn't tell you what the money is invested in.
-
-Self-custody is another distinction. It describes control of the Bitcoin. It does not, by itself, turn personally held Bitcoin into a tax-free retirement account. When Bitcoin is held through a retirement arrangement, that arrangement still has rules about using it.
-
-Finally, look inside each account.
-
-Alex's Roth IRA is worth $145,000 in the example. It has $116,000 of Bitcoin-fund exposure and $29,000 in stocks. Those holdings explain the $145,000. We don't add the holdings to the account balance and count the same money twice.
-
-This view can also reveal something the household total hides. Perhaps an old retirement account is still buying the default fund from when you opened it. Or money transferred to a brokerage account has been sitting in cash because the recurring purchase was never set up.
-
-Ask what new money currently buys, not just which account receives it. The answer might be exactly what you intend. If it isn't, you've found a specific thing to fix.
-
-You don't need to recreate every statement in another spreadsheet. Use the account records already in the plan. For each one, understand the owner, the current investments, the intended use, and where contributions are going. Keep missing information visible rather than filling it with a guess.
-
-The goal isn't to make every account look the same or to make the chart prettier. We want to find the mismatch that matters. Is some money invested for the long term even though you'll need it soon? Is a retirement account being counted on before you've checked access? Are contributions still following an old choice?
-
-If nothing needs changing, that's useful too. You don't have to move money just because we're reviewing it.
-
-In the working chapter, we'll look at the same portfolio from these four angles and identify what deserves attention first. Then we'll decide the role Bitcoin should play and size the positions for the different years when the money will be used.
-
-### Visual notes — not spoken
-
-Use the existing deck's current-setup/account review, showing one account at a time before the combined chart. Teaching subset: $1,307,000; $410,000 direct native BTC value plus $318,000 spot-fund exposure = $728,000; stocks $504,000; cash/Treasury teaching category $75,000. BTC share approximately 55.70%. Home/HSA/education are excluded only from this allocation subset, not the balance sheet. Native quantity remains 4.1 BTC, not $728,000 divided by the teaching price.
-
-Show the IRA boundary once: $116,000 + $29,000 = $145,000. Use the four views as questions, not four additive buckets. Put exact amounts on screen; narration rounds the combined group. No unprovided security ticker, default fund, transaction history, account purpose or idle-cash balance is invented as a Reed fact.
+Deck Step 1, current holdings and their jobs. Preserve general subset $1,307,000, native $410,000, fund $318,000, aggregate $728,000; excluded home/HSA/education remain on balance sheet. No new current facts or exact securities.
 
 ### Production notes
 
-Source basis: retrieved text and speaker-note excerpts from OrangePlan-Week3-Accounts-Allocation.pptx; Global Brain V18.8 Allocation Strategy/Playbook; older protocol Module 4A. Current lesson's four-view organization and scoped fixture remain. The old outline and deck are not proof of current app screens. This pass did not inspect original audio or an entire client call. Generic examples about an old default holding or idle cash are editorial possibilities, not reported client events.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
-W04 chapter 1 must reconcile the actual eligible app denominator against the teaching subset. Never change visible balances to force the target percentage. Missing holdings stay unknown or use a supported Estimated mix; a balance-only investment account is not cash. Correcting current facts and changing future purchases remain separate actions. Actual investment structures, fees and custody terms require review when a product is named; no product recommendation is added here.
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 ### Member checkpoint
 
-- Explain overall exposure without confusing account balances with their contents or fund exposure with native Bitcoin.
-- Identify which assets are included and why before comparing percentages.
-- Name a relevant mismatch in access, intended use or current purchases—or explain why the setup can stay as it is.
+Explain the included current portfolio and identify a mismatch in purpose or purchases, or a reason to keep it.

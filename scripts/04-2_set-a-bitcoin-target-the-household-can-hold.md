@@ -1,7 +1,7 @@
-# 4.2 — Find your Bitcoin path
+# 4.2 — Choose the role Bitcoin plays in your plan
 
-Status: TEACHING_REWRITE_REVIEW — revised after Austin's section-level feedback. This lesson establishes Bitcoin's intended role; 4.3 completes position sizing by timeframe. Integrated voice/judgment review remains open.
-Adapted source: OrangePlan-Week3-Accounts-Allocation.pptx, Step 2 and speaker notes; Austin's September 8 instruction to preserve the four paths without repeating the drawdown lesson.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: no target save or investment order is required to choose a descriptive path.
 
 Kind: teach
@@ -10,56 +10,46 @@ Sources: ALLOCATION, ALLOCATION_DECK, BRAIN, OWNER
 
 ### Read aloud
 
-Before we choose percentages, let's decide what role you want Bitcoin to play in your plan.
+Two people can understand Bitcoin well and still choose different allocations. One wants it as a smaller part of a mixed portfolio. Another wants it to be the main long-term asset. Neither choice tells us what the rest of their money needs to do yet.
 
-Some people want a small position because they're still learning. Others see it as their main long-term investment. Both need a plan, but they aren't trying to build the same portfolio.
+Before choosing amounts, decide what role you actually want Bitcoin to play. Is the current position intentional, or did price changes and old contribution choices choose it for you?
 
-I use four Bitcoin paths to help explain that difference: Foundation, Integration, Optimization, and Sovereign. They describe how you're using Bitcoin, not how much money you have or how successful an investor you are.
+The four paths on the slide help describe that intention.
 
-Foundation is the starting point. You're interested, but you haven't decided that Bitcoin should carry a major part of your financial future.
+Foundation is the learning stage. The original example range is 1% to 5%: enough to begin understanding the investment and the practical work of holding it, without making the entire plan depend on it.
 
-In the slide, I show an illustrative range of 1% to 5%. The position gives you a reason to learn: why Bitcoin exists, what you actually own, and how to buy and hold it. The rest of the portfolio is still doing most of the work. There is no need to make a large commitment before you understand why you're making it.
+Integration describes someone who has decided Bitcoin belongs alongside their other investments. The slide uses 10% to 20% as an illustration. Bitcoin is part of the long-term plan rather than an unrelated trade.
 
-Integration means you've decided Bitcoin belongs in the plan alongside your other investments. The example range is 10% to 20%.
+Optimization gives it a larger role. In the slide's 25% to 50% examples, Bitcoin may be a principal growth asset. The other investments, liquidity, and account choices need to support that decision.
 
-At this point, ask what Bitcoin is adding or replacing. Maybe it becomes part of the growth allocation that was previously all stock funds. You aren't simply adding another investment without looking at the combined portfolio. You're deciding that some of the money you were already investing should now have Bitcoin exposure.
+Sovereign describes a person who sees Bitcoin as the main place to hold long-term purchasing power. The slide uses 50% or more. Direct control may matter strongly to them, but the household still needs a practical way to fund expenses and manage the position.
 
-Optimization is a larger role, illustrated at 25% to 50%. You understand the thesis and want Bitcoin to be a major source of long-term growth.
+These are descriptions, not grades or a ladder you have to climb. The ranges aren't recommendations or precise dividing lines. Someone doesn't become a different kind of investor because their position moves from 49% to 51%.
 
-The question becomes how the other pieces support that choice. Which money still needs to stay accessible? Which accounts can hold the investments you want? What does the household need to understand about the plan? Bitcoin isn't a separate experiment anymore. It is part of how you intend to fund your future.
+Use the paths to answer a simpler question: how important do I want Bitcoin to be in this plan, and why?
 
-Sovereign is the most Bitcoin-centered path, illustrated at 50% or more. You see Bitcoin as the main place to hold long-term purchasing power, rather than a small addition to a conventional portfolio.
+For example, someone may choose to test 50% Bitcoin because they want it to be a major long-term holding while retaining substantial ownership of other investments. That doesn't tell them to put the other 50% in cash. Another person may want a much smaller Bitcoin position and use other assets for most of the long-term growth.
 
-That still leaves jobs for other money. Cash can pay an approaching bill without requiring a Bitcoin sale. Other investments may have a role you deliberately want to keep. A Bitcoin-first plan doesn't require every account, or every dollar, to look the same.
+The question isn't which person is more committed. It is how to build a portfolio each one understands and can follow.
 
-These ranges are examples to help with the conversation. They aren't cutoffs you have to fit inside, and the last path isn't a destination everyone needs to reach. Learning more doesn't obligate you to increase the position.
+Discuss that intention with anyone sharing the consequences. Your spouse doesn't have to know every technical detail of Bitcoin to understand why it has this role and what the household will use for spending. An unexplained position can become a much harder conversation during a decline.
 
-Use the same group of assets we reviewed in the last lesson when you discuss a percentage. A share of your investment portfolio is different from a share of net worth that includes your home. And these aren't instructions to put the same percentage into each account.
+For now, write the role you want Bitcoin to have and a starting percentage or range to test. You may decide to keep today's position. You may have a reason to increase or decrease it over time.
 
-Your current allocation may not describe your intended role. Bitcoin may have risen until it became a much larger position than you originally chose. Or you may want it to play a larger role while most new savings still buy the investments you selected years ago.
+We aren't saving a final target yet. In the next lesson, the spending needs and the other investments may show that your starting idea needs adjusting. That is useful information, not a failure of conviction.
 
-Start by putting that intention into words. “I'm learning with a small position.” “I want Bitcoin alongside my stock investments.” Or, “I want it to be the main long-term holding, with other money available for the things it shouldn't have to fund on short notice.”
+Let's take the question many Bitcoin holders have: “I'm comfortable with 50% Bitcoin. What should I do with the other half?” We'll build that answer from what the money needs to provide.
 
-The position also needs a holding and recovery arrangement you understand. We'll work through custody later; choosing a path here doesn't prescribe a particular wallet or require you to replace every fund with directly held Bitcoin.
+### Visual and source notes — not spoken
 
-For now, choose the description that best fits what you believe and what you want the investment to do. You don't need a final percentage yet.
-
-Next, we'll divide the money by when you expect to use it. That is how we turn “I want a Bitcoin-heavy plan” into actual position sizes—without treating money for next year's bills like money you can leave invested for twenty years.
-
-### Visual notes — not spoken
-
-Use the original four-path slide as the visual spine: Foundation 1–5%, Integration 10–20%, Optimization 25–50%, Sovereign 50%+. Preserve them as illustrative, non-contiguous conversation ranges, not prescribed limits, suitability scores or a required progression. Their overlap/gaps are not algorithmic classifications. Use the same portfolio scope introduced in 4.1; do not silently switch to net worth or per-account targets.
-
-Present each role with the question it answers. Do not replay a 70% drawdown calculation, repeat the Reserve funding exercise, or save the hypothetical 60/34/6 target here. Custody is a later implementation topic, not an exchange-to-multisig rank that must match a percentage.
+Deck Step 2 four original paths and indicative ranges retained as orientation, not recommendations or wealth/custody rankings. No repeated drawdown arithmetic or premature target save. The requested whole-portfolio question is handed to 4.3.
 
 ### Production notes
 
-The prior version expanded the deck's later stress check into the main teaching and selected a target before teaching position sizing. That sequence is superseded. This lesson corresponds to Step 2, not Steps 3–5, of the Accounts + Allocation deck. The percentages are Austin's supplied teaching examples, not external allocation recommendations or evidence of higher investment competence.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
-W04 chapter 2 now records the intended role or a current-versus-intended mismatch only. Chapter 3, after 4.3, owns the amount-by-timeframe, sizing comparison and final target check. No new Reed decision, account transaction, custody instruction or app capability is supplied. Existing file paths are retained so prior references continue to resolve; the displayed lesson title is generated from this heading.
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 ### Member checkpoint
 
-- Describe the intended role of Bitcoin using the four paths without treating a range as a required allocation.
-- Distinguish that intention from today's percentage, price movement or a per-account investment instruction.
-- Carry the chosen role into the timeframe sizing exercise; do not finalize a target or trade before it.
+State Bitcoin's intended role and a starting range to test without treating a path as a final recommendation.

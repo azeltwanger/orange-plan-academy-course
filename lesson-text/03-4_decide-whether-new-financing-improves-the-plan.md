@@ -1,6 +1,6 @@
 # 3.4 — Decide whether new financing improves the plan
 
-Status: TEACHING_REWRITE_REVIEW — individual spoken replacement using the accepted Reserve approach. New wording awaits Austin's voice/judgment review; no recording or publication approval is implied.
+Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
 Adapted source: original Debt Strategy benefits and tolerance teaching; Austin debt playbook; accepted Core financing scope.
 App references: this lesson prepares a decision, not a loan application or a claim of current product support.
 

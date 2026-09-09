@@ -1,7 +1,7 @@
 # 5.2 — Repair purchase history without inventing it
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/05-tax-strategy.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: teach
@@ -10,44 +10,54 @@ Sources: TAX, DICTATION, CLIENT_THEMES, APP, PRIMARY
 
 ### Read aloud
 
-You may know how much Bitcoin you own and still be missing part of its purchase history. The job here is to recover what the evidence can support, identify what remains uncertain, and work first on the gaps that affect your next real decision.
+What do you do when you own the Bitcoin but the purchase history is scattered across old exchanges and wallets?
 
-Start with the records that exist. Download the available transaction history from every exchange and brokerage you used. Gather statements, trade confirmations, payment records, and previous tax work. Preserve original files before making changes. A dated folder makes it easier to explain where a figure came from later.
+You don't need to invent a basis to move forward. You need a way to rebuild the record and distinguish a missing purchase from an ordinary transfer.
 
-Work account by account. Compare the known starting position, acquisitions, disposals, and transfers with the current holdings. A mismatch may come from duplicate imports, a missing transfer, a fee, a sale, or an incomplete source period. It needs an explanation rather than a made-up transaction that forces the total to agree.
+Start with the holding involved in the decision you are trying to make. If you are considering a taxable sale, repair that history first. A missing old trade inside a retirement account may have a different priority from missing basis on coins you intend to sell next month.
 
-Preserve the original files and review how each record is being interpreted. A purchase, an own-account transfer, and a sale tell different stories. Importing the same history twice or using a made-up transaction to balance the account makes the record less useful, even if the final total looks right.
+Gather the original exports, trade confirmations, statements, and wallet activity you already have. Keep untouched copies. They are evidence, not something to overwrite each time an import produces a different answer.
 
-Now separate missing information from incorrect information. You may know the quantity and date but lack the total paid. You may know an acquisition occurred in a certain period but lack a reliable exact date. You may have a current balance and no usable acquisition history. Each gap has a different next step.
+Then put the events in order. Which entries show a purchase? Which show a sale? Which simply move your assets from one place to another?
 
-Reasonable reconstruction begins with evidence. Look for bank payments, contemporaneous emails, old statements, previous returns, and any other reliable records that narrow what happened. Document the method and its limitations. A historical market price alone does not prove that you bought that quantity at that price, and a plausible estimate is not automatically accepted tax basis.
+Here's a simple example with fees left out so the relationship is clear. You buy 0.1 Bitcoin on an exchange and later move that 0.1 to your own wallet. The exchange shows a withdrawal. The wallet shows a receipt.
 
-Bring uncertain treatment to a qualified tax professional. The course can help organize the question and the records; it cannot turn unsupported precision into a filing fact. Keep the uncertainty in the planning system until it is resolved. A separate conservative tax scenario can illustrate a low-basis outcome without changing unknown historical basis into zero.
+Those aren't three purchases. The purchase created the position. The withdrawal and receipt describe the transfer of the same position.
 
-For retirement accounts, focus on the records relevant to that account's tax rules. Current holdings matter for projections. Roth contribution and conversion history, distributions, rollovers, and nondeductible Traditional basis can matter for access and taxation. Those records have different jobs from taxable trading lots.
+If an import treats the wallet receipt as a new purchase, it may invent a second position or a new basis. If it treats the exchange withdrawal as a sale without evidence, it may invent a taxable event. Follow the records across both sides before deciding what happened.
 
-Also distinguish an account total from a complete tax record. A provider may keep the balance current while providing only a limited period of activity or no usable purchase details for an older holding. A healthy connection is not proof that every tax-sensitive fact is complete.
+Now compare the reconstructed quantity with what you actually hold. Do the purchases, sales, and transfers explain the remaining units? A difference could be a missing transaction, a fee, duplicate history, or a record that belongs to another account. Investigate the cause instead of adding a balancing purchase to make the total agree.
 
-The Reeds' direct-Bitcoin history remains a visible work item. They can still make the reserve and cash-flow decisions. If they intend to sell a particular holding soon, the quantity, date, cost, and transfer evidence for that holding become the priority. We do not need to treat every missing record as equally urgent, and we do not call a tax-sensitive result settled while its basis is unsupported.
+When a transfer includes a fee, record the fee under the actual rules and supported evidence. The simple no-fee example doesn't settle the treatment of a real network or transaction cost.
 
-Finish with a short cleanup list ordered by the next actual decision. Which holding may be sold soon? Which transfer is causing duplication? Which uncertainty could materially change the tax estimate? Work on those first instead of treating every old record as equally urgent.
+Some records won't be available immediately. Mark exactly what is missing. You may know the current quantity and custody location while the acquisition cost is still unresolved. Keep the known position and the unknown history separate.
 
-Keep a short cleanup list: the missing fact, where you will look for evidence, which decision it affects, and whether professional review is needed. In the demonstration, we'll compare the position before and after adding history. Better history should explain the current assets, not add another copy of them.
+A bank payment can help establish that money went to an exchange. It may not, by itself, identify the quantity, price, fee, and time of the Bitcoin purchase. Use corroborating evidence rather than turning one incomplete record into a precise tax lot.
+
+Pay attention to ownership changes too. A transfer between your own wallets is different from receiving a gift or an inheritance. Those can have different basis and documentation rules. Name the type of event and obtain the evidence for it; don't treat every receipt as an ordinary purchase.
+
+Then reconcile prior disposals with the filed tax record. The units already sold should not still appear as available lots. A loss carryforward needs support from the return and intervening activity, not merely an old screenshot showing a loss.
+
+Tax software can help organize the work, but its output still needs checking. Ask what the import supplied, how transfers were matched, which method was used, and where an assumption filled a gap. A report with many decimal places can still be built on the wrong transaction type.
+
+Provider tax reporting is useful evidence, not proof every history detail is complete. A broker may report a sale without the full basis you need. Your responsibility to reconcile the transaction doesn't disappear because no complete form arrived.
+
+Once one holding reconciles, preserve the supporting files and the explanation of any correction. Then move to the next relevant holding. This makes the task manageable and gives your tax professional a traceable record instead of a pile of disconnected downloads.
+
+In the walkthrough, we'll review one purchase-and-transfer chain, identify the difference between today's position and its history, and show the corrected result without adding the assets again. The exact import and editing steps depend on the approved build.
+
+You are finished with this step when the history needed for the next decision is supported, or when you can name the precise missing evidence and who will help resolve it. You can keep planning from the known balances. You should not execute a tax-sensitive sale based on a basis you cannot substantiate.
+
+### Visual and source notes — not spoken
+
+Tax deck Step 1 operational reconstruction, not a repeat of 1.2 inventory. Generic 0.1 BTC purchase/transfer has no fees only to isolate the mechanism; not a new Reed record. Ownership changes and actual fees need proper review. IRS Jan 28, 2026 digital-asset reporting reminder confirms some statements lack full basis; a report is not completeness proof. Capture must show evidence improving history without duplicating current quantity.
 
 ### Production notes
 
-Retire old source claims that a documented guess is automatically IRS-approved. Preserve unknown basis/date/fees. No universal crypto-tax-software replacement promise. D65 holdings entry remains distinct from recording a purchase. FORM 8949 TAX DATA is a handoff, not a filed form. Show no client records.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 ### Member checkpoint
 
-- Preserve original evidence and reconcile duplicates and transfers.
-- Document unresolved facts and the evidence needed.
-- Obtain review before relying on reconstructed basis for execution or filing.
-
-### Source-led visual and teaching notes — not spoken
-
-Known / estimated / missing record example; source files retained; duplicate and transfer review; current holdings before/after. Separate a hypothetical low-basis tax scenario from unknown historical basis in the actual record.
-
-Editorial reason: Turn history repair into a prioritized evidence task without implying universal import capabilities or acceptable guesses.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+Reconcile one relevant acquisition/transfer/disposal history to the remaining position, preserving precise unknowns and source evidence.

@@ -1,7 +1,7 @@
 # A5.1 — Build a multi-year conversion comparison
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/advanced/01-modeling-financing-and-tax.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: advanced
@@ -11,46 +11,48 @@ Use when: a meaningful Traditional balance and a plausible lower-income window m
 
 ### Read aloud
 
-A multi-year conversion plan should leave the household better positioned after the relevant costs, not merely display a larger total of future taxes avoided. Start with the unchanged plan and compare a limited schedule against the same spending and assumptions.
+A conversion can make sense this year and be too expensive next year. A multi-year strategy needs to use the actual income windows rather than repeat the same amount until the end of the chart.
 
-Start with the unchanged plan. Record expected income, spending, taxable-account resources, healthcare years, Social Security, required distributions, and the Traditional and Roth balances. Then choose a bounded conversion schedule to compare against it.
+Start with the unchanged plan. Mark employment income, healthcare coverage, benefits, required distributions and the resources funding the early years. Then choose a limited schedule to compare.
 
-For each year, separate the amount converted from spending withdrawals and the cash used to pay conversion tax. Include the opportunity cost of that tax money. A dollar used for tax today is unavailable for another investment, the Reserve, or a near-term bill.
+The core lesson explained conversion tax and its funding source. Here we will look at increments and changing years.
 
-Use the marginal cost of the proposed conversion. It may span brackets and change other tax or benefit calculations. Marketplace assistance, Social Security taxation, Medicare income-related premiums, state tax, deductions, and credits can alter the total effect.
+For a separate illustrative tax calculation, suppose converting the first $20,000 adds $4,000 of current cost. Converting another $20,000 adds $6,000 more. The first portion costs 20%; the second costs 30%. Together, a $40,000 conversion costs $10,000, or 25% on average.
 
-A sequence of smaller conversions can preserve flexibility, but it can also leave more future taxable growth than a larger early conversion. A large conversion during a market decline may move more units at a lower taxable value, while still creating a cash and access problem. Compare rather than assume.
+Looking only at that average hides the decision about the second portion. If the household's comparable future tax cost is expected to be 25% under the simplified assumptions, the first portion has a different trade-off from the second. This is an example of incremental reasoning, not a real tax calculation or a prediction of future brackets.
 
-For the Reed household, hold the retirement spending and market assumptions constant. Compare no added conversion, a modest annual schedule, and a larger early schedule. Read current liquidity, after-tax wealth, future ordinary income, and the surviving spouse or beneficiary implications where supported.
+Now add the next year. If employment resumes or a pension starts, the conversion window may shrink. A larger amount now could deserve another comparison. If a lower-income year is approaching, waiting may be more useful. The schedule follows those circumstances.
 
-Stress the tax and return assumptions. A strategy based on a large future rate increase can disappoint if withdrawals later occur at lower rates. A strategy that leaves too little taxable money can strain the early-access years even when the Roth balance looks attractive.
+For each version, keep the same lifestyle and market assumptions. Compare no added conversions, a modest schedule and a larger early schedule. Record the conversion, spending withdrawal and tax-payment source separately each year.
 
-The app may model the strategy, but the execution needs current-year verification. Confirm which account may be converted, whether a required distribution must be handled first, any nondeductible basis, the tax-payment method, and the custodian's procedure. Keep planned amounts separate from completed records.
+Read the early-access balances as well as later tax. A schedule that consumes the taxable bridge to pay tax can leave the household with more Roth money and less usable cash when it needs it. That is part of the cost, not an unrelated issue.
 
-The core example separates a thirty-thousand-dollar conversion from six thousand of hypothetical additional tax. Repeat that separation in every modeled year. If the proposed schedule uses the cash that was supporting the early-retirement bridge or reserve, that is part of its cost. Compare a smaller schedule and no added conversion before treating the future Roth balance as the deciding result.
+Then compare after-tax resources at the same dates. Include the return and tax treatment of the money that would otherwise have paid conversion tax. Don't rank strategies only by the size of the final Roth or lifetime tax paid.
 
-Choose a range and review rule, with a clear source for each year's tax. Revisit the actual amount using current income and rules before execution. Return to the core tax and withdrawal plan with the comparison understood, not an unchangeable promise to convert for a decade.
+Test the assumptions that make the preferred schedule win. What if later tax rates are lower? What if growth is slower or one spouse dies earlier? A surviving household can have a different filing and income picture. If the model doesn't support a relevant effect, analyze it separately rather than infer it from the score.
+
+A market decline may let the same conversion dollars move more units. That can be useful, but it doesn't pay the tax or guarantee recovery. The current cash source and the longer-term reason still need to work.
+
+Before execution in each actual year, verify income, deductible and nondeductible amounts, required distributions, healthcare effects and the custodian process. The proposal is a review range and rule, not a permanent promise to convert an unchanged amount for ten years.
+
+Finish with the preferred bounded schedule, why it improves the plan under the tested assumptions, and the information that will determine the real amount for the next transaction. Return that amount to the tax and retirement funding records so the same cash is not committed twice.
+
+### Visual and source notes — not spoken
+
+Newillustrativeincremental-cost values20k/4kandnext20k/6k=>40k/10k25%average;future25%assumptionisnotforecastorReedtaxrate. Comparecurrentmarginalincrement,liquidityandfutureaftertaxresources. No scheduleexecuted orfixedannualconversionguarantee.
 
 ### Production notes
 
-IRS Pub590-B/RMD and current tax interaction sources. No assumption all conversions are fully taxable or reversible. Current law and account-specific treatment must be verified. Product comparison primary outcome is total after-tax wealth. Return to 5.4 and 6.4.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Demonstration plan — not spoken
+
+Show genericincremental-cost table separately,thencompareactualreviewedno/modest/larger conversionscheduleswithsame spending. Narration: “The next part costs more than the first. Read the cash used now and the later after-tax resources before choosing how much.” No fabricatedtaxorhealthoutputs.
+
+The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
 
 ### Member checkpoint
 
-- Compare bounded schedules against unchanged spending and assumptions.
-- Include tax funding and opportunity cost.
-- Verify each actual year's amount before execution.
-
-### Source-led visual and teaching notes — not spoken
-
-Same-date after-tax resources, immediate cash used, access-year funding, and later ordinary income. Keep the $30,000/$6,000 example labeled hypothetical rather than an actual Reed tax result.
-
-Editorial reason: Make conversion schedules account for tax funding and early-year liquidity, not only lifetime tax totals.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
-
-### Advanced demonstration plan — not spoken
-
-Prepare no-added-conversion, modest annual, and larger early alternatives from the same verified inputs. Read cash used for tax, the early-access years, later distributions and after-tax resources at matching dates. Record unmodeled beneficiary or healthcare effects separately. Planned and completed conversions stay distinct. Return to 5.4 and 6.4.
-
-Use this with the linked core working chapters; it does not create another required lesson or claim an app/device test was performed. Record precise controls and actual outcomes only after the relevant gate is met.
+Select a bounded conversion schedule with after-tax and liquidity justification and a current-year review rule.

@@ -1,19 +1,25 @@
-Before a large purchase or sale, separate the financial reason from the feeling created by the latest price move. The question is what the transaction needs to accomplish and whether its size and timing fit the rest of your plan.
+A large price move can make an investment decision feel urgent even when your financial situation hasn't changed. Before a large purchase or sale, separate the purpose of the transaction from the feeling created by the chart.
 
-A purchase may be part of a contribution plan, a move toward a chosen target, or a decision to invest cash that now has a long-term job. A sale may fund spending, reduce a risk, or support a tax plan. Those purposes remain useful even when the market is noisy.
+Is the purchase part of the target you already chose? Is the cash genuinely available for long-term investing? Is the sale funding a bill with a deadline? Those facts matter before the price opinion.
 
-Now ask what the recent move is doing to your judgment. A rally can create a feeling that the opportunity is disappearing. A decline can create fear or an urge to increase exposure quickly. Either can cause someone to change an allocation before checking liquidity, debt, and the intended holding period.
+You may compare investing a lump sum with buying in stages. Staging changes the timing of exposure; it doesn't guarantee a better purchase price.
 
-For the Reed household, a proposed large Bitcoin purchase must fit the Reserve, the card-payoff plan, the work-optional access needs, and the agreed target. A favorable price view does not create additional monthly cash or remove a lender's collateral rules.
+Here is a deliberately simple example with no fees. A household has $20,000 earmarked for Bitcoin. At a hypothetical price of $100,000, investing all of it buys 0.2 Bitcoin.
 
-Compare the proposed trade with a paced implementation where appropriate. Buying in stages can change timing risk and behavior, but it can also underperform a single purchase if the price rises. It is a trade-off, not a guaranteed improvement. The household should choose a process it can maintain rather than promise itself a perfect entry.
+Instead, it could invest $10,000 now and keep $10,000 for later. If the later price were $50,000, those purchases would total 0.3 Bitcoin. If the later price were $200,000, they would total 0.15 Bitcoin.
 
-For a sale, identify the spending need, tax lots, and deadline. A committed near-term bill may require a reliable source even when you expect Bitcoin to rise. A flexible long-term holding can have a different decision window. Treat the two jobs separately.
+The staged method helps in the falling-price example and buys less in the rising-price example. We haven't assigned probabilities or found a perfect entry rule. We've exposed the trade-off in waiting with part of the money.
 
-A market indicator or valuation model can provide context, but its limitations matter. Historical relationships can change, signals can remain extreme, and a model cannot tell you the exact day a market will reverse. Avoid presenting a favored chart as certainty about a trade.
+Someone may choose staging because it makes a large change easier to maintain. Another may choose the lump sum because the allocation and purpose are settled and they prefer immediate exposure. The process should fit the person's decision, not claim timing skill the example doesn't establish.
 
-Write down what would make you change the decision. It might be a new cash need, a broken assumption, a different target, or a change in debt capacity. A rule stated before the trade is easier to evaluate than an explanation assembled after the price moves.
+A recurring contribution already funded by ordinary cash flow doesn't need a new market thesis every payday. This check is for a large change, not a reason to turn routine saving into daily hesitation.
 
-Two households can have the same view of Bitcoin and make different choices. One needs money for a committed bill soon; the other has uncommitted long-term funds. The price opinion does not give the first household the second household's flexibility. For the Reeds, the current reserve and extra-card claims already use the available money. A more attractive-looking entry does not create another contribution.
+A sale has its own constraint. A committed payment next month may need dependable funding even when you expect Bitcoin to rise. A flexible expense has a different decision window. Don't give money with a fixed bill the same freedom as uncommitted long-term investments.
 
-Return to Allocation with a clear purpose, an affordable amount, a chosen implementation pace, and the circumstances that would change the decision. You may keep the recurring plan unchanged. This check should make a large decision more deliberate, not become a prerequisite to every ordinary contribution.
+Market indicators and valuation models can provide context. Record what the indicator measures, its date and its limits. A relationship can change, and a signal can remain extreme much longer than expected. It cannot tell you the exact day the market turns.
+
+For the Reeds, a better-looking entry does not create cash on top of the Reserve and extra-card claims. A loan to enlarge the purchase is another decision, with its own repayment and downside—not a small adjustment to timing.
+
+Before acting, write the affordable amount, purpose, implementation pace and the fact that would justify changing the plan. That may be a new cash need or a different allocation decision. It should not be an explanation assembled afterward to excuse an impulsive trade.
+
+Return to the ordinary contribution plan when the large decision is settled. The purpose of this check is a deliberate transaction, not constant market monitoring.

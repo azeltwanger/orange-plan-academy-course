@@ -1,7 +1,7 @@
 # 7.4 — Record a usable custody plan without exposing secrets
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/07-custody.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: teach
@@ -10,42 +10,46 @@ Sources: CUSTODY, OWNER, APP, MAINTENANCE
 
 ### Read aloud
 
-The custody map should tell the family what exists, why it is held that way, and how to start the right process. It should not contain the secrets or a complete route for moving the money.
+You may understand exactly where your Bitcoin is and still leave your family with no usable starting point. A list of account names isn't enough when nobody knows what those accounts are for or whom to contact.
 
-For each meaningful pool, record the type of asset, the account or custody method, its intended job, the owner, and the relevant provider or professional contact. A rough scale may be enough in a separate family instruction document. The financial account record can retain its balance without duplicating that sensitive detail everywhere.
+The Family Custody Map explains the arrangement without becoming a document full of secrets.
 
-Record recovery status precisely: what setup was tested, what the test proved, when it happened, and what is still open. A practice-wallet test, a provider's described procedure, and a successful check of the relevant holding's recovery are different evidence. Label them accordingly.
+For each meaningful holding, record what it is, who owns it, the custody method, its role in the plan, the relevant contact or process, and the status of the supporting work. Use non-secret identifiers that let the family distinguish one arrangement from another.
 
-The family needs a starting point if you are unavailable. That might be contacting a named provider, attorney, executor, or technical helper. It should explain how to verify that contact and where the protected process is managed. Exact secret locations, passwords, passphrases, seed words, and complete recovery sequences stay out of Orange Plan and ordinary heir letters.
+Don't put recovery words, private keys, passphrases, passwords, PINs, or precise secret-storage locations in this map. The map points to the protected process. It doesn't replace that process or make every reader able to move the funds.
 
-Operational ability and legal authority are separate. Someone may know how to sign without being entitled to move the assets. Another person may have legal authority but need technical help. The next session coordinates those roles. For now, identify which people and services the custody process depends on.
+Consider Alex and Morgan's different holdings. Personally controlled Bitcoin needs a recovery and authorization process. Professionally custodied Bitcoin needs the provider's access and family procedures. A Bitcoin fund in a retirement account uses that account's ownership and beneficiary process.
 
-For Alex and Morgan, the direct-custody record says which method they use and whether recovery was tested. The institutional account record identifies the provider and the family-administration process that needs to be verified. The Bitcoin fund follows the brokerage account's legal and operational process. Each pool gets instructions appropriate to what it actually is.
+Writing “Bitcoin” on three lines would miss those differences. We want the family to know which kind of help applies to each one.
 
-Set the next review date and event-based triggers. A new device, changed firmware or backup method, a provider change, a new custodian, a larger balance, or a change in family roles can justify a fresh test. Years can pass while a setup quietly becomes harder to use because the people or software changed.
+Now look at the people. Who normally operates the setup? Who can begin the process if that person is unavailable? Has that person agreed, and do they know where the safe instructions begin?
 
-Keep the financial-plan backup separate from the Bitcoin recovery backup. One restores planning records; the other is part of recovering access to the Bitcoin. Protect the plan-export password and test the documented restore process before relying on it. A file you have never tested leaves an unanswered recovery question.
+A technical helper and a legally authorized person may be different. Knowing how to restore keys doesn't automatically give someone authority to use another person's assets. The estate section connects those roles; the custody map should not blur them.
 
-We'll complete the Family Custody Map beside its filled fictional example, then record the relevant non-secret status in the plan. Keep one location for the detailed family document and avoid copying sensitive information into every note. An unfinished recovery test stays an outside action with an owner and date.
+Use honest status language. “Backup exists” is different from “backup checked.” “Practice recovery succeeded” is different from “this funded setup has been verified.” “Provider contacted” is different from “family access process confirmed.” Record what actually happened.
 
-The finished custody plan answers four practical questions. How is each important pool held? What failure does that method protect against? What dependency remains? Who starts the process if you are unavailable?
+Then test the map with one absence scenario. Suppose the usual operator is unavailable for six months. Ask the backup person to explain where they start and which accounts or obligations need timely attention. Don't ask them to reveal secrets or move money for the rehearsal.
 
-Have the intended reader identify how each important pool is held, the dependency it retains, and the first verified contact when you are unavailable. Keep planning-data restoration separate from wallet recovery. That gives the family-handoff session a usable technical starting point to match with legal authority.
+If they cannot distinguish the personal wallet from the retirement fund, fix the labels. If they cannot find the professional contact, fix that step. If every answer requires calling the unavailable person, the map has exposed the problem it was meant to find.
+
+Keep the map short enough to use, with the detailed protected instructions maintained separately. Extra pages are not an improvement when they hide the first action.
+
+Also plan for a family member who does not want to keep the same Bitcoin allocation. They need a safe, lawful path to review or liquidate it, not a document that works only if they adopt your conviction. We can protect against rushed mistakes without requiring the heir to become a Bitcoin expert.
+
+Finish by storing a current dated map, telling the relevant people where the safe starting point is, and assigning any unfinished protection task. Then review it when custody, people, or account ownership changes.
+
+The next section makes sure the legal authority and family documents agree with this operational picture. A workable custody setup and a workable inheritance plan need each other.
+
+### Visual and source notes — not spoken
+
+Use existing FamilyCustodyMap, notanotherworkbook. Preserveownership,custodymethod,providerandlegalroutes,scopeofrecoveryproof,operatorbackup,andprivacy ofxpub/configmetadata. Mainmapscontainno secretsorexactsecretlocations. A familyintenttoliquidate is legitimate;noforcedconvictionstory. Tabletopnoactualtransfer.
 
 ### Production notes
 
-W07 follows current Protect ownership and relevance states. No old estate-size tier dictates custody architecture. Backup/restore capability must be actually verified before promising recovery of app data. Do not store descriptors, xpubs, secret locations, or a complete signing route in the course worksheet.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 ### Member checkpoint
 
-- Complete the non-secret custody map and honest recovery status.
-- Name a first contact and review triggers.
-- Keep financial-plan restoration separate from wallet recovery.
-
-### Source-led visual and teaching notes — not spoken
-
-Use the standalone Family Custody Map, with one relevant fictional row at a time. Separate financial-plan backup, custody-map information and protected wallet recovery material. No descriptor contents, xpubs, exact locations or full signing routes.
-
-Editorial reason: Connect the named deliverable and truthful recovery scope directly to the next family task.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+Produce a dated no-secrets map and have the backup person explain the legitimate starting process without moving funds.

@@ -1,7 +1,7 @@
 # W10 — Read, explain, and save the finished plan
 
-Status: WALKTHROUGH_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/WALKTHROUGHS.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: WALKTHROUGH_REWRITE_REVIEW — complete paired narration and one recording plan per chapter. Final app/device procedures, inputs, outputs and capture evidence remain unverified.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: capture
@@ -10,84 +10,78 @@ Sources: REVIEW, LANDING, APP
 
 ### Run sheet
 
-**Chapter 1, with 10.1:** open the actual Your Plan report. Read Position / Trajectory / Risk / Actions as a teaching order, not a promise of fixed UI chapters. Reconcile asset/debt totals, current cash flow, contribution claims, retirement timing, percentage/count/horizon, and key assumptions with their canonical sources.
+This capstone requires one actual engine-backed saved fictional plan and its matching documents. Do not combine convenient numbers from different examples. A listener rehearsal, outside implementation, legal review and capture receipt must actually happen before recorded as successful.
 
-**Chapter 2:** inspect early retirement, benefit start, a major event, and a later tax-sensitive year. Use real recorded model outputs. Explain missing facts or unsupported risks rather than staging an ideal result.
+Record chapters separately after their paired lessons. Only the paragraphs labeled Narration are prepared speech. Teaching graphics stay outside app screens. Read actual values and state changes during recording; do not substitute a staged output or unsupported feature.
 
-**Chapter 3, with 10.2:** deliver the fictional household's short explanation to a nontechnical listener. Ask them to repeat the first absence-response action. Revise unclear instructions. Use an explicitly consented tester, never private client material.
+#### Chapter 1 — Read one coherent saved plan
 
-**Chapter 4:** prepare focused CPA/attorney/insurance/lending handoffs with relevant evidence and unresolved questions. Export supported report/data privately. Do not imply files were sent or professionals approved them when they were not.
+**Show and do:** With 10.1, open the actual report and Household Plan Summary. Follow life goal, current position, same-phase cash flow/contributions, whole portfolio, intended/calculated timing, assumptions and limitations. Position/Trajectory/Risk/Actions is a teaching order, not a promise of fixed interface chapters.
 
-**Chapter 5:** save dated readable plan, appropriate verified data backup, action list, and review schedule. Explain where a future annual comparison starts. Archive obsolete versions deliberately rather than treating them as current instructions.
+**Narration:**
 
-### Source-led recording detail — not spoken
+“Every statement here needs to describe the same plan. Start with the life it is funding, then trace the important numbers back to their source. A result is useful when you can explain what supports it and what still needs to change.”
 
-The capstone must reconcile to one actual saved fictional plan, not a composite of different teaching phases. The prepared documents and arithmetic do not substitute for the engine-backed plan and listener test.
+**Verify before recording:** Verify actual report and exact source/result identity. No original/reduced/post-card state mixing, landing-page placeholder, assumed approval or unverified model outcome.
 
-**Chapter 1**
+**Member finish:** The summary and current report explain the same facts, intentions and calculated result.
 
-Prepare and demonstrate: Read the actual report beside Household Plan Summary: current position, current cash flow phase, contribution claims, intended/calculated timing, assumptions and risk.
+#### Chapter 2 — Follow the important funding years
 
-Reusable narration: “Every statement in this summary should describe the same plan. Let's trace the important numbers back to their sources.”
+**Show and do:** Inspect the first retirement year, benefit start, a significant event and a later tax-sensitive year. Read income, complete spending, taxes, withdrawals, source accounts, debt and ending resources from one real reviewed input set.
 
-Final screen/procedure insert: Actual report, source rows and calculation identity; no original/reduced/post-card state mixing or landing-page placeholder results.
+**Narration:**
 
-Member finish: The summary and report explain the same facts and choices.
+“These are the years where the funding changes. Show which account pays this need, what tax or payment goes with it, and what is left for the years afterward. That is how we check the headline against the life it is supposed to fund.”
 
-**Chapter 2**
+**Verify before recording:** Real output only. Missing source attribution or unsupported risk remains visible; no invented ideal plan, account access or future dividend/benefit. Blocking uncertainty is not relabeled a finished decision.
 
-Prepare and demonstrate: Inspect first retirement, benefit start, a major event and a later tax-sensitive year. Follow spending, tax, withdrawals, debt and ending resources.
+**Member finish:** Explain critical transitions and the most important sensitivity or remaining gap.
 
-Reusable narration: “These are the years when funding changes. The headline makes more sense when we see where the money comes from here.”
+#### Chapter 3 — Have the listener explain the plan back
 
-Final screen/procedure insert: Real outputs from the same accepted inputs; unknowns remain visible, no fabricated favorable finish.
+**Show and do:** With 10.2, use an explicitly consented nontechnical listener. Present the short household explanation, then ask for next-period funding, the next action and the safe family starting process. Revise the actual point of confusion.
 
-Member finish: Member can explain the meaningful transitions and the most important limitation.
+**Narration:**
 
-**Chapter 3**
+“You do not need every technical detail. Tell me where the next spending money comes from and which action happens first. If that is unclear, we need to improve the explanation—not ask you to memorize more terminology.”
 
-Prepare and demonstrate: Give the short household explanation to a consented nontechnical listener and ask for the next cash source and first safe absence-response action.
+**Verify before recording:** Record an actual rehearsal, not claimed member validation from a script or test. No private client footage, secrets or staged perfect comprehension.
 
-Reusable narration: “You don't need every technical detail. Tell me where next month's money comes from and who you would contact first.”
+**Member finish:** The listener can use the explanation, or the observed gap is corrected and retested.
 
-Final screen/procedure insert: Actual listener understanding and corrections; no private client footage or assumed successful pilot.
+#### Chapter 4 — Prepare the specific professional handoffs
 
-Member finish: Revise the explanation where the listener cannot follow it, and record what actually happened.
+**Show and do:** Prepare only the relevant CPA, attorney, coverage or lending packet. Include the proposed decision, supporting evidence, exact unresolved question and deadline. Review and minimize any supported export before sharing.
 
-**Chapter 4**
+**Narration:**
 
-Prepare and demonstrate: Prepare focused CPA, attorney, insurance or lending handoffs using the relevant documents, evidence and one concrete question each.
+“Here is the decision, the evidence behind it and the question the professional needs to answer. Preparing this packet does not mean advice has been received. Keep that status clear before taking the dependent action.”
 
-Reusable narration: “This packet gets the professional to the decision that needs review. Preparing it does not mean they have approved it.”
+**Verify before recording:** Actual export coverage/privacy and recipient authority checked. No automatic message, appointment, filing or professional approval inferred. No general full-backup sharing or sensitive custody details.
 
-Final screen/procedure insert: Supported exports, private evidence handling and genuine open questions; no message sent or professional appointment/approval claimed.
+**Member finish:** Each consequential open issue has a focused handoff and the right prerequisite.
 
-Member finish: Each consequential unresolved issue has the correct evidence and next recipient/action.
+#### Chapter 5 — Save the operating plan and implementation record
 
-**Chapter 5**
+**Show and do:** Save dated plan, Household Plan Summary, outside actions, review schedule and appropriate verified backup. Use the Annual Plan Refresh as the next-year starting point. Distinguish current and future conditional tasks and deliberately retire superseded instructions.
 
-Prepare and demonstrate: Save the dated readable plan, Household Plan Summary, next priorities, Annual Plan Refresh starting point and separately verified protected backup.
+**Narration:**
 
-Reusable narration: “These are the next priorities, not a claim that only three tasks remain. The plan is useful when the decisions and unfinished work are clear.”
+“This is the plan we intend to follow. These actions are completed, these still need doing, and these begin only after their condition occurs. The next review starts with these reasons intact, not with a blank page.”
 
-Final screen/procedure insert: Save/reload/export/restore scope and actual remaining approvals; no publication or full course-completion claim from files alone.
+**Verify before recording:** Verify actual save/reload/export/restore scope and remaining approvals. No fixed three-task maximum or video-watched equals completed plan. Student release and actual execution are separate authorizations.
 
-Member finish: The member can explain and maintain the plan; final capture and pilot evidence are separately recorded.
-
-The existing run sheet and these chapter details describe the same recording. No actual model result, provider/device operation, legal authority, listener test or publication approval is established by this written preparation. Any absent promised behavior remains held and reported; it is not silently replaced with a fabricated screen.
+**Member finish:** An explainable, dated plan with practical next actions and a repeatable maintenance process.
 
 ### Readback and finish
 
-The learner can explain where the household stands, how new money is used, how retirement is funded, what could change the answer, who starts the family process, and what happens next. Watching videos alone does not satisfy the practical completion checks.
+The member can explain the current position, whole portfolio, new-money plan, retirement funding, retained risks, family process and next actions. Any blocking prerequisite remains visible. Written preparation is complete; learner success and app/device execution require real evidence.
 
-### Spoken cues (use with the matching chapters)
+### Production notes
 
-**Chapter 1.** Read the position, direction, risks and next actions. Check that each number matches the source record and saved result.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
-**Chapter 2.** Look at the years where funding changes: retirement, a benefit beginning, a large event and later taxable distributions.
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
-**Chapter 3.** Explain the plan in ordinary language. Ask your listener to repeat the funding path and the first family-response action.
-
-**Chapter 4.** Prepare the exact questions and relevant evidence for each professional. A prepared packet is separate from advice received.
-
-**Chapter 5.** Save the dated plan and action list. This becomes the starting point for the next annual comparison.
+This file replaces the prior duplicate summary/detail/cue sets with one chapter sequence. Original sources, the fixed household, member documents and the capture register remain unchanged. No real recording, provider action or learner result is certified.

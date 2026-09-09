@@ -84,15 +84,15 @@ Then W03 chapters 5–6.
 
 ## Session 4 — Allocation and the next dollar
 
-**4.1 — [Read the same portfolio in four useful ways](scripts/04-1_read-the-same-portfolio-in-four-useful-ways.md)**
+**4.1 — [Understand the portfolio you already own](scripts/04-1_read-the-same-portfolio-in-four-useful-ways.md)**
 
 Then W04 chapters 1.
 
-**4.2 — [Find your Bitcoin path](scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md)**
+**4.2 — [Choose the role Bitcoin plays in your plan](scripts/04-2_set-a-bitcoin-target-the-household-can-hold.md)**
 
 Then W04 chapters 2.
 
-**4.3 — [Size your positions by when you will use the money](scripts/04-3_match-the-money-to-when-you-will-use-it.md)**
+**4.3 — [Build the rest of the portfolio around your life](scripts/04-3_match-the-money-to-when-you-will-use-it.md)**
 
 Then W04 chapters 3.
 

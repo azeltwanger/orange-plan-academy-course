@@ -1,6 +1,6 @@
 # 3.3 — Give every existing debt a job
 
-Status: TEACHING_REWRITE_REVIEW — individual spoken replacement using the accepted Reserve approach. New wording awaits Austin's voice/judgment review; no recording or publication approval is implied.
+Status: TEACHING_REWRITE_REVIEW — existing individual explanation retained with a targeted redundancy cut. The prior Reserve decision is applied without reteaching it; voice review remains open.
 Adapted source: Austin debt playbook, original Debt Strategy deck/outline and call explanations; accepted liquidity judgment and unchanged Reed fixture.
 App references: extra-payment entries, interest schedules and payoff results require the approved build.
 
@@ -32,11 +32,7 @@ The card's required $405 was accounted for before we got to that $1,700. So addi
 
 That extra payment can make the balance fall faster. We'll read the actual payoff comparison in the walkthrough rather than guess the month it ends.
 
-There is a reason we're also building the reserve while expensive debt remains. Paying the card down faster is useful, but we don't want the family to have no cash left when something goes wrong and immediately need to borrow again.
-
-I'd give accessible cash more weight when a household has dependents or relies on one income, especially if essential bills would otherwise depend on getting another loan after that income stops. Required payments still need to be covered. What changes is how much extra goes to debt while the cash cushion is thin.
-
-That can mean more interest for a while. It's a trade-off, not free protection. Revisit the pace as the reserve improves instead of leaving a temporary slower payoff in place forever. Dependents alone don't settle it; the cash already available and any reliable income that would continue matter too.
+Bring forward the liquidity decision from the Reserve lesson. If the cash cushion is too thin to support the family during an income interruption, more of the available money may need to build it before accelerating the card. Required payments continue. The cost is more interest for a while, so revisit the split as the cushion improves. We are applying that choice here, not setting a second reserve policy.
 
 Now compare the mortgage.
 

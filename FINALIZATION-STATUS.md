@@ -1,38 +1,25 @@
-# Course status: individual teaching repair in progress
+# Course status — complete written draft; approval and capture remain separate
 
-## Why the course is not marked complete
+## Written deliverable
 
-After reading the September 8 course-wide pass, Austin said the scripts were hard to follow, did not use his voice, had repetitive sentence rhythm, and were confusing rather than direct and educational. He supplied the Reserve lesson as the better reference and asked for the same level of care across the scripts and walkthroughs.
+All 51 Core clips, 15 conditional Advanced clips, ten app working sessions and the device demonstration have complete written teaching or paired narration for review. This pass finishes the requested problem → explanation → example → solution treatment across the existing course rather than leaving later sections under an indefinite repair promise.
 
-The prior structural checks passed, but that did not establish teaching quality. Earlier completion notices are superseded. Do not treat this as a light polish of already accepted narration.
+40 Core and all 15 Advanced scripts are full replacements. Nine previously repaired Core explanations are retained after continuity review; 3.3 is shortened where it repeats the Reserve explanation. Accepted 2.3 is byte-identical. Nine practical files are replaced with one chapter sequence each; the already-detailed W02 and W03 are byte-identical. Generated reading copies are rebuilt from those canonical sources.
 
-## Current repair progress
+The new Allocation lesson explains the whole portfolio, including the non-Bitcoin holdings, instead of offering another drawdown-tolerance lecture. The separate examples show where amounts come from and why a choice changes. Tax now completes an opportunity-cost comparison; Retirement uses first-result literacy instead of redefining simulations. Protection, family documents and maintenance finish actual actions without inventing their completion.
 
-| Components | Current state |
-|---|---|
-| 2.3 and the accepted Reserve sections of W02 | Reference preserved without changes. Acceptance of the reference is not recording approval. |
-| 2.1, 2.2, 2.4, 2.5 | Full spoken replacements written; integrated wording awaits Austin's voice/judgment review. |
-| W02 chapters 1–3 and 6–7 | Corresponding narration and demonstration plan rewritten; exact screens, inputs, outputs and save behavior await verification. |
-| 3.1–3.6 | All six Debt explanations have full individual replacements; voice/judgment review is still pending. |
-| W03 chapters 1–6 | Matching narration and one recording plan per chapter replace the duplicate short cues. Actual contract inputs, app behavior and results remain unverified. |
-| 4.1–4.7 | Current section under review. Owner feedback on redundant 4.2 led to a concise four-path lesson, a full timeframe-sizing 4.3 and aligned section handoffs. Owner acceptance remains open. |
-| W04 chapters 1–8 | Sequence aligned to role → sizing → target → contributions → account/election → purchases. Final account/app results and recording remain unverified. |
-| All other Core and Advanced lessons, and W01/W05–W10/D07 | Individual teaching/voice repair still needed. Their prose and status headers were not changed by the Allocation repair. |
+## What has not been established
 
-The 51/15/11 inventory, course sequence, member documents and source household remain unchanged. A longer script, a passed check or a new status label does not establish that a learner can follow it.
+**Austin approval:** The Reserve is the accepted reference. New or retained integrated wording still needs the owner's voice/judgment review. A complete draft is not evidence that Austin already dictated or approved every line.
 
-## Review and continuing work
+**App and device evidence:** Final navigation, field semantics, actual model outputs, source coverage, save/reload, Ask, reports/exports, family communication and device procedures require the approved build and real capture receipts. The fixed household is not a calibrated saved engine result. Complete its separately reviewed capture extension; never invent results to satisfy a script.
 
-Read the clean spoken copies and the paired demonstration together. Check whether the explanation reflects Austin's judgment, explains the missing reasoning and leaves the member able to make the choice. Keep the next work in existing scripts rather than create another outline or workbook. Finish the current Allocation section with Austin before moving to Tax and W05. The opening sessions, conditional Advanced lessons and all other unrepaired components also remain on the repair list. A written section needs a coherent decision chain and paired walkthrough, not merely every file touched.
+**Professional review:** Tax, account access, healthcare, lending, insurance and legal/estate execution require the relevant current and transaction-specific checks. Primary-source mechanism research in this editorial pass is not personalized advice or professional sign-off.
 
-## App and device recording
+**Learner evidence:** No cold-member completion, listener rehearsal, wallet recovery or full paid program pilot is claimed merely because the instructions exist. Test whether a member can explain and complete the decisions without the author filling every gap. Annual-price and renewal value are not validated by word counts or software tests.
 
-Use the approved redesign for exact navigation, source coverage, holdings/history handling, calculations, guardrails, Ask, exports and save/reload. Complete the fictional input gaps and record actual results. Missing promised behavior remains held and reported, not simulated. D07 requires the exact official device/setup procedure and safe recovery proof; a practice wallet does not prove another funded wallet's backup. No recording is approved by this batch.
+**Production:** Visual directions are prepared; finished graphics, edited video, course-platform publication and actual support operations are not certified. Screen footage can be completed separately without reopening every durable explanation, unless product semantics materially change.
 
-## Professional and member evidence
+## Repository boundary
 
-Tax, account access, healthcare, lending, legal/estate and insurance execution still require their targeted reviews. The Debt and Allocation replacements include narrow current primary-source checks of definitions, loan mechanisms and account/tax treatment, separate from Austin's teaching framework. They are not independent professional sign-off or transaction-specific approval. Family/listener rehearsal, member pilot and actual support operations remain open until separately demonstrated. No pricing, terms, platform rollout or launch approval is implied.
-
-## Repository state
-
-The preceding working draft was published to main through PR #16 for Austin to read. New replacements remain explicitly review drafts even when integrated for that same purpose. Live merge/check identities belong in the repair PR conversation. Cleanup and pinned historical recovery stay intact. No app-repository, hosted-data, provider, wallet, financial, runtime or Production work is part of this repair.
+Main contains review material under the owner's request to read the current scripts. No app repository, hosted account, runtime flag, provider, wallet, financial operation, legal filing, commercial term, Production deployment or student release is changed. Original sources, the fixture, toolkit, capture receipts and historical cleanup remain preserved. Exact run/head/merge evidence is posted after verification in the implementation PR.

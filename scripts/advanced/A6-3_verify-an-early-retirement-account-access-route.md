@@ -1,7 +1,7 @@
 # A6.3 — Verify an early-retirement account-access route
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/advanced/02-access-custody-and-estate.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: advanced
@@ -11,48 +11,52 @@ Use when: taxable assets alone do not cover early years or a special access rule
 
 ### Read aloud
 
-Before relying on early retirement money, identify the exact account, year and access rule. The question is not whether an exception exists somewhere; it is whether your planned distribution qualifies and remains workable afterward.
+An early-distribution exception can make retirement money useful before 59½. It can also be misapplied because someone remembers the name of a rule but not which account, person or date it requires.
 
-Regular Roth IRA contributions have distribution-ordering treatment different from conversion amounts and earnings. Keep the contribution and conversion records needed to support the amount you plan to use. A five-year rule for a conversion and the requirements for a qualified Roth distribution are related concepts with different jobs.
+Before relying on an access route, connect the exact distribution with the rule that permits it.
 
-The workplace-plan exception commonly called the Rule of 55 generally depends on qualifying separation from service and distributions from the relevant employer plan. It does not apply to an IRA simply because the owner is fifty-five. Special rules can apply to certain workers. Verify the account, separation timing, and plan distribution options before relying on the exception.
+Start with the funding gap and the account intended to supply it. Then separate three questions: will the plan or custodian allow the withdrawal, is ordinary income tax due, and is an additional early-distribution tax avoided? A yes to one is not automatically a yes to the others.
 
-A rollover can change the access path. Moving an employer-plan balance to an IRA may remove a plan-specific exception that would have been useful. A rollover should therefore be evaluated against the intended early-retirement funding before it is executed.
+A Roth IRA is a good example. Distribution ordering distinguishes regular contributions, conversions and earnings. Regular contributions generally come out first. That does not make the full account balance available on the same terms.
 
-Governmental 457(b) arrangements can have different additional-tax treatment, with important distinctions for rollover money and other conditions. Identify what the account actually is rather than assuming all workplace savings share the same rules.
+Keep records of contributions and conversions, including prior distributions. A conversion's separate five-year additional-tax rule is not the same as the conditions for a qualified Roth distribution. A Roth workplace account has its own rules; don't apply Roth IRA ordering to it by name alone.
 
-Substantially equal periodic payments, often called SEPP or 72(t) payments, can provide another route. The amount, approved method, account structure, and required duration need careful verification. The arrangement generally must continue for at least five years or until age fifty-nine and a half, whichever is later, subject to applicable exceptions. An improper modification can trigger retroactive additional tax and interest.
+The workplace-plan exception commonly called the Rule of 55 generally depends on separating from service during or after the calendar year in which the relevant age is reached, and taking distributions from the qualifying employer plan. It is not an IRA exception merely because the owner is 55. Certain public-safety workers have different provisions.
 
-That rigidity is why this is an advanced option. A member who needs a flexible bridge may find a fixed periodic-payment commitment poorly matched to changing spending. The account balance, investment path, and other resources must support the schedule.
+That makes a rollover a consequential decision. Moving the account to an IRA may change an access route you were about to use. Check the retirement funding before submitting the rollover, not after discovering that the new account has different rules.
 
-For Alex and Morgan, first price the actual gap and test whether contribution routing can build enough accessible money. Then compare a verified special-access route only if it materially helps. Each spouse's age and accounts must be treated separately.
+A governmental 457(b) arrangement can have different additional-tax treatment too. Amounts rolled in from other types of plans or IRAs can require separate treatment. Identify what the account and the money actually are.
 
-The planning sheet should identify the account, expected distribution, tax treatment, exception relied on, evidence required, and actions that would invalidate the plan. Have a qualified tax professional verify it before the first distribution or rollover.
+Substantially equal periodic payments—often called SEPP or 72(t) payments—provide another possible route. The calculation method, account balance, age, payment schedule and permitted changes need careful verification. This is not a flexible withdrawal plan that you can casually alter when spending changes.
 
-A rollover illustrates why the order matters. A workplace-plan access route can be useful for a particular separation date, while moving that money to an IRA can change the route. Review the bridge before submitting the rollover. For a rigid periodic-payment arrangement, also ask whether the household can maintain the required schedule when spending or markets change. Technical eligibility is only part of a usable plan.
+The required period generally lasts until the later of five years from the first payment or age 59½, subject to applicable exceptions. For an illustration based on exact birthdays, beginning at 54 would run to 59½, which is five and a half years. Beginning at 58 would run to 63, because five years is later than reaching 59½.
 
-Return with the amount, timing, exact account, evidence and conditions for the chosen access path. Have the tax professional verify it before the first dependent distribution or rollover. Keep each spouse's records separate and name the actions that could invalidate the plan.
+Those examples explain duration, not eligibility or an approved withdrawal amount. Exact dates matter. An improper modification can create retroactive additional tax and interest. The allowed method and account setup should be reviewed before the first dependent distribution.
+
+Now ask whether the route fits the household, even if technically available. Can the assets and other resources support the required payments through a weak market? Would the schedule force withdrawals you don't need later? Does it remove flexibility that another funding source would preserve?
+
+For Alex and Morgan, review each spouse separately. Alex's age doesn't unlock Morgan's accounts. First check whether planned saving and taxable resources can fund the early years, then compare a special route only where it materially helps.
+
+Finish a short access record: account, person, expected amount and date, tax treatment, exception relied on, supporting evidence, and actions that could invalidate the plan. Have the relevant tax professional and provider verify it before the rollover or withdrawal.
+
+The solution isn't knowing that early-access rules exist. It is having a route that applies to the actual money and remains workable after you begin using it.
+
+### Visual and source notes — not spoken
+
+IRS substantially-equal-periodic-payments page, early-distribution exception chart and 401(k) participant distribution guidance checked September 8, 2026. Age examples assume first payment on the stated birthday only to illustrate duration: 54 to 59.5 = 5.5 years; 58 to 63 = 5 years. Exact dates, permitted method, single-account treatment, modification exceptions and recapture require professional verification. No individualized SEPP payment is calculated. Roth IRA and workplace Roth, contributions/conversions/earnings, plan permission, ordinary tax and additional-tax exceptions remain separate.
 
 ### Production notes
 
-IRS Pub590-B, early-distribution exception chart, and SEPP guidance. No individualized SEPP calculation or execution without verified account data and review. Distinguish rule55 and governmental457, Roth IRA and workplaceRoth. Return to 6.2 and 4.3.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Demonstration plan — not spoken
+
+Use one actual fictional bridge interval and the intended account. Read the person, separation/withdrawal dates, source records and rule. Compare a rollover before and after only where its access effect is verified. Narration: “This exception belongs to this account and these circumstances. Moving the money can change the route, so we check before submitting the rollover.” No individual SEPP amount without complete review.
+
+The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
 
 ### Member checkpoint
 
-- Identify the exact account, amount, year, and access rule.
-- Verify rollover and ongoing-compliance consequences.
-- Obtain review before any distribution dependent on an exception.
-
-### Source-led visual and teaching notes — not spoken
-
-Account / person / year / amount / rule / evidence / invalidating action. Keep regular Roth contributions, conversions and earnings separate; no single unlock icon for all retirement accounts.
-
-Editorial reason: Make early-access rules a verified account-specific action sequence, especially before a rollover.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
-
-### Advanced demonstration plan — not spoken
-
-Inspect one bridge year and the actual account intended to fund it. Review the distribution route, tax treatment and ongoing obligations, then compare the same need with accessible taxable resources. Use no individualized SEPP output without complete inputs and professional review. Return to 6.2 and 4.3.
-
-Use this with the linked core working chapters; it does not create another required lesson or claim an app/device test was performed. Record precise controls and actual outcomes only after the relevant gate is met.
+Verify an account- and person-specific access route, dates, evidence and invalidating actions before a dependent rollover or distribution.

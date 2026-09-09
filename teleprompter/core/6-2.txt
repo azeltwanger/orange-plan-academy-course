@@ -1,23 +1,33 @@
-For early retirement, having enough total wealth and being able to use the right money at the right time are separate questions. Let's map the years between the last paycheck and each account or benefit becoming available.
+You may have enough money for retirement in total but not a clear source for the years immediately after work stops. That is the early-retirement gap we need to fund.
 
-Start by drawing those dates for each person. Alex's proposed work-optional age is fifty-two. That creates about seven and a half years before he reaches fifty-nine and a half. Morgan is two years younger, so the same calendar year puts Morgan at a different access point. Their healthcare and benefit timelines also differ.
+Start with the first year you intend to reduce work. Bring forward its spending gap from the last lesson, then mark when the income and account-access picture changes.
 
-The bridge is the money that covers the gap between those dates. It is an intended funding job, not a separate investment product. Taxable brokerage assets, cash, and direct Bitcoin can support it, subject to their value and tax consequences. Some retirement resources may also be available under specific rules.
+Alex would like work to be optional at 52. The usual age-59½ landmark is seven and a half years later. Morgan is two years younger and has a separate timeline. We can't assume Alex's age makes Morgan's retirement accounts available on the same terms.
 
-A rough estimate multiplies the annual gap by the number of years. Eight years at sixty thousand dollars is four hundred eighty thousand before inflation, investment returns, tax changes, and events. That calculation tells you the scale. The actual funding plan needs the year-by-year model because income starts, debts end, prices change, and accounts become available over time.
+Those years need an actual funding path. A large later-retirement balance doesn't pay an early bill merely because it appears in net worth.
 
-Check access before assuming a retirement balance can fund the early years. Many withdrawals before fifty-nine and a half can create an additional tax unless an exception applies. Exceptions are specific to the account and circumstances. A useful planning question is, “Which of my actual dollars are available, under which rule, in this year?”
+Begin with any income that continues. Then identify cash and taxable investments assigned to these years. Some taxable money may already belong to the Reserve, a purchase, or education. Count the part genuinely available for the retirement gap, not the entire account total.
 
-Regular Roth IRA contributions have distribution ordering rules distinct from conversion amounts and earnings. A conversion can have its own early-distribution timing rule. A Roth workplace plan has different mechanics from a Roth IRA. Keep the records that support the amount you intend to access.
+Now review any retirement-account access you intend to use. Age 59½ is important, but it is not an absolute lock on all retirement money. Regular Roth IRA contributions, qualifying workplace-plan separation rules, certain governmental 457(b) distributions, and structured periodic payments can have different treatment.
 
-The workplace-plan separation exception often called the Rule of 55 can matter for eligible distributions from the relevant plan after qualifying separation. It does not simply turn every IRA into accessible money at fifty-five. A rollover can change the available route, so verify the plan and separation facts before moving assets.
+Each has conditions. Permission to withdraw, ordinary income tax, and an exception to additional early-distribution tax are separate questions. A plan may not allow the withdrawal you expect even when a tax exception exists. The Advanced access lesson verifies a route before we rely on it.
 
-Governmental 457(b) arrangements also have distinct rules. Substantially equal periodic payments can provide another route but create a long, rigid commitment with consequences if modified improperly. These methods belong in a professional-reviewed access plan, not a quick assumption that every account unlocks early.
+For the first comparison, use only access you can support. An exception you vaguely remember isn't a funding source.
 
-Social Security timing changes the gap as well. Starting earlier provides income sooner, generally at a lower monthly retirement benefit. Delaying can provide a larger later benefit, with delayed retirement credits ending at seventy. Compare the cost of funding the waiting years with the value of the later income, health and longevity considerations, and the surviving spouse's situation.
+Then look at the benefit dates. Stopping work and claiming Social Security do not have to happen together. Claiming earlier can bring income into the gap sooner; waiting may provide a larger later benefit under the rules. The cost of waiting is the additional support required before it starts.
 
-For a Bitcoin household, preserving more of the position during the early years can matter. But compare that preference with the cash cost of waiting for later income and the value of the later benefit. A plan to wait is incomplete when those early years have no credible funding source. A plan to claim earlier also needs to explain the smaller later income and the survivor implications. The actual household's dates and estimates decide which comparison is useful.
+Use your actual earnings record and estimates, and review the household rather than only one person's payment. Spousal and survivor benefits, age differences, continuing work and pension choices can change the comparison. A single break-even age doesn't answer every family's needs.
 
-We'll choose one early year and identify the account, cash amount, tax treatment and access rule supplying it. Then follow the years until the next income or access change. When a year has no credible source, return to contribution routing, spending, timing, or a professionally verified access option. Don't fill the gap with the total of an account that cannot yet fund it.
+Here's a simple way to read the effect. Imagine the portfolio currently supplies an annual gap with no Social Security included. Later, a $40,000 gross benefit begins. Holding other costs fixed for the illustration, the portfolio's job falls by $40,000. In the real calculation, taxes and other interactions need updating as well.
 
-Point to a funding source for every bridge year and name any special-access condition that still needs verification. Keep the two spouses' timelines separate. The useful result is a bridge the household can explain and execute, not simply a large enough balance on a later date.
+The benefit doesn't create a second portfolio. It reduces what that same portfolio needs to provide in the later years. This can explain why the early years are the difficult part even when the long-term total looks comfortable.
+
+Be clear about inflation conventions. A benefit estimate in today's dollars should not be treated as an already inflated future payment and increased again. Match the source estimate with the model's input convention.
+
+Now compare your resources across the whole gap, year by year. Start with the first withdrawal. Look at the balance remaining, the next year's need, and the date another income or access route becomes available. A rough annual gap multiplied by years is only an orientation; returns, taxes, events and timing affect the actual path.
+
+If the early years are short, compare the decision that addresses them. That might be directing more current saving into accessible accounts, reducing work gradually, changing a commitment, or verifying a legitimate access route. More saving in a later account is not automatically the fix.
+
+If the gap is adequately funded, don't keep sending every new dollar to it by habit. The longer-term accounts and tax decisions may deserve attention again. The funding need should guide the contribution, not an unchanging account rule.
+
+The working chapter finishes with a timeline you can explain: when work changes, which source funds each part of the gap, when benefits start, and what access still needs confirmation. Then we'll complete healthcare, one of the most important costs that changes when you leave an employer.

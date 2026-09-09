@@ -1,6 +1,6 @@
 # 3.6 — Write the rules before using leverage
 
-Status: TEACHING_REWRITE_REVIEW — individual spoken replacement using the accepted Reserve approach. New wording awaits Austin's voice/judgment review; no recording or publication approval is implied.
+Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
 Adapted source: Austin debt playbook, accepted Core operating-rule scope and Reserve liquidity judgment; original sources recorded in HANDOFF.md.
 App references: written rules do not establish alerts, automations, lender action times or actual saved execution.
 

@@ -1,7 +1,7 @@
 # W07 — Document the custody choice and actual recovery status
 
-Status: WALKTHROUGH_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/WALKTHROUGHS.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: WALKTHROUGH_REWRITE_REVIEW — complete paired narration and one recording plan per chapter. Final app/device procedures, inputs, outputs and capture evidence remain unverified.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: capture
@@ -10,71 +10,66 @@ Sources: CUSTODY, OWNER, APP
 
 ### Run sheet
 
-**Chapter 1, after 7.1:** complete the non-secret map: pool/job, method, owner, control preference, protection gained, dependency retained. No wealth ladder, exact secret locations, or key material.
+Use existing member deliverables and the unchanged fictional account inventory. Protect records non-secret facts and status, not recovery keys or an untested assurance. Architecture decisions, actual tests and user competence must be evidenced separately.
 
-**Chapter 2, after 7.2 and D07:** record tested/pending recovery status with evidence of the actual safe test. Buying hardware does not complete recovery. Refer exact steps to the separate device demonstration.
+Record chapters separately after their paired lessons. Only the paragraphs labeled Narration are prepared speech. Teaching graphics stay outside app screens. Read actual values and state changes during recording; do not substitute a staged output or unsupported feature.
 
-**Chapter 3, after 7.3:** record one account-security improvement and the One-Failure Test result. Enable controls externally with the provider; stage confirmations safely. Do not claim every provider has an allowlist, passkey, or particular recovery procedure.
+#### Chapter 1 — Choose custody for the household job
 
-**Chapter 4, after 7.4:** Protect records only supported non-secret facts and the next action. Show first contact, review trigger, and outside task. Verify financial-plan backup/restore capability separately; never imply a plan export is a wallet backup.
+**Show and do:** After 7.1, use the existing Family Custody Map and fictional example. Review direct Bitcoin, professionally held Bitcoin and brokerage-fund exposure separately, with owner, job, desired control, responsibility and retained dependency.
 
-### Source-led recording detail — not spoken
+**Narration:**
 
-Use the named Family Custody Map and its filled fictional example. The planning record contains no signing secrets and never certifies an unperformed or unrelated recovery test.
+“What problem is this arrangement solving? This portion provides direct control; this other process provides support with different dependence. Name both the benefit and what the household still has to manage. More methods are useful only when they address a real gap.”
 
-**Chapter 1**
+**Verify before recording:** Verify actual supported Protect fields and current owner/account facts. No invented provider rights, insurance, wealth-tier recommendation or independent recovery claim. Dedicated account and fund rules remain distinct.
 
-Prepare and demonstrate: Complete one row for direct custody, one professional pool and one brokerage-fund exposure. Compare job, control, support and dependency.
+**Member finish:** An intentional direction for every meaningful holding and a specific first protection action.
 
-Reusable narration: “Each method solves a different part of the household's needs. Name the protection it gains and the risk it still keeps.”
+#### Chapter 2 — Record actual recovery evidence
 
-Final screen/procedure insert: Actual supported Protect fields and source account identities; methods are not ranked by wealth or assumed secure by brand.
+**Show and do:** After 7.2 and D07, read the actual scoped receipt. Keep practice-wallet proof separate from verification relevant to a funded holding. Record dates/method/status only when supported.
 
-Member finish: Every meaningful pool has an intentional direction and one next protection action.
+**Narration:**
 
-**Chapter 2**
+“Which setup did this test cover? If it was the practice wallet, this funded wallet still needs its own check. We would rather keep one task visibly open than tell the family a backup was verified when it was not.”
 
-Prepare and demonstrate: Read D07's actual test receipt and its scope. Separate practice-wallet recovery from a check relevant to an existing funded wallet.
+**Verify before recording:** No checking Tested by default, no purchase-of-hardware equals recovery, no secrets or sensitive descriptor/xpub data in the ordinary record. Device-specific work stays in the reviewed procedure.
 
-Reusable narration: “This is what the test proved on this setup. It does not prove a different wallet's backup works.”
+**Member finish:** Recovery statuses and next actions match the actual evidence.
 
-Final screen/procedure insert: Correct wallet/setup, actual safe test and remaining unknowns. Do not mark the real holding recovered just because a practice balance appeared.
+#### Chapter 3 — Fix one important account or shared-dependency gap
 
-Member finish: Tested versus pending status accurately identifies the relevant method and evidence.
+**Show and do:** After 7.3, identify a shared recovery email, operator, provider or location. Choose one actual account-hardening action. Demonstrate only on an authorized example account and record the external confirmation or pending task.
 
-**Chapter 3**
+**Narration:**
 
-Prepare and demonstrate: Identify a shared email/phone, provider or operator failure. Choose one external hardening action and safely show its actual confirmation or leave it pending.
+“These logins share the same recovery route. Adding another account would not solve that failure. Let's fix the route we found, test the backup access, and then record what changed.”
 
-Reusable narration: “A second login doesn't help if the same failure blocks both recovery routes. Fix the dependency we actually found.”
+**Verify before recording:** Verify actual passkey/security-key/allowlist features, backup recovery, provider terms and confirmation. No passwords, recovery codes, exact locations or live client credentials filmed. Hardening does not certify provider solvency.
 
-Final screen/procedure insert: Actual provider controls, safe recovery alternatives and evidence; no passwords or usable recovery codes in footage.
+**Member finish:** One meaningful improvement with a named owner and evidence, plus remaining dependencies.
 
-Member finish: One material improvement has an owner and honest completion status.
+#### Chapter 4 — Finish the family starting map
 
-**Chapter 4**
+**Show and do:** After 7.4, complete the non-secret first contact, lawful starting route, review triggers and outside task for each arrangement. Use a consented operator-unavailable tabletop and revise a specific unclear instruction.
 
-Prepare and demonstrate: Record the non-secret first contact, review triggers and outside tasks. Match the Family Custody Map to the supported planning status and distinguish app backup from wallet backup.
+**Narration:**
 
-Reusable narration: “The family needs a safe place to start. The financial plan does not need the information that can move the Bitcoin.”
+“Show me where you would begin without asking the unavailable person. This map directs you to the legitimate process; it does not contain the keys. A financial-plan backup restores plan data, not access to the Bitcoin wallet.”
 
-Final screen/procedure insert: Real export/restore behavior separately; no descriptors, xpubs, exact recovery locations or full signing route added.
+**Verify before recording:** Verify actual read/export/restore scope separately. No exact secret storage, complete signing route or fabricated listener outcome. Qualified legal authority and operational help remain separate.
 
-Member finish: The map is usable, the dependencies are named and recovery status is truthful.
-
-The existing run sheet and these chapter details describe the same recording. No actual model result, provider/device operation, legal authority, listener test or publication approval is established by this written preparation. Any absent promised behavior remains held and reported; it is not silently replaced with a fabricated screen.
+**Member finish:** A usable dated map and truthful protection status with the relevant family starting process.
 
 ### Readback and finish
 
-The method is intentional, dependencies are named, recovery status is truthful, and one next action has an owner. No seed, private key, passphrase, descriptor contents, xpub, password, or location exposed.
+Custody direction, account security, recovery evidence and the family starting map describe the same holdings with their retained risks. All status claims are scoped to actual evidence.
 
+### Production notes
 
-### Spoken cues (use with the matching chapters)
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
-**Chapter 1.** Name the job and the control preference for each meaningful pool. Then record the protection gained and the risk still retained.
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
-**Chapter 2.** Record what the recovery test actually proved. A pending test stays pending.
-
-**Chapter 3.** Choose the largest shared failure to address first. Security changes happen with the provider or device; the plan records the result.
-
-**Chapter 4.** The family needs the safe starting point and the next action. Recovery secrets stay out of this record.
+This file replaces the prior duplicate summary/detail/cue sets with one chapter sequence. Original sources, the fixed household, member documents and the capture register remain unchanged. No real recording, provider action or learner result is certified.
