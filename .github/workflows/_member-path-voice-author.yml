@@ -1,66 +1,71 @@
-name: Prepare member-path and spoken-language edit
+name: Finalize member-path wording and reading copy
 on:
   push:
     branches: [course-member-path-voice-edit-20260908]
-    paths: [.github/workflows/_member-path-voice-author.yml, tools/_voice_edits_main.py, tools/_voice_edits_later.py, tools/_voice_edits_situations.py, tools/_course_navigation.py, tools/_apply_member_path_voice.py, tools/_inventory_contract_voice.py]
+    paths: [.github/workflows/_member-path-voice-author.yml]
 permissions:
   contents: read
-concurrency:
-  group: academy-member-path-voice-edit-20260908
-  cancel-in-progress: false
 jobs:
-  prepare:
+  finalize:
     if: github.repository == 'azeltwanger/orange-plan-academy-course' && github.ref == 'refs/heads/course-member-path-voice-edit-20260908'
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 8
+    timeout-minutes: 6
     steps:
       - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
         with:
           ref: ${{ github.sha }}
           fetch-depth: 0
-      - name: Guard the source and apply the authored changes
+      - name: Replace the last two obsolete course-level references
         shell: bash
         run: |
           set -euo pipefail
-          test "$(git rev-parse HEAD)" = "$GITHUB_SHA"
-          git merge-base --is-ancestor f6392a6341c23c557e605506dab3530b67efa146 HEAD
-          test -z "$(git diff f6392a6341c23c557e605506dab3530b67efa146 --name-only -- scripts tools/guided_course.py source-material fixtures toolkit tests production CAPTURE-RECEIPTS.md PROMOTION-RECORD.json)"
-          python -m py_compile tools/_voice_edits_*.py tools/_course_navigation.py tools/_apply_member_path_voice.py tools/_inventory_contract_voice.py
-          python tools/_apply_member_path_voice.py apply
-          python tools/_inventory_contract_voice.py
-          python -m py_compile tools/guided_course.py tests/test_member_deliverables.py
+          test "$(git rev-parse HEAD^)" = b63e5aa60c164d7243d4592270903d3745176b1e
+          python - <<'PY'
+          from pathlib import Path
+          import runpy,subprocess
+          g=runpy.run_path('tools/guided_course.py');rows={r['id']:r for r in g['catalog'](Path('.'))}
+          changes={
+            '5.5':('The Advanced lesson goes through a transaction packet when you need it.','The harvesting-transaction lesson takes you through the records and instructions before a sale.'),
+            'A5.1':('The core lesson explained conversion tax and its funding source. Here we will look at increments and changing years.',"We already worked through the tax on a conversion and where the tax money comes from. Here we'll compare different amounts over several years."),
+          }
+          for lid,(a,b) in changes.items():
+              p=Path(rows[lid]['path']);s=p.read_text();assert s.count(a)==1;p.write_text(s.replace(a,b,1))
+          p=Path('HANDOFF.md');s=p.read_text();assert s.count('152 selected replacements/deletions')==1;p.write_text(s.replace('152 selected replacements/deletions','154 selected replacements/deletions',1))
+          p=Path('delivery/teaching-revision.md');s=p.read_text();assert s.count('152 individually selected paragraph replacements')==1;s=s.replace('152 individually selected paragraph replacements','154 individually selected paragraph replacements',1);s+='\n\nFinal read-through corrected the two remaining spoken references to “the Advanced lesson” and “the core lesson” so they name the actual preceding or related lesson instead. No financial explanation changed.\n';p.write_text(s)
+          expected={rows[lid]['path'] for lid in changes}
+          actual=set(subprocess.check_output(['git','diff','--name-only','--','scripts']).decode().splitlines())
+          assert actual==expected,(actual,expected)
+          PY
           python tools/guided_course.py build
           python tools/guided_course.py check
           python tools/guided_course.py test
           python -m unittest discover -s tests -p test_member_deliverables.py -v
           python tools/guided_course.py history
-      - name: Confirm preservation and publish only to the dedicated branch
+      - name: Save only the final source and synchronized reading changes
         shell: bash
         run: |
           set -euo pipefail
-          test -z "$(git diff f6392a6341c23c557e605506dab3530b67efa146 --name-only -- source-material fixtures toolkit production CAPTURE-RECEIPTS.md PROMOTION-RECORD.json scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md)"
-          test "$(git diff f6392a6341c23c557e605506dab3530b67efa146 --name-only -- tests)" = 'tests/test_member_deliverables.py'
-          git add scripts lesson-text teleprompter modules README.md FINALIZATION-STATUS.md HANDOFF.md delivery/teaching-revision.md tools/guided_course.py tests/test_member_deliverables.py COURSE-MANIFEST.json MASTER-COURSE.md MASTER-ADVANCED.md ALL-SCRIPTS.md DICTATION-ORDER.md ADVANCED-DICTATION-ORDER.md FILM-ORDER.md CIRCLE-STRUCTURE.md SCREEN-SHOOT-LIST.md MODULE-CHECKPOINTS.md PRODUCTION-CHECKLIST.md COURSE-METRICS.md ARITHMETIC-CHECKS.json
-          test -z "$(git diff --cached --name-only -- .github source-material fixtures toolkit production CAPTURE-RECEIPTS.md PROMOTION-RECORD.json ARITHMETIC-CHECKS.json)"
+          test -z "$(git diff b63e5aa60c164d7243d4592270903d3745176b1e --name-only -- source-material fixtures toolkit tests production CAPTURE-RECEIPTS.md PROMOTION-RECORD.json ARITHMETIC-CHECKS.json tools/guided_course.py scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md)"
+          git add scripts lesson-text teleprompter modules HANDOFF.md delivery/teaching-revision.md COURSE-MANIFEST.json MASTER-COURSE.md MASTER-ADVANCED.md ALL-SCRIPTS.md COURSE-METRICS.md
           git diff --cached --check
           git fetch origin refs/heads/course-member-path-voice-edit-20260908
           test "$(git rev-parse FETCH_HEAD)" = "$GITHUB_SHA"
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Integrate one member path, conditional lesson routes and individual spoken-language edits'
+          git commit -m 'Use direct lesson references in the final spoken reading copy'
           git push origin HEAD:refs/heads/course-member-path-voice-edit-20260908
           test "$(git ls-remote origin refs/heads/course-member-path-voice-edit-20260908 | cut -f1)" = "$(git rev-parse HEAD)"
           python tools/guided_course.py check
           git diff --exit-code
           git rev-parse HEAD
           git rev-parse HEAD^{tree}
-      - name: Generate the source-matched reading copy
+      - name: Generate final source-matched reading files
         run: python tools/_apply_member_path_voice.py reader --out /tmp/orange-plan-member-reading
       - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
         with:
-          name: Orange-Plan-Member-Path-Reading-Copy
+          name: Orange-Plan-Member-Path-Reading-Copy-Final
           path: /tmp/orange-plan-member-reading
           if-no-files-found: error
           retention-days: 30
