@@ -1,0 +1,55 @@
+{
+  "prepared_date": "2026-09-09",
+  "scope": "Allocation teaching visuals and narration, not recorded footage",
+  "source_commit": "34d34482a08f358da13d019c485ba248cec7921e",
+  "source_tree": "b7d8c95bba8c83335f68667524b6db3f4ffaa08f",
+  "main_slides": 62,
+  "situational_slides": 5,
+  "main_lessons": ["4.1", "4.2", "4.3", "4.4", "4.5", "4.6", "4.7"],
+  "situational_lessons": ["A4.1"],
+  "canonical_scripts_changed": false,
+  "narration_reconstructed_exactly": true,
+  "binaries_committed_to_repository": false,
+  "package": {
+    "filename": "Orange_Plan_Allocation_Filming_Package.zip",
+    "sha256": "53e50f50e1c2479e63369626f4d0585ce8da6385553b25f72a3e3958e8540a73",
+    "bytes": 940845,
+    "files": 35,
+    "delivery": "Owner-review attachment in the course conversation"
+  },
+  "outputs_sha256": {
+    "Orange_Plan_Allocation_Teaching.pptx": "e3b3e88f412c15ba92333f4f9218084a5c49144cc58dd013251d3d24eea7d83c",
+    "Orange_Plan_Allocation_Teaching.pdf": "d9d85425eb83fc7110808e6f4684bc541ee6e25ee04dca923dcea1b01b4c652e",
+    "For_Your_Situation_Large_Allocation_Change.pptx": "5aa0cc681ca3676395120cd59cf05e1adcd09e5806d7a35bffaf71c01d4f9062",
+    "For_Your_Situation_Large_Allocation_Change.pdf": "9ba6116e1561980f49724ce02498a4e79f62f7c1ff2afc0de653d8d6cd74da72",
+    "Allocation_Rehearsal.html": "9b1352eb6fe94ff45ecb41d41956140b853c51ee47e38ac416f301a71e69986f",
+    "Allocation_Recording_Guide.md": "95c4e4d1f3a5646fa0b02a32e00a45efa9f2a9fa7f8a443005eae85416ba3746",
+    "Source/allocation-slides.json": "ddf802a7dfec3f4c1c14f6ca1a55dbe5ef5725b94ffc2bfd086094bb2c42b1fe",
+    "Source/build.py": "f15fa0df1063faab8dea8c3497a64fa57336b44c22c71249674017ef4e4ab918"
+  },
+  "canonical_source_sha256": {
+    "4.1": "e61a0bb51dd1f98bff11698c2f2129a093b9b883ce4ce38d102ee377887b4bf8",
+    "4.2": "ee765f48a9bb8dd81f5285457ddcf1fed30fa8f8717a2d9d9f254983e8aed88b",
+    "4.3": "c2df1b875bf3fbe42c5798e12b4d0f91ac032df7aa404ec161a46fd6c7aa2504",
+    "4.4": "fccbe56ea91f4337910cbc6bbda485b256951d88c2adc99bf16edaf8d2ab6ce6",
+    "4.5": "583b397729c49df90c11ede9926989916f00f582a5d47499dc05e5950a804761",
+    "4.6": "c1daf9755b98bfd0c305857718aee03ab6486c66bf3895c4b9f8310c2aed2118",
+    "4.7": "3d912948de6d9ffa9ed2bcfb451a3ca07de7d13608557f3b076c3fb2a06367e0",
+    "A4.1": "1a4cac72d795183d459e46871cc2d0cfc17e29b75274728b853d263ba989dfd3",
+    "W04": "486137a2e3a81c446aa5946c3ca203f41d65a195473e744af41ee21fe43371c3"
+  },
+  "local_checks": [
+    "All eight read-aloud blocks reconstruct exactly from mapped slide paragraphs, once and in order.",
+    "Each generated main and situational PowerPoint note matches the expected narration.",
+    "All 67 slide views were rendered and visually inspected.",
+    "All authored visible text is present on its intended PDF page; text spans and slide objects remain in bounds.",
+    "The main PowerPoint passed the slide overflow test.",
+    "Rehearsal navigation, hidden narration, slides-only, Escape and mobile width were checked."
+  ],
+  "fonts_supplied_or_embedded_in_pptx": false,
+  "app_capture": "HOLD — not run",
+  "owner_voice_approval": "pending",
+  "independent_professional_signoff": "not established by this package",
+  "learner_comprehension": "not measured",
+  "recorded_videos": 0
+}

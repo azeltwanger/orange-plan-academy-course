@@ -1,5 +1,7 @@
 # Orange Plan Academy
 
+**Allocation filming package — September 9, 2026:** The seven Allocation lessons now have 62 editable teaching slides with exact narration in notes, a separate five-slide situational clip, PDF reviews and an offline rehearsal view. [Recording map and source identities](delivery/allocation-filming/README.md). Files are supplied in the owner-review download; the source-linked map is in this repository. App capture and voice approval remain separate. No teaching scripts or financial assumptions changed in this production step.
+
 **Member application — September 9, 2026:** The separate thirteen practice cases and answer checks have been removed at Austin's direction. The clearer explanations remain. Members learn from the teaching, follow the walkthrough and apply the decision to their own plan in Orange Plan. No separate homework, quiz, required post, submitted explanation or course approval step is part of that flow. [Editorial record](delivery/decision-learning-review.md). Actual app and learner evidence still require real use.
 
 **Source-based technical review — September 8, 2026:** The tax, account-access, healthcare, lending, custody and estate/insurance topic check is documented in [the review packet](delivery/professional-topic-review.md). Sixteen bounded edits clarify ten lessons, with paired recording checks. The factual desk review is complete; licensed sign-off, actual app/device evidence and service-scope classification are not claimed. Existing publication gates remain unchanged.
