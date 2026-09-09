@@ -1860,9 +1860,13 @@ An IRA may provide more investment choice or control than a workplace plan. Comp
 
 For self-directed Bitcoin retirement arrangements, account administration and custody still matter. It isn't a personal wallet with an IRA label. Contributions, transfers, distributions, and permitted transactions have to follow the retirement arrangement. The account's tax benefit doesn't remove those responsibilities.
 
+For an IRA, don't use the Bitcoin as collateral for a personal loan or sell your personally owned Bitcoin to your own IRA. Those transactions can trigger distributions or loss of IRA tax treatment. Direct control does not turn retirement assets into unrestricted personal property.
+
 An HSA can be attractive when you are eligible to contribute and the money has a healthcare role. It can combine favorable contribution treatment with tax-free use for qualified medical expenses. You need the coverage eligibility and the records supporting qualified use, not just an account with HSA in its name.
 
-Then check what the HSA can invest in. A limited menu doesn't automatically make the account bad, but it changes the comparison. You might hold appropriate stock exposure there and Bitcoin elsewhere. Or you might decide that more accessible Bitcoin is a more useful next contribution than additional restricted healthcare money. Compare the tax benefit, menu, access, and purpose together.
+For tax-free reimbursement, the medical expense must qualify, have been incurred after the HSA was established, and not already have been reimbursed or deducted. After 65, nonmedical withdrawals are still income-taxable, but the additional 20% tax no longer applies. The account is not limited to medical spending forever.
+
+Then check what the HSA can invest in. A limited menu doesn't automatically make the account bad, but it changes the comparison. You might hold appropriate stock exposure there and Bitcoin elsewhere. Or you might decide that more accessible Bitcoin is a more useful next contribution than additional HSA saving. Compare the tax benefit, menu, access, and purpose together.
 
 That is the reasoning behind the deck's HSA, IRA, and additional workplace sequence for long-term money. Healthcare treatment can make an HSA useful; investment choice can make an IRA useful; workplace contribution room can make the employer plan useful. These are reasons to investigate—not instructions to open all three regardless of circumstances.
 
@@ -1891,6 +1895,10 @@ Deck Steps 7 and 9. Conditional account comparisons, not a generic tax-wrapper h
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
 Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P01/P03; S1, S3, S4. Distinguish a pledged-portion deemed distribution from the separate loss-of-IRA-status rule. HSA later nonmedical use is taxable; Medicare eligibility months and 2026 coverage changes need the exact facts. See [the technical review](../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 
@@ -1938,11 +1946,13 @@ Roth also provides flexibility when qualified withdrawals do not add taxable inc
 
 A mix can be deliberate. You may want some tax benefit today and some money with qualified Roth treatment later. There isn't a rule that every contribution has to use the same election forever.
 
-Check the paycheck as well. Suppose Alex keeps contributing $775 a month but changes a deductible Traditional contribution to Roth. He may take home less, even though the same amount reaches the retirement account. That difference needs to come from somewhere. This is a comparison, not a statement about his current election.
+Check the paycheck as well. Suppose Alex keeps contributing $775 a month but changes a pretax workplace contribution to Roth. He may take home less, even though the same amount reaches the retirement account. That difference needs to come from somewhere. This is a comparison, not a statement about his current election.
 
 You could compare equal contribution amounts, but show the different current cost. Or compare equal household cost, with different amounts entering the accounts. Either can answer a useful question. Don't call them the same comparison.
 
 An IRA adds a deduction check. A Traditional IRA contribution isn't always deductible, and nondeductible basis creates recordkeeping and conversion issues. A workplace Roth account also doesn't share every distribution rule with a Roth IRA. Use the rules for the actual account, not a label on a diagram.
+
+For ordinary retirement use, qualified Roth IRA earnings generally require both age 59½ and the five-tax-year period beginning with the first tax year for which you contributed to any Roth IRA. Other qualifying circumstances exist. This is separate from withdrawing regular contributions or checking a conversion's five-year rule.
 
 This lesson is about new contributions. Moving an existing Traditional balance into Roth is a conversion, with a separate tax and cash-funding decision. We'll compare that in Tax rather than treating a payroll election as a conversion of everything already invested.
 
@@ -1963,6 +1973,10 @@ Check what happens to the current budget when changing the election. Alex's exam
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
 Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P02; S1, S14. The ordinary Roth IRA qualification description does not replace other qualifying events or IRA contribution/conversion ordering. Workplace nonqualified Roth distributions follow their own rules. See [the technical review](../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 
@@ -2256,6 +2270,8 @@ Keep three flows separate: the conversion, the spending money, and the tax payme
 
 For the course's simple illustration, converting $30,000 produces $6,000 of additional tax under the assumed circumstances. The full $30,000 goes into Roth. The $6,000 needs another source. These aren't computed Reed tax figures.
 
+Withholding tax from the IRA changes this comparison. Money withheld does not reach Roth unless you replace it through a valid rollover. Any taxable amount left out can also face the 10% additional early-distribution tax before 59½ unless an exception applies. Compare what actually reaches Roth and how the tax is paid.
+
 Now ask what that tax money was doing. If it was essential Reserve cash, spending it on tax makes the household less liquid. You might choose a smaller conversion or wait for a different funding opportunity. If it was money available to invest, using it for tax also has an opportunity cost.
 
 Let's follow that second case through with a deliberately simplified comparison.
@@ -2282,7 +2298,7 @@ Then read the first affected year and a later year. What cash was consumed? What
 
 You can compare a smaller conversion before a larger one. Look at the additional cost of the next increment. It may cross a bracket, reduce healthcare assistance, or affect a later Medicare premium. There is no requirement to fill every low-looking year to a fixed line.
 
-Required distributions have to be handled under their own rules; the amount required for the year generally cannot simply be converted instead. Nondeductible basis can change the taxable portion, and access to converted amounts has timing rules distinct from ordinary Roth contributions and qualified earnings. Those details need verification for the actual accounts before execution.
+Required distributions must be satisfied separately; that amount cannot be converted. If you have nondeductible IRA basis, the tax calculation generally combines your own Traditional, SEP and SIMPLE IRAs, including their year-end values. You cannot isolate the after-tax money just by choosing one IRA to convert. Use Form 8606 and the complete records. Access to converted amounts has its own timing rules.
 
 Also understand that a completed Roth conversion generally cannot be undone by recharacterizing it back to Traditional under current rules. A speculative choice based only on an expected market rebound deserves careful review before moving the money.
 
@@ -2299,6 +2315,10 @@ Tax deck Step 5 and current D48 comparison: total after-tax resources, liquidity
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
 Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P04; S2, S8. Verify Form 8606 definitions/year-end values per owner, relevant distribution amounts, withholding, valid rollover replacement and additional-tax exceptions. Source illustrations are not actual tax liabilities. See [the technical review](../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 
@@ -2462,6 +2482,8 @@ For the first comparison, use only access you can support. An exception you vagu
 
 Then look at the benefit dates. Stopping work and claiming Social Security do not have to happen together. Claiming earlier can bring income into the gap sooner; waiting may provide a larger later benefit under the rules. The cost of waiting is the additional support required before it starts.
 
+For your own Social Security retirement benefit, delayed retirement credits stop at 70. Waiting past that age does not earn more of those credits. Spousal and survivor benefits follow different rules.
+
 Use your actual earnings record and estimates, and review the household rather than only one person's payment. Spousal and survivor benefits, age differences, continuing work and pension choices can change the comparison. A single break-even age doesn't answer every family's needs.
 
 Here's a simple way to read the effect. Imagine the portfolio currently supplies an annual gap with no Social Security included. Later, a $40,000 gross benefit begins. Holding other costs fixed for the illustration, the portfolio's job falls by $40,000. In the real calculation, taxes and other interactions need updating as well.
@@ -2487,6 +2509,10 @@ Retirement deck bridge/benefit timing and current qualified-access scope. Preser
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
 Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P06; S11. Own-benefit delayed credits do not continue past 70. Separate current household, survivor, pension, Medicare and access rules. See [the technical review](../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 
@@ -2534,6 +2560,10 @@ This course does not choose a health arrangement for every member. It helps you 
 
 Next, put Medicare on the timeline. Many people become eligible around 65, but eligibility, enrollment, coverage start, employer coverage and HSA contributions need coordination. The end of a job is not automatically the correct Medicare start date for every person.
 
+Once you're Medicare-eligible, COBRA or retiree coverage does not extend the normal employment-based Part B enrollment window. Check the deadline when active employment or its coverage ends, not when COBRA runs out.
+
+Applying for premium-free Part A after 65 can backdate coverage by up to six months, but not before eligibility. Check that effective date before funding an HSA. Include employer contributions when working out the permitted amount.
+
 Medicare also does not make healthcare free. Budget the relevant premiums, supplemental or alternative coverage, prescriptions, cost sharing, and other expenses. Income-related premiums can connect today's tax decisions with a later bill, and the lookback and appeal rules need current checking.
 
 For a couple, one person may enter Medicare while the other still needs different coverage. Model those periods separately rather than switch the entire household at the older spouse's birthday.
@@ -2551,6 +2581,10 @@ Retirement healthcare bridge framework. New generic normal-year illustration12kp
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
 Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P07; S4, S12. Verify the normal eight-month Part B window and any applicable other enrollment route, actual Part A effective date and HSA eligibility. Never prescribe six months before every person's 65th birthday as a universal HSA stop date. See [the technical review](../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 
@@ -3158,7 +3192,7 @@ We're going to identify those roles before discussing more complicated estate st
 
 There are two different questions. Who can help while you are alive but unable to manage things? And who is authorized after you die?
 
-A financial power of attorney can authorize an agent to act under its terms while you are alive. Healthcare decision-making has its own documents and scope. After death, the estate, trust, and beneficiary processes determine the relevant authority. The same person may have more than one role, but the role is not interchangeable just because their name appears on a document.
+A financial power of attorney names someone to act under its terms while you are alive. For incapacity planning, confirm that it is durable, when it takes effect, and which powers it actually grants. Healthcare decisions use separate authority. After death, the estate, trust and beneficiary processes apply instead. One person can hold several roles, but each role needs its own authority.
 
 Start with the people you would want involved. For financial decisions, choose someone reliable, willing, and able to follow the process. They can seek professional help; they don't have to be the household's best investor. For healthcare, choose someone who understands your wishes and can handle the responsibility.
 
@@ -3193,6 +3227,10 @@ For Alex and Morgan, having children and several account types makes that coordi
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
 Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P11; S28. Durability and scope need applicable state law and the actual instrument. No estate document, authority or institution acceptance was created or approved. See [the technical review](../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 

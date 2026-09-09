@@ -16,7 +16,7 @@ We're going to identify those roles before discussing more complicated estate st
 
 There are two different questions. Who can help while you are alive but unable to manage things? And who is authorized after you die?
 
-A financial power of attorney can authorize an agent to act under its terms while you are alive. Healthcare decision-making has its own documents and scope. After death, the estate, trust, and beneficiary processes determine the relevant authority. The same person may have more than one role, but the role is not interchangeable just because their name appears on a document.
+A financial power of attorney names someone to act under its terms while you are alive. For incapacity planning, confirm that it is durable, when it takes effect, and which powers it actually grants. Healthcare decisions use separate authority. After death, the estate, trust and beneficiary processes apply instead. One person can hold several roles, but each role needs its own authority.
 
 Start with the people you would want involved. For financial decisions, choose someone reliable, willing, and able to follow the process. They can seek professional help; they don't have to be the household's best investor. For healthcare, choose someone who understands your wishes and can handle the responsibility.
 
@@ -51,6 +51,10 @@ For Alex and Morgan, having children and several account types makes that coordi
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
 Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P11; S28. Durability and scope need applicable state law and the actual instrument. No estate document, authority or institution acceptance was created or approved. See [the technical review](../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 

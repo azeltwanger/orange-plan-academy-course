@@ -48,6 +48,8 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Member finish:** The history needed for the decision reconciles, or the precise evidence gap remains visible without duplicate assets.
 
+**Technical check before filming:** P10: A UTXO choice or consolidation does not alone establish tax-lot identification. Preserve acquisition histories and the current quantity. Use the actual asset/custody/year identification rules; do not treat the 2026 broker relief as an unhosted-wallet default.
+
 #### Chapter 3 — Find the actual tax window
 
 **Show and do:** After 5.3, open supported contextual Tax strategy and year detail. Show each person's employment and benefit dates, taxable-account sources and later required distributions. Identify one bounded income window and all other transactions using it.
@@ -74,6 +76,8 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Member finish:** A justified amount/range or decision not to convert, with separate spending and tax funding and specific review prerequisites.
 
+**Technical check before filming:** P04: Show gross distribution, amount actually reaching Roth, withholding and external replacement/tax cash separately. For IRA basis, gather the owner's combined relevant Traditional/SEP/SIMPLE IRA values and Form 8606 history; do not aggregate spouses or substitute one selected account. Preserve RMD exclusion and actual early-access conditions. Unsupported calculations remain a labeled reviewed worksheet, not a claimed app result.
+
 #### Chapter 5 — Prepare one harvesting action or deliberate pass
 
 **Show and do:** After 5.5, review a real supported fictional candidate against the rest of the tax year. Contrast the separate $20,000/$16,000 gain and loss graphics. Prepare timely identification, replacement exposure, costs and current-rule checks before external execution.
@@ -85,6 +89,8 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 **Verify before recording:** Verify current asset/account/year rules, identification evidence, securities wash-sale interactions, relevant spouse/accounts, supported carryforwards and fees. Direct Bitcoin is not automatically a security fund; no permanent immediate-repurchase assurance. No proposed trade shown as completed.
 
 **Member finish:** One reviewed proposal with prerequisites and deadline, or an explained decision to pass.
+
+**Technical check before filming:** P05: Check substantially identical replacement activity in the owner's IRA/Roth IRA and other relevant accounts before a securities harvest. The IRA replacement exception can permanently lose the loss deduction. Preserve the distinction between directly held Bitcoin, funds and other securities; no universal immediate-repurchase rule.
 
 #### Chapter 6 — Finish the professional and reporting packet
 

@@ -354,6 +354,8 @@ A planning app's selection is not automatically an instruction received by a bro
 
 For a loss harvest, check the replacement exposure before placing the sale. Automatic purchases, reinvestment, another account and a spouse's relevant activity can affect a securities wash-sale analysis. Don't assume a Bitcoin fund and directly held Bitcoin have identical treatment. Obtain current review of the actual transaction rather than repeat an old crypto-tax shortcut.
 
+Be especially careful about replacement purchases in your own IRA or Roth IRA. A securities loss disallowed because of that purchase does not receive the usual replacement-basis adjustment. The deduction can be lost permanently, not merely postponed. Check automatic purchases before harvesting the taxable loss.
+
 For a gain harvest, update the rest of the year's income. A conversion or business-income change can consume the same favorable room. Federal gain treatment alone doesn't establish the full state, healthcare or other income-sensitive cost.
 
 Before the sale, complete the review and required identification. Afterward, keep the confirmation and reconcile the units, proceeds, and remaining holdings. If you first move coins between your own wallets, keep their purchase history attached; the transfer is not a new purchase.
@@ -379,6 +381,10 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 Prepareonefictionallotcasewithtimelyidentificationevidenceandoneunknownrecord;readreplacementconditionsandpost-traderemaininglots usingclearlystagedrecord. Narration: “This row is an available choice only when the units and the identification process are supported.” Noactualexecution.
 
 The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P05; S5–S7. Securities IRA replacement losses differ from the normal taxable replacement-basis deferral. Temporary 2026 broker identification relief is conditional and does not validate a later app dropdown selection. See [the technical review](../../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 
@@ -472,6 +478,8 @@ This lesson is for a year when coverage or premiums depend on the household's in
 
 Start with the same household, coverage dates and spending in both versions. List income, taxable withdrawals, realized gains and the proposed conversion. Then use the program's actual income definition. It may differ from the income number you usually recognize on the tax return.
 
+For Marketplace coverage, start with adjusted gross income and add tax-exempt interest, nontaxable Social Security, and excluded foreign income. The standard deduction does not reduce this income measure. Include the relevant household members under the program's rules.
+
 For a taxable sale, the whole cash amount is not necessarily income. Basis and gain matter. A fully taxable Traditional withdrawal can add much more income than a sale providing similar spending cash. Qualified Roth treatment and cash already held are different again.
 
 Here is a separate illustration of the combined-cost calculation. Suppose a $10,000 conversion adds $2,000 of income tax. On its own, that looks like a 20% cost.
@@ -482,7 +490,9 @@ Those are hypothetical amounts to show the calculation, not a subsidy estimate o
 
 For Marketplace coverage, verify the current year's eligibility and assistance rules, household size, coverage options and income estimate. Update the estimate when actual circumstances change and understand how advance assistance will be reconciled. Do not assume last year's rules continue unchanged.
 
-For Medicare, identify the year whose income affects the premium and the year when that premium is paid. This is not the same calculation or timing as Marketplace assistance. A transaction now can affect a later bill, subject to the current rules and any available reconsideration process.
+A conversion or gain late in the year can also require you to repay premium assistance already received. Include that potential repayment in the cash needed for the decision, not just the premium shown today.
+
+Medicare's income-related premium calculation generally uses adjusted gross income plus tax-exempt interest from two tax years earlier. That is a different income definition and timing from Marketplace assistance. Identify both the income year and the premium year, and check whether a qualifying life event permits reconsideration.
 
 In a couple, the two people may have different coverage during the same year. One may be on Medicare while the other uses a Marketplace or employer plan. Review both effects instead of assigning the entire household one coverage switch.
 
@@ -509,6 +519,10 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 Place the generic $2,000 tax and $1,500 coverage change beside the $10,000 conversion on a separate graphic. Then compare an actual reviewed household year with current coverage and income rules. Narration: “The tax line is only part of the cost. Add the change in what this household pays for coverage, then decide whether the conversion still serves its purpose.” Keep external coverage results labeled; no invented quotes.
 
 The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P08; S13. Use actual household composition and coverage-year MAGI. IRMAA generally uses AGI plus tax-exempt interest from two years before. The 2026 PTC review must include full excess-advance-credit repayment and current eligibility; no app coverage calculation is certified. See [the technical review](../../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 
@@ -622,6 +636,8 @@ A governmental 457(b) arrangement can have different additional-tax treatment to
 
 Substantially equal periodic payments—often called SEPP or 72(t) payments—provide another possible route. The calculation method, account balance, age, payment schedule and permitted changes need careful verification. This is not a flexible withdrawal plan that you can casually alter when spending changes.
 
+For this exception through an employer plan, the payments must begin after separation from that employer. An IRA does not have that employment-separation requirement. Verify the route for the account you intend to use before starting the series.
+
 The required period generally lasts until the later of five years from the first payment or age 59½, subject to applicable exceptions. For an illustration based on exact birthdays, beginning at 54 would run to 59½, which is five and a half years. Beginning at 58 would run to 63, because five years is later than reaching 59½.
 
 Those examples explain duration, not eligibility or an approved withdrawal amount. Exact dates matter. An improper modification can create retroactive additional tax and interest. The allowed method and account setup should be reviewed before the first dependent distribution.
@@ -649,6 +665,10 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 Use one actual fictional bridge interval and the intended account. Read the person, separation/withdrawal dates, source records and rule. Compare a rollover before and after only where its access effect is verified. Narration: “This exception belongs to this account and these circumstances. Moving the money can change the route, so we check before submitting the rollover.” No individual SEPP amount without complete review.
 
 The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P09; S10. SEPP method, actual dates, account identity and employer separation must be verified. The existing exact-birthday examples demonstrate duration only, not an approved distribution schedule. See [the technical review](../../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 
@@ -826,6 +846,8 @@ Before transacting, verify the wallet setup and recovery status. Use the correct
 
 Preserve the ownership and purchase history in the records. Moving coins to your own new output does not automatically mean you acquired the Bitcoin again at today's price. Real transaction-fee treatment needs the appropriate supported tax handling rather than an invented balancing purchase.
 
+Coin control selects transaction outputs; it does not, by itself, establish which tax lots you have legally identified. A consolidation can combine several purchase histories into one output. Keep the acquisition records and any required timely identification alongside the transaction history.
+
 The demonstration uses a separate small-value setup. It shows the available outputs, actual preview and privacy comparison without publishing sensitive addresses or recovery material. Match the procedure to the exact wallet and software before using it with your own holdings.
 
 Compare the fee paid now, the possible saving on a later payment, and the privacy cost. Consolidate only the outputs that fit your purpose—or leave them alone when a transaction wouldn't improve the situation.
@@ -845,6 +867,10 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 Use an approved practice wallet to inspect actual output selection and fee preview; show the generic multiplication separately. Narration: “This is the fee for this transaction shape. Consolidating may simplify a later payment, but it spends fees now and links these outputs.” No broadcast until explicitly authorized and exact procedure verified; no sensitive identifiers filmed.
 
 The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P10; S7, S26. This is a cross-check between output selection and tax identification; not a claim that each output is a unique tax lot or that a self-transfer resets basis. Preserve metadata privacy and the actual device procedure. See [the technical review](../../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 

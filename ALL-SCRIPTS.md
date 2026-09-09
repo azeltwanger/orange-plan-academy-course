@@ -1328,9 +1328,13 @@ An IRA may provide more investment choice or control than a workplace plan. Comp
 
 For self-directed Bitcoin retirement arrangements, account administration and custody still matter. It isn't a personal wallet with an IRA label. Contributions, transfers, distributions, and permitted transactions have to follow the retirement arrangement. The account's tax benefit doesn't remove those responsibilities.
 
+For an IRA, don't use the Bitcoin as collateral for a personal loan or sell your personally owned Bitcoin to your own IRA. Those transactions can trigger distributions or loss of IRA tax treatment. Direct control does not turn retirement assets into unrestricted personal property.
+
 An HSA can be attractive when you are eligible to contribute and the money has a healthcare role. It can combine favorable contribution treatment with tax-free use for qualified medical expenses. You need the coverage eligibility and the records supporting qualified use, not just an account with HSA in its name.
 
-Then check what the HSA can invest in. A limited menu doesn't automatically make the account bad, but it changes the comparison. You might hold appropriate stock exposure there and Bitcoin elsewhere. Or you might decide that more accessible Bitcoin is a more useful next contribution than additional restricted healthcare money. Compare the tax benefit, menu, access, and purpose together.
+For tax-free reimbursement, the medical expense must qualify, have been incurred after the HSA was established, and not already have been reimbursed or deducted. After 65, nonmedical withdrawals are still income-taxable, but the additional 20% tax no longer applies. The account is not limited to medical spending forever.
+
+Then check what the HSA can invest in. A limited menu doesn't automatically make the account bad, but it changes the comparison. You might hold appropriate stock exposure there and Bitcoin elsewhere. Or you might decide that more accessible Bitcoin is a more useful next contribution than additional HSA saving. Compare the tax benefit, menu, access, and purpose together.
 
 That is the reasoning behind the deck's HSA, IRA, and additional workplace sequence for long-term money. Healthcare treatment can make an HSA useful; investment choice can make an IRA useful; workplace contribution room can make the employer plan useful. These are reasons to investigate—not instructions to open all three regardless of circumstances.
 
@@ -1382,11 +1386,13 @@ Roth also provides flexibility when qualified withdrawals do not add taxable inc
 
 A mix can be deliberate. You may want some tax benefit today and some money with qualified Roth treatment later. There isn't a rule that every contribution has to use the same election forever.
 
-Check the paycheck as well. Suppose Alex keeps contributing $775 a month but changes a deductible Traditional contribution to Roth. He may take home less, even though the same amount reaches the retirement account. That difference needs to come from somewhere. This is a comparison, not a statement about his current election.
+Check the paycheck as well. Suppose Alex keeps contributing $775 a month but changes a pretax workplace contribution to Roth. He may take home less, even though the same amount reaches the retirement account. That difference needs to come from somewhere. This is a comparison, not a statement about his current election.
 
 You could compare equal contribution amounts, but show the different current cost. Or compare equal household cost, with different amounts entering the accounts. Either can answer a useful question. Don't call them the same comparison.
 
 An IRA adds a deduction check. A Traditional IRA contribution isn't always deductible, and nondeductible basis creates recordkeeping and conversion issues. A workplace Roth account also doesn't share every distribution rule with a Roth IRA. Use the rules for the actual account, not a label on a diagram.
+
+For ordinary retirement use, qualified Roth IRA earnings generally require both age 59½ and the five-tax-year period beginning with the first tax year for which you contributed to any Roth IRA. Other qualifying circumstances exist. This is separate from withdrawing regular contributions or checking a conversion's five-year rule.
 
 This lesson is about new contributions. Moving an existing Traditional balance into Roth is a conversion, with a separate tax and cash-funding decision. We'll compare that in Tax rather than treating a payroll election as a conversion of everything already invested.
 
@@ -1632,6 +1638,8 @@ Keep three flows separate: the conversion, the spending money, and the tax payme
 
 For the course's simple illustration, converting $30,000 produces $6,000 of additional tax under the assumed circumstances. The full $30,000 goes into Roth. The $6,000 needs another source. These aren't computed Reed tax figures.
 
+Withholding tax from the IRA changes this comparison. Money withheld does not reach Roth unless you replace it through a valid rollover. Any taxable amount left out can also face the 10% additional early-distribution tax before 59½ unless an exception applies. Compare what actually reaches Roth and how the tax is paid.
+
 Now ask what that tax money was doing. If it was essential Reserve cash, spending it on tax makes the household less liquid. You might choose a smaller conversion or wait for a different funding opportunity. If it was money available to invest, using it for tax also has an opportunity cost.
 
 Let's follow that second case through with a deliberately simplified comparison.
@@ -1658,7 +1666,7 @@ Then read the first affected year and a later year. What cash was consumed? What
 
 You can compare a smaller conversion before a larger one. Look at the additional cost of the next increment. It may cross a bracket, reduce healthcare assistance, or affect a later Medicare premium. There is no requirement to fill every low-looking year to a fixed line.
 
-Required distributions have to be handled under their own rules; the amount required for the year generally cannot simply be converted instead. Nondeductible basis can change the taxable portion, and access to converted amounts has timing rules distinct from ordinary Roth contributions and qualified earnings. Those details need verification for the actual accounts before execution.
+Required distributions must be satisfied separately; that amount cannot be converted. If you have nondeductible IRA basis, the tax calculation generally combines your own Traditional, SEP and SIMPLE IRAs, including their year-end values. You cannot isolate the after-tax money just by choosing one IRA to convert. Use Form 8606 and the complete records. Access to converted amounts has its own timing rules.
 
 Also understand that a completed Roth conversion generally cannot be undone by recharacterizing it back to Traditional under current rules. A speculative choice based only on an expected market rebound deserves careful review before moving the money.
 
@@ -1756,6 +1764,8 @@ A planning app's selection is not automatically an instruction received by a bro
 
 For a loss harvest, check the replacement exposure before placing the sale. Automatic purchases, reinvestment, another account and a spouse's relevant activity can affect a securities wash-sale analysis. Don't assume a Bitcoin fund and directly held Bitcoin have identical treatment. Obtain current review of the actual transaction rather than repeat an old crypto-tax shortcut.
 
+Be especially careful about replacement purchases in your own IRA or Roth IRA. A securities loss disallowed because of that purchase does not receive the usual replacement-basis adjustment. The deduction can be lost permanently, not merely postponed. Check automatic purchases before harvesting the taxable loss.
+
 For a gain harvest, update the rest of the year's income. A conversion or business-income change can consume the same favorable room. Federal gain treatment alone doesn't establish the full state, healthcare or other income-sensitive cost.
 
 Before the sale, complete the review and required identification. Afterward, keep the confirmation and reconcile the units, proceeds, and remaining holdings. If you first move coins between your own wallets, keep their purchase history attached; the transfer is not a new purchase.
@@ -1828,6 +1838,8 @@ For the first comparison, use only access you can support. An exception you vagu
 
 Then look at the benefit dates. Stopping work and claiming Social Security do not have to happen together. Claiming earlier can bring income into the gap sooner; waiting may provide a larger later benefit under the rules. The cost of waiting is the additional support required before it starts.
 
+For your own Social Security retirement benefit, delayed retirement credits stop at 70. Waiting past that age does not earn more of those credits. Spousal and survivor benefits follow different rules.
+
 Use your actual earnings record and estimates, and review the household rather than only one person's payment. Spousal and survivor benefits, age differences, continuing work and pension choices can change the comparison. A single break-even age doesn't answer every family's needs.
 
 Here's a simple way to read the effect. Imagine the portfolio currently supplies an annual gap with no Social Security included. Later, a $40,000 gross benefit begins. Holding other costs fixed for the illustration, the portfolio's job falls by $40,000. In the real calculation, taxes and other interactions need updating as well.
@@ -1867,6 +1879,8 @@ That makes a rollover a consequential decision. Moving the account to an IRA may
 A governmental 457(b) arrangement can have different additional-tax treatment too. Amounts rolled in from other types of plans or IRAs can require separate treatment. Identify what the account and the money actually are.
 
 Substantially equal periodic payments—often called SEPP or 72(t) payments—provide another possible route. The calculation method, account balance, age, payment schedule and permitted changes need careful verification. This is not a flexible withdrawal plan that you can casually alter when spending changes.
+
+For this exception through an employer plan, the payments must begin after separation from that employer. An IRA does not have that employment-separation requirement. Verify the route for the account you intend to use before starting the series.
 
 The required period generally lasts until the later of five years from the first payment or age 59½, subject to applicable exceptions. For an illustration based on exact birthdays, beginning at 54 would run to 59½, which is five and a half years. Beginning at 58 would run to 63, because five years is later than reaching 59½.
 
@@ -1912,6 +1926,10 @@ This course does not choose a health arrangement for every member. It helps you 
 
 Next, put Medicare on the timeline. Many people become eligible around 65, but eligibility, enrollment, coverage start, employer coverage and HSA contributions need coordination. The end of a job is not automatically the correct Medicare start date for every person.
 
+Once you're Medicare-eligible, COBRA or retiree coverage does not extend the normal employment-based Part B enrollment window. Check the deadline when active employment or its coverage ends, not when COBRA runs out.
+
+Applying for premium-free Part A after 65 can backdate coverage by up to six months, but not before eligibility. Check that effective date before funding an HSA. Include employer contributions when working out the permitted amount.
+
 Medicare also does not make healthcare free. Budget the relevant premiums, supplemental or alternative coverage, prescriptions, cost sharing, and other expenses. Income-related premiums can connect today's tax decisions with a later bill, and the lookback and appeal rules need current checking.
 
 For a couple, one person may enter Medicare while the other still needs different coverage. Model those periods separately rather than switch the entire household at the older spouse's birthday.
@@ -1932,6 +1950,8 @@ This lesson is for a year when coverage or premiums depend on the household's in
 
 Start with the same household, coverage dates and spending in both versions. List income, taxable withdrawals, realized gains and the proposed conversion. Then use the program's actual income definition. It may differ from the income number you usually recognize on the tax return.
 
+For Marketplace coverage, start with adjusted gross income and add tax-exempt interest, nontaxable Social Security, and excluded foreign income. The standard deduction does not reduce this income measure. Include the relevant household members under the program's rules.
+
 For a taxable sale, the whole cash amount is not necessarily income. Basis and gain matter. A fully taxable Traditional withdrawal can add much more income than a sale providing similar spending cash. Qualified Roth treatment and cash already held are different again.
 
 Here is a separate illustration of the combined-cost calculation. Suppose a $10,000 conversion adds $2,000 of income tax. On its own, that looks like a 20% cost.
@@ -1942,7 +1962,9 @@ Those are hypothetical amounts to show the calculation, not a subsidy estimate o
 
 For Marketplace coverage, verify the current year's eligibility and assistance rules, household size, coverage options and income estimate. Update the estimate when actual circumstances change and understand how advance assistance will be reconciled. Do not assume last year's rules continue unchanged.
 
-For Medicare, identify the year whose income affects the premium and the year when that premium is paid. This is not the same calculation or timing as Marketplace assistance. A transaction now can affect a later bill, subject to the current rules and any available reconsideration process.
+A conversion or gain late in the year can also require you to repay premium assistance already received. Include that potential repayment in the cash needed for the decision, not just the premium shown today.
+
+Medicare's income-related premium calculation generally uses adjusted gross income plus tax-exempt interest from two tax years earlier. That is a different income definition and timing from Marketplace assistance. Identify both the income year and the premium year, and check whether a qualifying life event permits reconsideration.
 
 In a couple, the two people may have different coverage during the same year. One may be on Medicare while the other uses a Marketplace or employer plan. Review both effects instead of assigning the entire household one coverage switch.
 
@@ -2322,6 +2344,8 @@ Before transacting, verify the wallet setup and recovery status. Use the correct
 
 Preserve the ownership and purchase history in the records. Moving coins to your own new output does not automatically mean you acquired the Bitcoin again at today's price. Real transaction-fee treatment needs the appropriate supported tax handling rather than an invented balancing purchase.
 
+Coin control selects transaction outputs; it does not, by itself, establish which tax lots you have legally identified. A consolidation can combine several purchase histories into one output. Keep the acquisition records and any required timely identification alongside the transaction history.
+
 The demonstration uses a separate small-value setup. It shows the available outputs, actual preview and privacy comparison without publishing sensitive addresses or recovery material. Match the procedure to the exact wallet and software before using it with your own holdings.
 
 Compare the fee paid now, the possible saving on a later payment, and the privacy cost. Consolidate only the outputs that fit your purpose—or leave them alone when a transaction wouldn't improve the situation.
@@ -2438,7 +2462,7 @@ We're going to identify those roles before discussing more complicated estate st
 
 There are two different questions. Who can help while you are alive but unable to manage things? And who is authorized after you die?
 
-A financial power of attorney can authorize an agent to act under its terms while you are alive. Healthcare decision-making has its own documents and scope. After death, the estate, trust, and beneficiary processes determine the relevant authority. The same person may have more than one role, but the role is not interchangeable just because their name appears on a document.
+A financial power of attorney names someone to act under its terms while you are alive. For incapacity planning, confirm that it is durable, when it takes effect, and which powers it actually grants. Healthcare decisions use separate authority. After death, the estate, trust and beneficiary processes apply instead. One person can hold several roles, but each role needs its own authority.
 
 Start with the people you would want involved. For financial decisions, choose someone reliable, willing, and able to follow the process. They can seek professional help; they don't have to be the household's best investor. For healthcare, choose someone who understands your wishes and can handle the responsibility.
 

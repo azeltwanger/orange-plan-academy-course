@@ -1,5 +1,7 @@
 # Current handoff — member path and spoken-language cleanup
 
+**Source-based technical review — September 8, 2026:** The tax, account-access, healthcare, lending, custody and estate/insurance topic check is documented in [the review packet](delivery/professional-topic-review.md). Sixteen bounded edits clarify ten lessons, with paired recording checks. The factual desk review is complete; licensed sign-off, actual app/device evidence and service-scope classification are not claimed. Existing publication gates remain unchanged.
+
 Austin accepted one main learning path with situation-specific lessons placed where the decision occurs, and asked for an AI-slop pass. This implements that decision without another curriculum reset or importing the retirement video’s financial assumptions.
 
 ## Actual changes

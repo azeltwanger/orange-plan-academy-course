@@ -30,6 +30,8 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Member finish:** A clear role and document gap list with the responsible outside action.
 
+**Technical check before filming:** P11: Verify durability, effective authority and granted powers of the actual POA under applicable law. Keep nominations, executed documents, appointment, provider acceptance, beneficiary directions and technical access separate; this script and the family worksheet confer no legal authority.
+
 #### Chapter 2 — Connect authority to practical access
 
 **Show and do:** After 8.2, trace direct custody and an institutional account from ownership to authorized role, provider/technical support and immediate cash needs. Test incapacity separately from death.

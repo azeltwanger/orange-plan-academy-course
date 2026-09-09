@@ -28,6 +28,8 @@ A planning app's selection is not automatically an instruction received by a bro
 
 For a loss harvest, check the replacement exposure before placing the sale. Automatic purchases, reinvestment, another account and a spouse's relevant activity can affect a securities wash-sale analysis. Don't assume a Bitcoin fund and directly held Bitcoin have identical treatment. Obtain current review of the actual transaction rather than repeat an old crypto-tax shortcut.
 
+Be especially careful about replacement purchases in your own IRA or Roth IRA. A securities loss disallowed because of that purchase does not receive the usual replacement-basis adjustment. The deduction can be lost permanently, not merely postponed. Check automatic purchases before harvesting the taxable loss.
+
 For a gain harvest, update the rest of the year's income. A conversion or business-income change can consume the same favorable room. Federal gain treatment alone doesn't establish the full state, healthcare or other income-sensitive cost.
 
 Before the sale, complete the review and required identification. Afterward, keep the confirmation and reconcile the units, proceeds, and remaining holdings. If you first move coins between your own wallets, keep their purchase history attached; the transfer is not a new purchase.
@@ -53,6 +55,10 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 Prepareonefictionallotcasewithtimelyidentificationevidenceandoneunknownrecord;readreplacementconditionsandpost-traderemaininglots usingclearlystagedrecord. Narration: “This row is an available choice only when the units and the identification process are supported.” Noactualexecution.
 
 The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P05; S5–S7. Securities IRA replacement losses differ from the normal taxable replacement-basis deferral. Temporary 2026 broker identification relief is conditional and does not validate a later app dropdown selection. See [the technical review](../../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 

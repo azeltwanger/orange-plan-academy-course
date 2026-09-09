@@ -12,6 +12,8 @@ A planning app's selection is not automatically an instruction received by a bro
 
 For a loss harvest, check the replacement exposure before placing the sale. Automatic purchases, reinvestment, another account and a spouse's relevant activity can affect a securities wash-sale analysis. Don't assume a Bitcoin fund and directly held Bitcoin have identical treatment. Obtain current review of the actual transaction rather than repeat an old crypto-tax shortcut.
 
+Be especially careful about replacement purchases in your own IRA or Roth IRA. A securities loss disallowed because of that purchase does not receive the usual replacement-basis adjustment. The deduction can be lost permanently, not merely postponed. Check automatic purchases before harvesting the taxable loss.
+
 For a gain harvest, update the rest of the year's income. A conversion or business-income change can consume the same favorable room. Federal gain treatment alone doesn't establish the full state, healthcare or other income-sensitive cost.
 
 Before the sale, complete the review and required identification. Afterward, keep the confirmation and reconcile the units, proceeds, and remaining holdings. If you first move coins between your own wallets, keep their purchase history attached; the transfer is not a new purchase.

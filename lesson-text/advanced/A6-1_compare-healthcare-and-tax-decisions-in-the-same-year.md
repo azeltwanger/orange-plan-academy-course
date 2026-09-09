@@ -20,6 +20,8 @@ This lesson is for a year when coverage or premiums depend on the household's in
 
 Start with the same household, coverage dates and spending in both versions. List income, taxable withdrawals, realized gains and the proposed conversion. Then use the program's actual income definition. It may differ from the income number you usually recognize on the tax return.
 
+For Marketplace coverage, start with adjusted gross income and add tax-exempt interest, nontaxable Social Security, and excluded foreign income. The standard deduction does not reduce this income measure. Include the relevant household members under the program's rules.
+
 For a taxable sale, the whole cash amount is not necessarily income. Basis and gain matter. A fully taxable Traditional withdrawal can add much more income than a sale providing similar spending cash. Qualified Roth treatment and cash already held are different again.
 
 Here is a separate illustration of the combined-cost calculation. Suppose a $10,000 conversion adds $2,000 of income tax. On its own, that looks like a 20% cost.
@@ -30,7 +32,9 @@ Those are hypothetical amounts to show the calculation, not a subsidy estimate o
 
 For Marketplace coverage, verify the current year's eligibility and assistance rules, household size, coverage options and income estimate. Update the estimate when actual circumstances change and understand how advance assistance will be reconciled. Do not assume last year's rules continue unchanged.
 
-For Medicare, identify the year whose income affects the premium and the year when that premium is paid. This is not the same calculation or timing as Marketplace assistance. A transaction now can affect a later bill, subject to the current rules and any available reconsideration process.
+A conversion or gain late in the year can also require you to repay premium assistance already received. Include that potential repayment in the cash needed for the decision, not just the premium shown today.
+
+Medicare's income-related premium calculation generally uses adjusted gross income plus tax-exempt interest from two tax years earlier. That is a different income definition and timing from Marketplace assistance. Identify both the income year and the premium year, and check whether a qualifying life event permits reconsideration.
 
 In a couple, the two people may have different coverage during the same year. One may be on Medicare while the other uses a Marketplace or employer plan. Review both effects instead of assigning the entire household one coverage switch.
 
@@ -57,6 +61,10 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 Place the generic $2,000 tax and $1,500 coverage change beside the $10,000 conversion on a separate graphic. Then compare an actual reviewed household year with current coverage and income rules. Narration: “The tax line is only part of the cost. Add the change in what this household pays for coverage, then decide whether the conversion still serves its purpose.” Keep external coverage results labeled; no invented quotes.
 
 The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P08; S13. Use actual household composition and coverage-year MAGI. IRMAA generally uses AGI plus tax-exempt interest from two years before. The 2026 PTC review must include full excess-advance-credit repayment and current eligibility; no app coverage calculation is certified. See [the technical review](../../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 

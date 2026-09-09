@@ -30,9 +30,13 @@ An IRA may provide more investment choice or control than a workplace plan. Comp
 
 For self-directed Bitcoin retirement arrangements, account administration and custody still matter. It isn't a personal wallet with an IRA label. Contributions, transfers, distributions, and permitted transactions have to follow the retirement arrangement. The account's tax benefit doesn't remove those responsibilities.
 
+For an IRA, don't use the Bitcoin as collateral for a personal loan or sell your personally owned Bitcoin to your own IRA. Those transactions can trigger distributions or loss of IRA tax treatment. Direct control does not turn retirement assets into unrestricted personal property.
+
 An HSA can be attractive when you are eligible to contribute and the money has a healthcare role. It can combine favorable contribution treatment with tax-free use for qualified medical expenses. You need the coverage eligibility and the records supporting qualified use, not just an account with HSA in its name.
 
-Then check what the HSA can invest in. A limited menu doesn't automatically make the account bad, but it changes the comparison. You might hold appropriate stock exposure there and Bitcoin elsewhere. Or you might decide that more accessible Bitcoin is a more useful next contribution than additional restricted healthcare money. Compare the tax benefit, menu, access, and purpose together.
+For tax-free reimbursement, the medical expense must qualify, have been incurred after the HSA was established, and not already have been reimbursed or deducted. After 65, nonmedical withdrawals are still income-taxable, but the additional 20% tax no longer applies. The account is not limited to medical spending forever.
+
+Then check what the HSA can invest in. A limited menu doesn't automatically make the account bad, but it changes the comparison. You might hold appropriate stock exposure there and Bitcoin elsewhere. Or you might decide that more accessible Bitcoin is a more useful next contribution than additional HSA saving. Compare the tax benefit, menu, access, and purpose together.
 
 That is the reasoning behind the deck's HSA, IRA, and additional workplace sequence for long-term money. Healthcare treatment can make an HSA useful; investment choice can make an IRA useful; workplace contribution room can make the employer plan useful. These are reasons to investigate—not instructions to open all three regardless of circumstances.
 
@@ -61,6 +65,10 @@ Deck Steps 7 and 9. Conditional account comparisons, not a generic tax-wrapper h
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
 Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P01/P03; S1, S3, S4. Distinguish a pledged-portion deemed distribution from the separate loss-of-IRA-status rule. HSA later nonmedical use is taxable; Medicare eligibility months and 2026 coverage changes need the exact facts. See [the technical review](../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 

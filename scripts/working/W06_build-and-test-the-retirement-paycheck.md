@@ -46,6 +46,8 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Member finish:** Every early interval has a supportable source or a clearly identified funding/access prerequisite.
 
+**Technical check before filming:** P06/P09: Own Social Security delayed credits stop at 70; household/survivor rules are separate. Employer-plan SEPP begins after separation from that employer; IRA SEPP has no such employment condition. Verify the exact person, dates, plan permission, method, modification rules and RMD applicability before claiming a funded access route.
+
 #### Chapter 3 — Put coverage and healthcare costs on the timeline
 
 **Show and do:** After 6.3, compare relevant pre-Medicare options with actual private quotes or clearly invented teaching inputs. Show the $15,000 versus $16,000 ordinary-year illustration separately, then real difficult-year limits/exclusions and each person's transition.
@@ -57,6 +59,8 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 **Verify before recording:** Verify provider networks/prescriptions, dates, exclusions, eligibility and enrollment, Marketplace income, Medicare lookback and HSA coordination. Noninsurance retains its actual unfunded-cost risk. No personal medical story, invented quote or unsupported subsidy engine; outside analyses labeled.
 
 **Member finish:** A funded coverage path and specific required confirmations before leaving current coverage.
+
+**Technical check before filming:** P07/P08: Use actual active-employment coverage end, Part B window, Part A effective date and HSA-eligible months. COBRA/retiree coverage does not extend the usual active-employment enrollment protection. Marketplace MAGI and IRMAA use different definitions/timing. For 2026, apply actual eligibility and full excess-APTC reconciliation without an old repayment cap. Do not reuse expired enhanced-assistance assumptions. Verify the new HSA coverage provisions separately. None of this establishes that the app calculates an unmodeled credit or premium.
 
 #### Chapter 4 — Choose account funding and asset sales
 
