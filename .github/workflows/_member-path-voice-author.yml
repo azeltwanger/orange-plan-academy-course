@@ -2,7 +2,7 @@ name: Prepare member-path and spoken-language edit
 on:
   push:
     branches: [course-member-path-voice-edit-20260908]
-    paths: [.github/workflows/_member-path-voice-author.yml, tools/_voice_edits_main.py, tools/_voice_edits_later.py, tools/_voice_edits_situations.py, tools/_course_navigation.py, tools/_apply_member_path_voice.py]
+    paths: [.github/workflows/_member-path-voice-author.yml, tools/_voice_edits_main.py, tools/_voice_edits_later.py, tools/_voice_edits_situations.py, tools/_course_navigation.py, tools/_apply_member_path_voice.py, tools/_inventory_contract_voice.py]
 permissions:
   contents: read
 concurrency:
@@ -27,9 +27,10 @@ jobs:
           test "$(git rev-parse HEAD)" = "$GITHUB_SHA"
           git merge-base --is-ancestor f6392a6341c23c557e605506dab3530b67efa146 HEAD
           test -z "$(git diff f6392a6341c23c557e605506dab3530b67efa146 --name-only -- scripts tools/guided_course.py source-material fixtures toolkit tests production CAPTURE-RECEIPTS.md PROMOTION-RECORD.json)"
-          python -m py_compile tools/_voice_edits_*.py tools/_course_navigation.py tools/_apply_member_path_voice.py
+          python -m py_compile tools/_voice_edits_*.py tools/_course_navigation.py tools/_apply_member_path_voice.py tools/_inventory_contract_voice.py
           python tools/_apply_member_path_voice.py apply
-          python -m py_compile tools/guided_course.py
+          python tools/_inventory_contract_voice.py
+          python -m py_compile tools/guided_course.py tests/test_member_deliverables.py
           python tools/guided_course.py build
           python tools/guided_course.py check
           python tools/guided_course.py test
@@ -39,9 +40,10 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          test -z "$(git diff f6392a6341c23c557e605506dab3530b67efa146 --name-only -- source-material fixtures toolkit tests production CAPTURE-RECEIPTS.md PROMOTION-RECORD.json scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md)"
-          git add scripts lesson-text teleprompter modules README.md FINALIZATION-STATUS.md HANDOFF.md delivery/teaching-revision.md tools/guided_course.py COURSE-MANIFEST.json MASTER-COURSE.md MASTER-ADVANCED.md ALL-SCRIPTS.md DICTATION-ORDER.md ADVANCED-DICTATION-ORDER.md FILM-ORDER.md CIRCLE-STRUCTURE.md SCREEN-SHOOT-LIST.md MODULE-CHECKPOINTS.md PRODUCTION-CHECKLIST.md COURSE-METRICS.md ARITHMETIC-CHECKS.json
-          test -z "$(git diff --cached --name-only -- .github source-material fixtures toolkit tests production CAPTURE-RECEIPTS.md PROMOTION-RECORD.json ARITHMETIC-CHECKS.json)"
+          test -z "$(git diff f6392a6341c23c557e605506dab3530b67efa146 --name-only -- source-material fixtures toolkit production CAPTURE-RECEIPTS.md PROMOTION-RECORD.json scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md)"
+          test "$(git diff f6392a6341c23c557e605506dab3530b67efa146 --name-only -- tests)" = 'tests/test_member_deliverables.py'
+          git add scripts lesson-text teleprompter modules README.md FINALIZATION-STATUS.md HANDOFF.md delivery/teaching-revision.md tools/guided_course.py tests/test_member_deliverables.py COURSE-MANIFEST.json MASTER-COURSE.md MASTER-ADVANCED.md ALL-SCRIPTS.md DICTATION-ORDER.md ADVANCED-DICTATION-ORDER.md FILM-ORDER.md CIRCLE-STRUCTURE.md SCREEN-SHOOT-LIST.md MODULE-CHECKPOINTS.md PRODUCTION-CHECKLIST.md COURSE-METRICS.md ARITHMETIC-CHECKS.json
+          test -z "$(git diff --cached --name-only -- .github source-material fixtures toolkit production CAPTURE-RECEIPTS.md PROMOTION-RECORD.json ARITHMETIC-CHECKS.json)"
           git diff --cached --check
           git fetch origin refs/heads/course-member-path-voice-edit-20260908
           test "$(git rev-parse FETCH_HEAD)" = "$GITHUB_SHA"
