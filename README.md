@@ -1,6 +1,6 @@
 # Orange Plan Academy
 
-**Allocation filming package — September 9, 2026:** The seven Allocation lessons now have 62 editable teaching slides with exact narration in notes, a separate five-slide situational clip, PDF reviews and an offline rehearsal view. [Recording map and source identities](delivery/allocation-filming/README.md). Files are supplied in the owner-review download; the source-linked map is in this repository. App capture and voice approval remain separate. No teaching scripts or financial assumptions changed in this production step.
+**Recording scripts first — September 9, 2026:** Open the clean scripts in [reading order](DICTATION-ORDER.md) or [all spoken text](ALL-SCRIPTS.md). Record the teaching first; add text and graphics during editing. The current pass makes examples understandable without slides and tightens selected narration across the course. App walkthroughs remain separate recordings. No slide presentation, homework, quiz, submission or new workbook is required. [Recording-pass scope](delivery/recording-script-pass.md).
 
 **Member application — September 9, 2026:** The separate thirteen practice cases and answer checks have been removed at Austin's direction. The clearer explanations remain. Members learn from the teaching, follow the walkthrough and apply the decision to their own plan in Orange Plan. No separate homework, quiz, required post, submitted explanation or course approval step is part of that flow. [Editorial record](delivery/decision-learning-review.md). Actual app and learner evidence still require real use.
 

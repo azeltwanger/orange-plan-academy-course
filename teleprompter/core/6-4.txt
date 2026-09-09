@@ -6,11 +6,11 @@ Start with income that arrives for spending. Then meet required distributions or
 
 After that, choose the accounts that supply the remaining gap. A taxable account, Traditional account and qualified Roth withdrawal can provide different after-tax cash from the same gross amount.
 
-Then choose the assets or lots used inside the selected account. The account order and the sale order are related, but they aren't the same setting. You could withdraw from a Traditional account while selling a stock fund inside it. You could sell personally held Bitcoin in taxable custody and use its cash for spending. Each has a different tax and recordkeeping path.
+After choosing the account, decide what investment or tax lot supplies the cash. For example, you might sell a stock fund inside a Traditional account and withdraw the cash. Or you might sell personally held Bitcoin and use the proceeds. Choosing the account and choosing what to sell are two related decisions, with different tax and recordkeeping consequences.
 
 Consider the earlier $20,000 taxable sale with $16,000 of basis. It realizes a $4,000 gain before adjustments. A fully taxable $20,000 Traditional withdrawal has different income treatment. You can't compare them by assuming both create $20,000 of gain—or by pretending both provide $20,000 after all taxes.
 
-An account order says which account you intend to use first and which follows. A blend uses more than one account for the same year's spending. Neither is best just because it has a name. Compare whether it supplies the cash you need, what tax it creates, and what money it leaves for later.
+An account order says which account you use first and which follows. A blend uses more than one account for the same year's spending. Compare them by the cash they provide, the tax they create, and the money left for later.
 
 Imagine funding every early year from taxable assets because the tax is low. The Traditional account continues growing. Later, taxable assets run down, benefits begin, and more spending has to come from Traditional withdrawals. Required distributions may add to that income.
 
@@ -26,7 +26,7 @@ Also distinguish distributions already paid in cash from holdings you need to se
 
 For each meaningful retirement year, follow the chain. What income arrives? What spending and tax remain? Which account supplies the withdrawal? Which asset supplies the cash? What is left afterward?
 
-Let's follow the withdrawals in the example plan through the first retirement year and a later tax year. Read the spending, income, and tax assumptions alongside the accounts paying for them.
+In the walkthrough, we'll follow those withdrawals through the first retirement year and a later tax year. Check the spending, income, and tax figures alongside the accounts funding them.
 
 Keep a simple order when it funds the spending and the tax result fits. Use a blend when the improvement is worth the extra decisions and recordkeeping.
 

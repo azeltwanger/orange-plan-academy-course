@@ -1,6 +1,6 @@
 A retirement result can look promising because the plan assumes you're saving money that never actually reaches an investment account. Before reading that result, we need to connect income, spending, and existing commitments.
 
-For this first pass, enter what you can support now. Cash Flow will do the fuller spending review. We are not deciding which expenses to cut or which debt to accelerate yet.
+Start with the income, spending, and payments you can check against your records. We'll review the spending more closely in Cash Flow. You don't need to choose cuts or extra debt payments yet.
 
 Start with each person's income. Identify the source, amount, and timing. Gross pay means pay before taxes and other deductions. Take-home pay is what remains after those amounts come out. Match the number to the field being filled. Your bank deposit is already take-home money; subtracting its payroll deductions again would count them twice.
 
@@ -14,7 +14,7 @@ Then look at money already going into investments. A payroll retirement contribu
 
 Alex earns $155,000 a year and puts 6% into his workplace plan. Six percent means six dollars out of each hundred. On a calculator, $155,000 times 0.06 is $9,300 a year. Divide by twelve, and that is $775 a month. The employer's formula adds another $387.50 a month. Keep his money and the employer's money separate.
 
-Here is the original cash-flow bridge on screen. After the income, illustrative tax provision, living costs, and required debt payments, the Reeds have $1,275 before Alex's contribution. His $775 leaves $500 for other priorities.
+After allowing for taxes, living costs, and required debt payments, Alex and Morgan have $1,275 a month left before his retirement contribution. Subtract the $775 he already invests through work, and that leaves $500 for their other priorities.
 
 That is the figure we're starting from. It doesn't mean they're only saving $500; the employee contribution is already invested. It also doesn't include the spending reduction we'll consider later.
 

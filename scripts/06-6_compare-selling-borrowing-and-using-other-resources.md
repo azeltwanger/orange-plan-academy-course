@@ -12,7 +12,7 @@ Sources: RETIREMENT, DEBT, BRAIN, OWNER, APP, PRIMARY
 
 When you need spending money, you may prefer not to sell Bitcoin. That preference gives us a comparison to make—not a source of cash by itself.
 
-Start with the bill and the money available: income, cash, another investment, a Bitcoin sale, or borrowing. We'll compare what each costs and what it leaves behind.
+The bill might be paid from income, cash, another investment, a Bitcoin sale, or a loan. We'll compare what each costs and what it leaves behind.
 
 Start with the same spending need and the same date. A sale needs to provide the cash after its tax and fees. Borrowing needs to provide the same usable amount after loan costs. Comparing gross sale proceeds with net borrowed cash would not be an equal starting point.
 
@@ -26,7 +26,7 @@ Neither version made the spending free. One used more cash along the way; the ot
 
 Now suppose Bitcoin rises. The retained position may help the borrowing version. Suppose it stays flat for several years, or falls while interest continues. The liability still needs support. A favorable ending portfolio value doesn't prove the household could survive the path leading to it.
 
-Read both the financial and contractual picture. Can the payments be made? Is collateral approaching an action threshold? How much Bitcoin is pledged? What is the repayment source at maturity? Those questions are separate from the retirement success percentage.
+Check the payments and the loan terms as well as the retirement result. How much Bitcoin is pledged? When could the lender demand action? What pays off the balance when it's due? A retirement success percentage doesn't answer those contract questions.
 
 A household-wide low debt ratio doesn't prevent a lender from acting on the collateral for its own loan. Likewise, a cash reserve assigned to essential spending is not automatically available for a top-up or repayment. Show where a response would come from without leaving the bills unfunded.
 

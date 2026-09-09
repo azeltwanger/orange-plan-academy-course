@@ -14,10 +14,10 @@ For example, more money available before work stops may address an early shortfa
 
 Holding-specific overrides need the same discipline. A spot Bitcoin fund can track a Bitcoin exposure model while remaining a security for custody and tax. A company associated with Bitcoin has business and financing effects too. A leveraged or distribution-focused fund has a structure that a simple Bitcoin growth override may not represent.
 
-If the engine cannot represent an important feature, label the limitation. Do not make the feature disappear by selecting the return you hoped the security would earn. A separate analysis or a simpler comparison may be more honest than a detailed-looking but inappropriate override.
+If the model leaves out an important feature of an investment, remember that limit when you compare results. Raising its assumed return doesn't account for the missing feature. You may need a separate analysis or a simpler investment comparison.
 
 After the first controlled test, a combined stress can be useful. Lower returns and a later income start may occur together. Name both changes so the comparison is understood as a combined scenario, not evidence of which one caused the result.
 
-Keep a receipt of the inputs and result identity. Without it, you can end up comparing an old baseline with a new scenario and attribute the difference to the wrong setting.
+Make sure both versions use the same starting facts and that each result includes the changes you're comparing. Otherwise, an old calculation can make it look as though an assumption caused a difference it didn't.
 
 Keep the starting assumptions and the comparison, then note which planning decision changes under the different result. Return to your plan when that question is answered.

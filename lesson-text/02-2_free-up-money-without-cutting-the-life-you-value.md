@@ -62,7 +62,7 @@ Some changes won't start immediately. You might have a contract to finish or a r
 
 Your normal spending after this review should still describe a life you are willing to live. It is different from the bare-bones number we'll use to size the reserve. You might temporarily pause a family trip or a hobby during an income interruption without deciding to remove it from every future year of your plan.
 
-You can also improve cash flow through income. I don't want this exercise to become an endless search for smaller expenses when a different role, a raise, or a better business margin could do more.
+You can also improve cash flow through income. A different role, a raise, or a better business margin could do more than another round of small spending cuts. Compare those opportunities too.
 
 Look at what the additional income would leave you after its costs. More work may come with childcare, travel, business expenses, or less time at home. A proposed raise also isn't income you have today. Compare the change, but don't commit the money before it is reasonably available.
 
@@ -72,7 +72,7 @@ Once you settle on a spending change, give the freed money a destination. Otherw
 
 We haven't decided all those destinations yet. The next lesson works out the reserve need, then Debt helps us weigh extra payments against that cash. After that, we'll finish where the remaining contributions go. For Alex and Morgan, the later reserve-and-card example uses the larger $1,700 amount. It only works if the spending reduction is part of the plan they actually follow.
 
-For now, choose one to three changes you're willing to make. Record the old cost, the expected new cost, and what you have to do to make the difference real. Cancel the service, request the quote, change the plan, or agree on a different spending amount with your household.
+Choose the changes you're willing to make and include their expected effect in your plan. Then take the action that makes the saving real: cancel the service, request the quote, change the plan, or agree on a different spending amount with your household.
 
 After making the change, compare what you expected to save with what actually stayed in the account. Use that amount in the next decision.
 

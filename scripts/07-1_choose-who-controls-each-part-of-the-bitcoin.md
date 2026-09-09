@@ -22,7 +22,7 @@ Professional custody can provide administration and support. You accept the prov
 
 Collaborative multisig can let more than one key participate in authorization, with professional help for part of the process. A two-of-three setup can tolerate certain single-key failures. It also requires the correct configuration, sufficient independent keys, and people who understand the procedure. More keys don't mean no risk.
 
-An intentional split is a way to combine methods. It isn't automatically best. Each additional setup should reduce a named failure the existing arrangement leaves too concentrated, and the household needs to maintain the extra work.
+You can split holdings between methods when that addresses a risk you want to reduce. But each extra setup adds work. Check which failure it helps with and whether the household can maintain it.
 
 Start by naming the job of each holding. Is this personally controlled long-term Bitcoin? Retirement-account exposure? A position pledged for borrowing? Money that will need a sale for spending? Different jobs may justify different arrangements.
 

@@ -4,7 +4,7 @@ We need to record the account and what it owns. Then we can add the investments 
 
 An account tells us who owns the money and the rules around it. A holding is the investment inside. An IRA is an individual retirement account. A 401(k) is a workplace retirement plan. You can copy the account type from your statement; you don't need to choose a new type now. A Roth IRA can hold stocks, a Bitcoin fund, cash, or other permitted investments. Its name doesn't tell us which investments you have.
 
-Let's look at Alex's Roth IRA. The example account is worth $145,000. It contains $116,000 of spot Bitcoin-fund exposure and $29,000 in stocks.
+Take Alex's Roth IRA. It's worth $145,000 in our example: $116,000 in a spot Bitcoin fund and $29,000 in stocks.
 
 Those amounts add up to the $145,000. They are not additional assets on top of the account balance. Think of the account as the container and the investments as its contents.
 
@@ -12,7 +12,7 @@ Start with your account list. Include bank accounts, taxable investments, retire
 
 Then open the statement and identify the investments. Use the actual name, quantity when known, and current value. Don't choose a familiar ticker just because it seems close to an unfamiliar investment. The plan needs to describe what you own, not the nearest thing on a menu.
 
-Sometimes the only reliable information is the total and a rough mix. That is still useful, provided the uncertainty stays visible. An estimated mix is different from a verified list of securities. We will use the supported entry method that matches the information available.
+Sometimes you know the total balance and roughly how it's invested, but don't have the full list of holdings yet. Keep that mix marked as an estimate. In the walkthrough, we'll use the entry method that fits the information you have.
 
 A connection to a provider can be incomplete too. It may supply the account balance without the investments or older purchase history. That does not mean the balance is cash. It means part of the picture still needs explaining. Read what actually arrived rather than assuming “connected” means every detail is complete.
 
@@ -30,6 +30,6 @@ Before leaving an account, compare its balance with the statement. Do the invest
 
 If something is missing, write down the record you need—for example, the latest holdings statement for this account.
 
-Have your statements ready. We'll enter a cash account, an investment account, and direct Bitcoin, and work through what to do when some information is missing. We're recording what you own now. Allocation will help you decide what to change.
+Have your statements ready for the walkthrough. We'll enter a cash account, an investment account, and direct Bitcoin, including what to do when information is missing. For now, we're recording what you own. Allocation will help you decide what to change.
 
 Wallet recovery words and account credentials are not part of that inventory. Keep them out of the app, the notes, and anything you share for help.

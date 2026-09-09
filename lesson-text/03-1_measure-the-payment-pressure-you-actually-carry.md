@@ -66,7 +66,7 @@ Also ask what happens if the payment itself rises. A variable rate or the end of
 
 If you're close to retirement, look beyond the paycheck you have today. A payment that fits while both people are working may feel different after one income stops. The debt doesn't have to be gone before retirement, but the income or withdrawals that will support it need to be in the plan.
 
-For now, don't try to solve every debt at once. Identify the payment you are least comfortable supporting and explain why. It might be expensive interest, a coming repayment date, a risk to the family home, or simply too much dependence on one income.
+Start with the payment you're least comfortable supporting. Is the problem expensive interest, a coming repayment date, a risk to the home, or too much dependence on one income? That tells us which debt needs the closest attention.
 
 Let's check the loan terms and put the payments beside cash flow. Then we'll look at what you owe compared with what you own, including what happens when Bitcoin falls.
 

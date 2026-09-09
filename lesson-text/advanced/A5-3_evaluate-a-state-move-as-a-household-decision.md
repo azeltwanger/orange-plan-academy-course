@@ -20,7 +20,7 @@ Use this lesson when moving is a real household possibility, not merely a way to
 
 Start with where you would actually be willing to live and why. Work, family support, schools, healthcare, housing and community belong in that decision. Then compare the full recurring costs and the one-time move.
 
-A simple example shows why. Suppose a hypothetical move saves $10,000 a year in one tax category but adds $8,000 in housing and insurance. The recurring cash improvement is $2,000 before other differences. If moving costs $20,000, that cost needs to be included too. These invented figures illustrate a complete comparison, not any state's rates or a relocation recommendation.
+Suppose a move saves $10,000 a year in one tax category but adds $8,000 in housing and insurance. Subtract those added costs and the recurring improvement is $2,000, before other differences. If the move itself costs $20,000, include that too. These are illustrative amounts, not any state's rates.
 
 The move may still be worthwhile for the life it provides. Or the tax advantage may be much less important after the other costs are counted. The useful answer is a household decision, not the lowest rate on a map.
 

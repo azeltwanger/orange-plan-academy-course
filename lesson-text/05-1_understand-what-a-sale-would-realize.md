@@ -19,11 +19,11 @@ Start with what the investment cost you. The tax record calls the amount used in
 
 For the simplest example, suppose an investment sells for $20,000 and its supported basis is $16,000. Subtract the $16,000 from the $20,000: the gain is $4,000 before fees or other adjustments. The sale money is called proceeds. The proceeds, gain and tax bill are three different numbers.
 
-Now let's use the lots in the course example. One purchase was at $58,000 per Bitcoin, another at $16,000, and another at $52,000. Suppose we are comparing a sale of 0.2 Bitcoin at the example price of $100,000 per coin, ignoring fees for the illustration.
+Now let's compare three Bitcoin purchases. One cost $58,000 per Bitcoin, another cost $16,000, and another cost $52,000. Suppose Bitcoin is worth $100,000 and we want to sell 0.2 Bitcoin. We'll leave fees out of this example.
 
 The sale brings in $20,000 in every version. What changes is the basis of the units sold.
 
-Using 0.2 Bitcoin from the $58,000 purchase gives $11,600 of basis. Subtract that from the $20,000 proceeds, and the gain is $8,400.
+From the purchase at $58,000 per coin, the 0.2 Bitcoin we're selling cost $11,600: 0.2 times $58,000. Subtract that from the $20,000 sale proceeds and the gain is $8,400.
 
 Using the same quantity from the $16,000 purchase gives only $3,200 of basis. The gain is $16,800.
 
@@ -37,7 +37,7 @@ The opposite mistake is treating missing basis as a known zero. A missing record
 
 Now ask which units would actually be sold. A default method, a valid specific identification, and an after-the-fact software preference are different things. You must follow the rules and recordkeeping that apply to the actual account or wallet and transaction date. We'll prepare that process before execution rather than select a convenient lot afterward.
 
-A high-basis lot can reduce the gain realized today, but that does not make it the automatic choice every time. It leaves lower-basis units for a later sale. A year with favorable gain treatment may be a reason to compare realizing more gain now instead. The useful decision depends on the current and future tax picture, not only the smallest number in today's gain column.
+Selling units with a higher purchase cost can reduce the gain you realize today. But it leaves the lower-cost units for later. In a year with favorable gain treatment, you might instead compare realizing more gain now. Look at the current and future tax picture, not just which sale produces the smallest gain today.
 
 Account type changes the calculation too. Selling an investment inside a retirement account is not generally the same tax event as selling personally held Bitcoin. The distribution from the retirement account has its own rules. A Roth or Traditional label should not be ignored when a tax tool presents a list of trades.
 

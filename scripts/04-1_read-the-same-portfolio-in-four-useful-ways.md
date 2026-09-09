@@ -11,11 +11,11 @@ Sources: ALLOCATION, ALLOCATION_DECK, OWNER, APP
 ### Read aloud
 
 
-You may already know what percentage you want in Bitcoin. But that leaves another question: what should the rest of your portfolio do?
+Before changing your portfolio, do you know what you own across all your accounts and why it's there? That's where we'll start.
 
 Some of it might be cash you need soon. Some might be stock funds inside a retirement plan. You may own property or a business as well. Before changing anything, let's understand the portfolio you actually have.
 
-We're going to build from that picture, not start with a model portfolio and tell every household to copy it.
+Once we understand the current holdings, we can decide what to keep and what would be worth changing.
 
 Your portfolio is the group of investments we're reviewing. Add up what you own across its accounts. Bitcoin exposure means the amount whose value is tied to Bitcoin. Looking only at your wallet misses that exposure when retirement accounts also hold Bitcoin funds.
 
@@ -31,7 +31,7 @@ Now look at the non-Bitcoin holdings. Do you know why each one is there?
 
 Maybe your workplace account still holds the fund selected when you started the job. Maybe an investment fits your plan well, even though you haven't thought about it recently. Or money may be sitting in a brokerage account because a transfer happened but a purchase did not. Those are possibilities to check, not reasons to move every account.
 
-Open one account and look inside. Alex's Roth IRA is worth $145,000. Its $116,000 of Bitcoin-fund exposure and $29,000 of stocks explain that total. We already established how to count accounts in the first session; here we're asking whether those holdings serve the intended purpose.
+Take Alex's Roth IRA. Of its $145,000 balance, $116,000 is in a Bitcoin fund and $29,000 is in stocks. Now we're asking whether those investments fit when he expects to use the money.
 
 Then ask when you expect to use the money. A retirement account may hold investments for much later. A taxable account may include money for both an approaching purchase and a long-term goal. The account name doesn't tell you when every dollar will be spent.
 
@@ -43,7 +43,7 @@ You may find that the holdings already fit. Keep them; this review doesn't requi
 
 We'll build the whole mix from here: Bitcoin, the other investments, and the cash needed for spending. Then we'll decide where contributions go and what they buy.
 
-Look through your current holdings and write down the question you most need to answer about them.
+Open your holdings in Orange Plan and look for the part you want to understand or change. Next we'll decide what role Bitcoin should play in that portfolio.
 
 ### Visual and source notes — not spoken
 

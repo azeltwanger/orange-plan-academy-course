@@ -14,7 +14,7 @@ Return to: W07 chapter 1, then lesson 7.2 and its safe recovery work
 
 ### Read aloud
 
-You may be considering a passphrase, multisig or professional support because the basic setup leaves something important exposed. Start by naming that exposure. Each option solves a different problem and introduces different responsibilities.
+Are you considering a passphrase, multisig, or professional custody support? Start with the problem you want to solve. Each option changes what you control, what you depend on, and what you need to maintain.
 
 A passphrase changes the wallet derived from the backup material. It can add protection when the backup alone is exposed, provided the passphrase remains separate and secure under a well-designed process. It also adds an exact secret you must preserve.
 

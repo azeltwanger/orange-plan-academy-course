@@ -1,6 +1,16 @@
-# Current handoff — member path and spoken-language cleanup
+# Current handoff — record the scripts, then edit the video
 
-## Current continuation — the member's own plan is the application
+## Current production direction — scripts first
+
+Austin records the spoken lessons first. Text, graphics and supporting footage are added afterward to match the recorded explanation. There is no slide-design, slide-approval or presentation rehearsal prerequisite. The Allocation slide package is historical reference only; its old paragraph map no longer defines current narration.
+
+This recording copyedit reviews the existing 65-lesson manuscript and changes 162 selected paragraphs across 59 lessons. Six lessons are retained, including accepted Reserve 2.3. Every practical file remains byte-identical and is recorded separately when its actual app/device prerequisites are met. No new curriculum, exercise, financial rule or desired model outcome is introduced. Source notes, technical checks and conditional app inserts stay outside clean spoken copies.
+
+The clean delivery contains one plain-text file per teaching lesson and a combined reading copy. It does not ask Austin to design visuals before recording. The existing app-dependent qualifications, especially 0.2 and 6.8, still need their actual product wording checked. A copyedit is not an actual read-through by Austin, a participant test, licensed sign-off or recorded app result.
+
+See [recording-pass scope](delivery/recording-script-pass.md). Continue by recording a script or correcting a specific line; do not restart deck production or add member assignments.
+
+## Prior correction still in force — the member's own plan is the application
 
 Austin explicitly rejected the added exercises and homework. Keep the plain-language explanations and instructor-led examples; remove the separate practice households, answer reveals and changed-facts assignments from the member experience. After teaching, go directly to the member's own decision in Orange Plan.
 

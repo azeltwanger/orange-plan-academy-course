@@ -10,7 +10,7 @@ Sources: DEBT, BRAIN, CLIENT_THEMES
 
 ### Read aloud
 
-Now that we understand the payments and the risk behind them, we're going to decide what to do with each debt. Not just which debt has the highest balance, but which one deserves the next dollar and which ones you're comfortable continuing to carry.
+Now we're going to decide what to do with each debt. Which one deserves the next dollar, and which are you comfortable continuing to carry? The largest balance won't necessarily be the first one you pay off.
 
 For a Bitcoin household, this can be a frustrating decision. Money used to pay down a loan is money you aren't using to buy more Bitcoin. You may believe Bitcoin will do very well over the time you would otherwise carry that loan.
 
@@ -32,7 +32,7 @@ The card's required $405 was accounted for before we got to that $1,700. So addi
 
 Now we can compare how much faster the card is paid off and how much interest the extra payment avoids.
 
-Bring forward the liquidity decision from the Reserve lesson. If the cash cushion is too thin to support the family during an income interruption, more of the available money may need to build it before accelerating the card. Required payments continue. The cost is more interest for a while, so revisit the split as the cushion improves. We are applying that choice here, not setting a second reserve policy.
+Use the cash cushion you chose in the Reserve lesson. If the family needs more cash to get through an income interruption, put more of the available money there and less toward extra card payments for a while. Required payments continue. The trade-off is more interest, so revisit the split as the cushion improves.
 
 Now compare the mortgage.
 

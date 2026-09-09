@@ -34,13 +34,13 @@ Use your actual earnings record and estimates, and review the household rather t
 
 Here's a simple way to read the effect. Imagine the portfolio currently supplies an annual gap with no Social Security included. Later, a $40,000 gross benefit begins. Holding other costs fixed for the illustration, the portfolio's job falls by $40,000. In the real calculation, taxes and other interactions need updating as well.
 
-The benefit doesn't create a second portfolio. It reduces what that same portfolio needs to provide in the later years. This can explain why the early years are the difficult part even when the long-term total looks comfortable.
+Once that benefit begins, the portfolio has less spending to cover. That can make the first years after work stops harder to fund than the years that follow, even when the long-term total looks comfortable.
 
-Be clear about inflation conventions. A benefit estimate in today's dollars should not be treated as an already inflated future payment and increased again. Match the source estimate with the model's input convention.
+Check whether the benefit estimate is stated in today's dollars or future dollars. Match it to the app's input. Don't increase it for inflation yourself and then have the model apply the same increase again.
 
 Now compare your resources across the whole gap, year by year. Start with the first withdrawal. Look at the balance remaining, the next year's need, and the date another income or access route becomes available. A rough annual gap multiplied by years is only an orientation; returns, taxes, events and timing affect the actual path.
 
-If the early years are short, compare the decision that addresses them. That might be directing more current saving into accessible accounts, reducing work gradually, changing a commitment, or verifying a legitimate access route. More saving in a later account is not automatically the fix.
+If there isn't enough usable money for the early years, compare a change that addresses that gap. You might save more in accessible accounts, reduce work gradually, change a spending commitment, or verify an early-access route. More saving in an account you can't use during that period won't necessarily solve it.
 
 If the gap is adequately funded, don't keep sending every new dollar to it by habit. The longer-term accounts and tax decisions may deserve attention again. The funding need should guide the contribution, not an unchanging account rule.
 

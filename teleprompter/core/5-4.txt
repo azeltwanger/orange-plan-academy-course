@@ -4,13 +4,13 @@ A conversion moves money from Traditional treatment into Roth treatment. The tax
 
 Keep three flows separate: the conversion, the spending money, and the tax payment.
 
-For the course's simple illustration, converting $30,000 produces $6,000 of additional tax under the assumed circumstances. The full $30,000 goes into Roth. The $6,000 needs another source. These aren't computed Reed tax figures.
+Take a hypothetical $30,000 conversion with $6,000 of additional tax. For this example, the whole $30,000 moves into Roth. The $6,000 tax bill has to be paid from somewhere else.
 
 Withholding tax from the IRA changes this comparison. Money withheld does not reach Roth unless you replace it through a valid rollover. Any taxable amount left out can also face the 10% additional early-distribution tax before 59½ unless an exception applies. Compare what actually reaches Roth and how the tax is paid.
 
-Now ask what that tax money was doing. If it was essential Reserve cash, spending it on tax makes the household less liquid. You might choose a smaller conversion or wait for a different funding opportunity. If it was money available to invest, using it for tax also has an opportunity cost.
+What else would that tax money have done? If it was part of your essential Reserve, using it leaves less cash for a problem. A smaller conversion or waiting may fit better. If the money could have stayed invested, paying the tax also gives up whatever that investment might have earned.
 
-Let's follow that second case through with a deliberately simplified comparison.
+Let's compare converting with leaving the money invested.
 
 Start with $30,000 in Traditional and $6,000 of separate assets available to fund the assumed conversion tax. One version converts the $30,000 and spends the $6,000 on tax. The other leaves both amounts invested.
 
@@ -20,7 +20,7 @@ Now account for withdrawal tax. If Traditional is taxed at the same hypothetical
 
 If the later Traditional tax is 30%, the no-conversion total becomes $42,000 plus $12,000, or $54,000. If it is 10%, it becomes $54,000 plus $12,000, or $66,000.
 
-The lesson isn't that one of those tax rates is your future. It is why we count the money used to pay tax and compare after-tax resources. A larger Roth account by itself doesn't establish that the household is better off.
+The future tax rate changed which choice left more to spend. We aren't predicting that rate. We're showing why the comparison has to include the money used to pay tax, not just the balance that ends up in Roth.
 
 Real comparisons include the outside assets' tax and growth, actual brackets, timing, healthcare effects, and the intended use of the money. They can favor converting, converting less, or keeping the current treatment. The simple example tells us what to examine.
 
@@ -30,7 +30,7 @@ That reduces the Traditional balance while paying for something the household ac
 
 For the Reeds, the full comparison holds the life being funded constant. One version uses the current withdrawal order. Another intentionally uses some Traditional money for spending. Another includes a conversion schedule with a separate tax-payment source.
 
-Then read the first affected year and a later year. What cash was consumed? What remains available outside retirement accounts? How much remains in Traditional and Roth? What happens to later taxable distributions? We want the trade-off across the whole plan, not the lowest lifetime-tax number detached from wealth and liquidity.
+Compare the first year affected and a later year. How much cash did the choice use? What remains outside retirement accounts? What is left in Traditional and Roth, and how are later withdrawals taxed? Lower total tax isn't enough by itself if the choice leaves you with less money or too little cash when you need it.
 
 You can compare a smaller conversion before a larger one. Look at the additional cost of the next increment. It may cross a bracket, reduce healthcare assistance, or affect a later Medicare premium. There is no requirement to fill every low-looking year to a fixed line.
 
@@ -42,4 +42,4 @@ Start with no added conversion as one choice. Then test an amount whose tax you 
 
 You aren't looking for a number to copy. Choose the version whose benefit is worth its cost to you. If the extra tax would leave the early retirement years short, a smaller conversion or no conversion may fit better.
 
-We'll keep the spending money, conversion, and tax payment visible together. Review the amount before submitting it to the custodian, then keep the confirmation and tax records. For a schedule spanning several years, use the multi-year conversion lesson before settling the amounts.
+Keep spending, the conversion, and the tax payment separate in your Orange Plan comparison. Before submitting a conversion to the custodian, review the amount and how you'll pay the tax. Keep the confirmation and tax records afterward. For a schedule across several years, use the multi-year conversion lesson.

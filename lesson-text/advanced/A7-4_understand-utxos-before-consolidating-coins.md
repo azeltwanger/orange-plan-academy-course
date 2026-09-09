@@ -22,7 +22,7 @@ Think of the wallet's spendable balance as separate pieces created by earlier tr
 
 Virtual bytes are a measure used for that size. Satoshis are small units of Bitcoin. A fee rate in satoshis per virtual byte lets you compare how much the selected transaction would pay.
 
-For an arithmetic example, a preview of 500 virtual bytes at 2 satoshis per virtual byte gives a fee of 1,000 satoshis. At 20 satoshis per virtual byte, that same size costs 10,000 satoshis.
+Suppose a transaction needs 500 virtual bytes and the fee rate is 2 satoshis per virtual byte. Multiply 500 by 2 and the fee is 1,000 satoshis. At 20 satoshis per virtual byte, the same transaction size costs 10,000 satoshis.
 
 Those are hypothetical fee calculations, not today's rates. The wallet, script type, inputs, and outputs determine the size of your transaction. Read both its size and fee rate in the preview.
 

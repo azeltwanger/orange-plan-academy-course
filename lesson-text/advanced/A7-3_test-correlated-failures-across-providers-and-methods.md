@@ -18,7 +18,7 @@ Having several accounts can feel like diversification, but one shared dependency
 
 Start with the custody map. For each significant portion, identify the provider, underlying custodian when known, keys or signing policy, recovery channel, location category and responsible person. Keep precise locations and sensitive details in the protected process, not this review copy.
 
-Then remove one dependency at a time. What becomes unavailable if an email account is lost? If a provider stops serving customers? If a location is inaccessible? If the main operator is absent?
+Think through the loss of one provider or recovery route at a time. What becomes unavailable if an email account is lost, a provider stops serving customers, a location can't be reached, or the main operator is absent?
 
 Here is a simple example. A household places 30% with provider A and 30% with provider B. Suppose verified documents show both depend on the same underlying custodian. A problem at that custodian can affect 60% of the position, even though there are two provider names.
 
@@ -30,7 +30,7 @@ Authentication is another common link. Two accounts may both rely on one email a
 
 Physical storage can create a similar concentration. A device, backup and written instructions in one location may all become unavailable together. Separate copies can help with that event, but their security and legitimate family access still need attention.
 
-Test a plausible combination too. A family emergency can remove the normal operator and reduce the available time to solve a technical issue. A local disaster can affect documents, devices and communication. The response must fit that combined circumstance, not only a tidy one-component diagram.
+Some problems can happen together. A family emergency might leave you without the usual operator and with less time to solve a technical issue. A local disaster could affect documents, devices, and communication at once. Check how the household would respond to that combination.
 
 Include lender-held collateral in this picture. A loan might be modest relative to net worth while a large portion of Bitcoin depends on the lender. Don't review that custody exposure only in the borrowing spreadsheet.
 
@@ -38,7 +38,7 @@ Once you find the shared failure, make a targeted change. That may mean separati
 
 More accounts aren't the goal. A change earns its place when it reduces the consequence of a named failure without creating an unmaintainable arrangement.
 
-On the custody map, cross out one provider or recovery route and identify what still works. Check the documents and appropriate safe tests before treating the remaining arrangements as independent.
+Use the custody map to check what would still work without one provider or recovery route. Review the documents and appropriate safe tests before relying on that independence.
 
 Record the shared failure, the holdings affected, and the change you've chosen. Update the existing custody map and verify the improvement before relying on it.
 

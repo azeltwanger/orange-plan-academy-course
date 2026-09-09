@@ -1,6 +1,6 @@
 What do you do when you own the Bitcoin but the purchase history is scattered across old exchanges and wallets?
 
-You don't need to invent a basis to move forward. You need a way to rebuild the record and distinguish a missing purchase from an ordinary transfer.
+Start with the purchase records you can find, then follow the transfers between exchanges and wallets. We're going to see what the history explains and where a record is still missing.
 
 Start with the holding involved in the decision you are trying to make. If you are considering a taxable sale, repair that history first. A missing old trade inside a retirement account may have a different priority from missing basis on coins you intend to sell next month.
 
@@ -20,7 +20,7 @@ When a transfer includes a fee, record the fee under the actual rules and suppor
 
 Some records won't be available immediately. Mark exactly what is missing. You may know the current quantity and custody location while the acquisition cost is still unresolved. Keep the known position and the unknown history separate.
 
-A bank payment can help establish that money went to an exchange. It may not, by itself, identify the quantity, price, fee, and time of the Bitcoin purchase. Use corroborating evidence rather than turning one incomplete record into a precise tax lot.
+A bank payment may show that you sent money to an exchange without showing how much Bitcoin you bought, its price, the fee, or the purchase time. Match it with the exchange records or other evidence before treating it as a complete purchase record.
 
 Pay attention to ownership changes too. A transfer between your own wallets is different from receiving a gift or an inheritance. Those can have different basis and documentation rules. Name the type of event and obtain the evidence for it; don't treat every receipt as an ordinary purchase.
 

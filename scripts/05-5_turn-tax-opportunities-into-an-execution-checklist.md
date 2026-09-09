@@ -19,11 +19,11 @@ In these examples, harvesting means choosing to sell so a gain or loss becomes p
 
 Suppose an investment is worth $20,000 and has $16,000 of supported basis. A sale realizes a $4,000 gain before adjustments. In a year when that gain receives favorable tax treatment, intentionally realizing it may be worth comparing. If exposure is reacquired, the new purchase has its own basis and holding period.
 
-The potential benefit is reducing the gain embedded in the replacement position. The cost includes today's tax, fees, price movement, and any effect on other income-sensitive items. A 0% federal rate doesn't by itself establish that the complete transaction costs nothing.
+If you buy the investment again, the new purchase can leave less gain to be taxed on a later sale. Compare that benefit with today's tax, fees, price changes during the trades, and any effect on income-based costs or benefits. A 0% federal rate doesn't necessarily make the entire transaction cost-free.
 
 Now reverse the numbers for a separate example. An investment bought for $20,000 is worth $16,000. Selling it realizes a $4,000 loss before adjustments. That is not a $4,000 refund. The value depends on what the loss can offset under the rules and when any unused amount can be used.
 
-If you later own a replacement investment with $16,000 of basis and it grows back to $20,000, that new position has a gain. Harvesting can change timing; it doesn't necessarily erase the eventual tax on the investment journey.
+Suppose the replacement investment has $16,000 of basis and later grows to $20,000. It now has a $4,000 gain. Harvesting the earlier loss can change when tax is paid; it doesn't necessarily remove the later gain.
 
 A replacement also raises a legal question. Stock and securities wash-sale rules can disallow or defer a loss when substantially identical exposure is acquired in the relevant window. Purchases in another account or by a spouse can matter. Direct Bitcoin and a Bitcoin fund are not automatically governed identically, and current digital-asset rules must be checked rather than assumed from an older practice.
 
@@ -41,7 +41,7 @@ Choose the actions worth taking this year and note what must be checked before e
 
 After a transaction, reconcile what actually happened. Keep the confirmation, units, proceeds, fees, identification evidence and remaining lots. Compare the reporting with the filed return and resolve differences. A tax-data export supports the process; it is not the filed return or proof that every input was correct.
 
-Your final tax handoff should sound like this: “Here is the proposed transaction, the evidence for its basis, the rest of the income expected this year, and the source of any tax payment. Here is the specific issue we need confirmed before acting.”
+When a tax question still needs review, share the proposed transaction, the records for its basis, the rest of the year's expected income, and the source of the tax payment. Ask the specific question that could change whether or how you proceed.
 
 Before making a harvesting trade, use the transaction lesson to prepare the identification and replacement checks. Otherwise, continue to Retirement Income, where we'll put the spending sources together.
 

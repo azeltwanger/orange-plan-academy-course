@@ -1,4 +1,6 @@
-# Course status — one main path, written drafts under review
+# Course status — scripts first, app capture separate
+
+**Recording pass — September 9, 2026:** The clean spoken scripts are the recording deliverable. 162 targeted paragraph edits across 59 lessons remove slide-dependent narration, clarify spoken calculations and tighten repeated or awkward explanations; six lessons are retained. Record the teaching first, then add text and graphics in the edit. No slide approval or homework is required. All 11 practical files, actual capture holds, the accepted Reserve and prior technical-review records remain unchanged. This is not a claim Austin has read or approved every line.
 
 **Member application — September 9, 2026:** The separate thirteen practice cases and answer checks have been removed at Austin's direction. The clearer explanations remain. Members learn from the teaching, follow the walkthrough and apply the decision to their own plan in Orange Plan. No separate homework, quiz, required post, submitted explanation or course approval step is part of that flow. [Editorial record](delivery/decision-learning-review.md). Actual app and learner evidence still require real use.
 

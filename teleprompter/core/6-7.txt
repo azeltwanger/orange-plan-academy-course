@@ -1,4 +1,4 @@
-Once the funding plan is assembled, use simulations to compare a decision—not to chase the highest percentage on the screen.
+What would change if you retired earlier or spent more? Now that the funding plan is together, simulations can help you compare those choices.
 
 We already learned how to read the percentage, count and horizon in the first working plan. Now the useful question is what changes when you test a different life or strategy.
 
@@ -12,7 +12,7 @@ Suppose a household compares two retirement dates using the same spending and as
 
 Now compare spending. A higher amount may reduce modeled success while supporting a life the household values more. A lower amount may improve the result but be unrealistic for essential needs. Read the dollars and the practical adjustment required, not only the score.
 
-Look inside the paths or relevant years the tool actually makes available. Where does funding become difficult? Is it an early account-access issue, a large event, a prolonged weak market, tax pressure or the size of spending itself? The response should address that cause.
+Check the years and outcomes available in the result. Where does funding become difficult? It could be an account you can't access yet, a large expense, a long weak market, taxes, or the amount being spent. Find the cause before choosing a response.
 
 Running short soon after you stop work is different from ending the plan with less money than you hoped. Find when the shortfall occurs and what the household would have to change. An adjustment you cannot actually make does not solve the problem.
 
@@ -26,6 +26,6 @@ You also don't have to optimize to 100%. That can mean giving up spending or wor
 
 Let's change one decision in the example plan. Check that the comparison uses the same starting facts and includes the change, then explain what improved and what the household gave up.
 
-Choose the version you would actually follow and write down why. If it still falls short, name what needs to change before retirement.
+Keep the version you would actually follow. If it still falls short, use that result to identify what needs to change before retirement.
 
 Next we'll turn that choice into a review of what to spend each year.

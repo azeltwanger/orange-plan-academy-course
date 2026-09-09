@@ -14,15 +14,15 @@ Two people can understand Bitcoin well and still choose different allocations. O
 
 Before choosing amounts, decide what role you actually want Bitcoin to play. Is the current position intentional, or did price changes and old contribution choices choose it for you?
 
-The four paths on the slide help describe that intention.
+I use four descriptions to help people think about Bitcoin's role: Foundation, Integration, Optimization, and Sovereign. Here is what each one means.
 
-Foundation is the learning stage. The original example range is 1% to 5%: enough to begin understanding the investment and the practical work of holding it, without making the entire plan depend on it.
+Foundation is the learning stage. Our example range is 1% to 5%. It illustrates starting with a small part of the portfolio while learning about Bitcoin and how to hold it, without making the whole plan depend on it.
 
-Integration describes someone who has decided Bitcoin belongs alongside their other investments. The slide uses 10% to 20% as an illustration. Bitcoin is part of the long-term plan rather than an unrelated trade.
+Integration means you've decided Bitcoin belongs alongside your other investments. The illustrative range is 10% to 20%. It's part of the long-term plan rather than a separate trade.
 
-Optimization gives it a larger role. In the slide's 25% to 50% examples, Bitcoin may be a principal growth asset. The other investments, liquidity, and account choices need to support that decision.
+Optimization gives Bitcoin a larger role. In the 25% to 50% examples, it may be one of the main investments you're relying on for growth. The other holdings, available cash, and account choices need to support that decision.
 
-Sovereign describes a person who sees Bitcoin as the main place to hold long-term purchasing power. The slide uses 50% or more. Direct control may matter strongly to them, but the household still needs a practical way to fund expenses and manage the position.
+Sovereign describes someone who wants Bitcoin to be the main place they hold long-term purchasing power. The example is 50% or more. Direct control may matter strongly to them, while the household still needs a way to fund expenses and manage the position.
 
 These are descriptions, not grades or a ladder you have to climb. The ranges aren't recommendations or precise dividing lines. Someone doesn't become a different kind of investor because their position moves from 49% to 51%.
 
@@ -34,7 +34,7 @@ The question isn't which person is more committed. It is how to build a portfoli
 
 Discuss that intention with anyone sharing the consequences. Your spouse doesn't have to know every technical detail of Bitcoin to understand why it has this role and what the household will use for spending. An unexplained position can become a much harder conversation during a decline.
 
-For now, write the role you want Bitcoin to have and a starting percentage or range to test. You may decide to keep today's position. You may have a reason to increase or decrease it over time.
+Choose a starting percentage or range to compare in your own plan. You may keep today's position or have a reason to build it up or reduce it over time.
 
 Keep that percentage as a starting point. The cash you need and the other investments you choose may change it in the next lesson.
 

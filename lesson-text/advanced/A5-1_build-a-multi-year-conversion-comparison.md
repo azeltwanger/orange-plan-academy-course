@@ -14,15 +14,15 @@ Return to: W05 chapter 4, then lesson 5.5
 
 ### Read aloud
 
-A conversion can make sense this year and be too expensive next year. A multi-year strategy needs to use the actual income windows rather than repeat the same amount until the end of the chart.
+A conversion can make sense this year and cost too much next year. When planning several years of conversions, start with how your income and spending change over that time.
 
 Start with the unchanged plan. Mark employment income, healthcare coverage, benefits, required distributions and the resources funding the early years. Then choose a limited schedule to compare.
 
 We already worked through the tax on a conversion and where the tax money comes from. Here we'll compare different amounts over several years.
 
-For a separate illustrative tax calculation, suppose converting the first $20,000 adds $4,000 of current cost. Converting another $20,000 adds $6,000 more. The first portion costs 20%; the second costs 30%. Together, a $40,000 conversion costs $10,000, or 25% on average.
+Let's use hypothetical tax costs. Suppose converting the first $20,000 costs $4,000, or 20%. Converting another $20,000 costs $6,000 more, or 30% on that second part. Altogether, the $40,000 conversion costs $10,000: an average of 25%.
 
-Looking only at that average hides the decision about the second portion. If the household's comparable future tax cost is expected to be 25% under the simplified assumptions, the first portion has a different trade-off from the second. This is an example of incremental reasoning, not a real tax calculation or a prediction of future brackets.
+The average hides an important difference. Suppose the comparable future tax cost were 25%. Paying 20% on the first portion today is a different choice from paying 30% on the next portion. These are simplified assumptions, not actual brackets or a forecast. They show why you compare the extra cost of converting more.
 
 Now add the next year. If employment resumes or a pension starts, the conversion window may shrink. A larger amount now could deserve another comparison. If a lower-income year is approaching, waiting may be more useful. The schedule follows those circumstances.
 
