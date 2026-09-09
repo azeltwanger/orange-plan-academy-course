@@ -20,6 +20,8 @@ Keep three flows separate: the conversion, the spending money, and the tax payme
 
 For the course's simple illustration, converting $30,000 produces $6,000 of additional tax under the assumed circumstances. The full $30,000 goes into Roth. The $6,000 needs another source. These aren't computed Reed tax figures.
 
+Withholding tax from the IRA changes this comparison. Money withheld does not reach Roth unless you replace it through a valid rollover. Any taxable amount left out can also face the 10% additional early-distribution tax before 59½ unless an exception applies. Compare what actually reaches Roth and how the tax is paid.
+
 Now ask what that tax money was doing. If it was essential Reserve cash, spending it on tax makes the household less liquid. You might choose a smaller conversion or wait for a different funding opportunity. If it was money available to invest, using it for tax also has an opportunity cost.
 
 Let's follow that second case through with a deliberately simplified comparison.
@@ -46,7 +48,7 @@ Then read the first affected year and a later year. What cash was consumed? What
 
 You can compare a smaller conversion before a larger one. Look at the additional cost of the next increment. It may cross a bracket, reduce healthcare assistance, or affect a later Medicare premium. There is no requirement to fill every low-looking year to a fixed line.
 
-Required distributions have to be handled under their own rules; the amount required for the year generally cannot simply be converted instead. Nondeductible basis can change the taxable portion, and access to converted amounts has timing rules distinct from ordinary Roth contributions and qualified earnings. Those details need verification for the actual accounts before execution.
+Required distributions must be satisfied separately; that amount cannot be converted. If you have nondeductible IRA basis, the tax calculation generally combines your own Traditional, SEP and SIMPLE IRAs, including their year-end values. You cannot isolate the after-tax money just by choosing one IRA to convert. Use Form 8606 and the complete records. Access to converted amounts has its own timing rules.
 
 Also understand that a completed Roth conversion generally cannot be undone by recharacterizing it back to Traditional under current rules. A speculative choice based only on an expected market rebound deserves careful review before moving the money.
 
@@ -63,6 +65,10 @@ Tax deck Step 5 and current D48 comparison: total after-tax resources, liquidity
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
 Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P04; S2, S8. Verify Form 8606 definitions/year-end values per owner, relevant distribution amounts, withholding, valid rollover replacement and additional-tax exceptions. Source illustrations are not actual tax liabilities. See [the technical review](../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 

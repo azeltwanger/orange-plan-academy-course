@@ -28,6 +28,8 @@ For the first comparison, use only access you can support. An exception you vagu
 
 Then look at the benefit dates. Stopping work and claiming Social Security do not have to happen together. Claiming earlier can bring income into the gap sooner; waiting may provide a larger later benefit under the rules. The cost of waiting is the additional support required before it starts.
 
+For your own Social Security retirement benefit, delayed retirement credits stop at 70. Waiting past that age does not earn more of those credits. Spousal and survivor benefits follow different rules.
+
 Use your actual earnings record and estimates, and review the household rather than only one person's payment. Spousal and survivor benefits, age differences, continuing work and pension choices can change the comparison. A single break-even age doesn't answer every family's needs.
 
 Here's a simple way to read the effect. Imagine the portfolio currently supplies an annual gap with no Social Security included. Later, a $40,000 gross benefit begins. Holding other costs fixed for the illustration, the portfolio's job falls by $40,000. In the real calculation, taxes and other interactions need updating as well.
@@ -53,6 +55,10 @@ Retirement deck bridge/benefit timing and current qualified-access scope. Preser
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
 Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P06; S11. Own-benefit delayed credits do not continue past 70. Separate current household, survivor, pension, Medicare and access rules. See [the technical review](../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 

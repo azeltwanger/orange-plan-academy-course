@@ -1,5 +1,7 @@
 # Orange Plan Academy
 
+**Source-based technical review — September 8, 2026:** The tax, account-access, healthcare, lending, custody and estate/insurance topic check is documented in [the review packet](delivery/professional-topic-review.md). Sixteen bounded edits clarify ten lessons, with paired recording checks. The factual desk review is complete; licensed sign-off, actual app/device evidence and service-scope classification are not claimed. Existing publication gates remain unchanged.
+
 ## [Start reading the course](DICTATION-ORDER.md)
 
 Follow one main path, completing the matching walkthrough as you go. **For your situation** lessons appear beside the decisions they support. Read the condition: if your plan relies on that strategy, complete its lesson before using it. Otherwise continue. These are not basic and advanced versions of the program.

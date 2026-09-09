@@ -49,3 +49,8 @@ This is targeted primary-source verification of the distinctions preserved in th
 - NAIC disability consumer guidance: definition, limits, offsets, waiting period and duration differ by policy. No standard replacement percentage or waiting period is prescribed in the script. https://content.naic.org/article/consumer-insight-simplifying-complications-disability-insurance
 
 Estate authority, trust design, actual insurance contracts, loan agreements, program eligibility and manufacturer/model-specific recovery remain subject to their existing targeted professional/device gates. Historical provider claims in source decks are not treated as current endorsements.
+
+
+## Full topic desk review — September 8, 2026
+
+[Technical accuracy and professional-review packet](delivery/professional-topic-review.md) records the current source version, topic coverage, P01–P11 clarifications, dated 2026 checks, source applicability conflicts, independent arithmetic and exact remaining review requests. It distinguishes sources from editorial inference and actual licensed approval. Earlier timestamps above remain historical; they are not silently refreshed as evidence of newly checked content. No professional gate is marked passed by this addition.

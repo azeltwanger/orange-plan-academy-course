@@ -38,6 +38,10 @@ This course does not choose a health arrangement for every member. It helps you 
 
 Next, put Medicare on the timeline. Many people become eligible around 65, but eligibility, enrollment, coverage start, employer coverage and HSA contributions need coordination. The end of a job is not automatically the correct Medicare start date for every person.
 
+Once you're Medicare-eligible, COBRA or retiree coverage does not extend the normal employment-based Part B enrollment window. Check the deadline when active employment or its coverage ends, not when COBRA runs out.
+
+Applying for premium-free Part A after 65 can backdate coverage by up to six months, but not before eligibility. Check that effective date before funding an HSA. Include employer contributions when working out the permitted amount.
+
 Medicare also does not make healthcare free. Budget the relevant premiums, supplemental or alternative coverage, prescriptions, cost sharing, and other expenses. Income-related premiums can connect today's tax decisions with a later bill, and the lookback and appeal rules need current checking.
 
 For a couple, one person may enter Medicare while the other still needs different coverage. Model those periods separately rather than switch the entire household at the older spouse's birthday.
@@ -55,6 +59,10 @@ Retirement healthcare bridge framework. New generic normal-year illustration12kp
 The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
 Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P07; S4, S12. Verify the normal eight-month Part B window and any applicable other enrollment route, actual Part A effective date and HSA eligibility. Never prescribe six months before every person's 65th birthday as a universal HSA stop date. See [the technical review](../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 

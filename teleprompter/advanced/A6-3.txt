@@ -16,6 +16,8 @@ A governmental 457(b) arrangement can have different additional-tax treatment to
 
 Substantially equal periodic payments—often called SEPP or 72(t) payments—provide another possible route. The calculation method, account balance, age, payment schedule and permitted changes need careful verification. This is not a flexible withdrawal plan that you can casually alter when spending changes.
 
+For this exception through an employer plan, the payments must begin after separation from that employer. An IRA does not have that employment-separation requirement. Verify the route for the account you intend to use before starting the series.
+
 The required period generally lasts until the later of five years from the first payment or age 59½, subject to applicable exceptions. For an illustration based on exact birthdays, beginning at 54 would run to 59½, which is five and a half years. Beginning at 58 would run to 63, because five years is later than reaching 59½.
 
 Those examples explain duration, not eligibility or an approved withdrawal amount. Exact dates matter. An improper modification can create retroactive additional tax and interest. The allowed method and account setup should be reviewed before the first dependent distribution.

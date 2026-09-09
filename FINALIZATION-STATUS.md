@@ -1,5 +1,7 @@
 # Course status — one main path, written drafts under review
 
+**Source-based technical review — September 8, 2026:** The tax, account-access, healthcare, lending, custody and estate/insurance topic check is documented in [the review packet](delivery/professional-topic-review.md). Sixteen bounded edits clarify ten lessons, with paired recording checks. The factual desk review is complete; licensed sign-off, actual app/device evidence and service-scope classification are not claimed. Existing publication gates remain unchanged.
+
 The approved structure is one complete main path with For your situation lessons beside the relevant decision. The extra work is required when the member’s chosen strategy depends on it, not because the member identifies as advanced. Each placement includes when to use it, what must be completed before relying on it, and where to return.
 
 There are 65 active teaching lessons: 50 shared-path lessons, the conditional college lesson, and 14 other situational lessons. A7.2 is merged into 7.1, 7.4 and W07. Ten app working sessions and the device demonstration remain. The internal identifiers and surviving file paths are stable.

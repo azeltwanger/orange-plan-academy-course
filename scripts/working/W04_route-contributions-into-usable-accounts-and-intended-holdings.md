@@ -56,6 +56,8 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Member finish:** Explain the whole chosen mix, why each amount and investment type fits, a meaningful alternative and the first payment source.
 
+**Technical check before filming:** Desk review supports the instrument distinctions, not an exact cash-access promise. When TreasuryDirect is the chosen route, verify new-issue transfer holding requirements and the sale route; distinguish deposit insurance from money-market-fund protection. See report S15–S17.
+
 #### Chapter 4 — Fit current contributions and future milestones
 
 **Show and do:** After 4.4, use the actual reduced-spending state: $2,475 before employee − $775 = $1,700; $500 Reserve plus $1,200 extra card use it all. Read employer $387.50 separately. Show the conditional card-payment release $1,605 and later Reserve-completion milestone, not current additional money.
@@ -80,6 +82,8 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 
 **Member finish:** Choose the receiving account or a precise prerequisite, rather than copying the whole example account list.
 
+**Technical check before filming:** P01/P03: Verify that IRA assets are not used for a personal borrowing transaction. Distinguish HSA contribution eligibility, substantiated medical reimbursement and later nonmedical distributions. Do not assume every expense predating the HSA is reimbursable, or that age 65 makes nonmedical distributions tax-free. Apply current 2026 coverage rules when relevant; no new member account or transaction is assumed.
+
 #### Chapter 6 — Compare the tax election fairly
 
 **Show and do:** After 4.6, show the separate $1,000 pretax example: $1,000 Traditional versus $800 Roth at 20%, both double, after-tax Traditional $1,600/$1,400/$1,800 at 20/30/10%. Then compare the actual reviewed payroll choices on a clearly specified equal-contribution or equal-household-cost basis.
@@ -91,6 +95,8 @@ Record chapters separately after their paired lessons. Only the paragraphs label
 **Verify before recording:** No assumed Reed current election, bracket, deduction, qualified-distribution status or after-tax result. Use actual model support; external budget reconciliation is separately labeled. New contributions are not conversions, and IRA rules are not automatically workplace rules. Verify save/readback without a provider election claim.
 
 **Member finish:** Explain present cost, later purpose and affordability of the proposed election or mix.
+
+**Technical check before filming:** P02: Confirm the qualified Roth condition and actual account type. Workplace pretax deferral is not an additional personal IRA deduction. Preserve equal-household-cost versus equal-contribution comparisons and the existing current cash-flow reconciliation.
 
 #### Chapter 7 — Tell each account what to buy
 

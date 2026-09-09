@@ -32,6 +32,8 @@ A governmental 457(b) arrangement can have different additional-tax treatment to
 
 Substantially equal periodic payments—often called SEPP or 72(t) payments—provide another possible route. The calculation method, account balance, age, payment schedule and permitted changes need careful verification. This is not a flexible withdrawal plan that you can casually alter when spending changes.
 
+For this exception through an employer plan, the payments must begin after separation from that employer. An IRA does not have that employment-separation requirement. Verify the route for the account you intend to use before starting the series.
+
 The required period generally lasts until the later of five years from the first payment or age 59½, subject to applicable exceptions. For an illustration based on exact birthdays, beginning at 54 would run to 59½, which is five and a half years. Beginning at 58 would run to 63, because five years is later than reaching 59½.
 
 Those examples explain duration, not eligibility or an approved withdrawal amount. Exact dates matter. An improper modification can create retroactive additional tax and interest. The allowed method and account setup should be reviewed before the first dependent distribution.
@@ -59,6 +61,10 @@ Exact app controls, inputs, calculations, save behavior and recordings remain su
 Use one actual fictional bridge interval and the intended account. Read the person, separation/withdrawal dates, source records and rule. Compare a rollover before and after only where its access effect is verified. Narration: “This exception belongs to this account and these circumstances. Moving the money can change the route, so we check before submitting the rollover.” No individual SEPP amount without complete review.
 
 The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
+
+### Source-based technical check — not spoken
+
+September 8, 2026: P09; S10. SEPP method, actual dates, account identity and employer separation must be verified. The existing exact-birthday examples demonstrate duration only, not an approved distribution schedule. See [the technical review](../../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
 ### Member checkpoint
 
