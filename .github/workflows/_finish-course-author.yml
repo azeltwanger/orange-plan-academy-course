@@ -1,0 +1,65 @@
+name: Integrate complete problem-example-solution teaching draft
+on:
+  push:
+    branches: [course-problem-example-solution-complete-20260908]
+    paths: [.github/workflows/_finish-course-author.yml]
+permissions:
+  contents: read
+concurrency:
+  group: academy-complete-teaching-draft-20260908
+  cancel-in-progress: false
+jobs:
+  author:
+    if: github.repository == 'azeltwanger/orange-plan-academy-course' && github.ref == 'refs/heads/course-problem-example-solution-complete-20260908'
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+      - name: Guard exact base and apply literal manuscripts
+        shell: bash
+        run: |
+          set -euo pipefail
+          test "$(git rev-parse HEAD)" = "$GITHUB_SHA"
+          test "$(git rev-parse HEAD^)" = '21156d7fcb1c24c51cf07a239a5ff802d10e85c9'
+          test "$(git hash-object scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md)" = '2c107a394a93cc877c73f011dfe37fb5ad3d94b1'
+          python -m py_compile tools/_finish_*.py
+          python tools/_finish_course.py apply
+          python -m py_compile tools/guided_course.py
+          python tools/guided_course.py build
+          python tools/guided_course.py check
+          python tools/guided_course.py test
+          python -m unittest discover -s tests -p test_member_deliverables.py -v
+          python tools/guided_course.py history
+      - name: Preserve original evidence and publish only to the review branch
+        shell: bash
+        run: |
+          set -euo pipefail
+          test -z "$(git diff 21156d7fcb1c24c51cf07a239a5ff802d10e85c9 --name-only -- source-material fixtures toolkit tests CAPTURE-RECEIPTS.md PROMOTION-RECORD.json production scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md)"
+          git add scripts lesson-text teleprompter modules README.md FINALIZATION-STATUS.md HANDOFF.md delivery/teaching-revision.md tools/guided_course.py COURSE-MANIFEST.json MASTER-COURSE.md MASTER-ADVANCED.md ALL-SCRIPTS.md DICTATION-ORDER.md ADVANCED-DICTATION-ORDER.md FILM-ORDER.md CIRCLE-STRUCTURE.md SCREEN-SHOOT-LIST.md MODULE-CHECKPOINTS.md PRODUCTION-CHECKLIST.md COURSE-METRICS.md ARITHMETIC-CHECKS.json
+          test -z "$(git diff --cached --name-only -- .github source-material fixtures toolkit tests CAPTURE-RECEIPTS.md PROMOTION-RECORD.json production)"
+          git diff --cached --check
+          git fetch origin refs/heads/course-problem-example-solution-complete-20260908
+          test "$(git rev-parse FETCH_HEAD)" = "$GITHUB_SHA"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Integrate complete authored teaching, paired narration and synchronized reading copies'
+          git push origin HEAD:refs/heads/course-problem-example-solution-complete-20260908
+          test "$(git ls-remote origin refs/heads/course-problem-example-solution-complete-20260908 | cut -f1)" = "$(git rev-parse HEAD)"
+          python tools/guided_course.py check
+          git diff --exit-code
+          git rev-parse HEAD
+          git rev-parse HEAD^{tree}
+      - name: Build a clean reading copy from the same canonical sources
+        run: python tools/_finish_course.py reader --out /tmp/orange-plan-course-reading
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: Orange-Plan-Complete-Written-Course
+          path: /tmp/orange-plan-course-reading
+          if-no-files-found: error
+          retention-days: 30
+          include-hidden-files: false
