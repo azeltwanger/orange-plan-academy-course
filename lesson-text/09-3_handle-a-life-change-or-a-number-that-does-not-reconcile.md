@@ -16,7 +16,7 @@ Start by distinguishing a real-life change from a data problem and an idea you a
 
 A job loss is a changed fact. A missing account balance is a record to repair. A possible career break is a scenario. If you treat all three as a reason to edit every strategy setting, the plan quickly becomes impossible to follow.
 
-For a real change, identify the input it affects and the date it begins. Then read the first period that depends on it.
+For a real change, update what changed and when. Then check the first year or month affected.
 
 Suppose household income falls. Update the actual source and its timing, then check bills, required payments, the Reserve and extra contributions. The immediate response may be to pause optional transfers while keeping essentials funded. Don't wait for the annual review to acknowledge that the old surplus is gone.
 
@@ -30,7 +30,7 @@ When the change is only an idea, compare it separately. Record what would change
 
 When asking for help, make the question easy to investigate. State the result you expected, the result you saw, the relevant date and input, and the decision it blocks. Share only the information the question needs. A full unredacted backup or wallet secret is not a normal support attachment.
 
-Don't make several compensating edits to recover a preferred percentage. That can hide the original error and introduce more. Keep a before-and-after record of the one correction, then check the downstream result.
+Correct one thing at a time, then check what changed in the result. Several edits made just to recover a preferred percentage can hide the original error and create new ones.
 
 If the issue affects a time-sensitive bill, loan threshold or tax deadline, address that practical obligation through the proper channel while the planning discrepancy is being resolved. An app investigation doesn't extend a contract or filing deadline.
 

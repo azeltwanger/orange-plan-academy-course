@@ -6,7 +6,7 @@ Let's use Alex and Morgan's original cash flow. The example leaves $500 after th
 
 Before making that decision, ask: “Walk me from income to the $500 remaining. What has already been deducted?” Then look at the same rows in the plan. The employee contribution comes from household pay. The employer match is additional retirement money, not money available for bills.
 
-Now the question has become clearer. You aren't choosing where an unexplained number should go. You know what's already committed, and you can compare changing one commitment with the consequence beside it.
+Now you know what has already been paid and invested. That gives you a starting point for the decision: what would change if they kept more cash or changed the retirement contribution?
 
 Use that pattern for other questions too. “Why is this retirement year more expensive?” “Which account funded the withdrawal?” “What information is missing before I compare a sale?” Ask for the source of the number and the reason for the difference.
 
@@ -16,7 +16,7 @@ Once the number makes sense, ask about the decision. For debt, try, "What change
 
 You can challenge your preferred answer as well. Ask what would make the choice less useful than it first appears. That helps you notice a tax cost, an access problem, or a payment you're assuming will be easy to make.
 
-Read the calculation alongside the explanation. Has the comparison changed the inputs you intended? You still decide whether to save that change.
+Check the calculation as well as the explanation. Is it using the same income, spending, and dates? Did the comparison change what you intended? You still decide whether to keep that change.
 
 For a professional question, use Ask to organize the facts. “Here is the conversion we're considering, the year, and where the tax money would come from. What should we verify with the CPA?” That is a focused handoff, not a substitute for the review.
 

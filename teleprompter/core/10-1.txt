@@ -6,17 +6,17 @@ Begin with the life. What does work optional or retirement mean for this househo
 
 Then read the current answer under the chosen assumptions. Keep the intended date, calculated result, confidence target and horizon separate. Explain what is supported, what is sensitive, and what still needs to change when the preferred date does not work.
 
-Don't hide a shortfall in the closing presentation. Finding it and choosing a response is valuable. The plan should give you clarity about what to do, not just permission to repeat an optimistic number.
+If the plan falls short, keep that finding visible. Understanding the gap and choosing a response is more useful than an optimistic result you can't rely on.
 
 Next, follow the money available today. Do the employee contribution, Reserve funding, extra debt and investment instructions fit the same cash flow? Is employer money counted separately? Has a future debt-payoff contribution started only when the payment actually ends?
 
-For the Reeds, the original $500 remaining and the reduced-spending $1,700 are different states. A final summary cannot combine the higher surplus with the original spending or spend the future $1,605 payoff release today. Use the version actually chosen.
+In the Reeds' starting cash flow, $500 was left each month. Reducing their spending brought that to $1,700. A later card payoff could free another $1,605. Those amounts belong to different points in the plan. They can't use the larger surplus before reducing spending or spend the payoff money while the card payment is still due.
 
 Now read the whole portfolio. Explain the Bitcoin position and what the other holdings provide. Which money is available soon, which supports the early retirement years, and which can stay invested longer? Show why the amounts and accounts fit those jobs rather than simply naming a target percentage.
 
 Then open the first retirement year. Identify income, complete spending, taxes, withdrawals and the source accounts. Move to the next meaningful change: a benefit begins, a major expense arrives, or an account-access rule changes. Trace that year too.
 
-A single positive headline cannot replace those funding explanations. Conversely, you don't need to study every row in the final presentation when the important transitions and the limitations are clear.
+You don't need to inspect every year again. Focus on the points where work, income, spending, or account access changes, and check that each one has a source of money.
 
 Review the operating choices next. How will the Reserve be used and refilled? How is spending reconsidered? How would a loan be repaid or reduced? What would make the household act before the scheduled review?
 
@@ -26,4 +26,4 @@ Finally, read the outstanding actions. Some may be ordinary implementation: chan
 
 Let's read the current plan and its documents in that order. Check the numbers against the accounts and funding years, then identify the actions still to complete.
 
-Return to the question you wrote at the start. Can you explain what supports the life you want, what needs to change, and what you'll do next?
+Come back to the question that brought you here. What supports the life you want, what still needs to change, and what will you do next?

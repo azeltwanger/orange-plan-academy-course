@@ -13,7 +13,7 @@ Sources: ALLOCATION, ALLOCATION_DECK, TAX, PRIMARY, OWNER
 
 Should you pay income tax before investing the money, or when you use it later? That's the basic Traditional-versus-Roth decision.
 
-A withdrawal is money you take out of an account. Qualified means the withdrawal meets the rules for that account's tax benefit; it does not mean every withdrawal from that account is tax-free. Roth can provide tax-free qualified withdrawals. Traditional may reduce the income taxed now. Let's count the tax on both sides before choosing.
+Traditional may reduce the income taxed now. Roth can provide tax-free withdrawals later, when you meet the rules for a qualified withdrawal. Taking money out is a withdrawal; qualified means it meets those rules. It doesn't mean every Roth withdrawal is tax-free. Let's compare the tax on both sides.
 
 Let's start with the same $1,000 of pretax earnings and a hypothetical 20% tax rate. We're assuming a deductible Traditional contribution and no other complications for this illustration.
 
@@ -35,7 +35,7 @@ Your real life isn't one constant bracket. You may contribute during high-income
 
 Look at the tax on the dollars you're contributing or withdrawing, rather than the average across your whole return. Other income, deductions, credits, and healthcare effects can change that cost. Check the full calculation with your tax professional.
 
-Roth also provides flexibility when qualified withdrawals do not add taxable income. That may help when another income-sensitive decision matters. Traditional may let you keep more current cash available or invest a larger amount for the same take-home cost. Compare those jobs, not just the final account balances.
+Qualified Roth withdrawals don't add taxable income. That can be useful when income affects another cost or benefit. Traditional may leave more cash in your paycheck or let you invest more for the same take-home cost. Compare those uses as well as the final balances.
 
 A mix can be deliberate. You may want some tax benefit today and some money with qualified Roth treatment later. There isn't a rule that every contribution has to use the same election forever.
 
@@ -43,13 +43,13 @@ Check the paycheck as well. Suppose Alex keeps contributing $775 a month but cha
 
 You could compare equal contribution amounts, but show the different current cost. Or compare equal household cost, with different amounts entering the accounts. Either can answer a useful question. Don't call them the same comparison.
 
-An IRA adds a deduction check. A Traditional IRA contribution isn't always deductible, and nondeductible basis creates recordkeeping and conversion issues. A workplace Roth account also doesn't share every distribution rule with a Roth IRA. Use the rules for the actual account, not a label on a diagram.
+An IRA adds a deduction check. A Traditional IRA contribution isn't always deductible, and after-tax contributions need their own records for withdrawals and conversions. A workplace Roth account also has different distribution rules from a Roth IRA. Use the rules for the account you actually have.
 
 For ordinary retirement use, qualified Roth IRA earnings generally require both age 59½ and the five-tax-year period beginning with the first tax year for which you contributed to any Roth IRA. Other qualifying circumstances exist. This is separate from withdrawing regular contributions or checking a conversion's five-year rule.
 
 This lesson is about new contributions. Moving an existing Traditional balance into Roth is a conversion, with a separate tax and cash-funding decision. We'll compare that in Tax rather than treating a payroll election as a conversion of everything already invested.
 
-For the next contribution, choose the election or mix that fits the current cost and intended later use. Then test its effect on the rest of the cash flow. Write down the reason and the life or tax change that would make you review it.
+Compare the election or mix that fits this contribution's purpose. Check both the current paycheck and the intended tax treatment later. You can revisit the choice when your income or plans change.
 
 Check that the remaining cash still covers the Reserve and debt payments. Then we can finish what the contribution buys.
 

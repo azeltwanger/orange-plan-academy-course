@@ -10,7 +10,7 @@ That is why spending and taxable income aren't interchangeable. Someone may fund
 
 Now place the income sources on the timeline. Employment may end before Social Security begins. A pension may start on another date. A spouse may continue working. Required distributions may eventually add income even when the household would prefer to leave the money invested.
 
-For Alex and Morgan, we need those actual dates before claiming they have a low-tax retirement window. Alex wanting to stop at 52 doesn't tell us when Morgan's income ends or when benefits begin.
+Alex wants to stop working at 52, but Morgan may still be earning. Before assuming those are low-tax years, check both work timelines and when their benefits begin.
 
 A generic example shows what to look for. Imagine a household whose employment income ends before later benefits and required distributions begin. In the intervening years, ordinary taxable income is lower. Spending is still funded, but perhaps mostly from cash and taxable investments.
 
@@ -30,6 +30,6 @@ That doesn't prove an earlier conversion is right. It tells us which comparison 
 
 A planned move may change the tax on a future sale or withdrawal. It also changes housing, work, healthcare, and the legal residency question. If you're considering a move, use the state-move lesson to compare those effects together. Changing a state in the app doesn't establish where you're legally taxed.
 
-Mark when employment ends, when each benefit begins, and when required distributions apply. Choose the period where a different withdrawal or conversion could help.
+In Orange Plan, check when employment ends, when each benefit begins, and when required distributions apply. Look for a period where changing withdrawals or comparing a conversion could be useful.
 
 For example: "During these lower-income years, should we use some Traditional money instead of paying for everything from taxable investments?" That's the comparison we'll work through next.

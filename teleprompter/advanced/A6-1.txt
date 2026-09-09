@@ -8,7 +8,7 @@ For Marketplace coverage, start with adjusted gross income and add tax-exempt in
 
 For a taxable sale, the whole cash amount is not necessarily income. Basis and gain matter. A fully taxable Traditional withdrawal can add much more income than a sale providing similar spending cash. Qualified Roth treatment and cash already held are different again.
 
-Here is a separate illustration of the combined-cost calculation. Suppose a $10,000 conversion adds $2,000 of income tax. On its own, that looks like a 20% cost.
+For a simple example, suppose a $10,000 conversion adds $2,000 of income tax. By itself, that's a 20% cost.
 
 Now suppose the same conversion increases the household's net coverage cost by $1,500 under the applicable program calculation. The immediate combined cost is $3,500, or 35% of the amount converted.
 
@@ -26,6 +26,6 @@ HSA contributions need a separate eligibility check. The coverage, other insuran
 
 Then follow the cash. Where will the additional tax and premium cost come from? If the preferred conversion consumes money needed for early retirement or medical out-of-pocket costs, include that consequence. A higher future Roth balance doesn't make the immediate shortfall disappear.
 
-Use the app only for effects it actually calculates. A verified outside coverage calculation may need to sit beside the model result. Label it clearly rather than assume an unmodeled subsidy remained unchanged.
+Check whether the app includes the coverage-cost change you're comparing. If it doesn't, include a verified coverage calculation alongside the plan result. Don't assume the assistance stays the same just because the model doesn't show a change.
 
 Choose the coverage and the withdrawal or conversion together, using their combined cost. Confirm the enrollment, eligibility, and tax details before giving up coverage or making the transaction. Enter the same income and costs in the retirement plan.

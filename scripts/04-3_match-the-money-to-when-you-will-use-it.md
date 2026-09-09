@@ -11,15 +11,15 @@ Sources: ALLOCATION, ALLOCATION_DECK, BRAIN, OWNER, APP, PRIMARY
 ### Read aloud
 
 
-You've decided how much Bitcoin you want to consider holding. What should you do with the money that isn't in Bitcoin?
+You might be comfortable with your Bitcoin position and still wonder what to do with the rest of the money. Should it stay in cash? Go into stocks? Help pay for the first years of retirement?
 
-Leaving it all in cash is one choice. Investing it in stocks is another. You may already have bonds, property, or a business. The useful question is what those holdings would provide that your Bitcoin position doesn't already provide.
+The answer depends on what you need that money to provide. You may also own bonds, property, or a business. Let's work out which jobs those investments could do alongside Bitcoin.
 
-Let's build the whole portfolio instead of treating the other investments as whatever is left over.
+We'll start with the money you expect to spend, then choose investments for the money that can stay invested longer.
 
 Start with the spending jobs. Bring forward the Reserve amount you already chose. Then add known expenses that aren't covered by the Reserve: a purchase, a tax payment, or the first retirement withdrawals you want available without depending on a favorable sale.
 
-Use the actual gap after expected income, and keep the dates beside the amounts. An expense funded from future pay doesn't need to claim the same existing savings unless you deliberately want it prefunded. Money already promised to college also isn't free to fund retirement at the same time.
+Allow for income that will cover part of each expense. A bill you plan to pay from future earnings doesn't also need the same amount from today's savings, unless you choose to set it aside in advance. And money promised for college can't also fully fund retirement.
 
 What remains has a longer runway. Now you can compare investments for growth, income, or a combination, based on when that money is needed and which sources of return you want to own.
 
@@ -29,7 +29,11 @@ These are timeframes, not three account types. One brokerage account might hold 
 
 For money that must be available soon, the first job is dependable access and a stable dollar amount.
 
-A bank savings account may fit money you need to reach quickly, with deposit insurance subject to its limits and ownership rules. A short Treasury bill can fit a known date when its maturity and access arrangements match the payment. A money market fund may offer convenient cash management inside a brokerage account, but it is an investment fund, not an FDIC-insured bank deposit.
+A bank savings account may fit money you need to reach quickly. Deposit insurance can protect it within the limits and ownership rules that apply.
+
+A short Treasury bill may fit a known payment date when its maturity and access arrangements line up with that need.
+
+A money market fund can be convenient inside a brokerage account. But it's an investment fund, not an FDIC-insured bank deposit.
 
 These aren't interchangeable just because each displays a yield. Check when you can use the money, what happens before maturity, the protection that actually applies, and the costs. A slightly higher yield is not useful when it leaves the bill without cash on the day it is due.
 
@@ -45,19 +49,19 @@ Bonds have another role. Instead of owning part of a business, you're lending mo
 
 That does not make every bond holding stable. A long-term bond or bond fund can lose value when rates rise. A high-yield bond takes more credit risk. A bond fund doesn't give your entire investment one fixed maturity date in the way an individual bond does.
 
-So don't put a bond fund in the near-term column merely because it isn't a stock. Ask whether you're seeking scheduled cash, less exposure to equity markets, or another investment return—and whether the duration, credit quality, fees, and access fit that job. Bonds are an option to understand, not a mandatory percentage for a Bitcoiner.
+Don't use a bond fund for money needed soon just because it isn't a stock. Check what it would provide: scheduled payments, less stock exposure, or another source of return. Then check how rate changes could affect its value, the issuer's ability to pay, the fees, and your access to the money. Bonds are an option to understand, not a required percentage for every Bitcoiner.
 
 Property or a business can also be part of the picture. Separate the value you own from the cash it can provide. Rent before repairs, debt service, and vacancies is not the amount available for your household. Your home isn't available to pay retirement expenses unless the plan includes a workable way to use its value.
 
 You don't need every type of investment. Choose one because it provides something you need, and count the cost and work it adds.
 
-Let's use one simple example to turn that into amounts. This is a separate teaching household, not the Reeds.
+Let's use a separate household with round numbers to see how this becomes a portfolio.
 
 They have $1 million of financial assets and want to test keeping $500,000 in Bitcoin. Their previous Reserve decision is $60,000. They also plan a $40,000 purchase next year, funded from existing savings. The purchase is not included in that Reserve.
 
 The $60,000 Reserve plus the $40,000 purchase need $100,000 in cash arrangements that fit those dates. Start with the $1 million, subtract the $500,000 Bitcoin choice, then subtract this $100,000. There is $400,000 left for the longer-term investments.
 
-We didn't choose 10% cash because 10% sounded good. The dollar commitments produced that percentage.
+The cash need came to $100,000. That's one-tenth of their $1 million portfolio, or 10%. The percentage came from the commitments they wanted to cover.
 
 This household expects the remaining $400,000 to stay invested for at least ten years. It wants ownership of businesses alongside Bitcoin and does not want the work and concentration of picking a few individual stocks. For the illustration, it chooses broad stock funds for that amount after checking coverage and costs.
 
@@ -65,7 +69,7 @@ Now the proposed mix is 50% Bitcoin, 40% stocks, and 10% cash. Each part has a r
 
 It isn't the only possible mix. A household wanting more scheduled payments or less stock exposure could compare allocating some of that $400,000 to suitable bonds. One with an existing rental business might already have a large non-Bitcoin growth and income exposure. Those are changes to analyze, not extra categories to add by default.
 
-Now change one fact. Suppose the household is about to stop working. Its plan shows $50,000 a year for the first two years that income won't cover, after allowing for the costs included in that spending gap. It wants those two payments available in cash, separately from the Reserve and purchase.
+Now suppose this same household is about to stop working. Income won't cover $50,000 of spending in each of the first two years. They decide to have both payments ready in cash, in addition to the Reserve and purchase already counted.
 
 That adds $100,000 to the cash job. With Bitcoin held at the same $500,000, there is now $200,000 in cash and $300,000 available for stocks: 50% Bitcoin, 30% stocks, 20% cash.
 
@@ -79,9 +83,9 @@ The long-runway portion also changes as time passes. Retirement is not one deadl
 
 Then add the dollar positions to see the household mix. Don't average percentages from accounts of different sizes, and don't put the household percentage into every account. An account for a near-term bill may hold no Bitcoin even when Bitcoin is half the overall portfolio.
 
-Now use your own amounts. Write down the money needed for each commitment and what remains for longer-term investing. For that remainder, compare the investments you're seriously considering: what do they own, what do they cost, and what would a bad result mean for you?
+Now bring this back to your own Orange Plan. Start with your holdings and spending dates. Check what is needed for the approaching commitments and what can stay invested longer. For that longer-term money, compare the investments you're considering: what do they own, what do they cost, and what would a bad result mean for your plan?
 
-Explain your choice without using the example's percentages as the reason. Two households can learn the same method and choose different portfolios. If an existing holding already fits, keeping it is a valid choice.
+Your mix may differ from this example because your needs and preferences differ. Keep an existing investment when it already does the job. Change it when the comparison gives you a reason.
 
 Next we'll work out how the available contributions move you toward that mix. Changing existing holdings may also make sense, but a sale has its own tax and trading costs to compare first.
 

@@ -6,15 +6,15 @@ A household target is not an instruction to put the same percentage in every acc
 
 Look at Alex's two example accounts. The workplace plan has $410,000, including $123,000 of Bitcoin-fund exposure. The Roth IRA has $145,000, including $116,000 of Bitcoin-fund exposure. Their combined fund position is $239,000 out of $555,000.
 
-You can't average 30% and 80% and call that the combined allocation. The accounts have different sizes. Add the actual dollar holdings, including the other accounts, to understand the household mix.
+Those accounts hold different proportions of Bitcoin funds: 30% in the workplace plan and 80% in the Roth. You can't average those two percentages because the accounts aren't the same size. Add the dollar holdings first, as we just did, and compare them with the combined account value.
 
 Then place investments where the account's access, tax treatment and menu support their job. A workplace plan without a Bitcoin option could hold stock funds wanted in the overall portfolio. Another account could supply Bitcoin exposure. A Roth with a long runway may suit growth, while taxable investments may be needed to fund earlier years.
 
-Tax placement has trade-offs. An investment that produces taxable income can create ongoing tax in a taxable account. A retirement account changes that treatment. But putting every growth asset behind retirement-account rules doesn't help when the plan needs accessible money sooner. Read placement as part of the funding plan, not an isolated tax puzzle.
+Where you hold an investment can change when you pay tax on it. But tax isn't the only concern. Putting all your growth investments in retirement accounts could leave too little available for earlier spending. Choose the account with both the tax treatment and the spending date in mind.
 
 Now decide whether to change existing holdings or only future purchases.
 
-The Reeds' separate target illustration is 60% Bitcoin, 34% stocks and 6% cash within the $1,307,000 group. The Bitcoin target is $784,200 versus $728,000 currently. That $56,200 difference shows a direction, not an instruction to buy today. It is also a different example from the round-number whole-portfolio lesson.
+Back to the Reeds' full $1,307,000 investment group. They're comparing a target of 60% Bitcoin, 34% stocks, and 6% cash. Sixty percent of $1,307,000 is $784,200. Subtract their current $728,000 Bitcoin exposure and the difference is $56,200. That tells us how far the current holdings are from this target. It doesn't tell us to buy today. This is the Reeds' comparison, separate from the $1 million household we used earlier.
 
 Their current available money is already assigned to the Reserve and extra card payment after Alex's contribution. A larger target doesn't fund an additional transfer.
 
@@ -28,7 +28,7 @@ That split is a teaching comparison, not a recommendation or a transfer already 
 
 What the next contribution buys may differ from the final mix you want. If you own less of one investment than your target calls for, new money can go toward that gap. Prices and the rest of the portfolio change too, so dividing today's gap by a monthly contribution won't tell you the exact date you'll reach the target.
 
-For each contribution, write the amount, where it comes from, when it starts, the receiving account, and what it buys. Include the tax election where it applies. If you chose a category such as stocks, you still need to select and check the actual investment before arranging the purchase.
+For each contribution in your plan, check the amount, where it comes from, when it starts, the receiving account, and what it buys. Include the tax election when it applies. Choosing a category such as stocks is only the first part; you still need to choose and check the actual investment before arranging the purchase.
 
 Check what the selected product owns, how it is managed, its costs, and any material overlap with other holdings. A spot Bitcoin fund is not a leveraged fund, a covered-call strategy, or shares in a Bitcoin-related company. A stock allocation isn't automatically a concentrated technology bet.
 

@@ -30,11 +30,11 @@ The same idea applies when an event becomes real. If a future reduction in spend
 
 For now, gather recent account statements, debt statements, income records, a spending reference, and employer benefits. Keep them together in a private folder. Add a short list of expected changes. You don't need a second spreadsheet that recreates every record; you need a reliable place to check a number when a question comes up.
 
-Some information will be incomplete. Mark what you know, what you're estimating, and what you still need to find. A missing purchase date doesn't stop you from identifying an account's current value. It can stop you from treating the tax cost of selling it as settled. The consequence of the missing fact determines its priority.
+Some information will be incomplete. Keep estimates separate from figures you've checked. A missing purchase date doesn't stop you from entering an account's current value, but it can affect the tax on a sale. Start by finding the missing facts that could change the next decision.
 
 Take one change you're considering. Does it describe today, something you expect to happen, or something you only want to test? Put it in the right place. Then note the assumption you're least sure about so we can check it when we read the result.
 
-That gives us a starting plan we can return to. In the next chapter, we'll begin with the accounts you already have—not an account setup you think you are supposed to copy.
+That gives us a starting plan we can return to. Next we'll add the accounts you already have and check what each one owns.
 
 ### Visual and source notes — not spoken
 

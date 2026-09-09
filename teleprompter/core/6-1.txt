@@ -8,15 +8,15 @@ Keep essential and flexible spending visible. That doesn't mean you plan to cut 
 
 Add known irregular costs at the right dates rather than pretend retirement is the same month repeated forever. A roof, vehicle, family gift, or college commitment can make one year meaningfully different.
 
-Start the example with $96,000 of living costs and $12,000 for healthcare. That adds up to $108,000. There is also $40,000 of income before tax. Subtract it, and the rough gap is $68,000. Keep that number in view while we add the costs not counted yet.
+Suppose a household expects $96,000 of living costs and $12,000 of healthcare costs a year. That's $108,000 in spending. It also expects $40,000 of income before tax. Subtract the income from spending and the rough gap is $68,000. Now let's account for costs that aren't in that total yet.
 
 That subtraction is useful, but it isn't yet the final withdrawal amount. We have compared gross income with only part of the cash outflow. Taxes, required debt, and other costs can change what the portfolio has to supply.
 
-Here is a separate extension purely to explain that reconciliation. Suppose total tax for the period is estimated at $12,000 and an additional $6,000 of debt payments has not been counted in the living figure. Total outflow becomes $126,000. With the same $40,000 of gross income, the remaining cash need is $86,000.
+For this illustration, suppose the household also estimates $12,000 in total tax and has $6,000 of debt payments that weren't included in living costs. Add both to the $108,000 and total outflow is $126,000. Subtract the same $40,000 of gross income, and investments need to provide $86,000.
 
 These added figures are assumptions for this example. They show why the rough $68,000 gap is not necessarily the withdrawal you need. If withdrawing more also raises the tax bill, include that change in the calculation.
 
-Use one consistent convention. Start with gross income and include the complete tax outflow, or clearly reconcile the deposits and tax already withheld. Don't subtract withholding and then subtract the entire same tax bill again.
+Be consistent about taxes. You can start with gross income and count the full tax bill, or start with the deposits and account for tax already withheld. Don't subtract the withholding and then charge the same tax a second time.
 
 Now build the income floor: money expected to arrive before you sell assets for the remaining need. Social Security, a pension, rent after its costs, and continuing work may contribute. But they don't all have the same reliability.
 
@@ -30,6 +30,6 @@ That's the shape to look for in the year-by-year view. The gap can be large just
 
 You may discover that the intended life costs more than the starting estimate. Don't fix that by leaving healthcare or a payment out. Decide whether the spending, timing, or funding needs to change.
 
-Let's put one year's income on one side and all its costs on the other. Find what investments need to provide, then look at the next year when income or spending changes.
+In your own plan, add up a complete year's costs and subtract the income arriving that year. The difference is what investments need to provide. Then check the next year when income or spending changes.
 
 Next we'll identify which accounts can supply that money during the early retirement years.

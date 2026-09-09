@@ -4,11 +4,11 @@ Start by checking what question it answered. Which retirement date is being test
 
 The date you selected is your intention. A calculated earliest date answers a different question: when does the modeled plan meet the standard being used? Entering 52 for Alex doesn't make 52 a supported result.
 
-A projection follows one possible future using the assumptions in the plan. A simulation tests many possible futures built from the model's rules. In one, investments do well early. In another, they struggle. The question is whether each tested future can fund the planned spending through the end of the plan.
+A projection follows one possible future using the assumptions in the plan. A simulation tests many possible futures built from the model's rules. Investments might do well early in one and struggle in another. Each time, the model checks whether the money covers the planned spending through the end of the plan.
 
-Suppose 790 out of 1,000 test futures cover the planned spending through age 95. That is 79%: 790 divided by 1,000, then multiplied by 100. The other 210 do not cover the full period under those rules. When a result is called a confidence level, find out exactly what counted as success in that calculation.
+For a simple illustration, suppose 790 out of 1,000 simulated outcomes cover the spending through age 95. That's 79%: divide 790 by 1,000, then multiply by 100. The other 210 don't cover the full period under those rules. That's how to read this example's confidence level. Always check what counted as success in the calculation you're using.
 
-That is a separate teaching illustration, not a result for the Reeds. It isn't a prediction that precisely one outcome will happen to your family, and the unsuccessful paths aren't automatically harmless cases needing a tiny adjustment. We need to understand what made the funding difficult.
+Those are illustrative results, not the Reeds' result or a prediction for your family. And the outcomes that fell short may need more than a small spending adjustment. Look at why the money ran short and what the household would have to change.
 
 Keep the horizon, spending, assumptions, and result together. A percentage from a plan with less spending is answering a different question from a percentage at the lifestyle you actually want.
 
@@ -18,7 +18,7 @@ Then open one meaningful year rather than stare only at the headline. The first 
 
 Suppose the withdrawal is much larger than expected. You might find a vehicle purchase, an ongoing debt payment, or a tax cost. Now you know what to investigate. Trying to improve the percentage before finding the cause would send you in the wrong direction.
 
-For Alex and Morgan, first make sure the plan uses the cash-flow state we actually entered. Their original example has $500 remaining after existing costs and the employee contribution. A later spending reduction creates more room. Giving them that larger amount before they choose the reduction would test a different life.
+For Alex and Morgan, we're still using the starting cash flow with $500 left after costs and Alex's contribution. Later we'll compare spending less. Until they choose that change, its extra savings don't belong in their current plan.
 
 Once the important facts are right, choose a realistic comparison. Could you save more? Would a different work transition fit? Is there spending you would actually change? Does the problem come from having money in an account that can't support the early years?
 
@@ -26,6 +26,6 @@ Change one decision at a time so you can explain the difference. More saving use
 
 If the first answer is strong, don't invent problems to keep optimizing. Explain what supports it and identify the limitation that still matters. If it is weak, find the biggest fixable issue instead of jumping straight to higher Bitcoin returns.
 
-Before moving on, explain what the plan says about the date you want. Pick one input to verify or one real choice to compare. If the facts are right and you prefer the current plan, keeping it is a decision too. You don't need to change something just because an example did.
+Use your first result to choose the next useful step. That might be checking an input or comparing a real change in spending, saving, or work. When the facts are right and the current plan fits, you can keep it.
 
 Next we'll check the spending and money available each month. That gives us the amount we can use for the Reserve, debt payments, and new investments.

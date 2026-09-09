@@ -17,7 +17,11 @@ We need a coverage path and a budget for the period before Medicare, then a sepa
 
 Start with what is actually available. That could include a spouse's employer plan, continuation coverage, a Marketplace plan, or another arrangement for which you qualify. Identify when the current coverage ends and when the replacement can begin. Don't leave a gap between two dates that only looked close on the calendar.
 
-Then compare the full cost. The premium is what you pay to keep the coverage. The deductible is the amount you pay for services subject to it before the plan starts paying its share. A copayment is a set charge for care; coinsurance is a percentage of the covered cost you pay. The network is the group of doctors, facilities and other providers that have an agreement with the plan. Check your doctors and needed services separately.
+Start with the premium: the amount you pay to keep the coverage. Then check what you pay when you receive care.
+
+The deductible is the amount you pay for services subject to it before the plan starts paying its share. A copayment is a set charge. Coinsurance is a percentage of the covered cost.
+
+The network is the group of doctors, facilities, and other providers with an agreement with the plan. Check that your doctors are included and that the services you need are covered. Those are separate questions.
 
 Read the out-of-pocket limit too. It does not necessarily include premiums, services the plan excludes, or every out-of-network cost. Use the actual policy to see what remains your responsibility.
 
@@ -37,7 +41,7 @@ Some households also consider healthcare sharing or crowdfunding arrangements. C
 
 You may value the services, flexibility, or cost structure of a noninsurance arrangement. You also need to understand eligibility, limits, exclusions, treatment of existing conditions, and the risk you keep. Don't enter its monthly contribution as though it were proof that all future medical costs are covered.
 
-This course does not choose a health arrangement for every member. It helps you compare the actual protection and the cash exposure, then get qualified help for the coverage decision.
+The choice needs to fit the care you expect, the protection provided, and the costs you can carry. Get help with a coverage term you can't verify before relying on it.
 
 Next, put Medicare on the timeline. Many people become eligible around 65, but eligibility, enrollment, coverage start, employer coverage and HSA contributions need coordination. The end of a job is not automatically the correct Medicare start date for every person.
 

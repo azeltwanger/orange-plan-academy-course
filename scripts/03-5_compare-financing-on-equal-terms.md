@@ -21,7 +21,7 @@ They have $32,000 assigned to the reserve. Taking the full project cost from tha
 
 That consequence belongs in the comparison. “We have enough in the account” is not the same as “we can use it without affecting anything else.” They might have another resource available, but we need to identify it and its other commitments rather than assume every account balance is spare cash.
 
-Selling an investment is another option. In a taxable account, look at the gain and any tax associated with the sale. The amount sold may need to be larger than the $30,000 needed for the project. It depends on the actual purchase history and the household's tax situation; we shouldn't make up a tax cost to finish the example.
+Selling an investment is another option. In a taxable account, the sale may create a gain and a tax bill. You may need to sell more than $30,000 to leave $30,000 for the project after tax. Work that out from the actual purchase records and tax situation rather than assuming the entire sale is available to spend.
 
 Financing may leave more money in those accounts at the start. Now put the new payment beside the cash flow.
 
@@ -45,7 +45,7 @@ Interest-only can have a purpose. It might preserve cash during a period when th
 
 When you compare offers, include the fees and check whether they are paid upfront or added to the amount owed. Look at the rate, how it can change, the payment schedule, and the cost of ending the loan early. A zero-interest promotion also needs its full terms reviewed; an introductory label doesn't explain what happens when the promotional period ends.
 
-Before looking at loan types, put two realistic ways to pay for your purchase side by side. For each, note the cash used now, the payment, what remains owed later, and what secures it. That gives the details below a purpose. You don't need to collect an offer for every type of loan; find the terms that matter to your actual comparison.
+For your own purchase, start with two realistic ways to pay. Compare the cash used now, the payments, what remains owed later, and what secures the loan. You don't need an offer for every loan type. The next part helps you spot the terms that matter to the options you're considering.
 
 With a conventional personal, auto, or equipment loan, start with the repayment schedule and what secures it. A longer term can make the payment smaller while keeping you in debt longer. A lower payment may still be useful; just understand how much comes from a better rate and how much comes from spreading repayment over more time.
 

@@ -29,7 +29,7 @@ Next, describe the change accurately.
 
 A purchase happens once. A recurring expense continues. A change in income starts at a particular point and may stop again later. Those need different treatment.
 
-For a simple illustration, paying $30,000 in cash for a car is a one-time cost. It doesn't mean you spend an extra $30,000 every year. Financing a car is different: some money may leave now as a down payment, and the loan payments continue afterward. This is not a vehicle quote for Alex and Morgan. It's a way to see why the amount alone doesn't explain the event.
+Suppose a household pays $30,000 in cash for a car. That's a one-time cost, not another $30,000 of spending every year. With financing, some cash may leave as a down payment and loan payments continue afterward. The same purchase creates different cash needs depending on how it's paid for.
 
 The same applies when a cost ends. A recurring expense stopping next year should affect the months after it stops, not make your current spending look lower before it happens. A temporary expense should also have an end rather than continuing for the rest of the plan.
 
@@ -67,7 +67,7 @@ That matters when Bitcoin is part of the funding plan. You may be comfortable ke
 
 The more important it is that the full amount be there on a particular date, the less I would want that payment to depend on a favorable market at exactly the right time. That doesn't mean every future goal has to sit in cash today. It means you need a funding choice that fits the commitment, and a time to review it as the date gets closer.
 
-Let's add one expected expense and one income change, then open the period they affect. Did the expense appear when intended? What income was available, and which account covered the rest? Check what remains afterward, not just whether the retirement date moved.
+In the walkthrough, we'll add an expected expense and an income change, then check the period they affect. Did the cost begin when intended? What income was available, and which account supplied the rest? Look at what remains afterward, not just whether the retirement date moved.
 
 The retirement date might stay the same even though funding the purchase requires a sale or a loan you wouldn't choose. Read that trade-off before deciding.
 
@@ -75,7 +75,7 @@ Finally, remember to update an event when it happens.
 
 Suppose you planned for a recurring bill to end, and it has now ended. Your current spending should reflect that. Check the old future entry as well, so the projection doesn't reduce spending again for a change already included in today's numbers. The same idea applies to a purchase that's now an owned asset or a proposed loan that's now a real debt.
 
-For this step, choose an expected change and record its amount, timing, and funding explanation. Keep estimates visible, and put possibilities you haven't chosen in the comparison instead. You can add more as you work through the plan; you don't need a perfect list of every expense you will ever face.
+Add the expected changes that matter to your own plan, with an amount, a date, and a way to fund them. Keep uncertain amounts marked as estimates. Compare possibilities separately until you've chosen them. You can add more later; you don't need to predict every expense before continuing.
 
 We'll give college its own example in the optional lesson because it involves several years and often more than one child. Otherwise, your next required session is Debt, where we'll settle the existing payments and any financing you're considering.
 

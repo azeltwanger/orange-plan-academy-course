@@ -1,12 +1,12 @@
 Two portfolios can experience the same returns and end with different amounts when money is being withdrawn. The order matters because assets sold for spending are no longer there for the recovery.
 
-Let's see it with a short example instead of a definition.
+Let's work through two years to see why.
 
 Start with $1 million and withdraw $50,000 at the beginning of each year. One version loses 20% in year one and gains 25% in year two. The other gets the same returns in the opposite order.
 
-In the first version, the initial withdrawal leaves $950,000. A 20% decline leaves $760,000. Take the next $50,000, then apply the 25% recovery, and the balance ends at $887,500.
+In the first version, you take $50,000 from the $1 million. That leaves $950,000. After the 20% decline, you have $760,000. At the start of year two, take another $50,000, leaving $710,000. A 25% gain on that amount brings the ending balance to $887,500.
 
-In the other version, the first $950,000 grows by 25%. After the next withdrawal and a 20% decline, the ending amount is $910,000.
+Now reverse the returns. The first withdrawal still leaves $950,000. A 25% gain takes it to $1,187,500. The next $50,000 withdrawal leaves $1,137,500. After the 20% decline, the ending balance is $910,000.
 
 Same starting money. Same withdrawals. Same two returns. The sequence creates a $22,500 difference.
 
@@ -16,7 +16,7 @@ That is sequence-of-returns risk. It is one reason an average return cannot tell
 
 A reserve can give you time and flexibility. Money already available in cash can pay part of the gap while you review the longer-term holdings. It doesn't eliminate losses or guarantee you will never need to sell during a weak market.
 
-Bring forward the reserve concept without copying the working-years amount automatically. During work, the reserve mainly protects an interruption. In retirement, it also supports the gap between spending and reliable income while investments provide the rest over time.
+The reserve may need a different job in retirement. While you're working, it mainly covers an interruption or unexpected cost. After work stops, it can also cover the gap between spending and reliable income during a difficult market. Don't assume the working-years target carries over unchanged.
 
 Size that cash from the gap you need it to cover and the period you choose to prepare for. If income pays much of the lifestyle, using total spending can overstate that particular job. If a major bill is not in ordinary spending, include it separately so the cash plan doesn't miss it.
 
@@ -34,6 +34,6 @@ In a steady or stronger period, refilling toward the target may be reasonable. C
 
 For the annual review, read spending and reserve together. A lower spending choice may reduce the cash need. A higher choice can require a larger withdrawal or refill. They should not be two independent instructions that claim the same money.
 
-Let's compare the two-year example, then look at the retirement Reserve. In a weak year, how much cash remains, and what would you do as it approaches the floor?
+Now use your own retirement gap to review the Reserve in Orange Plan. In a weak year, how much cash would remain, and what would you do as it approaches the floor?
 
-Write down how much cash you're preparing, what it covers, when you'll review it, and how you will refill it. Include the response you'd use if markets stayed weak longer than hoped.
+Choose how much cash to prepare, what it covers, and when to refill it. Keep a response for a market that stays weak longer than you hope.

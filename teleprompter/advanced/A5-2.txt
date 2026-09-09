@@ -4,7 +4,7 @@ Use this lesson when you have a specific candidate sale. Begin with the account 
 
 The course's three-lot example produces $8,400, $16,800 or $9,600 of gain from the same $20,000 sale. Those are alternatives only to the extent the relevant units can actually be identified and sold under the applicable rules.
 
-Suppose the lowest-gain row depends on a missing purchase confirmation. Don't choose it and hope the record appears later. Resolve the evidence or compare an alternative whose basis and identification can be supported.
+Suppose the sale with the smallest gain depends on a purchase confirmation you can't find. Resolve that missing record before relying on the calculation, or compare units whose basis and identification you can support.
 
 Now prepare the identification before the required deadline. The actual asset, location, custodian and transaction year determine the rules. Broker-held digital assets and an unhosted wallet can have different procedures. Temporary relief in a particular year is not permanent permission to reconstruct any preferred lot choice after the sale.
 
@@ -16,7 +16,7 @@ Be especially careful about replacement purchases in your own IRA or Roth IRA. A
 
 For a gain harvest, update the rest of the year's income. A conversion or business-income change can consume the same favorable room. Federal gain treatment alone doesn't establish the full state, healthcare or other income-sensitive cost.
 
-Before the sale, complete the review and required identification. Afterward, keep the confirmation and reconcile the units, proceeds, and remaining holdings. If you first move coins between your own wallets, keep their purchase history attached; the transfer is not a new purchase.
+Before the sale, finish the review and required identification. If you move coins between your own wallets first, keep their purchase history attached. The transfer isn't a new purchase.
 
 After the trade, match the actual units, time, proceeds, fees and selected history with the confirmation. Verify the remaining lots and current holding quantity. A tax report should explain the position left over, not just the realized result.
 

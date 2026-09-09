@@ -1,4 +1,4 @@
-A large price move can make an investment decision feel urgent even when your financial situation hasn't changed. Before a large purchase or sale, separate the purpose of the transaction from the feeling created by the chart.
+A large price move can make buying or selling feel urgent even when your financial situation hasn't changed. Before making a large trade, start with what the money is for.
 
 Is the purchase part of the target you already chose? Is the cash genuinely available for long-term investing? Is the sale funding a bill with a deadline? Those facts matter before the price opinion.
 
@@ -6,9 +6,9 @@ You may compare investing a lump sum with buying in stages. Staging changes the 
 
 Here is a deliberately simple example with no fees. A household has $20,000 earmarked for Bitcoin. At a hypothetical price of $100,000, investing all of it buys 0.2 Bitcoin.
 
-Instead, it could invest $10,000 now and keep $10,000 for later. If the later price were $50,000, those purchases would total 0.3 Bitcoin. If the later price were $200,000, they would total 0.15 Bitcoin.
+Instead, the household could invest $10,000 now, buying 0.1 Bitcoin, and hold the other $10,000 for later. If the later price were $50,000, that second purchase would buy 0.2 Bitcoin. Together, they'd have 0.3. But at a later price of $200,000, the second purchase would buy only 0.05 Bitcoin, bringing the total to 0.15.
 
-The staged method helps in the falling-price example and buys less in the rising-price example. We haven't assigned probabilities or found a perfect entry rule. We've exposed the trade-off in waiting with part of the money.
+Waiting with half the money buys more Bitcoin in the falling-price example and less in the rising-price example. Neither is a forecast. Staging the purchase changes your exposure to those outcomes; it doesn't guarantee a better price.
 
 Someone may choose staging because it makes a large change easier to maintain. Another may choose the lump sum because the allocation and purpose are settled and they prefer immediate exposure. The process should fit the person's decision, not claim timing skill the example doesn't establish.
 
@@ -20,6 +20,6 @@ Market indicators and valuation models can provide context. Record what the indi
 
 For the Reeds, a better-looking entry does not create cash on top of the Reserve and extra-card claims. A loan to enlarge the purchase is another decision, with its own repayment and downside—not a small adjustment to timing.
 
-Write down the amount you can afford, the reason for the purchase or sale, and the pace you've chosen. Also note what would change that decision—a new cash need or a revised allocation, for example.
+Choose the amount you can afford and the pace that fits the purpose of this purchase or sale. Revisit it when your cash needs or intended allocation change, rather than reacting to every price move.
 
 Once the large transaction is settled, return to the ordinary contribution plan. You don't need to repeat this price review every payday.

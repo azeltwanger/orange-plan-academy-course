@@ -21,9 +21,9 @@ If something is unclear, open that part of the plan. A withdrawal should have a 
 
 When you share finances with someone, use the Household Plan Summary to discuss the decisions that affect both of you. Show what funds the early years, why you chose the investment mix, and which spending could change during a difficult period. You don't have to walk through every calculation.
 
-For anyone who needs to help manage the household, make the relevant starting instructions easy to find. The family handoff section already covers those arrangements; this is not a second rehearsal or another document to complete.
+Make the starting instructions easy to find for anyone who may need to help manage the household. Use the arrangements from the family handoff section.
 
-Use the existing summary when sharing is useful. Keep the details in Orange Plan rather than copy every table into a separate explanation.
+Share the existing summary when it's useful. The detailed calculations can stay in Orange Plan.
 
 Share selectively. A professional reviewing a conversion needs the relevant income and account facts. A family member beginning an emergency process needs the safe instructions and contacts. Neither normally needs wallet recovery secrets in an ordinary planning document. Review an export before sending it, and distinguish a summary from a restoration backup.
 

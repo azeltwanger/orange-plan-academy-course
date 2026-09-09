@@ -37,11 +37,11 @@ For example, more money available before work stops may address an early shortfa
 
 Holding-specific overrides need the same discipline. A spot Bitcoin fund can track a Bitcoin exposure model while remaining a security for custody and tax. A company associated with Bitcoin has business and financing effects too. A leveraged or distribution-focused fund has a structure that a simple Bitcoin growth override may not represent.
 
-If the engine cannot represent an important feature, label the limitation. Do not make the feature disappear by selecting the return you hoped the security would earn. A separate analysis or a simpler comparison may be more honest than a detailed-looking but inappropriate override.
+If the model leaves out an important feature of an investment, remember that limit when you compare results. Raising its assumed return doesn't account for the missing feature. You may need a separate analysis or a simpler investment comparison.
 
 After the first controlled test, a combined stress can be useful. Lower returns and a later income start may occur together. Name both changes so the comparison is understood as a combined scenario, not evidence of which one caused the result.
 
-Keep a receipt of the inputs and result identity. Without it, you can end up comparing an old baseline with a new scenario and attribute the difference to the wrong setting.
+Make sure both versions use the same starting facts and that each result includes the changes you're comparing. Otherwise, an old calculation can make it look as though an assumption caused a difference it didn't.
 
 Keep the starting assumptions and the comparison, then note which planning decision changes under the different result. Return to your plan when that question is answered.
 
@@ -89,13 +89,13 @@ Have the loan agreement ready. We'll put its balance, dates, and response rules 
 
 Read the full balance, not just the original principal. Record interest treatment, fees, maturity, collateral quantity, price source and the actual warning, collateral-call and liquidation provisions. Those are separate contract events. A notice is not a promised grace period unless the agreement actually provides it.
 
-Use the source's simple illustration. A $25,000 loan against $100,000 of collateral starts at 25% LTV. If 12% interest is added for one year using a simplified annual calculation, the debt becomes $28,000.
+Suppose you borrow $25,000 against $100,000 of collateral. That's 25% LTV. In this simplified example, 12% interest is added after one year. Twelve percent of $25,000 is $3,000, so the debt becomes $28,000.
 
 Now suppose the collateral is worth $50,000. LTV is $28,000 divided by $50,000, or 56%. The original 25% is no longer the relevant number.
 
 With a purely hypothetical 80% liquidation line, $28,000 of debt reaches that line at $35,000 of collateral. That is a 65% decline from the original $100,000 value, before further interest or fees. Actual accrual and contract terms can change the result.
 
-Next, choose a personal review point before the event you're trying to avoid. Don't call the review point safe; explain what action it initiates.
+Choose a point to review the loan before the situation you're trying to avoid. The review point doesn't guarantee safety. It tells you when to take a specific action.
 
 For an arithmetic example, suppose you were considering returning this $28,000 loan and $50,000 collateral position to 50% LTV. Repaying $3,000 would leave $25,000 against $50,000. Adding $6,000 of eligible collateral would leave $28,000 against $56,000. Both reach 50% in that simplified instant.
 
@@ -103,7 +103,7 @@ They are not the same household decision. Repayment uses cash and reduces debt. 
 
 Write the limit on further collateral separately. Protecting one loan should not automatically expose the entire Bitcoin position. If that limit is reached, identify the alternative response before the crisis.
 
-Then test the principal exit. If repayment depends on refinancing, what happens when a new loan is unavailable? If it depends on a sale, include the timing, price and tax uncertainty. A long flat market can be difficult even without an immediate liquidation event.
+Then check how the principal gets repaid. If you're relying on refinancing, what happens when another loan isn't available? If you're relying on a sale, allow for its timing, price, and tax. A long flat market can create problems even without an immediate liquidation.
 
 Add the operational failure case too. A provider interruption can affect access even when LTV is low. Confirm the actual rights, custody structure and available response; the simulation doesn't supply a counterparty guarantee.
 
@@ -151,9 +151,9 @@ Return to: W03 chapter 4, then lesson 3.6
 
 Two offers can have similar starting payments and very different final obligations. This lesson is for a financing proposal with terms a simple monthly-payment comparison does not capture.
 
-Put the purchase price, cash needed and date at the top. Keep those the same across alternatives. Then build the schedule from closing through the exit.
+Start with the purchase price, cash needed, and date. Keep those the same across the financing choices. Then follow each offer from the first payment to the final repayment or settlement.
 
-Record cash paid upfront, fees, interest rate and resets, each payment phase, principal remaining, and any final balloon or contingent settlement. The last row is not optional. It is where some of the most important cost can be hiding.
+Include the cash paid upfront, fees, rate changes, each payment period, and the balance still owed. Pay particular attention to any large final payment or settlement tied to the asset's value. A small monthly payment can hide a large obligation at the end.
 
 The earlier interest-only example makes the point. Paying interest on $20,000 for five years leaves the $20,000 principal outstanding. If the planned exit is another loan, add the case where refinancing is declined. The payment schedule hasn't become workable until the household has an acceptable response.
 
@@ -169,7 +169,7 @@ Securities-backed credit adds a use restriction check. A non-purpose line genera
 
 Retirement-plan loans add employment and plan-rule consequences. Read what happens if the job ends or payments fail, and how repayment affects other saving. Interest returning to the plan doesn't make the lost flexibility and investment exposure irrelevant.
 
-For the Reeds' project illustration, keep a smaller project and a delay alongside financing. The current Reserve and extra-card plan already uses the available cash. Unless a new source or a changed commitment is identified, another payment is not funded. Leaving the project unchosen is a reasoned outcome—not a failed financing exercise.
+For the Reeds' project, a smaller purchase or a delay may fit better than financing. Their Reserve contribution and extra card payment already use the available cash. A new loan needs a new source or a change to those commitments. Waiting is a valid choice.
 
 When a term isn't supported in Orange Plan, keep the actual schedule in the existing reviewed comparison worksheet. Don't replace it with a conventional loan and describe the whole agreement as modeled. Read the unsupported obligation alongside any app result before drawing a conclusion.
 
@@ -213,7 +213,7 @@ Return to: W04 chapters 7–8, then lesson 5.1
 
 ### Read aloud
 
-A large price move can make an investment decision feel urgent even when your financial situation hasn't changed. Before a large purchase or sale, separate the purpose of the transaction from the feeling created by the chart.
+A large price move can make buying or selling feel urgent even when your financial situation hasn't changed. Before making a large trade, start with what the money is for.
 
 Is the purchase part of the target you already chose? Is the cash genuinely available for long-term investing? Is the sale funding a bill with a deadline? Those facts matter before the price opinion.
 
@@ -221,9 +221,9 @@ You may compare investing a lump sum with buying in stages. Staging changes the 
 
 Here is a deliberately simple example with no fees. A household has $20,000 earmarked for Bitcoin. At a hypothetical price of $100,000, investing all of it buys 0.2 Bitcoin.
 
-Instead, it could invest $10,000 now and keep $10,000 for later. If the later price were $50,000, those purchases would total 0.3 Bitcoin. If the later price were $200,000, they would total 0.15 Bitcoin.
+Instead, the household could invest $10,000 now, buying 0.1 Bitcoin, and hold the other $10,000 for later. If the later price were $50,000, that second purchase would buy 0.2 Bitcoin. Together, they'd have 0.3. But at a later price of $200,000, the second purchase would buy only 0.05 Bitcoin, bringing the total to 0.15.
 
-The staged method helps in the falling-price example and buys less in the rising-price example. We haven't assigned probabilities or found a perfect entry rule. We've exposed the trade-off in waiting with part of the money.
+Waiting with half the money buys more Bitcoin in the falling-price example and less in the rising-price example. Neither is a forecast. Staging the purchase changes your exposure to those outcomes; it doesn't guarantee a better price.
 
 Someone may choose staging because it makes a large change easier to maintain. Another may choose the lump sum because the allocation and purpose are settled and they prefer immediate exposure. The process should fit the person's decision, not claim timing skill the example doesn't establish.
 
@@ -235,7 +235,7 @@ Market indicators and valuation models can provide context. Record what the indi
 
 For the Reeds, a better-looking entry does not create cash on top of the Reserve and extra-card claims. A loan to enlarge the purchase is another decision, with its own repayment and downside—not a small adjustment to timing.
 
-Write down the amount you can afford, the reason for the purchase or sale, and the pace you've chosen. Also note what would change that decision—a new cash need or a revised allocation, for example.
+Choose the amount you can afford and the pace that fits the purpose of this purchase or sale. Revisit it when your cash needs or intended allocation change, rather than reacting to every price move.
 
 Once the large transaction is settled, return to the ordinary contribution plan. You don't need to repeat this price review every payday.
 
@@ -277,15 +277,15 @@ Return to: W05 chapter 4, then lesson 5.5
 
 ### Read aloud
 
-A conversion can make sense this year and be too expensive next year. A multi-year strategy needs to use the actual income windows rather than repeat the same amount until the end of the chart.
+A conversion can make sense this year and cost too much next year. When planning several years of conversions, start with how your income and spending change over that time.
 
 Start with the unchanged plan. Mark employment income, healthcare coverage, benefits, required distributions and the resources funding the early years. Then choose a limited schedule to compare.
 
 We already worked through the tax on a conversion and where the tax money comes from. Here we'll compare different amounts over several years.
 
-For a separate illustrative tax calculation, suppose converting the first $20,000 adds $4,000 of current cost. Converting another $20,000 adds $6,000 more. The first portion costs 20%; the second costs 30%. Together, a $40,000 conversion costs $10,000, or 25% on average.
+Let's use hypothetical tax costs. Suppose converting the first $20,000 costs $4,000, or 20%. Converting another $20,000 costs $6,000 more, or 30% on that second part. Altogether, the $40,000 conversion costs $10,000: an average of 25%.
 
-Looking only at that average hides the decision about the second portion. If the household's comparable future tax cost is expected to be 25% under the simplified assumptions, the first portion has a different trade-off from the second. This is an example of incremental reasoning, not a real tax calculation or a prediction of future brackets.
+The average hides an important difference. Suppose the comparable future tax cost were 25%. Paying 20% on the first portion today is a different choice from paying 30% on the next portion. These are simplified assumptions, not actual brackets or a forecast. They show why you compare the extra cost of converting more.
 
 Now add the next year. If employment resumes or a pension starts, the conversion window may shrink. A larger amount now could deserve another comparison. If a lower-income year is approaching, waiting may be more useful. The schedule follows those circumstances.
 
@@ -347,7 +347,7 @@ Use this lesson when you have a specific candidate sale. Begin with the account 
 
 The course's three-lot example produces $8,400, $16,800 or $9,600 of gain from the same $20,000 sale. Those are alternatives only to the extent the relevant units can actually be identified and sold under the applicable rules.
 
-Suppose the lowest-gain row depends on a missing purchase confirmation. Don't choose it and hope the record appears later. Resolve the evidence or compare an alternative whose basis and identification can be supported.
+Suppose the sale with the smallest gain depends on a purchase confirmation you can't find. Resolve that missing record before relying on the calculation, or compare units whose basis and identification you can support.
 
 Now prepare the identification before the required deadline. The actual asset, location, custodian and transaction year determine the rules. Broker-held digital assets and an unhosted wallet can have different procedures. Temporary relief in a particular year is not permanent permission to reconstruct any preferred lot choice after the sale.
 
@@ -359,7 +359,7 @@ Be especially careful about replacement purchases in your own IRA or Roth IRA. A
 
 For a gain harvest, update the rest of the year's income. A conversion or business-income change can consume the same favorable room. Federal gain treatment alone doesn't establish the full state, healthcare or other income-sensitive cost.
 
-Before the sale, complete the review and required identification. Afterward, keep the confirmation and reconcile the units, proceeds, and remaining holdings. If you first move coins between your own wallets, keep their purchase history attached; the transfer is not a new purchase.
+Before the sale, finish the review and required identification. If you move coins between your own wallets first, keep their purchase history attached. The transfer isn't a new purchase.
 
 After the trade, match the actual units, time, proceeds, fees and selected history with the confirmation. Verify the remaining lots and current holding quantity. A tax report should explain the position left over, not just the realized result.
 
@@ -415,7 +415,7 @@ Use this lesson when moving is a real household possibility, not merely a way to
 
 Start with where you would actually be willing to live and why. Work, family support, schools, healthcare, housing and community belong in that decision. Then compare the full recurring costs and the one-time move.
 
-A simple example shows why. Suppose a hypothetical move saves $10,000 a year in one tax category but adds $8,000 in housing and insurance. The recurring cash improvement is $2,000 before other differences. If moving costs $20,000, that cost needs to be included too. These invented figures illustrate a complete comparison, not any state's rates or a relocation recommendation.
+Suppose a move saves $10,000 a year in one tax category but adds $8,000 in housing and insurance. Subtract those added costs and the recurring improvement is $2,000, before other differences. If the move itself costs $20,000, include that too. These are illustrative amounts, not any state's rates.
 
 The move may still be worthwhile for the life it provides. Or the tax advantage may be much less important after the other costs are counted. The useful answer is a household decision, not the lowest rate on a map.
 
@@ -483,7 +483,7 @@ For Marketplace coverage, start with adjusted gross income and add tax-exempt in
 
 For a taxable sale, the whole cash amount is not necessarily income. Basis and gain matter. A fully taxable Traditional withdrawal can add much more income than a sale providing similar spending cash. Qualified Roth treatment and cash already held are different again.
 
-Here is a separate illustration of the combined-cost calculation. Suppose a $10,000 conversion adds $2,000 of income tax. On its own, that looks like a 20% cost.
+For a simple example, suppose a $10,000 conversion adds $2,000 of income tax. By itself, that's a 20% cost.
 
 Now suppose the same conversion increases the household's net coverage cost by $1,500 under the applicable program calculation. The immediate combined cost is $3,500, or 35% of the amount converted.
 
@@ -501,7 +501,7 @@ HSA contributions need a separate eligibility check. The coverage, other insuran
 
 Then follow the cash. Where will the additional tax and premium cost come from? If the preferred conversion consumes money needed for early retirement or medical out-of-pocket costs, include that consequence. A higher future Roth balance doesn't make the immediate shortfall disappear.
 
-Use the app only for effects it actually calculates. A verified outside coverage calculation may need to sit beside the model result. Label it clearly rather than assume an unmodeled subsidy remained unchanged.
+Check whether the app includes the coverage-cost change you're comparing. If it doesn't, include a verified coverage calculation alongside the plan result. Don't assume the assistance stays the same just because the model doesn't show a change.
 
 Choose the coverage and the withdrawal or conversion together, using their combined cost. Confirm the enrollment, eligibility, and tax details before giving up coverage or making the transaction. Enter the same income and costs in the retirement plan.
 
@@ -549,7 +549,7 @@ Return to: W06 chapter 6, then lesson 6.7
 
 Borrowing once for a temporary need is different from borrowing every year to fund retirement. A recurring strategy has to carry the earlier loans while adding the next year's spending.
 
-This lesson follows that accumulation through the difficult period and the exit. It doesn't stop when the first loan lets you avoid a sale.
+We'll follow the debt from one year's spending into the next, through a weak period and through repayment.
 
 Hold the spending need, starting assets and market assumptions constant. Compare the current sale-based policy with the proposed borrowing policy. For each year, read cash delivered, fees, interest paid or added, ending debt, collateral and the source of eventual repayment.
 
@@ -565,7 +565,7 @@ At each difficult year, ask whether the household could continue. Does the lende
 
 The repayment source needs a date and an amount. Selling later, using another account, paying from income or refinancing are different plans. Refinancing is not guaranteed by the fact that the first loan was approved.
 
-A hybrid policy can combine sales and borrowing. For example, the household might sell a limited amount under a reviewed tax strategy and borrow for a remainder. Explain the actual sale, gain, tax and residual cash need. A policy name does not establish that every year's bill has been funded.
+You can also compare a mix of sales and borrowing. A household might sell some investments under its tax plan and borrow the remaining spending need. Count the sale proceeds after tax first, then identify how much still needs funding.
 
 Compare after-tax resources at matching dates. Borrowing preserves more assets initially but also leaves a liability. A sale reduces assets but avoids the new interest and collateral exposure. Looking only at Bitcoin retained or total gross assets can favor the wrong version of the household's position.
 
@@ -693,7 +693,7 @@ Return to: W07 chapter 1, then lesson 7.2 and its safe recovery work
 
 ### Read aloud
 
-You may be considering a passphrase, multisig or professional support because the basic setup leaves something important exposed. Start by naming that exposure. Each option solves a different problem and introduces different responsibilities.
+Are you considering a passphrase, multisig, or professional custody support? Start with the problem you want to solve. Each option changes what you control, what you depend on, and what you need to maintain.
 
 A passphrase changes the wallet derived from the backup material. It can add protection when the backup alone is exposed, provided the passphrase remains separate and secure under a well-designed process. It also adds an exact secret you must preserve.
 
@@ -761,7 +761,7 @@ Having several accounts can feel like diversification, but one shared dependency
 
 Start with the custody map. For each significant portion, identify the provider, underlying custodian when known, keys or signing policy, recovery channel, location category and responsible person. Keep precise locations and sensitive details in the protected process, not this review copy.
 
-Then remove one dependency at a time. What becomes unavailable if an email account is lost? If a provider stops serving customers? If a location is inaccessible? If the main operator is absent?
+Think through the loss of one provider or recovery route at a time. What becomes unavailable if an email account is lost, a provider stops serving customers, a location can't be reached, or the main operator is absent?
 
 Here is a simple example. A household places 30% with provider A and 30% with provider B. Suppose verified documents show both depend on the same underlying custodian. A problem at that custodian can affect 60% of the position, even though there are two provider names.
 
@@ -773,7 +773,7 @@ Authentication is another common link. Two accounts may both rely on one email a
 
 Physical storage can create a similar concentration. A device, backup and written instructions in one location may all become unavailable together. Separate copies can help with that event, but their security and legitimate family access still need attention.
 
-Test a plausible combination too. A family emergency can remove the normal operator and reduce the available time to solve a technical issue. A local disaster can affect documents, devices and communication. The response must fit that combined circumstance, not only a tidy one-component diagram.
+Some problems can happen together. A family emergency might leave you without the usual operator and with less time to solve a technical issue. A local disaster could affect documents, devices, and communication at once. Check how the household would respond to that combination.
 
 Include lender-held collateral in this picture. A loan might be modest relative to net worth while a large portion of Bitcoin depends on the lender. Don't review that custody exposure only in the borrowing spreadsheet.
 
@@ -781,7 +781,7 @@ Once you find the shared failure, make a targeted change. That may mean separati
 
 More accounts aren't the goal. A change earns its place when it reduces the consequence of a named failure without creating an unmaintainable arrangement.
 
-On the custody map, cross out one provider or recovery route and identify what still works. Check the documents and appropriate safe tests before treating the remaining arrangements as independent.
+Use the custody map to check what would still work without one provider or recovery route. Review the documents and appropriate safe tests before relying on that independence.
 
 Record the shared failure, the holdings affected, and the change you've chosen. Update the existing custody map and verify the improvement before relying on it.
 
@@ -831,7 +831,7 @@ Think of the wallet's spendable balance as separate pieces created by earlier tr
 
 Virtual bytes are a measure used for that size. Satoshis are small units of Bitcoin. A fee rate in satoshis per virtual byte lets you compare how much the selected transaction would pay.
 
-For an arithmetic example, a preview of 500 virtual bytes at 2 satoshis per virtual byte gives a fee of 1,000 satoshis. At 20 satoshis per virtual byte, that same size costs 10,000 satoshis.
+Suppose a transaction needs 500 virtual bytes and the fee rate is 2 satoshis per virtual byte. Multiply 500 by 2 and the fee is 1,000 satoshis. At 20 satoshis per virtual byte, the same transaction size costs 10,000 satoshis.
 
 Those are hypothetical fee calculations, not today's rates. The wallet, script type, inputs, and outputs determine the size of your transaction. Read both its size and fee rate in the preview.
 

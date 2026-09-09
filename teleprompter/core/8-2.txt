@@ -2,7 +2,7 @@ A person can have legal authority and still not know how to begin with a Bitcoin
 
 The family plan has to connect both sides without giving unnecessary access to everyone involved.
 
-Start with one absence scenario. Suppose the normal operator is alive but unable to manage the household for several months. Bills continue, a loan may need monitoring, and someone may need information from a financial institution.
+Suppose the person who normally handles the finances is alive but unable to manage them for several months. Bills continue, a loan may need attention, and someone may need information from a financial institution. Who can step in?
 
 Identify the person authorized under the relevant documents and the provider's process. Then identify the technical support they may need. These could be different people working together.
 
@@ -20,7 +20,7 @@ Those are different workflows. The map should point to the right one, not direct
 
 Ask what money is available while a longer process is underway. Immediate household bills should not depend on a complicated recovery being completed that day. Check the legally available cash and payment arrangements in the actual household plan rather than assume every joint or individual account can be used in the same way.
 
-Then rehearse the first steps with no real transfers. Give the helper the safe starting document and ask whom they would contact, what authority that person needs, and which item is urgent. The exercise should reveal a missing contact or document before an emergency does.
+Try the first steps with the helper, without moving any money. Can they find the safe starting document, identify whom to contact, and spot the urgent obligations? Fix any missing contact or document before an emergency.
 
 When the answer is unclear, fix that connection. Perhaps the provider hasn't confirmed its requirements. Perhaps the attorney and technical helper have never discussed the arrangement. Put that specific coordination task on the list.
 

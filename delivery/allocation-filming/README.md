@@ -1,5 +1,7 @@
 # Allocation — teaching slides and recording map
 
+> Historical reference only. Austin has replaced the slide-first workflow with recording the scripts first and adding graphics during editing. This package and paragraph map belong to the earlier pinned source, not the current narration. Use `scripts/` and the current clean reading copies; no slide rehearsal or approval is required.
+
 Prepared September 9, 2026 from canonical course commit `34d34482a08f358da13d019c485ba248cec7921e`.
 
 **Delivered:** 62 editable teaching slides for the seven existing lessons, a separate five-slide A4.1 clip, full unchanged narration in PowerPoint notes, PDF reviews, an offline HTML rehearsal view, individual lesson decks and teleprompter text, and the paired W04 recording guide. This is the Allocation package, not completion of every course section's slides.

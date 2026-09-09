@@ -20,13 +20,13 @@ Have the loan agreement ready. We'll put its balance, dates, and response rules 
 
 Read the full balance, not just the original principal. Record interest treatment, fees, maturity, collateral quantity, price source and the actual warning, collateral-call and liquidation provisions. Those are separate contract events. A notice is not a promised grace period unless the agreement actually provides it.
 
-Use the source's simple illustration. A $25,000 loan against $100,000 of collateral starts at 25% LTV. If 12% interest is added for one year using a simplified annual calculation, the debt becomes $28,000.
+Suppose you borrow $25,000 against $100,000 of collateral. That's 25% LTV. In this simplified example, 12% interest is added after one year. Twelve percent of $25,000 is $3,000, so the debt becomes $28,000.
 
 Now suppose the collateral is worth $50,000. LTV is $28,000 divided by $50,000, or 56%. The original 25% is no longer the relevant number.
 
 With a purely hypothetical 80% liquidation line, $28,000 of debt reaches that line at $35,000 of collateral. That is a 65% decline from the original $100,000 value, before further interest or fees. Actual accrual and contract terms can change the result.
 
-Next, choose a personal review point before the event you're trying to avoid. Don't call the review point safe; explain what action it initiates.
+Choose a point to review the loan before the situation you're trying to avoid. The review point doesn't guarantee safety. It tells you when to take a specific action.
 
 For an arithmetic example, suppose you were considering returning this $28,000 loan and $50,000 collateral position to 50% LTV. Repaying $3,000 would leave $25,000 against $50,000. Adding $6,000 of eligible collateral would leave $28,000 against $56,000. Both reach 50% in that simplified instant.
 
@@ -34,7 +34,7 @@ They are not the same household decision. Repayment uses cash and reduces debt. 
 
 Write the limit on further collateral separately. Protecting one loan should not automatically expose the entire Bitcoin position. If that limit is reached, identify the alternative response before the crisis.
 
-Then test the principal exit. If repayment depends on refinancing, what happens when a new loan is unavailable? If it depends on a sale, include the timing, price and tax uncertainty. A long flat market can be difficult even without an immediate liquidation event.
+Then check how the principal gets repaid. If you're relying on refinancing, what happens when another loan isn't available? If you're relying on a sale, allow for its timing, price, and tax. A long flat market can create problems even without an immediate liquidation.
 
 Add the operational failure case too. A provider interruption can affect access even when LTV is low. Confirm the actual rights, custody structure and available response; the simulation doesn't supply a counterparty guarantee.
 

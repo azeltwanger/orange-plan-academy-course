@@ -1,5 +1,7 @@
 # Allocation — slide-to-narration map
 
+> Historical reference only. Austin has replaced the slide-first workflow with recording the scripts first and adding graphics during editing. This package and paragraph map belong to the earlier pinned source, not the current narration. Use `scripts/` and the current clean reading copies; no slide rehearsal or approval is required.
+
 Source commit: `34d34482a08f358da13d019c485ba248cec7921e`. Paragraph numbers refer only to the canonical `### Read aloud` block, split at blank lines. Each range is inclusive. The complete narration is reproduced without changes in the downloaded PowerPoint notes and recording guide; this map avoids creating another editable script master in the repository.
 
 S01–S62 belong to the main teaching deck. S63–S67 are the separate five-slide A4.1 deck and retain global IDs in the rehearsal view. All ranges were checked to cover each lesson exactly once in order. Application slides refer to the member's actual Orange Plan, not homework.
