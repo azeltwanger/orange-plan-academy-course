@@ -19,7 +19,7 @@ Let's build the whole portfolio instead of treating the other investments as wha
 
 Start with the spending jobs. Bring forward the Reserve amount you already chose. Then add known expenses that aren't covered by the Reserve: a purchase, a tax payment, or the first retirement withdrawals you want available without depending on a favorable sale.
 
-Use the actual gap after expected income, and keep the dates beside the amounts. An expense funded from future pay doesn't need to claim the same existing savings unless you deliberately want it prefunded. Money already promised to college also isn't free to fund retirement at the same time.
+Count the part of each expense that expected income won't cover, and keep its date in mind. If future pay will cover a purchase, you don't also need to reserve the full price from today's savings unless you choose to. And money you've already committed to college can't also fund retirement at the same time.
 
 What remains has a longer runway. Now you can compare investments for growth, income, or a combination, based on when that money is needed and which sources of return you want to own.
 
@@ -45,13 +45,13 @@ Bonds have another role. Instead of owning part of a business, you're lending mo
 
 That does not make every bond holding stable. A long-term bond or bond fund can lose value when rates rise. A high-yield bond takes more credit risk. A bond fund doesn't give your entire investment one fixed maturity date in the way an individual bond does.
 
-So don't put a bond fund in the near-term column merely because it isn't a stock. Ask whether you're seeking scheduled cash, less exposure to equity markets, or another investment return—and whether the duration, credit quality, fees, and access fit that job. Bonds are an option to understand, not a mandatory percentage for a Bitcoiner.
+Don't rely on a bond fund for an approaching bill just because it isn't a stock. What do you want it to provide: scheduled cash, less exposure to stock-market movements, or another investment return? Then compare its sensitivity to interest rates, the risk that borrowers won't repay, its fees, and access to the money. Bonds are an option to understand, not a required percentage for every Bitcoiner.
 
 Property or a business can also be part of the picture. Separate the value you own from the cash it can provide. Rent before repairs, debt service, and vacancies is not the amount available for your household. Your home isn't available to pay retirement expenses unless the plan includes a workable way to use its value.
 
 You don't need every type of investment. Choose one because it provides something you need, and count the cost and work it adds.
 
-Let's use one simple example to turn that into amounts. This is a separate teaching household, not the Reeds.
+Let's work through a simpler household with round numbers, separate from Alex and Morgan.
 
 They have $1 million of financial assets and want to test keeping $500,000 in Bitcoin. Their previous Reserve decision is $60,000. They also plan a $40,000 purchase next year, funded from existing savings. The purchase is not included in that Reserve.
 
@@ -79,9 +79,9 @@ The long-runway portion also changes as time passes. Retirement is not one deadl
 
 Then add the dollar positions to see the household mix. Don't average percentages from accounts of different sizes, and don't put the household percentage into every account. An account for a near-term bill may hold no Bitcoin even when Bitcoin is half the overall portfolio.
 
-Now use your own amounts. Write down the money needed for each commitment and what remains for longer-term investing. For that remainder, compare the investments you're seriously considering: what do they own, what do they cost, and what would a bad result mean for you?
+Now open your own plan. Start with your spending commitments and the money left for longer-term investing. For that remainder, compare the investments you're seriously considering. What do they own? What do they cost? What would a bad result mean for the spending you need to fund?
 
-Explain your choice without using the example's percentages as the reason. Two households can learn the same method and choose different portfolios. If an existing holding already fits, keeping it is a valid choice.
+Use those answers to choose the mix, rather than copying the example's percentages. Two households can use the same method and choose different portfolios. An existing holding that fits may not need to change.
 
 Next we'll work out how the available contributions move you toward that mix. Changing existing holdings may also make sense, but a sale has its own tax and trading costs to compare first.
 

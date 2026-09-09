@@ -43,7 +43,7 @@ You may find that the holdings already fit. Keep them; this review doesn't requi
 
 We'll build the whole mix from here: Bitcoin, the other investments, and the cash needed for spending. Then we'll decide where contributions go and what they buy.
 
-Look through your current holdings and write down the question you most need to answer about them.
+Review your current holdings in Orange Plan. Look for the question that matters most: what should this money do, and do the investments fit that purpose?
 
 ### Visual and source notes — not spoken
 

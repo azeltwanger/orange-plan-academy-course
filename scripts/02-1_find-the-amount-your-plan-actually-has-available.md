@@ -72,7 +72,7 @@ Variable income adds another decision. How much could you keep setting aside dur
 
 I wouldn't use your best business month to answer that. Look at the range of income you've actually had and what expenses continue through the slower periods. You could choose a regular amount that fits those periods, then decide what to do with extra income after it arrives and the associated costs and taxes are covered. That lets a good month help the plan without making every month depend on one.
 
-If you're retired, the review is still useful, but the question may be different. You're looking at how much of your spending is covered by income such as a pension or Social Security, and how much needs to come from investments. We'll work through those withdrawals in the retirement-income session. There doesn't have to be money left over from a paycheck for this exercise to matter.
+If you're retired, the review is still useful, but the question may be different. You're looking at how much spending is covered by income such as a pension or Social Security, and how much needs to come from investments. We'll work through those withdrawals in the retirement-income section. You don't need a paycheck for this review to matter.
 
 For now, get the current picture right. Know what's coming in, what has already come out, and how much remains for the next decision. If you find a shortfall, keep it visible. It gives us something specific to work on.
 

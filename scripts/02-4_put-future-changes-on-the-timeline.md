@@ -37,7 +37,7 @@ For income, think through both people in the household. One person might reduce 
 
 Be clear about the dollars you are entering too. Are you estimating what something costs today, or what you expect to pay at the future date?
 
-If the plan takes a today's-dollar estimate and increases it for inflation, don't increase it yourself first and then have the plan do it again. We'll check the wording of the input in the walkthrough. For a rough estimate, keep a note of what it is based on so you can update it when you have better information.
+Before entering an amount, check whether it is in today's dollars or already estimated for the future. If Orange Plan will increase today's amount for inflation, don't increase it yourself first. Keep the source of a rough estimate so you can update it when better information becomes available.
 
 Now comes the part that's easy to miss: where will the money come from?
 

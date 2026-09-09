@@ -14,13 +14,13 @@ Return to: W05 chapters 5–6, then lesson 6.1
 
 ### Read aloud
 
-A tax-harvesting comparison is not ready for execution just because a spreadsheet found the smallest gain. The units must exist, the selection must be valid, and the resulting record must match what actually happened.
+Choosing the smallest gain in a calculation isn't enough to prepare a sale. You need the records for the units, a valid way to identify the ones being sold, and a record of what actually happens.
 
-Use this lesson when you have a specific candidate sale. Begin with the account or wallet, quantity, supported basis, holding period and intended exposure afterward.
+Start with the sale you're considering: which account or wallet holds the investment, how much you would sell, its documented cost basis, how long you've held it, and what you intend to own afterward.
 
 The course's three-lot example produces $8,400, $16,800 or $9,600 of gain from the same $20,000 sale. Those are alternatives only to the extent the relevant units can actually be identified and sold under the applicable rules.
 
-Suppose the lowest-gain row depends on a missing purchase confirmation. Don't choose it and hope the record appears later. Resolve the evidence or compare an alternative whose basis and identification can be supported.
+Suppose the lot with the smallest gain is missing its purchase confirmation. Find the evidence before relying on that cost. Or compare a lot whose cost and identification you can document. Don't assume the missing record will turn up after the sale.
 
 Now prepare the identification before the required deadline. The actual asset, location, custodian and transaction year determine the rules. Broker-held digital assets and an unhosted wallet can have different procedures. Temporary relief in a particular year is not permanent permission to reconstruct any preferred lot choice after the sale.
 

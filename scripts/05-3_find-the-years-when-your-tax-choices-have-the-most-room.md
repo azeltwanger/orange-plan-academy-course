@@ -23,7 +23,7 @@ That is why spending and taxable income aren't interchangeable. Someone may fund
 
 Now place the income sources on the timeline. Employment may end before Social Security begins. A pension may start on another date. A spouse may continue working. Required distributions may eventually add income even when the household would prefer to leave the money invested.
 
-For Alex and Morgan, we need those actual dates before claiming they have a low-tax retirement window. Alex wanting to stop at 52 doesn't tell us when Morgan's income ends or when benefits begin.
+For the Reeds, Alex's goal of stopping work at 52 is only part of the picture. Morgan's work income and the dates their benefits begin matter too. Check all of those before treating the years after Alex stops as a lower-tax period.
 
 A generic example shows what to look for. Imagine a household whose employment income ends before later benefits and required distributions begin. In the intervening years, ordinary taxable income is lower. Spending is still funded, but perhaps mostly from cash and taxable investments.
 

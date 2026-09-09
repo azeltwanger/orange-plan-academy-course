@@ -21,11 +21,11 @@ Keep essential and flexible spending visible. That doesn't mean you plan to cut 
 
 Add known irregular costs at the right dates rather than pretend retirement is the same month repeated forever. A roof, vehicle, family gift, or college commitment can make one year meaningfully different.
 
-Start the example with $96,000 of living costs and $12,000 for healthcare. That adds up to $108,000. There is also $40,000 of income before tax. Subtract it, and the rough gap is $68,000. Keep that number in view while we add the costs not counted yet.
+Start the example with $96,000 of living costs and $12,000 for healthcare. Together, that's $108,000. There is also $40,000 of income before tax. Subtract that income, and the rough gap is $68,000. But we still need to include any costs those amounts leave out.
 
 That subtraction is useful, but it isn't yet the final withdrawal amount. We have compared gross income with only part of the cash outflow. Taxes, required debt, and other costs can change what the portfolio has to supply.
 
-Here is a separate extension purely to explain that reconciliation. Suppose total tax for the period is estimated at $12,000 and an additional $6,000 of debt payments has not been counted in the living figure. Total outflow becomes $126,000. With the same $40,000 of gross income, the remaining cash need is $86,000.
+Let's add two hypothetical costs to that example: $12,000 of total tax for the year and $6,000 of debt payments that weren't included in the living costs. Add those to the $108,000, and total costs become $126,000. Subtract the same $40,000 of income. The gap is now $86,000.
 
 These added figures are assumptions for this example. They show why the rough $68,000 gap is not necessarily the withdrawal you need. If withdrawing more also raises the tax bill, include that change in the calculation.
 
@@ -43,7 +43,7 @@ That's the shape to look for in the year-by-year view. The gap can be large just
 
 You may discover that the intended life costs more than the starting estimate. Don't fix that by leaving healthcare or a payment out. Decide whether the spending, timing, or funding needs to change.
 
-Let's put one year's income on one side and all its costs on the other. Find what investments need to provide, then look at the next year when income or spending changes.
+In your own plan, start with one full year of income and costs. Find what investments need to provide, then check the next year when income or spending changes.
 
 Next we'll identify which accounts can supply that money during the early retirement years.
 

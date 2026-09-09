@@ -22,7 +22,7 @@ Start with the current official instructions for the exact device, software, and
 
 For learning, use a separate small-value practice wallet or another properly isolated training setup. Keep real recovery words, keys, passphrases and secrets out of recordings, course uploads, screenshots, chat and shared notes.
 
-In the demonstration, the practice wallet gets a small test transaction, follows its official recovery procedure, and is checked against the expected wallet. That lets you understand the sequence before meaningful savings depend on your own execution.
+In the separate wallet walkthrough, we'll use a small test transaction, follow the official recovery procedure, and check that it restores the intended practice wallet. You'll see the process without putting the household's savings into the test.
 
 But the result has a limit: recovering the practice wallet proves that practice setup. It does not prove the backup of a different funded wallet.
 

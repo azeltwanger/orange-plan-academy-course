@@ -16,9 +16,9 @@ Return to: W03 chapter 4, then lesson 3.6
 
 Two offers can have similar starting payments and very different final obligations. This lesson is for a financing proposal with terms a simple monthly-payment comparison does not capture.
 
-Put the purchase price, cash needed and date at the top. Keep those the same across alternatives. Then build the schedule from closing through the exit.
+Start with the purchase price, the cash needed, and the date you need it. Keep those the same across the alternatives. Then follow the payments from the start of the agreement until it ends.
 
-Record cash paid upfront, fees, interest rate and resets, each payment phase, principal remaining, and any final balloon or contingent settlement. The last row is not optional. It is where some of the most important cost can be hiding.
+Include the cash paid upfront, fees, interest rate, any rate changes, and the payments over time. Finish with the amount still owed, including a balloon payment or other final settlement. A low monthly payment can leave a large bill at the end.
 
 The earlier interest-only example makes the point. Paying interest on $20,000 for five years leaves the $20,000 principal outstanding. If the planned exit is another loan, add the case where refinancing is declined. The payment schedule hasn't become workable until the household has an acceptable response.
 

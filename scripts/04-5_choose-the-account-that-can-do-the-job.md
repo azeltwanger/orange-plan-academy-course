@@ -37,7 +37,7 @@ For tax-free reimbursement, the medical expense must qualify, have been incurred
 
 Then check what the HSA can invest in. A limited menu doesn't automatically make the account bad, but it changes the comparison. You might hold appropriate stock exposure there and Bitcoin elsewhere. Or you might decide that more accessible Bitcoin is a more useful next contribution than additional HSA saving. Compare the tax benefit, menu, access, and purpose together.
 
-That is the reasoning behind the deck's HSA, IRA, and additional workplace sequence for long-term money. Healthcare treatment can make an HSA useful; investment choice can make an IRA useful; workplace contribution room can make the employer plan useful. These are reasons to investigate—not instructions to open all three regardless of circumstances.
+For long-term money, that gives us reasons to compare an HSA, then an IRA, then additional workplace saving. An HSA may help with healthcare taxes. An IRA may offer the investments you want. A workplace plan may provide more contribution room. Use the order as a starting point, then check which accounts actually fit your situation.
 
 For a household without HSA eligibility, that step disappears. An inexpensive workplace plan might be preferable to an expensive IRA arrangement. And an accessible funding gap can redirect the next dollar before the retirement sequence is complete.
 
@@ -45,7 +45,7 @@ Education accounts have a dedicated job as well. A 529 may fit the college commi
 
 A self-employed person may have additional options, such as a Solo 401(k) or SEP. Business structure, employees, compensation and plan terms affect eligibility and contribution calculations. Identify the relevant option and verify its room; don't add every advertised maximum together as though the limits never interact.
 
-You don't need to learn every account variation to complete your contribution plan. Make the comparison narrow. For the next long-term dollar, perhaps the relevant choices are the existing workplace plan and an IRA. For the early years, perhaps it's the taxable brokerage account and personally held Bitcoin. Explain why an account wins that particular job.
+You don't need to learn every account variation to choose where your contribution goes. Narrow it to the relevant choices. For later retirement, that might be your existing workplace plan or an IRA. For the early years, it might be a taxable brokerage account or personally held Bitcoin. Compare the accounts that could actually do this job.
 
 Then check access independently of timeframe. A taxable account can hold a twenty-year investment. A retirement account can hold cash for a permitted withdrawal soon. Age fifty-nine and a half is an important landmark, not a universal statement that every retirement dollar is locked until then. Special routes need their own conditions verified; Retirement Income handles that where it applies.
 

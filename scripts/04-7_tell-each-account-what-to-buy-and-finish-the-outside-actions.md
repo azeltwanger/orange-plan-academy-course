@@ -17,7 +17,7 @@ Start with the target you built. You should know what the Bitcoin and non-Bitcoi
 
 A household target is not an instruction to put the same percentage in every account. Checking money for bills has a different job from a long-runway Roth investment.
 
-Look at Alex's two example accounts. The workplace plan has $410,000, including $123,000 of Bitcoin-fund exposure. The Roth IRA has $145,000, including $116,000 of Bitcoin-fund exposure. Their combined fund position is $239,000 out of $555,000.
+Let's add Alex's two accounts together. His workplace plan has $410,000, with $123,000 in Bitcoin-fund exposure. His Roth IRA has $145,000, with $116,000 in Bitcoin-fund exposure. Add the two account balances: $555,000. Add the two Bitcoin-fund amounts: $239,000. Those are the dollar amounts we use to find the combined percentage.
 
 You can't average 30% and 80% and call that the combined allocation. The accounts have different sizes. Add the actual dollar holdings, including the other accounts, to understand the household mix.
 
@@ -27,7 +27,7 @@ Tax placement has trade-offs. An investment that produces taxable income can cre
 
 Now decide whether to change existing holdings or only future purchases.
 
-The Reeds' separate target illustration is 60% Bitcoin, 34% stocks and 6% cash within the $1,307,000 group. The Bitcoin target is $784,200 versus $728,000 currently. That $56,200 difference shows a direction, not an instruction to buy today. It is also a different example from the round-number whole-portfolio lesson.
+Now return to the Reeds, rather than the $1 million household. They're comparing 60% Bitcoin, 34% stocks, and 6% cash across $1,307,000. Sixty percent of that total is $784,200. They currently have $728,000 of Bitcoin exposure, so the difference is $56,200. That tells us how far they are from the proposed target. It doesn't tell us to buy that amount today.
 
 Their current available money is already assigned to the Reserve and extra card payment after Alex's contribution. A larger target doesn't fund an additional transfer.
 
@@ -41,7 +41,7 @@ That split is a teaching comparison, not a recommendation or a transfer already 
 
 What the next contribution buys may differ from the final mix you want. If you own less of one investment than your target calls for, new money can go toward that gap. Prices and the rest of the portfolio change too, so dividing today's gap by a monthly contribution won't tell you the exact date you'll reach the target.
 
-For each contribution, write the amount, where it comes from, when it starts, the receiving account, and what it buys. Include the tax election where it applies. If you chose a category such as stocks, you still need to select and check the actual investment before arranging the purchase.
+In your plan, connect each contribution to its amount, source, start date, receiving account, and intended investment. Include the tax election where it applies. Choosing a category such as stocks is a start, but you'll need to check and select the actual investment before arranging the purchase.
 
 Check what the selected product owns, how it is managed, its costs, and any material overlap with other holdings. A spot Bitcoin fund is not a leveraged fund, a covered-call strategy, or shares in a Bitcoin-related company. A stock allocation isn't automatically a concentrated technology bet.
 

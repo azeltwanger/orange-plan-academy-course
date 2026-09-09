@@ -30,7 +30,7 @@ Authentication is another common link. Two accounts may both rely on one email a
 
 Physical storage can create a similar concentration. A device, backup and written instructions in one location may all become unavailable together. Separate copies can help with that event, but their security and legitimate family access still need attention.
 
-Test a plausible combination too. A family emergency can remove the normal operator and reduce the available time to solve a technical issue. A local disaster can affect documents, devices and communication. The response must fit that combined circumstance, not only a tidy one-component diagram.
+Consider failures that could happen together. A family emergency could leave the usual operator unavailable just when someone needs access. A local disaster could affect documents, devices, and communication at the same time. Check how the household would respond to that situation, not just one missing device.
 
 Include lender-held collateral in this picture. A loan might be modest relative to net worth while a large portion of Bitcoin depends on the lender. Don't review that custody exposure only in the borrowing spreadsheet.
 

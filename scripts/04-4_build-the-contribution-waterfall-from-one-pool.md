@@ -15,7 +15,7 @@ A portfolio target tells you what you want to own. It doesn't tell you how much 
 
 You might want to fund the Reserve, pay off a card, capture the employer match, and buy more Bitcoin. All four can be worthwhile. The contribution plan tells us which can happen now and which needs to wait.
 
-Start with the cash flow you've checked. Put the existing payroll contribution, Reserve funding and extra debt payments on the same page. The next investment must fit alongside them.
+Start with the cash flow you've checked. Account for the existing payroll contribution, Reserve funding, and extra debt payments together. Any new investment needs to fit alongside them.
 
 For Alex and Morgan's reduced-spending example, $2,475 remains after the listed costs but before Alex's employee contribution. His $775 leaves $1,700. The $500 Reserve contribution and $1,200 extra card payment use it all.
 
@@ -33,7 +33,7 @@ When a match is relevant, read the formula. Alex contributes 6% of a $155,000 sa
 
 For any money left, ask which part of the plan is not funded yet. If you don't have enough available for the years before you can use retirement accounts, adding to an accessible account may help more. If those early years are funded and this money is for later, compare the retirement-account choices. We are looking for a shortage of usable money, not simply counting how many years there are.
 
-The deck's longer-term sequence compares HSA, IRA, then additional workplace saving. We'll examine why and when that changes in the account lesson. It doesn't mean maxing every retirement account before building the money that supports the life you want sooner.
+For money meant for later, we'll compare an HSA, an IRA, and additional workplace saving, in that order as a starting point. The account lesson explains why the order can change. It doesn't mean maxing every retirement account before funding the years when you need the money sooner.
 
 Now prepare the next phase without starting it early.
 
@@ -43,7 +43,7 @@ The Reserve reaching its target is another condition. Its build contribution can
 
 You can use the same order for a bonus or a strong business month. Allow for its taxes and commitments, then choose the use of the actual remainder. A good month does not require a permanent transfer that future quieter months cannot support.
 
-Put today's contribution amounts together and check that the cash flow covers them. Then write down what changes after a debt payoff or the Reserve reaches its target.
+Check these contributions together in your plan. Does the cash flow cover them now? Then keep future changes tied to the debt payoff or the Reserve reaching its target, rather than start those transfers early.
 
 Next we'll choose the account for the money you're investing.
 

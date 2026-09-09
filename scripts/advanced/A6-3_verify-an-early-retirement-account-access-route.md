@@ -36,7 +36,7 @@ For this exception through an employer plan, the payments must begin after separ
 
 The required period generally lasts until the later of five years from the first payment or age 59½, subject to applicable exceptions. For an illustration based on exact birthdays, beginning at 54 would run to 59½, which is five and a half years. Beginning at 58 would run to 63, because five years is later than reaching 59½.
 
-Those examples explain duration, not eligibility or an approved withdrawal amount. Exact dates matter. An improper modification can create retroactive additional tax and interest. The allowed method and account setup should be reviewed before the first dependent distribution.
+Those birthday examples explain how long the payments would continue. They don't establish eligibility or the amount you can withdraw. Exact dates matter. An improper change can lead to retroactive additional tax and interest. Confirm the method and account setup before starting the withdrawals you plan to rely on.
 
 Now ask whether the route fits the household, even if technically available. Can the assets and other resources support the required payments through a weak market? Would the schedule force withdrawals you don't need later? Does it remove flexibility that another funding source would preserve?
 

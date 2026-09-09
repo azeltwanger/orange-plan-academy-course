@@ -27,11 +27,11 @@ Then look at money already going into investments. A payroll retirement contribu
 
 Alex earns $155,000 a year and puts 6% into his workplace plan. Six percent means six dollars out of each hundred. On a calculator, $155,000 times 0.06 is $9,300 a year. Divide by twelve, and that is $775 a month. The employer's formula adds another $387.50 a month. Keep his money and the employer's money separate.
 
-Here is the original cash-flow bridge on screen. After the income, illustrative tax provision, living costs, and required debt payments, the Reeds have $1,275 before Alex's contribution. His $775 leaves $500 for other priorities.
+Let's follow the money. With their current living costs and required debt payments, and $4,000 a month allowed for taxes, the Reeds have $1,275 left before Alex's retirement contribution. Subtract his $775 contribution, and $500 remains for other priorities.
 
 That is the figure we're starting from. It doesn't mean they're only saving $500; the employee contribution is already invested. It also doesn't include the spending reduction we'll consider later.
 
-We're allowing $4,000 a month for taxes in this example. That's an assumption, not their calculated tax bill. When checking your own cash flow, compare the income and tax figures with your records. If they don't agree, find out why before assigning the money that's left.
+The tax amount in that example is an assumption, not a calculated tax bill. For your own cash flow, compare the income and tax figures with your records. If they don't agree, find out why before assigning the money that's left.
 
 Now give the retirement calculation a question to answer. When do you want to reduce or stop work, and what would that life cost?
 

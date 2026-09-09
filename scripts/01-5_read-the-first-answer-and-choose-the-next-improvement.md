@@ -15,13 +15,13 @@ You've entered the numbers, and now the plan gives you a retirement result. What
 
 Start by checking what question it answered. Which retirement date is being tested? What spending does that date support? How long does the money need to last?
 
-The date you selected is your intention. A calculated earliest date answers a different question: when does the modeled plan meet the standard being used? Entering 52 for Alex doesn't make 52 a supported result.
+The date you choose tells the plan when you want to retire. The calculated earliest date tells you when the model meets the standard you're using. Putting 52 into Alex's plan doesn't, by itself, show that he can retire at 52.
 
 A projection follows one possible future using the assumptions in the plan. A simulation tests many possible futures built from the model's rules. In one, investments do well early. In another, they struggle. The question is whether each tested future can fund the planned spending through the end of the plan.
 
 Suppose 790 out of 1,000 test futures cover the planned spending through age 95. That is 79%: 790 divided by 1,000, then multiplied by 100. The other 210 do not cover the full period under those rules. When a result is called a confidence level, find out exactly what counted as success in that calculation.
 
-That is a separate teaching illustration, not a result for the Reeds. It isn't a prediction that precisely one outcome will happen to your family, and the unsuccessful paths aren't automatically harmless cases needing a tiny adjustment. We need to understand what made the funding difficult.
+Those are example results, not results for the Reeds. They aren't a prediction of exactly what will happen to your family. And the unsuccessful paths aren't necessarily small problems that a tiny spending cut would fix. We need to understand where the funding becomes difficult.
 
 Keep the horizon, spending, assumptions, and result together. A percentage from a plan with less spending is answering a different question from a percentage at the lifestyle you actually want.
 
@@ -31,7 +31,7 @@ Then open one meaningful year rather than stare only at the headline. The first 
 
 Suppose the withdrawal is much larger than expected. You might find a vehicle purchase, an ongoing debt payment, or a tax cost. Now you know what to investigate. Trying to improve the percentage before finding the cause would send you in the wrong direction.
 
-For Alex and Morgan, first make sure the plan uses the cash-flow state we actually entered. Their original example has $500 remaining after existing costs and the employee contribution. A later spending reduction creates more room. Giving them that larger amount before they choose the reduction would test a different life.
+The Reeds start with $500 remaining after their current costs and Alex's contribution. Later we'll consider a spending reduction that gives them more room. Until they choose that reduction, we shouldn't count the extra money as available. The same applies to changes you're considering in your own life.
 
 Once the important facts are right, choose a realistic comparison. Could you save more? Would a different work transition fit? Is there spending you would actually change? Does the problem come from having money in an account that can't support the early years?
 

@@ -24,7 +24,7 @@ Use a simple illustration. A household needs $20,000. A $20,000 loan at a hypoth
 
 Neither version made the spending free. One used more cash along the way; the other increased the future obligation. Actual loans can accrue differently and include fees, so those are mechanics, not an offer.
 
-Now suppose Bitcoin rises. The retained position may help the borrowing version. Suppose it stays flat for several years, or falls while interest continues. The liability still needs support. A favorable ending portfolio value doesn't prove the household could survive the path leading to it.
+If Bitcoin rises, keeping more of it may help the borrowing version. But suppose the price stays flat for several years or falls while interest keeps adding up. The household still needs to pay the loan. A high balance at the end doesn't help if the plan runs out of money or the lender forces a sale along the way.
 
 Read both the financial and contractual picture. Can the payments be made? Is collateral approaching an action threshold? How much Bitcoin is pledged? What is the repayment source at maturity? Those questions are separate from the retirement success percentage.
 

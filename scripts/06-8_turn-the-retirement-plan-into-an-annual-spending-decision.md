@@ -17,13 +17,13 @@ Without a review rule, it is easy to react to every market move—or never adjus
 
 Start with the updated plan and the spending rule you chose. A guardrail tells you when to review that rule. It might be a change in the portfolio's value or in the model's confidence result. The amount you decide to spend next year is a separate choice. First notice the reason to review; then work out what, if anything, to change.
 
-If the app expresses a guardrail as a portfolio value, that value is a review threshold. It is not money you can spend. If the policy uses confidence triggers, read what the triggers mean under that policy. Don't relabel a percentage as a dollar threshold without the actual calculation.
+A portfolio-value guardrail is the value at which your rule calls for a review. It isn't your spending budget. A confidence trigger uses the model's percentage instead. Those measures aren't interchangeable, so use the calculation that belongs to your chosen rule.
 
-The durable idea is straightforward. Within the range where the policy does not call for a correction, you may continue with the scheduled review and inflation treatment. Outside it, compare the proposed adjustment and what it means for next year's funding.
+When the plan stays within the range you've chosen, follow the rule's normal review and inflation adjustment. Outside that range, compare the proposed change in spending and what it would require next year.
 
-An annual change limit can mean the proposal moves only partway toward a target. It doesn't make repeated saves a way to take several annual adjustments in one sitting. Use the actual policy's rules and the actual comparison shown.
+An annual limit may spread a spending adjustment over more than one year. It can move spending partway toward the target without reaching it immediately. Applying several annual adjustments at once would defeat that limit.
 
-Let's make a spending change concrete. Suppose a separate illustrative household plans $100,000 and is considering $95,000 next year. That is a $5,000 reduction. Before accepting it, identify which spending changes.
+For a simple example, suppose a household plans to spend $100,000 but is considering $95,000 next year. That's a $5,000 reduction. What would they actually spend less on?
 
 If $5,000 can come from a trip the household is willing to postpone, the adjustment may be practical. If the entire budget is essential bills, the same numerical reduction isn't a solution. The plan needs another response, such as a different income source, funding choice, or work decision.
 
@@ -37,9 +37,9 @@ Some events require attention before the annual review. An income loss, a large 
 
 Start with the current plan and compare next year's spending. Check what it requires from income and investments before saving the amount you choose.
 
-Write down next year's spending, the income you expect, the accounts covering the gap, and the Reserve refill. Add any borrowing instructions and the next review date.
+Keep next year's spending, expected income, withdrawals, and Reserve refill together in your plan. Include any borrowing instructions and the next review date.
 
-Read it back as the answer to one question: how will we pay next year's bills?
+Those choices should answer one question: how will you pay next year's bills?
 
 ### Visual and source notes — not spoken
 

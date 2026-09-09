@@ -14,7 +14,7 @@ Return to: W04 chapters 7–8, then lesson 5.1
 
 ### Read aloud
 
-A large price move can make an investment decision feel urgent even when your financial situation hasn't changed. Before a large purchase or sale, separate the purpose of the transaction from the feeling created by the chart.
+A large price move can make a purchase or sale feel urgent even when your finances haven't changed. Before acting, come back to what the money is for.
 
 Is the purchase part of the target you already chose? Is the cash genuinely available for long-term investing? Is the sale funding a bill with a deadline? Those facts matter before the price opinion.
 
@@ -24,7 +24,7 @@ Here is a deliberately simple example with no fees. A household has $20,000 earm
 
 Instead, it could invest $10,000 now and keep $10,000 for later. If the later price were $50,000, those purchases would total 0.3 Bitcoin. If the later price were $200,000, they would total 0.15 Bitcoin.
 
-The staged method helps in the falling-price example and buys less in the rising-price example. We haven't assigned probabilities or found a perfect entry rule. We've exposed the trade-off in waiting with part of the money.
+Buying in stages gives you more Bitcoin in the falling-price example and less in the rising-price example. That doesn't tell us which price path to expect. It shows what waiting with part of the money changes.
 
 Someone may choose staging because it makes a large change easier to maintain. Another may choose the lump sum because the allocation and purpose are settled and they prefer immediate exposure. The process should fit the person's decision, not claim timing skill the example doesn't establish.
 

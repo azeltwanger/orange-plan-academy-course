@@ -16,9 +16,9 @@ Start with one thing. “Why is there only this much left to save?” is more us
 
 Let's use Alex and Morgan's original cash flow. The example leaves $500 after the listed costs and Alex's existing retirement contribution. You might look at that and wonder whether they should stop the contribution to build cash faster.
 
-Before making that decision, ask: “Walk me from income to the $500 remaining. What has already been deducted?” Then look at the same rows in the plan. The employee contribution comes from household pay. The employer match is additional retirement money, not money available for bills.
+Before making that decision, ask: “Walk me from income to the $500 remaining. What has already been deducted?” Check the answer against the income and costs in the plan. The employee contribution comes from household pay. The employer match adds retirement money, but it isn't available for bills.
 
-Now the question has become clearer. You aren't choosing where an unexplained number should go. You know what's already committed, and you can compare changing one commitment with the consequence beside it.
+Now you know what's already committed. You can compare changing one of those commitments and see what that leaves for the others.
 
 Use that pattern for other questions too. “Why is this retirement year more expensive?” “Which account funded the withdrawal?” “What information is missing before I compare a sale?” Ask for the source of the number and the reason for the difference.
 
@@ -36,7 +36,7 @@ Market information has a different purpose. Check its date and sources. Then ask
 
 Be deliberate about sharing files. A summary for an outside AI review is different from a backup intended to restore the plan. Read the file before sending it elsewhere. Removing a name does not make every financial detail non-sensitive. Recovery words, private keys, passphrases, PINs, and account credentials never belong in a planning question.
 
-Let's ask about one number in the plan and check the answer against the rows behind it. When you can explain the number yourself, decide whether it needs correcting or whether you're ready to compare a change.
+Start with one number in your own plan that you want to understand. Ask where it comes from, then check the answer against the figures used to calculate it. Once that makes sense, decide whether a fact needs correcting or a choice is worth comparing.
 
 ### Visual and source notes — not spoken
 

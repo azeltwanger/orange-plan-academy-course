@@ -27,7 +27,7 @@ Start with what you want the money to make possible. You might want to retire, r
 
 Our example household is Alex and Morgan Reed. They're fictional, and we'll use their situation throughout the course. Alex wants work to become optional at 52. They have children, several accounts, and a meaningful Bitcoin position. They also have bills and commitments that need money before retirement.
 
-We won't put their whole financial life on screen at once. We'll bring in the information needed for each decision. Your account list may be much simpler. Follow the reasoning, not the number of accounts they have.
+We'll bring in the Reeds' information as we need it for each decision. Your account list may be much simpler. Follow the reasoning; you don't need to copy their accounts.
 
 First, we'll get a believable starting picture. Then we'll work out what money is available, how much cash to keep for problems, and what to do with debt. Allocation means choosing your investment mix. That section helps you choose what to own and where new savings go. After that, we'll work out how the money can pay for retirement, how to protect access to your Bitcoin, and how to keep the plan useful as life changes.
 
@@ -41,7 +41,7 @@ This is financial education, not individual investment, tax, or legal advice. Yo
 
 Keep your source documents private. No lesson requires you to share account passwords, wallet recovery words, or private keys.
 
-Before starting, write the question that brought you here. Make it personal and specific: “Could I stop working at this age and support this life?” We are going to build an answer you can explain, including what would need to change when the preferred answer isn't supported yet.
+Start with the question that brought you here: could you stop working at the age you have in mind and pay for the life you want? Use that date and spending amount in Orange Plan. As we build the plan, we'll see what works and what would need to change.
 
 ### Visual and source notes — not spoken
 

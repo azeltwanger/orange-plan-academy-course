@@ -22,7 +22,7 @@ Suppose household income falls. Update the actual source and its timing, then ch
 
 For an unexpected result, trace it before changing the plan. Which input, date, account, tax assumption or funding rule produced the number? Is the calculation current? Did an expense appear twice, or did a future event remain after the change became part of today's spending?
 
-Take a transfer as an example. Money moved between your own accounts should not increase household wealth. If the destination appears without the source reduction, the problem may be duplicate or incomplete records—not an investment gain. Repair the supported facts rather than leave the higher total because the retirement result looks better.
+Suppose you move money between your own accounts. Your household doesn't become wealthier because the destination account received it. If the source account still includes that same money, find the missing or duplicate record and correct it. Don't leave the higher total just because it improves the retirement result.
 
 A tax result that differs from your expectation needs the same discipline. Read the income and sale basis before editing a rate. It may be a real consequence, a missing record, or something requiring professional or product support. You don't need to pretend you know which until the evidence makes it clear.
 

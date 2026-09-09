@@ -33,7 +33,7 @@ The alternative is to compare a deliberate blend during the earlier period. Some
 
 Keep the same lifestyle in both comparisons. Read current tax, cash available, account balances remaining and the later-year result. A blend that lowers future tax but leaves essential early funding short isn't automatically an improvement.
 
-For a Bitcoin-first plan, asset order can express a preference to use other resources before Bitcoin. That is a preference to test, not a rule that guarantees no Bitcoin will ever be sold. If the other assets don't cover the needed period, the plan must show the actual sale, a spending change, or another supported source.
+You may prefer to use other assets for spending before selling Bitcoin. Test how long those assets would last. If they don't cover the period you need, compare a Bitcoin sale, a spending change, or another source that's actually available. The preference alone doesn't fund the gap.
 
 Also distinguish distributions already paid in cash from holdings you need to sell. A dividend that is reinvested isn't a second spending source on top of the account's total return. When cash is swept into the spending account, reflect the movement once.
 

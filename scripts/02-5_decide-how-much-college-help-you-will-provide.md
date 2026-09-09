@@ -77,7 +77,7 @@ As enrollment gets closer, separate the payments that must be available soon fro
 
 We will use the timeline to compare those funding choices. Start with the cost and the money already assigned, then look at contributions and the years when the bills arrive. Add the growth and cost assumptions deliberately, and test a weaker investment outcome rather than only the result you hope for.
 
-When you read the result, ask what had to happen to make it work. Did the plan use the education savings? Did it also need money from another account? Were you still earning the income it relied on? We will check the actual funding shown in the walkthrough, not assume that adding a college event automatically created a saving plan.
+When you compare the plan, follow the money paying for college. Does it come from the education savings, another account, or income you expect to earn then? Adding the future expense tells the plan what needs paying. It doesn't set aside the money or start the contributions for you.
 
 After the comparison, decide whether to keep the commitment, reduce it, or change another use of the money. If you haven't settled that trade-off, leave the funding gap visible.
 

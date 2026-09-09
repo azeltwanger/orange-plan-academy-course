@@ -16,7 +16,7 @@ A quiet month can end with no strategy change. That's the plan doing its job, no
 
 Start with what actually happened since the last update. New purchases, sales, transfers, or debt changes need to agree with the current records. A change in market price is not a new purchase. Money moved between your own accounts is not automatically new income.
 
-Use the supported update or import process and check its result. If a connected source already supplied a transaction, don't add it a second time. If you only know a new account value, record the information you can support rather than invent a history to explain it.
+Update the plan from your records, then check what changed. If an import or connection already added a transaction, don't add it again. If all you know is the new account value, keep the missing history separate rather than make up purchases to explain the balance.
 
 Then review income and spending. Was there a meaningful change, or just normal timing? A paycheck arriving one day later can change a month-end bank balance without changing the salary. A new ongoing bill may require a real revision to spending.
 

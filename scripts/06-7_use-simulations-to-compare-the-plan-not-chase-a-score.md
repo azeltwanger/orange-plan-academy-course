@@ -11,7 +11,7 @@ Sources: RETIREMENT, FOUNDATION, APP, BRAIN
 ### Read aloud
 
 
-Once the funding plan is assembled, use simulations to compare a decision—not to chase the highest percentage on the screen.
+You've worked out how retirement spending would be funded. Now use simulations to compare a choice you're actually considering.
 
 We already learned how to read the percentage, count and horizon in the first working plan. Now the useful question is what changes when you test a different life or strategy.
 
@@ -39,7 +39,7 @@ You also don't have to optimize to 100%. That can mean giving up spending or wor
 
 Let's change one decision in the example plan. Check that the comparison uses the same starting facts and includes the change, then explain what improved and what the household gave up.
 
-Choose the version you would actually follow and write down why. If it still falls short, name what needs to change before retirement.
+Apply the choice you prefer to your own plan. If it still leaves too little money for retirement, focus on the saving, spending, or work change that addresses the gap.
 
 Next we'll turn that choice into a review of what to spend each year.
 

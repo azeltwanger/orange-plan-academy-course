@@ -15,15 +15,15 @@ Should you move some Traditional retirement money into Roth? A lower-income year
 
 A conversion moves money from Traditional treatment into Roth treatment. The taxable portion is generally included in income for the conversion year. The converted amount is not also available to pay the household's bills.
 
-Keep three flows separate: the conversion, the spending money, and the tax payment.
+Keep three amounts separate: the money moving into Roth, the money paying your bills, and the money paying the conversion tax.
 
-For the course's simple illustration, converting $30,000 produces $6,000 of additional tax under the assumed circumstances. The full $30,000 goes into Roth. The $6,000 needs another source. These aren't computed Reed tax figures.
+Let's use a simple hypothetical example. Suppose converting $30,000 adds $6,000 to the tax bill. The full $30,000 goes into Roth, and the $6,000 tax comes from somewhere else. These are example amounts, not the Reeds' tax calculation.
 
 Withholding tax from the IRA changes this comparison. Money withheld does not reach Roth unless you replace it through a valid rollover. Any taxable amount left out can also face the 10% additional early-distribution tax before 59½ unless an exception applies. Compare what actually reaches Roth and how the tax is paid.
 
-Now ask what that tax money was doing. If it was essential Reserve cash, spending it on tax makes the household less liquid. You might choose a smaller conversion or wait for a different funding opportunity. If it was money available to invest, using it for tax also has an opportunity cost.
+What was that tax money going to do? If it was part of your essential Reserve, using it for tax leaves less cash for an emergency. A smaller conversion or waiting may fit better. If the money could have stayed invested, count the growth you're giving up by spending it on tax.
 
-Let's follow that second case through with a deliberately simplified comparison.
+Let's follow the version where that money could have stayed invested.
 
 Start with $30,000 in Traditional and $6,000 of separate assets available to fund the assumed conversion tax. One version converts the $30,000 and spends the $6,000 on tax. The other leaves both amounts invested.
 
@@ -33,7 +33,7 @@ Now account for withdrawal tax. If Traditional is taxed at the same hypothetical
 
 If the later Traditional tax is 30%, the no-conversion total becomes $42,000 plus $12,000, or $54,000. If it is 10%, it becomes $54,000 plus $12,000, or $66,000.
 
-The lesson isn't that one of those tax rates is your future. It is why we count the money used to pay tax and compare after-tax resources. A larger Roth account by itself doesn't establish that the household is better off.
+At the same assumed tax rate, the two versions finished with the same amount to spend. A higher later rate favored the conversion; a lower one favored leaving the money in Traditional. None of those rates is a prediction. They show why we compare the money left after tax, including the money used to pay it.
 
 Real comparisons include the outside assets' tax and growth, actual brackets, timing, healthcare effects, and the intended use of the money. They can favor converting, converting less, or keeping the current treatment. The simple example tells us what to examine.
 
@@ -43,9 +43,9 @@ That reduces the Traditional balance while paying for something the household ac
 
 For the Reeds, the full comparison holds the life being funded constant. One version uses the current withdrawal order. Another intentionally uses some Traditional money for spending. Another includes a conversion schedule with a separate tax-payment source.
 
-Then read the first affected year and a later year. What cash was consumed? What remains available outside retirement accounts? How much remains in Traditional and Roth? What happens to later taxable distributions? We want the trade-off across the whole plan, not the lowest lifetime-tax number detached from wealth and liquidity.
+Compare the first affected year, then a later year. How much cash went to tax? What is still available outside retirement accounts? What remains in Traditional and Roth, and what withdrawals will be taxable later? We care about the money left to use, not just the total tax paid.
 
-You can compare a smaller conversion before a larger one. Look at the additional cost of the next increment. It may cross a bracket, reduce healthcare assistance, or affect a later Medicare premium. There is no requirement to fill every low-looking year to a fixed line.
+Compare a smaller conversion with a larger one. What does the next amount add to the total cost? It may cross a tax bracket, reduce healthcare assistance, or affect a later Medicare premium. You don't have to convert up to a particular bracket just because there's room.
 
 Required distributions must be satisfied separately; that amount cannot be converted. If you have nondeductible IRA basis, the tax calculation generally combines your own Traditional, SEP and SIMPLE IRAs, including their year-end values. You cannot isolate the after-tax money just by choosing one IRA to convert. Use Form 8606 and the complete records. Access to converted amounts has its own timing rules.
 
@@ -53,9 +53,9 @@ Also understand that a completed Roth conversion generally cannot be undone by r
 
 Start with no added conversion as one choice. Then test an amount whose tax you could pay from money not already needed for bills or another commitment. Compare a smaller amount too. Read the cash used now and what remains later in each version.
 
-You aren't looking for a number to copy. Choose the version whose benefit is worth its cost to you. If the extra tax would leave the early retirement years short, a smaller conversion or no conversion may fit better.
+Choose the version whose benefit is worth its cost to you. If paying the extra tax leaves too little money for the early retirement years, a smaller conversion or no conversion may fit better.
 
-We'll keep the spending money, conversion, and tax payment visible together. Review the amount before submitting it to the custodian, then keep the confirmation and tax records. For a schedule spanning several years, use the multi-year conversion lesson before settling the amounts.
+Review the conversion amount and its tax funding before submitting it to the custodian. Then keep the confirmation and tax records. For a schedule covering several years, use the multi-year conversion lesson before settling the amounts.
 
 ### Visual and source notes — not spoken
 

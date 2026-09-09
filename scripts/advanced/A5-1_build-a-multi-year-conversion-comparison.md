@@ -14,7 +14,7 @@ Return to: W05 chapter 4, then lesson 5.5
 
 ### Read aloud
 
-A conversion can make sense this year and be too expensive next year. A multi-year strategy needs to use the actual income windows rather than repeat the same amount until the end of the chart.
+A conversion can make sense this year and cost too much next year. Compare the amounts year by year, using the income you expect in each one, rather than repeat one amount throughout retirement.
 
 Start with the unchanged plan. Mark employment income, healthcare coverage, benefits, required distributions and the resources funding the early years. Then choose a limited schedule to compare.
 

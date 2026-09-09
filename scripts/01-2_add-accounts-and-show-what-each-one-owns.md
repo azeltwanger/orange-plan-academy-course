@@ -25,7 +25,7 @@ Start with your account list. Include bank accounts, taxable investments, retire
 
 Then open the statement and identify the investments. Use the actual name, quantity when known, and current value. Don't choose a familiar ticker just because it seems close to an unfamiliar investment. The plan needs to describe what you own, not the nearest thing on a menu.
 
-Sometimes the only reliable information is the total and a rough mix. That is still useful, provided the uncertainty stays visible. An estimated mix is different from a verified list of securities. We will use the supported entry method that matches the information available.
+Sometimes you only know the total and a rough investment mix. Start there, with the mix clearly marked as an estimate. Don't turn a rough percentage into a list of specific investments you haven't checked.
 
 A connection to a provider can be incomplete too. It may supply the account balance without the investments or older purchase history. That does not mean the balance is cash. It means part of the picture still needs explaining. Read what actually arrived rather than assuming “connected” means every detail is complete.
 

@@ -21,7 +21,7 @@ Start with investment growth. For a simple example, $10,000 growing at 10% for t
 
 These are illustrations, not forecasts. They show why the expected return deserves more attention than a setting you rush past.
 
-I would start with a set of assumptions you could defend to someone else. Not the most optimistic version needed to approve the life you want, and not an extreme disaster case used as though it were your expectation. We need a working starting point and separate tests for what happens when it is wrong.
+Start with assumptions you understand and have a reason to use. Don't choose the most optimistic return just to reach the retirement date you want. And keep an extreme disaster case separate from what you expect. We need a starting plan, then comparisons that show what happens when the assumptions are wrong.
 
 For a long Bitcoin plan, my preference is to let assumed growth decline over time rather than carry one large annual percentage through every decade. Power Law is one model I've used to think about that. It is still a model. Read the path it produces instead of treating the name as proof that the future will follow it.
 
@@ -33,7 +33,7 @@ Check the units of the spending input. If it asks for today's dollars, don't inf
 
 Income growth and specific events need separating as well. A general annual raise assumption is different from a planned career change next year. Put the career change on the timeline. Don't bury it in a rate that makes every future paycheck gradually smaller.
 
-The planning horizon matters too. Funding through 85 asks something different from funding through 95. For a couple, consider the years a surviving spouse may still need support. The end of the chart needs to match the period you intend to plan for.
+You also need to choose how many years the plan should cover. That's the planning horizon. Funding through 85 asks something different from funding through 95. For a couple, include the years a surviving spouse may still need support.
 
 Once the starting assumptions are clear, test one less favorable version. For Alex and Morgan, keep spending, contributions, and intended retirement timing the same while changing the investment-growth path. Then inspect what becomes harder to fund.
 
@@ -43,7 +43,7 @@ A more optimistic comparison can be useful too. Strong growth may change future 
 
 Check how the model treats the investments you own. A Bitcoin fund, a company that owns Bitcoin, and a leveraged product can behave differently. If you're changing assumptions for a particular holding, use the lesson on testing assumptions before relying on that result.
 
-Before continuing, explain three things: how the investments are assumed to grow, how rising prices affect spending, and how many years the plan needs to cover. That last period is the planning horizon.
+When you enter your assumptions, keep three choices clear: how the investments may grow, how rising prices affect spending, and how many years the money needs to last.
 
 You are not being asked to predict the right return. Start with a model you understand, then compare a slower-growth version. If the answer changes, identify the choice it affects—saving, spending, or work timing. Choosing that response is the decision you control.
 

@@ -13,7 +13,7 @@ Sources: ALLOCATION, ALLOCATION_DECK, TAX, PRIMARY, OWNER
 
 Should you pay income tax before investing the money, or when you use it later? That's the basic Traditional-versus-Roth decision.
 
-A withdrawal is money you take out of an account. Qualified means the withdrawal meets the rules for that account's tax benefit; it does not mean every withdrawal from that account is tax-free. Roth can provide tax-free qualified withdrawals. Traditional may reduce the income taxed now. Let's count the tax on both sides before choosing.
+A withdrawal is money you take out of an account. Roth can provide tax-free withdrawals when they meet the rules. Those are called qualified withdrawals; not every Roth withdrawal qualifies. Traditional may reduce the income taxed now, with tax due when the money comes out. Let's count the tax on both sides before choosing.
 
 Let's start with the same $1,000 of pretax earnings and a hypothetical 20% tax rate. We're assuming a deductible Traditional contribution and no other complications for this illustration.
 
@@ -43,13 +43,13 @@ Check the paycheck as well. Suppose Alex keeps contributing $775 a month but cha
 
 You could compare equal contribution amounts, but show the different current cost. Or compare equal household cost, with different amounts entering the accounts. Either can answer a useful question. Don't call them the same comparison.
 
-An IRA adds a deduction check. A Traditional IRA contribution isn't always deductible, and nondeductible basis creates recordkeeping and conversion issues. A workplace Roth account also doesn't share every distribution rule with a Roth IRA. Use the rules for the actual account, not a label on a diagram.
+For a Traditional IRA, first check whether you can deduct the contribution. A contribution that isn't deductible creates records you'll need for later withdrawals or conversions. Also use the rules for the account you actually have. A Roth workplace plan and a Roth IRA don't share every withdrawal rule.
 
 For ordinary retirement use, qualified Roth IRA earnings generally require both age 59½ and the five-tax-year period beginning with the first tax year for which you contributed to any Roth IRA. Other qualifying circumstances exist. This is separate from withdrawing regular contributions or checking a conversion's five-year rule.
 
 This lesson is about new contributions. Moving an existing Traditional balance into Roth is a conversion, with a separate tax and cash-funding decision. We'll compare that in Tax rather than treating a payroll election as a conversion of everything already invested.
 
-For the next contribution, choose the election or mix that fits the current cost and intended later use. Then test its effect on the rest of the cash flow. Write down the reason and the life or tax change that would make you review it.
+Choose the Traditional, Roth, or mixed contribution that fits today's cost and how you expect to use the money later. Compare its effect on your cash flow. A change in income, taxes, or the timing of withdrawals may give you a reason to revisit it.
 
 Check that the remaining cash still covers the Reserve and debt payments. Then we can finish what the contribution buys.
 
