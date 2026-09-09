@@ -12,7 +12,7 @@ Sources: TAX, TAX_DECK, APP, PRIMARY
 
 - After 5.4, [A5.1](../advanced/A5-1_build-a-multi-year-conversion-comparison.md): You are considering Roth conversions across several years. Complete before relying on a multi-year conversion schedule. Return to W05 chapter 4, then lesson 5.5.
 - After 5.5, [A5.2](../advanced/A5-2_prepare-a-harvesting-transaction-that-matches-the-tax-record.md): You intend to harvest a gain or loss through a specific sale. Complete before executing the harvesting transaction. Return to W05 chapters 5–6, then lesson 6.1.
-- After 5.3, [A5.3](../advanced/A5-3_evaluate-a-state-move-as-a-household-decision.md): A possible state move could affect your spending or the tax on a planned sale or withdrawal. Complete before relying on the move’s tax treatment; residency still needs professional review. Return to W05 chapter 3, then lesson 5.4.
+- After 5.3, [A5.3](../../reference/state-move.md): A possible state move could affect your spending or the tax on a planned sale or withdrawal. Complete before relying on the move’s tax treatment; residency still needs professional review. Return to W05 chapter 3, then lesson 5.4.
 
 ### Run sheet
 

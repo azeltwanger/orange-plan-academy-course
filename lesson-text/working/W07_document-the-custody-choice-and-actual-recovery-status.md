@@ -11,8 +11,8 @@ Sources: CUSTODY, OWNER, APP
 ### For your situation — recording route, not spoken
 
 - After 7.1, [A7.1](../advanced/A7-1_compare-passphrase-multisig-and-professional-support.md): You are choosing or changing a passphrase, multisig, or professionally supported custody arrangement. Complete before moving meaningful funds into the new arrangement. Return to W07 chapter 1, then lesson 7.2 and its safe recovery work.
-- After 7.4, [A7.3](../advanced/A7-3_test-correlated-failures-across-providers-and-methods.md): Several providers, wallets, people, or recovery routes may share a failure that affects important holdings. Complete before treating those holdings as independent protection. Return to W07 chapter 4, then lesson 8.1.
-- After 7.2, [A7.4](../advanced/A7-4_understand-utxos-before-consolidating-coins.md): You are considering consolidating Bitcoin outputs or selecting outputs manually for a transaction. Complete before that wallet transaction; it is not a requirement to consolidate. Return to Finish the relevant safe wallet work, then lesson 7.3.
+- After 7.4, [A7.3](../07-1_choose-who-controls-each-part-of-the-bitcoin.md): Several providers, wallets, people, or recovery routes may share a failure that affects important holdings. Complete before treating those holdings as independent protection. Return to W07 chapter 4, then lesson 8.1.
+- After 7.2, [A7.4](../../reference/bitcoin-output-management.md): You are considering consolidating Bitcoin outputs or selecting outputs manually for a transaction. Complete before that wallet transaction; it is not a requirement to consolidate. Return to Finish the relevant safe wallet work, then lesson 7.3.
 
 ### Run sheet
 

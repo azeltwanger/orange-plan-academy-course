@@ -8,20 +8,22 @@ test: prove missing lessons, stale copies and fixture changes are rejected.
 No network, app, credential, financial-account, or deployment operations.
 """
 from __future__ import annotations
-import argparse, hashlib, json, re, shutil, tempfile, subprocess
+import argparse, hashlib, json, re, shutil, tempfile, subprocess, posixpath
 from pathlib import Path
 from decimal import Decimal as D
 
 ROOT = Path(__file__).resolve().parents[1]
 SOURCE_SHA = '2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b'
 APP_SHA = 'dccf0fedaeef6bd767c20fb9af0fe74f1cd4454f'
-CORE_COUNTS = [2,5,5,6,7,5,8,4,4,3,2]
-CORE_IDS = [f'{m}.{n}' for m,c in enumerate(CORE_COUNTS) for n in range(1,c+1)]
-ADV_IDS = ['A1.1','A3.1','A3.2','A4.1','A5.1','A5.2','A5.3','A6.1','A6.2','A6.3','A7.1','A7.3','A7.4','A8.1']
+# Owner-approved 25 main / 8 situation-specific recordings; stable source IDs.
+CORE_IDS = ['0.1', '1.2', '1.4', '1.5', '2.1', '2.3', '2.4', '3.1', '3.4', '3.6', '4.3', '4.5', '4.7', '5.1', '5.4', '6.1', '6.3', '6.6', '6.8', '7.1', '7.2', '8.1', '8.4', '9.1', '10.1']
+ADV_IDS = ['2.5', 'A3.1', 'A3.2', 'A5.1', 'A5.2', 'A6.3', 'A7.1', 'A8.1']
 PRACTICAL_IDS = ['W01','W02','W03','W04','W05','W06','W07','D07','W08','W09','W10']
 ALL_IDS = CORE_IDS + ADV_IDS + PRACTICAL_IDS
 NAMES = ['Start here','First working plan','Cash flow, reserve and life events','Debt and leverage','Allocation and the next dollar','Tax strategy','Retirement paycheck','Custody','Family handoff','Maintenance','Read and share your plan']
-CHAPTERS = {'1.1':'W01 chapters 1','1.2':'W01 chapters 2–5','1.3':'W01 chapters 6–7','1.4':'W01 chapters 8','1.5':'W01 chapters 9–10','2.1':'W02 chapters 1–2','2.2':'W02 chapters 3','2.3':'W02 chapters 4–5','2.4':'W02 chapters 6','2.5':'W02 chapters 7 (optional)','3.1':'W03 chapters 1','3.2':'W03 chapters 2','3.3':'W03 chapters 3','3.4':'prepare the financing comparison; continue through 3.5 before W03 chapter 4','3.5':'W03 chapters 4','3.6':'W03 chapters 5–6','4.1':'W04 chapters 1','4.2':'W04 chapters 2','4.3':'W04 chapters 3','4.4':'W04 chapters 4','4.5':'W04 chapters 5','4.6':'W04 chapters 6','4.7':'W04 chapters 7–8','5.1':'W05 chapters 1','5.2':'W05 chapters 2','5.3':'W05 chapters 3','5.4':'W05 chapters 4','5.5':'W05 chapters 5–6','6.1':'W06 chapters 1','6.2':'W06 chapters 2','6.3':'W06 chapters 3','6.4':'W06 chapters 4','6.5':'W06 chapters 5','6.6':'W06 chapters 6','6.7':'W06 chapters 7','6.8':'W06 chapters 8','7.1':'W07 chapters 1','7.2':'D07 then W07 chapters 2','7.3':'W07 chapters 3','7.4':'W07 chapters 4','8.1':'W08 chapters 1','8.2':'W08 chapters 2','8.3':'W08 chapters 3–4','8.4':'W08 chapters 5','9.1':'W09 chapters 1–2','9.2':'W09 chapters 3','9.3':'W09 chapters 4–5','10.1':'W10 chapters 1–2','10.2':'W10 chapters 3–5'}
+CHAPTERS = {'0.1': 'Orientation; begin your own plan', '1.2': 'W01 chapters 1–7', '1.4': 'W01 chapter 8', '1.5': 'W01 chapters 9–10, including Ask when available', '2.1': 'W02 chapters 1–3', '2.3': 'W02 chapters 4–5', '2.4': 'W02 chapter 6', '3.1': 'W03 chapters 1 and 3', '3.4': 'W03 chapter 4', '3.6': 'W03 chapters 2 and 5–6', '4.3': 'W04 chapters 1–3', '4.5': 'W04 chapters 5–6', '4.7': 'W04 chapters 4 and 7–8', '5.1': 'W05 chapter 1; chapter 2 only when records need repair', '5.4': 'W05 chapters 3–4; chapters 5–6 for a relevant transaction', '6.1': 'W06 chapters 1–2 and 4', '6.3': 'W06 chapter 3', '6.6': 'W06 chapter 6', '6.8': 'W06 chapters 5 and 7–8', '7.1': 'W07 chapter 1', '7.2': 'W07 chapters 2–3 and D07 only for the applicable safe setup', '8.1': 'W07 chapter 4 and W08 chapters 1–4', '8.4': 'W08 chapter 5', '9.1': 'W09 chapters 1–5', '10.1': 'W10 chapters 1–5'}
+CONSOLIDATION_PIN = 'c4c55601dfdaa893343623a75f478cbbfef120ad'
+CONSOLIDATION_MAPPING_DIGEST = '1a61726e67a15447c50eebe218b10177c23136a66efdb03c8dd7b0693ea2240d'
 
 def digest(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
@@ -71,7 +73,8 @@ MERGED_LESSON = {
     'path':'scripts/advanced/A7-2_decide-which-custody-responsibilities-the-household-can-maintain.md',
     'source_commit':'f6392a6341c23c557e605506dab3530b67efa146',
     'blob':'0443c4640a4f4b431429eab204f5fe9dc0b67413',
-    'destinations':['7.1','7.4','W07'],
+    'original_destinations':['7.1','7.4','W07'],
+    'destinations':['7.1','8.1','W07'],
 }
 
 def situation_route(row: dict) -> dict:
@@ -81,7 +84,7 @@ def situation_route(row: dict) -> dict:
         if len(found)!=1 or not found[0].strip():
             raise ValueError('Missing or duplicate situation route '+row['id']+': '+heading)
         values[key]=found[0].strip()
-    if values['after'] not in CORE_IDS or values['after'].split('.')[0]!=row['id'][1:].split('.')[0]:
+    if values['after'] not in CORE_IDS:
         raise ValueError('Invalid parent lesson '+row['id'])
     if not re.search(r'^Kind: conditional$',row['text'],re.M):
         raise ValueError('Situational lesson is not marked conditional '+row['id'])
@@ -108,91 +111,106 @@ def situation_card(row: dict) -> str:
 
 def review_state(row: dict) -> str:
     if row['id']=='2.3':return 'Accepted reference; unchanged'
+    if 'Status: RECORDING_DRAFT_REVIEW' in row['text']:return 'Consolidated recording draft; owner review pending'
     if 'Status: SPOKEN_EDIT_REVIEW' in row['text']:return 'Spoken-language edit; owner review pending'
     if 'Status: TEACHING_RETAINED_REVIEW' in row['text']:return 'Existing explanation retained; owner review pending'
     if 'Status: WALKTHROUGH_REWRITE_REVIEW' in row['text']:return 'Prepared narration; review and capture pending'
     if 'Status: TEACHING_REWRITE_REVIEW' in row['text']:return 'Written draft; owner review pending'
     return 'Review status requires attention'
 
+def consolidation(root: Path) -> dict:
+    c=load_json(root/'production/consolidation.json')
+    if c['base_commit']!=CONSOLIDATION_PIN or c['main_ids']!=CORE_IDS or c['situation_ids']!=ADV_IDS:
+        raise ValueError('Consolidation identity or counts changed')
+    mapping=c['mapping']
+    if len(mapping)!=65 or len({x['old_id'] for x in mapping})!=65:
+        raise ValueError('Consolidation loses an original lesson')
+    if digest(json.dumps(mapping,sort_keys=True,separators=(',',':')).encode())!=CONSOLIDATION_MAPPING_DIGEST:
+        raise ValueError('Source/destination mapping changed without review')
+    refs=set(c['reference_files'].values())
+    for row in mapping:
+        if not row['destinations'] or not set(row['destinations']).issubset(set(CORE_IDS+ADV_IDS)|refs):
+            raise ValueError('Unmapped teaching '+row['old_id'])
+        if row['retired_active_file'] and (root/row['old_path']).exists():
+            raise ValueError('Retired source restored as active script '+row['old_path'])
+    for path,h in c['protected'].items():
+        if digest((root/path).read_bytes())!=h:raise ValueError('Protected Reserve/capture changed '+path)
+    for path in refs:
+        if not (root/path).is_file():raise ValueError('Missing retained task reference '+path)
+    return c
+
+def render_links(text: str, source: str, target: str) -> str:
+    """Keep relative source-note links valid in masters and section views."""
+    def relocate(match):
+        link=match.group(1)
+        if '://' in link or link.startswith(('#','mailto:')): return match.group(0)
+        path,sep,anchor=link.partition('#')
+        destination=posixpath.normpath(posixpath.join(posixpath.dirname(source),path))
+        relative=posixpath.relpath(destination,posixpath.dirname(target) or '.')
+        return ']('+relative+(sep+anchor if sep else '')+')'
+    return re.sub(r'\]\(([^)]+)\)',relocate,text)
+
 def outputs(root: Path) -> dict[str,str]:
-    rows=catalog(root);by={r['id']:r for r in rows};result={}
-    routes={x:situation_route(by[x]) for x in ADV_IDS}
-    order=member_order(rows)
+    c=consolidation(root);rows=catalog(root);by={r['id']:r for r in rows};result={}
+    routes={x:situation_route(by[x]) for x in ADV_IDS};order=member_order(rows)
     records=[]
     for r in rows:
         record={k:v for k,v in r.items() if k not in ('read','text','checkpoint')}
         if r['id'] in routes:record['member_route']=routes[r['id']]
-        record['member_group']='For your situation' if r['id'] in ADV_IDS or r['id']=='2.5' else 'Main path' if r['id'] in CORE_IDS else 'Walkthrough'
+        record['member_group']='For your situation' if r['id'] in ADV_IDS else 'Main path' if r['id'] in CORE_IDS else 'Separate capture'
+        if r['id'] in CORE_IDS:record['recording_number']=CORE_IDS.index(r['id'])+1
         records.append(record)
-    manifest={'canonical':'scripts/','source_commit':SOURCE_SHA,'app_contract_commit':APP_SHA,
-              'counts':{'core':len(CORE_IDS),'advanced':len(ADV_IDS),'working_sessions':10,'device_demos':1},
-              'member_labels':{'core':'Main path (includes the conditional college lesson)','advanced':'For your situation'},
-              'member_order':order,'merged_lessons':[MERGED_LESSON],'lessons':records}
-    result['COURSE-MANIFEST.json']=json.dumps(manifest,indent=2,ensure_ascii=False)
-    editor_intro='Generated from `scripts/`. Spoken text is under Read aloud; production notes and checkpoints are not narration. Owner review and actual app/device recording remain separate.\n\n'
-    result['MASTER-COURSE.md']='# Main course — teaching and production notes\n\n'+editor_intro+'The main path includes one conditional college lesson. Related situation-specific lessons are placed in the reading and playback orders where their decisions arise.\n\n'+'\n\n---\n\n'.join(by[x]['text'].strip() for x in CORE_IDS)
-    result['MASTER-ADVANCED.md']='# For your situation — collected teaching notes\n\n'+editor_intro+'This is a reference index, not a second course or a higher level. The A-prefixed IDs and filename are retained for existing links. Use a lesson when its stated situation applies, then return to the indicated walkthrough.\n\n'+'\n\n---\n\n'.join(by[x]['text'].strip() for x in ADV_IDS)
-    spoken='# Course reading copy\n\nFollow the main path. For your situation lessons appear beside the decision they support. Read their condition: when your plan relies on that strategy, complete the extra lesson before relying on it; otherwise continue. Navigation notes are not spoken.\n\n'
+    result['COURSE-MANIFEST.json']=json.dumps({'canonical':'scripts/','source_commit':SOURCE_SHA,'consolidation_base_commit':CONSOLIDATION_PIN,'app_contract_commit':APP_SHA,
+        'counts':{'core':25,'advanced':8,'working_sessions':10,'device_demos':1},
+        'member_labels':{'core':'Main path','advanced':'For your situation'},'member_order':order,
+        'merged_lessons':[MERGED_LESSON],'consolidation_record':'production/consolidation.json','lessons':records},indent=2,ensure_ascii=False)
+    intro='Generated from `scripts/`. Only Read aloud is narration. Record the script first; text and graphics follow in editing. No slides or homework are required. Actual app/device footage remains separate.\n\n'
+    result['MASTER-COURSE.md']='# Main course — 25 recording scripts and source notes\n\n'+intro+'\n\n---\n\n'.join(render_links(by[x]['text'].strip(),by[x]['path'],'MASTER-COURSE.md') for x in CORE_IDS)
+    result['MASTER-ADVANCED.md']='# For your situation — eight focused recordings\n\n'+intro+'Use only the lesson relevant to your decision, before depending on that strategy. This is not a second course.\n\n'+'\n\n---\n\n'.join(render_links(by[x]['text'].strip(),by[x]['path'],'MASTER-ADVANCED.md') for x in ADV_IDS)
+    spoken='# Recording scripts — one main path\n\n25 main scripts, with eight For your situation scripts routed beside the relevant decision. Titles and navigation are not spoken. Individual teleprompter files contain only narration.\n\n'
     for x in order:
-        r=by[x]
-        spoken+='---\n\n'
+        r=by[x]; label=f"{CORE_IDS.index(x)+1:02d}" if x in CORE_IDS else 'For your situation'
         if x in routes:
-            rr=routes[x]
-            spoken+=f"*For your situation — {rr['when']} {rr['before']} Return to {rr['return']}.*\n\n"
-        elif x=='2.5':
-            spoken+='*For your situation — you intend to help fund education. Otherwise continue to Debt. Return to W02 chapter 7, then lesson 3.1.*\n\n'
-        spoken+=f"## {x} — {r['title']}\n\n{r['read']}\n\n"
+            rr=routes[x];spoken+=f"*{rr['when']} {rr['before']} Return to {rr['return']}.*\n\n"
+        spoken+=f"## {label} — {r['title']}\n\n{r['read']}\n\n---\n\n"
     result['ALL-SCRIPTS.md']=spoken
     for r in rows:
         result['lesson-text/'+r['path'].split('scripts/',1)[1]]=r['text']
         if r['read']:result[read_link(r)]=r['read']
+    reading='# Recording order — 25 main videos\n\nFollow the main path and apply each decision to your own Orange Plan. The eight For your situation lessons appear at their relevant decisions; they are not all required. App and device footage are recorded separately. No slide preparation, homework or submitted explanation.\n\n'
+    film='# Recording and app handoffs\n\nRecord clean narration first. Text and graphics are added after recording; do not use the old slide package as a prerequisite. Capture the app separately using verified workflows and results. Chapter numbers identify working segments, not additional talking-head videos.\n\n'
     for m in range(11):
-        module=f'# Session {m} — {NAMES[m]}\n\nMain lessons build the plan in order. Read an additional lesson only when its stated situation applies; then return to the indicated working chapter. These are draft teaching and production notes.\n\n'
-        for x in CORE_IDS:
-            if not x.startswith(str(m)+'.'):continue
-            if x=='2.5':module+='> **For your situation:** You intend to help fund education. Otherwise continue to Debt.\n\n'
-            module+=by[x]['text'].strip()+'\n\n'
+        selected=[x for x in CORE_IDS if x.startswith(str(m)+'.')]
+        if not selected:continue
+        reading+=f'## {NAMES[m]}\n\n';film+=f'## {NAMES[m]}\n\n'
+        module=f'# {NAMES[m]}\n\n'+intro
+        for x in selected:
+            r=by[x];number=CORE_IDS.index(x)+1
+            reading+=f"### {number:02d} — [{r['title']}]({read_link(r)})\n\n**Apply in your plan:** {CHAPTERS[x]}.\n\n"
+            film+=f"### {number:02d} — [{r['title']}]({r['path']})\n\n**Separate app capture:** {CHAPTERS[x]}.\n\n"
+            module+=render_links(r['text'],r['path'],f'modules/{m:02d}.md')+'\n\n---\n\n'
             for a in ADV_IDS:
                 if routes[a]['after']==x:
-                    module+='---\n\n## For your situation\n\n'+routes[a]['when']+' '+routes[a]['before']+'\n\n'+by[a]['text'].strip()+'\n\n**Return to:** '+routes[a]['return']+'.\n\n'
-            module+='---\n\n'
+                    reading+=situation_card(by[a]);film+=situation_card(by[a]);module+=render_links(by[a]['text'],by[a]['path'],f'modules/{m:02d}.md')+'\n\n---\n\n'
         result[f'modules/{m:02d}.md']=module
-    reading='# Start here — course reading order\n\nWork through each main lesson and its matching walkthrough. **For your situation** identifies extra teaching for a decision you may or may not face. It is not a skill level. When you use that strategy, complete the lesson before relying on it; otherwise carry on. The Reserve remains the accepted reference; other wording is for owner review.\n\n'
-    film='# Learning and filming order\n\nOne main path with situation-specific lessons beside the decisions they support. Read the main explanation, complete the relevant additional lesson when needed, then apply the decision in the matching working chapter. These written routes do not approve app/device capture or perform outside actions.\n\n'
-    for m in range(11):
-        reading+=f'## {m} — {NAMES[m]}\n\n';film+=f'## {m} — {NAMES[m]}\n\n'
-        for x in CORE_IDS:
-            if not x.startswith(str(m)+'.'):continue
-            r=by[x];anchor='lesson-'+x.replace('.','-')
-            optional=' — for households funding education' if x=='2.5' else ''
-            reading+=f"### {x} — [{r['title']}]({read_link(r)}){optional}\n\n"
-            film+=f'<a id="{anchor}"></a>\n\n'+f"### {x} — [{r['title']}]({r['path']}){optional}\n\n"
-            if x=='2.5':
-                note='No education commitment? Continue to lesson 3.1.\n\n';reading+=note;film+=note
-            for a in ADV_IDS:
-                if routes[a]['after']==x:
-                    reading+=situation_card(by[a]);film+=situation_card(by[a])
-            task=CHAPTERS.get(x,'W01 chapter 10 after the first plan is populated' if x=='0.2' else 'Orientation; no app entry')
-            reading+='**Apply it:** '+task+'.\n\n'
-            film+='**Working chapter:** '+task+'.\n\n'
-    reading+='## Reference and recording notes\n\n[All situation-specific lessons](ADVANCED-DICTATION-ORDER.md) · [Paired working-session files](FILM-ORDER.md) · [Production checklist](PRODUCTION-CHECKLIST.md).\n\nThe internal paths retain `core` and `advanced` for link stability. Members follow the sequence above, not two separate courses. The former A7.2 responsibility lesson is included in 7.1, 7.4 and W07; it is not another required video.\n'
+    reading+='## Recording and source notes\n\n[All situation-specific recordings](ADVANCED-DICTATION-ORDER.md) · [App capture map](FILM-ORDER.md) · [What was merged](delivery/consolidation.md). Internal IDs remain stable where possible; they are not extra videos. The accepted Reserve is unchanged.\n'
     result['DICTATION-ORDER.md']=reading
-    reference='# For your situation — reference index\n\nThese lessons are placed beside the relevant main lesson in [the course reading order](DICTATION-ORDER.md). Use the situation, not your experience level, to choose. When a plan depends on the strategy, its extra analysis and safeguards are required for that choice. Otherwise skip it.\n\n'
-    for x in order:
-        if x not in routes:continue
+    extra='# For your situation — eight recordings\n\nUse the relevant instruction when your plan needs it. No separate course, homework or required reading for unrelated situations.\n\n'
+    for x in ADV_IDS:
         r=by[x];rr=routes[x]
-        reference+=f"## [{r['title']}]({read_link(r)})\n\nAfter lesson {rr['after']}. {rr['when']}\n\n{rr['before']}\n\n**Return to:** {rr['return']}.\n\n[Teaching and demonstration notes]({r['path']}).\n\n"
-    reference+='The college lesson is already beside Life Events in Session 2. Custody responsibilities formerly in A7.2 are now part of 7.1, 7.4 and W07, not a separate lesson. Legacy A IDs and this filename preserve existing references; they do not indicate a second program.\n'
-    result['ADVANCED-DICTATION-ORDER.md']=reference
-    film+='## Working-session files\n\n'+''.join(f"- [{x} — {by[x]['title']}]({by[x]['path']}) — recording evidence pending\n" for x in PRACTICAL_IDS)
+        extra+=f"## [{r['title']}]({read_link(r)})\n\n{rr['when']} {rr['before']}\n\n**Return to:** {rr['return']}.\n\n"
+    extra+='## Task references, not extra recording assignments\n\nExisting material on [custom assumptions](reference/custom-assumptions.md), [state moves](reference/state-move.md) and [Bitcoin output management](reference/bitcoin-output-management.md) is retained for those particular tasks. It is not part of the 33-video filming list or a requirement for every member.\n'
+    result['ADVANCED-DICTATION-ORDER.md']=extra
+    film+='## Working files\n\n'+''.join(f"- [{x} — {by[x]['title']}]({by[x]['path']})\n" for x in PRACTICAL_IDS)
+    film+='\nW02 and D07 retain their exact accepted source bytes; the lesson grouping above supersedes old chapter-to-lesson labels. W04 runs chapters 1–3, then 5–6, then 4/7–8 to pair the new account and contribution lessons. W06 groups 1–2/4, then 3, then 6, then 5/7–8. These are recording routes, not claims of verified app behavior. The existing capture register is not cleared by this edit.\n'
     result['FILM-ORDER.md']=film
-    result['CIRCLE-STRUCTURE.md']=film.replace('# Learning and filming order','# Member playback structure',1)
-    result['SCREEN-SHOOT-LIST.md']='# Screen and device production list\n\nUse the route in FILM-ORDER.md. Applicable situation-specific instruction comes before relying on the strategy or executing its dependent action. All practical recordings still require actual evidence in CAPTURE-RECEIPTS.md.\n\n'+''.join(f"## {x} — {by[x]['title']}\n\n[Run sheet]({by[x]['path']})\n\n{by[x]['checkpoint']}\n\n" for x in PRACTICAL_IDS)
-    result['MODULE-CHECKPOINTS.md']='# Member completion checks\n\nMain decisions and situation-specific applications are shown in learning order. A required professional answer or an unverified access route is not a completed action.\n\n'+''.join(f"## {x} — {by[x]['title']}\n\n"+(f"For your situation: {routes[x]['when']}\n\n" if x in routes else '')+by[x]['checkpoint']+'\n\n' for x in order+PRACTICAL_IDS)
-    result['PRODUCTION-CHECKLIST.md']='# Production checklist\n\nOne main path, with applicable extra lessons routed at the relevant decision. The language pass does not establish Austin approval, instructional effectiveness or capture readiness. A7.2 is merged into 7.1/7.4/W07 and excluded from active recording counts.\n\n| ID | Script | Text review | Austin approval | Remaining publication gate |\n|---|---|---|---|---|\n'+''.join(f"| {r['id']} | [{r['title']}]({r['path']}) | {review_state(r)} | {'Reference accepted; filming separate' if r['id']=='2.3' else 'Pending'} | {r['gate']} |\n" for r in rows)
-    main=sum(by[x]['words'] for x in CORE_IDS);extra=sum(by[x]['words'] for x in ADV_IDS)
-    result['COURSE-METRICS.md']=f'# Current course inventory\n\n{len(CORE_IDS)} main-path teaching files include one conditional college lesson: 50 shared-path lessons plus college when relevant. There are {len(ADV_IDS)} additional For your situation lessons placed within their sections, ten app working sessions and one device demonstration. Total active teaching lessons: {len(order)}. A7.2 has been merged, not hidden in a second course.\n\nMain-path spoken text including college: {main:,} words. Situation-specific text: {extra:,} words. Approximate narration at 150 words/minute: {main/150:.0f} and {extra/150:.0f} minutes respectively. These are reading estimates, not promised runtimes or proof of value; walkthroughs and pauses are additional. Members do not need every situation-specific lesson.\n'
-    return {p:t.rstrip()+'\n' for p,t in result.items()}
+    result['CIRCLE-STRUCTURE.md']=film.replace('# Recording and app handoffs','# Member playback — 25 main decisions',1)
+    result['SCREEN-SHOOT-LIST.md']='# Separate app and device capture\n\nThe 33 teaching scripts are separate from these ten working sessions and one device demonstration. Use FILM-ORDER.md for the current grouping. Existing capture evidence is still required; no screen, result or operation is staged to match a script.\n\n'+''.join(f"## {x} — {by[x]['title']}\n\n[Run sheet]({by[x]['path']})\n\n{by[x]['checkpoint']}\n\n" for x in PRACTICAL_IDS)
+    result['MODULE-CHECKPOINTS.md']='# Apply the teaching in your own Orange Plan\n\nThese are the actual planning actions, not homework, a quiz, a submission or another practice household. Keeping a current choice is valid when it fits.\n\n'+''.join(f"## {by[x]['title']}\n\n"+(f"For your situation: {routes[x]['when']}\n\n" if x in routes else '')+by[x]['checkpoint']+'\n\n' for x in order)
+    result['PRODUCTION-CHECKLIST.md']='# Recording status\n\n25 main and eight situational scripts. Narration first; graphics in editing. No all-slides production prerequisite. The accepted Reserve is unchanged. Other new wording requires Austin\'s spoken review; actual app/device capture and targeted transaction checks remain separate.\n\n| Recording | Script | Text status | Remaining check |\n|---|---|---|---|\n'+''.join(f"| {CORE_IDS.index(r['id'])+1 if r['id'] in CORE_IDS else r['id']} | [{r['title']}]({r['path']}) | {review_state(r)} | {r['gate']} |\n" for r in rows)
+    main=sum(by[x]['words'] for x in CORE_IDS);extra_words=sum(by[x]['words'] for x in ADV_IDS);before=c['baseline_words']['main'];before_all=sum(c['baseline_words'].values())
+    result['COURSE-METRICS.md']=f'# Consolidated course\n\n25 main teaching scripts, eight For your situation scripts. Ten app working-session files and one device demonstration remain separate production work.\n\nMain narration: {main:,} words, compared with {before:,} in the prior owner-delivered 50-script main path: {(1-main/before)*100:.1f}% shorter. Situational narration: {extra_words:,} words. Total: {main+extra_words:,}, compared with {before_all:,} across the prior 65 scripts.\n\nAt an illustrative 140 words/minute, the main text is about {main/140:.0f} minutes; situational text adds about {extra_words/140:.0f} minutes if every extra were used. These are estimates from written words, not measured runtime, including no pauses or app footage. Do not publish a runtime promise before recording.\n\nThe earlier planning target was approximately 22,000–25,000 main words. This draft is longer because some combined decisions retain their technical conditions; it still reduces total narration rather than only renaming files. Lesson count alone is not a comprehension or value claim.\n'
+    return {p:s.replace('\\n','\n').rstrip()+'\n' for p,s in result.items()}
 
 
 def merged_history(root: Path) -> None:
@@ -201,7 +219,7 @@ def merged_history(root: Path) -> None:
     actual=hashlib.sha1(b'blob '+str(len(data)).encode()+b'\0'+data).hexdigest()
     if actual!=item['blob']:raise ValueError('Merged A7.2 source history differs')
     if (root/item['path']).exists():raise ValueError('Merged A7.2 restored as duplicate active lesson')
-    print('PASS: merged A7.2 recovered byte-for-byte; active teaching is in 7.1, 7.4 and W07.')
+    print('PASS: merged A7.2 recovered byte-for-byte; current destinations are 7.1, 8.1 and W07.')
 
 def build(root: Path) -> None:
     expected=outputs(root)
@@ -385,6 +403,9 @@ def arithmetic(root: Path) -> dict:
     eq('practice retirement changed cash months',D(72000)/3000,24)
     eq('practice changed income available',D(500)-400,100)
     eq('practice unchanged transfer shortage',D(500)-100,400)
+    eq('consolidated recurring loan second opening',D(28000)+25000,53000)
+    eq('consolidated recurring loan second ending',(D(28000)+25000)*D('1.12'),59360)
+    eq('consolidated recurring loan added interest',D(59360)-50000,9360)
     return {'scope':'Arithmetic teaching checks only; no retirement forecast, tax opinion, lender assurance or model acceptance.', 'checks':asserts,'current_dta_percent':float(debt/assets*100),'partial_stress_dta_percent':float(debt/stressed*100)}
 
 CLEANUP_PIN = 'a7be495e670078cd44ea4e0792538b0eaa32dd95'
@@ -419,6 +440,11 @@ def history(root: Path) -> None:
         if digest(data)!=row['sha256'] or git_hash!=row['git_blob']: raise ValueError('Historical recovery mismatch: '+row['path'])
     print('PASS: recovered and byte-verified',len(recovery['retired_files']),'retired files from pinned Git history; original dictation retained.')
     merged_history(root)
+    c=consolidation(root)
+    for row in c['mapping']:
+        data=subprocess.check_output(['git','show',CONSOLIDATION_PIN+':'+row['old_path']],cwd=root)
+        if digest(data)!=row['source_sha256']:raise ValueError('Consolidated source history differs '+row['old_id'])
+    print('PASS: all 65 pre-consolidation scripts recovered from pinned history; all destinations recorded.')
 
 def check(root: Path) -> None:
     expected=outputs(root)
@@ -429,9 +455,11 @@ def check(root: Path) -> None:
     record=load_json(root/'PROMOTION-RECORD.json')
     preservation(root)
     alltext='\n'.join(x['read'] for x in catalog(root))
-    for phrase in ['Foundation','Integration','Optimization','Sovereign','eight hundred fifty','six hundred five','seventy percent stocks','fifty-nine and a half']:
+    for phrase in ['Foundation','Integration','Optimization','Sovereign','$850','$605','Form 8606','COBRA','Part A','five-tax-year','principal']:
         if phrase not in alltext: raise ValueError('Required teaching missing: '+phrase)
-    for path in ['README.md','DICTATION-ORDER.md','ADVANCED-DICTATION-ORDER.md','FILM-ORDER.md','CIRCLE-STRUCTURE.md','SCREEN-SHOOT-LIST.md','PRODUCTION-CHECKLIST.md']:
+    for phrase in ['on this slide','the slide shows','submit your answer','complete the practice case','INSERT SCRIPT']:
+        if phrase.lower() in alltext.lower():raise ValueError('Production or homework wording in narration: '+phrase)
+    for path in sorted(set(['README.md','HANDOFF.md','DICTATION-ORDER.md','ADVANCED-DICTATION-ORDER.md','FILM-ORDER.md','CIRCLE-STRUCTURE.md','SCREEN-SHOOT-LIST.md','PRODUCTION-CHECKLIST.md','MASTER-COURSE.md','MASTER-ADVANCED.md']) | {x for x in expected if x.endswith('.md')} | {r['path'] for r in catalog(root)}):
         for link in re.findall(r'\]\(([^)]+)\)',(root/path).read_text()):
             if '://' in link or link.startswith('#'):continue
             if not (root/Path(path).parent/link.split('#')[0]).exists():raise ValueError(f'Broken link in {path}: {link}')

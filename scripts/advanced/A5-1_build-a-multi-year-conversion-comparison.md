@@ -1,24 +1,19 @@
-# A5.1 — Build a multi-year conversion comparison
+# A5.1 — Compare Roth conversions over several years
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
-
+Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
 Kind: conditional
 Gate: TAX_REVIEW
-Sources: TAX, RETIREMENT, PRIMARY, APP
-Use when: You are considering Roth conversions across several years.
+Sources: APP, PRIMARY, RETIREMENT, TAX
 After lesson: 5.4
-Complete before: Complete before relying on a multi-year conversion schedule.
-Return to: W05 chapter 4, then lesson 5.5
+Use when: You are comparing Roth conversions across several years.
+Complete before: Complete before adopting or executing a conversion schedule.
+Return to: the retirement paycheck
 
 ### Read aloud
 
 A conversion can make sense this year and cost too much next year. Compare the amounts year by year, using the income you expect in each one, rather than repeat one amount throughout retirement.
 
 Start with the unchanged plan. Mark employment income, healthcare coverage, benefits, required distributions and the resources funding the early years. Then choose a limited schedule to compare.
-
-We already worked through the tax on a conversion and where the tax money comes from. Here we'll compare different amounts over several years.
 
 For a separate illustrative tax calculation, suppose converting the first $20,000 adds $4,000 of current cost. Converting another $20,000 adds $6,000 more. The first portion costs 20%; the second costs 30%. Together, a $40,000 conversion costs $10,000, or 25% on average.
 
@@ -40,17 +35,17 @@ Before execution in each actual year, verify income, deductible and nondeductibl
 
 Choose the schedule you prefer and record the assumptions that make it worthwhile. Before the next conversion, update the current-year figures and confirm the actual amount. Include the tax payment in the same cash-flow plan as spending.
 
-### Visual and source notes — not spoken
+### Source and production notes — not spoken
+
+Source-led condensation of lessons A5.1. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../../delivery/consolidation.md](../../delivery/consolidation.md) and the source hashes in [../../production/consolidation.json](../../production/consolidation.json).
+
+Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
+
+#### Retained A5.1 — Visual and source notes — not spoken
 
 Newillustrativeincremental-cost values20k/4kandnext20k/6k=>40k/10k25%average;future25%assumptionisnotforecastorReedtaxrate. Comparecurrentmarginalincrement,liquidityandfutureaftertaxresources. No scheduleexecuted orfixedannualconversionguarantee.
 
-### Production notes
-
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
-
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
-
-### Demonstration plan — not spoken
+#### Retained A5.1 — Demonstration plan — not spoken
 
 Show genericincremental-cost table separately,thencompareactualreviewedno/modest/larger conversionscheduleswithsame spending. Narration: “The next part costs more than the first. Read the cash used now and the later after-tax resources before choosing how much.” No fabricatedtaxorhealthoutputs.
 

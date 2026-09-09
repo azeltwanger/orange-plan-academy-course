@@ -1,31 +1,25 @@
-# Orange Plan Academy
+# Orange Plan Academy — recording scripts
 
-**Allocation filming package — September 9, 2026:** The seven Allocation lessons now have 62 editable teaching slides with exact narration in notes, a separate five-slide situational clip, PDF reviews and an offline rehearsal view. [Recording map and source identities](delivery/allocation-filming/README.md). Files are supplied in the owner-review download; the source-linked map is in this repository. App capture and voice approval remain separate. No teaching scripts or financial assumptions changed in this production step.
+## [Start with the 25 main scripts](DICTATION-ORDER.md)
 
-**Member application — September 9, 2026:** The separate thirteen practice cases and answer checks have been removed at Austin's direction. The clearer explanations remain. Members learn from the teaching, follow the walkthrough and apply the decision to their own plan in Orange Plan. No separate homework, quiz, required post, submitted explanation or course approval step is part of that flow. [Editorial record](delivery/decision-learning-review.md). Actual app and learner evidence still require real use.
+**Consolidated September 9, 2026:** 25 main teaching videos and eight **For your situation** videos replace the former 65-script teaching inventory. Related explanations are combined, repeated openings and recaps are cut, and the useful examples and qualifications are retained. The accepted Reserve remains unchanged. Internal lesson IDs are retained where useful for source tracing; they are not additional videos.
 
-**Source-based technical review — September 8, 2026:** The tax, account-access, healthcare, lending, custody and estate/insurance topic check is documented in [the review packet](delivery/professional-topic-review.md). Sixteen bounded edits clarify ten lessons, with paired recording checks. The factual desk review is complete; licensed sign-off, actual app/device evidence and service-scope classification are not claimed. Existing publication gates remain unchanged.
-
-## [Start reading the course](DICTATION-ORDER.md)
-
-Follow one main path, completing the matching walkthrough as you go. **For your situation** lessons appear beside the decisions they support. Read the condition: if your plan relies on that strategy, complete its lesson before using it. Otherwise continue. These are not basic and advanced versions of the program.
+Record the script first. Text, graphics and supporting footage are added afterward. **No slides, homework, separate practice portfolio, quiz, submission or required community post.** Learn the decision, follow the relevant walkthrough, and apply it to your own Orange Plan. Keep an existing choice when it already fits.
 
 | What you need | Open |
 |---|---|
-| Main path and related lessons | [Course reading order](DICTATION-ORDER.md) |
-| All spoken text, in learning order | [ALL-SCRIPTS](ALL-SCRIPTS.md) |
-| Find a particular situation again | [For your situation index](ADVANCED-DICTATION-ORDER.md) |
-| Teaching paired with application | [Learning and filming order](FILM-ORDER.md) |
-| Existing member documents | [Toolkit](toolkit/README.md) · [Named deliverables](toolkit/deliverables/README.md) |
-| Current review and recording status | [Status](FINALIZATION-STATUS.md) · [Production checklist](PRODUCTION-CHECKLIST.md) |
+| Main recording order | [25 main scripts](DICTATION-ORDER.md) |
+| Clean spoken text in one reading copy | [All scripts](ALL-SCRIPTS.md) |
+| Additional teaching for a particular decision | [Eight situation-specific scripts](ADVANCED-DICTATION-ORDER.md) |
+| Separate app recording and application | [Walkthrough mapping](FILM-ORDER.md) |
+| What was combined and where details went | [Consolidation record](delivery/consolidation.md) |
+| Actual lengths and scope | [Metrics](COURSE-METRICS.md) · [Status](FINALIZATION-STATUS.md) |
 
-There are 50 shared-path teaching lessons, one college lesson when relevant, and 14 additional situation-specific lessons placed within the sections: 65 teaching lessons in all. Ten app working sessions and one device demonstration provide the paired application. The former A7.2 custody-responsibility lesson is folded into 7.1, 7.4 and W07 rather than repeated as another video.
-
-The spoken-language edit removes repetitive conclusions, abstract task descriptions and production commentary while retaining the explanations, examples and practical qualifications. The accepted Reserve script is unchanged. This remains a draft for Austin’s integrated voice and judgment review, not an assertion that a learner has completed it or that recordings are ready.
+Ten app working-session files and one device demonstration remain separate production work. These are not eleven more talking-head lectures or homework. Exact screens, results, provider processes and safe device procedures still need actual verification before capture. The written course does not promise a particular retirement result.
 
 ## One editing source
 
-Edit `scripts/`. Read-aloud sections are spoken; production notes and checkpoints are not. The indexes, teleprompter files, modules and masters are generated from the same scripts. Internal `core`/`advanced` paths and A-prefixed IDs remain for stable links, not as member-facing difficulty levels. Each additional lesson owns its condition, parent lesson and return instructions in its canonical metadata.
+Edit `scripts/`. Only `### Read aloud` is spoken; the individual teleprompter files contain that text and nothing else. Production notes and member application directions remain separate. Indexes, section views and masters are generated from the same source. Read a For your situation lesson only when its condition applies.
 
 ```sh
 python tools/guided_course.py build
@@ -35,10 +29,12 @@ python -m unittest discover -s tests -p test_member_deliverables.py -v
 python tools/guided_course.py history
 ```
 
-The checks verify structure, routes, arithmetic, synchronization and preservation—not writing quality or student results. History verification needs a full Git checkout.
+These checks establish source mapping, synchronization, arithmetic and preservation—not independent learner comprehension, Austin's voice approval or licensed sign-off. History checks need a full checkout.
 
-Original dictation, the fixed household, toolkit, capture evidence and the previous repository cleanup remain unchanged. The retired A7.2 source is pinned in the generator’s merged-lesson record and verified alongside the previous historical recovery checks. No new duplicate archive or course master was added.
+The earlier recording-only draft was never pushed. Its useful wording is incorporated where applicable and it is superseded by this consolidation, not a competing active master. Original materials, the fixed Reed fixture, member toolkit and actual capture evidence are preserved. Retired scripts remain recoverable from pinned Git history. The three retained task references are not further launch-filming assignments.
 
-[Current handoff](HANDOFF.md) · [Source and editorial record](delivery/teaching-revision.md) · [Historical recovery](ARCHIVE-RECOVERY.md).
+The old Allocation slide package is historical and optional for a later editor. It is not the recording workflow. No new slides or graphics are produced in this pass.
 
-Publishing these files to main is for owner reading. It does not deploy Orange Plan, change pricing or access, publish the course to students, or perform financial, provider, wallet or legal actions.
+[Current handoff](HANDOFF.md) · [Technical source review](delivery/professional-topic-review.md) · [Historical recovery](ARCHIVE-RECOVERY.md).
+
+Publication on main is for owner recording review. It does not publish to a student platform, alter the app, move money, change commercial terms or certify personal financial decisions.

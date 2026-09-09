@@ -1,21 +1,15 @@
-# 0.1 — Build a plan you can use
+# 0.1 — Build your retirement plan
 
-Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
-
+Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
 Kind: teach
 Gate: OWNER_REVIEW
-Sources: DICTATION, MASTER, LANDING, OWNER
+Sources: APP, DICTATION, FOUNDATION, LANDING, MASTER, OWNER
 
 ### Read aloud
-
 
 You can believe in Bitcoin, keep buying it, and still be unsure whether your financial plan works.
 
 When can you stop working? How much can you spend? Is the money in the right accounts? And what happens if life changes before Bitcoin does what you expect?
-
-Those are the questions we're going to answer in this program.
 
 It took me four years of holding Bitcoin to realize what I was missing. I had an investment strategy, but I didn't have a financial plan where I could see everything in one place. Buying an asset and understanding how it will support your life are different things.
 
@@ -27,11 +21,7 @@ Start with what you want the money to make possible. You might want to retire, r
 
 Our example household is Alex and Morgan Reed. They're fictional, and we'll use their situation throughout the course. Alex wants work to become optional at 52. They have children, several accounts, and a meaningful Bitcoin position. They also have bills and commitments that need money before retirement.
 
-We'll bring in the Reeds' information as we need it for each decision. Your account list may be much simpler. Follow the reasoning; you don't need to copy their accounts.
-
 First, we'll get a believable starting picture. Then we'll work out what money is available, how much cash to keep for problems, and what to do with debt. Allocation means choosing your investment mix. That section helps you choose what to own and where new savings go. After that, we'll work out how the money can pay for retirement, how to protect access to your Bitcoin, and how to keep the plan useful as life changes.
-
-For example, choosing to invest more only helps if the cash flow supports it. Choosing a Roth account only solves the problem when that account fits the purpose and access you need. That's why the order matters. Each section uses a decision you've already made.
 
 Watch the lesson, follow the walkthrough, and apply it to your own plan in Orange Plan. Some lessons are marked For your situation. Read the question beside them: when your plan uses that strategy, complete the lesson before relying on it. Otherwise, carry on with the main path. Go at a pace that fits your life.
 
@@ -43,16 +33,20 @@ Keep your source documents private. No lesson requires you to share account pass
 
 Start with the question that brought you here: could you stop working at the age you have in mind and pay for the life you want? Use that date and spending amount in Orange Plan. As we build the plan, we'll see what works and what would need to change.
 
-### Visual and source notes — not spoken
+### Source and production notes — not spoken
+
+Source-led condensation of lessons 0.1, 1.1. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../delivery/consolidation.md](../delivery/consolidation.md) and the source hashes in [../production/consolidation.json](../production/consolidation.json).
+
+Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
+
+#### Retained 0.1 — Visual and source notes — not spoken
 
 Orientation uses the preserved origin explanation and current ten-session structure. The uploaded YouTube script is delivery structure only. No financial formulas, returns, biography additions, outcome guarantee or service entitlement imported. Visual: one household question and the existing course tracker.
 
-### Production notes
+#### Retained 1.1 — Visual and source notes — not spoken
 
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
-
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+Visual: existing mortgage / expected college / possible renovation, with assumptions beside the saved starting picture. Uses original August 25 dictation and Foundation steps 1–3. Do not claim current editor behavior from old decks.
 
 ### Member checkpoint
 
-State the personal question, initial timing and lifestyle the plan should test; understand the teaching/work/application order.
+Begin your own Orange Plan with the retirement date and life you want to compare. Continue with your starting numbers.

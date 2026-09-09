@@ -1,33 +1,37 @@
-# 4.3 — Build the rest of the portfolio around your life
+# 4.3 — Build the whole portfolio around your life
 
-Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: timeframe calculations are teaching illustrations, not evidence of a per-bucket target editor or an engine-generated recommendation.
-
+Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
 Kind: teach
-Gate: TAX_REVIEW
-Sources: ALLOCATION, ALLOCATION_DECK, BRAIN, OWNER, APP, PRIMARY
+Gate: OWNER_REVIEW, TAX_REVIEW
+Sources: ALLOCATION, ALLOCATION_DECK, APP, BRAIN, OWNER, PRIMARY
 
 ### Read aloud
 
+You may already know what percentage you want in Bitcoin. But that leaves another question: what should the rest of your portfolio do?
 
-You've decided how much Bitcoin you want to consider holding. What should you do with the money that isn't in Bitcoin?
+Your portfolio is the group of investments we're reviewing. Add up what you own across its accounts. Bitcoin exposure means the amount whose value is tied to Bitcoin. Looking only at your wallet misses that exposure when retirement accounts also hold Bitcoin funds.
 
-Leaving it all in cash is one choice. Investing it in stocks is another. You may already have bonds, property, or a business. The useful question is what those holdings would provide that your Bitcoin position doesn't already provide.
+For Alex and Morgan, the investments we're using in this allocation example total about $1.3 million. They have $410,000 of direct Bitcoin value and $318,000 of spot Bitcoin-fund exposure in retirement accounts. Together, that is $728,000—about 56% of this group of assets.
 
-Let's build the whole portfolio instead of treating the other investments as whatever is left over.
+That isn't the number of coins they control directly. The fund is still a security in its account. We combine its dollar exposure when looking at the investment mix and keep its ownership and custody arrangements separate.
+
+Check what is included in the percentage. Here we're leaving out the home and dedicated education and health accounts. Those haven't disappeared from the family's balance sheet. They have other jobs, so they aren't included in this particular target comparison.
+
+You could measure Bitcoin against all assets, net worth, or a defined investment portfolio and get three different percentages. Choose the group that answers your question and keep it the same when comparing today with your target.
+
+First, decide the role you want Bitcoin to play. We use four descriptions, not a ladder you have to climb: Foundation is a smaller learning position, illustrated at 1% to 5%. Integration is a place alongside other long-term investments, illustrated at 10% to 20%. Optimization gives Bitcoin a larger role, illustrated at 25% to 50%. Sovereign describes using Bitcoin as the main long-term store of purchasing power, illustrated at 50% or more. These are discussion ranges, not recommended allocations or precise dividing lines.
+
+For example, someone may choose to test 50% Bitcoin because they want it to be a major long-term holding while retaining substantial ownership of other investments. That doesn't tell them to put the other 50% in cash. Another person may want a much smaller Bitcoin position and use other assets for most of the long-term growth.
+
+Discuss that intention with anyone sharing the consequences. Your spouse doesn't have to know every technical detail of Bitcoin to understand why it has this role and what the household will use for spending. An unexplained position can become a much harder conversation during a decline.
 
 Start with the spending jobs. Bring forward the Reserve amount you already chose. Then add known expenses that aren't covered by the Reserve: a purchase, a tax payment, or the first retirement withdrawals you want available without depending on a favorable sale.
 
 Count the part of each expense that expected income won't cover, and keep its date in mind. If future pay will cover a purchase, you don't also need to reserve the full price from today's savings unless you choose to. And money you've already committed to college can't also fund retirement at the same time.
 
-What remains has a longer runway. Now you can compare investments for growth, income, or a combination, based on when that money is needed and which sources of return you want to own.
-
 We use Reserve, Bridge, and Forever to help think about when money will be used. The rough zero-to-three, four-to-ten, and ten-plus-year ranges are starting guides, not rules. You don't automatically need three years of expenses in cash.
 
 These are timeframes, not three account types. One brokerage account might hold cash for a purchase and stock funds for much later. First decide what each amount is for. Then we can choose where to hold it.
-
-For money that must be available soon, the first job is dependable access and a stable dollar amount.
 
 A bank savings account may fit money you need to reach quickly, with deposit insurance subject to its limits and ownership rules. A short Treasury bill can fit a known date when its maturity and access arrangements match the payment. A money market fund may offer convenient cash management inside a brokerage account, but it is an investment fund, not an FDIC-insured bank deposit.
 
@@ -63,8 +67,6 @@ This household expects the remaining $400,000 to stay invested for at least ten 
 
 Now the proposed mix is 50% Bitcoin, 40% stocks, and 10% cash. Each part has a reason: Bitcoin for the role they chose, stocks for other long-term business ownership, and cash for identified spending and protection.
 
-It isn't the only possible mix. A household wanting more scheduled payments or less stock exposure could compare allocating some of that $400,000 to suitable bonds. One with an existing rental business might already have a large non-Bitcoin growth and income exposure. Those are changes to analyze, not extra categories to add by default.
-
 Now change one fact. Suppose the household is about to stop working. Its plan shows $50,000 a year for the first two years that income won't cover, after allowing for the costs included in that spending gap. It wants those two payments available in cash, separately from the Reserve and purchase.
 
 That adds $100,000 to the cash job. With Bitcoin held at the same $500,000, there is now $200,000 in cash and $300,000 available for stocks: 50% Bitcoin, 30% stocks, 20% cash.
@@ -72,8 +74,6 @@ That adds $100,000 to the cash job. With Bitcoin held at the same $500,000, ther
 The reason is not that every retiree needs 20% cash. This household chose to have those payments available. Keeping more in cash means less is invested for growth, so we need to test what that changes later. Choosing only the first year's payment in cash would produce a different trade-off.
 
 That is how we choose the amounts. Work out the spending commitments first, then decide what the remaining money needs to provide. If keeping your starting Bitcoin percentage leaves an important bill without funding, revisit that choice too. Compare a different purchase, a later date, another available source, or a smaller Bitcoin position. The percentage is something to test, not a promise that overrides the rest of your life.
-
-Before accepting the mix, follow the first spending need. Which account provides it? What happens if the investments are down? Does the cash cover what you said it covers, or have two commitments claimed it? If the answer fails, revise that part of the plan rather than add a reassuring label.
 
 The long-runway portion also changes as time passes. Retirement is not one deadline for all the money. The first year's spending and money intended for twenty years later can have different investments even after work stops.
 
@@ -83,18 +83,26 @@ Now open your own plan. Start with your spending commitments and the money left 
 
 Use those answers to choose the mix, rather than copying the example's percentages. Two households can use the same method and choose different portfolios. An existing holding that fits may not need to change.
 
-Next we'll work out how the available contributions move you toward that mix. Changing existing holdings may also make sense, but a sale has its own tax and trading costs to compare first.
+Next we'll choose the accounts that can hold those investments and provide the access you need.
 
-### Visual and source notes — not spoken
+### Source and production notes — not spoken
+
+Source-led condensation of lessons 4.1, 4.2, 4.3. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../delivery/consolidation.md](../delivery/consolidation.md) and the source hashes in [../production/consolidation.json](../production/consolidation.json).
+
+Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
+
+#### Retained 4.1 — Visual and source notes — not spoken
+
+Deck Step 1, current holdings and their jobs. Preserve general subset $1,307,000, native $410,000, fund $318,000, aggregate $728,000; excluded home/HSA/education remain on balance sheet. No new current facts or exact securities.
+
+#### Retained 4.2 — Visual and source notes — not spoken
+
+Deck Step 2 four original paths and indicative ranges retained as orientation, not recommendations or wealth/custody rankings. No repeated drawdown arithmetic or premature target save. The requested whole-portfolio question is handed to 4.3.
+
+#### Retained 4.3 — Visual and source notes — not spoken
 
 Deck Steps 3–5 govern jobs, timeframe and the final funding test. The non-Bitcoin investment explanation is a clearly identified editorial expansion requested by Austin; the deck itself says balanced mix but does not select funds, geographies or weights. No security picks or inferred Austin preferences. Generic $1m example: $500k BTC; $60k previously chosen Reserve+$40k planned purchase=$100k cash; $400k long-runway stocks =>50/40/10. Two separately unfunded $50k retirement payments desired in cash add $100k =>50/30/20. All chosen amounts/preferences are hypothetical, not Reed or app outputs. The choice explains why broad stock exposure rather than individual concentration; bonds/property are meaningful alternatives, not prescribed additions. This supersedes the old $500k weighting-only example in the narration and W04; old arithmetic checks can remain historical examples but must not be presented as current lesson outputs. Primary mechanism checks: Investor.gov asset-allocation, bond-funds-and-income-funds, updated money-market-fund investor bulletin and cash-sweep bulletin; FDIC financial-products-not-insured; TreasuryDirect selling-marketable-securities. Exact yields, deposit coverage, custody and access are provider-specific and require final checking.
 
-### Production notes
-
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
-
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
-
 ### Member checkpoint
 
-Use your own holdings and spending dates to build the portfolio in Orange Plan. Work out what the Bitcoin and non-Bitcoin money needs to provide, then compare the investments and amounts that fit those uses. Keep your current mix when it already fits; change it when the comparison gives you a reason. Timeframes do not require separate accounts or the same mix in every account.
+Choose the whole portfolio by timeframe, account access and each asset’s job. Explain what the non-Bitcoin portion supplies and check whether the mix fits the household.

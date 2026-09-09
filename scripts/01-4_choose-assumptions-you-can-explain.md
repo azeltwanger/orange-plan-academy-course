@@ -1,21 +1,15 @@
-# 1.4 — Choose assumptions you can explain
+# 1.4 — Choose assumptions you understand
 
-Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: model choices and exact preset paths require final build verification; no current preset rate is asserted.
-
+Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
 Kind: teach
-Gate: OWNER_REVIEW
-Sources: DICTATION, FOUNDATION, APP, MASTER
+Gate: APP_CAPTURE, OWNER_REVIEW
+Sources: APP, BRAIN, DICTATION, FOUNDATION, MASTER, PRIMARY
 
 ### Read aloud
-
 
 You can move a retirement date earlier in a calculator without saving another dollar. Increase the return assumption, and the future balance grows. The result looks better immediately.
 
 But did the household improve—or did the story about the future become more optimistic?
-
-That is why we're going to choose assumptions you can explain before using the plan to make decisions.
 
 Start with investment growth. For a simple example, $10,000 growing at 10% for ten years becomes about $26,000 before tax. At 20%, it becomes about $62,000. The starting investment and time are identical. The assumed return creates most of the difference.
 
@@ -39,24 +33,30 @@ Once the starting assumptions are clear, test one less favorable version. For Al
 
 If the plan is short in the early years under slower growth, that points to a real comparison: save more in accessible accounts, spend differently, or change the work timeline. Raising returns until the shortfall disappears would hide the question rather than solve it.
 
-A more optimistic comparison can be useful too. Strong growth may change future tax or account decisions. The point isn't to choose whichever result feels best; it's to understand which decision depends on which assumption.
-
-Check how the model treats the investments you own. A Bitcoin fund, a company that owns Bitcoin, and a leveraged product can behave differently. If you're changing assumptions for a particular holding, use the lesson on testing assumptions before relying on that result.
-
-When you enter your assumptions, keep three choices clear: how the investments may grow, how rising prices affect spending, and how many years the money needs to last.
+Different investments may need different assumptions. Owning a Bitcoin fund isn't the same as owning a company that holds Bitcoin or a leveraged product. Use the custom-assumptions reference when you need to check a particular holding's treatment.
 
 You are not being asked to predict the right return. Start with a model you understand, then compare a slower-growth version. If the answer changes, identify the choice it affects—saving, spending, or work timing. Choosing that response is the decision you control.
 
-### Visual and source notes — not spoken
+### Source and production notes — not spoken
+
+Source-led condensation of lessons 1.4, A1.1. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../delivery/consolidation.md](../delivery/consolidation.md) and the source hashes in [../production/consolidation.json](../production/consolidation.json).
+
+Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
+
+#### Retained 1.4 — Visual and source notes — not spoken
 
 Visual: existing hypothetical compound-growth and inflation calculations; no YouTube withdrawal rate, growth multiplier, forecast-price table, guaranteed recovery period or Forever Number formula. Preserve current evergreen model preference, not old preset percentages. W01 demonstrates chosen early/later rates and one controlled comparison.
 
-### Production notes
+#### Retained A1.1 — Visual and source notes — not spoken
 
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+ExistingAdvancedmodelscope and Foundation methodology retained; no unsupportedcorrelation/fat-tail/replayclaims. Moredepththan1.4: supportableoverride,controlledsensitivity,combinedstressseparate and resultidentity. Actualmethodologyapprovedbuildonly.
 
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+#### Retained A1.1 — Demonstration plan — not spoken
+
+Keep the saved household fixed; display one supported early/later return path, change only the intended assumption, read the first changed funding year and return to Current. Narration: “This is the one belief we are testing. These household choices stayed the same. Which decision becomes harder under this path?” Show actual methodology/resultidentity; no syntheticvolatilityorproviderprobability.
+
+The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
 
 ### Member checkpoint
 
-Explain the starting model, dollar convention and horizon; compare one weaker path without changing household choices.
+Choose understandable assumptions and a dollar convention; compare a weaker path while keeping household choices unchanged.

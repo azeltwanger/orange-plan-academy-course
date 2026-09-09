@@ -1,31 +1,47 @@
-Owning a hardware wallet and owning a working backup are not the same thing. The device can work perfectly today while the recovery information is incomplete, mistaken, or unavailable when it is needed.
+A working hardware wallet doesn't prove that its backup will restore the right wallet. You can discover a missing word or passphrase while the device still works, or discover it after the only working device has failed.
 
-We want to find that out without putting the funded wallet at risk.
+We want the first situation. Check recovery without casually putting the funded wallet at risk, then secure the accounts around it.
 
-A wallet backup lets compatible software or a device recreate the keys for the corresponding wallet. The hardware device is not where the Bitcoin itself lives. Losing the device can be survivable when the correct recovery materials and procedure are available.
+A wallet backup recreates the corresponding keys through a compatible process. The Bitcoin isn't stored inside the hardware device. A lost device can be survivable when the correct recovery material and procedure are available.
 
-A PIN protects access to the device. It is not a substitute for the wallet backup. A passphrase, when used, changes which wallet the backup opens. That passphrase must also be available and exact. Multisig can require several keys and the wallet configuration. The right test depends on the setup you actually chose.
+The PIN protects access to the device. It doesn't replace the backup. A passphrase selects a different wallet and has to be exact. Multisig can require several independent keys and configuration information as well.
 
-Start with the current official instructions for the exact device, software, and backup format. Don't combine a few steps from different models or follow an unsolicited support link. Where supported, a non-destructive backup check can compare the recorded backup with the active wallet material without wiping the device.
+Start with the official instructions for the exact device, software and backup format. A non-destructive backup check may be supported. Don't combine steps from different models or follow a recovery link sent by an unknown person.
 
-For learning, use a separate small-value practice wallet or another properly isolated training setup. Keep real recovery words, keys, passphrases and secrets out of recordings, course uploads, screenshots, chat and shared notes.
+Use a separate small-value practice setup to learn the process. Receive an authorized test amount, follow the reviewed recovery procedure and verify the intended wallet. Keep recovery words, private keys, passphrases and other secrets out of screenshots, recordings, notes and chat.
 
-In the demonstration, the practice wallet gets a small test transaction, follows its official recovery procedure, and is checked against the expected wallet. That lets you understand the sequence before meaningful savings depend on your own execution.
+The scope of the result matters. Recovering that practice wallet proves the practice setup. It doesn't verify a different funded wallet.
 
-But the result has a limit: recovering the practice wallet proves that practice setup. It does not prove the backup of a different funded wallet.
+Your actual setup needs its own appropriate safe check. That may use the official backup-check feature or a compatible spare device while the working device remains intact. A passphrase or multisig arrangement needs all the relevant requirements checked, not only a valid word list.
 
-Your actual wallet needs its own appropriate verification. That may include its official backup-check process and, when suitable and safely arranged, recovery on a compatible spare device while the working device remains intact. A passphrase or multisig arrangement needs the additional steps that prove the intended wallet can be reached, not just that one word list is valid.
+Verify the intended wallet using the trusted process and a known non-secret identifier or address. A mistyped passphrase can open a different valid wallet. An empty wallet or mismatch is a reason to stop, not to send meaningful funds and hope the problem is solved.
 
-Check a known non-secret wallet identifier or receive address using the verified process, not only that an application shows some balance. A mistyped passphrase can open a different valid wallet. Seeing an empty wallet is a reason to stop and investigate, not immediately send money into it.
+Don't wipe the only working access to savings as a casual first test. Understand a failed check and use verified official support without revealing the secrets. Keep the working access until the safe procedure provides a reason for any destructive step.
 
-Before any destructive step, understand what it removes and what recovery evidence already exists. Do not wipe the only working access to meaningful funds as a casual test. A failed check needs careful official support and a safe plan—not repeated guesses under pressure.
+Store recovery materials for the failures you're trying to survive. Durability can help with damage. Separate protected storage can reduce a shared physical loss. Those choices also need a legitimate family-access process. A photographed backup may expose secrets through devices or accounts you never intended to trust.
 
-Store backups so the failures you're concerned about don't take all copies at once. Durability protects against damage. Separate storage can reduce shared physical loss. Both add responsibilities about privacy and family access. A photographed backup may be easy to find but exposed to devices and accounts you didn't intend to trust.
+Record the safe evidence: which setup was checked, the method, date, actual outcome and what remains unverified. The planning record does not need the recovery material itself.
 
-After a successful test, record only the evidence that is safe to keep in the planning record: which setup was tested, the type of test, date, outcome, and what still needs checking. Don't record the recovery material itself.
+Next, secure the accounts that support financial access. Email often resets other accounts, so a weak email recovery route can undermine a strong financial password.
 
-Keep recovery status beside each holding. Having a wallet listed doesn't tell the family whether its backup has been checked.
+Use unique strong passwords and the strongest supported multifactor method you can maintain. A password manager can help avoid reuse. Where supported, phishing-resistant security keys or passkeys can add protection against lookalike sign-in pages.
 
-Record the check that actually succeeded and which wallet it covered. If you couldn't complete it safely, leave the reason and the next step. Watching someone else's recovery doesn't verify your own backup.
+A hardware security key authenticates a login. A hardware wallet holds Bitcoin signing keys. They perform different jobs.
 
-You should know what you would need after losing the device and which part of that recovery still needs checking.
+Keep and test the legitimate backup access method before removing the only working one. A lost phone or security key shouldn't force the household to invent a recovery process during an emergency.
+
+Review active sessions, notification addresses and available withdrawal protections with the actual provider. These can reduce some account-takeover risks. They don't remove the provider's business or custody risk.
+
+Now consider an urgent message saying the wallet is compromised. It gives a link, a phone number and instructions to act immediately.
+
+Don't use the contact supplied by the warning to verify that warning. Open the known official application or independently verified site. Someone asking for recovery words, a private key or a transfer to a supposed safe wallet is not helping you preserve the existing wallet.
+
+The same pause applies to guaranteed returns, private investment platforms introduced through a new friendship, or demands for more money to unlock withdrawals. A retirement plan doesn't need a rushed unfamiliar transaction to remain workable.
+
+Check physical privacy too: who knows what you own, which recovery items share a location, and whether the instructions reveal more than their reader needs. Keep secret access separate from the non-secret family map.
+
+Use the device demonstration only for the setup and procedure it actually covers. Advanced output selection or consolidation has its own fee and privacy questions; the reference is there when you need that transaction, not as a task every member must perform.
+
+Update Orange Plan with the actual recovery and security status. Watching a demonstration or buying hardware isn't evidence that the check happened. Keep the next practical step visible until it is done safely.
+
+Then carry this non-secret picture into the family handoff. They need a clear place to begin, with the legal authority and support that make the process usable.

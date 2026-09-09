@@ -124,20 +124,47 @@ class MemberDeliverables(unittest.TestCase):
 
     def test_inventory_and_authorized_custody_merge(self):
         manifest = json.loads(read('COURSE-MANIFEST.json'))
-        self.assertEqual(manifest['counts'], {'core':51, 'advanced':14, 'working_sessions':10, 'device_demos':1})
+        self.assertEqual(manifest['counts'], {'core':25, 'advanced':8, 'working_sessions':10, 'device_demos':1})
         ids = {row['id'] for row in manifest['lessons']}
-        self.assertEqual(len(ids), 76)
+        self.assertEqual(len(ids), 44)
         self.assertNotIn('A7.2', ids)
-        self.assertEqual(len(manifest['member_order']), 65)
-        self.assertEqual(len(set(manifest['member_order'])), 65)
+        self.assertEqual(len(manifest['member_order']), 33)
+        self.assertEqual(len(set(manifest['member_order'])), 33)
         merged = manifest['merged_lessons']
         self.assertEqual(len(merged), 1)
         self.assertEqual(merged[0]['id'], 'A7.2')
         self.assertEqual(merged[0]['source_commit'], 'f6392a6341c23c557e605506dab3530b67efa146')
         self.assertEqual(merged[0]['blob'], '0443c4640a4f4b431429eab204f5fe9dc0b67413')
-        self.assertEqual(merged[0]['destinations'], ['7.1', '7.4', 'W07'])
+        self.assertEqual(merged[0]['original_destinations'], ['7.1', '7.4', 'W07'])
+        self.assertEqual(merged[0]['destinations'], ['7.1', '8.1', 'W07'])
         self.assertTrue(set(merged[0]['destinations']).issubset(ids))
         self.assertFalse((ROOT / merged[0]['path']).exists())
+
+
+    def test_consolidation_maps_every_prior_script(self):
+        c=json.loads(read('production/consolidation.json'))
+        self.assertEqual(len(c['mapping']),65)
+        self.assertEqual(len({r['old_id'] for r in c['mapping']}),65)
+        self.assertEqual(sum(r['retired_active_file'] for r in c['mapping']),32)
+        self.assertTrue(all(r['destinations'] for r in c['mapping']))
+        for r in c['mapping']:
+            if r['retired_active_file']:self.assertFalse((ROOT/r['old_path']).exists())
+
+    def test_accepted_reserve_is_still_exact(self):
+        self.assertEqual(blob_id((ROOT/'scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md').read_bytes()),'2c107a394a93cc877c73f011dfe37fb5ad3d94b1')
+
+    def test_situation_and_reference_are_not_extra_main_videos(self):
+        c=json.loads(read('production/consolidation.json'))
+        self.assertEqual(len(c['main_ids']),25)
+        self.assertEqual(len(c['situation_ids']),8)
+        self.assertNotIn('2.5',c['main_ids'])
+        self.assertIn('2.5',c['situation_ids'])
+        self.assertEqual(set(c['reference_files']),{'A1.1','A5.3','A7.4'})
+        for path in c['reference_files'].values():self.assertTrue((ROOT/path).is_file())
+
+    def test_consolidated_loan_extension(self):
+        self.assertEqual((D(28000)+25000)*D('1.12'),D(59360))
+        self.assertEqual(D(59360)-50000,D(9360))
 
 
 if __name__ == '__main__':

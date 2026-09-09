@@ -1,17 +1,33 @@
-# 5.4 — Compare conversions with intentional withdrawals
+# 5.4 — Use tax timing to compare withdrawals and Roth conversions
 
-Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
-
+Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
 Kind: teach
 Gate: TAX_REVIEW
-Sources: TAX, TAX_DECK, RETIREMENT, PRIMARY, APP
+Sources: APP, BRAIN, PRIMARY, RETIREMENT, TAX, TAX_DECK
 
 ### Read aloud
 
+You may pay a high tax rate while working and have a very different income picture after you retire. That difference can create an opportunity—but only if you notice it before the window passes.
 
-Should you move some Traditional retirement money into Roth? A lower-income year may be a useful time to compare it. We'll look at the tax paid now and what each choice leaves later. More money in the Roth account is not enough to show that the household is better off.
+Remember the $20,000 sale with $16,000 of basis. It produces $4,000 of gain before adjustments. A fully taxable $20,000 Traditional withdrawal produces $20,000 of ordinary income. Similar cash can therefore create very different tax results.
+
+Now place the income sources on the timeline. Employment may end before Social Security begins. A pension may start on another date. A spouse may continue working. Required distributions may eventually add income even when the household would prefer to leave the money invested.
+
+For the Reeds, Alex's goal of stopping work at 52 is only part of the picture. Morgan's work income and the dates their benefits begin matter too. Check all of those before treating the years after Alex stops as a lower-tax period.
+
+A generic example shows what to look for. Imagine a household whose employment income ends before later benefits and required distributions begin. In the intervening years, ordinary taxable income is lower. Spending is still funded, but perhaps mostly from cash and taxable investments.
+
+A tax bracket is a range of income taxed at a given rate. Moving some income into the next ordinary-income bracket does not generally move all the earlier income to that higher rate.
+
+Use a made-up two-step tax to see why. Suppose the first $10,000 is taxed at 10%, and the next $1,000 at 20%. That's $1,000 of tax on the first part and $200 on the next, for $1,200 total. It isn't $2,200 from taxing the whole $11,000 at 20%. These are not actual tax brackets. They show why we ask what the next part costs.
+
+But the bracket alone may not describe the total cost of another dollar. Income can affect deductions, credits, healthcare assistance, Social Security taxation, or later Medicare premiums. The useful calculation is the change in the household's total cost when the proposed income is added.
+
+Long-term capital gains interact with the other taxable income too. A 0% federal capital-gain band can be valuable, but it isn't a universal tax-free spending allowance. The gain, other income, deductions, and state treatment matter. Don't apply the rate to a dollar amount from an old video and assume the whole sale is free of tax.
+
+A common trap is minimizing tax every year in isolation. A household can spend taxable assets first and leave a growing Traditional account untouched. Later, more spending and required distributions may arrive together, concentrating taxable income into fewer years.
+
+That doesn't prove an earlier conversion is right. It tells us which comparison could be useful. We want to see whether paying some tax earlier improves after-tax resources or flexibility enough to justify its current cost.
 
 A conversion moves money from Traditional treatment into Roth treatment. The taxable portion is generally included in income for the conversion year. The converted amount is not also available to pay the household's bills.
 
@@ -23,8 +39,6 @@ Withholding tax from the IRA changes this comparison. Money withheld does not re
 
 What was that tax money going to do? If it was part of your essential Reserve, using it for tax leaves less cash for an emergency. A smaller conversion or waiting may fit better. If the money could have stayed invested, count the growth you're giving up by spending it on tax.
 
-Let's follow the version where that money could have stayed invested.
-
 Start with $30,000 in Traditional and $6,000 of separate assets available to fund the assumed conversion tax. One version converts the $30,000 and spends the $6,000 on tax. The other leaves both amounts invested.
 
 Suppose the relevant investments double, and ignore additional taxes, fees and differences in returns on the outside assets for this illustration. The converted Roth reaches $60,000. The no-conversion version reaches $60,000 in Traditional plus $12,000 outside.
@@ -33,15 +47,11 @@ Now account for withdrawal tax. If Traditional is taxed at the same hypothetical
 
 If the later Traditional tax is 30%, the no-conversion total becomes $42,000 plus $12,000, or $54,000. If it is 10%, it becomes $54,000 plus $12,000, or $66,000.
 
-At the same assumed tax rate, the two versions finished with the same amount to spend. A higher later rate favored the conversion; a lower one favored leaving the money in Traditional. None of those rates is a prediction. They show why we compare the money left after tax, including the money used to pay it.
-
 Real comparisons include the outside assets' tax and growth, actual brackets, timing, healthcare effects, and the intended use of the money. They can favor converting, converting less, or keeping the current treatment. The simple example tells us what to examine.
 
 There is also an alternative that doesn't involve a conversion: use an accessible Traditional withdrawal for spending during a favorable tax year.
 
 That reduces the Traditional balance while paying for something the household actually needs. It may let more taxable assets remain invested. Unlike the conversion, the withdrawal provides spending cash—but the withdrawal's tax still needs funding, and early-access rules may matter.
-
-For the Reeds, the full comparison holds the life being funded constant. One version uses the current withdrawal order. Another intentionally uses some Traditional money for spending. Another includes a conversion schedule with a separate tax-payment source.
 
 Compare the first affected year, then a later year. How much cash went to tax? What is still available outside retirement accounts? What remains in Traditional and Roth, and what withdrawals will be taxable later? We care about the money left to use, not just the total tax paid.
 
@@ -57,20 +67,28 @@ Choose the version whose benefit is worth its cost to you. If paying the extra t
 
 Review the conversion amount and its tax funding before submitting it to the custodian. Then keep the confirmation and tax records. For a schedule covering several years, use the multi-year conversion lesson before settling the amounts.
 
-### Visual and source notes — not spoken
+### Source and production notes — not spoken
+
+Source-led condensation of lessons 5.3, 5.4, 5.5. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../delivery/consolidation.md](../delivery/consolidation.md) and the source hashes in [../production/consolidation.json](../production/consolidation.json).
+
+Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
+
+#### Retained 5.3 — Visual and source notes — not spoken
+
+Tax deck Steps 2–4 and 7: use the treatments already taught, map ordinary-income windows, explain marginal brackets and the strict-order trap. Current account/birth-year/employment RMD rules override old fixed-age generalizations. No bracket amount or automatic conversion rule. The uploaded video contributes delivery only; its 0% thresholds and unconditional retirement-access claims are not used.
+
+#### Retained 5.4 — Visual and source notes — not spoken
 
 Tax deck Step 5 and current D48 comparison: total after-tax resources, liquidity, RMDs and healthcare beside current tax. New generic opportunity-cost illustration explicitly starts with $30k Traditional+$6k outside; conversion uses $6k; both relevant investments hypothetically double; no-conversion after-tax totals at20/30/10%=60k/54k/66k versus qualified Roth60k. Extra outside taxes/fees/return differences deliberately omitted, so not a real strategy result. Source $30k/$6k never becomes Reed computed liability. Preserve nondeductible-basis/pro-rata review, RMD exclusion, separate conversion/access clocks, irreversible conversion, planned/completed distinction. See IRS590-A,590-B current checks.
 
-### Production notes
-
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
-
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
-
-### Source-based technical check — not spoken
+#### Retained 5.4 — Source-based technical check — not spoken
 
 September 8, 2026: P04; S2, S8. Verify Form 8606 definitions/year-end values per owner, relevant distribution amounts, withholding, valid rollover replacement and additional-tax exceptions. Source illustrations are not actual tax liabilities. See [the technical review](../delivery/professional-topic-review.md). These are source-backed clarifications; licensed sign-off, actual inputs and execution remain separate.
 
+#### Retained 5.5 — Visual and source notes — not spoken
+
+Tax deck Steps6–8. New paired20k/16k gain/loss explanations are mechanisms, not recommended trades or new Reed lots. No perpetual direct-Bitcoin immediate-repurchase promise. Current IRS550 and digital-asset FAQs govern classification/identification; Notice2026-20 extends specified broker-held identification relief through2026 for eligible taxpayers and contemporaneous records, not all assets/wallets or retroactive choices. Keep this dated fact in production reference, not fixed evergreen speech. Form8949 TAX DATA export is not filedForm8949. Exact transaction terms and professional review remain required.
+
 ### Member checkpoint
 
-When a conversion is relevant, compare it with your current plan in Orange Plan while keeping the same spending and investment assumptions. Check the money paying the tax, the cash left for the early years and what each version leaves later. Compare a smaller conversion when useful. Keep the current plan if the change does not help or a needed fact is still missing.
+Compare withdrawal and conversion timing with current and future tax, access and healthcare effects; identify the separate tax-payment source.

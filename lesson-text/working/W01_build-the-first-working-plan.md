@@ -10,7 +10,7 @@ Sources: FOUNDATION, DICTATION, APP
 
 ### For your situation — recording route, not spoken
 
-- After 1.4, [A1.1](../advanced/A1-1_test-an-assumption-without-making-the-model-tell-you-what-you-want.md): You need custom assumptions or a holding-specific model to answer a planning question. Complete before relying on the custom assumption or override. Return to W01 chapter 8, then lesson 1.5.
+- After 1.4, [A1.1](../../reference/custom-assumptions.md): You need custom assumptions or a holding-specific model to answer a planning question. Complete before relying on the custom assumption or override. Return to W01 chapter 8, then lesson 1.5.
 
 ### Run sheet
 

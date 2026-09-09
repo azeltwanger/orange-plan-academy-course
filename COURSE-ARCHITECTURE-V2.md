@@ -1,15 +1,13 @@
-# Guided Academy architecture
+# Guided course — current recording structure
 
-The canonical teaching sequence is Start Here, then ten guided plan-building sessions: First working plan; Cash flow, reserve and life events; Debt and leverage; Allocation and the next dollar; Tax strategy; Retirement paycheck; Custody; Family handoff; Maintenance; Read and share your plan.
+The member follows 25 main teaching recordings and uses eight For your situation recordings only for the applicable decision. Ten app working sessions and one device demonstration supply separate application/capture segments, not another required sequence of lectures.
 
-Each session teaches the decision, explains the mechanism, works through the fictional Reed household, and gives the member a completion check. The associated app chapters put the decisions into the correct place. Build & improve guides implementation; it is not a second editor or a fixed promise about the order of tasks the application will show.
+The main sequence remains Start Here and First Plan; Cash Flow, Reserve and Life Events; Debt; Allocation; Tax; Retirement Income; Custody; Family; Maintenance; Final Review. Consolidation changes the number of videos inside that sequence, not the purpose of the program.
 
-Debt precedes final allocation because extra debt payments change the cash available to invest. Allocation then moves from the current portfolio through the whole-household target, timeframe needs, contribution waterfall, account eligibility, Traditional versus Roth, holdings inside each account, and the outside execution list.
+A lesson leads from a recognizable problem through an early worked example or specific consequence into a useful decision. Use no more new ideas than the explanation can support. Change a fact in the same example when it teaches why the answer differs. Do not manufacture personal results or money-loss stories. The accepted Reserve stays intact.
 
-Core teaching contains 51 clips, including optional college planning. The conditional Advanced library contains 15 clips. Ten app working sessions and one external device demonstration are captured separately. Exact playback chapter placement is in FILM-ORDER.md; script identities and hashes are in COURSE-MANIFEST.json.
+Application means using the member's own Orange Plan. There is no extra homework, quiz, practice household, required post or submitted explanation. Actual provider, legal and safe recovery actions remain distinct from a recorded intention.
 
-The worksheets support decisions and record follow-through. They do not substitute for app-generated projections, legal documents, professional tax review, actual insurance quotes, provider contracts or tested recovery. A fictional arithmetic example is labeled as such.
+Record clean scripts first. Add text, graphics and footage in editing. No slides need to be prepared for Austin to record. Capture actual app workflows separately when the relevant screens and model results are verified.
 
-Talking-head narration and graphics added in editing are supported. The existing decks provide conceptual visual references; visuals/GUIDED-EDIT-MAP.md is an edit brief, not a completed graphics package. Product-dependent footage remains held until matching capture receipts prove the released behavior.
-
-All new wording is an Austin-review draft. Current dictation and owner decisions govern tone and planning judgment; accepted app contracts govern intended behavior; verified released behavior governs filmed claims. See AUSTIN-AUTHORITY.md and FINALIZATION-STATUS.md.
+`scripts/` is authoritative. Generated files are rebuilt from it. FILM-ORDER.md maps current chapters; production/consolidation.json accounts for each retired topic. The previous 65-script package and Allocation slide package are superseded production approaches, not additional active courses.

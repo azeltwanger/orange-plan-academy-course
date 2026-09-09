@@ -1,22 +1,19 @@
-# A3.1 — Plan how to manage a Bitcoin-backed loan
+# A3.1 — Manage a Bitcoin-backed loan, including repeat borrowing
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
-
+Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
 Kind: conditional
 Gate: TAX_LENDING_REVIEW
-Sources: DEBT, BRAIN, PRIMARY, APP
-Use when: You have, or are seriously considering, a Bitcoin-backed loan.
+Sources: APP, BRAIN, DEBT, PRIMARY, RETIREMENT
 After lesson: 3.6
-Complete before: Complete before borrowing or relying on a collateral-response plan.
-Return to: W03 chapters 5–6, then lesson 4.1
+Use when: You have or are considering a Bitcoin-backed loan, including repeat borrowing.
+Complete before: Complete before pledging Bitcoin or relying on loan proceeds.
+Return to: your debt plan, then Allocation; revisit beside retirement funding when relevant
 
 ### Read aloud
 
 A low starting loan-to-value ratio can stop describing the loan you actually have. Interest accumulates, collateral changes, and the lender's agreement still governs what happens.
 
-Have the loan agreement ready. We'll put its balance, dates, and response rules on one sheet so you know what to monitor and what to do.
+Use the actual agreement for the loan you're considering or managing. Start with the full balance, collateral, dates and the response each contract event requires.
 
 Read the full balance, not just the original principal. Record interest treatment, fees, maturity, collateral quantity, price source and the actual warning, collateral-call and liquidation provisions. Those are separate contract events. A notice is not a promised grace period unless the agreement actually provides it.
 
@@ -38,23 +35,55 @@ Then test the principal exit. If repayment depends on refinancing, what happens 
 
 Add the operational failure case too. A provider interruption can affect access even when LTV is low. Confirm the actual rights, custody structure and available response; the simulation doesn't supply a counterparty guarantee.
 
-Finally, name the person monitoring the sheet and the backup person who knows the first steps. Keep secrets out of it. The sheet should point to verified contacts and safe instructions, not contain private keys or complete recovery material.
+Borrowing once for a temporary need is different from borrowing every year to fund retirement. A recurring strategy has to carry the earlier loans while adding the next year's spending.
 
-Review the actual contract and tax treatment before borrowing or changing collateral. Check that the sheet includes the full balance, relevant dates and thresholds, and the cash or collateral for each response. The lender's rights still depend on the agreement; the sheet doesn't guarantee time to act.
+Continue the same hypothetical $25,000 loan and simplified 12% annual interest. At the end of year one, $28,000 is owed. Suppose you borrow another $25,000 at the beginning of year two. That makes $53,000 before interest. Adding 12% at year-end leaves $59,360 owed. You received $50,000 across the two years and added $9,360 of interest. Actual accrual, fees and rates can differ; this is not a lender quote or a loan the Reeds have taken.
 
-### Visual and source notes — not spoken
+Hold the spending need, starting assets and market assumptions constant. Compare the current sale-based policy with the proposed borrowing policy. For each year, read cash delivered, fees, interest paid or added, ending debt, collateral and the source of eventual repayment.
+
+Bitcoin might appreciate enough to support that strategy under the chosen assumptions. It might not. Compare a long flat period, an early decline and a higher interest path, not just a strong ending price.
+
+At each difficult year, ask whether the household could continue. Does the lender require more collateral? How much of the Bitcoin is now pledged? Is there cash to respond without taking money from essential bills? Could the agreement end before the assumed market recovery?
+
+The repayment source needs a date and an amount. Selling later, using another account, paying from income or refinancing are different plans. Refinancing is not guaranteed by the fact that the first loan was approved.
+
+A hybrid policy can combine sales and borrowing. For example, the household might sell a limited amount under a reviewed tax strategy and borrow for a remainder. Explain the actual sale, gain, tax and residual cash need. A policy name does not establish that every year's bill has been funded.
+
+Compare after-tax resources at matching dates. Borrowing preserves more assets initially but also leaves a liability. A sale reduces assets but avoids the new interest and collateral exposure. Looking only at Bitcoin retained or total gross assets can favor the wrong version of the household's position.
+
+Estate assumptions deserve particular care. Debt does not disappear because the plan ends at death. Basis treatment, estate obligations, beneficiary rules, legal ownership and settlement liquidity need review for the actual jurisdiction and assets. Don't build the result on a slogan about never selling or avoiding every tax.
+
+Provider failure and interrupted access may not be represented in the simulation. Record those limits separately. A favorable chance-of-success output is not a probability that a lender will remain solvent or honor a hoped-for extension.
+
+Keep a borrowing proposal separate until you choose it. Alex and Morgan do not already have a Bitcoin-backed loan, so we are testing a possible strategy rather than reading an existing obligation.
+
+Choose the funding approach after reading the debt, collateral, and repayment path. Write down when you would stop adding debt or reduce it. You may decide recurring borrowing asks more of the household than you are willing to carry.
+
+Keep the chosen limits and dates with the debt record. Name who monitors the loan and who can begin the safe response when that person is unavailable. No wallet secrets belong in those instructions. Then return to the spending or financing decision that brought you here.
+
+### Source and production notes — not spoken
+
+Source-led condensation of lessons A3.1, A6.2. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../../delivery/consolidation.md](../../delivery/consolidation.md) and the source hashes in [../../production/consolidation.json](../../production/consolidation.json).
+
+Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
+
+#### Retained A3.1 — Visual and source notes — not spoken
 
 Preserve25k×1.12=28k,28/50=56%,28/.8=35kand65%decline. Newresponsecomparisonrepay3k=>25/50=50%;add6k=>28/56=50%;personalratioillustrationnotrecommendedtrigger. Contractaccrual,fees,warning/call/liquidationanddiscretionmustbeverified. NoReedloanintroduced.
 
-### Production notes
-
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
-
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
-
-### Demonstration plan — not spoken
+#### Retained A3.1 — Demonstration plan — not spoken
 
 On a separate labeled operating sheet reveal25k→28k,50kcollateral,56%LTV;compare3krepayment versus6kcollateraladdition;theninspectactualreviewedcontractdatesandexit. Narration: “Both responses change the ratio, but one spends cash and the other exposes more collateral. Which resource is available without taking money from the bills?” Noapplicationorcollateralmovement.
+
+The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
+
+#### Retained A6.2 — Visual and source notes — not spoken
+
+Existing recurring-retirement-borrowing scope. New generic beginning-of-year loans of $20,000 with end-of-year simple 10% capitalization: year 1 $22,000; year 2 ($22,000+$20,000)*1.10=$46,200; total spending $40,000 and interest $6,200. This is not a lender rate quote, actual accrual method or adopted Reed loan. Preserve supported D63 behavior, contract risks, same net spending and after-tax comparison; no estate-tax guarantee.
+
+#### Retained A6.2 — Demonstration plan — not spoken
+
+Show the two-year $20,000 borrowing illustration separately from the app, then inspect a supported actual policy after a weak market and at repayment. Narration: “This year starts with last year's debt still outstanding. Add the next spending need and follow both the interest and the collateral before judging the ending wealth.” No loan application or claim that a lender remains available.
 
 The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
 

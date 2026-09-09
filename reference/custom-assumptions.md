@@ -1,6 +1,6 @@
-# A1.1 — Test an assumption without making the model tell you what you want
+# Task reference — Test an assumption without making the model tell you what you want
 
-Status: SPOKEN_EDIT_REVIEW — plain-language decision teaching with application in the member's own plan; owner review and actual capture remain separate.
+Status: TASK_REFERENCE — not a launch recording or required member assignment.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 

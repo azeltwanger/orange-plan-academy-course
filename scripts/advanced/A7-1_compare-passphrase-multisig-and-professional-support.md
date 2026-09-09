@@ -1,16 +1,13 @@
-# A7.1 — Compare passphrase, multisig, and professional support
+# A7.1 — Compare passphrase, multisig and professional support
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
-
+Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
 Kind: conditional
-Gate: DEVICE_CUSTODY_REVIEW
-Sources: CUSTODY, DICTATION, PRIMARY, OWNER
-Use when: You are choosing or changing a passphrase, multisig, or professionally supported custody arrangement.
+Gate: CUSTODY_REVIEW, DEVICE_CUSTODY_REVIEW
+Sources: BRAIN, CUSTODY, DICTATION, OWNER, PRIMARY
 After lesson: 7.1
-Complete before: Complete before moving meaningful funds into the new arrangement.
-Return to: W07 chapter 1, then lesson 7.2 and its safe recovery work
+Use when: You are considering a passphrase, multisig or professional custody support.
+Complete before: Complete before moving meaningful funds to the new arrangement.
+Return to: Protect access and verify recovery
 
 ### Read aloud
 
@@ -40,19 +37,29 @@ Keep secret material and sensitive configurations out of ordinary course notes. 
 
 Choose the arrangement that fits your control and family-access needs, and identify the safe test still required. If the added complexity doesn't solve a meaningful problem, keep the simpler setup.
 
-### Visual and source notes — not spoken
+### Source and production notes — not spoken
+
+Source-led condensation of lessons A7.1, A7.3. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../../delivery/consolidation.md](../../delivery/consolidation.md) and the source hashes in [../../production/consolidation.json](../../production/consolidation.json).
+
+Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
+
+#### Retained A7.1 — Visual and source notes — not spoken
 
 Original custody framework and current passphrase/multisig mechanics, not a wealth-based ladder. Independent keys plus configuration and usable recovery tools are required; duplicating one key is not creating multiple independent signers. Recovery on a practice setup does not certify funded holdings. Current BIP39 and actual vendor/professional procedures control execution. Sensitive descriptors and extended keys are not ordinary public worksheet content.
 
-### Production notes
-
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
-
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
-
-### Demonstration plan — not spoken
+#### Retained A7.1 — Demonstration plan — not spoken
 
 Use non-secret architecture diagrams and one named missing component. Show what information and independent keys remain. Narration: “The improvement has to survive the failure we chose. Another copy of the same key solves a different problem from another independent signer.” Any live training test uses separately authorized small-value setup and current instructions.
+
+The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
+
+#### Retained A7.3 — Visual and source notes — not spoken
+
+New generic provider allocation 30%+30%=60% shared exposure with 40% direct. Exposure is not loss probability or guaranteed loss. Brand-level independence must be checked against actual custody/recovery arrangements. Public map omits secret locations/configuration; a legitimate independent recovery path needs evidence.
+
+#### Retained A7.3 — Demonstration plan — not spoken
+
+Highlight the common custodian in two hypothetical 30% allocations; remove it from the map and separately inspect the 40% direct recovery claim. Narration: “There are two provider names, but this failure affects both. We are measuring shared exposure, not predicting a loss.” Verify real independence outside the diagram.
 
 The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
 

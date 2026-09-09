@@ -1,12 +1,9 @@
-# 9.1 — Keep a quiet month simple
+# 9.1 — Keep the plan current without starting over
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
-Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
-App references: accepted redesign direction; final screen behavior requires capture evidence.
-
+Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
 Kind: teach
 Gate: APP_CAPTURE
-Sources: MAINTENANCE, MAINTENANCE_DECK, CLIENT_THEMES, APP
+Sources: APP, CLIENT_THEMES, FOUNDATION, MAINTENANCE, MAINTENANCE_DECK, RETIREMENT, REVIEW
 
 ### Read aloud
 
@@ -17,8 +14,6 @@ A quiet month can end with no strategy change. That's the plan doing its job, no
 Start with what actually happened since the last update. New purchases, sales, transfers, or debt changes need to agree with the current records. A change in market price is not a new purchase. Money moved between your own accounts is not automatically new income.
 
 Update the plan from your records, then check what changed. If an import or connection already added a transaction, don't add it again. If all you know is the new account value, keep the missing history separate rather than make up purchases to explain the balance.
-
-Then review income and spending. Was there a meaningful change, or just normal timing? A paycheck arriving one day later can change a month-end bank balance without changing the salary. A new ongoing bill may require a real revision to spending.
 
 Take an ordinary example. A retirement contribution went through payroll, but the receiving account still shows the money in cash. Before changing the contribution amount, check whether the investment instruction was completed. The problem may be execution, not saving too little.
 
@@ -32,24 +27,68 @@ Read the result's date and status after updating. Make sure it includes the chan
 
 Then choose the action, if one is needed. Fix an incomplete purchase instruction. Gather a missing statement. Recheck the affordability of an upcoming expense. Keep it specific and small enough to finish.
 
-Some months need one correction. Others need none.
-
 For loans or other time-sensitive obligations, follow their own monitoring schedule. A collateral issue cannot wait for the monthly review just because this is the usual household routine. The debt operating rules still apply.
 
-Let's do an ordinary monthly review. Check the changes and whether they require an action. If everything is current and the plan still fits, you can stop.
+Once a year, look at how the choices fit together—not just whether this month's records are correct.
 
-Date the update and keep the latest plan backup privately. The annual review is when we'll revisit how all the decisions fit together.
+Begin with spending and the Reserve. If retired, read the policy status and compare the coming year's spending using the process from Retirement Income. Check what any change means for withdrawals and the refill. If still working, review whether the Reserve target and funding pace still fit the household.
 
-### Visual and source notes — not spoken
+Next, look at Allocation. Has the mix drifted, or has the purpose of some money changed? A purchase getting closer can turn a long-runway investment question into a funding question. Compare new contributions or a specific change before selling simply to make the chart look tidy.
+
+Then check Debt. Are the rate, principal, payment and maturity still what the plan assumes? Is the repayment source still credible? A loan-specific threshold needs its regular monitoring; the annual pass checks whether the broader strategy still fits.
+
+For Tax, update the current year's income picture and the next important windows. Is a conversion, gain, loss or required distribution relevant? Bring the actual records and proposed actions to the appropriate review before the deadline, rather than discover them after filing season begins.
+
+Custody is the next area. Has a provider, device, key arrangement, authentication method or helper changed? Does the existing recovery evidence still apply to this setup? You do not need a destructive live-wallet test merely to tick an annual box. Review the evidence and perform only the appropriate safe check for what changed.
+
+Finally, review the family documents, ownership, beneficiaries and insurance. Do the people and contacts still agree to their roles? Can the safe starting instructions be found? A change in a relationship, child, jurisdiction or account can require a specific update even when the financial projection still looks fine.
+
+Here's an example of why the sequence matters. Suppose a debt ended during the year and its payment remained in checking. First confirm the debt is actually gone. Then review whether the Reserve is funded and which contribution destination now deserves that money. Update the instruction and verify the first purchase. You don't need a new complete portfolio design to solve that gap.
+
+After reviewing the areas, read the updated plan as one whole. Are the same dollars still being assigned once? Do the chosen spending and contribution amounts fit? Are any new comparisons accidentally mixed into Current?
+
+Choose only the changes you intend to adopt. For each outside action, record who is responsible and when it will be done. Keep the previous dated version so you can explain what changed and why.
+
+Don't wait for that date when life changes or a number stops making sense.
+
+Start by distinguishing a real-life change from a data problem and an idea you are only considering. They lead to different actions.
+
+A job loss is a changed fact. A missing account balance is a record to repair. A possible career break is a scenario. If you treat all three as a reason to edit every strategy setting, the plan quickly becomes impossible to follow.
+
+Suppose household income falls. Update the actual source and its timing, then check bills, required payments, the Reserve and extra contributions. The immediate response may be to pause optional transfers while keeping essentials funded. Don't wait for the annual review to acknowledge that the old surplus is gone.
+
+For an unexpected result, trace it before changing the plan. Which input, date, account, tax assumption or funding rule produced the number? Is the calculation current? Did an expense appear twice, or did a future event remain after the change became part of today's spending?
+
+A tax result that differs from your expectation needs the same discipline. Read the income and sale basis before editing a rate. It may be a real consequence, a missing record, or something requiring professional or product support. You don't need to pretend you know which until the evidence makes it clear.
+
+When the change is only an idea, compare it separately. Record what would change and what stays fixed. After reading the effect, decide whether to adopt it. A saved baseline should describe what you intend to follow, not every possibility you have ever tried.
+
+When asking for help, make the question easy to investigate. State the result you expected, the result you saw, the relevant date and input, and the decision it blocks. Share only the information the question needs. A full unredacted backup or wallet secret is not a normal support attachment.
+
+Don't make several compensating edits to recover a preferred percentage. That can hide the original error and introduce more. Keep a before-and-after record of the one correction, then check the downstream result.
+
+If the issue affects a time-sensitive bill, loan threshold or tax deadline, address that practical obligation through the proper channel while the planning discrepancy is being resolved. An app investigation doesn't extend a contract or filing deadline.
+
+Set your next review and handle the current action. When the facts are right and nothing needs changing, you're finished for now.
+
+### Source and production notes — not spoken
+
+Source-led condensation of lessons 9.1, 9.2, 9.3. Retained paragraphs come from the latest owner-delivered script-first draft; new transitions are editorial proposals, not prior Austin dictation. See [../delivery/consolidation.md](../delivery/consolidation.md) and the source hashes in [../production/consolidation.json](../production/consolidation.json).
+
+Record narration first; text and graphics follow in editing. No slides, homework, quizzes, submissions or separate practice portfolio. Apply the teaching to the member’s own Orange Plan. Actual app/device capture and targeted transaction checks remain separate. This edit does not execute a financial action or establish a learner outcome. The existing technical review retains its dated scope, not fresh research or licensed approval.
+
+#### Retained 9.1 — Visual and source notes — not spoken
 
 Maintenance deck monthlyactualchanges sequence, no universal5minpromise. Oneupdateandquietmonthcase. Preserve sourcecapability,duplicateprevention,pricevsquantity,actualvsproposed and resultfreshness. Loanmonitoringandsecurityurgentexceptions notmonthlygated.
 
-### Production notes
+#### Retained 9.2 — Visual and source notes — not spoken
 
-The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+Maintenance deck sixannualareas retained with latestrules: noautomaticforcedrebalance, noannualonlyloanmonitoring, nofundedwalletwipe, finiteReservefloor. Use existing AnnualPlanRefreshanddocuments. Currentpolicy,beneficiariesandownership verifiedratherthanregeneratedadvice.
 
-Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+#### Retained 9.3 — Visual and source notes — not spoken
+
+Maintenance re-evaluation workflow: actualchange/dataerror/scenario, sourceowner, onecorrection anddownstreameffect. No sensitive fullbackupbydefault; supportedprivatehelp routeonly. Appsupportdoesnotextendlegalorfinancialdeadlines. Do nothidebugwithcompensatingassumptions.
 
 ### Member checkpoint
 
-Complete the actual monthly changes, verify current result identity and select only the actions genuinely needed.
+Set the review date, update actual records, and apply relevant changes without restarting the plan or reacting to every price move.

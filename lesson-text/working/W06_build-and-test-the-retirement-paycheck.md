@@ -10,8 +10,8 @@ Sources: RETIREMENT, RETIREMENT_DECK, APP, PRIMARY
 
 ### For your situation — recording route, not spoken
 
-- After 6.3, [A6.1](../advanced/A6-1_compare-healthcare-and-tax-decisions-in-the-same-year.md): A withdrawal, gain, or conversion could change the cost or eligibility of healthcare coverage. Complete before adopting the affected income and coverage plan. Return to W06 chapter 3, then lesson 6.4.
-- After 6.6, [A6.2](../advanced/A6-2_test-a-multi-year-sell-versus-borrow-strategy.md): You are considering borrowing in more than one year to fund retirement spending. Complete before relying on recurring borrowing, not after the first loan. Return to W06 chapter 6, then lesson 6.7.
+- After 6.3, [A6.1](../06-3_price-healthcare-before-leaving-employer-coverage.md): A withdrawal, gain, or conversion could change the cost or eligibility of healthcare coverage. Complete before adopting the affected income and coverage plan. Return to W06 chapter 3, then lesson 6.4.
+- After 6.6, [A6.2](../advanced/A3-1_build-a-bitcoin-loan-operating-sheet-from-the-actual-contract.md): You are considering borrowing in more than one year to fund retirement spending. Complete before relying on recurring borrowing, not after the first loan. Return to W06 chapter 6, then lesson 6.7.
 - After 6.2, [A6.3](../advanced/A6-3_verify-an-early-retirement-account-access-route.md): Your plan relies on using retirement-account money before 59½. Complete before counting on the access route or making a rollover that could change it. Return to W06 chapter 2, then lesson 6.3.
 
 ### Run sheet

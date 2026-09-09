@@ -1,6 +1,6 @@
-# A5.3 — Compare the full cost of moving states
+# Task reference — Compare the full cost of moving states
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: TASK_REFERENCE — not a launch recording or required member assignment.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
