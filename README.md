@@ -1,5 +1,7 @@
 # Orange Plan Academy
 
+**Decision-learning pass — September 9, 2026:** Targeted plain-language explanations and thirteen different-case practice exercises now support applying the lessons to a member's own facts. [Simulated beginner review](delivery/decision-learning-review.md). This is an author-assisted written review, not a real participant study, verified sixth-grade reading score, live app test or claim that someone completed a retirement plan. Existing source-based technical corrections and actual capture holds remain.
+
 **Source-based technical review — September 8, 2026:** The tax, account-access, healthcare, lending, custody and estate/insurance topic check is documented in [the review packet](delivery/professional-topic-review.md). Sixteen bounded edits clarify ten lessons, with paired recording checks. The factual desk review is complete; licensed sign-off, actual app/device evidence and service-scope classification are not claimed. Existing publication gates remain unchanged.
 
 ## [Start reading the course](DICTATION-ORDER.md)

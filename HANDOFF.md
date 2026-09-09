@@ -1,5 +1,15 @@
 # Current handoff — member path and spoken-language cleanup
 
+## Current continuation — decision learning, not copying the example
+
+Austin asked to move forward with teaching how to decide and to simulate an adult beginner at roughly a sixth-grade reading level. This pass changes specific explanations, adds thirteen practice cases with reasoning checks and changed circumstances in existing Member checkpoints, and connects nine practical plans to their use. The first-pass facts and the answer checks are clearly authored, not a transcript of real participants. No simulated result is entered as member validation or app evidence.
+
+The [decision-learning review](delivery/decision-learning-review.md) records scope, concerns, exact case assumptions, source checks and remaining limitations. It does not reset the course or add a workbook. Different justified choices, including keeping the current plan, are acceptable. The accepted Reserve, W02, D07, original sources, fixed fixture, toolkit, technical review sections and existing capture register stay unchanged. The YouTube script remains a delivery reference only; no return, withdrawal, tax or account-lockup formula is imported.
+
+Read the revised section and its Member checkpoint together. Explanations should supply the reasoning before a task asks the member to apply it. Hidden-answer questions in the reading artifact are practice, not a certification exam. When tested with actual learners later, record assistance and errors rather than infer understanding from matching a sample allocation. Actual app routes, financial calculations, safe device procedures and owner voice approval remain separate.
+
+### Earlier completed passes, retained as history
+
 **Source-based technical review — September 8, 2026:** The tax, account-access, healthcare, lending, custody and estate/insurance topic check is documented in [the review packet](delivery/professional-topic-review.md). Sixteen bounded edits clarify ten lessons, with paired recording checks. The factual desk review is complete; licensed sign-off, actual app/device evidence and service-scope classification are not claimed. Existing publication gates remain unchanged.
 
 Austin accepted one main learning path with situation-specific lessons placed where the decision occurs, and asked for an AI-slop pass. This implements that decision without another curriculum reset or importing the retirement video’s financial assumptions.

@@ -6,7 +6,7 @@ Keep the household's spending, dates, contributions and accounts unchanged. Then
 
 A flat annual return, a declining schedule and a power-law path can produce similar averages while describing different years. The label is less important than the sequence it creates for the money you intend to spend.
 
-Expected growth is also different from uncertainty around it. A model's volatility, correlations and distribution assumptions affect the range and sequence of outcomes. Don't reduce uncertainty simply to make a desired retirement date pass. Use the current methodology to understand which controls are available and what they change.
+Expected growth is different from the range of possible results. Volatility describes how much returns swing. Correlation describes how investments move in relation to each other. The model also makes choices about how often it tests small and extreme changes. Those choices affect the outcomes. Don't make the test easier just to approve a retirement date. Check what the model actually supports before changing those assumptions.
 
 Now inspect the consequence. Does the slower path create an early funding gap, a larger later withdrawal, or a different taxable account balance? That tells you which household decision is sensitive to the assumption.
 

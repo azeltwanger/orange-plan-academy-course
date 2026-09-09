@@ -2,7 +2,7 @@ A retirement result can look promising because the plan assumes you're saving mo
 
 For this first pass, enter what you can support now. Cash Flow will do the fuller spending review. We are not deciding which expenses to cut or which debt to accelerate yet.
 
-Start with each person's income. Identify the source, amount, and timing. For employment, check whether the field asks for gross income or take-home pay. Your bank deposit is after the deductions on the pay stub. If you enter it as gross income and subtract those deductions again, the result will be wrong.
+Start with each person's income. Identify the source, amount, and timing. Gross pay means pay before taxes and other deductions. Take-home pay is what remains after those amounts come out. Match the number to the field being filled. Your bank deposit is already take-home money; subtracting its payroll deductions again would count them twice.
 
 For a business, first ask what has already come out of the amount you're using. Sales, profit, and cash available to the household are different. Morgan's example income is after ordinary operating costs but before the equipment-loan payment shown separately. Your records may use a different convention. Follow what your number includes.
 
@@ -12,7 +12,7 @@ Keep required debt payments in their own debt records when the plan counts them 
 
 Then look at money already going into investments. A payroll retirement contribution uses household pay before the remainder reaches checking. An employer match adds retirement money, but it isn't cash the family can spend.
 
-Alex earns $155,000 a year and contributes 6% in the fictional example. That is $775 a month. The employer's stated formula adds another $387.50. We will keep those two sources separate.
+Alex earns $155,000 a year and puts 6% into his workplace plan. Six percent means six dollars out of each hundred. On a calculator, $155,000 times 0.06 is $9,300 a year. Divide by twelve, and that is $775 a month. The employer's formula adds another $387.50 a month. Keep his money and the employer's money separate.
 
 Here is the original cash-flow bridge on screen. After the income, illustrative tax provision, living costs, and required debt payments, the Reeds have $1,275 before Alex's contribution. His $775 leaves $500 for other priorities.
 
@@ -24,7 +24,7 @@ Now give the retirement calculation a question to answer. When do you want to re
 
 Alex would like work to be optional at 52. Entering that age records the intention. It doesn't establish that the plan can fund it. Morgan has a separate work timeline; one person's retirement date should not silently end both incomes.
 
-Start a retirement-spending estimate based on the life you expect. Some work costs may disappear. Travel, healthcare, or family support may increase. Include the items you know and flag the estimates that need more work. We will build the detailed retirement paycheck later.
+You don't have to know your final retirement budget yet. Start with what your life costs now. Subtract costs you expect to stop and add costs you expect to begin. Some work costs may disappear; travel, healthcare, or family support may increase. Keep an uncertain amount marked as an estimate rather than use zero. We will check and improve this first budget as we go.
 
 Use actual Social Security or pension estimates when you have them, attached to the right person and start date. Don't insert an assumed benefit to fill a shortfall. An unverified income source is a question to answer, not funding you can rely on yet.
 

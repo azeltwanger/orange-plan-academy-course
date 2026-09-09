@@ -1,6 +1,6 @@
 # 6.1 — Define spending, reliable income, and the gap
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -9,6 +9,7 @@ Gate: OWNER_REVIEW
 Sources: RETIREMENT, RETIREMENT_DECK, BRAIN, MASTER
 
 ### Read aloud
+
 
 A large retirement balance doesn't tell you how next month's bills get paid after your paycheck stops. You need to know how much your life costs, which income continues, and what the portfolio has to provide.
 
@@ -20,7 +21,7 @@ Keep essential and flexible spending visible. That doesn't mean you plan to cut 
 
 Add known irregular costs at the right dates rather than pretend retirement is the same month repeated forever. A roof, vehicle, family gift, or college commitment can make one year meaningfully different.
 
-The course's starting illustration uses $96,000 of living expenses and $12,000 of healthcare: $108,000 before the other items we still need to reconcile. It also has $40,000 of gross income. The rough difference is $68,000.
+Start the example with $96,000 of living costs and $12,000 for healthcare. That adds up to $108,000. There is also $40,000 of income before tax. Subtract it, and the rough gap is $68,000. Keep that number in view while we add the costs not counted yet.
 
 That subtraction is useful, but it isn't yet the final withdrawal amount. We have compared gross income with only part of the cash outflow. Taxes, required debt, and other costs can change what the portfolio has to supply.
 

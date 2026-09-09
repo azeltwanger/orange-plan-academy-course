@@ -1,6 +1,6 @@
 # 2.1 — Find the amount your plan actually has available
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original materials identified below and the unchanged Reserve reference in Lesson 2.3. Prior drafts remain in Git history.
 App references: concepts prepared independently of screen layout; exact behavior and outputs remain unverified until capture.
 
@@ -92,6 +92,31 @@ Source context and current repair progress are in `HANDOFF.md` and `FINALIZATION
 
 ### Member checkpoint
 
+
 - Trace income through deductions, spending, required payments and existing contributions.
 - Explain the spending period, annual bills and the difference between a purchase and its settlement.
 - Identify a reliable available amount or a specific shortfall, and account for bill/payday timing before adding transfers.
+
+#### Try a different case
+
+These are practice facts, not another part of the Reeds' plan. Use a calculator as needed. Try the question before opening the reasoning.
+
+In a separate practice household, $6,000 reaches checking each month. A $400 workplace retirement contribution already came out of pay before that deposit. Regular spending from checking is $4,500, including required debt payments. A $1,200 annual bill is not included. There are no other costs or transfers in this simplified case.
+
+**Your question:** Use a calculator to find the monthly amount left after allowing for the annual bill. Does the $400 workplace contribution need to come out of the bank deposit again?
+
+<details>
+<summary>Check the reasoning</summary>
+
+$1,200 divided by 12 is $100 a month. $6,000 minus $4,500 minus $100 leaves $1,400. Do not subtract the $400 again: the deposit is after that contribution. The household is already saving that $400. The $1,400 is available for decisions, not permission to assign it several times.
+
+</details>
+
+<details>
+<summary>Now change one circumstance</summary>
+
+Now a bank review shows that the $4,500 already included the $100 monthly allowance for that annual bill. Remove the duplicate allowance; the remainder is $1,500. Fix what the spending number includes rather than inventing more income.
+
+</details>
+
+**Use your own plan:** Trace your actual deposits and costs. Before choosing a new transfer, explain what is already deducted and which irregular bills still need an allowance. A real shortfall or unresolved mismatch stays visible.

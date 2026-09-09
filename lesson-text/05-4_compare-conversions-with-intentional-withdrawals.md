@@ -1,6 +1,6 @@
 # 5.4 — Compare conversions with intentional withdrawals
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -10,9 +10,8 @@ Sources: TAX, TAX_DECK, RETIREMENT, PRIMARY, APP
 
 ### Read aloud
 
-As a Traditional account grows, more money may eventually need to come out as taxable income. Let's compare whether using a lower-income year for a conversion would help—and what paying that tax now would cost.
 
-A Roth conversion is one way to address that. But “more money in Roth” is not enough reason to convert. We need to compare what the conversion costs now with what it changes later.
+Should you move some Traditional retirement money into Roth? A lower-income year may be a useful time to compare it. We'll look at the tax paid now and what each choice leaves later. More money in the Roth account is not enough to show that the household is better off.
 
 A conversion moves money from Traditional treatment into Roth treatment. The taxable portion is generally included in income for the conversion year. The converted amount is not also available to pay the household's bills.
 
@@ -52,7 +51,9 @@ Required distributions must be satisfied separately; that amount cannot be conve
 
 Also understand that a completed Roth conversion generally cannot be undone by recharacterizing it back to Traditional under current rules. A speculative choice based only on an expected market rebound deserves careful review before moving the money.
 
-Choose an amount or range to compare, identify the account that pays the tax, and check what you expect to gain later. You may decide not to convert this year because the cost doesn't fit.
+Start with no added conversion as one choice. Then test an amount whose tax you could pay from money not already needed for bills or another commitment. Compare a smaller amount too. Read the cash used now and what remains later in each version.
+
+You aren't looking for a number to copy. Choose the version whose benefit is worth its cost to you. If the extra tax would leave the early retirement years short, a smaller conversion or no conversion may fit better.
 
 We'll keep the spending money, conversion, and tax payment visible together. Review the amount before submitting it to the custodian, then keep the confirmation and tax records. For a schedule spanning several years, use the multi-year conversion lesson before settling the amounts.
 
@@ -72,4 +73,29 @@ September 8, 2026: P04; S2, S8. Verify Form 8606 definitions/year-end values per
 
 ### Member checkpoint
 
+
 Compare no change, spending withdrawal and conversion on consistent funding assumptions; record a considered amount/range and tax source or a reason to decline.
+
+#### Try a different case
+
+These are practice facts, not another part of the Reeds' plan. Use a calculator as needed. Try the question before opening the reasoning.
+
+Use the lesson’s simplified $30,000 conversion with $6,000 of additional tax paid from separate assets. The comparison without a conversion keeps those separate assets invested. All other assumptions remain as stated in the lesson.
+
+**Your question:** Explain why comparing only the final Roth and Traditional balances is incomplete. Then identify the current money used for tax.
+
+<details>
+<summary>Check the reasoning</summary>
+
+The tax-payment assets have a cost too: the no-conversion version keeps them and their later growth. Compare total after-tax resources and usable early money, not just the bigger Roth account. Equal assumed tax rates in the simplified doubling example produce equal total spendable amounts; that is not a prediction that real strategies always tie.
+
+</details>
+
+<details>
+<summary>Now change one circumstance</summary>
+
+Now only $4,000 is available for additional tax after other commitments. The assumed $6,000 bill is $2,000 short. A smaller conversion, waiting or another genuinely available source needs comparing. Do not guess a new conversion amount by scaling a real tax bill without recalculating it; marginal rates and other effects can change.
+
+</details>
+
+**Use your own plan:** Compare no conversion and a manageable proposed amount using the same life and assumptions. Name the tax source, what using it gives up and what could make a different amount preferable. The correct conclusion can be no conversion.

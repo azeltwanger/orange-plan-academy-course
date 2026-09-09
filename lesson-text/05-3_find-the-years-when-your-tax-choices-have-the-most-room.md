@@ -1,6 +1,6 @@
 # 5.3 — Find the years when your tax choices have the most room
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -9,6 +9,7 @@ Gate: TAX_REVIEW
 Sources: TAX, TAX_DECK, BRAIN, PRIMARY
 
 ### Read aloud
+
 
 You may pay a high tax rate while working and have a very different income picture after you retire. That difference can create an opportunity—but only if you notice it before the window passes.
 
@@ -28,7 +29,9 @@ A generic example shows what to look for. Imagine a household whose employment i
 
 That period is worth comparing with the later years. It may be useful to take an intentional Traditional withdrawal for spending, convert some money to Roth, realize a gain, or leave the room unused. The next lesson will show how to compare those choices.
 
-First, understand what a bracket means. With marginal ordinary-income brackets, moving some income into the next bracket does not generally move every earlier dollar into that higher rate. Think of filling layers rather than replacing the rate on the whole stack.
+A tax bracket is a range of income taxed at a given rate. Moving some income into the next ordinary-income bracket does not generally move all the earlier income to that higher rate.
+
+Use a made-up two-step tax to see why. Suppose the first $10,000 is taxed at 10%, and the next $1,000 at 20%. That's $1,000 of tax on the first part and $200 on the next, for $1,200 total. It isn't $2,200 from taxing the whole $11,000 at 20%. These are not actual tax brackets. They show why we ask what the next part costs.
 
 But the bracket alone may not describe the total cost of another dollar. Income can affect deductions, credits, healthcare assistance, Social Security taxation, or later Medicare premiums. The useful calculation is the change in the household's total cost when the proposed income is added.
 

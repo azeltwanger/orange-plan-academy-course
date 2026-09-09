@@ -1,6 +1,6 @@
 # 6.4 — Choose account withdrawals and asset sales separately
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
@@ -9,6 +9,7 @@ Gate: TAX_REVIEW
 Sources: RETIREMENT, RETIREMENT_DECK, TAX, APP, PRIMARY
 
 ### Read aloud
+
 
 Once you know the spending gap, you still need to decide where the money comes from. “Take it from investments” leaves two decisions unfinished: which account provides it, and what gets sold inside that account?
 
@@ -22,7 +23,7 @@ Then choose the assets or lots used inside the selected account. The account ord
 
 Consider the earlier $20,000 taxable sale with $16,000 of basis. It realizes a $4,000 gain before adjustments. A fully taxable $20,000 Traditional withdrawal has different income treatment. You can't compare them by assuming both create $20,000 of gain—or by pretending both provide $20,000 after all taxes.
 
-An account order is useful as a starting rule. It saves you from inventing the paycheck every month. But an order that never considers the tax year can create an avoidable problem.
+An account order says which account you intend to use first and which follows. A blend uses more than one account for the same year's spending. Neither is best just because it has a name. Compare whether it supplies the cash you need, what tax it creates, and what money it leaves for later.
 
 Imagine funding every early year from taxable assets because the tax is low. The Traditional account continues growing. Later, taxable assets run down, benefits begin, and more spending has to come from Traditional withdrawals. Required distributions may add to that income.
 

@@ -56,7 +56,7 @@ The more important it is that the full amount be there on a particular date, the
 
 Let's add one expected expense and one income change, then open the period they affect. Did the expense appear when intended? What income was available, and which account covered the rest? Check what remains afterward, not just whether the retirement date moved.
 
-That is more useful than only looking at whether the retirement date moved. A plan may still show the same retirement timing while asking you to sell an investment or take on a payment you wouldn't be comfortable with.
+The retirement date might stay the same even though funding the purchase requires a sale or a loan you wouldn't choose. Read that trade-off before deciding.
 
 Finally, remember to update an event when it happens.
 

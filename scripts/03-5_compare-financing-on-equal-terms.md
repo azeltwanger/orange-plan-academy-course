@@ -1,6 +1,6 @@
 # 3.5 — Compare financing on equal terms
 
-Status: SPOKEN_EDIT_REVIEW — line-edited for direct spoken teaching; examples and planning decisions retained. Owner voice approval and filming remain separate.
+Status: SPOKEN_EDIT_REVIEW — targeted decision-learning edit and/or member practice; owner review, real learner testing and capture remain separate.
 Adapted source: current Core same-project and repayment examples; original strategic-debt scope and teaching sources recorded in HANDOFF.md.
 App references: actual offers, contract-specific modeling and outputs require separate verification.
 
@@ -9,6 +9,7 @@ Gate: LENDING_REVIEW
 Sources: DEBT, OWNER, BRAIN, PRIMARY
 
 ### Read aloud
+
 
 A financing offer can look attractive because of the monthly payment. But a small payment doesn't tell you how much the arrangement costs, how long you will carry it, or what you still owe at the end.
 
@@ -44,7 +45,7 @@ Interest-only can have a purpose. It might preserve cash during a period when th
 
 When you compare offers, include the fees and check whether they are paid upfront or added to the amount owed. Look at the rate, how it can change, the payment schedule, and the cost of ending the loan early. A zero-interest promotion also needs its full terms reviewed; an introductory label doesn't explain what happens when the promotional period ends.
 
-Different funding sources bring different questions. You only need to investigate the ones that fit your decision, but I want you to recognize what makes them different.
+Before looking at loan types, put two realistic ways to pay for your purchase side by side. For each, note the cash used now, the payment, what remains owed later, and what secures it. That gives the details below a purpose. You don't need to collect an offer for every type of loan; find the terms that matter to your actual comparison.
 
 With a conventional personal, auto, or equipment loan, start with the repayment schedule and what secures it. A longer term can make the payment smaller while keeping you in debt longer. A lower payment may still be useful; just understand how much comes from a better rate and how much comes from spreading repayment over more time.
 

@@ -14,7 +14,9 @@ Those are the questions we're going to answer in this program.
 
 It took me four years of holding Bitcoin to realize what I was missing. I had an investment strategy, but I didn't have a financial plan where I could see everything in one place. Buying an asset and understanding how it will support your life are different things.
 
-We'll work through one decision at a time. I'll explain it, show you an example, and then help you do the same in your plan. Each section builds on the one before it.
+We'll work through one decision at a time. I'll explain the choices and show why a household might prefer one. Then you'll compare the choices that fit your life. Your answer does not have to match the example.
+
+Use a calculator and pause when you need to. This is not a test of mental math. What matters is knowing which numbers to use, what the result means, and what you would do with it.
 
 Start with what you want the money to make possible. You might want to retire, reduce your hours, change careers, or spend more time with your family. Give that goal an initial date and spending amount. We need something specific to test, not a date we have to make the numbers approve.
 
@@ -22,7 +24,7 @@ Our example household is Alex and Morgan Reed. They're fictional, and we'll use 
 
 We won't put their whole financial life on screen at once. We'll bring in the information needed for each decision. Your account list may be much simpler. Follow the reasoning, not the number of accounts they have.
 
-First, we'll get a believable starting picture. Then we'll establish what money is available, size the reserve, and decide what to do with debt. Allocation turns those decisions into a portfolio and contribution plan. Tax and retirement income explain how the money can eventually reach your bank account. Custody, family instructions, and maintenance make the plan usable beyond today.
+First, we'll get a believable starting picture. Then we'll work out what money is available, how much cash to keep for problems, and what to do with debt. Allocation means choosing your investment mix. That section helps you choose what to own and where new savings go. After that, we'll work out how the money can pay for retirement, how to protect access to your Bitcoin, and how to keep the plan useful as life changes.
 
 For example, choosing to invest more only helps if the cash flow supports it. Choosing a Roth account only solves the problem when that account fits the purpose and access you need. That's why the order matters. Each section uses a decision you've already made.
 
@@ -106,7 +108,7 @@ You might know the balance of every account and still not know what your househo
 
 We need to record the account and what it owns. Then we can add the investments together without counting any money twice.
 
-An account tells us who owns the money and the rules around it. A holding is the investment inside. A Roth IRA can hold stocks, a Bitcoin fund, cash, or other permitted investments. Knowing the account's name doesn't tell us which one you have.
+An account tells us who owns the money and the rules around it. A holding is the investment inside. An IRA is an individual retirement account. A 401(k) is a workplace retirement plan. You can copy the account type from your statement; you don't need to choose a new type now. A Roth IRA can hold stocks, a Bitcoin fund, cash, or other permitted investments. Its name doesn't tell us which investments you have.
 
 Let's look at Alex's Roth IRA. The example account is worth $145,000. It contains $116,000 of spot Bitcoin-fund exposure and $29,000 in stocks.
 
@@ -120,7 +122,7 @@ Sometimes the only reliable information is the total and a rough mix. That is st
 
 A connection to a provider can be incomplete too. It may supply the account balance without the investments or older purchase history. That does not mean the balance is cash. It means part of the picture still needs explaining. Read what actually arrived rather than assuming “connected” means every detail is complete.
 
-Direct Bitcoin has a quantity and a custody location. The wallet describes how you control or access it; Bitcoin is the asset. Keep a clear, non-secret name for each location. A spot Bitcoin fund remains a security in its account. Its dollar exposure can be combined with other Bitcoin exposure later, but it isn't native Bitcoin you can recover using a hardware-wallet backup.
+For Bitcoin itself, record how much you own and where you control or access it. That's the custody arrangement. Use a clear name for the location, without private recovery information. A spot Bitcoin fund is different: you own shares in a fund that holds Bitcoin. Those shares give you Bitcoin price exposure, but they are not coins you can recover with your personal wallet backup. Later we'll add the dollar amounts when reviewing your investment mix.
 
 Now separate today's position from the history behind it.
 
@@ -146,7 +148,7 @@ A retirement result can look promising because the plan assumes you're saving mo
 
 For this first pass, enter what you can support now. Cash Flow will do the fuller spending review. We are not deciding which expenses to cut or which debt to accelerate yet.
 
-Start with each person's income. Identify the source, amount, and timing. For employment, check whether the field asks for gross income or take-home pay. Your bank deposit is after the deductions on the pay stub. If you enter it as gross income and subtract those deductions again, the result will be wrong.
+Start with each person's income. Identify the source, amount, and timing. Gross pay means pay before taxes and other deductions. Take-home pay is what remains after those amounts come out. Match the number to the field being filled. Your bank deposit is already take-home money; subtracting its payroll deductions again would count them twice.
 
 For a business, first ask what has already come out of the amount you're using. Sales, profit, and cash available to the household are different. Morgan's example income is after ordinary operating costs but before the equipment-loan payment shown separately. Your records may use a different convention. Follow what your number includes.
 
@@ -156,7 +158,7 @@ Keep required debt payments in their own debt records when the plan counts them 
 
 Then look at money already going into investments. A payroll retirement contribution uses household pay before the remainder reaches checking. An employer match adds retirement money, but it isn't cash the family can spend.
 
-Alex earns $155,000 a year and contributes 6% in the fictional example. That is $775 a month. The employer's stated formula adds another $387.50. We will keep those two sources separate.
+Alex earns $155,000 a year and puts 6% into his workplace plan. Six percent means six dollars out of each hundred. On a calculator, $155,000 times 0.06 is $9,300 a year. Divide by twelve, and that is $775 a month. The employer's formula adds another $387.50 a month. Keep his money and the employer's money separate.
 
 Here is the original cash-flow bridge on screen. After the income, illustrative tax provision, living costs, and required debt payments, the Reeds have $1,275 before Alex's contribution. His $775 leaves $500 for other priorities.
 
@@ -168,7 +170,7 @@ Now give the retirement calculation a question to answer. When do you want to re
 
 Alex would like work to be optional at 52. Entering that age records the intention. It doesn't establish that the plan can fund it. Morgan has a separate work timeline; one person's retirement date should not silently end both incomes.
 
-Start a retirement-spending estimate based on the life you expect. Some work costs may disappear. Travel, healthcare, or family support may increase. Include the items you know and flag the estimates that need more work. We will build the detailed retirement paycheck later.
+You don't have to know your final retirement budget yet. Start with what your life costs now. Subtract costs you expect to stop and add costs you expect to begin. Some work costs may disappear; travel, healthcare, or family support may increase. Keep an uncertain amount marked as an estimate rather than use zero. We will check and improve this first budget as we go.
 
 Use actual Social Security or pension estimates when you have them, attached to the right person and start date. Don't insert an assumed benefit to fill a shortfall. An unverified income source is a question to answer, not funding you can rely on yet.
 
@@ -210,7 +212,9 @@ A more optimistic comparison can be useful too. Strong growth may change future 
 
 Check how the model treats the investments you own. A Bitcoin fund, a company that owns Bitcoin, and a leveraged product can behave differently. If you're changing assumptions for a particular holding, use the lesson on testing assumptions before relying on that result.
 
-Before continuing, be able to say what growth path, inflation basis, and horizon your starting plan uses—and why. Keep one less-favorable comparison beside it. Now the first result will mean something: it answers a question under assumptions you deliberately chose.
+Before continuing, explain three things: how the investments are assumed to grow, how rising prices affect spending, and how many years the plan needs to cover. That last period is the planning horizon.
+
+You are not being asked to predict the right return. Start with a model you understand, then compare a slower-growth version. If the answer changes, identify the choice it affects—saving, spending, or work timing. Choosing that response is the decision you control.
 
 ---
 
@@ -226,7 +230,7 @@ Keep the household's spending, dates, contributions and accounts unchanged. Then
 
 A flat annual return, a declining schedule and a power-law path can produce similar averages while describing different years. The label is less important than the sequence it creates for the money you intend to spend.
 
-Expected growth is also different from uncertainty around it. A model's volatility, correlations and distribution assumptions affect the range and sequence of outcomes. Don't reduce uncertainty simply to make a desired retirement date pass. Use the current methodology to understand which controls are available and what they change.
+Expected growth is different from the range of possible results. Volatility describes how much returns swing. Correlation describes how investments move in relation to each other. The model also makes choices about how often it tests small and extreme changes. Those choices affect the outcomes. Don't make the test easier just to approve a retirement date. Check what the model actually supports before changing those assumptions.
 
 Now inspect the consequence. Does the slower path create an early funding gap, a larger later withdrawal, or a different taxable account balance? That tells you which household decision is sensitive to the assumption.
 
@@ -252,9 +256,9 @@ Start by checking what question it answered. Which retirement date is being test
 
 The date you selected is your intention. A calculated earliest date answers a different question: when does the modeled plan meet the standard being used? Entering 52 for Alex doesn't make 52 a supported result.
 
-There can also be a difference between a starting projection and a full simulation. A single projected path shows what happens under one sequence of assumptions. A simulation tests many modeled paths. They are related views, but they don't give the same information.
+A projection follows one possible future using the assumptions in the plan. A simulation tests many possible futures built from the model's rules. In one, investments do well early. In another, they struggle. The question is whether each tested future can fund the planned spending through the end of the plan.
 
-Here is how to read a simulation percentage. Suppose 790 out of 1,000 modeled paths fund the spending through age 95. That is 79%. The other 210 paths do not fund the full horizon under the tested rules.
+Suppose 790 out of 1,000 test futures cover the planned spending through age 95. That is 79%: 790 divided by 1,000, then multiplied by 100. The other 210 do not cover the full period under those rules. When a result is called a confidence level, find out exactly what counted as success in that calculation.
 
 That is a separate teaching illustration, not a result for the Reeds. It isn't a prediction that precisely one outcome will happen to your family, and the unsuccessful paths aren't automatically harmless cases needing a tiny adjustment. We need to understand what made the funding difficult.
 
@@ -274,7 +278,7 @@ Change one decision at a time so you can explain the difference. More saving use
 
 If the first answer is strong, don't invent problems to keep optimizing. Explain what supports it and identify the limitation that still matters. If it is weak, find the biggest fixable issue instead of jumping straight to higher Bitcoin returns.
 
-Before moving on, explain what the plan says about your preferred date and which assumption or input needs the next check. The later strategies can wait until we have this starting picture right.
+Before moving on, explain what the plan says about the date you want. Pick one input to verify or one real choice to compare. If the facts are right and you prefer the current plan, keeping it is a decision too. You don't need to change something just because an example did.
 
 Next we'll check the spending and money available each month. That gives us the amount we can use for the Reserve, debt payments, and new investments.
 
@@ -556,7 +560,7 @@ The more important it is that the full amount be there on a particular date, the
 
 Let's add one expected expense and one income change, then open the period they affect. Did the expense appear when intended? What income was available, and which account covered the rest? Check what remains afterward, not just whether the retirement date moved.
 
-That is more useful than only looking at whether the retirement date moved. A plan may still show the same retirement timing while asking you to sell an investment or take on a payment you wouldn't be comfortable with.
+The retirement date might stay the same even though funding the purchase requires a sale or a loan you wouldn't choose. Read that trade-off before deciding.
 
 Finally, remember to update an event when it happens.
 
@@ -580,7 +584,7 @@ This lesson is optional. If you don't expect to fund education, you can move on 
 
 For a parent who does want to help, I would start with the commitment, not the account.
 
-It's easy to jump straight to, "Should I open a 529 or buy Bitcoin for my kids?" Before we can compare those choices, we need to know what the money is supposed to cover and when it will be needed.
+It's easy to jump straight to, "Should I open a 529 or buy Bitcoin for my kids?" A 529 is an education savings account with rules and possible tax benefits. Before comparing the accounts or investments, decide what help you want to provide and when the money will be needed.
 
 Saying you want to help with college could mean very different things. You might intend to pay tuition at an in-state public school, cover a fixed amount each year, or contribute what you can while expecting your child to cover the rest. Housing, meals, fees, travel, and extra years of study can change what that promise costs.
 
@@ -720,7 +724,7 @@ You can have the same debt today that you had six months ago and still be in a v
 
 That's what we're going to look at here. We checked the monthly payments in the last lesson. Now we want to understand what you owe compared with what you own, and what changes during a drawdown.
 
-Start with the total value of the assets included in your balance sheet. Then compare the total debt with that number. Debt divided by assets gives us the debt-to-assets ratio.
+Your assets are the things you own that have value. Your debts are what you owe. A balance sheet lists both. Divide the debt by the value of the assets, then multiply by 100 to get the percentage. That is the debt-to-assets ratio.
 
 Use the assets before subtracting debt. Net worth is what remains after that subtraction, so it answers a different question.
 
@@ -758,7 +762,9 @@ Suppose a Bitcoin-backed loan begins at 50% LTV. The loan is half the value of t
 
 The lender may have the right to sell the collateral well before that point. You need the actual terms for the loan you're considering.
 
-For the course illustration, we're using a hypothetical liquidation threshold of 80%. With a fixed debt balance, a loan starting at 50% LTV reaches that line after a 37.5% decline in collateral value. Starting at 25% gives it more room: about a 68.75% decline reaches the same line.
+For this example, suppose the lender can sell the collateral at 80% LTV. Picture $50,000 owed against $100,000 of collateral. If that collateral falls to $62,500, the loan is now 80% of its value: $50,000 divided by $62,500. The collateral fell $37,500 from the starting $100,000—a 37.5% decline. The loan balance didn't change.
+
+Starting at 25% LTV gives more room: a 68.75% decline reaches the same assumed 80% line when the debt stays fixed. These are made-up contract terms to explain the math, not a lender's current offer.
 
 Notice what the numbers describe. They are price declines to the assumed liquidation threshold. They are not percentage-point gaps between two LTV readings, and they don't tell us when a lender will first contact you. A warning or collateral call can have a different trigger.
 
@@ -952,7 +958,7 @@ Interest-only can have a purpose. It might preserve cash during a period when th
 
 When you compare offers, include the fees and check whether they are paid upfront or added to the amount owed. Look at the rate, how it can change, the payment schedule, and the cost of ending the loan early. A zero-interest promotion also needs its full terms reviewed; an introductory label doesn't explain what happens when the promotional period ends.
 
-Different funding sources bring different questions. You only need to investigate the ones that fit your decision, but I want you to recognize what makes them different.
+Before looking at loan types, put two realistic ways to pay for your purchase side by side. For each, note the cash used now, the payment, what remains owed later, and what secures it. That gives the details below a purpose. You don't need to collect an offer for every type of loan; find the terms that matter to your actual comparison.
 
 With a conventional personal, auto, or equipment loan, start with the repayment schedule and what secures it. A longer term can make the payment smaller while keeping you in debt longer. A lower payment may still be useful; just understand how much comes from a better rate and how much comes from spreading repayment over more time.
 
@@ -1128,7 +1134,7 @@ Some of it might be cash you need soon. Some might be stock funds inside a retir
 
 We're going to build from that picture, not start with a model portfolio and tell every household to copy it.
 
-First, add up what you own across accounts. Looking only at your wallet can understate your Bitcoin exposure when retirement accounts hold Bitcoin funds too.
+Your portfolio is the group of investments we're reviewing. Add up what you own across its accounts. Bitcoin exposure means the amount whose value is tied to Bitcoin. Looking only at your wallet misses that exposure when retirement accounts also hold Bitcoin funds.
 
 For Alex and Morgan, the investments we're using in this allocation example total about $1.3 million. They have $410,000 of direct Bitcoin value and $318,000 of spot Bitcoin-fund exposure in retirement accounts. Together, that is $728,000—about 56% of this group of assets.
 
@@ -1206,7 +1212,9 @@ Use the actual gap after expected income, and keep the dates beside the amounts.
 
 What remains has a longer runway. Now you can compare investments for growth, income, or a combination, based on when that money is needed and which sources of return you want to own.
 
-The deck calls these timeframes Reserve, Bridge, and Forever. The rough zero-to-three, four-to-ten, and ten-plus-year ranges are orientation aids. They aren't rules that every household needs three years of expenses in cash or that an investment becomes safe on a particular anniversary.
+We use Reserve, Bridge, and Forever to help think about when money will be used. The rough zero-to-three, four-to-ten, and ten-plus-year ranges are starting guides, not rules. You don't automatically need three years of expenses in cash.
+
+These are timeframes, not three account types. One brokerage account might hold cash for a purchase and stock funds for much later. First decide what each amount is for. Then we can choose where to hold it.
 
 For money that must be available soon, the first job is dependable access and a stable dollar amount.
 
@@ -1236,7 +1244,7 @@ Let's use one simple example to turn that into amounts. This is a separate teach
 
 They have $1 million of financial assets and want to test keeping $500,000 in Bitcoin. Their previous Reserve decision is $60,000. They also plan a $40,000 purchase next year, funded from existing savings. The purchase is not included in that Reserve.
 
-Together, those jobs need $100,000. They decide to keep it in cash arrangements that will make it available when required. That leaves $400,000 still to position.
+The $60,000 Reserve plus the $40,000 purchase need $100,000 in cash arrangements that fit those dates. Start with the $1 million, subtract the $500,000 Bitcoin choice, then subtract this $100,000. There is $400,000 left for the longer-term investments.
 
 We didn't choose 10% cash because 10% sounded good. The dollar commitments produced that percentage.
 
@@ -1252,7 +1260,7 @@ That adds $100,000 to the cash job. With Bitcoin held at the same $500,000, ther
 
 The reason is not that every retiree needs 20% cash. This household chose to have those payments available. Keeping more in cash means less is invested for growth, so we need to test what that changes later. Choosing only the first year's payment in cash would produce a different trade-off.
 
-That is how we choose the amounts. Start with the bills and commitments, then compare the uncertainty you're willing to accept with the remaining money. There won't be one perfect portfolio for every household.
+That is how we choose the amounts. Work out the spending commitments first, then decide what the remaining money needs to provide. If keeping your starting Bitcoin percentage leaves an important bill without funding, revisit that choice too. Compare a different purchase, a later date, another available source, or a smaller Bitcoin position. The percentage is something to test, not a promise that overrides the rest of your life.
 
 Before accepting the mix, follow the first spending need. Which account provides it? What happens if the investments are down? Does the cash cover what you said it covers, or have two commitments claimed it? If the answer fails, revise that part of the plan rather than add a reassuring label.
 
@@ -1260,7 +1268,9 @@ The long-runway portion also changes as time passes. Retirement is not one deadl
 
 Then add the dollar positions to see the household mix. Don't average percentages from accounts of different sizes, and don't put the household percentage into every account. An account for a near-term bill may hold no Bitcoin even when Bitcoin is half the overall portfolio.
 
-Write the purpose and amount beside each part of your portfolio. Choose the investments for those jobs and compare the alternative you're seriously considering. Check any product details you still need before making a purchase.
+Now use your own amounts. Write down the money needed for each commitment and what remains for longer-term investing. For that remainder, compare the investments you're seriously considering: what do they own, what do they cost, and what would a bad result mean for you?
+
+Explain your choice without using the example's percentages as the reason. Two households can learn the same method and choose different portfolios. If an existing holding already fits, keeping it is a valid choice.
 
 Next we'll work out how the available contributions move you toward that mix. Changing existing holdings may also make sense, but a sale has its own tax and trading costs to compare first.
 
@@ -1272,7 +1282,7 @@ A portfolio target tells you what you want to own. It doesn't tell you how much 
 
 You might want to fund the Reserve, pay off a card, capture the employer match, and buy more Bitcoin. All four can be worthwhile. The contribution plan tells us which can happen now and which needs to wait.
 
-Start from the cash flow we've already checked. Bring forward the existing employee contribution and the Reserve and extra-debt decisions. We are not reopening those lessons. We are putting their amounts on the same page.
+Start with the cash flow you've checked. Put the existing payroll contribution, Reserve funding and extra debt payments on the same page. The next investment must fit alongside them.
 
 For Alex and Morgan's reduced-spending example, $2,475 remains after the listed costs but before Alex's employee contribution. His $775 leaves $1,700. The $500 Reserve contribution and $1,200 extra card payment use it all.
 
@@ -1288,7 +1298,7 @@ For example, the Reeds are building cash and paying extra on the card at the sam
 
 When a match is relevant, read the formula. Alex contributes 6% of a $155,000 salary. The employer matches half of that under the example's terms. It is not another 6% of salary. Check vesting too—the conditions for keeping the employer contribution—before assuming every dollar is immediately yours.
 
-For the remaining money, ask which part of the plan needs it. If the years before retirement-account access are short, an accessible destination may help more than another later-retirement contribution. When those years are covered and the goal is much later, the tax-advantaged choices may be more useful.
+For any money left, ask which part of the plan is not funded yet. If you don't have enough available for the years before you can use retirement accounts, adding to an accessible account may help more. If those early years are funded and this money is for later, compare the retirement-account choices. We are looking for a shortage of usable money, not simply counting how many years there are.
 
 The deck's longer-term sequence compares HSA, IRA, then additional workplace saving. We'll examine why and when that changes in the account lesson. It doesn't mean maxing every retirement account before building the money that supports the life you want sooner.
 
@@ -1310,9 +1320,7 @@ Next we'll choose the account for the money you're investing.
 
 You can choose a good investment and put it in an account that doesn't fit when you need the money. You can also choose an account for its tax benefit and discover it cannot hold the investment you intended to buy.
 
-Start with when you'll need the money. Then check whether the account lets you use it then and offers the investments you intend to buy.
-
-Start with the contribution's job. Is it intended for an early work transition, a later retirement year, or a dedicated expense such as healthcare? Then compare the accounts actually available to you.
+Begin with the job of this new saving, which we call a contribution. Is it for an early work change, later retirement, or a specific cost such as healthcare? Compare the accounts you could actually use. Can you get the money when needed? Can the account hold the investment? What costs and tax rules go with it?
 
 A taxable brokerage account provides investment access without making ordinary withdrawals depend on reaching a retirement age. Personally held Bitcoin belongs to that taxable planning picture too. A sale may have a tax cost, but an early-retirement account-access exception is not normally needed just to use your taxable investments.
 
@@ -1330,7 +1338,7 @@ For self-directed Bitcoin retirement arrangements, account administration and cu
 
 For an IRA, don't use the Bitcoin as collateral for a personal loan or sell your personally owned Bitcoin to your own IRA. Those transactions can trigger distributions or loss of IRA tax treatment. Direct control does not turn retirement assets into unrestricted personal property.
 
-An HSA can be attractive when you are eligible to contribute and the money has a healthcare role. It can combine favorable contribution treatment with tax-free use for qualified medical expenses. You need the coverage eligibility and the records supporting qualified use, not just an account with HSA in its name.
+An HSA is a health savings account. If you qualify to contribute, it can give tax benefits when saving and when paying qualified medical expenses—expenses that meet the tax rules. First check whether your coverage makes you eligible, and keep the records for the medical costs you plan to pay from it.
 
 For tax-free reimbursement, the medical expense must qualify, have been incurred after the HSA was established, and not already have been reimbursed or deducted. After 65, nonmedical withdrawals are still income-taxable, but the additional 20% tax no longer applies. The account is not limited to medical spending forever.
 
@@ -1360,7 +1368,7 @@ Next we'll settle the tax election. That decision can change the money left in y
 
 Should you pay income tax before investing the money, or when you use it later? That's the basic Traditional-versus-Roth decision.
 
-A Roth balance can look attractive because qualified withdrawals are tax-free. A Traditional contribution can look attractive because it may reduce taxable income now. To compare them fairly, we need to account for the tax on both sides.
+A withdrawal is money you take out of an account. Qualified means the withdrawal meets the rules for that account's tax benefit; it does not mean every withdrawal from that account is tax-free. Roth can provide tax-free qualified withdrawals. Traditional may reduce the income taxed now. Let's count the tax on both sides before choosing.
 
 Let's start with the same $1,000 of pretax earnings and a hypothetical 20% tax rate. We're assuming a deductible Traditional contribution and no other complications for this illustration.
 
@@ -1432,7 +1440,7 @@ For the future card-payoff example, $1,605 could become available when the payme
 
 That split is a teaching comparison, not a recommendation or a transfer already running. If another commitment needs part of the released money, change the split. Check the actual cash flow at payoff before beginning it.
 
-A contribution mix may also differ from the portfolio target. You might direct more of the next dollar toward an underweight holding. Prices and the total portfolio change along the way, so don't promise an exact date to reach the target by dividing today's gap by a fixed monthly contribution.
+What the next contribution buys may differ from the final mix you want. If you own less of one investment than your target calls for, new money can go toward that gap. Prices and the rest of the portfolio change too, so dividing today's gap by a monthly contribution won't tell you the exact date you'll reach the target.
 
 For each contribution, write the amount, where it comes from, when it starts, the receiving account, and what it buys. Include the tax election where it applies. If you chose a category such as stocks, you still need to select and check the actual investment before arranging the purchase.
 
@@ -1486,9 +1494,11 @@ You may want to sell some Bitcoin to fund a purchase, build cash, or begin retir
 
 The sale amount and the gain are not the same thing.
 
-Cost basis is the amount used to measure what the investment cost you, with the adjustments required for that asset and transaction. For a straightforward purchase, start with the purchase record. A lot is simply a group of units acquired together. Different purchases can have different basis and holding periods.
+Start with what the investment cost you. The tax record calls the amount used in the gain calculation your cost basis. Purchase costs, fees and other required adjustments can affect it, so use the records. A tax lot is a group of units acquired together. Different purchases can have different costs and purchase dates.
 
-Let's use the lots in the course example. One purchase was at $58,000 per Bitcoin, another at $16,000, and another at $52,000. Suppose we are comparing a sale of 0.2 Bitcoin at the example price of $100,000 per coin, ignoring fees for the illustration.
+For the simplest example, suppose an investment sells for $20,000 and its supported basis is $16,000. Subtract the $16,000 from the $20,000: the gain is $4,000 before fees or other adjustments. The sale money is called proceeds. The proceeds, gain and tax bill are three different numbers.
+
+Now let's use the lots in the course example. One purchase was at $58,000 per Bitcoin, another at $16,000, and another at $52,000. Suppose we are comparing a sale of 0.2 Bitcoin at the example price of $100,000 per coin, ignoring fees for the illustration.
 
 The sale brings in $20,000 in every version. What changes is the basis of the units sold.
 
@@ -1501,8 +1511,6 @@ Using the $52,000 purchase gives $10,400 of basis and a $9,600 gain.
 Same Bitcoin price. Same amount sold. Different gains.
 
 That is why the purchase history matters before a tax-sensitive sale. But none of those gain amounts is the tax bill. The bill also depends on the holding period, other income, current tax rules, and the household's situation.
-
-For another simple example, selling an investment for $20,000 with $16,000 of supported basis produces a $4,000 gain before fees or adjustments. Treating the entire $20,000 as taxable gain would exaggerate the cost of using that money.
 
 The opposite mistake is treating missing basis as a known zero. A missing record means we don't know the cost yet. It does not prove the entire sale is gain. We need evidence before relying on the tax calculation.
 
@@ -1546,7 +1554,7 @@ A bank payment can help establish that money went to an exchange. It may not, by
 
 Pay attention to ownership changes too. A transfer between your own wallets is different from receiving a gift or an inheritance. Those can have different basis and documentation rules. Name the type of event and obtain the evidence for it; don't treat every receipt as an ordinary purchase.
 
-Then reconcile prior disposals with the filed tax record. The units already sold should not still appear as available lots. A loss carryforward needs support from the return and intervening activity, not merely an old screenshot showing a loss.
+Next, check past sales against the filed tax record. Units you already sold should not still appear as available to sell. If a tax loss was left over to use in a later year, that's a loss carryforward. Verify the amount still available from the returns and later activity; an old screenshot of a falling investment isn't enough.
 
 Tax software can help organize the work, but its output still needs checking. Ask what the import supplied, how transfers were matched, which method was used, and where an assumption filled a gap. A report with many decimal places can still be built on the wrong transaction type.
 
@@ -1580,7 +1588,9 @@ A generic example shows what to look for. Imagine a household whose employment i
 
 That period is worth comparing with the later years. It may be useful to take an intentional Traditional withdrawal for spending, convert some money to Roth, realize a gain, or leave the room unused. The next lesson will show how to compare those choices.
 
-First, understand what a bracket means. With marginal ordinary-income brackets, moving some income into the next bracket does not generally move every earlier dollar into that higher rate. Think of filling layers rather than replacing the rate on the whole stack.
+A tax bracket is a range of income taxed at a given rate. Moving some income into the next ordinary-income bracket does not generally move all the earlier income to that higher rate.
+
+Use a made-up two-step tax to see why. Suppose the first $10,000 is taxed at 10%, and the next $1,000 at 20%. That's $1,000 of tax on the first part and $200 on the next, for $1,200 total. It isn't $2,200 from taxing the whole $11,000 at 20%. These are not actual tax brackets. They show why we ask what the next part costs.
 
 But the bracket alone may not describe the total cost of another dollar. Income can affect deductions, credits, healthcare assistance, Social Security taxation, or later Medicare premiums. The useful calculation is the change in the household's total cost when the proposed income is added.
 
@@ -1628,9 +1638,7 @@ Decide whether the move fits the life you want as well as the costs. Keep any re
 
 ## 5.4 — Compare conversions with intentional withdrawals
 
-As a Traditional account grows, more money may eventually need to come out as taxable income. Let's compare whether using a lower-income year for a conversion would help—and what paying that tax now would cost.
-
-A Roth conversion is one way to address that. But “more money in Roth” is not enough reason to convert. We need to compare what the conversion costs now with what it changes later.
+Should you move some Traditional retirement money into Roth? A lower-income year may be a useful time to compare it. We'll look at the tax paid now and what each choice leaves later. More money in the Roth account is not enough to show that the household is better off.
 
 A conversion moves money from Traditional treatment into Roth treatment. The taxable portion is generally included in income for the conversion year. The converted amount is not also available to pay the household's bills.
 
@@ -1670,7 +1678,9 @@ Required distributions must be satisfied separately; that amount cannot be conve
 
 Also understand that a completed Roth conversion generally cannot be undone by recharacterizing it back to Traditional under current rules. A speculative choice based only on an expected market rebound deserves careful review before moving the money.
 
-Choose an amount or range to compare, identify the account that pays the tax, and check what you expect to gain later. You may decide not to convert this year because the cost doesn't fit.
+Start with no added conversion as one choice. Then test an amount whose tax you could pay from money not already needed for bills or another commitment. Compare a smaller amount too. Read the cash used now and what remains later in each version.
+
+You aren't looking for a number to copy. Choose the version whose benefit is worth its cost to you. If the extra tax would leave the early retirement years short, a smaller conversion or no conversion may fit better.
 
 We'll keep the spending money, conversion, and tax payment visible together. Review the amount before submitting it to the custodian, then keep the confirmation and tax records. For a schedule spanning several years, use the multi-year conversion lesson before settling the amounts.
 
@@ -1714,7 +1724,7 @@ Once you've identified a tax opportunity, how do you turn it into a useful actio
 
 Start with the purpose. Are you trying to realize a loss, use a favorable gain year, convert some retirement money, or fund spending at an acceptable cost? The transaction should serve that purpose—not happen just because the account is down or a deadline is approaching.
 
-Let's compare gain harvesting and loss harvesting. Both involve realizing something that was previously only a change in value, but they solve different problems.
+In these examples, harvesting means choosing to sell so a gain or loss becomes part of the tax record. Before the sale, it was a change in what the investment was worth. Gain harvesting and loss harvesting do different jobs; neither means the gain or loss itself is your tax bill.
 
 Suppose an investment is worth $20,000 and has $16,000 of supported basis. A sale realizes a $4,000 gain before adjustments. In a year when that gain receives favorable tax treatment, intentionally realizing it may be worth comparing. If exposure is reacquired, the new purchase has its own basis and holding period.
 
@@ -1790,7 +1800,7 @@ Keep essential and flexible spending visible. That doesn't mean you plan to cut 
 
 Add known irregular costs at the right dates rather than pretend retirement is the same month repeated forever. A roof, vehicle, family gift, or college commitment can make one year meaningfully different.
 
-The course's starting illustration uses $96,000 of living expenses and $12,000 of healthcare: $108,000 before the other items we still need to reconcile. It also has $40,000 of gross income. The rough difference is $68,000.
+Start the example with $96,000 of living costs and $12,000 for healthcare. That adds up to $108,000. There is also $40,000 of income before tax. Subtract it, and the rough gap is $68,000. Keep that number in view while we add the costs not counted yet.
 
 That subtraction is useful, but it isn't yet the final withdrawal amount. We have compared gross income with only part of the cash outflow. Taxes, required debt, and other costs can change what the portfolio has to supply.
 
@@ -1904,7 +1914,9 @@ We need a coverage path and a budget for the period before Medicare, then a sepa
 
 Start with what is actually available. That could include a spouse's employer plan, continuation coverage, a Marketplace plan, or another arrangement for which you qualify. Identify when the current coverage ends and when the replacement can begin. Don't leave a gap between two dates that only looked close on the calendar.
 
-Then compare the full cost, not just the monthly premium. Look at deductibles, copayments, coinsurance, network, prescriptions, and the out-of-pocket protection that applies. The out-of-pocket maximum may not cover every type of expense or out-of-network service.
+Then compare the full cost. The premium is what you pay to keep the coverage. The deductible is the amount you pay for services subject to it before the plan starts paying its share. A copayment is a set charge for care; coinsurance is a percentage of the covered cost you pay. Check which doctors and services the plan covers, called its network.
+
+Read the out-of-pocket limit too. It does not necessarily include premiums, services the plan excludes, or every out-of-network cost. Use the actual policy to see what remains your responsibility.
 
 A lower premium can be useful when the coverage fits. It can also mean more cost when care is needed. Ask what a normal year and a difficult year would require from the household.
 
@@ -1992,7 +2004,7 @@ Then choose the assets or lots used inside the selected account. The account ord
 
 Consider the earlier $20,000 taxable sale with $16,000 of basis. It realizes a $4,000 gain before adjustments. A fully taxable $20,000 Traditional withdrawal has different income treatment. You can't compare them by assuming both create $20,000 of gain—or by pretending both provide $20,000 after all taxes.
 
-An account order is useful as a starting rule. It saves you from inventing the paycheck every month. But an order that never considers the tax year can create an avoidable problem.
+An account order says which account you intend to use first and which follows. A blend uses more than one account for the same year's spending. Neither is best just because it has a name. Compare whether it supplies the cash you need, what tax it creates, and what money it leaves for later.
 
 Imagine funding every early year from taxable assets because the tax is low. The Traditional account continues growing. Later, taxable assets run down, benefits begin, and more spending has to come from Traditional withdrawals. Required distributions may add to that income.
 
@@ -2152,13 +2164,13 @@ Now compare spending. A higher amount may reduce modeled success while supportin
 
 Look inside the paths or relevant years the tool actually makes available. Where does funding become difficult? Is it an early account-access issue, a large event, a prolonged weak market, tax pressure or the size of spending itself? The response should address that cause.
 
-An early funding failure is different from an unfavorable long-run terminal balance. A plan that would need a reduction the household cannot make should not be called comfortable simply because most paths work.
+Running short soon after you stop work is different from ending the plan with less money than you hoped. Find when the shortfall occurs and what the household would have to change. An adjustment you cannot actually make does not solve the problem.
 
 Use the stress comparison to test the operating rules too. Does the reserve run down? What happens near its floor? Does the proposed annual spending change leave essential bills covered? When borrowing is involved, can the contract force action outside the simulation's financial assumptions?
 
 The simulation is not a probability estimate for every risk in life. It doesn't certify the custodian, guarantee tax law, or prove that a lender will allow the planned response. Keep those other checks where they belong rather than let a favorable score replace them.
 
-Assumption sensitivity deserves a separate comparison. Hold the household choices fixed and test a less favorable return path that the app supports. If the plan works only under a very optimistic model, make that dependence explicit before acting. Don't silently reduce volatility or raise returns to recover a desired result.
+Also test how much the answer depends on the assumed investment returns. Hold the household choices fixed and test a less favorable return path that the app supports. If the plan works only under a very optimistic model, make that dependence explicit before acting. Don't silently reduce volatility or raise returns to recover a desired result.
 
 You also don't have to optimize to 100%. That can mean giving up spending or working longer for a margin the household may not choose. The appropriate confidence target is a preference to test alongside flexibility and consequences, not a universal promise of safety.
 
@@ -2176,7 +2188,7 @@ After retiring, how do you decide whether to keep spending the same amount, cut 
 
 Without a review rule, it is easy to react to every market move—or never adjust at all because the original projection looked good. We want a repeatable decision based on the plan and the life it needs to fund.
 
-Start with the spending policy you have chosen and the current, updated plan. A standing guardrail is a condition that calls for review. A proposed spending amount is the choice being considered for the coming year. Those are different things.
+Start with the updated plan and the spending rule you chose. A guardrail tells you when to review that rule. It might be a change in the portfolio's value or in the model's confidence result. The amount you decide to spend next year is a separate choice. First notice the reason to review; then work out what, if anything, to change.
 
 If the app expresses a guardrail as a portfolio value, that value is a review threshold. It is not money you can spend. If the policy uses confidence triggers, read what the triggers mean under that policy. Don't relabel a percentage as a dollar threshold without the actual calculation.
 
@@ -2766,11 +2778,13 @@ Choose the person who needs to understand it: a spouse, a trusted helper, or the
 
 Start with what the plan is for. “We want to reduce work at this point and support this kind of spending.” Then explain what funds that life and what the result depends on.
 
-You might say, “The early years use these accessible accounts while later income begins. This cash is for the Reserve and approaching payments. These investments are for the longer run. Here is the contribution we are making now, and here is what changes when the debt ends.” Use your own decisions and actual amounts, not a script you have memorized from the example.
+You might say, “The early years use these accessible accounts while later income begins. This cash is for the Reserve and approaching payments. These investments are for the longer run. Here is the contribution we are making now, and here is what changes when the debt ends.” Use your own decisions and amounts, not a script memorized from the example. The reason matters: which need does the choice meet, and what do you give up to make it?
 
 Then explain the difficult case. What would you do if income stopped or investments disappointed? Which spending could change? What cannot be delayed? Which rule calls for attention? The listener doesn't need to share every market opinion to understand the household response.
 
 Ask them to explain the next action back to you. Don't settle for “that makes sense.” Can they identify which account receives the contribution, how next year's spending is funded, or where the family instructions begin?
+
+Then change one fact in the conversation. Suppose work ends earlier, a new bill arrives, or someone no longer wants the current investment mix. Ask which part of the plan needs another look and what two choices you would compare. You don't have to decide immediately; you should know how to begin.
 
 Their question can reveal a useful gap. If they ask where a payment comes from, show the source. If they confuse a future contribution with money available now, correct the timeline. If they can't find the family contact, improve the document rather than give another lecture about custody.
 

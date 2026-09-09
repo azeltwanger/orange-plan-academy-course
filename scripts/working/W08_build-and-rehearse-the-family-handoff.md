@@ -91,3 +91,14 @@ The uploaded retirement YouTube script supplies delivery and progression only: a
 Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 This file replaces the prior duplicate summary/detail/cue sets with one chapter sequence. Original sources, the fixed household, member documents and the capture register remain unchanged. No real recording, provider action or learner result is certified.
+
+
+### Apply the lesson with different facts — production guidance
+
+Use the 8.3 role-and-contact practice, then a consented tabletop with the member's own safe starting instructions. Ask the reader for the first action rather than narrating every step for them. Do not claim authority, delivery or successful comprehension from this written prompt.
+
+Use the existing Member checkpoint in the linked teaching script; no second workbook is needed. Let the learner attempt the question before showing its explanation. A valid alternative needs a reason and workable funding, not the example household's settings. Do not record a simulated attempt as a real member outcome.
+
+Prepared narration cue: “Before we copy any numbers, explain the choice you are making. Which facts in your situation matter? Compare the alternative you would actually consider, then read what it changes.”
+
+Primary checkpoint: [8.3](../../scripts/08-3_write-and-test-the-first-instructions-your-family-will-receive.md). The app's actual fields, results, access and saved-state behavior retain their existing checks.
