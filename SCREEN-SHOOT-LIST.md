@@ -6,9 +6,7 @@ All eleven practical recordings remain unapproved until a matching entry in CAPT
 
 [Run sheet and cues](scripts/working/W01_build-the-first-working-plan.md)
 
-Ask the member to explain, without repeating the whole course: what the household owns; how the monthly money is accounted for; which retirement date is a choice; which assumptions drive the result; where funding comes from in one relevant year; and the next check or comparison. Unfinished purchase details remain explicit and do not become invented zeroes. An unresolved prerequisite or unavailable full result is not marked complete.
-
-Proceed to W02 to verify spending more fully and choose reserve funding. Keep the accepted Reserve chapters there unchanged. This run sheet does not certify an engine run, usable release, actual save, completed transfer, recording or launch.
+The current facts, initial retirement question and assumptions produce an answer the member can explain. Known limitations remain named. The next work is the fuller cash-flow review, not a claim that every later planning decision is complete.
 
 ## W02 — Verify cash flow, set the Reserve, and add expected events
 
@@ -26,46 +24,46 @@ The member can explain the payments, household leverage and any lender-specific 
 
 [Run sheet and cues](scripts/working/W04_route-contributions-into-usable-accounts-and-intended-holdings.md)
 
-The member can start with the current portfolio, state Bitcoin's intended role, size positions for the spending jobs, combine them into a target, fit current contributions, choose usable accounts and tax treatment, and finish each investment instruction. The four-path orientation does not prematurely save a target. The drawdown check validates the chosen funding once rather than replacing the sizing method. The household target, account mixes and new-money instructions are distinct but consistent. Outside execution and future conditions remain visible. No completed app run, tax review, provider action, recording or learner outcome is certified by this written plan.
+The member can explain the whole portfolio, including why the non-Bitcoin portion exists, and trace every applicable contribution through purpose, amount, account and holding to an outside instruction. Target choice, verified access, executed action and actual result evidence remain separate.
 
 ## W05 — Reconcile tax records and prepare one useful comparison
 
 [Run sheet and cues](scripts/working/W05_reconcile-tax-records-and-prepare-one-useful-comparison.md)
 
-Purchase-detail gaps are honest, duplicate/transfer handling preserves the position, and one relevant tax comparison has a professional handoff. Uncertain execution or filing facts remain gated.
+The member understands the tax consequences of the proposed action, has the evidence needed to compare it, and can hand a specific question to the appropriate professional. A record, modeled result, reviewed proposal, executed transaction and filed return remain different states.
 
 ## W06 — Build and test the retirement paycheck
 
 [Run sheet and cues](scripts/working/W06_build-and-test-the-retirement-paycheck.md)
 
-The household can explain spending, floor, gap, account access, withdrawals, reserve behavior, borrowing risk, and the annual review. Capture remains held for any unsupported financial behavior; a roadmap document is not proof of release capability.
+The household can explain the actual retirement paycheck across its important dates and a difficult period. The annual spending and Reserve decisions fit the same funding. All result values come from the approved saved example; unsupported financial or contract behavior remains explicitly unverified, not staged.
 
 ## W07 — Document the custody choice and actual recovery status
 
 [Run sheet and cues](scripts/working/W07_document-the-custody-choice-and-actual-recovery-status.md)
 
-The method is intentional, dependencies are named, recovery status is truthful, and one next action has an owner. No seed, private key, passphrase, descriptor contents, xpub, password, or location exposed.
+Custody direction, account security, recovery evidence and the family starting map describe the same holdings with their retained risks. All status claims are scoped to actual evidence.
 
 ## D07 — Prove a wallet backup with a safe test setup
 
 [Run sheet and cues](scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md)
 
-A successful small-value recovery of the intended wallet is demonstrated under the exact reviewed procedure. The production export contains no usable key material or sensitive recovery metadata. Without actual hardware proof, this demonstration remains unfilmed and unapproved.
+An actual safe test of the intended practice wallet is documented with its limits. The actual household wallet remains separately verified or pending. No usable secret material or sensitive recovery metadata appears in the distributable footage; without hardware evidence, filming approval remains open.
 
 ## W08 — Build and rehearse the family handoff
 
 [Run sheet and cues](scripts/working/W08_build-and-rehearse-the-family-handoff.md)
 
-The family can identify the first contact and actions; legal, insurance, and technical holds remain visible. Letter generation does not complete legal authority, recovery, delivery, or policy review.
+The intended person can find a legitimate starting process and the legal, operational and insurance questions are connected to their specific outside actions. Letter creation alone does not prove authority, delivery, recovery or coverage.
 
 ## W09 — Complete a monthly review and an annual review
 
 [Run sheet and cues](scripts/working/W09_complete-a-monthly-review-and-an-annual-review.md)
 
-A quiet month stays short, a material change is handled honestly, and the annual plan has a complete review path. No automatic reassignment of a paid-off debt payment is presumed.
+An ordinary month, a material exception and the full annual loop can be followed without unnecessary strategy changes. The latest plan and action record form a usable starting point for the next review.
 
 ## W10 — Read, explain, and save the finished plan
 
 [Run sheet and cues](scripts/working/W10_read-explain-and-save-the-finished-plan.md)
 
-The learner can explain where the household stands, how new money is used, how retirement is funded, what could change the answer, who starts the family process, and what happens next. Watching videos alone does not satisfy the practical completion checks.
+The member can explain the current position, whole portfolio, new-money plan, retirement funding, retained risks, family process and next actions. Any blocking prerequisite remains visible. Written preparation is complete; learner success and app/device execution require real evidence.

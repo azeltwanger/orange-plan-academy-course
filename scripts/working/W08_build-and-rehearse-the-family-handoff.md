@@ -1,7 +1,7 @@
 # W08 — Build and rehearse the family handoff
 
-Status: WALKTHROUGH_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/WALKTHROUGHS.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: WALKTHROUGH_REWRITE_REVIEW — complete paired narration and one recording plan per chapter. Final app/device procedures, inputs, outputs and capture evidence remain unverified.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: capture
@@ -10,85 +10,78 @@ Sources: ESTATE, CUSTODY, APP, PRIMARY
 
 ### Run sheet
 
-**Chapter 1, after 8.1:** non-secret role/document inventory. Executor nomination and appointment are distinct. Review primary/backup willingness, incapacity roles, legal documents, and institutional beneficiaries. The app is not a legal instrument.
+Use the existing Heir Letter, Executor Packet, Family Custody Map and insurance audit. These organize a household decision; they are not legal instruments or professional approvals. Actual people, communications and account/legal changes require consent and appropriate verification.
 
-**Chapter 2, after 8.2:** connect each asset's legal owner/authorized role to the provider or technical starting point. Do not give a universal seed/passphrase split. Identify unanswered legal and recovery questions.
+Record chapters separately after their paired lessons. Only the paragraphs labeled Narration are prepared speech. Teaching graphics stay outside app screens. Read actual values and state changes during recording; do not substitute a staged output or unsupported feature.
 
-**Chapter 3, after 8.3:** prepare the non-secret heir letter. First call, verified contact, asset categories, document-starting process, warnings. Export/place the letter through a supported path. Test a harmless message and recipient comprehension; actual delivery and access must be proven before marked complete.
+#### Chapter 1 — Connect people, documents and beneficiaries
 
-**Chapter 4:** demonstrate a missed-check-in/communication feature only if available and verified in the release/account mode. No assumed90-day default or delivery guarantee. No keys released. Record external packet placement where the app cannot store or perform it.
+**Show and do:** After 8.1, fill the existing role/document inventory with primary and backup willingness, incapacity and death roles, document execution status, ownership and account beneficiaries. Use no invented Reed legal choices.
 
-**Chapter 5, after 8.4:** complete the risk/insurance worksheet. Existing policy summary, risk retained, gap, professional question. Keep actual contracts private and avoid inventing an insurance-analysis feature. Verify replacement coverage before canceling needed protection.
+**Narration:**
 
-### Source-led recording detail — not spoken
+“This person is intended to help. Now identify the document or process that gives the relevant authority. A nomination, an executed document and an actual appointment are different statuses. If the beneficiary record conflicts with the intention, that is the correction to take to the attorney or provider.”
 
-Use the actual blank and fictional Heir Letter, Executor Packet, Family Custody Map and insurance audit. These coordinate decisions; they are not legal documents or professional approvals.
+**Verify before recording:** Supported non-secret fields only. State-specific authority and document execution require legal review; a checkbox is not a legal instrument. No auto-created guardian/trust or assumed beneficiary outcome.
 
-**Chapter 1**
+**Member finish:** A clear role and document gap list with the responsible outside action.
 
-Prepare and demonstrate: Separate incapacity and death roles, primary/backup willingness, document status and institutional beneficiaries.
+#### Chapter 2 — Connect authority to practical access
 
-Reusable narration: “This is who is intended to help, and this is the authority or process that still needs to be confirmed.”
+**Show and do:** After 8.2, trace direct custody and an institutional account from ownership to authorized role, provider/technical support and immediate cash needs. Test incapacity separately from death.
 
-Final screen/procedure insert: Supported non-secret fields, attorney review and nomination versus appointment; no checkbox creates legal authority.
+**Narration:**
 
-Member finish: Each role/document gap has a focused professional or family next action.
+“Knowing how to operate the wallet is not the same as being entitled to use it. For this account, who has authority and who provides the technical or provider process? Both need to connect before the family can rely on it.”
 
-**Chapter 2**
+**Verify before recording:** Verify actual legal/provider requirements and available cash. Trusted contact is not withdrawal authority; no owner-login impersonation, universal seed/passphrase split or presumed immediate asset access.
 
-Prepare and demonstrate: Connect one direct-custody row and one institutional row to the legal owner, authorized role and operational helper. Test the unavailable-operator case.
+**Member finish:** Each important asset has a legitimate starting route and precise unresolved prerequisites.
 
-Reusable narration: “Being able to move an asset and being entitled to act are different. We need a process that respects both.”
+#### Chapter 3 — Write and rehearse the first-page handoff
 
-Final screen/procedure insert: Actual agreement and lawful provider process; no universal seed/passphrase split or owner impersonation.
+**Show and do:** After 8.3, complete the existing Heir Letter and Executor Packet using the example paragraph as new illustrative language, not legal advice. Tie to the Family Custody Map. Ask a consented nontechnical person to explain the first step and backup contact.
 
-Member finish: Each important pool has a legitimate starting path and named unresolved questions.
+**Narration:**
 
-**Chapter 3**
+“The letter gets the reader started. The packet supports the follow-up. Let's read the first page without my explanation: whom would you contact, how would you verify the contact, and what should not be rushed? Fix the confusing sentence before adding another page.”
 
-Prepare and demonstrate: Fill the Heir Letter's first page and the Executor Packet's coordination index. Ask a consented nontechnical listener for the first action and how to verify the contact.
+**Verify before recording:** Actual finding/opening and teach-back required before success status. Keep keys, secrets and detailed protected storage out. No unperformed delivery, attorney review or fictional client test asserted.
 
-Reusable narration: “The letter gets you started; the packet organizes the follow-up. Let's check whether the first step is clear without my explanation.”
+**Member finish:** Findable, understandable first instructions with actual rehearsal gaps corrected.
 
-Final screen/procedure insert: Real harmless delivery, opening and comprehension; no claimed listener test before execution and no signing material in the packet.
+#### Chapter 4 — Verify the communication backstop
 
-Member finish: Revise the actual confusing passage and record the true test result.
+**Show and do:** Use a harmless agreed recipient and test message only after the actual release/account mode demonstrates any check-in or delayed-notification feature. Read waiting period, cancellation, false-alarm handling, delivery and access. Record external placement when needed.
 
-**Chapter 4**
+**Narration:**
 
-Prepare and demonstrate: Demonstrate the communication backstop only after verifying it in the actual release/account mode. Use an explicitly authorized harmless recipient and message.
+“A missed check-in and a message arriving are separate events. This test sends directions, not keys. Check that the recipient can actually open the message and has another legitimate way to begin if this service is unavailable.”
 
-Reusable narration: “This delivers direction, not keys. A missed check-in and a message arriving are separate things to test.”
+**Verify before recording:** No assumed 90-day default, delivery guarantee, automatic key release, real death notice or unsolicited sensitive communication. An unavailable promised capability is reported and held, not quietly simulated or relabeled shipped.
 
-Final screen/procedure insert: Recipient, waiting period, false-alarm/cancel path, delivery and access; no assumed 90-day default or delivery guarantee. Missing promised capability remains held and reported.
+**Member finish:** A tested communication route and fallback, or an explicit outside task without false delivery approval.
 
-Member finish: Document the tested route and a fallback not dependent on the unavailable person's login.
+#### Chapter 5 — Complete the risk and insurance decision
 
-**Chapter 5**
+**Show and do:** After 8.4, use the existing insurance audit. Review actual coverage evidence or labeled hypothetical mechanics against one material loss, then check all other relevant risks. Separate benefit, waiting period, exclusions, premium, beneficiary and retained risk.
 
-Prepare and demonstrate: Complete one material risk in the insurance audit using actual policy mechanics or a clearly hypothetical example. Compare need with cap, waiting period, exclusions and retained risk.
+**Narration:**
 
-Reusable narration: “We are deciding which loss the household can carry and which needs coverage or further review—not buying one of every policy.”
+“What loss is the household trying to cover? Compare that need with what this policy actually provides. We are not buying one of every product. We want the gap, the resources covering it and the professional question that remains.”
 
-Final screen/procedure insert: Licensed review, private contract evidence and replacement effective date; no invented app insurance-analysis feature.
+**Verify before recording:** No invented insurance-analysis app feature, coverage quote or insurability. Actual policy/qualified review and replacement effective date precede cancellation of needed protection. Contracts stay private.
 
-Member finish: Each material risk is checked, intentionally retained, or assigned a specific review.
-
-The existing run sheet and these chapter details describe the same recording. No actual model result, provider/device operation, legal authority, listener test or publication approval is established by this written preparation. Any absent promised behavior remains held and reported; it is not silently replaced with a fabricated screen.
+**Member finish:** Each material risk is covered, deliberately retained or assigned a precise reviewed action, with plan costs updated.
 
 ### Readback and finish
 
-The family can identify the first contact and actions; legal, insurance, and technical holds remain visible. Letter generation does not complete legal authority, recovery, delivery, or policy review.
+The intended person can find a legitimate starting process and the legal, operational and insurance questions are connected to their specific outside actions. Letter creation alone does not prove authority, delivery, recovery or coverage.
 
+### Production notes
 
-### Spoken cues (use with the matching chapters)
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
-**Chapter 1.** Identify who starts the process, the backup person and the legal documents that give the appropriate authority.
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
-**Chapter 2.** Connect the legal role to the actual recovery or institution process. Keep unanswered legal and technical questions explicit.
-
-**Chapter 3.** The letter starts with one verified contact and clear warnings. Test whether the recipient knows the first step.
-
-**Chapter 4.** A communication backstop needs a harmless delivery test. It delivers direction, never signing keys.
-
-**Chapter 5.** Record the risk the household retains or transfers and the policy question requiring licensed review.
+This file replaces the prior duplicate summary/detail/cue sets with one chapter sequence. Original sources, the fixed household, member documents and the capture register remain unchanged. No real recording, provider action or learner result is certified.

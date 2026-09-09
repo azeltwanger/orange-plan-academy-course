@@ -1,6 +1,6 @@
 # 3.1 — Measure the payment pressure you actually carry
 
-Status: TEACHING_REWRITE_REVIEW — individual spoken replacement using the accepted Reserve approach. New wording awaits Austin's voice/judgment review; no recording or publication approval is implied.
+Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
 Adapted source: original Debt Strategy deck, Austin's debt playbook and original call explanations; unchanged Reed teaching fixture. Specific source distinctions are recorded in HANDOFF.md.
 App references: teaching is separate from final navigation, payment schedules and saved results.
 

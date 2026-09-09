@@ -1,6 +1,6 @@
 # 3.2 — Measure leverage before and after a drawdown
 
-Status: TEACHING_REWRITE_REVIEW — individual spoken replacement using the accepted Reserve approach. New wording awaits Austin's voice/judgment review; no recording or publication approval is implied.
+Status: TEACHING_RETAINED_REVIEW — the prior individual full explanation is retained after section-level continuity review. This pass does not claim a new full rewrite or Austin voice approval.
 Adapted source: original Debt Strategy two-ratio, drift and LTV teaching; current course distinctions and unchanged Reed fixture.
 App references: ratios and arithmetic graphics are not verified app outputs or lender terms.
 

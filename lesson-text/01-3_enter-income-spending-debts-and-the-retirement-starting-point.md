@@ -1,7 +1,7 @@
 # 1.3 — Enter income, spending, debts, and the retirement starting point
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/01-first-working-plan.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`, original debt/employer-benefit dictation, and the sources identified in `delivery/source-led-batch-01.md`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: income mapping, debt records and result behavior retain APP_CAPTURE.
 
 Kind: teach
@@ -10,54 +10,48 @@ Sources: FOUNDATION, CASHFLOW, DICTATION, APP
 
 ### Read aloud
 
-Now we're going to connect what you own to the money coming in and going out. The question is how much the household actually has available after the bills and current commitments.
+A retirement result can look promising because the plan assumes you're saving money that never actually reaches an investment account. Before reading that result, we need to connect income, spending, and existing commitments.
 
-Start with income by person and source. Salary, business income, rent, a pension, and other recurring income can have different timing and treatment. Make clear what each amount represents before you enter it.
+For this first pass, enter what you can support now. Cash Flow will do the fuller spending review. We are not deciding which expenses to cut or which debt to accelerate yet.
 
-A pay stub is a good example. It shows gross pay before deductions, then taxes, benefits, and retirement contributions, and finally the amount deposited in your bank. If you enter that deposit as gross income and subtract the deductions again, the plan will show too little money available. The deposit is useful for checking the answer, but it is not interchangeable with gross pay.
+Start with each person's income. Identify the source, amount, and timing. For employment, check whether the field asks for gross income or take-home pay. Your bank deposit is after the deductions on the pay stub. If you enter it as gross income and subtract those deductions again, the result will be wrong.
 
-For business income, ask what has already been taken out. Revenue is not automatically household spending money. Ordinary business costs may already be deducted from the income you're using, while taxes, debt payments, or money kept in the business may still need attention. The important thing is to count each claim on the money once.
+For a business, first ask what has already come out of the amount you're using. Sales, profit, and cash available to the household are different. Morgan's example income is after ordinary operating costs but before the equipment-loan payment shown separately. Your records may use a different convention. Follow what your number includes.
 
-Morgan's income in our example is after ordinary business operating expenses but before the equipment-loan payment we show separately. That's why you will still see that payment in the cash-flow explanation. Your own records may be organized differently, so don't copy that treatment without understanding what your income number includes.
+Next, enter a starting living-spending amount from actual records. Don't use the amount you wish you spent. Note annual bills or a recent change that could make a single month misleading. In the next session we'll work out how those belong in the estimate.
 
-Next, get a believable starting number for everyday spending. Use actual records rather than the amount you would like to spend. Include the costs that recur through the year, even when they don't appear every month. Annual bills, holidays, or other irregular spending can make a quiet month's statement misleading. We will do a fuller spending review in the next session.
+Keep required debt payments in their own debt records when the plan counts them there. Verify the current balance, rate, and payment from the lender. The mortgage you already have belongs in this picture. A loan you're considering does not become current debt because you want to compare it.
 
-Keep debt payments, income-tax payments, investment contributions and transfers separate from the living-spending number when those amounts are already accounted for elsewhere. Credit cards are a common place to count something twice. The groceries were spending when you bought them. Paying the card later is not another set of groceries. An older financed balance and its required repayment still need to appear in the debt picture.
+Then look at money already going into investments. A payroll retirement contribution uses household pay before the remainder reaches checking. An employer match adds retirement money, but it isn't cash the family can spend.
 
-For each existing debt, check the current balance, interest rate, required payment, and relevant term. I would look at the lender's record rather than use the rate in your head. Include the mortgage, car loan, cards, a home-equity line you've drawn, and any other obligation the household is carrying. A variable rate may be different from the last time you checked.
+Alex earns $155,000 a year and contributes 6% in the fictional example. That is $775 a month. The employer's stated formula adds another $387.50. We will keep those two sources separate.
 
-At this point we're recording the arrangement that exists. Deciding to pay extra or take out a new loan comes later. The first plan should not quietly include a borrowing idea you haven't chosen.
+Here is the original cash-flow bridge on screen. After the income, illustrative tax provision, living costs, and required debt payments, the Reeds have $1,275 before Alex's contribution. His $775 leaves $500 for other priorities.
 
-Your employer benefits also belong here. Look up the actual match formula. An employer might match a percentage of what you contribute, up to a limit based on pay. That is different from contributing the same amount as you regardless of what you put in.
+That is the figure we're starting from. It doesn't mean they're only saving $500; the employee contribution is already invested. It also doesn't include the spending reduction we'll consider later.
 
-In the Reed example, Alex earns a hundred fifty-five thousand dollars a year and contributes six percent. That is seven hundred seventy-five dollars a month from the household's pay. Their fictional employer contributes half of that under the stated match formula: three hundred eighty-seven dollars and fifty cents. Keep those separate. The employee contribution uses household money; the employer contribution adds retirement money, not cash for this month's bills.
+The example allows $4,000 a month for taxes. That is a teaching provision, not a calculated Reed tax liability. In the app demonstration, we'll check how the actual income and tax inputs are represented. The statement and the model need to reconcile; we won't hide a difference by inventing an expense.
 
-Look at the example on screen. Start with the combined income, subtract the illustrative tax provision, normal living costs and required debt service, and there is twelve hundred seventy-five dollars left before Alex's contribution. After that contribution, five hundred remains.
+Now give the retirement calculation a question to answer. When do you want to reduce or stop work, and what would that life cost?
 
-The four-thousand-dollar monthly tax provision in this example is a teaching assumption. It is not a tax bill the app has calculated. We will distinguish payments set aside for taxes from the actual modeled tax liability in the working session.
+Alex would like work to be optional at 52. Entering that age records the intention. It doesn't establish that the plan can fund it. Morgan has a separate work timeline; one person's retirement date should not silently end both incomes.
 
-That five hundred is the original picture. The larger amount available after a spending change belongs to a later example. We haven't made that change yet. Before we choose where new money goes, we need to know whether this starting picture resembles what actually happens in the bank.
+Start a retirement-spending estimate based on the life you expect. Some work costs may disappear. Travel, healthcare, or family support may increase. Include the items you know and flag the estimates that need more work. We will build the detailed retirement paycheck later.
 
-Retirement needs a starting point as well. What do you currently intend: stop work, reduce your hours, or change the kind of work you do? Each person can have a different timeline. Choose an initial spending estimate for that life and note the costs that need more work, such as healthcare or housing.
+Use actual Social Security or pension estimates when you have them, attached to the right person and start date. Don't insert an assumed benefit to fill a shortfall. An unverified income source is a question to answer, not funding you can rely on yet.
 
-Use actual Social Security or pension estimates when you have them, with the relevant person and start date. Don't assume an unverified benefit fills the gap. For Alex, fifty-two is the preferred work-optional age. We have not proved it works by entering it.
+The first pass is finished when you can explain the money coming in, the costs and contributions already committed, and the retirement life you are asking the plan to test. If the available amount looks nothing like your bank experience, keep that mismatch visible for Cash Flow. A less exciting result based on honest numbers is a much better starting point.
 
-After the working chapters, you should be able to follow the monthly money and explain the starting retirement choices. If the plan says you have a large surplus that you never see, check what is missing or counted differently before assigning it to investments. That is the useful next step, even when it makes the first result less exciting.
+### Visual and source notes — not spoken
 
-### Visual notes — not spoken
-
-Reveal the cash-flow bridge one line at a time: $19,416.67 income; $4,000 hypothetical tax provision; $10,800 original living costs; $3,341.67 required debt service; $1,275 before employee contribution; $775 employee contribution; $500 remaining. Place the $387.50 employer match alongside the retirement account, outside spendable surplus. Values are rounded for display only. Do not mingle this with reduced living costs of $9,600 or the later $1,700 available pool.
-
-Use a generic pay-stub diagram with no invented Reed withholding or benefits. Use a separate timeline for each adult, showing only the preferred age already established. Exact birthdays, benefits and model dates are not supplied by the source fixture.
+Visual: original cash bridge, round for speech only; $19,416.67 gross − $4,000 teaching provision − $10,800 living − $3,341.67 required debt = $1,275 before employee contribution; $775 employee leaves $500. Employer $387.50 stays separate. Source mortgage escrow, payroll election, tax mapping and exact timelines remain unresolved capture facts, not defaults silently adopted.
 
 ### Production notes
 
-Source ledger: `delivery/source-led-batch-01.md`. The numeric example is unchanged source arithmetic, not an actual app forecast, payroll computation or tax result. W01 chapter 6 must explicitly reconcile the app's tax and income conventions; a different legitimate result is explained, not forced to match $500 through hidden overrides. Business cash flow is not silently treated as verified tax-return profit. Required debt records are entered once and revisited in W03.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
-W01 chapter 7 must resolve the fictional capture inputs for spouse timelines, retirement spending, healthcare, benefits and horizon before a full result is claimed. The source's $96,000/$12,000/$40,000 retirement illustration is not automatically adopted. Detailed account, tax and benefit execution guidance remains subject to the relevant later reviews. Keep precise control names in the walkthrough notes.
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 ### Member checkpoint
 
-- Explain what income includes and trace the available cash without duplicate deductions.
-- Verify existing debts and distinguish employee contributions from employer money.
-- Record intended retirement timing and initial spending, with specific missing benefit or cost information identified.
+Explain current income, costs and existing contributions, and record the initial retirement question without calling it a result.

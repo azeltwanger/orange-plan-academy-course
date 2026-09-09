@@ -1,7 +1,7 @@
 # 5.5 — Turn tax opportunities into an execution checklist
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/05-tax-strategy.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: teach
@@ -10,44 +10,50 @@ Sources: TAX, TAX_DECK, BRAIN, PRIMARY, APP
 
 ### Read aloud
 
-Choose the tax action worth evaluating before its deadline. Then connect the proposed transaction to the records, verification, and outside steps needed to carry it out correctly. A possible opportunity is not a completed trade.
+Once you've identified a tax opportunity, how do you turn it into a useful action without creating a different problem?
 
-Loss harvesting realizes a loss by disposing of an investment below its supported basis. The loss may offset gains and, subject to the applicable rules, some other income or future gains. A carryforward remains part of the tax record until used. The benefit depends on what the loss can offset and what exposure remains afterward.
+Start with the purpose. Are you trying to realize a loss, use a favorable gain year, convert some retirement money, or fund spending at an acceptable cost? The transaction should serve that purpose—not happen just because the account is down or a deadline is approaching.
 
-Gain harvesting deliberately realizes a gain in a year when the tax cost may be favorable. Reacquiring exposure can establish new basis in the replacement acquisition. The household still needs to evaluate fees, price movement, identification, other income, state tax, and any benefit changes. A zero-percent federal capital-gain rate does not guarantee a zero total cost.
+Let's compare gain harvesting and loss harvesting. Both involve realizing something that was previously only a change in value, but they solve different problems.
 
-For example, a twenty-thousand-dollar sale with sixteen thousand of supported basis realizes four thousand of gain before other adjustments. Start the tax comparison with that gain and the rest of the year's income, not with the entire sale treated as taxable income. A conversion or a late business-income change could use the same tax room. Check them together before acting.
+Suppose an investment is worth $20,000 and has $16,000 of supported basis. A sale realizes a $4,000 gain before adjustments. In a year when that gain receives favorable tax treatment, intentionally realizing it may be worth comparing. If exposure is reacquired, the new purchase has its own basis and holding period.
 
-Stocks, funds, and direct digital assets can have different rules. A spot Bitcoin fund remains a security; its tax treatment is not automatically the same as personally held Bitcoin. Replacement purchases and applicable wash-sale rules must be checked for the actual asset and current year. Do not turn an older Bitcoin tax practice into a permanent promise that an immediate sale and repurchase will always produce the intended deduction.
+The potential benefit is reducing the gain embedded in the replacement position. The cost includes today's tax, fees, price movement, and any effect on other income-sensitive items. A 0% federal rate doesn't by itself establish that the complete transaction costs nothing.
 
-The identification process must also be established in time. Current regulations and transitional relief can differ by year and whether assets are held with a broker or in an unhosted wallet. Retain the records required for the method used and reconcile them with provider reporting. A software preference chosen after the fact is not enough by itself.
+Now reverse the numbers for a separate example. An investment bought for $20,000 is worth $16,000. Selling it realizes a $4,000 loss before adjustments. That is not a $4,000 refund. The value depends on what the loss can offset under the rules and when any unused amount can be used.
 
-Once a transaction happens, record the actual date, quantity, proceeds, fees where supported, identified units, and confirmation. Update the realized-gain and remaining-lot records. If the plan and the filed return differ, resolve that difference rather than carrying an incorrect loss or basis forward into later years.
+If you later own a replacement investment with $16,000 of basis and it grows back to $20,000, that new position has a gain. Harvesting can change timing; it doesn't necessarily erase the eventual tax on the investment journey.
 
-A conversion needs a similar handoff. The planned amount, actual completed amount, tax paid, and custodian documents should agree. Withholding or estimated payments affect cash flow and what remains due; they do not reduce the underlying liability simply because a larger amount was paid in advance.
+A replacement also raises a legal question. Stock and securities wash-sale rules can disallow or defer a loss when substantially identical exposure is acquired in the relevant window. Purchases in another account or by a spouse can matter. Direct Bitcoin and a Bitcoin fund are not automatically governed identically, and current digital-asset rules must be checked rather than assumed from an older practice.
 
-For a state move or a large financing-related sale, add the relevant legal or contract questions before execution. Current residency and the use of loan proceeds can matter. Keep those questions specific so the professional can review the actual transaction rather than a vague intention to save tax.
+So decide the intended exposure and verify the actual replacement before executing. A software button labeled tax-loss harvesting doesn't establish that the transaction qualifies.
 
-Your year-end review should happen while time remains to act. Gather the current realized gains and losses, carryforwards, expected remaining income, proposed conversions, distributions, and any relevant healthcare information. Then choose the few opportunities worth evaluating. Deliberately passing on an opportunity can be the correct outcome.
+Identification is another step to complete in time. Which units are being sold, where are they held, and what documentation makes that selection valid for the transaction date? Broker and unhosted-wallet rules can differ, and temporary relief can change by year. The Advanced lesson goes through a transaction packet when you need it.
 
-We'll finish with the relevant records and one clear professional question. For example: 'Here is the holding and the proposed sale. Here are the lots we can substantiate, the other income expected this year, and the replacement exposure we are considering. What needs to be confirmed before we act?' A tax-data export supports that review and filing preparation; it is not the filed return or proof the records are complete.
+Now combine the proposed action with the rest of the year. A conversion, realized gain, bonus, business-income change, or required distribution can use the same income room. Don't review each one as though the others aren't happening.
 
-Record whether you will pursue the opportunity, change its amount, or pass. Keep the prerequisite checks and deadline visible. After a transaction, reconcile the actual confirmation, remaining lots, and tax reporting so next year's plan starts from the real record.
+Prepare one working estimate of the year's income, realized gains and losses, verified carryforwards, distributions, and planned transactions. Then compare the proposed change. That gives the CPA enough context to review the decision rather than only one isolated sale.
+
+For a conversion, include the source of the additional tax payment. Withholding and estimated payments affect cash flow and the amount still due; they don't reduce the underlying tax simply because more was paid early. For a large taxable sale, include the basis evidence and how much spendable cash the sale needs to provide.
+
+Choose one or two actions worth pursuing now, with their prerequisites and deadlines. The rest can wait when a later year or better information is more useful. Declining a small tax opportunity that creates disproportionate complexity is a decision, not unfinished homework.
+
+After a transaction, reconcile what actually happened. Keep the confirmation, units, proceeds, fees, identification evidence and remaining lots. Compare the reporting with the filed return and resolve differences. A tax-data export supports the process; it is not the filed return or proof that every input was correct.
+
+Your final tax handoff should sound like this: “Here is the proposed transaction, the evidence for its basis, the rest of the income expected this year, and the source of any tax payment. Here is the specific issue we need confirmed before acting.”
+
+That is a usable next step. You haven't delegated an unexplained decision to a checklist; you understand the purpose and the trade-off. Next, Retirement Income puts the available sources together into the money that will pay the bills.
+
+### Visual and source notes — not spoken
+
+Tax deck Steps6–8. New paired20k/16k gain/loss explanations are mechanisms, not recommended trades or new Reed lots. No perpetual direct-Bitcoin immediate-repurchase promise. Current IRS550 and digital-asset FAQs govern classification/identification; Notice2026-20 extends specified broker-held identification relief through2026 for eligible taxpayers and contemporaneous records, not all assets/wallets or retroactive choices. Keep this dated fact in production reference, not fixed evergreen speech. Form8949 TAX DATA export is not filedForm8949. Exact transaction terms and professional review remain required.
 
 ### Production notes
 
-Evergreen speech intentionally avoids a fixed claim of immediate direct-Bitcoin rebuy eligibility. Dated register records current verification including 2026 broker identification relief. Distinguish tax-loss carryforward from a fresh deductible loss and confirm with filed-return evidence. W05 exports FORM 8949 TAX DATA, never a filed Form 8949. No provider or tax software guarantees.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 ### Member checkpoint
 
-- Identify one current opportunity or deliberately pass.
-- Verify law, identification, replacement exposure, costs, and deadlines.
-- Prepare the professional packet and record completed actions accurately.
-
-### Source-led visual and teaching notes — not spoken
-
-Proposed comparison → current-rule/identification review → external execution → actual record → filing reconciliation. Keep loss carryforwards, gain amounts, proceeds and tax payments distinct. No blanket direct-Bitcoin immediate-repurchase promise.
-
-Editorial reason: Finish the tax session with a specific decision and usable professional packet rather than a general research list.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+Choose the relevant current action or deliberate pass, prepare a specific professional packet, and reconcile execution with the tax record afterward.

@@ -4,45 +4,31 @@ A decision, a saved choice and an outside action are separate states. Funding a 
 
 ## 0.1 — Build a plan you can use
 
-- Name the personal question the plan should help answer.
-- Follow the teaching and matching working chapter in order rather than watching all instructions first.
-- Distinguish a recorded decision, a funded goal, and an outside action.
+State the personal question, initial timing and lifestyle the plan should test; understand the teaching/work/application order.
 
 ## 0.2 — Use Ask to understand your own numbers
 
-- Ask one focused question about a number or choice.
-- Trace the answer to the actual input or calculation and explain it in your own words.
-- Identify one next check or comparison while keeping sensitive records private.
+Trace one answer to an actual input or result and choose the next check or comparison.
 
 ## 1.1 — Decide what belongs in your saved plan
 
-- Locate the source records for the first plan and list important expected changes.
-- Explain how a current fact, an assumption, an expected event and a scenario relate without creating four competing plans.
-- Keep missing information visible and identify what it affects.
+Classify one current fact, one expected event and one what-if; keep assumptions and missing evidence visible.
 
 ## 1.2 — Add accounts and show what each one owns
 
-- Review each account's owner, type and current total without creating duplicates.
-- Explain the total with supported holdings or identify exactly what remains unknown.
-- Keep current positions, purchases, and transfers distinct; preserve private recovery material.
+Reconcile each account once with its holdings, owner and type; identify the exact missing record.
 
 ## 1.3 — Enter income, spending, debts, and the retirement starting point
 
-- Explain what income includes and trace the available cash without duplicate deductions.
-- Verify existing debts and distinguish employee contributions from employer money.
-- Record intended retirement timing and initial spending, with specific missing benefit or cost information identified.
+Explain current income, costs and existing contributions, and record the initial retirement question without calling it a result.
 
 ## 1.4 — Choose assumptions you can explain
 
-- Explain the chosen growth model, inflation basis and household horizon.
-- Distinguish an assumption change from a real change to income, saving or spending.
-- Identify one less-favorable comparison and when an optimistic comparison would answer a useful planning question.
+Explain the starting model, dollar convention and horizon; compare one weaker path without changing household choices.
 
 ## 1.5 — Read the first answer and choose the next improvement
 
-- Distinguish intended retirement timing from a calculated qualifying date.
-- Explain the result's percentage, count, horizon, inputs and freshness.
-- Trace one meaningful year to its funding sources and select one next accuracy check or realistic comparison.
+Read the actual current result, trace one funding year, and identify the next accuracy check or realistic decision.
 
 ## 2.1 — Find the amount your plan actually has available
 
@@ -111,299 +97,201 @@ A decision, a saved choice and an outside action are separate states. Funding a 
 - Choose an actionable review point, named response resources, exposure limit, monitoring owner and backup where relevant.
 - Keep the current affordable extra-payment claim separate from proposed loans and money released only after payoff; carry that claim into Allocation.
 
-## 4.1 — Read the same portfolio in four useful ways
+## 4.1 — Understand the portfolio you already own
 
-- Explain overall exposure without confusing account balances with their contents or fund exposure with native Bitcoin.
-- Identify which assets are included and why before comparing percentages.
-- Name a relevant mismatch in access, intended use or current purchases—or explain why the setup can stay as it is.
+Explain the included current portfolio and identify a mismatch in purpose or purchases, or a reason to keep it.
 
-## 4.2 — Find your Bitcoin path
+## 4.2 — Choose the role Bitcoin plays in your plan
 
-- Describe the intended role of Bitcoin using the four paths without treating a range as a required allocation.
-- Distinguish that intention from today's percentage, price movement or a per-account investment instruction.
-- Carry the chosen role into the timeframe sizing exercise; do not finalize a target or trade before it.
+State Bitcoin's intended role and a starting range to test without treating a path as a final recommendation.
 
-## 4.3 — Size your positions by when you will use the money
+## 4.3 — Build the rest of the portfolio around your life
 
-- Assign existing money to distinct spending jobs/timeframes without counting the same dollars twice.
-- Choose and explain position sizes within those jobs, then calculate the combined dollar-weighted target; do not copy one percentage into every account.
-- Compare one specific sizing change, check upcoming funding and usable account access, and separate the target decision from implementation.
+Build the whole proposed portfolio: identify funded jobs, choose the relevant investment types and amounts with reasons, compare an alternative, and check the first actual spending need.
 
 ## 4.4 — Build the contribution waterfall from one pool
 
-- Reconcile employee contributions, Reserve funding and extra debt against one current available amount.
-- Keep employer money separate and explain why each destination is receiving money now.
-- Identify the event that changes future routing and recheck the amount then rather than spend it early.
+Reconcile all current destinations to one available amount and tie later routing to actual funding milestones.
 
 ## 4.5 — Choose the account that can do the job
 
-- Match a contribution's purpose with usable access, eligibility, investment menu, tax treatment and cost.
-- Choose a relevant existing or proposed account without copying every account from the example.
-- Identify the exact missing fact or outside setup step before treating the destination as ready.
+Select a receiving account with verified access, eligibility, menu and cost or one specific prerequisite to resolve.
 
 ## 4.6 — Choose Traditional, Roth, or a deliberate mix
 
-- Compare Traditional and Roth from the same economic starting point and explain why the relevant tax rates matter.
-- Separate new contributions from conversions and check current take-home cash and future access.
-- Choose a reasoned provisional election or specific professional question, with payroll execution still distinct.
+Explain today's economic cost and later tax purpose of the chosen contribution election, and keep current cash flow affordable.
 
 ## 4.7 — Tell each account what to buy and finish the outside actions
 
-- Explain each contribution's affordable amount, purpose, receiving account, tax treatment and intended investment.
-- Reconcile different account mixes with the household target without assuming every account or new dollar must match the same percentages.
-- Distinguish planned changes from real payroll/transfer/purchase instructions and verify implementation from outside confirmations.
+Specify each current and conditional future contribution through account and intended investment; record outside instructions and how completion will be confirmed.
 
 ## 5.1 — Understand what a sale would realize
 
-- Explain proceeds, allocated basis, gain, and holding period.
-- Trace an own-account transfer without resetting acquisition history.
-- Identify the records and process needed before an actual lot-specific sale.
+Explain sale proceeds, supported basis and realized gain separately; choose the evidence needed for one proposed sale.
 
 ## 5.2 — Repair purchase history without inventing it
 
-- Preserve original evidence and reconcile duplicates and transfers.
-- Document unresolved facts and the evidence needed.
-- Obtain review before relying on reconstructed basis for execution or filing.
+Reconcile one relevant acquisition/transfer/disposal history to the remaining position, preserving precise unknowns and source evidence.
 
 ## 5.3 — Find the years when your tax choices have the most room
 
-- Identify the income sources that change the tax picture over time.
-- Distinguish spending proceeds from taxable income.
-- Choose one tax-window comparison and its missing facts.
+Identify an actual income window and the specific withdrawal, gain or conversion comparison it could support.
 
 ## 5.4 — Compare conversions with intentional withdrawals
 
-- Compare conversion, spending withdrawal, and no-change alternatives.
-- Fund the incremental tax separately and review after-tax resources.
-- Separate a planned schedule from completed conversion records.
+Compare no change, spending withdrawal and conversion on consistent funding assumptions; record a considered amount/range and tax source or a reason to decline.
 
 ## 5.5 — Turn tax opportunities into an execution checklist
 
-- Identify one current opportunity or deliberately pass.
-- Verify law, identification, replacement exposure, costs, and deadlines.
-- Prepare the professional packet and record completed actions accurately.
+Choose the relevant current action or deliberate pass, prepare a specific professional packet, and reconcile execution with the tax record afterward.
 
 ## 6.1 — Define spending, reliable income, and the gap
 
-- Separate core, flexible, healthcare, debt, taxes, and event costs without duplication.
-- Identify income reliability and start dates by person.
-- Explain why the portfolio gap changes across retirement years.
+Reconcile a complete retirement year into gross income, all cash costs and the portfolio-funded gap.
 
 ## 6.2 — Fund the years before accounts and benefits become available
 
-- Draw each person's access and benefit dates.
-- Map the early gap to actually available resources.
-- Verify any exception before relying on it or rolling the account elsewhere.
+Identify the resource funding each early-retirement interval, the benefit/access dates that change it, and any specific unresolved access condition.
 
 ## 6.3 — Price healthcare before leaving employer coverage
 
-- Price at least the realistic available coverage paths.
-- Compare normal-year and high-cost-year exposure and income effects.
-- Confirm transition and enrollment requirements before ending coverage.
+Choose a verified coverage direction and normal/difficult-year budget with funded transitions, or a precise prerequisite before leaving coverage.
 
 ## 6.4 — Choose account withdrawals and asset sales separately
 
-- Separate account withdrawal priority from asset or lot sale priority.
-- Reconcile spending cash, tax funding, and conversions.
-- Compare one supported blend with the current strategy and read later effects.
+Explain the chosen account order or blend, the assets sold inside it, and the effect in the first and later tax years.
 
 ## 6.5 — Use the Reserve through a difficult market
 
-- Explain sequence risk with withdrawals, not average returns alone.
-- Size the reserve from a clearly defined retirement gap.
-- Name refill sources, review conditions, and a response near the floor.
+Explain the sequence example and record a finite Reserve-use/refill rule with a floor and an actual response source.
 
 ## 6.6 — Compare selling, borrowing, and using other resources
 
-- Compare the same cash need across funding choices.
-- Read tax cost, interest, collateral, provider exposure, and eventual repayment.
-- State which risks the household accepts and which remain unmodeled.
+Compare equal net spending through sale, other available resources and borrowing, including weak periods and the exit.
 
 ## 6.7 — Use simulations to compare the plan, not chase a score
 
-- Read the result with its horizon, assumptions, and freshness.
-- Compare one realistic choice and inspect the affected years.
-- Explain the cost or risk accepted for the preferred result.
+Select a preferred modeled alternative with its real-life trade-off and a practicable response to the difficult paths.
 
 ## 6.8 — Turn the retirement plan into an annual spending decision
 
-- Distinguish portfolio review thresholds from spending amounts.
-- Read a proposed annual change and its limits before saving.
-- Complete an operating summary and define exceptions to the annual cadence.
+Record next year's considered spending, funding, Reserve decision and review timing, distinguishing the proposal from the standing guardrails.
 
 ## 7.1 — Choose who controls each part of the Bitcoin
 
-- Assign a custody job and control preference to each meaningful pool.
-- Name the remaining failure each method creates.
-- Choose one architecture and one next protection action.
+Choose a custody direction that addresses the named failure and identify the first unfinished protection action.
 
 ## 7.2 — Prove recovery before meaningful money depends on it
 
-- Identify the complete recovery information for the actual setup.
-- Validate the backup before any destructive test.
-- Record a successful small-value recovery and the next review date.
+Record the exact scope and result of an appropriate safe recovery check, or a specific prerequisite; never certify an untested funded wallet.
 
 ## 7.3 — Harden accounts and remove the largest shared failure
 
-- Secure primary and recovery channels for critical accounts.
-- Identify shared provider, device, location, and person dependencies.
-- Complete and verify one material security improvement.
+Complete and verify the applicable account-hardening and backup-access steps, and explain how to verify an urgent warning safely.
 
 ## 7.4 — Record a usable custody plan without exposing secrets
 
-- Complete the non-secret custody map and honest recovery status.
-- Name a first contact and review triggers.
-- Keep financial-plan restoration separate from wallet recovery.
+Produce a dated no-secrets map and have the backup person explain the legitimate starting process without moving funds.
 
 ## 8.1 — Choose the people and put the legal baseline in place
 
-- Choose primary and backup people and ask them to accept.
-- Review the status of legal documents and account beneficiary forms.
-- Record the specific attorney or tax question needed to close each gap.
+Align intended people, backups, executed-document status, ownership and beneficiaries; assign the specific legal/provider correction.
 
 ## 8.2 — Connect legal authority with the actual recovery process
 
-- Match each asset's legal owner and authorized role to its real recovery method.
-- Identify incomplete or circular dependencies.
-- Prepare specific legal and technical questions without storing secrets.
+Connect lawful authority, operational access, immediate cash needs and technical help for incapacity and death separately.
 
 ## 8.3 — Write and test the first instructions your family will receive
 
-- State the first contact and first actions in plain language.
-- Keep secrets separate and make the packet findable.
-- Test a harmless delivery and the recipient's understanding.
+Complete the Heir Letter and Executor Packet, verify they can be found, and rehearse first actions with consent and no secret exposure.
 
 ## 8.4 — Identify the risks you will transfer or carry
 
-- Inventory current coverage and the risks the household retains.
-- Identify material gaps and contract questions.
-- Verify replacement coverage before canceling an arrangement needed for continuity.
+Identify actual coverage, retained risk and the most important gap; verify any replacement before relying on it and reflect costs in the plan.
 
 ## 9.1 — Keep a quiet month simple
 
-- Verify current account facts, cash flow, and near-term events.
-- Resolve or assign the material exception without duplicating records.
-- End with zero to three useful actions.
+Complete the actual monthly changes, verify current result identity and select only the actions genuinely needed.
 
 ## 9.2 — Review the whole plan once a year
 
-- Review facts, cash flow, strategy, and protection together.
-- Coordinate deadline-sensitive tax and risk reviews separately.
-- Record decisions, outside actions, and next review dates.
+Complete the six-area Annual Plan Refresh, adopt only intended changes, and assign dated outside actions.
 
 ## 9.3 — Handle a life change or a number that does not reconcile
 
-- Correct the factual change at its source.
-- Separate resolution from snoozing and actual facts from new strategy.
-- Record the consequence and one next action.
+Classify and resolve one material change or discrepancy through supported facts, then verify the downstream plan without hiding uncertainty.
 
 ## 10.1 — Read the completed plan in a useful order
 
-- Read Position, Trajectory, Risk, and Actions from the actual plan.
-- Explain important years rather than only the headline result.
-- Resolve discrepancies and save a dated supported report.
+Read one coherent saved plan from life goal through current contributions, critical retirement years, protection and specific remaining actions.
 
 ## 10.2 — Explain the plan and hand off the next decisions
 
-- Explain the seven household questions without reading technical labels.
-- Have the listener repeat the first action in an absence scenario.
-- Prepare focused professional questions and schedule the next review.
+Have the relevant listener explain the next action, fix any gap, share only appropriate information, and record implementation evidence and review dates.
 
 ## A1.1 — Test an assumption without making the model tell you what you want
 
-- State the modeling question and one changed assumption.
-- Compare the same plan under a less favorable path.
-- Record the baseline, sensitivity, and limitations.
+Answer one modeling question through a supported controlled comparison and return the affected decision to the core plan.
 
 ## A3.1 — Build a Bitcoin-loan operating sheet from the actual contract
 
-- Translate the actual contract into balances, thresholds, dates, and response rules.
-- Include accrued interest and a limit on added collateral.
-- Verify counterparty and tax questions outside the simulation.
+Complete the contract-derived operating sheet with actual full balance, thresholds, exit, funded responses and exposure limits.
 
 ## A3.2 — Compare financing terms that a simple payment hides
 
-- Compare full schedules and exit obligations.
-- Verify use restrictions, guarantees, and reset/default provisions.
-- Label unmodeled terms and obtain contract review.
+Explain all payment phases and final settlement under a weaker case before choosing the complex financing proposal.
 
 ## A4.1 — Check price context before a large allocation change
 
-- State the financial purpose before the market opinion.
-- Compare implementation pace and trade-offs.
-- Define the conditions that would change the decision.
+Choose a deliberate affordable implementation pace, knowing both directions of the timing trade-off and the fact that would change the plan.
 
 ## A5.1 — Build a multi-year conversion comparison
 
-- Compare bounded schedules against unchanged spending and assumptions.
-- Include tax funding and opportunity cost.
-- Verify each actual year's amount before execution.
+Select a bounded conversion schedule with after-tax and liquidity justification and a current-year review rule.
 
 ## A5.2 — Prepare a harvesting transaction that matches the tax record
 
-- Verify actual lots, identification, costs, and replacement exposure.
-- Separate model, execution, and record stages.
-- Reconcile the result with tax reporting and next-year continuity.
+Prepare an eligible transaction packet with timely identification, replacement review and post-execution reconciliation—or deliberately pass.
 
 ## A5.3 — Evaluate a state move as a household decision
 
-- Compare total household costs and life consequences.
-- Verify residency and source-income treatment in both jurisdictions.
-- Keep the move hypothetical until the intention and timing support a baseline event.
+Compare complete household costs and life effects, then obtain specific two-jurisdiction residency/source-income review before relying on transaction timing.
 
 ## A6.1 — Compare healthcare and tax decisions in the same year
 
-- Compare tax and coverage costs on the same annual income assumptions.
-- Verify eligibility and reconciliation/enrollment requirements.
-- Update the baseline only after the chosen path is understood.
+Choose a coordinated income/coverage proposal using the complete current cost and verify the actual enrollment and tax prerequisites.
 
 ## A6.2 — Test a multi-year sell-versus-borrow strategy
 
-- Inspect the debt and collateral path across difficult years.
-- State repayment and estate assumptions explicitly.
-- Record unsupported risks and the conditions for changing policy.
+Explain the multi-year debt and collateral path, exit and after-tax trade-off, with a defined rule for stopping or reducing new borrowing.
 
 ## A6.3 — Verify an early-retirement account-access route
 
-- Identify the exact account, amount, year, and access rule.
-- Verify rollover and ongoing-compliance consequences.
-- Obtain review before any distribution dependent on an exception.
+Verify an account- and person-specific access route, dates, evidence and invalidating actions before a dependent rollover or distribution.
 
 ## A7.1 — Compare passphrase, multisig, and professional support
 
-- Name the failure each proposed architecture addresses.
-- Test the complete recovery path and dependencies.
-- Document the non-secret choice and retained risks.
+Choose a custody architecture for a named failure and verify the complete safe recovery path and retained responsibilities.
 
 ## A7.2 — Decide which custody responsibilities the household can maintain
 
-- Assign recurring responsibilities and an absence path.
-- Test practical capabilities rather than assuming comfort.
-- Simplify or add support where a named responsibility is uncovered.
+Assign operating tasks and backups and complete a no-secrets absence rehearsal, recording actual gaps rather than assumed competence.
 
 ## A7.3 — Test correlated failures across providers and methods
 
-- Map shared dependencies and correlated failures.
-- Verify an independent recovery route where claimed.
-- Choose a targeted change and a review trigger.
+Identify a shared dependency, its affected exposure and a targeted change with evidence of the independent route claimed.
 
 ## A7.4 — Understand UTXOs before consolidating coins
 
-- Explain output count, fee weight, and consolidation trade-offs.
-- Verify wallet support and recovery before transacting.
-- Consolidate only for a defined purpose under a safe current procedure.
+Choose a justified consolidation, coin-control action or deliberate pass after reading the actual fee/privacy trade-off and safe procedure.
 
 ## A8.1 — Decide whether a trust has a job in the plan
 
-- Name the legal or family job a trust would solve.
-- Review control, tax, funding, beneficiary, and custody consequences.
-- Complete the professional and outside implementation steps honestly.
+Resolve the trust purpose with qualified review and identify actual funding, beneficiary, custody and successor actions or a simpler baseline.
 
 ## W01 — Build the first working plan
 
-Ask the member to explain, without repeating the whole course: what the household owns; how the monthly money is accounted for; which retirement date is a choice; which assumptions drive the result; where funding comes from in one relevant year; and the next check or comparison. Unfinished purchase details remain explicit and do not become invented zeroes. An unresolved prerequisite or unavailable full result is not marked complete.
-
-Proceed to W02 to verify spending more fully and choose reserve funding. Keep the accepted Reserve chapters there unchanged. This run sheet does not certify an engine run, usable release, actual save, completed transfer, recording or launch.
+The current facts, initial retirement question and assumptions produce an answer the member can explain. Known limitations remain named. The next work is the fuller cash-flow review, not a claim that every later planning decision is complete.
 
 ## W02 — Verify cash flow, set the Reserve, and add expected events
 
@@ -415,32 +303,32 @@ The member can explain the payments, household leverage and any lender-specific 
 
 ## W04 — Route contributions into usable accounts and intended holdings
 
-The member can start with the current portfolio, state Bitcoin's intended role, size positions for the spending jobs, combine them into a target, fit current contributions, choose usable accounts and tax treatment, and finish each investment instruction. The four-path orientation does not prematurely save a target. The drawdown check validates the chosen funding once rather than replacing the sizing method. The household target, account mixes and new-money instructions are distinct but consistent. Outside execution and future conditions remain visible. No completed app run, tax review, provider action, recording or learner outcome is certified by this written plan.
+The member can explain the whole portfolio, including why the non-Bitcoin portion exists, and trace every applicable contribution through purpose, amount, account and holding to an outside instruction. Target choice, verified access, executed action and actual result evidence remain separate.
 
 ## W05 — Reconcile tax records and prepare one useful comparison
 
-Purchase-detail gaps are honest, duplicate/transfer handling preserves the position, and one relevant tax comparison has a professional handoff. Uncertain execution or filing facts remain gated.
+The member understands the tax consequences of the proposed action, has the evidence needed to compare it, and can hand a specific question to the appropriate professional. A record, modeled result, reviewed proposal, executed transaction and filed return remain different states.
 
 ## W06 — Build and test the retirement paycheck
 
-The household can explain spending, floor, gap, account access, withdrawals, reserve behavior, borrowing risk, and the annual review. Capture remains held for any unsupported financial behavior; a roadmap document is not proof of release capability.
+The household can explain the actual retirement paycheck across its important dates and a difficult period. The annual spending and Reserve decisions fit the same funding. All result values come from the approved saved example; unsupported financial or contract behavior remains explicitly unverified, not staged.
 
 ## W07 — Document the custody choice and actual recovery status
 
-The method is intentional, dependencies are named, recovery status is truthful, and one next action has an owner. No seed, private key, passphrase, descriptor contents, xpub, password, or location exposed.
+Custody direction, account security, recovery evidence and the family starting map describe the same holdings with their retained risks. All status claims are scoped to actual evidence.
 
 ## D07 — Prove a wallet backup with a safe test setup
 
-A successful small-value recovery of the intended wallet is demonstrated under the exact reviewed procedure. The production export contains no usable key material or sensitive recovery metadata. Without actual hardware proof, this demonstration remains unfilmed and unapproved.
+An actual safe test of the intended practice wallet is documented with its limits. The actual household wallet remains separately verified or pending. No usable secret material or sensitive recovery metadata appears in the distributable footage; without hardware evidence, filming approval remains open.
 
 ## W08 — Build and rehearse the family handoff
 
-The family can identify the first contact and actions; legal, insurance, and technical holds remain visible. Letter generation does not complete legal authority, recovery, delivery, or policy review.
+The intended person can find a legitimate starting process and the legal, operational and insurance questions are connected to their specific outside actions. Letter creation alone does not prove authority, delivery, recovery or coverage.
 
 ## W09 — Complete a monthly review and an annual review
 
-A quiet month stays short, a material change is handled honestly, and the annual plan has a complete review path. No automatic reassignment of a paid-off debt payment is presumed.
+An ordinary month, a material exception and the full annual loop can be followed without unnecessary strategy changes. The latest plan and action record form a usable starting point for the next review.
 
 ## W10 — Read, explain, and save the finished plan
 
-The learner can explain where the household stands, how new money is used, how retirement is funded, what could change the answer, who starts the family process, and what happens next. Watching videos alone does not satisfy the practical completion checks.
+The member can explain the current position, whole portfolio, new-money plan, retirement funding, retained risks, family process and next actions. Any blocking prerequisite remains visible. Written preparation is complete; learner success and app/device execution require real evidence.

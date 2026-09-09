@@ -1,7 +1,7 @@
 # A5.3 — Evaluate a state move as a household decision
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/advanced/01-modeling-financing-and-tax.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: advanced
@@ -11,44 +11,44 @@ Use when: the household is genuinely considering moving or has income/assets tie
 
 ### Read aloud
 
-Evaluate a state move as a household decision. Taxes can be an important benefit, but housing, work, healthcare, family and the cost of moving still have to fit the life you intend to live.
+A lower-tax state can make a large sale look much cheaper. But the move changes more than the tax line, and changing an address in the app does not establish legal residency.
 
-Start with the reason for moving and the realistic locations. Then build the cost difference: housing, property and other taxes, insurance, transport, healthcare, moving expenses, and any income changes. A lower income-tax rate can be offset by higher costs elsewhere.
+Use this lesson when moving is a real household possibility, not merely a way to improve a projection.
 
-Tax residency depends on the facts and law, not the address selected in the app. Domicile, time spent, homes, work, family ties, and other evidence can matter. The former state may retain a claim on some income. State-source business, rental, deferred compensation, or other items need specific review.
+Start with where you would actually be willing to live and why. Work, family support, schools, healthcare, housing and community belong in that decision. Then compare the full recurring costs and the one-time move.
 
-A large Bitcoin sale near a move makes timing and residency evidence especially important. A brokerage address change alone does not settle where the gain is taxed. Before acting, obtain advice from a professional familiar with both jurisdictions and the actual facts.
+A simple example shows why. Suppose a hypothetical move saves $10,000 a year in one tax category but adds $8,000 in housing and insurance. The recurring cash improvement is $2,000 before other differences. If moving costs $20,000, that cost needs to be included too. These invented figures illustrate a complete comparison, not any state's rates or a relocation recommendation.
 
-For the Reed household, a state scenario should include the full economic changes and the effective date. Keep the current state in the saved baseline until the household chooses and completes the relevant move. Do not use a favorable state assumption to make retirement appear affordable while the family still intends to live elsewhere.
+The move may still be worthwhile for the life it provides. Or the tax advantage may be much less important after the other costs are counted. The useful answer is a household decision, not the lowest rate on a map.
 
-Estate documents, healthcare directives, insurance policies, business registrations, and provider arrangements may also need review after relocation. A legal instrument that worked in one state may need updating for the new circumstances.
+A large Bitcoin sale near the move adds a separate legal and tax question. Domicile, time spent, work, homes, family ties and state-source income can matter under the jurisdictions' actual rules. Updating a driver's license or brokerage address may be evidence, but no single checkbox automatically settles every state's claim.
 
-Use the model to identify whether the financial difference is meaningful enough to pursue. Then gather the actual rules and implementation requirements. The scenario is a planning comparison; it is not proof of legal residency or a filed tax position.
+Before relying on the tax result, have a professional familiar with both states review the real timeline and sources of income. Business income, rent, deferred compensation or other items may remain connected to the former state. Do not move a sale date in the records or claim a residency that the facts do not support.
 
-Before a large Bitcoin sale near a possible move, separate two questions. Does moving improve the household's overall situation? And what do the actual residency and source-income rules mean for the proposed transaction? A favorable address in a scenario does not answer the second question. The household needs the intention, timing and evidence reviewed for both jurisdictions.
+The financial scenario should include the expected effective date and all material cost changes. Keep the current location in the saved starting plan while the move is only a possibility. Once chosen, expected life events can reflect it without presenting that app entry as a legal determination.
 
-Return with a full cost comparison and a specific professional question about the real circumstances. Keep the move hypothetical while it remains an idea. Once the timing and intention support an expected event, record it without treating the app entry as proof of residency or tax treatment.
+Review the other arrangements affected by the move. Estate documents, healthcare directives, insurance, business registrations and provider services may need attention. A lower income tax does not compensate for a coverage gap or a legal document no longer suited to the household.
+
+In the demonstration, compare current and proposed household cash flow, include moving costs, then isolate the transaction-specific residency question. Use actual current jurisdictional research only when the locations are known. There is no reason to invent a state-specific threshold for a generic example.
+
+Finish with the full life-and-cost comparison and a focused professional question about timing and residency. The decision may be to move, wait, or stay. Each is complete when the reason is understood and the plan reflects the actual intention.
+
+### Visual and source notes — not spoken
+
+Newgeneric10ktaxsaving−8kothercost=2krecurring;20kmovecostnotguaranteedbreakeven. Noactualstatepairresearchedorclaimed. Jurisdictionfactsandprofessionalreviewprecedereliance. Nochangeofaddressshortcuts.
 
 ### Production notes
 
-No state-specific threshold without current jurisdictional research. Generic worksheet does not establish domicile. No tax-avoidance shortcut or backdated-residency advice. Return to 2.4 and 5.3.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Demonstration plan — not spoken
+
+Separate genericcostillustrationfromrealstateproposal;showrecurringcosts,movedateandtwojurisdictionquestions. Narration: “This is the financial comparison. The legal residency conclusion needs the real facts reviewed separately.” Noresidencyassertionorfilingchange.
+
+The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
 
 ### Member checkpoint
 
-- Compare total household costs and life consequences.
-- Verify residency and source-income treatment in both jurisdictions.
-- Keep the move hypothetical until the intention and timing support a baseline event.
-
-### Source-led visual and teaching notes — not spoken
-
-Current versus proposed household costs with the move date and unresolved legal/tax questions. No invented state thresholds, backdated residency or provider quotes.
-
-Editorial reason: Prevent a modeled tax advantage from replacing the life decision or residency verification.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
-
-### Advanced demonstration plan — not spoken
-
-Compare the same spending needs with the proposed location's actual or clearly hypothetical housing, insurance, healthcare, income and moving costs. Prepare questions for professionals familiar with both states. Record only the intended event, not a legal conclusion. Return to 2.4 and 5.3.
-
-Use this with the linked core working chapters; it does not create another required lesson or claim an app/device test was performed. Record precise controls and actual outcomes only after the relevant gate is met.
+Compare complete household costs and life effects, then obtain specific two-jurisdiction residency/source-income review before relying on transaction timing.

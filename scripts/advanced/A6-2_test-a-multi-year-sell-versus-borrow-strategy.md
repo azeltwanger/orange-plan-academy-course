@@ -1,7 +1,7 @@
 # A6.2 — Test a multi-year sell-versus-borrow strategy
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/advanced/02-access-custody-and-estate.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: advanced
@@ -11,46 +11,52 @@ Use when: recurring retirement borrowing is a serious alternative to asset sales
 
 ### Read aloud
 
-A borrowing strategy that preserves Bitcoin this year still has to fund later spending and repay the debt. Follow the policy through difficult years and the exit, not just the first year's retained balance.
+Borrowing once for a temporary need is different from borrowing every year to fund retirement. A recurring strategy has to carry the earlier loans while adding the next year's spending.
 
-Hold the spending, retirement timing, and market assumptions constant. Compare the current funding plan with the proposed policy. Read the annual cash need, sales, loans, interest, debt balance, collateral, and eventual repayment. Include the years after a weak market, not only the years when price growth easily covers the debt.
+This lesson follows that accumulation through the difficult period and the exit. It doesn't stop when the first loan lets you avoid a sale.
 
-The source of repayment matters. Selling later, using another account, paying from income, refinancing, or leaving an estate obligation are different plans. Each has costs and uncertainties. A strategy that repeatedly borrows to pay interest can grow the obligation even when household spending is unchanged.
+Hold the spending need, starting assets and market assumptions constant. Compare the current sale-based policy with the proposed borrowing policy. For each year, read cash delivered, fees, interest paid or added, ending debt, collateral and the source of eventual repayment.
 
-Use an assumptions receipt. Which rate is fixed, and how is the rate modeled over time? What collateral is eligible? How is interest paid? What happens at a contractual threshold? Which parts of the proposed policy are actually supported by the engine?
+A simple example shows why the debt path matters. Suppose a household borrows $20,000 at the beginning of year one and adds 10% interest at the end. It owes $22,000.
 
-A hybrid described as selling within a tax limit and then borrowing still needs the exact limit, tax assumptions, and residual borrowing path explained. A policy label cannot replace the year detail.
+At the start of year two, it borrows another $20,000 for that year's spending. The balance becomes $42,000 before interest. Adding another 10% leaves $46,200 owed at year-end.
 
-Stress lower Bitcoin growth, an early drawdown, higher rates, longer life, and reduced refinancing availability. Also record risks the simulation does not quantify, such as provider failure or changes in contractual access. A higher chance-of-success output is not proof those risks are acceptable.
+The two years provided $40,000 of spending and created $6,200 of interest in this simplified example. Actual contracts accrue differently, and fees or changing rates can add other costs. But even with unchanged annual spending, the obligation grew faster than the new cash received.
 
-Estate assumptions deserve particular caution. Inherited basis, the taxable estate, loan settlement, liquidity, beneficiary treatment, and jurisdiction can change the outcome. Do not build the entire strategy on a slogan about never selling or avoiding all tax at death. Use current legal and tax review of the intended structure.
+Bitcoin might appreciate enough to support that strategy under the chosen assumptions. It might not. Compare a long flat period, an early decline and a higher interest path, not just a strong ending price.
 
-For the Reed household, a borrowing scenario must preserve the current reserve and early-access needs and must not silently create an actual loan record. If the family eventually adopts a policy, it moves through the supported Preview and save flow. An executed loan is recorded separately with its real terms.
+At each difficult year, ask whether the household could continue. Does the lender require more collateral? How much of the Bitcoin is now pledged? Is there cash to respond without taking money from essential bills? Could the agreement end before the assumed market recovery?
 
-For the Reeds, compare the same household spending under sales, another available funding source, and the proposed borrowing policy. Inspect a year after weak returns. Has interest added to the loan, is more Bitcoin pledged, and what resource is still available to respond? A favorable final balance can hide a difficult period the household would have had to survive first.
+The repayment source needs a date and an amount. Selling later, using another account, paying from income or refinancing are different plans. Refinancing is not guaranteed by the fact that the first loan was approved.
 
-Return with one funding policy, its repayment and estate assumptions, the risks not measured by the simulation, and a review rule. Declining recurring borrowing is a complete decision. No strategy is established by the phrase 'never sell' when its later obligations remain unexplained.
+A hybrid policy can combine sales and borrowing. For example, the household might sell a limited amount under a reviewed tax strategy and borrow for a remainder. Explain the actual sale, gain, tax and residual cash need. A policy name does not establish that every year's bill has been funded.
+
+Compare after-tax resources at matching dates. Borrowing preserves more assets initially but also leaves a liability. A sale reduces assets but avoids the new interest and collateral exposure. Looking only at Bitcoin retained or total gross assets can favor the wrong version of the household's position.
+
+Estate assumptions deserve particular care. Debt does not disappear because the plan ends at death. Basis treatment, estate obligations, beneficiary rules, legal ownership and settlement liquidity need review for the actual jurisdiction and assets. Don't build the result on a slogan about never selling or avoiding every tax.
+
+Provider failure and interrupted access may not be represented in the simulation. Record those limits separately. A favorable chance-of-success output is not a probability that a lender will remain solvent or honor a hoped-for extension.
+
+For the Reeds, this remains a comparison unless a borrowing policy is deliberately adopted. Their source does not contain a Bitcoin-backed loan. A modeled policy and an executed loan record are not the same thing.
+
+Finish with the preferred funding policy, its debt and collateral path, its exit, and the conditions that would make you stop adding debt. Declining recurring borrowing is a complete result. The point is to know whether the household can carry the policy, not whether one year's sale was avoided.
+
+### Visual and source notes — not spoken
+
+Existing recurring-retirement-borrowing scope. New generic beginning-of-year loans of $20,000 with end-of-year simple 10% capitalization: year 1 $22,000; year 2 ($22,000+$20,000)*1.10=$46,200; total spending $40,000 and interest $6,200. This is not a lender rate quote, actual accrual method or adopted Reed loan. Preserve supported D63 behavior, contract risks, same net spending and after-tax comparison; no estate-tax guarantee.
 
 ### Production notes
 
-D63 engine-preservation contract governs support and limitations. No fabricated liquidation frequency, counterparty probability, or estate-tax guarantee. Show current/preview assumptions and actual year outputs only. Return to 6.6–6.8.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Demonstration plan — not spoken
+
+Show the two-year $20,000 borrowing illustration separately from the app, then inspect a supported actual policy after a weak market and at repayment. Narration: “This year starts with last year's debt still outstanding. Add the next spending need and follow both the interest and the collateral before judging the ending wealth.” No loan application or claim that a lender remains available.
+
+The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
 
 ### Member checkpoint
 
-- Inspect the debt and collateral path across difficult years.
-- State repayment and estate assumptions explicitly.
-- Record unsupported risks and the conditions for changing policy.
-
-### Source-led visual and teaching notes — not spoken
-
-Year-by-year cash delivered, sale proceeds, borrowing, interest, total debt, collateral, accessible reserves and repayment. Keep existing debt separate from a hypothetical policy and show unmodeled provider risk alongside the result.
-
-Editorial reason: Follow recurring borrowing through liquidity stress and eventual repayment rather than first-year retention.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
-
-### Advanced demonstration plan — not spoken
-
-Keep the baseline and spending unchanged while comparing supported policies. Read the assumptions receipt, a weak-market year, rate changes and the repayment path. Identify unsupported refinancing/counterparty/estate assumptions rather than invent a probability. Verify current-versus-preview and actual-loan separation. Return to 6.6–6.8.
-
-Use this with the linked core working chapters; it does not create another required lesson or claim an app/device test was performed. Record precise controls and actual outcomes only after the relevant gate is met.
+Explain the multi-year debt and collateral path, exit and after-tax trade-off, with a defined rule for stopping or reducing new borrowing.

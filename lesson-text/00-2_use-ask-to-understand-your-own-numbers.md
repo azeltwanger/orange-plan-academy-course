@@ -1,7 +1,7 @@
 # 0.2 — Use Ask to understand your own numbers
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/00-start-here.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`, Austin's August 25 AI direction, and the sources identified in `delivery/source-led-batch-01.md`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; Ask and optional feature inserts retain APP_CAPTURE.
 
 Kind: teach
@@ -10,39 +10,43 @@ Sources: DICTATION, APP, LANDING
 
 ### Read aloud
 
-As you build your plan, you'll have questions about the numbers you're seeing. Maybe the amount left to invest looks higher than what you actually have. Maybe the retirement date looks much earlier than you expected. Ask is there to help you work through that question.
+When a number in your plan surprises you, the useful next step is understanding where it came from. Ask can help you work through that question, but the answer still needs to agree with the plan.
 
-I would start with the number you're trying to understand, rather than asking it to optimize your entire financial life at once.
+Start with one thing. “Why is there only this much left to save?” is more useful than “Optimize my finances.” It gives you a calculation to trace and a way to tell whether the explanation helped.
 
-On cash flow, a useful question is, "Walk me from my income to the amount left to save. Show me what's being subtracted." Then follow that explanation back to the numbers in the plan. Can you see the income, the spending, the taxes, the debt payments, and the contributions it is talking about?
+Let's use Alex and Morgan's original cash flow. The example leaves $500 after the listed costs and Alex's existing retirement contribution. You might look at that and wonder whether they should stop the contribution to build cash faster.
 
-That last step matters. You want to understand where the number comes from well enough that you can return next month and follow it again. An answer that sounds reassuring but doesn't explain the calculation hasn't finished the job.
+Before making that decision, ask: “Walk me from income to the $500 remaining. What has already been deducted?” Then look at the same rows in the plan. The employee contribution comes from household pay. The employer match is additional retirement money, not money available for bills.
 
-We'll use Alex and Morgan's original cash flow as an example. After the costs and employee contribution in that illustration, they have five hundred dollars left. Before deciding how to use it, I would ask, "What has already come out before this five hundred dollars? Is the employee contribution included?"
+Now the question has become clearer. You aren't choosing where an unexplained number should go. You know what's already committed, and you can compare changing one commitment with the consequence beside it.
 
-Their employer's contribution is additional retirement money. It isn't money they can spend on the bills. We will check that distinction in the plan rather than accept a second, different total from the assistant.
+Use that pattern for other questions too. “Why is this retirement year more expensive?” “Which account funded the withdrawal?” “What information is missing before I compare a sale?” Ask for the source of the number and the reason for the difference.
 
-You can also use a question to find what deserves attention. Try, "Which missing information could change this decision the most? Explain why." A missing loan payment might be important to today's cash flow. An old Bitcoin purchase date matters to a different question. Ask for that distinction so you don't spend the whole session cleaning up something unrelated to the choice in front of you.
+An explanation that sounds confident but uses a different date, balance, or assumption hasn't finished the job. Follow it back to the input or result. If it cannot show the connection, keep the question open rather than changing the plan to match the answer.
 
-When the numbers are clear, use Ask to help frame a comparison. "What should I compare before deciding whether to pay extra on this debt?" Or, "What changes if I put this contribution in a retirement account instead of keeping it accessible?"
+Once you understand the current picture, ask for a comparison. For debt, that might be, “What should I compare before making an extra payment?” For an account, “What changes if this money goes into retirement saving rather than staying available for the earlier years?”
 
-I also like asking what I might be overlooking: "What would make this choice less useful than it looks? Which assumption is doing the most work?" That is more helpful than asking the assistant to agree with the option you already prefer.
+You can challenge your preferred answer as well. Ask what would make the choice less useful than it first appears. That helps you notice a tax cost, an access problem, or a payment you're assuming will be easy to make.
 
-Then look at the actual modeled comparison. Check the amount, the timing, what stayed the same, and what else would have to change. A written explanation and a calculation have different jobs. The explanation helps you understand the choice; the plan is where you verify its effect. A proposed change still needs your decision before it becomes the plan you intend to follow.
+Then check the actual comparison in the plan. Written reasoning and a modeled result have different jobs. The explanation helps you understand; the calculation shows the effect of the inputs being tested. Neither automatically adopts a change for you.
 
-For a tax or legal question, use the discussion to get prepared. For example, "Summarize the facts and questions I should take to my CPA about this conversion." The useful output is a focused question with the relevant information behind it, not permission to carry out a transaction without checking your circumstances.
+For a professional question, use Ask to organize the facts. “Here is the conversion we're considering, the year, and where the tax money would come from. What should we verify with the CPA?” That is a focused handoff, not a substitute for the review.
 
-Market context has a different purpose. Read when the information was checked and where it came from. Then ask whether it changes a planning decision, a payment risk, or an assumption you need to review. A move in Bitcoin's price can matter, but a news headline by itself isn't a reason to rewrite every part of the plan.
+Market information has a different purpose. Check its date and sources. Then ask whether it changes an actual planning decision. You don't have to rewrite the household plan because a daily price update is interesting.
 
-Be deliberate about what you share. A summary for an outside AI tool and a backup used to restore the whole plan are different files. Review any file before uploading it elsewhere. Even when names and account identifiers have been removed, the financial details can still be sensitive.
+Be deliberate about sharing files. A summary for an outside AI review is different from a backup intended to restore the plan. Read the file before sending it elsewhere. Removing a name does not make every financial detail non-sensitive. Recovery words, private keys, passphrases, PINs, and account credentials never belong in a planning question.
 
-Wallet recovery words, private keys, passphrases, PINs, passwords, and account credentials do not belong in a planning prompt. You don't need them to explain cash flow or compare retirement choices.
+In the demonstration, we'll use a populated plan and ask one question about a number already on screen. We'll compare the response with the source rows and decide the next step. The useful finish is simple: you can explain the number yourself and know whether to correct a fact, compare a choice, or ask for specific help.
 
-For now, choose one question about a number or decision you care about. We'll use the populated example in the working session so you can see the question, the explanation, and the underlying number together. The finish line is being able to explain the answer yourself and knowing the next thing to check or compare.
+### Visual and source notes — not spoken
 
-### Visual notes — not spoken
+Visual: question → source row → explanation → next decision. Preserve the existing conditional market-report and outside-AI export inserts; availability is still unverified. No staged assistant answer or automatic strategy save. W01 chapter 10 demonstrates the real context and permissions.
 
-Use prompt cards, one at a time: explain a number; identify missing information; frame a comparison; challenge a preferred choice; prepare a professional question. Keep the actual result beside its relevant source rows during W01 chapter 10. Do not stage an AI reply or a calculated result. No recreated app interface is needed for the concept take.
+### Production notes
+
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 ### Screen-dependent inserts — record only after verification
 
@@ -52,14 +56,6 @@ Use prompt cards, one at a time: explain a number; identify missing information;
 
 These are prepared narration, not claims of verified availability. The exact entry point, coverage, permissions, file contents and privacy behavior must be shown in the approved build. If an expected feature is absent, hold its insert and report the course/offer gap. Do not silently weaken the promise, invent a replacement, or present a prototype as shipped.
 
-### Production notes
-
-Source ledger: `delivery/source-led-batch-01.md`. Preserve Austin's benefits-first request; keep the privacy explanation proportional and practical. The five-hundred-dollar example is the unchanged original Reed cash-flow arithmetic under its illustrative tax provision, not a new engine result. The private call's learner confusion motivates tracing the number; no client dialogue or identifying facts are reproduced.
-
-APP_CAPTURE remains for the complete lesson. General prompt habits can be rehearsed now; any claim that Ask reads context, routes changes, or provides particular exports must match the actual demonstration. Do not claim the assistant computes authoritative projections, automatically saves a strategy, has every prior result in context, or guarantees anonymization.
-
 ### Member checkpoint
 
-- Ask one focused question about a number or choice.
-- Trace the answer to the actual input or calculation and explain it in your own words.
-- Identify one next check or comparison while keeping sensitive records private.
+Trace one answer to an actual input or result and choose the next check or comparison.

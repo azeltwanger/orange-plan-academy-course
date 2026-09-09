@@ -1,7 +1,7 @@
 # A7.1 — Compare passphrase, multisig, and professional support
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/advanced/02-access-custody-and-estate.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: advanced
@@ -11,46 +11,48 @@ Use when: the basic custody arrangement leaves a named failure that another arch
 
 ### Read aloud
 
-Choose a more advanced custody arrangement only after naming the failure it needs to address. A passphrase, multisig, professional custody and collaborative support solve different problems and require different recovery information.
+You may be considering a passphrase, multisig or professional support because the basic setup leaves something important exposed. Start by naming that exposure. Each option solves a different problem and introduces different responsibilities.
 
-A passphrase changes the wallet derived from the recovery material. It adds another exact secret to preserve. A wrong passphrase can produce a different valid wallet, which makes testing and documentation important. It does not create a second cryptographic signer or a legal approval process.
+A passphrase changes the wallet derived from the backup material. It can add protection when the backup alone is exposed, provided the passphrase remains separate and secure under a well-designed process. It also adds an exact secret you must preserve.
 
-Multisig requires a defined combination of keys. A two-of-three policy can survive one unavailable key if the other required resources remain usable. It also requires configuration information and compatible recovery tools. Test which combinations work, including a provider-independent path when the arrangement claims to provide one.
+A wrong passphrase can open a different valid wallet. That is why checking a word list alone is not full proof that the intended passphrase wallet can be recovered. The backup, passphrase and verification of the intended wallet need to work together. A passphrase isn't a second cryptographic signer or a legal approval step.
 
-Collaborative support can help a household maintain that process. Read which key the provider holds, what it can and cannot do, the approval process, recovery fees, identity requirements, and what happens if it disappears. Provider involvement is not automatically equivalent to provider control of the entire asset.
+Multisig requires a specified combination of independent keys. A two-of-three policy can authorize a transaction with two of the three keys. If one is unavailable, the remaining two may provide a recovery path—when the configuration, compatible tools and required information are also available.
 
-Institutional custody may simplify key management and family administration, but it creates a contractual and counterparty dependence. Review ownership, segregation, withdrawal restrictions, legal process, and the exact services offered. A retirement or brokerage structure adds its own wrapper and beneficiary rules.
+Buying three devices does not automatically create that arrangement. Loading the same key onto three devices provides copies of one key, not three independent signers. The distinction matters to the failure you're trying to survive.
 
-An intentional split can preserve direct control over one portion and professional support for another. Define the purpose and maximum exposure of each portion. More methods are useful only when they remove meaningful dependence without creating an unmaintainable process.
+Collaborative support can help operate a multisig arrangement while the provider holds only one key. Read exactly what the provider can authorize, what it requires, its fees, and how recovery works without it. A claimed provider-independent path should be demonstrated safely before you depend on it.
 
-Use a non-secret comparison table: protection gained, new failure introduced, recovery requirements, family usability, cost, and review cadence. Keep the signing material and sensitive configuration outside the ordinary course workbook.
+Institutional custody assigns more of the operational work to a provider. It may simplify administration or the family's starting process. In exchange, you depend on the contract, legal ownership, withdrawal procedures and the provider itself. Read those terms rather than assume an institution supplies unlimited recourse or insurance.
 
-Before moving meaningful funds, conduct a small-value test using current vendor instructions. Verify the complete recovery path, not merely the ability to sign one transaction today. Involve the professional needed for the actual arrangement.
+Let's compare the problems. If theft of one backup is the concern, a correctly maintained passphrase or threshold arrangement may address it differently. If the concern is that the family cannot operate an elaborate process, adding another secret may make the situation worse. Support or simplification may solve the actual problem more directly.
 
-Test the proposed improvement under the failure you named. If a component or provider is unavailable, can the remaining resources recover the intended wallet under that actual setup? A second device is not automatically a second signer, and a passphrase is not a substitute for a tested threshold policy. Adding complexity helps only when the household can still maintain and recover the arrangement.
+An intentional split can combine direct control for one portion and support for another. Choose the portion by its job and the consequence of failure, not because every advanced user needs a certain number of methods. Each method adds maintenance.
 
-Return with the simplest method that meets the household's control and continuity needs, the risk it still retains, and the exact safe test required. Keep configuration and secrets in the protected recovery process, not the ordinary family worksheet.
+Before moving meaningful funds, test the proposed improvement against the named failure. Can the intended wallet be recovered when one key, device or provider is missing? Is the configuration available through the protected process? Does the person responsible know how to start?
+
+Use current official instructions and a separate small-value setup for learning. Its successful recovery proves that setup, not a different funded wallet. Actual arrangements need their own appropriate safe verification.
+
+Keep secret material and sensitive configurations out of ordinary course notes. The comparison should document protection gained, responsibility added, risks retained, cost and the family route—not publish a complete recovery kit.
+
+Return with the simplest arrangement that satisfies the household's control and continuity needs, plus the specific safe test still required. More complexity is useful only when it addresses a meaningful failure and can still be maintained.
+
+### Visual and source notes — not spoken
+
+Original custody framework and current passphrase/multisig mechanics, not a wealth-based ladder. Independent keys plus configuration and usable recovery tools are required; duplicating one key is not creating multiple independent signers. Recovery on a practice setup does not certify funded holdings. Current BIP39 and actual vendor/professional procedures control execution. Sensitive descriptors and extended keys are not ordinary public worksheet content.
 
 ### Production notes
 
-Exact BIP39/passphrase and multisig configuration claims need current primary vendor/spec verification. No funded seed demonstration. Attorney/custody coordination for actual family design. Return to 7.1–7.2 and 8.2.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Demonstration plan — not spoken
+
+Use non-secret architecture diagrams and one named missing component. Show what information and independent keys remain. Narration: “The improvement has to survive the failure we chose. Another copy of the same key solves a different problem from another independent signer.” Any live training test uses separately authorized small-value setup and current instructions.
+
+The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
 
 ### Member checkpoint
 
-- Name the failure each proposed architecture addresses.
-- Test the complete recovery path and dependencies.
-- Document the non-secret choice and retained risks.
-
-### Source-led visual and teaching notes — not spoken
-
-Protection gained / new responsibility / failure retained / recovery requirements / family starting path. No secret strings, descriptor contents or universal passphrase-split design.
-
-Editorial reason: Evaluate advanced custody against a specific unavailable-component case rather than complexity or wealth level.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
-
-### Advanced demonstration plan — not spoken
-
-Compare the actual methods using public specifications and the relevant provider agreement. Rehearse the non-secret absence path and separately verify the claimed signing/recovery combinations on a safe test setup. A practice test does not certify a different funded wallet. Return to 7.1–7.2 and 8.2.
-
-Use this with the linked core working chapters; it does not create another required lesson or claim an app/device test was performed. Record precise controls and actual outcomes only after the relevant gate is met.
+Choose a custody architecture for a named failure and verify the complete safe recovery path and retained responsibilities.

@@ -1,7 +1,7 @@
 # 6.6 — Compare selling, borrowing, and using other resources
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/06-retirement-paycheck.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: teach
@@ -10,46 +10,50 @@ Sources: RETIREMENT, DEBT, BRAIN, OWNER, APP, PRIMARY
 
 ### Read aloud
 
-Selling Bitcoin, borrowing against it, and using another resource can all fund a cash need. We'll compare the same need across those choices, including what each one requires later. Keeping more Bitcoin initially is a benefit to weigh, not the entire answer.
+When you need spending money, you may prefer not to sell Bitcoin. That preference gives us a comparison to make—not a source of cash by itself.
 
-Selling converts part of the position into spendable cash. The tax depends on the units sold, supported basis, holding period, other income, and current rules. It removes future upside on the units sold, but it also avoids adding a lender and a repayment obligation.
+The bill still needs a payer. It might be covered by income, existing cash, another investment sale, a Bitcoin sale, or borrowing. Let's compare what each leaves behind.
 
-Borrowing may preserve more Bitcoin initially and avoid a sale at that point. It adds interest, collateral requirements, lender exposure, and a repayment problem. The household may still sell later to repay, or face liquidation under the contract. Deferring a taxable sale does not make the entire lifetime funding path tax-free.
+Start with the same spending need and the same date. A sale needs to provide the cash after its tax and fees. Borrowing needs to provide the same usable amount after loan costs. Comparing gross sale proceeds with net borrowed cash would not be an equal starting point.
 
-Using another account can preserve Bitcoin too. That alternative may be simpler than borrowing, but its taxes, access, and effect on later years need to be read. Holding Bitcoin unchanged is only a complete strategy when another credible resource funds the spending.
+A Bitcoin sale reduces the position and may realize a gain. There is no new loan payment from that sale. Borrowing can preserve more Bitcoin initially, but it adds interest, collateral or other contract exposure, and a later repayment obligation.
 
-For a small tax-sensitive example, suppose a taxable sale would realize twenty thousand dollars of gain. The tax cost depends on the household's situation. Compare the actual estimated tax with the cumulative interest, fees, risk, and eventual exit of a loan. A low-gain sale in a low-tax year can be less costly than expected. A large low-basis sale in a high-income year may make borrowing worth evaluating, provided the household can support the risk.
+We covered loan mechanics in Debt. Here the new question is whether that obligation fits a retirement paycheck with less employment income supporting it.
 
-Borrowing repeatedly through retirement compounds the question. Interest may increase the balance, more collateral may be required, and the lender's terms may change. A plan that assumes perpetual refinancing needs to show what happens when refinancing is unavailable or Bitcoin remains weak for several years.
+Use a simple illustration. A household needs $20,000. A $20,000 loan at a hypothetical 10% rate costs $2,000 of simple annual interest if the principal remains unchanged. Paying that interest from cash uses another $2,000. Adding it to the loan leaves $22,000 owed after that simplified year.
 
-Read the share of Bitcoin at the lender as well as LTV. A loan can be comfortable against its collateral and still place more of the family's wealth with one counterparty than the household wants. The simulation may model collateral mechanics without assigning a reliable probability to lender failure. That unmodeled risk still belongs in the decision.
+Neither version made the spending free. One used more cash along the way; the other increased the future obligation. Actual loans can accrue differently and include fees, so those are mechanics, not an offer.
 
-Keep an existing loan, a possible new loan, and a recurring retirement-borrowing policy separate. The first is already a real obligation. The second is a comparison you might reject. The third commits future years to a funding approach that still needs terms, repayment and review. Testing a possibility should neither create a real debt nor make an existing one disappear.
+Now suppose Bitcoin rises. The retained position may help the borrowing version. Suppose it stays flat for several years, or falls while interest continues. The liability still needs support. A favorable ending portfolio value doesn't prove the household could survive the path leading to it.
 
-A hybrid strategy may sell within a chosen tax limit and borrow after that. Other supported approaches may use sales, borrowing, or custom phases. Read what the strategy actually does in the affected years. The name alone does not explain the amount, timing, collateral, or repayment assumption.
+Read both the financial and contractual picture. Can the payments be made? Is collateral approaching an action threshold? How much Bitcoin is pledged? What is the repayment source at maturity? Those questions are separate from the retirement success percentage.
 
-An initial-LTV default is simply a model input. It is not a safety recommendation. Test the amount and collateral you intend to use against the actual contract, an immediate drawdown, higher rates, and a long weak period. Include the household rules written in the Debt session.
+A household-wide low debt ratio doesn't prevent a lender from acting on the collateral for its own loan. Likewise, a cash reserve assigned to essential spending is not automatically available for a top-up or repayment. Show where a response would come from without leaving the bills unfunded.
 
-For the Reeds, keep spending, timing and market assumptions the same while changing the funding method. Read cash delivered, tax, interest, debt remaining, Bitcoin retained and the share held with a lender. Then inspect a difficult year and the repayment. A route that keeps more Bitcoin but consumes the family’s response resources may not be the trade-off they want.
+Try the sale alternative under the same market path. How much tax is realized now? How much Bitcoin remains? What future growth is given up, and what interest and lender exposure are avoided? The cost can be worth paying when it simplifies the funding and removes a fragile obligation.
 
-Where a risk is not quantified, such as a provider becoming unavailable, keep it beside the modeled result rather than assume a higher success percentage has answered it.
+Try using another asset too. If it has a role elsewhere in retirement, show the effect on that part of the plan. Selling stocks or using Roth money merely to preserve Bitcoin can create a different concentration or future funding trade-off.
 
-Choose the funding approach you can explain and operate. State what pays the spending now, what repays any borrowing, which risks you accept, and what would make you change course. Limited sales or another available account can be a complete choice; borrowing is not required to make the plan Bitcoin-first.
+Sometimes the best comparison is spending less or postponing a discretionary expense. “Hold” is an actual option only when the spending has another source or the commitment can change. Holding everything while leaving an unavoidable bill unpaid isn't a financing strategy.
+
+Tax timing matters, but avoiding a sale today does not guarantee avoiding it forever. A later sale to repay the loan, lender liquidation, or a change in the agreement can have consequences. Include the intended exit instead of ending the comparison while debt is still outstanding.
+
+For Alex and Morgan, new borrowing remains a scenario unless deliberately chosen. The existing source does not contain a Bitcoin-backed loan. We won't create one just to make the course demonstrate a strategy.
+
+In the working chapter, compare the same net spending across sale, another available source, and a relevant borrowing option. Read the first year, a weak period, and the exit. Keep contract features the app cannot represent in the separately reviewed analysis.
+
+The result should be a rule you can explain: when a sale is acceptable, when another source is preferable, and what would have to be true before borrowing is considered. Preserving Bitcoin is one objective. Keeping the retirement plan workable is the reason for the comparison.
+
+### Visual and source notes — not spoken
+
+Retirement sell/borrow/hold framework applies priorDebt mechanics to netspendingandmulti-year exit. Newillustrative20kloan10%simpleone-year=>2kinterest or22kdebt;notratequote/newReeddebt. Preserve repayment/top-up/concentration/contract/pricepathchecks and sameaftertaxneed. No never-sell promise or totalnetworth hiding lender-specific liquidation. Appunsupportedcontracts remainseparate reviewedanalysis.
 
 ### Production notes
 
-D63: first decision layer, assumptions receipt, deeper year detail; preserve all modeled variables. Hybrid language is Sell within your tax limit, then borrow. Accepted future initial LTV 50% is never safe/optimal/recommended. Do not fabricate Monte Carlo liquidation frequency or counterparty-loss probabilities. No direct loan execution.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 ### Member checkpoint
 
-- Compare the same cash need across funding choices.
-- Read tax cost, interest, collateral, provider exposure, and eventual repayment.
-- State which risks the household accepts and which remain unmodeled.
-
-### Source-led visual and teaching notes — not spoken
-
-Same cash need across Sale / Borrow / Other resource. Show retained exposure alongside taxes, cumulative interest, ending debt, collateral, provider exposure and exit. Use actual model outputs only; no assumed liquidation frequency or counterparty probability.
-
-Editorial reason: Bring the multi-year exit and household liquidity into the sell-versus-borrow decision.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+Compare equal net spending through sale, other available resources and borrowing, including weak periods and the exit.

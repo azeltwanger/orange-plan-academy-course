@@ -1,25 +1,27 @@
-Once a year, step back and ask whether the whole plan still fits the life you intend to fund. Use the prior dated plan as the starting point, then review the facts, strategy, family arrangements and next actions together.
+A plan can stay accurate month to month and still need a broader review once a year. Income, goals, account balances and family responsibilities can gradually change what the old decisions should do.
 
-The Annual Plan Refresh gives you the review in one place. Work through the current position, cash flow and reserve, debt, allocation, taxes, retirement funding, and family protection. Use the actual app pages for the numbers; the review record explains what changed and why.
+The annual review is a check of the system you already built—not another run through every lesson from scratch.
 
-Home asks whether the current position is true. Review account ownership, holdings, debt balances, important source gaps, and any unresolved issue that could affect trust in the numbers. A plan review begins with the actual financial picture rather than an old snapshot.
+Start with current facts. An annual strategy discussion based on stale spending or an old account balance is likely to solve the wrong problem. Complete the monthly cleanup first, then use the Annual Plan Refresh as the working record.
 
-Cash Flow asks whether the monthly system is still working. Review income, everyday spending, taxes and withholding, required debt payments, saving, and the reserve. Check whether the contribution plan still fits the amount available. A paid-off debt or completed reserve target creates a new routing decision; it does not automatically assign the money for you.
+Begin with spending and the Reserve. If retired, read the policy status and compare the coming year's spending using the process from Retirement Income. Check what any change means for withdrawals and the refill. If still working, review whether the Reserve target and funding pace still fit the household.
 
-Plan asks whether the future still works. Read the intended retirement date, the earliest modeled date, the chance-of-success result, and the assumptions behind them. Inspect account access, withdrawal strategy, taxes, borrowing, and expected life events. Focus on the decisions that could materially change the outcome.
+Next, look at Allocation. Has the mix drifted, or has the purpose of some money changed? A purchase getting closer can turn a long-runway investment question into a funding question. Compare new contributions or a specific change before selling simply to make the chart look tidy.
 
-Compare one meaningful alternative at a time before combining changes. You may test a different spending level, a later work transition, a contribution change, or a tax strategy. An assumption review should improve the credibility of the plan, not simply restore a percentage you prefer.
+Then check Debt. Are the rate, principal, payment and maturity still what the plan assumes? Is the repayment source still credible? A loan-specific threshold needs its regular monitoring; the annual pass checks whether the broader strategy still fits.
 
-For a retired household, complete the spending review under the policy actually used. Read any proposed increase or decrease, the applicable limits, and the reserve-refill decision. A higher portfolio value may support more spending; a weaker picture may call for adjustment. The household chooses the change after reading the comparison.
+For Tax, update the current year's income picture and the next important windows. Is a conversion, gain, loss or required distribution relevant? Bring the actual records and proposed actions to the appropriate review before the deadline, rather than discover them after filing season begins.
 
-Protect asks whether the family can carry out the plan. Review beneficiaries, trusted people, legal-document status, custody methods, recovery proof, provider arrangements, heir instructions, and insurance gaps. Make sure the people named in the process are still willing and able to help.
+Custody is the next area. Has a provider, device, key arrangement, authentication method or helper changed? Does the existing recovery evidence still apply to this setup? You do not need a destructive live-wallet test merely to tick an annual box. Review the evidence and perform only the appropriate safe check for what changed.
 
-Tax work has its own calendar. Schedule the review early enough to evaluate actions before relevant deadlines. Current realized gains, losses, carryforwards, conversions, distributions, and income estimates need to be coordinated with the professional preparing the return. The annual course review does not replace year-round tax obligations.
+Finally, review the family documents, ownership, beneficiaries and insurance. Do the people and contacts still agree to their roles? Can the safe starting instructions be found? A change in a relationship, child, jurisdiction or account can require a specific update even when the financial projection still looks fine.
 
-Some operational checks have a different cadence. Follow the current device and provider requirements for recovery and account security. Monitor a volatile-collateral loan as frequently as its risks require. A yearly reminder is not enough for a loan close to an action threshold.
+Here's an example of why the sequence matters. Suppose a debt ended during the year and its payment remained in checking. First confirm the debt is actually gone. Then review whether the Reserve is funded and which contribution destination now deserves that money. Update the instruction and verify the first purchase. You don't need a new complete portfolio design to solve that gap.
 
-For the Reeds, a completed card payoff could create room for the later contribution route. Confirm the debt really ended and recheck the same cash flow before directing the released money. A changed college commitment or healthcare estimate can claim some of that room. We are coordinating the decisions, not automatically investing every dollar a payment used to consume.
+Another household may find that spending rose while income did not. Its annual task is to understand the change and compare a realistic response. It should not preserve every old contribution by increasing the growth assumption.
 
-Finish by recording what was decided and why, saving the supported current plan summary, and preserving the appropriate encrypted data backup when the restore process is verified. Put the next review dates on the calendar. A year later, you should be able to distinguish a market-value change, a factual correction, and a deliberate strategy change.
+After reviewing the areas, read the updated plan as one whole. Are the same dollars still being assigned once? Do the chosen spending and contribution amounts fit? Are any new comparisons accidentally mixed into Current?
 
-Save the updated plan and Annual Plan Refresh with the decisions, reasons, unfinished outside actions and next review dates. Keep the readable summary separate from the protected restoration backup. Next year, you should be able to explain which differences came from markets, corrected facts or deliberate choices.
+Choose only the changes you intend to adopt. For each outside action, record who is responsible and when it will be done. Keep the previous dated version so you can explain what changed and why.
+
+An annual review can end with most decisions unchanged. Record that they were reviewed, the few actions that matter, and the next review date. That is a maintained plan, not an unfinished redesign.

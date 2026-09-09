@@ -1,63 +1,39 @@
-When your account gives you a Traditional or Roth choice, you're deciding when to pay income tax on that retirement money: now or later.
+Should you pay income tax before investing the money, or when you use it later? That's the basic Traditional-versus-Roth decision.
 
-For a Bitcoin holder, Roth can sound like the obvious answer. If you expect the investment to grow substantially, being able to make qualified withdrawals without another income-tax bill is attractive.
+A Roth balance can look attractive because qualified withdrawals are tax-free. A Traditional contribution can look attractive because it may reduce taxable income now. To compare them fairly, we need to account for the tax on both sides.
 
-But we need to compare both sides. Traditional may let you put more money to work today because of the current tax benefit. What that money eventually provides depends on the tax when it comes out, as well as what you did with the benefit going in.
+Let's start with the same $1,000 of pretax earnings and a hypothetical 20% tax rate. We're assuming a deductible Traditional contribution and no other complications for this illustration.
 
-Let's work through a small example before applying it to the household.
+Traditional can invest the full $1,000 before that income tax. Roth pays $200 first, leaving $800 to invest.
 
-Suppose you have $1,000 of earnings, before income tax, available for retirement saving. We're using a simple 20% tax rate for this example. It isn't an actual tax bracket calculation for Alex and Morgan.
+So we begin with $1,000 in Traditional or $800 in Roth—not $1,000 in both. Equal contributions would require different amounts of household money to pay for them.
 
-With a fully deductible or pre-tax Traditional contribution, the full $1,000 goes into the retirement account. You haven't paid that income tax yet.
+Now suppose both investments double. Traditional has $2,000 before withdrawal tax. Roth has $1,600.
 
-With Roth, pay the $200 tax first. The same $1,000 of earnings leaves $800 to contribute.
+The Traditional account is larger, but the comparison isn't finished. With the same hypothetical 20% tax on the withdrawal, $400 goes to tax and $1,600 is available to spend. The qualified Roth withdrawal also provides $1,600.
 
-So we begin with $1,000 in Traditional or $800 in Roth—not $1,000 in both. If you put $1,000 in the Roth as well, you need additional money to cover the tax. That can be a valid choice, but it would be a different starting budget.
+At those equal rates and assumptions, the results match. Stronger investment growth alone doesn't make the Roth win; both versions participate in that growth.
 
-Now suppose both investments double.
+Now change the future tax rate while leaving the rest alone. At 30%, the Traditional account provides $1,400 after tax. Roth still provides the qualified $1,600. At 10%, Traditional provides $1,800 instead.
 
-Traditional has $2,000 before withdrawal tax. Roth has $1,600. The Traditional balance is larger, but we're not finished comparing what you can spend.
+That tells us what matters in the simple comparison: the tax benefit on today's contribution versus the tax cost of using the money later.
 
-At the same 20% tax rate on the Traditional withdrawal, $400 goes to tax. That leaves $1,600. The Roth also leaves $1,600, assuming the withdrawal is qualified.
+Your real life isn't one constant bracket. You may contribute during high-income working years and withdraw during a lower-income period. Or future pensions, Social Security, business income and required distributions may leave you facing substantial taxable income later. Those changes are why we use the timeline rather than assume retirement always means lower tax.
 
-They end in the same place in this simplified example.
+Look at the tax affecting the dollars being contributed or withdrawn, not only an average tax rate across the whole return. Other income, deductions, credits and healthcare effects can change the cost of the next dollar. A professional-reviewed calculation may differ from the bracket you recognize by name.
 
-That helps us identify what changes the answer. It isn't growth alone. Change the tax treatment, the resources committed, or what happens to the tax saving, and the result can change.
+Roth also provides flexibility when qualified withdrawals do not add taxable income. That may help when another income-sensitive decision matters. Traditional may let you keep more current cash available or invest a larger amount for the same take-home cost. Compare those jobs, not just the final account balances.
 
-Keep the same starting example, but use a 30% tax rate on the Traditional withdrawal. The $2,000 leaves $1,400 after tax, compared with the Roth's $1,600. If the tax on that withdrawal is 10%, Traditional leaves $1,800 instead.
+A mix can be deliberate. You may want some tax benefit today and some money with qualified Roth treatment later. There isn't a rule that every contribution has to use the same election forever.
 
-The relevant tax rate now compared with later makes a difference. The amount an investment grows can make those differences larger in dollars, but it doesn't remove the need to compare them.
+Check what happens to the current budget when changing the election. Alex's example contribution is $775 a month. The fixture doesn't establish its payroll tax election. If a switch to Roth leaves less take-home pay while the nominal contribution remains $775, that difference needs to come from somewhere. The Reserve and card instructions cannot silently spend money that no longer reaches the household.
 
-Your real tax return isn't one flat rate. We need the tax saved by the particular contribution now and the tax caused by withdrawals later, considering the other income in those years. Using the household's average tax rate for every additional dollar can give the wrong comparison.
+You could compare equal contribution amounts, but show the different current cost. Or compare equal household cost, with different amounts entering the accounts. Either can answer a useful question. Don't call them the same comparison.
 
-Start with today's situation. Is the deduction available, and how valuable would it be? An account called Traditional doesn't guarantee a full IRA deduction. Check the rules that apply to the account and household.
+An IRA adds a deduction check. A Traditional IRA contribution isn't always deductible, and nondeductible basis creates recordkeeping and conversion issues. A workplace Roth account also doesn't share every distribution rule with a Roth IRA. Use the rules for the actual account, not a label on a diagram.
 
-Then look at when you expect to use the money. A period of lower income after work stops may offer room for withdrawals or conversions at a lower tax cost. A pension, other taxable income, or large required distributions later could make the picture different.
+This lesson is about new contributions. Moving an existing Traditional balance into Roth is a conversion, with a separate tax and cash-funding decision. We'll compare that in Tax rather than treating a payroll election as a conversion of everything already invested.
 
-That's one reason I wouldn't decide solely from “I'll be retired, so I'll pay less tax.” Look at the income the plan expects in those years. For a Bitcoin-heavy Traditional account, strong growth could create a much larger balance that eventually produces taxable distributions. That deserves attention, not an assumption that every retired year has a low rate.
+For the next contribution, choose the election or mix that fits the current cost and intended later use. Then test its effect on the rest of the cash flow. Write down the reason and the life or tax change that would make you review it.
 
-On the other hand, I wouldn't dismiss a valuable deduction today simply because Bitcoin could grow a lot. If the plan can use the money later at a lower tax cost, or has a useful conversion window, Traditional can be worth comparing.
-
-A conversion is a separate decision. It moves existing retirement money into Roth treatment under the applicable rules. Choosing Roth for new payroll contributions doesn't convert the Traditional money already in the account. We will work through conversions in the tax session, including the cash needed for any tax.
-
-Roth also offers useful flexibility. Qualified withdrawals can avoid adding taxable income when you need spending money. Under current rules, Roth IRAs and designated Roth workplace accounts don't require distributions during the original owner's lifetime, although beneficiaries have their own rules.
-
-Traditional required distributions can reduce your control later. Other interactions—such as Social Security taxation or income-related healthcare costs—can change the full cost of an additional withdrawal. We'll look at those in Tax and Retirement Income rather than assume the bracket alone captures everything.
-
-Those future benefits still have to be affordable today.
-
-Suppose you keep the same payroll contribution amount but switch it from pre-tax Traditional to Roth. More of your pay is now subject to income tax, so take-home pay may be lower. That difference needs to fit beside the Reserve, debt payments and other contributions.
-
-For Alex and Morgan, we cannot change the election and simply assume the same $1,700 remains available for the Reserve and extra card payment. We need to check the actual effect. Their current $775 employee contribution tells us the amount being saved; it doesn't establish the tax election or the final tax cost.
-
-This is also why the way you use Traditional tax savings matters. If the saving is invested, it belongs in the comparison. If it gets spent, the household has used it for today's life instead of adding it to future resources. Neither should be hidden when comparing outcomes.
-
-You don't have to make an all-or-nothing choice for the rest of your working life. A deliberate mix can provide different sources to use later and avoid putting the entire decision on one forecast of future tax rates. The split should have a reason, not just be half and half because you're uncertain.
-
-For example, a lower tax cost today and substantial expected future taxable income can make Roth more attractive. A valuable current deduction and credible lower-income years can make Traditional more attractive. When both have a job, compare a mix that keeps the current cash flow workable.
-
-Don't confuse Roth tax treatment with unrestricted access. Regular Roth IRA contributions, conversions and earnings have different rules, and workplace Roth money follows its plan's distribution rules. We will use the actual access route when building the retirement paycheck.
-
-In the working chapter, we'll compare the current election with the alternatives using a consistent saving budget. Then we'll check both ends: what happens to money available today, and what kind of retirement money the contribution builds.
-
-Record the election you're considering and why, or the specific tax question that needs answering first. Confirm eligibility and the change with payroll or the custodian before treating it as implemented. Revisit the choice when income, retirement timing or the expected tax picture changes.
+A tax decision is useful when you can explain both the benefit and what pays for it. Once that is clear, we can finish what the money actually buys.

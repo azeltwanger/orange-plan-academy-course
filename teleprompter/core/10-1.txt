@@ -1,25 +1,29 @@
-Read the finished working plan in the order you would explain it to your household: where we stand, how the money supports the life we want, what could change the answer, and what we are doing next.
+You've worked through the accounts, cash flow, investments, taxes, retirement income and protection. Now the question is whether those decisions describe one plan you can use.
 
-Start with the current position. Read the accounts, assets, debts, and net worth. Check which assets are included in the retirement-funding picture and which have a separate job. A home, education account, or pledged Bitcoin position should not quietly become unrestricted cash because it appears in a total.
+Open the Household Plan Summary and the current saved result. We are not looking for a perfect-looking report. We are checking that the plan answers your original question and that the important pieces agree.
 
-Then explain the monthly system. What does the household normally spend? What is available after taxes and required obligations? How much is assigned to the Reserve, extra debt, and new investment? Which employer contributions are additional benefits rather than spendable household income?
+Begin with the life. What does work optional or retirement mean for this household? When would it begin, and what spending is it intended to support? A date without that context doesn't tell another person what has been planned.
 
-For Alex and Morgan, the explanation needs to identify which phase it describes. The original cash flow, the reduced-spending/card-payoff phase, and the later contribution route are different states. The household summary must match the saved plan being read. It cannot combine today's debt with money available only after payoff or use a proposed spending reduction as an accomplished fact.
+Then read the current answer under the chosen assumptions. Keep the intended date, calculated result, confidence target and horizon separate. Explain what is supported, what is sensitive, and what still needs to change when the preferred date does not work.
 
-Next read the trajectory. State the planned retirement date, the earliest modeled date, the chance-of-success result, and the horizon used. Identify the active assumptions. Explain the early-retirement gap and the income or account-access changes that reduce it later.
+Don't hide a shortfall in the closing presentation. Finding it and choosing a response is valuable. The plan should give you clarity about what to do, not just permission to repeat an optimistic number.
 
-Open a few meaningful years. The first year after work changes, the first benefit year, a major college or purchase year, and a later required-distribution year often explain more than an uninterrupted chart. Read the spending, taxes, withdrawals, debt, and ending resources together.
+Next, follow the money available today. Do the employee contribution, Reserve funding, extra debt and investment instructions fit the same cash flow? Is employer money counted separately? Has a future debt-payoff contribution started only when the payment actually ends?
 
-Then look at risk. Which assumption has the greatest influence? What near-term cash need could force an unfavorable sale? Does a loan add a contractual action threshold? Is a provider or recovery process carrying too much of the plan? What happens to household cash flow if one person is unavailable?
+For the Reeds, the original $500 remaining and the reduced-spending $1,700 are different states. A final summary cannot combine the higher surplus with the original spending or spend the future $1,605 payoff release today. Use the version actually chosen.
 
-Keep model limitations visible. A simulation result does not certify a lender, a tax position, a legal document, or a custody setup. The plan can model many financial effects while those other questions still require professional or operational verification.
+Now read the whole portfolio. Explain the Bitcoin position and what the other holdings provide. Which money is available soon, which supports the early retirement years, and which can stay invested longer? Show why the amounts and accounts fit those jobs rather than simply naming a target percentage.
 
-Now read the decisions. The reserve target has a reason. The Bitcoin allocation has a stress case. Every debt has a job. Contributions have accounts and intended holdings. Retirement spending has funding sources. Protection work has an honest status. The point of the review is to see those decisions as one connected plan.
+Then open the first retirement year. Identify income, complete spending, taxes, withdrawals and the source accounts. Move to the next meaningful change: a benefit begins, a major expense arrives, or an account-access rule changes. Trace that year too.
 
-Finish with the next actions. Choose the few that matter now and distinguish a saved choice from an outside step. A payroll election, a loan agreement, a legal document, or a recovery test can remain unfinished even when the plan records the intention correctly.
+A single positive headline cannot replace those funding explanations. Conversely, you don't need to study every row in the final presentation when the important transitions and the limitations are clear.
 
-The report should adapt to the household. Someone with no borrowing strategy does not need a chapter full of irrelevant loan controls. A member without children does not need a college obligation added merely because the demonstration household has one. Use the sections that explain the actual plan.
+Review the operating choices next. How will the Reserve be used and refilled? How is spending reconsidered? How would a loan be repaid or reduced? What would make the household act before the scheduled review?
 
-We'll read the actual plan alongside the Household Plan Summary and its filled example. Trace the important numbers back to the records and the same calculation. If a result is still provisional or a material fact is missing, say what remains open and which decision depends on it. A polished report does not settle an unanswered funding question.
+Then confirm protection and family continuity. The map should match the assets and accounts. Recovery evidence should describe the setup actually checked. The legal documents, beneficiaries and family contacts should agree with the intended ownership and roles.
 
-Save a dated readable plan and summary that explain the same facts, choices and limitations. Keep the restoration backup separate. The final check is whether you can tell another person how this plan works without narrating every line of a chart.
+Finally, read the outstanding actions. Some may be ordinary implementation: change payroll, open an account, confirm a purchase, or arrange a review. Others may block a major decision, such as an unresolved access route or missing basis for an intended sale. Don't label the entire plan implemented while a blocking question is still open.
+
+In the walkthrough, we'll read the actual saved example and its documents in this order, with no borrowed landing-page numbers or invented model results. The purpose is to demonstrate how the pieces fit, including the honest remaining tasks.
+
+Return to the question you wrote at the start of the course. Your answer should now include a reason: what supports the life you want, what you need to do next, and what would change the plan. That is much more useful than having a number you cannot explain.

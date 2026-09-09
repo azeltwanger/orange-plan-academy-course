@@ -1,7 +1,7 @@
 # A8.1 — Decide whether a trust has a job in the plan
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/advanced/02-access-custody-and-estate.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: advanced
@@ -11,46 +11,50 @@ Use when: probate, incapacity, beneficiaries, tax, control, or a complex asset c
 
 ### Read aloud
 
-Start with the legal or family job a trust would solve. Owning Bitcoin by itself does not tell you which trust to use, and signing a trust document does not complete the account and custody work needed to make it useful.
+Owning Bitcoin doesn't automatically tell you to create a trust. Start with the family or legal problem you want a trust to solve, then compare it with the simpler arrangements already available.
 
-The household may want continuity during incapacity, coordinated administration, privacy, a distribution arrangement for children, management for a vulnerable beneficiary, or planning for tax or creditor concerns. Each objective requires different analysis. Simply owning Bitcoin does not identify which trust, if any, is appropriate.
+You might need continuing management for a child, support for a vulnerable beneficiary, continuity during incapacity, privacy or coordination across assets. Those are different objectives, and they can call for different structures.
 
-A revocable living trust can support administration and continuity when properly created and funded. Retaining control generally means the assets remain part of the relevant owner's tax and creditor picture under applicable rules. It is not a universal estate-tax or asset-protection solution.
+Consider a family that simply needs current beneficiaries, executed baseline documents and a findable custody process. A trust doesn't substitute for those unfinished steps. It must add a useful job.
 
-An irrevocable arrangement can change control, taxation, access, and beneficiary rights. Those consequences can be difficult to reverse. Grantor and non-grantor describe income-tax treatment, not a simple ranking of better and worse trusts. The trustee, powers, funding, distributions, and jurisdiction matter.
+Now consider a family that wants money managed for a child over many years rather than distributed outright. That continuing management is a specific objective to discuss with the attorney. The distribution terms, trustee and successor process then need to match it.
 
-Specialized charitable structures, including a charitable lead trust, have specific charitable and remainder-beneficiary purposes and technical tax requirements. They belong in professional design for a household with that actual goal. The attorney and tax professional need to test the proposed funding and obligations under less favorable outcomes, including lower Bitcoin returns.
+A revocable living trust can support administration and continuity when properly created and funded. Retaining control generally leaves the assets within the owner's relevant tax and creditor picture. It is not automatically an estate-tax reduction or a creditor shield.
 
-Bitcoin creates operational questions alongside the legal drafting. Who can authorize investment decisions? Who can sign? How are custody, concentration, fees, recovery, and successor trustees handled? Can the named people actually carry out the trust's requirements? A clause expressing a preference for Bitcoin does not replace review of fiduciary duties and the full document.
+An irrevocable arrangement can change control, access, taxation and beneficiary rights. Those effects can be difficult to undo. Read the consequences before treating loss of control as a minor detail in a tax strategy.
 
-The trust also needs to be funded and coordinated with the other assets. Signing a document does not automatically retitle every account or update every beneficiary. Retirement accounts require particular care; do not move or name assets without coordinated tax and legal advice.
+Grantor and non-grantor describe income-tax treatment. They are not synonyms for revocable and irrevocable, or a ranking from basic to advanced. The powers, terms, funding and applicable law determine how the arrangement operates.
 
-For Alex and Morgan, the initial question is whether their legal baseline and beneficiary arrangements solve the family needs. If a trust adds a useful job, they prepare the ownership inventory, intended beneficiaries, desired control, custody methods, and questions for the attorney. If no additional job exists, completing the baseline is a valid outcome.
+Specialized charitable structures, including a charitable lead trust, belong to a household with a real charitable and beneficiary objective. A high expected Bitcoin return is not enough reason to select one. The obligations need testing under less favorable returns, with qualified legal and tax design.
 
-Compare the proposed trust with the simpler baseline. If the need is a clear beneficiary designation and a usable family starting process, identify what extra job the trust adds. If the need is continuing management or controlled distributions for a child or vulnerable beneficiary, explain that specific objective to the attorney. The custody and successor arrangements then need to support the actual legal design, not a generic Bitcoin clause.
+Bitcoin adds an operational question to the drafting. Who can make investment decisions? Who can sign? How are custody, recovery, provider dependence and successor trustees handled? A clause expressing enthusiasm for Bitcoin does not eliminate fiduciary duties or make keys recoverable.
 
-Return with a professionally reviewed decision, the funding or beneficiary actions it requires, and the people responsible for operating it. Keep revocability, tax classification, legal control and practical signing authority distinct. The worksheet organizes the conversation; it does not create or validate the trust.
+Then finish funding and coordination. Signing a document doesn't automatically retitle accounts, update beneficiaries or move assets under its control. Retirement accounts need particular care; naming a trust or moving assets can have important distribution and tax consequences.
+
+Use the ownership inventory and custody map with the attorney. Identify which accounts belong to the trust, which use a beneficiary process, and which stay outside. Confirm the custodian or provider can actually implement the intended arrangement.
+
+For the Reeds, the source doesn't establish a particular trust, estate size requiring a structure, or legal instrument ready to sign. The teaching example organizes the questions. It should not invent a trust recommendation to make the course appear more complete.
+
+The finished decision is either a reasoned simpler baseline or a professionally designed trust with its specific purpose, people, funding and operating actions. Record who will finish each step and how completion will be confirmed.
+
+Return to the family packet with the result. The reader should find the actual authority and starting process, not an impressive structure name that never became part of the household's real arrangements.
+
+### Visual and source notes — not spoken
+
+Estate framework preserves revocable/irrevocable separately from grantor/non-grantor, trust purpose and actual funding. Charitable lead structures remain specialized professional questions, not return-driven recommendations. State law, beneficiary treatment, tax and provider implementation require actual review. No legal instrument, Bitcoin waiver or guaranteed estate-tax savings is drafted.
 
 ### Production notes
 
-Revocable/irrevocable and grantor/non-grantor are separate classifications. Legacy CLAT/estate-growth examples are retained only as specialized questions, not recommended structures or promised tax results. State-specific law, tax, trust instrument, and custody review required. Return to 8.1–8.3.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
+
+### Demonstration plan — not spoken
+
+Put the existing ownership map beside one family objective and compare baseline documents with a proposed trust job. Narration: “What does this structure add, and which assets would actually come under it? Signing the document and funding it are different steps.” Prepare attorney questions, not legal clauses or transfers.
+
+The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
 
 ### Member checkpoint
 
-- Name the legal or family job a trust would solve.
-- Review control, tax, funding, beneficiary, and custody consequences.
-- Complete the professional and outside implementation steps honestly.
-
-### Source-led visual and teaching notes — not spoken
-
-Problem → simpler baseline → proposed trust job → legal design → funding/beneficiary actions → custody and successor process. No generic tax-savings result, creditor shield or fixed Bitcoin-concentration waiver.
-
-Editorial reason: Compare a trust with the existing baseline and follow a useful structure through actual funding and operation.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
-
-### Advanced demonstration plan — not spoken
-
-Use the non-secret ownership inventory and intended beneficiary/continuity goals. Prepare focused attorney and tax questions, then identify account, title, beneficiary and recovery changes requiring execution. No drafted legal clauses, named tax structure recommendation or assumed provider acceptance. Return to 8.1–8.3.
-
-Use this with the linked core working chapters; it does not create another required lesson or claim an app/device test was performed. Record precise controls and actual outcomes only after the relevant gate is met.
+Resolve the trust purpose with qualified review and identify actual funding, beneficiary, custody and successor actions or a simpler baseline.

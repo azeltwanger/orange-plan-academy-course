@@ -1,7 +1,7 @@
 # 1.4 — Choose assumptions you can explain
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/01-first-working-plan.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`, Austin's August 25 assumptions dictation, and the sources identified in `delivery/source-led-batch-01.md`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: model choices and exact preset paths require final build verification; no current preset rate is asserted.
 
 Kind: teach
@@ -10,52 +10,50 @@ Sources: DICTATION, FOUNDATION, APP, MASTER
 
 ### Read aloud
 
-The assumptions you choose here affect every later decision. They help determine what retirement timing looks possible, how much you need to save, and what different account and tax strategies might do.
+You can move a retirement date earlier in a calculator without saving another dollar. Increase the return assumption, and the future balance grows. The result looks better immediately.
 
-I would start with numbers you could explain to a family member or friend. Not the numbers that make the plan look best, and not an extreme worst case you don't actually believe. We want an honest starting point, then separate comparisons that show what happens when we're wrong.
+But did the household improve—or did the story about the future become more optimistic?
 
-Start with the investment-growth assumptions. For a simple example, ten thousand dollars growing at ten percent a year for ten years becomes about twenty-six thousand before tax. At twenty percent, it becomes about sixty-two thousand. These are hypothetical calculations, not forecasts. The starting money is identical. The assumption makes a very different future picture.
+That is why we're going to choose assumptions you can explain before using the plan to make decisions.
 
-That is why I would be careful about solving a retirement shortfall by turning up Bitcoin's expected return. The date may look better immediately, but the household has not saved more, reduced a bill, or changed how it will pay for anything. It is now depending on a stronger outcome.
+Start with investment growth. For a simple example, $10,000 growing at 10% for ten years becomes about $26,000 before tax. At 20%, it becomes about $62,000. The starting investment and time are identical. The assumed return creates most of the difference.
 
-I lean toward a defensible, more conservative starting point when the plan can work that way. If returns are better, we can review the extra options that creates. If the plan requires very optimistic returns just to meet essential needs, I want that dependency visible before the household acts on it.
+These are illustrations, not forecasts. They show why the expected return deserves more attention than a setting you rush past.
 
-My preference for a long Bitcoin plan is to let the assumed growth decline over time rather than carry one large annual percentage through every decade. Power Law is one model I've used to think about that. It is still a model, not a guarantee about adoption or future price. Read the path it produces and decide whether it represents the belief you intend to use.
+I would start with a set of assumptions you could defend to someone else. Not the most optimistic version needed to approve the life you want, and not an extreme disaster case used as though it were your expectation. We need a working starting point and separate tests for what happens when it is wrong.
 
-A declining model can use a higher rate early and a lower rate later. An average across the whole period doesn't tell you the rate being used in a particular year. Look at an early year and a later year so you understand that difference. Changing the label from one preset to another means little until you know what changed underneath it.
+For a long Bitcoin plan, my preference is to let assumed growth decline over time rather than carry one large annual percentage through every decade. Power Law is one model I've used to think about that. It is still a model. Read the path it produces instead of treating the name as proof that the future will follow it.
 
-Inflation deserves the same attention. A lifestyle costing a hundred thousand dollars today would cost about a hundred thirty-four thousand in ten years at three percent annual inflation. That is another hypothetical example. The extra dollars buy the same lifestyle; they are not necessarily extra discretionary spending.
+An average can hide that changing path. A model might use more growth early and less later. Look at one early year and one later year. That tells you more about what the plan assumes than one average printed over the entire period.
 
-Check whether each spending input is in today's dollars or future dollars. If you've already increased a cost for inflation and then enter it as a today's-dollar amount, you can build the increase in twice. Being clear about the units matters as much as choosing the percentage.
+Inflation is another part of the story. A lifestyle costing $100,000 today would cost about $134,000 in ten years at a hypothetical 3% annual inflation rate. The additional dollars are paying for the same purchasing power, not automatically a more expensive lifestyle.
 
-Income growth is another assumption. A salary and a business may not grow the same way. A raise you expect at a particular date, or a planned reduction in hours, is a specific change to put on the timeline. It should not disappear inside a general annual rate.
+Check the units of the spending input. If it asks for today's dollars, don't inflate the cost yourself and then have the model do it again. If you're entering a price already quoted for a future date, label it accordingly.
 
-The horizon is how long the plan needs to provide for you. Ending a projection at eighty-five asks less of the assets than carrying it to ninety-five. Consider both people in a couple and the years a surviving spouse may still need support. We want to understand what period we're asking the plan to fund.
+Income growth and specific events need separating as well. A general annual raise assumption is different from a planned career change next year. Put the career change on the timeline. Don't bury it in a rate that makes every future paycheck gradually smaller.
 
-Also check how the investments are represented. Direct Bitcoin, a spot Bitcoin fund, a company connected to Bitcoin, and a leveraged fund are not interchangeable records. A company has its own business and financing decisions. Don't give every Bitcoin-related holding the same return treatment simply because Bitcoin is in the story. Use the supported classification and review any deliberate override separately.
+The planning horizon matters too. Funding through 85 asks something different from funding through 95. For a couple, consider the years a surviving spouse may still need support. The end of the chart needs to match the period you intend to plan for.
 
-Once you have a starting set of assumptions, compare a less favorable version. Begin with one change, such as slower investment growth, while keeping spending, contributions and retirement timing the same. Then you can see what that assumption changes. A combined stress case can come later.
+Once the starting assumptions are clear, test one less favorable version. For Alex and Morgan, keep spending, contributions, and intended retirement timing the same while changing the investment-growth path. Then inspect what becomes harder to fund.
 
-I also want to look at a more optimistic comparison when it matters to the decision. Stronger growth can change the future balances and the tax or account questions worth reviewing. We should not make every decision from an unusually pessimistic picture either. The purpose is to understand the range, not to choose whichever result feels best.
+If the plan is short in the early years under slower growth, that points to a real comparison: save more in accessible accounts, spend differently, or change the work timeline. Raising returns until the shortfall disappears would hide the question rather than solve it.
 
-For Alex and Morgan, the first comparison will keep their intended retirement timing and spending choices fixed while we change an investment assumption. The actual result comes from the app demonstration. We won't assign them a winning age in advance.
+A more optimistic comparison can be useful too. Strong growth may change future tax or account decisions. The point isn't to choose whichever result feels best; it's to understand which decision depends on which assumption.
 
-In the working chapter, we'll read the chosen model, inflation and horizon, compare a different assumption, and distinguish the comparison from the saved plan. You are ready to continue when you can explain what your starting assumptions mean, why you chose them, and which one you most need to test. We can revisit the numbers as the evidence or your life changes.
+Finally, check that the model treats the actual investments appropriately. A Bitcoin fund, a company that owns Bitcoin, and a leveraged product are not interchangeable. A return override should not make a company's debt or a fund's structure disappear. The advanced lesson handles that when it applies.
 
-### Visual notes — not spoken
+Before continuing, be able to say what growth path, inflation basis, and horizon your starting plan uses—and why. Keep one less-favorable comparison beside it. Now the first result will mean something: it answers a question under assumptions you deliberately chose.
 
-Use the Foundation deck's starting-assumptions and scenario-comparison visuals. Keep the existing arithmetic cards: $10,000 × 1.10^10 ≈ $25,937; $10,000 × 1.20^10 ≈ $61,917; $100,000 × 1.03^10 ≈ $134,392. Label them hypothetical, before tax where relevant, and separate from the Reed plan. A declining-rate diagram is conceptual, with no unverified preset percentages or promised price path. Compare an early and late year on the actual model only during the recorded insert.
+### Visual and source notes — not spoken
+
+Visual: existing hypothetical compound-growth and inflation calculations; no YouTube withdrawal rate, growth multiplier, forecast-price table, guaranteed recovery period or Forever Number formula. Preserve current evergreen model preference, not old preset percentages. W01 demonstrates chosen early/later rates and one controlled comparison.
 
 ### Production notes
 
-Source ledger: `delivery/source-led-batch-01.md`. Preserve both source judgments: lean conservative/defensible for the baseline and examine bullish alternatives when they change tax/account decisions. The personal Power Law preference comes from the end of the original dictation. Do not silently turn that into a universal recommendation or assert a permanent risk ranking among preset names.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
 
-The original dictation's old preset rates, unsupported 50-to-58 retirement example, market-cap/inflow explanation and inconsistent inflation arithmetic are not carried forward. The existing current script's clearly hypothetical arithmetic supplies the visual instead; see the explicit reconciliation in the source ledger. No historical claim is being newly certified. No new return-model implementation or current market benchmark was researched in this editorial pass.
-
-W01 chapter 8 owns the exact choices, units, custom-period entry and Current/Preview behavior. Any sentence that describes an unavailable override remains held for correction against the accepted product direction. A material change to model semantics reopens the affected teaching, not just the screenshot. Do not film the old side-panel click path from dictation.
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 ### Member checkpoint
 
-- Explain the chosen growth model, inflation basis and household horizon.
-- Distinguish an assumption change from a real change to income, saving or spending.
-- Identify one less-favorable comparison and when an optimistic comparison would answer a useful planning question.
+Explain the starting model, dollar convention and horizon; compare one weaker path without changing household choices.

@@ -1,17 +1,25 @@
-Decide which custody responsibilities you and your household can realistically maintain. The right arrangement needs to work during ordinary life and when the person most comfortable with the technology is unavailable.
+A custody arrangement can be technically sound and still be a poor fit for the people who have to use it. The missing piece is often not another device. It is time, practice, or someone able to take over.
 
-List the recurring responsibilities. Maintaining backups, checking provider changes, verifying addresses, managing authentication, updating devices, testing recovery, and keeping the family process current all take attention. A procedure you are unlikely to repeat should not be the only protection for life-changing assets.
+This lesson checks whether the household can maintain the responsibilities it has chosen.
 
-Consider an absence. If the usual operator is traveling, ill, or unavailable for months, who can identify the correct first step? That person may need a professional helper rather than direct access to every secret. The legal authority and technical role should fit together.
+List the tasks that actually recur: keeping recovery information current, verifying addresses, maintaining secure sign-in, checking provider changes, following device updates appropriately, and keeping the family process usable. Separate tasks you can do yourself from those needing qualified help.
 
-Also consider how you respond to pressure. Someone who tends to rush when a support message sounds urgent needs a strong pause-and-verify routine. A more complex interface can increase mistakes even when the underlying security model is sound.
+Then assign the person responsible and a backup. “We both know about Bitcoin” is not the same as knowing who checks an expiring security key, a provider change or a recovery instruction.
 
-For the Reed household, Alex may be more comfortable with wallet operations while Morgan prefers a documented process with professional support. The plan can accommodate both preferences by defining which portion is directly controlled and how the family starts recovery. It does not need to force both people to become experts in every technical detail.
+Consider a generic household with one enthusiastic operator and a spouse who wants a clear starting process but not ongoing technical responsibility. A system requiring both to maintain several complex wallets may not fit them. A simpler direct-custody arrangement with a verified helper, professional support for part of the assets, or another deliberately chosen architecture may be more maintainable.
 
-Use small test operations to find gaps. Can you verify a destination? Restore the intended wallet? Recognize a passphrase mismatch? Contact the provider through a known channel? Explain which information should never be disclosed? Those practical answers are more useful than saying you are generally comfortable with technology.
+That doesn't mean the spouse must learn nothing. They should understand which accounts exist, where the safe instructions begin, whom to contact, and which information not to share. The technical and legal roles can remain separate.
 
-If the work is excessive, simplify. Fewer independently maintained methods may be better than a large collection of accounts and backups with unclear ownership. Professional support can be a deliberate choice when it solves a real operational need, subject to its own risks.
+Now test the everyday tasks on an appropriate training setup. Can the operator verify the receiving destination through the trusted device process? Can they distinguish a legitimate backup check from a support message asking for secrets? Can they recognize that a passphrase mismatch might open the wrong wallet?
 
-Suppose one member of the household is comfortable operating the wallet and the other prefers a documented process with professional help. The handoff can respect both. The second person needs to recognize the first safe action and the right contact; they do not need every secret or technical detail in the opening letter. Check that the designated support actually provides the role you are relying on.
+Use the mistakes as design information. If someone repeatedly skips an important step under pressure, don't assume a more elaborate setup will correct the habit. Simplify the procedure, practice it, or assign that task to suitable support.
 
-Return with responsibilities assigned, a backup starting path, and a test that shows what still needs work. Simplify or add appropriate support when a critical responsibility has no reliable owner. Professional help is a deliberate trade-off, not a claim that operational or counterparty risk disappears.
+Next test an absence. The normal operator is unavailable for six months. Give the backup person the non-secret starting document and ask them to explain the first steps. Don't coach every answer. Their question shows where the instructions or responsibilities are incomplete.
+
+The first action might be contacting the person with legal authority, finding the provider process, or asking the designated technical helper to assist. It should not require guessing passwords, acting as the owner online, or accepting an unsolicited recovery offer.
+
+Review the cost of support honestly. A fee may be worthwhile if it reduces a consequential operating gap. It does not automatically make the provider risk disappear. Likewise, doing everything yourself may save fees while asking more of the household's time and continuity.
+
+Choose the arrangement the household can maintain during ordinary life and stress. Document the task, person, backup and verification—not merely an intended level of technical sophistication.
+
+The working exercise finishes with an actual responsibility map and a recorded practice gap or result. A failed rehearsal is useful because it identifies what to fix before meaningful funds depend on that person. Return to the core custody map once the responsibilities and starting process are clear.

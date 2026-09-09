@@ -1,7 +1,7 @@
 # 7.1 — Choose who controls each part of the Bitcoin
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/07-custody.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: teach
@@ -10,48 +10,50 @@ Sources: CUSTODY, DICTATION, BRAIN, OWNER, PRIMARY
 
 ### Read aloud
 
-Choose how to hold each meaningful part of the Bitcoin by the job it serves and the failure you want to protect against. Direct control, professional support, family access and lender exposure can matter differently for different parts of the plan.
+You can have a retirement plan that works on paper and still lose access to the asset it depends on. Custody is how we make the Bitcoin position usable, recoverable, and manageable for the household.
 
-Then ask what you are trying to protect against. Losing a recovery backup, a provider freezing access, a home disaster, incapacity, a dishonest helper, and family members being unable to carry out the process are different failures. The custody choice should solve the failures that matter to this household.
+The question isn't, “Which setup looks most advanced?” It is, “Which responsibilities am I willing to carry, and what happens when one part fails?”
 
-Direct self-custody gives you control of the signing keys. That reduces dependence on a company to authorize access. You also take responsibility for backup, recovery, physical security, transaction verification, and a process that still works when you are unavailable.
+Every method trades one kind of dependence for another.
 
-An institutional custodian takes on some operational responsibilities and may provide support, administration, and a documented legal process for the family. In return, you depend on its security, financial condition, withdrawal rules, legal obligations, and ability to serve you. Read the actual ownership and custody agreement rather than assuming every provider holds assets in the same way.
+Direct self-custody gives you control of the keys rather than relying on a company to permit a withdrawal. It also makes you responsible for recovery, physical security, and a process your family can follow.
 
-Collaborative multisig can divide signing authority and provide professional support. In a two-of-three arrangement, two valid signers are required under the wallet's policy. One lost key may be survivable, but the household still needs the wallet configuration, accessible remaining keys, and a tested process. The provider's role depends on the actual key distribution and agreement.
+Professional custody can provide administration and support. You accept the provider's control, terms, withdrawal process, and counterparty risk. Read the actual legal arrangement instead of assuming professional support means every loss is insured or recoverable.
 
-An intentional split uses more than one method because different portions have different jobs or because one failure would otherwise affect too much of the plan. It adds maintenance. An extra account earns its place when it removes a meaningful dependence the household can actually manage.
+Collaborative multisig can let more than one key participate in authorization, with professional help for part of the process. A two-of-three setup can tolerate certain single-key failures. It also requires the correct configuration, sufficient independent keys, and people who understand the procedure. More keys don't mean no risk.
 
-How much direct control matters is a personal decision. Some households want a meaningful amount no institution can restrict. Others value support and family administration more. You can combine those preferences instead of asking one custody method to do every job.
+An intentional split is a way to combine methods. It isn't automatically best. Each additional setup should reduce a named failure the existing arrangement leaves too concentrated, and the household needs to maintain the extra work.
 
-For Alex and Morgan, distinguish the directly controlled Bitcoin, the professionally custodied pool, and the Bitcoin-fund exposure in retirement accounts. Each has a different access and recovery process. A brokerage fund is not recovered from hardware-wallet words, and an account at a professional provider is not the same as holding the keys yourself.
+Start by naming the job of each holding. Is this personally controlled long-term Bitcoin? Retirement-account exposure? A position pledged for borrowing? Money that will need a sale for spending? Different jobs may justify different arrangements.
 
-Now test one absence: the usual operator cannot help. Which method still gives the family a safe, legitimate starting path? That question may support an intentional split or professional help, but adding another method is useful only if it reduces a meaningful dependence the household can maintain.
+Then state how important direct control is to you. For some people, retaining meaningful Bitcoin that a provider cannot freeze is non-negotiable. Others place more weight on support and family simplicity. We can recognize both without pretending the trade-offs disappear.
 
-Now run the One-Failure Test. Could one device, backup, person, provider, location, or account-recovery process materially damage the family's financial plan? If so, name the failure and compare the simplest way to reduce it.
+Here is a useful comparison. Two households hold the same amount. One has a well-understood direct-custody setup, proven recovery, and another person capable of following the process. The other has one operator and a family that would have no idea where to begin.
 
-Two providers are not independent merely because the apps have different names. They may share a custodian or another important dependency. Several backups in one house share a location risk. A complex setup also creates risk if only one person knows how it works.
+The second household doesn't necessarily need a more complicated wallet. Its immediate problem may be dependence on one person. Professional support, a simpler arrangement, or a carefully designed split could address that problem more directly than adding keys nobody else understands.
 
-The amount at stake changes the consequences. A setup that was adequate for a replaceable balance may need review when it represents the household's retirement. That does not automatically require multisig or another account. It requires a fresh look at what a single failure could do and whether the recovery process is adequate.
+Now run the one-failure test. What if the provider disappears? The device is lost? The home is inaccessible? The usual operator is unavailable for six months? Which of those events could interrupt or destroy too much of the plan?
 
-Choose the current direction before moving funds. State the job of each pool, the control preference, the main protection gained, and the risk retained. Then identify the first unfinished action. It may be proving a backup, reviewing the provider agreement, hardening access, or simplifying a process the family cannot follow.
+Look at shared dependencies. Two devices using the same backup are not independent wallets. Two companies may depend on the same underlying custodian. Several recovery items kept together can fail in the same fire or theft.
 
-Choose the direction for each pool and one next protection action. Explain the control gained, the new responsibility, and the risk retained. We will prove the relevant recovery process before treating the setup as ready for meaningful money.
+You don't have to eliminate every conceivable risk. Find the failure with the greatest consequence and choose a manageable improvement. The safest-looking arrangement on a diagram is not useful if the family cannot operate it.
+
+For Alex and Morgan, we will review the actual direct and professionally held Bitcoin in the example without inventing a completed recovery test. We will also keep Bitcoin-fund exposure in retirement accounts separate; its family access relies on the account process, not the wallet backup for personally held coins.
+
+Finish with a custody direction and the first unfinished protection step. That might be verifying a backup, securing a provider account, making the non-secret family instructions usable, or comparing professional support for a specific portion.
+
+Don't move everything during this discussion. Choose the direction first, prepare and test the destination, and verify the legal and operational process before meaningful money depends on it. The next lesson explains what recovery proof actually means.
+
+### Visual and source notes — not spoken
+
+Custody deck trade-offs and latest August26 owner-source correction govern over old wealth ladder. Institutional custody is not inferior bydefinition;splitrequiresnamedriskandmaintainability. No client$1mstoryoractualReedrecovery invented. Visualthree methods+architecturechoices;testperson/provider/location/key/configfailures. Support/recourse/insurance are contract-specific. Advanced7.1–7.3 own detailedcomparisons.
 
 ### Production notes
 
-Use four-method comparison and the One-Failure Test. Do not present a provider or wallet brand as approved. Source comparison covers operational trade-offs, not a security certification. Preserve distinction between a signing key and a wallet descriptor; a descriptor alone does not sign. No real balances, seed words, passwords, or recovery locations on camera.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 ### Member checkpoint
 
-- Assign a custody job and control preference to each meaningful pool.
-- Name the remaining failure each method creates.
-- Choose one architecture and one next protection action.
-
-### Source-led visual and teaching notes — not spoken
-
-Four-method trade-off table, followed by the One-Failure Test. Use asset/job/control/recovery/support columns, no wealth ladder or compulsory multisig threshold. The Reed methods are categories, not endorsements of a provider.
-
-Editorial reason: Use the household-absence case to turn custody comparisons into an intentional choice.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+Choose a custody direction that addresses the named failure and identify the first unfinished protection action.

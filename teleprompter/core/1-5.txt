@@ -1,31 +1,31 @@
-Now we're going to read the first answer and decide what to work on next. Start by asking what the result actually describes. Which retirement date is it testing, what spending is it trying to fund, and how long does the plan need to last?
+You've entered the numbers, and now the plan gives you a retirement result. What should you do with it?
 
-Your planned retirement date is the date you chose. A calculated retirement date answers a different question: when does the modeled plan meet the test being used? Those dates can be different. Entering fifty-two because that is when Alex would like work to become optional doesn't prove the plan supports fifty-two.
+Start by checking what question it answered. Which retirement date is being tested? What spending does that date support? How long does the money need to last?
 
-A first estimate may follow one set of assumptions forward. You'll sometimes hear that called a deterministic projection. It is one modeled path. That can help you see how assets, saving, spending and timing fit together. It does not tell you how the plan behaves across many different market sequences.
+The date you selected is your intention. A calculated earliest date answers a different question: when does the modeled plan meet the standard being used? Entering 52 for Alex doesn't make 52 a supported result.
 
-A full simulation tests a range of modeled paths. Some have better returns or a more favorable sequence. Others have weaker periods at a difficult time. The question is whether the household can fund the life in the plan through the stated horizon under the rules being tested.
+There can also be a difference between a starting projection and a full simulation. A single projected path shows what happens under one sequence of assumptions. A simulation tests many modeled paths. They are related views, but they don't give the same information.
 
-Here's an illustration of how to read that result. Imagine seventy-nine percent, with seven hundred ninety out of one thousand simulations lasting through age ninety-five. Those two figures describe the same test. In seven hundred ninety modeled paths the plan funded that horizon. In the other two hundred ten, it did not.
+Here is how to read a simulation percentage. Suppose 790 out of 1,000 modeled paths fund the spending through age 95. That is 79%. The other 210 paths do not fund the full horizon under the tested rules.
 
-That is not a prediction of exactly what your family will experience. It also isn't a promise that every unsuccessful path needs only a small spending adjustment. The result is telling us to examine where the modeled plan falls short and what the household could realistically change.
+That is a separate teaching illustration, not a result for the Reeds. It isn't a prediction that precisely one outcome will happen to your family, and the unsuccessful paths aren't automatically harmless cases needing a tiny adjustment. We need to understand what made the funding difficult.
 
-Look at the assumptions and the horizon beside the result. A percentage without that context is easy to overinterpret. A plan tested with much lower spending or stronger growth is answering a different question, even when the account balances are identical.
+Keep the horizon, spending, assumptions, and result together. A percentage from a plan with less spending is answering a different question from a percentage at the lifestyle you actually want.
 
-There is also a difference between an updated account and an updated plan result. A new balance may already be visible while the result you are reading still belongs to an earlier calculation. Check what information the result used before judging whether a change helped. We'll show that status in the recording.
+Also read the result's status. An account balance can be current while the calculation still reflects earlier inputs. Don't judge an improvement until the result includes the change you're looking at.
 
-I would start with accuracy. Did we include the debt? Is spending believable? Are current contributions counted once? Does the income reflect what the household actually has? A result can move in the wrong direction financially while becoming more useful because the information is more honest.
+Then open one meaningful year rather than stare only at the headline. The first year after work stops is a good place to begin. What income arrives? What needs paying? What do investments provide, and which account supplies it?
 
-For Alex and Morgan, the original cash-flow example leaves five hundred dollars after the listed costs and employee contribution. If we gave their first projection the larger amount from a spending reduction they haven't made yet, we'd be testing a different plan. The useful question is whether the current result reflects the original picture or an intentionally chosen change.
+Suppose the withdrawal is much larger than expected. You might find a vehicle purchase, an ongoing debt payment, or a tax cost. Now you know what to investigate. Trying to improve the percentage before finding the cause would send you in the wrong direction.
 
-Once the important facts are sound, look at the decision you control. You can compare saving more, changing spending, working longer, reviewing how money is held for the years you need it, or a relevant tax strategy. Each choice affects something else. Saving more uses money you could spend today. A later retirement date changes the life you were aiming for. We need to understand those costs, not only the new percentage.
+For Alex and Morgan, first make sure the plan uses the cash-flow state we actually entered. Their original example has $500 remaining after existing costs and the employee contribution. A later spending reduction creates more room. Giving them that larger amount before they choose the reduction would test a different life.
 
-A borrowing comparison deserves the same care. A favorable projection does not make payment pressure, lender risk or a possible forced sale disappear. Read what the strategy requires in the difficult case. A higher headline result is not enough to choose it.
+Once the important facts are right, choose a realistic comparison. Could you save more? Would a different work transition fit? Is there spending you would actually change? Does the problem come from having money in an account that can't support the early years?
 
-When the first answer is disappointing, don't jump straight to higher Bitcoin returns. Check the input most likely to be wrong, then test one realistic decision. If the picture already looks strong, identify what supports it and what still needs attention. You don't need to complicate a useful plan just to keep optimizing.
+Change one decision at a time so you can explain the difference. More saving uses money today. Working longer changes the life you're planning. A lower spending figure is useful only when the household is willing to live with it. A result isn't better simply because the number is higher.
 
-Before we leave the result, we'll open one meaningful year and follow the money. What income is coming in? What does the household need to spend? What must investments provide, and which accounts provide it? You don't need to study every year now. You do need to know how to check where the money comes from when a number surprises you.
+If the first answer is strong, don't invent problems to keep optimizing. Explain what supports it and identify the limitation that still matters. If it is weak, find the biggest fixable issue instead of jumping straight to higher Bitcoin returns.
 
-The first working plan is a starting point, not a promise that every strategy and outside action is finished. You should be able to explain the intended retirement date, what the calculation says about it, the assumptions behind the answer, and the most important detail to check next.
+The first working plan is finished when you can explain your intended timing, what the current calculation says, the assumptions behind it, and the next important check. You don't need every later strategy finalized yet. You do need an honest starting point.
 
-That gives us a useful reason to move into Cash Flow. We're going to verify the spending and the money available before deciding how quickly to fund the reserve, pay extra on debt, and invest. Those decisions build on this first picture rather than replacing it with a result we hope is true.
+Our next section verifies the spending and available money. That gives us something concrete to improve before choosing the Reserve, debt payments, and contributions. We are going to build on this picture—not replace it with a result we hope is true.

@@ -1,27 +1,27 @@
-The final test is explaining the household's decisions to someone who was not there while you built the plan. You do not need to teach them everything you know. They need to understand how life is funded, what requires attention, and how to start the family process if you are unavailable.
+A financial plan becomes more useful when you can explain it to someone else without opening every calculation. That is the final exercise.
 
-Start with where you stand. “These are our accounts, these are the debts, and this is the money available for current needs.” Then explain where the next dollar goes. “We are funding the Reserve at this pace, paying this debt faster, and investing through these accounts.” Give the reason, not just the percentage.
+Choose the person who needs to understand it: a spouse, a trusted helper, or the professional reviewing a particular decision. They don't all need the same level of detail, but they should be able to find the part relevant to them.
 
-Explain retirement in a few sentences. “This is when we intend to reduce work. These are the assumptions the model uses. These resources fund the early years, and these income sources begin later.” Describe what would make you revisit the timing or spending.
+Start with what the plan is for. “We want to reduce work at this point and support this kind of spending.” Then explain what funds that life and what the result depends on.
 
-Then cover the uncomfortable part. What could force a Bitcoin sale or a change in the plan? It might be an unfunded expense, a thin cash buffer, an income interruption, a lender threshold, or a major change in assumptions. Explain the response you would consider before the situation happens.
+You might say, “The early years use these accessible accounts while later income begins. This cash is for the Reserve and approaching payments. These investments are for the longer run. Here is the contribution we are making now, and here is what changes when the debt ends.” Use your own decisions and actual amounts, not a script you have memorized from the example.
 
-For a spouse or trusted person, add the operational starting point. Who do they contact if you are unavailable? Where are the non-secret instructions? Which bills and obligations need immediate attention? What should they avoid doing under pressure?
+Then explain the difficult case. What would you do if income stopped or investments disappointed? Which spending could change? What cannot be delayed? Which rule calls for attention? The listener doesn't need to share every market opinion to understand the household response.
 
-Ask them to explain the first action back to you. If they cannot, simplify the instructions or fill the missing step. That small rehearsal can reveal more than adding another page to the packet. You are checking usability, not testing their financial vocabulary.
+Ask them to explain the next action back to you. Don't settle for “that makes sense.” Can they identify which account receives the contribution, how next year's spending is funded, or where the family instructions begin?
 
-Professional handoffs have a different purpose. For the CPA, provide the relevant current income, transactions, basis evidence, proposed tax decision, and unanswered questions. For the attorney, provide ownership, beneficiaries, intended roles, legal-document status, and the custody arrangement at a non-secret level. For an insurance or lending review, provide the actual policy or proposed terms privately through the professional's appropriate process.
+Their question can reveal a useful gap. If they ask where a payment comes from, show the source. If they confuse a future contribution with money available now, correct the timeline. If they can't find the family contact, improve the document rather than give another lecture about custody.
 
-Keep each handoff focused. “Please review whether this conversion amount and tax-payment source make sense with our healthcare year” is more useful than “Please check everything.” The professional can request additional information when needed.
+Use the existing Household Plan Summary for that conversation. Keep the supporting calculations nearby, but don't make the summary a copy of every table. It should guide someone into the detail when a question needs it.
 
-The Reeds' finished explanation should use the verified saved plan and the Household Plan Summary. The current fictional examples show how to write it; they do not prove that every app result, legal review or recovery test is complete. Keep those items honestly open until the corresponding work has happened.
+Share selectively. A professional reviewing a conversion needs the relevant income and account facts. A family member beginning an emergency process needs the safe instructions and contacts. Neither normally needs wallet recovery secrets in an ordinary planning document. Review an export before sending it, and distinguish a summary from a restoration backup.
 
-Give the listener one concrete question at a time: where does next month's money come from, what changes when a benefit begins, and who do you contact first if the usual operator is unavailable? Revise the part they cannot explain before adding more pages.
+Now finish the action list. For each current action, name the person, date and evidence that will show it happened. A payroll confirmation, an actual purchase record or an executed legal document has a different meaning from a note that says planned.
 
-Schedule the next monthly and annual reviews. Keep a dated copy so you can compare the plan next year and see why it changed. Some differences will come from markets. Others will come from better information or deliberate choices. That history helps the household stay consistent without clinging to outdated assumptions.
+Keep future actions tied to their condition. “Redirect this payment after payoff” is not an instruction to spend money early. Put the review where you will find it when the condition occurs.
 
-At the beginning of the course, your information may have been scattered across accounts and documents. You now have a way to bring it together, decide what the money is for, compare a change, carry out the outside action, and keep the record current.
+Set the next monthly and annual reviews, with any urgent loan or other monitoring handled separately. You don't have to keep watching the course to keep the plan alive. Use the relevant section again when that decision changes.
 
-Finish by explaining your own plan in ordinary language. Where we stand. When work could become optional under these assumptions. How the money is positioned. How retirement gets funded. What could change the answer. Who helps if we are unavailable. What we are doing next.
+The finish line is not certainty about markets. It is an understandable plan, practical instructions, and a way to respond when reality differs from the original assumptions. You should know what is settled, what still needs help, and where to begin tomorrow.
 
-Keep the explanation, the next one to three priorities and the review schedule. An outside action can remain pending when its consequence and next step are clear. Use the plan again when a real decision comes up; the course has done its job when you can follow that process without needing someone else to assemble the answer for you.
+That is the value of putting the decisions together. Instead of asking whether every spare dollar should go into Bitcoin, you can ask which choice best supports the life you are building—and use the plan to compare it.

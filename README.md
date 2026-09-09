@@ -1,27 +1,26 @@
 # Orange Plan Academy
 
-**Teaching repair is in progress. The earlier course-wide pass did not meet Austin's standard for natural, direct teaching.** Lesson 2.3 (Reserve) is the accepted reference. Full replacement drafts for 2.1, 2.2, 2.4 and 2.5, all six Debt lessons (3.1–3.6), and all seven Allocation lessons (4.1–4.7), plus matching W02–W04 narration, are ready for voice/judgment review. Other sessions and the conditional Advanced library still need individual repair—not just final approval of the old prose.
+**The written teaching and paired walkthrough pass is complete for review.** The course now follows a recognized problem through explanation and a worked example to a usable decision. The accepted Reserve lesson is unchanged. Owner voice approval, real app/device footage, targeted professional checks and learner evidence are still separate.
 
-**Current section: Allocation, still under owner review.** The latest correction makes 4.2 the four Bitcoin paths and 4.3 the actual timeframe-sizing method; W04 and the final contribution instructions follow the same sequence. We are not advancing to Tax before finishing this section.
+## Read the course
 
-The newest replacement session is [Allocation and the next dollar](modules/04.md), following [Debt](modules/03.md) and [Cash Flow, Reserve and Life Events](modules/02.md). Use the [Core reading order](DICTATION-ORDER.md) for clean spoken copies. The [production checklist](PRODUCTION-CHECKLIST.md) distinguishes the accepted reference, replacement drafts and unrepaired components.
-
-| Work | Start here |
+| Reading task | Open |
 |---|---|
-| Read the teaching | [Core](DICTATION-ORDER.md) · [Conditional Advanced](ADVANCED-DICTATION-ORDER.md) |
-| Review the latest replacement drafts | [Allocation](modules/04.md) · [Paired W04](scripts/working/W04_route-contributions-into-usable-accounts-and-intended-holdings.md) |
-| Review Debt | [Debt](modules/03.md) · [Paired W03](scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md) |
-| Review the preceding session | [Cash Flow, Reserve and Life Events](modules/02.md) · [Paired W02](scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md) |
-| Read the whole working draft | [Spoken text](ALL-SCRIPTS.md) · [Core with notes](MASTER-COURSE.md) · [Advanced with notes](MASTER-ADVANCED.md) |
-| Prepare demonstrations | [Learning and filming order](FILM-ORDER.md) |
-| Use member materials | [Toolkit](toolkit/README.md) · [Named deliverables](toolkit/deliverables/README.md) |
-| Check remaining work | [Current status](FINALIZATION-STATUS.md) · [Capture evidence](CAPTURE-RECEIPTS.md) |
+| Clean Core scripts, in order | [Core reading order](DICTATION-ORDER.md) |
+| All spoken text in one document | [ALL-SCRIPTS](ALL-SCRIPTS.md) |
+| Conditional advanced teaching | [Advanced reading order](ADVANCED-DICTATION-ORDER.md) |
+| Whole-portfolio Allocation section | [Session 4](modules/04.md) |
+| Paired application and filming sequence | [Learning and filming order](FILM-ORDER.md) |
+| Existing member materials | [Toolkit](toolkit/README.md) · [Named deliverables](toolkit/deliverables/README.md) |
+| Actual scope and unfinished evidence | [Current status](FINALIZATION-STATUS.md) · [Production checklist](PRODUCTION-CHECKLIST.md) |
 
-The course structure remains Start Here plus ten sessions: 51 core clips including optional college, 15 conditional Advanced clips, ten app working sessions and one device demonstration. Debt precedes Allocation. There is no 150-minute cap and no word-count target that substitutes for teaching.
+There are 51 Core teaching clips (including optional college), 15 conditional Advanced lessons, ten app working sessions and one device demonstration. This is one course, not a set of competing outlines. The Advanced lessons are used when relevant; every member is not required to watch every variation.
 
-## One editing source
+The 40 new Core replacements and all 15 new Advanced replacements are integrated into the existing scripts. Nine previously repaired full Core explanations are retained; 3.3 receives a targeted repetition cut; 2.3 remains the accepted reference. Nine practical files are rewritten into one narrated chapter plan each. The already-detailed W02 and W03 are retained unchanged. All have been checked for their place in the connected learning sequence, not presented as new rewrites merely because a status changed.
 
-Edit `scripts/`. Narration is under `### Read aloud`; visual and production notes are not spoken. `teleprompter/`, `lesson-text/`, `modules/`, reading orders and masters are generated views of those same scripts. Availability on GitHub is for review, not a student release or filming approval.
+## Edit one source
+
+Edit `scripts/`. Only `### Read aloud` is spoken in a teaching clip. The teleprompter files, modules, lesson text and masters are generated reading views. Visual/production notes, references and member checkpoints are not narration. The uploaded YouTube video supplies teaching structure only, not its return assumptions or retirement formulas.
 
 ```sh
 python tools/guided_course.py build
@@ -31,12 +30,12 @@ python -m unittest discover -s tests -p test_member_deliverables.py -v
 python tools/guided_course.py history
 ```
 
-These checks verify synchronization, arithmetic and preservation—not Austin's voice or learner comprehension. The last command needs full Git history. Normal CI remains read-only; temporary authoring automation is removed before integration into main.
+These commands verify structure, arithmetic, synchronization and preservation. They do not prove teaching quality, owner approval, a student outcome or release readiness. Historical recovery needs a full checkout.
 
-## Original sources and old versions
+## Sources, review and repository cleanup
 
-Original dictation is unchanged in `source-material/`. Four historical dictation-containing scripts remain in its marked historical folder. Retired versions stay out of the working tree and are recoverable through [the pinned history](ARCHIVE-RECOVERY.md) and [hash manifest](production/repository-cleanup.json). Do not restore an old master over current scripts.
+[Source and revision record](delivery/teaching-revision.md) distinguishes original teaching, new illustrative reasoning and narrow primary-source checks. [Current handoff](HANDOFF.md) records what is finished in writing and what still needs real evidence.
 
-[Current handoff](HANDOFF.md) · [App alignment](V1-COURSE-ALIGNMENT.md) · [Landing-page alignment](LANDING-PAGE-ALIGNMENT.md) · [Primary references](PRIMARY-SOURCES.md).
+Original dictation in `source-material/`, the fixed household, toolkit and capture records remain unchanged. Obsolete working versions remain retired, with [pinned recovery](ARCHIVE-RECOVERY.md) and the existing [hash manifest](production/repository-cleanup.json). No temporary authoring helper or branch-writing workflow should remain at merge.
 
-Raw client transcripts, identifying financial records, secrets and credentials do not belong in this repository. The accepted Reserve text and its conditional liquidity judgment remain unchanged.
+Publication to main is for Austin to read. No app deployment, provider operation, financial transaction, pricing change or student launch is implied. Do not place real client records, credentials or signing secrets in this repository.

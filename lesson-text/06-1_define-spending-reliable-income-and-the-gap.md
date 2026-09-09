@@ -1,7 +1,7 @@
 # 6.1 — Define spending, reliable income, and the gap
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/06-retirement-paycheck.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: teach
@@ -10,46 +10,52 @@ Sources: RETIREMENT, RETIREMENT_DECK, BRAIN, MASTER
 
 ### Read aloud
 
-What pays the bills after the paycheck stops? Start with the life you intend to fund, the income already arriving, and the amount investments must provide. That answer can change from one retirement year to the next.
+A large retirement balance doesn't tell you how next month's bills get paid after your paycheck stops. You need to know how much your life costs, which income continues, and what the portfolio has to provide.
 
-Build retirement spending from the life you actually expect. Some work-related costs may end. Travel, hobbies, family support, healthcare, and projects may increase. Separate essential spending from the flexible part you could change during a difficult period. A plan built on a lifestyle you would never choose is not a useful target.
+Those are the three numbers we will start with: spending, income, and the gap.
 
-Keep irregular needs visible. The roof, a vehicle, helping a child, and a major home repair can make one year much more expensive than the next. Put a specific expected event on the timeline instead of assuming every retirement year is identical. Avoid counting an event once in annual spending and again as a separate expense.
+Use the life you actually want in retirement. Begin with the spending review you've already completed, then change the costs that really change when work stops. Commuting may fall. Travel or hobbies may rise. Healthcare may move from an employer deduction to a bill you pay directly.
 
-For a teaching example, Alex and Morgan consider ninety-six thousand dollars a year of everyday retirement spending plus twelve thousand for healthcare. That is one hundred eight thousand of lifestyle and healthcare spending in today's dollars. Taxes, remaining debt payments, and separate events still need to be included where applicable. Those categories must not disappear just because the first spending number looks manageable.
+Keep essential and flexible spending visible. That doesn't mean you plan to cut every enjoyable expense. It means you know which amounts could change if the plan needs an adjustment later.
 
-Now build the income floor. Social Security, pensions, and other durable income can cover part of the need. Rental, business, part-time, dividend, and interest income can also help, but their reliability and costs differ. Rental receipts before repairs and vacancies are not the same as dependable household cash. A high distribution yield can also include risks or return of capital that deserve separate analysis.
+Add known irregular costs at the right dates rather than pretend retirement is the same month repeated forever. A roof, vehicle, family gift, or college commitment can make one year meaningfully different.
 
-List each income source by person, amount, start date, end date where relevant, tax treatment, and inflation behavior. A pension without a cost-of-living adjustment loses purchasing power over time. A survivor election can change both the payment now and what remains for the spouse later.
+The course's starting illustration uses $96,000 of living expenses and $12,000 of healthcare: $108,000 before the other items we still need to reconcile. It also has $40,000 of gross income. The rough difference is $68,000.
 
-In our sizing illustration, lifestyle and healthcare total a hundred eight thousand dollars. Forty thousand of gross reliable income leaves a rough sixty-eight-thousand-dollar gap. The numbers orient us, but the actual withdrawal also has to account for taxes, debt payments, and separate events. We cannot mix a net spending need with gross income and call the difference the final amount to withdraw.
+That subtraction is useful, but it isn't yet the final withdrawal amount. We have compared gross income with only part of the cash outflow. Taxes, required debt, and other costs can change what the portfolio has to supply.
 
-Look at the first year without a paycheck, then a year when a benefit begins. The spending might be similar while the amount investments must provide is very different. That is why we will follow actual sources and uses in those years instead of apply one withdrawal percentage to every year.
+Here is a separate extension purely to explain that reconciliation. Suppose total tax for the period is estimated at $12,000 and an additional $6,000 of debt payments has not been counted in the living figure. Total outflow becomes $126,000. With the same $40,000 of gross income, the remaining cash need is $86,000.
 
-The gap changes over time. Before Social Security or a pension starts, the portfolio may fund almost everything. Later the income floor rises and the gap may shrink. A debt payoff can reduce it. Healthcare transitions, a spouse's work, and major expenses can change it again.
+Those added figures are hypothetical, not a calculated Reed plan. They show why we shouldn't call the rough $68,000 difference an after-tax paycheck. If the withdrawal itself changes taxes, the final model must solve that relationship too.
 
-This is why a single withdrawal percentage is not the entire retirement plan. Two households with the same portfolio can have very different gaps, access rules, and future income. The question is which assets fund which years under the life each household expects.
+Use one consistent convention. Start with gross income and include the complete tax outflow, or clearly reconcile the deposits and tax already withheld. Don't subtract withholding and then subtract the entire same tax bill again.
 
-For the Reed household, we will keep their proposed work-optional date separate from the date the model calculates. We will also model each spouse's timeline rather than treating the younger spouse as though every age-based event happens at the same time.
+Now build the income floor: money expected to arrive before you sell assets for the remaining need. Social Security, a pension, rent after its costs, and continuing work may contribute. But they don't all have the same reliability.
 
-In the working-session chapter, read the first retirement year, a year when reliable income begins, and a later year. Explain the spending, taxes, debt, income, and portfolio draw in each one. If a large withdrawal seems surprising, open the year detail and find the actual cause.
+A pension statement may describe a contractual benefit. Part-time earnings require someone to keep working. A rental can need repairs or have a vacancy. Record the amount and date, and distinguish the dependable part from the portion you would need to replace if it stopped.
 
-Keep the spending estimate, income sources and dates, and the first important funding years together. Identify the cost or income still uncertain. Next we will check whether the accounts you are counting on are actually available in those years.
+Investment distributions need care too. If dividends are already included in the portfolio's total return and cash available, don't add them again as extra growth plus extra income. Reinvested distributions are not a cash deposit funding the bills until the strategy makes them available.
+
+For a couple, keep each person's income and dates separate. Alex's intended retirement date doesn't automatically end Morgan's work or start both people's benefits. The largest portfolio gap may occur in the years before later income begins.
+
+That's the shape to look for in the year-by-year view. The gap can be large just after work stops, then smaller after a pension or Social Security starts. A single average across retirement can hide the years that need the most support.
+
+You may discover that the intended life costs more than the starting estimate. Don't fix that by leaving healthcare or a payment out. Decide whether the spending, timing, or funding needs to change.
+
+In the walkthrough, we'll build one complete year: income on one side, all costs on the other, and the portfolio contribution that closes the gap. Then we'll look at the next year where something changes.
+
+Keep those three numbers in view. We now know what the retirement paycheck needs to accomplish. Next we will identify which accounts can provide it during the early years, before later income and access changes arrive.
+
+### Visual and source notes — not spoken
+
+Retirement deck Steps1–4; explain spending/floor/gap through one cash reconciliation. Source96k living+12khealth=108k and40kgross=>68k remain rough arithmetic, not adopted Reed forecast. New explicitly separate extension adds12khypotheticaltotaltax+6kdebt not already counted=>126koutflow;minus40k=86kneed. It is not an engine tax solution; tax-dependent withdrawals must be solved in actual model. Show income reliability and separate spouse dates. Do not duplicate reinvested distributions or withholding.
 
 ### Production notes
 
-Use the retirement deck's year-by-year cash-flow table. The $108,000/$40,000/$68,000 example is explicitly before tax/debt/events reconciliation. Never mix a net spending number with gross income and call the difference the final withdrawal. No fake engine output or pension estimate.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 ### Member checkpoint
 
-- Separate core, flexible, healthcare, debt, taxes, and event costs without duplication.
-- Identify income reliability and start dates by person.
-- Explain why the portfolio gap changes across retirement years.
-
-### Source-led visual and teaching notes — not spoken
-
-Use the retirement deck's year-by-year cash-flow table. Show $96,000 living + $12,000 healthcare, then $40,000 gross income and the explicitly preliminary $68,000 difference. Reveal taxes, debt and events as separate rows before showing any final draw. This is a teaching illustration, not an adopted Reed retirement schedule.
-
-Editorial reason: Make the retirement-paycheck outcome concrete while keeping rough gap arithmetic separate from a real withdrawal.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+Reconcile a complete retirement year into gross income, all cash costs and the portfolio-funded gap.

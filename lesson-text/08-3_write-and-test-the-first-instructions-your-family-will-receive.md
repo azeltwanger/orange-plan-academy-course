@@ -1,7 +1,7 @@
 # 8.3 — Write and test the first instructions your family will receive
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/08-family-handoff.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: teach
@@ -10,46 +10,48 @@ Sources: ESTATE, ESTATE_DECK, DICTATION, OWNER, APP
 
 ### Read aloud
 
-Write the instructions for the person who knows less about the plan than you do. They need to know who to contact first, how to verify that contact, and what not to do while they are under pressure.
+A folder full of estate documents can still leave your family asking, “What do I do first?” The Heir Letter and Executor Packet are there to answer that without turning the family into a financial or technical expert overnight.
 
-Write the first call clearly. Name the person or professional, their role, and a safe way to verify the contact. Then identify the account and asset categories that exist, the location of the legal documents at an appropriate level, and the process for finding the protected instructions.
+The letter is the starting point. The packet carries the supporting information. Neither replaces properly prepared legal documents or grants authority on its own.
 
-Use ordinary language. “There is Bitcoin held through two different arrangements, and this provider can help with one of them” is more useful than assuming the reader understands seed standards, descriptors, or retirement account administration. Technical recovery details belong in the separate protected process reviewed for the actual setup.
+Start the letter with what the reader should do and what they should avoid rushing. Use ordinary language. They need a calm first step, not an explanation of every investment you've ever made.
 
-Include the mistakes the family should avoid. Never provide recovery words to a website or unsolicited helper. Do not transfer funds because someone creates urgency. Verify contacts independently. Coordinate sales and distributions with the legally authorized person and tax professional. These warnings address real decisions the family may face while distracted or grieving.
+A simple example might read like this:
 
-Keep seeds, private keys, passphrases, PINs, passwords, exact storage locations, and a complete recovery route out of the ordinary heir letter. A document that is meant to be shared for orientation should not also contain everything required to move the assets.
+“If I'm unavailable, start with the family contact list and speak with the person authorized for this situation. The attorney listed there can help confirm the legal steps. Our custody map describes the accounts and which provider or technical helper applies to each one. Do not share wallet recovery words or follow links from someone claiming urgent action is required. Check the household payment list so essential bills and time-sensitive obligations receive attention. You do not have to make every long-term investment decision immediately.”
 
-A separate non-secret executor packet can hold the working inventory: professional contacts, account categories, insurance information, legal-document status, household obligations, the order of first calls, and the current financial-plan summary. That packet supports coordination. It does not replace the will, beneficiary forms, court process, or custody recovery plan.
+That is example language to adapt with your legal and family process, not a complete legal instruction or an assertion that a particular person already has authority.
 
-Make the information available through a path that does not depend entirely on your login. The appropriate paper, encrypted, professional-held, or other arrangement depends on the household. Tell the responsible people that the packet exists and how the starting process works.
+Then explain where the supporting records begin. The Executor Packet can include the safe account inventory, ownership and beneficiary information, legal-document locations, professional contacts, regular obligations, and relevant tax-record references. Keep full sensitive records in the appropriate protected place, shared only through the agreed process.
 
-A scheduled-delivery or missed-check-in system can provide a communication backstop. Verify the recipients, waiting periods, delivery conditions, and what happens during a false alarm. It should deliver non-secret direction rather than release signing keys. Availability and features depend on the actual service or app release.
+The Family Custody Map remains the guide to Bitcoin arrangements. Don't duplicate recovery secrets into the letter to make it seem complete. A document that helps an heir find the legitimate process should not become a shortcut for anyone who finds the document.
 
-For the Reeds, put the Heir Letter beside the filled fictional example and the Executor Packet. The letter starts the process; the packet organizes the follow-up. Give the first page to a nontechnical reader and ask what they would do first and how they would check the contact.
+Use the existing templates as a starting structure. Fill them with the household's actual people and instructions. Delete irrelevant sections rather than make a reader sort through hypothetical trusts, providers, or loans the family doesn't use.
 
-If the reader starts hunting for recovery words or thinks the document authorizes a sale, revise the instructions. Shorter is useful only when the next step is still clear. Add the missing connection before adding more background about Bitcoin.
+Date the documents and identify who maintains them. A contact who moved, an account that closed, or a changed beneficiary can make an old packet misleading even when most of it remains accurate.
 
-Test the delivery method with a harmless sample. Confirm the message arrives, can be opened, and is recognized. An untested system is still an assumption. Record when it was tested and what needs to be reviewed after a change of address, email, provider, or family role.
+Now test delivery, not just wording. Can the intended person find the letter when needed? Do they know it exists? Is the backup contact also prepared? A beautifully written file inside the unavailable person's locked laptop is not a usable handoff.
 
-We'll prepare the non-secret letter and packet, identify a safe placement method, and test a harmless delivery. Generating or exporting a document is separate from confirming the intended person received it, can open it, and understands it. Keep legal review and actual recovery proof as their own work.
+Any check-in or delayed-notification service is only an additional communication layer. It needs consent, reliable contact details, a false-alarm process and a test of what is actually delivered. It doesn't replace legal authority or safe custody, and it should not automatically distribute secrets.
 
-Finish with a findable starting page, a verified first contact, and a reader who can explain the first safe action. Keep the deeper records available to the people who need them, while all signing secrets and exact recovery locations remain in the separately protected process.
+For a rehearsal, use a harmless test message and an authorized recipient. Do not stage a real death notice or send sensitive instructions to someone without agreement. If the app has not demonstrated that delivery feature, keep it as an outside task rather than pretend the test occurred.
+
+Read the first page with the person who would use it. Ask them to describe the first action back to you. Then ask what they would do if the primary contact didn't answer. Their hesitation tells you where the explanation is missing.
+
+Fix the missing step before adding more pages. The useful outcome is a findable starting point and an understandable path to help.
+
+For this section's working chapter, prepare the letter and packet, connect them to the existing custody map, and complete the no-secrets rehearsal. Record what was understood and which outside legal or provider action is still needed. The family should know where to begin without being handed unrestricted access to everything.
+
+### Visual and source notes — not spoken
+
+Existing HeirLetter/ExecutorPacket examplesandnonssecret deliverystructure. Quoted paragraph is NEW illustrativeletterlanguage forlegal/familyadaptation,notlegaladviceorapprovedReedprocess. No privateclientfacts. Delivery/check-in remainsoptionalproof-requiredactualcapability;harmlessconsentedtestonly;nosecretsorfalseemergencysent.
 
 ### Production notes
 
-Use the safe worksheet letter skeleton; no false claim that generic instructions are attorney-approved. APP capture checks actual heir-letter/export/dead-man-switch availability and mode restrictions; no unverified 90-day default promise. Test-only recipients and messages. Exporting the letter is distinct from delivery proof.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 ### Member checkpoint
 
-- State the first contact and first actions in plain language.
-- Keep secrets separate and make the packet findable.
-- Test a harmless delivery and the recipient's understanding.
-
-### Source-led visual and teaching notes — not spoken
-
-Show the blank and filled Heir Letter and Executor Packet, then a three-question reader rehearsal. A missed-check-in feature is a conditional screen insert; test-only recipients, no assumed delivery/default or key release.
-
-Editorial reason: Demonstrate the named family documents and test understanding rather than stopping at a generated letter.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+Complete the Heir Letter and Executor Packet, verify they can be found, and rehearse first actions with consent and no secret exposure.

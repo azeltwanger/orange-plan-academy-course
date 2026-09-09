@@ -1,7 +1,7 @@
 # 7.2 — Prove recovery before meaningful money depends on it
 
-Status: TEACHING_REPAIR_NEEDED — the prior course-wide pass was rejected for voice and teaching clarity. This component still needs individual repair; it is not approved.
-Adapted source: `course-v2/sessions/07-custody.md` at `2343e6dc7a21b4ce6edf8e170a1890bc3cb70c9b`.
+Status: TEACHING_REWRITE_REVIEW — complete written explanation using the accepted problem, explanation, example and solution approach. Integrated voice/judgment review and actual filming remain open.
+Adapted source: original source materials and current course decisions recorded in delivery/teaching-revision.md; prior versions remain in Git history.
 App references: accepted redesign direction; final screen behavior requires capture evidence.
 
 Kind: teach
@@ -10,46 +10,48 @@ Sources: CUSTODY, DICTATION, PRIMARY
 
 ### Read aloud
 
-Before meaningful money depends on a backup, prove what it restores. Practice in a separate small test setup and follow the official procedure for your actual wallet. A calm test should answer a specific recovery question without putting the main holding at risk.
+Owning a hardware wallet and owning a working backup are not the same thing. The device can work perfectly today while the recovery information is incomplete, mistaken, or unavailable when it is needed.
 
-A hardware wallet is a signing device. Your Bitcoin is recorded on the network; the device protects the information used to authorize transactions. Losing the device can be recoverable when the correct backup and required wallet information remain available. Losing the only usable recovery material can be a very different problem.
+We want to find that out without putting the funded wallet at risk.
 
-Obtain the device through the manufacturer's verified channel or an explicitly authorized source, and follow the current authenticity and setup instructions for that model. Generate your own new wallet through the supported process. Treat a device supplied with prewritten recovery words as compromised.
+A wallet backup lets compatible software or a device recreate the keys for the corresponding wallet. The hardware device is not where the Bitcoin itself lives. Losing the device can be survivable when the correct recovery materials and procedure are available.
 
-Identify the backup standard being used. Different devices and wallet configurations can require different information. A word count alone does not establish universal compatibility. A passphrase, a special recovery scheme, an account derivation, or a multisig policy can add requirements beyond the words someone wrote down.
+A PIN protects access to the device. It is not a substitute for the wallet backup. A passphrase, when used, changes which wallet the backup opens. That passphrase must also be available and exact. Multisig can require several keys and the wallet configuration. The right test depends on the setup you actually chose.
 
-Protect the backup offline using an appropriate physical method. Paper and durable metal have different resistance to fire, water, and deterioration. More copies may improve availability while increasing exposure to theft. Placement should be chosen around the failures you are trying to survive, and sensitive locations belong in a separate protected recovery process.
+Start with the current official instructions for the exact device, software, and backup format. Don't combine a few steps from different models or follow an unsolicited support link. Where supported, a non-destructive backup check can compare the recorded backup with the active wallet material without wiping the device.
 
-Use a small test transaction and verify the receiving address through the device's trusted display where the supported process provides it. A computer screen can be misleading if the computer or interface is compromised. Transaction details need independent attention before approval.
+For learning, use a separate small-value practice wallet or another properly isolated training setup. Keep real recovery words, keys, passphrases and secrets out of recordings, course uploads, screenshots, chat and shared notes.
 
-Then validate the backup through the device's supported backup-check function or a recovery on a compatible spare device. Confirm the expected wallet and test balance. Where a reset-and-restore demonstration is appropriate, perform it only after backup validation and only in a controlled test setup. Never wipe the only working device protecting meaningful funds simply because a generic course checklist says reset next.
+In the demonstration, the practice wallet gets a small test transaction, follows its official recovery procedure, and is checked against the expected wallet. That lets you understand the sequence before meaningful savings depend on your own execution.
 
-A passphrase requires special care. It is an additional exact input that can create a different wallet. A mistyped passphrase may open a valid but empty wallet rather than produce an obvious error. The device PIN protects access to the device; it is not a substitute for the recovery backup or passphrase.
+But the result has a limit: recovering the practice wallet proves that practice setup. It does not prove the backup of a different funded wallet.
 
-For multisig, test the intended signing threshold and retain the wallet policy or configuration information needed for recovery. Having enough seed backups is not automatically proof that heirs can reconstruct the correct wallet. The recovery plan must include compatible tools and the information required by that particular setup.
+Your actual wallet needs its own appropriate verification. That may include its official backup-check process and, when suitable and safely arranged, recovery on a compatible spare device while the working device remains intact. A passphrase or multisig arrangement needs the additional steps that prove the intended wallet can be reached, not just that one word list is valid.
 
-For Alex and Morgan, a successful practice-wallet recovery proves that practice procedure on that setup. It does not automatically prove the backup of a different, already funded wallet. Keep the direct-custody pool's status open until the relevant recovery material and method have been safely verified.
+Check a known non-secret wallet identifier or receive address using the verified process, not only that an application shows some balance. A mistyped passphrase can open a different valid wallet. Seeing an empty wallet is a reason to stop and investigate, not immediately send money into it.
 
-Use the appropriate non-destructive backup check or professionally reviewed recovery process for the actual setup. Record what was tested and what remains untested, without storing the secret material in the financial-planning app.
+Before any destructive step, understand what it removes and what recovery evidence already exists. Do not wipe the only working access to meaningful funds as a casual test. A failed check needs careful official support and a safe plan—not repeated guesses under pressure.
 
-The separate device demonstration shows this process on the exact hardware, firmware, and backup method used for filming. Follow the official instructions for your own setup. Stop when a step differs materially from what is shown rather than improvising with funded assets.
+Store backups so the failures you're concerned about don't take all copies at once. Durability protects against damage. Separate storage can reduce shared physical loss. Both add responsibilities about privacy and family access. A photographed backup may be easy to find but exposed to devices and accounts you didn't intend to trust.
 
-Be able to explain which backup, any additional secret or configuration, and which compatible procedure are needed for the intended wallet. Record only the test actually completed and its scope. When a step differs from the demonstration, stop and consult the official instructions rather than improvise with funded assets.
+After a successful test, record only the evidence that is safe to keep in the planning record: which setup was tested, the type of test, date, outcome, and what still needs checking. Don't record the recovery material itself.
+
+For the Reeds, “wallet recorded” and “recovery verified” remain separate statuses. Their fixture tells us what they hold. It doesn't establish that anyone restored a wallet or that Morgan can follow the process.
+
+The working chapter should finish with an honest status. Either the relevant check was completed safely and its scope is clear, or there is a named next step before more money relies on the setup. Watching the demonstration is not recovery proof for your wallet.
+
+That is the practical benefit of this lesson: you know what you would need after device loss and have a safe way to verify it, instead of discovering the missing piece when the device is already gone.
+
+### Visual and source notes — not spoken
+
+Preserve D07 safepractice versusactualwallet distinction. Current officialTrezor guides on walletbackups, Checkbackup, passphrase and troubleshooting checked; exactdevice/format/firmware procedure is still a captureprecondition. Never genericwipe fundedwallet, sharesecrets, assumecheckprovesfullpassphrase/multisig,or claimpracticecertifiesdifferentfundedwallet. Metadataonlyproofandstopconditions retained. A validwordlist≠intendedwallet.
 
 ### Production notes
 
-D07 exact-device gate: official instructions, authenticity, backup standard, firmware, spare-device/backup check, test-only funds, address verification, reset safety, and recovery proof. Never display usable real or demo seed phrases in distributable course footage; mask/cut secrets rather than teaching from a reusable public funded wallet. Vendor procedures must be freshly checked.
+The uploaded retirement YouTube script supplies delivery and progression only: a recognized problem, enough explanation, a worked example and an actionable conclusion. Its financial formulas, return assumptions, price table, withdrawal rates and guarantees are not adopted. New connecting wording and generic illustrations are editorial proposals, not prior Austin dictation or client facts. See delivery/teaching-revision.md for original sources, source differences, examples and narrow outside checks.
+
+Exact app controls, inputs, calculations, save behavior and recordings remain subject to the paired walkthrough checks. Professional, device and real learner evidence are separate from this written draft. No course edit executes an account, trade, loan, transfer, legal document or message.
 
 ### Member checkpoint
 
-- Identify the complete recovery information for the actual setup.
-- Validate the backup before any destructive test.
-- Record a successful small-value recovery and the next review date.
-
-### Source-led visual and teaching notes — not spoken
-
-Practice setup versus actual holding: make the scope of proof visible. Retain device/PIN/recovery-backup/passphrase distinctions. Show only non-secret checks and the intended recovered test wallet; sensitive material stays off camera.
-
-Editorial reason: Prevent a practice test from being misrepresented as proof of a different funded wallet's recovery.
-
-See `delivery/source-led-completion.md` for the source and verification boundary. Existing factual and professional gates are not waived. New wording is an editorial proposal, not prior Austin dictation.
+Record the exact scope and result of an appropriate safe recovery check, or a specific prerequisite; never certify an untested funded wallet.
