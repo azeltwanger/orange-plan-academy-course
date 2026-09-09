@@ -1914,7 +1914,7 @@ We need a coverage path and a budget for the period before Medicare, then a sepa
 
 Start with what is actually available. That could include a spouse's employer plan, continuation coverage, a Marketplace plan, or another arrangement for which you qualify. Identify when the current coverage ends and when the replacement can begin. Don't leave a gap between two dates that only looked close on the calendar.
 
-Then compare the full cost. The premium is what you pay to keep the coverage. The deductible is the amount you pay for services subject to it before the plan starts paying its share. A copayment is a set charge for care; coinsurance is a percentage of the covered cost you pay. Check which doctors and services the plan covers, called its network.
+Then compare the full cost. The premium is what you pay to keep the coverage. The deductible is the amount you pay for services subject to it before the plan starts paying its share. A copayment is a set charge for care; coinsurance is a percentage of the covered cost you pay. The network is the group of doctors, facilities and other providers that have an agreement with the plan. Check your doctors and needed services separately.
 
 Read the out-of-pocket limit too. It does not necessarily include premiums, services the plan excludes, or every out-of-network cost. Use the actual policy to see what remains your responsibility.
 

@@ -63,5 +63,7 @@
     "scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md"
   ],
   "inventory_teaching": 65,
-  "inventory_practical": 11
+  "inventory_practical": 11,
+  "post_export_definition_corrections": 1,
+  "post_export_correction": "6.3 separates the provider network from coverage of a service; no policy or technical safeguard removed."
 }

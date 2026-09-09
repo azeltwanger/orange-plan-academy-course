@@ -451,9 +451,9 @@
       "path": "scripts/06-3_price-healthcare-before-leaving-employer-coverage.md",
       "gate": "HEALTH_REVIEW",
       "sources": "RETIREMENT, OWNER, PRIMARY, BRAIN",
-      "words": 793,
-      "spoken_sha256": "dabddba8e97248e41308253f5892c5650c8812ad596435bcf3ca45ed702955c6",
-      "source_sha256": "0fe18da419adf0384e5ce5298dbaddc052de448d8955cb55582ab2992af6887b",
+      "words": 807,
+      "spoken_sha256": "0bf72033fa0e1faf3fae8af0248185edc2adf64589d105e3549bafb0284351bc",
+      "source_sha256": "192941591884dd3cdafbc417a7272d3c39251b1e802b68b6586895f2338da90b",
       "member_group": "Main path"
     },
     {
