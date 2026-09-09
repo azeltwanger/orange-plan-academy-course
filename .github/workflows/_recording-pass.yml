@@ -25,7 +25,17 @@ jobs:
         run: |
           set -euo pipefail
           test "$(git rev-parse HEAD)" = "$GITHUB_SHA"
-          test "$(git rev-parse HEAD^)" = 'c4c55601dfdaa893343623a75f478cbbfef120ad'
+          test "$(git rev-parse HEAD^)" = '4e9915de2aa1d2d183d9eec445439323a703f2f6'
+          test "$(git rev-parse HEAD^^)" = 'c4c55601dfdaa893343623a75f478cbbfef120ad'
+          python - <<'PY'
+          from pathlib import Path
+          p = Path('tools/_recording_pass.py')
+          text = p.read_text()
+          before = "revised=text[:m.start(1)]+'\\n'+current+'\\n\\n'+text[m.end(1):]"
+          after = "revised=text[:m.start(1)]+current+m.group(1)[len(m.group(1).rstrip()):]+text[m.end(1):]"
+          assert text.count(before) == 1
+          p.write_text(text.replace(before, after, 1))
+          PY
           python -m py_compile tools/_recording_edits.py tools/_recording_pass.py
           python tools/_recording_pass.py apply --root "$GITHUB_WORKSPACE"
           python tools/guided_course.py build
