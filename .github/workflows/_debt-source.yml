@@ -1,0 +1,30 @@
+name: Snapshot debt teaching source
+on:
+  push:
+    branches: [course-debt-decision-process-20260910]
+    paths: [.github/workflows/_debt-source.yml]
+permissions:
+  contents: read
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: c3e08387c03e6c7236ec5ea798931ace81d4c1f5
+          fetch-depth: 0
+          persist-credentials: false
+      - name: Bundle exact manuscript and history
+        run: |
+          set -eu
+          test "$(git rev-parse HEAD)" = c3e08387c03e6c7236ec5ea798931ace81d4c1f5
+          mkdir -p /tmp/debt-source
+          git bundle create /tmp/debt-source/history.bundle HEAD
+          git rev-parse HEAD > /tmp/debt-source/COMMIT.txt
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: Academy-Debt-Teaching-Source
+          path: /tmp/debt-source
+          retention-days: 2
+          if-no-files-found: error
