@@ -1,6 +1,6 @@
-You can have the same debt today that you had six months ago and still be in a very different position. If the assets behind that debt have fallen in value, you have less room to deal with the obligation—even though you haven't borrowed more.
+You can have the same debt today that you had six months ago and still be in a very different position. If the assets behind that debt have fallen in value, you have less room to deal with the obligation, even though you haven't borrowed more.
 
-Your assets are the things you own that have value. Your debts are what you owe. A balance sheet lists both. Divide the debt by the value of the assets, then multiply by 100 to get the percentage. That is the debt-to-assets ratio.
+Your assets are the things you own that have value. Your debts are what you owe. A balance sheet lists both. Divide the debt by the value of the assets, then multiply by 100 to get the percentage. That's the debt-to-assets ratio.
 
 Use the assets before subtracting debt. Net worth is what remains after that subtraction, so it answers a different question.
 
@@ -18,19 +18,19 @@ This is why a debt level can feel comfortable after Bitcoin has risen and much l
 
 The reverse matters too. A higher debt-to-assets ratio after a decline doesn't automatically mean you should sell Bitcoin immediately. Go back to the payments, available cash, and actual loan terms. Can you continue carrying the debt, or is there a specific event that could force action?
 
-The stress example we've just used is deliberately limited. It holds the education and health accounts unchanged, and it doesn't estimate the value of the omitted business or vehicles. A complete household stress test would need those details too. Use this calculation to understand the mechanism; don't mistake it for proof that we have tested every bad outcome.
+The stress example we've just used is deliberately limited. It holds the education and health accounts unchanged, and it doesn't estimate the value of the omitted business or vehicles. A complete household stress test would need those details too. Use this calculation to understand the mechanism; don't mistake it for proof that we've tested every bad outcome.
 
 A fast price decline is also not the only difficult case. You might handle a brief drop but struggle if returns stay weak for several years while interest and payments continue. Or business income could weaken at the same time as investments. That's why we need more than today's asset total.
 
 A lender's collateral test is separate from that household total. Loan-to-value, or LTV, compares one loan with the assets pledged for it.
 
-For this example, suppose the lender can sell the collateral at 80% LTV. Picture $50,000 owed against $100,000 of collateral. If that collateral falls to $62,500, the loan is now 80% of its value: $50,000 divided by $62,500. The collateral fell $37,500 from the starting $100,000—a 37.5% decline. The loan balance didn't change.
+For this example, say the lender can sell the collateral at 80% LTV. Picture $50,000 owed against $100,000 of collateral. If that collateral falls to $62,500, the loan is now 80% of its value: $50,000 divided by $62,500. The collateral fell $37,500 from the starting $100,000. That's a 37.5% decline. The loan balance didn't change.
 
 Starting at 25% LTV gives more room: a 68.75% decline reaches the same assumed 80% line when the debt stays fixed. These are made-up contract terms to explain the math, not a lender's current offer.
 
-Notice what the numbers describe. They are price declines to the assumed liquidation threshold. They are not percentage-point gaps between two LTV readings, and they don't tell us when a lender will first contact you. A warning or collateral call can have a different trigger.
+Notice what the numbers describe. They're price declines to the assumed liquidation threshold. They aren't percentage-point gaps between two LTV readings, and they don't tell us when a lender will first contact you. A warning or collateral call can have a different trigger.
 
-Interest or fees added to the balance can also reduce that room. So can changes to what the lender accepts as collateral or how it values it. Read the actual agreement rather than borrow the 80% figure from this example.
+Interest or fees added to the balance can also reduce that room. So can changes to what the lender accepts as collateral or how it values it. Read the actual agreement instead of borrowing the 80% figure from this example.
 
 Putting 20% of your Bitcoin with a lender doesn't mean the loan has 20% LTV. One figure tells you how much of your Bitcoin is exposed to that arrangement. The other tells you how large the loan is compared with that pledged portion. You need to understand both.
 
@@ -46,25 +46,25 @@ Those may be different answers. You could cover monthly interest from income whi
 
 “We'll refinance” is something to investigate, not a complete fallback. You may be able to replace the loan, but the new lender, terms and approval still need to exist when you need them. Check what the household would do if they don't.
 
-Put the important dates where you will see them. When does a rate reset? When does the payment change? When must the principal be repaid? Work backward from those dates so you have time to compare the options before the last payment is due.
+Put the important dates where you'll see them. When does a rate reset? When does the payment change? When must the principal be repaid? Work backward from those dates so you have time to compare the options before the last payment is due.
 
-A collateral-backed loan may need a more specific response point. The lender has thresholds or rights under the agreement. Your own review point should come before the situation you are trying to avoid—not simply repeat the liquidation number as though it were a comfortable limit.
+A collateral-backed loan may need a more specific response point. The lender has thresholds or rights under the agreement. Your own review point should come before the situation you're trying to avoid. Don't simply repeat the liquidation number as though it were a comfortable limit.
 
 You might repay part of the loan, add eligible collateral, arrange a controlled sale, or reduce the obligation in another permitted way. Identify the resource that would make that response possible. Money reserved for taxes or essential bills isn't automatically spare repayment money.
 
-Adding collateral needs its own limit. It can improve the current LTV while putting more of your assets into the same lending arrangement. If your only rule is to keep adding Bitcoin whenever the price falls, you could end up pledging much more of the family's holdings than you originally intended.
+Adding collateral needs its own limit. It can improve the current LTV while putting more of your assets into the same lending arrangement. If you keep adding Bitcoin every time the price falls, you could end up pledging much more of the family's holdings than you intended.
 
 Decide how much additional exposure you would accept and which resources need to remain available for other jobs. Then decide what you would do if that limit is reached. An unlimited promise to protect one loan can weaken the rest of the plan.
 
 Consider the time it takes to respond as well. An account balance isn't useful for a fast collateral demand if you can't move the money when it's needed. Market gaps, transfer delays, lender discretion and outages can leave less time than a smooth projection suggests.
 
-Monitoring helps you notice a problem. It doesn't guarantee you can prevent a forced sale. That is a reason to leave room in the original borrowing decision, not a reason to assume an alert makes a larger loan safe.
+Monitoring helps you notice a problem. It doesn't guarantee you can prevent a forced sale. That's a reason to leave room in the original borrowing decision, not a reason to assume an alert makes a larger loan safe.
 
 Choose a review routine that fits the debt. A regular loan payment can be checked during the household's normal monthly review. A loan backed by a volatile asset may need much closer attention and lender alerts. Waiting for the annual plan review isn't a sufficient way to manage a rapidly changing collateral position.
 
-Your spouse or trusted person should know that the obligation exists, where the safe instructions begin, and whom to contact. They don't need wallet recovery information written into this document. They do need enough context to recognize that a time-sensitive lending issue should not sit unread for a week. We'll connect that to the family handoff later in the course.
+Your spouse or trusted person should know that the obligation exists, where the safe instructions begin, and whom to contact. They don't need wallet recovery information written into this document. They do need enough context to recognize that a time-sensitive lending issue shouldn't sit unread for a week. We'll connect that to the family handoff later in the course.
 
-Some situations are reasons to stop before borrowing. An essential bill without funding is one. So is an agreement you don't understand, a principal repayment that depends entirely on another unapproved loan, or a response that requires money you cannot access. A household member who shares the consequences but hasn't agreed to the risk is another reason to stop and talk.
+Some situations are reasons to stop before borrowing. An essential bill without funding is one. So is an agreement you don't understand, a principal repayment that depends entirely on another unapproved loan, or a response that requires money you can't access. If someone in the household shares the consequences but hasn't agreed to the risk, stop and talk.
 
 For Alex and Morgan, the Reserve and high-rate card still need funding. They haven't taken out a Bitcoin-backed loan. We can compare borrowing without adding it to the plan they've chosen.
 

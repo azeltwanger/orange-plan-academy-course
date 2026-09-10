@@ -4,45 +4,45 @@ Use the life you actually want in retirement. Begin with the spending review you
 
 Keep essential and flexible spending visible. That doesn't mean you plan to cut every enjoyable expense. It means you know which amounts could change if the plan needs an adjustment later.
 
-Add known irregular costs at the right dates rather than pretend retirement is the same month repeated forever. A roof, vehicle, family gift, or college commitment can make one year meaningfully different.
+Add known irregular costs at the right dates instead of pretending retirement is the same month repeated forever. A roof, vehicle, family gift, or college commitment can make one year meaningfully different.
 
-For a separate hypothetical household, start with $96,000 of living costs and $12,000 for healthcare. Together, that's $108,000. There is also $40,000 of income before tax. Subtract that income, and the rough gap is $68,000. But we still need to include any costs those amounts leave out.
+For a separate hypothetical household, start with $96,000 of living costs and $12,000 for healthcare. Together, that's $108,000. There's also $40,000 of income before tax. Subtract that income, and the rough gap is $68,000. But we still need to include any costs those amounts leave out.
 
-That subtraction is useful, but it isn't yet the final withdrawal amount. We have compared gross income with only part of the cash outflow. Taxes, required debt, and other costs can change what the portfolio has to supply.
+That subtraction is useful, but it isn't yet the final withdrawal amount. We've compared gross income with only part of the cash outflow. Taxes, required debt, and other costs can change what the portfolio has to supply.
 
 Let's add two hypothetical costs to that example: $12,000 of total tax for the year and $6,000 of debt payments that weren't included in the living costs. Add those to the $108,000, and total costs become $126,000. Subtract the same $40,000 of income. The gap is now $86,000.
 
-These added figures are assumptions for this example. They show why the rough $68,000 gap is not necessarily the withdrawal you need. If withdrawing more also raises the tax bill, include that change in the calculation.
+These added figures are assumptions for this example. They show why the rough $68,000 gap isn't necessarily the withdrawal you need. If withdrawing more also raises the tax bill, include that change in the calculation.
 
-Use one consistent convention. Start with gross income and include the complete tax outflow, or clearly reconcile the deposits and tax already withheld. Don't subtract withholding and then subtract the entire same tax bill again.
+Be consistent with how you count income and tax. Start with gross income and include the complete tax outflow, or clearly reconcile the deposits and tax already withheld. Don't subtract withholding and then subtract the entire same tax bill again.
 
 Now build the income floor: money expected to arrive before you sell assets for the remaining need. Social Security, a pension, rent after its costs, and continuing work may contribute. But they don't all have the same reliability.
 
 A pension statement may describe a contractual benefit. Part-time earnings require someone to keep working. A rental can need repairs or have a vacancy. Record the amount and date, and distinguish the dependable part from the portion you would need to replace if it stopped.
 
-Investment distributions need care too. If dividends are already included in the portfolio's total return and cash available, don't add them again as extra growth plus extra income. Reinvested distributions are not a cash deposit funding the bills until the strategy makes them available.
+Investment distributions need care too. If dividends are already included in the portfolio's total return and cash available, don't add them again as extra growth plus extra income. Reinvested distributions aren't a cash deposit funding the bills until the strategy makes them available.
 
 For a couple, keep each person's income and dates separate. Alex's intended retirement date doesn't automatically end Morgan's work or start both people's benefits. The largest portfolio gap may occur in the years before later income begins.
 
 Alex would like work to be optional at 52. The usual age-59½ landmark is seven and a half years later. Morgan is two years younger and has a separate timeline. We can't assume Alex's age makes Morgan's retirement accounts available on the same terms.
 
-Begin with any income that continues. Then identify cash and taxable investments assigned to these years. Some taxable money may already belong to the Reserve, a purchase, or education. Count the part genuinely available for the retirement gap, not the entire account total.
+Begin with any income that continues. Then identify cash and taxable investments assigned to these years. Some taxable money may already belong to the Reserve, a purchase, or education. Count the part actually available for the retirement gap, not the entire account total.
 
-Now review any retirement-account access you intend to use. Age 59½ is important, but it is not an absolute lock on all retirement money. Regular Roth IRA contributions, qualifying workplace-plan separation rules, certain governmental 457(b) distributions, and structured periodic payments can have different treatment.
+Now review any retirement-account access you intend to use. Age 59½ is important, but it isn't an absolute lock on all retirement money. Regular Roth IRA contributions, qualifying workplace-plan separation rules, certain governmental 457(b) distributions, and structured periodic payments can have different treatment.
 
-Check the conditions for the route you intend to use. The account must allow the withdrawal, and ordinary income tax can still apply even when an early-distribution penalty does not. If your plan depends on using retirement money before 59½, complete the account-access lesson before counting on it.
+Check the conditions for the route you intend to use. The account must allow the withdrawal, and ordinary income tax can still apply even when an early-distribution penalty doesn't. If your plan depends on using retirement money before 59½, complete the account-access lesson before counting on it.
 
-Then look at the benefit dates. Stopping work and claiming Social Security do not have to happen together. Claiming earlier can bring income into the gap sooner; waiting may provide a larger later benefit under the rules. The cost of waiting is the additional support required before it starts.
+Then look at the benefit dates. Stopping work and claiming Social Security don't have to happen together. Claiming earlier can bring income into the gap sooner; waiting may provide a larger later benefit under the rules. The cost of waiting is the additional support required before it starts.
 
-For your own Social Security retirement benefit, delayed retirement credits stop at 70. Waiting past that age does not earn more of those credits. Spousal and survivor benefits follow different rules.
+For your own Social Security retirement benefit, delayed retirement credits stop at 70. Waiting past that age doesn't earn more of those credits. Spousal and survivor benefits follow different rules.
 
-Use your actual earnings record and estimates, and review the household rather than only one person's payment. Spousal and survivor benefits, age differences, continuing work and pension choices can change the comparison. A single break-even age doesn't answer every family's needs.
+Use your actual earnings record and estimates, and review the household instead of only one person's payment. Spousal and survivor benefits, age differences, continuing work and pension choices can change the comparison. A single break-even age doesn't answer every family's needs.
 
-Be clear about inflation conventions. A benefit estimate in today's dollars should not be treated as an already inflated future payment and increased again. Match the source estimate with the model's input convention.
+Be clear about inflation conventions. A benefit estimate in today's dollars shouldn't be treated as an already inflated future payment and increased again. Match the source estimate with the model's input convention.
 
 Now compare your resources across the whole gap, year by year. Start with the first withdrawal. Look at the balance remaining, the next year's need, and the date another income or access route becomes available. A rough annual gap multiplied by years is only an orientation; returns, taxes, events and timing affect the actual path.
 
-If the early years are short, compare the decision that addresses them. That might be directing more current saving into accessible accounts, reducing work gradually, changing a commitment, or verifying a legitimate access route. More saving in a later account is not automatically the fix.
+If there isn't enough usable money to fund the early years, compare a change that addresses that gap. That might be directing more current saving into accessible accounts, reducing work gradually, changing a commitment, or verifying a legitimate access route. More saving in a later account isn't automatically the fix.
 
 Once you know the spending gap, you still need to decide where the money comes from. “Take it from investments” leaves two decisions unfinished: which account provides it, and what gets sold inside that account?
 
@@ -52,7 +52,7 @@ After that, choose the accounts that supply the remaining gap. A taxable account
 
 Then choose the assets or lots used inside the selected account. The account order and the sale order are related, but they aren't the same setting. You could withdraw from a Traditional account while selling a stock fund inside it. You could sell personally held Bitcoin in taxable custody and use its cash for spending. Each has a different tax and recordkeeping path.
 
-An account order says which account you intend to use first and which follows. A blend uses more than one account for the same year's spending. Neither is best just because it has a name. Compare whether it supplies the cash you need, what tax it creates, and what money it leaves for later.
+An account order says which account you intend to use first and which follows. A blend uses more than one account for the same year's spending. The name alone doesn't tell you which is better. Compare whether it supplies the cash you need, what tax it creates, and what money it leaves for later.
 
 One option is a deliberate blend during the earlier period. Some spending can come from Traditional, with the rest from taxable resources. Or a separate conversion may use part of the income window while spending has its own source. We already explained that tax trade-off; here we see how it changes the paycheck.
 

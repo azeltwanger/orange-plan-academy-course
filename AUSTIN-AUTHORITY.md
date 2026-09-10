@@ -13,3 +13,7 @@ The new canonical files are complete pre-dictation drafts. Their editorial statu
 Consolidate to 25 main recordings and eight For your situation recordings. These counts exclude separately captured app/device segments. Record scripts first; text and graphics are edited afterward. Do not require slides, homework, extra practice portfolios, submissions or student presentations. The exercise is applying the teaching to the member's own Orange Plan.
 
 Problem, proof/example and solution should make the decision understandable. Bring the useful example earlier; cut repeated explanations rather than pile on more information. Keep a changed circumstance only when it demonstrates a different decision. Do not import financial assumptions from the YouTube delivery references. The accepted Reserve remains unchanged.
+
+## Voice-only follow-up
+
+Austin accepted the consolidated content and structure and authorized voice edits only. Keep the 25 main and eight situation-specific recordings, their examples, financial assumptions, decision methods, and app handoffs. Apply natural spoken phrasing and rhythm without introducing new personal stories or preferences. Claude's substantive suggestions are not adopted by this authorization. The accepted Reserve remains unchanged; actual app and device capture remain separate.

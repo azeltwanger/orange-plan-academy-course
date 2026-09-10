@@ -13,21 +13,21 @@ Return to: your retirement timeline, then healthcare
 
 An early-distribution exception can make retirement money useful before 59½. It can also be misapplied because someone remembers the name of a rule but not which account, person or date it requires.
 
-Start with the funding gap and the account intended to supply it. Then separate three questions: will the plan or custodian allow the withdrawal, is ordinary income tax due, and is an additional early-distribution tax avoided? A yes to one is not automatically a yes to the others.
+Start with the funding gap and the account intended to supply it. Then separate three questions: will the plan or custodian allow the withdrawal, is ordinary income tax due, and is an additional early-distribution tax avoided? A yes to one isn't automatically a yes to the others.
 
-A Roth IRA is a good example. Distribution ordering distinguishes regular contributions, conversions and earnings. Regular contributions generally come out first. That does not make the full account balance available on the same terms.
+A Roth IRA is a good example. Distribution ordering distinguishes regular contributions, conversions and earnings. Regular contributions generally come out first. That doesn't make the full account balance available on the same terms.
 
-Keep records of contributions and conversions, including prior distributions. A conversion's separate five-year additional-tax rule is not the same as the conditions for a qualified Roth distribution. A Roth workplace account has its own rules; don't apply Roth IRA ordering to it by name alone.
+Keep records of contributions and conversions, including prior distributions. A conversion's separate five-year additional-tax rule isn't the same as the conditions for a qualified Roth distribution. A Roth workplace account has its own rules; don't apply Roth IRA ordering to it by name alone.
 
-The workplace-plan exception commonly called the Rule of 55 generally depends on separating from service during or after the calendar year in which the relevant age is reached, and taking distributions from the qualifying employer plan. It is not an IRA exception merely because the owner is 55. Certain public-safety workers have different provisions.
+The workplace-plan exception commonly called the Rule of 55 generally depends on separating from service during or after the calendar year in which the relevant age is reached, and taking distributions from the qualifying employer plan. It isn't an IRA exception merely because the owner is 55. Certain public-safety workers have different provisions.
 
 That makes a rollover a consequential decision. Moving the account to an IRA may change an access route you were about to use. Check the retirement funding before submitting the rollover, not after discovering that the new account has different rules.
 
 A governmental 457(b) arrangement can have different additional-tax treatment too. Amounts rolled in from other types of plans or IRAs can require separate treatment. Identify what the account and the money actually are.
 
-Substantially equal periodic payments—often called SEPP or 72(t) payments—provide another possible route. The calculation method, account balance, age, payment schedule and permitted changes need careful verification. This is not a flexible withdrawal plan that you can casually alter when spending changes.
+Substantially equal periodic payments are another possible route. They're often called SEPP or 72(t) payments. The calculation method, account balance, age, payment schedule and permitted changes need careful verification. This isn't a flexible withdrawal plan that you can casually alter when spending changes.
 
-For this exception through an employer plan, the payments must begin after separation from that employer. An IRA does not have that employment-separation requirement. Verify the route for the account you intend to use before starting the series.
+For this exception through an employer plan, the payments must begin after separation from that employer. An IRA doesn't have that employment-separation requirement. Verify the route for the account you intend to use before starting the series.
 
 The required period generally lasts until the later of five years from the first payment or age 59½, subject to applicable exceptions. For an illustration based on exact birthdays, beginning at 54 would run to 59½, which is five and a half years. Beginning at 58 would run to 63, because five years is later than reaching 59½.
 

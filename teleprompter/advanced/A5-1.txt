@@ -1,8 +1,8 @@
-A conversion can make sense this year and cost too much next year. Compare the amounts year by year, using the income you expect in each one, rather than repeat one amount throughout retirement.
+A conversion can make sense this year and cost too much next year. Compare the amounts year by year, using the income you expect in each one, instead of repeating one amount throughout retirement.
 
 Start with the unchanged plan. Mark employment income, healthcare coverage, benefits, required distributions and the resources funding the early years. Then choose a limited schedule to compare.
 
-For a separate illustrative tax calculation, suppose converting the first $20,000 adds $4,000 of current cost. Converting another $20,000 adds $6,000 more. The first portion costs 20%; the second costs 30%. Together, a $40,000 conversion costs $10,000, or 25% on average.
+For a separate illustrative tax calculation, say converting the first $20,000 adds $4,000 of current cost. Converting another $20,000 adds $6,000 more. The first portion costs 20%; the second costs 30%. Together, a $40,000 conversion costs $10,000, or 25% on average.
 
 Looking only at that average hides the decision about the second portion. If the household's comparable future tax cost is expected to be 25% under the simplified assumptions, the first portion has a different trade-off from the second. This is an example of incremental reasoning, not a real tax calculation or a prediction of future brackets.
 
@@ -10,11 +10,11 @@ Now add the next year. If employment resumes or a pension starts, the conversion
 
 For each version, keep the same lifestyle and market assumptions. Compare no added conversions, a modest schedule and a larger early schedule. Record the conversion, spending withdrawal and tax-payment source separately each year.
 
-Read the early-access balances as well as later tax. A schedule that consumes the taxable bridge to pay tax can leave the household with more Roth money and less usable cash when it needs it. That is part of the cost, not an unrelated issue.
+Check the money available for the early years as well as the tax later. A schedule that consumes the taxable bridge to pay tax can leave the household with more Roth money and less usable cash when it needs it. That's part of the cost, not an unrelated issue.
 
 Then compare after-tax resources at the same dates. Include the return and tax treatment of the money that would otherwise have paid conversion tax. Don't rank strategies only by the size of the final Roth or lifetime tax paid.
 
-Test the assumptions that make the preferred schedule win. What if later tax rates are lower? What if growth is slower or one spouse dies earlier? A surviving household can have a different filing and income picture. If the model doesn't support a relevant effect, analyze it separately rather than infer it from the score.
+Test the assumptions that make the preferred schedule win. What if later tax rates are lower? What if growth is slower or one spouse dies earlier? A surviving household can have a different filing and income picture. If the model doesn't support a relevant effect, analyze it separately instead of inferring it from the score.
 
 A market decline may let the same conversion dollars move more units. That can be useful, but it doesn't pay the tax or guarantee recovery. The current cash source and the longer-term reason still need to work.
 

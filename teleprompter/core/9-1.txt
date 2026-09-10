@@ -1,10 +1,10 @@
 Once the plan is built, you shouldn't have to rebuild it every month. The monthly job is to keep the facts current and notice anything that genuinely needs a decision.
 
-A quiet month can end with no strategy change. That's the plan doing its job, not evidence that you haven't spent enough time on it.
+In a quiet month, you may not need to change anything. That's fine.
 
-Start with what actually happened since the last update. New purchases, sales, transfers, or debt changes need to agree with the current records. A change in market price is not a new purchase. Money moved between your own accounts is not automatically new income.
+Start with what actually happened since the last update. New purchases, sales, transfers, or debt changes need to agree with the current records. A change in market price isn't a new purchase. Money moved between your own accounts isn't automatically new income.
 
-Update the plan from your records, then check what changed. If an import or connection already added a transaction, don't add it again. If all you know is the new account value, keep the missing history separate rather than make up purchases to explain the balance.
+Update the plan from your records, then check what changed. If an import or connection already added a transaction, don't add it again. If all you know is the new account value, keep the missing history separate instead of making up purchases to explain the balance.
 
 Take an ordinary example. A retirement contribution went through payroll, but the receiving account still shows the money in cash. Before changing the contribution amount, check whether the investment instruction was completed. The problem may be execution, not saving too little.
 
@@ -12,15 +12,15 @@ Or a card balance is higher than expected. Look at whether new purchases, intere
 
 Next, check life changes and upcoming deadlines. Has an expected event happened? Is a planned purchase now an owned asset or an actual debt? Update the current facts and the old future event so the same change doesn't happen twice in the projection.
 
-Leave assumptions and targets alone unless you deliberately decide to change them. New Bitcoin prices don't require a new return philosophy every month. A material new fact may justify a comparison; routine price movement may not.
+Leave assumptions and targets alone unless you deliberately decide to change them. New Bitcoin prices don't require a new return philosophy every month. An important new fact may give you a reason to compare a change. Routine price movement may not.
 
 Read the result's date and status after updating. Make sure it includes the changes before deciding what they mean. A current account balance and an older calculation can otherwise tell two different stories.
 
 Then choose the action, if one is needed. Fix an incomplete purchase instruction. Gather a missing statement. Recheck the affordability of an upcoming expense. Keep it specific and small enough to finish.
 
-For loans or other time-sensitive obligations, follow their own monitoring schedule. A collateral issue cannot wait for the monthly review just because this is the usual household routine. The debt operating rules still apply.
+For loans or other time-sensitive obligations, follow their own monitoring schedule. A collateral issue can't wait for the monthly review just because this is the usual household routine. The debt operating rules still apply.
 
-Once a year, look at how the choices fit together—not just whether this month's records are correct.
+Once a year, also look at how the choices fit together.
 
 Begin with spending and the Reserve. If retired, read the policy status and compare the coming year's spending using the process from Retirement Income. Check what any change means for withdrawals and the refill. If still working, review whether the Reserve target and funding pace still fit the household.
 
@@ -28,13 +28,13 @@ Next, look at Allocation. Has the mix drifted, or has the purpose of some money 
 
 Then check Debt. Are the rate, principal, payment and maturity still what the plan assumes? Is the repayment source still credible? A loan-specific threshold needs its regular monitoring; the annual pass checks whether the broader strategy still fits.
 
-For Tax, update the current year's income picture and the next important windows. Is a conversion, gain, loss or required distribution relevant? Bring the actual records and proposed actions to the appropriate review before the deadline, rather than discover them after filing season begins.
+For Tax, update the current year's income picture and the next important windows. Is a conversion, gain, loss or required distribution relevant? Bring the actual records and proposed actions to the appropriate review before the deadline, instead of discovering them after filing season begins.
 
-Custody is the next area. Has a provider, device, key arrangement, authentication method or helper changed? Does the existing recovery evidence still apply to this setup? You do not need a destructive live-wallet test merely to tick an annual box. Review the evidence and perform only the appropriate safe check for what changed.
+Custody is the next area. Has a provider, device, key arrangement, authentication method or helper changed? Does the existing recovery evidence still apply to this setup? You don't need a destructive live-wallet test merely to tick an annual box. Review the evidence and perform only the appropriate safe check for what changed.
 
 Finally, review the family documents, ownership, beneficiaries and insurance. Do the people and contacts still agree to their roles? Can the safe starting instructions be found? A change in a relationship, child, jurisdiction or account can require a specific update even when the financial projection still looks fine.
 
-Here's an example of why the sequence matters. Suppose a debt ended during the year and its payment remained in checking. First confirm the debt is actually gone. Then review whether the Reserve is funded and which contribution destination now deserves that money. Update the instruction and verify the first purchase. You don't need a new complete portfolio design to solve that gap.
+Here's an example of why the sequence matters. Let's say a debt ended during the year and its payment remained in checking. First confirm the debt is actually gone. Then review whether the Reserve is funded and which contribution destination now deserves that money. Update the instruction and verify the first purchase. You don't need a new complete portfolio design to solve that gap.
 
 After reviewing the areas, read the updated plan as one whole. Are the same dollars still being assigned once? Do the chosen spending and contribution amounts fit? Are any new comparisons accidentally mixed into Current?
 
@@ -42,11 +42,11 @@ Choose only the changes you intend to adopt. For each outside action, record who
 
 Don't wait for that date when life changes or a number stops making sense.
 
-Start by distinguishing a real-life change from a data problem and an idea you are only considering. They lead to different actions.
+First, ask whether something changed in your life, a record is wrong, or you're just considering an idea. They lead to different actions.
 
 A job loss is a changed fact. A missing account balance is a record to repair. A possible career break is a scenario. If you treat all three as a reason to edit every strategy setting, the plan quickly becomes impossible to follow.
 
-Suppose household income falls. Update the actual source and its timing, then check bills, required payments, the Reserve and extra contributions. The immediate response may be to pause optional transfers while keeping essentials funded. Don't wait for the annual review to acknowledge that the old surplus is gone.
+Let's say household income falls. Update the actual source and its timing, then check bills, required payments, the Reserve and extra contributions. The immediate response may be to pause optional transfers while keeping essentials funded. Don't wait for the annual review to acknowledge that the old surplus is gone.
 
 For an unexpected result, trace it before changing the plan. Which input, date, account, tax assumption or funding rule produced the number? Is the calculation current? Did an expense appear twice, or did a future event remain after the change became part of today's spending?
 
@@ -54,9 +54,9 @@ A tax result that differs from your expectation needs the same discipline. Read 
 
 When the change is only an idea, compare it separately. Record what would change and what stays fixed. After reading the effect, decide whether to adopt it. A saved baseline should describe what you intend to follow, not every possibility you have ever tried.
 
-When asking for help, make the question easy to investigate. State the result you expected, the result you saw, the relevant date and input, and the decision it blocks. Share only the information the question needs. A full unredacted backup or wallet secret is not a normal support attachment.
+When asking for help, make the question easy to investigate. State the result you expected, the result you saw, the relevant date and input, and the decision it blocks. Share only the information the question needs. A full unredacted backup or wallet secret isn't a normal support attachment.
 
-Don't make several compensating edits to recover a preferred percentage. That can hide the original error and introduce more. Keep a before-and-after record of the one correction, then check the downstream result.
+Don't make several compensating edits to recover a preferred percentage. That can hide the original error and introduce more. Keep a before-and-after record of the one correction, then check what it changes in the result.
 
 If the issue affects a time-sensitive bill, loan threshold or tax deadline, address that practical obligation through the proper channel while the planning discrepancy is being resolved. An app investigation doesn't extend a contract or filing deadline.
 

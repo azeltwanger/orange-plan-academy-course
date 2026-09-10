@@ -1,14 +1,14 @@
 You can move a retirement date earlier in a calculator without saving another dollar. Increase the return assumption, and the future balance grows. The result looks better immediately.
 
-But did the household improve—or did the story about the future become more optimistic?
+So did anything about their situation actually change? Or did the story about the future just get more optimistic?
 
 Start with investment growth. For a simple example, $10,000 growing at 10% for ten years becomes about $26,000 before tax. At 20%, it becomes about $62,000. The starting investment and time are identical. The assumed return creates most of the difference.
 
-These are illustrations, not forecasts. They show why the expected return deserves more attention than a setting you rush past.
+These illustrations show how much the expected return can change the answer. They aren't forecasts, so take a moment to check that assumption.
 
 Start with assumptions you understand and have a reason to use. Don't choose the most optimistic return just to reach the retirement date you want. And keep an extreme disaster case separate from what you expect. We need a starting plan, then comparisons that show what happens when the assumptions are wrong.
 
-For a long Bitcoin plan, my preference is to let assumed growth decline over time rather than carry one large annual percentage through every decade. Power Law is one model I've used to think about that. It is still a model. Read the path it produces instead of treating the name as proof that the future will follow it.
+For a long Bitcoin plan, my preference is to let assumed growth decline over time instead of using one large annual percentage through every decade. Power Law is one model I've used to think about that. It's still a model. Read the path it produces instead of treating the name as proof that the future will follow it.
 
 An average can hide that changing path. A model might use more growth early and less later. Look at one early year and one later year. That tells you more about what the plan assumes than one average printed over the entire period.
 
@@ -22,8 +22,8 @@ You also need to choose how many years the plan should cover. That's the plannin
 
 Once the starting assumptions are clear, test one less favorable version. For Alex and Morgan, keep spending, contributions, and intended retirement timing the same while changing the investment-growth path. Then inspect what becomes harder to fund.
 
-If the plan is short in the early years under slower growth, that points to a real comparison: save more in accessible accounts, spend differently, or change the work timeline. Raising returns until the shortfall disappears would hide the question rather than solve it.
+If the plan is short in the early years under slower growth, that points to a real comparison: save more in accessible accounts, spend differently, or change the work timeline. Raising returns until the shortfall disappears hides the question instead of solving it.
 
 Different investments may need different assumptions. Owning a Bitcoin fund isn't the same as owning a company that holds Bitcoin or a leveraged product. Use the custom-assumptions reference when you need to check a particular holding's treatment.
 
-You are not being asked to predict the right return. Start with a model you understand, then compare a slower-growth version. If the answer changes, identify the choice it affects—saving, spending, or work timing. Choosing that response is the decision you control.
+You don't have to predict the right return. Start with a model you understand, then compare a slower-growth version. If the answer changes, identify the choice it affects: saving, spending, or work timing. Choosing that response is the decision you control.
