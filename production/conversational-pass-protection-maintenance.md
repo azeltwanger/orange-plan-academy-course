@@ -25,4 +25,3 @@ The final review still asks the learner to understand funding, assumptions and r
 The targeted source check passed for 13 UTF-8/LF files, all 27 chapter field sets and 44 exact spoken overlay cues. All teaching and walkthrough finish checks remain. Local links and whitespace were checked separately.
 
 Root owns regeneration, the combined recording file, full repository tests and the revised D07 pin. Actual filming still needs the future app build's controls and save/result behavior, actual export scope and delivery, and the independently reviewed model-specific wallet procedure with secret-free capture. Owner voice approval and actual novice usability have not been established by this manuscript review.
-
