@@ -1,5 +1,18 @@
 # September 10 manuscript finish — targeted patches
 
+## Bounded-review follow-up
+
+The owner supplied Claude's bounded review of PR #30: the arithmetic and seven stated attention items passed, with four wording fixes requested. This follow-up changes narration only in 03 / 1.4, 10 / 3.6 and the Bitcoin-loan lesson / A3.1. The 25 + 8 structure and all other narration, including insurance and the Reserve, remain unchanged.
+
+- A3.1 now states at the sizing step that $50,000 assumes interest/fees are separately funded; capitalize them only after resizing principal or supporting BTC. The later example ties one year of 12% directly to the exhausted $6,000 headroom.
+- A3.1 explicitly compares 50% initial posting with about 14.3% when all 3.5 BTC is posted upfront.
+- 3.6 labels 25% as a mechanical comparison showing the effect of more upfront collateral, not a competing default.
+- 1.4 restores "Don't choose the most optimistic return just to reach the retirement date you want" beside the existing conservative-assumption reasoning.
+
+[First-party owner excerpts and upstream addendum](../reference/owner-decisions-20260910.md) make the insurance and reviewer authority retrievable. The previous audit's historical LTV quote remains historical. The exact external voice-and-philosophy/research/project-instruction originals were not found in accessible sources; they have **not** been marked edited. Use the supplied addendum there before treating upstream synchronization as finished. No app repository files are changed.
+
+New regression checks cover the sizing condition at its point of use, the numerical comparison, the restored failure mode, the user-originated insurance/reviewer statements and the untouched insurance/Reserve narration. Repository tests do not constitute a fresh independent Claude review of this follow-up.
+
 ## Read the current version
 
 [All recording scripts](../ALL-SCRIPTS.md) · [25-video reading order](../DICTATION-ORDER.md) · [Dated source checks](../reference/script-finishing-sources.md).

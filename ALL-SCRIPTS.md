@@ -104,7 +104,7 @@ Start with investment growth. For a simple example, $10,000 growing at 10% for t
 
 These illustrations show how much the expected return can change the answer. They aren't forecasts, so take a moment to check that assumption.
 
-I'd rather be conservative and end up with more than plan aggressively and fall short. Start with assumptions you understand and have a reason to use. And keep an extreme disaster case separate from what you expect. We need a starting plan, then comparisons that show what happens when the assumptions are wrong.
+Don't choose the most optimistic return just to reach the retirement date you want. I'd rather be conservative and end up with more than plan aggressively and fall short. Start with assumptions you understand and have a reason to use. And keep an extreme disaster case separate from what you expect. We need a starting plan, then comparisons that show what happens when the assumptions are wrong.
 
 For a long Bitcoin plan, my preference is to let assumed growth decline over time instead of using one large annual percentage through every decade. Power Law is one model I've used to think about that. It's still a model. Read the path it produces instead of treating the name as proof that the future will follow it.
 
@@ -616,7 +616,7 @@ For a Bitcoin-backed loan, I'd size the debt against a severe decline first, inc
 
 For this example, say the lender can sell the collateral at 80% LTV. Picture $50,000 owed against $100,000 of collateral. If that collateral falls to $62,500, the loan is now 80% of its value: $50,000 divided by $62,500. The collateral fell $37,500 from the starting $100,000. That's a 37.5% decline. The loan balance didn't change.
 
-Starting at 25% LTV gives more room: a 68.75% decline reaches the same assumed 80% line when the debt stays fixed. These are made-up contract terms to explain the math, not a lender's current offer.
+For comparison, posting more collateral to start the same loan at 25% LTV gives more room: a 68.75% decline reaches the same assumed 80% line when the debt stays fixed. Here, 25% shows the effect of more upfront collateral, not a recommended starting point. These are made-up contract terms to explain the math, not a lender's current offer.
 
 Notice what the numbers describe. They're price declines to the assumed liquidation threshold. They aren't percentage-point gaps between two LTV readings, and they don't tell us when a lender will first contact you. A warning or collateral call can have a different trigger.
 
@@ -680,11 +680,11 @@ How much Bitcoin would put the loan exactly on that line? Divide $50,000 by 80%.
 
 You can also work backward from the Bitcoin you have. An 80% decline leaves 20% of its starting value. Multiply that remaining value by the 80% liquidation threshold. That makes the boundary 16% of the Bitcoin's value today. With $350,000 of supporting Bitcoin, the boundary is $56,000 of debt.
 
-I wouldn't borrow right up to that number. I'd choose a smaller balance based on the room I want, interest that could be added, and the agreement's other requirements. The 16% is specific to this example. It's a boundary calculation, not a recommended borrowing rate.
+I wouldn't borrow right up to that number. I'd choose a smaller balance based on the room I want and the agreement's other requirements. Our $50,000 example assumes interest and fees are paid from cash flow we've already allowed for. If they'll be added to the balance, I'd reduce the starting loan or set aside more Bitcoin before borrowing. The 16% is specific to this example. It's a boundary calculation, not a recommended borrowing rate.
 
 Once I've sized the loan at $50,000, I can open it at 50% LTV by posting $100,000 of collateral. That's 1 BTC at our starting price. The other 2.5 BTC stays in cold storage, set aside for this loan.
 
-That's why I might choose a higher starting LTV. If Bitcoin rises, I may never need to send those additional coins. Posting all 3.5 upfront would give the same loan more room to handle a drop, but it would also put more Bitcoin into the lending arrangement immediately.
+Posting all 3.5 BTC upfront would start the same loan at about 14.3% LTV. That gives more room for a drop, but puts more Bitcoin with the lender immediately. That's why I might start at 50% instead. If Bitcoin rises, I may never need to send those additional coins.
 
 The cold-storage coins still have a job. I can't count them as protection for two loans or promise that they'll stay untouched no matter what. If I'm unwilling or unable to pledge them, they don't belong in this calculation.
 
@@ -696,7 +696,7 @@ Decide what triggers a top-up and how much you'll add. Allow time for access, tr
 
 An automatic top-up feature may require coins in an account with the provider. It can't simply take Bitcoin from your cold wallet. Check how it works and include that extra provider exposure when choosing where the reserve sits.
 
-Use the balance you'll actually need to support. If our $50,000 debt grows to $56,000, that same $70,000 of stressed collateral is at 80% LTV. Interest has used all the room in the example. Pay it from funded cash flow or leave room for it in the debt calculation.
+Use the balance you'll actually need to support. One year of hypothetical 12% interest added at year-end takes our $50,000 debt to $56,000. Against that same $70,000 of stressed collateral, that's 80% LTV. All $6,000 of room is gone. That's why the $50,000 starting amount assumes those costs are paid separately.
 
 Adding collateral keeps the debt in place. Repaying some of the loan reduces it. Set a limit on what you're willing to pledge, then identify the repayment or controlled-sale option if that limit is reached. An 80% stress test isn't a maximum possible loss or a guarantee against liquidation.
 

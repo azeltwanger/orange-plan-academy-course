@@ -92,7 +92,7 @@ Put that proposed $850 beside the same reduced-spending $1,700 pool already clai
 Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
 Kind: conditional
 Gate: TAX_LENDING_REVIEW
-Sources: APP, BRAIN, DEBT, PRIMARY, RETIREMENT
+Sources: APP, BRAIN, DEBT, OWNER, PRIMARY, RETIREMENT
 After lesson: 3.6
 Use when: You have or are considering a Bitcoin-backed loan, including repeat borrowing.
 Complete before: Complete before pledging Bitcoin or relying on loan proceeds.
@@ -112,11 +112,11 @@ How much Bitcoin would put the loan exactly on that line? Divide $50,000 by 80%.
 
 You can also work backward from the Bitcoin you have. An 80% decline leaves 20% of its starting value. Multiply that remaining value by the 80% liquidation threshold. That makes the boundary 16% of the Bitcoin's value today. With $350,000 of supporting Bitcoin, the boundary is $56,000 of debt.
 
-I wouldn't borrow right up to that number. I'd choose a smaller balance based on the room I want, interest that could be added, and the agreement's other requirements. The 16% is specific to this example. It's a boundary calculation, not a recommended borrowing rate.
+I wouldn't borrow right up to that number. I'd choose a smaller balance based on the room I want and the agreement's other requirements. Our $50,000 example assumes interest and fees are paid from cash flow we've already allowed for. If they'll be added to the balance, I'd reduce the starting loan or set aside more Bitcoin before borrowing. The 16% is specific to this example. It's a boundary calculation, not a recommended borrowing rate.
 
 Once I've sized the loan at $50,000, I can open it at 50% LTV by posting $100,000 of collateral. That's 1 BTC at our starting price. The other 2.5 BTC stays in cold storage, set aside for this loan.
 
-That's why I might choose a higher starting LTV. If Bitcoin rises, I may never need to send those additional coins. Posting all 3.5 upfront would give the same loan more room to handle a drop, but it would also put more Bitcoin into the lending arrangement immediately.
+Posting all 3.5 BTC upfront would start the same loan at about 14.3% LTV. That gives more room for a drop, but puts more Bitcoin with the lender immediately. That's why I might start at 50% instead. If Bitcoin rises, I may never need to send those additional coins.
 
 The cold-storage coins still have a job. I can't count them as protection for two loans or promise that they'll stay untouched no matter what. If I'm unwilling or unable to pledge them, they don't belong in this calculation.
 
@@ -128,7 +128,7 @@ Decide what triggers a top-up and how much you'll add. Allow time for access, tr
 
 An automatic top-up feature may require coins in an account with the provider. It can't simply take Bitcoin from your cold wallet. Check how it works and include that extra provider exposure when choosing where the reserve sits.
 
-Use the balance you'll actually need to support. If our $50,000 debt grows to $56,000, that same $70,000 of stressed collateral is at 80% LTV. Interest has used all the room in the example. Pay it from funded cash flow or leave room for it in the debt calculation.
+Use the balance you'll actually need to support. One year of hypothetical 12% interest added at year-end takes our $50,000 debt to $56,000. Against that same $70,000 of stressed collateral, that's 80% LTV. All $6,000 of room is gone. That's why the $50,000 starting amount assumes those costs are paid separately.
 
 Adding collateral keeps the debt in place. Repaying some of the loan reduces it. Set a limit on what you're willing to pledge, then identify the repayment or controlled-sale option if that limit is reached. An 80% stress test isn't a maximum possible loss or a guarantee against liquidation.
 
@@ -154,7 +154,7 @@ September 10 follow-up. The current narration supersedes the prior demonstration
 
 Record the script first; text and graphics come afterward. The application is the member's own Orange Plan, with no separate homework or submitted explanation. Capture the app or provider procedure only after verifying the relevant workflow, inputs and outputs. Nothing in this pass changes the app, moves funds or supplies a licensed approval.
 
-The $50,000 / 3.5 BTC illustration is generic, not a Reed loan or lender quote. At $20,000/BTC, 3.125 BTC reaches the 80% boundary; 3.5 BTC gives 71.4286% LTV only once posted. $56,000 reaches 80%. A 50% initial deposit is 1 BTC, leaving 2.5 BTC reserved. No requirement to restore 50% at the stressed price. Any stricter call-cure, maturity or renewal condition takes precedence over the headline liquidation percentage. Retain the distinct $25,000 / 12% annual-capitalization example through $59,360 for repeat borrowing. No external cold-wallet automatic-transfer claim.
+The $50,000 / 3.5 BTC illustration is generic, not a Reed loan or lender quote. It assumes interest and fees are paid from already-funded cash flow. One year of 12% capitalized interest uses all $6,000 of headroom; if costs will accrue, resize the opening principal or supporting BTC first. Posting all 3.5 BTC initially gives 14.2857% LTV. [First-party dictation and current interpretation](reference/owner-decisions-20260910.md) distinguish the teaching preference from an old on-camera quote. At $20,000/BTC, 3.125 BTC reaches the 80% boundary; 3.5 BTC gives 71.4286% LTV only once posted. $56,000 reaches 80%. A 50% initial deposit is 1 BTC, leaving 2.5 BTC reserved. No requirement to restore 50% at the stressed price. Any stricter call-cure, maturity or renewal condition takes precedence over the headline liquidation percentage. Retain the distinct $25,000 / 12% annual-capitalization example through $59,360 for repeat borrowing. No external cold-wallet automatic-transfer claim.
 
 ### Member checkpoint
 

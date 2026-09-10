@@ -41,4 +41,6 @@ Publication on main is for owner recording review. It does not publish to a stud
 
 ## September 10 targeted follow-up
 
+The subsequent bounded review is addressed in three narration files: borrowing-interest headroom and the 14.3% comparison, the illustrative 25% distinction, and the restored warning about choosing optimistic returns. [Current first-party authority and the remaining external-source update](reference/owner-decisions-20260910.md) distinguish Austin's approved insurance/reviewer position from a historical quote and unedited upstream Claude files.
+
 The borrowing and insurance passages now use Austin's latest approved reasoning. The annual spending lesson demonstrates the risk-based review through spending and Reserve decisions; hypothetical solver results remain labeled. Remaining voice edits, missing-basis consequences and security ordering are patched. [What changed and what Claude should cross-check](delivery/script-finishing-20260910.md). The source household, original dictation, toolkit and app/device capture evidence remain unchanged. This is the owner-review manuscript, not new footage or student launch approval.

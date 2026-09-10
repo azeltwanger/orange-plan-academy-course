@@ -882,6 +882,21 @@
       "status": "PASS"
     },
     {
+      "check": "loan remaining debt headroom",
+      "value": 6000.0,
+      "status": "PASS"
+    },
+    {
+      "check": "loan headroom fraction of principal",
+      "value": 0.12,
+      "status": "PASS"
+    },
+    {
+      "check": "loan upfront all supporting BTC LTV",
+      "value": 0.14285714285714285,
+      "status": "PASS"
+    },
+    {
       "check": "loan interest can erase stress cushion",
       "value": 0.8,
       "status": "PASS"
