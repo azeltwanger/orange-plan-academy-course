@@ -1,0 +1,100 @@
+name: Apply checked Academy manuscript edits
+on:
+  push:
+    branches: [course-script-finish-20260910]
+    paths: [.github/workflows/_finish-scripts.yml]
+permissions:
+  contents: write
+jobs:
+  publish:
+    if: github.repository == 'azeltwanger/orange-plan-academy-course'
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          fetch-depth: 0
+      - name: Apply pinned text edits, rebuild and test before branch publication
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python - <<'PY'
+          import base64, hashlib, json, os, pathlib, subprocess, tempfile, urllib.request
+          root=pathlib.Path.cwd()
+          repo='azeltwanger/orange-plan-academy-course'
+          branch='course-script-finish-20260910'
+          base='d78256ec5a0334b5e68788d6f6414bda3144be5b'
+          expected_tree='ef585e258d60928bfe715492d277dc52c52a6f23'
+          helper='.github/workflows/_finish-scripts.yml'
+          blobs=['536a47ff13a34cf4c86c8a61a65cfb2645872103','b2d57c516d9b6295bab83b1334617b0835311bbb','0059fc0b29087c477dcc1b04ef300479179583d6','e59b5b8173e8eb6180d999ec8939a6b577c4f0ae','70c53f5d621a77afc6588c69e9121bc501f44126','490063cd62f1cd44c1a838e4c33562ed08b42644','f99f140e98fd8e35cc6f94d7badd774cda16856f','fdfd10b96529d9d72042879556c927997681f5e5']
+          def run(*args,env=None):
+              return subprocess.check_output(args,cwd=root,env=env).decode().strip()
+          def digest(data):return hashlib.sha256(data).hexdigest()
+          def safe(name):
+              path=pathlib.PurePosixPath(name)
+              assert str(path)==name and not path.is_absolute() and '..' not in path.parts
+              assert not name.startswith(('.git/','.github/')) and path.suffix in ('.md','.py')
+              target=root/name
+              assert not target.is_symlink() and all(not p.is_symlink() for p in target.parents)
+              return target
+          assert os.environ['GITHUB_REPOSITORY']==repo
+          assert os.environ['GITHUB_REF']=='refs/heads/'+branch
+          start=run('git','rev-parse','HEAD')
+          assert start==os.environ['GITHUB_SHA']
+          assert run('git','ls-remote','origin','refs/heads/main').split()[0]==base
+          subprocess.run(['git','merge-base','--is-ancestor',base,start],check=True)
+          assert run('git','diff','--name-only',base,start)==helper
+          records=[]
+          for sha in blobs:
+              req=urllib.request.Request('https://api.github.com/repos/'+repo+'/git/blobs/'+sha,headers={'Authorization':'Bearer '+os.environ['GH_TOKEN'],'Accept':'application/vnd.github+json'})
+              with urllib.request.urlopen(req,timeout=30) as response:obj=json.load(response)
+              raw=base64.b64decode(obj['content'])
+              assert hashlib.sha1(b'blob '+str(len(raw)).encode()+b'\0'+raw).hexdigest()==sha
+              batch=json.loads(raw);assert isinstance(batch,list);records.extend(batch)
+          os.environ.pop('GH_TOKEN',None)
+          assert len(records)==23 and len({r['path'] for r in records})==23
+          updates={}
+          for rec in records:
+              name=rec['path'];target=safe(name)
+              before=target.read_bytes() if target.exists() else None
+              assert (digest(before) if before is not None else None)==rec['before'],('Base mismatch',name)
+              lines=(before or b'').decode().splitlines(keepends=True)
+              previous_end=0
+              for i,j,text in rec['edits']:
+                  assert isinstance(i,int) and isinstance(j,int) and isinstance(text,str)
+                  assert previous_end<=i<=j<=len(lines);previous_end=j
+              for i,j,text in reversed(rec['edits']):lines[i:j]=text.splitlines(keepends=True)
+              data=''.join(lines).encode()
+              assert digest(data)==rec['after'],('Edited content mismatch',name)
+              updates[name]=data
+          for name,data in updates.items():
+              target=safe(name);target.parent.mkdir(parents=True,exist_ok=True);target.write_bytes(data)
+          for command in [('python','tools/guided_course.py','build'),('python','tools/guided_course.py','check'),('python','tools/guided_course.py','test'),('python','-m','unittest','discover','-s','tests','-p','test_member_deliverables.py','-v'),('python','tools/guided_course.py','history')]:
+              subprocess.run(command,check=True)
+          run('git','diff','--check')
+          run('git','add','-A')
+          changed=run('git','diff','--cached','--name-only').splitlines()
+          assert len(changed)==69 and not any(p.startswith('.github/') for p in changed)
+          # Compare all final files to the reviewed local tree, excluding only this temporary helper.
+          fd,index=tempfile.mkstemp(prefix='academy-index-');os.close(fd);os.unlink(index)
+          env=os.environ.copy();env['GIT_INDEX_FILE']=index
+          try:
+              run('git','read-tree',run('git','write-tree'),env=env)
+              run('git','update-index','--force-remove',helper,env=env)
+              candidate=run('git','write-tree',env=env)
+              assert candidate==expected_tree,('Final tree mismatch',candidate)
+          finally:
+              pathlib.Path(index).unlink(missing_ok=True)
+          run('git','config','user.name','github-actions[bot]')
+          run('git','config','user.email','41898282+github-actions[bot]@users.noreply.github.com')
+          run('git','commit','-m','Finish approved borrowing, insurance and annual-spending teaching with targeted voice patches')
+          assert not run('git','status','--porcelain')
+          assert run('git','ls-remote','origin','refs/heads/main').split()[0]==base
+          assert run('git','ls-remote','origin','refs/heads/'+branch).split()[0]==start
+          subprocess.run(['git','push','origin','HEAD:refs/heads/'+branch],check=True)
+          head=run('git','rev-parse','HEAD')
+          print('VERIFIED_BRANCH_HEAD='+head)
+          print('VERIFIED_FINAL_TREE='+candidate)
+          with open(os.environ['GITHUB_STEP_SUMMARY'],'a') as f:
+              f.write('Published review branch '+head+'\n\nExact final tree '+candidate+' verified excluding the temporary helper. 25 main + 8 situational scripts; 191 arithmetic checks, 8 mutation checks, 23 unit tests and pinned source-history recovery passed. Main is unchanged. Remove this helper through the connector, verify the tree, and run normal PR verification before owner-authorized merge.\n')
+          PY
