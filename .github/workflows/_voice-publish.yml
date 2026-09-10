@@ -1,0 +1,90 @@
+name: Apply checked Academy voice-only edit
+on:
+  push:
+    branches: [course-voice-only-20260909]
+    paths: [.github/workflows/_voice-publish.yml]
+permissions:
+  contents: read
+concurrency:
+  group: academy-voice-only-20260909
+  cancel-in-progress: false
+jobs:
+  edit:
+    if: github.repository == 'azeltwanger/orange-plan-academy-course' && github.ref == 'refs/heads/course-voice-only-20260909'
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262
+        with:
+          ref: ${{ github.sha }}
+          fetch-depth: 0
+      - name: Read only the hash-pinned editorial patch data
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          test "$(git rev-parse HEAD)" = "$GITHUB_SHA"
+          test "$(git ls-remote origin refs/heads/main | cut -f1)" = 'f9cf0c9fa48a29622708b18891edde99ead26db3'
+          python - <<'PY'
+          import base64,gzip,hashlib,json,os,pathlib,urllib.request
+          sha='95bbe954ea0a15382703ea138cbba0277ba6bfb4'
+          url='https://api.github.com/repos/azeltwanger/orange-plan-academy-course/git/blobs/'+sha
+          req=urllib.request.Request(url,headers={'Authorization':'Bearer '+os.environ['GH_TOKEN'],'Accept':'application/vnd.github+json'})
+          with urllib.request.urlopen(req,timeout=30) as response:obj=json.load(response)
+          packed=base64.b64decode(obj['content'])
+          assert hashlib.sha1(b'blob '+str(len(packed)).encode()+b'\0'+packed).hexdigest()==sha
+          assert hashlib.sha256(packed).hexdigest()=='9b59f05fa9182912c66401487f262f04df8c21834a9050c185b9a7ea1922523b'
+          raw=gzip.decompress(packed);patches=json.loads(raw)
+          assert len(patches)==32 and sum(map(len,patches.values()))==114
+          pathlib.Path('/tmp/voice-edits.json').write_bytes(raw)
+          pathlib.Path('/tmp/voice-review').mkdir(exist_ok=True)
+          PY
+      - name: Apply exact edits and run existing checks
+        run: |
+          set -euo pipefail
+          python tools/_voice_edit.py /tmp/voice-edits.json > /tmp/voice-review/edit-report.json
+          python tools/guided_course.py check
+          python tools/guided_course.py test
+          python tools/guided_course.py history
+          python -m unittest discover -s tests -p test_member_deliverables.py -v
+          git diff --check
+          python - <<'PY'
+          import hashlib,json,pathlib,subprocess
+          base='f9cf0c9fa48a29622708b18891edde99ead26db3'
+          files=subprocess.check_output(['git','ls-tree','-r','--name-only','-z',base]).decode().strip('\0').split('\0')
+          assert len(files)==210
+          hashes={n:hashlib.sha256(pathlib.Path(n).read_bytes()).hexdigest() for n in files}
+          actual=hashlib.sha256(json.dumps(hashes,sort_keys=True,separators=(',',':')).encode()).hexdigest()
+          assert actual=='a27e1a43f1b4d74faa27a860b5bc3203818ca0d0876f38b1898d63ff47efa85c',actual
+          changed=subprocess.check_output(['git','diff','--name-only']).decode().splitlines()
+          allowed={'AUSTIN-AUTHORITY.md','ALL-SCRIPTS.md','MASTER-COURSE.md','MASTER-ADVANCED.md','COURSE-MANIFEST.json','COURSE-METRICS.md'}
+          assert all(n in allowed or n.startswith(('scripts/','teleprompter/','lesson-text/','modules/')) for n in changed)
+          assert not any(n.startswith('scripts/working/') for n in changed)
+          pathlib.Path('/tmp/voice-review/changed-files.txt').write_text('\n'.join(changed)+'\n')
+          pathlib.Path('/tmp/voice-review/verified-tree.json').write_text(json.dumps({'base':base,'files':len(files),'tree_content_sha256':actual,'notice':'Exact local candidate match and structural checks; no claim of independent learner testing or new professional review.'},indent=2)+'\n')
+          print('PASS: 210-file exact candidate match; only spoken sections, generated copies and the scope note changed.')
+          PY
+      - name: Publish to review branch only
+        run: |
+          set -euo pipefail
+          test "$(git ls-remote origin refs/heads/main | cut -f1)" = 'f9cf0c9fa48a29622708b18891edde99ead26db3'
+          test "$(git ls-remote origin refs/heads/course-voice-only-20260909 | cut -f1)" = "$GITHUB_SHA"
+          git add scripts teleprompter lesson-text modules AUSTIN-AUTHORITY.md ALL-SCRIPTS.md MASTER-COURSE.md MASTER-ADVANCED.md COURSE-MANIFEST.json COURSE-METRICS.md
+          test -z "$(git diff --cached --name-only -- .github tools source-material fixtures toolkit production tests CAPTURE-RECEIPTS.md PROMOTION-RECORD.json scripts/working scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md)"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Polish spoken voice while preserving the approved course content and structure'
+          git push origin HEAD:refs/heads/course-voice-only-20260909
+          test "$(git ls-remote origin refs/heads/course-voice-only-20260909 | cut -f1)" = "$(git rev-parse HEAD)"
+          test -z "$(git status --porcelain)"
+          git rev-parse HEAD > /tmp/voice-review/COMMIT.txt
+          git rev-parse HEAD^{tree} > /tmp/voice-review/TREE.txt
+          echo 'Voice edit committed to review branch; main unchanged. Remove temporary helpers and pass PR verification before merge.' >> "$GITHUB_STEP_SUMMARY"
+      - uses: actions/upload-artifact@ea165f8d65b6e75b540449e92b4886f43607fa02
+        with:
+          name: Academy-Voice-Edit-Verification
+          path: /tmp/voice-review
+          retention-days: 14
+          if-no-files-found: error
