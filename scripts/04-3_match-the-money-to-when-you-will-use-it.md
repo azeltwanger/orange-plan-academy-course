@@ -11,7 +11,7 @@ You may already know what percentage you want in Bitcoin. But that leaves anothe
 
 Your portfolio is the group of investments we're reviewing. Add up what you own across its accounts. Bitcoin exposure means the amount whose value is tied to Bitcoin. Looking only at your wallet misses that exposure when retirement accounts also hold Bitcoin funds.
 
-For Alex and Morgan, the investments we're using in this allocation example total about $1.3 million. They have $410,000 of direct Bitcoin value and $318,000 of spot Bitcoin-fund exposure in retirement accounts. Together, that is $728,000—about 56% of this group of assets.
+For Alex and Morgan, the investments we're using in this allocation example total about $1.3 million. They have $410,000 of direct Bitcoin value and $318,000 of spot Bitcoin-fund exposure in retirement accounts. Together, that's $728,000, or about 56% of this group of assets.
 
 That isn't the number of coins they control directly. The fund is still a security in its account. We combine its dollar exposure when looking at the investment mix and keep its ownership and custody arrangements separate.
 
@@ -33,55 +33,55 @@ We use Reserve, Bridge, and Forever to help think about when money will be used.
 
 These are timeframes, not three account types. One brokerage account might hold cash for a purchase and stock funds for much later. First decide what each amount is for. Then we can choose where to hold it.
 
-A bank savings account may fit money you need to reach quickly, with deposit insurance subject to its limits and ownership rules. A short Treasury bill can fit a known date when its maturity and access arrangements match the payment. A money market fund may offer convenient cash management inside a brokerage account, but it is an investment fund, not an FDIC-insured bank deposit.
+A bank savings account may fit money you need to reach quickly, with deposit insurance subject to its limits and ownership rules. A short Treasury bill can fit a known date when its maturity and access arrangements match the payment. A money market fund may offer convenient cash management inside a brokerage account, but it's an investment fund, not an FDIC-insured bank deposit.
 
-These aren't interchangeable just because each displays a yield. Check when you can use the money, what happens before maturity, the protection that actually applies, and the costs. A slightly higher yield is not useful when it leaves the bill without cash on the day it is due.
+These aren't interchangeable just because each displays a yield. Check when you can use the money, what happens before maturity, the protection that actually applies, and the costs. A slightly higher yield isn't useful when it leaves the bill without cash on the day it's due.
 
-For longer-term money, stocks give you ownership of businesses. That is a different source of value from holding Bitcoin. A household may want both because it wants Bitcoin exposure without making every long-term outcome depend on that one asset.
+For longer-term money, stocks give you ownership of businesses. That's a different source of value from holding Bitcoin. A household may want both because it wants Bitcoin exposure without making every long-term outcome depend on that one asset.
 
-You don't have to choose individual winning companies to get stock exposure. A broad fund can hold many companies under one investment. An index fund follows a defined market or group of securities. An actively managed fund gives a manager discretion to choose holdings. Read what either fund actually owns, rather than assume the label tells you whether it fits.
+You don't have to choose individual winning companies to get stock exposure. A broad fund can hold many companies under one investment. An index fund follows a defined market or group of securities. An actively managed fund gives a manager discretion to choose holdings. Read what either fund actually owns, instead of assuming the label tells you whether it fits.
 
 Compare the coverage, concentration, and cost. A broad US fund is different from a technology-sector fund. An international or global fund adds a different geographic mix. Owning several overlapping funds can leave you with many names on the statement but little additional variety underneath.
 
-For someone who wants straightforward non-Bitcoin growth, broad stock exposure is an alternative to concentrating the rest in a handful of companies. It still has market risk. It is not the substitute for cash needed next year, and there is no promise it rises when Bitcoin falls.
+For someone who wants straightforward non-Bitcoin growth, broad stock exposure is an alternative to concentrating the rest in a handful of companies. It still has market risk. It isn't the substitute for cash needed next year, and there is no promise it rises when Bitcoin falls.
 
 Bonds have another role. Instead of owning part of a business, you're lending money under stated terms. They can provide scheduled payments and, for an individual bond held to maturity, a stated principal repayment subject to the issuer meeting its obligation.
 
-That does not make every bond holding stable. A long-term bond or bond fund can lose value when rates rise. A high-yield bond takes more credit risk. A bond fund doesn't give your entire investment one fixed maturity date in the way an individual bond does.
+That doesn't make every bond holding stable. A long-term bond or bond fund can lose value when rates rise. A high-yield bond takes more credit risk. A bond fund doesn't give your entire investment one fixed maturity date in the way an individual bond does.
 
 Don't rely on a bond fund for an approaching bill just because it isn't a stock. What do you want it to provide: scheduled cash, less exposure to stock-market movements, or another investment return? Then compare its sensitivity to interest rates, the risk that borrowers won't repay, its fees, and access to the money. Bonds are an option to understand, not a required percentage for every Bitcoiner.
 
-Property or a business can also be part of the picture. Separate the value you own from the cash it can provide. Rent before repairs, debt service, and vacancies is not the amount available for your household. Your home isn't available to pay retirement expenses unless the plan includes a workable way to use its value.
+Property or a business can also be part of the picture. Separate the value you own from the cash it can provide. Rent before repairs, debt service, and vacancies isn't the amount available for your household. Your home isn't available to pay retirement expenses unless the plan includes a workable way to use its value.
 
-You don't need every type of investment. Choose one because it provides something you need, and count the cost and work it adds.
+You don't need every type of investment. Choose the ones that do something useful for your plan, and account for their cost and the work they add.
 
 Let's work through a simpler household with round numbers, separate from Alex and Morgan.
 
-They have $1 million of financial assets and want to test keeping $500,000 in Bitcoin. Their previous Reserve decision is $60,000. They also plan a $40,000 purchase next year, funded from existing savings. The purchase is not included in that Reserve.
+They have $1 million of financial assets and want to test keeping $500,000 in Bitcoin. Their previous Reserve decision is $60,000. They also plan a $40,000 purchase next year, funded from existing savings. The purchase isn't included in that Reserve.
 
-The $60,000 Reserve plus the $40,000 purchase need $100,000 in cash arrangements that fit those dates. Start with the $1 million, subtract the $500,000 Bitcoin choice, then subtract this $100,000. There is $400,000 left for the longer-term investments.
+The $60,000 Reserve plus the $40,000 purchase need $100,000 in cash arrangements that fit those dates. Start with the $1 million, subtract the $500,000 Bitcoin choice, then subtract this $100,000. There's $400,000 left for the longer-term investments.
 
-We didn't choose 10% cash because 10% sounded good. The dollar commitments produced that percentage.
+The cash comes to 10% because of those commitments. We didn't start with a 10% target.
 
-This household expects the remaining $400,000 to stay invested for at least ten years. It wants ownership of businesses alongside Bitcoin and does not want the work and concentration of picking a few individual stocks. For the illustration, it chooses broad stock funds for that amount after checking coverage and costs.
+This household expects the remaining $400,000 to stay invested for at least ten years. It wants ownership of businesses alongside Bitcoin and doesn't want the work and concentration of picking a few individual stocks. For the illustration, it chooses broad stock funds for that amount after checking coverage and costs.
 
 Now the proposed mix is 50% Bitcoin, 40% stocks, and 10% cash. Each part has a reason: Bitcoin for the role they chose, stocks for other long-term business ownership, and cash for identified spending and protection.
 
-Now change one fact. Suppose the household is about to stop working. Its plan shows $50,000 a year for the first two years that income won't cover, after allowing for the costs included in that spending gap. It wants those two payments available in cash, separately from the Reserve and purchase.
+Now change one fact. Let's say the household is about to stop working. Its plan shows $50,000 a year for the first two years that income won't cover, after allowing for the costs included in that spending gap. It wants those two payments available in cash, separately from the Reserve and purchase.
 
 That adds $100,000 to the cash job. With Bitcoin held at the same $500,000, there is now $200,000 in cash and $300,000 available for stocks: 50% Bitcoin, 30% stocks, 20% cash.
 
-The reason is not that every retiree needs 20% cash. This household chose to have those payments available. Keeping more in cash means less is invested for growth, so we need to test what that changes later. Choosing only the first year's payment in cash would produce a different trade-off.
+This household chose 20% cash because it wanted those payments available. Another retiree could choose differently. Keeping more in cash means less is invested for growth, so we need to test what that changes later. Choosing only the first year's payment in cash would produce a different trade-off.
 
-That is how we choose the amounts. Work out the spending commitments first, then decide what the remaining money needs to provide. If keeping your starting Bitcoin percentage leaves an important bill without funding, revisit that choice too. Compare a different purchase, a later date, another available source, or a smaller Bitcoin position. The percentage is something to test, not a promise that overrides the rest of your life.
+That's how we choose the amounts. Work out the spending commitments first, then decide what the remaining money needs to provide. If keeping your starting Bitcoin percentage leaves an important bill without funding, revisit that choice too. Compare a different purchase, a later date, another available source, or a smaller Bitcoin position. Test that percentage against the rest of your life before committing to it.
 
-The long-runway portion also changes as time passes. Retirement is not one deadline for all the money. The first year's spending and money intended for twenty years later can have different investments even after work stops.
+The long-runway portion also changes as time passes. Retirement isn't one deadline for all the money. The first year's spending and money intended for twenty years later can have different investments even after work stops.
 
 Then add the dollar positions to see the household mix. Don't average percentages from accounts of different sizes, and don't put the household percentage into every account. An account for a near-term bill may hold no Bitcoin even when Bitcoin is half the overall portfolio.
 
 Now open your own plan. Start with your spending commitments and the money left for longer-term investing. For that remainder, compare the investments you're seriously considering. What do they own? What do they cost? What would a bad result mean for the spending you need to fund?
 
-Use those answers to choose the mix, rather than copying the example's percentages. Two households can use the same method and choose different portfolios. An existing holding that fits may not need to change.
+Use those answers to choose the mix, instead of copying the example's percentages. Two households can use the same method and choose different portfolios. An existing holding that fits may not need to change.
 
 Next we'll choose the accounts that can hold those investments and provide the access you need.
 

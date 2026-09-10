@@ -7,11 +7,11 @@ Sources: BRAIN, OWNER, PRIMARY, RETIREMENT, TAX
 
 ### Read aloud
 
-A lower health premium doesn't always mean a lower healthcare budget. Suppose one option has $12,000 of annual premiums and $3,000 of expected additional costs. That's $15,000.
+A lower health premium doesn't always mean a lower healthcare budget. Let's say one option has $12,000 of annual premiums and $3,000 of expected additional costs. That's $15,000.
 
 Another has $8,000 of premiums and $8,000 of expected additional costs. That's $16,000, despite the cheaper premium.
 
-Those are invented budgeting amounts, not insurance quotes. They show why we need the full cost before deciding how much retirement spending requires.
+Those are example amounts, not insurance quotes. They show why we need the full cost before deciding how much retirement spending requires.
 
 We'll compare coverage, check how income affects its cost, and plan the transitions.
 
@@ -23,13 +23,13 @@ Check the clinicians, facilities, medicines and treatment you expect to use. A l
 
 Separate the premium from the risk you're still carrying. Decide which cash or other resources would cover that difficult-year cost. Don't count a Reserve dollar for a medical obligation and another simultaneous commitment without checking the combined need.
 
-Healthcare sharing or crowdfunding arrangements are different from insurance contracts. CrowdHealth is one example of a noninsurance approach; its member guide does not guarantee bill payment, and members remain responsible.
+Healthcare sharing or crowdfunding arrangements are different from insurance contracts. CrowdHealth is one example of a noninsurance approach; its member guide doesn't guarantee bill payment, and members remain responsible.
 
 A household may value its services or cost structure. It also needs to understand eligibility, limits, exclusions, existing-condition treatment and the unfunded costs it may retain. Entering a monthly contribution doesn't establish that every future bill is covered.
 
 Once the coverage choices are clear, check the income used to price or subsidize them. A retirement withdrawal, gain or conversion can change more than the tax line.
 
-Consider a separate calculation for that interaction. A $10,000 conversion adds $2,000 of income tax under hypothetical circumstances. Suppose it also increases net coverage cost by $1,500. The combined current cost is $3,500, or 35% of the conversion amount, rather than the 20% suggested by tax alone.
+Consider a separate calculation for that interaction. A $10,000 conversion adds $2,000 of income tax under hypothetical circumstances. Let's say it also increases net coverage cost by $1,500. The combined current cost is $3,500, or 35% of the conversion amount, instead of the 20% suggested by tax alone.
 
 These aren't current tax rates or subsidy estimates. They demonstrate why a conversion comparison must use the same income picture as the healthcare budget. A smaller conversion may have a different total cost.
 
@@ -41,11 +41,11 @@ Use the rules for the actual coverage year. Update the income estimate when circ
 
 Medicare uses a different income calculation and timing. Its income-related premiums generally use adjusted gross income plus tax-exempt interest from two tax years earlier. Identify both the income year and the premium year, and check whether a qualifying life event permits reconsideration.
 
-If the app doesn't calculate a relevant coverage effect, keep the verified coverage estimate beside the comparison and include its cost in the plan. An unmodeled subsidy is not necessarily an unchanged subsidy.
+If the app doesn't calculate a relevant coverage effect, keep the verified coverage estimate beside the comparison and include its cost in the plan. If the model doesn't calculate a subsidy, don't assume the subsidy stays the same.
 
 Finally, plan enrollment and coverage transitions. Many people become Medicare-eligible around 65. Eligibility, active employment coverage, enrollment and the effective date need coordination for each person.
 
-COBRA or retiree coverage doesn't extend the normal active-employment-based Part B enrollment window once you're Medicare-eligible. Check the deadline when employment or its coverage ends, rather than wait for COBRA to run out.
+COBRA or retiree coverage doesn't extend the normal active-employment-based Part B enrollment window once you're Medicare-eligible. Check the deadline when employment or its coverage ends, instead of waiting for COBRA to run out.
 
 Applying for premium-free Part A after 65 can backdate coverage by up to six months, but not before eligibility. That effective date matters for permitted HSA contributions. Include employer contributions when checking the amount.
 
@@ -55,7 +55,7 @@ Medicare also doesn't make healthcare free. Budget relevant premiums, supplement
 
 In Orange Plan, use the coverage costs and income belonging to each period. Check the dates and the cash needed for ordinary costs, retained risk and any assistance repayment. Compare a tax decision with its complete coverage effect before adopting it.
 
-The result is a workable path through the coverage changes. You aren't looking for one universal healthcare number. You're choosing what protection the household will have, what it will pay, and how the remaining costs fit the retirement paycheck.
+That gives you a healthcare budget for each stage of retirement, based on the coverage and costs that apply then.
 
 ### Production notes — not spoken
 

@@ -2,11 +2,11 @@ You might know the balance of every account and still not know what your househo
 
 Let's look at Alex's Roth IRA. The example account is worth $145,000. It contains $116,000 of spot Bitcoin-fund exposure and $29,000 in stocks.
 
-Those amounts add up to the $145,000. They are not additional assets on top of the account balance. Think of the account as the container and the investments as its contents.
+Those amounts add up to the $145,000. They aren't extra assets sitting on top of the balance. Think of the account as the container and the investments as its contents.
 
 Before we add the accounts, separate what is true today from what you're testing. The Reeds' existing mortgage is a fact. College support they intend to provide is an expected expense. The renovation they're debating is a scenario. Keep that comparison separate until they choose it.
 
-For now, gather recent account statements, debt statements, income records, a spending reference, and employer benefits. Keep them together in a private folder. Add a short list of expected changes. You don't need a second spreadsheet that recreates every record; you need a reliable place to check a number when a question comes up.
+For now, gather recent account statements, debt statements, income records, a spending reference, and employer benefits. Keep them together in a private folder. Add a short list of expected changes. Keep one reliable place to check a number when a question comes up. You don't need to copy everything into another spreadsheet.
 
 An account tells us who owns the money and the rules around it. A holding is the investment inside. An IRA is an individual retirement account. A 401(k) is a workplace retirement plan. You can copy the account type from your statement; you don't need to choose a new type now. A Roth IRA can hold stocks, a Bitcoin fund, cash, or other permitted investments. Its name doesn't tell us which investments you have.
 
@@ -16,11 +16,11 @@ Then open the statement and identify the investments. Use the actual name, quant
 
 Sometimes you only know the total and a rough investment mix. Start there, with the mix clearly marked as an estimate. Don't turn a rough percentage into a list of specific investments you haven't checked.
 
-A connection to a provider can be incomplete too. It may supply the account balance without the investments or older purchase history. That does not mean the balance is cash. It means part of the picture still needs explaining. Read what actually arrived rather than assuming “connected” means every detail is complete.
+A connection to a provider can be incomplete too. It may supply the account balance without the investments or older purchase history. That doesn't mean the balance is cash. It means part of the picture is still missing. Read what actually arrived instead of assuming “connected” means every detail is complete.
 
-For Bitcoin itself, record how much you own and where you control or access it. That's the custody arrangement. Use a clear name for the location, without private recovery information. A spot Bitcoin fund is different: you own shares in a fund that holds Bitcoin. Those shares give you Bitcoin price exposure, but they are not coins you can recover with your personal wallet backup. Later we'll add the dollar amounts when reviewing your investment mix.
+For Bitcoin itself, record how much you own and where you control or access it. That's the custody arrangement. Use a clear name for the location, without private recovery information. A spot Bitcoin fund is different: you own shares in a fund that holds Bitcoin. Those shares give you Bitcoin price exposure, but they aren't coins you can recover with your personal wallet backup. Later we'll add the dollar amounts when reviewing your investment mix.
 
-Suppose you already own Bitcoin that was purchased years ago. Entering the current holding is not a purchase today. We shouldn't create a date and price just to make the balance appear. The current position tells us what you have. Purchase history tells us how you acquired it and helps with later tax questions.
+Let's say you already own Bitcoin that was purchased years ago. Entering the current holding isn't a purchase today. We shouldn't create a date and price just to make the balance appear. The current position tells us what you have. Purchase history tells us how you acquired it and helps with later tax questions.
 
 A transfer needs the same care. Buying Bitcoin on an exchange and moving it to your wallet doesn't leave you owning it in both places. The transfer moves the position and its history. It doesn't create a second investment or reset what you originally paid.
 
@@ -36,22 +36,22 @@ For a business, first ask what has already come out of the amount you're using. 
 
 Next, enter a starting living-spending amount from actual records. Don't use the amount you wish you spent. Note annual bills or a recent change that could make a single month misleading. In Cash Flow we'll work out how those belong in the estimate.
 
-Keep required debt payments in their own debt records when the plan counts them there. Verify the current balance, rate, and payment from the lender. The mortgage you already have belongs in this picture. A loan you're considering does not become current debt because you want to compare it.
+Keep required debt payments in their own debt records when the plan counts them there. Verify the current balance, rate, and payment from the lender. The mortgage you already have belongs in this picture. A loan you're considering doesn't become current debt because you want to compare it.
 
 Then look at money already going into investments. A payroll retirement contribution uses household pay before the remainder reaches checking. An employer match adds retirement money, but it isn't cash the family can spend.
 
-Alex earns $155,000 a year and puts 6% into his workplace plan. Six percent means six dollars out of each hundred. On a calculator, $155,000 times 0.06 is $9,300 a year. Divide by twelve, and that is $775 a month. The employer's formula adds another $387.50 a month. Keep his money and the employer's money separate.
+Alex earns $155,000 a year and puts 6% into his workplace plan. That's $9,300 a year, or $775 a month. The employer's formula adds another $387.50 a month. Keep his money and the employer's money separate.
 
 Let's follow the money. With their current living costs and required debt payments, and $4,000 a month allowed for taxes, the Reeds have $1,275 left before Alex's retirement contribution. Subtract his $775 contribution, and $500 remains for other priorities.
 
-That is the figure we're starting from. It doesn't mean they're only saving $500; the employee contribution is already invested. It also doesn't include the spending reduction we'll consider later.
+That's the figure we're starting from. It doesn't mean they're only saving $500; the employee contribution is already invested. It also doesn't include the spending reduction we'll consider later.
 
 The tax amount in that example is an assumption, not a calculated tax bill. For your own cash flow, compare the income and tax figures with your records. If they don't agree, find out why before assigning the money that's left.
 
-Alex would like work to be optional at 52. Entering that age records the intention. It doesn't establish that the plan can fund it. Morgan has a separate work timeline; one person's retirement date should not silently end both incomes.
+Alex would like work to be optional at 52. Entering that age records the intention. It doesn't establish that the plan can fund it. Morgan has a separate work timeline; one person's retirement date shouldn't silently end both incomes.
 
-You don't have to know your final retirement budget yet. Start with what your life costs now. Subtract costs you expect to stop and add costs you expect to begin. Some work costs may disappear; travel, healthcare, or family support may increase. Keep an uncertain amount marked as an estimate rather than use zero. We will check and improve this first budget as we go.
+You don't have to know your final retirement budget yet. Start with what your life costs now. Subtract costs you expect to stop and add costs you expect to begin. Some work costs may disappear; travel, healthcare, or family support may increase. Keep an uncertain amount marked as an estimate instead of using zero. We'll check and improve this first budget as we go.
 
-Use actual Social Security or pension estimates when you have them, attached to the right person and start date. Don't insert an assumed benefit to fill a shortfall. An unverified income source is a question to answer, not funding you can rely on yet.
+Use actual Social Security or pension estimates when you have them, attached to the right person and start date. Don't insert an assumed benefit to fill a shortfall. If you can't verify the income, keep it as a question to answer before you count on it.
 
-That gives you the starting picture: what you own and owe, what comes in and goes out, and the retirement date and spending you want to test. Check an amount you aren't sure of rather than invent a precise answer. Keep wallet recovery words and account credentials out of this inventory.
+That gives you the starting picture: what you own and owe, what comes in and goes out, and the retirement date and spending you want to test. Check any amount you aren't sure of instead of inventing a precise answer. Keep wallet recovery words and account credentials out of this inventory.

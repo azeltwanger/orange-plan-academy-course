@@ -15,21 +15,21 @@ We entered a starting estimate earlier. Now compare it with your bank, card and 
 
 Check the payroll deductions first. If we start from gross income, account for taxes and other amounts withheld from pay. If we're looking at the deposit in your bank account, they have already happened. Subtracting them from that deposit again would make it look as though you have less money than you do.
 
-Sales are not all available for your household to spend. The business may need money for operating costs, taxes, or a loan payment. Look at what the income number actually includes so we don't leave out a cost or subtract something that's already been paid. Morgan's income in our example is after ordinary business operating costs, but the equipment-loan payment is still shown separately.
+Sales aren't all available for your household to spend. The business may need money for operating costs, taxes, or a loan payment. Look at what the income number actually includes so we don't leave out a cost or subtract something that's already been paid. Morgan's income in our example is after ordinary business operating costs, but the equipment-loan payment is still shown separately.
 
 Review more than one month. A full year can help you catch costs that are easy to forget, such as annual insurance, gifts, or expenses around the holidays. Those bills still need money even though they don't show up every time you open a statement.
 
-An average also needs some judgment. If your spending recently changed in a way you expect to continue, the past year may no longer describe your life. Perhaps you moved or a recurring payment ended. Use the newer records to understand the change, but still check for annual bills that haven't come around yet.
+An average also needs some judgment. If your spending recently changed in a way you expect to continue, the past year may no longer describe your life. Maybe you moved, or a recurring payment ended. Use the newer records to understand the change, but still check for annual bills that haven't come around yet.
 
-And don't remove an expense just because it was large. Ask whether it is likely to happen again. A one-time renovation is different from an annual premium. We will put major future purchases on the timeline later, so they stay in the plan without being treated as something you buy every month.
+And don't remove an expense just because it was large. Ask whether it's likely to happen again. A one-time renovation is different from an annual premium. We'll put major future purchases on the timeline later, so they stay in the plan without being treated as something you buy every month.
 
-Suppose you buy groceries with your credit card and then pay the card from checking. The groceries are spending. Paying the card settles that purchase; it isn't another grocery expense. If we add up both transactions as new spending, we've counted the same cost twice.
+Let's say you buy groceries with your credit card and then pay the card from checking. The groceries are spending. Paying the card settles that purchase; it isn't another grocery expense. If we add up both transactions as new spending, we've counted the same cost twice.
 
-An older card balance you're still paying off is different. That repayment needs room in your cash flow too. We'll keep it with the existing debts and their required payments rather than confuse it with this month's purchases.
+An older card balance you're still paying off is different. That repayment needs room in your cash flow too. We'll keep it with the existing debts and their required payments, separate from this month's purchases.
 
 Transfers to savings or an investment account also use money from checking, but they aren't the same thing as spending it on your lifestyle. Keep track of those transfers separately. You may be saving more than you realized, and we need to know what has already been assigned before we decide what the remaining money can do.
 
-Alex and Morgan earn about $19,417 a month between them. For this example, we're allowing $4,000 a month for taxes. That is an assumption we're using to explain the cash flow, not a tax bill we've calculated for them.
+Alex and Morgan earn about $19,417 a month between them. For this example, we're allowing $4,000 a month for taxes. That's an assumption we're using to explain the cash flow, not a tax bill we've calculated for them.
 
 Their normal living expenses are $10,800, and their required debt payments are about $3,342. After those amounts, they have $1,275 left before Alex's retirement contribution.
 
@@ -37,7 +37,7 @@ Alex contributes $775 a month through work. Subtract that, and the amount left f
 
 If you expect money to be left over each month, where does it go? It may accumulate in checking, move into savings, or go toward something you haven't included. Look across a few months and account for those movements. A balance taken just before a paycheck arrives can look very different from the balance just after it, even when the monthly totals are right.
 
-If checking keeps falling or an unpaid card balance keeps growing, I would find out why before adding another regular investment transfer. Go back to the income, deductions, spending, and existing transfers. For example, money you set aside for a future tax bill may still show up in savings, but it isn't available for another investment. Once you find the difference, correct the part of the plan it belongs to.
+If checking keeps falling or an unpaid card balance keeps growing, I'd find out why before adding another regular investment transfer. Go back to the income, deductions, spending, and existing transfers. For example, money you set aside for a future tax bill may still show up in savings, but it isn't available for another investment. Once you find the difference, correct the part of the plan it belongs to.
 
 Before setting up a transfer, look at when your pay arrives and when the larger bills leave. You might need to keep more money in checking between paydays, move a transfer to later in the month, or ask whether a bill's due date can change. Money you need for the bills before the next paycheck isn't spare money just because it's sitting in the account today.
 
@@ -49,13 +49,13 @@ I don't think the goal here is to make your spending as low as possible. You cou
 
 Start with the spending records you just reviewed. We're going to use three choices: Keep, Cut, or Reduce.
 
-Keep what is necessary or worth the money to you. Cut what you wouldn't choose again, such as an unused subscription. Reduce the cost of something you still want—perhaps a cheaper phone plan or fewer meals out, while keeping the ones you enjoy.
+Keep what is necessary or worth the money to you. Cut what you wouldn't choose again, such as an unused subscription. Reduce the cost of something you still want. Maybe a cheaper phone plan, or fewer meals out while keeping the ones you actually enjoy.
 
 Insurance takes a little more care. A lower premium could be a better price, or it could mean less coverage and a larger bill for you when something goes wrong. Compare the coverage and deductibles as well as the monthly price. The saving needs to be worth any extra cost you're agreeing to carry.
 
 For a simple example, reducing a recurring bill by $40 a month frees up $480 over a full year. There's no investment return in that calculation. It's money that would otherwise have left your account, provided the lower cost continues and you haven't added another expense to replace it.
 
-That is why I would look at recurring bills before spending hours trying to squeeze a few dollars out of every purchase. You make the change once, and it can keep helping the cash flow. Check for switching fees or an introductory price that ends soon, so you know how much you will really save.
+That's why I'd look at recurring bills before spending hours trying to squeeze a few dollars out of every purchase. You make the change once, and it can keep helping the cash flow. Check for switching fees or an introductory price that ends soon, so you know how much you'll really save.
 
 For example, moving somewhere cheaper might lower the housing bill, but add a longer commute or move you away from people who help with the kids. A less expensive car might reduce a payment, but selling the current one could require cash to clear the loan. Compare the whole change, not just the bill that gets smaller.
 
@@ -63,15 +63,15 @@ The Reeds' original living spending is $10,800 a month. With the other costs and
 
 If everything else stays the same, that gives them $1,700 for their other priorities instead of $500. They haven't increased their income or changed an investment assumption. They would be keeping more of the money they already earn.
 
-We're testing a $1,200 reduction; we haven't established which bills would make that possible. Before Alex and Morgan rely on it, they need to choose the changes and when they begin. Do the same with your expenses rather than start with a saving you want and hope the budget adjusts around it.
+We're testing a $1,200 reduction; we haven't established which bills would make that possible. Before Alex and Morgan rely on it, they need to choose the changes and when they begin. Do the same with your expenses instead of starting with a saving you want and hoping the budget adjusts around it.
 
-Some changes won't start immediately. You might have a contract to finish or a renewal coming up. Keep the current cost in the starting picture until it changes, and include the future reduction at the time you expect it. We will work through those dated changes in Life Events.
+Some changes won't start immediately. You might have a contract to finish or a renewal coming up. Keep the current cost in the starting picture until it changes, and include the future reduction at the time you expect it. We'll work through those dated changes in Life Events.
 
-Your normal spending after this review should still describe a life you are willing to live. It is different from the bare-bones number we'll use to size the reserve. You might temporarily pause a family trip or a hobby during an income interruption without deciding to remove it from every future year of your plan.
+Your normal spending after this review should still describe a life you're willing to live. It's different from the bare-bones number we'll use to size the reserve. You might temporarily pause a family trip or a hobby during an income interruption without deciding to remove it from every future year of your plan.
 
-Earning more is another option. Look at what the additional income would leave you after its costs. More work may come with childcare, travel, business expenses, or less time at home. A proposed raise also isn't income you have today. Compare the change, but don't commit the money before it is reasonably available.
+Earning more is another option. Look at what the additional income would leave you after its costs. More work may come with childcare, travel, business expenses, or less time at home. A proposed raise also isn't income you have today. Compare the change, but don't commit the money before it's reasonably available.
 
-One other item worth reviewing is money withheld from your paycheck for taxes. A larger paycheck after a withholding change is not necessarily a tax saving. You may simply be paying less toward the same bill during the year. Check the expected tax obligation before treating the difference as money you can invest. We don't want to improve this month's cash flow by leaving a later tax payment unfunded.
+One other item worth reviewing is money withheld from your paycheck for taxes. A larger paycheck after a withholding change isn't necessarily a tax saving. You may simply be paying less toward the same bill during the year. Check the expected tax obligation before treating the difference as money you can invest. We don't want to improve this month's cash flow by leaving a later tax payment unfunded.
 
 Compare changes that fit your life, then use the saving that actually shows up. The Reserve and Debt lessons will help you choose where that money goes. You don't have to promise every spare dollar to investments before we've checked those needs.
 

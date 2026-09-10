@@ -11,29 +11,29 @@ Return to: family protection and the insurance decision
 
 ### Read aloud
 
-Owning Bitcoin doesn't automatically tell you to create a trust. Start with the family or legal problem you want a trust to solve, then compare it with the simpler arrangements already available.
+Owning Bitcoin doesn't mean you need a trust. Start with the family or legal problem you want a trust to solve, then compare it with the simpler arrangements already available.
 
 You might need continuing management for a child, support for a vulnerable beneficiary, continuity during incapacity, privacy or coordination across assets. Those are different objectives, and they can call for different structures.
 
-Consider a family that simply needs current beneficiaries, executed baseline documents and a findable custody process. A trust doesn't substitute for those unfinished steps. It must add a useful job.
+Consider a family that simply needs current beneficiaries, executed baseline documents and a findable custody process. A trust doesn't substitute for those unfinished steps. Be clear about what the trust would add.
 
-Now consider a family that wants money managed for a child over many years rather than distributed outright. That continuing management is a specific objective to discuss with the attorney. The distribution terms, trustee and successor process then need to match it.
+Now consider a family that wants money managed for a child over many years instead of being distributed outright. That continuing management is a specific objective to discuss with the attorney. The distribution terms, trustee and successor process then need to match it.
 
-A revocable living trust can support administration and continuity when properly created and funded. Retaining control generally leaves the assets within the owner's relevant tax and creditor picture. It is not automatically an estate-tax reduction or a creditor shield.
+A revocable living trust can support administration and continuity when properly created and funded. Retaining control generally leaves the assets within the owner's relevant tax and creditor picture. It isn't automatically an estate-tax reduction or a creditor shield.
 
 An irrevocable arrangement can change control, access, taxation and beneficiary rights. Those effects can be difficult to undo. Read the consequences before treating loss of control as a minor detail in a tax strategy.
 
-Grantor and non-grantor describe income-tax treatment. They are not synonyms for revocable and irrevocable, or a ranking from basic to advanced. The powers, terms, funding and applicable law determine how the arrangement operates.
+Grantor and non-grantor describe income-tax treatment. They aren't synonyms for revocable and irrevocable, or a ranking from basic to advanced. The powers, terms, funding and applicable law determine how the arrangement operates.
 
-Specialized charitable structures, including a charitable lead trust, belong to a household with a real charitable and beneficiary objective. A high expected Bitcoin return is not enough reason to select one. The obligations need testing under less favorable returns, with qualified legal and tax design.
+Specialized charitable structures, including a charitable lead trust, belong to a household with a real charitable and beneficiary objective. A high expected Bitcoin return isn't enough reason to select one. The obligations need testing under less favorable returns, with qualified legal and tax design.
 
-Bitcoin adds an operational question to the drafting. Who can make investment decisions? Who can sign? How are custody, recovery, provider dependence and successor trustees handled? A clause expressing enthusiasm for Bitcoin does not eliminate fiduciary duties or make keys recoverable.
+Bitcoin adds an operational question to the drafting. Who can make investment decisions? Who can sign? How are custody, recovery, provider dependence and successor trustees handled? A clause expressing enthusiasm for Bitcoin doesn't eliminate fiduciary duties or make keys recoverable.
 
 Then finish funding and coordination. Signing a document doesn't automatically retitle accounts, update beneficiaries or move assets under its control. Retirement accounts need particular care; naming a trust or moving assets can have important distribution and tax consequences.
 
 Use the ownership inventory and custody map with the attorney. Identify which accounts belong to the trust, which use a beneficiary process, and which stay outside. Confirm the custodian or provider can actually implement the intended arrangement.
 
-Decide whether the baseline documents meet the need or a trust adds a specific benefit. If you proceed with a trust, identify who completes the legal work, funds it, and coordinates beneficiaries and custody. Confirm those steps rather than stop at signing the document.
+Decide whether the baseline documents meet the need or a trust adds a specific benefit. If you proceed with a trust, identify who completes the legal work, funds it, and coordinates beneficiaries and custody. Confirm those steps instead of stopping at signing the document.
 
 Update the family packet with the resulting authority and starting instructions.
 

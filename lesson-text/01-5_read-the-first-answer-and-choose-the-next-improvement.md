@@ -15,23 +15,23 @@ The date you choose tells the plan when you want to retire. The calculated earli
 
 A projection follows one possible future using the assumptions in the plan. A simulation tests many possible futures built from the model's rules. In one, investments do well early. In another, they struggle. The question is whether each tested future can fund the planned spending through the end of the plan.
 
-Suppose 790 out of 1,000 test futures cover the planned spending through age 95. That is 79%: 790 divided by 1,000, then multiplied by 100. The other 210 do not cover the full period under those rules. When a result is called a confidence level, find out exactly what counted as success in that calculation.
+Let's say 790 out of 1,000 test futures cover the planned spending through age 95. That's 79%. The other 210 don't cover the full period under those rules. When a result is called a confidence level, find out exactly what counted as success in that calculation.
 
-Those are example results, not results for the Reeds. They aren't a prediction of exactly what will happen to your family. And the unsuccessful paths aren't necessarily small problems that a tiny spending cut would fix. We need to understand where the funding becomes difficult.
+Those are example numbers. They aren't the Reeds' results. They aren't a prediction of exactly what will happen to your family. And the unsuccessful paths aren't necessarily small problems that a tiny spending cut would fix. We need to understand where the funding becomes difficult.
 
 Also read the result's status. An account balance can be current while the calculation still reflects earlier inputs. Don't judge an improvement until the result includes the change you're looking at.
 
-Then open one meaningful year rather than stare only at the headline. The first year after work stops is a good place to begin. What income arrives? What needs paying? What do investments provide, and which account supplies it?
+Then open one meaningful year instead of looking only at the headline. The first year after work stops is a good place to begin. What income arrives? What needs paying? What do investments provide, and which account supplies it?
 
-Suppose the withdrawal is much larger than expected. You might find a vehicle purchase, an ongoing debt payment, or a tax cost. Now you know what to investigate. Trying to improve the percentage before finding the cause would send you in the wrong direction.
+Let's say the withdrawal is much larger than expected. You might find a vehicle purchase, an ongoing debt payment, or a tax cost. Now you know what to investigate. Trying to improve the percentage before finding the cause would send you in the wrong direction.
 
 Once the important facts are right, choose a realistic comparison. Could you save more? Would a different work transition fit? Is there spending you would actually change? Does the problem come from having money in an account that can't support the early years?
 
 Change one decision at a time so you can explain the difference. More saving uses money today. Working longer changes the life you're planning. A lower spending figure is useful only when the household is willing to live with it. A result isn't better simply because the number is higher.
 
-If the first answer is strong, don't invent problems to keep optimizing. Explain what supports it and identify the limitation that still matters. If it is weak, find the biggest fixable issue instead of jumping straight to higher Bitcoin returns.
+If the first answer is strong, don't invent problems just to keep improving the number. Explain what supports it and identify the limitation that still matters. If it's weak, find the biggest fixable issue instead of jumping straight to higher Bitcoin returns.
 
-When a number surprises you, Ask can help you trace it. Start with a specific question, not 'Optimize my finances.'
+When a number surprises you, Ask can help you trace it. Start with a specific question instead of 'fix my finances.'
 
 Let's use Alex and Morgan's original cash flow. The example leaves $500 after the listed costs and Alex's existing retirement contribution. You might look at that and wonder whether they should stop the contribution to build cash faster.
 
@@ -39,13 +39,13 @@ Before making that decision, ask: “Walk me from income to the $500 remaining. 
 
 Use that pattern for other questions too. “Why is this retirement year more expensive?” “Which account funded the withdrawal?” “What information is missing before I compare a sale?” Ask for the source of the number and the reason for the difference.
 
-An explanation that sounds confident but uses a different date, balance, or assumption hasn't finished the job. Follow it back to the input or result. If it cannot show the connection, keep the question open rather than changing the plan to match the answer.
+If the explanation sounds confident but uses a different date, balance, or assumption, it hasn't finished the job. Follow it back to the input or result. If it can't show you the connection, keep the question open instead of changing the plan to match the answer.
 
 Read the calculation alongside the explanation. Has the comparison changed the inputs you intended? You still decide whether to save that change.
 
-Be deliberate about sharing files. A summary for an outside AI review is different from a backup intended to restore the plan. Read the file before sending it elsewhere. Removing a name does not make every financial detail non-sensitive. Recovery words, private keys, passphrases, PINs, and account credentials never belong in a planning question.
+Be deliberate about sharing files. A summary for an outside AI review is different from a backup intended to restore the plan. Read the file before sending it elsewhere. Taking your name off a file doesn't make everything else in it safe to send. Recovery words, private keys, passphrases, PINs, and account credentials never belong in a planning question.
 
-You don't need Ask to continue. Read the underlying inputs and year detail yourself, and use the community for a focused question without posting private records. The useful next step is one fact to verify or one choice to compare. Keeping a plan that fits is a decision too.
+You don't need Ask to continue. Read the underlying inputs and year detail yourself, and use the community for a focused question without posting private records. The next step is one fact to verify or one choice to compare. You can keep your current plan when it fits.
 
 Next we'll check the spending and money available each month. That gives us the amount we can use for the Reserve, debt payments, and new investments.
 

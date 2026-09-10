@@ -19,7 +19,7 @@ Start with the official instructions for the exact device, software and backup f
 
 Use a separate small-value practice setup to learn the process. Receive an authorized test amount, follow the reviewed recovery procedure and verify the intended wallet. Keep recovery words, private keys, passphrases and other secrets out of screenshots, recordings, notes and chat.
 
-The scope of the result matters. Recovering that practice wallet proves the practice setup. It doesn't verify a different funded wallet.
+Be clear about what you tested. Recovering that practice wallet proves the practice setup. It doesn't verify a different funded wallet.
 
 Your actual setup needs its own appropriate safe check. That may use the official backup-check feature or a compatible spare device while the working device remains intact. A passphrase or multisig arrangement needs all the relevant requirements checked, not only a valid word list.
 
@@ -29,7 +29,7 @@ Don't wipe the only working access to savings as a casual first test. Understand
 
 Store recovery materials for the failures you're trying to survive. Durability can help with damage. Separate protected storage can reduce a shared physical loss. Those choices also need a legitimate family-access process. A photographed backup may expose secrets through devices or accounts you never intended to trust.
 
-Record the safe evidence: which setup was checked, the method, date, actual outcome and what remains unverified. The planning record does not need the recovery material itself.
+Record the safe evidence: which setup was checked, the method, date, actual outcome and what remains unverified. The planning record doesn't need the recovery material itself.
 
 Next, secure the accounts that support financial access. Email often resets other accounts, so a weak email recovery route can undermine a strong financial password.
 
@@ -43,15 +43,15 @@ Review active sessions, notification addresses and available withdrawal protecti
 
 Now consider an urgent message saying the wallet is compromised. It gives a link, a phone number and instructions to act immediately.
 
-Don't use the contact supplied by the warning to verify that warning. Open the known official application or independently verified site. Someone asking for recovery words, a private key or a transfer to a supposed safe wallet is not helping you preserve the existing wallet.
+Don't use the contact supplied by the warning to verify that warning. Open the known official application or independently verified site. Someone asking for recovery words, a private key or a transfer to a supposed safe wallet isn't helping you preserve the existing wallet.
 
-The same pause applies to guaranteed returns, private investment platforms introduced through a new friendship, or demands for more money to unlock withdrawals. A retirement plan doesn't need a rushed unfamiliar transaction to remain workable.
+The same pause applies to guaranteed returns, private investment platforms introduced through a new friendship, or demands for more money to unlock withdrawals. There's no need to rush into an unfamiliar transaction to keep your plan on track.
 
 Check physical privacy too: who knows what you own, which recovery items share a location, and whether the instructions reveal more than their reader needs. Keep secret access separate from the non-secret family map.
 
 Use the device demonstration only for the setup and procedure it actually covers. Advanced output selection or consolidation has its own fee and privacy questions; the reference is there when you need that transaction, not as a task every member must perform.
 
-Update Orange Plan with the actual recovery and security status. Watching a demonstration or buying hardware isn't evidence that the check happened. Keep the next practical step visible until it is done safely.
+Update Orange Plan with the actual recovery and security status. Watching a demonstration or buying hardware isn't evidence that the check happened. Keep that next step open until it's done safely.
 
 Then carry this non-secret picture into the family handoff. They need a clear place to begin, with the legal authority and support that make the process usable.
 
