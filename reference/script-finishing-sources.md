@@ -1,6 +1,6 @@
 # Targeted script verification — September 10, 2026
 
-This is a scoped editorial fact-check, not a financial recommendation or licensed sign-off. Earlier reviews keep their original dates. Austin's newest conversation decisions authorize the borrowing and insurance reasoning; the examples below are editorial arithmetic, not transactions, client facts or measured app results. Original source material stays unchanged.
+This is a scoped editorial fact-check, not a financial recommendation or licensed sign-off. Earlier reviews keep their original dates. Austin's newest conversation decisions authorize the borrowing and insurance reasoning; the examples below are editorial arithmetic, not transactions, client facts or measured app results. Original source material stays unchanged. [First-party owner decisions](owner-decisions-20260910.md) supply the current borrowing/insurance authority and reviewer clarification; the bounded follow-up there distinguishes repository changes from upstream Claude project files that have not been edited.
 
 ## Borrowing: two ratios and the actual contract
 
@@ -13,7 +13,7 @@ Provider pages checked September 10, 2026 demonstrate why the script requires ac
 - [Ledn renewal](https://help.ledn.io/hc/en-us/articles/28299459023767-How-Do-Loan-Renewals-and-Refinancing-Work): eligible renewal above 65% may involve collateral sales to reach 64%; eligibility and maturity matter independently of liquidation.
 - [Strike margin calls](https://strike.me/en/faq/how-do-ltv-margin-calls-and-liquidations-work/): 70% call, cure to 65% or below within 72 hours, 85% immediate liquidation; an unmet call can cause a sale earlier. These dated terms are not evergreen offers in narration.
 
-The $50,000 / 3.5 BTC example uses $100,000 initial BTC, $20,000 stressed BTC and 80% liquidation. Its boundary is 3.125 BTC total, not a sufficient reserve; 3.5 BTC gives 71.4286% only after posting. Debt growth to $56,000 uses that room. A stricter 65% cure would require about 3.846154 BTC total, so 3.5 would not suffice for that requirement. Cash flow, fees, repayment, transfer delays, provider risk and double-committed reserves are separate checks.
+The $50,000 / 3.5 BTC example uses $100,000 initial BTC, $20,000 stressed BTC and 80% liquidation. Its boundary is 3.125 BTC total, not a sufficient reserve; 3.5 BTC gives 71.4286% only after posting. The $50,000 opening amount explicitly assumes interest and fees are paid from already-funded cash flow. The $6,000 headroom is 12% of that balance: one year of the hypothetical 12% capitalized interest produces $56,000, exactly the liquidation boundary, with no remaining cushion. Accrued costs require sizing a smaller principal or more supporting BTC before opening. All 3.5 BTC posted initially would give 14.2857% starting LTV, versus 50% when only 1 BTC is initially posted. A stricter 65% cure would require about 3.846154 BTC total, so 3.5 would not suffice for that requirement. Cash flow, fees, repayment, transfer delays, provider risk and double-committed reserves are separate checks.
 
 ## Annual spending: evidence does not validate a product parameter
 

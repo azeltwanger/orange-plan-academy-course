@@ -165,7 +165,7 @@ Start with investment growth. For a simple example, $10,000 growing at 10% for t
 
 These illustrations show how much the expected return can change the answer. They aren't forecasts, so take a moment to check that assumption.
 
-I'd rather be conservative and end up with more than plan aggressively and fall short. Start with assumptions you understand and have a reason to use. And keep an extreme disaster case separate from what you expect. We need a starting plan, then comparisons that show what happens when the assumptions are wrong.
+Don't choose the most optimistic return just to reach the retirement date you want. I'd rather be conservative and end up with more than plan aggressively and fall short. Start with assumptions you understand and have a reason to use. And keep an extreme disaster case separate from what you expect. We need a starting plan, then comparisons that show what happens when the assumptions are wrong.
 
 For a long Bitcoin plan, my preference is to let assumed growth decline over time instead of using one large annual percentage through every decade. Power Law is one model I've used to think about that. It's still a model. Read the path it produces instead of treating the name as proof that the future will follow it.
 
@@ -811,7 +811,7 @@ For a Bitcoin-backed loan, I'd size the debt against a severe decline first, inc
 
 For this example, say the lender can sell the collateral at 80% LTV. Picture $50,000 owed against $100,000 of collateral. If that collateral falls to $62,500, the loan is now 80% of its value: $50,000 divided by $62,500. The collateral fell $37,500 from the starting $100,000. That's a 37.5% decline. The loan balance didn't change.
 
-Starting at 25% LTV gives more room: a 68.75% decline reaches the same assumed 80% line when the debt stays fixed. These are made-up contract terms to explain the math, not a lender's current offer.
+For comparison, posting more collateral to start the same loan at 25% LTV gives more room: a 68.75% decline reaches the same assumed 80% line when the debt stays fixed. Here, 25% shows the effect of more upfront collateral, not a recommended starting point. These are made-up contract terms to explain the math, not a lender's current offer.
 
 Notice what the numbers describe. They're price declines to the assumed liquidation threshold. They aren't percentage-point gaps between two LTV readings, and they don't tell us when a lender will first contact you. A warning or collateral call can have a different trigger.
 
@@ -1976,7 +1976,7 @@ Connect ownership, legal authority, beneficiaries and non-secret custody instruc
 Status: RECORDING_DRAFT_REVIEW — consolidated spoken script; owner voice review and actual capture remain separate.
 Kind: teach
 Gate: INSURANCE_REVIEW
-Sources: ESTATE, ESTATE_DECK, PRIMARY, RETIREMENT
+Sources: ESTATE, ESTATE_DECK, OWNER, PRIMARY, RETIREMENT
 
 ### Read aloud
 
@@ -2022,7 +2022,7 @@ You're deciding which losses the household can comfortably carry and which ones 
 
 ### Source and production notes — not spoken
 
-September 10 follow-up. The current narration supersedes the prior demonstration notes for this lesson; old text remains recoverable in Git history. [Owner decisions and change record](delivery/script-finishing-20260910.md) separate Austin's approved reasoning from editorial examples and outside research. [Dated verification](reference/script-finishing-sources.md) records the source boundaries.
+September 10 follow-up. Austin supplied the insurance preference directly in the course conversation; see [verbatim first-party excerpts and the boundary of that approval](reference/owner-decisions-20260910.md#insurance). This is approval of his teaching position, not a policy-cancellation instruction or a licensed opinion. The current narration supersedes the prior demonstration notes for this lesson; old text remains recoverable in Git history. [Owner decisions and change record](delivery/script-finishing-20260910.md) separate Austin's approved reasoning from editorial examples and outside research. [Dated verification](reference/script-finishing-sources.md) records the source boundaries.
 
 Record the script first; text and graphics come afterward. The application is the member's own Orange Plan, with no separate homework or submitted explanation. Capture the app or provider procedure only after verifying the relevant workflow, inputs and outputs. Nothing in this pass changes the app, moves funds or supplies a licensed approval.
 

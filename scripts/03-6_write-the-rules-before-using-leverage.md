@@ -37,7 +37,7 @@ For a Bitcoin-backed loan, I'd size the debt against a severe decline first, inc
 
 For this example, say the lender can sell the collateral at 80% LTV. Picture $50,000 owed against $100,000 of collateral. If that collateral falls to $62,500, the loan is now 80% of its value: $50,000 divided by $62,500. The collateral fell $37,500 from the starting $100,000. That's a 37.5% decline. The loan balance didn't change.
 
-Starting at 25% LTV gives more room: a 68.75% decline reaches the same assumed 80% line when the debt stays fixed. These are made-up contract terms to explain the math, not a lender's current offer.
+For comparison, posting more collateral to start the same loan at 25% LTV gives more room: a 68.75% decline reaches the same assumed 80% line when the debt stays fixed. Here, 25% shows the effect of more upfront collateral, not a recommended starting point. These are made-up contract terms to explain the math, not a lender's current offer.
 
 Notice what the numbers describe. They're price declines to the assumed liquidation threshold. They aren't percentage-point gaps between two LTV readings, and they don't tell us when a lender will first contact you. A warning or collateral call can have a different trigger.
 

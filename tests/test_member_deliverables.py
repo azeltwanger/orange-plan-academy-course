@@ -230,5 +230,55 @@ class September10ScriptFinish(unittest.TestCase):
         self.assertNotEqual(blob_id(accepted_reserve_bytes(mutated)),expected)
 
 
+class BoundedReviewFollowup(unittest.TestCase):
+    def test_loan_sizing_conditions_appear_before_initial_posting(self):
+        text = read('teleprompter/advanced/A3-1.txt')
+        start = text.index("I wouldn't borrow right up to that number")
+        end = text.index("Once I've sized the loan at $50,000")
+        sizing = text[start:end]
+        self.assertIn("interest and fees are paid from cash flow we've already allowed for", sizing)
+        self.assertIn("If they'll be added to the balance", sizing)
+        self.assertIn("reduce the starting loan or set aside more Bitcoin before borrowing", sizing)
+        self.assertIn("All $6,000 of room is gone", text)
+        self.assertEqual(D(56000) - 50000, D(50000) * D('.12'))
+        self.assertEqual(D(50000) * D('1.12') / 70000, D('.8'))
+
+    def test_loan_custody_comparison_names_both_denominators(self):
+        text = read('teleprompter/advanced/A3-1.txt')
+        self.assertIn("Posting all 3.5 BTC upfront would start the same loan at about 14.3% LTV", text)
+        self.assertIn("That's why I might start at 50% instead", text)
+        self.assertEqual((D(50000) / (D('3.5') * 100000) * 100).quantize(D('.1')), D('14.3'))
+
+    def test_main_borrowing_comparison_is_not_a_competing_default(self):
+        text = read('teleprompter/core/3-6.txt')
+        self.assertIn("posting more collateral to start the same loan at 25% LTV", text)
+        self.assertIn("25% shows the effect of more upfront collateral, not a recommended starting point", text)
+        self.assertIn("Then I might start the chosen loan at 50% LTV", text)
+
+    def test_assumptions_keep_failure_mode_and_conservative_reason(self):
+        text = read('teleprompter/core/1-4.txt')
+        self.assertIn("Don't choose the most optimistic return just to reach the retirement date you want.", text)
+        self.assertIn("I'd rather be conservative and end up with more than plan aggressively and fall short.", text)
+
+    def test_owner_sources_do_not_claim_upstream_edits_or_licensed_review(self):
+        text = read('reference/owner-decisions-20260910.md')
+        self.assertIn("I think it depends on risk tolerance", text)
+        self.assertIn("If their family can thrive with assets", text)
+        self.assertIn("where does alfred come from? we are using claude to cross check.", text)
+        self.assertIn("It is superseded as the current course's posted-LTV default", text)
+        self.assertIn("does **not** claim those external originals or project settings were edited", text)
+        self.assertIn("Model review is not licensed", text)
+        for path in ['AUSTIN-AUTHORITY.md', 'reference/script-finishing-sources.md',
+                     'scripts/08-4_identify-the-risks-you-will-transfer-or-carry.md']:
+            self.assertIn('owner-decisions-20260910.md', read(path))
+
+    def test_bounded_pass_preserves_insurance_narration_and_reserve(self):
+        for path, expected in [
+            ('teleprompter/core/8-4.txt', '393118d5c8d582b77927138a5014e7ba2c41aa7e438574f287c5b314a8f96f1b'),
+            ('scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md', 'bcf42a95d1ee40e7e5164cf1e259a59ccc1d939d897af16cbcafa63a3728b8f7'),
+        ]:
+            self.assertEqual(hashlib.sha256((ROOT / path).read_bytes()).hexdigest(), expected)
+
+
 if __name__ == '__main__':
     unittest.main(verbosity=2)
