@@ -9,7 +9,7 @@ Sources: CLIENT_THEMES, CUSTODY, DICTATION, PRIMARY
 
 A working hardware wallet doesn't prove that its backup will restore the right wallet. You can discover a missing word or passphrase while the device still works, or discover it after the only working device has failed.
 
-We want the first situation. Check recovery without casually putting the funded wallet at risk, then secure the accounts around it.
+Check the backup while you still have working access, without putting the funded wallet at risk. Then secure the accounts around it.
 
 A wallet backup recreates the corresponding keys through a compatible process. The Bitcoin isn't stored inside the hardware device. A lost device can be survivable when the correct recovery material and procedure are available.
 
@@ -31,11 +31,15 @@ Store recovery materials for the failures you're trying to survive. Durability c
 
 Record the safe evidence: which setup was checked, the method, date, actual outcome and what remains unverified. The planning record doesn't need the recovery material itself.
 
-Next, secure the accounts that support financial access. Email often resets other accounts, so a weak email recovery route can undermine a strong financial password.
+Secure your email first. It's often the recovery route for other accounts, so someone who gets into it may be able to reset their passwords. Use unique passwords; a password manager can help.
 
-Use unique strong passwords and the strongest supported multifactor method you can maintain. A password manager can help avoid reuse. Where supported, phishing-resistant security keys or passkeys can add protection against lookalike sign-in pages.
+For sign-in protection, start with phishing-resistant security keys or passkeys where the service supports them. They help stop a lookalike site from collecting a credential it can use on the real site.
 
-A hardware security key authenticates a login. A hardware wallet holds Bitcoin signing keys. They perform different jobs.
+When those aren't available, use an authenticator app. A one-time code is stronger than relying on a text message, but a fake site can still trick you into giving it the code. Treat SMS as a last resort when stronger methods aren't supported, instead of leaving the account with only a password. A phone-number takeover can expose texted codes.
+
+Check how the authenticator or passkey is backed up and recovered. Cloud recovery adds another account to protect; turning it off without another recovery method can leave you locked out.
+
+A hardware security key authenticates a login. A hardware wallet holds your Bitcoin signing keys.
 
 Keep and test the legitimate backup access method before removing the only working one. A lost phone or security key shouldn't force the household to invent a recovery process during an emergency.
 
@@ -62,6 +66,8 @@ Record the narration first. Text, graphics and supporting footage are added duri
 Consolidated from [7.2](https://github.com/azeltwanger/orange-plan-academy-course/blob/c4c55601dfdaa893343623a75f478cbbfef120ad/scripts/07-2_prove-recovery-before-meaningful-money-depends-on-it.md), [7.3](https://github.com/azeltwanger/orange-plan-academy-course/blob/c4c55601dfdaa893343623a75f478cbbfef120ad/scripts/07-3_harden-accounts-and-remove-the-largest-shared-failure.md), using the later owner-delivered script-only pass for wording where relevant. The author supplied new transitions and shortened examples; this is not prior Austin dictation. The complete mapping, source hashes and retained qualifications are in [../delivery/consolidation.md](../delivery/consolidation.md) and [../production/consolidation.json](../production/consolidation.json).
 
 The existing [technical review](../delivery/professional-topic-review.md) and primary-source record retain their dated scope. This consolidation is source-based editing, not a fresh financial/legal research pass or licensed approval. All example terms are hypothetical unless explicitly identified as a source fact. No current rate, product quote, model outcome or successful device/learner test is invented. Specific financial and operational safeguards remain beside the decision they affect.
+
+September 10 follow-up: see [the targeted change record](../delivery/script-finishing-20260910.md) and [source verification](../reference/script-finishing-sources.md). This supplements, rather than re-dates, the earlier technical review.
 
 ### Member checkpoint
 

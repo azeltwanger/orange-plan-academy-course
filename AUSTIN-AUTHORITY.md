@@ -17,3 +17,13 @@ Problem, proof/example and solution should make the decision understandable. Bri
 ## Voice-only follow-up
 
 Austin accepted the consolidated content and structure and authorized voice edits only. Keep the 25 main and eight situation-specific recordings, their examples, financial assumptions, decision methods, and app handoffs. Apply natural spoken phrasing and rhythm without introducing new personal stories or preferences. Claude's substantive suggestions are not adopted by this authorization. The accepted Reserve remains unchanged; actual app and device capture remain separate.
+
+## Latest owner decisions — September 10, 2026 (supersedes conflicting older notes)
+
+Borrowing: size the debt for a severe drawdown using all Bitcoin genuinely set aside for that loan and the projected full debt balance. Austin may open that pre-sized loan at 50% LTV to minimize initial lender-held collateral. This is higher operational risk, not permission to maximize debt. Additional BTC remains available in cold storage, subject to timely transfers and provider crediting. The stress target is below the actual liquidation threshold with chosen room, including any stricter margin-call cure, maturity or renewal requirement. Do not impose an additional 50% stressed-LTV target; Austin expressly rejected it. A boundary calculation does not guarantee avoiding liquidation.
+
+Insurance: transfer losses that could materially change the family's quality of life. Consider self-funding when assets and continuing income comfortably cover the event, including disability-related costs and a weak Bitcoin market. Income-replacement life/disability needs may shrink as independence grows; liability and umbrella deserve a separate review of assets and exposures. No universal net-worth threshold or promised Bitcoin return.
+
+The accepted Reserve allows the explicit language-only edits recorded in the checker; all other text and its arithmetic/liquidity judgment remain recoverable exactly. Keep the 25 + 8 structure, narration-first workflow and own-plan application. No homework or slide prerequisite.
+
+Claude is the cross-checker; no Alfred approval step exists. Model cross-checking is not a licensed legal/tax/insurance opinion. Do not insert the categorical will-drafting instruction or unreconciled old return, debt-ratio and LTV defaults. See the dated change record and source notes for the risk-based spending example and security correction. New prose is an editorial adaptation of these decisions, not a transcript of a prior recording.

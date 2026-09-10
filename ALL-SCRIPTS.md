@@ -18,7 +18,7 @@ Start with what you want the money to make possible. You might want to retire, r
 
 Our example household is Alex and Morgan Reed. They're fictional, and we'll use their situation throughout the course. Alex wants work to become optional at 52. They have children, several accounts, and a meaningful Bitcoin position. They also have bills and commitments that need money before retirement.
 
-First, we'll get a believable starting picture. Then we'll work out what money is available, how much cash to keep for problems, and what to do with debt. Allocation means choosing your investment mix. That section helps you choose what to own and where new savings go. After that, we'll work out how the money can pay for retirement, how to protect access to your Bitcoin, and how to keep the plan useful as life changes.
+We'll start with the money you have and the bills it needs to cover. From there, we'll choose how to invest and fund retirement, then protect the plan and keep it current.
 
 Watch the lesson, follow the walkthrough, and apply it to your own plan in Orange Plan. Some lessons are marked For your situation. Read the question beside them: when your plan uses that strategy, complete the lesson before relying on it. Otherwise, keep going on the main path. Go at a pace that fits your life.
 
@@ -104,7 +104,7 @@ Start with investment growth. For a simple example, $10,000 growing at 10% for t
 
 These illustrations show how much the expected return can change the answer. They aren't forecasts, so take a moment to check that assumption.
 
-Start with assumptions you understand and have a reason to use. Don't choose the most optimistic return just to reach the retirement date you want. And keep an extreme disaster case separate from what you expect. We need a starting plan, then comparisons that show what happens when the assumptions are wrong.
+I'd rather be conservative and end up with more than plan aggressively and fall short. Start with assumptions you understand and have a reason to use. And keep an extreme disaster case separate from what you expect. We need a starting plan, then comparisons that show what happens when the assumptions are wrong.
 
 For a long Bitcoin plan, my preference is to let assumed growth decline over time instead of using one large annual percentage through every decade. Power Law is one model I've used to think about that. It's still a model. Read the path it produces instead of treating the name as proof that the future will follow it.
 
@@ -264,7 +264,7 @@ Check what the number includes. If you've already included your minimum debt pay
 
 Next, decide how many months you want that money to cover.
 
-Three, six, and twelve months or more are starting points for comparison. They aren't automatic answers. A household with two very stable incomes and no dependents has a different decision from someone supporting a family on variable business income.
+Three, six, or twelve months or more are starting points. None of them is the automatic answer. A household with two very stable incomes and no dependents has a different decision from someone supporting a family on variable business income.
 
 Think about how long replacing lost income could take. Would another income continue? Are both jobs exposed to the same slowdown? How many people depend on the money, and how much of the monthly spending is difficult to change?
 
@@ -284,15 +284,15 @@ We haven't added another asset. This is existing money, with a job attached to i
 
 Don't automatically count every dollar in checking. Some of that money may be needed for this month's bills. Money already set aside for a tax payment or a planned purchase has another job too. The same dollars can't fully cover both commitments.
 
-Check access as well as the balance. An investment you cannot readily use, Bitcoin pledged to a lender, or a credit line that might be reduced is different from cash you can use when needed. Calling a volatile investment your reserve doesn't change how its price behaves.
+Check access as well as the balance. An investment you can't readily use, Bitcoin pledged to a lender, or a credit line that might be reduced is different from cash you can use when needed. Calling a volatile investment your reserve doesn't change how its price behaves.
 
-You might decide that only part of an account belongs to the reserve. What matters is how much is genuinely available after its other commitments.
+You might decide that only part of an account belongs to the reserve. What matters is how much is actually available after its other commitments.
 
 Next, connect the gap to the monthly cash flow we worked through earlier.
 
 At $500 a month, Alex and Morgan's $11,200 gap represents a little over twenty-two months of contributions, before interest or withdrawals. That's almost two years. Seeing the timeline gives them another decision: are they comfortable carrying the current gap for that long?
 
-They are also working on expensive debt. We need to compare how quickly to build the reserve with the money being used for that debt. We cannot assign the same monthly surplus to both.
+They're also working on expensive debt. We need to compare how quickly to build the reserve with the money being used for that debt. We can't assign the same monthly surplus to both.
 
 I'd put more weight on accessible cash when there are dependents or the household relies on one income. If that income stops, they still need to pay the bills and provide for the family. I wouldn't build the plan around being able to borrow more at that point.
 
@@ -386,7 +386,7 @@ That distinction matters. If they compare the older child's $80,000 commitment w
 
 For the older child, $80,000 minus the $29,000 assigned leaves $51,000 to fund.
 
-Let's say they want the full amount ready when college starts in five years. There are sixty months to work with. With no investment growth and no increase in costs, that $51,000 gap works out to eight hundred fifty dollars a month.
+Let's say they want the full amount ready when college starts in five years. There are sixty months to work with. With no investment growth and no increase in costs, that $51,000 gap works out to $850 a month.
 
 That's a useful first number. It tells them the size of the commitment they're considering. That number doesn't tell them what tuition will cost, what Bitcoin will return, or which account to use.
 
@@ -588,7 +588,7 @@ Read the comparison from the first payment through the final settlement. What do
 
 You can have the same debt today that you had six months ago and still be in a very different position. If the assets behind that debt have fallen in value, you have less room to deal with the obligation, even though you haven't borrowed more.
 
-Your assets are the things you own that have value. Your debts are what you owe. A balance sheet lists both. Divide the debt by the value of the assets, then multiply by 100 to get the percentage. That's the debt-to-assets ratio.
+Your assets are the things you own that have value. Your debts are what you owe. A balance sheet lists both. Divide the debt by the assets. That's your debt-to-assets ratio.
 
 Use the assets before subtracting debt. Net worth is what remains after that subtraction, so it answers a different question.
 
@@ -611,6 +611,8 @@ The stress example we've just used is deliberately limited. It holds the educati
 A fast price decline is also not the only difficult case. You might handle a brief drop but struggle if returns stay weak for several years while interest and payments continue. Or business income could weaken at the same time as investments. That's why we need more than today's asset total.
 
 A lender's collateral test is separate from that household total. Loan-to-value, or LTV, compares one loan with the assets pledged for it.
+
+For a Bitcoin-backed loan, I'd size the debt against a severe decline first, including the extra Bitcoin available for top-ups. Then I might start the chosen loan at 50% LTV to put less Bitcoin with the lender. That leaves less time to respond to a drop. The Bitcoin-loan lesson works through the reserve calculation before you borrow.
 
 For this example, say the lender can sell the collateral at 80% LTV. Picture $50,000 owed against $100,000 of collateral. If that collateral falls to $62,500, the loan is now 80% of its value: $50,000 divided by $62,500. The collateral fell $37,500 from the starting $100,000. That's a 37.5% decline. The loan balance didn't change.
 
@@ -666,55 +668,53 @@ Allocation starts with the money left after these decisions. We'll choose what i
 
 ## For your situation — Manage a Bitcoin-backed loan, including repeat borrowing
 
-A low starting loan-to-value ratio can stop describing the loan you actually have. Interest accumulates, collateral changes, and the lender's agreement still governs what happens.
+I can see a place for borrowing against Bitcoin when the household can afford the debt and accepts the lender risk. But I'd work out what a severe decline would require before deciding how much to borrow.
 
-Use the actual agreement for the loan you're considering or managing. Start with the full balance, collateral, dates and the response each contract event requires.
+Then I'd decide how much collateral to post. Starting at 50% LTV can keep more Bitcoin under my control, but it also means I may need to act sooner. Those are two separate decisions: the size of the debt and where the supporting Bitcoin sits.
 
-Read the full balance, not just the original principal. Record interest treatment, fees, maturity, collateral quantity, price source and the actual warning, collateral-call and liquidation provisions. Those are separate contract events. A notice isn't a promised grace period unless the agreement actually provides it.
+Let's use a separate example with Bitcoin at $100,000. You have 3.5 BTC available to support one loan. That includes whatever you initially pledge and the Bitcoin you keep for top-ups. Assume liquidation happens at 80% LTV and the debt stays at $50,000 for now.
 
-Use the source's simple illustration. A $25,000 loan against $100,000 of collateral starts at 25% LTV. If 12% interest is added for one year using a simplified annual calculation, the debt becomes $28,000.
+An 80% price decline takes Bitcoin to $20,000. At that price, the 3.5 BTC would be worth $70,000. A $50,000 loan against $70,000 is about 71.4% LTV. If the collateral has been posted in time, that's below the assumed liquidation line.
 
-Now let's say the collateral is worth $50,000. LTV is $28,000 divided by $50,000, or 56%. The original 25% is no longer the relevant number.
+How much Bitcoin would put the loan exactly on that line? Divide $50,000 by 80%. You need $62,500 of collateral. At $20,000 per Bitcoin, that's 3.125 BTC. Exactly 3.125 isn't enough to stay below liquidation. It only reaches the boundary. Our 3.5 BTC gives some room beyond it.
 
-With a purely hypothetical 80% liquidation line, $28,000 of debt reaches that line at $35,000 of collateral. That's a 65% decline from the original $100,000 value, before further interest or fees. Actual accrual and contract terms can change the result.
+You can also work backward from the Bitcoin you have. An 80% decline leaves 20% of its starting value. Multiply that remaining value by the 80% liquidation threshold. That makes the boundary 16% of the Bitcoin's value today. With $350,000 of supporting Bitcoin, the boundary is $56,000 of debt.
 
-Next, choose a personal review point before the event you're trying to avoid. Don't call the review point safe; explain what action it initiates.
+I wouldn't borrow right up to that number. I'd choose a smaller balance based on the room I want, interest that could be added, and the agreement's other requirements. The 16% is specific to this example. It's a boundary calculation, not a recommended borrowing rate.
 
-For an arithmetic example, say you were considering returning this $28,000 loan and $50,000 collateral position to 50% LTV. Repaying $3,000 would leave $25,000 against $50,000. Adding $6,000 of eligible collateral would leave $28,000 against $56,000. Both reach 50% in that simplified instant.
+Once I've sized the loan at $50,000, I can open it at 50% LTV by posting $100,000 of collateral. That's 1 BTC at our starting price. The other 2.5 BTC stays in cold storage, set aside for this loan.
 
-They aren't the same household decision. Repayment uses cash and reduces debt. Adding collateral leaves the debt and puts more assets into the lending arrangement. The response needs money or eligible collateral actually available, and the ratio could move again before the action completes.
+That's why I might choose a higher starting LTV. If Bitcoin rises, I may never need to send those additional coins. Posting all 3.5 upfront would give the same loan more room to handle a drop, but it would also put more Bitcoin into the lending arrangement immediately.
 
-Write the limit on further collateral separately. Protecting one loan shouldn't automatically expose the entire Bitcoin position. If that limit is reached, identify the alternative response before the crisis.
+The cold-storage coins still have a job. I can't count them as protection for two loans or promise that they'll stay untouched no matter what. If I'm unwilling or unable to pledge them, they don't belong in this calculation.
 
-Then test the principal exit. If repayment depends on refinancing, what happens when a new loan is unavailable? If it depends on a sale, include the timing, price and tax uncertainty. A long flat market can be difficult even without an immediate liquidation event.
+Now check what could force a sale. The headline liquidation percentage isn't the whole agreement. A margin call may require a lower LTV by a deadline. Maturity or renewal can have another limit. Size the reserve for those requirements too. Remaining below 80% doesn't help if another contract provision allows a sale sooner.
 
-Add the operational failure case too. A provider interruption can affect access even when LTV is low. Confirm the actual rights, custody structure and available response; the simulation doesn't supply a counterparty guarantee.
+Having enough Bitcoin elsewhere also doesn't mean it will arrive in time. In the earlier lesson, 50% starting LTV reached an 80% liquidation line after a 37.5% decline without a top-up. You need to respond during the decline, well before that point. You can't wait for an 80% drop and then start moving coins.
 
-Borrowing once for a temporary need is different from borrowing every year to fund retirement. A recurring strategy has to carry the earlier loans while adding the next year's spending.
+Decide what triggers a top-up and how much you'll add. Allow time for access, transfer and the lender's confirmation requirements. Have a response when you're asleep, traveling or unable to act. Closely watching the price doesn't remove a transfer delay.
 
-Continue the same hypothetical $25,000 loan and simplified 12% annual interest. At the end of year one, $28,000 is owed. Let's say you borrow another $25,000 at the beginning of year two. That makes $53,000 before interest. Adding 12% at year-end leaves $59,360 owed. You received $50,000 across the two years and added $9,360 of interest. Actual accrual, fees and rates can differ; this isn't a lender quote or a loan the Reeds have taken.
+An automatic top-up feature may require coins in an account with the provider. It can't simply take Bitcoin from your cold wallet. Check how it works and include that extra provider exposure when choosing where the reserve sits.
 
-Hold the spending need, starting assets and market assumptions constant. Compare the current sale-based policy with the proposed borrowing policy. For each year, read cash delivered, fees, interest paid or added, ending debt, collateral and the source of eventual repayment.
+Use the balance you'll actually need to support. If our $50,000 debt grows to $56,000, that same $70,000 of stressed collateral is at 80% LTV. Interest has used all the room in the example. Pay it from funded cash flow or leave room for it in the debt calculation.
 
-Bitcoin might appreciate enough to support that strategy under the chosen assumptions. It might not. Compare a long flat period, an early decline and a higher interest path, not just a strong ending price.
+Adding collateral keeps the debt in place. Repaying some of the loan reduces it. Set a limit on what you're willing to pledge, then identify the repayment or controlled-sale option if that limit is reached. An 80% stress test isn't a maximum possible loss or a guarantee against liquidation.
 
-At each difficult year, ask whether the household could continue. Does the lender require more collateral? How much of the Bitcoin is now pledged? Is there cash to respond without taking money from essential bills? Could the agreement end before the assumed market recovery?
+Finally, follow the loan through repayment. Borrowing once for a temporary need is different from adding new debt every year to fund retirement.
 
-The repayment source needs a date and an amount. Selling later, using another account, paying from income or refinancing are different plans. Refinancing isn't guaranteed by the fact that the first loan was approved.
+Use the course's smaller recurring-loan example. You borrow $25,000 and add a hypothetical 12% interest at year-end. You owe $28,000. Borrow another $25,000 at the beginning of year two and the balance is $53,000 before interest. Another 12% brings it to $59,360. You received $50,000 and added $9,360 in interest. Actual rates, fees and accrual can differ.
 
-A hybrid policy can combine sales and borrowing. For example, the household might sell a limited amount under a reviewed tax strategy and borrow for a remainder. Explain the actual sale, gain, tax and residual cash need. A policy name doesn't establish that every year's bill has been funded.
+Each new draw uses some of the same collateral capacity. Recalculate the combined obligation instead of protecting each year's loan with the same supposedly spare Bitcoin.
 
-Compare after-tax resources at matching dates. Borrowing preserves more assets initially but also leaves a liability. A sale reduces assets but avoids the new interest and collateral exposure. Looking only at Bitcoin retained or total gross assets can favor the wrong version of the household's position.
+Compare borrowing with selling for the same after-tax spending need and market path. Include a flat period, an early decline and higher borrowing costs. At maturity, where does the repayment come from? Refinancing needs a lender and terms available then. Selling later needs enough proceeds after tax. Neither is guaranteed by today's approval.
 
-Check what happens to the loan after death, too. Debt doesn't disappear because the plan ends at death. Basis treatment, estate obligations, beneficiary rules, legal ownership and settlement liquidity need review for the actual jurisdiction and assets. Don't build the result on a slogan about never selling or avoiding every tax.
+A mix of sales and borrowing may fit better than using either alone. Compare the cash delivered, debt remaining and what stays invested. A larger Bitcoin balance doesn't automatically mean a stronger net position.
 
-Provider failure and interrupted access may not be represented in the simulation. Record those limits separately. A favorable chance-of-success output isn't a probability that a lender will remain solvent or honor a hoped-for extension.
+Debt also remains an estate obligation. The family needs access to the repayment resources and instructions for the actual agreement. Don't build the strategy around a promise that death eliminates the debt or every tax.
 
-Keep a borrowing proposal separate until you choose it. Alex and Morgan don't already have a Bitcoin-backed loan, so we're testing a possible strategy instead of reading an existing obligation.
+The model's confidence result doesn't measure whether the provider will remain solvent or whether a transfer will clear in time. Keep those risks alongside the financial comparison.
 
-Choose the funding approach after reading the debt, collateral, and repayment path. Write down when you would stop adding debt or reduce it. You may decide recurring borrowing asks more of the household than you're willing to carry.
-
-Keep the chosen limits and dates with the debt record. Name who monitors the loan and who can begin the safe response when that person is unavailable. No wallet secrets belong in those instructions. Then return to the spending or financing decision that brought you here.
+Alex and Morgan haven't taken out a Bitcoin-backed loan. These are illustrations to help you examine your own situation. Record the actual terms, total supporting Bitcoin and funded response in your debt plan, without wallet secrets. Then choose how much debt and lender exposure you're comfortable carrying.
 
 ---
 
@@ -812,7 +812,7 @@ That flexibility can be the point. If later retirement looks funded but the firs
 
 For later money, a workplace plan can provide payroll convenience, contribution room, and a match. We already reviewed the match. Now check the investments, costs, and access rules. A plan with a limited menu may still hold the stock exposure you want while another account holds Bitcoin.
 
-Alex's workplace account in our example holds seventy percent stocks and thirty percent Bitcoin-fund exposure. His Roth IRA has a different mix. The accounts can hold different proportions and still work together toward the household target.
+Alex's workplace account in our example holds 70% stocks and 30% Bitcoin-fund exposure. His Roth IRA has a different mix. The accounts can hold different proportions and still work together toward the household target.
 
 The fictional workplace plan permits the example's Bitcoin-fund access. Your employer may not. Confirm the menu before routing money there for a purchase it can't make.
 
@@ -836,7 +836,7 @@ Education accounts have a dedicated job as well. A 529 may fit the college commi
 
 A self-employed person may have additional options, such as a Solo 401(k) or SEP. Business structure, employees, compensation and plan terms affect eligibility and contribution calculations. Identify the relevant option and verify its room; don't add every advertised maximum together as though the limits never interact.
 
-Check access separately from when you'd like to spend the money. A taxable account can hold a twenty-year investment. A retirement account can hold cash for a permitted withdrawal soon. Age fifty-nine and a half is an important landmark, not a universal statement that every retirement dollar is locked until then. Special routes need their own conditions verified; Retirement Income handles that where it applies.
+Check access separately from when you'd like to spend the money. A taxable account can hold a twenty-year investment. A retirement account can hold cash for a permitted withdrawal soon. Age 59½ is an important landmark, not a universal statement that every retirement dollar is locked until then. Special routes need their own conditions verified; Retirement Income handles that where it applies.
 
 An existing account may already do the job at an acceptable cost. Opening another one adds records and maintenance, so be clear about what it would improve.
 
@@ -970,7 +970,7 @@ They sold the same amount at the same Bitcoin price. The purchase they used chan
 
 That's why the purchase history matters before a tax-sensitive sale. But none of those gain amounts is the tax bill. The bill also depends on the holding period, other income, current tax rules, and the household's situation.
 
-Another mistake is treating missing basis as a known zero. A missing record means we don't know the cost yet. It doesn't prove the entire sale is gain. We need evidence before relying on the tax calculation.
+A missing record means we don't know the cost yet. But if you can't substantiate the basis you claim, the IRS may disallow it and treat the basis as zero. Courts have upheld zero-basis treatment when taxpayers couldn't establish a basis above zero. That can leave the full net sale proceeds treated as gain. Recover the evidence instead of inventing a cost or assuming a blank software field is harmless.
 
 Now ask which units would actually be sold. A default method, a valid specific identification, and an after-the-fact software preference are different things. You must follow the rules and recordkeeping that apply to the actual account or wallet and transaction date. We'll prepare that process before execution instead of selecting a convenient lot afterward.
 
@@ -1268,8 +1268,6 @@ Another has $8,000 of premiums and $8,000 of expected additional costs. That's $
 
 Those are example amounts, not insurance quotes. They show why we need the full cost before deciding how much retirement spending requires.
 
-We'll compare coverage, check how income affects its cost, and plan the transitions.
-
 Start with what is actually available after work changes. A spouse's employer plan, continuation coverage, a Marketplace plan or another eligible arrangement may apply. Confirm when existing coverage ends and replacement coverage can begin.
 
 Then compare premiums with deductibles, copayments, coinsurance, network and prescriptions. Look at the ordinary year and a difficult year. An out-of-pocket maximum may exclude some services or out-of-network costs, so it isn't always a cap on everything the household could spend.
@@ -1322,7 +1320,7 @@ Start with the same spending need and the same date. A sale needs to provide the
 
 A Bitcoin sale reduces the position and may realize a gain. There's no new loan payment from that sale. Borrowing can preserve more Bitcoin initially, but it adds interest, collateral or other contract exposure, and a later repayment obligation.
 
-We covered loan mechanics in Debt. Here the new question is whether that obligation fits a retirement paycheck with less employment income supporting it.
+I can see why you'd consider a loan to keep more Bitcoin invested. But I'd compare that benefit with the cost and the responsibility of carrying it. Use the downside sizing and top-up plan from Debt. Here the question is whether the obligation still fits when employment income stops.
 
 Use a simple illustration. A household needs $20,000. A $20,000 loan at a hypothetical 10% rate costs $2,000 of simple annual interest if the principal remains unchanged. Paying that interest from cash uses another $2,000. Adding it to the loan leaves $22,000 owed after that simplified year.
 
@@ -1360,69 +1358,59 @@ In the first version, the initial withdrawal leaves $950,000. A 20% decline leav
 
 In the other version, the first $950,000 grows by 25%. After the next withdrawal and a 20% decline, the ending amount is $910,000.
 
-Both started with the same money, took the same withdrawals, and had the same two returns. Changing the order leaves a $22,500 difference.
+Both started with the same money, took the same withdrawals, and had the same two returns. Changing the order leaves a $22,500 difference. Without withdrawals, the two returns would take $1 million back to $1 million in either order.
 
-Without withdrawals, the two returns would take $1 million back to $1 million in either order. Spending is what changes the relationship. In a bad early period, more of the assets are consumed while prices are low, and those assets don't participate in what follows.
+That's sequence-of-returns risk. An average return can't tell you by itself whether the retirement paycheck works.
 
-That's sequence-of-returns risk. It's one reason an average return can't tell you by itself whether a retirement withdrawal plan works.
+We can respond with cash available for a difficult period and a rule for reviewing spending. The rule matters. Research on Kitces.com compared a stock-and-bond household retiring before the global financial crisis. Its risk-based method produced a 3% reduction in inflation-adjusted spending, compared with 28% under classic Guyton-Klinger guardrails.
 
-A reserve can give you time and flexibility. Money already available in cash can pay part of the gap while you review the longer-term holdings. It doesn't eliminate losses or guarantee you'll never need to sell during a weak market.
+That was a historical simulation with different rules from Orange Plan, not a Bitcoin result or a forecast. It shows why we should examine how a spending rule changes someone's life, instead of assuming all guardrails do the same thing.
 
-Use what we covered about the Reserve, but check the amount again for retirement. During work, the reserve mainly protects an interruption. In retirement, it also supports the gap between spending and reliable income while investments provide the rest over time.
+Morningstar has also found that flexible withdrawal methods can support higher starting withdrawals in its stock-and-bond research. The trade-off is accepting changes in income. Neither study gives a Bitcoin household permission to copy a withdrawal rate.
 
-Size that cash from the gap you need it to cover and the period you choose to prepare for. If income pays much of the lifestyle, using total spending can overstate that particular job. If a major bill isn't in ordinary spending, include it separately so the cash plan doesn't miss it.
+Here's the method we're using for the annual review. Start with the current plan and your saved spending amount. Update the information that has changed, then apply the plan's inflation assumption. Check that amount against the remaining years, income and investments.
 
-And count the reserve inside the assets you have. Moving part of a portfolio to cash doesn't add another asset. The benefit is spending flexibility; the trade-off is less money exposed to long-term investment returns while it's held in cash.
+Orange Plan's default uses an 80% confidence target, with review triggers at 60% or below and 95% or above. Confidence describes the share of model runs that meet the plan's funding test under its assumptions. It's a planning result, not a guarantee about your life.
 
-You need to know when you review the balance, what cash level calls for attention, which account or asset can refill it, and how taxes or loan terms affect that source. The rule should still make sense after a weaker year.
+Between those triggers, the normal suggestion is the inflation-adjusted amount. At a trigger, compare the spending amount associated with the target confidence. Move toward it, with the suggested correction capped at 10% of the inflation-adjusted amount for that annual review.
 
-In a down market, you may choose to spend existing reserve instead of immediately refilling it by selling depressed holdings. But that choice uses up a finite balance. The floor is the point where you need to reconsider how you're funding spending. You can't keep drawing forever while waiting for a recovery.
+Those are Orange Plan's settings. They aren't the original Guyton-Klinger rules or a requirement to start withdrawals at 8%. A dollar value shown as a portfolio guardrail is a review threshold, not your spending budget. Don't mix the percentages from different methods.
 
-When the floor is approaching, compare the actual responses. Reduce flexible spending, use another available asset, accept a controlled sale, or change another part of the plan. Borrowing would be a separate decision with an obligation, not an automatic replacement for cash.
+Let's follow one separate household through it. Last year's spending target was $100,000. With a 3% inflation adjustment, next year's starting amount is $103,000.
 
-In a steady or stronger period, refilling toward the target may be reasonable. Check the money needed, the sale and its tax, and what remains invested. A rising price alone doesn't tell you to sell an arbitrary percentage or refill beyond the need.
+For this illustration, imagine the updated calculation gives that $103,000 amount a 55% confidence result. Imagine it also finds $86,000 at the 80% target. Those model results are made up to explain the decision; they aren't results from the Reeds' plan.
 
-Next, decide whether spending itself needs to change. A reserve gives you time to respond. You still need to review what you're spending.
+The 55% result crosses the lower trigger. But moving straight from $103,000 to $86,000 would exceed the annual correction cap. Ten percent of $103,000 is $10,300. Subtract it and the suggestion is $92,700.
 
-Start with the updated plan and the spending rule you chose. A guardrail tells you when to review that rule. It might be a change in the portfolio's value or in the model's confidence result. The amount you decide to spend next year is a separate choice. First notice the reason to review; then work out what, if anything, to change.
+That's $7,300 less than last year's $100,000 budget, and $10,300 less than the new inflation-adjusted budget. The difference matters when you're working out what to cut.
 
-A portfolio-value guardrail is the value at which your rule calls for a review. It isn't your spending budget. A confidence trigger uses the model's percentage instead. Those measures aren't interchangeable, so use the calculation that belongs to your chosen rule.
+The cap hasn't restored 80% confidence. It's moved partway toward the $86,000 amount in this example. Recheck the proposed budget and the years that remain difficult. Repeating the annual correction several times in one sitting would defeat the limit.
 
-When the plan stays within the range you've chosen, follow the rule's normal review and inflation adjustment. Outside that range, compare the proposed change in spending and what it would require next year.
+Now make it a household decision. Could they actually live on $92,700? If they can postpone flexible spending, the change may fit. If essentials already cost more than that, the suggestion hasn't solved the problem. They need a different funding or income response. An annual cap can't promise that any particular spending level will be enough.
 
-An annual limit may spread a spending adjustment over more than one year. It can move spending partway toward the target without reaching it immediately. Applying several annual adjustments at once would defeat that limit.
+If the confidence result had stayed between the triggers, the normal suggestion would have remained $103,000. At the upper trigger, the same process can suggest an increase toward the target, within the correction cap. You can accept the suggestion or choose a different amount after comparing it. Nothing should change merely because a new result appeared.
 
-For a simple example, say a household plans to spend $100,000 but is considering $95,000 next year. That's a $5,000 reduction. What would they actually spend less on?
+Next, connect the spending decision to the Reserve. During work, the reserve mainly supports an income interruption. In retirement, size it from the spending gap after reliable income, plus any separate bills it needs to cover.
 
-If $5,000 can come from a trip the household is willing to postpone, the adjustment may be practical. If the entire budget is essential bills, the same numerical reduction isn't a solution. The plan needs another response, such as a different income source, funding choice, or work decision.
+For our household, assume $40,000 of annual income is available after its tax, and taxes on investment withdrawals are funded separately. At $92,700 of spending, the lifestyle gap is $52,700 a year. That's down from $63,000 under the $103,000 budget.
 
-Now look at the cash flow. A smaller spending amount may reduce the withdrawal and the Reserve requirement. Taxes can change too. Recalculate the funding instead of assuming the full $5,000 translates directly into one particular investment sale.
+For this example, they've chosen twelve months of that gap as the cash target and six months as the review floor. The target is $52,700; the floor is $26,350. These are example choices, not automatic answers for your household.
 
-An upper review point can open a different discussion: is there room to spend more on something you value? The household may choose the proposed increase, a smaller increase, or keep more margin. A strong portfolio isn't an instruction to invent a new expense, but it shouldn't leave someone permanently afraid to use a plan that supports their goals.
+They have $45,000 already assigned to that cash. It's $7,700 below the target and still above the floor. They could compare a refill now with using existing cash while checking the balance regularly. At this spending pace, $45,000 covers about ten months of the gap, so waiting still needs a funding plan.
 
-Connect the spending choice with the Reserve refill. A weak year may support spending existing cash while it remains above the chosen floor. A refill may require a sale and tax. Read the two decisions together so the same cash isn't used for both spending and a second imaginary refill.
+If the market is weak, they may choose to delay a refill while cash remains adequate. Before reaching the floor, they need a funded response: another available asset, a controlled sale, lower flexible spending or changed income. Borrowing needs its own loan decision. A hoped-for recovery isn't a refill source.
 
-Change one thing first. If you lower spending, delay retirement, increase returns and change the withdrawal order together, you may get a stronger result without knowing which change mattered. A controlled comparison teaches you something you can use.
+A stronger market may make refilling easier. Compare the actual cash needed, the tax on the sale and what remains invested. Count the Reserve inside existing assets. Moving $7,700 into cash doesn't create another $7,700 of wealth. Add any withdrawal tax or other cost this simplified example left out.
 
-Look inside the paths or relevant years the tool actually makes available. Where does funding become difficult? Is it an early account-access issue, a large event, a prolonged weak market, tax pressure or the size of spending itself? The response should address that cause.
+Keep the spending choice and refill together so the same cash isn't assigned twice. I want this review to help you use the money for your life, while making clear what you'd change when the plan weakens.
 
-Running short soon after you stop work is different from ending the plan with less money than you hoped. Find when the shortfall occurs and what the household would have to change. An adjustment you can't actually make doesn't solve the problem.
+Change one thing first. Hold returns and the other household choices steady while comparing spending. Look at when funding becomes difficult, not just the ending balance. Then separately test less favorable returns. Raising an assumption to undo an uncomfortable result hides the issue.
 
-Use the stress comparison to test the operating rules too. Does the reserve run down? What happens near its floor? Does the proposed annual spending change leave essential bills covered? When borrowing is involved, can the contract force action outside the simulation's financial assumptions?
+You don't have to push confidence to 100%. Compare the extra margin with the spending or working years you'd give up. The right target depends on consequences and flexibility. The model doesn't certify a lender, tax rule or custody arrangement.
 
-The simulation isn't a probability estimate for every risk in life. It doesn't certify the custodian, guarantee tax law, or prove that a lender will allow the planned response. Keep those other checks where they belong instead of letting a favorable score replace them.
+Income loss, a large unexpected bill or a loan near its contractual threshold can require attention before the annual review. A yearly rhythm doesn't postpone those obligations.
 
-Also test how much the answer depends on the assumed investment returns. Hold the household choices fixed and test a less favorable return path that the app supports. If the plan works only under a very optimistic model, make that dependence explicit before acting. Don't silently reduce volatility or raise returns to recover a desired result.
-
-You don't have to push the result to 100%. That can mean giving up spending or working longer for a margin the household may not choose. The appropriate confidence target is a preference to test alongside flexibility and consequences, not a universal promise of safety.
-
-Some events require attention before the annual review. An income loss, a large medical expense, a family change, or a loan nearing a contractual threshold can need a response now. A yearly rhythm isn't a reason to postpone a time-sensitive obligation.
-
-Start with the current plan and compare next year's spending. Check what it requires from income and investments before saving the amount you choose.
-
-Keep next year's spending, expected income, withdrawals, and Reserve refill together in your plan. Include any borrowing instructions and the next review date.
-
-Those choices should answer one question: how will you pay next year's bills?
+Use your own updated plan to compare next year's spending and its funding. Save the amount and strategy you actually choose, then check income, withdrawals and the Reserve refill together. The walkthrough connects that decision to the app. Your plan should show how next year's bills will be paid.
 
 ---
 
@@ -1431,8 +1419,6 @@ Those choices should answer one question: how will you pay next year's bills?
 Let's say the person who normally manages the Bitcoin is unavailable for six months. The hardware wallet still works. The family still owns the Bitcoin. But nobody knows how to begin.
 
 Adding another device wouldn't necessarily solve that problem. The household needs an arrangement it can maintain, with a usable path when one person or provider is missing.
-
-That's how we'll choose custody: decide what control matters, compare the responsibilities, and check the failure the arrangement needs to survive.
 
 Direct self-custody gives you control of the keys instead of relying on a company to permit a withdrawal. It also puts recovery, physical security and the family process on the household.
 
@@ -1512,7 +1498,7 @@ Choose the arrangement that fits your control and family-access needs, and ident
 
 A working hardware wallet doesn't prove that its backup will restore the right wallet. You can discover a missing word or passphrase while the device still works, or discover it after the only working device has failed.
 
-We want the first situation. Check recovery without casually putting the funded wallet at risk, then secure the accounts around it.
+Check the backup while you still have working access, without putting the funded wallet at risk. Then secure the accounts around it.
 
 A wallet backup recreates the corresponding keys through a compatible process. The Bitcoin isn't stored inside the hardware device. A lost device can be survivable when the correct recovery material and procedure are available.
 
@@ -1534,11 +1520,15 @@ Store recovery materials for the failures you're trying to survive. Durability c
 
 Record the safe evidence: which setup was checked, the method, date, actual outcome and what remains unverified. The planning record doesn't need the recovery material itself.
 
-Next, secure the accounts that support financial access. Email often resets other accounts, so a weak email recovery route can undermine a strong financial password.
+Secure your email first. It's often the recovery route for other accounts, so someone who gets into it may be able to reset their passwords. Use unique passwords; a password manager can help.
 
-Use unique strong passwords and the strongest supported multifactor method you can maintain. A password manager can help avoid reuse. Where supported, phishing-resistant security keys or passkeys can add protection against lookalike sign-in pages.
+For sign-in protection, start with phishing-resistant security keys or passkeys where the service supports them. They help stop a lookalike site from collecting a credential it can use on the real site.
 
-A hardware security key authenticates a login. A hardware wallet holds Bitcoin signing keys. They perform different jobs.
+When those aren't available, use an authenticator app. A one-time code is stronger than relying on a text message, but a fake site can still trick you into giving it the code. Treat SMS as a last resort when stronger methods aren't supported, instead of leaving the account with only a password. A phone-number takeover can expose texted codes.
+
+Check how the authenticator or passkey is backed up and recovered. Cloud recovery adds another account to protect; turning it off without another recovery method can leave you locked out.
+
+A hardware security key authenticates a login. A hardware wallet holds your Bitcoin signing keys.
 
 Keep and test the legitimate backup access method before removing the only working one. A lost phone or security key shouldn't force the household to invent a recovery process during an emergency.
 
@@ -1670,31 +1660,43 @@ Update the family packet with the resulting authority and starting instructions.
 
 What could happen that your household couldn't comfortably pay for? Start there, then check what your existing insurance would cover.
 
-If one income stops because someone dies, what money would the family still need? If a person can't work because of disability, what income continues and for how long? If someone faces a major liability claim or needs extended care, which assets and cash flows are exposed?
+I think about insurance in terms of what a loss would do to the family's life. When losing a paycheck would put the plan in trouble, paying to protect that income can make sense. Once the assets can comfortably support the household without it, the need for that protection can shrink.
 
-For a simple life-insurance illustration, say a family expects a $40,000 annual shortfall for ten years after an income loss. Multiplying gives $400,000 before growth, inflation, taxes, changing needs, other costs and resources. That gives you a sense of the amount involved. It isn't a final policy recommendation.
+That point depends on the family and its risk tolerance. I wouldn't use one net-worth number for everyone.
 
-Now add the obligations and subtract the resources actually available for that purpose. Existing insurance, survivor benefits, another reliable income or accessible assets may help. Don't count an asset toward both the surviving household's retirement and a different obligation without testing the consequence.
+Take the life-insurance example. A family would be short $40,000 a year for ten years after one parent dies, after allowing for income that would continue. That's $400,000 in today's dollars if the funding earns nothing after inflation, taxes and fees.
 
-The duration matters too. Support needed while children are dependent has a different shape from a permanent estate-liquidity need. Term and permanent insurance have different coverage periods, costs and features. Compare the actual purpose and contract with a qualified professional instead of choosing a product because of a sales illustration.
+For this illustration, assume later retirement and other obligations are funded separately. The family has $100,000 available for this shortfall and $200,000 of existing life coverage that would pay if the death occurs during the policy's term. That leaves a $100,000 gap to investigate.
 
-Employer coverage is part of the inventory, but check what happens when employment ends or changes. A benefit that disappears at retirement can't remain in the post-retirement plan by habit.
+The calculation gives us a starting amount. It doesn't choose the policy. Add any other unfunded costs, such as childcare, education or final expenses. Include the work an unpaid caregiver does, because replacing that work can cost money too.
 
-Disability coverage also needs its actual definition and limits. What counts as disabled under the policy? When do benefits begin? How long can they last, and what income would they replace after any tax? The Reserve may need to support the waiting period or costs the benefit doesn't cover.
+Use assets the surviving family could actually access and spend. Counting the home assumes a way to use its value. If you include paying off the mortgage upfront, remove those payments from the future spending estimate. And don't spend the same investment balance once on this gap and again on a separate retirement need.
 
-For liability protection, review home and auto coverage and whether an umbrella policy fits the exposure. The limits, exclusions and required underlying coverage need to work together. A high net worth doesn't establish the correct limit by itself, and an umbrella doesn't cover every possible claim.
+As available assets grow, rerun the calculation. If the family can thrive without the death benefit, less income-replacement coverage may be needed. A lasting dependent need or an estate cash requirement could still give life insurance another job.
 
-Healthcare and long-term support deserve separate attention. Don't assume ordinary health insurance or Medicare covers every ongoing care need. Compare the actual benefits, the possibility of self-funding, and how a prolonged care cost would affect the other person in the household.
+Match the coverage period to that job. Term insurance lasts for a set period. Permanent coverage is designed to last for life if the policy's requirements are met. Compare the cost and conditions.
 
-You don't need to solve every coverage question today. Complete the insurance audit with the current policy, owner, insured person, benefit or limit, premium, exclusions to investigate, beneficiary where relevant, and review date.
+Disability asks a related question: what happens if you're alive but can't earn the income the plan depends on?
 
-Then find the most important gap. For example: “Does this benefit continue after I leave work?” That's more useful than deciding you need more insurance simply because you own Bitcoin.
+Remove those earnings and the savings they were funding. Add the costs the disability might bring, including paid help or changes to the home. Another family member may also work less to provide care. Then check whether assets and continuing income can cover the changed plan.
 
-When comparing a replacement, keep existing protection until the new arrangement is actually approved and in force, unless a qualified review establishes a deliberate different plan. A quote or application isn't coverage.
+If you can comfortably live off assets through that situation, insuring the paycheck may be less important. If there's still a gap, compare it with the spendable benefit from existing coverage. Check what the policy counts as a disability, the waiting period, benefit duration and any tax on the payments. The Reserve may need to cover the wait.
 
-Use your actual policy documents for the audit. When a benefit or exclusion is unclear, ask the insurer or a qualified professional before counting on the coverage.
+I'd also test self-funding with Bitcoin down and income interrupted at the same time. A strong expected return can improve a projection. It doesn't give the family cash today. If the plan only works by cutting their lifestyle beyond what they'd accept, I wouldn't call that comfortably self-funded.
 
-Record the gaps you're addressing and the costs you've chosen to carry yourself. Put premiums and any cash set aside for those costs into the plan.
+Liability works differently. More assets can mean less need to replace earnings, but more of the family's future exposed to a large claim. That's why I'd review liability and umbrella coverage as wealth grows.
+
+Let's say a covered claim is $2 million. If the applicable home or auto policy pays $500,000 and the umbrella pays another $1 million, the household still faces $500,000. Could it pay that without changing the retirement plan?
+
+That's a comparison, not a prediction of the largest claim you could face. Review the exposures as well as the assets. Your home and auto limits need to meet the umbrella's requirements, and exclusions still matter. Personal umbrella coverage shouldn't be assumed to cover business or professional liability.
+
+Healthcare and long-term care need their own funding as well. Medicare doesn't pay for most long-term custodial care. A prolonged care cost has to fit without leaving the other person in the household short.
+
+Before reducing coverage, check whether you could replace it later. Health changes can affect eligibility and cost. Employer benefits may end when work ends. When replacing a policy, keep the old protection until the new coverage is approved and in force unless you've deliberately chosen to carry the gap.
+
+Use the actual policies to compare the remaining risk with the premium. Confirm unclear benefits with the insurer before counting on them. Then put the coverage costs and any money assigned to self-funding into Orange Plan where supported. Policy changes happen with the provider.
+
+You're deciding which losses the household can comfortably carry and which ones you'd rather pay to transfer. That decision should change as the household's ability to absorb a loss changes.
 
 ---
 

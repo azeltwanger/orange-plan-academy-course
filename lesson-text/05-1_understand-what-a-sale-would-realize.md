@@ -25,7 +25,7 @@ They sold the same amount at the same Bitcoin price. The purchase they used chan
 
 That's why the purchase history matters before a tax-sensitive sale. But none of those gain amounts is the tax bill. The bill also depends on the holding period, other income, current tax rules, and the household's situation.
 
-Another mistake is treating missing basis as a known zero. A missing record means we don't know the cost yet. It doesn't prove the entire sale is gain. We need evidence before relying on the tax calculation.
+A missing record means we don't know the cost yet. But if you can't substantiate the basis you claim, the IRS may disallow it and treat the basis as zero. Courts have upheld zero-basis treatment when taxpayers couldn't establish a basis above zero. That can leave the full net sale proceeds treated as gain. Recover the evidence instead of inventing a cost or assuming a blank software field is harmless.
 
 Now ask which units would actually be sold. A default method, a valid specific identification, and an after-the-fact software preference are different things. You must follow the rules and recordkeeping that apply to the actual account or wallet and transaction date. We'll prepare that process before execution instead of selecting a convenient lot afterward.
 
@@ -78,6 +78,8 @@ Tax deck Step 1 operational reconstruction, not a repeat of 1.2 inventory. Gener
 #### Retained 5.5 — Visual and source notes — not spoken
 
 Tax deck Steps6–8. New paired20k/16k gain/loss explanations are mechanisms, not recommended trades or new Reed lots. No perpetual direct-Bitcoin immediate-repurchase promise. Current IRS550 and digital-asset FAQs govern classification/identification; Notice2026-20 extends specified broker-held identification relief through2026 for eligible taxpayers and contemporaneous records, not all assets/wallets or retroactive choices. Keep this dated fact in production reference, not fixed evergreen speech. Form8949 TAX DATA export is not filedForm8949. Exact transaction terms and professional review remain required.
+
+September 10 follow-up: see [the targeted change record](../delivery/script-finishing-20260910.md) and [source verification](../reference/script-finishing-sources.md). This supplements, rather than re-dates, the earlier technical review.
 
 ### Member checkpoint
 

@@ -190,4 +190,4 @@ Follow the main path and apply each decision to your own Orange Plan. The eight 
 
 ## Recording and source notes
 
-[All situation-specific recordings](ADVANCED-DICTATION-ORDER.md) · [App capture map](FILM-ORDER.md) · [What was merged](delivery/consolidation.md). Internal IDs remain stable where possible; they are not extra videos. The accepted Reserve is unchanged.
+[All situation-specific recordings](ADVANCED-DICTATION-ORDER.md) · [App capture map](FILM-ORDER.md) · [What was merged](delivery/consolidation.md). Internal IDs remain stable where possible; they are not extra videos. The accepted Reserve has only the approved language edits; its example and judgment are retained.

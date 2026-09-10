@@ -26,7 +26,7 @@ Check what the number includes. If you've already included your minimum debt pay
 
 Next, decide how many months you want that money to cover.
 
-Three, six, and twelve months or more are starting points for comparison. They aren't automatic answers. A household with two very stable incomes and no dependents has a different decision from someone supporting a family on variable business income.
+Three, six, or twelve months or more are starting points. None of them is the automatic answer. A household with two very stable incomes and no dependents has a different decision from someone supporting a family on variable business income.
 
 Think about how long replacing lost income could take. Would another income continue? Are both jobs exposed to the same slowdown? How many people depend on the money, and how much of the monthly spending is difficult to change?
 
@@ -46,15 +46,15 @@ We haven't added another asset. This is existing money, with a job attached to i
 
 Don't automatically count every dollar in checking. Some of that money may be needed for this month's bills. Money already set aside for a tax payment or a planned purchase has another job too. The same dollars can't fully cover both commitments.
 
-Check access as well as the balance. An investment you cannot readily use, Bitcoin pledged to a lender, or a credit line that might be reduced is different from cash you can use when needed. Calling a volatile investment your reserve doesn't change how its price behaves.
+Check access as well as the balance. An investment you can't readily use, Bitcoin pledged to a lender, or a credit line that might be reduced is different from cash you can use when needed. Calling a volatile investment your reserve doesn't change how its price behaves.
 
-You might decide that only part of an account belongs to the reserve. What matters is how much is genuinely available after its other commitments.
+You might decide that only part of an account belongs to the reserve. What matters is how much is actually available after its other commitments.
 
 Next, connect the gap to the monthly cash flow we worked through earlier.
 
 At $500 a month, Alex and Morgan's $11,200 gap represents a little over twenty-two months of contributions, before interest or withdrawals. That's almost two years. Seeing the timeline gives them another decision: are they comfortable carrying the current gap for that long?
 
-They are also working on expensive debt. We need to compare how quickly to build the reserve with the money being used for that debt. We cannot assign the same monthly surplus to both.
+They're also working on expensive debt. We need to compare how quickly to build the reserve with the money being used for that debt. We can't assign the same monthly surplus to both.
 
 I'd put more weight on accessible cash when there are dependents or the household relies on one income. If that income stops, they still need to pay the bills and provide for the family. I wouldn't build the plan around being able to borrow more at that point.
 

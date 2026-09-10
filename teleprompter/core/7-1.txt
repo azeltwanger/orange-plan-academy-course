@@ -2,8 +2,6 @@ Let's say the person who normally manages the Bitcoin is unavailable for six mon
 
 Adding another device wouldn't necessarily solve that problem. The household needs an arrangement it can maintain, with a usable path when one person or provider is missing.
 
-That's how we'll choose custody: decide what control matters, compare the responsibilities, and check the failure the arrangement needs to survive.
-
 Direct self-custody gives you control of the keys instead of relying on a company to permit a withdrawal. It also puts recovery, physical security and the family process on the household.
 
 Professional custody can provide administration and support. You accept the provider's control, terms, withdrawal process and counterparty risk. A professional arrangement isn't a promise that every loss is insured or recoverable.

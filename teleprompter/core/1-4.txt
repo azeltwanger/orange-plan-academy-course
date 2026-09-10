@@ -6,7 +6,7 @@ Start with investment growth. For a simple example, $10,000 growing at 10% for t
 
 These illustrations show how much the expected return can change the answer. They aren't forecasts, so take a moment to check that assumption.
 
-Start with assumptions you understand and have a reason to use. Don't choose the most optimistic return just to reach the retirement date you want. And keep an extreme disaster case separate from what you expect. We need a starting plan, then comparisons that show what happens when the assumptions are wrong.
+I'd rather be conservative and end up with more than plan aggressively and fall short. Start with assumptions you understand and have a reason to use. And keep an extreme disaster case separate from what you expect. We need a starting plan, then comparisons that show what happens when the assumptions are wrong.
 
 For a long Bitcoin plan, my preference is to let assumed growth decline over time instead of using one large annual percentage through every decade. Power Law is one model I've used to think about that. It's still a model. Read the path it produces instead of treating the name as proof that the future will follow it.
 

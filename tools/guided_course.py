@@ -25,6 +25,24 @@ CHAPTERS = {'0.1': 'Orientation; begin your own plan', '1.2': 'W01 chapters 1–
 CONSOLIDATION_PIN = 'c4c55601dfdaa893343623a75f478cbbfef120ad'
 CONSOLIDATION_MAPPING_DIGEST = '1a61726e67a15447c50eebe218b10177c23136a66efdb03c8dd7b0693ea2240d'
 
+# Only these owner-authorized wording changes may differ from the accepted Reserve.
+RESERVE_LANGUAGE_EDITS = [
+    ['An investment you cannot readily use', "An investment you can't readily use", 1],
+    ['We cannot assign the same monthly surplus to both.', "We can't assign the same monthly surplus to both.", 1],
+    ['genuinely available', 'actually available', 1],
+    ["Three, six, and twelve months or more are starting points for comparison. They aren't automatic answers.",
+     'Three, six, or twelve months or more are starting points. None of them is the automatic answer.', 1],
+    ['They are also working on expensive debt.', "They're also working on expensive debt.", 1],
+]
+
+def accepted_reserve_bytes(data: bytes) -> bytes:
+    text = data.decode('utf-8')
+    for old, new, count in reversed(RESERVE_LANGUAGE_EDITS):
+        if text.count(new) != count:
+            raise ValueError('Reserve language edit does not match its approved scope')
+        text = text.replace(new, old)
+    return text.encode('utf-8')
+
 def digest(data: bytes) -> str:
     return hashlib.sha256(data).hexdigest()
 
@@ -110,7 +128,7 @@ def situation_card(row: dict) -> str:
             f"> {r['when']}\n>\n> {r['before']}\n>\n> **Return to:** {r['return']}.\n\n")
 
 def review_state(row: dict) -> str:
-    if row['id']=='2.3':return 'Accepted reference; unchanged'
+    if row['id']=='2.3':return 'Accepted reference; limited language edits'
     if 'Status: RECORDING_DRAFT_REVIEW' in row['text']:return 'Consolidated recording draft; owner review pending'
     if 'Status: SPOKEN_EDIT_REVIEW' in row['text']:return 'Spoken-language edit; owner review pending'
     if 'Status: TEACHING_RETAINED_REVIEW' in row['text']:return 'Existing explanation retained; owner review pending'
@@ -134,7 +152,10 @@ def consolidation(root: Path) -> dict:
         if row['retired_active_file'] and (root/row['old_path']).exists():
             raise ValueError('Retired source restored as active script '+row['old_path'])
     for path,h in c['protected'].items():
-        if digest((root/path).read_bytes())!=h:raise ValueError('Protected Reserve/capture changed '+path)
+        data=(root/path).read_bytes()
+        if path=='scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md':
+            data=accepted_reserve_bytes(data)
+        if digest(data)!=h:raise ValueError('Protected Reserve/capture changed '+path)
     for path in refs:
         if not (root/path).is_file():raise ValueError('Missing retained task reference '+path)
     return c
@@ -193,7 +214,7 @@ def outputs(root: Path) -> dict[str,str]:
                 if routes[a]['after']==x:
                     reading+=situation_card(by[a]);film+=situation_card(by[a]);module+=render_links(by[a]['text'],by[a]['path'],f'modules/{m:02d}.md')+'\n\n---\n\n'
         result[f'modules/{m:02d}.md']=module
-    reading+='## Recording and source notes\n\n[All situation-specific recordings](ADVANCED-DICTATION-ORDER.md) · [App capture map](FILM-ORDER.md) · [What was merged](delivery/consolidation.md). Internal IDs remain stable where possible; they are not extra videos. The accepted Reserve is unchanged.\n'
+    reading+='## Recording and source notes\n\n[All situation-specific recordings](ADVANCED-DICTATION-ORDER.md) · [App capture map](FILM-ORDER.md) · [What was merged](delivery/consolidation.md). Internal IDs remain stable where possible; they are not extra videos. The accepted Reserve has only the approved language edits; its example and judgment are retained.\n'
     result['DICTATION-ORDER.md']=reading
     extra='# For your situation — eight recordings\n\nUse the relevant instruction when your plan needs it. No separate course, homework or required reading for unrelated situations.\n\n'
     for x in ADV_IDS:
@@ -207,7 +228,7 @@ def outputs(root: Path) -> dict[str,str]:
     result['CIRCLE-STRUCTURE.md']=film.replace('# Recording and app handoffs','# Member playback — 25 main decisions',1)
     result['SCREEN-SHOOT-LIST.md']='# Separate app and device capture\n\nThe 33 teaching scripts are separate from these ten working sessions and one device demonstration. Use FILM-ORDER.md for the current grouping. Existing capture evidence is still required; no screen, result or operation is staged to match a script.\n\n'+''.join(f"## {x} — {by[x]['title']}\n\n[Run sheet]({by[x]['path']})\n\n{by[x]['checkpoint']}\n\n" for x in PRACTICAL_IDS)
     result['MODULE-CHECKPOINTS.md']='# Apply the teaching in your own Orange Plan\n\nThese are the actual planning actions, not homework, a quiz, a submission or another practice household. Keeping a current choice is valid when it fits.\n\n'+''.join(f"## {by[x]['title']}\n\n"+(f"For your situation: {routes[x]['when']}\n\n" if x in routes else '')+by[x]['checkpoint']+'\n\n' for x in order)
-    result['PRODUCTION-CHECKLIST.md']='# Recording status\n\n25 main and eight situational scripts. Narration first; graphics in editing. No all-slides production prerequisite. The accepted Reserve is unchanged. Other new wording requires Austin\'s spoken review; actual app/device capture and targeted transaction checks remain separate.\n\n| Recording | Script | Text status | Remaining check |\n|---|---|---|---|\n'+''.join(f"| {CORE_IDS.index(r['id'])+1 if r['id'] in CORE_IDS else r['id']} | [{r['title']}]({r['path']}) | {review_state(r)} | {r['gate']} |\n" for r in rows)
+    result['PRODUCTION-CHECKLIST.md']='# Recording status\n\n25 main and eight situational scripts. Narration first; graphics in editing. No all-slides production prerequisite. The accepted Reserve has only the approved language edits; its example and judgment are retained. Other new wording requires Austin\'s spoken review; actual app/device capture and targeted transaction checks remain separate.\n\n| Recording | Script | Text status | Remaining check |\n|---|---|---|---|\n'+''.join(f"| {CORE_IDS.index(r['id'])+1 if r['id'] in CORE_IDS else r['id']} | [{r['title']}]({r['path']}) | {review_state(r)} | {r['gate']} |\n" for r in rows)
     main=sum(by[x]['words'] for x in CORE_IDS);extra_words=sum(by[x]['words'] for x in ADV_IDS);before=c['baseline_words']['main'];before_all=sum(c['baseline_words'].values())
     result['COURSE-METRICS.md']=f'# Consolidated course\n\n25 main teaching scripts, eight For your situation scripts. Ten app working-session files and one device demonstration remain separate production work.\n\nMain narration: {main:,} words, compared with {before:,} in the prior owner-delivered 50-script main path: {(1-main/before)*100:.1f}% shorter. Situational narration: {extra_words:,} words. Total: {main+extra_words:,}, compared with {before_all:,} across the prior 65 scripts.\n\nAt an illustrative 140 words/minute, the main text is about {main/140:.0f} minutes; situational text adds about {extra_words/140:.0f} minutes if every extra were used. These are estimates from written words, not measured runtime, including no pauses or app footage. Do not publish a runtime promise before recording.\n\nThe earlier planning target was approximately 22,000–25,000 main words. This draft is longer because some combined decisions retain their technical conditions; it still reduces total narration rather than only renaming files. Lesson count alone is not a comprehension or value claim.\n'
     return {p:s.replace('\\n','\n').rstrip()+'\n' for p,s in result.items()}
@@ -406,6 +427,31 @@ def arithmetic(root: Path) -> dict:
     eq('consolidated recurring loan second opening',D(28000)+25000,53000)
     eq('consolidated recurring loan second ending',(D(28000)+25000)*D('1.12'),59360)
     eq('consolidated recurring loan added interest',D(59360)-50000,9360)
+    # September 10 owner-framework examples: hypothetical, not live model results.
+    eq('downside BTC price at 80 percent decline',D(100000)*(1-D('.8')),20000)
+    eq('loan initial posted BTC',D(50000)/D('.5')/100000,1)
+    eq('loan reserved BTC',D('3.5')-1,D('2.5'))
+    eq('loan stressed total collateral',D('3.5')*20000,70000)
+    eq('loan BTC at liquidation equality',D(50000)/D('.8')/20000,D('3.125'))
+    eq('loan extra BTC at equality not sufficient',D('3.125')-1,D('2.125'))
+    eq('loan stressed LTV with posted reserve',D(50000)/70000,D('0.7142857142857142857'))
+    eq('loan total value boundary fraction',(1-D('.8'))*D('.8'),D('.16'))
+    eq('loan balance at boundary',D('3.5')*100000*D('.16'),56000)
+    eq('loan interest can erase stress cushion',D(56000)/70000,D('.8'))
+    eq('loan stricter 65 percent cure BTC',D(50000)/D('.65')/20000,D('3.846153846153846154'))
+    eq('annual spending inflation first',D(100000)*D('1.03'),103000)
+    eq('annual spending correction cap',D(103000)*D('.1'),10300)
+    eq('annual spending capped lower suggestion',max(D(86000),D(103000)*D('.9')),92700)
+    eq('annual spending change from prior',D(100000)-92700,7300)
+    eq('annual spending remaining target gap',D(92700)-86000,6700)
+    eq('annual lifestyle gap after change',D(92700)-40000,52700)
+    eq('annual lifestyle gap before change',D(103000)-40000,63000)
+    eq('annual reserve twelve month target',D(52700)/12*12,52700)
+    eq('annual reserve six month review floor',D(52700)/12*6,26350)
+    eq('annual reserve refill gap',D(52700)-45000,7700)
+    eq('insurance support need zero real return',D(40000)*10,400000)
+    eq('insurance remaining coverage gap',D(400000)-100000-200000,100000)
+    eq('insurance covered liability residual',D(2000000)-500000-1000000,500000)
     return {'scope':'Arithmetic teaching checks only; no retirement forecast, tax opinion, lender assurance or model acceptance.', 'checks':asserts,'current_dta_percent':float(debt/assets*100),'partial_stress_dta_percent':float(debt/stressed*100)}
 
 CLEANUP_PIN = 'a7be495e670078cd44ea4e0792538b0eaa32dd95'

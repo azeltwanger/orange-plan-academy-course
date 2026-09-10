@@ -150,8 +150,12 @@ class MemberDeliverables(unittest.TestCase):
         for r in c['mapping']:
             if r['retired_active_file']:self.assertFalse((ROOT/r['old_path']).exists())
 
-    def test_accepted_reserve_is_still_exact(self):
-        self.assertEqual(blob_id((ROOT/'scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md').read_bytes()),'2c107a394a93cc877c73f011dfe37fb5ad3d94b1')
+    def test_accepted_reserve_is_still_exact_except_approved_language(self):
+        import sys
+        sys.path.insert(0,str(ROOT/'tools'))
+        from guided_course import accepted_reserve_bytes
+        current=(ROOT/'scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md').read_bytes()
+        self.assertEqual(blob_id(accepted_reserve_bytes(current)),'2c107a394a93cc877c73f011dfe37fb5ad3d94b1')
 
     def test_situation_and_reference_are_not_extra_main_videos(self):
         c=json.loads(read('production/consolidation.json'))
@@ -165,6 +169,65 @@ class MemberDeliverables(unittest.TestCase):
     def test_consolidated_loan_extension(self):
         self.assertEqual((D(28000)+25000)*D('1.12'),D(59360))
         self.assertEqual(D(59360)-50000,D(9360))
+
+
+class September10ScriptFinish(unittest.TestCase):
+    def test_borrowing_boundaries_and_reserve(self):
+        loan=read('teleprompter/advanced/A3-1.txt')
+        for text in ['3.125', '2.5 BTC', '71.4%', '16%', 'maturity', 'confirmation', '12%', '$59,360']:
+            self.assertIn(text,loan)
+        self.assertIn("Exactly 3.125 isn't enough",loan)
+        self.assertIn("It can't simply take Bitcoin from your cold wallet",loan)
+        self.assertEqual(D(50000)/D('.8')/20000,D('3.125'))
+        self.assertGreater(D(50000)/(D('3.5')*20000),D('.65'))
+        self.assertLess(D(50000)/(D('3.5')*20000),D('.8'))
+
+    def test_guardrail_cap_and_source_boundary(self):
+        text=read('teleprompter/core/6-8.txt')
+        for phrase in ['60% or below','95% or above','different rules from Orange Plan',
+                       "The cap hasn't restored 80% confidence",'made up','$92,700','$26,350','$7,700']:
+            self.assertIn(phrase,text)
+        inflated=D(100000)*D('1.03')
+        self.assertEqual(max(D(86000),inflated*D('.9')),92700)
+        self.assertEqual(max(D(99000),inflated*D('.9')),99000)
+        self.assertEqual(min(D(120000),inflated*D('1.1')),113300)
+        self.assertEqual((D(92700)-40000)/12*6,26350)
+
+    def test_insurance_uses_needs_not_a_net_worth_cutoff(self):
+        text=read('teleprompter/core/8-4.txt')
+        self.assertIn("I wouldn't use one net-worth number for everyone",text)
+        self.assertIn('later retirement and other obligations are funded separately',text)
+        self.assertIn('income interrupted at the same time',text)
+        self.assertIn('Personal umbrella',text)
+        self.assertEqual(D(40000)*10-100000-200000,100000)
+        self.assertEqual(D(2000000)-500000-1000000,500000)
+
+    def test_missed_voice_lines_and_security_order_are_fixed(self):
+        files={'2-3':['cannot','genuinely available','They are also'],
+               '4-5':['seventy percent','fifty-nine and a half'],
+               '3-6':['then multiply by 100'],
+               '6-3':["We'll compare coverage, check how income"],
+               '7-1':["That's how we'll choose custody:"],
+               '7-2':['We want the first situation.','They perform different jobs.']}
+        for lid,phrases in files.items():
+            text=read('teleprompter/core/'+lid+'.txt')
+            for phrase in phrases:self.assertNotIn(phrase,text)
+        self.assertNotIn('eight hundred fifty',read('teleprompter/advanced/2-5.txt'))
+        text=read('teleprompter/core/7-2.txt')
+        self.assertLess(text.index('security keys or passkeys'),text.index('authenticator app'))
+        self.assertLess(text.index('authenticator app'),text.index('SMS as a last resort'))
+        self.assertNotIn('phishing-proof',text)
+
+    def test_reserve_only_allows_authorized_wording_changes(self):
+        import sys
+        sys.path.insert(0,str(ROOT/'tools'))
+        from guided_course import accepted_reserve_bytes
+        p='scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md'
+        data=read(p).encode()
+        expected='2c107a394a93cc877c73f011dfe37fb5ad3d94b1'
+        self.assertEqual(blob_id(accepted_reserve_bytes(data)),expected)
+        mutated=data.replace(b'$43,200',b'$44,200')
+        self.assertNotEqual(blob_id(accepted_reserve_bytes(mutated)),expected)
 
 
 if __name__ == '__main__':

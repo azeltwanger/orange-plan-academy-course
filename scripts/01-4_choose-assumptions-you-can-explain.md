@@ -15,7 +15,7 @@ Start with investment growth. For a simple example, $10,000 growing at 10% for t
 
 These illustrations show how much the expected return can change the answer. They aren't forecasts, so take a moment to check that assumption.
 
-Start with assumptions you understand and have a reason to use. Don't choose the most optimistic return just to reach the retirement date you want. And keep an extreme disaster case separate from what you expect. We need a starting plan, then comparisons that show what happens when the assumptions are wrong.
+I'd rather be conservative and end up with more than plan aggressively and fall short. Start with assumptions you understand and have a reason to use. And keep an extreme disaster case separate from what you expect. We need a starting plan, then comparisons that show what happens when the assumptions are wrong.
 
 For a long Bitcoin plan, my preference is to let assumed growth decline over time instead of using one large annual percentage through every decade. Power Law is one model I've used to think about that. It's still a model. Read the path it produces instead of treating the name as proof that the future will follow it.
 
@@ -56,6 +56,8 @@ ExistingAdvancedmodelscope and Foundation methodology retained; no unsupportedco
 Keep the saved household fixed; display one supported early/later return path, change only the intended assumption, read the first changed funding year and return to Current. Narration: “This is the one belief we are testing. These household choices stayed the same. Which decision becomes harder under this path?” Show actual methodology/resultidentity; no syntheticvolatilityorproviderprobability.
 
 The demonstration is a prepared instruction, not evidence that the app, device, provider or professional action has occurred. Match the actual input and result before recording.
+
+September 10 follow-up: see [the targeted change record](../delivery/script-finishing-20260910.md) and [source verification](../reference/script-finishing-sources.md). This supplements, rather than re-dates, the earlier technical review.
 
 ### Member checkpoint
 

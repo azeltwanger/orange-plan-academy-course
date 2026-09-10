@@ -1,6 +1,6 @@
 # Status — consolidated scripts for recording review
 
-The written consolidation is complete: **25 main scripts plus eight situation-specific scripts**. The 32 other recording drafts use condensed or retained source teaching; the accepted Reserve is byte-identical. The former 65 teaching topics are accounted for in `production/consolidation.json`. Thirty-two old files are retired from the active script and generated reading trees, not hidden as another required course.
+The written consolidation is complete: **25 main scripts plus eight situation-specific scripts**. The 32 other recording drafts use condensed or retained source teaching; the accepted Reserve retains its example and reasoning with limited language edits. The former 65 teaching topics are accounted for in `production/consolidation.json`. Thirty-two old files are retired from the active script and generated reading trees, not hidden as another required course.
 
 The main recordings retain the sequence: get started and build the first plan; cash flow and Reserve; debt; allocation and contributions; tax; retirement income; custody; family protection; maintenance and final review. Consecutive lessons that were working toward one decision now form one explanation. New introductions and repeated recaps are cut rather than concatenated.
 
@@ -21,3 +21,7 @@ The previous capture register remains an unchanged evidence record. Current scri
 Austin's final spoken read-through and any specific voice/judgment corrections, actual recording, and later editing. Product-dependent teaching and walkthrough footage need the relevant approved build, inputs and real results. Device instructions need the exact safe procedure and scoped evidence. Targeted transaction, account, coverage or legal facts still need their applicable review.
 
 No new person has independently taken this course or built a plan during this pass. Source-based editing and software checks do not establish a sixth-grade reading certification, learner outcome, $3,000 value claim or released course-platform experience. Current references and the technical report retain their actual review dates; no new licensed approval is claimed.
+
+## September 10 targeted follow-up
+
+The borrowing and insurance passages now use Austin's latest approved reasoning. The annual spending lesson demonstrates the risk-based review through spending and Reserve decisions; hypothetical solver results remain labeled. Remaining voice edits, missing-basis consequences and security ordering are patched. [What changed and what Claude should cross-check](delivery/script-finishing-20260910.md). The source household, original dictation, toolkit and app/device capture evidence remain unchanged. This is the owner-review manuscript, not new footage or student launch approval.
