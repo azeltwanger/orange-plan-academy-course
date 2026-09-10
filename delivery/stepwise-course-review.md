@@ -1,6 +1,6 @@
 # Can a normal person build and maintain a retirement plan with this course?
 
-**This records the first stepwise pass.** Austin subsequently found its delivery too much like an instruction manual and asked for conversational introductions, transitions and handoffs. The figures below describe that earlier candidate. The current combined manuscript is [ALL-FILMING-SCRIPTS.md](../ALL-FILMING-SCRIPTS.md); [current metrics](../COURSE-METRICS.md) and [the conversational correction](../production/CONVERSATIONAL-VOICE-PASS.md) govern the later revision. The learner-pilot questions below still apply.
+**This records the first stepwise pass.** Austin subsequently found its delivery too much like an instruction manual and asked for conversational introductions, transitions and handoffs. The figures below describe that earlier candidate. The current combined manuscript is [ALL-FILMING-SCRIPTS.md](../ALL-FILMING-SCRIPTS.md); [current metrics](../filming/COURSE-METRICS.md) and [the conversational correction](../production/CONVERSATIONAL-VOICE-PASS.md) govern the later revision. The learner-pilot questions below still apply.
 
 The previous manuscript did not reliably establish that. It explained many topics, but the action often arrived late, the app work lived elsewhere, and a beginner could finish a video without knowing whether the planning step was complete. The redesigned course now makes the task, decision criteria, implementation and finish visible. Actual beginner use with the finished app remains untested.
 

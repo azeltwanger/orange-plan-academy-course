@@ -128,8 +128,29 @@ class FilmingPack(unittest.TestCase):
         self.assertIn(course.APP_SHA, text)
         self.assertIn('issuecomment-5618008737', text)
         self.assertIn('not an assertion', text)
-        self.assertIn('Every row remains unverified', self.generated['WALKTHROUGH-CAPTURE-DEPENDENCIES.md'])
+        self.assertIn('Every row remains unverified', self.generated['filming/WALKTHROUGH-CAPTURE-DEPENDENCIES.md'])
         self.assertEqual(hashlib.sha1(b'blob '+str(len((ROOT/'CAPTURE-RECEIPTS.md').read_bytes())).encode()+b'\0'+(ROOT/'CAPTURE-RECEIPTS.md').read_bytes()).hexdigest(), '3f2593d83d57f979070b0d1dae95a958671263af')
+
+    def test_recording_layout_does_not_restore_superseded_views(self):
+        self.assertIn('ALL-FILMING-SCRIPTS.md', self.generated)
+        for name in course.FILMING_FILES:
+            self.assertIn('filming/' + name, self.generated)
+            self.assertNotIn(name, self.generated)
+        for name in course.RETIRED_GENERATED_FILES:
+            self.assertNotIn(name, self.generated)
+        for directory in course.RETIRED_GENERATED_DIRS:
+            self.assertFalse(any(path.startswith(directory + '/') for path in self.generated))
+        with tempfile.TemporaryDirectory() as tmp:
+            root = Path(tmp)
+            for name in course.RETIRED_GENERATED_FILES + course.FILMING_FILES + ('lesson-text/duplicate.md', 'modules/00.md'):
+                path = root / name
+                path.parent.mkdir(parents=True, exist_ok=True)
+                path.write_text('old duplicate', encoding='utf-8')
+                with self.subTest(path=name), self.assertRaisesRegex(ValueError, 'Retired'):
+                    course.check(root)
+                with self.subTest(build_path=name), self.assertRaisesRegex(ValueError, 'Retired'):
+                    course.build(root)
+                path.unlink()
 
 
 if __name__ == '__main__':

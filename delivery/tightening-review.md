@@ -13,7 +13,7 @@ Comparison with commit `10e5529493ec6cd03c2ee51d73f2dbbd3b38049a`, the generic-l
 | Walkthrough narration | 11,248 words | 9,005 words | 2,243 words (19.9%) |
 | All spoken text | 42,947 words | 32,850 words | 10,097 words (23.5%) |
 
-The inventory remains 25 main and eight conditional teaching scripts, with 72 takes across ten app walkthroughs and one device demonstration. Word counts describe the manuscript, not recorded delivery or the time a member needs to implement the plan. Original and current long-term counts remain available in [the generated metrics](../COURSE-METRICS.md).
+The inventory remains 25 main and eight conditional teaching scripts, with 72 takes across ten app walkthroughs and one device demonstration. Word counts describe the manuscript, not recorded delivery or the time a member needs to implement the plan. Original and current long-term counts remain available in [the generated metrics](../filming/COURSE-METRICS.md).
 
 ## Changes a member will notice
 

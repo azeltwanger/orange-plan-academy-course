@@ -22,6 +22,45 @@ ADV_IDS = ['2.5', 'A3.1', 'A3.2', 'A5.1', 'A5.2', 'A6.3', 'A7.1', 'A8.1']
 PRACTICAL_IDS = ['W01','W02','W03','W04','W05','W06','W07','D07','W08','W09','W10']
 ALL_IDS = CORE_IDS + ADV_IDS + PRACTICAL_IDS
 NAMES = ['Start here','First working plan','Cash flow, reserve and life events','Debt and leverage','Allocation and the next dollar','Tax strategy','Retirement paycheck','Custody','Family handoff','Maintenance','Read and share your plan']
+FILMING_FILES = (
+    'DICTATION-ORDER.md', 'FILM-ORDER.md', 'COURSE-METRICS.md',
+    'COURSE-STEP-MAP.md', 'TEACHING-OVERLAYS.md',
+    'WALKTHROUGH-CAPTURE-DEPENDENCIES.md', 'WALKTHROUGH-SCRIPTS.md',
+    'MODULE-CHECKPOINTS.md', 'PRODUCTION-CHECKLIST.md',
+)
+RETIRED_GENERATED_FILES = (
+    'MASTER-COURSE.md', 'MASTER-ADVANCED.md', 'ALL-SCRIPTS.md',
+    'CIRCLE-STRUCTURE.md', 'SCREEN-SHOOT-LIST.md', 'ADVANCED-DICTATION-ORDER.md',
+)
+RETIRED_GENERATED_DIRS = ('lesson-text', 'modules')
+
+
+def filming_layout(text: str, old_path: str, new_path: str) -> str:
+    """Relocate existing relative links along with their recording aid."""
+    def relocate(match):
+        link = match.group(1)
+        if '://' in link or link.startswith(('#', 'mailto:')):
+            return match.group(0)
+        path, sep, anchor = link.partition('#')
+        destination = posixpath.normpath(posixpath.join(posixpath.dirname(old_path), path))
+        if destination in FILMING_FILES:
+            destination = 'filming/' + destination
+        if destination in RETIRED_GENERATED_FILES:
+            destination = 'ALL-FILMING-SCRIPTS.md'
+            sep = anchor = ''
+        relative = posixpath.relpath(destination, posixpath.dirname(new_path) or '.')
+        return '](' + relative + (sep + anchor if sep else '') + ')'
+    return re.sub(r'\]\(([^)]+)\)', relocate, text)
+
+
+def check_layout(root: Path) -> None:
+    for path in RETIRED_GENERATED_FILES + FILMING_FILES:
+        if (root / path).exists():
+            raise ValueError('Retired root recording view restored: ' + path)
+    for directory in RETIRED_GENERATED_DIRS:
+        if (root / directory).exists() and any(p.is_file() for p in (root / directory).rglob('*')):
+            raise ValueError('Retired duplicate directory restored: ' + directory)
+
 CHAPTERS = {'0.1': 'Orientation; begin your own plan', '1.2': 'W01 chapters 1–7', '1.4': 'W01 chapter 8', '1.5': 'W01 chapters 9–10, including Ask when available', '2.1': 'W02 chapters 1–3', '2.3': 'W02 chapters 4–5', '2.4': 'W02 chapter 6', '3.1': 'W03 chapters 1 and 3', '3.4': 'W03 chapter 4', '3.6': 'W03 chapters 2 and 5–6', '4.3': 'W04 chapters 1–3', '4.5': 'W04 chapters 5–6', '4.7': 'W04 chapters 4 and 7–8', '5.1': 'W05 chapter 1; chapter 2 only when records need repair', '5.4': 'W05 chapters 3–4; chapters 5–6 for a relevant transaction', '6.1': 'W06 chapters 1–2 and 4', '6.3': 'W06 chapter 3', '6.6': 'W06 chapter 6', '6.8': 'W06 chapters 5 and 7–8', '7.1': 'W07 chapter 1', '7.2': 'W07 chapters 2–3 and D07 only for the applicable safe setup', '8.1': 'W07 chapter 4 and W08 chapters 1–4', '8.4': 'W08 chapter 5', '9.1': 'W09 chapters 1–5', '10.1': 'W10 chapters 1–5'}
 CONSOLIDATION_PIN = 'c4c55601dfdaa893343623a75f478cbbfef120ad'
 CHAPTERS.update({
@@ -252,18 +291,7 @@ def outputs(root: Path) -> dict[str,str]:
         'counts':{'core':25,'advanced':8,'working_sessions':10,'device_demos':1},
         'member_labels':{'core':'Main path','advanced':'For your situation'},'member_order':order,
         'merged_lessons':[MERGED_LESSON],'consolidation_record':'production/consolidation.json','lessons':records},indent=2,ensure_ascii=False)
-    intro='Generated from `scripts/`. Each lesson states the task, explains the decision, and hands off to a separate walkthrough. Only Read aloud is teaching speech; overlays and production notes are not spoken. The slide steps supply the sequence.\n\n'
-    result['MASTER-COURSE.md']='# Main course — 25 recording scripts and source notes\n\n'+intro+'\n\n---\n\n'.join(render_links(by[x]['text'].strip(),by[x]['path'],'MASTER-COURSE.md') for x in CORE_IDS)
-    result['MASTER-ADVANCED.md']='# For your situation — eight focused recordings\n\n'+intro+'Use only the lesson relevant to your decision, before depending on that strategy. This is not a second course.\n\n'+'\n\n---\n\n'.join(render_links(by[x]['text'].strip(),by[x]['path'],'MASTER-ADVANCED.md') for x in ADV_IDS)
-    spoken='# Recording scripts — one main path\n\n25 main scripts, with eight For your situation scripts routed beside the relevant decision. Titles and navigation are not spoken. Individual teleprompter files contain only narration.\n\n'
-    for x in order:
-        r=by[x]; label=f"{CORE_IDS.index(x)+1:02d}" if x in CORE_IDS else 'For your situation'
-        if x in routes:
-            rr=routes[x];spoken+=f"*{rr['when']} {rr['before']} Return to {rr['return']}.*\n\n"
-        spoken+=f"## {label} — {r['title']}\n\n{r['read']}\n\n---\n\n"
-    result['ALL-SCRIPTS.md']=spoken
     for r in rows:
-        result['lesson-text/'+r['path'].split('scripts/',1)[1]]=r['text']
         if r['read']:result[read_link(r)]=r['read']
     reading='# Recording order — 25 main lessons\n\nEach lesson gives the action and the judgment needed to complete it. Film teaching and its walkthrough separately. The eight For your situation lessons appear beside the decision they support. [Start filming](START-FILMING.md) · [Slide-step map](COURSE-STEP-MAP.md) · [Teaching overlays](TEACHING-OVERLAYS.md).\n\n'
     film='# Teaching and separate walkthrough pairing\n\nRecord the teaching from its clean teleprompter file; use the source script for overlay cues. Film each paired app chapter as a separate take once the future PR #227 workflow is verified. Keep both recordings together on the lesson page.\n\n[All walkthrough scripts](WALKTHROUGH-SCRIPTS.md) · [Capture dependencies](WALKTHROUGH-CAPTURE-DEPENDENCIES.md).\n\n'
@@ -271,37 +299,31 @@ def outputs(root: Path) -> dict[str,str]:
         selected=[x for x in CORE_IDS if x.startswith(str(m)+'.')]
         if not selected:continue
         reading+=f'## {NAMES[m]}\n\n';film+=f'## {NAMES[m]}\n\n'
-        module=f'# {NAMES[m]}\n\n'+intro
         for x in selected:
             r=by[x];number=CORE_IDS.index(x)+1
             reading+=f"### {number:02d} — [{r['title']}]({r['path']})\n\n{section(r['text'],'Do this')}\n\n[Clean teaching teleprompter]({read_link(r)})\n\n**Separate walkthrough:** {CHAPTERS[x]}.\n\n"
             film+=f"### {number:02d} — [{r['title']}]({r['path']})\n\n**Separate app capture:** {CHAPTERS[x]}.\n\n"
-            module+=render_links(r['text'],r['path'],f'modules/{m:02d}.md')+'\n\n---\n\n'
             for a in ADV_IDS:
                 if routes[a]['after']==x:
                     card=situation_card(by[a])+f"**Separate walkthrough:** {CHAPTERS[a]}. [Script and overlay cues]({by[a]['path']}).\n\n"
-                    reading+=card;film+=card;module+=render_links(by[a]['text'],by[a]['path'],f'modules/{m:02d}.md')+'\n\n---\n\n'
-        result[f'modules/{m:02d}.md']=module
-    reading+='## Recording and source notes\n\n[Situation-specific recordings](ADVANCED-DICTATION-ORDER.md) · [Walkthrough pairing](FILM-ORDER.md) · [Earlier consolidation](delivery/consolidation.md). Internal IDs are source references, not extra videos. [Austin’s current direction](reference/owner-stepwise-direction-20260910.md) governs this step-by-step revision.\n'
+                    reading+=card;film+=card
+    reading+='## Recording and source notes\n\nThe conditional recordings appear beside their relevant main lesson above. [All scripts](ALL-FILMING-SCRIPTS.md) · [Walkthrough pairing](FILM-ORDER.md) · [Earlier consolidation](delivery/consolidation.md). Internal IDs are source references, not extra videos. [Austin’s current direction](reference/owner-stepwise-direction-20260910.md) governs this revision.\n'
+    reading+='\nTask references for [custom assumptions](reference/custom-assumptions.md), [state moves](reference/state-move.md) and [Bitcoin output management](reference/bitcoin-output-management.md) remain available when relevant. They are not extra recordings required for every member.\n'
     result['DICTATION-ORDER.md']=reading
-    extra='# For your situation — eight recordings\n\nUse the relevant instruction when your plan needs it. No separate course, homework or required reading for unrelated situations.\n\n'
-    for x in ADV_IDS:
-        r=by[x];rr=routes[x]
-        extra+=f"## [{r['title']}]({r['path']})\n\n{rr['when']} {rr['before']}\n\n[Clean teaching teleprompter]({read_link(r)})\n\n**Separate walkthrough:** {CHAPTERS[x]}.\n\n**Return to:** {rr['return']}.\n\n"
-    extra+='## Task references, not extra recording assignments\n\nExisting material on [custom assumptions](reference/custom-assumptions.md), [state moves](reference/state-move.md) and [Bitcoin output management](reference/bitcoin-output-management.md) is retained for those particular tasks. It is not part of the 33-video filming list or a requirement for every member.\n'
-    result['ADVANCED-DICTATION-ORDER.md']=extra
     film+='## Working files\n\n'+''.join(f"- [{x} — {by[x]['title']}]({by[x]['path']})\n" for x in PRACTICAL_IDS)
     film+='\nW04 pairs chapters 1–3, then 5–6, then 4/7–8 with the teaching sequence. W06 pairs 1–2/4, then 3, then 6, then 5/7–8. The older accepted Reserve, W02 and D07 remain preserved as historical references. The active files implement Austin’s new step-by-step direction. No filming evidence is created by this edit.\n'
     result['FILM-ORDER.md']=film
-    result['CIRCLE-STRUCTURE.md']=film.replace('# Teaching and separate walkthrough pairing','# Member playback — teaching followed by implementation',1)
-    result['SCREEN-SHOOT-LIST.md']='# Separate app and device capture\n\nThe 33 teaching scripts are separate from these ten working sessions and one device demonstration. Use FILM-ORDER.md for the current grouping. Existing capture evidence is still required; no screen, result or operation is staged to match a script.\n\n'+''.join(f"## {x} — {by[x]['title']}\n\n[Run sheet]({by[x]['path']})\n\n{by[x]['checkpoint']}\n\n" for x in PRACTICAL_IDS)
     result['MODULE-CHECKPOINTS.md']='# Apply the teaching in your own Orange Plan\n\nThese are the actual planning actions, not homework, a quiz, a submission or another practice household. Keeping a current choice is valid when it fits.\n\n'+''.join(f"## {by[x]['title']}\n\n"+(f"For your situation: {routes[x]['when']}\n\n" if x in routes else '')+by[x]['checkpoint']+'\n\n' for x in order)
     result['PRODUCTION-CHECKLIST.md']='# Recording status\n\n25 main and eight situational teaching manuscripts with overlays, plus ten app walkthroughs and one device walkthrough. The editorial pass is separate from Austin’s read-through and actual capture evidence. Historical gate labels below identify the subject to verify, not additional generic approval requests. Use the specific [capture dependencies](WALKTHROUGH-CAPTURE-DEPENDENCIES.md) for app/device takes.\n\n| Recording | Script | Text status | Applicable review / capture subject |\n|---|---|---|---|\n'+''.join(f"| {CORE_IDS.index(r['id'])+1 if r['id'] in CORE_IDS else r['id']} | [{r['title']}]({r['path']}) | {review_state(r)} | {r['gate']} |\n" for r in rows)
     main=sum(by[x]['words'] for x in CORE_IDS);extra_words=sum(by[x]['words'] for x in ADV_IDS);before=c['baseline_words']['main'];before_all=sum(c['baseline_words'].values())
     result['COURSE-METRICS.md']=f'# Consolidated course\n\n25 main teaching scripts, eight For your situation scripts. Ten app working-session files and one device demonstration remain separate production work.\n\nMain narration: {main:,} words, compared with {before:,} in the prior owner-delivered 50-script main path: {(1-main/before)*100:.1f}% shorter. Situational narration: {extra_words:,} words. Total: {main+extra_words:,}, compared with {before_all:,} across the prior 65 scripts.\n\nAt an illustrative 140 words/minute, the main text is about {main/140:.0f} minutes; situational text adds about {extra_words/140:.0f} minutes if every extra were used. These are estimates from written words, not measured runtime, including no pauses or app footage. Do not publish a runtime promise before recording.\n\nThe earlier planning target was approximately 22,000–25,000 main words. This draft is longer because some combined decisions retain their technical conditions; it still reduces total narration rather than only renaming files. Lesson count alone is not a comprehension or value claim.\n'
     result.update(filming_outputs(root,rows,CORE_IDS,ADV_IDS,PRACTICAL_IDS,CHAPTERS))
     result['ALL-FILMING-SCRIPTS.md']=combined_scripts(rows,order)
-    return {p:s.replace('\\n','\n').rstrip()+'\n' for p,s in result.items()}
+    arranged={}
+    for path,text in result.items():
+        target='filming/'+path if path in FILMING_FILES else path
+        arranged[target]=filming_layout(text,path,target).replace('\\n','\n').rstrip()+'\n'
+    return arranged
 
 
 def merged_history(root: Path) -> None:
@@ -313,12 +335,13 @@ def merged_history(root: Path) -> None:
     print('PASS: merged A7.2 recovered byte-for-byte; current destinations are 7.1, 8.1 and W07.')
 
 def build(root: Path) -> None:
+    check_layout(root)
     expected=outputs(root)
-    for directory in ['teleprompter','lesson-text','modules']:
+    for directory in ['teleprompter','filming']:
         d=root/directory
         if d.exists():
             for p in d.rglob('*'):
-                if p.is_file() and p.relative_to(root).as_posix() not in expected: raise ValueError('Unexpected file in generated area: '+str(p))
+                if p.is_file() and p.relative_to(root).as_posix() not in expected and p.relative_to(root).as_posix()!='filming/README.md': raise ValueError('Unexpected file in generated area: '+str(p))
     for path,content in expected.items(): write(root,path,content)
     write(root,'ARITHMETIC-CHECKS.json',json.dumps(arithmetic(root),indent=2))
 
@@ -566,6 +589,7 @@ def history(root: Path) -> None:
     print('PASS: all 65 pre-consolidation scripts recovered from pinned history; all destinations recorded.')
 
 def check(root: Path) -> None:
+    check_layout(root)
     expected=outputs(root)
     for path,text in expected.items():
         if not (root/path).exists() or (root/path).read_text(encoding='utf-8')!=text: raise ValueError('Generated layer differs: '+path)
@@ -578,7 +602,7 @@ def check(root: Path) -> None:
         if phrase not in alltext: raise ValueError('Required teaching missing: '+phrase)
     for phrase in ['on this slide','the slide shows','submit your answer','complete the practice case','INSERT SCRIPT']:
         if phrase.lower() in alltext.lower():raise ValueError('Production or homework wording in narration: '+phrase)
-    for path in sorted(set(['README.md','HANDOFF.md','DICTATION-ORDER.md','ADVANCED-DICTATION-ORDER.md','FILM-ORDER.md','CIRCLE-STRUCTURE.md','SCREEN-SHOOT-LIST.md','PRODUCTION-CHECKLIST.md','MASTER-COURSE.md','MASTER-ADVANCED.md']) | {x for x in expected if x.endswith('.md')} | {r['path'] for r in catalog(root)}):
+    for path in sorted(set(['README.md','START-FILMING.md','HANDOFF.md','filming/README.md']) | {x for x in expected if x.endswith('.md')} | {r['path'] for r in catalog(root)}):
         for link in re.findall(r'\]\(([^)]+)\)',(root/path).read_text(encoding='utf-8')):
             if '://' in link or link.startswith('#'):continue
             if not (root/Path(path).parent/link.split('#')[0]).exists():raise ValueError(f'Broken link in {path}: {link}')
@@ -589,7 +613,7 @@ def tests(root: Path) -> None:
     with tempfile.TemporaryDirectory() as tmp:
         copy=Path(tmp)/'course';shutil.copytree(root,copy,ignore=shutil.ignore_patterns('.git','__pycache__'))
         cases=[]
-        p=copy/'ALL-SCRIPTS.md';old=p.read_bytes();p.write_text('stale')
+        p=copy/'ALL-FILMING-SCRIPTS.md';old=p.read_bytes();p.write_text('stale')
         cases.append(('stale generated script',p,old))
         for name,p,old in cases:
             try:check(copy)

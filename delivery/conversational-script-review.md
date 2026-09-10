@@ -1,6 +1,6 @@
 # Conversational scripts and the single recording file
 
-This records the conversational pass before Austin's later generic-label, Teaching 4 and repetition corrections. Its verification counts and lengths describe that earlier candidate. See [the tightening review](tightening-review.md) and [current metrics](../COURSE-METRICS.md) for the latest manuscript.
+This records the conversational pass before Austin's later generic-label, Teaching 4 and repetition corrections. Its verification counts and lengths describe that earlier candidate. See [the tightening review](tightening-review.md) and [current metrics](../filming/COURSE-METRICS.md) for the latest manuscript.
 
 Austin asked for all scripts in one file and clarified that he wanted to sound like himself talking: a lesson introduction, transitions through the explanation and a natural handoff. [ALL-FILMING-SCRIPTS.md](../ALL-FILMING-SCRIPTS.md) is the combined recording document. It places spoken teaching first and labels the production directions separately.
 

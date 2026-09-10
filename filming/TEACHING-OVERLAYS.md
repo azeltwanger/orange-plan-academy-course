@@ -2,7 +2,7 @@
 
 Only the teleprompter text is spoken. Use these short overlays when the matching line is heard. Source scripts contain the full context and example labels.
 
-## 01 — [Build your retirement plan](scripts/00-1_build-a-plan-you-can-use.md)
+## 01 — [Build your retirement plan](../scripts/00-1_build-a-plan-you-can-use.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
@@ -12,7 +12,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | You'll also see some lessons marked For your situation. | Use a strategy? Complete its situation lesson first. | Show the conditional lesson marker. |
 | You can choose a reserve target today | Decision → next action → date | Reveal the three items as the sentence continues. |
 
-## 02 — [Put your starting numbers in one place](scripts/01-2_add-accounts-and-show-what-each-one-owns.md)
+## 02 — [Put your starting numbers in one place](../scripts/01-2_add-accounts-and-show-what-each-one-owns.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
@@ -22,7 +22,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Subtract their $775 contribution, and $500 remains | $1,275 − $775 = $500 remaining | Footnote the $4,000 hypothetical tax provision; this is a teaching calculation. |
 | Their partner has a separate work timeline | One work timeline for each person | Show independent lines without inventing dates. |
 
-## 03 — [Choose assumptions you understand](scripts/01-4_choose-assumptions-you-can-explain.md)
+## 03 — [Choose assumptions you understand](../scripts/01-4_choose-assumptions-you-can-explain.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
@@ -33,7 +33,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Funding through 85 asks something different from funding through 95 | Horizon: include the surviving spouse’s years | Show 85 and 95 as comparison endpoints, not recommendations. |
 | keep spending, contributions and intended retirement timing the same | Change one assumption · Hold household choices fixed | Mark one changed input only. |
 
-## 04 — [Read the result and find the next useful change](scripts/01-5_read-the-first-answer-and-choose-the-next-improvement.md)
+## 04 — [Read the result and find the next useful change](../scripts/01-5_read-the-first-answer-and-choose-the-next-improvement.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
@@ -42,7 +42,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | An account balance can be current | Current balance ≠ current calculation | Use the approved build’s actual state treatment in the walkthrough. |
 | Start with the first year after work stops. | Read one year: income → costs → withdrawals → source | Reveal alongside the spoken sequence. |
 
-## 05 — [Decide what you can afford to save](scripts/02-1_find-the-amount-your-plan-actually-has-available.md)
+## 05 — [Decide what you can afford to save](../scripts/02-1_find-the-amount-your-plan-actually-has-available.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
@@ -53,7 +53,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | bringing it down to $9,600. | Proposed living: $10,800 → $9,600; available: $500 → $1,700 | Keep the proposed spending change distinct from current records. |
 | without reducing the tax ultimately owed | Withholding changes timing; verify tax still due. | Keep beside the relevant action. |
 
-## 06 — [Size the Reserve for the job it has to do](scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md)
+## 06 — [Size the Reserve for the job it has to do](../scripts/02-3_size-the-reserve-for-the-job-it-has-to-do.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
@@ -65,7 +65,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Required payments still need to be made. | Faster Reserve build ↔ slower extra-debt repayment | Show shared cash pool; required payments remain funded. |
 | Recording the plan and setting up that transfer are separate actions. | Save the choice · Arrange the transfer with your bank | Two distinct action states. |
 
-## 07 — [Plan for the changes coming in your life](scripts/02-4_put-future-changes-on-the-timeline.md)
+## 07 — [Plan for the changes coming in your life](../scripts/02-4_put-future-changes-on-the-timeline.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
@@ -74,7 +74,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | you spend the balance you've built | Save before the event → Spend the balance when due | The same money changes jobs over time. |
 | what happens if its price is down when you need to buy? | Funding fallback: another resource · lower cost · later date | Connect flexibility to the actual commitment. |
 
-## 08 — [Choose which debts to pay down](scripts/03-1_measure-the-payment-pressure-you-actually-carry.md)
+## 08 — [Choose which debts to pay down](../scripts/03-1_measure-the-payment-pressure-you-actually-carry.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
@@ -85,7 +85,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Extra principal may shorten the mortgage | Mortgage payoff: principal ends; taxes, insurance and upkeep continue. | Show the continuing costs separately. |
 | That's future available money | After payoff: verify released cash, then choose its next use. | No automatic contribution arrow. |
 
-## 09 — [Decide whether financing is worth it](scripts/03-4_decide-whether-new-financing-improves-the-plan.md)
+## 09 — [Decide whether financing is worth it](../scripts/03-4_decide-whether-new-financing-improves-the-plan.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
@@ -94,7 +94,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Read the fees, changing rates, final balance and repayment source together. | Payment + final balance + repayment source | Full amortizing/interest-only example lives in A3.2. |
 | A smaller purchase, a delay or keeping the current plan | A financing comparison can end with no new loan. | Show alongside the actual alternatives. |
 
-## 10 — [Set borrowing limits and a repayment plan](scripts/03-6_write-the-rules-before-using-leverage.md)
+## 10 — [Set borrowing limits and a repayment plan](../scripts/03-6_write-the-rules-before-using-leverage.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
@@ -103,7 +103,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Adding collateral also needs a limit. | Maximum added collateral · Response at that limit | Do not imply an unlimited top-up commitment. |
 | Monitoring helps you notice a problem. | Response needs resources + access + time | Keep the forced-sale limitation in narration. |
 
-## 11 — [Build the whole portfolio around your life](scripts/04-3_match-the-money-to-when-you-will-use-it.md)
+## 11 — [Build the whole portfolio around your life](../scripts/04-3_match-the-money-to-when-you-will-use-it.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
@@ -114,7 +114,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | the remaining investments can have a longer runway. | 4 · Choose the remaining investments | Show purpose / access / risk / cost. |
 | Before settling on the mix, I'd look at a severe decline in dollars. | 5 · Test the loss and the bills | Illustration: 50% × 75% = 37.5%; other assets unchanged. |
 
-## 12 — [Choose accounts and compare Traditional with Roth](scripts/04-5_choose-the-account-that-can-do-the-job.md)
+## 12 — [Choose accounts and compare Traditional with Roth](../scripts/04-5_choose-the-account-that-can-do-the-job.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
@@ -124,7 +124,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Let's say you have $1,000 of pretax earnings | Illustration: $1,000 Traditional / $800 Roth | Animate tax now, doubling, tax later. |
 | There's one immediate effect to check before we finish: the paycheck. | 4 · Confirm take-home cost | Show the tax difference beside the same cash-flow budget. |
 
-## 13 — [Choose where new money goes and what it buys](scripts/04-7_tell-each-account-what-to-buy-and-finish-the-outside-actions.md)
+## 13 — [Choose where new money goes and what it buys](../scripts/04-7_tell-each-account-what-to-buy-and-finish-the-outside-actions.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
@@ -133,7 +133,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | the target helps us choose what it buys. | 3 · Amount → account → investment | Show target shortfall separately from available cash. |
 | the first deposit and purchase are worth checking. | 4 · Confirm deposit AND purchase | Two completion checks; leave unverified outside actions open. |
 
-## 14 — [Understand a sale and choose the relevant tax action](scripts/05-1_understand-what-a-sale-would-realize.md)
+## 14 — [Understand a sale and choose the relevant tax action](../scripts/05-1_understand-what-a-sale-would-realize.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
@@ -143,7 +143,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | we can look at whether a sale serves a tax purpose. | 2 · Gain harvest / loss harvest / keep holding | Add actual-year income and replacement checks. |
 | we're taking forward a decision with a reason. | 3 · Prepare a sale / keep holding / resolve evidence | Transaction instructions and reconciliation follow in A5.2. |
 
-## 15 — [Use tax timing to compare withdrawals and Roth conversions](scripts/05-4_compare-conversions-with-intentional-withdrawals.md)
+## 15 — [Use tax timing to compare withdrawals and Roth conversions](../scripts/05-4_compare-conversions-with-intentional-withdrawals.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
@@ -154,7 +154,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Now we have a useful set of choices: | 4 · No conversion / smaller / proposed | Same lifestyle and return assumptions. |
 | Before a conversion is executed, required distributions | 5 · Verify records and transaction | RMD separate; Form 8606; access; tax funding. |
 
-## 16 — [Build the retirement paycheck across the important years](scripts/06-1_define-spending-reliable-income-and-the-gap.md)
+## 16 — [Build the retirement paycheck across the important years](../scripts/06-1_define-spending-reliable-income-and-the-gap.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
@@ -164,7 +164,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | the timeline shows us where the source may need to change. | 4 · Trace the important years | [Client]: 52 → 59½ = 7½ years; [Partner] has separate dates. |
 | Now we can follow the withdrawal itself. | 5 · Account → investment sold → cash for bills | Distinguish account order and asset sale order. |
 
-## 17 — [Budget healthcare and its tax effects](scripts/06-3_price-healthcare-before-leaving-employer-coverage.md)
+## 17 — [Budget healthcare and its tax effects](../scripts/06-3_price-healthcare-before-leaving-employer-coverage.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
@@ -174,7 +174,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | The enrollment dates are the other part | 4 · Confirm enrollment and HSA dates | COBRA / Part B; Part A effective date / HSA eligibility. |
 | The walkthrough puts the selected costs and dates | 5 · Fund each coverage period | Show annual cost and any outstanding confirmation. |
 
-## 18 — [Compare selling, borrowing and other funding](scripts/06-6_compare-selling-borrowing-and-using-other-resources.md)
+## 18 — [Compare selling, borrowing and other funding](../scripts/06-6_compare-selling-borrowing-and-using-other-resources.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
@@ -184,7 +184,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | We also need to follow the loan through its exit. | 4 · Follow the debt through repayment | Include sale tax and resources remaining. |
 | we'll read the plan effect and added risk together. | 5 · Plan effect + risk added | No fabricated risk frequency or provider safety score. |
 
-## 19 — [Manage spending and the Reserve through changing markets](scripts/06-8_turn-the-retirement-plan-into-an-annual-spending-decision.md)
+## 19 — [Manage spending and the Reserve through changing markets](../scripts/06-8_turn-the-retirement-plan-into-an-annual-spending-decision.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
@@ -196,7 +196,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Waiting needs a funded response before the balance reaches the floor: | 4 · Fund the refill before the floor | Show source and tax separately. |
 | The walkthrough connects the annual budget | 5 · Adopt the budget and review date | No automatic spending change. |
 
-## 20 — [Choose a custody arrangement you can maintain](scripts/07-1_choose-who-controls-each-part-of-the-bitcoin.md)
+## 20 — [Choose a custody arrangement you can maintain](../scripts/07-1_choose-who-controls-each-part-of-the-bitcoin.md)
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
@@ -205,7 +205,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Then 60% shares that dependency. | Hypothetical: 30% + 30% = 60% shared exposure | Connect two providers to one custodian; label exposure, not loss. |
 | Choose one improvement that addresses the largest failure you found. | Custody direction / agreed person / next action | End on the non-secret custody record. |
 
-## 21 — [Protect access and verify recovery](scripts/07-2_prove-recovery-before-meaningful-money-depends-on-it.md)
+## 21 — [Protect access and verify recovery](../scripts/07-2_prove-recovery-before-meaningful-money-depends-on-it.md)
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
@@ -216,7 +216,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Set up and test the legitimate backup sign-in method before removing the working one. | Add backup access → test it → review old access | Reveal in order. |
 | Anything unverified gets a specific safe next step. | Setup / method / date / result / safe next step | Show the non-secret status record. |
 
-## 22 — [Make it possible for someone else to manage the plan](scripts/08-1_choose-the-people-and-put-the-legal-baseline-in-place.md)
+## 22 — [Make it possible for someone else to manage the plan](../scripts/08-1_choose-the-people-and-put-the-legal-baseline-in-place.md)
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
@@ -227,7 +227,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Then rehearse the first steps with the intended person. | Find page → first contact → backup → repair unclear step | One rehearsal after the complete handoff is ready. |
 | Any missing authority, access or instruction stays assigned to a person and next step. | Open item / responsible person / next step | End on actual status. |
 
-## 23 — [Cover the risks your household cannot afford to carry](scripts/08-4_identify-the-risks-you-will-transfer-or-carry.md)
+## 23 — [Cover the risks your household cannot afford to carry](../scripts/08-4_identify-the-risks-you-will-transfer-or-carry.md)
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
@@ -238,7 +238,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | If the applicable home or auto policy pays $500,000 and the umbrella pays another $1 million, the household still faces $500,000. | Hypothetical covered claim: $2m − $500k − $1m = $500k | Label assumed responding coverage. |
 | Update the related costs in Orange Plan, and record the provider confirmation and effective date when coverage changes. | Plan costs / confirmed coverage / effective date | End on the existing implementation record. |
 
-## 24 — [Keep the plan current without starting over](scripts/09-1_keep-a-quiet-month-simple.md)
+## 24 — [Keep the plan current without starting over](../scripts/09-1_keep-a-quiet-month-simple.md)
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
@@ -248,7 +248,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Separating those tells us where to begin. | Changed fact: update / wrong record: repair / possibility: Scenarios | Keep the three classifications beside their spoken examples. |
 | After any review, keep a short record of what changed and why, including who will finish any outside action and when. | Decision / reason / open action / person / timing | End on the review record. |
 
-## 25 — [Read your completed plan and finish the next actions](scripts/10-1_read-the-completed-plan-in-a-useful-order.md)
+## 25 — [Read your completed plan and finish the next actions](../scripts/10-1_read-the-completed-plan-in-a-useful-order.md)
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
@@ -258,7 +258,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | From there, read your response rules. | Spending response / Reserve refill / borrowing obligations if used | Show adopted rules and their funding. |
 | Separate the next implementation step from a question that blocks a major decision. | Next action / blocking question | End on what remains to be done, without creating a course assessment. |
 
-## 2.5 — [Choose the college support you intend to fund](scripts/02-5_decide-how-much-college-help-you-will-provide.md)
+## 2.5 — [Choose the college support you intend to fund](../scripts/02-5_decide-how-much-college-help-you-will-provide.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
@@ -269,7 +269,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | There isn't another $850 available | $1,700 = $500 Reserve + $1,200 extra card | Show proposed college claim separately, unassigned. |
 | Recalculate the gap and the time remaining | Later start = fewer saving months | Do not invent a payoff date. |
 
-## A3.1 — [Manage a Bitcoin-backed loan, including repeat borrowing](scripts/advanced/A3-1_build-a-bitcoin-loan-operating-sheet-from-the-actual-contract.md)
+## A3.1 — [Manage a Bitcoin-backed loan, including repeat borrowing](../scripts/advanced/A3-1_build-a-bitcoin-loan-operating-sheet-from-the-actual-contract.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
@@ -285,7 +285,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Another 12% brings it to $59,360. | Repeat draws: $25,000 → $28,000 → $53,000 → $59,360 | Separate recurring-loan illustration; $9,360 interest total. |
 | the provider will remain solvent | Model result does not certify provider solvency or transfer timing. | One concise limitation beside the result. |
 
-## A3.2 — [Read the terms of the loan you are considering](scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md)
+## A3.2 — [Read the terms of the loan you are considering](../scripts/advanced/A3-2_compare-financing-terms-that-a-simple-payment-hides.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 |---|---|---|
@@ -296,7 +296,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | needs its actual settlement formula. | Shared appreciation: lower / unchanged / higher home values | Use the actual contract formula. |
 | keep separate analysis beside the scenario | Unsupported contract term → separate analysis before choosing | Do not stage a complete-model claim. |
 
-## A5.1 — [Compare Roth conversions over several years](scripts/advanced/A5-1_build-a-multi-year-conversion-comparison.md)
+## A5.1 — [Compare Roth conversions over several years](../scripts/advanced/A5-1_build-a-multi-year-conversion-comparison.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
@@ -306,7 +306,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | We're comparing total after-tax resources on the same dates, | 3 · After-tax resources + accessible cash | Include opportunity cost of tax payments. |
 | The schedule includes a yearly review before the transaction deadline. | 4 · Recheck the actual year | No automatic fixed conversion schedule. |
 
-## A5.2 — [Prepare the records and instructions for a tax-sensitive sale](scripts/advanced/A5-2_prepare-a-harvesting-transaction-that-matches-the-tax-record.md)
+## A5.2 — [Prepare the records and instructions for a tax-sensitive sale](../scripts/advanced/A5-2_prepare-a-harvesting-transaction-that-matches-the-tax-record.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
@@ -316,7 +316,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | For a loss harvest, the replacement is part of that preparation. | 4 · Review replacements and the whole tax year | Include automatic buying and IRA consequences. |
 | After execution, the trade confirmation lets us check | 5 · Confirm used and remaining lots | Inspect tax-data export; not a filed form. |
 
-## A6.3 — [Check access to retirement accounts before 59½](scripts/advanced/A6-3_verify-an-early-retirement-account-access-route.md)
+## A6.3 — [Check access to retirement accounts before 59½](../scripts/advanced/A6-3_verify-an-early-retirement-account-access-route.md)
 
 | Exact spoken cue | Overlay copy | Editor treatment |
 | --- | --- | --- |
@@ -326,7 +326,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | The required period generally runs until | SEPP illustration: 58 → 63 | Exact-birthday duration only; no payment calculation. |
 | In the walkthrough, we'll connect the route | 3 · Keep evidence and invalidating actions | Return to actual funding years. |
 
-## A7.1 — [Compare passphrase, multisig and professional support](scripts/advanced/A7-1_compare-passphrase-multisig-and-professional-support.md)
+## A7.1 — [Compare passphrase, multisig and professional support](../scripts/advanced/A7-1_compare-passphrase-multisig-and-professional-support.md)
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |
@@ -335,7 +335,7 @@ Only the teleprompter text is spoken. Use these short overlays when the matching
 | Read exactly what the provider can authorize, what it requires, its fees, and how recovery works without it. | Authority / fees / requirements / provider-unavailable route | Use contract headings without invented terms. |
 | Keep the move planned until evidence covers the intended arrangement. | Proposed arrangement / safe test / actual evidence | Keep status separate from a diagram. |
 
-## A8.1 — [Decide whether a trust has a job in the plan](scripts/advanced/A8-1_decide-whether-a-trust-has-a-job-in-the-plan.md)
+## A8.1 — [Decide whether a trust has a job in the plan](../scripts/advanced/A8-1_decide-whether-a-trust-has-a-job-in-the-plan.md)
 
 | Exact spoken cue | Overlay | Editor treatment |
 | --- | --- | --- |

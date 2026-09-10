@@ -1,38 +1,26 @@
 # Start filming
 
-Film the teaching and walkthroughs separately. The lesson page pairs them so a member learns the decision, then implements it.
+**[Open all filming scripts in one file](ALL-FILMING-SCRIPTS.md).** Teaching comes first, in member order; the walkthroughs follow for a separate recording session. Read only **Spoken script** and **Narration** aloud. All other sections are production directions.
 
-The focused scripts use examples selectively. Keep short callbacks to earlier decisions; do not add the full teaching explanation back into its walkthrough. Detailed contract and collateral material belongs in the conditional borrowing recordings. W07 prepares the family map and W08 performs the rehearsal once.
-
-**[Open all scripts in one file](ALL-FILMING-SCRIPTS.md).** It contains every teaching and walkthrough script, with spoken sections first and production directions clearly labeled.
-
-Use **[Client]** and **[Partner]** for names in screenshots, household cards and account labels. Spoken examples use “our example household,” “the client” and “their partner.” The financial examples keep their existing amounts and ownership.
+Film teaching now, then capture each walkthrough when its redesigned app flow is ready. The lesson page pairs the explanation with the relevant implementation takes.
 
 ## Teaching session
 
-1. Open [the recording order](DICTATION-ORDER.md).
-2. Open a lesson's source script to see its task and overlay cues. Read only **Read aloud**, or use its linked clean teleprompter file.
-3. Record the conversational explanation: the lesson introduction, connected examples and transitions, then the spoken handoff. The detailed task and edit directions are not read aloud.
-4. Give the editor [the overlay list](TEACHING-OVERLAYS.md). Each cue matches words in the recording; the overlays are not extra narration.
+1. Follow the contents in the master, or use the [recording order](filming/DICTATION-ORDER.md) to open individual scripts and clean teleprompter files.
+2. Record the lesson introduction, explanation, transitions, and spoken handoff. Examples are selective; keep callbacks to earlier decisions brief.
+3. Give the editor the master or [teaching overlay cues](filming/TEACHING-OVERLAYS.md). Each cue matches a line in the spoken script.
 
-The scripts include an editorial slop-removal and voice pass using Austin's source dictation. Austin's spoken read-through is the final check of phrasing. Any wording change belongs in the canonical script before regenerating its teleprompter copy.
+Use **[Client]** and **[Partner]** for names in screenshots, household cards, and account labels. Spoken examples use “our example household,” “the client,” and “their partner.” Keep the example amounts and account ownership consistent.
+
+If a line sounds more natural when you say it differently, put that wording into its canonical `scripts/` file and regenerate the recording copies so the editor's cues still match. In a canonical script, the spoken section is called **Read aloud**.
 
 ## Walkthrough session
 
-1. Use [the pairing map](FILM-ORDER.md) to select the chapters for that teaching lesson.
-2. Open [the walkthrough script](WALKTHROUGH-SCRIPTS.md). Each chapter has the screen action, complete narration, overlay, finish check and exact capture dependency.
-3. Verify the relevant redesigned flow before filming. These scripts target the future app described by PR #227; they do not claim that every control has shipped.
-4. Record each chapter as its own take. Use `teleprompter/walkthrough/W01-01.txt` and the equivalent files for speech without production notes. The `W01.txt` files combine the chapter speech for a longer recording session.
-5. Check the actual result and saved state before accepting a take. When an app result differs from illustrative teaching arithmetic, explain the real convention or correct the example; do not stage a result.
+1. Use the [pairing map](filming/FILM-ORDER.md) to select the chapters for the teaching lesson. Their narration and production cues are in the master and the [separate walkthrough scripts](filming/WALKTHROUGH-SCRIPTS.md).
+2. Verify the relevant screen and behavior using [capture dependencies](filming/WALKTHROUGH-CAPTURE-DEPENDENCIES.md). These scripts target the future app described by PR #227. Each take needs its actual flow checked before capture.
+3. Record each chapter as its own take. Links in the separate walkthrough scripts open clean speech files, such as [W01-01](teleprompter/walkthrough/W01-01.txt). The [W01 session file](teleprompter/walkthrough/W01.txt) combines its chapter speech for a longer recording session.
+4. Check the actual result and saved state before accepting a take. If an app result differs from the illustrative arithmetic, explain the real convention or correct the example. Follow D07's exact safe test setup for device footage.
 
-Use [capture dependencies](WALKTHROUGH-CAPTURE-DEPENDENCIES.md) as the shot checklist. A missing app control holds that take, not the rest of the teaching. Device footage needs the exact safe procedure and test setup described in D07.
+Walkthroughs apply the teaching and carry earlier decisions forward. Detailed contract and collateral work follows the relevant conditional lesson. W07 prepares the family map; W08 performs the rehearsal once.
 
-## Files for the editor
-
-- [Teaching master with production notes](MASTER-COURSE.md)
-- [Conditional teaching master](MASTER-ADVANCED.md)
-- [Teaching overlay cues](TEACHING-OVERLAYS.md)
-- [Walkthrough scripts and overlays](WALKTHROUGH-SCRIPTS.md)
-- [Pairing map](FILM-ORDER.md)
-
-The completion check at each lesson is private confirmation that the member has the intended decision or action. It is not another filmed lecture, worksheet assignment or public submission.
+The lesson completion check confirms the member's decision or action. It is not additional narration. The [filming aids index](filming/README.md) collects the remaining editor and production references.

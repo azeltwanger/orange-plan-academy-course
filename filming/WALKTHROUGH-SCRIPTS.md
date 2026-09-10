@@ -2,11 +2,11 @@
 
 These are future-design scripts, prepared against PR #227. Capture each chapter separately after its screen/procedure is verified. Only each Narration block is spoken. The clean files linked below exclude directions, overlays and verification notes.
 
-## W01 — [Build the first working plan](scripts/working/W01_build-the-first-working-plan.md)
+## W01 — [Build the first working plan](../scripts/working/W01_build-the-first-working-plan.md)
 
 ### Chapter 1 — Find the first task · after 0.1
 
-[Clean teleprompter take](teleprompter/walkthrough/W01-01.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W01-01.txt)
 
 **Show:**
 
@@ -34,7 +34,7 @@ PR #227 foundation contract: Home/Plan/Build & improve and Starting Plan states 
 
 ### Chapter 2 — Review accounts and holdings · after 1.2
 
-[Clean teleprompter take](teleprompter/walkthrough/W01-02.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W01-02.txt)
 
 **Show:**
 
@@ -62,7 +62,7 @@ Foundation account-detail and maintenance writer paths, scoped ownership and tru
 
 ### Chapter 3 — Read what the connection supplies · only for a connected account after 1.2
 
-[Clean teleprompter take](teleprompter/walkthrough/W01-03.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W01-03.txt)
 
 **Show:**
 
@@ -90,7 +90,7 @@ D34/D62 capability receipts and financial-fact freshness. Capture requires certi
 
 ### Chapter 4 — Explain a balance-only investment account · only when holdings are missing after 1.2
 
-[Clean teleprompter take](teleprompter/walkthrough/W01-04.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W01-04.txt)
 
 **Show:**
 
@@ -118,7 +118,7 @@ D65 complete balance-only workflow, multi-position entry, classification, estima
 
 ### Chapter 5 — Attach history to what you already own · when relevant records are available after 1.2
 
-[Clean teleprompter take](teleprompter/walkthrough/W01-05.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W01-05.txt)
 
 **Show:**
 
@@ -148,7 +148,7 @@ Certified upload adapter, scoped mapping, transfer ledger, history/position reco
 
 ### Chapter 6 — Enter the starting monthly picture · after 1.2
 
-[Clean teleprompter take](teleprompter/walkthrough/W01-06.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W01-06.txt)
 
 **Show:**
 
@@ -176,7 +176,7 @@ D32/D48 income and withholding semantics, payroll election, business-loan inclus
 
 ### Chapter 7 — Record each person’s retirement question · after 1.2
 
-[Clean teleprompter take](teleprompter/walkthrough/W01-07.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W01-07.txt)
 
 **Show:**
 
@@ -204,7 +204,7 @@ Approved timing/spending owners and date conventions. Source fixture supplies ag
 
 ### Chapter 8 — Read assumptions and test one change · after 1.4
 
-[Clean teleprompter take](teleprompter/walkthrough/W01-08.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W01-08.txt)
 
 **Show:**
 
@@ -232,7 +232,7 @@ Approved Assumptions and Scenarios owners, actual new-plan preset identity, cust
 
 ### Chapter 9 — Read the first complete result · after 1.5
 
-[Clean teleprompter take](teleprompter/walkthrough/W01-09.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W01-09.txt)
 
 **Show:**
 
@@ -260,7 +260,7 @@ D16/D50 preliminary-to-full states, exact standard, successful count, missing-in
 
 ### Chapter 10 — Trace an Ask explanation · after 1.5
 
-[Clean teleprompter take](teleprompter/walkthrough/W01-10.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W01-10.txt)
 
 **Show:**
 
@@ -286,11 +286,11 @@ Actual response is traceable and no saved input changes implicitly. Export is id
 
 Approved Ask route/context/permissions and source links. Market report requires real date and sources; external AI feature requires actual availability and reviewed export schema/privacy. No staged AI answer, connected account action or outside message is authorized by this manuscript.
 
-## W02 — [Verify cash flow, set the Reserve, and add expected events](scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md)
+## W02 — [Verify cash flow, set the Reserve, and add expected events](../scripts/working/W02_verify-cash-flow-set-the-reserve-and-add-expected-events.md)
 
 ### Chapter 1 — Follow the monthly money · after 2.1
 
-[Clean teleprompter take](teleprompter/walkthrough/W02-01.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W02-01.txt)
 
 **Show:**
 
@@ -318,7 +318,7 @@ D32/D48 income/withholding owners, employee election and business payment conven
 
 ### Chapter 2 — Verify spending and bill timing · after 2.1
 
-[Clean teleprompter take](teleprompter/walkthrough/W02-02.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W02-02.txt)
 
 **Show:**
 
@@ -346,7 +346,7 @@ D32 selector methods (12-month average, Typical month, Recent 3-month trend, Man
 
 ### Chapter 3 — Compare a sustainable spending change · after 2.1
 
-[Clean teleprompter take](teleprompter/walkthrough/W02-03.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W02-03.txt)
 
 **Show:**
 
@@ -374,7 +374,7 @@ Approved scenario/preview mechanism, effective-date semantics, return-to-Current
 
 ### Chapter 4 — Set the Reserve target and existing sources · after 2.3
 
-[Clean teleprompter take](teleprompter/walkthrough/W02-04.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W02-04.txt)
 
 **Show:**
 
@@ -402,7 +402,7 @@ D49 reserve role and partial-assignment writer, eligibility, schema reconciliati
 
 ### Chapter 5 — Choose the Reserve pace beside Debt · after 2.3
 
-[Clean teleprompter take](teleprompter/walkthrough/W02-05.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W02-05.txt)
 
 **Show:**
 
@@ -430,7 +430,7 @@ Actual contribution owner, pace save/readback and any affordability display. Fin
 
 ### Chapter 6 — Add an expected event and trace its funding · after 2.4
 
-[Clean teleprompter take](teleprompter/walkthrough/W02-06.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W02-06.txt)
 
 **Show:**
 
@@ -464,7 +464,7 @@ Life-event owner, supported source/account attribution, recurrence, inflation un
 
 ### Chapter 7 — Fit education support beside the same cash · optional after 2.5
 
-[Clean teleprompter take](teleprompter/walkthrough/W02-07.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W02-07.txt)
 
 **Show:**
 
@@ -490,11 +490,11 @@ Resources are allocated once, without changing ownership/beneficiaries. Benchmar
 
 Reviewed dates, education owners/beneficiaries, qualification/tax treatment, timing and any event-specific account attribution. No aid award, return, auto-529 route or hypothetical loan is presumed. Use the worksheet when the exact benchmark is not a supported app result.
 
-## W03 — [Set debt jobs and test one financing decision](scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md)
+## W03 — [Set debt jobs and test one financing decision](../scripts/working/W03_set-debt-jobs-and-test-one-financing-decision.md)
 
 ### Chapter 1 — Verify payments and changing terms · after 3.1
 
-[Clean teleprompter take](teleprompter/walkthrough/W03-01.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W03-01.txt)
 
 **Show:**
 
@@ -524,7 +524,7 @@ PR #227 Debt detail owner/contextual writer, payment schedule and source freshne
 
 ### Chapter 2 — Separate household leverage from loan collateral · after 3.6
 
-[Clean teleprompter take](teleprompter/walkthrough/W03-02.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W03-02.txt)
 
 **Show:**
 
@@ -554,7 +554,7 @@ Exact supported asset denominator and scenario fields. Source partial stress: BT
 
 ### Chapter 3 — Choose and save affordable debt actions · after 3.1
 
-[Clean teleprompter take](teleprompter/walkthrough/W03-03.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W03-03.txt)
 
 **Show:**
 
@@ -582,7 +582,7 @@ Approved future Scenario-to-owner decision flow, extra-payment capacity semantic
 
 ### Chapter 4 — Compare one financing purpose through its exit · only for a proposal after 3.4 and relevant A3.2 sections
 
-[Clean teleprompter take](teleprompter/walkthrough/W03-04.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W03-04.txt)
 
 **Show:**
 
@@ -610,7 +610,7 @@ Reviewed fictional offer/date, taxes/basis, permitted uses and guarantee terms; 
 
 ### Chapter 5 — Size and operate a Bitcoin-backed loan · only after A3.1 when Bitcoin collateral applies
 
-[Clean teleprompter take](teleprompter/walkthrough/W03-05.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W03-05.txt)
 
 **Show:**
 
@@ -640,7 +640,7 @@ Actual contract, advanced modeled terms, saved liquidation selection, cost-accru
 
 ### Chapter 6 — Carry one debt decision into Cash Flow and Allocation · after 3.6
 
-[Clean teleprompter take](teleprompter/walkthrough/W03-06.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W03-06.txt)
 
 **Show:**
 
@@ -672,11 +672,11 @@ Debt and Cash Flow read one saved state. Required payments, Reserve and payroll 
 
 D37 payoff/removal semantics and D32 saving owner; exact source state, schedule, future start/stop and readback. Preserve W04’s existing conditional allocation illustration. No bank or lender action is implied by the planning save.
 
-## W04 — [Route contributions into usable accounts and intended holdings](scripts/working/W04_route-contributions-into-usable-accounts-and-intended-holdings.md)
+## W04 — [Route contributions into usable accounts and intended holdings](../scripts/working/W04_route-contributions-into-usable-accounts-and-intended-holdings.md)
 
 ### Chapter 1 — Read the current whole portfolio — after 4.3
 
-[Clean teleprompter take](teleprompter/walkthrough/W04-01.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W04-01.txt)
 
 **Show:**
 
@@ -704,7 +704,7 @@ Approved Portfolio and allocation route, eligible-assets denominator, spot-fund 
 
 ### Chapter 2 — Choose Bitcoin’s intended role — after 4.3
 
-[Clean teleprompter take](teleprompter/walkthrough/W04-02.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W04-02.txt)
 
 **Show:**
 
@@ -730,7 +730,7 @@ Target Current/Preview availability, existing choice provenance and absence of a
 
 ### Chapter 3 — Build the target from funding needs — after 4.3
 
-[Clean teleprompter take](teleprompter/walkthrough/W04-03.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W04-03.txt)
 
 **Show:**
 
@@ -758,7 +758,7 @@ Canonical Reserve reader, early-access row attribution, target writer, Current/P
 
 ### Chapter 4 — Fit current contributions and future milestones — after 4.7
 
-[Clean teleprompter take](teleprompter/walkthrough/W04-04.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W04-04.txt)
 
 **Show:**
 
@@ -786,7 +786,7 @@ Cash Flow contribution treatment, existing savings and employer match, Reserve/e
 
 ### Chapter 5 — Select a receiving account — after 4.5
 
-[Clean teleprompter take](teleprompter/walkthrough/W04-05.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W04-05.txt)
 
 **Show:**
 
@@ -814,7 +814,7 @@ Actual account type, owner, menu, contribution limits for the applicable year an
 
 ### Chapter 6 — Compare the tax election at equal cost — after 4.5
 
-[Clean teleprompter take](teleprompter/walkthrough/W04-06.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W04-06.txt)
 
 **Show:**
 
@@ -842,7 +842,7 @@ Applicable payroll tax/election evidence, equal-cost versus equal-contribution t
 
 ### Chapter 7 — Tell each account what to buy — after 4.7
 
-[Clean teleprompter take](teleprompter/walkthrough/W04-07.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W04-07.txt)
 
 **Show:**
 
@@ -870,7 +870,7 @@ Supported holding selection, target calculation denominator, next-dollar precisi
 
 ### Chapter 8 — Complete and verify provider instructions — after 4.7
 
-[Clean teleprompter take](teleprompter/walkthrough/W04-08.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W04-08.txt)
 
 **Show:**
 
@@ -896,11 +896,11 @@ Every current provider action has confirmation or a specific owner/date. Future 
 
 Safe synthetic/private evidence workflow, actual provider requirements and a supported non-secret action-status location.
 
-## W05 — [Reconcile tax records and prepare one useful comparison](scripts/working/W05_reconcile-tax-records-and-prepare-one-useful-comparison.md)
+## W05 — [Reconcile tax records and prepare one useful comparison](../scripts/working/W05_reconcile-tax-records-and-prepare-one-useful-comparison.md)
 
 ### Chapter 1 — Read the gain on a proposed sale — after 5.1
 
-[Clean teleprompter take](teleprompter/walkthrough/W05-01.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W05-01.txt)
 
 **Show:**
 
@@ -928,7 +928,7 @@ D54/D58 purchase details and lot-method confirmation, supported sale Preview, cu
 
 ### Chapter 2 — Repair the relevant purchase history — after A5.2
 
-[Clean teleprompter take](teleprompter/walkthrough/W05-02.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W05-02.txt)
 
 **Show:**
 
@@ -956,7 +956,7 @@ Certified import event coverage, duplicate and transfer reconciliation, fees, un
 
 ### Chapter 3 — Find an actual income window — after 5.4
 
-[Clean teleprompter take](teleprompter/walkthrough/W05-03.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W05-03.txt)
 
 **Show:**
 
@@ -984,7 +984,7 @@ Contextual Tax route, year-detail parity, actual birth-year/account inputs, loss
 
 ### Chapter 4 — Compare conversion, withdrawal and no change — after 5.4 / A5.1
 
-[Clean teleprompter take](teleprompter/walkthrough/W05-04.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W05-04.txt)
 
 **Show:**
 
@@ -1014,7 +1014,7 @@ Sole conversion writer, Current/Preview and scenario isolation, total after-tax 
 
 ### Chapter 5 — Prepare a tax-sensitive sale or deliberate pass — after A5.2
 
-[Clean teleprompter take](teleprompter/walkthrough/W05-05.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W05-05.txt)
 
 **Show:**
 
@@ -1042,7 +1042,7 @@ Actual supported candidate calculation, asset/account/year-specific identificati
 
 ### Chapter 6 — Finish the professional and reporting packet — after 5.1 / 5.4 / A5.2
 
-[Clean teleprompter take](teleprompter/walkthrough/W05-06.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W05-06.txt)
 
 **Show:**
 
@@ -1070,11 +1070,11 @@ Packet matches the decision; conversion-only work does not require a taxable-sal
 
 Approved export content, source/realized/remaining-lot consistency, private sharing workflow and reviewed synthetic confirmation.
 
-## W06 — [Build and test the retirement paycheck](scripts/working/W06_build-and-test-the-retirement-paycheck.md)
+## W06 — [Build and test the retirement paycheck](../scripts/working/W06_build-and-test-the-retirement-paycheck.md)
 
 ### Chapter 1 — Build the complete cash need — after 6.1
 
-[Clean teleprompter take](teleprompter/walkthrough/W06-01.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W06-01.txt)
 
 **Show:**
 
@@ -1102,7 +1102,7 @@ Year-detail attribution, canonical income/spending owners, tax-dependent withdra
 
 ### Chapter 2 — Fund the early intervals and benefit dates — after 6.1 / A6.3
 
-[Clean teleprompter take](teleprompter/walkthrough/W06-02.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W06-02.txt)
 
 **Show:**
 
@@ -1130,7 +1130,7 @@ Person/account access model, separation and distribution rules, actual benefit e
 
 ### Chapter 3 — Enter coverage costs and transitions — after 6.3
 
-[Clean teleprompter take](teleprompter/walkthrough/W06-03.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W06-03.txt)
 
 **Show:**
 
@@ -1158,7 +1158,7 @@ Supported expense/life-event timing, coverage calculation scope, actual quotes, 
 
 ### Chapter 4 — Choose the account and investment supplying cash — after 6.1
 
-[Clean teleprompter take](teleprompter/walkthrough/W06-04.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W06-04.txt)
 
 **Show:**
 
@@ -1186,7 +1186,7 @@ Supported account-order/blend and asset-sale controls, access conditions, RMD ru
 
 ### Chapter 5 — Use the Reserve through a difficult sequence — after 6.8
 
-[Clean teleprompter take](teleprompter/walkthrough/W06-05.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W06-05.txt)
 
 **Show:**
 
@@ -1214,7 +1214,7 @@ Canonical Reserve source reader/writer, target/floor basis, modeled refill caden
 
 ### Chapter 6 — Compare sale, other assets and borrowing — after 6.6
 
-[Clean teleprompter take](teleprompter/walkthrough/W06-06.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W06-06.txt)
 
 **Show:**
 
@@ -1242,7 +1242,7 @@ Accepted borrowing parity: rate path, paid/accrued interest, caps, top-up/releas
 
 ### Chapter 7 — Test one decision and read its cause — after 6.8, using 1.5 result literacy
 
-[Clean teleprompter take](teleprompter/walkthrough/W06-07.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W06-07.txt)
 
 **Show:**
 
@@ -1270,7 +1270,7 @@ Approved full-result standard, matching receipt/horizon, Current/Preview isolati
 
 ### Chapter 8 — Save annual spending and the refill decision — after 6.8
 
-[Clean teleprompter take](teleprompter/walkthrough/W06-08.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W06-08.txt)
 
 **Show:**
 
@@ -1298,11 +1298,11 @@ Standing levels and budget remain distinct; annual inflation/cap applies once, s
 
 Dollar-threshold inverse solver and denominator, unsolvable-threshold handling, exact 60/80/95 policy and annual cap/inflation semantics, annual-review Current/Preview, canonical spending/Reserve save and receipt parity.
 
-## W07 — [Document the custody choice and actual recovery status](scripts/working/W07_document-the-custody-choice-and-actual-recovery-status.md)
+## W07 — [Document the custody choice and actual recovery status](../scripts/working/W07_document-the-custody-choice-and-actual-recovery-status.md)
 
 ### Chapter 1 — Choose custody for the household job
 
-[Clean teleprompter take](teleprompter/walkthrough/W07-01.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W07-01.txt)
 
 **Show:**
 
@@ -1330,7 +1330,7 @@ Verify Protect's Bitcoin access and Trusted people fields, ownership context, sa
 
 ### Chapter 2 — Record actual recovery evidence
 
-[Clean teleprompter take](teleprompter/walkthrough/W07-02.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W07-02.txt)
 
 **Show:**
 
@@ -1358,7 +1358,7 @@ Verify the precise Protect recovery fields and actual D07 or funded-wallet evide
 
 ### Chapter 3 — Fix one important account or shared-dependency gap
 
-[Clean teleprompter take](teleprompter/walkthrough/W07-03.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W07-03.txt)
 
 **Show:**
 
@@ -1386,7 +1386,7 @@ Verify the chosen provider's current authentication and recovery controls on an 
 
 ### Chapter 4 — Finish the family starting map
 
-[Clean teleprompter take](teleprompter/walkthrough/W07-04.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W07-04.txt)
 
 **Show:**
 
@@ -1410,11 +1410,11 @@ The non-secret map has a usable starting route or a precise open item. Contacts 
 
 Verify supported Protect map references and linkage to family instructions. Actual helper rehearsal and evidence belong to W08 chapter 3; no export or wallet-restoration claim is made by this chapter.
 
-## D07 — [Prove a wallet backup with a safe test setup](scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md)
+## D07 — [Prove a wallet backup with a safe test setup](../scripts/working/D07_prove-a-wallet-backup-with-a-safe-test-setup.md)
 
 ### Chapter 1 — Identify the isolated practice setup
 
-[Clean teleprompter take](teleprompter/walkthrough/D07-01.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/D07-01.txt)
 
 **Show:**
 
@@ -1442,7 +1442,7 @@ Select and independently review the actual device-specific procedure, including 
 
 ### Chapter 2 — Create the test wallet off camera where secrets appear
 
-[Clean teleprompter take](teleprompter/walkthrough/D07-02.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/D07-02.txt)
 
 **Show:**
 
@@ -1470,7 +1470,7 @@ Verify which exact screens expose secrets and how all capture devices are stoppe
 
 ### Chapter 3 — Explain the recovery requirements
 
-[Clean teleprompter take](teleprompter/walkthrough/D07-03.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/D07-03.txt)
 
 **Show:**
 
@@ -1498,7 +1498,7 @@ Verify exact supported backup and passphrase behavior, compatible restoration to
 
 ### Chapter 4 — Receive a small authorized test amount
 
-[Clean teleprompter take](teleprompter/walkthrough/D07-04.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/D07-04.txt)
 
 **Show:**
 
@@ -1526,7 +1526,7 @@ Confirm inbound-transfer authorization, current receive-verification procedure a
 
 ### Chapter 5 — Check the backup before any destructive step
 
-[Clean teleprompter take](teleprompter/walkthrough/D07-05.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/D07-05.txt)
 
 **Show:**
 
@@ -1554,7 +1554,7 @@ Verify the actual non-destructive or spare-device procedure and failure handling
 
 ### Chapter 6 — Recover the intended wallet within the reviewed test
 
-[Clean teleprompter take](teleprompter/walkthrough/D07-06.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/D07-06.txt)
 
 **Show:**
 
@@ -1582,7 +1582,7 @@ Verify exact restore compatibility, trusted identifier check and authorized isol
 
 ### Chapter 7 — Verify controlled spending and the fee
 
-[Clean teleprompter take](teleprompter/walkthrough/D07-07.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/D07-07.txt)
 
 **Show:**
 
@@ -1610,7 +1610,7 @@ Verify current spending workflow, authorized destination/amount, fee display and
 
 ### Chapter 8 — Record what was proved and what was not
 
-[Clean teleprompter take](teleprompter/walkthrough/D07-08.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/D07-08.txt)
 
 **Show:**
 
@@ -1636,11 +1636,11 @@ Independent secret-free raw/output review and truthful test scope. No manufactur
 
 Obtain actual hardware evidence, independent security review and exact safe record fields before footage release. No capture approval or learner completion is established by this manuscript.
 
-## W08 — [Build and rehearse the family handoff](scripts/working/W08_build-and-rehearse-the-family-handoff.md)
+## W08 — [Build and rehearse the family handoff](../scripts/working/W08_build-and-rehearse-the-family-handoff.md)
 
 ### Chapter 1 — Connect people, documents and beneficiaries
 
-[Clean teleprompter take](teleprompter/walkthrough/W08-01.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W08-01.txt)
 
 **Show:**
 
@@ -1668,7 +1668,7 @@ Verify actual Protect fields and owner scope. Applicable law, signed documents a
 
 ### Chapter 2 — Connect authority to practical access
 
-[Clean teleprompter take](teleprompter/walkthrough/W08-02.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W08-02.txt)
 
 **Show:**
 
@@ -1696,7 +1696,7 @@ Verify provider procedures, supported Bitcoin access fields and the actual house
 
 ### Chapter 3 — Write and rehearse the first-page handoff
 
-[Clean teleprompter take](teleprompter/walkthrough/W08-03.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W08-03.txt)
 
 **Show:**
 
@@ -1724,7 +1724,7 @@ Verify editor/save behavior, Plan packet output and permitted references to exis
 
 ### Chapter 4 — Verify the communication backstop
 
-[Clean teleprompter take](teleprompter/walkthrough/W08-04.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W08-04.txt)
 
 **Show:**
 
@@ -1752,7 +1752,7 @@ Verify Check-in plan enablement, scheduling, consent, cancellation and real deli
 
 ### Chapter 5 — Complete the risk and insurance decision
 
-[Clean teleprompter take](teleprompter/walkthrough/W08-05.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W08-05.txt)
 
 **Show:**
 
@@ -1780,11 +1780,11 @@ Actual benefits, needs and resources stay distinct; no invented insurance solver
 
 Verify applicable Cash Flow/Life event fields and current policy evidence. Qualified review is specific to unresolved terms or the chosen transaction; no blanket attorney gate.
 
-## W09 — [Complete a monthly review and an annual review](scripts/working/W09_complete-a-monthly-review-and-an-annual-review.md)
+## W09 — [Complete a monthly review and an annual review](../scripts/working/W09_complete-a-monthly-review-and-an-annual-review.md)
 
 ### Chapter 1 — Complete a quiet monthly review
 
-[Clean teleprompter take](teleprompter/walkthrough/W09-01.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W09-01.txt)
 
 **Show:**
 
@@ -1814,7 +1814,7 @@ Verify Home issue/source state, How this account updates, Cash Flow source perio
 
 ### Chapter 2 — Resolve one meaningful exception
 
-[Clean teleprompter take](teleprompter/walkthrough/W09-02.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W09-02.txt)
 
 **Show:**
 
@@ -1844,7 +1844,7 @@ Verify account-context actions, source coverage, history/balance reconciliation 
 
 ### Chapter 3 — Complete the annual system review
 
-[Clean teleprompter take](teleprompter/walkthrough/W09-03.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W09-03.txt)
 
 **Show:**
 
@@ -1880,7 +1880,7 @@ Verify each owner route, Current/Preview spending and contribution flows, actual
 
 ### Chapter 4 — Handle a real change and a proposed response separately
 
-[Clean teleprompter take](teleprompter/walkthrough/W09-04.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W09-04.txt)
 
 **Show:**
 
@@ -1910,7 +1910,7 @@ Verify Income timing, event lifecycle, Saving and investing Current/Preview, sav
 
 ### Chapter 5 — Keep the next review usable
 
-[Clean teleprompter take](teleprompter/walkthrough/W09-05.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W09-05.txt)
 
 **Show:**
 
@@ -1936,11 +1936,11 @@ Actual saved review record and created calendar reminders; no calendar event inf
 
 Verify supported review/action fields and the actual reminder mechanism. Use an external calendar if the app has no scheduler. Final report/export behavior is checked in W10 chapter 5.
 
-## W10 — [Read, explain, and save the finished plan](scripts/working/W10_read-explain-and-save-the-finished-plan.md)
+## W10 — [Read, explain, and save the finished plan](../scripts/working/W10_read-explain-and-save-the-finished-plan.md)
 
 ### Chapter 1 — Read one coherent saved plan
 
-[Clean teleprompter take](teleprompter/walkthrough/W10-01.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W10-01.txt)
 
 **Show:**
 
@@ -1970,7 +1970,7 @@ Verify actual Your Plan report implementation, source/result identity, stale/pen
 
 ### Chapter 2 — Follow the important funding years
 
-[Clean teleprompter take](teleprompter/walkthrough/W10-02.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W10-02.txt)
 
 **Show:**
 
@@ -2000,7 +2000,7 @@ Verify year-level outputs, tax inclusion, withdrawal source attribution and poli
 
 ### Chapter 3 — Finish the plan and share only when useful
 
-[Clean teleprompter take](teleprompter/walkthrough/W10-03.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W10-03.txt)
 
 **Show:**
 
@@ -2028,7 +2028,7 @@ Verify the saved-plan action record, actual evidence and matching summary. A con
 
 ### Chapter 4 — Prepare the specific professional handoffs
 
-[Clean teleprompter take](teleprompter/walkthrough/W10-04.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W10-04.txt)
 
 **Show:**
 
@@ -2058,7 +2058,7 @@ Verify export content/privacy, intended recipient and actual question. A profess
 
 ### Chapter 5 — Save the operating plan and implementation record
 
-[Clean teleprompter take](teleprompter/walkthrough/W10-05.txt)
+[Clean teleprompter take](../teleprompter/walkthrough/W10-05.txt)
 
 **Show:**
 
